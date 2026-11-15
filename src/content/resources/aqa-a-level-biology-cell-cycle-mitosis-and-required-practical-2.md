@@ -67,6 +67,12 @@ Eukaryotic cells that **do** keep the ability to divide go through a repeating *
 Because DNA is copied by semi-conservative replication during interphase and each daughter cell receives one
 chromatid of every chromosome, the two daughter cells have **identical copies of the DNA** of the parent cell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--01-cell-cycle.webp" width="900" height="1150" alt="Ring diagram of the eukaryotic cell cycle with a long interphase arc, a shorter mitosis arc and a short cytokinesis arc. No-entry symbols show cancer drugs stopping DNA replication in interphase and stopping spindle fibre formation in mitosis." loading="lazy">
+  <figcaption>The cell cycle: interphase, mitosis, then cytokinesis, with the two points where cancer drugs act.</figcaption>
+</figure>
+
+
 ## What happens in each stage of mitosis?
 
 | Stage | Behaviour of chromosomes | What you see under the microscope |
@@ -80,6 +86,17 @@ chromatid of every chromosome, the two daughter cells have **identical copies of
 
 The V shape in anaphase is a favourite exam point: the spindle fibre pulls on the centromere, so the arms of each
 chromatid trail behind. After separation, each chromatid is called a chromosome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--02-mitosis-stages.webp" width="900" height="1285" alt="Six small cell diagrams in a grid showing interphase, prophase, metaphase, anaphase, telophase and cytokinesis. Chromosomes are shown condensing, lining up at the equator, being pulled apart as V shapes, and ending in two nuclei and then two cells." loading="lazy">
+  <figcaption>The stages of mitosis and cytokinesis, drawn with four chromosomes for clarity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--03-chromatid-v-shape.webp" width="900" height="980" alt="Three rows show a single chromosome, then the same chromosome after replication as two sister chromatids joined at a centromere, then an anaphase chromatid being pulled by a spindle fibre attached at the centromere with its arm trailing, giving a V shape." loading="lazy">
+  <figcaption>A replicated chromosome is two sister chromatids; in anaphase the spindle fibre pulls the centromere first, giving V shapes.</figcaption>
+</figure>
+
 
 ## Why is uncontrolled mitosis linked to cancer?
 
@@ -102,6 +119,12 @@ Prokaryotic cells divide by **binary fission**:
 
 Binary fission involves no spindle and no stages like those of mitosis, because there is no nucleus and only one
 chromosome.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--07-binary-fission.webp" width="900" height="1036" alt="Four rows show a bacterium with a circular chromosome and plasmids, then replication of both, then the cell pinching in the middle, then two daughter cells each with one circular DNA and different numbers of plasmids." loading="lazy">
+  <figcaption>Binary fission: DNA and plasmids replicate, the cytoplasm divides, and each daughter gets one circular DNA but a variable number of plasmids.</figcaption>
+</figure>
+
 
 ## How do viruses replicate if they do not divide?
 
@@ -151,6 +174,12 @@ hours** to 2 significant figures. Using the same sample, metaphase lasts 7 / 200
 A higher mitotic index means more cells are dividing, so the tissue is growing faster. Tissue near the very tip of a
 root gives a higher index than tissue further back.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--04-mitotic-index.webp" width="900" height="1185" alt="A 20 by 10 grid of 200 dots with 34 coloured dots for cells in mitosis and 166 pale dots for interphase. Below it the calculation 34 divided by 200 equals 0.17, and a 24 hour bar showing 4.08 hours in mitosis and 0.84 hours in metaphase." loading="lazy">
+  <figcaption>Worked example: 34 of 200 cells in mitosis gives a mitotic index of 0.17; the same proportions give the time spent in each stage.</figcaption>
+</figure>
+
+
 ### How do you calculate the actual size of a cell?
 
 The specification gives the formula (MS 1.8):
@@ -165,6 +194,17 @@ actual size = size of image / magnification
 - 0.06 mm x 1000 = **60 micrometres**
 
 Always convert to the unit the question asks for: 1 mm = 1000 micrometres.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--05-root-tip-squash.webp" width="900" height="1166" alt="Five numbered steps with simple icons: a root tip being cut, a beaker of warm acid, a dropper adding stain, a slide with a cover slip being pressed, and a microscope. Short labels give the purpose of each step and a safety box mentions eye protection and gloves." loading="lazy">
+  <figcaption>The five stages of required practical 2: cut, acid, stain, squash and view.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--06-actual-size.webp" width="900" height="930" alt="A magnified cell with a 24 millimetre measurement line, an arrow showing division by 400, and the result 0.06 millimetres which equals 60 micrometres." loading="lazy">
+  <figcaption>Worked example 3: 24 mm image at x400 is 0.06 mm, or 60 micrometres, in real life.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

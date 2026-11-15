@@ -37,6 +37,27 @@ Full explanation: [B.1 Computational thinking study guide](/resources/ib-dp-comp
 | Paper 2 | SL 1 h 15 min (35%); HL 2 h (40%); some questions need programming, in Java or Python |
 | Internal assessment | Computational solution to a real-world problem of the student's choosing; 35 hours; 30% SL, 20% HL |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--01-b1-four-part-process.webp" width="900" height="980" alt="The four parts of the process are specify, decompose, abstract and generalize, and test and evaluate. Success criteria set at the start are what testing checks at the end, and evaluation can send you back to an earlier step." loading="lazy">
+  <figcaption>The computational thinking process: four steps in order, with success criteria and an improvement loop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--02-b1-teaching-hours.webp" width="900" height="850" alt="B.1 has 5 recommended teaching hours at both SL and HL. B.2 has 40 and 42, B.3 has 7 and 23, and B.4 has 0 and 23. B.1 is small because it is a way of working applied in the other sub-topics." loading="lazy">
+  <figcaption>Recommended teaching hours at SL and HL for B.1 to B.4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--03-b1-assessment-weights.webp" width="900" height="930" alt="Paper 2 on Theme B is 1 hour 15 minutes and 35 percent at SL, and 2 hours and 40 percent at HL. The computational solution (internal assessment) has 35 hours of teaching time and is worth 30 percent at SL and 20 percent at HL." loading="lazy">
+  <figcaption>Weights of Paper 2 and the computational solution at SL and HL.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--05-b1-process-everywhere.webp" width="900" height="900" alt="The computational thinking process is used in B.2 Programming, B.3 OOP, B.4 Abstract data types (HL only) and the computational solution. The brief says the whole course is underpinned by the process." loading="lazy">
+  <figcaption>One process sits behind every other part of Theme B and the internal assessment.</figcaption>
+</figure>
+
+
 ## The four abilities (brief's wording)
 
 | Ability | In the brief | What to be able to do |
@@ -66,6 +87,12 @@ Problem: a school club wants to know which members have not paid their subscript
 - Treating decomposition and abstraction as the same thing: decomposition splits a problem up; abstraction removes detail that does not matter.
 - Testing a solution without referring back to the success criteria set when the problem was specified.
 - Learning B.1 as definitions only. The brief describes it as a process applied throughout the course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--04-b1-success-criteria.webp" width="900" height="960" alt="A vague aim cannot be tested, but a measurable success criterion can. In this illustrative example a total of 9.75 is expected for three prices. Version 1 fails the test with 9.00, and after evaluating and fixing, Version 2 passes." loading="lazy">
+  <figcaption>A testable success criterion lets a test pass or fail (illustrative example).</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

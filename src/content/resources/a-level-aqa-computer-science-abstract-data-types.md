@@ -120,6 +120,12 @@ queue in the same state would have reported full.
 
 Before **adding**, test for full; before **removing**, test for empty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--01-queue-circular.webp" width="900" height="1100" alt="Five-slot circular queue in four states: full (front 0, rear 4); A removed (front 1, size 4); K added with rear = (4 + 1) MOD 5 = 0 so it reuses slot 0; and a linear queue in the same state reporting full although slot 0 is free." loading="lazy">
+  <figcaption>A circular queue wraps the rear round with MOD so freed slots are reused, where a linear queue would report full.</figcaption>
+</figure>
+
+
 ## Stack operations (4.2.3)
 
 A **stack** is last in, first out (LIFO), with a **top** pointer.
@@ -133,6 +139,12 @@ A **stack** is last in, first out (LIFO), with a **top** pointer.
 
 Typical uses are storing return addresses when subroutines are called,
 undo features, and reversing the order of items.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--02-stack-lifo.webp" width="900" height="830" alt="Three views of a five-slot stack with a top pointer: after pushing A, B and C (top is index 2); peek returns C and leaves the stack unchanged; pop returns C and the top moves down to B. Full is tested before a push and empty before a pop." loading="lazy">
+  <figcaption>Push and pop work at the top; peek returns the top item without removing it.</figcaption>
+</figure>
+
 
 ## Graphs and how to represent them (4.2.4)
 
@@ -154,6 +166,12 @@ needed).
 | Testing whether an edge exists | Immediate — look up one cell | Must search the vertex's list |
 | Best for | Dense graphs with many edges | Sparse graphs with few edges |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--03-graph-matrix-list.webp" width="900" height="890" alt="An illustrative weighted undirected graph with four vertices is stored two ways. The adjacency matrix is a 4 by 4 grid of 16 cells holding weights or dashes. The adjacency list gives each vertex only its neighbours, 8 entries in total. The edge A-B is highlighted in each form." loading="lazy">
+  <figcaption>The same graph as an adjacency matrix (n x n cells) and as an adjacency list (only existing edges).</figcaption>
+</figure>
+
+
 ## Trees, binary trees and binary search trees (4.2.5)
 
 A **tree** is a **connected, undirected graph with no cycles**; it does
@@ -167,6 +185,17 @@ search can discard half of the remaining tree at each step when it is
 balanced. Rooted trees are also used for hierarchies such as folder
 structures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--04-tree-definition.webp" width="900" height="900" alt="Three small graphs: one with a cycle and one that is not connected, neither of which is a tree, and a connected graph with no cycles, which is a tree. A tree has no root until one vertex is chosen; the rooted tree has a root with no parent and, if every node has at most two children, is a binary tree." loading="lazy">
+  <figcaption>A tree is a connected, undirected graph with no cycles; choosing a root gives a rooted tree, and at most two children per node makes it binary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--05-bst-search.webp" width="900" height="890" alt="A balanced binary search tree with root 50. Searching for 60 takes three steps: 60 is greater than 50 so go right, 60 is less than 70 so go left, 60 equals 60 so it is found. Nodes never visited are drawn dashed. Values are illustrative." loading="lazy">
+  <figcaption>Searching a balanced binary search tree discards about half of the remaining nodes at each step.</figcaption>
+</figure>
+
+
 ## Hash tables and collisions (4.2.6)
 
 A **hash table** maps **keys to values**. A **hashing algorithm** turns
@@ -179,6 +208,12 @@ trying the next free slot.
 1. Key 45 → 45 MOD 11 = 1, a collision, so rehash to slot 2. Key 34 →
 slot 1, taken; slot 2, taken; stored in slot 3. To look up 34 later, the
 same sequence is followed until 34 or an empty slot is found.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--06-hash-table.webp" width="900" height="1050" alt="An 11-slot hash table. Key 23 goes to slot 1. Key 45 also hashes to slot 1, which is taken, so it is stored in slot 2. Key 34 hashes to slot 1, then slot 2 is taken too, so it goes in slot 3. Looking up 34 follows the same tries until the key is found." loading="lazy">
+  <figcaption>Colliding keys are rehashed to the next free slot, and a lookup follows the same sequence.</figcaption>
+</figure>
+
 
 ## Dictionaries (4.2.7)
 
@@ -208,6 +243,12 @@ the origin to a point.
 
 **Worked example.** u = [3, 4], v = [4, 3]. u · v = 12 + 12 = 24. Each
 has length 5, so cos θ = 24 ÷ (5 × 5) = 0.96 and θ ≈ 16.3°.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-computer-science-abstract-data-types--07-vector-angle.webp" width="900" height="790" alt="A grid with two arrows from the origin, u = [3, 4] and v = [4, 3], and the small angle theta between them. The dot product is 24, each vector has length 5, so cos theta = 24 divided by 25 = 0.96 and theta is about 16.3 degrees." loading="lazy">
+  <figcaption>The dot product gives the angle between two vectors: cos theta = 24 / 25 = 0.96, so theta is about 16.3 degrees.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -72,6 +72,32 @@ Energy not passed on from the producers = 20 000 - 2 000 = 18 000 kJ m-2 yr-1, w
 
 Unlike energy, nutrients are recycled. Decomposers release nutrients from dead matter, which plants take up again through their roots. Learn the carbon cycle (photosynthesis removes carbon dioxide, respiration, combustion and decay return it) and be ready to link it to climate change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--08-eco-habitat-population-community.webp" width="900" height="930" alt="An ecosystem box contains a habitat oval holding three populations of different species; together they make a community. Abiotic factors (light, temperature, water, soil) are shown below with arrows showing they interact with the living part." loading="lazy">
+  <figcaption>An ecosystem is the community of living things plus the non-living environment they interact with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--09-eco-food-chain-energy-arrows.webp" width="900" height="940" alt="A four-step food chain with arrows pointing from food to eater, labelled producer, primary, secondary and tertiary consumer. All send dead material to decomposers, which return nutrients to the soil for roots to take up. A small panel contrasts the correct arrow direction with the wrong one." loading="lazy">
+  <figcaption>Food-chain arrows point in the direction of energy flow, towards the eater.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--10-eco-energy-transfer-pond.webp" width="900" height="800" alt="Bars to scale show 20,000, 2,000 and 240 kJ per square metre per year in producers and two consumer levels, with 10% and 12% passed on and 18,000 kJ (90%) lost from the producers. Chips name where it goes: heat from respiration, uneaten parts and waste to decomposers." loading="lazy">
+  <figcaption>Only a small share of energy passes to the next trophic level; the rest is lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--11-eco-rainforest-layers.webp" width="900" height="860" alt="A rainforest cross-section labelled emergent, canopy, understorey and forest floor. Sunlight arrows are thick above the canopy and thin below it, so the dark floor has few plants." loading="lazy">
+  <figcaption>The canopy shades the forest floor, so few plants grow there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--12-eco-deforestation-flooding.webp" width="900" height="1010" alt="A forested slope with roots holding soil, vapour rising and slow runoff into a clear river is compared with the cleared slope: soil washed down, fast runoff, flooding downstream, less vapour and local rain, and more carbon dioxide." loading="lazy">
+  <figcaption>Clearing forest increases erosion and flooding and releases carbon dioxide.</figcaption>
+</figure>
+
+
 ## 5.2 Forest ecosystems
 
 Forests, especially tropical rainforest, are very productive and hold a large share of the world's species. Know the layers of a rainforest (emergent, canopy, understorey, forest floor) and why the canopy shades the floor, so few plants grow there.
@@ -127,6 +153,17 @@ For mobile animals, 40 beetles are caught, marked and released. A later sample o
 Population estimate = (first sample x second sample) / number recaptured = (40 x 30) / 6 = **200 beetles**.
 
 The method assumes the marked beetles mix evenly, no marked animals are lost or gained, and the marking does not harm them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--13-eco-quadrat-sampling.webp" width="900" height="900" alt="Ten 1 square metre quadrats at random positions in a 400 square metre meadow hold 4, 7, 3, 6, 5, 9, 2, 4, 8 and 6 daisies. Total 54, mean 5.4 per square metre, estimate 5.4 times 400 equals 2,160." loading="lazy">
+  <figcaption>Sample means scaled up by area give a population estimate; more quadrats make it more reliable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--14-eco-capture-mark-recapture.webp" width="900" height="1090" alt="Forty beetles are caught and marked; a later sample of 30 has 6 marked, so 1 in 5. Five blocks of 40 give 200 beetles, which matches 40 times 30 divided by 6. The assumptions are even mixing, no losses or gains, and harmless marking." loading="lazy">
+  <figcaption>The marked share in a second sample scales the first catch up to the population.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

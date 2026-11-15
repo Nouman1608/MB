@@ -93,6 +93,12 @@ This distinction — same molecular formula, different number of
 carbon-13 peaks — is exactly why carbon-13 NMR is useful for distinguishing
 structural isomers that other techniques might not separate cleanly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--12-nmr-c13-environments.webp" width="900" height="1030" alt="Propan-1-ol has three different carbon environments and gives 3 peaks; propan-2-ol has two equivalent CH3 carbons and a central carbon, giving 2 peaks." loading="lazy">
+  <figcaption>Peaks count environments, not carbon atoms: symmetry makes propan-2-ol give only two.</figcaption>
+</figure>
+
+
 ## Proton (¹H) NMR
 
 Proton NMR gives more information again, because it reports not just how
@@ -153,6 +159,17 @@ each neighbouring carbon — together usually enough to piece together the
 full structure, especially combined with the molecular formula from mass
 spectrometry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--13-nmr-proton-clues.webp" width="900" height="1000" alt="The predicted ethanol spectrum: triplet area 3, quartet area 2 and broad singlet area 1, with the four clues of peaks, shift, area and splitting." loading="lazy">
+  <figcaption>Each feature of the spectrum answers a different question about the molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--14-nmr-n-plus-1.webp" width="900" height="920" alt="Counting neighbouring protons on ethanol and the singlet, doublet, triplet and quartet patterns they give, with intensities from the binomial row." loading="lazy">
+  <figcaption>n neighbouring protons split a peak into n + 1 lines; the OH proton is not counted.</figcaption>
+</figure>
+
+
 ## Practical requirements
 
 **Tetramethylsilane (TMS)** is used as the standard reference for chemical
@@ -178,6 +195,22 @@ spectra: any peak that has **disappeared** in the second spectrum
 corresponds to an O–H or N–H proton, providing a reliable way to identify
 (and distinguish) these often broad, variable-shift peaks from ordinary
 C–H peaks, which do not exchange and remain unchanged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--15-nmr-tms.webp" width="900" height="830" alt="Tetramethylsilane has 12 equivalent protons giving one sharp peak defined as zero shift; it is unreactive and volatile." loading="lazy">
+  <figcaption>TMS gives one sharp reference peak at zero shift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--16-nmr-deuterated-solvent.webp" width="900" height="980" alt="An ordinary solvent gives a huge proton signal that swamps the sample; a deuterated solvent such as CDCl3 gives none." loading="lazy">
+  <figcaption>Deuterium is not detected in 1H NMR, so a deuterated solvent leaves the sample peaks visible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-nmr-spectroscopy-carbon-13-and-proton-nmr--17-nmr-d2o-exchange.webp" width="900" height="1030" alt="Ethanol spectra before and after shaking with D2O: the broad OH peak disappears and the C-H peaks remain." loading="lazy">
+  <figcaption>A peak that vanishes after D2O is an O-H or N-H proton.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

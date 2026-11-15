@@ -61,6 +61,12 @@ print(add_five(2))   # 7
 
 **Function composition** builds a new function by applying one function to the result of another. If f : A -> B and g : B -> C, then the composition g after f has type A -> C, and (g after f)(x) = g(f(x)). Order matters. With add3 and double, double after add3 applied to 4 gives double(7) = 14, but add3 after double applied to 4 gives add3(8) = 11.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--14-composition-order.webp" width="900" height="720" alt="Starting from 4, double after add3 runs add3 to get 7, then double to get 14. Add3 after double runs double to get 8, then add3 to get 11. In g after f, f runs first." loading="lazy">
+  <figcaption>Composition order changes the answer: 14 for double after add3, 11 for add3 after double.</figcaption>
+</figure>
+
+
 ## Higher-order functions: map, filter, fold
 
 - **Map** applies a function to every item and returns a list of the results, in the same order and of the same length. map (double) [3, 8, 5, 12, 7] gives [6, 16, 10, 24, 14].
@@ -68,6 +74,17 @@ print(add_five(2))   # 7
 - **Fold** (also called reduce) combines all items into one value using a function and a starting value. A **left fold** works from the start of the list: it applies the function to the starting value and the first item, then to that result and the second item, and so on. Folding with + and a start of 0 sums a list: 3 + 8 + 5 + 12 + 7 = 35.
 
 For an operation that is not commutative the direction matters. Folding subtraction over [10, 3, 2] from 0 from the left gives ((0 - 10) - 3) - 2 = -15, but from the right it gives 10 - (3 - (2 - 0)) = 9.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--12-map-filter-fold.webp" width="900" height="1010" alt="The list [3, 8, 5, 12, 7] goes through three functions. Map with double gives [6, 16, 10, 24, 14]. Filter for even numbers keeps 8 and 12. Fold with plus from 0 builds the running total 3, 11, 16, 28, 35 and returns 35." loading="lazy">
+  <figcaption>Map keeps the length, filter shortens the list, fold combines it into one value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--13-fold-direction.webp" width="900" height="920" alt="Folding subtraction over [10, 3, 2] from 0: a left fold gives -10, -13, -15; a right fold gives 2, 1, 9. Subtraction is not commutative, so direction matters." loading="lazy">
+  <figcaption>A left fold gives -15 and a right fold gives 9 for the same list and operation.</figcaption>
+</figure>
+
 
 ## Lists
 
@@ -103,6 +120,12 @@ print(result)   # 282
 
 The result is 282, and the original list is unchanged. Each stage is a separate expression that can be tested alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--15-filter-map-fold-pipeline.webp" width="900" height="900" alt="From [3, 8, 5, 12, 7], filter keeping numbers above 4 gives [8, 5, 12, 7], map square gives [64, 25, 144, 49], and fold with plus from 0 gives 282. The original list is unchanged." loading="lazy">
+  <figcaption>Filter, map and fold chain to give 282, leaving the original list unchanged.</figcaption>
+</figure>
+
+
 ## Worked example 2: tracing a recursive map
 
 Define map recursively as: map(f, empty) = empty; map(f, list) = cons(f(head), map(f, tail)). Trace map(double, [3, 8, 5]).
@@ -113,6 +136,12 @@ Define map recursively as: map(f, empty) = empty; map(f, list) = cons(f(head), m
 4. map(double, []) = [] (base case)
 
 Unwinding: cons(10, []) = [10]; cons(16, [10]) = [16, 10]; cons(6, [16, 10]) = [6, 16, 10]. The result is [6, 16, 10], the doubled items in order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--16-recursive-map-trace.webp" width="900" height="800" alt="Going down, map calls itself on the tail until the empty list, the base case. Coming back up, cons(10, []) = [10], cons(16, [10]) = [16, 10] and cons(6, [16, 10]) = [6, 16, 10]." loading="lazy">
+  <figcaption>A recursive map works down to the empty list then builds the answer back up.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

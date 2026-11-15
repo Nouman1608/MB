@@ -56,6 +56,12 @@ The syllabus names these threats:
 
 Data is also at risk from accidents, such as accidental deletion, hardware failure, fire or power loss, which is why backup procedures matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--08-si-phishing-pharming.webp" width="900" height="860" alt="Two rows. Phishing: a fake email reaches the user, who clicks the link and lands on a fake website. Pharming: the user types the correct address but a tampered DNS record or malicious code sends them to the fake website." loading="lazy">
+  <figcaption>Phishing tricks the user into a click; pharming redirects them even from the correct address.</figcaption>
+</figure>
+
+
 ### What security measures protect computer systems and data?
 
 Match the measure to the threat and say how it helps.
@@ -69,6 +75,17 @@ Match the measure to the threat and say how it helps.
 - **Backups**: regular copies stored in a different place allow recovery after loss. A backup stored beside the original is lost in the same fire.
 
 These range from a stand-alone PC (password, anti-virus, encryption of the disk) to a network of computers (user accounts with access rights managed centrally, a firewall at the network boundary).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--07-si-three-terms.webp" width="900" height="740" alt="Three cards. Security (padlock): protection from loss, damage and unauthorised access. Privacy (person with key): personal data kept confidential and under the person’s control. Integrity (document with tick): accurate, complete, consistent and not changed in error." loading="lazy">
+  <figcaption>Security, privacy and integrity answer three different questions about data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--09-si-measures.webp" width="900" height="900" alt="Threats on the left are joined to measures on the right: a hacker to a firewall and to passwords and access rights; a virus to anti-virus; spyware to anti-spyware; a stolen laptop or intercepted message to encryption; fire or hardware failure to a backup in a different place." loading="lazy">
+  <figcaption>Name the threat, then the measure, then how it helps.</figcaption>
+</figure>
+
 
 ## Data integrity: validation and verification
 
@@ -92,6 +109,12 @@ Data integrity means that data is accurate, complete and consistent. A computer 
 
 The value 31 passes a range check for day of month yet is still wrong for February. That is the reason validation is not enough on its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--10-si-validation-checks.webp" width="900" height="995" alt="Six entries are run through presence, type and range checks. The empty entry fails presence, A5 fails type, 13 and 0 fail range, and 7 and 12 are accepted. A note says 30 February passes a range check for day but is still wrong." loading="lazy">
+  <figcaption>Validation shows data is sensible, not that it is correct.</figcaption>
+</figure>
+
+
 ### Verification
 
 **Verification** checks that data has been copied or entered accurately. During data entry the two usual methods are a **visual check** (the user reads the screen against the source) and **double entry** (the data is typed twice and the two entries compared). During data transfer you can use a **parity check** or a **checksum**.
@@ -101,6 +124,12 @@ The value 31 passes a range check for day of month yet is still wrong for Februa
 A parity bit is added so the number of 1s in the group is always even (even parity) or always odd (odd parity). The receiver counts the 1s and, if the parity is wrong, requests the data again. A **parity block** check adds a parity bit to each row and to each column of a block of bytes, so a single changed bit can be located at the crossing of the failing row and column and then corrected.
 
 A **checksum** is calculated from the data by an agreed method and sent with it. The receiver recalculates it; a different result means the data changed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--13-si-parity-block.webp" width="900" height="850" alt="An illustrative block of four bytes with row parity bits and a column parity row. One bit in the second row is flipped. Only that row and the fifth column fail their parity checks, and they cross at the wrong bit, which can be flipped back." loading="lazy">
+  <figcaption>A parity block check locates a single wrong bit at the crossing of the failing row and column.</figcaption>
+</figure>
+
 
 ## Worked example 1: a check digit
 
@@ -112,6 +141,12 @@ A library gives each member a 7-digit number followed by a modulus 11 check digi
 4. Check digit = 11 - 8 = 3.
 
 The full number is 48291633. To validate an entry, recompute the check digit from its first seven digits and compare it with the eighth. If someone types 42891633 (second and third digits swapped), the weighted sum of 4289163 is 32 + 14 + 48 + 45 + 4 + 18 + 6 = 167, the remainder is 2, the check digit should be 9, and the typed 3 does not match, so the entry is rejected. A check digit is good at detecting single wrong digits and transposed neighbours, but it does not prove that the number belongs to a real member.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--11-si-check-digit.webp" width="900" height="1010" alt="Member number 4829163 with weights 8 to 2 gives products 32, 56, 12, 45, 4, 18, 6, sum 173, remainder 8, check digit 3 (48291633). A typed 42891633 gives products 32, 14, 48, 45, 4, 18, 6, sum 167, remainder 2, expected digit 9, so the typed 3 is rejected." loading="lazy">
+  <figcaption>The check digit 3 is computed from a weighted sum; a transposed entry fails the check.</figcaption>
+</figure>
+
 
 ## Worked example 2: parity
 
@@ -145,6 +180,12 @@ FUNCTION ValidMonth(Entry : STRING) RETURNS BOOLEAN
   RETURN LENGTH(Entry) = 2 AND Entry >= "01" AND Entry <= "12"
 ENDFUNCTION
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--12-si-parity.webp" width="900" height="810" alt="Data bits 1011001 contain four 1s so the even parity bit is 0 and the byte is 10110010. One flipped bit gives five 1s and is detected. Two flipped bits give four 1s and are missed." loading="lazy">
+  <figcaption>Parity detects an odd number of changed bits but not an even number.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

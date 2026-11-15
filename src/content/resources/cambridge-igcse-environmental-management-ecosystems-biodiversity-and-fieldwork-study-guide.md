@@ -56,6 +56,27 @@ Energy enters an ecosystem as sunlight and is passed along a chain, but only a s
 
 Nutrients, unlike energy, are recycled. Decomposers return them to the soil, where plants absorb them again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--01-e-food-web.webp" width="900" height="900" alt="A food web with grass as the producer, rabbits and grasshoppers as primary consumers, and frogs and foxes as secondary consumers. Arrows point from food to eater. Decomposers return nutrients from dead material to the soil. The organisms are illustrative." loading="lazy">
+  <figcaption>Arrows point from the food to the eater; decomposers act on dead material from every level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--02-e-energy-pyramid.webp" width="900" height="760" alt="An energy pyramid drawn to scale. Grass captures 24,000 kJ per square metre per year, primary consumers receive 10 per cent (2,400 kJ) and secondary consumers 10 per cent of that (240 kJ), which is 1 per cent of the original. Losses of 21,600 kJ and 2,160 kJ are shown leaving as heat." loading="lazy">
+  <figcaption>Each step passes on only about 10 per cent, so the top bar is a sliver.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--03-e-energy-nutrients.webp" width="900" height="900" alt="A loop of four boxes shows nutrients cycling from soil to plants to animals to decomposers and back to the soil. Sunlight enters at the plants and heat leaves from plants, animals and decomposers, so energy flows one way through the ecosystem and is lost as heat." loading="lazy">
+  <figcaption>Nutrients are recycled; energy flows through and is lost as heat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--04-e-rainforest-layers.webp" width="900" height="900" alt="A rainforest cross-section with emergent trees, canopy, understorey and forest floor above leaf litter and thin soil. Gold dots mark the nutrient store: most are in the living plants and leaf litter and only a couple are in the thin soil." loading="lazy">
+  <figcaption>Most nutrients sit in living vegetation and leaf litter, not in the thin soil.</figcaption>
+</figure>
+
+
 ## Forest ecosystems
 
 Tropical rainforests have high rainfall, steady warm temperatures and very high biodiversity. They are layered into emergent trees, canopy, understorey and forest floor, and most of the nutrients are held in the living vegetation and the leaf litter rather than in the soil, which is often thin. When the trees are cleared, the nutrients are quickly lost and the soil can erode, so forest does not recover easily.
@@ -66,6 +87,12 @@ Tropical rainforests have high rainfall, steady warm temperatures and very high 
 - Commercial logging for timber and paper.
 - Mining, road building and settlement.
 - Collection of fuelwood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--05-e-deforestation-slope.webp" width="900" height="940" alt="Two slopes. With forest, leaves catch rain, roots hold soil, runoff is small and the river stays in its channel. When cleared, rain hits bare soil, runoff is fast, soil is washed into the river and the river floods." loading="lazy">
+  <figcaption>Without trees, rain runs off quickly, carries soil away and floods the river.</figcaption>
+</figure>
+
 
 ### Impacts
 
@@ -102,6 +129,12 @@ You cannot count every organism, so you sample. A **quadrat** is a square frame 
 
 Variables should be controlled where possible, and abiotic factors such as light, soil moisture and temperature can be measured with a light meter, moisture meter and thermometer. Repeat readings and calculate means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--07-e-transect-random.webp" width="900" height="900" alt="Top: a transect from the sea inland with quadrats at equal gaps along a line, suited to gradually changing conditions. Bottom: a field with quadrats at random positions to avoid bias in where they are placed." loading="lazy">
+  <figcaption>Use a transect for a gradient and random positions to avoid bias.</figcaption>
+</figure>
+
+
 ### Evaluation
 
 Typical weaknesses are too few samples, bias in placing quadrats, a single visit that misses seasonal change, and measurement error. Improvements follow directly: more samples, random number tables for placing quadrats, repeats at different times, and calibrated equipment. Safety and ethics also matter: avoid damaging habitats, and return organisms after counting.
@@ -115,6 +148,12 @@ A student places ten 1 m by 1 m quadrats randomly in a grassy field of 600 m squ
 3. Each quadrat is 1 m squared, so the field holds about 5 x 600 = 3,000 plants.
 
 State that this is an estimate; the range of counts, from 1 to 9, shows that the plants are unevenly spread, so a larger sample would improve the estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide--06-e-quadrat-estimate.webp" width="900" height="900" alt="Ten quadrats in a 600 square metre field contain 3, 8, 5, 6, 2, 7, 4, 5, 9 and 1 plants. The total is 50, the mean is 5 per quadrat, and 5 times 600 gives an estimate of 3,000 plants. The wide range shows the plants are unevenly spread." loading="lazy">
+  <figcaption>A sample mean scaled up to the whole field gives an estimate of 3,000 plants.</figcaption>
+</figure>
+
 
 ## Worked example 2: energy transfer
 

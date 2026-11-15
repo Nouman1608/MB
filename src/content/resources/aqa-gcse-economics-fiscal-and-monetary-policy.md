@@ -55,6 +55,12 @@ Fiscal policy uses two tools: **government spending** (on health, education, def
 
 **Expansionary** fiscal policy (more spending or lower taxes) raises demand. **Contractionary** fiscal policy (less spending or higher taxes) reduces it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--11-fiscal-levers.webp" width="900" height="900" alt="Two panels. Expansionary: raising government spending or cutting income tax raises demand, aiming at growth and lower unemployment. Contractionary: cutting government spending or raising taxes lowers demand, aiming at lower inflation and a smaller deficit." loading="lazy">
+  <figcaption>Expansionary fiscal policy raises demand; contractionary fiscal policy lowers it.</figcaption>
+</figure>
+
+
 ## How does fiscal policy help achieve the government's objectives?
 
 - **Unemployment and growth:** in a downturn, extra spending on projects such as roads creates jobs directly, and workers spend their wages, raising demand further.
@@ -82,10 +88,22 @@ Country F's government collects 860 billion units in revenue and spends 910 bill
 - In a downturn a deficit can support demand and jobs.
 - A long-running deficit may require future tax rises or spending cuts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--13-deficit-vs-debt.webp" width="900" height="970" alt="Three bars show yearly deficits of 50, 40 and 30 stacking into one column of national debt totalling 120. The deficit is one year; the debt is the total from past borrowing. Interest on debt is money not spent on services." loading="lazy">
+  <figcaption>The deficit is one year’s gap; the national debt is the total built up.</figcaption>
+</figure>
+
+
 ### Consequences of a surplus
 
 - The government can repay debt or save for the future.
 - But a surplus means taking more out of the economy in tax than is spent, which reduces demand and could slow growth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--12-budget-balance.webp" width="900" height="990" alt="Pairs of bars for revenue and spending in billion units. Balanced: equal. Surplus: revenue above spending (illustrative 910 and 860). Deficit: Country F revenue 860, spending 910, balance minus 50, which must be borrowed." loading="lazy">
+  <figcaption>A budget is balanced, in surplus or in deficit depending on revenue compared with spending.</figcaption>
+</figure>
+
 
 ## What is monetary policy?
 
@@ -101,6 +119,12 @@ If inflation is above target, the Bank of England can **raise interest rates**:
 4. Total spending falls, so there is less upward pressure on prices and inflation slows.
 
 If inflation is low and the economy is weak, the Bank can **cut interest rates** to encourage borrowing and spending.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--14-interest-rate-chain.webp" width="900" height="990" alt="Flow chart. Bank Rate is raised. Three effects: fewer loans and dearer mortgages, saving pays more, firms invest less. Total spending falls, so inflation slows. If inflation is low and the economy weak, cutting rates does the opposite." loading="lazy">
+  <figcaption>Higher interest rates reduce spending and so slow inflation.</figcaption>
+</figure>
+
 
 ## How can monetary policy help other objectives?
 
@@ -120,6 +144,12 @@ The same tool can help one objective and harm another. Raising rates to control 
 | Main risk | Higher borrowing and debt | Hurts borrowers; may not work if confidence is low |
 
 In evaluation, say which policy suits the situation. For example, a targeted spending programme may help a region with high unemployment, while an interest-rate rise is a faster way to cool inflation across the whole economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--15-fiscal-vs-monetary.webp" width="900" height="1020" alt="Two columns. Fiscal policy: decided by the government, uses taxes and spending, can target groups or regions, slow to change. Monetary policy: decided by the Bank of England, uses interest rates, affects everyone who borrows or saves, quick to change though effects take time." loading="lazy">
+  <figcaption>The two policies differ in who decides, tools, reach and speed.</figcaption>
+</figure>
+
 
 ## Common errors
 

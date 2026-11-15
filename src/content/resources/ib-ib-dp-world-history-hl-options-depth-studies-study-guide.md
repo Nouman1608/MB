@@ -52,6 +52,12 @@ Because the section titles and the periods differ by region, use this guide for 
 
 **Significance and change.** You are expected to say what changed, what stayed the same, why, and how much it mattered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
+
 ## The four regions
 
 ### History of Africa and the Middle East
@@ -70,6 +76,12 @@ Themes may include imperial influence, modernisation, nationalism, revolution, t
 
 Themes include the political and social effects of revolution and reform, nationalism and the creation of states, industrial change, ideologies and conflict. Questions often invite assessment of long-term against short-term causes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--16-hl-regions.webp" width="900" height="1108" alt="Four cards, one for each regional option, each with theme chips taken from the study guide. Africa and the Middle East: external powers, nationalism, state formation, economic change, religion and trade. The Americas: colonial and national development, reform and political change, economic growth and inequality, social movements, relations between states. Asia and Oceania: imperial influence, modernisation, nationalism, revolution, ideology, effects of war. Europe: revolution and reform, nationalism and creation of states, industrial change, ideologies, conflict." loading="lazy">
+  <figcaption>Typical themes by region; follow your teacher’s list.</figcaption>
+</figure>
+
+
 ## Skills Paper 3 rewards
 
 **Selection.** Choose evidence that supports the argument. A deliberate selection of five or six well-developed examples is stronger than a long list.
@@ -79,6 +91,17 @@ Themes include the political and social effects of revolution and reform, nation
 **Historiography.** Show awareness that historians disagree, where this is relevant and where you are certain of the view and its author. If you cannot recall the name accurately, describe the position without attributing it.
 
 **Evaluation of significance.** Distinguish causes by importance, and identify which factors were necessary and which were sufficient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--17-hl-selection.webp" width="900" height="710" alt="Two essay pages side by side. The left page is filled with many thin lines, a long list of facts, marked with a cross: description. The right page has five thick, developed examples, each a heading with supporting lines, marked with a tick: analysis and argument. The guide says a deliberate selection of five or six well-developed examples is stronger than a long list. The number of lines is illustrative." loading="lazy">
+  <figcaption>A few developed examples beat a long list.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--18-hl-necessary.webp" width="900" height="880" alt="Two Venn-style pictures. Necessary: the result sits inside the circle of cause X being present, because the cause had to be present. Sufficient: the circle of cause Y sits inside the circle of the result, because the cause was enough on its own to produce it. Distinguishing causes by importance, and saying which were necessary and which sufficient, strengthens evaluation." loading="lazy">
+  <figcaption>Necessary: had to be present. Sufficient: enough on its own.</figcaption>
+</figure>
+
 
 ## Worked example: allocating time and marks
 
@@ -99,6 +122,17 @@ Suppose a Paper 3 question asks: "To what extent was external pressure the main 
 - Check: 5 + 5 + 30 + 5 = 45 minutes, leaving 5 minutes for review and for adding detail.
 
 **Mark logic:** each Paper 3 essay is marked out of 15 using the same five holistic markbands as Paper 2, which reward focus on the question, accurate and relevant knowledge, analysis, evaluation of perspectives and a reasoned conclusion. A response that stays on the question, uses accurate examples and reaches a sustained judgement will gain more marks than a response with more detail and no judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--14-hl-time.webp" width="900" height="790" alt="Two bars. The top bar is the whole 150-minute paper split into three essays of 50 minutes each. The lower bar zooms in on one 50-minute essay: plan 5 minutes, introduction 5, three body paragraphs of 10 minutes each, conclusion 5, and 5 minutes to review. Plan, introduction, three body paragraphs and conclusion add up to 45 minutes. Three essays at 15 marks each make 45 marks, so about 3.3 minutes per mark." loading="lazy">
+  <figcaption>Fifty minutes per essay: 5 + 5 + 30 + 5 = 45, plus 5 to review.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--15-hl-argument.webp" width="900" height="870" alt="A temple-shaped plan for the question: to what extent was external pressure the main cause of political change? The roof is the thesis: external pressure triggered change, but internal factors determined its form. Three pillars are the body paragraphs: external pressure such as wars, trade and foreign influence; internal weakness or reform movements; and economic and social change. The base is the conclusion, which weighs the three and justifies the main cause." loading="lazy">
+  <figcaption>A thesis, three themed paragraphs and a weighing conclusion.</figcaption>
+</figure>
+
 
 ## Revision strategy
 

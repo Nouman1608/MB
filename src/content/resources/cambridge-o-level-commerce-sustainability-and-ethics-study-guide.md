@@ -43,6 +43,12 @@ The syllabus defines the purpose of sustainability in the supply chain as **maki
 
 Businesses have commercial reasons to act, as well as moral ones. Many customers prefer to buy from responsible firms, using less energy and material cuts costs, governments increasingly regulate waste and emissions, and investors and lenders look at environmental records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--15-supply-chain-stages.webp" width="900" height="1050" alt="A cycle of six stages, extract raw materials, manufacture, package, transport, sell and dispose, surrounds future generations; every stage uses resources and creates waste." loading="lazy">
+  <figcaption>Sustainability means making every supply chain stage environmentally responsible for future generations.</figcaption>
+</figure>
+
+
 ## Which actions improve sustainability? (6.1.2)
 
 The syllabus names nine actions. Learn each with an example, a benefit and a drawback.
@@ -59,6 +65,12 @@ The syllabus names nine actions. Learn each with an example, a benefit and a dra
 | Offering free repair services | Repairing clothing, phones or furniture | Longer product life; strong reputation | Staff and parts cost money; fewer repeat purchases |
 | Water stewardship | Reducing, reusing and treating water used in production | Lower water bills; protects local water supplies | Treatment equipment is expensive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--16-nine-sustainability-actions.webp" width="900" height="1090" alt="Nine tiles show the syllabus actions with an example each, such as recycled cotton, electric vans, refill stations and reuse of offcuts." loading="lazy">
+  <figcaption>The syllabus names nine actions that improve sustainability.</figcaption>
+</figure>
+
+
 ## What does ethics mean in commerce? (6.2.1)
 
 **Ethics** are moral principles about what is right and wrong. In commerce, ethical behaviour means acting fairly towards customers, workers, suppliers, the community and the environment, often going further than the law requires. Something can be legal and still unethical.
@@ -69,6 +81,22 @@ The syllabus names two **ethical issues**:
 
 - **Misleading advertising**: claims that are false or exaggerated, hidden charges, or images that make a product look better than it is. It may win sales in the short term but damages trust, leads to complaints and can result in legal action and fines.
 - **Harmful disposal of products**: dumping waste, unsafe disposal of chemicals or old electronics, or sending waste to places that cannot treat it safely. It may be cheaper, and is sometimes legal, but it harms the environment and the health of people living nearby.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--17-legal-vs-ethical.webp" width="900" height="840" alt="A two-circle diagram of Legal and Ethical: harmful disposal, sometimes legal, sits in the legal-only part; fair treatment of customers, workers and suppliers in the overlap; going further than the law in the ethical-only part." loading="lazy">
+  <figcaption>Something can be legal and still unethical, and ethics often goes further than the law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--18-fair-trade.webp" width="900" height="880" alt="An illustrative world price swings up and down while the fair trade price is flat; the retailer pays the producer a fair price and a premium goes to community projects such as schools and clean water." loading="lazy">
+  <figcaption>Fair trade gives producers a fair and stable price, with a premium that funds community projects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--21-misleading-advert.webp" width="900" height="890" alt="An advert claiming a jacket is 100% waterproof does not match a product that lets in rain; the consequences are lost trust, complaints, and legal action and fines." loading="lazy">
+  <figcaption>Misleading advertising may win sales but damages trust and can lead to legal action.</figcaption>
+</figure>
+
 
 ## Why do consumers need protection? (6.3)
 
@@ -92,6 +120,12 @@ Consumers need protection because:
 
 For the seller, dealing quickly and fairly with complaints protects its reputation and keeps customers loyal; a complaint handled badly can spread quickly on social media.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--19-complaint-ladder.webp" width="900" height="840" alt="A staircase of five buyer actions: keep evidence, complain to the seller, escalate to a manager or head office, contact a consumer organisation or regulator, and take legal action as a last resort." loading="lazy">
+  <figcaption>A buyer escalates a complaint step by step, with legal action only as a last resort.</figcaption>
+</figure>
+
+
 ## Worked example: applying Topic 6 to a business
 
 *An online clothing retailer finds that 30% of its orders are returned, mostly because the clothes do not fit. It also receives complaints that a jacket advertised as "100% waterproof" lets in rain.*
@@ -101,6 +135,12 @@ For the seller, dealing quickly and fairly with complaints protects its reputati
 - **Ethical issue**: the "100% waterproof" claim is misleading advertising. The retailer should correct the advert and stop the claim.
 - **Consumer protection**: customers with faulty jackets should be offered a refund or replacement; the retailer should record the complaints and fix the problem with the supplier.
 - **Evaluation**: these actions cost time and money, but cutting returns saves delivery costs, and honest advertising protects the retailer's reputation, so they are likely to be worthwhile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--20-returns-example.webp" width="900" height="920" alt="A hundred order squares with thirty returned, each return another delivery journey, and three actions to cut returns: size guides and photos, a resale marketplace and reusable return packaging." loading="lazy">
+  <figcaption>Returns of 30 percent add journeys and waste, so the retailer acts to reduce them.</figcaption>
+</figure>
+
 
 ## What are the common mistakes in Topic 6?
 

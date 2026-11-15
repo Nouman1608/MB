@@ -53,6 +53,17 @@ Know how to describe trends from graphs: state the overall direction, quote star
 
 Concepts useful here include the ecological footprint, which measures the productive land and water area needed to supply a population's consumption and absorb its waste, compared with biocapacity, the area available. When footprint exceeds biocapacity, there is an ecological deficit. Related ideas include the water footprint, carbon footprint and virtual water embedded in traded goods. Environmental Kuznets-style ideas suggest that environmental pressure may rise and then fall as economies develop, but evidence is mixed and you should evaluate rather than assume it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--01-res-drivers.webp" width="900" height="950" alt="Schematic showing population, income, technology and culture driving consumption of resources, which splits into food, water and energy with land and minerals as inputs. Total use equals people multiplied by use per person, and use per person is very unequal between countries." loading="lazy">
+  <figcaption>Four drivers shape how much food, water and energy people use.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--02-res-footprint.webp" width="900" height="970" alt="Bar chart for a fictional country: footprint 16 million global hectares against biocapacity 9 million, so the ecological deficit is 7 million and the footprint is 1.78 times biocapacity." loading="lazy">
+  <figcaption>When footprint exceeds biocapacity there is an ecological deficit.</figcaption>
+</figure>
+
+
 ## 10.2 Impacts of changing trends in resource consumption
 
 Rising consumption creates opportunities and pressures. Benefits include improved nutrition, health, comfort, industrial growth and development. Pressures include:
@@ -64,6 +75,22 @@ Rising consumption creates opportunities and pressures. Benefits include improve
 Resource security means reliable access to adequate, affordable and safe supplies. Countries have different security profiles. Some are resource-rich and export, others depend on imports, and some face shortages because of environment, infrastructure or conflict. The idea of a resource pressure on one place affecting another through trade and shared systems is important: for example a country can reduce domestic water stress by importing water-intensive food, effectively importing virtual water.
 
 Consider how supply risks arise. Concentrated production, transport chokepoints, political instability and extreme weather can all disrupt supplies. Depletion is another issue: reserves are the portion of a resource that can be extracted economically with present technology, and they change with price and technology. The reserves-to-production ratio estimates how long reserves would last at current output, but it is a simplification because reserves and consumption change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--03-res-reserves-production.webp" width="900" height="900" alt="Bar chart of an illustrative mineral. 360 Mt of reserves at 12 Mt a year lasts 30 years; adding 60 Mt of discoveries gives 35 years; production of 14 Mt gives 25.7 years. The ratio is a snapshot, not a forecast." loading="lazy">
+  <figcaption>The R/P ratio changes whenever reserves or production change, so it is not a forecast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--04-res-supply-risks.webp" width="900" height="940" alt="Schematic of an exporter, a narrowing transport route and an importer, with five numbered risks: concentrated production, transport chokepoint, political instability, extreme weather and depletion of reserves." loading="lazy">
+  <figcaption>Supply can be disrupted at the source, along the route or by depletion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--05-res-virtual-water.webp" width="900" height="830" alt="Schematic: water-intensive food moves from an exporter to a water-stressed importer, carrying the water used to grow it as virtual water, which eases water stress at home." loading="lazy">
+  <figcaption>A country can ease its own water stress by importing water-intensive food.</figcaption>
+</figure>
+
 
 ## 10.3 Resource stewardship
 
@@ -79,6 +106,17 @@ Approaches include:
 - International agreements and cooperation on shared resources, along with local community management.
 
 Evaluate stewardship by asking whether it is effective, affordable, fair and enforceable. Consider the rebound effect, where efficiency gains reduce cost and lead to more consumption. Consider equity: lower-income countries argue that their right to develop must be respected, while higher-income countries are responsible for most past consumption. Strong answers balance competing views and use clear criteria.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--06-res-linear-circular.webp" width="900" height="950" alt="Schematic comparing a linear take, make, use, dispose chain with a circular loop of reuse, repair, remanufacture and recycle that keeps materials in use and designs out waste." loading="lazy">
+  <figcaption>A circular economy keeps materials in use instead of ending in waste.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--07-res-rebound-effect.webp" width="900" height="870" alt="A loop showing efficiency gain, lower cost, more use and part of the saving lost, with an illustrative bar chart where an expected saving of 100 units becomes an actual saving of 60 after 40 units are lost to rebound." loading="lazy">
+  <figcaption>Cheaper efficiency can lead to more use, which offsets part of the saving.</figcaption>
+</figure>
+
 
 ## Worked examples
 

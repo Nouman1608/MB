@@ -45,6 +45,17 @@ Condensed for the final weeks. For the full explanation, use the
 - **Protein** — a chain of amino acids joined by **peptide** bonds, folded into a specific 3D shape. The **sequence** determines the shape, and the shape determines the function — enzymes and antibodies both rely on a precisely-shaped binding site that a wrong sequence would destroy.
 - **DNA** — two strands in a **double helix**, held by complementary base pairing: **A–T** and **C–G**, with the sequence of bases along one strand storing the genetic information that the cell reads to build proteins.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--15-bm-elements.webp" width="900" height="920" alt="A grid of elements for carbohydrates, lipids, proteins and DNA. All contain carbon, hydrogen and oxygen, lipids with much less oxygen; proteins add nitrogen and often sulfur; DNA adds nitrogen and phosphorus." loading="lazy">
+  <figcaption>Nitrogen separates proteins and DNA from carbohydrates and lipids.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--17-bm-glucose-polymers.webp" width="900" height="870" alt="Three schematic chains of glucose units: starch with a few branches stores energy in plants, glycogen with more branches stores energy in animals, and cellulose forms rigid plant cell walls." loading="lazy">
+  <figcaption>Starch, glycogen and cellulose are all made of glucose but arranged differently.</figcaption>
+</figure>
+
+
 ## Food tests — learn all four
 
 | Test for | Reagent | Method | Positive result |
@@ -61,6 +72,17 @@ Benedict's **must be heated**, in a water bath. Iodine, biuret and the emulsion 
 **Worked example — describing a procedure.** To test an unknown solution for starch: add a few drops of iodine solution directly to the sample at room temperature. A colour change from orange-brown to blue-black shows starch is present; no colour change shows it is absent.
 
 The brick-red endpoint is progressive — the more sugar, the further along the colour sequence, which lets Benedict's be used semi-quantitatively.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--18-bm-four-tests.webp" width="900" height="710" alt="Test tubes before and after: iodine orange-brown to blue-black for starch; Benedict’s blue to brick-red for glucose and maltose with heating at about 80 degrees; biuret blue to purple for protein; ethanol emulsion cloudy white for lipids. Only Benedict’s needs heating." loading="lazy">
+  <figcaption>Reagent, colour change and whether heating is needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--19-bm-reading-results.webp" width="900" height="790" alt="Four samples against four tests drawn as test tubes: A contains starch, B a reducing sugar, C protein and D lipid, with the positive tube in each row ringed." loading="lazy">
+  <figcaption>Working out which molecule is in each of samples A to D.</figcaption>
+</figure>
+
 
 ## Why each matters
 
@@ -82,6 +104,17 @@ See the [Biological Molecules study guide](/resources/biological-molecules/) for
 - "Brick-red" not "orange"; "blue-black" not "dark".
 - Forgetting biuret can be a single ready-made solution **or** sodium hydroxide followed by copper sulfate — either is creditable.
 - Assuming every food test needs heating — only Benedict's does; iodine, biuret and the emulsion test are all room-temperature tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--16-bm-building-blocks.webp" width="900" height="960" alt="Glucose joins to make starch, cellulose and glycogen; amino acids make protein; one glycerol and three fatty acids make a lipid; nucleotides make DNA." loading="lazy">
+  <figcaption>The small molecule each large biological molecule is built from.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--20-bm-functions.webp" width="900" height="1010" alt="Four rows listing the functions of carbohydrates, lipids, proteins and DNA as stated in the lesson." loading="lazy">
+  <figcaption>The job of each biological molecule in living things.</figcaption>
+</figure>
+
 
 ## Beyond the syllabus: what a negative Benedict's result does not show
 

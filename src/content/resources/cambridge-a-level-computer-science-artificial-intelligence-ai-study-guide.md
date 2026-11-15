@@ -48,9 +48,26 @@ A **graph** is made of **nodes** (vertices) joined by **edges**, and in a weight
 
 A **priority queue** is used to select the smallest distance efficiently. Dijkstra explores outwards in all directions, so it can examine many nodes that are not useful.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--01-ai-dijkstra-graph.webp" width="900" height="940" alt="A weighted graph with nodes A to F and the lesson edge weights. Dijkstra from A gives final distances A 0, C 2, B 3, D 8, E 10, F 13. The shortest route to F is A, C, B, D, E, F, drawn thick, totalling 13." loading="lazy">
+  <figcaption>Dijkstra's algorithm finds the shortest route A to F, total 13, on the lesson's graph.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--02-ai-dijkstra-table.webp" width="900" height="924" alt="A step table for Dijkstra. Start: A 0, others infinity. Step 1 A gives B 4, C 2; step 2 C gives B 3, D 10, E 12; step 3 B gives D 8; step 4 D gives E 10, F 14; step 5 E gives F 13; step 6 F. Final values are dark; B improved from 4 to 3." loading="lazy">
+  <figcaption>Each row of the distance table is one step; B improves from 4 to 3 at step 2.</figcaption>
+</figure>
+
+
 ### A* algorithm
 
 **A\*** is an improvement that is aimed at one destination. For each node it uses **f = g + h**, where **g** is the cost so far from the start and **h** is a **heuristic**, an estimate of the remaining cost to the goal (for example the straight-line distance on a map). It always expands the node with the lowest f, so it heads towards the goal and usually examines fewer nodes. If the heuristic never overestimates the true cost, A* still finds the shortest path. A heuristic of 0 for every node makes A* behave like Dijkstra. Typical uses are route planning, games and robot navigation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--03-ai-astar-f-score.webp" width="900" height="830" alt="A path from Start to a node (g, cost so far) and on to the Goal (h, estimate). Two bars: first node g 5 + h 3 = f 8, second g 2 + h 7 = f 9. A* expands the lower f, the first node." loading="lazy">
+  <figcaption>A* expands the node with the lowest f = g + h.</figcaption>
+</figure>
+
 
 ## Machine learning
 
@@ -70,6 +87,22 @@ An **artificial neural network** is a set of connected nodes (artificial neurons
 **Back-propagation** is the method used to train the network. The output is compared with the expected output to calculate the error, and that error is passed backwards through the layers so that each weight can be adjusted a little to reduce it. This is repeated over many examples. **Deep learning** uses neural networks with many hidden layers, which can learn complicated features such as edges, shapes and then whole objects in an image. It needs very large amounts of data and computing power, and its decisions can be hard to explain.
 
 AI raises ethical issues that link to the ethics topic: bias in training data produces biased decisions, personal data may be misused, jobs may be automated, and it can be unclear who is responsible when an automated decision causes harm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--04-ai-learning-types.webp" width="900" height="1110" alt="Three panels: supervised learning trains on labelled emails and labels a new email; unsupervised learning groups unlabelled points into clusters; reinforcement learning has an agent send actions to an environment and receive rewards or penalties." loading="lazy">
+  <figcaption>The type of machine learning depends on the data and feedback available.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--06-ai-backpropagation.webp" width="900" height="970" alt="A network with input, hidden and output layers joined by weighted connections. A forward arrow runs from inputs to output; the error is compared with the expected output and passed backwards to adjust the weights, repeated over many examples." loading="lazy">
+  <figcaption>Back-propagation passes the output error backwards to adjust the weights.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--07-ai-overfitting.webp" width="900" height="1030" alt="A bar splits data into training and test data. A scatter plot shows a straight fit and a wiggly curve through every training point that misses the test points: overfitting." loading="lazy">
+  <figcaption>An overfitted model matches the training data too closely and does badly on new data.</figcaption>
+</figure>
+
 
 ## Worked example 1: Dijkstra's algorithm
 
@@ -91,6 +124,12 @@ The shortest distance to F is 13. Following the predecessors back: F came from E
 A neuron has two inputs 0.5 and 0.8, weights 0.4 and -0.2, and a bias of 0.1. The weighted sum is 0.5 x 0.4 + 0.8 x (-0.2) + 0.1 = 0.20 - 0.16 + 0.10 = 0.14. With a step activation that outputs 1 when the sum is above 0, the neuron outputs 1. If back-propagation found the output should have been 0, it would reduce the weight on the input that contributed most, here 0.4, and the bias.
 
 For A*, suppose a node has a cost so far of g = 5 and a straight-line estimate to the goal of h = 3. Its score is f = 5 + 3 = 8. Another node with g = 2 and h = 7 has f = 9, so A* expands the first node, even though the second has travelled less far.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide--05-ai-neuron.webp" width="900" height="830" alt="A neuron with inputs 0.5 and 0.8, weights 0.4 and minus 0.2 and bias 0.1 gives a sum of 0.14; a step activation outputs 1." loading="lazy">
+  <figcaption>A neuron multiplies inputs by weights, adds the bias and applies an activation function.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

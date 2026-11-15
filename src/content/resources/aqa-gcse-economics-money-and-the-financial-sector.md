@@ -56,9 +56,31 @@ Without money, people would have to barter, swapping goods directly. Barter need
 
 Money is a good store of value only if prices are stable. If prices rise by 10% in a year, £100 saved buys only about £91 of today's goods next year (100 ÷ 1.10 = 90.9). High inflation weakens money's role as a store of value and as a unit of account.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--14-mn-four-functions.webp" width="900" height="780" alt="Four cards. Medium of exchange: paying for lunch by card. Unit of account: a phone priced at 300 pounds and a tablet at 450 pounds can be compared. Store of value: saving birthday money for next year. Means of deferred payment: repaying a car loan over three years." loading="lazy">
+  <figcaption>Money is a medium of exchange, a unit of account, a store of value and a means of deferred payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--15-mn-barter-and-money.webp" width="900" height="880" alt="Top: barter fails. Alex has apples and wants boots; Bea has boots and wants fish, so Bea does not want apples and no swap is possible; this is the lack of a double coincidence of wants. Bottom: with money, Alex sells apples to Cal for pounds (step 1), then buys boots from Bea with those pounds (step 2)." loading="lazy">
+  <figcaption>Barter needs a double coincidence of wants; money lets people sell first and buy later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--16-mn-inflation-store-of-value.webp" width="900" height="850" alt="Two bars. Today, 100 pounds buys 100 pounds of today's goods. If prices rise by 10 per cent in a year, 100 pounds saved buys only about 91 pounds of today's goods next year, because 100 divided by 1.10 is about 90.9. The missing part, about 9 pounds, is shown as a dashed block. High inflation weakens money as a store of value." loading="lazy">
+  <figcaption>With 10% inflation, £100 saved buys only about £91 of today’s goods next year.</figcaption>
+</figure>
+
+
 ## Why is money more than notes and coins?
 
 Most money in a modern economy is not cash. It exists as **bank deposits**: the balances in current and savings accounts. People pay with debit cards, bank transfers and phones, which move deposits from one account to another. So a definition of money includes bank deposits as well as the notes and coins in circulation. In the UK, notes and coins make up only a small share of the money people hold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--17-mn-most-money-not-cash.webp" width="900" height="770" alt="Money is notes and coins plus bank deposits. Example with illustrative numbers: paying 20 pounds by debit card, transfer or phone moves a deposit from Account A (100 pounds down to 80) to Account B (50 pounds up to 70). Together the accounts still hold 150 pounds and no notes or coins move. In the UK, notes and coins are only a small share of the money people hold." loading="lazy">
+  <figcaption>Most money is bank deposits, which payments move between accounts without any cash changing hands.</figcaption>
+</figure>
+
 
 ## What is the financial sector?
 
@@ -69,6 +91,12 @@ The financial sector includes:
 - **Building societies**, which are owned by their members (savers and borrowers) rather than shareholders and specialise in savings and mortgages;
 - other institutions, such as insurance companies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--18-mn-financial-sector.webp" width="900" height="780" alt="A tree with the financial sector at the top and four branches. The Bank of England is the UK's central bank. Commercial banks provide current accounts, savings accounts, loans and mortgages. Building societies are owned by their members and specialise in savings and mortgages. Other institutions include insurance companies." loading="lazy">
+  <figcaption>The financial sector: the Bank of England, commercial banks, building societies and other institutions.</figcaption>
+</figure>
+
+
 ## What does the Bank of England do?
 
 - **Sets the Bank Rate:** its Monetary Policy Committee sets the official interest rate, which influences the rates banks charge borrowers and pay savers. This is how it pursues the government's inflation target.
@@ -77,6 +105,12 @@ The financial sector includes:
 - **Acts as the government's bank.**
 
 A stable financial system matters because if people lose confidence in banks they may rush to withdraw deposits, banks may stop lending, and spending and investment can collapse.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--19-mn-bank-of-england.webp" width="900" height="850" alt="Four roles of the Bank of England: it sets Bank Rate, the official interest rate, aiming at the inflation target; it keeps the financial system stable by supervising banks and lending to banks in difficulty; it issues banknotes in England and Wales; and it acts as the government's bank. A chain shows why stability matters: if people lose confidence in banks they may rush to withdraw deposits, banks may stop lending, and spending and investment can collapse." loading="lazy">
+  <figcaption>The Bank of England sets Bank Rate, keeps the system stable, issues banknotes and banks for the government.</figcaption>
+</figure>
+
 
 ## How do high street banks help the economy?
 
@@ -88,6 +122,12 @@ A stable financial system matters because if people lose confidence in banks the
 ### Worked example: how a bank earns income (illustrative)
 
 A bank pays savers 3% interest and lends at 7%. If it lends out 10 million units of deposits, it receives 0.07 × 10 million = 700,000 in interest and pays 0.03 × 10 million = 300,000 to savers. The difference of **400,000** covers its costs and profit. This gap is why banks want both savers and borrowers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--20-mn-how-a-bank-earns.webp" width="900" height="920" alt="Money flows from savers to a bank as 10 million units of deposits, and the bank pays savers 3 per cent interest, which is 300,000. The bank lends the 10 million to borrowers, households for homes and cars and firms for machinery and premises, and receives 7 per cent interest, which is 700,000. The difference, 700,000 minus 300,000, is 400,000, which covers the bank's costs and profit. Units are illustrative." loading="lazy">
+  <figcaption>A bank earns the gap between the 7% it charges borrowers and the 3% it pays savers.</figcaption>
+</figure>
+
 
 ## Why does the financial sector matter for the economy?
 

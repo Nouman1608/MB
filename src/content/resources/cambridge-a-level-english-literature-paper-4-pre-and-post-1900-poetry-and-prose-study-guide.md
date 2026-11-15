@@ -37,6 +37,17 @@ Cambridge International A Level English Literature (9695) is built from four pap
 
 Across the paper, the examiners look for the same four broad qualities: secure knowledge of what happens in the text and what it means; analysis of the writer's choices of language, form and structure; awareness of context, meaning the ways a text connects with the period and culture in which it was written and read; and an organised personal argument written in controlled English.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--08-paper4-structure.webp" width="900" height="735" alt="Four paper boxes show Papers 1 and 2 as AS and Papers 3 and 4 as the full A Level, with Paper 4 worth 25 percent. Below, one text is chosen from each section: pre-1900 poetry with post-1900 prose, or pre-1900 prose with post-1900 poetry." loading="lazy">
+  <figcaption>Paper 4 sits in the A Level and pairs one poetry text with one prose text.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--09-paper4-weights.webp" width="900" height="807" alt="Five equal segments show AO1 to AO5 at 20 percent each, with AO5 about discussing and evaluating other readings. Four qualities examiners look for are listed below." loading="lazy">
+  <figcaption>Each of AO1 to AO5 carries 20 percent of Paper 4.</figcaption>
+</figure>
+
+
 ## Pre-1900 and post-1900: what changes
 
 Do not treat the two sections as two different subjects. The skills are shared. What changes is the kind of context and the conventions you meet.
@@ -45,6 +56,12 @@ Do not treat the two sections as two different subjects. The skills are shared. 
 - **Post-1900 writing** often experiments: free verse, fragmented structure, shifting narrative viewpoint, interior thought and ambiguity. Contexts may include war, empire and its end, migration, changing gender roles or modern psychology.
 
 A caution: do not turn context into a history lecture. A fact about the period is worth including only if it helps explain a choice the writer made.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--10-pre-post-1900.webp" width="900" height="1063" alt="Two panels compare pre-1900 and post-1900 form, voice and contexts. A note says to link context to a choice the writer made." loading="lazy">
+  <figcaption>The skills are shared; the conventions and contexts differ.</figcaption>
+</figure>
+
 
 ## Reading poetry
 
@@ -60,6 +77,17 @@ Always link technique to meaning. Saying a poem uses alliteration earns little; 
 ### Worked example: a pre-1900 poem
 
 Take the opening of Shakespeare's Sonnet 18: "Shall I compare thee to a summer's day?" The question form creates a speaker who appears to weigh up a comparison in the very act of speaking. A strong paragraph might run: the opening question invites the reader into the speaker's thinking, but the poem soon argues that the beloved is "more lovely and more temperate", turning the traditional compliment into a claim that the person surpasses nature. The sonnet's tightly controlled fourteen-line form is itself part of the argument, since the closing couplet claims that the poem will make the subject last. Notice the structure of this analysis: a short quotation, a technique named, an effect on meaning, and a link to the poem's overall design.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--11-poetry-sequence.webp" width="900" height="797" alt="Four numbered steps (gist, form and structure, language, effect) are followed by an example chain from hard consonants to a clipped angry sound that matches frustration." loading="lazy">
+  <figcaption>Read any poem in four steps and link technique to meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--12-sonnet-18-chain.webp" width="900" height="802" alt="A schematic fourteen-line sonnet with a gold closing couplet sits beside a four-step chain: quotation, technique, effect on meaning, link to design." loading="lazy">
+  <figcaption>A good paragraph runs from quotation to technique, effect and overall design.</figcaption>
+</figure>
+
 
 ## Reading prose
 
@@ -79,6 +107,12 @@ Jane Austen opens Pride and Prejudice with the sentence "It is a truth universal
 
 Wilfred Owen's "Anthem for Doomed Youth" begins with the question "What passing-bells for these who die as cattle?" Here the abrupt, bitter question and the comparison of soldiers to "cattle" contrast with the ceremonial image of church bells, so the poem opens by exposing the lack of dignity in mass death in war. Analysis would then move to how the poem's sonnet form, associated with love and tradition, is turned to a very different purpose, which says something about the writer's attitude to the war and to the language of honour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--13-prose-questions.webp" width="900" height="869" alt="A book at the centre links to five boxes: narrative voice, structure, character, language and tone, themes and context, each with a short question." loading="lazy">
+  <figcaption>Ask five questions of any prose text.</figcaption>
+</figure>
+
+
 ## Responding to question types
 
 Questions in this paper may ask you either to write an essay on the text as a whole or to respond closely to a printed passage or poem. Check your syllabus for the exact choice, but prepare for both.
@@ -86,6 +120,12 @@ Questions in this paper may ask you either to write an essay on the text as a wh
 **Passage-based questions** require close reading of the given extract. Begin with a short sentence stating the extract's place in the text and your main claim. Then move through the passage in a purposeful order, keep your quotation short and embed it in your sentence, and end by connecting the extract to the wider text.
 
 **Essay questions** require an argument about the whole text. Before you write, read the question for its key words, decide your thesis in one sentence and choose three or four moments from across the text that support it. Do not retell the plot. Consider counter-arguments, since a response that recognises more than one interpretation shows maturity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--14-passage-vs-essay.webp" width="900" height="1081" alt="Two numbered routes: a passage-based answer (claim, purposeful order, short quotations, link to the wider text) and an essay (key words, thesis, three or four moments, other interpretations)." loading="lazy">
+  <figcaption>Plan a passage question and an essay differently.</figcaption>
+</figure>
+
 
 ## Planning and timing
 

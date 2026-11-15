@@ -36,6 +36,12 @@ Analysis is finding out exactly what the problem is and what the solution must d
 
 The result is a **requirements specification** with measurable **success criteria**, such as "a booking is confirmed in under 3 seconds", plus the **limitations** and **constraints** (time, cost, hardware, legal rules) and the data the system must store and process. A feasibility check, including whether the problem can be solved by computer at all, comes before work begins. Good criteria are specific and testable, because they become the benchmark for the evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--02-analysis-methods.webp" width="900" height="700" alt="Three panels: interviews (deep answers from few people), questionnaires (many people, shallower answers) and observation (shows what people really do)." loading="lazy">
+  <figcaption>Each fact-finding method trades depth against reach.</figcaption>
+</figure>
+
+
 ### Design
 
 Design decides how the solution will meet the requirements, before any code is written. It uses **decomposition** to split the problem into smaller parts, and **abstraction** to leave out unneeded detail. Design work includes:
@@ -60,13 +66,36 @@ Testing checks that the solution works and meets the requirements. It is carried
 
 Test data falls into three groups: **normal** (typical valid data), **boundary** (values at the edge of what is allowed, and just outside it) and **erroneous** (invalid data that must be rejected, including the wrong type). A good test plan records for each test the purpose, the data, the **expected result** and the **actual result**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--05-testing-levels.webp" width="900" height="1055" alt="Unit, integration, system and acceptance testing shown on three modules, then alpha testing (in-house) and beta testing (selected real users)." loading="lazy">
+  <figcaption>Unit, integration, system and acceptance testing; alpha is in-house, beta is by selected users.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--06-white-black-box.webp" width="900" height="680" alt="An open box with a two-path decision, both paths tested (white-box), beside a sealed box with a specification sheet (black-box)." loading="lazy">
+  <figcaption>White-box tests come from the code; black-box tests come from the specification.</figcaption>
+</figure>
+
+
 ### Evaluation
 
 Evaluation judges the finished solution against the original success criteria. You gather evidence from test results and user feedback, state which criteria were fully, partly or not met, and identify strengths and weaknesses, and then suggest improvements and further development. Maintenance follows release: **corrective** (fixing faults), **adaptive** (changing for new conditions) and **perfective** (improving performance or features).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--01-dev-stages.webp" width="900" height="1000" alt="Five stages in order: analysis, design, implementation, testing and evaluation, each with what it produces, followed by release and the three kinds of maintenance (corrective, adaptive, perfective)." loading="lazy">
+  <figcaption>The stages of a systematic approach, from analysis to evaluation, with maintenance after release.</figcaption>
+</figure>
+
+
 ## Development approaches
 
 The **waterfall** model completes each stage in order and returns to a previous stage only with difficulty; it suits well-understood problems with fixed requirements, and produces thorough documentation, but changes late in the project are costly and users see nothing until the end. **Iterative** and **agile** approaches build the solution in short cycles, with working versions and regular feedback, so changing requirements are handled more easily, though planning, cost and finish date are harder to fix. **Extreme programming** is an agile method using pair programming, frequent small releases and tests written before code. **Rapid application development** relies on prototypes built quickly with user involvement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--07-waterfall-agile.webp" width="900" height="1040" alt="A staircase of five waterfall stages with users seeing the system only at the end, beside three agile cycles each giving a working version and feedback." loading="lazy">
+  <figcaption>Waterfall completes stages in order; agile builds in short cycles with feedback.</figcaption>
+</figure>
+
 
 ## Worked example: a test plan with boundary data
 
@@ -89,6 +118,17 @@ First, the **boundaries**: the range limits are 11 and 16, and the price limit i
 | 11 | Erroneous | 13.5 | Rejected |
 
 Applying these rules in a short test function gives the expected result for all eleven tests. A party of 3 members aged 13 and 2 aged 15 would pay 3 x 8 + 2 x 12 = 48 pounds. Testing both sides of each limit is what finds an off-by-one error, such as writing `age > 11` instead of `age >= 11`: that fault would wrongly reject an 11-year-old, and test 3 would show it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--03-test-data-ages.webp" width="900" height="810" alt="A number line of ages shows the price bands and eight numbered tests, with boundary tests either side of 11, 13/14 and 16; three erroneous tests (-3, abc, 13.5) are rejected." loading="lazy">
+  <figcaption>The eleven tests of the worked example, placed on the age line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide--04-off-by-one.webp" width="900" height="790" alt="Expected results for ages 10, 11 and 12 compared with age &gt;= 11 and age &gt; 11; the faulty version rejects 11, so test 3 reveals it." loading="lazy">
+  <figcaption>Testing both sides of a limit is what finds an off-by-one error.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -48,9 +48,26 @@ Designs can be **independent samples** (different people in each condition), **r
 
 A good hypothesis is a testable prediction. A **null hypothesis** says there is no effect, and an **alternative hypothesis** states the predicted difference or relationship. A **confounding variable** is an uncontrolled variable that varies with the IV and may explain the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--07-res-experiments.webp" width="900" height="900" alt="Four rows: true laboratory experiment (random allocation, controlled setting), field (natural setting, less control), natural (IV changes naturally) and quasi (IV is an existing characteristic, no random allocation)." loading="lazy">
+  <figcaption>Four kinds of experiment differ in how the IV and allocation work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--08-res-designs.webp" width="900" height="1030" alt="Three designs drawn with conditions A and B: independent samples (different people), repeated measures (the same people) and matched pairs (pairs split across conditions), and a panel showing counterbalancing, half doing A then B and half B then A." loading="lazy">
+  <figcaption>Each design has a different trade-off; counterbalancing reduces order effects.</figcaption>
+</figure>
+
+
 ### Correlational studies
 
 A correlational study measures the relationship between two variables without manipulating either. A positive correlation means that both increase together, and a negative correlation means that as one rises the other falls. Correlation does not show causation, because a third variable may cause both, or the direction may be the opposite of what is assumed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--09-res-correlation.webp" width="900" height="950" alt="Three scatter graphs show a positive correlation, a negative correlation and no relationship. Below, a third variable C causing both A and B, and the reversed direction where B causes A." loading="lazy">
+  <figcaption>Correlation does not show cause.</figcaption>
+</figure>
+
 
 ### Qualitative methods
 
@@ -72,9 +89,21 @@ The **target population** is the group the researcher wants to draw conclusions 
 
 A larger and more representative sample generally supports **generalisation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--10-res-sampling.webp" width="900" height="1220" alt="Six dot grids of 60 people with 12 chosen in each: random, stratified (6, 4 and 2 from three subgroups), opportunity (a nearby cluster), volunteer (people respond to an advert), purposive (all from one subgroup) and snowball (a chain of linked recruits)." loading="lazy">
+  <figcaption>How each sampling technique picks people from a population.</figcaption>
+</figure>
+
+
 ## Ethical considerations
 
 Researchers follow ethical guidelines to protect participants. Key principles are **informed consent**, **protection from harm**, **confidentiality**, the right to **withdraw**, **debriefing** after the study and **avoiding unjustified deception**. Studies with children, or with vulnerable people, need extra care such as parental consent. Many institutions use an ethics committee to check proposals. Ethical issues often involve balancing the possible benefit of knowledge against the risk to participants, and in animal research there are separate rules on welfare.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--11-res-ethics.webp" width="900" height="1020" alt="Six icon cards for informed consent, protection from harm, confidentiality, the right to withdraw, debriefing and avoiding unjustified deception, a balance of benefit of knowledge against risk to participants, and a note on extra care with children and vulnerable people." loading="lazy">
+  <figcaption>Ethical principles protect participants and are weighed against benefit.</figcaption>
+</figure>
+
 
 ## Credibility, bias and generalisation
 
@@ -82,6 +111,12 @@ Researchers follow ethical guidelines to protect participants. Key principles ar
 - **Reliability** is consistency: would the same result be found again?
 - **Researcher bias** includes expectations affecting how data are collected or interpreted. **Participant bias** includes demand characteristics, social desirability and the placebo effect. Blind and double-blind procedures reduce these.
 - In qualitative research the equivalent of validity is **credibility**, and the equivalent of generalisation is **transferability**. They are strengthened by **triangulation** (using several methods, researchers or data sources), **reflexivity** (the researcher reflecting on their own influence), rich description and checking findings with participants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--12-res-credibility.webp" width="900" height="960" alt="Validity maps to credibility and generalisation maps to transferability. Triangulation uses several methods, researchers or data sources to strengthen a finding. Reflexivity, rich description and checking findings with participants also help." loading="lazy">
+  <figcaption>Qualitative research has its own words for validity and generalisation.</figcaption>
+</figure>
+
 
 ## Descriptive statistics
 
@@ -97,6 +132,12 @@ Ten participants try to recall words from a list after a learning task. Their sc
 4. Range = 15 - 9 = 6.
 5. Standard deviation (sample): deviations from 12.5 squared are 0.25, 6.25, 12.25, 2.25, 2.25, 0.25, 6.25, 6.25, 0.25 and 2.25, giving a total of 38.5. Dividing by 9 gives 4.28, and the square root is about 2.07.
 6. Interpretation: the mean and median are the same, so the distribution is fairly symmetrical, and the standard deviation of about 2.1 shows that typical scores sit about two words either side of the mean. The sample is small and opportunity sampled, so you cannot generalise from it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--13-res-descriptive-stats.webp" width="900" height="950" alt="Dot plot of ten scores 9 to 15. Mean and median are both 12.5, the range is 6 and the sample standard deviation is about 2.07 shown as a band; 12, 14 and 15 appear twice so there is no single mode." loading="lazy">
+  <figcaption>The worked example scores with mean, median, range and standard deviation.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

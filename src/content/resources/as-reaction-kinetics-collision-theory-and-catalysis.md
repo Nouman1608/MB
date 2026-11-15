@@ -103,6 +103,22 @@ This is the kind of calculation outcome 8.1.3 expects — reading a rate
 directly from experimental data (a gradient over an interval, or from a
 tangent to a graph), without needing a rate equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--08-kin-effective-collisions.webp" width="900" height="1060" alt="Three panels of particles X and Y, each with a gold spot marking the reactive side. Panel 1: short arrows, too little energy, the particles bounce apart. Panel 2: long arrows but the reactive spot of X faces away, wrong orientation, they bounce apart. Panel 3: long arrows and the reactive sides face each other, so energy is at least the activation energy and the orientation is right: a product forms." loading="lazy">
+  <figcaption>A collision reacts only if it has at least the activation energy and the right orientation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--09-kin-concentration-pressure.webp" width="900" height="1190" alt="Top: two equal boxes of particles, 6 at low concentration and 12 at high concentration. Middle: the same 6 gas particles, first in a full-size container at low pressure, then squeezed by a piston into half the volume at high pressure. Both increase particles per unit volume. Chain: more particles per volume, more frequent collisions, more effective collisions per second, faster rate; the proportion of collisions that are effective is unchanged." loading="lazy">
+  <figcaption>More particles per unit volume means more frequent collisions, so more effective collisions per second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--10-kin-rate-calculation.webp" width="900" height="970" alt="Graph of volume of gas in cm3 against time in seconds with two readings: 24 cm3 at 20 s and 39 cm3 at 30 s, joined by a straight line. A right-angled triangle shows the time change of 10 s and the volume change of 15 cm3. Rate equals change in volume divided by change in time, 15 over 10, which is 1.5 cm3 per second." loading="lazy">
+  <figcaption>Average rate between 20 s and 30 s is 15 cm3 divided by 10 s, 1.5 cm3 per second.</figcaption>
+</figure>
+
+
 ## Activation energy and the Boltzmann distribution
 
 **Activation energy, Eₐ**, is the minimum energy a collision must have to be
@@ -128,6 +144,17 @@ is so sensitive to temperature. A small increase in collision frequency also
 occurs (particles move faster on average), but it is the change in the
 proportion of *effective* collisions that dominates the rate increase.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--11-kin-boltzmann-ea.webp" width="900" height="880" alt="A skewed Boltzmann distribution of the energies of particles: it starts at zero, rises to a peak and falls in a long tail that never touches the energy axis. The area under the whole curve represents all the particles. A dashed line marks the activation energy Ea; the shaded area to its right represents the particles with enough energy to react." loading="lazy">
+  <figcaption>The shaded area beyond Ea is the number of particles that can react.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--12-kin-boltzmann-temperature.webp" width="900" height="950" alt="Two Boltzmann curves, a lower and a higher temperature, enclosing the same total area. The higher temperature curve has a lower peak further right. The areas beyond the activation energy Ea are shaded: the peak energy rises by about 25 percent in this illustrative example but the area beyond Ea grows about 1.8 times, which is why rate is so sensitive to temperature." loading="lazy">
+  <figcaption>A hotter sample has a flatter curve, and the area beyond Ea grows by a much larger proportion than the peak shifts.</figcaption>
+</figure>
+
+
 ## Catalysts
 
 A **catalyst** increases the rate of a reaction, without itself being used
@@ -151,6 +178,17 @@ a *different phase* from the reactants — the solid iron catalyst in the
 gas-phase Haber process, from [Chemical Equilibria: Kc, Kp and Le Chatelier's
 Principle](/resources/as-chemical-equilibria/), is a heterogeneous example
 you've already met.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--13-kin-catalyst.webp" width="900" height="1100" alt="Top: reaction-pathway diagram. Reactants start and products end at the same enthalpy levels with and without a catalyst, so delta H is unchanged, but the catalysed route has a lower peak, a smaller activation energy. Bottom: a Boltzmann distribution with two activation energy lines; the lower Ea for the catalysed route leaves a larger shaded area of particles able to react at the same temperature." loading="lazy">
+  <figcaption>A catalyst offers a route with a lower activation energy; delta H and the reactant and product levels do not change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-reaction-kinetics-collision-theory-and-catalysis--14-kin-homogeneous-heterogeneous.webp" width="900" height="1030" alt="Two panels. Homogeneous catalysis: aqueous iodide ions I- catalyse the decomposition of aqueous hydrogen peroxide; catalyst and reactant are both in the same solution. Heterogeneous catalysis: a solid iron catalyst Fe(s) at the bottom of a vessel with gaseous nitrogen and hydrogen above it in the Haber process; catalyst and reactants are in different phases. The classification depends only on whether the catalyst is in the same phase as the reactants." loading="lazy">
+  <figcaption>Homogeneous catalysts share the reactants phase; heterogeneous catalysts do not.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

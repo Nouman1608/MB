@@ -56,6 +56,17 @@ An **iterative** model builds a first version, tests it, gets feedback and repea
 
 **Rapid application development (RAD)** builds prototypes quickly and refines them with heavy user involvement. A **prototype** is an early working model used to gather feedback. RAD can produce results quickly and match user needs, but the quality and documentation may suffer if the pace is too high. When asked to choose, tie your choice to the scenario: fixed requirements and a safety-critical product point to waterfall, a vague brief or a client who wants to see progress points to iterative or RAD.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--01-sd-lifecycle.webp" width="900" height="960" alt="Five stages run top to bottom: analysis, design, coding, testing and maintenance. Each has an icon and one line on its role. Analysis agrees the requirement specification; design plans charts, pseudocode and the test plan." loading="lazy">
+  <figcaption>The five stages of the program development life cycle in order, with the role of each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--02-sd-models.webp" width="900" height="1240" alt="Three panels show waterfall as a staircase of stages, iterative as growing versions linked by feedback, and RAD as a prototype passed to users and back. Each panel gives one strength and one weakness taken from the lesson." loading="lazy">
+  <figcaption>Waterfall, iterative and RAD compared by shape, with one strength and one weakness each.</figcaption>
+</figure>
+
+
 ## Program design
 
 Design turns the specification into a description that a programmer can follow.
@@ -66,6 +77,12 @@ Design turns the specification into a description that a programmer can follow.
 - **State-transition diagrams** and **state tables** show the states a system can be in and the inputs that change one state into another, as in a ticket machine that waits, accepts money, issues a ticket and returns to waiting.
 
 **Modular design** is the aim. Each module should do one job, have a clear interface and be testable alone. Good design also includes choosing **identifier names** and a table of identifiers that lists each variable's name, type and purpose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--03-sd-state-ticket.webp" width="900" height="1010" alt="A ticket machine moves from Waiting to Accepting money when money is inserted, to Issuing ticket when enough is paid, and back to Waiting when the ticket is taken. A state table lists the same three transitions." loading="lazy">
+  <figcaption>A state-transition diagram and state table for the ticket machine mentioned in the lesson.</figcaption>
+</figure>
+
 
 ## Testing
 
@@ -82,6 +99,12 @@ Select data that covers each type of case. For an input that accepts ages 13 to 
 | Abnormal (erroneous) | Invalid data that should be rejected | 12, 20, "ten", -5 |
 
 For a boundary check, also test the first value just outside each limit, which is why 12 and 20 are in the abnormal row.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--04-sd-test-data.webp" width="900" height="700" alt="A number line from 10 to 22 for an age input that accepts 13 to 19. 14 and 18 are normal, 13 and 19 are boundary and accepted, 12 and 20 are abnormal and rejected, and the word ten and the number minus 5 are also abnormal." loading="lazy">
+  <figcaption>Where normal, boundary and abnormal test data sit for an input accepting ages 13 to 19.</figcaption>
+</figure>
+
 
 ### Test strategies and tools
 
@@ -101,6 +124,12 @@ After release a program is changed for three reasons.
 
 Maintenance is far easier if the program has good design documents, meaningful names, comments and a modular structure. Poor documentation is one of the main reasons a program becomes costly to maintain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--06-sd-maintenance.webp" width="900" height="760" alt="A released program has three arrows to corrective, adaptive and perfective maintenance. Corrective fixes faults found in use, adaptive changes the program for a new operating system or tax law, and perfective improves performance or adds features users ask for." loading="lazy">
+  <figcaption>The three types of maintenance with the trigger for each.</figcaption>
+</figure>
+
+
 ## Worked example 1: a test plan
 
 A program accepts a score from 0 to 50 inclusive and prints "Pass" for 25 or more, otherwise "Fail". Design test data and expected results.
@@ -118,6 +147,12 @@ A program accepts a score from 0 to 50 inclusive and prints "Pass" for 25 or mor
 | 9 | "abc" | Abnormal | Error message, rejected |
 
 Two sets of boundaries are tested here: the limits of valid input (0 and 50 with 51 and -1 just outside) and the pass mark (25 with 24 just below). A common weakness is to test only the first set. Nine tests cover each partition of the problem; adding a tenth such as 38 would add nothing new.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-software-development-study-guide--05-sd-test-plan.webp" width="900" height="700" alt="A number line from 0 to 50 with the pass mark at 25. Nine tests are shown with their expected results: minus 1, 51 and abc give Error; 0, 10 and 24 give Fail; 25, 37 and 50 give Pass. Two sets of boundaries are tested: the limits of valid input and the pass mark." loading="lazy">
+  <figcaption>The nine tests of the worked example placed on the 0 to 50 score line, coloured by expected result.</figcaption>
+</figure>
+
 
 ## Worked example 2: choosing a model
 

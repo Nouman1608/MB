@@ -86,6 +86,17 @@ Suppose a student sends a web form to a server.
 
 Each layer adds its own header on the way down (**encapsulation**) and removes it on the way up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--08-tcpip-encapsulation.webp" width="900" height="880" alt="Four rows, one per TCP/IP layer. An HTTP request gains a TCP header (ports and sequence number) to become a segment, an IP header (source and destination IP addresses) to become a packet, and a frame header with hardware (MAC) addresses to become a frame. The receiver removes the headers in reverse." loading="lazy">
+  <figcaption>Each layer adds its own header on the way down (encapsulation) and removes it on the way up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--09-tcpip-hops.webp" width="900" height="650" alt="Two hosts each show four layers; the router between them has only the Internet and Link layers. Dashed lines show the Application and Transport layers on each host talking to their twin layer. Headers are added going down the sender and removed going up the receiver; the router reads the destination IP and forwards the packet." loading="lazy">
+  <figcaption>Routers work at the Internet layer, while each upper layer talks logically to the same layer on the other host.</figcaption>
+</figure>
+
+
 ## What are HTTP, FTP, SMTP, POP3, IMAP and BitTorrent for?
 
 | Protocol | Purpose |
@@ -100,6 +111,17 @@ Each layer adds its own header on the way down (**encapsulation**) and removes i
 ### How does BitTorrent work?
 
 A file is divided into small pieces. A **torrent** file holds information about the file and the address of a **tracker**, a server that records which computers (peers) in the **swarm** are sharing it. A new peer contacts the tracker, gets a list of peers, and downloads different pieces from several peers at once. As soon as it has a piece it can upload it to others. Peers with the whole file are **seeds**; peers still downloading are often called **leechers**. Because many peers share the load, popular files download quickly and no single server is overloaded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--10-email-protocols.webp" width="900" height="820" alt="A sender's computer sends email to its mail server with SMTP, which passes it on to the recipient's mail server. POP3 downloads the message to one device and it is normally deleted from the server, so a second device sees nothing. IMAP keeps it on the server and synchronises every device." loading="lazy">
+  <figcaption>SMTP sends email; POP3 downloads it to one device, while IMAP keeps it on the server and synchronises all devices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--11-bittorrent-swarm.webp" width="900" height="880" alt="A torrent file gives the address of a tracker, which lists the peers in the swarm. The new peer downloads different pieces from a seed and from two leechers at the same time. Piece numbers are illustrative." loading="lazy">
+  <figcaption>A tracker lists the peers, and a new peer downloads different pieces from several peers at once.</figcaption>
+</figure>
+
 
 ## Circuit switching versus packet switching
 
@@ -120,6 +142,17 @@ A file is divided into small pieces. A **torrent** file holds information about 
 ### What does a router do in packet switching?
 
 A **router** receives each packet, reads its destination IP address, and uses its **routing table** to decide the best next router (next hop) towards the destination, then forwards it. If a route is busy or broken, a different route can be chosen, so packets of one message can travel by different paths. Routers also discard packets whose hop limit has run out, so lost packets do not circulate for ever.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--12-circuit-vs-packet.webp" width="900" height="890" alt="Two copies of the same network. Circuit switching reserves one path from A to B for the whole call, so a failed link on it loses the connection. Packet switching sends numbered packets by different routes, so when the same link fails they are rerouted." loading="lazy">
+  <figcaption>Circuit switching reserves one path, whereas packet switching lets each packet take its own route and go round a failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--13-packets-reassembled.webp" width="900" height="790" alt="A packet has a header (source IP, destination IP, sequence number, error check) and data. Five packets are sent; packet 4 is lost, the rest arrive as 1, 3, 2, 5, packet 4 is sent again, and the receiver uses the sequence numbers to rebuild 1 to 5. Numbers are illustrative." loading="lazy">
+  <figcaption>Packets may arrive out of order; sequence numbers let the receiver reassemble them and missing ones are asked for again.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

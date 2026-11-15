@@ -71,6 +71,12 @@ Country A, in billion units:
 
 Always state whether the answer is a deficit (negative) or a surplus (positive).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--01-bop-current-account.webp" width="900" height="930" alt="Waterfall chart of Country A in billion units. Goods: 120 minus 150 gives minus 30. Services: 70 minus 45 gives plus 25. Balance of trade is minus 5. Net income of minus 3 gives a current account balance of minus 8, a deficit of 8." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade, using the lesson’s Country A numbers.</figcaption>
+</figure>
+
+
 ## Why does a current account deficit or surplus happen?
 
 | Reasons for a deficit | Reasons for a surplus |
@@ -79,6 +85,12 @@ Always state whether the answer is a deficit (negative) or a surplus (positive).
 | Strong consumer spending pulls in imports | Weak domestic spending keeps imports low |
 | A strong exchange rate makes exports dearer abroad and imports cheaper | A weak exchange rate makes exports cheaper abroad |
 | A small manufacturing base, so many goods are imported | Firms specialise in goods the world wants to buy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--02-bop-deficit-surplus.webp" width="900" height="970" alt="Two panels. Deficit: a thick imports arrow and thin exports arrow, with four reasons (less competitive goods, strong spending, strong exchange rate, small manufacturing base). Surplus: thick exports arrow, with four reasons (competitive exports, weak spending, weak exchange rate, goods the world wants)." loading="lazy">
+  <figcaption>Deficits and surpluses come from competitiveness, spending, the exchange rate and the industries a country has.</figcaption>
+</figure>
+
 
 ## Does a deficit matter?
 
@@ -102,6 +114,12 @@ These policies can conflict with other objectives, so evaluation should name the
 
 Income is a flow of money received over a period, such as wages, profits, interest and benefits. Wealth is the stock of assets a person owns, such as property, savings and shares. In the UK, as in most countries, income is unequally distributed, and wealth is distributed more unequally than income because assets build up over time and can be inherited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--03-income-vs-wealth.webp" width="900" height="1010" alt="A tap runs into a bath. The tap is income, a flow over a period (wages, profits, interest, benefits). The water level is wealth, a stock of assets (property, savings, shares). An arrow shows wealth passing between generations, which is why wealth is more unequal than income." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock of assets that builds up and can be inherited.</figcaption>
+</figure>
+
+
 ## Why does inequality occur?
 
 - **Differences in skills and qualifications** — highly skilled workers earn more.
@@ -124,6 +142,17 @@ Some inequality gives people an incentive to train, work hard and start business
 ### Worked example: a progressive tax (illustrative)
 
 Country B taxes the first 12,000 of income at 0% and the rest at 20%. Worker X earns 20,000 and pays 0.2 × 8,000 = 1,600, which is **8%** of income. Worker Y earns 80,000 and pays 0.2 × 68,000 = 13,600, which is **17%** of income. The share of income taken in tax rises with income, so the tax is progressive and narrows the gap after tax.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--04-progressive-tax.webp" width="900" height="970" alt="Graph of tax as a percentage of income against income in thousands for Country B (0% on the first 12,000, 20% above). X on 20,000 pays 8%. Y on 80,000 pays 17%. The curve rises towards 20%." loading="lazy">
+  <figcaption>A progressive tax takes a larger percentage of higher incomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--05-redistribution-gap.webp" width="900" height="930" alt="Bars for workers X and Y. Before tax 20,000 and 80,000 (Y has 4.0 times X). After tax 18,400 and 66,400 (Y has 3.6 times X). Dashed outlines show the tax taken." loading="lazy">
+  <figcaption>After a progressive tax the gap between X and Y is smaller.</figcaption>
+</figure>
+
 
 ### Consequences of redistribution
 

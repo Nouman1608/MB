@@ -76,6 +76,22 @@ On Paper 3, each option has three short-answer questions (14 marks in total) and
 
 **Key study: Landry et al. (2019).** Landry, Zhang, Papachristopoulos and Forest used laboratory experiments to test how cash rewards affect motivation through the lens of self-determination theory. The syllabus asks you to focus on study 1. In study 1, 123 French-speaking students on an organisational behaviour course at a Canadian university (mean age 23, 60% women) were randomly allocated to one of two conditions. Everyone was offered the same reward, a $10 coffee-shop gift card, but the instructions framed it differently: in the *autonomy-supportive* condition it was described as a token of appreciation for their contribution; in the *controlling* condition it was described as a means to reinforce the performance standards for the task. Participants completed questionnaires on need satisfaction and frustration and on intrinsic and extrinsic motivation, then had two minutes to find words in 25 four-letter anagrams. The autonomy-supportive group reported greater satisfaction of the needs for competence, autonomy and relatedness, which predicted greater intrinsic motivation, and they performed better; the controlling group reported more need frustration, which predicted extrinsic motivation, and extrinsic motivation did not predict performance. So the effect of money depends on its *functional meaning*, not its amount. The laboratory setting gives control over the reward conditions, but a two-minute anagram task and a small gift card are very different from a real salary, so generalisation to workplaces needs care.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--01-org-vie.webp" width="900" height="955" alt="A chain from effort to performance to reward. Expectancy links effort to performance, instrumentality links performance to reward, and valence is how much the reward is valued. A second chain shows instrumentality at zero, so motivation is low." loading="lazy">
+  <figcaption>Vroom’s three beliefs; if any one is zero, motivation is low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--02-org-maslow.webp" width="900" height="830" alt="A five-level pyramid: physiological (pay), safety (job security), love and belonging (colleagues), esteem (recognition), self-actualisation (challenging work), with an arrow showing lower needs are largely met first." loading="lazy">
+  <figcaption>Maslow’s levels and what meets each one at work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--03-org-landry.webp" width="900" height="980" alt="123 students were randomly allocated to two conditions, both offered the same 10 dollar gift card framed differently, then did the same anagram task. Autonomy-supportive: more need satisfaction, intrinsic motivation and better performance. Controlling: more need frustration and extrinsic motivation, which did not predict performance." loading="lazy">
+  <figcaption>Study 1: the same reward framed in two ways gave different results.</figcaption>
+</figure>
+
+
 ## 4.2 What makes an effective leader?
 
 **Theories (4.2.1).** **Universalist** theories assume certain qualities make a good leader in any situation. The **great person** theory says leaders are born with special traits. **Charismatic** leaders inspire through personal appeal and vision. **Transformational** leaders motivate followers to go beyond self-interest for the group's goals. **Behavioural** theories focus on what leaders do. The Ohio studies identified two dimensions, **initiating structure** (organising tasks) and **consideration** (concern for people). The Michigan studies contrasted **employee-centred** and **production-centred** (job-centred) leaders. **Heifetz** argued that adaptive challenges (problems without a technical fix) need leaders who follow six principles: get on the balcony (step back to see the whole picture), identify the adaptive challenge, regulate distress, maintain disciplined attention, give the work back to the people, and protect the voices of leadership from below.
@@ -85,6 +101,17 @@ On Paper 3, each option has three short-answer questions (14 marks in total) and
 **Key study: Cuadrado et al. (2008).** Cuadrado, Morales and Recio tested role congruity theory (Eagly and Karau, 2002), which predicts that women leaders are judged unfavourably when they use stereotypically masculine styles. In a 2 x 2 experiment, 136 psychology students at Spain's national distance-learning university (53% women) read a story set in a hospital emergency service, chosen as a gender-neutral context, in which the leader was either a man or a woman and used either a stereotypically masculine style (autocratic and task-oriented) or a stereotypically feminine style (democratic, relationship-oriented, individualised consideration). They rated the leader's competence (leadership capacity), efficacy and a list of traits. The prediction was *not* supported: leaders of both sexes were rated more competent, more effective and more favourably when they used the feminine styles, and male and female leaders, and male and female evaluators, did not differ. A common error is to say the study showed women being penalised for masculine styles; it did not. Because the leaders were fictitious descriptions, the study controls variables well, but a student sample rating a story is less realistic than employees judging a real manager.
 
 **Leaders and followers (4.2.3).** **Kouzes and Posner's Leadership Practices Inventory** measures five practices: model the way, inspire a shared vision, challenge the process, enable others to act and encourage the heart. **Kelley (1988)** defined **followership** as the role of actively supporting a leader and the group's goals. He used two dimensions, **independent critical thinking** and **active engagement**, to describe five styles: **exemplary** (high on both), **alienated** (critical but passive), **conformist** (active but uncritical), **passive** (low on both) and **pragmatist** (middle on both).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--04-org-muczyk.webp" width="900" height="750" alt="A two by two grid: autocratic or democratic across the top (how far staff take part in decisions) and directive or permissive down the side (how closely staff are directed), giving four styles." loading="lazy">
+  <figcaption>Two dimensions give four leadership styles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--05-org-kelley.webp" width="900" height="900" alt="A chart with active engagement across and independent critical thinking up. Exemplary is high on both, alienated is critical but passive, conformist is active but uncritical, passive is low on both and pragmatist is in the middle." loading="lazy">
+  <figcaption>Kelley’s five followership styles on two dimensions.</figcaption>
+</figure>
+
 
 ## 4.3 How do groups behave in organisations?
 
@@ -117,6 +144,17 @@ On Paper 3, each option has three short-answer questions (14 marks in total) and
 **Key study: Giacalone and Rosenfeld (1987).** Giacalone and Rosenfeld asked unionised factory workers to rate how far a range of reasons would justify sabotage in an organisation, and how justifiable four general methods of sabotage were: slowdowns, destructiveness, dishonesty and causing chaos. Workers who accepted a wider range of reasons were more ready to justify every form of sabotage except dishonesty, which received little justification from anyone. The study is useful for showing that sabotage is often explained by employees as a reasoned response to their situation at work, which links to the situational explanation, but it measures attitudes about sabotage through self-report, not actual sabotage, and the sample came from a single unionised workplace.
 
 **Absence.** **Blau and Boal's model** combines job involvement and organisational commitment into four categories of employee: **institutionalised stars** (high involvement, high commitment), **lone wolves** (high involvement, low commitment), **corporate citizens** (low involvement, high commitment) and **apathetic employees** (low on both). The model predicts different types and amounts of absence for each category, with apathetic employees expected to be absent most.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--06-org-herzberg.webp" width="900" height="794" alt="Two columns. Hygiene factors prevent dissatisfaction but do not motivate: pay, supervision, working conditions, company policy, relationships, security. Motivators produce satisfaction: achievement, recognition, the work itself, responsibility, advancement." loading="lazy">
+  <figcaption>Hygiene factors stop dissatisfaction; motivators create satisfaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--07-org-blau.webp" width="900" height="760" alt="A two by two grid of organisational commitment against job involvement: institutionalised stars (high, high), lone wolves (high involvement, low commitment), corporate citizens (low involvement, high commitment) and apathetic employees (low on both), expected to be absent most." loading="lazy">
+  <figcaption>Four employee types from involvement and commitment.</figcaption>
+</figure>
+
 
 ## How should you evaluate Organisational Psychology?
 

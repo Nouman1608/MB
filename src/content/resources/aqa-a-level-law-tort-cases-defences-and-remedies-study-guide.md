@@ -88,6 +88,17 @@ The standard is **objective**: what would a reasonable person have done (*Blyth 
 
 **Factual causation** uses the "but for" test: the hospital escaped liability in *Barnett v Chelsea and Kensington HMC* (1969) because the patient would have died anyway. A new intervening act can break the chain (*Knightley v Johns*, 1982). **Legal causation** requires that the type of damage was reasonably foreseeable (*The Wagon Mound (No 1)*, 1961); the precise way it happened need not be (*Hughes v Lord Advocate*, 1963), and the defendant takes the claimant as found (thin skull rule, *Smith v Leech Brain*, 1962).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--06-neg-chain.webp" width="900" height="870" alt="Three stacked bands joined by arrows. 1 Duty of care: the Caparo test for new situations asks if harm was foreseeable, whether there was sufficient proximity, and whether it is fair, just and reasonable. 2 Breach of duty: the reasonable person standard, applied to a learner as a competent driver, a professional against a responsible body, and a child against a child of the same age. 3 Damage: caused by the breach (the but for test) and not too remote (type of harm foreseeable, thin skull rule)." loading="lazy">
+  <figcaption>Negligence needs duty, breach and damage, each with the lesson’s tests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--07-breach-factors.webp" width="900" height="740" alt="A balance scale with two sides. Left, risk of harm: probability of harm (Bolton v Stone 1951) and seriousness of harm (Paris v Stepney Borough Council 1951). Right, cost and benefit: cost of precautions (Latimer v AEC 1953) and social utility (Watt v Hertfordshire County Council 1954). Low risk may need few precautions; vulnerable claimants need more care; impractical measures are not required; emergency purposes can justify risk." loading="lazy">
+  <figcaption>Breach is a balance of risk (probability, seriousness) against cost of precautions and social utility.</figcaption>
+</figure>
+
+
 ## Negligence: economic loss and psychiatric injury
 
 ### Pure economic loss
@@ -100,11 +111,23 @@ The standard is **objective**: what would a reasonable person have done (*Blyth 
 
 The claimant must suffer a **recognised psychiatric illness**, not mere grief or distress. A **primary victim** is in the zone of physical danger; if physical injury was foreseeable, psychiatric injury is recoverable even if no physical injury occurs (*Page v Smith*, 1996). A **secondary victim** witnesses harm to another and must satisfy the control mechanisms in *Alcock v Chief Constable of South Yorkshire Police* (1992): a close tie of love and affection with the victim; proximity in time and space to the accident or its immediate aftermath (*McLoughlin v O'Brian*, 1983); perception with their own unaided senses; and that a person of reasonable fortitude would have suffered psychiatric injury. Rescuers and employees are not treated as primary victims unless they were themselves in danger (*White v Chief Constable of South Yorkshire*, 1998), and in medical negligence cases a relative is not a secondary victim of a later death or collapse caused by an earlier failure of care (*Paul v Royal Wolverhampton NHS Trust*, 2024).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--08-victims.webp" width="900" height="840" alt="A scene with a dashed zone of physical danger containing two people labelled primary victim, in physical danger. Outside the zone a third person labelled secondary victim, a witness, sees harm to another, shown by an arrow into the zone. Below, four tests secondary victims must pass from Alcock: a close tie of love and affection; nearness in time and space; seeing or hearing it with their own unaided senses; and that a person of reasonable fortitude would have suffered psychiatric injury." loading="lazy">
+  <figcaption>Primary victims are in danger; secondary victims witness harm and must pass the four Alcock tests.</figcaption>
+</figure>
+
+
 ## Occupiers' liability
 
 **Occupiers' Liability Act 1957 (visitors).** An occupier is whoever has a sufficient degree of control over premises (*Wheat v E Lacon & Co*, 1966). Under s2(2) the occupier owes the **common duty of care**: to take reasonable care to see that the visitor will be reasonably safe in using the premises for the purposes for which they are invited or permitted. Occupiers must be prepared for children to be less careful than adults (s2(3)(a); *Glasgow Corporation v Taylor*, 1922, poisonous berries as an allurement), though for very young children parents share responsibility (*Phipps v Rochester Corporation*, 1955). They may expect specialists to guard against risks of their trade (s2(3)(b); *Roles v Nathan*, 1963). A sufficient warning may discharge the duty (s2(4)(a)), and an occupier who reasonably chose and checked a competent independent contractor may escape liability for the contractor's faulty work (s2(4)(b); *Haseldine v Daw*, 1941).
 
 **Occupiers' Liability Act 1984 (trespassers).** Under s1(3) a duty arises only if the occupier is aware of the danger or has reasonable grounds to believe it exists, knows or has reasonable grounds to believe a non-visitor is or may come into its vicinity, and the risk is one against which they may reasonably be expected to offer protection. The duty is to take reasonable care to see the trespasser does not suffer injury from the danger (s1(4)) and can be discharged by a warning (s1(5)). There is no duty for obvious risks voluntarily taken (*Ratcliff v McConnell*, 1999; *Tomlinson v Congleton BC*, 2003). Only personal injury is covered, not damage to property (s1(8)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--09-occupiers.webp" width="900" height="880" alt="A plot of land with a house, a dashed boundary and a gate gap at the bottom. A visitor enters through the gate and a trespasser crosses the fence from the left. Below, two cards. Occupiers Liability Act 1957 for visitors: common duty of care, children less careful, a warning can discharge the duty. Occupiers Liability Act 1984 for trespassers: aware of the danger, trespasser may come near, injury only not property." loading="lazy">
+  <figcaption>Visitors are covered by the 1957 Act and trespassers by the 1984 Act.</figcaption>
+</figure>
+
 
 ## Nuisance and the escape of dangerous things
 
@@ -121,6 +144,12 @@ Private nuisance is an unlawful interference with a person's use or enjoyment of
 
 From *Rylands v Fletcher* (1868), a defendant is strictly liable where they bring onto their land something likely to do mischief if it escapes, which is a **non-natural use** of land, it **escapes** (*Read v J Lyons*, 1947), and it causes damage of a foreseeable type (*Cambridge Water v Eastern Counties Leather*, 1994). Non-natural use means an extraordinary and unusual use creating an exceptionally high risk (*Transco v Stockport MBC*, 2003).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--10-nuisance-rylands.webp" width="900" height="700" alt="Two cards. Private nuisance: a source house sends wavy lines of interference across a boundary to a neighbouring house; factors are locality, duration, malice and sensitivity. Rylands v Fletcher: a tank leaks liquid across the boundary onto crops; strict liability needs something brought onto the land, non-natural use, an escape, and foreseeable damage." loading="lazy">
+  <figcaption>Private nuisance and Rylands v Fletcher compared: both involve harm crossing a boundary.</figcaption>
+</figure>
+
+
 ## Vicarious liability
 
 **Nature and purpose:** an employer is liable for torts committed by an employee in the course of employment, although the employer is not personally at fault.
@@ -131,11 +160,23 @@ From *Rylands v Fletcher* (1868), a defendant is strictly liable where they brin
 
 **Other areas:** the relationship akin to employment has extended liability to prison authorities for prisoners working in prison kitchens (*Cox v Ministry of Justice*, 2016) and to religious bodies for their members.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--11-vicarious.webp" width="900" height="880" alt="A triangle of three parties. The employee works for the employer and commits a tort against the claimant. The employer is liable too, though not at fault. Below, the test of course of employment. In: a forbidden act done for the employer’s purposes, and a close link to the job. Out: a frolic of his own, and a personal vendetta." loading="lazy">
+  <figcaption>An employer is liable for an employee’s tort in the course of employment, not for a frolic or vendetta.</figcaption>
+</figure>
+
+
 ## Defences
 
 - **Contributory negligence** (Law Reform (Contributory Negligence) Act 1945): damages are reduced to reflect the claimant's share of responsibility, for example failing to wear a seat belt (*Froom v Butcher*, 1976).
 - **Consent (volenti non fit injuria):** the claimant knew of the risk and voluntarily accepted it; a complete defence. Mere knowledge is not enough (*Smith v Baker*, 1891), but it succeeded where workers deliberately ignored safety rules (*ICI v Shatwell*, 1965) and where a passenger flew with an obviously drunk pilot (*Morris v Murray*, 1991). It cannot be used against car passengers (Road Traffic Act 1988, s149).
 - **Nuisance and Rylands defences:** **prescription** after 20 years of actionable nuisance (*Sturges v Bridgman*); **statutory authority** (*Allen v Gulf Oil*, 1981). Coming to the nuisance is no defence (*Miller v Jackson*; *Coventry v Lawrence*). For *Rylands*, **Act of God** (*Nichols v Marsland*, 1876), **act of a stranger** (*Rickards v Lothian*, 1913), consent and statutory authority.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort-cases-defences-and-remedies-study-guide--12-tort-defences.webp" width="900" height="850" alt="Three boxes in order: tort, defences, remedies. Bars with illustrative numbers show defences: with no defence the claimant gets full damages; with contributory negligence damages are reduced, shown as a 25 percent cut; with consent (volenti) there are no damages because it is a complete defence. Remedies are damages to compensate loss, injunctions to stop an activity, and the claimant must mitigate by limiting the loss." loading="lazy">
+  <figcaption>After the tort, check defences, then remedies; bars show full, reduced and no damages (illustrative numbers).</figcaption>
+</figure>
+
 
 ## Remedies
 

@@ -37,6 +37,12 @@ Full explanation: [B.4 Abstract data types study guide](/resources/ib-dp-compute
 | HL Paper 2 | 2 hours, 40% of the final grade |
 | Languages | Java or Python; programming questions have equivalent versions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b4-abstract-data-types--12-b4-extra-hl-time.webp" width="900" height="840" alt="Theme B totals 52 hours at SL and 93 at HL when the hours table is added up. HL gets 41 more hours: B.2 plus 2, B.3 plus 16 and B.4 plus 23. B.3 and B.4 supply 39 of the 41." loading="lazy">
+  <figcaption>Most of the extra Theme B time at HL comes from B.3 and B.4.</figcaption>
+</figure>
+
+
 ## What the numbers mean for revision
 
 - B.4 has the same HL allocation as B.3 OOP (23 hours) and is assessed alongside it in the additional HL questions, so revise the two together.
@@ -59,6 +65,22 @@ An **abstract data type** is defined by its possible values and the operations a
 - Revising from another syllabus's data-structure list and assuming it matches B.4. Use the full guide.
 - Learning definitions without practising implementation and tracing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b4-abstract-data-types--13-b4-what-not-how.webp" width="900" height="1070" alt="An ADT is defined by the values it can hold and the operations on it, not by how it is implemented. In this illustrative example the same operations give the same results whether items are held in an array or in linked nodes." loading="lazy">
+  <figcaption>An ADT separates what it does from how it is stored (illustrative example).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b4-abstract-data-types--14-b4-tracing-operations.webp" width="900" height="850" alt="A trace table records each operation, what it returns and what the data type holds afterwards. Here six operations are traced: add(5), add(8), size() returns 2, remove() returns 8, remove() returns 5, and is_empty() returns true." loading="lazy">
+  <figcaption>A trace table for operations on an illustrative abstract data type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b4-abstract-data-types--15-b4-preparing.webp" width="900" height="940" alt="HL students should list every data type and operation named in the full guide, implement each in Java or Python, trace the operations on paper, and expect Paper 2 HL questions that combine B.4 with OOP." loading="lazy">
+  <figcaption>Four steps to prepare for B.4 at HL.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Is B.4 examined at SL?**
@@ -80,6 +102,12 @@ The brief describes the additional HL Paper 2 questions as focused on OOP and ab
 
 - [B.4 Abstract data types practice questions](/resources/ib-dp-computer-science-b4-abstract-data-types-practice/)
 - [B.3 Object oriented programming revision notes](/resources/ib-dp-computer-science-b3-object-oriented-programming-revision-notes/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b4-abstract-data-types--11-b4-how-big.webp" width="900" height="690" alt="B.4 has 23 teaching hours at HL and none at SL. That is more than four times B.1 (5 hours) and over half of B.2 (42 hours)." loading="lazy">
+  <figcaption>B.4 is HL only and its 23 hours is more than four times B.1 and over half of B.2.</figcaption>
+</figure>
+
 
 ## Source
 

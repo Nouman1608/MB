@@ -88,6 +88,12 @@ This is, in fact, one of the four amine-production routes already listed
 in [Amines: Aliphatic and Aromatic, Basicity and Azo
 Dyes](/resources/a-amines-aliphatic-and-aromatic/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amides-and-amino-acids--08-amide-routes.webp" width="900" height="890" alt="Ethanoyl chloride with ammonia gives ethanamide at room temperature. The amide hydrolyses with hot aqueous alkali or acid, and LiAlH4 reduces its C=O to give ethylamine." loading="lazy">
+  <figcaption>One amide, three fates: alkaline hydrolysis, acid hydrolysis or reduction to an amine.</figcaption>
+</figure>
+
+
 ## Why amides are much weaker bases than amines
 
 Amides are essentially **non-basic** in aqueous solution, in sharp contrast
@@ -103,6 +109,12 @@ phenylamine), and it's also *stabilising* for the neutral amide itself, so
 there's an extra energetic cost to protonating nitrogen and disrupting that
 stabilisation. Both effects point the same way: amides are dramatically
 less basic than the amines they're structurally related to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amides-and-amino-acids--09-amide-lone-pair.webp" width="900" height="950" alt="Ethylamine has its lone pair on N so H+ can bond: basic. In ethanamide the lone pair spreads over N, C and O, the C-N bond is partial double, and H+ is not accepted: essentially non-basic." loading="lazy">
+  <figcaption>Delocalisation into C=O makes the amide lone pair unavailable.</figcaption>
+</figure>
+
 
 ## Amino acids: acid-base properties and zwitterions
 
@@ -127,6 +139,12 @@ H₂NCH(R)COOH ⇌ ⁺H₃NCH(R)COO⁻ (the zwitterion form)
   no net charge — the pH at which the amino acid would not migrate in an
   electric field at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amides-and-amino-acids--10-zwitterion-ph.webp" width="900" height="1160" alt="An amino acid is a +1 cation in acid, a neutral zwitterion at the isoelectric point, and a -1 anion in alkali. Adding OH- moves down the figure, adding H+ moves up." loading="lazy">
+  <figcaption>Net charge of an amino acid depends on pH; the zwitterion has no net charge.</figcaption>
+</figure>
+
+
 ## Peptide bonds
 
 Two amino acids can react together, with the –COOH of one and the –NH₂ of
@@ -139,6 +157,12 @@ A third amino acid can react at either free end of the dipeptide (its free
 –COOH or free –NH₂) to extend it into a **tripeptide**, and so on — the
 same peptide-bond-forming reaction repeated, building up a longer chain one
 amino acid at a time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amides-and-amino-acids--11-peptide-bond.webp" width="900" height="930" alt="Two amino acids lose water: the OH of the first COOH and an H of the second NH2 leave. The new -CO-NH- is the peptide (amide) bond. The dipeptide keeps a free NH2 end and a free COOH end." loading="lazy">
+  <figcaption>A peptide bond forms by condensation, losing H2O.</figcaption>
+</figure>
+
 
 ## Electrophoresis
 
@@ -166,6 +190,12 @@ different net charge (and so travel a different distance, in a different
 direction, or not at all) even though they might look chemically very
 similar otherwise. (Only interpreting/predicting the outcome is required —
 not how to set up the apparatus.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amides-and-amino-acids--12-electrophoresis.webp" width="900" height="880" alt="A buffered strip between cathode (-) and anode (+). A species with pI below the buffer pH is negative and moves to the anode; pI above the pH is positive and moves to the cathode; pI equal to the pH does not move." loading="lazy">
+  <figcaption>Direction of movement follows the net charge at the chosen pH.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

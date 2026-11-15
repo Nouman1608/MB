@@ -129,6 +129,12 @@ can trigger many substitutions — this is why the reaction is described as a
 chain reaction. Further substitution beyond mono-substitution is possible in
 principle but only mono-substitution is required for AS Level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--15-hc-free-radical-chain.webp" width="900" height="1260" alt="Initiation: UV light splits Cl2 into two chlorine radicals. Propagation is a loop: Cl radical + ethane gives an ethyl radical + HCl, then the ethyl radical + Cl2 gives chloroethane and a new Cl radical. Termination: Cl + Cl, two ethyl radicals, or ethyl + Cl combine." loading="lazy">
+  <figcaption>Free-radical substitution is a chain: initiation, a two-step propagation loop, and termination steps that remove radicals.</figcaption>
+</figure>
+
+
 ## Combustion of alkanes
 
 **Complete combustion**, with a plentiful supply of oxygen, produces only
@@ -142,6 +148,12 @@ not enough oxygen to oxidise every carbon atom fully — for example:
 
 2C₂H₆ + 5O₂ → 4CO + 6H₂O
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--16-hc-complete-vs-incomplete.webp" width="900" height="1010" alt="Two panels for ethane. Plenty of O2 gives CO2 and H2O: 2C2H6 + 7O2 to 4CO2 + 6H2O. Limited O2 gives toxic CO and H2O, and carbon (soot) can form: 2C2H6 + 5O2 to 4CO + 6H2O. Ball models show linear CO2 and bent water." loading="lazy">
+  <figcaption>Plenty of oxygen gives CO2 and water; limited oxygen gives carbon monoxide and/or carbon.</figcaption>
+</figure>
+
+
 ## Environmental consequences of combustion
 
 Burning hydrocarbons in the internal combustion engine produces pollutants
@@ -152,6 +164,12 @@ to acid rain and photochemical smog), and **unburnt hydrocarbons** (from
 incomplete combustion, also contributing to smog). Catalytic converters
 remove all three pollutants together, converting them into CO₂, N₂ and H₂O
 over a platinum/rhodium catalyst.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--17-hc-catalytic-converter.webp" width="900" height="1000" alt="Fuel and air enter an engine. CO, NOx and unburnt hydrocarbons leave it and pass through a honeycomb catalytic converter (Pt/Rh), emerging as CO2, N2 and H2O. Notes give the harm of each pollutant." loading="lazy">
+  <figcaption>A platinum/rhodium catalytic converter removes CO, NOx and unburnt hydrocarbons together as CO2, N2 and H2O.</figcaption>
+</figure>
+
 
 ## Alkenes: electrophilic addition
 
@@ -204,6 +222,22 @@ stable secondary carbocation, so bromide attacks C2. The major product is
 **2-bromopropane**, CH₃–CHBr–CH₃, with 1-bromopropane forming only as a
 minor product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--18-hc-sigma-pi-bond.webp" width="900" height="1000" alt="Top: ethene in a flat plane with the pi bond electron density above and below it as two lobes, where an electrophile can attack. Bottom: ethane has only sigma bonds, which are strong and weakly polar, with no exposed electrons." loading="lazy">
+  <figcaption>The pi electron density above and below the plane is exposed to electrophiles; alkanes have only strong, weakly polar sigma bonds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--19-hc-bromine-ethene-mechanism.webp" width="900" height="1070" alt="Stage 1: the pi bond induces a dipole in Br2; arrow 1 from the C=C to the delta-plus Br, arrow 2 moves the Br-Br pair onto the other Br as bromide, leaving a carbocation. Stage 2: bromide attacks the carbocation from the opposite face. Stage 3: 1,2-dibromoethane." loading="lazy">
+  <figcaption>Electrophilic addition of Br2 to ethene gives 1,2-dibromoethane through a carbocation intermediate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--20-hc-markovnikov.webp" width="900" height="930" alt="Propene plus HBr can give a secondary carbocation (positive charge on C2, two alkyl groups pushing electrons) or a primary one (charge on C1, one alkyl group). The secondary cation is more stable and forms faster, giving 2-bromopropane as the major product; 1-bromopropane is minor." loading="lazy">
+  <figcaption>The reaction goes through the more stable secondary carbocation, so 2-bromopropane is the major product.</figcaption>
+</figure>
+
+
 ## Oxidation with acidified KMnO₄: diols and locating a double bond
 
 **Cold, dilute** acidified KMnO₄ oxidises the C=C bond to a **diol** (an
@@ -218,6 +252,12 @@ terminal =CH₂ group is oxidised all the way to CO₂ and water, an internal
 =CH– group is oxidised to a carboxylic acid, and a fully substituted =CR₂
 group is oxidised to a ketone. Working backwards from the products to the
 alkene's structure is a standard structure-determination question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-hydrocarbons-alkanes-and-alkenes--21-hc-kmno4-oxidation.webp" width="900" height="1240" alt="Cold, dilute acidified KMnO4 turns ethene into ethane-1,2-diol with the chain intact, decolourising the purple solution. Hot, concentrated acidified KMnO4 breaks the C=C: a terminal =CH2 gives CO2 and water, an internal =CHR gives a carboxylic acid, and =CR2 gives a ketone." loading="lazy">
+  <figcaption>Cold dilute KMnO4 stops at the diol; hot concentrated KMnO4 cleaves the C=C, and the fragments show where it was.</figcaption>
+</figure>
+
 
 ## Addition polymerisation
 

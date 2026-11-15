@@ -55,6 +55,12 @@ The place values of an 8-bit binary number are 128, 64, 32, 16, 8, 4, 2, 1.
 - **Hex to binary**: replace each hex digit with its 4-bit pattern.
 - **Decimal to hex**: divide by 16; the whole-number answer is the first digit and the remainder is the second (or go via binary).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--15-binary-decimal-hex.webp" width="900" height="990" alt="Two panels for the byte 10110101. Binary to decimal: place values 128, 64, 32, 16, 8, 4, 2, 1 sit above the bits; the place values under a 1 are added: 128 + 32 + 16 + 4 + 1 = 181. Binary to hex: the byte is split into two groups of four bits, 1011 and 0101. 1011 is 11, which is the hex digit B, and 0101 is 5, so the byte is B5. Check: 11 times 16 plus 5 is 181. One hex digit stands for exactly four bits." loading="lazy">
+  <figcaption>Add the place values under each 1 for decimal; split into two groups of four bits for hex.</figcaption>
+</figure>
+
+
 ## What units of information does 9210 use?
 
 A **bit** (b) is a 0 or a 1, the fundamental unit of information. A **byte** (B) is 8 bits. The specification uses **decimal prefixes** (powers of 10) in all assessments: 1 kB = 1,000 bytes, 1 MB = 1,000 kB, 1 GB = 1,000 MB, 1 TB = 1,000 GB. Do not use 1,024.
@@ -64,6 +70,12 @@ A **bit** (b) is a 0 or a 1, the fundamental unit of information. A **byte** (B)
 Work from the right: 0 + 0 = 0, 0 + 1 = 1, 1 + 1 = 10 (write 0, carry 1), 1 + 1 + 1 = 11 (write 1, carry 1). The specification uses a maximum of 8 bits, and answers will not need a carry beyond the eighth bit.
 
 A **logical binary shift** moves every bit left or right and fills the gaps with zeros. Shifting left by n places multiplies by 2 to the power n; shifting right by n places divides by 2 to the power n, with any remainder lost. This is the situation where shifts are used: simple multiplication and division by powers of 2. Only logical shifts are required, and fractions are not needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--16-binary-addition.webp" width="900" height="850" alt="Column addition of 01101101 (109) and 00111011 (59). Working from the right, the carries are computed column by column and shown as gold circles above the columns that receive a carry. The result is 10101000, which is 168 in decimal (128 + 32 + 8) and matches 109 + 59. The rules are: 0 + 0 = 0, 0 + 1 = 1, 1 + 1 = 10 (write 0, carry 1) and 1 + 1 + 1 = 11 (write 1, carry 1)." loading="lazy">
+  <figcaption>Work from the right, writing the digit and carrying when a column makes 2 or more.</figcaption>
+</figure>
+
 
 ## What are ASCII and Unicode?
 
@@ -79,11 +91,23 @@ File size: **bits = W x H x D**, and **bytes = W x H x D / 8**. More pixels or a
 
 You must also convert between binary and images: given a bit pattern and the width, draw the pixels row by row (for a 1-bit image, 1 might be black and 0 white); given a drawing, write the bit pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--18-bitmap-image.webp" width="900" height="1010" alt="An 8 by 8 pixel image drawn from its bit pattern, where 1 is a black pixel and 0 is white. The eight rows 00111100, 01000010, 10100101, 10000001, 10100101, 10011001, 01000010 and 00111100 are shown beside the grid and together form a smiley face (an illustrative pattern). A colour depth of D bits gives 2 to the power D colours: 1 bit gives 2 colours and 8 bits give 256. File size in bytes is width times height times colour depth divided by 8; for a 640 by 480 image with 24-bit colour depth that is 921,600 bytes or 921.6 kB." loading="lazy">
+  <figcaption>A bitmap is a grid of pixels, each stored with colour-depth bits; file size grows with pixels and depth.</figcaption>
+</figure>
+
+
 ## How is sound stored digitally?
 
 Sound is **analogue** and must be converted to digital form. The wave is **sampled**: a sample is a measure of the amplitude at a point in time. The **sampling rate** is the number of samples per second, in hertz (1 Hz = 1 sample per second). The **sample resolution** is the number of bits per sample.
 
 File size: **bits = rate (Hz) x resolution x seconds**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--19-sound-sampling.webp" width="900" height="980" alt="A graph of an analogue sound wave against time with horizontal lines marking eight amplitude levels (an illustrative 3-bit resolution) and sixteen evenly spaced samples shown as gold dots snapped to the nearest level. The sampling rate is the number of samples per second in hertz; the sample resolution is the number of bits per sample. File size in bits equals rate times resolution times seconds; for 22,050 Hz, 16 bits and 20 seconds that is 7,056,000 bits, which is 882,000 bytes or 882 kB." loading="lazy">
+  <figcaption>Sampling rate is samples per second; resolution is bits per sample.</figcaption>
+</figure>
+
 
 ## How do Huffman coding and run length encoding compress data?
 
@@ -99,6 +123,12 @@ Data is compressed so it needs less storage and can be transmitted more quickly.
 To **interpret** a given tree, follow the branches from the root to the character and write down the bits.
 
 **Run length encoding (RLE)** stores **frequency/data pairs**: how many times a value repeats, then the value. The specification's own example: `0000011100000011` becomes **5 0 3 1 6 0 2 1**. RLE works well when there are long runs of the same value, as in simple bitmaps, and badly when values change often.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--21-run-length-encoding.webp" width="900" height="980" alt="Three panels on run length encoding, which stores frequency then value. Encode: the 16-bit row 0000011100000011 has runs of five 0s, three 1s, six 0s and two 1s, giving 5 0 3 1 6 0 2 1. Decode: the pairs 3 0, 2 1 and 3 0 give 00011000. Poor case: an alternating row 0101010101010101 has 16 runs of length one, so it needs 16 pairs, which is 32 numbers, longer than the original (illustrative example). RLE works best with long runs of the same value, as in simple bitmaps." loading="lazy">
+  <figcaption>RLE stores the count and then the value; it works best on long runs.</figcaption>
+</figure>
+
 
 ## Worked example 1: conversions and addition
 
@@ -123,6 +153,12 @@ The result 10101000 is 128 + 32 + 8 = **168**, which matches 109 + 59.
 
 Take 00110101 (53). Shift left by 2 places: 11010100 = 212 = 53 x 4. Shift 11010100 right by 3 places: 00011010 = 26, which is 212 / 8 = 26.5 with the remainder lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--17-binary-shifts.webp" width="900" height="920" alt="Three rows of eight bit cells. The start value 00110101 is 53. Shifted left by 2 places it becomes 11010100, which is 212, equal to 53 times 4; the two leftmost bits are lost and two new zeros fill the right. Shifting 11010100 right by 3 places gives 00011010, which is 26; the three rightmost bits 100 are lost and three new zeros fill the left, so 212 divided by 8 is 26.5 with the remainder lost. Shifting left by n places multiplies by 2 to the power n and shifting right divides by 2 to the power n." loading="lazy">
+  <figcaption>A left shift multiplies by a power of 2; a right shift divides and loses the remainder.</figcaption>
+</figure>
+
+
 ## Worked example 3: file sizes
 
 An image is 640 x 480 pixels with a colour depth of 24 bits. Bytes = 640 x 480 x 24 / 8 = 921,600 bytes = **921.6 kB**.
@@ -142,6 +178,12 @@ With left = 0 and right = 1, where A is on the left of the root, N on the left o
 Compressed size = A 3 x 1 + N 2 x 2 + B 1 x 3 + S 1 x 3 = 3 + 4 + 3 + 3 = **13 bits**.
 
 Uncompressed in 7-bit ASCII = 7 characters x 7 bits = **49 bits**, so Huffman coding saves 49 - 13 = **36 bits**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-data-representation-study-guide--20-huffman-bananas.webp" width="900" height="1000" alt="A Huffman tree for the word BANANAS, built in code. Frequencies are A 3, N 2, B 1 and S 1. B and S join to make a node of 2; that node joins N to make a node of 4; that node joins A to make the root of 7. Labelling left branches 0 and right branches 1 gives A = 0, N = 10, B = 110 and S = 111. The compressed size is 3 times 1 plus 2 times 2 plus 1 times 3 plus 1 times 3, which is 13 bits, compared with 7 characters times 7 bits, which is 49 bits in 7-bit ASCII, a saving of 36 bits." loading="lazy">
+  <figcaption>Frequent characters sit near the root and get short codes: 13 bits instead of 49.</figcaption>
+</figure>
+
 
 ## Worked example 5: RLE
 

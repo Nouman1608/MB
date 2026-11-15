@@ -52,6 +52,12 @@ The preparation list in the specification also asks you to "transcribe spoken da
 concepts and ideas", "work in greater depth and with greater range" and "reflect on the writing process using methods
 of language analysis". Those are the skills this guide builds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--05-nea-six-levels.webp" width="900" height="1010" alt="Six language levels surround your data: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar, including morphology; pragmatics; and discourse. Every analysis covers relevant aspects of these levels, but you choose the ones that fit your research question and do not need to apply all six equally." loading="lazy">
+  <figcaption>The six language levels you can use on your own data.</figcaption>
+</figure>
+
+
 ## How do you choose methods for your investigation?
 
 Start from your **research question**, not from the list of levels. Ask which levels will give the most revealing
@@ -70,6 +76,17 @@ The specification's four kinds of question help too: a **genre-based** investiga
 features?), a **function-based** one (what is the language used to do?), an **attitudes-based** one (how do people
 feel about it?) and a **user-based** one (who uses it?). Each suggests different methods. An attitudes-based study
 may analyse questionnaire responses; a genre-based study may compare features across several texts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--06-nea-focus-to-levels.webp" width="900" height="990" alt="A grid of six example investigation foci against the six language levels. Regional dialect survey: phonology, lexis and grammar. Gendered talk: pragmatics, discourse and grammar. Sports commentary: grammar, lexis and prosodics. Travel guides representing a community: lexis, grammar and discourse. The writing of two children aged 8: grammar, graphology and discourse. Turn-taking in real-time online writing: discourse, pragmatics and graphology. Each focus uses three levels, so you choose levels from the research question rather than applying all six." loading="lazy">
+  <figcaption>Which three levels the lesson lists for each example investigation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--09-nea-word-count.webp" width="900" height="700" alt="The Language in Action non-exam assessment has a total of 3,500 words: a 2,000-word language investigation, which excludes the data, a piece of original writing of 750 words and a commentary of 750 words. It is worth 100 marks and 20 percent of the A-level, and is assessed by teachers and moderated by AQA. The NEA is A-level only." loading="lazy">
+  <figcaption>How the 3,500 NEA words are divided.</figcaption>
+</figure>
+
 
 ## How do you apply each level well?
 
@@ -101,6 +118,17 @@ examining whether A's hedges soften disagreement (a politeness strategy) or expr
 roles of the speakers (for example, who is chairing) explain the pattern. The conclusion should be cautious, as a
 small sample cannot support broad claims about all speakers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--07-nea-hedge-count.webp" width="900" height="980" alt="In 20 minutes of transcribed group talk, Speaker A produces 14 hedges in 52 turns, which is 26.9 percent of turns, and Speaker B produces 4 hedges in 48 turns, which is 8.3 percent. The numbers show a difference, and the analysis must then explain it: do the hedges soften disagreement as a politeness strategy, do they express uncertainty, and do the speakers’ roles, such as who is chairing, explain the pattern? A small sample cannot support broad claims, so the conclusion should be cautious." loading="lazy">
+  <figcaption>Turning hedge counts into percentages, then asking why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--08-nea-three-habits.webp" width="900" height="880" alt="Three habits make NEA analysis methodical and linked to context. 1 Code your data: decide categories in advance, such as hedges, tag questions and interruptions, and mark every instance. 2 Combine quantitative and qualitative evidence: counts show patterns and close analysis of examples explains them, with supporting evidence in the appendices. 3 Relate features to context: explain how audience, purpose, genre, mode and the relationship between participants shape the features you find." loading="lazy">
+  <figcaption>Code data, combine counts with close reading, and relate features to context.</figcaption>
+</figure>
+
+
 ## How do methods apply to the original writing commentary?
 
 In the commentary you use the same levels to **reflect on your own writing and your style model**. The
@@ -117,6 +145,12 @@ effectiveness of the final piece of writing".
 wakes slowly') to create immediacy, and I chose concrete sensory lexis from the semantic field of food to help a
 non-specialist reader picture the scene. In my second draft I replaced several adjectives with verbs, because the
 style model relied on dynamic verbs for pace."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-nea-methods-of-language-analysis--10-nea-commentary-moves.webp" width="900" height="840" alt="In the commentary you use the same language levels on your own writing in three moves. 1 Identify features of the style model at several levels, for example present-tense narration such as The market wakes slowly. 2 Explain the choices you made in your own piece using terminology, such as concrete sensory lexis from the semantic field of food chosen for a non-specialist reader. 3 Evaluate effectiveness honestly: what worked and what you redrafted, for example replacing several adjectives with verbs in the second draft." loading="lazy">
+  <figcaption>Three moves for using the language levels in the commentary.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

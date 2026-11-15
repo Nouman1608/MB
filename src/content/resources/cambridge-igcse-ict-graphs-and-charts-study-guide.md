@@ -44,6 +44,12 @@ Graphs and charts are a practical skill that draws on spreadsheet work (the data
 
 Use a **pie chart** only when the numbers add up to a meaningful whole and there are few categories (about six or fewer). Use a **line graph** only when the horizontal axis is ordered, like time. A common error is drawing a line through categories that have no order, such as different fruit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--01-gc-choose-type.webp" width="900" height="890" alt="Four small charts (bar, line, pie, scatter) each with its best use. The bar chart compares categories, the line graph shows change over time, the pie shows parts of a whole, the scatter shows whether two sets are related." loading="lazy">
+  <figcaption>Which chart suits which data.</figcaption>
+</figure>
+
+
 ### Selecting the data
 
 Before creating the chart, select exactly the cells needed, including the **row and column headings**, so that the labels and the legend are picked up automatically. Do not include a **Total** row or column unless asked, because it will appear as a category and distort the chart. If the data to chart is not next to each other, select the first block and hold down the control key to add the second.
@@ -61,6 +67,12 @@ Examiners and tasks usually ask for these, and each is a separate mark:
 - **Category labels**: the names along the horizontal axis.
 - **Gridlines**: optional lines that help read values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--04-gc-labels.webp" width="900" height="930" alt="A line graph of noon temperatures in two rooms with numbered parts: chart title, axis titles with units, legend for two series, data labels, category labels and gridlines." loading="lazy">
+  <figcaption>The labels a chart should carry.</figcaption>
+</figure>
+
+
 ### Editing a chart
 
 - Change the **scale** of the value axis, for example minimum 0, maximum 100 and major unit 20. Starting a bar chart's axis above zero can mislead the reader.
@@ -71,6 +83,12 @@ Examiners and tasks usually ask for these, and each is a separate mark:
 - Add a **secondary axis** when two series have very different scales, for example sales in thousands and profit as a percentage.
 - Edit the data in the spreadsheet; a linked chart updates automatically.
 - For a pie chart, **explode** (pull out) a sector to emphasise it, if requested.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--05-gc-axis-zero.webp" width="900" height="730" alt="Two bar charts of the same three values, one with the axis starting at 0 and one at 50. The second makes the tallest bar look five times the shortest, which is misleading." loading="lazy">
+  <figcaption>Why a bar chart axis should start at zero.</figcaption>
+</figure>
+
 
 ### Worked example: a pie chart
 
@@ -87,6 +105,17 @@ Total = 120 + 90 + 60 + 30 = **300**.
 
 Check: percentages add to 100% and angles add to 144 + 108 + 72 + 36 = 360 degrees. Spreadsheet software will calculate the angles for you, so you need to select the Category and Items columns (not the Total), give the chart the title "Weekly sales by category", and show the percentage data labels with a legend. If the Total had been included, it would have appeared as a huge sector of 300 items and made the others look tiny.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--02-gc-pie-angles.webp" width="900" height="760" alt="A pie chart of 120 books, 90 games, 60 music and 30 toys with each sector angle worked out as items divided by 300 times 360: 144, 108, 72 and 36 degrees, adding to 360." loading="lazy">
+  <figcaption>From items sold to pie sectors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--03-gc-total-trap.webp" width="900" height="990" alt="Two pies side by side. Selecting only the four categories gives four sectors. Selecting the Total row too makes the total of 300 a sector that is half of the pie, so the real categories look tiny." loading="lazy">
+  <figcaption>Why the Total row must not be selected.</figcaption>
+</figure>
+
+
 ### Worked example: a line graph with two series
 
 A school records the temperature at noon on five days in two classrooms:
@@ -99,6 +128,12 @@ A school records the temperature at noon on five days in two classrooms:
 A line graph is suitable because the days are in order. There are two series, so a legend is needed. The vertical axis could run from 15 to 30 with a unit of 5, titled "Temperature (degrees Celsius)", and the horizontal axis titled "Day of the week". The graph shows that Room B is warmer on every day, by 4 degrees on Monday (23 - 19) and 4 degrees on Friday (22 - 18). The pattern in both rooms is to rise to Wednesday then fall.
 
 When you give an interpretation, quote a figure and a trend, as in this example, instead of saying only "Room B is hotter".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-graphs-and-charts-study-guide--06-gc-describe-trend.webp" width="900" height="830" alt="The Room A and Room B temperature lines with the gap on each day shown. Room B is warmer on every day, 4 degrees on Monday and Friday, and both rooms rise to Wednesday then fall." loading="lazy">
+  <figcaption>Describing a trend with figures.</figcaption>
+</figure>
+
 
 ### Placing a chart in a document
 

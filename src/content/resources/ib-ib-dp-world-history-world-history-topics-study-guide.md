@@ -64,6 +64,12 @@ The world history topics are the breadth part of IB History. There are twelve, c
 
 These topics are assessed in Paper 2, which asks for essays on topics you have studied. Each essay is marked out of 15 using five holistic markbands, which reward focus on the question, accurate knowledge, analysis, evaluation of perspectives and a reasoned conclusion. Paper 2 sets two questions on each of the twelve topics, and you answer two essays, each on a different topic, in 1 hour 30 minutes. That is 30 marks in 90 minutes, or 3 minutes per mark, so each 15 mark essay should take about 45 minutes including planning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--07-wh-paper2-shape.webp" width="900" height="850" alt="Twelve circles show your school chooses two topics. Each topic has two questions (24 in all). You write one essay from each of two different topics, 15 marks and about 45 minutes each, 30 marks in 90 minutes." loading="lazy">
+  <figcaption>You answer two essays on two different topics, 30 marks in 90 minutes.</figcaption>
+</figure>
+
+
 ## The twelve topics
 
 The topics fall into time blocks, which helps you see links between them.
@@ -86,6 +92,12 @@ The topics fall into time blocks, which helps you see links between them.
 11. **Causes and effects of 20th-century wars.** The causes, course and effects of conflicts, including world wars and civil or regional wars, with attention to technology, economy and society.
 12. **The Cold War: superpower tensions and rivalries (20th century).** Ideological differences, alliances, crises, proxy conflicts and the end of the Cold War.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--06-wh-twelve-topics.webp" width="900" height="1112" alt="Twelve bars drawn to scale on a timeline from 750 to 2005, grouped into a 750 to 1700 block and a 1750 onwards block. Three topics are labelled only as 20th century because the lesson gives no exact dates." loading="lazy">
+  <figcaption>The twelve topics laid out in time, to scale where the lesson gives dates.</figcaption>
+</figure>
+
+
 ## Skills the topics are designed to build
 
 **Comparison.** Many questions ask you to compare examples from different regions. A good comparison makes similarities and differences explicit, explains why they exist and does not describe each example separately.
@@ -95,6 +107,12 @@ The topics fall into time blocks, which helps you see links between them.
 **Evaluation of causes and consequences.** Distinguish short-term from long-term causes, and immediate from lasting consequences. Say which factor mattered most and why.
 
 **Historiography.** Know that historians disagree and be ready to refer briefly to different views, giving them accurately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--10-wh-causes-consequences.webp" width="900" height="950" alt="Five boxes down the page: long-term causes, short-term causes, the event, immediate consequences and lasting consequences, with an arrow for time. Brackets ask which cause mattered most and whether consequences were immediate or lasting." loading="lazy">
+  <figcaption>Separate long-term from short-term causes and immediate from lasting consequences.</figcaption>
+</figure>
+
 
 ## Worked example: planning a comparative essay
 
@@ -106,6 +124,17 @@ The topics fall into time blocks, which helps you see links between them.
 4. **Time it**: 45 minutes in total. Spend 5 minutes planning, 5 on the introduction, 4 x 7 = 28 minutes on four comparison paragraphs and 5 on the conclusion plus a final read: 5 + 5 + 28 + 5 = 43 minutes, leaving 2 minutes spare.
 
 **Thesis example:** "Both leaders combined coercion with persuasion, but they differed in how far they relied on mass organisations and on the support of existing elites."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--08-wh-essay-clock.webp" width="900" height="955" alt="A vertical bar shows 45 minutes: plan 5, introduction 5, four paragraphs of 7 minutes, conclusion and final read 5, spare 2. Running totals are 5, 10, 17, 24, 31, 38, 43 and 45." loading="lazy">
+  <figcaption>A 45-minute essay: 5 + 5 + 4 x 7 + 5 = 43 minutes, with 2 spare.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--09-wh-compare-grid.webp" width="900" height="876" alt="A thesis banner sits above a grid. Each row is a point of comparison (force, propaganda and ideology, economic policy, control of institutions) with Leader A and Leader B boxes joined by a two-way arrow." loading="lazy">
+  <figcaption>Each paragraph deals with both leaders on one point of comparison.</figcaption>
+</figure>
+
 
 ## Building revision notes
 

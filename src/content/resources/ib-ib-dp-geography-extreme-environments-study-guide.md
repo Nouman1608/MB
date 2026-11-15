@@ -55,6 +55,17 @@ Aridity can be quantified using an aridity index, calculated as precipitation di
 
 Identify how these characteristics are distributed globally. Hot deserts cluster in the subtropical belts of descending air, cold environments dominate high latitudes and mountain ranges rise in many latitudes. Understanding the cause of the distribution lets you explain it, which is more valuable than naming locations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--08-ee-lapse-rate.webp" width="900" height="1030" alt="A schematic mountain with five heights and their estimated temperatures. Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m." loading="lazy">
+  <figcaption>Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--09-ee-aridity-index.webp" width="900" height="940" alt="Paired precipitation and PET bars, the division and a number line. Aridity index is precipitation divided by potential evapotranspiration: 0.12 and 0.05 in the lesson’s examples." loading="lazy">
+  <figcaption>Aridity index is precipitation divided by potential evapotranspiration: 0.12 and 0.05 in the lesson’s examples.</figcaption>
+</figure>
+
+
 ## 3.2 Physical processes and landscapes
 
 ### Weathering and mass movement
@@ -73,6 +84,27 @@ Wind transports sediment by saltation, suspension and surface creep and erodes b
 
 High mountains combine steep slopes, cold, thin air and intense radiation. Zones of vegetation change with height, and slope instability produces avalanches and rockfalls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--10-ee-freeze-thaw.webp" width="900" height="790" alt="Three crack panels: water enters, freezes and expands, repeated cycles break rock into scree. Freeze-thaw weathering in three steps." loading="lazy">
+  <figcaption>Freeze-thaw weathering in three steps.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--11-ee-glacial-landforms.webp" width="900" height="1010" alt="A labelled cross-section with trough, hanging valley with waterfall, moraine, arete and corrie. Landforms left by a glacier, shown in cross-section and not to scale." loading="lazy">
+  <figcaption>Landforms left by a glacier, shown in cross-section and not to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--12-ee-periglacial.webp" width="900" height="1010" alt="Permafrost, the active layer, a pingo, solifluction arrows and patterned ground. Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground." loading="lazy">
+  <figcaption>Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--13-ee-wind-transport.webp" width="900" height="1080" alt="Suspension, saltation and surface creep, plus deflation and abrasion. Three ways wind transports sediment, and two ways it erodes." loading="lazy">
+  <figcaption>Three ways wind transports sediment, and two ways it erodes.</figcaption>
+</figure>
+
+
 ## 3.3 Managing extreme environments
 
 People live in extreme environments through adaptation, using traditional knowledge, and through technology. Traditional strategies include nomadic pastoralism, seasonal movement and building designs that suit the climate. Modern pressures include resource extraction, tourism, irrigation agriculture, infrastructure and research stations.
@@ -86,6 +118,12 @@ Strategies to consider are protected areas, visitor management, water-efficient 
 Climate change is the main driver of change. In cold areas, warming leads to glacier retreat, permafrost thaw, changing river regimes and new access for shipping and resource use. In arid areas, changing rainfall and rising temperatures may intensify drought, though the pattern differs from place to place. Population growth and migration into marginal lands also raise pressure.
 
 Feedbacks matter: thawing permafrost can release stored carbon, which strengthens warming. Explain such feedbacks as chains of cause and effect. Consider scenarios: a managed, adaptive future with cooperation and careful planning versus a business-as-usual future with degradation. Judge which communities are most vulnerable and what makes them more or less resilient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--14-ee-permafrost-feedback.webp" width="900" height="800" alt="A loop of warming, permafrost thaw and carbon release, with a ground-damage branch. Permafrost thaw can release carbon, strengthening warming, and can destabilise the ground." loading="lazy">
+  <figcaption>Permafrost thaw can release carbon, strengthening warming, and can destabilise the ground.</figcaption>
+</figure>
+
 
 ## Worked examples
 

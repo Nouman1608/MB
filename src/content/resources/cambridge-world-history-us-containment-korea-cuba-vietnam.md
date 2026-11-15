@@ -65,6 +65,12 @@ with the **Truman Doctrine** (March 1947). The **domino theory**,
 stated by President Eisenhower in 1954, added the fear that if one
 country fell to communism its neighbours would follow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--15-containment-dominoes.webp" width="900" height="880" alt="Two rows of dominoes. In the domino theory row, one domino has fallen and the others topple in sequence, showing neighbours following. In the containment row a barrier stops the first fallen domino and the rest stand. A note says containment meant stopping communism spreading to new countries rather than overthrowing it where it already ruled." loading="lazy">
+  <figcaption>Containment (Truman Doctrine, 1947) set against the domino theory (Eisenhower, 1954).</figcaption>
+</figure>
+
+
 ## Korea, 1950–53: containment by the UN
 
 - **Background:** Korea was divided at the 38th parallel in 1945 —
@@ -87,6 +93,12 @@ country fell to communism its neighbours would follow.
   Korea stayed non-communist. But the attempt to unite Korea failed,
   China became a lasting enemy, and the cost was high (about 36,000
   American dead and far more Korean and Chinese deaths).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--16-containment-korea-front.webp" width="900" height="950" alt="A schematic chart with the Yalu River at the top and the 38th parallel in the middle. Six numbered points trace the front: the North invades and takes most of the South in June 1950, Inchon landings drive it back in September, UN forces approach the Yalu and China enters in October to November, China pushes south, the front settles near the 38th parallel by April 1951 when MacArthur is sacked, and the armistice is signed at Panmunjom on 27 July 1953." loading="lazy">
+  <figcaption>The front moved from the south to the Yalu and back to the 38th parallel (schematic).</figcaption>
+</figure>
+
 
 ## Cuba, 1959–62: containment next door
 
@@ -111,6 +123,17 @@ country fell to communism its neighbours would follow.
   communist, and the Bay of Pigs was a disaster. But Kennedy forced the
   missiles out without war, so the further spread of Soviet military
   power in the Americas was contained.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--17-containment-cuba-crisis.webp" width="900" height="870" alt="Three build-up steps: Castro overthrows Batista in January 1959, the USA breaks off relations in January 1961, and about 1,400 exiles are defeated at the Bay of Pigs in April 1961. A day scale for October 1962 marks 14 October (U-2 photographs missile sites), 22 October (naval quarantine announced), 27 October (US U-2 shot down) and 28 October (Khrushchev agrees to remove the missiles)." loading="lazy">
+  <figcaption>From Castro’s revolution to the missile crisis, 14–28 October 1962.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--18-containment-cuba-deal.webp" width="900" height="900" alt="The USSR and the USA are shown with arrows for what each gave. The USSR agreed publicly to remove its missiles from Cuba. The USA publicly promised not to invade Cuba and secretly agreed to remove its Jupiter missiles from Turkey. Afterwards came a Washington–Moscow hotline in 1963 and the Partial Test Ban Treaty in August 1963." loading="lazy">
+  <figcaption>The public and secret terms that ended the crisis on 28 October 1962.</figcaption>
+</figure>
+
 
 ## Vietnam, 1955–75: containment fails
 
@@ -141,6 +164,17 @@ country fell to communism its neighbours would follow.
   and Laos and Cambodia also fell to communists in 1975. About 58,000
   Americans died, and US prestige at home and abroad was badly damaged.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--19-containment-vietnam-timeline.webp" width="900" height="1096" alt="A vertical timeline of US involvement in Vietnam from the 1954 Geneva Accords to the fall of Saigon on 30 April 1975. Key points: about 16,000 US advisers by 1963, Operation Rolling Thunder and combat troops in March 1965, the Tet Offensive in January 1968, the My Lai massacre, a peak of over 500,000 US troops in 1968 to 69, Vietnamisation, the Paris Peace Accords in January 1973. Two squares compare the troop numbers by area." loading="lazy">
+  <figcaption>US involvement in Vietnam grew from advisers to over 500,000 troops and ended with the fall of Saigon in 1975.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--20-containment-vietnam-tactics.webp" width="900" height="810" alt="Two panels face each other. The USA used bombing and firepower, search and destroy missions, napalm and Agent Orange, and strategic hamlets from 1962. The Viet Cong used guerrilla warfare, tunnels and Ho Chi Minh Trail supply lines, supported by North Vietnam, China and the USSR." loading="lazy">
+  <figcaption>US firepower against Viet Cong guerrilla tactics.</figcaption>
+</figure>
+
+
 ## How effective was containment overall?
 
 | Case | Aim | Outcome | Verdict |
@@ -153,6 +187,12 @@ A strong conclusion might argue that containment worked best where the
 USA had broad international support and a clear front line (Korea),
 and worst where it backed an unpopular government against a
 nationalist guerrilla movement (Vietnam).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--21-containment-verdict.webp" width="900" height="920" alt="Three rows compare the cases. Korea: defend South Korea; South stayed non-communist with a stalemate; largely successful. Cuba: remove Castro and keep Soviet missiles out; Castro stayed and the missiles were removed; mixed. Vietnam: keep South Vietnam non-communist; the whole country was communist by 1975; failure. Containment worked best with broad international support and a clear front line, worst when backing an unpopular government against nationalist guerrillas." loading="lazy">
+  <figcaption>Containment judged case by case: Korea largely successful, Cuba mixed, Vietnam a failure.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

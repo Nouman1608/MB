@@ -44,6 +44,12 @@ says an investigation of **2,500 to 3,000 words**, while the detailed section 3.
 **approximately 2,500 words (excluding data)**. Plan for about 2,500 words excluding data and check
 the current limit with your teacher before you write up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--08-u4-routes.webp" width="900" height="870" alt="Two cards compare Unit 4a, a written exam of 2 hours 30 minutes with one question from two and no more than three texts on the paper, with Unit 4b, a teacher-assessed and moderated investigation of your own data written up in about 2,500 words excluding data. Both are worth 50 marks and 30% of the International A-level." loading="lazy">
+  <figcaption>Unit 4a and 4b compared.</figcaption>
+</figure>
+
+
 ## What it means to explore language
 
 Exploration means asking a question about language and answering it with evidence. A weak study describes a text. A strong study explains why language is used as it is and what that shows about people, society or change. Typical areas include:
@@ -61,9 +67,21 @@ Exploration means asking a question about language and answering it with evidenc
 
 Begin with a topic you find interesting, then narrow it to a question that can be answered with data you can collect. "Language and gender" is a topic. "How do the speakers in a set of recorded team meetings use interruptions and questions, and does this differ with the speaker's role?" is a question. A good question is specific, answerable and connected to a language concept.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--10-u4-question.webp" width="900" height="966" alt="A narrowing funnel runs from the topic Language and gender, to recorded team meetings, to interruptions and questions, to the question of whether they differ with the speaker's role. A good question is specific, answerable and linked to a language concept; How has English changed? is too broad." loading="lazy">
+  <figcaption>Narrowing a topic into a question.</figcaption>
+</figure>
+
+
 ### 2. Collect suitable data
 
 Data should be real language and relevant to the question. Aim for enough material to see patterns but not so much that you cannot analyse it closely. Sources include recordings, transcripts, messages, printed texts, online posts and archives. You must think about **ethics**: obtain permission to record people, tell participants how the data will be used, protect identities by changing names, and avoid collecting private information. Record details of when and where the data was collected, who was involved and in what context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--12-u4-ethics.webp" width="900" height="800" alt="A microphone feeds a transcript where speakers are labelled Speaker A and Speaker B with names changed. Five checks: get permission to record, tell participants how the data will be used, change names, avoid private information, and note when, where, who and context." loading="lazy">
+  <figcaption>Ethical checks for collecting spoken data.</figcaption>
+</figure>
+
 
 ### 3. Choose methods and frameworks
 
@@ -77,6 +95,12 @@ Work through the data systematically. Count features where counting is meaningfu
 
 Return to your question and give a reasoned answer. Say what the evidence suggests, how strongly, and what limits it. Small samples, one context and the influence of being recorded all restrict how far you can generalise. A strong conclusion is honest about limitations and suggests what further research could add.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--09-u4-stages.webp" width="900" height="750" alt="Five numbered stages: choose a focused question, collect suitable data with ethics considered, choose methods, analyse closely by counting then interpreting, and evaluate and conclude." loading="lazy">
+  <figcaption>Five stages of an investigation.</figcaption>
+</figure>
+
+
 ## Using concepts and wider reading
 
 High-level work links evidence to ideas. For example, a study of workplace talk might engage with ideas about language and power, accommodation (adjusting speech towards or away from others), politeness and face. Use ideas as tools to test the data, not as decoration. If the data does not fit a theory, say so and consider why. If you use another writer's findings, acknowledge them clearly and do not invent details. Only use references that you have actually read and can cite accurately.
@@ -86,6 +110,12 @@ High-level work links evidence to ideas. For example, a study of workplace talk 
 If you follow the investigation route, organise the report with a clear introduction that states the question and rationale, a section on method and data with ethical considerations, a main analysis organised by theme or feature, an evaluation and conclusion, and a list of sources and an appendix of data. If you follow the exam route, expect to compare or discuss language material and to write well-structured essays, so practise planning arguments and integrating examples and concepts quickly.
 
 In either case, write in a formal, precise style. Define terms, quote exact examples, keep paragraphs focused on one idea, and signpost your argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--13-u4-report.webp" width="900" height="826" alt="Two columns. The exam route report has four parts: Aim(s), Method, Analysis, Conclusion. The investigation report has five: introduction with question and rationale, method and data with ethical considerations, analysis by theme or feature, evaluation and conclusion, and sources with an appendix of data." loading="lazy">
+  <figcaption>Report structure for each route.</figcaption>
+</figure>
+
 
 ## Worked example: turning a topic into a plan
 
@@ -100,6 +130,12 @@ Suppose a student is interested in how young people talk online. A plan might be
 - **Evaluation**: other factors such as the age of users, the topic and the moderation rules could explain the difference, so the conclusion should be careful.
 
 The counts are only a starting point. The marks come from the quality of the analysis of examples and the strength of the evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--11-u4-counts.webp" width="900" height="980" alt="Forum A has 22 of 40 messages with abbreviations or playful spelling, 55 percent. Forum B has 9 of 40, 22.5 percent. The difference is 32.5 percentage points. Counts are a starting point and a small sample makes the finding tentative." loading="lazy">
+  <figcaption>The lesson's counts shown as squares and bars.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

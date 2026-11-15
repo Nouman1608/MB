@@ -35,6 +35,22 @@ These notes condense **sections 3.2.5.1 The role of money and 3.2.5.2 The role a
 
 **Money** is anything that is generally accepted as payment for goods and services and for settling debts. Without money, people would have to **barter**: swap goods directly. Barter needs a **double coincidence of wants** (each person must want what the other offers), and it is hard to compare values or to save. Money removes these problems, which makes specialisation and trade much easier.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--14-mn-four-functions.webp" width="900" height="780" alt="Four cards. Medium of exchange: paying for lunch by card. Unit of account: a phone priced at 300 pounds and a tablet at 450 pounds can be compared. Store of value: saving birthday money for next year. Means of deferred payment: repaying a car loan over three years." loading="lazy">
+  <figcaption>Money is a medium of exchange, a unit of account, a store of value and a means of deferred payment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--15-mn-barter-and-money.webp" width="900" height="880" alt="Top: barter fails. Alex has apples and wants boots; Bea has boots and wants fish, so Bea does not want apples and no swap is possible; this is the lack of a double coincidence of wants. Bottom: with money, Alex sells apples to Cal for pounds (step 1), then buys boots from Bea with those pounds (step 2)." loading="lazy">
+  <figcaption>Barter needs a double coincidence of wants; money lets people sell first and buy later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--16-mn-inflation-store-of-value.webp" width="900" height="850" alt="Two bars. Today, 100 pounds buys 100 pounds of today's goods. If prices rise by 10 per cent in a year, 100 pounds saved buys only about 91 pounds of today's goods next year, because 100 divided by 1.10 is about 90.9. The missing part, about 9 pounds, is shown as a dashed block. High inflation weakens money as a store of value." loading="lazy">
+  <figcaption>With 10% inflation, £100 saved buys only about £91 of today’s goods next year.</figcaption>
+</figure>
+
+
 ### The four functions of money
 
 | Function | Meaning | Example |
@@ -55,6 +71,12 @@ Good money is acceptable, durable, portable, divisible, hard to forge and limite
 - Most new money is created when banks make loans: the loan is paid into the borrower's account as a new deposit.
 - So a definition of money must include deposits, not just cash in circulation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--17-mn-most-money-not-cash.webp" width="900" height="770" alt="Money is notes and coins plus bank deposits. Example with illustrative numbers: paying 20 pounds by debit card, transfer or phone moves a deposit from Account A (100 pounds down to 80) to Account B (50 pounds up to 70). Together the accounts still hold 150 pounds and no notes or coins move. In the UK, notes and coins are only a small share of the money people hold." loading="lazy">
+  <figcaption>Most money is bank deposits, which payments move between accounts without any cash changing hands.</figcaption>
+</figure>
+
+
 ### Link to inflation
 
 Money only works well as a **store of value** if prices are stable. If inflation is 4%, £100 kept for a year buys only what 100 ÷ 1.04 = **£96.15** bought at the start. High inflation also weakens money as a unit of account, because prices keep changing.
@@ -74,6 +96,12 @@ Money only works well as a **store of value** if prices are stable. If inflation
 
 1. **Influencing interest rates.** The Monetary Policy Committee sets **Bank Rate**, which affects the rates high street banks charge borrowers and pay savers. Its aim is to keep CPI inflation at the government's 2% target.
 2. **Ensuring the stability of the financial system.** It oversees and regulates banks (making them hold enough capital so they can survive losses), checks for risks across the whole system, and acts as **lender of last resort**, lending to banks in a crisis to stop a collapse spreading. In September 2007 it gave emergency support to the bank Northern Rock after savers rushed to withdraw their money.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--19-mn-bank-of-england.webp" width="900" height="850" alt="Four roles of the Bank of England: it sets Bank Rate, the official interest rate, aiming at the inflation target; it keeps the financial system stable by supervising banks and lending to banks in difficulty; it issues banknotes in England and Wales; and it acts as the government's bank. A chain shows why stability matters: if people lose confidence in banks they may rush to withdraw deposits, banks may stop lending, and spending and investment can collapse." loading="lazy">
+  <figcaption>The Bank of England sets Bank Rate, keeps the system stable, issues banknotes and banks for the government.</figcaption>
+</figure>
+
 
 ### The role of high street banks
 
@@ -122,6 +150,12 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
 9. How do banks help to fund investment?
 10. How is a building society different from a bank?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--20-mn-how-a-bank-earns.webp" width="900" height="920" alt="Money flows from savers to a bank as 10 million units of deposits, and the bank pays savers 3 per cent interest, which is 300,000. The bank lends the 10 million to borrowers, households for homes and cars and firms for machinery and premises, and receives 7 per cent interest, which is 700,000. The difference, 700,000 minus 300,000, is 400,000, which covers the bank's costs and profit. Units are illustrative." loading="lazy">
+  <figcaption>A bank earns the gap between the 7% it charges borrowers and the 3% it pays savers.</figcaption>
+</figure>
+
+
 ### Answers
 
 1. Medium of exchange, unit of account, store of value and means of deferred payment.
@@ -134,6 +168,12 @@ Banks make profit from the **gap** between the interest rate they charge borrowe
 8. Savers: safe keeping and interest. Borrowers: loans, mortgages and overdrafts.
 9. They lend the deposits of savers to firms, which use the money to buy capital.
 10. A building society is a mutual owned by its members; a bank is owned by shareholders.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-money-and-the-financial-sector--18-mn-financial-sector.webp" width="900" height="780" alt="A tree with the financial sector at the top and four branches. The Bank of England is the UK's central bank. Commercial banks provide current accounts, savings accounts, loans and mortgages. Building societies are owned by their members and specialise in savings and mortgages. Other institutions include insurance companies." loading="lazy">
+  <figcaption>The financial sector: the Bank of England, commercial banks, building societies and other institutions.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

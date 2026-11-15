@@ -106,6 +106,22 @@ of ester bonds:
   reaction from [Amides and Amino Acids](/resources/a-amides-and-amino-acids/),
   making a polyamide that is, biologically, a protein.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--01-cp-two-types.webp" width="900" height="1010" alt="Addition joins monomers across C=C with nothing lost. Condensation joins two different end groups and a small molecule, water or HCl, is lost at every link." loading="lazy">
+  <figcaption>Addition loses nothing; condensation loses a small molecule at every link.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--02-cp-pet-repeat-unit.webp" width="900" height="890" alt="Ethane-1,2-diol and benzene-1,4-dicarboxylic acid lose two water molecules per repeat unit. The PET repeat unit is drawn bond by bond with its two ester links, diol part teal and diacid part gold." loading="lazy">
+  <figcaption>The PET repeat unit, built from a diol and a diacid with loss of water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--03-cp-small-molecule-lost.webp" width="900" height="1090" alt="A free acid end loses H2O and a dioyl chloride end loses HCl, for both ester and amide links." loading="lazy">
+  <figcaption>Acid ends lose H2O; acyl chloride ends lose HCl.</figcaption>
+</figure>
+
+
 ## Deducing monomers and repeat units
 
 **From a pair of monomers to a repeat unit**: identify the two functional
@@ -120,6 +136,12 @@ a diol/diamine and a diacid (or a single hydroxy-/amino-acid, if the same
 unit repeats identically on both sides of every linkage) — effectively
 running the condensation reaction in reverse, adding back an H₂O (or HCl)
 at each linkage broken.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--04-cp-backwards-to-monomers.webp" width="900" height="970" alt="Find the repeating ester or amide link, cut at each one, add H2O back, and read off the monomers; PET gives a diol and a diacid." loading="lazy">
+  <figcaption>Work backwards: cut each link and add water back.</figcaption>
+</figure>
+
 
 ## Predicting the type of polymerisation
 
@@ -140,6 +162,12 @@ indicates addition polymerisation; a backbone containing repeating ester
 (–COO–) or amide (–CONH–) linkages indicates condensation polymerisation,
 and which one tells you whether the original monomers were diol/diacid-type
 or diamine/diacid-type.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--05-cp-predict-type.webp" width="900" height="1110" alt="C=C means addition; matching OH/COOH or NH2/COOH groups mean condensation. A carbon-only backbone means addition; ester or amide links in the backbone mean condensation." loading="lazy">
+  <figcaption>Monomer groups and backbone links tell you the type.</figcaption>
+</figure>
+
 
 ## Degradable polymers
 
@@ -168,6 +196,12 @@ them). This is precisely why polyesters and polyamides are generally more
 biodegradable than poly(alkenes): the backbone itself contains a chemically
 reactive linkage that water (with acid or alkali) can attack, rather than
 an inert carbon chain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-condensation-polymerisation-and-polymer-degradability--06-cp-degradability.webp" width="900" height="1110" alt="Poly(alkenes) are inert, some polymers fragment under UV light, and polyesters and polyamides are hydrolysed at their links by water with acid or alkali." loading="lazy">
+  <figcaption>A reactive link in the backbone is what lets water break a polymer down.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

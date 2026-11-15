@@ -52,6 +52,12 @@ A **structure diagram** shows this as a hierarchy, with "Parking meter" at the t
 
 A **flowchart** shows the order of steps using the standard symbols: terminator (start/stop), input/output, process, decision (with yes/no exits), subroutine and flow lines.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--07-cs-decomposition-parking-meter.webp" width="900" height="880" alt="A structure diagram places Parking meter at the top with Take payment, Calculate fee and Print ticket below, each able to be split again. Four sub-system boxes list the meter inputs, processes, outputs and storage." loading="lazy">
+  <figcaption>A structure diagram breaks a parking meter into smaller parts.</figcaption>
+</figure>
+
+
 ## Explaining the purpose of an algorithm
 
 Learning outcome 7.3 asks you to state the purpose of a given algorithm and describe its processes. Start with one sentence on what it achieves, then explain how. Look at this:
@@ -69,6 +75,12 @@ OUTPUT Count
 ```
 
 **Purpose:** it counts how many of four numbers entered are multiples of 3. **Processes:** a counter is set to zero; a loop runs four times, inputting a number each time; if the number divides exactly by 3 the counter is increased; after the loop the count is output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--08-cs-flowchart-multiples-of-3.webp" width="900" height="1180" alt="A flowchart of the multiples-of-3 algorithm using start/stop, input/output, process and decision symbols. Count starts at 0; four numbers are input; Count rises when a number divides exactly by 3; Count is output at the end." loading="lazy">
+  <figcaption>The same algorithm as pseudocode, drawn with standard flowchart symbols.</figcaption>
+</figure>
+
 
 ## The standard methods of solution
 
@@ -102,6 +114,12 @@ ENDIF
 
 **Bubble sort** passes through a list comparing neighbouring pairs and swapping any that are out of order, using a temporary variable so no value is lost. A flag records whether a swap happened; when a full pass makes no swaps, the list is sorted. To sort into **descending** order, change the comparison from `>` to `<`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--10-cs-linear-search.webp" width="900" height="910" alt="A linear search checks items in order. With wanted value 19 it stops at item 5 after 5 checks and never checks items 6 to 8; with wanted value 50 it checks all 8 items and reports not in the list. List values are illustrative." loading="lazy">
+  <figcaption>A linear search stops when it finds the item or reaches the end.</figcaption>
+</figure>
+
+
 ## Validation and verification
 
 **Validation** is an automatic check that input is reasonable. The syllabus names six:
@@ -126,6 +144,12 @@ For an employee age that must be a whole number from 18 to 65 inclusive:
 | Extreme | 18 and 65 | Accepted |
 | Boundary | 17 and 18; 65 and 66 | 18 and 65 accepted; 17 and 66 rejected |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--12-cs-age-test-data.webp" width="900" height="990" alt="For an age that must be a whole number from 18 to 65 inclusive: 40 is accepted; 70, minus 3 and the word forty are rejected; extreme values 18 and 65 are accepted; boundary values 17 and 66 are rejected while 18 and 65 are accepted." loading="lazy">
+  <figcaption>Test data for an age of 18 to 65, with the accept or reject result for each.</figcaption>
+</figure>
+
+
 ## Worked example 1: a descending bubble sort
 
 Sort 4, 9, 2, 7 into descending order.
@@ -135,6 +159,12 @@ Sort 4, 9, 2, 7 into descending order.
 | 1 | 4<9 swap; 4, 2 keep; 2<7 swap | 9, 4, 7, 2 | Yes |
 | 2 | 9, 4 keep; 4<7 swap | 9, 7, 4, 2 | Yes |
 | 3 | 9, 7 keep | 9, 7, 4, 2 | No → stop |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--11-cs-bubble-sort.webp" width="900" height="900" alt="Bubble sort of 4, 9, 2, 7 into descending order. Pass 1 swaps 4 and 9 and swaps 2 and 7 to give 9, 4, 7, 2; pass 2 swaps 4 and 7 to give 9, 7, 4, 2; pass 3 makes no swap so the sort stops." loading="lazy">
+  <figcaption>Each pass compares neighbours; a pass with no swap ends the sort.</figcaption>
+</figure>
+
 
 ## Worked example 2: a trace table
 
@@ -148,6 +178,12 @@ Trace the "multiples of 3" algorithm above with inputs 4, 9, 12, 7.
 | 3 | 12 | 2 | |
 | 4 | 7 | 2 | |
 | | | | 2 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--09-cs-trace-table.webp" width="900" height="820" alt="The multiples-of-3 algorithm run with inputs 4, 9, 12 and 7. 9 and 12 are multiples of 3, so Count goes 0, 0, 1, 2, 2 and 2 is output on turn 4." loading="lazy">
+  <figcaption>Count rises only when the number is a multiple of 3.</figcaption>
+</figure>
+
 
 ## Worked example 3: finding errors
 

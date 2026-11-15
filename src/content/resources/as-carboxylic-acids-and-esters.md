@@ -78,6 +78,12 @@ by acidification.
 - **Hydrolysis of an ester** with dilute acid or dilute alkali and heat,
 followed by acidification — the reverse of esterification, covered below.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--01-acid-routes.webp" width="900" height="1000" alt="A centred ethanoic acid structure with three arrows leading to it. Oxidising ethanol or ethanal needs acidified K2Cr2O7 or KMnO4 under reflux; hydrolysing ethanenitrile needs dilute acid or alkali then acidification; hydrolysing ethyl ethanoate needs dilute acid or alkali and heat, then acidification." loading="lazy">
+  <figcaption>Three routes lead to a carboxylic acid: oxidation, nitrile hydrolysis and ester hydrolysis.</figcaption>
+</figure>
+
+
 ## Reactions of carboxylic acids
 
 Carboxylic acids behave as weak Brønsted-Lowry acids (see [Acids and
@@ -95,6 +101,17 @@ a carboxylic acid): 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂
 - **Reduction**, using LiAlH₄ (a stronger reducing agent than NaBH₄,
 needed here because a carboxylic acid is harder to reduce than an aldehyde
 or ketone) to a primary alcohol: CH₃COOH + 4[H] → CH₃CH₂OH + H₂O
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--02-acid-reactions.webp" width="900" height="1010" alt="Four panels for ethanoic acid. Mg metal gives magnesium ethanoate and hydrogen bubbles (redox). NaOH gives sodium ethanoate and water (neutralisation). Na2CO3 gives sodium ethanoate, water and CO2 fizz, the test for an acid. LiAlH4 reduces it to ethanol, a primary alcohol." loading="lazy">
+  <figcaption>Ethanoic acid reacts like a weak acid with metals, alkalis and carbonates, and LiAlH4 reduces it to an alcohol.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--06-reducing-agents.webp" width="900" height="1010" alt="A table of NaBH4 and LiAlH4 against aldehydes, ketones and carboxylic acids. NaBH4 works on aldehydes and ketones but not on carboxylic acids; LiAlH4 works on all three. The acid is reduced to a primary alcohol: CH3COOH + 4[H] gives CH3CH2OH + H2O." loading="lazy">
+  <figcaption>Only LiAlH4 is strong enough to reduce a carboxylic acid; NaBH4 is not.</figcaption>
+</figure>
+
 
 ## Esters: the same reaction, viewed from the other side
 
@@ -127,6 +144,22 @@ Alkaline hydrolysis breaks the ester into the alcohol and the carboxylate
 salt (not the free acid, since NaOH is in excess): the acyl (CH₃CO–) part
 becomes **sodium ethanoate**, CH₃COONa, and the alkoxy (–OC₂H₅) part
 becomes **ethanol**, C₂H₅OH.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--03-esterification.webp" width="900" height="1080" alt="Ethanoic acid plus ethanol, shown with the hydroxyl groups ringed, are joined by an equilibrium double arrow labelled concentrated H2SO4 catalyst and heat under reflux, giving ethyl ethanoate plus water. The ester linkage bonds are gold. It is a condensation reaction." loading="lazy">
+  <figcaption>An acid and an alcohol condense to an ester and water in an equilibrium catalysed by concentrated sulfuric acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--04-ester-hydrolysis.webp" width="900" height="1000" alt="Ethyl ethanoate splits two ways. With dilute acid and heat it is an equilibrium giving ethanoic acid and ethanol. With dilute alkali and heat it goes to completion giving sodium ethanoate and ethanol, not the free acid." loading="lazy">
+  <figcaption>Acid hydrolysis is reversible and gives the free acid; alkaline hydrolysis goes to completion and gives the carboxylate salt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carboxylic-acids-and-esters--05-alkaline-goes-to-completion.webp" width="900" height="1010" alt="An ester plus water is in equilibrium with an acid plus an alcohol. In alkali the acid has a hydrogen ion removed as it forms, becoming the sodium ethanoate salt, which cannot turn back into the ester. Removing the product pulls the equilibrium fully to the right." loading="lazy">
+  <figcaption>Alkali removes the acid as soon as it forms, so the hydrolysis goes to completion.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

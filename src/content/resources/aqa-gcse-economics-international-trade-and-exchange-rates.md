@@ -53,6 +53,12 @@ Both sections are in 3.2 How the economy works, assessed on Paper 2, with no tie
 
 The UK is a major exporter of **services**, such as financial services, insurance, business services, education and tourism. It also exports goods such as cars, machinery and medicines. It imports goods such as machinery, vehicles, fuels, food and clothing. In recent decades the UK has tended to import more goods than it exports, while exporting more services than it imports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--08-tx-uk-exports-imports.webp" width="900" height="920" alt="Two pairs of bars, with illustrative lengths showing the general pattern. Services: UK exports (financial services, insurance, business services, education, tourism) are a longer bar than imports, so the UK sells more services than it buys. Goods: UK exports (cars, machinery, medicines) are a shorter bar than imports (machinery, vehicles, fuels, food, clothing), so in recent decades the UK has tended to buy more goods than it sells." loading="lazy">
+  <figcaption>The UK tends to export more services than it imports and import more goods than it exports.</figcaption>
+</figure>
+
+
 ## What is global interdependence?
 
 Interdependence means economies rely on each other for goods, services, markets and investment. For the UK this brings benefits, such as cheaper imports and large export markets, but also risks:
@@ -60,6 +66,12 @@ Interdependence means economies rely on each other for goods, services, markets 
 - a recession abroad reduces demand for UK exports, which can cost UK jobs;
 - disruption to supply chains or a rise in world energy prices can push up UK prices;
 - UK firms face strong competition from abroad, and uncompetitive firms may close.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--09-tx-interdependence.webp" width="900" height="840" alt="Benefits of interdependence for the UK: cheaper imports and large export markets. Three risks shown as chains. A recession abroad means less demand for UK exports, so UK jobs are at risk. Disrupted supply chains or higher world energy prices make UK prices rise. Strong competition from abroad means uncompetitive UK firms may close." loading="lazy">
+  <figcaption>Interdependence brings cheaper imports and large export markets, but three kinds of risk.</figcaption>
+</figure>
+
 
 ## How are exchange rates determined?
 
@@ -82,6 +94,22 @@ The exchange rate falls from £1 = $1.40 to £1 = $1.20.
 - A UK jacket priced at £50 costs a US buyer 50 × 1.40 = **$70** before, and 50 × 1.20 = **$60** after. UK exports become cheaper abroad.
 - A US laptop priced at $600 costs a UK buyer 600 ÷ 1.40 = **£428.57** before, and 600 ÷ 1.20 = **£500** after. Imports become dearer in the UK.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--10-tx-exchange-rate-market.webp" width="900" height="1010" alt="A supply and demand diagram for the pound in a floating exchange-rate system. The vertical axis is the price of one pound in dollars and the horizontal axis is the quantity of pounds traded. Demand for pounds slopes down and comes from people abroad buying UK exports, visiting the UK or investing in the UK. Supply of pounds slopes up and comes from UK residents buying imports, holidaying abroad or investing overseas. They cross at an equilibrium of 1 pound equals 1.40 dollars (illustrative)." loading="lazy">
+  <figcaption>In a floating system the exchange rate is set where demand for pounds equals supply of pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--11-tx-pound-rises-or-falls.webp" width="900" height="1090" alt="Two exchange-rate diagrams with illustrative numbers. Top: demand for pounds rises from D1 to D2, for example because of more demand for UK exports or higher UK interest rates, so the pound appreciates from 1.40 to 1.60 dollars. Bottom: supply of pounds rises from S1 to S2 because UK consumers buy more imports, so the pound depreciates from 1.40 to 1.20 dollars." loading="lazy">
+  <figcaption>More demand for pounds makes the pound appreciate; more supply of pounds makes it depreciate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--12-tx-converting-prices.webp" width="900" height="830" alt="Worked example with illustrative numbers. When the pound falls from 1 pound equals 1.40 dollars to 1 pound equals 1.20 dollars, a UK jacket priced at 50 pounds costs a US buyer 50 times 1.40, which is 70 dollars, before and 50 times 1.20, which is 60 dollars, after, so UK exports become cheaper abroad. A US laptop priced at 600 dollars costs a UK buyer 600 divided by 1.40, which is 428.57 pounds, before and 600 divided by 1.20, which is 500 pounds, after, so imports become dearer in the UK." loading="lazy">
+  <figcaption>A fall in the pound makes UK exports cheaper abroad and imports dearer in the UK.</figcaption>
+</figure>
+
+
 ## How do exchange-rate changes affect consumers and producers?
 
 Use the SPICED rule: **S**trong **P**ound, **I**mports **C**heap, **E**xports **D**ear.
@@ -93,6 +121,12 @@ Use the SPICED rule: **S**trong **P**ound, **I**mports **C**heap, **E**xports **
 | UK firms using imported materials | Costs fall | Costs rise, which may be passed on as higher prices |
 
 The overall effect depends on how much buyers respond to the price change and on whether firms are exporters, importers or both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--13-tx-strong-weak-pound.webp" width="900" height="915" alt="The SPICED rule: Strong Pound, Imports Cheap, Exports Dear. A table compares a strong pound with a weak pound. UK consumers: with a strong pound imports and foreign holidays are cheaper; with a weak pound they cost more and prices may rise. UK exporters: with a strong pound exports are dearer abroad so sales may fall; with a weak pound exports are cheaper abroad so sales may rise. UK firms using imported materials: costs fall with a strong pound; costs rise with a weak pound and may be passed on as higher prices." loading="lazy">
+  <figcaption>SPICED: with a strong pound, imports are cheap and exports dear; the weak pound reverses this.</figcaption>
+</figure>
+
 
 ## Common errors
 

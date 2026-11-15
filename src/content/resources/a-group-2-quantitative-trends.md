@@ -91,6 +91,12 @@ This is a purely qualitative, comparative argument: the syllabus doesn't
 require actual lattice-energy numbers here, only the polarising-power
 reasoning connecting ionic radius to bond weakening.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-group-2-quantitative-trends--07-g2-polarisation.webp" width="900" height="1060" alt="A small Mg2+ cation strongly distorts a large carbonate anion, so it decomposes at the lowest temperature; a large Ba2+ distorts it least and decomposes at the highest; cation radius increases from Mg to Ba as stability increases." loading="lazy">
+  <figcaption>Smaller cations polarise the anion more, so Mg compounds decompose most easily.</figcaption>
+</figure>
+
+
 ## Solubility trends: hydroxides vs sulfates
 
 AS Level established that **hydroxide solubility increases down the group**
@@ -136,6 +142,27 @@ to the cation** — a small anion (OH⁻) makes the lattice term move
 comparably to the hydration term, while a large anion (SO₄²⁻) makes the
 lattice term nearly constant, leaving the hydration term to dominate the
 trend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-group-2-quantitative-trends--08-g2-solution-cycle.webp" width="900" height="960" alt="An energy-level diagram: the solid is lifted to gaseous ions by minus the lattice enthalpy, and the ions fall to aqueous ions by the two hydration enthalpies; the net change is the enthalpy change of solution." loading="lazy">
+  <figcaption>The enthalpy change of solution is minus lattice enthalpy plus the two hydration enthalpies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-group-2-quantitative-trends--09-g2-hydroxide-solubility.webp" width="900" height="1010" alt="Illustrative waterfall charts for magnesium and barium hydroxide: the lattice term falls by 40 and cation hydration by 20, so the solution enthalpy becomes more exothermic and solubility increases." loading="lazy">
+  <figcaption>With a small anion the lattice term falls faster, so hydroxides become more soluble.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-group-2-quantitative-trends--10-g2-sulfate-solubility.webp" width="900" height="1010" alt="Illustrative waterfall charts for magnesium and barium sulfate: the lattice term barely changes but cation hydration falls by 20, so the solution enthalpy becomes less exothermic and solubility decreases." loading="lazy">
+  <figcaption>With a large anion the hydration term falls faster, so sulfates become less soluble.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-group-2-quantitative-trends--11-g2-opposite-trends.webp" width="900" height="990" alt="Down Group 2, hydroxide solubility increases and sulfate solubility decreases, with the examples named in the lesson." loading="lazy">
+  <figcaption>Remember the two directions as a pair.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

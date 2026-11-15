@@ -80,6 +80,12 @@ long the original side-chain was:
 C₆H₅CH₃ (methylbenzene) --[hot alkaline KMnO₄, then dilute acid]→ C₆H₅COOH
 (benzoic acid)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--07-benzoic-acid-route.webp" width="900" height="880" alt="Methylbenzene, and an ethyl side chain as an example of a longer chain, are heated with hot alkaline KMnO4 then treated with dilute acid. Both give benzoic acid, with one COOH on the ring. The whole side chain becomes one COOH, whatever its length." loading="lazy">
+  <figcaption>Hot alkaline KMnO4 then dilute acid turns any alkyl side chain into a ring-COOH group.</figcaption>
+</figure>
+
+
 ## Further oxidation of carboxylic acids
 
 Most carboxylic acids resist further oxidation, but two structurally
@@ -98,6 +104,12 @@ met in [Transition Elements: Properties, Complexes and Redox
 Chemistry](/resources/a-transition-elements-properties-complexes-and-redox-chemistry/),
 since the ethanedioate ion, C₂O₄²⁻, is simply ethanedioic acid's conjugate
 base.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--08-further-oxidation.webp" width="900" height="960" alt="Methanoic acid has a hydrogen directly on its carbonyl carbon, circled as the aldehyde-like H; Fehling’s, Tollens’, acidified KMnO4 or acidified K2Cr2O7 oxidise it to CO2 and water. Ethanedioic acid, HOOC-COOH, is oxidised by warm acidified KMnO4 to CO2. Other carboxylic acids resist further oxidation." loading="lazy">
+  <figcaption>Only methanoic and ethanedioic acid are oxidised further.</figcaption>
+</figure>
+
 
 ## Relative acidity of carboxylic acids, phenols and alcohols
 
@@ -123,6 +135,12 @@ chlorine's vicinity) — the more chlorine atoms present, and the closer they
 are to the carboxyl group, the greater this effect, and the more acidic the
 compound. For example, trichloroethanoic acid (Cl₃CCOOH) is substantially
 more acidic than ethanoic acid (CH₃COOH).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--09-acidity-ladder.webp" width="900" height="1010" alt="A ladder of conjugate bases with more acidic at the top: chlorine-substituted carboxylate (chlorine withdraws electrons inductively), carboxylate (charge shared equally over both oxygens), phenoxide (charge spread unevenly round the ring), alkoxide (no delocalisation, charge stays on one oxygen)." loading="lazy">
+  <figcaption>Better stabilisation of the conjugate base makes a stronger acid: carboxylic acid, then phenol, then alcohol, with chlorine increasing acidity.</figcaption>
+</figure>
+
 
 ## Esters from acyl chlorides
 
@@ -160,6 +178,12 @@ applied to a carboxylic acid's –OH.
 
 All five reactions share the same underlying mechanism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--10-acyl-chloride-reactions.webp" width="900" height="910" alt="A carboxylic acid is converted to an acyl chloride with PCl3 and heat, PCl5 or SOCl2. From the acyl chloride, five reactions at room temperature each release HCl: water gives a carboxylic acid, an alcohol an ester, phenol an aryl ester, ammonia an amide, and a primary or secondary amine a substituted amide." loading="lazy">
+  <figcaption>One acyl chloride gives five product types, all by addition-elimination at room temperature.</figcaption>
+</figure>
+
+
 ## The addition-elimination mechanism
 
 Acyl chlorides are highly reactive because chlorine is a good leaving group
@@ -183,6 +207,12 @@ The same two-step pattern applies with an alcohol, phenol, ammonia or amine
 as the nucleophile in step 1 — only the identity of the attacking
 nucleophile (and therefore the final product: ester, aryl ester, or amide)
 changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--11-addition-elimination.webp" width="900" height="1190" alt="Step 1: a lone pair on water’s oxygen attacks the carbonyl carbon while the C=O pi electrons move onto oxygen. Step 2: in the negatively charged tetrahedral intermediate, O minus re-forms C=O and chloride leaves; a proton is lost from OH2 plus, giving the carboxylic acid and, with chloride, HCl. Alcohols, phenol, ammonia and amines follow the same steps." loading="lazy">
+  <figcaption>Addition then elimination gives overall substitution at the carbonyl carbon.</figcaption>
+</figure>
+
 
 ## Relative ease of hydrolysis: acyl chlorides vs alkyl chlorides vs halogenoarenes
 
@@ -209,6 +239,12 @@ Halogenoarenes](/resources/a-arenes-and-halogenoarenes/), the C–Cl bond is
 strengthened by lone-pair delocalisation into the ring, and nucleophilic
 attack at that carbon would have to disrupt the ring's aromatic
 stabilisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-carboxylic-acids-and-acyl-chlorides--12-hydrolysis-ease.webp" width="900" height="960" alt="Three rows ranked fastest to slowest. An acyl chloride reacts with cold water in seconds because the carbonyl carbon is pulled on by both O and Cl. An alkyl chloride such as chloroethane needs warming with aqueous alkali. A halogenoarene such as chlorobenzene essentially does not react." loading="lazy">
+  <figcaption>Acyl chlorides hydrolyse fastest, alkyl chlorides slowly, halogenoarenes hardly at all.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

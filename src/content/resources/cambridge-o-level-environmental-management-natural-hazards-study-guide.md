@@ -53,6 +53,17 @@ The Earth's crust is broken into **tectonic plates** that move slowly on the man
 
 **Management:** earthquakes cannot be predicted accurately, so the emphasis is on preparation: earthquake-resistant buildings (deep foundations, flexible frames, cross-bracing), land-use planning, drills, emergency supplies and rescue teams. Volcanoes can often be monitored (gas emissions, small tremors, ground swelling) so evacuation is possible. Benefits to remember: volcanic soils are very fertile, and geothermal energy is a resource.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--01-focus-epicentre.webp" width="900" height="800" alt="Cross-section of the ground. Underground, rocks slip along a fault at the focus, shown with a yellow dot. Directly above it on the surface is the epicentre, shown with a red dot. Waves spread out from the focus in rings. Houses near the epicentre tilt because shaking is strongest there; houses far away stay upright. A seismometer on the surface records the waves. The size of an earthquake is its magnitude on the moment magnitude scale." loading="lazy">
+  <figcaption>The focus is where rocks slip underground; the epicentre is the surface point directly above it, where shaking is strongest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--02-plate-boundaries.webp" width="900" height="1130" alt="Three cross-sections. At a destructive boundary one plate sinks beneath another and a volcano forms on the upper plate. At a constructive boundary two plates move apart and magma rises in the gap to form a volcano. Over a hot spot, a plate moves above a fixed plume of hot rock and a volcano forms above it." loading="lazy">
+  <figcaption>Volcanoes form at destructive boundaries, constructive boundaries and over hot spots.</figcaption>
+</figure>
+
+
 ## 6.2 Tropical cyclones
 
 A tropical cyclone (also called a hurricane or typhoon, depending on region) is a large, rotating storm with very low pressure and strong winds.
@@ -62,6 +73,17 @@ A tropical cyclone (also called a hurricane or typhoon, depending on region) is 
 **Effects:** strong winds that destroy buildings and crops, heavy rain causing flooding and landslides, and **storm surge** (a rise in sea level driven by wind and low pressure) that floods coastal areas and causes most deaths.
 
 **Management:** satellite tracking and forecasts, early warnings, evacuation, cyclone shelters, strengthened buildings, coastal defences such as mangroves and sea walls, and insurance and aid for recovery. Compare the death tolls in richer and poorer countries to show how preparation changes outcomes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--03-cyclone-formation.webp" width="900" height="900" alt="Cross-section of a tropical cyclone over warm ocean. Sea surface temperature of about 26 to 27 degrees Celsius or more heats the air. Warm moist air rises in two cloud walls either side of a clear eye, condenses and releases heat that powers the storm, then flows out at the top. Earth's rotation spins the system, so the storm must be away from the equator. When the storm moves over land it loses its supply of warm water and weakens." loading="lazy">
+  <figcaption>A tropical cyclone needs warm ocean of about 26 to 27 degrees Celsius or more and distance from the equator; it weakens over land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--04-storm-surge.webp" width="900" height="800" alt="Side view of a coast. Low pressure in the storm lets the sea surface bulge above normal sea level, and strong wind pushes the water towards the shore. The raised sea floods low-lying coastal land and houses. Storm surge causes most cyclone deaths." loading="lazy">
+  <figcaption>Low pressure and strong wind raise the sea against the coast, flooding low-lying land; storm surge causes most deaths.</figcaption>
+</figure>
+
 
 ## 6.3 Flooding
 
@@ -87,6 +109,22 @@ Lag time = time from peak rainfall to peak discharge = 19:30 - 14:00 = **5 hours
 Rise above normal flow = 85 - 12 = **73 m3/s**.
 
 Interpretation: a short lag time and high peak suggest fast runoff, typical of a steep, urban or deforested catchment. A longer lag and a lower peak would suggest a wooded or permeable catchment where water soaks in and moves slowly. A sensible suggestion for this town is to plant trees upstream and add retention ponds, which would lengthen the lag time and lower the peak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--05-flood-catchments.webp" width="900" height="900" alt="Two side views of a slope draining to a river, with rain falling on both. On the wooded slope trees intercept rain and water soaks into the soil, so it reaches the river slowly and the flow stays low. In the town, roofs and roads stop water soaking in, so rain runs quickly through drains to the river, giving fast and high flow and a higher flood risk." loading="lazy">
+  <figcaption>Trees and soil slow rain on a wooded slope; roofs and roads send it quickly to the river in a town.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--06-flood-hydrograph.webp" width="900" height="800" alt="Graph of river discharge in cubic metres per second against time on Monday, with a rainfall strip above. Heavy rain peaks at 14:00. Discharge rises from a base flow of 12 to a peak of 85 at 19:30. The lag time is the gap between peak rainfall and peak discharge, 5 hours 30 minutes. The rise above normal flow is 73 cubic metres per second. A dashed curve shows the shape for a wooded or permeable catchment, with a longer lag and lower peak. Curve shapes are illustrative." loading="lazy">
+  <figcaption>Rain peaks at 14:00, the river peaks at 19:30 at 85 cubic metres per second, so the lag time is 5 hours 30 minutes and the rise is 73.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-natural-hazards-study-guide--07-hard-soft-flood.webp" width="900" height="860" alt="Two cross-sections of a river. Hard engineering uses structures such as levees (embankments), dams, barriers and wider channels: strong protection but costly, and it can move the problem downstream. Soft engineering works with nature, using trees upstream, wetland and a floodplain where building is not allowed: cheaper and more natural but giving less protection in extreme events." loading="lazy">
+  <figcaption>Hard engineering such as levees is strong but costly and can move the problem downstream; soft engineering is cheaper and more natural but gives less protection in extremes.</figcaption>
+</figure>
+
 
 ## 6.4 Drought
 

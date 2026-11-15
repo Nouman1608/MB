@@ -63,6 +63,12 @@ Growth means the economy is producing more goods and services than before. When 
 
 Real GDP is the better guide to growth because a rise in nominal GDP can come entirely from higher prices. GDP per capita is a better guide to living standards than total GDP because a large country can have a large GDP but a low output per person.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--06-real-gdp-growth.webp" width="900" height="950" alt="Three bars for Country P in billion units: last year 500, this year nominal 540 (growth 8%), this year real 514.3 (540 divided by 1.05, growth 2.9%). GDP per capita with 20 million people is 27,000." loading="lazy">
+  <figcaption>Real GDP removes the effect of price rises, so real growth is smaller than nominal growth.</figcaption>
+</figure>
+
+
 ## What causes economic growth?
 
 Growth happens when an economy can produce more (its productive capacity rises) or when it uses more of the capacity it already has. Common causes are:
@@ -71,6 +77,12 @@ Growth happens when an economy can produce more (its productive capacity rises) 
 - **More or better labour** — a larger workforce, or workers with more skills through education and training.
 - **New technology** — producing more output from the same inputs.
 - **Higher spending** — more consumer spending, investment, government spending or exports raises demand, so firms produce more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--07-growth-capacity.webp" width="900" height="990" alt="Illustrative production possibility curves. A point inside PPC1 moves towards the curve when spending raises use of existing capacity. The curve shifts out to PPC2 when capital, labour or technology improve productive capacity." loading="lazy">
+  <figcaption>Growth can come from using spare capacity or from raising capacity.</figcaption>
+</figure>
+
 
 ## What are the benefits and costs of growth?
 
@@ -99,6 +111,12 @@ A person is unemployed if they are of working age, want a job, are available to 
 
 In the UK, unemployment is measured in two ways: the **Labour Force Survey**, which asks a sample of households whether people are looking for work, and the **claimant count**, which counts people claiming unemployment-related benefits. The claimant count misses people who are looking for work but cannot or do not claim benefits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--08-unemployment-rate.webp" width="900" height="1040" alt="A bar shows a labour force of 31.5 million: 30 million employed and 1.5 million unemployed. The unemployment rate is 1.5 divided by 31.5 times 100, which is 4.8%, not out of the whole population. The Labour Force Survey samples households; the claimant count counts benefit claimants and misses job-seekers who do not claim." loading="lazy">
+  <figcaption>The unemployment rate is a percentage of the labour force, not of the population.</figcaption>
+</figure>
+
+
 ## What are the four types of unemployment?
 
 | Type | Cause | Example |
@@ -109,6 +127,12 @@ In the UK, unemployment is measured in two ways: the **Labour Force Survey**, wh
 | Cyclical | A fall in total demand during a downturn or recession | Factory workers laid off when sales fall across the economy |
 
 Frictional and seasonal unemployment are usually short-term. Structural and cyclical unemployment are more serious because they can last for a long time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--09-unemployment-types-fix.webp" width="900" height="970" alt="Four rows. Frictional (between jobs) and seasonal (demand follows the seasons) are short-term; seasonal is not helped much by demand or training policy. Structural (one industry declines) and cyclical (total demand falls) can last long; training suits structural, raising demand suits cyclical." loading="lazy">
+  <figcaption>Match the policy to the type of unemployment.</figcaption>
+</figure>
+
 
 ## What are the consequences of unemployment?
 
@@ -145,6 +169,12 @@ Match the policy to the type: training suits structural unemployment, while extr
 **Can unemployment ever be zero?** No. Some frictional and seasonal unemployment always exists, which is why full employment does not mean zero unemployment.
 
 **Which type of unemployment rises in a recession?** Cyclical unemployment, because total demand falls across the economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--10-gdp-per-person.webp" width="900" height="1050" alt="Bar chart of percentage changes: GDP plus 2 percent, population plus 3 percent, GDP per person about minus 1.0 percent (1.02 divided by 1.03 minus 1). People share a strip of output so each slice is smaller." loading="lazy">
+  <figcaption>If population grows faster than GDP, output per person falls.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

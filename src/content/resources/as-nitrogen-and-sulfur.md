@@ -73,6 +73,12 @@ very high activation energy for almost any reaction, which is why it takes
 extreme conditions (lightning, an internal combustion engine, or an
 industrial catalyst in the Haber process) to make it react at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--01-n2-unreactive.webp" width="900" height="1030" alt="Three panels. First, two nitrogen atoms joined by a triple bond, 944 kJ per mol. Second, the same molecule in an even electron cloud: shared equally, so no dipole to attract a reactive species. Third, an energy profile with a very tall hill, labelled very high activation energy, which needs lightning, a hot engine or a catalyst to overcome." loading="lazy">
+  <figcaption>A strong, non-polar N≡N bond gives nitrogen a very high activation energy.</figcaption>
+</figure>
+
+
 ## The basicity of ammonia
 
 Ammonia's nitrogen atom carries a lone pair, which makes NH₃ a
@@ -98,6 +104,17 @@ This is a standard test for an ammonium salt: warm gently with aqueous
 sodium hydroxide, and ammonia's characteristic smell (and its effect of
 turning damp red litmus paper blue) confirms the presence of NH₄⁺.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--02-ammonia-base.webp" width="900" height="1000" alt="Ammonia has a lone pair on nitrogen. A curly arrow from the lone pair to an incoming H+ shows both electrons donated to form a new N-H bond, giving the ammonium ion with four N-H bonds. The new bond is a coordinate (dative) bond but all four bonds are identical once formed. NH3 + HCl gives NH4Cl." loading="lazy">
+  <figcaption>Ammonia accepts a proton using its lone pair, forming the ammonium ion by a coordinate bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--03-ammonium-test.webp" width="900" height="950" alt="A test tube of an ammonium salt and aqueous sodium hydroxide is warmed gently. Ammonia gas, with its characteristic smell, rises and turns damp red litmus paper blue. NaOH is a stronger base than ammonia: NH4Cl + NaOH gives NaCl + NH3 + H2O." loading="lazy">
+  <figcaption>Warming an ammonium salt with NaOH(aq) releases ammonia, which turns damp red litmus blue.</figcaption>
+</figure>
+
+
 ## Oxides of nitrogen
 
 **Natural formation**: the enormous energy of a lightning strike is enough
@@ -115,12 +132,29 @@ agent, over a platinum/rhodium/palladium catalyst:
 
 2CO + 2NO → 2CO₂ + N₂
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--04-nox-sources.webp" width="900" height="980" alt="Two panels show lightning (natural) and an internal combustion engine (man-made), both giving the activation energy for N2 + O2 → 2NO, drawn with particles. A second panel shows NO being oxidised by oxygen to NO2." loading="lazy">
+  <figcaption>Lightning and engines both supply the energy for N₂ + O₂ → 2NO; some NO is then oxidised to NO₂.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--05-catalytic-converter.webp" width="900" height="950" alt="A honeycomb catalytic converter with a Pt, Rh, Pd catalyst takes in CO and NO and releases CO2 and N2: 2CO + 2NO → 2CO2 + N2. Carbon is oxidised from +2 in CO to +4 in CO2; nitrogen is reduced from +2 in NO to 0 in N2. CO is the reducing agent." loading="lazy">
+  <figcaption>The converter reduces NOx to N₂ using CO; carbon is oxidised and nitrogen is reduced.</figcaption>
+</figure>
+
+
 ## NOx and photochemical smog
 
 Atmospheric NO and NO₂ react with unburned hydrocarbons from vehicle
 exhaust — driven by sunlight — to form **peroxyacetyl nitrate (PAN)**, a
 key component of photochemical smog and an eye and lung irritant
 characteristic of sunny, traffic-heavy cities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--06-nox-smog-pan.webp" width="900" height="860" alt="Vehicle exhaust releases NO, NO2 and unburned hydrocarbons. Driven by sunlight they react to form peroxyacetyl nitrate (PAN), shown as a smog haze. PAN is an eye and lung irritant, typical of sunny, traffic-heavy cities." loading="lazy">
+  <figcaption>In sunlight, NOx and unburned hydrocarbons form PAN, a component of photochemical smog.</figcaption>
+</figure>
+
 
 ## NOx and acid rain
 
@@ -136,6 +170,12 @@ then dissolves in water to form sulfuric acid, SO₃ + H₂O → H₂SO₄, whic
 falls as acid rain. NO₂ isn't consumed overall in this pathway; it
 speeds up sulfur dioxide's contribution to acid rain without being used
 up itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-nitrogen-and-sulfur--07-nox-acid-rain.webp" width="900" height="970" alt="Direct route: NO and NO2 dissolve in water and are oxidised to HNO3, which falls as acid rain. Indirect route: NO2 oxidises SO2 to SO3, making NO; NO reacts with O2 to regenerate NO2, so NO2 is a catalyst. SO3 + H2O gives H2SO4, which falls as acid rain." loading="lazy">
+  <figcaption>NOx forms acid rain directly as nitric acid and indirectly by catalysing SO₂ oxidation to sulfuric acid.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

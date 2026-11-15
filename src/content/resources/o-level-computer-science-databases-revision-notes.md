@@ -62,6 +62,22 @@ Condensed for the final weeks. For worked explanations, use the
 | A date or a time | Date/time |
 | Anything else, including codes and phone numbers | Text/alphanumeric |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--08-db-anatomy.webp" width="900" height="820" alt="The five-record, six-field Car table with CarReg marked as the primary key, one row labelled as a record, one column labelled as a field, and the count 6 fields and 5 records." loading="lazy">
+  <figcaption>Fields are columns, records are rows, and the primary key is unique.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--09-db-datatypes.webp" width="900" height="860" alt="Each Car field with a sample value points to its data type: CarReg and Make text/alphanumeric, Seats integer, DailyRate real, Electric Boolean, LastService date/time, plus a character example." loading="lazy">
+  <figcaption>Choosing a data type for every field.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--10-db-validation.webp" width="900" height="980" alt="For CarReg, Seats, DailyRate and LastService, an accepted and rejected example value is shown against each check: presence, format, range 2 to 9, greater than 0, type and valid date." loading="lazy">
+  <figcaption>What each validation check accepts and rejects.</figcaption>
+</figure>
+
+
 ## The four-step SQL method
 
 1. **SELECT** — which fields are wanted? (Only those; `*` for all.)
@@ -82,6 +98,12 @@ For a single total or count, put `SUM(field)` or `COUNT(*)` after SELECT.
 | F5 | Quiet Tide | Thriller | 112 | 8.1 | TRUE |
 
 Primary key: **FilmID**. Genre, Subtitled and even Title could repeat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--12-db-sql-order.webp" width="900" height="1048" alt="A four-line SELECT query, then three tables: WHERE keeps the three five-seat cars, SELECT keeps CarReg and DailyRate, ORDER BY sorts by DailyRate largest first." loading="lazy">
+  <figcaption>How the output of a query is found step by step.</figcaption>
+</figure>
+
 
 ## Drills on the Film table
 
@@ -148,3 +170,19 @@ COUNT counts the selected records, and `COUNT(*)` is the clearest way to write i
 5. What does `SELECT COUNT(*) FROM Film WHERE Genre = 'Drama' AND Rating > 8.0;` return?
 
 **Answers:** 1. 6 fields, 5 records. 2. Real; Boolean. 3. Its values repeat (two dramas, two thrillers), so it cannot identify one record. 4. `SELECT FilmID, Title FROM Film WHERE Minutes > 120 ORDER BY Title ASC;` → F4 Last Orbit; F1 Monsoon Road. 5. 1 (F3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--11-db-key.webp" width="900" height="1006" alt="CarReg values are all different, while Toyota repeats twice and Seats 5 repeats three times, so only CarReg can be a key. A club table shows a created MemberID separating two people with the same name and birthday." loading="lazy">
+  <figcaption>A primary key must be unique, so create one if no field is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--13-db-and-or.webp" width="900" height="1050" alt="Two tick-and-cross grids. For AND, only LEA 2041 and LEA 5218 pass both conditions so COUNT(*) gives 2. For OR, KHI 7712 and MUX 6603 pass one condition, so ordered by seats the output is Honda 4, Toyota 7." loading="lazy">
+  <figcaption>AND needs both conditions, OR needs at least one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--14-db-sum-count.webp" width="900" height="890" alt="The two Toyota records are selected. COUNT(*) counts two records. SUM(DailyRate) adds 55.50 and 42.25 to give 97.75." loading="lazy">
+  <figcaption>COUNT counts the selected records and SUM adds a numeric field.</figcaption>
+</figure>
+

@@ -95,6 +95,12 @@ and variables can be changed easily. **Disadvantages:** a model is only
 as accurate as its data and formulas; real-life conditions may not be
 fully represented; specialist software and expertise can be expensive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--08-what-if-model.webp" width="900" height="880" alt="An interest-rate slider feeds a model of formulas and rules. An illustrative chart shows 1,000 pounds growing to about 1,344 pounds at 3 percent and 1,629 pounds at 5 percent over 10 years." loading="lazy">
+  <figcaption>Changing an input in a model shows the result without a real-life test.</figcaption>
+</figure>
+
+
 ## How are computer controlled systems used? (6.3)
 
 In **robotics in manufacture**, robots weld, paint and assemble products.
@@ -137,6 +143,12 @@ choose seats; often cheaper with special offers; instant confirmation
 and e-tickets. **Disadvantages:** needs an internet connection and a
 device; risk of fraud or hacking of personal data; booking fees; less
 personal than speaking to an agent; a mistake may be hard to correct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--12-booking-seats.webp" width="900" height="716" alt="Four steps lead from searching to an e-ticket. Seat B3 chosen by customer 1 is stored in the database at once, so customer 2 sees it as sold and cannot book it." loading="lazy">
+  <figcaption>The database updates at once so a seat is not sold twice.</figcaption>
+</figure>
+
 
 ## Banking applications (6.6)
 
@@ -187,6 +199,12 @@ the inference engine searches the knowledge base using the rules; the
 system suggests possible solutions, often with a probability or
 confidence; the explanation system shows the reasoning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--09-expert-system.webp" width="900" height="820" alt="A user talks to the interface, which passes answers to the inference engine. The engine applies the rules base to the knowledge base facts, and the explanation system shows the reasoning. Four numbered steps give the order." loading="lazy">
+  <figcaption>The five parts of an expert system and how a solution is produced.</figcaption>
+</figure>
+
+
 ## Computers in the retail industry (6.9)
 
 A **POS terminal** reads each item's barcode, looks up its price and
@@ -206,6 +224,17 @@ prices and have goods delivered. Drawbacks include not seeing goods
 before buying, delivery costs and delays, and security risks to payment
 data; for shops it means fewer staff and premises but more competition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--10-pos-stock.webp" width="900" height="854" alt="A barcode scan looks up the price in the stock file. In an illustrative example stock falls from 12 to 11 to 10, reaching the reorder level of 10, and new stock is ordered automatically." loading="lazy">
+  <figcaption>A POS terminal updates stock and reorders at the reorder level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--11-eftpos-payment.webp" width="900" height="850" alt="Chip and PIN, contactless card and phone (NFC) payments reach the EFTPOS terminal, which checks the card. The shop computer asks the bank computer whether funds are available; the answer comes back authorised and the money is transferred." loading="lazy">
+  <figcaption>How an EFTPOS payment is checked and authorised.</figcaption>
+</figure>
+
+
 ## Recognition systems (6.10)
 
 | System | How it works | Uses |
@@ -221,6 +250,12 @@ disadvantages** are cost, and errors when marks, text or features are
 unclear. Biometrics cannot be forgotten or lost but raise privacy
 concerns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--13-recognition-systems.webp" width="900" height="978" alt="OMR reads filled marks in set positions, OCR turns an image of text into editable text, RFID reads a tag by radio without line of sight, NFC works over a very short range, and biometrics recognise a unique body feature." loading="lazy">
+  <figcaption>What OMR, OCR, RFID, NFC and biometrics each recognise.</figcaption>
+</figure>
+
+
 ## Satellite systems (6.11)
 
 **GPS** uses signals from several satellites to calculate a receiver's
@@ -234,6 +269,12 @@ which reach remote areas without cables.
 planning saves time and fuel. **Disadvantages:** signal loss in tunnels
 or among tall buildings; maps may be out of date; satellite equipment is
 expensive; over-reliance on navigation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--14-satellite-gps-gis.webp" width="900" height="880" alt="Four satellites send signals to a receiver, which calculates its position. A GIS stacks layers of data such as population, rivers and roads into one map for planning." loading="lazy">
+  <figcaption>GPS finds a position; GIS combines layers of data.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

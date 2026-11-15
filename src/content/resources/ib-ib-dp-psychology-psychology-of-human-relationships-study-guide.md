@@ -47,25 +47,55 @@ Gottman's research on couples identified patterns of conflict talk, including cr
 
 Theories of why relationships continue or end include social exchange ideas, in which partners weigh rewards against costs, and Rusbult's investment model, which adds satisfaction, quality of alternatives and the investment already made. The investment model explains why some people stay in unhappy relationships: the commitment they feel depends on more than satisfaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--07-hr-investment.webp" width="900" height="810" alt="Three boxes, satisfaction, quality of alternatives and investment already made, all point to a circle labelled commitment, which points to stays or leaves. A box says commitment depends on more than satisfaction, so an unhappy partner may still stay." loading="lazy">
+  <figcaption>Commitment depends on satisfaction, alternatives and investment, not satisfaction alone.</figcaption>
+</figure>
+
+
 ## Group dynamics
 
 ### Cooperation, competition and conflict
 
 Sherif's Robbers Cave study put boys at a summer camp into two groups and observed rivalry when the groups competed for limited rewards. Hostility fell when the groups worked towards shared goals that neither could achieve alone, which Sherif called superordinate goals. It supports realistic conflict theory, the idea that competition over resources breeds conflict. Ethical and methodological criticisms are standard: the participants were children who did not give informed consent in the modern sense, and the researchers manipulated events as part of the field experiment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--08-hr-robbers-cave.webp" width="900" height="1110" alt="Four panels in order with dot clusters for two groups of boys. 1 Two groups at a summer camp. 2 Rivalry grows when the groups compete for limited rewards, shown as a zigzag between them. 3 Shared goals that neither group can reach alone, shown as both groups pushing towards one flag. 4 Hostility falls, shown as mixed groups. This supports realistic conflict theory: competition over resources breeds conflict." loading="lazy">
+  <figcaption>Rivalry grew under competition and hostility fell with superordinate goals.</figcaption>
+</figure>
+
+
 ### Prejudice and discrimination
 
 Social identity theory, developed by Tajfel and Turner, says that people derive part of their self-concept from group membership and tend to favour their ingroup. Tajfel's minimal group studies are used to show that even trivial and arbitrary categories can produce ingroup favouritism. Distinguish carefully between **prejudice** (an attitude), **stereotypes** (generalised beliefs) and **discrimination** (behaviour).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--09-hr-prejudice-triad.webp" width="900" height="880" alt="Three rows. Prejudice, shown as a frowning face, is an attitude. Stereotype, shown as a thought bubble containing identical figures, is a generalised belief about a group. Discrimination, shown as a person blocked by a barrier, is behaviour that treats people unfairly because of group membership." loading="lazy">
+  <figcaption>An attitude, a generalised belief and a behaviour are different things.</figcaption>
+</figure>
+
+
 ### Reducing conflict
 
 Allport's contact hypothesis proposes that contact between groups reduces prejudice under certain conditions, including equal status, common goals, cooperation and institutional support. Evaluation points include whether the effects generalise beyond the individuals involved, and the difficulty of creating the right conditions outside a controlled setting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--10-hr-contact.webp" width="900" height="740" alt="A bridge between Group A and Group B, labelled contact, held up by four pillars: equal status, common goals, cooperation and institutional support. A banner says contact reduces prejudice under certain conditions, including these." loading="lazy">
+  <figcaption>Four conditions listed in the lesson help contact reduce prejudice.</figcaption>
+</figure>
+
 
 ## Social responsibility
 
 ### Bystanders and helping
 
 Darley and Latané's 1968 experiment tested the idea of diffusion of responsibility. Participants talked over an intercom and believed another person was having a seizure. The more people a participant believed were present, the less likely they were to report it quickly. Darley and Latané also argued that people first have to notice an event and decide whether it is truly an emergency before they can act. Piliavin and colleagues' subway study found that helping was often quick, and that factors such as the victim's appearance could influence it, which complicates a simple bystander effect. Together the studies show how a clear finding in a laboratory can look different in the field.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--11-hr-bystander.webp" width="900" height="950" alt="Top: three steps before anyone can act: notice the event, decide it is an emergency, then report or help. Bottom: three scenes with one person alone, some others, and many others, with an arrow showing that the more people a participant believed were present, the less likely they were to report the seizure quickly. The arrow shows direction only, not data." loading="lazy">
+  <figcaption>Noticing and judging an emergency come before acting; more believed bystanders meant slower reporting.</figcaption>
+</figure>
+
 
 ### Promoting prosocial behaviour
 
@@ -87,6 +117,12 @@ The difference is 75% - 35% = 40 percentage points. The helping rate in groups i
 **Step 3: interpret.** The result is consistent with the idea of diffusion of responsibility. But it does not prove that mechanism, because participants in groups could also have been influenced by what others did, or by the belief that someone more qualified would respond. In the group condition the unit of behaviour is also more complex, because you count one participant out of a group of four.
 
 **Step 4: evaluate.** Strengths: a clear comparison with the same number of participants per condition. Limitations: a university sample limits generalisation, and a staged emergency may not feel real. A full answer also notes that an ethical review would need to consider the distress caused to unknowing participants and the need for debriefing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-psychology-of-human-relationships-study-guide--12-hr-helping-rates.webp" width="900" height="800" alt="Bar chart from the lesson fictional data. Alone: 45 of 60 offered help, 75 percent. In groups of four: 21 of 60, 35 percent. The difference is 40 percentage points, and the group rate is about 0.47 of the alone rate. The result is consistent with diffusion of responsibility but does not prove the mechanism." loading="lazy">
+  <figcaption>Helping fell from 75% alone to 35% in groups, a 40 point difference.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

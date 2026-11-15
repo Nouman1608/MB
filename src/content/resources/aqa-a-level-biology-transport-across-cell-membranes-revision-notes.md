@@ -54,6 +54,12 @@ The cell-surface membrane and the membranes around eukaryotic organelles (nucleu
 | Glycolipids | Lipids with carbohydrate chains on the outer surface | Cell recognition and helping cells attach to one another |
 | Cholesterol (may be present) | Between the phospholipids | Restricts the movement of other molecules in the membrane, so it is less fluid and more stable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--15-fluid-mosaic.webp" width="900" height="910" alt="Cross-section of a cell membrane with two layers of phospholipids, a channel protein, a carrier protein, an extrinsic protein on the outer surface, a glycoprotein and a glycolipid with carbohydrate chains pointing outwards, and cholesterol between the phospholipids." loading="lazy">
+  <figcaption>The fluid-mosaic model: a phospholipid bilayer with intrinsic and extrinsic proteins, glycoproteins, glycolipids and cholesterol.</figcaption>
+</figure>
+
+
 ## Five ways across a membrane
 
 | Process | Passive or active? | Protein needed? | Direction | Typical substances |
@@ -68,6 +74,17 @@ The cell-surface membrane and the membranes around eukaryotic organelles (nucleu
 
 The centre of the bilayer is hydrophobic. Ions and polar molecules cannot pass through it easily, and large molecules are too big. These need proteins.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--16-diffusion-routes.webp" width="900" height="890" alt="Three side-by-side membrane diagrams: oxygen passing straight through the bilayer while glucose is blocked, ions passing through a channel protein pore, and glucose carried through by a carrier protein, all moving from high to low concentration." loading="lazy">
+  <figcaption>Simple and facilitated diffusion: all passive and down a concentration gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--17-facilitated-rate.webp" width="900" height="1040" alt="A graph with a straight rising line for simple diffusion and a curve for facilitated diffusion that flattens at a maximum, with two small diagrams of carrier proteins showing more of them occupied at the higher gradient." loading="lazy">
+  <figcaption>Facilitated diffusion levels off at high gradients when all the carrier proteins are in use (illustrative).</figcaption>
+</figure>
+
+
 ### Channel versus carrier proteins
 
 - **Channel proteins** form water-filled pores for particular ions. Many can open and close.
@@ -77,6 +94,12 @@ The centre of the bilayer is hydrophobic. Ions and polar molecules cannot pass t
 
 ATP is hydrolysed to ADP and inorganic phosphate, releasing energy. This energy changes the shape of the carrier protein so the substance is moved against its concentration gradient. Cells doing a lot of active transport have many mitochondria.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--19-active-transport.webp" width="900" height="960" alt="Three membrane panels: a molecule binding to a carrier protein from the low concentration side, ATP changing to ADP and phosphate while the carrier changes shape, and the molecule released on the high concentration side." loading="lazy">
+  <figcaption>Active transport: the carrier binds the molecule, ATP hydrolysis changes its shape, and the molecule is released against the gradient.</figcaption>
+</figure>
+
+
 ### Co-transport in the ileum
 
 1. Sodium-potassium pumps in the membrane facing the blood actively move Na⁺ out of the epithelial cell (and K⁺ in), using ATP.
@@ -85,6 +108,12 @@ ATP is hydrolysed to ADP and inorganic phosphate, releasing energy. This energy 
 4. Glucose then leaves the cell into the blood by facilitated diffusion.
 
 The energy is used to set up the Na⁺ gradient, not to move glucose directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--20-cotransport-ileum.webp" width="900" height="980" alt="An ileum epithelial cell with lumen above and blood below showing four numbered steps: sodium ions pumped out to the blood using ATP, sodium ions and glucose entering together through a co-transporter, and glucose leaving to the blood by facilitated diffusion." loading="lazy">
+  <figcaption>Co-transport: ATP sets up a sodium ion gradient that drives glucose into the epithelial cell.</figcaption>
+</figure>
+
 
 ## Osmosis and water potential
 
@@ -96,6 +125,12 @@ The energy is used to set up the Na⁺ gradient, not to move glucose directly.
 | Higher ψ than the cell | Water enters; the cell swells and may burst (lysis) | Water enters; the cell becomes turgid; the wall stops it bursting |
 | Same ψ as the cell | No net movement | No net movement |
 | Lower ψ than the cell | Water leaves; the cell shrinks | Water leaves; the cell becomes flaccid and the membrane pulls away from the wall (plasmolysis) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--18-osmosis-water-potential.webp" width="900" height="1295" alt="Two cells with water potentials of minus 300 and minus 500 kilopascals with an arrow showing water moving to the more negative cell, a number line from 0 downwards, and four small cell drawings showing an animal cell bursting or shrinking and a plant cell turgid or plasmolysed." loading="lazy">
+  <figcaption>Water moves from higher (less negative) to lower (more negative) water potential; animal and plant cells respond differently.</figcaption>
+</figure>
+
 
 ## What affects the rate of movement
 
@@ -151,6 +186,12 @@ The specification also mentions plotting mass change against the water potential
 - Blot the same way each time: water left on the surface adds mass.
 - Repeat each concentration and calculate a mean; spot and discuss anomalies.
 - Cover the tubes so water does not evaporate and change the concentration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--21-rp3-calibration.webp" width="900" height="1140" alt="Two measuring tubes of stock and water pouring into a 0.4 mol dm-3 solution, the percentage change calculation giving minus 6.0 percent, and a graph of percentage mass change against concentration crossing the zero line at 0.3 mol dm-3." loading="lazy">
+  <figcaption>Required practical 3: make a dilution series, find the concentration with no change in mass, then convert it to water potential.</figcaption>
+</figure>
+
 
 ## Required practical 4: permeability of cell-surface membranes
 

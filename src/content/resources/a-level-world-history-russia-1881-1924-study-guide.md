@@ -53,6 +53,17 @@ This topic follows the syllabus in using **February** and **October** for the 19
 
 **Opposition and social change.** Towns grew, and with them a professional middle class and a factory working class living in poor conditions. Peasants remained burdened by redemption payments. Populism was driven underground, but **Marxism** spread: Plekhanov's Emancipation of Labour group (1883) argued that the new proletariat, not the peasantry, would make revolution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--01-ru-power.webp" width="900" height="886" alt="A temple-shaped diagram. The Tsar sits on top with unlimited power. Below him a beam holds the appointed State Council and ministers, who answer only to him. Two pillars, the army and the Orthodox Church, hold the beam up. Below, three steps taken by Alexander III after 1881: emergency security laws in 1881, land captains in 1889 and reduced powers for the zemstvos in 1890." loading="lazy">
+  <figcaption>The Tsar’s power rested on the State Council, ministers, army and Church, and Alexander III tightened it after 1881.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--02-ru-1881-94.webp" width="900" height="766" alt="A vertical timeline of 1881 to 1894. In March 1881 the People’s Will kill Alexander II. Repression follows: emergency security laws in 1881, the May Laws against Jews in 1882, land captains in 1889 and weakened zemstvos in 1890. Opposition grows with Plekhanov’s Marxist group in 1883. On the economy, the Trans-Siberian railway begins in 1891, famine strikes in 1891-92 and Witte takes over finance in 1892." loading="lazy">
+  <figcaption>Repression, economic change and opposition in Russia in order, 1881-94.</figcaption>
+</figure>
+
+
 ## 3.2 What caused the 1905 Revolution, and what changed to 1914?
 
 **Causes.** Nicholas II (from 1894) dismissed hopes of political reform. New parties organised discontent: the **Socialist Revolutionaries** (founded 1901-02), who appealed to peasants and used terrorism, and the **Social Democrats** (1898), who split in 1903 into Bolsheviks and Mensheviks. **Witte's policies** -- foreign loans, protective tariffs, high indirect taxes, the gold standard (1897) -- built industry but squeezed peasants, and the slump after 1900 brought unemployment. Bad harvests added to rural unrest. Humiliating defeat in the **Russo-Japanese War (1904-05)** -- the loss of Port Arthur and the destruction of the fleet at Tsushima -- discredited the government.
@@ -63,6 +74,17 @@ This topic follows the syllabus in using **February** and **October** for the 19
 
 **Change to 1914.** **Stolypin's agrarian reforms** (from 1906) let peasants leave the commune and consolidate land, aiming to create a loyal class of prosperous farmers; uptake was real but partial, and the "wager on the strong" was far from complete when he was assassinated in 1911. Industry grew strongly from about 1908, but working conditions stayed harsh; the shooting of strikers at the Lena goldfields (1912) began a new wave of strikes up to 1914.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--03-ru-1905-causes.webp" width="900" height="798" alt="A flow chart. Four pressures sit at the top: defeat in the Russo-Japanese War of 1904-05, unemployment after 1900, bad harvests, and new parties (the Socialist Revolutionaries and Social Democrats). An arrow leads down to Bloody Sunday in January 1905, then strikes, peasant risings and mutinies, then the general strike in October, ending with the October Manifesto promising civil rights and a Duma." loading="lazy">
+  <figcaption>Pressures built up to Bloody Sunday and ended in the October Manifesto.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--04-ru-1905-survival.webp" width="900" height="796" alt="Four cards show why the regime survived 1905: the opposition was divided because liberals accepted the October Manifesto while socialists did not; the army stayed loyal and crushed the Moscow rising; the Fundamental Laws of 1906 reaffirmed the Tsar’s supreme autocratic power; and the first two Dumas were dissolved and the 1907 electoral law made later Dumas more conservative. Two boxes show change up to 1914: Stolypin’s reforms let peasants leave the commune, and industry grew from about 1908 although the Lena shootings of 1912 began new strikes." loading="lazy">
+  <figcaption>Four reasons the regime survived 1905, and two changes up to 1914.</figcaption>
+</figure>
+
+
 ## 3.3 How and why did the Bolsheviks seize power in October 1917?
 
 Defeats in 1914-15, shell shortages and millions of casualties weakened the Tsar, especially after he took personal command in 1915 and left government to the Tsarina and Rasputin. Ministers changed rapidly, and the Duma's Progressive Bloc was ignored. On the home front, **inflation**, **food shortages** in the cities and **land seizures** spread disorder.
@@ -70,6 +92,12 @@ Defeats in 1914-15, shell shortages and millions of casualties weakened the Tsar
 In **February 1917**, strikes and bread riots in Petrograd became revolution when the garrison mutinied. Nicholas abdicated, and the **Provisional Government**, formed from Duma leaders, promised civil liberties and elections to a Constituent Assembly, but intended to continue the war. It shared power with the **Petrograd Soviet** ("dual power").
 
 It failed because it **did not end the war** (the June offensive collapsed), **delayed land reform** until a Constituent Assembly could meet, and lost authority in the **July Days** and the **Kornilov Revolt** (August), when Kerensky had to arm the Bolsheviks' Red Guards. The Bolsheviks offered simple **promises** -- "Peace, Bread, Land", "All power to the Soviets" -- while **Lenin** insisted on armed insurrection, and **Trotsky**, chairman of the Petrograd Soviet, directed its **Military Revolutionary Committee**. On 24-25 October the MRC seized the bridges, stations and telegraph and then the Winter Palace, with little resistance, and the Second Congress of Soviets was presented with power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--05-ru-1917.webp" width="900" height="726" alt="A timeline of 1917. February: strikes and bread riots in Petrograd, the garrison mutinies, the Tsar abdicates, and the Provisional Government shares power with the Petrograd Soviet. June: an offensive collapses and the war goes on. July: the July Days. August: the Kornilov Revolt, when Kerensky arms the Bolsheviks’ Red Guards. On 24-25 October the Military Revolutionary Committee seizes the bridges, stations, telegraph and the Winter Palace." loading="lazy">
+  <figcaption>The path from the February strikes to the Bolshevik seizure of power on 24-25 October.</figcaption>
+</figure>
+
 
 ## 3.4 How did the Bolsheviks consolidate power up to 1924?
 
@@ -80,6 +108,17 @@ It failed because it **did not end the war** (the June offensive collapsed), **d
 **Civil War.** The Reds won through leadership (Lenin's ruthlessness, Trotsky's Red Army using former Tsarist officers under political commissars), enough peasant support from fear of the Whites returning land to landlords, control of the central heartland, railways and arms factories, and unity of command. **War Communism** -- grain requisitioning, nationalisation and labour discipline -- supplied the army but caused famine. The Whites suffered divided leadership and aims, relied on conscription that produced desertion, had stretched supply lines on the periphery, and were tainted by foreign intervention.
 
 **Kronstadt and the NEP.** In March 1921 the sailors of Kronstadt, once Bolshevik heroes, revolted, demanding free soviets; the Red Army crushed them. The same month, at the Tenth Party Congress, Lenin introduced the **New Economic Policy**, replacing requisitioning with a tax in kind and allowing private trade, while banning factions inside the party. Recovery followed, but political control tightened. Lenin's death in January 1924 ends the topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--06-ru-civil-war.webp" width="900" height="700" alt="Two columns compare the sides. The Reds won through the leadership of Lenin and Trotsky, peasants’ fear of landlords returning, control of the heartland, railways and arms factories, and unity of command. The Whites lost because of divided leaders and aims, conscripts who deserted, stretched supply lines and the taint of foreign intervention. A box below notes that War Communism fed the army but brought famine." loading="lazy">
+  <figcaption>Red strengths set against White weaknesses in the Civil War.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--07-ru-consolidation.webp" width="900" height="754" alt="A timeline of Bolshevik consolidation. December 1917: the Cheka is set up under Dzerzhinsky. January 1918: the Constituent Assembly is closed after one day. March 1918: the Treaty of Brest-Litovsk ends the war at the cost of huge territories. 1918 to 1921: Civil War and War Communism. March 1921: Kronstadt sailors revolt and are crushed, and the New Economic Policy replaces requisitioning with a tax in kind and private trade while factions inside the party are banned. January 1924: Lenin dies." loading="lazy">
+  <figcaption>Control, policy and economic steps from December 1917 to Lenin’s death in 1924.</figcaption>
+</figure>
+
 
 ## Worked example: a Paper 1 part (a) approach
 

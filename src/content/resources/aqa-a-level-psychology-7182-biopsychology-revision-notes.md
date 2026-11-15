@@ -60,6 +60,12 @@ Biological rhythms (circadian, infradian and ultradian rhythms, pacemakers and z
 | Spatial resolution | How precisely a method shows where activity happens |
 | Temporal resolution | How precisely a method shows when activity happens |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--08-bio-nervous.webp" width="900" height="820" alt="A tree: nervous system divides into CNS (brain, spinal cord) and PNS. PNS divides into somatic (voluntary movement) and autonomic (involuntary functions), and autonomic into sympathetic (arouses for action) and parasympathetic (rest and digest)." loading="lazy">
+  <figcaption>The divisions of the nervous system.</figcaption>
+</figure>
+
+
 ## Neuron types compared
 
 | Neuron | Location | Dendrites | Axon | Function |
@@ -67,6 +73,12 @@ Biological rhythms (circadian, infradian and ultradian rhythms, pacemakers and z
 | Sensory | PNS, receptors to CNS | Long | Short | Carries sensory information to the CNS |
 | Relay | CNS | Short | Short | Links sensory and motor neurons |
 | Motor | CNS to effectors | Short | Long | Carries commands to muscles and glands |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--09-bio-neurons.webp" width="900" height="1050" alt="Sensory, relay and motor neurons drawn with dendrites, cell body and axon labelled. Sensory has long dendrites and a short axon, relay has short dendrites and a short axon, motor has short dendrites and a long axon with myelin sheath." loading="lazy">
+  <figcaption>Dendrite and axon lengths tell the three neuron types apart.</figcaption>
+</figure>
+
 
 ## Synaptic transmission in six steps
 
@@ -77,6 +89,12 @@ Biological rhythms (circadian, infradian and ultradian rhythms, pacemakers and z
 5. The postsynaptic effect is excitatory or inhibitory; summation decides whether it fires.
 6. Neurotransmitter is broken down or reabsorbed (reuptake).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--10-bio-synapse.webp" width="900" height="1160" alt="Cross-section of a synapse showing the axon terminal with vesicles, neurotransmitter in the cleft and receptors on the postsynaptic neuron, with four numbered steps: action potential arrives, vesicles release neurotransmitter, it diffuses across, it binds to receptors." loading="lazy">
+  <figcaption>How a signal crosses the synapse, one way only.</figcaption>
+</figure>
+
+
 ## Fight or flight in five steps
 
 1. Amygdala detects threat.
@@ -84,6 +102,12 @@ Biological rhythms (circadian, infradian and ultradian rhythms, pacemakers and z
 3. Adrenal medulla releases adrenaline.
 4. Heart rate, breathing and blood glucose rise; digestion slows; pupils dilate.
 5. Parasympathetic system restores rest when the threat has gone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--11-bio-fight-flight.webp" width="900" height="1090" alt="Flow chart from amygdala to hypothalamus to sympathetic nervous system to adrenal medulla to adrenaline, which causes six effects; when the threat passes the parasympathetic system returns the body to rest." loading="lazy">
+  <figcaption>From threat to adrenaline to bodily effects.</figcaption>
+</figure>
+
 
 ## Studies at a glance
 
@@ -105,6 +129,12 @@ Biological rhythms (circadian, infradian and ultradian rhythms, pacemakers and z
 | EEG | Low | High (milliseconds) | No | Cannot locate deep activity |
 | ERP | Low | High | No | Needs many trials to average out noise |
 | Post-mortem | Very high (direct) | None | After death | Cause of damage unclear; no live behaviour |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--14-bio-fmri-eeg.webp" width="900" height="1000" alt="Three cards: fMRI detects blood oxygenation changes (good spatial, slow timing); EEG records electrical activity from scalp electrodes (excellent timing, cannot locate deep sources); ERP averages EEG over many trials to isolate the response to a stimulus." loading="lazy">
+  <figcaption>fMRI measures blood oxygenation; EEG measures electrical activity.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 
@@ -154,6 +184,17 @@ You need fMRI, EEG, ERPs and post-mortem examinations: how each works, what it s
 - Writing "adrenaline is a neurotransmitter released by the hypothalamus" in a fight-or-flight answer; it is a hormone from the adrenal medulla.
 - Giving "fMRI is expensive" as the only evaluation; compare spatial and temporal resolution.
 - Revising biological rhythms from an older textbook; they are not in Version 1.4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--12-bio-localisation.webp" width="900" height="1040" alt="A schematic side view of the left hemisphere with six numbered areas: motor, somatosensory, visual, auditory, Broca’s and Wernicke’s, and a key giving each lobe and function." loading="lazy">
+  <figcaption>Where the specification’s brain areas are found.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--13-bio-split-brain.webp" width="900" height="920" alt="An image in the right visual field goes to the left hemisphere, which can name it. An image in the left visual field goes to the right hemisphere, which cannot name it but can pick the matching object with the left hand. The corpus callosum is cut." loading="lazy">
+  <figcaption>Why split-brain patients name only what the left hemisphere sees.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

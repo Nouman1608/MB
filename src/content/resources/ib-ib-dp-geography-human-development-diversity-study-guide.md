@@ -48,6 +48,22 @@ Unit 5 sits between the framework of Unit 4 (power, networks, flows) and the ris
 
 Opportunities for development arise through trade, foreign direct investment, aid, remittances, education and skills, technology transfer and the quality of governance. Each has costs. Foreign investment may bring jobs but also profit outflows; remittances can support households but may signal the loss of skilled workers; aid can help but may create dependence. Spatial inequality matters too: opportunity is often concentrated in cities and coastal regions, leaving rural or remote places behind. Strong answers also recognise that gender, ethnicity and age affect who can take opportunities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--15-dev-average-income.webp" width="900" height="950" alt="Two bar charts of five people with the same average income of 20: equal incomes (low Gini) and incomes 5, 5, 10, 20 and 60 (high Gini)." loading="lazy">
+  <figcaption>A country can rise on average income while inequality widens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--16-dev-hdi-dimensions.webp" width="900" height="810" alt="Life expectancy, years of schooling and income are each scaled to an index from 0 to 1 and combined with a geometric mean to give the HDI." loading="lazy">
+  <figcaption>The HDI combines health, knowledge and standard of living.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--19-dev-opportunities-costs.webp" width="900" height="850" alt="Foreign investment: jobs versus profit outflows. Remittances: household support versus loss of skilled workers. Aid: help versus dependence. Opportunity is often concentrated in cities and coastal regions." loading="lazy">
+  <figcaption>Opportunities for development each bring costs as well as benefits.</figcaption>
+</figure>
+
+
 ## 12.2 Changing identities and cultures
 
 **Culture** covers language, religion, food, dress, values and practices; **identity** is how individuals and groups see themselves and are seen by others. Global interactions change both.
@@ -59,6 +75,12 @@ Opportunities for development arise through trade, foreign direct investment, ai
 - **Multiple identities**: people often hold overlapping local, national, ethnic and global identities, and migration and digital life can intensify this.
 
 You should be able to argue both that globalisation erodes diversity and that it creates new cultural forms. The best responses give evidence for each side from a named place and then reach a judgement about which is stronger in that context. Remember that media, language and migration do not affect all age groups or social classes in the same way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--20-dev-culture-outcomes.webp" width="900" height="1100" alt="Cultural diffusion spreads through migration, trade, media and digital networks, with three outcomes: homogenisation, hybridisation or glocalisation, and resistance and revival." loading="lazy">
+  <figcaption>Global interactions can homogenise, blend or provoke defence of cultures.</figcaption>
+</figure>
+
 
 ## 12.3 Local responses to global interactions
 
@@ -72,6 +94,12 @@ Local communities are not passive. Their responses fall into broad types.
 
 The central evaluative question is who benefits locally and who bears the costs. Consider scale (household, community, region, nation), time (short-term gain, long-term loss) and the different voices within a place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--21-dev-local-responses.webp" width="900" height="1000" alt="A global force acts on a local community, which responds by acceptance and adaptation, resistance, protection of heritage, local entrepreneurship, or political and community action. The key question is who benefits and who bears the costs." loading="lazy">
+  <figcaption>Communities respond in several ways; ask who benefits and who bears the costs.</figcaption>
+</figure>
+
+
 ## Worked example: calculating an HDI-style index
 
 The HDI method converts each dimension to an index between 0 and 1 using fixed minimum and maximum values, then takes the geometric mean. The figures below are for an invented country and the goalposts used are the commonly published ones; check the current values in your course materials.
@@ -83,6 +111,17 @@ The HDI method converts each dimension to an index between 0 and 1 using fixed m
 Geometric mean: cube root of (0.831 x 0.628 x 0.723) = cube root of 0.3773 = 0.723, which is about 0.72.
 
 Evaluation: the index hides inequality inside the country, ignores environmental cost and gender gaps unless adjusted versions are used, and the single figure of 0.72 says nothing about which regions or groups sit far below it. Under a command term such as evaluate, say what the measure shows and what it cannot show.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--17-dev-hdi-worked.webp" width="900" height="920" alt="Bars for life expectancy index 0.831, education index 0.628 and income index 0.723, with the geometric mean about 0.72." loading="lazy">
+  <figcaption>The three indices combine into an HDI-style value of about 0.72.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--18-dev-geometric-mean.webp" width="900" height="910" alt="Country P scores 0.70 in all three dimensions (both means 0.70). Country Q scores 0.95, 0.95 and 0.20: simple average 0.70, geometric mean 0.57." loading="lazy">
+  <figcaption>A low score in one dimension cannot be fully offset by high scores in others.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

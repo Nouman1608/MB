@@ -52,6 +52,12 @@ Specified content includes Tsarist rule and society before 1914, the 1905 Revolu
 
 **March 1917.** Strikes and food protests in Petrograd spread; crucially, soldiers refused to shoot the crowds and joined them. Without the army's loyalty the Tsar could not survive, and he abdicated. *Overall:* long-term weaknesses made the regime fragile, but the war turned weakness into collapse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--01-ru-collapse.webp" width="900" height="1094" alt="The Tsarist regime as a roof on three pillars of long-term weakness, then three war pressures, then soldiers refusing to shoot in March 1917 and the Tsar abdicating." loading="lazy">
+  <figcaption>One picture of why the regime collapsed: weak foundations, then war.</figcaption>
+</figure>
+
+
 ## Key question 2: How did the Bolsheviks gain and keep power?
 
 **The Provisional Government's failures.** It shared power with the Petrograd Soviet, kept fighting the war, postponed land reform and elections, and lost the army's respect after the failed summer offensive. The Kornilov affair (September) forced Kerensky to rely on Bolshevik Red Guards.
@@ -61,6 +67,17 @@ Specified content includes Tsarist rule and society before 1914, the 1905 Revolu
 **Consolidation and the Civil War.** The Bolsheviks closed the elected Constituent Assembly (January 1918) when they lacked a majority, set up the Cheka and made peace with Germany at **Brest-Litovsk** (March 1918). In the Civil War the Reds controlled the central cities and railways, and Trotsky built a disciplined **Red Army**; **War Communism** seized grain and nationalised industry to supply it. The Whites were divided, scattered around the edges of Russia and associated with the old landlords and foreign interference.
 
 **The NEP.** By 1921 War Communism had caused famine and revolt, including the **Kronstadt** sailors' rising. Lenin's **New Economic Policy** allowed peasants to sell surplus grain and small businesses to trade privately. Production recovered, so it succeeded economically -- but many communists saw it as a betrayal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--02-ru-timeline.webp" width="900" height="1089" alt="Vertical timeline from the March 1917 abdication through the Kornilov affair, the 6-7 November seizure, the closing of the Constituent Assembly, Brest-Litovsk, the Civil War and 1921 crisis to the NEP." loading="lazy">
+  <figcaption>Key events from March 1917 to the NEP in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--03-ru-reds-whites.webp" width="900" height="1035" alt="A schematic with the Reds in a central circle joined by railways to five scattered White armies around the edges, with the strengths of each side listed below. It is not to scale and not a map." loading="lazy">
+  <figcaption>Why the Reds held the centre and the Whites were scattered.</figcaption>
+</figure>
+
 
 ## Key question 3: How did Stalin gain and keep power?
 
@@ -72,6 +89,22 @@ Specified content includes Tsarist rule and society before 1914, the 1905 Revolu
 
 **How complete was control by 1941?** Open opposition had disappeared, but the purge of the army had weakened Soviet defence just before the German invasion of June 1941.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--04-ru-stalin-trotsky.webp" width="900" height="1070" alt="A balance scale tips towards Stalin (four advantages) against Trotsky (three problems), with a strip of dates: January 1924 funeral, 1927 expulsion, 1929 exile." loading="lazy">
+  <figcaption>Stalin’s four advantages outweighed Trotsky’s three problems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--05-ru-purges.webp" width="900" height="1063" alt="A four-step chain from Kirov’s murder in 1934 to arrests, show trials and millions sent to the Gulag or shot, with three suggested reasons and the army’s weakness in 1941." loading="lazy">
+  <figcaption>The sequence of the Purges and why they happened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--06-ru-control.webp" width="900" height="900" alt="Stalin in a central circle with arrows to five methods of control: terror, censorship, a cult of personality, rewritten history and socialist realism." loading="lazy">
+  <figcaption>Five methods Stalin used to keep control.</figcaption>
+</figure>
+
+
 ## Key question 4: What was the impact of Stalin's economic policies?
 
 **Why the Five-Year Plans?** Stalin wanted to modernise the USSR quickly, warning in 1931 that the country was "fifty or a hundred years behind the advanced countries" and must catch up in ten years or be crushed. Industry also meant a larger working class and a stronger military.
@@ -81,6 +114,12 @@ Specified content includes Tsarist rule and society before 1914, the 1905 Revolu
 **How successful?** Heavy industry -- coal, steel, oil, electricity -- grew enormously, and new industrial cities were built east of the Urals. But quality was often poor, consumer goods were scarce, and targets were sometimes met only on paper.
 
 **Effects on people.** Collectivisation led to the "liquidation" of the **kulaks**, mass deportations, the slaughter of livestock and the famine of 1932-33, in which millions died, especially in Ukraine. Industrial workers faced strict discipline and poor housing, though some gained skills and promotion; Stakhanovite "hero workers" were rewarded. Women joined the workforce in huge numbers while still doing domestic work. Ethnic minorities faced Russification, and some whole peoples were deported.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--07-ru-five-year.webp" width="900" height="811" alt="A flow from Stalin’s 1931 warning to the Five-Year Plans and collectivisation, with the gains of heavy industry and the costs including the 1932-33 famine." loading="lazy">
+  <figcaption>Aims, gains and costs of Stalin’s economic policies.</figcaption>
+</figure>
+
 
 ## Worked example: a (c) plan
 

@@ -80,6 +80,17 @@ Programme of Action (1949), and the **Defiance Campaign** (1952), when thousands
 apartheid laws. The government responded with the **Suppression of Communism Act (1950)**, banning
 orders and arrests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--08-sa-laws.webp" width="900" height="898" alt="Seven laws in date order, 1949 to 1953, each with an icon: mixed marriages, immorality amendment, population registration, group areas, pass laws, separate amenities and Bantu education." loading="lazy">
+  <figcaption>The laws that made segregation total and legally enforced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--09-sa-1948.webp" width="900" height="763" alt="Illustrative bars: the United Party gets more votes but the National Party gets more seats because rural constituencies, where Afrikaners were strong, were over-represented." loading="lazy">
+  <figcaption>More votes did not mean more seats in 1948.</figcaption>
+</figure>
+
+
 ## How did apartheid grow, 1955–59 and after?
 
 "**Petty apartheid**" segregated everyday life — buses, benches, beaches, post offices. Bantu
@@ -90,6 +101,12 @@ black South Africans were to be citizens of these territories rather than of Sou
 result was mass forced removals and the denial of political rights in "white" South Africa.
 **B.J. Vorster** (Prime Minister 1966–78) continued the policy, and Transkei became the first
 nominally independent homeland in 1976.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--10-sa-petty-grand.webp" width="900" height="953" alt="Petty apartheid segregated buses, benches, beaches and post offices. Grand apartheid created homelands under the 1959 Act, with forced removals out of white South Africa." loading="lazy">
+  <figcaption>Petty apartheid ruled daily life; grand apartheid ruled citizenship.</figcaption>
+</figure>
+
 
 ## How was apartheid resisted between 1955 and 1978?
 
@@ -108,6 +125,12 @@ hundreds died in the unrest that followed. Biko died in police custody in 1977. 
 South Africa was excluded from the Olympics and the UN imposed a mandatory arms embargo (1977), but
 by 1978 apartheid was still firmly in place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--11-sa-resistance.webp" width="900" height="878" alt="Timeline from 1955 to 1977 with marker shapes for resistance, state action and world reaction." loading="lazy">
+  <figcaption>Resistance and repression, 1955 to 1977.</figcaption>
+</figure>
+
+
 ## How did P.W. Botha respond to resistance, 1978–90?
 
 **P.W. Botha** (Prime Minister from 1978, State President from 1984) warned white South Africans to
@@ -125,6 +148,12 @@ censorship. **International opposition** grew: banks refused new loans after Bot
 (1985) disappointed hopes of reform, and the US Comprehensive Anti-Apartheid Act (1986) imposed
 sanctions. Boycotts of sport and culture added to isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--12-sa-tricameral.webp" width="900" height="905" alt="Three houses for whites, Coloureds and Indians but none for black South Africans, leading to the UDF in 1983, township unrest from 1984 and the State of Emergency of 1985–86." loading="lazy">
+  <figcaption>Excluding black South Africans fuelled resistance.</figcaption>
+</figure>
+
+
 ## How was apartheid dismantled, 1990–94?
 
 Botha suffered a stroke in 1989 and was replaced by **F.W. de Klerk**. On 2 February 1990 de Klerk
@@ -136,6 +165,17 @@ disrupted by violence, including clashes involving the Inkatha Freedom Party and
 of the ANC leader Chris Hani (1993). A whites-only referendum in 1992 backed reform. Mandela and de
 Klerk shared the Nobel Peace Prize in 1993. In the **multiracial election of April 1994** the ANC won
 about 62% of the vote, and Mandela became President.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--13-sa-why-reform.webp" width="900" height="661" alt="Four reasons converge on the unbanning of the ANC, PAC and Communist Party on 2 February 1990, followed by Mandela’s release on 11 February." loading="lazy">
+  <figcaption>Four pressures that led de Klerk to reform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-south-africa-apartheid--14-sa-road-1994.webp" width="900" height="990" alt="Timeline from 1989 to the April 1994 election, with a bar showing the ANC won about 62% of the vote." loading="lazy">
+  <figcaption>From unbanning to the 1994 election.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

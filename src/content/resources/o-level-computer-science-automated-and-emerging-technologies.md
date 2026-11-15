@@ -56,6 +56,12 @@ The syllabus says advantages and disadvantages may be asked about scenarios from
 
 The skill being tested is matching each point to the context. "It saves money" is weak; "it saves energy because lights are not left on in empty classrooms" is strong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--13-cs-sensor-microprocessor-actuator.webp" width="900" height="770" alt="A sensor measures a quantity and sends data to the microprocessor, converted from analogue to digital if needed. The microprocessor compares it with stored values and decides, then sends a signal to the actuator, which produces a physical action. The loop repeats continuously." loading="lazy">
+  <figcaption>The sensor, microprocessor and actuator work in a repeating loop.</figcaption>
+</figure>
+
+
 ## 6.2 Robotics
 
 **Robotics** is a branch of computer science that incorporates the design, construction and operation of robots. The syllabus gives factory equipment, domestic robots and drones as examples.
@@ -77,6 +83,12 @@ A machine is a robot if it has all three characteristics:
 | Domestic | Robotic lawnmower | Saves the owner time | Can be stolen or struggle on rough ground |
 | Entertainment | Animatronic figures in a theme park | Repeat the same performance exactly every time | Expensive to build and repair |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--15-cs-robot-three-characteristics.webp" width="900" height="930" alt="A spray-painting robot arm has a mechanical structure, electrical components and is programmable, so it is a robot. Smart lighting is automated but has no moving mechanical structure, so it fails the first test and is not a robot." loading="lazy">
+  <figcaption>A machine is a robot only if it has all three characteristics.</figcaption>
+</figure>
+
+
 ## 6.3 Artificial intelligence
 
 **Artificial intelligence (AI)** is a branch of computer science dealing with the simulation of intelligent behaviours by computers. Its main characteristics, as listed in the syllabus, are the collection of data and the rules for using that data, the ability to reason, and — in some systems — the ability to learn and adapt.
@@ -92,9 +104,21 @@ An expert system gives advice in one specialist area. It has four components:
 - an **inference engine** — the part that applies the rules to the facts and the user's answers to reach conclusions;
 - an **interface** — through which the user answers questions and sees the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--16-cs-expert-system.webp" width="900" height="930" alt="An expert system has an interface, an inference engine, a knowledge base of facts and a rule base of IF ... THEN rules. The interface asks the farmer questions; answers go to the inference engine, which applies the rules to the facts and returns the next question or the diagnosis." loading="lazy">
+  <figcaption>The inference engine applies the rule base to the knowledge base.</figcaption>
+</figure>
+
+
 ### Machine learning
 
 **Machine learning** is when a program has the ability to automatically adapt its own processes and/or data. A navigation app that adjusts its predicted journey times after recording thousands of real journeys is adapting its own data, so it is learning rather than following fixed rules.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--17-cs-machine-learning.webp" width="900" height="800" alt="An illustrative graph: a fixed rule always predicts 30 minutes, while a learning app adapts its own data as journeys are recorded; here its prediction moves to 35 minutes, the mean of ten illustrative journeys." loading="lazy">
+  <figcaption>A learning program changes its own data; a fixed rule does not.</figcaption>
+</figure>
+
 
 ## Worked example 1: diagnosing a crop disease
 
@@ -107,6 +131,12 @@ The interface asks the farmer questions, for example about the colour of the lea
 *A swimming pool's water must stay between 26 °C and 28 °C.* [4]
 
 A temperature sensor measures the water temperature continuously and sends readings to the microprocessor [1]. The microprocessor compares each reading with the stored values 26 and 28 [1]. If the temperature falls below 26 °C it signals an actuator to switch the heater on; if it rises above 28 °C it signals for the heater to be switched off [1]. The monitoring repeats continuously, so the temperature stays in range [1].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--14-cs-pool-temperature-control.webp" width="900" height="800" alt="An illustrative graph of pool temperature. Below 26 degrees C the heater is switched on; above 28 degrees C it is switched off; because monitoring repeats continuously the temperature stays near the 26 to 28 degree band. A strip shows when the heater is on." loading="lazy">
+  <figcaption>The microprocessor switches the heater to keep the water between 26 and 28 degrees.</figcaption>
+</figure>
+
 
 ## How to approach it
 

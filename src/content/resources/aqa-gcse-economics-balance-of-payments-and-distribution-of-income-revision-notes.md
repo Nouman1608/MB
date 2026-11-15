@@ -62,6 +62,12 @@ Money coming in (exports, income from abroad) is a **credit** (+). Money going o
 
 **UK pattern.** The UK has had a current account deficit for many years. It usually has a large deficit on trade in goods, partly offset by a surplus on trade in services, especially financial and business services.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--01-bop-current-account.webp" width="900" height="930" alt="Waterfall chart of Country A in billion units. Goods: 120 minus 150 gives minus 30. Services: 70 minus 45 gives plus 25. Balance of trade is minus 5. Net income of minus 3 gives a current account balance of minus 8, a deficit of 8." loading="lazy">
+  <figcaption>The current account adds income flows to the balance of trade, using the lesson’s Country A numbers.</figcaption>
+</figure>
+
+
 ### Reasons for a current account deficit or surplus
 
 | Deficit more likely when | Surplus more likely when |
@@ -71,6 +77,12 @@ Money coming in (exports, income from abroad) is a **credit** (+). Money going o
 | Domestic firms are less productive or prices rise faster than abroad | Firms are competitive on price and quality |
 | Trading partners are in recession, so they buy fewer exports | Trading partners are growing fast |
 | The country lacks key resources (such as fuel) and must import them | The country has resources others want, such as oil |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--02-bop-deficit-surplus.webp" width="900" height="970" alt="Two panels. Deficit: a thick imports arrow and thin exports arrow, with four reasons (less competitive goods, strong spending, strong exchange rate, small manufacturing base). Surplus: thick exports arrow, with four reasons (competitive exports, weak spending, weak exchange rate, goods the world wants)." loading="lazy">
+  <figcaption>Deficits and surpluses come from competitiveness, spending, the exchange rate and the industries a country has.</figcaption>
+</figure>
+
 
 ### Significance
 
@@ -115,6 +127,12 @@ Money coming in (exports, income from abroad) is a **credit** (+). Money going o
 **Worked example: quintile shares.** In Country R the five quintiles receive 7%, 12%, 17%, 23% and 41% of total income (total 100%). The richest 20% get 41 ÷ 7 = about **5.9 times** the share of the poorest 20%. With perfect equality each quintile would get 20%.
 
 **Worked example: redistribution.** Household S earns £15,000, pays £1,000 in tax and receives £4,000 in benefits, so disposable income is **£18,000**. Household T earns £90,000 and pays £25,000 in tax, so disposable income is **£65,000**. Before: 90,000 ÷ 15,000 = 6 times. After: 65,000 ÷ 18,000 = about **3.6 times**. Taxes and benefits narrowed the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--03-income-vs-wealth.webp" width="900" height="1010" alt="A tap runs into a bath. The tap is income, a flow over a period (wages, profits, interest, benefits). The water level is wealth, a stock of assets (property, savings, shares). An arrow shows wealth passing between generations, which is why wealth is more unequal than income." loading="lazy">
+  <figcaption>Income is a flow over a period; wealth is a stock of assets that builds up and can be inherited.</figcaption>
+</figure>
+
 
 ### Causes of inequality
 
@@ -166,6 +184,17 @@ Redistribution can conflict with growth if it weakens incentives, and fairness i
 8. Household X earns £20,000, pays £2,000 tax and receives £3,000 in benefits. Find its disposable income.
 9. Name two government policies that redistribute income.
 10. Give one argument that some inequality can be good for an economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--04-progressive-tax.webp" width="900" height="970" alt="Graph of tax as a percentage of income against income in thousands for Country B (0% on the first 12,000, 20% above). X on 20,000 pays 8%. Y on 80,000 pays 17%. The curve rises towards 20%." loading="lazy">
+  <figcaption>A progressive tax takes a larger percentage of higher incomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-balance-of-payments-and-distribution-of-income--05-redistribution-gap.webp" width="900" height="930" alt="Bars for workers X and Y. Before tax 20,000 and 80,000 (Y has 4.0 times X). After tax 18,400 and 66,400 (Y has 3.6 times X). Dashed outlines show the tax taken." loading="lazy">
+  <figcaption>After a progressive tax the gap between X and Y is smaller.</figcaption>
+</figure>
+
 
 ### Answers
 

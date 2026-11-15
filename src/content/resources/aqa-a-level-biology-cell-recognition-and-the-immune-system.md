@@ -73,6 +73,12 @@ new antigen, so a person can catch the disease again, and a new vaccine has to b
 4. **Lysozymes** (hydrolytic enzymes) from the lysosome hydrolyse the pathogen.
 5. The phagocyte displays the pathogen's antigens on its own surface, becoming an **antigen-presenting cell**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--08-phagocytosis.webp" width="900" height="1140" alt="Five small panels show a phagocyte meeting a bacterium, engulfing it into a vesicle, a lysosome joining the vesicle, enzymes breaking the bacterium into pieces, and the phagocyte displaying antigens on its surface." loading="lazy">
+  <figcaption>Phagocytosis: recognise, engulf, fuse with a lysosome, hydrolyse, then display antigens.</figcaption>
+</figure>
+
+
 ## What is the cellular response?
 
 The cellular response is the response of **T lymphocytes** to a foreign antigen.
@@ -86,6 +92,12 @@ The cellular response is the response of **T lymphocytes** to a foreign antigen.
    - **phagocytes**, to engulf more pathogens.
 
 The specification says the roles of other T cells are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--09-cellular-humoral.webp" width="900" height="1210" alt="A flow chart starting with an antigen-presenting cell and a helper T cell, then a clone of helper T cells, then three arrows to cytotoxic T cells, phagocytes and B cells, and finally B cells dividing into antibody-secreting plasma cells and memory cells." loading="lazy">
+  <figcaption>Helper T cells activate cytotoxic T cells, phagocytes and B cells; B cells make plasma cells and memory cells.</figcaption>
+</figure>
+
 
 ## What is the humoral response?
 
@@ -112,6 +124,12 @@ Binding forms an **antigen-antibody complex**. The specification limits destruct
 **agglutination** (each antibody has two binding sites, so it clumps bacteria together) and **phagocytosis** of the
 clumped bacterial cells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--10-antibody-structure.webp" width="900" height="1090" alt="A Y-shaped antibody with two heavy chains and two light chains joined by disulfide bridges. The tips of the arms are labelled variable region and have antigens bound; the stem is the constant region and the join between arms and stem is the hinge region." loading="lazy">
+  <figcaption>An antibody: two heavy and two light chains, variable regions at the tips, a constant region and a hinge.</figcaption>
+</figure>
+
+
 ### Why is the secondary response faster?
 
 | | Primary response | Secondary response |
@@ -121,6 +139,12 @@ clumped bacterial cells.
 | Speed and size | Slow; small amount of antibody; symptoms usually develop | Fast; far more antibody; pathogen usually destroyed before symptoms |
 
 Memory cells divide rapidly into plasma cells on re-exposure, which is why a second infection is often symptomless.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--11-secondary-response.webp" width="900" height="1060" alt="A line graph of antibody concentration over time with two exposures marked. The first rise is slow and small; after the second exposure the rise is quick and much higher." loading="lazy">
+  <figcaption>Illustrative primary and secondary responses: memory cells make the second response faster and larger.</figcaption>
+</figure>
+
 
 ## How do vaccines and herd immunity work?
 
@@ -140,6 +164,12 @@ whose immune systems are weakened) are also protected.
 | Memory cells | Yes | No |
 | Speed | Slow to develop | Immediate |
 | Duration | Long term | Short term, as the antibodies are broken down |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--12-herd-immunity.webp" width="900" height="1110" alt="Two grids of people. With few vaccinated, an infection spreads across most of the grid. With most vaccinated, the infection stays at the starting person and unvaccinated people nearby remain healthy." loading="lazy">
+  <figcaption>Herd immunity (illustrative): when most contacts are vaccinated, the pathogen cannot spread and unvaccinated people are protected.</figcaption>
+</figure>
+
 
 ## How does HIV cause AIDS?
 
@@ -162,6 +192,12 @@ symptoms of AIDS are the symptoms of these infections and cancers, not of HIV it
 as the murein cell wall. Viruses have no murein cell wall, and no ribosomes or metabolic enzymes of their own: they
 replicate using the host cell's enzymes and ribosomes, so there is nothing for the antibiotic to target.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--13-hiv-replication.webp" width="900" height="1230" alt="A labelled HIV particle and, below it, a helper T cell with five numbered steps: attachment to a receptor, capsid entry, reverse transcription of RNA to DNA, insertion into the cell DNA, and budding of new viruses." loading="lazy">
+  <figcaption>HIV structure and its five-step replication inside a helper T cell.</figcaption>
+</figure>
+
+
 ## What are monoclonal antibodies used for?
 
 Monoclonal antibodies are antibodies from a single clone of plasma cells, so all are identical and bind one
@@ -181,6 +217,12 @@ washing, a second antibody with an **enzyme** attached is added, which binds to 
 washed again so unbound enzyme-linked antibody is removed; a substrate is then added, and the enzyme turns it a
 colour. A colour change shows that the target antibody was present. **Washing** is essential to prevent a false
 positive from unbound enzyme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--14-elisa.webp" width="900" height="1235" alt="Four well diagrams: antigen fixed to the well, patient antibody bound to the antigen, a second enzyme-linked antibody bound on top, and a coloured liquid after substrate is added." loading="lazy">
+  <figcaption>ELISA: antigen fixed, sample antibody binds, enzyme-linked antibody binds, substrate changes colour.</figcaption>
+</figure>
+
 
 ## What ethical issues are raised?
 

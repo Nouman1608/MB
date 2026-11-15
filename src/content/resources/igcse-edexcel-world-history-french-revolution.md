@@ -84,6 +84,17 @@ war with loans rather than taxes, and his *Compte rendu* (1781) presented the ro
 healthier than they were. **Poor harvests**, especially the failure of 1788, pushed bread prices to
 a peak in the summer of 1789.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--15-fr-estates.webp" width="900" height="824" alt="The First Estate (the clergy) and the Second Estate (the nobility) are shown as two smaller blocks that held privileges, including exemption from the main direct tax, the taille. Below, a much larger block is the Third Estate, everyone else and the vast majority, from prosperous bourgeoisie shut out of power to peasants, many landless. Three arrows push up on it: the taille, the Church tithe and corvée labour duties. The diagram is not to scale and the lesson gives no population figures." loading="lazy">
+  <figcaption>Two privileged Estates and a Third Estate that carried most of the tax burden (not to scale).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--16-fr-causes.webp" width="900" height="823" alt="Five boxes all feed one conclusion, the crisis of 1787 to 89: the society of orders, where the Third Estate carried most of the tax; the Enlightenment, with Montesquieu, Voltaire and Rousseau questioning privilege; the American War, bringing prestige but enormous debts; an indecisive Louis XVI and the unpopular Marie Antoinette; and finance, with heavy borrowing and the poor harvest of 1788." loading="lazy">
+  <figcaption>Five long-term pressures that fed the crisis of 1787–89.</figcaption>
+</figure>
+
+
 ## How did the crisis of 1787–89 turn into revolution?
 
 Controller-General Calonne proposed a land tax payable by all landowners. Louis called an
@@ -101,6 +112,12 @@ June not to separate until France had a constitution. Louis gave way and ordered
 to join it on 27 June, but troops gathered around Paris. Necker's dismissal on 11 July triggered
 the **storming of the Bastille** on 14 July 1789. In the countryside the **Great Fear** (late July
 and early August) saw peasants attack châteaux and burn records of feudal dues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--17-fr-crisis.webp" width="900" height="933" alt="A flow from top to bottom. February 1787: the Assembly of Notables refuses Calonne’s land tax and he is dismissed. 1787 to 88: Brienne meets the same resistance and the Parlement of Paris says only an Estates General can approve new taxes. August 1788: the treasury is bankrupt, the Estates General is called and Necker recalled. 5 May 1789: the Estates General opens, with a dispute over voting by order or by head. 17 to 20 June: the Third Estate becomes the National Assembly and swears the Tennis Court Oath. 11 to 14 July: Necker is dismissed and the Bastille stormed. July and August: the Great Fear, when peasants attack châteaux." loading="lazy">
+  <figcaption>The steps from the Notables’ refusal in 1787 to the Great Fear in 1789.</figcaption>
+</figure>
+
 
 ## What changed between 1789 and 1792?
 
@@ -123,6 +140,12 @@ king led to the **rising of 10 August 1792**, when the Tuileries palace was stor
 was suspended. A **National Convention**, elected by universal male suffrage, met in September and
 abolished the monarchy; France became a republic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--18-fr-reform-crisis.webp" width="900" height="1283" alt="Two lanes. Reforms on the left: August 1789, feudal privileges abolished and the Declaration of the Rights of Man; 1789 to 90, France reorganised into 83 departments and Church lands taken to back paper money; 1791, the Constitution creating a constitutional monarchy with the vote limited to tax-paying citizens; September 1792, the National Convention abolishes the monarchy and France becomes a republic. Crises on the right: October Days 1789; Civil Constitution of the Clergy 1790 splitting the Church; flight to Varennes June 1791; war on Austria April 1792 with Prussia joining; Tuileries stormed and the king suspended August 1792." loading="lazy">
+  <figcaption>Reforms of the Assembly set against the crises that undermined the monarchy.</figcaption>
+</figure>
+
+
 ## Why did the Revolution turn to Terror in 1792–94?
 
 The Convention issued the **Edict of Fraternity** (November 1792), offering help to any people
@@ -137,6 +160,12 @@ voice, justifying terror as the necessary partner of "virtue" in a republic unde
 of Suspects (September 1793), price controls (the Maximum) and the *levée en masse* (mass
 conscription) followed. Around 17,000 people were officially sentenced to death, and many more
 died in prison or in the suppression of the Vendée and of federalist revolts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--19-fr-terror.webp" width="900" height="895" alt="Four pressures at the top: the Edict of Fraternity threatening every monarchy, Louis XVI executed on 21 January 1793, the war widening to include Britain and the Dutch Republic, and the Vendée rising of March 1793. They lead down a chain: in April 1793 the Committee of Public Safety becomes the government; in June and July 1793 the sans-culottes force the Girondins out and Robespierre joins; in September 1793 come the Law of Suspects, price controls and mass conscription. About 17,000 people were officially sentenced to death and many more died in prison or in the suppression of the Vendée and federalist revolts." loading="lazy">
+  <figcaption>War, regicide and rebellion led to the Committee of Public Safety and the Terror.</figcaption>
+</figure>
+
 
 ## How did the Revolution end in the rise of Napoleon?
 
@@ -158,6 +187,12 @@ The **achievements of the Revolution** you should be able to weigh include the e
 and legal privilege, the Declaration of Rights, a uniform system of departments and (from 1795)
 the metric system, and the principle of national sovereignty — set against the violence of the
 Terror and the eventual return of one-man rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--20-fr-end.webp" width="900" height="841" alt="A flow from top to bottom. June 1794: victory at Fleurus weakens the case for terror. 27 July 1794, 9 Thermidor: Robespierre is arrested and guillotined the next day. Then the Thermidorian Reaction closes the Jacobin Club and ends the Maximum, with a White Terror against former Jacobins. 1795: the Directory, five Directors and two councils. September 1797: the coup of 18 Fructidor uses the army to annul royalist election results. November 1799: the coup of Brumaire, when Sieyès and Napoleon Bonaparte overthrow the Directory and Napoleon becomes First Consul." loading="lazy">
+  <figcaption>From Robespierre’s fall in 1794 to Napoleon becoming First Consul in 1799.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -191,3 +226,9 @@ the three question types using the [practice questions](/resources/edexcel-igcse
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 1,
 Depth Study 1 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-french-revolution--14-fr-timeline.webp" width="900" height="920" alt="A vertical timeline drawn to scale from 1780 to 1800 with four phases: Old Regime in crisis 1780 to 88, constitutional monarchy 1789 to 92, Republic and Terror 1792 to 94, and Thermidor and Directory 1794 to 99. Events: Diamond Necklace Affair 1785, Assembly of Notables 1787, Estates General called 1788, Estates General opens May 1789, Bastille stormed July 1789, flight to Varennes 1791, Tuileries stormed August 1792, Louis XVI executed January 1793, Robespierre falls July 1794, Directory created 1795, coup of 18 Fructidor 1797 and Napoleon made First Consul in November 1799. Turning points are gold. The four phases are a grouping made for this chart." loading="lazy">
+  <figcaption>The Revolution to scale in four phases, with turning points in gold.</figcaption>
+</figure>
+

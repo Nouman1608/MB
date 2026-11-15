@@ -89,6 +89,12 @@ C₆H₅NH₂ → [C₆H₅N₂]⁺Cl⁻ (below 10 °C) → C₆H₅OH (on warmi
 Dyes](/resources/a-amines-aliphatic-and-aromatic/) covers phenylamine's
 production and diazonium chemistry in full.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-phenol-reactions-and-acidity--07-making-phenol.webp" width="900" height="1200" alt="Phenylamine, C6H5NH2, reacts with nitrous acid made in situ from sodium nitrite and dilute acid, below 10 degrees Celsius, to give benzenediazonium chloride. Warming the diazonium salt with water replaces the diazonium group with OH, giving phenol, C6H5OH." loading="lazy">
+  <figcaption>Phenylamine gives a diazonium salt below 10 degrees Celsius, which warmed with water gives phenol.</figcaption>
+</figure>
+
+
 ## Reactions of phenol
 
 **With bases.** Phenol reacts with NaOH(aq) to form sodium phenoxide:
@@ -115,6 +121,17 @@ and 4-nitrophenol (matching the –OH group's 2,4-directing effect).
 at room temperature substitutes at all three activated positions at once,
 giving 2,4,6-tribromophenol directly, without needing a catalyst.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-phenol-reactions-and-acidity--09-phenol-tests.webp" width="900" height="1130" alt="Four test tubes. Phenol reacts with aqueous NaOH to form sodium phenoxide and water. Phenol reacts with sodium metal to release hydrogen, faster than ethanol does. Phenol does not react with sodium hydrogencarbonate, so no carbon dioxide is released; a carboxylic acid does release CO2, which distinguishes the two." loading="lazy">
+  <figcaption>Phenol reacts with NaOH and sodium but not NaHCO3, unlike a carboxylic acid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-phenol-reactions-and-acidity--10-phenol-mild-conditions.webp" width="900" height="1100" alt="Nitration: phenol with dilute nitric acid at room temperature gives a mixture of 2-nitrophenol and 4-nitrophenol, whereas benzene needs concentrated nitric and sulfuric acids. Bromination: phenol with aqueous bromine at room temperature gives 2,4,6-tribromophenol directly, whereas benzene needs bromine with an AlBr3 catalyst." loading="lazy">
+  <figcaption>Phenol nitrates and brominates under mild conditions that benzene would not react under.</figcaption>
+</figure>
+
+
 ## Why phenol reacts faster than benzene
 
 Phenol's oxygen has a lone pair that can delocalise into the ring's π
@@ -135,6 +152,12 @@ at those positions on a single benzene ring.
 **Applying this to other phenolic compounds.** An –OH directly attached to an aromatic ring can donate electron density into the π system and activate electrophilic substitution. Transfer that electronic principle to other phenols, but determine the available positions from the actual structure, its numbering, other substituents and reaction conditions. Fused-ring phenols such as naphthols do not inherit phenol's 2,4,6 numbering or a universal three-substitution product.
 
 ![Phenol's oxygen donates electron density into its aromatic ring, activating electrophilic substitution at positions 2, 4 and 6; fused-ring phenols require their own numbering and site analysis.](/images/learning/chemistry/chem-phenol-electron-donation-directing-positions.svg)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-phenol-reactions-and-acidity--11-phenol-activation.webp" width="900" height="1030" alt="A benzene ring with positions 1 to 6 numbered, the hydroxyl group on carbon 1. A curved arrow shows the oxygen lone pair delocalising into the ring pi system, raising electron density, most at positions 2, 4 and 6 (shown gold) and less at 3 and 5. The ring is therefore much more attractive to electrophiles, so mild reagents are enough." loading="lazy">
+  <figcaption>The OH lone pair delocalises into the ring, raising electron density most at positions 2, 4 and 6.</figcaption>
+</figure>
+
 
 ## The acidity of phenol
 
@@ -163,6 +186,12 @@ correspondingly more acidic.
 This ordering is why phenol reacts with NaOH(aq) (strong enough to
 deprotonate it) while ethanol does not, and why phenol reacts detectably
 faster with sodium metal than ethanol does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-phenol-reactions-and-acidity--08-acidity-ladder.webp" width="900" height="980" alt="Three rows ranked from most to least acidic. Phenol loses H+ to give phenoxide, whose negative charge is delocalised into the benzene ring, so the ion is most stable. Water gives hydroxide, with no delocalisation but no electron-donating alkyl group. Ethanol gives ethoxide, in which the electron-donating ethyl group pushes electron density onto oxygen, making the ion least stable." loading="lazy">
+  <figcaption>Phenol is more acidic than water, which is more acidic than ethanol, because of the stability of the ion formed.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

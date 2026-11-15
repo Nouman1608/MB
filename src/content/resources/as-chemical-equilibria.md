@@ -78,6 +78,12 @@ balanced.
 **Le Chatelier's principle**: if a change is made to a system at dynamic
 equilibrium, the position of equilibrium moves to minimise that change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-equilibria--05-dynamic-equilibrium.webp" width="900" height="960" alt="Two graphs against time for A reversible B in a closed system. Concentrations of A and B change then level off. The forward rate falls and the reverse rate rises until they are equal. After that both reactions continue but concentrations are constant." loading="lazy">
+  <figcaption>At equilibrium the rates are equal and concentrations constant; the reactions have not stopped.</figcaption>
+</figure>
+
+
 ## Applying Le Chatelier's principle
 
 - **Concentration**: increasing a reactant's concentration shifts the
@@ -94,6 +100,12 @@ added heat.
 - **Catalyst**: a catalyst speeds up the forward and reverse reactions
 equally, so it has **no effect on the position of equilibrium** — it only
 gets the system to equilibrium faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-equilibria--06-le-chatelier-haber.webp" width="900" height="1020" alt="Four seesaws for the exothermic Haber equilibrium. Adding N2 shifts right. Raising pressure shifts right (4 gas moles to 2). Raising temperature shifts left, the endothermic direction. A catalyst leaves the position unchanged." loading="lazy">
+  <figcaption>Concentration and pressure changes shift the position, temperature favours the endothermic direction, a catalyst does not shift it.</figcaption>
+</figure>
+
 
 ## Kc: the equilibrium constant in terms of concentration
 
@@ -144,6 +156,12 @@ Kp = (P_NO₂)² / P_N₂O₄ = (80)² / 120 = 6400 / 120 = **53.3 kPa**
 Here the mole count changes (1 → 2), so the pressure units don't cancel —
 Kp carries units, here kPa¹, because the net order is (2 − 1) = 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-equilibria--07-kc-kp-worked.webp" width="900" height="900" alt="Two bar charts. For H2 + I2 reversible 2HI, 0.50, 0.50 and 3.0 mol per dm3 give Kc = 36 with no units. For N2O4 reversible 2NO2 at 200 kPa, mole fractions 0.60 and 0.40 give 120 and 80 kPa and Kp = 53.3 kPa." loading="lazy">
+  <figcaption>Kc is 36 (no units) and Kp is 53.3 kPa for the two worked examples.</figcaption>
+</figure>
+
+
 ## What does and doesn't change K
 
 This is a common source of confusion, because Le Chatelier's principle
@@ -154,6 +172,12 @@ question is whether the equilibrium *constant itself* changes:
 *position* of equilibrium (or, for a catalyst, nothing at all) but leaves
 the *value of K unchanged*, provided temperature is constant.
 - Only changing **temperature** changes the value of K.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-equilibria--08-what-changes-k.webp" width="900" height="920" alt="A grid: changing concentration or pressure shifts the position but not K; a catalyst does neither; changing temperature shifts the position and changes K. Only temperature changes K." loading="lazy">
+  <figcaption>Only a change in temperature changes the value of K.</figcaption>
+</figure>
+
 
 ## The Haber and Contact processes
 
@@ -176,6 +200,12 @@ strongly (industrial SO₂-to-SO₃ conversion is typically quoted at around
 the extra yield from higher pressure isn't worth its extra cost — so the
 Contact process runs at close to atmospheric pressure, around 450 °C, with
 a vanadium(V) oxide catalyst.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-equilibria--09-haber-contact-conditions.webp" width="900" height="940" alt="Two reactor panels. Haber: about 450 degrees C, 200 atm, iron catalyst, a compromise between yield and rate. Contact: about 450 degrees C, close to atmospheric pressure, vanadium(V) oxide catalyst, because conversion is already around 96-99.5% (typical)." loading="lazy">
+  <figcaption>Both processes balance equilibrium yield against rate and cost.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -50,6 +50,17 @@ The lowest layer, the troposphere, holds most of the air and is where weather ha
 
 Some gases, including carbon dioxide, methane, water vapour and nitrous oxide, absorb heat radiated from the Earth's surface and send some of it back down. This natural greenhouse effect keeps the average surface temperature high enough for liquid water and life. It is not the problem in itself; the problem is its enhancement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--01-atm-layers-and-gases.webp" width="900" height="820" alt="Left, a cross-section of the atmosphere: the troposphere holds most of the air and weather, and the stratosphere above it contains the ozone layer that absorbs ultraviolet light. Right, a 10 by 10 grid shows dry air by volume: 78 squares nitrogen, 21 oxygen, one for argon, with carbon dioxide at 0.04% too small to see." loading="lazy">
+  <figcaption>Dry air is mostly nitrogen and oxygen, and the ozone layer sits in the stratosphere above the troposphere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--02-atm-greenhouse-natural-enhanced.webp" width="900" height="1080" alt="Two panels show heat rising from the Earth through a layer of greenhouse gas molecules. With few molecules (natural) most heat escapes and some is sent back; with extra molecules (enhanced) fewer arrows escape and more heat is sent back down, so average temperature rises." loading="lazy">
+  <figcaption>The natural effect keeps Earth warm enough for life; extra gases from human activity enhance it.</figcaption>
+</figure>
+
+
 ## Climate change
 
 The enhanced greenhouse effect happens when human activities add extra greenhouse gases, so more heat is retained and the average global temperature rises.
@@ -71,6 +82,17 @@ The enhanced greenhouse effect happens when human activities add extra greenhous
 ### Management
 
 Strategies fall into two groups. Mitigation reduces the cause: switching to renewable energy, improving energy efficiency, planting trees, reducing deforestation, and cutting methane from farming and waste. Adaptation copes with the effect: sea walls, drought-tolerant crops, water storage and early warning systems. Good answers say which group a measure belongs to and note its limits, such as cost, or the fact that countries must cooperate for mitigation to work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--04-atm-mitigation-adaptation.webp" width="900" height="980" alt="A chain runs from extra greenhouse gases to more heat kept to impacts such as rising seas, droughts and floods. Mitigation (renewable energy, trees, energy efficiency) points at the cause; adaptation (sea walls, water storage, drought-tolerant crops) points at the effect. A note says to state the limit of each measure." loading="lazy">
+  <figcaption>Mitigation reduces the cause of climate change; adaptation copes with the effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--05-atm-acid-rain-journey.webp" width="900" height="880" alt="A factory emits sulfur dioxide and a car emits nitrogen oxides, which form weak acids in cloud. Wind carries the cloud over a border where acid rain harms a lake, trees and a limestone building. Gold tags mark fixes: scrubber, catalytic converter and liming the lake." loading="lazy">
+  <figcaption>Acid rain can fall far from the source, so it becomes an international problem.</figcaption>
+</figure>
+
 
 ## Acid rain
 
@@ -101,6 +123,12 @@ Thinner ozone lets more ultraviolet radiation reach the surface, which increases
 
 The Montreal Protocol, agreed in 1987, committed countries to phase out CFCs and similar substances, and it is widely cited as an example of successful international cooperation. Replacement chemicals have been introduced, and the ozone layer is slowly recovering. Remember that ozone depletion is not the main cause of global warming, even though the two are often confused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--07-atm-cfc-ozone-depletion.webp" width="900" height="1000" alt="In the stratosphere, UV breaks a CFC and releases a chlorine atom that destroys ozone repeatedly. Where the layer thins, more UV reaches the surface, raising the risk of skin cancer and cataracts. A banner notes the 1987 Montreal Protocol and slow recovery." loading="lazy">
+  <figcaption>CFCs release chlorine that destroys ozone, letting more UV reach the surface.</figcaption>
+</figure>
+
+
 ## Worked example 1: a change in carbon dioxide
 
 A monitoring station in a fictional region records carbon dioxide at 316 ppm in one decade and 389 ppm several decades later. Calculate the percentage increase.
@@ -110,6 +138,12 @@ A monitoring station in a fictional region records carbon dioxide at 316 ppm in 
 
 If asked for the average annual rise over 45 years, divide 73 by 45 = 1.62 ppm per year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--03-atm-co2-percent-increase.webp" width="900" height="800" alt="Bars show carbon dioxide in a fictional region rising from 316 ppm to 389 ppm, a 73 ppm increase highlighted. Cards show 73 divided by 316 times 100 is 23.1%, and 73 divided by 45 years is 1.62 ppm a year." loading="lazy">
+  <figcaption>A rise from 316 to 389 ppm is a 23.1% increase, or 1.62 ppm a year over 45 years.</figcaption>
+</figure>
+
+
 ## Worked example 2: scrubbers and pH
 
 A power station emits 9,600 tonnes of sulfur dioxide a year. Fitting scrubbers removes 92 per cent.
@@ -118,6 +152,12 @@ A power station emits 9,600 tonnes of sulfur dioxide a year. Fitting scrubbers r
 2. Remaining emission = 9,600 - 8,832 = 768 tonnes per year.
 
 A lake falls from pH 6.6 to pH 4.6. The pH scale is logarithmic, so each unit is a tenfold change in acidity. Two units down means 10 x 10 = 100 times more acidic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide--06-atm-scrubber-and-ph-calc.webp" width="900" height="960" alt="A bar of 9,600 tonnes of sulfur dioxide is split into 8,832 tonnes removed (92%) and 768 tonnes left. A pH line from 7 to 4 marks a lake at 6.6, normal rain at 5.6 and the lake at 4.6, which is 10 times 10, so 100 times more acidic." loading="lazy">
+  <figcaption>Scrubbers cut 9,600 t to 768 t, and two pH units is a hundredfold change in acidity.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

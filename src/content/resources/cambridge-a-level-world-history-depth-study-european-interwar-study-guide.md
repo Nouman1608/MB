@@ -52,6 +52,12 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 
 **Foreign policy.** The invasion of Ethiopia in 1935 led to League sanctions and moved Italy closer to Germany. The Rome-Berlin Axis followed in 1936, anti-Jewish laws in 1938 and the Pact of Steel in 1939. Italy entered the Second World War in June 1940.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--08-it-steps.webp" width="900" height="968" alt="A six-step staircase rising to the right. Step 1, October 1922: the March on Rome ends with the king inviting Mussolini to form a government, legal in form but obtained under threat of force. Step 2, 1923: the Acerbo Law gives a large majority of seats to the party with the biggest vote. Step 3, 1924: an election marked by intimidation. Step 4, 1924: the murder of Matteotti creates a crisis that Mussolini survives. Step 5, January 1925: he declares he takes responsibility. Step 6: opposition parties are suppressed and the press is controlled." loading="lazy">
+  <figcaption>Mussolini’s rise from the March on Rome to a one-party state, step by step.</figcaption>
+</figure>
+
+
 ## Stalin's Russia, 1924-41
 
 **Rise to power.** After Lenin's death in January 1924, Stalin used his position as General Secretary and the party's ban on factions to defeat rivals such as Trotsky, then Zinoviev and Kamenev, then Bukharin. Control of appointments mattered as much as ideas.
@@ -61,6 +67,17 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 **Terror and control.** The murder of Sergei Kirov in December 1934 was followed by wider arrests. The show trials of 1936-38 and the purges of the party, the army and the NKVD itself led to mass arrests, executions and the expansion of the Gulag. The 1936 constitution looked democratic but operated in a one-party state. Propaganda, censorship and the cult of Stalin supported control.
 
 **Foreign policy.** The Soviet Union joined the League in 1934 and promoted collective security, but the Munich settlement in 1938 left Moscow isolated. The Nazi-Soviet Pact of August 1939 was followed by the invasion of Poland and, on 22 June 1941, by Operation Barbarossa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--09-st-rivals.webp" width="900" height="990" alt="A sequence. At the top, Stalin as General Secretary controls appointments and uses the ban on factions. Three rounds follow, each showing defeated rivals crossed out: first Trotsky, then Zinoviev and Kamenev, then Bukharin. The result is Stalin supreme by 1929." loading="lazy">
+  <figcaption>Stalin used his party posts to defeat Trotsky, then Zinoviev and Kamenev, then Bukharin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--10-st-economy-terror.webp" width="900" height="608" alt="A timeline of Stalin’s Russia. Economic change: the First Five-Year Plan from 1928 prioritises heavy industry; collectivisation from 1929 with a campaign against so-called kulaks; severe famine in 1932-33. Terror and control: the murder of Kirov in December 1934 is followed by wider arrests; the 1936 constitution looks democratic but the state stays one-party; show trials and purges of 1936-38 lead to mass arrests, executions and a larger Gulag." loading="lazy">
+  <figcaption>The shift from economic transformation to terror, 1928-38.</figcaption>
+</figure>
+
 
 ## Hitler's Germany, 1929-41
 
@@ -74,6 +91,17 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 
 **Foreign policy.** Key stages include the remilitarisation of the Rhineland (1936), the Anschluss (March 1938), Munich (September 1938), the occupation of Czechoslovakia (March 1939), the Nazi-Soviet Pact and the invasion of Poland on 1 September 1939.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--11-ge-52-days.webp" width="900" height="924" alt="A to-scale bar of 52 days. It starts on 30 January 1933 when Hitler becomes Chancellor, passes the Reichstag fire and suspension of civil rights on 27 February after 28 days, and ends on 23 March with the Enabling Act, 24 days later, letting the government make laws without the Reichstag. Below, a chain: trade unions and other parties banned, the Night of the Long Knives on 30 June 1934, and in August 1934 Hitler combines the offices of Chancellor and President." loading="lazy">
+  <figcaption>It took 52 days from Chancellor to the Enabling Act; by August 1934 Hitler held both top offices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--12-road-to-war.webp" width="900" height="966" alt="One timeline from 1934 to 1941 with a marker shape for each regime. Soviet Union: joins the League in 1934; Munich leaves Moscow isolated in 1938; the Nazi-Soviet Pact in August 1939; Operation Barbarossa on 22 June 1941. Italy: invades Ethiopia in 1935 and faces sanctions; Rome-Berlin Axis in 1936; anti-Jewish laws in 1938; Pact of Steel in 1939; enters the war in June 1940. Germany: Rhineland remilitarised in 1936; Anschluss in March 1938; Munich in September 1938; Czechoslovakia occupied in March 1939; Nazi-Soviet Pact; invasion of Poland on 1 September 1939." loading="lazy">
+  <figcaption>Foreign-policy steps of Italy, the Soviet Union and Germany on one timeline, 1934-41.</figcaption>
+</figure>
+
+
 ## Comparing the regimes
 
 | Question | Italy | Soviet Union | Germany |
@@ -83,6 +111,12 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 | Economic aim | Self-sufficiency | Rapid industrialisation | Rearmament |
 
 Comparisons earn credit when you explain why these differences existed, for example the weaker party hold on institutions in Italy than in the other two states.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--13-regimes-compared.webp" width="900" height="700" alt="Three columns compare Italy, the Soviet Union and Germany on three questions. Route to power: Mussolini was appointed by the king after pressure; Stalin won a party struggle after Lenin; Hitler was appointed Chancellor, then seized control. Main tool: propaganda and partial coercion in Italy; mass terror and party control in the Soviet Union; terror, propaganda and popular support in Germany. Economic aim: self-sufficiency in Italy, rapid industrialisation in the Soviet Union, rearmament in Germany." loading="lazy">
+  <figcaption>The three regimes compared on route to power, main tool and economic aim.</figcaption>
+</figure>
+
 
 ## Worked example: a short chronology calculation
 

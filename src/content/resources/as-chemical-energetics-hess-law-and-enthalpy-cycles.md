@@ -70,6 +70,12 @@ water from the reaction of an acid and a base.
 Combustion and neutralisation are always exothermic; formation and reaction
 enthalpies can be either.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-energetics-hess-law-and-enthalpy-cycles--01-enthalpy-profiles.webp" width="900" height="1050" alt="Two enthalpy profiles with progress of reaction on the x-axis. In the exothermic one the products sit below the reactants, so delta H is negative. In the endothermic one the products sit above the reactants, so delta H is positive. In both, Ea is the height from the reactants to the peak." loading="lazy">
+  <figcaption>Exothermic reactions have negative delta H, endothermic positive; Ea is the barrier up to the peak.</figcaption>
+</figure>
+
+
 ## Bond energy calculations
 
 Breaking a bond always requires energy (endothermic, ΔH positive); forming a bond
@@ -97,6 +103,12 @@ containing that bond, not exact values for the specific molecule in the
 question — which is precisely why a bond-energy calculation and an experimental
 enthalpy change for the same reaction rarely agree exactly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-energetics-hess-law-and-enthalpy-cycles--02-bond-energy-ladder.webp" width="900" height="1020" alt="An energy ladder: separate atoms sit 679 kJ/mol above H2 + Cl2 (436 + 243 to break the bonds). Forming two H-Cl bonds releases 864 kJ/mol. The net change is 679 - 864 = -185 kJ/mol, so the reaction is exothermic." loading="lazy">
+  <figcaption>Bonds broken minus bonds formed: 679 - 864 = -185 kJ/mol.</figcaption>
+</figure>
+
+
 ## Calculating from experimental data
 
 For a reaction carried out in solution, the heat released or absorbed is
@@ -115,6 +127,12 @@ number of moles of the limiting reactant. The negative sign in the ΔH expressio
 reflects that a temperature **rise** in the surroundings (the solution) means the
 reaction itself released energy — ΔH is negative for the exothermic reaction even
 though ΔT is positive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-energetics-hess-law-and-enthalpy-cycles--03-calorimetry-heat.webp" width="900" height="930" alt="A beaker of reacting solution with a thermometer whose reading rises as heat is released. With illustrative numbers (50 g, c = 4.18, delta T = 6.5 K, n = 0.0250 mol) q = 1358.5 J and delta H = -54 340 J/mol, about -54.3 kJ/mol. The temperature change is positive but delta H is negative." loading="lazy">
+  <figcaption>A temperature rise means heat was released, so delta H = -mc delta T / n is negative.</figcaption>
+</figure>
+
 
 ## Hess's law
 
@@ -150,6 +168,12 @@ data given are combustion enthalpies, the cycle is built with the elements and
 target compound at the top, and their combustion products at the bottom, because
 every substance in the cycle can reach the same combustion products by a
 measurable route.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-energetics-hess-law-and-enthalpy-cycles--04-hess-cycle-methane.webp" width="900" height="930" alt="A triangle with C + 2H2 and CH4 at the top and CO2 + 2H2O at the bottom. Burning the elements gives -394 + 2(-286) = -966; reversing the combustion of methane gives +890. The total, -76 kJ/mol, equals the enthalpy of formation of CH4." loading="lazy">
+  <figcaption>Both routes give the same total: enthalpy of formation of CH4 = -966 + 890 = -76 kJ/mol.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

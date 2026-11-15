@@ -28,6 +28,12 @@ The Spoken Language Endorsement is an optional extra in Pearson Edexcel Internat
 
 The 4EA1 qualification is assessed mainly through written work. The endorsement sits beside those components as an additional, separately reported outcome. For this reason it is easy to neglect, but the skills overlap strongly with the written papers: structuring an argument, choosing precise vocabulary, adapting to an audience and purpose, and being able to explain and defend ideas. Time spent on spoken work often improves the clarity of your writing too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--14-endorsement-position.webp" width="900" height="850" alt="Written components lead to the written grade. A separate, optional Spoken Language Endorsement is reported as Pass, Merit, Distinction or Not Classified and does not change that grade. The presentation should be prepared and last no longer than 10 minutes." loading="lazy">
+  <figcaption>The optional endorsement sits beside the written grade.</figcaption>
+</figure>
+
+
 ## Choosing and planning a topic
 
 A good topic is one on which you have an opinion, some knowledge and access to examples. Strong topics usually have two sides, so that you can show reasoning rather than just describe. Examples include whether schools should start later, whether students should learn a second language from an early age, or how a local tradition has changed in recent years.
@@ -41,6 +47,12 @@ Plan in this order:
 5. **Evidence**: facts you are certain of, a personal example, and a short anecdote. Do not use statistics you cannot verify.
 6. **Notes**: key words on cards, not a script.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--15-plan-order.webp" width="900" height="900" alt="Six numbered steps: purpose (inform, explain, argue or persuade); audience (who is listening and what they know); main message in one sentence; structure (opening, two to four developed points, conclusion); evidence (facts you are sure of, a personal example, a short anecdote); notes as key words on cards. Do not use statistics you cannot verify." loading="lazy">
+  <figcaption>The six steps for planning a talk, in order.</figcaption>
+</figure>
+
+
 ## Delivery
 
 Delivery is how the message is carried by your voice and body. Aim for:
@@ -52,9 +64,21 @@ Delivery is how the message is carried by your voice and body. Aim for:
 - **Posture and gesture**: stand upright, keep gestures purposeful and avoid fidgeting.
 - **Engagement**: use direct address ("Imagine that you..."), rhetorical questions and short examples to hold attention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--16-delivery-six.webp" width="900" height="830" alt="Six icon cards: pace (steady, slowing on important points); pause (a short silence before and after a key idea); volume and tone (reach the back of the room, vary tone); eye contact (look around the room, not at notes or floor); posture and gesture (stand upright, purposeful gestures); engagement (direct address, rhetorical questions, short examples)." loading="lazy">
+  <figcaption>Six parts of delivery.</figcaption>
+</figure>
+
+
 ## Responding to questions
 
 Questions after the talk show whether you understand your own subject and can think on your feet. Listen to the whole question, pause, then answer what has been asked. A strong response gives a direct answer first, then a reason or example. If you do not know, say so honestly and offer what you do know, instead of bluffing. If a questioner disagrees, acknowledge the point politely ("That is a fair concern") and then explain your own view. It helps to predict a few likely questions in advance and practise answering them aloud.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--17-responding-to-questions.webp" width="900" height="830" alt="After a question, listen to the whole of it and pause. If you know, give a direct answer first and then a reason or example. If you do not know, say so honestly and offer what you do know. If the questioner disagrees, acknowledge the point politely, for example &quot;That is a fair concern&quot;, then explain your own view." loading="lazy">
+  <figcaption>Three routes after you have listened and paused.</figcaption>
+</figure>
+
 
 ## Formal English
 
@@ -67,6 +91,12 @@ In a formal setting you should use language that is clear, accurate and suited t
 - an appropriate tone: respectful and confident, not casual or aggressive.
 
 Formal English does not require you to hide your accent. It concerns choice of words and grammar, not pronunciation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--18-formal-english.webp" width="900" height="870" alt="Avoid vague words such as thing and stuff, fillers such as like, you know and basically, and slang or text-speak. Aim for accurate, consistent grammar, varied sentence length, precise vocabulary and a respectful, confident tone. Formal English concerns word choice and grammar, so you need not hide your accent." loading="lazy">
+  <figcaption>What to avoid and what to aim for in formal English.</figcaption>
+</figure>
+
 
 ## Worked example: timing and structure
 
@@ -81,6 +111,12 @@ Plan the minutes:
 - Conclusion, 30 seconds: return to the opening question and restate the claim.
 
 Total: 40 + 80 + 80 + 70 + 30 = 300 seconds, which is exactly 5 minutes. After rehearsal you may find that point 2 runs over. If so, remove one example rather than speak faster. Then prepare answers to three possible questions, for example "Would you pay more tax to keep libraries open?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--19-five-minute-plan.webp" width="900" height="956" alt="Opening 40 s, point 1 80 s, point 2 80 s, point 3 70 s and conclusion 30 s are drawn to scale and add to 300 s, which is 5 minutes. At about 130 words a minute a script would be 650 words, too long to memorise, so use notes. If a point runs over, remove one example rather than speak faster." loading="lazy">
+  <figcaption>Planning a five-minute talk: five parts, 300 seconds.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -99,6 +135,12 @@ Total: 40 + 80 + 80 + 70 + 30 = 300 seconds, which is exactly 5 minutes. After r
 - Have a plan for a nervous moment: pause, breathe, look at your notes, continue.
 - Link your points with signposts such as "firstly", "in contrast" and "for this reason".
 - Reflect on feedback after a practice talk and change one thing each time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-spoken-language-endorsement-study-guide--20-practice-cycle.webp" width="900" height="900" alt="A cycle of five steps: rehearse with a timer, record yourself, listen for fillers, pace and tone, reflect on feedback, and change one thing, then repeat. Also practise the first and last 30 seconds until they are fluent." loading="lazy">
+  <figcaption>A practice cycle for improving a talk.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

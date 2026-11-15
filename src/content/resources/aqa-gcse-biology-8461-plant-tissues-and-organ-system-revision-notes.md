@@ -68,6 +68,12 @@ tissues below.
 5. Record the magnification.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--08-pt-leaf-section.webp" width="900" height="780" alt="Transverse section of a leaf, not to scale: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein with xylem and phloem, lower epidermis, and a stoma between two guard cells." loading="lazy">
+  <figcaption>The tissue layers of a leaf in order, top to bottom.</figcaption>
+</figure>
+
+
 ## 4.2.3.2 The plant organ system
 
 The **roots, stem and leaves** form a plant organ system for transporting substances around the plant.
@@ -86,6 +92,12 @@ sugars made in leaf -> phloem -> growing tips, roots and storage organs
 | Mineral ions enter by **active transport** | Ions are at a lower concentration in the soil than in the cell, so energy from respiration is used to take them up |
 | Many mitochondria | Release energy from respiration for active transport |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--09-pt-root-hair.webp" width="900" height="900" alt="A root hair cell with a long thin extension into the soil for a large surface area. Water enters by osmosis and mineral ions by active transport, which needs energy from mitochondria." loading="lazy">
+  <figcaption>How a root hair cell takes in water and mineral ions.</figcaption>
+</figure>
+
+
 ### Xylem vs phloem
 
 | | Xylem | Phloem |
@@ -97,6 +109,12 @@ sugars made in leaf -> phloem -> growing tips, roots and storage organs
 
 The detailed structure of phloem and how translocation works are **not** required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--10-pt-xylem-phloem.webp" width="900" height="880" alt="Schematic plant: xylem carries water and mineral ions upwards from the roots; phloem carries dissolved sugars in both directions; water vapour is lost from the leaf." loading="lazy">
+  <figcaption>Xylem carries water and ions up; phloem carries sugars both ways.</figcaption>
+</figure>
+
+
 ### Transpiration
 
 ```
@@ -106,6 +124,17 @@ The detailed structure of phloem and how translocation works are **not** require
 4. This pulls a continuous column of water up the xylem from the roots: the transpiration stream.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--12-pt-transpiration-factors.webp" width="900" height="960" alt="Four rows: higher temperature, more air movement and brighter light each raise the rate of transpiration, while higher humidity lowers it, each with the reason from the lesson." loading="lazy">
+  <figcaption>Direction of change in transpiration rate for four factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--13-pt-potometer.webp" width="900" height="1030" alt="A potometer with a leafy shoot, capillary tube with a millimetre scale, air bubble and water reservoir. The bubble moves 36 mm in 6 minutes, so the rate is 6 mm per minute, or 4.71 mm cubed per minute for a tube of radius 0.5 mm." loading="lazy">
+  <figcaption>Worked potometer calculation: 36 mm in 6 minutes.</figcaption>
+</figure>
+
+
 ### Stomata and guard cells
 
 - Stomata and guard cells **control gas exchange and water loss**.
@@ -113,6 +142,12 @@ The detailed structure of phloem and how translocation works are **not** require
 - Guard cells swell with water (turgid) to **open** the stoma and lose water (flaccid) to **close** it, for
   example when the plant is short of water.
 - Most stomata are on the **lower surface**, which is cooler and shaded, so less water evaporates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--11-pt-stomata.webp" width="900" height="940" alt="Side view of guard cells around a stoma. Open, carbon dioxide diffuses in and oxygen and water vapour diffuse out. Closed, little gas exchange or water loss." loading="lazy">
+  <figcaption>Guard cells open and close the pore to control gas exchange and water loss.</figcaption>
+</figure>
+
 
 ### Factors affecting the rate of transpiration
 
@@ -166,6 +201,12 @@ Counts in five fields of view: 14, 11, 13, 12, 15. Mean = 65 / 5 = **13 stomata*
 The field of view is a circle 0.4 mm across, so radius = 0.2 mm.
 Area = 3.14 x 0.2² = 3.14 x 0.04 = 0.126 mm².
 Density = 13 / 0.126 = about **103 stomata per mm²**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--14-pt-stomata-count.webp" width="900" height="870" alt="Four method steps and five fields of view containing 14, 17, 12, 15 and 16 stomata. The mean is 74 divided by 5, 14.8 per field, and the density is 14.8 divided by 0.2, 74 per square millimetre." loading="lazy">
+  <figcaption>Counting stomata in five fields of view to find a mean and a density.</figcaption>
+</figure>
+
 
 ## Graph skills
 

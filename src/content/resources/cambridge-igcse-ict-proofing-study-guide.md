@@ -78,6 +78,12 @@ Two errors remain that no tool would normally report:
 
 So there are 3 errors found by the software and 2 remaining ones, a total of 5, which is why a human proofread is essential. This is the point mark schemes reward: software finds some errors, but a person is needed to check meaning, context and facts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--07-spell-check-sentence.webp" width="900" height="734" alt="The lesson sentence is shown before and after spell checking. Three misspellings are flagged; &quot;there&quot; for &quot;their&quot; and the non-existent date 31 February remain, giving five errors in total." loading="lazy">
+  <figcaption>A spell checker finds three of the five errors; a person must find the rest.</figcaption>
+</figure>
+
+
 ## 15.2 Proofing techniques
 
 ### Visual (proofreading) checks
@@ -93,12 +99,29 @@ Proofreading means reading the work carefully on screen or on paper and comparin
 - Use **print preview** or print a copy, because errors that look fine on screen can show up on paper.
 - Ask **another person** to read it, since you see what you expect to see in your own work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--11-layout-traps.webp" width="900" height="1040" alt="Two page outlines show a stranded heading at the foot of page 1 and a single line followed by blank lines at the top of page 2." loading="lazy">
+  <figcaption>Look for stranded headings, lone lines and extra blank lines.</figcaption>
+</figure>
+
+
 ### Checking data entry
 
 - **Verification** confirms that data has been entered or copied exactly as in the source. Two methods are **visual verification** (reading the typed data against the original) and **double data entry** (two people type the same data and the computer compares them, reporting differences).
 - **Validation** is the automatic check that data are reasonable.
 
 Differences to remember: validation is done by the computer using rules, and verification confirms accuracy of copying. Data can pass validation and still be wrong. For example, typing 1985 for a birth year instead of 1958 passes a range check, but a verification step would catch it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--09-valid-vs-verify.webp" width="900" height="914" alt="A mark of 68 on a form is typed four ways. Validation rejects 105 and &quot;eighty&quot; but accepts 86 because it is reasonable; only verification against the form shows 86 is wrong." loading="lazy">
+  <figcaption>Data can pass validation and still be wrong; verification catches copying errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--10-double-entry.webp" width="900" height="834" alt="Two typists enter the same marks and the computer compares them. One row differs, so the difference is checked against the paper form. The marks are illustrative." loading="lazy">
+  <figcaption>Double data entry has the computer report differences between two typed copies.</figcaption>
+</figure>
+
 
 ### Worked example: choosing between validation and verification
 
@@ -109,9 +132,21 @@ A clerk types student marks from paper forms into a spreadsheet. The mark must b
 
 The recommendation: use validation for obviously impossible data, and verification for accuracy of copying. Using both is the strongest approach.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--08-which-check.webp" width="900" height="992" alt="Six example errors are each matched to the check that catches them: spell checker, grammar checker, proofreading, range check, date or format check, or verification." loading="lazy">
+  <figcaption>Match each error to the software check or human check that can catch it.</figcaption>
+</figure>
+
+
 ### Making the process systematic
 
 A professional approach is to proof in stages: first content (is it correct and complete?), then language (spelling, grammar and punctuation), then layout and consistency. Do a last check after any final change, as new errors can be introduced when fixing old ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--12-proof-stages.webp" width="900" height="830" alt="Four cards show proofing in order: content, then language, then layout and consistency, then a last check after any final change." loading="lazy">
+  <figcaption>Proof in stages, and check again after the final change.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

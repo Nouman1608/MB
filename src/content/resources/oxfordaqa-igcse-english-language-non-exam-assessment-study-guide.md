@@ -28,6 +28,12 @@ In OxfordAQA International GCSE English Language, every candidate takes Paper 1,
 
 Paper 1 tests reading and writing based on literary non-fiction and composition. The NEA is the alternative to the source-based paper that tests modern-world reading and directed writing. Both routes assess reading and writing skills in English. The NEA route suits students who work well over time and who enjoy research, drafting and reflection. Before committing, check with your teacher how the route is organised at your school and what support is permitted at each stage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--14-nea-fit.webp" width="900" height="716" alt="Every candidate takes Paper 1. The remaining part is either Paper 2, a source-based written exam, or the non-exam assessment, an independent project worth 60 marks and 40 percent of the qualification, teacher assessed and moderated by the board." loading="lazy">
+  <figcaption>Paper 1 plus Paper 2 or the NEA.</figcaption>
+</figure>
+
+
 ## Skills the project assesses
 
 Whatever the task title, an NEA piece at this level rewards the same set of skills:
@@ -37,6 +43,12 @@ Whatever the task title, an NEA piece at this level rewards the same set of skil
 - **Organisation**: a logical structure with an introduction, developed sections and a conclusion, linked by clear paragraphs.
 - **Control of language**: varied vocabulary, a range of sentence structures, an appropriate register, and accurate spelling, punctuation and grammar.
 - **Reflection and evaluation**: if a commentary is required, the ability to explain choices and judge how successful they were.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--15-nea-skills.webp" width="900" height="910" alt="Five skills around the NEA piece: purposeful writing, research and sources, control of language, organisation, and reflection and evaluation if a commentary is required." loading="lazy">
+  <figcaption>The five skills the NEA rewards.</figcaption>
+</figure>
+
 
 ## Stages of an independent project
 
@@ -48,6 +60,12 @@ Pick a subject that interests you enough to sustain weeks of work, and that give
 
 Use a mixture of sources: books, reputable websites, interviews, articles and your own observations. Keep a record of each source as you use it, with the author, title, date and where you found it. Evaluate each source by asking who wrote it, why, when, and whether it is reliable. Take notes in your own words. Copying text without acknowledgement is plagiarism, and it can lead to serious penalties, including disqualification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--17-nea-sources.webp" width="900" height="830" alt="A source record lists author, title, date and where found. Each source is checked with four questions: who wrote it, why, when, and is it reliable. Notes in your own words are good; copying without acknowledgement is plagiarism and can lead to serious penalties including disqualification." loading="lazy">
+  <figcaption>Recording and checking sources.</figcaption>
+</figure>
+
+
 ### Plan before drafting
 
 Write a plan with the main sections and the point of each. Decide on the voice and form: a feature article, a report, a speech, a piece of travel writing or a reflective essay each has different conventions. Choose a form that suits the content and purpose, and know its features, such as headings in a report or a hook in an article.
@@ -56,9 +74,21 @@ Write a plan with the main sections and the point of each. Decide on the voice a
 
 Draft with the plan beside you. Then revise in layers: first the content and structure (does it answer the question and flow logically?), then the paragraphs (does each have one main idea and a link to the next?), then sentences and vocabulary (are they varied and precise?) and last the proofreading. Reading aloud helps you find awkward phrasing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--18-nea-revise.webp" width="900" height="754" alt="A funnel of four layers in order: content and structure, paragraphs, sentences and vocabulary, then proofreading last. Reading aloud helps find awkward phrasing." loading="lazy">
+  <figcaption>The order of revision layers.</figcaption>
+</figure>
+
+
 ### Reflect and evaluate
 
 If the task includes a commentary or reflection, treat it as an analytical piece. Explain what you set out to do, the choices you made about form, structure and language, and why. Give examples from your own text. Evaluate honestly: say what worked, what you would change and what you learned. Vague statements such as "I think it was good" do not show understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--16-nea-stages.webp" width="900" height="750" alt="Five numbered stages with icons: choose and narrow the focus, research carefully, plan before drafting, draft and revise, and reflect and evaluate." loading="lazy">
+  <figcaption>Five stages of the project.</figcaption>
+</figure>
+
 
 ## Authenticity and conduct
 
@@ -70,6 +100,12 @@ NEA work must be your own. Your teacher will supervise and may require some work
 - follow your school's rules about the help that you can receive and when.
 
 Your school and the board will give you the formal rules for your series, and you must follow those.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--20-nea-authentic.webp" width="900" height="770" alt="Four things to do: keep all drafts and notes, acknowledge every source, be able to explain your work, and follow your school's rules on help. One thing never to do: submit work written by someone else, including a tutor, a relative or a software tool." loading="lazy">
+  <figcaption>What to do and what never to do.</figcaption>
+</figure>
+
 
 ## Worked example: planning the time
 
@@ -87,6 +123,12 @@ Suppose you have 10 weeks before the final submission date and a task that requi
 | 10 | Buffer and submission | Completed work |
 
 The weeks add up to 1 + 2 + 1 + 2 + 1 + 1 + 1 + 1 = 10. To keep to a 1,000-word main piece in two weeks of drafting, aim for about 500 words a week, or about 100 words each working day if you write for five days a week. The final week is kept as a buffer in case anything runs late. A schedule like this makes the project manageable and shows your teacher that you are on track.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--19-nea-schedule.webp" width="900" height="946" alt="A ten-week chart: choose focus week 1, research weeks 2 to 3, detailed plan week 4, first draft weeks 5 to 6, revision week 7, commentary week 8, proofreading week 9, buffer and submission week 10. Durations 1+2+1+2+1+1+1+1 sum to 10. Drafting 1,000 words in two weeks is 500 words a week, or 100 a day over five days." loading="lazy">
+  <figcaption>The schedule table as a chart with the drafting rate.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

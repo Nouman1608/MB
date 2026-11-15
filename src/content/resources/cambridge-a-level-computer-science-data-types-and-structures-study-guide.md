@@ -62,6 +62,17 @@ Pupil.Average ← 71.5
 
 You access a field using dot notation. A **composite** data type is one built from other types, and records and arrays are both composite. A user-defined type can also be an **enumerated** type, which lists the allowed values (for example the days of the week), or a **pointer** type, which holds the address of a variable. Naming a type makes a program easier to read and lets the compiler reject values that make no sense.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--15-dt-data-types.webp" width="900" height="920" alt="Six cards for INTEGER, REAL, CHAR, STRING, BOOLEAN and DATE, and an illustrative phone number that keeps its leading zero as a STRING but loses it as an INTEGER." loading="lazy">
+  <figcaption>Choose the type that matches the values and operations needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--16-dt-record.webp" width="900" height="880" alt="A Pupil record of type TStudent with fields Name, Year and Average reached by dot notation, and an array of 30 TStudent records." loading="lazy">
+  <figcaption>A record groups fields of different types; an array of records holds a table.</figcaption>
+</figure>
+
+
 ## Arrays
 
 An **array** is a fixed-size collection of items of the same data type stored under one identifier and accessed by an index. A one-dimensional array holds a list, and a two-dimensional array holds a table with rows and columns.
@@ -86,6 +97,12 @@ NEXT Row
 
 Arrays are useful for searching, sorting and storing lists in memory. Their limits are the fixed size and that every item has the same type. An array of records lets you keep a whole table of mixed data, for example 30 TStudent records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--22-dt-linked-arrays.webp" width="900" height="800" alt="Parallel Data and Next arrays of five slots with Start 3 and a free list; following Next from Start gives 10, 20, 40, with slots 2 and 5 free." loading="lazy">
+  <figcaption>A linked list in two arrays follows Next pointers from the start; unused slots form a free list.</figcaption>
+</figure>
+
+
 ## Files
 
 Variables vanish when a program ends, so data that must last is kept in a **file**. Cambridge expects you to handle **text files**. A file must be opened for a mode before use, and closed afterwards.
@@ -105,6 +122,12 @@ CLOSEFILE "Marks.txt"
 
 The three modes are READ, WRITE and APPEND. WRITE replaces anything already in the file; APPEND adds new lines at the end and keeps the old ones; READ reads from the first line onwards. EOF tests for the end of the file. A frequent source of lost marks is forgetting to close the file, or using WRITE when the data should be added with APPEND.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--18-dt-file-modes.webp" width="900" height="1000" alt="OPENFILE, use, CLOSEFILE; WRITE replaces old lines, APPEND adds a new line after old lines, READ reads from line 1 until EOF." loading="lazy">
+  <figcaption>WRITE replaces, APPEND adds, READ reads from the first line.</figcaption>
+</figure>
+
+
 ## Abstract data types
 
 An **abstract data type** is a collection of data together with the operations that can be performed on it, described without saying how it is implemented. A programmer using a stack does not need to know whether it is stored in an array or a linked list.
@@ -112,6 +135,12 @@ An **abstract data type** is a collection of data together with the operations t
 ### Stack
 
 A **stack** is a last in, first out (LIFO) structure. Items are added and removed at one end, the top. Operations: **push** (add), **pop** (remove and return), and tests for empty and full. Uses include undo features and the call stack of a running program.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--19-dt-stack-trace.webp" width="900" height="850" alt="Five snapshots of Stack[1:5] for push 7, push 12, push 5, pop (returns 5) and push 9 with TopOfStack 2, 3, 4, 3, 4." loading="lazy">
+  <figcaption>The pointer moves on push and pop; the data stays until overwritten.</figcaption>
+</figure>
+
 
 ### Queue
 
@@ -122,6 +151,17 @@ A **queue** is a first in, first out (FIFO) structure. Items join at the rear an
 A **linked list** is a list of nodes, each holding data and a pointer to the next node. The list has a start pointer and the last node's pointer is null. Inserting or removing an item only changes pointers, with no need to shift other items, which is its main advantage over an array. Its disadvantages are that you cannot jump straight to item n and that the pointers use extra memory. A linked list can also be held in two parallel arrays, one for the data and one for the next-node pointers, with a free list that tracks unused slots.
 
 An ADT can be built on arrays by using a pointer variable. For a stack held in an array, the pointer (often called TopOfStack) holds the index of the next free position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--20-dt-stack-queue.webp" width="900" height="950" alt="A stack (LIFO) pushes 1, 2, 3 and pops 3, 2, 1; a queue (FIFO) enqueues 1, 2, 3 and dequeues 1, 2, 3." loading="lazy">
+  <figcaption>A stack is last in, first out; a queue is first in, first out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--21-dt-linked-insert.webp" width="900" height="770" alt="A linked list 10, 20, 40 with start pointer and null; node 30 is inserted by changing the pointers of 20 and 30 only." loading="lazy">
+  <figcaption>Inserting into a linked list changes pointers without shifting items.</figcaption>
+</figure>
+
 
 ## Worked example 1: a stack in an array
 
@@ -162,6 +202,12 @@ The pop returns 5, the most recent item, and decrements the pointer; the value 5
 ## Worked example 2: totals in a two-dimensional array
 
 A 2D array Sales[1:3, 1:4] records units sold by three staff (rows) over four weeks (columns). Row 2 holds 12, 8, 15, 9. To find that member's total: 12 + 8 = 20, 20 + 15 = 35, 35 + 9 = 44. A loop over the columns for Row = 2 does the same by adding each Sales[2, Col] to a running total. To total all staff, put this loop inside an outer loop over Row.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-data-types-and-structures-study-guide--17-dt-array-2d.webp" width="900" height="930" alt="A 3 by 4 table Sales with row 2 holding 12, 8, 15, 9; Sales[2,3] is 15; running totals 12, 20, 35, 44." loading="lazy">
+  <figcaption>A 2D array is a table; a loop over the columns adds up a row.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -43,6 +43,12 @@ The syllabus defines the purpose of sustainability in the supply chain as **maki
 
 Businesses have commercial reasons to act, as well as moral ones. Many customers prefer to buy from responsible firms, using less energy and material cuts costs, governments increasingly regulate waste and emissions, and investors and lenders look at environmental records.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--14-supply-chain-footprint.webp" width="900" height="940" alt="Six boxes show the stages of a supply chain in order: raw materials, manufacturing, packaging, transport, selling and disposal. Under them, two labels say every stage uses resources and creates waste. A dark banner defines sustainable as eco-friendly and responsible for future generations, and four boxes give reasons to act: customers prefer it, costs fall, laws and rules, investors check." loading="lazy">
+  <figcaption>Every stage of the supply chain uses resources and creates waste; sustainability aims to protect future generations.</figcaption>
+</figure>
+
+
 ## Which actions improve sustainability? (6.1.2)
 
 The syllabus names nine actions. Learn each with an example, a benefit and a drawback.
@@ -59,6 +65,12 @@ The syllabus names nine actions. Learn each with an example, a benefit and a dra
 | Offering free repair services | Repairing clothing, phones or furniture | Longer product life; strong reputation | Staff and parts cost money; fewer repeat purchases |
 | Water stewardship | Reducing, reusing and treating water used in production | Lower water bills; protects local water supplies | Treatment equipment is expensive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--15-nine-actions.webp" width="900" height="904" alt="Five rows, one for each stage of the supply chain, each with a small picture and the actions that belong there: make (sustainable materials, water stewardship), pack (reduce packaging), move (sustainable logistics), sell (eco-friendly products, fewer returns and exchanges) and after sale (recycle and reduce waste, digital resale marketplace, free repair services)." loading="lazy">
+  <figcaption>The nine named sustainability actions, grouped by where they act in the supply chain.</figcaption>
+</figure>
+
+
 ## What does ethics mean in commerce? (6.2.1)
 
 **Ethics** are moral principles about what is right and wrong. In commerce, ethical behaviour means acting fairly towards customers, workers, suppliers, the community and the environment, often going further than the law requires. Something can be legal and still unethical.
@@ -69,6 +81,17 @@ The syllabus names two **ethical issues**:
 
 - **Misleading advertising**: claims that are false or exaggerated, hidden charges, or images that make a product look better than it is. It may win sales in the short term but damages trust, leads to complaints and can result in legal action and fines.
 - **Harmful disposal of products**: dumping waste, unsafe disposal of chemicals or old electronics, or sending waste to places that cannot treat it safely. It may be cheaper, and is sometimes legal, but it harms the environment and the health of people living nearby.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--16-two-ethical-issues.webp" width="900" height="770" alt="Two rows, each a chain of three boxes from cause to short term to long term. Misleading advertising: false or exaggerated claims and hidden charges, it may win sales, then lost trust, complaints and fines. Harmful disposal of products: dumping waste, unsafe chemicals or old electronics, cheaper and sometimes legal, then harm to the environment and nearby health." loading="lazy">
+  <figcaption>Misleading advertising and harmful disposal can pay off in the short term but cause harm later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--17-fair-trade-flow.webp" width="900" height="760" alt="Goods travel from the producer to the retailer to the shopper. The retailer pays the producer a fair, stable price. The shopper pays a shelf price that may be higher. An extra premium goes from the retailer to the producers’ community, which spends it on schools and clean water." loading="lazy">
+  <figcaption>Fair trade gives producers a fair, stable price plus a premium for community projects; shop prices may be higher.</figcaption>
+</figure>
+
 
 ## Why do consumers need protection? (6.3)
 
@@ -92,6 +115,12 @@ Consumers need protection because:
 
 For the seller, dealing quickly and fairly with complaints protects its reputation and keeps customers loyal; a complaint handled badly can spread quickly on social media.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--18-complaint-ladder.webp" width="900" height="870" alt="A staircase of five steps for the buyer, from keeping the receipt and photos at the bottom, up through complaining to the seller, going to the manager, contacting a consumer organisation or regulator, to a small claims court as the last resort. Below, four boxes list the seller’s actions: listen and record, repair replace or refund, apologise and offer goodwill, fix the cause and train staff." loading="lazy">
+  <figcaption>Buyers escalate step by step; sellers should respond quickly and fairly at every step.</figcaption>
+</figure>
+
+
 ## Worked example: applying Topic 6 to a business
 
 *An online clothing retailer finds that 30% of its orders are returned, mostly because the clothes do not fit. It also receives complaints that a jacket advertised as "100% waterproof" lets in rain.*
@@ -101,6 +130,12 @@ For the seller, dealing quickly and fairly with complaints protects its reputati
 - **Ethical issue**: the "100% waterproof" claim is misleading advertising. The retailer should correct the advert and stop the claim.
 - **Consumer protection**: customers with faulty jackets should be offered a refund or replacement; the retailer should record the complaints and fix the problem with the supplier.
 - **Evaluation**: these actions cost time and money, but cutting returns saves delivery costs, and honest advertising protects the retailer's reputation, so they are likely to be worthwhile.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-sustainability-and-ethics-study-guide--19-returns-example.webp" width="900" height="890" alt="A grid of 100 order circles with 30 shaded as returned and 70 as kept. Notes say each return is another delivery journey and some returns cannot be resold. Three boxes list actions: accurate size guides and clear photos, a digital resale marketplace for items that do not fit, and reusable packaging for returns." loading="lazy">
+  <figcaption>With 30% of orders returned, the retailer adds journeys and waste; three actions reduce both.</figcaption>
+</figure>
+
 
 ## What are the common mistakes in Topic 6?
 

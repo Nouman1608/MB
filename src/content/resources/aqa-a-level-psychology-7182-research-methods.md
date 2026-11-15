@@ -62,6 +62,12 @@ Paper 2 is a 2-hour exam worth 96 marks and 33.3% of the A-level, assessing comp
 
 **Content analysis** turns qualitative material (texts, media, interview transcripts) into data by coding it into categories. **Case studies** investigate one person, group or event in depth, often over time; they give rich, idiographic data but cannot easily be generalised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--15-rm-experiments.webp" width="900" height="810" alt="Four cards: laboratory (IV manipulated in a controlled setting), field (IV manipulated in a natural setting), natural (IV varies naturally), quasi (IV is a characteristic of participants)." loading="lazy">
+  <figcaption>Four types of experiment by setting and IV.</figcaption>
+</figure>
+
+
 ## What are the scientific processes?
 
 **Aims and hypotheses.** An **aim** is a general statement of what the study investigates. A **hypothesis** is a precise, testable prediction. A **directional** hypothesis states the direction of the difference or relationship ("participants who sleep 8 hours will recall more words than those who sleep 4 hours"); a **non-directional** hypothesis predicts a difference without stating which way. Directional hypotheses are usually used when previous research suggests the outcome.
@@ -106,6 +112,17 @@ Bias limits **generalisation** from sample to population.
 
 **Reporting.** A scientific report has an **abstract** (short summary), **introduction** (literature review and hypotheses), **method** (design, sample, materials, procedure, ethics), **results** (descriptive and inferential statistics), **discussion** (interpretation, limitations, implications) and **referencing** (sources in a standard format).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--16-rm-designs.webp" width="900" height="1090" alt="Repeated measures uses the same people in both conditions, independent groups uses different people, and matched pairs uses different people matched on a key variable. Notes give counterbalancing, random allocation and that matching is time-consuming." loading="lazy">
+  <figcaption>Who takes part in each condition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--17-rm-sampling.webp" width="900" height="1170" alt="Three panels of 30 circles with 10 chosen: random, systematic (every third person) and stratified (sub-groups of 15, 9 and 6 sampled as 5, 3 and 2)." loading="lazy">
+  <figcaption>Random, systematic and stratified sampling.</figcaption>
+</figure>
+
+
 ## How do you handle and analyse data?
 
 **Types of data.** **Quantitative** data are numerical; **qualitative** data are descriptive (words, meanings). **Primary** data are collected first-hand for the study; **secondary** data were collected by someone else. A **meta-analysis** combines the results of many studies to find an overall effect size.
@@ -121,6 +138,12 @@ Bias limits **generalisation** from sample to population.
 **Levels of measurement.** **Nominal** data are categories (counts in groups). **Ordinal** data can be ranked but intervals are not equal (ratings). **Interval** data use units of equal size (time, temperature).
 
 **Content analysis, coding and thematic analysis.** In **coding**, the researcher develops categories and counts how often each occurs, producing quantitative data. In **thematic analysis**, the researcher identifies recurring themes and keeps the data qualitative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--18-rm-distributions.webp" width="900" height="1170" alt="Three curves with mode, median and mean marked. Normal: all at one point. Positive skew: long tail right, mean above median above mode. Negative skew: the mirror image." loading="lazy">
+  <figcaption>Where mean, median and mode fall in normal and skewed curves.</figcaption>
+</figure>
+
 
 ## How does inferential testing work?
 
@@ -139,6 +162,22 @@ Bias limits **generalisation** from sample to population.
 | **Interval** | Unrelated t-test | Related t-test | Pearson's r |
 
 The three t-tests and Pearson's r are **parametric** tests: they need interval data, a roughly normal distribution and similar variance between groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--19-rm-test-choice.webp" width="900" height="812" alt="A table of tests by level of measurement (nominal, ordinal, interval) and design (unrelated, related, correlation), with the t-tests and Pearson’s r marked as parametric." loading="lazy">
+  <figcaption>Three questions point to one test.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--20-rm-sign-test.webp" width="900" height="970" alt="Ten illustrative before and after scores give seven plus signs, two minus signs and one zero. Ignoring the zero N is 9 and S, the less frequent sign, is 2. S is compared with the critical value for N from the table; S at or below it is significant." loading="lazy">
+  <figcaption>Sign test worked through on example data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--21-rm-errors.webp" width="900" height="930" alt="A grid: rejecting a true null hypothesis is a Type I error (false positive); accepting a false one is a Type II error (false negative). A scale from 0.10 lenient to 0.01 strict shows which error becomes more likely." loading="lazy">
+  <figcaption>Type I and Type II errors and the significance level.</figcaption>
+</figure>
+
 
 ## Common errors
 

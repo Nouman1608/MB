@@ -50,6 +50,22 @@ Evidence includes the three mountains task (Piaget and Inhelder), in which young
 
 Lev Vygotsky stressed that thinking develops through social interaction and language. The **zone of proximal development (ZPD)** is the gap between what a child can do alone and what they can do with help from a more knowledgeable other. **Scaffolding**, a term from Wood, Bruner and Ross (1976), describes the support given by a tutor, which is reduced as the child becomes more competent. Vygotsky's account fits the importance of culture and teaching, but it is less precise than Piaget's about the mechanisms, and the benefit of help varies with the child and the culture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--14-dev-piaget-stages.webp" width="900" height="960" alt="Four rows for the sensorimotor, preoperational, concrete operational and formal operational stages with the lesson’s approximate ages and key features, with icons for object permanence, a conservation task and abstract thinking." loading="lazy">
+  <figcaption>Piaget’s four stages in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--15-dev-schema-cycle.webp" width="900" height="860" alt="New information either fits an existing schema (assimilation, a round piece in a round slot) or does not (accommodation, the slot changes to take a square piece). Both lead to equilibrium, the balance that drives learning." loading="lazy">
+  <figcaption>Assimilation fits information to a schema; accommodation changes the schema.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--16-dev-zpd.webp" width="900" height="850" alt="A more knowledgeable other supports a child with scaffolding that is reduced as the child improves. In the fictional example the child solves 6 of 10 problems alone (60 per cent) and 9 of 10 with help (90 per cent): a gap of 3 problems or 30 percentage points." loading="lazy">
+  <figcaption>The ZPD is the gap between independent and assisted performance.</figcaption>
+</figure>
+
+
 ## Social development
 
 ### Attachment
@@ -62,9 +78,26 @@ Mary Ainsworth used the **Strange Situation**, a laboratory procedure with brief
 
 Bandura's social learning theory explains that children learn by observing and imitating models, with vicarious reinforcement increasing the likelihood of imitation. Lawrence Kohlberg proposed that moral reasoning develops through three levels: **pre-conventional** (judging by punishment and reward), **conventional** (judging by social rules and expectations) and **post-conventional** (judging by principles). He used moral dilemmas such as the Heinz dilemma, in which a man considers stealing a drug for his dying wife. He was interested in the reasoning behind answers, not the answer itself. Critics say the theory is biased towards a Western, male perspective and that reasoning does not always predict behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--18-dev-kohlberg.webp" width="900" height="940" alt="Three rising steps: pre-conventional (judging by punishment and reward), conventional (social rules and expectations) and post-conventional (principles), with the Heinz dilemma noted and the point that the reasoning matters, not the answer." loading="lazy">
+  <figcaption>Moral reasoning develops through three levels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--19-dev-attachment.webp" width="900" height="930" alt="Harlow: infant rhesus monkeys preferred a cloth surrogate to a wire one that gave milk (contact comfort). Ainsworth: the Strange Situation uses brief separations and reunions to classify attachment as secure, insecure-avoidant or insecure-resistant." loading="lazy">
+  <figcaption>Harlow’s surrogates and Ainsworth’s three attachment types.</figcaption>
+</figure>
+
+
 ## Development of identity
 
 Erik Erikson proposed psychosocial stages, and in adolescence the central conflict is **identity versus role confusion**: young people explore who they are and what they believe. James Marcia built on this and described four identity statuses, based on whether a person has explored alternatives and made a commitment: **identity diffusion** (neither), **foreclosure** (commitment without exploration), **moratorium** (exploration without commitment) and **identity achievement** (both). Identity is also shaped by gender and by ethnic and cultural background, including the way family, peers, media and the wider society treat these characteristics. Evaluation considers that identity can change during adulthood, that stages are descriptive rather than explanatory, and that the theories grew out of Western societies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--17-dev-marcia.webp" width="900" height="700" alt="Two by two grid of exploration against commitment: moratorium (explored, no commitment), identity achievement (both), identity diffusion (neither) and foreclosure (commitment without exploration)." loading="lazy">
+  <figcaption>Marcia’s statuses depend on exploration and commitment.</figcaption>
+</figure>
+
 
 ## Influences on development and developing as a learner
 
@@ -77,6 +110,12 @@ Development is shaped by both **nature** and **nurture**, and the two interact. 
 ## Research methods in development
 
 Developmental research may be **cross-sectional** (comparing different age groups at one time, which is quick but affected by cohort differences) or **longitudinal** (following the same people over time, which shows change but is slow, costly and subject to participants dropping out). Child participants need parental consent and their own assent, protection from stress, and attention to the effect of the researcher on their behaviour. Observations, interviews and experiments are all used, and the tasks must be understandable to the child.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--20-dev-cross-long.webp" width="900" height="960" alt="A cross-sectional study compares different age groups at one time; it is quick but affected by cohort differences. A longitudinal study follows the same people over time, shown at three times with one person dropping out; it is slow and costly." loading="lazy">
+  <figcaption>Cross-sectional and longitudinal designs compared.</figcaption>
+</figure>
+
 
 ## Worked example
 

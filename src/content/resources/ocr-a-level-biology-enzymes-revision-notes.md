@@ -57,6 +57,27 @@ These notes condense learning outcomes 2.1.4(a) to (f) of the OCR A Level Biolog
 
 After amylase, **maltase** (on the small intestine lining) hydrolyses maltose to glucose, which is absorbed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--09-lock-key-induced-fit.webp" width="900" height="930" alt="Two rows of four steps each showing an enzyme and its substrate. Both follow the sequence enzyme plus substrate, enzyme-substrate complex, enzyme-product complex, then enzyme plus products. In the lock and key row the active site is rigid and exactly matches the substrate from the start. In the induced-fit row the active site is wider at first and changes shape to fit closely around the substrate as it binds, then returns to its original shape when the products leave. The enzyme is unchanged and can be reused. Schematic, not to scale." loading="lazy">
+  <figcaption>Lock and key (rigid active site) compared with induced fit (active site changes shape).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--10-activation-energy.webp" width="900" height="850" alt="An energy profile graph with energy on the vertical axis and progress of reaction on the horizontal axis. Two curves start at the reactants and end at the products. The uncatalysed curve rises to a high peak; the enzyme-catalysed curve rises to a much lower peak. The gap between the start level and the peak is the activation energy, which is smaller with the enzyme. The reactants and products are at the same levels for both curves. The curves are illustrative, not measured data." loading="lazy">
+  <figcaption>With an enzyme the reaction takes a path with a lower activation energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--11-temperature-q10.webp" width="900" height="1030" alt="A graph of enzyme-controlled reaction rate against temperature from 0 to 60 degrees Celsius. The rate rises with temperature, doubling from 0.84 at 20 degrees to 1.68 at 30 degrees, so temperature coefficient = 1.68 divided by 0.84 = 2.0. The rate peaks at the optimum temperature, then falls steeply because the enzyme is denatured. Three small enzyme drawings show a low temperature (inactive but not denatured), the optimum (substrate fits) and a high temperature (active site changed shape, substrate no longer fits). The curve beyond the two lesson points is illustrative." loading="lazy">
+  <figcaption>Rate rises with temperature to an optimum, then falls as the enzyme is denatured; the temperature coefficient compares rates 10 degrees apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--12-ph-optimum.webp" width="900" height="910" alt="A bell-shaped graph of enzyme activity against pH with an optimum pH at the top. Small changes from the optimum reduce activity because charges in the active site change and the substrate binds less well. Large changes denature the enzyme. Three enzyme drawings show a substrate fitting at the optimum, fitting badly just away from the optimum, and not fitting at an extreme pH. The optimum shown (pH 7) is illustrative because each enzyme has its own optimum." loading="lazy">
+  <figcaption>Each enzyme has an optimum pH; far from it the enzyme is denatured.</figcaption>
+</figure>
+
+
 ## Mechanism of enzyme action: 2.1.4(c)
 
 1. The enzyme's **tertiary structure** gives the active site its specific shape.
@@ -106,6 +127,17 @@ The switch from lock and key to induced fit is an example of a model being revis
 
 * The rate is proportional to enzyme concentration, because there are more active sites available.
 * If substrate becomes limited, the rate levels off; substrate concentration is then the limiting factor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--13-concentration-effects.webp" width="900" height="1030" alt="Top: two rows of four enzymes. With low substrate concentration most active sites are empty. At high substrate concentration every active site is occupied, so the enzyme is saturated. Middle: a graph of rate against substrate concentration that rises and then levels off at a maximum rate, Vmax, where enzyme concentration is the limiting factor. Bottom: a graph of rate against enzyme concentration with excess substrate, a straight line through the origin, so rate is proportional to enzyme concentration. Axis units are arbitrary and the shapes are illustrative." loading="lazy">
+  <figcaption>Rate rises with substrate concentration until the enzyme is saturated; with excess substrate, rate is proportional to enzyme concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--16-serial-dilution.webp" width="900" height="850" alt="Four test tubes in a row. The first holds 1.0 percent enzyme. 1 cubic centimetre is moved into 9 cubic centimetres of buffer to make 0.1 percent, then 1 cubic centimetre of that into 9 of buffer to make 0.01 percent, and so on to 0.001 percent. Each step dilutes by the same factor of ten. Liquid shading gets paler as the concentration falls." loading="lazy">
+  <figcaption>Each tube is made by mixing 1 cm³ of the previous tube with 9 cm³ of buffer.</figcaption>
+</figure>
+
 
 ## Practical investigations (PAG4): 2.1.4(d)(ii)
 
@@ -160,6 +192,17 @@ The switch from lock and key to induced fit is an example of a model being revis
 * **End-product inhibition:** the final product of a pathway inhibits an enzyme near the start, usually non-competitively and reversibly. When product levels rise, production slows; when they fall, the enzyme becomes active again. Example: ATP inhibits phosphofructokinase in glycolysis.
 * **Precursor activation:** some enzymes are made as inactive precursors (for example pepsinogen, activated to pepsin by stomach acid) so they do not damage the cells that make them.
 * In PAG4, add a range of inhibitor concentrations and compare rates with an uninhibited control.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--14-inhibitors.webp" width="900" height="1080" alt="Three enzyme drawings and a graph. With no inhibitor the substrate fits the active site. A competitive inhibitor has a shape similar to the substrate and sits in the active site, blocking the substrate. A non-competitive inhibitor binds at an allosteric site away from the active site and changes the shape of the active site so the substrate no longer fits. The graph of rate against substrate concentration shows the competitive inhibitor lowers the rate at first but at high substrate concentration the rate approaches the uninhibited maximum, whereas the non-competitive inhibitor lowers the maximum rate. Curves are illustrative." loading="lazy">
+  <figcaption>A competitive inhibitor can be overcome by more substrate; a non-competitive inhibitor lowers the maximum rate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-enzymes--15-end-product-inhibition.webp" width="900" height="910" alt="A metabolic pathway drawn twice. Substrate A is converted by enzyme 1 to B, by enzyme 2 to C, and by enzyme 3 to the end product. In the top pathway there is plenty of end product, which inhibits enzyme 1 near the start, so the pathway slows. In the bottom pathway the end product has been used up, the inhibition is removed and the pathway runs fast. This is negative feedback and stops resources being wasted. The lesson example is ATP inhibiting phosphofructokinase early in glycolysis." loading="lazy">
+  <figcaption>The end product of a pathway inhibits an early enzyme: negative feedback.</figcaption>
+</figure>
+
 
 ## Worked reminders
 

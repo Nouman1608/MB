@@ -56,6 +56,12 @@ Growth has been driven by the search for **lower costs**, access to **specialist
 
 Outsourcing is not risk-free: the business has **less control** over quality and timing, becomes **dependent** on the contractor, may lose **confidential information**, and can suffer **reputational damage** if the contractor's working conditions or environmental standards are poor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--08-o-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
+
 ## What does the wholesaler do?
 
 The wholesaler buys large quantities from manufacturers and sells smaller quantities to retailers.
@@ -76,6 +82,27 @@ The wholesaler buys large quantities from manufacturers and sells smaller quanti
 - **Cash and carry** — retailers collect and pay for goods on the spot. No credit or delivery keeps costs and prices low.
 - **Voluntary chains** — independent shops agree to buy mainly from one wholesaler and trade under a shared name with joint promotions. The shops remain independently owned, but gain the bulk-buying power of a large group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--09-o-wholesaler-transactions.webp" width="900" height="1140" alt="Top panel: four factories each connected directly to six shops by 24 crossing lines, labelled 4 times 6 equals 24 deals. Bottom panel: the same four factories and six shops all connected through one wholesaler warehouse, giving 4 plus 6 equals 10 deals. The numbers are illustrative." loading="lazy">
+  <figcaption>With one wholesaler in the chain there are far fewer separate deals (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--10-o-wholesaler-manufacturer.webp" width="900" height="800" alt="A factory sends large orders in crates to a wholesaler warehouse, and the wholesaler sends payment back promptly. Six tiles list the wholesaler functions for the manufacturer: buys in bulk, stores goods, bears the risk, pays promptly, distributes to many shops and gives market information." loading="lazy">
+  <figcaption>The wholesaler buys in bulk, stores, bears risk, pays promptly, distributes and gives market information.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--11-o-wholesaler-retailer.webp" width="900" height="800" alt="A wholesaler warehouse sends small parcels to a retailer shop, and the retailer pays later because the wholesaler gives credit. Six tiles list the wholesaler functions for the retailer: breaks bulk, wide range of goods, gives credit, delivers to the shop, gives advice and prepares goods." loading="lazy">
+  <figcaption>The wholesaler breaks bulk, offers range and credit, delivers, advises and prepares goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--12-o-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
+
 ## How should a business choose a communication method?
 
 First identify the **type** of communication: **written** (letters, reports), **oral** (spoken, by telephone or face to face), **electronic** (email, web chat, social media, videoconferencing) or **visual** (posters, charts, signs).
@@ -92,6 +119,17 @@ Then match the **method** to the six **factors** in the syllabus.
 | Importance of the message | Is a formal record needed? | Letter for a contract or formal complaint |
 
 Chatbots on websites answer common questions instantly and cheaply at any hour, but cannot deal well with complex problems; social media reaches many customers quickly but makes complaints public; posters reach people passing a particular place but give only one-way, limited information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--13-o-comm-types.webp" width="900" height="800" alt="Four cards show the four types of communication and the methods under each. Written: letter. Oral: telephone and face to face. Electronic: email, web-based chat including chatbots, social media and videoconferencing. Visual: poster. In total four types and eight methods." loading="lazy">
+  <figcaption>Four types of communication and the eight methods the syllabus lists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--14-o-comm-factors.webp" width="900" height="925" alt="Six rows pair each factor with an example method choice. Urgency: telephone or web chat. Cost: email rather than printed letters. Security: face to face or secure email. Distance: videoconferencing. Availability of networks: letter or telephone if internet is poor. Importance of the message: a letter if a formal record is needed." loading="lazy">
+  <figcaption>Six factors that decide which communication method to use, each with an example choice.</figcaption>
+</figure>
+
 
 ## Worked example
 

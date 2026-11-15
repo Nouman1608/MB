@@ -81,6 +81,12 @@ A **right** is an entitlement that the law protects. Rights are often classed as
 
 After the Second World War states began to agree common standards. The **Universal Declaration of Human Rights 1948** set out rights but is not a binding treaty. Binding treaties include the **International Covenant on Civil and Political Rights 1966** and the **International Covenant on Economic, Social and Cultural Rights 1966**. Regionally, the **European Convention on Human Rights** was agreed by the Council of Europe in 1950 and came into force in 1953; it is separate from the European Union.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--08-hr-timeline.webp" width="900" height="1038" alt="A vertical timeline. 1215 Magna Carta and 1689 Bill of Rights are UK sources. 1765 Entick v Carrington held that the state needs legal authority to enter private property. 1948 Universal Declaration of Human Rights is not a binding treaty. 1950 European Convention agreed by the Council of Europe, in force 1953. 1966 two binding Covenants. October 2000 Human Rights Act 1998 came into force, bringing Convention rights into UK courts." loading="lazy">
+  <figcaption>A timeline of UK and international human rights milestones.</figcaption>
+</figure>
+
+
 ## The United Kingdom before the Human Rights Act 1998
 
 Before 1998, rights were **residual**: people were free to do anything the law did not forbid. Sources included Magna Carta 1215, the Bill of Rights 1689 and common law cases such as Entick v Carrington (1765), which held that the state needs legal authority to enter private property. The weakness was that Parliament could remove rights by statute and there was no statement of positive rights. In Malone v Metropolitan Police Commissioner (1979) the court held that telephone tapping was not unlawful because no law forbade it, and the European Court later found a breach of Article 8 in Malone v United Kingdom (1984). Individuals could not rely on the Convention in domestic courts and had to go to Strasbourg, which was slow and costly.
@@ -96,6 +102,12 @@ The Act came into force in October 2000 and brought the Convention rights into d
 - **Section 7**: a **victim** may bring a claim, normally within one year.
 - **Section 8**: courts may grant such remedies as are just and appropriate, including damages.
 - **Section 10**: a minister may amend incompatible legislation by remedial order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--09-hr-s3-s4-route.webp" width="900" height="906" alt="A flow chart. When legislation clashes with a Convention right, the court first reads it compatibly under section 3 so far as possible; in Ghaidan the word spouse was read to include a same-sex partner. If that is impossible, a higher court may make a declaration of incompatibility under section 4. The Act is not struck down and stays valid; Parliament decides, or a minister may amend it by remedial order under section 10." loading="lazy">
+  <figcaption>Section 3 reading and section 4 declaration of incompatibility.</figcaption>
+</figure>
+
 
 ## The European Convention on Human Rights
 
@@ -121,13 +133,31 @@ Article 10 includes the freedom to hold opinions and to receive and impart infor
 
 Article 11 protects peaceful assembly and the freedom to form and join associations, including trade unions. Restrictions must meet the same tests as for Articles 8 and 10. In Redfearn v United Kingdom (2012) the Court found a violation where an employee was dismissed because of his political party membership and had no remedy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--11-hr-rights-tiers.webp" width="900" height="972" alt="Three rows. Absolute rights, such as Article 3 on torture, cannot be limited. Limited rights, Article 2 right to life and Article 5 liberty and security, are subject to exceptions listed in the Article. Qualified rights, Article 8 private and family life, Article 10 freedom of expression and Article 11 assembly and association, can be restricted if the interference is lawful, has a legitimate aim and is necessary in a democratic society. Under Article 15 a state may derogate in war or public emergency, but not from Article 3." loading="lazy">
+  <figcaption>Three kinds of right and which Articles belong to each.</figcaption>
+</figure>
+
+
 ## Restrictions
 
 Restrictions come in three forms. **Absolute** rights cannot be limited or derogated from. **Limited** rights are subject to the exceptions written in the Article. **Qualified** rights can be limited if the interference is lawful, has a legitimate aim and is **necessary in a democratic society**, which requires a pressing social need and **proportionality**: the measure must go no further than needed. States have a **margin of appreciation**, which is a degree of discretion, wider for moral questions and narrower for fundamental rights. Under **Article 15** a state may derogate from some rights in war or a public emergency threatening the life of the nation, but not from Article 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--12-hr-qualified-tests.webp" width="900" height="1020" alt="Three gates for interference with a qualified right: in accordance with law, a legitimate aim, and necessary in a democratic society, which needs a pressing social need and proportionality. Applied to the worked example of Jamil’s banned march under Article 11: was the ban prescribed by law, was the aim preventing disorder, and is a total ban necessary, given that a total ban is harder to justify than conditions on route or time. Failing any gate means a breach." loading="lazy">
+  <figcaption>Three gates for restricting a qualified right.</figcaption>
+</figure>
+
+
 ## Enforcement
 
 A person who claims that a right has been infringed first uses the **domestic courts**, relying on the Human Rights Act 1998. A victim who has exhausted domestic remedies may apply to the **European Court of Human Rights** in Strasbourg, now within four months of the final domestic decision. The Court may find a violation and award just satisfaction. Judgments bind the state, and the Committee of Ministers supervises their execution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--10-hr-enforcement-route.webp" width="900" height="997" alt="Five steps. A public authority such as the police acts incompatibly with a Convention right under section 6. The victim claims in the domestic courts under section 7, normally within one year. The court may give a just and appropriate remedy including damages under section 8. If domestic remedies are exhausted, the victim may apply to the European Court of Human Rights within four months. If a violation is found the Court may award just satisfaction and the Committee of Ministers supervises execution." loading="lazy">
+  <figcaption>Five steps of enforcement with the one-year and four-month limits.</figcaption>
+</figure>
+
 
 ## Human rights and English law
 

@@ -68,6 +68,12 @@ restricted immigration, angering Zionists. Both sides used **terrorism**: Arab g
 settlements and British forces, while Jewish groups such as the Irgun and Lehi attacked British targets. In
 July 1946 the Irgun bombed the **King David Hotel** in Jerusalem, the British headquarters, killing 91 people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--16-me-palestine.webp" width="900" height="1042" alt="Two lanes of events: Britain (Balfour Declaration 1917, Peel Commission 1937, White Paper 1939) and Arabs and Jews (riots, growing immigration, the Arab Revolt, the King David Hotel bombing in 1946)." loading="lazy">
+  <figcaption>Events behind rising tension in Palestine, 1917–46.</figcaption>
+</figure>
+
+
 ## How was Israel created, and why did it win in 1948–49?
 
 Exhausted and unable to keep order, Britain **handed the problem to the UN** in 1947. The **UN partition plan**
@@ -80,6 +86,12 @@ Around 700,000 Palestinians fled or were driven out, creating a lasting **refuge
 neighbouring states, which fed later **terrorism** and raids. Israel's **Law of Return** (1950) gave every Jew
 the right to settle there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--17-me-1948.webp" width="900" height="850" alt="Five Arab armies (Egypt, Jordan, Syria, Lebanon, Iraq) invaded after Israel declared independence. Israel won because it was better organised and motivated, had arms from Czechoslovakia and faced divided Arab armies. About 700,000 Palestinians fled or were driven out and Israel held more land than the partition plan gave." loading="lazy">
+  <figcaption>Why Israel won the 1948–49 war, and the results.</figcaption>
+</figure>
+
+
 ## What were the causes and results of the Suez Crisis (1956)?
 
 Egypt's leader **Nasser** wanted to build the Aswan High Dam and lead the Arab world. When the USA and Britain
@@ -91,6 +103,12 @@ financial pressure on Britain, the **USSR** threatened intervention, and the **U
 sent an emergency force. Britain and France withdrew. **Results:** Nasser became a hero of Arab nationalism,
 Britain's world role was shown to be weakened, the Soviet Union gained influence in Egypt, and Israel gained
 access to the Gulf of Aqaba.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--18-me-suez.webp" width="900" height="911" alt="A flow chart: funding for the Aswan Dam withdrawn, canal nationalised, a secret deal between Israel, Britain and France, then pressure from the USA, USSR and UN, withdrawal of Britain and France, and four results." loading="lazy">
+  <figcaption>Causes, course and results of the Suez Crisis.</figcaption>
+</figure>
+
 
 ## Why did conflict continue, 1956–73?
 
@@ -108,6 +126,17 @@ shaped the conflict: the USSR armed Egypt and Syria, the USA armed Israel. On **
 Egypt and Syria attacked; early success came from surprise and Soviet anti-aircraft and anti-tank missiles,
 but Israel recovered with a US airlift of weapons and crossed the Suez Canal. Arab oil producers used an oil
 embargo against Israel's supporters. The war restored Arab pride and made Israel more open to negotiation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--19-me-sixday.webp" width="900" height="915" alt="Nasser’s moves in May 1967 and Israel’s first strike on 5 June are followed by a map-free list of territory taken from Egypt (Sinai, Gaza), Jordan (West Bank, East Jerusalem) and Syria (Golan Heights), and the result." loading="lazy">
+  <figcaption>What Israel captured in the Six-Day War.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--20-me-superpowers.webp" width="900" height="870" alt="The USSR armed Egypt and Syria and the USA armed Israel. Egypt and Syria attacked on 6 October 1973, had early success, Israel recovered with a US airlift and crossed the Suez Canal, an oil embargo followed, and the war restored Arab pride and made Israel more open to negotiation." loading="lazy">
+  <figcaption>The Cold War shaped the 1973 war.</figcaption>
+</figure>
+
 
 ## How did diplomacy lead to peace, then wider war, 1973–83?
 
@@ -132,6 +161,12 @@ the process. The **second Intifada** (from 2000) brought suicide bombings and Is
 backed by the USA, EU, UN and Russia, failed over violence and settlements. In the **Gaza War** (December
 2008–January 2009) Israel attacked Hamas in Gaza; over a thousand Palestinians and thirteen Israelis were killed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--21-me-peace.webp" width="900" height="1140" alt="Ten events from 1973 to 2012, coloured as steps towards peace (shuttle diplomacy, Camp David and the Egypt-Israel treaty, Oslo) or conflicts and setbacks (Sadat assassinated, Lebanon, the Intifadas, Rabin assassinated, the failed Roadmap, the Gaza War)." loading="lazy">
+  <figcaption>Peace steps and setbacks from 1973 to 2012.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **What is the best theme for a (c) essay?**
@@ -150,3 +185,9 @@ It ended Britain's role as the dominant power in the region.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B7 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-middle-east--15-me-timeline.webp" width="900" height="1150" alt="A scaled timeline of 1917 to 2012 with bands for the key topics and fifteen events, with the wars in gold." loading="lazy">
+  <figcaption>The Middle East 1917–2012 to scale, with the key topics and main events.</figcaption>
+</figure>
+

@@ -48,6 +48,17 @@ A **risk** is the probability of a harmful event combined with its likely conseq
 
 For each risk you should be able to identify the source, the groups affected, the scale at which it operates, and the responses available, from diplomacy and peacekeeping to financial regulation and debt relief.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--08-risk-three-families.webp" width="900" height="950" alt="Risk is the probability of harm combined with likely consequences. Geopolitical risks (armed conflict, sanctions, state fragility), economic risks (financial crisis, sovereign debt, price volatility) and environmental risks (climate change, pandemics, natural hazards) are shown as three columns." loading="lazy">
+  <figcaption>Risk comes in geopolitical, economic and environmental forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--09-risk-interdependence.webp" width="900" height="1040" alt="Six customers rely on one supplier and all are cut off when it is hit; with three suppliers serving the customers two each, none is cut off completely, four get less supply and two are unaffected." loading="lazy">
+  <figcaption>Relying on a single supplier makes a system efficient but fragile.</figcaption>
+</figure>
+
+
 ## 13.2 Environmental risks
 
 Environmental risks are those that arise from natural processes, human impact on the environment, or the interaction of the two.
@@ -59,6 +70,12 @@ Environmental risks are those that arise from natural processes, human impact on
 - **Natural hazards**: earthquakes, storms, floods and droughts become disasters when they meet vulnerable populations.
 
 A useful model is the idea that disaster risk depends on hazard, exposure and vulnerability, reduced by capacity to cope. The pressure and release model, associated with Blaikie and colleagues, explains vulnerability as the result of root causes, such as poverty and political structures, that become dynamic pressures and unsafe conditions. Environmental risks are often transboundary, so one country's actions can create risks for another, which is why they link naturally to global governance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--10-risk-hazard-to-disaster.webp" width="900" height="920" alt="Root causes become dynamic pressures and then unsafe conditions; a natural hazard meets those unsafe conditions and a disaster results." loading="lazy">
+  <figcaption>Disasters happen when hazards meet vulnerable people, and vulnerability has human causes.</figcaption>
+</figure>
+
 
 ## 13.3 Local and global resilience
 
@@ -72,6 +89,22 @@ Responses operate at different scales.
 
 Resilience is not evenly available. Wealth, governance, information and social cohesion all affect it. A judgement-based answer weighs who pays for resilience, whether measures reduce the underlying cause or only the symptoms, and whether short-term protection can create long-term vulnerability. Top-down measures can be well funded but poorly matched to local needs, while community-based measures may fit well but lack resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--12-risk-resilience-curve.webp" width="900" height="790" alt="Illustrative curve of a system dropping after a shock and recovering, with four phases marked: anticipate, absorb, adapt, recover." loading="lazy">
+  <figcaption>Resilience is the capacity to anticipate, absorb, adapt to and recover from shocks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--13-risk-mitigation-adaptation.webp" width="900" height="770" alt="Chain from cause of the risk to the risk to harm; mitigation acts on the cause, adaptation adjusts to the change or risk." loading="lazy">
+  <figcaption>Mitigation reduces the cause of a risk; adaptation adjusts to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--14-risk-resilience-scales.webp" width="900" height="870" alt="Three tiers: local (early-warning, flood defences, savings groups), national (building regulation, social protection, emergency services) and global (Paris Agreement and Sendai Framework, 2015, and international organisations)." loading="lazy">
+  <figcaption>Responses operate at local, national and global scales.</figcaption>
+</figure>
+
+
 ## Worked example: comparing risk using a scoring heuristic
 
 Disaster-risk thinking is often summarised as risk rising with hazard and vulnerability and falling with capacity to cope. This is a teaching heuristic, not an official formula, but it helps structure comparison. Score each factor from 1 (low) to 10 (high). The regions and scores are invented.
@@ -82,6 +115,12 @@ Risk score = (hazard x vulnerability) / capacity to cope.
 - Region Y: hazard 8, vulnerability 4, capacity 8. Risk = (8 x 4) / 8 = 32 / 8 = 4.
 
 Region Y faces the stronger hazard but has a much lower risk score because it is less vulnerable and has greater capacity. If Region X raised its capacity from 4 to 8 through better warning systems and infrastructure, its score would fall to 48 / 8 = 6, halving its risk without changing the hazard at all. The lesson to write up is that disasters are not determined by hazard alone, and that investment in resilience can reduce risk even where the hazard cannot be changed. Then evaluate the method: the scores are subjective, the factors interact, and a single number hides how risk varies within a region.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--11-risk-score-heuristic.webp" width="900" height="940" alt="Bar charts of invented hazard, vulnerability and capacity scores: Region X risk 12, Region Y risk 4, and Region X with capacity raised to 8 has risk 6." loading="lazy">
+  <figcaption>Raising capacity to cope can halve risk without changing the hazard.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

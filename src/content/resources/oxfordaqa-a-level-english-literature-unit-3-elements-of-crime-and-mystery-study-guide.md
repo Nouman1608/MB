@@ -62,6 +62,12 @@ the investigation; moral purpose and the restoration of order; guilt, remorse an
 victims and suffering; punishment, justice and the legal system; structure; language; crime writing
 as social comment; and how crime stories affect readers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--15-crime-unit-3-exam.webp" width="900" height="752" alt="The Unit 3 paper lasts 2 hours and is closed book. You write two essays of 25 marks each, one on each of your two texts chosen from the set list, so the time is about an hour for each essay. The paper is 30% of the International A-level and AO1, AO2 and AO3 are weighted equally in every question." loading="lazy">
+  <figcaption>Unit 3 is a closed-book, two-hour paper with one 25-mark essay on each of your two texts.</figcaption>
+</figure>
+
+
 ## What makes a text crime or mystery fiction?
 
 The genre is wide, and a text may be a classic puzzle, a thriller, a psychological study of a criminal or a story that questions the law itself. Useful elements to look for are listed below.
@@ -78,6 +84,12 @@ The genre is wide, and a text may be a classic puzzle, a thriller, a psychologic
 
 A crucial point is that elements are conventions: writers may follow them to satisfy readers or break them to surprise or challenge. Always ask what the writer gains by following or departing from the expected pattern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--16-crime-seven-elements.webp" width="900" height="973" alt="A hub labelled crime or mystery text has seven spokes: the crime, the investigator, suspects, clues and red herrings, setting, narrative method and resolution. These are conventions, so writers may follow them to satisfy readers or break them to surprise or challenge." loading="lazy">
+  <figcaption>Seven elements to look for: the crime, the investigator, suspects, clues and red herrings, setting, narrative method and resolution.</figcaption>
+</figure>
+
+
 ## Narrative structure and suspense
 
 Crime fiction often has two stories running together: the crime that happened in the past and the investigation that happens in the present. The writer controls the order in which information reaches the reader. Techniques include:
@@ -90,6 +102,17 @@ Crime fiction often has two stories running together: the crime that happened in
 
 When you write about structure, link the technique to its effect on the reader, for example how a late revelation forces a re-reading of earlier scenes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--17-two-stories.webp" width="900" height="830" alt="Two rows of five numbered boxes. The top row is the crime story in the order it happened, boxes 1 to 5, with box 2 highlighted as the key fact. The bottom row is the investigation as the reader meets it, in the order 3, 1, 4, 5, 2. Lines join each event to the place where the reader learns it, crossing because the writer controls the order of information, so the key fact is revealed last. The order is illustrative." loading="lazy">
+  <figcaption>The writer controls the order in which the reader meets the events of the past crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--18-puzzle-or-irony.webp" width="900" height="830" alt="Top panel: with delayed revelation the culprit or key fact is withheld, shown as a closed box with a question mark, so the reader is kept guessing and the effect is a puzzle. Bottom panel: with dramatic irony the reader can see the danger in an open box while a character walks toward it unaware, so the reader knows more than the character, which creates tension rather than puzzle." loading="lazy">
+  <figcaption>Delayed revelation keeps the reader guessing, while dramatic irony gives the reader more knowledge than a character, which creates tension.</figcaption>
+</figure>
+
+
 ## The detective and the criminal
 
 Detectives are often presented as unusually perceptive, logical or morally driven, and they can act as a reader's guide through the text. Consider whether the investigator is reliable, whether they stand outside society or belong to it, and whether the text questions their methods. Criminals may be presented as monstrous, as victims of circumstance or as figures who are uncomfortably close to ordinary people. Look at how the writer shapes your sympathy: the same act can feel shocking or understandable depending on voice and viewpoint.
@@ -98,11 +121,23 @@ Detectives are often presented as unusually perceptive, logical or morally drive
 
 Setting is not just a backdrop. A fog-bound city, an isolated house or a small village each creates a different sense of threat and of who might be a suspect. Closed settings limit the pool of suspects and increase tension; busy cities suggest anonymity and moral decay. Consider how weather, light and description reflect or contrast with the action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--19-setting-suspects.webp" width="900" height="910" alt="Top: a closed setting, drawn as a house with six people inside, limits the pool of suspects and increases tension. Bottom: a busy city, drawn as tall buildings above a crowd of many people, suggests anonymity and moral decay. The numbers of people are illustrative." loading="lazy">
+  <figcaption>Closed settings limit the pool of suspects and increase tension; busy cities suggest anonymity and moral decay.</figcaption>
+</figure>
+
+
 ## Justice, morality and society
 
 The genre often poses questions about right and wrong. Does the text end with a clear restoration of order, or does it leave doubt? Is the law presented as fair, or are the poor, women or outsiders treated differently? These questions let you connect texts to their contexts.
 
 A little history helps if used carefully. Detective fiction is often traced to Edgar Allan Poe's "The Murders in the Rue Morgue" of 1841. Arthur Conan Doyle's first Sherlock Holmes story appeared in 1887. Wilkie Collins's The Moonstone was published in 1868, and Agatha Christie's The Murder of Roger Ackroyd in 1926. You do not need to list dates in an answer; the value of this background is to show that the genre grew alongside the rise of professional policing, city life and public interest in science and reasoning, and that later writers adapted its conventions. Only use context that helps you explain what a text does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--20-genre-timeline.webp" width="900" height="880" alt="A vertical timeline from 1840 to 1930 with four dated landmarks from the lesson: 1841 Poe, The Murders in the Rue Morgue; 1868 Collins, The Moonstone; 1887 the first Sherlock Holmes story by Conan Doyle; and 1926 Christie, The Murder of Roger Ackroyd. A side column says the genre grew alongside professional policing, city life and public interest in science and reasoning." loading="lazy">
+  <figcaption>Four landmarks in crime fiction between 1841 and 1926 sit beside the growth of policing, city life and interest in reasoning.</figcaption>
+</figure>
+
 
 ## Writing about the genre
 
@@ -117,6 +152,12 @@ A little history helps if used carefully. Detective fiction is often traced to E
 ### A short worked example
 
 Take an invented question: "How do writers use setting to create tension?" A strong response might begin: "In crime writing, setting turns ordinary space into a source of threat, because the reader is asked to look for danger in details." It would then discuss one moment from a text, for instance a description of a house in which all the doors and windows are mentioned in turn, showing how the repetition makes the building seem enclosed and every character a possible suspect. It would then link to another text where the setting is open and public, arguing that tension arises there through anonymity rather than confinement. This uses a claim, an example, a technique, an effect and a link to a second text, without relying on a quotation from any particular book.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--21-genre-method-applied.webp" width="900" height="860" alt="Five rows pair each step of the genre method with an invented example about setting and tension. Identify the element: setting. Locate it in specific moments: a house where every door and window is mentioned in turn. Analyse the writer’s methods: repetition. Explain the effect on the reader: the building seems enclosed and every character a possible suspect. Connect to the genre and another text: an open, public setting where tension comes from anonymity." loading="lazy">
+  <figcaption>Each step of the genre method is matched to the lesson's invented example about setting and tension.</figcaption>
+</figure>
+
 
 ## Do you need to compare texts in Unit 3?
 

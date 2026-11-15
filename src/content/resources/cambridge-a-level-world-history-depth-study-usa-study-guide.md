@@ -50,6 +50,17 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 
 **Civil rights.** Brown v Board of Education (1954) ruled that segregated public schools were unconstitutional. The Montgomery bus boycott (1955-56) brought Martin Luther King to prominence. In 1957 Eisenhower sent federal troops to enforce desegregation at Little Rock. The Civil Rights Act of 1957 was limited in effect. Assess how far federal action was slow and reluctant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-usa-study-guide--01-usa-presidents.webp" width="900" height="1006" alt="A vertical timeline with a bar for each presidency drawn to scale: Truman 1945 to 1953, Eisenhower 1953 to 1961, Kennedy 1961 to 1963, Johnson 1963 to 1969, Nixon 1969 to 1974, Ford and Carter 1974 to 1981, Reagan 1981 to 1989 and Bush 1989 to 1993. Each bar has a key event from the lesson beside it. Brackets group the years into the three sections of the topic: post-war USA 1945 to 1961, a time of challenges 1961 to 1974, and the USA 1974 to 1993." loading="lazy">
+  <figcaption>US presidents, 1945–93.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-usa-study-guide--02-usa-civil-rights.webp" width="900" height="1240" alt="A ladder of events in order down the page, with protest and campaigns on the left and federal action on the right. Left: Montgomery bus boycott 1955 to 56; sit-ins, Freedom Rides and the Birmingham campaign; the March on Washington in August 1963; Selma in 1965; King assassinated in April 1968 as the movement divides. Right: Brown v Board of Education 1954; federal troops sent to Little Rock and the limited Civil Rights Act of 1957; the Civil Rights Act of 1964; and the Voting Rights Act of 1965." loading="lazy">
+  <figcaption>Civil rights: protest and federal action.</figcaption>
+</figure>
+
+
 ## A time of challenges: the USA, 1961-74
 
 **Kennedy (1961-63).** The New Frontier promised change, but Congress blocked many proposals. The Bay of Pigs failure (1961) and the Cuban Missile Crisis (October 1962) shaped foreign policy. Kennedy was assassinated in November 1963.
@@ -61,6 +72,12 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 **Vietnam.** The Gulf of Tonkin Resolution (August 1964) enabled escalation. The Tet Offensive in January 1968 damaged public confidence even though it was a military setback for communist forces. Johnson did not seek re-election.
 
 **Nixon (1969-74).** Nixon won in 1968 with the support of voters who wanted order. He pursued Vietnamisation and the Paris Peace Agreement of January 1973, and detente with the USSR and China. The break-in at the Watergate building in June 1972 and the subsequent cover-up led to impeachment proceedings, and Nixon resigned on 9 August 1974. Roe v Wade (1973) became a lasting source of conflict.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-usa-study-guide--03-usa-vietnam-watergate.webp" width="900" height="972" alt="A top-to-bottom chain of events. Vietnam events (teal): Gulf of Tonkin Resolution in August 1964 enables escalation; the Tet Offensive in January 1968 is a military setback for communist forces but damages public confidence; Johnson does not seek re-election; Nixon pursues Vietnamisation; the Paris Peace Agreement in January 1973. Watergate events (gold): the break-in in June 1972, then a cover-up leading to impeachment proceedings, and Nixon resigning on 9 August 1974." loading="lazy">
+  <figcaption>Vietnam and Watergate.</figcaption>
+</figure>
+
 
 ## The USA, 1974-93
 
@@ -77,6 +94,12 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 - **Economy:** post-war growth, then stagflation, then the Reagan revival with growing deficits.
 - **Foreign policy:** containment, detente and the end of the Cold War.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-usa-study-guide--04-usa-foreign-policy.webp" width="900" height="1124" alt="Three stacked phases joined by downward arrows. Containment: the Truman Doctrine and Marshall Plan in 1947, the Berlin airlift and NATO in 1949, the Korean War 1950 to 53, nuclear deterrence under Eisenhower and Dulles, and the Cuban Missile Crisis in October 1962. Detente: Nixon and the USSR and China. Negotiation and the end: Reagan moves from hostile words to talks with Gorbachev, the INF Treaty in 1987, the fall of the Berlin Wall in 1989 and the dissolution of the USSR in 1991." loading="lazy">
+  <figcaption>Foreign policy thread.</figcaption>
+</figure>
+
+
 ## Worked example: using dates to test a claim
 
 Claim: "Johnson's civil rights legislation was achieved within a year of Kennedy's death."
@@ -86,6 +109,12 @@ Kennedy was assassinated in November 1963. The Civil Rights Act was passed in Ju
 Check the arithmetic: November 1963 to July 1964 = 8 months (Nov to Jul). November 1963 to August 1965 = 21 months (12 months to November 1964 plus 9 months to August 1965).
 
 For an essay, plan the question "How far did the Great Society succeed?" with paragraphs on civil rights legislation, health and education measures, poverty, and the effect of Vietnam. Conclude that its legal achievements were greater than its effect on poverty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-usa-study-guide--05-usa-months-claim.webp" width="900" height="920" alt="A month ruler from November 1963 to August 1965 with 21 monthly ticks. Kennedy was assassinated in November 1963. The Civil Rights Act, passed in July 1964, is 8 months later, inside the one-year mark. The Voting Rights Act, passed in August 1965, is 21 months later, beyond one year, so the claim is true for the first act but not the second." loading="lazy">
+  <figcaption>Testing a claim with dates.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

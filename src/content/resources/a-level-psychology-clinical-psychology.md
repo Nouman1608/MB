@@ -80,6 +80,22 @@ Studies marked "e.g." are examples the syllabus suggests; a different suitable s
 
 **Treatment (1.1.3).** **Typical antipsychotics** such as chlorpromazine block dopamine D2 receptors; they reduce positive symptoms but can cause movement side effects such as tardive dyskinesia. **Atypical antipsychotics** such as clozapine act on dopamine and serotonin receptors, have fewer movement side effects and may help negative symptoms, but clozapine needs regular blood monitoring. **Electro-convulsive therapy (ECT)** passes a brief current through the brain under anaesthetic to induce a seizure; it is used mainly when drugs fail or with catatonia. **CBT** helps patients test the evidence for delusional beliefs and develop coping strategies. Sensky et al. (2000) randomly allocated 90 patients with medication-resistant schizophrenia to CBT or a befriending control. Both groups improved by the end of treatment, but at follow-up nine months later only the CBT group had kept improving.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--01-cl-icd-schizophrenia.webp" width="900" height="1140" alt="The ICD-11 rule: at least 2 symptoms present most of the time for at least 1 month, with at least 1 from the core group (persistent delusions, persistent hallucinations, disorganised thinking, experiences of influence, passivity or control). Symptoms are positive (hallucinations, delusions) or negative (avolition, alogia, flat affect, social withdrawal)." loading="lazy">
+  <figcaption>The ICD-11 criteria and the positive and negative symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--02-cl-dopamine-hypothesis.webp" width="900" height="1140" alt="Three schematic panels of a synapse. Typical: 2 dopamine molecules fill 2 of 4 D2 receptors. Excess dopamine: all 4 receptors filled and 6 more molecules waiting, giving a signal that is too strong. Antipsychotic: drug blocks all 4 receptors so the signal is weaker." loading="lazy">
+  <figcaption>Excess dopamine at D2 receptors is linked to positive symptoms; antipsychotics block D2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--03-cl-twin-risk.webp" width="900" height="960" alt="Two grids of 100 people: about 1 filled in the general population, 48 filled for the identical twin of a person with schizophrenia. A bar shows 48 affected and 52 not. Concordance is not 100 percent, so environment matters too." loading="lazy">
+  <figcaption>Gottesman (1991): around 48% lifetime risk for an identical twin versus about 1% in the general population.</figcaption>
+</figure>
+
+
 ## 1.2 How are mood disorders diagnosed, explained and treated?
 
 **Diagnosis (1.2.1).** A **depressive episode** in ICD-11 is a period of at least two weeks of depressed mood or loss of interest nearly every day, with other symptoms such as poor concentration, feelings of worthlessness or excessive guilt, hopelessness, thoughts of death, changes in appetite or sleep, psychomotor change and low energy. **Bipolar type I** requires at least one manic (or mixed) episode; a manic episode lasts at least one week and involves euphoria or irritability with increased activity or energy. **Bipolar type II** involves at least one hypomanic episode and at least one depressive episode. The **Beck Depression Inventory (BDI)** is a 21-item self-report questionnaire; each item is scored 0 to 3, so higher totals indicate more severe depression. It produces quantitative, comparable data but relies on honest self-report.
@@ -89,6 +105,17 @@ Studies marked "e.g." are examples the syllabus suggests; a different suitable s
 **Beck's cognitive theory** proposes that depressed people hold negative schemas and show a **negative triad**: negative views of the self, the world and the future. These are maintained by cognitive errors such as overgeneralisation and selective abstraction. **Learned helplessness** comes from Seligman's research showing that animals exposed to unavoidable shocks later stopped trying to escape. The reformulated version focuses on **attributional style**: depressed people explain bad events as internal, stable and global ("it's my fault, it will last, it affects everything"). Seligman et al. (1988) found that depressed patients' explanatory style became more optimistic during cognitive therapy, and that this change went with a reduction in depression.
 
 **Treatment (1.2.3).** **Tricyclics** block the reuptake of serotonin and noradrenaline. **MAOIs** inhibit the enzyme monoamine oxidase, which breaks down monoamines; patients must avoid foods high in tyramine. **SSRIs** such as fluoxetine selectively block serotonin reuptake and generally have fewer side effects. **Beck's cognitive restructuring** helps the client identify automatic negative thoughts and test them against evidence, for example with a thought diary. **Ellis's REBT** uses the ABC model (Activating event, Belief, Consequence), then disputes irrational beliefs, especially rigid "musts", to replace them with rational ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--04-cl-negative-triad.webp" width="900" height="940" alt="A triangle of negative views of the self, the world and the future with a central negative schema, joined by double-headed arrows. Cognitive errors (overgeneralisation, selective abstraction) maintain it." loading="lazy">
+  <figcaption>Beck's negative triad and the errors that maintain it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--06-cl-chapman-delapp.webp" width="900" height="1225" alt="Timeline of the nine CBT sessions, an exposure ladder from a tourniquet round his arm to having his own blood drawn and taking his own blood pressure, and his Beck Anxiety Inventory score falling from 41 to 7 at follow-up." loading="lazy">
+  <figcaption>The treatment steps and result in Chapman and DeLapp (2013).</figcaption>
+</figure>
+
 
 ## 1.3 What are impulse control disorders and how are they treated?
 
@@ -119,6 +146,17 @@ Studies marked "e.g." are examples the syllabus suggests; a different suitable s
 **Treatment (1.5.3).** **SSRIs** increase available serotonin; they help many patients but symptoms can return when the drug is stopped. **Exposure and response prevention (ERP)** exposes the patient to the feared trigger while preventing the compulsion, so anxiety falls without it. Lehmkuhl et al. (2008) reported a case of a 12-year-old boy with autism and OCD who improved with CBT that included ERP.
 
 **Key study: Lovell et al. (2006).** This randomised controlled non-inferiority trial in two UK outpatient departments allocated 72 patients with OCD to ten weekly sessions of exposure and response prevention by telephone or face to face. Outcomes were the Y-BOCS, the Beck Depression Inventory and a client satisfaction questionnaire. At six months, Y-BOCS scores in the two groups were almost identical, and satisfaction was high in both. Telephone CBT was therefore as effective as face-to-face treatment, which matters for people who cannot easily travel to therapy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--05-cl-measures-scoring.webp" width="900" height="1100" alt="One box per item for four measures: BDI 21 items scored 0 to 3 (total 0 to 63), GAD-7 7 items 0 to 3 (0 to 21), Y-BOCS 10 items 0 to 4 (0 to 40, clinician-rated), MOCI 30 true or false items." loading="lazy">
+  <figcaption>How many items each clinical measure has and how it is scored.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--07-cl-ocd-cycle.webp" width="900" height="960" alt="A clockwise loop: obsession, anxiety rises, compulsion, relief as anxiety falls, which rewards the compulsion so it repeats. A gold bar marks where exposure and response prevention blocks the compulsion." loading="lazy">
+  <figcaption>Negative reinforcement keeps OCD going; ERP breaks the loop.</figcaption>
+</figure>
+
 
 ## How should you evaluate clinical explanations and treatments?
 

@@ -76,6 +76,17 @@ Like every option, it is examined on Paper 3 (three short-answer questions worth
 
 **Misusing health services (3.1.3).** People may **delay** seeking help. Safer et al. (1979) interviewed patients waiting at clinics and divided delay into stages, such as noticing a symptom and deciding one is ill, and deciding to seek care. The **health belief model** offers an alternative explanation: whether a person acts depends on perceived susceptibility, perceived severity, perceived benefits against perceived barriers, and cues to action. **Munchausen syndrome** is repeatedly feigning or inducing illness to gain medical attention and the sick role, with no external reward. Essential features include feigned illness, pathological lying and moving from hospital to hospital; supporting features can include extensive medical knowledge and many scars from past procedures. **Malingering** is faking illness for an external gain, such as avoiding work or obtaining compensation. Aleem and Ajarim (1995) is the suggested case report.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--15-he-health-belief-model.webp" width="900" height="1040" alt="Perceived susceptibility, perceived severity and cues to action feed a weighing-up of perceived benefits against perceived barriers. Benefits outweighing barriers leads to action; barriers outweighing benefits leads to no action." loading="lazy">
+  <figcaption>The health belief model as a balance of benefits and barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--16-he-false-positive-negative.webp" width="900" height="800" alt="A two by two grid: ill and told ill is correct; ill but told not ill is a false negative (illness missed, treatment delayed); well but told ill is a false positive (unneeded worry and treatment); well and told not ill is correct." loading="lazy">
+  <figcaption>False positive and false negative diagnoses.</figcaption>
+</figure>
+
+
 ## 3.2 Why do patients not adhere to medical advice, and how can adherence improve?
 
 **Types and reasons (3.2.1).** Non-adherence includes failing to follow treatments (missing doses, stopping early) and failing to attend appointments. It wastes resources and can make illnesses worse. **Rational non-adherence** is a reasoned decision not to adhere, for example because of side effects, cost or doubt about whether the treatment works; Laba et al. (2012) studied how such medication features influence adherence choices. The **health belief model** explains non-adherence when perceived benefits do not outweigh perceived barriers.
@@ -85,6 +96,17 @@ Like every option, it is examined on Paper 3 (three short-answer questions worth
 **Improving adherence (3.2.3).** For children, making treatment enjoyable helps: Chaney et al. (2004) gave children with asthma an inhaler spacer designed as a toy (the "Funhaler") and found adherence improved compared with the standard device. Individual behavioural techniques include **contracts** (a written agreement with rewards), **prompts** (reminders) and **customising treatment** (fitting it to the patient's routine).
 
 **Key study: Yokley and Glenwick (1984).** In a public health setting, families of 1,133 preschool children who were behind on immunisations were randomly assigned to six conditions: a general prompt; a client-specific prompt; a specific prompt with increased clinic access; a specific prompt with a monetary incentive; a contact control; and a no-contact control. All interventions except the general prompt showed some improvement over the controls. The monetary incentive produced the largest effect, followed by increased access, the specific prompt and the general prompt. Specific prompts alone were the most cost-effective. The large sample and random allocation are strengths; the use of children's health records raises issues of consent through parents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--17-he-measuring-adherence.webp" width="900" height="1030" alt="Subjective (interviews): cheap, gives reasons, patients may overstate. Objective (pill counts, electronic dispensers): no honesty needed, opened does not mean taken. Biological (blood, urine): most valid, invasive, costly and shows recent use only." loading="lazy">
+  <figcaption>Strengths and weaknesses of three ways to measure non-adherence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--21-he-yokley-glenwick.webp" width="900" height="960" alt="Six groups of families: four interventions ranked by effect (specific prompt plus money, plus easier access, specific prompt alone, general prompt) and two control groups. All interventions except the general prompt improved on controls; specific prompts alone were most cost-effective." loading="lazy">
+  <figcaption>Ranking of the interventions to improve immunisation.</figcaption>
+</figure>
+
 
 ## 3.3 How is pain explained, measured and managed?
 
@@ -96,6 +118,17 @@ Like every option, it is examined on Paper 3 (three short-answer questions worth
 
 **Managing pain (3.3.3).** **Biochemical** treatments include opiates such as morphine and non-opioid painkillers. **Cognitive strategies** include **attention diversion** (focusing on something else), **non-pain imagery** (imagining a pleasant scene) and **cognitive redefinition** (thinking about pain in a more rational, less threatening way). **Alternative treatments** include **acupuncture** (fine needles at specific points) and **TENS** (transcutaneous electrical nerve stimulation), which may work by closing the pain gate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--18-he-gate-control.webp" width="900" height="940" alt="Two schematic panels. Gate open: small pain fibres are active and the pain signal reaches the brain. Gate closed: large fibres (rubbing) and messages from the brain (attention, mood) close the gate and block the signal." loading="lazy">
+  <figcaption>Gate control theory: what opens and closes the pain gate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--20-he-brudvik-pain-ratings.webp" width="900" height="880" alt="Bars of mean pain rating: children 5.5, parents 4.8, physicians 3.2, so physicians underestimated pain. Only about 42 percent of children with severe pain received pain relief. 243 children aged 3 to 15." loading="lazy">
+  <figcaption>Physicians rated pain lowest and few children with severe pain got relief.</figcaption>
+</figure>
+
+
 ## 3.4 What causes stress, and how is it measured and managed?
 
 **Sources (3.4.1).** Selye's **General Adaptation Syndrome (GAS)** has three stages: **alarm** (fight-or-flight arousal), **resistance** (the body copes, with stress hormones still raised) and **exhaustion** (resources run out, raising the risk of illness). Long-term stress can suppress the immune system and contribute to cardiovascular disease. Causes include **life events**: Holmes and Rahe's Social Readjustment Rating Scale gives life events values in life change units, with death of a spouse highest at 100. Work is another source: Chandola et al. (2008), using data from the Whitehall II study of British civil servants, linked work stress to coronary heart disease. **Type A personality** (Friedman and Rosenman) is competitive, time-pressured and hostile, and was linked to a higher risk of heart disease.
@@ -105,6 +138,12 @@ Like every option, it is examined on Paper 3 (three short-answer questions worth
 **Managing stress (3.4.3).** **Biofeedback** gives a person real-time information about a body process, such as muscle tension, so they learn to control it; Budzynski et al. (1969) used muscle-tension (EMG) biofeedback with tension headaches. **Stress inoculation training** (Meichenbaum) has three phases: **conceptualisation**, **skill acquisition and rehearsal**, and **application and follow-through**.
 
 **Key study: Bridge et al. (1988).** In a randomised controlled trial lasting six weeks, 154 women receiving radiotherapy for early breast cancer were allocated to a control group (encouraged to talk about themselves), a relaxation group (taught to concentrate on muscle groups) or a relaxation-plus-imagery group (also taught to imagine a peaceful scene of their own choice). The intervention groups had tapes and were asked to practise for at least 15 minutes a day; 15 dropped out. At six weeks, total mood disturbance was significantly lower in both intervention groups, with the combined group more relaxed than the relaxation-only group; mood in the control group worsened. Women aged 55 and over benefited most. There was no difference between groups on separate depression and anxiety scales.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--19-he-general-adaptation-syndrome.webp" width="900" height="900" alt="A schematic curve of resistance to stress against time with a dashed normal level, in three stages: alarm (initial dip, fight-or-flight), resistance (above normal while the body copes) and exhaustion (resources run out, falls below normal, illness risk up)." loading="lazy">
+  <figcaption>Selye's three stages of the general adaptation syndrome.</figcaption>
+</figure>
+
 
 ## 3.5 How can health be promoted?
 

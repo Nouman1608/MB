@@ -90,6 +90,17 @@ This is an unlawful killing without malice aforethought.
 
 **Gross negligence manslaughter** follows *R v Adomako* (1995): a duty of care owed to the victim, breach of that duty, a reasonably foreseeable serious and obvious risk of death (*R v Rose*, 2017), death caused by the breach, and negligence so bad that the jury considers it criminal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--01-cr-homicide-path.webp" width="900" height="1005" alt="Decision path for homicide. An unlawful killing with malice aforethought, meaning an intention to kill or to cause grievous bodily harm, is murder with a mandatory life sentence. If loss of control or diminished responsibility applies, murder is reduced to voluntary manslaughter. A killing without malice aforethought is involuntary manslaughter, through an unlawful and dangerous act or gross negligence." loading="lazy">
+  <figcaption>A decision path from an unlawful killing to murder, voluntary manslaughter or involuntary manslaughter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--02-cr-nonfatal-ladder.webp" width="900" height="882" alt="A table of five offences in rising seriousness: assault, battery, section 47 assault occasioning actual bodily harm, section 20 wounding or inflicting grievous bodily harm, and section 18 wounding or causing grievous bodily harm with intent. For each it gives the harm needed and the fault needed. Section 47 and section 20 carry a maximum of five years; section 18 carries life." loading="lazy">
+  <figcaption>Five non-fatal offences laid out by harm and fault.</figcaption>
+</figure>
+
+
 ## Non-fatal offences against the person
 
 | Offence | Actus reus | Mens rea | Key authorities |
@@ -118,9 +129,21 @@ A person is guilty of theft if he dishonestly appropriates property belonging to
 
 Robbery is stealing where, immediately before or at the time of doing so, and in order to do so, the defendant uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force. There must be a complete theft, so an honest belief in a legal right to the property defeats robbery (*R v Robinson*, 1977). "Force" is an ordinary word for the jury and can be slight (*R v Dawson and James*, 1976), including force on property held by the victim (*R v Clouden*, 1987). Appropriation can be a continuing act, so force used while making off may still count (*R v Hale*, 1978). The maximum sentence is life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--03-cr-theft-robbery.webp" width="900" height="960" alt="Theft under section 1 of the Theft Act 1968 needs five elements together: dishonestly (s2), appropriates (s3), property (s4), belonging to another (s5) and intention to permanently deprive (s6). Robbery under section 8 is theft plus force, or putting a person in fear of force, used in order to steal. It needs a complete theft and carries a maximum of life." loading="lazy">
+  <figcaption>The five elements of theft and how robbery builds on theft.</figcaption>
+</figure>
+
+
 ## The preliminary offence: attempt
 
 Under **s1(1) Criminal Attempts Act 1981**, a person is guilty of attempt if, with intent to commit an offence, he does an act which is **more than merely preparatory** to its commission. The test is whether the defendant has "embarked on the crime proper" (*R v Gullefer*, 1990; *R v Jones*, 1990). Lurking near a post office was not enough (*R v Campbell*, 1991), nor was being in school toilets with a knife and tape (*R v Geddes*, 1996); examining a padlock on a barn door was (*R v Tosti*, 1997). The mens rea is intention to commit the full offence: attempted murder needs an intention to kill, not merely to cause GBH (*R v Whybrow*, 1951). Impossibility is no defence (s1(2)); the House of Lords used the Practice Statement in *R v Shivpuri* (1986) to overrule *Anderton v Ryan* (1985) on this point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--04-cr-attempt-line.webp" width="900" height="1050" alt="A vertical track runs from preparation, through a dashed line marked more than merely preparatory, to attempt and then the completed offence. Lurking near a post office and being in school toilets with a knife and tape were only preparation. Examining a padlock on a barn door was an attempt. The mens rea is intention to commit the full offence, and impossibility is no defence." loading="lazy">
+  <figcaption>Where preparation becomes an attempt under s1(1) Criminal Attempts Act 1981.</figcaption>
+</figure>
+
 
 ## Capacity defences
 
@@ -136,11 +159,28 @@ Non-insane automatism is an involuntary act caused by an **external** factor, su
 
 **Voluntary** intoxication can be used to show the defendant lacked the mens rea for a **specific intent** offence such as murder, s18 or theft (*DPP v Beard*, 1920), but is no defence to a **basic intent** offence such as manslaughter, s20, s47 or assault, because becoming intoxicated is itself reckless (*DPP v Majewski*, 1977). A drunken intent is still an intent (*A-G for Northern Ireland v Gallagher*, 1963). **Involuntary** intoxication, such as a spiked drink, is a defence only if the defendant did not form the mens rea (*R v Kingston*, 1994). An intoxicated mistake about the need to use force cannot support self-defence (*R v O'Grady*, 1987; *R v Hatton*, 2005).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--05-cr-insanity-automatism.webp" width="900" height="1088" alt="A question splits into two paths. An internal cause that is a disease of the mind, such as arteriosclerosis, epilepsy, untreated diabetes with high blood sugar or sleepwalking, is insanity under the M’Naghten Rules, with a verdict of not guilty by reason of insanity and a hospital order, supervision order or absolute discharge. An external factor, such as a blow to the head, a reflex action or low blood sugar after insulin, is non-insane automatism and leads to an acquittal. It needs a total loss of voluntary control." loading="lazy">
+  <figcaption>Internal cause leads to insanity; external factor leads to automatism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--06-cr-intoxication-intent.webp" width="900" height="1038" alt="Two columns. For specific intent offences, murder, section 18, theft and robbery, voluntary intoxication may show that the mens rea was not formed. For basic intent offences, manslaughter, section 20, section 47, assault and battery, it is no defence because becoming intoxicated is itself reckless. A drunken intent is still an intent, and involuntary intoxication such as a spiked drink is a defence only if the defendant did not form the mens rea." loading="lazy">
+  <figcaption>Which offences voluntary intoxication can help with.</figcaption>
+</figure>
+
+
 ## Necessity defences
 
 ### Self-defence and prevention of crime
 
 The defence exists at common law and, for prevention of crime, under s3 Criminal Law Act 1967; **s76 Criminal Justice and Immigration Act 2008** sets out how both are applied. First, was force **necessary**? This is judged on the facts as the defendant honestly believed them, even if the belief was unreasonable (*R v Williams (Gladstone)*, 1984; *Beckford v R*, 1988), unless the mistake was caused by voluntary intoxication (s76(5)). Second, was the force **reasonable** in the circumstances as the defendant believed them to be? A person under attack cannot weigh the exact force needed (*Palmer v R*, 1971; s76(7)). Force that is disproportionate is not reasonable; in householder cases only grossly disproportionate force is excluded (s76(5A)). There is no duty to retreat, though the chance to do so is a factor (s76(6A); *R v Bird*, 1985), and a pre-emptive strike can be justified (*A-G's Reference (No 2 of 1983)*). The defence is all or nothing: excessive force in a killing leaves a murder conviction (*R v Clegg*, 1995; *R v Martin (Anthony)*, 2001).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--07-cr-self-defence-tests.webp" width="900" height="1094" alt="A flow of two questions after the defendant has used force. First, was force necessary, judged on the facts as the defendant honestly believed them even if the belief was unreasonable, unless the mistake came from voluntary intoxication. Second, was the force reasonable on the facts as believed; disproportionate force is not reasonable, though in householder cases only grossly disproportionate force is excluded. If both answers are yes there is a complete defence. The defence is all or nothing, so excessive force in a killing leaves a murder conviction." loading="lazy">
+  <figcaption>The two questions in self-defence.</figcaption>
+</figure>
+
 
 ### Duress by threats
 

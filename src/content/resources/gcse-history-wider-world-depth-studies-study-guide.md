@@ -53,6 +53,12 @@ Section B is half of Paper 1, *Understanding the modern world* (2 hours, 84 mark
 
 Sources may be written or visual, such as cartoons, posters and photographs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--08-wd-marks.webp" width="900" height="766" alt="A bar chart of the four compulsory questions in Section B. Question 1, how do you know, is 4 marks and question 2, how useful are two sources, is 12 marks: 16 marks on sources. Question 3, write an account, is 8 marks and question 4, how far do you agree, is 16 marks plus 4 for spelling, punctuation and grammar: 24 marks on your own knowledge. The total is 40 marks plus 4 SPaG. Section B takes about an hour, with question 4 taking about 20 to 25 minutes." loading="lazy">
+  <figcaption>Section B is 40 marks plus 4 SPaG: 16 on sources and 24 on knowledge.</figcaption>
+</figure>
+
+
 ## BA Conflict and tension: the First World War, 1894-1918
 
 **Causes.** The **Triple Alliance** (Germany, Austria-Hungary, Italy, 1882) faced the **Franco-Russian Alliance** (1894), joined by Britain's ententes with France (1904) and Russia (1907). Crises over **Morocco** (1905, 1911) and **Bosnia** (1908-09) hardened the blocs. Britain abandoned **Splendid Isolation** as the Kaiser's **Weltpolitik**, colonial ambitions and the **naval race** (the *Dreadnought*, 1906) alarmed it. Slav nationalism set Serbia against Austria-Hungary; the assassination of **Franz Ferdinand** at Sarajevo (28 June 1914) led to the July Crisis, and the **Schlieffen Plan**'s march through **Belgium** brought Britain in.
@@ -61,6 +67,22 @@ Sources may be written or visual, such as cartoons, posters and photographs.
 
 **Ending the war.** The Bolshevik Revolution took Russia out of the war, freeing German troops; **US entry** (1917) added fresh resources. **Ludendorff's Spring Offensive** (1918) failed, and the Allies' **Hundred Days** advance, using new tactics and technology, pushed Germany back. The **blockade**, the **Kaiser's abdication** and the **Armistice** followed; historians debate the contribution of **Haig** and **Foch**, supreme Allied commander from 1918.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--07-wd-options.webp" width="900" height="1211" alt="Five cards, one for each Conflict and tension option, each showing three parts in order joined by arrows. First World War 1894 to 1918: causes, stalemate, ending the war. Inter-war years 1918 to 1939: peacemaking, the League of Nations, origins and outbreak of the Second World War. East and West 1945 to 1972: origins, development and transformation of the Cold War. Asia 1950 to 1975: Korea, escalation in Vietnam, ending of conflict in Vietnam. The Gulf and Afghanistan 1990 to 2009: tensions in the Gulf, the war on Al-Qaeda, the Iraq War." loading="lazy">
+  <figcaption>Five options, each with three parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--10-wd-alliances.webp" width="900" height="960" alt="Two rival blocs. The Triple Alliance of 1882 joined Germany, Austria-Hungary and Italy. The Franco-Russian Alliance of 1894 joined France and Russia. Britain, outside both, made ententes (understandings, shown dashed) with France in 1904 and with Russia in 1907. Crises over Morocco in 1905 and 1911 and over Bosnia in 1908 to 1909 hardened the blocs." loading="lazy">
+  <figcaption>Two rival blocs, with Britain linked to both members of the second bloc by ententes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--11-wd-chain.webp" width="900" height="864" alt="A five-step downward chain with linking words on the arrows. Slav nationalism set Serbia against Austria-Hungary. This led to the assassination of Franz Ferdinand at Sarajevo on 28 June 1914, which led to the July Crisis. Then the Schlieffen Plan’s march through Belgium brought Britain into the war. A good narrative account explains how each event led to the next." loading="lazy">
+  <figcaption>A narrative account links each event to the next.</figcaption>
+</figure>
+
+
 ## BB Conflict and tension: the inter-war years, 1918-1939
 
 **Peacemaking.** **Wilson**'s Fourteen Points, **Clemenceau**'s wish to weaken Germany and **Lloyd George**'s compromise shaped the **Treaty of Versailles** (1919): territorial losses, military limits, **war guilt** and **reparations**, all imposed as a *Diktat*. New states faced ethnic minorities and border disputes.
@@ -68,6 +90,12 @@ Sources may be written or visual, such as cartoons, posters and photographs.
 **The League of Nations.** Its **Covenant**, Assembly, Council and agencies (such as those on health and refugees) aimed at collective security, but the USA never joined. It succeeded over the **Aaland Islands** (1921), **Upper Silesia** (1921) and the Greek-**Bulgarian** dispute (1925), but failed over **Vilna** (1920) and **Corfu** (1923). Diplomacy outside it produced **Locarno** (1925) and **Kellogg-Briand** (1928). The **Depression** weakened members; **Manchuria** (1931) and **Abyssinia** (1935-36) exposed its weakness.
 
 **Origins of the Second World War.** Hitler's aims -- overturning Versailles, uniting Germans, *Lebensraum* -- led to the **Saar** plebiscite (1935), conscription and rearmament; Italy reacted to the **Dollfuss** affair (1934) and briefly joined the **Stresa Front** (1935), while Britain signed the **Anglo-German Naval Agreement**. The **Rhineland** (1936), the **Axis** and **Anti-Comintern Pact**, the **Anschluss** (1938), **appeasement** and **Munich** (September 1938) escalated tension. After the occupation of **Czechoslovakia** (March 1939) and the **Nazi-Soviet Pact** (August 1939), Germany invaded **Poland** on 1 September 1939. Responsibility is debated between **Hitler**, **Stalin** and **Chamberlain**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--12-wd-league.webp" width="900" height="1030" alt="A ladder of events in order down the page. Failures and exposed weakness on the left: Vilna 1920, Corfu 1923, Manchuria 1931 and Abyssinia 1935 to 1936. Successes on the right: the Aaland Islands 1921, Upper Silesia 1921 and the Greek-Bulgarian dispute 1925. Diplomacy outside the League, shown in gold: Locarno 1925 and Kellogg-Briand 1928. The Depression after 1929 weakened members." loading="lazy">
+  <figcaption>The League’s record in order.</figcaption>
+</figure>
+
 
 ## BC Conflict and tension between East and West, 1945-1972
 
@@ -98,6 +126,12 @@ Sources may be written or visual, such as cartoons, posters and photographs.
 *How useful are Sources B and C to an historian studying the Cuban Missile Crisis?* **[12]**
 
 For each source: **content** (what it shows -- for example, an invented practice source: a US cartoon showing Kennedy and Khrushchev arm-wrestling over nuclear buttons), **provenance** (who made it, when, why -- a Western cartoonist in October 1962, writing for a public afraid of war), and **context** (your own knowledge -- the blockade, the secret deal over Turkey). Useful answers show what each source reveals *because of* who made it, not just despite it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-wider-world-depth-studies-study-guide--09-wd-usefulness.webp" width="900" height="765" alt="A practice source, an invented cartoon, shows Kennedy and Khrushchev arm-wrestling over nuclear buttons. Three arrows lead from it to the three things to judge for a usefulness question. Content: what it shows. Provenance: who made it, when and why; here a Western cartoonist in October 1962 writing for a public afraid of war. Context: your own knowledge, such as the blockade and the secret deal over Turkey. The best answers show what the source reveals because of who made it." loading="lazy">
+  <figcaption>Judge a source by its content, provenance and context.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

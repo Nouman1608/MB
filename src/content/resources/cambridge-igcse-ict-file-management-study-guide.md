@@ -44,9 +44,21 @@ File management supports all of the practical topics because every task begins b
 - Follow the instructions in an exam task exactly, including capital letters and file extensions.
 - Use **version numbers or dates** in names so you can see which is the latest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--14-file-names-folders.webp" width="900" height="796" alt="The file name Year9_Geography_Coursework_Draft2.docx split into parts: Year9_Geography_Coursework says what the file is, Draft2 is the version and .docx is the extension. A folder tree shows School, Year9, Geography and Coursework folders holding two drafts of the file. A vague name such as work1 is marked as poor." loading="lazy">
+  <figcaption>A meaningful name with a version, kept in clearly named folders, makes the latest file easy to find.</figcaption>
+</figure>
+
+
 ### Saving, opening and moving files
 
 Know how to **open**, **save**, **save as** (to give a different name, location or format), **rename**, **copy**, **move**, **delete** and **restore** files. Use **Save as** to make a copy in a new format without losing the original. Save regularly, because unsaved work is lost if the power fails or the program crashes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--15-file-save-saveas.webp" width="900" height="790" alt="Top: Save writes over the existing file, so only one Draft2.docx remains. Bottom: Save as keeps the original Draft2.docx and creates a second file with a different name, location or format, shown as Draft2.pdf." loading="lazy">
+  <figcaption>Save overwrites the file; Save as makes a new file and leaves the original alone.</figcaption>
+</figure>
+
 
 ### File extensions and formats
 
@@ -64,9 +76,21 @@ A **file extension** (such as `.docx`) tells the computer which program to use a
 
 **Generic (open) file formats** can be opened by many different programs and are not tied to one manufacturer's software. Examples are .csv, .txt, .rtf and .pdf. Use a generic format when the other person may not have the same software, or when the file must stay readable for many years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--16-file-formats.webp" width="900" height="827" alt="Seven rows of file types with their common extensions: text (.txt, .rtf, .docx, .pdf), spreadsheet and data (.xlsx, .csv), images (.jpg, .png, .gif, .bmp, .svg), audio (.mp3, .wav, .aac), video (.mp4, .avi, .mov), archives (.zip, .rar) and web (.html, .css). The generic or open formats that many programs can open, .csv, .txt, .rtf and .pdf, have dashed outlines. Short notes say which are compressed, lossless or vector." loading="lazy">
+  <figcaption>Dashed chips mark generic (open) formats that many programs can open.</figcaption>
+</figure>
+
+
 ### Backing up
 
 A **back-up** is a copy of files kept separately so that they can be recovered after accidental deletion, hardware failure, theft or malware. Good practice is to back up regularly, keep the copy on a different device or in a different location (for example, cloud storage or an external hard drive), and to protect the copy with a password or encryption if the data is sensitive. Back-ups should be tested occasionally to make sure they can be restored.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--17-file-backup.webp" width="900" height="870" alt="Top: an original file and its back-up copy kept on the same hard drive are both lost if the drive fails. Bottom: the original on a computer is copied to a different device, an external hard drive, and to a different location, cloud storage. Sensitive back-ups should be protected with a password or encryption, and a back-up should be tested to make sure it can be restored." loading="lazy">
+  <figcaption>A back-up must be separate from the original, on another device or in another place.</figcaption>
+</figure>
+
 
 ## 11.2 Reduce file sizes for storage or transmission
 
@@ -76,6 +100,12 @@ Large files take up storage space and take longer to send, so reducing their siz
 
 - **Lossless compression** reduces size without losing any data. The original can be rebuilt exactly. It is used for text, spreadsheets, programs and some images (PNG, GIF) and archives (ZIP). The saving is smaller.
 - **Lossy compression** permanently removes some data that people are least likely to notice. The quality is reduced, and the original cannot be rebuilt. It is used for JPEG images, MP3 audio and MP4 video. The saving is much larger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--18-file-lossless-lossy.webp" width="900" height="830" alt="Two rows of blocks standing for data. Lossless: ten blocks are packed into a smaller file and unpacked into the same ten blocks, an exact copy, with a smaller saving. Lossy: ten blocks are reduced to a much smaller file, and the result has only part of the original, so the original cannot be rebuilt, with a much larger saving. Block counts are illustrative." loading="lazy">
+  <figcaption>Lossless keeps every bit of data; lossy throws some away for a bigger saving and cannot be reversed.</figcaption>
+</figure>
+
 
 ### Other ways of reducing size
 
@@ -105,9 +135,21 @@ Transmission time over a connection of 8 megabits per second:
 
 The point to state is that compression saves both storage space and transmission time. Take care with units: file sizes are usually in bytes (capital B) and speeds in bits per second (lower-case b), so you multiply by 8 to convert bytes to bits. Some courses use 1 MB = 1 048 576 bytes; if so, follow the convention given in the question and state which you used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--19-file-size-worked.webp" width="900" height="940" alt="A 4 000 by 3 000 pixel photo at 24 bits per pixel has 12 000 000 pixels, which is 288 000 000 bits or 36 000 000 bytes, so 36 MB. Saved as a JPEG it is 2.4 MB, a 15 to 1 compression ratio and about 6.7 percent of the original. Two bars drawn to scale compare 36 MB with 2.4 MB. Over an 8 megabit per second connection the uncompressed photo takes 36 seconds and the JPEG 2.4 seconds." loading="lazy">
+  <figcaption>Compression cuts both the storage needed and the sending time: 36 MB becomes 2.4 MB, and 36 seconds becomes 2.4 seconds.</figcaption>
+</figure>
+
+
 ### Choosing a method
 
 For a school website photo gallery, use JPEG at reduced dimensions because quality loss is acceptable and pages must load quickly. For a legal document that must not change, use lossless compression such as ZIP, or a PDF. For a logo with flat colours and a transparent background, use PNG.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-file-management-study-guide--20-file-choose-method.webp" width="900" height="845" alt="Three scenarios and the format chosen. A school website photo gallery uses JPEG at reduced dimensions, because some quality loss is acceptable and pages must load quickly. A legal document that must not change uses lossless compression such as ZIP, or a PDF. A logo with flat colours and a transparent background uses PNG." loading="lazy">
+  <figcaption>Match the method to the job: lossy for fast photos, lossless when nothing may change, PNG for flat-colour logos.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

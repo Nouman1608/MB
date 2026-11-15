@@ -28,6 +28,12 @@ Coursework is the part of IGCSE English Literature in which you control the cond
 
 The syllabus is made up of several components. Some are written examinations on set poetry, prose, drama and unseen material, and coursework is the component in which you submit written work on studied texts. Your teacher will confirm how the coursework fits with the written components for your entry and how the portfolio is organised. What marks the coursework out is that it is assessed on the same qualities as exam answers: knowledge and understanding of the text, analysis of the writer's methods, awareness of context, and a personal, well-organised response. The difference is that you are expected to sustain these qualities in a considered, polished piece.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--15-coursework-rules.webp" width="900" height="741" alt="A word scale highlights 600 to 1200 words. Two assignment cards show different texts, at most one a Paper 1 to 3 set text. A chain shows teacher marking, Cambridge moderation and 25 percent of the qualification." loading="lazy">
+  <figcaption>Component 5 is two pieces of 600 to 1200 words on different texts.</figcaption>
+</figure>
+
+
 ## Choosing a text and a task
 
 If you have a choice, pick a text that gives you plenty to say, and one that you actually find interesting. Enthusiasm shows in the quality of the argument.
@@ -39,6 +45,12 @@ A good task has three features.
 - It is **narrow enough to be explored in depth** within the word limit. A question about one character's development across the text is usually better than a question about "all the themes".
 
 Examples of workable stems, which you can adapt to any text: "How does the writer make the reader sympathise with ...?", "In what ways does the opening of ... prepare the reader for what follows?", "Explore how the writer presents the relationship between ... and ... .", "How far is ... a victim of circumstances?" Ask your teacher to check your wording before you start, because a task that is too broad, too narrow or purely descriptive will limit your marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--16-topic-to-question.webp" width="900" height="720" alt="A funnel narrows the topic Dreams in the novel through three gates (asks an argument, focuses on methods, narrow enough) to a question about dreams and the narrator’s loss of control." loading="lazy">
+  <figcaption>Turn a topic into a narrow question that invites an argument.</figcaption>
+</figure>
+
 
 ## Building an argument
 
@@ -56,6 +68,17 @@ You do not need to follow this rigidly in every paragraph, and good writers vary
 ### A short worked illustration
 
 Suppose your task is about how a writer creates a sense of unease at the start of a prose text. A weak paragraph says: "At the start, the writer describes a dark house and this makes the reader feel scared." A stronger one says: "The opening withholds information about who is watching the house, so that the description of its shuttered windows feels threatening rather than merely gloomy. By placing the narrator's reaction after the setting, the writer lets the unease build before the narrator can explain it." The second version names a method (withholding, ordering), explains its effect and connects it to the task. The example is deliberately invented, to show the quality of thinking, not to quote any real text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--17-argument-thread.webp" width="900" height="699" alt="A thesis bar sits above three paragraphs, each a row of Point, Evidence, Analysis and Link, with lines from each Link back to the thesis." loading="lazy">
+  <figcaption>Every paragraph links back to one thesis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--19-unease-chain.webp" width="900" height="946" alt="A weak route from a dark-house detail to a vague word is crossed out. A stronger route has two methods leading to an effect and then to the task. It is marked as an invented example." loading="lazy">
+  <figcaption>A stronger paragraph names methods, explains the effect and links to the task.</figcaption>
+</figure>
+
 
 ## Using evidence and context
 
@@ -78,9 +101,21 @@ Treat coursework as a project with deadlines.
 
 Your teacher may give general guidance, for example about task choice or how to approach the assessment criteria, but the work you submit must be your own. Ask your teacher what kind of feedback is permitted at the drafting stage, so you do not rely on help that is not allowed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--18-coursework-steps.webp" width="900" height="981" alt="Six numbered stages run from reading and annotating through planning, drafting, revising for argument and editing for expression to checking the word count. A note says the teacher gives general guidance only." loading="lazy">
+  <figcaption>Treat coursework as a project with six stages.</figcaption>
+</figure>
+
+
 ## Authenticity and plagiarism
 
 Submitting work that is not your own can lead to serious penalties. Do not copy from the internet, from study guides or from classmates, and do not paste in material generated by someone or something else. If you use a critic's idea, say so clearly and put it in your own words, naming the source. Keep dated drafts and notes, because they show how your work developed and support the authenticity declaration you may be asked to sign.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--20-authenticity.webp" width="900" height="897" alt="A list of things that are not your own work (copying or pasting) is set against things that are (a critic’s idea in your own words, the source named, dated drafts kept)." loading="lazy">
+  <figcaption>Submit only your own work and keep dated drafts.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -95,6 +130,12 @@ Submitting work that is not your own can lead to serious penalties. Do not copy 
 ## Final checks before submission
 
 Read your piece aloud to hear awkward sentences. Confirm that every quotation is accurate, that the title or question is written at the top as agreed with your teacher, that you have answered the whole question and not only part of it, and that you have kept to the word limit. Check that all quotations and ideas drawn from others are acknowledged.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-component-5-coursework-study-guide--21-final-checks.webp" width="900" height="727" alt="A checklist of six ticked boxes: read aloud, quotations accurate, question or title at the top, whole question answered, word limit kept, others’ ideas acknowledged." loading="lazy">
+  <figcaption>Run these six checks before handing in.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

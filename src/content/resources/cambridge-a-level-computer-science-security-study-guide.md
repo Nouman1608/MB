@@ -40,9 +40,21 @@ Topic 17 is A Level content and builds on the AS topic on security, privacy and 
 
 In **symmetric encryption** the same secret key encrypts and decrypts. It is fast and suits large amounts of data, but it has the **key distribution problem**: the sender and receiver must share the key securely before they start, and if it is intercepted all messages can be read. The number of keys also grows quickly with the number of users, because each pair needs its own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--14-sx-symmetric.webp" width="900" height="820" alt="A sender and receiver hold the same secret key, which must be shared first; if it is intercepted all messages can be read. The plaintext is encrypted to ciphertext and decrypted back with the same key. Symmetric encryption is fast." loading="lazy">
+  <figcaption>The same secret key encrypts and decrypts, so it must be shared securely first.</figcaption>
+</figure>
+
+
 ### Asymmetric encryption
 
 **Asymmetric encryption** uses a **key pair**. The **public key** is shared openly and the **private key** is kept secret by its owner. Data encrypted with one key can only be decrypted with the other. To send a confidential message to Priya you encrypt with Priya's public key; only Priya's private key can decrypt it. This removes the need to exchange a secret in advance. Its drawbacks are that it is much slower and needs more processing than symmetric encryption, so it is rarely used for bulk data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--15-sx-asymmetric.webp" width="900" height="810" alt="Priya has a public key shared openly and a private key kept secret. A message to her is encrypted with her public key and only her private key decrypts it. No secret is exchanged first, but it is slower." loading="lazy">
+  <figcaption>Encrypt with the receiver’s public key; only the receiver’s private key decrypts.</figcaption>
+</figure>
+
 
 ### Quantum cryptography
 
@@ -52,9 +64,21 @@ In **symmetric encryption** the same secret key encrypts and decrypts. It is fas
 
 A **digital signature** shows that a message came from the claimed sender and has not been changed. The sender produces a **digest** of the message using a hashing algorithm, then encrypts the digest with the sender's **private key**; that encrypted digest is the signature and is sent with the message. The receiver decrypts the signature with the sender's **public key** to get one digest, calculates a digest of the received message and compares them. If they match, the message is authentic (the signer holds the private key) and has integrity (it was not altered). It gives **non-repudiation**, because the signer cannot easily deny sending it. Note that the signature does not hide the message; confidentiality needs separate encryption.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--17-sx-digital-signature.webp" width="900" height="1020" alt="The sender hashes the message to a digest and encrypts the digest with their private key to make the signature, then sends both. The receiver decrypts the signature with the sender’s public key to get digest A, hashes the message to get digest B, and compares. A match shows authenticity and integrity; the message is not hidden." loading="lazy">
+  <figcaption>The receiver compares two digests to check who sent the message and that it was not changed.</figcaption>
+</figure>
+
+
 ## Digital certificates
 
 How does a browser know a public key belongs to the real bank and not an impostor? A **digital certificate** binds a public key to an identity. It is issued by a **certificate authority (CA)**, a trusted organisation that first checks the identity of the applicant. A certificate usually contains the owner's name, the owner's public key, the serial number, the validity dates, the name of the issuing CA and the CA's digital signature. A browser checks the CA's signature using the CA's public key, which is stored in the browser or operating system, and checks the certificate is in date.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--18-sx-digital-certificate.webp" width="900" height="970" alt="A certificate authority checks identity and issues a certificate listing the owner’s name and public key, serial number, validity dates, the CA’s name and the CA’s digital signature. A browser holding the CA’s public key checks the signature and the date." loading="lazy">
+  <figcaption>A certificate binds a public key to an identity, vouched for by a CA.</figcaption>
+</figure>
+
 
 ## Encryption protocols: SSL and TLS
 
@@ -69,6 +93,12 @@ How does a browser know a public key belongs to the real bank and not an imposto
 
 The design uses asymmetric encryption to share a key safely and symmetric encryption for speed. Uses include online banking and shopping, email, and cloud storage. A limitation is that the protocol protects data in transit only; it does not protect a server that is hacked or a user whose own device has malware.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--19-sx-tls-handshake.webp" width="900" height="1010" alt="Six steps between client and server: connect and ask for proof of identity; server sends certificate with public key; client checks the certificate; client sends a session key encrypted with the public key; server decrypts it with its private key; both use the symmetric session key for all data." loading="lazy">
+  <figcaption>Asymmetric encryption shares a session key; symmetric encryption carries the data.</figcaption>
+</figure>
+
+
 ## Worked example 1: counting keys
 
 A company of 12 staff wants every pair of staff to communicate privately.
@@ -77,6 +107,12 @@ A company of 12 staff wants every pair of staff to communicate privately.
 - **Asymmetric**: each person needs one key pair, giving 12 pairs, which is 24 keys, and only the 12 public keys need to be shared openly.
 
 If a 13th person joins, the symmetric system needs 12 further keys (13 x 12 / 2 = 78 in total), while the asymmetric system needs one more pair. This demonstrates the key management benefit of asymmetric methods, which is why TLS uses one to protect the exchange of a symmetric key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--16-sx-key-count.webp" width="900" height="1010" alt="Twelve people in a ring. Symmetric: a line for every pair gives 66 keys, and a 13th person adds 12. Asymmetric: each person has one key pair, 24 keys, and a 13th person adds one pair." loading="lazy">
+  <figcaption>Symmetric needs 66 keys for 12 people; asymmetric needs 24.</figcaption>
+</figure>
+
 
 ## Worked example 2: a toy key pair
 
@@ -88,6 +124,12 @@ Take n = 33, public key e = 3 and private key d = 7. These work together because
 2. Decrypt with the private key: 31^7 mod 33 = 4. The original message is recovered.
 
 Anyone can use (n, e) to encrypt, but decrypting requires d. With n = 33 it is easy to find that 33 = 3 x 11 and work out d; the security of real systems depends on n being so large that it cannot be factorised in a realistic time. For a signature, the roles are reversed: the digest is transformed with the private key and anyone can check it with the public key.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-study-guide--20-sx-toy-key-pair.webp" width="900" height="870" alt="With n = 33, public key 3 and private key 7, message 4 becomes 4 cubed = 64, 64 mod 33 = 31. Decrypting 31 to the power 7 mod 33 gives 4. The keys work as 3 x 7 = 21 leaves remainder 1 when divided by 20. 33 = 3 x 11 is easy to factorise." loading="lazy">
+  <figcaption>A tiny RSA-style key pair shows two matching keys; real keys are far larger.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -41,11 +41,23 @@ Representation means the way a text portrays a person, group, place, event or id
 
 A representation is not the same as reality, and a text may represent the same group differently at different moments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--01-rep-five-questions.webp" width="900" height="1196" alt="Five numbered questions, each with a small picture. 1: Who is shown, and who is missing? A solid figure beside a dashed outline figure. 2: Who is doing the representing: a narrator, speaker or character? A person with a speech bubble. 3: What is emphasised, and what is left out? A page with one line highlighted. 4: What attitude does the text invite: sympathy, admiration, fear, laughter or suspicion? A smiling and a frowning face. 5: Is the portrayal stable, or complicated or undermined by the text? A straight line that zigzags. Below: a representation is not the same as reality." loading="lazy">
+  <figcaption>Five questions to ask of any representation.</figcaption>
+</figure>
+
+
 ## Methods of representation
 
 ### Voice and viewpoint
 
 First-person narration lets a character represent themselves and others subjectively, which may be revealing or unreliable. Third-person narration may seem objective, yet can still guide judgement through selection and tone. In poetry, the speaker's voice and the person addressed shape how the subject is seen. In drama, representation comes through dialogue, action and staging, and through what other characters say about someone who is absent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--03-rep-voice.webp" width="900" height="904" alt="Four panels. First person: a character with a speech bubble containing I, showing self and others subjectively. Third person: an eye above two figures; the narration may seem objective, but selection and tone still guide judgement. Poetry: a speaker with an arrow to the person addressed, drawn dashed. Drama: a stage with two figures and a dashed absent figure; representation comes through dialogue, action, staging and what others say about the absent person." loading="lazy">
+  <figcaption>Who is speaking shapes how a subject is seen in each form.</figcaption>
+</figure>
+
 
 ### Language
 
@@ -55,9 +67,21 @@ Diction, imagery and tone carry attitudes. Compare, for instance, a description 
 
 Where a character appears, how often, and in what sequence all matter. A figure introduced late or placed at the margins of a story is represented differently from one who occupies the centre. Form matters as well: a poem's compression, a novel's scale or a play's visible presence on stage each offers different ways of showing people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--04-rep-structure.webp" width="900" height="964" alt="An illustrative diagram, not a real text. Two tracks run from the start of the text to the end. The central figure appears often, from the start. The marginal figure is introduced late and seen rarely. Below, three small pictures show that form changes how people can be shown: a poem’s compression, a novel’s scale, and a play’s visible presence on stage." loading="lazy">
+  <figcaption>Position in the text and the form both shape how a figure is represented.</figcaption>
+</figure>
+
+
 ### Setting and symbol
 
 Places and objects can represent communities or ideas, for example a house standing for family or a city for modernity. Look for how setting is described, from whose perspective, and with what implications.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--02-rep-choices-lens.webp" width="900" height="982" alt="A flow from top to bottom. Something to be shown: a person, group, place or idea. It passes through the writer’s choices, four boxes: voice and viewpoint, language, structure and form, and setting and symbol. Out comes the portrayal the reader meets, a construction and not a mirror. A final strip with two clocks reminds you that context covers both when the text was written and when it is read." loading="lazy">
+  <figcaption>A subject becomes a portrayal through the writer’s choices, read in context.</figcaption>
+</figure>
+
 
 ## Context and interpretation
 
@@ -79,6 +103,17 @@ Be careful with historical claims. Include only facts you are sure of, and use t
 ### A short worked example
 
 Consider an invented question: "How is a marginalised character represented?" A paragraph might run: "The writer places the character at the edge of the narrative, noticed only when other characters need something from them. This structural marginality, together with the narrator's habit of describing them through their usefulness, invites the reader to share the community's casual dismissal. Yet at one moment the narration shifts to the character's own thoughts, and the sudden fullness of the language exposes how much the earlier descriptions left out. The representation therefore both reproduces and criticises the attitudes of the society it depicts." This paragraph makes a claim, shows a method (structure, voice), identifies an effect and ends with a nuanced judgement, with no reliance on a real quotation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--05-rep-method-steps.webp" width="900" height="1078" alt="Six numbered steps joined by arrows. 1 Define: who or what is shown, and with what attitude. 2 Choose evidence from different parts of the text. 3 Analyse methods: voice, language, structure, form and setting. 4 Effect and meaning: what the reader thinks or feels. 5 Bring in context and other readings only where they deepen the argument. 6 Reach a judgement: is the representation straightforward, ambiguous or critical?" loading="lazy">
+  <figcaption>Six steps from defining the representation to reaching a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--06-rep-worked-paragraph.webp" width="900" height="1111" alt="Four stacked bands from the lesson’s worked paragraph about an invented question, how is a marginalised character represented. Claim and method: structure, the character placed at the edge of the narrative; voice, described by their usefulness. Effect: the reader is invited to share the community’s casual dismissal. Turn: the narration shifts to the character’s own thoughts, and fuller language exposes what was left out. Judgement: the representation both reproduces and criticises the society it depicts." loading="lazy">
+  <figcaption>The worked paragraph moves from claim and method to effect, turn and judgement.</figcaption>
+</figure>
+
 
 ## Connecting texts
 
@@ -107,6 +142,12 @@ Two essays of 1,250 to 1,500 words, each on a different text, one poetry and one
 
 **How much is Unit 4 worth?**
 50 marks and 30% of the International A-level on either route.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide--07-rep-unit4-glance.webp" width="900" height="928" alt="Unit 4 is worth 50 marks and 30 percent of the International A-level on either route. Unit 4a is a 2 hour 30 minute exam on unseen texts: unseen prose, including literary non-fiction, for 25 marks, and unseen poetry for 25 marks. Unit 4b is a non-exam assessment of two essays of 1,250 to 1,500 words each, on different texts, one poetry and one prose, assessed by teachers and moderated." loading="lazy">
+  <figcaption>Unit 4a is an exam on unseen texts and Unit 4b is a two-essay non-exam assessment.</figcaption>
+</figure>
+
 
 
 ## Check your understanding

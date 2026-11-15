@@ -38,6 +38,17 @@ Full explanation: [B.3 Object oriented programming study guide](/resources/ib-dp
 | Paper 2 timing | SL 1 h 15 min (35%); HL 2 h (40%) |
 | Language | Java or Python; programming questions have equivalent versions in each |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b3-object-oriented-programming--06-b3-hours-sl-hl.webp" width="900" height="790" alt="B.3 has 7 recommended teaching hours at SL and 23 at HL. HL has 16 more hours, which is more than three times the SL time." loading="lazy">
+  <figcaption>B.3 has 7 teaching hours at SL and 23 at HL.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b3-object-oriented-programming--08-b3-paper-2.webp" width="900" height="880" alt="SL Paper 2 is 1 hour 15 minutes and 35 percent, with questions on the three Theme B topics. HL Paper 2 is 2 hours and 40 percent, with the same Theme B questions plus extra HL questions on OOP and abstract data types. Programming questions have equivalent Java and Python versions." loading="lazy">
+  <figcaption>How Paper 2 differs at SL and HL, and that programming questions come in Java and Python.</figcaption>
+</figure>
+
+
 ## What the numbers mean for revision
 
 - **SL**: 7 hours is a modest allocation, so expect B.3 to be a smaller part of Paper 2 than B.2 Programming (40 hours).
@@ -61,6 +72,22 @@ In object oriented programming a **class** describes the attributes (data) and m
 - Assuming OOP is HL only. The brief lists B.3 with 7 SL hours, and SL Paper 2 covers all three SL Theme B topics.
 - Revising OOP from a different syllabus's list and assuming it matches the IB's. Use the full guide.
 - Learning definitions without writing code; Paper 2 includes programming questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b3-object-oriented-programming--07-b3-where-b3-fits.webp" width="900" height="810" alt="B.1 sets out the thinking process, B.2 builds general programming skill, and B.3 applies programming in an object oriented style. B.4 follows at HL only. Hours are shown for each at SL and HL." loading="lazy">
+  <figcaption>B.3 sits between general programming (B.2) and abstract data types (B.4) in Theme B.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b3-object-oriented-programming--09-b3-class-and-objects.webp" width="900" height="880" alt="A class defines the attributes (data) and methods (behaviour) of a kind of thing. Objects are individual instances of the class. In this illustrative example two Book objects hold different data and each answers describe() with its own details." loading="lazy">
+  <figcaption>A class is a blueprint and objects are instances of it (illustrative example).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b3-object-oriented-programming--10-b3-design-with-b1.webp" width="900" height="890" alt="Designing a class follows the B.1 process. Specify the problem and a success criterion, decompose it, abstract the data that matters, then test and evaluate. This illustrative example uses a Book class and a describe() test that passes." loading="lazy">
+  <figcaption>Using the four B.1 steps to design a class (illustrative example).</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

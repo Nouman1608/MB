@@ -59,6 +59,12 @@ AO2 (analysing how meanings are shaped in texts and data) and AO3 (demonstrating
 ways). For the International AS, the specification weights Unit 1 at roughly AO1 10%, AO2 15% and AO3 25%. AO3,
 using English in different ways, is the skill directed writing tests most directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--04-dw-marks.webp" width="900" height="860" alt="Unit 1 is a 2-hour exam worth 50 marks: Section A, Understanding texts, 25 marks, and Section B, Directed writing, 25 marks. It counts for 50% of the International AS and 20% of the International A-level. For the International AS the specification weights Unit 1 at roughly AO1 10%, AO2 15% and AO3 25%. AO3, using English in different ways, is the skill directed writing tests most directly." loading="lazy">
+  <figcaption>Unit 1 marks, time, weighting and assessment objectives.</figcaption>
+</figure>
+
+
 ## What does "transforming" source material mean?
 
 Transformation means taking content from one context and rebuilding it for another. The four context headings from
@@ -74,6 +80,12 @@ Section A (audience, purpose, genre and mode) are the levers you change.
 You are not writing an essay about the texts, and you are not summarising them. You are producing a new, complete text
 that a real reader in the stated context could use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--01-dw-four-levers.webp" width="900" height="745" alt="A source text is rebuilt for a new context by changing four things. Audience: an informative leaflet for adults becomes a talk for 11-year-olds. Purpose: a promotional web page becomes a balanced review. Genre: a news article becomes a blog post or a radio script. Mode: a written text becomes a spoken text such as a speech, or a spoken transcript becomes a written article." loading="lazy">
+  <figcaption>Four things you change when you transform a source text.</figcaption>
+</figure>
+
+
 ## How do you plan a directed writing response?
 
 1. **Decode the brief.** Underline the audience, the purpose, the form and any details about where the text will
@@ -88,6 +100,12 @@ that a real reader in the stated context could use.
    and sign-off for a letter; discourse markers and direct address for a spoken text.
 6. **Sustain the style.** Check that the tone stays consistent to the end; directed writing often loses marks when
    a piece slips back into the register of the source or of an exam essay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--02-dw-six-steps.webp" width="900" height="876" alt="Six steps in order. 1 Decode the brief: underline the audience, purpose, form and where the text will appear. 2 Select material from both source texts, leaving out what the new audience does not need. 3 Reorganise the content in an order that suits the new genre. 4 Re-voice it in your own words and the new register. 5 Use the genre conventions a reader expects, such as a headline for an article or a greeting for a letter. 6 Sustain the style so the tone stays consistent to the end." loading="lazy">
+  <figcaption>Six steps from decoding the brief to sustaining the style.</figcaption>
+</figure>
+
 
 ## Worked example: from two sources to a new text
 
@@ -118,6 +136,12 @@ that make the exhibits vivid, with specialist terms explained.
 **Sample opening:** "Hi everyone, and welcome to the new science gallery. I'm your guide for the next hour. Before we
 go in, here's a question: what do you think is the oldest thing in this building? Hold on to your answer, because in
 about ten minutes you're going to be standing right next to it."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-language-unit-1-directed-writing--03-dw-worked-example.webp" width="900" height="950" alt="Text A is a museum web page for families and Text B is a radio transcript of a curator. The brief is a welcome talk for visiting 14-year-olds. The talk has five parts in order: greeting; what they will see, using the gallery highlights from Text A; one story to hook interest, using a curator anecdote from Text B; practical points, using the practical details from Text A; and a closing invitation. The greeting and the closing are the writer’s own. This is an invented example from the lesson." loading="lazy">
+  <figcaption>How the lesson’s two invented sources feed a welcome talk.</figcaption>
+</figure>
+
 
 ## How do you choose between the two tasks?
 

@@ -50,6 +50,17 @@ The El Nino-Southern Oscillation (ENSO) is a key example of ocean-atmosphere cou
 
 Oceans also absorb carbon dioxide, causing ocean acidification, and absorb most of the extra heat from global warming, which causes thermal expansion and contributes to sea level rise alongside melting land ice. Warm sea surface temperatures also fuel tropical cyclones.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--08-enso.webp" width="900" height="1030" alt="Two stacked cross-sections of the Pacific, west on the left and South America on the right. In normal conditions strong trade winds blow towards the west, warm surface water piles up in the west, and cold water upwells off South America. In El Niño conditions the trade winds weaken, warm water spreads east, upwelling is reduced and rainfall patterns shift. La Niña is the opposite phase with stronger trade winds. Schematic, not to scale." loading="lazy">
+  <figcaption>Normal and El Niño conditions in the Pacific, as the lesson describes them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--09-conveyor.webp" width="900" height="700" alt="A schematic loop in an ocean basin. Temperature and salinity set water density. Cold, salty, dense water sinks in polar regions on the left, flows at depth to the right, and upwells as cold, nutrient-rich water at low latitudes. Warmer surface water flows back towards the pole to replace it." loading="lazy">
+  <figcaption>Thermohaline circulation is a density-driven loop of sinking, deep flow, upwelling and surface return.</figcaption>
+</figure>
+
+
 ## 2.2 Interactions between oceans and coastal places
 
 Coasts are shaped by waves, tides, currents, geology, sea level and human activity. Waves erode by hydraulic action, abrasion, attrition and corrosion. Constructive waves tend to build beaches, while destructive waves remove sediment. Longshore drift moves sediment along the coast in the direction of the prevailing wave approach.
@@ -60,6 +71,17 @@ Sea level change matters at several scales. Eustatic changes alter the global vo
 
 Coastal ecosystems such as coral reefs, mangroves and salt marshes provide natural protection by dissipating wave energy, support fisheries and store carbon. They are threatened by warming, acidification, pollution, coastal development and destructive fishing. Be ready to explain why a healthy reef or mangrove forest reduces coastal risk and why losing it raises vulnerability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--10-erosion-landforms.webp" width="900" height="850" alt="Top: a cross-section of a cliff beside the sea with a notch cut at its base by waves and a gently sloping wave-cut platform at its foot. Bottom: three side views of a headland in sequence. A cave forms at the waterline, the cave is worn right through to make an arch, and when the arch collapses a separate stack is left standing in the sea. Schematic, not to scale." loading="lazy">
+  <figcaption>Landforms of erosion: cliff, wave-cut platform, then cave, arch and stack.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--11-longshore-drift.webp" width="900" height="790" alt="A plan view of a coast with the sea above and land below. Waves arrive at an angle. Each swash carries sediment up the beach at an angle, and each backwash returns it straight down, so sediment zigzags along the coast in the direction the waves approach, left to right. A groyne built across the beach traps sediment on the updrift side, where the beach builds up, and the beach on the downdrift side is starved. Schematic, not to scale." loading="lazy">
+  <figcaption>Longshore drift moves sediment along the coast; a groyne builds the beach updrift and starves it downdrift.</figcaption>
+</figure>
+
+
 ## 2.3 Managing coastal margins
 
 Management responses include:
@@ -69,6 +91,12 @@ Management responses include:
 - Planning approaches: shoreline management plans with policy options such as hold the line, advance the line, managed realignment and no active intervention. Integrated coastal zone management brings together stakeholders and treats land and sea as one system.
 
 Stakeholders include residents, local councils, national agencies, developers, businesses, conservation groups and insurers. Their interests conflict: a homeowner may want a wall, while a conservation group may favour a restored marsh. Cost-benefit analysis is commonly used to decide where to defend, comparing the value of assets protected against the cost of defence. It is useful but cannot easily value habitats, heritage or community ties, which is a point worth making in evaluative answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--12-smp-options.webp" width="900" height="900" alt="Four plan-view panels with the sea on the left, land on the right and homes inland. Hold the line keeps a defence wall at the coast as it is today. Advance the line builds the defence further out to sea. Managed realignment breaches the old defence so the sea floods the land behind it, forming a natural buffer in front of a new line further inland. No active intervention leaves the coast without defences so it moves inland naturally. Schematic." loading="lazy">
+  <figcaption>The four shoreline management plan policy options drawn against the coast today.</figcaption>
+</figure>
+
 
 ## 2.4 Ocean management futures
 
@@ -87,6 +115,12 @@ At an illustrative site, a fixed marker shows that a cliff top has retreated 3.6
 
 Always note that erosion is episodic: most retreat happens during storms, so a mean rate hides large year-to-year variation, and it is risky to extrapolate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--13-cliff-retreat.webp" width="900" height="910" alt="A graph of cliff-top retreat in metres against years from 0 to 8. A dashed straight line shows the mean rate of 0.45 metres a year, reaching 3.6 metres at 8 years. A stepped copper line shows illustrative yearly retreat that is mostly small with two large storm-year steps, ending at the same 3.6 metres. A strip above shows 3.6 divided by 8 is 0.45 m a year and 0.45 times 40 years is 18 m. A warning says the mean hides storm steps so do not extrapolate blindly." loading="lazy">
+  <figcaption>Worked example: 3.6 m in 8 years is 0.45 m a year, but erosion is episodic so a mean hides storm steps.</figcaption>
+</figure>
+
+
 ### Example 2: a simple cost-benefit ratio
 
 A fictional town considers a sea wall costing 2.4 million currency units. The value of homes and businesses protected over its life is estimated at 9.0 million.
@@ -94,6 +128,12 @@ A fictional town considers a sea wall costing 2.4 million currency units. The va
 - Benefit-cost ratio = 9.0 / 2.4 = 3.75.
 
 A ratio above 1 suggests benefits exceed costs. However, the figure leaves out ecosystems, visual impact and the effect on neighbouring coast, so the decision still needs wider judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--14-benefit-cost.webp" width="900" height="830" alt="Two horizontal bars. A sea wall costing 2.4 million fits into the 9.0 million of homes and businesses protected 3.75 times, so the benefit-cost ratio is 9.0 divided by 2.4, which is 3.75. A ratio above 1 suggests benefits exceed costs. The figure leaves out ecosystems, visual impact and the effect on the neighbouring coast. A fictional town, illustrative numbers." loading="lazy">
+  <figcaption>Worked example: benefit-cost ratio 9.0 ÷ 2.4 = 3.75, and what the sum leaves out.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

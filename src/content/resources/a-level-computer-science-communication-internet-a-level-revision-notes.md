@@ -50,6 +50,12 @@ Related: [Communication and Internet Technologies study guide](/resources/a-leve
 | Router | A device that forwards packets between networks using the destination IP address and a routing table |
 | Peer-to-peer | Computers share resources directly with each other, with no central server holding the file |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--08-tcpip-encapsulation.webp" width="900" height="880" alt="Four rows, one per TCP/IP layer. An HTTP request gains a TCP header (ports and sequence number) to become a segment, an IP header (source and destination IP addresses) to become a packet, and a frame header with hardware (MAC) addresses to become a frame. The receiver removes the headers in reverse." loading="lazy">
+  <figcaption>Each layer adds its own header on the way down (encapsulation) and removes it on the way up.</figcaption>
+</figure>
+
+
 ## Why layers?
 
 - Each layer can be designed, changed and tested separately.
@@ -67,6 +73,12 @@ Related: [Communication and Internet Technologies study guide](/resources/a-leve
 
 Memory hook: **A**pplication formats, **T**ransport splits and guarantees, **I**nternet addresses and routes, **L**ink transmits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--09-tcpip-hops.webp" width="900" height="650" alt="Two hosts each show four layers; the router between them has only the Internet and Link layers. Dashed lines show the Application and Transport layers on each host talking to their twin layer. Headers are added going down the sender and removed going up the receiver; the router reads the destination IP and forwards the packet." loading="lazy">
+  <figcaption>Routers work at the Internet layer, while each upper layer talks logically to the same layer on the other host.</figcaption>
+</figure>
+
+
 ## Application protocols
 
 | Protocol | One-line purpose |
@@ -80,6 +92,17 @@ Memory hook: **A**pplication formats, **T**ransport splits and guarantees, **I**
 
 **BitTorrent sequence**: torrent file → contact the tracker → get a list of peers in the swarm → download different pieces from several peers at once → upload pieces held to other peers → when complete, can remain as a seed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--10-email-protocols.webp" width="900" height="820" alt="A sender's computer sends email to its mail server with SMTP, which passes it on to the recipient's mail server. POP3 downloads the message to one device and it is normally deleted from the server, so a second device sees nothing. IMAP keeps it on the server and synchronises every device." loading="lazy">
+  <figcaption>SMTP sends email; POP3 downloads it to one device, while IMAP keeps it on the server and synchronises all devices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--11-bittorrent-swarm.webp" width="900" height="880" alt="A torrent file gives the address of a tracker, which lists the peers in the swarm. The new peer downloads different pieces from a seed and from two leechers at the same time. Piece numbers are illustrative." loading="lazy">
+  <figcaption>A tracker lists the peers, and a new peer downloads different pieces from several peers at once.</figcaption>
+</figure>
+
+
 ## Circuit switching vs packet switching
 
 | Point | Circuit switching | Packet switching |
@@ -91,6 +114,17 @@ Memory hook: **A**pplication formats, **T**ransport splits and guarantees, **I**
 | Resilience | A broken link ends the connection | Packets rerouted round failures |
 | Delay | Fixed and predictable | Variable; packets may be lost and resent |
 | Applicable to | Live voice and video calls needing continuous, real-time data | Email, web pages, file downloads |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--12-circuit-vs-packet.webp" width="900" height="890" alt="Two copies of the same network. Circuit switching reserves one path from A to B for the whole call, so a failed link on it loses the connection. Packet switching sends numbered packets by different routes, so when the same link fails they are rerouted." loading="lazy">
+  <figcaption>Circuit switching reserves one path, whereas packet switching lets each packet take its own route and go round a failure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-communication-internet-a-level--13-packets-reassembled.webp" width="900" height="790" alt="A packet has a header (source IP, destination IP, sequence number, error check) and data. Five packets are sent; packet 4 is lost, the rest arrive as 1, 3, 2, 5, packet 4 is sent again, and the receiver uses the sequence numbers to rebuild 1 to 5. Numbers are illustrative." loading="lazy">
+  <figcaption>Packets may arrive out of order; sequence numbers let the receiver reassemble them and missing ones are asked for again.</figcaption>
+</figure>
+
 
 ## How packet switching passes a message
 

@@ -75,6 +75,12 @@ at 21 followed in **1928**. The **Sex Disqualification (Removal) Act 1919** open
 to women, and the **Education Act 1918** raised the school-leaving age to 14. But after riots in port towns
 in 1919, the **Aliens Restriction (Amendment) Act 1919** tightened controls on foreigners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--02-bd-votes.webp" width="900" height="860" alt="Bars show who could vote by age. In 1914 only some men could vote and no women. In 1918 all men over 21 and women over 30 with property could. In 1928 women voted equally from 21." loading="lazy">
+  <figcaption>Voting rights in 1914, 1918 and 1928 compared by age.</figcaption>
+</figure>
+
+
 ## How did Depression and war affect equality, 1928–45?
 
 **Eugenics** — the idea of "improving" the population by discouraging disabled and poor people from having
@@ -99,6 +105,12 @@ vouchers, restricting immigration for the first time. **Ludwig Guttmann** organi
 for disabled ex-servicemen (1948), the origin of the **Paralympic** movement. The **Wolfenden Report (1957)**
 recommended decriminalising private homosexual acts between consenting adult men.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--05-bd-immigration.webp" width="900" height="948" alt="A vertical timeline of seven events from 1919 to 1971 marked as arrival or culture, restriction or hostility: Aliens Restriction Act, Windrush, Notting Hill riots, Claudia Jones’ Carnival, Commonwealth Immigrants Act, Powell’s speech, Immigration Act." loading="lazy">
+  <figcaption>Arrival and culture went alongside restrictions and hostility.</figcaption>
+</figure>
+
+
 ## What civil rights changes happened, c1962–86?
 
 The **Bristol Bus Boycott (1963)** forced a bus company to end its ban on black crews. In 1968 women sewing
@@ -112,6 +124,12 @@ schools. **Comprehensive schools** spread from 1965 and **university grants** wi
 **Enoch Powell**'s "Rivers of Blood" speech (1968) stirred anti-immigration feeling, the National Front grew,
 and the **Immigration Act (1971)** further restricted entry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--04-bd-protest.webp" width="900" height="854" alt="Three pairs link a protest to a government response: Bristol Bus Boycott 1963 to Race Relations Act 1965, Dagenham strike 1968 to Equal Pay Act 1970, and the Stephen Lawrence case 1993 to the Macpherson Report 1999." loading="lazy">
+  <figcaption>Protest often prompted government action, two to six years later.</figcaption>
+</figure>
+
+
 ## How did opportunity and culture change, 1986–2010?
 
 The **National Council for Civil Liberties** (Liberty) campaigned on rights. The racist murder of **Stephen
@@ -124,6 +142,12 @@ and higher education expanded. Barriers included religious intolerance, institut
 Wales), disability discrimination (addressed partly by the Disability Discrimination Act 1995) and continuing
 inequality. The **Equality Act (2010)** brought earlier anti-discrimination laws into one framework protecting
 characteristics including race, sex, disability, sexual orientation and religion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--03-bd-laws.webp" width="900" height="1202" alt="Four rows list four laws or reports each in date order for women, race and immigration, disability and sexual minorities, marked plus if they widened rights and minus if they restricted. An arrow leads to the 2010 Equality Act covering race, sex, disability, sexual orientation and religion." loading="lazy">
+  <figcaption>Laws and reports by group, ending in the Equality Act 2010.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -143,3 +167,9 @@ Answers often weigh class inequality, which persisted despite education reform.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B8 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-britain-diversity--01-bd-stages.webp" width="900" height="978" alt="Five stacked stages with a pictogram each: 1914 to 1928 votes and war work, 1928 to 1945 Depression and war, 1944 to 1962 war and empire end, c1962 to 1986 civil rights, 1986 to 2010 opportunity and culture." loading="lazy">
+  <figcaption>The five key topics run in order from 1914 to 2010.</figcaption>
+</figure>
+

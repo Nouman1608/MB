@@ -116,6 +116,27 @@ different extents. This is exactly why ligand exchange changes colour:
 
 A d⁰ ion such as Sc³⁺ or a d¹⁰ ion such as Zn²⁺ cannot undergo an ordinary d–d transition of this kind: there is no occupied d orbital or no available d vacancy. Their common simple aqueous ions are colourless, but d⁰ or d¹⁰ does not guarantee that every compound is colourless; charge-transfer or ligand-centred absorption can also give colour. Scandium and zinc are excluded by this course's transition-element definition because their usual ions lack an incomplete d subshell, not because colour is a defining test.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--01-d-orbital-splitting.webp" width="900" height="990" alt="Schematic energy-level diagram. A free ion has five d orbitals at the same energy (degenerate). With six ligands (octahedral) they split into three lower and two higher orbitals separated by delta E; with four ligands (tetrahedral) it is two lower and three higher, with a smaller gap. Small pictures show six ligands round the metal and four ligands round the metal." loading="lazy">
+  <figcaption>Ligands split the five d orbitals into two sets: 3 lower and 2 higher in octahedral complexes, 2 lower and 3 higher in tetrahedral ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--02-colour-from-absorption.webp" width="900" height="810" alt="A photon is absorbed and an electron jumps from a lower to a higher d orbital across the gap delta E (energy = hf). A twelve-segment colour wheel shows the absorbed red-orange segment at the top and the opposite blue-green segment, the colour seen, at the bottom. A flow of three boxes reads white light, complex absorbs, eye sees the rest." loading="lazy">
+  <figcaption>The colour seen is the complement of the light absorbed when a d electron is promoted across delta E.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--03-d-count-colour.webp" width="900" height="900" alt="Three octahedral d-orbital diagrams with electrons as arrows. Sc3+ (d0) has no electron to promote and is colourless. Cu2+ (d9) has a vacancy in the upper set so an electron can jump and the aqueous ion is pale blue. Zn2+ (d10) has no vacant d orbital and is colourless. A note says charge-transfer or other absorption can colour some d0 or d10 compounds." loading="lazy">
+  <figcaption>An ion needs at least one d electron and one vacancy in the split set to show ordinary d-d colour.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--04-ligand-exchange-colour.webp" width="900" height="950" alt="Top: pale blue [Cu(H2O)6]2+ becomes deep blue [Cu(NH3)4(H2O)2]2+ when NH3 replaces water; NH3 gives a larger delta E (longer bar). Bottom: pink octahedral [Co(H2O)6]2+ becomes blue tetrahedral [CoCl4]2- with four ligands; the tetrahedral complex has a smaller delta E (shorter bar). Bar lengths are schematic." loading="lazy">
+  <figcaption>A different ligand, or a change from octahedral to tetrahedral, changes delta E and therefore the colour seen.</figcaption>
+</figure>
+
+
 ## Stereoisomerism in complexes
 
 Complexes can show the same two broad categories of stereoisomerism met in
@@ -145,6 +166,17 @@ around an octahedral centre:
   chiral.
 
 **Bond-dipole cancellation** can be compared in an idealised model with the same metal–ligand bond types: identical opposite bonds cancel, whereas an adjacent arrangement may leave a non-zero vector sum. Do not infer polarity from the words cis or trans alone. For a charged complex, an absolute dipole moment depends on the coordinate origin; keep this school comparison explicitly about the stated ligand geometry and bond-vector model.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--05-cis-trans-polarity.webp" width="900" height="1210" alt="Top: square planar [Pt(NH3)2Cl2]. In the cis form the two Cl ligands are adjacent (cisplatin) and the drawn bond dipoles do not cancel, so it is polar; in the trans form identical bonds are opposite and cancel, so it is non-polar. Bottom: octahedral [Co(NH3)4(H2O)2]2+ with the two water ligands adjacent (cis) or opposite (trans)." loading="lazy">
+  <figcaption>Cis isomers have adjacent matching ligands; in the bond-dipole model the Pt cis isomer is polar and the trans isomer is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--06-optical-isomers-en.webp" width="900" height="950" alt="Two three-dimensional drawings of [Ni(en)3]2+ either side of a dashed mirror line. A nickel ion sits at the centre of six nitrogen atoms; each coloured arc is one en ligand linking two nitrogens. The right-hand drawing is the mirror image of the left; the propeller-like arrangement means they cannot be superimposed, so they are optical isomers." loading="lazy">
+  <figcaption>Three en ligands wrapped round an octahedral centre give non-superimposable mirror images.</figcaption>
+</figure>
+
 
 ## Stability constants, Kstab
 
@@ -194,6 +226,12 @@ Rearranging: [[Cu(H₂O)₆]²⁺] = [[Cu(NH₃)₄(H₂O)₂]²⁺] / (Kstab ×
 The vanishingly small concentration of the original hexaaqua ion remaining
 confirms just how strongly the equilibrium has shifted towards the
 ammine complex — consistent with the large Kstab value.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-transition-elements-colour-stereoisomerism-and-stability-constants--07-kstab-worked.webp" width="900" height="1180" alt="The equilibrium [Cu(H2O)6]2+ + 4NH3 forming [Cu(NH3)4(H2O)2]2+ + 4H2O, with water left out of the expression. Kstab is the complex concentration divided by aqua ion concentration times NH3 to the fourth power. A log-scale bar chart gives 0.0500 for the complex, 0.100 for ammonia and 4.17 x 10^-11 mol per dm cubed for the aqua ion, for Kstab 1.2 x 10^13." loading="lazy">
+  <figcaption>With Kstab = 1.2 x 10^13 almost no aqua ion remains: 4.17 x 10^-11 mol dm^-3 in the worked example.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

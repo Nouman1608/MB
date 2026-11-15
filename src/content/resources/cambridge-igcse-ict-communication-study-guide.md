@@ -63,6 +63,12 @@ Other functions you must be able to use or describe include **reply**, **reply a
 - Compress large attachments or share a link instead.
 - Do not reveal other people's email addresses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--13-email-parts.webp" width="900" height="830" alt="An email window labelled with To, Cc, Bcc, Subject, Attachment, Body and Signature, each with a short description from the lesson." loading="lazy">
+  <figcaption>The parts of an email message.</figcaption>
+</figure>
+
+
 ### Legal and safety points
 
 Employers often have an **acceptable use policy** that limits personal email at work. Email must not be used to harass or threaten, or to send copyrighted material to others without permission. **Spam** is unsolicited junk email, usually sent in bulk. To reduce it, do not publish your email address on websites, do not reply to spam, use a spam filter and give your address only to trusted sites. Do not open attachments or follow links in unexpected emails, because they may contain malware or lead to phishing sites.
@@ -78,6 +84,12 @@ A head of year, Mr Okoro, must send a trip reminder to 45 parents and wants the 
 - **Attachment**: a permission form saved as a PDF of small size.
 
 Reasoning: using Bcc for parents protects their privacy, so that a reply-all does not spread personal addresses. Using Cc for the deputy head keeps them informed openly. If a question asks for a mistake, sending to all 45 in the To field would show everyone's address.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--14-to-cc-bcc.webp" width="900" height="810" alt="Mr Okoro puts himself or the school office in To, the deputy head in Cc, and the 45 parents in Bcc. To and Cc are seen by everyone; Bcc addresses are hidden from each other. Putting all 45 in To would show everyone every address." loading="lazy">
+  <figcaption>Which field to use, and who can see whom.</figcaption>
+</figure>
+
 
 ### Comparing email with other methods
 
@@ -98,6 +110,12 @@ A **search engine** finds web pages that match the words you enter. To search we
 - Look beyond the first results and refine the search if the first attempt gives poor results.
 - Use **bookmarks** or favourites to save useful pages, and the browser **history** to find pages you have visited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--17-search-operators.webp" width="900" height="900" alt="Three Venn diagrams on twelve illustrative sample pages: solar AND panels (4 pages), solar OR panels (11 pages), and solar AND panels NOT toys (3 pages)." loading="lazy">
+  <figcaption>AND narrows, OR widens, NOT excludes.</figcaption>
+</figure>
+
+
 ### Evaluating the reliability of information
 
 Information on the internet is not controlled, so it needs checking. Questions to ask:
@@ -110,6 +128,12 @@ Information on the internet is not controlled, so it needs checking. Questions t
 
 Domain endings can give hints (for example, government or educational sites are often trusted) but are not proof. A wiki or a forum can be edited by anyone, and is generally less reliable than a published source with a named expert author.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--19-check-reliability.webp" width="900" height="870" alt="Five questions to ask about a source, then the lesson's example: a national health organisation, updated this year and with references, is more reliable than an anonymous blog or a wiki or forum anyone can edit." loading="lazy">
+  <figcaption>Five checks for a reliable source.</figcaption>
+</figure>
+
+
 ### Worked example: refine a search
 
 A student wants information about how many hours of sleep teenagers need, but a search for `sleep` returns millions of results about mattresses and songs. A better strategy:
@@ -119,9 +143,26 @@ A student wants information about how many hours of sleep teenagers need, but a 
 3. Add `NOT mattress` to remove irrelevant pages.
 4. Check the source of the first result: a national health organisation, last updated this year, with references. This is more reliable than an anonymous blog.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--18-refine-search.webp" width="900" height="910" alt="Four rows of twelve illustrative result pages: sleep gives 12, teenagers sleep hours recommended gives 4, adding the exact phrase gives 3, and adding NOT mattress gives 2." loading="lazy">
+  <figcaption>Each refinement removes irrelevant results (page counts are illustrative).</figcaption>
+</figure>
+
+
 ### Advantages and disadvantages of the internet
 
 Advantages: a huge amount of information, quick, up to date and available at any time, with multimedia. Disadvantages: unreliable or biased content, inappropriate material, too much information to sort, and the dangers of malware and fraud. Always answer with both sides if asked to discuss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--15-internet-vs-web.webp" width="900" height="780" alt="A large area labelled Internet, a worldwide network of networks. Inside it, the World Wide Web holds web pages. A web browser reaches those pages." loading="lazy">
+  <figcaption>The web is the collection of pages accessed through the internet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-communication-study-guide--16-url-parts.webp" width="900" height="520" alt="An example address split into protocol (https), domain name and path or file name. The address is illustrative." loading="lazy">
+  <figcaption>The three parts of a URL.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

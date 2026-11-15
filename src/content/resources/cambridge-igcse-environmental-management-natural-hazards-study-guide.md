@@ -56,9 +56,26 @@ The point inside the Earth where an earthquake starts is the **focus**; the poin
 
 Primary effects: buildings and bridges collapse, people are killed or injured, and roads and pipes are broken. Volcanoes add lava flows, ash fall and pyroclastic flows. Secondary effects: fires from broken gas pipes, landslides, tsunamis after undersea quakes, contaminated water and disease, homelessness, and economic loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--18-h-storm-surge.webp" width="900" height="700" alt="A cross-section from sea to low coast. Strong wind and low pressure raise the sea surface above normal sea level, and this storm surge flows onto the low coast and floods it. The lesson says this is often the cause of the greatest loss of life." loading="lazy">
+  <figcaption>A storm surge is a rise in sea level driven by wind and low pressure.</figcaption>
+</figure>
+
+
 ### Management
 
 Earthquakes cannot be reliably predicted, so measures concentrate on preparation: earthquake-resistant buildings, strict building codes, public drills, emergency supplies and land-use planning. Volcanoes can often be monitored with seismometers, gas sensors and ground-deformation measurements, which allows evacuation zones and warnings. Fertile volcanic soils and geothermal energy explain why some people choose to live near volcanoes, which is a useful point for balanced answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--14-h-plate-boundaries.webp" width="900" height="1000" alt="Destructive boundary: an oceanic plate is forced beneath a continental plate, with earthquakes along the sinking plate and an explosive volcano above. Constructive boundary: plates move apart and magma rises, giving smaller earthquakes and gentler eruptions. Conservative boundary, from above: plates slide past each other, giving earthquakes and no volcanoes." loading="lazy">
+  <figcaption>Where plates meet, move apart or slide past each other decides the hazard.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--15-h-focus-epicentre.webp" width="900" height="940" alt="A ground cross-section with the focus underground on a fault, rings of seismic waves spreading out, and the epicentre on the surface directly above the focus. Houses mark places where shaking is felt. Magnitude is the size of the quake on the Richter or moment magnitude scales; intensity of shaking at a place is described by the Mercalli scale." loading="lazy">
+  <figcaption>The focus is underground; the epicentre is directly above it on the surface.</figcaption>
+</figure>
+
 
 ## Tropical cyclones
 
@@ -75,6 +92,12 @@ Tropical cyclones, also called hurricanes or typhoons depending on the region, f
 
 Satellites and radar track storms, giving days of warning. Preparation includes evacuation plans, cyclone shelters, strengthened buildings, mangrove protection and coastal defences, and education so that people respond to warnings. Wealthier countries can invest in forecasting and sturdier infrastructure, while poorer countries often rely on community preparedness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from sea at least about 26.5 degrees Celsius rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
+  <figcaption>A cyclone feeds on warm sea water and weakens over land or colder water.</figcaption>
+</figure>
+
+
 ## Flooding
 
 Floods occur when a river exceeds its channel capacity. **Causes** include prolonged or intense rainfall, rapid snowmelt, saturated or impermeable ground, urbanisation that sends water quickly to rivers, deforestation, and coastal flooding from surges. **Impacts** include loss of life, damaged property, ruined crops and contaminated water, though floods also deposit fertile silt on floodplains.
@@ -87,6 +110,12 @@ Management falls into two groups:
 | Soft engineering | Floodplain zoning, afforestation, wetland restoration, warning systems | Cheaper and more sustainable but may take time or land |
 
 A hydrograph shows how river discharge changes after rainfall. The **lag time** is the delay between peak rainfall and peak discharge. Urban surfaces shorten lag time and increase the peak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--20-h-flood-hard-soft.webp" width="900" height="840" alt="A river valley cross-section. On the left, hard engineering: an embankment beside the river and a flood wall protecting houses. On the right, soft engineering: a wetland beside the river, farmland instead of houses on the floodplain, and trees on the slope. Hard is effective but costly and can move the problem downstream; soft is cheaper and more sustainable but may take time or land." loading="lazy">
+  <figcaption>Hard engineering builds defences; soft engineering works with the landscape.</figcaption>
+</figure>
+
 
 ## Drought
 
@@ -102,9 +131,21 @@ On the Richter scale each whole number rise means the recorded ground motion is 
 2. Ground motion ratio = 10 x 10 = 100 times larger.
 3. Energy ratio = 32 x 32 = about 1,000 times larger (the exact value is 31.6 squared, close to 1,000).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--16-h-magnitude-steps.webp" width="900" height="820" alt="Bars drawn to scale for magnitudes 5.4, 6.4 and 7.4. Each whole number multiplies ground motion by 10, so 7.4 is 100 times 5.4. Each whole number multiplies energy by about 32, so 7.4 releases about 1,000 times the energy of 5.4." loading="lazy">
+  <figcaption>Two magnitude units mean 100 times the ground motion and about 1,000 times the energy.</figcaption>
+</figure>
+
+
 ## Worked example 2: lag time
 
 Heavy rain peaks at 04:45 on a Monday. The river discharge peaks at 11:15 the same day. Lag time = 11:15 - 04:45 = 6 hours 30 minutes. After the catchment is built over with roads and roofs, the same storm gives a peak at 07:15, so the new lag time is 2 hours 30 minutes. The reduction is 4 hours, which leaves less time to warn communities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--19-h-hydrograph-lag.webp" width="900" height="860" alt="A rainfall chart above a river hydrograph. Rain peaks at 04:45 on Monday. The natural catchment peaks at 11:15, a lag of 6 hours 30 minutes. After the catchment is built over, the peak is higher and comes at 07:15, a lag of 2 hours 30 minutes, 4 hours shorter." loading="lazy">
+  <figcaption>Built-over surfaces shorten lag time and raise the peak.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

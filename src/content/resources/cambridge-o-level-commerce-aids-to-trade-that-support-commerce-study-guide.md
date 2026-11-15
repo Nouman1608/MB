@@ -64,6 +64,12 @@ Topic 1 lists the six aids to trade: communications, transport, warehousing, adv
 
 The syllabus names eight **factors affecting the choice of medium**: the audience, cost, cultural and legal considerations, flexibility to change, local and international market coverage, multi-channel advertising, timing and type of product. A good answer applies them: a small café with a local market and a low budget would choose leaflets, a signboard and social media, not national television.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--01-media-cafe.webp" width="900" height="740" alt="A small café with a local market and a low budget is shown choosing leaflets, a signboard and social media, each marked Choose. National television is marked Avoid because it is very expensive to make and broadcast." loading="lazy">
+  <figcaption>Which media suit a small local café with a low budget?</figcaption>
+</figure>
+
+
 ## How do advertisers appeal to customers? (5.1.3)
 
 The **methods of appeal** listed are emotion, fear, humour, rational, ambition, social acceptance, romantic, adventure, music, and endorsement by celebrities and social media influencers. A **rational** appeal uses facts, such as fuel economy figures for a car; a **fear** appeal shows what could go wrong, which suits insurance or road safety; **social acceptance** suggests that buying the product will help you fit in, which suits fashion. In an exam, explain why the appeal suits the product and audience in the scenario.
@@ -82,6 +88,17 @@ The **methods of appeal** listed are emotion, fear, humour, rational, ambition, 
 | Sources of finance | Loan, overdraft, mortgage, hire purchase |
 
 Some pairs are often confused. A **debit card** takes money straight from the current account; a **credit card** borrows money that is repaid later, with interest if the full balance is not paid. A **standing order** pays a fixed amount on a fixed date and is changed by the account holder; a **direct debit** lets the receiver collect an amount that can vary, such as an electricity bill. A **loan** is a fixed sum repaid in instalments over an agreed period; an **overdraft** lets a current account go below zero up to a limit and suits short-term cash shortages. A **mortgage** is a long-term loan secured on property. **Hire purchase** lets a buyer use goods immediately while paying in instalments; the goods belong to the buyer only after the last payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--02-standing-order-direct-debit.webp" width="900" height="1070" alt="Two flow pictures compare a standing order, which the account holder sets up for a fixed amount on a fixed date, with a direct debit, where the receiver asks for payment and the amount can vary. Bar heights are illustrative." loading="lazy">
+  <figcaption>A standing order is set up by the payer for a fixed amount, whereas a direct debit is collected by the receiver and can vary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--03-debit-vs-credit.webp" width="900" height="870" alt="Today and Later timelines show a debit card paying the shop straight from your own account, while a credit card has the bank lend the money and you repay it later with interest if the balance is not paid in full." loading="lazy">
+  <figcaption>A debit card takes money straight from the account; a credit card borrows money that is repaid later.</figcaption>
+</figure>
+
 
 ## How has digital technology changed banking? (5.2.2)
 
@@ -138,6 +155,17 @@ You also need the **financial terms** sales, revenue, profit, working capital, a
 | Working capital | Current assets - current liabilities |
 | Mark-up (%) | (Average selling price - unit cost) / unit cost x 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--06-revenue-to-net-profit.webp" width="900" height="890" alt="A waterfall chart for 400 lamps bought at $15 and sold at $24: revenue $9,600, less cost of sales $6,000 gives gross profit $3,600, less expenses $1,500 gives net profit $2,100." loading="lazy">
+  <figcaption>Revenue falls to gross profit after cost of sales and to net profit after expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--07-markup-vs-margin.webp" width="900" height="890" alt="The same $9 profit on a lamp costing $15 and selling at $24 gives a mark-up of 60 percent (divided by cost) but a gross profit margin of 37.5 percent (divided by selling price)." loading="lazy">
+  <figcaption>Mark-up is measured on cost and gross profit margin on revenue, so mark-up is the larger percentage.</figcaption>
+</figure>
+
+
 ## Worked example 1: commercial calculations
 
 A trader buys 400 lamps at $15 each and sells all of them at $24 each. Expenses for the year are $1,500. Current assets are $6,200 and current liabilities are $2,700.
@@ -159,6 +187,17 @@ A shop insures its stock worth $64,000. The insurer charges $1.25 per $100 insur
 - Premium = 640 x 1.25 = **$800** a year
 
 If the shop installs a sprinkler system and the rate falls to $1.00 per $100, the premium falls to 640 x 1.00 = $640, a saving of $160.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--04-pooling-of-risk.webp" width="900" height="920" alt="Twenty policyholders pay small premiums into a common fund. In an illustrative year two suffer a loss and the fund compensates them, so a business can accept risks it could never afford alone." loading="lazy">
+  <figcaption>Many pay small premiums into a fund so that the few who suffer a loss can be compensated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide--05-premium-calculation.webp" width="900" height="1100" alt="A grid of 640 blocks of $100 shows stock worth $64,000. At $1.25 per $100 the premium is $800; with sprinklers the rate is $1.00 and the premium $640, saving $160." loading="lazy">
+  <figcaption>Premium = (value insured / 100) x rate per $100, so $64,000 at $1.25 gives $800 and at $1.00 gives $640.</figcaption>
+</figure>
+
 
 ## How can a business improve its performance? (5.4.3)
 

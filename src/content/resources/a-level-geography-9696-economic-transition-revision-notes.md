@@ -66,6 +66,17 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 | Spread effects | Flows that benefit the periphery: demand for its products, diffusion of investment and technology |
 | Divergence / convergence | Regional gaps widening / narrowing over time |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--02-et-measures.webp" width="900" height="864" alt="A grid showing which dimensions GNI per capita, HDI, IHDI, Gini and MPI count. Which of income, health, schooling, living standards and spread each inequality measure counts." loading="lazy">
+  <figcaption>Which of income, health, schooling, living standards and spread each inequality measure counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--06-et-backwash-spread.webp" width="900" height="1060" alt="Arrows between core and periphery, with before and after bars for divergence and convergence. Backwash pulls workers and capital to the core while spread pushes benefits out; the stronger one decides divergence or convergence." loading="lazy">
+  <figcaption>Backwash pulls workers and capital to the core while spread pushes benefits out; the stronger one decides divergence or convergence.</figcaption>
+</figure>
+
+
 ## Models and theories at a glance
 
 | Who and when | What | Key idea | One evaluation point |
@@ -78,6 +89,22 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 | Mahbub ul Haq and UNDP (1990) | Human Development Index | Development is more than income | Only three dimensions; national averages hide inequality |
 | OPHI and UNDP (2010) | MPI | Poverty as overlapping deprivations | Results shift with chosen weights and cut-offs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--01-et-sectors.webp" width="900" height="858" alt="Four sector icons and the shift as an economy develops. The four economic sectors and the order in which employment shifts as incomes rise." loading="lazy">
+  <figcaption>The four economic sectors and the order in which employment shifts as incomes rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--04-et-friedmann.webp" width="900" height="910" alt="Four panels of Friedmann’s stages, from independent centres to linked cities. Friedmann’s four stages of core-periphery development, schematic and not to scale." loading="lazy">
+  <figcaption>Friedmann’s four stages of core-periphery development, schematic and not to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--05-et-cumulative.webp" width="900" height="800" alt="A loop from initial advantage to firms, income, infrastructure and more firms. Myrdal’s cumulative causation as a loop that widens the gap." loading="lazy">
+  <figcaption>Myrdal’s cumulative causation as a loop that widens the gap.</figcaption>
+</figure>
+
+
 ## Case study cards
 
 **TNC (14.2): Nike, Inc.** Founded 1964 as Blue Ribbon Sports; renamed Nike in 1971. World headquarters near Beaverton, Oregon (about 10,500 staff in management, research, design and marketing). Regional headquarters in Hilversum (Netherlands) and Shanghai. Nearly all footwear and apparel made by independent contract manufacturers. In fiscal 2025: 97 footwear factories in 11 countries; 303 apparel factories in 34 countries; Vietnam, Indonesia and China made about 51%, 28% and 17% of Nike Brand footwear. Owned Air-Sole plant in Dong Nai Province, Vietnam. Revenue US$46.3 billion; about 77,800 employees. Use it for: hierarchy of functions, NIDL, subcontracting versus FDI, labour criticism in the 1990s.
@@ -87,6 +114,17 @@ Track your progress on the [Cambridge A Level Geography hub](/boards/cambridge/a
 **Offshoring (14.2): India IT and business services.** English-speaking graduates, lower salaries, time-zone advantage, Software Technology Parks of India (1991). Bengaluru is the main hub; about 5.4 million direct jobs in 2023.
 
 **Regional policy (14.4): China Western Development.** Proposed 1999; 12 provincial-level units. Before it, the west's share of national output fell from about 20.9% (1990) to 17.1% (2000); Shanghai's GDP per capita went from 7.3 to 12.9 times Guizhou's. Projects: Qinghai-Tibet Railway (Golmud-Lhasa opened 2006), West-East Gas Pipeline (from 2002), West-East electricity transfer. Companion plans: Northeast (2003), Central China (2004). Outcome: growth in Chongqing and Chengdu, but Guizhou still had the fourth-lowest provincial GDP per capita in 2020. Criticism: Han in-migration and resource extraction in Tibet and Xinjiang.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--03-et-nike.webp" width="900" height="870" alt="Nike structure: world HQ, two regional HQs, contract factories, owned Air-Sole plants, and shares of footwear by country. Nike designs in the USA and relies mostly on contract factories in Vietnam, Indonesia and China." loading="lazy">
+  <figcaption>Nike designs in the USA and relies mostly on contract factories in Vietnam, Indonesia and China.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--07-et-china-gap.webp" width="900" height="1000" alt="Bar charts of the west’s output share, Shanghai to Guizhou GDP per person, and the west’s land and population shares. China’s east-west gap in 1990, 2000 and 2002, using the lesson’s figures." loading="lazy">
+  <figcaption>China’s east-west gap in 1990, 2000 and 2002, using the lesson’s figures.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

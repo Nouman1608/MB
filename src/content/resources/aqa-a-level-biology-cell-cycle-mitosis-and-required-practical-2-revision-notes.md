@@ -70,12 +70,29 @@ Learn the stage order as **I-P-M-A-T**, then cytokinesis.
 - In anaphase the chromatids look V-shaped because the spindle fibre pulls at the centromere and the arms trail behind.
 - Each daughter nucleus gets one chromatid from every chromosome, so both have the full, identical set.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--02-mitosis-stages.webp" width="900" height="1285" alt="Six small cell diagrams in a grid showing interphase, prophase, metaphase, anaphase, telophase and cytokinesis. Chromosomes are shown condensing, lining up at the equator, being pulled apart as V shapes, and ending in two nuclei and then two cells." loading="lazy">
+  <figcaption>The stages of mitosis and cytokinesis, drawn with four chromosomes for clarity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--03-chromatid-v-shape.webp" width="900" height="980" alt="Three rows show a single chromosome, then the same chromosome after replication as two sister chromatids joined at a centromere, then an anaphase chromatid being pulled by a spindle fibre attached at the centromere with its arm trailing, giving a V shape." loading="lazy">
+  <figcaption>A replicated chromosome is two sister chromatids; in anaphase the spindle fibre pulls the centromere first, giving V shapes.</figcaption>
+</figure>
+
+
 ## Mitosis, tumours and cancer
 
 - Mitosis is normally a **controlled** process.
 - **Uncontrolled cell division** can produce a tumour, and some tumours become cancers.
 - Many cancer treatments aim to **control the rate of cell division**. For example, some drugs stop DNA from replicating or stop the spindle from working, so cells are stopped in the cycle. Because rapidly dividing normal cells (such as hair follicle and gut lining cells) are affected too, these treatments have side effects.
 - How genes control the cycle, and why tumours form, is A-level content in section 3.8: see the [regulation of gene expression and cancer notes](/resources/aqa-a-level-biology-regulation-of-gene-expression-and-cancer-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--01-cell-cycle.webp" width="900" height="1150" alt="Ring diagram of the eukaryotic cell cycle with a long interphase arc, a shorter mitosis arc and a short cytokinesis arc. No-entry symbols show cancer drugs stopping DNA replication in interphase and stopping spindle fibre formation in mitosis." loading="lazy">
+  <figcaption>The cell cycle: interphase, mitosis, then cytokinesis, with the two points where cancer drugs act.</figcaption>
+</figure>
+
 
 ## Binary fission in prokaryotes
 
@@ -85,6 +102,12 @@ Learn the stage order as **I-P-M-A-T**, then cytokinesis.
 4. Each daughter cell has **one copy of the circular DNA** but a **variable number of copies of plasmids**.
 
 There is no spindle and no nucleus in a prokaryote, so binary fission is not mitosis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--07-binary-fission.webp" width="900" height="1036" alt="Four rows show a bacterium with a circular chromosome and plasmids, then replication of both, then the cell pinching in the middle, then two daughter cells each with one circular DNA and different numbers of plasmids." loading="lazy">
+  <figcaption>Binary fission: DNA and plasmids replicate, the cytoplasm divides, and each daughter gets one circular DNA but a variable number of plasmids.</figcaption>
+</figure>
+
 
 ## Viruses do not divide
 
@@ -126,17 +149,35 @@ Worked reminder: 36 cells in mitosis out of 240 counted. Mitotic index = 36 ÷ 2
 
 **Using stage counts to estimate time.** The proportion of cells in a stage reflects how long that stage lasts. If 12 out of 240 cells are in metaphase and the cycle takes 20 hours, metaphase lasts about (12 ÷ 240) × 20 = **1 hour**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--04-mitotic-index.webp" width="900" height="1185" alt="A 20 by 10 grid of 200 dots with 34 coloured dots for cells in mitosis and 166 pale dots for interphase. Below it the calculation 34 divided by 200 equals 0.17, and a 24 hour bar showing 4.08 hours in mitosis and 0.84 hours in metaphase." loading="lazy">
+  <figcaption>Worked example: 34 of 200 cells in mitosis gives a mitotic index of 0.17; the same proportions give the time spent in each stage.</figcaption>
+</figure>
+
+
 ### Cell size in the practical
 
 Actual size = size of image ÷ magnification
 
 Measure cells with a calibrated eyepiece graticule. Worked reminder: a cell measures 6 eyepiece divisions, each worth 2.5 µm at this objective, so it is 6 × 2.5 = **15 µm** long. A drawing of a 15 µm cell that is 60 mm long has a magnification of 60 000 ÷ 15 = **×4000**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--06-actual-size.webp" width="900" height="930" alt="A magnified cell with a 24 millimetre measurement line, an arrow showing division by 400, and the result 0.06 millimetres which equals 60 micrometres." loading="lazy">
+  <figcaption>Worked example 3: 24 mm image at x400 is 0.06 mm, or 60 micrometres, in real life.</figcaption>
+</figure>
+
+
 ### Making counts valid and reliable
 
 - Count many cells, from several fields of view, and from more than one root tip.
 - Decide in advance how to score cells you are unsure about, and use the same rule throughout.
 - Avoid counting the same cell twice; work across the slide in a set pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-cycle-mitosis-and-required-practical-2--05-root-tip-squash.webp" width="900" height="1166" alt="Five numbered steps with simple icons: a root tip being cut, a beaker of warm acid, a dropper adding stain, a slide with a cover slip being pressed, and a microscope. Short labels give the purpose of each step and a safety box mentions eye protection and gloves." loading="lazy">
+  <figcaption>The five stages of required practical 2: cut, acid, stain, squash and view.</figcaption>
+</figure>
+
 
 ## Must-know distinctions
 

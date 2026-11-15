@@ -51,6 +51,22 @@ The three AS European topics rotate between Paper 1 (Historical Sources, 15 + 25
 
 **Economics.** The Prussian customs union of 1818 grew into the **Zollverein** (1834), which excluded Austria and drew the smaller states towards Prussia economically; **railways** from the mid-1830s linked markets. But the **economic crisis of 1846-47** -- harvest failures, high food prices and unemployment -- coincided with crowded towns and skilled artisans losing out to factory production. Hunger turned political grievance into revolt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--07-ger-two-aims.webp" width="900" height="890" alt="Two columns. Liberalism: a parliament building icon; wanted constitutions, a free press and elected assemblies; mostly the professional and commercial middle class; strong in the south-west and Rhineland. Nationalism: a black-red-gold flag icon; wanted one German state; grew through universities and writers and the French war scare of 1840. Below, a note says the Indemnity Bill of 1866 marked liberalism being subordinated to nationalism, and that Bismarck delivered nationalism." loading="lazy">
+  <figcaption>Liberalism (constitutions and rights) and nationalism (one German state) were separate aims; keep them apart in your answers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--08-ger-confederation-repression.webp" width="900" height="749" alt="Vertical timeline. 1815: the Congress of Vienna creates a German Confederation of 39 states under Austrian presidency, with a Diet at Frankfurt and no common army or government. 1819: the Carlsbad Decrees bring censorship, supervised universities and a ban on student societies, after the murder of Kotzebue. 1830: revolutions bring constitutions to several smaller states. 1832: the Hambach Festival, then the Six and Ten Articles tighten control." loading="lazy">
+  <figcaption>A weak Confederation, and Metternich’s repression after 1819 and 1832.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--09-ger-zollverein-schematic.webp" width="900" height="1170" alt="Schematic, not a map. Prussia is a large circle at the centre of a dashed ring labelled Zollverein. Eight smaller circles representing other German states are joined to Prussia by thick lines for the customs union and to each other by dashed railway links. Austria is a separate circle outside the ring, marked as excluded. Notes: 1818 Prussian customs union; 1834 Zollverein formed without Austria; railways from the mid-1830s link markets." loading="lazy">
+  <figcaption>The Zollverein bound smaller states to Prussia economically and left Austria out.</figcaption>
+</figure>
+
+
 ## 2.2 What happened in 1848-49, and why did the revolutions fail?
 
 News of revolution in Paris in February 1848 spread east. **Metternich fell in March**. In Berlin, street fighting led **Friedrich Wilhelm IV** to withdraw troops, promise a constitution and appear wearing the black-red-gold colours. The **Frankfurt Parliament** met in May 1848 and drafted fundamental rights, but divided over whether a united Germany should include Austria (*grossdeutsch*) or not (*kleindeutsch*), lacked an army, depended on Prussia in the Schleswig-Holstein dispute and feared the radicalism of workers. When it offered the imperial crown to Friedrich Wilhelm in April 1849 he refused a crown offered by a parliament, and the assembly broke up.
@@ -58,6 +74,17 @@ News of revolution in Paris in February 1848 spread east. **Metternich fell in M
 Austria reasserted control because the conservatives kept the loyalty of their armies, while revolutionaries were divided between liberals and radicals and between national groups. Prussia's own union plan was abandoned at **Olmütz (1850)**, a humiliation that restored the Confederation under Austrian leadership.
 
 **Consequences.** Austria failed in its attempts to enter the Zollverein, which was renewed without it, while Prussian industry, coal and railways grew fast in the 1850s and Austria faced financial strain and defeat in Italy in 1859. Liberalism revived in Prussia's parliament. **Bismarck**, Prussian envoy to the Diet at Frankfurt in the 1850s, became convinced that Austria was Prussia's rival for leadership in Germany.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--10-ger-1848-49-events.webp" width="900" height="789" alt="Vertical timeline. February 1848: revolution in Paris. March: Metternich falls; in Berlin troops are withdrawn and a constitution promised. May 1848: the Frankfurt Parliament meets and drafts fundamental rights. April 1849: Friedrich Wilhelm refuses the crown offered by the parliament and the assembly breaks up. 1850: at Olmutz Prussia gives up its union plan and the Confederation is restored under Austrian leadership." loading="lazy">
+  <figcaption>From Paris to Olmutz: how the 1848 revolutions rose and failed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--11-ger-grossdeutsch-kleindeutsch.webp" width="900" height="919" alt="Two schematic panels. Grossdeutsch: Germany including Austria, with Prussia, Austria and other German states all inside one dashed boundary. Kleindeutsch: Germany without Austria, with Prussia and the other states inside the boundary and Austria outside. Below, reasons the Frankfurt Parliament failed: it divided over this question, had no army, depended on Prussia in the Schleswig-Holstein dispute, and feared worker radicalism; revolutionaries were also divided, while conservatives kept their armies." loading="lazy">
+  <figcaption>The Frankfurt Parliament could not agree whether a united Germany should include Austria.</figcaption>
+</figure>
+
 
 ## 2.3 Why was Bismarck appointed, and what did he aim for to 1866?
 
@@ -67,6 +94,12 @@ Austria reasserted control because the conservatives kept the loyalty of their a
 
 **The Seven Weeks' War (1866).** Prussian victory at Königgrätz led to the **Treaty of Prague**: Austria was excluded from German affairs, Prussia annexed several states, and the **North German Confederation** was formed. Many liberals now backed Bismarck, and the **Indemnity Bill** retrospectively approved his unconstitutional spending -- a key moment in liberalism's subordination to nationalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--12-ger-bismarck-road-1866.webp" width="900" height="1173" alt="Vertical timeline. September 1862: Bismarck appointed Minister-President in a budget dispute over the army. August 1863: Bismarck persuades Wilhelm to boycott the Congress of Princes. 1864: the Danish war fought with Austria. 1865: the Convention of Gastein gives Prussia Schleswig and Austria Holstein; Biarritz secures Napoleon III’s neutrality. 1866: secret alliance with Italy; the Seven Weeks’ War and the Prussian victory at Koniggratz; Treaty of Prague excludes Austria and forms the North German Confederation; the Indemnity Bill approves his spending." loading="lazy">
+  <figcaption>Each step isolated Austria, ending in the Prussian victory of 1866.</figcaption>
+</figure>
+
+
 ## 2.4 How and why was unification completed by 1871?
 
 The Catholic southern states -- Bavaria, Württemberg, Baden and Hesse-Darmstadt -- were linked by military treaties and the Zollverein, but elections to the **Zollparlament (1868)** returned many anti-Prussian members. **Napoleon III** wanted compensation for Prussia's gains; in the **Luxemburg crisis (1867)** Bismarck stirred German opinion against his plan to buy Luxemburg, and a conference neutralised it, leaving France humiliated. In 1870 the **Hohenzollern candidature** -- Prince Leopold's acceptance of the Spanish crown -- alarmed France; it was withdrawn, but France demanded guarantees, and Bismarck's edited **Ems Telegram** made the exchange look insulting. France declared war in July 1870.
@@ -74,6 +107,17 @@ The Catholic southern states -- Bavaria, Württemberg, Baden and Hesse-Darmstadt
 Bismarck was strong because France had no allies and a weaker army, while Moltke's Prussian army used railways and conscript reserves well. Napoleon III was captured at **Sedan** (September 1870), Paris was besieged, an **armistice was agreed on 28 January 1871**, and the **Treaty of Frankfurt (1871)** took Alsace and part of Lorraine and imposed an indemnity.
 
 The **German Empire** was proclaimed at Versailles on 18 January 1871, with Wilhelm as Kaiser. Southern states were won with concessions (Bavaria kept, for example, its own army in peacetime and its own postal and railway systems). The constitution combined a Reichstag elected by universal male suffrage with a federal Bundesrat and a Chancellor answerable to the Kaiser, not to parliament.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--13-ger-road-to-1871.webp" width="900" height="1014" alt="Vertical timeline. 1867: the Luxemburg crisis leaves France humiliated. 1868: Zollparlament elections return many anti-Prussian southerners. 1870: the Hohenzollern candidature alarms France and is withdrawn. July 1870: the edited Ems Telegram and France declares war. September 1870: Napoleon III is captured at Sedan. 18 January 1871: the German Empire is proclaimed at Versailles. 28 January 1871: armistice. 1871: Treaty of Frankfurt takes Alsace and part of Lorraine." loading="lazy">
+  <figcaption>The steps from the Luxemburg crisis to the proclamation of the German Empire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-germany-1815-71-study-guide--14-ger-reich-constitution.webp" width="900" height="890" alt="Diagram of the 1871 constitution. The Kaiser (Wilhelm) is at the top. The Chancellor below answers to the Kaiser, shown by an upward arrow, but not to parliament, shown by a dashed crossed line to the Reichstag. The Reichstag is elected by universal male suffrage. The Bundesrat is federal. A note says southern states were won with concessions such as Bavaria keeping its own peacetime army, post and railways." loading="lazy">
+  <figcaption>The Chancellor answered to the Kaiser, not to the elected Reichstag.</figcaption>
+</figure>
+
 
 ## Worked example: a Paper 2 part (b)
 

@@ -53,6 +53,17 @@ Useful ideas to be able to explain and apply:
 - **Changing power over time**: power shifts as economies grow, as alliances change and as technology alters who can project influence. Mackinder's heartland idea of 1904 is an early geopolitical theory that links physical geography to power, and it is worth knowing as a historical example, though you should criticise it as dated.
 - **Interdependence**: states that trade and invest heavily with each other are bound together, which can restrain conflict but also transmits shocks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--15-power-forms.webp" width="900" height="800" alt="Three rows. Hard power is coercion or payment, for example military force, sanctions and economic pressure. Soft power is influence through attraction, for example culture, values, education, aid and diplomacy. Economic power comes from control of markets, capital, technology and resources, and membership of trade blocs. Below, non-state actors also hold power: transnational corporations, international organisations, NGOs and influential individuals." loading="lazy">
+  <figcaption>Forms of power and the non-state actors that hold it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--16-core-periphery.webp" width="900" height="820" alt="A large circle split into an inner core and an outer ring. The core is wealthy and well-connected. The periphery ring supplies resources and labour and has less influence. Four arrows point inwards from the periphery to the core to show resources and labour flowing to the core. Schematic." loading="lazy">
+  <figcaption>Core and periphery as a simple concentric model.</figcaption>
+</figure>
+
+
 ## 11.2 Global networks and flows
 
 A **network** is a set of nodes (places) linked by connections; a **flow** is the movement along those links of goods, capital, people, ideas, data or services. Globalisation can be described as the intensification of these flows and the growing connection of distant places.
@@ -67,6 +78,12 @@ Key points for this subtopic:
 
 Measuring connection is part of the work. Indices of globalisation combine economic, social and political indicators, and you can discuss how far any single index captures reality. Always comment on what an index leaves out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--17-network-flows.webp" width="900" height="870" alt="A network of circles joined by lines. The circles are nodes, meaning places, and the lines are links. One larger hub in the centre has the most links; hubs are global cities, ports and airports. Along the links move flows: goods, capital, people and data. One node at the bottom has no links and is switched off from the network. Schematic." loading="lazy">
+  <figcaption>Nodes, links, hubs and the flows that move along them.</figcaption>
+</figure>
+
+
 ## 11.3 Human and physical influences on global interactions
 
 Not every place is connected equally, and the reasons are both human and physical.
@@ -77,6 +94,12 @@ Not every place is connected equally, and the reasons are both human and physica
 - **Barriers and filters**: tariffs, border controls, censorship and conflict slow or block flows.
 
 The **gravity model** is a simple way to express how interaction depends on size and distance: interaction between two places is proportional to the product of their sizes divided by the square of the distance between them. It is a model, so you should note its assumptions and limits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--18-connection-influences.webp" width="900" height="830" alt="A schematic cross-section from sea to inland. A natural harbour and a navigable river on the coast support a strong flow of trade across the plain. A mountain barrier stands between the coast and a remote, landlocked plateau, where a dashed weaker flow shows higher transport costs. Below are four human influences: trade agreements, political stability, infrastructure and skilled labour. Not to scale." loading="lazy">
+  <figcaption>Physical and human influences explain why places connect unequally.</figcaption>
+</figure>
+
 
 ## Worked example: applying the gravity model
 
@@ -90,6 +113,17 @@ Interaction A-B = (4.2 x 1.5) / 3 squared = 6.3 / 9 = 0.70.
 Interaction A-C = (4.2 x 0.9) / 2 squared = 3.78 / 4 = 0.945.
 
 Although C is smaller than B, it is nearer, so the model predicts more interaction between A and C. If the A-B distance doubled to 600 km (d = 6), the A-B figure would be 6.3 / 36 = 0.175, a quarter of its original value, because distance is squared. In an exam you would then evaluate: the model ignores political borders, language, transport quality and trade agreements, so a real pair of cities can interact far more or less than predicted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--19-gravity-pairs.webp" width="900" height="870" alt="Three rows of circles joined by a line. Circle area shows population in millions and line thickness shows interaction. City A has 4.2 million people. A to B, with 1.5 million people and d equals 3, gives 6.3 divided by 9 which is 0.70. A to C, with 0.9 million people and d equals 2, gives 3.78 divided by 4 which is 0.945, more than A to B although C is smaller, because it is nearer. If A to B doubles to d equals 6, the figure is 6.3 divided by 36 which is 0.175. Invented practice numbers." loading="lazy">
+  <figcaption>The lesson’s gravity-model example: nearer C interacts more with A than larger B does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--20-gravity-distance.webp" width="900" height="850" alt="A graph of interaction against distance for cities A and B using 6.3 divided by d squared. The curve falls steeply and flattens. At d equals 3 interaction is 0.70. At d equals 6 it is 0.175. Doubling the distance from 3 to 6 cuts the interaction to a quarter. Invented practice numbers." loading="lazy">
+  <figcaption>Distance is squared, so doubling it cuts interaction to a quarter.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

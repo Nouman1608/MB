@@ -65,6 +65,12 @@ Rivalry had **economic** roots (Germany's rapid industrial growth challenged Bri
 roots (Germany's demand for a "place in the sun") and **military** roots — conscript armies, war plans
 and an arms race. Each side's defensive arrangements looked threatening to the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--01-ww1-alliances.webp" width="900" height="760" alt="Two shaded camps. On the left the Triple Alliance of 1882 joins Germany, Austria-Hungary and Italy with solid lines. On the right the Triple Entente joins France and Russia (alliance, 1894) and Britain to France (1904) and Russia (1907) by dashed entente lines. Below, rivalry had economic, imperial and military roots, and each side’s defences looked threatening to the other." loading="lazy">
+  <figcaption>The two alliance systems and the three roots of rivalry.</figcaption>
+</figure>
+
+
 ## Why did tension grow between 1905 and 1914?
 
 **Anglo-German rivalry.** Britain launched HMS *Dreadnought* in 1906, making older battleships obsolete
@@ -89,6 +95,17 @@ Sarajevo by Gavrilo Princip, a Bosnian Serb linked to the Black Hand. Germany ga
 mobilised; Germany declared war on Russia (1 August) and France (3 August) and invaded Belgium, and
 Britain, citing the 1839 Treaty of London guaranteeing Belgian neutrality, declared war on 4 August.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--02-ww1-tension.webp" width="900" height="1073" alt="A date ladder with two lanes. In the Britain and Germany lane: the Kaiser at Tangier (1905), HMS Dreadnought and the Algeciras Conference (1906), the cry “We want eight and we won’t wait” (1909) and the Panther at Agadir (1911). In the Balkans lane: Austria-Hungary annexes Bosnia (1908 to 09), the Balkan Wars roughly double Serbia (1912 to 13), and the Archduke is shot in Sarajevo on 28 June 1914." loading="lazy">
+  <figcaption>Two trouble spots, Britain and Germany and the Balkans, in date order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--03-ww1-july.webp" width="900" height="952" alt="A vertical chain of eight steps. 28 June: Franz Ferdinand shot in Sarajevo. Germany gives Austria-Hungary a blank cheque. Austria-Hungary sends Serbia an ultimatum and declares war on 28 July. Russia mobilises. Germany declares war on Russia on 1 August, on France on 3 August and invades Belgium. Britain declares war on 4 August because of the 1839 Treaty of London." loading="lazy">
+  <figcaption>The steps from the assassination to Britain’s declaration of war.</figcaption>
+</figure>
+
+
 ## Why did the Western Front become deadlocked?
 
 The **Schlieffen Plan** aimed to defeat France in about six weeks by sweeping through Belgium, before
@@ -109,6 +126,17 @@ suffered about 57,000 casualties on the first day alone. **Passchendaele** (Thir
 attacks, and defended as a commander who wore down the German army and learned new tactics that
 won in 1918.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--04-ww1-schlieffen.webp" width="900" height="926" alt="A schematic, not a map. Germany was to sweep through Belgium and defeat France in about six weeks, then turn on Russia. It failed because Belgians and the British Expeditionary Force at Mons slowed the advance, Russia mobilised faster than expected, Moltke weakened the right wing, and the French and British stopped the Germans at the Marne in September 1914. By the end of 1914 trenches ran from the Channel to Switzerland." loading="lazy">
+  <figcaption>The plan, four reasons it failed and the result by the end of 1914.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--05-ww1-deadlock.webp" width="900" height="850" alt="A cross-section, not to scale. Attackers in a trench on the left cross open ground with barbed wire towards defenders on the right, who have a machine gun firing across the field and artillery shells falling on the attackers. Below ground level, a railway lets defenders bring reserves up faster than attackers can advance. Poison gas (Ypres 1915), tanks (Somme 1916) and aircraft for reconnaissance did not break the stalemate quickly." loading="lazy">
+  <figcaption>Machine guns, wire, artillery and railways favoured the defender.</figcaption>
+</figure>
+
+
 ## What happened at sea and at Gallipoli?
 
 The German High Seas Fleet threatened Britain in the North Sea. German cruisers **raided** Scarborough,
@@ -128,6 +156,12 @@ ANZAC troops in April 1915 were pinned down on the beaches. The evacuation (Dece
 1916) was the most successful part of the campaign. Effects: heavy casualties, Churchill's
 resignation from the Admiralty, and a strong sense of national identity in Australia and New Zealand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--06-ww1-sea.webp" width="900" height="1162" alt="Three bands, each with a picture and events in date order. North Sea: raids on Scarborough, Hartlepool and Whitby in December 1914; British wins at Heligoland Bight and Dogger Bank; Jutland in 1916, with heavier British losses but the blockade held. U-boats: the Lusitania in May 1915 with over 1,100 dead including 128 Americans; unrestricted submarine warfare from February 1917; convoys, depth charges, mines and Q-ships as the answer. Gallipoli: the failed naval attack in March 1915, the April landings pinned on the beaches, and the evacuation of December 1915 to January 1916." loading="lazy">
+  <figcaption>The North Sea, U-boats and Gallipoli in date order.</figcaption>
+</figure>
+
+
 ## Why was Germany defeated in 1918?
 
 The USA entered the war in **April 1917** because of unrestricted submarine warfare and the Zimmermann
@@ -138,6 +172,12 @@ aircraft and artillery combined effectively, and the Hindenburg Line was broken 
 Reasons for defeat: the blockade and hunger at home, American troops and resources, improved Allied
 tactics, the failure of the spring offensive, the collapse of Germany's allies and revolution at home.
 The armistice was signed on **11 November 1918**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-first-world-war--07-ww1-defeat.webp" width="900" height="1054" alt="A rising staircase of dates: the USA enters in April 1917; the Ludendorff spring offensive in March 1918 gains ground but exhausts Germany; the Allies counter-attack from July 1918; at Amiens on 8 August tanks, aircraft and artillery combine; the Hindenburg Line is broken in September; the armistice is signed on 11 November 1918. Five reasons for German defeat are listed below: blockade and hunger, American troops and resources, better Allied tactics, the failed spring offensive, and the collapse of Germany’s allies with revolution at home." loading="lazy">
+  <figcaption>Key steps from 1917 to the armistice and the reasons for defeat.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

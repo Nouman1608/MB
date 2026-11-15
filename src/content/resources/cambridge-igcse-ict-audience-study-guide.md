@@ -54,6 +54,12 @@ This topic underlies the practical topics that follow it: layout, styles, images
 | Elderly residents | 16 pt or larger sans-serif text, high contrast, plenty of white space | Light grey text on a white background, tiny fonts |
 | Mixed-language visitors | Short sentences, symbols and pictures, translations | Idioms and humour that translate poorly |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--08-audience-three-pages.webp" width="900" height="780" alt="Three simple page sketches: bright cartoon and big text for children 6 to 8, heading, bullets and a bar chart for company managers, and very large high-contrast text with space for elderly residents. Unsuitable choices are listed below." loading="lazy">
+  <figcaption>Suitable design choices differ for children, managers and elderly residents.</figcaption>
+</figure>
+
+
 ### Worked example: justify design choices
 
 A tourist office wants a leaflet for families visiting a nature reserve. Describe two features suited to the audience.
@@ -62,6 +68,17 @@ A tourist office wants a leaflet for families visiting a nature reserve. Describ
 2. *Short headed paragraphs with bullet points and a simple map* let parents find opening times and trails quickly, so the leaflet works for adults and children.
 
 The pattern is: feature, then reason connected to the named audience. A mark is not given for a feature without a reason that refers to the audience. Avoid vague words such as "nice" or "attractive".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--07-audience-factors.webp" width="900" height="850" alt="A circle labelled Audience with six boxes: age, knowledge, interests and purpose, needs and abilities, setting, and culture and language, each with a short example from the lesson." loading="lazy">
+  <figcaption>Six things to adapt to the audience.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--09-justify-feature.webp" width="900" height="830" alt="A nature reserve leaflet sketch beside two chains. Big colourful animal photos, because children stay interested and parents see what to visit. Short headed paragraphs with bullets and a map, because parents find times and trails quickly. Vague words with no audience reason earn no mark." loading="lazy">
+  <figcaption>Each feature needs a reason tied to the audience.</figcaption>
+</figure>
+
 
 ## 9.2 Copyright
 
@@ -90,6 +107,12 @@ Companies use several methods to discourage illegal copying:
 - **Digital rights management** that restricts how files can be copied or played.
 - **Watermarks** on images and documents.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--12-anti-copying.webp" width="900" height="990" alt="Six tiles: licence agreement, product key, original disc or online check, hologram, digital rights management and watermark. A warning says pirated copies may carry malware and get no updates." loading="lazy">
+  <figcaption>Six ways makers discourage illegal copying.</figcaption>
+</figure>
+
+
 ### Consequences of breaking copyright
 
 Offenders may be taken to court, fined or imprisoned, in the worst cases. Companies lose income and may reduce investment in new products. Users of pirated software may lack support and updates and are more likely to receive malware, as illegal copies are often tampered with.
@@ -103,6 +126,17 @@ Amira is preparing a school magazine. She finds a photograph on a website and a 
 - *The poem:* it belongs to its author or publisher, so Amira needs permission, or she could write a brief reference to it and not copy it.
 
 Recommendation: Amira should use her own photograph, ask the website owner for permission in writing and keep a note of the response, and avoid copying the poem. Her answer combines what is legal, what is not and what action to take.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--10-copyright-amira.webp" width="900" height="780" alt="Amira's own article and photograph can be used freely because she owns the copyright. A photograph from a website and a poem from a book need permission or a licence; she should ask in writing or not copy the poem." loading="lazy">
+  <figcaption>Sorting Amira's four items into use freely or needs permission.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-audience-study-guide--11-can-i-use-it.webp" width="900" height="1015" alt="A decision chain. If you made it, use it freely. Otherwise ask whether you have permission or a licence; if not, whether it is open licence or public domain; if not, do not copy it. A note says naming the source is not permission." loading="lazy">
+  <figcaption>A short check for whether material may be used.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -70,6 +70,12 @@ Some pathogens change their surface antigens often, for example the influenza vi
 4. The enzymes hydrolyse the pathogen.
 5. The phagocyte displays the pathogen's antigens on its surface, becoming an **antigen-presenting cell**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--08-phagocytosis.webp" width="900" height="1140" alt="Five small panels show a phagocyte meeting a bacterium, engulfing it into a vesicle, a lysosome joining the vesicle, enzymes breaking the bacterium into pieces, and the phagocyte displaying antigens on its surface." loading="lazy">
+  <figcaption>Phagocytosis: recognise, engulf, fuse with a lysosome, hydrolyse, then display antigens.</figcaption>
+</figure>
+
+
 ## The cellular response (T lymphocytes)
 
 1. Antigen-presenting cells (phagocytes, infected body cells, cancer cells or transplanted cells) show foreign antigens.
@@ -81,6 +87,12 @@ Some pathogens change their surface antigens often, for example the influenza vi
    - **phagocytes**, to engulf more pathogens.
 
 The roles of other T cells are not required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--09-cellular-humoral.webp" width="900" height="1210" alt="A flow chart starting with an antigen-presenting cell and a helper T cell, then a clone of helper T cells, then three arrows to cytotoxic T cells, phagocytes and B cells, and finally B cells dividing into antibody-secreting plasma cells and memory cells." loading="lazy">
+  <figcaption>Helper T cells activate cytotoxic T cells, phagocytes and B cells; B cells make plasma cells and memory cells.</figcaption>
+</figure>
+
 
 ## The humoral response (B lymphocytes)
 
@@ -101,6 +113,12 @@ The roles of other T cells are not required.
 
 Each antibody has **two** antigen-binding sites.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--10-antibody-structure.webp" width="900" height="1090" alt="A Y-shaped antibody with two heavy chains and two light chains joined by disulfide bridges. The tips of the arms are labelled variable region and have antigens bound; the stem is the constant region and the join between arms and stem is the hinge region." loading="lazy">
+  <figcaption>An antibody: two heavy and two light chains, variable regions at the tips, a constant region and a hinge.</figcaption>
+</figure>
+
+
 ### Antigen-antibody complexes
 
 - **Agglutination:** each antibody can bind two bacteria at once, so bacteria clump together.
@@ -116,12 +134,24 @@ Each antibody has **two** antigen-binding sites.
 | Symptoms | Usually develop | Usually none; the pathogen is destroyed first |
 | Cells involved | Plasma cells make antibodies; memory cells formed | Memory B cells divide rapidly into plasma cells; memory T cells into TH and TC cells |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--11-secondary-response.webp" width="900" height="1060" alt="A line graph of antibody concentration over time with two exposures marked. The first rise is slow and small; after the second exposure the rise is quick and much higher." loading="lazy">
+  <figcaption>Illustrative primary and secondary responses: memory cells make the second response faster and larger.</figcaption>
+</figure>
+
+
 ## Vaccines and herd immunity
 
 - A vaccine contains antigens, for example in dead or weakened (attenuated) pathogens, or as isolated antigens.
 - It triggers a primary response, so memory cells are made. A later infection causes a rapid secondary response.
 - **For individuals:** protection without having the disease first.
 - **For populations (herd immunity):** when a high enough proportion of people are immune, the pathogen is unlikely to reach the few who are not, such as babies or people who cannot be vaccinated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--12-herd-immunity.webp" width="900" height="1110" alt="Two grids of people. With few vaccinated, an infection spreads across most of the grid. With most vaccinated, the infection stays at the starting person and unvaccinated people nearby remain healthy." loading="lazy">
+  <figcaption>Herd immunity (illustrative): when most contacts are vaccinated, the pathogen cannot spread and unvaccinated people are protected.</figcaption>
+</figure>
+
 
 ## Active and passive immunity
 
@@ -164,6 +194,12 @@ Each antibody has **two** antigen-binding sites.
 
 Antibiotics work by damaging processes that bacteria have, such as making murein cell walls or protein synthesis on bacterial ribosomes. Viruses have no cell wall, no ribosomes and no metabolism of their own, and they replicate inside host cells, so there is nothing for the antibiotic to act on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--13-hiv-replication.webp" width="900" height="1230" alt="A labelled HIV particle and, below it, a helper T cell with five numbered steps: attachment to a receptor, capsid entry, reverse transcription of RNA to DNA, insertion into the cell DNA, and budding of new viruses." loading="lazy">
+  <figcaption>HIV structure and its five-step replication inside a helper T cell.</figcaption>
+</figure>
+
+
 ## Monoclonal antibodies
 
 Details of how monoclonal antibodies are produced commercially are not required.
@@ -189,6 +225,12 @@ Indirect ELISA, for example testing blood for antibodies against HIV:
 Direct ELISA detects an antigen: an antibody for the antigen is fixed to the well, the sample is added, then an enzyme-linked antibody that also binds the antigen, then the substrate.
 
 Why wash? Unbound enzyme-linked antibody left in the well would change the colour and give a false positive. Run a control well without the patient sample to check this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-cell-recognition-and-the-immune-system--14-elisa.webp" width="900" height="1235" alt="Four well diagrams: antigen fixed to the well, patient antibody bound to the antigen, a second enzyme-linked antibody bound on top, and a coloured liquid after substrate is added." loading="lazy">
+  <figcaption>ELISA: antigen fixed, sample antibody binds, enzyme-linked antibody binds, substrate changes colour.</figcaption>
+</figure>
+
 
 ## Ethical issues
 

@@ -96,6 +96,12 @@ powers) with an exponential term ab^x + c — recognising which type of term
 dominates for large or small x helps sketch and interpret the resulting
 curve sensibly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--14-gs-table-to-curve.webp" width="900" height="930" alt="A table gives y as 4.50, 2.00 and 2.44 at x = 1, 2 and 3. The graph plots these and two extra points with a smooth curve that falls then rises, with a minimum near x = 2.2." loading="lazy">
+  <figcaption>Plot the table of values and join the points with a smooth curve, not straight segments.</figcaption>
+</figure>
+
+
 ## Solving equations graphically
 
 Once a curve is plotted, equations can be solved graphically by reading
@@ -107,6 +113,12 @@ instance) to solve a pair of equations simultaneously.
 and read off the x-value where the curve crosses the x-axis — this x-value
 is the root of the equation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--15-gs-solve.webp" width="900" height="1190" alt="Top: the curve y = x cubed plus x minus 4 crosses the x-axis at about 1.38, the root. Bottom: the curve y = x squared meets the line y = x plus 2 at x = minus 1 and x = 2." loading="lazy">
+  <figcaption>Roots are where a curve crosses the x-axis; simultaneous solutions are where two graphs intersect.</figcaption>
+</figure>
+
+
 ## Exponential growth and decay
 
 Graphs of the form y = ab^x + c represent **exponential growth** (b > 1)
@@ -115,6 +127,12 @@ compound interest, or radioactive decay. The curve approaches, but never
 quite reaches, a horizontal line at y = c as x becomes very negative
 (growth) or very large (decay) — this horizontal line is the curve's
 **horizontal asymptote**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--16-gs-exponential.webp" width="900" height="1170" alt="Growth y = 2 to the power x plus 1 and decay y = 4 times (one half) to the power x plus 1 both approach the dashed horizontal asymptote y = 1 without reaching it." loading="lazy">
+  <figcaption>Exponential curves approach a horizontal asymptote y = c but never reach it.</figcaption>
+</figure>
+
 
 ## Estimating gradients with tangents
 
@@ -131,6 +149,12 @@ drawing a **tangent** — a straight line touching the curve at that one
 point only, locally — and calculating the gradient of that tangent line in
 the usual way (change in y over change in x, using two points read from
 the tangent).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--17-gs-tangent.webp" width="900" height="880" alt="The curve y = x squared with a tangent at P(2, 4). Points (0, minus 4) and (4, 12) on the tangent give a rise of 16 over a run of 4, so the gradient is 4." loading="lazy">
+  <figcaption>The gradient of a curve at a point is the gradient of the tangent there: 16 ÷ 4 = 4 at (2, 4).</figcaption>
+</figure>
+
 
 ## Sketching curves by recognising their type
 
@@ -164,6 +188,22 @@ through its turning point. An **asymptote** is a line a curve approaches
 but never touches — reciprocal graphs have both a vertical asymptote
 (where the function is undefined) and a horizontal one; exponential graphs
 have a horizontal asymptote only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--18-gs-five-shapes.webp" width="900" height="1150" alt="Five sketches: a straight line, a parabola with a turning point and line of symmetry, an S-shaped cubic, a two-branch reciprocal curve with two asymptotes, and an exponential curve with a horizontal asymptote." loading="lazy">
+  <figcaption>Each function type has a recognisable shape and general form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--19-gs-quadratic.webp" width="900" height="870" alt="The graph of y = x squared minus 6x plus 5 = (x minus 3) squared minus 4 has its turning point at (3, minus 4) on the line of symmetry x = 3, crosses the x-axis at 1 and 5 and the y-axis at (0, 5)." loading="lazy">
+  <figcaption>Completing the square gives the turning point (3, −4).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-of-functions-and-sketching-curves--20-gs-reciprocal.webp" width="900" height="890" alt="The graph of y = 2 over x plus 1 has two branches approaching the vertical asymptote x = 0 and the horizontal asymptote y = 1 without touching them." loading="lazy">
+  <figcaption>A reciprocal graph has a vertical and a horizontal asymptote that the curve never touches.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -62,6 +62,17 @@ Topic 1 introduced in-house and outsourced production (1.2.2) and intermediaries
 
 **Drawbacks to weigh:** less control over quality and delivery times; dependence on the contractor; risk to confidential designs; and damage to reputation if the contractor treats workers badly or harms the environment. A good answer weighs these against the benefits for the business in the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--01-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--02-outsourcing-reasons.webp" width="900" height="940" alt="Six tiles with icons give the reasons outsourcing has grown: lower costs, access to expertise, focus on core activities, flexibility, growth of ecommerce and better communication. A panel below shows four drawbacks with warning signs: less control of quality and delivery, dependence on the contractor, confidential designs at risk and reputation damage." loading="lazy">
+  <figcaption>Six reasons outsourcing has grown, and four drawbacks to weigh.</figcaption>
+</figure>
+
+
 ## What does a wholesaler do?
 
 A **wholesaler** buys goods in large quantities from manufacturers and sells them in smaller quantities to retailers. It sits between the two in the chain of distribution.
@@ -88,6 +99,22 @@ A **wholesaler** buys goods in large quantities from manufacturers and sells the
 
 For the **manufacturer**, the wholesaler reduces the cost and time of selling to many small shops, reduces storage costs and risk, and provides cash flow. For the **retailer**, it saves the need to buy large quantities, provides choice and credit, and reduces the time spent dealing with many suppliers. The wholesaler also reduces the total number of transactions in the chain of distribution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--03-wholesaler-transactions.webp" width="900" height="1140" alt="Top panel: four factories each connected directly to six shops by 24 crossing lines, labelled 4 times 6 equals 24 deals. Bottom panel: the same four factories and six shops all connected through one wholesaler warehouse, giving 4 plus 6 equals 10 deals. The numbers are illustrative." loading="lazy">
+  <figcaption>With one wholesaler in the chain there are far fewer separate deals (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--04-wholesaler-manufacturer.webp" width="900" height="800" alt="A factory sends large orders in crates to a wholesaler warehouse, and the wholesaler sends payment back promptly. Six tiles list the wholesaler functions for the manufacturer: buys in bulk, stores goods, bears the risk, pays promptly, distributes to many shops and gives market information." loading="lazy">
+  <figcaption>The wholesaler buys in bulk, stores, bears risk, pays promptly, distributes and gives market information.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--05-wholesaler-retailer.webp" width="900" height="800" alt="A wholesaler warehouse sends small parcels to a retailer shop, and the retailer pays later because the wholesaler gives credit. Six tiles list the wholesaler functions for the retailer: breaks bulk, wide range of goods, gives credit, delivers to the shop, gives advice and prepares goods." loading="lazy">
+  <figcaption>The wholesaler breaks bulk, offers range and credit, delivers, advises and prepares goods.</figcaption>
+</figure>
+
+
 ## Why does the independent wholesaler survive?
 
 Large supermarket chains often buy directly from manufacturers, bypassing the wholesaler, and ecommerce lets manufacturers sell direct to consumers. Independent wholesalers have survived in two ways named by the syllabus.
@@ -95,6 +122,17 @@ Large supermarket chains often buy directly from manufacturers, bypassing the wh
 **Cash and carry.** The retailer visits a large wholesale warehouse, chooses goods from the shelves, pays immediately and transports them itself. Because the wholesaler offers no credit and no delivery, its costs are lower, so its prices are lower. Small retailers, cafés and restaurants can buy what they need when they need it.
 
 **Voluntary chains.** A wholesaler and a group of independent retailers agree to work together. The retailers agree to buy most of their stock from the wholesaler; in return, the wholesaler's bulk buying gives them lower prices, and the group shares a common brand name, advertising and promotions. Each shop stays independently owned but can compete more effectively with large chains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--06-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--07-cash-carry-example.webp" width="900" height="1040" alt="Illustrative comparison of a small food shop buying from a cash and carry or a delivery wholesaler. Two bars show a weekly order of 1,000 at cash and carry and 1,050 from the delivery wholesaler, which is 5 percent higher. A timeline shows cash and carry is paid at once on day 0, while the delivery wholesaler is paid 30 days later. Judgement: if cash flow is tight, credit may be worth the extra 5 percent; if the owner has a van and time, cash and carry keeps prices low." loading="lazy">
+  <figcaption>Illustrative comparison of cash and carry with a delivery wholesaler offering 30 days credit at 5% higher prices.</figcaption>
+</figure>
+
 
 ## Worked example
 

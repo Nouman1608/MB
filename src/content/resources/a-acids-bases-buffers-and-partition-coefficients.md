@@ -86,6 +86,12 @@ This is exactly the relationship exploited in a buffer solution, below:
 CH₃COOH and CH₃COO⁻ (from CH₃COONa) are a conjugate acid-base pair present
 together in solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--01-conjugate-pairs.webp" width="900" height="830" alt="Ethanoic acid loses H+ to become its conjugate base ethanoate. Water gains H+ to become its conjugate acid H3O+. The two conjugate pairs each differ by one H+." loading="lazy">
+  <figcaption>Each conjugate pair differs by a single H+.</figcaption>
+</figure>
+
+
 ## pH, Ka and pKa
 
 **pH**, **Ka** and **pKa** are all defined mathematically:
@@ -139,6 +145,12 @@ Note this is far higher (less acidic) than a strong acid of the same
 concentration would give (pH 1.00), because only a small fraction of the
 weak acid molecules have actually dissociated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--02-weak-acid-ph.webp" width="900" height="1020" alt="Two beakers of 0.100 mol per dm cubed acid: HCl is fully split with pH 1.00, ethanoic acid is only about 1.34% split with [H+] = 1.34 x 10^-3 and pH 2.87. A pH scale marks both." loading="lazy">
+  <figcaption>Same concentration, but the weak acid gives far fewer H+ ions and a higher pH.</figcaption>
+</figure>
+
+
 ## Buffer solutions
 
 A **buffer solution** resists changes in pH when small amounts of acid or
@@ -176,6 +188,17 @@ system buffers blood pH close to 7.4. Excess H⁺ is removed by HCO₃⁻ (HCO�
 H⁺ → H₂CO₃), and excess OH⁻ is neutralised by the H₂CO₃ reservoir — the same
 principle as the acetic acid/acetate buffer, using a biologically available
 conjugate pair.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--03-buffer-action.webp" width="900" height="975" alt="A beaker holds HA on one side and A- on the other. Added OH- is neutralised by HA, and added H+ by A-. The blood buffer HCO3-/H2CO3 works the same way near pH 7.4." loading="lazy">
+  <figcaption>A buffer neutralises small additions of acid or base using its two reservoirs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--04-buffer-ratio.webp" width="900" height="940" alt="A graph of buffer pH against [A-]/[HA] on a log scale. Equal amounts give pH = pKa (4.74). 0.100 mol dm-3 HA with 0.200 A- gives ratio 2 and pH 5.05; doubling both gives the same point." loading="lazy">
+  <figcaption>Buffer pH depends on the ratio of base to acid, not on their absolute amounts.</figcaption>
+</figure>
+
 
 ## Solubility product, Ksp
 
@@ -231,6 +254,17 @@ This is over 7000 times less soluble than in pure water — the added Cl⁻
 suppresses AgCl's solubility, exactly as Le Chatelier's principle predicts
 for the equilibrium AgCl(s) ⇌ Ag⁺(aq) + Cl⁻(aq).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--05-ksp-powers.webp" width="900" height="790" alt="AgCl gives one Ag+ and one Cl- (both s), Ksp = s^2, s = 1.34 x 10^-5. PbI2 gives one Pb2+ (s) and two I- (2s), Ksp = 4s^3, s = 1.21 x 10^-3 mol dm-3." loading="lazy">
+  <figcaption>Count the ions released per formula unit to write Ksp and find s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--06-common-ion.webp" width="900" height="930" alt="In pure water [Ag+] from AgCl is 1.34 x 10^-5; in 0.100 mol dm-3 NaCl it is 1.80 x 10^-9, over 7000 times smaller. A log-scale bar chart compares them." loading="lazy">
+  <figcaption>A common ion suppresses the solubility of a sparingly soluble salt.</figcaption>
+</figure>
+
+
 ## Partition coefficients
 
 When a solute is shaken with two immiscible solvents (e.g. water and an
@@ -259,6 +293,12 @@ m = 4.00(5.00 − m) = 20.0 − 4.00m
 each solvent — a solute favours (partitions more into) whichever solvent is
 closer to its own polarity, so a non-polar organic solute typically favours
 a non-polar organic solvent over water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-acids-bases-buffers-and-partition-coefficients--07-partition-split.webp" width="900" height="990" alt="Ether over water in equal volumes. Of 5.00 g of X, 4.00 g is in the ether and 1.00 g in the water, so Kpc = 4.00 with no units." loading="lazy">
+  <figcaption>A solute distributes between two immiscible solvents in a fixed ratio.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

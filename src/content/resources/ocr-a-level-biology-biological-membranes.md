@@ -81,6 +81,12 @@ Receptors are glycoproteins (or proteins) with a binding site complementary to a
 Hormones such as insulin bind to receptors on target cells. Many medicinal drugs are designed to have shapes that
 bind these receptors, either to trigger the same response as the natural molecule or to block it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--11-mem-fluid-mosaic.webp" width="900" height="1030" alt="Cross-section of a phospholipid bilayer about 7 nm thick with hydrophilic heads outside and inside and hydrophobic tails inwards. Cholesterol, a channel protein, a carrier protein, a glycoprotein and a glycolipid are labelled, with a key showing one phospholipid." loading="lazy">
+  <figcaption>The membrane is a fluid bilayer of phospholipids with a mosaic of proteins, cholesterol and carbohydrate chains.</figcaption>
+</figure>
+
+
 ## What affects membrane structure and permeability? (c)
 
 | Factor | Effect |
@@ -93,6 +99,12 @@ bind these receptors, either to trigger the same response as the natural molecul
 water at different temperatures or in different ethanol concentrations for a set time. The red pigment that leaks
 from damaged membranes is measured with a **colorimeter**. Higher absorbance (lower transmission) means more
 pigment, so greater permeability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--14-mem-beetroot-permeability.webp" width="900" height="990" alt="Two rows of four tubes: water at increasing temperature and increasing ethanol concentration. The liquid gets redder because more pigment leaks out. A colorimeter reads higher absorbance for more pigment, meaning a more permeable membrane." loading="lazy">
+  <figcaption>More leaked pigment means higher absorbance and a more permeable membrane.</figcaption>
+</figure>
+
 
 ## How do molecules move across membranes? (d)
 
@@ -134,6 +146,22 @@ side halves the ratio.
 Visking (dialysis) tubing filled with a solution can also act as a model cell: change in mass or the appearance of a
 solute outside the tubing shows diffusion or osmosis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--12-mem-transport.webp" width="900" height="1330" alt="Three panels. Diffusion: molecules cross the bilayer down the gradient. Facilitated diffusion: molecules go through a channel protein down the gradient. Active transport: a carrier protein uses ATP to move molecules from low to high concentration." loading="lazy">
+  <figcaption>Passive processes go down the concentration gradient; active transport goes against it and needs ATP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--13-mem-bulk-transport.webp" width="900" height="1040" alt="Two rows of three stages: endocytosis (particle meets membrane, membrane folds round it, vesicle pinches off) and exocytosis (vesicle approaches, fuses with membrane, contents released). Both need ATP." loading="lazy">
+  <figcaption>Endocytosis and exocytosis move large particles using vesicles and ATP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--16-mem-agar-surface-area.webp" width="900" height="900" alt="A 1 cm agar cube has surface area 6 cm2 and volume 1 cm3, ratio 6:1; a 2 cm cube has 24 cm2 and 8 cm3, ratio 3:1. Acid diffusing 4.5 mm in 6 minutes gives 0.75 mm per minute." loading="lazy">
+  <figcaption>Doubling the side halves the surface area to volume ratio, so the smaller cube changes colour sooner.</figcaption>
+</figure>
+
+
 ## How does osmosis affect cells? (e)
 
 **Osmosis** is the net movement of water molecules from a region of higher water potential to lower water
@@ -150,6 +178,12 @@ solutes make it **negative**.
 change in mass is calculated. **Worked example 3.** Mass falls from 3.20 g to 2.88 g: (2.88 - 3.20) / 3.20 x 100 =
 **-10%**. The concentration giving zero change has the same water potential as the tissue. Red onion epidermis
 under the microscope shows plasmolysis directly; red blood cells can be viewed in different salt solutions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--15-mem-osmosis-cells.webp" width="900" height="1200" alt="A 3 by 2 grid of a red blood cell and a plant cell in solutions of higher, equal and lower water potential: swelling or bursting versus turgid, no net movement versus flaccid, and crenation versus plasmolysis. Arrows show net water movement." loading="lazy">
+  <figcaption>Water moves from higher to lower water potential, so animal cells swell or shrink while plant cells become turgid or plasmolysed.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

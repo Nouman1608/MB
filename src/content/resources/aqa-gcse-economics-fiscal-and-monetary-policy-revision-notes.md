@@ -74,6 +74,17 @@ These notes condense **sections 3.2.3.1 Fiscal policy and 3.2.3.2 Monetary polic
 | May be useful in a recession to support demand and jobs | Gives room to borrow in a future recession |
 | Future taxes may need to rise | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--12-budget-balance.webp" width="900" height="990" alt="Pairs of bars for revenue and spending in billion units. Balanced: equal. Surplus: revenue above spending (illustrative 910 and 860). Deficit: Country F revenue 860, spending 910, balance minus 50, which must be borrowed." loading="lazy">
+  <figcaption>A budget is balanced, in surplus or in deficit depending on revenue compared with spending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--13-deficit-vs-debt.webp" width="900" height="970" alt="Three bars show yearly deficits of 50, 40 and 30 stacking into one column of national debt totalling 120. The deficit is one year; the debt is the total from past borrowing. Interest on debt is money not spent on services." loading="lazy">
+  <figcaption>The deficit is one year’s gap; the national debt is the total built up.</figcaption>
+</figure>
+
+
 ### Calculations you must be able to do
 
 **1. Budget position.** Spending £1,100bn, revenue £1,040bn. Deficit = 1,100 − 1,040 = **£60bn**.
@@ -90,6 +101,12 @@ As a share of GDP of £2,400bn: 60 ÷ 2,400 × 100 = **2.5%**.
 - **Incentives:** high tax rates may discourage work and enterprise.
 - **Imports:** some extra spending leaks abroad.
 - **Opportunity cost:** money spent on one area cannot be spent on another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--11-fiscal-levers.webp" width="900" height="900" alt="Two panels. Expansionary: raising government spending or cutting income tax raises demand, aiming at growth and lower unemployment. Contractionary: cutting government spending or raising taxes lowers demand, aiming at lower inflation and a smaller deficit." loading="lazy">
+  <figcaption>Expansionary fiscal policy raises demand; contractionary fiscal policy lowers it.</figcaption>
+</figure>
+
 
 ## Part B: Monetary policy (3.2.3.2)
 
@@ -117,6 +134,12 @@ A rise in Bank Rate leads to:
 6. Lower total demand, so less pressure on prices, and inflation falls back towards 2%.
 
 **UK example.** Bank Rate was cut to 0.1% in March 2020. As inflation rose, the MPC raised it in a series of steps to 5.25% by August 2023.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--14-interest-rate-chain.webp" width="900" height="990" alt="Flow chart. Bank Rate is raised. Three effects: fewer loans and dearer mortgages, saving pays more, firms invest less. Total spending falls, so inflation slows. If inflation is low and the economy weak, cutting rates does the opposite." loading="lazy">
+  <figcaption>Higher interest rates reduce spending and so slow inflation.</figcaption>
+</figure>
+
 
 ### Using monetary policy for other objectives
 
@@ -185,6 +208,12 @@ A rise in Bank Rate leads to:
 8. Borrowing becomes cheaper, so households spend and firms invest more; demand for goods rises, so firms need more workers.
 9. 3% = £6,000, 4.5% = £9,000, so payments rise by £3,000 a year.
 10. Any two: time lags, low confidence, banks not passing changes on, one rate for the whole country, less effective on cost-push inflation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-fiscal-and-monetary-policy--15-fiscal-vs-monetary.webp" width="900" height="1020" alt="Two columns. Fiscal policy: decided by the government, uses taxes and spending, can target groups or regions, slow to change. Monetary policy: decided by the Bank of England, uses interest rates, affects everyone who borrows or saves, quick to change though effects take time." loading="lazy">
+  <figcaption>The two policies differ in who decides, tools, reach and speed.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

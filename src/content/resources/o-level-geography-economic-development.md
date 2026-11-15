@@ -102,6 +102,17 @@ local, national and global scale -- which can be both positive
 (investment, jobs) and negative (loss of local control, environmental
 cost), and a strong answer weighs both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--15-sector-shift.webp" width="900" height="980" alt="Three bars with illustrative numbers. Primary jobs fall from 70 to 30 to 5 per cent, secondary peaks at 35 per cent in the middle, tertiary and quaternary together rise to 75 per cent at high development." loading="lazy">
+  <figcaption>Jobs shift from primary to secondary to tertiary and quaternary as a country develops.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--16-indicators.webp" width="900" height="1110" alt="GNP per capita is economic, literacy and life expectancy are social, and they combine in a composite index such as HDI. Illustrative Country X has high income but low life expectancy, Country Y is more balanced and leads on the combined score." loading="lazy">
+  <figcaption>A composite index avoids relying on one indicator.</figcaption>
+</figure>
+
+
 ## Food production and industry (3.2, 3.3)
 
 Both subtopics use the same systems approach: inputs, processes and
@@ -121,6 +132,22 @@ are land, labour, raw materials, fuel and power, transport, markets
 and political factors -- a specific named industrial zone or factory
 must be used to illustrate how these combine in practice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--17-systems-approach.webp" width="900" height="790" alt="A farm has natural inputs (relief, climate, soil) and human inputs (economic and social) feeding processes that give output. A factory has inputs and processes that give two outputs: products and waste." loading="lazy">
+  <figcaption>Farms and factories both work as systems; factories also produce waste.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--18-location-factors.webp" width="900" height="850" alt="A factory with arrows from the seven location factors: land, labour, raw materials, fuel and power, transport, markets and political factors." loading="lazy">
+  <figcaption>Seven factors combine to decide where a factory is located.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--20-food-shortage.webp" width="900" height="850" alt="Natural causes (drought, floods, tropical storms, pests) and economic and political causes (low capital investment, conflict, poor transport and distribution) lead to food shortage, met by measures to raise output or give relief." loading="lazy">
+  <figcaption>Food shortages have natural and economic or political causes.</figcaption>
+</figure>
+
+
 ## Tourism, energy and water (3.4, 3.5, 3.6)
 
 Tourism is examined through growth (why an area attracts visitors,
@@ -139,6 +166,12 @@ and dams, wells and boreholes, desalination), the proportion of water
 used by agriculture, domestic and industrial users at different
 development levels, and the causes of water shortages together with
 the case for careful management to protect future supply.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--19-energy-types.webp" width="900" height="760" alt="Energy sources in four groups: fossil fuels, renewables, nuclear power and fuelwood, with the nuclear and renewable groups tagged Evaluate." loading="lazy">
+  <figcaption>The main energy supply types in the syllabus.</figcaption>
+</figure>
+
 
 ## Environmental risks of economic development (3.7)
 

@@ -34,6 +34,12 @@ Topic 5 belongs to the "Computer systems" half of 2210 and is examined on Paper 
 
 The **internet** is the infrastructure — the cables, routers, servers and connected networks that span the world. The **world wide web** is the collection of websites and web pages that are reached using that infrastructure. Email and online gaming also use the internet without being part of the web, which is a good way to show you understand the difference.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--15-net-internet-web.webp" width="900" height="980" alt="A large box for the internet shows routers, cables and servers. Inside it a dashed region holds web pages (the web); email and online gaming sit outside the dashed region but inside the internet box." loading="lazy">
+  <figcaption>The web is only part of what runs on the internet.</figcaption>
+</figure>
+
+
 ### URLs
 
 A **uniform resource locator (URL)** is a text-based address for a web page. The syllabus says it can contain three parts. Taking `https://www.lakesidemuseum.org/visit/opening-hours.html`:
@@ -43,6 +49,12 @@ A **uniform resource locator (URL)** is a text-based address for a web page. The
 | Protocol | `https` |
 | Domain name | `www.lakesidemuseum.org` |
 | Web page / file name | `opening-hours.html` (inside the `visit` folder) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--16-net-url.webp" width="900" height="660" alt="The URL https://www.lakesidemuseum.org/visit/opening-hours.html split into protocol (https), domain name (www.lakesidemuseum.org) and web page/file name (opening-hours.html in the visit folder)." loading="lazy">
+  <figcaption>The three parts of a URL.</figcaption>
+</figure>
+
 
 ### HTTP and HTTPS
 
@@ -64,13 +76,31 @@ Five parts work together: the **browser**, **IP addresses**, the **domain name s
 6. The web server sends back the page's HTML.
 7. The browser renders the HTML and displays the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--17-net-dns.webp" width="900" height="990" alt="A three-lane sequence of the browser, DNS and web server, with seven numbered steps: type the URL, send the domain name, DNS searches, IP address returned, page requested, HTML sent back, page rendered." loading="lazy">
+  <figcaption>What happens between typing a URL and seeing the page.</figcaption>
+</figure>
+
+
 ### Cookies
 
 A **cookie** is a small text file that a website stores on the user's device through the browser. **Session cookies** are temporary and are deleted when the browser is closed. **Persistent cookies** remain on the device until they expire or the user deletes them. The syllabus lists four uses: saving personal details, tracking user preferences, holding items in an online shopping cart, and storing login details.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--18-net-cookies.webp" width="900" height="870" alt="A timeline: a session cookie is deleted when the browser is closed, while a persistent cookie lasts until it expires or the user deletes it. Four boxes show the four uses of cookies the lesson lists." loading="lazy">
+  <figcaption>Session cookies end when the browser closes; persistent cookies stay.</figcaption>
+</figure>
+
+
 ## 5.2 Digital currency
 
 A **digital currency** exists only electronically. It is used to pay for goods and services, but there are no coins or notes. Transactions are tracked using **blockchain**. In its basic form, a blockchain is a digital ledger: a time-stamped series of records that cannot be altered. Each new block of transactions is linked to the block before it, and copies of the ledger are held on many computers. Changing an old record would break the link with the next block and would not match the other copies, so tampering is detected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--19-net-blockchain.webp" width="900" height="960" alt="Four time-stamped blocks each link to the block before. Three computers hold copies; on the third, block 2 has been changed, so the link breaks and it does not match the other copies." loading="lazy">
+  <figcaption>Tampering with one block is detected because the copies no longer match.</figcaption>
+</figure>
+
 
 ## 5.3 Cyber security
 
@@ -89,6 +119,12 @@ A **digital currency** exists only electronically. It is used to pay for goods a
 
 The six types of **malware** differ in how they behave: a **virus** attaches to a file and needs it to be run; a **worm** spreads across a network by itself; a **Trojan horse** pretends to be useful software; **spyware** secretly records what the user does; **adware** shows unwanted adverts; **ransomware** encrypts files and demands payment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--20-net-phish-pharm.webp" width="900" height="870" alt="Phishing: a fake email with a link the user must click to reach a fake website. Pharming: the correct URL is typed but code or DNS redirects the user to a fake website with no click needed. Both aim to collect personal details." loading="lazy">
+  <figcaption>Phishing needs a click; pharming redirects even the correct URL.</figcaption>
+</figure>
+
+
 ### Solutions
 
 The syllabus names ten: access levels; anti-malware (anti-virus and anti-spyware); authentication (username and password, biometrics, two-step verification); automating software updates; checking the spelling and tone of communications; checking the URL attached to a link; firewalls; privacy settings; proxy servers; and the **secure socket layer (SSL)** security protocol.
@@ -100,6 +136,12 @@ SSL is worth learning as a process. When a browser connects to a secure site:
 3. The browser checks the certificate is valid and from a trusted authority.
 4. If it is, the browser and server agree to communicate, and an encrypted session begins.
 5. Data sent in both directions is now encrypted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--21-net-ssl.webp" width="900" height="900" alt="Browser and web server exchange five numbered steps: browser asks the server to identify itself, server sends its digital certificate, browser checks it is valid and from a trusted authority, both agree to communicate, and all data is encrypted in both directions." loading="lazy">
+  <figcaption>The SSL steps that start an encrypted session.</figcaption>
+</figure>
+
 
 ## Worked example 1: buying a train ticket
 

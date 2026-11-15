@@ -121,6 +121,12 @@ minimises the repulsion between electrons of like charge, which is exactly the
 "inter-electron repulsion" reasoning the syllabus asks you to explain
 configurations with. For fluorine's 2p⁵, put one electron in each of the three 2p orbitals, with parallel spins, then add two more electrons with opposite spin to pair two of those orbitals. The final occupancy is two paired orbitals and one singly occupied orbital: 2 + 2 + 1 = 5 electrons.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--16-orb-hund-fluorine.webp" width="900" height="1010" alt="Three rows show how five electrons fill the three 2p orbitals of fluorine. First, three electrons go one in each box with parallel spins. Then a fourth pairs with the first box. Then a fifth pairs with a second box. The final fluorine configuration is 1s2 2s2 2p5: two paired 2p orbitals and one single electron, so 2 plus 2 plus 1 gives 5. The single unpaired electron makes the atom a free radical." loading="lazy">
+  <figcaption>Electrons occupy separate 2p orbitals with parallel spins before pairing, so fluorine ends with two paired orbitals and one single electron (2 + 2 + 1 = 5).</figcaption>
+</figure>
+
+
 ### Orbital shapes
 
 An **s orbital** is spherical, centred on the nucleus. A **p orbital** is shaped
@@ -128,10 +134,27 @@ like two lobes on either side of the nucleus (sometimes described as a
 figure-of-eight or dumbbell), and each p sub-shell has three such orbitals
 oriented along different axes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--17-orb-shapes.webp" width="900" height="1000" alt="Top: an s orbital drawn as a sphere centred on the nucleus. Bottom: the three p orbitals, each two lobes on either side of the nucleus, one along each of three axes, labelled px, py and pz. A p sub-shell has three orbitals, each holding up to two electrons." loading="lazy">
+  <figcaption>An s orbital is spherical; each p orbital has two lobes, and the three p orbitals lie along different axes.</figcaption>
+</figure>
+
+
 ### Free radicals
 
 A **free radical** is a species with one or more unpaired electrons — a concept
 you'll meet again when organic mechanisms introduce free-radical substitution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--14-orb-energy-order.webp" width="900" height="1050" alt="An energy ladder, not to scale, with sub-shells from lowest at the bottom: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p. Each sub-shell is drawn as boxes, one box per orbital: s has 1, p has 3, d has 5, and each orbital holds a maximum of two electrons. The 4s and 3d rows are highlighted because 4s lies below 3d and fills first." loading="lazy">
+  <figcaption>Sub-shells in increasing energy order, with s, p and d holding 1, 3 and 5 orbitals of two electrons each; 4s lies below 3d.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--15-orb-4s-3d-iron.webp" width="900" height="1050" alt="Three rows of orbital boxes for the 4s and 3d sub-shells. Potassium has one electron in 4s and 3d empty, showing 4s fills first. Iron has a full 4s pair and six electrons in 3d, written [Ar] 3d6 4s2. The Fe2+ ion has lost its two 4s electrons, shown faded, leaving [Ar] 3d6, so 4s electrons are removed first." loading="lazy">
+  <figcaption>The 4s sub-shell fills before 3d, yet in transition metal ions the 4s electrons are removed first: Fe is [Ar] 3d⁶ 4s² and Fe²⁺ is [Ar] 3d⁶.</figcaption>
+</figure>
+
 
 ## Ionisation energy
 
@@ -166,6 +189,12 @@ an electron from a doubly-occupied p orbital requires less energy than one from 
 singly-occupied p orbital, because of spin-pair repulsion between the two
 electrons sharing that orbital.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--18-ie-across-period.webp" width="900" height="980" alt="A schematic graph of first ionisation energy against group for a period, showing a general rise from Group 1 to Group 18 with two small dips at Group 13 and Group 16; no numerical values are shown. Below, two cards explain the dips. At Group 13 the electron removed comes from a p sub-shell, higher in energy than the s sub-shell before it. At Group 16 the electron removed comes from a doubly occupied p orbital, where spin-pair repulsion makes it easier to remove." loading="lazy">
+  <figcaption>Ionisation energy rises across a period with small dips at Group 13 (new p sub-shell) and Group 16 (spin-pair repulsion).</figcaption>
+</figure>
+
+
 ### Successive ionisation energies as evidence
 
 Because each successive ionisation energy is larger than the last — removing an
@@ -182,6 +211,17 @@ because the third electron removed comes from a full inner shell, much closer to
 the nucleus and far less shielded. This large jump after the second ionisation
 energy is exactly the evidence that places magnesium in Group 2: two outer-shell
 electrons, then a large jump into the next shell in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--19-ie-down-group.webp" width="900" height="870" alt="Atoms of lithium, sodium and potassium drawn as nuclei with concentric electron shells: 2 shells, 3 shells and 4 shells, with electron counts 2,1; 2,8,1; and 2,8,8,1. The single outer electron is shown in gold on the outermost shell. The arrow from the outer electron to the nucleus gets thinner down the group, showing a weaker pull, because the radius is larger and the extra inner shells shield the outer electron, outweighing the greater nuclear charge. First ionisation energy therefore falls down the group." loading="lazy">
+  <figcaption>Down a group the outer electron is further out and more shielded, which outweighs the greater nuclear charge, so ionisation energy falls.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-orbitals-and-ionisation-energy--20-ie-successive-mg.webp" width="900" height="980" alt="Top: the equations for the first and second ionisation energies of magnesium, each removing one electron from the gaseous species formed before. Left: a bar chart of magnesium ionisation energies, IE1 738, IE2 1451 and IE3 7733 kilojoules per mole, with IE3 far taller. Right: a magnesium atom with shells holding 2, 8 and 2 electrons; electrons 1 and 2 leave the outer shell, but electron 3 would come from the inner second shell, close to the nucleus and little shielded. The big jump after IE2 shows two outer electrons, so magnesium is in Group 2." loading="lazy">
+  <figcaption>A large jump after IE₂ shows magnesium’s third electron comes from an inner shell, so it has two outer electrons and is in Group 2.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

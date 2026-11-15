@@ -42,11 +42,23 @@ Theory of computation is section 4.4 of the AQA 7517 subject content and is exam
 
 **Automation** is putting an abstract model into action: you create algorithms, represent them in code and run them on a machine, so the model is carried out without human steps. It pairs with **decomposition** (splitting a problem into sub-problems) and **composition** (combining the solved parts).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--09-data-abstraction.webp" width="900" height="900" alt="A programmer uses push and pop; behind the interface an array or a linked list is hidden." loading="lazy">
+  <figcaption>Data abstraction hides how a stack is stored.</figcaption>
+</figure>
+
+
 ## Finite state machines
 
 A **finite state machine** (FSM) has a finite set of states, an input alphabet, and transition rules that say which state to move to for each input. One state is the **start state** and some are **accepting (final) states**. An FSM with no output simply decides whether an input string is accepted. A machine with output, such as a **Mealy machine**, produces an output on each transition.
 
 On a state transition diagram, states are circles, the start state has an arrow pointing in from nowhere, accepting states have a double circle, and each arrow is labelled with its input (and output, for a Mealy machine). A **state transition table** gives the same information with a row per state and a column per input.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--08-fsm-a-plus-b.webp" width="900" height="1020" alt="State diagram with start state S0, S1 and an accepting S2 plus a dead state, accepting one or more a followed by b, with traces of aab, ab, b and aba." loading="lazy">
+  <figcaption>A state transition diagram for a+b, with four inputs traced through it.</figcaption>
+</figure>
+
 
 
 ## Regular expressions and set descriptions
@@ -86,6 +98,17 @@ Polynomial time or better is **tractable**; exponential or worse is **intractabl
 
 For n = 1000 items, a quadratic algorithm needs about 1000 x 1000 = 1,000,000 steps, while an O(n log n) algorithm needs about 1000 x 9.97, roughly 9,966, which is around 100 times fewer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--12-big-o-growth.webp" width="900" height="870" alt="Graph of O(1), O(log n), O(n), O(n log n), O(n squared) and O(2^n) for n from 0 to 10; the last two climb off the chart." loading="lazy">
+  <figcaption>Higher orders grow far faster; polynomial or better is tractable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--13-n2-vs-nlogn.webp" width="900" height="760" alt="A grid of 100 squares for 1,000,000 steps beside one square for about 9,966 steps." loading="lazy">
+  <figcaption>For 1000 items, n log n needs about 100 times fewer steps.</figcaption>
+</figure>
+
+
 ## Computability and the Turing machine
 
 A problem is **computable** if an algorithm exists that solves it. The **halting problem** asks whether a general algorithm can decide, for any program and input, whether that program eventually stops. It has been proved that no such algorithm exists, so the halting problem is **non-computable**. So some questions cannot be answered by any program, however powerful the machine.
@@ -112,6 +135,12 @@ Trace on the tape `0 1 0 1 1` (decimal 11), head on the last cell:
 
 The final tape is `0 1 1 0 0`, which is 12, so the machine has added 1 in three steps. The leading 0 guarantees a cell to absorb the carry. Running the same rules on `0 1 1 1` takes four steps and gives `1 0 0 0` (7 + 1 = 8).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--14-turing-add-one.webp" width="900" height="1100" alt="Tape 01011 with the head moving left, writing 0, 0 and finally 1, ending as 01100." loading="lazy">
+  <figcaption>Three steps turn 01011 (11) into 01100 (12).</figcaption>
+</figure>
+
+
 ## Worked example 2: regular expression and BNF
 
 A club membership code is two capital letters followed by exactly three digits, such as `QR482`.
@@ -133,6 +162,17 @@ BNF:
 ```
 
 whereas the regular expression is `[A-Z]+` followed by three digits, written out as `[A-Z]+[0-9][0-9][0-9]`. This is still a regular language, but only a recursive BNF rule can describe nesting such as matched brackets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--10-regex-club-code.webp" width="900" height="900" alt="Five slots (two letters, three digits) with four test codes; only AB123 fits." loading="lazy">
+  <figcaption>Four codes tested against [A-Z][A-Z][0-9][0-9][0-9].</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--11-bnf-recursion.webp" width="900" height="1130" alt="A derivation tree for QRS from the recursive rule letters ::= letter | letter letters." loading="lazy">
+  <figcaption>A recursive BNF rule builds a string of any length.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

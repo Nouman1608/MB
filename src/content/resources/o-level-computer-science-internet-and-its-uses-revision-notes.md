@@ -54,6 +54,17 @@ Condensed for the final weeks. For the full explanation, use the
 
 **E. Blockchain record:** a transaction is made → it is time-stamped and added as a block → the block is linked to the previous block → copies are held across many computers → altering a block breaks the chain and does not match other copies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--19-net-blockchain.webp" width="900" height="960" alt="Four time-stamped blocks each link to the block before. Three computers hold copies; on the third, block 2 has been changed, so the link breaks and it does not match the other copies." loading="lazy">
+  <figcaption>Tampering with one block is detected because the copies no longer match.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--21-net-ssl.webp" width="900" height="900" alt="Browser and web server exchange five numbered steps: browser asks the server to identify itself, server sends its digital certificate, browser checks it is valid and from a trusted authority, both agree to communicate, and all data is encrypted in both directions." loading="lazy">
+  <figcaption>The SSL steps that start an encrypted session.</figcaption>
+</figure>
+
+
 ## Pairs that are easy to confuse
 
 | Pair | First | Second |
@@ -65,6 +76,17 @@ Condensed for the final weeks. For the full explanation, use the
 | Virus vs worm | Needs an infected file to be run | Replicates across a network on its own |
 | Spyware vs adware | Secretly records user activity | Displays unwanted adverts |
 | Firewall vs proxy server | Filters traffic by rules | Sits between user and internet, hides the user's IP address and can filter |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--18-net-cookies.webp" width="900" height="870" alt="A timeline: a session cookie is deleted when the browser is closed, while a persistent cookie lasts until it expires or the user deletes it. Four boxes show the four uses of cookies the lesson lists." loading="lazy">
+  <figcaption>Session cookies end when the browser closes; persistent cookies stay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--20-net-phish-pharm.webp" width="900" height="870" alt="Phishing: a fake email with a link the user must click to reach a fake website. Pharming: the correct URL is typed but code or DNS redirects the user to a fake website with no click needed. Both aim to collect personal details." loading="lazy">
+  <figcaption>Phishing needs a click; pharming redirects even the correct URL.</figcaption>
+</figure>
+
 
 ## Threat → best defence
 
@@ -116,3 +138,19 @@ It sits between users and the internet, so the user's IP address is hidden from 
 5. Give two ways a user could spot a phishing email.
 
 **Answers:** 1. The domain name server (DNS). 2. Any two: storing bookmarks/favourites, recording history, multiple tabs, storing cookies, navigation tools, address bar. 3. A session cookie. 4. A worm replicates and spreads across a network by itself; a virus needs an infected file to be run. 5. Poor spelling or an urgent, threatening tone; a link whose URL does not match the genuine organisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--15-net-internet-web.webp" width="900" height="980" alt="A large box for the internet shows routers, cables and servers. Inside it a dashed region holds web pages (the web); email and online gaming sit outside the dashed region but inside the internet box." loading="lazy">
+  <figcaption>The web is only part of what runs on the internet.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--16-net-url.webp" width="900" height="660" alt="The URL https://www.lakesidemuseum.org/visit/opening-hours.html split into protocol (https), domain name (www.lakesidemuseum.org) and web page/file name (opening-hours.html in the visit folder)." loading="lazy">
+  <figcaption>The three parts of a URL.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-internet-and-its-uses--17-net-dns.webp" width="900" height="990" alt="A three-lane sequence of the browser, DNS and web server, with seven numbered steps: type the URL, send the domain name, DNS searches, IP address returned, page requested, HTML sent back, page rendered." loading="lazy">
+  <figcaption>What happens between typing a URL and seeing the page.</figcaption>
+</figure>
+

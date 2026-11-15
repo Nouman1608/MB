@@ -43,11 +43,23 @@ Styles connect to layout (paragraph alignment and spacing), to audience (a house
 - A **table style** sets borders, shading and fonts for a whole table.
 - In presentation and web software, styles take the form of **master slides** and **style sheets** (CSS), which work in the same way: define the formatting once and apply it widely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--07-st-style-types.webp" width="900" height="790" alt="A page with a Heading 1 paragraph, a body paragraph that contains the single word Warning in bold red, and a table. A paragraph style, outlined with teal dashes, covers a whole paragraph. A character style, around the word Warning, covers selected words only. A table style, outlined in copper, sets borders, shading and fonts for a whole table. Presentation and web software work the same way with master slides and style sheets." loading="lazy">
+  <figcaption>Paragraph, character and table styles cover different amounts of a document.</figcaption>
+</figure>
+
+
 ### Creating a style
 
 To create a paragraph style you give it a **name**, choose the formatting, and decide what it is **based on** and what style follows it. For instance, a style called `Body Text` could be 11 pt Arial, left-aligned, with 1.15 line spacing and 6 pt spacing after each paragraph. A style called `Heading 1` could be 18 pt Arial bold in dark blue, with 12 pt spacing before and 6 pt after, and a following style of `Body Text`, so that pressing Enter after a heading starts a body paragraph.
 
 Style names should describe their purpose, for example `Caption` or `Warning`, and not their appearance, such as `BigBlue`, because the appearance may change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--08-st-create-style.webp" width="900" height="870" alt="Two style cards. Heading 1 is 18 pt Arial bold in dark blue with 12 pt before and 6 pt after, and its next style is Body Text. An arrow labelled Press Enter leads to Body Text, which is 11 pt Arial, left-aligned, with 1.15 line spacing and 6 pt after each paragraph. A small page shows a new body paragraph starting after the heading. Below, style names Caption and Warning are ticked because they describe purpose, and BigBlue is crossed because it describes appearance." loading="lazy">
+  <figcaption>A style has a name, formatting and a following style, and the name should describe purpose.</figcaption>
+</figure>
+
 
 ### Applying and editing styles
 
@@ -59,6 +71,22 @@ You apply a style by selecting the text (or placing the cursor in the paragraph)
 - headings with styles can be used to build a **contents list** automatically.
 
 When you **edit** a style, for example changing Body Text from 11 pt to 12 pt, every paragraph with that style changes. If a style is *based on* another, changes to the parent can pass down to the children, which is called **inheritance**. If you make a manual change to one paragraph, it is called a **direct formatting override**, and it will not update when the style changes, so avoid it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--06-st-edit-once.webp" width="900" height="930" alt="Top: eighteen heading boxes, each needing its own edit when formatted by hand, so 18 separate edits. Bottom: a Heading 1 style set to 16 pt dark blue is linked to the same eighteen headings, so one edit to the style changes all of them identically. The saving is 18 minus 1, which is 17 fewer edits." loading="lazy">
+  <figcaption>One edit to a heading style replaces eighteen manual edits, saving 17.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--09-st-direct-override.webp" width="900" height="900" alt="Two columns of five paragraphs. Before: four Body Text paragraphs are 11 pt and one paragraph, outlined in copper dashes, has its own manual format. After the Body Text style is edited to 12 pt, the four paragraphs using the style become 12 pt, but the paragraph with the manual change (a direct formatting override) does not update." loading="lazy">
+  <figcaption>Editing a style updates every paragraph that uses it but not a manual override.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--10-st-inheritance.webp" width="900" height="800" alt="The Body Text style changes its font from Arial to Verdana. Two heading styles are based on it. A heading with no font of its own also changes to Verdana. A heading style that sets its own font keeps that font. The hierarchy should therefore be planned before work starts." loading="lazy">
+  <figcaption>A style based on another inherits its changes unless it sets its own font.</figcaption>
+</figure>
+
 
 ### Worked example: why a style is quicker
 
@@ -108,6 +136,12 @@ A marker will look for the exact values, so read the specification closely, incl
 ### Benefits of a house style
 
 Documents look professional and consistent, the brand is easy to recognise, staff do not spend time on formatting and new staff can produce correct documents quickly. A weakness is that it limits individual creativity, and the style must be updated for all documents when the organisation changes it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--11-st-house-style.webp" width="900" height="860" alt="A page with five numbered parts to check against a company house style. 1: the logo at the top right of the first page. 2: the heading in Arial 16 pt bold, dark blue. 3: body text in Arial 11 pt, left-aligned. 4: a confidential notice at the left of the footer. 5: an automatic page number centred in the footer. The finished layout is saved as a template to reuse." loading="lazy">
+  <figcaption>A house style lists exact attributes to check, and a template stores them for reuse.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

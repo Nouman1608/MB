@@ -41,6 +41,12 @@ Paper 1, *Understanding the modern world*, lasts 2 hours and is worth 84 marks (
 | AC Russia, 1894-1945: Tsardom and communism | Fall of Tsardom; rise and consolidation of communism | 1 The end of Tsardom; 2 Lenin's new society; 3 Stalin's USSR |
 | AD America, 1920-1973: Opportunity and inequality | The "American Dream" and the reality of poverty and discrimination | 1 American people and the "Boom"; 2 Bust -- the Depression and New Deal; 3 Post-war America |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--02-ps-parts.webp" width="900" height="1172" alt="Four cards, one for each option. Each card names the option and its two linked developments, then shows its three parts in order, joined by arrows. America 1840 to 1895: expansion; conflict across America; consolidation. Germany 1890 to 1945: growth of democracy; the Depression; experiences under the Nazis. Russia 1894 to 1945: the end of Tsardom; Lenin’s new society; Stalin’s USSR. America 1920 to 1973: the Boom; the Bust and New Deal; post-war America." loading="lazy">
+  <figcaption>Every option has three parts, and all three are tested.</figcaption>
+</figure>
+
+
 ## How is Section A examined?
 
 | Question | Type | Marks | What it tests |
@@ -54,6 +60,17 @@ Paper 1, *Understanding the modern world*, lasts 2 hours and is worth 84 marks (
 
 The interpretations need no knowledge of historiography -- you judge them against what you know about the events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--03-ps-marks.webp" width="900" height="894" alt="A bar chart of the six compulsory questions in Section A, 40 marks in total. Questions 1 to 3 test interpretations and carry 4, 4 and 8 marks, 16 in all. Questions 4 to 6 test your own knowledge and carry 4, 8 and 12 marks, 24 in all. A time bar shows about an hour for Section A, with roughly 20 minutes for the 12-mark question 6." loading="lazy">
+  <figcaption>Section A is 40 marks: 16 on interpretations and 24 on your own knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--04-ps-interpretations.webp" width="900" height="760" alt="Two interpretation cards, A and B, sit side by side with a double arrow between them for question 1: compare how B differs from A. Above each card is its author, with an arrow down to the card for question 2: the author’s situation explains why the views differ. Below the cards a box labelled what you know about the events has an arrow up to each card for question 3: test each interpretation against your own knowledge. No knowledge of historians is needed." loading="lazy">
+  <figcaption>Questions 1 to 3 compare interpretations, explain differences and judge them.</figcaption>
+</figure>
+
+
 ## AA America, 1840-1895: Expansion and consolidation
 
 **Part one -- expansion.** Americans once saw the Plains as the "Great American Desert", but the belief in **Manifest Destiny** -- a phrase from 1845 -- held that the USA was meant to spread across the continent. Settlers went west for land, gold and religious freedom: the **Mormons**, led by **Brigham Young** after Joseph Smith's murder in 1844, trekked to the Great Salt Lake (1846-47); pioneer farmers took the Oregon and California trails; miners rushed to California after gold was found in 1848. The **Plains Indians** lived by hunting buffalo, moved with the herds and held land in common, which clashed with settler ideas of ownership. Government policy moved from a **Permanent Indian Frontier** to restricting tribes as the trails grew.
@@ -62,6 +79,12 @@ The interpretations need no knowledge of historiography -- you judge them agains
 
 **Part three -- consolidation.** After the war the **13th Amendment** (1865) abolished slavery and a **Civil Rights Act** (1866) defined citizenship, but Reconstruction (to 1877) was resisted in the South and "carpetbaggers" were resented. The **Homestead Act** (1862) and the transcontinental railroad (1869) drew homesteaders onto the Plains, where they solved problems of water, fencing and fuel with wind pumps, barbed wire and new crops. Native Americans were pushed onto small reservations; after the Sioux victory at **Little Big Horn** (1876) the army hunted down the tribes, the **Dawes Act** (1887) broke up reservation land, and **Wounded Knee** (1890) ended armed resistance. The 1890 census declared the frontier closed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--01-ps-spans.webp" width="900" height="830" alt="A horizontal time axis from 1840 to 1960. Four bars show the options: AA America 1840 to 1895 (55 years, expansion and consolidation), AB Germany 1890 to 1945 (55 years, democracy and dictatorship), AC Russia 1894 to 1945 (51 years, Tsardom and communism) and AD America 1920 to 1973 (53 years, opportunity and inequality). Each covers about fifty years. A school chooses one option." loading="lazy">
+  <figcaption>The four options on one axis; your school picks one.</figcaption>
+</figure>
+
+
 ## AB Germany, 1890-1945: Democracy and dictatorship
 
 **Part one -- democracy.** Kaiser **Wilhelm II** ruled a new empire with a Reichstag but little parliamentary control; Prussian militarism dominated. Rapid **industrialisation** fed the growth of the socialist SPD, which became the largest party in the Reichstag in 1912, while social reforms tried to win workers away from it. The **Navy Laws** (from 1898) were popular with nationalists and industry. War brought **war weariness**, shortages and defeat; the monarchy ended in November 1918. Weimar faced the Spartacists, the **Kapp Putsch** and the **Munich Putsch**, plus reparations, the Ruhr occupation and **hyperinflation** (1923). Under Stresemann (1924-29) the new currency, the **Dawes** and **Young** Plans and agreements such as Locarno brought recovery; Weimar culture flourished.
@@ -69,6 +92,12 @@ The interpretations need no knowledge of historiography -- you judge them agains
 **Part two -- the Depression.** Unemployment after 1929 boosted the Nazis and communists; the **SA** and Hitler's appeal won votes. Election results, the intrigues of **Papen and Hindenburg** and Hitler's appointment (January 1933) ended democracy; the **Reichstag Fire**, the **Enabling Act**, the banning of parties and unions, **Röhm and the Night of the Long Knives** (1934) and Hitler becoming **Führer** created a dictatorship.
 
 **Part three -- experiences.** Employment rose through public works and **rearmament**; the regime pursued self-sufficiency. War brought bombing, rationing, labour shortages and refugees. Women, young people, education and the churches were targeted by social policy; Aryan racial ideas led to persecution and the **Final Solution**. Control rested on **Goebbels**'s propaganda and censorship, and on **Himmler**, the SS and Gestapo; opposition included the **White Rose**, **Swing Youth**, **Edelweiss Pirates** and the **July 1944 bomb plot**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--06-ps-germany-dates.webp" width="900" height="936" alt="A vertical ladder of eight dates, each marked with the number of the part of the option it belongs to. Part 1, democracy: 1912 the SPD becomes the largest party in the Reichstag; November 1918 the monarchy ends; 1923 hyperinflation; 1924 to 1929 Stresemann’s recovery. Part 2, the Depression: unemployment after 1929 boosts the Nazis; January 1933 Hitler is appointed; 1934 the Night of the Long Knives. Part 3, experiences under the Nazis: the July 1944 bomb plot." loading="lazy">
+  <figcaption>Key dates in order, tagged by part: democracy, the Depression, under the Nazis.</figcaption>
+</figure>
+
 
 ## AC Russia, 1894-1945: Tsardom and communism
 
@@ -93,6 +122,12 @@ The interpretations need no knowledge of historiography -- you judge them agains
 1. **The Depression:** unemployment of about six million made voters desperate; Nazi seats rose from 12 (1928) to 230 (July 1932).
 2. **Papen and Hindenburg:** the Nazis lost seats in November 1932, yet Papen persuaded Hindenburg to appoint Hitler, believing he could be controlled.
 3. **Judgement:** the Depression made Hitler a contender; the backstairs deal put him in office. Explain *why* one mattered more -- for example, without the deal he might never have gained power as his vote was falling.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--05-ps-q6-example.webp" width="900" height="990" alt="Two panels weigh the reasons Hitler became Chancellor in January 1933. Reason 1, the Depression: unemployment of about six million, and Nazi seats rising from 12 in 1928 to 230 in July 1932, drawn as two bars. Reason 2, Papen and Hindenburg: the Nazis lost seats in November 1932, yet Papen persuaded Hindenburg to appoint Hitler in January 1933, believing he could be controlled. A level balance scale with the two reasons on its pans reminds you to write a judgement explaining why one mattered more." loading="lazy">
+  <figcaption>Question 6 weighs two reasons and ends with a judgement.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

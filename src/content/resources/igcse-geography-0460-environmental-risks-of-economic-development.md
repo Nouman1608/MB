@@ -58,6 +58,12 @@ Every part of Theme 3 can harm the environment. This section asks you to pull th
 
 The syllabus also says threats to **people**. Always say who is affected: farmers who lose soil, fishing families who lose catches, or residents who breathe polluted air.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--08-threat-matrix.webp" width="900" height="1046" alt="Grid of six activities against seven threats: farming, industry, mining, energy, tourism and transport, with dots where the lesson lists the threat. Greenhouse gases are shown as gold diamonds because they are a global threat." loading="lazy">
+  <figcaption>Which economic activities cause which threats.</figcaption>
+</figure>
+
+
 ## Soil erosion
 
 **Soil erosion** is the removal of topsoil by water or wind faster than new soil can form. Topsoil holds most of the nutrients, so its loss lowers crop yields.
@@ -72,6 +78,12 @@ The syllabus also says threats to **people**. Always say who is affected: farmer
 
 **Reducing soil erosion:** terracing on steep slopes, contour ploughing (along the slope, not down it), planting shelter belts of trees, keeping crop cover on the land, and controlling the number of grazing animals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--09-soil-erosion.webp" width="900" height="980" alt="Top: a bare slope with trees removed; runoff carries soil to the river as silt; plan view shows furrows running downhill. Bottom: terraces with tree belts and crop cover slow runoff; plan view shows furrows along the slope." loading="lazy">
+  <figcaption>Bare slopes lose soil; terraces, contour ploughing and tree belts slow it.</figcaption>
+</figure>
+
+
 ## Desertification
 
 **Desertification** is the degradation of land in dry (arid and semi-arid) areas, so that it becomes more like a desert. It is not deserts "moving"; it is good land being damaged.
@@ -84,6 +96,12 @@ The syllabus also says threats to **people**. Always say who is affected: farmer
 
 **Evaluation:** the scheme combines tree planting with better farming and new jobs, so it tackles causes as well as symptoms. But progress has been slower than planned, and seedlings planted in very dry land often die unless local people protect and water them. Success depends on local communities, not only on government targets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--10-desertification.webp" width="900" height="960" alt="Healthy, stressed and desert-like dry land in a row, human causes (overgrazing, overcultivation, fuelwood cutting, salty irrigation), the natural cause of long droughts, and the Great Green Wall facts: African Union 2007, about 8,000 km, 20+ countries, 100 million hectares by 2030." loading="lazy">
+  <figcaption>Desertification is damage to dry land, mostly by people.</figcaption>
+</figure>
+
+
 ## Enhanced global warming
 
 The **natural greenhouse effect** keeps the Earth warm. Gases such as carbon dioxide and methane trap some of the heat given off by the Earth's surface. Without them the planet would be too cold for most life.
@@ -95,6 +113,12 @@ The **natural greenhouse effect** keeps the Earth warm. Gases such as carbon dio
 **Effects:** rising sea levels from melting ice and warmer oceans, threatening low-lying coasts; more intense heatwaves, droughts and storms; changing crop yields; loss of coral reefs and other habitats.
 
 This is the clearest **global** threat. Emissions in one country affect people everywhere. Some of the people most at risk, such as farmers in dry regions or residents of low-lying islands, produce few emissions themselves. Under the Paris Agreement (2015), countries agreed to try to limit warming to well below 2 °C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--11-greenhouse.webp" width="900" height="1110" alt="Two panels, illustrative. Naturally 3 of 8 heat arrows are trapped by greenhouse gases and sent back; with extra gases 6 of 8 are. Extra gas comes from burning coal, oil and gas, deforestation, methane from cattle, rice and landfill, and gas flaring." loading="lazy">
+  <figcaption>Extra greenhouse gases trap more of the Earth’s heat.</figcaption>
+</figure>
+
 
 ## Pollution: water, air, noise and visual
 
@@ -110,6 +134,12 @@ The syllabus names four types. Learn a source and an effect for each.
 **Eutrophication** happens when nitrates and phosphates from fertiliser or sewage enter water. Algae grow quickly, then die. Bacteria break down the dead algae and use up the oxygen, so fish suffocate.
 
 Visual and noise pollution are local. Air and water pollution can be local or travel long distances in winds and rivers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--12-eutrophication.webp" width="900" height="1060" alt="Four lake steps: fertiliser or sewage adds nitrates and phosphates; algae bloom; algae die and bacteria use up the oxygen; fish suffocate. An oxygen bar falls at each step." loading="lazy">
+  <figcaption>Eutrophication starves the water of oxygen.</figcaption>
+</figure>
+
 
 ## The need for sustainable development and management
 
@@ -131,6 +161,12 @@ Sustainable development balances three things:
 - **Community involvement**, so local people benefit from protecting the land.
 
 **Evaluation:** laws only work if they are enforced. Poorer countries may lack money for inspectors, and some firms may move to places with weaker rules. Global agreements depend on every country keeping its promises.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--13-sustainable-development.webp" width="900" height="1090" alt="Three overlapping circles for economic, social and environmental goals, six sustainable management methods and the evaluation that laws only work if enforced." loading="lazy">
+  <figcaption>Sustainable development balances economic, social and environmental needs.</figcaption>
+</figure>
+
 
 ## The importance of resource conservation
 
@@ -164,6 +200,12 @@ Two spills from Shell Nigeria's Trans-Niger pipeline, which began in 2008, badly
 - Efforts to reduce gas flaring by capturing gas for use instead of burning it.
 
 **Evaluation:** clean-up has been slow and new spills continue, so the area shows how hard it is to manage damage after it happens. The case supports the need for sustainable management from the start: maintained pipelines, strict laws that are enforced, and local people sharing in the benefits. It also shows a global link: flaring adds to enhanced global warming far beyond Nigeria.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--14-niger-delta.webp" width="900" height="1160" alt="Timeline: 1956 oil found at Oloibiri; 2008 two pipeline spills at Bodo; 2011 UNEP assessment with 4,000+ samples and 200+ sites and benzene about 900 times the WHO guideline; 2015 Shell agrees to pay 55 million pounds (35 million to individuals, 20 million to the community); 2016 clean-up launched by HYPREP; UNEP recovery estimate up to 30 years, first 5 years about 1 billion US dollars." loading="lazy">
+  <figcaption>Key dates and numbers in the Niger Delta case study.</figcaption>
+</figure>
+
 
 ## Worked example: using the case study
 

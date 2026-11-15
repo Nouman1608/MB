@@ -44,6 +44,22 @@ Both sections are in 3.2 How the economy works, assessed on Paper 2, with no tie
 
 Demand-side policies (fiscal and monetary policy) change how much is spent in the economy. Supply-side policies change how much the economy is **able** to produce. If productive capacity grows, output can rise without pushing up prices, so supply-side policies can help growth, employment, price stability and the balance of payments at the same time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--01-spending-vs-capacity.webp" width="900" height="990" alt="An illustrative production possibility curve. Point A is inside PPC1. A demand-side policy moves the economy from A to B on PPC1. A supply-side policy shifts the whole curve out to PPC2, so point C becomes possible." loading="lazy">
+  <figcaption>Demand-side policy changes how much is spent; supply-side policy changes how much can be produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--02-six-policies.webp" width="900" height="1010" alt="Six tiles with icons: education and training, lower income tax, lower profit tax, trade union reform, privatisation and deregulation, each with its one-line effect from the lesson table." loading="lazy">
+  <figcaption>Each named supply-side policy works by raising productive capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--04-costs-now-gains-later.webp" width="900" height="960" alt="An illustrative chart over ten years: four bars of spending in years 1 to 4 and a curve of extra output that is small at first and large only later, with a double arrow marking the wait." loading="lazy">
+  <figcaption>Supply-side policies cost money early but their gains arrive years later.</figcaption>
+</figure>
+
+
 ## What are the main supply-side policies?
 
 | Policy | How it works | Example of effect |
@@ -79,6 +95,12 @@ Demand-side policies (fiscal and monetary policy) change how much is spent in th
 | Price stability | Output can grow without excess demand pushing prices up |
 | Balance of payments | Lower costs and higher quality make exports more competitive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--03-help-objectives.webp" width="900" height="1060" alt="Productive capacity rises, so output can grow without pushing up prices. This links to four objectives: growth (real GDP rises), full employment (training cuts structural unemployment), price stability and the balance of payments (lower costs make exports competitive)." loading="lazy">
+  <figcaption>Rising capacity supports all four objectives at once.</figcaption>
+</figure>
+
+
 ## What are externalities?
 
 An externality is a cost or benefit to a third party that is not reflected in the market price. It is the difference between social costs or benefits and private costs or benefits.
@@ -87,6 +109,12 @@ An externality is a cost or benefit to a third party that is not reflected in th
 - **Positive externality:** a benefit to third parties, such as fewer infections when people are vaccinated, or a more skilled workforce when people are educated.
 
 Without intervention, goods with negative externalities tend to be over-produced or over-consumed, and goods with positive externalities tend to be under-produced or under-consumed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--05-externalities.webp" width="900" height="1030" alt="Two panels. Negative: a buyer pays a factory, pollution is an unpaid cost to a third party, so the good tends to be over-produced. Positive: a buyer pays for vaccination, others benefit for free, so it tends to be under-produced." loading="lazy">
+  <figcaption>An externality is a cost or benefit to a third party that the price ignores.</figcaption>
+</figure>
+
 
 ## Which policies correct negative externalities?
 
@@ -99,6 +127,17 @@ Without intervention, goods with negative externalities tend to be over-produced
 ### Worked example: a pollution tax (illustrative)
 
 A plastics firm pays a tax of 2 units per kilogram of waste. It produced 50,000 kg of waste a year and now produces 35,000 kg. Tax paid = 35,000 × 2 = **70,000** units. Waste has fallen by (50,000 − 35,000) ÷ 50,000 × 100 = **30%**. The tax has reduced the externality and raised revenue that could fund clean-up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--06-tax-and-subsidy.webp" width="900" height="1090" alt="Two market diagrams. A tax shifts supply up: price rises 12 to 14 pounds and output falls 80 to 60. A subsidy shifts supply down: price falls 14 to 12 pounds and output rises 60 to 80. All numbers illustrative." loading="lazy">
+  <figcaption>Tax reduces output of a harmful good; subsidy raises output of a beneficial one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--07-pollution-tax.webp" width="900" height="930" alt="Waste falls from 50,000 kg to 35,000 kg a year, a 30 percent fall. Tax paid is 35,000 x 2 = 70,000 units, revenue that could fund clean-up." loading="lazy">
+  <figcaption>A pollution tax cut waste by 30 percent and raised 70,000 units.</figcaption>
+</figure>
+
 
 ## Which policies correct positive externalities?
 

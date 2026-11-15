@@ -56,6 +56,22 @@ The **enthalpy change, ΔH**, is the heat energy change measured **at constant p
 
 Always write the sign: +94 kJ mol⁻¹, not 94 kJ mol⁻¹.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--03-polarisation-covalent-character.webp" width="900" height="1150" alt="Left: Cs+ and Cl- as spheres; experiment (-668) is close to the ionic model (-652). Right: small Ag+ pulls the Cl- cloud towards it, giving shared electron density; experiment (-905) is clearly more exothermic than the model (-833). The gaps are 2.5 and 8.6 percent." loading="lazy">
+  <figcaption>A larger experimental-versus-model gap shows more covalent character, caused by a cation polarising the anion (AQA, OxfordAQA, Edexcel).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--07-gibbs-vs-temperature.webp" width="900" height="1000" alt="Graph of ΔG against temperature: a straight line starting at +178 kJ per mole, sloping down at -0.165 kJ per K, crossing zero at 1079 K. Above 1079 K ΔG is negative and the reaction is feasible; below it is not. A note says feasible does not mean fast." loading="lazy">
+  <figcaption>ΔG = ΔH − TΔS gives a straight line whose intercept is ΔH and gradient is −ΔS; it crosses zero at T = ΔH/ΔS = 1079 K.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--09-total-entropy.webp" width="900" height="1070" alt="Grouped bars for CaCO3 decomposition at 298, 1079 and 1500 K. System entropy change is +165 each time; surroundings entropy change is -ΔH/T: -597, -165, -119. Total is -432 (not feasible), about 0 (borderline) and +46 (feasible)." loading="lazy">
+  <figcaption>For Edexcel, a reaction is feasible when ΔS(total) = ΔS(system) + ΔS(surroundings) is positive, with ΔS(surroundings) = −ΔH/T.</figcaption>
+</figure>
+
+
 ## 6.3 Enthalpy level diagrams
 
 An enthalpy level diagram has enthalpy, H, on the vertical axis. Reactants and products are drawn as horizontal lines. A vertical arrow runs **from reactants to products** and is labelled with ΔH.
@@ -71,6 +87,17 @@ H |  reactants ____                 H |              ____ products
 Products below reactants means exothermic. Label both levels with formulae and state symbols, and put ΔH, with its sign, beside the arrow.
 
 **Worked example 1.** NH₄Cl(s) + aq → NH₄⁺(aq) + Cl⁻(aq), ΔH = +15 kJ mol⁻¹. ΔH is positive, so draw NH₄⁺(aq) + Cl⁻(aq) **above** NH₄Cl(s) + aq, with an **upward** arrow labelled +15 kJ mol⁻¹. The solution feels cold.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--07-enthalpy-level-diagrams.webp" width="900" height="840" alt="Two enthalpy level diagrams with H on the vertical axis. Exothermic: products below reactants, arrow down, ΔH negative, heat leaves and the surroundings warm. Endothermic: NH₄Cl(s) + aq below NH₄⁺(aq) + Cl⁻(aq), arrow up, ΔH = +15 kJ mol⁻¹, and the solution feels cold." loading="lazy">
+  <figcaption>In an exothermic reaction products sit below reactants (ΔH negative); in an endothermic one they sit above (ΔH positive).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--01-born-haber-nacl.webp" width="900" height="1090" alt="Energy level diagram: Na(s) and half a Cl2 at 0 rise through atomisation of Na (+107), atomisation of Cl (+122) and ionisation of Na (+496) to 725, fall 349 on electron affinity to 376, then fall 787 as the lattice forms to minus 411. A direct arrow shows the enthalpy of formation, minus 411, so lattice energy is minus 787 kJ per mole." loading="lazy">
+  <figcaption>Born-Haber cycle for NaCl: the five steps sum to the enthalpy of formation, giving a lattice energy of -787 kJ mol-1.</figcaption>
+</figure>
+
 
 ## 6.4 Standard enthalpy change definitions
 
@@ -92,6 +119,12 @@ Atomisation of bromine:       ½Br₂(l) → Br(g)
 ```
 
 Atomisation makes one mole of Br **atoms**, starting from liquid bromine (its standard state).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--05-what-raises-entropy.webp" width="900" height="1110" alt="Three panels. Particles in a solid sit in fixed places, in a liquid slide past each other, and in a gas move freely, so entropy rises. Heating makes particles move faster, raising entropy. A reaction that makes gas (CaCO3 decomposing) has positive entropy change, while one that uses up gas (ethene plus steam forming ethanol) has negative." loading="lazy">
+  <figcaption>Entropy rises from solid to liquid to gas, with temperature, and when a reaction produces more moles of gas.</figcaption>
+</figure>
+
 
 ## 6.5 Calculating ΔH from experiments
 
@@ -123,6 +156,22 @@ n(propan-2-ol) = 0.450 ÷ 60.0 = 0.00750 mol
 ```
 
 Against an accepted value of −2006 kJ mol⁻¹, this captured only about 84% of the heat (see 6.8).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--08-calorimetry-neutralisation.webp" width="900" height="800" alt="A polystyrene cup with a thermometer holds 80.0 g of solution that warms by 10.0 °C. Three steps follow: energy = 80.0 × 4.18 × 10.0 = 3344 J; moles of water formed = 0.0600 mol, because KOH is in excess; ΔH = −3.344 kJ ÷ 0.0600 mol = −55.7 kJ mol⁻¹." loading="lazy">
+  <figcaption>Energy comes from the mass of solution, then dividing by moles of water formed gives a negative ΔH for a temperature rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--04-solution-cycle.webp" width="900" height="980" alt="Energy level diagram: NaCl(s) at 0 rises 787 to gaseous ions, falls 406 as Na+ is hydrated and 364 as Cl- is hydrated, ending at +17 kJ per mole above the solid. The enthalpy of solution is therefore +17." loading="lazy">
+  <figcaption>Dissolving NaCl: break the lattice (+787), then hydrate both ions (-406, -364), giving +17 kJ mol-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--06-entropy-change-calc.webp" width="900" height="1070" alt="Bar chart: CaCO3(s) 92.9 J per K per mole against products CaO(s) 40.0 stacked with CO2(g) 213.6, total 253.6. The difference, +160.7, is the entropy change; most of it is the gas." loading="lazy">
+  <figcaption>ΔS = ΣS°(products) − ΣS°(reactants) = +160.7 J K-1 mol-1 for CaCO3 → CaO + CO2.</figcaption>
+</figure>
+
 
 ## 6.6 Hess's Law and enthalpy cycles
 
@@ -164,6 +213,12 @@ product:   −1527
 
 The two subtraction rules point opposite ways, so draw the cycle each time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--10-hess-cycles-direction.webp" width="900" height="1130" alt="Two Hess cycles. Top, from formation data: MgO + CO₂ → MgCO₃ with the elements at the bottom and arrows up; route values −996 and −1096 give ΔrH = −100 kJ mol⁻¹. Bottom, from combustion data: 3C + 3H₂ + O₂ → propanoic acid with 3CO₂ + 3H₂O at the bottom and arrows down; route values −2040 and −1527 give ΔfH = −513 kJ mol⁻¹." loading="lazy">
+  <figcaption>Formation cycles put the elements at the bottom with arrows up; combustion cycles put the products at the bottom with arrows down.</figcaption>
+</figure>
+
+
 ## 6.7 Core Practical 2: an enthalpy change by Hess's Law
 
 A thermal decomposition needs continuous heating, so you cannot measure its ΔH in a cup. Instead, measure two reactions that **can** be done in a cup and combine them with a cycle. One common version uses potassium hydrogencarbonate:
@@ -194,6 +249,12 @@ Target: 2(+30.1) − (−33.9) = +94.1 ≈ +94 kJ mol⁻¹
 
 The acid is in excess: 0.0600 mol HCl, against 0.0300 mol (run 1) and 0.0400 mol (run 2) needed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--11-core-practical-2-cycle.webp" width="900" height="890" alt="A Hess cycle for 2KHCO₃(s) → K₂CO₃(s) + CO₂(g) + H₂O(l). Both routes end at 2KCl(aq) + 2CO₂ + 2H₂O. Route 1 is 2ΔH₁ = 2(+30.1) as the cup cools by 7.2 °C. Route 2 is ΔH₂ = −33.9 as the cup warms by 5.4 °C. The target is 2ΔH₁ − ΔH₂ = +94.1, about +94 kJ mol⁻¹." loading="lazy">
+  <figcaption>A thermal decomposition that cannot be done in a cup is found from two cup reactions: ΔH = 2ΔH₁ − ΔH₂. (Edexcel only)</figcaption>
+</figure>
+
+
 ## 6.8 Evaluating calorimetry results
 
 ### Cooling curve corrections
@@ -214,6 +275,12 @@ Heat leaks out while the reaction is still going. Record temperature at regular 
 ### Sources of error in combustion experiments
 
 A spirit burner value is usually less exothermic than the accepted one because heat warms the air and can, combustion is incomplete (soot), fuel evaporates from the wick, and conditions are not standard. Improve it with a draught shield, a smaller gap between flame and can, and a cap on the burner between weighings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--09-cooling-correction.webp" width="900" height="780" alt="A temperature against time graph using illustrative data. Readings are level before mixing, jump at mixing, then fall slowly as heat leaks. A best-fit line through the falling readings is extended back to the time of mixing, and ΔT is the gap between that extrapolated value and the starting temperature." loading="lazy">
+  <figcaption>Extrapolate the cooling line back to the time of mixing and take ΔT from that value, not from the highest reading. (Edexcel only)</figcaption>
+</figure>
+
 
 ## 6.9 Bond enthalpy and mean bond enthalpy
 
@@ -236,6 +303,12 @@ per mole of H₂O(g): −243 kJ mol⁻¹
 
 **Limitations.** Mean values are not the exact values in your molecules, so the answer is an estimate. The method only applies to gases, so any change of state is missed. ΔfH or ΔcH data give more reliable values.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--12-bond-enthalpy-estimate.webp" width="900" height="920" alt="An energy diagram. Breaking 2 H–H (436 each) and one O=O (498) takes +1370 kJ and lifts the system to gaseous atoms. Making four O–H bonds (464 each) releases 1856 kJ. The net change is 1370 − 1856 = −486 kJ for the equation as written." loading="lazy">
+  <figcaption>ΔH is the energy to break bonds minus the energy released making bonds.</figcaption>
+</figure>
+
+
 ## 6.10 Mean bond enthalpies from enthalpy changes
 
 **Worked example 8.** Calculate the mean N–H bond enthalpy in ammonia. Use these values (kJ mol⁻¹): ΔfH NH₃(g) −46; ΔatH nitrogen +473; ΔatH hydrogen +218.
@@ -251,6 +324,12 @@ The bond with the **lowest** bond enthalpy usually breaks first. If the bond tha
 **Worked example 9.** Using C–Cl 346, C–Br 290 and C–I 228 kJ mol⁻¹, rank the hydrolysis rates of chloro-, bromo- and iodoethane.
 
 The C–halogen bond breaks. C–I is weakest, so iodoethane reacts fastest and chloroethane slowest. Likewise, the strong N≡N bond (945 kJ mol⁻¹) explains why nitrogen barely reacts at room temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-chemistry-energetics--13-bond-enthalpy-rate.webp" width="900" height="760" alt="Bars of bond enthalpy: C–Cl 346, C–Br 290 and C–I 228 kJ mol⁻¹. The weakest bond, C–I, breaks first, so iodoethane hydrolyses fastest and chloroethane slowest. A longer bar shows the strong N≡N bond at 945 kJ mol⁻¹, which is why nitrogen barely reacts at room temperature." loading="lazy">
+  <figcaption>The weaker the bond that must break, the faster the reaction.</figcaption>
+</figure>
+
 
 ## Common errors
 
@@ -279,6 +358,12 @@ Mean bond enthalpies are averages over many compounds, so they are not the exact
 
 **Why is a spirit burner value for ΔcH less exothermic than the data book value?**
 Heat is lost to the air and the can, combustion may be incomplete, fuel can evaporate from the wick, and conditions are not standard. A draught shield, a smaller gap between flame and can, and capping the burner between weighings all reduce the error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chemical-energetics-lattice-energy-entropy-and-gibbs-free-energy--02-lattice-energy-charge-radius.webp" width="900" height="1170" alt="Two ion pairs are drawn to scale. Na+ and Cl- have charges of 1 and centres 0.283 nm apart; Mg2+ and O2- have charges of 2 and centres 0.212 nm apart. The MgO lattice energy bar, -3791 kJ per mole, is about five times that of NaCl, -787." loading="lazy">
+  <figcaption>Higher ionic charge and smaller ionic radius give a more exothermic lattice energy (and hydration enthalpy).</figcaption>
+</figure>
+
 
 ## Official syllabus
 

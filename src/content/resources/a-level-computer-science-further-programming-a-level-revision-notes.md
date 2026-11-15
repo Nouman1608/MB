@@ -61,6 +61,12 @@ Related: [Further Programming (A Level) study guide](/resources/a-level-computer
 **Mini trace**: address 50 holds 70, address 70 holds 9, IX = 2, address 52 holds 15.
 `LDM #50` → ACC = 50. `LDD 50` → ACC = 70. `LDI 50` → ACC = 9. `LDX 50` → ACC = 15.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--08-fp-addressing-modes.webp" width="900" height="920" alt="Four rows. Immediate, LDM #25: the operand is the value, so ACC becomes 25. Direct, LDD 200: the operand is an address; address 200 holds 7 so ACC becomes 7. Indirect, LDI 300: address 300 holds 500, which is the address of the value; address 500 holds 9 so ACC becomes 9. Indexed, LDX 400 with IX equal to 2: the address is 400 plus 2 which is 402, holding 6, so ACC becomes 6. Relative addressing gives an offset from the current instruction and is used for jumps. Memory contents are illustrative." loading="lazy">
+  <figcaption>Immediate, direct, indirect and indexed addressing show what the operand means.</figcaption>
+</figure>
+
+
 ## OOP terms
 
 | Term | One-line meaning |
@@ -107,6 +113,12 @@ OUTPUT Truck.Toll()      // 12.00: Lorry overrides Toll (polymorphism)
 
 Use the same name for an attribute, its getter and its setter (e.g. Reg, GetReg, SetReg), as the 9618 examiner reports from June 2024 to June 2025 advise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--10-fp-oop-classes.webp" width="900" height="890" alt="Account has private attributes Owner and Balance and public methods NEW, GetBalance and Deposit. SavingsAccount inherits from Account (an is-a relationship, hollow triangle arrow) and adds a private Rate. A Bank holds an array of Account objects (a has-a relationship, diamond end). MyAccount is an instance of SavingsAccount for Farah with rate 0.03 and balance 250.00 after depositing 250.00." loading="lazy">
+  <figcaption>Account, SavingsAccount (is-a), Bank (has-a) and an instance of SavingsAccount.</figcaption>
+</figure>
+
+
 ## Declarative: facts, rules, goals
 
 ```
@@ -125,6 +137,12 @@ Use the same name for an attribute, its getter and its setter (e.g. Reg, GetReg,
 
 Constants start lower case; variables start upper case. The system matches facts in order and backtracks to find every solution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--12-fp-declarative-facts-rules.webp" width="900" height="990" alt="Four flight facts: cairo to doha, doha to manila, doha to nairobi and lima to cairo. The rule connects(X, Y) holds if flight(X, Z) and flight(Z, Y). Goal flight(doha, D) gives manila and nairobi. Goal connects(cairo, Y) matches Z equal to doha and gives manila and nairobi. Goal connects(lima, doha) succeeds with Z equal to cairo. Answers were computed in code." loading="lazy">
+  <figcaption>Four flight facts and one rule answer three goals.</figcaption>
+</figure>
+
+
 ## File processing summary
 
 | File type | Add a record | Find a record |
@@ -134,6 +152,12 @@ Constants start lower case; variables start upper case. The system matches facts
 | Random | Hash the key, SEEK the address, PUTRECORD | Hash the key, SEEK the address, GETRECORD (follow the collision method if the key does not match) |
 
 Pseudocode keywords (9618 guide): `OPENFILE ... FOR READ / WRITE / APPEND / RANDOM`, `READFILE`, `WRITEFILE`, `EOF(<file>)`, `SEEK`, `GETRECORD`, `PUTRECORD`, `CLOSEFILE`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--13-fp-file-types.webp" width="900" height="1010" alt="Three lanes. Serial: a new record R4 is appended after R1 to R3. Sequential: records 10, 20, 40, 50 are copied to a new file and the new record 30 is written at its key position, giving 10, 20, 30, 40, 50. Random: the address is calculated from the key, for example room 412 MOD 200 equals 12, then the program seeks to address 12 and reads or writes the record directly. Key values are illustrative." loading="lazy">
+  <figcaption>Serial files append, sequential files are copied with the new record in order, random files use an address from the key.</figcaption>
+</figure>
+
 
 ## Exceptions
 
@@ -177,6 +201,12 @@ The final IF puts the new ID at the end if it is larger than every existing one.
 - Swapping direct and indirect addressing.
 - Writing variables in declarative code in lower case, so they are treated as constants.
 - Opening a file in WRITE mode when records must be added (data lost); not closing a file before reopening it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--14-fp-exception-handling.webp" width="900" height="780" alt="A try block opens a file, reads its first line as an integer and closes the file. If opening fails with FileNotFoundError the except branch prints that the file does not exist. If the first line is not a whole number a ValueError branch handles it. If every step works the program carries on. Without exception handling the program would crash. The three cases were checked in code." loading="lazy">
+  <figcaption>Each failing step jumps to the matching except branch instead of crashing.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

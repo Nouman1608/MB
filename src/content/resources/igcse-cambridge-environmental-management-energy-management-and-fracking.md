@@ -57,6 +57,17 @@ Managing energy means meeting demand while using finite resources more slowly an
 | **Battery storage** | Storing surplus electricity, especially from solar and wind | Solves part of the intermittency problem of renewables | Batteries are costly and need mined materials |
 | **Development of new energy resources** | Investing in hydrogen and heat pumps (below) | Reduces reliance on fossil fuels | Research and new infrastructure are expensive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--01-strategies-eight.webp" width="900" height="890" alt="Eight icons numbered 1 to 8 for the eight strategies. Together they show reducing consumption, insulation, efficient devices, existing resources, education, transport policies, battery storage and new energy resources." loading="lazy">
+  <figcaption>The eight named energy management strategies at a glance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--02-insulation-heat-loss.webp" width="900" height="830" alt="Two houses compared. Without insulation heat escapes strongly through roof, walls, window and door gap and more fuel is burned. With loft, cavity wall, double glazing and draught-proofing the losses are smaller and less fuel is burned." loading="lazy">
+  <figcaption>Insulation cuts heat loss so less fuel is burned for heating.</figcaption>
+</figure>
+
+
 ## What are the new energy resources?
 
 ### Blue and green hydrogen
@@ -75,9 +86,26 @@ Both types are hard to store and transport because hydrogen is a very light, fla
 
 Benefits: they deliver more heat energy than the electrical energy they use, and produce no emissions on site. Limitations: high installation cost, ground source systems need space for digging, and they work best in well-insulated buildings. Unlike geothermal power stations, heat pumps work anywhere, not only in tectonically active regions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--03-hydrogen-blue-green.webp" width="900" height="1060" alt="Blue hydrogen is made from natural gas and the carbon dioxide must be captured and stored. Green hydrogen is made by using renewable electricity to split water into hydrogen and oxygen. Using hydrogen in a fuel cell gives only water." loading="lazy">
+  <figcaption>Blue and green hydrogen differ in how they are produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--04-heat-pumps.webp" width="900" height="1010" alt="Left, buried pipes take heat from the steady ground into a house. Right, a fan unit takes heat from outside air into a house. A bar shows the heat delivered is more than the electricity used because most is moved from the ground or air." loading="lazy">
+  <figcaption>Heat pumps move heat from ground or air into a building, delivering more heat than the electricity they use.</figcaption>
+</figure>
+
+
 ## What is fracking?
 
 The syllabus defines **fracking** as the extraction of natural gas or petroleum from shale rock by hydraulic fracturing. A well is drilled down and then horizontally through the shale layer. Fluid made mainly of water, mixed with sand and chemicals, is pumped in at very high pressure, cracking the rock. The sand holds the cracks open, and gas or oil trapped in the shale flows up the well. Shale is impermeable (see 1.1), which is why the gas cannot escape without fracturing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--05-fracking-process.webp" width="900" height="1110" alt="A well goes down through soil and groundwater then sideways through shale. Water, sand and chemicals are pumped in at high pressure and crack the shale. Sand holds the cracks open and gas flows up the well." loading="lazy">
+  <figcaption>Fracking cracks shale with high-pressure fluid so trapped gas can flow out.</figcaption>
+</figure>
+
 
 ## Benefits and limitations of fracking
 
@@ -90,6 +118,12 @@ The syllabus defines **fracking** as the extraction of natural gas or petroleum 
 | Can use existing gas pipelines | Methane, a powerful greenhouse gas, can leak; noise, lorry traffic and visual impact for local communities |
 
 In England, the government introduced a moratorium on fracking in 2019 after tremors at a site in Lancashire, an example of how the limitations can outweigh the benefits in public decisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-energy-management-and-fracking--06-fracking-weigh-up.webp" width="900" height="940" alt="A balance scale with benefits on one pan and limitations on the other. The beam is level to show that the judgement depends on the source details." loading="lazy">
+  <figcaption>Fracking has real benefits and real limitations that must be weighed.</figcaption>
+</figure>
+
 
 ## Worked example
 

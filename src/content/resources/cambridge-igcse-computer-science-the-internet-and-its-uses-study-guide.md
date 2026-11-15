@@ -48,15 +48,38 @@ Computers find each other using **IP addresses**, which are numbers, but people 
 4. The IP address is returned to the browser.
 5. The browser sends a request to the web server at that IP address, and the web server sends back the page, which the browser displays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--16-net-dns-steps.webp" width="900" height="1030" alt="A URL, www.lakeviewbooks.example/new, is split into a domain name and a path. Step 2: the browser sends the domain name to a DNS server. Step 3: the DNS server looks the name up. Step 4: it returns the IP address 203.0.113.25. Step 5: the browser sends a request for /new to the web server at that address and the web server sends the page back." loading="lazy">
+  <figcaption>The DNS turns the domain name into an IP address; the browser then asks the web server at that address for the page.</figcaption>
+</figure>
+
+
 ### Cookies
 
 A **cookie** is a small text file stored on the user's device by a website. A **session cookie** is held in memory and deleted when the browser closes; it can keep items in a shopping basket while you browse. A **persistent cookie** is stored on the device until it expires or is deleted. It can remember login details or preferences, and it can store information used to tailor advertising. Cookies can track browsing habits, so they raise privacy questions. A cookie is a file of data; it cannot run as a program, which is why it is not a virus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--15-net-internet-web.webp" width="900" height="900" alt="A network of routers, servers and computers joined by cables is labelled the internet. Above it, three services run on it: the World Wide Web (web pages stored on web servers), email and file transfer." loading="lazy">
+  <figcaption>The internet is the infrastructure of cables, routers and servers; the World Wide Web, email and file transfer are services that run on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--17-net-cookies.webp" width="900" height="790" alt="A timeline with the browser open, closed, then open again. A session cookie is created while the browser is open and is deleted when the browser closes, so it is gone on the next visit. A persistent cookie stays on the device until it expires, so it is still there on the next visit." loading="lazy">
+  <figcaption>A session cookie is deleted when the browser closes; a persistent cookie stays on the device until it expires or is deleted.</figcaption>
+</figure>
+
 
 ## Digital currency
 
 A **digital currency** exists only in electronic form and has no physical coins or notes. Most digital currencies are **cryptocurrencies**, which use encryption to secure transactions and are not issued by a central bank. They are tracked using a **blockchain**.
 
 A **blockchain** is a digital ledger of transactions held as a chain of **blocks**. Each block holds a group of transactions, a **timestamp** and a **hash** of the previous block, and its own hash is calculated from its contents. Because every block contains the hash of the one before it, changing any past transaction changes that block's hash and breaks the link in all later blocks, so tampering is easy to detect. A copy of the blockchain is shared across many computers rather than stored centrally. A new block is added only when the network agrees that the transactions are valid. Uses extend beyond digital currency, to tracking goods in a supply chain and keeping records that must not be changed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--18-net-blockchain.webp" width="900" height="810" alt="Top: three linked blocks, each holding transactions, a timestamp, the hash of the previous block and its own hash; each block's previous-hash matches the hash of the block before it. Bottom: the transactions in block 2 are changed, so block 2's hash changes, and block 3 still holds the old hash, so the link between blocks 2 and 3 is broken. Tampering is easy to detect." loading="lazy">
+  <figcaption>Each block stores the previous block's hash, so changing one block changes its hash and breaks the link to every later block.</figcaption>
+</figure>
+
 
 ## Cyber security
 
@@ -75,6 +98,17 @@ A **blockchain** is a digital ledger of transactions held as a chain of **blocks
 
 Other defences are keeping software up to date, using access levels, using **biometric** logins and checking links before clicking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--20-net-phishing-pharming.webp" width="900" height="860" alt="Two three-step paths. Phishing: a fake email or message pretending to be from a trusted source, the user believes it, and personal data is handed over; protection is spam filters and checking the sender and links. Pharming: the user types the correct URL, malicious code redirects them, and they land on a fake website; protection is antivirus, checking for https and a trusted DNS." loading="lazy">
+  <figcaption>Phishing uses a fake message to trick the user; pharming redirects the user to a fake website even though the correct URL was typed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--21-net-ddos.webp" width="900" height="1080" alt="Twelve computers all send requests at the same time to one server, which is overloaded. A genuine user also tries to reach the server but is blocked. Protections named in the lesson are a firewall, traffic filtering and proxy servers." loading="lazy">
+  <figcaption>In a DDoS attack many computers flood a server with requests so that real users cannot get through.</figcaption>
+</figure>
+
+
 ## Worked example 1: how long does a brute-force attack take?
 
 A criminal's software tries 1,000 passwords per second. Compare a 4-digit PIN with a password of six lowercase letters.
@@ -83,6 +117,12 @@ A criminal's software tries 1,000 passwords per second. Compare a 4-digit PIN wi
 - Six lowercase letters: each position has 26 options, so 26 to the power 6 = 308,915,776 combinations. At 1,000 per second, that is 308,915.776 seconds. Divide by 3,600 to convert to hours: about 85.8 hours, or roughly 3.6 days.
 
 Adding length or more character types raises the number of combinations enormously. Allowing capitals and digits as well gives 62 options per position, and 62 to the power 6 is 56,800,235,584, which is about 184 times larger than 26 to the power 6. This is why Cambridge-style answers say "longer, with a mix of letters, numbers and symbols", and why limiting login attempts defeats an attack that depends on speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--19-net-brute-force.webp" width="900" height="940" alt="Three horizontal bars on a logarithmic scale of combinations. A 4-digit PIN has 10,000 combinations, 10 seconds worst case at 1,000 guesses a second. Six lowercase letters give 308,915,776 combinations, about 85.8 hours. Six characters from letters of both cases and digits give 56,800,235,584, about 184 times more than six lowercase letters." loading="lazy">
+  <figcaption>Longer passwords with more character types mean enormously more combinations, so a brute-force attack takes far longer.</figcaption>
+</figure>
+
 
 ## Worked example 2: tracing a page request
 

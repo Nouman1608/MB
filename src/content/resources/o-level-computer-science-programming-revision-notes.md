@@ -51,6 +51,12 @@ Condensed for the final weeks. For full explanations built around one example pr
 | A count or whole number used in calculations? | INTEGER |
 | Money, measurements or anything with decimals? | REAL |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--01-prog-data-types.webp" width="900" height="808" alt="Six rows show DailyGoal as a locked constant with value 10000 and five variables, each tagged INTEGER, REAL, CHAR, STRING or BOOLEAN with an example value." loading="lazy">
+  <figcaption>A constant never changes while the five data types hold whole numbers, decimals, one character, text and TRUE or FALSE.</figcaption>
+</figure>
+
+
 ## Decision guide: which loop?
 
 | Situation | Loop |
@@ -58,6 +64,12 @@ Condensed for the final weeks. For full explanations built around one example pr
 | You know how many times (30 students, 12 months) | `FOR ... TO ... NEXT` |
 | It might not need to run at all | `WHILE ... DO ... ENDWHILE` |
 | It must run at least once (menu, input then check) | `REPEAT ... UNTIL` |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--02-prog-loops.webp" width="900" height="1194" alt="FOR Day 1 to 7 runs exactly seven times and a countdown 10 to 0 STEP -2 gives 10, 8, 6, 4, 2, 0. A WHILE flowchart tests first so with StepsToday 8000 the body runs zero times. A REPEAT flowchart runs the body first so it runs at least once." loading="lazy">
+  <figcaption>FOR counts, WHILE tests first, REPEAT tests at the end.</figcaption>
+</figure>
+
 
 ## Decision guide: IF or CASE?
 
@@ -74,6 +86,12 @@ Use `CASE OF` when **one** variable is compared with several fixed values; put `
 | `SUBSTRING(Code, 9, 2)` | "OL" | Positions 9 and 10 |
 | `LCASE(SUBSTRING(Code, 1, 2))` | "mb" | Innermost function first |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--03-prog-strings.webp" width="900" height="780" alt="The string Ayesha_07 is shown as nine boxes numbered 1 to 9. LENGTH is 9, SUBSTRING from 1 for 3 characters is Aye, SUBSTRING from 8 for 2 is 07, and UCASE and LCASE results are listed." loading="lazy">
+  <figcaption>SUBSTRING takes a start position and a number of characters.</figcaption>
+</figure>
+
+
 ## Drill: library routines
 
 | Expression | Value |
@@ -86,12 +104,24 @@ Use `CASE OF` when **one** variable is compared with several fixed values; put `
 
 Order matters: `ROUND(Total / Count, 1)` divides first, then rounds; `ROUND(Total, 1) / Count` does not round the answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--04-prog-div-mod-round.webp" width="900" height="880" alt="7450 steps are drawn as seven blocks of 1000 and a remainder of 450, so DIV is 7 and MOD is 450. On a number line 5.215 lies below the halfway point 5.25 so ROUND to one decimal place gives 5.2." loading="lazy">
+  <figcaption>DIV counts whole thousands, MOD is what is left, ROUND picks the nearer value.</figcaption>
+</figure>
+
+
 ## Subroutines in four lines
 
 - **Procedure**: performs a task; run with `CALL Name(arguments)`.
 - **Function**: returns a value with `RETURN`; header ends `RETURNS <type>`; used inside an expression.
 - **Parameter**: a value passed in, declared with its data type, e.g. `(Width : REAL)`.
 - **Local** variable: declared inside a subroutine, exists only there. **Global**: available to the whole program.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--05-prog-subroutines.webp" width="900" height="870" alt="The main program calls ShowBanner passing UserName and WeekTotal. Inside the procedure the parameters are local. The procedure calls the function Points with Total and the function returns 52, shown in the output." loading="lazy">
+  <figcaption>A procedure does a task; a function returns a value used in an expression.</figcaption>
+</figure>
+
 
 ## Arrays at a glance
 
@@ -103,6 +133,12 @@ DECLARE Grid : ARRAY[1:5, 1:5] OF CHAR
 - Use the loop counter as the index: `Rainfall[Month]`, not `Rainfall[1]`, inside a loop.
 - 2D arrays need nested loops — outer for rows, inner for columns.
 - The first index can be 0 or 1; check the declaration in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--06-prog-array-2d.webp" width="900" height="836" alt="A four by seven grid of illustrative step counts is scanned by an outer loop over weeks and an inner loop over days. The highest value, 11250 in week 2 day 6, is highlighted and 4 x 7 = 28 values are checked." loading="lazy">
+  <figcaption>The outer loop picks the row and the inner loop picks the column.</figcaption>
+</figure>
+
 
 ## File commands at a glance
 
@@ -119,6 +155,12 @@ Purpose of files: data is kept after the program ends and can be reused or share
 ## Maintainability checklist
 
 Meaningful identifiers · comments that explain sections · procedures and functions to avoid repeated code · constants for fixed values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--07-prog-files.webp" width="900" height="890" alt="In run 1 the value Best is written to Best.txt using OPENFILE FOR WRITE, WRITEFILE and CLOSEFILE and old data is lost. The program closes and variables are lost. In run 2 READFILE copies the stored value into OldBest." loading="lazy">
+  <figcaption>Data kept in a file survives after the program closes.</figcaption>
+</figure>
+
 
 ## 2210 and its sibling syllabus
 

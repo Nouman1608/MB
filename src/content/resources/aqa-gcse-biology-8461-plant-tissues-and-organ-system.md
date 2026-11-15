@@ -86,6 +86,12 @@ lines and no shading. Draw tissue layers in the correct order and proportion, an
 mesophyll, spongy mesophyll, a vein (xylem and phloem), lower epidermis and a stoma with its guard cells. Give the
 magnification used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--08-pt-leaf-section.webp" width="900" height="780" alt="Transverse section of a leaf, not to scale: waxy cuticle, upper epidermis, palisade mesophyll, spongy mesophyll with air spaces and a vein with xylem and phloem, lower epidermis, and a stoma between two guard cells." loading="lazy">
+  <figcaption>The tissue layers of a leaf in order, top to bottom.</figcaption>
+</figure>
+
+
 ## How are root hair cells adapted?
 
 Root hair cells have a long, thin extension that gives a **large surface area** for absorption. They take up:
@@ -93,6 +99,12 @@ Root hair cells have a long, thin extension that gives a **large surface area** 
 - **water by osmosis**, because the soil water is more dilute than the cell sap;
 - **mineral ions by active transport**, because the ions are usually more concentrated inside the root hair cell
   than in the soil. Active transport needs energy from respiration, so these cells contain many mitochondria.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--09-pt-root-hair.webp" width="900" height="900" alt="A root hair cell with a long thin extension into the soil for a large surface area. Water enters by osmosis and mineral ions by active transport, which needs energy from mitochondria." loading="lazy">
+  <figcaption>How a root hair cell takes in water and mineral ions.</figcaption>
+</figure>
+
 
 ## How do xylem and phloem compare?
 
@@ -106,6 +118,12 @@ Root hair cells have a long, thin extension that gives a **large surface area** 
 AQA states that the detailed structure of phloem and the mechanism of transport are **not required**. Stick to the
 description in the table.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--10-pt-xylem-phloem.webp" width="900" height="880" alt="Schematic plant: xylem carries water and mineral ions upwards from the roots; phloem carries dissolved sugars in both directions; water vapour is lost from the leaf." loading="lazy">
+  <figcaption>Xylem carries water and ions up; phloem carries sugars both ways.</figcaption>
+</figure>
+
+
 ## What is transpiration?
 
 **Transpiration** is the loss of water vapour from the leaves. Water evaporates from the mesophyll cells into the
@@ -118,6 +136,17 @@ Stomata are pores, mostly in the lower epidermis. Each is surrounded by two **gu
 open or close the pore. The role of stomata and guard cells is to **control gas exchange and water loss**: open
 stomata let carbon dioxide in for photosynthesis and oxygen out, but they also let water vapour escape. Having most
 stomata on the shaded lower surface reduces water loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--11-pt-stomata.webp" width="900" height="940" alt="Side view of guard cells around a stoma. Open, carbon dioxide diffuses in and oxygen and water vapour diffuse out. Closed, little gas exchange or water loss." loading="lazy">
+  <figcaption>Guard cells open and close the pore to control gas exchange and water loss.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--12-pt-transpiration-factors.webp" width="900" height="960" alt="Four rows: higher temperature, more air movement and brighter light each raise the rate of transpiration, while higher humidity lowers it, each with the reason from the lesson." loading="lazy">
+  <figcaption>Direction of change in transpiration rate for four factors.</figcaption>
+</figure>
+
 
 ## What affects the rate of transpiration?
 
@@ -150,6 +179,12 @@ transpiration, so uptake is used as an estimate of the rate of transpiration.
 pi x r squared x length = 3.14 x 0.5 x 0.5 x 36 = **28.3 mm cubed** (to 3 significant figures). Rate = 28.3 / 6 =
 **4.71 mm cubed per minute**, about 4.7 mm cubed per minute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--13-pt-potometer.webp" width="900" height="1030" alt="A potometer with a leafy shoot, capillary tube with a millimetre scale, air bubble and water reservoir. The bubble moves 36 mm in 6 minutes, so the rate is 6 mm per minute, or 4.71 mm cubed per minute for a tube of radius 0.5 mm." loading="lazy">
+  <figcaption>Worked potometer calculation: 36 mm in 6 minutes.</figcaption>
+</figure>
+
+
 ## How do you investigate the distribution of stomata?
 
 Paint clear nail varnish on the leaf surface, let it dry, lift it with clear tape and stick it onto a slide. Count
@@ -159,6 +194,12 @@ calculate the mean.
 **Worked example 3.** Five fields of view on a lower surface contain 14, 17, 12, 15 and 16 stomata. Mean =
 74 / 5 = **14.8 stomata per field of view**. If the field of view has an area of 0.2 mm squared, the density is
 14.8 / 0.2 = **74 stomata per mm squared**. The upper surface of the same leaf usually gives a much lower count.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-plant-tissues-and-organ-system--14-pt-stomata-count.webp" width="900" height="870" alt="Four method steps and five fields of view containing 14, 17, 12, 15 and 16 stomata. The mean is 74 divided by 5, 14.8 per field, and the density is 14.8 divided by 0.2, 74 per square millimetre." loading="lazy">
+  <figcaption>Counting stomata in five fields of view to find a mean and a density.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

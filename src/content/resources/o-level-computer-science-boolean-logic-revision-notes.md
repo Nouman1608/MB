@@ -64,6 +64,22 @@ If a question gives you an output column and asks you to name the gate, match it
 | "not both" | NAND |
 | "neither … nor" | NOR |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--01-bl-gates.webp" width="900" height="925" alt="Six boxes show the NOT, AND, OR, NAND, NOR and XOR (EOR) symbols, each with the question it answers. A small circle on an output means the output is inverted." loading="lazy">
+  <figcaption>The six gates, their symbols and the question each one answers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--02-bl-truth-table.webp" width="900" height="674" alt="A four-row truth table for inputs A and B in binary counting order with columns NOT A, AND, OR, NAND, NOR and XOR. Arrows show NAND is the inverse of AND and NOR is the inverse of OR." loading="lazy">
+  <figcaption>All six gates side by side for the four input combinations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--04-bl-ex1-buzzer.webp" width="900" height="942" alt="The expression X = (A XOR B) AND L, its circuit (A and B into XOR, then with L into AND) and the eight-row truth table where X is 1 only for rows 011 and 101." loading="lazy">
+  <figcaption>The quiz buzzer goes from words to expression, circuit and truth table.</figcaption>
+</figure>
+
+
 ## Method cards
 
 **Truth table from an expression:** inputs in order 000 → 111; one working column per bracket; final column last; check two rows by hand.
@@ -73,6 +89,17 @@ If a question gives you an output column and asks you to name the gate, match it
 **Expression from a truth table:** for each row with X = 1, AND the three inputs (put NOT before any input that is 0); join the row-terms with OR.
 
 **Circuit from an expression:** one gate symbol for every operator; draw the inner brackets first; split an input line if it is used twice; label A, B, C and X.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--03-bl-four-forms.webp" width="900" height="976" alt="Seven arrows link words, expression, circuit and truth table, each labelled with the one-line method from the lesson, such as letter each condition or OR the rows where X = 1." loading="lazy">
+  <figcaption>How to convert between problem statement, expression, circuit and truth table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--06-bl-ex3-table.webp" width="900" height="900" alt="An eight-row table with the two rows where X is 1 highlighted. Each becomes an AND term, and the two terms join through an OR gate. A small circuit shows a three-input AND built from two two-input ANDs." loading="lazy">
+  <figcaption>Turn each 1-row into an AND term, then OR the terms.</figcaption>
+</figure>
+
 
 ## Drill 1
 
@@ -88,6 +115,12 @@ If a question gives you an output column and asks you to name the gate, match it
 | 1 | 0 | 1 | 1 | 0 | 0 |
 | 1 | 1 | 0 | 1 | 1 | 1 |
 | 1 | 1 | 1 | 1 | 0 | 0 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--07-bl-ex4-inverted.webp" width="900" height="850" alt="The safe opens when the code is correct (C = 1) and the alarm is not triggered (T = 0). A NOT gate on T feeds an AND gate with C; only the row C = 1, T = 0 gives X = 1." loading="lazy">
+  <figcaption>X = C AND NOT T, because a 0 on the alarm input is the wanted condition.</figcaption>
+</figure>
+
 
 ## Drill 2
 
@@ -107,6 +140,12 @@ If a question gives you an output column and asks you to name the gate, match it
 - Every gate except NOT has exactly two inputs.
 - Draw for the statement given — do not simplify.
 - Maximum of three inputs and one output.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--05-bl-ex2-circuit.webp" width="900" height="1002" alt="A circuit with NAND (A,B), OR (B,C) and an AND giving X, with the line from B splitting to two gates, and the eight-row table with one working column per gate." loading="lazy">
+  <figcaption>Reading a circuit gate by gate to get X = (A NAND B) AND (B OR C).</figcaption>
+</figure>
+
 
 ## 2210 and its sibling syllabus
 

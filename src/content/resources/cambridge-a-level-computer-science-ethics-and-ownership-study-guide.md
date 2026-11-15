@@ -51,6 +51,12 @@ A code gives a professional something to point to when they refuse an improper i
 
 The method that earns marks is to name the principle, apply it to the facts and state the consequence. For instance, suppose a developer is told to hide a known fault in a medical dosage calculator until after launch. Public interest and honesty are both breached, because patients could be harmed and the client would be misled. The developer should report the fault, record that they did so and, if ignored, escalate or refuse to continue. Notice that each sentence uses a detail from the scenario. An answer that only says "this is unethical" gains little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--05-ethics-steps.webp" width="900" height="1000" alt="Three steps with a worked example about a developer told to hide a known fault in a medical dosage calculator. Step 1, name the principle: public interest, honesty and integrity. Step 2, apply it to the facts: patients could be harmed and the client is misled. Step 3, state the outcome: report the fault, record it, then escalate or refuse. Saying only that something is unethical gains little." loading="lazy">
+  <figcaption>Name the principle, apply it to the facts, state the outcome, shown with the dosage calculator example.</figcaption>
+</figure>
+
+
 ## Ownership of work and intellectual property
 
 **Intellectual property** is creative or inventive work that can be owned. For software, the most relevant protection is **copyright**, which arises automatically when original work is created and stops others copying, selling or adapting it without permission. It covers source code, documentation, images, music and video. Copyright does not usually protect an idea or an algorithm as such, only its expression.
@@ -71,6 +77,22 @@ A **software licence** is the legal agreement that sets out how software may be 
 
 The word "free" in free software refers to freedom, not price, and a common mistake is to treat freeware and free software as the same thing. Freeware is free of cost but closed; free software gives freedom to change and share and may still be sold.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--01-licence-types.webp" width="900" height="990" alt="Five software licence types in two groups. Source code closed: commercial (bought or subscribed to, no copying), shareware (free trial or limited version, pay to unlock) and freeware (free to use, author keeps the copyright). Source code available: free software from the Free Software Foundation (freedom to run, study, change and share) and open source from the Open Source Initiative (source code can be modified and redistributed)." loading="lazy">
+  <figcaption>The five licence types sorted by whether the source code is closed or available.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--02-freeware-vs-free-software.webp" width="900" height="840" alt="Two panels. Freeware: free of cost, shown with a zero-pound coin, but the author keeps the copyright, the source code is closed behind a padlock and it cannot be modified. Free software: users have four freedoms, to run, study, change and share the software; the source code is available behind an open padlock and the software may still be sold. The banner reads: free means freedom, not price." loading="lazy">
+  <figcaption>Freeware is free of cost but closed; free software gives freedom to run, study, change and share.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--03-copyright-scope.webp" width="900" height="850" alt="Two panels. Protected by copyright, which arises automatically when original work is made: source code, documentation, images, music and video. Not usually protected: an idea or an algorithm as such. The summary reads: copyright protects the expression, not the idea." loading="lazy">
+  <figcaption>Copyright arises automatically and protects how work is expressed (code, documentation, images, music, video), not the idea or algorithm.</figcaption>
+</figure>
+
+
 ## Worked example 1: choosing a licence
 
 A school has 85 computers and wants a word-processing package. A commercial vendor offers a per-user licence at 18 pounds per computer per year, or a site licence at 1,100 pounds per year for unlimited machines. An open-source alternative costs nothing to buy but needs 12 hours of technician time at 25 pounds per hour for set-up and training.
@@ -80,6 +102,12 @@ A school has 85 computers and wants a word-processing package. A commercial vend
 3. Open-source set-up: 12 x 25 = 300 pounds in the first year.
 
 On cost alone, open source is cheapest in the first year and the site licence is next. But cost is only one factor. The school should also consider that commercial licences include support and may suit file formats already used, whereas open source lets the school see and adapt the code, with support coming from a community. A balanced conclusion would say that open source is likely to be best if staff can learn the software, and the site licence is a sensible fallback if guaranteed support matters more. Note that the figures are an example only; the reasoning pattern is what you should reproduce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--04-licence-cost.webp" width="900" height="890" alt="Horizontal bars compare yearly cost for 85 computers. Per-user commercial licences cost 1,530 pounds (85 times 18). A site licence costs 1,100 pounds, which is 430 pounds cheaper. Open-source set-up costs 300 pounds in the first year (12 hours at 25 pounds). Cost is only one factor: commercial licences include support; open source lets the school adapt the code." loading="lazy">
+  <figcaption>The 85-computer example: per-user 1,530, site 1,100 (430 cheaper) and open-source set-up 300 pounds.</figcaption>
+</figure>
+
 
 ## Worked example 2: an ethical dilemma
 
@@ -91,6 +119,12 @@ A programmer at a games company finds that a colleague has copied 400 lines from
 4. Recommend an action: tell the colleague and the team lead, then either remove the code and rewrite it, obtain a different licence from the author, or release the product under a compatible licence.
 
 The best answer gives a recommended action with a reason. Doing nothing because "nobody will find out" fails the honesty principle and exposes the company to legal action.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-ethics-and-ownership-study-guide--06-licence-dilemma.webp" width="900" height="1110" alt="A flow chart. A colleague copies 400 lines from an open-source library whose licence says any product including the code must also be open source, so the licence conditions are broken. Those affected are the library author, the company, the colleague and customers. The programmer tells the colleague and team lead, then chooses one of three actions: remove the code and rewrite it, get a different licence from the author, or release the product under a compatible licence. Doing nothing because nobody will find out fails the honesty principle and risks legal action." loading="lazy">
+  <figcaption>Flow chart of the copied-code dilemma, the stakeholders and the three acceptable actions.</figcaption>
+</figure>
+
 
 ## Wider social and environmental questions
 

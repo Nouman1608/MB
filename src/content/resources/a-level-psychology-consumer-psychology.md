@@ -76,6 +76,12 @@ The option is examined on Paper 3 (Specialist Options: Approaches, Issues and De
 
 **Atmospherics (2.1.3).** Mehrabian and Russell's **PAD model** proposes that environmental stimuli produce emotional states of **pleasure**, **arousal** and **dominance** (feeling in control), which lead to approach behaviours (staying, spending) or avoidance behaviours (leaving). Chebat and Michon (2003) studied a pleasant ambient odour in a shopping mall and found it improved shoppers' perceptions of the mall and its products, which then influenced spending. Machleit et al. (2000) found that perceived crowding reduces shopping satisfaction, though the effect depends on what shoppers expected and how tolerant of crowding they are. Crowding lowers dominance in PAD terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--08-co-store-layouts.webp" width="900" height="1200" alt="Three floor plans seen from above: grid (parallel aisles, quick, easy to restock), freeform (irregular fixtures, encourages browsing, can confuse) and racetrack (a loop past departments A to D)." loading="lazy">
+  <figcaption>Grid, freeform and racetrack store layouts.</figcaption>
+</figure>
+
+
 ## 2.2 What is the psychological environment?
 
 **Wayfinding and movement (2.2.1).** Wayfinding is how people find their way through a space. Signs and "you are here" maps help, and Dogu and Erkip (2000) studied how such features affect wayfinding in a shopping mall. Shopper movement can be classified by **trip type**: short, round, central and wave. The syllabus lists five **spatial behaviour patterns**: specialist, native, tourist, explorer and raider. Gil et al. (2009) is the suggested study using CCTV-style tracking of shoppers' paths, which gives objective data without relying on what shoppers remember.
@@ -87,6 +93,17 @@ The option is examined on Paper 3 (Specialist Options: Approaches, Issues and De
 **Key study: Robson et al. (2011).** Robson, Kimes, Becker and Evans investigated how the distance between restaurant tables affects diners. In a web survey, 1,013 American respondents were randomly assigned to one of nine conditions: a photograph of tables for two at 6, 12 or 24 inches apart (6 inches is the close phase of Hall's intimate zone and typical of banquette seating; 24 inches the close phase of personal distance), combined with one of three scenarios (a business meal, a meal with a friend or a romantic date). They rated statements on 7-point scales measuring stress and arousal, perceived control, privacy and comfort. Tables 6 inches apart produced significantly more stress and discomfort and less privacy and control than 12 or 24 inches, and the effect was strongest in the romantic scenario. Women reported more stress and discomfort than men at every distance, and many respondents disliked banquette seating whatever the spacing. Closely spaced tables therefore reduced comfort and satisfaction, especially when the dining situation was private or intimate, which links to the overload and behaviour-constraint functions of personal space. The study has clear applications to restaurant layout, but responses about imagined situations may not match real behaviour.
 
 **Queues.** Milgram et al. (1986) had confederates push into queues in New York. People objected more when two intruders pushed in than one, and people standing behind the intrusion point were more likely to object than those in front. The study shows queues have a social structure that members defend, but it raises ethical issues because people were deceived and did not consent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--09-co-personal-space-zones.webp" width="900" height="1210" alt="Concentric circles drawn to scale (100 px = 1 m): intimate up to 45 cm, personal 45 cm to 1.2 m, social 1.2 to 3.6 m, public beyond 3.6 m." loading="lazy">
+  <figcaption>Hall's four zones of personal space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--10-co-robson-table-spacing.webp" width="900" height="1180" alt="Three table pairs with a gap drawn in proportion to 6, 12 and 24 inches. At 6 inches diners had more stress and less privacy and control than at 12 or 24. 1,013 people, 3 distances by 3 scenarios." loading="lazy">
+  <figcaption>Closer tables caused more stress and less control.</figcaption>
+</figure>
+
 
 ## 2.3 How do consumers make decisions, and why do they get them wrong?
 
@@ -100,6 +117,17 @@ The option is examined on Paper 3 (Specialist Options: Approaches, Issues and De
 
 **Memory for advertising.** Burke and Srull (1988) showed that memory for an advert is worse when people also see adverts for competing brands in the same product category. Later adverts disrupt memory for earlier ones (**retroactive interference**) and earlier adverts disrupt later learning (**proactive interference**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--11-co-decision-strategies.webp" width="900" height="1010" alt="Three illustrative laptops rated 1 to 5. Compensatory: totals 7, 11, 10 so B. Non-compensatory: price rating must be 3 or more so B is out. Partly compensatory: features won 0, 1, 2 so C." loading="lazy">
+  <figcaption>The three strategies applied to the same options.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--12-co-choice-blindness.webp" width="900" height="1290" alt="Shoppers taste two jams and choose one, the jars are secretly switched, and they taste the rejected one while explaining their choice. No more than a third of switched trials were detected and no more than half even for very different pairs." loading="lazy">
+  <figcaption>Choice blindness: people often miss a switch and defend a choice they did not make.</figcaption>
+</figure>
+
+
 ## 2.4 How are products packaged, positioned and sold?
 
 **Packaging (2.4.1).** Gifts are wrapped to create surprise, show effort and mark an occasion; the giver's and recipient's beliefs about wrapping can differ, and types range from plain to elaborate paper.
@@ -112,6 +140,12 @@ The option is examined on Paper 3 (Specialist Options: Approaches, Issues and De
 
 **Buying (2.4.3).** The **Engel Kollat Blackwell model** describes stages of problem recognition, information search, evaluation of alternatives, purchase and post-purchase outcomes. Sinha et al. (2002) is suggested for reasons for store choice and how they vary with age and gender. **Post-purchase cognitive dissonance** is discomfort after buying, stronger for expensive, important or irreversible purchases; it is reduced by seeking reassurance, focusing on the product's strengths or returning it. Nordvall (2014) is the suggested study.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--13-co-ekb-dissonance.webp" width="900" height="1160" alt="Five stages: problem recognition, information search, evaluation of alternatives, purchase, post-purchase outcomes. Post-purchase dissonance is stronger for expensive, important or irreversible purchases and is reduced by seeking reassurance, focusing on strengths or returning the item." loading="lazy">
+  <figcaption>The Engel Kollat Blackwell stages and post-purchase dissonance.</figcaption>
+</figure>
+
+
 ## 2.5 How does advertising work?
 
 **Types and techniques (2.5.1).** The **Yale model** of communication identifies five features: the **source** (who), the **message** (says what), the **medium** or channel (how), the **audience** (to whom) and the **effect**. Advertising media include print, television, internet and smartphone. Ciceri et al. (2020) is suggested for using eye-tracking and EEG to measure attention and emotional response to adverts across media. **Lauterborn's 4 Cs** recast the marketing mix from the consumer's side: consumer (wants and needs), cost, convenience and communication.
@@ -121,6 +155,12 @@ The option is examined on Paper 3 (Specialist Options: Approaches, Issues and De
 **Product placement.** Auty and Lewis (2004) showed children a film clip in which a brand of cola appeared; afterwards they were more likely to choose that brand than children who saw a control clip. Explanations include **mere exposure** (familiarity breeds liking) and placements acting as **reminders**.
 
 **Brands (2.5.3).** Fischer et al. (1991) asked young children to match logos to products; many matched a cigarette brand's cartoon logo to cigarettes, showing very young children recognise brands. Kohli et al. (2007) proposed guidelines for effective slogans, such as linking the slogan clearly to the brand name and keeping it consistent over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--14-co-yale-model.webp" width="900" height="940" alt="Source (who), message (says what), medium (print, television, internet, smartphone), audience (to whom) and effect." loading="lazy">
+  <figcaption>The five features of the Yale model of communication.</figcaption>
+</figure>
+
 
 ## How should you evaluate consumer studies?
 

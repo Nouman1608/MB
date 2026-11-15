@@ -48,6 +48,12 @@ Topic 7 is a theory topic. It links to data handling (validation and verificatio
 
 The stages are best seen as a cycle. The evaluation of a finished system often shows new problems, which starts the analysis of the next version.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--12-slc-cycle.webp" width="900" height="870" alt="Six boxes in a ring joined by clockwise arrows: 1 Analysis (requirements), 2 Design (test plan), 3 Development and testing (test data), 4 Implementation (changeover), 5 Documentation (technical and user) and 6 Evaluation (against the requirements). A gold arrow runs from Evaluation back to Analysis because evaluation can show new problems, which starts the analysis of the next version." loading="lazy">
+  <figcaption>The six stages form a cycle because evaluation can start the next analysis.</figcaption>
+</figure>
+
+
 ## 7.1 Analysis
 
 Analysis is about understanding the existing system and deciding what the new one must do.
@@ -62,6 +68,12 @@ Analysis is about understanding the existing system and deciding what the new on
 | Examining existing documents | Shows the data used and the forms and reports produced | Documents may be out of date and do not show how they are used |
 
 Analysis also identifies the **problems** with the current system, sets out the **requirements** of the user and the organisation, and produces a **requirements specification**, which is the agreed list of what the new system must do. Inputs, outputs and processing are identified here. The analyst also considers possible solutions and recommends one, weighing the costs and benefits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--13-slc-research-methods.webp" width="900" height="950" alt="A table of four research methods with one strength and one weakness each. Observation shows what really happens, but staff may behave differently when watched. Interviews give detailed answers and can be followed up, but they are time-consuming and only a few people can be asked. Questionnaires let many people answer quickly and are easy to analyse, but answers may be short or rushed and the response low. Examining documents shows the data, forms and reports used, but they may be out of date. Analysis ends with a requirements specification." loading="lazy">
+  <figcaption>Each research method has one strength and one weakness.</figcaption>
+</figure>
+
 
 ## 7.2 Design
 
@@ -106,6 +118,12 @@ A frequent exam error is calling 10 or 17 extreme data. They are outside the ran
 
 After testing with test data, the system may be tested with **live data**, which is real data whose results are already known from the old system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--14-slc-test-data.webp" width="900" height="940" alt="A number line from 9 to 18 with the valid range 11 to 16 shaded. Test values: 10 is abnormal and rejected; 11 is extreme and accepted; 13 is normal and accepted; 16 is extreme and accepted; 17 is abnormal and rejected. The word &quot;ten&quot; is abnormal and rejected because it is the wrong data type. Values 10 and 17 are outside the range, so they are abnormal, not extreme." loading="lazy">
+  <figcaption>Values 11 to 16 are accepted; 11 and 16 are extreme, 13 normal, and 10, 17 and &quot;ten&quot; abnormal.</figcaption>
+</figure>
+
+
 ## 7.4 Implementation
 
 Implementation means changing from the old system to the new one. There are four methods:
@@ -117,6 +135,12 @@ Implementation means changing from the old system to the new one. There are four
 
 To choose, think about the risk. A bank handling payments would rarely use direct changeover, whereas a small club with a low-risk membership list might. Staff **training** and **data transfer** (file conversion) also take place around implementation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--15-slc-changeover.webp" width="900" height="1034" alt="Four timelines, each showing the old system in grey and the new system in teal. Direct changeover: the old system stops and the new one starts at once; cheap and quick but with no fallback. Parallel running: both systems run side by side for a time; safest but costs the most. Phased implementation: parts A, B and C switch to the new system one at a time; problems are limited but the change is slower. Pilot running: one branch switches first while the others wait; only a small part is affected if it fails. The diagram is schematic and not to scale." loading="lazy">
+  <figcaption>Direct, parallel, phased and pilot changeover differ in when old and new systems run.</figcaption>
+</figure>
+
+
 ## 7.5 Documentation
 
 Two main types of documentation are produced.
@@ -126,6 +150,12 @@ Two main types of documentation are produced.
 **User documentation** is for the people who use the system. It includes how to log in and use features, example screens, a list of error messages with what to do, troubleshooting tips and frequently asked questions.
 
 The test for a good answer is the audience. Technical detail in a user guide would confuse users, and a user guide would not help an engineer upgrade the system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-the-systems-life-cycle-study-guide--16-slc-documentation.webp" width="900" height="932" alt="Two columns. Technical documentation, for the people who maintain or upgrade the system, includes the purpose of the system, hardware and software requirements, flowcharts, program listings or settings, file structures, input and output formats, validation rules and test results. User documentation, for the people who use the system, includes how to log in, how to use features, example screens, error messages and what to do, troubleshooting tips and frequently asked questions. The content must match the audience." loading="lazy">
+  <figcaption>Technical documentation is for maintainers and user documentation is for users.</figcaption>
+</figure>
+
 
 ## 7.6 Evaluation
 

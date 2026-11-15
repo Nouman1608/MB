@@ -47,6 +47,12 @@ Web development separates a page into layers, each with its own job.
 
 The benefit of separation is that you can change the look of a whole site by editing one stylesheet without touching the content, and the same content can be given a different look on a phone and on a desktop computer. Pages also remain readable if the stylesheet or script fails to load.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--01-web-layers.webp" width="900" height="879" alt="Three rows show content (HTML), presentation (CSS) and behaviour (JavaScript), each adding to the same page. The content layer gives a plain page, CSS adds colour and layout, and JavaScript adds interaction such as a menu." loading="lazy">
+  <figcaption>The three layers of web development and what each adds.</figcaption>
+</figure>
+
+
 ## Create a web page
 
 ### Basic structure
@@ -81,6 +87,17 @@ The head holds information about the page, such as its title (shown on the brows
 
 Use meaningful file names with no spaces, keep all the files for the site in one folder and use **relative file paths** such as `images/logo.png` so that links still work when the folder is moved to a web server. Close every tag, nest tags correctly and indent your code. Save the file with the extension .html. Check the result in a browser, and test every link.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--02-html-structure.webp" width="900" height="690" alt="Left: a small HTML document with its head and body coloured differently. Right: a browser window with arrows showing the title becomes the tab text and the h1 and p appear in the page." loading="lazy">
+  <figcaption>What each part of an HTML document produces in the browser.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--03-relative-paths.webp" width="900" height="740" alt="A site folder with index.html, club.css and an images folder moves to a web server. A relative path still finds the file; an absolute path such as C:\Users\...\logo.png breaks." loading="lazy">
+  <figcaption>Relative paths keep working when the folder moves.</figcaption>
+</figure>
+
+
 ## Use stylesheets
 
 A **stylesheet** is a set of rules that apply formatting to HTML elements. A CSS rule has a **selector**, which says what to style, and one or more **declarations** inside curly brackets, each made of a property, a colon, a value and a semicolon.
@@ -110,6 +127,22 @@ When rules conflict, the more specific rule wins: inline styles override interna
 ### Useful properties
 
 Text properties include font-family (with a generic fallback such as serif or sans-serif), font-size, font-weight, color and text-align. Box properties include background-color, border, margin (space outside), padding (space inside) and width. Colours can be named or written as hexadecimal codes such as #003366. Fonts should be chosen from web-safe options and sizes set consistently.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--04-css-rule.webp" width="900" height="770" alt="The h1 rule is split into selector, declarations and braces. A zoom on one declaration labels the property, colon, value and semicolon." loading="lazy">
+  <figcaption>The parts of a CSS rule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--05-selectors.webp" width="900" height="764" alt="A matrix shows five page elements against the selectors p, .note and #banner. The p selector matches four elements, .note two and #banner one." loading="lazy">
+  <figcaption>Which elements element, class and id selectors pick.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--06-css-three-ways.webp" width="900" height="1005" alt="External, internal and inline CSS are shown on three pages. External styles every page, internal one page, inline one element. When rules conflict the more specific rule, inline, wins." loading="lazy">
+  <figcaption>Where each way of applying CSS has effect.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -155,6 +188,12 @@ h1 { color: darkgreen; }
 ```
 
 Check the layout arithmetic: the two columns are 560 + 240 = 800 pixels wide, which exactly fills the container, so they sit side by side with no wrap. If you added a 20 pixel padding to each column without reducing the widths, the total would become 800 + 4 * 20 = 880 pixels (20 on each side of each of the two columns), more than the container, and the second column would drop below. Open the page in a browser, confirm the heading is dark green and every image and link works, and save screenshots of the code and the browser view if the paper asks for them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-website-authoring-study-guide--07-layout-arithmetic.webp" width="900" height="820" alt="Columns of 560 and 240 pixels fill an 800 pixel container exactly. With 20 pixels of padding on each side of both columns the total is 880 pixels, so the second column drops below." loading="lazy">
+  <figcaption>Why added padding pushes the second column down.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

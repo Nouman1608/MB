@@ -56,6 +56,12 @@ Physical safety questions ask for a **hazard**, its **cause** and a **way of pre
 
 A CO2 (carbon dioxide) extinguisher is used for electrical fires because water conducts electricity. Physical safety (harm from equipment) is different from health problems such as back or eye strain, which belong with the effects of using IT.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--13-physical-hazards.webp" width="900" height="870" alt="Four cards give a physical hazard, its cause and its prevention: electrocution, fire, tripping and heavy equipment falling." loading="lazy">
+  <figcaption>Name the hazard, its cause and a way to prevent it.</figcaption>
+</figure>
+
+
 ## 8.2 What is eSafety and why is data protection needed?
 
 ### Why is data protection legislation required?
@@ -77,9 +83,21 @@ Data must be:
 
 The syllabus says "a typical" act, so learn the principles rather than the name of one country's law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--14-data-principles.webp" width="900" height="770" alt="An organisation sits at the centre of eight numbered principles from a typical data protection act. They are duties on the organisation that holds the data." loading="lazy">
+  <figcaption>The principles are duties of the organisation, not rules for the user.</figcaption>
+</figure>
+
+
 ### What is the difference between personal and sensitive data?
 
 **Personal data** identifies a living person: for example name, address, date of birth or a photograph of a student in school uniform (the uniform reveals the school). **Sensitive data** is personal data that could cause greater harm if disclosed, such as **medical history**. Both must be kept confidential and protected to avoid inappropriate disclosure, which could lead to identity theft, fraud, discrimination or a person being located.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--15-personal-sensitive.webp" width="900" height="870" alt="A circle of personal data (name, address, date of birth, photo in school uniform) contains a smaller circle of sensitive data such as medical history. A list shows harms if data is disclosed." loading="lazy">
+  <figcaption>Sensitive data is personal data that could cause greater harm if disclosed.</figcaption>
+</figure>
+
 
 ### How do you minimise the danger of using the internet, email, social media and online gaming?
 
@@ -109,6 +127,17 @@ The syllabus asks specifically how to avoid infecting a computer from a **downlo
 
 **Phishing versus pharming** is the most common trap: in phishing the user is tricked into acting (clicking a link); in pharming the user is redirected without doing anything wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--16-phishing-pharming.webp" width="900" height="1044" alt="Phishing tricks the user into clicking a link in a fake email; pharming redirects the user to a fake website even when the correct address is typed. Smishing and vishing use text messages and voice calls." loading="lazy">
+  <figcaption>In phishing the user is tricked into acting; in pharming the user is redirected silently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--17-card-fraud.webp" width="900" height="950" alt="Shoulder surfing watches a PIN being entered, card cloning copies card data with a skimmer, and key logging records keystrokes. Each has a matching prevention." loading="lazy">
+  <figcaption>Three card-fraud methods and how to stop each.</figcaption>
+</figure>
+
+
 ## 8.3 How is data protected?
 
 | Method | Purpose and how it works |
@@ -130,6 +159,17 @@ A clinic stores patient records (sensitive data) on a network. A strong answer t
 ### Worked example: why longer passwords help
 
 An 8-character password made only of lower-case letters has 26 to the power 8 = 208 827 064 576 possible combinations. Allowing upper case, lower case and digits (62 possibilities per character) gives 62 to the power 8 = 218 340 105 584 896, about 1 045 times more. This illustrates why the syllabus's strong-password advice works: a mix of character types makes guessing far slower.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--18-defences.webp" width="900" height="1050" alt="A person logs in with biometrics, user ID and password, or two-factor authentication. Data then passes a firewall and an SSL encrypted link to a server with a digital certificate and encrypted stored data." loading="lazy">
+  <figcaption>Each protection method guards a different point between user and data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--19-password-strength.webp" width="900" height="890" alt="Two rows of eight slots show 26 choices against 62 choices per slot. The mixed set gives 218 340 105 584 896 combinations against 208 827 064 576, about 1 045 times more." loading="lazy">
+  <figcaption>Mixing character types gives about 1 045 times more combinations at 8 characters.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

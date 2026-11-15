@@ -76,12 +76,24 @@ electrophilic addition of an **alkene** with X₂ or HX at room temperature
 or substitution of an **alcohol**, using HX(g), KCl with concentrated H₂SO₄
 or H₃PO₄, PCl₃ and heat, PCl₅, or SOCl₂.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--08-hal-three-routes.webp" width="900" height="900" alt="Ethane with Br2 and UV light (free-radical substitution), ethene with HBr at room temperature (electrophilic addition) and ethanol with HBr(g) (substitution of OH) each give bromoethane. Alcohols also react with PCl3 + heat, PCl5, SOCl2, or KCl with concentrated acid." loading="lazy">
+  <figcaption>A halogenoalkane can be made from an alkane, an alkene or an alcohol.</figcaption>
+</figure>
+
+
 ## Classifying halogenoalkanes
 
 A halogenoalkane is **primary** if the halogen-bearing carbon is attached to
 one other carbon, **secondary** if attached to two, and **tertiary** if
 attached to three. This classification matters directly for which mechanism
 dominates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--09-hal-classification.webp" width="900" height="1180" alt="Three displayed formulae with the C-Br carbon highlighted. Bromoethane has 1 carbon attached (primary, usually SN2), 2-bromopropane has 2 (secondary, SN1 or SN2) and 2-bromo-2-methylpropane has 3 (tertiary, usually SN1)." loading="lazy">
+  <figcaption>Primary, secondary and tertiary halogenoalkanes have one, two or three carbons attached to the carbon bonded to the halogen.</figcaption>
+</figure>
+
 
 ## Nucleophilic substitution reactions
 
@@ -98,6 +110,17 @@ bromoethane going to ethene. The solvent is the signal: aqueous NaOH favours
 substitution, ethanolic NaOH favours elimination, because the ethoxide-rich
 ethanolic conditions favour the hydroxide ion acting as a base (removing a
 proton) rather than as a nucleophile (attacking the carbon).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--10-hal-nucleophile-products.webp" width="900" height="850" alt="Bromoethane on the left branches to three nucleophiles: OH- (NaOH(aq), heat) gives an alcohol CH3CH2OH; CN- (KCN in ethanol, heat) gives a nitrile CH3CH2CN; NH3 (in ethanol, heated under pressure) gives an amine CH3CH2NH2." loading="lazy">
+  <figcaption>Each nucleophile replaces the bromine, giving an alcohol, a nitrile or an amine.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--11-hal-solvent-decides.webp" width="900" height="1040" alt="Top: bromoethane with NaOH(aq) and heat; hydroxide acts as a nucleophile, arrow 1 from an O lone pair to the C-Br carbon, arrow 2 from C-Br onto Br, giving an alcohol. Bottom: NaOH in ethanol with heat; hydroxide acts as a base, arrow 1 to a hydrogen on the neighbouring carbon, arrow 2 forms C=C, arrow 3 moves C-Br onto Br, giving ethene." loading="lazy">
+  <figcaption>Aqueous NaOH gives substitution (alcohol); NaOH in ethanol gives elimination (alkene).</figcaption>
+</figure>
+
 
 ## SN1 and SN2 mechanisms
 
@@ -124,6 +147,17 @@ secondary carbocation is moderately stabilised (more than primary, less than
 tertiary) while the carbon is only moderately hindered (less than tertiary,
 more than primary).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--12-hal-sn2-mechanism.webp" width="900" height="1190" alt="Three stages: hydroxide approaches bromoethane from the side opposite bromine; a transition state with dashed O to C and C to Br bonds in brackets; then ethanol and a bromide ion. One step; primary carbons are unhindered at the back." loading="lazy">
+  <figcaption>SN2 is a single step in which the nucleophile attacks from the back as the C-Br bond breaks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--13-hal-sn1-mechanism.webp" width="900" height="1200" alt="Step 1, slow: in 2-bromo-2-methylpropane the C-Br bond breaks to give a flat carbocation and a bromide ion. Step 2, fast: hydroxide attacks the positive carbon to give 2-methylpropan-2-ol. A strip compares primary, secondary and tertiary carbocations with one, two and three alkyl groups." loading="lazy">
+  <figcaption>SN1 is a two-step mechanism through a carbocation that tertiary halogenoalkanes stabilise with three alkyl groups.</figcaption>
+</figure>
+
+
 ## Reactivity and the aqueous silver nitrate test
 
 Reactivity in nucleophilic substitution depends on C–X bond strength, not
@@ -144,6 +178,12 @@ C–Br > C–I, so reactivity — and precipitate formation — increases in the
 reverse order: **iodobutane reacts fastest (yellow precipitate of
 AgI appears first), then bromobutane (cream, AgBr), then chlorobutane
 slowest (white, AgCl).**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-halogenoalkanes--14-hal-silver-nitrate-test.webp" width="900" height="1010" alt="Three test tubes warmed with aqueous silver nitrate in ethanol: 1-chlorobutane (little white AgCl), 1-bromobutane (more cream AgBr) and 1-iodobutane (most yellow AgI) after the same time. Arrows show C-X bond strength falling and reaction speed rising from Cl to I." loading="lazy">
+  <figcaption>The weaker the C-X bond, the faster the precipitate forms: iodo fastest, then bromo, then chloro.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

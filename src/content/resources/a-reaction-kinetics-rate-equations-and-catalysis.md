@@ -139,6 +139,22 @@ Boltzmann-distribution explanation: more particles have energy ≥ the
 activation energy at a higher temperature, which is reflected in a larger
 k.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--12-order-graphs.webp" width="900" height="930" alt="A graph of initial rate against concentration of A for three orders, all passing through the same point at [A] = 1 for comparison. Zero order is a horizontal line; first order is a straight line through the origin; second order is an upward-curving parabola through the origin. When [A] doubles from 1 to 2 the rate changes by a factor of 1, 2 and 4 respectively." loading="lazy">
+  <figcaption>Rate against [A] is flat, straight or curved for zero, first and second order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--13-initial-rates.webp" width="900" height="1050" alt="Three experiments. Experiment 1 has [A] 0.10 and [B] 0.10 mol per dm cubed with initial rate 2.0 times 10 to the minus 3. In experiment 2 [A] doubles to 0.20 and the rate doubles to 4.0 times 10 to the minus 3, so the reaction is first order in A. In experiment 3 [B] doubles to 0.20 and the rate quadruples to 1.6 times 10 to the minus 2, so it is second order in B. The rate equation is rate = k[A][B] squared, overall order 3, and k from experiment 1 is 2.0 mol to the minus 2 dm to the 6 per second." loading="lazy">
+  <figcaption>Comparing experiments gives first order in A, second order in B and k = 2.0 mol-2 dm6 s-1.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--14-half-life-first-order.webp" width="900" height="940" alt="A concentration-time curve for a first-order reaction with half-life 24 seconds, using an illustrative starting concentration of 0.80. The concentration halves from 0.80 to 0.40 in 24 s, to 0.20 by 48 s and to 0.10 by 72 s: each halving takes the same time. The rate constant is k = 0.693 divided by 24, which is 0.0289 per second." loading="lazy">
+  <figcaption>A first-order reaction has a constant half-life, and k = 0.693 / t half.</figcaption>
+</figure>
+
+
 ## Deducing mechanisms from rate equations
 
 For a **multi-step reaction**, a proposed slow step can be used to derive a rate equation when the stated kinetic assumptions apply. Concentrations of intermediates may need to be eliminated using a preceding fast pre-equilibrium or another justified approximation. A measured rate law tests a mechanism's consistency; it does not generally identify a unique mechanism.
@@ -176,6 +192,12 @@ only NO and Br₂, whose concentrations can be controlled and measured, and matc
 experimentally observed second-order dependence on NO.
 
 This works in reverse too: a proposed mechanism must reproduce the experimental species dependences and orders under the stated conditions. Agreement is evidence of consistency, not proof of a unique mechanism. For a stepwise reaction there is no general relation between overall stoichiometric coefficients and partial reaction orders, so comparing them alone cannot locate a reactant before or after the slow step.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--15-mechanism-rate-equation.webp" width="900" height="1060" alt="An illustrative enthalpy profile for 2NO plus Br2 forming 2NOBr in two steps. Step 1, fast and reversible, forms the intermediate NOBr2. Step 2, the slow step with the higher barrier, converts NOBr2 and NO to 2NOBr. The slow step gives rate = k[NOBr2][NO]; the fast pre-equilibrium gives [NOBr2] = K1[NO][Br2], so substituting gives rate = k-prime [NO] squared [Br2], which contains only species that can be controlled and measured." loading="lazy">
+  <figcaption>A slow step with a fast pre-equilibrium gives rate = k[NO]2[Br2], with the intermediate eliminated.</figcaption>
+</figure>
+
 
 ## Homogeneous and heterogeneous catalysts
 
@@ -216,6 +238,22 @@ pathway.
   face that repulsion problem), and Fe³⁺ then oxidises I⁻ back to Fe²⁺ —
   regenerating the catalyst while avoiding the slow anion-anion step
   entirely.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--16-heterogeneous-catalyst.webp" width="900" height="1180" alt="Three panels show the Haber process on an iron surface. 1: adsorption, one N2 molecule and three H2 molecules attach to active sites on the surface. 2: bond weakening, the N triple bond and H-H bonds are weakened (shown dashed), lowering the activation energy. 3: desorption, two NH3 molecules leave the surface, freeing the active sites for more reactants." loading="lazy">
+  <figcaption>A heterogeneous catalyst works by adsorption, bond weakening and desorption.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--17-homogeneous-cycle.webp" width="900" height="970" alt="A cycle with NO2 at the top and NO at the bottom. In step 1, NO2 oxidises SO2 to SO3 and is itself reduced to NO. In step 2, NO reacts with half an O2 and re-forms NO2. NO2 is used in step 1 and regenerated in step 2, so it is the catalyst; NO is made then used, so it is an intermediate. Adding the steps gives SO2 + half O2 forming SO3 with NO2 cancelling." loading="lazy">
+  <figcaption>NO2 is used in step 1 and re-formed in step 2, so it is the catalyst and NO is the intermediate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-reaction-kinetics-rate-equations-and-catalysis--18-iron-ions-catalyst.webp" width="900" height="960" alt="Top: the direct reaction between iodide and peroxodisulfate ions is slow because both ions are negatively charged and repel each other. Bottom: Fe2+ reduces S2O8 2- to give Fe3+, a cation that does not face that repulsion, and Fe3+ then oxidises I- back to Fe2+, regenerating the catalyst." loading="lazy">
+  <figcaption>Fe ions replace one slow anion-anion step with two steps involving a cation.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

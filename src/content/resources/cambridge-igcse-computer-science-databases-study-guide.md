@@ -48,6 +48,17 @@ Choose the type that matches the way the field will be used. A phone number is t
 
 Good databases also use **validation** to stop bad data entering a field, for example a range check on Stock so it cannot be negative, and a presence check so the primary key is never missing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--13-table-anatomy.webp" width="900" height="711" alt="The Book table with the Title column marked as a field, the third row marked as a record, and BookID marked as the primary key." loading="lazy">
+  <figcaption>Fields run down as columns, records run across as rows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--14-data-types.webp" width="900" height="920" alt="Five data types with example fields, plus a phone number stored as text keeping its leading zero but losing it as an integer." loading="lazy">
+  <figcaption>Choose the type that matches how the field is used.</figcaption>
+</figure>
+
+
 ## Sample table used in this guide
 
 | BookID | Title | Author | Year | Price | Stock |
@@ -128,6 +139,12 @@ WHERE Author = 'N Okafor' AND Price < 10;
 
 N Okafor wrote Harbour Lights (8.50) and Iron Orchard (12.00). Only Harbour Lights satisfies both conditions, so the output is Harbour Lights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--16-where-matrix.webp" width="900" height="770" alt="Grid of five books against the conditions in queries (a) to (d), with counts and the stock total 29." loading="lazy">
+  <figcaption>Which records each WHERE condition keeps.</figcaption>
+</figure>
+
+
 ## Worked example 2: reading a query
 
 State the output of:
@@ -141,9 +158,21 @@ ORDER BY Year DESC;
 
 First apply `WHERE`: books with Year above 2016 are Harbour Lights (2019), Iron Orchard (2021) and Cold Station (2022). Then apply `ORDER BY Year DESC`, newest first: Cold Station, Iron Orchard, Harbour Lights. Finally apply `SELECT`, which shows only Author and then Title. The output is therefore three rows: L Brandt, Cold Station; N Okafor, Iron Orchard; N Okafor, Harbour Lights. The Year field is used to sort but is not displayed, because it is not in the SELECT list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--15-query-order.webp" width="900" height="1192" alt="The query is worked through: FROM Book, WHERE Year &gt; 2016 keeps three records, ORDER BY Year DESC sorts them, SELECT shows Author and Title. Output: three rows." loading="lazy">
+  <figcaption>Work in the order the database does.</figcaption>
+</figure>
+
+
 ## Choosing a good primary key
 
 When you are asked to suggest a primary key, give the field and a reason. A good answer is "BookID, because it is unique for each record." A weak answer is "Title, because it is important." You can also be asked why a field is unsuitable: Author is not unique because one author can write several books, and Year is shared by many records.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-databases-study-guide--17-key-choice.webp" width="900" height="768" alt="BookID has five different values; Author repeats (N Okafor, L Brandt twice) and Year repeats (2016 twice), so only BookID suits a primary key." loading="lazy">
+  <figcaption>A primary key must be unique and never empty.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

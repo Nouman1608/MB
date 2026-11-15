@@ -48,6 +48,12 @@ Specified content: resistance in Hungary (1956) and Czechoslovakia (1968); the B
 
 By 1948 communist parties loyal to Moscow ruled Poland, Hungary, Czechoslovakia, Romania, Bulgaria and East Germany. Control rested on several supports: Soviet troops stationed in the region; secret police forces; one-party rule with leaders approved by Moscow; the **Cominform** (1947) to co-ordinate communist parties; **Comecon** (1949) to tie economies to the USSR; and from 1955 the **Warsaw Pact** military alliance. Yugoslavia under Tito was expelled from the Cominform in 1948 -- an early sign that not every communist state would obey.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--01-control-supports.webp" width="900" height="990" alt="A building under a roof labelled Soviet control stands on six supports: Soviet troops, secret police, one-party rule, the Cominform (1947), Comecon (1949) and the Warsaw Pact (1955). The base lists the six Moscow-loyal states: Poland, Hungary, Czechoslovakia, Romania, Bulgaria and East Germany. A dashed box notes that Yugoslavia under Tito was expelled from the Cominform in 1948." loading="lazy">
+  <figcaption>Soviet control after 1948 rested on six supports, and Yugoslavia showed that not every communist state obeyed.</figcaption>
+</figure>
+
+
 ## Why was there opposition in Hungary in 1956, and how did the USSR react?
 
 **Causes.** Hungarians resented the harsh rule of Mátyás Rákosi, the secret police (AVH), low living standards, the removal of food and goods to the USSR, and restrictions on the Catholic Church. Hopes rose after Khrushchev's **"Secret Speech"** of February 1956 denounced Stalin, and after Polish protests that year won concessions.
@@ -77,13 +83,31 @@ By 1948 communist parties loyal to Moscow ruled Poland, Hungary, Czechoslovakia,
 
 The key similarity is that the USSR would not allow a satellite to escape its control; the key difference is how far each rising challenged that control directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--02-hungary-czechoslovakia.webp" width="900" height="1059" alt="Side-by-side grid comparing Hungary 1956 and Czechoslovakia 1968. Hungary: Imre Nagy, aim to leave the Warsaw Pact, armed street fighting, Soviet army alone, thousands killed, Kadar installed and Nagy executed. Czechoslovakia: Alexander Dubcek, reform inside the Pact, mostly non-violent, Warsaw Pact forces, far fewer deaths, Husak installed and the Brezhnev Doctrine. The West protested in both cases and did nothing more." loading="lazy">
+  <figcaption>Both risings were crushed because the USSR would not let a satellite escape; they differed in how directly they challenged Moscow.</figcaption>
+</figure>
+
+
 ## Why was the Berlin Wall built in 1961?
 
 By 1961 around three million East Germans had fled to the West since 1949, many through West Berlin -- a large share of them young and skilled. This "brain drain" damaged the East German economy and showed the world that people were voting with their feet against communism. After Khrushchev's pressure on the West over Berlin failed, the East German government began building the wall on **13 August 1961**. It stopped the flood of refugees and stabilised East Germany, but it became the most visible symbol of Soviet control resting on force. The USA protested but accepted the wall rather than risk war, and Kennedy visited West Berlin in June 1963.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--03-berlin-wall-1961.webp" width="900" height="960" alt="Two schematic panels (not a map). Before 13 August 1961 arrows run from East Germany through West Berlin to the West, with about three million East Germans fleeing from 1949 to 1961, many young and skilled. After 13 August 1961 a brick wall blocks the route: the refugee flood stops and East Germany is stabilised, but the wall becomes a symbol of Soviet control resting on force." loading="lazy">
+  <figcaption>The brain drain through West Berlin ended only when the wall closed the route, at the price of becoming a symbol of force.</figcaption>
+</figure>
+
+
 ## What was the significance of Solidarity?
 
 In August 1980 strikes at the Lenin Shipyard in Gdańsk, led by electrician **Lech Wałęsa**, won the right to form **Solidarity**, the first independent trade union in the Soviet bloc. It grew to around ten million members, drawing strength from Polish Catholicism and the election of a Polish pope, John Paul II, in 1978. General Jaruzelski declared **martial law** in December 1981, and Solidarity was banned -- but it survived underground. In 1989 Round Table talks led to partly free elections in June, which Solidarity won overwhelmingly, and a Solidarity-led government was formed. Significance: it showed that a mass movement could challenge a communist government without being crushed by Soviet tanks, and Poland's 1989 change encouraged the rest of the bloc.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--04-solidarity-poland.webp" width="900" height="1117" alt="A timeline bar drawn to scale from August 1980 to 1990. Solidarity is legal from August 1980, banned and underground from the martial law of December 1981, and wins the partly free election of June 1989. Three numbered notes explain each stage. Ten person icons show about ten million members. A closing box gives the significance: a mass movement challenged communism without being crushed by Soviet tanks, and Poland in 1989 encouraged the rest of the bloc." loading="lazy">
+  <figcaption>Solidarity spent most of the 1980s underground, yet won the 1989 election and showed the bloc what was possible.</figcaption>
+</figure>
+
 
 ## How far was Gorbachev personally responsible for the collapse?
 
@@ -92,6 +116,17 @@ In August 1980 strikes at the Lenin Shipyard in Gdańsk, led by electrician **Le
 **Other factors.** The Soviet economy was stagnating and could not afford the arms race of the 1980s or subsidies to Eastern Europe; Solidarity had already weakened communist authority in Poland; nationalism and religion kept opposition alive; Western media showed Eastern Europeans what they lacked; and the earlier repressions of 1956 and 1968 had left communism without real popular support.
 
 **Judgement.** Gorbachev was the decisive trigger: control had always depended on Moscow's willingness to use force, and he removed it. But he did not intend to end communism in Eastern Europe, and the long-term weaknesses explain why it collapsed so quickly once force was withdrawn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--05-force-then-restraint.webp" width="900" height="1084" alt="Six events in date order. The first three show Soviet force or its symbol: tanks enter Budapest (4 November 1956), the Berlin Wall is built (13 August 1961) and Warsaw Pact forces invade Czechoslovakia (20 to 21 August 1968). A band marks Gorbachev leading from 1985 and abandoning the Brezhnev Doctrine. The last three, all in 1989, show a crossed-out tank: Hungary opens its Austrian border, the Berlin Wall is opened on 9 November, and the Velvet Revolution takes place, with no Soviet intervention." loading="lazy">
+  <figcaption>Soviet control rested on force and ended in 1989 when Moscow would no longer use it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-ussr-control-eastern-europe--06-gorbachev-and-other-factors.webp" width="900" height="1045" alt="Two boxes feed into a result box. Gorbachev's choices: glasnost, perestroika, cuts in Soviet forces in Europe in 1988, leaving Afghanistan and dropping the Brezhnev Doctrine. Long-term weaknesses: the stagnating economy, inability to afford the arms race, Solidarity, nationalism and religion, Western media and lack of popular support. Both lead to the collapse of Soviet control in 1989. A judgement box says Gorbachev was the decisive trigger but did not intend to end communism there." loading="lazy">
+  <figcaption>Gorbachev was the trigger, but long-term weaknesses explain why control collapsed so quickly.</figcaption>
+</figure>
+
 
 ## Worked example: answering the (b) question
 

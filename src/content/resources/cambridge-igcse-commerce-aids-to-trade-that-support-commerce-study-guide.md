@@ -48,6 +48,12 @@ Topic 1 lists the six aids to trade: communications, transport, warehousing, adv
 | Collective (generic) | Promotes a whole product type for an industry, such as "drink more milk" | Shares the cost among many firms | Benefits rivals as well as the firms that pay |
 | Competitive | Compares a brand with its rivals | Shows customers why this brand is better | Can provoke an expensive advertising war |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--01-ad-purposes-types.webp" width="900" height="880" alt="A megaphone next to the four purposes of advertising: inform, persuade, remind, build brand image. Below, four cards show the types: informative, persuasive, collective and competitive, each with its main risk." loading="lazy">
+  <figcaption>Advertising has four purposes and comes in four types, each with a risk.</figcaption>
+</figure>
+
+
 ## Which advertising media should a business choose? (5.1.2)
 
 **Traditional media** are television, radio, cinema, local and national newspapers, magazines and trade journals, leaflets and flyers, packaging, direct mail, sponsorship, catalogues and brochures, posters, transport vehicles, window displays, point of sale displays, signboards and word of mouth.
@@ -82,6 +88,12 @@ The **methods of appeal** listed are emotion, fear, humour, rational, ambition, 
 | Sources of finance | Loan, overdraft, mortgage, hire purchase |
 
 Some pairs are often confused. A **debit card** takes money straight from the current account; a **credit card** borrows money that is repaid later, with interest if the full balance is not paid. A **standing order** pays a fixed amount on a fixed date and is changed by the account holder; a **direct debit** lets the receiver collect an amount that can vary, such as an electricity bill. A **loan** is a fixed sum repaid in instalments over an agreed period; an **overdraft** lets a current account go below zero up to a limit and suits short-term cash shortages. A **mortgage** is a long-term loan secured on property. **Hire purchase** lets a buyer use goods immediately while paying in instalments; the goods belong to the buyer only after the last payment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--02-standing-order-vs-direct-debit.webp" width="900" height="910" alt="Two panels. In the standing order panel, a payer sends money to a business, and three monthly bars are all the same height. In the direct debit panel, the receiver collects the money and the three monthly bars have different heights." loading="lazy">
+  <figcaption>A standing order is a fixed amount set by the payer; a direct debit is collected by the receiver and can vary.</figcaption>
+</figure>
+
 
 ## How has digital technology changed banking? (5.2.2)
 
@@ -138,6 +150,17 @@ You also need the **financial terms** sales, revenue, profit, working capital, a
 | Working capital | Current assets - current liabilities |
 | Mark-up (%) | (Average selling price - unit cost) / unit cost x 100 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--06-profit-waterfall.webp" width="900" height="780" alt="A step chart. A tall bar for revenue of 9,600 dollars drops by cost of sales of 6,000 dollars to gross profit of 3,600 dollars, which drops by expenses of 1,500 dollars to net profit of 2,100 dollars. Two boxes below show gross profit margin 37.5 percent and working capital 3,500 dollars." loading="lazy">
+  <figcaption>Revenue falls to gross profit after cost of sales, then to net profit after expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--07-markup-vs-margin.webp" width="900" height="790" alt="A bar showing a $24 selling price split into $15 cost and $9 profit. Below it, the $9 profit fills 60 percent of a bar the length of the cost, and 37.5 percent of a bar the length of the selling price." loading="lazy">
+  <figcaption>Mark-up is measured on cost, margin on selling price, so mark-up is the larger percentage.</figcaption>
+</figure>
+
+
 ## Worked example 1: commercial calculations
 
 A trader buys 400 lamps at $15 each and sells all of them at $24 each. Expenses for the year are $1,500. Current assets are $6,200 and current liabilities are $2,700.
@@ -159,6 +182,22 @@ A shop insures its stock worth $64,000. The insurer charges $1.25 per $100 insur
 - Premium = 640 x 1.25 = **$800** a year
 
 If the shop installs a sprinkler system and the rate falls to $1.00 per $100, the premium falls to 640 x 1.00 = $640, a saving of $160.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--03-insurance-pooling.webp" width="900" height="810" alt="Twenty people each pay a premium into a common fund of 2,000 dollars. Two of them, marked with a warning badge, have a loss. The fund pays their two claims of 900 dollars each, 1,800 dollars in total, and 200 dollars remains for the insurer’s costs." loading="lazy">
+  <figcaption>Pooling of risk: many small premiums pay for the few who lose (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--04-insurance-documents.webp" width="900" height="880" alt="Three document icons in order: the proposal form (the application), the cover note (temporary proof of insurance) and the policy (the full contract). Below, a customer talks to a broker, who compares several insurers; the broker is paid commission by the insurer." loading="lazy">
+  <figcaption>Proposal form, then cover note, then policy; a broker compares insurers for the customer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--05-premium-example.webp" width="900" height="680" alt="A chain of three boxes: 64,000 dollars of stock divided by 100 gives 640 units, multiplied by 1.25 dollars per 100 gives a premium of 800 dollars. A bar chart compares the 800 dollar premium with the 640 dollar premium after sprinklers are fitted, a saving of 160 dollars." loading="lazy">
+  <figcaption>Premium = (value insured / 100) x rate per $100: $800 falls to $640 when the rate drops to $1.00.</figcaption>
+</figure>
+
 
 ## How can a business improve its performance? (5.4.3)
 

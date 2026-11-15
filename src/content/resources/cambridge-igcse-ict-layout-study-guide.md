@@ -46,6 +46,17 @@ Topic 13 sits with the other document skills: images (placing pictures), styles 
 - **Columns**: split text into two or more columns, as in a newsletter. You can set the width and the gap (spacing) between columns.
 - **Page breaks** start a new page; **column breaks** push text to the next column; **section breaks** allow different settings in different parts of a document.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--12-lay-orientation-margins.webp" width="900" height="820" alt="Two A4 pages to the same scale: portrait 21 cm by 29.7 cm and landscape 29.7 cm by 21 cm, each with a shaded margin around the text area." loading="lazy">
+  <figcaption>Portrait and landscape A4 with margins.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--14-lay-breaks.webp" width="900" height="950" alt="Three sketches: a page break starts a new page, a column break pushes text to the next column, and a section break allows different settings such as orientation or columns." loading="lazy">
+  <figcaption>Page, column and section breaks.</figcaption>
+</figure>
+
+
 ### Formatting text and paragraphs
 
 - **Font** (typeface), **size**, **colour**, **bold**, **italic** and **underline**. Use a clear font and size suited to the audience, usually 10 to 12 points for body text.
@@ -77,6 +88,12 @@ Width of each column = 14.4 / 3 = **4.8 cm**.
 
 Check: 3 x 4.8 + 2 x 0.8 = 14.4 + 1.6 = 16 cm. Word-processing software normally calculates equal column widths when you select three columns and set the spacing, but you should know how the numbers fit together so that you can set widths manually and check the result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--13-lay-columns.webp" width="900" height="950" alt="The top of an A4 page drawn to scale with 2.5 cm margins, three columns of 4.8 cm and two gaps of 0.8 cm, with the arithmetic that gives 4.8 cm." loading="lazy">
+  <figcaption>Working out column widths.</figcaption>
+</figure>
+
+
 ## 13.2 Tables
 
 A table arranges information in rows and columns. The intersection of a row and column is a **cell**.
@@ -103,6 +120,12 @@ Description = 16 - 8.5 = **7.5 cm**.
 
 A header row spanning the whole table would be made by merging all four cells in the first row. The Price column is right-aligned so that the decimal points line up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--15-lay-table-fit.webp" width="900" height="710" alt="A four column table 16 cm wide with Item 3 cm, Description 7.5 cm, Quantity 2.5 cm and Price 3 cm, a merged title row and right-aligned prices." loading="lazy">
+  <figcaption>Fitting a table to the text width.</figcaption>
+</figure>
+
+
 ## 13.3 Headers and footers
 
 A **header** is text or an image that appears in the top margin of every page, and a **footer** appears in the bottom margin. They should be set once, and they then repeat automatically.
@@ -121,6 +144,12 @@ Headers and footers should be placed within the margins and should not overlap t
 *Instruction:* "Insert a footer with your name on the left, the automatic page number in the centre and the automatic date on the right."
 
 *Result:* a footer with three items separated by tab stops. The page number field appears as 1 on page one, 2 on page two, and so on. If you type the number 1 by hand it appears on every page and loses the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-layout-study-guide--16-lay-footer-fields.webp" width="900" height="1040" alt="Page footers with name, page number and date. An automatic page number reads 1 then 2; a number typed by hand reads 1 on every page." loading="lazy">
+  <figcaption>Automatic fields versus typed page numbers.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

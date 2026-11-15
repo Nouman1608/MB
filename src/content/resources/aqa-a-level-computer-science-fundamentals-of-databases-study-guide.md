@@ -38,6 +38,12 @@ An **entity** is a thing about which data is stored (Customer, Product). **Attri
 
 The specification also asks you to write **entity descriptions** in the form `Entity1 (Attribute1, Attribute2, ...)`, underlining the attribute or attributes that form the entity identifier, for example Customer (<u>CustomerID</u>, Name, Town).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--07-many-to-many-link-table.webp" width="900" height="740" alt="Order and Product have a many-to-many relationship, which cannot be stored directly. A link table, OrderLine, carries both foreign keys and makes two one-to-many relationships. A crow’s foot marks the many end and a bar the one end." loading="lazy">
+  <figcaption>A link table turns a many-to-many relationship into two one-to-many relationships.</figcaption>
+</figure>
+
+
 ## What terms must you define for relational databases?
 
 The specification (4.10.2) lists four terms:
@@ -48,6 +54,12 @@ The specification (4.10.2) lists four terms:
 - A **foreign key** is an attribute in one table that is the primary key of another table, which creates the link between them.
 
 A related idea worth knowing is **referential integrity**: every foreign key value should match an existing primary key value, so there are no orphan records (for example, no order for a customer who does not exist).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--08-primary-foreign-keys.webp" width="900" height="840" alt="OrderHeader and Product each have one primary key. OrderLine has a composite primary key of OrderID and ProductID, and each of those is also a foreign key. Arrows run from each foreign key to the primary key it refers to." loading="lazy">
+  <figcaption>Foreign keys link tables to primary keys; OrderLine has a composite primary key.</figcaption>
+</figure>
+
 
 ## Normalisation
 
@@ -68,6 +80,12 @@ An unnormalised design stores: OrderID, OrderDate, CustomerID, CustomerName, Tow
 **3NF:** in OrderHeader, CustomerName and Town depend on CustomerID, which is not the key. This is a transitive dependency. Move them out: Customer(CustomerID, Name, Town), OrderHeader(OrderID, CustomerID, OrderDate).
 
 Final design: Customer (CustomerID), Product (ProductID), OrderHeader (OrderID, with foreign key CustomerID) and OrderLine (OrderID and ProductID together, both foreign keys). A customer's town is now stored once, so changing it is a single update.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--09-normal-form-dependencies.webp" width="900" height="900" alt="The order table has composite key OrderID plus ProductID. Attributes that depend on only one part of the key break 2NF, Quantity depends on the whole key, and CustomerName and Town depend on CustomerID, a transitive dependency that breaks 3NF. Splitting gives Customer, OrderHeader, Product and OrderLine." loading="lazy">
+  <figcaption>Partial dependencies break 2NF and transitive dependencies break 3NF.</figcaption>
+</figure>
+
 
 ## SQL
 
@@ -109,6 +127,12 @@ ORDER BY Total DESC;
 
 Working: Aldous Wren has order 100 (4 x 2.50 + 1 x 4.00 = 14.00) and order 102 (2 x 2.50 + 1 x 18.00 = 23.00), a total of 37.00. Bina Sethi has order 101: 1 x 18.00 = 18.00. Corin Hale has no orders, so the inner join does not return him. The result is Aldous Wren 37.00, then Bina Sethi 18.00.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--10-join-total-spend.webp" width="900" height="800" alt="Aldous Wren has orders 100 (14.00) and 102 (23.00), total 37.00. Bina Sethi has order 101 (18.00). Corin Hale has no orders, so the inner join does not return him. Highest first gives Aldous Wren then Bina Sethi." loading="lazy">
+  <figcaption>An inner join returns only customers who have orders; totals are sorted highest first.</figcaption>
+</figure>
+
+
 ## Client-server databases and concurrency
 
 In a **client-server** database, the data and the **database management system (DBMS)** sit on a server and many clients send queries to it. This allows central security, backup and control.
@@ -121,6 +145,12 @@ When several users edit the same record, a **lost update** can occur: two users 
 - **Commitment ordering**: transactions are allowed to commit only in an order consistent with the order of their conflicting operations, so the overall result is equivalent to a serial order and no update is lost.
 
 These four methods are the ones named in the specification (4.10.5): record locks, serialisation, timestamp ordering and commitment ordering.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--11-lost-update.webp" width="900" height="1300" alt="Without a lock, A and B both read 10, A writes 9, then B writes 9 and overwrites A’s change. With a record lock, B waits until A writes 9 and unlocks, then B reads 9 and writes 8. Numbers are illustrative." loading="lazy">
+  <figcaption>A record lock stops the second save from overwriting the first.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

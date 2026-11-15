@@ -100,6 +100,12 @@ CH₃COCl + 2NH₃ → CH₃CONH₂ + NH₄Cl
 [Amides and Amino Acids](/resources/a-amides-and-amino-acids/) covers this
 reaction and amide chemistry fully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amines-aliphatic-and-aromatic--13-amine-routes.webp" width="900" height="870" alt="A halogenoalkane with excess ammonia, an amide with LiAlH4 or a nitrile with LiAlH4 or H2/Ni gives a primary amine. A halogenoalkane with a primary amine gives a secondary amine." loading="lazy">
+  <figcaption>Four syllabus routes to amines.</figcaption>
+</figure>
+
+
 ## Basicity of amines
 
 Amines are basic because the nitrogen's lone pair can accept a proton (the
@@ -125,6 +131,12 @@ form, gives phenylamine:
 
 C₆H₅NO₂ --[Sn, conc. HCl, heat]→ [C₆H₅NH₃]⁺ --[NaOH(aq)]→ C₆H₅NH₂
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amines-aliphatic-and-aromatic--15-phenylamine-prep.webp" width="900" height="1120" alt="Benzene is nitrated (conc. HNO3 and H2SO4, 25-60 C) to nitrobenzene, reduced with hot Sn and conc. HCl to the phenylammonium ion, then NaOH(aq) frees phenylamine." loading="lazy">
+  <figcaption>Two steps and a final NaOH treatment turn benzene into phenylamine.</figcaption>
+</figure>
+
+
 ## Reactions of phenylamine
 
 **With bromine water.** Phenylamine reacts with Br₂(aq) at room
@@ -141,6 +153,12 @@ since the diazonium salt decomposes above about 10 °C. Warming this
 diazonium salt with water displaces the diazonium group to give phenol, as
 already met in [Phenol: Reactions and
 Acidity](/resources/a-phenol-reactions-and-acidity/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amines-aliphatic-and-aromatic--16-phenylamine-reactions.webp" width="900" height="1090" alt="Br2(aq) at room temperature gives a white precipitate of 2,4,6-tribromophenylamine. HNO2 below 10 C gives the benzenediazonium salt, which decomposes above about 10 C." loading="lazy">
+  <figcaption>Bromine water and nitrous acid both react with phenylamine; temperature control matters for the diazonium salt.</figcaption>
+</figure>
+
 
 ## Relative basicity: ammonia, ethylamine, phenylamine
 
@@ -160,6 +178,12 @@ increasing acidity, since the delocalised lone pair is *less* available to
 accept a proton in the first place). This delocalisation pulls electron
 density away from nitrogen rather than adding to it, making phenylamine a
 distinctly weaker base than even plain ammonia.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amines-aliphatic-and-aromatic--14-amine-basicity.webp" width="900" height="1000" alt="Ethylamine is the strongest base because the alkyl group pushes electrons onto N. Ammonia is the reference. Phenylamine is the weakest because the lone pair delocalises into the ring." loading="lazy">
+  <figcaption>Ethylamine &gt; ammonia &gt; phenylamine.</figcaption>
+</figure>
+
 
 ## Azo compounds
 
@@ -182,6 +206,12 @@ region, which is exactly why azo compounds are intensely coloured and
 widely used as **dyes**. Other azo dyes are made by the same
 diazonium-coupling route, varying the aromatic partner coupled to the
 diazonium salt to tune the colour and properties of the resulting dye.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-amines-aliphatic-and-aromatic--17-azo-coupling.webp" width="900" height="860" alt="Benzenediazonium ion couples with phenol in NaOH(aq) at low temperature to give 4-hydroxyazobenzene, an azo dye. The -N=N- group links the rings into a delocalised system that absorbs visible light." loading="lazy">
+  <figcaption>Coupling builds a coloured azo dye with an -N=N- link.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -28,6 +28,12 @@ The speaking and listening endorsement is an optional part of OxfordAQA Internat
 
 This endorsement stands outside the written papers and the non-exam assessment route. It is useful whichever route you follow, because the habits it builds, such as organising ideas, choosing words for an audience and listening critically, improve both your reading and your writing. Treat it as an opportunity: you are not competing against an exam clock, and the activity is one you can prepare for in a systematic way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--01-endorsement-separate.webp" width="900" height="620" alt="A diagram with two separate routes. Written papers lead to the IGCSE grade. The optional speaking and listening endorsement leads to a separate statement and gives no marks towards the grade." loading="lazy">
+  <figcaption>Speaking and listening is optional and is reported separately, not as part of the grade.</figcaption>
+</figure>
+
+
 ## Speaking with purpose
 
 Every spoken task has a purpose, such as informing, explaining, persuading or entertaining, and an audience. Before you speak, decide what you want the audience to understand or do afterwards. Then:
@@ -37,6 +43,12 @@ Every spoken task has a purpose, such as informing, explaining, persuading or en
 - **Use clear delivery**. Speak at a measured pace, pause between ideas, project your voice and look at your listeners.
 - **Support your claims** with examples, short stories or facts that you are sure of.
 - **Stay flexible**. If the audience looks confused, rephrase or give an example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--02-speak-with-purpose.webp" width="900" height="1090" alt="A speaker faces three audience members. Four purposes are listed: inform, explain, persuade and entertain. A three-part structure follows: open, develop two or three points with reasons or examples, and sum up. Four delivery tips are shown: measured pace, pause, project your voice and look at listeners." loading="lazy">
+  <figcaption>Decide the purpose and audience first, then open, develop two or three points, and sum up.</figcaption>
+</figure>
+
 
 ## Listening actively
 
@@ -49,6 +61,12 @@ Listening is a skill that can be practised. Active listening means that you:
 - show that you are listening with eye contact, nodding and relevant follow-up questions.
 
 When you reply, refer to what was said: "You mentioned that..., but I would add that..." This shows that you have listened and that you are building on others' ideas instead of waiting to give your own speech.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--03-active-listening.webp" width="900" height="910" alt="A listener in the middle of a ring of five actions: attend and do not interrupt, notice the main point and its evidence, tell fact from opinion, remember key details, and show you are listening with eye contact and nodding. Below, a sentence frame reads: You mentioned that, but I would add that." loading="lazy">
+  <figcaption>Active listening has five parts, and a good reply refers back to what the speaker said.</figcaption>
+</figure>
+
 
 ## Taking part in discussion
 
@@ -63,9 +81,21 @@ In a group or paired discussion, your contribution is judged by how well you tak
 
 Useful phrases include "I see your point, but..." and "Building on what Sam said...". Avoid dismissive phrases and sarcasm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--04-discussion-skills.webp" width="900" height="870" alt="Four people each have a speech bubble. The first makes a point with a reason or example. The second responds, for example by saying I see your point, but. The third asks a question such as What would happen if. The fourth summarises where the group has reached. A banner says quality of taking part matters, not length of speaking." loading="lazy">
+  <figcaption>Good discussion mixes four moves: point, response, question and summary.</figcaption>
+</figure>
+
+
 ## Formal and informal register
 
 Choosing the right register is a key skill. In a presentation or interview, you are expected to use formal, accurate English: complete sentences, careful grammar, and no slang or fillers such as "like" or "you know". In a friendly conversation, informal language is acceptable. Part of the skill is judging the situation. Formal register does not mean erasing your accent, since accent concerns pronunciation and register concerns word choice and grammar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--05-register-vs-accent.webp" width="900" height="850" alt="A scale from informal to formal. A friendly conversation is at the informal end, where informal language is acceptable. A presentation or interview is at the formal end, where you use complete sentences, careful grammar and no slang or fillers. Below, two boxes explain that accent is pronunciation while register is word choice and grammar, so formal register does not mean erasing your accent." loading="lazy">
+  <figcaption>Match register to the situation; accent (pronunciation) is a separate thing.</figcaption>
+</figure>
+
 
 ## Preparing
 
@@ -88,6 +118,12 @@ A plan for one speaker might be:
 4. Closing summary: say that most of the group agrees that limits are needed but not on how strict they should be.
 
 This plan shows the four core skills: making a developed point, responding, questioning and summarising. It also fits into the time while leaving room for others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide--06-discussion-time-plan.webp" width="900" height="780" alt="A bar shows 12 minutes divided into four equal 3-minute turns, one per speaker. One 3-minute turn is expanded into four 45-second contributions: opening point, response, question and closing summary. 4 times 45 seconds is 180 seconds, which is 3 minutes." loading="lazy">
+  <figcaption>12 minutes shared by 4 speakers is 3 minutes each, planned as four 45-second contributions.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

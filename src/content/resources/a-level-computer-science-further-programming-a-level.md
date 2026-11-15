@@ -91,6 +91,17 @@ COUNT:  4
 
 Each pass loads the next number using indexed addressing, adds it to TOTAL and counts down. After four passes COUNT is 0, the jump is not taken, and ACC holds 5 + 8 + 2 + 7 = 22.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--08-fp-addressing-modes.webp" width="900" height="920" alt="Four rows. Immediate, LDM #25: the operand is the value, so ACC becomes 25. Direct, LDD 200: the operand is an address; address 200 holds 7 so ACC becomes 7. Indirect, LDI 300: address 300 holds 500, which is the address of the value; address 500 holds 9 so ACC becomes 9. Indexed, LDX 400 with IX equal to 2: the address is 400 plus 2 which is 402, holding 6, so ACC becomes 6. Relative addressing gives an offset from the current instruction and is used for jumps. Memory contents are illustrative." loading="lazy">
+  <figcaption>Immediate, direct, indirect and indexed addressing show what the operand means.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--09-fp-indexed-sum-trace.webp" width="900" height="900" alt="The list NUMS holds 5, 8, 2 and 7. On each of four passes the index register IX selects the next number, which is added to TOTAL: TOTAL becomes 5, 13, 15 and then 22 while COUNT counts down 3, 2, 1, 0. When COUNT is 0 the jump is not taken and ACC holds 22. The trace was produced by running the lesson program in code." loading="lazy">
+  <figcaption>Four passes of the indexed loop add 5, 8, 2 and 7 to give 22.</figcaption>
+</figure>
+
+
 ## Imperative (procedural) programming
 
 A program is a sequence of statements that change the program's state (the values of variables), using sequence, selection and iteration, and structured into **procedures and functions** with parameters. Most Paper 2 pseudocode is imperative. Its strengths are a clear order of execution and easy decomposition into modules; its weakness for large systems is that data and the code that changes it are kept apart, which object-oriented programming addresses.
@@ -146,6 +157,17 @@ The subclass constructor calls the parent constructor with `SUPER.NEW`. Deposit 
 
 **Designing classes**: identify the nouns in the problem (each may be a class or an attribute), the actions (methods), which data must be protected (private attributes with getters and setters), and the "is-a" (inheritance) and "has-a" (containment) relationships.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--10-fp-oop-classes.webp" width="900" height="890" alt="Account has private attributes Owner and Balance and public methods NEW, GetBalance and Deposit. SavingsAccount inherits from Account (an is-a relationship, hollow triangle arrow) and adds a private Rate. A Bank holds an array of Account objects (a has-a relationship, diamond end). MyAccount is an instance of SavingsAccount for Farah with rate 0.03 and balance 250.00 after depositing 250.00." loading="lazy">
+  <figcaption>Account, SavingsAccount (is-a), Bank (has-a) and an instance of SavingsAccount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--11-fp-encapsulation.webp" width="900" height="720" alt="Outside code can call Deposit on the Account object. Deposit 250.00 passes the check Amount greater than 0 and the private Balance becomes 250.00. Deposit minus 50.00 fails the check and is rejected, so Balance stays 250.00. Trying to set Balance directly from outside is blocked because Balance is PRIVATE. The behaviour was run in code." loading="lazy">
+  <figcaption>A private Balance can only change through Deposit, which rejects a non-positive amount.</figcaption>
+</figure>
+
+
 ## Declarative programming
 
 A declarative program states **what** is true (facts and rules) and asks **goals** (queries); the language's inference engine searches the facts and rules to satisfy the goal, rather than the programmer giving the steps. Cambridge papers use a Prolog-like notation.
@@ -162,6 +184,12 @@ A declarative program states **what** is true (facts and rules) and asks **goals
 - The goal `flight(doha, D).` returns D = manila, D = nairobi.
 - The goal `connects(cairo, Y).` matches Z = doha, so Y = manila, Y = nairobi (one change of plane).
 - The goal `connects(lima, doha).` succeeds with Z = cairo.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--12-fp-declarative-facts-rules.webp" width="900" height="990" alt="Four flight facts: cairo to doha, doha to manila, doha to nairobi and lima to cairo. The rule connects(X, Y) holds if flight(X, Z) and flight(Z, Y). Goal flight(doha, D) gives manila and nairobi. Goal connects(cairo, Y) matches Z equal to doha and gives manila and nairobi. Goal connects(lima, doha) succeeds with Z equal to cairo. Answers were computed in code." loading="lazy">
+  <figcaption>Four flight facts and one rule answer three goals.</figcaption>
+</figure>
+
 
 ## 20.2 File processing
 
@@ -193,6 +221,12 @@ PUTRECORD "Rooms.dat", Room
 CLOSEFILE "Rooms.dat"
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--13-fp-file-types.webp" width="900" height="1010" alt="Three lanes. Serial: a new record R4 is appended after R1 to R3. Sequential: records 10, 20, 40, 50 are copied to a new file and the new record 30 is written at its key position, giving 10, 20, 30, 40, 50. Random: the address is calculated from the key, for example room 412 MOD 200 equals 12, then the program seeks to address 12 and reads or writes the record directly. Key values are illustrative." loading="lazy">
+  <figcaption>Serial files append, sequential files are copied with the new record in order, random files use an address from the key.</figcaption>
+</figure>
+
+
 ## Exception handling
 
 An **exception** is an unexpected event that happens at run time and would stop the program, such as opening a file that does not exist, reading past the end of a file, dividing by zero, or converting non-numeric input to a number. **Exception handling** catches the exception and runs code to deal with it, so the program can report a helpful message, recover (for example, ask for another file name) or close files cleanly, instead of crashing and possibly losing data.
@@ -211,6 +245,12 @@ except ValueError:
 ```
 
 Java and Visual Basic use `try ... catch` blocks in the same way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-further-programming-a-level--14-fp-exception-handling.webp" width="900" height="780" alt="A try block opens a file, reads its first line as an integer and closes the file. If opening fails with FileNotFoundError the except branch prints that the file does not exist. If the first line is not a whole number a ValueError branch handles it. If every step works the program carries on. Without exception handling the program would crash. The three cases were checked in code." loading="lazy">
+  <figcaption>Each failing step jumps to the matching except branch instead of crashing.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

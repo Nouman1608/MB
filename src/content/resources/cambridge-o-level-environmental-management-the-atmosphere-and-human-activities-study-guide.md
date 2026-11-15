@@ -48,6 +48,12 @@ The atmosphere has layers. Weather and most of the air are in the **troposphere*
 
 The **natural greenhouse effect** occurs because gases such as carbon dioxide, methane and water vapour hold in some of the heat leaving the surface. Without it, the Earth would be too cold for most life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--08-air-composition.webp" width="900" height="720" alt="A grid of 100 squares showing air by volume. 78 squares are nitrogen, 21 are oxygen and 1 is other gases: argon, carbon dioxide (about 0.04 per cent) and variable water vapour. The percentages are approximate." loading="lazy">
+  <figcaption>About 78 per cent of air is nitrogen and about 21 per cent oxygen, with small amounts of argon, carbon dioxide and variable water vapour.</figcaption>
+</figure>
+
+
 ## Climate change
 
 Climate change is a long-term shift in temperature and weather patterns. The present rapid warming is linked to more greenhouse gases from human activity, an effect called the **enhanced greenhouse effect**.
@@ -70,6 +76,12 @@ Climate change is a long-term shift in temperature and weather patterns. The pre
 
 To reduce emissions, countries can use solar, wind, hydroelectric and other low-carbon energy, improve efficiency in homes and transport, protect and plant forests, and reduce waste. To cope with change, communities can build sea defences, grow drought-tolerant crops and improve early warnings. An international agreement works only when many countries take part, and richer countries have more money to act, so cooperation and fairness are part of any evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--09-enhanced-greenhouse.webp" width="900" height="1100" alt="Two panels. In the natural greenhouse effect, gases such as carbon dioxide, methane and water vapour hold in some of the heat leaving the surface and some escapes to space. In the enhanced greenhouse effect there are more greenhouse gases, so less heat escapes and more is held in. The extra gases come from people: carbon dioxide from burning fuels and clearing forests, methane from livestock, rice fields and rubbish tips, and nitrous oxide from fertilisers. Numbers of arrows are illustrative." loading="lazy">
+  <figcaption>Extra greenhouse gases from human activity hold in more heat than the natural greenhouse effect.</figcaption>
+</figure>
+
+
 ## Acid rain
 
 Rain is naturally slightly acidic, at about pH 5.6. Acid rain is lower than this. It forms when **sulfur dioxide** and **nitrogen oxides** react with water in the air to produce acids. Sulfur dioxide comes mostly from burning coal and oil containing sulfur and from metal smelting; nitrogen oxides come from vehicle engines and high-temperature combustion.
@@ -87,11 +99,23 @@ Acid deposition can also arrive as dry particles or fog. Because the gases trave
 
 Reduce the gases at source with cleaner fuels, scrubbers in power-station chimneys, catalytic converters on vehicles, renewable energy and public transport. Lime can be spread on lakes to neutralise acidity, though this is temporary and costly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--10-acid-rain-path.webp" width="900" height="800" alt="A factory burning coal or oil releases sulfur dioxide, and vehicle engines release nitrogen oxides. These gases react with water in the air to form acids in clouds. Wind carries them across a border, so the acid rain falls in another country, weakening trees and killing fish eggs in a lake." loading="lazy">
+  <figcaption>Sulfur dioxide and nitrogen oxides react with water in the air to form acids; wind carries them so damage often happens in another country.</figcaption>
+</figure>
+
+
 ## Ozone depletion
 
 The ozone layer is a region of the stratosphere with a higher concentration of ozone. It absorbs much of the Sun's harmful ultraviolet rays. Chlorofluorocarbons, known as CFCs, used in old refrigerators, air conditioners, aerosol sprays and foam, drift up to the stratosphere, where ultraviolet light frees chlorine atoms that break down ozone. One chlorine atom can destroy many ozone molecules.
 
 More ultraviolet radiation reaching the surface raises the risk of skin cancer and eye cataracts and can damage crops and plankton. The Montreal Protocol, signed in 1987, phased out CFCs, and the ozone layer has been slowly recovering. Remember that the thinning of the ozone layer is a separate problem from climate change, although some replacement chemicals are also greenhouse gases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--12-ozone-cfc.webp" width="900" height="990" alt="CFCs from old fridges, air conditioners and aerosol sprays drift up to the stratosphere. There, ultraviolet light frees chlorine atoms from the CFCs. A chlorine atom breaks up ozone molecules in the ozone layer, and one chlorine atom can destroy many ozone molecules. With thinner ozone, more ultraviolet radiation reaches the ground, raising the risk of skin cancer and eye cataracts." loading="lazy">
+  <figcaption>CFCs rise to the stratosphere, ultraviolet light frees chlorine atoms, and one chlorine atom destroys many ozone molecules, letting more UV reach the ground.</figcaption>
+</figure>
+
 
 ## Worked example 1: emissions per person
 
@@ -102,6 +126,12 @@ A fictional city of 650,000 people releases 3.9 million tonnes of carbon dioxide
 3. New total = 3,900,000 - 702,000 = 3,198,000 tonnes.
 4. Per person = 3,198,000 / 650,000 = 4.92 tonnes, to three significant figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--13-emissions-per-person.webp" width="900" height="800" alt="Bar chart for a fictional city of 650,000 people. Before: 3,900,000 tonnes of carbon dioxide a year divided by 650,000 people is 6.0 tonnes per person. A programme cuts total emissions by 18 per cent, which is 702,000 tonnes, leaving 3,198,000 tonnes, or 4.92 tonnes per person." loading="lazy">
+  <figcaption>A fictional city of 650,000 people emitting 3.9 million tonnes of carbon dioxide has 6.0 tonnes per person; an 18 per cent cut gives 4.92.</figcaption>
+</figure>
+
+
 ## Worked example 2: reading rainfall acidity
 
 Three rain samples have pH 5.6, 4.6 and 3.6.
@@ -111,6 +141,12 @@ Three rain samples have pH 5.6, 4.6 and 3.6.
 3. Compared with the pH 4.6 sample, the pH 3.6 sample is ten times more acidic.
 
 A vehicle fitted with a catalytic converter reduces nitrogen oxide output from 1.2 grams per kilometre to 0.3 grams per kilometre. On a 40 km journey this is a saving of (1.2 - 0.3) x 40 = 36 grams, a 75 per cent reduction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide--11-ph-acidity.webp" width="900" height="700" alt="Three samples of rain shown as blocks of squares, where each square is the acidity of normal rain at pH 5.6. Rain at pH 4.6 is one unit lower, so it is 10 times more acidic: 10 squares. Rain at pH 3.6 is two units lower, so 10 times 10 equals 100 times more acidic: 100 squares. Normal rain is about pH 5.6, not pH 7." loading="lazy">
+  <figcaption>Each pH unit lower is ten times more acidic: pH 4.6 is 10 times and pH 3.6 is 100 times more acidic than pH 5.6 rain.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

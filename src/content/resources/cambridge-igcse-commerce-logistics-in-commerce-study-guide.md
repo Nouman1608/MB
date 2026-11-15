@@ -43,6 +43,12 @@ Production and consumption usually happen in different places, so goods must be 
 - **Place**: goods are moved from where they are produced to where they are bought, such as copper from a mine to a port or clothes from a factory to a shop.
 - **Quantity**: the right amount arrives, so the business neither runs short nor holds far more than it needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--08-transport-functions.webp" width="900" height="690" alt="Three cards. Time shows a clock and a piece of fruit: goods arrive when needed. Place shows a point A and a point B joined by an arrow: goods move from where made to where bought. Quantity shows a small pile of crates with a tick: the right amount arrives." loading="lazy">
+  <figcaption>Transport adds value through time, place and quantity.</figcaption>
+</figure>
+
+
 ## What are the methods of transport and their advantages? (4.1)
 
 | Method | Examples named in the syllabus | Advantages | Disadvantages |
@@ -54,6 +60,12 @@ Production and consumption usually happen in different places, so goods must be 
 | Pipeline | Oil, gas, water | Continuous flow; low running and labour costs; not affected by traffic | Very high cost to build; carries only liquids and gases; leaks can be hard to find |
 
 A **tanker** carries liquids such as oil in bulk. A **cargo liner** sails a regular route to a timetable, so traders know when space is available. A **ferry** carries vehicles and goods on short sea crossings. Many journeys combine methods, for example road to a port, sea to another country and rail inland.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--09-transport-methods.webp" width="900" height="940" alt="Five rows, one for each method of transport with a small picture: road (lorry), rail (train), air (plane), sea (container ship) and pipeline. Each row gives one main strength in teal and one main weakness in orange." loading="lazy">
+  <figcaption>Each transport method has a main strength and a main weakness.</figcaption>
+</figure>
+
 
 ## How should a business choose a method of transport? (4.1)
 
@@ -77,6 +89,12 @@ The syllabus lists six factors. Work through the ones that matter in the scenari
 | Lower labour and insurance costs | Empty containers have to be returned, which costs money |
 | Easy transfer between road, rail and sea | Not suitable for every cargo, for example some bulk liquids |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--11-container-journey.webp" width="900" height="880" alt="Five stages from top to bottom show one container: loaded on a truck at the factory, carried by a large ship between hub ports, lifted by a crane at the hub port onto another ship (transshipment), carried by a smaller feeder ship to a smaller port, and lifted onto a train or truck. A gold line down the side says the same container is never unpacked." loading="lazy">
+  <figcaption>A container moves between truck, ship and train by crane, and is never unpacked on the way.</figcaption>
+</figure>
+
+
 ## Worked example 1: choosing a transport method
 
 A flower grower in Kenya sells fresh roses to a wholesaler in the Netherlands for a festival in five days.
@@ -89,6 +107,12 @@ A flower grower in Kenya sells fresh roses to a wholesaler in the Netherlands fo
 
 By contrast, a company sending 20,000 tonnes of iron ore from Australia to China would choose a bulk ship: the ore is heavy, cheap for its weight, not perishable and not urgent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--10-roses-transport-choice.webp" width="900" height="860" alt="A map pin for Kenya joined by an arrow labelled 5 days to a pin for the Netherlands. Three facts: perishable and fragile, urgent, high value for its weight. Four options follow: road and rail are crossed out as too long and international, sea is crossed out as it takes weeks, and refrigerated air freight is ticked and highlighted." loading="lazy">
+  <figcaption>Roses are perishable, urgent and valuable, so refrigerated air freight is the best choice.</figcaption>
+</figure>
+
+
 ## Why do businesses use warehouses? (4.2)
 
 A **warehouse** stores goods until they are needed. The syllabus names five functions:
@@ -100,6 +124,12 @@ A **warehouse** stores goods until they are needed. The syllabus names five func
 | Protecting supply | Stock is kept in reserve so that customers are still supplied if a delivery is delayed |
 | Price stability | Releasing stored goods steadily avoids sharp rises in price when supply is short and falls when supply is plentiful |
 | Logistics postponement | Final steps such as labelling, packing or simple assembly are delayed until orders are known, often at a warehouse near the customer, so stock matches demand |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--12-seasonal-stock.webp" width="900" height="880" alt="Two charts of stock over twelve months. In the first, stock starts high at harvest and falls in a straight line to zero by the end of the year. In the second, stock rises steadily for nine months then falls quickly during the three months of peak demand." loading="lazy">
+  <figcaption>Warehouses hold stock from harvest or from steady production until customers want it.</figcaption>
+</figure>
+
 
 ## Which types of warehouse are there? (4.2)
 
@@ -119,6 +149,12 @@ A supermarket chain with 40 stores in one region imports frozen fish and sells i
 - The frozen fish must stay frozen from the port to the shelf, so it needs **cold storage**.
 - Supplying 40 stores from one hub, rather than having every supplier deliver to every store, points to an **RDC** with a cold-storage section. Fewer, fuller journeys cut transport costs.
 - The spirits attract high customs duty, so holding them in a **bonded warehouse** lets the chain pay the duty only as the spirits are released to stores.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-logistics-in-commerce-study-guide--13-rdc-journeys.webp" width="900" height="880" alt="Two panels. In the first, four suppliers each have a line to each of 40 stores, 160 journeys. In the second, the four suppliers send full loads to one regional distribution centre, which sends mixed loads to the 40 stores, 44 journeys." loading="lazy">
+  <figcaption>Delivering through an RDC means fewer, fuller journeys than every supplier serving every store.</figcaption>
+</figure>
+
 
 ## What are the common mistakes in Topic 4?
 

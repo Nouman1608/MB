@@ -34,6 +34,12 @@ Studying a text for AQA GCSE English Literature is not only about knowing what h
 
 The skills in this topic sit behind the content of both papers. Paper 1 covers Shakespeare and the nineteenth-century novel, and Paper 2 covers modern prose or drama, the poetry anthology and unseen poetry. The specification expresses the skills as assessment objectives. In outline: you must read, understand and respond to texts, with a critical style, a personal response and well-chosen references (AO1); analyse the language, form and structure that writers use and the effects of their choices, using subject terminology (AO2); show an understanding of the ideas, perspectives and contexts of texts and their influence on meaning (AO3); and use a range of vocabulary and sentence structures with accurate spelling and punctuation (AO4). Not every question tests every objective, so read the wording of each question to see what it asks of you. Check the exact weightings in the specification or with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--01-ao-map.webp" width="900" height="793" alt="Four stacked cards list AO1 (respond with evidence), AO2 (analyse the writer’s choices), AO3 (use context) and AO4 (write accurately). A note says not every question tests every objective." loading="lazy">
+  <figcaption>The four assessment objectives are the four skills the marks reward.</figcaption>
+</figure>
+
+
 ## Reading comprehension and reading critically
 
 ### Understanding what the text says
@@ -49,6 +55,12 @@ A critical reading goes beyond summary. It offers an interpretation, a view abou
 
 The second states a view that can be tested against the text. Use tentative, flexible language where meanings can be read in more than one way: "may suggest", "could imply", "perhaps shows". Offering a second possible reading is often a mark of higher-level work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--02-summary-ladder.webp" width="900" height="674" alt="A three-step ladder rises from summary (what happens) to interpretation (what it suggests, testable against the text) to a second possible reading with tentative words such as may suggest." loading="lazy">
+  <figcaption>Move from retelling to a testable interpretation, then offer a second reading.</figcaption>
+</figure>
+
+
 ### Selecting and using references
 
 Evidence is the basis of critical reading. Choose short, precise quotations, often just a key word or phrase, and embed them in your own sentences. Then comment on them. A quotation is not an explanation. A reliable pattern is point, evidence, explanation: make a point, support it with a short reference, and then explain what it shows and why it matters. Refer to events and ideas from across the text, not just one moment.
@@ -60,6 +72,12 @@ Evidence is the basis of critical reading. Choose short, precise quotations, oft
 - **Structure**: how the text is organised, such as the order of events, changes of focus, shifts in time or tone, openings and endings, the use of contrasts, and the pattern of a poem's stanzas.
 
 Technical terms help only when they lead to an explanation. Naming a technique without discussing its effect earns little. Ask "so what?" after every term.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--03-three-lenses.webp" width="900" height="829" alt="Three rows list what to look at: language (word choice, imagery, sound, tone, sentence types), form (play, sonnet, novel conventions) and structure (order, shifts, openings and endings, contrasts, stanza pattern). All lead to explaining the effect on the reader." loading="lazy">
+  <figcaption>Look through three lenses, then always ask so what.</figcaption>
+</figure>
+
 
 ### Using context
 
@@ -74,6 +92,12 @@ When asked to compare, for example in the poetry questions, keep both texts in v
 ### Organising a response
 
 A strong essay has a clear line of argument. Start with an opening that answers the question directly in one or two sentences. Develop two or three main points, each in its own paragraph, with evidence and analysis. Finish with a short conclusion that returns to the question. Plan for a few minutes before writing: note the key words of the question, your main argument and the points and references you will use, in order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--04-essay-frame.webp" width="900" height="873" alt="A stack of boxes shows a short plan, an opening that answers the question, two or three points with evidence and analysis, and a conclusion that returns to the question. An arrow marks one line of argument." loading="lazy">
+  <figcaption>A strong essay has a plan, an opening, two or three points and a conclusion.</figcaption>
+</figure>
+
 
 ### Writing a paragraph
 
@@ -94,6 +118,17 @@ Write in a formal, analytical style. Use precise vocabulary and a range of sente
 
 Match your time to the marks available. If a question is worth about a third of the paper, give it about a third of the time. Leave a few minutes to plan and to check. If you run short, write a brief conclusion rather than leave an argument unfinished.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--05-paragraph-frame.webp" width="900" height="825" alt="Six numbered bars give the parts of a paragraph: topic sentence, short quotation, analysis, effect, an optional context link, and a closing sentence that links back to the argument." loading="lazy">
+  <figcaption>Build each paragraph from the same six parts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--07-time-budget.webp" width="900" height="701" alt="Two bars show 30 of 80 marks and 45 of 120 minutes as the same share, with the working 30 divided by 80 times 120 equals 45 minutes." loading="lazy">
+  <figcaption>Give a question the same share of time as of marks.</figcaption>
+</figure>
+
+
 ## Worked example: improving a paragraph
 
 Suppose a question asks how a writer presents loneliness in a short extract about a character walking home alone at dusk.
@@ -103,6 +138,12 @@ Suppose a question asks how a writer presents loneliness in a short extract abou
 **Improved version**: "The writer presents loneliness through the setting. The fading light at dusk suggests that the character is cut off from warmth and company, and the empty street emphasises that there is nobody to talk to. The short, flat sentence which describes his footsteps may reflect his isolation, since it has no variety or movement, much like his evening. This could encourage the reader to feel sympathy for him and to wonder what has left him so alone."
 
 Notice the differences. The improved paragraph begins with a clear point, picks out specific details, names the effect of sentence length, uses tentative language ("suggests", "may reflect", "could encourage"), and explains the effect on the reader. It also addresses language and structure, which would earn credit under AO2. The example is invented to show the method, so use it as a model for your own text and quotations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--06-weak-vs-improved.webp" width="900" height="861" alt="Two columns compare a weak paragraph about loneliness (states it, only describes, vague feeling) with an improved one (clear point, specific details, a named method, tentative words and an effect on the reader)." loading="lazy">
+  <figcaption>The improved paragraph names a method and explains its effect.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

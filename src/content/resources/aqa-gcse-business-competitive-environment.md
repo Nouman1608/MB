@@ -61,6 +61,12 @@ Markets differ in how competitive they are. A town centre with six coffee shops 
 island with one ferry operator has almost no competition. The more competitive a market, the more choice customers
 have, and the harder each business must work to win and keep them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--01-market-spectrum.webp" width="900" height="940" alt="Buyers and sellers exchange money for goods and services in a market. A competition bar runs from six coffee shops in a town centre (highly competitive, much choice) to one ferry operator on a remote island (almost no competition)." loading="lazy">
+  <figcaption>A market is where buyers and sellers meet; the more rivals, the more competitive it is.</figcaption>
+</figure>
+
+
 ## How does competition affect a business?
 
 In an "analyse" question you need a chain of reasoning: what the rival does, how the business responds, and what
@@ -90,6 +96,12 @@ The specification says you must be aware of how influences affect the four funct
 | Marketing | Change prices, run promotions, develop features rivals lack |
 | Finance | Lower profit margins; find money for new products or advertising |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--02-rival-response-chain.webp" width="900" height="1047" alt="Six left-to-right chains show a rival action, the business response and the possible effect on sales, costs or profit." loading="lazy">
+  <figcaption>In analyse questions, link what the rival does to the response and then to sales, costs or profit.</figcaption>
+</figure>
+
+
 ## When do businesses face little or no competition?
 
 A business may face minimal or no competition when:
@@ -102,6 +114,12 @@ A business may face minimal or no competition when:
 With little competition a business can usually charge higher prices and earn higher profits, and it may spend less
 on promotion. The drawbacks are that it has less pressure to keep costs down or to innovate, and high profits can
 **attract new competitors**, who may catch it unprepared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--03-little-competition.webp" width="900" height="950" alt="Four picture cards: one shop, a star for a unique product, railway track with a coin for high start-up cost, a small specialist market. Beneath, upside (higher prices and profits) and downside (less pressure to improve, new rivals attracted)." loading="lazy">
+  <figcaption>Little competition brings higher profit, but also less pressure to improve and the risk of new entrants.</figcaption>
+</figure>
+
 
 ## Why does every business face uncertainty and risk?
 
@@ -120,6 +138,12 @@ and environmental expectations.
 | Globalisation | Exchange rates change, or overseas rivals enter | Import costs rise or prices are undercut |
 | Suppliers | Late deliveries or rising prices | Production delayed; costs rise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--04-risk-sources.webp" width="900" height="742" alt="Seven labelled boxes point arrows at a central business: competitors, customers, economic climate, technology, legislation, globalisation, suppliers, each with a short example." loading="lazy">
+  <figcaption>Risk comes from many directions at once, which is why uncertainty never disappears.</figcaption>
+</figure>
+
+
 ## Why do entrepreneurs take the risk?
 
 An **entrepreneur** spots an opportunity, organises resources and takes the risk of starting a business. Section 3.1.1
@@ -134,6 +158,12 @@ lists the objectives of an entrepreneur, which explain why people start business
 
 Entrepreneurs judge that the possible rewards outweigh the risk. Higher potential reward usually comes with higher
 risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--05-risk-and-reward.webp" width="900" height="1060" alt="An entrepreneur above six reasons for starting a business, and a schematic graph with an upward arrow from low risk, low reward to high risk, high reward." loading="lazy">
+  <figcaption>Entrepreneurs judge that the possible rewards outweigh the risk; higher reward usually means higher risk.</figcaption>
+</figure>
+
 
 ## How can businesses minimise risk?
 
@@ -152,6 +182,12 @@ risk.
 No activity removes risk completely. A strong evaluation says which activity matters most for the business in the
 case study, and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--06-minimise-risk.webp" width="900" height="1106" alt="Nine numbered risk-reducing activities, each linked by an arrow to how it reduces risk, ending with the note that no activity removes risk completely." loading="lazy">
+  <figcaption>These activities reduce risk; a strong evaluation says which matters most for the case study.</figcaption>
+</figure>
+
+
 ## Worked example: responding to a new competitor
 
 Hartley's Bakery sells 600 loaves a week at £3.00, so weekly revenue is 600 x £3.00 = **£1,800**. A supermarket
@@ -163,6 +199,12 @@ opens nearby selling loaves at £1.50.
 On revenue alone, Option B loses slightly less. A good answer adds that Option B keeps the bakery's quality image and
 fewer loaves means lower ingredient costs, so profit may hold up better; but if sales keep falling, the bakery may
 need to compete on quality and service rather than price, because it cannot match the supermarket's costs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--07-bakery-rival-example.webp" width="900" height="1030" alt="Bar chart of weekly revenue: £1,800 now, £1,500 if the price is cut to £2.50 (down £300), £1,530 if the price stays £3.00 and sales fall 15% to 510 loaves (down £270)." loading="lazy">
+  <figcaption>Revenue = price × quantity: Option B loses £270 a week against £300 for Option A.</figcaption>
+</figure>
+
 
 ## How should you answer competition questions?
 

@@ -60,11 +60,33 @@ Condensed for the final weeks. For full explanations and worked examples, use th
 | Reports all errors together | compiler |
 | Stops at the first error | interpreter |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--08-soft-families.webp" width="900" height="710" alt="A yes or no question asks whether a program is still needed on a computer with no user. Yes leads to system software, such as the operating system, utility software and device drivers. No leads to application software such as writing a report, editing video, browsing and games." loading="lazy">
+  <figcaption>System software serves the computer; application software serves the user.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--10-soft-boot-stack.webp" width="900" height="830" alt="Four stacked layers from the bottom: hardware switched on, bootloader as firmware, operating system loaded by the bootloader, applications. Arrows labelled runs on point upward and steps one to four are numbered." loading="lazy">
+  <figcaption>Each layer runs on the layer below it, starting from the hardware.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--11-soft-interrupts.webp" width="900" height="1030" alt="Hardware interrupts such as a key press and software interrupts such as divide by zero enter a priority queue. The processor checks priority, saves the task state, runs the interrupt service routine, then restores the state and continues." loading="lazy">
+  <figcaption>An interrupt is queued by priority, the task is paused, the ISR runs, and the task continues.</figcaption>
+</figure>
+
+
 ## The nine OS functions
 
 Files · interrupts · interface · peripherals and drivers · memory · multitasking · platform for applications · system security · user accounts.
 
 Exam habit: for each function you name, add a short "for example…" tied to the device in the question. A function with no link to the scenario often earns only half the marks available.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--09-soft-os-functions.webp" width="900" height="976" alt="Nine numbered tiles, each with an icon, name and short example: manage files, handle interrupts, provide an interface, manage peripherals, manage memory, manage multitasking, platform for apps, system security and manage user accounts." loading="lazy">
+  <figcaption>The nine operating system functions with an everyday example of each.</figcaption>
+</figure>
+
 
 ## Interrupt handling in five steps
 
@@ -83,6 +105,12 @@ Exam habit: for each function you name, add a short "for example…" tied to the
 | Machine independent | Yes | No |
 | Direct hardware control | No | Yes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--13-soft-levels.webp" width="900" height="760" alt="Three boxes: a high-level language, assembly language and machine code. A compiler or interpreter arrow leads from high-level code to machine code and an assembler arrow leads from assembly to machine code." loading="lazy">
+  <figcaption>Translators turn high-level and assembly code into machine code.</figcaption>
+</figure>
+
+
 ## Compiler versus interpreter at a glance
 
 | | Compiler | Interpreter |
@@ -92,6 +120,12 @@ Exam habit: for each function you name, add a short "for example…" tied to the
 | Errors | Report for the whole code | Stops when an error is found |
 | Typical use | Final program for distribution | During development and testing |
 | Translator needed to run? | No (after compiling) | Yes, every time |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--12-soft-translators.webp" width="900" height="810" alt="The same five-line program with an error on line 3. The compiler treats all lines at once and reports the error for the whole code. The interpreter runs lines 1 and 2, stops at line 3 and never reaches lines 4 and 5." loading="lazy">
+  <figcaption>A compiler translates everything at once; an interpreter translates and runs line by line.</figcaption>
+</figure>
+
 
 ## IDE functions — name and role
 
@@ -104,6 +138,12 @@ Exam habit: for each function you name, add a short "for example…" tied to the
 | Auto-completion | Suggests the rest of a keyword or identifier |
 | Auto-correction | Fixes simple typing mistakes automatically |
 | Prettyprint | Colour-codes and indents code to make it readable |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-software--14-soft-ide.webp" width="900" height="980" alt="A mock IDE window has seven numbered tools: code editor, translator button, run-time environment, error diagnostics underlining a misspelt name, auto-correction suggestion, auto-completion list and prettyprint layout." loading="lazy">
+  <figcaption>An IDE puts the programming tools in one window.</figcaption>
+</figure>
+
 
 ## Model answers to rehearse
 

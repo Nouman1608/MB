@@ -52,6 +52,12 @@ featured: false
 
 The specification suggests a Point-Evidence-Explain structure for the explanation questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--16-oa-exam.webp" width="900" height="770" alt="A bar for Paper 2 shows 60 marks in 1 hour 45 minutes, half Section A and half Section B. Four bars for Section A questions are scaled to marks: Q1 3 marks shows knowledge of a given issue; Q2 6 marks explains one way an issue developed; Q3 9 marks explains two changes or reasons; Q4 12 marks explains a given factor and another then judges their importance. The marks add to 30. Point, Evidence, Explain is the suggested structure." loading="lazy">
+  <figcaption>Marks, tasks and the Point-Evidence-Explain structure for Section A.</figcaption>
+</figure>
+
+
 ## Life in Germany, 1919-1949
 
 **Weimar Germany, 1919-1933.** Defeat and the Treaty of Versailles left Germans bitter; the Republic faced violence from the **Spartacists** (crushed with the help of the **Freikorps**), the **Kapp Putsch** (1920) and the **Munich Putsch** (1923). Reparations, the **Ruhr** occupation and **hyperinflation** (1923) affected groups differently: savers, pensioners and the elderly were ruined, while some big businesses and landowners with debts gained. Under **Stresemann** the **Rentenmark**, the **Dawes** and **Young** Plans brought partial recovery; women gained the vote and new opportunities, Jewish Germans played a full part in cultural life, workers saw wages rise, but farmers struggled. The **Depression** fuelled extremism and the **SA**; Hitler appealed to workers, farmers, the unemployed, nationalists, industrialists, women and the young, and became Chancellor in 1933.
@@ -59,6 +65,22 @@ The specification suggests a Point-Evidence-Explain structure for the explanatio
 **Hitler's Germany, 1933-45.** Communists and socialists were eliminated; the **Enabling Act** and the banning of parties and unions created a dictatorship; **Himmler**, the **SS** and **Gestapo** ran a police state with **concentration camps**; **Goebbels** controlled propaganda and the media; churches and schools were brought under control. Resistance included the **White Rose**, **Swing Youth**, **Edelweiss Pirates** and the **July 1944 bomb plot**. Public works, **rearmament** and conscription cut unemployment; big business gained while farmers and the middle class had mixed experiences; women were urged towards motherhood; Jewish people faced escalating persecution ending in the **Final Solution**, and the **Roma and Sinti** were also persecuted and murdered. War brought bombing, rationing, propaganda, labour shortages and refugees, and the regime collapsed in 1945.
 
 **Post-war Germany, 1945-49.** Germans faced refugees, ruined cities, food shortages and the return of forced labourers; millions of **ethnic Germans were expelled** from eastern Europe. The Allies divided Germany into four zones, carried out **denazification** and the **Nuremberg Trials**, and the Soviet zone paid heavy **reparations**, including dismantled factories. The **Marshall Plan** aided the western zones; Berliners endured the **Berlin Blockade** (1948-49), supplied by the airlift; in 1949 the **Federal Republic** and the **GDR** were created.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--15-oa-options.webp" width="900" height="880" alt="Three bars, each divided into three parts at the same scale per year. Germany 1919 to 1949 is split into Weimar Germany to 1933, Hitler’s Germany 1933 to 1945 and post-war Germany 1945 to 1949. Russia and the USSR 1914 to 1953 is split into Tsardom to Communism to 1924, Stalin’s dictatorship 1924 to 1941 and the Great Patriotic War and late Stalinism 1941 to 1953. The USA 1920 to 1968 is split into the 1920s Boom, the Bust 1929 to 1945 and post-war America 1945 to 1968." loading="lazy">
+  <figcaption>The three Section A options and their three parts, with bar lengths in proportion to years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--18-oa-weimar-groups.webp" width="900" height="740" alt="Two panels. 1923 hyperinflation: savers, pensioners and the elderly were ruined; some big businesses and landowners with debts gained. Under Stresemann: farmers struggled, while women gained the vote and new chances, workers saw wages rise, and Jewish Germans played a full part in cultural life." loading="lazy">
+  <figcaption>The same events affected different groups in different ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--19-oa-germany-timeline.webp" width="900" height="1155" alt="A vertical timeline from 1919 to 1949, spaced by year, with three phases: Weimar Germany to 1933, Hitler’s Germany 1933 to 1945 and post-war Germany 1945 to 1949. Events: the Kapp Putsch in 1920; the Munich Putsch and hyperinflation in 1923; Hitler becomes Chancellor in 1933; the July 1944 bomb plot; the regime collapses in 1945; the Berlin Blockade and airlift in 1948 to 49; the Federal Republic and the GDR created in 1949." loading="lazy">
+  <figcaption>Dated events in Germany from 1919 to 1949 against the three parts of the option.</figcaption>
+</figure>
+
 
 ## Life in Russia and the USSR, 1914-1953
 
@@ -68,6 +90,12 @@ The specification suggests a Point-Evidence-Explain structure for the explanatio
 
 **The Great Patriotic War and late Stalinism, 1941-1953.** The war caused immense economic and social damage; Stalin's leadership is debated; women contributed in factories, farms and as soldiers -- the sniper **Lyudmila Pavlichenko** became a propaganda heroine. After 1945, industry was rebuilt faster than agriculture, which stagnated; living standards stayed low. **High Stalinism** brought renewed propaganda, terror and purges, with **Beria** and the NKVD, until **Stalin's death in 1953**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--20-oa-russia-timeline.webp" width="900" height="1260" alt="A vertical timeline from 1914 to 1953 with three phases: Tsardom to Communism 1914 to 1924, Stalin’s dictatorship 1924 to 1941, and the Great Patriotic War and late Stalinism 1941 to 1953. Events: war brings defeats and shortages from 1914; the Tsar abdicates in 1917; the Holodomor famine in Ukraine in 1932 to 33; the Great Patriotic War from 1941; Stalin dies in 1953." loading="lazy">
+  <figcaption>Dated events in Russia and the USSR against the three parts of the option.</figcaption>
+</figure>
+
+
 ## Life in the USA, 1920-1968
 
 **The Boom of the 1920s.** Mass production (Ford), advertising, hire purchase, Republican policies and a stock market boom created a consumer society, but wealth was unequal. Cinema and jazz flourished; women won the vote, and fashions changed, though traditional values continued; the **Sheppard-Towner Act** (1921) funded maternal and infant health. Society was divided by Prohibition and organised crime, immigration controls (the **1921 quota system** and the **National Origins Act of 1924**), **Jim Crow laws**, the **Ku Klux Klan** and the **Red Scare** (the **Palmer Raids**, **Sacco and Vanzetti**). The **NAACP** and Marcus Garvey's **UNIA** challenged prejudice.
@@ -75,6 +103,12 @@ The specification suggests a Point-Evidence-Explain structure for the explanatio
 **Bust, 1929-1945.** Unemployment hit workers, farmers and businessmen; **Hoover** became unpopular; **Roosevelt** won in 1932, ended the **1933 banking crisis** and used **fireside chats**. The New Deal helped farmers, the unemployed, homeowners, workers and the elderly, with limits for women, African Americans and Indigenous peoples, and faced opposition from the Supreme Court, Republicans and radicals. The **Second World War** -- **Lend-Lease** and war production -- ended the Depression, changed the lives of African Americans and women, and saw the **internment** of Japanese Americans.
 
 **Post-war America, 1945-68.** Consumerism and prosperity, the American Dream, **McCarthyism**, rock and roll and television; Kennedy's **New Frontier** and Johnson's **Great Society**; feminist movements and the **Equal Pay Act** (1963). Civil rights campaigns: **Brown v Board of Education** (1954), **Rosa Parks** and the **Montgomery Bus Boycott** (1955-56), the **Little Rock Nine** (1957), the Freedom Rides and marches, the **NAACP**, the **SCLC** and **Martin Luther King**; **Malcolm X** and **Black Power**; race riots; the role of the media and presidents; the **Civil Rights Acts of 1964 and 1968**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--21-oa-usa-timeline.webp" width="900" height="1114" alt="A vertical timeline from 1920 to 1968 with three phases: the Boom of the 1920s, the Bust 1929 to 1945 and post-war America 1945 to 1968. Events: the quota system and Sheppard-Towner Act in 1921; the National Origins Act in 1924; Roosevelt wins in 1932 and the banking crisis ends in 1933; Brown v Board of Education in 1954; the Montgomery Bus Boycott in 1955 to 56; the Little Rock Nine in 1957; the Equal Pay Act in 1963; Civil Rights Acts in 1964 and 1968." loading="lazy">
+  <figcaption>Dated events in the USA against the three parts of the option.</figcaption>
+</figure>
+
 
 ## Worked example: a question 4 plan
 
@@ -84,6 +118,12 @@ The specification suggests a Point-Evidence-Explain structure for the explanatio
 2. **Other factor:** the Five-Year Plans drew millions of peasants into city factories, changing their work and housing.
 3. **Other factor:** persecution of religion, through closed churches and arrested priests, transformed village life.
 4. **Judgement:** collectivisation was the main reason because it changed every peasant's land, food and work, and the other changes followed from it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-societies-in-change-study-guide--17-oa-q4-plan.webp" width="900" height="784" alt="A plan for the 12-mark question about collectivisation and Russian peasants. Three rows: the given factor, collectivisation, with ended private farming, kulaks deported, grain quotas and the Holodomor; another factor, the Five-Year Plans, which drew millions of peasants into city factories; and a third, persecution of religion, with closed churches and arrested priests. An arrow leads to the judgement that collectivisation was the main reason because it changed every peasant’s land, food and work and the others followed from it." loading="lazy">
+  <figcaption>The lesson’s question 4 plan: given factor, two others, then a judgement.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

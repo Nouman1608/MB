@@ -107,6 +107,22 @@ mobile solvent (higher Rf), so the specific choice of stationary and mobile
 phase determines which compounds separate well from each other in a given
 TLC system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--13-tlc-plate.webp" width="900" height="960" alt="A TLC plate stands in solvent. Three spots A, B and C lie 30, 55 and 80 mm above the baseline while the solvent front is 100 mm up, giving Rf 0.30, 0.55 and 0.80. Arrows mark the front distance and the distance moved by spot B, and the box shows Rf = 55 ÷ 100 = 0.55." loading="lazy">
+  <figcaption>Rf is the distance moved by the spot divided by the distance moved by the solvent front.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--14-tlc-forces.webp" width="900" height="910" alt="Two plates. A spot strongly held by the stationary phase has a long downward arrow and a short upward one, and stays near the baseline (low Rf). A spot very soluble in the mobile phase has the opposite and travels far (high Rf)." loading="lazy">
+  <figcaption>Rf reflects the balance between attraction to the stationary phase and solubility in the mobile phase.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--15-rf-ratio.webp" width="900" height="980" alt="Two plates run for different distances. The first has spot 24 mm and front 60 mm, the second spot 36 mm and front 90 mm. Both give Rf 0.40, so the same compound has the same Rf whatever the run length." loading="lazy">
+  <figcaption>Dividing by the front distance makes Rf independent of how far the plate is run.</figcaption>
+</figure>
+
+
 ## Gas/liquid chromatography (GLC)
 
 GLC separates a mixture of volatile compounds using a **stationary phase**
@@ -151,6 +167,27 @@ gas phase and moves on with the carrier gas.
 - A component that interacts **less strongly** with the stationary phase
   moves through the column with the carrier gas more freely, giving a
   **shorter** retention time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--16-glc-setup.webp" width="900" height="870" alt="A carrier gas cylinder pushes gas past an injection point into a coiled column. An enlarged circle shows solid support grains coated with a non-polar liquid with sample molecules moving in the gas between them. The gas passes a detector, which records a chromatogram; the time to reach the detector is the retention time." loading="lazy">
+  <figcaption>In GLC an unreactive carrier gas moves the vaporised sample through a column of liquid-coated solid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--17-glc-chromatogram.webp" width="900" height="890" alt="A chromatogram with peaks A, B and C. Peak areas of 12.0, 30.0 and 18.0 give a total of 60.0, so A is 20 percent, B 50 percent and C 30 percent, shown in a bar. Peak A is tall and narrow while C is low and broad, showing that composition comes from area, not height." loading="lazy">
+  <figcaption>Percentage composition comes from peak area ÷ total area × 100%.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--18-glc-retention.webp" width="900" height="940" alt="Two column tubes at the same moment. A compound that interacts weakly with the liquid stationary phase is mostly in the gas and has moved far; one that interacts strongly is mostly dissolved in the liquid and has moved little. In the chromatogram the weak interactor has the shorter retention time and the strong interactor the longer, with equal peak areas, so equal amounts." loading="lazy">
+  <figcaption>Stronger interaction with the stationary phase gives a longer retention time, which says nothing about quantity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-chromatography-tlc-and-glc--19-tlc-vs-glc-phases.webp" width="900" height="860" alt="Two panels. TLC: the stationary phase is a solid, for example Al2O3 on a plate; the mobile phase is a liquid solvent; Rf is measured. GLC: the stationary phase is a non-polar liquid on a solid support; the mobile phase is an unreactive carrier gas; retention time is measured." loading="lazy">
+  <figcaption>TLC: solid stationary, liquid mobile. GLC: liquid stationary, gas mobile.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

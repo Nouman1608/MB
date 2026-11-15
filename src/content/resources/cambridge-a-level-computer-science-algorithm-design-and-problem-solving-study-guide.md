@@ -52,9 +52,21 @@ Sorting with a bubble sort and searching with a linear search are in **10.2 Arra
 
 Benefits: the problem becomes simpler to understand and solve; the solution needs less time to design and program, and less memory; the model focuses on what the user actually needs; and a general solution can be reused for similar problems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--15-abstraction-model.webp" width="900" height="900" alt="A real rail network with stations, trains and clouds becomes an abstract model of stations and journey times; train colour is left out." loading="lazy">
+  <figcaption>Abstraction keeps only the details the problem needs.</figcaption>
+</figure>
+
+
 ## 9.1 What is decomposition?
 
 **Decomposition** means breaking a problem down into smaller sub-problems, each of which is easier to understand, solve and test. Repeating the process until each part is a single, well-defined task leads to the idea of a **program module**: each sub-problem can become a **procedure** or a **function**. Modules can be written and tested separately, shared between programmers and reused.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--16-decomposition-modules.webp" width="900" height="700" alt="A shop problem split into input loop, highest price update, expensive item count and output, each a module." loading="lazy">
+  <figcaption>Decomposing a problem leads to modules that can be written and tested separately.</figcaption>
+</figure>
+
 
 ## 9.2 What is an algorithm and an identifier table?
 
@@ -78,6 +90,12 @@ An **identifier table** lists the identifiers (names) used for the data in a pro
 | Iteration (repetition) | Repeating steps | `FOR ... TO ... NEXT`, `REPEAT ... UNTIL`, `WHILE ... ENDWHILE` |
 
 Key points from the Cambridge Pseudocode Guide: keywords are upper case; assignment uses `←`; variables are declared `DECLARE Total : INTEGER` and constants `CONSTANT MaxMark = 100`; a `WHILE` loop is written `WHILE <condition>` with no `DO`; values are read with `INPUT` and displayed with `OUTPUT`; strings are joined with `&`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--18-three-constructs.webp" width="900" height="920" alt="Three mini flowcharts with the Cambridge pseudocode keywords for each construct." loading="lazy">
+  <figcaption>The three constructs and their Cambridge pseudocode keywords.</figcaption>
+</figure>
+
 
 ## 9.2 How do you document an algorithm in structured English, a flowchart and pseudocode?
 
@@ -130,6 +148,12 @@ ENDIF
 
 The **rogue value** 999 ends input, and the check on Count prevents a division by zero. As a flowchart: START, a process box setting Total and Count to 0, an INPUT box for Temperature, a decision "Temperature <> 999?"; the Yes exit leads to a process box updating Total and Count, then an INPUT box, then back to the decision; the No exit leads to a decision "Count > 0?" with an OUTPUT box on each exit, then STOP.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--17-flowchart-temperature.webp" width="900" height="965" alt="Flowchart with START, initialise, input, a loop decision on 999, an update box, a Count &gt; 0 decision with two OUTPUT exits, and STOP." loading="lazy">
+  <figcaption>The flowchart for the worked example, using the standard symbols.</figcaption>
+</figure>
+
+
 ## 9.2 What is stepwise refinement?
 
 **Stepwise refinement** breaks each step of an algorithm into smaller, more detailed steps, repeatedly, until every step is detailed enough to be programmed directly.
@@ -157,6 +181,12 @@ OUTPUT "Highest mark: ", Highest
 
 Highest is set from the first mark, not from 0, so the algorithm still works if every value were negative.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--19-stepwise-refinement.webp" width="900" height="950" alt="A top-level step refined into three steps and seven lowest-level steps; 2.2 is highlighted." loading="lazy">
+  <figcaption>Each step is refined until it can be programmed directly.</figcaption>
+</figure>
+
+
 ## 9.2 How are logic statements used in an algorithm?
 
 A **logic statement** defines a condition precisely using AND, OR and NOT, for example: *a customer gets free delivery if the order total is at least 50.00, or if they are a member and the order total is at least 30.00*.
@@ -169,6 +199,12 @@ ENDIF
 
 Brackets make the order of evaluation explicit. Test boundary values: an order of exactly 30.00 from a member qualifies; 29.99 does not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--21-free-delivery-logic.webp" width="900" height="810" alt="Two bars show free delivery from 30.00 for members and from 50.00 for non-members; 29.99 is charged and 30.00 is free for a member." loading="lazy">
+  <figcaption>The free-delivery condition shown on order-total bars.</figcaption>
+</figure>
+
+
 ## Worked example 2: designing from a problem
 
 A shop wants an algorithm that reads prices, stopping when 0 is entered, and outputs the highest price and how many items cost more than 20.00.
@@ -177,6 +213,12 @@ A shop wants an algorithm that reads prices, stopping when 0 is entered, and out
 2. **Identifier table**: Price (REAL), Highest (REAL), ExpensiveCount (INTEGER).
 3. **Design** in structured English: input the first price and set Highest to it; while Price is not 0, update Highest if Price is larger, add 1 to ExpensiveCount if Price > 20.00, input the next price; output Highest and ExpensiveCount.
 4. **Test** with 12.50, 25.00, 20.00, 31.75, 0: Highest is 31.75 and ExpensiveCount is 2. 20.00 is not more than 20.00, so using >= would wrongly give 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide--20-shop-trace.webp" width="900" height="930" alt="Trace table for prices 12.50, 25.00, 20.00, 31.75, 0 showing Highest 31.75 and a count of 2, with &gt;= giving 3." loading="lazy">
+  <figcaption>The boundary price 20.00 shows why &gt; is used, not &gt;=.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

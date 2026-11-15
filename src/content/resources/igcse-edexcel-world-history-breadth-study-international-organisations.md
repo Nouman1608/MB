@@ -76,6 +76,17 @@ thousands of prisoners of war and created "Nansen passports" for stateless peopl
 attacked the international trade in opium; the International Labour Organization promoted better working
 conditions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--15-io-weak.webp" width="900" height="774" alt="A chart of 1919 to 1935 shows the USA never joining, Germany admitted 1926, Japan leaving 1933 and the USSR admitted 1934, plus a three-step ladder of collective security with military force dashed." loading="lazy">
+  <figcaption>Key members were missing or left, and there was no army of its own.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--16-io-twenties.webp" width="900" height="944" alt="Three disputes (Aaland Islands, Upper Silesia, Greek–Bulgarian War) and three agencies (Refugee Committee, Drugs Committee, ILO) with their outcomes." loading="lazy">
+  <figcaption>The League settled disputes and its agencies had lasting success.</figcaption>
+</figure>
+
+
 ## Why did the League fail in the 1930s?
 
 The **great powers** dominated the League, and Britain and France put their own interests first. When
@@ -85,6 +96,12 @@ excluded oil, and Britain did not close the Suez Canal; the secret **Hoare–Lav
 much of Abyssinia destroyed the League's credibility. The League could not curb Hitler's rearmament or
 expansion. Even so, the **Child Welfare Committee**, the slavery commissions — which pressed states to end
 slavery and forced labour — and health work continued.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--17-io-crises.webp" width="900" height="896" alt="Two columns of four steps each for Manchuria 1931 to 1933 and Abyssinia 1935 to 1936." loading="lazy">
+  <figcaption>Weak responses to Japan and Italy destroyed the League’s credibility.</figcaption>
+</figure>
+
 
 ## How was the UN different, and what did it do to 1964?
 
@@ -102,6 +119,12 @@ armistices, and UNRWA cared for Palestinian refugees. In **Korea** (1950–53) t
 USSR was boycotting it, authorised a UN force, led by the USA, which defended South Korea. In the **Congo**
 (1960–64) a large UN force tried to restore order and end Katanga's secession; Hammarskjöld died in a plane
 crash during the crisis in 1961.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--13-io-structure.webp" width="900" height="1024" alt="Two columns compare the League and the UN: assembly, inner council (four permanent members and unanimity versus five with a veto), secretariat, and force." loading="lazy">
+  <figcaption>Structure of the League and the UN compared.</figcaption>
+</figure>
+
 
 ## How was the UN challenged in 1967–89?
 
@@ -123,6 +146,12 @@ at **Srebrenica** (1995); in **Kosovo** (1999) NATO acted without Security Counc
 peace agreement, which led to South Sudan's independence in 2011. Obstacles included the veto, lack of troops
 and funds, and unclear mandates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--18-io-record.webp" width="900" height="736" alt="Twelve UN cases in four groups: aim achieved, partly achieved, could not stop it, bypassed." loading="lazy">
+  <figcaption>UN cases grouped by the outcomes the lesson describes.</figcaption>
+</figure>
+
+
 ## Frequently asked questions
 
 **Was the UN more successful than the League?**
@@ -141,3 +170,9 @@ Great-power involvement, which runs from 1919 to 2011.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B5 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-international-organisations--14-io-timeline.webp" width="900" height="1055" alt="A year-scaled vertical timeline with five periods and sixteen events from the Covenant to South Sudan." loading="lazy">
+  <figcaption>The five key topics placed on a scaled timeline.</figcaption>
+</figure>
+

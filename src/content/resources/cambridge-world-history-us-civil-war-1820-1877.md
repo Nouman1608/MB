@@ -80,6 +80,12 @@ The tariff quarrel had already produced the **Nullification Crisis of
 state. But it was settled by compromise, which is why most historians
 see tariffs as a secondary cause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--08-civilwar-north-south.webp" width="900" height="870" alt="Two panels compare North and South: industry, free labour and a wish for tariffs against cotton plantations, about four million enslaved people and opposition to tariffs. A bar chart shows the 1860 population as about 22 million in the Union states and about 9 million in the Confederate states, with about 4 million of the South’s population enslaved, which is over a third." loading="lazy">
+  <figcaption>The North and South by 1860: economy, labour, tariffs and population.</figcaption>
+</figure>
+
+
 ## How far did slavery cause the Civil War?
 
 Almost every crisis between 1820 and 1860 was about whether slavery
@@ -115,6 +121,12 @@ slavery. A balanced answer still explains how the breakdown of the old
 two-party system and the failure of compromise turned a long dispute
 into war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--09-civilwar-slavery-crises.webp" width="900" height="980" alt="A vertical timeline from 1820 to 1859 with years to scale. Gold circles mark slavery-related events: Missouri Compromise 1820, The Liberator 1831, Mexican War 1846 to 48, Compromise of 1850, Uncle Tom’s Cabin 1852, Kansas–Nebraska Act 1854, Dred Scott 1857, John Brown at Harpers Ferry 1859. A copper diamond marks the 1832 to 33 Nullification Crisis over tariffs, settled by compromise." loading="lazy">
+  <figcaption>Almost every crisis from 1820 to 1859 was about slavery in the western territories; the tariff dispute was settled by compromise.</figcaption>
+</figure>
+
+
 ## Why did Lincoln's election lead to secession?
 
 In November 1860 the Democrats split between Stephen Douglas (North)
@@ -131,6 +143,17 @@ with Jefferson Davis as president. When Confederate forces fired on
 **Fort Sumter on 12 April 1861** and Lincoln called for volunteers,
 four more states left, making eleven. The border slave states of
 Delaware, Maryland, Kentucky and Missouri stayed in the Union.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--10-civilwar-election-1860.webp" width="900" height="900" alt="Four candidates stood in 1860: Douglas and Breckinridge, whose Democratic Party split between North and South, Bell of the Constitutional Union Party, and Lincoln, the Republican winner. Lincoln took about 40 percent of the popular vote and a majority in the Electoral College but carried no Southern state. He promised not to touch slavery where it existed but opposed its spread." loading="lazy">
+  <figcaption>Lincoln won in 1860 with about 40% of the popular vote and no Southern state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--11-civilwar-secession.webp" width="900" height="894" alt="Rows of circles count the states that left the Union. One state, South Carolina, seceded on 20 December 1860. By February 1861 seven states had formed the Confederacy under Jefferson Davis. After Fort Sumter on 12 April 1861 four more left, making eleven. The border slave states Delaware, Maryland, Kentucky and Missouri stayed in the Union." loading="lazy">
+  <figcaption>South Carolina left first; eleven states had seceded by April 1861 while four border slave states stayed.</figcaption>
+</figure>
+
 
 ## Why was the North able to win the war?
 
@@ -161,6 +184,17 @@ Lincoln kept the border states loyal, chose generals who would fight
 the right moment, and won re-election in 1864. He was assassinated by
 John Wilkes Booth on 14 April 1865 and died the next day.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--12-civilwar-why-north-won.webp" width="900" height="783" alt="A balance scale tips towards the North. The North side lists a bigger population with factories, railways and food, the Union blockade, the 1863 turning points, Grant and Sherman, and about 180,000 Black soldiers. The South side lists only having to defend, skilled commanders Lee and Jackson, and the failed King Cotton hope of recognition by Britain and France. Lee surrendered on 9 April 1865." loading="lazy">
+  <figcaption>The North’s advantages outweighed the South’s real strengths.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--13-civilwar-turning-points.webp" width="900" height="836" alt="Six dated steps: Antietam and the announced Emancipation Proclamation in September 1862; the Proclamation in force on 1 January 1863; Gettysburg and Vicksburg in July 1863; Sherman capturing Atlanta in September 1864; Lee’s surrender at Appomattox on 9 April 1865; and Lincoln’s shooting on 14 April 1865 with his death the next day." loading="lazy">
+  <figcaption>Key dates from Antietam in 1862 to Lee’s surrender and Lincoln’s death in April 1865.</figcaption>
+</figure>
+
+
 ## Did the war change anything? Reconstruction, 1865–77
 
 | Change | Limits |
@@ -182,6 +216,12 @@ White "Redeemer" governments then took back control.
 revolutionary change, but Reconstruction failed to secure equal
 rights for African Americans, which is why most historians call it
 only a partial success.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-civil-war-1820-1877--14-civilwar-reconstruction.webp" width="900" height="886" alt="Five rows pair a Reconstruction change with its limit: the 13th Amendment against the Black Codes; the 14th Amendment against courts weakening it; the 15th Amendment against violence and literacy tests; the Freedmen’s Bureau against landlessness and sharecropping; Black officials such as Hiram Revels against Ku Klux Klan terror. A closing bar notes that the last federal troops left in 1877 and Redeemers returned." loading="lazy">
+  <figcaption>Each Reconstruction gain met a limit; the last federal troops left in 1877.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

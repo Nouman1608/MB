@@ -58,6 +58,17 @@ Condensed for the final weeks. For the full explanation and scenario tables, use
 
 Example — an automatic car-wash: a proximity sensor detects the car's position; the microprocessor compares it with the stored stopping position; when the car reaches it, the microprocessor signals the motors to start the brushes; the sensor keeps monitoring so the brushes follow the car.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--13-cs-sensor-microprocessor-actuator.webp" width="900" height="770" alt="A sensor measures a quantity and sends data to the microprocessor, converted from analogue to digital if needed. The microprocessor compares it with stored values and decides, then sends a signal to the actuator, which produces a physical action. The loop repeats continuously." loading="lazy">
+  <figcaption>The sensor, microprocessor and actuator work in a repeating loop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--14-cs-pool-temperature-control.webp" width="900" height="800" alt="An illustrative graph of pool temperature. Below 26 degrees C the heater is switched on; above 28 degrees C it is switched off; because monitoring repeats continuously the temperature stays near the 26 to 28 degree band. A strip shows when the heater is on." loading="lazy">
+  <figcaption>The microprocessor switches the heater to keep the water between 26 and 28 degrees.</figcaption>
+</figure>
+
+
 ## Answer frame: advantages and disadvantages
 
 Write **point + "so…" + context**. The second mark in Cambridge mark schemes usually goes for the expansion.
@@ -130,3 +141,19 @@ It applies the rules in the rule base to the facts in the knowledge base and the
 5. A photo app gets better at recognising faces as users tag more photos. Explain why this is machine learning.
 
 **Answers:** 1. The actuator. 2. Mechanical structure or framework; electrical components such as sensors, microprocessors and actuators; programmable. 3. Collection of data and the rules for using that data; the ability to reason; the ability to learn and adapt. 4. The rule base. 5. The program adapts its own data/processes automatically from the tagged photos, improving without being reprogrammed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--15-cs-robot-three-characteristics.webp" width="900" height="930" alt="A spray-painting robot arm has a mechanical structure, electrical components and is programmable, so it is a robot. Smart lighting is automated but has no moving mechanical structure, so it fails the first test and is not a robot." loading="lazy">
+  <figcaption>A machine is a robot only if it has all three characteristics.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--16-cs-expert-system.webp" width="900" height="930" alt="An expert system has an interface, an inference engine, a knowledge base of facts and a rule base of IF ... THEN rules. The interface asks the farmer questions; answers go to the inference engine, which applies the rules to the facts and returns the next question or the diagnosis." loading="lazy">
+  <figcaption>The inference engine applies the rule base to the knowledge base.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-automated-and-emerging-technologies--17-cs-machine-learning.webp" width="900" height="800" alt="An illustrative graph: a fixed rule always predicts 30 minutes, while a learning app adapts its own data as journeys are recorded; here its prediction moves to 35 minutes, the mean of ten illustrative journeys." loading="lazy">
+  <figcaption>A learning program changes its own data; a fixed rule does not.</figcaption>
+</figure>
+

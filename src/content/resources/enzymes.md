@@ -86,12 +86,24 @@ simply won't fit into the active site and no reaction occurs. This
 explains **enzyme specificity** directly from molecular shape, without
 needing any further mechanism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enzymes--06-enz-lock-key.webp" width="900" height="1000" alt="Four panels: a substrate approaches the active site; it forms the enzyme-substrate complex; the products are released and the enzyme is unchanged; a differently shaped molecule does not fit so there is no reaction." loading="lazy">
+  <figcaption>The active site is complementary to its substrate only, so the enzyme is specific.</figcaption>
+</figure>
+
+
 ## Following reaction progress
 
 An enzyme-catalysed reaction's progress can be tracked by measuring how
 the concentration of **reactants** decreases, or how the concentration of
 **products** increases, over time — this is the basis of most
 practical/experimental investigations of enzyme activity in this syllabus.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enzymes--10-enz-progress.webp" width="900" height="995" alt="A graph of concentration against time shows reactant falling and product rising. Three test tubes at the start, later and later still show 20 particles split 20:0, 9:11 and 3:17." loading="lazy">
+  <figcaption>Reaction progress is followed by measuring reactant used or product formed over time.</figcaption>
+</figure>
+
 
 ## Effects of temperature on enzyme activity
 
@@ -110,6 +122,22 @@ down — the active site's structure distorts, so it no longer fits its
 substrate. This is **denaturation**, and it is permanent: once denatured,
 an enzyme cannot return to normal function even if the temperature drops
 again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enzymes--07-enz-temperature.webp" width="900" height="1080" alt="A graph of enzyme activity against temperature rising to an optimum then falling steeply, with three panels: cold (slow molecules, few collisions), warm (fast molecules, more effective collisions), too hot (active site distorted, denatured)." loading="lazy">
+  <figcaption>Activity rises with kinetic energy up to the optimum, then falls as the enzyme denatures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enzymes--08-enz-ph.webp" width="900" height="1020" alt="A bell-shaped graph of activity against pH with an optimum. Below, three panels: at the optimum the active site keeps its shape; at pH too acidic or too alkaline the shape is distorted and the substrate fits poorly." loading="lazy">
+  <figcaption>Each enzyme has an optimum pH; moving away from it distorts the active site.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/enzymes--09-enz-denaturation.webp" width="900" height="990" alt="A working enzyme whose active site fits its substrate; heat or extreme pH then distorts the shape; the denatured enzyme no longer fits the substrate; cooling or correcting pH does not restore it." loading="lazy">
+  <figcaption>Denatured means the shape has changed permanently; it is not reversible.</figcaption>
+</figure>
+
 
 ## Effects of pH on enzyme activity
 

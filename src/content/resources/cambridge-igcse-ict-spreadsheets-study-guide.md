@@ -49,6 +49,12 @@ A cell is named by its column letter and row number, such as C4. A range is a bl
 
 A formula starts with an equals sign. It uses the operators + - * / and brackets, and follows the usual order of operations: brackets, then multiplication and division, then addition and subtraction. A formula such as =B2*C2 uses cell references, so it updates when B2 or C2 changes. Typing the answer as a number breaks the model.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--02-ss-formula-chain.webp" width="900" height="972" alt="A table of five shop items with unit price and quantity. A formula in each row multiplies price by quantity to give line totals of 10.00, 33.00, 36.00, 52.00 and 37.00. Below, =SUM(D2:D6) gives 168.00. The formula =IF(D7&gt;150,D7*0.1,0) gives a 10 per cent discount of 16.80 because 168.00 is greater than 150. Finally =D7-D8 gives 151.20." loading="lazy">
+  <figcaption>Line totals feed =SUM, then the IF discount, then the final amount: 168.00, 16.80, 151.20.</figcaption>
+</figure>
+
+
 ### Cell references
 
 - **Relative** (C4): changes when the formula is copied, so a formula copied down one row changes row numbers by one.
@@ -56,6 +62,12 @@ A formula starts with an equals sign. It uses the operators + - * / and brackets
 - **Mixed** (C$4 or $C4): one part fixed and the other relative.
 
 A formula that divides every row by a total needs the total locked, for example =D2/$D$7. Forgetting the dollar signs is the most common modelling error.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--01-ss-relative-absolute.webp" width="900" height="896" alt="A spreadsheet column D holds line totals 10.00, 33.00, 36.00, 52.00 and 37.00 in rows 2 to 6 and the total 168.00 in D7, which is marked as locked. Column E copies the formula =D2/$D$7 down. The first part (D2, D3, D4 and so on) is a relative reference and moves down one row each time. The second part, $D$7, is an absolute reference: a gold line carries every formula back to the same cell D7. The results shown are 6.0 per cent, 19.6 per cent, 21.4 per cent, 31.0 per cent and 22.0 per cent." loading="lazy">
+  <figcaption>A formula copied down changes relative references but an absolute reference stays on one cell.</figcaption>
+</figure>
+
 
 ### Functions
 
@@ -68,6 +80,12 @@ A function is a built-in routine. Know these:
 - ROUND, ROUNDUP, ROUNDDOWN, INT: control decimal places.
 - Text functions such as LEFT, RIGHT, MID and LEN, and CONCATENATE or the & symbol to join text.
 - Lookup functions: VLOOKUP searches the first column of a table for a value and returns an item from a column you choose, while HLOOKUP does the same across rows. Use exact match (FALSE) for codes. XLOOKUP is a newer equivalent in some software.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--03-ss-countif.webp" width="900" height="830" alt="A column chart of the five line totals: Pencil 10.00, Notebook 33.00, Ruler 36.00, Stapler 52.00 and Marker 37.00, with a dashed gold line at 35. The three bars above the line (Ruler, Stapler and Marker) are shaded and ticked. The formula =COUNTIF(D2:D6,&quot;&gt;35&quot;) therefore returns 3." loading="lazy">
+  <figcaption>COUNTIF counts only the line totals above 35, giving 3.</figcaption>
+</figure>
+
 
 ### Named ranges and other model features
 
@@ -83,12 +101,24 @@ A **named cell or range** gives a cell a meaningful name such as VATRate, which 
 - **Replacing and importing data**: you may import a text or CSV file and set the delimiter, or use find and replace.
 - **Templates** save a layout, formulas and formatting so they can be reused.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--04-ss-sort-whole-table.webp" width="900" height="1015" alt="A shop list of five items with line totals 10.00, 33.00, 36.00, 52.00 and 37.00. Selecting the whole table and sorting ascending by line total gives Pencil, Notebook, Ruler, Marker, Stapler, and every item keeps its own total. Sorting only the line total column moves the totals but not the items, so Stapler is shown with 37.00 and Marker with 52.00. Two rows are scrambled." loading="lazy">
+  <figcaption>Select the whole table before sorting or the rows no longer match.</figcaption>
+</figure>
+
+
 ## Present data
 
 - **Formatting cells**: number formats (integer, decimal places, percentage, currency, date and time), font, size, alignment, borders and shading, text wrap and merged cells.
 - **Page layout**: orientation, paper size, margins, headers and footers, and fitting a sheet to one page wide. Print gridlines or row and column headings only if asked.
 - **Charts**: choose the type to fit the data. A **bar or column chart** compares categories, a **line graph** shows change over time, a **pie chart** shows each part of a whole, and a **scatter graph** shows the relationship between two numeric variables. Every chart needs a title, labelled axes and a legend where more than one series is shown. Select only the cells needed, often with a non-adjacent selection for the category labels and values.
 - **Readability**: column widths wide enough to show every value (a row of hash symbols means the column is too narrow), consistent decimals and clear labels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--05-ss-chart-choice.webp" width="900" height="1120" alt="Four small charts. A column chart of the five shop line totals compares categories. A line graph of illustrative values rising over five time points shows change over time. A pie chart of the same line totals shows parts of a whole: Pencil 6 per cent, Notebook 20 per cent, Ruler 21 per cent, Stapler 31 per cent and Marker 22 per cent. A scatter graph of illustrative points shows the relationship between two numeric variables. Every chart needs a title and labelled axes, and a legend only when there are two or more series." loading="lazy">
+  <figcaption>Bar, line, pie and scatter charts answer different questions.</figcaption>
+</figure>
+
 
 ## Worked example
 

@@ -51,6 +51,22 @@ An **offer** is a clear statement of willingness to be bound by stated terms. It
 
 **Acceptance** must be unconditional, match the offer and be communicated to the offeror. Silence cannot be acceptance (Felthouse v Bindley, 1862). The postal rule is an exception: acceptance by post takes effect when posted (Adams v Lindsell, 1818) and instantaneous communication takes effect on receipt (Entores v Miles Far East, 1955).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--14-offer-itt.webp" width="900" height="830" alt="Two columns. Offer: can be accepted so a contract forms; a unilateral offer is accepted by doing the act, as in Carlill v Carbolic Smoke Ball 1893. Invitation to treat: only invites others to make offers; examples are a shop advert (Partridge 1968), a shop display (Boots 1953), an auction lot, and a statement of the lowest price asked, which is an answer to a question (Harvey v Facey 1893)." loading="lazy">
+  <figcaption>Only an offer can be accepted; the lesson’s examples of invitations to treat are shown.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--15-offer-fate.webp" width="900" height="650" alt="An offer made box with three arrows. Offer ends: withdrawal communicated, even if by a third party, and a counter-offer (Hyde v Wrench) both end it. Offer stays: a mere request for information does not end it. Contract: unconditional acceptance that is communicated forms a contract, but silence is not acceptance." loading="lazy">
+  <figcaption>Withdrawal and counter-offer end an offer; a request for information does not; acceptance forms the contract.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--16-post-rule.webp" width="900" height="810" alt="Two timelines. By post: the contract forms when the letter is posted (Adams v Lindsell 1818), before it arrives. Instant communication: the contract forms when the acceptance is received (Entores v Miles Far East 1955)." loading="lazy">
+  <figcaption>By post the contract forms on posting; by instant communication it forms on receipt.</figcaption>
+</figure>
+
+
 ### Consideration
 
 Each party must give something in return, which is **consideration**. It must be sufficient, which means it has some legal value, but need not be adequate (Chappell v Nestle, 1960). It cannot be past (Roscorla v Thomas, 1842). Doing something that one is already bound to do is not normally valid (Stilk v Myrick, 1809), but a practical benefit to the promisor may count (Williams v Roffey Bros, 1991). Part payment of a debt is not good consideration for a promise to forgive the rest (Foakes v Beer, 1884), although **promissory estoppel** may stop the creditor going back on a promise to accept less (Central London Property Trust v High Trees House, 1947). The doctrine of **privity** means only parties can sue on the contract (Tweddle v Atkinson, 1861), subject to the Contracts (Rights of Third Parties) Act 1999.
@@ -58,6 +74,12 @@ Each party must give something in return, which is **consideration**. It must be
 ### Intention and capacity
 
 In social and family arrangements it is presumed that no legal relations are intended (Balfour v Balfour, 1919), but the presumption may be rebutted (Merritt v Merritt, 1970). In commercial dealings the opposite presumption applies. As to capacity, a minor is bound by contracts for necessaries and beneficial contracts of service, but other contracts are generally not enforceable against them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--13-formation.webp" width="900" height="610" alt="A building. The roof says valid contract. Four pillars: agreement (offer and acceptance), consideration (something in return), intention to create legal relations (presumed not in social arrangements, presumed yes in business), and capacity (minors limited). The base is form, where required, for example writing for the sale of land." loading="lazy">
+  <figcaption>A valid contract needs agreement, consideration, intention and capacity, plus form where required.</figcaption>
+</figure>
+
 
 ## Contents of a contract
 
@@ -68,6 +90,12 @@ The **terms** are what the parties have promised. A **representation** is a pre-
 - **Conditions, warranties and innominate terms.** Breach of a condition allows the innocent party to end the contract and claim damages (Poussard v Spiers and Pond, 1876). Breach of a warranty gives only damages (Bettini v Gye, 1876). For an innominate term the remedy depends on how serious the effect of the breach is (Hong Kong Fir Shipping v Kawasaki Kisen Kaisha, 1962).
 - **Exclusion clauses** limit or remove liability. To be effective, a clause must be part of the contract (a signed document binds, L'Estrange v Graucob, 1934; notice must come in time, Olley v Marlborough Court Hotel, 1949), must on its true meaning cover the breach, and must pass statutory controls. The Unfair Contract Terms Act 1977 forbids excluding liability for death or personal injury caused by negligence and applies a reasonableness test to other terms; the Consumer Rights Act 2015 lets consumers avoid unfair terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--17-term-types.webp" width="900" height="820" alt="A lightning bolt for a breach of a term leads to a table. Condition: damages yes, end the contract yes. Warranty: damages yes, end the contract no. Innominate term: it depends how serious the effect of the breach is. A note says a pre-contract statement is more likely to be a term if it was important, made by an expert, or put in writing." loading="lazy">
+  <figcaption>Breach of a condition allows ending the contract and damages; of a warranty, damages only; innominate depends on seriousness.</figcaption>
+</figure>
+
+
 ## Discharge of a contract
 
 Discharge is the end of the parties' obligations.
@@ -76,6 +104,12 @@ Discharge is the end of the parties' obligations.
 - **Agreement.** The parties may release each other, provided there is fresh consideration or the release is made by deed.
 - **Breach.** A breach that is serious, such as breach of a condition or a repudiation, allows the innocent party to end the contract. Anticipatory breach occurs when one party announces in advance that they will not perform (Hochster v De la Tour, 1853), and the other may sue at once or wait for the time for performance.
 - **Frustration.** A contract is frustrated if an event, without the fault of either party, makes performance impossible, illegal or radically different. Cases include destruction of the subject matter (Taylor v Caldwell, 1863) and loss of the main purpose (Krell v Henry, 1903, where the coronation procession was cancelled, but contrast Herne Bay Steam Boat v Hutton, 1903). It will not apply where the event is self-induced (Maritime National Fish v Ocean Trawlers, 1935) or merely makes performance more expensive (Tsakiroglou v Noblee Thorl, 1962). Frustration ends the contract automatically, and the Law Reform (Frustrated Contracts) Act 1943 allows adjustment for money paid and benefits conferred.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--18-discharge.webp" width="900" height="700" alt="Four cards. Performance: exact and complete, though substantial performance can count. Agreement: a release needs fresh consideration or a deed. Breach: a serious breach, or refusing to perform in advance. Frustration: a no-fault event makes performance impossible, illegal or radically different; it fails if self-induced or if performance is merely costlier." loading="lazy">
+  <figcaption>Four ways a contract is discharged: performance, agreement, breach, frustration.</figcaption>
+</figure>
+
 
 ## Remedies for breach of a contract
 
@@ -95,6 +129,12 @@ Facts: Kessler Builders agrees in writing to buy 2,000 roof tiles from Orlov Sup
 4. Liquidated damages: the clause covers delay up to the point the contract ended, which is 10 days x 40 = 400 pounds. If it is a genuine pre-estimate of loss it is enforceable and not a penalty.
 5. Total possible claim: 700 + 400 = 1,100 pounds, provided Kessler does not recover twice for the same loss.
 6. Specific performance is not suitable because substitutes are easily bought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-contract-study-guide--19-damages-example.webp" width="900" height="800" alt="Bars drawn to one scale. Contract price is 2,000 tiles at 1.80 pounds, 3,600 pounds. Replacement cost is 2,000 at 2.15 pounds, 4,300 pounds, so the extra cost of cover is 700 pounds. Liquidated damages for lateness are 10 days at 40 pounds, 400 pounds. Total possible claim is 700 plus 400, 1,100 pounds, provided Kessler does not recover twice for the same loss." loading="lazy">
+  <figcaption>The lesson’s damages example drawn to scale: 700 pounds extra cost plus 400 pounds liquidated damages gives 1,100 pounds.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

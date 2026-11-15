@@ -51,6 +51,17 @@ In Cambridge IGCSE Environmental Management (0680) the topic has three sub-topic
 
 The **dependency ratio** compares those usually dependent on others (under 15 and over 64) with the working-age group (15 to 64): ratio = (young + old) divided by working-age x 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--08-p-density-average.webp" width="900" height="700" alt="A country of 14,000 square kilometres with 4.2 million people has a density of 300 people per square kilometre. A grid of sixteen equal cells with illustrative local densities from 20 to 1,100 still averages 300, showing that an average hides large differences." loading="lazy">
+  <figcaption>Density is an average, so people are not evenly spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--09-p-pyramids.webp" width="900" height="1060" alt="Three schematic population pyramids with males on the left and females on the right. Wide base and narrow top: many children, high birth rate, short life expectancy, typical of lower-income countries. Straighter sides and broad middle: lower birth and death rates. Narrow base and broad top: an ageing population with few young people." loading="lazy">
+  <figcaption>The shape of a pyramid tells you about birth rates, death rates and ageing.</figcaption>
+</figure>
+
+
 ## Population size
 
 Population size changes through births, deaths and migration.
@@ -67,9 +78,26 @@ Birth rates are higher where child mortality is high, where children contribute 
 
 The demographic transition model describes how birth and death rates change over time as a country develops. In stage 1 both are high and population is stable; in stage 2 death rates fall while birth rates stay high, so population grows fast; in stage 3 birth rates fall and growth slows; in stage 4 both are low and the total is stable or growing slowly. Some versions add a fifth stage in which births fall below deaths. The key explanatory point is that death rates fall first and birth rates follow later.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--13-p-demographic-transition.webp" width="900" height="880" alt="A schematic graph with five stages. In stage 1 birth and death rates are both high. In stage 2 the death rate falls while the birth rate stays high, so total population grows fast. In stage 3 the birth rate falls and growth slows. In stage 4 both are low. Some versions add stage 5 where births fall below deaths. Death rates fall first and birth rates follow later." loading="lazy">
+  <figcaption>Death rates fall first; birth rates follow later, so population surges in stage 2.</figcaption>
+</figure>
+
+
 ### Doubling time
 
 A quick estimate of how many years a population takes to double is 70 divided by the annual percentage growth rate. It assumes the rate stays constant, which real populations do not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--11-p-natural-change.webp" width="900" height="790" alt="A birth rate of 31 and a death rate of 11 per 1,000 are drawn as bars to the same scale; the gap is 20 per 1,000. Dividing by 10 gives 2.0 per cent a year, which on 4,200,000 people is 84,000 more next year, ignoring migration." loading="lazy">
+  <figcaption>Natural change = birth rate minus death rate; divide by 10 to get a percentage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--12-p-doubling-time.webp" width="900" height="800" alt="A growth curve starting at 4.2 million and growing 2.0 per cent a year. It reaches 8.4 million after about 35 years, matching the rule of 70: 70 divided by 2.0 is 35. The rule assumes the growth rate stays constant." loading="lazy">
+  <figcaption>At 2.0 per cent a year a population doubles in about 35 years.</figcaption>
+</figure>
+
 
 ## Managing population size
 
@@ -101,6 +129,12 @@ A town has 12,000 people aged 0 to 14, 54,000 aged 15 to 64 and 9,000 aged 65 an
 2. Dependency ratio = 21,000 / 54,000 x 100 = 38.9, to one decimal place.
 
 This means about 39 dependants for every 100 people of working age. If the old-age group rises to 15,000 while the rest stay unchanged, the ratio becomes 27,000 / 54,000 x 100 = 50.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-human-population-study-guide--10-p-dependency-ratio.webp" width="900" height="720" alt="Bars drawn to scale. A town has 12,000 aged 0 to 14, 54,000 aged 15 to 64 and 9,000 aged 65 and over, so the dependency ratio is 21,000 / 54,000 x 100 = 38.9, about 39 per 100 workers. If the over-64s rise to 15,000, the ratio is 27,000 / 54,000 x 100 = 50." loading="lazy">
+  <figcaption>Dependants per 100 workers rises from 38.9 to 50 as the over-64 group grows.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

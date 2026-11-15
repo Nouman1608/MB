@@ -54,6 +54,12 @@ short quotations in **both** sources, and link them with comparative connectives
 | Inference | A reasonable conclusion drawn from evidence |
 | Focus | The specific aspect the question asks you to summarise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--08-theme-summary-synthesis.webp" width="900" height="830" alt="Three rows show main theme (what a text is mainly about), summarising one text (key ideas, concisely, in your own words) and synthesising two texts (one connected point linking both)." loading="lazy">
+  <figcaption>Main theme, summary and synthesis compared.</figcaption>
+</figure>
+
+
 ## Where it is tested
 
 | Paper and question | Marks | Skill |
@@ -65,6 +71,12 @@ short quotations in **both** sources, and link them with comparative connectives
 Paper 2 sources: one 19th-century text and one 20th- or 21st-century text, non-fiction and literary non-fiction, on a
 linked theme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--07-where-assessed.webp" width="900" height="860" alt="Paper 1 has a 4-mark question on explicit or implicit information from one source. Paper 2 has a 4-mark question on which statements are true and an 8-mark question summarising differences or similarities between two sources. The 8 marks are 20% of the 40 reading marks on Paper 2. Each paper lasts 1 hour 45 minutes and is worth 80 marks." loading="lazy">
+  <figcaption>Where summary and synthesis are tested, and how many marks they carry.</figcaption>
+</figure>
+
+
 ## Method in steps: the 8-mark summary
 
 ```
@@ -75,11 +87,33 @@ linked theme.
 5. Check: both sources used in every paragraph? Inferences made? No language analysis?
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--09-inference-iceberg.webp" width="900" height="900" alt="An iceberg is cut by a waterline. Above it sits what is stated, &quot;the room was cold&quot;; below it, the larger inference &quot;the pupils' comfort did not matter to the school&quot;. Inferences should be supported by short quotations from both sources." loading="lazy">
+  <figcaption>An inference goes below the surface of what a text states.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--13-time-plan.webp" width="900" height="760" alt="Two bars show an 8-minute and a 10-minute plan. Each starts with one minute highlighting details in Source A and one in Source B, leaving 6 or 8 minutes for two or three synthesised paragraphs. Quality of inference matters more than length." loading="lazy">
+  <figcaption>A time plan for the 8-mark summary question.</figcaption>
+</figure>
+
+
 ## Connectives
 
 | Differences | Similarities |
 |---|---|
 | whereas, while, in contrast, however, on the other hand, unlike | similarly, likewise, both, in the same way, also |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--10-paragraph-chain.webp" width="900" height="790" alt="Six numbered steps: point of difference, evidence from Source A, inference, comparative connective, evidence from Source B, inference. Connectives for differences are whereas, while, in contrast, however and on the other hand; for similarities, similarly, likewise and both." loading="lazy">
+  <figcaption>The six-step chain of a synthesised summary paragraph, with connectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--11-worked-example.webp" width="900" height="980" alt="Source A, an invented 1880s diary, and Source B, an invented modern blog, are compared on experiences of work. Quotations such as &quot;up at five&quot; and &quot;I choose them&quot; each lead to an inference about control over the working day; &quot;may not sit until the family has dined&quot; suggests lower status; &quot;driving lessons&quot; suggests independence and a future. The paragraph links the sources with whereas and in contrast." loading="lazy">
+  <figcaption>Quotations lead to inferences, linked with connectives.</figcaption>
+</figure>
+
 
 ## Worked reminder: from retelling to inference
 
@@ -102,6 +136,12 @@ linked theme.
 | What work gives back | "what Cook leaves" | Survival only | "pays for my driving lessons" | Independence and a future |
 
 Two or three rows like this are enough for a strong answer. Each row becomes one synthesised paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-summary-and-synthesis--12-summarise-one-text.webp" width="900" height="870" alt="A text of four paragraphs has a key idea in each, shown as a thick line, and lighter lines for examples, repetition and minor details that are left out. Each key idea becomes a short idea in your own words, in logical order, under a one-sentence main theme." loading="lazy">
+  <figcaption>Pick one key idea per paragraph and put it in your own words.</figcaption>
+</figure>
+
 
 ## What examiners reward at the top level
 

@@ -76,6 +76,12 @@ Debate continued between **loose constructionists** (Hamilton, who used implied 
 national bank) and **strict constructionists** (Jefferson). Jefferson's election in 1800 — the "**Revolution
 of 1800**" — was the first peaceful transfer of power between parties, and he championed **states' rights**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--12-am-connecticut.webp" width="900" height="790" alt="Large states wanted seats by population and small states wanted equality. The House is based on population and the Senate has two members per state. Dots show illustrative seats for a large, medium and small state." loading="lazy">
+  <figcaption>The Connecticut Compromise created a House by population and a Senate with two members per state.</figcaption>
+</figure>
+
+
 ## How did the nation expand west, 1803–49?
 
 The **Louisiana Purchase** (1803) from France doubled the country's size. The **Transcontinental Treaty**
@@ -90,6 +96,12 @@ Oregon Trail. The idea of **Manifest Destiny** — that Americans were destined 
 continent — justified war with Mexico (1846–48), and the **California Gold Rush** (from 1848) brought a
 flood of migrants.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--13-am-expansion.webp" width="900" height="868" alt="Nine events in order from the Louisiana Purchase in 1803 to the California Gold Rush in 1848, coloured for land and settlers, slavery and Native Americans." loading="lazy">
+  <figcaption>Expansion west 1803 to 1849 in order, with the slavery and Native American strands marked.</figcaption>
+</figure>
+
+
 ## Why did the South secede in 1860–61?
 
 The North was industrialising and relied on free labour; the South's economy depended on cotton grown
@@ -102,6 +114,12 @@ of the anti-slavery-expansion Republican Party, won the 1860 election, **South C
 other Southern states, which formed the Confederacy. The war began when Confederates fired on **Fort
 Sumter** (April 1861).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--14-am-secession.webp" width="900" height="1101" alt="The North and South economies are contrasted, then a chain of events: Compromise of 1850, Kansas-Nebraska Act, Dred Scott, John Brown, Lincoln elected, secession and the Confederacy, and Fort Sumter in April 1861." loading="lazy">
+  <figcaption>A chain of events from 1850 led to secession and war in 1861.</figcaption>
+</figure>
+
+
 ## Why did the Union win the Civil War?
 
 The **Union** had far more people, industry and railways, and its **naval blockade** strangled Southern
@@ -112,6 +130,12 @@ slavery and discouraged European recognition of the Confederacy; the **Gettysbur
 as a struggle for a "new birth of freedom". **Sherman**'s **March through Georgia** (1864) destroyed railways,
 farms and morale. Lincoln's political leadership proved stronger than **Jefferson Davis**'s. Lee surrendered
 in April 1865, leaving the Southern economy in ruins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--15-am-union-win.webp" width="900" height="894" alt="A balance tips towards the Union (more people, industry, railways and a naval blockade) against the Confederacy (skilled generals such as Lee, home ground). Four turning points follow: Gettysburg and Vicksburg, Emancipation Proclamation, March through Georgia, Lee surrenders." loading="lazy">
+  <figcaption>The Union outweighed the Confederacy, with 1863 the turning point.</figcaption>
+</figure>
+
 
 ## How far did Reconstruction create "a more perfect union", 1865–77?
 
@@ -124,6 +148,12 @@ discrimination in public places but was poorly enforced. White Southern resistan
 Klan, steadily reversed gains. In the West, **Grant's Peace Policy** towards Native Americans failed; the
 defeat of **Custer** at the Little Bighorn (1876) was followed by the forced removal of the Sioux to
 reservations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--16-am-reconstruction.webp" width="900" height="1199" alt="A ladder of events: federal action on the left (13th, 14th and 15th Amendments, Freedmen’s Bureau, Civil Rights Acts, Reconstruction Act) and resistance on the right (Black Codes, poor enforcement, the Ku Klux Klan)." loading="lazy">
+  <figcaption>Federal gains in Reconstruction were met by resistance that reversed many of them.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -139,8 +169,20 @@ difference and expansion rather than treating them as separate causes.
 Legally it transformed the Constitution; in practice many gains were lost
 after 1877.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--17-am-slavery-thread.webp" width="900" height="1155" alt="A vertical axis to scale from 1787 to 1865 with seven events on the slavery question linked to labels, from the three-fifths clause to the 13th Amendment." loading="lazy">
+  <figcaption>Following one theme, slavery, across the whole period.</figcaption>
+</figure>
+
+
 ## Official syllabus
 
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B1 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--11-am-key-topics.webp" width="900" height="936" alt="Five bars to scale show the key topics 1783 to 1877. A bracket shows 25 years, the minimum span of the (c) essay, and five themes are listed." loading="lazy">
+  <figcaption>The five key topics on a scale timeline, with the 25-year minimum for the (c) essay.</figcaption>
+</figure>
+

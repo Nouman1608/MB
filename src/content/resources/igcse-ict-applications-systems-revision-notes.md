@@ -73,6 +73,12 @@ Personal finance · bridge and building design · flood water management · traf
 | Safer — dangerous scenarios tested | May not represent every real condition |
 | Faster — many "what if?" runs | Software and expertise can be expensive |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--08-what-if-model.webp" width="900" height="880" alt="An interest-rate slider feeds a model of formulas and rules. An illustrative chart shows 1,000 pounds growing to about 1,344 pounds at 3 percent and 1,629 pounds at 5 percent over 10 years." loading="lazy">
+  <figcaption>Changing an input in a model shows the result without a real-life test.</figcaption>
+</figure>
+
+
 ## 6.3 Computer control
 
 Robotics in manufacture · production line control · autonomous vehicles.
@@ -97,6 +103,12 @@ Travel · concerts · cinemas · sporting events.
 Process: search → choose seat/date → personal and payment details → e-ticket; database updated immediately.
 
 **+** any time, anywhere; choose seats; offers; instant confirmation. **−** needs internet; fraud/hacking risk; fees; less personal.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--12-booking-seats.webp" width="900" height="716" alt="Four steps lead from searching to an e-ticket. Seat B3 chosen by customer 1 is stored in the database at once, so customer 2 sees it as sold and cannot book it." loading="lazy">
+  <figcaption>The database updates at once so a seat is not sold twice.</figcaption>
+</figure>
+
 
 ## 6.6 Banking
 
@@ -124,11 +136,28 @@ Uses: mineral prospecting · car engine fault diagnosis · medical diagnosis · 
 | Inference engine | Applies rules to facts and answers |
 | Explanation system | Shows how the conclusion was reached |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--09-expert-system.webp" width="900" height="820" alt="A user talks to the interface, which passes answers to the inference engine. The engine applies the rules base to the knowledge base facts, and the explanation system shows the reasoning. Four numbered steps give the order." loading="lazy">
+  <figcaption>The five parts of an expert system and how a solution is produced.</figcaption>
+</figure>
+
+
 ## 6.9 Retail
 
 - **POS:** barcode read → price looked up → **stock updated** → at reorder level, **new stock ordered automatically**.
 - **EFTPOS:** card validity check → chip and PIN / contactless / NFC phone → shop computer contacts **bank computer** → funds checked → authorised.
 - **Internet shopping:** any time, compare prices, delivery; but cannot see goods, delivery cost/delay, payment security risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--10-pos-stock.webp" width="900" height="854" alt="A barcode scan looks up the price in the stock file. In an illustrative example stock falls from 12 to 11 to 10, reaching the reorder level of 10, and new stock is ordered automatically." loading="lazy">
+  <figcaption>A POS terminal updates stock and reorders at the reorder level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--11-eftpos-payment.webp" width="900" height="850" alt="Chip and PIN, contactless card and phone (NFC) payments reach the EFTPOS terminal, which checks the card. The shop computer asks the bank computer whether funds are available; the answer comes back authorised and the money is transferred." loading="lazy">
+  <figcaption>How an EFTPOS payment is checked and authorised.</figcaption>
+</figure>
+
 
 ## 6.10 Recognition systems
 
@@ -140,11 +169,23 @@ Uses: mineral prospecting · car engine fault diagnosis · medical diagnosis · 
 | **NFC** | Smartphone payment |
 | **Biometric** | Face, iris, retina, finger, thumb, hand, voice |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--13-recognition-systems.webp" width="900" height="978" alt="OMR reads filled marks in set positions, OCR turns an image of text into editable text, RFID reads a tag by radio without line of sight, NFC works over a very short range, and biometrics recognise a unique body feature." loading="lazy">
+  <figcaption>What OMR, OCR, RFID, NFC and biometrics each recognise.</figcaption>
+</figure>
+
+
 ## 6.11 Satellite systems
 
 **GPS** (position from several satellites) · **sat nav** (GPS + maps → directions) · **GIS** (layers of geographic data) · **satellite TV and phones** (reach remote areas).
 
 **+** works almost anywhere, accurate, saves time and fuel. **−** signal loss in tunnels/cities, outdated maps, costly equipment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-ict-applications-systems--14-satellite-gps-gis.webp" width="900" height="880" alt="Four satellites send signals to a receiver, which calculates its position. A GIS stacks layers of data such as population, rivers and roads into one map for planning." loading="lazy">
+  <figcaption>GPS finds a position; GIS combines layers of data.</figcaption>
+</figure>
+
 
 ## Worked example: a 4-mark "describe" answer
 

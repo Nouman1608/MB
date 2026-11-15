@@ -72,6 +72,17 @@ Competition pushes a business to work harder for its customers. Each impact can 
 | Marketing | Price changes, promotions, developing a feature rivals lack |
 | Finance | Lower profit margins; finding money for new products or advertising |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--01-market-spectrum.webp" width="900" height="940" alt="Buyers and sellers exchange money for goods and services in a market. A competition bar runs from six coffee shops in a town centre (highly competitive, much choice) to one ferry operator on a remote island (almost no competition)." loading="lazy">
+  <figcaption>A market is where buyers and sellers meet; the more rivals, the more competitive it is.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--02-rival-response-chain.webp" width="900" height="1047" alt="Six left-to-right chains show a rival action, the business response and the possible effect on sales, costs or profit." loading="lazy">
+  <figcaption>In analyse questions, link what the rival does to the response and then to sales, costs or profit.</figcaption>
+</figure>
+
+
 ## Little or no competition
 
 A business may face minimal or no competition when:
@@ -86,6 +97,12 @@ A business may face minimal or no competition when:
 | Charge higher prices and earn higher profit | Customers may resent it, and high profit can attract new rivals |
 | Feel less pressure to cut costs or innovate | It may be caught out when a rival does arrive |
 | Spend less on promotion | Customers may switch quickly once they have a choice |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--03-little-competition.webp" width="900" height="950" alt="Four picture cards: one shop, a star for a unique product, railway track with a coin for high start-up cost, a small specialist market. Beneath, upside (higher prices and profits) and downside (less pressure to improve, new rivals attracted)." loading="lazy">
+  <figcaption>Little competition brings higher profit, but also less pressure to improve and the risk of new entrants.</figcaption>
+</figure>
+
 
 ## Uncertainty and risk
 
@@ -106,6 +123,17 @@ Risks a business can face (link each to a change outside its control):
 
 Remember the link back to 3.1.1: businesses operate in a constantly changing environment (technology, the economic situation, legislation and environmental expectations), which is why uncertainty never goes away.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--04-risk-sources.webp" width="900" height="742" alt="Seven labelled boxes point arrows at a central business: competitors, customers, economic climate, technology, legislation, globalisation, suppliers, each with a short example." loading="lazy">
+  <figcaption>Risk comes from many directions at once, which is why uncertainty never disappears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--06-minimise-risk.webp" width="900" height="1106" alt="Nine numbered risk-reducing activities, each linked by an arrow to how it reduces risk, ending with the note that no activity removes risk completely." loading="lazy">
+  <figcaption>These activities reduce risk; a strong evaluation says which matters most for the case study.</figcaption>
+</figure>
+
+
 ## Why take the risk?
 
 Entrepreneurs start businesses even though many fail, because the possible rewards seem worth it. The objectives of an entrepreneur in 3.1.1 are the reasons:
@@ -118,6 +146,12 @@ Entrepreneurs start businesses even though many fail, because the possible rewar
 - dissatisfaction with their current job.
 
 The trade off: higher possible reward usually comes with higher risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--05-risk-and-reward.webp" width="900" height="1060" alt="An entrepreneur above six reasons for starting a business, and a schematic graph with an upward arrow from low risk, low reward to high risk, high reward." loading="lazy">
+  <figcaption>Entrepreneurs judge that the possible rewards outweigh the risk; higher reward usually means higher risk.</figcaption>
+</figure>
+
 
 ## Reducing risk
 
@@ -151,6 +185,12 @@ No activity removes risk completely; it only makes it smaller or easier to manag
 On revenue alone, Option A loses less. A full answer also weighs costs and whether better service could keep customers without a price cut.
 
 **Insurance as risk reduction.** A shop pays £1,200 a year to insure £30,000 of stock against fire and theft. The premium is 1,200 ÷ 30,000 × 100 = 4% of the stock value: a small, certain cost in exchange for protection from a large, uncertain loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-business-competitive-environment--07-bakery-rival-example.webp" width="900" height="1030" alt="Bar chart of weekly revenue: £1,800 now, £1,500 if the price is cut to £2.50 (down £300), £1,530 if the price stays £3.00 and sales fall 15% to 510 loaves (down £270)." loading="lazy">
+  <figcaption>Revenue = price × quantity: Option B loses £270 a week against £300 for Option A.</figcaption>
+</figure>
+
 
 ## Judgement phrases that work
 

@@ -41,6 +41,17 @@ Key measures:
 - **Latency**: the delay between sending and receipt. A link can have high bandwidth and high latency, such as a satellite connection.
 - **Protocol**: an agreed set of rules for communication, including format, speed, error checking and handshaking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--01-baud-bitrate.webp" width="900" height="870" alt="A staircase signal with four levels carries two bits per step, so six signals carry twelve bits. Bit rate equals baud rate times bits per signal: 1,200 baud with 2 bits is 2,400 bit/s and 2,400 baud with 4 bits is 9,600 bit/s." loading="lazy">
+  <figcaption>Baud rate counts signal changes, and bit rate multiplies it by the bits each change carries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--02-async-framing.webp" width="900" height="870" alt="A timing diagram shows one character framed by a start bit (0) and a stop bit (1) with eight data bits between, so ten bits are sent for eight of data. A crossed-out clock between sender and receiver shows there is no shared clock." loading="lazy">
+  <figcaption>Asynchronous transmission frames each character with a start and stop bit instead of using a shared clock.</figcaption>
+</figure>
+
+
 ## Network topologies and types
 
 In a **physical star** network every device connects to a central switch. It is easy to extend, a cable fault affects only one device, and traffic is limited to the relevant link, but the switch is a single point of failure and more cable is needed. In a **physical bus** network devices share one backbone cable, which is cheap and simple, but a break disrupts the whole network, collisions increase with traffic and performance falls as devices are added. A **logical bus** describes how data is passed between nodes regardless of cabling, as in a bus topology emulated over a star.
@@ -49,9 +60,21 @@ In a **physical star** network every device connects to a central switch. It is 
 
 **Client-server** networks use a central server to provide services, which gives central control, backup and security, but the server is a point of failure and costs more. **Peer-to-peer** (P2P) networks have equal devices sharing resources directly, which is cheap and resilient but harder to manage and secure. A **thin client** relies on a server for processing and storage; a **thick client** does most processing locally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--03-star-vs-bus.webp" width="900" height="1130" alt="A star network has each computer on its own cable to a switch, so one broken cable cuts off one device. A bus network shares one backbone, so a break disrupts the whole network." loading="lazy">
+  <figcaption>In a star a cable fault affects one device, whereas a break in a bus backbone disrupts the whole network.</figcaption>
+</figure>
+
+
 ## Wi-Fi
 
 A wireless network is set up through a **wireless access point**. Security measures include a changed **SSID** (network name), which can also be hidden, encryption with **WPA2** or newer, and MAC address filtering. Because radio is shared, devices use **CSMA/CA** (carrier-sense multiple access with collision avoidance): a node listens before transmitting and, if the channel is busy, waits. With **RTS/CTS**, a device sends a **request to send** and waits for a **clear to send** before transmitting, which reduces collisions caused by the **hidden node** problem, where two devices cannot hear each other but both reach the access point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--04-hidden-node.webp" width="900" height="990" alt="Computers A and B are each in range of the access point but not of each other. A sends request to send, the access point replies clear to send to both, A sends data and B waits." loading="lazy">
+  <figcaption>RTS/CTS lets the access point tell hidden nodes to wait, reducing collisions.</figcaption>
+</figure>
+
 
 ## The TCP/IP model
 
@@ -66,9 +89,21 @@ Communication is split into four **layers**, each with its own protocols and a d
 
 A **port number** identifies the application at the destination, and an IP address plus a port form a **socket**. Well-known ports include 80 (HTTP), 443 (HTTPS), 21 (FTP control), 22 (SSH), 25 (SMTP), 110 (POP3) and 143 (IMAP).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--05-tcpip-layers.webp" width="900" height="1124" alt="Four layers: Application, Transport, Network and Link, each with the example protocols the lesson lists. A device has an IP address and ports such as 80, 443, 22 and 25 pick the application; IP address plus port is a socket." loading="lazy">
+  <figcaption>Each layer has its own job and protocols; the IP address picks the device and the port picks the application.</figcaption>
+</figure>
+
+
 ## Packet switching and routing
 
 In **packet switching**, a message is split into packets, each containing a header with the source and destination addresses and a sequence number, plus the data and error-check information. Each packet may take a different route; **routers** read the destination and forward the packet using their routing tables, and the packets are reassembled in order at the destination. A packet also has a **hop count** (time to live) so that packets stuck in a loop are discarded. This makes efficient use of the network and allows rerouting around failure, but packets can arrive out of order or late. A **gateway** connects networks that use different protocols, and a router connects different networks together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--06-packet-switching.webp" width="900" height="1080" alt="A packet header holds addresses, a sequence number and a hop count, then data and an error check. Four packets take different routes through five routers and arrive as 1, 3, 4, 2, then are reassembled as 1, 2, 3, 4." loading="lazy">
+  <figcaption>Packets may take different routes and arrive out of order, so they carry numbers for reassembly.</figcaption>
+</figure>
+
 
 ## IP addressing
 
@@ -83,6 +118,12 @@ A /26 mask has 26 ones, so the mask is 255.255.255.192 (the last octet is 110000
 **(b)** How long does a 450 MB file take to send at 60 Mbit/s?
 
 450 MB = 450 x 8 = 3,600 Mbit. Time = 3,600 / 60 = **60 seconds**. If only 70 per cent of the rate is achieved in practice, the time is 3,600 / (60 x 0.7) = 85.7 seconds, so 86 seconds to the nearest second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide--07-subnet-26.webp" width="900" height="1090" alt="The last octet 77 is 01001101 and the /26 mask octet is 11000000. ANDing gives network 64 and setting host bits to 1 gives broadcast 127, leaving 62 usable hosts from .65 to .126. Address .130 is in a different subnet." loading="lazy">
+  <figcaption>Network address, broadcast address and usable hosts for 172.16.37.77/26.</figcaption>
+</figure>
+
 
 ## Network security
 

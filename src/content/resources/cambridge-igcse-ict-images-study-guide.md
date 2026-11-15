@@ -46,6 +46,12 @@ To place an image you insert it from a file (or from a source you have permissio
 - **Margins**: the picture must remain inside the page margins unless the task says otherwise.
 - **Caption or alt text**: a caption explains the picture, and alt text helps people who use screen readers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--07-img-wrap.webp" width="900" height="850" alt="Five page sketches show text wrapping: in line with text, square or tight, top and bottom, behind text and in front of text. The last two overlap the text and are rarely wanted unless the task asks." loading="lazy">
+  <figcaption>How text wraps around an image.</figcaption>
+</figure>
+
+
 ### Editing an image
 
 - **Resize**: change the width and height. Keep **Lock aspect ratio** switched on to keep the proportions, otherwise the picture is stretched or squashed (distorted).
@@ -72,6 +78,17 @@ If the aspect ratio were not locked and the height was set to 800 as well, the n
 
 Now suppose the task says to crop the original to a square. The tallest square is 2 400 by 2 400, so you remove 3 200 - 2 400 = 800 pixels from the width, for example 400 from each side, which keeps the subject centred.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--08-img-aspect.webp" width="900" height="740" alt="A 3200 by 2400 picture resized to 800 wide. With aspect ratio locked it becomes 800 by 600, the same shape. With it unlocked and height set to 800 it becomes 800 by 800 and looks stretched." loading="lazy">
+  <figcaption>Lock the aspect ratio when resizing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--09-img-crop-square.webp" width="900" height="880" alt="A 3200 by 2400 image with 400 pixels removed from each side leaves a 2400 by 2400 square, since 3200 minus 2400 is 800." loading="lazy">
+  <figcaption>Cropping to a square.</figcaption>
+</figure>
+
+
 ## File size reduction
 
 Large images slow down web pages and email. The size of an uncompressed image depends on its dimensions and colour depth:
@@ -94,6 +111,17 @@ Methods of reducing the size of an image:
 Always keep the original image safe and save the reduced version under a new name, so that you can return to the full-quality picture later. Use **Save as** and check the new file size afterwards.
 
 A trade-off must be mentioned in explanations: reducing size also reduces quality. A picture that is too small, or too heavily compressed, looks blurred or blocky when enlarged or printed. The right choice depends on the use: an image for a large printed poster needs high resolution, but a thumbnail on a web page does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--10-img-file-size.webp" width="900" height="790" alt="A 3200 by 2400 image at 24 bits per pixel is 23 040 000 bytes. At 800 by 600 it is 1 440 000 bytes. It has one sixteenth of the pixels so the file is 16 times smaller." loading="lazy">
+  <figcaption>Why a smaller image is a smaller file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-images-study-guide--11-img-reduce-methods.webp" width="900" height="870" alt="Tiles for resizing, cropping, lowering resolution, reducing colour depth and compression (JPEG lossy, PNG and GIF lossless), plus a tile noting that smaller files mean lower quality." loading="lazy">
+  <figcaption>Ways to reduce image file size.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

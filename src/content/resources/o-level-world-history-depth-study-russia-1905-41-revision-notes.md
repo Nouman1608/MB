@@ -105,11 +105,48 @@ featured: false
 
 **NEP:** a success in recovery (grain, small trade) but a political retreat; Kronstadt showed why Lenin had to change course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--01-ru-collapse.webp" width="900" height="1094" alt="The Tsarist regime as a roof on three pillars of long-term weakness, then three war pressures, then soldiers refusing to shoot in March 1917 and the Tsar abdicating." loading="lazy">
+  <figcaption>One picture of why the regime collapsed: weak foundations, then war.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--02-ru-timeline.webp" width="900" height="1089" alt="Vertical timeline from the March 1917 abdication through the Kornilov affair, the 6-7 November seizure, the closing of the Constituent Assembly, Brest-Litovsk, the Civil War and 1921 crisis to the NEP." loading="lazy">
+  <figcaption>Key events from March 1917 to the NEP in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--03-ru-reds-whites.webp" width="900" height="1035" alt="A schematic with the Reds in a central circle joined by railways to five scattered White armies around the edges, with the strengths of each side listed below. It is not to scale and not a map." loading="lazy">
+  <figcaption>Why the Reds held the centre and the Whites were scattered.</figcaption>
+</figure>
+
+
 ## Key question 3: Stalin
 
 **Stalin's advantages over Trotsky:** General Secretary (appointments); Lenin's funeral; Testament suppressed; alliances (with Zinoviev and Kamenev, then Bukharin); "Socialism in One Country" more popular than "Permanent Revolution".
 
 **Control methods:** Purges and show trials; NKVD and Gulag; cult of personality; censorship and rewritten history; socialist realism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--04-ru-stalin-trotsky.webp" width="900" height="1070" alt="A balance scale tips towards Stalin (four advantages) against Trotsky (three problems), with a strip of dates: January 1924 funeral, 1927 expulsion, 1929 exile." loading="lazy">
+  <figcaption>Stalin’s four advantages outweighed Trotsky’s three problems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--05-ru-purges.webp" width="900" height="1063" alt="A four-step chain from Kirov’s murder in 1934 to arrests, show trials and millions sent to the Gulag or shot, with three suggested reasons and the army’s weakness in 1941." loading="lazy">
+  <figcaption>The sequence of the Purges and why they happened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--06-ru-control.webp" width="900" height="900" alt="Stalin in a central circle with arrows to five methods of control: terror, censorship, a cult of personality, rewritten history and socialist realism." loading="lazy">
+  <figcaption>Five methods Stalin used to keep control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-russia-1905-41--07-ru-five-year.webp" width="900" height="811" alt="A flow from Stalin’s 1931 warning to the Five-Year Plans and collectivisation, with the gains of heavy industry and the costs including the 1932-33 famine." loading="lazy">
+  <figcaption>Aims, gains and costs of Stalin’s economic policies.</figcaption>
+</figure>
+
 
 ## Key question 4: Five-Year Plans and collectivisation
 

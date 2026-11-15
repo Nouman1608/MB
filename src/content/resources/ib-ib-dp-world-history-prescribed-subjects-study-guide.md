@@ -45,6 +45,12 @@ The prescribed subjects are military leaders, conquest and its impact, the move 
 
 Paper 1 has four numbered questions. Question 1 has two parts worth 3 and 2 marks, and Questions 2, 3 and 4 are worth 4, 6 and 9 marks, so the paper totals 3 + 2 + 4 + 6 + 9 = 24 marks in one hour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--01-p1-marks-minutes.webp" width="900" height="630" alt="Two aligned bars show Paper 1 marks (1a 3, 1b 2, Q2 4, Q3 6, Q4 9, total 24) above minutes (Q1 12.5, Q2 10, Q3 15, Q4 22.5, total 60). Dashed lines show each segment lines up because the rate is 2.5 minutes per mark." loading="lazy">
+  <figcaption>Paper 1 gives 2.5 minutes for every mark, so the minutes bar matches the marks bar.</figcaption>
+</figure>
+
+
 ## The five prescribed subjects
 
 **1. Military leaders.** Themes include how leaders rose to command, their methods and tactics, the nature of their leadership and the impact of their campaigns. Look for factors such as organisation, logistics, propaganda, loyalty and the role of luck or opponents' weakness. Expect to evaluate whether success rested on the leader personally or on wider conditions.
@@ -57,6 +63,12 @@ Paper 1 has four numbered questions. Question 1 has two parts worth 3 and 2 mark
 
 **5. Conflict and intervention.** Themes include the causes of conflict, the nature of intervention by outside powers or organisations, and the outcomes. Consider the motives of intervening parties, the effect on the people involved and the extent to which intervention ended or prolonged conflict.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--02-p1-five-subjects.webp" width="900" height="1124" alt="Five cards list the prescribed subjects with their two case studies each, joined by plus signs. A row of five dots with one filled shows that a student studies only one subject." loading="lazy">
+  <figcaption>There are five prescribed subjects, each with two case studies, and you study one.</figcaption>
+</figure>
+
+
 ## The four question types
 
 **Question 1 (comprehension, 3 + 2 marks).** Part (a) asks what a source says about a stated issue (three points). Part (b) asks for the message of a second source, often a cartoon or photograph (two points). Give the main points in your own words, using the source rather than your own knowledge. Do not evaluate; simply show you understand.
@@ -66,6 +78,17 @@ Paper 1 has four numbered questions. Question 1 has two parts worth 3 and 2 mark
 **Question 3 (compare and contrast, 6 marks).** Set the two sources side by side. Identify points of similarity and difference with specific references to both sources throughout. A source-by-source description earns little; a point-by-point comparison earns more.
 
 **Question 4 (synthesis, 9 marks).** Using the sources (normally four, A to D) together with your own knowledge, answer the question in a short, argued response; the top markband expects effective use of the sources and accurate own knowledge. Integrate the sources into the argument, evaluate them where it helps and reach a conclusion. The question will be based on a claim or theme, not on a single source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--03-p1-question-inputs.webp" width="900" height="794" alt="Four rows show Question 1 to 4 with marks, the task, how many sources are used and whether own knowledge is allowed. Only Question 4 allows own knowledge; Question 4 uses four sources, A to D." loading="lazy">
+  <figcaption>Questions 1 to 3 use the sources only; Question 4 uses the sources and own knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--04-p1-q3-compare.webp" width="900" height="770" alt="Two panels contrast comparing Source A then Source B separately, with no links, against comparing them point by point with two-way arrows. The second approach earns more." loading="lazy">
+  <figcaption>Compare point by point, referring to both sources in every point.</figcaption>
+</figure>
+
 
 ## Worked example: handling Question 2
 
@@ -79,6 +102,12 @@ Take an invented source for practice. It is a 1936 government newspaper editoria
 A full answer combines these in a short, connected paragraph that explicitly links origin and purpose to value and limitations for the stated topic. Timing: with 24 marks in 60 minutes you have 2.5 minutes per mark, so a 4 mark question deserves about 4 x 2.5 = 10 minutes.
 
 **Timing across the paper.** Using the same rate, Question 1 (5 marks) is about 12.5 minutes, Question 2 (4 marks) 10, Question 3 (6 marks) 15, Question 4 (9 marks) 22 or 23. These total 12.5 + 10 + 15 + 22.5 = 60 minutes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--05-p1-q2-worked.webp" width="900" height="751" alt="A practice source, a 1936 government newspaper editorial, leads to origin and purpose boxes. Origin and purpose lead to value (shows how the government wanted the law understood) and limitations (propaganda, unlikely to show costs or opposition). A banner gives 4 marks times 2.5 minutes as 10 minutes." loading="lazy">
+  <figcaption>Origin and purpose lead to value and limitations, each linked to the topic.</figcaption>
+</figure>
+
 
 ## Revising the case studies
 

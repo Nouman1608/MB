@@ -55,6 +55,22 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 
 **Collapse.** Gorbachev became leader in 1985 and introduced glasnost and perestroika. He signalled that the USSR would not use force to prop up allies. In 1989, reform in Poland and Hungary, the opening of the border and the fall of the Berlin Wall on 9 November 1989 led to revolutions across the region. The USSR itself dissolved in December 1991. Weigh internal weakness, economic stagnation, nationalism, the role of Gorbachev and Western pressure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--14-soviet-control.webp" width="900" height="602" alt="A hub diagram. Soviet influence sits in the centre and four spokes reach out to the tools of control: communist parties, security services, economic links through Comecon, and the military alliance of the Warsaw Pact formed in 1955." loading="lazy">
+  <figcaption>The four tools the USSR used to keep Eastern Europe in line.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--15-soviet-challenges.webp" width="900" height="760" alt="A timeline from 1953 to 1981. Squares mark challenges met by force or martial law: June 1953 East German protests put down with Soviet tanks; the Hungarian Uprising of October-November 1956 crushed by Soviet forces; the Prague Spring ended by the Warsaw Pact invasion in August 1968; martial law in Poland in December 1981. Circles mark other events: Khrushchev’s secret speech in February 1956, the Berlin Wall in August 1961, the Helsinki Accords in 1975 and the founding of Solidarity in 1980." loading="lazy">
+  <figcaption>Four of the eight challenges were ended by force or martial law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--16-soviet-collapse.webp" width="900" height="842" alt="A downward chain: in 1985 Gorbachev introduces glasnost and perestroika; he signals the USSR will not use force to prop up allies; in 1989 reform in Poland and Hungary and the opening of the border; the Berlin Wall falls on 9 November 1989; revolutions spread across the region; the USSR dissolves in December 1991. Below, five causes to weigh: internal weakness, economic stagnation, nationalism, Gorbachev and Western pressure." loading="lazy">
+  <figcaption>From Gorbachev in 1985 to the dissolution of the USSR in December 1991.</figcaption>
+</figure>
+
+
 ## The end of minority rule in South Africa and Zimbabwe, 1948-94
 
 **South Africa.** The National Party won the 1948 election and introduced apartheid through laws such as the Population Registration Act and the Group Areas Act (both 1950). Resistance included the Defiance Campaign and the Freedom Charter of 1955. At Sharpeville in March 1960 police killed protesters, after which the ANC and PAC were banned. Mandela and others were sentenced to life imprisonment at the Rivonia trial in 1964. The Soweto uprising began in June 1976, and Steve Biko died in police custody in 1977. In the 1980s there were township revolts, states of emergency and growing international sanctions. President de Klerk unbanned the ANC and freed Mandela on 11 February 1990. Negotiations led to the first non-racial election in April 1994, in which Mandela became president.
@@ -63,6 +79,17 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 
 **Themes.** Compare internal resistance, armed struggle, economic pressure and international isolation, and the role of changes in neighbouring states.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--17-sa-timeline.webp" width="900" height="876" alt="A timeline of South Africa from 1948 to 1994. State action: the National Party wins in 1948 and begins apartheid; the Population Registration and Group Areas Acts of 1950; the Sharpeville killings in March 1960 after which the ANC and PAC are banned; the Rivonia trial of 1964 where Mandela is given life imprisonment; Steve Biko dies in custody in 1977. Resistance: the Freedom Charter of 1955, the Soweto uprising from June 1976, and township revolts, states of emergency and sanctions in the 1980s. Turning points: de Klerk frees Mandela and unbans the ANC on 11 February 1990, and the first non-racial election in April 1994 makes Mandela president." loading="lazy">
+  <figcaption>State action, resistance and turning points in South Africa, 1948-94.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--18-zimbabwe-route.webp" width="900" height="706" alt="A downward chain. November 1965: Ian Smith’s government makes a Unilateral Declaration of Independence to keep white minority rule. Britain and the UN impose sanctions, but two arrows labelled via South Africa and via Mozambique show how sanctions leaked. Then the 1970s guerrilla war fought by ZANU and ZAPU, the Lancaster House talks in December 1979, elections in 1980 that bring Robert Mugabe to power, and Zimbabwe’s independence in April 1980." loading="lazy">
+  <figcaption>From the 1965 UDI to independence in 1980, with sanctions leaking.</figcaption>
+</figure>
+
+
 ## The route to independence in Malaysia and Indonesia, c.1909-67
 
 **Malaya.** The 1909 treaty between Britain and Siam transferred control of several northern Malay states to British influence. Colonial rule rested on the Straits Settlements, the Federated and Unfederated Malay States and an economy based on tin and rubber, with Malay, Chinese and Indian communities. Japan occupied Malaya from 1942 to 1945, which weakened colonial prestige. After the war Britain's plan for a Malayan Union met Malay opposition and gave way to the Federation of Malaya in 1948. The Malayan Emergency (1948-60) was a counter-insurgency against the Malayan Communist Party. Independence (Merdeka) came on 31 August 1957 under Tunku Abdul Rahman. In September 1963 Malaysia was formed with Sabah, Sarawak and Singapore; Singapore left in August 1965.
@@ -70,6 +97,12 @@ It is examined on **Paper 4: Depth study** (1 hour 45 minutes, 60 marks, 30% of 
 **Indonesia.** The Dutch East Indies developed an increasingly organised nationalist movement. Japan occupied the islands from 1942, and on 17 August 1945 Sukarno and Hatta proclaimed independence. A war and negotiations with the Dutch followed, with the Netherlands recognising independence in December 1949. Sukarno introduced Guided Democracy from 1959. Konfrontasi, the confrontation with Malaysia, ran from 1963 to 1966. After the events of 30 September 1965, power moved to General Suharto, who formally took over the presidency in 1967.
 
 **Themes.** Compare peaceful negotiation with armed struggle, the role of the Second World War and the effect of ethnic and regional divisions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--19-malaya-indonesia.webp" width="900" height="676" alt="Two columns, Malaya and Indonesia, read downwards in time. Before the war: in 1909 a treaty put northern Malay states under British influence, while the Dutch East Indies saw an organised nationalist movement. A band across both: Japan occupies from 1942, Malaya until 1945. Independence: Malaya forms the Federation of Malaya in 1948 and reaches Merdeka on 31 August 1957; Indonesia proclaims independence on 17 August 1945 and the Dutch recognise it in December 1949. Afterwards: Malaysia is formed in 1963 and Singapore leaves in 1965; Indonesia has Konfrontasi in 1963-66 and Suharto becomes president in 1967." loading="lazy">
+  <figcaption>Malaya and Indonesia read side by side from 1909 to 1967.</figcaption>
+</figure>
+
 
 ## Worked example: a duration check
 
@@ -81,6 +114,12 @@ How long did the Malayan Emergency last, and how does it compare with the period
 The Emergency lasted nearly three times as long as the fight with the Dutch (12 / 4.33 is about 2.8). The point to make is not the number alone but its meaning: Britain's counter-insurgency was long, while it conceded independence in 1957 even as the fighting continued.
 
 For an essay plan on "Why did the Soviet empire in Eastern Europe collapse in 1989?", use separate paragraphs for economic weakness, Gorbachev's reforms and the end of the Brezhnev Doctrine, popular opposition, and external pressure, then rank them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-international-history-study-guide--20-duration-check.webp" width="900" height="716" alt="Two horizontal bars on a years axis. The Malayan Emergency, 1948 to 1960, is 12 years long, with a marker at Merdeka in 1957, nine years in, showing independence came while fighting continued. Indonesia’s struggle with the Dutch, from the proclamation on 17 August 1945 to recognition in December 1949, is about 4 years 4 months, 52 months. The Emergency lasted about 2.8 times as long (12 divided by 4.33)." loading="lazy">
+  <figcaption>The Malayan Emergency lasted about 2.8 times as long as the Indonesian struggle against the Dutch.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

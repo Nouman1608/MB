@@ -54,6 +54,17 @@ A diagnosis is **reliable** if different clinicians reach the same conclusion (i
 
 Culture affects how symptoms are expressed and understood. Some conditions are described as **culture-bound**, found in or best understood within specific societies, and a clinician from a different culture may misdiagnose. Bias can also arise from gender, ethnicity and the clinician's expectations. Overdiagnosis, underdiagnosis and self-diagnosis are other concerns, and so is the way that a diagnosis can influence how people see themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--01-abn-criteria.webp" width="900" height="930" alt="Four panels: a bell curve with rare ends shaded (statistical infrequency; high intelligence is rare but not a disorder), one person differing from a crowd (social norms differ by culture and time), a distressed person blocked from work, home and friends (maladaptive behaviour; some feel no distress), and a target with few people near the centre (ideal mental health; few reach it, culturally bound)." loading="lazy">
+  <figcaption>Each way of defining abnormality has a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--02-abn-reliability-validity.webp" width="900" height="1060" alt="One case read by three clinicians who all reach Label X shows reliability; a label that measures a real, distinct condition shows validity; the same cases were diagnosed as schizophrenia more often in New York than London." loading="lazy">
+  <figcaption>Consistent labels are not necessarily labels for a real condition.</figcaption>
+</figure>
+
+
 ## Aetiology of abnormal psychology
 
 Disorders are usually explained at several levels, and explanations are often combined in a **diathesis-stress** or biopsychosocial model.
@@ -62,6 +73,17 @@ Disorders are usually explained at several levels, and explanations are often co
 - **Cognitive**: how a person thinks affects emotion. Beck described the **negative cognitive triad** (a negative view of the self, the world and the future) and negative schemas in depression. Seligman's **learned helplessness** theory proposes that experiencing uncontrollable events leads to passivity, which was tested on animals and so raises questions about generalising to people.
 - **Sociocultural**: social factors such as poverty, family conflict, trauma and stressful life events can contribute. Brown and Harris (1978) studied women in a London district and found that severe life events and vulnerability factors, such as the lack of a close confiding relationship, were associated with depression. Cultural factors affect the way symptoms are described and the stigma attached to them.
 - **Evaluation**: each explanation can describe only a part of the picture. Correlation does not show cause, retrospective data can be inaccurate, and reductionist accounts may ignore other levels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--03-abn-diathesis-stress.webp" width="900" height="980" alt="Three stacked bars of equal stress on low, medium and high vulnerability; only the highest passes the dashed line where a disorder develops. A box repeats the Caspi and colleagues (2003) finding of a serotonin transporter gene version plus stressful life events making depression more likely." loading="lazy">
+  <figcaption>A disorder arises when vulnerability combines with stress.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--04-abn-cognitive-triad.webp" width="900" height="960" alt="Three linked boxes for a negative view of the self, the world and the future around negative schemas (Beck), and a chain from uncontrollable events to passivity (Seligman), noting animal studies limit generalising." loading="lazy">
+  <figcaption>Beck’s triad and Seligman’s learned helplessness.</figcaption>
+</figure>
+
 
 ## Treatment
 
@@ -72,6 +94,17 @@ Treatments may be **biomedical**, **psychological** or **group and community bas
 - **Group and community** approaches use support groups, community services and family involvement, and they can address social causes and isolation.
 - **Cultural considerations**: treatment should fit the person's culture and beliefs. Some people prefer traditional or religious support, and therapy may need to be adapted.
 - **Choosing treatment**: severity, preference, access, cost and the evidence all matter, and a combination of drug and psychological treatment is common.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--05-abn-ssri.webp" width="900" height="1000" alt="Two schematic synapses: without an SSRI the reuptake pump removes serotonin and few molecules stay in the synapse; with an SSRI the pump is blocked and more stay." loading="lazy">
+  <figcaption>SSRIs raise the serotonin available at the synapse by blocking reuptake.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-abnormal-psychology-study-guide--06-abn-treatments.webp" width="900" height="900" alt="Three columns for biomedical, psychological and group or community treatment with the examples the lesson gives, a strip on fitting treatment to culture, and the factors in choosing treatment." loading="lazy">
+  <figcaption>Three kinds of treatment and how to choose.</figcaption>
+</figure>
+
 
 ## Worked example: planning an extended response
 

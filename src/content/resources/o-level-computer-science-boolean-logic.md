@@ -51,6 +51,12 @@ Think of each gate as answering a question about its inputs.
 
 The bubble always means "invert". That is why NAND is AND followed by NOT, and NOR is OR followed by NOT.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--01-bl-gates.webp" width="900" height="925" alt="Six boxes show the NOT, AND, OR, NAND, NOR and XOR (EOR) symbols, each with the question it answers. A small circle on an output means the output is inverted." loading="lazy">
+  <figcaption>The six gates, their symbols and the question each one answers.</figcaption>
+</figure>
+
+
 ## Truth tables
 
 A truth table lists every possible combination of inputs and the output for each. Two inputs give 4 rows; three inputs give 8 rows. Write the inputs in binary counting order — 000, 001, 010 … 111 — so no combination is missed. This is also the order in which Cambridge prints the input columns.
@@ -61,6 +67,17 @@ A truth table lists every possible combination of inputs and the output for each
 | 0 | 1 | 1 | 0 | 1 | 1 | 0 | 1 |
 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
 | 1 | 1 | 0 | 1 | 1 | 0 | 0 | 0 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--02-bl-truth-table.webp" width="900" height="674" alt="A four-row truth table for inputs A and B in binary counting order with columns NOT A, AND, OR, NAND, NOR and XOR. Arrows show NAND is the inverse of AND and NOR is the inverse of OR." loading="lazy">
+  <figcaption>All six gates side by side for the four input combinations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--06-bl-ex3-table.webp" width="900" height="900" alt="An eight-row table with the two rows where X is 1 highlighted. Each becomes an AND term, and the two terms join through an OR gate. A small circuit shows a three-input AND built from two two-input ANDs." loading="lazy">
+  <figcaption>Turn each 1-row into an AND term, then OR the terms.</figcaption>
+</figure>
+
 
 ## Logic expressions
 
@@ -76,6 +93,12 @@ A logic expression writes the circuit as a formula using the gate names, with br
 | Expression or circuit → truth table | Add one working column per gate; fill row by row |
 | Truth table → expression | For each row where X = 1, AND the inputs (NOT for a 0); OR the rows together |
 | Problem statement → truth table | Decide the output for each input combination directly from the words |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--03-bl-four-forms.webp" width="900" height="976" alt="Seven arrows link words, expression, circuit and truth table, each labelled with the one-line method from the lesson, such as letter each condition or OR the rows where X = 1." loading="lazy">
+  <figcaption>How to convert between problem statement, expression, circuit and truth table.</figcaption>
+</figure>
+
 
 ## Worked example 1: from a problem statement
 
@@ -96,6 +119,12 @@ A logic expression writes the circuit as a formula using the gate names, with br
 
 The circuit: A and B into an XOR gate; its output and L into an AND gate; output X.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--04-bl-ex1-buzzer.webp" width="900" height="942" alt="The expression X = (A XOR B) AND L, its circuit (A and B into XOR, then with L into AND) and the eight-row truth table where X is 1 only for rows 011 and 101." loading="lazy">
+  <figcaption>The quiz buzzer goes from words to expression, circuit and truth table.</figcaption>
+</figure>
+
+
 ## Worked example 2: from a circuit
 
 *Inputs A and B go into a NAND gate. Inputs B and C go into an OR gate. The two outputs go into an AND gate, giving X.*
@@ -115,6 +144,12 @@ Expression: `X = (A NAND B) AND (B OR C)`.
 
 Notice that input B feeds two gates: in the drawing the line from B splits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--05-bl-ex2-circuit.webp" width="900" height="1002" alt="A circuit with NAND (A,B), OR (B,C) and an AND giving X, with the line from B splitting to two gates, and the eight-row table with one working column per gate." loading="lazy">
+  <figcaption>Reading a circuit gate by gate to get X = (A NAND B) AND (B OR C).</figcaption>
+</figure>
+
+
 ## Worked example 3: from a truth table
 
 *X = 1 only when A = 0, B = 0, C = 1 and when A = 1, B = 0, C = 0.*
@@ -130,6 +165,12 @@ If you draw this circuit, remember each three-input AND has to be built from two
 *A safe opens (X = 1) when the correct code is entered (C = 1) and the alarm is not triggered. The alarm sensor gives T = 1 when triggered.*
 
 The condition is "T is not 1", so the expression is `X = C AND NOT T`. Always read the meaning of each input value carefully — a 0 can be the condition you want.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-boolean-logic--07-bl-ex4-inverted.webp" width="900" height="850" alt="The safe opens when the code is correct (C = 1) and the alarm is not triggered (T = 0). A NOT gate on T feeds an AND gate with C; only the row C = 1, T = 0 gives X = 1." loading="lazy">
+  <figcaption>X = C AND NOT T, because a 0 on the alarm input is the wanted condition.</figcaption>
+</figure>
+
 
 ## How to approach it
 

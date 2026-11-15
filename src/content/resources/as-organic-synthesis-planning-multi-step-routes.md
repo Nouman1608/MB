@@ -77,6 +77,12 @@ Given an unknown molecule's reactions with a set of reagents, work through
 this table in reverse: each positive or negative result rules functional
 groups in or out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--14-identification-tests.webp" width="900" height="1040" alt="Seven rows pair a test-tube result with the group it indicates: bromine water decolourised, C=C; carbonate fizzes, carboxylic acid; 2,4-DNPH orange precipitate, aldehyde or ketone; Tollens silver mirror, aldehyde only; alkaline iodine yellow precipitate, CH3CO or CH3CH(OH); acidified dichromate orange to green, oxidisable OH; silver nitrate in ethanol white, cream or yellow precipitate, C–X." loading="lazy">
+  <figcaption>Each characteristic reaction doubles as an identification test for its functional group.</figcaption>
+</figure>
+
+
 ## Predicting properties and reactions
 
 Once you know which functional groups a molecule contains, its behaviour
@@ -85,6 +91,12 @@ follows directly from what you already know about each group individually
 sets of reactions (oxidation/esterification from the –OH, and electrophilic
 addition from the C=C), each behaving independently of the other unless the
 syllabus specifically states otherwise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--15-two-groups-independent.webp" width="900" height="810" alt="A schematic skeletal molecule has a C=C at one end and an OH group at the other, each circled. The C=C leads to electrophilic addition; the OH leads to oxidation and esterification. Each group reacts independently unless the syllabus states otherwise." loading="lazy">
+  <figcaption>A molecule with several functional groups shows each group’s reactions independently.</figcaption>
+</figure>
+
 
 ## Planning a multi-step synthesis
 
@@ -119,6 +131,17 @@ reaction already covered — a good check on any proposed route is whether
 every step can be pointed to a specific, real reaction like this, rather
 than a vague "it gets oxidised" or "it reacts."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--13-synthesis-reaction-map.webp" width="900" height="1030" alt="Nine compound classes joined by labelled arrows: alkane to halogenoalkane (Br2, UV); halogenoalkane to alcohol (NaOH(aq), heat) and to amine (NH3, ethanol, heat, pressure); alkene to alcohol (steam, H3PO4); alcohol to aldehyde (acidified K2Cr2O7, distil) and to carboxylic acid (acidified K2Cr2O7, reflux); aldehyde to hydroxynitrile (HCN, KCN); carboxylic acid plus alcohol with concentrated H2SO4 to ester." loading="lazy">
+  <figcaption>Every arrow is a reaction already in the AS syllabus; a route is a path through the map.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--16-ethene-to-ethyl-ethanoate.webp" width="900" height="980" alt="Ethene reacts with steam and H3PO4 to give ethanol (step 1). Ethanol is oxidised with acidified K2Cr2O7 under reflux to ethanoic acid (step 2). Ethanoic acid reacts with ethanol kept from step 1, with concentrated H2SO4, to give ethyl ethanoate (step 3). The three balanced equations are shown." loading="lazy">
+  <figcaption>Every step names a real reagent and condition; the ethanol from step 1 is reused in step 3.</figcaption>
+</figure>
+
+
 ## Analysing a given route
 
 The reverse skill — given someone else's route, identify what's actually
@@ -142,6 +165,12 @@ instead, the likely by-product would be different again — elimination to
 ethene rather than substitution to ethanol, which is exactly why the
 solvent (aqueous vs ethanolic) is always worth checking carefully in a
 given route.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--17-analyse-a-route.webp" width="900" height="980" alt="Step 1, Br2 and UV, is free-radical substitution from ethane to bromoethane, with dibromoethane as a likely by-product. Step 2, aqueous NaOH and heat, is nucleophilic substitution to ethanol. A dashed alternative shows ethanolic NaOH would instead give elimination to ethene. Both balanced equations are shown." loading="lazy">
+  <figcaption>Name the reaction type and likely by-product at each step, and check whether the solvent is aqueous or ethanolic.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

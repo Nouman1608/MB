@@ -123,6 +123,17 @@ data, such as every book in a library.
 kind of value; use a record when one item has several attributes of
 different types.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--01-cs-arrays-1d-2d.webp" width="900" height="960" alt="A one-dimensional array of six illustrative marks is reached with one index, so marks[2] is 88; a loop adds every item to give total 447 and average 74.5. A two-dimensional array is a table reached with student and test indices, so marks[2][1] is 83. Only one- and two-dimensional arrays are needed." loading="lazy">
+  <figcaption>An array item is reached by one index, or two for a table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--02-cs-records.webp" width="900" height="910" alt="A record groups fields of different types: here title (string), pages (integer), price (real) and onLoan (Boolean). An array of records stores a table in which each row is one record. Arrays hold one type, records mixed types." loading="lazy">
+  <figcaption>A record holds mixed types; an array of records forms a table.</figcaption>
+</figure>
+
+
 ## Input, output and text files (3.2.7)
 
 Programs take **input from the keyboard** and **output to the display**.
@@ -157,6 +168,12 @@ Check whether the language or exam pseudocode counts positions from 0 or
 operations is building a username from the first three letters of a
 surname and a number converted to a string.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--03-cs-string-handling.webp" width="900" height="880" alt="Six string operations shown on the word Lagos: length 5, the position of g (2 when counting from 0), the substring Lag, joining Ada and Lovelace, character codes 65 and 97, and string conversion. The lesson tells students to check whether positions count from 0 or 1." loading="lazy">
+  <figcaption>Each string operation shown on a short example.</figcaption>
+</figure>
+
+
 ## Random number generation (3.2.9)
 
 You must be able to **use** random numbers in a program — for example,
@@ -189,6 +206,12 @@ times, so programs are shorter; each subroutine can be tested on its
 own; a bug is fixed in one place; work can be split between
 programmers; and a well-named subroutine makes the main program easier
 to read.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--04-cs-subroutine-parameters-return.webp" width="900" height="680" alt="The main program calls area(4, 3): the parameters 4 and 3 go into the function, whose local variables exist only inside it, and the value 12 is returned to roomArea. A second call area(5, 2) gives 10, showing reuse." loading="lazy">
+  <figcaption>Parameters pass data in and a return value passes data out.</figcaption>
+</figure>
+
 
 ## The structured approach (3.2.11)
 
@@ -244,6 +267,12 @@ each choice:
 | Boundary | Values at the edge of the valid range | 1 and 10 (and 0 and 11 just outside) |
 | Erroneous | Data that should be rejected | 25, or "six" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--05-cs-rating-test-data.webp" width="900" height="820" alt="For a rating of 1 to 10, normal data 6 is accepted, boundary data 1 and 10 are accepted while 0 and 11 just outside are rejected, and erroneous data 25 and the word six are rejected." loading="lazy">
+  <figcaption>Test data for a range check covers normal, boundary and erroneous values.</figcaption>
+</figure>
+
+
 ## Low-level and high-level languages (3.2.13)
 
 Processors only execute **machine code**, which is expressed in binary
@@ -276,6 +305,12 @@ first error and lets you test parts of a program quickly. Use a
 standalone executable that runs faster and does not reveal the source
 code. Use an **assembler** when the program is written in assembly
 language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--06-cs-translators.webp" width="900" height="1120" alt="A compiler translates the whole high-level program into machine code before it runs. An interpreter translates and runs one statement at a time, makes no machine code file of its own and stops at the first error. An assembler converts each assembly line into one machine code instruction. The code shown is illustrative." loading="lazy">
+  <figcaption>Three translators: compiler (whole program), interpreter (one line at a time) and assembler (1:1).</figcaption>
+</figure>
+
 
 ## Common mistakes
 

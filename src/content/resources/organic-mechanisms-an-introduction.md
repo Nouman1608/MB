@@ -103,6 +103,12 @@ functional groups marked and hydrogen atoms on carbon omitted entirely. You're
 expected to move fluently between all four for the functional groups in the AS
 syllabus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--14-four-formulae.webp" width="900" height="920" alt="Butane written four ways. General formula CₙH₂ₙ₊₂ with n = 4 gives C₄H₁₀. Structural formula CH₃CH₂CH₂CH₃. Displayed formula showing every atom and bond, each carbon with four bonds. Skeletal formula as a zigzag of four carbon vertices with hydrogen on carbon omitted." loading="lazy">
+  <figcaption>One molecule, butane, in the four formula styles the syllabus expects you to move between.</figcaption>
+</figure>
+
+
 ## The vocabulary of organic reactions
 
 Two separate sets of terms describe organic chemistry, and it's worth keeping
@@ -134,6 +140,17 @@ arrow (not a half-arrow, called a "fish-hook," used for single-electron
 movement in free-radical mechanisms) is standard notation throughout AS organic
 mechanisms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--15-bond-fission.webp" width="900" height="850" alt="Two panels. Homolytic fission: the shared pair in A–B splits with two half-headed fish-hook arrows, each atom keeps one electron, giving two free radicals. Heterolytic fission: one full curly arrow from the bond to B, so B keeps both electrons, giving a positive and a negative ion." loading="lazy">
+  <figcaption>Homolytic fission gives two radicals; heterolytic fission gives two oppositely charged ions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--16-curly-arrows.webp" width="900" height="1030" alt="Two mechanism first steps. Top: hydroxide, a nucleophile, donates a lone pair from an arrow starting at the lone pair to the δ+ carbon of H₃C–Br, while a second arrow from the C–Br bond moves to bromine. Bottom: the electron-rich C=C of ethene, drawn as an arrow from the double bond, attacks the δ+ hydrogen of H–Br, with a second arrow from the H–Br bond to bromine. Arrows always start at a bond or lone pair." loading="lazy">
+  <figcaption>A nucleophile donates a pair and an electrophile accepts one, and curly arrows start at a bond or lone pair.</figcaption>
+</figure>
+
+
 ## Shape, hybridisation, and planarity
 
 The same VSEPR and hybridisation ideas from [Chemical Bonding: Shapes and
@@ -143,6 +160,17 @@ is trigonal planar, and an sp carbon is linear. Ethene, C₂H₄, is described a
 **planar** because both carbons are sp² hybridised — all six atoms in the
 molecule lie in a single flat plane, which is exactly the geometry that allows
 its π bond to form by sideways overlap above and below that plane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--17-hybridisation-shapes.webp" width="900" height="960" alt="Three carbon shapes. sp³ is tetrahedral, 109.5°, drawn with two bonds in the plane, a wedge and a dash. sp², as in ethene, is trigonal planar at 120°. sp, as in ethyne, is linear at 180°." loading="lazy">
+  <figcaption>sp³, sp² and sp carbons are tetrahedral, trigonal planar and linear.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--18-ethene-planar-pi.webp" width="900" height="900" alt="Top view: all six atoms of ethene lie in one flat plane with 120° angles. Side view: the plane is edge-on, and the π bond is formed by sideways overlap of p orbitals as one region above the plane and one below." loading="lazy">
+  <figcaption>Ethene is planar, and its π bond lies above and below that plane.</figcaption>
+</figure>
+
 
 ## Isomerism
 
@@ -160,6 +188,17 @@ restricted by the π bond — the two substituents on each carbon are locked on
 one side or the other. **Optical isomerism** arises at a **chiral centre**: a
 carbon atom bonded to four different groups. A chiral centre produces two
 non-superimposable mirror-image structures, called **enantiomers**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--19-structural-isomers.webp" width="900" height="970" alt="Three pairs of skeletal formulae with the same molecular formula. Chain: butane and methylpropane, C₄H₁₀. Positional: propan-1-ol and propan-2-ol, C₃H₈O. Functional group: ethanol, an alcohol, and methoxymethane, an ether, C₂H₆O." loading="lazy">
+  <figcaption>Structural isomers share a molecular formula but differ in chain, position of the group or functional group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/organic-mechanisms-an-introduction--20-stereoisomers.webp" width="900" height="1040" alt="Top: cis and trans but-2-ene. In cis both CH₃ groups are on the same side of the C=C, in trans on opposite sides, because the double bond cannot rotate. Bottom: a chiral carbon bonded to four different groups a, b, c and d is drawn with wedge and dash bonds beside its mirror image. The two are enantiomers and cannot be superimposed." loading="lazy">
+  <figcaption>Cis/trans isomers arise from restricted rotation about C=C; enantiomers arise from a chiral centre with four different groups.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

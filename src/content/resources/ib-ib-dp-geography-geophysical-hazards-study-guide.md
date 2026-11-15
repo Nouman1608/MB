@@ -54,6 +54,27 @@ Earthquakes release stored strain energy when rock suddenly slips along a fault.
 
 Other related hazards include landslides, liquefaction and tsunamis. Tsunamis form when sudden displacement of the sea floor moves a large volume of water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--14-g-plate-boundaries.webp" width="900" height="1110" alt="Three schematic panels. Divergent: two plates move apart and magma rises at a ridge or rift, with shallow earthquakes and basaltic volcanoes. Convergent: an oceanic plate is subducted beneath a continental plate, forming a trench, powerful earthquakes and an explosive volcano. Transform: in plan view two plates slide past each other along a fault, producing strong shallow earthquakes without destroying crust." loading="lazy">
+  <figcaption>Divergent plates move apart, convergent plates move together and may subduct, and transform plates slide past each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--15-g-focus-epicentre.webp" width="900" height="830" alt="A cross-section of the ground with a tilted fault. Rock suddenly slips along the fault at a point underground called the focus, shown as a star. The epicentre is the point on the surface directly above the focus, joined to it by a dashed vertical line. Dashed rings spread out from the focus to show seismic waves, and arrows along the surface show surface waves moving away from the epicentre." loading="lazy">
+  <figcaption>The focus is where rock ruptures; the epicentre is the surface point directly above it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--16-g-magnitude.webp" width="900" height="1055" alt="Comparing a magnitude 7.1 earthquake with a magnitude 5.1 earthquake, a difference of 2 units. Three bars show ground motion amplitude rising tenfold per unit: 1, 10 and 100 times. A grid of 1,000 small squares beside a single square shows that the larger earthquake releases about 1,000 times more energy, because each whole number is about 32 times more energy and 31.6 squared is close to 1,000." loading="lazy">
+  <figcaption>Two magnitude units mean 100 times the ground motion and about 1,000 times the energy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--17-g-volcano-hazards.webp" width="900" height="1010" alt="A cross-section of a cone-shaped volcano with a magma chamber below and a conduit to the crater. Numbered hazards: 1 ash fall from the eruption cloud, 2 a pyroclastic flow racing down one slope, 3 a lava flow down the other slope, 4 gas emissions from the vent and 5 a lahar, a mudflow, in the valley at the foot of the volcano." loading="lazy">
+  <figcaption>Volcanic hazards include ash fall, pyroclastic flows, lava flows, gas emissions and lahars.</figcaption>
+</figure>
+
+
 ## 4.2 Geophysical hazard risks
 
 Risk is the probability that a hazard will cause harm. It depends on the nature of the hazard (magnitude, frequency, duration, speed of onset, spatial extent and predictability) and on the exposure of people and assets. A hazard profile summarises these characteristics. Frequency and magnitude are typically inversely related: large events are rarer.
@@ -66,6 +87,12 @@ Some geophysical hazards can be monitored more successfully than others. Volcano
 
 Hazard mapping, such as seismic hazard maps or volcanic hazard zones, shows spatial patterns. Many people live near hazards because of fertile volcanic soils, trade routes, geothermal energy or simply lack of choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--18-g-risk-formula.webp" width="900" height="1020" alt="Two fictional cities with the same hazard score of 6. City A has vulnerability 8 and capacity to cope 4, so its conceptual risk is 6 times 8 divided by 4, which is 12. City B has vulnerability 3 and capacity 9, so its risk is 6 times 3 divided by 9, which is 2. Bars show each score and the final risk, and the same hazard gives six times the risk in City A. The numbers are illustrative." loading="lazy">
+  <figcaption>With the same hazard, higher vulnerability and lower capacity give City A six times the conceptual risk of City B.</figcaption>
+</figure>
+
+
 ## 4.3 Hazard risk and vulnerability
 
 Whether a hazard becomes a disaster depends on vulnerability: the characteristics of people and places that make them susceptible to harm. Factors include poverty, urban density, building quality, governance, education, health, inequality, age, disability and access to information. The pressure and release model describes how root causes, dynamic pressures and unsafe conditions combine with a hazard to produce disaster. Resilience, the capacity to absorb shocks, adapt and recover, is the other side of the coin.
@@ -73,6 +100,17 @@ Whether a hazard becomes a disaster depends on vulnerability: the characteristic
 Compare similar hazards with different outcomes. Two earthquakes of comparable magnitude can cause very different casualties depending on building codes, enforcement, time of day, population density and emergency services. Economic losses tend to be larger in wealthy places because of high-value assets, while loss of life tends to be larger in poorer places. Disasters also have multiplier effects: aftershocks, landslides, disease and economic disruption.
 
 Disaster management is often described as a cycle: mitigation, preparedness, response and recovery. Responses involve governments, local communities, international agencies and non-governmental organisations. Examine how effective and equitable each stakeholder's contribution is.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--19-g-pressure-release.webp" width="900" height="830" alt="A squeeze diagram. On the left, three stacked boxes joined by downward arrows run from root causes to dynamic pressures to unsafe conditions, and an arrow carries that pressure to a cracked house. On the right, a hazard box pushes in from the other side. Where they meet is the disaster. A resilience box below pushes back up, because resilience is the capacity to absorb shocks, adapt and recover." loading="lazy">
+  <figcaption>Root causes, dynamic pressures and unsafe conditions combine with a hazard to produce disaster; resilience pushes back.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-geophysical-hazards-study-guide--20-g-disaster-cycle.webp" width="900" height="870" alt="A four-stage cycle drawn clockwise: mitigation (a braced house), preparedness (a checklist), response (a red cross) and recovery (a rebuilt house with an upward arrow). Arrows lead from each stage to the next and back round to mitigation. A caption notes that governments, communities, agencies and NGOs all take part." loading="lazy">
+  <figcaption>Disaster management is a cycle of mitigation, preparedness, response and recovery.</figcaption>
+</figure>
+
 
 ## 4.4 Future resilience and adaptation
 

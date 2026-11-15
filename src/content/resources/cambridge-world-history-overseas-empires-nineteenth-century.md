@@ -80,6 +80,12 @@ A strong answer does not treat motives as a list: economic interests
 often needed strategic and national arguments to win support at home,
 and missionaries and explorers often arrived before governments did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--01-empire-motives.webp" width="900" height="868" alt="Five icons show the motives for empire in the lesson: economic (raw materials, markets, investment), military (naval bases, coaling stations, sea routes), geopolitical (rivalry and prestige), religious (missions) and cultural (the civilising mission), each with the lesson’s example. It reminds the reader to link motives rather than list them." loading="lazy">
+  <figcaption>Five motives for imperialism, each with an example from the lesson.</figcaption>
+</figure>
+
+
 ## How varied was the impact of European rule on Africans?
 
 ### France in Senegal: assimilation and direct rule
@@ -123,6 +129,17 @@ used it, and Leopold's regime exploited it for profit; the Congo shows
 the most extreme impact, but all three systems took land, labour and
 political control from Africans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--02-empire-three-systems.webp" width="900" height="993" alt="Three horizontal bands show chains of authority. France in Senegal: French officials rule Africans directly, with assimilation giving few people citizenship. Britain in Nigeria: a High Commissioner rules through emirs and their courts. Belgium in the Congo: King Leopold II and the Force Publique impose rubber quotas. The verbs replaced, used and exploited summarise each system." loading="lazy">
+  <figcaption>French rule replaced local authority, British rule used it, and Leopold’s regime exploited it for profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--03-empire-rule-timeline.webp" width="900" height="871" alt="A timeline from 1850 to 1915 with a lane for each colony. Senegal: Faidherbe governs 1854 to 1861 and 1863 to 1865; tirailleurs senegalais created 1857. Nigeria: Lugard High Commissioner of Northern Nigeria from 1900, Sokoto Caliphate conquered by 1903, North and South joined in 1914. Congo: Congo Free State recognised 1885, Casement report 1904, Belgian state takes over 1908." loading="lazy">
+  <figcaption>When Faidherbe, Lugard and Leopold II’s Congo Free State fall on the same timeline.</figcaption>
+</figure>
+
+
 ## Why did Indians resist British rule in 1857, and what changed?
 
 The rising began at **Meerut on 10 May 1857**, when sepoys of the East
@@ -146,6 +163,17 @@ army was reorganised with a higher proportion of British troops, and
 Bahadur Shah was exiled to Rangoon, ending the Mughal dynasty. British
 rule became more cautious about interfering with Indian customs, but
 more distant from Indians.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--04-empire-india-1857.webp" width="900" height="920" alt="Four causes feed into a three-step chain. Causes: the cartridge-grease rumour, annexations such as Awadh in 1856, fear of forced conversion and reforms, and grievances over pay. The chain: sepoys rebel at Meerut on 10 May 1857, proclaim Bahadur Shah II at Delhi, and the fighting spreads across northern India to Kanpur and Lucknow." loading="lazy">
+  <figcaption>From four causes to the rebellion at Meerut on 10 May 1857 and its spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--05-empire-india-crown.webp" width="900" height="920" alt="A before-and-after diagram. Before 1858 the East India Company ruled India. After the Government of India Act 1858 the chain of authority was the Crown, a Secretary of State in London, a Viceroy in India, then India. Three further changes: a proclamation promising religious toleration and no more annexations, more British troops in the army, and Bahadur Shah exiled to Rangoon ending the Mughal dynasty." loading="lazy">
+  <figcaption>India moved from Company rule to Crown rule in 1858.</figcaption>
+</figure>
+
 
 ## Why did the USA gain former Spanish colonies?
 
@@ -171,6 +199,17 @@ more distant from Indians.
   Cuba, but the **Platt Amendment** (1901) gave the USA the right to
   intervene and a naval base at Guantánamo Bay; US troops occupied
   Cuba until 1902 and returned in 1906.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--06-empire-1898-timeline.webp" width="900" height="1130" alt="A vertical timeline of twelve dated events from the 1895 Cuban war of independence through the sinking of the Maine, the 1898 war, the Treaty of Paris, the Philippine–American War and the Platt Amendment to US troops returning to Cuba in 1906. Wartime events are gold dots and the aftermath is teal." loading="lazy">
+  <figcaption>Key dates from the Cuban war of independence in 1895 to the return of US troops to Cuba in 1906.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--07-empire-treaty-of-paris.webp" width="900" height="900" alt="Spain on the left, the USA on the right. Puerto Rico, Guam and the Philippines pass from Spain to the USA, which pays $20 million for the Philippines. Cuba is given up by Spain but not annexed. A three-step chain shows the Philippines: independence declared June 1898, the Philippine–American War 1899 to 1902, then American-controlled rule with schools, English and an assembly in 1907." loading="lazy">
+  <figcaption>The Treaty of Paris (December 1898) and what followed in the Philippines.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

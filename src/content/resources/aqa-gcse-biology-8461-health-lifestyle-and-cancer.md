@@ -95,6 +95,12 @@ each with an example.
 In an "explain" question, link cause and effect: "HIV destroys white blood cells, so the body is less able to
 destroy pathogens, so the person is more likely to get other infections."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--01-hl-interactions.webp" width="900" height="790" alt="Four cause and effect links between diseases: immune defects such as HIV lead to more infections, viruses in cells such as HPV can trigger cancer, immune reactions to a pathogen can trigger allergies, and severe physical illness can lead to depression." loading="lazy">
+  <figcaption>Four ways one type of disease can lead to another.</figcaption>
+</figure>
+
+
 ## How do you handle disease incidence data?
 
 **Incidence** means the number of new cases of a disease in a population over a stated time. Because populations
@@ -125,11 +131,28 @@ Town A has more cases, but Town B has the higher rate, so a person in Town B is 
 The class width is 20 years, so the bar height is frequency density = 180 / 20 = **9 people per year of age**. With
 unequal class widths, the **area** of each bar, not its height, shows the frequency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--03-hl-histogram.webp" width="900" height="1140" alt="A histogram bar for 180 people aged 20 to under 40 has height 9 people per year, so its area is 20 times 9, which is 180. A wider illustrative class of 40 years has height 4.5 and the same area." loading="lazy">
+  <figcaption>With unequal class widths the area of a bar, not its height, shows the frequency.</figcaption>
+</figure>
+
+
 ### What does a scatter diagram show?
 
 If the points rise from left to right there is a **positive correlation**; if they fall, a **negative
 correlation**; if they show no pattern, **no correlation**. A correlation shows that two variables are linked. It
 does not prove that one causes the other. That distinction is behind most of the marks in this section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--02-hl-rates.webp" width="900" height="870" alt="Bar charts for Town A and Town B. Town A has more cases, 1 020 against 330, but the rate per 100 000 is 170 for Town A and 220 for Town B, so Town B has the higher rate." loading="lazy">
+  <figcaption>Town A has more cases but Town B has the higher rate per 100 000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--04-hl-scatter.webp" width="900" height="1120" alt="Three scatter diagrams with illustrative points showing positive correlation, negative correlation and no correlation, with a reminder that correlation does not prove cause." loading="lazy">
+  <figcaption>Points that rise, fall or show no pattern; a link is not proof of cause.</figcaption>
+</figure>
+
 
 ## What are the principles of sampling for epidemiological data?
 
@@ -190,6 +213,17 @@ non-smokers developed a lung disease. 45 / 9 = 5, so smokers in this sample were
 the disease. To conclude that smoking causes it, you would also need a known mechanism (such as tar damaging the
 alveoli), a large representative sample, and other studies that agree.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--05-hl-risk-data.webp" width="900" height="1040" alt="Two grids of 1 000 people each, with 45 highlighted among smokers and 9 among non-smokers, so smokers were 5 times as likely to develop the lung disease. Concluding cause needs a mechanism, a large representative sample and agreeing studies." loading="lazy">
+  <figcaption>45 in 1 000 smokers against 9 in 1 000 non-smokers is a five-fold difference.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--06-hl-lifestyle-links.webp" width="900" height="860" alt="Lines join each lifestyle risk factor to the diseases it raises: diet, exercise and smoking to cardiovascular disease, smoking to lung disease and harm to the unborn baby, alcohol to liver and brain damage and harm to the baby, obesity to Type 2 diabetes, carcinogens to cancer." loading="lazy">
+  <figcaption>Which risk factor is linked to which disease or effect.</figcaption>
+</figure>
+
+
 ## What is cancer?
 
 Cancer is **the result of changes in cells that lead to uncontrolled growth and division**. Normally, cell division
@@ -212,6 +246,12 @@ cancer, and exposure to carcinogens and ionising radiation (such as X-rays and g
 also **genetic risk factors** for some cancers: some people inherit gene variants that raise their risk (for
 example, inherited faulty BRCA1 or BRCA2 genes raise the risk of breast cancer). The link to 4.2.2.5 is also
 examinable: viruses living in cells, such as HPV, can trigger cancer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-biology-8461-health-lifestyle-and-cancer--07-hl-tumours.webp" width="900" height="1240" alt="A benign tumour of abnormal cells stays contained within a membrane and does not invade. A malignant tumour invades neighbouring tissue, cells travel in the blood and form a secondary tumour elsewhere. Schematic, not to scale." loading="lazy">
+  <figcaption>Benign tumours stay put; malignant tumours invade and spread in the blood.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -83,6 +83,12 @@ number of significant figures given or asked for in the question.
 There is no Core/Extended tiering at 9701 — every outcome above is required for
 every AS candidate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--12-unified-atomic-mass-unit.webp" width="900" height="960" alt="A carbon-12 atom is cut into twelve equal slices; one slice is the unified atomic mass unit, u. Relative atomic, isotopic, molecular and formula masses are all defined using it." loading="lazy">
+  <figcaption>One twelfth of a carbon-12 atom defines the atomic mass unit.</figcaption>
+</figure>
+
+
 ## Ionic formulas from oxidation numbers
 
 Rather than memorising a formula for every compound, 9701 expects you to build
@@ -96,6 +102,12 @@ You're also expected to recall the formulas of seven specific polyatomic ions
 without being given them: NO₃⁻, CO₃²⁻, SO₄²⁻, OH⁻, NH₄⁺, HCO₃⁻, PO₄³⁻. Two more
 worth memorising alongside them, Zn²⁺ and Ag⁺, are **monatomic** metal ions
 whose charge isn't obvious from the Periodic Table group number.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--07-ionic-formula-from-charges.webp" width="900" height="970" alt="Two Fe3+ ions (total +6) balance three O2- ions (total -6) to give Fe2O3. The same logic with sulfate gives Fe2(SO4)3." loading="lazy">
+  <figcaption>Combine ions so the total charge is zero, using the lowest common multiple of the charges.</figcaption>
+</figure>
+
 
 ## Ionic equations without spectator ions
 
@@ -111,6 +123,12 @@ Ionic:  Pb2+(aq) + 2I-(aq) → PbI2(s)
 K⁺ and NO₃⁻ appear on both sides in identical form and are omitted. Only species
 that change state or combine are kept — which is why the solid product, PbI₂,
 stays fully written out rather than being split into ions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--08-ionic-equation-spectators.webp" width="900" height="730" alt="Pb2+ and two I- ions combine to make solid PbI2. K+ and NO3- ions are the same before and after, so they are spectators and are left out of the ionic equation Pb2+(aq) + 2I-(aq) gives PbI2(s)." loading="lazy">
+  <figcaption>Only the ions that change are kept, and the solid is written whole.</figcaption>
+</figure>
+
 
 ## Stoichiometric calculations
 
@@ -138,6 +156,12 @@ A yield over 100% is chemically impossible and signals an error — most likely
 that the hydrogen collected wasn't pure, or a measurement was imprecise. This is
 a deliberately awkward result: real calculations don't always land on a tidy
 answer, and recognising an impossible result is itself part of the skill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--09-percentage-yield-over-100.webp" width="900" height="950" alt="Magnesium 5.00 g is 0.2058 mol; the 1 to 1 ratio gives 0.2058 mol of hydrogen, 0.4115 g. The actual 0.450 g is 109 percent of this, drawn as a bar above the 100 percent line, which is impossible and signals an error." loading="lazy">
+  <figcaption>A yield above 100 percent signals an error, such as impure gas.</figcaption>
+</figure>
+
 
 ### Limiting reagent
 
@@ -168,6 +192,12 @@ H2 unreacted = 2.00 − 0.250 = 1.75 mol = 1.75 × 2.0 = 3.50 g
 check: 0.500 g H2 + 4.00 g O2 = 4.50 g H2O
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--10-limiting-reagent-moles.webp" width="900" height="930" alt="Hydrogen is 2.00 mol and oxygen 0.125 mol. The equation would need 1.00 mol of oxygen for all the hydrogen, so oxygen is limiting. It uses 0.250 mol of hydrogen, leaving 1.75 mol (3.50 g), and makes 0.250 mol (4.50 g) of water." loading="lazy">
+  <figcaption>Compare moles against the equation ratio; the product is set by the limiting reagent.</figcaption>
+</figure>
+
+
 ### Gas volumes and solution concentrations
 
 Reacting-volume calculations for gases and solutions follow the same three-step
@@ -176,6 +206,12 @@ equation's mole ratio, convert the answer to what's asked for — with the AS
 syllabus expecting fluency across masses, gas volumes and solution
 concentrations within a single multi-step question, not each in isolation as
 separate question types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atoms-molecules-and-stoichiometry--11-mole-route-three-steps.webp" width="900" height="1010" alt="Whatever is given, a mass, a gas volume or a solution with its concentration, is converted to moles; the equation mole ratio converts to moles of the wanted substance; those moles are converted to the mass, gas volume or concentration asked for." loading="lazy">
+  <figcaption>Convert to moles, apply the ratio, convert to the answer.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

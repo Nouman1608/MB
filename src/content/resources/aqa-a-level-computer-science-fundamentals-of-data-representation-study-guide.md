@@ -44,6 +44,12 @@ To negate a number, invert all the bits and add 1. To subtract, add the two's co
 
 You must also be able to add and multiply binary numbers, and apply the bitwise operations **AND**, **OR**, **XOR** and **NOT**. A logical shift left multiplies an unsigned number by 2, and a shift right divides by 2 (with the remainder lost).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--01-twos-complement.webp" width="900" height="800" alt="Writing 45 as 00101101, inverting every bit to 11010010 and adding 1 gives 11010011. The place values are -128, 64, 32, 16, 8, 4, 2 and 1, and the 1 bits sum to -128 + 64 + 16 + 2 + 1 = -45." loading="lazy">
+  <figcaption>Invert every bit and add 1 to negate in two’s complement.</figcaption>
+</figure>
+
+
 ## Fixed and floating point
 
 **Fixed point** places the binary point at a set position, so the range and precision are both limited. **Floating point** stores a number as **mantissa x 2^exponent**, with both parts in two's complement. The mantissa holds the significant digits and the exponent moves the binary point, which gives a much larger range for the same number of bits.
@@ -63,6 +69,12 @@ Trade-offs: more bits in the mantissa give greater **precision**; more bits in t
 **(c)** Represent -2.5 in the same format.
 
 2.5 = 10.1 = 0.101 x 2^2. Positive mantissa: 0.1010000. Two's complement of this is 1.0110000, which starts 10 so it is normalised. Exponent 2: 0010. Check: 1.0110000 = -1 + 0.25 + 0.125 = -0.625; -0.625 x 4 = -2.5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--02-floating-point.webp" width="900" height="800" alt="Two examples use an 8-bit mantissa with the binary point after the first bit and a 4-bit exponent. 5.75 is 0.10111 x 2^3, stored as mantissa 01011100 and exponent 0011. -2.5 is 0.101 x 2^2; the mantissa 1.0110000 and exponent 0010 start with two different bits, so they are normalised." loading="lazy">
+  <figcaption>Normalised mantissas start 01 (positive) or 10 (negative), and the exponent moves the point.</figcaption>
+</figure>
+
 
 ## Character sets and error detection
 
@@ -87,11 +99,33 @@ An image is 800 x 600 pixels at 24 bits per pixel. Size = 800 x 600 x 24 = 11,52
 
 A stereo recording lasts 40 seconds at 22,050 Hz with 16-bit samples. Size = 22,050 x 16 x 40 x 2 = 28,224,000 bits = 3,528,000 bytes, which is about 3.53 MB.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--03-bitmap-size.webp" width="900" height="820" alt="An 800 by 600 pixel bitmap stores each pixel as 24 bits. 800 x 600 x 24 = 11,520,000 bits, which is 1,440,000 bytes or 1.44 MB (1,406.25 KiB)." loading="lazy">
+  <figcaption>Bitmap size in bits is width x height x colour depth; divide by 8 for bytes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--04-sound-samples.webp" width="900" height="960" alt="A wave is measured at regular intervals; each dot is a sample stored with a set number of bits. Stereo sound for 40 s at 22,050 Hz and 16 bits is 22,050 x 16 x 40 x 2 = 28,224,000 bits, about 3.53 MB. The sample rate must be at least twice the highest frequency." loading="lazy">
+  <figcaption>Sound size = sample rate x resolution x seconds x channels.</figcaption>
+</figure>
+
+
 ## Compression and encryption
 
 **Lossless** compression allows the original to be rebuilt exactly; **lossy** compression permanently discards detail (JPEG and MP3). **Run-length encoding** (RLE) stores each run as a value and a count: WWWWBBWWWWWWB becomes (W,4), (B,2), (W,6), (B,1): 13 characters become 4 pairs. RLE works well on long runs, and badly on varied data. **Dictionary-based** compression replaces repeated sequences with short references to a table of entries. A larger dictionary can find more repeats, but the dictionary itself takes space.
 
 **Encryption** protects data from unauthorised reading. The **Caesar cipher** shifts each letter by a fixed amount: with a shift of 5, CABLE becomes HFGQJ. It is easily broken by trying all 25 shifts or by frequency analysis. The **Vernam cipher** (one-time pad) XORs the data with a truly random key at least as long as the message, used only once. With plaintext 1001101 and key 0110111, the ciphertext is 1111010; XOR again with the key to recover 1001101. Used correctly it cannot be broken, but the key must be shared securely and never reused, which is hard in practice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--05-run-length-encoding.webp" width="900" height="640" alt="WWWWBBWWWWWWB has four runs, stored as (W,4), (B,2), (W,6), (B,1): 13 characters become 4 pairs. RLE suits long runs and not varied data." loading="lazy">
+  <figcaption>Run-length encoding stores each run as a value and a count.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide--06-vernam-cipher.webp" width="900" height="900" alt="Plaintext 1001101 XOR key 0110111 gives ciphertext 1111010. XOR with the same key again returns 1001101. The key must be truly random, as long as the message and used once." loading="lazy">
+  <figcaption>XOR with a random one-use key encrypts, and XOR with the same key decrypts.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

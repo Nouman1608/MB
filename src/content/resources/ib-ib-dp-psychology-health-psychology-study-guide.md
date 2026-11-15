@@ -43,6 +43,12 @@ A determinant is a factor that raises or lowers the likelihood of good or poor h
 
 A strong answer does not list these in isolation. For example, low income (sociocultural) may limit access to healthy food, which affects weight (biological), while repeated failure to change habits can reduce self-efficacy (cognitive).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--01-hp-determinants.webp" width="900" height="980" alt="Three overlapping circles labelled biological (genes, hormones, stress response), cognitive (beliefs, perceived control, self-efficacy) and sociocultural (income, education, social support), all overlapping at health. Below, a three-step example: low income limits healthy food access, which affects weight, and repeated failure to change habits lowers self-efficacy, showing the determinants interact." loading="lazy">
+  <figcaption>The three kinds of determinant interact; the lesson example links income, weight and self-efficacy.</figcaption>
+</figure>
+
+
 ## Stress
 
 Stress is a response to a perceived demand that exceeds a person's perceived ability to cope.
@@ -54,6 +60,17 @@ Stress is a response to a perceived demand that exceeds a person's perceived abi
 **Measuring stress.** Holmes and Rahe developed a life-events scale that gave each event a weighting. It is simple to use, but critics point out that it treats all people alike, ignores appraisal and assumes that change itself, rather than the meaning of change, is stressful.
 
 **Coping.** Problem-focused coping tackles the source of stress; emotion-focused coping manages the feelings it produces. Neither is always better. Which works best depends on whether the situation can actually be changed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--02-hp-gas.webp" width="900" height="840" alt="Three boxes in order, each with a simple icon: stage 1 alarm (warning triangle), stage 2 resistance (shield), stage 3 exhaustion (nearly empty battery). Below, a short bar labelled short burst, adaptive, and a long bar labelled prolonged activation, linked with raised illness risk. A box notes that students sampled around exams showed lowered immune activity (Kiecolt-Glaser and colleagues)." loading="lazy">
+  <figcaption>Selye describes alarm, resistance and exhaustion; prolonged activation is linked with raised illness risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--03-hp-appraisal.webp" width="900" height="930" alt="A flow chart. One event leads to two people. Person A judges it a challenge in primary appraisal and has the resources to cope in secondary appraisal, so less stress. Person B judges it a threat and lacks the resources to cope, so more stress. This is an illustrative example of Lazarus and Folkman transactional model: stress depends on appraisal." loading="lazy">
+  <figcaption>Primary and secondary appraisal explain why two people react differently to the same event.</figcaption>
+</figure>
+
 
 ## Addiction, obesity and other health problems
 
@@ -76,6 +93,17 @@ Health promotion tries to change behaviour at the level of the individual, the c
 
 When evaluating promotion, ask who the target is, what was measured (intention or actual behaviour), how long the follow-up lasted and whether the sample resembles the people you want to generalise to.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--04-hp-hbm.webp" width="900" height="880" alt="Five boxes on the left feed into a circle labelled will the person act. Perceived susceptibility, perceived severity and perceived benefits each have a plus sign. Perceived barriers has a minus sign. Cues to action has an exclamation mark, meaning it prompts action." loading="lazy">
+  <figcaption>Five factors feed into whether a person acts on their health.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--05-hp-stages.webp" width="900" height="910" alt="A descending staircase of five stages in order: 1 precontemplation, 2 contemplation, 3 preparation, 4 action, 5 maintenance. A dashed arrow from maintenance back to the top is labelled may relapse. A box says to match the intervention to the stage a person is in." loading="lazy">
+  <figcaption>People move through five stages and may relapse; interventions should match the stage.</figcaption>
+</figure>
+
+
 ## Worked example: evaluating an intervention
 
 The data below are fictional and for practice only.
@@ -92,6 +120,12 @@ The difference is 14% - 7% = 7 percentage points. The programme group's quit rat
 **Step 3: evaluate.** The result suggests the programme is associated with a higher quit rate, but quote the limits. Quitting was self-reported, so participants may have exaggerated; the groups were not described as randomly assigned, so motivated smokers may have chosen the programme; and six months says nothing about long-term maintenance. A strong paragraph would link this back to a model, for example saying that the programme's gains fit the idea that raising perceived benefits and self-efficacy increases action.
 
 Notice that the answer separates calculation, interpretation and evaluation. Examiners reward that structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--06-hp-quit-rates.webp" width="900" height="800" alt="Bar chart from the lesson fictional data. Programme group: 56 of 400 smokers quit, 14 percent. Comparison group: 28 of 400, 7 percent. The difference is 7 percentage points, so the programme rate is 2 times the comparison rate. Three limits are shown: quitting was self-reported, groups were not randomly assigned, and follow-up was only six months." loading="lazy">
+  <figcaption>Quit rates of 14% and 7% give a 7 percentage point difference, but three limits stop us claiming cause.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

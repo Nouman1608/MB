@@ -52,6 +52,17 @@ Depth Study E was introduced in the 2024-2026 syllabus. It is examined in **Pape
 
 **Stalingrad.** In 1942 German forces pushed towards Stalingrad and the Caucasus. The Red Army held the city, then encircled the German Sixth Army under Paulus, which surrendered in February 1943. It was a turning point because Germany lost a whole army and the strategic initiative in the east.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--08-ww-sealion.webp" width="900" height="954" alt="Schematic of the Channel with Operation Sea Lion crossed out because it needed air superiority, followed by the RAF’s three strengths, Germany’s switch to bombing cities and Sea Lion’s postponement." loading="lazy">
+  <figcaption>Why Germany could not invade Britain in 1940.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--09-ww-europe-timeline.webp" width="900" height="1089" alt="Vertical timeline from Poland in September 1939 to Stalingrad in February 1943, with German advances in gold and turning points in teal." loading="lazy">
+  <figcaption>German advances and turning points in Europe, 1939-43.</figcaption>
+</figure>
+
+
 ## Key question 2: the war in the Asia-Pacific
 
 **Relations deteriorate.** Japan's expansion into Manchuria (1931) and China (1937), its alliance with Germany and Italy (1940) and its occupation of French Indochina led the USA to freeze Japanese assets and stop oil sales in 1941. Japan, dependent on imported oil, decided to seize the resources of Southeast Asia and strike the US fleet first.
@@ -62,6 +73,17 @@ Depth Study E was introduced in the 2024-2026 syllabus. It is examined in **Pape
 
 **Midway (June 1942).** US codebreakers revealed Japan's plan, allowing Admiral Nimitz to prepare an ambush. American dive-bombers sank four Japanese carriers. After Midway Japan could no longer expand, and US industrial strength began to tell.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--10-ww-pearl-harbor.webp" width="900" height="1026" alt="Flow from Japan’s expansion and the 1941 oil embargo to the decision to strike, then eight battleships sunk or damaged, with the carriers and fuel stores missed." loading="lazy">
+  <figcaption>How the oil embargo led to Pearl Harbor and what it missed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--11-ww-malaya.webp" width="900" height="801" alt="A timeline bar from the 8 December 1941 landing to the 15 February 1942 surrender (69 days, calculated from the lesson’s dates) with three reasons for Japanese success." loading="lazy">
+  <figcaption>69 days from landing to surrender, and three reasons why.</figcaption>
+</figure>
+
+
 ## Key question 3: civilians at war
 
 - **The Blitz (1940-41):** London was bombed for 57 consecutive nights from September 1940; cities such as Coventry were devastated. Civilians sheltered in the Underground and Anderson shelters; children were evacuated. Morale was strained but held.
@@ -69,6 +91,12 @@ Depth Study E was introduced in the 2024-2026 syllabus. It is examined in **Pape
 - **Japanese rule in Malaya and Singapore:** the *Sook Ching* massacres of Chinese civilians, the Kempeitai's brutality, shortages of rice and medicine, worthless occupation currency, and forced labour; Malays and Indians were treated differently from Chinese as Japan tried to divide the population.
 - **Nazi rule in Poland:** Poland was divided with the USSR in 1939; western areas were annexed and the rest ruled as the General Government. Polish leaders and teachers were killed, Jews forced into ghettos such as Warsaw, then from 1941-42 murdered in mass shootings and death camps such as Auschwitz-Birkenau and Treblinka. About six million Jews died in the Holocaust.
 - **Resistance:** in **France**, sabotage, intelligence and escape networks, and Maquis fighters with British SOE support, especially around D-Day; in **Malaya**, the Malayan People's Anti-Japanese Army fought a jungle guerrilla war. Resistance was costly, provoked reprisals, and could not liberate territory alone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--12-ww-civilians.webp" width="900" height="823" alt="Five cards: the Blitz (57 nights, drawn as 57 dots), bombing of Germany, Japanese rule in Malaya, Nazi rule in Poland, and resistance in France and Malaya." loading="lazy">
+  <figcaption>Five civilian experiences of the war.</figcaption>
+</figure>
+
 
 ## Key question 4: Allied victory
 
@@ -79,6 +107,12 @@ Depth Study E was introduced in the 2024-2026 syllabus. It is examined in **Pape
 **Japan's defeat.** The six-month battle for **Guadalcanal** (1942-43) began the US counter-offensive. **Island-hopping** took key islands while bypassing others; **Okinawa** (1945) showed how costly an invasion of Japan would be. B-29 fire-raids devastated Japanese cities. Truman authorised the **atomic bombs** on Hiroshima and Nagasaki (August 1945); with the Soviet declaration of war, they led Japan to surrender. Arguments for the decision: saving US and Japanese lives compared with invasion; ending the war quickly. Against: huge civilian death toll; Japan may already have been near surrender; a warning to the USSR.
 
 **Consolidating victory.** Germany and Berlin were divided into four zones; Japan was occupied by the USA under MacArthur, demilitarised and democratised. War crimes trials at **Nuremberg** and **Tokyo** established that leaders could be punished for aggression and atrocities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--13-ww-victory.webp" width="900" height="1177" alt="Two parallel step lists, Europe from Sicily in July 1943 to German surrender in May 1945 and the Asia-Pacific from Guadalcanal to Japan’s surrender, both leading to occupation and war crimes trials." loading="lazy">
+  <figcaption>Two roads to Allied victory.</figcaption>
+</figure>
+
 
 ## Worked example: a (b) answer
 

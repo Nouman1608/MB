@@ -54,6 +54,17 @@ Learn the pattern: AND has exactly one 1, OR has exactly one 0, NAND and NOR are
 
 Each gate has its own standard symbol. NOT is a triangle with a small circle at its output. AND has a flat back and curved front. OR has a curved back and a pointed front. The small circle on a NAND or NOR symbol means "inverted", and XOR looks like OR with an extra curved line across the back. Draw gates large, label every input and the output, and make sure each wire clearly joins a gate.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--07-gate-symbols.webp" width="900" height="800" alt="The six gate symbols, each with inputs and output X and a one-line rule." loading="lazy">
+  <figcaption>Standard symbols for NOT, AND, OR, NAND, NOR and XOR.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--08-two-input-table.webp" width="900" height="720" alt="Two-input truth table for AND, NAND, OR, NOR and XOR, with NAND and NOR shown as opposites of AND and OR." loading="lazy">
+  <figcaption>AND has one 1, OR has one 0, NAND and NOR are their opposites, XOR is 1 when inputs differ.</figcaption>
+</figure>
+
+
 ## Building truth tables
 
 A truth table lists every combination of inputs and the resulting output. For n inputs there are 2^n rows: 4 rows for two inputs, 8 rows for three inputs. Write the input rows in binary counting order (000, 001, 010, 011 and so on) so you do not miss or repeat one.
@@ -66,11 +77,23 @@ Reading a circuit, write the output of each gate in terms of its inputs, then co
 
 Going the other way, build from the inside out: start with the innermost bracket, draw that gate, then feed its output into the next gate. Circuits at this level have at most three inputs and one output, and they are small, so if you find yourself drawing a very large circuit, check your expression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--09-circuit-to-expression.webp" width="900" height="570" alt="A circuit where B goes through NOT, A and NOT B go to AND, and that result and C go to OR. The expression is X = (A AND NOT B) OR C." loading="lazy">
+  <figcaption>Name each wire, then combine with brackets.</figcaption>
+</figure>
+
+
 ## Writing a logic expression from a problem statement
 
 Read the sentence and spot the key words. "Both" or "and" suggests AND. "Either" or "or" suggests OR. "Not" or "unless" suggests NOT. Break the statement into parts, give each condition a letter, then join them.
 
 For example: "A safe alarm sounds (S = 1) when the door is open (D = 1) and the keypad is not unlocked (K = 0), or when the panic button is pressed (P = 1)." Then S = (D AND NOT K) OR P.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--11-sentence-to-expression.webp" width="900" height="800" alt="Phrases of the safe alarm sentence map to D, AND, NOT K, OR and P, giving S = (D AND NOT K) OR P." loading="lazy">
+  <figcaption>Key words in the sentence become gates.</figcaption>
+</figure>
+
 
 ## Worked example 1: a three-input truth table
 
@@ -91,6 +114,12 @@ First find NOT B, then A AND NOT B, then OR with C. Work row by row:
 
 The output is 1 in rows 2, 4, 5, 6 and 8, so X has five 1s and three 0s. Check one row by hand: A = 1, B = 1, C = 0. NOT B is 0, so A AND NOT B is 0. C is 0, so 0 OR 0 gives 0. The table shows 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--10-truth-table-three.webp" width="900" height="838" alt="Eight-row table for X = (A AND NOT B) OR C with working columns; X is 1 in rows 2, 4, 5, 6 and 8; row 7 is checked by hand." loading="lazy">
+  <figcaption>Fill one column at a time, left to right.</figcaption>
+</figure>
+
+
 ## Worked example 2: XOR and NOR in a circuit
 
 Complete the truth table for P = (A XOR B) AND (NOT C), and for Q = (A NOR B) AND C.
@@ -107,6 +136,12 @@ Complete the truth table for P = (A XOR B) AND (NOT C), and for Q = (A NOR B) AN
 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |
 
 P is 1 only when A and B differ and C is 0, which happens in rows 3 and 5. Q is 1 only when A and B are both 0 and C is 1, which happens only in row 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-boolean-logic-study-guide--12-xor-nor-table.webp" width="900" height="800" alt="Truth table for P = (A XOR B) AND (NOT C) and Q = (A NOR B) AND C. P is 1 in rows 3 and 5; Q is 1 only in row 2." loading="lazy">
+  <figcaption>Work each bracket first, then the final gate.</figcaption>
+</figure>
+
 
 ## Worked example 3: expression from a truth table
 

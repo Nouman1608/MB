@@ -62,6 +62,17 @@ These notes condense **sections 3.2.4.1 Why countries trade and the importance o
 - The UK usually has a **deficit on goods** and a **surplus on services**.
 - The European Union, as a group, is the UK's largest trading partner. The USA is the largest single country for UK exports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--08-tx-uk-exports-imports.webp" width="900" height="920" alt="Two pairs of bars, with illustrative lengths showing the general pattern. Services: UK exports (financial services, insurance, business services, education, tourism) are a longer bar than imports, so the UK sells more services than it buys. Goods: UK exports (cars, machinery, medicines) are a shorter bar than imports (machinery, vehicles, fuels, food, clothing), so in recent decades the UK has tended to buy more goods than it sells." loading="lazy">
+  <figcaption>The UK tends to export more services than it imports and import more goods than it exports.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--12-tx-converting-prices.webp" width="900" height="830" alt="Worked example with illustrative numbers. When the pound falls from 1 pound equals 1.40 dollars to 1 pound equals 1.20 dollars, a UK jacket priced at 50 pounds costs a US buyer 50 times 1.40, which is 70 dollars, before and 50 times 1.20, which is 60 dollars, after, so UK exports become cheaper abroad. A US laptop priced at 600 dollars costs a UK buyer 600 divided by 1.40, which is 428.57 pounds, before and 600 divided by 1.20, which is 500 pounds, after, so imports become dearer in the UK." loading="lazy">
+  <figcaption>A fall in the pound makes UK exports cheaper abroad and imports dearer in the UK.</figcaption>
+</figure>
+
+
 ### Consequences of global interdependence for the UK
 
 | Advantages | Risks |
@@ -70,6 +81,12 @@ These notes condense **sections 3.2.4.1 Why countries trade and the importance o
 | Large export markets for UK firms | Problems in supply chains abroad can cause shortages and price rises (as in 2021–22) |
 | Foreign investment and jobs in the UK | Rises in world energy and food prices feed into UK inflation |
 | Shared technology and ideas | UK firms can lose out to cheaper foreign producers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--09-tx-interdependence.webp" width="900" height="840" alt="Benefits of interdependence for the UK: cheaper imports and large export markets. Three risks shown as chains. A recession abroad means less demand for UK exports, so UK jobs are at risk. Disrupted supply chains or higher world energy prices make UK prices rise. Strong competition from abroad means uncompetitive UK firms may close." loading="lazy">
+  <figcaption>Interdependence brings cheaper imports and large export markets, but three kinds of risk.</figcaption>
+</figure>
+
 
 ### Calculations and data
 
@@ -120,6 +137,12 @@ Memory aid: **SPICED**, Strong Pound, Imports Cheap, Exports Dear. A weak pound 
 | Inflation | Tends to fall (cheaper imports) | Tends to rise (dearer imports) |
 | Current account | May worsen | May improve, if demand responds |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--13-tx-strong-weak-pound.webp" width="900" height="915" alt="The SPICED rule: Strong Pound, Imports Cheap, Exports Dear. A table compares a strong pound with a weak pound. UK consumers: with a strong pound imports and foreign holidays are cheaper; with a weak pound they cost more and prices may rise. UK exporters: with a strong pound exports are dearer abroad so sales may fall; with a weak pound exports are cheaper abroad so sales may rise. UK firms using imported materials: costs fall with a strong pound; costs rise with a weak pound and may be passed on as higher prices." loading="lazy">
+  <figcaption>SPICED: with a strong pound, imports are cheap and exports dear; the weak pound reverses this.</figcaption>
+</figure>
+
+
 ### Calculations you must be able to do
 
 **1. Converting prices.** At £1 = $1.25:
@@ -166,6 +189,17 @@ Rule: going from pounds to dollars, **multiply** by the rate; going from dollars
 8. 90 ÷ 1.20 = £75.
 9. They fall in foreign currency, so UK exports become more competitive.
 10. Exporters, and UK firms competing with imports; foreign tourists visiting the UK also pay more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--10-tx-exchange-rate-market.webp" width="900" height="1010" alt="A supply and demand diagram for the pound in a floating exchange-rate system. The vertical axis is the price of one pound in dollars and the horizontal axis is the quantity of pounds traded. Demand for pounds slopes down and comes from people abroad buying UK exports, visiting the UK or investing in the UK. Supply of pounds slopes up and comes from UK residents buying imports, holidaying abroad or investing overseas. They cross at an equilibrium of 1 pound equals 1.40 dollars (illustrative)." loading="lazy">
+  <figcaption>In a floating system the exchange rate is set where demand for pounds equals supply of pounds.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-international-trade-and-exchange-rates--11-tx-pound-rises-or-falls.webp" width="900" height="1090" alt="Two exchange-rate diagrams with illustrative numbers. Top: demand for pounds rises from D1 to D2, for example because of more demand for UK exports or higher UK interest rates, so the pound appreciates from 1.40 to 1.60 dollars. Bottom: supply of pounds rises from S1 to S2 because UK consumers buy more imports, so the pound depreciates from 1.40 to 1.20 dollars." loading="lazy">
+  <figcaption>More demand for pounds makes the pound appreciate; more supply of pounds makes it depreciate.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

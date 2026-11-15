@@ -72,6 +72,12 @@ costs. At **Dien Bien Phu** (March–May 1954) the French built a fortified base
 dragged artillery onto the surrounding hills and forced the garrison to surrender on 7 May 1954. Defeat
 ended France's will to fight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--02-vn-france-dbp.webp" width="900" height="715" alt="Schematic cross-section of a valley with a fortified French base on its floor and Vietminh artillery on the hills either side, firing down. The siege ran March to May 1954 and the garrison surrendered on 7 May." loading="lazy">
+  <figcaption>Giap’s artillery on the hills trapped the French base in the valley.</figcaption>
+</figure>
+
+
 ## Why did the USA become involved, 1954–64?
 
 The **Geneva Conference** (1954) divided Vietnam temporarily at the **17th parallel**, with elections for
@@ -90,6 +96,12 @@ them off from the NLF, but it was resented and largely failed. Diem was overthro
 in November 1963. In August 1964 the **Gulf of Tonkin incident** — reported attacks on US destroyers —
 led Congress to pass a resolution giving President Johnson power to take military action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--03-vn-division.webp" width="900" height="935" alt="Schematic, not a map. Vietnam split at the 17th parallel into a communist North under Ho Chi Minh and a South under Diem backed by the USA. The NLF fights Diem and is supplied along the Ho Chi Minh Trail through Laos and Cambodia. The 1956 elections were refused." loading="lazy">
+  <figcaption>The country divided in 1954 and the supply line that fed the NLF.</figcaption>
+</figure>
+
+
 ## How and why did the war escalate, 1964–68?
 
 **Lyndon Johnson**, advised by Defence Secretary **Robert McNamara**, launched **Operation Rolling Thunder**
@@ -106,6 +118,17 @@ in Saigon. The battle for the old capital **Hue** lasted about a month. Militari
 communists, but it shattered official claims that the war was being won; Johnson announced in March
 1968 that he would not seek re-election.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--04-vn-escalation.webp" width="900" height="804" alt="Five steps rising from the Gulf of Tonkin incident in 1964 to over half a million US troops in 1968." loading="lazy">
+  <figcaption>Each step made a larger US commitment likely.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--05-vn-tet.webp" width="900" height="712" alt="Khe Sanh, Tet and Hue lead to two results: a military defeat for the communists but shattered American confidence, ending with Johnson not seeking re-election in March 1968." loading="lazy">
+  <figcaption>Tet was a military defeat but a political turning point.</figcaption>
+</figure>
+
+
 ## How did Nixon and Ford end US involvement, 1969–75?
 
 **Nixon** promised "peace with honour". **Vietnamisation** handed fighting to the South Vietnamese army
@@ -118,6 +141,12 @@ Peace Accords** were signed in January 1973, and the last US combat troops left 
 The North launched a renewed offensive. Congress refused President **Ford**'s requests for more aid to
 the South, and the **final offensive** of March–April 1975 swept south; **Saigon fell on 30 April 1975**
 and Vietnam was reunited under communist rule.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--06-vn-withdrawal.webp" width="900" height="852" alt="Vietnamisation shown as US troop figures fading out while South Vietnamese army figures fade in, then the widening of the war into Cambodia and Laos, then the Paris Peace Accords, last US troops leaving and the fall of Saigon." loading="lazy">
+  <figcaption>Vietnamisation, the widened war and the end.</figcaption>
+</figure>
+
 
 ## What was the war's impact on civilians and on the USA?
 
@@ -132,6 +161,12 @@ in May 1970 the National Guard shot four students dead. **Media coverage** of Te
 doubts, though **pro-war demonstrations** showed that many Americans still supported the war. In the
 **Fulbright Hearings** (1971), the Senate Foreign Relations Committee heard testimony from veterans,
 including John Kerry of Vietnam Veterans Against the War.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--07-vn-impact.webp" width="900" height="925" alt="Two columns of icons: effects on Vietnamese civilians (napalm, Agent Orange, bombing and refugees, My Lai, Phoenix Programme) and in the USA (protests, draft-card burnings, Kent State, television coverage, Fulbright Hearings), with a note on pro-war demonstrations." loading="lazy">
+  <figcaption>The war harmed civilians in Vietnam and divided opinion in the USA.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -152,3 +187,9 @@ withdrawing Americans.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Historical Investigation A4 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-vietnam--01-vn-timeline.webp" width="900" height="960" alt="Vertical timeline of ten dates from 2 September 1945 to 30 April 1975, with marker shapes for the four phases of the war." loading="lazy">
+  <figcaption>The ten dates to know, in order.</figcaption>
+</figure>
+

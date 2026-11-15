@@ -48,6 +48,12 @@ System software provides services for the computer; **application software** car
 - **Security management**: user accounts and passwords, access rights to files, protection against unauthorised use, and often firewall and anti-malware support.
 - **Provision of a user interface** so that people can control the computer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--07-ss-os.webp" width="900" height="1040" alt="Application software sits above the operating system, which holds six tiles: hardware, process, memory, file and security management, and the user interface. Device drivers sit below it, connecting to the screen, disk and keyboard." loading="lazy">
+  <figcaption>Where the operating system sits between applications and hardware and what it manages.</figcaption>
+</figure>
+
+
 ### User interfaces
 
 A **command line interface (CLI)** takes typed commands. It is fast for an expert and uses few resources, but the commands must be learned and exactly typed. A **graphical user interface (GUI)** uses windows, icons, menus and a pointer (WIMP), and is easy to learn and use but needs more memory and processing power. Other interfaces include **touch**, **voice** and gesture control, which suit mobile devices and hands-free use but may be less accurate or may be unsuitable in noisy or public places.
@@ -63,9 +69,21 @@ A **command line interface (CLI)** takes typed commands. It is fast for an exper
 - **File compression**: reduces the size of files to save space or transmission time.
 - **Back-up software**: copies data to another location so that it can be restored after loss, and can be set to run on a schedule or to copy only the changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--09-ss-defrag.webp" width="900" height="960" alt="Before defragmentation the five blocks of file A are scattered and the head makes four jumps; after it, each file is contiguous and file A needs none. A solid-state drive has no moving head, so it needs no defragmenting. The block pattern is illustrative." loading="lazy">
+  <figcaption>Why defragmentation helps a magnetic disk and is unnecessary on an SSD.</figcaption>
+</figure>
+
+
 ### Program libraries and DLLs
 
 A **program library** is a collection of pre-written, tested routines that a programmer can call rather than write again. This saves time, reduces errors and gives access to complex functions such as graphics. A **dynamic link library (DLL)** is loaded when the program runs, not built into it, so many programs share a single copy in memory, the executable is smaller, and a library update benefits every program that uses it with no recompilation. The drawback is that a program fails if the library is missing or is replaced by an incompatible version.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--10-ss-dll.webp" width="900" height="1150" alt="With the library built in, three programs each hold a copy. With a DLL they share one copy loaded at run time and are smaller. If the DLL is missing or incompatible the program fails." loading="lazy">
+  <figcaption>Built-in library copies versus one shared DLL, and the drawback.</figcaption>
+</figure>
+
 
 ### Worked example 1: handling a keypress interrupt
 
@@ -79,6 +97,12 @@ A user presses a key while a word processor is running. The sequence is:
 6. The saved registers are restored and the word processor carries on from where it stopped.
 
 Without interrupts, the processor would need to **poll** every device continually, which wastes time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--08-ss-interrupt.webp" width="900" height="1040" alt="Six numbered steps run down a coloured timeline: the interrupt is sent, the instruction finishes, the priority is checked, registers are saved, the interrupt service routine buffers the key code, and registers are restored so the program resumes." loading="lazy">
+  <figcaption>The six steps the processor takes to handle a keypress interrupt.</figcaption>
+</figure>
+
 
 ## 5.2 Language translators
 
@@ -111,6 +135,12 @@ print(total / 0)
 
 The output is `Start` and `Total is 10`, and then the program stops with a division-by-zero error on line 4. A **runtime error** only happens when the line is reached, so the lines before it ran. Now suppose line 3 had a missing closing bracket. Python reports a syntax error before running anything, so `Start` is not printed, because Python first translates the entire file to bytecode and so detects syntax errors in advance. A purely line-by-line interpreter would print `Start` and then stop at the faulty line, while a compiler would report the syntax error and make no object code at all. Behaviour differs between languages, so describe the principle, not one product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--12-ss-errors.webp" width="900" height="1080" alt="Four rows show lines 1 to 4. A run-time error on line 4 lets lines 1 to 3 run. A syntax error on line 3 prints nothing in Python or with a compiler, but a line-by-line interpreter prints Start before stopping." loading="lazy">
+  <figcaption>Which lines run for a run-time error and for a syntax error under three kinds of translator.</figcaption>
+</figure>
+
+
 ### Integrated development environments
 
 An **integrated development environment (IDE)** brings together the tools a programmer needs. Features you should be able to describe include:
@@ -121,6 +151,17 @@ An **integrated development environment (IDE)** brings together the tools a prog
 - **Debugging tools**: **breakpoints** that pause the program at a chosen line, **single stepping** that runs one statement at a time, and **variable watch** or report windows that show values as they change.
 - **Pretty printing** that lays out code in a standard format.
 - An **in-built translator** (compiler or interpreter).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--11-ss-translators.webp" width="900" height="960" alt="A compiler translates the whole program once into object code, and every run reuses it without the source. An interpreter translates statement by statement on every run, so a four-line program run three times needs twelve statement translations. The run count is illustrative." loading="lazy">
+  <figcaption>Why a compiler translates once but an interpreter translates again on every run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-system-software-study-guide--13-ss-ide.webp" width="900" height="1030" alt="An IDE window shows the example program paused at a breakpoint on line 3, with a step button, a watch window showing total equals 10 and an output window. Numbered callouts name the breakpoint, single step, watch window and syntax highlighting." loading="lazy">
+  <figcaption>Breakpoint, single step, watch window and syntax highlighting shown on one IDE mock-up.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

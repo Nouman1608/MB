@@ -88,6 +88,17 @@ featured: false
 - **Continuity/intolerance:** Red Scare; quotas; Sacco and Vanzetti; Scopes Trial; Ku Klux Klan; segregation.
 - **Prohibition:** *in* (1920) -- temperance groups, churches, anti-German feeling, belief alcohol caused crime; *out* (1933) -- unenforceable, gangsters, corruption, lost taxes, Depression.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--16-us-intolerance.webp" width="900" height="843" alt="A dated list from the 1919-20 Palmer Raids to the 1927 execution of Sacco and Vanzetti, with the Klan’s membership and targets." loading="lazy">
+  <figcaption>Signs of intolerance in the 1920s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--17-us-prohibition.webp" width="900" height="797" alt="A 1920 to 1933 bar (13 years) above two columns: reasons Prohibition began and reasons it was repealed." loading="lazy">
+  <figcaption>Why Prohibition began and why it ended.</figcaption>
+</figure>
+
+
 ## Key question 3: the Crash
 
 **Short-term trigger:** speculation and margin buying; panic selling on Black Thursday (24 October) and Black Tuesday (29 October 1929).
@@ -104,6 +115,22 @@ featured: false
 | Limited federal action; RFC | Active government; relief for the unemployed |
 | Bonus Army cleared by troops | Energetic record as Governor of New York |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--14-us-boom.webp" width="900" height="858" alt="Five causes of the boom drawn as arrows into a circle labelled Boom, with a note that it was real but narrow." loading="lazy">
+  <figcaption>Five causes of the 1920s boom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--15-us-left-behind.webp" width="900" height="933" alt="Two columns separated by a dashed line: those who prospered (industry, urban middle class, investors) and those left behind (coal, cotton, railways, farmers, Black Americans in the South, Native Americans, recent immigrants)." loading="lazy">
+  <figcaption>Who prospered and who was left behind.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--18-us-crash.webp" width="900" height="1079" alt="Flow from speculation and the October 1929 fall, through five deeper causes, to bank failures, 13 million unemployed, Hoovervilles and Roosevelt’s 1932 win." loading="lazy">
+  <figcaption>Causes and consequences of the Wall Street Crash.</figcaption>
+</figure>
+
+
 ## Key question 4: the New Deal
 
 | First New Deal (1933) | Second New Deal (1935) |
@@ -117,6 +144,22 @@ featured: false
 **Opponents:** Republicans; the rich; business (Liberty League); the Supreme Court (NRA, AAA struck down); Huey Long ("Share Our Wealth").
 
 **Success:** banks saved; relief and jobs; Social Security; TVA; faith in democracy. **Failure:** unemployment stayed high; 1937-38 recession; limited help for Black Americans.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--19-us-new-deal-agencies.webp" width="900" height="922" alt="Two columns of agencies: six from the 1933 Hundred Days (Emergency Banking Act, CCC, FERA, AAA, TVA, NRA) and three from 1935 (WPA, Social Security Act, Wagner Act), each with a short purpose." loading="lazy">
+  <figcaption>Which New Deal agencies belong to 1933 and which to 1935.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--20-us-new-deal-opposition.webp" width="900" height="1070" alt="The New Deal in a circle with arrows from Republicans and business, the rich and the Supreme Court (too much) and from Huey Long (not enough)." loading="lazy">
+  <figcaption>Who opposed the New Deal and why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-usa-1919-41--21-us-new-deal-verdict.webp" width="900" height="1015" alt="Bars on a 0 to 14 million scale: about 13 million unemployed in 1933 and 8 to 10 million for much of the 1930s, with four lasting gains of the New Deal." loading="lazy">
+  <figcaption>Unemployment stayed high but the New Deal had lasting gains.</figcaption>
+</figure>
+
 
 ## Worked example: a (c) judgement sentence
 

@@ -53,6 +53,12 @@ The **central nervous system (CNS)** is the brain and spinal cord. The brain pro
 - The **somatic nervous system** carries sensory information to the CNS and motor commands to skeletal muscles; it controls voluntary movement.
 - The **autonomic nervous system** controls involuntary functions such as heart rate, digestion and breathing. It has a **sympathetic** branch, which arouses the body for action, and a **parasympathetic** branch, which returns it to a resting state ("rest and digest").
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--08-bio-nervous.webp" width="900" height="820" alt="A tree: nervous system divides into CNS (brain, spinal cord) and PNS. PNS divides into somatic (voluntary movement) and autonomic (involuntary functions), and autonomic into sympathetic (arouses for action) and parasympathetic (rest and digest)." loading="lazy">
+  <figcaption>The divisions of the nervous system.</figcaption>
+</figure>
+
+
 ## 2. How do neurons communicate?
 
 There are three types of neuron. **Sensory neurons** carry messages from receptors to the CNS; they have long dendrites and short axons. **Relay neurons** connect sensory and motor neurons inside the CNS and have short dendrites and short axons. **Motor neurons** carry messages from the CNS to muscles and glands; they have short dendrites and long axons. Every neuron has a cell body, dendrites that receive signals and an axon that carries the electrical impulse (action potential), often covered by a myelin sheath that speeds transmission.
@@ -60,6 +66,17 @@ There are three types of neuron. **Sensory neurons** carry messages from recepto
 **Synaptic transmission** is how a signal crosses the tiny gap (synapse) between neurons. When the action potential reaches the axon terminal, **synaptic vesicles** release a **neurotransmitter** into the synaptic cleft. The neurotransmitter diffuses across and binds to **receptor sites** on the postsynaptic neuron. The message is then converted back into an electrical signal, or not, depending on the effect. Transmission is one-directional because vesicles are only on the presynaptic side and receptors only on the postsynaptic side. The neurotransmitter is then broken down or taken back up (reuptake).
 
 **Excitation and inhibition.** An **excitatory** neurotransmitter (such as adrenaline in the brain) makes the postsynaptic neuron more likely to fire. An **inhibitory** neurotransmitter (such as serotonin in many brain pathways) makes it less likely to fire. Whether the postsynaptic neuron fires depends on **summation**: the combined total of excitatory and inhibitory inputs it receives at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--09-bio-neurons.webp" width="900" height="1050" alt="Sensory, relay and motor neurons drawn with dendrites, cell body and axon labelled. Sensory has long dendrites and a short axon, relay has short dendrites and a short axon, motor has short dendrites and a long axon with myelin sheath." loading="lazy">
+  <figcaption>Dendrite and axon lengths tell the three neuron types apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--10-bio-synapse.webp" width="900" height="1160" alt="Cross-section of a synapse showing the axon terminal with vesicles, neurotransmitter in the cleft and receptors on the postsynaptic neuron, with four numbered steps: action potential arrives, vesicles release neurotransmitter, it diffuses across, it binds to receptors." loading="lazy">
+  <figcaption>How a signal crosses the synapse, one way only.</figcaption>
+</figure>
+
 
 ## 3. What does the endocrine system do?
 
@@ -70,6 +87,12 @@ The **endocrine system** uses glands to release **hormones** into the bloodstrea
 When the **amygdala** detects a threat, it signals the **hypothalamus**, which activates the **sympathetic nervous system**. The sympathetic nervous system stimulates the **adrenal medulla**, which releases **adrenaline** into the bloodstream. Adrenaline increases heart rate and blood pressure, dilates the pupils, increases breathing rate, releases glucose for energy and slows digestion, preparing the body to fight or run. When the threat passes, the **parasympathetic** nervous system returns the body to rest.
 
 Evaluation: the response was adaptive for our ancestors facing physical threats, but modern stressors (exams, traffic) are rarely physical, so repeated activation can be harmful. Taylor et al. (2000) proposed that females more often show a "tend and befriend" response, protecting offspring and seeking social support, which suggests the classic model has a gender bias because early research mainly used males.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--11-bio-fight-flight.webp" width="900" height="1090" alt="Flow chart from amygdala to hypothalamus to sympathetic nervous system to adrenal medulla to adrenaline, which causes six effects; when the threat passes the parasympathetic system returns the body to rest." loading="lazy">
+  <figcaption>From threat to adrenaline to bodily effects.</figcaption>
+</figure>
+
 
 ## 5. Where are functions located in the brain?
 
@@ -88,6 +111,17 @@ Evaluation: the response was adaptive for our ancestors facing physical threats,
 
 **Split-brain research.** Sperry (1968) studied patients whose corpus callosum had been cut to treat severe epilepsy, so the hemispheres could no longer communicate. An image was shown to one visual field. When an object was shown to the right visual field (processed by the left hemisphere), the patient could name it. When shown to the left visual field (right hemisphere), the patient could not name it but could pick out the matching object with the left hand. This supported lateralisation of language to the left hemisphere. Evaluation: the sample was small and all had epilepsy, which may have affected brain organisation; and the procedure was highly standardised, which is a strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--12-bio-localisation.webp" width="900" height="1040" alt="A schematic side view of the left hemisphere with six numbered areas: motor, somatosensory, visual, auditory, Broca’s and Wernicke’s, and a key giving each lobe and function." loading="lazy">
+  <figcaption>Where the specification’s brain areas are found.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--13-bio-split-brain.webp" width="900" height="920" alt="An image in the right visual field goes to the left hemisphere, which can name it. An image in the left visual field goes to the right hemisphere, which cannot name it but can pick the matching object with the left hand. The corpus callosum is cut." loading="lazy">
+  <figcaption>Why split-brain patients name only what the left hemisphere sees.</figcaption>
+</figure>
+
+
 ## 6. What is plasticity, and how does the brain recover?
 
 **Plasticity** is the brain's ability to change its structure and function in response to experience and learning. Synaptic connections are formed and lost throughout life (synaptic pruning removes rarely used connections). Maguire et al. (2000) found that London taxi drivers had more grey matter in the posterior hippocampus than control participants, and the amount correlated with time spent in the job, suggesting the brain changes with spatial learning.
@@ -102,6 +136,12 @@ Evaluation: the response was adaptive for our ancestors facing physical threats,
 | EEG | Electrodes on the scalp record overall electrical activity as waves | Excellent temporal resolution; cheap; useful for sleep and epilepsy | Cannot pinpoint the source of activity deep in the brain |
 | ERPs | EEG responses averaged over many trials to isolate the response to a specific stimulus | Excellent temporal resolution; links activity to a specific event | Background noise must be removed; standardisation varies between studies |
 | Post-mortem examination | The brain is studied after death, often comparing with behaviour in life | Allows detailed study of deep structures; led to early discoveries (Broca's Tan) | Damage may be caused by other factors, such as age or illness; consent issues |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-biopsychology--14-bio-fmri-eeg.webp" width="900" height="1000" alt="Three cards: fMRI detects blood oxygenation changes (good spatial, slow timing); EEG records electrical activity from scalp electrodes (excellent timing, cannot locate deep sources); ERP averages EEG over many trials to isolate the response to a stimulus." loading="lazy">
+  <figcaption>fMRI measures blood oxygenation; EEG measures electrical activity.</figcaption>
+</figure>
+
 
 ## 8. Are biological rhythms still on the specification?
 

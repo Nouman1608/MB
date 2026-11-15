@@ -60,6 +60,12 @@ Name one item for each of **input, process, output, storage**, using the words o
 
 Don't translate it line by line — that describes the code, not its purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--08-cs-flowchart-multiples-of-3.webp" width="900" height="1180" alt="A flowchart of the multiples-of-3 algorithm using start/stop, input/output, process and decision symbols. Count starts at 0; four numbers are input; Count rises when a number divides exactly by 3; Count is output at the end." loading="lazy">
+  <figcaption>The same algorithm as pseudocode, drawn with standard flowchart symbols.</figcaption>
+</figure>
+
+
 ## Question type 4: "Choose test data"
 
 Range 1–50 inclusive, whole numbers:
@@ -68,11 +74,23 @@ Range 1–50 inclusive, whole numbers:
 |---|---|---|---|
 | 25 (accept) | 51, 0, "ten" (reject) | 1, 50 (accept) | 0/1 and 50/51 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--12-cs-age-test-data.webp" width="900" height="990" alt="For an age that must be a whole number from 18 to 65 inclusive: 40 is accepted; 70, minus 3 and the word forty are rejected; extreme values 18 and 65 are accepted; boundary values 17 and 66 are rejected while 18 and 65 are accepted." loading="lazy">
+  <figcaption>Test data for an age of 18 to 65, with the accept or reject result for each.</figcaption>
+</figure>
+
+
 ## Question type 5: "Complete the trace table"
 
 - One column per variable plus OUTPUT; record **user prompts** in the output column too.
 - Write a value only when it changes; move down a row each time.
 - Check loop conditions carefully — a `<` versus `<=` decides whether the last pass happens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--09-cs-trace-table.webp" width="900" height="820" alt="The multiples-of-3 algorithm run with inputs 4, 9, 12 and 7. 9 and 12 are multiples of 3, so Count goes 0, 0, 1, 2, 2 and 2 is output on turn 4." loading="lazy">
+  <figcaption>Count rises only when the number is a multiple of 3.</figcaption>
+</figure>
+
 
 ## Question type 6: "Find and correct the errors"
 
@@ -170,3 +188,9 @@ Precise enough that there is only one meaning. Use operators such as `>=`, not w
 5. Why should an average be calculated after the loop?
 
 **Answers:** 1. Analysis. 2. 5 and 25. 3. Visual check and double entry check. 4. A Boolean flag (such as `Swapped`) that records whether any swap was made in a pass. 5. All the values must be added to the total first; inside the loop the average would be calculated, and possibly output, many times using an incomplete total.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-algorithm-design--11-cs-bubble-sort.webp" width="900" height="900" alt="Bubble sort of 4, 9, 2, 7 into descending order. Pass 1 swaps 4 and 9 and swaps 2 and 7 to give 9, 4, 7, 2; pass 2 swaps 4 and 7 to give 9, 7, 4, 2; pass 3 makes no swap so the sort stops." loading="lazy">
+  <figcaption>Each pass compares neighbours; a pass with no swap ends the sort.</figcaption>
+</figure>
+

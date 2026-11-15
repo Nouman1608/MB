@@ -50,6 +50,12 @@ Many automated systems work in a loop that repeats continuously:
 
 This is called **feedback** because the output affects the next input. The loop is what stops a heater overshooting or a pump running dry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--02-feedback-loop.webp" width="900" height="740" alt="Five numbered steps in a loop: sensor reading, conversion to digital, comparison with the preset value, signal to actuator if needed, next reading shows the effect." loading="lazy">
+  <figcaption>The output changes the next input, which is feedback.</figcaption>
+</figure>
+
+
 ### Examples of automated systems
 
 You should be able to discuss uses across several areas. Typical examples are:
@@ -61,6 +67,12 @@ You should be able to discuss uses across several areas. Typical examples are:
 - **Lighting and gaming**: street lamps that switch on when light levels fall, and games that respond to motion sensors.
 
 The advantages of automation include working continuously, consistent quality, faster response than a person, and removing people from dangerous places. The disadvantages include high set-up and maintenance cost, loss of some jobs, the need for skilled technicians, and the risk that a faulty sensor or program causes the wrong action to be repeated at speed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--01-auto-components.webp" width="900" height="924" alt="Vertical flow of sensor, ADC, microprocessor, optional DAC and actuator, with analogue or digital labelled on each arrow and a short note on what each part does." loading="lazy">
+  <figcaption>Signal path through an automated system.</figcaption>
+</figure>
+
 
 ## Robotics
 
@@ -77,6 +89,12 @@ Robots weld and assemble in factories, carry stock in warehouses, work in danger
 
 Tie each point to the context: "cheaper" is weak, but "cheaper over time than paying a person to repeat the same welding task" is developed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--04-robot-features.webp" width="900" height="990" alt="A simple robot with wheels, processor, sensor and jointed arm, with the three characteristics numbered: mechanical structure, electrical components and programmable." loading="lazy">
+  <figcaption>A robot has a mechanical structure, electrical components and can be reprogrammed.</figcaption>
+</figure>
+
+
 ## Artificial intelligence
 
 **Artificial intelligence (AI)** is the ability of a computer system to carry out tasks that normally need human intelligence. The key characteristics to state are that an AI system collects data, uses rules to reason about that data, and can adapt its behaviour in response to what it finds. Examples are speech recognition, medical diagnosis support and route-planning.
@@ -91,6 +109,12 @@ At IGCSE you need the basic operation of an AI system and its main components:
 **Machine learning** is a branch of AI in which the system improves its performance by learning from data, rather than being given every rule by a programmer. A spam filter, for instance, can be shown many messages already labelled as spam or not spam, and then adjusts itself to classify new ones. Be careful with wording: the learning comes from the data the system is given, so poor or biased data produces poor decisions.
 
 AI is fast, tireless and good at finding patterns in large data sets. Its disadvantages are cost, dependence on good data, lack of human judgement and unclear responsibility when it gets something wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--06-ai-vs-ml.webp" width="900" height="940" alt="Machine learning sits inside artificial intelligence. A spam filter learns from labelled messages, adjusts itself and classifies new mail; poor or biased data gives poor decisions." loading="lazy">
+  <figcaption>Machine learning is one approach within AI.</figcaption>
+</figure>
+
 
 ## Worked example 1: an automated greenhouse heater
 
@@ -118,6 +142,12 @@ Readings taken one after another are 17, 19, 22, 25, 21 and 18.
 
 The heater is on for three of the six readings (the first, second and sixth). To describe the whole system in words: the temperature sensor sends an analogue signal, which the ADC converts to digital; the microprocessor compares it with the stored value of 20; if it is lower, the microprocessor sends a signal to switch the heater (the actuator) on; the sensor then measures again, so the process repeats continuously.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--03-greenhouse-trace.webp" width="900" height="850" alt="Six readings 17, 19, 22, 25, 21 and 18 are plotted against a preset line at 20 degrees Celsius. The heater is on for readings 1, 2 and 6, three of six; exactly 20 would be off." loading="lazy">
+  <figcaption>The heater is on whenever the reading is below 20.</figcaption>
+</figure>
+
+
 ## Worked example 2: a rule-based medical check
 
 A simple diagnosis program has a rule base with two rules.
@@ -126,6 +156,12 @@ A simple diagnosis program has a rule base with two rules.
 - Rule 2: IF temperature is normal THEN suggest "no action".
 
 A user enters "temperature high" and "throat sore". The inference engine searches the rule base, finds that both conditions in Rule 1 match the facts supplied, and outputs "possible infection". Rule 2 is not used because its condition is false. A new rule can be added to the rule base without rewriting the inference engine, which is a useful point in an exam.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide--05-ai-parts.webp" width="900" height="870" alt="The interface passes the user facts to the inference engine, which applies the rule base to the knowledge base. Rule 1 matches and fires giving possible infection; Rule 2 is unused." loading="lazy">
+  <figcaption>The inference engine applies rules to facts to reach a conclusion.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

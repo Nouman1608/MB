@@ -81,6 +81,22 @@ part; and no foreign power helped. **Legacy:** Piedmont alone kept its constitut
 Emmanuel gained a reputation as the "honest king", Austria's dominance was re-established and the
 papacy became firmly hostile to nationalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--01-it-states-1848.webp" width="900" height="824" alt="A schematic column of five blocks running north to south. Lombardy and Venetia are ruled directly by Austria; Piedmont-Sardinia is a kingdom; Tuscany, Parma and Modena are duchies; the Papal States are under Pope Pius IX; the Two Sicilies are Naples and Sicily. It is not a map and not to scale." loading="lazy">
+  <figcaption>Italy in 1848 was a set of separate states, several under Austrian control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--02-it-1848-timeline.webp" width="900" height="968" alt="A vertical timeline from February 1848 to mid-1849, spaced in proportion to months. It shows revolution in France in February 1848, the Statuto and the Five Days in Milan in March, the Pope refusing war in April, the defeat at Custoza in July, the Roman Republic in February 1849, the defeat at Novara and abdication of Charles Albert in March 1849, and French troops capturing Rome in mid-1849." loading="lazy">
+  <figcaption>The 1848–49 revolutions rose and then collapsed within about a year and a half.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--03-it-1848-failed.webp" width="900" height="884" alt="Five rows with icons give the reasons 1848 failed: Austria’s army under Radetzky was far stronger; the revolutionaries were divided between monarchists, moderates and republicans; the Pope withdrew support; most peasants took no part; no foreign power helped. A closing note says only Piedmont kept its constitution and Austria’s dominance was re-established." loading="lazy">
+  <figcaption>Five reasons the 1848 revolutions in Italy failed, and the result.</figcaption>
+</figure>
+
+
 ## What did Cavour change in Piedmont?
 
 Count Camillo di **Cavour** became Prime Minister in **November 1852**, after an alliance with the
@@ -106,6 +122,12 @@ Piedmont gained Lombardy but not Venetia, and Cavour **resigned** in protest. He
 January 1860; the central states (Tuscany, Parma, Modena and the Romagna) voted in plebiscites to
 join Piedmont, and in return Piedmont ceded **Nice and Savoy** to France.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--04-it-road-to-1859.webp" width="900" height="874" alt="A vertical timeline from 1855 to January 1860. Piedmont joins the Crimean War in 1855; Cavour raises the Italian question at the Congress of Paris in 1856; the Orsini bomb attack on Napoleon III is in January 1858; at Plombières in July 1858 France agrees to help, Piedmont is to gain northern Italy and France to get Nice and Savoy; Austria declares war in April 1859; Magenta and Solferino are won in June; Villafranca in July gives Lombardy but not Venetia and Cavour resigns; in January 1860 Cavour returns, central states vote to join Piedmont and Nice and Savoy go to France." loading="lazy">
+  <figcaption>How Cavour and Napoleon III’s pact led to war, armistice and annexations in 1859–60.</figcaption>
+</figure>
+
+
 ## What was Garibaldi's role in 1860?
 
 Giuseppe **Garibaldi**, a republican and a native of Nice, was angered by its loss. In May 1860 he
@@ -115,6 +137,12 @@ would attack Rome and provoke France, so the Piedmontese army marched through th
 (defeating papal forces at Castelfidardo) to reach the south. At **Teano** (October 1860)
 Garibaldi handed his conquests to Victor Emmanuel. Plebiscites confirmed union, and the
 **Kingdom of Italy** was proclaimed in **March 1861**. Cavour died in June 1861.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--05-it-garibaldi-1860.webp" width="900" height="979" alt="A flow diagram with two columns that join. Garibaldi sails with the Thousand to Sicily in May 1860, wins at Calatafimi, takes Palermo and enters Naples in September. The Piedmontese army, because Cavour fears an attack on Rome, marches through the Papal States and defeats papal forces at Castelfidardo. At Teano in October 1860 Garibaldi hands his conquests to Victor Emmanuel; plebiscites confirm union, the Kingdom of Italy is proclaimed in March 1861 and Cavour dies in June 1861." loading="lazy">
+  <figcaption>Garibaldi in the south and the Piedmontese army through the Papal States met at Teano.</figcaption>
+</figure>
+
 
 ## How were Venice and Rome added by 1870?
 
@@ -129,6 +157,12 @@ Italy and confirmed by plebiscite. **Rome** came when the Franco-Prussian War of
 France to withdraw its garrison; Italian troops entered Rome in September 1870, and it became the
 capital. The Pope refused to accept the loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--06-it-venice-rome.webp" width="900" height="810" alt="Two columns of linked events. Venetia: Italy is defeated at Custoza in 1866, Prussia defeats Austria, Venetia is handed to Italy via France and a plebiscite confirms it. Rome: Garibaldi fails at Aspromonte in 1862 and at Mentana in 1867; in 1870 the Franco-Prussian War makes France withdraw its garrison and in September 1870 Italian troops enter Rome. The Pope refused to accept the loss." loading="lazy">
+  <figcaption>Venetia came through Prussia’s victory over Austria; Rome through France’s withdrawal in 1870.</figcaption>
+</figure>
+
+
 ## How united was Italy in 1870?
 
 Factors promoting unity included a single monarchy and constitution, a national army and
@@ -137,6 +171,12 @@ regional loyalties, low literacy, the fact that most Italians spoke regional dia
 Pope's hostility, which discouraged Catholics from taking part in national politics. The phrase
 "We have made Italy; now we must make Italians", often attributed to Massimo d'Azeglio, sums up
 the problem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-unification-of-italy--07-it-unity-1870.webp" width="900" height="670" alt="A level balance with two hanging groups. Promoting unity: one monarchy and constitution, a national army and parliament, and growing railways. Against unity: the North–South divide, regional loyalties and dialects, low literacy and the Pope’s hostility. Below is the saying often attributed to Massimo d’Azeglio, “We have made Italy; now we must make Italians”." loading="lazy">
+  <figcaption>Factors for and against unity in 1870; the beam is level because the lesson asks you to weigh them.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

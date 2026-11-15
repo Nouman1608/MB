@@ -34,6 +34,12 @@ A **local area network (LAN)** covers a small geographical area, such as a schoo
 
 Networks can be **wired**, using copper (Ethernet) or fibre-optic cable, or **wireless**, using Wi-Fi radio signals or Bluetooth. Wired connections are generally faster, more stable and more secure. Fibre is faster and carries data further than copper. Wireless is convenient and lets devices move around, but signals can be interfered with and intercepted more easily, and range is limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--15-net-lan-wan.webp" width="900" height="870" alt="Two LANs, each with devices joined to a router, connect through a cloud labelled WAN. The LAN covers a small area with one owner; the WAN covers a large area using infrastructure leased from telecommunications companies." loading="lazy">
+  <figcaption>A LAN is local and owned by one organisation; a WAN links distant sites.</figcaption>
+</figure>
+
+
 ## Network hardware
 
 - A **network interface controller (NIC)** is the component that lets a device connect to a network.
@@ -43,11 +49,28 @@ Networks can be **wired**, using copper (Ethernet) or fibre-optic cable, or **wi
 
 A **MAC address** is a unique identifier for the network card, set by the manufacturer. An **IP address** identifies a device on a network and can change depending on the network it joins. IPv4 addresses are four numbers from 0 to 255 separated by dots, for example 192.168.4.20. IPv6 was introduced because IPv4 does not provide enough addresses for the number of devices in use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--16-net-hardware.webp" width="900" height="960" alt="Devices and a wireless access point connect to a switch, which sends data only to the device it is for using MAC addresses. A router below it joins networks and forwards packets by IP address, shown as 192.168.4.20, towards the internet." loading="lazy">
+  <figcaption>A switch works within a network and a router connects networks.</figcaption>
+</figure>
+
+
 ## Network models and layouts
 
 In a **client-server** network, one or more powerful **servers** provide services (file storage, printing, email, security), and **clients** request them. It is easier to manage, back up and secure, because data is held centrally, but the server is expensive and, if it fails, the services stop. In a **peer-to-peer** network, every computer has equal status and can share files directly. It is cheap and simple, but harder to secure and back up, and slower when many devices are sharing.
 
 The **topology** is how devices are arranged. In a **star** topology each device connects to a central switch. If one cable fails only that device is affected, new devices are easy to add, and performance stays consistent, but the central switch is a single point of failure and it needs more cable. In a **bus** topology all devices share a single backbone cable. It needs little cable and is cheap, but performance drops as more devices are added, since they share the same cable, and a break in the backbone can cut off the network.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--17-net-topologies.webp" width="900" height="900" alt="A star network of five devices around a switch shows one cable failing so one device is cut off, while a switch failure cuts off all five. A bus network with five devices shows a backbone break splitting devices into three and two." loading="lazy">
+  <figcaption>In a star a cable fault affects one device; in a bus a backbone break splits the network.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--18-net-models.webp" width="900" height="900" alt="Four clients exchange data with one server in a client-server network, with the advantage of central management and the disadvantage that services stop if the server fails. Four computers linked directly in a peer-to-peer network have equal status, are cheap and simple but harder to secure and back up." loading="lazy">
+  <figcaption>Client-server is central; peer-to-peer gives every computer equal status.</figcaption>
+</figure>
+
 
 ## Protocols and layers
 
@@ -68,11 +91,28 @@ Protocols are organised into **layers**, and the TCP/IP model has four: the **ap
 
 The **domain name system (DNS)** translates a human-friendly name such as a website address into the IP address needed to find the server.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--19-net-packets.webp" width="900" height="1040" alt="A packet has a header with from, to and number, then the data. Six numbered packets take three routes and packet 4 is lost. They arrive out of order as 2, 1, 3, 6, 5; TCP orders them, spots the gap and asks for packet 4 to be resent, giving the complete message." loading="lazy">
+  <figcaption>TCP numbers packets so the receiver can reorder them and request missing ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--20-net-layers.webp" width="900" height="902" alt="Four stacked layers: application with HTTP, FTP and SMTP, transport with TCP, internet with IP, and link with Ethernet and Wi-Fi. Down arrows show sending and up arrows show receiving between neighbouring layers." loading="lazy">
+  <figcaption>Each TCP/IP layer does one job and talks only to the layers above and below.</figcaption>
+</figure>
+
+
 ## Worked example 1: download time
 
 A file of 450 megabytes is downloaded over a connection with a speed of 60 megabits per second. How long does the download take, assuming the full speed is used?
 
 Convert the file size to bits: 450 MB x 8 = 3,600 megabits. Time = size / speed = 3,600 / 60 = 60 seconds. Note the units: file sizes are usually in bytes and speeds in bits per second, so the factor of 8 is the step most often missed. If the connection only delivers half the speed because several users are sharing it, the time doubles to 120 seconds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--21-net-download.webp" width="900" height="850" alt="450 megabytes times 8 gives 3600 megabits, divided by 60 megabits per second gives 60 seconds. Sharing the connection at half speed doubles the time to 120 seconds. The check question gives 120 x 8 = 960 megabits and 960 / 40 = 24 seconds." loading="lazy">
+  <figcaption>Multiply bytes by 8 to get bits, then divide by the speed.</figcaption>
+</figure>
+
 
 ## Worked example 2: choosing a network
 

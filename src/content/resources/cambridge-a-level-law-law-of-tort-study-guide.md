@@ -49,6 +49,12 @@ A claimant must prove three things on the balance of probabilities: that the def
 
 The neighbour principle in Donoghue v Stevenson (1932) states that we must take reasonable care to avoid acts or omissions that we can reasonably foresee would injure people closely and directly affected by them. The modern approach asks whether harm was reasonably foreseeable, whether there was sufficient proximity between the parties and whether it is fair, just and reasonable to impose a duty (Caparo Industries v Dickman, 1990). Established duty situations, such as driver to other road users and doctor to patient, do not need that analysis each time. Special rules apply to **psychiatric harm**, where a secondary victim must show a close tie of love and affection, proximity in time and space and direct perception of the event or its immediate aftermath (Alcock v Chief Constable of South Yorkshire, 1992), and to **pure economic loss**, which is usually not recoverable unless there is an assumption of responsibility (Hedley Byrne v Heller, 1964; Spartan Steel v Martin, 1973).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--02-tort-duty-of-care.webp" width="900" height="1062" alt="A flow chart. First ask whether this is an established duty situation, such as driver to road user or doctor to patient. If yes, a duty is owed. If no, apply the Caparo test, where all three parts are needed: harm reasonably foreseeable, sufficient proximity between the parties, and it is fair, just and reasonable to impose a duty. Then a duty is owed. A footer notes the origin in the neighbour principle of Donoghue v Stevenson (1932) and that special rules apply to psychiatric harm and pure economic loss." loading="lazy">
+  <figcaption>Established duty situations need no further analysis; otherwise Caparo asks for foreseeability, proximity and that it is fair, just and reasonable.</figcaption>
+</figure>
+
+
 ### Breach
 
 The standard is that of the **reasonable person**. A learner driver is judged by the standard of a competent driver (Nettleship v Weston, 1971) and a professional by the standard of a reasonably competent member of that profession (Bolam v Friern Hospital Management Committee, 1957). Factors include the likelihood of harm (Bolton v Stone, 1951), the seriousness of the harm, the cost and practicality of precautions (Latimer v AEC, 1953) and the social value of the activity. Children are judged by the standard of a child of the same age.
@@ -57,11 +63,28 @@ The standard is that of the **reasonable person**. A learner driver is judged by
 
 Factual causation uses the **but for** test: would the damage have happened but for the breach (Barnett v Chelsea and Kensington Hospital, 1969, where the patient would have died anyway)? Legal causation asks whether the damage was of a kind that was reasonably foreseeable (The Wagon Mound (No 1), 1961). The defendant must take the claimant as they find them, so if the type of harm is foreseeable it does not matter that the extent is greater because of a weakness (Smith v Leech Brain, 1962).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--01-tort-negligence-elements.webp" width="900" height="1060" alt="A top-to-bottom flow of three boxes then a result. Box 1, duty of care: the defendant owed a duty to the claimant, shown by two people joined by arrows. Box 2, breach: the defendant’s conduct fell below the standard of the reasonable person, shown by a person below a dashed standard line. Box 3, damage: the breach caused damage that was not too remote, shown as a breach box linked to a damage box. If all three are proved on the balance of probabilities the defendant is liable." loading="lazy">
+  <figcaption>A claimant must prove duty of care, breach and damage caused by the breach that is not too remote, on the balance of probabilities.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--03-tort-causation-remoteness.webp" width="900" height="1110" alt="A flow chart with two filters after a breach by the defendant. Filter 1, factual cause, the but for test: would the damage have happened anyway? If yes there is no liability, as in Barnett (1969) where the patient would have died anyway. Filter 2, legal cause or remoteness: is the kind of damage reasonably foreseeable? If not it is too remote, as in The Wagon Mound (No 1) (1961). Passing both makes the damage recoverable. A lower panel shows that if the kind of harm is foreseeable, a greater extent due to the claimant’s weakness is still recoverable (Smith v Leech Brain, 1962)." loading="lazy">
+  <figcaption>Factual causation (but for) and legal causation (foreseeable kind of damage) are two separate filters; a greater extent of harm from a weakness is still recoverable.</figcaption>
+</figure>
+
+
 ## Torts affecting land
 
 - **Private nuisance** is an unlawful and unreasonable interference with another's use or enjoyment of land. The claimant must have an interest in the land (Hunter v Canary Wharf, 1997). Factors in deciding reasonableness include the locality (Sturges v Bridgman, 1879), the duration and intensity of the interference, the sensitivity of the claimant, and the defendant's motive. Physical damage to property is treated more strictly than interference with comfort (St Helen's Smelting v Tipping, 1865). It is generally no defence that the claimant came to the nuisance (Miller v Jackson, 1977, where an injunction was refused but damages were awarded).
 - **Rylands v Fletcher (1868)** imposes liability for damage caused by the escape of something dangerous that the defendant brought on to land in the course of a non-natural use. Foreseeability of the type of harm is required (Cambridge Water v Eastern Counties Leather, 1994), and the rule is treated as a form of nuisance (Transco v Stockport MBC, 2003).
 - **Trespass to land** is direct and unjustified interference with land in the possession of another, such as walking on it or placing something on it. It is actionable without proof of damage (Entick v Carrington, 1765). Defences include consent, a right of entry given by law and necessity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--04-tort-land.webp" width="900" height="1150" alt="Three panels, each showing the defendant’s land on the left and the claimant’s land on the right, separated by a dashed boundary. Trespass to land: a person walks directly across the boundary onto the claimant’s land; it is a direct, unjustified interference and needs no proof of damage. Private nuisance: smoke from the defendant’s chimney drifts over the boundary to the claimant’s house, an indirect and unreasonable interference with use and enjoyment. Rylands v Fletcher: a tank of something dangerous on the defendant’s land escapes across the boundary onto the claimant’s land; it requires a non-natural use of land." loading="lazy">
+  <figcaption>Trespass is direct entry, private nuisance is indirect interference with enjoyment, and Rylands v Fletcher concerns the escape of a dangerous thing from a non-natural use.</figcaption>
+</figure>
+
 
 ## Torts affecting the person
 
@@ -72,6 +95,12 @@ Trespass to the person includes three torts, each a direct act that is intention
 - **False imprisonment** is the total restriction of a person's freedom of movement without lawful justification. There must be a total restraint, so blocking one exit while another is open is not enough (Bird v Jones, 1845), the victim need not know about it (Meering v Grahame-White Aviation, 1920), and the restraint can be through a lawful arrest that becomes unlawful.
 
 Wilkinson v Downton (1897) recognises liability for intentionally causing physical or psychiatric harm by words or conduct.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--05-tort-trespass-person.webp" width="900" height="1150" alt="Three panels for the three trespasses to the person, all direct acts that are intentional or reckless and actionable without proof of damage. Assault: one person raises a fist and the other, a short distance away, is afraid of immediate unlawful force; no contact is needed. Battery: the fist makes contact with the other person; even a slight unlawful touch counts, but ordinary everyday touching does not (Collins v Wilcock). False imprisonment: a person in a room with all exits shut is totally restrained, but a room with one exit open is not enough (Bird v Jones)." loading="lazy">
+  <figcaption>Assault, battery and false imprisonment are direct acts, intentional or reckless, actionable without proof of damage.</figcaption>
+</figure>
+
 
 ## General defences and remedies
 
@@ -89,6 +118,12 @@ Wilkinson v Downton (1897) recognises liability for intentionally causing physic
 - **Injunctions** are discretionary court orders to stop a continuing wrong, common in nuisance, though a court may award damages instead (Miller v Jackson, 1977).
 - **Abatement** and **self-help** let a claimant remove a nuisance in limited circumstances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--06-tort-defences.webp" width="900" height="1056" alt="Four rows showing what each general defence does to a claim, using the lesson’s example of a 60,000 pound loss. Contributory negligence reduces damages by a just and equitable share: with the claimant 20 per cent to blame, 12,000 pounds is removed and the award is 48,000 pounds. Consent (volenti non fit injuria, Smith v Baker 1891) is a complete defence, so the award is nothing. Illegality (ex turpi causa, Pitts v Hunt 1991) bars a claim founded on the claimant’s own serious wrongdoing. Limitation sets a time limit: three years for personal injury under the Limitation Act 1980, subject to extension." loading="lazy">
+  <figcaption>Contributory negligence reduces damages; consent and illegality defeat the claim; limitation sets a time limit.</figcaption>
+</figure>
+
+
 ## Worked example
 
 Facts: Omari is driving carefully when Daria, driving too fast on a wet road, hits his car. Omari was not wearing his seat belt and would have suffered less serious injuries if he had been. His losses are 9,500 pounds medical costs, 22,000 pounds lost earnings and 16,500 pounds for pain and suffering. Advise on liability and damages.
@@ -99,6 +134,12 @@ Facts: Omari is driving carefully when Daria, driving too fast on a wet road, hi
 4. Total damage: 9,500 + 22,000 + 16,500 = 48,000 pounds. The first two items are special damages, which total 31,500 pounds, and the last is general damages.
 5. Contributory negligence: the failure to wear a seat belt contributed to the severity of the injuries but not to the crash itself. Under the guideline in Froom v Butcher, a reduction of 15 per cent suits injuries that would have been reduced in severity. 15 per cent of 48,000 is 7,200 pounds.
 6. Final award: 48,000 - 7,200 = 40,800 pounds. Daria pays 40,800 pounds and Omari bears the other 7,200 pounds himself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-law-of-tort-study-guide--07-tort-damages-example.webp" width="900" height="970" alt="A step-by-step damages calculation. Omari’s losses are 9,500 pounds medical costs and 22,000 pounds lost earnings, together special damages of 31,500 pounds, plus 16,500 pounds general damages for pain and suffering: total 48,000 pounds, drawn as a bar divided in proportion. His failure to wear a seat belt means damages are reduced by 15 per cent, 7,200 pounds, so the final award is 48,000 minus 7,200 equals 40,800 pounds, paid by Daria; Omari bears the other 7,200 pounds. A panel shows the Froom v Butcher guideline: 25 per cent if wearing a belt would have prevented the injury, 15 per cent if it would only have reduced its severity; 15 per cent applies here." loading="lazy">
+  <figcaption>Omari’s total damages of £48,000 are reduced by 15 per cent (£7,200) for the seat belt, giving a final award of £40,800.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

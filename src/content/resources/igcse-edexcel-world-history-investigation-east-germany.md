@@ -69,6 +69,22 @@ an "anti-fascist protection rampart". People still tried to **escape** — throu
 windows on the border, or hidden in vehicles — and many were shot; the death of Peter Fechter, left to
 bleed to death at the Wall in 1962, caused outrage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--14-eg-timeline.webp" width="900" height="1160" alt="A timeline of East Germany from 1958 to 1990 drawn to scale, with bands for the Wall crisis, Ulbricht’s economy, Honecker’s GDR and the Peaceful Revolution." loading="lazy">
+  <figcaption>East Germany from Khrushchev’s demand in 1958 to reunification in 1990, drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--15-eg-why-wall.webp" width="900" height="856" alt="27 icons, each 100,000 people, cross the open Berlin border from the GDR to the West: 2.7 million left in 1949–61, many young and skilled. This threatened the economy and legitimacy, and the border was sealed on 12–13 August 1961." loading="lazy">
+  <figcaption>Mass emigration of skilled people led to the sealing of the border in 1961.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--16-eg-wall.webp" width="900" height="940" alt="Two schematic panels, not to scale. First, barbed wire on the night of 12–13 August 1961. Then a concrete wall, a death strip, a watchtower and an armed guard." loading="lazy">
+  <figcaption>The barbed wire of August 1961 became a fortified frontier.</figcaption>
+</figure>
+
+
 ## How did the SED stabilise and control the GDR?
 
 With emigration stopped, the economy could be planned. Ulbricht introduced the **New Economic System**
@@ -88,6 +104,17 @@ and environmental groups. **Propaganda and censorship** controlled newspapers, r
 though most East Germans could watch West German TV. Support came from those who valued security and
 welfare; opposition included dissidents such as the singer Wolf Biermann, expelled in 1976. Relations with
 the **Soviet Union** remained the foundation of the regime; Soviet troops were stationed in the GDR.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--17-eg-economy.webp" width="900" height="800" alt="A flow: New Economic System 1963, Economic System of Socialism 1968, improved growth and Comecon trade, Honecker’s 1971 shift to consumer goods, housing and subsidies, then 1980s borrowing from the West and scarce poor goods." loading="lazy">
+  <figcaption>Reform brought growth, but Honecker’s welfare spending led to 1980s strain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--18-eg-control.webp" width="900" height="870" alt="The SED sits at the centre with arrows to the Stasi (about 90,000 staff plus informers), youth organisations, the Church, and the media, and a dashed link to the USSR whose troops were stationed in the GDR." loading="lazy">
+  <figcaption>The SED relied on the Stasi, youth organisations, pressure on the Church, controlled media and Soviet backing.</figcaption>
+</figure>
+
 
 ## What was daily life like in the GDR?
 
@@ -113,6 +140,12 @@ relaxed for West Germans visiting the East, phone links improved, and some East 
 the West. West German credits and payments helped the GDR's economy and **standard of living**, but also
 increased its dependence on the West. **State visits** culminated in Honecker's visit to West Germany in 1987.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--19-eg-ostpolitik.webp" width="900" height="819" alt="A staircase from Brandt’s 1969 policy through the 1970 treaties, the 1971 Four Power Agreement, the 1972 Basic Treaty and UN membership in 1973 to Honecker’s 1987 visit. Gains were recognition, credits and travel; the cost was dependence on the West." loading="lazy">
+  <figcaption>Ostpolitik brought recognition and credits but made the GDR more dependent on the West.</figcaption>
+</figure>
+
+
 ## How did the Peaceful Revolution end the GDR, 1987–90?
 
 **Gorbachev**'s reforms (glasnost and perestroika) encouraged East German protesters, while Honecker
@@ -125,6 +158,12 @@ replaced by **Egon Krenz**. On **9 November 1989**, after a confused announcemen
 forced the border crossings open and the **Berlin Wall** fell. The SED's power collapsed; in the **March 1990
 elections** the CDU-led Alliance for Germany won, and after monetary union (July) and the Two Plus Four
 Treaty, Germany was **reunified on 3 October 1990**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-east-germany--20-eg-revolution.webp" width="900" height="937" alt="A staircase: Gorbachev’s reforms, Hungary opens its border in September 1989, Gorbachev signals no intervention, Leipzig demonstrations grow, Honecker is forced out on 18 October, the Wall falls on 9 November, the March 1990 election and reunification on 3 October 1990." loading="lazy">
+  <figcaption>Soviet restraint, mass protest and open borders ended the GDR in 1990.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

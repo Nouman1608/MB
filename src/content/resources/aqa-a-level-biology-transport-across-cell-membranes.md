@@ -68,6 +68,12 @@ and many proteins can move sideways within the layer, and a **mosaic** because p
 | Glycolipids | Lipid with a carbohydrate chain on the outer surface | Cell recognition and stability |
 | Cholesterol | Between phospholipids | **Restricts the movement** of other molecules in the membrane, making it less fluid and more stable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--15-fluid-mosaic.webp" width="900" height="910" alt="Cross-section of a cell membrane with two layers of phospholipids, a channel protein, a carrier protein, an extrinsic protein on the outer surface, a glycoprotein and a glycolipid with carbohydrate chains pointing outwards, and cholesterol between the phospholipids." loading="lazy">
+  <figcaption>The fluid-mosaic model: a phospholipid bilayer with intrinsic and extrinsic proteins, glycoproteins, glycolipids and cholesterol.</figcaption>
+</figure>
+
+
 ## How do substances diffuse across membranes?
 
 **Simple diffusion** is the net movement of molecules from a higher to a lower concentration, down a concentration
@@ -82,6 +88,17 @@ cannot pass through the hydrophobic core.
 
 Because the number of proteins is limited, the rate of facilitated diffusion levels off at high concentration
 gradients, when all the proteins are in use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--16-diffusion-routes.webp" width="900" height="890" alt="Three side-by-side membrane diagrams: oxygen passing straight through the bilayer while glucose is blocked, ions passing through a channel protein pore, and glucose carried through by a carrier protein, all moving from high to low concentration." loading="lazy">
+  <figcaption>Simple and facilitated diffusion: all passive and down a concentration gradient.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--17-facilitated-rate.webp" width="900" height="1040" alt="A graph with a straight rising line for simple diffusion and a curve for facilitated diffusion that flattens at a maximum, with two small diagrams of carrier proteins showing more of them occupied at the higher gradient." loading="lazy">
+  <figcaption>Facilitated diffusion levels off at high gradients when all the carrier proteins are in use (illustrative).</figcaption>
+</figure>
+
 
 ## How do you explain osmosis using water potential?
 
@@ -99,6 +116,12 @@ Animal cells placed in a solution of higher water potential gain water and may b
 they shrink. Plant cells gain water until the cell wall resists (they become turgid), and in a solution of lower
 water potential they lose water and the membrane pulls away from the wall (plasmolysis).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--18-osmosis-water-potential.webp" width="900" height="1295" alt="Two cells with water potentials of minus 300 and minus 500 kilopascals with an arrow showing water moving to the more negative cell, a number line from 0 downwards, and four small cell drawings showing an animal cell bursting or shrinking and a plant cell turgid or plasmolysed." loading="lazy">
+  <figcaption>Water moves from higher (less negative) to lower (more negative) water potential; animal and plant cells respond differently.</figcaption>
+</figure>
+
+
 ## What is active transport?
 
 **Active transport** moves molecules or ions **against** a concentration gradient, from lower to higher
@@ -106,6 +129,12 @@ concentration, using **carrier proteins** and energy from the **hydrolysis of AT
 carrier; ATP is hydrolysed to ADP and phosphate, releasing energy that changes the shape of the carrier protein so
 the molecule is released on the other side. Cells that carry out a lot of active transport have many mitochondria
 to supply ATP by respiration.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--19-active-transport.webp" width="900" height="960" alt="Three membrane panels: a molecule binding to a carrier protein from the low concentration side, ATP changing to ADP and phosphate while the carrier changes shape, and the molecule released on the high concentration side." loading="lazy">
+  <figcaption>Active transport: the carrier binds the molecule, ATP hydrolysis changes its shape, and the molecule is released against the gradient.</figcaption>
+</figure>
+
 
 ## How does co-transport absorb glucose in the ileum?
 
@@ -122,6 +151,12 @@ cells lining the mammalian ileum.
 
 The energy comes indirectly from ATP: it is used to set up the sodium ion gradient, and that gradient drives glucose
 uptake.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--20-cotransport-ileum.webp" width="900" height="980" alt="An ileum epithelial cell with lumen above and blood below showing four numbered steps: sodium ions pumped out to the blood using ATP, sodium ions and glucose entering together through a co-transporter, and glucose leaving to the blood by facilitated diffusion." loading="lazy">
+  <figcaption>Co-transport: ATP sets up a sodium ion gradient that drives glucose into the epithelial cell.</figcaption>
+</figure>
+
 
 ## What affects the rate of transport across membranes?
 
@@ -152,6 +187,12 @@ Plot percentage change in mass (y-axis) against concentration (x-axis). Where th
 solution has the **same water potential as the tissue**. A calibration curve (or table) relating concentration to
 water potential then converts that concentration into the tissue's water potential (MS 3.4: using the intercept).
 Percentage change is used, not change in mass, because the cylinders start with different masses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-biology-transport-across-cell-membranes--21-rp3-calibration.webp" width="900" height="1140" alt="Two measuring tubes of stock and water pouring into a 0.4 mol dm-3 solution, the percentage change calculation giving minus 6.0 percent, and a graph of percentage mass change against concentration crossing the zero line at 0.3 mol dm-3." loading="lazy">
+  <figcaption>Required practical 3: make a dilution series, find the concentration with no change in mass, then convert it to water potential.</figcaption>
+</figure>
+
 
 ## How do you carry out required practical 4?
 

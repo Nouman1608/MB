@@ -37,6 +37,17 @@ Fieldwork tests whether you can behave as a geographer: ask a focused question, 
 5. **Plan sampling.** Random sampling avoids bias; systematic sampling takes points at regular intervals; stratified sampling ensures each sub-group is represented in proportion. Explain why the method suits your site and give the sample size and its limits.
 6. **Pilot and risk-assess.** A short trial exposes problems in equipment, timing or definitions. A risk assessment covers hazards, such as traffic, weather and water, and the precautions you take. Consider ethical points such as consent when you ask people questions, and respect for private property and wildlife.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--16-fw-sampling.webp" width="900" height="1030" alt="Random, systematic and stratified sampling patterns on a site. Random, systematic and stratified sampling compared, with illustrative point counts." loading="lazy">
+  <figcaption>Random, systematic and stratified sampling compared, with illustrative point counts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--17-fw-hypotheses.webp" width="900" height="970" alt="Hypothesis and null hypothesis boxes above two scatter graphs. A hypothesis predicts a pattern, the null hypothesis says there is none, and the test examines the null." loading="lazy">
+  <figcaption>A hypothesis predicts a pattern, the null hypothesis says there is none, and the test examines the null.</figcaption>
+</figure>
+
+
 ## Collecting data
 
 Record data directly on prepared sheets, with units, times, dates and exact locations. Keep conditions as comparable as possible, and note anything that could affect results, such as weather or time of day. Take more readings than the minimum: repeat measures reduce the effect of anomalies. For questionnaires, write clear, unbiased, closed questions and aim for a fair spread of respondents. Keep the raw data so that you can show it, and use a secondary source only to add context, not to replace your own data.
@@ -51,6 +62,12 @@ Choose techniques to fit the data and the question.
 - **Statistical tests**: choose a test that matches your data. Spearman's rank correlation tests the strength of association between two ranked variables. A chi-squared test compares observed with expected frequencies in categories. A Mann-Whitney U test compares two independent samples.
 
 Every figure should have a title, labelled axes with units, and a source, and each should be referred to in the text. Do not include presentation for its own sake: each graph or test must help answer the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--18-fw-test-choice.webp" width="900" height="1050" alt="Three test cards with a small picture each. Spearman’s rank, chi-squared and Mann-Whitney U, and the data each one suits." loading="lazy">
+  <figcaption>Spearman’s rank, chi-squared and Mann-Whitney U, and the data each one suits.</figcaption>
+</figure>
+
 
 ## Analysis, conclusion and evaluation
 
@@ -67,6 +84,12 @@ The evaluation looks critically at the whole investigation.
 ## A sensible report structure
 
 Follow the order the criteria suggest and your teacher advises. A common sequence is: title and question; context and aim; hypotheses; methods and sampling with justification; data presentation; analysis and statistical testing; conclusion; evaluation; references and appendix for raw data where permitted. Write concisely, keep the question in sight, and stay within the word limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--15-fw-report-order.webp" width="900" height="1028" alt="Nine numbered sections coloured as plan, data and judge stages. The common order of a fieldwork report from title and question to references and appendix." loading="lazy">
+  <figcaption>The common order of a fieldwork report from title and question to references and appendix.</figcaption>
+</figure>
+
 
 ## Worked example: Spearman's rank correlation
 
@@ -86,6 +109,17 @@ Suppose a student tests whether pedestrian counts fall with distance from the ce
 The sum of d squared is 49 + 25 + 4 + 4 + 1 + 25 + 9 + 49 = 166. With n = 8, rs = 1 - (6 x 166) / (n(n squared - 1)) = 1 - 996 / (8 x 63) = 1 - 996 / 504 = 1 - 1.976 = -0.976.
 
 The value is close to -1, a very strong negative correlation: pedestrian numbers fall as distance rises. For n = 8, the critical value at the 5 per cent significance level (two-tailed) is 0.738, so the result is significant and the null hypothesis can be rejected. Check the table in your own materials. Then evaluate: correlation does not prove cause, eight sites is a small sample, and one count per site on one day may not be representative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--19-fw-spearman-table.webp" width="900" height="938" alt="The ranking table, the d squared sum of 166 and the calculation to minus 0.976. The lesson’s Spearman working, recomputed step by step." loading="lazy">
+  <figcaption>The lesson’s Spearman working, recomputed step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--20-fw-spearman-result.webp" width="900" height="960" alt="A number line with the result and the 0.738 critical value, plus the scatter. The result of minus 0.976 lies beyond the 0.738 critical value, but correlation is not proof of cause." loading="lazy">
+  <figcaption>The result of minus 0.976 lies beyond the 0.738 critical value, but correlation is not proof of cause.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

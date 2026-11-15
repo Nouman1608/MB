@@ -53,6 +53,22 @@ Common measures include:
 
 Each measure has strengths and weaknesses. National averages hide inequality between regions, income groups and genders. Data quality varies and definitions differ, so compare cautiously. Include the idea of the nutrition transition, in which diets shift towards more processed foods, fats and sugar as incomes and urbanisation rise, increasing obesity and diet-related non-communicable disease alongside, in some places, continuing undernutrition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--01-f-security-dimensions.webp" width="900" height="640" alt="A building with a roof labelled food security held up by four pillars: availability (crates of food), access (a coin leading to a home, meaning physical and economic access), utilisation (a plate with knife and fork, meaning safe and nutritious food) and stability (a steady line, meaning at all times). If any pillar is missing the roof is not supported." loading="lazy">
+  <figcaption>Food security has four dimensions: availability, access, utilisation and stability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--02-f-bmi-scale.webp" width="900" height="830" alt="A person standing on a weighing scale reading 52 kg beside a ruler showing 1.60 m. BMI equals mass in kilograms divided by height in metres squared, so 52 divided by 2.56 gives 20.3. A number line from 14 to 34 shades the commonly used healthy adult range of 18.5 to 24.9 and marks 20.3 and a second example, 70 kg at 1.75 m, giving 22.9, both inside the healthy range." loading="lazy">
+  <figcaption>BMI is mass in kilograms divided by height in metres squared, shown for the lesson examples of 52 kg and 70 kg.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--03-f-daly.webp" width="900" height="850" alt="Two worked calculations feed one measure. Years of life lost: 1,000 people die early, each losing 20 years, giving 20,000. Years lived with disability: 5,000 people live 3 years with a disability weight of 0.2, giving 3,000. A bar of 23,000 disability-adjusted life years is about 87 per cent early death and 13 per cent disability, so most of the burden comes from premature mortality." loading="lazy">
+  <figcaption>A DALY combines early death and illness, and here most of the burden is premature mortality.</figcaption>
+</figure>
+
+
 ## 6.2 Food systems and spread of diseases
 
 A food system includes production, processing, distribution, retailing, consumption and waste, together with the inputs, institutions and environment that surround them. Systems differ: subsistence farming, commercial agriculture, industrialised livestock production and globalised supply chains. Trade and transport allow supply across the world, but they also link places in vulnerability to price shocks and disease.
@@ -60,6 +76,17 @@ A food system includes production, processing, distribution, retailing, consumpt
 Disease can be classified as communicable (infectious) or non-communicable. Spread of infectious disease can occur by contagious diffusion (person to person through contact), hierarchical diffusion (through settlement networks, for example from large cities to smaller towns) and relocation diffusion (movement of infected people to new places). Air travel can accelerate the spread. Vector-borne diseases, such as malaria, depend on environmental conditions that support the vector, so climate and land use matter. Water-borne diseases such as cholera relate to sanitation and safe drinking water.
 
 Links between food and disease run both ways. Poor nutrition weakens immunity, so infection becomes more severe. Livestock and wildlife contacts can produce zoonotic disease. Food contamination causes illness, and intensive farming raises concerns about antimicrobial resistance. On the other side, diet-related non-communicable diseases such as type 2 diabetes and heart disease are growing in many countries. The epidemiological transition describes how the main causes of death shift from infectious disease towards chronic disease as development proceeds, though many countries experience both at once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--04-f-food-system.webp" width="900" height="900" alt="A food system drawn as a loop of six stages inside a dashed boundary labelled inputs, institutions and environment: production (crops growing), processing (a factory), distribution (a lorry), retailing (a shop), consumption (a plate) and waste (a bin). Arrows run left to right along the top row, down, then right to left along the bottom row. Trade links places to price shocks and disease." loading="lazy">
+  <figcaption>A food system runs from production to waste, and trade links places to price shocks and disease.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--05-f-disease-diffusion.webp" width="900" height="1000" alt="Three panels show three diffusion types. Contagious diffusion: infection spreads person to person outward from a source in widening rings. Hierarchical diffusion: infection passes down a ranked network, from a large city to smaller towns and then villages. Relocation diffusion: infected people travel from an origin to a new place, where new cases appear." loading="lazy">
+  <figcaption>Contagious diffusion spreads outward by contact, hierarchical down a ranked network, relocation by moving infected people.</figcaption>
+</figure>
+
 
 ## 6.3 Stakeholders in food and health
 
@@ -73,6 +100,12 @@ Stakeholders operate at scales from household to global. Think about:
 - Consumers, whose choices influence demand.
 
 Strategies include agricultural innovation (the Green Revolution style of high-yield seeds, fertiliser and irrigation), genetically modified crops, improved storage and transport to cut post-harvest loss, nutrition programmes, vaccination campaigns, primary health care and clean water and sanitation. Each approach brings trade-offs. High-input agriculture can raise yields but cause pollution and cost small farmers; aid can save lives but risks dependency if not linked to local capacity. Evaluate by asking who gains, who is excluded and whether the approach is lasting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-food-health-study-guide--06-f-stakeholders.webp" width="900" height="900" alt="Six stakeholders are linked to a central circle labelled food and health: governments set policy and invest; international organisations coordinate aid; NGOs and charities deliver projects and relief; transnational corporations supply seeds through to retail; farmers and communities hold local knowledge; consumers shape demand. A banner gives the three evaluation questions: who gains, who is excluded and is it lasting." loading="lazy">
+  <figcaption>Stakeholders range from governments to consumers, and each strategy should be judged on who gains, who is excluded and whether it lasts.</figcaption>
+</figure>
+
 
 ## 6.4 Future health and food security and sustainability
 

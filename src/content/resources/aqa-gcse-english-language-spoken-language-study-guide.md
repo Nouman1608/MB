@@ -37,6 +37,12 @@ Spoken language is the part of AQA GCSE English Language that is not written in 
 
 The spoken language component is separate from Paper 1 and Paper 2. Your teacher assesses it in school, usually as a recorded or observed performance. The activity is set in a formal context, which means you are speaking to an audience beyond your close friends, with a purpose that matters. Your teacher will advise on the details of the task, timing and recording arrangements for your own school, and on how the endorsement is reported. The criteria are grouped under three headings, which are the three subtopics in this guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--01-strands-and-grade.webp" width="900" height="820" alt="Spoken language is assessed in school, has 0% weighting, and is reported as Pass, Merit, Distinction or Not Classified, separately from the grade from Paper 1 and Paper 2. The three strands are presenting information and ideas, responding to spoken language, and spoken Standard English. As a guide the presentation lasts no more than ten minutes including questions." loading="lazy">
+  <figcaption>Spoken language is reported separately from the grade and has three strands.</figcaption>
+</figure>
+
+
 ## Presenting information and ideas
 
 This strand is about what you say and how you organise it. A strong presentation:
@@ -50,6 +56,17 @@ This strand is about what you say and how you organise it. A strong presentation
 
 Choose a topic you know well or can research thoroughly. A narrow, specific title such as "Why a school should keep its library open at lunchtime" gives more to say, and more to evaluate, than a general title such as "School".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--03-delivery-speaker.webp" width="900" height="810" alt="A speaker stands at a podium facing an audience. Labels point to eye contact, volume, posture and gesture, and two boxes note that a steady pace shows control and that pauses help the audience absorb ideas." loading="lazy">
+  <figcaption>Six things the audience sees and hears when you deliver a talk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--04-speech-techniques.webp" width="900" height="780" alt="Each technique has an icon. Direct address is illustrated with &quot;you may have noticed&quot; and signposting with &quot;my second point is&quot;, both quoted in the lesson. Rhetorical questions, the rule of three and repetition for emphasis are named in the lesson without examples, so none are added." loading="lazy">
+  <figcaption>Five techniques that suit spoken presentations.</figcaption>
+</figure>
+
+
 ## Responding to spoken language
 
 After the presentation you will be expected to listen and respond. This includes answering questions and reacting to feedback or comments from the audience. This strand rewards:
@@ -62,6 +79,12 @@ After the presentation you will be expected to listen and respond. This includes
 
 Prepare by predicting three or four likely questions and practising answers. It is also useful to prepare a polite way to buy time, such as "That's an interesting question, let me think about the most important part of it."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--05-answering-questions.webp" width="900" height="730" alt="Four numbered steps run from listening to the whole question, pausing and thinking, answering what was asked, to adding an example or reason. Beside them, the speaker can stay flexible: rephrase an unclear question, concede a fair point or defend a view politely, and stay formal even when the question is surprising or critical." loading="lazy">
+  <figcaption>Listen, pause, answer, then add an example or reason.</figcaption>
+</figure>
+
+
 ## Spoken Standard English
 
 Standard English is the form of English used in formal writing and speech in public contexts, with consistent grammar and vocabulary that is not restricted to one region. In a formal presentation you are expected to use it accurately and fluently. Features to watch are:
@@ -73,6 +96,12 @@ Standard English is the form of English used in formal writing and speech in pub
 - **Contractions and fillers**: some contractions are acceptable in a presentation, but a formal tone is normally kept up.
 
 Spoken Standard English does not mean losing your accent or dialect. Accent is about pronunciation, and you can keep it. Standard English concerns grammar and vocabulary, and you should be able to control the formal register when the situation calls for it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--06-accent-standard-english.webp" width="900" height="860" alt="Accent is about pronunciation and can be kept. Standard English concerns grammar and vocabulary. Six corrections from the lesson show non-standard forms and their Standard English versions: we was to we were, they done it to they did it, I haven't got none to I do not have any, them books to those books, me and my friend to my friend and I (at the start of a formal sentence), and fillers such as like and you know to a pause." loading="lazy">
+  <figcaption>You can keep your accent; Standard English is about grammar and vocabulary.</figcaption>
+</figure>
+
 
 ## Worked example: planning a three-minute talk
 
@@ -87,6 +116,12 @@ A workable plan could be:
 5. Conclusion (10 seconds): return to the opening question and restate the claim.
 
 Add up the timings: 30 + 50 + 50 + 40 + 10 = 180 seconds, which is 3 minutes. Practise aloud with a timer, and adjust. Then prepare answers to questions such as "How would you persuade someone who has no free time?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--02-talk-timeline.webp" width="900" height="846" alt="Opening 30 s, point one 50 s, point two 50 s, point three 40 s and conclusion 10 s are drawn to scale on a seconds axis and add to 180 s, which is 3 minutes. At about 130 words a minute that is 390 words, so key points on notes are planned rather than a full script." loading="lazy">
+  <figcaption>Planning a three-minute talk: five parts, 180 seconds.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

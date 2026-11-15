@@ -48,9 +48,21 @@ This is one of five Depth Studies, examined in Paper 1 Section B (two questions 
 - **Credit and hire purchase:** buying on instalments and advertising let families buy goods they could not pay for at once; share buying "on the margin" spread too.
 - **Confidence and natural resources:** the USA had emerged from the war as the world's leading creditor with plentiful raw materials.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--15-usa-1920s-boom-factors.webp" width="900" height="930" alt="Five factors point at the 1920s boom. Government policy: laissez-faire, tax cuts and the Fordney-McCumber Tariff of 1922. Mass production: Ford’s moving assembly line cut the price of the Model T, and the car industry boosted steel, rubber, glass, oil and road building. New consumer goods: electrification allowed radios, refrigerators and other goods to be sold to millions. Credit and hire purchase, with advertising and share buying on the margin. Confidence and natural resources: the USA was the world’s leading creditor." loading="lazy">
+  <figcaption>The 1920s boom rested on government policy, mass production, new consumer goods, credit and confidence.</figcaption>
+</figure>
+
+
 ## Why did some industries and groups not share in the boom?
 
 Older industries -- coal, textiles, railways -- declined as oil, electricity, artificial fibres and cars replaced them. **Agriculture** suffered most: wartime demand ended, prices fell, and new machinery increased overproduction, so many farmers fell into debt and lost their land. Black Americans, especially sharecroppers in the South, many new immigrants and workers in declining industries saw little of the prosperity. The boom was real, but unevenly shared.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--16-usa-boom-not-shared.webp" width="900" height="823" alt="Left: growing industries, cars, oil, electricity and artificial fibres, shown with an up arrow. Right: declining older industries, coal, textiles and railways, shown with a down arrow. Below, a chain explains the farmers’ problem: wartime demand ended, prices fell, new machinery increased overproduction, and many farmers fell into debt and lost their land. Also left out: Black Americans, especially sharecroppers in the South, many new immigrants, and workers in declining industries." loading="lazy">
+  <figcaption>The boom was real but uneven: old industries, farmers and several groups of workers missed out.</figcaption>
+</figure>
+
 
 ## How far did US society change in the 1920s?
 
@@ -60,9 +72,26 @@ Older industries -- coal, textiles, railways -- declined as oil, electricity, ar
 
 **Prohibition.** The 18th Amendment and the Volstead Act banned alcohol from January 1920, backed by the temperance movement, rural Protestants and anti-German feeling. It failed because demand stayed high: speakeasies, bootlegging and organised crime flourished, with gangsters such as Al Capone in Chicago and the St Valentine's Day Massacre (1929). Corruption, lost tax revenue and the Depression led to repeal by the 21st Amendment in December 1933.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--17-usa-prohibition-rise-fall.webp" width="900" height="921" alt="A chain. Backed by the temperance movement, rural Protestants and anti-German feeling, the 18th Amendment and the Volstead Act banned alcohol from January 1920. Demand stayed high, so speakeasies, bootlegging and organised crime flourished, with gangsters such as Al Capone in Chicago and the St Valentine’s Day Massacre of 1929. Corruption, lost tax revenue and the Depression led to repeal by the 21st Amendment in December 1933." loading="lazy">
+  <figcaption>Prohibition began in 1920 and was repealed in December 1933 because it could not stop demand and fuelled crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--18-usa-intolerance-timeline.webp" width="900" height="772" alt="A timeline of intolerance. 1919 to 1920: the Red Scare and the Palmer Raids. 1921: immigration cut by quota laws. 1924: a further quota law. 1925: the Scopes Trial shows fundamentalist opposition to teaching evolution. Mid-1920s: a revived Ku Klux Klan has millions of members. 1927: Sacco and Vanzetti, Italian anarchists, are executed after a trial many saw as prejudiced. Black Americans faced segregation, lynching and discrimination." loading="lazy">
+  <figcaption>The 1920s also saw fear of radicals and immigrants, religious conflict and racism.</figcaption>
+</figure>
+
+
 ## How far was speculation responsible for the Wall Street Crash?
 
 Share prices rose far faster than company profits in 1928-29, fuelled by buying on the margin. When confidence broke, prices fell on **Black Thursday (24 October 1929)** and collapsed on **Black Tuesday (29 October)**. But speculation was the trigger rather than the only cause. Underlying weaknesses included overproduction, unequal distribution of income that limited demand, weak and unregulated banks, the farming crisis, and tariffs that reduced foreign trade.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--19-usa-wall-street-crash-causes.webp" width="900" height="831" alt="A tall stack. On top, speculation: share prices rose far faster than company profits in 1928 to 1929, fuelled by buying on the margin; prices fell on Black Thursday, 24 October 1929, and collapsed on Black Tuesday, 29 October. Beneath, five underlying weaknesses: overproduction, unequal distribution of income limiting demand, weak and unregulated banks, the farming crisis, and tariffs reducing foreign trade. Speculation was the trigger rather than the only cause." loading="lazy">
+  <figcaption>Speculation triggered the Crash, but it sat on weak foundations: overproduction, unequal incomes, weak banks, farming and tariffs.</figcaption>
+</figure>
+
 
 ## What were the economic and social consequences?
 
@@ -82,6 +111,12 @@ Roosevelt's inaugural address in March 1933 declared that "the only thing we hav
 | NRA (National Recovery Administration) | Codes on wages, hours and prices for industry |
 | PWA (Public Works Administration) | Large public building projects |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--20-usa-new-deal-1933-1935.webp" width="900" height="906" alt="Top: the first New Deal, 1933, the Hundred Days after the Emergency Banking Act: CCC, work for young men in forestry and conservation; AAA, paid farmers to cut production and raise prices; TVA, dams, electricity and flood control in a poor region; NRA, codes on wages, hours and prices for industry; PWA, large public building projects. Bottom: the Second New Deal, 1935, moving towards reform and social welfare: WPA employed millions; the Social Security Act created old-age pensions and unemployment insurance; the Wagner Act protected trade unions’ right to bargain." loading="lazy">
+  <figcaption>Know which measures belong to 1933 and which to 1935: examiners test how the New Deal changed.</figcaption>
+</figure>
+
+
 ## How far did the New Deal change after 1933?
 
 The **Second New Deal** (1935) moved towards reform and social welfare: the **Works Progress Administration** employed millions, the **Social Security Act** created old-age pensions and unemployment insurance, and the **Wagner Act** protected trade unions' right to bargain.
@@ -95,6 +130,12 @@ The **Second New Deal** (1935) moved towards reform and social welfare: the **Wo
 ## Did persistent unemployment mean the New Deal failed?
 
 Unemployment fell from its 1933 peak but rose again in the recession of 1937-38 after Roosevelt cut spending, and it remained high until rearmament and the Second World War. Against this, the New Deal restored confidence in banks, gave relief to millions, built lasting infrastructure, created Social Security and changed expectations of the federal government. Weaknesses also included limited help for Black Americans and sharecroppers. A balanced answer separates *recovery* (limited) from *relief and reform* (more successful).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-usa-1919-41--21-usa-new-deal-verdict.webp" width="900" height="896" alt="A balance with two pans. Left pan, recovery was limited: unemployment fell from its 1933 peak but rose again in the 1937 to 1938 recession after Roosevelt cut spending, and stayed high until rearmament and the Second World War. Right pan, relief and reform were more successful: confidence in banks restored, relief for millions, lasting infrastructure, Social Security. A weakness was limited help for Black Americans and sharecroppers. The lesson’s judgement is that “failure” is too strong." loading="lazy">
+  <figcaption>The New Deal did little to end unemployment but did more for relief and reform, so “failure” is too strong.</figcaption>
+</figure>
+
 
 ## Worked example: a (c) plan
 

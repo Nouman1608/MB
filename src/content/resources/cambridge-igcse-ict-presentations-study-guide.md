@@ -46,6 +46,17 @@ Topic 19 is a practical topic taught alongside document production, spreadsheets
 
 A presentation is a series of **slides**. Each slide uses a **layout**, which is a pattern of **placeholders** for a title, body text, images, charts or tables. Choose the layout that matches the content instead of drawing text boxes where a placeholder would do, as placeholders keep the position and style linked to the master.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--05-show-timing.webp" width="900" height="650" alt="Twelve slides of 25 seconds each are drawn along a time axis from 0 to 300 seconds. The total is 12 x 25 = 300 seconds, which is 5 minutes." loading="lazy">
+  <figcaption>12 slides at 25 seconds each run for 300 seconds, or 5 minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--06-handout-pages.webp" width="900" height="1054" alt="Page thumbnails show that 12 slides at 6 per page need 2 pages, 13 slides need 3 because one slide sits alone, and 20 slides at 4 per page need 5 pages." loading="lazy">
+  <figcaption>Round up when slides do not fill the last handout page.</figcaption>
+</figure>
+
+
 ### Adding content
 
 - **Text** can be typed or imported. Keep it short: bullet points, not paragraphs. A common rule of thumb is a few short bullets per slide.
@@ -54,9 +65,21 @@ A presentation is a series of **slides**. Each slide uses a **layout**, which is
 - **Audio and video** can be inserted when the task asks for them.
 - **Hyperlinks and action buttons** link to another slide, a file or a web page, which allows a non-linear presentation with a home or back button.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--03-image-aspect.webp" width="900" height="850" alt="One landscape picture is shown original, stretched, resized with the aspect ratio locked, and cropped. Stretching turns the round sun into an oval, while locking the ratio or cropping keeps it undistorted." loading="lazy">
+  <figcaption>Lock the aspect ratio so images are resized, not stretched.</figcaption>
+</figure>
+
+
 ### Animation and transitions
 
 A **transition** is the effect that plays when one slide changes to the next. An **animation** controls how objects on a slide appear, move or disappear, for example bullet points that appear one by one. Used sparingly they help the audience follow the order of ideas. Too many different effects distract from the message, so apply the same transition throughout unless told otherwise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--02-transition-animation.webp" width="900" height="900" alt="A transition plays as one slide changes to the next. An animation controls how objects inside one slide appear, such as bullet points arriving one by one." loading="lazy">
+  <figcaption>A transition moves between slides; an animation acts on objects within a slide.</figcaption>
+</figure>
+
 
 ### Audience and purpose
 
@@ -76,6 +99,12 @@ Items you normally set on the master:
 - the position and size of placeholders.
 
 The benefit is **consistency** and **speed**: change the title colour once on the master and every slide updates. The mistake that costs marks is formatting slides one at a time, leaving small differences, or editing individual slides when the instruction was to set the style on the master. Another is placing a logo on a single slide when it was meant to be on all of them. Always check that a change made on the master has actually reached the slides, and remember that text you format by hand on a slide overrides the master.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--01-master-slide.webp" width="900" height="870" alt="A master slide holds the title style, body style, logo and slide number. Three slides linked to it all match, while a fourth slide formatted by hand differs and has no logo. A change made once on the master updates every linked slide." loading="lazy">
+  <figcaption>One change on the master reaches every slide; hand formatting breaks the link.</figcaption>
+</figure>
+
 
 ## Edit a presentation
 
@@ -101,6 +130,12 @@ The same file can be output in different forms for different needs.
 - **File formats**: the native presentation format keeps everything editable, while a PDF is better for sharing because it opens the same on any device. A self-running version can be exported for display.
 
 Before printing, check the preview, the orientation, headers and footers (such as your name and candidate number if the task requires them), and the number of slides per page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-presentations-study-guide--04-output-forms.webp" width="900" height="957" alt="One presentation file can be output as a slide show, printed slides, handouts, notes pages, an outline or a PDF. The figure shows the form each one takes." loading="lazy">
+  <figcaption>The same file can be output in several forms for different needs.</figcaption>
+</figure>
+
 
 ## Worked example
 

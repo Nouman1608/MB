@@ -77,6 +77,17 @@ the two texts throughout. Then write your own accessible, well-crafted piece for
 3. How does it **position the reader** and try to influence them?
 4. How is it **connected to discourses** about language?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--14-p2-four-questions.webp" width="900" height="870" alt="Two texts are compared throughout, and each is questioned four ways. 1 How does the text represent language, for example as a living system, a set of rules or a sign of decline? Look at metaphors and evaluative lexis. 2 What identity does the producer construct: an expert, an ordinary person or a guardian of standards? 3 How does the text position the reader, through direct address, inclusive we and rhetorical questions? 4 Which wider discourse about language does it connect to, and does it reinforce or challenge it?" loading="lazy">
+  <figcaption>Four questions to ask of each Section B text.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--15-p2-extract.webp" width="900" height="814" alt="Fragments of the lesson’s worked extract are marked with numbers matching the four analysis questions. Dies and rot are a decay metaphor presenting English as a living thing that can die (question 1). We owe it to our children shows the producer as a responsible adult and guardian (question 2). We and the hyperbole Every time… dies position the reader as sharing the concern (question 3). Together they reproduce a decline, deficit discourse about young people’s speech (question 4)." loading="lazy">
+  <figcaption>Fragments of the lesson’s extract matched to the four questions.</figcaption>
+</figure>
+
+
 ## Common discourses to recognise
 
 | Discourse | Signals |
@@ -89,6 +100,12 @@ the two texts throughout. Then write your own accessible, well-crafted piece for
 
 Useful references (use sparingly): Jean Aitchison's *The Language Web* (1997), with its "damp spoon", "crumbling
 castle" and "infectious disease" metaphors for complaints about change; Deborah Cameron's *Verbal Hygiene* (1995).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--13-p2-discourse-map.webp" width="900" height="840" alt="Five familiar discourses about language. Decline or deficit claims that standards are falling and uses metaphors of decay, disease or invasion. Prescriptive correctness claims there is one right way to use English and uses modal verbs of obligation such as should and must. Descriptive discourse says change is natural and uses hedged, evidence-based lexis. Diversity as identity says dialects and sociolects express belonging and uses inclusive pronouns. Discrimination says judging speech is a way of judging people and uses lexis of fairness and injustice." loading="lazy">
+  <figcaption>Five discourses about language and the language that typically carries them.</figcaption>
+</figure>
+
 
 ## Method in steps: the 40-mark analysis
 
@@ -109,6 +126,12 @@ castle" and "infectious disease" metaphors for complaints about change; Deborah 
 4. Explain each concept with an everyday example.
 5. Use the conventions of the form (headline, direct address, sign-off) and craft an opening and ending.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--16-p2-directed-writing.webp" width="900" height="940" alt="The directed writing task asks for a piece in a named form for a non-specialist audience, assessed on language understanding (AO2) and expertise and creativity in writing (AO5). Match the form: an article needs a headline and a clear line of argument, a speech needs direct address and rhetorical patterning, and a blog can be more personal. Shape the piece with a strong opening hook, a logical sequence of ideas and a memorable ending. Explain terms such as sociolect or prescriptivism in plain English, and use the ideas in the texts without copying them." loading="lazy">
+  <figcaption>Match the form, shape the piece and explain terms plainly.</figcaption>
+</figure>
+
 
 ## Worked reminder: turning jargon into accessible writing
 
@@ -169,6 +192,12 @@ Writing two separate mini-essays instead of comparing as you go is a common way 
 
 **Which writers about language can I refer to in Section B?**
 Useful references, used sparingly, include Jean Aitchison's The Language Web, with its damp spoon, crumbling castle and infectious disease metaphors for complaints about change, and Deborah Cameron's Verbal Hygiene.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-paper-2-language-discourses-and-writing--11-p2-paper-shape.webp" width="900" height="570" alt="Paper 2 lasts 2 hours 30 minutes, is worth 100 marks and counts for 40 percent of the A-level. Section A is one evaluative essay from a choice of two, either language diversity or language change, for 30 marks. Section B, Language Discourses, has an analysis of how two texts use language to present ideas, attitudes and opinions for 40 marks, and a directed writing task on the same topic for 30 marks." loading="lazy">
+  <figcaption>Paper 2 sections with their marks, time and weighting.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

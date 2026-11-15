@@ -46,6 +46,12 @@ Topic 4 is examined on Paper 1 (Computer Systems). It links to hardware (the fet
 
 **Application software** provides the services that the **user** requires, such as writing a document, editing a photograph or browsing the web. Examples are a word processor, a spreadsheet, a web browser and a game. A good test is to ask "is this software doing the user's job, or running the computer?"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--08-sw-system-vs-app.webp" width="900" height="752" alt="Two columns. System software provides the services the computer requires: the operating system and utility software such as anti-virus. Application software provides the services the user requires: a word processor, a spreadsheet, a web browser and a game." loading="lazy">
+  <figcaption>System software runs the computer (operating system, utilities such as anti-virus); application software does the user's job (word processor, spreadsheet, browser, game).</figcaption>
+</figure>
+
+
 ## What does an operating system do?
 
 An **operating system (OS)** is loaded when the computer starts and stays in control while it runs. The syllabus lists these functions:
@@ -60,6 +66,12 @@ An **operating system (OS)** is loaded when the computer starts and stays in con
 - **Providing system security**: for example controlling access with passwords and access rights.
 - **Managing user accounts**: separate settings, files and permissions for each user.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--10-sw-os-functions.webp" width="900" height="1040" alt="The operating system sits between application software above and hardware below. Inside it are nine functions: managing files, handling interrupts, providing an interface, managing peripherals and drivers, managing memory, managing multitasking, providing a platform for running applications, providing system security and managing user accounts." loading="lazy">
+  <figcaption>The nine operating system functions listed in the 0478 syllabus, between the applications and the hardware.</figcaption>
+</figure>
+
+
 ## How do hardware, firmware and the operating system work together?
 
 Applications software cannot run on bare hardware. The syllabus describes three layers:
@@ -69,6 +81,12 @@ Applications software cannot run on bare hardware. The syllabus describes three 
 3. **Applications** are run on the operating system, which gives them access to the hardware.
 
 An exam answer should keep this order: hardware, then firmware (bootloader), then OS, then application.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--09-sw-layers.webp" width="900" height="750" alt="Four layers from bottom to top: hardware, firmware (the bootloader, held in non-volatile memory), operating system, application software. At switch-on the bootloader runs on the hardware, the bootloader loads the operating system, and applications run on the operating system." loading="lazy">
+  <figcaption>Keep the order: hardware, then firmware (bootloader), then operating system, then application.</figcaption>
+</figure>
+
 
 ## What is an interrupt and how is it handled?
 
@@ -87,6 +105,12 @@ How it is handled:
 
 Interrupts mean the processor does not waste time repeatedly checking each device.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--11-sw-interrupt.webp" width="900" height="870" alt="A timeline of the processor running a printing task one fetch-decode-execute cycle at a time. A key press puts a keyboard interrupt in the interrupt queue during cycle 3. At the end of cycle 3 the processor checks the queue, finds an interrupt of higher priority, saves the state of the printing task, runs the keyboard interrupt service routine, restores the saved state and carries on printing with cycle 4." loading="lazy">
+  <figcaption>The processor checks for interrupts at the end of each cycle; for a higher-priority one it saves state, runs the ISR, restores state and carries on.</figcaption>
+</figure>
+
+
 ## What are high-level and low-level languages?
 
 | | High-level language | Low-level language |
@@ -97,6 +121,12 @@ Interrupts mean the processor does not waste time repeatedly checking each devic
 | Direct manipulation of hardware | Not usually possible | Possible, for example to control memory locations and registers |
 
 **Machine code** is binary instructions the processor runs directly. **Assembly language** is a form of low-level language that uses **mnemonics** such as LDA and ADD. An **assembler** is needed to translate an assembly language program into machine code.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--13-sw-translators.webp" width="900" height="770" alt="Two source languages lead to machine code. A high-level language, which uses English-like keywords and runs on many processors once translated, is translated by a compiler or an interpreter. An assembly language, which uses mnemonics such as LDA and ADD and belongs to one type of processor, is translated by an assembler. Both end as machine code, the binary instructions the processor runs directly." loading="lazy">
+  <figcaption>High-level code is translated by a compiler or interpreter; assembly language by an assembler; both end up as machine code.</figcaption>
+</figure>
+
 
 ## How do a compiler and an interpreter differ?
 
@@ -110,6 +140,12 @@ Interrupts mean the processor does not waste time repeatedly checking each devic
 
 The syllabus's key point: an **interpreter is mostly used when developing** a program and a **compiler is used to translate the final program**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--12-sw-compiler-interpreter.webp" width="900" height="860" alt="The same five-line program with an error on line 4, handled two ways. A compiler translates all the lines at once and then gives an error report for the whole code. An interpreter translates and runs line by line: lines 1 to 3 run, it stops at line 4 where the error is, and line 5 is never reached." loading="lazy">
+  <figcaption>A compiler translates everything first and reports errors for the whole code; an interpreter runs line by line and stops where the error is found.</figcaption>
+</figure>
+
+
 ## What is an IDE and what does it provide?
 
 An **integrated development environment (IDE)** is software that provides the tools for writing program code in one place. The syllabus lists:
@@ -121,6 +157,12 @@ An **integrated development environment (IDE)** is software that provides the to
 - **Auto-completion**: suggests the rest of a keyword or identifier as you type.
 - **Auto-correction**: corrects common errors, such as misspelt keywords.
 - **Prettyprint**: displays code with consistent indentation and colour-coded keywords to improve readability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-software-study-guide--14-sw-ide.webp" width="900" height="1090" alt="A mock-up of an integrated development environment. A code editor shows pseudocode with indented, colour-coded keywords (prettyprint). A Run button and an output pane give a run-time environment, and a built-in translator is shown in the toolbar. Line 6 has a misspelt keyword underlined with an error message (error diagnostics) and a suggested correction. On line 7 a partly typed word offers a completion. Numbers 1 to 7 mark the seven functions." loading="lazy">
+  <figcaption>An IDE gathers the tools for writing code in one place: editor, run-time environment, translator, error diagnostics, auto-completion, auto-correction and prettyprint.</figcaption>
+</figure>
+
 
 ## Worked example: choosing a translator
 

@@ -38,11 +38,23 @@ Three techniques help you break down a problem before you design the solution.
 
 When asked to "describe" one of these in a scenario, always apply it. Saying "decomposition is breaking a problem down" earns a mark; naming the actual sub-tasks in the scenario earns the rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--14-ad-break.webp" width="900" height="1070" alt="Abstraction turns a winding track with stations A to D into a straight route map showing only order. Decomposition splits a library system into searching, borrowing, returning and fines. Pattern recognition puts five identical repeated steps into one loop." loading="lazy">
+  <figcaption>Abstraction, decomposition and pattern recognition each shown with the lesson example.</figcaption>
+</figure>
+
+
 ## Representing algorithms
 
 An algorithm can be shown in words, as a **flowchart** or as **pseudocode**. In a flowchart, a rounded terminator marks start and end, a parallelogram is input or output, a rectangle is a process (such as an assignment), and a diamond is a decision with labelled exits for yes and no. Arrows show the order. Flowcharts are easy to read but long to draw. Pseudocode is closer to a real program and is what you will mostly write.
 
 A good algorithm has clear inputs, a finite number of steps, a definite output and no ambiguity. Use meaningful names such as `Total` and `Count`, and indent loop and selection bodies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--15-ad-flow.webp" width="900" height="1100" alt="A flowchart finds the highest of five marks. Start, set Highest to 0, input Mark, ask whether Mark is greater than Highest, update Highest if so, repeat until five marks are done, then output Highest. The four symbol types are labelled." loading="lazy">
+  <figcaption>The four flowchart symbols used in a find-the-highest flowchart.</figcaption>
+</figure>
+
 
 ## Standard methods of solution
 
@@ -102,6 +114,17 @@ A **trace table** records the value of each variable (and any output) as an algo
 | Boundary (extreme) | Values at the edge of the valid range, and the first value outside it | 1 and 10 accepted; 0 and 11 rejected |
 | Abnormal (erroneous) | Data of the wrong type that should be rejected | "ten" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--19-ad-valver.webp" width="900" height="1050" alt="The form says 17 but 71 is typed. A range check from 0 to 120 accepts 71. Double entry compares 71 with a second entry of 17 and finds a mismatch. The validation checks named in the lesson are listed below." loading="lazy">
+  <figcaption>Why a value can pass validation yet fail verification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--20-ad-testdata.webp" width="900" height="760" alt="Circles for 0 to 11 show a rule accepting 1 to 10. 5 is normal, 1 and 10 are boundary values and accepted, 0 and 11 are the first values outside and are rejected, and the word ten is abnormal." loading="lazy">
+  <figcaption>Normal, boundary and abnormal test data for whole numbers 1 to 10.</figcaption>
+</figure>
+
+
 ## Worked example 1: tracing a bubble sort
 
 Sort the list 14, 9, 21, 3, 17 into ascending order using the bubble sort above. After each pass the list is:
@@ -116,6 +139,12 @@ Sort the list 14, 9, 21, 3, 17 into ascending order using the bubble sort above.
 
 Pass 1 working: compare 14 and 9, swap (9, 14, 21, 3, 17); compare 14 and 21, no swap; compare 21 and 3, swap (9, 14, 3, 21, 17); compare 21 and 17, swap (9, 14, 3, 17, 21). The largest value, 21, is now in its final place. The list was already sorted after pass 3, so pass 4 makes no swaps. An improved version uses a flag to stop as soon as a whole pass makes no swaps, which saves work on nearly sorted data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--17-ad-bubble.webp" width="900" height="970" alt="The list 14, 9, 21, 3, 17 is shown after each of four passes with swaps of 3, 1, 1 and 0. The largest unsorted value reaches the end each pass. A strip shows one swap using Temp in three steps." loading="lazy">
+  <figcaption>Bubble sort pass by pass, plus the three-step swap with a temporary variable.</figcaption>
+</figure>
+
+
 ## Worked example 2: linear search trace
 
 Search the same original list, 14, 9, 21, 3, 17, for the target 21.
@@ -128,9 +157,21 @@ Search the same original list, 14, 9, 21, 3, 17, for the target 21.
 
 The loop stops at index 3 because Found is TRUE, so only three comparisons were made. Searching for 50 would make five comparisons and end with Found still FALSE, so the algorithm should then output a "not found" message after the loop.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--18-ad-linear.webp" width="900" height="940" alt="Searching for 21 checks indexes 1, 2 and 3 and stops with Found TRUE after three comparisons. Searching for 50 checks all five items, Found stays FALSE, and a not found message is output." loading="lazy">
+  <figcaption>A linear search that succeeds after three comparisons and one that fails after five.</figcaption>
+</figure>
+
+
 ## Worked example 3: finding a fault
 
 An algorithm should output the highest of five marks but starts with `Highest ← 0` and uses `IF Mark < Highest THEN Highest ← Mark`. The comparison is the wrong way round, so no mark is ever below 0, Highest never changes, and the program always outputs 0. To fix it, change the condition to `Mark > Highest`. Trace the marks 62, 48, 75, 50, 39 through the corrected version: Highest becomes 62, stays 62, becomes 75, and stays 75, giving the correct output of 75.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--16-ad-trace.webp" width="900" height="860" alt="Two trace tables use the marks 62, 48, 75, 50 and 39. With the wrong comparison Highest stays 0 and the output is 0. With the corrected comparison Highest becomes 62, then 75, and the output is 75." loading="lazy">
+  <figcaption>Trace tables for the faulty and corrected find-the-highest algorithm.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

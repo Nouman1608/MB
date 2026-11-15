@@ -52,6 +52,12 @@ Leisure is time free from work and obligations, and recreation is what people do
 
 Leisure participation is unequal. People with low income, disability, caring responsibilities or little access to green space may have fewer opportunities. A geographer therefore looks for patterns by age, gender, income and location, and asks why they exist. Consider also how leisure has become commercialised, with growth in theme parks, shopping as leisure, fitness industries and sporting events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--01-leisure-influences.webp" width="900" height="845" alt="Five boxes each with an icon feed arrows into one panel called leisure patterns change. The five influences are time and income (clock), mobility (car), technology (phone), demographics (people) and culture and values (heart). A note below says participation is unequal: low income, disability, caring duties and little green space reduce opportunities." loading="lazy">
+  <figcaption>The five influences the lesson lists on leisure patterns, with the unequal participation point.</figcaption>
+</figure>
+
+
 ## 5.2 Tourism and sport at the local and national scale
 
 Tourism covers travel and temporary stay away from home for leisure, business or other purposes. Types include domestic and international, mass and niche, and categories such as beach, cultural, heritage, adventure, ecotourism and urban tourism.
@@ -66,6 +72,22 @@ Impacts of tourism and sport at local and national scales can be sorted into:
 
 Sport operates at similar scales. Local clubs support health and community, while national stadiums and events promote identity and regeneration. Large sporting events can bring investment and infrastructure, though they may leave costly facilities that are underused. Evaluate legacy: who benefits, and for how long?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--02-butler-cycle.webp" width="900" height="820" alt="A smooth rising S-shaped curve of visitor numbers over time, split into five numbered stages: exploration, involvement, development, consolidation and stagnation. After stagnation the line splits into two possible futures: rejuvenation (visitor numbers rise again) or decline (they fall). Not to scale." loading="lazy">
+  <figcaption>Butler’s tourism area life cycle: visitor numbers rise through stages and then either decline or are rejuvenated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--03-doxey-index.webp" width="900" height="780" alt="Four steps rising from left to right as visitor numbers increase. Each step has a face showing local attitude: euphoria (smiling), apathy (neutral), annoyance (frowning) and antagonism (frowning with angry brows)." loading="lazy">
+  <figcaption>Doxey’s index: host attitudes sour as visitor numbers rise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--04-impacts-grid.webp" width="900" height="800" alt="A grid with three rows, economic, social and cultural, and environmental, and two columns, benefits and costs. Economic: jobs, income, multiplier effect and foreign exchange against seasonal work, low wages, leakage and price rises. Social and cultural: cultural exchange and kept traditions against commodification, crowding and displacement. Environmental: money for conservation against pressure on habitats, water and waste, erosion and emissions. A banner says always say for whom." loading="lazy">
+  <figcaption>Impacts of tourism and sport sorted into benefits and costs, with the reminder to say for whom.</figcaption>
+</figure>
+
+
 ## 5.3 Tourism and sport at the international scale
 
 Global tourism has grown for decades, interrupted by shocks such as health crises, conflict and economic downturns. Drivers include falling real transport costs, rising incomes, visa liberalisation, digital platforms and the spread of low-cost airlines. Flows are shaped by push factors in origin countries (stress, income, climate, leisure time) and pull factors in destinations (climate, attractions, safety, price, accessibility).
@@ -73,6 +95,12 @@ Global tourism has grown for decades, interrupted by shocks such as health crise
 Transnational corporations are important in hotels, airlines, cruise and online booking, and global sport involves federations, broadcasters, sponsors and clubs. Mega-events such as world championships and Games are bid for by cities and countries for visibility and development, but critics point to cost overruns, displacement of residents and uneven benefits. Sports migration, transfer markets and media coverage show globalisation in action.
 
 Tourism links to inequality and development. It can be a route to income for developing economies, but leakage can mean that a large share of spending leaves the destination, particularly with all-inclusive packages owned by foreign firms. Tourism is also exposed to risk: hazards, political instability and climate change. Environmental concern includes aviation emissions and pressure on fragile places such as coral reefs and polar regions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--05-push-pull.webp" width="900" height="760" alt="Two panels joined by a thick arrow carrying a suitcase from left to right. The origin country on the left has push factors that arrows lead out of: stress, income, climate and leisure time. The destination on the right has pull factors that arrows lead into: climate, attractions, safety, price and accessibility." loading="lazy">
+  <figcaption>Push factors in the origin country and pull factors in the destination shape tourist flows.</figcaption>
+</figure>
+
 
 ## 5.4 Managing tourism and sport for the future
 
@@ -86,6 +114,12 @@ The core concept is sustainability: meeting present needs without compromising t
 
 Stakeholders include tourists, residents, businesses, governments, conservation bodies and international organisations. They disagree: businesses may want growth while residents want less crowding. Evaluate with criteria such as who benefits, long-term viability and enforcement. Think about future scenarios, including technology, changing travel habits, climate impacts on destinations such as ski resorts and beaches, and the effect of overtourism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--07-sustainable-balance.webp" width="900" height="900" alt="Three overlapping circles labelled environmental, social and economic. Where they overlap in the centre is sustainable balance. Below are four management tools: ecotourism, visitor limits, planning controls and certification." loading="lazy">
+  <figcaption>Sustainable tourism balances environmental, social and economic goals, using the listed management tools.</figcaption>
+</figure>
+
+
 ## Worked examples
 
 ### Example 1: tourist spending and leakage
@@ -97,6 +131,12 @@ A fictional island receives 40,000 stay-over visitors in a year, each spending o
 - Retained income = 26,000,000 x 0.45 = 11,700,000.
 
 Leakage is therefore 14,300,000. If the island promotes locally owned accommodation and food supply and cuts leakage to 35 per cent, retained income rises to 26,000,000 x 0.65 = 16,900,000, an increase of 5,200,000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--06-leakage.webp" width="900" height="730" alt="Two horizontal bars each representing 26 million currency units of tourist spending. With 55 per cent leakage, 11.7 million is kept and 14.3 million leaves the island. If leakage falls to 35 per cent, 16.9 million is kept, an extra 5.2 million. Numbers are the lesson’s worked example." loading="lazy">
+  <figcaption>The lesson’s worked example: cutting leakage from 55 to 35 per cent keeps 5.2 million more on the island.</figcaption>
+</figure>
+
 
 ### Example 2: percentage change in arrivals
 

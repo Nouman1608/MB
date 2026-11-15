@@ -61,6 +61,17 @@ The growth rate is the **percentage change in real GDP**, normally over a year.
 | More government spending | A larger or better-skilled workforce (education, training, migration) |
 | More demand for exports | Better use of natural resources and higher productivity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--06-real-gdp-growth.webp" width="900" height="950" alt="Three bars for Country P in billion units: last year 500, this year nominal 540 (growth 8%), this year real 514.3 (540 divided by 1.05, growth 2.9%). GDP per capita with 20 million people is 27,000." loading="lazy">
+  <figcaption>Real GDP removes the effect of price rises, so real growth is smaller than nominal growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--07-growth-capacity.webp" width="900" height="990" alt="Illustrative production possibility curves. A point inside PPC1 moves towards the curve when spending raises use of existing capacity. The curve shifts out to PPC2 when capital, labour or technology improve productive capacity." loading="lazy">
+  <figcaption>Growth can come from using spare capacity or from raising capacity.</figcaption>
+</figure>
+
+
 ### Benefits and costs of growth
 
 | Benefits | Costs |
@@ -124,6 +135,12 @@ Year 3 growth = (103 − 104) ÷ 104 × 100 = **−0.96%**, so output fell. The 
 
 The ILO measure is usually higher than the Claimant Count, because many unemployed people are not claiming benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--08-unemployment-rate.webp" width="900" height="1040" alt="A bar shows a labour force of 31.5 million: 30 million employed and 1.5 million unemployed. The unemployment rate is 1.5 divided by 31.5 times 100, which is 4.8%, not out of the whole population. The Labour Force Survey samples households; the claimant count counts benefit claimants and misses job-seekers who do not claim." loading="lazy">
+  <figcaption>The unemployment rate is a percentage of the labour force, not of the population.</figcaption>
+</figure>
+
+
 ### Types and causes of unemployment
 
 | Type | Cause | Example |
@@ -134,6 +151,12 @@ The ILO measure is usually higher than the Claimant Count, because many unemploy
 | Cyclical | Too little total demand in a downturn or recession, so firms in many industries cut jobs | Job losses across the economy in the 2008–09 recession |
 
 Structural and cyclical unemployment are the most serious because they can last a long time. Frictional and seasonal unemployment are usually short.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--09-unemployment-types-fix.webp" width="900" height="970" alt="Four rows. Frictional (between jobs) and seasonal (demand follows the seasons) are short-term; seasonal is not helped much by demand or training policy. Structural (one industry declines) and cyclical (total demand falls) can last long; training suits structural, raising demand suits cyclical." loading="lazy">
+  <figcaption>Match the policy to the type of unemployment.</figcaption>
+</figure>
+
 
 ### Consequences for different groups
 
@@ -219,6 +242,12 @@ If the unemployment rate falls from 5.0% to 4.8%, that is a fall of 0.2 percenta
 
 **Does full employment mean zero unemployment?**
 No. Full employment means almost everyone who wants a job has one; a small amount of unemployment remains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-economic-growth-and-unemployment--10-gdp-per-person.webp" width="900" height="1050" alt="Bar chart of percentage changes: GDP plus 2 percent, population plus 3 percent, GDP per person about minus 1.0 percent (1.02 divided by 1.03 minus 1). People share a strip of output so each slice is smaller." loading="lazy">
+  <figcaption>If population grows faster than GDP, output per person falls.</figcaption>
+</figure>
+
 
 ## Official syllabus
 

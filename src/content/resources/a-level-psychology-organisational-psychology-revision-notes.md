@@ -79,6 +79,17 @@ For full explanations read the [Organisational Psychology study guide](/resource
 | Walton's QWL (eight) | Fair pay; safe conditions; use and develop capacities; growth and security; social integration; constitutionalism; work and total life space; social relevance |
 | Blau and Boal | Institutionalised stars, lone wolves, corporate citizens, apathetic employees |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--02-org-maslow.webp" width="900" height="830" alt="A five-level pyramid: physiological (pay), safety (job security), love and belonging (colleagues), esteem (recognition), self-actualisation (challenging work), with an arrow showing lower needs are largely met first." loading="lazy">
+  <figcaption>Maslow’s levels and what meets each one at work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--05-org-kelley.webp" width="900" height="900" alt="A chart with active engagement across and independent critical thinking up. Exemplary is high on both, alienated is critical but passive, conformist is active but uncritical, passive is low on both and pragmatist is in the middle." loading="lazy">
+  <figcaption>Kelley’s five followership styles on two dimensions.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Definition |
@@ -109,6 +120,12 @@ For full explanations read the [Organisational Psychology study guide](/resource
 | Claypoole and Szalma (2019) | Vigilance task under monitoring (experiment 1) | Electronic monitoring can produce social facilitation effects | Lab control; short task |
 | Swat (1997) | 83 accidents in four plants (2,964 workers) analysed by frequency, severity and cause | At least 45.8% involved poor housekeeping; most minor incidents went unreported | Objective records over time; one context |
 | Giacalone and Rosenfeld (1987) | Unionised factory workers rated reasons for sabotage and four methods | Those accepting more reasons justified all sabotage except dishonesty | Self-report attitudes, not actual behaviour |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--03-org-landry.webp" width="900" height="980" alt="123 students were randomly allocated to two conditions, both offered the same 10 dollar gift card framed differently, then did the same anagram task. Autonomy-supportive: more need satisfaction, intrinsic motivation and better performance. Controlling: more need frustration and extrinsic motivation, which did not predict performance." loading="lazy">
+  <figcaption>Study 1: the same reward framed in two ways gave different results.</figcaption>
+</figure>
+
 
 ## Supporting studies to name
 
@@ -150,6 +167,27 @@ For full explanations read the [Organisational Psychology study guide](/resource
 8. In Blau and Boal's model, what is a "lone wolf"?
 
 **Answers:** (1) expectancy, instrumentality, valence; (2) public, private, personal; (3) passive; (4) strength, immediacy and number of sources; (5) omission, commission, sequencing, timing; (6) feedback; (7) work itself, pay, promotion, supervision, co-workers; (8) an employee high in job involvement but low in organisational commitment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--01-org-vie.webp" width="900" height="955" alt="A chain from effort to performance to reward. Expectancy links effort to performance, instrumentality links performance to reward, and valence is how much the reward is valued. A second chain shows instrumentality at zero, so motivation is low." loading="lazy">
+  <figcaption>Vroom’s three beliefs; if any one is zero, motivation is low.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--04-org-muczyk.webp" width="900" height="750" alt="A two by two grid: autocratic or democratic across the top (how far staff take part in decisions) and directive or permissive down the side (how closely staff are directed), giving four styles." loading="lazy">
+  <figcaption>Two dimensions give four leadership styles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--06-org-herzberg.webp" width="900" height="794" alt="Two columns. Hygiene factors prevent dissatisfaction but do not motivate: pay, supervision, working conditions, company policy, relationships, security. Motivators produce satisfaction: achievement, recognition, the work itself, responsibility, advancement." loading="lazy">
+  <figcaption>Hygiene factors stop dissatisfaction; motivators create satisfaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--07-org-blau.webp" width="900" height="760" alt="A two by two grid of organisational commitment against job involvement: institutionalised stars (high, high), lone wolves (high involvement, low commitment), corporate citizens (low involvement, high commitment) and apathetic employees (low on both), expected to be absent most." loading="lazy">
+  <figcaption>Four employee types from involvement and commitment.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

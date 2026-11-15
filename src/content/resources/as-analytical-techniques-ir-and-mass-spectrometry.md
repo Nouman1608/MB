@@ -92,6 +92,17 @@ roughly 2500–3000 cm⁻¹ indicates a carboxylic acid specifically, since its
 O–H absorption is unusually broad and sits below (not overlapping) the
 alcohol O–H and N–H regions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--08-ir-bond-ranges.webp" width="900" height="1094" alt="A chart of infrared absorption ranges on a wavenumber axis running from high on the left to low on the right. Bars show O-H in alcohols 3200 to 3600 (broad), N-H 3300 to 3500, O-H in carboxylic acids 2500 to 3000 (very broad), C-H 2850 to 2950, C triple bond N 2200 to 2250, C=O in esters 1710 to 1750, C=O in aldehydes, ketones and acids 1670 to 1740, C=O in amides 1640 to 1690, C=C 1500 to 1680 and C-O 1040 to 1300, all in reciprocal centimetres. Exact values are supplied in the exam data section." loading="lazy">
+  <figcaption>Each bond absorbs infrared in a characteristic wavenumber range; exact values are supplied in the exam data section.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--09-ir-fingerprints.webp" width="900" height="1150" alt="Three schematic infrared spectra with wavenumber from high on the left to low on the right. An alcohol shows a broad O-H absorption around 3400, a C-H peak near 2900 and a C-O peak near 1170. An aldehyde or ketone shows a sharp C=O peak near 1700 and no O-H absorption. A carboxylic acid shows the same C=O peak plus a very broad O-H absorption spanning roughly 2500 to 3000. Peak shapes are illustrative; positions lie within the ranges of the lesson table." loading="lazy">
+  <figcaption>An alcohol has a broad O–H, a carbonyl a sharp C=O near 1700 with no O–H, and a carboxylic acid the same C=O plus a very broad O–H from about 2500 to 3000.</figcaption>
+</figure>
+
+
 ## Mass spectrometry: the basics
 
 A mass spectrum plots relative abundance against **m/e** (mass-to-charge
@@ -106,6 +117,12 @@ Calculate the Ar of copper.
 
 Ar = (63 × 69 + 65 × 31) / 100 = (4347 + 2015) / 100 = 6362 / 100 = **63.6**
 (consistent with copper's accepted Ar of 63.5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--10-ms-ar-copper.webp" width="900" height="990" alt="A mass spectrum of copper shows two bars: m/e 63 with relative abundance 69 and m/e 65 with relative abundance 31. A dashed line marks the weighted mean at 63.6, lying nearer the taller peak. The working is 63 times 69 equals 4347, 65 times 31 equals 2015, and 4347 plus 2015 divided by 100 gives 63.6, consistent with the accepted value 63.5." loading="lazy">
+  <figcaption>Ar is the weighted mean of the isotope peaks: (63 × 69 + 65 × 31) ÷ 100 = 63.6.</figcaption>
+</figure>
+
 
 ## Molecular mass from the molecular ion peak
 
@@ -130,6 +147,12 @@ formed by loss of the –OH group.
 Loss of •OH (mass 17) from the molecular ion: 60 − 17 = **m/e = 43**,
 corresponding to the propyl cation, CH₃CH₂CH₂⁺.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--11-ms-fragments.webp" width="900" height="1030" alt="A schematic mass spectrum of propan-1-ol with the molecular ion M+ at m/e 60 and a taller peak, the base peak, at m/e 43; heights are illustrative. An arrow marks the loss of 17 between them. Below, the propan-1-ol structure loses the OH radical (17) to leave the propyl cation CH3CH2CH2+ at m/e 43. Four common losses are listed: 15 for CH3, 17 for OH, 29 for CHO or C2H5 and 45 for COOH." loading="lazy">
+  <figcaption>M⁺ is the peak at the highest m/e, not necessarily the tallest; losing •OH (17) from m/e 60 gives the propyl cation at m/e 43.</figcaption>
+</figure>
+
+
 ## Counting carbon atoms with the [M+1]⁺ peak
 
 A small proportion of carbon atoms in any sample are the heavier isotope
@@ -144,6 +167,12 @@ relative abundance 100 and the [M+1]⁺ peak with relative abundance 4.4.
 Calculate the number of carbon atoms in the molecule.
 
 n = (100 × 4.4) / (1.1 × 100) = 440 / 110 = **4 carbon atoms**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--12-ms-m-plus-1.webp" width="900" height="1010" alt="A mass spectrum shows the molecular ion M+ with relative abundance 100 and a tiny [M+1]+ peak of 4.4, caused by carbon-13, which is about 1.1 percent of carbon. Four carbon circles each contribute 1.1, adding to 4.4. The formula n equals 100 times 4.4 divided by 1.1 times 100 gives 4 carbon atoms." loading="lazy">
+  <figcaption>Each carbon atom contributes about 1.1 to the [M+1]⁺ peak, so 4.4 relative to 100 means four carbon atoms.</figcaption>
+</figure>
+
 
 ## Detecting bromine or chlorine with the [M+2]⁺ peak
 
@@ -164,6 +193,12 @@ A roughly 1 : 1 ratio between the M⁺ and [M+2]⁺ peaks is the signature of
 **one bromine atom** in the molecule (a 3 : 1 ratio would indicate
 chlorine instead; no significant [M+2]⁺ peak at all would indicate neither
 is present).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-analytical-techniques-ir-and-mass-spectrometry--13-ms-halogens.webp" width="900" height="830" alt="Three small bar charts. With one chlorine atom the M+ and [M+2]+ peaks have heights in a 3 to 1 ratio, reflecting chlorine-35 and chlorine-37 in about 3 to 1. With one bromine atom they are roughly equal, 1 to 1, reflecting bromine-79 and bromine-81. With neither halogen there is no significant [M+2]+ peak." loading="lazy">
+  <figcaption>One chlorine gives M⁺ and [M+2]⁺ in about 3 : 1, one bromine about 1 : 1, and neither gives no significant [M+2]⁺ peak.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

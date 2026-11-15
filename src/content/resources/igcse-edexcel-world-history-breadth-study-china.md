@@ -73,6 +73,12 @@ reorganised with Soviet help, and the **CCP** was founded in 1921. Under Soviet 
 The CCP retreated to the countryside, where Chiang's **Extermination (Encirclement) Campaigns** (1930–34)
 eventually forced it out of its Jiangxi base.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--07-ch-rails.webp" width="900" height="1156" alt="Two lines for the GMD and CCP merge in the United Front, split at the Shanghai Massacre, face the Extermination Campaigns and the Long March, merge again against Japan, then split into the Civil War ending in 1949." loading="lazy">
+  <figcaption>The two parties allied twice and split twice before 1949.</figcaption>
+</figure>
+
+
 ## How did Mao and the CCP triumph, 1934–49?
 
 On the **Long March** (1934–35) the Red Army escaped encirclement and trekked thousands of kilometres to
@@ -87,6 +93,17 @@ GMD forces at **Huai-Hai** (1948–49). Reasons for success: **military** (guerr
 weapons, defections), **political** (Mao's leadership, discipline, propaganda), **economic** (GMD hyperinflation)
 and **social** (land reform and peasant support). Mao proclaimed the People's Republic on 1 October 1949;
 Chiang fled to Taiwan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--08-ch-longMarch.webp" width="900" height="940" alt="A winding dashed route (schematic, not a map) through six numbered stops: Jiangxi base, Long March, Zunyi Conference, Yan’an, Xi’an Incident, war with Japan." loading="lazy">
+  <figcaption>Six stops from the Jiangxi base to the war with Japan.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--09-ch-whyCcp.webp" width="900" height="840" alt="Four pillars (military, political, economic, social) hold up the People’s Republic of 1 October 1949, standing on GMD weakness." loading="lazy">
+  <figcaption>Military, political, economic and social reasons for CCP success.</figcaption>
+</figure>
+
 
 ## What changed under Mao, 1949–63?
 
@@ -103,6 +120,12 @@ backyard steel furnaces. Unrealistic targets, false reporting and the neglect of
 which tens of millions died. Mao gave up the post of head of state to Liu Shaoqi. Relations with the **Soviet
 Union** broke down, and in 1960 Soviet advisers were withdrawn — the Sino-Soviet split.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--10-ch-greatLeap.webp" width="900" height="938" alt="A chain from aim to method to problem to famine, then Mao giving up the head of state post to Liu Shaoqi and the 1960 Sino-Soviet split." loading="lazy">
+  <figcaption>Unrealistic targets and neglected farming led to famine.</figcaption>
+</figure>
+
+
 ## Why did Mao launch the Cultural Revolution, and what were its effects?
 
 Mao's **motives** included regaining power from pragmatists such as Liu Shaoqi and Deng Xiaoping, purging the
@@ -112,6 +135,12 @@ officials. **Education** collapsed as schools and universities closed, and the *
 height. Liu died in prison and Deng was sent to work in a factory. From 1968 the Red Guards were sent to the
 countryside. Mao's position was restored, but the economy and culture were badly damaged. The **Sino-Soviet
 split** deepened, with border clashes in 1969, cutting China off from Soviet aid and technology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--11-ch-cultRev.webp" width="900" height="738" alt="Three bands: why Mao launched it, what happened from 1966, and what it left behind." loading="lazy">
+  <figcaption>Motives, events and effects of the Cultural Revolution.</figcaption>
+</figure>
+
 
 ## How did China change under Deng, 1976–89?
 
@@ -126,6 +155,12 @@ Jingsheng** demanded a "Fifth Modernisation" — democracy — and was imprisone
 protested from 1986. After the death of the reformer Hu Yaobang in April 1989, students occupied **Tiananmen
 Square** calling for democracy and an end to corruption. Deng approved martial law, and on 4 June 1989 the
 army cleared the square, killing many — the true number is unknown.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--12-ch-maoDeng.webp" width="900" height="890" alt="Rows compare Mao and Deng on farming, industry and schools, which changed, and politics, shown with a padlock and the words no change." loading="lazy">
+  <figcaption>Economic change under Deng was not matched by political reform.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -144,3 +179,9 @@ Leadership (Sun, Chiang, Mao, Deng) or economic transformation.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B4 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--06-ch-timeline.webp" width="900" height="1055" alt="A year-scaled vertical timeline with five periods and twelve dated events from the Boxer Uprising to Tiananmen Square." loading="lazy">
+  <figcaption>The five key topics placed on one scaled timeline.</figcaption>
+</figure>
+

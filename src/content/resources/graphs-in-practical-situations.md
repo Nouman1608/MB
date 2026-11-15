@@ -66,6 +66,17 @@ accurately on suitable axes and joining them appropriately — with a
 straight line where the relationship is linear, or a smooth curve where
 it isn't.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--07-gp-travel.webp" width="900" height="860" alt="A distance-time graph of an illustrative journey: rising 40 km in the first hour (40 km per hour), flat for the second hour (stopped), then rising 60 km in the third hour (a steeper line, 60 km per hour)." loading="lazy">
+  <figcaption>On a travel graph a horizontal section means stopped and a steeper section means faster.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--08-gp-conversion.webp" width="900" height="870" alt="A straight-line conversion graph from degrees Celsius to degrees Fahrenheit (F = 1.8C + 32). Guide lines go up from 25 degrees Celsius to the line and across to 77 degrees Fahrenheit." loading="lazy">
+  <figcaption>A conversion graph lets a value be read off in one unit once it is known in the other.</figcaption>
+</figure>
+
+
 ## Distance–time graphs
 
 On a distance–time graph, the **gradient at any point gives the speed** at
@@ -80,6 +91,12 @@ points. For a **curved** section, the gradient at a point is found by
 drawing a **tangent** to the curve at that point and calculating the
 tangent line's gradient — this is the "estimation and interpretation of
 the gradient of a tangent" the syllabus specifically names.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--09-gp-tangent.webp" width="900" height="890" alt="A curved distance-time graph with a tangent at point P (3 s, 18 m). Two points on the tangent give a rise of 24 m over 2 s, so the speed at P is 12 metres per second." loading="lazy">
+  <figcaption>The speed at a point on a curved distance–time graph is the gradient of the tangent there.</figcaption>
+</figure>
+
 
 ## Speed–time graphs
 
@@ -106,6 +123,12 @@ Stage 2 (rectangle): distance = base × height = 10 × 12 = 120 m
 total distance = 36 + 120 = 156 m
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--10-gp-speed-time-area.webp" width="900" height="920" alt="A speed-time graph rising to 12 m/s in 6 seconds then constant for 10 seconds. The triangle under the first part is 36 m, the rectangle under the second part is 120 m, total 156 m. The gradient of the first part is 2 m/s squared." loading="lazy">
+  <figcaption>The area under a speed–time graph is the distance travelled: 36 + 120 = 156 m.</figcaption>
+</figure>
+
+
 ## Displacement versus distance travelled (enrichment, beyond this syllabus)
 
 This syllabus sub-topic is restricted to **speed**-time graphs, and speed cannot be negative, so a graph of the kind described below cannot arise in this course. The section is included as enrichment for students who may meet velocity-time graphs elsewhere, not as examinable content here.
@@ -130,6 +153,12 @@ distance travelled = 40.5 + 4.5 = 45 m
 
 Always **add** the two areas for distance travelled, and **subtract** for displacement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--12-gp-enrichment.webp" width="900" height="910" alt="Enrichment. A velocity-time line falls from plus 9 to minus 3 m/s over 12 s, crossing zero at 9 s. Area above the axis 40.5 m, below 4.5 m. Displacement is 40.5 minus 4.5 = 36 m; distance is 40.5 plus 4.5 = 45 m." loading="lazy">
+  <figcaption>Subtract the areas for displacement and add them for distance travelled.</figcaption>
+</figure>
+
+
 ## Rates of change beyond travel
 
 <!-- marlbridge-diagram:math-b48-contextual-gradient-cost-flow-rate -->
@@ -141,6 +170,12 @@ Always **add** the two areas for distance travelled, and **subtract** for displa
 
 
 The same gradient-as-rate idea applies beyond distance and speed: on a graph of **cost against quantity bought**, the gradient gives the **price per item**; on a graph of **volume against time** for a tap filling a container, the gradient gives the **flow rate**, in litres per minute. Always state the units when interpreting a gradient in context — a bare number rarely earns the mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--13-gp-rates.webp" width="900" height="1240" alt="Two straight-line graphs. Cost rises 6 pounds to 12 pounds over 5 items, so 1.20 pounds per item. Volume rises 18 litres over 6 minutes, so a flow rate of 3 litres per minute." loading="lazy">
+  <figcaption>The gradient of a graph is a rate: £1.20 per item and 3 litres per minute here.</figcaption>
+</figure>
+
 
 ## Common mistakes
 
@@ -173,6 +208,12 @@ curved sections)
 - Area under a speed–time graph = distance, for linear sections only
 - Displacement versus distance travelled for a velocity-time graph that crosses the axis (subtract vs. add the areas) -- enrichment beyond this syllabus, which only requires speed-time graphs
 - Interpreting a gradient as a rate in context, with correct units
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/graphs-in-practical-situations--11-gp-two-meanings.webp" width="900" height="1090" alt="Two identical rising straight lines. On the distance-time graph the gradient is the speed, 4 m/s. On the speed-time graph the gradient is the acceleration, 4 m/s squared." loading="lazy">
+  <figcaption>The same straight line means constant speed on a distance–time graph but constant acceleration on a speed–time graph.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

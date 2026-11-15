@@ -94,6 +94,17 @@ leaving one unhybridised p orbital free to form a π bond; an sp carbon has two
 hybrid orbitals arranged linearly, leaving two unhybridised p orbitals for two π
 bonds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--14-sigma-pi-bonds.webp" width="900" height="1070" alt="Head-on overlap of two orbitals on the line between the nuclei makes a sigma bond. Sideways overlap of two adjacent p orbitals above and below the sigma bond makes a pi bond. A single bond is one sigma, a double bond is sigma plus pi and a triple bond is sigma plus two pi. The pi bond is weaker and more reactive." loading="lazy">
+  <figcaption>Sigma bonds overlap head-on; pi bonds overlap sideways and are weaker.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--15-hybridisation.webp" width="900" height="1220" alt="Carbon orbitals as lobes. sp3: four hybrid lobes tetrahedral at 109.5 degrees. sp2: three hybrid lobes flat at 120 degrees plus one p orbital that forms a pi bond. sp: two hybrid lobes at 180 degrees plus two p orbitals that form two pi bonds." loading="lazy">
+  <figcaption>sp3, sp2 and sp carbon have 4, 3 and 2 hybrid orbitals, leaving 0, 1 and 2 p orbitals for pi bonds.</figcaption>
+</figure>
+
+
 ## Coordinate (dative covalent) bonding
 
 A normal covalent bond is formed from one electron contributed by each
@@ -126,6 +137,12 @@ simultaneously donated back to the aluminium of the first. This gives two
 **bridging chlorine atoms**, each holding the two AlCl₃ units together by one
 normal covalent bond and one coordinate bond, and the whole dimer, Al₂Cl₆,
 has both aluminium atoms with a full octet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--17-coordinate-bonds.webp" width="900" height="1070" alt="NH3 donates its nitrogen lone pair to a bare H+ to form NH4+, whose new bond is drawn as two dots, both from nitrogen, though all four N-H bonds are identical. In Al2Cl6 two AlCl3 units are joined by two bridging chlorines, each making one normal and one coordinate bond, giving each aluminium three normal bonds, one coordinate bond and a full octet." loading="lazy">
+  <figcaption>A coordinate bond has both electrons from one atom but behaves like any other covalent bond.</figcaption>
+</figure>
+
 
 ## Expanded octets
 
@@ -183,6 +200,12 @@ The trend from CH₄ (109.5°) to NH₃ (107°) to H₂O (104.5°) is a direct
 consequence of lone-pair repulsion: each lone pair added in place of a bonding
 pair squeezes the remaining bond angles a little further.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--16-vsepr-shapes.webp" width="900" height="1260" alt="Seven molecules in perspective: CO2 linear 180 degrees; BF3 trigonal planar 120; CH4 tetrahedral 109.5; PF5 trigonal bipyramidal 120 and 90; SF6 octahedral 90; NH3 pyramidal 107 (one lone pair); H2O bent 104.5 (two lone pairs). The bond angle falls from 109.5 to 107 to 104.5 as lone pairs replace bonding pairs." loading="lazy">
+  <figcaption>Electron pairs spread as far apart as possible, and lone pairs squeeze the bond angles.</figcaption>
+</figure>
+
+
 ## Intermolecular forces
 
 Every molecule experiences **van der Waals' forces** — the generic term for
@@ -215,6 +238,17 @@ volume).
 All of this is still weaker than a covalent, ionic or metallic bond — hydrogen
 bonds and van der Waals' forces act **between** molecules, not within them, which
 is the general rule 3.6 closes on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--18-intermolecular-forces.webp" width="900" height="1110" alt="Three rows. Instantaneous dipole-induced dipole forces act between all molecules and are the only force between non-polar ones. Permanent dipole-permanent dipole forces act between polar molecules. Hydrogen bonding, between H on N or O and a lone pair on another N or O, is the strongest permanent dipole force. All three are van der Waals forces and weaker than covalent, ionic or metallic bonds." loading="lazy">
+  <figcaption>Van der Waals forces include id-id, pd-pd and hydrogen bonding, all weaker than bonds within a molecule.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--19-ice-less-dense.webp" width="900" height="965" alt="The same six water molecules sit in an open hexagonal ring held by hydrogen bonds in ice, in a larger box with empty space in the middle, and closer together in a smaller box in the liquid. The same mass takes more volume in ice, so ice is less dense. High melting and boiling points and high surface tension are also noted." loading="lazy">
+  <figcaption>Hydrogen bonds hold ice in an open lattice, so ice is less dense than liquid water.</figcaption>
+</figure>
+
 
 ## Dot-and-cross diagrams
 
@@ -259,6 +293,12 @@ nitrogen is surrounded by only **seven** electrons. The unpaired electron is
 what makes a species such as NO a free radical; when drawing any species
 with an odd number of electrons, count the total first so the unpaired
 electron is placed deliberately rather than forced into a false octet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-shapes-and-intermolecular-forces--20-dot-and-cross.webp" width="900" height="1240" alt="MgCl2: [Mg]2+ and two [Cl]- ions with eight electrons each (seven crosses plus one dot). CH4: four shared pairs, carbon with eight electrons. SF6: twelve electrons around sulfur, each fluorine with three lone pairs. NO: 11 electrons, with nitrogen having a lone pair and one unpaired electron, so only seven electrons. A strip gives expanded-octet counts for SO2, PCl5 and SF6." loading="lazy">
+  <figcaption>Dot-and-cross diagrams show where every electron comes from, including expanded-octet and odd-electron species.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

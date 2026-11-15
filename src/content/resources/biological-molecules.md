@@ -70,6 +70,12 @@ Nitrogen is the element that distinguishes proteins and DNA from
 carbohydrates and lipids — a useful quick check when identifying which
 category a molecule belongs to from its elemental composition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--15-bm-elements.webp" width="900" height="920" alt="A grid of elements for carbohydrates, lipids, proteins and DNA. All contain carbon, hydrogen and oxygen, lipids with much less oxygen; proteins add nitrogen and often sulfur; DNA adds nitrogen and phosphorus." loading="lazy">
+  <figcaption>Nitrogen separates proteins and DNA from carbohydrates and lipids.</figcaption>
+</figure>
+
+
 ## How are large molecules built from smaller ones?
 
 Large biological molecules are built by joining many smaller molecules
@@ -97,6 +103,17 @@ shape the protein folds into, which links to the active site in
 [Enzymes](/resources/enzymes/). DNA is built from **nucleotides**. For
 4.1 you only need these building blocks by name: the bond names and the
 detailed structure of DNA are not required in this subtopic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--16-bm-building-blocks.webp" width="900" height="960" alt="Glucose joins to make starch, cellulose and glycogen; amino acids make protein; one glycerol and three fatty acids make a lipid; nucleotides make DNA." loading="lazy">
+  <figcaption>The small molecule each large biological molecule is built from.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--17-bm-glucose-polymers.webp" width="900" height="870" alt="Three schematic chains of glucose units: starch with a few branches stores energy in plants, glycogen with more branches stores energy in animals, and cellulose forms rigid plant cell walls." loading="lazy">
+  <figcaption>Starch, glycogen and cellulose are all made of glucose but arranged differently.</figcaption>
+</figure>
+
 
 ## How do you carry out the food tests?
 
@@ -163,6 +180,17 @@ Notice which tests require **heating** (Benedict's, in a water bath) and
 which are done at **room temperature** (iodine, biuret, emulsion) — this
 distinction is a specific, common exam-question detail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--18-bm-four-tests.webp" width="900" height="710" alt="Test tubes before and after: iodine orange-brown to blue-black for starch; Benedict’s blue to brick-red for glucose and maltose with heating at about 80 degrees; biuret blue to purple for protein; ethanol emulsion cloudy white for lipids. Only Benedict’s needs heating." loading="lazy">
+  <figcaption>Reagent, colour change and whether heating is needed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--19-bm-reading-results.webp" width="900" height="790" alt="Four samples against four tests drawn as test tubes: A contains starch, B a reducing sugar, C protein and D lipid, with the positive tube in each row ringed." loading="lazy">
+  <figcaption>Working out which molecule is in each of samples A to D.</figcaption>
+</figure>
+
+
 ## What does each molecule do in living things?
 
 | Molecule | Function |
@@ -171,6 +199,12 @@ distinction is a specific, common exam-question detail.
 | Lipid | Energy store (more energy per gram than carbohydrate), insulation, protection, membranes |
 | Protein | Enzymes, antibodies, haemoglobin, growth and repair |
 | DNA | Stores the genetic information a cell reads to build proteins |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/biological-molecules--20-bm-functions.webp" width="900" height="1010" alt="Four rows listing the functions of carbohydrates, lipids, proteins and DNA as stated in the lesson." loading="lazy">
+  <figcaption>The job of each biological molecule in living things.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

@@ -60,6 +60,17 @@ The arithmetic operators are +, -, *, / and the integer operators DIV (whole-num
 
 Strings are processed with library functions: LENGTH(s), LEFT(s, n), RIGHT(s, n), MID(s, start, n), UCASE(s), LCASE(s), and conversion functions such as INT, STR and CHAR/ASC for characters and codes. Positions in Cambridge pseudocode strings start at 1. So MID("COMPUTER", 4, 3) returns "PUT". A common use is checking the first letter of a name or building a user ID from parts of several fields.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--01-pg-div-mod.webp" width="900" height="700" alt="Seventeen dots are shared into three full groups of five with two left over. So 17 DIV 5 is 3 and 17 MOD 5 is 2, and 5 x 3 + 2 gives back 17." loading="lazy">
+  <figcaption>DIV counts whole groups; MOD is what is left over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--02-pg-string-positions.webp" width="900" height="800" alt="The word COMPUTER is drawn as eight boxes numbered 1 to 8. MID(s, 4, 3) highlights positions 4 to 6 giving PUT; LEFT(s, 3) gives COM and RIGHT(s, 3) gives TER." loading="lazy">
+  <figcaption>Positions start at 1, so MID(&quot;COMPUTER&quot;, 4, 3) returns &quot;PUT&quot;.</figcaption>
+</figure>
+
+
 ## Constructs
 
 Every program is built from three constructs: **sequence**, **selection** and **iteration**.
@@ -92,6 +103,12 @@ REPEAT
 UNTIL Age >= 0 AND Age <= 120
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--03-pg-loops.webp" width="900" height="1060" alt="Three flowcharts with n starting at 5. WHILE n &lt; 3 tests first and runs the body 0 times. REPEAT UNTIL n &gt;= 3 runs the body once before testing. FOR i from 1 to 3 runs the body exactly 3 times." loading="lazy">
+  <figcaption>WHILE tests first, REPEAT UNTIL runs at least once, FOR is used when the count is known.</figcaption>
+</figure>
+
+
 ## Structured programming
 
 Structured programming means breaking a program into named, self-contained modules. A **procedure** carries out a task and does not return a value; a **function** returns exactly one value and is called inside an expression. Each has an **interface**, which is its name and parameters.
@@ -116,6 +133,12 @@ CALL ShowResult(DigitSum(4827))
 
 **Parameters** pass data into a module. **BYVAL** passes a copy, so changes inside the module do not affect the original; **BYREF** passes a reference, so changes do alter the caller's variable. A variable declared inside a module is **local** and exists only while the module runs; a **global** variable can be used anywhere but makes programs harder to debug, so prefer local variables and parameters. Advantages of modules include reuse, easier testing of one part at a time, and shared work across a team.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--05-pg-byval-byref.webp" width="900" height="950" alt="Two rows with an illustrative variable X = 5 and a module that adds 1 to its parameter P. With BYVAL, P is a copy and X stays 5. With BYREF, P refers to X so X becomes 6." loading="lazy">
+  <figcaption>BYVAL passes a copy; BYREF lets the module change the caller’s variable.</figcaption>
+</figure>
+
+
 ## Worked example 1: tracing DigitSum
 
 Trace DigitSum(4827).
@@ -129,6 +152,12 @@ Trace DigitSum(4827).
 | loop 4 | 4 | 4 | 21 | 0 |
 
 The condition Number > 0 is now false and the function returns 21. A second call, DigitSum(90514), gives 4 + 1 + 5 + 0 + 9 = 19. Notice that a zero digit still works, because 0 is added and the loop continues while the remaining number is positive. What happens for an input of 0? The loop body never runs, so the function returns 0, which is the right answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--04-pg-digitsum-trace.webp" width="900" height="915" alt="Four loops each take the last digit with MOD 10 and add it to Total (7, 9, 17, 21) while DIV 10 shrinks Number to 482, 48, 4 and 0. The function returns 21 and ShowResult outputs it." loading="lazy">
+  <figcaption>Each loop peels off the last digit and adds it to Total, giving 21.</figcaption>
+</figure>
+
 
 ## Worked example 2: choosing a loop and validating
 
@@ -151,6 +180,12 @@ OUTPUT PassCount
 ```
 
 Take the input 72, 140, 45, 50, -1. The first 72 is valid and so is read into the WHILE; it is 50 or more, so PassCount becomes 1. The next input 140 fails the check, so the inner REPEAT asks again and reads 45. That is below 50, so the count stays at 1. Then 50 is read and counted, giving 2, and -1 ends the loop. The output is 2. The sample shows why REPEAT suits validation and WHILE suits a rogue-value loop.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--06-pg-validate-loop.webp" width="900" height="880" alt="Inputs 72, 140, 45, 50 and -1 are traced: 72 is counted (PassCount 1); 140 is out of range so the program asks again; 45 is not counted; 50 is counted (PassCount 2); -1 ends the loop. The output is 2." loading="lazy">
+  <figcaption>PassCount ends at 2 for the inputs 72, 140, 45, 50, -1.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

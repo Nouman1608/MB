@@ -58,6 +58,12 @@ featured: false
 | 8 Aug 1918 | Amiens -- "black day of the German army" |
 | Nov 1918 | Kiel Mutiny; Kaiser abdicates (9th); Armistice (11th) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--14-road-to-armistice.webp" width="900" height="988" alt="A vertical sequence of events in date order, not to scale. April 1917: America enters the war, with over a million troops by mid-1918. 21 March 1918: the Spring Offensive outruns its supplies. 8 August 1918: the Allied advance from Amiens, as Germany's allies collapse. Revolution at home: the Kiel Mutiny spreads. 9 November: the Kaiser abdicates. 11 November 1918, 11 a.m.: the Armistice takes effect." loading="lazy">
+  <figcaption>Military defeat and revolution at home combined to bring the Armistice of 11 November 1918.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Meaning |
@@ -81,6 +87,27 @@ featured: false
 
 **Verdun vs the Somme:** Verdun was a German attack to bleed France white; the Somme was an Allied attack partly to relieve Verdun. Haig debate -- "butcher" (57,000 British casualties on day one) or a commander learning lessons used in 1918?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--08-schlieffen-plan-blocked.webp" width="900" height="1138" alt="A vertical path shows the Schlieffen Plan, which aimed to defeat France in about six weeks and then turn east. Four walls block it in order: Belgian resistance at Liege in August 1914; Britain entering the war on 4 August and the British Expeditionary Force delaying the Germans at Mons on 23 August; Russia mobilising faster than expected so troops were moved east; and the Germans swinging east of Paris, where counter-attacks at the Marne in September 1914 pushed them back. The plan fails." loading="lazy">
+  <figcaption>Four obstacles in August and September 1914 stopped the plan to beat France in about six weeks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--09-defence-stronger.webp" width="900" height="960" alt="A side-on cross-section, not to scale. Attacking soldiers on the left cross open ground towards a line of barbed wire. In a trench on the right, a machine gun fires at them while artillery shells arc over the ground, and a railway behind the trench brings reserves. Numbered callouts: barbed wire, machine guns, artillery, railways. Result: stalemate and attrition." loading="lazy">
+  <figcaption>Machine guns, barbed wire, artillery and railways let defenders stop attacks and bring up reserves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--10-new-weapons-1914-18.webp" width="900" height="948" alt="A time chart from 1914 to 1918 with four weapons. The machine gun is used from 1914 and gave defenders a huge advantage. Aircraft are used for reconnaissance from 1914, spotting for artillery and later as fighters and bombers. Poison gas is first used at Ypres in April 1915, terrifying but limited by gas masks. The tank first appears at the Somme in September 1916 and is massed at Cambrai in November 1917. No single weapon broke the stalemate; by 1918 artillery, tanks, aircraft and infantry worked together." loading="lazy">
+  <figcaption>Each weapon arrived at a different time; only their combination in 1918 broke the stalemate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--11-verdun-somme-1916.webp" width="900" height="758" alt="A twelve-month chart of 1916. Verdun runs from February to December. The Somme runs from 1 July to November and was launched partly to relieve Verdun; on its first day the British suffered about 57,000 casualties. The naval battle of Jutland falls in May and June." loading="lazy">
+  <figcaption>In 1916 Verdun, the Somme and Jutland overlapped; the Somme was meant partly to relieve Verdun.</figcaption>
+</figure>
+
+
 ## Key question 2: a world war -- case studies
 
 | Case study | Remember |
@@ -92,12 +119,24 @@ featured: false
 | Japan in Asia | Tsingtao 1914; Pacific islands; naval escorts protecting sea lanes |
 | Arab Revolt | Sharif Hussein, 1916; T. E. Lawrence; Aqaba 1917; Damascus 1918 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--12-world-war-reach.webp" width="900" height="871" alt="A hub-and-spoke diagram with &quot;A world war&quot; at the centre and five spokes: Indian troops, fighting at Ypres and Neuve Chapelle; Canadian troops, at Second Ypres and Vimy Ridge in 1917; Africa, where South Africans took South West Africa in 1915 and fought in East Africa; Japan, which took Tsingtao in 1914 and escorted convoys; and the Arab Revolt, which took Aqaba in 1917 and helped reach Damascus in 1918." loading="lazy">
+  <figcaption>Troops and campaigns from five regions made the war reach well beyond the Western Front.</figcaption>
+</figure>
+
+
 ## Key question 3: other fronts
 
 - **Sea:** Jutland -- British losses higher, but the German fleet stayed in port and the blockade went on. U-boats -- the main German threat; convoys from 1917 cut losses.
 - **Gallipoli:** poor planning, failed naval attack, Turkish defence, terrain, disease -- evacuation by January 1916.
 - **Eastern Front:** drew German troops east until Russia's collapse; Brest-Litovsk freed troops for 1918.
 - **Civilians:** conscription, DORA, rationing, women's work, air raids; Germany's "turnip winter" 1916-17.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-first-world-war--13-other-fronts-chains.webp" width="900" height="868" alt="Three rows, each a chain of three steps. At sea: unrestricted U-boat warfare from February 1917, Britain nearly starved, convoys from mid-1917 cut losses. Gallipoli, April 1915 to January 1916: the aim was to knock out the Ottoman Empire and open a route to Russia; it failed through poor planning, strong defence, terrain and disease; the Allies evacuated. Eastern Front: Russia beaten at Tannenberg in August 1914, collapse after 1917, then Brest-Litovsk in March 1918 freed German troops for the west." loading="lazy">
+  <figcaption>Events at sea, at Gallipoli and in the east each changed what happened on the Western Front.</figcaption>
+</figure>
+
 
 ## Key question 4: why the armistice -- weigh these
 

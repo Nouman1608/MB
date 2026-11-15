@@ -89,6 +89,12 @@ The scheduler decides which ready process runs next, so that the processor is us
 | Shortest remaining time (SRT) | Pre-emptive: whenever a process arrives, the one with the least time left runs | Short jobs finish very quickly | Frequent switching; long jobs may starve; needs time estimates |
 | Round robin (RR) | Each process gets a fixed time slice (quantum) in turn, then rejoins the back of the queue | Every process gets regular processor time; good response for interactive users | Overhead of frequent switching; long jobs take longer to finish |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--16-ss-scheduling-gantt.webp" width="900" height="980" alt="Three processes: P1 arrives at 0 needing 6 units, P2 arrives at 1 needing 3 and P3 arrives at 2 needing 1. First come first served runs P1, P2, P3 in turn with waits 0, 5, 7 and average 4. Shortest job first runs P1, P3, P2 with waits 0, 6, 4 and average 3.33. Shortest remaining time runs P1, P2, P3, P2, P1 with waits 4, 1, 0 and average 1.67. Round robin with quantum 2 runs P1, P2, P3, P1, P2, P1 with waits 4, 4, 2 and average 3.33. All schedules were simulated in code." loading="lazy">
+  <figcaption>Gantt charts for FCFS, SJF, SRT and round robin on the same three processes.</figcaption>
+</figure>
+
+
 ### Worked example: comparing scheduling routines
 
 Three processes: P1 arrives at 0 needing 6 units, P2 arrives at 1 needing 3, P3 arrives at 2 needing 1. Waiting time = finish time − arrival time − run time.
@@ -103,6 +109,17 @@ SRT gives the lowest average wait here because it always finishes the shortest w
 ### How does the kernel handle interrupts and low-level scheduling?
 
 The **kernel** is the core of the OS that stays in memory. It acts as the **interrupt handler**: when an interrupt arrives, the current process's state is saved (in its process control block), the kernel identifies the source and runs the appropriate routine, then the **low-level scheduler** chooses which ready process runs next and its state is restored. A **timer interrupt** marks the end of a time slice, which is how round robin pre-empts a process; an **I/O interrupt** tells the kernel that a blocked process's input or output is complete, so that process moves to ready.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--15-ss-process-states.webp" width="900" height="790" alt="Three states: Running, Ready and Blocked. Ready to Running: the scheduler picks the process. Running to Ready: its time slice ends. Running to Blocked: it waits for input or output. Blocked to Ready: the I/O finishes, signalled by an interrupt. A blocked process cannot go straight to running; it must first become ready." loading="lazy">
+  <figcaption>Ready, Running and Blocked with the four allowed transitions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--17-ss-interrupt-handling.webp" width="900" height="872" alt="Six steps in order. 1: process A is running. 2: an interrupt arrives, for example from the timer at the end of a time slice or from I/O finishing. 3: the kernel saves A’s state in its process control block. 4: the kernel identifies the source and runs the matching routine. 5: the low-level scheduler chooses the next ready process. 6: that process’s state is restored and it runs." loading="lazy">
+  <figcaption>The kernel saves state, runs the routine, chooses the next process and restores its state.</figcaption>
+</figure>
+
 
 ## How do virtual memory, paging and segmentation work?
 
@@ -126,6 +143,12 @@ When a process needs a page that is not in RAM, a **page fault** occurs. If no f
 
 If RAM is too small for the processes running, a page that has just been swapped out is needed again almost at once, so it is swapped straight back in, forcing out another page that is also about to be needed. The computer spends more time swapping pages between RAM and disk than executing instructions, and performance falls sharply. This is **disk thrashing**. It can be reduced by running fewer processes or adding RAM.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--18-ss-paging-segmentation.webp" width="900" height="1120" alt="Top, paging: the process is split into equal-size pages; a page table maps page 0 to frame 0, page 1 to frame 2, page 3 to frame 4 and shows page 2 is on disk. Pages need not sit in adjacent frames. Bottom, segmentation: the process is split into variable-size logical segments Main, Procedure and Data; a segment table holds each start address and length, and the segments sit in RAM with gaps between them. Numbers are illustrative." loading="lazy">
+  <figcaption>Paging uses equal pages and a page table; segmentation uses variable segments and a segment table.</figcaption>
+</figure>
+
+
 ## 16.2 How does an interpreter execute a program without translating it?
 
 An interpreter takes one statement at a time, analyses it (checking its syntax), and then carries it out by calling its own pre-written routines for that kind of statement. No object code is produced or saved, so the statement must be analysed again every time it runs, including each pass of a loop.
@@ -138,6 +161,12 @@ An interpreter takes one statement at a time, analyses it (checking its syntax),
 4. **Optimisation**: improves the object code so it runs faster or uses less memory, for example by removing redundant instructions or moving a calculation that does not change out of a loop.
 
 Lexical and syntax analysis are separate stages (November 2024 and June 2025 examiner reports).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--19-ss-compilation-stages.webp" width="900" height="1180" alt="Source code goes through four stages in order. Lexical analysis removes white space and comments and breaks the code into tokens, building a symbol table; the example statement total = a + 5 gives five tokens. Syntax analysis checks the tokens against the grammar, usually building a parse tree. Code generation produces object code. Optimisation makes the object code faster or smaller, for example by removing redundant instructions. The example statement and object code are illustrative." loading="lazy">
+  <figcaption>Lexical analysis, syntax analysis, code generation and optimisation applied to one example statement.</figcaption>
+</figure>
+
 
 ## How is grammar written in BNF and syntax diagrams?
 
@@ -153,6 +182,12 @@ Lexical and syntax analysis are separate stages (November 2024 and June 2025 exa
 `::=` means "is defined as", `|` separates alternatives, and angle brackets name a non-terminal. The rule for `<integer>` is **recursive**: it refers to itself, so an integer can have any number of digits. A valid `<code>` is a letter followed by one or more digits, such as C7 or A2026.
 
 A **syntax diagram** shows the same rules as a flow of boxes and arrows: rectangles for non-terminals, rounded boxes or circles for terminal symbols, a fork for alternatives, and a loop back for repetition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--20-ss-bnf-syntax-diagram.webp" width="900" height="1054" alt="Four BNF rules: digit is 0 to 9, letter is A to D, integer is a digit or a digit followed by an integer (a recursive rule), and code is a letter followed by an integer. A syntax diagram of integer shows a digit box with a loop back for repetition. Checking strings against the rules: C7 and A2026 are valid; 7C is not (it must start with a letter) and A is not (it needs at least one digit). The checks were run in code." loading="lazy">
+  <figcaption>The BNF rules, the loop in the integer syntax diagram and four strings checked against them.</figcaption>
+</figure>
+
 
 ## How does Reverse Polish Notation evaluate expressions?
 
@@ -173,6 +208,12 @@ Evaluate `7 2 3 × − 4 +`:
 | + | Pop 4 and 1, push 1 + 4 = 5 | 5 |
 
 The result is 5, the value of (7 − 2 × 3) + 4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-system-software-a-level--21-ss-rpn-stack.webp" width="900" height="910" alt="The expression 7 2 3 multiply subtract 4 add is read left to right. Seven symbols each add or change the stack. 7, 2 and 3 are pushed giving 7, 2, 3. Multiply pops 3 and 2 and pushes 6, leaving 7, 6. Subtract pops 6 and 7 and pushes 1. Four is pushed giving 1, 4. Add pops 4 and 1 and pushes 5. The value left, 5, equals (7 minus 2 times 3) plus 4. The stack steps were computed in code." loading="lazy">
+  <figcaption>A stack evaluates 7 2 3 × − 4 + to give 5.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

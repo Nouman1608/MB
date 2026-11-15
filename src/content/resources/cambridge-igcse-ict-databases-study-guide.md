@@ -43,6 +43,12 @@ Topic 18 is one of the practical application topics. Its three subtopics are 18.
 
 A **table** holds data about one kind of thing, such as books or students. Each row is a **record** (everything about one item) and each column is a **field** (one piece of information, such as Title). Field names should be short, meaningful and free of unnecessary spaces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--01-db-table-anatomy.webp" width="900" height="805" alt="A table called Books with five records (rows) and five fields (columns): BookID, Title, Genre, Price and InStock. One record, Iron Garden, is outlined as a row and the Genre field is outlined as a column. A row under the headings shows each field's data type: Text for Title and Genre, Currency for Price and Integer for InStock, with BookID marked as the primary key." loading="lazy">
+  <figcaption>Each row is a record, each column is a field, and each field has a data type; BookID is the primary key.</figcaption>
+</figure>
+
+
 ### Data types
 
 Choose the type that fits the data, because it controls what can be typed in and how it is sorted and calculated:
@@ -57,6 +63,12 @@ Choose the type that fits the data, because it controls what can be typed in and
 
 A **primary key** is a field whose value is unique in every record, so that each record can be identified for certain. A name is a poor choice because two people can share one; an ID number is a good one. A **foreign key** is a field in one table that matches the primary key of another table and so links the two. A database with more than one linked table is a **relational database**. Splitting data into related tables avoids repeating the same details, such as a customer's address, in many records, which saves space and reduces errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--02-db-keys.webp" width="900" height="908" alt="Two linked tables with illustrative data. The Customers table has CustomerID as its primary key, plus Name and Address. The Orders table has OrderID as its primary key and a CustomerID column marked as a foreign key. An arrow from the foreign key points up to the matching primary key in Customers. Ali's address is stored once even though Ali has two orders." loading="lazy">
+  <figcaption>A foreign key holds the value of another table's primary key, so one customer record can serve many orders.</figcaption>
+</figure>
+
+
 ### Validation and field properties
 
 **Validation** is an automatic check that data is reasonable. It cannot prove the data is correct, only that it is sensible. Common checks are:
@@ -69,6 +81,12 @@ A **primary key** is a field whose value is unique in every record, so that each
 - **Lookup check**: the value must come from a list, for example a drop-down.
 
 A **verification** check is different: it confirms that data was copied accurately, for example by entering it twice or visual checking against the source. In the practical you may also set the field size, a default value, a number of decimal places or an input format.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--03-db-validation.webp" width="900" height="953" alt="Six validation checks each shown with one accepted and one rejected example value: range (85 accepted, 140 rejected), length (2481 accepted, 248 rejected), type (42 accepted, 4x rejected), presence (Ali accepted, blank rejected), format (05/11/2026 accepted, 5 Nov rejected) and lookup (Fiction accepted, Ficton rejected). Below, verification is shown as two ways of checking data was copied accurately: typing it twice and comparing, or checking it by eye against the source." loading="lazy">
+  <figcaption>Validation asks whether data is sensible; verification asks whether it was copied accurately.</figcaption>
+</figure>
+
 
 ### Importing data
 
@@ -90,6 +108,12 @@ Manipulating data means selecting, ordering and calculating from the records in 
 
 Read the question wording. "More than 10" is > 10 and does not include 10, while "at least 10" is >= 10. "Fiction or Science" uses OR on the same field, whereas "Fiction and in stock" uses AND across two fields. Text criteria should be spelt exactly as stored; numbers should be typed without currency symbols if the software rejects them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--04-db-criteria.webp" width="900" height="1170" alt="Top: two rows of whole numbers 8 to 13. For &quot;more than 10&quot; (greater than 10) the numbers 11, 12 and 13 are marked as matching and 10 is not. For &quot;at least 10&quot; (greater than or equal to 10) the numbers 10, 11, 12 and 13 match. Bottom: a two-circle diagram of the five Books records. Fiction contains records 1, 2 and 4; InStock above 0 contains records 1, 3, 4 and 5. AND keeps only the overlap, records 1 and 4. OR keeps every record from either circle, records 1 to 5." loading="lazy">
+  <figcaption>Greater than leaves out the boundary value, greater-or-equal keeps it; AND keeps the overlap, OR keeps everything in either circle.</figcaption>
+</figure>
+
+
 ## Present data
 
 A **report** is a formatted printout of data, usually based on a query. A good report:
@@ -102,6 +126,12 @@ A **report** is a formatted printout of data, usually based on a query. A good r
 - sets the **page orientation** and fits to the page, with headers and footers when asked for.
 
 Reports can also be exported to a spreadsheet or a text file, and **labels** (for example name badges or address labels) can be produced from the table data. Check the printout carefully: a database practical can lose marks simply because a field heading is truncated or the wrong fields appear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--06-db-report-quality.webp" width="900" height="860" alt="Two printouts of the same data. The poor report has no title, an extra BookID column and a StockValue heading that is cut off because the column is too narrow. The good report has the title Fiction books in stock, only the three fields asked for, headings that are fully visible and a total of 173.13 at the bottom." loading="lazy">
+  <figcaption>A report loses marks for missing titles, cut-off headings, extra fields or the wrong order; a good one shows only what was asked.</figcaption>
+</figure>
+
 
 ## Worked example
 
@@ -124,6 +154,12 @@ A shop keeps a table called Books with these records.
 5. In the report, add a summary total for StockValue: 107.88 + 65.25 = 173.13. Format StockValue as currency with two decimal places and give the report a title such as "Fiction books in stock".
 
 Final report output: Tidewater, 8.99, 107.88; Night Rivers, 7.25, 65.25; Total 173.13.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-databases-study-guide--05-db-query-worked.webp" width="900" height="1160" alt="Step 1: the five Books records are tested against Genre equals Fiction AND InStock greater than 0. Records 1 (Tidewater) and 4 (Night Rivers) pass; record 2 fails because stock is 0, and records 3 and 5 fail because they are Science. Step 2: a calculated field StockValue equals Price times InStock gives 107.88 for Tidewater and 65.25 for Night Rivers, sorted with the dearest price first. Step 3: the report titled Fiction books in stock lists both rows with a total of 173.13." loading="lazy">
+  <figcaption>Criteria keep records 1 and 4, StockValue is worked out in the query, and the report totals 173.13.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

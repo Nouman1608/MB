@@ -65,6 +65,12 @@ Paper 4 lasts 1 hour 30 minutes and is worth 60 marks. For each of your two opti
 The **three-sector model** is linked with Allan Fisher, Colin Clark (*The Conditions of Economic Progress*, 1940) and Jean Fourastié. As an economy develops, employment shifts from primary to secondary and then to tertiary work: farm productivity releases labour, and rising incomes raise demand first for goods and then for services. Quaternary work grows in the richest economies.
 
 **Evaluation.** The model fits early industrialisers such as the UK. India built a large IT services sector while much of its workforce was still farming. Automation cuts factory jobs while output rises, so employment share is not importance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--01-et-sectors.webp" width="900" height="858" alt="Four sector icons and the shift as an economy develops. The four economic sectors and the order in which employment shifts as incomes rise." loading="lazy">
+  <figcaption>The four economic sectors and the order in which employment shifts as incomes rise.</figcaption>
+</figure>
+
 ## 14.1 Global inequalities in wellbeing
 
 **Nature.** Inequality covers income and wealth, and also health, education, gender and political freedom. It exists between countries and within them.
@@ -87,6 +93,12 @@ The **three-sector model** is linked with Allan Fisher, Colin Clark (*The Condit
 **Worked paragraph.** *"GNI per capita is the most useful measure of inequality between countries." Assess this view.*
 
 > GNI per capita measures average income per person, so it ranks countries clearly; this is why the World Bank uses it for income groups (knowledge, application). But an average hides who receives the income: two countries with similar GNI per capita can have very different Gini coefficients (analysis). The HDI and MPI also show outcomes income misses, such as schooling and clean water. GNI per capita is a useful first comparison, but it is least reliable where inequality is greatest, so it should be read alongside a distribution measure and a multidimensional index (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--02-et-measures.webp" width="900" height="864" alt="A grid showing which dimensions GNI per capita, HDI, IHDI, Gini and MPI count. Which of income, health, schooling, living standards and spread each inequality measure counts." loading="lazy">
+  <figcaption>Which of income, health, schooling, living standards and spread each inequality measure counts.</figcaption>
+</figure>
+
 ## 14.2 Global patterns of resources, production and markets
 
 Resources are unevenly spread: proven oil reserves are concentrated in the Middle East and Venezuela. Since the 1970s manufacturing has grown fastest in East and South-East Asia, and China is now the largest manufacturing country by value added. The richest markets remain in North America, Europe and East Asia. Global supply chains connect where resources are, where goods are made and where they are sold.
@@ -114,6 +126,12 @@ This serves the requirement to study "the global spatial organisation and operat
 
 **Evaluation.** Nike fits the NIDL: design and marketing in the USA, assembly in Asia. But it controls a global system without owning most factories, so FDI figures understate its reach. Host countries gain jobs and exports, but contracts can move when costs rise, and most value added stays with the brand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--03-et-nike.webp" width="900" height="870" alt="Nike structure: world HQ, two regional HQs, contract factories, owned Air-Sole plants, and shares of footwear by country. Nike designs in the USA and relies mostly on contract factories in Vietnam, Indonesia and China." loading="lazy">
+  <figcaption>Nike designs in the USA and relies mostly on contract factories in Vietnam, Indonesia and China.</figcaption>
+</figure>
+
+
 ## 14.2 NICs and the changing location of economic activity
 
 A **newly industrialised country (NIC)** has moved quickly from a farming-based economy to one led by manufacturing exports. The first generation were Hong Kong, Singapore, South Korea and Taiwan.
@@ -137,6 +155,22 @@ Stronger backwash means **divergence**; stronger spread means **convergence**. A
 **Illustration: Italy.** At unification in the 1860s the north already had far more road and rail. Industry concentrated in the north-west and southerners migrated north or abroad: classic backwash. In 2023 southern regions' GDP per capita still ranged from about 59% (Calabria) to about 86% (Abruzzo) of the national average.
 
 **Evaluation.** Ratios can converge while absolute gaps widen, so say which measure you use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--04-et-friedmann.webp" width="900" height="910" alt="Four panels of Friedmann’s stages, from independent centres to linked cities. Friedmann’s four stages of core-periphery development, schematic and not to scale." loading="lazy">
+  <figcaption>Friedmann’s four stages of core-periphery development, schematic and not to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--05-et-cumulative.webp" width="900" height="800" alt="A loop from initial advantage to firms, income, infrastructure and more firms. Myrdal’s cumulative causation as a loop that widens the gap." loading="lazy">
+  <figcaption>Myrdal’s cumulative causation as a loop that widens the gap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--06-et-backwash-spread.webp" width="900" height="1060" alt="Arrows between core and periphery, with before and after bars for divergence and convergence. Backwash pulls workers and capital to the core while spread pushes benefits out; the stronger one decides divergence or convergence." loading="lazy">
+  <figcaption>Backwash pulls workers and capital to the core while spread pushes benefits out; the stronger one decides divergence or convergence.</figcaption>
+</figure>
+
 ## 14.4 Case study (regional development policy): China
 
 This serves the 14.4 requirement to study one country's regional development policy.
@@ -152,6 +186,12 @@ This serves the 14.4 requirement to study one country's regional development pol
 **Worked paragraph.** *Evaluate the success of one country's regional development policy.*
 
 > China's Western Development strategy, proposed in 1999, aimed to narrow the gap between the coastal core and the interior (knowledge). It built links such as the Qinghai-Tibet Railway to replace backwash with spread effects (application). Yet better links also let young workers leave and coastal firms sell into the west, so infrastructure can strengthen the core (analysis). Guizhou remained among the poorest provinces in 2020, so the policy has raised living standards more than it has closed the relative gap; its success depends on whether you judge it by growth or by equality (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-economic-transition--07-et-china-gap.webp" width="900" height="1000" alt="Bar charts of the west’s output share, Shanghai to Guizhou GDP per person, and the west’s land and population shares. China’s east-west gap in 1990, 2000 and 2002, using the lesson’s figures." loading="lazy">
+  <figcaption>China’s east-west gap in 1990, 2000 and 2002, using the lesson’s figures.</figcaption>
+</figure>
+
 ## Common errors
 
 - Treating outsourcing (who does the work) and offshoring (where) as the same thing.

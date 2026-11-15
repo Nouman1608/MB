@@ -38,6 +38,12 @@ The brief states that computational thinking involves the ability to:
 
 The brief also says the course "is underpinned by the computational thinking process" and that it develops "skills in algorithmic thinking and computer programming".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--01-b1-four-part-process.webp" width="900" height="980" alt="The four parts of the process are specify, decompose, abstract and generalize, and test and evaluate. Success criteria set at the start are what testing checks at the end, and evaluation can send you back to an earlier step." loading="lazy">
+  <figcaption>The computational thinking process: four steps in order, with success criteria and an improvement loop.</figcaption>
+</figure>
+
+
 ## How much time does B.1 get?
 
 The brief's recommended teaching hours are **5 hours at SL and 5 hours at HL**, the same at both levels. That is small compared with B.2 Programming (40 SL / 42 HL), because B.1 is a way of working that is then applied throughout the other sub-topics rather than a large body of separate content.
@@ -49,6 +55,12 @@ The brief's recommended teaching hours are **5 hours at SL and 5 hours at HL**, 
 | B.3 Object oriented programming (OOP) | 7 | 23 |
 | B.4 Abstract data types (HL only) | 0 | 23 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--02-b1-teaching-hours.webp" width="900" height="850" alt="B.1 has 5 recommended teaching hours at both SL and HL. B.2 has 40 and 42, B.3 has 7 and 23, and B.4 has 0 and 23. B.1 is small because it is a way of working applied in the other sub-topics." loading="lazy">
+  <figcaption>Recommended teaching hours at SL and HL for B.1 to B.4.</figcaption>
+</figure>
+
+
 ## Where is B.1 assessed?
 
 According to the brief:
@@ -57,6 +69,12 @@ According to the brief:
 - **The computational solution** (internal assessment) asks students to develop a computational solution to a real-world problem of their own choosing, using "the computational thinking process". It is 35 hours of teaching time and is worth 30% at SL and 20% at HL.
 
 Assessment Objective 4 in the brief is to "demonstrate the application of computational thinking skills to solve real-world problems using computer science solutions", and Assessment Objective 3 includes constructing and evaluating "problem specifications, system requirements, success criteria, testing strategies, and programs".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--03-b1-assessment-weights.webp" width="900" height="930" alt="Paper 2 on Theme B is 1 hour 15 minutes and 35 percent at SL, and 2 hours and 40 percent at HL. The computational solution (internal assessment) has 35 hours of teaching time and is worth 30 percent at SL and 20 percent at HL." loading="lazy">
+  <figcaption>Weights of Paper 2 and the computational solution at SL and HL.</figcaption>
+</figure>
+
 
 ## How do the four parts fit together?
 
@@ -75,6 +93,17 @@ The same cycle is what the brief describes for the internal assessment: "identif
 - Practise writing **success criteria** that can be tested: measurable statements, not vague aims.
 - Apply the process every time you write a program for B.2, B.3 and (at HL) B.4, because Paper 2 questions on Theme B draw on it.
 - Check the full DP guide for the exact B.1 learning outcomes and command terms your teacher will use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--04-b1-success-criteria.webp" width="900" height="960" alt="A vague aim cannot be tested, but a measurable success criterion can. In this illustrative example a total of 9.75 is expected for three prices. Version 1 fails the test with 9.00, and after evaluating and fixing, Version 2 passes." loading="lazy">
+  <figcaption>A testable success criterion lets a test pass or fail (illustrative example).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-b1-computational-thinking--05-b1-process-everywhere.webp" width="900" height="900" alt="The computational thinking process is used in B.2 Programming, B.3 OOP, B.4 Abstract data types (HL only) and the computational solution. The brief says the whole course is underpinned by the process." loading="lazy">
+  <figcaption>One process sits behind every other part of Theme B and the internal assessment.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

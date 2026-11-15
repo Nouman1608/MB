@@ -62,6 +62,27 @@ Rivers erode by hydraulic action, abrasion, attrition and solution, and transpor
 
 Be ready to explain landforms such as waterfalls, meanders, oxbow lakes, levees, floodplains and deltas in terms of process, not just description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--07-w-basin-system.webp" width="900" height="1160" alt="Cross-section of a drainage basin from a watershed on the left down to the sea on the right, with numbered parts and a key. Inputs and outputs: precipitation, evapotranspiration and discharge to the sea. Stores: interception on trees, soil moisture, groundwater and the river channel. Flows inside the basin: stemflow down the trunk, overland flow, infiltration into the soil, throughflow within the soil, percolation down to groundwater and baseflow back into the river." loading="lazy">
+  <figcaption>A drainage basin is an open system with inputs, stores, internal flows and outputs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--08-w-water-balance.webp" width="900" height="1000" alt="A worked example of the water balance for an illustrative basin. Precipitation of 920 mm splits into runoff Q of 410 mm, evapotranspiration E of 480 mm and a change in storage of plus 30 mm, because 920 minus 410 minus 480 is 30. Below, two bars show the runoff ratio: this basin 410 divided by 920 gives 0.446, while a neighbouring urban basin at 0.65 sends more of its rain away quickly, raising flood risk." loading="lazy">
+  <figcaption>Precipitation equals runoff plus evapotranspiration plus change in storage; the example basin stores 30 mm and has a runoff ratio of 0.446.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--09-w-hydrograph.webp" width="900" height="930" alt="A storm hydrograph plotting discharge against time, with a rainfall peak at 06:00 marked above. The first curve, before land-use change, rises slowly to a peak at 10:30, a lag time of 4.5 hours. The second curve, after woodland is cleared and drains are built, has a steeper rising limb and a higher peak at 08:00, a lag time of 2 hours, which is a flashy response. Baseflow, rising limb, peak discharge and falling limb are labelled." loading="lazy">
+  <figcaption>Clearing woodland and building drains shortens lag time and raises the peak, giving a flashy response.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--10-w-bradshaw.webp" width="900" height="960" alt="A river drawn from source to mouth, getting wider downstream, with three channel cross-sections (upper, middle, lower) that get wider and deeper while the bed stones get smaller and fewer. Six tiles summarise the Bradshaw model: discharge, width, depth and velocity increase downstream, while particle size and channel roughness decrease. Real rivers often depart from the model." loading="lazy">
+  <figcaption>Downstream, discharge, width, depth and velocity increase while particle size and roughness decrease.</figcaption>
+</figure>
+
+
 ## 1.2 Flooding and flood mitigation
 
 Floods have physical causes (intense or prolonged rainfall, snowmelt, saturated ground, storm surges at estuaries) and human contributors (deforestation, urbanisation, drainage of wetlands, poorly maintained defences, building on floodplains). Impacts can be sorted into primary (immediate damage, deaths and injuries), secondary (disease, disrupted services, lost livelihoods) and long-term (insurance costs, mental health effects, migration). Floods can also bring benefits, such as soil renewal on floodplains.
@@ -74,6 +95,12 @@ Mitigation falls into three broad types:
 
 You should be able to compare the economic, social, environmental and political dimensions of a hard and a soft approach. Many modern strategies combine them within integrated catchment management. Use a flood event you have studied for detail, and if you cannot recall exact figures, describe the pattern of impacts and responses rather than guessing numbers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--11-w-flood-defences.webp" width="900" height="1020" alt="A schematic river valley showing three approaches to flood mitigation. Soft engineering: afforestation on the valley side (1) and a wetland or washland on the floodplain (2). Hard engineering: embankments or levees beside the river (3), a flood wall (4) and a dam with a reservoir (5). Adaptation and preparedness: a flood-proofed house (6)." loading="lazy">
+  <figcaption>Soft engineering works with natural processes, hard engineering builds structures, and adaptation prepares people and buildings.</figcaption>
+</figure>
+
+
 ## 1.3 Water scarcity and water quality
 
 Distinguish three ideas that students often blur. Physical scarcity means there is not enough water to meet demand. Economic scarcity means water exists but people lack the infrastructure or money to use it. Water stress is a measure of pressure on available supply, often compared with demand per person. Water footprint counts the water used to produce goods and services, and virtual water is the water embedded in traded products, for example in food exports from dry regions.
@@ -82,11 +109,23 @@ Causes of scarcity include climate variability, population growth, rising per-ca
 
 Water quality links to pollutants: sewage, agricultural fertiliser and pesticides, industrial effluent, heavy metals, plastics and saline intrusion in coastal aquifers. Eutrophication is a key process: nutrients cause algal blooms, which block light, die and decompose, using up dissolved oxygen so that fish and other organisms die. Quality can be monitored through dissolved oxygen, biological indicators and chemical tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--12-w-eutrophication.webp" width="900" height="940" alt="Three stacked lake cross-sections show eutrophication in order. One: nutrients from fertiliser and sewage enter the lake and algae bloom at the surface, while dissolved oxygen is high. Two: the algae die and sink, and bacteria decomposing them use up dissolved oxygen, so the oxygen gauge falls. Three: oxygen is very low and fish die. Oxygen gauges are illustrative." loading="lazy">
+  <figcaption>Nutrients cause algal blooms; the algae die and decompose, bacteria use up dissolved oxygen, and fish die.</figcaption>
+</figure>
+
+
 ## 1.4 Water management futures
 
 The final strand asks you to evaluate strategies for an uncertain future. Supply-side approaches include dams and reservoirs, inter-basin transfers, desalination, rainwater harvesting and groundwater abstraction. Demand-side approaches include metering, pricing, efficient irrigation, leak repair and changing diets and crops. Integrated water resources management brings these together with stakeholders such as governments, farmers, industries, communities, non-governmental organisations and international bodies.
 
 Think about sustainability. Does a strategy meet today's needs without compromising future supply? Does it share costs and benefits fairly? Climate change adds uncertainty through shifts in rainfall, glacier and snowpack loss and more intense extremes. Strong responses weigh trade-offs, for example a reservoir that secures supply but displaces communities and changes downstream ecology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--13-w-supply-demand.webp" width="900" height="920" alt="A water tank in the centre. On the supply side, arrows add water: dams and reservoirs, inter-basin transfers, desalination, rainwater harvesting and groundwater abstraction. On the demand side, arrows take water away through lower use: metering, pricing, efficient irrigation, leak repair and diet and crop change. A banner says integrated water resources management joins both sides with all stakeholders." loading="lazy">
+  <figcaption>Supply-side approaches add water, demand-side approaches reduce use, and integrated management joins both.</figcaption>
+</figure>
+
 
 ## Worked examples
 

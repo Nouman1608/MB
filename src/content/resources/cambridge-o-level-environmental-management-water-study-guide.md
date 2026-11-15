@@ -59,6 +59,12 @@ Fresh water comes from **surface water** (rivers, lakes and reservoirs), **groun
 
 Demand for water rises with population, irrigation and industry. Water can be used more sustainably by repairing leaks, using drip irrigation, recycling waste water, charging for use and educating households.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--14-water-sources.webp" width="900" height="810" alt="Four cards. A reservoir stores water for dry seasons but floods land and loses water to evaporation. Groundwater from wells and boreholes is clean and available all year but over-use lowers the water table. Rainwater harvesting from roofs is cheap and simple but depends on rain and needs tanks. Desalination gives a reliable supply from the sea but uses a lot of energy and makes salty waste water." loading="lazy">
+  <figcaption>Reservoirs, groundwater, rainwater harvesting and desalination each have one advantage and one disadvantage.</figcaption>
+</figure>
+
+
 ## Water pollution
 
 Common pollutants and their sources:
@@ -73,6 +79,12 @@ Common pollutants and their sources:
 
 When fertiliser or sewage enters a lake, the extra nutrients cause rapid growth of algae. The algae form a thick layer that blocks light, so plants below die. Bacteria then decompose the dead material and use up the dissolved oxygen. Fish and other animals die of oxygen shortage. Make sure you give the stages in order, since marks are usually awarded for the chain of reasoning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--15-eutrophication.webp" width="900" height="1010" alt="Four lake cross-sections in order. One: fertiliser or sewage adds nutrients to the lake. Two: algae grow rapidly into a thick layer that blocks light, so plants below die. Three: bacteria decompose the dead material and use up the dissolved oxygen. Four: with too little oxygen, fish and other animals die." loading="lazy">
+  <figcaption>Nutrients cause an algae bloom that blocks light; plants and algae die, bacteria use up oxygen, and fish die.</figcaption>
+</figure>
+
+
 ### Management
 
 Treat sewage before release, limit and time the use of fertilisers, create buffer strips of vegetation along rivers, regulate industrial discharge and monitor water quality. Indicator species and oxygen measurements are used to judge how polluted a river is.
@@ -86,11 +98,23 @@ Several diseases are linked to water in different ways.
 
 Prevention depends on safe drinking water, sanitation and hygiene: treat or boil water, build latrines away from wells, cover or drain stagnant water, use bed nets, wash hands, and provide rehydration treatment for diarrhoeal disease. Poor communities with no piped supply carry the greatest burden, and women and children often spend many hours collecting water.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--16-water-diseases.webp" width="900" height="800" alt="Two chains. Water-borne diseases such as cholera and typhoid: microorganisms from human waste contaminate drinking water, and people who use it become ill. Prevention is boiling or treating water and building latrines away from wells. Malaria is an insect-borne disease: mosquitoes breed in standing water and bite people, who become ill. Prevention is draining or covering standing water and using bed nets." loading="lazy">
+  <figcaption>Cholera and typhoid spread through water contaminated by human waste; malaria spreads by mosquitoes breeding in standing water.</figcaption>
+</figure>
+
+
 ## Marine aquaculture
 
 Marine aquaculture is the farming of fish, shellfish and seaweed in the sea, often in floating net cages. It provides protein, reduces pressure on wild fish stocks and creates jobs.
 
 Environmental problems include waste food and faeces that enrich the water below cages, the spread of disease and parasites to wild fish, escaped fish breeding with wild populations, antibiotic and chemical use, and clearance of mangroves for ponds. Better practice includes siting farms where currents disperse waste, controlling stocking density, using properly designed feed and rotating sites.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--17-fish-farm.webp" width="900" height="820" alt="Side view of floating net cages in the sea. Waste food and faeces fall to the water below and enrich it. Disease and parasites can spread from farmed fish to wild fish. Escaped fish can breed with wild populations. Siting farms where currents disperse waste is better practice." loading="lazy">
+  <figcaption>Floating cages release waste that enriches the water, disease and parasites can spread to wild fish, escapees can breed with wild fish, and siting where currents disperse waste helps.</figcaption>
+</figure>
+
 
 ## Oil pollution
 
@@ -107,11 +131,23 @@ Oil enters the sea through tanker accidents, offshore drilling leaks, pipeline f
 
 Booms contain the slick, skimmers collect oil from the surface, dispersants break it into small droplets, absorbent materials mop up oil on beaches, and people clean wildlife. Each method has limits: dispersants may harm marine life and rough seas make booms ineffective. The best strategy is prevention, using double-hulled tankers, strict regulation, navigation controls and regular maintenance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--18-oil-spill.webp" width="900" height="820" alt="A tanker leaks oil that floats and spreads as a slick on the sea surface; an oiled seabird shows the harm. Booms contain the slick but are ineffective in rough seas. Skimmers collect oil from the surface. Dispersants break oil into small droplets but may harm marine life. The best strategy is prevention, using double-hulled tankers, strict regulation, navigation controls and regular maintenance." loading="lazy">
+  <figcaption>Booms contain a slick but fail in rough seas, skimmers collect oil, dispersants break it into droplets, and prevention is best.</figcaption>
+</figure>
+
+
 ## Plastic pollution
 
 Plastic is cheap and durable, which is why it persists. It reaches the sea from rivers, litter, fishing gear and poor waste management. Large pieces entangle animals or are eaten by them, and sunlight and waves break plastic into microplastics that enter food chains. Floating plastic gathers in ocean gyres and drifts on to beaches.
 
 Management includes reducing single-use plastic, reuse and recycling, better waste collection, deposit schemes, cleaning rivers and beaches, bans on certain items and education. Because plastic crosses borders, international cooperation is useful, though enforcement is difficult.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--19-plastic-journey.webp" width="900" height="960" alt="Four stages. One: plastic reaches the sea from litter, rivers, fishing gear and poor waste management. Two: sunlight and waves break it into microplastics. Three: microplastics enter food chains, eaten by small fish that are eaten by larger animals. Four: floating plastic gathers in ocean gyres and drifts on to beaches." loading="lazy">
+  <figcaption>Plastic reaches the sea, breaks into microplastics, enters food chains and gathers in gyres before drifting to beaches.</figcaption>
+</figure>
+
 
 ## Worked example 1: household water use
 
@@ -130,6 +166,12 @@ A school roof has an area of 120 square metres. The annual rainfall is 650 mm. A
 1. 650 mm = 0.65 m, so rain falling = 120 x 0.65 = 78 cubic metres.
 2. Collected = 78 x 0.80 = 62.4 cubic metres = 62,400 litres per year.
 3. Per day on average = 62,400 / 365 = 171 litres (to the nearest litre).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--20-rainwater-harvest.webp" width="900" height="960" alt="Worked example in four steps. A school roof of 120 square metres receives 650 millimetres, or 0.65 metres, of rain a year: 120 times 0.65 is 78 cubic metres. With 80 per cent collected, 78 times 0.80 is 62.4 cubic metres. One cubic metre is 1,000 litres, so that is 62,400 litres. Divided by 365 days, the average is 171 litres a day to the nearest litre." loading="lazy">
+  <figcaption>A 120 square metre roof with 650 mm of rain collects 62.4 cubic metres a year at 80 per cent, which is 62,400 litres or 171 litres a day.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

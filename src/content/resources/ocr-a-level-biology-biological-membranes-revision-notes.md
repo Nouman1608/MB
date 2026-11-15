@@ -73,6 +73,12 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 
 **Scale (M0.2):** a membrane is only a few nanometres thick, so it shows as two dark lines separated by a lighter band in an electron micrograph and cannot be resolved with a light microscope.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--11-mem-fluid-mosaic.webp" width="900" height="1030" alt="Cross-section of a phospholipid bilayer about 7 nm thick with hydrophilic heads outside and inside and hydrophobic tails inwards. Cholesterol, a channel protein, a carrier protein, a glycoprotein and a glycolipid are labelled, with a key showing one phospholipid." loading="lazy">
+  <figcaption>The membrane is a fluid bilayer of phospholipids with a mosaic of proteins, cholesterol and carbohydrate chains.</figcaption>
+</figure>
+
+
 ## Factors affecting membrane structure and permeability: 2.1.5(c)(i)
 
 **Temperature**
@@ -87,6 +93,12 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 * Organic solvents such as ethanol and acetone are less polar than water, so they dissolve or disrupt the phospholipid bilayer.
 * The higher the solvent concentration, the greater the damage and the more permeable the membrane. Very high concentrations destroy the membrane completely.
 * Detergents have a similar effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--14-mem-beetroot-permeability.webp" width="900" height="990" alt="Two rows of four tubes: water at increasing temperature and increasing ethanol concentration. The liquid gets redder because more pigment leaks out. A colorimeter reads higher absorbance for more pigment, meaning a more permeable membrane." loading="lazy">
+  <figcaption>More leaked pigment means higher absorbance and a more permeable membrane.</figcaption>
+</figure>
+
 
 ## Practical: membrane permeability with beetroot (PAG5, PAG8): 2.1.5(c)(ii)
 
@@ -142,6 +154,17 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 * **Exocytosis:** vesicles, often from the Golgi apparatus, move to the plasma membrane, fuse with it and release their contents.
 * ATP is the immediate energy source for moving vesicles along the cytoskeleton and for changing the shape of the membrane.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--12-mem-transport.webp" width="900" height="1330" alt="Three panels. Diffusion: molecules cross the bilayer down the gradient. Facilitated diffusion: molecules go through a channel protein down the gradient. Active transport: a carrier protein uses ATP to move molecules from low to high concentration." loading="lazy">
+  <figcaption>Passive processes go down the concentration gradient; active transport goes against it and needs ATP.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--13-mem-bulk-transport.webp" width="900" height="1040" alt="Two rows of three stages: endocytosis (particle meets membrane, membrane folds round it, vesicle pinches off) and exocytosis (vesicle approaches, fuses with membrane, contents released). Both need ATP." loading="lazy">
+  <figcaption>Endocytosis and exocytosis move large particles using vesicles and ATP.</figcaption>
+</figure>
+
+
 ## Practical: diffusion in model cells (PAG8): 2.1.5(d)(ii)
 
 * **Agar cubes:** agar containing an indicator (for example phenolphthalein made pink with dilute sodium hydroxide) is cut into cubes of different sizes and placed in dilute acid. Time how long each cube takes to go colourless, or measure the colourless depth after a set time.
@@ -156,6 +179,12 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 | 2 | 24 | 8 | 3 : 1 |
 | 3 | 54 | 27 | 2 : 1 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--16-mem-agar-surface-area.webp" width="900" height="900" alt="A 1 cm agar cube has surface area 6 cm2 and volume 1 cm3, ratio 6:1; a 2 cm cube has 24 cm2 and 8 cm3, ratio 3:1. Acid diffusing 4.5 mm in 6 minutes gives 0.75 mm per minute." loading="lazy">
+  <figcaption>Doubling the side halves the surface area to volume ratio, so the smaller cube changes colour sooner.</figcaption>
+</figure>
+
+
 ## Osmosis and water potential: 2.1.5(e)(i)
 
 * Water potential is highest in pure water (0 kPa). Dissolving solutes lowers it, so solutions have **negative** values. The more concentrated the solution, the more negative ψ is.
@@ -169,6 +198,12 @@ These notes condense learning outcomes 2.1.5(a) to (e) of the OCR A Level Biolog
 | Lower ψ than the cell | Water leaves; cell shrinks and the membrane wrinkles (**crenation**) | Water leaves; cell becomes **flaccid**, then the membrane pulls away from the wall (**plasmolysis**) |
 
 * Animal cells have no cell wall, so tissue fluid must be kept at a similar water potential to the cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-biological-membranes--15-mem-osmosis-cells.webp" width="900" height="1200" alt="A 3 by 2 grid of a red blood cell and a plant cell in solutions of higher, equal and lower water potential: swelling or bursting versus turgid, no net movement versus flaccid, and crenation versus plasmolysis. Arrows show net water movement." loading="lazy">
+  <figcaption>Water moves from higher to lower water potential, so animal cells swell or shrink while plant cells become turgid or plasmolysed.</figcaption>
+</figure>
+
 
 ## Practical: water potential of plant and animal cells (PAG8): 2.1.5(e)(ii)
 

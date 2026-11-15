@@ -69,6 +69,12 @@ For full explanations read the [Research methods study guide](/resources/aqa-a-l
 | Independent groups | No order effects | Participant variables; more participants | Random allocation |
 | Matched pairs | Controls key participant variables; no order effects | Matching is time-consuming and never perfect | Pilot matching variable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--16-rm-designs.webp" width="900" height="1090" alt="Repeated measures uses the same people in both conditions, independent groups uses different people, and matched pairs uses different people matched on a key variable. Notes give counterbalancing, random allocation and that matching is time-consuming." loading="lazy">
+  <figcaption>Who takes part in each condition.</figcaption>
+</figure>
+
+
 ## Sampling compared
 
 | Technique | Representative? | Practical? |
@@ -78,6 +84,12 @@ For full explanations read the [Research methods study guide](/resources/aqa-a-l
 | Stratified | Most representative of sub-groups | Time-consuming |
 | Opportunity | Usually not | Quick and easy |
 | Volunteer | Volunteer bias | Easy; reaches many |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--17-rm-sampling.webp" width="900" height="1170" alt="Three panels of 30 circles with 10 chosen: random, systematic (every third person) and stratified (sub-groups of 15, 9 and 6 sampled as 5, 3 and 2)." loading="lazy">
+  <figcaption>Random, systematic and stratified sampling.</figcaption>
+</figure>
+
 
 ## Reliability and validity at a glance
 
@@ -102,6 +114,12 @@ For full explanations read the [Research methods study guide](/resources/aqa-a-l
 
 **Skew rule.** Positive skew: mode < median < mean (tail to the right). Negative skew: mean < median < mode (tail to the left). Normal: all three equal.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--18-rm-distributions.webp" width="900" height="1170" alt="Three curves with mode, median and mean marked. Normal: all at one point. Positive skew: long tail right, mean above median above mode. Negative skew: the mirror image." loading="lazy">
+  <figcaption>Where mean, median and mode fall in normal and skewed curves.</figcaption>
+</figure>
+
+
 ## Choosing an inferential test
 
 Ask: difference or correlation? Related or unrelated design? Nominal, ordinal or interval data?
@@ -114,6 +132,12 @@ Ask: difference or correlation? Related or unrelated design? Nominal, ordinal or
 
 **"Less than" tests**: for the sign test, Wilcoxon and Mann-Whitney, the calculated value must be **equal to or less than** the critical value to be significant. For the others, it must be equal to or greater.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--19-rm-test-choice.webp" width="900" height="812" alt="A table of tests by level of measurement (nominal, ordinal, interval) and design (unrelated, related, correlation), with the t-tests and Pearson’s r marked as parametric." loading="lazy">
+  <figcaption>Three questions point to one test.</figcaption>
+</figure>
+
+
 ## Worked example: the sign test
 
 Ten students rated their mood before and after a mindfulness session. Eight improved (+), one got worse (-) and one did not change (0).
@@ -123,6 +147,12 @@ Ten students rated their mood before and after a mindfulness session. Eight impr
 3. For a directional hypothesis at p ≤ 0.05 with N = 9, the critical value of S is 1.
 4. S (1) is equal to or less than the critical value (1), so the result is **significant**; reject the null hypothesis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--20-rm-sign-test.webp" width="900" height="970" alt="Ten illustrative before and after scores give seven plus signs, two minus signs and one zero. Ignoring the zero N is 9 and S, the less frequent sign, is 2. S is compared with the critical value for N from the table; S at or below it is significant." loading="lazy">
+  <figcaption>Sign test worked through on example data.</figcaption>
+</figure>
+
+
 ## Must-know distinctions
 
 - **Lab vs field experiment**: setting artificial vs natural; both manipulate the IV.
@@ -131,6 +161,12 @@ Ten students rated their mood before and after a mindfulness session. Eight impr
 - **Event vs time sampling**: every occurrence vs fixed intervals.
 - **Coding vs thematic analysis**: produces numbers vs keeps qualitative themes.
 - **Type I vs Type II error**: false positive (too lenient) vs false negative (too strict).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--15-rm-experiments.webp" width="900" height="810" alt="Four cards: laboratory (IV manipulated in a controlled setting), field (IV manipulated in a natural setting), natural (IV varies naturally), quasi (IV is a characteristic of participants)." loading="lazy">
+  <figcaption>Four types of experiment by setting and IV.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -155,6 +191,12 @@ A type I error rejects a true null hypothesis (a false positive, more likely wit
 8. What correlation coefficient shows a strong negative relationship: +0.2, -0.85 or -0.1?
 
 **Answers:** (1) repeated measures; (2) an extraneous variable might affect the DV; a confounding variable has done so systematically; (3) introduction, method, results, discussion, referencing; (4) mode; (5) mean; (6) Mann-Whitney; (7) rejecting the null hypothesis when it is true (false positive); (8) -0.85.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-psychology-7182-research-methods--21-rm-errors.webp" width="900" height="930" alt="A grid: rejecting a true null hypothesis is a Type I error (false positive); accepting a false one is a Type II error (false negative). A scale from 0.10 lenient to 0.01 strict shows which error becomes more likely." loading="lazy">
+  <figcaption>Type I and Type II errors and the significance level.</figcaption>
+</figure>
+
 
 ## Where marks are usually lost
 

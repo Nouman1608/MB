@@ -71,6 +71,17 @@ An **offer** is a definite promise to be bound on specified terms if accepted. I
 
 **Acceptance** must be a final and unqualified agreement to the terms, communicated to the offeror. A counter-offer destroys the original offer (Hyde v Wrench, 1840). Silence cannot be acceptance (Felthouse v Bindley, 1862). The **postal rule** makes acceptance effective when posted (Adams v Lindsell, 1818), while for instant methods acceptance takes effect when received (Entores v Miles Far East, 1955).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--13-ct-offer-or-invitation.webp" width="900" height="856" alt="Three examples of invitations to treat: goods on a shop shelf (Pharmaceutical Society v Boots), goods in a shop window (Fisher v Bell) and most advertisements (Partridge v Crittenden). An invitation to treat only invites offers, so the customer who orders makes the offer and the seller’s confirmation is the acceptance, as in the worked example of Zara and Dalton. The exception is a unilateral offer to the world, accepted by performance, found in Carlill v Carbolic Smoke Ball." loading="lazy">
+  <figcaption>Invitation to treat, offer and acceptance, with the Carlill exception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--14-ct-acceptance-timing.webp" width="900" height="920" alt="Two timelines. By post, acceptance is effective when posted (Adams v Lindsell). By instant methods, acceptance takes effect when received (Entores v Miles Far East). Two things that are not acceptance: a counter-offer, which destroys the original offer (Hyde v Wrench), and silence (Felthouse v Bindley)." loading="lazy">
+  <figcaption>Postal rule against receipt rule, and two things that are not acceptance.</figcaption>
+</figure>
+
+
 ### Consideration
 
 Consideration is something of value given in return for a promise. It must be sufficient but need not be adequate (Chappell v Nestle, 1960). It must not be past (Re McArdle, 1951). Performing an existing duty is generally not good consideration (Stilk v Myrick, 1809), but a practical benefit can be (Williams v Roffey Bros, 1991). Part payment of a debt does not discharge the whole (Foakes v Beer, 1884).
@@ -91,6 +102,12 @@ Terms are classified by importance.
 
 Terms may be express or implied. Terms may be implied by fact where the court needs to give business efficacy to the contract (The Moorcock, 1889), by custom and by statute.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--15-ct-term-types.webp" width="900" height="830" alt="Three rows. A condition goes to the root of the contract; breach allows termination and damages (Poussard v Spiers). A warranty is minor; breach gives damages only (Bettini v Gye). An innominate term can be treated either way depending on the seriousness of the consequences of the breach (Hong Kong Fir Shipping v Kawasaki)." loading="lazy">
+  <figcaption>What a claimant can do for breach of each type of term.</figcaption>
+</figure>
+
+
 ## Terms implied by statute in consumer contracts
 
 The Consumer Rights Act 2015 implies terms into contracts between a trader and a consumer. Goods must be of **satisfactory quality** (section 9), **fit for a particular purpose** made known to the trader (section 10) and **as described** (section 11). Remedies include a short-term right to reject, repair or replacement, and price reduction. For services (section 49), the trader must perform with reasonable care and skill. These terms cannot be excluded or restricted against a consumer.
@@ -103,6 +120,12 @@ An **exclusion clause** tries to exclude or limit liability. A court asks three 
 2. **Construction**: ambiguity is read against the party relying on the clause.
 3. **Statutory control**: the Unfair Contract Terms Act 1977 provides that liability for death or personal injury caused by negligence cannot be excluded (section 2(1)) and that other negligence exclusions must satisfy the **reasonableness test** (section 2(2)). In consumer contracts, the Consumer Rights Act 2015 makes such a notice or term ineffective for death or personal injury and subjects other terms to a fairness test, so an unfair term is not binding on the consumer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--16-ct-exclusion-gates.webp" width="900" height="1144" alt="Three questions asked in order. First, was the clause incorporated: by signature even if unread (L’Estrange v Graucob), by notice given before or when the contract is made (Olley, Thornton) or by course of dealing. Second, does it cover the breach, with ambiguity read against the party relying on it. Third, is it allowed by statute: UCTA 1977 section 2(1) forbids excluding liability for death or personal injury caused by negligence, section 2(2) requires other negligence exclusions to be reasonable, and under the Consumer Rights Act 2015 an unfair term is not binding on the consumer." loading="lazy">
+  <figcaption>The three questions for an exclusion clause.</figcaption>
+</figure>
+
+
 ## Vitiating factors
 
 These are factors that make a contract void or voidable.
@@ -111,9 +134,21 @@ These are factors that make a contract void or voidable.
 - **Mistake** can make a contract void: common mistake where both parties share the same fundamental error (Bell v Lever Brothers, 1932; Great Peace Shipping v Tsavliris, 2002), mutual mistake (Raffles v Wichelhaus, 1864) and unilateral mistake as to identity (Cundy v Lindsay, 1878).
 - **Duress** is illegitimate pressure (Barton v Armstrong, 1976; Atlas Express v Kafco, 1989) and **undue influence** is abuse of a relationship of trust (Royal Bank of Scotland v Etridge (No 2), 2001); both make the contract voidable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--17-ct-vitiating-factors.webp" width="900" height="900" alt="Three vitiating factors. Misrepresentation is a false statement of fact that induces the contract, and may be fraudulent, negligent or innocent; remedies include rescission and, depending on the type, damages. Mistake, common, mutual or unilateral as to identity, can make a contract void. Duress, illegitimate pressure, and undue influence, abuse of a relationship of trust, make a contract voidable." loading="lazy">
+  <figcaption>Vitiating factors and their effect.</figcaption>
+</figure>
+
+
 ## Discharge of a contract
 
 A contract can end by **performance**, which must usually be complete and precise (Cutter v Powell, 1795), though substantial performance may suffice (Hoenig v Isaacs, 1952). It can end by **agreement**, by **breach** and by **frustration**. Breach includes actual breach and **anticipatory breach**, where one party shows in advance that they will not perform (Hochster v De la Tour, 1853). Frustration occurs when a later event makes performance impossible, illegal or radically different, through no fault of either party (Taylor v Caldwell, 1863; Krell v Henry, 1903). It does not apply where performance is merely harder or more expensive (Davis Contractors v Fareham UDC, 1956).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--18-ct-discharge-routes.webp" width="900" height="962" alt="Four routes. Performance, usually complete and precise (Cutter v Powell), though substantial performance may suffice (Hoenig v Isaacs). Agreement. Breach, actual or anticipatory where one party shows in advance they will not perform (Hochster v De la Tour). Frustration, where a later event makes performance impossible, illegal or radically different through no fault of either party, but not where it is merely harder or more expensive (Davis Contractors)." loading="lazy">
+  <figcaption>Performance, agreement, breach and frustration.</figcaption>
+</figure>
+
 
 ## Remedies
 
@@ -121,6 +156,12 @@ A contract can end by **performance**, which must usually be complete and precis
 - **Liquidated damages** are a pre-agreed sum, valid unless a penalty (Cavendish Square Holding v Makdessi, 2015).
 - **Specific performance** orders the contract to be carried out, only where damages are inadequate, and never for personal service contracts.
 - **Injunctions** restrain a breach (Warner Brothers v Nelson, 1937); **rescission** and **restitution** return the parties to their original positions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--19-ct-damages-zara.webp" width="900" height="874" alt="Horizontal bars on a pounds scale. Zara agreed to buy a machine for 12,500 pounds. After Dalton cancelled she bought a replacement for 14,200 pounds, so her expectation loss is 1,700 pounds. If Dalton knew about a job on which she lost 600 pounds profit, that may also be recoverable under the second limb of Hadley v Baxendale, giving 2,300 pounds. If Dalton did not know, the 600 pounds is probably too remote." loading="lazy">
+  <figcaption>Bars showing £12,500 agreed price, £14,200 replacement and the £1,700 and £2,300 damages.</figcaption>
+</figure>
+
 
 ## Worked example
 

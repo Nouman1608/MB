@@ -71,6 +71,12 @@ leaders argued over reparations and Poland, and Truman told Stalin about a power
 the atomic bomb dropped on Hiroshima days later. **Stalin** wanted a buffer zone of friendly
 states to protect the USSR from future invasion; Truman saw this as communist expansion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--15-sp-conferences.webp" width="900" height="809" alt="Three rows for Tehran, Yalta and Potsdam with what was agreed or argued and who led each side; Potsdam is shaded to show worsening relations." loading="lazy">
+  <figcaption>Cooperation at Tehran and Yalta gave way to tension at Potsdam.</figcaption>
+</figure>
+
+
 ## How did the division of Europe develop, 1945–49?
 
 Communist-dominated governments took power across Eastern Europe, ending with the coup in
@@ -87,6 +93,17 @@ introduced in the western zones in June 1948. Stalin responded with the **Berlin
 **Berlin Airlift** until Stalin lifted the blockade. Results: the creation of **NATO** (April 1949), and
 the division of Germany into the **Federal Republic** (FRG) and the **German Democratic Republic**
 (GDR) in 1949.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--16-sp-action-reaction.webp" width="900" height="751" alt="West and East columns: Truman Doctrine and communist governments, the Marshall Plan and Stalin’s response with Cominform and Comecon, and the two German states of 1949." loading="lazy">
+  <figcaption>Two blocs took shape in answer to each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--17-sp-berlin-blockade.webp" width="900" height="841" alt="Schematic: West Berlin as a circle inside the Soviet side, land routes crossed out, and a gold arrow for the airlift, followed by the sequence and the results." loading="lazy">
+  <figcaption>Stalin cut the land routes; the Allies supplied the city by air.</figcaption>
+</figure>
+
 
 ## How did the Cold War change in the 1950s?
 
@@ -105,6 +122,12 @@ The **nuclear arms race** intensified: the USSR tested an atomic bomb in 1949, b
 hydrogen bombs, and the Soviet launch of **Sputnik** (1957) suggested a lead in missiles. Fear of
 nuclear war made both sides cautious but also raised the stakes of every crisis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--18-sp-hungary.webp" width="900" height="844" alt="Five steps from Rákosi’s rule to the Soviet invasion of November 1956 and the West’s failure to intervene." loading="lazy">
+  <figcaption>Hungary 1956 showed the USA would not challenge the Soviet sphere.</figcaption>
+</figure>
+
+
 ## What were the three crises of the 1960s?
 
 **Berlin.** The **U2 incident** (May 1960), when an American spy plane was shot down over the USSR,
@@ -122,6 +145,17 @@ how close nuclear war could come.
 Warsaw Pact forces invaded in August 1968. The **Brezhnev Doctrine** declared that the bloc would
 intervene wherever socialism was threatened.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--19-sp-three-crises.webp" width="900" height="792" alt="Three rows for Berlin, Cuba and Czechoslovakia, each with a trigger and an outcome." loading="lazy">
+  <figcaption>The trigger and outcome of each crisis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--20-sp-cuba-deal.webp" width="900" height="728" alt="Three steps to the crisis, then a deal: the USSR removes missiles from Cuba, the USA pledges not to invade Cuba, and secretly promises to remove its missiles from Turkey." loading="lazy">
+  <figcaption>Each side gave something; one promise was secret.</figcaption>
+</figure>
+
+
 ## Why did relations thaw, and how far did détente go by 1972?
 
 After Cuba a **Hotline** (1963) linked Washington and Moscow, and the **Partial Test Ban Treaty** (1963)
@@ -131,6 +165,12 @@ space, and the **Nuclear Non-proliferation Treaty** (1968) aimed to stop their s
 the fear created by Cuba. The **SALT** talks from 1969 produced the **SALT I** agreements (May 1972),
 limiting anti-ballistic missiles and freezing numbers of strategic missiles. Détente was real but
 limited: rivalry continued in Vietnam and elsewhere, and SALT I did not reduce existing arsenals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--21-sp-detente.webp" width="900" height="1043" alt="Four reasons for détente, five agreements from 1963 to 1972, and a note that détente was real but limited." loading="lazy">
+  <figcaption>Why relations thawed and what was agreed.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

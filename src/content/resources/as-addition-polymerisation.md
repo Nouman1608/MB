@@ -60,6 +60,12 @@ polymerisation, which isn't part of this syllabus point).
 
 **Poly(chloroethene), PVC**: n CH₂=CHCl → –[CH₂–CHCl]ₙ–
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--14-double-bond-opens.webp" width="900" height="850" alt="Three ethene molecules, each with a C=C and four H atoms, join when the C=C opens, with no other product. The result is a section of poly(ethene): six carbons joined by single bonds with two H on each, open bonds at both ends, and one CH2-CH2 repeat unit bracketed with subscript n." loading="lazy">
+  <figcaption>In addition polymerisation the C=C opens and monomers link end to end, with no other product.</figcaption>
+</figure>
+
+
 ## Deducing a repeat unit from a monomer
 
 The repeat unit is simply the monomer with its C=C double bond "opened
@@ -74,6 +80,12 @@ CH₃ side-group exactly where it was:
 
 **–[CH₂–CH(CH₃)]ₙ–**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--15-repeat-unit-from-monomer.webp" width="900" height="890" alt="Top: propene, CH2=CHCH3, becomes the repeat unit with the C=C opened and the CH3 side group in the same position. Bottom: chloroethene, CH2=CHCl, becomes the PVC repeat unit with the Cl in the same position. Side groups are highlighted gold and the repeat units have no double bond." loading="lazy">
+  <figcaption>Open the C=C into two single bonds and keep every atom, including side groups, where it was.</figcaption>
+</figure>
+
+
 ## Deducing a monomer from a polymer section
 
 Run the process in reverse: identify one repeating unit in the given
@@ -86,6 +98,12 @@ bond.
 The repeating unit is –[CH₂–CCl₂]–. Closing the two dangling bonds back
 into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--16-monomer-from-polymer.webp" width="900" height="880" alt="A section of polymer with six carbons alternating CH2 and CCl2 and open bonds at both ends. One CH2-CCl2 repeat unit is boxed. Closing its two open bonds into a C=C gives the monomer CH2=CCl2, 1,1-dichloroethene." loading="lazy">
+  <figcaption>Pick out one repeat unit and close its two open bonds into a C=C to get the monomer.</figcaption>
+</figure>
+
+
 ## Common addition polymers
 
 | Monomer | Polymer | Use |
@@ -96,11 +114,28 @@ into a double bond gives the monomer **CH₂=CCl₂** (1,1-dichloroethene).
 | Phenylethene | Poly(phenylethene), polystyrene | Packaging, insulation |
 | Tetrafluoroethene | PTFE | Non-stick coatings |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--17-common-addition-polymers.webp" width="900" height="930" alt="Five rows each show a monomer with its C=C, an arrow, the polymer name and a use with an icon: ethene to poly(ethene) for bags and bottles; propene to poly(propene) for crates and ropes; chloroethene to PVC for pipes and cables; phenylethene to poly(phenylethene), polystyrene, for packaging and insulation; tetrafluoroethene to PTFE for non-stick coatings." loading="lazy">
+  <figcaption>Each common addition polymer comes from a monomer containing a C=C bond.</figcaption>
+</figure>
+
+
 ## Properties and chain structure
 
 Polymer chains are held together by **weak id-id (London dispersion) forces**, a type of van der Waals' force — individually weak, but so numerous along a long chain that the total attraction becomes substantial. **Longer chains** give more points of contact and therefore stronger forces, a higher melting point and greater strength. **Branched chains** cannot pack as closely, reducing contact between neighbouring chains and giving **lower density and a lower melting point** — the structural difference between low-density and high-density poly(ethene).
 
 **PVC is naturally rigid**, because its C–Cl dipoles create permanent dipole–dipole attractions between chains, on top of the id-id forces present in every addition polymer. **Plasticisers** are small molecules added to force the chains further apart, weakening those attractions and making the material flexible — which is why the same base polymer serves for both rigid drainpipes and flexible cable insulation, depending only on whether a plasticiser has been added.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--18-chain-contact-forces.webp" width="900" height="950" alt="Top: a short pair and a long pair of zigzag carbon chains with gold dashed id-id contacts between them (4 against 12), so longer chains give stronger forces and a higher melting point. Bottom: three straight chains pack closely (12 contacts) while three branched chains sit apart (6 contacts), giving lower density and a lower melting point." loading="lazy">
+  <figcaption>More contact between chains means stronger forces; branches stop chains packing, lowering density and melting point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--19-pvc-plasticiser.webp" width="900" height="940" alt="Two panels of PVC chains. Rigid: chains lie close and Cl atoms on one chain are joined to the next chain by strong dashed lines, the permanent dipole attractions from C-Cl bonds. Flexible: chains are far apart with plasticiser molecules between them and only faint dashes, so the attraction is weak." loading="lazy">
+  <figcaption>C-Cl dipoles make PVC rigid; a plasticiser pushes chains apart, weakening those attractions.</figcaption>
+</figure>
+
 
 ## The disposal problem
 
@@ -119,6 +154,12 @@ is worse, because it contains chlorine: combustion releases toxic and
 corrosive hydrogen chloride gas, and incomplete or poorly controlled
 combustion of chlorinated plastics can also produce other harmful
 chlorinated by-products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-addition-polymerisation--20-disposal-problems.webp" width="900" height="990" alt="Top: a landfill mound with polymer chains, beside a chain with strong non-polar C-C and C-H bonds: not biodegradable, lasting a very long time. Bottom: burning poly(ethene) gives CO2, CO and soot; burning PVC gives the same plus toxic, corrosive HCl. Soot and CO appear when burning is incomplete." loading="lazy">
+  <figcaption>Addition polymers are not biodegradable, and burning PVC also releases toxic, corrosive hydrogen chloride.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

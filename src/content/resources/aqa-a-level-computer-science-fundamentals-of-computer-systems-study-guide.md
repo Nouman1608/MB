@@ -34,6 +34,12 @@ Fundamentals of computer systems is section 4.6 of AQA 7517 and is assessed on P
 
 The **operating system** (OS) manages resources: it allocates memory, schedules the processor, controls input and output through device drivers, manages files, and provides a user interface and security. **Utility programs** perform maintenance tasks such as disk defragmentation, backup, compression and anti-malware scanning. **Libraries** are collections of pre-written, tested routines that programs can call, saving development time. A **linker** combines separately compiled modules and library routines into one executable; a **loader** places the program in memory ready to run. **Device drivers** let the OS communicate with a particular peripheral.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--20-linker-loader.webp" width="900" height="790" alt="Module A, module B and library routines are combined by the linker into one executable, which the loader places in main memory ready to run." loading="lazy">
+  <figcaption>The linker combines modules; the loader puts the program in memory.</figcaption>
+</figure>
+
+
 ## Classification of programming languages
 
 **Machine code** is binary instructions executed directly by the processor; each processor family has its own instruction set. **Assembly language** uses mnemonics such as `ADD` in place of binary and has a one-to-one correspondence with machine code, so it is machine-specific. Both are **low-level**. A **high-level language** is closer to human language, has statements that translate into many machine instructions, is portable across processors, and is easier to read, write and maintain. In an **imperative** language, a program is a sequence of statements that change state, and this includes procedural and object-oriented styles.
@@ -62,6 +68,17 @@ Some languages compile to **bytecode**, an intermediate code for a **virtual mac
 4. **Code generation** produces the object code.
 5. **Optimisation** makes the code faster or smaller without changing its result.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--14-translators.webp" width="900" height="1000" alt="Assembler turns assembly into machine code; compiler turns a high-level program into object code before running; interpreter runs one statement at a time with no object code; a compiler can produce bytecode for a virtual machine." loading="lazy">
+  <figcaption>Each translator takes source code to a different kind of output.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--15-compile-stages.webp" width="900" height="1030" alt="Lexical analysis makes tokens and a symbol table, syntax analysis builds a parse tree, semantic analysis checks meaning, code generation makes object code and optimisation improves it. Illustrated with total = a + 5." loading="lazy">
+  <figcaption>The five stages in order with what each produces.</figcaption>
+</figure>
+
+
 ## Boolean algebra and logic gates
 
 The gates are **NOT**, **AND**, **OR**, **XOR**, **NAND** and **NOR**. XOR outputs 1 when its inputs differ. NAND and NOR are **universal**: any circuit can be built from either one alone. In AQA notation, `.` means AND, `+` means OR, a bar or `¬` means NOT, and `⊕` means XOR.
@@ -84,6 +101,17 @@ A **half adder** adds two bits: Sum = A XOR B and Carry = A AND B. It cannot acc
 
 A **D-type flip-flop** stores one bit. The output Q takes the value of the data input D on the active edge of the clock and holds it until the next. It is the building block of registers and of memory, such as the register that holds a processor value between cycles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--17-adders.webp" width="900" height="960" alt="Half adder: XOR gives Sum and AND gives Carry (1+1 gives Sum 0, Carry 1). Full adder adds a carry in: Sum = A XOR B XOR C and Carry out = (A AND B) OR (C AND (A XOR B))." loading="lazy">
+  <figcaption>A half adder cannot take a carry in; a full adder can.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--19-d-flipflop.webp" width="900" height="850" alt="Q takes the value of D at each rising clock edge and holds it until the next edge, even when D changes between edges." loading="lazy">
+  <figcaption>A D-type flip-flop stores one bit, updating only on the clock edge.</figcaption>
+</figure>
+
+
 ## Worked example 1: simplifying an expression
 
 Simplify X = A.B + A.NOT B + NOT A.B.
@@ -103,6 +131,12 @@ So X = A + B. Check with a truth table:
 
 The columns agree, so the simplification is correct. One OR gate replaces a circuit of three AND gates, two NOT gates and two OR gates.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--16-simplify-boolean.webp" width="900" height="950" alt="Complement then absorption simplify the expression to A + B. A four-row truth table matches in every row, and one OR gate replaces three AND, two NOT and two OR gates." loading="lazy">
+  <figcaption>The simplified A + B has the same truth table as the original, with far fewer gates.</figcaption>
+</figure>
+
+
 ## Worked example 2: adding with full adders
 
 Add 0110 (6) and 0111 (7) in a four-bit ripple-carry adder, starting from the least significant bit with carry-in 0.
@@ -115,6 +149,12 @@ Add 0110 (6) and 0111 (7) in a four-bit ripple-carry adder, starting from the le
 | 3 | 0 | 0 | 1 | 1 | 0 |
 
 Reading the sums from bit 3 down to bit 0 gives 1101, which is 13 (6 + 7). The final carry-out is 0, so there is no overflow for an unsigned four-bit result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide--18-ripple-carry.webp" width="900" height="840" alt="Four full adders chain carry out to carry in. 0110 + 0111 gives sums 1,0,1,1 from bit 0 to bit 3, i.e. 1101 = 13, with final carry out 0 so no overflow." loading="lazy">
+  <figcaption>A ripple-carry adder passes each carry to the next bit.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

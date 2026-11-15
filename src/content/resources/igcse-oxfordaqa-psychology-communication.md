@@ -69,6 +69,17 @@ often when recognising them from memory than English speakers did. Variation in 
 across language groups is used in the same way. This supports the **weak** version: speakers can still
 see the difference between colours, but having separate words makes the difference easier to remember.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--01-comm-language-thought.webp" width="900" height="860" alt="Two opposite theories drawn as arrows. In Piaget’s theory a child acts on the world, forms a concept in thought, and only then adds a word. In the Sapir-Whorf hypothesis the word comes first and shapes thought: a thick arrow for the strong version (language determines thought) and a thin dashed arrow for the weak version (language influences thought)." loading="lazy">
+  <figcaption>Piaget says language depends on thought; the Sapir-Whorf hypothesis says thinking depends on language.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--02-comm-zuni-colours.webp" width="900" height="850" alt="English has separate words for yellow and orange; the Zuni language has one term for both colours. In recognition from memory, Zuni speakers confused yellow and orange more often than English speakers did, shown as a longer bar. Bar lengths are qualitative because the lesson gives no numbers. This supports the weak Sapir-Whorf version." loading="lazy">
+  <figcaption>Zuni speakers, with one term for yellow and orange, confused the two more often from memory, which supports the weak Sapir-Whorf version.</figcaption>
+</figure>
+
+
 ## How does human communication differ from animal communication?
 
 Animal communication serves a **limited set of functions**: **survival** (for example warning calls
@@ -87,6 +98,17 @@ discuss future events**, talk about the past and about things that are not prese
 combine words to produce an unlimited number of new messages. Animal signals are tied to the here and
 now and to a fixed set of meanings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--03-comm-bee-dances.webp" width="900" height="1180" alt="When food is close a returning honeybee performs a round dance. When food is further away it performs a waggle dance: a figure of eight with a straight waggle run in the middle. The angle of the run from vertical on the comb matches the direction of the food from the hive relative to the sun (an illustrative 60 degrees is drawn), and a longer or slower waggle means the food is further away." loading="lazy">
+  <figcaption>Von Frisch showed that a round dance signals close food and the angle and length of a waggle dance signal direction and distance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--04-comm-animal-vs-human.webp" width="900" height="1010" alt="Animal communication has four limited functions: survival (warning calls), reproduction (courtship), territory (marking an area) and food (where it is), and it is tied to the here and now. Human language can refer to the past, the present and the future, to things not present or not real, and combines words into an unlimited number of new messages." loading="lazy">
+  <figcaption>Animal signals serve four limited functions in the here and now; human language can discuss past, present, future and new ideas.</figcaption>
+</figure>
+
+
 ## What is non-verbal communication?
 
 **Verbal communication** is the use of spoken or written words; **non-verbal communication** is
@@ -104,6 +126,17 @@ conveying messages without words — through the eyes, face, posture, gesture, t
   (people from some cultures stand closer in conversation than people from others), **status
   differences** (people keep more distance from those of higher status) and **gender differences**
   (pairs of women typically stand closer together than pairs of men).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--05-comm-eyes-posture.webp" width="900" height="1000" alt="Six tiles. Eye contact regulates the flow of conversation (we look up to signal we have finished), signals attraction (people look longer and pupils dilate, drawn as a small then a large pupil) and expresses emotion. Body language: an open posture signals friendliness, a closed posture with crossed arms can signal defensiveness, and postural echo, two people mirroring each other, signals rapport." loading="lazy">
+  <figcaption>Eye contact has three functions, and posture can signal friendliness, defensiveness or rapport.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--06-comm-touch-space.webp" width="900" height="1220" alt="Touch: a thick arrow from a higher-status person to a lower-status person and a thin dashed arrow back show that higher-status people are more likely to touch lower-status people than the reverse. Personal space varies by culture (some stand closer), by status (more distance from a higher-status person, whose circle is gold) and by gender (pairs of women typically stand closer than pairs of men, labelled W and M). Distances are illustrative." loading="lazy">
+  <figcaption>Higher-status people touch more, and personal space varies by culture, status and gender.</figcaption>
+</figure>
+
 
 ## Is non-verbal behaviour innate or learned?
 
@@ -125,6 +158,12 @@ emoticon styles each culture uses. This suggests how we read facial cues is shap
 
 A balanced conclusion is that basic expressions may be innate, but how and when they are shown and
 interpreted is learned.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-communication--07-comm-innate-learned.webp" width="900" height="1190" alt="Evidence for innate: newborn babies show facial expressions before learning, and children born blind produce the same basic expressions as sighted people. Evidence for learned: in Yuki’s emoticon study Japanese participants gave more weight to the eyes and American participants more weight to the mouth when judging emotion. A balanced conclusion is that basic expressions may be innate but how they are shown and read is learned." loading="lazy">
+  <figcaption>Newborns and people born blind show basic expressions, but Yuki’s study shows that reading expressions is shaped by culture.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

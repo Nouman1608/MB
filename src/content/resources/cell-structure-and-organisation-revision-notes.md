@@ -54,6 +54,17 @@ the [Cell Structure and Organisation practice questions](/resources/cell-structu
 
 Bacteria have **no nucleus** — DNA sits free in the cytoplasm as a circular loop, often with plasmids. Because bacterial cells lack a nucleus, mitochondria and chloroplasts, they are structurally much simpler than either animal or plant cells, and questions asking you to identify a bacterial cell from a diagram usually hinge on spotting exactly which of these membrane-bound structures is missing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cell-structure-and-organisation--01-cell-animal-plant.webp" width="900" height="1160" alt="Two labelled schematic cells. The animal cell shows cell membrane, cytoplasm, nucleus, mitochondria and ribosomes. The plant cell adds a cellulose cell wall outside the membrane, chloroplasts and a large sap vacuole." loading="lazy">
+  <figcaption>Plant cells have a cell wall, chloroplasts and a sap vacuole that animal cells lack.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cell-structure-and-organisation--02-cell-bacterial.webp" width="900" height="850" alt="A labelled bacterial cell with a cell wall, cell membrane, cytoplasm, ribosomes, one circular DNA loop and small plasmid rings. Three crossed-out icons show it has no nucleus, mitochondria or chloroplasts." loading="lazy">
+  <figcaption>Bacterial DNA is circular and free in the cytoplasm, with plasmids; there is no nucleus, mitochondria or chloroplasts.</figcaption>
+</figure>
+
+
 ## Specialised cells — adaptation to function
 
 | Cell | Adaptation | Why |
@@ -66,6 +77,12 @@ Bacteria have **no nucleus** — DNA sits free in the cytoplasm as a circular lo
 | Sperm cell | Tail, many mitochondria, acrosome | Swimming energy, penetrating the egg |
 
 Always link the **feature** to the **function** — one without the other scores half.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cell-structure-and-organisation--03-cell-specialised.webp" width="900" height="1220" alt="Six specialised cells drawn with their key feature and function: red blood cell, root hair cell, palisade mesophyll cell, guard cell pair, xylem vessel and sperm cell." loading="lazy">
+  <figcaption>Each specialised cell has a structure suited to its function.</figcaption>
+</figure>
+
 
 ## Preparing and staining a slide
 
@@ -109,6 +126,12 @@ actual size = 12 / 8000 = 0.0015 mm
 0.0015 mm x 1000 = 1.5 µm
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cell-structure-and-organisation--05-cell-magnification.webp" width="900" height="1075" alt="A formula triangle with image size on top and actual size and magnification below. Worked example 1: 40 mm image of a 0.02 mm cell gives x2000. Worked example 2: a 60 mm drawing at x400 shows a cell 0.15 mm (150 micrometres) long." loading="lazy">
+  <figcaption>Magnification = image size divided by actual size; keep units the same.</figcaption>
+</figure>
+
+
 ## What are the levels of organisation?
 
 ```
@@ -118,6 +141,12 @@ organelle -> cell -> tissue -> organ -> organ system -> organism
 - **Tissue** — group of similar cells with a shared function (e.g. muscle).
 - **Organ** — several tissues working together (e.g. stomach, leaf).
 - **Organ system** — organs cooperating (e.g. digestive system).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cell-structure-and-organisation--04-cell-levels-organisation.webp" width="900" height="1070" alt="Five stacked levels from cell to organism with the lesson example: muscle cell, muscle tissue, the heart, the circulatory system, a human. Arrows point from each level to the next." loading="lazy">
+  <figcaption>Cell, tissue, organ, organ system, organism: each level is made of the one before.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

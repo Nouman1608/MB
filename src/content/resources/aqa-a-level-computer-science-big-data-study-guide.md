@@ -42,6 +42,12 @@ The specification stresses that although size gets the attention, the **most dif
 
 A good answer ties each term to the scenario, for example: "A weather service receives readings from thousands of stations every few seconds (velocity), in many formats (variety), adding up to terabytes (volume)."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--06-three-vs.webp" width="900" height="950" alt="Three panels. Volume: more data than a single server can hold. Velocity: readings and payments streaming in continuously to a server, needing a response in milliseconds to seconds. Variety: structured, unstructured, text and multimedia data." loading="lazy">
+  <figcaption>Big data is defined by volume, velocity and variety.</figcaption>
+</figure>
+
+
 ## Why traditional methods struggle
 
 A **relational database** works best on structured data with a fixed schema, on one server or a small cluster, with strong consistency and transactions. With big data:
@@ -51,9 +57,21 @@ A **relational database** works best on structured data with a fixed schema, on 
 - A fixed schema is awkward when the structure of the data keeps changing or is not known in advance, as with **unstructured** data such as free text or images.
 - Strict consistency across many machines slows every write.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--07-scale-up-or-out.webp" width="900" height="800" alt="Left: scaling up means one ever bigger server, expensive and eventually impossible. Right: scaling out splits the data into parts held on many machines." loading="lazy">
+  <figcaption>Scaling up runs out; scaling out distributes the data.</figcaption>
+</figure>
+
+
 ## The fact-based model
 
 A **fact-based model** records data as a collection of small, individual **facts** that are never changed once stored. Each fact is typically a statement about an entity with a timestamp, for example "customer 17 has the town Leeds, as of 3 October". When something changes, a new fact is added, and the old fact stays as history. This suits data that changes over time and data that is not in a fixed structure, because there is no need to alter a table design to store a new kind of fact. It also removes the risk of an update overwriting good data, since data is only ever appended, and so it can be easily copied between machines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--08-fact-based-model.webp" width="900" height="850" alt="Top: updating in place overwrites Leeds with York for customer 17, so Leeds is lost. Bottom: a fact-based model keeps the timestamped fact for Leeds on 3 October and adds a new fact beneath it, so the old fact stays as history." loading="lazy">
+  <figcaption>New facts are added and old facts are kept as history.</figcaption>
+</figure>
+
 
 ## Graph schemas
 
@@ -64,6 +82,12 @@ Where the relationships between items are the point, a **graph schema** is a nat
 - **Properties**, which are the attributes of a node or edge (name, date).
 
 Social networks, recommendation systems and route finding are typical uses. Following relationships such as "friends of friends" is a short walk across edges, whereas in a relational database it would need several joins.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--09-graph-schema.webp" width="900" height="870" alt="Five people drawn as nodes with name properties; directed edges labelled follows: Ana follows Ben and Dev, Ben follows Cai, Dev follows Eli. A since 2023 property sits on one edge. Cai and Eli, highlighted, are two steps from Ana." loading="lazy">
+  <figcaption>Nodes are entities, edges are relationships and properties are attributes; friends of friends is a short walk.</figcaption>
+</figure>
+
 
 ## Processing big data with functional methods
 
@@ -85,11 +109,23 @@ A server cluster stores log lines, and we need the count of each word. Take five
 
 The total is 3 + 3 + 2 + 2 = 10, which equals the number of words, a useful check. Because the map step handles each line alone and the reduce step handles each key alone, adding more machines makes the job faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--10-map-reduce-count.webp" width="900" height="920" alt="Five log lines, each split into (word, 1) pairs, ten in all. The reduce step adds per word: login 3, fail 3, ok 2, search 2, a total of 10." loading="lazy">
+  <figcaption>Map turns each word into a pair; reduce adds the pairs per word.</figcaption>
+</figure>
+
+
 ### Worked example 2: estimating volume
 
 A city has 25,000 sensors, each sending one 12-byte reading every 2 seconds. How much data is that per day?
 
 Readings per sensor per day = 86,400 / 2 = 43,200. Total readings = 25,000 x 43,200 = 1,080,000,000. Data = 1,080,000,000 x 12 = 12,960,000,000 bytes, which is about 12.96 GB per day (decimal units), or roughly 4.7 TB per year. This shows volume and velocity together: no single reading is large, but the rate makes the totals big.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-big-data-study-guide--11-volume-estimate.webp" width="900" height="1030" alt="25,000 sensors times 43,200 readings a day gives 1,080,000,000 readings; times 12 bytes is 12.96 GB a day, about 4.7 TB a year. A log-scale chart compares one reading, one sensor for a day, all sensors for a day and for a year." loading="lazy">
+  <figcaption>One reading is tiny, but the rate makes the total large.</figcaption>
+</figure>
+
 
 ## Issues with big data
 

@@ -59,6 +59,17 @@ WHILE Low <= High AND Found = FALSE
 ENDWHILE
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--08-ct-binary-search-found.webp" width="900" height="960" alt="Binary search for 46 in the sorted list of 11 values: mid 6 (31), mid 9 (58), mid 7 (40), mid 8 (46), found at position 8 after 4 comparisons." loading="lazy">
+  <figcaption>Binary search halves the range until 46 is found in 4 comparisons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--09-ct-binary-search-missing.webp" width="900" height="1120" alt="Binary search for 30: mids 6, 3, 4, 5 move High to 5 then Low to 6; Low is greater than High, so 30 is not in the list after 4 comparisons." loading="lazy">
+  <figcaption>When Low passes High the item is not in the list.</figcaption>
+</figure>
+
+
 ### Insertion sort
 
 An **insertion sort** builds a sorted section at the start of the list. It takes the next unsorted item, then shifts larger items in the sorted section one place right until the correct gap appears, and inserts the item there.
@@ -77,9 +88,21 @@ NEXT i
 
 It is efficient for short or nearly sorted lists and does not need extra array space. Bubble sort and insertion sort are both simple, but their time grows with the square of the list length in the worst case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--10-ct-insertion-sort.webp" width="900" height="880" alt="Insertion sort on the illustrative list 6, 3, 8, 2, 5, one row per pass with the sorted section shaded and shifted items marked." loading="lazy">
+  <figcaption>Insertion sort shifts larger sorted items right and inserts each new item in the gap.</figcaption>
+</figure>
+
+
 ### Abstract data structures
 
 At A Level you should be able to describe and use a **stack** (LIFO), a **queue** (FIFO), a **linked list** (nodes with pointers) and a **binary tree** (each node has at most a left and a right child). In a binary search tree every value in the left subtree is smaller than the node and every value in the right subtree is larger. To **insert** a value you start at the root and move left or right until you find an empty position. A **tree traversal** visits every node: in-order (left, node, right) gives the values in ascending order, pre-order (node, left, right) is useful for copying a tree, and post-order (left, right, node) is useful for deleting one. A linked list or tree can be stored in arrays by using integer indexes as pointers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--11-ct-tree-traversals.webp" width="900" height="1030" alt="A binary search tree of illustrative values with in-order, pre-order and post-order outputs listed and their lesson uses." loading="lazy">
+  <figcaption>The three traversals visit the same nodes in different orders.</figcaption>
+</figure>
+
 
 ### Comparing algorithms: Big O
 
@@ -96,6 +119,12 @@ At A Level you should be able to describe and use a **stack** (LIFO), a **queue*
 
 Doubling n adds one step to an O(log n) algorithm, doubles the work of an O(n) algorithm and quadruples the work of an O(n squared) algorithm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--12-ct-big-o-growth.webp" width="900" height="960" alt="Growth curves for O(1), O(log n), O(n), O(n log n), O(n squared) and O(2 to the n) with a legend, and the effect of doubling n." loading="lazy">
+  <figcaption>Higher orders of growth need far more steps as n grows.</figcaption>
+</figure>
+
+
 ## Recursion
 
 A **recursive** subroutine is one that calls itself. It needs a **base case**, which gives a result with no further call, and a **general case**, which calls itself with a simpler problem so that the base case is eventually reached. Without a base case the calls never end and the program runs out of memory, called a stack overflow.
@@ -111,6 +140,17 @@ ENDFUNCTION
 ```
 
 Each call is placed on the **call stack** with its parameters, local variables and return address. The calls pile up while the function keeps calling itself (winding), and once the base case returns, each call finishes in reverse order as the stack **unwinds**. Compared with iteration, recursion often gives shorter code that matches problems such as tree traversal, but it uses more memory because of the stack, and is usually slower. Any recursive solution can be rewritten with loops, perhaps with an explicit stack.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--13-ct-call-stack-factorial.webp" width="900" height="812" alt="Four stacked frames for Factorial(4) to Factorial(1); calls wind up, then returns 1, 2, 6, 24 unwind in reverse." loading="lazy">
+  <figcaption>Each recursive call adds a frame; the returns unwind in reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--14-ct-fibonacci-calls.webp" width="900" height="930" alt="Call tree for Fib(5) with 15 calls; the two Fib(3) sub-trees are highlighted as repeated work. Fib(6) needs 25 calls." loading="lazy">
+  <figcaption>Recursive Fibonacci recalculates the same values many times.</figcaption>
+</figure>
+
 
 ## Worked example 1: binary search
 

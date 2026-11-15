@@ -85,6 +85,12 @@ OUTPUT MyPointer^          // the value stored at that address
 
 Pointers are used to build dynamic structures such as linked lists and trees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--15-pointer-memory.webp" width="900" height="780" alt="Memory cells with illustrative addresses. MyPointer (address 1001) holds 1003, the address of Score (address 1003), which holds 42. The statement MyPointer assigned ^Score stores the address; OUTPUT MyPointer^ prints 42." loading="lazy">
+  <figcaption>A pointer stores the memory address of a value, and following it gives the value.</figcaption>
+</figure>
+
+
 ### Composite types
 
 A **composite** type is built from other types.
@@ -100,6 +106,12 @@ DEFINE Vowels ('A', 'E', 'I', 'O', 'U') : LetterSet
 - A **class** defines the attributes and methods of objects; each **object** is an instance of a class (Topic 20 covers object-oriented programming).
 
 **Choosing a type**: a fixed list of named options suggests an enumerated type; data about one thing with mixed types suggests a record; data that also needs its own operations suggests a class; a collection used for membership tests suggests a set.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--14-choose-a-type.webp" width="900" height="960" alt="Five user-defined types in two bands. Non-composite: an enumerated type (a fixed list of named options) and a pointer (holds the address of a value). Composite: a record (fields of mixed types), a set (collection for membership tests) and a class (data plus its own operations)." loading="lazy">
+  <figcaption>Match the data to the type: enumerated for fixed options, record for mixed data, set for membership, class for data with operations.</figcaption>
+</figure>
+
 
 ## 13.2 How are files organised and accessed?
 
@@ -129,6 +141,17 @@ With 500 addresses, key 74 317 goes to 74 317 MOD 500 = 317. A **collision** hap
 
 A good hash spreads keys evenly and is quick to calculate. Writing to and reading from the file both use the same algorithm, so the address does not need to be stored anywhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--16-file-organisation.webp" width="900" height="880" alt="Three strips of records with illustrative keys. Finding key 31 reads 4 records in a serial file (arrival order), 2 in a sequential file (key order) by sequential access, and 1 in a random file where 31 MOD 10 gives address 1, by direct access." loading="lazy">
+  <figcaption>Serial files are in arrival order, sequential files in key order, and random files at a hashed address.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--17-hash-remainder.webp" width="900" height="1020" alt="With 500 addresses, 74317 and 12817 both hash to address 317. With open addressing the second record goes in the next free address, 318, and is found by hashing and searching forward. With an overflow area it is stored separately and that area is searched serially." loading="lazy">
+  <figcaption>A collision is handled by the next free address or by an overflow area; reading uses the same hash as writing.</figcaption>
+</figure>
+
+
 ## 13.3 How are floating-point numbers represented?
 
 A binary floating-point number has a **mantissa** and an **exponent**, both in two's complement in 9618. The value is mantissa × 2^exponent, where the mantissa has its binary point just after the first (sign) bit.
@@ -151,6 +174,12 @@ Use an 8-bit mantissa and a 4-bit exponent.
 3. A normalised negative mantissa starts 1.0, so shift left one place: 1.0100000, and reduce the exponent by 1 to −1.
 4. Mantissa 10100000; exponent 1111. Check: (−1 + 0.25) × 2⁻¹ = −0.75 × 0.5 = −0.375.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--18-float-from-denary.webp" width="900" height="910" alt="Four steps for +5.75: binary 101.11; slide the point 3 places left to get 0.10111 with exponent +3; store mantissa 01011100 and exponent 0011; check that 0.71875 times 2 cubed is 5.75." loading="lazy">
+  <figcaption>Convert to binary, move the point, store mantissa and exponent, then check by multiplying back.</figcaption>
+</figure>
+
+
 ### Converting floating point to denary
 
 Mantissa 01101000, exponent 0101.
@@ -170,9 +199,21 @@ Reasons for normalisation:
 - **Maximum precision**: all mantissa bits are used for significant digits, none are wasted on leading 0s (or 1s).
 - **Unique representation**: each value has only one normalised form, which makes comparison straightforward.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--19-float-normalise.webp" width="900" height="890" alt="Mantissa 00011010 with exponent 0011 starts 00 so is not normalised. Shifting left two places gives 01101000 with exponent 0001; both are 1.625. A negative normalised mantissa starts 10, e.g. 10100000 with exponent 1111 for -0.375. Normalising gives maximum precision and a unique representation." loading="lazy">
+  <figcaption>Normalise by shifting left until the first two bits differ, reducing the exponent for each shift.</figcaption>
+</figure>
+
+
 ### Changing the allocation of bits
 
 With a fixed total, more bits for the **mantissa** give **greater precision** (more significant bits), and more bits for the **exponent** give a **greater range** (larger and smaller magnitudes). With an 8-bit mantissa and 4-bit exponent, the largest positive value is 0.1111111 × 2⁷ = 0.9921875 × 128 = 127, and the smallest positive normalised value is 0.1000000 × 2⁻⁸ = 1/512.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--20-float-range.webp" width="900" height="900" alt="With an 8-bit mantissa and 4-bit exponent the smallest positive normalised value is 1/512 and the largest is 127; values below underflow to zero and values above overflow. The same 12 bits split 9+3 give more precision and less range; split 7+5 they give more range and less precision." loading="lazy">
+  <figcaption>More mantissa bits give precision; more exponent bits give range.</figcaption>
+</figure>
+
 
 ### Approximation, rounding, overflow and underflow
 

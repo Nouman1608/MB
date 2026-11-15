@@ -87,6 +87,22 @@ between mirror-image structures. The two ways enantiomers differ are:
   shape, the two enantiomers of a drug can have completely different
   biological effects from each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--01-chiral-centre.webp" width="900" height="720" alt="Two carbon centres are compared. In butan-2-ol, carbon 2 carries OH, H, CH3 and CH2CH3, which are all different, so it is a chiral centre. In propan-2-ol the central carbon carries two identical CH3 groups, so it is not chiral." loading="lazy">
+  <figcaption>A carbon with four different groups is chiral; two identical groups make it achiral.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--02-enantiomers-mirror.webp" width="900" height="840" alt="Two drawings of butan-2-ol, enantiomer A and enantiomer B, are mirror images across a vertical mirror line; the wedge and hashed bonds keep their type in the reflection. Enantiomers have the same melting point, boiling point, solubility and reactions with non-chiral reagents. They differ in the direction they rotate plane polarised light and in biological activity." loading="lazy">
+  <figcaption>Enantiomers are mirror images that cannot be superimposed, with the same physical properties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--05-receptor-fit.webp" width="900" height="800" alt="A schematic receptor site has a right-angled triangular notch. Enantiomer A, drawn as the matching triangle, fits into it and gives the intended effect. Enantiomer B is the mirror-image triangle and cannot fit, so it may be inactive, less effective or harmful." loading="lazy">
+  <figcaption>Only one enantiomer fits a chiral receptor, so the other may be inactive or harmful.</figcaption>
+</figure>
+
+
 ## Plane polarised light and racemic mixtures
 
 Ordinary light vibrates in every possible plane perpendicular to its
@@ -110,6 +126,17 @@ Ketones](/resources/as-carbonyl-compounds-aldehydes-and-ketones/)) produce
 **both** enantiomers in equal amounts by default: the attacking nucleophile
 is equally likely to approach the flat, planar carbonyl carbon from either
 face, giving a racemic mixture rather than a single pure enantiomer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--03-polarimeter.webp" width="900" height="1130" alt="Ordinary light, vibrating in every plane, passes through a polarising filter and becomes plane polarised light. A tube containing only the (+) enantiomer turns the plane clockwise by an angle; a tube of only the (-) enantiomer turns it by the same angle anticlockwise (illustrative 30 degrees); a racemic 50:50 mixture shows no net rotation because the two rotations cancel." loading="lazy">
+  <figcaption>Opposite enantiomers rotate plane polarised light equally in opposite directions; a racemic mixture shows no net rotation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--04-racemate-forms.webp" width="900" height="1100" alt="The carbonyl carbon of an unsymmetrical ketone (butanone is used as an example) is flat. The cyanide nucleophile is equally likely to attack from the front or from the back. Front attack gives enantiomer A and back attack gives its mirror image enantiomer B, so the product is an equal 50:50 racemic mixture with no net optical activity." loading="lazy">
+  <figcaption>The nucleophile attacks the flat carbonyl carbon from either face, giving equal amounts of both enantiomers.</figcaption>
+</figure>
+
 
 ## Chirality in drug synthesis
 
@@ -141,6 +168,12 @@ and avoiding the need to separate a racemic product afterwards.
 expects awareness of this — but classifying the further relationships
 between such isomers, including meso compounds and the term
 "diastereoisomer," is not required.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-optical-isomerism-and-chirality--06-single-enantiomer-routes.webp" width="900" height="930" alt="Route 1 starts with a racemic mixture of equal numbers of both enantiomers and uses chiral separation to give pure A and pure B; this is hard because enantiomers share boiling point and solubility, so distillation and recrystallisation do not work. Route 2 uses a chiral catalyst so the reaction itself favours one enantiomer, giving mostly pure A directly." loading="lazy">
+  <figcaption>A pure enantiomer comes from separating a racemate or from a chiral catalyst that favours one enantiomer.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

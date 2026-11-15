@@ -32,6 +32,12 @@ This is section 4.7 of AQA 7517 and is assessed on Paper 2. It follows on from t
 
 In a **stored-program** computer, instructions and data are held in the same main memory as binary patterns, and the processor fetches instructions from memory in sequence. The **Von Neumann architecture** uses a single memory and a single set of buses for both instructions and data, which is simple and flexible but creates a bottleneck because instructions and data cannot be transferred at the same time. The **Harvard architecture** uses separate memories and buses for instructions and data so that both can be accessed at once. It is common in embedded systems and digital signal processors. A modern processor often uses a Von Neumann design externally but separates instruction and data caches internally, as in a Harvard design.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--08-von-neumann-harvard.webp" width="900" height="1010" alt="Von Neumann has one memory and one set of buses for instructions and data, so they cannot be transferred together. Harvard has separate instruction and data memories with their own buses, so both can be accessed at once." loading="lazy">
+  <figcaption>Von Neumann shares one memory and bus set; Harvard separates instructions and data.</figcaption>
+</figure>
+
+
 ## Processor components
 
 - **Arithmetic logic unit (ALU)**: performs arithmetic, logical operations and shifts.
@@ -48,9 +54,21 @@ In a **stored-program** computer, instructions and data are held in the same mai
 
 The width of the address bus decides how many locations can be addressed: n lines give 2^n addresses, so a 32-bit address bus can address 2^32 locations. The width of the data bus decides how much data moves in one transfer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--09-cpu-buses.webp" width="900" height="970" alt="A CPU contains registers PC, MAR, MDR, CIR, ACC and Status plus the CU, ALU and clock. The address bus runs one way to memory, the data bus both ways, the control bus carries signals. 24 address lines give 2^24 = 16,777,216 locations." loading="lazy">
+  <figcaption>The processor's registers and units, and the direction of each bus.</figcaption>
+</figure>
+
+
 ## The fetch-decode-execute cycle
 
 **Fetch**: the contents of the PC are copied to the MAR; the PC is incremented; the instruction at that address is read into the MDR and copied to the CIR. **Decode**: the control unit decodes the opcode in the CIR and identifies the operand. **Execute**: the operation is carried out, which may use the ALU, read or write memory, or alter the PC (for a branch). Then the cycle repeats. An **interrupt** is checked at the end of each cycle; if one is pending, the processor saves its state and runs an interrupt service routine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--10-fetch-cycle.webp" width="900" height="860" alt="PC is copied to MAR, PC is incremented, memory at MAR is read into MDR and MDR is copied to CIR. Illustrative address 20 holds LDR R0, 100." loading="lazy">
+  <figcaption>The fetch stage is four register transfers in order.</figcaption>
+</figure>
+
 
 ## Factors affecting performance
 
@@ -61,6 +79,12 @@ The width of the address bus decides how many locations can be addressed: n line
 - **Pipelining** overlaps the stages of consecutive instructions, so the processor is fetching one while decoding another. A branch can invalidate the pipeline, which costs time.
 
 Do not claim that doubling the clock speed doubles performance: memory speed, cache misses and software also matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--11-pipeline.webp" width="900" height="990" alt="Three instructions each need fetch, decode and execute. One at a time they take nine cycles; overlapped they take five." loading="lazy">
+  <figcaption>Pipelining overlaps the stages of consecutive instructions.</figcaption>
+</figure>
+
 
 ## Assembly language
 
@@ -111,6 +135,12 @@ R0 is the number to add (7), R1 counts remaining additions and R2 is the running
 
 The program stores 28 in location 102 and halts. In all, 27 instructions are executed: 3 before the loop, 5 per pass for 4 passes (CMP, BEQ, ADD, SUB, B), 2 on the final test, then STR and HALT. If R1 started at 0 the result would be 0, which is correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--12-multiply-trace.webp" width="900" height="1010" alt="The loop CMP, BEQ, ADD, SUB, B repeats. R1 falls 4 to 0 while R2 grows 0, 7, 14, 21, 28 in blocks of 7. STR stores 28 in location 102 after 27 instructions." loading="lazy">
+  <figcaption>The loop adds 7 four times, leaving 28.</figcaption>
+</figure>
+
+
 ## External hardware
 
 You should be able to describe how input, output and storage devices work and when each suits a task.
@@ -122,6 +152,12 @@ You should be able to describe how input, output and storage devices work and wh
 - **Magnetic hard disk**: data held as magnetised regions on spinning platters, giving high capacity at low cost per bit but with moving parts.
 - **Optical disc**: pits and lands read by a laser, suited to cheap distribution.
 - **Solid-state drive (flash)**: no moving parts, fast access and robust, but higher cost per gigabyte and limited write cycles per cell.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--13-storage-devices.webp" width="900" height="1000" alt="Hard disk: magnetised regions on spinning platters read by a head. Optical disc: pits and lands read by a laser. SSD: flash cells with no moving parts." loading="lazy">
+  <figcaption>How the hard disk, optical disc and solid-state drive each hold data.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

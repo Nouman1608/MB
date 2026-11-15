@@ -31,6 +31,12 @@ Web pages are built from two languages that work together. **HTML** (hypertext m
 | 3.8.1 | Web pages are built with HTML and CSS; HTML creates the structure and CSS changes the style; server-side scripting generates pages dynamically on a web server; client-side scripting adds functionality to pages |
 | 3.8.2 | Create the structure of a page using the listed HTML tags; use basic CSS (type and class selectors, seven properties); key differences between HTML5 and earlier HTML |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--08-html-vs-css.webp" width="900" height="650" alt="Two browser windows with the same content. Left, HTML only: plain black heading and a left-aligned price line. Right, with CSS: dark green heading and the price line centred on yellow." loading="lazy">
+  <figcaption>The same content: HTML gives the structure, CSS changes how it looks.</figcaption>
+</figure>
+
+
 ## Which HTML tags must you know?
 
 The specification lists exactly these tags:
@@ -55,6 +61,12 @@ The specification lists exactly these tags:
 **Block-level** elements start on a new line and take the full width; **inline** elements sit within a line of text. Tags are usually in pairs, an opening tag and a closing tag with a slash. `<br />` and `<img />` are self-closing. Tags must be **nested** correctly: an element opened inside another is closed before the outer one closes.
 
 In a complete page the `<title>` and `<style>` elements are normally placed inside a `<head>` section before the `<body>`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--09-block-inline.webp" width="900" height="668" alt="Top: block-level tags div, p, h#, and ul, ol and li as full-width bars. Bottom: inline tags strong, em, span, a and img as chips inside text lines, with br breaking the line." loading="lazy">
+  <figcaption>Block-level tags start on a new line and fill the width; inline tags sit within a line of text.</figcaption>
+</figure>
+
 
 ## How do you write CSS for 9210?
 
@@ -83,6 +95,17 @@ You need these seven properties:
 
 Exam questions only use **embedded style sheets**: CSS rules written inside a `<style>` element in the page. You may use external style sheets in practical work, but exam questions will not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--11-css-selectors.webp" width="900" height="724" alt="The rule p { color : blue } is labelled selector, property and value. A grid shows the type selector p matching all three paragraphs and the class selector .price matching only the paragraph with class price." loading="lazy">
+  <figcaption>A rule has a selector, property and value; a type selector hits every element of that type, a class selector only elements with that class.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--12-css-properties.webp" width="900" height="764" alt="Seven rows each show a property with an example: yellow background, blue text, text aligned left, centre and right, Arial typeface, three font sizes, normal and bold weight, normal and italic style." loading="lazy">
+  <figcaption>Each of the seven required properties changes one visible feature of the text or background.</figcaption>
+</figure>
+
+
 ## What are the key differences between HTML5 and earlier versions?
 
 The specification lists four points. HTML5:
@@ -95,6 +118,12 @@ The specification lists four points. HTML5:
 ## What is the difference between server-side and client-side scripting?
 
 **Server-side scripting** languages run on the **web server** and generate web pages dynamically, for example building a page of search results from a database before sending it. **Client-side scripting** languages run in the **browser** and add extra functionality to a page, for example checking a form entry or showing a hidden menu without contacting the server.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--13-scripting.webp" width="900" height="790" alt="Top: a browser requests a page, a script on the web server builds it from a database, and the page is sent back. Bottom: a client-side script runs inside the browser, checking a form entry and showing a menu, without contacting the server." loading="lazy">
+  <figcaption>Server-side scripts run on the web server and build the page; client-side scripts run in the browser.</figcaption>
+</figure>
+
 
 ## Worked example 1: reading a page
 
@@ -122,6 +151,12 @@ h1 { color : darkgreen }
 ```
 
 The browser tab shows "Harbour Cycles" (from `<title>`). The page shows a dark green main heading (type selector on `h1`), a paragraph in which "rentals" is bold (class selector `.offer` applied through `<span>`), the photo, a second-level heading "Prices", a bullet list of two items with "Full service" in italics, and a link "Contact us" to contact.html.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-web-page-design-study-guide--10-page-render.webp" width="900" height="754" alt="Six code lines each point to their result: the title sets the tab text, the h1 rule makes a dark green heading, the offer class makes rentals bold, img shows a picture, li with em shows an italic bullet item, and a shows an underlined link." loading="lazy">
+  <figcaption>Each part of the Harbour Cycles page code produces one visible result.</figcaption>
+</figure>
+
 
 ## Worked example 2: writing CSS
 

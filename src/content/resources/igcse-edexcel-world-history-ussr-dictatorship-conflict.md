@@ -72,6 +72,12 @@ on Bukharin over the NEP, and by 1929 he was unchallenged. Reasons for his succe
 the party machine, skill at playing rivals off against each other, popular policies and his
 opponents' mistakes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--08-ussr-rivals.webp" width="900" height="948" alt="A grid with a row for each of 1924, 1925, 1927, 1928 and 1929 and a column for each rival: Trotsky, Zinoviev, Kamenev, Bukharin and Stalin. All five are in the contest in 1924. Trotsky is removed as Commissar for War in 1925. Zinoviev and Kamenev are expelled in 1927. Trotsky is exiled in 1928 and deported in 1929. Bukharin is attacked over the NEP in 1929. Only Stalin is left unchallenged." loading="lazy">
+  <figcaption>Stalin removed his rivals one after another between 1924 and 1929.</figcaption>
+</figure>
+
+
 ## Why and how did Stalin transform the economy?
 
 Stalin believed the USSR was "fifty or a hundred years behind the advanced countries" and had to
@@ -94,6 +100,17 @@ hand it over. Grain requisitioning continued even as harvests fell, producing th
 all farms were collectivised and the state controlled the grain supply, but agriculture remained
 inefficient.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--09-ussr-five-year-plans.webp" width="900" height="760" alt="A time axis shows the first Five-year Plan in 1928 to 1932, the second in 1933 to 1937 and the third in 1938 to 1941, which was interrupted by war. A marker at 1935 shows Stakhanov credited with cutting over 100 tonnes of coal in a single shift. The plans concentrated on coal, steel, oil and electricity, with projects such as Magnitogorsk and the Dnieper dam. Heavy industry output rose; poor quality, waste and few consumer goods were the costs." loading="lazy">
+  <figcaption>The first three Five-year Plans on a time axis, with their focus and results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--10-ussr-collectivisation.webp" width="900" height="792" alt="A chain of five steps. From 1929 peasant farms are merged into kolkhozes with machinery from Motor Tractor Stations. Kulaks resist, are declared class enemies and are deported or killed. Peasants slaughter livestock. Requisitioning continues as harvests fall. The famine of 1932 to 33 kills millions, especially in Ukraine and Kazakhstan. A note adds that by the late 1930s almost all farms were collectivised but agriculture remained inefficient." loading="lazy">
+  <figcaption>How collectivisation, resistance and grain requisitioning led to the famine of 1932–33.</figcaption>
+</figure>
+
+
 ## Why did Stalin purge the party, army and people?
 
 The murder of the Leningrad party leader **Kirov** in December 1934 was used to justify mass
@@ -110,6 +127,17 @@ statues, songs and place names. **Censorship** and **socialist realism** require
 to glorify Soviet achievement, and **history was rewritten** — for example, in the *Short Course*
 history of the party (1938) — to exaggerate Stalin's role and erase his enemies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--11-ussr-terror.webp" width="900" height="845" alt="A chain of four steps: Kirov is murdered in December 1934 and the murder is used to justify mass arrests; the Show Trials of 1936 to 38 see Zinoviev, Kamenev and Bukharin confess and be executed; Yezhov heads the NKVD from 1936 to 38 and the Great Terror reaches its height; in 1937 the armed forces are purged and Tukhachevsky is executed. Below, the NKVD (secret police) runs the gulags (labour camps). The purges gained Stalin rivals’ removal and fear, but damaged the economy and weakened the army." loading="lazy">
+  <figcaption>From the murder of Kirov to the purge of the army, and who ran the terror.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--12-ussr-cult.webp" width="900" height="870" alt="Stalin, shown as the father of the peoples, is at the centre of four boxes. Cult of personality: portraits, statues, songs and place names. Censorship. Socialist realism: art and literature glorify Soviet achievement. Rewritten history: the Short Course of 1938 exaggerates Stalin’s role." loading="lazy">
+  <figcaption>Four ways the regime built Stalin’s image and controlled ideas.</figcaption>
+</figure>
+
+
 ## What was life like in the USSR, 1924–41?
 
 In the towns, workers faced overcrowded housing, food shortages and strict discipline, though the
@@ -119,6 +147,12 @@ privileges. **Women** gained new opportunities in education and work, but in 193
 banned and divorce made harder as the regime promoted the family. **Education** expanded and
 literacy rose, with lessons stressing loyalty to Stalin. **Ethnic minorities** were persecuted: whole
 peoples, such as Soviet Koreans in 1937, were deported, and national cultures were suppressed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--13-ussr-life.webp" width="900" height="808" alt="A table with four groups. Town workers: free education, healthcare and promotion, but overcrowding, shortages and strict discipline. Countryside: famine and hardship from collectivisation. Women: new education and work chances, but abortion banned and divorce made harder in 1936. Ethnic minorities: deportations such as Soviet Koreans in 1937 and suppressed cultures. A note adds privileges for party officials and skilled workers and rising literacy with loyalty to Stalin taught." loading="lazy">
+  <figcaption>Gains and costs of Soviet life for four groups, 1924–41.</figcaption>
+</figure>
+
 
 ## How did the USSR survive and win the Second World War?
 
@@ -134,6 +168,12 @@ the victor was at its height, yet repression returned: returning prisoners of wa
 the Leningrad Affair purged officials, and the "Doctors' Plot" (1953) targeted mainly Jewish doctors.
 When Stalin died in March 1953, the USSR was a nuclear superpower controlling Eastern Europe, but
 its people were poor and many lived in fear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-ussr-dictatorship-conflict--14-ussr-war-timeline.webp" width="900" height="1288" alt="A time axis from 1941 to 1953. Germany invades on 22 June 1941; Moscow holds in December 1941; Stalingrad lasts from August 1942 to February 1943 and ends in the surrender of the German Sixth Army; in 1945 Soviet forces reach Berlin and about 27 million Soviet citizens have died; the Fourth Five-year Plan runs 1946 to 1950; Stalin dies in March 1953. A note lists factors in survival: factories moved east of the Urals, war production and Lend-Lease aid." loading="lazy">
+  <figcaption>Key dates of the war and post-war years, with the reasons the USSR survived.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

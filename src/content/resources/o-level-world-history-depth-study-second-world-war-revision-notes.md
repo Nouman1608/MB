@@ -63,6 +63,32 @@ featured: false
 | Kempeitai | Japanese military police |
 | MPAJA | Malayan People's Anti-Japanese Army |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--08-ww-sealion.webp" width="900" height="954" alt="Schematic of the Channel with Operation Sea Lion crossed out because it needed air superiority, followed by the RAF’s three strengths, Germany’s switch to bombing cities and Sea Lion’s postponement." loading="lazy">
+  <figcaption>Why Germany could not invade Britain in 1940.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--09-ww-europe-timeline.webp" width="900" height="1089" alt="Vertical timeline from Poland in September 1939 to Stalingrad in February 1943, with German advances in gold and turning points in teal." loading="lazy">
+  <figcaption>German advances and turning points in Europe, 1939-43.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--10-ww-pearl-harbor.webp" width="900" height="1026" alt="Flow from Japan’s expansion and the 1941 oil embargo to the decision to strike, then eight battleships sunk or damaged, with the carriers and fuel stores missed." loading="lazy">
+  <figcaption>How the oil embargo led to Pearl Harbor and what it missed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--11-ww-malaya.webp" width="900" height="801" alt="A timeline bar from the 8 December 1941 landing to the 15 February 1942 surrender (69 days, calculated from the lesson’s dates) with three reasons for Japanese success." loading="lazy">
+  <figcaption>69 days from landing to surrender, and three reasons why.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--12-ww-civilians.webp" width="900" height="823" alt="Five cards: the Blitz (57 nights, drawn as 57 dots), bombing of Germany, Japanese rule in Malaya, Nazi rule in Poland, and resistance in France and Malaya." loading="lazy">
+  <figcaption>Five civilian experiences of the war.</figcaption>
+</figure>
+
+
 ## Key question 1: four things to explain
 
 1. **German control by 1940:** Blitzkrieg; fall of France; Vichy -- but Britain undefeated after Dunkirk.
@@ -94,6 +120,12 @@ featured: false
 - **Germany:** D-Day and the western advance; the much larger Soviet advance from the east; bombing of oil and transport.
 - **Japan:** Guadalcanal; island-hopping; Okinawa; fire-raids; atomic bombs; Soviet entry.
 - **Consolidation:** four-zone occupation of Germany; US occupation of Japan; Nuremberg and Tokyo trials.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-world-history-depth-study-second-world-war--13-ww-victory.webp" width="900" height="1177" alt="Two parallel step lists, Europe from Sicily in July 1943 to German surrender in May 1945 and the Asia-Pacific from Guadalcanal to Japan’s surrender, both leading to occupation and war crimes trials." loading="lazy">
+  <figcaption>Two roads to Allied victory.</figcaption>
+</figure>
+
 
 ## The atomic bomb debate -- two columns
 

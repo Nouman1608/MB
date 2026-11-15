@@ -51,6 +51,17 @@ Children usually pass through recognisable stages, although the age at which eac
 
 Typical features worth noticing in data are **overgeneralisation** (producing "runned" or "mouses" by applying a regular rule to an irregular word), **simplification** of difficult sounds (such as saying "wabbit" for "rabbit"), and **overextension** and **underextension** in meaning, for example calling every four-legged animal "dog".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--01-u3-stages.webp" width="900" height="790" alt="Five stacked bars show the stages in order: pre-verbal (crying, cooing, babbling, e.g. ba-ba), holophrastic (one word, e.g. milk), two-word (daddy gone, the beginning of grammar), telegraphic (want more juice, function words missing) and post-telegraphic (function words and inflections appear, fuller sentences). The age at each stage varies a great deal." loading="lazy">
+  <figcaption>Overview of stages with the lesson's own examples.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--02-u3-features.webp" width="900" height="932" alt="Three panels. Overgeneralisation: run becomes runned and mouse becomes mouses by applying a regular rule to an irregular word. Simplified sounds: rabbit becomes wabbit. Overextension: a child calls three different four-legged animals dog." loading="lazy">
+  <figcaption>Three typical features to spot in child data.</figcaption>
+</figure>
+
+
 ### Theories of acquisition
 
 Theories offer different explanations, and a strong answer uses them to test the evidence instead of reciting them.
@@ -61,6 +72,12 @@ Theories offer different explanations, and a strong answer uses them to test the
 - **Social-interactionist** (Bruner): language develops through interaction with caregivers who support the child, for example by adjusting their speech and by using familiar routines and games.
 
 Child-directed speech, where adults use shorter sentences, higher pitch, repetition, expansion and recasting, is an important concept in the interactionist view. Expansion is when the adult extends the child's utterance ("Doggy run." / "Yes, the doggy is running fast").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--03-u3-theories.webp" width="900" height="810" alt="Four cards. Behaviourist (Skinner): imitation and reinforcement. Nativist (Chomsky): an innate capacity for language. Cognitive (Piaget): the concept comes first, then the word. Social-interactionist (Bruner): language develops through interaction with supportive caregivers." loading="lazy">
+  <figcaption>The four theories side by side.</figcaption>
+</figure>
+
 
 ### Writing development
 
@@ -74,6 +91,12 @@ Children's writing also develops in recognisable steps, from drawing and marks r
 4. Explain the evidence of development: what the child can do and what they cannot yet do.
 5. Link to a theory or concept and evaluate it: does this evidence support or challenge it?
 6. Comment on the role of the adult and the context.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--05-u3-method.webp" width="900" height="818" alt="Six numbered steps: read the data and note age and context; pick three or four features; name and quote each; explain the development; link to a theory and evaluate it; comment on the adult and context." loading="lazy">
+  <figcaption>Six steps for analysing child data.</figcaption>
+</figure>
+
 
 ## Section B: International English
 
@@ -96,6 +119,17 @@ This section concerns the varieties of English around the world and the issues r
 4. Avoid describing non-standard forms as errors. Present them as systematic features of a variety.
 5. Connect to a concept, such as identity, prestige or the three circles, and evaluate its usefulness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--06-u3-kachru.webp" width="900" height="1180" alt="Three concentric circles. The inner circle is where English is the first language (UK, US, Australia). The outer circle is where English has an official or institutional role (India, Nigeria, Singapore). The expanding circle uses English as a foreign language for international communication. The model is useful but too simple." loading="lazy">
+  <figcaption>The three circles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--07-u3-pidgin-creole.webp" width="900" height="960" alt="Speakers of two different languages come into contact and develop a pidgin, a simplified contact language with no native speakers and a small vocabulary. When it becomes a first language it expands in vocabulary and grammar and is called a creole. Block counts are illustrative." loading="lazy">
+  <figcaption>From pidgin to creole.</figcaption>
+</figure>
+
+
 ## Worked example: analysing a short child utterance
 
 Imagine a transcript in which a child of about two years and six months says "Me no want bath" and the parent replies "You don't want a bath? You'd like to play a bit longer?"
@@ -105,6 +139,12 @@ Imagine a transcript in which a child of about two years and six months says "Me
 - A social-interactionist would say the parent's recast supports development. A nativist might point out that the child's negative form follows a systematic pattern, not copied from adult speech. A behaviourist would struggle to explain it, since adults do not say "Me no want".
 
 That is three features, each named, quoted and explained, linked to a theory and evaluated: a model for a high-scoring paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide--04-u3-example.webp" width="900" height="1100" alt="A child of about 2 years 6 months says Me no want bath. Me shows a pronoun case that is not adult-like, no is a negation placed before the verb, and the article a is absent. The parent recasts it as You don't want a bath? and adds a further suggestion. An interactionist sees the recast as supporting development, a nativist sees a systematic pattern not copied from adults, and a behaviourist struggles because adults do not say it." loading="lazy">
+  <figcaption>The worked example annotated and read through three theories.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

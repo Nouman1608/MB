@@ -41,15 +41,33 @@ Edexcel International A Level English Literature (YET01) has four units. Unit 4 
 
 A play is written to be performed. Ask in every scene what an audience sees and hears: who is on stage, who is silent, what is staged, where the characters stand in relation to each other, and how the pace changes. Stage directions in Shakespeare are often implied in the dialogue, so an exit, a pause or a sudden change of rhythm can carry meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--08-stage-sees-hears.webp" width="900" height="940" alt="A plan view of a stage with three characters. One speaks, one stays silent and one leaves through an exit door at the edge of the stage. A double arrow shows how close or far apart two characters stand, and a table shows what is staged. A row of dots with shrinking gaps shows the pace speeding up. A row of audience members sits below the stage and an eye and an ear remind you that the audience both sees and hears." loading="lazy">
+  <figcaption>In every scene ask what the audience sees and hears: who speaks, who is silent, how they stand and how the pace changes.</figcaption>
+</figure>
+
+
 ### Language and verse
 
 Much of Shakespeare is in blank verse, unrhymed lines of ten syllables with a regular stress pattern. Departures from that pattern are meaningful. Prose often marks lower-status speech, comic scenes or loss of control; rhyming couplets often close a scene or give a sense of finality. Consider imagery clusters, soliloquies and asides, wordplay, repetition and shifts in register.
 
 Short example: Hamlet's line "To be, or not to be, that is the question" is a soliloquy, in which the character thinks aloud, and the audience is placed in the position of hearing his private thoughts. A paragraph about it might discuss how the balance of "to be" and "not to be" sets up an either-or structure that the rest of the speech then complicates, and how the form lets us watch thought in progress, not a conclusion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--10-soliloquy-private-thought.webp" width="900" height="900" alt="A lone character stands on stage with a speech bubble containing the opening of the to be or not to be speech. An arrow carries the thought to the audience, who hear private thought. Below, a level balance carries to be on one pan and not to be on the other, an either-or structure, and a wavy line grows from it to show that the rest of the speech complicates it, so we watch thought in progress rather than a conclusion." loading="lazy">
+  <figcaption>A soliloquy lets the audience overhear private thought, and the to be or not to be balance is then complicated by the rest of the speech.</figcaption>
+</figure>
+
+
 ### Themes and characters
 
 Think about how the play develops ideas such as power, ambition, justice, love, appearance and reality, and how characters change or fail to change. Watch for **foils**, characters who contrast with the protagonist, and for how subplots comment on the main plot. If the play is a tragedy, consider the hero's flaw, the part played by fate and choice, and the audience's response at the end; if a comedy, consider disguise, disorder and restoration of order.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--11-foil-and-subplot.webp" width="900" height="860" alt="Top: a protagonist and a foil stand apart with a double arrow marked contrast, because a foil contrasts with the protagonist and brings out the qualities of each. Bottom: a long main plot line with six points and a shorter subplot line below it. Dashed lines join three subplot points to three main-plot points, showing how a subplot comments on the main plot." loading="lazy">
+  <figcaption>A foil contrasts with the protagonist, and a subplot comments on the main plot.</figcaption>
+</figure>
+
 
 ### Context and interpretation
 
@@ -64,6 +82,17 @@ Show awareness of the world in which the play was written, including attitudes t
 
 An extract is a part of the play, so an answer that stays only in the extract misses the play's design.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--09-verse-prose-couplet.webp" width="900" height="840" alt="Three rows of beads and lines compare forms in Shakespeare. Blank verse is a line of ten syllables with no rhyme and a regular stress pattern, drawn as ten beads alternating small and large. Prose is drawn as ragged lines with no fixed length and often marks lower-status speech, comic scenes or loss of control. A rhyming couplet is two lines whose last syllables rhyme, and often closes a scene with a sense of finality." loading="lazy">
+  <figcaption>Blank verse, prose and rhyming couplets each have their own uses in Shakespeare, and departures from the pattern matter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--12-extract-four-steps.webp" width="900" height="910" alt="A bar represents the whole play with one section highlighted as the extract. Step 1: say where the extract falls and what has just happened. Step 2: make a claim about its dramatic purpose. Step 3: work through language, verse form, stagecraft and imagery and link each to its effect. Step 4: connect the extract to developing themes and later events. Keep moving between the passage and the whole play." loading="lazy">
+  <figcaption>Place the extract in the play, claim its dramatic purpose, analyse its methods and connect it to the whole play.</figcaption>
+</figure>
+
+
 ## Pre-1900 poetry
 
 ### Understanding older poems
@@ -72,9 +101,21 @@ Older poems may use unfamiliar diction, inverted word order or classical referen
 
 Short examples: Wordsworth's opening line "I wandered lonely as a cloud" uses a simile that places the speaker in nature and sets up a mood of solitude, which the poem later changes by recalling the daffodils. Blake's line "I wander thro' each charter'd street" uses the repeated, heavy rhythm and the word "charter'd", with its implication of ownership and control, to present the city as restricted and oppressive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--13-older-poem-forms.webp" width="900" height="990" alt="Three cards show forms of pre-1900 poetry. A sonnet is drawn as stacked lines with a turning arrow, because it develops an argument and usually turns. A ballad is drawn as a path of evenly spaced beats, because it tells a story in a simple rhythm. An ode is drawn as a speaker addressing a star, because it addresses and praises a subject. Lyrics and dramatic monologues are also common forms." loading="lazy">
+  <figcaption>A sonnet usually develops an argument and turns, a ballad tells a story in a simple rhythm and an ode addresses and praises a subject.</figcaption>
+</figure>
+
+
 ### Method
 
 Use a sequence for every poem: situation, form, language, movement and effect. Then consider the relationship of the poem to its period. For example, Romantic poets often respond to nature, imagination and social change, and Victorian poets to doubt, industry and morality. Be careful not to force a poem to fit a general label; instead, show how a specific feature reflects a wider concern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide--14-older-poem-steps.webp" width="900" height="920" alt="Four rising steps. First read slowly, aloud if possible. Second paraphrase difficult lines. Third notice who is speaking and what is argued. Fourth analyse the poem through situation, form, language, movement and effect. Then relate it to its period, for example Romantic poets responding to nature, imagination and social change and Victorian poets to doubt, industry and morality, showing how a specific feature reflects a wider concern without forcing a label." loading="lazy">
+  <figcaption>Read slowly and paraphrase before you analyse an older poem, then relate it to its period.</figcaption>
+</figure>
+
 
 ### Comparison and wider reading
 

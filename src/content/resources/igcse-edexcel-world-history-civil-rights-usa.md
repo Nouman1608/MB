@@ -72,6 +72,12 @@ Opposition grew from journalists such as Ed Murrow and from politicians. In the 
 decency?", and the Senate **censured** McCarthy in December 1954. McCarthyism ruined careers, made
 dissent dangerous and helped tie anti-communism to opposition to civil rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--08-cr-red-scare.webp" width="900" height="718" alt="A flow from top to bottom. Fear: the Soviet atomic bomb and communist victory in China in 1949 and the Korean War in 1950. 1947 to 53: the House Un-American Activities Committee and the Hollywood Ten, Alger Hiss convicted, the Rosenbergs executed, and FBI files on suspected radicals. February 1950: McCarthy claims a list of communists, using accusations, guilt by association and bullying. 1954: the televised Army–McCarthy hearings where Joseph Welch asks “Have you no sense of decency?”. December 1954: the Senate censures McCarthy." loading="lazy">
+  <figcaption>From Cold War fear and HUAC to McCarthy’s claims and his censure in 1954.</figcaption>
+</figure>
+
+
 ## How did civil rights develop in the 1950s?
 
 In the South, **Jim Crow** laws segregated schools, transport and public places, and literacy tests
@@ -88,6 +94,12 @@ the National Guard to stop nine black students entering Central High School; Eis
 troops to protect them. The **Civil Rights Act 1957** created a Civil Rights Commission but did
 little to increase black voting. The **Ku Klux Klan** revived in response, using violence and
 intimidation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--09-cr-fifties.webp" width="900" height="867" alt="A rising staircase of events. 1954: Brown v Board of Education, segregated schools ruled unconstitutional. 1955: Emmett Till murdered and his killers acquitted. December 1955: Rosa Parks arrested and the Montgomery bus boycott begins. 1956: the Supreme Court rules bus segregation unconstitutional. 1957: Little Rock, where federal troops protect nine black students, and the Civil Rights Act, which created a Commission but did little for black voting. The Ku Klux Klan revived in response." loading="lazy">
+  <figcaption>Court rulings, a boycott and confrontation in the South, 1954 to 1957.</figcaption>
+</figure>
+
 
 ## What did protest achieve in the 1960s?
 
@@ -112,6 +124,17 @@ popularised "Black Power" in 1966, and the **Black Panthers**, founded by **Huey
 Seale** in 1966, organised armed patrols and community programmes. At the **1968 Mexico City Olympics**,
 Tommie Smith and John Carlos raised gloved fists on the podium. King was assassinated in April 1968.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--10-cr-protest-laws.webp" width="900" height="666" alt="Left, four protests: Birmingham 1963 with dogs and fire hoses on television, the March on Washington where about 250,000 people heard King, Freedom Summer 1964 when volunteers registered voters and three workers were murdered, and Selma 1965 where marchers were attacked. The first three arrows lead to the Civil Rights Act 1964, banning segregation in public places and discrimination in employment. Selma leads to the Voting Rights Act 1965, which ended literacy tests and sent federal registrars to the South." loading="lazy">
+  <figcaption>Four protests and the two laws they helped secure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--11-cr-two-paths.webp" width="900" height="969" alt="Two columns. Martin Luther King, shown with joined hands: integration through non-violence, with the examples Birmingham 1963, the March on Washington and Selma 1965. Black Power, shown with a raised fist: black pride, self-reliance and self-defence, with the examples Malcolm X, the Watts riots 1965, Stokely Carmichael popularising Black Power in 1966, the Black Panthers founded in 1966 and the gloved fists at the 1968 Olympics." loading="lazy">
+  <figcaption>King sought integration through non-violence; Black Power stressed pride, self-reliance and self-defence.</figcaption>
+</figure>
+
+
 ## Which other protest movements grew in the 1960s?
 
 Students protested against the draft and the **Vietnam War**. The **Berkeley Free Speech Movement**
@@ -123,6 +146,12 @@ discrimination. The more radical **women's liberation** movement challenged gend
 Supreme Court's ruling in **Roe v Wade** (1973) legalised abortion. **Phyllis Schlafly** led
 conservative opposition, especially to the Equal Rights Amendment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--12-cr-movements.webp" width="900" height="1178" alt="Two lanes. Students: protest against the draft and the Vietnam War; the Berkeley Free Speech Movement in 1964; Students for a Democratic Society organising anti-war protest; hippies rejecting mainstream values. Women: the Presidential Commission on the Status of Women chaired by Eleanor Roosevelt in 1961; Betty Friedan’s The Feminine Mystique in 1963; the National Organization for Women co-founded by Friedan in 1966; Roe v Wade legalising abortion in 1973; and Phyllis Schlafly leading opposition, especially to the Equal Rights Amendment." loading="lazy">
+  <figcaption>Student and women’s protest movements of the 1960s and early 1970s.</figcaption>
+</figure>
+
+
 ## How did Watergate change US politics?
 
 In June 1972 burglars linked to Nixon's re-election committee were arrested at the Democratic
@@ -133,6 +162,12 @@ Facing impeachment, Nixon **resigned on 9 August 1974**. **Gerald Ford** became 
 pardoned him. Congress passed laws to restrain the presidency: the **War Powers Act (1973)**, the
 **Election Campaign Act (1974)**, the **Privacy Act (1974)** and the **Congressional Budget Control
 Act (1974)**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--13-cr-watergate.webp" width="900" height="974" alt="A flow: June 1972, burglars linked to Nixon’s re-election committee are arrested at the Democratic headquarters. Nixon tries to cover up White House involvement. Journalists and a Senate committee reveal the Oval Office tapes. In 1974 the Supreme Court orders the tapes handed over and they show obstruction of justice. On 9 August 1974, facing impeachment, Nixon resigns and Gerald Ford pardons him. Congress passed four laws to restrain the presidency: the War Powers Act 1973, the Election Campaign Act 1974, the Privacy Act 1974 and the Congressional Budget Control Act 1974." loading="lazy">
+  <figcaption>From the June 1972 break-in to Nixon’s resignation and four laws to restrain the presidency.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -154,3 +189,9 @@ Watergate deepened distrust of government and led to laws protecting citizens' r
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 1,
 Depth Study 7 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-civil-rights-usa--07-cr-timeline.webp" width="900" height="936" alt="A vertical timeline drawn to scale from 1945 to 1974 with three bands: Red Scare 1945 to 54, civil rights in the 1950s 1954 to 60, and protest, Black Power and Watergate 1960 to 74. Events: HUAC investigates Hollywood 1947, McCarthy claims a list of communists 1950, Brown v Board of Education 1954, McCarthy censured December 1954, Montgomery Bus Boycott from December 1955, Little Rock 1957, Greensboro sit-ins 1960, March on Washington 1963, Civil Rights Act 1964, Voting Rights Act 1965, Black Panthers founded 1966, King assassinated 1968, Roe v Wade 1973 and Nixon resigns 1974. Court rulings and laws are gold." loading="lazy">
+  <figcaption>The Red Scare, the 1950s and the protest era to scale, with court rulings and laws in gold.</figcaption>
+</figure>
+

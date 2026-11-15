@@ -38,6 +38,12 @@ Other SQL clauses, such as ORDER BY, LIKE, JOIN or aggregate functions, are not 
 
 A **database** is a structured, persistent store of data. A **table** holds data about one type of thing (for example club members). Each row is a **record**, holding all the data about one item. Each column is a **field**, holding one item of data such as Name or Age. Each field has a **data type**, such as text (string), integer, real, Boolean or date, which controls what can be stored. For text fields you may also give a **length**, such as 20 characters for a name.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--01-table-terms.webp" width="900" height="640" alt="A Member table with fields MemberID, Name, Age and ClubID. A grey row gives each field its data type. One column is marked as a field, one column of data, and the row for Priya, 103, is marked as a record, all the data about one item." loading="lazy">
+  <figcaption>A table is rows (records) and columns (fields); each field has a data type, such as text with a length.</figcaption>
+</figure>
+
+
 ## What are primary and foreign keys?
 
 A **primary key** is a field that uniquely identifies each record in a table, so no two records can have the same value. A **foreign key** is a field in one table that is the primary key of another table; it creates the link between the two tables.
@@ -63,9 +69,21 @@ A **primary key** is a field that uniquely identifies each record in a table, so
 
 In Club the primary key is ClubID. In Member the primary key is MemberID, and ClubID is a **foreign key** linking each member to a club.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--02-keys-link.webp" width="900" height="900" alt="The Club table has ClubID as its primary key. The Member table has MemberID as its primary key and ClubID as a foreign key. Colours match each member ClubID to the club row it refers to, and an arrow shows the foreign key pointing to the primary key." loading="lazy">
+  <figcaption>A primary key is unique in its table; a foreign key matches a primary key in another table and links them.</figcaption>
+</figure>
+
+
 ## Why does a relational database reduce redundancy and inconsistency?
 
 If the club name and room were stored in every member's row, they would be repeated (**data redundancy**), wasting storage. If Robotics moved room, every Robotics member's record would need changing; missing one would leave conflicting values (**data inconsistency**). With two linked tables the room is stored once and changed once.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--03-redundancy.webp" width="900" height="1078" alt="One big table repeats Robotics and room C03 in three rows (redundancy). If the room changes and one record is missed, values conflict (inconsistency). With a separate Club table the room is stored once and changed once." loading="lazy">
+  <figcaption>Storing the room once in a Club table avoids repeated data and conflicting values.</figcaption>
+</figure>
+
 
 ## How do you write a database design?
 
@@ -102,6 +120,17 @@ WHERE Member.ClubID = Club.ClubID;
 
 Writing the table name before a field (`Member.ClubID`) removes any doubt when both tables have a field with the same name. Without the matching condition, every member would be paired with every club.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--04-where-comparison.webp" width="900" height="780" alt="The query SELECT Name FROM Member WHERE Age &gt;= 15 is tested on each of six records. Tomas, Kofi and Lena pass with a tick; Amira, Priya and Omar fail with a cross. The output is Tomas, Kofi, Lena." loading="lazy">
+  <figcaption>WHERE tests every record; only those that pass are shown, and SELECT picks the fields.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--06-two-table-query.webp" width="900" height="932" alt="Step 1 pairs each of six members with its club using the matching ClubID. Step 2 keeps the three Robotics rows. The output is Amira C03, Priya C03, Lena C03. Without the match there would be 18 pairs." loading="lazy">
+  <figcaption>The first WHERE condition matches each member to a club; the second keeps only Robotics; without matching, every member pairs with every club.</figcaption>
+</figure>
+
+
 ## How do you insert, update and delete data?
 
 - `INSERT INTO table VALUES (value1, value2, ...);` adds a record. You need only the form that gives **all** the values, in the same order as the fields.
@@ -132,6 +161,12 @@ WHERE ClubID = 2 AND Age = 14;
 
 Output: Amira 14, Priya 14.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--05-where-and.webp" width="900" height="780" alt="Each record is tested for ClubID = 2 and for Age = 14. Only Amira and Priya pass both, so the output is Amira 14 and Priya 14." loading="lazy">
+  <figcaption>With AND a record must meet both conditions to be kept.</figcaption>
+</figure>
+
+
 ## Worked example 2: a two-table query
 
 Show the name of every member of the Robotics club, with the room it meets in.
@@ -155,6 +190,12 @@ INSERT INTO Member VALUES (107, 'Sana', 13, 3);
 ```
 
 Member now has six records: 101 Amira (2), 102 Tomas (3), 103 Priya (2), 104 Kofi (3), 105 Lena (2), 107 Sana (3). Chess has no members but still exists in Club.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide--07-change-data.webp" width="900" height="790" alt="Three statements change Member: Tomas moves to club 3, Omar is deleted, and Sana is inserted in club 3. The table then holds six records." loading="lazy">
+  <figcaption>UPDATE edits a record, DELETE FROM removes one, INSERT INTO adds one; Member ends with six records.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -55,6 +55,12 @@ These notes condense learning outcomes 2.1.6(a) to (m) of the OCR A Level Biolog
 * A cell can leave the cycle into **G0**, where it stops dividing, for example when it differentiates or becomes senescent.
 * Mitosis gives genetically identical cells because DNA is copied exactly in S phase and the sister chromatids are shared equally.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--01-cell-cycle.webp" width="900" height="830" alt="A ring divided into four phases in order: G1, S, G2 and M (mitosis then cytokinesis). G1, S and G2 together are interphase, the longest part of the cycle. Three checkpoints are marked: one at the end of G1, one at the end of G2 and the spindle assembly checkpoint during metaphase of mitosis. In the centre a single rod-shaped chromosome becomes an X of two sister chromatids during S phase. Phase sizes are not to scale." loading="lazy">
+  <figcaption>The cell cycle: G1, S and G2 (interphase), then mitosis and cytokinesis, with the three checkpoints.</figcaption>
+</figure>
+
+
 ## Regulating the cell cycle: 2.1.6(b)
 
 Checkpoints are control points where the cell is checked before it can move on.
@@ -83,6 +89,17 @@ Checkpoints are control points where the cell is checked before it can move on.
 * **Plant cells:** vesicles from the Golgi apparatus gather at the equator to form a cell plate, which becomes the new cell walls and membranes. Plant cells have no centrioles; their spindle still forms.
 
 Memory order: **PMAT**, then cytokinesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--02-mitosis-stages.webp" width="900" height="1160" alt="Six small cell diagrams show a cell with four chromosomes going through mitosis. Prophase: chromosomes condense into two sister chromatids joined at a centromere, the nuclear envelope breaks down and centrioles move to the poles. Metaphase: chromosomes line up on the equator, attached by spindle fibres. Anaphase: centromeres divide and chromatids are pulled to opposite poles. Telophase: chromatids reach the poles and nuclear envelopes reform. Cytokinesis in an animal cell pinches the membrane inwards; in a plant cell a cell plate forms. Both daughter cells end with the same four chromosomes." loading="lazy">
+  <figcaption>Mitosis in a cell with four chromosomes: each daughter cell receives the same four.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--04-independent-assortment.webp" width="900" height="1000" alt="Two possible ways two homologous pairs can line up on the equator in metaphase I. In alignment 1 the two teal chromosomes are on one side and the two gold on the other, giving gametes with teal long and teal short, or gold long and gold short. In alignment 2 teal long is with gold short, giving gametes with teal long and gold short, or gold long and teal short. Together there are four different combinations from just two pairs. Real cells have many pairs, so many more combinations are possible. Crossing over is not shown." loading="lazy">
+  <figcaption>Pairs line up at random in metaphase I, so each alignment gives a different mix of parental chromosomes.</figcaption>
+</figure>
+
 
 ## Observing mitosis in plant tissue (PAG1): 2.1.6(d)
 
@@ -141,6 +158,12 @@ No names of the sub-stages of prophase 1 are needed. Meiosis can also be observe
 | Homologous pairs | Do not pair | Pair and cross over |
 | Role | Growth, repair, asexual reproduction | Gamete production, variation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--03-meiosis-stages.webp" width="900" height="1300" alt="Meiosis in a cell with four chromosomes (two homologous pairs, one from each parent, shown teal and gold). In prophase I the homologous chromosomes pair up as bivalents and non-sister chromatids cross over, swapping a section. In metaphase I the pairs line up on the equator. In anaphase I the homologous chromosomes, still made of two chromatids, are pulled to opposite poles. This gives two haploid cells. In meiosis II the sister chromatids separate. The result is four haploid cells that are genetically different from each other." loading="lazy">
+  <figcaption>Meiosis I separates homologous chromosomes; meiosis II separates sister chromatids.</figcaption>
+</figure>
+
+
 ## Specialised cells: 2.1.6(h)
 
 | Cell | Function | Adaptations |
@@ -153,6 +176,17 @@ No names of the sub-stages of prophase 1 are needed. Meiosis can also be observe
 | **Palisade cell** | Photosynthesis | Many chloroplasts; tall, column shape packed near the upper leaf surface; large vacuole pushes chloroplasts to the edge |
 | **Root hair cell** | Absorbs water and mineral ions | Long hair-like extension gives a large surface area; thin wall; many mitochondria for active transport of mineral ions |
 | **Guard cell** | Opens and closes the stoma | Pair of cells; inner wall thicker than outer wall, so the cells bend apart when turgid; chloroplasts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--05-specialised-animal-cells.webp" width="900" height="1240" alt="Five animal cells with their specialised features labelled. Erythrocyte: biconcave disc for large surface area and no nucleus so there is more room for haemoglobin. Neutrophil: multi-lobed nucleus to squeeze through gaps and lysosomes with digestive enzymes. Squamous epithelial cell: very thin and flat for a short diffusion distance. Ciliated epithelial cell: cilia that beat to move mucus and many mitochondria for ATP. Sperm cell: acrosome with enzymes, haploid nucleus, mitochondria and a flagellum for swimming. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Five animal cells: each labelled feature links to its job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--06-specialised-plant-cells.webp" width="900" height="940" alt="Three plant cells with specialised features labelled. Palisade cells are tall and closely packed with many chloroplasts to absorb light. A root hair cell has a long extension giving a large surface area for taking up water and mineral ions, and carrier proteins in its membrane for active transport. A pair of guard cells surround a stoma; when turgid they bend and open the stoma because the inner walls are thicker and less flexible than the outer walls. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Three plant cells: palisade, root hair and guard cells.</figcaption>
+</figure>
+
 
 ## Tissues, organs and organ systems: 2.1.6(i)
 
@@ -169,6 +203,12 @@ No names of the sub-stages of prophase 1 are needed. Meiosis can also be observe
 * **Organ system examples:** digestive, respiratory, circulatory (cardiovascular), and in plants the shoot and root systems.
 * Cooperation between levels lets a multicellular organism carry out functions no single cell could.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--07-tissues-organs-systems.webp" width="900" height="1240" alt="Four levels of organisation using the lungs as the example. A cell: a squamous epithelial cell. A tissue: a group of similar cells working together, squamous epithelium, a single layer of flat cells on a basement membrane. An organ: a group of tissues working together; the lungs are made of epithelium, cartilage, muscle and blood. An organ system: a group of organs; the lungs are part of the gas exchange system with the trachea and bronchi. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Levels of organisation, from one cell up to an organ system.</figcaption>
+</figure>
+
+
 ## Stem cells: 2.1.6(j)
 
 * Stem cells are a **renewing source of undifferentiated cells**: they divide by mitosis, keeping some cells as stem cells while others differentiate.
@@ -182,6 +222,12 @@ No names of the sub-stages of prophase 1 are needed. Meiosis can also be observe
 | Unipotent | One cell type | Stem cells in the testes that produce only sperm |
 
 **Sources:** embryos, adult tissues (bone marrow), umbilical cord blood, and induced pluripotent stem (iPS) cells made by reprogramming adult cells. In plants, stem cells are in the **meristems**: at root and shoot tips (apical meristems) and in the vascular cambium.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--08-stem-cell-lineages.webp" width="900" height="1130" alt="Two examples of differentiation. Top: a multipotent stem cell in bone marrow divides by mitosis to make more stem cells (a renewing source) and also differentiates into erythrocytes, which lose their nucleus and fill with haemoglobin, and neutrophils, which develop a lobed nucleus and many lysosomes. Bottom: a meristem cell in a plant, including the vascular cambium, differentiates into xylem vessels, which lay down lignin and lose their contents to form hollow dead tubes, and phloem sieve tubes, which have sieve plates and are supported by companion cells. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Stem cells keep dividing and can differentiate into different specialised cells.</figcaption>
+</figure>
+
 
 ## Erythrocytes and neutrophils from bone marrow: 2.1.6(k)
 

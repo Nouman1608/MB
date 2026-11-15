@@ -78,6 +78,17 @@ anaesthetic properties of **chloroform** in 1847. Some patients died from overdo
 opposed it, but it gained acceptance after Queen Victoria used it in childbirth (1853). Anaesthetics
 allowed longer operations — which, without antiseptics, could increase deaths from infection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--09-med-snow.webp" width="900" height="810" alt="Two street schematics. With the pump handle in place, dots (cases, illustrative) cluster round the pump; with the handle removed, far fewer remain. Snow showed cholera spread by water but could not explain why." loading="lazy">
+  <figcaption>Snow linked cholera to a pump (illustrative schematic, not real data).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--10-med-surgery.webp" width="900" height="830" alt="Three rows pair surgery’s problems with solutions: pain (chloroform, accepted after Queen Victoria), infection (carbolic acid, then aseptic surgery) and bleeding (blood groups, then stored blood). A red arrow notes that longer operations without antiseptics raised infection deaths." loading="lazy">
+  <figcaption>Pain, infection and bleeding, and how each was tackled.</figcaption>
+</figure>
+
+
 ## How did germ theory change medicine, 1860–75?
 
 Louis **Pasteur** proved in 1861 that microbes caused decay, publishing his **germ theory**. Joseph **Lister**
@@ -87,6 +98,17 @@ Act 1875** made improvements compulsory: councils had to provide clean water, se
 appoint medical officers of health. Nightingale's influence raised the standard of nursing and hospital
 design. **Elizabeth Garrett** qualified through the Society of Apothecaries in 1865 and opened a dispensary
 for women; an Act of 1876 allowed women to qualify as doctors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--11-med-cause.webp" width="900" height="841" alt="A chain of six steps shows ideas about disease changing from miasma, through Snow and Pasteur’s germ theory and Koch’s bacteriology, to Ehrlich’s magic bullet and penicillin." loading="lazy">
+  <figcaption>How ideas about the cause and treatment of disease changed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--13-med-women.webp" width="900" height="779" alt="A chain of six steps: Nightingale at Scutari (1854), the nurses’ training school (1860), Elizabeth Garrett qualifying (1865), the 1876 Act allowing women doctors, and women’s roles in the two world wars." loading="lazy">
+  <figcaption>Women’s role in medicine from 1854 to the Second World War.</figcaption>
+</figure>
+
 
 ## Why did change accelerate, 1875–1905?
 
@@ -112,6 +134,12 @@ infection was fought with wound cleaning and the removal of dead tissue. **Women
 ambulance drivers and doctors — for example in Elsie Inglis's Scottish Women's Hospitals — changing
 attitudes to their role.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--14-med-science-war.webp" width="900" height="900" alt="Three rows pair a scientific discovery with its wartime use: X-rays, blood groups and penicillin. Science gave discoveries; war gave urgency, funding and practice." loading="lazy">
+  <figcaption>Science provided discoveries and war provided urgency and funding.</figcaption>
+</figure>
+
+
 ## What were the advances of 1920–48?
 
 Alexander **Fleming** noticed in 1928 that penicillin mould killed bacteria but could not produce it in
@@ -124,6 +152,12 @@ The **Beveridge Report** (1942) called for a welfare state to defeat the "five g
 The Labour government's Health Minister Aneurin Bevan launched the **National Health Service** on 5 July
 1948, providing free treatment for all, paid for from taxation — the biggest change in public health of
 the period.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--12-med-public-health.webp" width="900" height="828" alt="A staircase of six steps from Chadwick’s report (1842) through the voluntary 1848 Act and compulsory 1875 Act and the Liberal reforms to the Beveridge Report (1942) and the NHS (1948)." loading="lazy">
+  <figcaption>From a voluntary Public Health Act to free treatment for all.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
@@ -143,3 +177,9 @@ It made healthcare free at the point of use for everyone.
 Pearson Edexcel International GCSE History (4HI1) specification, Issue 5, February 2026, Paper 2,
 Breadth Study B2 —
 [qualifications.pearson.com](https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/History/2017/specification-and-sample-assessments/int-gcse-history-specification.pdf).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-medicine--08-med-timeline.webp" width="900" height="1200" alt="A scaled timeline of 1848 to 1948 with five bands for the five key topics and fourteen events from the Public Health Act of 1848 to the launch of the NHS in 1948." loading="lazy">
+  <figcaption>Medicine 1848–1948 to scale, with the five key topics and main events.</figcaption>
+</figure>
+

@@ -52,6 +52,12 @@ Defeat by Japan in 1904-05 and the shooting of peaceful marchers led by Father G
 
 The aftermath showed limited reform. The Fundamental Laws of 1906 kept the Tsar's power to dissolve the Duma, and the first two Dumas were dismissed. **Pyotr Stolypin**, chief minister from 1906 until his assassination in 1911, combined harsh repression with land reforms that let peasants own consolidated farms. The shooting of strikers at the Lena goldfields in 1912 showed unrest returning before the war.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--01-russia-1905-survival.webp" width="900" height="869" alt="Five pressures on Nicholas II in 1905 are shown on the left: defeat by Japan, Bloody Sunday, strikes and peasant risings, the Potemkin mutiny and the St Petersburg Soviet. The Tsar then made two moves. The October Manifesto promised a Duma and civil rights and satisfied many liberals. Loyal troops crushed the Soviet and the remaining risings. Opponents were divided, so the Tsar survived, but reform stayed limited." loading="lazy">
+  <figcaption>Nicholas II survived 1905 by dividing his opponents: concessions for liberals, force for rebels.</figcaption>
+</figure>
+
+
 ## How far was the Tsar weakened by the First World War?
 
 Heavy defeats such as Tannenberg (August 1914), shortages of rifles and shells, and millions of casualties damaged the army's loyalty. In September 1915 Nicholas took personal command, so he was blamed for every defeat, and he left government to the Tsarina, whose reliance on Rasputin discredited the monarchy until Rasputin was murdered in December 1916. Inflation, and food and fuel shortages in the cities, hit workers hardest.
@@ -59,6 +65,12 @@ Heavy defeats such as Tannenberg (August 1914), shortages of rifles and shells, 
 ## Why was the March 1917 revolution successful?
 
 Strikes and bread queues in Petrograd turned into mass demonstrations in March 1917. The decisive moment came when soldiers of the Petrograd garrison refused to fire and joined the crowds. Generals and Duma politicians advised abdication, and Nicholas abdicated on 15 March 1917. Power passed to a **Provisional Government** formed by Duma members, sharing authority in practice with the **Petrograd Soviet**, whose Order No. 1 gave it control over the soldiers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--02-russia-war-to-abdication.webp" width="900" height="1081" alt="A chain of events: heavy defeats and shortages damage the army and the Tsar; in September 1915 Nicholas takes personal command and is blamed; the Tsarina and Rasputin discredit the monarchy; inflation and shortages hit workers. In March 1917 strikes and bread queues in Petrograd become mass demonstrations; the Petrograd garrison refuses to fire and joins the crowds; Nicholas abdicates on 15 March 1917. Power is shared between the Provisional Government and the Petrograd Soviet." loading="lazy">
+  <figcaption>War defeats and shortages weakened the Tsar; when the Petrograd garrison joined the crowds in March 1917, he abdicated.</figcaption>
+</figure>
+
 
 ## Why were the Bolsheviks able to seize power in November 1917?
 
@@ -69,25 +81,55 @@ Strikes and bread queues in Petrograd turned into mass demonstrations in March 1
 | The Kornilov affair (September 1917) | Kerensky armed the Bolshevik Red Guards to defend Petrograd; Bolsheviks gained majorities in the Soviets |
 | Trotsky's organisation | Led the Military Revolutionary Committee that took key points in Petrograd on 6-7 November and the Winter Palace |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--03-russia-november-1917.webp" width="900" height="936" alt="Four factors point at the Winter Palace in Petrograd. The Provisional Government continued the war and delayed land reform. Lenin returned with the April Theses and the slogans Peace, Bread, Land and All power to the Soviets. After the Kornilov affair in September, Kerensky armed the Bolshevik Red Guards. Trotsky led the Military Revolutionary Committee, which took key points in Petrograd and the Winter Palace on 6 to 7 November 1917." loading="lazy">
+  <figcaption>Government mistakes, Lenin’s slogans, the Kornilov affair and Trotsky’s organisation combined in November 1917.</figcaption>
+</figure>
+
+
 ## Why did the Bolsheviks win the Civil War, and was the NEP a success?
 
 The Bolsheviks closed the Constituent Assembly in January 1918 after the Socialist Revolutionaries won the most seats, created the Cheka secret police and accepted the harsh **Treaty of Brest-Litovsk** (March 1918) to leave the war. In the Civil War (1918-21) the Reds won because they held the central industrial heartland and railways, Trotsky built a disciplined Red Army, War Communism requisitioned grain for the army, and the Whites -- under commanders such as Kolchak, Denikin and Yudenich -- were divided, spread around the edges and tainted by foreign intervention.
 
 War Communism caused famine and the **Kronstadt Rising** of sailors in March 1921. Lenin responded with the **New Economic Policy (NEP)**: grain requisitioning was replaced by a tax, and small private trade was allowed. Agriculture and light industry recovered by the mid-1920s, but critics in the party saw it as a retreat from socialism, and NEP traders (Nepmen) were resented.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--04-russia-civil-war-to-nep.webp" width="900" height="901" alt="A schematic, not a map. The Reds hold the central industrial heartland and railways, with a disciplined Red Army built by Trotsky. The Whites, under Kolchak, Denikin and Yudenich, are divided, spread around the edges and tainted by foreign intervention. The Reds won the Civil War of 1918 to 1921. War Communism, which took grain for the army, then caused famine and the Kronstadt Rising of March 1921, so Lenin replaced grain requisitioning with a tax and allowed small private trade: the New Economic Policy." loading="lazy">
+  <figcaption>The Reds held the centre and the Whites were scattered round the edges; War Communism then forced Lenin into the NEP.</figcaption>
+</figure>
+
+
 ## Why did Stalin, not Trotsky, succeed Lenin?
 
 Lenin died in January 1924. His "Testament" warned against Stalin, but it was not published. Stalin's post as General Secretary (from 1922) let him appoint loyal officials; he presented himself as Lenin's faithful follower, backed "Socialism in One Country" against Trotsky's "Permanent Revolution", and allied first with Zinoviev and Kamenev against Trotsky, then with Bukharin against them. Trotsky, seen as arrogant, missed Lenin's funeral, was expelled from the party in 1927 and exiled in 1929. By 1928 Stalin was dominant.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--05-russia-stalin-rise.webp" width="900" height="937" alt="After Lenin died in January 1924, Stalin used his post as General Secretary to appoint loyal officials. In the first stage he allied with Zinoviev and Kamenev against Trotsky. In the second stage he allied with Bukharin against Zinoviev and Kamenev. Trotsky, seen as arrogant, missed Lenin’s funeral, was expelled from the party in 1927 and exiled in 1929. By 1928 Stalin was dominant." loading="lazy">
+  <figcaption>Stalin beat his rivals one at a time by changing allies; Trotsky was expelled in 1927 and exiled in 1929.</figcaption>
+</figure>
+
+
 ## Why did Stalin launch the Purges, and how did he control the USSR?
 
 After the murder of Kirov in December 1934, the NKVD arrested millions. Show trials of old Bolsheviks (Zinoviev and Kamenev in 1936, Bukharin in 1938), the purge of Red Army commanders including Marshal Tukhachevsky (1937) and mass arrests sent people to execution or the Gulag labour camps. Explanations include Stalin's paranoia, the removal of any possible rival, and the use of fear to force through rapid change. Alongside terror, the **cult of personality**, censorship, rewritten history and **socialist realism** in the arts built loyalty. By 1941 opposition inside the USSR had been eliminated, but the purges had weakened the army and economy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--06-russia-terror-and-control.webp" width="900" height="850" alt="Two pillars support Stalin’s control by 1941. The pillar of terror: Kirov murdered in December 1934; the NKVD arrests millions; show trials of old Bolsheviks in 1936 to 1938; the purge of Red Army commanders including Marshal Tukhachevsky in 1937; execution or Gulag labour camps. The pillar of persuasion: cult of personality, censorship, rewritten history and socialist realism in the arts. By 1941 opposition had been eliminated, but the purges had weakened the army and economy." loading="lazy">
+  <figcaption>Stalin combined terror (the NKVD and show trials) with propaganda to remove opposition by 1941.</figcaption>
+</figure>
+
 
 ## What was the impact of Stalin's economic policies?
 
 **Five-Year Plans** (from 1928), set by Gosplan, poured investment into heavy industry -- coal, steel, oil, electricity -- to modernise the USSR and prepare for war. New industrial centres such as Magnitogorsk and the Dnieper dam were built; the miner Alexei Stakhanov's record shift in 1935 became propaganda for higher output. Output of heavy industry rose very fast, but consumer goods were scarce, targets encouraged false figures, and workers faced harsh discipline.
 
 **Collectivisation** (from 1929) forced peasants into collective farms to supply grain for the cities and exports. Better-off peasants labelled **kulaks** were deported or killed, and many peasants slaughtered their livestock rather than hand it over. The famine of 1932-33, worst in Ukraine, killed millions. Women were drawn into industry in large numbers, while ethnic minorities faced Russification and, in some cases, deportation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--07-russia-plans-and-collectivisation.webp" width="900" height="797" alt="Two panels compare gains and costs. Five-Year Plans from 1928, set by Gosplan: heavy industry (coal, steel, oil, electricity) rose very fast, with new centres such as Magnitogorsk and the Dnieper dam; costs were scarce consumer goods, false figures and harsh discipline for workers. Collectivisation from 1929: peasants forced into collective farms to supply grain; costs were kulaks deported or killed, peasants slaughtering livestock, and the 1932 to 1933 famine, worst in Ukraine, which killed millions." loading="lazy">
+  <figcaption>Both policies delivered what Stalin wanted for industry and grain, at a very high human cost.</figcaption>
+</figure>
+
 
 ## Worked example: a (b) answer
 

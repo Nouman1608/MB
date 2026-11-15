@@ -57,6 +57,17 @@ Related: [Data Representation (A Level) study guide](/resources/a-level-computer
 
 Pointer operations: `P ← ^X` stores the address of X; `P^` is the value at that address (dereferencing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--14-choose-a-type.webp" width="900" height="960" alt="Five user-defined types in two bands. Non-composite: an enumerated type (a fixed list of named options) and a pointer (holds the address of a value). Composite: a record (fields of mixed types), a set (collection for membership tests) and a class (data plus its own operations)." loading="lazy">
+  <figcaption>Match the data to the type: enumerated for fixed options, record for mixed data, set for membership, class for data with operations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--15-pointer-memory.webp" width="900" height="780" alt="Memory cells with illustrative addresses. MyPointer (address 1001) holds 1003, the address of Score (address 1003), which holds 42. The statement MyPointer assigned ^Score stores the address; OUTPUT MyPointer^ prints 42." loading="lazy">
+  <figcaption>A pointer stores the memory address of a value, and following it gives the value.</figcaption>
+</figure>
+
+
 ## File organisation and access
 
 | Organisation | Order of records | Access methods |
@@ -71,12 +82,24 @@ Pointer operations: `P ← ^X` stores the address of X; `P^` is the value at tha
 | Monthly payroll of all employees | Sequential | Every record is processed in key order |
 | Look up one product at a till | Random | Fast direct access to a single record |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--16-file-organisation.webp" width="900" height="880" alt="Three strips of records with illustrative keys. Finding key 31 reads 4 records in a serial file (arrival order), 2 in a sequential file (key order) by sequential access, and 1 in a random file where 31 MOD 10 gives address 1, by direct access." loading="lazy">
+  <figcaption>Serial files are in arrival order, sequential files in key order, and random files at a hashed address.</figcaption>
+</figure>
+
+
 ## Hashing in four lines
 
 1. Address = hash(key), e.g. key MOD number of addresses.
 2. Writing: hash the key; if the address is taken (a **collision**), use the next free address or an overflow area.
 3. Reading: hash the key; check the key at that address; if it does not match, search on (next addresses or the overflow area) until found or an empty slot is reached.
 4. The hash is applied to the **record key**, and it locates a **record**, not the file.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--17-hash-remainder.webp" width="900" height="1020" alt="With 500 addresses, 74317 and 12817 both hash to address 317. With open addressing the second record goes in the next free address, 318, and is found by hashing and searching forward. With an overflow area it is stored separately and that area is searched serially." loading="lazy">
+  <figcaption>A collision is handled by the next free address or by an overflow area; reading uses the same hash as writing.</figcaption>
+</figure>
+
 
 ## Floating point rules
 
@@ -86,6 +109,12 @@ Pointer operations: `P ← ^X` stores the address of X; `P^` is the value at tha
 - More mantissa bits → more **precision**; more exponent bits → more **range**.
 - **Overflow**: number too large for the exponent. **Underflow**: magnitude too small, stored as 0.
 - **Rounding error**: many fractions (e.g. 0.1) have no exact binary form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--18-float-from-denary.webp" width="900" height="910" alt="Four steps for +5.75: binary 101.11; slide the point 3 places left to get 0.10111 with exponent +3; store mantissa 01011100 and exponent 0011; check that 0.71875 times 2 cubed is 5.75." loading="lazy">
+  <figcaption>Convert to binary, move the point, store mantissa and exponent, then check by multiplying back.</figcaption>
+</figure>
+
 
 ## Worked example: denary to floating point (10-bit mantissa, 6-bit exponent)
 
@@ -112,6 +141,12 @@ Mantissa 11101000, exponent 0100 (+4). The mantissa starts 11, so it is not norm
 - Shift left 2 places: 10100000; exponent 4 − 2 = 2 (0010).
 - Check: 1.1101000 = −1 + 0.5 + 0.25 + 0.0625 = −0.1875, × 16 = −3. And 1.0100000 = −1 + 0.25 = −0.75, × 4 = −3. Same value, more precision available.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--19-float-normalise.webp" width="900" height="890" alt="Mantissa 00011010 with exponent 0011 starts 00 so is not normalised. Shifting left two places gives 01101000 with exponent 0001; both are 1.625. A negative normalised mantissa starts 10, e.g. 10100000 with exponent 1111 for -0.375. Normalising gives maximum precision and a unique representation." loading="lazy">
+  <figcaption>Normalise by shifting left until the first two bits differ, reducing the exponent for each shift.</figcaption>
+</figure>
+
+
 ## Range of an 8-bit mantissa, 4-bit exponent system
 
 | Value | Mantissa | Exponent | Denary |
@@ -128,6 +163,12 @@ Mantissa 11101000, exponent 0100 (+4). The mantissa starts 11, so it is not norm
 - Serial and sequential confused; direct access to a sequential file described without an index (June 2024).
 - Hashing applied to the whole file (June 2024, November 2024).
 - Enumerated values written in quotation marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-data-representation-a-level--20-float-range.webp" width="900" height="900" alt="With an 8-bit mantissa and 4-bit exponent the smallest positive normalised value is 1/512 and the largest is 127; values below underflow to zero and values above overflow. The same 12 bits split 9+3 give more precision and less range; split 7+5 they give more range and less precision." loading="lazy">
+  <figcaption>More mantissa bits give precision; more exponent bits give range.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

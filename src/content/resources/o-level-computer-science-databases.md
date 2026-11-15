@@ -48,6 +48,12 @@ Here is the table used in this guide. It belongs to a car-hire company and is ca
 
 It has **6 fields** and **5 records**. `CarReg` is the primary key: every registration is different, whereas makes, seat counts and rates repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--08-db-anatomy.webp" width="900" height="820" alt="The five-record, six-field Car table with CarReg marked as the primary key, one row labelled as a record, one column labelled as a field, and the count 6 fields and 5 records." loading="lazy">
+  <figcaption>Fields are columns, records are rows, and the primary key is unique.</figcaption>
+</figure>
+
+
 ## Defining a table from a description
 
 When a question describes the data an organisation wants to keep, work through the description and for each item decide:
@@ -67,6 +73,12 @@ When a question describes the data an organisation wants to keep, work through t
 | Real | Numbers with a fractional part | `DailyRate` |
 | Date/time | Dates and times | `LastService` |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--09-db-datatypes.webp" width="900" height="860" alt="Each Car field with a sample value points to its data type: CarReg and Make text/alphanumeric, Seats integer, DailyRate real, Electric Boolean, LastService date/time, plus a character example." loading="lazy">
+  <figcaption>Choosing a data type for every field.</figcaption>
+</figure>
+
+
 ### Validation for the fields
 
 | Field | Suitable check |
@@ -76,9 +88,21 @@ When a question describes the data an organisation wants to keep, work through t
 | DailyRate | Range check, greater than 0; type check (real) |
 | LastService | Type check that it is a valid date |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--10-db-validation.webp" width="900" height="980" alt="For CarReg, Seats, DailyRate and LastService, an accepted and rejected example value is shown against each check: presence, format, range 2 to 9, greater than 0, type and valid date." loading="lazy">
+  <figcaption>What each validation check accepts and rejects.</figcaption>
+</figure>
+
+
 ## Choosing a primary key
 
 A good primary key is unique, always present and unlikely to change. If no natural field is unique — for example a table of club members where two people could share a name and birthday — create one, such as `MemberID`. Exam questions often ask you to explain why a particular field would **not** work: always point out that its values can be repeated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--11-db-key.webp" width="900" height="1006" alt="CarReg values are all different, while Toyota repeats twice and Seats 5 repeats three times, so only CarReg can be a key. A club table shows a created MemberID separating two people with the same name and birthday." loading="lazy">
+  <figcaption>A primary key must be unique, so create one if no field is.</figcaption>
+</figure>
+
 
 ## SQL in 2210
 
@@ -98,6 +122,12 @@ ORDER BY DailyRate DESC;
 - `WHERE` filters the records; text values go in single quotes (`Make = 'Toyota'`), numbers and Boolean values do not.
 - `ORDER BY` sorts the results: `ASC` for smallest/A first, `DESC` for largest/Z first.
 - `SUM(field)` adds a numeric field over the selected records; `COUNT(*)` counts the selected records.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--12-db-sql-order.webp" width="900" height="1048" alt="A four-line SELECT query, then three tables: WHERE keeps the three five-seat cars, SELECT keeps CarReg and DailyRate, ORDER BY sorts by DailyRate largest first." loading="lazy">
+  <figcaption>How the output of a query is found step by step.</figcaption>
+</figure>
+
 
 ## Worked example 1: writing a query
 
@@ -135,9 +165,21 @@ ORDER BY Seats ASC;
 
 Honda gives MUX 6603 (4 seats); more than 5 seats gives KHI 7712 (7 seats). Sorted by seats ascending, the output is: Honda 4; Toyota 7.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--13-db-and-or.webp" width="900" height="1050" alt="Two tick-and-cross grids. For AND, only LEA 2041 and LEA 5218 pass both conditions so COUNT(*) gives 2. For OR, KHI 7712 and MUX 6603 pass one condition, so ordered by seats the output is Honda 4, Toyota 7." loading="lazy">
+  <figcaption>AND needs both conditions, OR needs at least one.</figcaption>
+</figure>
+
+
 ## Worked example 4: SUM
 
 `SELECT SUM(DailyRate) FROM Car WHERE Make = 'Toyota';` returns 55.50 + 42.25 = **97.75** — the cost of hiring both Toyotas for one day.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-databases--14-db-sum-count.webp" width="900" height="890" alt="The two Toyota records are selected. COUNT(*) counts two records. SUM(DailyRate) adds 55.50 and 42.25 to give 97.75." loading="lazy">
+  <figcaption>COUNT counts the selected records and SUM adds a numeric field.</figcaption>
+</figure>
+
 
 ## How to approach it
 

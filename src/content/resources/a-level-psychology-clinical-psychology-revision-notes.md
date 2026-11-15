@@ -52,6 +52,12 @@ For full explanations read the [Clinical Psychology study guide](/resources/a-le
 | 1.4 Anxiety and fear | GAD, agoraphobia, blood-injection-injury phobia; GAD-7; BIPI (e.g. Mas et al., 2010) | Genetic (e.g. Öst, 1992); classical conditioning (Little Albert); psychodynamic (Little Hans) | Systematic desensitisation; CBT with applied tension (Chapman and DeLapp, 2013) |
 | 1.5 OCD | Obsessions and compulsions (e.g. Rapoport, 1989); MOCI; Y-BOCS | Biochemical; genetic; cognitive; operant; psychodynamic | SSRIs; ERP (e.g. Lehmkuhl et al., 2008); telephone CBT (Lovell et al., 2006) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--02-cl-dopamine-hypothesis.webp" width="900" height="1140" alt="Three schematic panels of a synapse. Typical: 2 dopamine molecules fill 2 of 4 D2 receptors. Excess dopamine: all 4 receptors filled and 6 more molecules waiting, giving a signal that is too strong. Antipsychotic: drug blocks all 4 receptors so the signal is weaker." loading="lazy">
+  <figcaption>Excess dopamine at D2 receptors is linked to positive symptoms; antipsychotics block D2.</figcaption>
+</figure>
+
+
 ## Key terms
 
 | Term | Definition |
@@ -72,6 +78,17 @@ For full explanations read the [Clinical Psychology study guide](/resources/a-le
 | Obsession / compulsion | Intrusive unwanted thought / repetitive act performed to reduce anxiety |
 | ERP | Exposure to a trigger while the compulsion is prevented |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--04-cl-negative-triad.webp" width="900" height="940" alt="A triangle of negative views of the self, the world and the future with a central negative schema, joined by double-headed arrows. Cognitive errors (overgeneralisation, selective abstraction) maintain it." loading="lazy">
+  <figcaption>Beck's negative triad and the errors that maintain it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--07-cl-ocd-cycle.webp" width="900" height="960" alt="A clockwise loop: obsession, anxiety rises, compulsion, relief as anxiety falls, which rewards the compulsion so it repeats. A gold bar marks where exposure and response prevention blocks the compulsion." loading="lazy">
+  <figcaption>Negative reinforcement keeps OCD going; ERP breaks the loop.</figcaption>
+</figure>
+
+
 ## Which measures do you need, and how do they work?
 
 | Measure | Disorder | Format | Scoring |
@@ -85,6 +102,12 @@ For full explanations read the [Clinical Psychology study guide](/resources/a-le
 
 All of these produce **quantitative** data that can be compared before and after treatment. Self-report scales risk **social desirability** bias; clinician-rated scales such as the Y-BOCS reduce this but depend on inter-rater reliability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--05-cl-measures-scoring.webp" width="900" height="1100" alt="One box per item for four measures: BDI 21 items scored 0 to 3 (total 0 to 63), GAD-7 7 items 0 to 3 (0 to 21), Y-BOCS 10 items 0 to 4 (0 to 40, clinician-rated), MOCI 30 true or false items." loading="lazy">
+  <figcaption>How many items each clinical measure has and how it is scored.</figcaption>
+</figure>
+
+
 ## Key studies at a glance
 
 | Study | Method and sample | Main finding | One evaluation point |
@@ -94,6 +117,12 @@ All of these produce **quantitative** data that can be compared before and after
 | Grant et al. (2008) | Data from two double-blind placebo trials; 284 gamblers | Family history of alcoholism best predicted response to opiate antagonists | Placebo control and double-blind design support validity |
 | Chapman and DeLapp (2013) | Case study of T, a 42-year-old man who fainted at blood tests; nine sessions of manualised CBT with a SUDS fear hierarchy and applied tension | Had his own blood drawn by session 9; BAI fell from 41 to 7; gains held at 12 months | Rich detail but cannot generalise from one person |
 | Lovell et al. (2006) | Randomised non-inferiority trial; 72 OCD patients; ten sessions | Telephone ERP as effective as face to face at six months | Real patients and random allocation; therapists not blind |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--06-cl-chapman-delapp.webp" width="900" height="1225" alt="Timeline of the nine CBT sessions, an exposure ladder from a tourniquet round his arm to having his own blood drawn and taking his own blood pressure, and his Beck Anxiety Inventory score falling from 41 to 7 at follow-up." loading="lazy">
+  <figcaption>The treatment steps and result in Chapman and DeLapp (2013).</figcaption>
+</figure>
+
 
 ## Must-know comparisons
 
@@ -133,6 +162,17 @@ All of these produce **quantitative** data that can be compared before and after
 8. How many patients took part in Lovell et al. (2006)?
 
 **Answers:** (1) two weeks; (2) tricyclics, MAOIs, SSRIs; (3) self, world, future; (4) items are not needed for personal use or money, and there is tension before and relief after; (5) a family history of alcoholism; (6) because people often faint from a drop in blood pressure, and tension raises it; (7) 40; (8) 72.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--01-cl-icd-schizophrenia.webp" width="900" height="1140" alt="The ICD-11 rule: at least 2 symptoms present most of the time for at least 1 month, with at least 1 from the core group (persistent delusions, persistent hallucinations, disorganised thinking, experiences of influence, passivity or control). Symptoms are positive (hallucinations, delusions) or negative (avolition, alogia, flat affect, social withdrawal)." loading="lazy">
+  <figcaption>The ICD-11 criteria and the positive and negative symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--03-cl-twin-risk.webp" width="900" height="960" alt="Two grids of 100 people: about 1 filled in the general population, 48 filled for the identical twin of a person with schizophrenia. A bar shows 48 affected and 52 not. Concordance is not 100 percent, so environment matters too." loading="lazy">
+  <figcaption>Gottesman (1991): around 48% lifetime risk for an identical twin versus about 1% in the general population.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

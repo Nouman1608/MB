@@ -80,6 +80,12 @@ G1, S and G2 together make up **interphase**, which is usually the longest part 
 If damage cannot be repaired, the cell may be destroyed. Failure of these controls can lead to uncontrolled
 division and tumours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--01-cell-cycle.webp" width="900" height="830" alt="A ring divided into four phases in order: G1, S, G2 and M (mitosis then cytokinesis). G1, S and G2 together are interphase, the longest part of the cycle. Three checkpoints are marked: one at the end of G1, one at the end of G2 and the spindle assembly checkpoint during metaphase of mitosis. In the centre a single rod-shaped chromosome becomes an X of two sister chromatids during S phase. Phase sizes are not to scale." loading="lazy">
+  <figcaption>The cell cycle: G1, S and G2 (interphase), then mitosis and cytokinesis, with the three checkpoints.</figcaption>
+</figure>
+
+
 ## What are the stages of mitosis? (c)
 
 | Stage | Key events |
@@ -100,6 +106,12 @@ shading.
 **Worked example 1.** A student counts 160 cells, of which 24 are in a stage of mitosis. Mitotic index = 24 / 160 =
 **0.15**. If the cycle takes 20 hours, mitosis lasts about 0.15 x 20 = **3 hours**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--02-mitosis-stages.webp" width="900" height="1160" alt="Six small cell diagrams show a cell with four chromosomes going through mitosis. Prophase: chromosomes condense into two sister chromatids joined at a centromere, the nuclear envelope breaks down and centrioles move to the poles. Metaphase: chromosomes line up on the equator, attached by spindle fibres. Anaphase: centromeres divide and chromatids are pulled to opposite poles. Telophase: chromatids reach the poles and nuclear envelopes reform. Cytokinesis in an animal cell pinches the membrane inwards; in a plant cell a cell plate forms. Both daughter cells end with the same four chromosomes." loading="lazy">
+  <figcaption>Mitosis in a cell with four chromosomes: each daughter cell receives the same four.</figcaption>
+</figure>
+
+
 ## Why do organisms need mitosis and meiosis? (e) and (f)
 
 **Mitosis** produces genetically identical cells, which is needed for:
@@ -115,6 +127,12 @@ the diploid number is restored. It also produces **genetic variation** by:
 - **crossing over** in prophase I, when non-sister chromatids of homologous chromosomes exchange sections of DNA;
 - **independent assortment** in metaphase I (and of chromatids in metaphase II), when homologous pairs line up
   randomly, so many combinations of maternal and paternal chromosomes are possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--04-independent-assortment.webp" width="900" height="1000" alt="Two possible ways two homologous pairs can line up on the equator in metaphase I. In alignment 1 the two teal chromosomes are on one side and the two gold on the other, giving gametes with teal long and teal short, or gold long and gold short. In alignment 2 teal long is with gold short, giving gametes with teal long and gold short, or gold long and teal short. Together there are four different combinations from just two pairs. Real cells have many pairs, so many more combinations are possible. Crossing over is not shown." loading="lazy">
+  <figcaption>Pairs line up at random in metaphase I, so each alignment gives a different mix of parental chromosomes.</figcaption>
+</figure>
+
 
 ## What are the stages of meiosis? (g)
 
@@ -134,6 +152,12 @@ each parent, with the same genes at the same loci.
 
 OCR does not require the names of the stages within prophase I.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--03-meiosis-stages.webp" width="900" height="1300" alt="Meiosis in a cell with four chromosomes (two homologous pairs, one from each parent, shown teal and gold). In prophase I the homologous chromosomes pair up as bivalents and non-sister chromatids cross over, swapping a section. In metaphase I the pairs line up on the equator. In anaphase I the homologous chromosomes, still made of two chromatids, are pulled to opposite poles. This gives two haploid cells. In meiosis II the sister chromatids separate. The result is four haploid cells that are genetically different from each other." loading="lazy">
+  <figcaption>Meiosis I separates homologous chromosomes; meiosis II separates sister chromatids.</figcaption>
+</figure>
+
+
 ## How are cells specialised? (h)
 
 | Cell | Specialisation |
@@ -146,6 +170,17 @@ OCR does not require the names of the stages within prophase I.
 | Palisade cell | Many chloroplasts to absorb light for photosynthesis; tall, closely packed shape |
 | Root hair cell | Long extension gives a large surface area for uptake of water and mineral ions; carrier proteins for active transport |
 | Guard cell | Pair surrounds a stoma; when turgid they bend and open the stoma, because their inner walls are thicker and less flexible than their outer walls |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--05-specialised-animal-cells.webp" width="900" height="1240" alt="Five animal cells with their specialised features labelled. Erythrocyte: biconcave disc for large surface area and no nucleus so there is more room for haemoglobin. Neutrophil: multi-lobed nucleus to squeeze through gaps and lysosomes with digestive enzymes. Squamous epithelial cell: very thin and flat for a short diffusion distance. Ciliated epithelial cell: cilia that beat to move mucus and many mitochondria for ATP. Sperm cell: acrosome with enzymes, haploid nucleus, mitochondria and a flagellum for swimming. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Five animal cells: each labelled feature links to its job.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--06-specialised-plant-cells.webp" width="900" height="940" alt="Three plant cells with specialised features labelled. Palisade cells are tall and closely packed with many chloroplasts to absorb light. A root hair cell has a long extension giving a large surface area for taking up water and mineral ions, and carrier proteins in its membrane for active transport. A pair of guard cells surround a stoma; when turgid they bend and open the stoma because the inner walls are thicker and less flexible than the outer walls. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Three plant cells: palisade, root hair and guard cells.</figcaption>
+</figure>
+
 
 ## How are cells organised into tissues, organs and organ systems? (i)
 
@@ -164,6 +199,12 @@ A **tissue** is a group of similar cells (and often the material they secrete) w
 Example: the lungs are an organ made of epithelium, cartilage, muscle and blood; they form part of the gas exchange
 system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--07-tissues-organs-systems.webp" width="900" height="1240" alt="Four levels of organisation using the lungs as the example. A cell: a squamous epithelial cell. A tissue: a group of similar cells working together, squamous epithelium, a single layer of flat cells on a basement membrane. An organ: a group of tissues working together; the lungs are made of epithelium, cartilage, muscle and blood. An organ system: a group of organs; the lungs are part of the gas exchange system with the trachea and bronchi. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Levels of organisation, from one cell up to an organ system.</figcaption>
+</figure>
+
+
 ## What are stem cells and how do they differentiate? (j) to (l)
 
 **Stem cells** are undifferentiated cells that can divide repeatedly by mitosis (they are a **renewing source**) and
@@ -177,6 +218,12 @@ range) and unipotent (one type).
 - **(l) Meristems.** Meristem cells in plants (including the vascular cambium) divide and differentiate into **xylem
   vessels**, which lay down lignin, lose their contents and die to form hollow tubes, and **phloem sieve tubes**,
   which lose most organelles and develop sieve plates, supported by companion cells.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-a-level-biology-cell-division-diversity-and-organisation--08-stem-cell-lineages.webp" width="900" height="1130" alt="Two examples of differentiation. Top: a multipotent stem cell in bone marrow divides by mitosis to make more stem cells (a renewing source) and also differentiates into erythrocytes, which lose their nucleus and fill with haemoglobin, and neutrophils, which develop a lobed nucleus and many lysosomes. Bottom: a meristem cell in a plant, including the vascular cambium, differentiates into xylem vessels, which lay down lignin and lose their contents to form hollow dead tubes, and phloem sieve tubes, which have sieve plates and are supported by companion cells. Drawings are schematic and not to scale." loading="lazy">
+  <figcaption>Stem cells keep dividing and can differentiate into different specialised cells.</figcaption>
+</figure>
+
 
 ## How could stem cells be used? (m)
 

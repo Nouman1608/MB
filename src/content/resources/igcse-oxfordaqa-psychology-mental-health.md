@@ -64,6 +64,12 @@ challenges**. Recorded rates of significant mental health problems rise and fall
   feel less ashamed, more people seek help and more cases are diagnosed. Some of the rise in recorded
   incidence may therefore reflect better recognition rather than more illness.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--08-mh-incidence.webp" width="900" height="920" alt="Three causes feed into the recorded rate of mental health problems: cultural variations in beliefs about what counts as a problem, modern living with challenges such as isolation which may raise the real rate, and increased recognition with less stigma, which means more people seek help and are diagnosed. The bar is illustrative: part of a rise in recorded incidence may be better recognition rather than more illness." loading="lazy">
+  <figcaption>Recorded rates change because of cultural beliefs, the pressures of modern living and better recognition with less stigma.</figcaption>
+</figure>
+
+
 ## What effects do mental health problems have?
 
 | On individuals | On society |
@@ -71,6 +77,12 @@ challenges**. Recorded rates of significant mental health problems rise and fall
 | Damage to relationships with family and friends | Need for more social care and health services |
 | Difficulty coping with day-to-day life, such as work or study | Increased crime rates in some cases |
 | Negative impact on physical wellbeing, such as sleep, diet and illness | Economic costs: lost working days, lower productivity, cost of treatment |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--09-mh-effects.webp" width="900" height="770" alt="Two columns. On individuals: damage to relationships with family and friends, difficulty coping with day-to-day life such as work or study, and a negative impact on physical wellbeing such as sleep, diet and illness. On society: more social care and health services, increased crime rates in some cases, and economic costs including lost working days, lower productivity and cost of treatment." loading="lazy">
+  <figcaption>Mental health problems affect relationships, coping and physical wellbeing, and also social care, crime and the economy.</figcaption>
+</figure>
+
 
 ## How is OCD diagnosed and explained?
 
@@ -101,6 +113,17 @@ object) and supported not to carry out the compulsion, so they learn the anxiety
 its aim, procedure, findings and conclusion from your course materials and be ready to evaluate it
 as evidence for the therapy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--10-mh-ocd-cycle.webp" width="900" height="900" alt="A four-step loop. An obsession (a thought) causes anxiety. A compulsion (an action) is carried out to reduce the anxiety. It gives brief relief, which keeps the compulsion going, and the obsession returns." loading="lazy">
+  <figcaption>Obsessions are unwanted thoughts that cause anxiety; compulsions are repeated acts that give brief relief and keep the cycle going.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--11-mh-ocd-cbt.webp" width="900" height="1020" alt="Three steps of CBT for OCD: challenge irrational beliefs about threat and responsibility, expose the person step by step to the feared situation, and prevent the compulsion. An illustrative graph of anxiety against time during exposure rises to a peak and then falls on its own without the compulsion, so the person learns anxiety falls without it." loading="lazy">
+  <figcaption>CBT challenges irrational beliefs and uses exposure and response prevention so the person learns anxiety falls without the compulsion.</figcaption>
+</figure>
+
+
 ## How is PTSD diagnosed and explained?
 
 **Diagnosis with the ICD.** PTSD can develop after exposure to an extremely threatening or horrific
@@ -127,6 +150,22 @@ stops, the memory is processed, and anxiety reduces. **Eftekhari's study** (Efte
 2013) examined prolonged exposure delivered by therapists trained in a national programme for United
 States military veterans, and found significant reductions in PTSD and depression symptoms after
 treatment — evidence that the therapy works outside tightly controlled trials.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--12-mh-ptsd-symptoms.webp" width="900" height="1010" alt="An extremely threatening or horrific event leads to three PTSD characteristics: re-experiencing (intrusive memories, flashbacks, nightmares), avoidance of reminders (thoughts, places, people) and a persistent sense of current threat (hypervigilance and an exaggerated startle response). Symptoms last at least several weeks and cause significant impairment." loading="lazy">
+  <figcaption>PTSD after a horrific event is marked by re-experiencing, avoidance and a sense of current threat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--13-mh-ptsd-dual-memory.webp" width="900" height="940" alt="A traumatic event is stored in two memory systems: a verbal, contextual memory that can be recalled on purpose and put into words, and a sensory, situational memory of raw sights, sounds and feelings. In PTSD the sensory memory is very strong and poorly linked to the contextual one. A reminder triggers the sensory memory automatically and produces a flashback that feels like it is happening now." loading="lazy">
+  <figcaption>In dual representation theory a strong sensory memory, poorly linked to the verbal memory, is triggered automatically and is re-experienced as a flashback.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-psychology-mental-health--14-mh-ptsd-therapy.webp" width="900" height="1090" alt="Avoidance of reminders keeps fear strong. Prolonged exposure ends the avoidance with two techniques: imaginal exposure (repeatedly recounting the trauma in detail) and in-vivo exposure (gradually approaching safe situations that had been avoided, drawn as steps). Avoidance stops, the memory is processed and anxiety reduces. Eftekhari’s study of United States military veterans found significant reductions in PTSD and depression symptoms after treatment." loading="lazy">
+  <figcaption>Prolonged exposure breaks the avoidance cycle; Eftekhari found veterans’ PTSD and depression symptoms fell significantly.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

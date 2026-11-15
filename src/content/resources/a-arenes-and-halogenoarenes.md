@@ -96,6 +96,12 @@ Hydrogenation is the one reaction here that *does* add across the ring
 precisely because disrupting the delocalised system is energetically
 costly, consistent with the ring's aromatic stability.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--01-six-reactions.webp" width="900" height="1080" alt="Six panels each show benzene (or methylbenzene), an arrow with the reagents, and the product: chlorobenzene, nitrobenzene, methylbenzene, phenylethanone, benzoic acid and cyclohexane. The first five keep the delocalised ring; hydrogenation with H2, Pt or Ni and heat gives cyclohexane drawn without the circle." loading="lazy">
+  <figcaption>Benzene reacts by substitution, except hydrogenation which adds across the ring.</figcaption>
+</figure>
+
+
 ## The electrophilic substitution mechanism
 
 **Nitration of benzene.** Concentrated H₂SO₄ protonates HNO₃ and generates
@@ -130,6 +136,17 @@ intermediate before immediately restoring it in step 2. The aromatic
 stabilisation gained by keeping the ring intact is the reason electrophiles
 substitute rather than add.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--02-substitution-mechanism.webp" width="900" height="1290" alt="The electrophile E+ is made (NO2+ from concentrated HNO3 and H2SO4, or Br+ with AlBr4- from Br2 and AlBr3). A curly arrow from the delocalised ring attacks E+, giving a positive intermediate with a broken ring; a second arrow from the C-H bond rebuilds the ring as H+ is lost, and H+ with HSO4- re-forms H2SO4." loading="lazy">
+  <figcaption>The ring attacks the electrophile, then loses H+ to restore aromaticity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--03-why-substitution.webp" width="900" height="950" alt="Two columns follow the ring. In substitution the delocalised ring is briefly broken in the intermediate and then restored, keeping its aromatic stabilisation. In addition the delocalised pi system is destroyed for good, leaving isolated higher-energy double bonds, which is far less favourable. A note says hydrogenation with Pt or Ni and heat does add, at an energy cost." loading="lazy">
+  <figcaption>Substitution keeps the ring’s delocalisation; addition would destroy it.</figcaption>
+</figure>
+
+
 ## Side-chain vs ring reaction
 
 Whether halogenation occurs **in the ring** or **in the side-chain** of an
@@ -143,6 +160,12 @@ alkylbenzene depends entirely on the conditions, not the reagent alone:
   [Hydrocarbons: Alkanes and
   Alkenes](/resources/as-hydrocarbons-alkanes-and-alkenes/), just happening
   on the side-chain carbon instead of an isolated alkane carbon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--04-ring-or-side-chain.webp" width="900" height="1070" alt="Methylbenzene branches two ways. With Cl2, an AlCl3 catalyst and no light, electrophilic substitution gives 2-chloromethylbenzene and 4-chloromethylbenzene. With Cl2 and UV light and no catalyst, free-radical substitution gives chlorine on the side chain, CH2Cl." loading="lazy">
+  <figcaption>Catalyst and darkness give ring substitution; UV light with no catalyst gives side-chain substitution.</figcaption>
+</figure>
+
 
 ## Directing effects
 
@@ -164,6 +187,12 @@ delocalisation pulling electron density away), leaving the 3/5 positions
 comparatively most electron-rich of the available options. [Phenol:
 Reactions and Acidity](/resources/a-phenol-reactions-and-acidity/) applies
 the –OH directing effect in full detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--05-directing-effects.webp" width="900" height="850" alt="Two rings with the existing group at position 1 and positions 2 to 6 numbered clockwise. For -NH2, -OH and -R (activating) positions 2, 4 and 6 are highlighted; for -NO2, -COOH and -COR (deactivating) positions 3 and 5 are highlighted. Activating groups donate electrons into the ring; deactivating groups withdraw them." loading="lazy">
+  <figcaption>Activating groups direct to 2, 4, 6; deactivating groups direct to 3, 5.</figcaption>
+</figure>
+
 
 ## Halogenoarenes vs halogenoalkanes
 
@@ -192,6 +221,12 @@ Two reinforcing reasons, both traceable to the ring's delocalised system:
 Both effects point the same way, which is why the reactivity gap between
 the two is so large — halogenoarenes are essentially inert to the
 conditions that hydrolyse halogenoalkanes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-arenes-and-halogenoarenes--06-halogenoarene-inert.webp" width="900" height="1010" alt="Chloroethane and chlorobenzene are heated under reflux with NaOH(aq). Chloroethane is hydrolysed slowly to ethanol; chlorobenzene does not react. Two reasons: a chlorine lone pair delocalises into the ring, making the C-Cl bond shorter and stronger, and attack by a nucleophile at that ring carbon would disrupt the ring’s aromatic stability." loading="lazy">
+  <figcaption>Chlorobenzene resists hydrolysis because of the ring’s delocalisation.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

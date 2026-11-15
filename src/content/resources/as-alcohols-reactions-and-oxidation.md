@@ -95,6 +95,12 @@ and propane-1,2,3-triol (glycerol), HOCH₂CH(OH)CH₂OH, carries three. Each
 –OH group in such a polyhydric alcohol can be classified and reacted
 independently of the others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--01-alc-classify.webp" width="900" height="1250" alt="Three panels show the carbon that carries the OH group, with R meaning a carbon group and the other arms hydrogen. One R makes a primary alcohol, two R groups make a secondary alcohol and three R groups make a tertiary alcohol. Below, ethane-1,2-diol has an OH on each of its two carbons and propane-1,2,3-triol (glycerol) has an OH on each of three carbons; each OH group is classified separately." loading="lazy">
+  <figcaption>The number of carbon groups on the C–OH carbon makes an alcohol primary, secondary or tertiary; each –OH in a diol or triol is classified separately.</figcaption>
+</figure>
+
+
 ## Oxidation and the primary/secondary/tertiary distinction
 
 This is the central idea of the whole topic: **how far an alcohol can be
@@ -124,6 +130,17 @@ CH₃COCH₂CH₃, a ketone. Butanone has no hydrogen remaining on the carbonyl
 carbon, so acidified dichromate has nothing further to remove — the
 reaction stops at the ketone regardless of how long reflux continues.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--02-alc-oxidation.webp" width="900" height="1080" alt="Three rows show how acidified potassium dichromate oxidises alcohols. A primary alcohol, with two hydrogens on the carbon bearing OH, is oxidised by distillation to an aldehyde and by reflux on to a carboxylic acid. A secondary alcohol, with one hydrogen on that carbon, is oxidised to a ketone and stops there because the carbonyl carbon has no hydrogen. A tertiary alcohol has no hydrogen on that carbon and does not react." loading="lazy">
+  <figcaption>The hydrogens on the C–OH carbon decide how far oxidation goes: aldehyde then acid, ketone only, or no reaction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--03-alc-reflux-distil.webp" width="900" height="1290" alt="Two apparatus diagrams. Top, reflux: a flask of alcohol and acidified dichromate is heated under a vertical condenser; vapour rises, condenses and drips back, so everything stays in contact and a primary alcohol is oxidised fully to a carboxylic acid. Bottom, distillation: the flask is connected to a sloping condenser leading to a receiving flask; the aldehyde distils off as it forms and is collected, so oxidation stops at the aldehyde." loading="lazy">
+  <figcaption>The same oxidising agent gives an aldehyde if the product is distilled off as it forms and a carboxylic acid if the mixture is refluxed.</figcaption>
+</figure>
+
+
 ## The distinguishing test
 
 Mild oxidation with acidified K₂Cr₂O₇ gives a direct visual test: the
@@ -131,6 +148,12 @@ orange Cr₂O₇²⁻ ion is reduced to the green Cr³⁺ ion whenever oxidation
 occurs. **Primary and secondary alcohols turn the solution from orange to
 green**; a **tertiary alcohol leaves it orange**, because no oxidation
 happens.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--04-alc-dichromate-test.webp" width="900" height="1040" alt="Three rows of test tubes. In each row an orange acidified dichromate solution is warmed with an alcohol. With a primary alcohol the solution turns green, as it does with a secondary alcohol, showing the alcohol is oxidised. With a tertiary alcohol the solution stays orange because no oxidation happens." loading="lazy">
+  <figcaption>Orange dichromate turns green when a primary or secondary alcohol is oxidised and stays orange with a tertiary alcohol.</figcaption>
+</figure>
+
 
 ## The iodoform (tri-iodomethane) test
 
@@ -140,6 +163,12 @@ test identifies the CH₃CH(OH)– fragment specifically — ethanol gives a
 positive result (R = H), as does any alcohol with that exact grouping;
 alcohols without a methyl group directly on the carbinol carbon give a
 negative result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--05-alc-iodoform.webp" width="900" height="1080" alt="Three rows. Ethanol and butan-2-ol both contain the CH3CH(OH) group, highlighted in gold, and give a yellow precipitate of tri-iodomethane (CHI3) with alkaline aqueous iodine, along with an RCO2 minus ion. Propan-1-ol has no methyl group on the carbon bearing OH, so no yellow precipitate forms. The test is specific to the CH3CH(OH) group and is not a general test for alcohols." loading="lazy">
+  <figcaption>Only alcohols containing the CH₃CH(OH)– group, such as ethanol and butan-2-ol, give the yellow precipitate of CHI₃; propan-1-ol does not.</figcaption>
+</figure>
+
 
 ## The other reactions of alcohols
 
@@ -165,6 +194,12 @@ concentrated H₂SO₄ as catalyst, forms an ester and water — CH₃COOH +
 C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O. This is an equilibrium, so yield is limited
 unless the water (or the ester) is removed as it forms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--06-alc-reactions-hub.webp" width="900" height="1000" alt="Ethanol sits at the centre with six arrows to six reactions. Combustion in excess oxygen gives carbon dioxide and water. HBr gas gives bromoethane and water. Sodium gives sodium ethoxide and hydrogen. Acidified dichromate oxidises it to an aldehyde and then a carboxylic acid. Heating with aluminium oxide or a concentrated acid dehydrates it to ethene and water. Refluxing with ethanoic acid and concentrated sulfuric acid gives the ester ethyl ethanoate and water in an equilibrium." loading="lazy">
+  <figcaption>Ethanol burns, is halogenated, reacts with sodium, is oxidised, is dehydrated and forms esters; the equations come from the lesson.</figcaption>
+</figure>
+
+
 ## Acidity of alcohols compared with water
 
 Alcohols are weaker acids than water. The alkyl group attached to the oxygen
@@ -175,6 +210,12 @@ than hydroxide (OH⁻), since the same electron-donating effect concentrates
 negative charge on an already electron-rich oxygen rather than dispersing
 it. Both effects push the equilibrium away from ionisation, so alcohols
 ionise less readily than water and are the weaker acid.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-alcohols-reactions-and-oxidation--07-alc-acidity.webp" width="900" height="1060" alt="Two rows compare water and ethanol. Water, H2O, ionises to H+ and OH minus. Ethanol, C2H5OH, ionises to H+ and C2H5O minus, but its alkyl group pushes electrons onto the oxygen by the inductive effect, so the O-H hydrogen is released less easily and the alkoxide ion is less stable than hydroxide. Ethanol is therefore less ionised and a weaker acid than water." loading="lazy">
+  <figcaption>The electron-donating alkyl group makes ethanol ionise less readily than water, so it is the weaker acid.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

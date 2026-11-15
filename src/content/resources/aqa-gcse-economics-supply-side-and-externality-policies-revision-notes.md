@@ -35,6 +35,12 @@ These notes condense **sections 3.2.3.3 Supply-side policies and 3.2.3.4 Policie
 
 **Supply-side policies** aim to raise the **productive capacity** of the economy: the quantity of goods and services it can produce. They work by improving the quantity or quality of the factors of production, or by making markets work more efficiently. Fiscal and monetary policy mainly change **demand**; supply-side policies change what the economy is **able** to supply.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--05-externalities.webp" width="900" height="1030" alt="Two panels. Negative: a buyer pays a factory, pollution is an unpaid cost to a third party, so the good tends to be over-produced. Positive: a buyer pays for vaccination, others benefit for free, so it tends to be under-produced." loading="lazy">
+  <figcaption>An externality is a cost or benefit to a third party that the price ignores.</figcaption>
+</figure>
+
+
 ### The policies the specification names
 
 | Policy | How it works | UK example |
@@ -65,9 +71,31 @@ Other examples include infrastructure (roads, rail, broadband) and policies to e
 | Reduce structural unemployment | Some (tax cuts for high earners, weaker unions, privatisation) may widen inequality or reduce job security |
 | | Privatised firms may become private monopolies that need regulation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--04-costs-now-gains-later.webp" width="900" height="960" alt="An illustrative chart over ten years: four bars of spending in years 1 to 4 and a curve of extra output that is small at first and large only later, with a double arrow marking the wait." loading="lazy">
+  <figcaption>Supply-side policies cost money early but their gains arrive years later.</figcaption>
+</figure>
+
+
 ### Calculation: productivity
 
 A factory produces 2,400 units a week with 60 workers, so output per worker is 2,400 ÷ 60 = **40 units**. After a training scheme the same 60 workers produce 2,760 units: 2,760 ÷ 60 = **46 units**. Productivity rose by 6 ÷ 40 × 100 = **15%**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--01-spending-vs-capacity.webp" width="900" height="990" alt="An illustrative production possibility curve. Point A is inside PPC1. A demand-side policy moves the economy from A to B on PPC1. A supply-side policy shifts the whole curve out to PPC2, so point C becomes possible." loading="lazy">
+  <figcaption>Demand-side policy changes how much is spent; supply-side policy changes how much can be produced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--02-six-policies.webp" width="900" height="1010" alt="Six tiles with icons: education and training, lower income tax, lower profit tax, trade union reform, privatisation and deregulation, each with its one-line effect from the lesson table." loading="lazy">
+  <figcaption>Each named supply-side policy works by raising productive capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--03-help-objectives.webp" width="900" height="1060" alt="Productive capacity rises, so output can grow without pushing up prices. This links to four objectives: growth (real GDP rises), full employment (training cuts structural unemployment), price stability and the balance of payments (lower costs make exports competitive)." loading="lazy">
+  <figcaption>Rising capacity supports all four objectives at once.</figcaption>
+</figure>
+
 
 ## Part B: Policies to correct externalities (3.2.3.4)
 
@@ -82,6 +110,12 @@ Reminder: an **externality** is a cost or benefit to a third party. With a **neg
 | Charges | Make people pay to use something that harms others | The London congestion charge (2003), charges for single-use carrier bags |
 | Information and education | Changes behaviour by showing the harm | Health warnings on cigarette packets, anti-drink-driving campaigns |
 | Pollution permits | Firms must hold a permit for each tonne emitted; permits can be traded | The UK Emissions Trading Scheme |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--06-tax-and-subsidy.webp" width="900" height="1090" alt="Two market diagrams. A tax shifts supply up: price rises 12 to 14 pounds and output falls 80 to 60. A subsidy shifts supply down: price falls 14 to 12 pounds and output rises 60 to 80. All numbers illustrative." loading="lazy">
+  <figcaption>Tax reduces output of a harmful good; subsidy raises output of a beneficial one.</figcaption>
+</figure>
+
 
 ### Policies for positive externalities
 
@@ -102,6 +136,12 @@ Reminder: an **externality** is a cost or benefit to a third party. With a **neg
 **2. Setting the tax.** Private cost is £20 per unit and the external cost is £8 per unit, so the social cost is **£28**. A tax of £8 per unit makes the price reflect the full social cost.
 
 **3. Cost of a subsidy.** A subsidy of £50 per unit on 3,000 units costs the government 50 × 3,000 = **£150,000**. That money has an opportunity cost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-economics-supply-side-and-externality-policies--07-pollution-tax.webp" width="900" height="930" alt="Waste falls from 50,000 kg to 35,000 kg a year, a 30 percent fall. Tax paid is 35,000 x 2 = 70,000 units, revenue that could fund clean-up." loading="lazy">
+  <figcaption>A pollution tax cut waste by 30 percent and raised 70,000 units.</figcaption>
+</figure>
+
 
 ### Evaluating the policies
 

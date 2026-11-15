@@ -80,6 +80,17 @@ Oxygen contributes −2 each, four oxygens = −8. The ion's overall charge is
 the manganate(VII) ion is named with the Roman numeral (VII) — it states
 the oxidation number of the manganese directly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-redox-processes--15-redox-oxidation-number-rules.webp" width="900" height="970" alt="Five rules for oxidation numbers, applied in order. An atom on its own is 0, for example Cl2 or Fe. A simple ion equals its charge, for example Na+ is +1 and O2- is -2. Combined oxygen is -2, except in peroxides where it is -1. Combined hydrogen is +1, except in metal hydrides where it is -1. The numbers in a neutral compound sum to 0, and in a polyatomic ion they sum to the ion charge." loading="lazy">
+  <figcaption>Rules for assigning oxidation numbers, with the exceptions for oxygen and hydrogen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-redox-processes--16-redox-mno4-oxidation-number.webp" width="900" height="930" alt="A bar chart that builds up the charge of the MnO4 minus ion. The manganese bar rises to plus 7. Four oxygen bars each fall by 2, to plus 5, plus 3, plus 1 and minus 1, a total of minus 8. The final bar shows the ion charge of minus 1. So Mn is +7 and the ion is named manganate(VII)." loading="lazy">
+  <figcaption>Mn in MnO4- is +7 because +7 plus four oxygens at -2 gives the ion charge of -1.</figcaption>
+</figure>
+
+
 ## Oxidation, reduction and the vocabulary of redox
 
 In terms of oxidation number: **oxidation** is an *increase* in oxidation
@@ -103,6 +114,17 @@ Cl₂ + 2NaOH → NaCl + NaOCl + H₂O
 Chlorine starts at oxidation number 0. In NaCl, it ends at −1 (reduced); in
 NaOCl, it ends at +1 (oxidised) — the same element, from the same starting
 reagent, going in both directions in the same reaction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-redox-processes--17-redox-oxidation-reduction.webp" width="900" height="930" alt="A vertical oxidation number axis. Iron goes up from +2 in Fe2+ to +3 in Fe3+: oxidation, losing one electron, so Fe2+ is the reducing agent. Manganese goes down from +7 in MnO4- to +2 in Mn2+: reduction, gaining five electrons, so MnO4- is the oxidising agent. An arrow shows electrons passing from the iron to the manganese. OIL RIG: oxidation is loss, reduction is gain." loading="lazy">
+  <figcaption>Fe2+ is oxidised (+2 to +3) and MnO4- is reduced (Mn +7 to +2): the oxidising agent is the species that is itself reduced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-redox-processes--18-redox-disproportionation.webp" width="900" height="780" alt="Oxidation number of chlorine on a vertical axis. Chlorine in Cl2 is 0. In the reaction with cold dilute sodium hydroxide it forms NaOCl, where chlorine is +1 (oxidised, arrow up), and NaCl, where chlorine is -1 (reduced, arrow down). Cl2 + 2NaOH gives NaCl + NaOCl + H2O. A single species being both oxidised and reduced is disproportionation." loading="lazy">
+  <figcaption>In Cl2 + 2NaOH, chlorine goes from 0 to +1 and to -1: one species, oxidised and reduced.</figcaption>
+</figure>
+
 
 ## Balancing equations by oxidation-number change
 
@@ -128,6 +150,12 @@ H₂O; those 4 H₂O need 8 H⁺:
 
 **Step 4 — check.** Charge: left = (−1) + 5(+2) + 8(+1) = +17; right =
 (+2) + 5(+3) + 0 = +17. Atoms: 1 Mn, 5 Fe, 4 O, 8 H on each side. Balanced.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-redox-processes--19-redox-balancing.webp" width="900" height="990" alt="Four steps balance MnO4- + Fe2+ + H+ giving Mn2+ + Fe3+ + H2O. Step 1: manganese goes from +7 to +2 and gains 5 electrons; iron goes from +2 to +3 and loses 1. Step 2: one MnO4- takes 5 electrons, so 5 Fe2+ are needed to give 5. Step 3: 4 oxygens need 4 H2O, which need 8 H+. Step 4: the balanced equation MnO4- + 5Fe2+ + 8H+ gives Mn2+ + 5Fe3+ + 4H2O has charge +17 on both sides and equal atoms." loading="lazy">
+  <figcaption>Balance by equalising electrons gained and lost, then balance O and H and check charge and atoms.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

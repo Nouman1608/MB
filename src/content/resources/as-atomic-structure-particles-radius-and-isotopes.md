@@ -85,6 +85,12 @@ almost all of an atom's mass sits in the nucleus, while almost all of an
 atom's *volume* is the empty space occupied by the electrons — the atom is,
 by volume, mostly empty space around a tiny, dense nucleus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--01-atom-mass-and-space.webp" width="900" height="1050" alt="A schematic atom shows a tiny nucleus of protons and neutrons, enlarged in a callout, inside electron shells and mostly empty space. A table lists proton +1 and 1, neutron 0 and 1, electron -1 and 1/1840." loading="lazy">
+  <figcaption>Almost all the mass is in the tiny nucleus; almost all the volume is empty space.</figcaption>
+</figure>
+
+
 ## Behaviour in an electric field
 
 A beam of protons, neutrons and electrons travelling at the same velocity
@@ -98,6 +104,12 @@ the protons, because their mass is so much smaller for the same charge
 magnitude.
 - **Neutrons** pass straight through, undeflected, because they carry no
 charge and an electric field exerts no force on them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--02-beams-in-electric-field.webp" width="900" height="940" alt="A beam at one velocity passes between a negative plate above and a positive plate below. The proton bends slightly towards the negative plate, the neutron goes straight on, and the electron bends towards the positive plate through a much larger angle." loading="lazy">
+  <figcaption>Charge decides the direction of deflection; mass decides how far.</figcaption>
+</figure>
+
 
 ## Atomic and ionic radius trends
 
@@ -145,6 +157,22 @@ atomic radius ~0.099 nm grows to an ionic radius of ~0.181 nm. These two example
 </figure>
 <!-- /marlbridge-diagram:as-parent-atom-ion-radius-shells -->
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--03-radius-across-period.webp" width="900" height="800" alt="Sodium and chlorine are drawn to the same scale from the lesson radii 0.191 nm and 0.099 nm. Both have three shells and ten inner electrons, but chlorine has nuclear charge +17 against +11, so its outer electrons are pulled in harder." loading="lazy">
+  <figcaption>Across a period nuclear charge rises while shielding stays about the same, so atoms shrink.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--04-radius-down-group.webp" width="900" height="800" alt="Three schematic atoms from one group have two, three and four shells. Each added shell puts the outer electron further out with more shielding, which outweighs the rise in nuclear charge, so the atom gets larger." loading="lazy">
+  <figcaption>Down a group each extra shell adds distance and shielding, so atoms get larger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--05-ion-radius-na-cl.webp" width="900" height="920" alt="Na (0.191 nm) loses its outer shell to form Na+ (0.095 nm). Cl (0.099 nm) gains an electron in the same outer shell to form Cl- (0.181 nm). Circles are drawn to scale from these values." loading="lazy">
+  <figcaption>Cations are smaller than their atoms; anions are larger.</figcaption>
+</figure>
+
+
 ## Isotopes
 
 **Isotopes** are atoms of the same element (same proton/atomic number) with
@@ -163,6 +191,12 @@ the atomic number as a subscript before the element symbol, for example
   <figcaption>Isotopes: electron chemistry versus nuclear mass. Cambridge International AS Chemistry 9701; no Core/Extended split. Select the image to enlarge it.</figcaption>
 </figure>
 <!-- /marlbridge-diagram:as-isotopes-electrons-mass-density -->
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--06-isotopes-chlorine.webp" width="900" height="900" alt="Two chlorine nuclei each hold 17 protons; chlorine-35 has 18 neutrons and chlorine-37 has 20. Both have 17 electrons arranged 2, 8, 7, so their chemistry is very similar but their masses differ." loading="lazy">
+  <figcaption>Isotopes share the electron arrangement and differ in neutron number.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

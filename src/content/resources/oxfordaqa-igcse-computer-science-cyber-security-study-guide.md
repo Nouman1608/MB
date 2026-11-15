@@ -43,9 +43,21 @@ People attack systems for financial gain (stealing card details or demanding pay
 
 The main defence is training and awareness, along with sensible procedures, such as never giving a password by phone or email.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--08-social-engineering.webp" width="900" height="970" alt="Four panels, one for each social engineering technique. Phishing: an envelope with a click button and a hook, a fake email or text that tempts you to click or reply. Pharming: a browser window with the right address typed is redirected by an arrow to a window marked FAKE site. Blagging: a phone and a speech bubble saying I am from your bank, an invented story that gets information. Shouldering: an eye watching a keypad, someone watching a PIN or password being entered. A note says the main defence is training and awareness." loading="lazy">
+  <figcaption>Phishing, pharming, blagging and shouldering trick people instead of breaking technical defences.</figcaption>
+</figure>
+
+
 ## Malware
 
 **Malware** is software designed to harm a system or steal data. A **virus** attaches itself to a file and spreads when that file is opened or shared. A **worm** spreads by itself across a network without a host file. A **trojan** pretends to be useful software but contains harmful code. **Ransomware** locks or encrypts files and demands payment for release. **Spyware** secretly records what the user does, such as keystrokes. Effects include deleted or corrupted files, stolen data, slower computers and loss of control of the machine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--09-malware-types.webp" width="900" height="1036" alt="Five rows, one per kind of malware, each with a simple icon. Virus: a document with a bug attached; it attaches to a file and spreads when the file is opened. Worm: three linked computers with a wriggling red line between them; it spreads itself across a network with no host file. Trojan: a box marked FREE with a bug hidden inside; it looks like useful software but contains harmful code. Ransomware: a locked document; it locks or encrypts files and demands payment. Spyware: an eye above keys; it secretly records what you do, such as keystrokes. Effects listed are deleted files, stolen data and a slower computer." loading="lazy">
+  <figcaption>Five kinds of malware and what each one does.</figcaption>
+</figure>
+
 
 ## Other threats
 
@@ -54,6 +66,17 @@ The main defence is training and awareness, along with sensible procedures, such
 - **Data interception**: capturing data as it travels across a network, for example on an unsecured public Wi-Fi.
 - **SQL injection**: entering SQL code into a web form field so that the database runs it, which can reveal or change data. Checking and sanitising user input prevents it.
 - **Poor network policy**: weak passwords, no staff training, unpatched software and no rules about devices all leave gaps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--10-dos-attack.webp" width="900" height="1050" alt="Two panels. DoS: one attacker computer sends six arrows of requests at a server, which is too busy; a genuine user trying to reach the server has a dashed arrow blocked by a cross. DDoS, the distributed version: six attacker computers each send requests at the same server at once, and the genuine user is again blocked. The result in both cases is that so many requests arrive that genuine users cannot get in." loading="lazy">
+  <figcaption>A DoS attack floods a server with requests; a DDoS attack does it from many computers at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--14-sql-injection.webp" width="900" height="820" alt="Two lanes. In the first, input is not checked: SQL code typed into a web form field goes straight to the database, which runs it, so data is revealed or changed. In the second, input is checked and sanitised before it reaches the database, so the SQL code is treated as plain text and not run and the data stays safe." loading="lazy">
+  <figcaption>Checking and sanitising input stops SQL code typed into a form from running.</figcaption>
+</figure>
+
 
 ## Detecting and preventing threats
 
@@ -72,6 +95,12 @@ The main defence is training and awareness, along with sensible procedures, such
 
 **Encryption** converts plaintext into ciphertext using an algorithm and a key. Only someone with the right key can turn it back. It does not stop data from being intercepted; it makes intercepted data useless. A firewall does not remove malware that is already inside a device, which is why several layers of defence are used together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--12-encryption.webp" width="900" height="930" alt="A flow diagram. The plaintext HELLO is encrypted using an algorithm and a key to give the ciphertext KHOOR. The ciphertext is sent across the network. An eye representing an interceptor sees only KHOOR, which is unreadable without the key. The receiver decrypts the ciphertext with the key and gets HELLO again. The example cipher, shifting each letter by 3, is illustrative and not from the lesson. A note says encryption does not stop interception but makes intercepted data useless." loading="lazy">
+  <figcaption>Encryption does not stop interception; it makes intercepted data unreadable without the key.</figcaption>
+</figure>
+
+
 ## Worked example 1: how long does brute force take?
 
 A hacker's program tries guesses at a steady rate. Compare three passwords.
@@ -84,11 +113,23 @@ A hacker's program tries guesses at a steady rate. Compare three passwords.
 
 Lengthening the password and widening the character set increase the number of combinations dramatically, which is why both are recommended. The average attack finds the password in about half of the worst-case time, but the exam answer should use the total number of combinations unless told otherwise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--11-brute-force-time.webp" width="900" height="921" alt="Three horizontal bars on a logarithmic scale of the number of combinations. A 4-digit PIN has 10 to the power 4, which is 10,000 combinations, and takes 10 seconds at 1,000 guesses per second. A 6-character lower-case password has 26 to the power 6, which is 308,915,776 combinations, and takes 308.9 seconds, just over 5 minutes, at 1,000,000 guesses per second. An 8-character password of upper-case, lower-case and digits has 62 to the power 8, which is 218,340,105,584,896 combinations, and takes about 60.7 hours, about 2.5 days, at 1,000,000,000 guesses per second." loading="lazy">
+  <figcaption>Longer passwords with more character types have vastly more combinations to try.</figcaption>
+</figure>
+
+
 ## Worked example 2: recommending protection
 
 A medical clinic stores patient records on a server that staff use from their own devices, and it also has a public website with an appointment form. Recommend protection.
 
 Strong measures would be: encryption of records stored on the server and sent across the network, so intercepted data cannot be read; user access levels so that reception staff can see appointments but not full medical notes; a firewall to block unauthorised connections; anti-malware software and automatic updates on every device; and staff training about phishing and blagging. For the web form, validate and sanitise input to prevent SQL injection. Penetration testing would then check that the measures work. A clear answer links each measure to a specific threat in the scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-cyber-security-study-guide--13-clinic-defences.webp" width="900" height="830" alt="A diagram of a medical clinic. On the left, the internet with an attacker whose arrow is stopped at a brick firewall wall, and an authorised tester who is allowed to probe the defences. On the right, the clinic network: the patient records server with encryption and access levels per role; staff devices with anti-malware, automatic updates and staff training on phishing; and the appointment form on the public website, where input is validated and sanitised to stop SQL injection. A note says a firewall controls traffic but does not remove malware." loading="lazy">
+  <figcaption>Each measure in the clinic answers a specific threat.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

@@ -37,6 +37,17 @@ Students must also be able to **discuss the challenges facing legislators in the
 
 The specification does **not** name any particular law, so no Act is required learning. You may cite real law as evidence (see below), but the marks come from the quality of the discussion.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--13-three-capacities.webp" width="900" height="950" alt="Three capacities computing has transformed: monitoring behaviour (CCTV, location, online activity), amassing and analysing personal information (targeting ads, deciding loans and jobs) and distributing and publishing personal information (worldwide at once, hard to remove)." loading="lazy">
+  <figcaption>Computing has transformed how behaviour is monitored, data is analysed and information is published.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--14-embedded-values.webp" width="900" height="830" alt="A designer chooses what the software measures, what it optimises and who it was tested on. These choices go into the software, so a design acceptable in one culture may not be in another." loading="lazy">
+  <figcaption>Software carries the values of the people who design it.</figcaption>
+</figure>
+
+
 ## How should you organise an answer?
 
 Use the specification's own four headings:
@@ -47,6 +58,12 @@ Use the specification's own four headings:
 - **Cultural** issues: changes to ways of life, values and expectations, which differ between communities and countries.
 
 For each, give an **opportunity** (benefit) and a **risk** (harm), say **who** is affected, and link it to the scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--12-four-headings.webp" width="900" height="850" alt="Four boxes: individual (moral), what is right or wrong for a person; social (ethical), effects on groups and society; legal, what the law allows and where it lags; cultural, ways of life and values that differ by place. For each give an opportunity, a risk and who is affected." loading="lazy">
+  <figcaption>Organise issues under individual, social, legal and cultural headings.</figcaption>
+</figure>
+
 
 ## What are the main areas to discuss?
 
@@ -66,6 +83,12 @@ Information can now be published to the whole world instantly and is hard to rem
 
 Because software embeds the values of the people who design it (what it measures, what it optimises, who it was tested on), developers carry moral responsibility. A design choice that is acceptable in one culture may not be in another. Because software runs at a global scale, one decision by a small team can affect millions of people, for good (free access to information, medical tools) or harm (a security flaw, a biased algorithm, a feature that spreads misinformation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--15-scale-good-harm.webp" width="900" height="950" alt="A small team makes one decision in software that reaches millions of users. This can do great good (free access to information, medical tools) or great harm (a security flaw, a biased algorithm, a feature that spreads misinformation)." loading="lazy">
+  <figcaption>At global scale one decision can do great good or great harm.</figcaption>
+</figure>
+
+
 ## What challenges face legislators in the digital age?
 
 | Challenge | Why it is hard |
@@ -78,6 +101,12 @@ Because software embeds the values of the people who design it (what it measures
 | **Unforeseen uses** | A law written for one technology may not fit a new one, such as AI-generated content |
 
 **Citing real law (optional evidence).** If you refer to a law, say accurately what it does. In the UK, for example, the Data Protection Act 2018 governs how organisations process personal data, and the Computer Misuse Act 1990 makes unauthorised access to computer material an offence. Naming an Act without explaining its relevance earns nothing, and an inaccurate claim weakens the answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--16-legislator-challenges.webp" width="900" height="850" alt="Six challenges: pace of change, jurisdiction, enforcement, balancing rights, technical understanding and unforeseen uses, each with a short reason from the lesson table." loading="lazy">
+  <figcaption>Six challenges make it hard for law to keep up with technology.</figcaption>
+</figure>
+
 
 ## Worked example: building an extended answer
 
@@ -93,6 +122,12 @@ Plan the answer as a short sequence of paragraphs, each with a point, an explana
 6. **Conclusion:** weigh the two sides and give a judgement, for example that the system is acceptable only as an aid to staff, with oversight and regular audit.
 
 This structure covers opportunity, risk, law and judgement, which is what an extended-response mark scheme rewards. A reply that lists only advantages or only disadvantages is one-sided and is unlikely to earn the top marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide--17-answer-plan.webp" width="900" height="870" alt="Six steps for the hospital AI example: opportunity (social), risk (ethical), risk (moral), legal, cultural, then a conclusion with a judgement, each with a short point from the lesson." loading="lazy">
+  <figcaption>Plan one point per paragraph, then weigh both sides in a conclusion.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

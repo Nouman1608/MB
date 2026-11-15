@@ -103,6 +103,22 @@ neither atom dominates, and the pair is genuinely shared — the bond is
 compare given Pauling values and reason about which end of the spectrum a
 bond sits at.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--07-electronegativity-trends.webp" width="900" height="844" alt="A grid of Period 2 (Li to F) above Period 3 (Na to Cl) shaded from low to high Pauling electronegativity. Values rise left to right across each period, and each Period 3 element is lower than the one above it. Fluorine, 3.98, is the most electronegative." loading="lazy">
+  <figcaption>Electronegativity rises across a period and falls down a group; fluorine is highest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--08-electronegativity-why.webp" width="900" height="1160" alt="Atoms drawn as nuclei with electron shells and a gold bonding pair. Across a period sodium (+11) and chlorine (+17) have the same three shells and ten inner electrons, but chlorine pulls harder. Down a group fluorine (+9, two shells) pulls its pair closer than chlorine (+17, three shells), which has an extra shell and more shielding." loading="lazy">
+  <figcaption>More nuclear charge, less shielding and a smaller radius all strengthen the pull on a bonding pair.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--09-bond-type-spectrum.webp" width="900" height="930" alt="A bar shades from shared (covalent) to transferred (ionic) by electronegativity difference. Cl-Cl (0) shares equally, H-Cl (0.96) pulls the pair towards chlorine, and NaCl (2.23) and CaF2 (2.98) have the pair almost entirely on the non-metal. There is no fixed cut-off." loading="lazy">
+  <figcaption>A larger electronegativity difference makes a bond more ionic; there is no fixed cut-off.</figcaption>
+</figure>
+
+
 ## Ionic bonding
 
 **Ionic bonding** is the electrostatic attraction between oppositely charged
@@ -123,6 +139,17 @@ lattice structure you met at IGCSE, now understood as a direct consequence
 of the electronegativity difference between the two elements being large
 enough to favour complete electron transfer over sharing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--10-ionic-transfer.webp" width="900" height="990" alt="Three rows show electron transfer. NaCl: Na 2,8,1 gives one electron to Cl 2,8,7, giving Na+ 2,8 and Cl- 2,8,8. MgO: Mg 2,8,2 gives two electrons to O 2,6, giving Mg2+ 2,8 and O2- 2,8. CaF2: Ca 2,8,8,2 gives one electron to each of two F 2,7, giving Ca2+ 2,8,8 and two F- 2,8." loading="lazy">
+  <figcaption>Ionic bonding forms by electron transfer to give ions with full outer shells.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--11-ionic-lattice.webp" width="900" height="1030" alt="A flat five by five layer of alternating positive and negative ions, each joined to its nearest neighbours, with one ion ringed to show attraction from every neighbour. Below, three boxes show the ion ratio: NaCl 1:1, MgO 1:1 and CaF2 1:2." loading="lazy">
+  <figcaption>Oppositely charged ions attract in all directions to build a giant lattice.</figcaption>
+</figure>
+
+
 ## Metallic bonding
 
 **Metallic bonding** is the electrostatic attraction between positive metal
@@ -141,6 +168,17 @@ bond, since the electron sea simply redistributes around them), and
 generally high melting points (a great many electrostatic attractions must
 be overcome at once). AS Level adds nothing new to the properties — the
 value added here is the precise, formal definition in electrostatic terms.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--12-metallic-bond.webp" width="900" height="960" alt="A regular lattice of fifteen positive metal ions with forty small delocalised electrons between them, and a key. The metallic bond is the attraction between the lattice of ions and the delocalised electrons throughout the structure, not a bond between two particular atoms." loading="lazy">
+  <figcaption>Metallic bonding is the attraction between positive metal ions and delocalised electrons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-chemical-bonding-electronegativity-ionic-and-metallic-bonds--13-metal-properties.webp" width="900" height="1050" alt="Three rows. Conductivity: delocalised electrons carry charge freely. Malleability: a layer of ions slides over another and the electrons re-spread, so no specific bond breaks. High melting point: a great many electrostatic attractions must be overcome at once." loading="lazy">
+  <figcaption>Delocalised electrons explain conductivity, malleability and high melting points.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

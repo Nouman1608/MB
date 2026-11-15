@@ -43,6 +43,12 @@ Production and consumption usually happen in different places, so goods must be 
 - **Place**: goods are moved from where they are produced to where they are bought, such as copper from a mine to a port or clothes from a factory to a shop.
 - **Quantity**: the right amount arrives, so the business neither runs short nor holds far more than it needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--08-transport-functions.webp" width="900" height="870" alt="Three panels show time (a clock and a crate), place (an arrow from factory to shop) and quantity (a stack of crates with a tick)." loading="lazy">
+  <figcaption>Transport adds value by delivering goods at the right time, to the right place and in the right quantity.</figcaption>
+</figure>
+
+
 ## What are the methods of transport and their advantages? (4.1)
 
 | Method | Examples named in the syllabus | Advantages | Disadvantages |
@@ -55,6 +61,12 @@ Production and consumption usually happen in different places, so goods must be 
 
 A **tanker** carries liquids such as oil in bulk. A **cargo liner** sails a regular route to a timetable, so traders know when space is available. A **ferry** carries vehicles and goods on short sea crossings. Many journeys combine methods, for example road to a port, sea to another country and rail inland.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--09-five-transport-methods.webp" width="900" height="1060" alt="Five rows give an icon, one advantage and one disadvantage for each of road, rail, air, sea and pipeline." loading="lazy">
+  <figcaption>Each method of transport has a typical advantage and disadvantage.</figcaption>
+</figure>
+
+
 ## How should a business choose a method of transport? (4.1)
 
 The syllabus lists six factors. Work through the ones that matter in the scenario, then make a clear recommendation.
@@ -66,6 +78,12 @@ The syllabus lists six factors. Work through the ones that matter in the scenari
 5. **Distance**: local deliveries suit road; long international journeys suit sea or air.
 6. **Reliability of transporter**: the carrier's record of delivering on time and without loss.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--10-choose-transport-roses.webp" width="900" height="940" alt="Fresh roses needed for a festival in five days go by refrigerated air freight, because sea takes weeks and would arrive too late. Iron ore, heavy, cheap and not urgent, goes by bulk ship." loading="lazy">
+  <figcaption>The best method depends on the nature of the goods, urgency, distance and cost.</figcaption>
+</figure>
+
+
 ## What is containerisation, and why does it matter? (4.1)
 
 **Containerisation** means packing goods into standard-sized metal containers that can be lifted by crane between ships, trains and trucks without being unpacked. **Transshipment** is the transfer of containers from one ship or vehicle to another at a hub port on the way to the final destination; large ships carry containers between hubs and smaller feeder ships take them on to smaller ports.
@@ -76,6 +94,12 @@ The syllabus lists six factors. Work through the ones that matter in the scenari
 | Sealed containers reduce theft and damage | Smaller ports cannot handle large container ships |
 | Lower labour and insurance costs | Empty containers have to be returned, which costs money |
 | Easy transfer between road, rail and sea | Not suitable for every cargo, for example some bulk liquids |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--11-containerisation.webp" width="900" height="1010" alt="Five steps follow one standard container from truck to port, onto a large ship, through transshipment at a hub port onto a feeder ship, and by train or truck to the final destination without being unpacked." loading="lazy">
+  <figcaption>Containers move between road, rail and sea without unpacking, with transshipment at hub ports.</figcaption>
+</figure>
+
 
 ## Worked example 1: choosing a transport method
 
@@ -101,6 +125,12 @@ A **warehouse** stores goods until they are needed. The syllabus names five func
 | Price stability | Releasing stored goods steadily avoids sharp rises in price when supply is short and falls when supply is plentiful |
 | Logistics postponement | Final steps such as labelling, packing or simple assembly are delayed until orders are known, often at a warehouse near the customer, so stock matches demand |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--12-warehouse-smoothing.webp" width="900" height="970" alt="Illustrative bar charts show a crop harvested once a year, the stock held in the warehouse falling by 10 a month to zero, and steady sales of 10 a month all year." loading="lazy">
+  <figcaption>A warehouse lets goods produced once a year be sold steadily all year.</figcaption>
+</figure>
+
+
 ## Which types of warehouse are there? (4.2)
 
 - A **bonded warehouse** stores imported goods on which customs duty has not yet been paid. The importer pays the duty only when the goods are released for sale, which helps cash flow, and pays none if the goods are re-exported.
@@ -108,9 +138,21 @@ A **warehouse** stores goods until they are needed. The syllabus names five func
 - A **cash and carry** warehouse is a self-service wholesaler where small retailers choose goods, pay at once and transport them themselves.
 - A **regional distribution centre (RDC)** is a large warehouse owned by a retail chain. Suppliers deliver full loads to the RDC, which sends mixed loads to the chain's shops in that region.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--13-warehouse-types.webp" width="900" height="980" alt="Four cards show a bonded warehouse (crate and padlock, duty not yet paid), cold storage (snowflake), cash and carry (trolley) and a regional distribution centre sending mixed loads to shops." loading="lazy">
+  <figcaption>Each warehouse type suits a different kind of goods or customer.</figcaption>
+</figure>
+
+
 ## How does automation change warehousing? (4.2)
 
 The syllabus names three uses of automation: **robotics** (robots that move shelves and pick items), **automated sorting** (conveyors and scanners that route parcels to the right loading bay) and **voice picking** (workers wear headsets and follow spoken instructions telling them which item to pick from which location). The benefits are lower labour costs, less human error, improved picking accuracy, improved inventory control and improved customer service, because orders are sent faster and correctly. Against this, automation has a high set-up cost, needs skilled technicians and may reduce the number of jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-logistics-in-commerce-study-guide--14-warehouse-automation.webp" width="900" height="900" alt="Three tools, robotics, automated sorting and voice picking, lead to five benefits: lower labour costs, less human error, accurate picking, better stock control and faster correct orders. The costs are set-up cost, skilled technicians and fewer jobs." loading="lazy">
+  <figcaption>Automation brings benefits in cost and accuracy but has a high set-up cost.</figcaption>
+</figure>
+
 
 ## Worked example 2: choosing a warehouse
 

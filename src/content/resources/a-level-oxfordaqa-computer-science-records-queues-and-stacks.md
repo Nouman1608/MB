@@ -84,6 +84,12 @@ print(s.name, s.score)   # Aisha 87.5
 An array (list) of records is a common way to store a table of data, such as `students = [Student(...), ...]`,
 then loop through and access `students[i].score`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--01-record-vs-array.webp" width="900" height="910" alt="An array is a row of same-type values reached by index; the example shows 72, 85, 90, 64 at positions 0 to 3. A record groups named fields of different types: name &quot;Aisha&quot; (string), year 12 (integer), score 87.5 (real), reached by name such as s.score." loading="lazy">
+  <figcaption>A record holds differently typed fields found by name; an array holds same-type elements found by index.</figcaption>
+</figure>
+
+
 ## What is a queue and when is it used?
 
 A queue adds items at the **rear** and removes them from the **front**, so the first item in is the
@@ -94,6 +100,12 @@ first out. Typical uses:
 - **Task scheduling:** processes waiting for the processor in a simple round-robin system.
 - **Simulations:** customers waiting at a checkout.
 - **Breadth-first traversal** of a graph (met later in the course).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--02-fifo-vs-lifo.webp" width="900" height="1070" alt="Items 1, 2, 3 are added in order. In the queue they leave from the front in the order 1, 2, 3. In the stack they are pushed and popped at the top, so they leave in the order 3, 2, 1." loading="lazy">
+  <figcaption>A queue gives items back first in, first out; a stack gives them back last in, first out.</figcaption>
+</figure>
+
 
 ## How is a linear queue implemented in an array?
 
@@ -132,6 +144,12 @@ class LinearQueue:
 **The weakness:** once `rear` reaches the last index the queue reports full, even if items have been
 dequeued from the front and spaces are free. Shuffling all items forward after each dequeue fixes
 this, but costs time proportional to the number of items.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--03-linear-queue-limit.webp" width="900" height="1030" alt="A four-cell array with front and rear pointers. After enqueuing 10, 20, 30, 40 front is 0 and rear is 3. After two dequeues front is 2 and cells 0 and 1 are free, but rear is still 3 so is_full is true and enqueuing 50 is refused." loading="lazy">
+  <figcaption>A linear queue reports full when rear reaches the last index, even though cells at the front are free.</figcaption>
+</figure>
+
 
 ## How does a circular queue solve the problem?
 
@@ -173,6 +191,12 @@ class CircularQueue:
 **Trace (size 4):** enqueue 10, 20, 30; dequeue twice (returns 10 then 20); enqueue 40, 50, 60. The
 array is now `[50, 60, 30, 40]`, with `front = 2`, `rear = 1`, `count = 4`, so the queue is full and
 the freed spaces have been reused.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--04-circular-queue-trace.webp" width="900" height="1140" alt="Two rings of four cells. After enqueuing 10, 20, 30 and dequeuing twice, only cell 2 holds 30, with front and rear both 2 and count 1. Enqueuing 40, 50, 60 moves rear to 3, then wraps to 0, then 1, giving 50, 60, 30, 40 with front 2, rear 1, count 4: full, with freed cells reused." loading="lazy">
+  <figcaption>A circular queue wraps its pointers with the modulus operator, so freed cells are reused without moving items.</figcaption>
+</figure>
+
 
 ## What is a stack and when is it used?
 
@@ -224,6 +248,12 @@ class Stack:
 ```
 
 Trying to push onto a full stack is **overflow**; trying to pop from an empty stack is **underflow**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-computer-science-records-queues-and-stacks--05-stack-array.webp" width="900" height="850" alt="A size-4 stack starts with top at -1. Push 5 then 8 gives top 1, and peek returns 8 without removing it. Pop returns 8 and top falls to 0. Pushing on a full stack is overflow; popping from an empty stack is underflow." loading="lazy">
+  <figcaption>One pointer, top, tracks the most recent item; overflow and underflow are the full and empty errors.</figcaption>
+</figure>
+
 
 ## Which libraries implement queues and stacks?
 

@@ -48,6 +48,17 @@ Cities are often compared through classic models of internal structure. The Burg
 
 Characteristics worth knowing include land values (highest at the central business district), density gradients, functional zoning, accessibility and housing quality. Informal settlements are common in rapidly growing cities in lower-income countries, where housing may lack secure tenure and services.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--01-urban-models.webp" width="900" height="1100" alt="Three plan views. Burgess: concentric rings around a central business district. Hoyt: wedge-shaped sectors spreading from the centre, with dashed lines for transport routes. Harris and Ullman: several separate nuclei besides the central business district." loading="lazy">
+  <figcaption>Three classic models of how land use is arranged in a city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--02-rank-size.webp" width="900" height="880" alt="Bar chart for a fictional country with a largest city of 8 million: rank-size predicts 4, 2.67 and 2 million for the 2nd, 3rd and 4th cities; a real second city of 1.5 million is far below 4, a primate pattern." loading="lazy">
+  <figcaption>The rank-size rule predicts city sizes; a primate city breaks the pattern.</figcaption>
+</figure>
+
+
 ## 7.2 Changing urban systems
 
 Cities can be treated as systems with inputs (people, energy, food, water, capital), processes and outputs (waste, goods, emissions). They change through demographic, economic and political processes.
@@ -62,6 +73,12 @@ Important changes include:
 
 Be ready to analyse how change varies between places. A city in a lower-income country may be absorbing large numbers of migrants faster than services can expand, whereas a post-industrial city may be struggling with population loss or the need to reinvent its economy. Consider the role of planning and government policy and how different groups are affected differently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--04-city-system.webp" width="900" height="970" alt="Five inputs (people, energy, food, water, capital) flow into a city, three outputs (waste, goods, emissions) flow out, and five changes act on the system: migration, deindustrialisation, suburbanisation and sprawl, globalisation and technology." loading="lazy">
+  <figcaption>A city treated as a system, and the changes that act on it.</figcaption>
+</figure>
+
+
 ## 7.3 Urban environmental and social stresses
 
 Cities concentrate environmental pressure. Common issues include air pollution from transport, industry and heating; waste generation; water supply and wastewater treatment; loss of green space; flooding where drainage is overloaded by impermeable surfaces; and the urban heat island, in which built-up areas are warmer than surroundings because of heat-absorbing materials, reduced vegetation and waste heat. Ecological footprint often far exceeds a city's own area, because cities draw on resources from a wide hinterland.
@@ -70,11 +87,28 @@ Social stresses include inadequate or unaffordable housing, inequality and segre
 
 Evaluate responses such as improved public transport, low emission zones, upgrading rather than demolishing informal settlements, affordable housing programmes, waste recycling and green infrastructure. For each, ask who benefits, how long it lasts and whether it addresses root causes or only symptoms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--05-heat-island.webp" width="900" height="1100" alt="Side view, not to scale: temperature is highest over the dark, built-up centre and lower over suburbs and rural land. Causes: heat-absorbing surfaces, little vegetation and waste heat." loading="lazy">
+  <figcaption>The urban heat island and its three causes from the lesson.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--06-urban-flood.webp" width="900" height="900" alt="Two cross-sections, not to scale. On green land most rain soaks in and the river stays low. On built-up land most rain runs off, drains are overloaded and the river floods." loading="lazy">
+  <figcaption>Impermeable surfaces send more rain to the river.</figcaption>
+</figure>
+
+
 ## 7.4 Building sustainable urban systems for the future
 
 A sustainable city aims to meet present needs without harming the ability of future generations to do so, balancing economic, social and environmental goals. Features include compact, mixed-use development, efficient public transport, renewable energy, resource efficiency, circular approaches to waste, green and blue infrastructure, inclusive governance and resilience to climate and other hazards. Compare ideas such as new urbanism, transit-oriented development, eco-cities and smart-city technologies. Be critical: technology can improve efficiency, but may also raise concerns over privacy and who gets access.
 
 International goals recognise the importance of inclusive, safe, resilient and sustainable cities. Stakeholders include national and city governments, planners, developers, businesses, community groups and residents. Participation matters, because top-down plans that ignore residents often fail. Consider future scenarios and the idea of resilience: how will a city cope with shocks such as extreme heat, floods or economic change? Strong answers weigh trade-offs, for example dense development that cuts emissions but raises housing costs or reduces green space.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--07-sustainable-city.webp" width="900" height="1190" alt="Venn diagram of economic, social and environmental goals with Balance in the centre, eight features of a sustainable city, and a trade-off note about dense development." loading="lazy">
+  <figcaption>A sustainable city balances economic, social and environmental goals.</figcaption>
+</figure>
+
 
 ## Worked examples
 
@@ -97,6 +131,12 @@ In a fictional country the largest city has 8 million people. Using the rank-siz
 - Fourth city = 8 / 4 = 2 million.
 
 If the real second city has only 1.5 million, the country shows a primate pattern, which suggests that investment and function are concentrated in one place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--03-urban-growth.webp" width="900" height="880" alt="Line graph from 2.4 million. After 10 years about 3.385 million; rule of 70 gives 20 years to double, about 4.8 million at year 20, if growth stayed at 3.5 per cent." loading="lazy">
+  <figcaption>Constant 3.5% growth doubles a city in about 20 years.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

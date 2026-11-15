@@ -101,6 +101,12 @@ bond. It's worth noticing that these two trends run in the *same*
 direction but for *unrelated* reasons: one is about forces between separate
 molecules, the other about the bond within a single molecule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--10-halogen-properties.webp" width="900" height="1000" alt="Three flasks show chlorine as a pale yellow-green gas, bromine as a red-brown liquid and iodine as a grey-black solid with purple vapour, with volatility decreasing. A bar chart shows X-X bond energies of 242, 193 and 151 kJ/mol, so bonds weaken down the group for a different reason." loading="lazy">
+  <figcaption>Volatility and X-X bond strength both fall down the group, for unrelated reasons.</figcaption>
+</figure>
+
+
 ## Reactivity of the elements as oxidising agents
 
 **Oxidising power decreases down the group**: Cl₂ is the strongest oxidising
@@ -119,6 +125,12 @@ is stable to heat, HBr less so, and HI decomposes significantly on
 strong heating. The explanation is bond strength: the H–X bond weakens
 down the group (a larger halogen atom gives a longer, weaker bond to the
 small hydrogen atom), so less energy is needed to break it apart again.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--11-oxidising-reducing-trends.webp" width="900" height="1020" alt="Two columns, one row per halogen. Oxidising power of the elements falls from Cl2 to I2 (reaction with hydrogen, stability of the hydrogen halide). Reducing power of the halide ions rises from chloride to iodide." loading="lazy">
+  <figcaption>Oxidising power of the elements falls down the group; reducing power of the ions rises.</figcaption>
+</figure>
+
 
 ## Reactivity of the halide ions as reducing agents
 
@@ -176,6 +188,17 @@ least some sulfur has been reduced all the way from +6 to −2 — only the
 strongest reducing agent, iodide, goes this far (alongside SO₂ and sulfur
 from the same reaction). **Sample B is NaI.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--12-silver-halide-tests.webp" width="900" height="940" alt="Three test tubes show white AgCl, cream AgBr and yellow AgI. A table shows AgCl dissolves in dilute and concentrated ammonia, AgBr only in concentrated, AgI in neither." loading="lazy">
+  <figcaption>White, cream and yellow precipitates, with decreasing solubility in ammonia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--13-halides-conc-sulfuric.webp" width="900" height="960" alt="A scale of the oxidation number of sulfur from +6 to -2. Chloride does not reduce sulfur (HCl fumes only). Bromide reduces it to +4 (SO2 and orange-brown Br2). Iodide reduces it furthest: SO2 (+4), S (0) and H2S (-2), with I2." loading="lazy">
+  <figcaption>The more strongly reducing the halide, the further sulfur is reduced.</figcaption>
+</figure>
+
+
 ## The reactions of chlorine
 
 **Cold, dilute sodium hydroxide** — a disproportionation already covered in
@@ -205,6 +228,17 @@ HOCl ⇌ H⁺ + ClO⁻
 Both HOCl and ClO⁻ are strong enough oxidising agents to kill
 disease-causing bacteria in the water supply, which is the practical reason
 chlorine is added to drinking water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--14-chlorine-naoh-disproportionation.webp" width="900" height="1030" alt="Oxidation-number scale for chlorine. In cold dilute NaOH, Cl2 (0) gives NaCl (-1) and NaOCl (+1). In hot concentrated NaOH it gives NaCl and NaClO3 (+5). Both balanced equations are shown." loading="lazy">
+  <figcaption>Both reactions are disproportionations; the hot one oxidises chlorine further to chlorate(V).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-group-17-the-halogens--15-chlorine-water-purification.webp" width="900" height="930" alt="Chlorine added to water forms HOCl and HCl; HOCl partly dissociates to H+ and ClO-. HOCl and ClO- oxidise and kill bacteria, shown as crossed pills in the water." loading="lazy">
+  <figcaption>HOCl and ClO- are the active disinfecting species.</figcaption>
+</figure>
+
 
 ## Common mistakes
 

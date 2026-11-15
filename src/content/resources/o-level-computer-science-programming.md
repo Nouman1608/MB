@@ -43,6 +43,12 @@ DECLARE GoalMet : BOOLEAN
 
 The five data types in the syllabus are **integer** (whole numbers such as a step count), **real** (numbers with decimals such as 7.4 km), **char** (one character), **string** (text) and **Boolean** (TRUE or FALSE). Using a **constant** for the goal means the value is set in one place; if the goal changes to 12 000, one line is edited, and the name `DailyGoal` explains what the number means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--01-prog-data-types.webp" width="900" height="808" alt="Six rows show DailyGoal as a locked constant with value 10000 and five variables, each tagged INTEGER, REAL, CHAR, STRING or BOOLEAN with an example value." loading="lazy">
+  <figcaption>A constant never changes while the five data types hold whole numbers, decimals, one character, text and TRUE or FALSE.</figcaption>
+</figure>
+
+
 ## Input, output and sequence
 
 ```
@@ -88,6 +94,12 @@ ENDCASE
 
 A FOR loop can count in steps: `FOR Countdown ← 10 TO 0 STEP -2` gives 10, 8, 6, 4, 2, 0.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--02-prog-loops.webp" width="900" height="1194" alt="FOR Day 1 to 7 runs exactly seven times and a countdown 10 to 0 STEP -2 gives 10, 8, 6, 4, 2, 0. A WHILE flowchart tests first so with StepsToday 8000 the body runs zero times. A REPEAT flowchart runs the body first so it runs at least once." loading="lazy">
+  <figcaption>FOR counts, WHILE tests first, REPEAT tests at the end.</figcaption>
+</figure>
+
+
 ## Totalling and counting
 
 ```
@@ -117,11 +129,23 @@ The syllabus lists four operations: length, substring, upper and lower. With `Us
 
 `SUBSTRING(string, start, length)` — the third value is the **number of characters**, not the end position. Cambridge pseudocode generally counts the first character as position 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--03-prog-strings.webp" width="900" height="780" alt="The string Ayesha_07 is shown as nine boxes numbered 1 to 9. LENGTH is 9, SUBSTRING from 1 for 3 characters is Aye, SUBSTRING from 8 for 2 is 07, and UCASE and LCASE results are listed." loading="lazy">
+  <figcaption>SUBSTRING takes a start position and a number of characters.</figcaption>
+</figure>
+
+
 ## Operators and library routines
 
 Arithmetic: `+ - * /`, `^` (power), `MOD` (remainder), `DIV` (whole-number quotient). Relational: `= < <= > >= <>`. Logical: `AND OR NOT`.
 
 Library routines: `MOD`, `DIV`, `ROUND` and `RANDOM`. For the tracker, `DIV(StepsToday, 1000)` gives the number of complete thousands (useful for awarding one point per thousand steps), `MOD(StepsToday, 1000)` gives the steps left over, and `ROUND(DistanceKm, 1)` gives the distance to one decimal place. `RANDOM()` returns a number from 0 to 1 inclusive — the tracker could use it to pick a random motivational message.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--04-prog-div-mod-round.webp" width="900" height="880" alt="7450 steps are drawn as seven blocks of 1000 and a remainder of 450, so DIV is 7 and MOD is 450. On a number line 5.215 lies below the halfway point 5.25 so ROUND to one decimal place gives 5.2." loading="lazy">
+  <figcaption>DIV counts whole thousands, MOD is what is left, ROUND picks the nearer value.</figcaption>
+</figure>
+
 
 ## Nested statements
 
@@ -143,6 +167,12 @@ CALL ShowBanner(UserName, WeekTotal)
 ```
 
 A **function** returns a value, so it is used inside an expression. A **procedure** carries out a task and is started with `CALL`. **Parameters** pass values in — up to three in the exam. Variables declared inside a subroutine are **local** (they exist only while it runs); variables declared in the main program and available everywhere are **global**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--05-prog-subroutines.webp" width="900" height="870" alt="The main program calls ShowBanner passing UserName and WeekTotal. Inside the procedure the parameters are local. The procedure calls the function Points with Total and the function returns 52, shown in the output." loading="lazy">
+  <figcaption>A procedure does a task; a function returns a value used in an expression.</figcaption>
+</figure>
+
 
 ## Writing a maintainable program
 
@@ -184,6 +214,12 @@ OUTPUT "Best day: week ", BestWeek, " day ", BestDay, " with ", Best, " steps"
 
 The outer loop chooses the week, the inner loop the day, so every one of the 28 values is checked. Starting `Best` at the first element guarantees it is a real value.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--06-prog-array-2d.webp" width="900" height="836" alt="A four by seven grid of illustrative step counts is scanned by an outer loop over weeks and an inner loop over days. The highest value, 11250 in week 2 day 6, is highlighted and 4 x 7 = 28 values are checked." loading="lazy">
+  <figcaption>The outer loop picks the row and the inner loop picks the column.</figcaption>
+</figure>
+
+
 ## 8.3 File handling
 
 Variables are lost when the program closes, so data that must be kept — such as a personal best — is stored in a file.
@@ -203,6 +239,12 @@ CLOSEFILE "Best.txt"
 ```
 
 Opening a file FOR WRITE creates a new file, and any existing data in it is lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-computer-science-programming--07-prog-files.webp" width="900" height="890" alt="In run 1 the value Best is written to Best.txt using OPENFILE FOR WRITE, WRITEFILE and CLOSEFILE and old data is lost. The program closes and variables are lost. In run 2 READFILE copies the stored value into OldBest." loading="lazy">
+  <figcaption>Data kept in a file survives after the program closes.</figcaption>
+</figure>
+
 
 ## How to approach it
 

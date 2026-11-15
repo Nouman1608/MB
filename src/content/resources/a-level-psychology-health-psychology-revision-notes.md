@@ -73,6 +73,22 @@ For full explanations and study details, read the [Health Psychology study guide
 | Stress inoculation training | Conceptualisation, skill acquisition and rehearsal, application and follow-through |
 | Unrealistic optimism | Belief that bad events are less likely to happen to oneself than to others |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--15-he-health-belief-model.webp" width="900" height="1040" alt="Perceived susceptibility, perceived severity and cues to action feed a weighing-up of perceived benefits against perceived barriers. Benefits outweighing barriers leads to action; barriers outweighing benefits leads to no action." loading="lazy">
+  <figcaption>The health belief model as a balance of benefits and barriers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--18-he-gate-control.webp" width="900" height="940" alt="Two schematic panels. Gate open: small pain fibres are active and the pain signal reaches the brain. Gate closed: large fibres (rubbing) and messages from the brain (attention, mood) close the gate and block the signal." loading="lazy">
+  <figcaption>Gate control theory: what opens and closes the pain gate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--19-he-general-adaptation-syndrome.webp" width="900" height="900" alt="A schematic curve of resistance to stress against time with a dashed normal level, in three stages: alarm (initial dip, fight-or-flight), resistance (above normal while the body copes) and exhaustion (resources run out, falls below normal, illness risk up)." loading="lazy">
+  <figcaption>Selye's three stages of the general adaptation syndrome.</figcaption>
+</figure>
+
+
 ## Measures compared
 
 | Measure | Type | Strength | Weakness |
@@ -85,6 +101,12 @@ For full explanations and study details, read the [Health Psychology study guide
 | UAB pain behaviour scale | Observational | Usable when self-report is not possible | Behaviour may not match felt pain |
 | Salivary cortisol | Biological | Objective, non-invasive | Varies with time of day and other factors |
 | Life events questionnaire | Self-report | Cheap, quick | Ignores how the person perceives each event |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--17-he-measuring-adherence.webp" width="900" height="1030" alt="Subjective (interviews): cheap, gives reasons, patients may overstate. Objective (pill counts, electronic dispensers): no honesty needed, opened does not mean taken. Biological (blood, urine): most valid, invasive, costly and shows recent use only." loading="lazy">
+  <figcaption>Strengths and weaknesses of three ways to measure non-adherence.</figcaption>
+</figure>
+
 
 ## Key studies at a glance
 
@@ -133,6 +155,22 @@ For full explanations and study details, read the [Health Psychology study guide
 8. What reinforcer did Fox et al. (1987) use in the mines?
 
 **Answers:** (1) missing an illness the patient has; (2) perceived susceptibility, severity, benefits, barriers, cues to action; (3) general prompt, specific prompt, specific prompt plus access, specific prompt plus money, contact control, no-contact control; (4) large-fibre activity closes the gate; (5) 3.2; (6) imagined a peaceful scene of their own choice; (7) pleasant, good, meaningful life; (8) stamps (tokens) exchangeable for goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--16-he-false-positive-negative.webp" width="900" height="800" alt="A two by two grid: ill and told ill is correct; ill but told not ill is a false negative (illness missed, treatment delayed); well but told ill is a false positive (unneeded worry and treatment); well and told not ill is correct." loading="lazy">
+  <figcaption>False positive and false negative diagnoses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--20-he-brudvik-pain-ratings.webp" width="900" height="880" alt="Bars of mean pain rating: children 5.5, parents 4.8, physicians 3.2, so physicians underestimated pain. Only about 42 percent of children with severe pain received pain relief. 243 children aged 3 to 15." loading="lazy">
+  <figcaption>Physicians rated pain lowest and few children with severe pain got relief.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--21-he-yokley-glenwick.webp" width="900" height="960" alt="Six groups of families: four interventions ranked by effect (specific prompt plus money, plus easier access, specific prompt alone, general prompt) and two control groups. All interventions except the general prompt improved on controls; specific prompts alone were most cost-effective." loading="lazy">
+  <figcaption>Ranking of the interventions to improve immunisation.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 

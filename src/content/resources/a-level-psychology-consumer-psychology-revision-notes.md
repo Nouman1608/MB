@@ -79,6 +79,12 @@ Read the [Consumer Psychology study guide](/resources/a-level-psychology-consume
 | Self-monitoring | Degree of adjusting behaviour to fit social situations |
 | Mere exposure | Repeated exposure increases liking |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--09-co-personal-space-zones.webp" width="900" height="1210" alt="Concentric circles drawn to scale (100 px = 1 m): intimate up to 45 cm, personal 45 cm to 1.2 m, social 1.2 to 3.6 m, public beyond 3.6 m." loading="lazy">
+  <figcaption>Hall's four zones of personal space.</figcaption>
+</figure>
+
+
 ## Key studies at a glance
 
 | Study | What was done | What was found | Evaluate with |
@@ -88,6 +94,17 @@ Read the [Consumer Psychology study guide](/resources/a-level-psychology-consume
 | Hall et al. (2010) | Supermarket tasting stall; chosen jam or tea secretly switched | No more than a third of switches detected; people justified a choice they had not made | Realistic setting; deception needed, so debriefing essential |
 | Becker et al. (2011) | Yoghurt tasted from packages varying in shape and colour saturation | Angular shapes and saturated colour raised perceived taste intensity | Controlled experiment; narrow product range |
 | Snyder and DeBono (1985) | Self-monitoring measured; adverts with image or quality appeals (focus study 3) | High self-monitors favoured image appeals; low self-monitors favoured quality claims | Practical for targeting; student samples, self-report measures |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--10-co-robson-table-spacing.webp" width="900" height="1180" alt="Three table pairs with a gap drawn in proportion to 6, 12 and 24 inches. At 6 inches diners had more stress and less privacy and control than at 12 or 24. 1,013 people, 3 distances by 3 scenarios." loading="lazy">
+  <figcaption>Closer tables caused more stress and less control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--12-co-choice-blindness.webp" width="900" height="1290" alt="Shoppers taste two jams and choose one, the jars are secretly switched, and they taste the rejected one while explaining their choice. No more than a third of switched trials were detected and no more than half even for very different pairs." loading="lazy">
+  <figcaption>Choice blindness: people often miss a switch and defend a choice they did not make.</figcaption>
+</figure>
+
 
 ## Must-know lists
 
@@ -99,6 +116,17 @@ Read the [Consumer Psychology study guide](/resources/a-level-psychology-consume
 - **Sales techniques**: customer-focused, competitor-focused, product-focused.
 - **Engel Kollat Blackwell stages**: problem recognition, information search, evaluation of alternatives, purchase, outcomes.
 - **Interference**: retroactive (new disrupts old) and proactive (old disrupts new), Burke and Srull (1988).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--13-co-ekb-dissonance.webp" width="900" height="1160" alt="Five stages: problem recognition, information search, evaluation of alternatives, purchase, post-purchase outcomes. Post-purchase dissonance is stronger for expensive, important or irreversible purchases and is reduced by seeking reassurance, focusing on strengths or returning the item." loading="lazy">
+  <figcaption>The Engel Kollat Blackwell stages and post-purchase dissonance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--14-co-yale-model.webp" width="900" height="940" alt="Source (who), message (says what), medium (print, television, internet, smartphone), audience (to whom) and effect." loading="lazy">
+  <figcaption>The five features of the Yale model of communication.</figcaption>
+</figure>
+
 
 ## Worked example: applying a heuristic
 
@@ -134,6 +162,12 @@ Read the [Consumer Psychology study guide](/resources/a-level-psychology-consume
 8. Who studied children's recognition of logos in 1991?
 
 **Answers:** (1) short, round, central, wave; (2) the beginning and end of a category list; (3) overload, arousal, behaviour constraint; (4) rejecting any option that fails on one key attribute, e.g. "no phone under 128 GB storage"; (5) eye-tracking; (6) time pressure, fatigue, noise; (7) mere exposure; (8) Fischer et al.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--08-co-store-layouts.webp" width="900" height="1200" alt="Three floor plans seen from above: grid (parallel aisles, quick, easy to restock), freeform (irregular fixtures, encourages browsing, can confuse) and racetrack (a loop past departments A to D)." loading="lazy">
+  <figcaption>Grid, freeform and racetrack store layouts.</figcaption>
+</figure>
+
 
 ## Frequently asked questions
 
