@@ -12,15 +12,15 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 8143 |
+| Source resources | 8186 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
 | Zero-resource combinations | 0 |
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
-| Median resources per combination | 45 |
-| Median words per resource | 2226 |
+| Median resources per combination | 46 |
+| Median words per resource | 2224 |
 | Resources under 900 words | 6 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
@@ -40,7 +40,7 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| review-pending | 387 |
+| review-pending | 430 |
 | reviewed | 7756 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
@@ -54,7 +54,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | --- | --- |
 | study-guides | 2683 |
 | revision-notes | 2619 |
-| past-papers | 16 |
+| past-papers | 59 |
 | practice-questions | 2637 |
 | exam-preparation | 165 |
 | subject-guides | 23 |
@@ -64,32 +64,32 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | boards | Resources |
 | --- | --- |
-| aqa | 1113 |
+| aqa | 1139 |
 | cambridge | 2428 |
-| edexcel | 1042 |
+| edexcel | 1044 |
 | ib | 1064 |
-| ocr | 1111 |
-| oxfordaqa | 1385 |
+| ocr | 1124 |
+| oxfordaqa | 1387 |
 
 ## By board
 
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AQA | 26 | 26 | 26 | 1305 | 0 | 26 | 1246 | 59 |
+| AQA | 26 | 26 | 26 | 1335 | 0 | 26 | 1246 | 89 |
 | Cambridge | 55 | 55 | 55 | 2580 | 0 | 55 | 2431 | 149 |
-| Pearson Edexcel | 21 | 21 | 21 | 1042 | 0 | 21 | 1035 | 7 |
+| Pearson Edexcel | 21 | 21 | 21 | 1044 | 0 | 21 | 1035 | 9 |
 | International Baccalaureate | 21 | 21 | 21 | 1064 | 0 | 21 | 928 | 136 |
-| OCR | 13 | 13 | 13 | 1259 | 0 | 13 | 1259 | 0 |
-| OxfordAQA | 30 | 30 | 30 | 1385 | 0 | 30 | 1347 | 38 |
+| OCR | 13 | 13 | 13 | 1274 | 0 | 13 | 1259 | 15 |
+| OxfordAQA | 30 | 30 | 30 | 1387 | 0 | 30 | 1347 | 40 |
 
 ## By qualification
 
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
-| GCSE | 18 | 847 |
-| A Level | 59 | 3798 |
-| AS Level | 3 | 340 |
-| IGCSE | 47 | 1841 |
+| GCSE | 18 | 864 |
+| A Level | 59 | 3822 |
+| AS Level | 3 | 346 |
+| IGCSE | 47 | 1843 |
 | O Level | 18 | 745 |
 | IB Diploma Programme | 16 | 870 |
 | IB Middle Years Programme | 5 | 194 |
@@ -118,12 +118,32 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 ## Missing reviewer
 
-- AQA GCSE Psychology (8182): 8 review-pending resource(s) with no reviewer
-- AQA A Level Business (7132): 2 review-pending resource(s) with no reviewer
-- AQA A Level Psychology (7182): 45 review-pending resource(s) with no reviewer
-- AQA A Level Sociology (7192): 1 review-pending resource(s) with no reviewer
-- AQA AS Level Business (7137): 2 review-pending resource(s) with no reviewer
-- AQA A Level English Literature (7712 / 7717): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Biology (8461): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Business (8132): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Chemistry (8462): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Economics (8136): 1 review-pending resource(s) with no reviewer
+- AQA GCSE English Language (8700): 1 review-pending resource(s) with no reviewer
+- AQA GCSE World History (8145): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Mathematics (8300): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Physics (8463): 1 review-pending resource(s) with no reviewer
+- AQA GCSE Psychology (8182): 9 review-pending resource(s) with no reviewer
+- AQA GCSE Sociology (8192): 1 review-pending resource(s) with no reviewer
+- AQA A Level Accounting (7127): 1 review-pending resource(s) with no reviewer
+- AQA A Level Biology (7402): 1 review-pending resource(s) with no reviewer
+- AQA A Level Business (7132): 4 review-pending resource(s) with no reviewer
+- AQA A Level Chemistry (7405): 1 review-pending resource(s) with no reviewer
+- AQA A Level Computer Science (7517): 1 review-pending resource(s) with no reviewer
+- AQA A Level Economics (7136): 2 review-pending resource(s) with no reviewer
+- AQA A Level English Language (7702): 1 review-pending resource(s) with no reviewer
+- AQA A Level Law (7162): 1 review-pending resource(s) with no reviewer
+- AQA A Level Mathematics (7357): 1 review-pending resource(s) with no reviewer
+- AQA A Level Physics (7408): 1 review-pending resource(s) with no reviewer
+- AQA A Level Psychology (7182): 46 review-pending resource(s) with no reviewer
+- AQA A Level Sociology (7192): 2 review-pending resource(s) with no reviewer
+- AQA AS Level Business (7137): 4 review-pending resource(s) with no reviewer
+- AQA AS Level Economics (7135): 2 review-pending resource(s) with no reviewer
+- AQA GCSE English Literature (8702): 1 review-pending resource(s) with no reviewer
+- AQA A Level English Literature (7712 / 7717): 2 review-pending resource(s) with no reviewer
 - Cambridge A Level Biology (9700): 1 review-pending resource(s) with no reviewer
 - Cambridge A Level Business (9609): 1 review-pending resource(s) with no reviewer
 - Cambridge A Level Computer Science (9618): 1 review-pending resource(s) with no reviewer
@@ -165,9 +185,11 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Cambridge IGCSE Chemistry (0620): 1 review-pending resource(s) with no reviewer
 - Cambridge O Level Chemistry (5070): 1 review-pending resource(s) with no reviewer
 - Cambridge A Level Chemistry (9701): 1 review-pending resource(s) with no reviewer
+- Pearson Edexcel A Level Chemistry (YCH11): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Physics (YPH11): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel A Level Urdu Language (9UR0): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Biology (4BI1): 1 review-pending resource(s) with no reviewer
+- Pearson Edexcel IGCSE Chemistry (4CH1): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Physics (4PH1): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Accounting (4AC1): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel IGCSE Business (4BS1): 1 review-pending resource(s) with no reviewer
@@ -176,50 +198,64 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - International Baccalaureate IB Diploma Programme Global Politics (DP Global Politics): 34 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Middle Years Programme Design (MYP) (MYP Design): 34 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Middle Years Programme Individuals and Societies (MYP) (MYP Individuals and Societies): 40 review-pending resource(s) with no reviewer
+- OCR AS Level Economics (H060): 2 review-pending resource(s) with no reviewer
+- OCR GCSE Chemistry (J248): 1 review-pending resource(s) with no reviewer
+- OCR GCSE Physics (J249): 1 review-pending resource(s) with no reviewer
+- OCR GCSE Biology (J247): 1 review-pending resource(s) with no reviewer
+- OCR GCSE Mathematics (J560): 1 review-pending resource(s) with no reviewer
+- OCR GCSE Business (J204): 1 review-pending resource(s) with no reviewer
+- OCR GCSE Economics (J205): 1 review-pending resource(s) with no reviewer
+- OCR A Level Chemistry (H432): 1 review-pending resource(s) with no reviewer
+- OCR A Level Physics (H556): 1 review-pending resource(s) with no reviewer
+- OCR A Level Biology (H420): 1 review-pending resource(s) with no reviewer
+- OCR A Level Mathematics (H240): 1 review-pending resource(s) with no reviewer
+- OCR A Level Business (H431): 1 review-pending resource(s) with no reviewer
+- OCR A Level Economics (H460): 2 review-pending resource(s) with no reviewer
+- OxfordAQA IGCSE Chemistry (9202): 1 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Psychology (9218): 11 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Urdu Language (9264): 1 review-pending resource(s) with no reviewer
-- OxfordAQA A Level Chemistry (9620): 1 review-pending resource(s) with no reviewer
+- OxfordAQA A Level Chemistry (9620): 2 review-pending resource(s) with no reviewer
 - OxfordAQA A Level Psychology (9685): 25 review-pending resource(s) with no reviewer
 
 ## Recommended next action
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 104 |
-| Named-reviewer sign-off of review-pending resources. | 62 |
+| Named-reviewer sign-off of review-pending resources. | 98 |
+| None. | 68 |
 
-Overall: the largest outstanding item is human sign-off: 387 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: the largest outstanding item is human sign-off: 430 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
 | Board | Qualification | Subject | Code | Resources | Reviewed / pending | Assessment | Topics without resources | Next action |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AQA | GCSE | Biology | 8461 | 46 | 46 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Business | 8132 | 40 | 40 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Chemistry | 8462 | 49 | 49 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Economics | 8136 | 66 | 66 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | English Language | 8700 | 13 | 13 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | World History | 8145 | 17 | 17 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Mathematics | 8300 | 40 | 40 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Physics | 8463 | 31 | 31 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | Psychology | 8182 | 8 | 0 / 8 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | GCSE | Sociology | 8192 | 27 | 27 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Accounting | 7127 | 55 | 55 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Biology | 7402 | 98 | 98 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Business | 7132 | 63 | 61 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | A Level | Chemistry | 7405 | 108 | 108 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Computer Science | 7517 | 44 | 44 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Economics | 7136 | 129 | 129 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | English Language | 7702 | 14 | 14 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Law | 7162 | 23 | 23 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Mathematics | 7357 | 91 | 91 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Physics | 7408 | 45 | 45 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | Psychology | 7182 | 45 | 0 / 45 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | A Level | Sociology | 7192 | 38 | 37 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | AS Level | Business | 7137 | 63 | 61 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| AQA | AS Level | Economics | 7135 | 129 | 129 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | English Literature | 8702 | 11 | 11 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | English Literature | 7712 / 7717 | 12 | 11 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Biology | 8461 | 47 | 46 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Business | 8132 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Chemistry | 8462 | 50 | 49 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Economics | 8136 | 67 | 66 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | English Language | 8700 | 14 | 13 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | World History | 8145 | 18 | 17 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Mathematics | 8300 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Physics | 8463 | 32 | 31 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Psychology | 8182 | 9 | 0 / 9 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | Sociology | 8192 | 28 | 27 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Accounting | 7127 | 56 | 55 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Biology | 7402 | 99 | 98 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Business | 7132 | 65 | 61 / 4 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Chemistry | 7405 | 109 | 108 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Computer Science | 7517 | 45 | 44 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Economics | 7136 | 131 | 129 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | English Language | 7702 | 15 | 14 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Law | 7162 | 24 | 23 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Mathematics | 7357 | 92 | 91 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Physics | 7408 | 46 | 45 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Psychology | 7182 | 46 | 0 / 46 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | Sociology | 7192 | 39 | 37 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | AS Level | Business | 7137 | 65 | 61 / 4 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | AS Level | Economics | 7135 | 131 | 129 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | GCSE | English Literature | 8702 | 12 | 11 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| AQA | A Level | English Literature | 7712 / 7717 | 13 | 11 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | A Level | Accounting | 9706 | 46 | 46 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Biology | 9700 | 91 | 90 / 1 | VERIFIED_COMPLETE (staged) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | A Level | Business | 9609 | 85 | 84 / 1 | VERIFIED_COMPLETE (staged) | 0 | Named-reviewer sign-off of review-pending resources. |
@@ -278,14 +314,14 @@ Overall: the largest outstanding item is human sign-off: 387 review-pending reso
 | Pearson Edexcel | A Level | Accounting | YAC11 | 58 | 58 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | Pearson Edexcel | A Level | Biology | YBI11 | 65 | 65 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | Pearson Edexcel | A Level | Business | YBS11 | 28 | 28 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
-| Pearson Edexcel | A Level | Chemistry | YCH11 | 103 | 103 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
+| Pearson Edexcel | A Level | Chemistry | YCH11 | 104 | 103 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Economics | YEC11 | 119 | 119 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | Pearson Edexcel | A Level | Law | YLA1 | 8 | 8 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | A Level | Mathematics | YMA01 | 116 | 116 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | Pearson Edexcel | A Level | Physics | YPH11 | 46 | 45 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | A Level | Urdu Language | 9UR0 | 13 | 12 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Biology | 4BI1 | 46 | 45 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
-| Pearson Edexcel | IGCSE | Chemistry | 4CH1 | 40 | 40 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Pearson Edexcel | IGCSE | Chemistry | 4CH1 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Pearson Edexcel | IGCSE | Economics | 4EC1 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | English Language | 4EA1 | 13 | 13 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Pearson Edexcel | IGCSE | World History | 4HI1 | 69 | 69 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -317,26 +353,26 @@ Overall: the largest outstanding item is human sign-off: 387 review-pending reso
 | International Baccalaureate | IB Middle Years Programme | Sciences (MYP) | MYP Sciences | 40 | 40 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Design (MYP) | MYP Design | 34 | 0 / 34 | VERIFIED_COMPLETE (criterion-referenced) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Middle Years Programme | Individuals and Societies (MYP) | MYP Individuals and Societies | 40 | 0 / 40 | VERIFIED_COMPLETE (criterion-referenced) | 0 | Named-reviewer sign-off of review-pending resources. |
-| OCR | AS Level | Economics | H060 | 148 | 148 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Chemistry | J248 | 52 | 52 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Physics | J249 | 112 | 112 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Biology | J247 | 100 | 100 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Mathematics | J560 | 115 | 115 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Business | J204 | 25 | 25 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | GCSE | Economics | J205 | 40 | 40 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Chemistry | H432 | 122 | 122 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Physics | H556 | 112 | 112 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Biology | H420 | 112 | 112 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Mathematics | H240 | 109 | 109 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Business | H431 | 64 | 64 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OCR | A Level | Economics | H460 | 148 | 148 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OCR | AS Level | Economics | H060 | 150 | 148 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Chemistry | J248 | 53 | 52 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Physics | J249 | 113 | 112 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Biology | J247 | 101 | 100 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Mathematics | J560 | 116 | 115 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Business | J204 | 26 | 25 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | GCSE | Economics | J205 | 41 | 40 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Chemistry | H432 | 123 | 122 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Physics | H556 | 113 | 112 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Biology | H420 | 113 | 112 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Mathematics | H240 | 110 | 109 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Business | H431 | 65 | 64 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OCR | A Level | Economics | H460 | 150 | 148 / 2 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Accounting | 9215 | 61 | 61 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Business | 9225 | 28 | 28 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Computer Science | 9210 | 28 | 28 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Economics | 9214 | 46 | 46 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Mathematics | 9260 | 100 | 100 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Biology | 9201 | 49 | 49 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | Chemistry | 9202 | 61 | 61 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | Chemistry | 9202 | 62 | 61 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | Physics | 9203 | 73 | 73 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | English Language | 9270 | 13 | 13 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | IGCSE | English Literature | 9275 | 10 | 10 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
@@ -353,7 +389,7 @@ Overall: the largest outstanding item is human sign-off: 387 review-pending reso
 | OxfordAQA | A Level | Economics | 9640 | 139 | 139 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Mathematics | 9660 | 133 | 133 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Biology | 9610 | 74 | 74 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
-| OxfordAQA | A Level | Chemistry | 9620 | 104 | 103 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
+| OxfordAQA | A Level | Chemistry | 9620 | 105 | 103 / 2 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | A Level | Physics | 9630 | 106 | 106 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | English Language | 9670 | 14 | 14 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | A Level | English Literature | 9675 | 13 | 13 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
