@@ -77,8 +77,10 @@ const practiceSets = published.filter((r) => r.data.resourceType === 'practice-q
   <AcademyResults surface="white" showCta={false} mobileTestimonials={2} />
   <StudentOutcomes />
 
-  {/* 7. Group vs one-to-one, and the entry point to real fees. */}
-  <TuitionOptions />
+  {/* 7. Group vs one-to-one, and the entry point to real fees.
+      D-TBD: on phones the "Free trial" row of each card is hidden; step 4
+      above summarises it and the FAQ below has the same two sentences. */}
+  <TuitionOptions mobileHideTrialRow />
 
   {/* 8-9. Navigation round (6 Oct 2026): subject selection and the resource
       library now live in "Find study resources" (FreeRevisionTools), one
