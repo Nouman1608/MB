@@ -1,0 +1,133 @@
+---
+/**
+ * D-TBD (15 Nov 2026) -- "Fees for your region" at the top of /pricing/.
+ *
+ * On a phone the fee tables are wider than the screen and sit several screens
+ * down. This block lets the visitor choose a region and read that region's
+ * group and one-to-one fees as one card, with the trial button directly
+ * under it. The tables below stay as the complete record.
+ *
+ * Every amount, "Indicative" mark and note comes from
+ * src/utils/pricing/region-card.ts, which reads REGION_PRICING and
+ * ONE_TO_ONE_PRICING. The first card (Pakistan, the first table row) is
+ * rendered here on the server; the full list is embedded as JSON and the
+ * script only copies its strings into the card, so the browser never formats
+ * a fee. Without JavaScript the Pakistan card, the trial button and the
+ * tables all still show, and the region select stays disabled with a note.
+ *
+ * The region is the visitor's own choice: nothing is detected from the
+ * connection, sent anywhere or stored.
+ */
+import Button from '../ui/Button.astro';
+import { routes } from '../../utils/urls/routes';
+import { PRICING_TERMS, ONE_TO_ONE_TERMS } from '../../data/pricing';
+import { REGION_FEE_CARDS } from '../../utils/pricing/region-card';
+
+const first = REGION_FEE_CARDS[0];
+const data = JSON.stringify(REGION_FEE_CARDS).replace(/</g, '\\u003c');
+const flag = 'rounded-sm border border-gold-500 px-1.5 py-0.5 mb-label text-teal-700';
+const blockHead = 'm-0 flex flex-wrap items-center gap-2';
+const row = 'flex items-baseline justify-between gap-4';
+const term = 'm-0 text-[14.5px] text-ink-mute';
+const amount = 'm-0 whitespace-nowrap text-[17px] tabular-nums text-ink';
+const small = 'm-0 text-[13px] leading-relaxed text-ink-mute';
+const link = 'underline decoration-teal-500 underline-offset-2 hover:text-teal-700';
+---
+<div data-region-fees class="mb-12">
+  <h2 id="region-fees-heading" class="m-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">Fees for your region</h2>
+  <div class="grid max-w-[460px] gap-1.5">
+    <label for="rf-region" class="text-[14.5px] font-medium text-ink">Show fees for</label>
+    <select id="rf-region" data-rf-select disabled class="min-h-11 w-full rounded-sm border border-rule bg-white px-3 text-[15.5px] text-ink">
+      {REGION_FEE_CARDS.map((c) => <option value={c.region}>{c.optionLabel}</option>)}
+    </select>
+    <noscript><p class={small}>Choosing another region needs JavaScript. Every region's fees are in the tables below.</p></noscript>
+  </div>
+
+  <div data-rf-card data-rf-region={first.region} aria-live="polite" aria-atomic="true" class="mt-4 max-w-[460px] rounded-sm border border-rule bg-white p-5">
+    <h3 data-rf="label" class="m-0 text-[17px] font-semibold leading-snug text-navy-800">{first.label}</h3>
+
+    <div class="mt-4">
+      <p class={blockHead}>
+        <span class="mb-label text-teal-700">Group classes, {PRICING_TERMS.unit}</span>
+        <span data-rf-flag="group" hidden={!first.group.indicative} class={flag}>Indicative</span>
+      </p>
+      <dl class="m-0 mt-2 grid gap-1">
+        <div class={row}><dt class={term}>GCSE / IGCSE / O Level</dt><dd data-rf="group-igcse" class={amount}>{first.group.igcse}</dd></div>
+        <div class={row}><dt class={term}>AS / A Level</dt><dd data-rf="group-alevel" class={amount}>{first.group.aLevel}</dd></div>
+      </dl>
+      <p class={`${small} mt-1`}>{PRICING_TERMS.classFormat.group}</p>
+    </div>
+
+    <div data-rf-one hidden={!first.oneToOne} class="mt-4 border-t border-rule pt-4">
+      <p class={blockHead}>
+        <span class="mb-label text-teal-700">One-to-one classes, {ONE_TO_ONE_TERMS.unit}</span>
+        <span data-rf-flag="one" hidden={!first.oneToOne?.indicative} class={flag}>Indicative</span>
+      </p>
+      <dl class="m-0 mt-2 grid gap-1">
+        <div class={row}><dt class={term}>GCSE / IGCSE / O Level</dt><dd data-rf="one-igcse" class={amount}>{first.oneToOne?.igcse}</dd></div>
+        <div class={row}><dt class={term}>AS / A Level</dt><dd data-rf="one-alevel" class={amount}>{first.oneToOne?.aLevel}</dd></div>
+      </dl>
+      <p class={`${small} mt-1`}>{PRICING_TERMS.classFormat.oneToOne}</p>
+    </div>
+
+    <p data-rf="note" hidden={!first.note} class={`${small} mt-4`}>{first.note}</p>
+  </div>
+
+  <div class="mt-4 max-w-[460px]">
+    <Button href={`${routes.trial}?source=pricing`} variant="primary" size="lg" data-cta="pricing-trial-region" class="w-full">Request a free trial class</Button>
+  </div>
+  <p class={`${small} mt-3 max-w-[62ch]`}>{PRICING_TERMS.freeTrial} {PRICING_TERMS.billing}</p>
+  <p class={`${small} mt-2 max-w-[62ch]`}>
+    Every region is in the <a href="#group-fees" class={link}>group classes table</a> and the <a href="#one-to-one-fees" class={link}>one-to-one table</a> below.
+    {' '}<a href="#ib-fees" class={link}>IB tuition</a> and <a href="#one-to-one-only" class={link}>AP, OCR, and OxfordAQA Islamiyat and Pakistan Studies</a> are priced separately, per class.
+  </p>
+  <script is:inline type="application/json" data-rf-data set:html={data} />
+</div>
+
+<script>
+  interface Block { igcse: string; aLevel: string; indicative: boolean }
+  interface Card { region: string; label: string; group: Block; oneToOne: Block | null; note: string }
+
+  const root = document.querySelector<HTMLElement>('[data-region-fees]');
+  const select = root?.querySelector<HTMLSelectElement>('[data-rf-select]');
+  const cardEl = root?.querySelector<HTMLElement>('[data-rf-card]');
+  if (root && select && cardEl) {
+    let cards: Card[] = [];
+    try {
+      cards = JSON.parse(root.querySelector('[data-rf-data]')?.textContent ?? '[]') as Card[];
+    } catch {
+      cards = [];
+    }
+    const text = (key: string, value: string) => {
+      const el = cardEl.querySelector<HTMLElement>(`[data-rf="${key}"]`);
+      if (el) el.textContent = value;
+    };
+    const show = (selector: string, on: boolean) => {
+      const el = cardEl.querySelector<HTMLElement>(selector);
+      if (el) el.hidden = !on;
+    };
+    // The card is a polite live region, so it is only touched when the region really changes.
+    const render = () => {
+      const card = cards.find((c) => c.region === select.value);
+      if (!card || card.region === cardEl.dataset.rfRegion) return;
+      cardEl.dataset.rfRegion = card.region;
+      text('label', card.label);
+      text('group-igcse', card.group.igcse);
+      text('group-alevel', card.group.aLevel);
+      show('[data-rf-flag="group"]', card.group.indicative);
+      show('[data-rf-one]', card.oneToOne !== null);
+      text('one-igcse', card.oneToOne?.igcse ?? '');
+      text('one-alevel', card.oneToOne?.aLevel ?? '');
+      show('[data-rf-flag="one"]', card.oneToOne?.indicative ?? false);
+      text('note', card.note);
+      show('[data-rf="note"]', card.note !== '');
+    };
+    if (cards.length) {
+      select.addEventListener('change', render);
+      // A browser may restore the select's value on reload or on going back; keep the card in step with it.
+      window.addEventListener('pageshow', render);
+      select.disabled = false;
+      render();
+    }
+  }
+</script>
