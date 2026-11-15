@@ -40,6 +40,7 @@ export const DECK_OXFORDAQA_IGCSE_URDU_LANGUAGE: FlashcardDeck = {
   syllabusSeries: 'Version 1.1',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
   cards: [
     // Theme 1: Identity and Culture
     ...sub(T1, 'family-friends-9264', 'Topic 1', [

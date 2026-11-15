@@ -34,6 +34,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
   syllabusSeries: '3247: 2027; 3248: 2027-2029',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
   cards: [
     // 1 3247 First Language Urdu -- Paper 1 Reading and Writing
     ...topicOnly('fl-paper-1-reading-writing-3247', '1', [

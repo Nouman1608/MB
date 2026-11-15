@@ -48,6 +48,7 @@ export const DECK_CAMBRIDGE_IGCSE_URDU_LANGUAGE: FlashcardDeck = {
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
   cards: [
     // Paper 1 -- Reading and Writing
     ...sub(P1, 'exercise-1-short-answer-questions-0539', '1', [

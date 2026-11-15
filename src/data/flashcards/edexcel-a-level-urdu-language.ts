@@ -42,6 +42,7 @@ export const DECK_EDEXCEL_A_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
   syllabusSeries: '2018',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
   cards: [
     // Theme 1: Evolving Pakistani society
     ...sub(T1, 'khandan-family-9ur0', '1.1', [

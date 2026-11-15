@@ -45,6 +45,7 @@ export const DECK_OXFORDAQA_IGCSE_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: 'Version 4.3',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // 1 Living with the Physical Environment
     ...topicOnly('living-with-physical-environment-9230', '1', [

@@ -41,6 +41,7 @@ export const DECK_OXFORDAQA_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: 'Version 3.2',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // 1 Unit 1: Physical geography 1
     ...sub(U1, 'section-a-living-with-hazards-9635', '3.1.1', [

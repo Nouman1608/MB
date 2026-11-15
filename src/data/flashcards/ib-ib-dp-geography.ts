@@ -62,6 +62,7 @@ export const DECK_IB_IB_DP_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: 'First assessments 2019',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // Option A: Freshwater
     ...sub(FW, s('1-1'), '1.1', [

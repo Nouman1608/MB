@@ -128,19 +128,22 @@ metals (3 and 4), in each deck. They were written from the 0620 syllabus (sectio
 and the periodic-table notes; 9.2 now includes aluminium in overhead cables, a syllabus outcome the
 deck had missed. A teacher should check them and then re-confirm the two decks.
 
-## Added after the teacher review (15 Nov 2026)
+## Added 15 Nov 2026: Geography and Urdu decks
 
-Ten decks were added with no teacher review: Geography (Cambridge IGCSE 0460, O Level 2217, A Level
-9696; OxfordAQA IGCSE 9230 and A Level 9635; IB DP) and Urdu Language (Cambridge IGCSE 0539, O Level
-3247/3248; Edexcel A Level 9UR0; OxfordAQA IGCSE 9264). None has `deckReview`. 1,229 cards in all.
+Ten decks were added: Geography (Cambridge IGCSE 0460, O Level 2217, A Level 9696; OxfordAQA IGCSE
+9230 and A Level 9635; IB DP) and Urdu Language (Cambridge IGCSE 0539, O Level 3247/3248; Edexcel
+A Level 9UR0; OxfordAQA IGCSE 9264). 1,229 cards in all. Owner, 15 Nov 2026: the four Urdu decks
+were reviewed by Miss Farheen Zehra and the six Geography decks by Sir Azam Siddique; each deck
+records them in `deckReview` (15 Nov 2026).
 
-- **Urdu (all four decks):** a native-speaking teacher should check every Urdu word, sentence and
-  grammar example. The ones the author was least sure of: the letter and email closings (0539), the
-  speaking-test phrases, time and number words, the 3248 sentence transformations, the poetry terms
-  (3247), the 9UR0 Theme 4 vocabulary and history cards, and the 9264 sentences. Card ids use
-  non-overlapping ranges where the records reuse subtopic numbers.
-- **Cambridge Geography:** the 2217 deck is the 0460 deck. Cards on Themes 1 and 2 (and 9696 topics 1
-  to 6) rest on standard textbook content because the matching pages are not mapped to subtopics.
-  The 9696 theory cards (Burgess, Hoyt, Rostow, Clark-Fisher, Butler, Von Thunen, Weber, Hjulstrom)
-  should be checked.
+Where a reviewer should have looked hardest:
+
+- **Urdu (all four decks):** the letter and email closings (0539), the speaking-test phrases, time
+  and number words, the 3248 sentence transformations, the poetry terms (3247), the 9UR0 Theme 4
+  vocabulary and history cards, and the 9264 sentences. Card ids use non-overlapping ranges where
+  the records reuse subtopic numbers.
+- **Cambridge Geography:** the 2217 deck is the 0460 deck. Cards on Themes 1 and 2 (and 9696 topics
+  1 to 6) rest on standard textbook content because the matching pages are not mapped to
+  subtopics. The 9696 theory cards (Burgess, Hoyt, Rostow, Clark-Fisher, Butler, Von Thunen, Weber,
+  Hjulstrom) are textbook summaries.
 - **IB Geography:** no SL/HL marks (the syllabus record has none); the IB guides are not available.

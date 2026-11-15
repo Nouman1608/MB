@@ -40,6 +40,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: '2026 (Version 3)',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // Theme 1 Population and settlement
     ...sub(T1, 'population-dynamics-2217', '1.1', [

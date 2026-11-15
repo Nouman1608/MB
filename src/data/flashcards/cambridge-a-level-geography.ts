@@ -59,6 +59,7 @@ export const DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: '2025-2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // 1 Hydrology and fluvial geomorphology
     ...sub(T1, 'the-drainage-basin-system-9696', '1.1', [

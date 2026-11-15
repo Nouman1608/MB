@@ -47,6 +47,7 @@ export const DECK_CAMBRIDGE_IGCSE_GEOGRAPHY: FlashcardDeck = {
   syllabusSeries: '2025-2026',
   author: 'marlbridge-academic-team',
   updated: '2026-11-15',
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-15' },
   cards: [
     // Theme 1 Population and settlement
     ...sub(T1, 'population-dynamics-0460', '1.1', [
