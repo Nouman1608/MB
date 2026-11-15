@@ -989,6 +989,17 @@ withMutation(
   },
 );
 
+console.log('\n[AW] D-455 -- a mark total removed without saying so to readers is rejected');
+withMutation(
+  'src/data/academic/assessments.ts',
+  (text) => text.replace("marksSourceNote: 'Paper 2\\'s mark total is not shown.", "marksSourceNote: 'See the guide."),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
+    expectSubstring: 'has marks=null, but marksSourceNote does not say',
+    label: 'DP Lang & Lit Paper 2 marks=null with no reader-facing note is rejected',
+  },
+);
+
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);
 console.log(`==============================================================================`);

@@ -38,7 +38,7 @@ Not claimed: 100% academic accuracy, any human review, any search-ranking or AI-
 | D-3 | llms.txt counts raw files and omits AP | Low | /llms.txt | `generate-llms-txt.mjs` | — | Yes | committed copy said 8,088 | Separate counting path | Non-draft count; AP stated separately | negative E | Fixed |
 | D-4 | ar/ur/bn policy: frozen "no study resource reviewed" (26 Aug) | High | /ar/legal/editorial-policy/ etc. | `src/i18n/pages/legal.ts` | — | Yes | English page shows 7,756 credited | Translation never updated | Pointer to English (owner A2); AI paragraph the same | build | Fixed; native review OL-1 |
 | D-5 | IB subject briefs linked as "Official specification"; FAQ "official specification" | Med | 786 IB resource pages, IB hubs | `[slug].astro`, FAQ | IB | Yes | 15 of 21 IB records link a brief | Fixed label | "Official subject brief" | unit (sourceKind) | Fixed |
-| D-6 | thinkib.net value vs policy "never a tutoring site" | Med | /boards/ib/ib-dp/english-language-and-literature/ | `assessments.ts` | IB DP Lang & Lit | Yes (conflict) | record cites thinkib.net | — | none | — | Open: OQ-3 |
+| D-6 | thinkib.net value vs policy "never a tutoring site" | Med | /boards/ib/ib-dp/language-a-language-and-literature/ | `assessments.ts` | IB DP Lang & Lit | Yes (conflict) | record cites thinkib.net | — | Paper 2 total removed until an IB document confirms it; teacher-site sources dropped (D-455) | rule [8], negative AW, unit test | Fixed |
 | D-7 | "N named subject specialists" (23) vs "8 named teachers" | Low | / and policy | components | — | Different definitions | agent table | — | Units named: "teacher profiles", "named authors" (D-451) | build | Fixed |
 | F-1 | AS 7404 page showing 7405 figures | — | — | — | AQA Chemistry | **Disproven** | no 7404 record/page/resource | — | — | — | Closed |
 | F-2 | 7405 `stage: AS` shows "AS Level" filter value shared with AQA AS 7135/7137 | Low | AQA 7405 resources (53) | `collections.ts:95-98` | AQA A Level Chemistry 7405, Biology 7402 | Yes (ambiguity) | — | Label choice | "A Level (AS content)" (D-450, owner OQ-4) | level-label tests | Fixed (105 pages) |
@@ -119,7 +119,7 @@ See [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md): 5 owner questions, 4 teac
 2. (Owner) SL assessment figures for IB DP Biology/Chemistry, or approved deferral (OQ-2).
 3. (Teacher) Itemise subtopics for the 380 topic-level-only pages (OT-1).
 4. (Teacher) Series check for 5014 / 0479 / H060 (OT-2).
-5. (Owner) thinkib.net source vs policy (OQ-3).
+5. ~~thinkib.net source vs policy (OQ-3)~~: done in D-455. Same question open for DP Language A: Literature (OQ-6).
 
 **Medium**
 6. (Translator) Native review of the six translated pointer sentences (OL-1).

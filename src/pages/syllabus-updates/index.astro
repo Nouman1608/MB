@@ -107,7 +107,11 @@ function transitionPairs() {
   }
   return pairs.sort((p1, p2) => (p1.newer.firstTeaching ?? '').localeCompare(p2.newer.firstTeaching ?? ''));
 }
-const totalMarks = (comps: Assessment['components']) => comps.reduce((sum, c) => sum + c.marks, 0);
+// D-455: a component whose total is not confirmed (marks: null) makes the sum unknown -- never under-counted as 0.
+const totalMarks = (comps: Assessment['components']): string =>
+  comps.some((c) => c.marks === null)
+    ? `Not confirmed (${comps.filter((c) => c.marks === null).map((c) => c.paperCode).join(', ')} not shown)`
+    : String(comps.reduce((sum, c) => sum + (c.marks ?? 0), 0));
 const totalMinutes = (comps: Assessment['components']) => comps.reduce((sum, c) => sum + (c.durationMinutes ?? 0), 0);
 /**
  * Round 42 (E938 (3)): an IB DP record stores its SL and HL components as
@@ -319,7 +323,7 @@ const flagshipInTransition = [...future, ...legacy].some((r) => flagshipCodes.ha
                       </dl>
                       <ul class="m-0 list-none p-0 text-[13px] leading-[1.7] text-ink">
                         {b.comps.map((c) => (
-                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks} marks, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
+                          <li>{b.prefix}{c.paperCode} — {c.title} ({c.marks === null ? 'mark total not confirmed' : `${c.marks} marks`}, {c.asWeightingPercent != null && c.asWeightingPercent !== c.weightingPercent
                             ? (c.weightingPercent === 0 ? `${c.asWeightingPercent}% AS only` : `${c.asWeightingPercent}% AS / ${c.weightingPercent}% A Level`)
                             : `${c.weightingPercent}%`})</li>
                         ))}
