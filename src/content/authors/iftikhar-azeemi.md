@@ -8,6 +8,7 @@ image: "/images/faculty/iftikhar-azeemi.jpg"
 entityType: person
 subjectsTaught: ["Physics", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
+apCoursesReviewed: ["physics-1", "physics-2", "physics-c-electricity-and-magnetism", "physics-c-mechanics"]
 qualificationsTaught: []
 yearsExperience: 30
 previousSchools: ["BTSC", "SCIL", "LAS", "Froebel's", "SICAS", "Garrison"]

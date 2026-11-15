@@ -37,12 +37,17 @@ const specs = flagshipSpecs().map((f) => {
 });
 const available = specs.filter((s) => s.questionCount > 0);
 const notYetAvailable = specs.filter((s) => s.questionCount === 0);
+// D-448: derived from the specs that really have questions (the hardcoded
+// "Cambridge and Edexcel" left out AQA GCSE once its questions shipped).
+const listPhrase = (xs: string[]) => xs.length <= 1 ? xs.join('') : `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}`;
+const availableBoards = [...new Set(available.map((s) => s.combination.board))];
+const availableLevels = [...new Set(available.map((s) => s.combination.qualification))];
 // D-286: the 10-minute diagnostics, listed first -- the quickest way in.
 const diagnostics = DIAGNOSTIC_SETS.map((d) => ({ ...d, spec: specs.find((s) => s.code === d.code)! }));
 ---
 <PageLayout
   title="Free Practice Questions & 10-Minute Diagnostics"
-  description="Free 10-minute diagnostics and self-check practice questions for Cambridge and Edexcel IGCSE, O Level and A Level subjects: worked answers, weak-topic tracking, no account."
+  description={`Free 10-minute diagnostics and self-check practice questions for ${listPhrase(availableBoards)} ${listPhrase(availableLevels)} subjects: worked answers, weak-topic tracking, no account.`}
   path={path}
   eyebrow="Free tool"
   heading="Practice"

@@ -53,12 +53,38 @@
  *       "reviewed" (a spec check is never a teacher review, and the template
  *       would hide it there anyway).
  *
+ *  [12] D-448 -- a `specCheck` needs evidence: a repository-side
+ *       verification record for the same resource in
+ *       docs/reports/academic-review/pending-review-*.json (D-388 sets the
+ *       line only where that verification read an official source), and the
+ *       record's source must not be another board's official document (a
+ *       Cambridge page checked against an AQA specification is not checked).
+ *
+ *  [13] D-448 -- documented teacher verifications
+ *       (docs/reports/academic-review/teacher-verifications.json, empty until
+ *       a real one is evidenced): each record must name an existing resource
+ *       and an isReviewer profile covering its board and subject, a board and
+ *       code the resource declares, a sane date, a closed approval value, an
+ *       official source for that board, and non-empty scope and evidence.
+ *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.
  */
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { subjectCovered as covered } from '../src/utils/content/subject-match.mjs';
+/** Kept in step with scripts/academic-review-ledger.mjs BOARD_DOMAINS. */
+const BOARD_DOMAINS = {
+  cambridge: ['cambridgeinternational.org'], aqa: ['aqa.org.uk'], ocr: ['ocr.org.uk'],
+  oxfordaqa: ['oxfordaqa.com'], edexcel: ['qualifications.pearson.com', 'pearson.com'], ib: ['ibo.org'],
+};
+const VERIFICATION = new Map();
+{
+  const dir = 'docs/reports/academic-review';
+  for (const f of readdirSync(dir).filter((x) => /^pending-review-.*\.json$/.test(x))) {
+    for (const r of JSON.parse(readFileSync(join(dir, f), 'utf8')).results ?? []) VERIFICATION.set(r.slug, r);
+  }
+}
 
 const TODAY = new Date();
 
@@ -75,6 +101,7 @@ function parseFrontmatter(raw) {
     resourceType: get(/^resourceType:\s*"?([\w-]+)"?/m),
     subject: get(/^subject:\s*"?([\w-]+)"?/m),
     boards: JSON.parse(get(/^boards:\s*(\[.*\])/m) ?? '[]'),
+    syllabusCodes: JSON.parse(get(/^syllabusCodes:\s*(\[.*\])/m) ?? '[]'),
     specCheck: (() => {
       const block = fm.match(/^specCheck:\s*\n((?:[ \t]+\S.*\n?)+)/m)?.[1];
       if (!block && !/^specCheck:/m.test(fm)) return undefined;
@@ -156,6 +183,16 @@ function checkCollection(dir, label, authors, problems) {
       if (fm.reviewStatus === 'reviewed') {
         problems.push(`[11] ${id} has specCheck but reviewStatus "reviewed" -- a specification check is not a teacher review.`);
       }
+      const rec = VERIFICATION.get(file.replace(/\.md$/, ""));
+      if (!rec) {
+        problems.push(`[12] ${id} shows "Checked by" (specCheck ${sc.scope}, ${sc.date}) but has no verification record in docs/reports/academic-review/pending-review-*.json.`);
+      } else {
+        const host = (String(rec.specSourceUsed ?? '').match(/https?:\/\/([^/\s)]+)/) || [])[1] ?? '';
+        const onDomain = (b) => (BOARD_DOMAINS[b] ?? []).some((dom) => host === dom || host.endsWith(`.${dom}`));
+        const own = (fm.boards ?? []).some(onDomain);
+        const other = Object.keys(BOARD_DOMAINS).filter((b) => !(fm.boards ?? []).includes(b) && onDomain(b));
+        if (!own && other.length) problems.push(`[12] ${id}'s verification record cites ${host}, an official ${other.join('/')} source, not one for its own board(s) ${(fm.boards ?? []).join(', ')}.`);
+      }
     }
 
     if (fm.reviewedDate) {
@@ -181,6 +218,37 @@ console.log(`  Resources checked: ${resourceCount}`);
 console.log(`  Articles checked: ${articleCount}`);
 console.log(`  Reviewer records available: ${authors.size} (${[...authors.values()].filter((a) => a.isReviewer).length} marked isReviewer: true)`);
 console.log('');
+
+// [13] D-448 -- documented teacher verifications.
+{
+  const TV = JSON.parse(readFileSync('docs/reports/academic-review/teacher-verifications.json', 'utf8'));
+  const REVIEWER_PROFILES = authors;
+  const RESOURCE_FM = new Map(readdirSync('src/content/resources').filter((f) => f.endsWith('.md'))
+    .map((f) => [f.replace(/\.md$/, ''), parseFrontmatter(readFileSync(join('src/content/resources', f), 'utf-8'))]));
+  const APPROVAL = ['approved', 'approved-after-corrections', 'changes-requested'];
+  for (const [i, r] of (TV.results ?? []).entries()) {
+    const at = `[13] teacher-verifications.json #${i} (${r.resource ?? '?'})`;
+    const res = RESOURCE_FM.get(r.resource);
+    if (!res) { problems.push(`${at}: no resource "${r.resource}" in src/content/resources/.`); continue; }
+    const prof = REVIEWER_PROFILES.get(r.reviewer);
+    if (!prof || !prof.isReviewer) problems.push(`${at}: reviewer "${r.reviewer}" is not an author profile with isReviewer: true.`);
+    else {
+      if (!(prof.boards ?? []).includes(r.board)) problems.push(`${at}: reviewer "${r.reviewer}"'s profile does not list board "${r.board}".`);
+      if (res.subject && !subjectCovered(res.subject, prof.subjects ?? [])) problems.push(`${at}: reviewer "${r.reviewer}"'s profile subjects do not cover "${res.subject}".`);
+    }
+    if (!(res.boards ?? []).includes(r.board)) problems.push(`${at}: board "${r.board}" is not one of the resource's boards (${(res.boards ?? []).join(', ')}).`);
+    if (!(res.syllabusCodes ?? []).includes(r.syllabusCode)) problems.push(`${at}: syllabusCode "${r.syllabusCode}" is not one the resource declares.`);
+    const dt = new Date(r.date);
+    if (!r.date || Number.isNaN(dt.getTime())) problems.push(`${at}: no valid date.`);
+    else if (dt > TODAY) problems.push(`${at}: date ${r.date} is in the future.`);
+    else if (res.publishedDate && dt < new Date(res.publishedDate)) problems.push(`${at}: date ${r.date} is before the resource was published.`);
+    if (!APPROVAL.includes(r.approval)) problems.push(`${at}: approval "${r.approval}" is not one of ${APPROVAL.join(', ')}.`);
+    if (!String(r.scope ?? '').trim()) problems.push(`${at}: scope is empty.`);
+    if (!String(r.evidence ?? '').trim() || /todo|tbd|placeholder/i.test(r.evidence)) problems.push(`${at}: evidence is empty or a placeholder.`);
+    const official = (r.sources ?? []).some((u) => (BOARD_DOMAINS[r.board] ?? []).some((dom) => { try { const h = new URL(u).hostname; return h === dom || h.endsWith(`.${dom}`); } catch { return false; } }));
+    if (!official) problems.push(`${at}: no source on an official ${r.board} domain.`);
+  }
+}
 
 if (problems.length === 0) {
   console.log('PASS: 0 problem(s) found.');

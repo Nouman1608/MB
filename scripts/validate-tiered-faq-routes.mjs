@@ -45,14 +45,20 @@ import path from 'node:path';
 
 const errors = [];
 const TEMPLATE_PATH = 'src/pages/boards/[board]/[qualification]/[subject].astro';
+const UTIL_PATH = 'src/utils/academic/assessment-faq.ts';
 
 function checkStatic() {
   if (!fs.existsSync(TEMPLATE_PATH)) {
     errors.push(`STATIC: template not found at ${TEMPLATE_PATH}`);
     return;
   }
-  const src = fs.readFileSync(TEMPLATE_PATH, 'utf8');
+  // D-448: the answer builder moved to UTIL_PATH; the template must call it.
+  const tpl = fs.readFileSync(TEMPLATE_PATH, 'utf8');
+  if (!/assessmentAnswer\(primaryAssessment/.test(tpl)) errors.push(`STATIC: ${TEMPLATE_PATH} no longer builds the assessment FAQ with assessmentAnswer() from ${UTIL_PATH}.`);
+  const src = fs.existsSync(UTIL_PATH) ? fs.readFileSync(UTIL_PATH, 'utf8') : '';
   const required = [
+    { name: 'single-level naming (D-448: HL-only / SL-only records name their level)', re: /tierValues\.length === 1/ },
+    { name: 'staged AS/A Level weighting wording (D-448)', re: /staged \? 'A Level' : 'qualification'/ },
     { name: 'fmtComponent helper', re: /const fmtComponent = \(/ },
     { name: 'describeComponents helper', re: /const describeComponents = \(/ },
     { name: 'alternativeGroup "one of X or Y" phrasing', re: /`one of \$\{group\.map\(fmtComponent\)\.join\(' or '\)\}`/ },
@@ -61,7 +67,7 @@ function checkStatic() {
   ];
   for (const check of required) {
     if (!check.re.test(src)) {
-      errors.push(`STATIC: ${TEMPLATE_PATH} is missing expected WS6 logic -- ${check.name} not found. The tier/alternativeGroup-aware FAQ generator may have been reverted.`);
+      errors.push(`STATIC: ${UTIL_PATH} is missing expected WS6 logic -- ${check.name} not found. The tier/alternativeGroup-aware FAQ generator may have been reverted.`);
     }
   }
 }

@@ -30,10 +30,6 @@ syllabusTopics:
     subtopic: "obsessive-compulsive-disorder-ocd-9990"
 description: "Condensed revision notes for Cambridge 9990 Clinical Psychology: ICD-11 criteria, measures, explanations, treatments and key studies for topics 1.1 to 1.5."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -15,10 +15,6 @@ syllabusTopics:
     subtopic: "communication-9218"
 description: "Language and thought, human and animal communication, Von Frisch, non-verbal behaviour, Darwin and Yuki: section 3.2.1 of OxfordAQA IGCSE Psychology 9218."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-15
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

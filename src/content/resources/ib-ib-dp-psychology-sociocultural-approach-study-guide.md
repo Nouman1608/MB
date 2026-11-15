@@ -14,10 +14,6 @@ syllabusTopics:
     topic: "ib-dp-psychology-sociocultural-approach"
 description: "Social identity theory, social learning, stereotypes, cultural dimensions and acculturation explained with key studies for the IB DP Psychology core."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-15
-  scope: "official-specification"
 reviewStatus: "review-pending"
 reviewNeeded: true
 reviewNote: "Check the current guide for the exact required theories, concepts and the studies you are expected to know for the sociocultural approach."

@@ -8,6 +8,7 @@ image: "/images/faculty/nouman-ahmed.jpg"
 entityType: person
 subjectsTaught: ["Chemistry", "MYP Sciences"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "ocr", "oxfordaqa", "ib"]
+apCoursesReviewed: ["chemistry"]
 qualificationsTaught: []
 yearsExperience: 9
 previousSchools: ["Aitchison College", "BISC", "LGS", "Nordic", "Froebel's", "The City School", "Kaizen", "ESE"]

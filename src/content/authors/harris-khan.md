@@ -7,6 +7,7 @@ credentials: []
 entityType: person
 subjectsTaught: ["Computer Science", "ICT"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+apCoursesReviewed: ["computer-science-a", "computer-science-principles"]
 qualificationsTaught: []
 previousSchools: []
 isReviewer: true

@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "decision": "D-448",
+    "meaning": "Documented teacher verification: a named, authorised subject teacher actually examined the resource against the stated syllabus and approved it. This is the fourth, separate concept beside automated structural checks, repository-side specification verification (pending-review-*.json) and the accountable-teacher credit (reviewStatus 'reviewed', D-379). A record here is never created from a teacher credit, a reviewNote or a specCheck; it is added only when the teacher's own check is evidenced.",
+    "fields": {
+      "resource": "resource slug (file name without .md) in src/content/resources/",
+      "reviewer": "author profile id with isReviewer: true whose profile covers the resource's boards and subject",
+      "board": "board slug; must be one of the resource's boards",
+      "syllabusCode": "one of the resource's syllabusCodes",
+      "syllabusSeries": "the series checked against",
+      "date": "YYYY-MM-DD the check was completed; not in the future, not before publishedDate",
+      "scope": "what was checked, e.g. 'whole page' or 'sections 2.1-2.3 and all worked answers'",
+      "sources": "official documents used (URLs); at least one on the board's official domain",
+      "findings": "what was found, including 'no errors'",
+      "corrections": "commits or descriptions of corrections required/made ([] if none)",
+      "approval": "approved | approved-after-corrections | changes-requested",
+      "evidence": "where the teacher's own record is kept (e.g. signed form reference, email date); never a placeholder"
+    }
+  },
+  "results": []
+}

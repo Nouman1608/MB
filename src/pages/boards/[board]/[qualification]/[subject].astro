@@ -1,5 +1,6 @@
 ---
 import { teachingMonthLabel } from '../../../../utils/academic/teaching-month';
+import { assessmentAnswer } from '../../../../utils/academic/assessment-faq';
 /**
  * Academic hub — /boards/{board}/{qualification}/{subject}/
  *
@@ -450,60 +451,7 @@ if (primaryAssessment) {
    * error. A component with no distinct AS weighting renders exactly as
    * before this fix.
    */
-  const weightingProse = (comp: AssessmentComponent): string => {
-    if (comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent) {
-      return comp.weightingPercent === 0
-        ? `${comp.asWeightingPercent}% of the AS Level (not counted toward the A Level)`
-        : `${comp.asWeightingPercent}% of the AS Level, ${comp.weightingPercent}% of the A Level`;
-    }
-    return `${comp.weightingPercent}% of the qualification`;
-  };
-  const fmtComponent = (comp: (typeof primaryAssessment.components)[number]) => {
-    const dur = comp.durationLabel
-      ? comp.durationLabel.replace(/^approx\. /, 'approximately ').replace(/m$/, ' minutes')
-      : comp.durationMinutes
-      ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
-      : 'no fixed duration';
-    return `${comp.paperCode} (${comp.title}) — ${dur}, ${comp.marks} marks, ${weightingProse(comp)}`;
-  };
-  const describeComponents = (comps: typeof primaryAssessment.components): string => {
-    const seen = new Set<string>();
-    const parts: string[] = [];
-    for (const comp of comps) {
-      if (seen.has(comp.paperCode)) continue;
-      if (comp.alternativeGroup) {
-        const group = comps.filter((c) => c.alternativeGroup === comp.alternativeGroup);
-        group.forEach((c) => seen.add(c.paperCode));
-        parts.push(`one of ${group.map(fmtComponent).join(' or ')}`);
-      } else {
-        seen.add(comp.paperCode);
-        parts.push(fmtComponent(comp));
-      }
-    }
-    return parts.join('; ');
-  };
-  const hasRouteGroups = primaryAssessment.components.some((comp) => comp.routeGroup && comp.routeGroup.length > 0);
-  type NonNotTieredTier = Exclude<NonNullable<(typeof primaryAssessment.components)[number]['tier']>, 'not-tiered'>;
-  const tierValues = hasRouteGroups
-    ? []
-    : [
-        ...new Set(
-          primaryAssessment.components
-            .map((comp) => comp.tier)
-            .filter((t): t is NonNotTieredTier => !!t && t !== 'not-tiered'),
-        ),
-      ];
-  const componentList =
-    tierValues.length > 1
-      ? tierValues
-          .map((tier) => {
-            const shared = primaryAssessment.components.filter((comp) => !comp.tier || comp.tier === 'not-tiered');
-            const tierComps = primaryAssessment.components.filter((comp) => comp.tier === tier);
-            return `${TIER_LABEL[tier] ?? tier} candidates take: ${describeComponents([...tierComps, ...shared])}`;
-          })
-          .join('. ')
-      : describeComponents(primaryAssessment.components);
-  const modelPhrase = primaryAssessment.assessmentModel ? ` It is a ${primaryAssessment.assessmentModel.replace('-', ' ')} qualification.` : '';
+  // D-448: the answer is built in src/utils/academic/assessment-faq.ts (unit-tested against every record).
   /**
    * D-132 fix: when no record is `current` (a combination modeled only via
    * a `future` or `legacy-teach-out` record -- 4 combinations as of this
@@ -526,8 +474,8 @@ if (primaryAssessment) {
           ? ` ${primaryAssessment.code} has been withdrawn and is no longer assessable.`
           : '';
   faqs.push({
-    question: `How is ${c.board} ${c.subject} (${primaryAssessment.code}) assessed?`,
-    answer: `${c.board} ${c.subject} (${primaryAssessment.code}) is assessed through: ${componentList}.${modelPhrase} Source: official ${c.board} specification, verified ${primaryAssessment.verifiedOn}.${primaryStatusCaveat}`,
+    question: `How is ${boardQualPhrase} ${c.subject} (${primaryAssessment.code}) assessed?`,
+    answer: assessmentAnswer(primaryAssessment, { courseLabel: `${boardQualPhrase} ${c.subject}`, boardName: c.board, statusCaveat: primaryStatusCaveat }),
   });
   const future = assessments.find((a) => a.specStatus === 'future');
   const legacy = assessments.find((a) => a.specStatus === 'legacy-teach-out');

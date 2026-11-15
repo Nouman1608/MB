@@ -18,10 +18,6 @@ syllabusTopics:
     subtopic: "research-methods-7182"
 description: "Original practice questions with marked answers on AQA A-level Psychology 7182 Research methods, from sampling and validity to the sign test and test choice."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

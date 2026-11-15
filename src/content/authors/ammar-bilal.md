@@ -10,6 +10,7 @@ image: "/images/faculty/ammar-bilal.jpg"
 entityType: person
 subjectsTaught: ["English Literature", "English", "Language A: Literature", "Language A: Language and Literature", "Language B", "Language Acquisition (MYP)"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
+apCoursesReviewed: ["english-language-and-composition", "english-literature-and-composition"]
 qualificationsTaught: []
 previousSchools: []
 isReviewer: true
