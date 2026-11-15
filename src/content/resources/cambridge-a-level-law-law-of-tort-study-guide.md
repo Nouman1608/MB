@@ -30,7 +30,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the 9084 syllabus for exactly which torts sit under 4.2 and 4.3, for example occupiers' liability, defamation or vicarious liability, and which cases are expected; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "Check the 9084 syllabus for exactly which torts sit under 4.2 and 4.3, for example occupiers' liability, defamation or vicarious liability, and which cases are expected; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

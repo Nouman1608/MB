@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense Pearson Edexcel International Advanced Level Mathematics (Specification Issue 3, April 2019), unit P4 sections 3.1, 5.1 and 5.2. P4 is compulsory for IAL Mathematics and Pure Mathematics and carries no IAS weighting. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-parametric-equations-and-differentiation-of-implicit/), then test yourself with the [practice questions](/resources/edexcel-ial-mathematics-parametric-equations-and-differentiation-of-implicit-practice/).

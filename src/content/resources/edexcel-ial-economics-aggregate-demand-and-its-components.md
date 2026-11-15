@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 2.3.2, Aggregate demand (AD), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It sits in Unit 2, Macroeconomic performance and policy. The specification labels Units 1 and 2 as the International AS (IAS) units and Units 3 and 4 as the International A2 (IA2) units, the additional content required for the full International Advanced Level. This topic is IAS content and is also part of the full qualification.

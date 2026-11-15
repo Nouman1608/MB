@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches **Section R: Forces and Newton's laws (R1 to R6)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification lists Section R under **Paper 2**, alongside vectors, quantities and units, kinematics and moments. A calculator is required in every 7357 paper. Take g = 9.8 m s⁻² throughout unless a question says otherwise, and give answers to 3 significant figures where they are not exact.

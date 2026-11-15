@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P5.2g to P5.2j of the OCR GCSE (9-1) Gateway Science Physics A specification (J249, Version 5.0, July 2026), topic P5 Waves in matter. P5.2i and P5.2j are printed in bold in the specification, so they are tested only in the Higher Tier papers and are labelled below. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-uses-and-hazards-of-electromagnetic-radiation/) first.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the balance of payments, sub-topic 4.6 of Unit 4 (The global economy). It follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The accounts, their components and the way they balance are for both SL and HL. Everything about exchange rates, persistent deficits and surpluses, correction methods, the Marshall-Lerner condition and the J-curve is **HL only** and is marked that way.

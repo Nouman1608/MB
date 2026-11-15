@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: page was mostly a syllabus outline; added teaching sections on ownership, public corporations, MNCs, franchises, location, retailing, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08 recheck: page was mostly a syllabus outline; added teaching sections on ownership, public corporations, MNCs, franchises, location, retailing, trading documents, communication and an FAQ; please re-review; previously reviewed by salman-ahmad on 2026-09-29; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-09-01
 featured: false
 ---

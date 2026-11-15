@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense Unit 3, Business decisions and strategy (sections 3.3.1 to 3.3.6), of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017. For fuller explanations and worked examples, see the [study guide](/resources/edexcel-ial-business-business-decisions-and-strategy/). Then try the [practice questions](/resources/edexcel-ial-business-business-decisions-and-strategy-practice/). Other links: [Edexcel A Level Business hub](/boards/edexcel/a-level/business/), [printable checklist](/checklists/edexcel/a-level/business/), [free diagnostics](/diagnostics/).

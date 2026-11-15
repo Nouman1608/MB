@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide is for IB Middle Years Programme (MYP) Mathematics. It follows the IB *Mathematics* guide (for use from September 2020 or January 2021, first assessment 2022) and covers its section on key concepts: the full list of MYP key concepts, the three that mathematics contributes (form, logic and relationships), example statements of inquiry, and factual, conceptual and debatable inquiry questions. The guide describes a mathematics course and an extended mathematics course; this topic applies to both, because key concepts frame units rather than adding content.

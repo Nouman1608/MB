@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 10 of Cambridge IGCSE ICT 0417 is about communicating with other people through ICT, using email, and about using the internet well to find information. There is a practical side, because you may be asked to compose and send an email in the practical paper, and a theory side, because you need to explain terms and judge sources. This guide covers both halves, 10.1 on email and 10.2 on effective internet use.

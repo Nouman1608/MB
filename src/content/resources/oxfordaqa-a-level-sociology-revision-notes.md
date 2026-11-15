@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08 recheck: expanded thin page with 3.1.3.2-3.1.3.4 methods, research issues and data interpretation, plus an FAQ; please re-review; previously reviewed by naqiya-yousaf on 2026-10-09; 2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

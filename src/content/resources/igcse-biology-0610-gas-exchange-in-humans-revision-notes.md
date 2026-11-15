@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [gas exchange study guide](/resources/igcse-biology-0610-gas-exchange-in-humans/). These notes condense Topic 11, Gas exchange in humans (section 11.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Core outcomes 11.1.1 to 11.1.5 are for everyone. Supplement outcomes 11.1.6 to 11.1.11 are marked **Extended only**, for candidates taking Papers 2 and 4.

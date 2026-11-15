@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.10.3 (Magnetic flux and flux linkage) and 3.10.4 (Electromagnetic induction) of OxfordAQA International AS and A-level Physics (9630), Version 4.4. The specification marks both as International A-level only. The [study guide](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction/) has the full explanations. Then try the [practice questions](/resources/oxfordaqa-a-level-physics-flux-flux-linkage-and-electromagnetic-induction-practice/), check the [course hub](/boards/oxfordaqa/a-level/physics/) and tick off the [checklist](/checklists/oxfordaqa/a-level/physics/). A [free 10-minute diagnostic](/diagnostics/) will show which parts to revise first.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense **4.4 Investment appraisal** (4.4.1), A Level content in Topic 4, for the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-accounting-investment-appraisal/). Then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-investment-appraisal-practice/), the [course hub](/boards/cambridge/a-level/accounting/), the [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/). All businesses and figures are invented, in dollars.

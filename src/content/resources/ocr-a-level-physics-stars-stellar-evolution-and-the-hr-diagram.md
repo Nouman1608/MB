@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers section 5.5.1 (Stars), outcomes (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). It is full A level content. Spectra, Wien's law, Stefan's law and stellar radius (5.5.2) and distances, redshift and the Big Bang (5.5.3) are separate units and are not repeated here.
 

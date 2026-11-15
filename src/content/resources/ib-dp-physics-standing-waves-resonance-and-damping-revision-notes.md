@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section C.4 of the IB *Physics guide* (first assessment 2025) for the final weeks. C.4 is common to SL and HL, with no additional higher-level content. For full explanations and longer worked examples, use the [study guide](/resources/ib-dp-physics-standing-waves-resonance-and-damping/). Test yourself with the [practice questions](/resources/ib-dp-physics-standing-waves-resonance-and-damping-practice/), tick off outcomes on the [printable checklist](/checklists/ib/ib-dp/physics/), see the [IB Physics hub](/boards/ib/ib-dp/physics/), and find weak spots with the [free diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the content heading **Contingency planning and crisis management** from the OCR A Level Business (H431) specification, Version 2.1 (January 2026), in the area of study Business objectives and strategy. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-business-contingency-planning-and-crisis-management/). Test yourself with the [practice questions](/resources/ocr-a-level-business-contingency-planning-and-crisis-management-practice/).

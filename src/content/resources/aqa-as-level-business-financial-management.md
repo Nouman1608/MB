@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers **3.1.4 Financial management** in Unit 3.1 of AQA AS Business (7137), for first teaching from September 2026. It was checked on 5 November 2026 against AQA's AS and A-level Business specification (7137/7138), Version 1.1, November 2025, including its annex of formulae. That specification groups the content under managing finance, internal and external sources of finance, break-even, profit, budgets, cash flow and liquidity, financial reporting, and assessing financial position and performance. Each is taught here with a worked example; formulas follow the specification's annex.

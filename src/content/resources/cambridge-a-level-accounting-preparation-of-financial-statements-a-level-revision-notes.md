@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Cambridge International AS & A Level Accounting 9706 (syllabus for 2026, 2027 and 2028), section 3.1 Preparation of financial statements, the A Level content assessed on Paper 3. Read the [study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level/) for full explanations and worked examples, then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-a-level-practice/). Use the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/) to find weak spots. AS Level content is assumed knowledge. Figures are invented, in dollars.

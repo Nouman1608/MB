@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 5: Alkenes of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017, outcomes 5.1 to 5.8. Topic 5 is part of Unit 1: Structure, Bonding and Introduction to Organic Chemistry, an IAS unit. The [alkenes study guide](/resources/edexcel-ial-chemistry-alkenes/) has the full teaching and worked examples.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 2.5, Organizational (corporate) culture, in Unit 2 (Human resource management) of the IB *Business management guide*, first assessment 2024. The whole section is HL only. SL candidates do not need it, and the guide's assessment outline places HL extension topics in Paper 2 and Paper 3 for HL, not in Paper 1.

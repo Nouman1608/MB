@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 8 of Cambridge O Level Computer Science (2210) is the practical heart of Paper 2: declaring variables and constants, choosing data types, using sequence, selection and iteration, handling strings, writing procedures and functions, storing data in arrays, and reading and writing files. This guide teaches each concept through one running example — a program for a fitness step tracker — so you can see how the pieces fit into a real solution.

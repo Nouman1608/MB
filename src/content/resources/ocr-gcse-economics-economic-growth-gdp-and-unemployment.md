@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1 (Economic growth) and 3.2 (Low unemployment) of the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), for first assessment in 2019. Both sit in topic 3, Economic objectives and the role of government, which is assessed in Component 02, National and International Economics. The specification has no tiers, so all of this is common content. All figures in this guide are invented for illustration. Country Z is a made-up economy, not a real one.

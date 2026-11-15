@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These are condensed notes for sections 4.3 (Achieving quality production) and 4.4 (Location decisions) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and longer worked examples, read the [study guide](/resources/o-level-business-achieving-quality-production-and-location-decisions/). When you are ready to test yourself, use the [practice questions](/resources/o-level-business-achieving-quality-production-and-location-decisions-practice/), the [free diagnostics](/diagnostics/), the [Cambridge O Level Business hub](/boards/cambridge/o-level/business/) and the [printable checklist](/checklists/cambridge/o-level/business/). Earlier operations content is in [the operations management practice set](/resources/o-level-business-operations-management-practice/).
 

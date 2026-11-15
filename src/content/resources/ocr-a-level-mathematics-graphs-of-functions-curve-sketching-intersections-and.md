@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. It covers the graph work in section 1.02: items 1.02m to 1.02r, which sit in Stage 1 (common with the AS qualification), and, as an application of intersections, the solution of inequalities from a graph. Pure Mathematics content is assessed on Paper 1 (Pure Mathematics), Paper 2 (Pure Mathematics and Statistics) and Paper 3 (Pure Mathematics and Mechanics).

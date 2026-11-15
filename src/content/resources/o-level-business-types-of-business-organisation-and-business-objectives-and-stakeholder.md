@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide follows the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers syllabus sections 1.4 (Types of business organisation) and 1.5 (Business objectives and stakeholder objectives), which sit in Topic 1, Understanding business activity. The syllabus is not tiered.

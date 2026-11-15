@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for the AQA A-level Physics (7408) specification, first teaching 2015. They cover section 3.1.1 (Use of SI units and their prefixes) and section 3.1.3 (Estimation of physical quantities) of Measurements and their errors. For full explanations, start with the study guides: [Use of SI Units and Their Prefixes](/resources/aqa-alevel-physics-use-of-si-units-and-their-prefixes/) and [Estimation of Physical Quantities](/resources/aqa-alevel-physics-estimation-of-physical-quantities/). Section 3.1.2 (limitations of measurement) has its own page: [Limitation of Physical Measurements](/resources/aqa-alevel-physics-limitation-of-physical-measurements/).

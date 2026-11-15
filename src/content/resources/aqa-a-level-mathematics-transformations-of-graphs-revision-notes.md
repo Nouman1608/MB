@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense content reference **B9** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018): the effect of simple transformations on the graph of y = f(x), including y = af(x), y = f(x) + a, y = f(x + a), y = f(ax) and combinations. For the explanations and fully worked examples, read the [Transformations of Graphs study guide](/resources/aqa-a-level-mathematics-transformations-of-graphs/) first.

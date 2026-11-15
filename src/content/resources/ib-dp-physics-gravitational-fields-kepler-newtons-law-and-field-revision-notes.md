@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense the standard level and higher level part of **sub-topic D.1, Gravitational fields**, from the IB Diploma Programme *Physics guide*, first assessment 2025. The [study guide](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field/) has the full explanations and longer examples. Try the [practice questions](/resources/ib-dp-physics-gravitational-fields-kepler-newtons-law-and-field-practice/). The potential-based, HL only content of D.1 is not in these notes.

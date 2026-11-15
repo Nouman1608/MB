@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches section **3.2.1 Notation, vocabulary and manipulation** (specification references A1 to A7) of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). The specification splits every reference into three columns: basic foundation content, additional foundation content and Higher content only. Foundation papers can test the first two columns; Higher papers can test all three. Content from the third column is labelled **Higher tier only** below.

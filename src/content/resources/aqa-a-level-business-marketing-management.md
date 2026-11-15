@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the whole marketing section of the AQA AS and A-level Business specification (7131/7132), numbered 3.3.1 to 3.3.4 in the specification text, for A-level Business (7132). The specification says each A-level paper assesses all the content, so marketing can appear on Paper 1, 2 or 3 in any question style. Where the specification gives no formula, this guide gives the standard form and says so.

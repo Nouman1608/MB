@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide is aligned to the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. It covers section 4.2, Costs, scale of production and break-even analysis, which sits inside Operations management. Costs and break-even work can appear on Paper 1 (short answer and data response) and on Paper 2 (case study), so you need both the calculations and the written reasoning.
 

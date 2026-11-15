@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the content point "Economic growth and development" in the AQA A-level Economics (7136) specification, version 1.3 (29 June 2022). It is numbered 3.2.6.5 on the AQA website and appears as 4.2.6.5 in the combined AS and A-level PDF. The specification marks none of it as AS-only or A-level-only.

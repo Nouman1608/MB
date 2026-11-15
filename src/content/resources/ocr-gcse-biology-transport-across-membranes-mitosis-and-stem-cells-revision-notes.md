@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense statements B2.1a to B2.1f of the OCR GCSE (9-1) Biology A Gateway Science specification (J247), Version 4.0, for first assessment in 2018. No statement here is printed in bold, so nothing is marked Higher Tier only. For full explanations see the [study guide](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells/). Then test yourself with the [practice questions](/resources/ocr-gcse-biology-transport-across-membranes-mitosis-and-stem-cells-practice/). Other links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [printable checklist](/checklists/ocr/gcse/biology/), [free diagnostics](/diagnostics/), and [Scaling Up](/resources/ocr-gcse-biology-scaling-up/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.15, Partnership accounts, of the AQA A-level Accounting (7127) specification (version 1.1, October 2026, for A-level exams from June 2019 onwards). The qualification is not tiered, and section 3.15 is assessed on Paper 1. For full explanations and longer worked examples, use the [study guide](/resources/aqa-a-level-accounting-partnership-accounts/); then test yourself with the [practice questions](/resources/aqa-a-level-accounting-partnership-accounts-practice/).

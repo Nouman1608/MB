@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense learning outcomes 5.2.1(a) to 5.2.1(g) of the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. For full explanations go to the [study guide](/resources/ocr-a-level-biology-photosynthesis/), then test yourself with the [practice set](/resources/ocr-a-level-biology-photosynthesis-practice/).

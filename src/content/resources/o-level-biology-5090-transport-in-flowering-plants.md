@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches Topic 7, Transport in flowering plants, for Cambridge O Level Biology 5090. It follows the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 7.1 Uptake and transport of water and ions and 7.2 Transpiration and translocation. The syllabus is not tiered: every candidate studies all of this content.

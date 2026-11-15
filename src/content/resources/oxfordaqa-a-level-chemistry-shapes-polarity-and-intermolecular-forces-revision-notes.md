@@ -40,7 +40,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense **section 3.1.3 Bonding** (3.1.3.1 to 3.1.3.7) of the OxfordAQA International AS and A-level

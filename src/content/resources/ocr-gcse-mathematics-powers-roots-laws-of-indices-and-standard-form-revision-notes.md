@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense the [full study guide](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form/) for the OCR GCSE (9-1) Mathematics specification, Version 2.1 (August 2026), sections 3.01 and 3.02. Fractional indices, fractional powers and estimating powers and roots are Higher tier only and are labelled. Everything else is assessed at both tiers. Use the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/) and the [checklist](/checklists/ocr/gcse/mathematics/) to track progress, and the [free 10-minute diagnostics](/diagnostics/) to find weak spots. When you are ready, move on to the [practice questions](/resources/ocr-gcse-mathematics-powers-roots-laws-of-indices-and-standard-form-practice/).

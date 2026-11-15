@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-a-level-business-the-nature-and-purpose-of-business-and-types-of-business-ownership/).

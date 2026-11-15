@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.3.11, Amines, of the OxfordAQA 9620 specification (International AS and A-level Chemistry, Version 5.3), which applies to exams from the May/June 2020 series onwards. All three subsections are covered, 3.3.11.1 to 3.3.11.3: preparation, base properties and nucleophilic properties. The specification lists this as International A2 content, which makes all of it **International A-level only**, and the Unit 4 paper (Organic 2 and Physical 2) examines it along with the rest of 3.3.7 to 3.3.16; Unit 5, the practical and synoptic paper, may test any content.

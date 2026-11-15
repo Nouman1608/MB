@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check the task types, timing, criteria, grade labels, and recording and moderation rules for the endorsement in the specification, as only general speaking and listening skills are taught here. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

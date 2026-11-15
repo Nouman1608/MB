@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Section 4.8 of AQA A Level Computer Science (7517) asks you to show awareness of the individual (moral), social (ethical), legal and cultural opportunities and risks of computing, and to discuss the challenges facing legislators in the digital age. It is assessed through extended written answers on Paper 2, so the skill is building a balanced, well-evidenced argument about a scenario, not reciting facts about technology.

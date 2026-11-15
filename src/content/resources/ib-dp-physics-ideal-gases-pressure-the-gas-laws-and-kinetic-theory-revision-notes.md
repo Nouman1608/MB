@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense topic B.3 (Gas laws) of the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level. The guide adds nothing extra for Higher Level in this topic. For full explanations and the derivations, use the [study guide](/resources/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory/).

@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 21: web development layers (21.1), creating a web page in HTML (21.2) and using stylesheets (21.3). Website authoring is assessed practically in Paper 3, so many questions ask you to write the exact HTML or CSS you would use, with worked answers showing the code.

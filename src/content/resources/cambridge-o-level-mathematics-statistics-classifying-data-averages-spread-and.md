@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows the Cambridge O Level Mathematics (Syllabus D) syllabus for exams in 2025, 2026 and 2027. It covers sections 9.1 to 9.4 of the statistics content: classifying and tabulating data, interpreting data, averages and spread, and statistical charts. The syllabus is not tiered, so every candidate meets all of this material.
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. It covers the last two content points of specification section 3.2 (topic 2, Verification of accounting records): how to correct errors in double entry records, and the effect of errors on profit calculations. The specification says correcting errors includes the use of the general journal and the suspense account, and that the effect of errors includes adjusting profit or loss for a period after correction. All amounts on this page are in dollars.

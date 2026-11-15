@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense the adjustments for other payables, other receivables, income due and income received in advance from section 3.3 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2 (exams from May/June 2026). Section 3.3 sits within the content for Paper 1 (content 1 to 3) and Paper 2 (content 3 to 5). Full explanations and worked ledgers are in the [study guide](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-adjustments-for-other-payables-other-receivables-and-in-practice/). Course links: the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/), the [printable checklist](/checklists/oxfordaqa/igcse/accounting/) and the [free diagnostics](/diagnostics/). Amounts in these notes are in dollars.

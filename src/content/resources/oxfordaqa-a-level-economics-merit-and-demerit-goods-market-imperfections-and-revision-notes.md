@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes boil down OxfordAQA International AS and A-level Economics (9640), specification version 1.2, sections 3.1.5.4 (merit and demerit goods), 3.1.5.5 (market imperfections) and 3.1.5.6 (inequitable distribution of income and wealth). Section 3.1 is International AS material that the full International A-level builds on. Read the [study guide](/resources/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and/) for the full explanations. Then try the [practice questions](/resources/oxfordaqa-a-level-economics-merit-and-demerit-goods-market-imperfections-and-practice/), see the [course hub](/boards/oxfordaqa/a-level/economics/) and the [printable checklist](/checklists/oxfordaqa/a-level/economics/), and find gaps with the [free diagnostics](/diagnostics/). All numbers here are invented and illustrative.
 

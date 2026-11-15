@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.6 (Momentum) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. This is shared AS and A-level content. For full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-physics-momentum-impulse-and-collisions/). When you are ready to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-physics-momentum-impulse-and-collisions-practice/), the [course hub](/boards/oxfordaqa/a-level/physics/), the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and the [free diagnostics](/diagnostics/).

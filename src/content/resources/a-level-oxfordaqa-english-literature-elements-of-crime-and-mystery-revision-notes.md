@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Unit 3 (Elements of crime and mystery) of OxfordAQA International A-level English Literature (9675) is a

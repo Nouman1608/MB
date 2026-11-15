@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers statements 6.3.3(a) to 6.3.3(f) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. It follows the full A level course. The force on conductors and moving charges is taught in other Marlbridge guides. Use the [revision notes](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-revision-notes/) and the [practice questions](/resources/ocr-a-level-physics-electromagnetic-induction-generators-and-transformers-practice/).
 

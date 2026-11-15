@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes cover **Section P: Quantities and units in mechanics (P1)** of the AQA A-level Mathematics (7357) specification, version 1.3 (31 January 2018), for A-level exams from June 2018 onwards. The specification places Section P in **Paper 2**, and a calculator is required in every 7357 paper. For full explanations and worked examples, start with the [Quantities and units study guide](/resources/aqa-a-level-mathematics-quantities-and-units-in-mechanics/); these notes are for quick recall in the final weeks.

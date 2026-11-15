@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense IB Diploma Programme Biology section C1.1 (Enzymes and metabolism) from the IB *Biology guide*, first assessment 2025. C1.1.1 to C1.1.10 are SL and HL. C1.1.11 to C1.1.17 are **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-enzymes-and-metabolism-active-sites-rates-inhibition/).

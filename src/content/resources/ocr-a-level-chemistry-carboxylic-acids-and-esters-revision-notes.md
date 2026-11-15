@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 6.1.3, Carboxylic acids and esters, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 6.1.3(a) to (f), in Module 6, Organic chemistry and analysis. H432 is the full A level. The [Carboxylic acids and esters study guide](/resources/ocr-a-level-chemistry-carboxylic-acids-and-esters/) explains each idea in full, with longer worked examples.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense **section 3.1.4.1, The importance of cost, revenue and profit for producers**, from the AQA specification for GCSE Economics (8136), first taught from September 2017. For full explanations, use the [study guide](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit/), then test yourself with the [practice questions](/resources/aqa-gcse-economics-business-objectives-costs-revenue-and-profit-practice/). Related reading: the [How Markets Work guide](/resources/aqa-gcse-economics-how-markets-work/), the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/). All firms and figures are invented and illustrative.

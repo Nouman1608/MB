@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Programming is the skill that Paper 2 tests most directly. You must write correct code in a language you have studied (Cambridge allows Python, Java or Visual Basic for the practical paper) and read and write Cambridge pseudocode in the theory papers. This guide uses Cambridge pseudocode and covers the basic building blocks, the three constructs and the structured approach using procedures and functions.

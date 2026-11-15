@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This page is based on the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 (production and productivity) and 3.1.3.2 (specialisation, division of labour and exchange). Section 3.1 is International AS content (Unit 1). The quantitative skills in section 3.5 may turn up in any assessment, which is why the calculations below matter across the whole course. All data below is invented and illustrative.

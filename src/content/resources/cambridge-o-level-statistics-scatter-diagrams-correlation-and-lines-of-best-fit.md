@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers sections 9.1 and 9.2 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027. Topic 9 is "Bivariate distributions and their representation by scatter diagrams". Section 9.1 asks for elementary ideas of correlation, including the terms positive, negative, strong and weak correlation. Section 9.2 asks for lines of best fit, including the method of semi-averages, the derivation of the equation of the fitted straight line in the form y = mx + c, and the use and limitations of a line of best fit in prediction.

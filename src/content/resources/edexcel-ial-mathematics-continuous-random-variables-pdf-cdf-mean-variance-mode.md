@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide covers section 2 of Unit S2 (Statistics 2) in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics, Further Mathematics and Pure Mathematics specification (YMA01), Specification Issue 3, April 2019: topics 2.1 to 2.5 on continuous random variables. The specification lists S2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. Use it with the [revision notes](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-revision-notes/) and the [practice questions](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-practice/). The [Edexcel IAL Mathematics hub](/boards/edexcel/a-level/mathematics/) and the [printable checklist](/checklists/edexcel/a-level/mathematics/) show where this unit sits, and the [free diagnostics](/diagnostics/) help you find weak spots first.
 

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 4.3.7 to 4.3.9 and 4.4.1 to 4.4.3 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2. For full explanations, read the [study guide](/resources/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy/). When you are ready, try the [practice questions](/resources/cambridge-igcse-economics-fiscal-policy-measures-and-monetary-policy-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). Aggregate demand and aggregate supply are not required for 4.3.9, so explain effects through spending, incomes, firms and jobs. All names and figures are invented.

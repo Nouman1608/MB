@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce. 2026-11-08 recheck: stated 18 sections / 3 studied / 36 questions, corrected marking to holistic markbands, added FAQ; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the current subject guide for the section titles within each region and how many sections are studied, because the content within each regional option is chosen from a list that this guide does not reproduce. 2026-11-08 recheck: stated 18 sections / 3 studied / 36 questions, corrected marking to holistic markbands, added FAQ; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

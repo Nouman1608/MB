@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Quick recall for OCR GCSE (9-1) Gateway Science Physics A (J249), Version 5.0 (July 2026), topic P5.3 Wave interactions. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-physics-reflection-refraction-lenses-and-colour/). P5.3a and P5.3b are in bold in the specification, so they are **Higher Tier only**. P5.3c, P5.3d and P5.3e are on both tiers; they are separate Physics only content (not in Combined Science).

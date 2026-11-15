@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This page teaches the higher level end of Reactivity 3.2, "Electron transfer reactions", for IB DP Chemistry. It follows the IB's *Diploma Programme Chemistry guide* (first assessment 2025, published February 2023) and covers understandings Reactivity 3.2.12 to 3.2.16. All five are additional higher level (AHL) material, so everything here is **HL only**, for exam sessions in 2025 and later years.

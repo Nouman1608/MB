@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches the first part of **Structure 3.2, Functional groups: Classification of organic compounds**, matched to the February 2023 IB *Chemistry guide* for the Diploma Programme, whose first exams ran in 2025. It covers understandings Structure 3.2.1 to 3.2.6, all studied at **both SL and HL**; the later understandings (stereoisomers and spectroscopy) are in a [separate unit](/resources/ib-dp-chemistry-isomers-and-spectroscopic-identification-of-organic/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense scale drawings, bearings, constructions and loci for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards), references G12 and G13 in section 3.3.1. Both references are Core content, which is also assessable on the Extension papers, and this unit has no Extension-only statements. For full explanations see the [study guide](/resources/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci/). To test yourself, go to the [practice set](/resources/oxfordaqa-igcse-mathematics-scale-drawings-bearings-constructions-and-loci-practice/), the [course hub](/boards/oxfordaqa/igcse/mathematics/), the [printable checklist](/checklists/oxfordaqa/igcse/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).
 

@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Writing code is only one stage in producing software that works and keeps working. This topic follows a program from the first discussion with a client through design, coding and testing to years of maintenance afterwards. You need to name the stages, compare the common development models, use the standard design tools and design test plans that expose faults.

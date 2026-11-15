@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 6 asks two questions about data: is it protected from people who should not see or change it (security and privacy), and is it accurate and unchanged after entry and transfer (integrity)? For Cambridge International AS & A Level Computer Science 9618 Paper 1 you must name threats and the measures against them, say how each measure works, and apply validation and verification methods, including parity and check digit calculations, to a scenario.

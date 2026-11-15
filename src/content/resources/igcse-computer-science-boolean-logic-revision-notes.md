@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 10 Boolean logic asks you to know six logic gates, their symbols and truth tables, and to move between four representations of the same logic: a problem statement, a logic expression, a logic circuit and a truth table. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 2, with circuits of up to three inputs and one output, and circuits must be drawn exactly as the statement is given, without simplification.

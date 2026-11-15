@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 Route B of OxfordAQA International GCSE English Literature (9275) replaces Route A's unseen-prose section

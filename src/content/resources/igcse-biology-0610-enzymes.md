@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 5, Enzymes (sub-topic 5.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Learning outcomes 1 to 5 are Core. Outcomes 6 to 9 are Supplement content, so they are **Extended only**: they ask you to *explain* what Core candidates only *describe*. Core content is tested on Papers 1 and 3, Core and Supplement content on Papers 2 and 4, and rates of enzyme-catalysed reactions are a listed context for the practical papers (Paper 5 or Paper 6).

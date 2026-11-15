@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers section 5.1 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: measures of central tendency, which are the mean, median, mode and modal class. The syllabus asks for calculation or estimation from a set of numbers, an ungrouped frequency distribution or a grouped frequency distribution. It sits under topic 5, "Statistical measures, their interpretation and appropriate use", so you also need to say which average suits a given set of data and why.

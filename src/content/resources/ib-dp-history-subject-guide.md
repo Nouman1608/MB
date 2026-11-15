@@ -12,7 +12,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision; 2028 course moved to a labelled section; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08 recheck: rewritten to present the current course (first assessment 2017, last exams 2027) per owner decision; 2028 course moved to a labelled section; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

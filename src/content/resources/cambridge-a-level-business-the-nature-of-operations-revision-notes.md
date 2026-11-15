@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense section 4.1, The nature of operations, from the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028 (AS Level topic 4). For full explanations and worked examples, read the [study guide](/resources/cambridge-a-level-business-the-nature-of-operations/). Then test yourself with the [practice questions](/resources/cambridge-a-level-business-the-nature-of-operations-practice/).
 

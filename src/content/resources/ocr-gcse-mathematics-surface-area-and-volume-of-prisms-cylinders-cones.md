@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide is written for the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), and covers section 10.04, volume and surface area calculations (10.04a to 10.04c). All of it is assessed on both the Foundation tier and the Higher tier. There is no Higher tier only content in this unit.
 

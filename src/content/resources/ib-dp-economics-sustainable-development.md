@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 4.7, sustainable development, in Unit 4 The global economy. The meaning of sustainable development and the Sustainable Development Goals are SL and HL. The relationship between sustainability and poverty is **HL only** and is marked that way below. Every country, resource and figure in the worked examples is invented and illustrative.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense the first part of sub-topic C4.2, Transfers of energy and matter, from the IB *Biology guide*, first assessment 2025 (statements C4.2.1 to C4.2.14). Everything here is for SL and HL; none of it is marked higher level only. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels/). Then test yourself with the [practice questions](/resources/ib-dp-biology-energy-flow-in-ecosystems-food-chains-trophic-levels-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable list: [checklist](/checklists/ib/ib-dp/biology/). To find weak spots, use the [free 10-minute diagnostics](/diagnostics/).

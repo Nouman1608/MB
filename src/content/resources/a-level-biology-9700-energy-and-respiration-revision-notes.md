@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense Topic 12, Energy and respiration, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. They cover sections 12.1 (Energy) and 12.2 (Respiration). This is A Level content, examined in Paper 4; the investigations also feed the planning and analysis skills tested in Paper 5. For full explanations and worked examples, use the [energy and respiration study guide](/resources/a-level-biology-9700-energy-and-respiration/).

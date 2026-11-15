@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers 3.5 Marketing from the 8132 AQA GCSE Business specification (first teaching September 2017). It takes in all four parts of the section: 3.5.1 to 3.5.4. Marketing is assessed in Paper 2 (Influences of marketing and finance on business activity), which the specification describes as a 1 hour 45 minute written exam. All businesses and figures below are invented.

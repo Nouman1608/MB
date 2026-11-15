@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for sub-topic C.1, Simple harmonic motion, in the IB *Physics guide* (first assessment 2025). The core is for SL and HL. Anything marked "HL only" is additional higher level content. For explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy/). When you are ready, try the [practice questions](/resources/ib-dp-physics-simple-harmonic-motion-equations-period-and-energy-practice/) or a [free 10-minute diagnostic](/diagnostics/).

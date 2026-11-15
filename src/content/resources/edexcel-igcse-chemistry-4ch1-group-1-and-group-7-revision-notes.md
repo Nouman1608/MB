@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topics (a) Group 1 (alkali metals) and (b) Group 7 (halogens) of Topic 2, Inorganic chemistry, in the Pearson Edexcel International GCSE Chemistry (4CH1) specification, Issue 3 (September 2024). They cover points 2.1–2.8. The qualification is untiered; points 2.4C and 2.8C are bold with a C reference, so they are **Paper 2 only**. For full explanations and worked examples, use the [Group 1 and Group 7 study guide](/resources/edexcel-igcse-chemistry-4ch1-group-1-and-group-7/).

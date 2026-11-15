@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense Criterion C (Communicating) and Criterion D (Applying mathematics in real-life contexts) from the IB MYP *Mathematics guide* (for use from September 2020 and January 2021, first assessment 2022), using the Year 1, Year 3 and Year 5 criteria. For full explanations and worked examples, read the [study guide](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying/) first, then test yourself with the [practice questions](/resources/ib-myp-mathematics-criteria-c-and-d-by-year-communicating-and-applying-practice/). The course hub is [MYP Mathematics](/boards/ib/ib-myp/mathematics/) and the printable list is the [MYP Mathematics checklist](/checklists/ib/ib-myp/mathematics/). The [free 10-minute diagnostics](/diagnostics/) help you pick what to revise.

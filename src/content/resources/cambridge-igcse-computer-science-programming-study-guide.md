@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Programming is where the planning from the previous topic becomes working code. In Cambridge IGCSE Computer Science 0478 you are expected to read, write, complete and correct programs, and you can answer practical questions in the language you have learned (Python, Visual Basic and Java are the usual choices) or in Cambridge pseudocode. The examples here use pseudocode, because the written paper uses it, and the ideas carry straight across to any language.

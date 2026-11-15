@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. It covers sections 6.2.4 to 6.2.6: the methods of protection, the reasons for it and its consequences. The syllabus is not tiered, so everything here is for every candidate. Globalisation, multinational companies and the benefits of free trade (6.2.1 to 6.2.3) are taught elsewhere, so this guide uses free trade only as the starting point to compare against.

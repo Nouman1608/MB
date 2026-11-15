@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.4 (Location) of Unit 5 in the IB *Business management guide*, first assessment 2024, for SL and HL. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-location/). Then test yourself with the [practice questions](/resources/ib-dp-business-management-location-practice/), the [course hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/) and the [free 10-minute diagnostics](/diagnostics/). The guide lists the terms in 5.4 but does not define them, so the definitions here are standard forms. Figures in the examples are invented.

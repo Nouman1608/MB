@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It covers sub-topic 2.1.2 Government policies, parts b) monetary policy and d) government controls. The specification states no Higher or Foundation labels. This material sits under Government and the economy, in Paper 2: Macroeconomics and the Global Economy.

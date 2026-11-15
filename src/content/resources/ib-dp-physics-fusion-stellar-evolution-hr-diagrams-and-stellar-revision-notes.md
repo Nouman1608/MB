@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense **E.5, Fusion and stars**, from the IB *Physics guide*, first assessment 2025, for Standard Level and Higher Level. E.5 has no additional higher level content. The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar/) has the full explanations. When you are ready to practise, use the [practice questions](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-and-stellar-practice/).

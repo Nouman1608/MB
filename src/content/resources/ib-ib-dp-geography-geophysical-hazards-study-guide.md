@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Geophysical hazards is one of the teacher-selected options in the geographic themes part of IB Diploma Programme Geography. It examines the Earth systems that produce earthquakes, volcanic eruptions and related hazards, why those hazards become disasters for some people and not others, and how societies can build resilience. Check that your school teaches this option. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) explains how it relates to the compulsory core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) develops the vulnerability and resilience ideas that also appear there.

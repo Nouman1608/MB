@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Alkanes is section 4.1.2 of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017, and this guide works through it from the start. Seven lettered outcomes, 4.1.2(a) to (g), make up the section within Module 4, Core organic chemistry; each is taught below with worked examples. The specification is for the full A level. Module 4 is examined, the specification says, in Unified chemistry (03) and Synthesis and analytical techniques (02). The section carries no PAG reference.

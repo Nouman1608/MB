@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 9 of Cambridge IGCSE ICT 0417 has two parts: audience appreciation, which means designing ICT solutions that suit the needs of the people who will use them, and copyright, which covers why software is protected by law and how producers stop it being copied illegally. In the exam you justify design choices by linking each one to the audience, and you explain piracy and the methods used to prevent it.

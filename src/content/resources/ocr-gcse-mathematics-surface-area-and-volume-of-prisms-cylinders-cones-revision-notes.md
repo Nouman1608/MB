@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense OCR GCSE (9-1) Mathematics J560, Version 2.1 (August 2026), section 10.04 (10.04a to 10.04c). Everything here is for both the Foundation and the Higher tier; nothing is Higher tier only. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones/), then try the [practice set](/resources/ocr-gcse-mathematics-surface-area-and-volume-of-prisms-cylinders-cones-practice/).
 

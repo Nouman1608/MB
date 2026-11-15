@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic C1.3 (Photosynthesis) from the start. It follows the IB *Biology guide*, first assessment 2025. Statements C1.3.1 to C1.3.8 are SL and HL. Statements C1.3.9 to C1.3.19 are additional higher level and are marked "HL only".

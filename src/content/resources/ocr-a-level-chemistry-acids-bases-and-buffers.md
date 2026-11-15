@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches section 5.1.3, Acids, bases and buffers, from the H432 specification for OCR A Level Chemistry A (Version 3.1, May 2026; first assessment 2017). Its home is Module 5 (Physical chemistry and transition elements); this page works through each lettered outcome, 5.1.3(a) to 5.1.3(o), of the full H432 A level. The assessment overview places Module 5 in Component 01, and Component 03 draws on every module.

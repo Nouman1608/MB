@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers topic 21, Biotechnology and genetic modification, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It works through syllabus sections 21.1, 21.2 and 21.3 in order. Core statements are examined on Papers 1–4; Supplement statements are examined only on the Extended papers (Papers 2 and 4), and they are labelled "Extended only" below.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025. It covers sections 3.2.1.1 (interest rates, saving, borrowing, spending and investment) and 3.2.1.2 (government income and expenditure), which open section 3.2, How economies work. All figures are invented and illustrative.

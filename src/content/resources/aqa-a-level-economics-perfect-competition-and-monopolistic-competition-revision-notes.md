@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for the **Perfect competition** and **Monopolistic competition** sub-sections of AQA A-level Economics (7136), specification version 1.3, 29 June 2022 (3.1.5.3 and 3.1.5.4 on the AQA website). For full explanations and worked examples, read the [study guide](/resources/aqa-a-level-economics-perfect-competition-and-monopolistic-competition/). Test yourself with the [practice set](/resources/aqa-a-level-economics-perfect-competition-and-monopolistic-competition-practice/), and see the wider [microeconomics revision notes](/resources/aqa-a-level-economics-microeconomics-revision-notes/), the [course hub](/boards/aqa/a-level/economics/), the [checklist](/checklists/aqa/a-level/economics/) and the [free diagnostics](/diagnostics/). Every figure here is invented.

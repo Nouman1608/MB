@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section **1.10 Vectors (1.10a to 1.10h)** of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026). For the reasoning and longer worked examples, go to the [study guide](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions/). Test yourself afterwards with the [practice questions](/resources/ocr-a-level-mathematics-vectors-in-two-and-three-dimensions-practice/).

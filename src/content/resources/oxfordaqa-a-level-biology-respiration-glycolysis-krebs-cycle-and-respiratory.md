@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (International AS exams May/June 2017 onwards, International A-level exams May/June 2018 onwards). It covers section 3.3.3, Respiration, in four parts: 3.3.3.1 glycolysis, 3.3.3.2 anaerobic respiration, 3.3.3.3 aerobic respiration and 3.3.3.4 respiratory substrates. It also covers required practical 8. Section 3.3.3 sits in Unit 3, Populations and genes, which the specification lists as International A-level only.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the growth part of the topic Economic growth and development in Component 2, Macroeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. The specification labels no content as AS or extension: all of it is A Level. Economic development, alternative measures such as the Human Development Index, and international organisations are taught elsewhere. All data below are invented and illustrative.

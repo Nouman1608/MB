@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 19: creating a presentation from a text file, using a master slide, editing a presentation and outputting it. Presentations are assessed practically in Paper 2, so Section C sets practical-style tasks with examiner-style checklists alongside the theory questions.

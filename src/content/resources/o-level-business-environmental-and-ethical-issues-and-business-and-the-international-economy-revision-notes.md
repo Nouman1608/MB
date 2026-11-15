@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense sections 6.2 (Environmental and ethical issues) and 6.3 (Business and the international economy) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026. For full explanations and worked examples, read the [study guide](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy/). Then test yourself with the [practice questions](/resources/o-level-business-environmental-and-ethical-issues-and-business-and-the-international-economy-practice/).
 

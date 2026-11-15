@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers **gene expression and epigenetics**, section D2.2 (statements D2.2.1 to D2.2.11) of the IB *Biology guide*, first assessment 2025. The whole section is **additional higher level (HL only)**: the guide states that there is no SL content in it. It sits in Theme D, Continuity and change, and builds on what you already know about transcription and translation.

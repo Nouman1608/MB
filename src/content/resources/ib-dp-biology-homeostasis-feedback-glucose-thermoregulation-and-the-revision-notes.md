@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section D3.3 (Homeostasis) of the IB *Biology guide*, first assessment 2025. Statements D3.3.1 to D3.3.6 are SL and HL; D3.3.7 to D3.3.11 are **HL only**. For full explanations and worked examples use the [study guide](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the/), then try the [practice questions](/resources/ib-dp-biology-homeostasis-feedback-glucose-thermoregulation-and-the-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Checklist: [printable checklist](/checklists/ib/ib-dp/biology/). To find weak areas first, take the [free 10-minute diagnostics](/diagnostics/).

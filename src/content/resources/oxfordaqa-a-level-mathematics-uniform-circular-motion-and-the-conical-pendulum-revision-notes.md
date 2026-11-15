@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section M2.7 of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The content belongs to International A-level (A2) Unit M2 (Mechanics) and is not examined at International AS. For full explanations, use the [study guide](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum/); to test yourself, use the [practice questions](/resources/oxfordaqa-a-level-mathematics-uniform-circular-motion-and-the-conical-pendulum-practice/).

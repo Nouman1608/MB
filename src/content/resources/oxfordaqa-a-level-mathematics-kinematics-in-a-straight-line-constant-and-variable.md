@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide covers sections M1.1 (motion in a straight line with constant acceleration) and M1.2 (motion in a straight line with variable acceleration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places this content in International AS Unit PSM1 (Pure Maths, Statistics and Mechanics), where Mechanics carries 20 of the 80 marks; it carries no further tier labels.

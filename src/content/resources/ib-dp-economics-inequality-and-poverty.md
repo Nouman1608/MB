@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers sub-topic 3.4, the economics of inequality and poverty, in Unit 3 Macroeconomics. Most of 3.4 is SL and HL; the construction of a Lorenz curve from quintile data and two tax calculations are **HL only**, and are marked that way below. Every country, figure and currency here is invented.

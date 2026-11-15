@@ -18,7 +18,7 @@ author: "iftikhar-azeemi"
 reviewer: "hassan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: removed impulse from Unit 1 (it is Unit 4 topic 4.3), second law stated as F = ma per spec 1.3.9, added suvat, slope, moments, work-at-angle and energy questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08 recheck: removed impulse from Unit 1 (it is Unit 4 topic 4.3), second law stated as F = ma per spec 1.3.9, added suvat, slope, moments, work-at-angle and energy questions and an FAQ; please re-review; previously reviewed by hassan on 2026-09-29; 2026-11-08: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

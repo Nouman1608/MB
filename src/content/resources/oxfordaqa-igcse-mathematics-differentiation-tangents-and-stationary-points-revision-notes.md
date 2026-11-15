@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Quick recall for OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), section 3.2.2, statements A13 to A15. All of it is **Extension only**. For full explanations, start with the [study guide](/resources/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points/), then test yourself on the [practice questions](/resources/oxfordaqa-igcse-mathematics-differentiation-tangents-and-stationary-points-practice/). Course pages: the [OxfordAQA IGCSE Mathematics hub](/boards/oxfordaqa/igcse/mathematics/) and the [checklist](/checklists/oxfordaqa/igcse/mathematics/). Not sure what to revise first? Take a [free 10-minute diagnostic](/diagnostics/).
 

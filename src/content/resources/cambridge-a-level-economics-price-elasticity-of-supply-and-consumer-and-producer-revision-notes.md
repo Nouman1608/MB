@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 2.3 (Price elasticity of supply) and 2.5 (Consumer and producer surplus) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 2 is AS Level content and is assumed knowledge for A Level Papers 3 and 4. All figures are invented for illustration. Money is in currency units (cu).

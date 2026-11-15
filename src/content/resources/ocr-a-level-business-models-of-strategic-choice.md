@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OCR A Level Business (H431) specification, Version 2.1 (January 2026), section 1.10 "Models of strategic choice" in the area of study "Business objectives and strategic decisions". The specification is for first assessment in 2017, with final assessment in summer 2027. It covers Porter's Five Forces, Porter's generic strategies and competitive advantage. The specification says techniques and models can be assessed in any appropriate context, so practise applying them to unfamiliar businesses.

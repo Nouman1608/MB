@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. It covers two outcomes from Topic 5, Quartiles, percentiles and measures of dispersion: outcome 5.6 (calculating and estimating standard deviation) and outcome 5.7 (weighing up the range, the interquartile range and the standard deviation, and justifying a choice in context). The syllabus does not split these outcomes into tiers.

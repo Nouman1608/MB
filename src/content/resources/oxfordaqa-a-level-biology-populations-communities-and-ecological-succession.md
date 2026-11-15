@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.3.1, The effect of biotic and abiotic factors on populations, from the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1. It covers 3.3.1.1 to 3.3.1.3 and required practical 9. Unit 3 (Populations and genes) is listed in the specification as International A-level only. Course pages: [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/) and [printable checklist](/checklists/oxfordaqa/a-level/biology/). Companions: [revision notes](/resources/oxfordaqa-a-level-biology-populations-communities-and-ecological-succession-revision-notes/) and [practice questions](/resources/oxfordaqa-a-level-biology-populations-communities-and-ecological-succession-practice/). Try the [free diagnostics](/diagnostics/) too.

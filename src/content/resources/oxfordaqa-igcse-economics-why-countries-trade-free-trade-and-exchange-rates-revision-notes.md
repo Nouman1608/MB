@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.2.4.1 and 3.2.4.2 of the OxfordAQA International GCSE Economics (9214) specification, version 1.0, for exams from May/June 2025 onwards (Paper 2, How economies work). The course is not tiered. For fuller explanations use the [study guide](/resources/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates/), then test yourself with the [practice set](/resources/oxfordaqa-igcse-economics-why-countries-trade-free-trade-and-exchange-rates-practice/). See also the [course hub](/boards/oxfordaqa/igcse/economics/), the [checklist](/checklists/oxfordaqa/igcse/economics/) and the [10-minute diagnostics](/diagnostics/). All countries, currencies and figures are invented.

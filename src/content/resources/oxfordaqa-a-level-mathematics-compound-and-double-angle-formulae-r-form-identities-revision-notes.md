@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Condensed recall for the second part of content area P2.4 (Trigonometry) in the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2. The specification places it in International A-level Unit P2, so it is A2 content and not examined at International AS. For full explanations use the [study guide](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities/), and for questions use the [practice set](/resources/oxfordaqa-a-level-mathematics-compound-and-double-angle-formulae-r-form-identities-practice/). The [course hub](/boards/oxfordaqa/a-level/mathematics/), the [checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/) help you plan. Inverse and reciprocal functions are in their [own notes](/resources/oxfordaqa-a-level-mathematics-inverse-trigonometric-functions-and-secant-cosecant-revision-notes/).

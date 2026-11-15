@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.5.3, Energy and ecosystems, from the AQA AS and A-level Biology specification (7401 and 7402), for first teaching 2015. The section is A-level only, so it is not part of the AS course. It sits in topic 5, which the specification assesses at A-level in the second written paper and the third. For the whole course use the [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Companion pages: [revision notes](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-revision-notes/) and [practice questions](/resources/aqa-a-level-biology-energy-transfer-and-productivity-in-ecosystems-practice/). To find out where you stand first, try the [free diagnostics](/diagnostics/). For wider exam technique see [exam preparation](/resources/aqa-a-level-biology-exam-preparation/).

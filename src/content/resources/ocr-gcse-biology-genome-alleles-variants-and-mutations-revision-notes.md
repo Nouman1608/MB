@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense statements B5.1a to B5.1e of OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. B5.1e is in bold in the specification and is tested only in the Higher Tier papers. For full explanations read the [study guide](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-genome-alleles-variants-and-mutations-practice/).
 

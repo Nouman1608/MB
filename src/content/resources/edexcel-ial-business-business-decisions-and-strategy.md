@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification (YBS11), Issue 1, September 2017, and covers all of Unit 3, sections 3.3.1 to 3.3.6. The paper is source-based with quantitative skills; the ratios are not supplied, so learn them. Every business below is invented.

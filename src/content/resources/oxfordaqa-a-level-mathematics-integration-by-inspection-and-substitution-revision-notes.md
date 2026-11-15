@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense the first part of section P2.7 (Integration) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2: standard integrals, the reverse chain rule by inspection and substitution, and f′(x)/f(x). The specification places this content in International A-level (A2) Unit P2 (Pure Maths); it is not examined at International AS. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-mathematics-integration-by-inspection-and-substitution-practice/). Course links: the [OxfordAQA A-level Mathematics hub](/boards/oxfordaqa/a-level/mathematics/), the [printable checklist](/checklists/oxfordaqa/a-level/mathematics/) and the [free diagnostics](/diagnostics/). Powers of x are covered in the [P1.4 integration notes](/resources/oxfordaqa-a-level-mathematics-integration-indefinite-definite-integrals-areas-and-revision-notes/).
 

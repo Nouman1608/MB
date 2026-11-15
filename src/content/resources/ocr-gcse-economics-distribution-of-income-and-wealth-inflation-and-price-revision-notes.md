@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for the final weeks on sections 3.3 and 3.4 of the OCR GCSE (9-1) Economics specification (J205, Version 2.0, June 2026). For full explanations use the [study guide](/resources/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price/), then test yourself with the [practice questions](/resources/ocr-gcse-economics-distribution-of-income-and-wealth-inflation-and-price-practice/). Course pages: [hub](/boards/ocr/gcse/economics/), [checklist](/checklists/ocr/gcse/economics/), [free diagnostics](/diagnostics/). All figures are invented.

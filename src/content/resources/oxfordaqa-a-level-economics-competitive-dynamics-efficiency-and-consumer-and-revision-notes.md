@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.3.3.8 to 3.3.3.10 of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2: competitive dynamics, static and dynamic efficiency, and consumer and producer surplus. The specification places section 3.3 in the extra International A2 content. All figures are invented and illustrative. For fuller explanations and longer examples, use the [study guide](/resources/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and/), then try the [practice questions](/resources/oxfordaqa-a-level-economics-competitive-dynamics-efficiency-and-consumer-and-practice/).

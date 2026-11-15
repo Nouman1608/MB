@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers section 7.7 (Growth and survival of firms) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. The syllabus places topics 1 to 6 at AS Level and topics 7 to 11 at A Level, and this unit sits in the A Level group, so AS papers do not test it. The firms, markets and figures here are all made up.
 

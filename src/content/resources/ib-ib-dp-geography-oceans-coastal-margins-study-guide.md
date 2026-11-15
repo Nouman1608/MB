@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Oceans and coastal margins is one of the teacher-selected options in the geographic themes section of IB Diploma Programme Geography. It covers how oceans and the atmosphere interact, how oceans shape coastal places, how coasts are managed and how the oceans might be governed in the future. Check with your teacher that your school teaches it. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) sets out how options fit with the core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) is useful background for the climate links in this option.

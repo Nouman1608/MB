@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide covers topic 12 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027: section 12.1 (forming the probability distribution of a discrete variable) and section 12.2 (expectation, expected profit and loss in simple games, and the idea of a fair game). The syllabus is not tiered, so everything here is for every candidate. You need the basic probability from topic 11 first: mutually exclusive events, independent events, and selections made with or without replacement.
 

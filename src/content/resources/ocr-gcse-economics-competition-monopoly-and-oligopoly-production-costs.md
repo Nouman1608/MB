@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.5 (Competition) and 2.6 (Production) of the OCR GCSE (9-1) Economics specification (J205), Version 2.0, for first assessment in 2019. Both sit under "The role of markets and money", which the specification's content overview places in component J205/01. The specification is not tiered, so everything here is common content. Every firm, town, country and figure below is invented for practice and is illustrative only.

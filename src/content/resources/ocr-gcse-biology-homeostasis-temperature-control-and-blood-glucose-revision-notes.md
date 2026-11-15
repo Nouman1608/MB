@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes follow the OCR GCSE (9-1) Gateway Science Biology A (J247) specification, Version 4.0 (August 2026), for first assessment in 2018. They cover statements B3.3a to B3.3e of module B3.3. Only B3.3d (glucagon) is in bold in the specification, so it is Higher Tier only; everything else applies to both tiers. For full explanations and worked examples, use the [study guide](/resources/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose/). When you can recall the notes, try the [practice questions](/resources/ocr-gcse-biology-homeostasis-temperature-control-and-blood-glucose-practice/).

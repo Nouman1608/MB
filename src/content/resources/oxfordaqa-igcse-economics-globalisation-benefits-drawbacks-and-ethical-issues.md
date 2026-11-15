@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This study guide is aligned to the OxfordAQA International GCSE Economics (9214) specification, for exams from May/June 2025 onwards. It covers section 3.2.4.3, Globalisation: benefits and drawbacks, which sits in the topic International trade and the global economy and is assessed in Paper 2, How economies work. The course is not tiered. All data in the examples are invented and illustrative.
 

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers subtopic 2.9, Graphs in practical situations, from the Cambridge IGCSE Mathematics 0580 syllabus for examination in 2025, 2026 and 2027. It teaches both the Core outcomes (C2.9) and the Extended outcomes (E2.9). Core candidates sit Papers 1 (non-calculator) and 3 (calculator); Extended candidates sit Papers 2 (non-calculator) and 4 (calculator). Sections marked **Extended only** are not examined on the Core papers.

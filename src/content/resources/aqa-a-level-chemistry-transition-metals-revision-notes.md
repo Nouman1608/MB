@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.5, Transition metals, of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2, July 2026, for AS and A-level exams from June 2016 onwards. Every part of 3.2.5 (3.2.5.1 to 3.2.5.6) is marked "A-level only", so none of it is on the AS papers. At A-level, inorganic chemistry is listed under Paper 1, and Paper 3 can assess any content.

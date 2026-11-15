@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Document production is the word-processing and desktop-publishing part of Cambridge IGCSE ICT. It is tested in a practical examination, so the marks go to what you actually do to a file: whether the margins are what the task asked for, whether every heading looks identical, and whether the page numbers sit where they were told to. This guide explains each skill, works through a typical set of instructions and lists the slips that cost the most marks.

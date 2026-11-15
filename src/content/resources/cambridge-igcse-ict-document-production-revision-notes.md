@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Document production in Cambridge IGCSE ICT 0417 (Topic 17) is the word-processing skill set assessed in Paper 2: organising page layout (size, orientation, margins, columns and breaks), formatting text (line spacing, tabs, indents, enhancements, lists), finding and replacing text, and adding bookmarks and hyperlinks. You must also know the purpose of page, section and column breaks and of gutter margins.

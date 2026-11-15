@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.2 (Cash flow forecast) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Both papers are based on all the subject content. For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-cash-flow-forecast/). Then test yourself with the [practice questions](/resources/igcse-business-0264-cash-flow-forecast-practice/). Other links: [course hub](/boards/cambridge/igcse/business/), [printable checklist](/checklists/cambridge/igcse/business/), [free diagnostics](/diagnostics/) and [business finance notes](/resources/igcse-business-0264-business-finance/).

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes on 3.5 Marketing (3.5.1 to 3.5.4) from the 8132 AQA GCSE Business specification, first teaching September 2017. Fuller explanations and examples are in the [study guide](/resources/aqa-gcse-business-marketing/). Test yourself with the [practice questions](/resources/aqa-gcse-business-marketing-practice/). Course hub: [AQA GCSE Business](/boards/aqa/gcse/business/). Checklist: [AQA GCSE Business checklist](/checklists/aqa/gcse/business/). Not sure where to start? Use the [free diagnostics](/diagnostics/). Marketing is examined in Paper 2. All examples are invented.

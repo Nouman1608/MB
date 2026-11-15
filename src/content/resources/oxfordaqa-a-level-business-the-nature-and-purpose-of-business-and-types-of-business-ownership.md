@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1.1.1 The nature and purpose of business and 3.1.1.2 Types of business ownership of the OxfordAQA International AS and A-level Business specifications: 9625 (AS exams May/June 2019 onwards) and the successor 9725 (AS exams May/June 2027 onwards). Both are International AS content, assessed in Unit 1 (any content from section 3.1 Business and markets). The two specifications word these sections differently, so each point is tagged **both**, **9625** or **9725**. Examples of motivations, challenges, why start-ups fail, and advantages and disadvantages are Marlbridge's own wording, not lists from either specification.

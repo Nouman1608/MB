@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed recall for sections 3.2.3.4 and 3.2.3.5 of the OxfordAQA International AS and A-level Economics specification (version 1.2). Section 3.2 is International AS content. For full explanations use the [study guide](/resources/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and/), then test yourself on the [practice set](/resources/oxfordaqa-a-level-economics-the-current-account-of-the-balance-of-payments-and-practice/). Links: [course hub](/boards/oxfordaqa/a-level/economics/), [checklist](/checklists/oxfordaqa/a-level/economics/), [free diagnostics](/diagnostics/). The figures here are made up for illustration; Country B does not exist.

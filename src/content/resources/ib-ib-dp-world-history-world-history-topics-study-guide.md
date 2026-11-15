@@ -53,7 +53,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic. 2026-11-08 recheck: corrected essay marking (holistic markbands, two questions per topic), added FAQ; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the current subject guide for the named examples and regions required in each topic and the exact Paper 2 format, as teachers choose the case studies within each topic. 2026-11-08 recheck: corrected essay marking (holistic markbands, two questions per topic), added FAQ; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

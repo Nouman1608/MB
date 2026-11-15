@@ -35,7 +35,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, start with the [study guide](/resources/aqa-a-level-physics-fields-and-their-consequences/). These notes condense section 3.7 Fields and their consequences of the AQA AS and A-level Physics specification (7407/7408, version 1.4, AS and A-level exams June 2016 onwards): 3.7.1 Fields to 3.7.5 Magnetic fields. All of 3.7 is A-level only and is assessed in Paper 2. It is core content, not an option; the options are sections 3.9 to 3.13, one of which you study for Paper 3 Section B.

@@ -30,7 +30,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the 9084 syllabus for the exact scope of 3.1 to 3.4, such as capacity, formalities, statutory implied terms and the cases and statutes expected; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "Check the 9084 syllabus for the exact scope of 3.1 to 3.4, such as capacity, formalities, statutory implied terms and the cases and statutes expected; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

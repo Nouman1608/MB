@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed recall for section 3.4.2.2 (exchange rates) of the OxfordAQA International AS and A-level Economics specification (version 1.2). Section 3.4 is extra International A2 content. For full explanations and longer worked examples, use the [study guide](/resources/oxfordaqa-a-level-economics-exchange-rates/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-exchange-rates-practice/), tick off the [checklist](/checklists/oxfordaqa/a-level/economics/), and see the [course hub](/boards/oxfordaqa/a-level/economics/). The [free diagnostics](/diagnostics/) show which topics to revise first. All figures are invented.

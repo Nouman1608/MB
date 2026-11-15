@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the external influences content in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), first assessment 2017, final assessment summer 2027: political, economic, social and technological factors, the digital revolution, and ethical, legal and environmental factors. For full explanations and worked examples read the [study guide](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics/), then test yourself with the [practice questions](/resources/ocr-a-level-business-political-economic-social-and-technological-factors-and-related-topics-practice/). Wider context is in the [External Influences revision notes](/resources/ocr-a-level-business-external-influences-revision-notes/). Course hub: [OCR A Level Business](/boards/ocr/a-level/business/). Checklist: [printable checklist](/checklists/ocr/a-level/business/). Find weak spots with the [free diagnostics](/diagnostics/).

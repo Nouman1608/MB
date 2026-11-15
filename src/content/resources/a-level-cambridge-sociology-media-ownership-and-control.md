@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 Who owns and controls the media, and does it matter? Syllabus heading 9 of Cambridge International

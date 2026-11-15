@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check how deeply the 2027-2029 syllabus expects plate tectonics, hazard scales and named case studies to be covered for sub-topics 6.1 to 6.4; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check how deeply the 2027-2029 syllabus expects plate tectonics, hazard scales and named case studies to be covered for sub-topics 6.1 to 6.4; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.1.2.4, The marketing mix, from the OxfordAQA International AS and A-level Business specification (main text: 9725 Version 1.1, four elements: product, pricing, promotional mix and distribution). **9625 (Version 3.1) differs and uses seven Ps**; see the 9625 box below. Full explanations and worked examples are in the [study guide](/resources/oxfordaqa-a-level-business-the-marketing-mix/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-business-the-marketing-mix-practice/), use the [course page](/boards/oxfordaqa/a-level/business/) and [checklist](/checklists/oxfordaqa/a-level/business/), and try the [free diagnostics](/diagnostics/) to find gaps. Topic overview: [Marketing revision notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/). All businesses named are invented.

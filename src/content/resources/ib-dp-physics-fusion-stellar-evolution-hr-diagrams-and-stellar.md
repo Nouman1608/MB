@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers **sub-topic E.5, Fusion and stars**, from Topic E, Nuclear and quantum physics, in the IB *Physics guide*, first assessment 2025. The content is the same at Standard Level and Higher Level, and E.5 has no additional higher level material. It is aligned to the guide for first assessment 2025 onwards.

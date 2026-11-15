@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge International AS & A Level Economics (9708) syllabus for examination in 2026, 2027 and 2028. It covers section 7.3 (Efficiency and market failure) and section 7.4 (Private costs and benefits, externalities and social costs and benefits). The syllabus treats topics 1 to 6 as AS Level and 7 to 11 as A Level, so this unit is A Level only. AS content is assumed knowledge for Papers 3 and 4. Every figure below is invented for illustration: the firms, towns and markets are fictional.

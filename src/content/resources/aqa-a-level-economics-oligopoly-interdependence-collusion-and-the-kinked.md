@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches the oligopoly content of the AQA A-level Economics specification (7136, specification version 1.3). It covers the sub-section called Oligopoly, numbered 3.1.5.5 on the AQA website and printed as 4.1.5.5 in the combined AS and A-level PDF. Every figure below is invented for practice, with made-up firms and markets, and is not real data.

@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 A computer system is hardware and software working together to take in data, process it, store it and output the results. This topic explains what the main components are, how the processor runs a program, how software controls the hardware, and how logic gates make decisions at the lowest level. In OxfordAQA International GCSE Computer Science (9210) the questions mix definitions with explanations of "why", so you need to be able to connect a feature to its effect on performance or use.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This page condenses the [study guide](/resources/edexcel-ial-chemistry-transition-metals-redox-and-catalysis/) for last-minute review; go there for the full teaching and worked examples. It follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017, outcomes 17.18 to 17.33 of Topic 17, including Core Practical 14. All of it is examined in the IA2 paper Unit 5: Transition Metals and Organic Nitrogen Chemistry.

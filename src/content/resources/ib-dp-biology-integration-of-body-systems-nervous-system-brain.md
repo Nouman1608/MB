@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers the first ten statements of section C3.1 (Integration of body systems), C3.1.1 to C3.1.10, in the IB *Biology guide*, first assessment 2025, for DP Biology. These statements are listed for both SL and HL, so nothing here is HL only. It applies to the examination sessions that follow that first assessment. The later statements of C3.1, on hormones, feedback and plant growth regulation, are taught on other pages. Use this guide with the [revision notes](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain-revision-notes/) and the [practice questions](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain-practice/). The [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/) sit alongside it.

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 3.1 Trial balance and 3.2 Control accounts of Topic 3, Introduction to control processes, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Topic 3 belongs to Paper 1, Introduction to Bookkeeping and Accounting, which draws exclusively on topics 1 to 3. Paper 2 builds on the same skills. All figures in this guide are in dollars ($) and every business is invented.

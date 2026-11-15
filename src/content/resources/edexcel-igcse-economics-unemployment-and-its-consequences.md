@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers low unemployment as a macroeconomic objective, point c) of section 2.1.1 in the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. It is single tier, so every learner studies all of it. It sits in Paper 2: Macroeconomics and the Global Economy. All figures below are invented and illustrative.

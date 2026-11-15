@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This topic explains how data moves between devices, from a single wire inside a computer to the global internet. You need the vocabulary of communication (baud rate, bandwidth, latency), the layered TCP/IP model, how addresses and ports identify a destination, and the main security measures. Calculations are short but they appear regularly, particularly subnet masks and transfer times.

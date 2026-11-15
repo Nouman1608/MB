@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These are condensed notes for OCR GCSE (9-1) Mathematics (J560), Version 2.1 (August 2026), content references 11.02d to 11.02f. Read the [study guide](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and/) for full explanations and worked examples, and use the [practice questions](/resources/ocr-gcse-mathematics-tree-diagrams-addition-and-multiplication-laws-and-practice/) afterwards. Everything is for both tiers unless it is marked **Higher tier only**. Course pages: [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), [checklist](/checklists/ocr/gcse/mathematics/) and the [free diagnostics](/diagnostics/).
 

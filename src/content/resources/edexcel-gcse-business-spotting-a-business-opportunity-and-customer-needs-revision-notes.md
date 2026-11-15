@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 These notes condense Theme 1, Topic 1.2 Spotting a business opportunity (items 1.2.1 to 1.2.4) of the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples read the [study guide](/resources/edexcel-gcse-business-spotting-a-business-opportunity-and-customer-needs/). Formulae are listed in Appendix 3 of the specification and are not provided in the examinations, so learn the ones you need.

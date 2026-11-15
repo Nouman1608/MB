@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed notes for AQA A-level Biology (7402) sections 3.6.2.1 and 3.6.2.2, both A-level only, from the specification for first teaching 2015. Read the [study guide](/resources/aqa-a-level-biology-nerve-impulses-and-synaptic-transmission/) for full explanations and test yourself with the [practice questions](/resources/aqa-a-level-biology-nerve-impulses-and-synaptic-transmission-practice/). The [AQA A-level Biology hub](/boards/aqa/a-level/biology/), the [printable checklist](/checklists/aqa/a-level/biology/) and the [free 10-minute diagnostics](/diagnostics/) show what to cover next. Earlier material is in [Survival, Response and Receptors](/resources/aqa-a-level-biology-survival-response-and-receptors/).

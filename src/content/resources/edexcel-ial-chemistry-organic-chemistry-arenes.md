@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches Topic 18: Organic Chemistry – Arenes of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 18.1 to 18.6. The content sits in Unit 5: Transition Metals and Organic Nitrogen Chemistry, which is an International A2 (IA2) unit. The specification also says that knowledge of the common uses of the organic compounds mentioned in this topic is expected, so uses are flagged as you go.

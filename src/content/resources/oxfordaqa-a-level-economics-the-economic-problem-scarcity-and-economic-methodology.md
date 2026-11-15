@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers section 3.1.1 (the economic problem and methodology) of the OxfordAQA International AS and A-level Economics (9640) specification, first teaching September 2020. Section 3.1 is International AS content, and 3.3 and 3.4 are the extra International A2 content. All five subsections of 3.1.1 are covered below. Every figure is invented, and every country, firm and market is fictional.
 

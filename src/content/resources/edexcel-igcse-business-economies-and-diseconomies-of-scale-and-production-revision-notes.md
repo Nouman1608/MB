@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 Quick recall for the Pearson Edexcel International GCSE in Business (4BS1) specification, Issue 2, February 2026, Topic 5 Business operations, sections 5.1 and 5.2. Full explanations and worked examples are in the [study guide](/resources/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production/); questions to try are in the [practice set](/resources/edexcel-igcse-business-economies-and-diseconomies-of-scale-and-production-practice/). Course links: the [Edexcel IGCSE Business hub](/boards/edexcel/igcse/business/), the [printable checklist](/checklists/edexcel/igcse/business/) and the [free diagnostics](/diagnostics/). Both papers (Paper 1 small businesses, Paper 2 large businesses) can test any of this.

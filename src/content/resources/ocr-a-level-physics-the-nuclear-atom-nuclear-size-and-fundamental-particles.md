@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers sections 6.4.1 (The nuclear atom) and 6.4.2 (Fundamental particles) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. It is full A level content in Module 6, which the assessment overview places in components 02 and 03. Radioactive decay, half-life and activity, and binding energy, fission and fusion, are separate topics and are not repeated here.
 

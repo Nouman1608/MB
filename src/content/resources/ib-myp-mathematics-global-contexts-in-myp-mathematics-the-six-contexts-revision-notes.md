@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense the global contexts and statements of inquiry material in the IB MYP *Mathematics guide* (for use from September 2020/January 2021, first assessment 2022). MYP mathematics has no SL or HL, and the same framework serves mathematics and extended mathematics. For full explanations and worked examples read the [study guide](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts/), then test yourself with the [practice questions](/resources/ib-myp-mathematics-global-contexts-in-myp-mathematics-the-six-contexts-practice/).

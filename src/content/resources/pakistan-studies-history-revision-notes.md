@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: corrected Junagadh (Indian occupation 1947) and Hyderabad (Operation Polo, Sept 1948), which were not resolved without force; please re-review. 2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08 recheck: corrected Junagadh (Indian occupation 1947) and Hyderabad (Operation Polo, Sept 1948), which were not resolved without force; please re-review. 2026-11-08 recheck: FAQ added; description brought to 140-160 characters; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

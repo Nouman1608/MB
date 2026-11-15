@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for AQA A-level Business (7132), sections 3.1.1 and 3.1.2, for first teaching from September 2023. For full explanations use the [study guide](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different/). When you are ready to test yourself, use the [practice set](/resources/aqa-a-level-business-understanding-the-nature-and-purpose-of-business-and-understanding-different-practice/), the [course hub](/boards/aqa/a-level/business/), the [printable checklist](/checklists/aqa/a-level/business/) and the [free diagnostics](/diagnostics/). The wider topic also has [topic-level revision notes](/resources/aqa-a-level-business-what-is-business-revision-notes/).

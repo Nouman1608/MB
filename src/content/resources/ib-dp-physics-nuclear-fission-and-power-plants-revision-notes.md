@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic E.4, Fission, from the IB *Physics guide* for first assessment 2025. The content is the same for SL and HL, since the guide adds no extra HL material to E.4. For full explanations and extra worked examples, use the [study guide](/resources/ib-dp-physics-nuclear-fission-and-power-plants/).

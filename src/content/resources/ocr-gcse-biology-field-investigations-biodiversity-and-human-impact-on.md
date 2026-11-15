@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide follows the OCR GCSE (9-1) Gateway Science Biology A specification (J247), Version 4.0 (August 2026), topic B6.1 "Monitoring and maintaining the environment", statements B6.1a to B6.1d. Statements B6.1a to B6.1c are assessed in both Foundation and Higher Tier papers. Statement B6.1d is printed in bold in the specification, so it is **Higher Tier only**.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense section C3.2 (Defence against disease) of the IB *Biology guide*, first assessment 2025, for DP Biology. Statements C3.2.1 to C3.2.18 are SL and HL, and the guide has no additional higher level content here. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-defence-against-disease-barriers-immunity-hiv/) first.

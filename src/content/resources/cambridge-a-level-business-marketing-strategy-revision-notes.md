@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense section 8.2 (Marketing strategy) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Full explanations and worked examples are in the [study guide](/resources/cambridge-a-level-business-marketing-strategy/). Test yourself with the [practice questions](/resources/cambridge-a-level-business-marketing-strategy-practice/) and the [earlier A Level marketing practice set](/resources/a-level-business-marketing-a-level-practice/). Also use the [course hub](/boards/cambridge/a-level/business/), the [printable checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

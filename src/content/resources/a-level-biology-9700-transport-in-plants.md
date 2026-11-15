@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 7, Transport in plants, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers sections 7.1 (Structure of transport tissues) and 7.2 (Transport mechanisms). This is AS Level content, examined on Paper 1 (Multiple Choice) and Paper 2 (AS Level Structured Questions); the syllabus states that AS knowledge will also be required on Paper 4. The drawing and measuring skills in 7.1 match the microscope skills listed for Paper 3 (Advanced Practical Skills).

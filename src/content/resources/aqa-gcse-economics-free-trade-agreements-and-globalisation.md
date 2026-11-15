@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Free trade is trade between countries without barriers such as tariffs (taxes on imports) or quotas (limits on the quantity imported). A free-trade agreement is a deal between countries to remove or reduce those barriers, and the European Union is the best-known example for the UK. Globalisation is the growing integration of the world's economies through trade, investment, technology and the movement of people. AQA GCSE Economics (8136) sections 3.2.4.3 and 3.2.4.4 ask you to weigh the arguments for and against free trade, explain the significance of agreements such as the EU, explain what has driven globalisation, and judge its benefits and drawbacks for producers, workers and consumers, including moral, ethical and sustainability issues.

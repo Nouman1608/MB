@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 17, Inheritance, of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers sections 17.1 Chromosomes, genes and proteins, 17.2 Mitosis, 17.3 Meiosis and 17.4 Monohybrid inheritance. Core candidates need the Core statements in 17.1 and 17.4. Sections 17.2 and 17.3 are entirely Supplement, so they are marked **Extended only**, along with the Supplement statements in 17.1 and 17.4.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes cover section 2.3 Proteins, part of Topic 2 Biological molecules, in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027: learning outcomes 1 to 8. It is AS Level content, examined on Papers 1 and 2, and Paper 4 can draw on it. For full explanations and worked examples, use the [Proteins study guide](/resources/a-level-biology-9700-proteins/).

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense statements 7.9 to 7.15 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, including Core Practical 17. Topic 7 is International A2 (IA2); Topics 1 to 4 are International AS (IAS). There are no tiers. For full explanations see the [study guide](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline-practice/).
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics (J560) specification, Version 2.1 (August 2026). It covers content statements 6.01e (factorising), 6.01f (completing the square) and 6.01g (algebraic fractions). Common factors, quadratics of the form x² + bx + c and the difference of two squares are on both tiers. Factorising ax² + bx + c, completing the square and algebraic fractions are **Higher tier only**. Every skill here is done by hand.
 

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These revision notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They condense **sub-topic 2.4, Critique of the maximizing behaviour of consumers and producers**, which is **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-economics-critique-of-maximising-behaviour/), then test yourself with the [practice questions](/resources/ib-dp-economics-critique-of-maximising-behaviour-practice/). The [course hub](/boards/ib/ib-dp/economics/), the [checklist](/checklists/ib/ib-dp/economics/) and the [free diagnostics](/diagnostics/) help you plan. All figures here are invented.

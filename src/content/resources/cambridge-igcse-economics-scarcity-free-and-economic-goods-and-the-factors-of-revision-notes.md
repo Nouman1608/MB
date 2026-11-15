@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes summarise sections 1.1 and 1.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026. For full explanations read the [study guide](/resources/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of/), then test yourself with the [practice questions](/resources/cambridge-igcse-economics-scarcity-free-and-economic-goods-and-the-factors-of-practice/). Related: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/), the wider [basic problem revision notes](/resources/igcse-economics-basic-problem-revision-notes/) and the [free diagnostics](/diagnostics/). All numbers below are invented for practice.

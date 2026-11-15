@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes cover section 1.5, Set language and notation, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for papers sat in January and June. Foundation statements 1.5 A–E apply to both tiers. Higher statements 1.5 A–D (algebraic sets, subsets, n(A) and practical problems) are marked **Higher tier only**. For full explanations and worked examples, read the [set language and notation study guide](/resources/edexcel-igcse-maths-4ma1-set-language-and-notation/).

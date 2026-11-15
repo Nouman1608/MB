@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section **1.5 Preparation of financial statements** (AS Level, Topic 1) of the Cambridge International AS & A Level Accounting 9706 syllabus for exams in 2026, 2027 and 2028. For full explanations and worked statements, read the [study guide](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as/); to test yourself, use the [practice questions](/resources/cambridge-a-level-accounting-preparation-of-financial-statements-as-practice/) and the [free diagnostics](/diagnostics/). Related notes: [1.3 non-current assets](/resources/accounting-non-current-assets-revision-notes/), [1.4 reconciliation and verification](/resources/accounting-reconciliation-verification-revision-notes/), [business entities](/resources/accounting-business-entities-revision-notes/). Course hub: [Cambridge A Level Accounting](/boards/cambridge/a-level/accounting/). Printable [checklist](/checklists/cambridge/a-level/accounting/). The syllabus points to its Teacher Guidance document for the expected formats.

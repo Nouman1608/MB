@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers section 6.1 External influences on business activity (6.1.1 to 6.1.7) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It sits in Topic 6, Business and its environment, which is A Level content. The syllabus bases Paper 3 and Paper 4 on A Level content, with AS knowledge assumed. Use it with the [revision notes](/resources/cambridge-a-level-business-external-influences-on-business-activity-revision-notes/) and the [practice questions](/resources/cambridge-a-level-business-external-influences-on-business-activity-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the IB *Mathematics* guide for the Middle Years Programme (for use from September 2020/January 2021, first assessment 2022). It covers Table 2, the twelve related concepts for mathematics, and the guide's glossary meanings of them. It also covers branch links and unit planning. The guide sets no separate list of related concepts for standard and extended mathematics, so everything here applies across the course. For a quick recall version, use the [revision notes](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve-revision-notes/). To test yourself, use the [practice set](/resources/ib-myp-mathematics-related-concepts-in-myp-mathematics-the-twelve-practice/). The course hub is at [MYP Mathematics](/boards/ib/ib-myp/mathematics/) and the [printable checklist](/checklists/ib/ib-myp/mathematics/) lists every topic. Try the [free 10-minute diagnostics](/diagnostics/) to see where you stand.

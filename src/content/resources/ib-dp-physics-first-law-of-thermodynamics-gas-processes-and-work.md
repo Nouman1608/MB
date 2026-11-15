@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the first half of topic B.4 (Thermodynamics): the first law, work done by a gas, internal energy and the four gas processes. B.4 is entirely additional higher level (8 hours), so everything here is HL only. Entropy, the second law, heat engines and the Carnot limit are taught in a separate unit.

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "ameer-hamza"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: reviewed by ameer-hamza."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by ameer-hamza on 2026-09-29; 2026-11-08: credited to ameer-hamza (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---

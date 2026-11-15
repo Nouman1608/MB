@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for syllabus section 11.2 (Exchange rates), outcomes 11.2.1 to 11.2.5, in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. This is A Level content (topic 11), not examined at AS.

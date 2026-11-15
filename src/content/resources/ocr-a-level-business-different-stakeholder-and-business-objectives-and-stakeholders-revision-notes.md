@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These are condensed notes for the OCR A Level Business (H431) content "Different stakeholder and business objectives" and "Stakeholders", from the specification at Version 2.1 (January 2026), whose final assessment is summer 2027. For full explanations and a worked case, use the [study guide](/resources/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders/). Test yourself with the [practice questions](/resources/ocr-a-level-business-different-stakeholder-and-business-objectives-and-stakeholders-practice/). Related pages are the [Objectives and Strategic Decisions study guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), the [topic revision notes](/resources/a-business-strategy-revision-notes/) and the [topic practice set](/resources/a-business-strategy-practice/). Links for the course are the [OCR A Level Business hub](/boards/ocr/a-level/business/), the [checklist](/checklists/ocr/a-level/business/) and the [free 10-minute diagnostics](/diagnostics/).

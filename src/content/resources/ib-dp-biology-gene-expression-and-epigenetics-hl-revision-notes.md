@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section D2.2, **Gene expression**, of the IB *Biology guide* (first assessment 2025). Everything here is **HL only**. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-gene-expression-and-epigenetics-hl/), then test yourself with the [practice questions](/resources/ib-dp-biology-gene-expression-and-epigenetics-hl-practice/). The [course hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free 10-minute diagnostics](/diagnostics/) help you plan the rest of your revision.

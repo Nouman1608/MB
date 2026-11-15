@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 These notes condense Pearson Edexcel Level 1/Level 2 GCSE (9-1) Business (1BS0), Issue 2, July 2022, Theme 2 topic 2.2 Making marketing decisions, content items 2.2.3 Promotion, 2.2.4 Place and 2.2.5 Using the marketing mix to make business decisions. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix/). When you are ready to test yourself, use the [practice questions](/resources/edexcel-gcse-business-promotion-place-and-combining-the-marketing-mix-practice/).

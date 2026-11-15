@@ -154,6 +154,12 @@ const resources = defineCollection({
     stage: z.enum(['AS', 'A']).optional(),
     /** Set when applicability to a qualification is uncertain and needs a human check. */
     reviewNeeded: z.boolean().default(false),
+    /**
+     * Internal note, never rendered. A dated reviewer credit is written
+     * "YYYY-MM-DD: credited to <id> (accountable teacher, D-379)." (D-453,
+     * checked by validate-review-integrity [14]); it records when the
+     * accountable-teacher credit was applied, not a review event.
+     */
     reviewNote: z.string().optional(),
     description: z.string(),
     author: reference('authors').optional(),

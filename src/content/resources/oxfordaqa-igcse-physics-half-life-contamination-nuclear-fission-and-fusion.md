@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide follows the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It covers 3.7.2 h to j (half-life, contamination and irradiation, the range of half-lives), 3.7.3 (nuclear fission) and 3.7.4 (nuclear fusion). The types of radiation and decay equations (3.7.2 a to g) are taught elsewhere, so here you only need to know that alpha, beta and gamma are emitted by unstable nuclei.
 

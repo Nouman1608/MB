@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense content references 3.02f to 3.02i of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. Reference 3.02f is Stage 1, shared with AS. References 3.02g, 3.02h and 3.02i are **A Level only**. For explanations and fuller worked examples, read the [study guide](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and/). When you are ready to test yourself, use the [practice set](/resources/ocr-a-level-mathematics-variable-acceleration-motion-under-gravity-and-practice/), the [course hub](/boards/ocr/a-level/mathematics/), the [checklist](/checklists/ocr/a-level/mathematics/) and the [free diagnostics](/diagnostics/).

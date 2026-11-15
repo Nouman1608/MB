@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches sections **4.2.1.4 Covalent bonding** and **4.2.1.5 Metallic bonding** of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). Both sit in Topic 2, Bonding, structure, and the properties of matter, which is examined on Paper 1 (1 hour 45 minutes, 100 marks, 50% of the GCSE) and can also be drawn on in Paper 2. Neither section contains any content marked Higher tier only, so everything here is for both Foundation and Higher tier. No required practical is attached to these two sections.

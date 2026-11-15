@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for sections 3.3.1.3 (the objectives of firms) and 3.3.1.4 (the growth of firms) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. This is extra International A2 content. For the full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-objectives-and-growth-of-firms/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-objectives-and-growth-of-firms-practice/), tick off the [checklist](/checklists/oxfordaqa/a-level/economics/), visit the [course hub](/boards/oxfordaqa/a-level/economics/) and try a [free diagnostic](/diagnostics/). All figures here are invented for revision.

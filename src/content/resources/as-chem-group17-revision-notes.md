@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: corrected claim that X-X bond enthalpy and melting/boiling point trends run in the same direction (they are opposite); expanded with opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: corrected claim that X-X bond enthalpy and melting/boiling point trends run in the same direction (they are opposite); expanded with opening answer and FAQ; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 Group 17 in Cambridge AS & A Level Chemistry 9701 (Topic 11) is about trends: down the group the halogens get

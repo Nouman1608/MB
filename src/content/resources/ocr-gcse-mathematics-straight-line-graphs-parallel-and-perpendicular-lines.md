@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). It covers straight-line graphs (7.02a), parallel and perpendicular lines (7.02b) and the equation of a circle with centre at the origin (7.01f). Gradient, intercept, sketching, equations of lines and parallel lines are Foundation and Higher content. Inequality regions, perpendicular lines, tangents and circles are marked **Higher tier only**.

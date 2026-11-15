@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Supply-side policies are government measures that increase the economy's productive capacity by improving the quantity, quality or efficiency of labour, capital and markets. Policies to correct externalities use taxes, subsidies, regulation and information to change how much of a good is produced or consumed when its effects on third parties are ignored by the market. AQA GCSE Economics (8136) sections 3.2.3.3 and 3.2.3.4 expect you to explain the named supply-side policies, weigh their advantages and disadvantages, link them to government objectives, and explain the policies that target positive and negative externalities.

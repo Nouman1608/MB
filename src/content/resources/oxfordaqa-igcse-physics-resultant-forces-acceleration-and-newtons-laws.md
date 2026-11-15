@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide follows section 3.1.3, Resultant forces (statements a to h), of the 9203 OxfordAQA International GCSE Physics specification, which applies to exams from May/June 2018. The qualification is untiered, so everything here is for all candidates. Worked examples run through every statement. For short recall notes use the [revision notes](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws-revision-notes/), and for questions with answers use the [practice questions](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws-practice/).
 

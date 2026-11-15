@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 The material here is aligned to the AQA AS and A-level Economics specification, version 1.3 dated 29 June 2022, for teaching from September 2015. It covers two parts of the sub-section called Perfect competition, imperfectly competitive markets and monopoly: 3.1.5.1 Market structures and 3.1.5.2 The objectives of firms. The combined PDF prints the A-level versions as 4.1.5.1 and 4.1.5.2. All firms, markets and figures are made up and illustrative.

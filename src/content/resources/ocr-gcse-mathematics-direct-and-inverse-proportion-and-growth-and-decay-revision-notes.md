@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 Quick recall for OCR GCSE (9-1) Mathematics J560 (Version 2.1, August 2026), sections 5.02 and 5.03. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay/). When you are ready to practise, use the [practice questions](/resources/ocr-gcse-mathematics-direct-and-inverse-proportion-and-growth-and-decay-practice/).
 

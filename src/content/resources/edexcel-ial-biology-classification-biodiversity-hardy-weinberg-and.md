@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide covers statements 4.14 to 4.21 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification (YBI11), Issue 2. These statements sit in Topic 4, which is part of the International AS (IAS) content, so they belong to the first year of the course and also count towards the full International A Level. The wording below follows the specification; where a statement is split into (i), (ii) and (iii) parts, every part is covered.
 

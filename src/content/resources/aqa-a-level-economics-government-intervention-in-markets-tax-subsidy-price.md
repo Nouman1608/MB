@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers the sub-section Government intervention in markets, numbered 3.1.5.8 on the AQA website (the combined PDF prints the A-level version as 4.1.8.9). The specification gives no AS-only or A-level-only labels for this content. Every country, firm and number below is invented for illustration.

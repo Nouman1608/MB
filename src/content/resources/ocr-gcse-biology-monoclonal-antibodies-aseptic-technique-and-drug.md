@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is for OCR GCSE (9-1) Gateway Science Biology A (J247), using the specification Version 4.0 (August 2026), for first assessment in 2018. It covers four statements from topic B6.3, Monitoring and maintaining health: B6.3m, B6.3n, B6.3p and B6.3q. Statements B6.3m and B6.3n are printed in bold in the specification, which means they are tested only in the Higher Tier papers. B6.3p and B6.3q are assessed at both tiers. The rest of B6.3 (disease types, immunity, vaccination, lifestyle, cancer) is taught in other pages, so it is not repeated here.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR *GCSE (9-1) Physics A (Gateway Science)* specification (J249), Version 5.0, July 2026, for first assessment in 2018. It covers learning outcomes P3.1e, P3.1f and P3.1g from section P3.1 (Static and charge) and P3.2a and P3.2b from section P3.2 (Simple circuits), all inside Topic P3, Electricity. None of these statements is printed in bold in the specification, so all of them can be tested in both Foundation Tier and Higher Tier papers. Topic P3 content sits in the papers that assess Topics P1 to P4.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1.5.1 to 3.1.5.3 of the AQA specification for GCSE Economics (8136), first taught from September 2017: the range of market structures, competitive markets and non-competitive markets, including monopoly and oligopoly. The specification has no tiers, so everything here is common content. Section 3.1.5.4, the labour market, is a separate topic and is not covered here. All firms, towns and figures below are invented for practice.

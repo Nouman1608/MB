@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense **sub-topic E.2, Quantum physics**, from the IB Diploma Programme *Physics guide*, first assessment 2025. E.2 is **HL only** (additional higher level); the guide has no standard level content here. For full explanations and longer worked examples, read the [study guide](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton/), then test yourself with the [practice set](/resources/ib-dp-physics-photoelectric-effect-matter-waves-and-compton-practice/). Hub: [/boards/ib/ib-dp/physics/](/boards/ib/ib-dp/physics/). Checklist: [/checklists/ib/ib-dp/physics/](/checklists/ib/ib-dp/physics/). Not sure where to start? Use the [free diagnostics](/diagnostics/). More general advice is in [exam preparation](/resources/ib-dp-physics-exam-preparation/).

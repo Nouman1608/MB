@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 9: audience appreciation (9.1) and copyright (9.2). They practise the two skills the exam rewards: justifying a design choice by linking it to a named audience, and explaining software copyright and the methods producers use to stop piracy.

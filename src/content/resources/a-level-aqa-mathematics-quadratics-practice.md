@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-06
 featured: false
-reviewNote: "2026-11-08 recheck: added B4 and B5 subtopic mapping (the page already practised both), intro naming 7357 B3-B5, two questions (linear-quadratic pair; combined inequalities in set notation) and FAQ; replaced an incorrect claim that B4 requires both elimination and substitution. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08 recheck: added B4 and B5 subtopic mapping (the page already practised both), intro naming 7357 B3-B5, two questions (linear-quadratic pair; combined inequalities in set notation) and FAQ; replaced an incorrect claim that B4 requires both elimination and substitution. Please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, and covers the first part of S2.6: hypothesis testing for a population proportion (exact binomial probabilities) and for the mean of a Poisson distribution (exact Poisson probabilities), plus the language of testing and Type I and Type II errors. The specification states this content is part of International A-level (A2) Unit S2 (Statistics). It is not examined at International AS. The tests for means of normal distributions in S2.6 are a separate topic and are not repeated here.
 

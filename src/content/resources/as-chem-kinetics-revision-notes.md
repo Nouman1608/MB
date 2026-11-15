@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, syllabus definition of activation energy and effective collisions, worked rate-from-mass-loss example, FAQ); noted surface area is outside the 8.1 outcomes; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: expanded thin notes (opening answer, syllabus definition of activation energy and effective collisions, worked rate-from-mass-loss example, FAQ); noted surface area is outside the 8.1 outcomes; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 AS reaction kinetics in Cambridge AS & A Level Chemistry 9701 (Topic 8) explains rates using effective

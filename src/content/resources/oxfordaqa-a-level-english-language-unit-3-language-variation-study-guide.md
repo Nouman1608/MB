@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the exact task wording, data types, question format and mark allocation for each section of Unit 3 against the specification, and whether it names particular theories or models. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check the exact task wording, data types, question format and mark allocation for each section of Unit 3 against the specification, and whether it names particular theories or models. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

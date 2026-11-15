@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 5.3 (Monetary policy) and 5.4 (Supply-side policy) of the Cambridge International AS & A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. Topic 5 is AS Level content, and the syllabus treats it as assumed knowledge for A Level Papers 3 and 4. Full explanations are in the [study guide](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy/). Test yourself with the [practice questions](/resources/cambridge-a-level-economics-monetary-policy-and-supply-side-policy-practice/), then check the [course hub](/boards/cambridge/a-level/economics/), the [printable checklist](/checklists/cambridge/a-level/economics/) and the [free 10-minute diagnostics](/diagnostics/). All countries and figures are invented.

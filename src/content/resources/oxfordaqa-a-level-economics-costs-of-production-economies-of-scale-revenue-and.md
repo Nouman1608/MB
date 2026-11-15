@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Aligned to the OxfordAQA International AS and A-level Economics specification (9640), version 1.2, this guide covers sections 3.1.3.3 (costs of production), 3.1.3.4 (economies and diseconomies of scale) and 3.1.3.5 (average revenue, total revenue and profit). Section 3.1 is International AS content, and it also forms part of the full International A-level. Quantitative skills (section 3.5) can be assessed in any unit. Every firm and figure is made up for illustration.

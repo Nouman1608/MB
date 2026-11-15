@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.3.3 and 3.3.4 of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-biology-decay-the-carbon-cycle-and-human-effects-on-the-practice/). Course pages: [Biology hub](/boards/oxfordaqa/igcse/biology/) and [printable checklist](/checklists/oxfordaqa/igcse/biology/). Not sure where you stand? Take a [free diagnostic](/diagnostics/).

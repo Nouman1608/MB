@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers IB Diploma Programme Biology, section B3.2 (Transport), as set out in the IB *Biology guide*, first assessment 2025. Statements B3.2.1 to B3.2.10 are standard level and higher level. Statements B3.2.11 to B3.2.18 are additional higher level, so they are **HL only** and are labelled that way below.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028, section 4.3 Budgeting and budgetary control (A Level content, within topic 4 Cost and management accounting). The syllabus says Paper 4 questions are based on section 4 of the subject content and that AS Level content is assumed knowledge. All businesses and figures are invented and amounts are in dollars. See the [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/), the [revision notes](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control-revision-notes/), the [practice questions](/resources/cambridge-a-level-accounting-budgeting-and-budgetary-control-practice/), the [exam preparation guide](/resources/cambridge-a-level-accounting-exam-preparation/) and the free [diagnostics](/diagnostics/).

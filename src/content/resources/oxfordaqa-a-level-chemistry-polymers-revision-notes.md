@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.3.12, Polymers, of OxfordAQA's International AS and A-level Chemistry specification (9620), Version 5.3, for International AS and A-level exams from May/June 2020. They cover 3.3.12.1 Condensation polymers and 3.3.12.2 Biodegradability and disposal of polymers. The whole section is **International A-level only**: it sits in the International A2 organic content, which Unit 4 assesses, and Unit 5 may test anything in the course.

@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 13: creating or editing a document (13.1), tables (13.2) and headers and footers (13.3). Layout is a practical skill used in Papers 2 and 3, so the page combines short theory questions with practical-style tasks and examiner-style checklists.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers the first fifteen statements of section D3.2 (Inheritance) in the IB *Biology guide*, first assessment 2025, for DP Biology. All fifteen statements are SL and HL; none is marked additional higher level. Dihybrid crosses, linkage and chi-squared are taught separately. Revision notes are at [/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-revision-notes/](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-revision-notes/) and questions at [/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-practice/](/resources/ib-dp-biology-inheritance-alleles-monohybrid-crosses-pedigrees-and-practice/). Chromosome numbers: [diversity of organisms](/resources/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and/). Course hub: [/boards/ib/ib-dp/biology/](/boards/ib/ib-dp/biology/). Checklist: [/checklists/ib/ib-dp/biology/](/checklists/ib/ib-dp/biology/). Find weak spots with the [free diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, read the [Spreadsheets study guide](/resources/a-level-cambridge-ict-spreadsheets/) first. These notes condense **topic 8, Spreadsheets**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections **8.1 to 8.4**. Topic 8 is an **AS Level** topic. It is assessed mainly in **Paper 2 (Practical)**, which tests sections 8–11; Paper 1 (Theory) covers sections 1–11, and Paper 4 (Advanced Practical) may include tasks from sections 8–10.

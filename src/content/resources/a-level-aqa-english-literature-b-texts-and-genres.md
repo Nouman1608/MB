@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-02
 featured: false
-reviewNote: "2026-11-08 recheck: set-text lists completed from spec v1.5.1 (Kala 2027, Brotherless Night, named poems; Handmaid's Tale is not post-2000), Section C rubric wording, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: set-text lists completed from spec v1.5.1 (Kala 2027, Brotherless Night, named poems; Handmaid's Tale is not post-2000), Section C rubric wording, FAQ added; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 This guide covers **Paper 2 Texts and Genres**, the second of two exam

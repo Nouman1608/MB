@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense the key concepts of IB MYP Sciences for the final weeks before assessment. For full explanations and worked examples, read the [key concepts study guide](/resources/ib-myp-sciences-key-concepts/) first. The notes follow the IB *MYP Sciences guide* (for use from September 2014/January 2015; published May 2014, updated May 2019), and suit MYP years 4 and 5 (there is no SL/HL split).

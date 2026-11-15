@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 20 Further Programming, A Level content in Cambridge International AS & A Level Computer Science 9618: the low-level, imperative, object-oriented and declarative paradigms, and file processing with exception handling. It is examined in Paper 3, and in Paper 4 Practical (except low-level and declarative programming), where object-oriented code and file handling carry many marks.

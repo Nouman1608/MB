@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense **4.1 Activity based costing (ABC)** from section 4, Cost and management accounting (A Level), of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. For full explanations and a longer worked example, use the [study guide](/resources/cambridge-a-level-accounting-activity-based-costing/). Then test yourself with the [practice questions](/resources/cambridge-a-level-accounting-activity-based-costing-practice/). The [course hub](/boards/cambridge/a-level/accounting/), the printable [checklist](/checklists/cambridge/a-level/accounting/) and the free [10-minute diagnostics](/diagnostics/) help you plan revision. All amounts are in dollars and all businesses are invented.

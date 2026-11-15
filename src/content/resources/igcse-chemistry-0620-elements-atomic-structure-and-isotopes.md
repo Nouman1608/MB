@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches sub-topics 2.1 (Elements, compounds and mixtures), 2.2 (Atomic structure and the Periodic Table) and 2.3 (Isotopes) of topic 2 in the Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028 (version 2). Everything in 2.1 and 2.2 is Core, so every candidate needs it. In 2.3, outcomes 1 and 2 are Core, and outcomes 3 and 4 are Supplement content, labelled **Extended only** below. Core content is examined on Paper 1 (multiple choice) and Paper 3 (theory); Core and Supplement content is examined on Paper 2 (multiple choice) and Paper 4 (theory).

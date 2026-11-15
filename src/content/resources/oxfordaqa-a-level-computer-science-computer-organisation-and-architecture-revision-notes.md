@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes condense topic 7 (Computer organisation and architecture) in the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. Scope: sections 3.7.1 to 3.7.7, International AS content that the specification assigns to the Unit 2 written paper (Concepts and principles of computer science). The [study guide](/resources/oxfordaqa-a-level-computer-science-computer-organisation-and-architecture/) has the full explanations and longer examples; start there if anything below is unfamiliar.

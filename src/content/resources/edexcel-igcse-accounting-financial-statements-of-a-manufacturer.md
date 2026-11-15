@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide covers Topic 4, section 4.5, Financial statements of a manufacturer, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. Topic 4 sits in Paper 2, Financial Statements, which the specification describes as a one-hour 15-minute paper made up of two multi-part questions on financial statements. Paper 2 also builds on topics 1 to 3. The specification does not mark any part of 4.5 as limited to a tier or a sub-set of candidates, so all of it is open to you.

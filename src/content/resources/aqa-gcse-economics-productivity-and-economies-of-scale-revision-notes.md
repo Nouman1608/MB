@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.1.4.2 (production and productivity) and 3.1.4.3 (economies of scale) of the AQA GCSE Economics (8136) specification, first taught from September 2017. The specification gives no tier labels. For full explanations start with the [study guide](/resources/aqa-gcse-economics-productivity-and-economies-of-scale/), then test yourself with the [practice questions](/resources/aqa-gcse-economics-productivity-and-economies-of-scale-practice/). Also useful: the [AQA GCSE Economics hub](/boards/aqa/gcse/economics/), the [checklist](/checklists/aqa/gcse/economics/) and the [free diagnostics](/diagnostics/). All firms and figures are invented.

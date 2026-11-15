@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [Video and audio editing study guide](/resources/a-level-cambridge-ict-video-and-audio-editing/). These notes condense **topic 11, Video and audio editing**, of Cambridge International AS & A Level Information Technology (9626), following the syllabus for examination in 2025, 2026 and 2027 (version 3), sections 11.1 Video editing and 11.2 Audio editing. It is an **AS Level** topic. Paper 1 (Theory) questions are based on sections 1–11 and Paper 2 (Practical) tasks on sections 8–11, so revise both the reasons behind each feature and the editing skills themselves.

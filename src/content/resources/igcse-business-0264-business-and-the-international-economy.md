@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 6.2 (Business and the international economy) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. Both papers are based on all the subject content, so this topic can appear in short answers, data responses and the case study. Use it with the [revision notes](/resources/igcse-business-0264-business-and-the-international-economy-revision-notes/) and the [practice questions](/resources/igcse-business-0264-business-and-the-international-economy-practice/). The [course hub](/boards/cambridge/igcse/business/), the [printable checklist](/checklists/cambridge/igcse/business/) and the [free diagnostics](/diagnostics/) show where to go next.

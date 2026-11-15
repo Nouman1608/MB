@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.1.10 of the AQA AS and A-level Chemistry specification (7404/7405), version 1.2 (July 2026), for AS and A-level exams from June 2016 onwards. The whole section is marked **A-level only**, so it is not part of the AS course. It builds directly on section 3.1.6 (Le Chatelier's principle and Kc), which you should revise first in the [Kc study guide](/resources/aqa-a-level-chemistry-chemical-equilibria-le-chateliers-principle-and-kc/).

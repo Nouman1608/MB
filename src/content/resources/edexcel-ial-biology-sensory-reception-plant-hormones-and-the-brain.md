@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches sensory reception, plant hormones and the brain for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. It covers statements 8.8 to 8.16 of Topic 8, including Core Practical 18. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2), so this material is A2. There are no tiers. Use it with the [revision notes](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-revision-notes/) and the [practice questions](/resources/edexcel-ial-biology-sensory-reception-plant-hormones-and-the-brain-practice/). See the [course hub](/boards/edexcel/a-level/biology/), the [printable checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/). For adrenaline, see [skeletal muscle, cardiac control and adrenaline](/resources/edexcel-ial-biology-skeletal-muscle-cardiac-control-and-adrenaline/).

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the OCR Level 3 Advanced GCE in Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. It covers section 5.2.2 Respiration, learning outcomes (h) to (l): the chemiosmotic theory, anaerobic respiration in eukaryotes, the energy values of respiratory substrates, the respiratory quotient and respirometer practicals.

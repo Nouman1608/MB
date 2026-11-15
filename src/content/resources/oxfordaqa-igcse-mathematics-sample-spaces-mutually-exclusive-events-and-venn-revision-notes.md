@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These revision notes cover OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards), section 3.4.3 Probability, references S14, S15 and S16. All of this is Core content, which can also be assessed on the Extension Tier papers. The [study guide](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn/) gives the full explanations. To test yourself, use the [practice questions](/resources/oxfordaqa-igcse-mathematics-sample-spaces-mutually-exclusive-events-and-venn-practice/). The [course hub](/boards/oxfordaqa/igcse/mathematics/), the [checklist](/checklists/oxfordaqa/igcse/mathematics/) and the [free diagnostics](/diagnostics/) show where this topic sits and how secure you are.
 

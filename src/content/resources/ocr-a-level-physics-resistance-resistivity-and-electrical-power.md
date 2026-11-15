@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers sections 4.2.3 (Resistance), 4.2.4 (Resistivity) and 4.2.5 (Power) of the OCR Advanced GCE in Physics A specification (H556), Version 3.0 (March 2026), for first assessment in 2017. H556 is the full A level. Charge, current, drift velocity, p.d. and e.m.f. (4.2.1 and 4.2.2) are taught on separate pages. Find the course on the [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and tick off outcomes on the [printable checklist](/checklists/ocr/a-level/physics/). Test yourself with the [revision notes](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power-revision-notes/), the [practice questions](/resources/ocr-a-level-physics-resistance-resistivity-and-electrical-power-practice/) and the [free diagnostics](/diagnostics/).
 

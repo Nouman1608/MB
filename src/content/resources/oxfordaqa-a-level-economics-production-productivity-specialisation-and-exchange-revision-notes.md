@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes based on the OxfordAQA *International AS and A-level Economics (9640)* specification, version 1.2, sections 3.1.3.1 (production and productivity) and 3.1.3.2 (specialisation, division of labour and exchange). This is International AS content (Unit 1). Read the [study guide](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange/) first for the reasoning behind each point. Practise with the [practice set](/resources/oxfordaqa-a-level-economics-production-productivity-specialisation-and-exchange-practice/), tick off content on the [checklist](/checklists/oxfordaqa/a-level/economics/), and use the [OxfordAQA Economics hub](/boards/oxfordaqa/a-level/economics/). A quick check of your level: the free [diagnostic tests](/diagnostics/). All figures are invented.

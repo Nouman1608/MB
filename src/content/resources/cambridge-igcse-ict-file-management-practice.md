@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 11: managing files effectively (11.1) and reducing file sizes for storage or transmission (11.2). They test folder structures and file naming, the characteristics of the syllabus file formats, the need for generic formats and the use of .zip and .rar compression.

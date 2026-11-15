@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches section **2.2.2, Bonding and structure**, from OCR's A Level Chemistry A specification (H432, Version 3.1 dated May 2026; first assessment 2017). It covers every lettered statement, (a) to (o), with the additional guidance. H432 is the full A level with no tiers, and Module 2 content is assessed in all three written components (01, 02 and 03).

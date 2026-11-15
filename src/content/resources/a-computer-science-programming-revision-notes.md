@@ -23,7 +23,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: expanded thin page with 4.1 content it lacked (operation lists, string handling, random numbers, exception handling, stack frames, hierarchy charts, aggregation/composition, specifiers, design principles, class diagrams) and an FAQ; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08 recheck: expanded thin page with 4.1 content it lacked (operation lists, string handling, random numbers, exception handling, stack frames, hierarchy charts, aggregation/composition, specifiers, design principles, class diagrams) and an FAQ; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

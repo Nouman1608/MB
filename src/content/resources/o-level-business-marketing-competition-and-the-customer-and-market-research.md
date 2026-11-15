@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the *Cambridge O Level Business Studies (7115) syllabus for examination in 2026*. It covers sections 3.1 (Marketing, competition and the customer) and 3.2 (Market research) of Topic 3, Marketing. Both papers, Paper 1 and Paper 2, last 1 hour 30 minutes and carry 50% each, and either can test this content. Section 3.3 (marketing mix) and 3.4 (marketing strategy) are separate.

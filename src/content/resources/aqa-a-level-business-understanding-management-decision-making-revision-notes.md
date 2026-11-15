@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.2, *Understanding management decision making*, of the AQA AS and A-level Business specification (7132, A-level). For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-business-understanding-management-decision-making/) first. Then try the [practice questions](/resources/aqa-a-level-business-understanding-management-decision-making-practice/). Wider topic pages: [topic revision notes](/resources/aqa-a-level-business-managers-leadership-revision-notes/) and [topic study guide](/resources/aqa-a-level-business-managers-leadership-decision-making/). Course links: [Business hub](/boards/aqa/a-level/business/), [checklist](/checklists/aqa/a-level/business/) and [diagnostics](/diagnostics/). Businesses and figures are invented.

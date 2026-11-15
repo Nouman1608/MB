@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. It covers section 5.3, Population (5.3.1 to 5.3.3). There are no tiers. The syllabus note requires you to interpret a pyramid; drawing one is not required. Every country and figure below is invented and illustrative, and none describes a real place.

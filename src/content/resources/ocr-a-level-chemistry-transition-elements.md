@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 5.3.1, Transition elements, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It covers every lettered outcome, 5.3.1(a) to (l), with its additional guidance. H432 is the full A level. Per the assessment overview, Module 5 content is assessed in component 01 and in component 03, Unified chemistry. No PAG is attached to 5.3.1; its test-tube reactions feed 5.3.2, which carries PAG4.

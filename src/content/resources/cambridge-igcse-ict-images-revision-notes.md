@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 12 of Cambridge IGCSE ICT 0417 is about placing and editing images in documents, presentations and web pages: positioning precisely, resizing with or without keeping the aspect ratio, cropping, rotating, reflecting, adjusting brightness and contrast, and grouping or layering. You also need to know that an image's file size can be reduced by lowering its resolution or colour depth. These skills are assessed through the practical tasks in Papers 2 and 3.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.2.5.1 (the role of money) and 3.2.5.2 (the role and importance of the financial sector for the economy) of the OxfordAQA International GCSE Economics specification (9214), first teaching September 2023, first examined May/June 2025. The section sits in 3.2, How economies work. There are no tiers, so all of it applies to you. The specification says the importance of money and financial markets to consumers, producers and government will be examined, so each part below ends with what it means for those three groups.

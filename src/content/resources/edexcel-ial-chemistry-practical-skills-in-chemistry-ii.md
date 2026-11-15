@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide covers Unit 6: Practical Skills in Chemistry II from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. Unit 6 is an International A2 (IA2) unit with no new theory. It examines the techniques from Units 4 and 5, including Core Practicals 9 to 16, plus the tests for ions, gases and organic groups from Units 1 and 2.

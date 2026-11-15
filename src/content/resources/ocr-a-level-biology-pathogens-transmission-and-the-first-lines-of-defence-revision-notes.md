@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense OCR A Level Biology A (H420) statements 4.1.1(a) to 4.1.1(e), from the OCR specification Version 4.1 (April 2026), for first assessment in 2025. For full explanations read the [study guide](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence/), then test yourself with the [practice questions](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-practice/). Hub: [OCR A Level Biology](/boards/ocr/a-level/biology/). Checklist: [OCR A Level Biology checklist](/checklists/ocr/a-level/biology/). Quick check of where you stand: [free diagnostics](/diagnostics/).

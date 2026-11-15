@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers sections 3.5.9 (collisions of electrons with atoms), 3.5.10 (photoelectric effect) and 3.5.11 (wave-particle duality) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. Sections 3.1 to 3.5 are shared International AS and A-level content, so everything here applies to both.
 

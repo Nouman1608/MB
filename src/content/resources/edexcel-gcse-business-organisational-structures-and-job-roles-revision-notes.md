@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 These notes condense Topic 2.5 Making human resource decisions, items 2.5.1 (Organisational structures) and 2.5.2 (Effective recruitment), from the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. For full explanations and worked examples, read the [study guide](/resources/edexcel-gcse-business-organisational-structures-and-job-roles/). Then try the [practice questions](/resources/edexcel-gcse-business-organisational-structures-and-job-roles-practice/).

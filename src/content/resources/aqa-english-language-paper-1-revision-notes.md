@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: corrected Section B (one essay from a choice of two on children's language development, not a generic data question) and the AS 7701 note; expanded CLD content and added FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: corrected Section B (one essay from a choice of two on children's language development, not a generic data question) and the AS 7701 note; expanded CLD content and added FAQ; please re-review; previously reviewed by ammar-bilal on 2026-09-29; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 ---
 
 **What is AQA A-level English Language Paper 1?** Paper 1, Language, the Individual and Society, is a

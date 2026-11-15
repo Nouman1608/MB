@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches subsection 3.2.3, **Solving equations and inequalities** (specification references A17 to A22), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Linear equations, factorising quadratics, linear/linear simultaneous equations, forming equations and linear inequalities are Foundation content, so they appear at both tiers. Completing the square, the quadratic formula, linear/quadratic simultaneous equations, iteration (A20) and quadratic inequalities are **Higher tier only** and are labelled below.

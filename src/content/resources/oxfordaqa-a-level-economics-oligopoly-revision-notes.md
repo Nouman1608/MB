@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for section 3.3.3.4 (Oligopoly) of the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. This belongs to the Unit 3 (International A2) content. For the reasoning and fuller examples, go to the [study guide](/resources/oxfordaqa-a-level-economics-oligopoly/). Then try the [practice questions](/resources/oxfordaqa-a-level-economics-oligopoly-practice/), the [course hub](/boards/oxfordaqa/a-level/economics/), the [printable checklist](/checklists/oxfordaqa/a-level/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

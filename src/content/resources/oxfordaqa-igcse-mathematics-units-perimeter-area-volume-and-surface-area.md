@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide is for OxfordAQA International GCSE Mathematics (9260), written to the specification Version 5.1 (for exams May/June 2018 onwards). It covers section 3.3.2 Mensuration and calculation, references G14, G15 and G16. Core content is also assessable at Extension, so Core and Extension students both need everything except the statements marked **Extension only**.
 

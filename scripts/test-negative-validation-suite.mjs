@@ -978,6 +978,17 @@ withMutation(
   },
 );
 
+console.log('\n[AV] D-453 -- a reviewer credit recorded as "reviewed by" in reviewNote is rejected');
+withMutation(
+  'src/content/resources/igcse-chemistry-0620-elements-atomic-structure-and-isotopes.md',
+  (text) => text.replace('credited to nouman-ahmed (accountable teacher, D-379).', 'reviewed by nouman-ahmed.'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'records a credit in reviewNote as "reviewed by"',
+    label: 'reviewNote "2026-11-08: reviewed by nouman-ahmed." is rejected',
+  },
+);
+
 console.log(`\n==============================================================================`);
 console.log(`SUMMARY: ${passed} passed, ${failed} failed`);
 console.log(`==============================================================================`);

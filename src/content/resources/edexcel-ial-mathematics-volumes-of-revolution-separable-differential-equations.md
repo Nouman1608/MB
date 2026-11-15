@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (Issue 3, April 2019) and covers Pure Mathematics 4 (P4) integration sections 6.1, 6.4 and 6.5. P4 is a compulsory unit for IAL Mathematics and Pure Mathematics; the specification gives its IAS weighting as N/A, so it is not part of IAS. Substitution, integration by parts and partial fractions (6.2 and 6.3) are taught elsewhere, so every integral here is a standard one.

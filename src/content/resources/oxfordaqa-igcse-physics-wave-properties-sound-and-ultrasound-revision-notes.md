@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense sections 3.3.1 (general properties of waves) and 3.3.3 (sound and ultrasound) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. Parts 3.3.3 d to h are marked "P" in the specification, for full Physics. For full explanations read the [study guide](/resources/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-physics-wave-properties-sound-and-ultrasound-practice/).
 

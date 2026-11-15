@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by naqiya-yousaf."
+reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
 
 These notes condense two sub-sections of AQA GCSE Sociology (8192) Crime and deviance: 3.5.1 *The

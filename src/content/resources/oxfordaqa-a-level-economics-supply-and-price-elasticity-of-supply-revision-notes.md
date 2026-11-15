@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 Quick recall for the OxfordAQA International AS and A-level Economics (9640) specification, sections 3.1.2.3 (the supply of goods and services) and 3.1.2.4 (price elasticity of supply). Section 3.1 is International AS content. For full explanations, read the [study guide](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply/), then try the [practice questions](/resources/oxfordaqa-a-level-economics-supply-and-price-elasticity-of-supply-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/economics/) and [checklist](/checklists/oxfordaqa/a-level/economics/). Check your gaps with the free [diagnostics](/diagnostics/). Related recall: [markets revision notes](/resources/oxfordaqa-a-level-economics-markets-revision-notes/). All numbers below are invented and illustrative.
 

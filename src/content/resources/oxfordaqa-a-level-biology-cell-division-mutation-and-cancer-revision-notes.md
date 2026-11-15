@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.2.10 and 3.2.11 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1 (International AS from May/June 2017, International A-level from May/June 2018), together with Required practical 4. Both sections sit in Unit 2, which the specification lists under International AS and A-level. For full explanations read the [study guide](/resources/oxfordaqa-a-level-biology-cell-division-mutation-and-cancer/), then check recall with the [practice questions](/resources/oxfordaqa-a-level-biology-cell-division-mutation-and-cancer-practice/). Course pages: [hub](/boards/oxfordaqa/a-level/biology/), [checklist](/checklists/oxfordaqa/a-level/biology/) and [free diagnostics](/diagnostics/).

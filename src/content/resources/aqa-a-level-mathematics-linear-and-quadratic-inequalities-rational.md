@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA A-level Mathematics 7357 specification (version 1.3, dated 31 January 2018) and covers the single content statement B5 in Section B, Algebra and functions. It teaches how to solve linear and quadratic inequalities, including those with brackets and fractions, how to write the answer with "and", "or" or set notation, and how to show an inequality in two variables as a region on a graph. The shorter [quadratics, simultaneous equations and inequalities guide](/resources/a-level-aqa-mathematics-quadratics-and-inequalities/) gives a broad overview; this page adds the fraction and region work.

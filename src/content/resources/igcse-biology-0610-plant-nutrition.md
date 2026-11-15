@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 6, Plant nutrition, from the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. It covers section 6.1 (Photosynthesis) and section 6.2 (Leaf structure). Most of the topic is Core, so it can appear on every paper. The two Supplement outcomes (the balanced equation and limiting factors) are marked **Extended only**: they are tested on Papers 2 and 4, not on Papers 1 and 3.

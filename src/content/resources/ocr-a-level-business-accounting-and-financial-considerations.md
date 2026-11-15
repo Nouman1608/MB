@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the whole of topic 6, Accounting and financial considerations, in the OCR A Level Business H431 specification (Version 2.1, January 2026; final assessment summer 2027). Companions: [revision notes](/resources/ocr-a-level-business-accounting-and-financial-considerations-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-accounting-and-financial-considerations-practice/). See also [measures of performance](/resources/ocr-a-level-business-measures-of-performance-financial-and-non-financial/) and [forecasting](/resources/ocr-a-level-business-forecasting/). [OCR A Level Business hub](/boards/ocr/a-level/business/), [checklist](/checklists/ocr/a-level/business/) and the free [10-minute diagnostics](/diagnostics/).

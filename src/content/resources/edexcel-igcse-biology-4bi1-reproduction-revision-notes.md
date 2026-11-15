@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [study guide](/resources/edexcel-igcse-biology-4bi1-reproduction/). These notes condense sub-topic 3(a), **Reproduction** (points 3.1–3.13), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3, for the June and November series examined under Issue 3. The course is untiered. Point 3.10B is bold with a **B** reference and is examined on Paper 2 only.

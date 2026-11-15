@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topics C.2 (Wave model) and C.5 (Doppler effect) from the IB *Physics guide* (first assessment 2025) into one page for the final weeks. C.2 and most of C.5 are SL and HL. The Doppler formulas for sound and other mechanical waves are additional higher level, so they are marked HL only. Full explanations and worked examples are in the [study guide](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect/). When you are ready to test yourself, use the [practice questions](/resources/ib-dp-physics-travelling-waves-and-the-doppler-effect-practice/) and the [free 10-minute diagnostics](/diagnostics/).

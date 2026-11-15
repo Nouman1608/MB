@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check mark allocations against Cambridge 0715 specimen mark schemes before review; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "Check mark allocations against Cambridge 0715 specimen mark schemes before review; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

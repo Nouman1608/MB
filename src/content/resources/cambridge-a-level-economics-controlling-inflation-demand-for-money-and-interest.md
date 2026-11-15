@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. It covers outcomes 9.4.6, 9.4.7 and 9.4.8 of section 9.4 (Money and banking). Topic 9 is A Level content, so none of this is examined at AS. AS content on inflation (4.6), monetary policy (5.3) and supply-side policy (5.4) is assumed knowledge. All countries and figures below are invented and illustrative, and money is in currency units (cu).

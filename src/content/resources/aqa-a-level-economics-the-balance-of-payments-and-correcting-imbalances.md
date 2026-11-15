@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (7135 and 7136), version 1.3, sub-section "The balance of payments" (4.2.6.3 in the combined PDF; 3.2.6.3 on the AQA website and this site's map). It covers the accounts, the current account in detail, causes of imbalances, investment flows, correction policies, their side effects and the global implications. Every country, firm and figure is invented for illustration. The specification states no AS-only or A-level-only labels for this content.

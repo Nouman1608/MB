@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide is aligned to the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), and covers Stage 1 content in sections 1.02a to 1.02i of Algebra and Functions. Nothing here is marked as A Level only. The specification says Pure Mathematics is assessed in components 01, 02 and 03.
 

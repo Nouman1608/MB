@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "Check examples against the 0715 syllabus for 2028 and examiner guidance before review. 2026-11-08 recheck: added FAQ section to expand a thin page; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

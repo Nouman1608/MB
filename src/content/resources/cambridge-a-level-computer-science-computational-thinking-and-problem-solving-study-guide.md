@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This A Level topic raises the standard of the AS algorithm work. You must write and trace more efficient searching and sorting algorithms, build and use abstract data types such as stacks, queues, linked lists and binary trees, compare algorithms using Big O notation and understand recursion, including how it uses the call stack. Many of the longest questions on Paper 3 come from here.

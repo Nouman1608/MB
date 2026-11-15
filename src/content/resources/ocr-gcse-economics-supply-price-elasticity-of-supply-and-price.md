@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Sections 2.3 (Supply) and 2.4 (Price) of Topic 2, The role of markets and money, are covered here for OCR GCSE (9-1) Economics (J205), using version 2.0 of the specification (first assessment 2019). The content sits in Component 01, Introduction to Economics (J205/01). Nothing in this unit is tiered, so every candidate needs all of it. All numbers in the examples are invented.

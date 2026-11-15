@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 4.1.1, Basic concepts of organic chemistry, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. It opens Module 4, Core organic chemistry, and every lettered outcome, 4.1.1(a) to (i), is covered below. H432 is the full A level; according to the specification, Module 4 is assessed in Synthesis and analytical techniques (02) and in Unified chemistry (03). This section has no PAG.

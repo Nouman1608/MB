@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the topic **Supply side policy** from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021 (Macroeconomics, Component 02). The specification labels none of it as AS or Extension. For full explanations, read the [study guide](/resources/ocr-a-level-economics-supply-side-policy/). Test yourself with the [practice questions](/resources/ocr-a-level-economics-supply-side-policy-practice/). Plan with the [OCR Economics hub](/boards/ocr/a-level/economics/), the [checklist](/checklists/ocr/a-level/economics/) and the [free diagnostics](/diagnostics/). All data are invented and illustrative.

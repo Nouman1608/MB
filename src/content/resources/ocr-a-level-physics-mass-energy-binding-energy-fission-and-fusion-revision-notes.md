@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense section 6.4.4 (Nuclear fission and fusion), outcomes (a) to (k), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). The [study guide](/resources/ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion/) has the fuller explanations and longer examples. For timed practice, try the [practice questions](/resources/ocr-a-level-physics-mass-energy-binding-energy-fission-and-fusion-practice/), the [course hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free diagnostics](/diagnostics/).
 

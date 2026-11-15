@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.2.1, Understanding management, leadership and decision making, from the AQA AS and A-level Business specification (7131/7132) for AQA A-level Business (7132). It teaches the content the section lists: the distinction between management and leadership, types of management and leadership styles (autocratic, paternalistic, democratic and laissez-faire) and the influences on them, the named theory (the Tannenbaum Schmidt continuum), and the effectiveness of different styles. The current specification (version 2.0, June 2023) no longer lists the role of managers or the Blake Mouton grid, which the 2015 version did. Both are kept below as background only and are marked as such.

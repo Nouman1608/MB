@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 2, Topic 2.3 Making operational decisions, content items 2.3.3 (managing quality) and 2.3.4 (the sales process). Formulae are listed in Appendix 3 of the specification and are not provided in the examinations, so any calculation here is worth practising from memory.

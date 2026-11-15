@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide follows the OCR A Level Mathematics A specification (Version 3.1, August 2026, for first assessment in 2018). It covers sections 1.04e to 1.04k of the Pure Mathematics content: sequences, sigma notation, arithmetic and geometric series, the sum to infinity and modelling. The specification marks all of these as Stage 2, so they are A Level only and are not part of the AS qualification. Pure Mathematics content is assessed in all three written papers.
 

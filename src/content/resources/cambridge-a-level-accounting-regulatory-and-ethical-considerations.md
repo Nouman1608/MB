@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.2 Regulatory and ethical considerations of the Cambridge International AS & A Level Accounting 9706 syllabus for 2026, 2027 and 2028. It is A Level content. The official text bases the questions of Paper 3, Financial Accounting, on section 3, with AS Level knowledge assumed. All businesses and figures below are invented, and amounts are in dollars.

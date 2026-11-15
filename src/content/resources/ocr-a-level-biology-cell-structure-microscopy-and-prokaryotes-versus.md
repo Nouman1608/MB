@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches section 2.1.1 (a) to (k), Cell structure, in the OCR A Level Biology A specification (H420, Version 4.1, April 2026, first assessment 2025). It follows the specification numbering. For a shorter overview of the whole of Module 2 see [Foundations in Biology](/resources/ocr-a-level-biology-foundations-in-biology/). Condensed recall is in the [revision notes](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-revision-notes/) and exam-style work is in the [practice questions](/resources/ocr-a-level-biology-cell-structure-microscopy-and-prokaryotes-versus-practice/). Course pages: the [OCR A Level Biology hub](/boards/ocr/a-level/biology/), the [printable checklist](/checklists/ocr/a-level/biology/) and the [free diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers the additional higher level (AHL) part of sub-topic D.2, Electric and magnetic fields, from the IB *Physics guide* (first assessment 2025). Everything here is HL only (about six hours of teaching); SL candidates do not study it. It teaches each understanding from scratch, with worked calculations. For quick recall use the [revision notes](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials-revision-notes/), then try the [practice questions](/resources/ib-dp-physics-electric-potential-energy-potential-and-equipotentials-practice/). Find your gaps first with the [free 10-minute diagnostics](/diagnostics/).

@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 6.1-6.3 (purpose of sustainability, the nine named actions, ethics and fair trade, consumer protection); removed carbon-footprint and fair-trade-premium calculations not in the syllabus and added the missing consumer protection section; please review; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 6.1-6.3 (purpose of sustainability, the nine named actions, ethics and fair trade, consumer protection); removed carbon-footprint and fair-trade-premium calculations not in the syllabus and added the missing consumer protection section; please review; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

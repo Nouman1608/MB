@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense outcomes 6.3.2(a) to 6.3.2(e), Populations and sustainability, from the OCR A Level Biology A (H420) specification, Version 4.1 (April 2026), for first assessment in 2025. Read the [full study guide](/resources/ocr-a-level-biology-populations-interactions-and-sustainable-management/) for explanations and worked examples, then test yourself with the [practice questions](/resources/ocr-a-level-biology-populations-interactions-and-sustainable-management-practice/).

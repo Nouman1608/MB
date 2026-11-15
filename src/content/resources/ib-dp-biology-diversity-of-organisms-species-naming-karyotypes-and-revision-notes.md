@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic A3.1, Diversity of organisms, from the IB *Biology guide*, first assessment 2025 (statements A3.1.1 to A3.1.11 for SL and HL; A3.1.12 to A3.1.15 are **HL only** and labelled). For full explanations read the [study guide](/resources/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and/), then test yourself with the [practice questions](/resources/ib-dp-biology-diversity-of-organisms-species-naming-karyotypes-and-practice/). Related: the [Theme A revision notes](/resources/ib-dp-biology-theme-a-unity-diversity-revision-notes/), the [course hub](/boards/ib/ib-dp/biology/), the [checklist](/checklists/ib/ib-dp/biology/) and the [free 10-minute diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers the plant half of statement set B2.2 ("The challenges of size") in the OCR GCSE (9-1) Gateway Science Biology A specification (J247), Version 4.0: statements B2.2f to B2.2j. It sits inside topic B2, Scaling up. None of these five statements is marked as Higher Tier only, so the content is for both tiers. For the whole of topic B2 see the [Scaling up study guide](/resources/ocr-gcse-biology-scaling-up/); this page goes deeper on plant transport. Related pages: the [revision notes](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-revision-notes/) and the [practice questions](/resources/ocr-gcse-biology-transport-in-plants-water-uptake-transpiration-and-practice/). Course hub: [OCR GCSE Biology](/boards/ocr/gcse/biology/). Printable [checklist](/checklists/ocr/gcse/biology/). Not sure where you stand? Try a [free diagnostic](/diagnostics/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the cost statements in Component 1, Microeconomics, of the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021. They sit under the topic on market structures and their implications for the way resources are allocated. The whole specification is A Level, with no content labelled AS or A. All firms, figures and years below are invented for illustration. Course pages: the [hub](/boards/ocr/a-level/economics/) and the [checklist](/checklists/ocr/a-level/economics/). The matching [revision notes](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-revision-notes/) and [practice questions](/resources/ocr-a-level-economics-short-run-costs-diminishing-returns-and-cost-curves-practice/) go with this page.

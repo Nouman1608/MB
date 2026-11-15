@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense Pearson Edexcel International Advanced Level Mathematics (YMA01), Specification Issue 3, April 2019, unit M2 sections 3.1, 4.1, 4.2 and 4.3. The specification states that M2 is an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the/). Test yourself with the [practice set](/resources/edexcel-ial-mathematics-work-energy-and-power-and-collisions-with-the-practice/), and tick off topics on the [printable checklist](/checklists/edexcel/a-level/mathematics/). The [Edexcel A-level Mathematics hub](/boards/edexcel/a-level/mathematics/) lists the rest of the course, and the [free 10-minute diagnostics](/diagnostics/) show where to focus. Use g = 9.8 m s⁻².

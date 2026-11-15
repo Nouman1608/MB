@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers section **2.8 Inequalities** in Topic 2 (Equations, formulae and identities) of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. Statements 2.8A–E are Foundation tier content, so you need them on both tiers. The Higher tier adds two more statements: quadratic inequalities and harder regions. These are labelled **Higher tier only** below. A calculator may be used on every 4MA1 paper.

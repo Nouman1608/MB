@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.4 (Capital expenditure and revenue expenditure) and 2.5 (Depreciation) of Topic 2, Introduction to bookkeeping, in the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. The specification does not divide content into tiers. Paper 1 draws exclusively from topics 1 to 3, so both sections can be examined there. Depreciation also appears again in Topic 5 (Accounting for end of period adjustments), which belongs to Paper 2, with the same four outcomes.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the second half of the Fiscal policy topic in the OCR A Level Economics (H460) specification, version 3.0 (June 2026), for first assessment in 2021. It sits under Macroeconomics, in the application of policy instruments. The first half (the budget, taxation and budget position) is not repeated here. The specification labels no content as AS or A level only. All figures below are invented and illustrative.

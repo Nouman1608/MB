@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022). It covers two A-level sub-sections: Public goods, private goods and quasi-public goods, and Positive and negative externalities in consumption and production. The AQA website numbers them 3.1.8.3 and 3.1.8.4; the combined PDF numbers them 4.1.8.3 and 4.1.8.4. Merit and demerit goods, government tools and government failure belong to other units and are not repeated here. All countries, firms and figures below are invented and illustrative. For recall use the [revision notes](/resources/aqa-a-level-economics-public-goods-and-externalities-revision-notes/), then test yourself with the [practice questions](/resources/aqa-a-level-economics-public-goods-and-externalities-practice/). The hub is [AQA A-level Economics](/boards/aqa/a-level/economics/), the [printable checklist](/checklists/aqa/a-level/economics/) tracks progress, the [free 10-minute diagnostics](/diagnostics/) find gaps, and the wider topic guide is [Individuals, firms, markets and market failure](/resources/aqa-a-level-economics-individuals-firms-markets-and-market-failure/).

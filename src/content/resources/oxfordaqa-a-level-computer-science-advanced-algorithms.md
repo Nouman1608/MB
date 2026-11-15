@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This guide teaches topic 11, Advanced algorithms, from the OxfordAQA 9645 specification for International AS and A-level Computer Science, Version 1.1. It is for International AS exams in May/June 2025 onwards and International A-level exams in May/June 2026 onwards. It covers sections 3.11.1 (graph algorithms) and 3.11.2 (tree algorithms). All of this content is International A-level only. It is examined in Unit 3: Advanced Programming, an on-screen exam taken in C#, Python or VB.Net.

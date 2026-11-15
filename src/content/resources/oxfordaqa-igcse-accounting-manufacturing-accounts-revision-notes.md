@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense the manufacturing organisations content of section 3.4 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026. For full explanations and a long worked example, read the [study guide](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-manufacturing-accounts-practice/), check your coverage on the [checklist](/checklists/oxfordaqa/igcse/accounting/) and see the [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/). Not sure where you stand? Try the [free diagnostics](/diagnostics/). For how the papers are organised, see [Two 75-Mark Papers and How to Work Them](/resources/oxfordaqa-igcse-accounting-exam-preparation/). Amounts are in dollars.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This study guide teaches section **3.4 Searching and sorting algorithms** of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 (International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards). It covers 3.4.1 Searching algorithms and 3.4.2 Sorting algorithms. This is AS content, assessed in Unit 1: Programming, an on-screen exam available in C#, Python or VB.Net.

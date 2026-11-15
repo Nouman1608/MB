@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches the Risk and uncertainty and Opportunity cost content (numbered 1.7 and 1.8 on this site; the specification itself does not number them) of the OCR A Level Business specification (H431, Version 2.1, January 2026), both part of the Business objectives and strategic decisions area. It follows the wording of the learning outcomes in the specification. The qualification has three components, each a two-hour written paper. See the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the printable [checklist](/checklists/ocr/a-level/business/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 1.3.5 Market failure, items 4 to 6, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. This is Unit 1 content, labelled IAS and also part of the full IAL. For full explanations and longer worked examples, use the [study guide](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles/). Test yourself with the [practice set](/resources/edexcel-ial-economics-imperfect-information-moral-hazard-and-market-bubbles-practice/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.13.1 (Rotational motion) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. Section 3.13 is labelled International A-level only. For the reasoning behind each result, see the [study guide](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular/). Then try the [practice questions](/resources/oxfordaqa-a-level-physics-rotational-motion-moment-of-inertia-torque-and-angular-practice/). Tick off what you know on the [printable checklist](/checklists/oxfordaqa/a-level/physics/) and see the [course hub](/boards/oxfordaqa/a-level/physics/). Not sure where your gaps are? Take a [free diagnostic](/diagnostics/).

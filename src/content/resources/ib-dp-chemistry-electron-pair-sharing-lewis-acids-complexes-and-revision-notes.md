@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 For full explanations and longer worked examples, read the [electron-pair sharing study guide](/resources/ib-dp-chemistry-electron-pair-sharing-lewis-acids-complexes-and/) first. These notes compress IB DP Chemistry understandings Reactivity 3.4.6 to 3.4.13 from the IB's February 2023 *Diploma Programme Chemistry guide*, first assessed in 2025, into a form you can review in one sitting. The guide lists all of these understandings as additional higher level, so the whole page is **HL only**, for examinations from 2025 onwards.

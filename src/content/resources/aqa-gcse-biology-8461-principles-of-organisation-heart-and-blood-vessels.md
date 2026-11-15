@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Principles of organisation and the heart and blood vessels is the part of AQA GCSE Biology (8461) Topic 2 that explains how cells build tissues, organs and organ systems, and how the heart, lungs, blood and blood vessels work as one transport system. In the exam you must describe structures, explain how each one suits its function, carry out simple blood-flow rate calculations and evaluate treatments for coronary heart disease.

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It covers Topic 4, section 2 (the financial statements of a partnership), content points a to g. Topic 4 is part of the content that Paper 2, Financial Statements, draws on. Amounts below are in dollars and every business and person is invented.

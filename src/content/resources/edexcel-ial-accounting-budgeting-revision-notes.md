@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes condense topic 2.4, Budgeting, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Accounting (XAC11/YAC11) specification, Issue 2, September 2018: outcomes 2.4.1 to 2.4.5. It is Unit 2 (Corporate and Management Accounting) content, so **Unit 2 (A2) only**. For full explanations and three fully worked examples, read the [budgeting study guide](/resources/edexcel-ial-accounting-budgeting/) first. All names and figures are invented; amounts are in dollars.

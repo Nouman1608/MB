@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section. 2026-11-08 recheck: FAQ added; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "Check which Shakespeare plays and which poets or collections are set, whether the Shakespeare questions use an extract, and the exact marks and assessment objective weightings for each section. 2026-11-08 recheck: FAQ added; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

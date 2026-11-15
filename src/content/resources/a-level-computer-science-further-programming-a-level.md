@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 20 Further Programming covers four programming paradigms (low-level, imperative, object-oriented and declarative) and two practical skills: processing serial, sequential and random files, and handling exceptions. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 3 and, apart from low-level and declarative programming, in program code in Paper 4 Practical.

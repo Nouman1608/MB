@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the multiplier (2.3.4 item 4, a to d) and output gaps (2.3.5 item 4, a to d) from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics (YEC11) specification, Issue 2, June 2018. The content is in Unit 2, one of the two International AS units, and so also forms part of the full International Advanced Level. Full explanations are in the [study guide](/resources/edexcel-ial-economics-the-multiplier-and-output-gaps/). Then test yourself with the [practice questions](/resources/edexcel-ial-economics-the-multiplier-and-output-gaps-practice/). Other links: [course hub](/boards/edexcel/a-level/economics/), [checklist](/checklists/edexcel/a-level/economics/), [free diagnostics](/diagnostics/). All figures are invented.

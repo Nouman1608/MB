@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08 recheck: FAQ added; please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions.

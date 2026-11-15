@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.2.2, **Graphs** (specification references A8 to A16), of the AQA GCSE Mathematics (8300) specification, for teaching from September 2015 with exams from May/June 2017 (version 1.0). Graphs can be tested on any of the three papers: Paper 1 is non-calculator, and Papers 2 and 3 allow a calculator. Basic and additional foundation content is for both tiers. Content in the specification's "Higher content only" column is labelled **Higher tier only** below.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide is written for the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). It covers statement G20 in section 3.3.2, Mensuration and calculation: the sine rule, the cosine rule and the area formula for any triangle. All of G20 sits in the Extension content column, so every skill here is **Extension only**. The specification also says all content can be assessed on the Extension papers.
 

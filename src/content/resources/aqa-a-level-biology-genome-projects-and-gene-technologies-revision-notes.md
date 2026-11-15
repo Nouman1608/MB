@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These revision notes cover AQA A-level Biology (7402) sections 3.8.3 and 3.8.4 (3.8.4.1, 3.8.4.2 and 3.8.4.3) from the AQA AS and A-level Biology specification for first teaching 2015. All of this content is marked A-level only. For full explanations use the [study guide](/resources/aqa-a-level-biology-genome-projects-and-gene-technologies/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-genome-projects-and-gene-technologies-practice/). Course pages: [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/). Not sure where to start? Try the [free diagnostics](/diagnostics/).
 

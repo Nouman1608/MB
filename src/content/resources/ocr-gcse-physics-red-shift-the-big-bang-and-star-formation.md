@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR *GCSE (9-1) Gateway Science Physics A* specification (J249), Version 5.0 (July 2026), for first assessment in 2018. It covers statements P8.3a, P8.3b and P8.3c in topic P8.3, Beyond Earth. None of the three is printed in bold, so they are assessed in both Foundation and Higher Tier papers. The specification marks all three as separate Physics only content (not in Combined Science). Other statements in P8.3 are taught on separate pages and are not repeated here.

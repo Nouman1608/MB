@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 3.1.7 Water and 3.1.8 Inorganic ions of Topic 1, Biological molecules, in the AQA AS and A-level Biology specification (7402 is the A-level), for first teaching 2015. Both sections are AS content, part of Topic 1. They have no required practical of their own, but the skills below (rates, percentages, reading tables) are used throughout the course.

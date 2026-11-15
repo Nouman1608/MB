@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 4.3, Sales forecasting (HL only), from Unit 4 of the IB *Business management guide*, first assessment 2024. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-sales-forecasting-hl-only/). The guide lists one content point here, the benefits and limitations of sales forecasting (AO3), and lists simple linear regression (HL only) in its toolkit.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense the applications of differentiation in OCR A Level Mathematics A (H240), specification Version 3.1 (August 2026): references 1.07m, 1.07n and 1.07o (Stage 1, shared with AS Level) and 1.07p (Stage 2, A Level only). Read the [full study guide](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals/) for explanations, then test yourself with the [practice set](/resources/ocr-a-level-mathematics-applications-of-differentiation-tangents-normals-practice/).

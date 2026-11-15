@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide is for Pearson Edexcel International Advanced Level Mathematics (YMA01), aligned to the *Pearson Edexcel International Advanced Subsidiary/Advanced Level in Mathematics, Further Mathematics and Pure Mathematics* specification, Issue 3, April 2019. It covers Unit M2 section 1, topics 1.1 to 1.4. The specification lists M2 as an optional unit for IAS Further Mathematics and for IAL Mathematics and Further Mathematics, so it is available at IAS only within Further Mathematics.

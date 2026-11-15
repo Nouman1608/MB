@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 1.13 (Decision making) and 1.14 (Decision trees) of the OCR A Level Business (H431) specification, Version 2.1, within the area of study the specification calls Business objectives and strategy. It teaches every bullet the specification lists for both sections. The wider area is covered in the [Objectives and Strategic Decisions guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), the [strategy revision notes](/resources/a-business-strategy-revision-notes/) and the [strategy practice questions](/resources/a-business-strategy-practice/). For this pair of sections, use the [revision notes](/resources/ocr-a-level-business-decision-making-and-decision-trees-revision-notes/) and the [practice questions](/resources/ocr-a-level-business-decision-making-and-decision-trees-practice/). Track progress on the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/), and find weak spots with the [free diagnostics](/diagnostics/).

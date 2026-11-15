@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 5 of Cambridge O Level Computer Science (2210) explains what happens between typing a web address and seeing a page, how websites remember you, how digital currencies are recorded, and how attackers try to steal or disrupt data — together with the defences that stop them. Paper 1 tests this topic with "describe the process" questions, so this guide focuses on getting each sequence in the right order and naming every component involved.

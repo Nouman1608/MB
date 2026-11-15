@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.9, Budgets, from Unit 3 of the IB *Business management guide*, first assessment 2024. The section is HL only. For full explanations and the longer worked examples, read the [study guide](/resources/ib-dp-business-management-budgets-hl-only/) first, then test yourself with the [practice questions](/resources/ib-dp-business-management-budgets-hl-only-practice/).

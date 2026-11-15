@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Aligned to the OxfordAQA International AS and A-level Business (9725) specification, Version 1.1 (International AS exams from May/June 2027, International A-level exams from May/June 2028), this guide teaches section 3.3.4, Analysing the external environment to assess opportunities and threats. None of it is AS content: label it **International A-level only**. If your exams are on the older 9625 specification, follow that document, not this page.

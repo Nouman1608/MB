@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers Topic 3 parts 3A (Ionic bonding) and 3B (Covalent bonding) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry (XCH11/YCH11) specification, Issue 1, September 2017. It teaches learning outcomes 3.1 to 3.15. This is International AS (IAS) content, examined in Unit 1: Structure, Bonding and Introduction to Organic Chemistry. [Shapes of molecules (3C) and metallic bonding (3D)](/resources/edexcel-ial-chemistry-shapes-of-molecules-and-metallic-bonding/) are not taught here.

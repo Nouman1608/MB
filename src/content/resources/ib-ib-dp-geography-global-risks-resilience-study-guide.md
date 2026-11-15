@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 This guide covers Unit 6, Global risks and resilience, the final unit of the Higher Level extension of IB Diploma Programme Geography (first assessments 2019). The more tightly places are connected, the more easily a shock in one place can travel to others. This unit asks what the main categories of global risk are, why some people and places are more exposed than others, and how communities and international bodies build the capacity to cope, adapt and recover.

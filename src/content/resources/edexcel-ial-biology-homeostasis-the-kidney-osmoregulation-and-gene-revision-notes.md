@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed revision notes for statements 7.16 to 7.22 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2: homeostasis, the kidney, osmoregulation and gene switching. Topic 7 is International A2 (IA2), and there are no tiers. Full explanations are in the [study guide](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene/), and exam-style questions are in the [practice set](/resources/edexcel-ial-biology-homeostasis-the-kidney-osmoregulation-and-gene-practice/). The [course hub](/boards/edexcel/a-level/biology/), [checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/) cover the wider course.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the AQA GCSE Business (8132) specification, section 3.2.4 Globalisation and section 3.2.5 Legislation, both part of 3.2 Influences on business. The specification says students must be aware of the impact of influences on the four functional areas: business operations, human resources, marketing and finance. Influences on business is listed as assessed on both written papers. The specification gives no tier labels for these sections, so everything here applies to every candidate.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is written for the Cambridge IGCSE Economics (0455) syllabus for examination in 2026. It covers section 2.11, the mixed economic system, which has two parts: 2.11.1 (the definition) and 2.11.2 (government intervention to address market failure). The syllabus is not tiered, so every candidate meets all of it. It builds on [the allocation of resources guide](/resources/igcse-economics-the-allocation-of-resources/), which covers the market economic system and market failure. Every number below is invented and labelled as illustrative.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-22
 featured: false
-reviewNote: "2026-11-08 recheck: added questions 10-12 on cracking with Al2O3, making alkenes by elimination and dehydration, and engine pollutants (14.1.1, 14.1.4, 14.1.6, 14.2.1 had no practice); please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08 recheck: added questions 10-12 on cracking with Al2O3, making alkenes by elimination and dehydration, and engine pollutants (14.1.1, 14.1.4, 14.1.6, 14.2.1 had no practice); please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

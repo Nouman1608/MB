@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.4 (Marketing strategy) of the Cambridge O Level Business Studies 7115 syllabus for examination in 2026: 3.4.1 justifying marketing strategies, 3.4.2 legal controls related to marketing, and 3.4.3 entering new foreign markets. For full explanations and worked examples, read the [study guide](/resources/o-level-business-marketing-strategy/). Then test yourself with the [practice questions](/resources/o-level-business-marketing-strategy-practice/) and the topic-level [Marketing practice set](/resources/o-level-business-marketing-practice/). Track progress on the [printable checklist](/checklists/cambridge/o-level/business/), see the [course hub](/boards/cambridge/o-level/business/), or start with the [free 10-minute diagnostics](/diagnostics/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB *Physics guide*, first assessment 2025, and covers the second half of topic B.1 (Thermal energy transfers): conduction, convection and thermal radiation. It applies to Standard Level and Higher Level alike, because B.1 contains no material reserved for Higher Level. The first half (molecular model, temperature, internal energy, heating calculations) is taught in a separate unit.

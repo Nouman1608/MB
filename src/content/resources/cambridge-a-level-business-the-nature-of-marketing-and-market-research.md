@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1 (The nature of marketing) and 3.2 (Market research) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both sections are AS Level content, and the syllabus says A Level papers assume knowledge of the AS content. Every numbered point in the syllabus is covered below. The shortest treatments are 3.1.4 (product classification) and 3.2.3 (sampling), because each lists only one or two points.

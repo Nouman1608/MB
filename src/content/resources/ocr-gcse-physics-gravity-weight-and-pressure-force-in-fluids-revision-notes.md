@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P2.3g to P2.3j and P2.3n to P2.3o of Topic P2 Forces in the OCR GCSE (9-1) Physics A (Gateway Science) specification, Version 5.0 (July 2026), first assessment 2018. P2.3g to P2.3i are assessed on both tiers. P2.3j, P2.3n and P2.3o are also on both tiers; they are separate Physics only content (not in Combined Science). For full explanations read the [study guide](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids/), then test yourself with the [practice questions](/resources/ocr-gcse-physics-gravity-weight-and-pressure-force-in-fluids-practice/). Course pages: [OCR GCSE Physics hub](/boards/ocr/gcse/physics/), [printable checklist](/checklists/ocr/gcse/physics/) and [free diagnostics](/diagnostics/). For the wider topic see [Forces revision notes](/resources/ocr-gcse-physics-forces-revision-notes/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Use these notes for fast recall of **Structure 2.3, The metallic model**, as it appears in the IB's DP *Chemistry guide* (February 2023 edition, examined from 2025). They cover understandings 2.3.1 and 2.3.2, which are **SL and HL**, and 2.3.3, which is additional higher level and so **HL only**. If an idea here feels thin, go back to the [metallic model study guide](/resources/ib-dp-chemistry-the-metallic-model/), which explains each point at length.

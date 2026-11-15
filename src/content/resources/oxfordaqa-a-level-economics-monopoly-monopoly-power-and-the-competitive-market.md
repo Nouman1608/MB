@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This study guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.1.4.4 (Monopoly and monopoly power) and 3.1.4.5 (The competitive market process). Section 3.1 is International AS content, which also forms part of the International A-level; the extra International A2 content in 3.3 returns to monopoly later and is not covered here. All figures below are invented and illustrative.
 

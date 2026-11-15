@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense the geometry strand of the spatial reasoning branch of the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022, across all three framework columns and the enrichment list. The [full study guide](/resources/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure/) has the explanations; then test yourself on the [practice set](/resources/ib-myp-mathematics-geometry-angles-circles-area-volume-and-metric-measure-practice/).

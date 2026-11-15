@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense 3.3.16 Chromatography (subsection 3.3.16.1) from the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams from May/June 2020 onwards. As International A2 content, the whole section is **International A-level only**. It is part of the organic content assessed in Unit 4, and Unit 5 can test any content.

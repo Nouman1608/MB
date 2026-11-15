@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers topic P1.2 (Changes of state), statements P1.2a to P1.2f, of the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). None of these statements is printed in bold, so all of them are for both Foundation and Higher Tier. It teaches the ideas from scratch and works through the two calculations the specification names under PM1.2i and PM1.2ii.
