@@ -21,10 +21,9 @@ import { KIND_ORDER, topicAnchor, type CourseTopics, type KindGroups } from '../
 import type { SyllabusVersion } from '../../data/academic/syllabus-topics';
 import { nameRtlLang, recordRtlLang } from '../../utils/academic/rtl-names';
 import { routes } from '../../utils/urls/routes';
-import ModeColumns from './ModeColumns.astro';
 import ModeIcon from './ModeIcon.astro';
 import { MODE } from './ResourceMode';
-import type { ShortTitleContext } from '../../utils/academic/short-title';
+import { shortTitle, type ShortTitleContext } from '../../utils/academic/short-title';
 
 interface Group { label: string; note: string; slugs: string[] }
 interface Tool { href: string; label: string; detail: string; cta: string }
@@ -53,6 +52,7 @@ const rtl = recordRtlLang(record?.topics ?? []);
 const bySlug = new Map(data.topics.map((t) => [t.topic.slug, t]));
 const covered = data.topics.filter((t) => t.count > 0).length;
 
+const TYPE_TAG: Record<string, string> = { 'subject-guides': 'Course guide', 'learning-articles': 'Article', 'past-papers': 'Past papers guide', 'exam-preparation': 'Exam preparation' };
 const searchText = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ').toLowerCase();
 const hasAny = (g: KindGroups) => KIND_ORDER.some((k) => g[k].length > 0);
 // Review fix: search examples come from this course's own topic list, not
@@ -139,33 +139,28 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
               <p class="m-0 mt-1 text-[15px] text-on-navy">{g.note}</p>
             </div>
           )}
-          <ol class="m-0 list-none p-0">
+          <ol class="m-0 list-none border-y border-rule p-0">
             {g.slugs.map((slug) => {
               const entry = bySlug.get(slug)!;
               const t = entry.topic;
               const lang = nameRtlLang(t.name, rtl);
+              const fc = flashcards?.[t.slug];
               return (
-                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-t border-rule py-[clamp(24px,3vw,36px)] first:border-t-0" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
-                  <div class="flex flex-wrap items-center gap-x-4 gap-y-1">
-                    <span class="rounded-full bg-teal-50 px-2.5 py-0.5 mb-label text-teal-800">{t.stage ? `${t.stage === 'A' ? 'A Level' : 'AS'} topic` : 'Topic'} {t.number}</span>
-                    <span class="ms-auto mb-meta text-ink-mute">{entry.count > 0 ? `${entry.count} ${entry.count === 1 ? 'resource' : 'resources'}` : 'No resources yet'}</span>
+                <li id={topicAnchor(t.slug)} class="m-0 scroll-mt-24 border-t border-rule px-1 py-3 first:border-t-0" data-topic data-search={searchText(String(t.number), t.name, ...t.subtopics.map((s) => s.name))}>
+                  <div class="flex flex-wrap items-baseline justify-between gap-x-4 gap-y-2">
+                    <span class="text-[16px] leading-snug text-navy-800"><span class="font-mono text-[13px] text-ink-mute">{t.number}</span> {lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</span>
+                    <span class="flex flex-wrap items-center gap-2">
+                      {KIND_ORDER.map((k) => entry.groups[k].length > 0 && (
+                        <span data-kind-group={k} class="contents">
+                          {entry.groups[k].map((r) => (
+                            <a href={routes.resource(r.id)} data-res data-course-resource={k} title={r.title} data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])} class="max-w-[30ch] truncate rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory">{MODE[k].singular}{entry.groups[k].length > 1 && <span class="text-ink-mute">: {shortTitle(r.title, context)}</span>}</a>
+                          ))}
+                        </span>
+                      ))}
+                      {fc && <a href={fc.href} data-cta="hub-topic-flashcards" class="rounded-sm border border-teal-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory">Flashcards ({fc.count})</a>}
+                      {entry.count === 0 && <span class="text-[13px] text-ink-mute">No resources yet</span>}
+                    </span>
                   </div>
-                  <h3 class="m-0 mt-2.5 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{lang ? <bdi dir="rtl" lang={lang}>{t.name}</bdi> : t.name}</h3>
-                  {t.subtopics.length > 0 && (
-                    <p class="m-0 mt-2 max-w-[78ch] text-[15px] leading-relaxed text-ink-mute">
-                      <span class="font-semibold text-ink">Covers </span>
-                      {t.subtopics.map((st, i) => {
-                        const sl = nameRtlLang(st.name, rtl);
-                        return <>{i > 0 && ', '}{sl ? <bdi dir="rtl" lang={sl}>{st.name}</bdi> : st.name}</>;
-                      })}
-                    </p>
-                  )}
-                  {flashcards?.[t.slug] && (
-                    <p class="m-0 mt-2 text-[14.5px]"><a href={flashcards[t.slug].href} data-cta="hub-topic-flashcards" class="font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{flashcards[t.slug].count} flashcards for this topic</a></p>
-                  )}
-                  {entry.count > 0
-                    ? <ModeColumns groups={entry.groups} context={context} scope="this topic" />
-                    : <p class="m-0 mt-3 text-[15px] text-ink-mute">No Marlbridge resource for this topic yet. It is still part of the syllabus, so use the official document and past papers for it.</p>}
                 </li>
               );
             })}
@@ -180,7 +175,13 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
       <div data-topic data-search="whole course general all topics" class="rounded-md border border-rule bg-ivory px-[clamp(16px,2.4vw,28px)] py-[clamp(20px,2.6vw,28px)]">
         <h3 id="whole-course-heading" class="m-0 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">{record ? 'Covering more than one topic' : 'All resources for this course'}</h3>
         {record && <p class="m-0 mt-1.5 text-[15px] text-ink-mute">Course guides, exam preparation and pages that span several topics.</p>}
-        <ModeColumns groups={data.wholeCourse} context={context} scope="this course" />
+        <ul class="m-0 mt-4 flex list-none flex-wrap gap-2 p-0">
+          {KIND_ORDER.flatMap((k) => data.wholeCourse[k].map((r) => (
+            <li class="m-0" data-res data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])}>
+              <a href={routes.resource(r.id)} data-course-resource={k} title={r.title} class="inline-block max-w-[44ch] truncate rounded-sm border border-gold-500 bg-white px-2.5 py-1 text-[14px] text-navy-800 no-underline hover:bg-ivory">{shortTitle(r.title, context)}</a>
+            </li>
+          )))}
+        </ul>
       </div>
     </section>
   )}

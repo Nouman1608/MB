@@ -53,7 +53,7 @@ const journey0620 = async (page) => {
   const topicsTop = await page.locator('#topics').evaluate((el) => el.getBoundingClientRect().top + scrollY);
   expect(topicsTop < 1400, `topics start too far down (${Math.round(topicsTop)}px)`);
   const topic = page.locator('#topic-atoms-elements-and-compounds');
-  const notes = topic.locator('[data-kind-group="review"] a', { hasText: 'Atomic Structure' }).first();
+  const notes = topic.locator('[data-kind-group="review"] a[title*="Atomic Structure"]').first();
   expect(await topic.locator('[data-kind-group="practice"] a').count() > 0, 'no practice questions under atomic structure');
   await notes.click();
   await page.waitForURL('**/resources/atomic-structure/');
