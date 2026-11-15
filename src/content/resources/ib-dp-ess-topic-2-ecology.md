@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Ecosystem structure, energy flow, nutrient cycling and ecosystem change in IB DP ESS Topic 2 Ecology, and how it applies Topic 1 systems ideas to ecosystems."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-06
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This guide covers **Topic 2 -- Ecology**, for IB Diploma Programme

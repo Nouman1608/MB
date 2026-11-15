@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-7-3"
 description: "Study guide for IB DP ESS Topic 7: natural resource use and management, energy sources and energy security, and solid domestic waste strategies."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This study guide teaches Topic 7 of IB Diploma Programme Environmental Systems and Societies (ESS):

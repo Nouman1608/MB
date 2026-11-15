@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-7-3"
 description: "Twelve original IB DP ESS practice questions on resources, sustainable yield, energy security and waste, with marked answers and examiner insights."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-2-3"
 description: "11 original IB DP ESS questions on 2.1-2.3 with marked answers: Lincoln index, productivity, efficiency, carbon budgets and the nitrogen cycle."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

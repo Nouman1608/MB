@@ -8,11 +8,12 @@ qualifications: ["ib-dp"]
 syllabusCodes: ["DP Environmental Systems and Societies"]
 description: "Overview of IB Diploma Programme Environmental Systems and Societies (ESS): what it covers, its aims, SL and HL assessment, and how it counts in subject groups."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-08-22
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 Environmental Systems and Societies (ESS) is an interdisciplinary IB

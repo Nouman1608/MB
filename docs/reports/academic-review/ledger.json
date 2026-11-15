@@ -10,8 +10,8 @@
   "totals": {
     "resources": 8088,
     "reviewStatus": {
-      "review-pending": 372,
-      "reviewed": 7716
+      "review-pending": 332,
+      "reviewed": 7756
     },
     "outcome": {
       "REPO_PARTIAL_UNVERIFIABLE": 153,
@@ -27,7 +27,7 @@
     "withVerificationRecord": 780,
     "withSpecCheck": 332,
     "correctedInThisProgramme": 48,
-    "pendingWithoutReviewer": 372
+    "pendingWithoutReviewer": 332
   },
   "integrity": [],
   "rowsFile": "docs/reports/academic-review/ledger.csv",

@@ -19,12 +19,12 @@ review.
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
 
-| *No eligible teacher* | — | 372 |
+| *No eligible teacher* | — | 332 |
 
-372 review-pending pages in total; a page can appear under more than one teacher.
+332 review-pending pages in total; a page can appear under more than one teacher.
 
 
-## No eligible teacher — 372
+## No eligible teacher — 332
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -123,46 +123,6 @@ is not a review and does not change their status.
 | `global-perspectives-individual-report-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `global-perspectives-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
-| `ib-dp-environmental-systems-and-societies-assessment-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-environmental-systems-and-societies-exam-preparation` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-environmental-systems-and-societies-subject-guide` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | subject-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-environmental-systems-and-societies-syllabus-guide` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-atmosphere-climate-change-ozone` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-biodiversity-conservation` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-climate-biomes-succession` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-ecosystems-energy-biogeochemical-cycles` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-foundation-perspectives-systems-sustainability` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-hl-lenses-law-economics-ethics` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-human-populations-urban-systems` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-natural-resources-energy-waste-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-natural-resources-energy-waste-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-natural-resources-energy-waste` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `ib-dp-ess-soil-agriculture-food-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-soil-agriculture-food-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-soil-agriculture-food` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-1-foundations` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-topic-2-ecology` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution-practice` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution-revision-notes` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-ess-water-systems-security-pollution` | ib ib-dp environmental-systems-and-societies (DP Environmental Systems and Societies) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-assessment-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-practice` | ib ib-dp global-politics (DP Global Politics) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |

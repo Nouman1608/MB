@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-2-3"
 description: "Condensed IB DP ESS revision notes for 2.1-2.3: key definitions, productivity equations, pyramids, carbon and nitrogen cycles and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 For full explanations and worked examples, use the

@@ -9,11 +9,12 @@ syllabusCodes: ["DP Environmental Systems and Societies"]
 order: 1
 description: "IB DP ESS assessment for first assessment 2026: the Paper 1 case study, Paper 2 short answers and essays, and the individual investigation, with SL/HL weights."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-08-26
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08 recheck: replaced the fieldwork/primary-data-only IA description with the 2026 brief's open-ended individual investigation and added Paper 1/Paper 2 structure, durations and SL/HL weights from the 2026 subject brief; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 Condensed for quick recall of how the course is assessed. For the full subject overview, use the
