@@ -18,13 +18,205 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
+| Salman Ahmad | `salman-ahmad` | 9 |
+| Asif Iqbal | `asif-iqbal` | 6 |
+| Ammar Bilal | `ammar-bilal` | 5 |
+| Azam Siddique | `azam-siddique` | 5 |
+| Harris Khan | `harris-khan` | 5 |
+| Hassan | `hassan` | 5 |
+| Iftikhar Azeemi | `iftikhar-azeemi` | 5 |
+| Ameer Hamza | `ameer-hamza` | 4 |
+| Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 4 |
+| Hina Mogul | `hina-mogul` | 4 |
+| Muhammad Ghazali Siddiqui | `muhammad-ghazali-siddiqui` | 4 |
+| Nouman Ahmed | `nouman-ahmed` | 4 |
+| Sajawal Zahid | `sajawal-zahid` | 4 |
+| Farheen Zehra | `farheen-zehra` | 3 |
+| Javaid Iqbal Sabri | `javaid-iqbal-sabri` | 3 |
+| Saad Zai | `saad-zai` | 3 |
+| Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 3 |
+| Lubna Waseem | `lubna-waseem` | 2 |
+| Naqiya Yousaf | `naqiya-yousaf` | 2 |
+| *No eligible teacher* | — | 338 |
 
-| *No eligible teacher* | — | 332 |
+387 review-pending pages in total; a page can appear under more than one teacher.
 
-332 review-pending pages in total; a page can appear under more than one teacher.
+## Salman Ahmad (`salman-ahmad`) — 9
 
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-business-exam-preparation` | aqa a-level business (7132) | exam-preparation | UNVERIFIED | 0 |
+| `aqa-as-level-business-exam-preparation` | aqa as-level business (7137) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-a-level-business-exam-preparation` | cambridge a-level business (9609) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-a-level-economics-exam-preparation` | cambridge a-level economics (9708) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-business-exam-preparation` | cambridge igcse business (0450 / 0264) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-commerce-exam-preparation` | cambridge igcse commerce (0715) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-economics-exam-preparation` | cambridge o-level economics (2281) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-gcse-business-exam-preparation` | edexcel gcse business (1BS0) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-business-exam-preparation` | edexcel igcse business (4BS1) | exam-preparation | UNVERIFIED | 1 |
 
-## No eligible teacher — 332
+## Asif Iqbal (`asif-iqbal`) — 6
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-business-exam-preparation` | cambridge a-level business (9609) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-a-level-economics-exam-preparation` | cambridge a-level economics (9708) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-business-exam-preparation` | cambridge igcse business (0450 / 0264) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-economics-exam-preparation` | cambridge o-level economics (2281) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-gcse-business-exam-preparation` | edexcel gcse business (1BS0) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-business-exam-preparation` | edexcel igcse business (4BS1) | exam-preparation | UNVERIFIED | 1 |
+
+## Ammar Bilal (`ammar-bilal`) — 5
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-english-literature-exam-preparation` | aqa a-level english-literature (7712 / 7717) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-a-level-english-language-exam-preparation` | cambridge a-level english (9093) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-a-level-english-literature-exam-preparation` | cambridge a-level english-literature (9695) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-english-literature-exam-preparation` | cambridge igcse english-literature (0475) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-english-language-exam-preparation` | cambridge o-level english (1123) | exam-preparation | UNVERIFIED | 1 |
+
+## Azam Siddique (`azam-siddique`) — 5
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-world-history-exam-preparation` | cambridge a-level world-history (9489) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-environmental-management-exam-preparation` | cambridge igcse environmental-management (0680) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-pakistan-studies-exam-preparation` | cambridge igcse pakistan-studies (0448) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-pakistan-studies-exam-preparation` | cambridge o-level pakistan-studies (2059) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-world-history-exam-preparation` | cambridge o-level world-history (2147) | exam-preparation | UNVERIFIED | 0 |
+
+## Harris Khan (`harris-khan`) — 5
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-computer-science-exam-preparation` | cambridge a-level computer-science (9618) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-a-level-ict-exam-preparation` | cambridge a-level ict (9626) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-computer-science-exam-preparation` | cambridge igcse computer-science (0478) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-ict-exam-preparation` | cambridge igcse ict (0417) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-computer-science-exam-preparation` | cambridge o-level computer-science (2210) | exam-preparation | UNVERIFIED | 0 |
+
+## Hassan (`hassan`) — 5
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-physics-exam-preparation` | cambridge a-level physics (9702) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-physics-exam-preparation` | cambridge igcse physics (0625) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-physics-exam-preparation` | cambridge o-level physics (5054) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-a-level-physics-exam-preparation` | edexcel a-level physics (YPH11) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-physics-exam-preparation` | edexcel igcse physics (4PH1) | exam-preparation | UNVERIFIED | 1 |
+
+## Iftikhar Azeemi (`iftikhar-azeemi`) — 5
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-physics-exam-preparation` | cambridge a-level physics (9702) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-physics-exam-preparation` | cambridge igcse physics (0625) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-physics-exam-preparation` | cambridge o-level physics (5054) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-a-level-physics-exam-preparation` | edexcel a-level physics (YPH11) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-physics-exam-preparation` | edexcel igcse physics (4PH1) | exam-preparation | UNVERIFIED | 1 |
+
+## Ameer Hamza (`ameer-hamza`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-biology-exam-preparation` | cambridge a-level biology (9700) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-igcse-biology-exam-preparation` | cambridge igcse biology (0610) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-o-level-biology-exam-preparation` | cambridge o-level biology (5090) | exam-preparation | UNVERIFIED | 2 |
+| `edexcel-igcse-biology-exam-preparation` | edexcel igcse biology (4BI1) | exam-preparation | UNVERIFIED | 1 |
+
+## Farhat ul Ain Sehgal (`farhat-ul-ain-sehgal`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-chemistry-exam-preparation` | cambridge a-level chemistry (9701) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-chemistry-exam-preparation` | cambridge igcse chemistry (0620) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-chemistry-exam-preparation` | cambridge o-level chemistry (5070) | exam-preparation | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-exam-preparation` | oxfordaqa a-level chemistry (9620) | exam-preparation | UNVERIFIED | 1 |
+
+## Hina Mogul (`hina-mogul`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-biology-exam-preparation` | cambridge a-level biology (9700) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-igcse-biology-exam-preparation` | cambridge igcse biology (0610) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-o-level-biology-exam-preparation` | cambridge o-level biology (5090) | exam-preparation | UNVERIFIED | 2 |
+| `edexcel-igcse-biology-exam-preparation` | edexcel igcse biology (4BI1) | exam-preparation | UNVERIFIED | 1 |
+
+## Muhammad Ghazali Siddiqui (`muhammad-ghazali-siddiqui`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-mathematics-exam-preparation` | cambridge a-level mathematics (9709) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-mathematics-exam-preparation` | cambridge igcse mathematics (0580) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-statistics-exam-preparation` | cambridge igcse statistics (0479) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-mathematics-exam-preparation` | cambridge o-level mathematics (4024) | exam-preparation | UNVERIFIED | 1 |
+
+## Nouman Ahmed (`nouman-ahmed`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-chemistry-exam-preparation` | cambridge a-level chemistry (9701) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-chemistry-exam-preparation` | cambridge igcse chemistry (0620) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-chemistry-exam-preparation` | cambridge o-level chemistry (5070) | exam-preparation | UNVERIFIED | 1 |
+| `oxfordaqa-a-level-chemistry-exam-preparation` | oxfordaqa a-level chemistry (9620) | exam-preparation | UNVERIFIED | 1 |
+
+## Sajawal Zahid (`sajawal-zahid`) — 4
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-mathematics-exam-preparation` | cambridge a-level mathematics (9709) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-mathematics-exam-preparation` | cambridge igcse mathematics (0580) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-igcse-statistics-exam-preparation` | cambridge igcse statistics (0479) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-mathematics-exam-preparation` | cambridge o-level mathematics (4024) | exam-preparation | UNVERIFIED | 1 |
+
+## Farheen Zehra (`farheen-zehra`) — 3
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
+| `oxfordaqa-igcse-urdu-language-exam-preparation` | oxfordaqa igcse urdu-language (9264) | exam-preparation | UNVERIFIED | 0 |
+
+## Javaid Iqbal Sabri (`javaid-iqbal-sabri`) — 3
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-igcse-accounting-exam-preparation` | cambridge igcse accounting (0452) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-accounting-exam-preparation` | cambridge o-level accounting (7707) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-accounting-exam-preparation` | edexcel igcse accounting (4AC1) | exam-preparation | UNVERIFIED | 1 |
+
+## Saad Zai (`saad-zai`) — 3
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-biology-exam-preparation` | cambridge a-level biology (9700) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-igcse-biology-exam-preparation` | cambridge igcse biology (0610) | exam-preparation | UNVERIFIED | 2 |
+| `cambridge-o-level-biology-exam-preparation` | cambridge o-level biology (5090) | exam-preparation | UNVERIFIED | 2 |
+
+## Zain Ud Din Ahmed (`zain-ud-din-ahmed`) — 3
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-igcse-accounting-exam-preparation` | cambridge igcse accounting (0452) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-accounting-exam-preparation` | cambridge o-level accounting (7707) | exam-preparation | UNVERIFIED | 1 |
+| `edexcel-igcse-accounting-exam-preparation` | edexcel igcse accounting (4AC1) | exam-preparation | UNVERIFIED | 1 |
+
+## Lubna Waseem (`lubna-waseem`) — 2
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `cambridge-a-level-english-language-exam-preparation` | cambridge a-level english (9093) | exam-preparation | UNVERIFIED | 1 |
+| `cambridge-o-level-english-language-exam-preparation` | cambridge o-level english (1123) | exam-preparation | UNVERIFIED | 1 |
+
+## Naqiya Yousaf (`naqiya-yousaf`) — 2
+
+| Resource | Course | Type | Verification | Also eligible |
+| --- | --- | --- | --- | --- |
+| `aqa-a-level-sociology-exam-preparation` | aqa a-level sociology (7192) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-a-level-sociology-exam-preparation` | cambridge a-level sociology (9699) | exam-preparation | UNVERIFIED | 0 |
+
+## No eligible teacher — 338
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -108,6 +300,7 @@ is not a review and does not change their status.
 | `aqa-a-level-psychology-7182-stress` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
 | `aqa-a-level-psychology-approaches-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
 | `aqa-a-level-psychology-approaches-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
+| `aqa-a-level-psychology-exam-preparation` | aqa a-level psychology (7182) | exam-preparation | UNVERIFIED | 0 |
 | `aqa-a-level-psychology-introductory-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
 | `aqa-a-level-psychology-introductory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `aqa-a-level-psychology-introductory-topics` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
@@ -116,6 +309,11 @@ is not a review and does not change their status.
 | `aqa-gcse-psychology-exam-preparation` | aqa gcse psychology (8182) | exam-preparation | VERIFIED | 0 |
 | `aqa-gcse-psychology-research-methods` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
 | `aqa-gcse-psychology-social-context-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
+| `cambridge-a-level-global-perspectives-exam-preparation` | cambridge a-level global-perspectives (9239) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-a-level-psychology-exam-preparation` | cambridge a-level psychology (9990) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-geography-exam-preparation` | cambridge igcse geography (0460) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-igcse-global-perspectives-exam-preparation` | cambridge igcse global-perspectives (0457) | exam-preparation | UNVERIFIED | 0 |
+| `cambridge-o-level-geography-exam-preparation` | cambridge o-level geography (2217) | exam-preparation | UNVERIFIED | 0 |
 | `gcse-psychology-cognition-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
 | `gcse-psychology-cognition-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `gcse-psychology-social-context-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |

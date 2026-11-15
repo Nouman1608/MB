@@ -15925,3 +15925,11 @@ Three more problems turned up:
 - **Urdu pages.** They follow the existing Edexcel Urdu pages: English prose with Urdu script for terms, vocabulary tables and model sentences, and the existing title style. All three carry `reviewNeeded`; an Urdu specialist should check the vocabulary and model paragraphs.
 - **Not checked against the specification.** Written from the writers' own knowledge. Four pages carry `reviewNeeded` (fieldwork and the three Urdu pages). The IB option content, the scale thresholds and the fieldwork critical value came from memory and need a teacher check.
 - **Gate.** The review ledger caught a broken link in the Urdu theme 3 page (wrong word order in a slug); it was fixed. The local full build could not run, so CI is the first full build.
+
+## D-447 - Exam-preparation pages for the 55 combinations that had none (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("lets fill in the Exam preparation: 55 combinations"), from the coverage report's exam-preparation column.
+- **Pages.** 55 new paper-by-paper exam-preparation pages, one per board, qualification and subject that had none (the page count was 112 and is now 169). Each states its paper codes, durations, marks, weightings and routes exactly as the combination's verified record in `assessments.ts` gives them, and has an original worked scenario, a checklist, a self-test with answers, five FAQs and a closing note citing the record's verification date.
+- **Review status.** All `review-pending` under the Marlbridge Academic Team with no reviewer (D-379 unchanged); the sign-off queue grows by 55. 19 pages carry `reviewNeeded` because the records give only paper titles, timings and marks, not paper contents. The Urdu pages contain original Urdu text that a specialist should read.
+- **Open points for a reviewer.** AQA A Level English Literature uses the code string 7712 / 7717 but the record covers 7717 only; AQA AS Business 40 marks per case-study block is the writer's reading of the record; Cambridge A Level English Language 9093 and Psychology and Sociology (2024-2026 edition) end in 2026, so check which syllabus applies to current candidates.
+- **Not done.** Past papers (150 of 166 combinations have none) are untouched. The local full build could not run, so CI is the first full build.
