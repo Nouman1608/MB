@@ -125,6 +125,17 @@ const resources = defineCollection({
       qualification: qualificationSlug,
       topic: z.string(),
       subtopic: z.string().optional(),
+      /**
+       * D-448: an explicit coverage claim, allowed only on a topic-level
+       * entry (no `subtopic`). Absent = topic MEMBERSHIP only: the page
+       * belongs to the topic and makes no claim to cover all of it.
+       *   'whole-topic'      every outcome of the topic, all tiers
+       *   'whole-topic-core' every Core outcome (tiered syllabuses only)
+       * Only these produce "(whole topic)" / "(all Core content)" on the
+       * page. scripts/validate-academic-content.mjs rejects a claim that the
+       * resource's own subtopic list or the taxonomy contradicts.
+       */
+      coverage: z.enum(['whole-topic', 'whole-topic-core']).optional(),
     })).default([]),
     /** Official syllabus codes this resource is written against, e.g. ['0620','5070']. */
     syllabusCodes: z.array(z.string()).default([]),
@@ -248,6 +259,17 @@ const articles = defineCollection({
       qualification: qualificationSlug,
       topic: z.string(),
       subtopic: z.string().optional(),
+      /**
+       * D-448: an explicit coverage claim, allowed only on a topic-level
+       * entry (no `subtopic`). Absent = topic MEMBERSHIP only: the page
+       * belongs to the topic and makes no claim to cover all of it.
+       *   'whole-topic'      every outcome of the topic, all tiers
+       *   'whole-topic-core' every Core outcome (tiered syllabuses only)
+       * Only these produce "(whole topic)" / "(all Core content)" on the
+       * page. scripts/validate-academic-content.mjs rejects a claim that the
+       * resource's own subtopic list or the taxonomy contradicts.
+       */
+      coverage: z.enum(['whole-topic', 'whole-topic-core']).optional(),
     })).default([]),
     featuredImage: z.string().optional(),
     featuredImageAlt: z.string().optional(),
@@ -294,6 +316,15 @@ const authors = defineCollection({
      * validate-review-integrity rule [10] accepts either list.
      */
     subjectsReviewed: z.array(z.string()).default([]),
+    /**
+     * D-448 (owner decision, 15 Nov 2026) -- advanced-course (AP) courses,
+     * by course slug (src/data/ap/frameworks.ts), for which this person is
+     * the accountable "Reviewed by" teacher named on the AP study pages.
+     * Like subjectsReviewed, it is not a teaching claim and adds no board to
+     * boardsTaught. scripts/validate-ap-library.mjs requires every reviewed
+     * AP page's reviewer to resolve to a profile listing its course here.
+     */
+    apCoursesReviewed: z.array(z.string()).default([]),
     boardsTaught: z.array(z.string()).default([]),
     qualificationsTaught: z.array(z.string()).default([]),
     /** Years of teaching experience, exactly as publicly stated by the
