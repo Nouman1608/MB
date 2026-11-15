@@ -16147,3 +16147,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Content rules.** Literature pages teach method; they quote set and anthology texts by a few words at most and use original unseen passages. Law and Psychology pages cite only cases, statutes and studies the writers were certain of (each writer listed theirs for a check). The Law YLA1 and Sociology 9292 pages were written against the downloaded Pearson Issue 4 and OxfordAQA Version 1.0 specifications.
 - **Points for a teacher.** The existing Edexcel 4ET1 pages disagree on whether anthology poems are printed in the exam; the Law 2.1 guide treats negligence as a second claim, while the existing Paper 2 guide treats it as an alternative route of study.
 - **Not changed.** Cambridge O Level Urdu 3247/3248 and O Level English Language 1123 have no subtopics in their topic maps and already have full topic-level sets.
+
+## D-471 - Image record completed for Ammar Bilal and Farhat ul Ain Sehgal (15 Nov 2026)
+
+- Owner, 15 Nov 2026: re-sent Ammar Bilal's photograph; said Farhat ul Ain Sehgal's pixelated photograph "was deliberate".
+- **Fix.** `docs/image-source-manifest.md` gains rows for both files. Ammar Bilal's site photo was compared with the re-sent original: it is a square crop of the same photograph, so the file was not changed. Farhat ul Ain Sehgal's row records that the pixelation is intended.
+- **Not changed.** No image file. Every teacher photograph on the site now has a row in the record.
