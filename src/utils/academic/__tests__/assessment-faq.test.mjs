@@ -59,3 +59,12 @@ test('sourceKind names the linked document honestly', () => {
   assert.equal(sourceKind('https://www.cambridgeinternational.org/Images/664563-2025-2027-syllabus.pdf'), 'specification');
   assert.equal(sourceKind('https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/'), 'course page');
 });
+
+// D-454 (OQ-3): an unconfirmed mark total is never printed as a number.
+test('DP Language A: Language and Literature Paper 2 says "mark total not confirmed", never 25', () => {
+  const s = answer(find('DP Language A: Language and Literature'));
+  const p2 = s.split('; ').filter((x) => x.includes('Paper 2'));
+  assert.ok(p2.length >= 2, 'Paper 2 appears for SL and HL');
+  for (const x of p2) { assert.match(x, /mark total not confirmed/); assert.doesNotMatch(x, /\b25 marks\b/); }
+  assert.match(s, /Paper 1 \(Paper 1 -- Guided Textual Analysis\) — 1h 15m, 20 marks/);
+});

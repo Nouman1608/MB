@@ -15999,3 +15999,18 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Problem.** The internal `reviewNote` on 7,606 resources recorded the accountable-teacher credit as "<date>: reviewed by <id>.": 7,554 dated 2026-11-08 (the bulk credit, commit 03159b8c) and 52 dated 2026-11-15. Under D-379 a credit is not a review event, so the notes contradicted the policy for any auditor or tool reading them. They are not rendered on any page.
 - **Fix.** Each such entry now reads "<date>: credited to <id> (accountable teacher, D-379).", with its date kept. Only that line changed in each file. Every credited id matches the file's own `reviewer` field (7,606 of 7,606). New rule [14] in `validate-review-integrity.mjs` rejects the old form; negative fixture [AV].
 - **Left as is.** About 2,133 notes also say "previously reviewed by <id> on 2026-09-29". That credit predates D-379 (1 Oct 2026), when the meaning may have differed, so it is historical record and not rewritten.
+
+## D-454 - DP Language A: Language and Literature Paper 2 mark total removed until an IB document confirms it (OQ-3, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do OQ-3 option a".
+- **Problem.** The record showed Paper 2 as 25 marks (SL and HL). That figure came from a teacher-resource site (thinkib.net), "corroborated" by a school LibGuide. The editorial policy says sources are never a tutoring site, and the IB's own guide (first assessment 2021) prints 30.
+- **Fix** (`src/data/academic/assessments.ts`):
+  - Paper 2 `marks` is now `null` at both levels. The type allows `null` only as "not shown: no official document confirms it".
+  - The thinkib.net mirror and the LibGuide are removed as sources, and `sourceConfidence` is now `official-host`. Every remaining figure is read from the IB's public subject brief.
+  - The reader-facing `marksSourceNote` says the total is not shown and why.
+  - The public `notes` no longer present the May 2026 revision as fact.
+- **Same source, also corrected.** `firstAssessment` was '2026', the date of the unconfirmed revision. It is now '2021', the IB guide's first assessment and the series the 35 Lang & Lit resources already state. No resource states a Paper 2 mark total; they give only the official weightings.
+- **Rendering.** The hub table shows "Not confirmed", and the disclosure above the note reads "Some figures are not shown:" rather than "Not all of these figures come from IB documents:", which would now be false. The FAQ and its JSON-LD say "mark total not confirmed". The syllabus-updates page gives the total as "Not confirmed (Paper 2 not shown)" rather than under-counting. The coverage report now counts this record as lacking complete marks.
+- **Guards.** `validate-assessments` [8] accepts `null` only when `marksSourceNote` names the paper and says it is not shown; negative fixture [AW]. A unit test asserts the FAQ never prints 25 for Paper 2.
+- **To restore the figure.** An IB document (current guide, specimen paper or published markscheme) confirming the Paper 2 total. The lead is kept in `internalNotes`.
+- **Not changed (asked separately).** DP Language A: Literature takes its HL essay and individual oral totals from teacher-resource websites, per its own `marksSourceNote`. It is the same policy conflict, but outside OQ-3 as approved.
