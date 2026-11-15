@@ -15,6 +15,13 @@
  * teacher, regulation status, pass rate or student number. Country pages
  * that are not listed here are not published (see docs/decision-log.md
  * D-303 for the countries deliberately not given a page yet).
+ *
+ * D-TBD (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and
+ * Europe get pages; this lifts the D-303 hold for the four Gulf countries.
+ * There is no Search Console or GA4 evidence for them in the repo, so they
+ * have no `searchedHubs` and no cities, and their boards are every board
+ * with classes, in the site's own order, not a local ranking. Their fees
+ * are the rows already in src/data/pricing.ts.
  */
 
 import { taughtOnly } from '../utils/academic';
@@ -33,12 +40,23 @@ export function hubIsTaught(path: string): boolean {
 
 export const RESOURCES_ONLY_SUFFIX = ' (free resources only, no classes at the moment)';
 
-export type MarketSlug = 'pakistan' | 'uk' | 'uae' | 'qatar' | 'malaysia' | 'singapore';
+export type MarketSlug =
+  | 'pakistan' | 'uk' | 'uae' | 'qatar' | 'malaysia' | 'singapore'
+  | 'saudi-arabia' | 'kuwait' | 'bahrain' | 'oman' | 'europe';
 
 export interface MarketHubLink {
   /** Path of an existing board hub page. */
   readonly path: string;
   readonly label: string;
+}
+
+/** One row of the time table for a region with several zones (D-TBD). */
+export interface MarketTimeZone {
+  /** Example countries and the part of the year, e.g. "France and Germany, late October to late March". */
+  readonly where: string;
+  /** Name of the zone; the UTC offset is printed from `utcOffsetHours`. */
+  readonly zone: string;
+  readonly utcOffsetHours: number;
 }
 
 export interface Market {
@@ -49,8 +67,17 @@ export interface Market {
   readonly pricingRegion: string;
   readonly utcOffsetHours: number;
   readonly timeZoneLabel: string;
-  /** Boards (slugs) most relevant to families in this country, in order. */
+  /**
+   * Boards (slugs) most relevant to families in this country, in order.
+   * Where `searchedHubs` is empty there is no local evidence: list every
+   * board with classes, in the site's own order (D-TBD).
+   */
   readonly focusBoards: readonly string[];
+  /**
+   * Hub pages searchers in this country found most often. Empty when there
+   * is no such evidence (D-TBD): the page then leaves the section out and
+   * does not call the boards "most relevant".
+   */
   readonly searchedHubs: readonly MarketHubLink[];
   /** Curricula Marlbridge does NOT teach that families here may be asked about. */
   readonly notOffered: string;
@@ -73,6 +100,16 @@ export interface Market {
    * Singapore "O Level" reads as the national Singapore-Cambridge O-Level).
    */
   readonly tutorListExcludes?: readonly string[];
+  /** Overrides the computed meta description (D-TBD: keeps Saudi Arabia's under 160 characters). */
+  readonly pageDescription?: string;
+  /**
+   * D-TBD -- a region with several time zones or daylight saving (Europe).
+   * The page shows one row per entry instead of the single-offset table.
+   * Standard UTC offsets and clock-change months: fixed public facts.
+   */
+  readonly timeZones?: readonly MarketTimeZone[];
+  /** With `timeZones`: replaces the computed "N hours behind Lahore". */
+  readonly timeSummary?: string;
 }
 
 /** Lahore, where every live class is taught from: UTC+5, no daylight saving. */
@@ -93,6 +130,14 @@ export function timeRows(utcOffsetHours: number) {
   const diff = LAHORE_UTC_OFFSET - utcOffsetHours;
   return [16, 17, 18, 19, 20].map((local) => ({ local: clock(local), lahore: clock(local + diff) }));
 }
+
+/**
+ * D-TBD -- every board Marlbridge teaches, in the order of BOARDS
+ * (src/data/academic/boards.ts). Used by markets with no local search
+ * evidence, so no board is presented as locally "most relevant". The page
+ * drops any board without taught classes and marks one-to-one-only boards.
+ */
+const ALL_TAUGHT_BOARDS: readonly string[] = ['cambridge', 'edexcel', 'aqa', 'oxfordaqa', 'ocr', 'ib'];
 
 export const MARKETS: readonly Market[] = [
   {
@@ -278,6 +323,209 @@ export const MARKETS: readonly Market[] = [
         question: 'What does tuition cost from Singapore?',
         answer:
           'Fees are shown on this page in Singapore dollars. Marlbridge has not set a separate Singapore price: the figures are conversions of the Pakistan fee at the exchange rate recorded on the date shown, so you can see the approximate cost, and the exact fee is confirmed in writing before any payment.',
+      },
+    ],
+  },
+  /**
+   * D-TBD (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain and Oman.
+   * D-303 kept these on /gulf/ for lack of search demand; the owner has now
+   * asked for a page each. No local search evidence is held, so there are no
+   * `searchedHubs` and no cities. Group fees are the owner-set rows in
+   * pricing.ts (D-012/D-043/D-149); one-to-one and IB are its conversions.
+   * UTC offsets are the ones /gulf/ already publishes.
+   */
+  {
+    slug: 'saudi-arabia',
+    cities: [],
+    pageDescription:
+      'Live online IGCSE, A Level and IB tutors for students in Saudi Arabia: Cambridge and Pearson Edexcel, fees in SAR, class times in local time, first class free.',
+    path: '/saudi-arabia/',
+    name: 'Saudi Arabia',
+    pricingRegion: 'Saudi Arabia',
+    utcOffsetHours: 3,
+    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
+    focusBoards: ALL_TAUGHT_BOARDS,
+    searchedHubs: [],
+    notOffered:
+      'Marlbridge does not teach the Saudi national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Saudi Arabia?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based in Saudi Arabia. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Saudi Arabia?',
+        answer:
+          'Saudi Arabia is two hours behind Lahore all year, so a 5:00 pm class in Saudi Arabia is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'What does tuition cost from Saudi Arabia?',
+        answer:
+          'Group classes have a set Saudi Arabia fee per subject per month, shown on this page in SAR. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'How do I pay from Saudi Arabia?',
+        answer:
+          'Fees are paid by bank transfer or international wire transfer. They are billed monthly, starting once the free trial class has taken place, and there is no separate registration or enrolment fee.',
+      },
+    ],
+  },
+  {
+    slug: 'kuwait',
+    cities: [],
+    path: '/kuwait/',
+    name: 'Kuwait',
+    pricingRegion: 'Kuwait',
+    utcOffsetHours: 3,
+    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
+    focusBoards: ALL_TAUGHT_BOARDS,
+    searchedHubs: [],
+    notOffered:
+      'Marlbridge does not teach the Kuwaiti national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Kuwait?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based in Kuwait. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Kuwait?',
+        answer:
+          'Kuwait is two hours behind Lahore all year, so a 5:00 pm class in Kuwait is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'What does tuition cost from Kuwait?',
+        answer:
+          'Group classes have a set Kuwait fee per subject per month, shown on this page in KWD. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'Why are the Kuwait fees written to three decimal places?',
+        answer:
+          'The Kuwaiti dinar is divided into 1,000 fils, so prices in KWD are normally written to three decimal places. The fees on this page follow that convention.',
+      },
+    ],
+  },
+  {
+    slug: 'bahrain',
+    cities: [],
+    path: '/bahrain/',
+    name: 'Bahrain',
+    pricingRegion: 'Bahrain',
+    utcOffsetHours: 3,
+    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
+    focusBoards: ALL_TAUGHT_BOARDS,
+    searchedHubs: [],
+    notOffered:
+      'Marlbridge does not teach the Bahraini national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Bahrain?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based in Bahrain. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Bahrain?',
+        answer:
+          'Bahrain is two hours behind Lahore all year, so a 5:00 pm class in Bahrain is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'What does tuition cost from Bahrain?',
+        answer:
+          'Group classes have a set Bahrain fee per subject per month, shown on this page in BHD. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'Why are the Bahrain fees written to three decimal places?',
+        answer:
+          'The Bahraini dinar is divided into 1,000 fils, so prices in BHD are normally written to three decimal places. The fees on this page follow that convention.',
+      },
+    ],
+  },
+  {
+    slug: 'oman',
+    cities: [],
+    path: '/oman/',
+    name: 'Oman',
+    pricingRegion: 'Oman',
+    utcOffsetHours: 4,
+    timeZoneLabel: 'UTC+4 (Gulf Standard Time, no daylight saving)',
+    focusBoards: ALL_TAUGHT_BOARDS,
+    searchedHubs: [],
+    notOffered:
+      'Marlbridge does not teach the Omani national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Oman?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based in Oman. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Oman?',
+        answer:
+          'Oman is one hour behind Lahore all year, so a 5:00 pm class in Oman is 6:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'What does tuition cost from Oman?',
+        answer:
+          'Group classes have a set Oman fee per subject per month, shown on this page in OMR. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'Why are the Oman fees written to three decimal places?',
+        answer:
+          'The Omani rial is divided into 1,000 baisa, so prices in OMR are normally written to three decimal places. The fees on this page follow that convention.',
+      },
+    ],
+  },
+  {
+    /**
+     * D-TBD (owner, 15 Nov 2026) -- Europe, the region of the euro rows in
+     * pricing.ts (the UK has its own page and its own GBP rows). Europe has
+     * no single clock: `timeZones` gives the three main zones in winter and
+     * summer, and `utcOffsetHours` (Central European Time) is not printed.
+     * Which countries the euro fee covers is not recorded in the repo, so
+     * the page does not list any.
+     */
+    slug: 'europe',
+    cities: [],
+    path: '/europe/',
+    name: 'Europe',
+    pricingRegion: 'Europe',
+    utcOffsetHours: 1,
+    timeZoneLabel:
+      'most countries are on Western, Central or Eastern European Time and put their clocks forward one hour from late March to late October',
+    timeSummary: 'two to five hours behind Lahore, depending on the country and the time of year',
+    timeZones: [
+      { where: 'Ireland and Portugal, late October to late March', zone: 'GMT / Western European Time', utcOffsetHours: 0 },
+      { where: 'Ireland and Portugal, late March to late October', zone: 'Irish Standard Time / Western European Summer Time', utcOffsetHours: 1 },
+      { where: 'France, Germany, Italy and the Netherlands, late October to late March', zone: 'Central European Time', utcOffsetHours: 1 },
+      { where: 'France, Germany, Italy and the Netherlands, late March to late October', zone: 'Central European Summer Time', utcOffsetHours: 2 },
+      { where: 'Greece and Finland, late October to late March', zone: 'Eastern European Time', utcOffsetHours: 2 },
+      { where: 'Greece and Finland, late March to late October', zone: 'Eastern European Summer Time', utcOffsetHours: 3 },
+    ],
+    focusBoards: ALL_TAUGHT_BOARDS,
+    searchedHubs: [],
+    notOffered:
+      'Marlbridge does not teach the national curricula or national school-leaving examinations of European countries, for example the French Baccalauréat. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
+    faqs: [
+      {
+        question: 'Does Marlbridge have a centre in Europe?',
+        answer:
+          'No. Marlbridge has no office, branch or teacher based anywhere in Europe. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
+      },
+      {
+        question: 'What time would classes be in Europe?',
+        answer:
+          'It depends on the country and the time of year. Lahore is four hours ahead of Central European Time in winter and three hours ahead in summer, so a 5:00 pm class in France or Germany is 9:00 pm in Lahore in winter and 8:00 pm in summer. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
+      },
+      {
+        question: 'What does tuition cost from Europe?',
+        answer:
+          'Group classes have a set Europe fee per subject per month, shown on this page in euros. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
+      },
+      {
+        question: 'Is this page for students in the United Kingdom?',
+        answer:
+          'No. The United Kingdom has its own page, with fees in pounds and UK class times. This page gives the fees Marlbridge has set in euros for Europe.',
       },
     ],
   },
