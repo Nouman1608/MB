@@ -12,7 +12,7 @@ written, so an unchanged repository regenerates identical files).
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 8186 |
+| Source resources | 8276 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
@@ -20,8 +20,8 @@ written, so an unchanged repository regenerates identical files).
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
 | Median resources per combination | 46 |
-| Median words per resource | 2224 |
-| Resources under 900 words | 6 |
+| Median words per resource | 2218 |
+| Resources under 900 words | 35 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
 
@@ -40,7 +40,7 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| review-pending | 430 |
+| review-pending | 520 |
 | reviewed | 7756 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
@@ -52,10 +52,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 2683 |
-| revision-notes | 2619 |
+| study-guides | 2713 |
+| revision-notes | 2649 |
 | past-papers | 59 |
-| practice-questions | 2637 |
+| practice-questions | 2667 |
 | exam-preparation | 165 |
 | subject-guides | 23 |
 | learning-articles | 0 |
@@ -65,22 +65,22 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | boards | Resources |
 | --- | --- |
 | aqa | 1139 |
-| cambridge | 2428 |
+| cambridge | 2515 |
 | edexcel | 1044 |
 | ib | 1064 |
 | ocr | 1124 |
-| oxfordaqa | 1387 |
+| oxfordaqa | 1390 |
 
 ## By board
 
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | AQA | 26 | 26 | 26 | 1335 | 0 | 26 | 1246 | 89 |
-| Cambridge | 55 | 55 | 55 | 2580 | 0 | 55 | 2431 | 149 |
+| Cambridge | 55 | 55 | 55 | 2667 | 0 | 55 | 2431 | 236 |
 | Pearson Edexcel | 21 | 21 | 21 | 1044 | 0 | 21 | 1035 | 9 |
 | International Baccalaureate | 21 | 21 | 21 | 1064 | 0 | 21 | 928 | 136 |
 | OCR | 13 | 13 | 13 | 1274 | 0 | 13 | 1259 | 15 |
-| OxfordAQA | 30 | 30 | 30 | 1387 | 0 | 30 | 1347 | 40 |
+| OxfordAQA | 30 | 30 | 30 | 1390 | 0 | 30 | 1347 | 43 |
 
 ## By qualification
 
@@ -89,8 +89,8 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | GCSE | 18 | 864 |
 | A Level | 59 | 3822 |
 | AS Level | 3 | 346 |
-| IGCSE | 47 | 1843 |
-| O Level | 18 | 745 |
+| IGCSE | 47 | 1876 |
+| O Level | 18 | 802 |
 | IB Diploma Programme | 16 | 870 |
 | IB Middle Years Programme | 5 | 194 |
 
@@ -175,10 +175,11 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Cambridge IGCSE Pakistan Studies (0448): 1 review-pending resource(s) with no reviewer
 - Cambridge O Level Pakistan Studies (2059): 1 review-pending resource(s) with no reviewer
 - Cambridge IGCSE Geography (0460): 1 review-pending resource(s) with no reviewer
-- Cambridge O Level Geography (2217): 1 review-pending resource(s) with no reviewer
+- Cambridge O Level Geography (2217): 58 review-pending resource(s) with no reviewer
 - Cambridge IGCSE Global Perspectives (0457): 76 review-pending resource(s) with no reviewer
 - Cambridge A Level Global Perspectives (9239): 13 review-pending resource(s) with no reviewer
 - Cambridge IGCSE Environmental Management (0680): 1 review-pending resource(s) with no reviewer
+- Cambridge IGCSE Urdu Language (0539): 30 review-pending resource(s) with no reviewer
 - Cambridge O Level Urdu Language (3247 / 3248): 1 review-pending resource(s) with no reviewer
 - Cambridge IGCSE Statistics (0479): 1 review-pending resource(s) with no reviewer
 - Cambridge IGCSE Commerce (0715): 1 review-pending resource(s) with no reviewer
@@ -212,6 +213,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - OCR A Level Business (H431): 1 review-pending resource(s) with no reviewer
 - OCR A Level Economics (H460): 2 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Chemistry (9202): 1 review-pending resource(s) with no reviewer
+- OxfordAQA IGCSE Geography (9230): 3 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Psychology (9218): 11 review-pending resource(s) with no reviewer
 - OxfordAQA IGCSE Urdu Language (9264): 1 review-pending resource(s) with no reviewer
 - OxfordAQA A Level Chemistry (9620): 2 review-pending resource(s) with no reviewer
@@ -221,10 +223,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Next action | Combinations |
 | --- | --- |
-| Named-reviewer sign-off of review-pending resources. | 98 |
-| None. | 68 |
+| Named-reviewer sign-off of review-pending resources. | 100 |
+| None. | 66 |
 
-Overall: the largest outstanding item is human sign-off: 430 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: the largest outstanding item is human sign-off: 520 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
@@ -298,13 +300,13 @@ Overall: the largest outstanding item is human sign-off: 430 review-pending reso
 | Cambridge | IGCSE | Islamiyat | 0493 | 16 | 16 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Islamiyat | 2058 | 15 | 15 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Geography | 0460 | 33 | 32 / 1 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
-| Cambridge | O Level | Geography | 2217 | 10 | 9 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
+| Cambridge | O Level | Geography | 2217 | 67 | 9 / 58 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | A Level | Geography | 9696 | 32 | 32 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | IGCSE | Global Perspectives | 0457 | 76 | 0 / 76 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | A Level | Global Perspectives | 9239 | 13 | 0 / 13 | VERIFIED_COMPLETE (staged) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | IGCSE | Environmental Management | 0680 | 26 | 25 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | O Level | Environmental Management | 5014 | 33 | 33 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Cambridge | IGCSE | Urdu Language | 0539 | 8 | 8 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Cambridge | IGCSE | Urdu Language | 0539 | 38 | 8 / 30 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | O Level | Urdu Language | 3247 / 3248 | 10 | 9 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | IGCSE | Statistics | 0479 | 43 | 42 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | Cambridge | IGCSE | Commerce | 0715 | 22 | 21 / 1 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
@@ -376,7 +378,7 @@ Overall: the largest outstanding item is human sign-off: 430 review-pending reso
 | OxfordAQA | IGCSE | Physics | 9203 | 73 | 73 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | English Language | 9270 | 13 | 13 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | IGCSE | English Literature | 9275 | 10 | 10 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| OxfordAQA | IGCSE | Geography | 9230 | 10 | 10 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | Geography | 9230 | 13 | 10 / 3 | VERIFIED_COMPLETE (linear) | 0 | Named-reviewer sign-off of review-pending resources. |
 | OxfordAQA | IGCSE | World History | 9245 | 13 | 13 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Islamiyat | 9237 | 12 | 12 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Pakistan Studies | 9236 | 22 | 22 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |

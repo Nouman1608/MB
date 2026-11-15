@@ -15980,3 +15980,10 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
   - points heading "AS content of the A Level".
   Standalone AQA AS resources keep "AS Level". 7402 is included because it is the same defect as the 7405 case approved; OCR has no `stage: AS` resources.
 - **Code.** The label helpers moved to `src/utils/content/level-label.ts` (re-exported by `collections.ts`) so they can be unit-tested. `validate-as-level-display` now requires the boards argument at every call site. The rendered-label audit's copy of the rule is updated. 5 new tests.
+
+## D-451 - Subtopic pages for the thinnest courses: Cambridge O Level Geography 2217, Cambridge IGCSE Urdu 0539, OxfordAQA IGCSE Geography 9230 (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("add resources to the thinnest courses"). The thinnest courses had 8 to 10 resources each because their pages cover whole papers or themes. Thirty official subtopics had no page of their own: all 19 in Cambridge O Level Geography 2217, all 10 exam exercises in Cambridge IGCSE Urdu 0539 and World cities (London and New York) in OxfordAQA IGCSE Geography 9230.
+- **Pages.** 90 new pages: a study guide, revision notes and a practice set (original questions with full answers) for each of the 30 subtopics, each tagged to its own subtopic. All are `review-pending` under the Marlbridge Academic Team with no reviewer. The 30 Urdu pages carry `reviewNeeded` so an Urdu specialist checks every Urdu sentence; their mark splits, timings and practice formats are labelled as Marlbridge practice conventions where the syllabus is silent.
+- **Sources.** Several writers worked from the official 2217 and 0539 syllabus PDFs. Real case-study facts are limited to well-known ones (each writer listed theirs for a fact check); all invented data is labelled illustrative and recomputed.
+- **Not changed.** Edexcel A Level Law, AQA GCSE Psychology and the two English Literature courses (Edexcel 4ET1, OxfordAQA 9275) already have pages on every subtopic; Cambridge O Level Urdu 3247/3248 has no subtopics in its topic map.
