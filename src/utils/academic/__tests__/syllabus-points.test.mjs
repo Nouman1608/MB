@@ -113,3 +113,11 @@ test('9701 groups report the stage; a topic-level-only mapping is not called the
 test('unknown mappings and other boards give nothing', () => {
   assert.deepEqual(syllabusPointsFor({ boards: ['ib'], subject: 'chemistry', syllabusTopics: [{ qualification: 'igcse', topic: 'stoichiometry' }] }), []);
 });
+
+// D-450 (OQ-4): AQA's AS is a separate qualification (7404), so 7405's AS part is "AS content".
+test('AQA 7405 AS-stage points say "AS content of the A Level"; Cambridge 9701 keeps "AS Level"', () => {
+  const [aqa] = syllabusPointsFor({ boards: ['aqa'], subject: 'chemistry', syllabusCodes: ['7405'], syllabusTopics: [{ qualification: 'a-level', topic: 'atomic-structure-7405' }] });
+  assert.equal(aqa.stage, 'AS content of the A Level');
+  const [cam] = syllabusPointsFor({ boards: ['cambridge'], subject: 'chemistry', syllabusCodes: ['9701'], syllabusTopics: [{ qualification: 'a-level', topic: 'as-atomic-structure' }] });
+  assert.equal(cam.stage, 'AS Level');
+});

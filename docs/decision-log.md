@@ -15970,3 +15970,13 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Gaps.** June 2026 examiner reports do not exist yet, so that series is thresholds only. Pearson Edexcel publishes boundaries only in an interactive tool, and oxfordaqa.com blocks automated downloads, so those pages carry report notes but no thresholds. AQA AS Business 7137 and A Level Business 7132 pages describe the outgoing specifications (7131, 7132) because the new ones have no papers yet; the assessment record's 7132 first-assessment date looks wrong and needs a check.
 - **Not done.** 86 combinations still have no past-papers page: Cambridge 39, Pearson Edexcel 19 and OxfordAQA 28 (outside Chemistry), and IB 21 (IB publishes no papers). The local full build could not run, so CI is the first full build.
 - **Source records.** A source list for the Chemistry pages and for the OCR pages is saved in the owner's OneDrive, `Papers 2025/Past papers Marlbridge`. The original PDFs are not copied there (the upload tool is capped near 1 MB per file).
+## D-450 - AQA A-level "AS" content no longer labelled "AS Level" (OQ-4, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do the 7405 AS label fix (OQ-4 option a)".
+- **Problem.** 105 AQA A-level resources carry `stage: "AS"`: 53 for Chemistry 7405 and 52 for Biology 7402. They showed an "AS Level" badge, the search-filter value "AS LEVEL" (the same value as the standalone AQA AS qualifications) and a points-list heading "7405 (AS Level)". AQA's AS is a separate qualification with its own code (7404, 7401), so these pages are the AS-content part of the linear A Level, not the AS Level.
+- **Fix.** On a board in `SEPARATE_AS_QUALIFICATION_BOARDS` (AQA only; Cambridge, OxfordAQA and Pearson International A Levels certificate the AS from the same syllabus, per the matrix.ts OxfordAQA note), `stage: AS` on an `a-level` resource now reads:
+  - "A Level (AS content)" on cards;
+  - filter value "A LEVEL (AS CONTENT)";
+  - points heading "AS content of the A Level".
+  Standalone AQA AS resources keep "AS Level". 7402 is included because it is the same defect as the 7405 case approved; OCR has no `stage: AS` resources.
+- **Code.** The label helpers moved to `src/utils/content/level-label.ts` (re-exported by `collections.ts`) so they can be unit-tested. `validate-as-level-display` now requires the boards argument at every call site. The rendered-label audit's copy of the rule is updated. 5 new tests.
