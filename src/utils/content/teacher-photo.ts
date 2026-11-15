@@ -1,5 +1,5 @@
 /**
- * D-TBD -- WebP copies of the teacher photographs.
+ * D-455 -- WebP copies of the teacher photographs.
  *
  * Author profiles record one photograph each, a 640x640 JPEG under
  * /images/faculty/ (`image:` in src/content/authors/*.md). The pages show it

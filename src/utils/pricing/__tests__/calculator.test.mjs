@@ -98,7 +98,7 @@ test('one-to-one-only courses (D-335): Rs 6,000 per class, conversions elsewhere
   assert.equal(kw.discountPercent, 0);
 });
 
-// D-TBD -- the "fees for your region" card at the top of /pricing/ shows exactly what the two tables show.
+// D-457 -- the "fees for your region" card at the top of /pricing/ shows exactly what the two tables show.
 test('region card: one card per group-fee row, in table order, each agreeing with both table rows', async () => {
   const { REGION_FEE_CARDS } = await import('../region-card.ts');
   const { formatFee, isIndicative, INDICATIVE_NOTE } = await import('../../../data/pricing.ts');

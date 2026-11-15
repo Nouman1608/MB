@@ -45,7 +45,7 @@ downloaded 2026-08-18, all 640x640 JPEG.
 | azam-siddique.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/azam-siddique.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/azam-siddique/ |
 | aizaz-raoof-ali.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/aizaz-raoof-ali.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/aizaz-raoof-ali/ |
 
-### Derived WebP copies (D-TBD)
+### Derived WebP copies (D-455)
 
 Each JPEG above, and every other JPEG in `public/images/faculty/`, has two
 smaller WebP copies beside it: `<name>-128.webp` and `<name>-224.webp`. They

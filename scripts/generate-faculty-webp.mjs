@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Small WebP copies of the teacher photographs (D-TBD).
+ * Small WebP copies of the teacher photographs (D-455).
  *
  * The originals in public/images/faculty/ are 640x640 JPEGs (see
  * docs/image-source-manifest.md), but the site shows them at 40 to 112 CSS

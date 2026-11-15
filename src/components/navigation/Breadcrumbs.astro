@@ -1,7 +1,7 @@
 ---
 interface Props { items: readonly { label: string; href: string }[] }
 const { items } = Astro.props;
-// D-TBD -- 44px touch height for each crumb link below the desktop breakpoint
+// D-459 -- 44px touch height for each crumb link below the desktop breakpoint
 // (the links were 22px tall). A crumb with a link gets 11px of padding above
 // and below, the link's own box grows into that padding, and the list's -11px
 // margins take the same amount back, so a one-row trail sits exactly where it

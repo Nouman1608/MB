@@ -44,7 +44,7 @@ export const absoluteUrl = (path: string): string =>
  * brand suffix exactly as before; a title already long enough that adding
  * the suffix would push it over the limit is left exactly as authored.
  *
- * D-TBD (15 Nov 2026) -- the cut-off was a fixed "title over 50 characters",
+ * D-460 (15 Nov 2026) -- the cut-off was a fixed "title over 50 characters",
  * so a 48-50 character title still got the suffix and came out at 61-63.
  * The content schema caps `seoTitle` at 60 (src/content.config.ts), so an
  * authored seoTitle of 48-50 characters was pushed past the limit it was

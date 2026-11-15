@@ -4,7 +4,7 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { teacherPhotoSrcset, teacherPhotoWebpPath, TEACHER_PHOTO_WIDTHS } from '../teacher-photo.ts';
 
-// D-TBD: teacher photographs are served as small WebP copies of the JPEG.
+// D-455: teacher photographs are served as small WebP copies of the JPEG.
 const all = () => true;
 const none = () => false;
 
