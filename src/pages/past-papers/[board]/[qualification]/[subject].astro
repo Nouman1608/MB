@@ -1,0 +1,134 @@
+---
+/**
+ * /past-papers/<board>/<qualification>/<subject>/ -- one course's hosted
+ * exam-board documents, by year and session (D-TBD, 15 Nov 2026).
+ *
+ * Owner decision, 15 Nov 2026: "I will take full responsibility of the
+ * licensing; host the past papers." The owner supplies the files and lists
+ * them in src/data/past-papers/courses/ (docs/past-papers/README.md).
+ *
+ * A page exists only for a course that has entries: getStaticPaths comes
+ * from courseStaticPaths(), which returns nothing for an empty manifest. So
+ * there is no empty state on this page and none is needed.
+ *
+ * Wording rules for this page: every link says what the document is, the
+ * board that published it is named, and nothing here is called Marlbridge's
+ * work. The practice questions elsewhere on the site stay described as
+ * original: this page says so, it does not change that.
+ */
+import PageLayout from '../../../../layouts/PageLayout.astro';
+import Section from '../../../../components/layout/Section.astro';
+import Container from '../../../../components/layout/Container.astro';
+import { routes } from '../../../../utils/urls/routes';
+import { syllabusFor } from '../../../../data/academic/syllabuses';
+import { getResources } from '../../../../utils/content/collections';
+import { resourcesForCombination } from '../../../../utils/academic/combination-resources';
+import {
+  courseStaticPaths, courseListing, courseLabel, boardQualification, countLabel, documentKinds, yearRange,
+  PAST_PAPERS_INDEX_PATH, type LibraryCourse,
+} from '../../../../utils/past-papers/library';
+
+export async function getStaticPaths() {
+  return courseStaticPaths();
+}
+
+const { course } = Astro.props as { course: LibraryCourse };
+const c = course.combination;
+const listing = courseListing(course);
+const name = courseLabel(course);
+const kinds = documentKinds(course);
+const total = course.entries.length;
+const syllabus = syllabusFor(c.boardSlug, c.qualificationSlug, c.subjectSlug, course.codes);
+// Marlbridge's own guide(s) to this course's papers (grade thresholds and
+// examiner-report notes), when one is published: the same course rule as the hub.
+const guides = resourcesForCombination(c, await getResources()).filter((r) => r.data.resourceType === 'past-papers');
+const kindsSentence = kinds.charAt(0).toUpperCase() + kinds.slice(1);
+---
+<PageLayout
+  title={`${name} Past Papers`}
+  description={`${name} past papers: ${kinds} published by ${c.board}, ${yearRange(course)}. ${countLabel(total)}, listed by year and exam session.`}
+  path={course.path}
+  eyebrow={`${c.board} · ${c.qualification}`}
+  heading={`${boardQualification(c)} ${c.subject} past papers`}
+  lead={`${kindsSentence} published by ${c.board} for ${name}, listed by year and exam session.`}
+  breadcrumbs={[
+    { label: 'Home', href: routes.home },
+    { label: 'Study resources', href: routes.resources },
+    { label: 'Past papers', href: PAST_PAPERS_INDEX_PATH },
+    { label: `${c.subject} (${course.codes.join(', ')})`, href: course.path },
+  ]}
+>
+  <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Syllabus </dt><dd class="m-0 inline text-ink-mute">{course.codes.join(', ')}</dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Published by </dt><dd class="m-0 inline text-ink-mute">{c.board}</dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Documents </dt><dd class="m-0 inline text-ink-mute">{total}, {yearRange(course)}</dd></div>
+    <div class="m-0"><dt class="sr-only">Course page </dt><dd class="m-0 inline"><a href={course.hubPath} class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 lg:min-h-0">Topics and resources for this course</a></dd></div>
+  </dl>
+
+  {/* Pagefind filters: the same Board and Qualification values as hubs and resources. */}
+  <div slot="hero-extra" hidden aria-hidden="true">
+    <span data-pagefind-filter="Resource type:Past-paper files"></span>
+    <span data-pagefind-filter={`Board:${c.board}`}></span>
+    <span data-pagefind-filter={`Qualification:${c.qualification}`}></span>
+  </div>
+
+  <Section surface="white" spacing="md">
+    <Container>
+      <div class="max-w-[70ch] rounded-md border border-rule bg-ivory p-[clamp(20px,2.6vw,32px)]" data-past-paper-notice>
+        <h2 class="m-0 text-[length:var(--text-h3)] font-bold leading-[1.15] tracking-[-0.015em] text-navy-800">About these documents</h2>
+        <p class="m-0 mt-3 text-[15.5px] leading-[1.6] text-ink-mute">
+          Every file on this page is a document published by {c.board}, and each link says which kind of document it is.
+          Marlbridge hosts the files and did not write them.
+          {syllabus && <> For the current syllabus and the newest series, check <a href={syllabus.officialUrl} rel="nofollow noopener" class="underline decoration-teal-500 underline-offset-2">{c.board}'s own page for {syllabus.code}</a>.</>}
+        </p>
+        <p class="m-0 mt-3 text-[15.5px] leading-[1.6] text-ink-mute">
+          Marlbridge's own practice questions are original and are not taken from these papers.
+        </p>
+        {guides.length > 0 && (
+          <p class="m-0 mt-3 text-[15.5px] leading-[1.6] text-ink-mute">
+            Marlbridge's guide to this course's papers:{' '}
+            {guides.map((g, i) => <>{i > 0 && '; '}<a href={routes.resource(g.id)} class="underline decoration-teal-500 underline-offset-2">{g.data.title}</a></>)}.
+          </p>
+        )}
+      </div>
+
+      {listing.length > 1 && (
+        <nav aria-label="Years" class="mt-8">
+          <ul class="m-0 flex list-none flex-wrap gap-2 p-0">
+            {listing.map((y) => (
+              <li class="m-0"><a href={`#${y.anchor}`} class="inline-flex min-h-11 items-center rounded-sm border border-rule bg-white px-4 text-[15px] font-medium text-navy-800 no-underline hover:border-teal-500">{y.year}</a></li>
+            ))}
+          </ul>
+        </nav>
+      )}
+
+      {listing.map((y) => (
+        <section id={y.anchor} aria-labelledby={`${y.anchor}-heading`} class="mt-[clamp(32px,4vw,48px)] scroll-mt-24" data-past-paper-year={y.year}>
+          <h2 id={`${y.anchor}-heading`} class="m-0 text-[length:var(--text-h2)] font-bold leading-[1.08] tracking-[-0.025em] text-navy-800">{y.year}</h2>
+          {y.sessions.map((s) => (
+            <section id={s.anchor} aria-labelledby={`${s.anchor}-heading`} class="mt-6 scroll-mt-24" data-past-paper-session={s.anchor}>
+              <h3 id={`${s.anchor}-heading`} class="m-0 text-[21px] font-bold tracking-[-0.015em] text-navy-800">{s.label}</h3>
+              <ul class="m-0 mt-3 list-none border-y border-rule p-0">
+                {s.papers.map((p) => (
+                  <li class="m-0 flex flex-wrap items-center justify-between gap-x-6 gap-y-1 border-t border-rule px-1 py-1 first:border-t-0">
+                    <span class="text-[16px] leading-snug text-navy-800">{p.label}</span>
+                    <span class="flex flex-wrap items-center gap-x-5 gap-y-1">
+                      {p.documents.map((d) => (
+                        <a href={d.href} aria-label={d.accessibleName} data-past-paper-file={d.type} class="inline-flex min-h-11 items-center text-[15px] font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{d.label}{' '}<span class="ms-1 text-[13px] font-normal text-ink-mute">({d.format})</span></a>
+                      ))}
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </section>
+      ))}
+
+      <p class="m-0 mt-10 text-[14px] text-ink-mute">
+        A link that does not open, or a document under the wrong label?{' '}
+        <a href={routes.reportCorrection} class="underline decoration-teal-500 underline-offset-2">Report a correction</a>.
+      </p>
+    </Container>
+  </Section>
+</PageLayout>

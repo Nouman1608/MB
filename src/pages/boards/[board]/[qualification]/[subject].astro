@@ -55,6 +55,7 @@ import { videoNodes } from '../../../../utils/schema/video';
 import { STUDY_KIND } from '../../../../utils/academic/combination-resources';
 import { teachersForSubjectTitle } from '../../../../utils/content/subject-teachers';
 import { ONE_TO_ONE_ONLY_PRICING, isOneToOneOnlyCourse, formatFee } from '../../../../data/pricing';
+import { hubLibraryLink } from '../../../../utils/past-papers/library';
 
 export async function getStaticPaths() {
   return activeOnly().map((c) => ({
@@ -96,6 +97,10 @@ const hubDeckCounts = hubDeck ? topicCardCounts(hubDeck) : {};
 const topicFlashcards = hubDeck
   ? Object.fromEntries(Object.entries(hubDeckCounts).map(([slug, count]) => [slug, { href: flashcardsPath(hubDeck, slug), count }]))
   : undefined;
+// D-TBD: the course's hosted exam-board documents, when the past-paper library
+// has any for it. Undefined for a course with no entries, and then nothing is
+// rendered. Kept out of the "Free tools" list: these are the board's documents.
+const hubPastPapers = hubLibraryLink(c);
 
 /**
  * v2.0 AUTHORITY/PRACTICE/TOOLS/GROWTH MEGA PROGRAMME WS2 -- every academic
@@ -607,6 +612,12 @@ const jsonLd = [
     </p>
   )}
 
+  {hubPastPapers && (
+    <p slot="hero-extra" class={`m-0 ${classesOffered ? 'mt-0' : 'mt-4'} text-[15px]`} data-hub-past-papers>
+      <a href={hubPastPapers.href} class="inline-flex min-h-11 items-center text-ink-mute underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{hubPastPapers.label} for this course: {hubPastPapers.detail}</a>
+    </p>
+  )}
+
   {/* Remember this course for the student's next pages (scripts/course-context.ts). */}
   <div slot="hero-extra" hidden data-course-context={JSON.stringify({ id: `${c.boardSlug}/${c.qualificationSlug}/${c.subjectSlug}`, label: `${heading}${syllabus && hasRealCode ? ` (${syllabus.code})` : ''}`, hub: path, ...(syllabus && hasRealCode ? { code: syllabus.code } : {}) })}></div>
 
@@ -669,6 +680,9 @@ const jsonLd = [
         )}
         {checklistHref && (
           <div class="m-0"><dt class="m-0 mb-label text-teal-700">Topic checklist</dt><dd class="m-0 mt-1 text-ink"><a href={checklistHref} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">Printable {syllabus?.code ?? ''} checklist</a></dd></div>
+        )}
+        {hubPastPapers && (
+          <div class="m-0"><dt class="m-0 mb-label text-teal-700">{hubPastPapers.label}</dt><dd class="m-0 mt-1 text-ink"><a href={hubPastPapers.href} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{hubPastPapers.detail}</a></dd></div>
         )}
         <div class="m-0"><dt class="m-0 mb-label text-teal-700">Where was this verified?</dt><dd class="m-0 mt-1 text-ink">{syllabus ? <>{syllabus.verifiedOn}, official {c.board} specification</> : 'Not yet verified against an official source'}</dd></div>
         {practiceCount > 0 && (
