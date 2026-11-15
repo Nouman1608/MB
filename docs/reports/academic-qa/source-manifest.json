@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "decision": "D-452",
+    "meaning": "Academic reference documents downloaded for Academic QA work and saved in the owner's OneDrive folder \"Papers 2025/resource check\". localFile is relative to that folder. The documents are not in this repository and are not published on the site."
+  },
+  "files": [
+    {
+      "title": "AQA AS and A-level Chemistry (7404, 7405) specification, for teaching from September 2015",
+      "source": "AQA",
+      "board": "aqa",
+      "qualification": "a-level",
+      "subject": "chemistry",
+      "code": "7404 / 7405",
+      "series": "2015 onwards",
+      "officialUrl": "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-7404-7405-SP-2015.PDF",
+      "downloadedDate": "2026-11-15",
+      "localFile": "AQA/AQA-AS-A-level-Chemistry-7404-7405-specification-2015.pdf",
+      "fileType": "pdf",
+      "licence": "Publicly downloadable from the board's site; AQA copyright. Reference use only; not republished.",
+      "purpose": "Rubric pilot assessment QA-0002 (AS content of the A Level, calculations)",
+      "verificationStatus": "downloaded from official URL; PDF header checked",
+      "sha256": "405e292e9b00586679276eab98eac53484a35635cf51a2ae31ade0c05a56215f",
+      "bytes": 1269298
+    },
+    {
+      "title": "Cambridge International AS & A Level Psychology 9990 syllabus for examination in 2024, 2025 and 2026",
+      "source": "Cambridge International Education",
+      "board": "cambridge",
+      "qualification": "a-level",
+      "subject": "psychology",
+      "code": "9990",
+      "series": "2024-2026",
+      "officialUrl": "https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf",
+      "downloadedDate": "2026-11-15",
+      "localFile": "Cambridge/AS-A-Level/Cambridge-AS-A-Level-Psychology-9990-syllabus-2024-2026.pdf",
+      "fileType": "pdf",
+      "licence": "Publicly downloadable from the board's site; Cambridge copyright. Reference use only; not republished.",
+      "purpose": "Rubric pilot assessment QA-0003 (OT-4 Psychology page)",
+      "verificationStatus": "downloaded from official URL; PDF header checked",
+      "sha256": "548b92070549f461b7e4d3bedd272c0fc44565974f7ddada372945f7baa9a0bd",
+      "bytes": 599218
+    },
+    {
+      "title": "Cambridge IGCSE Chemistry 0620 syllabus for examination in 2026, 2027 and 2028",
+      "source": "Cambridge International Education",
+      "board": "cambridge",
+      "qualification": "igcse",
+      "subject": "chemistry",
+      "code": "0620",
+      "series": "2026-2028",
+      "officialUrl": "https://www.cambridgeinternational.org/Images/697205-2026-2028-syllabus.pdf",
+      "downloadedDate": "2026-11-15",
+      "localFile": "Cambridge/IGCSE/Cambridge-IGCSE-Chemistry-0620-syllabus-2026-2028.pdf",
+      "fileType": "pdf",
+      "licence": "Publicly downloadable from the board's site; Cambridge copyright. Reference use only; not republished.",
+      "purpose": "Rubric pilot assessment QA-0001 and QA-0004 (syllabus alignment, outcome wording, tiering)",
+      "verificationStatus": "downloaded from official URL; PDF header checked",
+      "sha256": "6aab46afe64e4de40a447c36d1bfa382a10e9865eab9230af7915629cf576f0c",
+      "bytes": 1121078
+    },
+    {
+      "title": "Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028",
+      "source": "Cambridge International Education",
+      "board": "cambridge",
+      "qualification": "o-level",
+      "subject": "chemistry",
+      "code": "5070",
+      "series": "2026-2028",
+      "officialUrl": "https://www.cambridgeinternational.org/Images/697326-2026-2028-syllabus.pdf",
+      "downloadedDate": "2026-11-15",
+      "localFile": "Cambridge/O-Level/Cambridge-O-Level-Chemistry-5070-syllabus-2026-2028.pdf",
+      "fileType": "pdf",
+      "licence": "Publicly downloadable from the board's site; Cambridge copyright. Reference use only; not republished.",
+      "purpose": "Rubric pilot assessment QA-0004 (shared 0620/5070 page)",
+      "verificationStatus": "downloaded from official URL; PDF header checked",
+      "sha256": "62c18939b91b53a160cb039bae5fd57615c62f7337c967d476face31f22957cb",
+      "bytes": 1229822
+    }
+  ]
+}

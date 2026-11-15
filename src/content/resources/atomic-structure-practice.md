@@ -45,7 +45,7 @@ featured: false
 
 Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
-> **Tier note:** questions marked *(0620 Extended, 5070 required)* — calculating relative atomic mass from isotopic abundances — go beyond 0620 Core. All other questions are answerable by a 0620 Core candidate.
+> **Tier note:** parts marked *(0620 Extended, 5070 required)* go beyond 0620 Core: calculating relative atomic mass from isotopic abundances (questions 7 and 13), and explaining why isotopes have the same chemical properties (the second part of question 4). All other questions and parts are answerable by a 0620 Core candidate.
 
 ---
 
@@ -57,7 +57,7 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 
 **3.** Define the terms *proton number* and *mass number*. **[2]**
 
-**4.** Define the term *isotope*, and explain why isotopes of the same element have identical chemical properties. **[3]**
+**4.** Define the term *isotope*, and explain why isotopes of the same element have identical chemical properties *(this second part: 0620 Extended, 5070 required)*. **[3]**
 
 **5.** A magnesium atom has proton number 12.
 
@@ -134,7 +134,7 @@ Related: [Atomic Structure revision notes](/resources/atomic-structure/)
 ## Frequently asked questions
 
 **Which questions are Extended only for Cambridge IGCSE 0620?**
-Questions on calculating relative atomic mass from isotope abundances are labelled 0620 Extended. They are required content for Cambridge O Level 5070.
+Questions on calculating relative atomic mass from isotope abundances (7 and 13), and the second part of question 4 (why isotopes have the same chemical properties), are labelled 0620 Extended. They are required content for Cambridge O Level 5070.
 
 **What is the difference between proton number and mass number?**
 Proton number is the number of protons in the nucleus and identifies the element. Mass number is the total number of protons and neutrons, and it varies between isotopes of the same element.
