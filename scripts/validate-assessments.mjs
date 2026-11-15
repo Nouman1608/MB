@@ -391,7 +391,7 @@ if (ASSESSMENTS.length === 0) {
   let p8 = 0;
   for (const a of ASSESSMENTS) {
     for (const c of a.components) {
-      // D-454: null = mark total deliberately not shown (no official document confirms it);
+      // D-455: null = mark total deliberately not shown (no official document confirms it);
       // allowed only when the reader-facing marksSourceNote names the paper and says so.
       if (c.marks === null) {
         const note = a.marksSourceNote ?? '';

@@ -11,7 +11,7 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | A3 | The English policy said every resource "is checked against that document before publication", but the ledger records 95 UNVERIFIED | Narrow it, with a computed count |
 | A4 | AP "Reviewed by [name], 8 Nov 2026": the date read as a review event, and no profile listed AP | Align the display with D-379 and add the AP courses to the profiles |
 | A5 | 22 more Psychology pages (Cambridge 9990, AQA 7182) had the same unsupported "Checked by … 8 Nov 2026" | Remove the line in the same way |
-| A9 (OQ-3) | DP Lang & Lit Paper 2 total (25) from thinkib.net vs the policy "never a tutoring site" | Remove the figure until an IB document confirms it; done in D-454 |
+| A9 (OQ-3) | DP Lang & Lit Paper 2 total (25) from thinkib.net vs the policy "never a tutoring site" | Remove the figure until an IB document confirms it; done in D-455 |
 | A8 (OQ-1) | Internal reviewNotes "<date>: reviewed by X." contradict D-379 | Reword mechanically, keeping the date; done in D-453 (7,606 notes) |
 | A7 (OQ-5) | "23 named subject specialists" (home) vs "8 named teachers" (policy): same kind of label, two definitions | Name the unit on both; done in D-451 |
 | A6 (OQ-4) | AQA 7405 resources with `stage: AS` were labelled "AS Level" like the standalone AQA AS | Relabel as AS content of the A Level; done in D-450, also covering 7402 |
@@ -20,7 +20,7 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 
 | ID | Question | Evidence | Options (recommended first) | Affected files |
 |---|---|---|---|---|
-| OQ-6 | DP Language A: Literature takes its HL essay (20) and individual oral (40) mark totals from teacher-resource websites (its own `marksSourceNote` says so), the same conflict as OQ-3. Should those totals also be removed until an IB document confirms them? | `assessments.ts`, DP Language A: Literature record | (a) Remove them the same way (D-454 pattern); (b) keep them with the existing disclosure | `assessments.ts` |
+| OQ-6 | DP Language A: Literature takes its HL essay (20) and individual oral (40) mark totals from teacher-resource websites (its own `marksSourceNote` says so), the same conflict as OQ-3. Should those totals also be removed until an IB document confirms them? | `assessments.ts`, DP Language A: Literature record | (a) Remove them the same way (D-455 pattern); (b) keep them with the existing disclosure | `assessments.ts` |
 | OQ-2 | IB DP Biology and Chemistry hold HL assessment figures only. The FAQ now says SL figures are not listed. Can you supply the SL assessment outline from the IB subject guides (licensed), or approve deferring it? | `src/data/academic/assessments.ts` (DP Biology notes: "Standard Level is therefore not included"); D-128 | (a) Supply the guide pages; (b) defer, keeping the honest "not listed" wording | `assessments.ts` |
 
 ## Open — needs a qualified subject teacher

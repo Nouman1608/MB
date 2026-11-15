@@ -107,7 +107,7 @@ function transitionPairs() {
   }
   return pairs.sort((p1, p2) => (p1.newer.firstTeaching ?? '').localeCompare(p2.newer.firstTeaching ?? ''));
 }
-// D-454: a component whose total is not confirmed (marks: null) makes the sum unknown -- never under-counted as 0.
+// D-455: a component whose total is not confirmed (marks: null) makes the sum unknown -- never under-counted as 0.
 const totalMarks = (comps: Assessment['components']): string =>
   comps.some((c) => c.marks === null)
     ? `Not confirmed (${comps.filter((c) => c.marks === null).map((c) => c.paperCode).join(', ')} not shown)`

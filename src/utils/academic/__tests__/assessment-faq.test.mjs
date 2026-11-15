@@ -60,7 +60,7 @@ test('sourceKind names the linked document honestly', () => {
   assert.equal(sourceKind('https://www.ibo.org/en/programmes/diploma-programme/curriculum/sciences/physics/'), 'course page');
 });
 
-// D-454 (OQ-3): an unconfirmed mark total is never printed as a number.
+// D-455 (OQ-3): an unconfirmed mark total is never printed as a number.
 test('DP Language A: Language and Literature Paper 2 says "mark total not confirmed", never 25', () => {
   const s = answer(find('DP Language A: Language and Literature'));
   const p2 = s.split('; ').filter((x) => x.includes('Paper 2'));

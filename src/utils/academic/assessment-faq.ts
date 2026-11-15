@@ -79,7 +79,7 @@ export function assessmentAnswer(a: Assessment, ctx: { courseLabel: string; boar
       : comp.durationMinutes
       ? `${Math.floor(comp.durationMinutes / 60)}h${comp.durationMinutes % 60 ? ` ${comp.durationMinutes % 60}m` : ''}`.trim()
       : 'no fixed duration';
-    // D-454: an unconfirmed total is said so, never shown as a number.
+    // D-455: an unconfirmed total is said so, never shown as a number.
     const marks = comp.marks === null ? 'mark total not confirmed' : `${comp.marks} marks`;
     return `${comp.paperCode} (${comp.title}) — ${dur}, ${marks}, ${weightingProse(comp)}`;
   };

@@ -989,7 +989,7 @@ withMutation(
   },
 );
 
-console.log('\n[AW] D-454 -- a mark total removed without saying so to readers is rejected');
+console.log('\n[AW] D-455 -- a mark total removed without saying so to readers is rejected');
 withMutation(
   'src/data/academic/assessments.ts',
   (text) => text.replace("marksSourceNote: 'Paper 2\\'s mark total is not shown.", "marksSourceNote: 'See the guide."),

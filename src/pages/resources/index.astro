@@ -25,7 +25,7 @@ import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import CourseFinder from '../../components/tools/CourseFinder.astro';
-import { getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../utils/content/collections';
+import { getArticles, getResources, getSubjects, resourceCategoryMeta, type ResourceCategory } from '../../utils/content/collections';
 import { routes } from '../../utils/urls/routes';
 import { apLibraryBuilt, apUrls } from '../../utils/ap/library';
 import { AP_TRADEMARK_ATTRIBUTION } from '../../data/ap/config';
@@ -37,7 +37,13 @@ const count = (type: ResourceCategory, subjectId: string) =>
   resources.filter((r) => r.data.resourceType === type && r.data.subject.id === subjectId).length;
 const typeTotals = Object.fromEntries(types.map((t) => [t, resources.filter((r) => r.data.resourceType === t).length])) as Record<ResourceCategory, number>;
 const shownTypes = types.filter((t) => typeTotals[t] > 0);
-const emptyTypes = types.filter((t) => typeTotals[t] === 0);
+// D-454 -- "Learning Articles" has no pages of its own in this library
+// because the articles are published in the Learning Journal (/articles/).
+// Saying "none published yet" about it contradicted the journal, so while
+// that type is empty and the journal has articles, the line points there.
+const journalCount = (await getArticles()).length;
+const articlesLiveInJournal = typeTotals['learning-articles'] === 0 && journalCount > 0;
+const emptyTypes = types.filter((t) => typeTotals[t] === 0 && !(t === 'learning-articles' && articlesLiveInJournal));
 const rows = subjects
   .map((s) => ({ subject: s, counts: Object.fromEntries(shownTypes.map((t) => [t, count(t, s.id)])) as Record<ResourceCategory, number> }))
   .filter((row) => shownTypes.some((t) => row.counts[t] > 0));
@@ -122,6 +128,11 @@ const rows = subjects
       {emptyTypes.length > 0 && (
         <p class="m-0 mt-4 text-[14px] text-ink-mute">
           {emptyTypes.map((t, i) => <><span id={t} class="scroll-mt-24">{resourceCategoryMeta[t].title}</span>{i < emptyTypes.length - 1 ? ', ' : ''}</>)}: none published yet. Marlbridge is writing these; nothing is published as a placeholder.
+        </p>
+      )}
+      {articlesLiveInJournal && (
+        <p class="m-0 mt-4 text-[14px] text-ink-mute">
+          <span id="learning-articles" class="scroll-mt-24">{resourceCategoryMeta['learning-articles'].title}</span> are published in the <a href={routes.articles} class="underline decoration-teal-500 underline-offset-2">Learning Journal</a> ({journalCount} {journalCount === 1 ? 'article' : 'articles'}).
         </p>
       )}
 

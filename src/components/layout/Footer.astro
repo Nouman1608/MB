@@ -8,6 +8,8 @@ const columns = [
   { heading: 'Resources', items: footerNav.resources },
   { heading: 'Marlbridge', items: footerNav.company },
 ];
+// D-454 -- `footer: false` keeps a profile in sameAs but out of this list.
+const footerSocial = site.social.filter((s) => s.footer !== false);
 ---
 <footer class="bg-navy-900 text-on-navy">
   <div class="mx-auto max-w-[var(--container-site)] px-[var(--spacing-gutter)] pb-8 pt-[clamp(56px,7vw,88px)]">
@@ -44,11 +46,11 @@ const columns = [
       </div>
     </div>
 
-    {site.social.length > 0 && (
+    {footerSocial.length > 0 && (
       <nav aria-label="Marlbridge on social media and the web" class="flex flex-wrap items-center gap-x-6 gap-y-1 border-b border-navy-rule py-5">
         <h2 class="m-0 mb-label text-gold-500">Follow Marlbridge</h2>
         <ul class="m-0 flex list-none flex-wrap gap-x-5 gap-y-1 p-0">
-          {site.social.map((s) => (
+          {footerSocial.map((s) => (
             <li><a href={s.href} rel="me noopener" target="_blank" class="block py-2 text-[15px] text-on-navy hover:text-white">{s.label}<span class="sr-only"> (opens in a new tab)</span></a></li>
           ))}
         </ul>
