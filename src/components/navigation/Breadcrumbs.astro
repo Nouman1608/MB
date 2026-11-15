@@ -1,15 +1,24 @@
 ---
 interface Props { items: readonly { label: string; href: string }[] }
 const { items } = Astro.props;
+// D-TBD -- 44px touch height for each crumb link below the desktop breakpoint
+// (the links were 22px tall). A crumb with a link gets 11px of padding above
+// and below, the link's own box grows into that padding, and the list's -11px
+// margins take the same amount back, so a one-row trail sits exactly where it
+// did. Rows are aligned on the text baseline so the current page (bottom
+// padding only) lines up with the links. A trail that wraps is 18px taller for
+// each extra row that has links, and 7px taller when only the current page
+// wraps, which keeps the rows' touch areas from overlapping. From lg up nothing
+// changes.
 ---
 <nav aria-label="Breadcrumb" class="mb-8">
-  <ol class="m-0 flex list-none flex-wrap items-center gap-x-2 gap-y-1 p-0 text-[13.5px] text-ink-mute">
+  <ol class="mx-0 -my-[11px] flex list-none flex-wrap items-baseline gap-x-2 gap-y-0 p-0 text-[13.5px] text-ink-mute lg:my-0 lg:items-center lg:gap-y-1">
     {items.map((item, i) => (
-      <li class="m-0 flex items-center gap-2">
+      <li class={`m-0 flex items-center gap-2 ${i === items.length - 1 ? 'pb-[11px] lg:pb-0' : 'py-[11px] lg:py-0'}`}>
         {i > 0 && <span aria-hidden="true" class="text-rule">/</span>}
         {i === items.length - 1
           ? <span aria-current="page" class="text-ink">{item.label}</span>
-          : <a href={item.href} class="text-ink-mute underline decoration-rule underline-offset-2 hover:text-teal-700">{item.label}</a>}
+          : <a href={item.href} class="-my-[11px] py-[11px] text-ink-mute underline decoration-rule underline-offset-2 hover:text-teal-700 lg:my-0 lg:py-0">{item.label}</a>}
       </li>
     ))}
   </ol>

@@ -55,7 +55,14 @@ const covered = data.topics.filter((t) => t.count > 0).length;
 const TYPE_TAG: Record<string, string> = { 'subject-guides': 'Course guide', 'learning-articles': 'Article', 'past-papers': 'Past papers guide', 'exam-preparation': 'Exam preparation' };
 // Full titles, wrapping inside the chip when they are long (no ellipsis): a cut-off title hid
 // which page a chip opened when a topic has several resources of one kind.
-const pill = 'inline-block max-w-full whitespace-normal break-words text-left leading-snug rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory';
+// D-TBD -- touch area for the resource buttons. The owner asked for small outlined buttons
+// (D-447), so the look is kept. An invisible ::after strip adds 4px above and below each
+// button: half the 8px gap between rows, so no button's strip reaches the button above or
+// below it. On phones a one-line button is also 36px tall (it was 24px), which with the strip
+// is a 44px touch height; buttons whose title wraps to two lines were already 42px. From
+// 640px up the buttons look as before.
+const tap = "relative after:absolute after:inset-x-0 after:-inset-y-1 after:content-[''] max-sm:inline-flex max-sm:min-h-9 max-sm:items-center";
+const pill = `${tap} inline-block max-w-full whitespace-normal break-words text-left leading-snug rounded-sm border border-gold-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory`;
 const searchText = (...parts: (string | undefined)[]) => parts.filter(Boolean).join(' ').toLowerCase();
 const hasAny = (g: KindGroups) => KIND_ORDER.some((k) => g[k].length > 0);
 // Review fix: search examples come from this course's own topic list, not
@@ -161,7 +168,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
                           ))}
                         </span>
                       ))}
-                      {fc && <a href={fc.href} data-cta="hub-topic-flashcards" class="rounded-sm border border-teal-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory">Flashcards ({fc.count})</a>}
+                      {fc && <a href={fc.href} data-cta="hub-topic-flashcards" class={`${tap} rounded-sm border border-teal-500 px-2 py-0.5 text-[13px] text-navy-800 no-underline hover:bg-ivory`}>Flashcards ({fc.count})</a>}
                       {entry.count === 0 && <span class="text-[13px] text-ink-mute">No resources yet</span>}
                     </span>
                   </div>
@@ -196,7 +203,7 @@ const placeholder = exampleTerms.length ? `e.g. ${exampleTerms.join(', ')}` : 'a
         <ul class="m-0 mt-4 flex list-none flex-wrap gap-2 p-0">
           {KIND_ORDER.flatMap((k) => data.wholeCourse[k].map((r) => (
             <li class="m-0" data-res data-search={searchText(r.title, r.description, MODE[k].label, TYPE_TAG[r.resourceType])}>
-              <a href={routes.resource(r.id)} data-course-resource={k} title={r.title} class="inline-block max-w-full whitespace-normal break-words text-left leading-snug rounded-sm border border-gold-500 bg-white px-2.5 py-1 text-[14px] text-navy-800 no-underline hover:bg-ivory">{shortTitle(r.title, context)}</a>
+              <a href={routes.resource(r.id)} data-course-resource={k} title={r.title} class={`${tap} inline-block max-w-full whitespace-normal break-words text-left leading-snug rounded-sm border border-gold-500 bg-white px-2.5 py-1 text-[14px] text-navy-800 no-underline hover:bg-ivory`}>{shortTitle(r.title, context)}</a>
             </li>
           )))}
         </ul>
