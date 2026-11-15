@@ -29,7 +29,8 @@ import { join } from 'node:path';
 const errors = [];
 
 // --- 1. The derivation logic itself must still be present -----------------
-const collectionsPath = 'src/utils/content/collections.ts';
+// D-450: the label helpers now live in level-label.ts (re-exported by collections.ts).
+const collectionsPath = 'src/utils/content/level-label.ts';
 const collectionsSrc = await readFile(collectionsPath, 'utf8');
 const fnMatch = collectionsSrc.match(/export const resourceLevelLabel = \(([\s\S]*?)\n\};/);
 if (!fnMatch) {
@@ -57,8 +58,8 @@ for (const path of callSiteGlobs) {
   }
   for (const [full, args] of calls) {
     const argCount = args.split(',').filter((a) => a.trim().length > 0).length;
-    if (argCount < 3) {
-      errors.push(`${path}: "${full}" passes only ${argCount} argument(s) -- must pass (levels, stage, qualifications) so AQA's standalone AS Level resources still render "AS LEVEL" here.`);
+    if (argCount < 4) {
+      errors.push(`${path}: "${full}" passes only ${argCount} argument(s) -- must pass (levels, stage, qualifications, boards) so AQA's standalone AS Level resources render "AS LEVEL" and AQA A-level AS content renders "A LEVEL (AS CONTENT)" (D-450).`);
     }
   }
 }

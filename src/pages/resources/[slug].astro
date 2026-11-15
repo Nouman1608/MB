@@ -52,7 +52,7 @@ const teacherBoardLabel = d.boards.length === 1 ? (d.boards[0] === 'ib' ? 'IB' :
 /* D-286 -- lessons linked to this resource; the section renders nothing while there are none. */
 const videos = await videosForResource(resource.id);
 const meta = resourceCategoryMeta[d.resourceType];
-const levels = resourceLevelLabel(d.level, d.stage, d.qualifications);
+const levels = resourceLevelLabel(d.level, d.stage, d.qualifications, d.boards);
 
 /**
  * Conversion & Trust round (2026-09-06, D-149).

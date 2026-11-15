@@ -41,7 +41,7 @@ Not claimed: 100% academic accuracy, any human review, any search-ranking or AI-
 | D-6 | thinkib.net value vs policy "never a tutoring site" | Med | /boards/ib/ib-dp/english-language-and-literature/ | `assessments.ts` | IB DP Lang & Lit | Yes (conflict) | record cites thinkib.net | — | none | — | Open: OQ-3 |
 | D-7 | "N named subject specialists" (23) vs "8 named teachers" | Low | / and policy | components | — | Different definitions | agent table | — | none | — | Open: OQ-5 |
 | F-1 | AS 7404 page showing 7405 figures | — | — | — | AQA Chemistry | **Disproven** | no 7404 record/page/resource | — | — | — | Closed |
-| F-2 | 7405 `stage: AS` shows "AS Level" filter value shared with AQA AS 7135/7137 | Low | AQA 7405 resources (53) | `collections.ts:95-98` | AQA A Level Chemistry 7405 | Yes (ambiguity) | — | Label choice | none | — | Open: OQ-4 |
+| F-2 | 7405 `stage: AS` shows "AS Level" filter value shared with AQA AS 7135/7137 | Low | AQA 7405 resources (53) | `collections.ts:95-98` | AQA A Level Chemistry 7405, Biology 7402 | Yes (ambiguity) | — | Label choice | "A Level (AS content)" (D-450, owner OQ-4) | level-label tests | Fixed (105 pages) |
 
 ## C. Syllabus mapping audit
 
@@ -124,7 +124,7 @@ See [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md): 5 owner questions, 4 teac
 **Medium**
 6. (Translator) Native review of the six translated pointer sentences (OL-1).
 7. (Technical) Give `syllabusSeries` a normalised key so series mismatches can be validated, not just eyeballed.
-8. (Owner) 7405 "AS Level" filter label (OQ-4).
+8. ~~7405 "AS Level" filter label (OQ-4)~~: done in D-450.
 
 **Low**
 9. (Owner) Internal reviewNote wording (OQ-1).
