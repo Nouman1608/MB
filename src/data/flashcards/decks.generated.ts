@@ -34,6 +34,7 @@ import { DECK_CAMBRIDGE_A_LEVEL_COMPUTER_SCIENCE } from './cambridge-a-level-com
 import { DECK_CAMBRIDGE_A_LEVEL_ECONOMICS } from './cambridge-a-level-economics.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE } from './cambridge-a-level-english-language.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE } from './cambridge-a-level-english-literature.ts';
+import { DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY } from './cambridge-a-level-geography.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES } from './cambridge-a-level-global-perspectives.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_ICT } from './cambridge-a-level-ict.ts';
 import { DECK_CAMBRIDGE_A_LEVEL_LAW } from './cambridge-a-level-law.ts';
@@ -51,6 +52,7 @@ import { DECK_CAMBRIDGE_IGCSE_COMPUTER_SCIENCE } from './cambridge-igcse-compute
 import { DECK_CAMBRIDGE_IGCSE_ECONOMICS } from './cambridge-igcse-economics.ts';
 import { DECK_CAMBRIDGE_IGCSE_ENGLISH_LITERATURE } from './cambridge-igcse-english-literature.ts';
 import { DECK_CAMBRIDGE_IGCSE_ENVIRONMENTAL_MANAGEMENT } from './cambridge-igcse-environmental-management.ts';
+import { DECK_CAMBRIDGE_IGCSE_GEOGRAPHY } from './cambridge-igcse-geography.ts';
 import { DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES } from './cambridge-igcse-global-perspectives.ts';
 import { DECK_CAMBRIDGE_IGCSE_ICT } from './cambridge-igcse-ict.ts';
 import { DECK_CAMBRIDGE_IGCSE_ISLAMIYAT } from './cambridge-igcse-islamiyat.ts';
@@ -69,6 +71,7 @@ import { DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE } from './cambridge-o-level-com
 import { DECK_CAMBRIDGE_O_LEVEL_ECONOMICS } from './cambridge-o-level-economics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ENGLISH_LANGUAGE } from './cambridge-o-level-english-language.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ENVIRONMENTAL_MANAGEMENT } from './cambridge-o-level-environmental-management.ts';
+import { DECK_CAMBRIDGE_O_LEVEL_GEOGRAPHY } from './cambridge-o-level-geography.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT } from './cambridge-o-level-islamiyat.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS } from './cambridge-o-level-mathematics.ts';
 import { DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES } from './cambridge-o-level-pakistan-studies.ts';
@@ -102,6 +105,7 @@ import { DECK_IB_IB_DP_CHEMISTRY } from './ib-ib-dp-chemistry.ts';
 import { DECK_IB_IB_DP_COMPUTER_SCIENCE } from './ib-ib-dp-computer-science.ts';
 import { DECK_IB_IB_DP_ECONOMICS } from './ib-ib-dp-economics.ts';
 import { DECK_IB_IB_DP_ENVIRONMENTAL_SYSTEMS_AND_SOCIETIES } from './ib-ib-dp-environmental-systems-and-societies.ts';
+import { DECK_IB_IB_DP_GEOGRAPHY } from './ib-ib-dp-geography.ts';
 import { DECK_IB_IB_DP_GLOBAL_POLITICS } from './ib-ib-dp-global-politics.ts';
 import { DECK_IB_IB_DP_LANGUAGE_A_LANGUAGE_AND_LITERATURE } from './ib-ib-dp-language-a-language-and-literature.ts';
 import { DECK_IB_IB_DP_LANGUAGE_A_LITERATURE } from './ib-ib-dp-language-a-literature.ts';
@@ -137,6 +141,7 @@ import { DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE } from './oxfordaqa-a-level-com
 import { DECK_OXFORDAQA_A_LEVEL_ECONOMICS } from './oxfordaqa-a-level-economics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE } from './oxfordaqa-a-level-english-language.ts';
 import { DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE } from './oxfordaqa-a-level-english-literature.ts';
+import { DECK_OXFORDAQA_A_LEVEL_GEOGRAPHY } from './oxfordaqa-a-level-geography.ts';
 import { DECK_OXFORDAQA_A_LEVEL_MATHEMATICS } from './oxfordaqa-a-level-mathematics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PHYSICS } from './oxfordaqa-a-level-physics.ts';
 import { DECK_OXFORDAQA_A_LEVEL_PSYCHOLOGY } from './oxfordaqa-a-level-psychology.ts';
@@ -149,6 +154,7 @@ import { DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE } from './oxfordaqa-igcse-compute
 import { DECK_OXFORDAQA_IGCSE_ECONOMICS } from './oxfordaqa-igcse-economics.ts';
 import { DECK_OXFORDAQA_IGCSE_ENGLISH_LANGUAGE } from './oxfordaqa-igcse-english-language.ts';
 import { DECK_OXFORDAQA_IGCSE_ENGLISH_LITERATURE } from './oxfordaqa-igcse-english-literature.ts';
+import { DECK_OXFORDAQA_IGCSE_GEOGRAPHY } from './oxfordaqa-igcse-geography.ts';
 import { DECK_OXFORDAQA_IGCSE_ISLAMIYAT } from './oxfordaqa-igcse-islamiyat.ts';
 import { DECK_OXFORDAQA_IGCSE_MATHEMATICS } from './oxfordaqa-igcse-mathematics.ts';
 import { DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES } from './oxfordaqa-igcse-pakistan-studies.ts';
@@ -192,6 +198,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_A_LEVEL_ECONOMICS,
   DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE,
   DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LITERATURE,
+  DECK_CAMBRIDGE_A_LEVEL_GEOGRAPHY,
   DECK_CAMBRIDGE_A_LEVEL_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_A_LEVEL_ICT,
   DECK_CAMBRIDGE_A_LEVEL_LAW,
@@ -209,6 +216,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_IGCSE_ECONOMICS,
   DECK_CAMBRIDGE_IGCSE_ENGLISH_LITERATURE,
   DECK_CAMBRIDGE_IGCSE_ENVIRONMENTAL_MANAGEMENT,
+  DECK_CAMBRIDGE_IGCSE_GEOGRAPHY,
   DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES,
   DECK_CAMBRIDGE_IGCSE_ICT,
   DECK_CAMBRIDGE_IGCSE_ISLAMIYAT,
@@ -227,6 +235,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_CAMBRIDGE_O_LEVEL_ECONOMICS,
   DECK_CAMBRIDGE_O_LEVEL_ENGLISH_LANGUAGE,
   DECK_CAMBRIDGE_O_LEVEL_ENVIRONMENTAL_MANAGEMENT,
+  DECK_CAMBRIDGE_O_LEVEL_GEOGRAPHY,
   DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT,
   DECK_CAMBRIDGE_O_LEVEL_MATHEMATICS,
   DECK_CAMBRIDGE_O_LEVEL_PAKISTAN_STUDIES,
@@ -260,6 +269,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_IB_IB_DP_COMPUTER_SCIENCE,
   DECK_IB_IB_DP_ECONOMICS,
   DECK_IB_IB_DP_ENVIRONMENTAL_SYSTEMS_AND_SOCIETIES,
+  DECK_IB_IB_DP_GEOGRAPHY,
   DECK_IB_IB_DP_GLOBAL_POLITICS,
   DECK_IB_IB_DP_LANGUAGE_A_LANGUAGE_AND_LITERATURE,
   DECK_IB_IB_DP_LANGUAGE_A_LITERATURE,
@@ -295,6 +305,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_A_LEVEL_ECONOMICS,
   DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE,
   DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE,
+  DECK_OXFORDAQA_A_LEVEL_GEOGRAPHY,
   DECK_OXFORDAQA_A_LEVEL_MATHEMATICS,
   DECK_OXFORDAQA_A_LEVEL_PHYSICS,
   DECK_OXFORDAQA_A_LEVEL_PSYCHOLOGY,
@@ -307,6 +318,7 @@ export const GENERATED_DECKS: readonly FlashcardDeck[] = [
   DECK_OXFORDAQA_IGCSE_ECONOMICS,
   DECK_OXFORDAQA_IGCSE_ENGLISH_LANGUAGE,
   DECK_OXFORDAQA_IGCSE_ENGLISH_LITERATURE,
+  DECK_OXFORDAQA_IGCSE_GEOGRAPHY,
   DECK_OXFORDAQA_IGCSE_ISLAMIYAT,
   DECK_OXFORDAQA_IGCSE_MATHEMATICS,
   DECK_OXFORDAQA_IGCSE_PAKISTAN_STUDIES,
