@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-6-4"
 description: "11 original IB DP ESS questions on the atmosphere, climate change and ozone, with data analysis, essays and mark-by-mark worked answers."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

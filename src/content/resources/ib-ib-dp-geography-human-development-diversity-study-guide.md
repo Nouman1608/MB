@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "ib-dp-geography-12-3"
 description: "Development opportunities, changing identities and cultures, and local responses to global interactions in the Higher Level extension of IB Diploma Programme Geography."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-15: reviewed by azam-siddique."
 ---
 
 This guide covers Unit 5, Human development and diversity, in the Higher Level extension of IB Diploma Programme Geography (first assessments 2019). Where Unit 4 explained how places are linked, Unit 5 asks what those links do to people: who gets opportunities to improve their lives, how cultures and identities change when ideas and goods move quickly, and how communities respond locally to forces that are global in origin. The unit rewards balanced, example-led writing because almost every claim in it has a counter-claim.

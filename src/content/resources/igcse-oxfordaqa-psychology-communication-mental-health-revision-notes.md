@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "mental-health-9218"
 description: "Notes on language and thought, Von Frisch, non-verbal communication, OCD and PTSD for OxfordAQA International GCSE Psychology 9218, sections 3.2.1 and 3.2.3."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-11-15
+  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

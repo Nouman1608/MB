@@ -22,11 +22,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-1-3"
 description: "Study guide for IB DP ESS sections 1.1-1.3: value systems, storages and flows, feedback, tipping points, natural capital and footprints."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This study guide teaches the foundation unit of IB Diploma Programme Environmental Systems and Societies (ESS), aligned to the International Baccalaureate Organization *Diploma Programme Subject Brief, Environmental systems and societies*, first assessment 2026. It covers syllabus sections 1.1 Perspectives, 1.2 Systems and 1.3 Sustainability. The foundation unit is the starting point for both SL and HL, so everything here applies to both levels. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

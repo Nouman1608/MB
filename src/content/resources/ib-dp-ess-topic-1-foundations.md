@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "IB DP Environmental Systems and Societies Topic 1 Foundations: perspectives, systems and sustainability, the unit revisited throughout the course from 2026."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-06
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This guide covers **Topic 1 — Foundations**, for IB Diploma Programme

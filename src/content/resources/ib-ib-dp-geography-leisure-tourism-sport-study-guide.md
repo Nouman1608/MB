@@ -26,9 +26,12 @@ syllabusTopics:
     subtopic: "ib-dp-geography-5-4"
 description: "A study guide to the Leisure, tourism and sport option in IB DP Geography: leisure patterns, tourism and sport at different scales, and sustainable management."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-15: reviewed by azam-siddique."
 ---
 
 Leisure, tourism and sport is one of the teacher-selected options in the geographic themes part of IB Diploma Programme Geography. It explores how leisure time is used, how tourism and sport shape places from local to global scale, and how these activities can be managed sustainably. Check that your school teaches this option. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) shows how options relate to the core.

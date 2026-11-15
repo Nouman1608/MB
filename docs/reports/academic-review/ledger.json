@@ -10,24 +10,24 @@
   "totals": {
     "resources": 8088,
     "reviewStatus": {
-      "review-pending": 384,
-      "reviewed": 7704
+      "review-pending": 332,
+      "reviewed": 7756
     },
     "outcome": {
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 7256,
-      "UNVERIFIED": 52
+      "TEACHER_CREDITED": 7268,
+      "UNVERIFIED": 40
     },
     "structuralValidation": {
       "PASS": 7575,
       "WARN": 513
     },
     "withVerificationRecord": 780,
-    "withSpecCheck": 310,
+    "withSpecCheck": 332,
     "correctedInThisProgramme": 48,
-    "pendingWithoutReviewer": 384
+    "pendingWithoutReviewer": 332
   },
   "integrity": [],
   "rowsFile": "docs/reports/academic-review/ledger.csv",

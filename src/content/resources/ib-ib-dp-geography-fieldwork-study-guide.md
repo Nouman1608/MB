@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-geography-fieldwork"
 description: "How to plan, collect, present and evaluate fieldwork data for the IB Diploma Programme Geography internal assessment, with a worked Spearman's rank example."
 author: "marlbridge-academic-team"
-reviewNeeded: true
-reviewNote: "Check the current subject guide and teacher support material for the exact word limit, mark total, assessment criteria and permitted fieldwork topics, which are described here only in general terms."
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
+reviewNote: "Check the current subject guide and teacher support material for the exact word limit, mark total, assessment criteria and permitted fieldwork topics, which are described here only in general terms; 2026-11-15: reviewed by azam-siddique."
 publishedDate: 2026-11-08
 featured: false
 ---
