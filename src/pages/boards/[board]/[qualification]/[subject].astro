@@ -799,7 +799,7 @@ const jsonLd = [
                           )}
                         </td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.durationLabel ? comp.durationLabel : comp.durationMinutes ? `${Math.floor(comp.durationMinutes / 60)}h ${comp.durationMinutes % 60 ? `${comp.durationMinutes % 60}m` : ''}`.trim() : '—'}</td>
-                        <td class="py-2 pe-3 text-ink-mute">{comp.marks}</td>
+                        <td class="py-2 pe-3 text-ink-mute">{comp.marks ?? 'Not confirmed'}</td>
                         <td class="py-2 pe-3 text-ink-mute">{comp.asWeightingPercent != null && comp.asWeightingPercent !== comp.weightingPercent
                           ? (comp.weightingPercent === 0 ? `${comp.asWeightingPercent}% (AS only)` : `${comp.asWeightingPercent}% AS / ${comp.weightingPercent}% A Level`)
                           : `${comp.weightingPercent}%`}{comp.alternativeGroup && <span aria-label="Sat as an alternative to another component" title="Sat as an alternative to another component"> *</span>}{comp.asAlternativeGroup && <span aria-label="At AS Level, sat as an alternative to another component" title="At AS Level, sat as an alternative to another component"> †</span>}</td>
@@ -824,7 +824,7 @@ const jsonLd = [
                 )}
                 {a.marksSourceNote && (
                   <p class="m-0 mt-3 rounded-sm border-l-2 border-gold-500 pl-3 text-[13.5px] leading-[1.6] text-ink-mute" data-marks-source-note>
-                    <span class="font-medium text-navy-800">Not all of these figures come from {c.board} documents:</span> {a.marksSourceNote}
+                    <span class="font-medium text-navy-800">{a.sourceConfidence === 'official-host' && a.components.some((comp) => comp.marks === null) ? 'Some figures are not shown:' : `Not all of these figures come from ${c.board} documents:`}</span> {a.marksSourceNote}
                   </p>
                 )}
                 <p class="m-0 mt-3 text-[13px] text-ink-mute">

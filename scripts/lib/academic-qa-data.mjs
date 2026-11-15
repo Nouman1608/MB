@@ -1,5 +1,5 @@
 /**
- * Shared loaders for the Academic QA framework (D-455): the validator
+ * Shared loaders for the Academic QA framework (D-457): the validator
  * (validate-academic-qa.mjs), the scorecard (academic-qa-scorecard.mjs) and
  * the review-pack generator read the repository through these, so they
  * agree on what a resource, a reviewer and a content hash are.

@@ -1,5 +1,5 @@
 /**
- * Academic QA rubric v1.0.0 (D-455, 15 Nov 2026) -- the scoring and state
+ * Academic QA rubric v1.0.0 (D-457, 15 Nov 2026) -- the scoring and state
  * rules of the Academic Quality Assurance Framework
  * (docs/academic-qa/framework.md). Pure functions only: no file access, so
  * the validator (scripts/validate-academic-qa.mjs), the scorecard
@@ -18,7 +18,7 @@
  * A score (3) is never an approval (4). The accountable-teacher credit
  * (reviewStatus "reviewed") is none of 1-4 and never raises a QA state.
  *
- * Owner decisions, 15 Nov 2026 (D-455):
+ * Owner decisions, 15 Nov 2026 (D-457):
  *   - VERIFIED_APPROVED needs a documented teacher approval AND a complete
  *     rubric score >= 90 AND no open hard-stop or major finding.
  *   - The build fails now on integrity problems (malformed or unevidenced
@@ -61,7 +61,7 @@ export const CATEGORIES = [
 
 export const MAX_POINTS = CATEGORIES.reduce((n, c) => n + c.max, 0);
 
-/** Score bands. A Marlbridge policy (D-455), not an awarding-body standard. */
+/** Score bands. A Marlbridge policy (D-457), not an awarding-body standard. */
 export const BANDS = [
   { id: 'meets-target', min: 90, label: 'Meets the quality target (subject to gates and approval)' },
   { id: 'improve', min: 75, label: 'Improvement and reassessment required' },
@@ -213,7 +213,7 @@ export function deriveQaState(input: StateInput): { state: QaState; reasons: str
   const approved = !!tv && (tv.approval === 'approved' || tv.approval === 'approved-after-corrections');
   if (score?.complete && approved) return { state: 'VERIFIED_APPROVED', reasons: [`Score ${score.total}/100 (${a!.id}) and teacher approval (${tv!.date})`] };
   if (score?.complete) return { state: 'ACADEMIC_REVIEW_PENDING', reasons: [`Score ${score.total}/100 (${a!.method}, ${a!.id}); documented teacher approval still needed`] };
-  if (approved) return { state: 'ACADEMIC_REVIEW_PENDING', reasons: ['Teacher approval recorded; a complete rubric assessment is still needed (D-455)'] };
+  if (approved) return { state: 'ACADEMIC_REVIEW_PENDING', reasons: ['Teacher approval recorded; a complete rubric assessment is still needed (D-457)'] };
   if (a) return { state: 'AUTOMATED_CHECK_COMPLETE', reasons: [`Assessment ${a.id} is incomplete (${score!.missing.join(', ')} not scored)`] };
   return { state: 'AUTOMATED_CHECK_COMPLETE', reasons: ['Automated structural checks only; no rubric assessment yet'] };
 }

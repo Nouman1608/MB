@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Source manifest for academic reference documents (D-455).
+ * Source manifest for academic reference documents (D-457).
  *
  * The owner's rule (15 Nov 2026): every academic reference downloaded for
  * QA work is stored in the owner's OneDrive folder "Papers 2025/resource
@@ -43,7 +43,7 @@ const verifyOnly = args.includes('--verify');
 
 const manifest = existsSync(REPO_MANIFEST) ? JSON.parse(readFileSync(REPO_MANIFEST, 'utf8')) : { meta: {}, files: [] };
 manifest.meta = {
-  decision: 'D-455',
+  decision: 'D-457',
   meaning: 'Academic reference documents downloaded for Academic QA work and saved in the owner\'s OneDrive folder "Papers 2025/resource check". localFile is relative to that folder. The documents are not in this repository and are not published on the site.',
 };
 if (addFile) {

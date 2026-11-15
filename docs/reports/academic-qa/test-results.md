@@ -1,6 +1,20 @@
-# D-455 test results (15 Nov 2026)
+# D-457 test results (15 Nov 2026)
 
-Run locally on Windows (Node 26.7.0), on branch `academic-qa/framework` in its own worktree, **after merging `main` at `e6d01706d`** (D-451 to D-454 from other sessions; 90 new resources, a 7,636-line reviewNote rewording, and template and redirect fixes). Each step ran on its own, with nothing else running at the same time.
+Run locally on Windows (Node 26.7.0), on branch `academic-qa/framework` in its own worktree. Each step ran on its own, with nothing else running at the same time.
+
+`main` moved three times while this PR was open (D-451 to D-456 from other sessions). There is no GitHub Actions run on pull requests in this repository (`deploy.yml` runs on pushes to `main` only), so all verification below is local.
+
+**Latest merge, `main` at `41cb4f814`** (adds 142 subject guides, D-456, and the Lang & Lit mark-total removal, D-455). Fast checks:
+
+| Command | Result |
+|---|---|
+| `npm run validate:academic` (includes the new gate) | **PASS**: 5 records, 0 need reassessment |
+| `npm run test:tools` | **180 pass / 0 fail** (one test added on main) |
+| `npm run check:review-ledger`, `check:academic-qa`, `coverage:academic-v2 --check`, decision-log encoding | **PASS** |
+| `qa:source-manifest` | **PASS**; the OneDrive and repository manifests are byte-identical |
+| Full sequence (build, `audit:all`, `astro check`, negative suite, `test:api`, `test:reports`) | Re-run after this push; results are added in the next commit |
+
+**Full sequence, on the previous merge, `main` at `e6d01706d`** (90 new resources, a 7,636-line reviewNote rewording, and template and redirect fixes):
 
 | Command | Result | Notes |
 |---|---|---|

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Academic QA integrity gate (D-455, 15 Nov 2026). Part of validate:academic,
+ * Academic QA integrity gate (D-457, 15 Nov 2026). Part of validate:academic,
  * so it runs before every build.
  *
  * The register docs/reports/academic-qa/assessments.json holds rubric

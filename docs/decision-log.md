@@ -16008,10 +16008,32 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Learning Articles on /resources/.** The page said "Learning Articles: none published yet" because that resource type has no pages, while the Learning Journal at /articles/ has published articles. While the type is empty and the journal is not, the page now says the articles are published in the Learning Journal, with a link and the computed article count. The `#learning-articles` anchor is kept. The ar/ur/bn resources pages are unchanged: their wording needs a translator.
 - **/sitemap.xml.** It returned the 404 page. One `_redirects` rule now sends it to /sitemap-index.xml, which robots.txt already names.
 - **Checked and deliberately not changed.** Four items in the review turned out to be correct as built, once read against the source: (1) the IB course list has no board heading because the qualification heading already says IB, and on the home page the list is hidden until a course is chosen; (2) the pricing tables carry different "last verified" dates because each table was verified on its own date, and "Indicative" marks only the converted fees, as `isIndicative` and `docs/fx-rate-policy.md` define; (3) KWD, BHD and OMR keep three decimals under the same policy; (4) teacher photographs have empty alt text because the name is printed beside each one.
+## D-455 - DP Language A: Language and Literature Paper 2 mark total removed until an IB document confirms it (OQ-3, 15 Nov 2026)
 
-## D-455 - Academic Quality Assurance Framework: ten checks, 100-point rubric, QA ledger and integrity gate (15 Nov 2026)
+- Owner, 15 Nov 2026: "do OQ-3 option a".
+- **Problem.** The record showed Paper 2 as 25 marks (SL and HL). That figure came from a teacher-resource site (thinkib.net), "corroborated" by a school LibGuide. The editorial policy says sources are never a tutoring site, and the IB's own guide (first assessment 2021) prints 30.
+- **Fix** (`src/data/academic/assessments.ts`):
+  - Paper 2 `marks` is now `null` at both levels. The type allows `null` only as "not shown: no official document confirms it".
+  - The thinkib.net mirror and the LibGuide are removed as sources, and `sourceConfidence` is now `official-host`. Every remaining figure is read from the IB's public subject brief.
+  - The reader-facing `marksSourceNote` says the total is not shown and why.
+  - The public `notes` no longer present the May 2026 revision as fact.
+- **Same source, also corrected.** `firstAssessment` was '2026', the date of the unconfirmed revision. It is now '2021', the IB guide's first assessment and the series the 35 Lang & Lit resources already state. No resource states a Paper 2 mark total; they give only the official weightings.
+- **Rendering.** The hub table shows "Not confirmed", and the disclosure above the note reads "Some figures are not shown:" rather than "Not all of these figures come from IB documents:", which would now be false. The FAQ and its JSON-LD say "mark total not confirmed". The syllabus-updates page gives the total as "Not confirmed (Paper 2 not shown)" rather than under-counting. The coverage report now counts this record as lacking complete marks.
+- **Guards.** `validate-assessments` [8] accepts `null` only when `marksSourceNote` names the paper and says it is not shown; negative fixture [AW]. A unit test asserts the FAQ never prints 25 for Paper 2.
+- **To restore the figure.** An IB document (current guide, specimen paper or published markscheme) confirming the Paper 2 total. The lead is kept in `internalNotes`.
+- **Not changed (asked separately).** DP Language A: Literature takes its HL essay and individual oral totals from teacher-resource websites, per its own `marksSourceNote`. It is the same policy conflict, but outside OQ-3 as approved.
 
-Source: the owner's "Master Academic Quality Assurance, Content Authority & Search Optimisation Programme" brief, 15 Nov 2026. Framework: `docs/academic-qa/framework.md`. Report: `docs/reports/academic-qa/implementation-report.md`. Open items: `OPEN_QUESTIONS.md` OQ-6 to OQ-11 and OT-5 to OT-7. Numbered D-455 because other sessions took D-451 to D-454 the same afternoon.
+## D-456 - Subject guides for the 142 courses that had none (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("write subject guides for the 142 combinations"). Only 24 of 166 courses had a subject guide (a course overview).
+- **Pages.** 142 new subject guides, one per remaining course: Cambridge 55, OxfordAQA 30, AQA 21, Pearson Edexcel 21, OCR 13, IB 2 (DP Economics and DP Physics). Each covers how the course is organised, how it is assessed, how the parts fit together, a study plan, which Marlbridge pages to use for what, FAQs and the official source. They link to the course's exam-preparation and past-papers pages rather than repeating them.
+- **Facts.** Topic lists come only from `syllabus-topics.ts` and every assessment figure only from the course's records in `assessments.ts`; the writers checked by script that no number on a page falls outside those records. All pages are `review-pending` under the Marlbridge Academic Team with no reviewer; 12 carry `reviewNeeded` (mostly editions whose last exams were in 2026, thin records such as Cambridge 9239 and 9626, AQA's "7712 / 7717" code, and the Edexcel Urdu 9UR0 theme titles).
+- **Titles.** Pearson Edexcel International A Level guides are titled "Pearson Edexcel International A-Level ..." to match the existing pages for those courses.
+- **Follow-up.** Several Cambridge courses are on editions whose final exams were in 2026 (for example 0448, 2059, 9093, 1123, 9695, 0475, 0455, 2281, 9696, 9990, 9699, 7115); their records and pages will need the next edition.
+
+## D-457 - Academic Quality Assurance Framework: ten checks, 100-point rubric, QA ledger and integrity gate (15 Nov 2026)
+
+Source: the owner's "Master Academic Quality Assurance, Content Authority & Search Optimisation Programme" brief, 15 Nov 2026. Framework: `docs/academic-qa/framework.md`. Report: `docs/reports/academic-qa/implementation-report.md`. Open items: `OPEN_QUESTIONS.md` OQ-7 to OQ-12 and OT-5 to OT-7. Numbered D-457 because other sessions took D-451 to D-456 the same afternoon.
 
 - **Built on what exists.** The ledger (D-386), the D-379 meaning of "reviewed", the repository verification records and the D-448 teacher-verification register are kept. `reviewStatus` and `reviewedDate` are unchanged, and no credit is converted into a verification. The new layer is a fourth record type, the **rubric assessment** (`docs/reports/academic-qa/assessments.json`). Its method is `ai-assisted` or `human`, and it is never an approval.
 - **Rubric v1.0.0** (`src/utils/academic/qa-rubric.ts`):
@@ -16023,16 +16045,16 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **States** are derived, never typed in: BLOCKED, REVERIFICATION_REQUIRED, REVISION_REQUIRED, ACADEMIC_REVIEW_PENDING, VERIFIED_APPROVED, AUTOMATED_CHECK_COMPLETE, NOT_ASSESSED. Every assessment and teacher verification records `contentSha256`, the hash of the resource without its `reviewNote`, `featured` and `order` lines (bookkeeping no student sees: D-453 reworded 7,636 reviewNotes in one commit, and that must not make assessments stale). Any other later edit makes the record stale. Rule [13] now requires the hash; there are 0 records, so nothing is affected.
 - **Owner's answers, 15 Nov 2026, multiple choice:**
   - "Teacher + score ≥90": VERIFIED_APPROVED needs a documented teacher approval and a complete score of 90 or more, with no open hard-stop or major finding.
-  - "Integrity now, coverage later": `scripts/validate-academic-qa.mjs` (in `validate:academic`) fails the build on unevidenced or malformed scores, a stored total, AI output recorded as human, a non-official source, an open hard-stop on current content, or a public page referencing the register. "New resource has no assessment" is reported only (OQ-8).
+  - "Integrity now, coverage later": `scripts/validate-academic-qa.mjs` (in `validate:academic`) fails the build on unevidenced or malformed scores, a stored total, AI output recorded as human, a non-official source, an open hard-stop on current content, or a public page referencing the register. "New resource has no assessment" is reported only (OQ-9).
   - "Yes, ~5 pilot pages": AI-assisted, never a teacher review; fix only clear-cut errors.
-  - "Main resources first": scope is `src/content/resources`; articles and AP are next (OQ-11).
-- **Pilot.** Four official PDFs were downloaded and saved in the owner's OneDrive folder `Papers 2025/resource check` (0620, 5070, 9990, AQA 7404/7405), with SHA-256 in `docs/reports/academic-qa/source-manifest.json` and beside the files. The IB DP Biology guide returned 403 to automated download and was not worked around (OQ-6). Results:
+  - "Main resources first": scope is `src/content/resources`; articles and AP are next (OQ-12).
+- **Pilot.** Four official PDFs were downloaded and saved in the owner's OneDrive folder `Papers 2025/resource check` (0620, 5070, 9990, AQA 7404/7405), with SHA-256 in `docs/reports/academic-qa/source-manifest.json` and beside the files. The IB DP Biology guide returned 403 to automated download and was not worked around (OQ-7). Results:
   - QA-0001: 0620 atomic structure study guide, 93.5, ACADEMIC_REVIEW_PENDING (OT-5).
-  - QA-0002: AQA 7405 moles, 75.0, two major figure findings (OQ-7).
+  - QA-0002: AQA 7405 moles, 75.0, two major figure findings (OQ-8).
   - QA-0003: 9990 clinical practice, 85.5.
   - QA-0004: 0620/5070 atomic structure practice, 79.5. Its major finding was confirmed against 0620 2.3 Supplement 3: the page told Core candidates that Q4 was theirs, but its explanation part is Extended content. Corrected (tier note, Q4 label, FAQ). The hash change made QA-0004 stale; QA-0005 records the fix, at 82.5.
   - Every major finding was re-checked by hand before recording.
-- **Search metadata.** The scorecard checks complete-coverage wording in titles and descriptions against each page's own mapping: 13 cases, 2 supported, 5 not supported by the mapping, 6 need a reader. Nothing was rewritten (OQ-10). No public template, URL, metadata or structured data changed, and no review markup comes from QA data (D-380).
+- **Search metadata.** The scorecard checks complete-coverage wording in titles and descriptions against each page's own mapping: 15 cases, 2 supported, 5 not supported by the mapping, 8 need a reader. Nothing was rewritten (OQ-11). No public template, URL, metadata or structured data changed, and no review markup comes from QA data (D-380).
 - **Also found:** the 7405 taxonomy omits specification section 3.1.2.5 (OT-6).
 - **Tooling.**
   - `report:academic-qa` (scorecard, dashboard md/html, risk queue) and `check:academic-qa`.

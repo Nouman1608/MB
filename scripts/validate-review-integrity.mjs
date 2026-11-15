@@ -66,7 +66,7 @@
  *       and an isReviewer profile covering its board and subject, a board and
  *       code the resource declares, a sane date, a closed approval value, an
  *       official source for that board, and non-empty scope and evidence.
- *       D-455 adds contentSha256 (the file as checked), so the Academic QA
+ *       D-457 adds contentSha256 (the file as checked), so the Academic QA
  *       scorecard can tell a current approval from a stale one.
  *
  *  [14] D-453 -- a dated credit in `reviewNote` is written "YYYY-MM-DD:
@@ -256,7 +256,7 @@ console.log('');
     if (!APPROVAL.includes(r.approval)) problems.push(`${at}: approval "${r.approval}" is not one of ${APPROVAL.join(', ')}.`);
     if (!String(r.scope ?? '').trim()) problems.push(`${at}: scope is empty.`);
     if (!String(r.evidence ?? '').trim() || /todo|tbd|placeholder/i.test(r.evidence)) problems.push(`${at}: evidence is empty or a placeholder.`);
-    // D-455 -- the hash of the file the teacher checked, so a later edit
+    // D-457 -- the hash of the file the teacher checked, so a later edit
     // makes the approval stale (REVERIFICATION_REQUIRED) instead of silently
     // carrying over to content the teacher never saw.
     if (!/^[0-9a-f]{64}$/.test(String(r.contentSha256 ?? ''))) problems.push(`${at}: contentSha256 (sha256 of the resource file as checked) is missing or malformed.`);
