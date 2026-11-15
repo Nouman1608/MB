@@ -16,7 +16,7 @@
  * that are not listed here are not published (see docs/decision-log.md
  * D-303 for the countries deliberately not given a page yet).
  *
- * D-458 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and
+ * D-460 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and
  * Europe get pages; this lifts the D-303 hold for the four Gulf countries.
  * There is no Search Console or GA4 evidence for them in the repo, so they
  * have no `searchedHubs` and no cities, and their boards are every board
@@ -50,7 +50,7 @@ export interface MarketHubLink {
   readonly label: string;
 }
 
-/** One row of the time table for a region with several zones (D-458). */
+/** One row of the time table for a region with several zones (D-460). */
 export interface MarketTimeZone {
   /** Example countries and the part of the year, e.g. "France and Germany, late October to late March". */
   readonly where: string;
@@ -70,12 +70,12 @@ export interface Market {
   /**
    * Boards (slugs) most relevant to families in this country, in order.
    * Where `searchedHubs` is empty there is no local evidence: list every
-   * board with classes, in the site's own order (D-458).
+   * board with classes, in the site's own order (D-460).
    */
   readonly focusBoards: readonly string[];
   /**
    * Hub pages searchers in this country found most often. Empty when there
-   * is no such evidence (D-458): the page then leaves the section out and
+   * is no such evidence (D-460): the page then leaves the section out and
    * does not call the boards "most relevant".
    */
   readonly searchedHubs: readonly MarketHubLink[];
@@ -100,10 +100,10 @@ export interface Market {
    * Singapore "O Level" reads as the national Singapore-Cambridge O-Level).
    */
   readonly tutorListExcludes?: readonly string[];
-  /** Overrides the computed meta description (D-458: keeps Saudi Arabia's under 160 characters). */
+  /** Overrides the computed meta description (D-460: keeps Saudi Arabia's under 160 characters). */
   readonly pageDescription?: string;
   /**
-   * D-458 -- a region with several time zones or daylight saving (Europe).
+   * D-460 -- a region with several time zones or daylight saving (Europe).
    * The page shows one row per entry instead of the single-offset table.
    * Standard UTC offsets and clock-change months: fixed public facts.
    */
@@ -132,7 +132,7 @@ export function timeRows(utcOffsetHours: number) {
 }
 
 /**
- * D-458 -- every board Marlbridge teaches, in the order of BOARDS
+ * D-460 -- every board Marlbridge teaches, in the order of BOARDS
  * (src/data/academic/boards.ts). Used by markets with no local search
  * evidence, so no board is presented as locally "most relevant". The page
  * drops any board without taught classes and marks one-to-one-only boards.
@@ -327,7 +327,7 @@ export const MARKETS: readonly Market[] = [
     ],
   },
   /**
-   * D-458 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain and Oman.
+   * D-460 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain and Oman.
    * D-303 kept these on /gulf/ for lack of search demand; the owner has now
    * asked for a page each. No local search evidence is held, so there are no
    * `searchedHubs` and no cities. Group fees are the owner-set rows in
@@ -478,7 +478,7 @@ export const MARKETS: readonly Market[] = [
   },
   {
     /**
-     * D-458 (owner, 15 Nov 2026) -- Europe, the region of the euro rows in
+     * D-460 (owner, 15 Nov 2026) -- Europe, the region of the euro rows in
      * pricing.ts (the UK has its own page and its own GBP rows). Europe has
      * no single clock: `timeZones` gives the three main zones in winter and
      * summer, and `utcOffsetHours` (Central European Time) is not printed.

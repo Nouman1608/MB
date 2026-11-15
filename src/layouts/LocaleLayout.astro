@@ -116,7 +116,7 @@ const jsonLd = [...siteGraph(), webPageNode(path, title, description)];
         row that scrolls away (see below). The button reuses nav.ctaTrial, so no new wording. */}
     <header class="sticky top-0 z-50 border-b border-navy-rule bg-navy-800">
       <div class="mx-auto flex h-16 items-center justify-between gap-3 px-[var(--spacing-gutter)] max-w-[var(--container-site)] sm:gap-4 lg:h-20">
-        {/* D-459: 44px touch height for the home link (it was 28px); the 64px row is unchanged. */}
+        {/* D-461: 44px touch height for the home link (it was 28px); the 64px row is unchanged. */}
         <a href={path} class="inline-flex min-h-11 shrink-0 items-center text-[17px] font-semibold text-ivory">Marlbridge</a>
         <nav aria-label="Primary" class="hidden flex-wrap items-center gap-x-5 gap-y-1 text-[14.5px] lg:flex">
           {nav.primaryNav.map((item) => (

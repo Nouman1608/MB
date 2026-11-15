@@ -8,7 +8,7 @@
  * country-specific FAQs. No local branch, teacher, partner or result is
  * claimed anywhere on these pages.
  *
- * D-458 (15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and Europe use
+ * D-460 (15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain, Oman and Europe use
  * this page too. A market with no `searchedHubs` has no search evidence: the
  * searched-pages block is left out and its boards are introduced as the
  * boards taught, not as the most relevant ones. A market that lists OCR shows
@@ -49,7 +49,7 @@ const lahoreDifference = (utcOffsetHours: number) => {
   const diff = LAHORE_UTC_OFFSET - utcOffsetHours;
   return diff === 0 ? 'the same time as Lahore' : diff > 0 ? `${diff} hour${diff === 1 ? '' : 's'} behind Lahore` : `${-diff} hour${diff === -1 ? '' : 's'} ahead of Lahore`;
 };
-// D-458 -- a region with several time zones (Europe) states its own range and gets one row per zone.
+// D-460 -- a region with several time zones (Europe) states its own range and gets one row per zone.
 const diffText = m.timeSummary ?? lahoreDifference(m.utcOffsetHours);
 const zoneRows = (m.timeZones ?? []).map((z) => ({
   where: z.where,
@@ -57,9 +57,9 @@ const zoneRows = (m.timeZones ?? []).map((z) => ({
   difference: lahoreDifference(z.utcOffsetHours),
   lahore: clock(17 + LAHORE_UTC_OFFSET - z.utcOffsetHours),
 }));
-// D-458 -- no searched hubs means no search evidence for this market.
+// D-460 -- no searched hubs means no search evidence for this market.
 const hasSearchEvidence = m.searchedHubs.length > 0;
-// D-458 -- a market that lists OCR shows the one-to-one-only fee (D-335), as /uk/ does.
+// D-460 -- a market that lists OCR shows the one-to-one-only fee (D-335), as /uk/ does.
 const oneToOneOnly = m.focusBoards.includes('ocr') ? oneToOneOnlyConversionFor(m.pricingRegion) : undefined;
 
 const taught = taughtOnly();
@@ -69,7 +69,7 @@ const boardRows = m.focusBoards
     if (!b || b.status !== 'offered') return null;
     const combos = taught.filter((c) => c.boardSlug === slug);
     const quals = [...new Set(combos.map((c) => c.qualification))];
-    // D-458 -- IB, and any board whose every taught course is one-to-one only (OCR, D-335).
+    // D-460 -- IB, and any board whose every taught course is one-to-one only (OCR, D-335).
     const oneToOne = slug === 'ib' || (combos.length > 0 && combos.every((c) => isOneToOneOnlyCourse(c.boardSlug, c.subjectSlug)));
     return { slug, name: b.name, count: combos.length, quals, oneToOne };
   })

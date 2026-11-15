@@ -1,7 +1,7 @@
 /**
  * Every syllabus / specification code a published course answers to.
  *
- * Moved here unchanged from combination-resources.ts (D-461) so that plain
+ * Moved here unchanged from combination-resources.ts (D-463) so that plain
  * node scripts can import it: that file's other imports are extensionless
  * and reach `astro:content`, which only the Astro build resolves. It is
  * still the one definition; combination-resources.ts re-exports it.

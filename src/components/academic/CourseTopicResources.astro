@@ -55,7 +55,7 @@ const covered = data.topics.filter((t) => t.count > 0).length;
 const TYPE_TAG: Record<string, string> = { 'subject-guides': 'Course guide', 'learning-articles': 'Article', 'past-papers': 'Past papers guide', 'exam-preparation': 'Exam preparation' };
 // Full titles, wrapping inside the chip when they are long (no ellipsis): a cut-off title hid
 // which page a chip opened when a topic has several resources of one kind.
-// D-459 -- touch area for the resource buttons. The owner asked for small outlined buttons
+// D-461 -- touch area for the resource buttons. The owner asked for small outlined buttons
 // (D-447), so the look is kept. An invisible ::after strip adds 4px above and below each
 // button: half the 8px gap between rows, so no button's strip reaches the button above or
 // below it. On phones a one-line button is also 36px tall (it was 24px), which with the strip

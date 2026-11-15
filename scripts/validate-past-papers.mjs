@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-461 (15 Nov 2026) -- build-failing checks for the past-paper library
+ * D-463 (15 Nov 2026) -- build-failing checks for the past-paper library
  * manifest (src/data/past-papers/courses/*.json, settings in
  * src/data/past-papers/config.ts).
  *

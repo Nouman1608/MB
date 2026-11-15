@@ -1,5 +1,5 @@
 /**
- * D-457 (15 Nov 2026) -- the "fees for your region" card at the top of /pricing/.
+ * D-459 (15 Nov 2026) -- the "fees for your region" card at the top of /pricing/.
  *
  * Pure functions over the canonical pricing data in src/data/pricing.ts. One
  * card per REGION_PRICING row: that region's group fees and its

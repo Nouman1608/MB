@@ -16008,28 +16008,50 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Learning Articles on /resources/.** The page said "Learning Articles: none published yet" because that resource type has no pages, while the Learning Journal at /articles/ has published articles. While the type is empty and the journal is not, the page now says the articles are published in the Learning Journal, with a link and the computed article count. The `#learning-articles` anchor is kept. The ar/ur/bn resources pages are unchanged: their wording needs a translator.
 - **/sitemap.xml.** It returned the 404 page. One `_redirects` rule now sends it to /sitemap-index.xml, which robots.txt already names.
 - **Checked and deliberately not changed.** Four items in the review turned out to be correct as built, once read against the source: (1) the IB course list has no board heading because the qualification heading already says IB, and on the home page the list is hidden until a course is chosen; (2) the pricing tables carry different "last verified" dates because each table was verified on its own date, and "Indicative" marks only the converted fees, as `isIndicative` and `docs/fx-rate-policy.md` define; (3) KWD, BHD and OMR keep three decimals under the same policy; (4) teacher photographs have empty alt text because the name is printed beside each one.
+## D-455 - DP Language A: Language and Literature Paper 2 mark total removed until an IB document confirms it (OQ-3, 15 Nov 2026)
 
-## D-455 - Teacher photographs served as small WebP copies (15 Nov 2026)
+- Owner, 15 Nov 2026: "do OQ-3 option a".
+- **Problem.** The record showed Paper 2 as 25 marks (SL and HL). That figure came from a teacher-resource site (thinkib.net), "corroborated" by a school LibGuide. The editorial policy says sources are never a tutoring site, and the IB's own guide (first assessment 2021) prints 30.
+- **Fix** (`src/data/academic/assessments.ts`):
+  - Paper 2 `marks` is now `null` at both levels. The type allows `null` only as "not shown: no official document confirms it".
+  - The thinkib.net mirror and the LibGuide are removed as sources, and `sourceConfidence` is now `official-host`. Every remaining figure is read from the IB's public subject brief.
+  - The reader-facing `marksSourceNote` says the total is not shown and why.
+  - The public `notes` no longer present the May 2026 revision as fact.
+- **Same source, also corrected.** `firstAssessment` was '2026', the date of the unconfirmed revision. It is now '2021', the IB guide's first assessment and the series the 35 Lang & Lit resources already state. No resource states a Paper 2 mark total; they give only the official weightings.
+- **Rendering.** The hub table shows "Not confirmed", and the disclosure above the note reads "Some figures are not shown:" rather than "Not all of these figures come from IB documents:", which would now be false. The FAQ and its JSON-LD say "mark total not confirmed". The syllabus-updates page gives the total as "Not confirmed (Paper 2 not shown)" rather than under-counting. The coverage report now counts this record as lacking complete marks.
+- **Guards.** `validate-assessments` [8] accepts `null` only when `marksSourceNote` names the paper and says it is not shown; negative fixture [AW]. A unit test asserts the FAQ never prints 25 for Paper 2.
+- **To restore the figure.** An IB document (current guide, specimen paper or published markscheme) confirming the Paper 2 total. The lead is kept in `internalNotes`.
+- **Not changed (asked separately).** DP Language A: Literature takes its HL essay and individual oral totals from teacher-resource websites, per its own `marksSourceNote`. It is the same policy conflict, but outside OQ-3 as approved.
 
-- Owner, 15 Nov 2026: "can you spawn multiple agents and complete all the tasks" (the plan from the 15 Nov site review). This entry and D-456 to D-462 are that work.
+## D-456 - Subject guides for the 142 courses that had none (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("write subject guides for the 142 combinations"). Only 24 of 166 courses had a subject guide (a course overview).
+- **Pages.** 142 new subject guides, one per remaining course: Cambridge 55, OxfordAQA 30, AQA 21, Pearson Edexcel 21, OCR 13, IB 2 (DP Economics and DP Physics). Each covers how the course is organised, how it is assessed, how the parts fit together, a study plan, which Marlbridge pages to use for what, FAQs and the official source. They link to the course's exam-preparation and past-papers pages rather than repeating them.
+- **Facts.** Topic lists come only from `syllabus-topics.ts` and every assessment figure only from the course's records in `assessments.ts`; the writers checked by script that no number on a page falls outside those records. All pages are `review-pending` under the Marlbridge Academic Team with no reviewer; 12 carry `reviewNeeded` (mostly editions whose last exams were in 2026, thin records such as Cambridge 9239 and 9626, AQA's "7712 / 7717" code, and the Edexcel Urdu 9UR0 theme titles).
+- **Titles.** Pearson Edexcel International A Level guides are titled "Pearson Edexcel International A-Level ..." to match the existing pages for those courses.
+- **Follow-up.** Several Cambridge courses are on editions whose final exams were in 2026 (for example 0448, 2059, 9093, 1123, 9695, 0475, 0455, 2281, 9696, 9990, 9699, 7115); their records and pages will need the next edition.
+
+## D-457 - Teacher photographs served as small WebP copies (15 Nov 2026)
+
+- Owner, 15 Nov 2026: "can you spawn multiple agents and complete all the tasks" (the plan from the 15 Nov site review). This entry and D-458 to D-464 are that work.
 - **Problem.** The 22 teacher photographs are 640x640 JPEGs shown at 40 to 112 CSS px. All 22 on the home page total 1,057 KB; the first six, the ones phones show, total 234 KB.
 - **Fix.** `scripts/generate-faculty-webp.mjs` writes a 128 px and a 224 px WebP copy beside each JPEG (resize and re-encode at quality 80; no crop, no retouching, never upscaled). `TeacherPicture.astro` wraps the existing `<img>` in a `<picture>` with one WebP source at the six places a teacher photo is shown. All 22 home-page photos are 50 KB as 128 px WebP.
 - **Not changed.** The JPEG originals, the `image:` field in the profiles, the Person schema image (still the JPEG) and every `<img>` attribute, including the deliberately empty alt. A photograph added without running the script renders as the plain JPEG. `docs/image-source-manifest.md` lists 19 photographs while 22 exist (ammar-bilal, naqiya-yousaf, farhat-ul-ain-sehgal have no row): their source, date and licence basis need the owner.
 
-## D-456 - Phone homepage: placeholder graphic and duplicated trial row hidden below sm (15 Nov 2026)
+## D-458 - Phone homepage: placeholder graphic and duplicated trial row hidden below sm (15 Nov 2026)
 
 - **Problem.** The plan item was "collapse the course picker and teacher grid behind 'show all'". Both were already done in D-438. Measured at 390x844 on the built page, the homepage was 15,386 px, and the length is prose, not card grids.
 - **Fix.** Below `sm` only: the Learners Academy band no longer shows its image, which is still the code-generated abstract graphic and not a photograph (1,124 px to 655 px); and the homepage fees cards no longer show the "Free trial" row (1,842 px to 1,597 px), through an opt-in `mobileHideTrialRow` prop on `TuitionOptions`. The same two trial sentences are the homepage FAQ answer, read from the same `PRICING_TERMS.trialFormat`. Both stay in the HTML and show from `sm` up. Homepage at 390 px: 15,386 px to 14,672 px.
 - **Not changed.** The teacher grid and course picker (D-438), hero, results, FAQ, final call to action, the Discounts row, the trial steps, and `/tutoring/` and program pages. The site-wide footer (2,018 px on a phone) is left for a separate decision.
 - **Revisit.** When a real photograph replaces `site.academyPhoto`, remove `max-sm:hidden` from the figure in `LearnersAcademy.astro`.
 
-## D-457 - Pricing: "Fees for your region" card with a trial button above the tables (15 Nov 2026)
+## D-459 - Pricing: "Fees for your region" card with a trial button above the tables (15 Nov 2026)
 
 - **Problem.** Measured on the live page at 390 px: /pricing/ is about 14.6 screens long, its fee tables are 360 to 720 px wide and scroll sideways with one row per region, and the first trial link in the page body is about 2,500 px down.
 - **Fix.** /pricing/ opens with a region select and one card showing that region's group and one-to-one fees for GCSE/IGCSE/O Level and AS/A Level, with the trial button directly under it (`source=pricing`, `data-cta="pricing-trial-region"`). The cards come from `src/utils/pricing/region-card.ts`, which reads `REGION_PRICING` and `ONE_TO_ONE_PRICING` and reuses `formatFee`, `isIndicative` and `INDICATIVE_NOTE`; two tests in `test:tools` check every card against both tables. Pakistan is rendered on the server; without JavaScript that card, the button and all tables still show.
 - **Not changed.** No fee, date, rounding, "Indicative" marking or note. The tables and the calculator are as they were, apart from three heading ids. Nothing is detected from the connection or stored in the browser. The ar/ur/bn pricing pages are separate templates and were not touched.
 
-## D-458 - Market pages for Saudi Arabia, Kuwait, Bahrain, Oman and Europe (15 Nov 2026)
+## D-460 - Market pages for Saudi Arabia, Kuwait, Bahrain, Oman and Europe (15 Nov 2026)
 
 - Owner, 15 Nov 2026: Asia and Europe are the priority markets. This lifts the D-303 hold on the four Gulf countries, as D-415 did for Singapore.
 - **Problem.** /pricing/ lists fees for all five, but none had a market page. The four Gulf countries shared /gulf/; Europe had nothing.
@@ -16037,28 +16059,28 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Not changed.** No fee, FX rate or pricing row. No local office, teacher, school, exam centre, result or student number is claimed. /gulf/ stays as the overview with its title unchanged. No ar/ur/bn copy.
 - **Open.** Which countries the euro fee covers; whether "Saudi Arabia" should come out of the /gulf/ title; search evidence for a local board order. Saudi Arabia, Kuwait and Bahrain differ only in name, currency, fees and one FAQ, which D-303 flagged as a doorway risk. Found and not fixed: /uae/, /qatar/, /singapore/ and /international-tutoring/ still say AP is not taught (D-391 made it a taught one-to-one programme).
 
-## D-459 - Touch targets on phones: breadcrumbs, header logo, course-page buttons and links (15 Nov 2026)
+## D-461 - Touch targets on phones: breadcrumbs, header logo, course-page buttons and links (15 Nov 2026)
 
 - **Problem.** Measured at 390 px: breadcrumb links 22 px tall, header logo link 28 px, and 55 standalone links and buttons under 40 px on /boards/cambridge/igcse/accounting/ (95 on AQA A Level Biology). The site's convention is a 44 px touch height (`min-h-11`).
 - **Fix.** Breadcrumb links are 44 px tall below `lg` (padding with equal negative margins). The logo link, and the home link on ar/ur/bn pages, has `min-h-11` inside the 64 px header row. "Cookie Settings" has padding with an equal negative margin. The topic buttons keep the small outlined look from D-447: an invisible 4 px strip above and below each button, plus a 36 px minimum height for one-line buttons on phones, gives a 44 px touch height. The detail links on course pages get inline padding on phones.
 - **Result (emulated in headless Chrome on the 15 Nov build).** Standalone targets under 40 px: 55 to 0 on the Accounting course page, 95 to 0 on AQA Biology. Phone page height: +3.5% and +6.1% on those two pages, +0.3% on a resource page, 0 on pricing and home. No change from 640 px up.
 - **Not changed.** Links inside sentences (exempt under WCAG 2.5.8), footer column links (40.8 px), and the ar/ur/bn pages' own menu and footer links.
 
-## D-460 - Titles: brand suffix only when the title fits in 60 characters; IB checklist titles name the board once (15 Nov 2026)
+## D-462 - Titles: brand suffix only when the title fits in 60 characters; IB checklist titles name the board once (15 Nov 2026)
 
 - **Problem.** 5,960 of 13,980 built titles were over 60 characters. `pageTitle()` (D-107) dropped " — Marlbridge" only from titles over 50 characters, so a 48 to 50 character title came out at 61 to 63: 1,594 pages. The 21 IB checklist titles named the board twice.
 - **Fix.** The suffix is added only when the whole title is at most 60 characters, the limit the content schema sets for `seoTitle`. The title text is never shortened. IB checklist titles use the course hub's rule and name the board once.
 - **Result (simulated from the 15 Nov build).** Over 60 characters: 5,960 to 4,353. No duplicate titles.
 - **Not changed.** The 4,353 remaining are long authored titles: 1,522 resources with no `seoTitle`, 2,236 advanced-course pages, 550 flashcard topic pages. They need per-file titles.
 
-## D-461 - Past-paper library: structure built, shipped empty (15 Nov 2026)
+## D-463 - Past-paper library: structure built, shipped empty (15 Nov 2026)
 
 - Owner, 15 Nov 2026: "I will take full responsibility of the licensing host the past papers". Agreed split: the site gets a past-paper section and listings; the owner supplies every file. No session adds, downloads or transcribes a board document, and no paper text is kept in the repository.
 - **Problem.** The `past-papers` resources are Marlbridge guides, not papers, and nothing on the site could list a hosted file. Earlier entries (D-109, D-110, D-111, D-115, D-150) left hosting unbuilt because the licence could not be verified from the working environment.
 - **Fix.** A manifest of one JSON file per course in `src/data/past-papers/courses/`, with settings in `config.ts` (allowed file hosts, starting with `img.marlbridge.com`; a required rights note per board in the owner's words; document types; sessions per board). `scripts/validate-past-papers.mjs`, now in `validate:academic`, checks every entry against an active course and its syllabus code, session and year, a unique identity, and a file that exists under `public/papers/` or is an https URL on an allow-listed host. Pages `/past-papers/` and `/past-papers/<board>/<qualification>/<subject>/`, and a link on the course hub, are generated only from entries. The manifest is empty, so nothing is generated; `scripts/test-past-paper-library.mjs` proves that without a build. Rule [8] stops the build if a document is listed while the editorial policy or that course's guide still says papers are not hosted. `courseCodes()` moved unchanged to `src/utils/academic/course-codes.ts`. Storage advice and steps are in `docs/past-papers/README.md`.
 - **Not changed.** No paper or sample entry was added. The editorial policy and the guides still say Marlbridge does not host papers: that wording is the owner's to change before the first entry. Cambridge Confidential Instructions stay excluded (D-111). IB documents are not accepted. The two new page templates have never been rendered, because an empty manifest yields no pages: do one preview build with a real entry before the first paper goes live.
 
-## D-462 - Site review items closed without a code change: trial contact rule, maths display (15 Nov 2026)
+## D-464 - Site review items closed without a code change: trial contact rule, maths display (15 Nov 2026)
 
 - **Trial form.** The plan item "test 'phone or email required'" was not implemented. It would reverse the owner's instruction of 5 Nov 2026 (D-439: "email could be optional not the phone number. Phone number is a must"), and the site has no way to split traffic, so a test would be a replacement of the rule. The question goes back to the owner. GA4 already records `trial_form_error` and `trial_form_abandon` with the blocking fields (D-407), which shows by country whether the phone field stops visitors.
 - **Maths display.** A read-only audit is filed at `docs/reports/maths-display-audit-2026-11-15.md`. Maths is plain Unicode text with no typesetting, which no entry had decided. Faults found: 5 IB pages show raw LaTeX; about 43% of worked-solution lines wrap mid-expression at 390 px; 64 space-drawn matrices, vectors and divisions are misaligned because code blocks use a proportional font (D-397); 564 divisions by a standard-form number have no brackets. Nothing was changed: the fixes are in `src/content/resources/`, which other sessions were editing. The report recommends fixing the listed pages and three small sitewide items, and against KaTeX HTML output sitewide (estimated to take the content store to 73 to 95% of its limit).

@@ -1,5 +1,5 @@
 /**
- * Past-paper library (D-461) -- the shape of a course file and of the
+ * Past-paper library (D-463) -- the shape of a course file and of the
  * entries built from it. See docs/past-papers/README.md for a worked example.
  */
 import type { BoardSlug } from '../academic/boards.ts';

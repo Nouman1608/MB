@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-461 (15 Nov 2026) -- the past-paper library publishes nothing until the
+ * D-463 (15 Nov 2026) -- the past-paper library publishes nothing until the
  * manifest lists something.
  *
  * This repository never ships a placeholder: no empty page, no empty section,
