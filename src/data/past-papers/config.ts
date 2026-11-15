@@ -24,6 +24,10 @@ import type { BoardSlug } from '../academic/boards.ts';
  */
 export const PAST_PAPER_FILE_HOSTS: readonly string[] = [
   'img.marlbridge.com',
+  // D-469 (owner, 15 Nov 2026: "upload onto R2 bucket"): R2 bucket
+  // marlbridge-past-papers, served on this subdomain once the custom domain
+  // is connected in the Cloudflare dashboard (R2 > bucket > Settings).
+  'papers.marlbridge.com',
 ];
 
 /** Folder under public/ for a file kept in the repository instead (start and end with "/"). */

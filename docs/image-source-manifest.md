@@ -44,6 +44,7 @@ downloaded 2026-08-18, all 640x640 JPEG.
 | farheen-zehra.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/farheen-zehra.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/farheen-zehra/ |
 | azam-siddique.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/azam-siddique.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/azam-siddique/ |
 | aizaz-raoof-ali.jpg | Learners Academy website | https://learnersacademy.com.pk/teachers/aizaz-raoof-ali.jpg | Not stated on source | 2026-08-18 | Same-organisation reuse (D-004) | /authors/aizaz-raoof-ali/ |
+| naqiya-yousaf.jpg | Supplied by Nouman Ahmed, owner (chat, 15 Nov 2026): a Beaconhouse College Programme Sociology promotional graphic of Ms Naqiya Yousaf. Photo area cropped (330x330 px, clear of the graphic's text and frame) and resized to 640x640; replaces the earlier lower-resolution copy from PR #118 (16 Oct 2026) | Not a URL (file supplied directly) | Not stated on source | 2026-11-15 | Owner-supplied photograph of a member of staff; owner takes responsibility (D-468) | /authors/naqiya-yousaf/ and teacher cards |
 
 ### Derived WebP copies (D-457)
 
