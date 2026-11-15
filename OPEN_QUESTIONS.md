@@ -11,6 +11,7 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | A3 | The English policy said every resource "is checked against that document before publication", but the ledger records 95 UNVERIFIED | Narrow it, with a computed count |
 | A4 | AP "Reviewed by [name], 8 Nov 2026": the date read as a review event, and no profile listed AP | Align the display with D-379 and add the AP courses to the profiles |
 | A5 | 22 more Psychology pages (Cambridge 9990, AQA 7182) had the same unsupported "Checked by … 8 Nov 2026" | Remove the line in the same way |
+| A6 (OQ-4) | AQA 7405 resources with `stage: AS` were labelled "AS Level" like the standalone AQA AS | Relabel as AS content of the A Level; done in D-449, also covering 7402 |
 
 ## Open — needs the owner
 
@@ -19,7 +20,6 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | OQ-1 | Should the 5,243 internal `reviewNote` values "2026-11-08: reviewed by X." be reworded to "credited to X (accountable teacher, D-379)"? They are not shown publicly, but they contradict D-379's meaning, and an auditor or another tool could read them as review events. | `git show 03159b8c`: 7,554 pages were credited in one commit on 8 Nov | (a) Reword them mechanically and keep the date; (b) leave them and note the meaning in `content.config.ts` | `src/content/resources/*.md` |
 | OQ-2 | IB DP Biology and Chemistry hold HL assessment figures only. The FAQ now says SL figures are not listed. Can you supply the SL assessment outline from the IB subject guides (licensed), or approve deferring it? | `src/data/academic/assessments.ts` (DP Biology notes: "Standard Level is therefore not included"); D-128 | (a) Supply the guide pages; (b) defer, keeping the honest "not listed" wording | `assessments.ts` |
 | OQ-3 | DP Language & Literature takes its Paper 2 mark total (25) from thinkib.net, a teacher-resource site. The editorial policy says sources are "never … a tutoring site". Should the value be removed, or the policy reworded to allow disclosed third-party corroboration? | `assessments.ts:3594-3599`; `editorial-policy.astro` (syllabus verification section) | (a) Remove the figure until an IB document confirms it; (b) reword the policy | both |
-| OQ-4 | 53 AQA 7405 (A Level) resources with `stage: "AS"` show an "AS Level" badge and the search filter value "AS LEVEL". That is the same value used for the standalone AQA AS qualifications (7135/7137). Should the label read "AS content (A Level 7405)" instead? | `src/utils/content/collections.ts:95-98`; `validate-as-level-display.mjs` | (a) Relabel as AS content of the A Level; (b) keep, as deliberate | `collections.ts`, rendered-label audit |
 | OQ-5 | The home page says "N named subject specialists" (23 profiles). The editorial policy says "8 named teachers" (credited authors). Same kind of label, two definitions. Which definition should each page use? | statistics report section D | (a) Name the unit on both ("23 teacher profiles", "8 named authors"); (b) keep | `HomeHero.astro`, `editorial-policy.astro` |
 
 ## Open — needs a qualified subject teacher

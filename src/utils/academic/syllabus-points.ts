@@ -33,6 +33,7 @@
  * sat), and otherwise the current record -- never a 'future' one.
  */
 import { SYLLABUS_VERSIONS, type SyllabusVersion } from '../../data/academic/syllabus-topics.ts';
+import { SEPARATE_AS_QUALIFICATION_BOARDS } from '../content/level-label.ts';
 
 export type TierLabel = 'Core' | 'Extended only' | 'Core and Extended';
 export type CoverageClaim = 'whole-topic' | 'whole-topic-core';
@@ -145,7 +146,11 @@ export function syllabusPointsFor(input: {
       if (!points.length) continue;
       points.sort(byNumber);
       topicContext.sort(byNumber);
-      const stage = stages.size === 1 ? ([...stages][0] === 'AS' ? 'AS Level' : 'A Level') : stages.size > 1 ? 'AS and A Level' : undefined;
+      // D-449: on a board whose AS is a separate qualification (AQA), the A Level's AS part is "AS content", not "AS Level".
+      const separateAs = SEPARATE_AS_QUALIFICATION_BOARDS.includes(board);
+      const stage = stages.size === 1
+        ? ([...stages][0] === 'AS' ? (separateAs ? 'AS content of the A Level' : 'AS Level') : 'A Level')
+        : stages.size > 1 ? (separateAs ? 'AS and A Level content' : 'AS and A Level') : undefined;
       if (!groups.some((g) => g.code === v.syllabusCode)) groups.push({ code: v.syllabusCode, series: v.syllabusSeries, stage, tiered: v.tiered, points, topicContext });
     }
   }

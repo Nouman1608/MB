@@ -107,10 +107,15 @@ let wholeTopicPagesChecked = 0;
  * for WS5 and finding it FAILED for an unrelated reason. Fixed here to
  * match collections.ts exactly.
  */
-const levelLabel = (levels, stage, qualifications) => {
+// Kept in step with SEPARATE_AS_QUALIFICATION_BOARDS in collections.ts (D-449).
+const SEPARATE_AS_QUALIFICATION_BOARDS = ['aqa'];
+const levelLabel = (levels, stage, qualifications, boards) => {
   const effectiveStage = stage ?? (qualifications?.includes('as-level') ? 'AS' : undefined);
+  const asContentOfALevel = stage === 'AS' && !qualifications?.includes('as-level')
+    && !!boards?.some((b) => SEPARATE_AS_QUALIFICATION_BOARDS.includes(b));
   return levels
     .map((l) => {
+      if (l === 'a-levels' && asContentOfALevel) return 'A LEVEL (AS CONTENT)';
       if (l === 'a-levels' && effectiveStage === 'AS') return 'AS LEVEL';
       if (l === 'a-levels' && effectiveStage === 'A') return 'A LEVEL';
       return l.replace(/-/g, ' ').toUpperCase();
@@ -168,7 +173,7 @@ for (const file of resourceFiles) {
   const boards = listField(fm, 'boards');
   const quals = listField(fm, 'qualifications');
 
-  const expectedLevel = levelLabel(levels, stage, quals);
+  const expectedLevel = levelLabel(levels, stage, quals, boards);
   const at = `dist/resources/${slug}/index.html`;
 
   // [3] D-448 (findings A/E) -- a completeness label in the rendered

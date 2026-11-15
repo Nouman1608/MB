@@ -15961,3 +15961,14 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
   - IB subject briefs were linked as "Official specification" and are now "Official subject brief".
   Open: thinkib.net as a source (OQ-3), definition of "named teachers" (OQ-5).
 - **F (AS/A Level).** No AQA AS Chemistry 7404 page or record exists, so 7405 figures cannot appear on one (disproven as stated). Related: 53 7405 resources with `stage: AS` show "AS Level" (OQ-4).
+
+## D-449 - AQA A-level "AS" content no longer labelled "AS Level" (OQ-4, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do the 7405 AS label fix (OQ-4 option a)".
+- **Problem.** 105 AQA A-level resources carry `stage: "AS"`: 53 for Chemistry 7405 and 52 for Biology 7402. They showed an "AS Level" badge, the search-filter value "AS LEVEL" (the same value as the standalone AQA AS qualifications) and a points-list heading "7405 (AS Level)". AQA's AS is a separate qualification with its own code (7404, 7401), so these pages are the AS-content part of the linear A Level, not the AS Level.
+- **Fix.** On a board in `SEPARATE_AS_QUALIFICATION_BOARDS` (AQA only; Cambridge, OxfordAQA and Pearson International A Levels certificate the AS from the same syllabus, per the matrix.ts OxfordAQA note), `stage: AS` on an `a-level` resource now reads:
+  - "A Level (AS content)" on cards;
+  - filter value "A LEVEL (AS CONTENT)";
+  - points heading "AS content of the A Level".
+  Standalone AQA AS resources keep "AS Level". 7402 is included because it is the same defect as the 7405 case approved; OCR has no `stage: AS` resources.
+- **Code.** The label helpers moved to `src/utils/content/level-label.ts` (re-exported by `collections.ts`) so they can be unit-tested. `validate-as-level-display` now requires the boards argument at every call site. The rendered-label audit's copy of the rule is updated. 5 new tests.
