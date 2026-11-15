@@ -585,12 +585,15 @@ const jsonLd = [
   ]}
   jsonLd={jsonLd}
 >
+  {/* D-TBD: on phones the Board and Qualification links (and the links in "About this
+      course" below) carry 14px of padding above and below. They are inline, so the padding
+      moves nothing; it only makes the touch height about 44px (it was 16px). */}
   <dl slot="hero-extra" class="m-0 mt-7 flex flex-wrap gap-x-8 gap-y-3 text-[14px]">
     {syllabus && (
       <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Syllabus </dt><dd class="m-0 inline text-ink-mute">{syllabus.code}</dd></div>
     )}
-    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{c.board}</a></dd></div>
-    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{c.qualification}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Board </dt><dd class="m-0 inline text-ink-mute"><a href={boardPath(c.boardSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700 max-sm:py-3.5">{c.board}</a></dd></div>
+    <div class="m-0"><dt class="m-0 inline mb-label text-teal-700">Qualification </dt><dd class="m-0 inline text-ink-mute"><a href={levelPath(c.qualificationSlug)} class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700 max-sm:py-3.5">{c.qualification}</a></dd></div>
     <div class="m-0"><dt class="sr-only">Not your course? </dt><dd class="m-0 inline"><a href={routes.resources} data-change-course class="inline-flex min-h-11 items-center font-medium text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700 lg:min-h-0">Change course</a></dd></div>
   </dl>
 
@@ -652,7 +655,7 @@ const jsonLd = [
   <Section surface="ivory" labelledby="at-a-glance-heading" spacing="md" border>
     <Container>
       <h2 id="at-a-glance-heading" class="m-0 mb-6 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800">About this course</h2>
-      <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3">
+      <dl class="m-0 grid gap-x-8 gap-y-4 text-[15px] sm:grid-cols-2 lg:grid-cols-3 max-sm:[&_dd>a]:py-3.5">
         <div class="m-0"><dt class="m-0 mb-label text-teal-700">Qualification</dt><dd class="m-0 mt-1 text-ink">{boardQualPhrase} {c.subject}</dd></div>
         <div class="m-0"><dt class="m-0 mb-label text-teal-700">Spec code</dt><dd class="m-0 mt-1 text-ink">{syllabus?.code ?? 'Being verified'}</dd></div>
         <div class="m-0"><dt class="m-0 mb-label text-teal-700">Does Marlbridge teach it?</dt><dd class="m-0 mt-1 text-ink">{classesOffered ? (tuitionPage ? <>Yes — <a href="#tuition" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">teachers, fees and a free trial</a></> : <>Yes{oneToOneOnly && <>, one-to-one only ({ONE_TO_ONE_ONLY_PRICING.symbol} {formatFee(ONE_TO_ONE_ONLY_PRICING.perClass, ONE_TO_ONE_ONLY_PRICING.currency)} per class; <a href={`${routes.pricing}#one-to-one-only`} class="underline decoration-rule underline-offset-2">other currencies</a>)</>} — <a href={hubTrialHref} data-cta="hub-trial-glance" class="underline decoration-teal-500 underline-offset-2 hover:text-teal-700">request a free trial class</a></>) : 'Not at the moment — free study resources only'}</dd></div>
@@ -855,7 +858,7 @@ const jsonLd = [
           <div class="max-w-[68ch] text-[17.5px] leading-[1.7]">
             <p class="m-0">{subjectEntry.data.description}</p>
             <p class="m-0 mt-4 text-[15.5px]">
-              <a href={routes.subject(hubSlug)} class="underline decoration-teal-500 underline-offset-2">All {subjectEntry.data.title} at Marlbridge</a>
+              <a href={routes.subject(hubSlug)} class="underline decoration-teal-500 underline-offset-2 max-sm:py-3.5">All {subjectEntry.data.title} at Marlbridge</a>
             </p>
           </div>
         </div>
