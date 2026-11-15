@@ -20,6 +20,7 @@ import SectionHeading from '../ui/SectionHeading.astro';
 import { getAuthors } from '../../utils/content/collections';
 import { sortPinnedFirst } from '../../data/featured-teachers';
 import { routes } from '../../utils/urls/routes';
+import { initials } from '../../utils/content/initials';
 
 const people = (await getAuthors()).filter((a) => a.data.entityType === 'person' && a.data.subjectsTaught.length > 0);
 // Pinned leads first (D-151). Every eligible teacher is listed; the pin
@@ -53,7 +54,7 @@ const featured = sortPinnedFirst(people, (a, b) => {
               {t.data.image ? (
                 <img src={t.data.image} alt="" width="64" height="64" class="h-16 w-16 shrink-0 rounded-full object-cover" loading="lazy" decoding="async" />
               ) : (
-                <span aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory mb-label text-ink-mute">Photo</span>
+                <span aria-hidden="true" class="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-rule bg-ivory text-[18px] font-semibold text-ink-mute">{initials(t.data.name)}</span>
               )}
               <span class="min-w-0">
                 <span class="block text-[16.5px] font-semibold leading-snug text-navy-800">{t.data.name}</span>

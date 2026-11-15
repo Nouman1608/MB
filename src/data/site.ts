@@ -38,6 +38,13 @@ export const site = {
    * YouTube (@marlbridge) owner-confirmed 2026-10-07.
    * Wikidata item Q141667044 created by the owner 2026-10-07.
    * Trustpilot (marlbridge.com) owner-confirmed 2026-10-08.
+   *
+   * D-454 (owner, 15 Nov 2026): an entry with `footer: false` stays in the
+   * Organization schema's sameAs (it is still a real, claimed profile) but
+   * is left out of the visible footer list. Trustpilot is set that way
+   * because the profile had 0 reviews on 15 Nov 2026, and a footer link to
+   * an empty review page works against trust. Remove the flag once the
+   * profile has reviews.
    */
   social: [
     { label: 'Instagram', href: 'https://www.instagram.com/marlbridgeofficial/' },
@@ -47,8 +54,8 @@ export const site = {
     { label: 'X', href: 'https://x.com/Marlbridgehq' },
     { label: 'YouTube', href: 'https://www.youtube.com/@marlbridge' },
     { label: 'Wikidata', href: 'https://www.wikidata.org/wiki/Q141667044' },
-    { label: 'Trustpilot', href: 'https://www.trustpilot.com/review/marlbridge.com' },
-  ] as Array<{ label: string; href: string }>,
+    { label: 'Trustpilot', href: 'https://www.trustpilot.com/review/marlbridge.com', footer: false },
+  ] as Array<{ label: string; href: string; footer?: boolean }>,
   ogImage: '/images/brand/marlbridge-og.png',
 
   /**
