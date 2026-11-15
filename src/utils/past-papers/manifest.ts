@@ -1,5 +1,5 @@
 /**
- * Past-paper library (D-TBD, 15 Nov 2026) -- reading and checking the manifest.
+ * Past-paper library (D-461, 15 Nov 2026) -- reading and checking the manifest.
  *
  * The manifest is one JSON file per course in src/data/past-papers/courses/.
  * It is read from disk here (the same way utils/seo/word-count.ts reads

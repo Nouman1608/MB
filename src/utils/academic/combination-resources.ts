@@ -27,7 +27,7 @@ import { courseCodes } from './course-codes.ts';
 
 export { normaliseCode, codeMatches };
 
-// D-TBD: courseCodes() lives in ./course-codes.ts (same rule, moved so that
+// D-461: courseCodes() lives in ./course-codes.ts (same rule, moved so that
 // node scripts can import it); re-exported here for existing callers.
 export { courseCodes };
 

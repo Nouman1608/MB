@@ -1,5 +1,5 @@
 /**
- * Past-paper library (D-TBD, 15 Nov 2026) -- what is generated, and from what.
+ * Past-paper library (D-461, 15 Nov 2026) -- what is generated, and from what.
  *
  * Every page, link and count for the library comes from the functions in this
  * file, and each of them is a pure function of the manifest entries. With no

@@ -97,7 +97,7 @@ const hubDeckCounts = hubDeck ? topicCardCounts(hubDeck) : {};
 const topicFlashcards = hubDeck
   ? Object.fromEntries(Object.entries(hubDeckCounts).map(([slug, count]) => [slug, { href: flashcardsPath(hubDeck, slug), count }]))
   : undefined;
-// D-TBD: the course's hosted exam-board documents, when the past-paper library
+// D-461: the course's hosted exam-board documents, when the past-paper library
 // has any for it. Undefined for a course with no entries, and then nothing is
 // rendered. Kept out of the "Free tools" list: these are the board's documents.
 const hubPastPapers = hubLibraryLink(c);
