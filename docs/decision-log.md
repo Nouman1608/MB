@@ -16022,3 +16022,11 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Guards.** `validate-assessments` [8] accepts `null` only when `marksSourceNote` names the paper and says it is not shown; negative fixture [AW]. A unit test asserts the FAQ never prints 25 for Paper 2.
 - **To restore the figure.** An IB document (current guide, specimen paper or published markscheme) confirming the Paper 2 total. The lead is kept in `internalNotes`.
 - **Not changed (asked separately).** DP Language A: Literature takes its HL essay and individual oral totals from teacher-resource websites, per its own `marksSourceNote`. It is the same policy conflict, but outside OQ-3 as approved.
+
+## D-456 - Subject guides for the 142 courses that had none (15 Nov 2026)
+
+- Owner, 15 Nov 2026 ("write subject guides for the 142 combinations"). Only 24 of 166 courses had a subject guide (a course overview).
+- **Pages.** 142 new subject guides, one per remaining course: Cambridge 55, OxfordAQA 30, AQA 21, Pearson Edexcel 21, OCR 13, IB 2 (DP Economics and DP Physics). Each covers how the course is organised, how it is assessed, how the parts fit together, a study plan, which Marlbridge pages to use for what, FAQs and the official source. They link to the course's exam-preparation and past-papers pages rather than repeating them.
+- **Facts.** Topic lists come only from `syllabus-topics.ts` and every assessment figure only from the course's records in `assessments.ts`; the writers checked by script that no number on a page falls outside those records. All pages are `review-pending` under the Marlbridge Academic Team with no reviewer; 12 carry `reviewNeeded` (mostly editions whose last exams were in 2026, thin records such as Cambridge 9239 and 9626, AQA's "7712 / 7717" code, and the Edexcel Urdu 9UR0 theme titles).
+- **Titles.** Pearson Edexcel International A Level guides are titled "Pearson Edexcel International A-Level ..." to match the existing pages for those courses.
+- **Follow-up.** Several Cambridge courses are on editions whose final exams were in 2026 (for example 0448, 2059, 9093, 1123, 9695, 0475, 0455, 2281, 9696, 9990, 9699, 7115); their records and pages will need the next edition.
