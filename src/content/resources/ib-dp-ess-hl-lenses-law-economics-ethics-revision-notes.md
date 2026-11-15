@@ -19,11 +19,12 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-hl-c-environmental-ethics"
 description: "Condensed IB DP ESS revision notes on the HL lenses: legal principles, valuation, taxes and permits, discounting, ethical positions and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 For full explanations and worked examples, start with the [HL lenses study guide](/resources/ib-dp-ess-hl-lenses-law-economics-ethics/). These notes are for recall in the final weeks.

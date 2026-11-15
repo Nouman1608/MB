@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "ib-dp-geography-10-3"
 description: "A study guide to Global resource consumption and security in IB DP Geography: trends in consumption, their impacts, and resource stewardship."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-15: reviewed by azam-siddique."
 ---
 
 Global resource consumption and security is a compulsory core unit of IB Diploma Programme Geography, so every student studies it regardless of which options their school teaches. It looks at how consumption of food, water and energy is changing, what the consequences are for people and environments, and how resources can be stewarded more sustainably. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) shows where it sits in the core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) links closely to the energy and climate material here.

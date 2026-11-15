@@ -19,11 +19,12 @@ syllabusSeries: "First assessment 2026"
 order: 2.4
 description: "Condensed IB DP ESS revision notes on biomes, atmospheric cells, zonation, succession and P:R ratios, with a quick self-test and answers."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 For full explanations and worked examples, use the [climate, biomes, zonation and succession study guide](/resources/ib-dp-ess-climate-biomes-succession/). These notes condense it for the final weeks before your exams.

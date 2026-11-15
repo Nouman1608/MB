@@ -25,11 +25,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-4-4"
 description: "IB DP ESS Topic 4 study guide: the water cycle, water security, fisheries and aquaculture, and water pollution, with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This study guide teaches Topic 4, Water, of IB Diploma Programme Environmental Systems and Societies (ESS). It covers syllabus sections 4.1 to 4.4: water systems, water access, use and security, aquatic food production systems, and water pollution. Topic 4 is studied at both SL and HL; the IB recommends 12 teaching hours at SL and 25 at HL, so HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

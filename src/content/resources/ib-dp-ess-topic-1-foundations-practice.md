@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-foundation"
 description: "Original practice questions with worked answers on environmental value systems, systems thinking and sustainability for IB DP ESS Topic 1 Foundations."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-06
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

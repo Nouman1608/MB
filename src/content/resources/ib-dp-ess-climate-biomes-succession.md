@@ -19,11 +19,12 @@ syllabusTopics:
     subtopic: "ib-dp-environmental-systems-and-societies-2-5"
 description: "IB DP ESS study guide to climate and biomes, the tricellular model, zonation, succession and disturbance, with worked data examples."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-27
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 This study guide covers climate, biomes, zonation and succession for IB Diploma Programme Environmental Systems and Societies (ESS). It is aligned to the IB Diploma Programme Subject Brief, *Environmental systems and societies*, first assessment 2026, and covers syllabus subtopics 2.4 (Climate and biomes) and 2.5 (Zonation, succession and change in ecosystems) within Topic 2 Ecology. This is core content for both SL and HL; HL students study some topics in extra depth. It follows the IB ESS subject brief for first assessment 2026 — the course examined in the May and November 2026, 2027 and 2028 sessions.

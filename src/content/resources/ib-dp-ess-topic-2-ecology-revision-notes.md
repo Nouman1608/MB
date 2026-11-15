@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "ib-dp-environmental-systems-and-societies-ecology"
 description: "Revision notes on IB DP ESS Topic 2 Ecology, the largest syllabus topic at SL and HL, applying Topic 1's systems concepts to ecosystem structure and change."
 author: "marlbridge-academic-team"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-09-03
 featured: false
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by azam-siddique on 2026-10-09; 2026-11-15: reviewed by azam-siddique."
 ---
 
 The [full syllabus guide](/resources/ib-dp-environmental-systems-and-societies-syllabus-guide/)

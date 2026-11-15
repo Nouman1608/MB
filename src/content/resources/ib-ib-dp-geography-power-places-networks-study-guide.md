@@ -23,9 +23,12 @@ syllabusTopics:
     subtopic: "ib-dp-geography-11-3"
 description: "Global power, networks and flows, and the human and physical influences on global interactions, taught for the Higher Level extension of IB Diploma Programme Geography."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-15: reviewed by azam-siddique."
 ---
 
 This guide covers Unit 4, Power, places and networks, the first of the three units that make up the Higher Level extension of IB Diploma Programme Geography (first assessments 2019). The extension is about global interactions: how places are drawn together by trade, finance, migration and information, and who gains or loses influence as a result. Because the extension is examined at HL, the expectation is not only that you can describe interactions but that you can evaluate them, using real places and processes as evidence.

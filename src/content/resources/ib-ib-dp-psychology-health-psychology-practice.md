@@ -14,6 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-health-psychology"
 description: "Original IB DP Psychology Paper 2 essays on health psychology: determinants of health, stress, prevalence and health promotion, with ERQ criteria and plans."
 author: "marlbridge-academic-team"
+specCheck:
+  by: "marlbridge-academic-team"
+  date: 2026-11-15
+  scope: "official-specification"
 reviewStatus: "review-pending"
 reviewNeeded: true
 reviewNote: "Check model plans against the IB Psychology guide (first assessment 2019) and a recent Paper 2 markscheme before teacher sign-off."

@@ -23,8 +23,8 @@
       "NO_ASSESSMENT_RECORD": 0
     },
     "reviewStatus": {
-      "review-pending": 439,
-      "reviewed": 7704
+      "review-pending": 387,
+      "reviewed": 7756
     },
     "resourcesByType": {
       "study-guides": 2683,
@@ -5583,11 +5583,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 22,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 10,
-      "reviewPendingCount": 12,
+      "reviewedCount": 22,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (22)",
-      "namedReviewers": "azam-siddique (10)",
-      "lastTeacherCredit": "2026-10-09",
+      "namedReviewers": "azam-siddique (22)",
+      "lastTeacherCredit": "2026-11-15",
       "lastPublishedOrUpdated": "2026-11-08",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5596,7 +5596,7 @@
       "totalQualifyingWordCount": 28692,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",
@@ -5883,11 +5883,11 @@
       "learningArticleCount": 0,
       "totalResourceCount": 40,
       "resourcesUnder900Words": 0,
-      "reviewedCount": 0,
-      "reviewPendingCount": 40,
+      "reviewedCount": 40,
+      "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (40)",
-      "namedReviewers": "NO_DATA",
-      "lastTeacherCredit": "NO_DATA",
+      "namedReviewers": "azam-siddique (40)",
+      "lastTeacherCredit": "2026-11-15",
       "lastPublishedOrUpdated": "2026-09-27",
       "demand": "NO_DATA",
       "teachingStatus": "teaching",
@@ -5896,7 +5896,7 @@
       "totalQualifyingWordCount": 81853,
       "evidence": "marlbridge",
       "risks": "none",
-      "nextAction": "Named-reviewer sign-off of review-pending resources."
+      "nextAction": "None."
     },
     {
       "board": "International Baccalaureate",

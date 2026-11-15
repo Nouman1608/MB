@@ -26,9 +26,12 @@ syllabusTopics:
     subtopic: "ib-dp-geography-7-4"
 description: "A study guide to the Urban environments option in IB DP Geography: variety of cities, changing urban systems, stresses and sustainable urban futures."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-15: reviewed by azam-siddique."
 ---
 
 Urban environments is one of the teacher-selected options in the geographic themes part of IB Diploma Programme Geography. It examines how cities differ, how urban systems change, what stresses cities face and how they might become more sustainable. Check that your school teaches it. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) explains how options sit alongside the core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) is relevant to urban climate vulnerability.

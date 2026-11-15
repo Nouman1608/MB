@@ -40,8 +40,8 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| review-pending | 439 |
-| reviewed | 7704 |
+| review-pending | 387 |
+| reviewed | 7756 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -78,7 +78,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | AQA | 26 | 26 | 26 | 1305 | 0 | 26 | 1246 | 59 |
 | Cambridge | 55 | 55 | 55 | 2580 | 0 | 55 | 2431 | 149 |
 | Pearson Edexcel | 21 | 21 | 21 | 1042 | 0 | 21 | 1035 | 7 |
-| International Baccalaureate | 21 | 21 | 21 | 1064 | 0 | 21 | 876 | 188 |
+| International Baccalaureate | 21 | 21 | 21 | 1064 | 0 | 21 | 928 | 136 |
 | OCR | 13 | 13 | 13 | 1259 | 0 | 13 | 1259 | 0 |
 | OxfordAQA | 30 | 30 | 30 | 1385 | 0 | 30 | 1347 | 38 |
 
@@ -173,8 +173,6 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 - Pearson Edexcel IGCSE Business (4BS1): 1 review-pending resource(s) with no reviewer
 - Pearson Edexcel GCSE Business (1BS0): 1 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Psychology (DP Psychology (2019) / DP Psychology (2027)): 28 review-pending resource(s) with no reviewer
-- International Baccalaureate IB Diploma Programme Geography (DP Geography): 12 review-pending resource(s) with no reviewer
-- International Baccalaureate IB Diploma Programme Environmental Systems and Societies (DP Environmental Systems and Societies): 40 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Diploma Programme Global Politics (DP Global Politics): 34 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Middle Years Programme Design (MYP) (MYP Design): 34 review-pending resource(s) with no reviewer
 - International Baccalaureate IB Middle Years Programme Individuals and Societies (MYP) (MYP Individuals and Societies): 40 review-pending resource(s) with no reviewer
@@ -187,10 +185,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Next action | Combinations |
 | --- | --- |
-| None. | 102 |
-| Named-reviewer sign-off of review-pending resources. | 64 |
+| None. | 104 |
+| Named-reviewer sign-off of review-pending resources. | 62 |
 
-Overall: the largest outstanding item is human sign-off: 439 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
+Overall: the largest outstanding item is human sign-off: 387 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
 ## Every combination
 
@@ -306,13 +304,13 @@ Overall: the largest outstanding item is human sign-off: 439 review-pending reso
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 127 | 127 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Chemistry | DP Chemistry | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Economics | DP Economics | 84 | 84 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 22 | 10 / 12 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| International Baccalaureate | IB Diploma Programme | Geography | DP Geography | 22 | 22 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | World History | DP History | 19 | 19 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language B | DP Language B | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Analysis and Approaches | DP Mathematics: Analysis and Approaches | 55 | 55 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Mathematics: Applications and Interpretation | DP Mathematics: Applications and Interpretation | 61 | 61 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Physics | DP Physics | 91 | 91 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| International Baccalaureate | IB Diploma Programme | Environmental Systems and Societies | DP Environmental Systems and Societies | 40 | 0 / 40 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
+| International Baccalaureate | IB Diploma Programme | Environmental Systems and Societies | DP Environmental Systems and Societies | 40 | 40 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Global Politics | DP Global Politics | 34 | 0 / 34 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Middle Years Programme | Language Acquisition (MYP) | MYP Language Acquisition | 34 | 34 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
 | International Baccalaureate | IB Middle Years Programme | Mathematics | MYP Mathematics | 46 | 46 / 0 | VERIFIED_COMPLETE (criterion-referenced) | 0 | None. |
