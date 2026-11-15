@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 4.6 (Economic growth) of the Cambridge O Level Economics 2281 syllabus for 2026, part of topic 4, Government and the macroeconomy. Read the full [study guide](/resources/cambridge-o-level-economics-economic-growth-and-recession/) for explanations, then try the [practice questions](/resources/cambridge-o-level-economics-economic-growth-and-recession-practice/). Track your progress with the [course hub](/boards/cambridge/o-level/economics/) and the [printable checklist](/checklists/cambridge/o-level/economics/), and find gaps with the [free diagnostics](/diagnostics/). The data below is made up for practice.

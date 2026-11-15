@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 17: organising page layout, formatting text, find and replace, navigation with bookmarks and hyperlinks, and the purpose of breaks (pagination) and gutter margins. Document production is assessed practically in Paper 2, so Section C contains practical-style tasks with examiner-style checklists.

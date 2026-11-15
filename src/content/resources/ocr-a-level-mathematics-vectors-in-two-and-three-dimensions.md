@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches section **1.10 Vectors (1.10a to 1.10h)** of the OCR A Level Mathematics A (H240) specification, Version 3.1 (August 2026), for first assessment in 2018. The specification places vectors in its Pure Mathematics content, which Papers 1, 2 and 3 all assess. Two-dimensional vectors are Stage 1 content, shared with AS. Three-dimensional vectors (1.10b) and kinematics with vectors (1.10h) are **A Level only**.

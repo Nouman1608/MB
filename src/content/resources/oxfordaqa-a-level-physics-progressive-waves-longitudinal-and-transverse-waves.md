@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide follows sections 3.5.3 (Progressive waves) and 3.5.4 (Longitudinal and transverse waves) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4, for exams from May/June 2020 onwards. Both sections are shared AS and A-level content. Use it alongside the [revision notes](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-revision-notes/) and the [practice questions](/resources/oxfordaqa-a-level-physics-progressive-waves-longitudinal-and-transverse-waves-practice/). The [course hub](/boards/oxfordaqa/a-level/physics/) and [checklist](/checklists/oxfordaqa/a-level/physics/) cover the rest of the course, and the [measurements guide](/resources/a-level-oxfordaqa-physics-measurements-and-their-errors/) covers units and significant figures.

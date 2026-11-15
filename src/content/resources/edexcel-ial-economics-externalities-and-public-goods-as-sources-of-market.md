@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Economics specification (YEC11), Issue 2, June 2018. It covers section 1.3.5 Market failure, items 1 to 3: sources of market failure, positive and negative externalities, and public goods with the free-rider problem. These sit in Unit 1: Markets in action. In the specification, Units 1 and 2 are the International AS (IAS) units and Units 3 and 4 add the extra International A2 (IA2) content. Unit 1 is therefore IAS and also counts towards the full IAL.

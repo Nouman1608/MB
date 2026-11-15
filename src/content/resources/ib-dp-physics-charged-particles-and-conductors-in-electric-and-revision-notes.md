@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These are condensed notes for **D.3, Motion in electromagnetic fields**, from the IB *Physics guide*, first assessment 2025. The content is the same at SL and HL, because the guide gives D.3 no additional HL content. For full explanations, use the [study guide](/resources/ib-dp-physics-charged-particles-and-conductors-in-electric-and/). Then test yourself with the [practice questions](/resources/ib-dp-physics-charged-particles-and-conductors-in-electric-and-practice/). Course pages: [IB Physics hub](/boards/ib/ib-dp/physics/), [checklist](/checklists/ib/ib-dp/physics/) and [free diagnostics](/diagnostics/).

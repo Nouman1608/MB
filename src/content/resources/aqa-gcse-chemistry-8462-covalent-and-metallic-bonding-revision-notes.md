@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense sections **4.2.1.4 Covalent bonding** and **4.2.1.5 Metallic bonding** of the AQA GCSE Chemistry (8462) specification, for teaching from September 2016 with exams from June 2018 (version 1.1). The content is examined on Paper 1, at both Foundation and Higher tier; nothing in these two sections is Higher tier only. For full explanations and worked examples, use the [study guide](/resources/aqa-gcse-chemistry-8462-covalent-and-metallic-bonding/).

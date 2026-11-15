@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide follows the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1, section 3.2.2 (Functions, graphs and calculus), statements A9, A10 and A11. The specification sets out Core content and, beside it, extra Extension content. Core content can also be assessed on the Extension papers, so Extension candidates need all of it. Anything that only Extension candidates need is labelled **Extension only** below.
 

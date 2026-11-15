@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense Reactivity 1.2. The [energy cycles study guide](/resources/ib-dp-chemistry-energy-cycles-in-reactions/) has the full teaching and more worked examples, so read that first if anything here is unfamiliar.

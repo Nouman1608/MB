@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sections B2.2 and B2.3 of the IB *Diploma Programme Biology guide*, first assessment 2025. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization/). Test yourself with the [practice set](/resources/ib-dp-biology-organelles-compartmentalization-and-cell-specialization-practice/), then use the [IB Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/). B2.2.1 to B2.2.3 and B2.3.1 to B2.3.6 are SL and HL. Everything labelled **HL only** is additional higher level (B2.2.4 to B2.2.9, B2.3.7 to B2.3.10).

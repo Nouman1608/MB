@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 3.1.5 Business location and 3.1.6 Business planning of the AQA GCSE Business (8132) specification, "For first teaching from September 2017". Both sections sit in Topic 1, Business in the real world, which the specification lists as assessed in Paper 1 and in Paper 2.

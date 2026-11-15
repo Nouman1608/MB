@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense three sub-sections of the AQA AS and A-level Economics specification, version 1.3: aggregate demand and the level of economic activity, determinants of short-run aggregate supply, and determinants of long-run aggregate supply. The AQA website numbers them 3.2.2.4, 3.2.2.5 and 3.2.2.6; the combined PDF prints the A-level wording as 4.2.2.4 to 4.2.2.6. For fuller explanations see the [AQA study guide on how the macroeconomy works](/resources/aqa-a-level-economics-aggregate-demand-supply/), then try the [practice questions](/resources/aqa-a-level-economics-aggregate-demand-and-economic-activity-short-run-and-practice/). Find the course hub at [AQA A-level Economics](/boards/aqa/a-level/economics/), tick off topics on the [printable checklist](/checklists/aqa/a-level/economics/) and use the [free diagnostics](/diagnostics/) to spot weak areas. All countries and figures below are invented.

@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 12 Software Development covers how programs are planned, designed, tested and maintained: the program development life cycle and its waterfall, iterative and RAD models, structure charts and state-transition diagrams, error types, testing methods and test data, and the three types of maintenance. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, often alongside a pseudocode task you must test or amend.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 This guide covers sub-topic **C3.4 Electrolysis** from the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0 (August 2026), where it belongs to Topic C3 Chemical reactions. It teaches learning outcomes C3.4a to C3.4e, the mathematical learning outcome CM3.4i and the practical suggestions tied to PAG C2. No C3.4 statement is Higher-Tier-only, so all of it applies to Foundation and Higher candidates alike. The assessment overview places Topic C3 in Paper 1 (Foundation Tier) and Paper 3 (Higher Tier).

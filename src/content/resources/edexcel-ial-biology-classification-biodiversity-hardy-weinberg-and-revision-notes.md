@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 Quick recall notes for statements 4.14 to 4.21 of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Biology specification (YBI11), Issue 2. These statements are in Topic 4, part of the International AS (IAS) content. The [study guide](/resources/edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and/) explains everything in detail; afterwards try the [practice questions](/resources/edexcel-ial-biology-classification-biodiversity-hardy-weinberg-and-practice/). Course pages: [Edexcel A Level Biology hub](/boards/edexcel/a-level/biology/), [printable checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/).
 

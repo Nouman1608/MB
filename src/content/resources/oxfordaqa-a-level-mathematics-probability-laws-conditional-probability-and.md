@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide is aligned to the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2, and covers section S1.1 (Further probability). The specification states that this content is part of International AS, Unit PSM1, and it gives no further tier labels. The spec says only simple problems will be set, solved by direct use of the laws, by counting equally likely outcomes, or by frequency tables. Tree and Venn diagrams are permitted but not required.
 

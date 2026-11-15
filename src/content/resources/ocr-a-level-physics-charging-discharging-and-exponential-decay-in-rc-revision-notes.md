@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes condense section 6.1.3, Charging and discharging capacitors, of the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), for first assessment in 2017. They cover statements 6.1.3(a) to 6.1.3(e). For full explanations and longer worked examples, read the [study guide](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc/), then test yourself with the [practice questions](/resources/ocr-a-level-physics-charging-discharging-and-exponential-decay-in-rc-practice/). Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) and [checklist](/checklists/ocr/a-level/physics/). Not sure where to start? Take the [free 10-minute diagnostics](/diagnostics/).
 

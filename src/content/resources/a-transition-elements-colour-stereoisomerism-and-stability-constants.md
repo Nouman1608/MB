@@ -28,7 +28,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-08-17
 updatedDate: 2026-08-17
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by farhat-ul-ain-sehgal on 2026-09-29; 2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 This guide covers subtopics **28.3, Colour of complexes**, **28.4,

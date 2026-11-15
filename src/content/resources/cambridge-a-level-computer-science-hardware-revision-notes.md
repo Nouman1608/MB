@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 3 Hardware covers the parts of a computer system (memory, storage, input and output devices, embedded systems, and monitoring and control systems) and the logic gates they are built from. In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 1 Theory Fundamentals, where you must explain how named devices work, compare memory types, and construct truth tables, logic circuits and logic expressions without error.

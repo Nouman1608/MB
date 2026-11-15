@@ -15,7 +15,7 @@
       "corrections": "commits or descriptions of corrections required/made ([] if none)",
       "approval": "approved | approved-after-corrections | changes-requested",
       "evidence": "where the teacher's own record is kept (e.g. signed form reference, email date); never a placeholder",
-      "contentSha256": "sha256 of the resource file as checked (LF line endings; npm run qa:review-pack prints it). Added by D-452: a later edit makes the approval stale (REVERIFICATION_REQUIRED in the Academic QA scorecard)."
+      "contentSha256": "sha256 of the resource as checked: LF line endings, without the reviewNote, featured and order frontmatter lines (npm run qa:review-pack prints it). Added by D-454: a later edit makes the approval stale (REVERIFICATION_REQUIRED in the Academic QA scorecard)."
     }
   },
   "results": []

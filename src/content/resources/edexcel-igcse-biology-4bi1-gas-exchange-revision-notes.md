@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic (g) **Gas exchange** of Topic 2 in the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3: points 2.40B–2.50. The qualification is untiered. Points 2.40B–2.45B (flowering plants) carry a B reference and are **Paper 2 only**; points 2.46–2.50 (humans) can be tested on either paper. For full explanations and worked examples, use the [gas exchange study guide](/resources/edexcel-igcse-biology-4bi1-gas-exchange/).

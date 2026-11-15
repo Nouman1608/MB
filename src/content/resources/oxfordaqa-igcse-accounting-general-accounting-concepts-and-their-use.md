@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide covers the first two rows of section 3.3 (Development of the accounting model) in the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards: the ten general accounting concepts used in preparing accounting records, and their use in the situations the specification lists. All amounts on this page are in dollars. Business names and figures are invented.

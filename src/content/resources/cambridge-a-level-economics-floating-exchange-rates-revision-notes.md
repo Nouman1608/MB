@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for syllabus section 6.4 (Exchange rates), outcomes 6.4.1 to 6.4.5, in the Cambridge International AS and A Level Economics 9708 syllabus for examination in 2026, 2027 and 2028. This is AS Level content (topic 6). The syllabus says AS content is assumed knowledge for A Level Paper 3 and Paper 4.

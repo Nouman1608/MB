@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the global environment of business in the OCR A Level Business (H431) specification, Version 2.1 (January 2026), for first assessment in 2017 with final assessment in summer 2027. The specification names "The global environment of business" in its content overview, and one of its three components is titled The global business environment, but no content table carries that name. This guide therefore gathers every global and international point from the tables, covering global context, trade, the EU and emerging markets, plus the international points under other headings.

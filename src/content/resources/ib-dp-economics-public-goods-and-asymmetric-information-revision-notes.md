@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes follow the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. They condense sub-topic 2.9, public goods (SL and HL), and sub-topic 2.10, asymmetric information (**HL only**). For full explanations, read the [study guide](/resources/ib-dp-economics-public-goods-and-asymmetric-information/), then test yourself with the [practice set](/resources/ib-dp-economics-public-goods-and-asymmetric-information-practice/).

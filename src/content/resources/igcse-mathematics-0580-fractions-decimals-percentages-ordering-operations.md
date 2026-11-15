@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches three subtopics of Topic 1 Number in the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027: **1.4 Fractions, decimals and percentages**, **1.5 Ordering** and **1.6 The four operations**. It covers both tiers. Core candidates (Papers 1 and 3) need everything except the parts marked **Extended only**; Extended candidates (Papers 2 and 4) need all of it. The only Extended-only content in these three subtopics is recurring decimal notation and converting between recurring decimals and fractions (E1.4).

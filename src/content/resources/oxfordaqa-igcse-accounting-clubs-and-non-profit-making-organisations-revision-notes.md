@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 These revision notes condense the clubs and non-profit making organisations part of section 3.4 of the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. The specification places this content on Paper 2: Financial Statements. For full explanations and a longer worked example, read the [study guide](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations/). Then try the [practice questions](/resources/oxfordaqa-igcse-accounting-clubs-and-non-profit-making-organisations-practice/). Course pages: [OxfordAQA IGCSE Accounting hub](/boards/oxfordaqa/igcse/accounting/), [checklist](/checklists/oxfordaqa/igcse/accounting/) and [free diagnostics](/diagnostics/).
 

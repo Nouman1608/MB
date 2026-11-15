@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.4.10 (Recombinant DNA technology) of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, Unit 4. Read the [study guide](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology/) for the full explanations and worked examples, then use the [practice questions](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology-practice/). The [course hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) help you decide what to revise first.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense the [study guide](/resources/oxfordaqa-a-level-mathematics-parametric-equations-and-exponential-and-logarithmic/) for the *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, sections P2.3 (Cartesian and parametric equations) and P2.5 (eˣ, ln x, growth and decay). This content sits in Unit P2 (Pure Maths), part of the International A-level only. It applies to International AS exams from May/June 2018 and International A-level exams from May/June 2019.

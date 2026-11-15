@@ -26,7 +26,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check whether the 2027-2029 syllabus names the demographic transition model, doubling time or specific national policies in sub-topics 7.1 to 7.3; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check whether the 2027-2029 syllabus names the demographic transition model, doubling time or specific national policies in sub-topics 7.1 to 7.3; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

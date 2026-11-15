@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches the geometry strand of the **spatial reasoning** branch of the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022. It is organised by framework column (MYP 1-3, then the standard and extended columns for MYP 4-5) and adds the enrichment list. MYP has no SL/HL split, so extended and enrichment items are labelled where they appear. Coordinates, transformations, similarity, congruence and trigonometry have their own units.

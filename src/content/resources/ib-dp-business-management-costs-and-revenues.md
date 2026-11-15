@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.3 (Costs and revenues) of the IB *Business management guide*, first assessment 2024. The section sits in Unit 3 (Finance and accounts) and applies to both SL and HL, since the guide marks no part of it as HL only. It lists four types of cost, to be taught "using examples" (fixed, variable, direct and indirect/overhead), and then total revenue and revenue streams, also "using examples". The guide gives the section an AO2 depth of teaching, so the skill being tested is applying the ideas to a described business, not only defining them.

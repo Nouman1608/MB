@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the IB *Biology guide*, first assessment 2025, and covers the second part of sub-topic D3.1 (Reproduction): statements D3.1.13 to D3.1.20. All of it is Additional higher level, so it is **HL only**. If you take SL, you do not need it. The first part of D3.1 (sexual and asexual reproduction, the male and female systems, the ovarian and uterine cycles, fertilization, IVF and flowering plants) is taught elsewhere and is not repeated here.

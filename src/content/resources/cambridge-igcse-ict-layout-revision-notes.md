@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Layout in Cambridge IGCSE ICT 0417 (Topic 13) covers creating and editing a document, placing objects such as images and charts with the right text wrapping, building and formatting tables, and using headers and footers with automated fields like page numbers. The syllabus notes that "document" here means any of the applications in sections 16 to 21, so these skills are tested across the practical tasks in Papers 2 and 3.

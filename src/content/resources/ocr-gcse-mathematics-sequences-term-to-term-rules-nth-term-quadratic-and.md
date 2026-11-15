@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches sections 6.06a (generate terms of a sequence) and 6.06b (special sequences) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessed in 2017. Most of the content is on both tiers. Anything the specification puts in its Higher tier column is labelled **Higher tier only**: subscript notation, the nth term of a quadratic sequence, and generating or finding nth terms of other sequences.

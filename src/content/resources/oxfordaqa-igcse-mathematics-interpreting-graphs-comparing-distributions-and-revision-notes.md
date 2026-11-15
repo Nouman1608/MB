@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes are for OxfordAQA International GCSE Mathematics (9260), specification Version 5.1 (for exams May/June 2018 onwards). They cover references S6, S7 and S8 in section 3.4.2, Interpretation, all Core content that can also be assessed on the Extension papers. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-interpreting-graphs-comparing-distributions-and/).

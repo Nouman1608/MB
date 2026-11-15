@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches sub-topic B4.2, Ecological niches, from the IB *Biology guide*, first assessment 2025. It covers statements B4.2.1 to B4.2.13. All of it is for SL and HL, and the guide lists no additional higher level content here. For condensed recall use the [revision notes](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-revision-notes/); to test yourself use the [practice questions](/resources/ib-dp-biology-ecological-niches-nutrition-feeding-adaptations-and-practice/). Course hub: [IB DP Biology](/boards/ib/ib-dp/biology/). Printable list: [checklist](/checklists/ib/ib-dp/biology/). Not sure where your gaps are? Try the [free 10-minute diagnostics](/diagnostics/). The wider theme is in the [Theme B study guide](/resources/ib-dp-biology-theme-b-form-function/).

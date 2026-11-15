@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers **Cambridge IGCSE Mathematics 0580**, aligned to the Cambridge IGCSE Mathematics 0580 syllabus for exams in 2025, 2026 and 2027. It teaches syllabus sections **C9.1/E9.1 Classifying statistical data** and **C9.2/E9.2 Interpreting statistical data** in depth. Both sections appear in the Core and the Extended content with the same learning outcomes. The one difference is in the notes to 9.2: Core compares data sets using averages and **ranges**, while Extended compares averages and **measures of spread**, which brings in the interquartile range. That part is labelled "Extended only" below.

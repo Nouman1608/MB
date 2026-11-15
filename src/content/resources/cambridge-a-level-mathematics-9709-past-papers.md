@@ -16,7 +16,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This page is a guide to past papers for Cambridge International AS & A Level Mathematics (9709). It covers eleven series, from March 2023 to June 2026, across Pure Mathematics, Mechanics and Probability & Statistics. The grade thresholds are copied from Cambridge's grade-threshold documents, and the examiner notes are our own summaries of Cambridge's Principal Examiner Reports for Teachers. We do not host any papers: every paper, mark scheme and report comes from Cambridge's own website.

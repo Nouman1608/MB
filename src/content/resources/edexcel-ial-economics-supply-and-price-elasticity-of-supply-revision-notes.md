@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 1.3.3 (Supply), items 1 and 2, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Unit 1, Markets in action, is an International Advanced Subsidiary (IAS) unit and its content also counts towards the full International Advanced Level.

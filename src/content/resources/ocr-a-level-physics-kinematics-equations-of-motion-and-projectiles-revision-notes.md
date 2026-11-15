@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.1 (Motion, outcomes 3.1.1 to 3.1.3) of OCR A Level Physics A (H556), Version 3.0 (March 2026). Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles/); test yourself with the [practice questions](/resources/ocr-a-level-physics-kinematics-equations-of-motion-and-projectiles-practice/). Hub: [OCR A Level Physics](/boards/ocr/a-level/physics/). Checklist: [printable checklist](/checklists/ocr/a-level/physics/). Not sure where to start? Take a [free diagnostic](/diagnostics/).

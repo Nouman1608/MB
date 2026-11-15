@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. The content here is sub-topic 2.1, Demand, from Unit 2 Microeconomics. Most of 2.1 is SL and HL. One part is **HL only**: the assumptions behind the law of demand (the income and substitution effects, and diminishing marginal utility). Those parts are labelled "HL only" below, so SL students can skip them.

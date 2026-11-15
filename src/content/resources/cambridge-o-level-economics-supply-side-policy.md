@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 4.5 (4.5.1 to 4.5.3) of the Cambridge O Level Economics 2281 syllabus for examination in 2026, within topic 4, Government and the macroeconomy. There is no tiering. Each country, firm and number below is made up for practice and is not real data. The syllabus note for fiscal policy says aggregate demand and aggregate supply are not required, so this guide explains effects in plain chains of reasoning and does not use AD/AS diagrams.

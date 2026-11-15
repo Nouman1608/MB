@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026. It covers the adjustments listed in section 3.3 for other payables, other receivables, income due and income received in advance, and the instruction to make entries for them in ledger accounts, in income statements and in statements of financial position. Section 3.3 falls within the content assessed by Paper 1 (content 1 to 3) and Paper 2 (content 3 to 5). All amounts on this page are in dollars.

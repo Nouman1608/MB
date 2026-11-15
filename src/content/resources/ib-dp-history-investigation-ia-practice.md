@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08 recheck: rewritten for the current course (first assessment 2017): three sections incl. reflection, 25 marks, 2,200 words, per owner decision; please re-review; previously reviewed by azam-siddique on 2026-09-29; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 For full explanations and longer worked examples, use the [carboxylic acids and derivatives study guide](/resources/edexcel-ial-chemistry-carboxylic-acids-and-their-derivatives/). Once the ideas make sense, use this page to drill the facts. Aldehyde oxidation and LiAlH₄ reduction also appear in the [carbonyl compounds study guide](/resources/edexcel-ial-chemistry-carbonyl-compounds/) for 15B.

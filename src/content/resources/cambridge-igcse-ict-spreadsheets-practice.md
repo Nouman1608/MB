@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 20: creating a data model (20.1), manipulating data (20.2) and presenting data (20.3). Spreadsheets are assessed practically in Paper 3, so the questions ask you to write the exact formulae you would enter, with worked answers showing each formula and why it works.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense topics 2.7 (the labour market) and 2.8 (the role of money and financial markets) from the OCR GCSE (9-1) Economics (J205) specification, Version 2.0 (June 2026), for first assessment in 2019. The specification has no tiers. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money/). To test yourself, use the [practice questions](/resources/ocr-gcse-economics-the-labour-market-and-wages-gross-and-net-pay-money-practice/). Course pages: [OCR GCSE Economics hub](/boards/ocr/gcse/economics/), the [printable checklist](/checklists/ocr/gcse/economics/) and the [free diagnostics](/diagnostics/). Wider topic notes: [Markets and Money revision notes](/resources/ocr-gcse-economics-markets-money-revision-notes/). The figures below are made up for illustration.

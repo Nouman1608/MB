@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense outcomes 5.6 and 5.7 of Topic 5 in the Cambridge IGCSE Statistics (0479) syllabus for examination in 2027. They assume you have met the ideas; the [study guide](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion/) has the full explanations and longer worked examples. Then test yourself with the [practice questions](/resources/cambridge-igcse-statistics-standard-deviation-and-choosing-a-measure-of-dispersion-practice/).

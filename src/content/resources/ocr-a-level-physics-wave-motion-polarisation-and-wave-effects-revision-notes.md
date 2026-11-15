@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 4.4.1 Wave motion, statements (a) to (g), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). For full explanations and longer worked examples, use the [study guide](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects/). Test yourself afterwards with the [practice questions](/resources/ocr-a-level-physics-wave-motion-polarisation-and-wave-effects-practice/). The [course hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/) show where to focus.

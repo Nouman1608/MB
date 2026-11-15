@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers two topics from the area of study "The application of policy instruments" (Component 2, Macroeconomics) in the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), for first assessment in 2021: **Policy conflicts** and **Approaches to policy and macroeconomic context**. The specification does not label this content by level. Component 03 is synoptic, so these ideas can also be drawn on there.

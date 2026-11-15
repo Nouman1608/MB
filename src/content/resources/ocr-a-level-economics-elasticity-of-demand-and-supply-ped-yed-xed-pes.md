@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is based on the OCR *A Level Economics (H460)* specification, Version 3.0, dated June 2026 and first assessed in 2021. It teaches the topic **Elasticity**, which sits within How competitive markets work in Component 1, Microeconomics. No content is labelled AS or Extension in the text. All numbers below are made up for illustration.

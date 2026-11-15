@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 4 Software asks you to tell system software from application software, list what an operating system does, explain how interrupts are generated and handled, and compare high-level with low-level languages and compilers with interpreters. In Cambridge IGCSE Computer Science (0478) it is examined on Paper 1, mostly through short "state" and "describe" questions where exact wording earns the marks.

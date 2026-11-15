@@ -34,7 +34,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.1.2 (Amount of substance, 3.1.2.1 to 3.1.2.5) of the OxfordAQA International AS and A-level Chemistry 9620 specification, Version 5.3. For full explanations start with the [study guide](/resources/oxfordaqa-a-level-chemistry-amount-of-substance/), then test yourself on the [practice questions](/resources/oxfordaqa-a-level-chemistry-amount-of-substance-practice/). Everything here sits in the course [hub](/boards/oxfordaqa/a-level/chemistry/) and the [printable checklist](/checklists/oxfordaqa/a-level/chemistry/). For a quick check of where you stand, try the [free diagnostics](/diagnostics/).

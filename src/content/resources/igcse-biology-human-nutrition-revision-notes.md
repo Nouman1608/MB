@@ -33,7 +33,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-09-05
 updatedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Topic 7 spans five sub-topics (7.1-7.5) and is examined on every tier

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense statements C3.1.1 to C3.1.10 of the IB *Biology guide*, first assessment 2025, for DP Biology. All ten are SL and HL, with no HL-only content, and they apply to the examination sessions that follow that first assessment. For full explanations read the [study guide](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain/), then test yourself with the [practice questions](/resources/ib-dp-biology-integration-of-body-systems-nervous-system-brain-practice/). The [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [printable checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/) help you track progress.

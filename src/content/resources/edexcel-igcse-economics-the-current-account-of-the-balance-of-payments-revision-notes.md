@@ -22,7 +22,7 @@ reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 updatedDate: 2026-11-05
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense statement 2.1.1 d) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. It is examined in the macroeconomics paper, and no tiers apply. For full explanations read the [study guide](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-the-current-account-of-the-balance-of-payments-practice/). The [course hub](/boards/edexcel/igcse/economics/), the [printable checklist](/checklists/edexcel/igcse/economics/) and the [free diagnostics](/diagnostics/) help you plan your revision. The countries and figures are made up.

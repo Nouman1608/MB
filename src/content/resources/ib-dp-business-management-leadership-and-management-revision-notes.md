@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 2.3, Leadership and management, from Unit 2 of the IB *Business management guide*, first assessment 2024. Scientific and intuitive thinking/management is marked HL only in the guide; everything else applies to SL and HL. For full explanations and worked examples, read the [study guide](/resources/ib-dp-business-management-leadership-and-management/). Test yourself with the [practice questions](/resources/ib-dp-business-management-leadership-and-management-practice/), see the [course hub](/boards/ib/ib-dp/business/) and the [checklist](/checklists/ib/ib-dp/business/), and use the [diagnostics](/diagnostics/) to find gaps.

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers OCR A Level Biology A (H420) specification statements 4.1.1(a) to 4.1.1(e) in Module 4, Biodiversity, evolution and disease. It is aligned to the OCR specification Version 4.1 (April 2026), for first assessment in 2025. Module 4 content is assessed in the Biological diversity component and in the Unified biology component. Use it with the [revision notes](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-revision-notes/) and the [practice questions](/resources/ocr-a-level-biology-pathogens-transmission-and-the-first-lines-of-defence-practice/). The course hub is [OCR A Level Biology](/boards/ocr/a-level/biology/) and the printable list is the [OCR A Level Biology checklist](/checklists/ocr/a-level/biology/).

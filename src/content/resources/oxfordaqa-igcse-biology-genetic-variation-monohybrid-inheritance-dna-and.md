@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 3.5.3 (Genetic variation) and 3.5.4 (Genetic disorders) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered, so everything here is for every candidate. Use the [revision notes](/resources/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and-revision-notes/) to condense it and the [practice questions](/resources/oxfordaqa-igcse-biology-genetic-variation-monohybrid-inheritance-dna-and-practice/) to test it. Course pages: the [OxfordAQA IGCSE Biology hub](/boards/oxfordaqa/igcse/biology/), the [printable checklist](/checklists/oxfordaqa/igcse/biology/), the [exam preparation guide](/resources/oxfordaqa-igcse-biology-exam-preparation/) and the [free 10-minute diagnostics](/diagnostics/).

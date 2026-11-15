@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the IB Diploma Programme *Economics guide* (first assessment 2022, published February 2020), the course examined from the 2022 session onwards. It covers **sub-topic 2.8, Market failure: externalities and common pool or common access resources**, in Unit 2 Microeconomics. The whole sub-topic is SL and HL, except one calculation (welfare loss from a diagram), which is **HL only**. Every place, firm and figure below is invented.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 6.3.1 to 6.3.5 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: what a foreign exchange rate is, how demand and supply set it, why it changes, what a change does to prices and to spending on trade, and the case for floating and fixed systems. The syllabus is not tiered. Every country, currency and figure below is invented for practice and is not a real statistic.

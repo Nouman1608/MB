@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the **Human resources** topic of the OCR A Level in Business (H431), Version 2.1 (January 2026). For full explanations read the [study guide](/resources/ocr-a-level-business-human-resources/), then try the [practice questions](/resources/ocr-a-level-business-human-resources-practice/). Course pages: [OCR A Level Business hub](/boards/ocr/a-level/business/) and [checklist](/checklists/ocr/a-level/business/). Find gaps first with the [free diagnostics](/diagnostics/).

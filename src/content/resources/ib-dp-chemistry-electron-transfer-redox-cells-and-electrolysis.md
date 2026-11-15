@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches **Reactivity 3.2, Electron transfer reactions**, using the February 2023 IB Diploma Programme *Chemistry guide* (first assessment 2025) as its checklist. Understandings **Reactivity 3.2.1 to 3.2.11** are covered, the part common to **SL and HL**. The additional higher level understandings (3.2.12 onwards) are not covered here.

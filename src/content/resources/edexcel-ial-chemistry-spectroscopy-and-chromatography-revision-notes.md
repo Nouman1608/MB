@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 For full explanations and longer worked examples, read the [spectroscopy and chromatography study guide](/resources/edexcel-ial-chemistry-spectroscopy-and-chromatography/) first; this page is the short version for final revision.

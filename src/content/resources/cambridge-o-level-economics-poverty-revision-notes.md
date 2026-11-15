@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.2 (Poverty, 5.2.1 to 5.2.3) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2. The course is not tiered. For full explanations read the [study guide](/resources/cambridge-o-level-economics-poverty/), then test yourself with the [practice questions](/resources/cambridge-o-level-economics-poverty-practice/). Other links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/), the [free diagnostics](/diagnostics/) and the [wages and earnings notes](/resources/cambridge-o-level-economics-workers-occupations-wages-earnings-differences-and-revision-notes/). All countries and figures are invented and illustrative.

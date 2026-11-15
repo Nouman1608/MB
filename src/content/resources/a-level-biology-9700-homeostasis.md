@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 14, Homeostasis, of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It covers section 14.1 Homeostasis in mammals (learning outcomes 1–11) and section 14.2 Homeostasis in plants (outcomes 1–4). Topic 14 is **A Level content**, not AS: it is examined on Paper 4 (A Level Structured Questions), which also expects AS knowledge, and it can supply the context for Paper 5 (Planning, Analysis and Evaluation).

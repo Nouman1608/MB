@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.6 (price changes) and 2.9 (market economic system) of the Cambridge O Level Economics syllabus for examination in 2026. It teaches why equilibrium prices move, how to show the move on a demand and supply diagram, and how to judge the market economic system. Every business, country and number below is invented for illustration.

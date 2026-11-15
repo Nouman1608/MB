@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers the first part of probability in the OxfordAQA International GCSE Mathematics specification (9260, Version 5.1, for exams May/June 2018 onwards): statements S9 to S13 in section 3.4.3. All five statements are Core content, so they can be assessed on both the Core and the Extension papers. There is no Extension only content in this unit.

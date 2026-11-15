@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is aligned to the IB *Biology guide*, first assessment 2025, and covers section D4.1 (Natural selection), statements D4.1.1 to D4.1.15. Statements D4.1.1 to D4.1.8 are for SL and HL. Statements D4.1.9 to D4.1.15 are additional higher level, so they are **HL only**. Hardy-Weinberg calculations are therefore HL work.

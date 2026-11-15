@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 4.3.1 to 4.3.6 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026: the government budget, government spending, taxation and its classification, the qualities of a good tax and the impact of taxation. The syllabus is not tiered. The later fiscal policy statements (4.3.7 to 4.3.9) sit in a separate unit. Every country, firm and figure below is invented for practice and is not a real statistic.

@@ -39,7 +39,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches section 3.1.10, Acids and bases, of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. It covers 3.1.10.1 to 3.1.10.6 and required practical 7. This is International A2 material, so it is **International A-level only**. Acids and bases sit in Unit 3 (Inorganic 2 and Physical 2), and questions in Unit 5 (Practical and synoptic) can come from anywhere in the course.

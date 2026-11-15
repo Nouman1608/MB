@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.8, Investment appraisal, of the IB *Business management guide* (first assessment 2024). Payback period and average rate of return (ARR) are SL and HL. Net present value (NPV) is HL only. The [study guide] holds fuller explanations and longer examples(/resources/ib-dp-business-management-investment-appraisal/). Then try the [practice questions](/resources/ib-dp-business-management-investment-appraisal-practice/). Wider Unit 3 recall is in the [Unit 3 revision notes](/resources/ib-dp-business-management-finance-accounts-revision-notes/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Printable list: [checklist](/checklists/ib/ib-dp/business/). Not sure where you stand? Take a free [diagnostic](/diagnostics/).

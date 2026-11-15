@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide is written for the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2. It covers sections 3.2.2.1 (the circular flow of income), 3.2.2.2 (aggregate demand and aggregate supply analysis) and 3.2.2.3 (determinants of aggregate demand). Section 3.2 is International AS content, and the A-level builds on it. The quantitative skills in section 3.5 can be assessed in any unit, so the sums here practise QS2 (percentages), QS4 (graphs), QS5 (index numbers), QS7 (money to real terms) and QS9 (interpreting data). Every figure is invented and illustrative.
 

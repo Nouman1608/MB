@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers IB Diploma Programme Biology section C1.1 (Enzymes and metabolism), as set out in the IB *Biology guide*, first assessment 2025. Statements C1.1.1 to C1.1.10 are for standard level and higher level. Statements C1.1.11 to C1.1.17 are additional higher level, so every part marked **HL only** below is not needed at SL.

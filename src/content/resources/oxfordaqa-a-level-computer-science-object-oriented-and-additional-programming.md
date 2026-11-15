@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.9 Object-oriented and additional programming of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. It covers sections 3.9.1 to 3.9.4, none of which appears in the International AS. The specification assesses it in Unit 3: Advanced Programming, taken on screen in C#, Python or VB.Net, where the AS programming content of sections 3.1 to 3.4 is also expected.

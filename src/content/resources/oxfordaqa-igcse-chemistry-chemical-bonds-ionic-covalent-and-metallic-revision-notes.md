@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.1, Chemical bonds: ionic, covalent and metallic, of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. Statements a to j are all here, and with no tiers in this qualification every line is examinable. The full teaching, with seven worked examples, is in the [chemical bonds study guide](/resources/oxfordaqa-igcse-chemistry-chemical-bonds-ionic-covalent-and-metallic/).

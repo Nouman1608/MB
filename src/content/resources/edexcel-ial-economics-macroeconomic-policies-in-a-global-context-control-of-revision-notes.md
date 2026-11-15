@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense statement 4 (a to e) of 4.3.5 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018). Unit 4, Developments in the global economy, is an IAL compulsory unit: it supplies International A2 (IA2) content, not International AS. For full explanations and worked examples, read the [study guide](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of/). Then try the [practice questions](/resources/edexcel-ial-economics-macroeconomic-policies-in-a-global-context-control-of-practice/). Other links: [course hub](/boards/edexcel/a-level/economics/), [printable checklist](/checklists/edexcel/a-level/economics/) and the free [diagnostics](/diagnostics/). All figures are invented.

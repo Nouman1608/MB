@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sub-topic **1.1 The microscope in cell studies** from topic 1 Cell structure in the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, examined on Papers 1 and 2 and assumed on Paper 4; the light-microscope skills also appear in the Paper 3 practical. There are no tiers in 9700. For full explanations and worked examples, use the [1.1 study guide](/resources/a-level-biology-9700-the-microscope-in-cell-studies/).

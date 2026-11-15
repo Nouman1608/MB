@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes compress Topic 4 Software of Cambridge O Level Computer Science (2210) into the facts Paper 1 asks for: the two types of software, nine operating system functions, how firmware starts the OS, how interrupts are serviced, and how compilers, interpreters and IDEs help programmers. Learn the wording in the tables, then rehearse the model answers at the end.

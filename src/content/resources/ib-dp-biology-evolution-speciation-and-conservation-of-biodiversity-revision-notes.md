@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense sections A4.1 (Evolution and speciation) and A4.2 (Conservation of biodiversity) of the IB *Biology guide*, first assessment 2025, for final-weeks recall. A4.1.8 to A4.1.11 are additional higher level and marked **HL only**; everything else is SL and HL. For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity/), then test yourself with the [practice questions](/resources/ib-dp-biology-evolution-speciation-and-conservation-of-biodiversity-practice/). Course pages: [IB Biology hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/) and [free 10-minute diagnostics](/diagnostics/).

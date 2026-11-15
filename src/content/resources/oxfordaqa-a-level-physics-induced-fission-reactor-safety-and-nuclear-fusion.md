@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide teaches sections 3.12.3 (Induced fission), 3.12.4 (Safety aspects of nuclear reactors) and 3.12.5 (Nuclear fusion) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. Section 3.12 is International A-level only. Sections 3.1 to 3.5 are shared AS and A-level content; sections 3.6 to 3.13 are A-level only.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Section 6.3.1, on chromatography and qualitative analysis, is taught here from scratch, following the H432 Chemistry A specification from OCR (Version 3.1, May 2026, for first assessment in 2017). The section belongs to Module 6, Organic chemistry and analysis. All three lettered outcomes, with their additional guidance and the PAG6 and PAG7 links, are covered here. H432 is the full A level. Its assessment overview lists Module 6 under component 02 (Synthesis and analytical techniques); component 03 (Unified chemistry) draws on it too.

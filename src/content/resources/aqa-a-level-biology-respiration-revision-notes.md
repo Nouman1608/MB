@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5.2 Respiration of the AQA A-level Biology (7402) specification, for first teaching 2015. It is A-level only content. For full explanations read the [study guide](/resources/aqa-a-level-biology-respiration/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-respiration-practice/). Tick off topics on the [printable checklist](/checklists/aqa/a-level/biology/), see the [AQA A-level Biology hub](/boards/aqa/a-level/biology/), and use the [free diagnostics](/diagnostics/) to find weak spots. Background on ATP is in the [nucleic acids and ATP notes](/resources/aqa-a-level-biology-nucleic-acids-dna-replication-and-atp-revision-notes/).

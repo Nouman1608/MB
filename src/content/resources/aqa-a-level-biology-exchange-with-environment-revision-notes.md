@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.3.1 to 3.3.4 (Organisms exchange substances with their environment) of the AQA AS and A-level Biology specification, version 1.5, for the A-level Biology (7402) course. The content is part of topics 1 to 4, which the specification lists as assessable on Paper 1 and Paper 3 at A-level. For the fuller explanation, use the [study guide](/resources/aqa-a-level-biology-exchange-with-environment/), then test yourself with the [practice questions](/resources/aqa-a-level-biology-exchange-with-environment-practice/). Course hub: [AQA A-level Biology](/boards/aqa/a-level/biology/). Printable list: [checklist](/checklists/aqa/a-level/biology/). Unsure where to start? Try the [free diagnostics](/diagnostics/).

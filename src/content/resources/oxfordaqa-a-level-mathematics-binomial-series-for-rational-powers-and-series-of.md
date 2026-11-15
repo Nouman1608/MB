@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers specification section P2.2 (Sequences and series) of the OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2: the binomial series for any rational power, and the series expansion of rational functions using partial fractions. The specification states that this content is part of International A-level (A2) Unit P2 (Pure Maths) and is not examined at International AS. It applies to International A-level exams from May/June 2019.

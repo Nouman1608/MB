@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 These notes condense sections 3.8.1 and 3.8.2.1 of the AQA specification for AS and A-level Biology (7401 and 7402), first teaching 2015. Neither section is part of the AS. The [study guide](/resources/aqa-a-level-biology-gene-mutations-and-stem-cells/) has the full explanations and further worked examples; afterwards, test yourself with the [practice questions](/resources/aqa-a-level-biology-gene-mutations-and-stem-cells-practice/). The [AQA A-level Biology hub](/boards/aqa/a-level/biology/) and the [printable checklist](/checklists/aqa/a-level/biology/) cover the wider course. The [free diagnostics](/diagnostics/) show which topics need work. Related earlier content: [mutation and meiosis](/resources/aqa-a-level-biology-mutation-and-meiosis/).
 

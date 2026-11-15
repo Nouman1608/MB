@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense *OxfordAQA International AS and A-level Biology (9610)*, Version 5.1, section 3.3.2: 3.3.2.1 the light-dependent reaction, 3.3.2.2 the light-independent reaction, 3.3.2.3 limiting factors, and Required practical 7. For full explanations read the [study guide](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors/). Then try the [practice questions](/resources/oxfordaqa-a-level-biology-photosynthesis-and-limiting-factors-practice/).

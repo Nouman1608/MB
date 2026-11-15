@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches sections 1.1 (Integers) and 1.4 (Powers and roots) of topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), first assessed in June 2018 with papers available in January and June. Section 1.1 is Foundation tier content that the Higher tier assumes ("See Foundation Tier"). Section 1.4 has Foundation content that both tiers need, plus three extra statements (surds, rationalising, and fractional and negative powers) that are **Higher tier only**.

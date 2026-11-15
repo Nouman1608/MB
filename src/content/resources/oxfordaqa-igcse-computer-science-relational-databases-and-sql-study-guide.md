@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax. 2026-11-08 recheck: checked against spec v3.3 section 3.7: SQL limited to SELECT/FROM/WHERE (max two tables), full-record INSERT INTO, UPDATE, DELETE FROM; removed ORDER BY, LIKE and INNER JOIN; added 3.7.2 database design; please re-review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "Check the 9210 specification for exactly which SQL commands are required (SELECT, FROM, WHERE, ORDER BY, INSERT, UPDATE, DELETE and joins) and the required form of the join syntax. 2026-11-08 recheck: checked against spec v3.3 section 3.7: SQL limited to SELECT/FROM/WHERE (max two tables), full-record INSERT INTO, UPDATE, DELETE FROM; removed ORDER BY, LIKE and INNER JOIN; added 3.7.2 database design; please re-review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

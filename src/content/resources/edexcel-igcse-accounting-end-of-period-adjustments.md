@@ -29,7 +29,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It covers Topic 5, sections 5.2 Depreciation, 5.3 Irrecoverable debts and 5.4 Other receivables and other payables. The specification marks no content in these sections as tier-specific. It says Paper 2, Financial Statements, draws on topics 4 and 5 and builds on topics 1 to 3, while Paper 1 draws only on topics 1 to 3. The same three areas also appear in Topic 2, so you can meet them in either paper.

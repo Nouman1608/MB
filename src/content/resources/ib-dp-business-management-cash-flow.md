@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.7 (Cash flow) of Unit 3 in the IB *Business management guide*, first assessment 2024. None of the six points in 3.7 carries an HL only label, so SL and HL students both study all of them. Use it with the [course hub](/boards/ib/ib-dp/business/), the [printable checklist](/checklists/ib/ib-dp/business/), the [revision notes](/resources/ib-dp-business-management-cash-flow-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-cash-flow-practice/). For wider Unit 3 context, see the [Unit 3 overview](/resources/ib-dp-business-management-finance-accounts/) and the [final accounts guide](/resources/ib-dp-business-management-final-accounts/). To find your weak spots across the unit, take the [diagnostics](/diagnostics/).

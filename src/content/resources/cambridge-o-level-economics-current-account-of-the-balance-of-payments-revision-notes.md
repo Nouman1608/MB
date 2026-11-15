@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 These notes condense all four outcomes of section 6.4 of the Cambridge O Level Economics 2281 syllabus for examination in 2026. For full explanations and longer worked examples read the [study guide](/resources/cambridge-o-level-economics-current-account-of-the-balance-of-payments/), then test yourself with the [practice set](/resources/cambridge-o-level-economics-current-account-of-the-balance-of-payments-practice/). All countries and figures are invented for illustration. Money is in millions of an imaginary currency, the zel, unless stated. Useful links: the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/).
 

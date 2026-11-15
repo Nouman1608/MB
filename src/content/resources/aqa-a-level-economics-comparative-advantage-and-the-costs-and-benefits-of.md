@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the first part of section 4.2.6.2 Trade (3.2.6.2 on the AQA website) in the AQA A-level Economics (7136) specification, version 1.3. It teaches the model of comparative advantage, the numerical example, the benefits and costs of trade and changes in the UK pattern of trade. Tariffs, quotas, customs unions, the Single European Market and the World Trade Organisation sit in a separate unit, so they are not taught here. Every country, firm and figure below is invented and illustrative.

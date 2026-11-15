@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense point c) of section 2.1.1, low unemployment, from the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. The course is single tier. For full explanations read the [study guide](/resources/edexcel-igcse-economics-unemployment-and-its-consequences/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-unemployment-and-its-consequences-practice/). Course pages: [Edexcel IGCSE Economics hub](/boards/edexcel/igcse/economics/), [printable checklist](/checklists/edexcel/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures are invented and illustrative.

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Productivity, populations, niche and succession are taught here from the beginning, following statements 5.9 to 5.15 of Topic 5 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, with Core Practical 11 included. Within the specification, IAS is Topics 1 to 4 and IA2 is Topics 5 to 8, so this unit sits in IA2. No tiers apply. Companion pages: [revision notes](/resources/edexcel-ial-biology-productivity-populations-niche-and-succession-revision-notes/) and [practice questions](/resources/edexcel-ial-biology-productivity-populations-niche-and-succession-practice/). The energy that producers capture is explained in the [photosynthesis guide](/resources/edexcel-ial-biology-photosynthesis/). For the wider course, use the [course hub](/boards/edexcel/a-level/biology/) and the [printable checklist](/checklists/edexcel/a-level/biology/); the [free diagnostics](/diagnostics/) help you find a starting point.

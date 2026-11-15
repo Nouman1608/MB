@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide teaches statements B3.3f to B3.3j of module B3.3 (Maintaining internal environments) in OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. Statements B3.3i and B3.3j are in bold type in the specification, so they are tested only in the Higher Tier papers; B3.3f, B3.3g and B3.3h are assessed in both tiers. Temperature control by the skin and blood glucose control are separate statements in the same module and are not taught here. Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [checklist](/checklists/ocr/gcse/biology/) | [all free 10-minute diagnostics](/diagnostics/).

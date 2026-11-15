@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense topic 5.1.4, Hormonal communication, from OCR A Level Biology A (H420), Version 4.1 (April 2026), for first assessment in 2025. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control/), then test yourself with the [practice set](/resources/ocr-a-level-biology-hormonal-communication-and-blood-glucose-control-practice/). The [OCR A Level Biology hub](/boards/ocr/a-level/biology/) and [checklist](/checklists/ocr/a-level/biology/) show where this fits, and the [free diagnostics](/diagnostics/) help you find weak spots. For the microscopy and drawing skills behind outcome (c), see the [practical skills revision notes](/resources/ocr-a-level-biology-practical-skills-revision-notes/).

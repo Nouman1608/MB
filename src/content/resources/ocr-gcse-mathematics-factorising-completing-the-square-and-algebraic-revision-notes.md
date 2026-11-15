@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These notes condense OCR GCSE (9-1) Mathematics (J560) content 6.01e, 6.01f and 6.01g, from the Version 2.1 (August 2026) specification. For full explanations and longer worked examples, read the [study guide](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic/). Test yourself with the [practice questions](/resources/ocr-gcse-mathematics-factorising-completing-the-square-and-algebraic-practice/). See also the [OCR GCSE Mathematics hub](/boards/ocr/gcse/mathematics/), the [checklist](/checklists/ocr/gcse/mathematics/) and the [free diagnostics](/diagnostics/).
 

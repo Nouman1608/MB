@@ -29,7 +29,7 @@ author: "marlbridge-academic-team"
 reviewer: "aizaz-raoof-ali"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewrote Q4 answer (removed stray natural law/positivism mark points that matched no question; now 8 marks on law and morality), clarified corrective justice in Q5, added FAQ; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "2026-11-08 recheck: rewrote Q4 answer (removed stray natural law/positivism mark points that matched no question; now 8 marks on law and morality), clarified corrective justice in Q5, added FAQ; please re-review; previously reviewed by aizaz-raoof-ali on 2026-09-29; 2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

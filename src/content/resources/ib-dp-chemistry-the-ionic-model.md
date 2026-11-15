@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches **Structure 2.1, The ionic model**, from the Diploma Programme *Chemistry guide* that the IB issued in February 2023, with first assessment in 2025. It covers all three understandings, Structure 2.1.1 to 2.1.3. Every one of them is studied at **both SL and HL**; this sub-topic has no AHL extension. The guiding question is what makes a compound ionic, and what that does to its properties.

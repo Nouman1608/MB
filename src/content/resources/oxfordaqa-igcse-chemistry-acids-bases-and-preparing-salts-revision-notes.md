@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense acids, bases and the preparation of salts for OxfordAQA International GCSE Chemistry (9202). They follow the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards, and cover sections 3.5.1 (statements a to g) and 3.5.2 (statements a to c). With no tiers in this qualification, every candidate needs all of it. The full teaching, with worked examples, is in the [acids, bases and salts study guide](/resources/oxfordaqa-igcse-chemistry-acids-bases-and-preparing-salts/).

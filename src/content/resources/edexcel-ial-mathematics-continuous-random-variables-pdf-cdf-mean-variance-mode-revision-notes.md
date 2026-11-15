@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These are condensed notes for section 2 (topics 2.1 to 2.5) of Unit S2 in the Pearson Edexcel International Advanced Subsidiary/Advanced Level Mathematics specification (YMA01), Specification Issue 3, April 2019. S2 is optional for IAS Further Mathematics and for IAL Mathematics and Further Mathematics. For full explanations and longer worked examples, read the [study guide](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode/). Test yourself with the [practice questions](/resources/edexcel-ial-mathematics-continuous-random-variables-pdf-cdf-mean-variance-mode-practice/), check coverage on the [printable checklist](/checklists/edexcel/a-level/mathematics/), and see the [course hub](/boards/edexcel/a-level/mathematics/). The [free diagnostics](/diagnostics/) show which unit to revise next.
 

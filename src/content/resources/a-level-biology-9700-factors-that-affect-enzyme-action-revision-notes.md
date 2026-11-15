@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense subtopic 3.2, **Factors that affect enzyme action**, from the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content (Topic 3, Enzymes), set on Papers 1 and 2 and assumed knowledge for Paper 4. For full explanations and worked examples, use the [Factors that affect enzyme action study guide](/resources/a-level-biology-9700-factors-that-affect-enzyme-action/). For the mechanism of catalysis (subtopic 3.1), see the [Enzymes revision notes](/resources/a-level-biology-enzymes-revision-notes/).

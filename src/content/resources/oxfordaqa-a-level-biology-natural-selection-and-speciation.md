@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. It covers sections 3.3.8.1 (the theory of evolution) and 3.3.8.2 (selection and speciation). Both sit in Unit 3, Populations and genes, which the specification lists as International A-level only.

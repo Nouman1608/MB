@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense the topic Globalisation from the OCR *A Level Economics (H460)* specification, Version 3.0 (June 2026), first assessment 2021, Component 2, Macroeconomics. All content is A Level. Full explanations and worked examples are in the [study guide](/resources/ocr-a-level-economics-globalisation-and-multinational-firms/). Test yourself with the [practice questions](/resources/ocr-a-level-economics-globalisation-and-multinational-firms-practice/), check coverage on the [checklist](/checklists/ocr/a-level/economics/), see the [OCR Economics hub](/boards/ocr/a-level/economics/), and take the [free diagnostics](/diagnostics/). Every figure here is invented.

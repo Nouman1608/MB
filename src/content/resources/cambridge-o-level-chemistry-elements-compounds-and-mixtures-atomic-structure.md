@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 This study guide follows the Cambridge O Level Chemistry 5070 syllabus for examination in 2026, 2027 and 2028. It covers sections 2.1, 2.2 and 2.3 under the heading Atoms, elements and compounds: elements, compounds and mixtures; atomic structure and the Periodic Table; and isotopes. Every outcome in those three sections is taught here, in the syllabus's own wording where possible.

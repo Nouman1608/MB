@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide follows the OCR A Level Biology A specification (H420), Version 4.1 (April 2026), for first assessment in 2025. It covers module 2.1.2 Biological molecules, statements (k) to (s): amino acids, peptide bonds, protein structure, globular and fibrous proteins, inorganic ions, the biochemical tests, colorimetry and chromatography. Water, carbohydrates and lipids (statements (a) to (j)) are taught in separate pages.

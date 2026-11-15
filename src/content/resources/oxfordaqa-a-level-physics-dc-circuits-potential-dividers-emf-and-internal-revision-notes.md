@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes are aligned to the *OxfordAQA International AS and A-level Physics (9630)* specification, Version 4.4, sections 3.4.4, 3.4.5 and 3.4.6 (shared International AS and A-level content), for exams May/June 2020 onwards. The [study guide](/resources/oxfordaqa-a-level-physics-dc-circuits-potential-dividers-emf-and-internal/) explains each idea in full with longer worked examples. The [practice set](/resources/oxfordaqa-a-level-physics-dc-circuits-potential-dividers-emf-and-internal-practice/) lets you test yourself. Related pages: [course page](/boards/oxfordaqa/a-level/physics/), [checklist](/checklists/oxfordaqa/a-level/physics/) and [free diagnostics](/diagnostics/).

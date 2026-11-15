@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 6.3 (6.3.1 to 6.3.5, foreign exchange rates) of the Cambridge O Level Economics (2281) syllabus for examination in 2026, version 2, which has no tiers. The countries, currencies and numbers below are fictional teaching examples, not real data. Condensed recall is in the [revision notes](/resources/cambridge-o-level-economics-foreign-exchange-rates-revision-notes/) and exam-style questions are in the [practice set](/resources/cambridge-o-level-economics-foreign-exchange-rates-practice/). Elasticity is taught in the [price elasticity of demand guide](/resources/cambridge-o-level-economics-price-elasticity-of-demand-calculation-determinants/) and market equilibrium in the [supply and equilibrium guide](/resources/cambridge-o-level-economics-supply-and-equilibrium-and-disequilibrium-prices/). See also the [Cambridge O Level Economics hub](/boards/cambridge/o-level/economics/), the [printable checklist](/checklists/cambridge/o-level/economics/) and the [free diagnostics](/diagnostics/).

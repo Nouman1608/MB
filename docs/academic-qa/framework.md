@@ -1,6 +1,6 @@
 # Marlbridge Academic Quality Assurance Framework
 
-**Rubric version 1.0.0 · Decision D-452 (15 Nov 2026) · Owner of the policy: the project owner · Code: `src/utils/academic/qa-rubric.ts`**
+**Rubric version 1.0.0 · Decision D-454 (15 Nov 2026) · Owner of the policy: the project owner · Code: `src/utils/academic/qa-rubric.ts`**
 
 This framework says how a Marlbridge resource is judged academically, how that judgement is recorded, and what a page needs before Marlbridge can call it verified. It extends the systems already in place (the academic-review ledger, D-386; the meaning of "reviewed", D-379; documented teacher verification, D-448). It does not replace them.
 
@@ -85,12 +85,12 @@ The accountable-teacher credit (kind C) changes none of these. The existing `rev
 
 ### Content hash
 
-Every assessment and every teacher verification records `contentSha256`, the SHA-256 of the resource file as checked (LF line endings). When the page changes, the hash no longer matches and the record becomes history: the page moves to REVERIFICATION_REQUIRED until someone checks it again. Records are append-only. A reassessment is a new record (`reassessmentOf` names the old one), so the audit trail is kept.
+Every assessment and every teacher verification records `contentSha256`, the SHA-256 of the resource as checked: the whole file with LF line endings, leaving out only three frontmatter lines that no student sees and that make no academic claim (`reviewNote`, `featured`, `order`; `HASH_EXCLUDED_KEYS` in `scripts/lib/academic-qa-data.mjs`). That exclusion was added after D-453 reworded 7,636 `reviewNote` lines in one commit, which would otherwise have made every assessment stale. When anything else changes, including any new or unknown field, the hash no longer matches and the record becomes history: the page moves to REVERIFICATION_REQUIRED until someone checks it again. Records are append-only. A reassessment is a new record (`reassessmentOf` names the old one), so the audit trail is kept.
 
 ## 5. Records
 
 - **Assessments**: `docs/reports/academic-qa/assessments.json`. Field definitions are in its `meta.fields`. An AI-assisted record must say `"assessor": "AI-assisted (<model>)"`. A human record must name an isReviewer profile covering the boards and subject, plus `humanEvidence`.
-- **Teacher verifications**: `docs/reports/academic-review/teacher-verifications.json` (D-448 format plus `contentSha256`, D-452).
+- **Teacher verifications**: `docs/reports/academic-review/teacher-verifications.json` (D-448 format plus `contentSha256`, D-454).
 - **Scorecard** (generated): `docs/reports/academic-qa/scorecard.csv`, `scorecard.json`, `dashboard.md`, `dashboard.html` and `review-queue.md`.
 - **Source manifest**: `docs/reports/academic-qa/source-manifest.json` (see section 9).
 
@@ -176,7 +176,7 @@ npm run report:academic-qa                                       # scorecard + d
 npm run validate:academic-qa                                     # integrity gate (also inside validate:academic)
 npm run qa:review-pack -- <slug> [<slug> ...]                    # teacher review packs
 QA_RESOURCE_DIR="<resource check folder>" npm run qa:source-manifest -- --verify
-node --experimental-strip-types scripts/test-negative-validation-suite.mjs   # cases AV-BB cover this framework
+node --experimental-strip-types scripts/test-negative-validation-suite.mjs   # cases AW-BC cover this framework
 ```
 
 ## 13. Changing the rubric

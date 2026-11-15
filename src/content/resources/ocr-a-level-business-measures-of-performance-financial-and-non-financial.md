@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches the content point headed Measures of performance: financial and non-financial, in the Business objectives and strategy area of the OCR A Level Business H431 specification (Version 2.1, January 2026; final assessment summer 2027). It is part of the Business objectives and strategic decisions unit. The specification says content in one section may be assessed in any context, so expect these measures to turn up in case studies on any topic. Every example uses an invented business.

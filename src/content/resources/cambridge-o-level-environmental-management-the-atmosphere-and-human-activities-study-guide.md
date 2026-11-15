@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Every breath you take draws on a thin shell of gas wrapped around the planet, and human activities now alter its chemistry. This topic covers what the atmosphere contains, how extra greenhouse gases warm the planet, how air pollution becomes acid rain, and why a chemical used in everyday products once threatened the ozone layer. To answer well, link each problem to its specific gases, its sources and the people and ecosystems that suffer.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the content point "Globalisation" in the AQA A-level Economics (7136) specification, version 1.3 (29 June 2022). It is numbered 3.2.6.1 on the AQA website and appears as 4.2.6.1 in the combined AS and A-level PDF. It sits within the international economy content, examined in Paper 2 and open to use in Paper 3 as well. The specification labels none of it AS-only or A-level-only, and it gives no additional information beyond the four bullet points covered here.

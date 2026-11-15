@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers IB Diploma Programme Biology, theme D (Continuity and change), subtopic D4.2 Stability and change, statements D4.2.1 to D4.2.15. It follows the IB *Biology guide*, first assessment 2025. D4.2.1 to D4.2.11 are for SL and HL. D4.2.12 to D4.2.15 (succession) are additional higher level, so they are **HL only**. The page applies to examinations from the first assessment in 2025.

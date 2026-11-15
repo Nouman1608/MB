@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 4.5, The seven Ps of the marketing mix, from the IB *Business management guide*, first assessment 2024, for SL and HL. Full explanations and worked examples are in the [study guide](/resources/ib-dp-business-management-the-seven-ps-of-the-marketing-mix/). Test yourself with the [practice questions](/resources/ib-dp-business-management-the-seven-ps-of-the-marketing-mix-practice/), and see the wider unit in the [Unit 4 revision notes](/resources/ib-dp-business-management-marketing-revision-notes/). Course hub: [IB DP Business Management](/boards/ib/ib-dp/business/). Checklist: [syllabus checklist](/checklists/ib/ib-dp/business/). Not sure where to start? Try the [free diagnostics](/diagnostics/).

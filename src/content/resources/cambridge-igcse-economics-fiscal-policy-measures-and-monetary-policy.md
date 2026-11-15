@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the Cambridge IGCSE Economics 0455 syllabus for examination in 2026, version 2. It covers sections 4.3.7 to 4.3.9 (the second half of fiscal policy) and 4.4.1 to 4.4.3 (monetary policy). The first half of fiscal policy, 4.3.1 to 4.3.6 on the budget, spending and taxes, is taught separately and is not repeated here. The syllabus is not tiered, and it notes that aggregate demand and aggregate supply are not required for 4.3.9. Every country, firm and figure below is invented and illustrative.

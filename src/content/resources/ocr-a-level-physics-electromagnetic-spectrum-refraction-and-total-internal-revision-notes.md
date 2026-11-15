@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 Condensed recall for the final weeks. For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal/). These notes follow the OCR Advanced GCE in Physics A (H556) specification, Version 3.0 (March 2026), section 4.4.2 Electromagnetic waves, statements (a) to (e). Related pages: [practice questions](/resources/ocr-a-level-physics-electromagnetic-spectrum-refraction-and-total-internal-practice/), the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

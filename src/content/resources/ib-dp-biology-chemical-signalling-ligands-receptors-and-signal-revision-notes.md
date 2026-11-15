@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense topic C2.1, Chemical signalling, statements C2.1.1 to C2.1.14, from the IB Diploma Programme *Biology guide*, first assessment 2025. All of C2.1 is **HL only**; the guide has no SL content here. For full explanations and worked examples use the [study guide](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal/), then try the [practice questions](/resources/ib-dp-biology-chemical-signalling-ligands-receptors-and-signal-practice/). Course pages: [IB DP Biology hub](/boards/ib/ib-dp/biology/), [printable checklist](/checklists/ib/ib-dp/biology/) and [free 10-minute diagnostics](/diagnostics/).

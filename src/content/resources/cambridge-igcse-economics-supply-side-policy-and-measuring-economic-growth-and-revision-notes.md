@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 4.5 and 4.6.1 to 4.6.3 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (supply-side policy, measuring growth, recession). Full explanations and worked examples are in the [study guide](/resources/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and/). Test yourself with the [practice questions](/resources/cambridge-igcse-economics-supply-side-policy-and-measuring-economic-growth-and-practice/). Other links: the [Cambridge IGCSE Economics hub](/boards/cambridge/igcse/economics/), the [printable checklist](/checklists/cambridge/igcse/economics/) and the [free diagnostics](/diagnostics/). All figures are invented.

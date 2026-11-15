@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "ammar-bilal"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: description now names board and code; FAQ added with syllabus word limits and marking. Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series; 2026-11-08: reviewed by ammar-bilal."
+reviewNote: "2026-11-08 recheck: description now names board and code; FAQ added with syllabus word limits and marking. Check the number of assignments, the permitted word limits, any rules about text choice and genre, the mark total, and the teacher's allowed level of support for the 2026 series; 2026-11-08: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

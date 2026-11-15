@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.4.7 (Infection and response, parts a to j) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. The qualification is untiered, so every candidate meets all of it. It includes the required practical on disinfectants and antibiotics. Use it with the [revision notes](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-biology-infection-immunity-vaccination-and-antibiotics-practice/). The course hub is [OxfordAQA IGCSE Biology](/boards/oxfordaqa/igcse/biology/) and the printable list is the [checklist](/checklists/oxfordaqa/igcse/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/).

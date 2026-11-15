@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 A natural hazard becomes a disaster when it meets vulnerable people. The same earthquake can cause modest damage in a country with strict building rules and great loss of life in a place without them, so this topic is as much about preparation and management as it is about physical processes. You need to explain why each hazard happens, what its primary and secondary effects are, and how people reduce the risk.

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 1.1 (Business activity) and 1.2 (Economic sectors) of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029. These are the first two subtopics of topic 1, Understanding business activity. The syllabus does not split the content into tiers, so everything here is for every candidate. For quick recall use the [revision notes](/resources/igcse-business-0264-business-activity-and-economic-sectors-revision-notes/), then test yourself with the [practice questions](/resources/igcse-business-0264-business-activity-and-economic-sectors-practice/). The course home is the [Cambridge IGCSE Business hub](/boards/cambridge/igcse/business/), and you can tick off what you have covered on the [printable checklist](/checklists/cambridge/igcse/business/). If you are not sure where to start, the [free diagnostics](/diagnostics/) show which topics need work.

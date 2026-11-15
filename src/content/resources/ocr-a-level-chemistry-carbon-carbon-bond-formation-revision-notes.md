@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 6.2.4, Carbon–carbon bond formation, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. Outcomes 6.2.4(a) to (d) are all here in condensed form; they belong to the Organic chemistry and analysis module (Module 6). The whole of H432 is one A level, and Module 6 is examined on Synthesis and analytical techniques (02), while Unified chemistry (03) can draw on it too because that paper spans every module. For full explanations and five worked examples, use the [study guide](/resources/ocr-a-level-chemistry-carbon-carbon-bond-formation/).

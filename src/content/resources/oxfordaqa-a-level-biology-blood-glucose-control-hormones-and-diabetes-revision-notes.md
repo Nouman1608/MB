@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.4.7 of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1: 3.4.7.1 to 3.4.7.4. For full explanations and worked examples, use the [study guide](/resources/oxfordaqa-a-level-biology-blood-glucose-control-hormones-and-diabetes/). When the notes feel secure, try the [practice questions](/resources/oxfordaqa-a-level-biology-blood-glucose-control-hormones-and-diabetes-practice/). The course hub is [OxfordAQA A-level Biology](/boards/oxfordaqa/a-level/biology/), the printable list is the [checklist](/checklists/oxfordaqa/a-level/biology/), and the [free diagnostics](/diagnostics/) show which topics need most work.

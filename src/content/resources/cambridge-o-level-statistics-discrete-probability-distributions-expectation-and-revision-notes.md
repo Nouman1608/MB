@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 These are condensed notes for topic 12 of the Cambridge O Level Statistics 4040 syllabus for examination in 2025, 2026 and 2027: section 12.1 (probability distribution of a discrete variable) and section 12.2 (expectation, expected profit and loss in simple games, fair games). For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and/). Then try the [practice questions](/resources/cambridge-o-level-statistics-discrete-probability-distributions-expectation-and-practice/).
 

@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 16 System Software takes the AS ideas about operating systems and translators to A Level depth. You need to explain how an operating system shares the processor and memory between processes (process states, scheduling routines, interrupts, virtual memory, paging and segmentation), and how translation software works (interpreters, the stages of compilation, BNF and syntax diagrams, and Reverse Polish Notation). In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 3.

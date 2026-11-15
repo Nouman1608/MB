@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches Topic 19, Relationships of organisms with one another and with the environment, for Cambridge O Level Biology 5090. It is aligned to the Cambridge O Level Biology 5090 syllabus for examination in 2026, 2027 and 2028 (version 4), and covers every learning outcome in sections 19.1 Energy flow, 19.2 Nutrient cycles, 19.3 Ecosystems and biodiversity, 19.4 Effects of humans on ecosystems and 19.5 Conservation. The 5090 syllabus is not tiered, so every candidate studies all of it.

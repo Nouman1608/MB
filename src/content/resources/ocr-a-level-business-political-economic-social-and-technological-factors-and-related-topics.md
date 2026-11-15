@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide is aligned to the OCR A Level Business (H431) specification, Version 2.1 (January 2026), first assessment 2017, final assessment summer 2027. It covers the external influences content on political, economic, social and technological factors, the digital revolution, and ethical, legal and environmental factors (sections 2.5 and 2.6 of our unit plan). It includes the consequences of ignoring external factors.

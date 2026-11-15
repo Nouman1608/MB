@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Condensed notes for the Risk and uncertainty and Opportunity cost content (numbered 1.7 and 1.8 on this site; the specification itself does not number them) of the OCR A Level Business specification (H431, Version 2.1, January 2026). For full explanations and worked examples, use the [study guide](/resources/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost/). Test yourself with the [practice questions](/resources/ocr-a-level-business-risk-and-uncertainty-and-opportunity-cost-practice/). For the wider area see the [area revision notes](/resources/a-business-strategy-revision-notes/). Course pages: the [OCR A Level Business hub](/boards/ocr/a-level/business/) and the [checklist](/checklists/ocr/a-level/business/). To find weak spots first, take a [free 10-minute diagnostic](/diagnostics/).

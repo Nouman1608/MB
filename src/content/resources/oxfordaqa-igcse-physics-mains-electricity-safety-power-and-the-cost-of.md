@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers sections 3.6.3 (Using electricity in the home) and 3.6.5 (Transferring electrical energy) of the OxfordAQA International GCSE Physics (9203) specification, for exams from May/June 2018. The qualification is untiered and neither section carries a tier marking. Use it with the [revision notes](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-physics-mains-electricity-safety-power-and-the-cost-of-practice/). The [course hub](/boards/oxfordaqa/igcse/physics/), the [printable checklist](/checklists/oxfordaqa/igcse/physics/) and the [free diagnostics](/diagnostics/) sit alongside it. For earlier energy ideas, see [Energy](/resources/igcse-oxfordaqa-physics-energy/).
 

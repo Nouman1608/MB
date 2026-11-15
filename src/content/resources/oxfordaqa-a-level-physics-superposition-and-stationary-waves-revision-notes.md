@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5.5 (Principle of superposition of waves and formation of stationary waves) of the OxfordAQA International AS and A-level Physics (9630) specification, Version 4.4. It is shared International AS and A-level content. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves/). Test yourself with the [practice questions](/resources/oxfordaqa-a-level-physics-superposition-and-stationary-waves-practice/), use the [course hub](/boards/oxfordaqa/a-level/physics/) and tick points off the [printable checklist](/checklists/oxfordaqa/a-level/physics/). Not sure what to revise first? Take a [free diagnostic](/diagnostics/).

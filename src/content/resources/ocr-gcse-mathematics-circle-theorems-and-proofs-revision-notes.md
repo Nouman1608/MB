@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 8.05 (Circles) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). The terms in 8.05a are for both tiers. The theorems 8.05b to 8.05h are in the Higher tier column only, so they are marked **Higher tier only** here. For full explanations and every proof in detail, read the [study guide](/resources/ocr-gcse-mathematics-circle-theorems-and-proofs/).

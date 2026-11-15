@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes cover **Structure 1.1, Introduction to the particulate nature of matter**, for IB Diploma Programme Chemistry. They follow the IB's Diploma Programme *Chemistry guide* (published February 2023, for first assessment in 2025), understandings Structure 1.1.1 to Structure 1.1.3. Everything here is for SL and HL; the guide has no additional higher level content for this sub-topic. For full explanations and worked examples, use the [Structure 1.1 study guide](/resources/ib-dp-chemistry-introduction-to-the-particulate-nature-of-matter/).

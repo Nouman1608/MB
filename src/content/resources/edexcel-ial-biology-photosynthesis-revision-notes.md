@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These are condensed notes for the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2, statements 5.1 to 5.8 of Topic 5, including Core Practical 10. Topics 5 to 8 are International A2 (IA2), so this is A2 content, with no tiers. For full explanations use the [study guide](/resources/edexcel-ial-biology-photosynthesis/), then test yourself with the [practice questions](/resources/edexcel-ial-biology-photosynthesis-practice/). See also the [course hub](/boards/edexcel/a-level/biology/), the [checklist](/checklists/edexcel/a-level/biology/) and the [free diagnostics](/diagnostics/).

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.2 Particles and radiation of the AQA AS and A-level Physics (7407/7408) specification, version 1.4 (AS and A-level exams June 2016 onwards). It covers 3.2.1 Particles and 3.2.2 Electromagnetic radiation and quantum phenomena, every numbered sub-section. Section 3.2 is AS and A-level content: at A-level it is examined in Paper 1 (sections 1-5 and 6.1) and assumed in Paper 2. Sections 3.9-3.13 are options -- you study one, assessed in Paper 3 Section B -- but this topic is compulsory for everyone.

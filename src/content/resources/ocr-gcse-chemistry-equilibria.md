@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by farhat-ul-ain-sehgal."
+reviewNote: "2026-11-08: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 ---
 
 This guide teaches **C5.3 Equilibria**, part of Topic C5 (Monitoring and controlling chemical reactions) in the J248 specification for OCR GCSE (9–1) Chemistry A (Gateway Science), Version 4.0, August 2026. It covers learning outcomes C5.3a to C5.3c and the mathematical learning outcomes CM5.3i to CM5.3iv. Outcomes C5.3a and C5.3b are assessed at both tiers. Outcome C5.3c, predicting how conditions move the position of equilibrium, is **Higher Tier only**. The specification's assessment overview puts Topic C5 on Paper 2 (Foundation) and Paper 4 (Higher).

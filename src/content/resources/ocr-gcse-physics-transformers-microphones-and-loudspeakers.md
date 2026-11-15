@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers statements P4.2g to P4.2j of topic P4.2, Uses of magnetism, in the OCR GCSE (9-1) Gateway Science Physics A (J249) specification, Version 5.0 (July 2026). It teaches how a transformer works, how its potential differences relate to its turns, and how microphones, loudspeakers and headphones turn sound into current and back again. **All four statements are in bold in the specification, so they are tested only in the Higher Tier papers.** Foundation Tier candidates do not need this page.

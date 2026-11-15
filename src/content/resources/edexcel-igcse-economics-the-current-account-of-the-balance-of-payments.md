@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the current account of the balance of payments, which is statement 2.1.1 d) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3. This is Paper 2 material and supports the objective of a surplus or balance on the current account. There are no tiers. All the countries, firms and numbers used are made up as illustrations.

@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.9 of the AQA AS and A-level Business specification (7132), "Strategic methods: how to pursue strategies". The specification marks this section as A-level only. It has four parts: change in scale, innovation, internationalisation and digital technology. Use it with the [A-level Business hub](/boards/aqa/a-level/business/), the [printable checklist](/checklists/aqa/a-level/business/), the [revision notes](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies-revision-notes/) and the [practice questions](/resources/aqa-a-level-business-strategic-methods-how-to-pursue-strategies-practice/). To find weak spots first, try the [free diagnostics](/diagnostics/).

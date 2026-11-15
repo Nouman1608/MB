@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide covers congruence for the OCR GCSE (9-1) Mathematics specification (J560), Version 2.1 (August 2026). It follows content references 9.02a and 9.02b, which sit in content area 9, Congruence and similarity. The content applies to both Foundation tier and Higher tier, and nothing in this unit is marked Higher tier only. The specification expects you to support answers with appropriate working, and some questions ask for an extended line of reasoning, so proofs are written out in full.
 

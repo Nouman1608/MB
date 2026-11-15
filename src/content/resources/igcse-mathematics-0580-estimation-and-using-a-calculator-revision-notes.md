@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense **1.9 Estimation** and **1.14 Using a calculator** from Topic 1 Number of the Cambridge IGCSE Mathematics 0580 syllabus for 2025, 2026 and 2027. The Core (C1.9, C1.14) and Extended (E1.9, E1.14) statements are identical, so every line here is for both tiers; nothing is Extended only. For full explanations and longer worked examples, use the [estimation and calculator study guide](/resources/igcse-mathematics-0580-estimation-and-using-a-calculator/).

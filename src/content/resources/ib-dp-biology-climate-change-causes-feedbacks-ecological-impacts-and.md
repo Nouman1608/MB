@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide covers IB Diploma Programme Biology, section D4.3 (Climate change), as set out in the IB *Biology guide* for first assessment in 2025. Statements D4.3.1 to D4.3.8 are for both SL and HL. Statements D4.3.9 to D4.3.12 are additional higher level, so they are **HL only**. Use it with the [revision notes](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and-revision-notes/) and the [practice questions](/resources/ib-dp-biology-climate-change-causes-feedbacks-ecological-impacts-and-practice/). See also the [IB DP Biology hub](/boards/ib/ib-dp/biology/), the [checklist](/checklists/ib/ib-dp/biology/) and the [free diagnostics](/diagnostics/).

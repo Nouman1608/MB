@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide follows the OCR GCSE (9-1) Economics specification (J205), Version 2.0 (June 2026), sections 4.1 and 4.2 of "International trade and the global economy". The qualification has no tiers, so all of this applies to every candidate. All figures in worked examples are invented and illustrative; none are real statistics.
 

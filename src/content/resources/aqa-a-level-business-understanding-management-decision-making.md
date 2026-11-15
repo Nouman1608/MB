@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches section 3.2.2, *Understanding management decision making*, from the AQA AS and A-level Business specification (7132, A-level). It follows the wording of the specification's subject content. It is part of the topic *Managers, leadership and decision making*, which also covers leadership styles and stakeholders. All businesses and figures below are invented.

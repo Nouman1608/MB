@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 1.1.1 and 1.1.2 of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026, a single-tier qualification. For full explanations read the [study guide](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic/), then test yourself with the [practice questions](/resources/edexcel-igcse-economics-scarcity-opportunity-cost-the-ppf-and-economic-practice/). Other links: the [course hub](/boards/edexcel/igcse/economics/), the [checklist](/checklists/edexcel/igcse/economics/), the [market system revision notes](/resources/igcse-edexcel-economics-market-system-revision-notes/) and the [free diagnostics](/diagnostics/). Every figure on this page is invented and illustrative.

@@ -33,7 +33,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 10 Data Types and Structures covers choosing data types, grouping data in records and arrays, keeping data in text files, and the stack, queue and linked list abstract data types (ADTs). In Cambridge International AS & A Level Computer Science 9618 it is examined in Paper 2, where you write pseudocode for records, arrays, a bubble sort, a linear search and text-file handling, and show how ADTs are stored in arrays.

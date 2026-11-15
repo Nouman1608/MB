@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Full explanations and longer worked examples are in the [Percentages, ratio and proportion study guide](/resources/edexcel-igcse-maths-4ma1-percentages-ratio-and-proportion/). These notes are for the final weeks.

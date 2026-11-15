@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches IB Diploma Programme Biology topic B1.2 (Proteins) in depth. It follows the IB *Biology guide*, first assessment 2025. Statements B1.2.1 to B1.2.5 are SL and HL. Statements B1.2.6 to B1.2.12 are additional higher level and are marked "HL only".

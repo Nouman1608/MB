@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers part of **P8.2 Powering Earth** in the OCR GCSE (9-1) Physics A (Gateway Science) specification (J249, Version 5.0, July 2026, first assessment in 2018): statements P8.2a, P8.2b and P8.2g to P8.2j. None of these statements is in bold, so all of them can be tested in both the Foundation and Higher Tier papers. The national grid and transformers (P8.2c to P8.2f) are taught on separate pages.

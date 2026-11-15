@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers two pieces of content in the area of study Business objectives and strategy in the OCR A Level Business (H431) specification, Version 2.1 (January 2026): Ansoff's matrix and Conflicts in business decision making. Both sit in the unit Business objectives and strategic decisions. It sits beside the wider [Objectives and Strategic Decisions study guide](/resources/ocr-a-level-business-objectives-and-strategic-decisions/), which gives a short overview, and goes deeper on these two points.

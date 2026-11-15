@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches Topic 8A: Redox chemistry from the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Chemistry specification (YCH11), Issue 1, September 2017. It covers learning outcomes 8.1 to 8.10. This is International AS content, examined in the IAS unit called Unit 2: Energetics, Group Chemistry, Halogenoalkanes and Alcohols. The rest of Topic 8 (Groups 1, 2 and 7) uses these ideas constantly, so learn this part first.

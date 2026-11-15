@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 4.4 Market research of the IB *Business management guide*, first assessment 2024. All of 4.4 is SL and HL content; none of it is marked HL only. It sits inside Unit 4: Marketing, so read it alongside the wider [Unit 4 study guide](/resources/ib-dp-business-management-marketing/). The companion pages are the [revision notes](/resources/ib-dp-business-management-market-research-revision-notes/) and the [practice questions](/resources/ib-dp-business-management-market-research-practice/). Course pages: the [Business Management hub](/boards/ib/ib-dp/business/) and the [printable checklist](/checklists/ib/ib-dp/business/). To find out which topics need most work, try the [free diagnostics](/diagnostics/).

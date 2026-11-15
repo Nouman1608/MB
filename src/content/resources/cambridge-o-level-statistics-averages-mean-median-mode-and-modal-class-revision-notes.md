@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense section 5.1 of the Cambridge O Level Statistics (4040) syllabus for examination in 2025, 2026 and 2027: the mean, median, mode and modal class, calculated or estimated from a set of numbers, an ungrouped frequency distribution or a grouped frequency distribution, and the choice of the appropriate average. Full explanations and longer worked examples are in the [study guide](/resources/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class/). For exam-style questions, use the [practice questions](/resources/cambridge-o-level-statistics-averages-mean-median-mode-and-modal-class-practice/).

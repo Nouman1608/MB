@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.5 of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026): 3.5.1 Newton's laws of motion and 3.5.2 Collisions. For fuller explanations, read the [study guide](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions/). To test yourself, try the [practice questions](/resources/ocr-a-level-physics-newtons-laws-momentum-impulse-and-collisions-practice/). Two-dimensional collision problems are assessed at A level only. See also the [OCR A Level Physics hub](/boards/ocr/a-level/physics/), the [printable checklist](/checklists/ocr/a-level/physics/) and the [free 10-minute diagnostics](/diagnostics/).

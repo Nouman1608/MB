@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense statements 7.1 to 7.8 of Topic 7 (aerobic and anaerobic respiration, including Core Practicals 15 and 16) of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Biology specification (YBI11), Issue 2. Topics 1 to 4 are International AS (IAS) and Topics 5 to 8 are International A2 (IA2); this is A2 content and there are no tiers. Read the [study guide](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration/) for full explanations and test yourself with the [practice questions](/resources/edexcel-ial-biology-aerobic-and-anaerobic-respiration-practice/). The [course hub](/boards/edexcel/a-level/biology/), [checklist](/checklists/edexcel/a-level/biology/) and [free diagnostics](/diagnostics/) cover the rest. For the structure of the mitochondrion, see [cell ultrastructure and microscopy](/resources/edexcel-ial-biology-cell-ultrastructure-and-microscopy/).

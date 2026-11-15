@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide covers section 3.1.5, Oxidation, reduction and redox equations (subsection 3.1.5.1), of the OxfordAQA International AS and A-level Chemistry (9620) specification, Version 5.3, for International AS and A-level exams May/June 2020 onwards. The specification labels the whole of 3.1.5 as International AS content, so it is also part of the full International A-level; nothing here is "International A-level only". It sits in the content for Unit 1: Inorganic 1 and Physical 1, and Unit 5: Practical and synoptic can assess all content. The section lists no practical activity.

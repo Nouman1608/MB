@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Use these notes to revise topic 3.5, Firms, from the Cambridge O Level Economics 2281 syllabus for examination in 2026 (version 2), covering 3.5.1 to 3.5.5. For full explanations and longer worked examples, read the [study guide](/resources/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and/) first. Then try the [practice questions](/resources/cambridge-o-level-economics-firms-classification-small-firms-growth-mergers-and-practice/).

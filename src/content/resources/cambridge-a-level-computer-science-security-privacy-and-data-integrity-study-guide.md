@@ -24,7 +24,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: fixed a broken sentence fragment in the countermeasures list; aligned threats and measures to syllabus 6.1 (added integrity definition, digital signatures, anti-spyware; worms/trojans/ransomware/DoS no longer taught as required); please re-review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08 recheck: fixed a broken sentence fragment in the countermeasures list; aligned threats and measures to syllabus 6.1 (added integrity definition, digital signatures, anti-spyware; worms/trojans/ransomware/DoS no longer taught as required); please re-review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

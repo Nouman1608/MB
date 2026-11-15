@@ -46,7 +46,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 ---
 
 Law of contract is section 3.4 of AQA A-level Law (7162). It is one of two options for Paper 3 (2 hours,

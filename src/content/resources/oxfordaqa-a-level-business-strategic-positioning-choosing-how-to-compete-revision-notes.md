@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.4.2, Strategic positioning: Choosing how to compete, in the 9725 specification for OxfordAQA International AS and A-level Business, Version 1.1 (International AS exams May/June 2027 onwards, International A-level exams May/June 2028 onwards). Every point here is **International A-level only**; Unit 4: Business strategy is the paper that examines it. They are written for 9725; anyone completing the older 9625 course should revise from their own specification. Start with the [study guide](/resources/oxfordaqa-a-level-business-strategic-positioning-choosing-how-to-compete/), which explains each point in full with worked examples.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 1.2.3, Business costs, revenues and profit, of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It sits in the Microeconomics and Business Economics theme. The specification has one tier of entry, so nothing here is reserved for one group. Every firm and number below is made up for illustration, with money shown as plain amounts and no currency sign.

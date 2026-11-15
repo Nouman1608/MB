@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 1.3.3 (Supply), items 1 and 2, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Section 1.3.3 sits in Unit 1, Markets in action. The specification labels Unit 1 as an International Advanced Subsidiary (IAS) unit, and its content also counts towards the full International Advanced Level. The extra content for the full qualification is called International A2 (IA2) in the specification.

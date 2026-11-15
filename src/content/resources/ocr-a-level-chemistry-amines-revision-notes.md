@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense section 6.2.1, Amines, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover every learning outcome, 6.2.1(a), (b)(i) and (b)(ii), in Module 6, Organic chemistry and analysis. H432 is the full A level, and the specification states that Module 6 is assessed in components 02 and 03. The [Amines study guide](/resources/ocr-a-level-chemistry-amines/) has the full explanations and longer worked examples.

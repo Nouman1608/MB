@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.3 Program design (3.3.1 to 3.3.4) of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1, for International AS exams May/June 2025 onwards and International A-level exams May/June 2026 onwards. All of it is AS content, also needed for the full International A-level. For full explanations and worked examples, use the [program design study guide](/resources/oxfordaqa-a-level-computer-science-program-design/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-computer-science-program-design-practice/).

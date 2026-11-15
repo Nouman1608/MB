@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense statements P5.1a to P5.1e, P5.1j and P5.1k of OCR GCSE (9-1) Gateway Science Physics A (J249, Version 5.0, July 2026), topic P5.1 Wave behaviour. None of these statements is in bold in the specification, so Foundation and Higher Tier candidates both need all of them. For full explanations go to the [study guide](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves/), and test yourself with the [practice set](/resources/ocr-gcse-physics-wave-properties-transverse-and-longitudinal-waves-practice/). Course pages: the [OCR GCSE Physics hub](/boards/ocr/gcse/physics/) and the [checklist](/checklists/ocr/gcse/physics/). Not sure what to revise first? Use the [free 10-minute diagnostics](/diagnostics/).

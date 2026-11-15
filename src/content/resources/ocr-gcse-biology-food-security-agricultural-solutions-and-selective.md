@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide follows the OCR *GCSE (9-1) Gateway Science Biology A* specification (J247), Version 4.0 (August 2026), for first assessment in 2018. It covers outcomes B6.2a, B6.2b and B6.2c from topic B6.2, Feeding the human race. The specification marks none of these statements in bold, so none is labelled Higher Tier only. Genetic engineering and gene technology are taught on a separate page, so they are left out here. Revise with the [revision notes](/resources/ocr-gcse-biology-food-security-agricultural-solutions-and-selective-revision-notes/), then try the [practice questions](/resources/ocr-gcse-biology-food-security-agricultural-solutions-and-selective-practice/). Course links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [printable checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/).

@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide teaches sections **1.8 (Degree of accuracy)** and **1.9 (Standard form)** of Topic 1, Numbers and the number system, in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Both sections appear on the Foundation and Higher tiers. The Higher tier adds two statements, solving problems with bounds (1.8A) and solving problems involving standard form (1.9A); these are labelled **Higher tier only** below. Higher tier papers assume all Foundation content, so Higher candidates need every section on this page.

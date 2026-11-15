@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense the standard level and higher level understandings of D.2, Electric and magnetic fields, from the IB *Physics guide* (first assessment 2025). The higher level potential content is covered in a separate unit. For full explanations read the [study guide](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic/), then try the [practice questions](/resources/ib-dp-physics-electric-charge-coulombs-law-electric-and-magnetic-practice/). Check what you already know with the [free 10-minute diagnostics](/diagnostics/).

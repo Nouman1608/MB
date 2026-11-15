@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide teaches topic 3, Coordinate geometry, from the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 3.1 to 3.7. There are no tiers: every candidate studies all of it. The syllabus says Paper 1 is a non-calculator paper and Paper 2 is a calculator paper, and each paper is based on the subject content, so you need to handle every skill here both with and without a calculator.
 

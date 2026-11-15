@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 All figures here are invented and illustrative. These notes condense the OCR A Level Economics (H460) specification, Version 3.0 (June 2026), first assessment 2021: the topics "Labour market issues and themes" and "Government intervention" in Component 1, Microeconomics. The whole specification is A Level. For full explanations read the [study guide](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government/), then test yourself with the [practice questions](/resources/ocr-a-level-economics-labour-market-issues-inequality-and-government-practice/).

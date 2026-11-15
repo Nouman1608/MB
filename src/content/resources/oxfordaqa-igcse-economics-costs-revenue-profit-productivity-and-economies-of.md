@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.1.4 (Production, costs, revenue and profit) of Topic 1, How markets work, in the OxfordAQA International GCSE Economics (9214) specification, first examined May/June 2025. It teaches 3.1.4.1 (cost, revenue and profit), 3.1.4.2 (production and productivity) and 3.1.4.3 (economies of scale). The course is not tiered. All the firms, markets and numbers that follow are made up, and money is counted in an unnamed currency unit.

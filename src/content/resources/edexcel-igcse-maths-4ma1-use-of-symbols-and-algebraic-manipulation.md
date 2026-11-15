@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide teaches sections **2.1 Use of symbols** and **2.2 Algebraic manipulation** from Topic 2, Equations, formulae and identities, of the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on that specification. 4MA1 is tiered: Foundation papers 1F and 2F, Higher papers 1H and 2H, each 2 hours and 100 marks, and a calculator may be used on all of them. Both tiers have content under 2.1 and 2.2; the extra Higher Tier statements are labelled **Higher tier only** below, and Higher questions assume all the Foundation content.

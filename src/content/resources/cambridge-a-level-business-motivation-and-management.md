@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers sections 2.2 Motivation and 2.3 Management of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. Both are AS Level content, so they are examined on Paper 1 and Paper 2 and are assumed knowledge for the A Level papers. The wider topic, including recruitment and training, is in the [Human resource management study guide](/resources/a-level-business-human-resource-management/). Condensed recall is in the [revision notes](/resources/cambridge-a-level-business-motivation-and-management-revision-notes/) and the [earlier HRM revision notes](/resources/a-level-business-hrm-revision-notes/). Test yourself with the [practice questions](/resources/cambridge-a-level-business-motivation-and-management-practice/) and the [wider HRM practice set](/resources/a-level-business-hrm-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/).
 

@@ -31,7 +31,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-15: reviewed by azam-siddique."
+reviewNote: "2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Extreme environments is one of the teacher-selected options in the geographic themes part of IB Diploma Programme Geography. It asks why some places are harsh for people, how their physical processes create distinctive landscapes, how people live in and manage them, and how they may change. Confirm with your teacher that this option is taught in your school. The [IB DP Geography syllabus guide](/resources/ib-dp-geography-syllabus-guide/) explains how options relate to the core, and the [Global Climate core guide](/resources/ib-dp-geography-global-climate/) gives context for the climate change material that appears throughout this option.

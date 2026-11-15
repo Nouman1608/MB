@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.3.3 (Market structures and contestability), items 1 to 3, of the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics (YEC11) specification, Issue 2, June 2018. Unit 3, Business behaviour, is labelled IA2 and is compulsory for the full International Advanced Level only. Units 1 and 2 are the International Advanced Subsidiary units.

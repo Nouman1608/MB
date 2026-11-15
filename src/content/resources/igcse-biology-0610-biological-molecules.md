@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches topic 4, Biological molecules (sub-topic 4.1), of the Cambridge IGCSE Biology 0610 syllabus for examination in 2026, 2027 and 2028. Learning outcomes 1 to 3 are Core, so every candidate needs them. Outcome 4, the structure of DNA, is Supplement content, so it is **Extended only**. Core content is tested on Papers 1 and 3, Core and Supplement content on Papers 2 and 4, and food tests are one of the listed experimental contexts for the practical papers (Paper 5 or Paper 6).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense content statement B6 of the AQA A-level Mathematics 7357 specification (version 1.3, 31 January 2018): polynomial manipulation, algebraic division by linear expressions, the factor theorem and rational expressions. For full explanations and longer worked examples, read the [study guide](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the/). When you are ready to test yourself, use the [practice questions](/resources/aqa-a-level-mathematics-polynomial-manipulation-algebraic-division-and-the-practice/), the [course hub](/boards/aqa/a-level/mathematics/), the [checklist](/checklists/aqa/a-level/mathematics/) and the [free 10-minute diagnostics](/diagnostics/).

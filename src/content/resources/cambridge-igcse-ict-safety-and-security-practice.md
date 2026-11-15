@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover all of Cambridge IGCSE ICT 0417 Topic 8: physical safety (8.1), eSafety and data protection (8.2), and threats to data and methods of protecting it (8.3). They are written for Paper 1 Theory, where each answer must be linked to the context in the question.

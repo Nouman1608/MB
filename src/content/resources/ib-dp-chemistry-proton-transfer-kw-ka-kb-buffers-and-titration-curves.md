@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This page teaches the higher level half of Reactivity 3.1, "Proton transfer reactions", for IB DP Chemistry. Its numbering follows the *Diploma Programme Chemistry guide* (February 2023, first assessment 2025), and it works through understandings Reactivity 3.1.9 to 3.1.17 with examples. The guide lists every one of these under additional higher level (AHL), so the entire page is **HL only**. It applies to examinations from 2025 onwards.

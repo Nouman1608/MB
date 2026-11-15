@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.6, Decision making to improve human resource performance, of the AQA A-level Business specification (7132). It follows the official text point by point. All businesses and figures are invented. Related reading: [managers, leadership and decision making](/resources/aqa-a-level-business-managers-leadership-decision-making/). Course hub: [AQA A-level Business](/boards/aqa/a-level/business/). Printable list: [checklist](/checklists/aqa/a-level/business/). Pair it with the [revision notes](/resources/aqa-a-level-business-human-resource-management-revision-notes/) and the [practice questions](/resources/aqa-a-level-business-human-resource-management-practice/), and see where you stand with the [free diagnostics](/diagnostics/).

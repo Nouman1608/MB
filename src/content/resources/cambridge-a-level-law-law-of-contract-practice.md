@@ -32,7 +32,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by aizaz-raoof-ali."
+reviewNote: "2026-11-08: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 ---
 
 These practice questions cover all of Topic 3 Law of contract in Cambridge International A Level Law

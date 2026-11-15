@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-09-27
 featured: false
-reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: FAQ section added; please re-review; previously reviewed by sajawal-zahid on 2026-09-29; 2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes cover Topic 3, **Ratio, proportion and rates of change** (references R1–R16), of the AQA GCSE Mathematics (8300) specification, Version 1.0, for exams in May/June 2017 onwards and every May/June and November series after that. Most of this topic is on both the Foundation and Higher tiers. Statements the specification places in its "Higher content only" column are marked **Higher tier only** below. Any of it can appear on Paper 1 (non-calculator) or on Papers 2 and 3 (calculator).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These notes condense Unit S1 sections 3 and 4 (topics 3.1 to 3.4 and 4.1 to 4.3) from Pearson's International Advanced Subsidiary/Advanced Level specification (YMA01), Issue 3, April 2019, for Mathematics, Further Mathematics and Pure Mathematics. Per the specification, Unit S1 is optional, both for IAS and for IAL, in Mathematics and in Further Mathematics.

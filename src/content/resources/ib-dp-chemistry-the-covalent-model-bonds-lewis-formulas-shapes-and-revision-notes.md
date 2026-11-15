@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Use these notes for fast recall of Structure 2.2.1 to 2.2.10, the first block of the covalent model in the IB's February 2023 *Chemistry guide*, which applies to Diploma Programme courses first assessed in 2025. Both SL and HL candidates need all of it, apart from transition element complexes, which are HL only. The full teaching, with worked examples, is in the [Structure 2.2 study guide](/resources/ib-dp-chemistry-the-covalent-model-bonds-lewis-formulas-shapes-and/).

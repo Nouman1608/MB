@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 For full explanations and worked examples, use the [inequalities study guide](/resources/edexcel-igcse-maths-4ma1-inequalities/). These notes condense section **2.8 Inequalities** of Topic 2 in the Pearson Edexcel International GCSE Mathematics A (4MA1) specification, Issue 2 (November 2017), for the January and June series examined on it. Foundation statements 2.8A–E are needed on both tiers. Higher statements 2.8A (quadratic inequalities) and 2.8B (harder regions) are **Higher tier only**. A calculator may be used on every paper.

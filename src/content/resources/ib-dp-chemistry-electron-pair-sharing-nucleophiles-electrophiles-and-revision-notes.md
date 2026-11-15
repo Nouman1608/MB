@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes boil down Reactivity 3.4.1 to 3.4.5 from the IB DP *Chemistry guide* (issued in February 2023; first assessment 2025), so they suit any session from 2025 on. All five understandings are **SL and HL**. The longer explanations live in the [study guide](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and/), and original exam-style questions with marked answers are in the [practice set](/resources/ib-dp-chemistry-electron-pair-sharing-nucleophiles-electrophiles-and-practice/).

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This guide follows the *OxfordAQA International AS and A-level Mathematics (9660) specification, Version 5.2*, sections P2.3 (the parametric part of coordinate geometry) and P2.5 (exponentials and logarithms). This content sits in Unit P2 (Pure Maths), which is part of the International A-level, and no International AS unit examines it. The specification applies to International AS exams from May/June 2018 and International A-level exams from May/June 2019.

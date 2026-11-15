@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "salman-ahmad"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 4.1-4.2 (functions and methods of transport, choice factors, containerisation, warehousing functions, types and automation); removed stock control and reorder levels, which the syllabus does not include; please review; 2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08 recheck: rewritten against the syllabus subject content 4.1-4.2 (functions and methods of transport, choice factors, containerisation, warehousing functions, types and automation); removed stock control and reorder levels, which the syllabus does not include; please review; 2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

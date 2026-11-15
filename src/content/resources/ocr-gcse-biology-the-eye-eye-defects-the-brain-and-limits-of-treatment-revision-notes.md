@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These notes condense statements B3.1d to B3.1h of the OCR *GCSE (9-1) Gateway Science Biology A (J247)* specification, Version 4.0 (August 2026), for first assessment in 2018. For full explanations and worked examples, read the [study guide](/resources/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment/). When you are ready, try the [practice questions](/resources/ocr-gcse-biology-the-eye-eye-defects-the-brain-and-limits-of-treatment-practice/), tick off the [checklist](/checklists/ocr/gcse/biology/), see the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and take a [free diagnostic](/diagnostics/). Statements B3.1g and B3.1h are bold in the specification, so they are Higher Tier only.

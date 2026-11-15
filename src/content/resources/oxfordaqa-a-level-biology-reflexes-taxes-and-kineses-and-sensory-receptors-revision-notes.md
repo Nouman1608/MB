@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Condensed recall for sections 3.4.1, 3.4.2.1 and 3.4.2.2 of the OxfordAQA International AS and A-level Biology (9610) specification, Version 5.1. Unit 4 is International A-level only. For full explanations, use the [study guide](/resources/oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors/). Then practise with the [practice questions](/resources/oxfordaqa-a-level-biology-reflexes-taxes-and-kineses-and-sensory-receptors-practice/), tick off topics on the [checklist](/checklists/oxfordaqa/a-level/biology/), find your course on the [hub](/boards/oxfordaqa/a-level/biology/), and try the [free diagnostics](/diagnostics/).

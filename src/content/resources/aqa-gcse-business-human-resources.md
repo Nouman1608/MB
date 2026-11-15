@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers topic 3.4 Human resources from the AQA GCSE Business (8132) specification, for first teaching from September 2017. The specification places it in Paper 1, "Influences of operations and HRM on business activity". It covers all four sections: organisational structures, recruitment and selection, motivating employees, and training. For revision, use the [revision notes](/resources/aqa-gcse-business-human-resources-revision-notes/), then try the [practice questions](/resources/aqa-gcse-business-human-resources-practice/). Operations is the other half of Paper 1: see [Business operations](/resources/aqa-gcse-business-business-operations/). The course hub is at [/boards/aqa/gcse/business/](/boards/aqa/gcse/business/) and the printable checklist is at [/checklists/aqa/gcse/business/](/checklists/aqa/gcse/business/). To find your weak spots first, try the free [diagnostics](/diagnostics/).

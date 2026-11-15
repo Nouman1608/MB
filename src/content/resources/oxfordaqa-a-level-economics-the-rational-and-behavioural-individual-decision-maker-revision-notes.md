@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.3.1.1 and 3.3.1.2 of the OxfordAQA *International AS and A-level Economics* specification (9640, version 1.2). Section 3.3 is extra International A2 content, beyond the International AS. For full explanations use the [study guide](/resources/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker/), then test yourself with the [practice questions](/resources/oxfordaqa-a-level-economics-the-rational-and-behavioural-individual-decision-maker-practice/). Other links: [course hub](/boards/oxfordaqa/a-level/economics/), [checklist](/checklists/oxfordaqa/a-level/economics/), [diagnostics](/diagnostics/) and the [demand and elasticity notes](/resources/oxfordaqa-a-level-economics-demand-and-the-elasticities-of-demand-revision-notes/).

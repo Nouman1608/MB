@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense sections 3.1.1, 3.1.2 and 3.2.1 of the Cambridge O Level Economics 2281 syllabus for examination in 2026 (topic 3, Microeconomic decision makers). The syllabus is not tiered. Full explanations are in the [study guide](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and/). Test yourself with the [practice set](/resources/cambridge-o-level-economics-money-banking-and-household-spending-saving-and-practice/), check coverage on the [printable checklist](/checklists/cambridge/o-level/economics/) and find the course on the [hub](/boards/cambridge/o-level/economics/). The wider topic notes are in the [Microeconomic decision makers revision notes](/resources/economics-microeconomic-decision-makers-revision-notes/). For a quick check of your level, try the free [10-minute diagnostics](/diagnostics/).

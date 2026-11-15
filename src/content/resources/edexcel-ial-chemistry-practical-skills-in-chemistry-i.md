@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This guide teaches Unit 3: Practical Skills in Chemistry I, as set out in the YCH11 specification from Pearson (Edexcel International Advanced Subsidiary/Advanced Level in Chemistry, Issue 1, September 2017). Unit 3 is an International AS (IAS) unit with no new theory: it examines the skills and techniques you build in Units 1 and 2, including Core Practicals 1 to 8, and can set them in unfamiliar practical situations.

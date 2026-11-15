@@ -27,7 +27,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide is aligned to the Cambridge O Level Mathematics (Syllabus D) 4024 syllabus for 2025, 2026 and 2027. It covers sections 7.2 (vectors in two dimensions), 7.3 (magnitude of a vector) and 7.4 (vector geometry). The syllabus is not tiered, so every candidate meets all of it. Translation by a vector (section 7.1) is the starting point, so you may want to revisit that first.
 

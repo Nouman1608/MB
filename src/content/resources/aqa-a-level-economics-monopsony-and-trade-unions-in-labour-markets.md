@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022). It covers two A-level sub-sections of The labour market: The determination of relative wage rates and levels of employment in imperfectly competitive labour markets (3.1.6.4 on the AQA website, 4.1.6.4 in the combined PDF), and The influence of trade unions in determining wages and levels of employment (3.1.6.5 and 4.1.6.5). The specification states no separate AS-only or A-level-only labels for this content. Every country, firm and figure below is invented for illustration.

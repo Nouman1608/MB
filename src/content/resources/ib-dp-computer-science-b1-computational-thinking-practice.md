@@ -18,7 +18,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08: new overview practice page written only from the IB DP Computer Science subject brief (first assessment 2027); questions test the brief's four-part process, not the full guide's detailed outcomes; please review; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: new overview practice page written only from the IB DP Computer Science subject brief (first assessment 2027); questions test the brief's four-part process, not the full guide's detailed outcomes; please review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes condense the spatial reasoning geometry rows of the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022: coordinates, lines and gradients, the coordinate formulae, the transformations, congruence, similarity and tessellations. Items from the extended MYP 4-5 column are marked "extended" and items from the enrichment list are marked "enrichment". Everything else is MYP 1-3 or MYP 4-5 (standard). For full explanations read the [study guide](/resources/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and/), then test yourself with the [practice set](/resources/ib-myp-mathematics-coordinate-geometry-transformations-similarity-and-practice/). The [course hub](/boards/ib/ib-myp/mathematics/), the [printable checklist](/checklists/ib/ib-myp/mathematics/) and the [free diagnostics](/diagnostics/) point you to weak topics.

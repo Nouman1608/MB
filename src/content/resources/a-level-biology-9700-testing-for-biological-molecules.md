@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches sub-topic 2.1, Testing for biological molecules, from topic 2 (Biological molecules) of the Cambridge International AS & A Level Biology 9700 syllabus for examination in 2025, 2026 and 2027. It is AS Level content, so it is tested on Paper 1 (multiple choice) and Paper 2 (AS Level structured questions), and Paper 4 can draw on it because A Level questions require AS knowledge. The tests are also practical skills: Paper 3 expects you to identify the contents of unknown solutions and to estimate concentrations from qualitative results, and Paper 5 expects you to plan dilutions and controls.

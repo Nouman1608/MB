@@ -1,12 +1,12 @@
 # Academic Quality Assurance Programme — implementation report
 
-Decision: **D-452** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-6 to OQ-11, OT-5 to OT-7).
+Decision: **D-454** (`docs/decision-log.md`). Framework: [`docs/academic-qa/framework.md`](../../academic-qa/framework.md). Dashboard: [`dashboard.md`](dashboard.md) / [`dashboard.html`](dashboard.html). Tests: [`test-results.md`](test-results.md). Open items: [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md) (OQ-6 to OQ-11, OT-5 to OT-7).
 
-Branch `academic-qa/framework`, started from `origin/main` at `47e84134d` and brought up to date with `103016e4e` (D-451, another session's work). Nothing is committed or deployed.
+Branch `academic-qa/framework` (PR #163), started from `origin/main` at `47e84134d`, with `main` merged in at `ea1bbe7e3` (D-451, D-452 and D-453 from other sessions). Not deployed.
 
 ## 1. Summary
 
-**Technical implementation:** complete for phase 1 (scope: `src/content/resources`, 8,186 files).
+**Technical implementation:** complete for phase 1 (scope: `src/content/resources`, 8,276 files after merging main).
 
 **Academic review:** not complete, and not claimed. 0 documented teacher verifications exist, so 0 resources are VERIFIED_APPROVED.
 
@@ -26,17 +26,17 @@ What this programme added: the ten-check framework, a versioned 100-point rubric
 
 | Measure | Baseline (47e84134d) | Now |
 |---|---|---|
-| Resources in scope | 8,186 | 8,186 |
-| Ledger: structural PASS / WARN / FAIL | 7,575 / 611 / 0 | 7,575 / 611 / 0 |
-| Ledger outcome UNVERIFIED | 138 | 138 |
+| Resources in scope | 8,186 | 8,276 (90 new pages arrived from main, D-452) |
+| Ledger: structural PASS / WARN / FAIL | 7,575 / 611 / 0 | 7,665 / 611 / 0 |
+| Ledger outcome UNVERIFIED | 138 | 228 (the 90 new pages are unchecked) |
 | Accountable-teacher credit ("reviewed", D-379) | 7,756 | 7,756 (unchanged; not a check) |
 | Quality rubric | none | v1.0.0 (7 categories, 10 checks, 11 hard-stops) |
 | Resources with a complete, current rubric score | 0 | 4 (all AI-assisted) |
 | Mean / median score | n/a | 84.1 / 84.0 (n = 4 only) |
-| QA states | none | AUTOMATED_CHECK_COMPLETE 8,182 · ACADEMIC_REVIEW_PENDING 1 · REVISION_REQUIRED 3 · all others 0 |
+| QA states | none | AUTOMATED_CHECK_COMPLETE 8,272 · ACADEMIC_REVIEW_PENDING 1 · REVISION_REQUIRED 3 · all others 0 |
 | Documented teacher verifications | 0 | 0 |
 | VERIFIED_APPROVED | n/a | 0 |
-| Negative-suite cases | 46 | 53 |
+| Negative-suite cases (with a built site) | 54 | 62 (7 new here; 1 added on main by D-453) |
 | test:tools tests | 154 | 179 |
 | Academic references in the owner's `resource check` folder | 0 | 4 (SHA-256 recorded) |
 
@@ -60,11 +60,11 @@ What this programme added: the ten-check framework, a versioned 100-point rubric
 | Review packs | `scripts/academic-qa-review-pack.mjs` → `docs/reports/academic-qa/review-packs/` (4 pilot pages) |
 | Source manifest | `scripts/academic-qa-source-manifest.mjs` → `docs/reports/academic-qa/source-manifest.json` plus copies beside the files |
 | Register | `docs/reports/academic-qa/assessments.json` (5 records) |
-| Negative suite | `scripts/test-negative-validation-suite.mjs` cases AV-BB |
+| Negative suite | `scripts/test-negative-validation-suite.mjs` cases AW-BC |
 | npm scripts | `validate:academic-qa`, `report:academic-qa`, `check:academic-qa`, `qa:review-pack`, `qa:source-manifest` |
 | Content correction | `src/content/resources/atomic-structure-practice.md` (3 lines; see section 6) |
 | Regenerated | `docs/reports/academic-review/*` (ledger), `docs/reports/academic-coverage-current.{csv,json}` (word count of the corrected page) |
-| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-452, `OPEN_QUESTIONS.md` |
+| Docs | `docs/academic-qa/framework.md`, this report, `test-results.md`, decision log D-454, `OPEN_QUESTIONS.md` |
 
 No public template, schema, URL, title, description, sitemap entry, robots directive or structured data changed. Rule [Q9] makes sure no page can reference the QA register.
 
@@ -102,7 +102,7 @@ The edit changed the page hash, so the validator reported QA-0004 as stale, as d
 
 | Discipline | Finding | Change | Evidence | Remaining |
 |---|---|---|---|---|
-| SEO (metadata accuracy) | 12 titles/descriptions use complete-coverage wording; 2 supported by the mapping, 4 not supported by it, 6 need a reader | New scorecard check, report only; no metadata changed | dashboard "Search metadata" table | OQ-10: teacher reading, then owner approval for any rewording |
+| SEO (metadata accuracy) | 13 titles/descriptions use complete-coverage wording; 2 supported by the mapping, 5 not supported by it, 6 need a reader | New scorecard check, report only; no metadata changed | dashboard "Search metadata" table | OQ-10: teacher reading, then owner approval for any rewording |
 | SEO (technical) | No public change this programme | none | `audit:all` on this branch's build (test-results.md) | — |
 | AEO | Answers stay tied to visible text (D-448); the corrected FAQ now names all Extended parts | 1 FAQ answer corrected | built page | — |
 | GEO / AIO | No review or rating markup emitted from QA data (D-380 kept); scores are internal | Q9 guard | negative case BA | Publishing any QA signal publicly would be an owner decision, and only after teacher approval |

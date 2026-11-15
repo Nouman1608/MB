@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 6 of Cambridge O Level Computer Science (2210) rewards a small set of definitions applied carefully to scenarios: the sensor–microprocessor–actuator loop, the three characteristics of a robot, the characteristics of AI, the four parts of an expert system and the meaning of machine learning. These notes give each in exam-ready form, with answer frames you can reuse on Paper 1.

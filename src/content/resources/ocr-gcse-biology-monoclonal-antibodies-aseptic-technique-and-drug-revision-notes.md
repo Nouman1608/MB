@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These condensed notes cover OCR GCSE (9-1) Gateway Science Biology A (J247), Version 4.0 (August 2026), statements B6.3m, B6.3n, B6.3p and B6.3q. B6.3m and B6.3n are printed in bold in the specification, so they are Higher Tier only. For full explanations read the [study guide](/resources/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-monoclonal-antibodies-aseptic-technique-and-drug-practice/). More links: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/), [checklist](/checklists/ocr/gcse/biology/) and the [free diagnostics](/diagnostics/).

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for section 3.1.2.3, Segmentation, targeting and positioning, in the OxfordAQA International AS and A-level Business specification. The 9625 text lists five segmentation methods (including income) and international markets; the 9725 successor (International AS exams from May/June 2027, A-level from May/June 2028) lists four methods and adds value of targeting, premium and budget positioning, and changing positioning. Points found in one only are marked below. For fuller explanations and worked examples, use the [study guide](/resources/oxfordaqa-a-level-business-segmentation-targeting-and-positioning/). Then test yourself with the [practice questions](/resources/oxfordaqa-a-level-business-segmentation-targeting-and-positioning-practice/). Wider Marketing notes are in the [topic revision notes](/resources/oxfordaqa-a-level-business-marketing-revision-notes/). Also useful: the [course hub](/boards/oxfordaqa/a-level/business/), the [checklist](/checklists/oxfordaqa/a-level/business/) and the [diagnostics](/diagnostics/). Money figures are in dollars.

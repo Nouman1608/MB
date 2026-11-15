@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), and covers section 6.02, Algebraic formulae (6.02a to 6.02e). Most of it is for both tiers. Four formulae are marked **Higher tier only** where they appear. The specification says there is no formula sheet: every formula you must know is listed under 6.02d, and any other formula needed is given in the paper.
 

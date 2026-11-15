@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers the Employment and unemployment sub-section of AQA A-level Economics (7136), taken from the AQA AS and A-level Economics specification, first teaching from September 2015. The AQA website numbers it 3.2.3.2 (the combined specification PDF prints the A-level version as 4.2.3.2). The specification lists this content within Economic performance, which it places in both Paper 2 and Paper 3 of the A-level.

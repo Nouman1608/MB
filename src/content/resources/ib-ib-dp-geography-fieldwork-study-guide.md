@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-15
-reviewNote: "Check the current subject guide and teacher support material for the exact word limit, mark total, assessment criteria and permitted fieldwork topics, which are described here only in general terms; 2026-11-15: reviewed by azam-siddique."
+reviewNote: "Check the current subject guide and teacher support material for the exact word limit, mark total, assessment criteria and permitted fieldwork topics, which are described here only in general terms; 2026-11-15: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.9.2 (Exponential changes in radioactivity) of the OxfordAQA International AS and A-level Physics (9630) specification, version 4.4, for exams from May/June 2020 onwards. Section 3.9 is International A-level only, and section 3.3.3 says the exponential decay equations are required at International A2 only. For full explanations and worked examples, read the [study guide](/resources/oxfordaqa-a-level-physics-exponential-radioactive-decay/).

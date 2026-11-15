@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall for section **3.1.3 Marketing management** in the AQA AS and A-level Business specification (7137 and 7138, version 1.1, November 2025). Start with the [study guide](/resources/aqa-as-level-business-marketing-management/) for reasoning and worked cases, then attempt the [practice questions](/resources/aqa-as-level-business-marketing-management-practice/). Also useful: the [AQA AS Business hub](/boards/aqa/as-level/business/), the [checklist](/checklists/aqa/as-level/business/), the [What is business? notes](/resources/aqa-as-level-business-what-is-business-revision-notes/) and the [free diagnostics](/diagnostics/). International marketing and ethical issues in marketing are marked "(A-level only)" in the specification and are not covered.

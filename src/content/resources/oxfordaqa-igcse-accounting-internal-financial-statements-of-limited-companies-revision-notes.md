@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 These notes are aligned to the OxfordAQA International GCSE Accounting (9215) specification, version 1.2, for exams from May/June 2026 onwards. They cover the limited companies row of section 3.4, Preparation of financial statements, which is assessed in Paper 2: Financial Statements. For full explanations and a long worked example, read the [study guide](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies/). Test yourself with the [practice questions](/resources/oxfordaqa-igcse-accounting-internal-financial-statements-of-limited-companies-practice/).

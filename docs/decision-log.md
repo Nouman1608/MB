@@ -15987,9 +15987,22 @@ Source: the owner's "Academic Quality, Search Visibility & Trust Remediation Pro
 - **Problem.** The home hero said "23 named subject specialists" (person profiles with subjects taught). The editorial policy said "one of 8 named teachers" (distinct named authors credited on resources). It was the same kind of label with two definitions.
 - **Fix.** Each figure now names its unit, and both are still computed at build time. The home hero says "23 teacher profiles". The policy says "one of 8 named authors from the Marlbridge teaching team". All 8 named authors also have teacher profiles (checked 15 Nov), so "from the Marlbridge teaching team" stays true. Wording only; no count changed.
 
-## D-452 - Academic Quality Assurance Framework: ten checks, 100-point rubric, QA ledger and integrity gate (15 Nov 2026)
+## D-452 - Subtopic pages for the thinnest courses: Cambridge O Level Geography 2217, Cambridge IGCSE Urdu 0539, OxfordAQA IGCSE Geography 9230 (15 Nov 2026)
 
-Source: the owner's "Master Academic Quality Assurance, Content Authority & Search Optimisation Programme" brief, 15 Nov 2026. Framework: `docs/academic-qa/framework.md`. Report: `docs/reports/academic-qa/implementation-report.md`. Open items: `OPEN_QUESTIONS.md` OQ-6 to OQ-11 and OT-5 to OT-7. Numbered D-452 because another session took D-451 the same afternoon.
+- Owner, 15 Nov 2026 ("add resources to the thinnest courses"). The thinnest courses had 8 to 10 resources each because their pages cover whole papers or themes. Thirty official subtopics had no page of their own: all 19 in Cambridge O Level Geography 2217, all 10 exam exercises in Cambridge IGCSE Urdu 0539 and World cities (London and New York) in OxfordAQA IGCSE Geography 9230.
+- **Pages.** 90 new pages: a study guide, revision notes and a practice set (original questions with full answers) for each of the 30 subtopics, each tagged to its own subtopic. All are `review-pending` under the Marlbridge Academic Team with no reviewer. The 30 Urdu pages carry `reviewNeeded` so an Urdu specialist checks every Urdu sentence; their mark splits, timings and practice formats are labelled as Marlbridge practice conventions where the syllabus is silent.
+- **Sources.** Several writers worked from the official 2217 and 0539 syllabus PDFs. Real case-study facts are limited to well-known ones (each writer listed theirs for a fact check); all invented data is labelled illustrative and recomputed.
+- **Not changed.** Edexcel A Level Law, AQA GCSE Psychology and the two English Literature courses (Edexcel 4ET1, OxfordAQA 9275) already have pages on every subtopic; Cambridge O Level Urdu 3247/3248 has no subtopics in its topic map.
+## D-453 - Reviewer-credit notes say "credited to", not "reviewed by" (OQ-1, 15 Nov 2026)
+
+- Owner, 15 Nov 2026: "do OQ-1 option a".
+- **Problem.** The internal `reviewNote` on 7,606 resources recorded the accountable-teacher credit as "<date>: reviewed by <id>.": 7,554 dated 2026-11-08 (the bulk credit, commit 03159b8c) and 52 dated 2026-11-15. Under D-379 a credit is not a review event, so the notes contradicted the policy for any auditor or tool reading them. They are not rendered on any page.
+- **Fix.** Each such entry now reads "<date>: credited to <id> (accountable teacher, D-379).", with its date kept. Only that line changed in each file. Every credited id matches the file's own `reviewer` field (7,606 of 7,606). New rule [14] in `validate-review-integrity.mjs` rejects the old form; negative fixture [AV].
+- **Left as is.** About 2,133 notes also say "previously reviewed by <id> on 2026-09-29". That credit predates D-379 (1 Oct 2026), when the meaning may have differed, so it is historical record and not rewritten.
+
+## D-454 - Academic Quality Assurance Framework: ten checks, 100-point rubric, QA ledger and integrity gate (15 Nov 2026)
+
+Source: the owner's "Master Academic Quality Assurance, Content Authority & Search Optimisation Programme" brief, 15 Nov 2026. Framework: `docs/academic-qa/framework.md`. Report: `docs/reports/academic-qa/implementation-report.md`. Open items: `OPEN_QUESTIONS.md` OQ-6 to OQ-11 and OT-5 to OT-7. Numbered D-454 because other sessions took D-451, D-452 and D-453 the same afternoon.
 
 - **Built on what exists.** The ledger (D-386), the D-379 meaning of "reviewed", the repository verification records and the D-448 teacher-verification register are kept. `reviewStatus` and `reviewedDate` are unchanged, and no credit is converted into a verification. The new layer is a fourth record type, the **rubric assessment** (`docs/reports/academic-qa/assessments.json`). Its method is `ai-assisted` or `human`, and it is never an approval.
 - **Rubric v1.0.0** (`src/utils/academic/qa-rubric.ts`):
@@ -15998,7 +16011,7 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - An unscored category means no total. Unassessed pages have no score and are left out of every average.
   - Bands: 90 meets the target, 75-89.9 needs improvement, below 75 needs major revision. This is a Marlbridge policy, not an awarding-body standard.
   - Eleven hard-stop codes. An open one blocks the page whatever its score.
-- **States** are derived, never typed in: BLOCKED, REVERIFICATION_REQUIRED, REVISION_REQUIRED, ACADEMIC_REVIEW_PENDING, VERIFIED_APPROVED, AUTOMATED_CHECK_COMPLETE, NOT_ASSESSED. Every assessment and teacher verification records `contentSha256`, and a later edit makes the record stale. Rule [13] now requires the hash; there are 0 records, so nothing is affected.
+- **States** are derived, never typed in: BLOCKED, REVERIFICATION_REQUIRED, REVISION_REQUIRED, ACADEMIC_REVIEW_PENDING, VERIFIED_APPROVED, AUTOMATED_CHECK_COMPLETE, NOT_ASSESSED. Every assessment and teacher verification records `contentSha256`, the hash of the resource without its `reviewNote`, `featured` and `order` lines (bookkeeping no student sees: D-453 reworded 7,636 reviewNotes in one commit, and that must not make assessments stale). Any other later edit makes the record stale. Rule [13] now requires the hash; there are 0 records, so nothing is affected.
 - **Owner's answers, 15 Nov 2026, multiple choice:**
   - "Teacher + score ≥90": VERIFIED_APPROVED needs a documented teacher approval and a complete score of 90 or more, with no open hard-stop or major finding.
   - "Integrity now, coverage later": `scripts/validate-academic-qa.mjs` (in `validate:academic`) fails the build on unevidenced or malformed scores, a stored total, AI output recorded as human, a non-official source, an open hard-stop on current content, or a public page referencing the register. "New resource has no assessment" is reported only (OQ-8).
@@ -16010,10 +16023,10 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
   - QA-0003: 9990 clinical practice, 85.5.
   - QA-0004: 0620/5070 atomic structure practice, 79.5. Its major finding was confirmed against 0620 2.3 Supplement 3: the page told Core candidates that Q4 was theirs, but its explanation part is Extended content. Corrected (tier note, Q4 label, FAQ). The hash change made QA-0004 stale; QA-0005 records the fix, at 82.5.
   - Every major finding was re-checked by hand before recording.
-- **Search metadata.** The scorecard checks complete-coverage wording in titles and descriptions against each page's own mapping: 12 cases, 2 supported, 4 not supported by the mapping, 6 need a reader. Nothing was rewritten (OQ-10). No public template, URL, metadata or structured data changed, and no review markup comes from QA data (D-380).
+- **Search metadata.** The scorecard checks complete-coverage wording in titles and descriptions against each page's own mapping: 13 cases, 2 supported, 5 not supported by the mapping, 6 need a reader. Nothing was rewritten (OQ-10). No public template, URL, metadata or structured data changed, and no review markup comes from QA data (D-380).
 - **Also found:** the 7405 taxonomy omits specification section 3.1.2.5 (OT-6).
 - **Tooling.**
   - `report:academic-qa` (scorecard, dashboard md/html, risk queue) and `check:academic-qa`.
   - `qa:review-pack` (teacher packs with the hash to record).
   - `qa:source-manifest` (rehashes from disk; never substitutes another folder).
-  - 25 unit tests in `test:tools`; negative cases AV-BB.
+  - 25 unit tests in `test:tools`; negative cases AW-BC.

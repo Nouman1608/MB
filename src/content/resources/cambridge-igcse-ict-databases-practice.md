@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 18: creating a database structure (18.1), manipulating data (18.2) and presenting data (18.3). Theory points such as keys, flat-file and relational databases and form design appear in Paper 1; the practical skills are tested in Paper 2, so Section C sets practical-style tasks.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide covers section 8.05 (Circles) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026). The circle vocabulary in 8.05a is for both tiers. The theorems in 8.05b to 8.05h appear only in the Higher tier column of the specification, where each is "apply and prove", so this page marks them **Higher tier only**.

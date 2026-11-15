@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 2.1 and 2.2 of the Cambridge IGCSE Economics 0455 syllabus for examination in 2026 (version 2). Section 2.1 separates microeconomics from macroeconomics. Section 2.2 explains how a market system works, the three key allocation questions and how the price mechanism answers them. The syllabus is not tiered, so all of this applies to every candidate. All names and figures are invented, and each worked example is labelled as illustrative.

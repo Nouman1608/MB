@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 These questions cover Cambridge IGCSE ICT 0417 Topic 15: software tools for reducing errors (15.1) and proofing techniques (15.2). They test validation checks, the limits of spell checkers, visual verification and double data entry, proofreading for widows, orphans and split tables, and why validation and verification are both needed.

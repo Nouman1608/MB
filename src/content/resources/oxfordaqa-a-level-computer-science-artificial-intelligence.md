@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-06
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 This study guide teaches section **3.16 Artificial intelligence** of the OxfordAQA International AS and A-level Computer Science (9645) specification, Version 1.1 (International AS exams May/June 2025 onwards, International A-level exams May/June 2026 onwards). It covers subsections 3.16.1 to 3.16.3, all **International A-level only**. The section belongs to Unit 4 (Advanced concepts and principles of computer science), which the specification assesses by written exam.

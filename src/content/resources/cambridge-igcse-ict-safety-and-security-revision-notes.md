@@ -28,7 +28,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Safety and security in Cambridge IGCSE ICT 0417 (Topic 8) has three separate parts: physical safety around ICT equipment, eSafety when using the internet and personal data, and the security of data against threats such as hacking and phishing. Paper 1 questions usually ask you to name a threat or hazard, explain its effect and give a matching way to prevent it.

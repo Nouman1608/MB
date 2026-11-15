@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the AQA AS and A-level Economics specification (version 1.3, 29 June 2022) for the A-level, first taught from September 2015. It covers three parts of the labour market content: the demand for labour and marginal productivity theory, influences upon the supply of labour, and wage determination in perfectly competitive labour markets. The AQA website numbers them 3.1.6.1 to 3.1.6.3 and the combined specification PDF prints them as 4.1.6.1 to 4.1.6.3. The specification states no AS-only or A-level-only labels for this content. Imperfect labour markets, trade unions, the National Minimum Wage and discrimination are separate units and are not taught here. All firms, places and figures below are invented for illustration.

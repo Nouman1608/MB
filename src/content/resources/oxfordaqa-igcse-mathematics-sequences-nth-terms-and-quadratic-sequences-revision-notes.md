@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 These revision notes cover references A24, A25 and A26 in section 3.2.4 (Sequences) of the OxfordAQA International GCSE Mathematics (9260) specification, Version 5.1 (for exams May/June 2018 onwards). Quadratic sequences are Extension only; everything else is Core, and Core content can also be assessed on the Extension tier question papers. For full explanations and longer worked examples, read the [study guide](/resources/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences/), then test yourself with the [practice questions](/resources/oxfordaqa-igcse-mathematics-sequences-nth-terms-and-quadratic-sequences-practice/).

@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers sections 1.3.1 (Meeting customer needs) and 1.3.2 (The market) of Unit 1, Marketing and people, in the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Business specification, Issue 1, September 2017. Unit 1 is a 2-hour written examination marked out of 80 marks. Questions are based on sources, and some need quantitative skills.

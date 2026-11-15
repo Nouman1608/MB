@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers statements B6.3r to B6.3u of module B6.3 (Monitoring and maintaining health) in OCR GCSE (9-1) Gateway Science Biology A (J247), specification Version 4.0 (August 2026), for first assessment in 2018. None of these four statements is shown in bold in the specification, so the content is tested in both Foundation and Higher Tier papers. Other statements of B6.3 (communicable disease, defence against infection, medicines, stem cells and genomics) are taught on separate pages. Course pages: [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) | [printable checklist](/checklists/ocr/gcse/biology/) | [revision notes](/resources/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-revision-notes/) | [practice questions](/resources/ocr-gcse-biology-non-communicable-disease-cardiovascular-treatment-practice/) | [free 10-minute diagnostics](/diagnostics/).

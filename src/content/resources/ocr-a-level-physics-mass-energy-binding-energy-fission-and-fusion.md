@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers section 6.4.4 (Nuclear fission and fusion), outcomes (a) to (k), of the OCR A Level Physics A (H556) specification, Version 3.0 (March 2026). It is full A level content. The nuclear atom, nuclear size and fundamental particles (6.4.1 and 6.4.2) and radioactive decay, activity and half-life (6.4.3) are separate units and are not repeated here.
 

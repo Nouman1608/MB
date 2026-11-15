@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-08-18
 featured: false
-reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08 recheck: expanded thin page (opening answer, method for each food test, fair-test points, worked results table, FAQ); removed ester bond/double-helix detail beyond 4.1; please re-review; previously reviewed by hina-mogul on 2026-09-29; 2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Biological molecules are the carbohydrates, lipids, proteins and DNA that

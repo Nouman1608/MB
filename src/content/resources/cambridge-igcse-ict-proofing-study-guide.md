@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Proofing means checking a document or data for errors before it is finished or sent. Topic 15 of Cambridge IGCSE ICT 0417 has two parts: the **software tools** that help you find mistakes (15.1) and the **proofing techniques** that people use to catch what the tools miss (15.2). The key lesson is that software helps but never replaces a careful human check, so examination answers should use both.

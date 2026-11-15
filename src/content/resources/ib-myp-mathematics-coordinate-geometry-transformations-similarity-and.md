@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 This study guide follows the IB *Mathematics guide (for use from September 2020/January 2021)*, first assessment 2022, and covers the geometry rows of the spatial reasoning branch that deal with position and movement on a plane: coordinates and straight lines, the distance, midpoint and gradient formulae, symmetry and the transformations, congruence, similarity and tessellations. The guide's framework has a column for MYP 1-3, then standard and extended columns for MYP 4-5, with enrichment ideas listed apart. Items here are labelled to match. MYP has no tiers.

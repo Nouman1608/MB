@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide teaches **sections 3.1.3.1 (demand for goods and services) and 3.1.3.2 (supply for goods and services)** of the AQA specification for GCSE Economics (8136), first taught from September 2017. Both sit in 3.1.3, How prices are determined, which is part of Paper 1, How markets work. The specification states no tiers, so everything here applies to every candidate. Every firm, place and figure below is invented for illustration. Equilibrium, intermarket relationships and elasticity are separate sections of 3.1.3 and are not taught here.

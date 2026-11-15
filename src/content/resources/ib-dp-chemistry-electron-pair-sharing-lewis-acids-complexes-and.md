@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 Here you will find the additional higher level part of Reactivity 3.4, "Electron-pair sharing reactions", for IB DP Chemistry, taught from first principles with worked examples. Numbering matches the IB's February 2023 *Diploma Programme Chemistry guide*, first assessed in 2025, and the page covers understandings Reactivity 3.4.6 to 3.4.13. The guide places all eight under additional higher level, so everything below is **HL only**. It is written for examination sessions from 2025 onwards.

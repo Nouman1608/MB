@@ -66,8 +66,13 @@
  *       and an isReviewer profile covering its board and subject, a board and
  *       code the resource declares, a sane date, a closed approval value, an
  *       official source for that board, and non-empty scope and evidence.
- *       D-452 adds contentSha256 (the file as checked), so the Academic QA
+ *       D-454 adds contentSha256 (the file as checked), so the Academic QA
  *       scorecard can tell a current approval from a stale one.
+ *
+ *  [14] D-453 -- a dated credit in `reviewNote` is written "YYYY-MM-DD:
+ *       credited to <id> (accountable teacher, D-379)", never "reviewed by
+ *       <id>", which reads as a review event D-379 says did not happen.
+ *       ("previously reviewed by X on 2026-09-29" is historical and left alone.)
  *
  * Exits 1 on any problem found, matching the other validate-*.mjs
  * scripts in this repo.
@@ -99,6 +104,7 @@ function parseFrontmatter(raw) {
     reviewer: get(/^reviewer:\s*"?([\w-]+)"?/m),
     author: get(/^author:\s*"?([\w-]+)"?/m),
     reviewedDate: get(/^reviewedDate:\s*(\S+)/m),
+    reviewNote: get(/^reviewNote:\s*(.*)$/m),
     publishedDate: get(/^publishedDate:\s*(\S+)/m),
     resourceType: get(/^resourceType:\s*"?([\w-]+)"?/m),
     subject: get(/^subject:\s*"?([\w-]+)"?/m),
@@ -197,6 +203,9 @@ function checkCollection(dir, label, authors, problems) {
       }
     }
 
+    if (fm.reviewNote && /\d{4}-\d{2}-\d{2}: reviewed by [a-z-]+\./.test(fm.reviewNote)) {
+      problems.push(`[14] ${id} records a credit in reviewNote as "reviewed by"; write "<date>: credited to <id> (accountable teacher, D-379)." (D-453).`);
+    }
     if (fm.reviewedDate) {
       const reviewed = new Date(fm.reviewedDate);
       if (fm.publishedDate && reviewed < new Date(fm.publishedDate)) {
@@ -247,7 +256,7 @@ console.log('');
     if (!APPROVAL.includes(r.approval)) problems.push(`${at}: approval "${r.approval}" is not one of ${APPROVAL.join(', ')}.`);
     if (!String(r.scope ?? '').trim()) problems.push(`${at}: scope is empty.`);
     if (!String(r.evidence ?? '').trim() || /todo|tbd|placeholder/i.test(r.evidence)) problems.push(`${at}: evidence is empty or a placeholder.`);
-    // D-452 -- the hash of the file the teacher checked, so a later edit
+    // D-454 -- the hash of the file the teacher checked, so a later edit
     // makes the approval stale (REVERIFICATION_REQUIRED) instead of silently
     // carrying over to content the teacher never saw.
     if (!/^[0-9a-f]{64}$/.test(String(r.contentSha256 ?? ''))) problems.push(`${at}: contentSha256 (sha256 of the resource file as checked) is missing or malformed.`);

@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Quick recall notes for Ansoff's matrix and Conflicts in business decision making in OCR A Level Business (H431), following the Version 2.1 (January 2026) specification. For full explanations and worked examples, read the [study guide](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making/). Test yourself with the [practice questions](/resources/ocr-a-level-business-ansoffs-matrix-and-conflicts-in-business-decision-making-practice/), tick off topics on the [checklist](/checklists/ocr/a-level/business/), find the course hub at [OCR A Level Business](/boards/ocr/a-level/business/), and find weak spots with the [free diagnostics](/diagnostics/). The wider unit is in the [Objectives and Strategic Decisions revision notes](/resources/a-business-strategy-revision-notes/).

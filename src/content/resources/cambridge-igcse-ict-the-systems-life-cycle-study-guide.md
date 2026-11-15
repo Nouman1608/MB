@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 The systems life cycle is the series of stages that an organisation follows when it replaces or builds an ICT system, from finding out what is wrong with the current one to judging whether the new one works. Cambridge IGCSE ICT 0417 lists six stages: analysis, design, development and testing, implementation, documentation and evaluation. You are expected to know what happens at each stage, the methods used, and why one method might be chosen over another.

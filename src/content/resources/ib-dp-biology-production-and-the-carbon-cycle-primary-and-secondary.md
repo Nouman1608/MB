@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide is for IB Diploma Programme Biology, aligned to the IB *Biology guide*, first assessment 2025. It covers the second part of C4.2 (Transfers of energy and matter), statements C4.2.15 to C4.2.22, at both standard level and higher level. The guide has no additional higher level (AHL) material for C4.2, so nothing here is HL only.

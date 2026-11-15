@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1, and covers section 3.4.10 (Recombinant DNA technology) in Unit 4, Control. In the specification, Units 1 and 2 are the content shared by the International AS and A-level, while Units 3 and 4 are International A-level only. This topic is in Unit 4. Use the [revision notes](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology-revision-notes/) for quick recall and the [practice questions](/resources/oxfordaqa-a-level-biology-recombinant-dna-technology-practice/) to test yourself. The [course hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/) show the rest of the course. Required practical 10, on growth direction in roots or shoots, is listed in the specification after this section. It is a different topic and is not covered here.

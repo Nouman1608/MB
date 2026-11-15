@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense OCR GCSE (9-1) Biology A, Gateway Science (J247), Topic B1.4 Photosynthesis, statements B1.4a to B1.4f, from the specification Version 4.0 (August 2026). For full explanations, start with the [study guide](/resources/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting/). Statement B1.4f is printed in bold in the specification and is tested only in the Higher Tier papers. Use the [OCR GCSE Biology hub](/boards/ocr/gcse/biology/) and the [printable checklist](/checklists/ocr/gcse/biology/) to track progress, then try the [practice questions](/resources/ocr-gcse-biology-photosynthesis-process-investigation-and-limiting-practice/). If you are unsure where to begin, the free [diagnostics](/diagnostics/) show your weak spots.

@@ -20,7 +20,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the five key topics and themes against the 4HI1 specification (Issue 5) and the dates against a standard textbook before teacher sign-off; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

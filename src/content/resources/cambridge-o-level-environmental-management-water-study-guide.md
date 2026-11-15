@@ -37,7 +37,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by azam-siddique."
+reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
 
 Water is needed for drinking, farming, industry and sanitation, yet only a small share of the world's water is fresh and easy to reach. This topic covers where people get water, how it becomes polluted, the diseases linked to unsafe water, and the environmental effects of fish farming, oil and plastic in the sea. For each section, aim to be able to state a cause, an impact on people or ecosystems, and a way of managing the problem.

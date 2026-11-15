@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide follows the OxfordAQA International AS and A-level Economics (9640) specification, version 1.2, sections 3.1.2.5 to 3.1.2.7: the determination of market prices, the interrelationship between markets, and how markets and prices allocate resources. Section 3.1 is International AS content, so it also forms part of the International A-level. Every figure below is invented and set in an illustrative country, firm or market. Pair the guide with the [revision notes](/resources/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation-revision-notes/) and the [practice set](/resources/oxfordaqa-a-level-economics-price-determination-linked-markets-and-the-allocation-practice/). Course pages: the [OxfordAQA A-level Economics hub](/boards/oxfordaqa/a-level/economics/) and the [checklist](/checklists/oxfordaqa/a-level/economics/). A [free diagnostic](/diagnostics/) can show you where to begin. The wider unit is in [The Operation of Markets](/resources/a-level-oxfordaqa-economics-operation-of-markets/).

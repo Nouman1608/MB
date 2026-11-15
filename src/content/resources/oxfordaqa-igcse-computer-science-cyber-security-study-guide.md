@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Cyber security is the protection of computer systems, networks and data from attack, damage and unauthorised access. Almost every organisation stores data about people, so a breach can cause financial loss, identity theft and harm to reputation. In OxfordAQA International GCSE Computer Science (9210) you need to know the main threats, how each works, and the measures that detect or prevent them. The best answers always say how a threat works and which measure stops it, not just the names.

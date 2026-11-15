@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 The [study guide](/resources/ocr-a-level-chemistry-carbonyl-compounds/) explains this content step by step; start there if any line below is unclear. Here, tables and short lists boil down outcomes 6.1.2(a) to (e)(ii), Carbonyl compounds, with their additional guidance and PAG7 links, from the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. The course is the full A level, and Module 6 is examined in components 02 and 03.

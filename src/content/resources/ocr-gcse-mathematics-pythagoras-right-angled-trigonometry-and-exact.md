@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This guide follows OCR GCSE (9-1) Mathematics J560, specification Version 2.1 (August 2026), statements 10.05a, 10.05b and 10.05c. The 2D work and the exact values are in the Foundation tier and Higher tier content. Applying Pythagoras' theorem and trigonometry in more complex figures, including 3D figures, is **Higher tier only**. The specification says that, unless it refers to calculator use, all content may be assessed on either the calculator or the non-calculator papers, so practise both ways. The sine rule and cosine rule are separate statements and are not covered here.
 

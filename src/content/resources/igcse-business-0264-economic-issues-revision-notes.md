@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 These notes condense section 6.1, **Economic issues**, of the Cambridge IGCSE Business 0264 syllabus for examination in 2027, 2028 and 2029 (points 6.1.1 Business cycle and 6.1.2 Effects of government policy). For full explanations and worked examples, read the [study guide](/resources/igcse-business-0264-economic-issues/) first, then test yourself with the [practice questions](/resources/igcse-business-0264-economic-issues-practice/). Use the [course hub](/boards/cambridge/igcse/business/), the printable [checklist](/checklists/cambridge/igcse/business/) and the free [diagnostics](/diagnostics/) to find weak spots. All businesses and figures below are invented, and money is in dollars.

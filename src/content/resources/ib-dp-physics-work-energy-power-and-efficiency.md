@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 
 This guide covers sub-topic A.3, Work, energy and power, from the IB *Physics guide* (first assessment 2025). The content is the same for SL and HL: A.3 has no extra HL-only material in the guide. It teaches each understanding from scratch, with worked calculations. For quick recall use the [revision notes](/resources/ib-dp-physics-work-energy-power-and-efficiency-revision-notes/), then test yourself with the [practice questions](/resources/ib-dp-physics-work-energy-power-and-efficiency-practice/). Find your gaps first with the [free 10-minute diagnostics](/diagnostics/).

@@ -17,7 +17,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the exact list of development methods, testing types and analysis techniques the specification names for this section; 2026-11-08: reviewed by harris-khan."
+reviewNote: "Check the exact list of development methods, testing types and analysis techniques the specification names for this section; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

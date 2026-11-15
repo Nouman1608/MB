@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 At AS Level you learn that encryption makes intercepted data unreadable. At A Level you must explain how it does so: the difference between symmetric and asymmetric keys, how a secure connection is set up, how a digital signature proves who sent a message, and how a digital certificate lets a browser trust a website. These are favourite extended-answer topics on Paper 3.

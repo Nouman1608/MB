@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 These revision notes condense IB Diploma Programme Biology topic C1.2 (Cell respiration), as set out in the IB *Biology guide*, first assessment 2025. C1.2.1 to C1.2.6 are SL and HL. C1.2.7 to C1.2.17 are additional higher level and are marked "HL only". For full explanations and worked examples, read the [study guide](/resources/ib-dp-biology-cell-respiration-atp-glycolysis-krebs-cycle-and-the/).

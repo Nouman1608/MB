@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 This study guide teaches IB DP Chemistry Reactivity 1.1, "Measuring enthalpy changes", starting from nothing. It is written against the IB Diploma Programme Chemistry guide (first assessment 2025, published February 2023), whose understandings Reactivity 1.1.1 to 1.1.4 each get a worked example here. The sub-topic has no additional higher level (AHL) content, so SL and HL learn identical material.

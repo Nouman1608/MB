@@ -26,7 +26,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-27
 featured: false
-reviewNote: "2026-11-08: reviewed by asif-iqbal."
+reviewNote: "2026-11-08: credited to asif-iqbal (accountable teacher, D-379)."
 ---
 
 This guide follows the Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Business (1BS0) specification, Issue 2, July 2022. It covers Theme 1, Topic 1.5 Understanding external influences on business, content items 1.5.1 (business stakeholders) and 1.5.2 (technology and business). The specification says calculators may be used and that formulae, listed in its Appendix 3, are not provided in the examinations.

@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-04
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches sub-topic 2(d), **Movement of substances into and out of cells** (specification points 2.15–2.17), of the Pearson Edexcel International GCSE Biology (4BI1) specification, Issue 3. The qualification is untiered. None of the three points in this sub-topic carries a **B** reference, so all of it can be examined on Paper 1 and on Paper 2. It applies to the June and November series examined under Issue 3.

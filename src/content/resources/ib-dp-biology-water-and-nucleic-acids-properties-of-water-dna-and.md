@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This study guide teaches IB Diploma Programme Biology topics A1.1 (Water) and A1.2 (Nucleic acids) in depth. It follows the IB *Biology guide*, first assessment 2025. Statements A1.1.7, A1.1.8 and A1.2.11 to A1.2.15 are additional higher level and are marked "HL only"; the rest is SL and HL.

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-18
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 Use these notes after the [study guide](/resources/edexcel-ial-economics-public-expenditure-and-taxation/), which has the full explanations and worked examples. They cover the Pearson Edexcel International Advanced Subsidiary/Advanced Level Economics specification (Issue 2, June 2018), section 4.3.5 items 1 and 2. In the specification, Units 1 and 2 are the International AS content and Units 3 and 4 are the extra International A2 content; Unit 4 is labelled an IAL compulsory unit, so this topic is for the full International A Level only.

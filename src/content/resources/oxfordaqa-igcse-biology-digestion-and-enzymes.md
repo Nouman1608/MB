@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.2.4 (Digestion, parts a to c) of the OxfordAQA International GCSE Biology (9201) specification, Version 5.2, for exams May/June 2018 onwards. It includes the digestive system, enzymes, the three digestive enzymes, acid and bile, the temperature and pH required practical, and microbial enzymes. Use it with the [revision notes](/resources/oxfordaqa-igcse-biology-digestion-and-enzymes-revision-notes/) and the [practice questions](/resources/oxfordaqa-igcse-biology-digestion-and-enzymes-practice/). Related pages: the [Bioenergetics study guide](/resources/igcse-oxfordaqa-biology-bioenergetics/), the [Bioenergetics revision notes](/resources/oxfordaqa-igcse-biology-bioenergetics-revision-notes/) and the [Bioenergetics practice questions](/resources/oxfordaqa-igcse-biology-bioenergetics-practice/). The course hub is [OxfordAQA IGCSE Biology](/boards/oxfordaqa/igcse/biology/) and the printable list is the [checklist](/checklists/oxfordaqa/igcse/biology/). To find weak spots first, try the [free diagnostics](/diagnostics/).

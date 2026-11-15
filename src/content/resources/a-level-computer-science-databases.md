@@ -30,7 +30,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 A relational database stores data in linked tables so that each fact is held once, can be kept consistent, and can be queried in any combination. Topic 8 of Cambridge International AS & A Level Computer Science 9618 asks you to explain why this beats a file-based approach, use the correct terminology, normalise a design to third normal form (3NF), describe what a database management system (DBMS) provides, and read and write SQL.

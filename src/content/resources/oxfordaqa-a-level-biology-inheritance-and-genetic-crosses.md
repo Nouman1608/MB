@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 This guide covers sections 3.3.6.1 (Principles) and 3.3.6.2 (Patterns of inheritance) of the OxfordAQA *International AS and A-level Biology (9610)* specification, Version 5.1. Both sit in Unit 3, Populations and genes, which the specification lists as International A-level only. The [revision notes](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-revision-notes/) condense the ideas and the [practice questions](/resources/oxfordaqa-a-level-biology-inheritance-and-genetic-crosses-practice/) let you check them. Course pages: the [OxfordAQA A-level Biology hub](/boards/oxfordaqa/a-level/biology/), the [printable checklist](/checklists/oxfordaqa/a-level/biology/) and the [free diagnostics](/diagnostics/).
 

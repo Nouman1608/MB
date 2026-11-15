@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hassan."
+reviewNote: "2026-11-08: credited to hassan (accountable teacher, D-379)."
 ---
 
 Quick recall for sections 3.3 Planning and 3.4 Implementation and measurements of the Pearson Edexcel International Advanced Subsidiary/Advanced Level in Physics (YPH11) specification, Issue 3. Unit 3 is an International AS (IAS) unit and tests experiments from Units 1 and 2. The [study guide](/resources/edexcel-ial-physics-unit-3-planning-an-experiment-and-checking-another/) has the full explanations and worked examples.

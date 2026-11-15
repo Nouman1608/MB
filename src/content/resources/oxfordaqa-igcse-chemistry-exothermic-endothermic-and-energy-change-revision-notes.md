@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These revision notes condense sections 3.9.1 Exothermic and endothermic reactions and 3.9.2 Calculating and explaining energy change of the OxfordAQA International GCSE Chemistry (9202) specification, Version 6.2, for exams May/June 2018 onwards. They cover statements 3.9.1 a to d and 3.9.2 a to h. The qualification is untiered, so every point is for every candidate, and section 6.2 attaches no required practical to these sections. For full teaching and longer worked examples, use the [energy change study guide](/resources/oxfordaqa-igcse-chemistry-exothermic-endothermic-and-energy-change/).

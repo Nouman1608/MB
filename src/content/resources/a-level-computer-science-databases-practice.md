@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "harris-khan"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "2026-11-08 recheck: expanded from 5 to 13 questions to cover all of 8.1-8.3 (file-based limits, E-R, 3NF design, DBMS features and tools, DDL with keys, DML with INNER JOIN/GROUP BY/COUNT, maintenance); mapped 8.2; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08 recheck: expanded from 5 to 13 questions to cover all of 8.1-8.3 (file-based limits, E-R, 3NF design, DBMS features and tools, DDL with keys, DML with INNER JOIN/GROUP BY/COUNT, maintenance); mapped 8.2; please re-review; previously reviewed by harris-khan on 2026-09-29; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-09-24
 featured: false
 ---

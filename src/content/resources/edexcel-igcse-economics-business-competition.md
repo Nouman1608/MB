@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-19
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 
 This guide covers section 1.2.4 (Business competition) of the Pearson Edexcel International GCSE Economics (4EC1) specification, Issue 3, February 2026. It sits in Paper 1, Microeconomics and Business Economics. There is a single tier of entry. Every country, firm and figure below is invented for illustration. Use it with the [revision notes](/resources/edexcel-igcse-economics-business-competition-revision-notes/) and the [practice questions](/resources/edexcel-igcse-economics-business-competition-practice/), then check progress on the [course hub](/boards/edexcel/igcse/economics/) and the [printable checklist](/checklists/edexcel/igcse/economics/). If you are unsure where to start, try the free [10-minute diagnostics](/diagnostics/).

@@ -27,7 +27,7 @@ author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
-reviewNote: "Check the syllabus for the exact issues and named historians prescribed under each interpretation topic, and the paper and question format in which they are assessed. 2026-11-08 recheck: corrected the Paper 3 format (one 40-mark 'What can you learn' question on one unattributed extract, 1h15) and replaced the essay-style worked example and timing; FAQ added; please re-review; 2026-11-08: reviewed by azam-siddique."
+reviewNote: "Check the syllabus for the exact issues and named historians prescribed under each interpretation topic, and the paper and question format in which they are assessed. 2026-11-08 recheck: corrected the Paper 3 format (one 40-mark 'What can you learn' question on one unattributed extract, 1h15) and replaced the essay-style worked example and timing; FAQ added; please re-review; 2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by salman-ahmad."
+reviewNote: "2026-11-08: credited to salman-ahmad (accountable teacher, D-379)."
 ---
 This guide covers section 5.3 Forecasting and managing cash flows (5.3.1 Cash flow forecasts) of the Cambridge International AS & A Level Business 9609 syllabus for examination in 2026, 2027 and 2028. It is an AS Level topic, and the syllabus says A Level candidates also study the AS content. Use it with the [revision notes](/resources/cambridge-a-level-business-forecasting-and-managing-cash-flows-revision-notes/) and the [practice questions](/resources/cambridge-a-level-business-forecasting-and-managing-cash-flows-practice/). Course links: the [Cambridge A Level Business hub](/boards/cambridge/a-level/business/), the [checklist](/checklists/cambridge/a-level/business/) and the [free diagnostics](/diagnostics/). For exam technique across the course, see the [9609 past papers page](/resources/cambridge-a-level-business-9609-past-papers/).
 

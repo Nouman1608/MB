@@ -24,7 +24,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 This study guide covers sections 6.04 (Algebraic inequalities) and 6.05 (Language of functions) of the OCR GCSE (9-1) Mathematics J560 specification, Version 2.1 (August 2026), first assessment 2017. It teaches both tiers: what every learner needs, and the content the specification marks for Higher tier learners, which this page labels **Higher tier only**.
 

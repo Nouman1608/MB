@@ -25,7 +25,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Files are the units in which ICT users keep their work, and managing them well saves time and prevents loss. Topic 11 of Cambridge IGCSE ICT 0417 asks you to manage files effectively (11.1) and to reduce their size for storage or transmission (11.2). In the practical papers you will be told what to name and where to save files and in what format, and any mistake can cost marks even when the document itself is perfect.

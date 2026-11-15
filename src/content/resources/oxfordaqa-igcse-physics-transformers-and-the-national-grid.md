@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 This guide covers section 3.6.2 (electricity transmission and distribution) of the OxfordAQA International GCSE Physics (9203) specification, for exams May/June 2018 onwards. It teaches every statement a to g from scratch, with worked examples. The qualification is untiered, so there is one route through the content.
 

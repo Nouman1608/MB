@@ -19,7 +19,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
 featured: false
-reviewNote: "2026-11-08: reviewed by harris-khan."
+reviewNote: "2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 ---
 
 Topic 9 of Cambridge O Level Computer Science (2210) covers single-table databases: setting one up from a description of the data, choosing data types and validation for its fields, choosing a primary key, and using structured query language (SQL) to get information out of it. The SQL is limited to a short list of keywords, so this is a topic where careful practice quickly turns into reliable marks on Paper 2.

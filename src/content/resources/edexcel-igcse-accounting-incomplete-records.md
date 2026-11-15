@@ -23,7 +23,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by javaid-iqbal-sabri."
+reviewNote: "2026-11-08: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 ---
 
 This guide teaches section 4.3 Incomplete records of the Pearson Edexcel International GCSE in Accounting (4AC1) specification, Issue 1, October 2016. It sits in Topic 4, The preparation of financial statements, which Paper 2 assesses (1 hour 15 minutes, 50 marks). The specification says Paper 2 also builds on topics 1-3, so expect to use your control account skills here. All amounts below are in dollars and every business is invented.

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by hina-mogul."
+reviewNote: "2026-11-08: credited to hina-mogul (accountable teacher, D-379)."
 ---
 
 Quick recall for statements B4.1a to B4.1d of the OCR GCSE (9-1) Gateway Science Biology A specification (J247), Version 4.0, in topic B4 Community level systems. None of these statements is printed in bold, so they are for both tiers. For full explanations and longer worked examples use the [study guide](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems/), then test yourself with the [practice questions](/resources/ocr-gcse-biology-material-cycling-and-decomposition-in-ecosystems-practice/). Course hub: [OCR GCSE Biology](/boards/ocr/gcse/biology/). Printable [checklist](/checklists/ocr/gcse/biology/). Find weak spots with a [free diagnostic](/diagnostics/).

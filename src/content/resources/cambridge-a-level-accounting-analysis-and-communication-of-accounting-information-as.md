@@ -22,7 +22,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-25
 featured: false
-reviewNote: "2026-11-08: reviewed by zain-ud-din-ahmed."
+reviewNote: "2026-11-08: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 ---
 
 This guide covers section 1.6, Analysis and communication of accounting information, of the Cambridge International AS & A Level Accounting 9706 syllabus for exams in 2026, 2027 and 2028. It is AS Level content (1.6.1 Users of accounting information and 1.6.2 Calculation and evaluation of ratios) and sits within Financial accounting. For the matching condensed page see the [revision notes](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-revision-notes/), and for exam-style questions the [practice set](/resources/cambridge-a-level-accounting-analysis-and-communication-of-accounting-information-as-practice/). The wider course is at the [Cambridge A Level Accounting hub](/boards/cambridge/a-level/accounting/), with a [printable checklist](/checklists/cambridge/a-level/accounting/) and the free [diagnostics](/diagnostics/). Non-current asset values used below come from [Accounting for Non-Current Assets](/resources/accounting-non-current-assets/).

@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-12
 featured: false
-reviewNote: "2026-11-08: reviewed by iftikhar-azeemi."
+reviewNote: "2026-11-08: credited to iftikhar-azeemi (accountable teacher, D-379)."
 ---
 These notes follow section 3.1.3, Resultant forces (statements a to h), of the 9203 OxfordAQA International GCSE Physics specification for exams from May/June 2018. It is an untiered qualification. If a point below is unclear, the [study guide](/resources/oxfordaqa-igcse-physics-resultant-forces-acceleration-and-newtons-laws/) explains it step by step.
 

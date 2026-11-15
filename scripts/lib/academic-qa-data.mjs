@@ -1,5 +1,5 @@
 /**
- * Shared loaders for the Academic QA framework (D-452): the validator
+ * Shared loaders for the Academic QA framework (D-454): the validator
  * (validate-academic-qa.mjs), the scorecard (academic-qa-scorecard.mjs) and
  * the review-pack generator read the repository through these, so they
  * agree on what a resource, a reviewer and a content hash are.
@@ -22,11 +22,28 @@ export const BOARD_DOMAINS = {
 };
 
 /**
- * sha256 of a resource file with line endings normalised to LF, so a
- * Windows checkout and CI produce the same hash (.gitattributes already
- * forces LF; this is belt and braces).
+ * Frontmatter keys that never reach a student and carry no academic claim:
+ * the internal review note and two display-ordering fields. Changing them
+ * does not change what was assessed, so they are left out of the hash.
+ * (Learned on 15 Nov 2026: D-453 reworded 7,636 reviewNote lines in one
+ * commit, which would otherwise have made every assessment stale.)
+ * Every other key, and the whole body, is hashed: an unknown or new field
+ * counts as content until someone decides otherwise.
  */
-export const contentSha256 = (text) => createHash('sha256').update(text.replace(/\r\n/g, '\n'), 'utf8').digest('hex');
+export const HASH_EXCLUDED_KEYS = ['reviewNote', 'featured', 'order'];
+const EXCLUDED_LINE = new RegExp(`^(?:${HASH_EXCLUDED_KEYS.join('|')}):.*$\\n?`, 'gm');
+
+/**
+ * sha256 of a resource's academic content: the file with LF line endings
+ * (a Windows checkout and CI agree), minus the HASH_EXCLUDED_KEYS lines of
+ * the frontmatter.
+ */
+export function contentSha256(text) {
+  const lf = text.replace(/\r\n/g, '\n');
+  const m = lf.match(/^---\n([\s\S]*?\n)---\n/);
+  const normalised = m ? `---\n${m[1].replace(EXCLUDED_LINE, '')}---\n${lf.slice(m[0].length)}` : lf;
+  return createHash('sha256').update(normalised, 'utf8').digest('hex');
+}
 export const fileSha256 = (path) => contentSha256(readFileSync(path, 'utf8'));
 
 const scalar = (fm, key) => (fm.match(new RegExp(`^${key}:\\s*(.*)$`, 'm'))?.[1] ?? '').trim().replace(/^["']|["']$/g, '');

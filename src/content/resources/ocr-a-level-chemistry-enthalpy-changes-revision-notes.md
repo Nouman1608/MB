@@ -21,7 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-07
 featured: false
-reviewNote: "2026-11-08: reviewed by nouman-ahmed."
+reviewNote: "2026-11-08: credited to nouman-ahmed (accountable teacher, D-379)."
 ---
 
 These notes condense section 3.2.1, Enthalpy changes, of the OCR A Level Chemistry A (H432) specification, Version 3.1 (May 2026), for first assessment in 2017. They cover all eight learning outcomes, 3.2.1(a) to (h), in Module 3, Periodic table and energy. H432 is the full A level. The explanations behind every point are in the [Enthalpy changes study guide](/resources/ocr-a-level-chemistry-enthalpy-changes/).

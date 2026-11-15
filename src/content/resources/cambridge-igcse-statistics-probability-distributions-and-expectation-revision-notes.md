@@ -20,7 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-10-11
 featured: false
-reviewNote: "2026-11-08: reviewed by sajawal-zahid."
+reviewNote: "2026-11-08: credited to sajawal-zahid (accountable teacher, D-379)."
 ---
 
 Quick recall for **Cambridge IGCSE Statistics (0479)**, based on the Cambridge IGCSE Statistics 0479 syllabus for examination in 2027, **Topic 8 Probability distributions (8.1 and 8.2)**. The [study guide](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation/) has the full explanations and longer examples. Try the [practice questions](/resources/cambridge-igcse-statistics-probability-distributions-and-expectation-practice/). See also the [course hub](/boards/cambridge/igcse/statistics/), the [printable checklist](/checklists/cambridge/igcse/statistics/) and the [free diagnostics](/diagnostics/).
