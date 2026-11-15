@@ -25,7 +25,7 @@ the human sign-off is outstanding for every review-pending resource.
 | With a repository-side verification record | 780 |
 | Corrected in the 4 Oct 2026 programme | 48 |
 | Pending with no reviewer assigned | 387 |
-| Showing "Checked by Marlbridge Academic Team" (specCheck) | 332 |
+| Showing "Checked by Marlbridge Academic Team" (specCheck) | 292 |
 
 **Review status (frontmatter)**
 

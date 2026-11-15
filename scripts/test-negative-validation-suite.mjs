@@ -602,6 +602,17 @@ if (!existsSync(labelFixtureFile)) {
       label: '9626 resource page whose "Aligned to" line says "Cambridge A Level ICT (9626)" is rejected (B15)',
     },
   );
+  // D-448 (finding A) -- the exact live defect: the 0620 2.1-2.3 page
+  // rendering its parent topic as "(whole topic)" with no coverage claim.
+  withMutation(
+    'dist/resources/igcse-chemistry-0620-elements-atomic-structure-and-isotopes/index.html',
+    (text) => text.replace('<li class="m-0" data-point-level="subtopic">2.1 ', '<li class="m-0" data-point-level="topic">2 Atoms, elements and compounds (whole topic)</li><li class="m-0" data-point-level="subtopic">2.1 '),
+    {
+      validatorCmd: 'node scripts/validate-rendered-academic-labels.mjs',
+      expectSubstring: 'renders "(whole topic)" but no syllabusTopics entry carries coverage: "whole-topic"',
+      label: '0620 2.1-2.3 page rendering "(whole topic)" without a coverage claim is rejected (D-448)',
+    },
+  );
 }
 
 console.log('\n[AA] Review-coverage audit rejects the retired blanket teacher-review claim reappearing (D-134)');
@@ -873,6 +884,97 @@ withMutation(
     validatorCmd: 'node --experimental-strip-types scripts/validate-assessments.mjs',
     expectSubstring: 'invalid assessmentModel "terminal"',
     label: "OxfordAQA 9236's assessmentModel set to an invented value is rejected",
+  },
+);
+
+// D-448 (findings A/E) -- topic membership is not coverage.
+const FA = 'src/content/resources/igcse-chemistry-0620-elements-atomic-structure-and-isotopes.md';
+const FA_PARENT = '  - qualification: "igcse"\n    topic: "atoms-elements-and-compounds"\n  - qualification: "igcse"\n    topic: "atoms-elements-and-compounds"\n    subtopic: "elements-compounds-and-mixtures"';
+console.log('\n[AN] D-448 -- a false whole-topic claim on a partial resource is rejected');
+withMutation(
+  FA,
+  (text) => text.replace(FA_PARENT, FA_PARENT.replace('topic: "atoms-elements-and-compounds"\n  -', 'topic: "atoms-elements-and-compounds"\n    coverage: "whole-topic"\n  -')),
+  {
+    validatorCmd: 'node scripts/validate-academic-content.mjs',
+    expectSubstring: '[M3] coverage "whole-topic" claims all of topic "atoms-elements-and-compounds" but the resource lists only 3',
+    label: '0620 2.1-2.3 page claiming the whole of topic 2 is rejected',
+  },
+);
+
+console.log('\n[AO] D-448 -- a subtopic filed under the wrong parent topic is rejected');
+withMutation(
+  FA,
+  (text) => text.replace('    topic: "atoms-elements-and-compounds"\n    subtopic: "isotopes"', '    topic: "stoichiometry"\n    subtopic: "isotopes"'),
+  {
+    validatorCmd: 'node scripts/validate-academic-content.mjs',
+    expectSubstring: '[M1] subtopic "isotopes" is not part of topic "stoichiometry"',
+    label: '0620 isotopes listed under stoichiometry is rejected',
+  },
+);
+
+console.log('\n[AP] D-448 -- a coverage claim on a subtopic entry is rejected');
+withMutation(
+  FA,
+  (text) => text.replace('    subtopic: "isotopes"', '    subtopic: "isotopes"\n    coverage: "whole-topic"'),
+  {
+    validatorCmd: 'node scripts/validate-academic-content.mjs',
+    expectSubstring: '[M2] coverage "whole-topic" is set on a subtopic entry',
+    label: 'coverage on a subtopic entry is rejected',
+  },
+);
+
+console.log('\n[AQ] D-448 -- an "all Core content" claim on an untiered syllabus is rejected');
+withMutation(
+  'src/content/resources/ocr-gcse-chemistry-atomic-structure.md',
+  (text) => text.replace('syllabusTopics:\n', 'syllabusTopics:\n  - qualification: "gcse"\n    topic: "topic-c1-particles-j248"\n    coverage: "whole-topic-core"\n'),
+  {
+    validatorCmd: 'node scripts/validate-academic-content.mjs',
+    expectSubstring: '[M4] coverage "whole-topic-core"',
+    label: 'whole-topic-core on untiered OCR GCSE Chemistry is rejected',
+  },
+);
+
+console.log('\n[AR] D-448 -- a "Checked by" line with no verification record is rejected');
+withMutation(
+  'src/content/resources/aqa-a-level-business-exam-preparation.md',
+  (text) => text.replace('reviewStatus: "review-pending"', 'specCheck:\n  by: "marlbridge-academic-team"\n  date: 2026-11-15\n  scope: "official-specification"\nreviewStatus: "review-pending"'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'has no verification record',
+    label: 'specCheck on a page never verified is rejected',
+  },
+);
+
+console.log('\n[AS] D-448 -- a verification record citing another board\'s specification is rejected');
+withMutation(
+  'docs/reports/academic-review/pending-review-2026-10-04.json',
+  (text) => text.replace('"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.cambridgeinternational.org/Images/697359-2026-2028-syllabus.pdf"', '"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.aqa.org.uk/subjects/x/specification.pdf"'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'an official aqa source, not one for its own board(s) cambridge',
+    label: 'Cambridge page "checked" against an AQA document is rejected',
+  },
+);
+
+console.log('\n[AT] D-448 -- an AP page credited to a teacher whose profile does not list the course is rejected');
+withMutation(
+  'src/content/ap-resources/chemistry/1-1-moles-and-molar-mass-checklist.md',
+  (text) => text.replace('reviewer: "Nouman Ahmed"', 'reviewer: "Ameer Hamza"'),
+  {
+    validatorCmd: 'node --experimental-strip-types scripts/validate-ap-library.mjs',
+    expectSubstring: 'profile does not list chemistry in apCoursesReviewed',
+    label: 'AP Chemistry page credited to the Biology reviewer is rejected',
+  },
+);
+
+console.log('\n[AU] D-448 -- a fabricated teacher verification is rejected');
+withMutation(
+  'docs/reports/academic-review/teacher-verifications.json',
+  (text) => text.replace('"results": []', '"results": [{ "resource": "igcse-chemistry-0620-elements-atomic-structure-and-isotopes", "reviewer": "hina-mogul", "board": "aqa", "syllabusCode": "0620", "syllabusSeries": "2026-2028", "date": "2099-01-01", "scope": "whole page", "sources": ["https://example.com/0620.pdf"], "findings": "none", "corrections": [], "approval": "signed-off", "evidence": "TODO" }]'),
+  {
+    validatorCmd: 'node scripts/validate-review-integrity.mjs',
+    expectSubstring: 'is not one of the resource\'s boards',
+    label: 'teacher verification with wrong board, future date, unknown approval and placeholder evidence is rejected',
   },
 );
 

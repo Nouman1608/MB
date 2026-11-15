@@ -14,8 +14,8 @@
     "combinationsUnderDepthTarget": 0,
     "combinationsWithTopicGaps": 0,
     "medianResourcesPerCombination": 45,
-    "medianWordsPerResource": 2219,
-    "resourcesUnder900Words": 10,
+    "medianWordsPerResource": 2226,
+    "resourcesUnder900Words": 6,
     "resourcesUnder400Words": 0,
     "assessment": {
       "VERIFIED_COMPLETE": 166,
@@ -93,7 +93,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 112320,
+      "totalQualifyingWordCount": 113468,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -143,7 +143,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 84484,
+      "totalQualifyingWordCount": 85220,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -243,7 +243,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 127802,
+      "totalQualifyingWordCount": 134000,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -293,7 +293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 16430,
+      "totalQualifyingWordCount": 17773,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -343,7 +343,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 23863,
+      "totalQualifyingWordCount": 24980,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -643,7 +643,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 222112,
+      "totalQualifyingWordCount": 224722,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -793,7 +793,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 66690,
+      "totalQualifyingWordCount": 70525,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -893,7 +893,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 21661,
+      "totalQualifyingWordCount": 23293,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -943,7 +943,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 39430,
+      "totalQualifyingWordCount": 42254,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -1093,7 +1093,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 101767,
+      "totalQualifyingWordCount": 103177,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -1293,7 +1293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 16633,
+      "totalQualifyingWordCount": 16989,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -1543,7 +1543,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 100535,
+      "totalQualifyingWordCount": 111406,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -1693,7 +1693,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 42894,
+      "totalQualifyingWordCount": 47745,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -1743,7 +1743,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 146473,
+      "totalQualifyingWordCount": 146845,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -1793,7 +1793,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 22954,
+      "totalQualifyingWordCount": 24400,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -1943,7 +1943,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 39318,
+      "totalQualifyingWordCount": 42241,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2193,7 +2193,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 47090,
+      "totalQualifyingWordCount": 49983,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2293,7 +2293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 36494,
+      "totalQualifyingWordCount": 41048,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -2343,7 +2343,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 94564,
+      "totalQualifyingWordCount": 101280,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2543,7 +2543,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 140646,
+      "totalQualifyingWordCount": 142304,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2643,7 +2643,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 30655,
+      "totalQualifyingWordCount": 32294,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -2693,7 +2693,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 44442,
+      "totalQualifyingWordCount": 49477,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2843,7 +2843,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 51559,
+      "totalQualifyingWordCount": 58215,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -2893,7 +2893,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 120886,
+      "totalQualifyingWordCount": 122519,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3143,7 +3143,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 22289,
+      "totalQualifyingWordCount": 22631,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3193,7 +3193,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 21174,
+      "totalQualifyingWordCount": 21498,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3443,7 +3443,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 69568,
+      "totalQualifyingWordCount": 70350,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3493,7 +3493,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 13505,
+      "totalQualifyingWordCount": 14091,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3543,7 +3543,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 72881,
+      "totalQualifyingWordCount": 73575,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -3693,7 +3693,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 34455,
+      "totalQualifyingWordCount": 36697,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -3743,7 +3743,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 49938,
+      "totalQualifyingWordCount": 52583,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -3943,7 +3943,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 30678,
+      "totalQualifyingWordCount": 32601,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -4093,7 +4093,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 200302,
+      "totalQualifyingWordCount": 217025,
       "evidence": "marlbridge",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -4293,7 +4293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 251759,
+      "totalQualifyingWordCount": 252895,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -4743,7 +4743,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 16843,
+      "totalQualifyingWordCount": 17313,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -4793,7 +4793,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 80097,
+      "totalQualifyingWordCount": 89724,
       "evidence": "la-course",
       "risks": "none",
       "nextAction": "None."
@@ -5143,7 +5143,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 18084,
+      "totalQualifyingWordCount": 19457,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -5332,7 +5332,7 @@
       "subjectGuideCount": 1,
       "learningArticleCount": 0,
       "totalResourceCount": 19,
-      "resourcesUnder900Words": 8,
+      "resourcesUnder900Words": 4,
       "reviewedCount": 19,
       "reviewPendingCount": 0,
       "namedAuthors": "marlbridge-academic-team (19)",
@@ -5343,7 +5343,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 20665,
+      "totalQualifyingWordCount": 22437,
       "evidence": "marlbridge",
       "risks": "none",
       "nextAction": "None."
@@ -5393,7 +5393,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 39378,
+      "totalQualifyingWordCount": 41854,
       "evidence": "marlbridge",
       "risks": "none",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -5593,7 +5593,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 28692,
+      "totalQualifyingWordCount": 34064,
       "evidence": "marlbridge",
       "risks": "none",
       "nextAction": "None."
@@ -5643,7 +5643,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 23606,
+      "totalQualifyingWordCount": 24734,
       "evidence": "marlbridge",
       "risks": "none",
       "nextAction": "None."
@@ -6693,7 +6693,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 267309,
+      "totalQualifyingWordCount": 271493,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -6993,7 +6993,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 39336,
+      "totalQualifyingWordCount": 43366,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7293,7 +7293,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 16097,
+      "totalQualifyingWordCount": 16884,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7343,7 +7343,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 13535,
+      "totalQualifyingWordCount": 14180,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7443,7 +7443,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 18380,
+      "totalQualifyingWordCount": 19631,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -7593,7 +7593,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 16575,
+      "totalQualifyingWordCount": 17779,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "Named-reviewer sign-off of review-pending resources."
@@ -7843,7 +7843,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 119241,
+      "totalQualifyingWordCount": 119608,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -8143,7 +8143,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 19297,
+      "totalQualifyingWordCount": 20448,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
@@ -8193,7 +8193,7 @@
       "teachingStatus": "teaching",
       "enrolmentStatus": "enquire",
       "indexable": true,
-      "totalQualifyingWordCount": 18628,
+      "totalQualifyingWordCount": 19904,
       "evidence": "board",
       "risks": "evidence-is-blanket-authorization-not-subject-specific-confirmation",
       "nextAction": "None."
