@@ -4,8 +4,10 @@ import Section from '../../components/layout/Section.astro';
 import Container from '../../components/layout/Container.astro';
 import { FALLBACK_EMAIL } from '../../utils/forms/submit';
 import { getResources, getArticles } from '../../utils/content/collections';
+// D-448: the dated, per-resource check record the review ledger reads.
+import verification from '../../../docs/reports/academic-review/pending-review-2026-10-04.json';
 const mailto = 'mailto:' + FALLBACK_EMAIL;
-const lastUpdated = '5 October 2026';
+const lastUpdated = '15 November 2026';
 
 /**
  * Round 42 (E938 (10)): the authorship and review statements below are
@@ -23,6 +25,8 @@ const teamPercent = totalResources > 0 ? Math.round((teamResources / totalResour
 const namedAuthorCount = new Set(allResources.map((r) => r.data.author?.id).filter((id) => id && id !== TEAM_ID)).size;
 const practice = allResources.filter((r) => r.data.resourceType === 'practice-questions');
 const namedPractice = practice.filter((r) => r.data.author?.id !== TEAM_ID).length;
+const verifiedSlugs = new Set((verification as { results: { slug: string }[] }).results.map((r) => r.slug));
+const recordedCheckResources = allResources.filter((r) => verifiedSlugs.has(r.id)).length;
 const reviewedResources = allResources.filter((r) => r.data.reviewStatus === 'reviewed' && r.data.reviewer).length;
 const reviewedArticles = allArticles.filter((a) => a.data.reviewStatus === 'reviewed' && a.data.reviewer).length;
 const teamArticles = allArticles.filter((a) => a.data.author.id === TEAM_ID).length;
@@ -66,9 +70,11 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
         <p>
           Marlbridge does not state a blanket, non-attributed claim that every published resource has been
           reviewed by a teacher. Every resource is written against the official syllabus document for the
-          board, qualification and syllabus code it declares, and is checked against that document before
-          publication, whichever byline it carries (see "Editorial policy" above and "Copyright and original questions"
-          below). Separately, many resources name a subject teacher in a "Reviewed by [name]" line. On
+          board, qualification and syllabus code it declares, whichever byline it carries (see "Editorial policy"
+          above and "Copyright and original questions" below). A dated check of a resource against that document
+          is recorded resource by resource in our review ledger; at present {plural(recordedCheckResources, 'resource has', 'resources have')} such
+          a record, out of {totalResources.toLocaleString('en-US')}. The others rely on the accountable teacher named on the page, where
+          there is one, and on the corrections process below. Separately, many resources name a subject teacher in a "Reviewed by [name]" line. On
           Marlbridge, that line means the named teacher is the subject teacher accountable for that page's
           accuracy: they answer questions and corrections about it, and the page is theirs to put right. It
           is not a record of a dated, line-by-line check, and the site does not claim one (owner's
@@ -96,7 +102,9 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
         <p>
           On the advanced-course (US curriculum) study pages under /advanced-course-resources/, the same line means
           the page was checked in the same way against the College Board Course and Exam Description for the
-          2026–27 school year and its published clarifications.
+          2026–27 school year and its published clarifications. The "Reviewed by" line on those pages means
+          the same as elsewhere on the site: the named teacher is accountable for the page, not a record of a
+          dated, line-by-line check, and that teacher's profile lists the course.
         </p>
 
         <h2 id="syllabus-verification-policy">Syllabus verification policy</h2>
@@ -133,11 +141,12 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
         <p>
           Some of the drafting, editing, validation tooling and site engineering behind Marlbridge is produced
           with the assistance of AI systems, under human direction and review. Academic facts — syllabus codes,
-          specification content, assessment structure — are always checked against the awarding body's own
-          official source before publication, regardless of how a draft was produced; an AI system's own
-          background knowledge is never treated as a citable source for an academic claim on this site. Original
-          practice questions and worked examples are reviewed for correctness before publication in the same way
-          as any other content.
+          specification content, assessment structure — are taken from the awarding body's own official
+          source, regardless of how a draft was produced; an AI system's own background knowledge is never
+          treated as a citable source for an academic claim on this site. Where a resource, including its
+          original practice questions and worked examples, has had a dated check against that source, it is
+          recorded as described under <a href="#academic-review-policy">Academic review policy</a>; an AI-assisted
+          check is never described as a teacher review.
         </p>
 
         <h2 id="content-versioning">Content versioning</h2>

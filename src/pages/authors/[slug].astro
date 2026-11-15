@@ -1,4 +1,6 @@
 ---
+import { apCourseBySlug } from '../../data/ap/frameworks';
+import { apVisibleName } from '../../utils/ap/library';
 import { render, type CollectionEntry } from 'astro:content';
 import PageLayout from '../../layouts/PageLayout.astro';
 import Section from '../../components/layout/Section.astro';
@@ -92,6 +94,8 @@ const teachingFacts = [
   d.subjectsTaught.length > 0 && { label: 'Teaches', value: d.subjectsTaught.join(' · ') },
   // D-408 -- subjects reviewed but not taught at Marlbridge.
   d.subjectsReviewed.length > 0 && { label: 'Reviews study resources in', value: d.subjectsReviewed.join(' · ') },
+  // D-448: AP courses this teacher is the accountable reviewer for (not a teaching claim).
+  d.apCoursesReviewed.length > 0 && { label: 'Reviews advanced-course (US curriculum) resources in', value: d.apCoursesReviewed.map((slug) => { const course = apCourseBySlug(slug); if (!course) throw new Error(`authors/${author.id}: unknown AP course "${slug}" in apCoursesReviewed`); return apVisibleName(course); }).join(' · ') },
   // D-331 (owner decision, 25 Sep 2026): every Marlbridge teacher teaches all levels.
   // A per-teacher list, if one is ever recorded, still wins.
   isTeacher && { label: 'Levels', value: d.qualificationsTaught.length > 0 ? d.qualificationsTaught.join(' · ') : ALL_LEVELS_LABEL },

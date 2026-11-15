@@ -32,6 +32,12 @@ import { apFlashcardCourses, apFlashcardsPath, apUnitsWithCards } from '../src/d
 
 const ROOT = 'src/content/ap-resources';
 let problems = 0;
+/** D-448 -- author profile name -> AP courses it is the accountable reviewer for. */
+const AP_REVIEWERS = new Map();
+for (const f of readdirSync('src/content/authors').filter((x) => x.endsWith('.md'))) {
+  const fm = YAML.parse(readFileSync(join('src/content/authors', f), 'utf8').split('---')[1] ?? '') ?? {};
+  if (fm.isReviewer === true && fm.name) AP_REVIEWERS.set(fm.name, { id: f.replace(/\.md$/, ''), courses: fm.apCoursesReviewed ?? [] });
+}
 const fail = (file, msg) => { console.error(`  ✗ ${file}: ${msg}`); problems++; };
 
 const files = [];
@@ -93,6 +99,12 @@ for (const r of records) {
   const reviewedState = ['reviewed', 'published'].includes(d.editorialStatus);
   if (reviewedState && (!d.reviewer || !d.reviewedDate)) fail(r.path, `${d.editorialStatus} requires reviewer and reviewedDate as actually supplied`);
   if (!reviewedState && (d.reviewer || d.reviewedDate)) fail(r.path, 'reviewer/reviewedDate set but editorialStatus is not reviewed/published');
+  // D-448 -- the AP "Reviewed by" name must be an accountable reviewer whose profile lists this course.
+  if (reviewedState && d.reviewer) {
+    const prof = AP_REVIEWERS.get(d.reviewer);
+    if (!prof) fail(r.path, `reviewer "${d.reviewer}" matches no author profile with isReviewer: true`);
+    else if (!prof.courses.includes(d.course)) fail(r.path, `reviewer "${d.reviewer}"'s profile does not list ${d.course} in apCoursesReviewed`);
+  }
   if (/reviewed by|checked by an? (AP )?teacher|teacher-reviewed/i.test(r.body)) fail(r.path, 'body must not claim a teacher review');
 
   // D-390 -- "Checked by" line: a real author profile, a sane date, never on a reviewed page.

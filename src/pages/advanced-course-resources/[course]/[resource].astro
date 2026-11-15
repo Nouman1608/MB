@@ -4,7 +4,7 @@
  * (src/data/ap/config.ts). Every metadata field in the panel comes straight from the
  * resource's validated frontmatter (scripts/validate-ap-library.mjs).
  */
-import { getEntry, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import Section from '../../../components/layout/Section.astro';
 import Container from '../../../components/layout/Container.astro';
@@ -49,6 +49,15 @@ const sources = d.sources.map(apSourceById).filter((s): s is NonNullable<typeof 
 const visible = apVisibleName(c);
 const topicLabel = topics.map((t) => `${t.number} ${t.title}`).join('; ');
 const reviewed = d.editorialStatus === 'reviewed' || d.editorialStatus === 'published';
+/**
+ * D-448 (owner decision, 15 Nov 2026): the AP "Reviewed by" line means what it
+ * means on the main site since D-379 -- the named subject teacher accountable
+ * for the page -- so it links that teacher's profile and the policy, and shows
+ * no date (reviewedDate is when the credit was applied, not a review event).
+ * validate-ap-library requires the profile to list this course in
+ * apCoursesReviewed.
+ */
+const reviewerProfile = d.reviewer ? (await getCollection('authors')).find((a) => a.data.name === d.reviewer && a.data.isReviewer === true && a.data.apCoursesReviewed.includes(d.course)) : undefined;
 const faq = AP_MARK_IN_METADATA ? faqNode(d.faqs) : (d.faqs.length && !d.faqs.some((f) => /\bAP\b|Advanced Placement|College Board/.test(f.question + f.answer)) ? faqNode(d.faqs) : null);
 const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`https://marlbridge.com${path}`)}`;
 const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
@@ -125,8 +134,8 @@ const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] t
             {skills.length > 0 && <div><dt class="font-semibold text-navy-800">Skills practised</dt><dd class="m-0">{skills.map((s) => `${s.number}. ${s.name}`).join('; ')}</dd></div>}
             <div><dt class="font-semibold text-navy-800">Framework</dt><dd class="m-0">{d.framework.schoolYear} school year, {d.framework.examSeries} exam</dd></div>
             <div><dt class="font-semibold text-navy-800">Written by</dt><dd class="m-0">{author?.data.name ?? 'Marlbridge Academic Team'}</dd></div>
-            {reviewed && d.reviewer && d.reviewedDate
-              ? <div><dt class="font-semibold text-navy-800">Reviewed by</dt><dd class="m-0">{d.reviewer}, {formatDay(d.reviewedDate)}</dd></div>
+            {reviewed && d.reviewer && reviewerProfile
+              ? <div><dt class="font-semibold text-navy-800">Reviewed by</dt><dd class="m-0"><a href={routes.author(reviewerProfile.id)} class="underline decoration-teal-500 underline-offset-2">{reviewerProfile.data.name}</a> (<a href="/legal/editorial-policy/#academic-review-policy" class="underline decoration-teal-500 underline-offset-2">what this means</a>)</dd></div>
               : checker && d.checkedDate
                 ? <div><dt class="font-semibold text-navy-800">Checked by</dt><dd class="m-0">{checker.data.name}, against the 2026–27 course framework, {formatDay(d.checkedDate)} (<a href="/legal/editorial-policy/#specification-check" class="underline decoration-teal-500 underline-offset-2">what this means</a>)</dd></div>
                 : <div><dt class="font-semibold text-navy-800">Status</dt><dd class="m-0">{apStatusLabel[d.editorialStatus]}</dd></div>}

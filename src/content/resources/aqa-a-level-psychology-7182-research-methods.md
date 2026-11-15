@@ -18,10 +18,6 @@ syllabusTopics:
     subtopic: "research-methods-7182"
 description: "Study guide to AQA A-level Psychology 7182 Research methods: methods, scientific processes, data handling, statistics, inferential tests and choosing a test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -30,10 +30,6 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Health Psychology: patient–practitioner relationship, adherence, pain, stress and health promotion, 3.1 to 3.5."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-11-08
-  scope: "official-specification"
 publishedDate: 2026-11-08
 featured: false
 ---
