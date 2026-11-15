@@ -13,10 +13,12 @@ Baseline = clean `main` at `24c0bc63`. For the two mutation suites it was run in
 | `coverage:academic-v2 --check` | **FAIL** (pre-existing: stale report) | PASS (regenerated) |
 | `audit-topic-coverage-claims.mjs --check` (new) | n/a | PASS: 0 unsupported completeness labels |
 | `npm run build` | not run on baseline | exit 0, 13,838 pages (two builds: before and after the final edits) |
-| `npm run test:reports` | 44 pass / **4 fail** (pre-existing: stale ledger/coverage; review-pending resources without a verification record; reviewed-as-credit wording check) | pending |
-| `node scripts/test-negative-validation-suite.mjs` | 37 pass / **1 fail** (pre-existing: committed llms.txt stale, so [E] cannot restore byte-for-byte) | pending |
-| `npm run audit:all` | not run on baseline | pending |
-| `npm run audit:tiered-faq-routes` (dist) | not run on baseline | pending |
+| `npm run test:reports` (not in CI) | 44 pass / **4 fail** (pre-existing) | 46 pass / **2 fail**. Both are identical to baseline and come from the data, not this change: "every review-pending resource has a repository-side verification result" (95 UNVERIFIED) and "every reviewed resource is reported as a teacher credit". The two stale-report failures are fixed. |
+| `node scripts/test-negative-validation-suite.mjs` (CI) | 37 pass / **1 fail** (pre-existing: committed llms.txt stale) | **54 pass / 0 fail** (new cases AN-AU plus a rendered whole-topic fixture; the llms.txt failure is fixed) |
+| `npm run audit:all` (CI) | not run on baseline | PASS. Includes rendered-label audit [3]: 7,685 syllabus-point lists, 0 unsupported whole-topic labels; 13,828 sitemap URLs; 13,838 pages |
+| `audit:tiered-faq-routes` (in audit:all) | — | 166 hub FAQ answers checked, 0 problems |
+| `node scripts/test-cross-board-regression.mjs` (CI) | — | OK |
+| Browser journeys `scripts/e2e-navigation-journeys.mjs` (CI) | — | 11 of 11 passed (local Playwright; CI pins 1.56.0) |
 
 ## Targeted checks of the corrected defects
 
