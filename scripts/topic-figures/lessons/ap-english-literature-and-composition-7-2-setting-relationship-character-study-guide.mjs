@@ -157,7 +157,8 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   let y = 180;
   rowsD.forEach(([k, sub, a, c, d], i) => {
     const hs = [a, c, d].map((s) => para(0, 0, s, w - 28, { size: 16 }).h);
-    const h = Math.max(...hs, 46) + 30;
+    const subH = para(0, 0, sub, w - 30, { size: 15 }).h;
+    const h = Math.max(Math.max(...hs, 46) + 30, 62 + subH);
     b += `<rect x="30" y="${y}" width="${w}" height="${h}" rx="10" fill="${i === 3 ? C.cream : C.tealLight}" stroke="${i === 3 ? C.olive : C.tealDark}" stroke-width="2"/>`;
     b += T(46, y + 30, k, { size: 18, weight: 700 }) + para(46, y + 54, sub, w - 30, { size: 15, fill: C.muted }).s;
     [a, c, d].forEach((s, j) => {
@@ -265,14 +266,13 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   b += `<clipPath id="cw"><rect x="${wx}" y="${wy}" width="120" height="140"/></clipPath>`;
   b += `<rect x="${wx - 6}" y="${wy - 6}" width="132" height="152" fill="none" stroke="${C.ink}" stroke-width="6"/><line x1="${wx + 60}" y1="${wy}" x2="${wx + 60}" y2="${wy + 140}" stroke="${C.ink}" stroke-width="4"/>`;
   b += T(wx + 60, wy + 168, 'brick wall "a yard off"', { size: 15, anchor: 'middle', italic: true, weight: 600 });
-  ['"narrow hall"', 'stairs for "one person and a half"', 'a cough through "the thin wall"', '"boiled cabbage and wet wool"', '"The front\'s let"'].forEach((s, i) => { b += para(210, yP + 98 + i * 38, s, 215, { size: 15, italic: true, bullet: true }).s; });
+  { let by = yP + 98; ['"narrow hall"', 'stairs for "one person and a half"', 'a cough through "the thin wall"', '"boiled cabbage and wet wool"', '"The front\'s let"'].forEach((s) => { const pp = para(204, by, s, 222, { size: 15, italic: true, bullet: true }); b += pp.s; by += pp.h + 6; }); }
   b += T(479, yP + 36, "Her father's field", { size: 20, weight: 700 }) + T(479, yP + 60, 'the memory: space and freedom', { size: 16, fill: C.tealDark });
   const fy = yP + 220;
   b += `<path d="M479,${fy} Q620,${fy - 30} 850,${fy - 10} L850,${fy + 60} L479,${fy + 60} Z" fill="${C.grass}" opacity="0.55"/>`;
   b += `<rect x="760" y="${fy - 74}" width="70" height="60" fill="${C.rust}" stroke="${C.ink}" stroke-width="3"/><path d="M752,${fy - 74} L795,${fy - 108} L838,${fy - 74} Z" fill="${C.rust}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
   [[540, 130], [600, 110], [655, 145], [700, 115], [580, 160]].forEach(([x, y]) => { b += path(`M${x - 12},${yP + y - 6} Q${x - 6},${yP + y - 2} ${x},${yP + y + 4} Q${x + 6},${yP + y - 2} ${x + 12},${yP + y - 6}`, { w: 3 }); });
   b += T(600, fy + 40, 'she once "counted the swallows"', { size: 15, anchor: 'middle', italic: true, weight: 600 });
-  b += `<rect x="410" y="${yP + H / 2 - 22}" width="80" height="44" rx="22" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>` + T(450, yP + H / 2 + 7, 'versus', { size: 16, weight: 700, anchor: 'middle' });
   let y = yP + H + 20;
   const r = row(y, [
     { kicker: "ROSA'S BEHAVIOUR", body: ['"held her breath" until the smell "had made its peace with her"', 'smooths each dress "as if it might otherwise take offence"'], bullets: true, size: 16 },
@@ -291,11 +291,11 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   let b = '';
   const yP = 110, H = 270;
   const sc = (x, title, sub, lines, f, e) => panel(x, yP, 360, H, f, e) + T(x + 20, yP + 38, title, { size: 22, weight: 700 }) + T(x + 20, yP + 62, sub, { size: 16, fill: C.muted, weight: 600 }) +
-    lines.map((s, i) => para(x + 20, yP + 100 + i * 40, s, 320, { size: 16, italic: true, bullet: true }).s).join('');
-  b += sc(30, 'The kitchen', 'noisy, crowded, busy', ['"a roar of pans and gossip"', 'the kettle\'s "long argument with the fire"', 'constant demands and talk'], C.panel, C.panelEdge);
+    (() => { let by = yP + 100, o = ''; lines.forEach((s) => { const pp = para(x + 20, by, s, 320, { size: 16, italic: true, bullet: true }); o += pp.s; by += pp.h + 10; }); return o; })();
+  b += sc(30, 'The kitchen', 'noisy, crowded, busy', ['"a roar of pans and gossip"', 'the kettle\'s "long argument with the fire"'], C.panel, C.panelEdge);
   b += sc(510, 'The shore', 'quiet, exposed', ['"the tide had gone far out"', 'boats "leaning on their sides"', 'a gull: "one note, over and over"'], C.tealLight, C.tealDark);
   // noise bars
-  [0, 1, 2, 3, 4, 5, 6].forEach((i) => { const h = [40, 62, 50, 70, 46, 66, 54][i]; b += `<rect x="${60 + i * 22}" y="${yP + H - 20 - h}" width="14" height="${h}" rx="3" fill="${C.rust}" opacity="0.8"/>`; });
+  [0, 1, 2, 3, 4, 5, 6].forEach((i) => { const h = [30, 46, 38, 52, 34, 50, 40][i]; b += `<rect x="${60 + i * 22}" y="${yP + H - 20 - h}" width="14" height="${h}" rx="3" fill="${C.rust}" opacity="0.8"/>`; });
   b += `<rect x="540" y="${yP + H - 34}" width="14" height="14" rx="3" fill="${C.tealDark}"/>`;
   b += T(220, yP + H - 26, 'noise', { size: 15, fill: C.muted }) + T(566, yP + H - 22, 'one note', { size: 15, fill: C.muted });
   // boats

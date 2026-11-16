@@ -272,26 +272,26 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
 {
   const Y = 130;
   let s = '';
-  // rising/arching path
-  const pts = [[120, Y + 250], [340, Y + 120], [560, Y + 170], [780, Y + 70]];
-  s += path(`M60,${Y + 270} C200,${Y + 270} 230,${Y + 120} 340,${Y + 120} S480,${Y + 180} 560,${Y + 170} S700,${Y + 60} 840,${Y + 66}`, { stroke: C.tealDark, w: 4, extra: 'marker-end="url(#ahT)"' });
-  s += `<line x1="60" y1="${Y + 300}" x2="840" y2="${Y + 300}" stroke="${C.ink}" stroke-width="3"/>` + T(60, Y + 326, 'start of the novel', { size: 15, fill: C.muted }) + T(840, Y + 326, 'end', { size: 15, fill: C.muted, anchor: 'end' });
-  const labels = [['Opening position', 'how it is first established'], ['Turning point', 'an event that changes or tests it'], ['Development', 'how the change plays out'], ['Ending', 'where the novel leaves it']];
-  const pos = [[120, Y + 268], [340, Y + 120], [560, Y + 172], [780, Y + 69]];
-  pos.forEach(([x, y], i) => {
-    s += badge(x, y, 20, String(i + 1), i === 3 ? C.mustard : C.cream);
-    const above = i % 2 === 1 || i === 3;
-    const ty = i === 0 ? y - 90 : i === 1 ? y + 50 : i === 2 ? y + 50 : y + 50;
-    s += T(x, ty, labels[i][0], { size: 18, weight: 700, anchor: 'middle' }) + T(x, ty + 22, labels[i][1], { size: 15, anchor: 'middle', fill: C.muted });
-    void above;
+  const P = [[50, Y + 262], [130, Y + 240], [340, Y + 110], [560, Y + 170], [770, Y + 60], [850, Y + 54]];
+  let d = `M${P[0][0]},${P[0][1]}`;
+  for (let i = 0; i < P.length - 1; i++) {
+    const p0 = P[Math.max(0, i - 1)], p1 = P[i], p2 = P[i + 1], p3 = P[Math.min(P.length - 1, i + 2)];
+    d += ` C${p1[0] + (p2[0] - p0[0]) / 6},${p1[1] + (p2[1] - p0[1]) / 6} ${p2[0] - (p3[0] - p1[0]) / 6},${p2[1] - (p3[1] - p1[1]) / 6} ${p2[0]},${p2[1]}`;
+  }
+  s += path(d, { stroke: C.tealDark, w: 4, extra: 'marker-end="url(#ahT)"' });
+  s += `<line x1="40" y1="${Y + 290}" x2="860" y2="${Y + 290}" stroke="${C.ink}" stroke-width="3"/>`;
+  const labels = [['Opening position', 'how the focus is first established'], ['Turning point', 'an event that changes or tests it'], ['Development', 'how the change plays out'], ['Ending', 'where the novel leaves it']];
+  P.slice(1, 5).forEach(([x, y], i) => {
+    s += `<line x1="${x}" y1="${y + 20}" x2="${x}" y2="${Y + 290}" stroke="${C.panelEdge}" stroke-width="2.5" stroke-dasharray="5 5"/>` + badge(x, y, 20, String(i + 1), i === 3 ? C.mustard : C.cream);
+    s += T(x, Y + 318, labels[i][0], { size: 18, weight: 700, anchor: 'middle' }) + para(x, Y + 342, labels[i][1], 190, { size: 15, anchor: 'middle', fill: C.muted }).s;
   });
-  const r = row(Y + 352, [
+  const r = row(Y + 390, [
     { kicker: 'WEAKER', kfill: C.rust, body: 'Opens each paragraph with a plot event.', edge: C.rust, bfill: C.ink },
     { kicker: 'STRONGER', body: 'Opens each paragraph with a claim that answers the question.', edge: C.tealDark, bfill: C.ink },
   ], { gap: 24, card: { size: 17 } });
   s += r.s;
   add('01-four-moments-across-novel',
-    svg(900, Math.round(Y + 352 + r.h + 24), 'An argument across the whole novel', s, 'Track a character, theme, relationship or setting'),
+    svg(900, Math.round(Y + 390 + r.h + 24), 'An argument across the whole novel', s, 'Track a character, theme, relationship or setting'),
     'A line runs from the start to the end of a novel through four numbered moments: the opening position, a turning point that changes or tests it, the development, and the ending. Below, paragraphs should open with a claim that answers the question, not a plot event.',
     'Track the focus through four moments, from opening position to ending.',
     '## Key idea 1: an argument across the whole novel');

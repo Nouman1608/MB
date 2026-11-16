@@ -107,7 +107,7 @@ const GC = ['Identities and relationships', 'Orientation in space and time', 'Pe
 // 05 Survey evidence
 {
   const rows = [['Queue time', 54, 45, 'Scientific and technical innovation'], ['Food waste', 30, 25, 'Globalization and sustainability'], ['Nowhere to sit with friends', 24, 20, 'Identities and relationships'], ['Menu does not reflect my food', 12, 10, 'Personal and cultural expression']];
-  let b = panel(30, 110, 840, 400) + t(55, 146, 'Biggest lunchtime problem (120 students surveyed)', { size: 19, weight: 700 });
+  let b = panel(30, 110, 840, 430) + t(55, 146, 'Biggest lunchtime problem (120 students surveyed)', { size: 19, weight: 700 });
   const x0 = 300, k = 10;
   rows.forEach(([n, c, p, g], i) => {
     const y = 170 + i * 82;
@@ -116,11 +116,11 @@ const GC = ['Identities and relationships', 'Orientation in space and time', 'Pe
     b += t(x0 + p * k + 10, y + 31, `${c} (${p}%)`, { size: 17, weight: 700 });
     b += t(x0, y + 64, '→ ' + g, { size: 15, fill: C.tealDark, weight: 600 });
   });
-  b += t(450, 495, 'percentage = students ÷ 120 × 100, e.g. 54 ÷ 120 × 100 = 45%', { size: 16, anchor: 'middle', fill: C.muted });
-  b += panel(30, 530, 840, 90, C.cream, C.olive) + t(55, 566, 'Choice: queue time is the top complaint,', { size: 18, weight: 700 }) +
-    t(55, 594, 'so the main lens is Scientific and technical innovation.', { size: 18, weight: 700 });
+  b += t(450, 520, 'percentage = students ÷ 120 × 100, e.g. 54 ÷ 120 × 100 = 45%', { size: 16, anchor: 'middle', fill: C.muted });
+  b += panel(30, 560, 840, 90, C.cream, C.olive) + t(55, 596, 'Choice: queue time is the top complaint,', { size: 18, weight: 700 }) +
+    t(55, 624, 'so the main lens is Scientific and technical innovation.', { size: 18, weight: 700 });
   add('05-canteen-survey-evidence',
-    svg(900, 645, 'Kestrel Hill canteen: the first evidence', b),
+    svg(900, 675, 'Kestrel Hill canteen: the first evidence', b),
     'Bar chart of a survey of 120 students: queue time 54 (45%), food waste 30 (25%), nowhere to sit with friends 24 (20%), menu does not reflect my food 12 (10%). Each problem points to a context; queue time, the top complaint, leads to scientific and technical innovation.',
     'Let the evidence point to the context that drives the need.',
     '## From design situation to problem statement');
@@ -141,16 +141,16 @@ const GC = ['Identities and relationships', 'Orientation in space and time', 'Pe
   // layout: three left, three right; centre situation
   probs.forEach(([g, p], i) => {
     const left = i % 2 === 0, row = Math.floor(i / 2);
-    const x = left ? 30 : 590, y = 120 + row * 200, w = 280;
+    const x = left ? 30 : 600, y = 120 + row * 200, w = 270;
     const hi = i === 3, nw = i === 5;
     b += panel(x, y, w, 170, hi ? C.cream : nw ? '#fbeee6' : C.panel, hi ? C.olive : nw ? C.rust : C.panelEdge);
     b += tl(x + 18, y + 34, wrap(g, 24), { size: 17, weight: 700, fill: hi ? C.olive : C.tealDark }, 22);
     b += tl(x + 18, y + 90, wrap(p, 27), { size: 16 }, 22);
     const ax = left ? x + w + 4 : x - 4, ay = y + 85;
-    b += `<line x1="${left ? cx - 130 : cx + 130}" y1="${cy + (row - 1) * 60}" x2="${ax}" y2="${ay}" stroke="${hi ? C.olive : C.muted}" stroke-width="${hi ? 4 : 2.5}"/>`;
+    b += arrow(left ? cx - 112 : cx + 112, cy + (row - 1) * 100, ax, ay, { w: hi ? 4 : 2.5, color: hi ? C.olive : C.ink, marker: hi ? 'ahO' : 'ah' });
   });
-  b += box(cx - 130, cy - 120, 260, 240, C.tealLight, C.ink, 2.5, 18) + t(cx, cy - 78, 'Design situation', { size: 18, weight: 700, anchor: 'middle' }) +
-    tl(cx, cy - 40, ['Kestrel Hill canteen:', 'crowded at lunch, long', 'queues, food thrown', 'away, lunch the worst', 'part of the day'], { size: 16, anchor: 'middle' }, 22);
+  b += box(cx - 110, cy - 120, 220, 240, C.tealLight, C.ink, 2.5, 18) + t(cx, cy - 78, 'Design situation', { size: 18, weight: 700, anchor: 'middle' }) +
+    tl(cx, cy - 40, ['Kestrel Hill', 'canteen: crowded', 'at lunch, long', 'queues, food', 'thrown away'], { size: 16, anchor: 'middle' }, 22);
   b += t(450, 745, 'Chosen lens highlighted. The access problem needs new evidence: the survey never asked about it.', { size: 15.5, anchor: 'middle', fill: C.rust, weight: 600 });
   add('06-one-situation-six-lenses',
     svg(900, 770, 'One situation, six different problems', b),
@@ -185,18 +185,18 @@ const GC = ['Identities and relationships', 'Orientation in space and time', 'Pe
 // 08 Same canteen, different research and tests
 {
   let b = panel(30, 110, 410, 520, '#eaf3f1', C.tealDark) + t(235, 146, 'Scientific and', { size: 19, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(235, 170, 'technical innovation', { size: 19, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += panel(460, 110, 410, 520, C.cream, C.olive) + t(665, 146, 'Fairness and development /', { size: 19, weight: 700, anchor: 'middle', fill: C.olive }) + t(665, 170, 'Globalization and sustainability', { size: 19, weight: 700, anchor: 'middle', fill: C.olive });
+  b += panel(460, 110, 410, 520, C.cream, C.olive) + t(665, 146, 'Other lenses,', { size: 19, weight: 700, anchor: 'middle', fill: C.olive }) + t(665, 170, 'same canteen', { size: 19, weight: 700, anchor: 'middle', fill: C.olive });
   const lab = (x, y, s) => t(x, y, s, { size: 15, weight: 700, fill: C.muted });
   b += lab(55, 210, 'RESEARCH QUESTIONS');
   b += tl(55, 238, ['• ordering technologies elsewhere and', '  time per student (secondary)', '• time each queue stage: choose, pay,', '  collect; 30 students (primary)', '• what can technology change within', '  budget? (canteen manager interview)'], { size: 16 }, 22);
-  b += lab(485, 210, 'RESEARCH QUESTIONS');
+  b += lab(485, 210, 'FAIRNESS AND DEVELOPMENT: RESEARCH');
   b += tl(485, 238, ['• what counter height suits a', '  wheelchair user?', '• who cannot use a phone-based', '  system?'], { size: 16 }, 22);
   b += `<line x1="55" y1="390" x2="415" y2="390" stroke="${C.tealDark}" stroke-width="2"/><line x1="485" y1="390" x2="845" y2="390" stroke="${C.olive}" stroke-width="2"/>`;
   b += lab(55, 420, 'SUCCESS CRITERION AND TEST');
   b += tl(55, 448, ['At least 90% of 30 testers served', 'within 4 minutes (= 27 testers)'], { size: 16, weight: 600 }, 22);
   b += box(55, 500, 360, 110, C.panel, C.tealDark) + t(235, 532, 'average wait 11 → 7 min', { size: 17, weight: 700, anchor: 'middle' }) + t(235, 562, '4 ÷ 11 × 100 = 36.4% shorter', { size: 17, anchor: 'middle', fill: C.tealDark, weight: 600 }) + t(235, 590, 'report target and result', { size: 15, anchor: 'middle', fill: C.muted });
-  b += lab(485, 420, 'SUCCESS CRITERION AND TEST');
-  b += tl(485, 448, ['Globalization and sustainability:', 'measure plate waste before and after,', 'not waiting time'], { size: 16, weight: 600 }, 22);
+  b += lab(485, 420, 'GLOBALIZATION AND SUSTAINABILITY: TEST');
+  b += tl(485, 448, ['measure plate waste before and', 'after, not waiting time'], { size: 16, weight: 600 }, 22);
   b += box(485, 530, 360, 80, C.panel, C.olive) + tl(665, 563, ['same situation, different context,', 'different test'], { size: 17, weight: 700, anchor: 'middle' }, 22);
   add('08-context-shapes-research-and-tests',
     svg(900, 655, 'The context decides the questions and the tests', b),

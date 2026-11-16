@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--01-balance-of-trade.webp",
+  "width": 900,
+  "height": 614,
+  "after": "## Imports, exports and the balance of trade",
+  "alt": "Bars for fictional Norland: exports of 48 billion dollars against imports of 55 billion, a balance of minus 7 billion, which is a trade deficit. Exports rose 20% from 40 billion the year before.",
+  "caption": "Exports minus imports: a negative answer is a deficit, so keep the sign.",
+  "bytes": 62038
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--02-comparative-advantage.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## Why countries trade: absolute and comparative advantage",
+  "alt": "Per worker per day, Arlen makes 12 sacks of coffee or 6 rolls of textiles; Belmar makes 4 or 4. Arlen has the absolute advantage in both, but Belmar gives up only 1 sack per roll against Arlen’s 2, so Belmar has the comparative advantage in textiles and Arlen in coffee.",
+  "caption": "The lower opportunity cost, not the bigger output, decides who should specialise in what.",
+  "bytes": 100682
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--03-gains-from-trade.webp",
+  "width": 900,
+  "height": 675,
+  "after": "## Why countries trade: absolute and comparative advantage",
+  "alt": "Before trade Arlen has 60 coffee and 30 textiles and Belmar 20 and 20. After specialising and swapping 16 rolls for 24 sacks, Arlen has 60 coffee and 34 textiles and Belmar 24 and 24. Total output rises from 80 coffee and 50 textiles to 84 and 58.",
+  "caption": "Specialising by comparative advantage raises total output, and trade shares the gain.",
+  "bytes": 67646
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--04-protectionism.webp",
+  "width": 900,
+  "height": 629,
+  "after": "## Free trade and protectionism",
+  "alt": "Three protection tools: a tariff, a tax on imports that raises a 200-dollar bicycle to 230 dollars at 15%; a quota limiting import quantity; and a subsidy to domestic producers. Below, arguments for protection (jobs, infant industries, key goods) against arguments for free trade (prices and choice, specialisation, efficiency).",
+  "caption": "Tariffs, quotas and subsidies shield home producers, at a cost to consumers and efficiency.",
+  "bytes": 103560
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--05-trade-bloc-levels.webp",
+  "width": 900,
+  "height": 733,
+  "after": "## Trade blocs",
+  "alt": "A staircase of four levels: a free trade area such as USMCA or the African Continental Free Trade Area; a customs union adding a common external tariff, such as Mercosur; a common market adding free movement of labour and capital, such as the EU single market; and an economic union adding shared policies, such as the euro area.",
+  "caption": "Each step up adds a layer: common tariff, then free movement, then shared policy.",
+  "bytes": 84186
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--06-fair-trade-share.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Fair trade",
+  "alt": "Two bars for a fictional bag of coffee. Conventional: 8.00 dollars, of which the grower gets 0.40, or 5.0%. Fair trade: 8.40 dollars, of which the grower gets 0.64, or 7.6%. Most of the price still goes to processing, shipping, shops and tax. Below, how Fairtrade works and what critics say.",
+  "caption": "The grower’s share rises under fair trade, but most of the price still goes elsewhere.",
+  "bytes": 85890
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--07-types-of-aid.webp",
+  "width": 900,
+  "height": 855,
+  "after": "## Aid",
+  "alt": "Aid can be bilateral, government to government; multilateral, through bodies such as the World Bank; or voluntary, through charities. It is also short-term emergency relief or long-term development, top-down or bottom-up, and sometimes tied to spending on the donor’s goods. The UN target is 0.7% of donor GNI.",
+  "caption": "Who gives it, for how long and on what terms all shape whether aid helps.",
+  "bytes": 122058
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-trade-aid-and-exchange--08-columbian-exchange.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Exchange in history",
+  "alt": "After 1492, maize, potatoes, tomatoes and cacao moved from the Americas to Europe, Africa and Asia, while horses, cattle, wheat and sugar cane moved the other way. Smallpox and measles also crossed and killed very large numbers of Indigenous people in the Americas.",
+  "caption": "Exchange carried crops, animals and deadly diseases in both directions.",
+  "bytes": 70316
+ }
+]

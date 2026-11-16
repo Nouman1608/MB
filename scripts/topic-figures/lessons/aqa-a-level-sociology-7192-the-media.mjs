@@ -267,19 +267,16 @@ function cardRow(y, cards, o = {}) {
 
 // 06 Effects models: passive to active
 {
-  let s = '', y = 118;
-  s += `<line x1="60" y1="${y}" x2="840" y2="${y}" stroke="${C.ink}" stroke-width="4" marker-end="url(#ah)"/>`;
-  s += label(60, y - 14, 'passive audience', { size: 17, weight: 700, fill: C.rust }) + label(840, y - 14, 'active audience', { size: 17, weight: 700, fill: C.tealDark, anchor: 'end' });
-  y += 22;
+  let s = '', y = 124;
   const r1 = cardRow(y, [
-    { head: 'Hypodermic syringe', body: 'Messages "injected" into a passive audience. Bandura’s Bobo doll experiments (early 1960s).', fill: C.cream },
-    { head: 'Cultivation', body: '**Gerbner:** heavy TV viewing builds a "mean world" view.', fill: C.cream },
-    { head: 'Cultural effects', body: '**Philo (1990):** people reproduced news themes about the miners’ strike.', fill: C.tealLight },
+    { head: 'Hypodermic syringe', body: 'Messages "injected" into a passive audience. Bandura\u2019s Bobo doll experiments (early 1960s).', fill: C.cream },
+    { head: 'Two-step flow', body: '**Katz and Lazarsfeld (1955):** opinion leaders interpret messages for others.', fill: C.cream },
+    { head: 'Uses and gratifications', body: '**McQuail, Blumler and Brown (1972):** diversion, relationships, identity, surveillance.', fill: C.teal },
   ], { size: 16, headSize: 18 });
   s += r1.svg; y += r1.h + 14;
   const r2 = cardRow(y, [
-    { head: 'Two-step flow', body: '**Katz and Lazarsfeld (1955):** opinion leaders interpret messages for others.', fill: C.tealLight },
-    { head: 'Uses and gratifications', body: '**McQuail, Blumler and Brown (1972):** diversion, relationships, identity, surveillance.', fill: C.teal },
+    { head: 'Cultivation', body: '**Gerbner:** heavy TV viewing builds a "mean world" view.', fill: C.tealLight },
+    { head: 'Cultural effects', body: '**Philo (1990):** people reproduced news themes about the miners\u2019 strike.', fill: C.tealLight },
     { head: 'Reception and postmodern', body: '**Hall (1973); Morley (1980):** different decodings. **Fiske; Baudrillard.**', fill: C.teal },
   ], { size: 16, headSize: 18 });
   s += r2.svg; y += r2.h + 18;

@@ -136,7 +136,7 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   cols.forEach(([h, q, us, gs, dec], i) => {
     const x = 30 + i * 286;
     b += panel(x, 110, 268, 560) + `<rect x="${x}" y="110" width="268" height="78" rx="14" fill="${C.teal}"/>` + T(x + 134, 144, h, { size: 21, weight: 700, anchor: 'middle' }) + T(x + 134, 172, q, { size: 16, anchor: 'middle', fill: C.ink, italic: true });
-    us.forEach((u, k) => { const y = 238 + k * 58; b += U(x + 248, y, u, { size: 25 }) + T(x + 20, y - 4, gs[k], { size: 16, fill: C.muted }); });
+    us.forEach((u, k) => { const y = 236 + k * 62; b += U(x + 248, y, u, { size: 24 }) + T(x + 20, y - 4, gs[k], { size: 16, fill: C.muted }); });
     b += `<rect x="${x + 12}" y="590" width="244" height="68" rx="10" fill="${C.cream}"/>` + para(x + 134, 618, dec, 220, { size: 15, weight: 700, anchor: 'middle', fill: C.olive, lh: 19 }).s;
   });
   b += panel(30, 690, 840, 92, C.tealLight, C.tealDark) + T(54, 726, 'Then count the prompts', { size: 19, weight: 700 }) +
