@@ -290,9 +290,9 @@ const H2 = {
 F('01-asch-line-task', 'Asch: an easy task, a wrong majority', '', [
   (y) => {
     let s = panel(30, y, 840, 250);
-    s += T(150, y + 34, 'Standard line', { size: 17, weight: 700, anchor: 'middle' }) + `<line x1="150" y1="${y + 60}" x2="150" y2="${y + 200}" stroke="${C.ink}" stroke-width="8"/>`;
-    s += T(450, y + 34, 'Comparison lines', { size: 17, weight: 700, anchor: 'middle' });
-    [[370, 110, 'A'], [450, 140, 'B'], [530, 170, 'C']].forEach(([x, h, l]) => { s += `<line x1="${x}" y1="${y + 200}" x2="${x}" y2="${y + 200 - h}" stroke="${l === 'B' ? C.tealDark : C.ink}" stroke-width="8"/>` + T(x, y + 230, l, { size: 20, weight: 700, anchor: 'middle', fill: l === 'B' ? C.tealDark : C.ink }); });
+    s += T(150, y + 30, 'Standard line', { size: 17, weight: 700, anchor: 'middle' }) + `<line x1="150" y1="${y + 70}" x2="150" y2="${y + 210}" stroke="${C.ink}" stroke-width="8"/>`;
+    s += T(450, y + 30, 'Comparison lines', { size: 17, weight: 700, anchor: 'middle' });
+    [[370, 100, 'A'], [450, 140, 'B'], [530, 160, 'C']].forEach(([x, h, l]) => { s += `<line x1="${x}" y1="${y + 210}" x2="${x}" y2="${y + 210 - h}" stroke="${l === 'B' ? C.tealDark : C.ink}" stroke-width="8"/>` + T(x, y + 238, l, { size: 20, weight: 700, anchor: 'middle', fill: l === 'B' ? C.tealDark : C.ink }); });
     s += T(450, y + 212 + 34, '', {});
     // group
     const person = (x, f, lab, sp) => `<circle cx="${x}" cy="${y + 120}" r="15" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/><rect x="${x - 17}" y="${y + 138}" width="34" height="40" rx="12" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/>` + (sp ? `<rect x="${x - 17}" y="${y + 66}" width="34" height="28" rx="8" fill="${C.panel}" stroke="${C.rust}" stroke-width="2"/>` + T(x, y + 87, lab, { size: 17, weight: 700, anchor: 'middle', fill: C.rust }) : '');
@@ -354,7 +354,7 @@ F('03-milgram-results', 'Milgram (1963): how far did the teachers go?', '40 male
   },
   (y) => {
     const people = (n, f) => Array.from({ length: 40 }, (_, i) => { const col = i % 20, rw = Math.floor(i / 20), x = 70 + col * 38, yy = y + 30 + rw * 56; const fill = i < n ? f : C.panel; return `<circle cx="${x}" cy="${yy}" r="10" fill="${fill}" stroke="${C.ink}" stroke-width="2"/><rect x="${x - 12}" y="${yy + 12}" width="24" height="26" rx="8" fill="${fill}" stroke="${C.ink}" stroke-width="2"/>`; }).join('');
-    let s = T(30, y + 10, '26 OF THE 40 PARTICIPANTS (65%) WENT TO THE MAXIMUM 450 VOLTS', { size: 15, weight: 700, fill: C.rust });
+    let s = T(30, y + 10, 'EACH FIGURE IS ONE PARTICIPANT; COLOURED = WENT TO 450 VOLTS', { size: 15, weight: 700, fill: C.rust });
     s += people(26, C.rust);
     return { s, h: 30 + 2 * 56 };
   },

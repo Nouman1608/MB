@@ -20,7 +20,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   ['A Listening', 'B Reading', 'D Writing'].forEach((s, i) => { b += chip(55, 168 + i * 58, 360, 46, s, C.panel, { size: 17, edge: C.tealDark }); });
   b += panel(460, 110, 410, 250, C.cream, C.olive) + t(485, 148, 'Speaking examination', { size: 20, weight: 700, fill: C.olive });
   b += chip(485, 168, 360, 46, 'C Speaking: 24 marks', C.mustard, { size: 17 });
-  b += tl(485, 250, ['• interactive: a conversation,', '  not a speech', '• responds to multimodal texts'], { size: 16 }, 24);
+  b += t(485, 250, '• interactive: a conversation,', { size: 16 }) + t(499, 274, 'not a speech', { size: 16 }) + t(485, 298, '• responds to multimodal texts', { size: 16 });
   const fl = [['Classroom teacher marks it', 'against the MYP year 5 speaking criteria'], ['IB moderates a sample', 'from each school, each session'], ['Grades adjusted', 'where needed']];
   fl.forEach(([h, d], i) => {
     const x = 30 + i * 285, w = 265;
@@ -61,7 +61,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
 // 03 Extending a flat answer
 {
   let b = box(30, 110, 840, 60, C.tealLight, C.tealDark, 2, 30) + t(60, 147, 'Teacher: “Would you volunteer at a Repair Café?”', { size: 18, weight: 600 });
-  b += lowTop(30, 190, 840, 80, 'low', 'Flat: “Yes, I would.”', []);
+  b += lowTop(30, 190, 840, 58, 'low', 'Flat: “Yes, I would.”', []);
   b += t(55, 310, 'Extended with the chain:', { size: 18, weight: 700, fill: C.tealDark });
   const ch = [
     ['Answer', '“Yes, I would,”', C.mustard, 'present'],
@@ -99,7 +99,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
     b += panel(30, y, 840, 70) + t(52, y + 43, h, { size: 17, weight: 700 }) + t(320, y + 43, q, { size: 16, italic: true, fill: C.tealDark }) + t(850, y + 43, w, { size: 15, anchor: 'end', fill: C.muted });
   });
   b += panel(30, 610, 840, 120, C.cream, C.olive) + t(55, 644, 'Unexpected question? Three moves', { size: 18, weight: 700 });
-  ['Buy time', 'Narrow it: “For me personally …”', 'Link back to stimulus words'].forEach((s, i) => {
+  ['Buy time', 'Narrow the question', 'Link back to stimulus words'].forEach((s, i) => {
     const x = 55 + i * 272;
     b += chip(x, 662, 250, 50, s, i === 1 ? C.mustard : C.panel, { size: 15, edge: C.olive });
     if (i < 2) b += arrow(x + 252, 687, x + 270, 687, { w: 2.5, color: C.olive, marker: 'ahO' });
@@ -117,7 +117,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   let b = panel(30, 110, 840, 250) + t(55, 146, 'The 4-3-2 drill: one stimulus, 9 minutes in all', { size: 19, weight: 700 });
   let x = 60;
   rounds.forEach(([m, d, f], i) => {
-    const w = m * 160;
+    const w = m * 86.5;
     b += box(x, 180, w - 10, 80, f, C.ink, 2.5, 10) + t(x + (w - 10) / 2, 220, `${m} min`, { size: 24, weight: 700, anchor: 'middle' }) + t(x + (w - 10) / 2, 246, d, { size: 15, anchor: 'middle' });
     x += w;
   });

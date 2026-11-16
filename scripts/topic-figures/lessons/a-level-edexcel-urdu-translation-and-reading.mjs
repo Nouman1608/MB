@@ -108,7 +108,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   });
   b += tl(54, 300, ['AO4: knowledge and understanding of society and culture via your research (20)', 'AO2: use of the unseen text (10)', 'AO3: accuracy and range of language (10)'], { size: 16, fill: C.muted }, 24);
   b += panel(30, 384, 410, 220) + t(52, 420, 'Research rules', { size: 19, weight: 700 }) +
-    tl(52, 452, ['cover all three aspects of one', 'research subject', 'one country or area only:', 'Pakistan for Themes 1, 3 and 4;', 'Pakistan or one Urdu-official', 'area of India for Theme 2'], { size: 16 }, 22);
+    tl(52, 452, ['• all three aspects of one research', '   subject', '• one country or area only:', '   Pakistan for Themes 1, 3 and 4', '   Pakistan or one area of India where', '   Urdu is official, for Theme 2'], { size: 16 }, 22);
   b += panel(460, 384, 410, 220) + t(482, 420, 'Plan the structure', { size: 19, weight: 700 });
   ['Introduction', '3–4 paragraphs, one idea each', 'Conclusion'].forEach((s, i) => {
     b += box(482, 440 + i * 52, 366, 42, i === 1 ? C.tealLight : C.panel, i === 1 ? C.tealDark : C.panelEdge, 2, 10) + t(665, 467 + i * 52, s, { size: 17, weight: 600, anchor: 'middle' });
