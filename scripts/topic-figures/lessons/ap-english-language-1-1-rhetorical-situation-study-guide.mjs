@@ -72,7 +72,8 @@ const rect = (x, y, w, h, fill = C.panel, edge = C.panelEdge, rx = 14, sw = 2.5,
 function box(x, y, w, o = {}) {
   const pad = o.pad ?? 18, hs = o.headSize || 20, bs = o.size || 17, align = o.align || 'start';
   const tx = align === 'middle' ? x + w / 2 : x + pad;
-  let inner = '', cy = y + pad;
+  const nat = o.vc && o.h ? box(x, y, w, { ...o, h: 0, vc: false }).h : 0;
+  let inner = '', cy = y + pad + (o.vc && o.h ? Math.max(0, (o.h - nat) / 2) : 0);
   if (o.head) {
     const hp = P(tx, cy + hs * 0.8, o.head, { size: hs, weight: 700, w: w - 2 * pad, anchor: align, fill: o.headColor || C.ink });
     inner += hp.s; cy += hp.h + (o.body ? 4 : 0);
@@ -216,15 +217,15 @@ fig('02-same-topic-different-situation', 'Same topic, different situation', '', 
   const a = box(xL, y1, colW, { head: 'Council report on library funding', headSize: 20, align: 'middle', fill: C.panel });
   const b = box(xR, y1, colW, { head: 'Retired reader’s letter to the local paper', headSize: 20, align: 'middle', fill: C.panel });
   const hh = Math.max(a.h, b.h);
-  s += box(xL, y1, colW, { head: 'Council report on library funding', headSize: 20, align: 'middle', h: hh }).s;
-  s += box(xR, y1, colW, { head: 'Retired reader’s letter to the local paper', headSize: 20, align: 'middle', h: hh }).s;
+  s += box(xL, y1, colW, { head: 'Council report on library funding', headSize: 20, align: 'middle', h: hh, vc: true }).s;
+  s += box(xR, y1, colW, { head: 'Retired reader’s letter to the local paper', headSize: 20, align: 'middle', h: hh, vc: true }).s;
   let y = y1 + hh + 24;
   const choice = [['Leans on', 'figures', 'personal experience'], ['Phrasing', 'neutral', 'direct appeal']];
   s += T(450, y - 4, 'The situation changes the choices', { size: 17, anchor: 'middle', fill: C.muted, weight: 700 });
   y += 14;
   for (const [k, l, r] of choice) {
-    s += box(xL, y, colW, { body: r ? l : l, size: 19, align: 'middle', fill: C.tealLight, edge: C.tealDark, h: 54, pad: 16 }).s;
-    s += box(xR, y, colW, { body: r, size: 19, align: 'middle', fill: C.cream, edge: C.olive, h: 54, pad: 16 }).s;
+    s += box(xL, y, colW, { body: r ? l : l, size: 19, align: 'middle', fill: C.tealLight, edge: C.tealDark, h: 54, pad: 16, vc: true }).s;
+    s += box(xR, y, colW, { body: r, size: 19, align: 'middle', fill: C.cream, edge: C.olive, h: 54, pad: 16, vc: true }).s;
     s += T(450, y + 33, k, { size: 17, anchor: 'middle', weight: 700 });
     y += 68;
   }
@@ -249,9 +250,9 @@ fig('03-vague-to-precise', 'From vague to precise', 'Gettysburg, described compo
     const pb = box(400, y, 470, { body: p, size: 17, fill: C.tealLight, edge: C.tealDark });
     const h = Math.max(pb.h, 64);
     s += T(30, y + h / 2 + 6, k, { size: 18, weight: 700 });
-    s += box(130, y + (h - 52) / 2, 190, { body: v, size: 17, h: 52, align: 'middle', dash: '6 5', edge: C.rust, pad: 14 }).s;
+    s += box(122, y + 6, 206, { body: v, size: 17, h: h - 12, vc: true, align: 'middle', dash: '6 5', edge: C.rust, pad: 12 }).s;
     s += arrow(330, y + h / 2, 390, y + h / 2, { w: 3.5 });
-    s += box(400, y, 470, { body: p, size: 17, fill: C.tealLight, edge: C.tealDark, h }).s;
+    s += box(400, y, 470, { body: p, size: 17, fill: C.tealLight, edge: C.tealDark, h, vc: true }).s;
     y += h + 16;
   }
   s += box(30, y + 4, 840, { body: '**Test:** if your description could be pasted onto a different text and still be true, it is too vague.', size: 17, fill: C.cream, edge: C.olive, align: 'middle' }).s;

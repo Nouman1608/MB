@@ -332,14 +332,14 @@ add('02-purposes-of-justice',
 
 // 03 Age of criminal responsibility
 {
-  const Y = 120, x0 = 80, x1 = 820, sx = (a) => x0 + ((x1 - x0) * (a - 6)) / 10, ly = Y + 170;
+  const Y = 120, x0 = 80, x1 = 820, sx = (a) => x0 + ((x1 - x0) * (a - 6)) / 10, ly = Y + 200;
   let b = `<line x1="${x0}" y1="${ly}" x2="${x1}" y2="${ly}" stroke="${C.ink}" stroke-width="4"/>`;
   for (let a = 6; a <= 16; a++) b += `<line x1="${sx(a)}" y1="${ly - 8}" x2="${sx(a)}" y2="${ly + 8}" stroke="${C.ink}" stroke-width="2"/>` + T(sx(a), ly + 30, String(a), { size: 16, anchor: 'middle', fill: C.muted });
   b += T(840, ly + 30, 'years', { size: 15, fill: C.muted, italic: true });
   const m = [[8, 'Scotland', 'before Dec 2021', C.panel, -1], [10, 'England and Wales', 'now', C.mustard, 1], [12, 'Scotland', 'from Dec 2021', C.teal, -1], [14, 'UN Committee', 'encourages at least 14', C.tealLight, 1]];
   m.forEach(([a, l, sub, f, up]) => {
     const c0 = card(0, 0, 190, { title: l, body: sub, tsize: 17, size: 15, pad: 10, align: 'middle' });
-    const cy = up < 0 ? ly - 40 - c0.h : ly + 60;
+    const cy = up < 0 ? ly - 78 - c0.h : ly + 60;
     b += `<line x1="${sx(a)}" y1="${up < 0 ? cy + c0.h : ly + 13}" x2="${sx(a)}" y2="${up < 0 ? ly - 13 : cy}" stroke="${C.ink}" stroke-width="2.5"/>`;
     b += card(sx(a) - 95, cy, 190, { title: l, body: sub, tsize: 17, size: 15, pad: 10, align: 'middle', fill: f === C.panel ? C.panel : f, edge: C.ink }).s;
     b += `<circle cx="${sx(a)}" cy="${ly}" r="13" fill="${f}" stroke="${C.ink}" stroke-width="3"/>`;
