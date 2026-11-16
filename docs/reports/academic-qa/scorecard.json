@@ -31,8 +31,8 @@
     "needingRevision": 2,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 7882,
-      "automatedStructuralWarn": 759,
+      "automatedStructuralPass": 7888,
+      "automatedStructuralWarn": 753,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 780,
       "accountableTeacherCredited": 8641,
