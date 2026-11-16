@@ -298,15 +298,15 @@ function cardRow(y, cards, o = {}) {
 {
   let s = '', y = 116;
   const ev = [['1944', 'Education Act: free secondary education for all'], ['1972', 'School leaving age raised to 16'], ['1989', 'Children Act; UN Convention on the Rights of the Child']];
-  const x1 = 160, x2 = 740, ly = y + 30;
+  const x1 = 175, x2 = 725, ly = y + 30;
   s += `<line x1="${x1 - 40}" y1="${ly}" x2="${x2 + 40}" y2="${ly}" stroke="${C.ink}" stroke-width="4"/>`;
   ev.forEach(([yr, txt], i) => {
     const x = x1 + i * ((x2 - x1) / 2);
     s += `<circle cx="${x}" cy="${ly}" r="12" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
     s += t(x, ly - 22, yr, { size: 20, weight: 700, anchor: 'middle' });
-    s += para(x, ly + 40, 210, txt, { size: 16, anchor: 'middle' }).svg;
+    s += para(x, ly + 40, 250, txt, { size: 16, anchor: 'middle' }).svg;
   });
-  y = ly + 100;
+  y = ly + 126;
   s += label(450, y, 'Laws separated children from adults (Pilcher: the "separateness" of childhood)', { size: 17, italic: true, anchor: 'middle', fill: C.tealDark, weight: 600 });
   y += 24;
   const r = cardRow(y, [

@@ -46,7 +46,7 @@ export const slug = 'ib-dp-ess-soil-agriculture-food';
   let b = panel(30, 110, 840, 640);
   hz.forEach(([n, y1, y2, fill, d]) => {
     b += `<rect x="${L}" y="${y1}" width="${R - L}" height="${y2 - y1}" fill="${fill}" stroke="${C.ink}" stroke-width="2"/>`;
-    b += t(L - 16, (y1 + y2) / 2 - 2, n ? n + ' horizon' : 'Bedrock', { size: 17, weight: 700, anchor: 'end' }) + tl(L - 16, (y1 + y2) / 2 + 18, wrap(d, 22), { size: 14.5, anchor: 'end', fill: C.muted }, 17);
+    b += t(L - 16, (y1 + y2) / 2 - 2, n ? n + ' horizon' : 'Bedrock', { size: 17, weight: 700, anchor: 'end' }) + tl(L - 16, (y1 + y2) / 2 + 18, wrap(d, 22), { size: 15, anchor: 'end', fill: C.muted }, 17);
   });
   // stones in C
   [[300, 530], [360, 550], [430, 525], [520, 555], [570, 530]].forEach(([x, y]) => { b += `<ellipse cx="${x}" cy="${y}" rx="16" ry="10" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="1.5"/>`; });
@@ -61,12 +61,12 @@ export const slug = 'ib-dp-ess-soil-agriculture-food';
   b += ar(440, 640, 440, 586, C.tealDark, 4) + t(452, 650, 'weathered rock in', { size: 15, weight: 700, fill: C.tealDark }).replace('y="650"', 'y="672"');
   b += ar(330, 500, 330, 690, C.rust, 4) + t(318, 688, 'leaching out', { size: 15, weight: 700, fill: C.rust, anchor: 'end' });
   // internal
-  b += ar(390, 300, 390, 470, C.blue, 3.5) + t(398, 360, 'percolation,', { size: 14.5, weight: 700, fill: '#ffffff' }) + t(398, 378, 'leaching down', { size: 14.5, weight: 700, fill: '#ffffff' });
-  b += `<path d="M520,330 q12,-10 24,0 q12,10 24,0" fill="none" stroke="${C.rust}" stroke-width="5" stroke-linecap="round"/>` + t(544, 360, 'earthworm', { size: 14.5, weight: 700, anchor: 'middle', fill: '#ffffff' }) + t(544, 377, 'mixing', { size: 14.5, weight: 700, anchor: 'middle', fill: '#ffffff' });
+  b += ar(390, 300, 390, 470, C.blue, 3.5) + t(398, 360, 'percolation,', { size: 15, weight: 700, fill: '#ffffff' }) + t(398, 378, 'leaching down', { size: 15, weight: 700, fill: '#ffffff' });
+  b += `<path d="M520,330 q12,-10 24,0 q12,10 24,0" fill="none" stroke="${C.rust}" stroke-width="5" stroke-linecap="round"/>` + t(544, 360, 'earthworm', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' }) + t(544, 377, 'mixing', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
   // key
   b += rect(650, 320, 200, 300, { fill: C.panel, stroke: C.panelEdge });
-  b += H(668, 350, 'Transfers', C.blue, 17) + tl(668, 374, ['infiltration, percolation', 'leaching downwards', 'earthworm mixing', 'clay translocation'], { size: 14.5 }, 19);
-  b += H(668, 474, 'Transformations', C.rust, 17) + tl(668, 498, ['decomposition', 'humification', 'weathering of rock', 'nitrogen fixation', 'nutrient release'], { size: 14.5 }, 19);
+  b += H(668, 350, 'Transfers', C.blue, 17) + tl(668, 374, ['infiltration, percolation', 'leaching downwards', 'earthworm mixing', 'clay translocation'], { size: 15 }, 19);
+  b += H(668, 474, 'Transformations', C.rust, 17) + tl(668, 498, ['decomposition', 'humification', 'weathering of rock', 'nitrogen fixation', 'nutrient release'], { size: 15 }, 19);
   b += t(450, 728, 'Soil forms very slowly, so it is effectively non-renewable on a human timescale.', { size: 16, anchor: 'middle', weight: 600 });
   add('01-soil-profile-system',
     svg(900, 770, 'Soil as a system', b),
@@ -95,7 +95,7 @@ export const slug = 'ib-dp-ess-soil-agriculture-food';
   rows.forEach(([lab, v], i) => {
     const y = 350 + i * 62;
     c += t(30, y + 36, '', {});
-    v.forEach((s, j) => { const x = 30 + j * 285; c += rect(x, y, 270, 54, { fill: good[i][j] ? C.tealLight : C.panel, stroke: good[i][j] ? C.tealDark : C.panelEdge, r: 10 }) + t(x + 14, y + 22, lab, { size: 14.5, fill: C.muted }) + t(x + 14, y + 44, s, { size: 17, weight: 700 }); });
+    v.forEach((s, j) => { const x = 30 + j * 285; c += rect(x, y, 270, 54, { fill: good[i][j] ? C.tealLight : C.panel, stroke: good[i][j] ? C.tealDark : C.panelEdge, r: 10 }) + t(x + 14, y + 22, lab, { size: 15, fill: C.muted }) + t(x + 14, y + 44, s, { size: 17, weight: 700 }); });
   });
   c += t(450, 680, 'Loam mixes sand, silt and clay: drainage of sand with the water and nutrient retention of clay.', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
   add('02-soil-texture',
@@ -161,10 +161,10 @@ export const slug = 'ib-dp-ess-soil-agriculture-food';
 
 // 05 Soil conservation methods by how they work
 {
-  const col = (x, title, art, items, fill, edge) => panel(x, 110, 270, 460, fill, edge) + H(x + 135, 148, title[0], C.ink, 19, 'middle') + H(x + 135, 172, title[1], C.ink, 19, 'middle') + art + items.map(([a, s], i) => t(x + 20, 360 + i * 76, a, { size: 17, weight: 700 }) + tl(x + 20, 382 + i * 76, wrap(s, 30), { size: 14.5, fill: C.muted }, 18)).join('');
-  const slope = (x) => `<path d="M${x + 25},320 L${x + 245},210 L${x + 245},320 Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>` + [0, 1, 2, 3].map((i) => { const X = x + 90 + i * 40, Y = 320 - (X - x - 25) * 0.5; return `<path d="M${X},${Y} a9,9 0 0 1 18,-9" fill="none" stroke="${C.olive}" stroke-width="4"/>`; }).join('') + ar(x + 70, 250, x + 70, 310, C.tealDark, 3) + t(x + 40, 240, 'runoff slowed', { size: 14.5, fill: C.tealDark, weight: 700 });
-  const cover = (x) => `<rect x="${x + 25}" y="290" width="220" height="30" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>` + [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => path(`M${x + 38 + i * 21},290 l-5,-18 M${x + 38 + i * 21},290 l0,-24 M${x + 38 + i * 21},290 l5,-18`, { stroke: C.grass, w: 2.5 })).join('') + [0, 1, 2].map((i) => line(x + 80 + i * 50, 210, x + 74 + i * 50, 240, C.blue, 3)).join('') + t(x + 135, 202, 'rain splash blocked', { size: 14.5, anchor: 'middle', fill: C.tealDark, weight: 700 });
-  const rot = (x) => { const cx = x + 135, cy = 262, r = 62; return `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="${C.olive}" stroke-width="4" stroke-dasharray="12 8"/>` + [['crop A', -90], ['legume', 30], ['crop B', 150]].map(([s, a]) => { const q = (a * Math.PI) / 180; return node(cx + r * Math.cos(q) - 46, cy + r * Math.sin(q) - 15, 92, 30, s, [], { size: 14.5, fill: s === 'legume' ? C.teal : C.cream, stroke: C.olive }); }).join(''); };
+  const col = (x, title, art, items, fill, edge) => panel(x, 110, 270, 460, fill, edge) + H(x + 135, 148, title[0], C.ink, 19, 'middle') + H(x + 135, 172, title[1], C.ink, 19, 'middle') + art + items.map(([a, s], i) => t(x + 20, 360 + i * 76, a, { size: 17, weight: 700 }) + tl(x + 20, 382 + i * 76, wrap(s, 30), { size: 15, fill: C.muted }, 18)).join('');
+  const slope = (x) => `<path d="M${x + 25},320 L${x + 245},210 L${x + 245},320 Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>` + [0, 1, 2, 3].map((i) => { const X = x + 90 + i * 40, Y = 320 - (X - x - 25) * 0.5; return `<path d="M${X},${Y} a9,9 0 0 1 18,-9" fill="none" stroke="${C.olive}" stroke-width="4"/>`; }).join('') + ar(x + 70, 250, x + 70, 310, C.tealDark, 3) + t(x + 40, 240, 'runoff slowed', { size: 15, fill: C.tealDark, weight: 700 });
+  const cover = (x) => `<rect x="${x + 25}" y="290" width="220" height="30" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>` + [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].map((i) => path(`M${x + 38 + i * 21},290 l-5,-18 M${x + 38 + i * 21},290 l0,-24 M${x + 38 + i * 21},290 l5,-18`, { stroke: C.grass, w: 2.5 })).join('') + [0, 1, 2].map((i) => line(x + 80 + i * 50, 210, x + 74 + i * 50, 240, C.blue, 3)).join('') + t(x + 135, 202, 'rain splash blocked', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 700 });
+  const rot = (x) => { const cx = x + 135, cy = 262, r = 62; return `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="${C.olive}" stroke-width="4" stroke-dasharray="12 8"/>` + [['crop A', -90], ['legume', 30], ['crop B', 150]].map(([s, a]) => { const q = (a * Math.PI) / 180; return node(cx + r * Math.cos(q) - 46, cy + r * Math.sin(q) - 15, 92, 30, s, [], { size: 15, fill: s === 'legume' ? C.teal : C.cream, stroke: C.olive }); }).join(''); };
   let b = col(30, ['Slow water', 'or wind'], slope(30), [['Contour ploughing', 'furrows along contours slow runoff'], ['Terracing', 'steps reduce slope length and gradient'], ['Windbreaks', 'trees or hedges cut wind speed']], C.panel, C.panelEdge);
   b += col(315, ['Keep the surface', 'covered'], cover(315), [['Cover crops, mulching', 'cover soil between harvests'], ['Reduced or no-till', 'keeps structure and organic matter'], ['Controlled grazing', 'stocking low enough to keep cover']], C.panel, C.panelEdge);
   b += col(600, ['Maintain organic', 'matter and nutrients'], rot(600), [['Crop rotation', 'legumes add nitrogen'], ['Compost and manure', 'improve structure, water, nutrients'], ['Lime; drip irrigation', 'raise pH; reduce salinization']], C.panel, C.panelEdge);

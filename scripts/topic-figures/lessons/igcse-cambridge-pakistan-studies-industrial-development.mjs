@@ -88,9 +88,9 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
 // for/against weighing block -> {s, h}
 const weigh = (y, forT, forL, agT, agL) => {
   const h = Math.max(cardH(400, { title: forT, body: forL, bullets: true }), cardH(400, { title: agT, body: agL, bullets: true }));
-  const sc = `<path d="M450,${y + 8} L436,${y + 40} L464,${y + 40} Z" fill="${C.ink}"/>` + `<line x1="300" y1="${y + 14}" x2="600" y2="${y + 2}" stroke="${C.ink}" stroke-width="5" stroke-linecap="round"/>` +
-    `<line x1="300" y1="${y + 14}" x2="300" y2="${y + 52}" stroke="${C.ink}" stroke-width="2.5"/><line x1="600" y1="${y + 2}" x2="600" y2="${y + 52}" stroke="${C.ink}" stroke-width="2.5"/>`;
-  return { s: sc + card(30, y + 52, 420, { title: forT, body: forL, bullets: true, fill: C.tealLight, edge: C.tealDark, bfill: C.ink, h }).s + card(450 + 20, y + 52, 400, { title: agT, body: agL, bullets: true, fill: '#f6e3d6', edge: C.rust, bfill: C.ink, h }).s, h: h + 52 };
+  const sc = `<path d="M450,${y + 8} L436,${y + 40} L464,${y + 40} Z" fill="${C.ink}"/>` + `<line x1="235" y1="${y + 8}" x2="665" y2="${y + 8}" stroke="${C.ink}" stroke-width="5" stroke-linecap="round"/>` +
+    `<line x1="235" y1="${y + 8}" x2="235" y2="${y + 52}" stroke="${C.ink}" stroke-width="2.5"/><line x1="665" y1="${y + 8}" x2="665" y2="${y + 52}" stroke="${C.ink}" stroke-width="2.5"/>`;
+  return { s: sc + card(30, y + 52, 410, { title: forT, body: forL, bullets: true, fill: C.tealLight, edge: C.tealDark, bfill: C.ink, h }).s + card(460, y + 52, 410, { title: agT, body: agL, bullets: true, fill: '#f6e3d6', edge: C.rust, bfill: C.ink, h }).s, h: h + 52 };
 };
 
 // 01 How Section 5 links to other sections
@@ -219,7 +219,7 @@ const weigh = (y, forT, forL, agT, agL) => {
 {
   const y = 112, w = 410;
   const a = { title: 'Formal sector', sub: 'registered with government', body: ['Pays taxes and keeps accounts', 'Regular wages', 'Often some protection for workers'], bullets: true, fill: C.tealLight, edge: C.tealDark, bfill: C.ink, ts: 22 };
-  const bI = { title: 'Informal sector', sub: 'unregistered: street vendors, roadside mechanics, small workshops, domestic workers', body: [], ts: 22, fill: C.cream, edge: C.olive };
+  const bI = { title: 'Informal sector', sub: 'unregistered', body: ['Street vendors', 'Roadside mechanics', 'Small workshops', 'Domestic workers'], bullets: true, bfill: C.ink, ts: 22, fill: C.cream, edge: C.olive };
   const h1 = Math.max(cardH(w, a), cardH(w, bI));
   let b = card(30, y, w, { ...a, h: h1 }).s + card(460, y, w, { ...bI, h: h1 }).s;
   const y2 = y + h1 + 16;
@@ -242,12 +242,12 @@ const weigh = (y, forT, forL, agT, agL) => {
 {
   const y = 112;
   let b = `<rect x="30" y="${y}" width="840" height="300" rx="14" fill="#e6eef0"/>`;
-  b += `<rect x="30" y="${y}" width="150" height="300" rx="14" fill="${C.teal}"/>` + `<rect x="160" y="${y}" width="20" height="300" fill="${C.teal}"/>` + T(105, y + 40, 'SEA', { size: 18, weight: 700, fill: C.tealDark, anchor: 'middle' }) + T(105, y + 64, 'and port', { size: 16, fill: C.tealDark, anchor: 'middle' });
-  b += `<rect x="330" y="${y + 40}" width="380" height="220" rx="6" fill="#ffffff" stroke="${C.ink}" stroke-width="3" stroke-dasharray="4 6"/>`;
-  b += T(520, y + 30, 'secure, fenced site', { size: 16, weight: 700, anchor: 'middle', fill: C.muted });
-  [[360, y + 70], [480, y + 70], [600, y + 70]].forEach(([x, yy]) => { b += `<path d="M${x},${yy + 80} L${x},${yy + 30} L${x + 30},${yy + 10} L${x + 30},${yy + 30} L${x + 60},${yy + 10} L${x + 60},${yy + 30} L${x + 85},${yy + 30} L${x + 85},${yy + 80} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`; });
-  b += T(520, y + 190, 'factories producing mainly for export', { size: 17, weight: 700, anchor: 'middle' }) + T(520, y + 214, 'good infrastructure: power, roads, water', { size: 16, anchor: 'middle', fill: C.muted });
-  b += arrow(190, y + 110, 322, y + 110, { w: 5, color: C.tealDark, marker: 'ahT' }) + T(195, y + 92, 'duty-free imports', { size: 15, weight: 700, fill: C.tealDark }) + T(195, y + 142, 'raw materials', { size: 15, fill: C.tealDark }) + T(195, y + 160, 'and machinery', { size: 15, fill: C.tealDark });
+  b += `<rect x="30" y="${y}" width="150" height="300" rx="14" fill="${C.teal}"/>` + `<rect x="160" y="${y}" width="20" height="300" fill="${C.teal}"/>` + T(105, y + 40, 'OVERSEAS', { size: 18, weight: 700, fill: C.tealDark, anchor: 'middle' }) + T(105, y + 64, 'suppliers', { size: 16, fill: C.tealDark, anchor: 'middle' }) + T(105, y + 84, 'and buyers', { size: 16, fill: C.tealDark, anchor: 'middle' });
+  b += `<rect x="350" y="${y + 40}" width="360" height="220" rx="6" fill="#ffffff" stroke="${C.ink}" stroke-width="3" stroke-dasharray="4 6"/>`;
+  b += T(530, y + 30, 'secure, fenced site', { size: 16, weight: 700, anchor: 'middle', fill: C.muted });
+  [[375, y + 70], [488, y + 70], [601, y + 70]].forEach(([x, yy]) => { b += `<path d="M${x},${yy + 80} L${x},${yy + 30} L${x + 30},${yy + 10} L${x + 30},${yy + 30} L${x + 60},${yy + 10} L${x + 60},${yy + 30} L${x + 85},${yy + 30} L${x + 85},${yy + 80} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`; });
+  b += T(530, y + 190, 'factories producing mainly for export', { size: 17, weight: 700, anchor: 'middle' }) + T(530, y + 214, 'good infrastructure: power, roads, water', { size: 16, anchor: 'middle', fill: C.muted });
+  b += arrow(190, y + 110, 342, y + 110, { w: 5, color: C.tealDark, marker: 'ahT' }) + T(195, y + 92, 'duty-free imports', { size: 15, weight: 700, fill: C.tealDark }) + T(195, y + 142, 'raw materials', { size: 15, fill: C.tealDark }) + T(195, y + 160, 'and machinery', { size: 15, fill: C.tealDark });
   b += path(`M720,${y + 150} L800,${y + 150} L800,${y + 280} L190,${y + 280}`, { stroke: C.olive, w: 5, extra: 'marker-end="url(#ahO)"' }) + T(812, y + 140, 'exports', { size: 16, weight: 700, fill: C.olive, anchor: 'end' });
   const why = ['Attract foreign investment', 'Earn foreign exchange', 'Create jobs', 'Bring in new technology'];
   const ex = ['EPZs: Karachi (best known), Sialkot, Gwadar', 'Industrial estates: SITE in Karachi, Hattar in Khyber Pakhtunkhwa'];
@@ -255,7 +255,7 @@ const weigh = (y, forT, forL, agT, agL) => {
   b += card(30, y + 320, 410, { title: 'Why build EPZs?', body: why, bullets: true, h, fill: C.cream, edge: C.olive, bfill: C.ink }).s + card(460, y + 320, 410, { title: 'Examples', body: ex, bullets: true, h, bfill: C.ink }).s;
   add('06-export-processing-zone',
     svg(900, y + 320 + h + 30, 'How an export processing zone works', b, 'schematic, not to scale'),
-    'A fenced zone of factories beside a port. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports leave through the port. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates.',
+    'A fenced zone of factories. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports go to buyers overseas. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates.',
     'EPZs trade tax and customs concessions for investment, jobs and exports.',
     '## How does government promote industrial growth?');
 }

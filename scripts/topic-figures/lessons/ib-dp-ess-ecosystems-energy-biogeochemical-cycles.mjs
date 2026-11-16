@@ -186,7 +186,7 @@ export const slug = 'ib-dp-ess-ecosystems-energy-biogeochemical-cycles';
 // 07 Nitrogen cycle
 {
   const S = (x, y, w, h, a, s, fill = C.panel) => node(x, y, w, h, a, s, { fill, size: 19, subSize: 15 });
-  const lab = (x, y, a, s, col, anchor = 'middle') => t(x, y, a, { size: 16, weight: 700, anchor, fill: col }) + (s ? [].concat(s).map((q, i) => t(x, y + 19 * (i + 1), q, { size: 14.5, anchor, fill: C.muted })).join('') : '');
+  const lab = (x, y, a, s, col, anchor = 'middle') => t(x, y, a, { size: 16, weight: 700, anchor, fill: col }) + (s ? [].concat(s).map((q, i) => t(x, y + 19 * (i + 1), q, { size: 15, anchor, fill: C.muted })).join('') : '');
   let b = '';
   b += S(320, 115, 260, 70, 'Nitrogen gas, N₂', 'atmosphere', C.tealLight);
   b += S(40, 330, 180, 70, 'Ammonium', 'NH₄⁺ in soil', C.cream) + S(360, 330, 180, 70, 'Nitrite', 'NO₂⁻', C.cream) + S(680, 330, 180, 70, 'Nitrate', 'NO₃⁻ in soil', C.cream);

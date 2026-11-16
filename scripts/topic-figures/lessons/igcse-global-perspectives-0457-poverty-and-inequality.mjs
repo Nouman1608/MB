@@ -379,23 +379,25 @@ add('04-poverty-cycle',
   b += panel(30, Y, 410, 250) + T(50, Y + 34, 'Average or median?', { size: 19, weight: 700 });
   const hs = [30, 34, 38, 42, 46, 150];
   hs.forEach((h, i) => { b += `<rect x="${70 + i * 55}" y="${Y + 200 - h}" width="40" height="${h}" fill="${i === 5 ? C.mustard : C.teal}" stroke="${C.ink}" stroke-width="2"/>`; });
-  b += `<line x1="55" y1="${Y + 200 - 57}" x2="400" y2="${Y + 200 - 57}" stroke="${C.rust}" stroke-width="3" stroke-dasharray="8 6"/>` + T(400, Y + 200 - 64, 'mean', { size: 15, weight: 700, anchor: 'end', fill: C.rust });
-  b += `<line x1="55" y1="${Y + 200 - 40}" x2="400" y2="${Y + 200 - 40}" stroke="${C.tealDark}" stroke-width="3"/>` + T(400, Y + 200 - 26, 'median', { size: 15, weight: 700, anchor: 'end', fill: C.tealDark });
+  b += `<line x1="55" y1="${Y + 200 - 57}" x2="400" y2="${Y + 200 - 57}" stroke="${C.rust}" stroke-width="3" stroke-dasharray="8 6"/>` + T(60, Y + 200 - 64, 'mean', { size: 15, weight: 700, fill: C.rust });
+  b += `<line x1="55" y1="${Y + 200 - 40}" x2="400" y2="${Y + 200 - 40}" stroke="${C.tealDark}" stroke-width="3"/>` + T(110, Y + 200 - 64, 'median', { size: 15, weight: 700, fill: C.tealDark });
   b += T(235, Y + 232, 'A few very high earners pull the mean up', { size: 15, anchor: 'middle', fill: C.muted });
   // share vs amount
   b += panel(460, Y, 410, 250) + T(480, Y + 34, 'Share or amount?', { size: 19, weight: 700 });
   const pie = (cx, cy, r, frac, lab) => { const a = 2 * Math.PI * frac, x = cx + r * Math.sin(a), yv = cy - r * Math.cos(a); return `<circle cx="${cx}" cy="${cy}" r="${r}" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="2.5"/><path d="M${cx},${cy} L${cx},${cy - r} A${r},${r} 0 0 1 ${x},${yv} Z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>` + T(cx, cy + r + 22, lab, { size: 15, anchor: 'middle', fill: C.muted }); };
-  b += pie(560, Y + 125, 50, 0.2, 'before') + pie(760, Y + 125, 70, 0.143, 'economy grows');
+  b += pie(560, Y + 120, 50, 0.2, 'before') + pie(760, Y + 115, 60, 0.139, 'economy grows');
   b += arrow(620, Y + 125, 680, Y + 125, { w: 3 });
   b += T(665, Y + 232, 'Poorest group’s slice: same size, smaller share', { size: 15, anchor: 'middle', fill: C.muted });
-  b += row(Y + 270, [
+  const r3 = row(Y + 270, [
     { title: 'Percentage or points?', body: '50% to 70% is +20 percentage points, but a 40% increase.', edge: C.rust },
     { title: 'Who was asked?', body: 'People surveyed at a food bank are not a fair sample of a whole town.', edge: C.rust },
     { title: 'Which measure?', body: 'Absolute or relative? Income or wealth?', edge: C.rust },
-  ], { card: { tsize: 18, size: 15 } }).s;
-  b += note(Y + 420, 'Loaded words such as “scroungers” or “struggling heroes” carry values: point to the word and explain its effect.', { title: 'Language' }).s;
+  ], { card: { tsize: 18, size: 15 } });
+  b += r3.s;
+  const nt = note(Y + 270 + r3.h + 18, 'Loaded words such as “scroungers” or “struggling heroes” carry values: point to the word and explain its effect.', { title: 'Language' });
+  b += nt.s;
   add('05-numbers-in-poverty-sources',
-    svg(900, Y + 420 + 112, 'Five questions for poverty numbers', b),
+    svg(900, Y + 270 + r3.h + 18 + nt.h + 30, 'Five questions for poverty numbers', b),
     'A bar chart shows one very high earner pulling the mean above the median. Two pie charts show the poorest group’s slice staying the same size while the economy grows, so its share falls. Further checks: 50% to 70% is 20 percentage points but a 40% increase; a food bank sample is not a whole town; and which measure is used. Loaded language carries values.',
     'Check the measure, the average, the share, the percentage and the sample before trusting a number.',
     '## Judging sources and evidence');
@@ -421,15 +423,20 @@ add('06-cash-programmes',
   const Y = 120;
   let b = card(30, Y - 6, 840, { kicker: 'INVENTED SOURCE', title: '26 of 40 households asked at a community centre (65%) cut back on heating. “Most families in the town are in fuel poverty.”', tsize: 18, fill: C.panel, edge: C.ink }).s;
   const cy = Y + 270, cx = 230;
-  b += `<circle cx="${cx}" cy="${cy}" r="140" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="3"/>` + T(cx, cy - 100, 'All households', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) + T(cx, cy - 80, 'in the town', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += `<circle cx="${cx}" cy="${cy + 40}" r="80" fill="${C.cream}" stroke="${C.olive}" stroke-width="3"/>` + T(cx, cy + 10, 'Community centre', { size: 15, weight: 700, anchor: 'middle', fill: C.olive }) + T(cx, cy + 28, 'users', { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
-  b += `<circle cx="${cx}" cy="${cy + 75}" r="34" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + T(cx, cy + 82, '40', { size: 19, weight: 700, anchor: 'middle' });
-  b += card(400, Y + 120, 470, { kicker: 'SUPPORTS', title: 'A real problem for some households', fill: C.tealLight, edge: C.tealDark, tsize: 18 }).s;
-  b += card(400, Y + 215, 470, { kicker: 'WEAKNESS: SAMPLE', kfill: C.rust, title: 'Only 40, at a community centre', body: 'Users may already be more likely to need help, so struggling families are over-represented.', edge: C.rust, tsize: 18, size: 15 }).s;
-  b += card(400, Y + 345, 470, { kicker: 'WEAKNESS: DEFINITION', kfill: C.rust, title: '“Cutting back” is not fuel poverty', body: 'That needs data on income and energy costs.', edge: C.rust, tsize: 18, size: 15 }).s;
-  b += note(Y + 460, 'Supports “some households struggle with fuel costs”, not “most families”. A random survey of homes across the town, with a clear definition, would test it better.', { title: 'How far? A judgement' }).s;
+  b += `<circle cx="${cx}" cy="${cy}" r="150" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="3"/>` + T(cx, cy - 108, 'All households', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) + T(cx, cy - 88, 'in the town', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += `<circle cx="${cx}" cy="${cy + 40}" r="100" fill="${C.cream}" stroke="${C.olive}" stroke-width="3"/>` + T(cx, cy - 12, 'Community', { size: 16, weight: 700, anchor: 'middle', fill: C.olive }) + T(cx, cy + 7, 'centre users', { size: 16, weight: 700, anchor: 'middle', fill: C.olive });
+  b += `<circle cx="${cx}" cy="${cy + 82}" r="38" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + T(cx, cy + 89, '40', { size: 20, weight: 700, anchor: 'middle' });
+  const st = stack(Y + 112, [
+    { kicker: 'SUPPORTS', title: 'A real problem for some households', fill: C.tealLight, edge: C.tealDark },
+    { kicker: 'WEAKNESS: SAMPLE', kfill: C.rust, title: 'Only 40, at a community centre', body: 'Users may already be more likely to need help, so struggling families are over-represented.', edge: C.rust },
+    { kicker: 'WEAKNESS: DEFINITION', kfill: C.rust, title: '“Cutting back” is not fuel poverty', body: 'That needs data on income and energy costs.', edge: C.rust },
+  ], { x: 410, w: 460, gap: 12, card: { tsize: 18, size: 15 } });
+  b += st.s;
+  const jy = Math.max(Y + 112 + st.h, cy + 160) + 18;
+  const jn = note(jy, 'Supports “some households struggle with fuel costs”, not “most families”. A random survey of homes across the town, with a clear definition, would test it better.', { title: 'How far? A judgement' });
+  b += jn.s;
   add('07-fuel-poverty-paragraph',
-    svg(900, Y + 460 + 112, 'How far does the evidence support the claim?', b),
+    svg(900, jy + jn.h + 30, 'How far does the evidence support the claim?', b),
     'Nested circles show 40 surveyed households inside community centre users inside all town households. The evidence supports a real problem for some households, but the small, skewed sample and the gap between cutting back on heating and fuel poverty mean it cannot support the claim about most families. A random town-wide survey with a clear definition would test it better.',
     'Answer “how far” with a judgement on what the evidence does and does not support.',
     '## Worked example: an exam-style paragraph');

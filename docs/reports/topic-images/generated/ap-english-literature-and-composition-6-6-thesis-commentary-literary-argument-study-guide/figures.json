@@ -6,7 +6,7 @@
   "after": "## What a literary argument does",
   "alt": "A thesis at the top is supported by three claims in a logical sequence, the line of reasoning. Each claim rests on evidence from the text, joined to it by commentary, which explains how the evidence supports the claim and how the claims support the thesis.",
   "caption": "Thesis, evidence and commentary: commentary is what joins the evidence to the claim.",
-  "bytes": 98574
+  "bytes": 98786
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--02-thesis-or-not.webp",
@@ -15,16 +15,16 @@
   "after": "## The thesis",
   "alt": "Left: five kinds of sentence that are not a thesis: summary, fact, topic, list of devices and restating the prompt. Right: a strong thesis makes a claim about meaning or function, is defensible, is specific to the work, responds to the question and says why it matters.",
   "caption": "A thesis is a defensible claim about meaning, not a summary, a fact, a topic or a list.",
-  "bytes": 89804
+  "bytes": 89944
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--03-thesis-ladder.webp",
   "width": 900,
-  "height": 694,
+  "height": 672,
   "after": "### Weak to strong: a worked ladder",
   "alt": "Four versions of a Macbeth thesis. Version 1 states a plot fact, version 2 lists devices, version 3 makes a general claim that could fit many works. Version 4 is split into a claim about the work's choice, a direction and a significance: evil as betrayal, tragedy as self-division.",
   "caption": "The strong thesis names a choice, shows a direction and says what it means.",
-  "bytes": 149308
+  "bytes": 148838
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--04-list-or-line.webp",
@@ -33,7 +33,7 @@
   "after": "## The line of reasoning",
   "alt": "Top: a list of three items, a soliloquy, a quotation about blood and another scene, that could be swapped around. Bottom: a rising line of three claims, Macbeth's conscience is established, it is overruled by ambition, the consequences show betrayal rather than ignorance, each building on the last.",
   "caption": "If you can reorder the claims without loss, you have a list, not a line of reasoning.",
-  "bytes": 84000
+  "bytes": 84298
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--05-commentary-chain.webp",
@@ -42,16 +42,16 @@
   "after": "## Commentary: the part that makes it an argument",
   "alt": "Four stacked moves lead from evidence to thesis: interpret what the evidence shows, explain how the words produce the meaning, connect it to the topic claim, and connect it to the thesis. Each move has typical signal words such as \"suggests\", \"the verb\", \"which supports\" and \"thereby\".",
   "caption": "Good commentary interprets, explains how, and connects to the claim and then the thesis.",
-  "bytes": 100362
+  "bytes": 100402
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--06-miss-tarrant-drafts.webp",
   "width": 900,
-  "height": 747,
+  "height": 723,
   "after": "## Worked example 1: from weak thesis to strong thesis",
   "alt": "Three rejected drafts about Miss Tarrant: a plot fact, a list of devices and the label \"hypocrite\". The strong fourth draft presents her principle as a costly decision and previews a line from public refusal to private cost to independence as sacrifice.",
   "caption": "Only the fourth draft makes a defensible claim and shows where the argument will go.",
-  "bytes": 146828
+  "bytes": 146526
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--07-commentary-on-the-count.webp",
@@ -60,7 +60,7 @@
   "after": "## Worked example 2: building an evidence-to-commentary chain",
   "alt": "The quotation about Miss Tarrant counting the panes, desks and coming winter leads to two paths. A weak comment only says she is worried. The strong chain interprets, explains how the list builds to winter, connects to the claim about her costly refusal, and connects to the thesis about sacrifice.",
   "caption": "Strong commentary keeps going until it reaches the thesis.",
-  "bytes": 132242
+  "bytes": 132396
  },
  {
   "file": "ap-english-literature-and-composition-6-6-thesis-commentary-literary-argument-study-guide--08-self-assessment-rubric.webp",
@@ -69,6 +69,6 @@
   "after": "## Self-assessment table (suggested Marlbridge rubric)",
   "alt": "A grid rating five features from 1 (not yet) to 3 (secure): an interpretive thesis, a thesis that responds to the question, claims that form a line of reasoning, specific evidence, and commentary that explains how. Level 3 cells describe a specific, defensible thesis, building claims, precise evidence and commentary that connects to the thesis.",
   "caption": "Use the rubric to move each feature from \"not yet\" towards \"secure\".",
-  "bytes": 107578
+  "bytes": 106658
  }
 ]

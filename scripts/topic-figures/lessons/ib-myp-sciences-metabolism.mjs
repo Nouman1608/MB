@@ -50,7 +50,7 @@ const syringe = (x, y, len, filled, label) => {
   const enz = (x, y) => `<path d="M${x - 70},${y + 60} L${x - 70},${y} L${x - 25},${y} L${x - 25},${y + 25} Q${x},${y + 45} ${x + 25},${y + 25} L${x + 25},${y} L${x + 70},${y} L${x + 70},${y + 60} Z" fill="${C.teal}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
   const sub = (x, y, f = C.mustard) => `<path d="M${x - 25},${y - 30} L${x + 25},${y - 30} L${x + 25},${y} Q${x},${y + 20} ${x - 25},${y} Z" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/>`;
   const y = 300;
-  b += enz(130, y) + sub(130, y - 40) + arrow(130, y - 85 + 20, 130, y - 75 + 20, { w: 0 }) + t(130, y + 95, 'enzyme + substrate', { size: 16, weight: 700, anchor: 'middle' });
+  b += enz(130, y) + sub(130, y - 40) + t(130, y + 95, 'enzyme + substrate', { size: 16, weight: 700, anchor: 'middle' });
   b += arrow(130, 195, 130, 222, { w: 3 });
   b += arrow(215, y + 30, 265, y + 30, { w: 3.5 });
   b += enz(350, y) + sub(350, y + 25) + t(350, y + 95, 'enzyme–substrate', { size: 16, weight: 700, anchor: 'middle' }) + t(350, y + 115, 'complex', { size: 16, weight: 700, anchor: 'middle' });
@@ -76,10 +76,10 @@ const syringe = (x, y, len, filled, label) => {
   const ox = 140, oy = 500, W = 440, H = 320;
   b += axes(ox, oy, W, H, 'temperature (°C)', 'rate, 1000/time (s⁻¹ × 10⁻³)');
   const X = (T) => ox + ((T - 10) / 50) * W, Y = (r) => oy - (r / 28) * H;
-  b += `<rect x="${X(25)}" y="${oy - H}" width="${X(45) - X(25)}" height="${H}" fill="${C.cream}" opacity="0.8"/>` + t((X(25) + X(45)) / 2, oy - H + 22, 'true optimum', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 }) + t((X(25) + X(45)) / 2, oy - H + 40, 'somewhere here', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 });
-  const pts = [[15, 5.56], [25, 11.1], [35, 25.0], [45, 16.7], [55, 3.33]];
+  b += `<rect x="${X(25)}" y="${oy - H}" width="${X(45) - X(25)}" height="${H}" fill="${C.cream}" opacity="0.8"/>` + t((X(25) + X(45)) / 2, oy - 40, 'true optimum', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 }) + t((X(25) + X(45)) / 2, oy - 20, 'somewhere here', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 });
+  const pts = [[15, 5.56, '5.56'], [25, 11.1, '11.1'], [35, 25.0, '25.0'], [45, 16.7, '16.7'], [55, 3.33, '3.33']];
   b += path('M' + pts.map(([T, r]) => `${X(T)},${Y(r)}`).join(' L'), { stroke: C.tealDark, w: 3 });
-  pts.forEach(([T, r]) => { b += path(`M${X(T) - 7},${Y(r) - 7} L${X(T) + 7},${Y(r) + 7} M${X(T) + 7},${Y(r) - 7} L${X(T) - 7},${Y(r) + 7}`, { w: 3 }) + t(X(T) + (T === 35 ? 0 : 12), Y(r) - (T === 35 ? 14 : 8), String(r), { size: 15, weight: 700, anchor: T === 35 ? 'middle' : 'start' }); });
+  pts.forEach(([T, r, lbl]) => { b += path(`M${X(T) - 7},${Y(r) - 7} L${X(T) + 7},${Y(r) + 7} M${X(T) + 7},${Y(r) - 7} L${X(T) - 7},${Y(r) + 7}`, { w: 3 }) + t(X(T) + (T === 35 ? 0 : 12), Y(r) - (T === 35 ? 14 : 10), lbl, { size: 15, weight: 700, anchor: T === 35 ? 'middle' : 'start' }); });
   [15, 25, 35, 45, 55].forEach((T) => { b += t(X(T), oy + 22, String(T), { size: 15, anchor: 'middle' }) + `<line x1="${X(T)}" y1="${oy}" x2="${X(T)}" y2="${oy + 6}" stroke="${C.ink}" stroke-width="2"/>`; });
   [0, 10, 20].forEach((r) => { b += t(ox - 10, Y(r) + 5, String(r), { size: 15, anchor: 'end' }) + `<line x1="${ox - 6}" y1="${Y(r)}" x2="${ox}" y2="${Y(r)}" stroke="${C.ink}" stroke-width="2"/>`; });
   // right notes
@@ -121,7 +121,7 @@ const syringe = (x, y, len, filled, label) => {
 
 // 05 Yeast respiration apparatus
 {
-  let b = panel(30, 110, 840, 470);
+  let b = panel(30, 110, 840, 480);
   // water bath
   b += `<rect x="70" y="300" width="300" height="200" rx="6" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="2.5"/>` + t(220, 485, 'water bath, 30 °C', { size: 16, weight: 600, anchor: 'middle', fill: C.tealDark });
   // flask
@@ -131,14 +131,14 @@ const syringe = (x, y, len, filled, label) => {
   b += path('M220,205 L220,170 L470,170 L470,250', { w: 4 });
   b += syringe(470, 260, 300, 120, '').replace(/x="470" y="242"/, 'x="470" y="242"');
   b += t(620, 315, 'gas syringe: 18 cm³ collected', { size: 16, weight: 700, anchor: 'middle' });
-  b += lead(380, 410, 'yeast in sugar solution');
+  b += lead(380, 530, 'yeast in sugar solution');
   function lead(x, y, s) { return `<line x1="${x}" y1="${y}" x2="290" y2="425" stroke="${C.ink}" stroke-width="1.8"/>` + t(x + 6, y + 5, s, { size: 16, weight: 600 }); }
   b += t(310, 160, 'CO₂ travels along the tube', { size: 15, fill: C.muted });
   b += `<rect x="470" y="360" width="380" height="140" rx="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>` +
     t(490, 396, 'rate = volume ÷ time', { size: 18, weight: 700 }) + t(490, 432, '= 18 ÷ 5', { size: 18 }) + t(490, 470, '= 3.6 cm³ min⁻¹', { size: 22, weight: 700, fill: C.olive });
-  b += t(450, 550, 'Always give the unit: a rate with no unit can lose marks.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
+  b += t(450, 568, 'Always give the unit: a rate with no unit can lose marks.', { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
   add('05-yeast-respiration-rate',
-    svg(900, 600, 'Measuring the rate of respiration', b),
+    svg(900, 610, 'Measuring the rate of respiration', b),
     'A flask of yeast in sugar solution sits in a 30 °C water bath. Carbon dioxide passes along a delivery tube into a gas syringe, which collects 18 cm³ in 5 minutes. Rate = 18 ÷ 5 = 3.6 cm³ per minute.',
     'Rate = volume of gas ÷ time, always with its unit.',
     '## Respiration');
@@ -152,7 +152,7 @@ const syringe = (x, y, len, filled, label) => {
   const curve = (pl) => { let d = `M${ox},${oy}`; for (let x = 4; x <= W - 10; x += 4) d += ` L${ox + x},${(oy - pl * (1 - Math.exp(-x / 110))).toFixed(1)}`; return d; };
   b += path(curve(150), { stroke: C.tealDark, w: 4 }) + path(curve(240), { stroke: C.olive, w: 4, extra: 'stroke-dasharray="12 7"' });
   b += t(ox + W - 10, oy - 158, 'low CO₂', { size: 16, weight: 700, anchor: 'end', fill: C.tealDark }) + t(ox + W - 10, oy - 248, 'high CO₂', { size: 16, weight: 700, anchor: 'end', fill: C.olive });
-  b += `<line x1="${ox + 30}" y1="${oy - 60}" x2="${ox + 80}" y2="${oy - 110}" stroke="${C.rust}" stroke-width="2"/>` + t(ox + 18, oy - 130, 'rising: light', { size: 15, weight: 700, fill: C.rust }) + t(ox + 18, oy - 112, 'is limiting', { size: 15, weight: 700, fill: C.rust });
+  b += `<line x1="${ox + 45}" y1="${oy - 75}" x2="${ox + 70}" y2="${oy - 200}" stroke="${C.rust}" stroke-width="2"/>` + t(ox + 20, oy - 228, 'rising: light', { size: 15, weight: 700, fill: C.rust }) + t(ox + 20, oy - 210, 'is limiting', { size: 15, weight: 700, fill: C.rust });
   b += t(ox + 330, oy - 120, 'plateau: something else', { size: 15, weight: 700, anchor: 'middle' }) + t(ox + 330, oy - 102, 'limits (CO₂ here)', { size: 15, weight: 700, anchor: 'middle' });
   b += tl(650, 170, ['Limiting factor:', 'the one in shortest', 'supply. Increase it', 'and the rate rises.'], { size: 16, weight: 600 }, 22);
   b += tl(650, 290, ['Factors: light', 'intensity, CO₂', 'concentration and', 'temperature (too hot', 'lowers the rate).'], { size: 15, fill: C.muted }, 20);

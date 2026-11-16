@@ -33,7 +33,7 @@
   "after": "## 8.2 Urban systems and urban planning",
   "alt": "Cross-section from countryside through a city centre of tall buildings and back. A temperature line rises from the rural edges to a peak over the centre. Four causes are labelled: dark surfaces, waste heat, less vegetation and evapotranspiration, and tall buildings that trap heat and reduce wind.",
   "caption": "Cities run warmer than the countryside, especially at night.",
-  "bytes": 88798
+  "bytes": 90024
  },
  {
   "file": "ib-dp-ess-human-populations-urban-systems--05-photochemical-smog.webp",
@@ -51,7 +51,7 @@
   "after": "## 8.3 Urban air pollution",
   "alt": "Two valley cross-sections with a city. Normally temperature falls with height, so warm polluted air rises and disperses. In an inversion a warm air layer sits above cool air near the ground; the cool, polluted air cannot rise through it and pollutants are trapped. Small graphs show temperature against height.",
   "caption": "Warm air above cool air stops the polluted air near the ground from rising.",
-  "bytes": 70048
+  "bytes": 70630
  },
  {
   "file": "ib-dp-ess-human-populations-urban-systems--07-managing-urban-air-pollution.webp",

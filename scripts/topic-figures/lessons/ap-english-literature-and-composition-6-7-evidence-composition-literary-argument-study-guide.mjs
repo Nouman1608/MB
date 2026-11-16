@@ -3,12 +3,13 @@ import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
 // ---- Local layout helpers for AP figures (self-contained; house style only) ----
 const X = (s) => String(s).replace(/&(?!amp;|lt;|gt;|#\d+;)/g, '&amp;').replace(/</g, '&lt;');
 const T = (x, y, s, o = {}) => t(x, y, X(s), o);
-const cw = (size, weight = 400, italic = false) => size * (weight >= 600 ? 0.56 : italic ? 0.5 : 0.51);
+// Inter advance widths (em) for measuring text
+const FW = {"r":{" ":0.281,"!":0.288,"\"":0.466,"#":0.633,"$":0.642,"%":0.982,"&":0.644,"'":0.3,"(":0.365,")":0.365,"*":0.501,"+":0.662,",":0.288,"-":0.46,".":0.288,"/":0.36,"0":0.631,"1":0.407,"2":0.61,"3":0.618,"4":0.646,"5":0.608,"6":0.62,"7":0.566,"8":0.619,"9":0.62,":":0.288,";":0.302,"<":0.662,"=":0.662,">":0.662,"?":0.511,"@":0.966,"A":0.69,"B":0.654,"C":0.73,"D":0.722,"E":0.601,"F":0.59,"G":0.746,"H":0.743,"I":0.269,"J":0.571,"K":0.672,"L":0.565,"M":0.903,"N":0.753,"O":0.765,"P":0.639,"Q":0.765,"R":0.644,"S":0.642,"T":0.646,"U":0.744,"V":0.69,"W":0.985,"X":0.682,"Y":0.679,"Z":0.629,"[":0.365,"\\":0.36,"]":0.365,"^":0.471,"_":0.456,"`":0.323,"a":0.562,"b":0.612,"c":0.571,"d":0.612,"e":0.583,"f":0.37,"g":0.613,"h":0.591,"i":0.242,"j":0.242,"k":0.549,"l":0.242,"m":0.876,"n":0.591,"o":0.6,"p":0.612,"q":0.612,"r":0.376,"s":0.528,"t":0.327,"u":0.591,"v":0.562,"w":0.818,"x":0.546,"y":0.562,"z":0.552,"{":0.426,"|":0.333,"}":0.426,"~":0.662,"—":1.0,"–":0.5,"→":0.954,"←":0.954,"…":0.864,"“":0.44,"”":0.44,"‘":0.261,"’":0.261,"é":0.583,"•":0.562,"×":0.662},"b":{" ":0.237,"!":0.338,"\"":0.552,"#":0.649,"$":0.655,"%":1.016,"&":0.672,"'":0.339,"(":0.377,")":0.377,"*":0.559,"+":0.679,",":0.334,"-":0.468,".":0.334,"/":0.388,"0":0.674,"1":0.431,"2":0.63,"3":0.646,"4":0.676,"5":0.639,"6":0.649,"7":0.582,"8":0.651,"9":0.649,":":0.334,";":0.343,"<":0.679,"=":0.679,">":0.679,"?":0.56,"@":1.016,"A":0.747,"B":0.662,"C":0.74,"D":0.722,"E":0.607,"F":0.587,"G":0.75,"H":0.747,"I":0.281,"J":0.584,"K":0.719,"L":0.565,"M":0.932,"N":0.762,"O":0.771,"P":0.648,"Q":0.777,"R":0.657,"S":0.655,"T":0.667,"U":0.732,"V":0.747,"W":1.038,"X":0.738,"Y":0.731,"Z":0.664,"[":0.377,"\\":0.388,"]":0.377,"^":0.487,"_":0.476,"`":0.365,"a":0.581,"b":0.63,"c":0.588,"d":0.63,"e":0.596,"f":0.398,"g":0.632,"h":0.623,"i":0.271,"j":0.271,"k":0.58,"l":0.271,"m":0.913,"n":0.623,"o":0.613,"p":0.63,"q":0.63,"r":0.407,"s":0.56,"t":0.366,"u":0.623,"v":0.6,"w":0.85,"x":0.58,"y":0.602,"z":0.573,"{":0.469,"|":0.372,"}":0.469,"~":0.679,"—":1.0,"–":0.5,"→":0.954,"←":0.954,"…":1.002,"“":0.54,"”":0.532,"‘":0.311,"’":0.311,"é":0.596,"•":0.474,"×":0.679},"s":{" ":0.252,"!":0.321,"\"":0.523,"#":0.644,"$":0.65,"%":1.004,"&":0.663,"'":0.326,"(":0.373,")":0.373,"*":0.54,"+":0.673,",":0.319,"-":0.465,".":0.319,"/":0.379,"0":0.66,"1":0.423,"2":0.623,"3":0.636,"4":0.666,"5":0.629,"6":0.64,"7":0.576,"8":0.64,"9":0.64,":":0.319,";":0.329,"<":0.673,"=":0.673,">":0.673,"?":0.543,"@":0.999,"A":0.728,"B":0.659,"C":0.737,"D":0.722,"E":0.605,"F":0.588,"G":0.749,"H":0.746,"I":0.277,"J":0.58,"K":0.703,"L":0.565,"M":0.922,"N":0.759,"O":0.769,"P":0.645,"Q":0.773,"R":0.652,"S":0.65,"T":0.66,"U":0.736,"V":0.728,"W":1.02,"X":0.72,"Y":0.713,"Z":0.652,"[":0.373,"\\":0.379,"]":0.373,"^":0.481,"_":0.469,"`":0.351,"a":0.574,"b":0.624,"c":0.583,"d":0.624,"e":0.591,"f":0.389,"g":0.625,"h":0.612,"i":0.262,"j":0.262,"k":0.569,"l":0.262,"m":0.9,"n":0.612,"o":0.609,"p":0.624,"q":0.624,"r":0.397,"s":0.549,"t":0.353,"u":0.612,"v":0.587,"w":0.839,"x":0.569,"y":0.588,"z":0.566,"{":0.455,"|":0.359,"}":0.455,"~":0.673,"—":1.0,"–":0.5,"→":0.954,"←":0.954,"…":0.956,"“":0.507,"”":0.501,"‘":0.294,"’":0.294,"é":0.591,"•":0.503,"×":0.673},"i":{" ":0.281,"!":0.288,"\"":0.466,"#":0.633,"$":0.641,"%":0.982,"&":0.689,"'":0.3,"(":0.365,")":0.364,"*":0.501,"+":0.662,",":0.288,"-":0.461,".":0.288,"/":0.36,"0":0.63,"1":0.407,"2":0.61,"3":0.617,"4":0.647,"5":0.606,"6":0.619,"7":0.567,"8":0.617,"9":0.619,":":0.288,";":0.301,"<":0.662,"=":0.662,">":0.662,"?":0.511,"@":0.964,"A":0.69,"B":0.654,"C":0.73,"D":0.721,"E":0.602,"F":0.59,"G":0.746,"H":0.743,"I":0.269,"J":0.571,"K":0.672,"L":0.565,"M":0.903,"N":0.753,"O":0.765,"P":0.639,"Q":0.765,"R":0.644,"S":0.641,"T":0.646,"U":0.744,"V":0.69,"W":0.985,"X":0.682,"Y":0.679,"Z":0.63,"[":0.365,"\\":0.359,"]":0.365,"^":0.471,"_":0.456,"`":0.322,"a":0.614,"b":0.613,"c":0.572,"d":0.613,"e":0.576,"f":0.373,"g":0.613,"h":0.591,"i":0.243,"j":0.242,"k":0.549,"l":0.242,"m":0.876,"n":0.591,"o":0.6,"p":0.613,"q":0.613,"r":0.377,"s":0.527,"t":0.328,"u":0.592,"v":0.562,"w":0.818,"x":0.546,"y":0.562,"z":0.552,"{":0.427,"|":0.333,"}":0.427,"~":0.662,"—":1.001,"–":0.501,"→":0.954,"←":0.954,"…":0.863,"“":0.48,"”":0.48,"‘":0.3,"’":0.3,"é":0.576,"•":0.562,"×":0.662},"bi":{" ":0.237,"!":0.337,"\"":0.552,"#":0.649,"$":0.654,"%":1.016,"&":0.691,"'":0.339,"(":0.377,")":0.373,"*":0.559,"+":0.679,",":0.334,"-":0.468,".":0.334,"/":0.388,"0":0.674,"1":0.432,"2":0.63,"3":0.646,"4":0.677,"5":0.639,"6":0.649,"7":0.582,"8":0.65,"9":0.649,":":0.334,";":0.342,"<":0.679,"=":0.679,">":0.679,"?":0.559,"@":1.015,"A":0.747,"B":0.662,"C":0.74,"D":0.722,"E":0.613,"F":0.587,"G":0.75,"H":0.747,"I":0.281,"J":0.584,"K":0.719,"L":0.565,"M":0.932,"N":0.762,"O":0.771,"P":0.648,"Q":0.771,"R":0.657,"S":0.654,"T":0.668,"U":0.732,"V":0.747,"W":1.038,"X":0.738,"Y":0.731,"Z":0.665,"[":0.377,"\\":0.386,"]":0.377,"^":0.487,"_":0.476,"`":0.365,"a":0.631,"b":0.63,"c":0.588,"d":0.63,"e":0.59,"f":0.41,"g":0.632,"h":0.623,"i":0.271,"j":0.271,"k":0.58,"l":0.271,"m":0.913,"n":0.623,"o":0.614,"p":0.63,"q":0.63,"r":0.408,"s":0.56,"t":0.367,"u":0.623,"v":0.6,"w":0.85,"x":0.58,"y":0.602,"z":0.573,"{":0.469,"|":0.372,"}":0.469,"~":0.679,"—":1.0,"–":0.5,"→":0.954,"←":0.954,"…":1.001,"“":0.581,"”":0.573,"‘":0.351,"’":0.351,"é":0.59,"•":0.474,"×":0.679}};
+const tw = (s, size = 17, weight = 400, italic = false) => { const k = weight >= 650 ? (italic ? 'bi' : 'b') : weight >= 550 ? 's' : italic ? 'i' : 'r'; let w = 0; for (const ch of String(s)) w += FW[k][ch] ?? 0.6; return w * size; };
 function wrap(s, width, size = 17, weight = 400, italic = false) {
-  const max = Math.max(4, Math.floor(width / cw(size, weight, italic)));
   const out = []; let cur = '';
   for (const w of String(s).split(/\s+/).filter(Boolean)) {
-    if (!cur) cur = w; else if ((cur + ' ' + w).length <= max) cur += ' ' + w; else { out.push(cur); cur = w; }
+    if (!cur) cur = w; else if (tw(cur + ' ' + w, size, weight, italic) <= width) cur += ' ' + w; else { out.push(cur); cur = w; }
   }
   if (cur) out.push(cur);
   return out;
@@ -223,19 +224,19 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 {
   let b = '';
   const block = (y0, tilt, lText, rText, lSub, rSub, title, sub, sent, note) => {
-    const H = 280, cx = 330, by = y0 + 100, half = 170;
+    const H = 280, cx = 290, by = y0 + 100, half = 155;
     let s = panel(30, y0, 840, H, C.panel, tilt ? C.tealDark : C.panelEdge);
     s += `<path d="M${cx - 45},${by + 120} L${cx + 45},${by + 120} L${cx},${by + 4} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
     s += `<line x1="${cx - half}" y1="${by - tilt}" x2="${cx + half}" y2="${by + tilt}" stroke="${C.ink}" stroke-width="6" stroke-linecap="round"/><circle cx="${cx}" cy="${by}" r="8" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
     [[cx - half, by - tilt, lText, lSub, C.panel, C.panelEdge], [cx + half, by + tilt, rText, rSub, tilt ? C.tealLight : C.panel, tilt ? C.tealDark : C.panelEdge]].forEach(([px, py, tx, sb, f, e]) => {
       s += `<line x1="${px}" y1="${py}" x2="${px}" y2="${py + 26}" stroke="${C.ink}" stroke-width="2.5"/>`;
-      s += `<rect x="${px - 100}" y="${py + 26}" width="200" height="70" rx="12" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
-      const lines = wrap(tx, 180, 17, 700);
-      s += tl(px, py + 54 - (lines.length - 1) * 10, lines, { size: 17, weight: 700, anchor: 'middle' }, 21) + T(px, py + 86, sb, { size: 15, anchor: 'middle', fill: C.muted });
+      s += `<rect x="${px - 95}" y="${py + 26}" width="190" height="76" rx="12" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
+      const lines = wrap(tx, 178, 17, 700);
+      s += tl(px, py + 54 - (lines.length - 1) * 10, lines, { size: 17, weight: 700, anchor: 'middle' }, 21) + T(px, py + 92, sb, { size: 15, anchor: 'middle', fill: C.muted });
     });
-    s += T(560, y0 + 46, title, { size: 23, weight: 700 }) + para(560, y0 + 74, sub, 290, { size: 17, weight: 600, fill: C.tealDark }).s;
-    s += para(560, y0 + 140, sent, 290, { size: 18, italic: true }).s;
-    s += para(560, y0 + 222, note, 290, { size: 16, fill: C.muted }).s;
+    s += T(575, y0 + 46, title, { size: 23, weight: 700 }) + para(575, y0 + 74, sub, 275, { size: 17, weight: 600, fill: C.tealDark }).s;
+    s += para(575, y0 + 140, sent, 275, { size: 18, italic: true }).s;
+    s += para(575, y0 + 222, note, 275, { size: 16, fill: C.muted }).s;
     return s;
   };
   b += block(110, 0, 'Lydia appears calm', 'her hands shake', 'idea 1', 'idea 2', 'Coordination', 'balance or equality', '"Lydia appears calm, and her hands shake."', 'Joining everything with "and" makes everything equally important.');
@@ -281,10 +282,10 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   b += card(30, 110, 840, { kicker: 'CLAIM', title: 'The narrator shows Lydia concealing her distress behind routine', align: 'middle', tsize: 20, fill: C.cream, edge: C.olive, kfill: C.olive }).s;
   const yB = 230;
   b += arrow(300, 196, 250, yB - 8, { w: 3.5 }) + arrow(600, 196, 650, yB - 8, { w: 3.5 });
-  const bucket = (x, w, title, sub, items, f, e) => {
+  const bucket = (x, w, title, sub, items, f, e, minH = 0) => {
     let s = '', cy = yB + 74;
     const parts = items.map(([lbl, q, job, tag]) => {
-      const qh = para(0, 0, q, w - 150, { size: 16, italic: true }).h;
+      const qh = para(0, 0, q, w - 160, { size: 16, italic: true }).h;
       const h = Math.max(70, qh + 32);
       const o = `<rect x="${x + 14}" y="${cy}" width="${w - 28}" height="${h}" rx="10" fill="#ffffff" stroke="${C.panelEdge}" stroke-width="2"/>` +
         badge(x + 40, cy + h / 2, 15, lbl, tag ? C.mustard : C.cream) +
@@ -292,15 +293,19 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
         T(x + w - 26, cy + h / 2 + 6, job, { size: 15, weight: 700, anchor: 'end', fill: C.tealDark });
       cy += h + 10; return o;
     });
-    const H = cy - yB + 6;
+    const H = Math.max(minH, cy - yB + 6);
     s += `<rect x="${x}" y="${yB}" width="${w}" height="${H}" rx="14" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
     s += T(x + 20, yB + 34, title, { size: 20, weight: 700 }) + T(x + 20, yB + 58, sub, { size: 16, fill: C.muted });
     return { s: s + parts.join(''), H };
   };
-  const L = bucket(30, 411, 'Concealment', 'public behaviour', [['a', '"poured the tea"', 'illustrates', 0], ['b', '"A dull note from the agent"', 'exemplifies', 1]], C.panel, C.panelEdge);
-  const R = bucket(459, 411, 'Distress', 'private behaviour', [['c', '"held it to the lamp, as if the flame might alter what was written"', 'amplifies', 1], ['d', '"exactly as before"', 'qualifies', 0]], C.tealLight, C.tealDark);
+  const bL = (m) => bucket(30, 411, 'Concealment', 'public behaviour', [['a', '"poured the tea"', 'illustrates', 0], ['b', '"A dull note from the agent"', 'exemplifies', 1]], C.panel, C.panelEdge, m);
+  const bR = (m) => bucket(459, 411, 'Distress', 'private behaviour', [['c', '"held it to the lamp, as if the flame might alter what was written"', 'amplifies', 1]], C.tealLight, C.tealDark, m);
+  const mH = Math.max(bL(0).H, bR(0).H), L = bL(mH), R = bR(mH);
   b += L.s + R.s;
   let y = yB + Math.max(L.H, R.H) + 20;
+  b += `<rect x="30" y="${y}" width="840" height="64" rx="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>`;
+  b += badge(70, y + 32, 15, 'd', C.cream) + T(100, y + 38, '"exactly as before": qualifies. A complication: she may want the routine to hold', { size: 16 });
+  y += 64 + 12;
   b += `<rect x="30" y="${y}" width="840" height="64" rx="12" fill="#ffffff" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="7 5"/>`;
   b += badge(70, y + 32, 15, 'e', '#ffffff') + T(100, y + 38, '"folded it along its old creases": clarifies, but only weakly relevant', { size: 16, fill: C.muted });
   y += 64 + 20;
@@ -308,7 +313,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   b += c.s;
   add('07-sorting-the-evidence',
     svg(900, y + c.h + 30, 'Worked example: sorting the evidence', b),
-    'The claim that Lydia conceals distress behind routine splits into two halves. Concealment is supported by (a) "poured the tea" and (b) "A dull note from the agent"; distress by (c) holding the letter to the lamp and (d) "exactly as before". Detail (e) is only weakly relevant. The best pair is (b) and (c).',
+    'The claim that Lydia conceals distress behind routine splits into two halves. Concealment is supported by (a) "poured the tea" and (b) "A dull note from the agent"; distress by (c) holding the letter to the lamp. Detail (d), "exactly as before", qualifies the claim as a complication, and (e) is only weakly relevant. The best pair is (b) and (c).',
     'A two-part claim needs evidence for both parts: (b) for concealment, (c) for distress.',
     '## Worked example 1: choosing relevant and sufficient evidence');
 }
@@ -322,19 +327,19 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     ['Semicolon', '"...and the lamp scene shows it is not a dull note."', '"She tells her sister it is a dull note; the lamp scene..."', 'joins a statement and its contradiction'],
     ['Precise verb', '"shows"', '"betrays"', 'names the relationship between words and gesture'],
   ];
-  b += T(320, 126, 'Draft', { size: 18, weight: 700, anchor: 'middle', fill: C.rust }) + T(680, 126, 'Revision', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += T(361, 126, 'Draft', { size: 18, weight: 700, anchor: 'middle', fill: C.rust }) + T(693, 126, 'Revision', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
   let y = 142;
   rows4.forEach(([tool, before, after, why], i) => {
-    const bh = para(0, 0, before, 270, { size: 16, italic: true }).h, ah = para(0, 0, after, 300, { size: 16, italic: true }).h;
-    const h = Math.max(bh, ah, 44) + 52;
+    const bh = para(0, 0, before, 222, { size: 16, italic: true }).h, ah = para(0, 0, after, 298, { size: 16, italic: true }).h, wh = para(0, 0, why, 136, { size: 15 }).h;
+    const h = Math.max(bh + 52, ah + 52, wh + 76, 96);
     b += panel(30, y, 840, h);
     b += badge(60, y + 34, 17, String(i + 1), C.mustard) + T(86, y + 40, tool, { size: 17, weight: 700 });
-    b += para(86, y + 66, why, 110, { size: 15, fill: C.muted }).s;
-    b += `<rect x="190" y="${y + 12}" width="268" height="${h - 24}" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="6 5"/>`;
-    b += para(204, y + (h - bh) / 2 + 15, before, 240, { size: 16, italic: true }).s;
-    b += arrow(462, y + h / 2, 498, y + h / 2, { w: 3.5 });
-    b += `<rect x="502" y="${y + 12}" width="354" height="${h - 24}" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>`;
-    b += para(516, y + (h - ah) / 2 + 15, after, 326, { size: 16, italic: true }).s;
+    b += para(86, y + 66, why, 136, { size: 15, fill: C.muted }).s;
+    b += `<rect x="236" y="${y + 12}" width="250" height="${h - 24}" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="6 5"/>`;
+    b += para(250, y + (h - bh) / 2 + 15, before, 222, { size: 16, italic: true }).s;
+    b += arrow(490, y + h / 2, 524, y + h / 2, { w: 3.5 });
+    b += `<rect x="530" y="${y + 12}" width="326" height="${h - 24}" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>`;
+    b += para(544, y + (h - ah) / 2 + 15, after, 298, { size: 16, italic: true }).s;
     y += h + 12;
   });
   add('08-sentence-control-revisions',

@@ -319,7 +319,7 @@ add('02-nature-nurture',
 
 // 03 Socialisation across the life course
 {
-  const Y = 110, x0 = 270, x1 = 860, stages = ['Early childhood', 'Childhood', 'Teenage years', 'Adulthood'];
+  const Y = 110, x0 = 290, x1 = 870, stages = ['Early childhood', 'Childhood', 'Teenage years', 'Adulthood'];
   const sw = (x1 - x0) / 4, X = (i) => x0 + i * sw;
   let b = '';
   // brackets
@@ -337,17 +337,15 @@ add('02-nature-nurture',
     ['Workplace', 'workplace training', [[3, 4, 2]], 'adult occupational identity'],
   ];
   rows.forEach(([ag, pr, segs, note], i) => {
-    const y = Y + 110 + i * 70;
-    b += `<line x1="30" y1="${y + 60}" x2="870" y2="${y + 60}" stroke="${C.panelEdge}" stroke-width="1.5"/>`;
-    b += T(30, y + 26, ag, { size: 19, weight: 700 }) + T(30, y + 48, pr, { size: 15, fill: C.muted });
+    const y = Y + 104 + i * 84;
+    b += `<line x1="30" y1="${y + 78}" x2="870" y2="${y + 78}" stroke="${C.panelEdge}" stroke-width="1.5"/>`;
+    b += T(30, y + 24, ag, { size: 19, weight: 700 }) + T(30, y + 46, pr, { size: 15, fill: C.muted }) + T(30, y + 66, note, { size: 15, fill: C.tealDark, italic: true });
     segs.forEach(([a, z, k]) => {
       const fill = k === 2 ? C.tealDark : k === 1 ? C.teal : C.tealLight;
-      b += `<rect x="${X(a) + 4}" y="${y + 12}" width="${X(z) - X(a) - 8}" height="34" rx="9" fill="${fill}" stroke="${C.ink}" stroke-width="2"${k === 0 ? ' stroke-dasharray="6 5"' : ''}/>`;
+      b += `<rect x="${X(a) + 4}" y="${y + 22}" width="${X(z) - X(a) - 8}" height="34" rx="9" fill="${fill}" stroke="${C.ink}" stroke-width="2"${k === 0 ? ' stroke-dasharray="6 5"' : ''}/>`;
     });
-    const [a, z, k] = segs.find((s) => s[2] === 2) || segs[0];
-    b += T((X(a) + X(z)) / 2, y + 35, note, { size: 15, weight: 600, anchor: 'middle', fill: k === 2 ? '#ffffff' : C.ink });
   });
-  const ly = Y + 110 + 6 * 70 + 26;
+  const ly = Y + 104 + 6 * 84 + 30;
   b += `<rect x="190" y="${ly - 16}" width="40" height="22" rx="6" fill="${C.tealDark}" stroke="${C.ink}" stroke-width="2"/>` + T(240, ly, 'strongest influence', { size: 16 });
   b += `<rect x="440" y="${ly - 16}" width="40" height="22" rx="6" fill="${C.teal}" stroke="${C.ink}" stroke-width="2"/>` + T(490, ly, 'ongoing influence', { size: 16 });
   b += `<rect x="670" y="${ly - 16}" width="40" height="22" rx="6" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="2" stroke-dasharray="6 5"/>` + T(720, ly, 'varies', { size: 16 });
@@ -363,7 +361,7 @@ add('02-nature-nurture',
   const Y = 110;
   let b = card(300, Y, 300, { title: 'Socialisation', align: 'middle', fill: C.cream, edge: C.olive, tsize: 21, minH: 56, vcenter: true }).s;
   b += T(160, Y + 112, 'CONSENSUS', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) + T(600, Y + 112, 'CONFLICT', { size: 17, weight: 700, anchor: 'middle', fill: C.rust });
-  b += path(`M450,${Y + 58} L450,${Y + 80} M160,${Y + 80} L740,${Y + 80} M160,${Y + 80} L160,${Y + 94} M600,${Y + 80} L600,${Y + 94}`, { w: 3 });
+  b += path(`M450,${Y + 58} L450,${Y + 80} M160,${Y + 80} L600,${Y + 80} M160,${Y + 80} L160,${Y + 94} M600,${Y + 80} L600,${Y + 94}`, { w: 3 });
   b += path(`M600,${Y + 122} L600,${Y + 134} M455,${Y + 134} L745,${Y + 134} M455,${Y + 134} L455,${Y + 146} M745,${Y + 134} L745,${Y + 146}`, { stroke: C.rust, w: 3 });
   const cy = Y + 146;
   const cs = [
@@ -412,15 +410,14 @@ add('02-nature-nurture',
 // 06 Chosen or limited identity
 {
   const Y = 110;
-  let b = panel(30, Y, 840, 330, C.panel, C.ink);
-  b += `<rect x="30" y="${Y}" width="840" height="330" rx="14" fill="none" stroke="${C.rust}" stroke-width="10" stroke-dasharray="2 0" opacity="0.25"/>`;
+  let b = panel(30, Y, 840, 330);
   b += T(55, Y + 40, 'Postmodernists: “pick and mix” your identity', { size: 21, weight: 700, fill: C.tealDark });
-  b += chips(Y + 64, ['consumption', 'lifestyle', 'digital identities', 'online profiles', 'virtual communities'], { x: 50, w: 800, size: 17 }).s;
+  b += chips(Y + 64, ['consumption', 'lifestyle', 'digital identities'], { x: 50, w: 800, size: 18, h: 46 }).s;
   const lims = ['money', 'family expectations', 'religion', 'class'];
-  b += T(450, Y + 186, 'Critics: choice is still limited by…', { size: 19, weight: 700, anchor: 'middle', fill: C.rust });
+  b += T(450, Y + 176, 'Critics: choice is still limited by…', { size: 19, weight: 700, anchor: 'middle', fill: C.rust });
   lims.forEach((l, i) => {
-    const x = 60 + i * 200;
-    b += `<rect x="${x}" y="${Y + 210}" width="180" height="90" rx="10" fill="${C.cream}" stroke="${C.rust}" stroke-width="3"/>` + T(x + 90, Y + 262, l, { size: 18, weight: 700, anchor: 'middle' });
+    const x = 55 + i * 202;
+    b += `<rect x="${x}" y="${Y + 210}" width="186" height="90" rx="10" fill="${C.cream}" stroke="${C.rust}" stroke-width="3"/>` + T(x + 93, Y + 261, l, { size: 17, weight: 700, anchor: 'middle' });
   });
   const y2 = Y + 350;
   const r = row(y2, [

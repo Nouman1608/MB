@@ -38,20 +38,20 @@
  {
   "file": "igcse-cambridge-pakistan-studies-industrial-development--05-formal-informal.webp",
   "width": 900,
-  "height": 611,
+  "height": 636,
   "after": "## What is the difference between the formal and informal sectors?",
   "alt": "Two columns compare the registered formal sector, which pays taxes and offers regular wages, with the unregistered informal sector of street vendors, mechanics and small workshops. The informal sector’s advantages and disadvantages are listed, and a chain shows goods passing from informal workshops to formal exporters and on to export markets.",
   "caption": "The informal sector gives jobs and cheap services but low pay and no security.",
-  "bytes": 119540
+  "bytes": 120554
  },
  {
   "file": "igcse-cambridge-pakistan-studies-industrial-development--06-export-processing-zone.webp",
   "width": 900,
   "height": 622,
   "after": "## How does government promote industrial growth?",
-  "alt": "A fenced zone of factories beside a port. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports leave through the port. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates.",
+  "alt": "A fenced zone of factories. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports go to buyers overseas. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates.",
   "caption": "EPZs trade tax and customs concessions for investment, jobs and exports.",
-  "bytes": 93308
+  "bytes": 95526
  },
  {
   "file": "igcse-cambridge-pakistan-studies-industrial-development--07-call-centre-feasibility.webp",
@@ -60,7 +60,7 @@
   "after": "## Can global communications create service jobs?",
   "alt": "Call centres need fast internet, reliable power and English-speaking, computer-literate workers. A balance weighs Pakistan’s advantages, a large young workforce and lower wages, against barriers: power cuts, uneven broadband outside big cities and competition from other countries.",
   "caption": "A feasibility answer weighs advantages against barriers before judging.",
-  "bytes": 86234
+  "bytes": 84750
  },
  {
   "file": "igcse-cambridge-pakistan-studies-industrial-development--08-tourism-feasibility.webp",
@@ -69,6 +69,6 @@
   "after": "## Is tourism a feasible route to development?",
   "alt": "Natural attractions such as Hunza, Swat, Naran–Kaghan, K2 and coastal beaches sit beside cultural attractions such as Mohenjo-daro, Taxila, the Lahore Fort, Badshahi Mosque and Sufi shrines. A balance weighs benefits (jobs, foreign exchange, GNP and GDP) against limits (poor access, security concerns, seasonal demand and environmental damage).",
   "caption": "Pakistan has the attractions; access, security and seasons limit what tourism can do.",
-  "bytes": 85274
+  "bytes": 83860
  }
 ]

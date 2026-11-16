@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-myp-sciences-metabolism--01-anabolic-catabolic.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## Metabolism: the big picture",
+  "alt": "Left: anabolic reactions join small units into a large molecule and need energy in, as in photosynthesis, glucose to starch and amino acids to proteins. Right: catabolic reactions break a large molecule into small units and often release energy, as in respiration and digestion.",
+  "caption": "Anabolic reactions build and need energy; catabolic reactions break down and often release it.",
+  "bytes": 86170
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--02-lock-and-key.webp",
+  "width": 900,
+  "height": 590,
+  "after": "## Enzymes",
+  "alt": "An enzyme’s active site has a shape complementary to its substrate. The substrate fits to form an enzyme–substrate complex, the products leave and the enzyme is reused. A molecule of the wrong shape does not fit, which is why enzymes are specific.",
+  "caption": "Only a substrate that matches the active site can react; the enzyme is not used up.",
+  "bytes": 59166
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--03-enzyme-temperature-data.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Enzymes",
+  "alt": "Rate (1000/time) for amylase against temperature: 5.56 at 15 °C, 11.1 at 25 °C, a peak of 25.0 at 35 °C, 16.7 at 45 °C and 3.33 at 55 °C. The band from 25 to 45 °C is shaded because the true optimum could lie anywhere in it. Rate rises with more collisions, then falls as the active site changes shape and the enzyme is denatured.",
+  "caption": "Peak at about 35 °C; with 10 °C steps the true optimum is only known to lie between 25 and 45 °C.",
+  "bytes": 77100
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--04-aerobic-anaerobic.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Respiration",
+  "alt": "Three columns. Aerobic respiration uses oxygen: glucose + oxygen → carbon dioxide + water, mainly in mitochondria. Anaerobic respiration in muscles: glucose → lactic acid, leaving an oxygen debt. Anaerobic respiration in yeast (fermentation) and plants: glucose → ethanol + carbon dioxide. Anaerobic respiration releases much less energy per glucose.",
+  "caption": "Without oxygen, glucose is only partly broken down, so much less energy is released.",
+  "bytes": 94890
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--05-yeast-respiration-rate.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Respiration",
+  "alt": "A flask of yeast in sugar solution sits in a 30 °C water bath. Carbon dioxide passes along a delivery tube into a gas syringe, which collects 18 cm³ in 5 minutes. Rate = 18 ÷ 5 = 3.6 cm³ per minute.",
+  "caption": "Rate = volume of gas ÷ time, always with its unit.",
+  "bytes": 53192
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--06-limiting-factors.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Photosynthesis",
+  "alt": "Rate of photosynthesis against light intensity rises then levels off; at higher carbon dioxide the plateau is higher, so carbon dioxide was limiting there. Below, a plant at 10 cm from a lamp moved to 5 cm gets four times the light intensity, and moved to 20 cm gets a quarter, because intensity is proportional to 1/d².",
+  "caption": "On the rising part light limits the rate; on the plateau something else does.",
+  "bytes": 96470
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--07-digestive-enzymes.webp",
+  "width": 900,
+  "height": 750,
+  "after": "## Digestion basics",
+  "alt": "Amylase breaks starch into maltose and then glucose, made in the salivary glands and pancreas. Protease, such as pepsin, breaks proteins into amino acids, made in the stomach, pancreas and small intestine. Lipase breaks lipids into fatty acids and glycerol, made in the pancreas and small intestine. Bile is not an enzyme: it emulsifies fats and neutralises stomach acid.",
+  "caption": "Each enzyme breaks one kind of large molecule into small, soluble ones.",
+  "bytes": 98058
+ },
+ {
+  "file": "ib-myp-sciences-metabolism--08-catalase-investigation.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Designing an investigation (criterion B)",
+  "alt": "A boiling tube in a water bath holds a buffer, hydrogen peroxide and a same-sized potato cylinder; oxygen bubbles pass along a delivery tube into a gas syringe read at 60 s. The independent variable is pH 4 to 9, the dependent variable is oxygen volume in 60 s, and potato size, peroxide volume and concentration, temperature and time are controlled.",
+  "caption": "Change pH only, measure oxygen in 60 s, and control everything else.",
+  "bytes": 87812
+ }
+]

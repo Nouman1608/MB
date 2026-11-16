@@ -164,7 +164,7 @@ export const slug = 'ib-dp-ess-natural-resources-energy-waste';
   lv.forEach(([a, s, fill], i) => {
     const w1 = W0 - i * 100, w2 = W0 - (i + 1) * 100, y = top + i * (h + 6);
     b += `<path d="M${cx - w1 / 2},${y} L${cx + w1 / 2},${y} L${cx + w2 / 2},${y + h} L${cx - w2 / 2},${y + h} Z" fill="${fill}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
-    b += t(cx, y + 40, a, { size: 20, weight: 700, anchor: 'middle' }) + t(cx, y + 64, s, { size: i > 2 ? 14.5 : 15, anchor: 'middle', fill: C.muted });
+    b += t(cx, y + 40, a, { size: 20, weight: 700, anchor: 'middle' }) + t(cx, y + 64, s, { size: i > 2 ? 15 : 15, anchor: 'middle', fill: C.muted });
   });
   b += ar(40, 140, 40, 600, C.ink, 3.5) + `<text x="26" y="370" font-size="15" font-weight="700" fill="${C.ink}" text-anchor="middle" transform="rotate(-90 26 370)">less preferred ↓</text>`;
   // mapping to pollution management

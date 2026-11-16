@@ -20,6 +20,12 @@ for (const f of figures) {
   html += `\n<!-- place after: ${f.after} -->\n<figure class="topic-figure">\n  <img src="https://img.marlbridge.com/${file}.webp" width="900" height="${height}" alt="${esc(f.alt)}" loading="lazy">\n  <figcaption>${esc(f.caption)}</figcaption>\n</figure>\n`;
   manifest.push({ file: `${file}.webp`, width: 900, height, after: f.after, alt: f.alt, caption: f.caption, bytes: fs.statSync(path.join(dir, `${file}.webp`)).size });
 }
-fs.writeFileSync(path.join(dir, 'figures.html'), html);
+// Keep hand-added reuse blocks (<!-- reused from <slug> --> ... </figure>) across rebuilds.
+const htmlPath = path.join(dir, 'figures.html');
+if (fs.existsSync(htmlPath)) {
+  const kept = fs.readFileSync(htmlPath, 'utf8').match(/<!-- reused from [\s\S]*?<\/figure>/g) || [];
+  for (const block of kept) html += `\n${block}\n`;
+}
+fs.writeFileSync(htmlPath, html);
 fs.writeFileSync(path.join(dir, 'figures.json'), JSON.stringify(manifest, null, 1));
 console.log(manifest.map((m) => `${m.file} 900x${m.height} ${(m.bytes / 1024).toFixed(0)}KB`).join('\n'));

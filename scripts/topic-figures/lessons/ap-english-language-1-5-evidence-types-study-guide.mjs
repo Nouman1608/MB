@@ -296,8 +296,8 @@ fig('06-match-evidence-to-claim', 'Does it measure what the claim says?', 'Claim
     ['iv', 'Fact', '“Used in some rural areas.”', 'Being common is not the same as working.', false],
   ];
   const tx = 750, ty = y0 + 190;
-  s += circ(tx, ty, 110, C.panel, C.ink, 2.5) + circ(tx, ty, 72, C.tealLight, C.tealDark, 2.5) + circ(tx, ty, 36, C.cream, C.ink, 3);
-  s += T(tx, ty + 6, 'learning', { size: 16, weight: 700, anchor: 'middle' });
+  s += circ(tx, ty, 110, C.panel, C.ink, 2.5) + circ(tx, ty, 72, C.tealLight, C.tealDark, 2.5) + circ(tx, ty, 46, C.cream, C.ink, 3);
+  s += T(tx, ty + 6, 'learning', { size: 15, weight: 700, anchor: 'middle' });
   s += T(tx, ty - 120, 'what the claim names', { size: 15, anchor: 'middle', fill: C.muted, weight: 700 });
   let y = y0;
   c.forEach(([n, kind, txt, why, best], i) => {

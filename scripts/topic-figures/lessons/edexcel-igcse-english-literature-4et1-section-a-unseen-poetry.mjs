@@ -314,25 +314,27 @@ const TAG = { L: ['Language', C.cream, C.olive], F: ['Form', C.tealLight, C.teal
     [['Then she is gone upstairs. ', ''], ['The curtains close', 'hl']],
     [['on morning', 'hl'], ['. I eat my breakfast in her dark.', '']],
   ];
-  let s = panel(30, Y - 40, 470, lines.length * lh + 64 - 16);
+  let s = panel(30, Y - 40, 478, lines.length * lh + 64 - 16);
   s += T(px, Y - 8, 'Night Shift', { size: 19, weight: 700 });
   const ly = []; let y = Y + 26;
   lines.forEach((l) => { if (!l) { y += lh - 16; ly.push(null); return; } s += rich(px, y, l, { size: 17 }); ly.push(y); y += lh; });
   const L = (i) => ly.filter((v) => v !== null)[i] - 6; // line index 0..9 -> y
   const notes = [
-    ['S', 'The line break leaves “I” isolated: the speaker is left on her own.', [L(4)]],
-    ['L', 'Matching negatives balance two silences: a shared habit, not blame.', [L(4), L(5)]],
-    ['L', 'Simile: both work properly, yet they cannot meet.', [L(6)]],
-    ['F', 'The rhyme “share” / “there” links them, but the meaning undercuts the sharing.', [L(5), L(7)]],
-    ['F', 'Two lines, not four: an abrupt ending, like the mother’s sudden exit.', [L(8) + 6]],
-    ['L', 'Paradox: “the curtains close / on morning”, a reversed day.', [L(9)]],
+    ['S', 'The line break leaves “I” isolated: the speaker is left on her own.', [4]],
+    ['L', 'Matching negatives balance two silences: a shared habit, not blame.', [4, 5]],
+    ['L', 'Simile: both work properly, yet they cannot meet.', [6]],
+    ['F', 'The rhyme “share” / “there” links them, but the meaning undercuts the sharing.', [5, 7]],
+    ['F', 'Two lines, not four: an abrupt ending, like the mother’s sudden exit.', [8, 9]],
+    ['L', 'Paradox: “the curtains close / on morning”, a reversed day.', [8, 9]],
   ];
+  const perLine = {};
+  notes.forEach(([k, , tg], i) => tg.forEach((li) => { (perLine[li] = perLine[li] || []).push([i + 1, k]); }));
+  Object.entries(perLine).forEach(([li, arr]) => { arr.forEach(([n, k], j) => { const e = TAG[k][2]; const cx = 484 - (arr.length - 1 - j) * 28; s += `<circle cx="${cx}" cy="${L(+li)}" r="12" fill="${TAG[k][1]}" stroke="${e}" stroke-width="2.5"/>` + T(cx, L(+li) + 5, String(n), { size: 15, weight: 700, anchor: 'middle' }); }); });
   let cy = Y - 40;
-  notes.forEach(([k, txt, targets]) => {
+  notes.forEach(([k, txt], i) => {
     const [name, f, e] = TAG[k];
-    const c = card(540, cy, 330, { kicker: name.toUpperCase(), kfill: e, body: txt, size: 15, bfill: C.ink, fill: f, edge: e, pad: 12 });
+    const c = card(530, cy, 340, { kicker: `${i + 1} · ${name.toUpperCase()}`, kfill: e, body: txt, size: 15, bfill: C.ink, fill: f, edge: e, pad: 12 });
     s += c.s;
-    targets.forEach((ty) => { s += `<path d="M502,${ty} C522,${ty} 520,${cy + c.h / 2} 538,${cy + c.h / 2}" fill="none" stroke="${e}" stroke-width="2.2"/><circle cx="502" cy="${ty}" r="3.5" fill="${e}"/>`; });
     cy += c.h + 8;
   });
   const H = Math.max(cy, Y - 40 + lines.length * lh + 48);
@@ -362,7 +364,7 @@ const TAG = { L: ['Language', C.cream, C.olive], F: ['Form', C.tealLight, C.teal
     if (i < 2) s += arrow(x + w + 4, Y + 125, x + w + 26, Y + 125, { w: 3 });
     x += w + 30;
   });
-  s += T(680, Y + 128, 'shorter:', { size: 15, fill: C.olive, weight: 700 }) + T(680, Y + 146, 'abrupt ending', { size: 15, fill: C.olive, weight: 700 });
+  s += T(630, Y + 118, 'shorter: an abrupt ending', { size: 15, fill: C.olive, weight: 700 });
   const ov = card(30, Y + 276, 840, { kicker: 'OVERVIEW', kfill: C.olive, title: 'A loving but disconnected relationship: mother and child live side by side on different timetables.', body: 'The poem moves from close observation to an ending in which the child adapts to the mother’s world.', tsize: 19, size: 17, bfill: C.ink, fill: C.cream, edge: C.olive });
   s += ov.s;
   add('03-poem-movement-overview',
@@ -385,7 +387,7 @@ const TAG = { L: ['Language', C.cream, C.olive], F: ['Form', C.tealLight, C.teal
   lv.forEach(([ti, q, tag, f, e], i) => {
     const off = i * 70;
     const c = card(30 + off, cy, 700 - off + 140 - 0, { title: ti, body: q, tsize: 19, size: 16, fill: f, edge: e, bfill: C.ink });
-    s += c.s + chip(870, cy + 14, tag, { anchor: 'end', size: 15, fill: C.panel, edge: e }).s;
+    s += c.s + chip(854, cy + 16, tag, { anchor: 'end', size: 15, fill: C.panel, edge: e }).s;
     if (i < 2) s += arrow(60 + off, cy + c.h + 2, 60 + off + 50, cy + c.h + 26, { w: 3, color: C.tealDark, marker: 'ahT' });
     cy += c.h + 28;
   });

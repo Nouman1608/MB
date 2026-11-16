@@ -19,7 +19,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   let b = '';
   const ends = [['B', 'Developing ideas', 'chosen design'], ['D', 'Evaluating', 'tests']];
   b += box(30, 110, 170, 92, C.panel, C.panelEdge, 2.2, 12) + badge(66, 156, 20, 'B', C.cream) + tl(94, 150, ['chosen', 'design'], { size: 16, weight: 600 }, 20);
-  b += box(700, 110, 170, 92, C.panel, C.panelEdge, 2.2, 12) + badge(736, 156, 20, 'D', C.cream) + tl(764, 150, ['testing', 'and evaluation'], { size: 16, weight: 600 }, 20);
+  b += box(700, 110, 170, 92, C.panel, C.panelEdge, 2.2, 12) + badge(736, 156, 20, 'D', C.cream) + tl(764, 150, ['tests and', 'evaluation'], { size: 16, weight: 600 }, 20);
   b += arrow(202, 156, 240, 156, { w: 3.5 }) + arrow(660, 156, 698, 156, { w: 3.5 });
   b += box(244, 110, 412, 92, C.mustard, C.ink, 2.5, 12) + t(450, 148, 'C: Creating the solution', { size: 21, weight: 700, anchor: 'middle' }) + t(450, 178, 'plan it, then follow the plan', { size: 16, anchor: 'middle' });
   const skills = [
@@ -72,12 +72,14 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
 {
   const steps = [['Mark out parts', 30], ['Laser-cut parts', 40], ['Sand and check', 35], ['Drill handle holes', 20], ['Dry-fit', 20], ['Glue and clamp', 30], ['Fit dowel handle', 15], ['Two coats of finish', 60], ['Photo + spec check', 20]];
   const x0 = 250, x1 = 850, k = (x1 - x0) / 330, top = 160, rh = 38;
-  let b = panel(30, 110, 840, 500);
+  let b = panel(30, 110, 840, 465);
   for (let l = 0; l <= 6; l++) {
     const x = x0 + l * 55 * k;
     b += `<line x1="${x}" y1="${top - 10}" x2="${x}" y2="${top + 9 * rh + 6}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="5 5"/>`;
     if (l < 6) b += t(x + 27.5 * k, top - 18, `lesson ${l + 1}`, { size: 15, anchor: 'middle', fill: C.muted, weight: 600 });
   }
+  b += `<rect x="${x0 + 270 * k}" y="${top - 6}" width="${60 * k}" height="${9 * rh + 6}" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>`;
+  b += tl(x0 + 300 * k, top + 60, ['contin-', 'gency', '60 min'], { size: 15, weight: 700, anchor: 'middle', fill: C.olive }, 19);
   let cum = 0;
   steps.forEach(([n, m], i) => {
     const y = top + i * rh;
@@ -86,17 +88,15 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
     b += t(x0 + (cum + m) * k + 6, y + 25, `${m}`, { size: 15, fill: C.muted });
     cum += m;
   });
-  b += `<rect x="${x0 + 270 * k}" y="${top - 6}" width="${60 * k}" height="${9 * rh + 6}" fill="${C.cream}" opacity="0.85" stroke="${C.olive}" stroke-width="2"/>`;
-  b += tl(x0 + 300 * k, top + 60, ['contin-', 'gency', '60 min'], { size: 15, weight: 700, anchor: 'middle', fill: C.olive }, 19);
   const gy = top + 5 * rh + 19;
-  b += t(x0 + 175 * k + 74, gy + 6, '← glue dries overnight', { size: 15, weight: 600, fill: C.olive });
+  b += t(x0 + 175 * k + 38, gy + 6, 'dries overnight', { size: 15, weight: 600, fill: C.olive });
   b += `<line x1="${x0}" y1="${top + 9 * rh + 6}" x2="${x1}" y2="${top + 9 * rh + 6}" stroke="${C.ink}" stroke-width="2.5"/>`;
   [0, 110, 220, 330].forEach((v) => { b += t(x0 + v * k, top + 9 * rh + 28, `${v}`, { size: 15, anchor: 'middle', fill: C.muted }); });
   b += t(x0 + 165 * k, top + 9 * rh + 52, 'minutes (6 lessons × 55 = 330)', { size: 15, anchor: 'middle', fill: C.muted });
-  b += panel(30, 625, 410, 92, '#eaf3f1', C.tealDark) + t(52, 660, 'Planned: 270 of 330 minutes', { size: 18, weight: 700 }) + t(52, 690, 'contingency 60 min = 18.2%', { size: 17, fill: C.tealDark, weight: 600 });
-  b += panel(460, 625, 410, 92, C.cream, C.olive) + t(482, 660, 'Digital plan, same logic', { size: 18, weight: 700 }) + t(482, 690, '215 of 250 min; contingency 14.0%', { size: 17, fill: C.olive, weight: 600 });
+  b += panel(30, 592, 410, 92, '#eaf3f1', C.tealDark) + t(52, 627, 'Planned: 270 of 330 minutes', { size: 18, weight: 700 }) + t(52, 657, 'contingency 60 min = 18.2%', { size: 17, fill: C.tealDark, weight: 600 });
+  b += panel(460, 592, 410, 92, C.cream, C.olive) + t(482, 627, 'Digital plan, same logic', { size: 18, weight: 700 }) + t(482, 657, '215 of 250 min; contingency 14.0%', { size: 17, fill: C.olive, weight: 600 });
   add('03-caddy-gantt-plan',
-    svg(900, 745, 'Planning the paint-brush caddy', b),
+    svg(900, 712, 'Planning the paint-brush caddy', b),
     'Gantt chart of nine steps for a plywood brush caddy across six 55-minute lessons: mark out 30, laser-cut 40, sand 35, drill 20, dry-fit 20, glue and clamp 30 (dries overnight), fit handle 15, finish 60 and check 20 minutes. They total 270 of 330 minutes, leaving 60 minutes (18.2%) of contingency. A digital plan uses 215 of 250 minutes, 14.0% contingency.',
     'Times add up inside the lessons available, with contingency left for problems.',
     '## 1. Writing a logical plan');
@@ -117,7 +117,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
     b += arrow(298, 380, 330, y + 26, { w: 2, color: C.tealDark, marker: 'ahT' });
     b += box(336, y, 510, 56, C.panel, C.tealDark, 2, 10) + t(356, y + 35, h, { size: 16, weight: 700, fill: C.tealDark }) + t(530, y + 35, d, { size: 16 });
   });
-  b += t(336, 522, 'Also show: why this technique, accuracy against tolerance, safe working.', { size: 16, fill: C.ink, weight: 600 });
+  b += t(55, 538, 'Also show: why this technique, accuracy against tolerance, safe working.', { size: 16, fill: C.ink, weight: 600 });
   b += panel(30, 580, 840, 90, C.cream, C.olive) + t(55, 616, 'Accuracy example', { size: 18, weight: 700 }) +
     t(55, 646, 'All nine parts within ±1 mm; the divider was 0.5 mm oversize and was sanded to fit.', { size: 17 });
   add('04-annotating-skill-evidence',
@@ -131,7 +131,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
 {
   const rows = [['2 Cut parts', 40, 65], ['3 Sand and check', 35, 45], ['5 Dry-fit', 20, 15], ['8 Finish', 60, 55], ['Other steps', 115, 115]];
   const x0 = 250, k = 3.6;
-  let b = panel(30, 110, 840, 440) + t(55, 146, 'Caddy project: planned and actual minutes', { size: 19, weight: 700 });
+  let b = panel(30, 110, 840, 462) + t(55, 146, 'Caddy project: planned and actual minutes', { size: 19, weight: 700 });
   b += `<rect x="560" y="132" width="22" height="16" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="1.5"/>` + t(590, 146, 'planned', { size: 15 }) +
     `<rect x="680" y="132" width="22" height="16" fill="${C.mustard}" stroke="${C.ink}" stroke-width="1.5"/>` + t(710, 146, 'actual', { size: 15 });
   rows.forEach(([n, p, a], i) => {
@@ -143,11 +143,11 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
     b += t(x0 + Math.min(p, 150) * k + 8, y + 23, String(p), { size: 15, fill: C.muted }) + t(x0 + Math.min(a, 150) * k + 8, y + 47, String(a), { size: 15, fill: C.muted });
     b += t(850, y + 38, d === 0 ? '0' : (d > 0 ? '+' : '−') + Math.abs(d), { size: 20, weight: 700, anchor: 'end', fill: d > 0 ? C.rust : d < 0 ? C.tealDark : C.muted });
   });
-  b += t(250, 535, 'Laser cutter out of action in week 2: parts cut on a scroll saw', { size: 16, fill: C.rust, weight: 600 });
-  b += panel(30, 570, 840, 100, C.cream, C.olive);
-  b += t(55, 606, 'Total: planned 270, actual 295 (+25)', { size: 19, weight: 700 }) + t(55, 640, '330 − 295 = 35 minutes of contingency still left', { size: 17, fill: C.olive, weight: 600 });
+  b += t(250, 552, 'Laser cutter out of action in week 2: parts cut on a scroll saw', { size: 16, fill: C.rust, weight: 600 });
+  b += panel(30, 592, 840, 100, C.cream, C.olive);
+  b += t(55, 628, 'Total: planned 270, actual 295 (+25)', { size: 19, weight: 700 }) + t(55, 662, '330 − 295 = 35 minutes of contingency still left', { size: 17, fill: C.olive, weight: 600 });
   add('05-planned-vs-actual',
-    svg(900, 700, 'The production log: plan versus reality', b),
+    svg(900, 722, 'The production log: plan versus reality', b),
     'Paired bars compare planned and actual minutes for the caddy. Cutting took 65 instead of 40 minutes (+25) and sanding 45 instead of 35 (+10) after the laser cutter broke and a scroll saw was used; dry-fit and finishing each saved 5. The total was 295 against 270 planned, leaving 35 of the 330 minutes.',
     'A log with planned and actual times shows where the project slipped and how contingency absorbed it.',
     '## 3. Following the plan');
@@ -185,7 +185,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   parts.forEach(([h, d, f], i) => {
     const y = 110 + i * 120;
     b += panel(30, y, 840, 106) + badge(80, y + 53, 26, String(i + 1), f);
-    b += t(128, y + 38, h, { size: 21, weight: 700 }) + tl(128, y + 66, wrap(d, 74), { size: 16, fill: C.muted }, 21);
+    b += t(128, y + 38, h, { size: 21, weight: 700 }) + tl(128, y + 66, wrap(d, 82), { size: 16, fill: C.muted }, 21);
   });
   b += lowTop(30, 600, 840, 100, 'low', 'Partial: cause only', ['“I changed to butt joints because the laser cutter was broken.”']);
   add('07-four-part-justification',

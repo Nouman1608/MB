@@ -135,7 +135,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
 // 03 Meander and levée cross-sections
 {
   let s = panel(30, 110, 840, 300) + t(55, 148, 'Across a meander bend (A–B)', { size: 20, weight: 700 });
-  s += `<rect x="690" y="125" width="160" height="120" rx="8" fill="#d8e3c6"/>` + path('M700,140 Q770,140 780,190 Q790,235 840,235', { stroke: C.blue, w: 12 }) + line(735, 205, 810, 160, { w: 2, dash: '5 4' }) + t(728, 222, 'A', { size: 15, weight: 700 }) + t(815, 156, 'B', { size: 15, weight: 700 }) + t(770, 262, 'plan view', { size: 13.5, anchor: 'middle', fill: C.muted, italic: true });
+  s += `<rect x="690" y="125" width="160" height="120" rx="8" fill="#d8e3c6"/>` + path('M710,240 Q710,158 770,158 Q830,158 830,240', { stroke: C.blue, w: 12 }) + line(770, 134, 770, 196, { w: 2, dash: '5 4' }) + t(756, 146, 'A', { size: 15, weight: 700 }) + t(756, 198, 'B', { size: 15, weight: 700 }) + t(770, 262, 'plan view', { size: 13.5, anchor: 'middle', fill: C.muted, italic: true });
   const G = 200;
   s += `<path d="M60,${G} L170,${G} L180,${G + 150} Q260,${G + 160} 340,${G + 110} Q450,${G + 50} 560,${G + 10} L640,${G} L640,${G + 185} L60,${G + 185} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
   s += `<path d="M180,${G + 22} L180,${G + 150} Q260,${G + 160} 340,${G + 110} Q420,${G + 60} 480,${G + 22} Z" fill="${C.teal}"/>` + line(180, G + 22, 480, G + 22, { color: C.tealDark, w: 2.5 });
@@ -148,10 +148,10 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   const L = 640;
   s += line(60, L - 90, 840, L - 90, { w: 2.5, color: C.blue, dash: '10 7' }) + t(835, L - 100, 'flood water spreads out', { size: 15, anchor: 'end', fill: C.blue, weight: 600 });
   s += `<rect x="60" y="${L}" width="780" height="70" fill="${C.rock}"/>`;
-  s += `<path d="M60,${L} L330,${L - 6} Q370,${L - 12} 390,${L - 40} L400,${L - 40} L405,${L + 40} L495,${L + 40} L500,${L - 40} L510,${L - 40} Q530,${L - 12} 570,${L - 6} L840,${L} L840,${L + 4} L60,${L + 4} Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>`;
-  s += `<path d="M300,${L - 2} Q360,${L - 8} 390,${L - 40} L400,${L - 40} L400,${L} Z M600,${L - 2} Q540,${L - 8} 510,${L - 40} L500,${L - 40} L500,${L} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="1.5"/>`;
-  s += `<rect x="405" y="${L - 30}" width="90" height="70" fill="${C.teal}"/>`;
-  s += tag(395, L - 66, 'levée', { size: 15, anchor: 'end', bg: C.panel, op: 1 }) + tag(505, L - 66, 'levée', { size: 15, bg: C.panel, op: 1 });
+  s += `<path d="M60,${L} L330,${L - 6} Q370,${L - 12} 390,${L - 28} L400,${L - 28} L405,${L + 40} L495,${L + 40} L500,${L - 28} L510,${L - 28} Q530,${L - 12} 570,${L - 6} L840,${L} L840,${L + 4} L60,${L + 4} Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2"/>`;
+  s += `<path d="M300,${L - 2} Q360,${L - 8} 390,${L - 28} L400,${L - 28} L400,${L} Z M600,${L - 2} Q540,${L - 8} 510,${L - 28} L500,${L - 28} L500,${L} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="1.5"/>`;
+  s += `<rect x="405" y="${L - 20}" width="90" height="60" fill="${C.teal}"/>`;
+  s += tag(395, L - 50, 'levée', { size: 15, anchor: 'end', bg: C.panel, op: 1 }) + tag(505, L - 50, 'levée', { size: 15, bg: C.panel, op: 1 });
   s += tag(80, L + 34, 'fine silt (alluvium) carried further', { size: 14.5, bg: C.rock, op: 1 }) + tag(820, L + 34, 'flat flood plain', { size: 14.5, anchor: 'end', bg: C.rock, op: 1 });
   s += para(55, 495, 'Water leaving the channel loses energy at once: the coarsest material drops on the banks, finer silt further away. Repeated floods build levées.', 790, { size: 16 }).svg;
   add('03-meander-levee-sections',
@@ -176,10 +176,10 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   const lab = (x, y, a, b, col) => tag(x, y, a, { size: 15.5, fill: col }) + tag(x, y + 19, b, { size: 13.5, weight: 400 });
   s += lab(255, 150, 'Dam and reservoir', 'stores water, releases it slowly', C.rust);
   s += lab(55, 470, 'Afforestation', 'more interception, slower runoff', C.tealDark);
-  s += lab(520, 220, 'Flood relief channel', 'diverts excess water', C.rust);
-  s += lab(560, 470, 'Embankments', 'more channel capacity', C.rust);
-  s += lab(660, 485, 'Wetland restored', 'stores floodwater', C.tealDark);
-  s += lab(640, 240, 'Zoning', 'homes on higher, safer land', C.tealDark);
+  s += lab(430, 222, 'Flood relief channel', 'diverts excess water', C.rust);
+  s += lab(470, 470, 'Embankments', 'more channel capacity', C.rust);
+  s += lab(700, 368, 'Wetland restored', 'stores floodwater', C.tealDark);
+  s += lab(668, 244, 'Zoning', 'homes on higher, safer land', C.tealDark);
   s += lab(260, 500, 'Warning systems', 'and flood shelters', C.tealDark);
   s += card(30, 570, 410, 130, 'Hard engineering', 'Dams, embankments, straightening and dredging, relief channels: expensive; can move the problem downstream.', { fill: '#f6e6dc', edge: C.rust, ts: 18.5, bs: 15.5, tfill: C.rust });
   s += card(460, 570, 410, 130, 'Soft and other measures', 'Afforestation, zoning, wetlands, warnings: cheaper, more sustainable, less protection from the largest floods.', { fill: C.tealLight, edge: C.tealDark, ts: 18.5, bs: 15.5, tfill: C.tealDark });

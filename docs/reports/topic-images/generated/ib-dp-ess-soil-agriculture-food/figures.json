@@ -6,7 +6,7 @@
   "after": "## 5.1 Soil",
   "alt": "A soil profile with O, A, B and C horizons over bedrock. Inputs of leaf litter, rain, sunlight, gases and weathered rock enter; outputs of evaporation, respiration gases, plant uptake, erosion and leaching leave. A key separates transfers such as percolation and leaching from transformations such as decomposition, humification and weathering.",
   "caption": "Leaching moves nutrients without changing them: it is a transfer, not a transformation.",
-  "bytes": 103674
+  "bytes": 106316
  },
  {
   "file": "ib-dp-ess-soil-agriculture-food--02-soil-texture.webp",
@@ -15,7 +15,7 @@
   "after": "## 5.1 Soil",
   "alt": "Close-ups of sandy soil with large particles and pores, clay soil with tiny packed particles, and loam with a mix. Rows compare them: sand drains fast but holds little water or nutrients; clay holds water and nutrients but drains slowly and waterlogs; loam combines good drainage with medium to high retention and usually has the highest productivity.",
   "caption": "Loam combines the drainage of sand with the retention of clay.",
-  "bytes": 138762
+  "bytes": 141366
  },
  {
   "file": "ib-dp-ess-soil-agriculture-food--03-soil-sample-water-organic.webp",
@@ -42,7 +42,7 @@
   "after": "## 5.1 Soil",
   "alt": "Three groups of methods. Slowing water or wind: contour ploughing, terracing and windbreaks. Keeping the surface covered: cover crops and mulching, reduced or no-till, controlled grazing. Maintaining organic matter and nutrients: crop rotation with legumes, compost and manure, plus lime for acidity and drip irrigation against salinization.",
   "caption": "Each method slows water or wind, covers the soil, or keeps organic matter and nutrients.",
-  "bytes": 120040
+  "bytes": 124930
  },
  {
   "file": "ib-dp-ess-soil-agriculture-food--06-people-fed-per-hectare.webp",

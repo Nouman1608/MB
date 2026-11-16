@@ -6,7 +6,7 @@
   "after": "## What this unit covers",
   "alt": "Criterion C, creating the solution, sits between the chosen design from Criterion B and testing in Criterion D. It splits into four skills: a logical plan, technical skills, following the plan with a record, and justifying changes. The outcome is a prototype complete enough to test.",
   "caption": "Plan, show skill, follow and record, justify changes: then test in Criterion D.",
-  "bytes": 115456
+  "bytes": 115222
  },
  {
   "file": "ib-myp-design-criterion-c-creating-the-solution--02-logical-plan-questions.webp",
@@ -20,11 +20,11 @@
  {
   "file": "ib-myp-design-criterion-c-creating-the-solution--03-caddy-gantt-plan.webp",
   "width": 900,
-  "height": 745,
+  "height": 712,
   "after": "## 1. Writing a logical plan",
   "alt": "Gantt chart of nine steps for a plywood brush caddy across six 55-minute lessons: mark out 30, laser-cut 40, sand 35, drill 20, dry-fit 20, glue and clamp 30 (dries overnight), fit handle 15, finish 60 and check 20 minutes. They total 270 of 330 minutes, leaving 60 minutes (18.2%) of contingency. A digital plan uses 215 of 250 minutes, 14.0% contingency.",
   "caption": "Times add up inside the lessons available, with contingency left for problems.",
-  "bytes": 88246
+  "bytes": 88032
  },
  {
   "file": "ib-myp-design-criterion-c-creating-the-solution--04-annotating-skill-evidence.webp",
@@ -33,16 +33,16 @@
   "after": "## 2. Showing technical skills",
   "alt": "A caption that only says “Photo 4: drilling” is not evidence. A strong annotation says what the image shows (drilling the 12 mm handle holes), the skill involved (both ends clamped together) and what was checked (the holes line up), alongside measured accuracy such as all nine parts within ±1 mm.",
   "caption": "The moderator sees the evidence, not the object, so every image needs an annotation.",
-  "bytes": 84512
+  "bytes": 84486
  },
  {
   "file": "ib-myp-design-criterion-c-creating-the-solution--05-planned-vs-actual.webp",
   "width": 900,
-  "height": 700,
+  "height": 722,
   "after": "## 3. Following the plan",
   "alt": "Paired bars compare planned and actual minutes for the caddy. Cutting took 65 instead of 40 minutes (+25) and sanding 45 instead of 35 (+10) after the laser cutter broke and a scroll saw was used; dry-fit and finishing each saved 5. The total was 295 against 270 planned, leaving 35 of the 330 minutes.",
   "caption": "A log with planned and actual times shows where the project slipped and how contingency absorbed it.",
-  "bytes": 70792
+  "bytes": 71226
  },
  {
   "file": "ib-myp-design-criterion-c-creating-the-solution--06-plan-change-vs-design-change.webp",
@@ -60,6 +60,6 @@
   "after": "## 4. Justifying changes",
   "alt": "A full justification states what changed, why with evidence, the effect on the solution and how it will be tested in Criterion D, and the effect on the plan’s time and resources, using the caddy’s switch to butt joints as the example. Giving only the cause is a partial justification.",
   "caption": "A change is justified only when its cause and both of its effects are written down.",
-  "bytes": 97034
+  "bytes": 96994
  }
 ]

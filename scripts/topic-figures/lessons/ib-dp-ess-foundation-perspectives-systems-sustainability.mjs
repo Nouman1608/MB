@@ -179,18 +179,18 @@ export const slug = 'ib-dp-ess-foundation-perspectives-systems-sustainability';
   b += `<circle cx="${cx}" cy="${cy}" r="172" fill="#a9c48f" stroke="${C.rust}" stroke-width="7"/>`;
   b += `<circle cx="${cx}" cy="${cy}" r="92" fill="${C.panel}" stroke="${C.tealDark}" stroke-width="7"/>`;
   b += t(cx, cy - 130, 'safe and just', { size: 19, weight: 700, anchor: 'middle' }) + t(cx, cy - 108, 'space', { size: 19, weight: 700, anchor: 'middle' });
-  b += t(cx, cy - 6, 'social', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(cx, cy + 14, 'foundation', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(cx, cy + 34, '(inner ring)', { size: 14.5, anchor: 'middle', fill: C.muted });
+  b += t(cx, cy - 6, 'social', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(cx, cy + 14, 'foundation', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(cx, cy + 34, '(inner ring)', { size: 15, anchor: 'middle', fill: C.muted });
   b += t(cx, cy - 184, 'ecological ceiling (outer ring)', { size: 17, weight: 700, anchor: 'middle', fill: C.rust });
   b += tl(60, 600, ['Inner ring: food, water, health, education.', 'Outer ring: based on planetary boundaries.'], { size: 15, fill: C.muted }, 20);
   // circular economy
   let c = panel(500, 110, 370, 540) + H(685, 148, 'Linear vs circular', C.ink, 21, 'middle');
-  c += node(525, 175, 95, 50, 'Take', [], { size: 17 }) + node(637, 175, 95, 50, 'Make', [], { size: 17 }) + node(749, 175, 100, 50, 'Throw', ['away'], { size: 15, subSize: 14, fill: C.cream, stroke: C.rust });
+  c += node(525, 175, 95, 50, 'Take', [], { size: 17 }) + node(637, 175, 95, 50, 'Make', [], { size: 17 }) + node(749, 175, 100, 50, 'Throw', ['away'], { size: 15, subSize: 15, fill: C.cream, stroke: C.rust });
   c += ar(621, 200, 634, 200, C.ink, 3) + ar(733, 200, 746, 200, C.ink, 3);
   c += t(685, 254, 'linear model', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
   const ccx = 685, ccy = 450, R = 112;
   const P = (d, r = R) => { const a = (d * Math.PI) / 180; return [ccx + r * Math.cos(a), ccy + r * Math.sin(a)]; };
   [[-52, -8], [68, 112], [188, 232]].forEach(([a1, a2]) => { const [x1, y1] = P(a1), [x2, y2] = P(a2); c += carrow(`M${x1.toFixed(1)},${y1.toFixed(1)} A${R},${R} 0 0 1 ${x2.toFixed(1)},${y2.toFixed(1)}`, C.tealDark, 5); });
-  const nd = (d, a, sub) => { const [x, y] = P(d); return node(x - 78, y - 29, 156, 58, a, sub, { size: 17, subSize: 14, fill: C.tealLight, stroke: C.tealDark }); };
+  const nd = (d, a, sub) => { const [x, y] = P(d); return node(x - 78, y - 29, 156, 58, a, sub, { size: 17, subSize: 15, fill: C.tealLight, stroke: C.tealDark }); };
   c += nd(-90, 'Design out', ['waste']) + nd(30, 'Keep in use', ['products, materials']) + nd(150, 'Regenerate', ['natural systems']);
   c += t(ccx, ccy + 6, 'circular', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
   add('07-doughnut-circular-economy',
