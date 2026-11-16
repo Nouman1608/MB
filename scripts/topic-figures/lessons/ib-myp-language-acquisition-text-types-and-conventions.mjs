@@ -20,8 +20,9 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   let b = '';
   d.forEach(([h, q, f], i) => {
     const x = 30 + i * 285, w = 270;
-    b += box(x, 110, w, 130, f, C.ink, 2.5, 12) + badge(x + 32, 146, 18, String(i + 1), '#fff') + t(x + 60, 153, h, { size: 20, weight: 700 }) + tl(x + 20, 192, wrap(q, 30), { size: 15.5 }, 20);
-    b += arrow(x + w / 2, 244, 450 + (i - 1) * 70, 290, { w: 3 });
+    b += box(x, 110, w, 136, f, C.ink, 2.5, 12) + badge(x + 32, 146, 18, String(i + 1), '#fff') + t(x + 60, 153, h, { size: 20, weight: 700 }) + tl(x + 20, 186, wrap(q, 32), { size: 15.5 }, 20);
+    void 0;
+    b += arrow(x + w / 2, 250, 450 + (i - 1) * 70, 292, { w: 3 });
   });
   b += box(250, 296, 400, 90, C.mustard, C.ink, 3, 14) + badge(290, 341, 18, '4', '#fff') + t(470, 334, 'Register', { size: 22, weight: 700, anchor: 'middle' }) + t(470, 362, 'follows from 1–3, not from the topic', { size: 15.5, anchor: 'middle' });
   b += arrow(450, 390, 450, 420, { w: 3 });
@@ -105,19 +106,19 @@ const lab = (x, y, s, col = C.tealDark) => t(x, y, s, { size: 14.5, weight: 700,
   ];
   let b = box(150, 110, 600, 56, C.mustard, C.ink, 2.5, 12) + t(450, 145, 'Same facts: Harwick Food Festival stall, 8 June', { size: 18, weight: 700, anchor: 'middle' });
   const rl = ['Audience', 'Purpose', 'Register', 'Opening', 'Language', 'Ending'];
-  rl.forEach((r, j) => { b += t(30, 250 + j * 74 + (j === 0 ? 0 : 0), r, { size: 15, weight: 700, fill: C.muted }); });
+  rl.forEach((r, j) => { b += t(30, 270 + j * 74, r, { size: 15, weight: 700, fill: C.muted }); });
   cols.forEach(([h, aud, pur, reg, op, lang, end, f, e], i) => {
     const x = 130 + i * 250, w = 236;
     b += arrow(450 + (i - 1) * 60, 168, x + w / 2, 186, { w: 2.5 });
-    b += panel(x, 190, w, 470, f, e) + t(x + w / 2, 220, h, { size: 19, weight: 700, anchor: 'middle', fill: e });
+    b += panel(x, 190, w, 488, f, e) + t(x + w / 2, 220, h, { size: 19, weight: 700, anchor: 'middle', fill: e });
     [aud, pur, reg, op, lang, end].forEach((v, j) => {
       const y = 232 + j * 74;
       b += box(x + 10, y, w - 20, 64, '#fff', C.panelEdge, 1.5, 8) + tl(x + 22, y + (wrap(v, 24).length > 1 ? 26 : 38), wrap(v, 24), { size: 14.5, italic: j >= 3, weight: j === 2 ? 700 : 400 }, 18);
     });
   });
-  b += t(450, 690, 'If two endings could be swapped unnoticed, your conventions are too weak.', { size: 16, weight: 700, anchor: 'middle', fill: C.rust });
+  b += t(450, 708, 'If two endings could be swapped unnoticed, your conventions are too weak.', { size: 16, weight: 700, anchor: 'middle', fill: C.rust });
   add('05-one-topic-three-texts',
-    svg(900, 715, 'One topic, three text types', b),
+    svg(900, 732, 'One topic, three text types', b),
     'The same food-festival facts written three ways. A formal email to the festival coordinator asks for a stall, opens “Dear Mr Brennan,” avoids contractions and ends with “Yours sincerely” and a role. A semi-formal blog post persuades students to volunteer and ends by asking for comments. An informal diary entry reflects on feelings and ends with a private worry.',
     'The facts stay the same; audience, purpose, register and endings all change.',
     '## Worked example: one topic, three text types');

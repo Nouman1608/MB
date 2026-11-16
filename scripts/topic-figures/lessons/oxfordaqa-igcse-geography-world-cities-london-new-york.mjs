@@ -89,9 +89,9 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
 {
   const cx = 450, cy = 300;
   const tr = [
-    ['Finance and business', 'A centre of global finance', 30, 112],
+    ['Finance and business', 'A centre of finance and business', 30, 112],
     ['TNC headquarters', 'Head offices of transnational corporations', 610, 112],
-    ['Transport hub', 'International airports and ports', 30, 400],
+    ['Transport hub', 'A hub for international transport', 30, 400],
     ['Culture and politics', 'Global cultural and political importance', 610, 400],
   ];
   const w = 260, h = Math.max(...tr.map(([a, c]) => cardH(w, { title: a, body: c, bs: 16 })));
@@ -116,15 +116,15 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
 
 // 02 London's time-zone advantage
 {
-  const y = 140, x0 = 60, x1 = 840;
+  const y = 100, x0 = 60, x1 = 840;
   let b = '';
   const band = (yy, lab, a, z, f, e) => R(a, yy, z - a, 54, f, e, { rx: 10 }) + T((a + z) / 2, yy + 34, lab, { size: 17, weight: 700, anchor: 'middle' });
   b += T(x0, y + 26, 'Schematic of one London working day (not a clock scale)', { size: 15, fill: C.muted, italic: true });
-  b += band(y + 46, 'Asian markets still open', x0, 460, C.cream, C.olive);
+  b += `<rect x="220" y="${y + 40}" width="220" height="198" fill="${C.cream}" opacity="0.6"/><rect x="460" y="${y + 40}" width="220" height="198" fill="${C.tealLight}" opacity="0.8"/>`;
+  b += band(y + 46, 'Asian markets still open', x0, 440, C.cream, C.olive);
   b += band(y + 112, 'London working day', 220, 680, C.mustard, C.ink);
-  b += band(y + 178, 'North American markets open', 440, x1, C.tealLight, C.tealDark);
-  b += `<rect x="220" y="${y + 40}" width="240" height="198" fill="none" stroke="${C.olive}" stroke-width="3" stroke-dasharray="8 6"/>` + `<rect x="440" y="${y + 40}" width="240" height="198" fill="none" stroke="${C.tealDark}" stroke-width="3" stroke-dasharray="8 6"/>`;
-  b += T(340, y + 266, 'morning overlap', { size: 17, weight: 700, fill: C.olive, anchor: 'middle' }) + T(560, y + 266, 'afternoon overlap', { size: 17, weight: 700, fill: C.tealDark, anchor: 'middle' });
+  b += band(y + 178, 'North American markets open', 460, x1, C.tealLight, C.tealDark);
+  b += T(330, y + 266, 'morning overlap', { size: 17, weight: 700, fill: C.olive, anchor: 'middle' }) + T(570, y + 266, 'afternoon overlap', { size: 17, weight: 700, fill: C.tealDark, anchor: 'middle' });
   const ny = y + 296;
   const n = note(30, ny, 840, 'London lies on the Greenwich Meridian (0° longitude). Heathrow is one of the world’s busiest international airports, and Eurostar links London to mainland Europe through the Channel Tunnel.');
   add('02-london-time-zone',
