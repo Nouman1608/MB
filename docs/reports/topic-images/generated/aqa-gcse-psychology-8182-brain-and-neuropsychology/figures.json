@@ -6,7 +6,7 @@
   "after": "## The nervous system",
   "alt": "A tree diagram. The nervous system divides into the central nervous system (brain and spinal cord) and the peripheral nervous system (all other nerves). The peripheral system divides into the somatic system (senses and voluntary movement) and the autonomic system (involuntary functions), which has sympathetic (fight or flight) and parasympathetic (rest and digest) branches.",
   "caption": "CNS decides; PNS carries messages. The autonomic branch runs involuntary functions.",
-  "bytes": 77206
+  "bytes": 82232
  },
  {
   "file": "aqa-gcse-psychology-8182-brain-and-neuropsychology--02-fight-or-flight.webp",
@@ -29,11 +29,11 @@
  {
   "file": "aqa-gcse-psychology-8182-brain-and-neuropsychology--04-synaptic-transmission.webp",
   "width": 900,
-  "height": 768,
+  "height": 728,
   "after": "## Neurons and synaptic transmission",
   "alt": "A presynaptic axon terminal with an electrical impulse and vesicles of neurotransmitter faces a postsynaptic neuron across a synapse. Neurotransmitter crosses the gap and binds to receptors. Four steps: impulse to the terminal, release from vesicles, binding to receptors, and excitation or inhibition of the next neuron.",
   "caption": "The impulse is electrical along the neuron; a chemical neurotransmitter crosses the gap.",
-  "bytes": 125184
+  "bytes": 126684
  },
  {
   "file": "aqa-gcse-psychology-8182-brain-and-neuropsychology--05-hebb-cell-assemblies.webp",
@@ -47,19 +47,19 @@
  {
   "file": "aqa-gcse-psychology-8182-brain-and-neuropsychology--06-localisation-of-function.webp",
   "width": 900,
-  "height": 689,
+  "height": 733,
   "after": "## Brain structure and localisation of function",
   "alt": "A schematic side view of the brain with the frontal, parietal, occipital and temporal lobes and the cerebellum. Labels mark the motor area at the back of the frontal lobe, the somatosensory area at the front of the parietal lobe, the visual area in the occipital lobe, the auditory area and Wernicke's area in the temporal lobe, and Broca's area in the frontal lobe.",
   "caption": "Particular areas carry out particular jobs; each side of the brain serves the opposite side of the body.",
-  "bytes": 143356
+  "bytes": 145376
  },
  {
   "file": "aqa-gcse-psychology-8182-brain-and-neuropsychology--07-scans-and-tulving.webp",
   "width": 900,
-  "height": 782,
+  "height": 837,
   "after": "## Neuropsychology and scanning",
   "alt": "A table compares scans: CT combines X-rays to show structure; PET uses an injected radioactive tracer and fMRI detects blood oxygen changes to show activity. A brain schematic for Tulving's gold study shows episodic memories linked to the frontal cortex and semantic memories to the back of the cortex.",
   "caption": "CT shows structure; PET and fMRI show activity. Tulving linked memory types to different areas.",
-  "bytes": 157206
+  "bytes": 160366
  }
 ]

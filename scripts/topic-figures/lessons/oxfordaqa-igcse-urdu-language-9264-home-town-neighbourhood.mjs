@@ -17,7 +17,7 @@ const vchip = (x, y, w, ur, en, fill = C.panel, edge = C.panelEdge) => box(x, y,
 // Sentence row (stacked): English label top-left (+ extra markup), Urdu example right-aligned on its own line, English gloss beneath
 const srow = (y, label, ur, gloss, { extra = '', fill = C.panel, edge = C.panelEdge, size = 24, h = 140 } = {}) =>
   box(30, y, 840, h, fill, edge, 2.5, 14) + t(52, y + 38, label, { size: 19, weight: 700 }) + extra +
-  u(846, y + 88, ur, { size }) + t(846, y + h - 16, gloss, { size: 16, anchor: 'end', fill: C.muted, italic: true });
+  u(846, y + h - 52, ur, { size }) + t(846, y + h - 16, gloss, { size: 16, anchor: 'end', fill: C.muted, italic: true });
 const tick = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + path(`M${x - 7},${y} l5,6 l10,-12`, { stroke: C.tealDark, w: 3.5 });
 const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" stroke="${C.rust}" stroke-width="2.5"/>` + path(`M${x - 6},${y - 6} l12,12 m0,-12 l-12,12`, { stroke: C.rust, w: 3.5 });
 
@@ -118,12 +118,12 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
     ['One improvement', 'اگر یہاں ایک کھیل کا میدان بن جائے تو بہت اچھا ہو گا۔', 'If a playing field were built here, it would be very good.'],
   ];
   rows.forEach(([l, ur, g], i) => {
-    const y = 148 + i * 128, hi = i === 2 || i === 4;
-    b += srow(y, (i + 1) + '. ' + l, ur, g.replace(' (oblique قصبے)', ''), { h: 116, fill: hi ? C.cream : C.panel, edge: hi ? C.olive : C.panelEdge, size: 23 });
+    const y = 148 + i * 144, hi = i === 2 || i === 4;
+    b += srow(y, (i + 1) + '. ' + l, ur, g.replace(' (oblique قصبے)', ''), { h: 136, fill: hi ? C.cream : C.panel, edge: hi ? C.olive : C.panelEdge, size: 23 });
   });
-  b += t(450, 806, 'Then and now gives two time frames; the condition links forward to social and global issues', { size: 16, anchor: 'middle', fill: C.muted });
+  b += t(450, 886, 'Then and now gives two time frames; the condition links forward to social and global issues', { size: 16, anchor: 'middle', fill: C.muted });
   add('04-describing-your-area',
-    svg(900, 830, 'Five moves for describing your area', b),
+    svg(900, 912, 'Five moves for describing your area', b),
     'Five lines from the model answer: where you live (میں ایک چھوٹے قصبے میں رہتی ہوں), what there is, how it has changed with پہلے ... لیکن اب, an opinion with کیونکہ, and one improvement as a condition (اگر یہاں ایک کھیل کا میدان بن جائے تو ...).',
     'Place, amenities, change, opinion, improvement: a strong structure for this topic.',
     '## Worked example 2: describing your area');

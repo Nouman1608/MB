@@ -347,7 +347,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
 
 // 03 Reading a short scene as performance
 {
-  const Y = 128, lh = 34, px = 54;
+  const Y = 128, lh = 40, px = 54;
   const L = [
     [['A kitchen. Evening. MARA sets three ', 'it'], ['plates', 'ithl']],
     [['on the table. DANIEL enters, still wearing his coat.', 'it']],
@@ -364,23 +364,26 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
   let s = panel(30, Y - 30, 480, 0) ;
   let y = Y + 10; const ly = [];
   let body = '';
-  L.forEach((l) => { if (!l) { y += 12; ly.push(null); return; } body += rich(px, y, l, { size: 17 }); ly.push(y); y += lh; });
+  L.forEach((l) => { if (!l) { y += 18; ly.push(null); return; } body += rich(px, y, l, { size: 17 }); ly.push(y); y += lh; });
   const H0 = y - Y + 20;
   s = panel(30, Y - 30, 480, H0) + body;
   const at = (i) => ly.filter((v) => v !== null)[i] - 6;
   const notes = [
     ['Prop', 'The third plate: the absent person dominates the stage before anyone speaks.', [0]],
-    ['Stage direction', 'The coat, removed “slowly” but not hung up: arrived, but not prepared to stay in this conversation.', [4, 5]],
+    ['Stage direction', 'The coat, removed “slowly” but not hung up: arrived, but not prepared to stay in this conversation.', [4]],
     ['Pause', 'Gives the audience time to feel the weight of “He won’t”.', [6]],
     ['Action, not argument', 'Straightening the fork: her hope survives as quiet ritual.', [6]],
     ['Final line', 'Sounds practical, but the audience hears a refusal to give up: the tension stays unresolved.', [7]],
   ];
   const per = {};
   notes.forEach(([, , tg], i) => tg.forEach((li) => { (per[li] = per[li] || []).push(i + 1); }));
-  Object.entries(per).forEach(([li, arr]) => arr.forEach((n, j) => { const cx = 490 - (arr.length - 1 - j) * 28; s += `<circle cx="${cx}" cy="${at(+li)}" r="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>` + T(cx, at(+li) + 5, String(n), { size: 15, weight: 700, anchor: 'middle' }); }));
+  let bdg = '';
+  Object.entries(per).forEach(([li, arr]) => arr.forEach((n, j) => { const cx = 490 - (arr.length - 1 - j) * 28; bdg += `<circle cx="${cx}" cy="${at(+li)}" r="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>` + T(cx, at(+li) + 5, String(n), { size: 15, weight: 700, anchor: 'middle' }); }));
   let cy = Y - 30;
   notes.forEach(([k, b], i) => { const c = card(530, cy, 340, { kicker: `${i + 1} · ${k.toUpperCase()}`, kfill: C.olive, body: b, size: 15, bfill: C.ink, pad: 12 }); s += c.s; cy += c.h + 8; });
   const H = Math.max(cy, Y - 30 + H0 + 8);
+  const ch = (y - lh + 5) - (Y - 7), dy = Math.round((H - 8 - (Y - 30) - ch) / 2 - 23);
+  s = s.replace(`height="${H0}"`, `height="${H - 8 - (Y - 30)}"`).replace(body, `<g transform="translate(0,${dy})">${body}${bdg}</g>`);
   s += T(30, H + 18, 'Invented practice scene, not from any set text.', { size: 15, fill: C.muted });
   add('03-scene-as-performance',
     svg(900, Math.round(H + 40), 'Reading a scene as performance', s),

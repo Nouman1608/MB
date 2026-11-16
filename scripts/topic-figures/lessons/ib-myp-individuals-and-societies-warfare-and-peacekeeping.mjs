@@ -170,14 +170,14 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 // 01 WWI causes by timescale
 {
   let b = '';
-  const col = (x, w, h, title, sub, body, fill, edge) => box(x, 150, w, 330, { title, body: sub + '\n\n' + body, fill, edge, valign: 'top', tsize: 21, bsize: 15.5 });
+  const col = (x, w, h, title, sub, body, fill, edge) => box(x, 150, w, 270, { title, body: sub + '\n\n' + body, fill, edge, valign: 'top', tsize: 21, bsize: 15.5 });
   b += label(450, 136, 'Organising the causes of the First World War', { anchor: 'middle' });
   b += col(30, 300, 0, 'Long-term', 'builds up over years', '• Triple Alliance (1882) and Triple Entente (complete by 1907)\n• rivalry for colonies\n• arms build-up\n• Balkan nationalism', C.tealLight, C.tealDark);
   b += col(350, 250, 0, 'Short-term', 'months before war', '• July 1914 ultimatum to Serbia\n• Austria-Hungary declares war, 28 July 1914\n• Russian and German mobilisation', C.cream, C.olive);
   b += col(620, 250, 0, 'Trigger', 'starts the fighting', '• Franz Ferdinand assassinated in Sarajevo, 28 June 1914\n\nnot the same as the most important cause', '#fbeee6', C.rust);
-  b += arrow(332, 315, 348, 315, { w: 3 }) + arrow(602, 315, 618, 315, { w: 3 });
-  b += box(30, 500, 840, 130, { title: 'Link them: how a local crisis became a European war', body: 'Germany backed Austria-Hungary, Russia backed Serbia, and Britain entered on 4 August 1914 after Germany invaded Belgium. The alliances connect the causes.', fill: C.mustard, edge: C.ink, align: 'middle', bsize: 16 });
-  fig('01-wwi-causes-timescale', 'Long-term, short-term and trigger', b, 660,
+  b += arrow(331, 285, 349, 285, { w: 3 }) + arrow(601, 285, 619, 285, { w: 3 });
+  b += box(30, 440, 840, 130, { title: 'Link them: how a local crisis became a European war', body: 'Germany backed Austria-Hungary, Russia backed Serbia, and Britain entered on 4 August 1914 after Germany invaded Belgium. The alliances connect the causes.', fill: C.mustard, edge: C.ink, align: 'middle', bsize: 16 });
+  fig('01-wwi-causes-timescale', 'Long-term, short-term and trigger', b, 600,
     'Causes of the First World War in three columns. Long-term: the two alliance blocs, colonial rivalry, arms build-up and Balkan nationalism. Short-term: the July 1914 ultimatum, Austria-Hungary’s declaration of war on Serbia and mobilisation. Trigger: the assassination of Franz Ferdinand on 28 June 1914. The alliances link them into a general war.',
     'Sort causes by timescale, then explain how they connect: that shows causality.',
     '## Causes of conflict');
@@ -200,15 +200,15 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 
 // 03 Versailles: consequence becomes cause
 {
-  const c = chainV(150, 120, 600, [
+  const c = chainV(40, 120, 600, [
     { title: 'First World War ends', fill: C.panel },
     { title: 'Treaty of Versailles, 28 June 1919', body: 'German army limited to 100,000 men; Article 231 blamed Germany for the war', fill: C.cream, edge: C.olive },
     { title: 'Resentment of the treaty', body: 'helped the Nazis win support', fill: '#fbeee6', edge: C.rust },
     { title: 'Germany invades Poland, 1 September 1939', body: 'the Second World War in Europe begins', fill: C.mustard, edge: C.ink },
   ], { gap: 44, tsize: 20, bsize: 16 });
   let b = c.s;
-  b += tx(790, 270, 'consequence', { size: 17, weight: 700, fill: C.olive }) + tx(790, 292, 'of one war…', { size: 16, fill: C.olive });
-  b += tx(790, 560, '…cause of', { size: 17, weight: 700, fill: C.rust }) + tx(790, 582, 'the next', { size: 16, fill: C.rust });
+  b += tx(670, 270, 'consequence', { size: 17, weight: 700, fill: C.olive }) + tx(670, 292, 'of one war…', { size: 16, fill: C.olive });
+  b += tx(670, 560, '…cause of', { size: 17, weight: 700, fill: C.rust }) + tx(670, 582, 'the next', { size: 16, fill: C.rust });
   fig('03-versailles-chain', 'When a consequence becomes a cause', b, 120 + c.h + 40,
     'A chain: the First World War ends; the Treaty of Versailles of 28 June 1919 limits the German army to 100,000 men and blames Germany in Article 231; resentment helps the Nazis win support; Germany invades Poland on 1 September 1939 and the Second World War in Europe begins.',
     'Versailles was a consequence of one war and a cause of the next.',
@@ -242,13 +242,13 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
   let b = '';
   b += box(30, 120, 840, 100, { title: 'Security Council: 15 members', body: '5 permanent members with a veto (China, France, Russia, UK, US) + 10 elected for two years', fill: C.mustard, edge: C.ink, align: 'middle' });
   b += arrow(450, 224, 450, 258);
-  b += box(30, 262, 260, 210, { title: 'Chapter VI', body: 'peaceful settlement of disputes: negotiation, mediation, arbitration', fill: '#eaf3f1', edge: C.tealDark, align: 'middle', tsize: 22, valign: 'top' });
-  b += box(320, 262, 260, 210, { title: 'Peacekeeping', body: 'not in the Charter; grew up between Chapters VI and VII; needs consent', fill: C.cream, edge: C.olive, align: 'middle', tsize: 22, valign: 'top' });
-  b += box(610, 262, 260, 210, { title: 'Chapter VII', body: 'action against threats to peace: sanctions (Art. 41), military force (Art. 42)', fill: '#fbeee6', edge: C.rust, align: 'middle', tsize: 22, valign: 'top' });
-  b += arrow(60, 500, 840, 500, { w: 4 }) + tx(60, 528, 'persuade', { size: 16, fill: C.tealDark, weight: 700 }) + tx(840, 528, 'enforce', { size: 16, fill: C.rust, weight: 700, anchor: 'end' });
-  b += box(610, 548, 260, 110, { title: 'Peace enforcement', body: 'Korea, June 1950; Kuwait, November 1990', fill: C.panel, edge: C.rust, align: 'middle', tsize: 18, bsize: 15 });
-  b += box(30, 548, 560, 110, { title: 'The veto', body: 'the UN cannot act against a permanent member or its close allies; often blocked action in the Cold War', fill: C.panel, edge: C.panelEdge, tsize: 18, bsize: 15 });
-  fig('05-un-charter-chapters', 'How the UN can respond to conflict', b, 690,
+  b += box(30, 262, 260, 150, { title: 'Chapter VI', body: 'peaceful settlement of disputes: negotiation, mediation, arbitration', fill: '#eaf3f1', edge: C.tealDark, align: 'middle', tsize: 22, valign: 'top' });
+  b += box(320, 262, 260, 150, { title: 'Peacekeeping', body: 'not in the Charter; grew up between Chapters VI and VII; needs consent', fill: C.cream, edge: C.olive, align: 'middle', tsize: 22, valign: 'top' });
+  b += box(610, 262, 260, 150, { title: 'Chapter VII', body: 'action against threats to peace: sanctions (Art. 41), military force (Art. 42)', fill: '#fbeee6', edge: C.rust, align: 'middle', tsize: 22, valign: 'top' });
+  b += arrow(60, 440, 840, 440, { w: 4 }) + tx(60, 468, 'persuade', { size: 16, fill: C.tealDark, weight: 700 }) + tx(840, 468, 'enforce', { size: 16, fill: C.rust, weight: 700, anchor: 'end' });
+  b += box(610, 488, 260, 110, { title: 'Peace enforcement', body: 'Korea, June 1950; Kuwait, November 1990', fill: C.panel, edge: C.rust, align: 'middle', tsize: 18, bsize: 15 });
+  b += box(30, 488, 560, 110, { title: 'The veto', body: 'the UN cannot act against a permanent member or its close allies; often blocked action in the Cold War', fill: C.panel, edge: C.panelEdge, tsize: 18, bsize: 15 });
+  fig('05-un-charter-chapters', 'How the UN can respond to conflict', b, 630,
     'The Security Council, with five veto-holding permanent members and ten elected members, can act under Chapter VI, peaceful settlement, or Chapter VII, sanctions and military force. Peacekeeping sits between them and needs consent. Korea in 1950 and Kuwait in 1990 were peace enforcement under Chapter VII.',
     'From persuasion to enforcement: peacekeeping sits in between, and the veto can block it all.',
     '## From the League of Nations to the United Nations');

@@ -285,10 +285,10 @@ F('01-nervous-system-divisions', 'Divisions of the nervous system', '', [
     const ns = node(450, y, 300, 'Nervous system', '', { fill: C.mustard, edge: C.ink });
     const cns = node(220, y + 110, 340, 'Central nervous system', 'Brain and spinal cord: processes information and makes decisions', { fill: C.tealLight, edge: C.tealDark, minH: 110 });
     const pns = node(670, y + 110, 340, 'Peripheral nervous system', 'All other nerves: carries messages between the CNS and the body', { fill: C.tealLight, edge: C.tealDark, minH: 110 });
-    const so = node(530, y + 290, 230, 'Somatic', 'Senses and voluntary movement (skeletal muscles)', { minH: 112 });
+    const so = node(537, y + 290, 220, 'Somatic', 'Senses and voluntary movement (skeletal muscles)', { minH: 112 });
     const au = node(765, y + 290, 210, 'Autonomic', 'Involuntary: heart rate, breathing, digestion', { minH: 112 });
-    const br = node(130, y + 290, 190, 'Brain', '', { minH: 60 });
-    const sp = node(330, y + 290, 190, 'Spinal cord', '', { minH: 60 });
+    const br = node(120, y + 290, 170, 'Brain', '', { minH: 60 });
+    const sp = node(310, y + 290, 170, 'Spinal cord', '', { minH: 60 });
     const sy = node(765, y + 470, 200, 'Sympathetic', 'Fight or flight', { fill: C.cream, edge: C.olive, minH: 86 });
     const pa = node(545, y + 470, 210, 'Parasympathetic', 'Rest and digest', { fill: C.cream, edge: C.olive, minH: 86 });
     const s = link(ns, cns) + link(ns, pns) + link(pns, so) + link(pns, au) + link(au, sy) + link(au, pa) + link(cns, br) + link(cns, sp) + [ns, cns, pns, so, au, sy, pa, br, sp].map((n) => n.s).join('');
@@ -348,27 +348,27 @@ F('04-synaptic-transmission', 'Synaptic transmission, step by step', 'Schematic,
     let s = '';
     // presynaptic terminal
     s += `<path d="M30,${y + 90} L250,${y + 90} C340,${y + 90} 380,${y + 140} 380,${y + 200} C380,${y + 260} 340,${y + 310} 250,${y + 310} L30,${y + 310}" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="3"/>`;
-    s += arrow(50, y + 200, 170, y + 200, { w: 6, color: C.rust, marker: 'ahR' }) + T(50, y + 180, 'electrical impulse', { size: 16, weight: 700, fill: C.rust });
+    s += arrow(50, y + 260, 160, y + 260, { w: 6, color: C.rust, marker: 'ahR' }) + T(50, y + 230, 'electrical impulse', { size: 16, weight: 700, fill: C.rust });
     // vesicles
-    [[250, 150], [300, 200], [250, 250], [200, 175]].forEach(([vx, vy]) => {
+    [[270, 140], [320, 205], [255, 265], [205, 175]].forEach(([vx, vy]) => {
       s += `<circle cx="${vx}" cy="${y + vy}" r="24" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>`;
       [[-8, -6], [7, -8], [0, 8], [-9, 9], [9, 6]].forEach(([dx, dy]) => { s += `<circle cx="${vx + dx}" cy="${y + vy + dy}" r="3.5" fill="${C.olive}"/>`; });
     });
     // released NT in gap
     [[410, 160], [425, 190], [405, 215], [430, 240], [415, 265], [440, 175]].forEach(([dx, dy]) => { s += `<circle cx="${dx}" cy="${y + dy}" r="4.5" fill="${C.olive}"/>`; });
     // postsynaptic
-    s += `<path d="M480,${y + 70} L480,${y + 330} L870,${y + 330} L870,${y + 70} Z" fill="${C.panel}" stroke="none"/>`;
+    s += `<path d="M480,${y + 70} L480,${y + 330} L870,${y + 330} L870,${y + 70} Z" fill="${C.cream}" fill-opacity="0.5" stroke="none"/>`;
     s += `<path d="M480,${y + 70} L480,${y + 330}" stroke="${C.ink}" stroke-width="3"/>`;
     [140, 200, 260].forEach((ry) => { s += `<path d="M480,${y + ry - 14} l-14,0 l0,6 l8,0 l0,16 l-8,0 l0,6 l14,0 Z" fill="${C.teal}" stroke="${C.tealDark}" stroke-width="2"/>`; });
     s += T(458, y + 60, 'synapse', { size: 16, weight: 700, anchor: 'middle', fill: C.olive });
     s += T(150, y + 340, 'presynaptic neuron (axon terminal)', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
     s += T(680, y + 360, 'postsynaptic neuron', { size: 16, weight: 700, anchor: 'middle', fill: C.ink });
     s += `<line x1="494" y1="${y + 186}" x2="560" y2="${y + 160}" stroke="${C.ink}" stroke-width="1.5"/>` + T(566, y + 164, 'receptors', { size: 16, fill: C.ink });
-    s += `<line x1="226" y1="${y + 150}" x2="160" y2="${y + 120}" stroke="${C.ink}" stroke-width="1.5"/>` + T(70, y + 116, 'vesicles', { size: 16, fill: C.ink });
+    s += `<line x1="185" y1="${y + 162}" x2="140" y2="${y + 130}" stroke="${C.ink}" stroke-width="1.5"/>` + T(60, y + 126, 'vesicles', { size: 16, fill: C.ink });
     // badges
-    s += badge(110, y + 230, 17, '1', C.cream) + badge(300, y + 145, 17, '2', C.cream) + badge(440, y + 300, 17, '3', C.cream);
+    s += badge(190, y + 258, 17, '1', C.cream) + badge(425, y + 118, 17, '2', C.cream) + badge(440, y + 300, 17, '3', C.cream);
     s += para(590, y + 226, '**4** Excitation makes the next neuron **more** likely to fire; inhibition makes it **less** likely.', 260, { size: 16, fill: C.ink }).s;
-    return { s, h: 366 };
+    return { s: `<g transform="translate(0,-40)">${s}</g>`, h: 326 };
   },
   (y) => steps(y, [
     { title: 'An electrical impulse travels down the axon to the axon terminal' },
@@ -431,23 +431,27 @@ F('06-localisation-of-function', 'Localisation of function', 'Schematic side vie
     const b = brain(x0, y, sc, { inner });
     let s = b.s;
     const lob = (a, bb, l) => T(x0 + a * sc, y + bb * sc, l, { size: 18, weight: 700, anchor: 'middle' });
-    s += lob(140, 110, 'Frontal') + lob(365, 85, 'Parietal') + lob(470, 255, 'Occ.') + lob(200, 290, 'Temporal') + T(x0 + 420 * sc, y + 326 * sc, 'Cerebellum', { size: 16, weight: 700, anchor: 'middle' });
+    s += lob(140, 110, 'Frontal') + lob(365, 85, 'Parietal') + lob(200, 290, 'Temporal') + T(x0 + 420 * sc, y + 326 * sc, 'Cerebellum', { size: 16, weight: 700, anchor: 'middle' });
     // labels with leaders on the right / below
     const labs = [
-      [[265, 60], 'Motor area', 'voluntary movement (frontal)', C.tealDark],
-      [[290, 40], 'Somatosensory area', 'touch, temperature, pain (parietal)', C.olive],
-      [[478, 150], 'Visual area', '(occipital)', C.ink],
-      [[270, 222], 'Auditory area', '(temporal)', C.ink],
+      [[290, 40], 'Somatosensory area', 'touch, temperature, pain (parietal lobe)', C.olive],
+      [[265, 60], 'Motor area', 'voluntary movement (frontal lobe)', C.tealDark],
+      [[478, 150], 'Visual area', '(occipital lobe)', C.ink],
       [[345, 215], "Wernicke's area", 'understanding language (temporal, usually left)', C.olive],
-      [[175, 193], "Broca's area", 'speech production (frontal, usually left)', C.olive],
     ];
-    const LX = 600;
+    const LX = 610;
     labs.forEach(([[a, bb], t1, t2, col], i) => {
-      const ly = y + 6 + i * 64, [px, py] = b.pt(a, bb);
+      const ly = y + 6 + i * 84, [px, py] = b.pt(a, bb);
       s += `<path d="M${px},${py} C${(px + LX) / 2 + 40},${py} ${LX - 60},${ly + 14} ${LX - 8},${ly + 14}" fill="none" stroke="${C.ink}" stroke-width="1.6"/><circle cx="${px}" cy="${py}" r="4" fill="${C.ink}"/>`;
-      s += T(LX, ly + 18, t1, { size: 17, weight: 700, fill: col === C.ink ? C.ink : col }) + para(LX, ly + 40, t2, 270, { size: 15, fill: C.muted, lh: 18 }).s;
+      s += T(LX, ly + 18, t1, { size: 17, weight: 700, fill: col }) + para(LX, ly + 40, t2, 260, { size: 15, fill: C.muted, lh: 18 }).s;
     });
-    return { s, h: Math.max(400, 6 * 64) };
+    const bot = [[[175, 193], "Broca's area", 'speech production (frontal, usually left)', 40], [[270, 222], 'Auditory area', '(temporal lobe)', 400]];
+    bot.forEach(([[a, bb], t1, t2, lx]) => {
+      const [px, py] = b.pt(a, bb), ly = y + 400;
+      s += `<path d="M${px},${py} C${px},${ly - 20} ${lx + 40},${ly - 40} ${lx + 40},${ly - 2}" fill="none" stroke="${C.ink}" stroke-width="1.6"/><circle cx="${px}" cy="${py}" r="4" fill="${C.ink}"/>`;
+      s += T(lx, ly + 16, t1, { size: 17, weight: 700, fill: t1.startsWith('Broca') ? C.olive : C.ink }) + T(lx, ly + 38, t2, { size: 15, fill: C.muted });
+    });
+    return { s, h: 444 };
   },
   (y) => note(y, 'Each side controls the opposite side', 'The motor and somatosensory areas in one hemisphere control and receive sensation from the opposite side of the body. The cerebellum co-ordinates balance and movement.', { size: 17 }),
 ],
@@ -464,9 +468,9 @@ F('07-scans-and-tulving', 'Scanning the brain: structure or activity?', '', [
   (y) => {
     let s = T(30, y + 18, "TULVING'S 'GOLD' MEMORY STUDY (1989)", { size: 16, weight: 700, fill: C.tealDark });
     const b = brain(40, y + 40, 0.62, { fills: { frontal: C.mustard, parietal: C.panel, occipital: C.teal, temporal: C.panel }, cerebellum: false });
-    s += b.s + T(40 + 120 * 0.62, y + 40 + 120 * 0.62, 'episodic', { size: 16, weight: 700, anchor: 'middle' }) + T(40 + 450 * 0.62, y + 40 + 140 * 0.62, 'semantic', { size: 16, weight: 700, anchor: 'middle' });
+    s += b.s + chips(y + 262, ['episodic: front', 'semantic: back'], { x: 40, w: 330, size: 15, weight: 700, fill: C.mustard }).s.replace(/fill="#d4b02e"([^>]*>[^<]*<text[^>]*>semantic)/, 'fill="#b5d3cf"$1');
     const c = card(380, y + 30, 490, { body: ['**Episodic** memories (personal experiences): more blood flow in the **frontal** cortex.', '**Semantic** memories (facts): more in the **back** of the cortex.', 'Different types of long-term memory are localised in different areas.'], size: 16, bfill: C.ink, gap: 8, pad: 16 });
-    return { s: s + c.s, h: Math.max(30 + c.h, 40 + 330 * 0.62) };
+    return { s: s + c.s, h: Math.max(30 + c.h, 300) };
   },
   (y) => note(y, 'Evaluation', 'Biological evidence that episodic and semantic memory differ. But the sample was tiny and included Tulving, who knew what was being tested; results were not consistent for every participant.', { size: 16 }),
 ],

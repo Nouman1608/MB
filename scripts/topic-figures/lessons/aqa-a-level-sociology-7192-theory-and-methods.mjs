@@ -205,7 +205,6 @@ function cardRow(y, cards, o = {}) {
     s += `<rect x="${x}" y="${yy}" width="${cw}" height="${rh}" rx="12" fill="${C.panel}" stroke="${C.ink}" stroke-width="2.5"/>`;
     const gap = list.length === 3 ? 62 : 70;
     let ty = yy + (rh - (list.length - 1) * gap - 40) / 2 + 18;
-    if (k === 1) ty = yy + 26;
     list.forEach(([m, d]) => { s += t(x + 18, ty, m, { size: 18, weight: 700 }) + para(x + 18, ty + 23, cw - 36, d, { size: 15, fill: C.muted }).svg; ty += gap; });
   });
   // strip for methods listed only as primary

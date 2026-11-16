@@ -35,21 +35,21 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
 // 02 Four key concepts
 {
   const k = [
-    ['Communication', 'exchange of information', ['the product communicates: a kettle light,', 'a loading bar, airport pictograms', 'the designer communicates: folder,', 'sketches, specification, client'], 'Ask: what must it tell the user, when, through which sense?'],
+    ['Communication', 'exchange of information', ['the product communicates: a kettle light,', 'a loading bar, airport pictograms', 'the designer communicates: folder,', 'sketches, specification, client'], 'Ask: what must it tell, when, by which sense?'],
     ['Communities', 'groups sharing a place, need, interest or identity', ['a park seating area for older visitors,', 'parents with pushchairs and teenagers', 'a school app for students, staff, parents'], 'Ask: who is included and who is left out?'],
     ['Development', 'growth, progress or change over time', ['of a product over generations:', 'calls-only phone → pocket computer', 'of your own solution: sketch → model', '→ prototype, tested each round'], 'Show what changed and why.'],
     ['Systems', 'parts working together for a function', ['input → process → output,', 'often with feedback', 'websites and bike-sharing schemes'], 'One failed part can stop the whole thing.'],
   ];
   let b = '';
   k.forEach(([h, d, lines, ask], i) => {
-    const x = 30 + (i % 2) * 425, y = 110 + Math.floor(i / 2) * 290, w = 415;
-    b += panel(x, y, w, 274) + `<rect x="${x}" y="${y}" width="${w}" height="70" rx="14" fill="${i % 2 ? C.cream : C.tealLight}"/>` + `<rect x="${x}" y="${y + 50}" width="${w}" height="20" fill="${i % 2 ? C.cream : C.tealLight}"/>` + `<rect x="${x}" y="${y}" width="${w}" height="274" rx="14" fill="none" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
+    const x = 30 + (i % 2) * 425, y = 110 + Math.floor(i / 2) * 250, w = 415;
+    b += panel(x, y, w, 234) + `<rect x="${x}" y="${y}" width="${w}" height="70" rx="14" fill="${i % 2 ? C.cream : C.tealLight}"/>` + `<rect x="${x}" y="${y + 50}" width="${w}" height="20" fill="${i % 2 ? C.cream : C.tealLight}"/>` + `<rect x="${x}" y="${y}" width="${w}" height="234" rx="14" fill="none" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
     b += t(x + 22, y + 34, h, { size: 21, weight: 700 }) + t(x + 22, y + 58, d, { size: 15, fill: C.ink });
     b += tl(x + 22, y + 100, lines, { size: 16 }, 23);
-    b += t(x + 22, y + 252, ask, { size: 15, weight: 700, fill: C.tealDark });
+    b += t(x + 22, y + 214, ask, { size: 15, weight: 700, fill: C.tealDark });
   });
   add('02-four-key-concepts',
-    svg(900, 700, 'The four key concepts in design', b),
+    svg(900, 625, 'The four key concepts in design', b),
     'Four cards. Communication: the product communicates with its user and the designer communicates through the folder. Communities: design for groups and ask who is left out. Development: a product changes over generations, and your own solution develops from sketch to prototype. Systems: parts work together as input, process and output, often with feedback.',
     'Each key concept prompts a different question about a design.',
     '## The four key concepts');
@@ -94,16 +94,16 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
     b += `<line x1="${X(u)}" y1="${top - 20}" x2="${X(u)}" y2="${base}" stroke="${c}" stroke-width="3" stroke-dasharray="8 6"/>` + t(X(u), top - 30, l, { size: 17, weight: 700, anchor: 'middle', fill: c });
   });
   b += t(450, 330, 'middle 90% of users', { size: 19, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += t(450, 440, 'body measurement (e.g. hand breadth, reach)  →', { size: 16, anchor: 'middle', fill: C.muted });
-  b += t(X(u5) - 30, 380, '5% at or below', { size: 15, anchor: 'end', fill: C.muted }) + t(X(u95) + 30, 380, '5% above', { size: 15, fill: C.muted });
+  b += t(450, 455, 'body measurement (e.g. hand breadth, reach)  →', { size: 16, anchor: 'middle', fill: C.muted });
+  b += t(X(u5) - 10, 424, '← 5% at or below', { size: 15, anchor: 'end', fill: C.muted }) + t(X(u95) + 10, 424, '5% above →', { size: 15, fill: C.muted });
   const cards = [['Reach', 'shelf, switch', 'design for the SMALL user: 5th', C.olive, '#fbf6e0'], ['Clearance', 'doorway, handle opening', 'design for the LARGE user: 95th', C.rust, '#fbeee6'], ['Adjustable', 'office chair', 'cover the full 5th–95th range', C.tealDark, '#eaf3f1']];
   cards.forEach(([h, e, r, c, f], i) => {
     const x = 30 + i * 285;
     b += panel(x, 490, 270, 130, f, c) + t(x + 20, 526, h, { size: 20, weight: 700, fill: c }) + t(x + 20, 552, e, { size: 15, fill: C.muted }) + tl(x + 20, 584, wrap(r, 26), { size: 16, weight: 600 }, 21);
   });
-  b += lowTop(30, 640, 840, 80, 'low', 'Designing for the 50th percentile fits almost no one well', []);
+  b += lowTop(30, 640, 840, 62, 'low', 'Designing for the 50th percentile fits almost no one well', []);
   add('04-percentiles-reach-clearance',
-    svg(900, 745, 'Anthropometric data: which percentile?', b),
+    svg(900, 725, 'Anthropometric data: which percentile?', b),
     'A bell-shaped distribution of a body measurement with the 5th and 95th percentiles marked and the middle 90% of users shaded. Reach problems such as a shelf use the 5th percentile, clearance problems such as a doorway use the 95th, and adjustable products cover the full range. Designing for the 50th percentile fits almost no one well.',
     'Reach: design for the small user. Clearance: design for the large user.',
     '## The four related concepts');
@@ -117,9 +117,9 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   b += `<line x1="60" y1="${fl}" x2="520" y2="${fl}" stroke="${C.ink}" stroke-width="3"/>`;
   b += box(150, 300, 200, 22, C.rock, C.ink, 2.5, 4) + box(176, 322, 18, fl - 322, C.rockDark, C.ink, 2, 2) + box(306, 322, 18, fl - 322, C.rockDark, C.ink, 2, 2);
   b += box(150, 230, 200, 22, C.rock, C.ink, 2, 4).replace('fill="' + C.rock + '"', 'fill="none" stroke-dasharray="8 6"');
-  b += path(`M400,${fl} L400,324`, { w: 2.5, stroke: C.olive, extra: 'marker-end="url(#ahO)" marker-start="url(#ahO)"' }) + t(412, 420, '405 mm', { size: 18, weight: 700, fill: C.olive }) + t(412, 444, 'lowest', { size: 15, fill: C.muted });
-  b += path(`M470,${fl} L470,254`, { w: 2.5, stroke: C.rust, extra: 'marker-end="url(#ahR)" marker-start="url(#ahR)"' }) + t(470, 244, '485 mm highest', { size: 17, weight: 700, fill: C.rust, anchor: 'middle' });
-  b += path('M250,252 L250,298', { w: 2.5, extra: 'marker-end="url(#ah)" marker-start="url(#ah)"' }) + t(262, 282, '80 mm travel', { size: 16, weight: 700 });
+  b += path(`M380,${fl} L380,302`, { w: 2.5, stroke: C.olive, extra: 'marker-end="url(#ahO)" marker-start="url(#ahO)"' }) + t(392, 420, '405 mm', { size: 18, weight: 700, fill: C.olive }) + t(392, 444, 'lowest', { size: 15, fill: C.muted });
+  b += path(`M490,${fl} L490,232`, { w: 2.5, stroke: C.rust, extra: 'marker-end="url(#ahR)" marker-start="url(#ahR)"' }) + t(490, 220, '485 mm', { size: 18, weight: 700, fill: C.rust, anchor: 'middle' }) + t(480, 300, 'highest', { size: 15, fill: C.muted, anchor: 'end' });
+  b += path('M125,232 L125,298', { w: 2.5, extra: 'marker-end="url(#ah)" marker-start="url(#ah)"' }) + t(112, 262, '80 mm', { size: 16, weight: 700, anchor: 'end' }) + t(112, 282, 'travel', { size: 15, anchor: 'end', fill: C.muted });
   b += t(55, 146, 'Adjustable stool (students 14–16)', { size: 19, weight: 700 });
   b += t(55, 556, 'drawing not to scale', { size: 15, fill: C.muted, italic: true });
   b += panel(570, 110, 300, 470, '#eaf3f1', C.tealDark) + t(590, 146, 'Popliteal height', { size: 18, weight: 700, fill: C.tealDark }) +
@@ -162,10 +162,10 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   const parts = [['Key concept', 'systems', C.mustard], ['Related concepts', 'ergonomics, sustainability', C.cream], ['Global context', 'globalization and sustainability', C.teal]];
   let b = t(450, 132, 'Unit: redesigning a school’s lunch-queue system', { size: 17, anchor: 'middle', fill: C.muted, weight: 600 });
   parts.forEach(([h, v, f], i) => {
-    const x = 30 + i * 285;
-    b += box(x, 150, 270, 96, f, C.ink, 2.5, 12) + t(x + 135, 186, h, { size: 16, weight: 700, anchor: 'middle' }) + tl(x + 135, 214, wrap(v, 22), { size: 17, anchor: 'middle' }, 21);
-    if (i < 2) b += t(x + 277, 205, '+', { size: 24, weight: 700, anchor: 'middle', fill: C.muted });
-    b += arrow(x + 135, 250, 450 + (i - 1) * 60, 290, { w: 2.5 });
+    const x = 30 + i * 290;
+    b += box(x, 150, 260, 96, f, C.ink, 2.5, 12) + t(x + 130, 186, h, { size: 16, weight: 700, anchor: 'middle' }) + tl(x + 130, 214, wrap(v, 22), { size: 17, anchor: 'middle' }, 21);
+    if (i < 2) b += t(x + 275, 206, '+', { size: 22, weight: 700, anchor: 'middle', fill: C.muted });
+    b += arrow(x + 130, 250, 450 + (i - 1) * 60, 290, { w: 2.5 });
   });
   b += lowTop(30, 300, 840, 92, 'low', 'Weak', ['“We will design a better lunch queue.”  No concept; not transferable.']);
   b += panel(30, 410, 840, 190, '#eaf3f1', C.tealDark) + t(52, 446, '✓ Stronger', { size: 19, weight: 700, fill: C.tealDark });
