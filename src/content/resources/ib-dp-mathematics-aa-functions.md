@@ -47,8 +47,8 @@ sequence their own revision.
 **IB DP MATHEMATICS: ANALYSIS AND APPROACHES -- FUNCTIONS**
 
 - **The concept of a function** -- domain, range, and function
-notation $f(x)$, including composite functions $f \circ g(x)$ and the
-conditions needed for an inverse function $f^{-1}(x)$ to exist
+notation f(x), including composite functions f ∘ g(x) and the
+conditions needed for an inverse function f⁻¹(x) to exist
 - **Graphing and transforming functions** -- translations, stretches
 and reflections applied to a base graph, and reading key features
 (intercepts, turning points, asymptotes) directly from a graph or its
@@ -62,14 +62,14 @@ recognisable graph shape and characteristic transformations
 
 ## Transformations at a glance
 
-| Transformation | Effect on $y = f(x)$ |
+| Transformation | Effect on y = f(x) |
 |---|---|
-| $y = f(x) + k$ | Vertical translation by $k$ |
-| $y = f(x - a)$ | Horizontal translation by $a$ |
-| $y = k f(x)$ | Vertical stretch, scale factor $k$ |
-| $y = f(kx)$ | Horizontal stretch, scale factor $1/k$ |
-| $y = -f(x)$ | Reflection in the $x$-axis |
-| $y = f(-x)$ | Reflection in the $y$-axis |
+| y = f(x) + k | Vertical translation by k |
+| y = f(x − a) | Horizontal translation by a |
+| y = k f(x) | Vertical stretch, scale factor k |
+| y = f(kx) | Horizontal stretch, scale factor 1/k |
+| y = −f(x) | Reflection in the x-axis |
+| y = f(−x) | Reflection in the y-axis |
 
 Apply transformations to the **key features** of the base graph
 (intercepts, turning points, asymptotes) directly, rather than
@@ -95,15 +95,15 @@ transformations.
 
 ## Worked example: composite and inverse functions
 
-Given $f(x) = 2x + 3$ and $g(x) = x^2$, find $f \circ g(x)$ and
-explain why $f^{-1}(x)$ exists but a general inverse of $g(x)$ over all
-real $x$ does not. Substituting $g(x)$ into $f$ gives
-$f(g(x)) = f(x^2) = 2x^2 + 3$. $f$ has an inverse because it is a
+Given f(x) = 2x + 3 and g(x) = x², find f ∘ g(x) and
+explain why f⁻¹(x) exists but a general inverse of g(x) over all
+real x does not. Substituting g(x) into f gives
+f(g(x)) = f(x²) = 2x² + 3. f has an inverse because it is a
 strictly increasing linear function -- one-to-one over its whole
 domain -- so each output corresponds to exactly one input, which is
-the condition an inverse function requires. $g(x) = x^2$ does not, in
+the condition an inverse function requires. g(x) = x² does not, in
 general, have an inverse over all real numbers, because it is not
-one-to-one: both $x = 2$ and $x = -2$ give $g(x) = 4$, so no single
+one-to-one: both x = 2 and x = −2 give g(x) = 4, so no single
 inverse function can recover the original input without restricting
 the domain first. This one-to-one reasoning -- not just mechanically
 "swapping x and y" -- is what Analysis and Approaches mark schemes
@@ -128,10 +128,10 @@ reward when a question asks *why* an inverse does or does not exist.
 ## Logarithmic and exponential pairs
 
 Exponential and logarithmic functions are inverses of each other, and
-this strand expects fluent movement between the two forms: $y = a^x$
-rewritten as $x = \log_a y$, and the graph of a logarithmic function
+this strand expects fluent movement between the two forms: y = aˣ
+rewritten as x = logₐ y, and the graph of a logarithmic function
 recognised as the reflection of the corresponding exponential graph in
-the line $y = x$ -- the general graphical signature of any function and
+the line y = x -- the general graphical signature of any function and
 its inverse. Questions combining exponential growth/decay models with
 logarithms to solve for an unknown exponent are common, and rely on
 this inverse relationship rather than a separate memorised technique.
@@ -148,7 +148,7 @@ Confirm a function is one-to-one before finding its inverse, rather
 than swapping variables by default -- examiners specifically reward
 this justification, not just the mechanical swap. Practise sketching
 each transformation from the table above onto a simple base graph such
-as $y = x^2$, applying it to key features rather than replotting from
+as y = x², applying it to key features rather than replotting from
 scratch. Convert confidently between exponential and logarithmic forms
 of the same relationship, since this fluency underpins a recurring
 question type. Cross-check an algebraic solution to an equation
@@ -162,10 +162,10 @@ isolation.
 
 ## Exam traps
 
-Swapping $x$ and $y$ mechanically to find an inverse without first
+Swapping x and y mechanically to find an inverse without first
 checking the function is one-to-one over the domain given. Applying a
-horizontal transformation ($f(x-a)$ or $f(kx)$) in the wrong direction
-relative to the sign given -- $f(x - a)$ shifts right, not left, a
+horizontal transformation (f(x−a) or f(kx)) in the wrong direction
+relative to the sign given -- f(x − a) shifts right, not left, a
 common source of sign errors. Reading off asymptotes from a
 transformed graph without checking how the transformation moved them.
 Treating a graphical solution (technology) and an algebraic solution as

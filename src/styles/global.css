@@ -126,6 +126,16 @@
     font-size: 0.95em;
     line-height: 1.65;
   }
+  /* D-476 -- hanging indent: when a long line of working wraps on a phone,
+     its continuation is indented under it instead of starting at the left
+     edge, where it read as a new step. Each source line is one Shiki .line;
+     the first visual line keeps its position, so code indentation is kept. */
+  .resource-content pre.astro-code .line {
+    display: inline-block;
+    width: 100%;
+    padding-inline-start: 1.25em;
+    text-indent: -1.25em;
+  }
   img { max-width: 100%; height: auto; }
 }
 
