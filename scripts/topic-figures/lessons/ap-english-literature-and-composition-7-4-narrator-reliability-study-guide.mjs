@@ -214,18 +214,18 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   const vp = [
     ['First-person narrator', 'knows', 'their own mind', 'cannot know', "others' minds"],
     ['A witness', 'knows', 'the scene', 'may not know', 'its causes'],
-    ['Telling it decades later', 'has', 'hindsight', 'may have', 'forgotten or reshaped what happened'],
+    ['Telling it decades later', 'tells', 'from a distance in time', 'may have', 'forgotten or reshaped what happened'],
   ];
   vp.forEach(([ti, k1, v1, k2, v2], i) => {
-    const x = 30 + i * 288, y = 110, w = 264, h = 300;
+    const x = 30 + i * 288, y = 110, w = 264, h = 320;
     b += panel(x, y, w, h, i === 0 ? C.panel : C.panel) + ic[i](x + w / 2, y + 64);
     b += para(x + w / 2, y + 130, ti, w - 30, { size: 19, weight: 700, anchor: 'middle' }).s;
     b += `<rect x="${x + 16}" y="${y + 160}" width="${w - 32}" height="58" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>`;
     b += T(x + 30, y + 182, k1.toUpperCase(), { size: 14.5, weight: 700, fill: C.tealDark }) + T(x + 30, y + 205, v1, { size: 16, weight: 600 });
-    b += `<rect x="${x + 16}" y="${y + 226}" width="${w - 32}" height="62" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="6 5"/>`;
+    b += `<rect x="${x + 16}" y="${y + 226}" width="${w - 32}" height="80" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="6 5"/>`;
     b += T(x + 30, y + 248, k2.toUpperCase(), { size: 14.5, weight: 700, fill: C.rust }) + para(x + 30, y + 270, v2, w - 60, { size: 16, weight: 600 }).s;
   });
-  const y = 440;
+  const y = 460;
   const r = row(y, [
     { kicker: 'SOME NARRATORS', body: 'provide details and information that others do not or cannot provide', size: 17 },
     { kicker: 'MULTIPLE NARRATORS', body: 'may provide contradictory information', size: 17, fill: C.cream, edge: C.olive, kfill: C.olive },
@@ -288,6 +288,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     ["Father's mood", '"a black temper"', '"as merry as he ever is"'],
     ['About the other', '(nothing)', '"Lena has a way of hearing things when she is angry at him"'],
   ], { size: 16, italicCols: [1, 2] });
+  b += tb.s;
   let y = 384 + tb.h + 20;
   const c = card(30, y, 840, { kicker: 'WHAT THE READER DOES', body: 'Weighs testimony: what each could see, what each wants, and what each says about the other. The contradiction may reveal family tensions or keep the event unknowable.', size: 17, bfill: C.ink, fill: C.cream, edge: C.olive, kfill: C.olive });
   b += c.s;
@@ -315,8 +316,8 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     b += `<rect x="30" y="${y}" width="840" height="${h}" rx="14" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
     b += badge(70, y + h / 2, 22, String(i + 1), i === 4 ? C.mustard : C.cream);
     b += T(110, y + 36, k, { size: 20, weight: 700 }) + T(110, y + 62, q, { size: 16, fill: C.muted });
-    b += `<line x1="470" y1="${y + 16}" x2="470" y2="${y + h - 16}" stroke="${C.panelEdge}" stroke-width="2"/>`;
-    b += para(490, y + h / 2 + 6 - (wrap(ex, 360, 16, 400, true).length - 1) * 10, ex, 360, { size: 16, italic: true }).s;
+    b += `<line x1="530" y1="${y + 16}" x2="530" y2="${y + h - 16}" stroke="${C.panelEdge}" stroke-width="2"/>`;
+    b += para(550, y + h / 2 + 6 - (wrap(ex, 300, 16, 400, true).length - 1) * 10, ex, 300, { size: 16, italic: true }).s;
     y += h + 10;
   });
   y += 14;

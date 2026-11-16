@@ -198,25 +198,26 @@ fig('02-scope-sets-the-standard', 'The scope of the claim sets the standard', 'T
   let s = '';
   const st = [
     ['“Some pupils find the timetable stressful.”', 'a few clear cases'],
-    ['“Most pupils find the timetable stressful.”', 'a representative sample showing a majority'],
-    ['“The timetable causes stress.”', 'evidence of cause, not just co-occurrence'],
-    ['“The timetable is the worst in the country.”', 'a comparison with others'],
-    ['“All pupils find the timetable stressful.”', 'almost impossible: one contrary case breaks it'],
+    ['“Most pupils find the timetable stressful.”', 'a representative sample or survey showing a majority'],
+    ['“All pupils find the timetable stressful.”', 'almost impossible: a single contrary case would break it'],
   ];
-  const H = 72;
+  const H = 80;
   st.forEach(([c, d], i) => {
-    const x = 30 + i * 50, y = y0 + (st.length - 1 - i) * (H + 10);
-    const w = 600;
-    const fill = [C.tealLight, C.tealLight, C.cream, C.cream, '#f6e3d8'][i];
-    s += box(x, y, w, { body: `**${c}**\n${d}`, size: 16, fill, edge: i === 4 ? C.rust : C.ink, h: H, vc: true, pad: 14 }).s;
+    const x = 30 + i * 60, y = y0 + (st.length - 1 - i) * (H + 12);
+    s += box(x, y, 470, { body: `**${c}**\n${d}`, size: 16, fill: [C.tealLight, C.cream, '#f6e3d8'][i], edge: i === 2 ? C.rust : C.ink, h: H, vc: true, pad: 14 }).s;
   });
-  const top = y0, bot = y0 + st.length * (H + 10) - 10;
-  s += arrow(860, bot, 860, top + 4, { w: 4 });
-  s += `<text x="845" y="${(top + bot) / 2}" font-size="16" font-weight="700" fill="${C.muted}" text-anchor="middle" transform="rotate(-90 845 ${(top + bot) / 2})">evidence demanded</text>`;
-  const y = bot + 26;
+  const top = y0, bot = y0 + st.length * (H + 12) - 12;
+  s += arrow(30 + 2 * 60 + 490, bot, 30 + 2 * 60 + 490, top + 4, { w: 4 });
+  s += `<text x="${30 + 2 * 60 + 510}" y="${(top + bot) / 2}" font-size="16" font-weight="700" fill="${C.muted}" text-anchor="middle" transform="rotate(90 ${30 + 2 * 60 + 510} ${(top + bot) / 2})">more evidence demanded</text>`;
+    const side = stack(680, y0, 190, 12, [
+    { head: '“...causes stress”', body: 'evidence of cause, not only that the two occur together', size: 15, headSize: 17, pad: 12 },
+    { head: '“...the worst in the country”', body: 'a comparison with others, not just local complaints', size: 15, headSize: 17, pad: 12 },
+  ]);
+  s += side.s;
+  const y = Math.max(bot, y0 + side.h) + 26;
   s += box(30, y, 840, { head: 'Narrow the claim to fit the evidence', body: '“Most pupils in Years 10 and 11 report that the timetable leaves too little time to eat” is easier to defend than “The timetable is unbearable.”', size: 16, fill: C.panel, edge: C.tealDark, headColor: C.tealDark }).s;
   return { s, h: y + 110 - y0 };
-}, 'A staircase of claims about the timetable, rising in what they demand: “some pupils” needs a few cases; “most pupils” needs a representative sample; “causes” needs evidence of cause; “worst in the country” needs a comparison; “all pupils” is almost impossible to support. Below, a narrowed claim is easier to defend.',
+}, 'A staircase of claims about the timetable: “some pupils” needs a few cases, “most pupils” a representative sample, and “all pupils” is almost impossible to support. Side cards show that “causes” needs evidence of cause and “the worst in the country” needs a comparison. Below, a narrowed claim is easier to defend.',
 'Narrow the claim to what the evidence can support.', '## The scope of the claim sets the standard');
 
 // 03 Seven shortfalls
@@ -255,11 +256,11 @@ fig('04-audience-sets-the-bar', 'The audience sets the bar too', '', (y0) => {
   ];
   let y = y0;
   a.forEach(([h, b, n, f]) => {
-    s += box(30, y, 330, { head: h, body: b, size: 16, fill: f, h: 74, vc: true, pad: 14 }).s;
-    for (let i = 0; i < 4; i++) s += rect(390 + i * 60, y + 17, 48, 40, i < n ? C.tealDark : C.panel, C.tealDark, 8, 2);
-    y += 86;
+    s += box(30, y, 330, { head: h, body: b, size: 16, fill: f, h: 84, vc: true, pad: 14 }).s;
+    for (let i = 0; i < 4; i++) s += rect(390 + i * 60, y + 22, 48, 40, i < n ? C.tealDark : C.panel, C.tealDark, 8, 2);
+    y += 96;
   });
-  s += arrow(390, y + 6, 630, y + 6, { w: 3 }) + T(510, y + 32, 'more evidence demanded', { size: 15, anchor: 'middle', fill: C.muted, weight: 700 });
+  s += arrow(390, y + 6, 630, y + 6, { w: 3 }) + T(510, y + 32, 'more demanding', { size: 15, anchor: 'middle', fill: C.muted, weight: 700 });
   s += box(660, y0, 210, { head: 'Sensing resistance?', body: 'Add several types (a statistic, an example, an authority) so readers with different standards each find something persuasive.', size: 16, fill: C.cream, edge: C.olive, h: y - y0 - 12, vc: true }).s;
   return { s, h: y + 40 - y0 };
 }, 'Four audiences ranked by how much evidence they need: one already inclined to agree needs less, a general audience a clear example and trusted statistic, a specialist audience rigorous sources, and a sceptical or hostile audience more and more varied evidence. A side note recommends several types of evidence when resistance is likely.',

@@ -83,7 +83,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   // buildings
   b += box(330, 122, 170, 84, C.tealLight, C.tealDark, 2.5, 8) + u(415, 160, 'لائبریری', { size: 24, anchor: 'middle' }) + t(415, 194, 'library', { size: 15, anchor: 'middle', fill: C.muted });
   b += box(330, 262, 170, 84, C.cream, C.olive, 2.5, 8) + u(415, 300, 'مسجد', { size: 24, anchor: 'middle' }) + t(415, 334, 'mosque', { size: 15, anchor: 'middle', fill: C.muted });
-  b += path('M500,164 C560,164 560,304 500,304', { w: 2.5, stroke: C.muted, extra: 'stroke-dasharray="6 5"' }) + t(566, 240, 'opposite', { size: 15, fill: C.muted, italic: true });
+  b += path('M330,164 C270,164 270,304 330,304', { w: 2.5, stroke: C.muted, extra: 'stroke-dasharray="6 5"' }) + t(268, 240, 'opposite', { size: 15, fill: C.muted, italic: true, anchor: 'end' });
   // route
   b += path('M722,440 V234 H520', { stroke: C.tealDark, w: 5, extra: 'stroke-dasharray="12 8" marker-end="url(#ahT)"' });
   b += `<circle cx="722" cy="440" r="11" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + t(752, 446, 'you start here', { size: 15, weight: 600 });
@@ -99,7 +99,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
     b += box(30, y, 840, 68, i === 2 ? C.cream : C.panel, i === 2 ? C.olive : C.panelEdge, 2.5, 12) + badge(62, y + 34, 17, n, C.cream) +
       t(92, y + 40, en, { size: 17 }) + u(846, y + 44, ur, { size: 24 });
   });
-  b += t(450, 816, 'Polite imperatives for a stranger; gali is feminine, so the second street takes the feminine ordinal', { size: 15, anchor: 'middle', fill: C.muted });
+  b += t(450, 816, 'Use polite imperatives for a stranger; street is feminine, so "second" takes the feminine form', { size: 15, anchor: 'middle', fill: C.muted });
   add('03-directions-plan',
     svg(900, 840, 'Following the directions', b),
     'A street plan of the worked example: go straight on (سیدھے جائیے), turn left into the second street (بائیں طرف دوسری گلی میں مڑ جائیے), and the library is opposite the mosque (لائبریری مسجد کے سامنے ہے), about ten minutes’ walk from here.',

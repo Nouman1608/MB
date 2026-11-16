@@ -268,8 +268,8 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
   let s = '';
   const tiers = [['Higher social classes', C.mustard], ['Lower social classes', C.tealLight]];
   tiers.forEach(([t2, f], i) => { const w = 400 + i * 160, x = 300 - w / 2 + 30; s += box(x, 130 + i * 120, w, 84, { fill: f }) + label(x + w / 2, 179 + i * 120, t2, { size: 20, weight: 700, anchor: 'middle' }); });
-  s += arrow(600, 140, 600, 330, { w: 8, color: C.tealDark, marker: 'ahT' });
-  s += para(630, 190, 240, '**Stratified diffusion:** changes spread downward from higher to lower classes over time', { size: 17, fill: C.tealDark }).svg;
+  s += arrow(650, 140, 650, 330, { w: 8, color: C.tealDark, marker: 'ahT' });
+  s += para(676, 190, 200, '**Stratified diffusion:** changes spread downward from higher to lower classes over time', { size: 17, fill: C.tealDark }).svg;
   s += label(450, 410, 'Young and Willmott: what spreads down?', { size: 20, weight: 700, anchor: 'middle' });
   s += box(30, 430, 380, 110, { fill: C.panel, edge: C.panelEdge }) + label(220, 468, 'Segregated roles', { size: 20, weight: 700, anchor: 'middle' }) + label(220, 498, 'clearly divided', { size: 17, anchor: 'middle', fill: C.muted });
   s += arrow(418, 485, 482, 485, { w: 5 });

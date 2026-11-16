@@ -187,12 +187,12 @@ function cardRow(y, cards, o = {}) {
 // 01 Methods and sources: primary/secondary x quantitative/qualitative
 {
   let s = '';
-  const x0 = 180, cw = 336, g = 18, y0 = 152, RH = [236, 150], RY = [y0 + 6, y0 + 6 + 236 + 18];
+  const x0 = 180, cw = 336, g = 18, y0 = 152, RH = [206, 150], RY = [y0 + 6, y0 + 6 + 206 + 80];
   s += `<rect x="${x0}" y="108" width="${cw}" height="38" rx="10" fill="${C.teal}"/>` + t(x0 + cw / 2, 134, 'Quantitative', { size: 19, weight: 700, anchor: 'middle' });
   s += `<rect x="${x0 + cw + g}" y="108" width="${cw}" height="38" rx="10" fill="${C.cream}"/>` + t(x0 + cw + g + cw / 2, 134, 'Qualitative', { size: 19, weight: 700, anchor: 'middle' });
-  [['Primary', 'collected by the researcher'], ['Secondary', 'already exists']].forEach(([l, d], j) => {
+  [['Primary', ''], ['Secondary', '']].forEach(([l, d], j) => {
     const yy = RY[j], rh = RH[j];
-    s += `<rect x="30" y="${yy}" width="140" height="${rh}" rx="10" fill="${C.tealLight}"/>` + t(100, yy + rh / 2 - 4, l, { size: 19, weight: 700, anchor: 'middle' }) + para(100, yy + rh / 2 + 20, 120, d, { size: 15, anchor: 'middle', fill: C.muted }).svg;
+    s += `<rect x="30" y="${yy}" width="140" height="${rh}" rx="10" fill="${C.tealLight}"/>` + t(100, yy + rh / 2 + 7, l, { size: 19, weight: 700, anchor: 'middle' });
   });
   const cells = [
     [['Questionnaires', 'large samples, reliable; low validity'], ['Structured interviews', 'standardised; interviewer bias'], ['Laboratory experiments', 'control, cause and effect; artificial']],
@@ -208,9 +208,9 @@ function cardRow(y, cards, o = {}) {
     if (k === 1) ty = yy + 26;
     list.forEach(([m, d]) => { s += t(x + 18, ty, m, { size: 18, weight: 700 }) + para(x + 18, ty + 23, cw - 36, d, { size: 15, fill: C.muted }).svg; ty += gap; });
   });
-  // straddling pill for methods recorded only as primary
-  const py = RY[0] + RH[0] - 66;
-  s += `<rect x="${x0 + cw + g + 14}" y="${py}" width="${cw - 28}" height="52" rx="26" fill="${C.sand}" stroke="${C.olive}" stroke-width="2" stroke-dasharray="7 5"/>` + para(x0 + cw + g + cw / 2, py + 22, cw - 50, 'Also primary: non-participant observation, field experiments', { size: 15, anchor: 'middle', weight: 600 }).svg;
+  // strip for methods listed only as primary
+  const py = RY[0] + RH[0] + 14;
+  s += `<rect x="${x0}" y="${py}" width="${2 * cw + g}" height="48" rx="24" fill="${C.sand}" stroke="${C.olive}" stroke-width="2" stroke-dasharray="7 5"/>` + t(x0 + cw + g / 2, py + 31, 'Also primary: non-participant observation, field experiments', { size: 17, anchor: 'middle', weight: 600 });
   let y = RY[1] + RH[1] + 22;
   const n = note(y, 'Scott (1990): four criteria for documents', 'Authenticity, credibility, representativeness and meaning.');
   s += n.svg; y += n.h;

@@ -285,11 +285,13 @@ F('01-nervous-system-divisions', 'Divisions of the nervous system', '', [
     const ns = node(450, y, 300, 'Nervous system', '', { fill: C.mustard, edge: C.ink });
     const cns = node(220, y + 110, 340, 'Central nervous system', 'Brain and spinal cord: processes information and makes decisions', { fill: C.tealLight, edge: C.tealDark, minH: 110 });
     const pns = node(670, y + 110, 340, 'Peripheral nervous system', 'All other nerves: carries messages between the CNS and the body', { fill: C.tealLight, edge: C.tealDark, minH: 110 });
-    const so = node(555, y + 290, 240, 'Somatic', 'Senses and voluntary movement (skeletal muscles)', { minH: 112 });
-    const au = node(790, y + 290, 160, 'Autonomic', 'Involuntary: heart rate, breathing, digestion', { minH: 112 });
-    const sy = node(690, y + 470, 200, 'Sympathetic', 'Fight or flight', { fill: C.cream, edge: C.olive, minH: 86 });
-    const pa = node(470, y + 470, 210, 'Parasympathetic', 'Rest and digest', { fill: C.cream, edge: C.olive, minH: 86 });
-    const s = link(ns, cns) + link(ns, pns) + link(pns, so) + link(pns, au) + link(au, sy) + link(au, pa) + [ns, cns, pns, so, au, sy, pa].map((n) => n.s).join('');
+    const so = node(530, y + 290, 230, 'Somatic', 'Senses and voluntary movement (skeletal muscles)', { minH: 112 });
+    const au = node(765, y + 290, 210, 'Autonomic', 'Involuntary: heart rate, breathing, digestion', { minH: 112 });
+    const br = node(130, y + 290, 190, 'Brain', '', { minH: 60 });
+    const sp = node(330, y + 290, 190, 'Spinal cord', '', { minH: 60 });
+    const sy = node(765, y + 470, 200, 'Sympathetic', 'Fight or flight', { fill: C.cream, edge: C.olive, minH: 86 });
+    const pa = node(545, y + 470, 210, 'Parasympathetic', 'Rest and digest', { fill: C.cream, edge: C.olive, minH: 86 });
+    const s = link(ns, cns) + link(ns, pns) + link(pns, so) + link(pns, au) + link(au, sy) + link(au, pa) + link(cns, br) + link(cns, sp) + [ns, cns, pns, so, au, sy, pa, br, sp].map((n) => n.s).join('');
     return { s, h: 470 + pa.h };
   },
 ],
