@@ -18,7 +18,7 @@ review.
 
 | Teacher | Profile slug | Pages eligible |
 | --- | --- | --- |
-| Farheen Zehra | `farheen-zehra` | 70 |
+| Farheen Zehra | `farheen-zehra` | 89 |
 | Ammar Bilal | `ammar-bilal` | 62 |
 | Salman Ahmad | `salman-ahmad` | 47 |
 | Farhat ul Ain Sehgal | `farhat-ul-ain-sehgal` | 23 |
@@ -38,15 +38,16 @@ review.
 | Saad Zai | `saad-zai` | 12 |
 | Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 12 |
 | Lubna Waseem | `lubna-waseem` | 10 |
-| *No eligible teacher* | — | 435 |
+| *No eligible teacher* | — | 522 |
 
-779 review-pending pages in total; a page can appear under more than one teacher.
+885 review-pending pages in total; a page can appear under more than one teacher.
 
-## Farheen Zehra (`farheen-zehra`) — 70
+## Farheen Zehra (`farheen-zehra`) — 89
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
 | `cambridge-igcse-urdu-language-0539-subject-guide` | cambridge igcse urdu-language (0539) | subject-guides | UNVERIFIED | 0 |
+| `cambridge-igcse-urdu-language-component-5-speaking-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
 | `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-practice` | cambridge igcse urdu-language (0539) | practice-questions | UNVERIFIED | 0 |
 | `cambridge-igcse-urdu-language-exercise-1-short-answer-questions-revision-notes` | cambridge igcse urdu-language (0539) | revision-notes | UNVERIFIED | 0 |
 | `cambridge-igcse-urdu-language-exercise-1-short-answer-questions` | cambridge igcse urdu-language (0539) | study-guides | UNVERIFIED | 0 |
@@ -80,7 +81,25 @@ review.
 | `cambridge-o-level-urdu-language-3247-subject-guide` | cambridge o-level urdu-language (3247 / 3248) | subject-guides | UNVERIFIED | 0 |
 | `cambridge-o-level-urdu-language-exam-preparation` | cambridge o-level urdu-language (3247 / 3248) | exam-preparation | UNVERIFIED | 0 |
 | `edexcel-a-level-urdu-language-9ur0-subject-guide` | edexcel a-level urdu-language (9UR0) | subject-guides | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-aangan-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-attitudes-towards-immigration-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-baaghban-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-bajrangi-bhaijaan-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-bin-roye-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-bisaat-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-creation-of-pakistan-1947-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-emigration-from-pakistan-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-environmental-issues-in-pakistan-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-equal-access-to-education-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
 | `edexcel-a-level-urdu-language-exam-preparation` | edexcel a-level urdu-language (9UR0) | exam-preparation | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-family-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-feudal-system-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-folklore-and-tradition-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-media-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-patras-ke-mazameen-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-popular-culture-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-positive-features-of-a-diverse-society-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
+| `edexcel-a-level-urdu-language-work-revision-notes` | edexcel a-level urdu-language (9UR0) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-urdu-language-9264-education-post-16-practice` | oxfordaqa igcse urdu-language (9264) | practice-questions | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-urdu-language-9264-education-post-16-revision-notes` | oxfordaqa igcse urdu-language (9264) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-urdu-language-9264-education-post-16` | oxfordaqa igcse urdu-language (9264) | study-guides | UNVERIFIED | 0 |
@@ -614,7 +633,7 @@ review.
 | `oxfordaqa-a-level-english-language-9670-subject-guide` | oxfordaqa a-level english (9670) | subject-guides | UNVERIFIED | 1 |
 | `oxfordaqa-igcse-english-language-9270-subject-guide` | oxfordaqa igcse english (9270) | subject-guides | UNVERIFIED | 1 |
 
-## No eligible teacher — 435
+## No eligible teacher — 522
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -634,6 +653,30 @@ is not a review and does not change their status.
 | `a-level-cambridge-global-perspectives-written-exam-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-cambridge-global-perspectives-written-exam` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
 | `a-level-cambridge-psychology-research-methods` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
+| `a-level-geography-9696-atmosphere-human-impact-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-changes-in-rural-settlements-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-changing-structure-of-urban-settlements-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-demographic-transition-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-discharge-relationships-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-diurnal-energy-budgets-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-drainage-basin-human-impact-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-drainage-basin-system-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-global-energy-budget-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-internal-migration-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-international-migration-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-management-of-international-migration-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-management-of-natural-increase-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-management-of-urban-settlements-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-migration-population-change-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-natural-increase-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-plate-tectonics-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-population-resource-relationships-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-river-channel-processes-landforms-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-slope-processes-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-slopes-human-impact-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-urban-trends-urbanisation-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-weather-processes-phenomena-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
+| `a-level-geography-9696-weathering-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
@@ -809,6 +852,30 @@ is not a review and does not change their status.
 | `global-perspectives-individual-report-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `global-perspectives-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
+| `ib-dp-geography-extreme-environments-characteristics-of-extreme-environments-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-extreme-environments-extreme-environments-futures-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-extreme-environments-physical-processes-and-landscapes-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-food-health-food-systems-and-spread-of-diseases-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-food-health-measuring-food-and-health-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-food-health-stakeholders-in-food-and-health-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-freshwater-drainage-basin-hydrology-and-geomorphology-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-freshwater-flooding-and-flood-mitigation-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-freshwater-water-management-futures-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-freshwater-water-scarcity-and-water-quality-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-geophysical-hazards-geophysical-hazard-risks-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-geophysical-hazards-geophysical-systems-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-geophysical-hazards-hazard-risk-and-vulnerability-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-leisure-tourism-sport-changing-leisure-patterns-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-leisure-tourism-sport-managing-tourism-and-sport-for-the-future-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-leisure-tourism-sport-tourism-and-sport-at-the-international-scale-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-leisure-tourism-sport-tourism-and-sport-at-the-local-and-national-scale-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-oceans-coastal-margins-interactions-between-oceans-and-coastal-places-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-oceans-coastal-margins-managing-coastal-margins-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-oceans-coastal-margins-ocean-atmosphere-interactions-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-dp-global-politics-assessment-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-practice` | ib ib-dp global-politics (DP Global Politics) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-core-interdependence-revision-notes` | ib ib-dp global-politics (DP Global Politics) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
@@ -853,6 +920,29 @@ is not a review and does not change their status.
 | `ib-dp-psychology-exam-preparation` | ib ib-dp psychology (DP Psychology) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-subject-guide` | ib ib-dp psychology (DP Psychology) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-psychology-syllabus-guide` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
+| `ib-ib-dp-geography-building-sustainable-urban-systems-for-the-future-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-causes-of-global-climate-change-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-challenges-and-opportunities-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-changing-identities-and-cultures-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-changing-populations-and-places-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-changing-urban-systems-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-consequences-of-global-climate-change-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-development-opportunities-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-environmental-risks-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-fieldwork-internal-assessment-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-geopolitical-and-economic-risks-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-global-interactions-and-global-power-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-global-networks-and-flows-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-global-trends-in-consumption-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-human-and-physical-influences-on-global-interactions-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-impacts-of-changing-trends-in-resource-consumption-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-local-and-global-resilience-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-local-responses-to-global-interactions-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-population-and-economic-development-patterns-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-resource-stewardship-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-responding-to-global-climate-change-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-the-variety-of-urban-environments-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
+| `ib-ib-dp-geography-urban-environmental-and-social-stresses-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-abnormal-psychology-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-abnormal-psychology-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-psychology-abnormal-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
@@ -948,6 +1038,18 @@ is not a review and does not change their status.
 | `igcse-cambridge-global-perspectives-individual-report` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
 | `igcse-cambridge-global-perspectives-team-project` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
 | `igcse-cambridge-global-perspectives-written-exam` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
+| `igcse-geography-0460-climate-natural-vegetation-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-coasts-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-earthquakes-volcanoes-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-migration-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-population-density-distribution-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-population-dynamics-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-population-structure-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-rivers-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-settlements-service-provision-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-urban-settlements-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-urbanisation-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
+| `igcse-geography-0460-weather-revision-notes` | cambridge igcse geography (0460) | revision-notes | UNVERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `igcse-global-perspectives-0457-arts-in-society` | cambridge igcse global-perspectives (0457) | study-guides | VERIFIED | 0 |
@@ -1027,6 +1129,10 @@ is not a review and does not change their status.
 | `igcse-oxfordaqa-psychology-mental-health` | oxfordaqa igcse psychology (9218) | study-guides | UNVERIFIED | 0 |
 | `igcse-psychology-cognition-practice` | oxfordaqa igcse psychology (9218) | practice-questions | VERIFIED | 0 |
 | `igcse-psychology-cognition-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | VERIFIED | 0 |
+| `oxfordaqa-a-level-geography-9635-coastal-systems-and-landscapes-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-geography-9635-hot-desert-systems-and-landscapes-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-geography-9635-living-with-hazards-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
+| `oxfordaqa-a-level-geography-9635-resource-security-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-subject-guide` | oxfordaqa a-level geography (9635) | subject-guides | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
 | `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
