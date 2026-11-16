@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -38,6 +39,16 @@ the full explanation, read the
 | Gatekeeper | Governments, institutions and corporations deciding who can access a network |
 | Global production network | TNCs place design, assembly and sales in different countries by cost and market |
 
+Further terms:
+
+| Term | Meaning |
+|---|---|
+| Foreign direct investment (FDI) | A firm investing in long-term operations (factories, offices) in another country |
+| Portfolio investment | Buying shares or bonds abroad without controlling the business; can leave quickly |
+| Official development assistance (ODA) | Government aid on concessional terms |
+| Remittances | Money migrants send to families in their home country |
+| Digital divide | Unequal access to internet and digital technology |
+
 ## Types of flow
 
 - Trade in goods and services.
@@ -50,6 +61,42 @@ the full explanation, read the
 Globalisation can be described as the **intensification** of these flows and the growing connection
 of distant places.
 
+## What has accelerated flows
+
+- **Containerisation** (from the 1950s): standard steel boxes moved between ships, trains and lorries
+  slashed handling costs. Shipping now carries around 80 per cent of world trade by volume.
+- **Air transport:** cheaper flights expanded tourism, business travel and fast air freight of
+  high-value goods.
+- **Submarine fibre-optic cables** carry the great majority of international internet traffic,
+  which is why landing points and cable routes are strategically important.
+- **Deregulation:** lower tariffs and freer movement of capital since the 1980s.
+
+## Financial flows compared
+
+| Flow | Who benefits | Risks |
+|---|---|---|
+| FDI | Jobs, technology and taxes for host countries | Profits sent abroad; firms can relocate |
+| Portfolio investment | Capital for growth | Can flow out suddenly in a crisis |
+| ODA | Funds for health, education and infrastructure | Few donors meet the UN target of 0.7 per cent of gross national income; can be tied to donor interests |
+| Remittances | Go directly to households | Depend on host-country jobs and migration rules |
+
+For low- and middle-income countries as a group, remittances now exceed official development aid,
+making them one of the most important financial flows to the developing world.
+
+## Global production network: the smartphone
+
+A widely studied example is Apple's iPhone. It is designed in California; components such as
+memory chips, displays and processors come from firms in countries including South Korea, Japan,
+Taiwan and the USA; and much final assembly has been done in China by contract manufacturers
+such as Foxconn, with some production more recently moving to India and Vietnam. Most of the
+**value** is captured by design, branding and software rather than by assembly, so a phone's
+"made in" label hides where the money goes. Worker suicides at Foxconn plants in 2010 drew
+attention to labour conditions at the assembly stage.
+
+Evaluation: the network gives assembly countries jobs and a route into manufacturing, but keeps
+high-value activities in the core; it is efficient but exposed to tariffs, disasters and
+geopolitical tension.
+
 ## Connection and power
 
 - Well-connected hubs gain influence; poorly connected places can be described as **switched off**
@@ -58,12 +105,31 @@ of distant places.
 - **Measuring connection:** indices of globalisation combine economic, social and political
   indicators. Always comment on what an index **leaves out**.
 
+**Hubs:** Singapore and Rotterdam (ports), Dubai (aviation and logistics), London and New York
+(finance). **Switched-off places** include some landlocked or conflict-affected states with little
+infrastructure, and remote rural areas within otherwise well-connected countries.
+
+**Evaluating a globalisation index:** the KOF Globalisation Index (from ETH Zurich) combines economic,
+social and political measures. Small, open economies such as Singapore, the Netherlands, Switzerland
+and Belgium tend to score highly. Limits: national averages hide internal divides; weighting of
+indicators is a choice; some flows (illicit finance, informal remittances) are hard to measure; and
+the index measures connection, not whether it is beneficial.
+
+## Gatekeepers in action
+
+- Governments control visas, capital controls and internet access (China's online censorship system,
+  often called the Great Firewall, filters information flows).
+- Corporations control platforms, app stores and search results.
+- Institutions such as the WTO set trade rules; credit-rating agencies influence who can borrow.
+
 ## Exam traps
 
 - Confusing a network (the structure) with a flow (the movement).
 - Assuming globalisation connects every place equally.
 - Quoting an index without evaluating it.
 - Naming flows with no located example.
+- Treating FDI and portfolio investment as the same.
+- Assuming the country of assembly captures most of the value of a product.
 
 ## Self-test
 
@@ -72,12 +138,24 @@ of distant places.
 3. What is time-space compression?
 4. What is a gatekeeper?
 5. What is a global production network?
+6. Why did containerisation matter?
+7. Distinguish FDI from portfolio investment.
+8. Why are remittances important to developing countries as a group?
+9. Where is most of the value of a smartphone captured?
+10. Give two limits of a globalisation index.
+11. What is the digital divide?
 
 **Answers:** 1. A network is nodes and links; a flow is what moves along them. 2. For example trade,
 foreign direct investment, remittances and information. 3. Technology shrinking the effective distance
 between places. 4. A government, institution or corporation that decides who can access a network.
-5. Production split across countries by TNCs according to costs and markets.
+5. Production split across countries by TNCs according to costs and markets. 6. It cut the cost and
+time of moving goods between transport modes. 7. FDI is long-term investment in operations;
+portfolio investment buys shares or bonds without control and can leave quickly. 8. They now exceed
+official aid and go directly to households. 9. In design, branding and software. 10. For example
+national averages hide internal divides, and weighting is a choice. 11. Unequal access to internet
+and digital technology.
 
 ## Related resources
 
 - [Power, places and networks study guide](/resources/ib-ib-dp-geography-power-places-networks-study-guide/)
+- [Human and physical influences on global interactions revision notes](/resources/ib-ib-dp-geography-human-and-physical-influences-on-global-interactions-revision-notes/)

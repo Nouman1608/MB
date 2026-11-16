@@ -19,8 +19,8 @@
       "TEACHER_CREDITED": 7861
     },
     "structuralValidation": {
-      "PASS": 7882,
-      "WARN": 759
+      "PASS": 7888,
+      "WARN": 753
     },
     "withVerificationRecord": 780,
     "withSpecCheck": 0,

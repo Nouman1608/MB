@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -78,6 +79,54 @@ observation, calculations and graphs.
 
 Always show working and write the unit.
 
+## Worked example: a week of readings
+
+A school weather station records these maximum temperatures (°C) in one week:
+31, 33, 34, 30, 29, 32, 35.
+
+```
+weekly range          = 35 - 29 = 6 °C
+mean maximum          = (31+33+34+30+29+32+35) / 7 = 224 / 7 = 32 °C
+```
+
+Rainfall that week: 0, 4, 12, 0, 0, 7, 1 mm → total **24 mm**; wettest day 12 mm.
+
+Method marks come from showing the sum and the divisor. Round only at the end and keep the unit.
+
+## Using a relative humidity table
+
+1. Read the **dry bulb** (air temperature) and the **wet bulb**.
+2. Work out the **difference** (dry minus wet).
+3. Find the dry bulb reading down the side of the table and the difference along the top; read
+   off the percentage where they meet.
+
+The wet bulb is cooler because water evaporating from its muslin takes heat. Dry air allows more
+evaporation, so the difference is larger and humidity lower.
+
+## Siting the instruments
+
+| Instrument | Where | Why |
+|---|---|---|
+| Rain gauge | Open ground, rim just above the surface | Away from trees and buildings that shelter it or drip into it; rim stops splash-in |
+| Anemometer and wind vane | High on a mast, clear of obstacles | Buildings and trees slow and divert the wind |
+| Stevenson Screen | On grass, open site | Concrete or tarmac would radiate extra heat |
+| Sunshine recorder | Open, unshaded position | Shade would stop the trace being burned |
+
+## Reading weather graphs and diagrams
+
+- **Line graph** (temperature, pressure): describe the trend, highest and lowest values with
+  dates, and any sudden change.
+- **Bar graph** (rainfall): total, wettest and driest periods, any dry spell.
+- **Wind rose**: the longest arm shows the **prevailing wind**; count days or percentages from
+  the scale.
+- **Climate graph**: temperature as a line, rainfall as bars; read each axis carefully.
+
+## Model answer: relating readings
+
+*Pressure fell steadily over two days while cloud cover rose to 8 oktas and 18 mm of rain fell.
+Describe the relationship.* "As pressure fell, cloud cover increased and rain fell, because low
+pressure is linked with rising air, which cools, condenses and forms cloud."
+
 ## Key terms
 
 | Term | Meaning |
@@ -89,6 +138,10 @@ Always show working and write the unit.
 | Prevailing wind | The most frequent wind direction at a place |
 | Wind rose | Diagram showing how often the wind blows from each direction |
 | Millibar (hectopascal) | Unit of air pressure |
+| Precipitation | Water falling from the atmosphere as rain, snow, sleet or hail |
+| Isobar | Line on a map joining places of equal air pressure |
+| Data logger | Electronic device that records readings automatically at set intervals |
+| Condensation | Water vapour cooling to form tiny droplets, which make cloud |
 
 ## Exam traps
 
@@ -97,6 +150,9 @@ Always show working and write the unit.
 - Mean temperature calculated as a range.
 - Graph description without figures and units.
 - Rain gauge sited under trees or next to a wall.
+- Calculating a mean but forgetting to divide by the correct number of days.
+- Saying the wet bulb is cooler "because it is wet"; the reason is evaporation taking heat.
+- Reading the wind rose arm as the direction the wind blows towards.
 
 ## Self-test
 
@@ -108,6 +164,10 @@ Always show working and write the unit.
 6. What does 6 oktas mean?
 7. Which instrument uses a glass sphere?
 8. Give one disadvantage of a digital weather station.
+9. Rainfall over five days: 3, 0, 15, 6, 1 mm. Give the total and the mean.
+10. Why is the wet bulb usually cooler than the dry bulb?
+11. Why is an anemometer mounted high on a mast?
+12. On a wind rose, what does the longest arm show?
 
 **Answers:** 1. Maximum-minimum thermometer; wet-and-dry bulb
 thermometer. 2. So that heat radiated from the ground does not affect
@@ -115,4 +175,7 @@ the readings. 3. 100 per cent (saturated air, no evaporation). 4. A
 north-easterly (blowing from the north-east). 5. Range 14 °C; mean
 28 °C. 6. Six-eighths of the sky is covered by cloud. 7. Sunshine
 recorder. 8. Any one: needs a power supply; can fail or record wrong
-values without anyone noticing; expensive to buy or repair.
+values without anyone noticing; expensive to buy or repair. 9. Total 25 mm; mean 25 ÷ 5 =
+**5 mm** per day. 10. Water evaporates from the muslin around it, and evaporation takes heat from
+the bulb. 11. Buildings, trees and the ground slow and divert the wind, so readings near the
+surface would be too low. 12. The prevailing wind, the direction the wind blows from most often.

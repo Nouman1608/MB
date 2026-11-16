@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The Urdu terms, example sentences and self-test answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, including the subject genders."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -107,6 +108,70 @@ singular.
 In reading, split each opinion sentence into three parts: the subject named (fact), the opinion,
 and the reason after کیونکہ. Questions often ask for the reason alone.
 
+## Exams and homework vocabulary
+
+| Urdu | English | Note |
+|---|---|---|
+| اردو / انگریزی | Urdu / English | both feminine: اردو آسان لگتی ہے |
+| نصاب | syllabus, curriculum | |
+| امتحان دینا | to sit an exam | |
+| امتحان کی تیاری کرنا | to prepare for an exam | تیاری is feminine |
+| سبق دہرانا | to revise a lesson | |
+| اچھے نمبر لینا | to get good marks | میں نے اچھے نمبر لیے |
+| کامیاب ہونا / پاس ہونا | to pass | |
+| دباؤ | pressure | امتحانات کا دباؤ |
+| محنت کرنا | to work hard | محنت is feminine |
+
+## Worked example
+
+**Task (written for this page):** Write about the subjects you study, your opinions of them and your
+plans for next year.
+
+> میں اسکول میں آٹھ مضامین پڑھتی ہوں۔ میرا پسندیدہ مضمون انگریزی ہے کیونکہ مجھے کہانیاں پڑھنا اچھا
+> لگتا ہے۔ اس کے برعکس، مجھے جغرافیہ زیادہ دلچسپ نہیں لگتا۔ ہر ہفتے ہمارے ریاضی کے پانچ پیریڈ ہوتے
+> ہیں۔ پہلے مجھے ریاضی مشکل لگتی تھی، لیکن اب ہماری استانی بہت اچھی طرح سمجھاتی ہیں، اس لیے یہ آسان
+> لگتی ہے۔ اگلے سال میں حیاتیات پڑھوں گی کیونکہ میں ڈاکٹر بننا چاہتی ہوں۔
+
+**English gloss:** "I study eight subjects at school. My favourite subject is English because I like
+reading stories. By contrast, I don't find geography very interesting. Every week we have five maths
+lessons. Maths used to seem difficult to me, but now our teacher explains very well, so it seems easy.
+Next year I will study biology because I want to become a doctor."
+
+| Feature | Where it appears |
+|---|---|
+| opinion with reason | میرا پسندیدہ مضمون انگریزی ہے کیونکہ ... |
+| an activity as the thing liked | مجھے کہانیاں پڑھنا اچھا لگتا ہے |
+| contrast | اس کے برعکس |
+| timetable fact | ہمارے ریاضی کے پانچ پیریڈ ہوتے ہیں |
+| then and now | پہلے ... لگتی تھی، لیکن اب ... لگتی ہے (agreeing with feminine ریاضی) |
+| respect | استانی ... سمجھاتی ہیں: plural verb for a teacher |
+| future with reason | حیاتیات پڑھوں گی کیونکہ ... |
+
+A boy writes پڑھتا ہوں، پڑھوں گا and چاہتا ہوں; everything else stays the same, because the other verbs
+agree with the subject liked, not with the writer.
+
+## Connectives for opinions on subjects
+
+| Urdu | English |
+|---|---|
+| کیونکہ | because |
+| اس لیے | so, therefore |
+| اس کے برعکس | by contrast |
+| اگرچہ ... لیکن | although ... (still) |
+| سب سے بڑھ کر | above all |
+| دوسری طرف | on the other hand |
+
+Example: اگرچہ کیمسٹری کا ہوم ورک زیادہ ہوتا ہے، لیکن مجھے تجربات بہت پسند ہیں۔ (Although there is a lot
+of chemistry homework, I really like the experiments.)
+
+## More translation practice
+
+| English | Urdu |
+|---|---|
+| Before exams I feel a lot of pressure. | امتحانات سے پہلے مجھ پر بہت دباؤ ہوتا ہے۔ |
+| I got good marks in maths. | میں نے ریاضی میں اچھے نمبر لیے۔ |
+| Urdu seems easy to me. | مجھے اردو آسان لگتی ہے۔ |
+
 ## Exam traps
 
 - میں ریاضی پسند ہے: mixing two patterns.
@@ -115,6 +180,8 @@ and the reason after کیونکہ. Questions often ask for the reason alone.
 - An opinion with no reason.
 - Writing about the library or uniform when the task asks about subjects.
 - مضمون where the plural مضامین is needed.
+- مجھے جغرافیہ دلچسپ نہیں لگتی: جغرافیہ is masculine, so لگتا.
+- A girl writing پڑھوں گا or a boy writing پڑھوں گی.
 
 ## Self-test
 
@@ -124,11 +191,19 @@ and the reason after کیونکہ. Questions often ask for the reason alone.
 4. Translate into Urdu: "Maths is harder than English."
 5. Write one sentence showing how your view of a subject has changed.
 6. Which topic covers school rules: My studies or Life at school/college?
+7. Give the Urdu for: syllabus, pressure, to revise a lesson.
+8. Correct the error: مجھے جغرافیہ دلچسپ نہیں لگتی۔
+9. Translate into Urdu: "I got good marks in maths."
+10. Why is it سمجھاتی ہیں, not سمجھاتی ہے, in the worked example?
+11. Write one sentence with اس کے برعکس comparing two subjects.
 
 **Answers:** 1. تاریخ، ٹائم ٹیبل، ہوم ورک، مفید۔ 2. مجھے ریاضی اچھی لگتی ہے۔ -- ریاضی is
 feminine. 3. With مجھے, the verb agrees with the thing liked, and تجربات is plural. 4. ریاضی
 انگریزی سے زیادہ مشکل ہے۔ 5. For example: پہلے مجھے تاریخ مشکل لگتی تھی، لیکن اب یہ دلچسپ لگتی
-ہے۔ 6. Life at school/college (Topic 2).
+ہے۔ 6. Life at school/college (Topic 2). 7. نصاب، دباؤ، سبق دہرانا۔ 8. مجھے جغرافیہ دلچسپ نہیں لگتا۔ (جغرافیہ is masculine.)
+9. میں نے ریاضی میں اچھے نمبر لیے۔ (لیے agrees with the masculine plural نمبر.) 10. The plural is the
+respectful form for a teacher. 11. For example: مجھے اردو پسند ہے؛ اس کے برعکس، مجھے جغرافیہ دلچسپ نہیں
+لگتا۔
 
 Next step: try the
 [My studies practice questions](/resources/oxfordaqa-igcse-urdu-language-9264-my-studies-practice/).

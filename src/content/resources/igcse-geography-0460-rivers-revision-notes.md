@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -35,12 +36,41 @@ explanation, read the [Rivers study guide](/resources/igcse-geography-rivers/) a
 - **Discharge** -- volume of water passing a point in a given time, in cubic metres per second
   (cumecs).
 - Other characteristics: width, depth, speed of flow.
+- **Drainage basin** -- the area of land drained by a river and its tributaries.
+- **Source / mouth** -- where a river begins / where it enters a sea or lake.
+- **Load** -- the material a river carries.
+
+```
+discharge (cumecs) = cross-sectional area (m2) x velocity (m/s)
+cross-sectional area = width x mean depth
+```
+
+Worked example (illustrative): a channel 8 m wide with a mean depth of 0.5 m has a cross-sectional
+area of 4 m2. If the water flows at 1.5 m/s, discharge = 4 x 1.5 = **6 cumecs**.
+
+## How rivers change downstream
+
+| | Upper course | Middle course | Lower course |
+|---|---|---|---|
+| Gradient | Steep | Moderate | Gentle |
+| Valley | Narrow, V-shaped | Wider | Wide, flat floodplain |
+| Width, depth, discharge | Small | Increasing | Largest |
+| Main process | Vertical erosion | Lateral erosion and some deposition | Deposition |
+| Load | Large, angular boulders | Smaller, more rounded | Fine silt and sand |
+
+Velocity often **increases** downstream even though the gradient falls, because the deeper, smoother
+channel loses less energy to friction. Load becomes smaller and rounder through attrition.
 
 ## Water routes (alternatives, not a sequence)
 
 **Interception** (caught by vegetation), **infiltration** (into the soil), **throughflow** (sideways
 through the soil), **groundwater flow** (through rock), **overland flow** (across the surface),
 with **evaporation** as a loss. Mostly overland flow means fast response and higher flood risk.
+
+**What makes overland flow more likely:** soil already saturated after long rain; very heavy,
+intense rain; frozen ground; impermeable rock such as granite or clay; steep slopes; little
+vegetation; urban surfaces such as tarmac and concrete, with drains that carry water quickly to the
+river.
 
 ## Erosion, transport, deposition
 
@@ -55,6 +85,9 @@ with **evaporation** as a loss. Mostly overland flow means fast response and hig
 (dissolved). **Deposition** happens when the river loses energy, for example on the inside of a bend.
 Erosion removes material; **weathering** breaks rock where it stands, with no movement.
 
+The **largest particles are deposited first** as the river slows, and the finest silt last, which
+is why floodplains and deltas are made of fine material.
+
 ## Landforms
 
 - **Waterfall and gorge:** a river crosses hard rock over softer rock; the soft rock erodes faster,
@@ -68,6 +101,18 @@ Erosion removes material; **weathering** breaks rock where it stands, with no mo
 - **Flood plain:** flat land built up by flood deposits of silt and alluvium.
 - **Delta:** deposition where a river enters a sea or lake and slows.
 
+**Further detail:**
+
+- **V-shaped valley and interlocking spurs:** in the upper course the river erodes downwards; the
+  valley sides are weathered and material slides into the river, giving a V shape. The river winds
+  around areas of harder rock, leaving spurs that interlock.
+- **Levee formation:** when the river floods, it loses energy as soon as it spreads over the
+  floodplain, so the coarsest material is dropped right by the channel. Repeated floods build these
+  deposits into raised banks, while finer silt is spread further away.
+- **Delta conditions:** a large load, a sea or lake with weak currents and tides that cannot remove
+  the sediment, and a river that slows sharply. The river splits into many channels called
+  **distributaries**.
+
 ## Hazards, opportunities, management
 
 - **Hazards:** flooding and river erosion.
@@ -77,10 +122,42 @@ Erosion removes material; **weathering** breaks rock where it stands, with no mo
 - **Soft engineering:** flood warnings, floodplain zoning, planting trees -- work with natural
   processes.
 
+**More opportunities:** hydro-electric power, fishing, flat land for building and industry, tourism
+and recreation, and water for industry and cooling power stations.
+
+**Causes of flooding:** physical (heavy or prolonged rain, snowmelt, saturated or impermeable ground,
+steep slopes, tropical storms) and human (deforestation upstream, urbanisation, building on
+floodplains). In an answer, say how each factor increases the amount or speed of water reaching the
+river.
+
+| Method | How it works | Evaluation |
+|---|---|---|
+| **Dam and reservoir** | Stores water and releases it steadily | Controls floods and gives HEP, but very costly, floods land and traps sediment |
+| **Embankments / levees** | Raise the banks so the channel holds more water | Protects towns, but can fail catastrophically and send water faster downstream |
+| **Straightening** | Shortens the channel so water leaves faster | Reduces local flooding, but may increase it downstream |
+| **Afforestation** | Trees intercept rain and slow run-off | Cheap and natural, but slow to take effect |
+| **Floodplain zoning** | Restricts building on high-risk land | Cheap, but hard where land is already built on |
+| **Warnings** | Forecasts let people move belongings and evacuate | Saves lives, but does not stop damage to property |
+
 ## Case study
 
 The syllabus requires **opportunities, hazards and management of a river or rivers**. Prepare a named
 river: the opportunities for a named population, recorded hazards and the measures used.
+
+**Example card: the River Nile and the Aswan High Dam, Egypt.** The Nile flows north through a desert
+country, so almost all Egyptians depend on it.
+
+- **Opportunities:** water for drinking and irrigation; fertile soil on the floodplain and delta;
+  transport; fishing; tourism along the river; electricity.
+- **Hazards before the dam:** the annual flood varied from year to year -- very high floods damaged
+  crops and settlements, while low floods brought drought and food shortages.
+- **Management:** the **Aswan High Dam**, completed in **1970**, created **Lake Nasser**, which stores
+  water to control floods and release it steadily. It allowed year-round irrigation and more than one
+  crop a year, and produces hydro-electric power.
+- **Problems:** the reservoir flooded Nubian villages, and people had to be resettled; the temples of
+  **Abu Simbel** were moved to higher ground. Silt is now trapped behind the dam, so farmers use
+  chemical fertilisers, and the delta coastline is eroding because less sediment reaches it. Still
+  water in irrigation channels has helped spread the disease **bilharzia** (schistosomiasis).
 
 ## Exam traps
 
@@ -89,6 +166,7 @@ river: the opportunities for a named population, recorded hazards and the measur
 - Describing a landform without explaining the process.
 - Giving a river case study with no name or specific facts.
 - Saying "erosion" when the question means weathering, or the reverse.
+- Saying a river is fastest in the upper course: velocity often rises downstream.
 
 ## Self-test
 
@@ -97,11 +175,24 @@ river: the opportunities for a named population, recorded hazards and the measur
 3. Where is deposition on a meander, and why?
 4. How does an oxbow lake form?
 5. Give one hard and one soft flood management method.
+6. A channel is 10 m wide, 2 m deep on average, and flows at 0.8 m/s. Calculate discharge.
+7. Give three factors that increase overland flow.
+8. Why are levees made of coarser material than the rest of the floodplain?
+9. Why does load become smaller and rounder downstream?
+10. Give two benefits of the Aswan High Dam.
+11. Give two problems caused by the Aswan High Dam.
+12. Why can straightening a channel increase flooding downstream?
 
 **Answers:** 1. Confluence is where two rivers meet; watershed is the boundary between basins. 2.
 Hydraulic action, abrasion, attrition and solution. 3. On the inside bend, where flow is slower. 4.
 The meander neck is cut through in flood and the old loop is sealed off by deposition. 5. Hard:
-embankments or dams; soft: flood warnings or floodplain zoning.
+embankments or dams; soft: flood warnings or floodplain zoning. 6. Area = 20 m2; 20 x 0.8 = 16 cumecs.
+7. For example saturated soil, impermeable rock and urban surfaces. 8. The river loses energy as soon
+as it overflows, dropping the coarsest material first next to the channel. 9. Attrition knocks
+particles together, breaking off corners. 10. For example flood control and year-round irrigation
+(or hydro-electric power). 11. For example silt trapped behind the dam, so farmers need fertilisers,
+and the resettlement of Nubian people (or delta erosion, bilharzia). 12. Water leaves the straightened
+stretch faster and arrives downstream in a larger, quicker peak.
 
 ## Related resources
 

@@ -34,7 +34,7 @@ Unassessed resources are not counted as passing: they have no score and are excl
 
 | Evidence | Resources | What it is not |
 | --- | --- | --- |
-| Automated structural checks: PASS / WARN / FAIL | 7882 / 759 / 0 | Not an academic accuracy check |
+| Automated structural checks: PASS / WARN / FAIL | 7888 / 753 / 0 | Not an academic accuracy check |
 | Repository-side specification check (pending-review-*.json) | 780 | Not a teacher review |
 | Accountable teacher credited (reviewStatus "reviewed", D-379) | 8641 | Not a dated line-by-line check |
 | AI-assisted rubric assessment (current) | 3 | Not a teacher review; never an approval |

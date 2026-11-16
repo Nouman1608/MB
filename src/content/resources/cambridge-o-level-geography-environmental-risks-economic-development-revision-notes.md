@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -90,12 +91,51 @@ greenhouse gases are global.
 - Judgement: clearance fell when enforcement was strong, then rose again
   in some later years, so success depends on enforcement.
 
+## Second case study outline: winter smog in Lahore, Pakistan
+
+- **Activities**: vehicle exhaust in a fast-growing city; factories and brick kilns burning coal,
+  wood or waste; burning of rice stubble after the harvest in Pakistani and Indian Punjab.
+- **Process**: in late autumn and winter, cool, calm air near the ground can be trapped under
+  warmer air above (a **temperature inversion**), so pollutants cannot disperse and build up
+  into thick smog.
+- **Effects on people**: breathing and eye problems, hospital admissions, school closures in
+  bad spells, poor visibility causing road accidents and flight delays.
+- **Scale**: local and regional; smoke crosses the India–Pakistan border, so neither country can
+  solve it alone.
+- **Management**: bans on crop burning, conversion of brick kilns to cleaner **zig-zag**
+  technology, vehicle emission checks, temporary closures of polluting sites and schools during
+  smog emergencies.
+- **Evaluation**: emergency measures reduce exposure but not the causes; enforcement is difficult
+  when farmers lack affordable alternatives to burning stubble.
+
+## Worked example: the answer chain in action
+
+*Explain how an economic activity can cause water pollution.* Model answer: "Farmers spread
+nitrate fertiliser to increase yields. Heavy rain washes the excess into rivers. The nutrients
+cause algae to grow rapidly, forming an algal bloom. When the algae die, bacteria decompose them
+and use up the oxygen in the water, so fish die and the river is no longer safe for drinking
+water or fishing."
+
+Activity → process → threat → effect on the environment **and** on people.
+
+## Weighing management
+
+- **Laws** work only where they are enforced and monitored.
+- **Technology** (filters, treatment works) is effective but costly for poorer countries.
+- **International agreements** matter for global threats, because one country cannot cut global
+  warming alone.
+- **Local action** (terraces, tree planting such as Pakistan's Billion Tree Tsunami in Khyber
+  Pakhtunkhwa) is cheap and involves communities, but takes years to show results.
+
 ## Exam traps
 
 - Threat named, activity missing.
 - Natural greenhouse effect confused with enhanced warming.
 - Desertification blamed only on climate.
 - "Sustainable" defined vaguely as "lasting".
+- Calling the ozone hole the cause of global warming; they are different issues.
+- Management named with no evaluation of cost or enforcement.
+- Treating smog as only a local problem when smoke crosses borders.
 
 ## Self-test
 
@@ -107,6 +147,11 @@ greenhouse gases are global.
 6. Give two ways of conserving resources.
 7. Name one activity causing deforestation in the Amazon and one
    management measure.
+8. Give two causes of winter smog in Lahore.
+9. What is a temperature inversion, and why does it worsen smog?
+10. Why is cross-border co-operation needed to tackle smog in Punjab?
+11. Give one strength and one limitation of laws as a management
+    method.
 
 **Answers:** 1. Any two of: forest clearance for farming or ranching,
 ploughing steep slopes, overgrazing, mining. 2. Carbon dioxide (burning
@@ -119,5 +164,12 @@ their own needs. 6. Any two of: recycling, reusing, reducing waste,
 using renewable energy, improving efficiency. 7. Activity: for example
 cattle ranching or soya farming; measure: for example INPE satellite
 monitoring, protected areas, the Forest Code or the Soy Moratorium.
+8. Any two: vehicle exhaust; brick kilns and factories; burning crop
+stubble. 9. A layer of warmer air above cooler air near the ground,
+which stops air rising, so pollutants are trapped close to the surface.
+10. Smoke from crop burning drifts across the India–Pakistan border, so
+action by one country alone cannot remove it. 11. Strength: they can
+set clear limits and fines; limitation: they fail without monitoring and
+enforcement.
 
 Next, try the [Environmental Risks practice questions](/resources/cambridge-o-level-geography-environmental-risks-economic-development-practice/).

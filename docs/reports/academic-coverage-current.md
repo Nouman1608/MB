@@ -21,8 +21,8 @@ written, so an unchanged repository regenerates identical files).
 | Combinations with topics that have no resource | 0 |
 | Median resources per combination | 47 |
 | Median words per resource | 2196 |
-| Resources under 900 words | 173 |
-| Resources under 400 words | 39 |
+| Resources under 900 words | 0 |
+| Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
 
 ### Assessment completeness

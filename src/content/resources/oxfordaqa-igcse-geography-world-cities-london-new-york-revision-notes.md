@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -27,6 +28,16 @@ Condensed for revision. For full explanations and a worked answer, read
 the [World cities study guide](/resources/oxfordaqa-igcse-geography-world-cities-london-new-york/).
 You need **one** of London or New York in depth; learning both lets you
 compare.
+
+## What the specification asks for
+
+For your chosen city you must be able to cover: its **location** nationally and globally; the impact
+of **national and international migration** on its growth and character; its **importance** in
+finance, business, trade, culture and politics; its **opportunities** (employment, recreation and
+entertainment, urban greening); its **challenges** (deprivation and inequality, dereliction,
+brownfield and greenfield building, urban sprawl, supplying food, traffic congestion, waste, water
+and energy); and one **flagship regeneration project**. You also need an overview of where the
+world's world cities are.
 
 ## Key terms
 
@@ -44,6 +55,15 @@ compare.
 | Urban greening | Increasing parks, trees and green spaces in a city |
 | Gentrification | Wealthier people moving into a poorer area, raising prices |
 | Regeneration | Improving a run-down area economically, socially and environmentally |
+| Multicultural city | A city where people of many ethnic, national and religious backgrounds live together |
+| Inequality | Unequal access to income, housing, education, health and jobs between groups or areas |
+
+## Where world cities are
+
+World cities are concentrated in **North America, Europe and East Asia**, with London, New York and
+Tokyo usually ranked highest. A growing number are in **newly emerging economies** -- such as
+Shanghai, Mumbai and São Paulo -- as economic power spreads. When describing a map, name the
+continents with clusters, give named examples and note the regions with few, such as much of Africa.
 
 ## London fact file
 
@@ -63,6 +83,12 @@ compare.
   green belt pushes building onto brownfield sites; Congestion Charge
   (2003) and ULEZ (2019); Thames Tideway Tunnel for sewage overflows.
 
+**How migration changed London's character:** neighbourhoods such as Brick Lane (Bangladeshi
+community) and events such as the Notting Hill Carnival, which grew from the Caribbean community,
+show how international migration shaped its culture, food and language. National migration brings
+young graduates and workers in, while some families and older people move out to towns in the South
+East -- so London's population is younger than the UK average.
+
 ## New York fact file
 
 - Largest US city; Atlantic coast at the mouth of the Hudson River;
@@ -78,6 +104,47 @@ compare.
   Street (2025); rubbish exported since Fresh Kills closed (2001); water
   from Catskill and Delaware watersheds; Hurricane Sandy flooding (2012).
 
+**How migration changed New York's character:** Chinatown and Little Italy in Manhattan reflect
+waves of arrivals, and Harlem became a centre of African American culture after the Great Migration.
+The five boroughs are among the most linguistically diverse places in the world.
+
+## Opportunities in more detail
+
+| Type | What to say |
+|---|---|
+| **Employment** | Finance, business services, tech, media, creative industries, tourism and hospitality; many jobs need high skills, while service jobs (cleaning, transport, catering) are often low paid |
+| **Recreation and entertainment** | Theatres (West End, Broadway), museums (many of London's national museums are free), sport, nightlife, festivals |
+| **Urban greening** | Parks improve air quality, reduce flood risk by absorbing rain, cool the city in summer, support wildlife and improve health and well-being |
+
+## Challenges explained
+
+- **Deprivation and inequality:** very wealthy districts sit close to areas with high child poverty,
+  lower life expectancy, overcrowded housing and lower exam results. Explain *who* is affected and
+  *why*: low-paid workers cannot afford rising rents, so they live in crowded or poorer-quality
+  homes.
+- **Housing:** demand exceeds supply, so prices and rents are very high. Gentrification, for example
+  in Hackney or Harlem, improves areas but can push out long-standing residents.
+- **Brownfield versus greenfield:** brownfield reuse protects the countryside and revives run-down
+  areas but can be costly to clean up; greenfield building is cheaper but causes sprawl and loss of
+  farmland and open space.
+- **Urban sprawl:** outward spread lengthens commutes, increases car use and congestion and
+  swallows countryside. London's green belt restricts it; New York's metropolitan area spreads
+  widely into the suburbs of New Jersey and Long Island.
+- **Supplying food:** both cities rely on food brought in from across their countries and the world,
+  distributed through major wholesale markets such as **New Covent Garden** in London and **Hunts
+  Point** in the Bronx. Long supply chains raise "food miles"; urban farms, community gardens and
+  local markets are small-scale responses.
+- **Keeping the city moving:** congestion wastes time and money and worsens air quality. Responses
+  include charging schemes, low-emission zones, investment in public transport, cycle lanes and
+  bike-hire schemes.
+- **Waste:** cities produce huge volumes of rubbish. The hierarchy to use is **reduce, reuse,
+  recycle**, then recover energy, with landfill last. New York exports much of its rubbish to other
+  states, which is costly and adds lorry and rail journeys.
+- **Water and energy conservation:** both cities need reliable clean water and must deal with
+  sewage overflows and flood risk. Conservation measures include metering, fixing leaks, efficient
+  appliances, insulation and renewable energy on buildings. After Hurricane Sandy, New York began
+  investing in coastal flood defences around lower Manhattan.
+
 ## Flagship regeneration: London Docklands
 
 | Stage | Detail |
@@ -89,12 +156,35 @@ compare.
 | Environmental impact | Derelict land cleaned and waterside improved |
 | Judgement | Economic success, unevenly shared |
 
+**Why the benefits were uneven:** former dock workers often lacked the qualifications for financial
+and office jobs, so many new jobs went to commuters from elsewhere. House prices rose, so some local
+families could not afford to stay, while newcomers gained. Critics also argued that the project was
+led by developers and the government with too little say for local people.
+
+**New York alternative:** the **High Line**, a disused elevated freight railway on Manhattan's West
+Side reopened as a park from 2009. It brought visitors and investment to a run-down area, but raised
+property values and rents nearby.
+
+## Model paragraph (judging regeneration)
+
+"The London Docklands project was an economic success because Canary Wharf became a second financial
+district and transport links such as the DLR and Jubilee line extension made the area accessible.
+However, the social benefits were uneven: many office jobs went to commuters rather than former dock
+workers, and rising house prices made new homes unaffordable for many local families. Overall, the
+area was transformed physically and economically, but the original community gained less than
+newcomers."
+
+This scores well because it gives named features, explains both sides and ends with a judgement.
+
 ## Exam traps
 
 - No named places, dates or schemes.
 - National and international migration confused.
 - Challenges listed with no explanation of who is affected.
 - Regeneration described without its reasons or judged impacts.
+- Forgetting the less obvious challenges: supplying food, waste, water and energy.
+- Calling every improvement "regeneration" without stating economic, social and environmental
+  effects.
 
 ## Self-test
 
@@ -106,6 +196,11 @@ compare.
 5. Explain one reason why London builds on brownfield sites.
 6. Why did London Docklands need regeneration?
 7. Give one criticism of the Docklands project.
+8. Name the three world regions where most world cities are found.
+9. Give two benefits of urban greening for city residents.
+10. How do London and New York supply food to their populations?
+11. Give one advantage and one disadvantage of building on greenfield sites.
+12. Name one waste or water challenge in your chosen city and one response.
 
 **Answers:** 1. A city with influence beyond its own country as a
 centre of finance, business, culture and politics. 2. On the Greenwich
@@ -118,6 +213,14 @@ restricts greenfield building at the city edge. 6. The docks closed
 because ships grew too large and container trade moved downstream,
 leaving derelict land and high unemployment. 7. Many new jobs went to
 commuters and new housing was too expensive for many existing
-residents.
+residents. 8. North America, Europe and East Asia. 9. For example cleaner
+air and space for exercise and recreation (or cooling and flood
+reduction). 10. Food is brought in from across the country and the world
+and distributed through large wholesale markets such as New Covent
+Garden and Hunts Point. 11. Advantage: cheaper and easier to build on;
+disadvantage: loss of countryside and more sprawl. 12. For example
+London's sewage overflows into the Thames, tackled by the Thames Tideway
+Tunnel; or New York's rubbish exported since Fresh Kills closed, with
+recycling programmes to reduce it.
 
 Next, try the [World cities practice questions](/resources/oxfordaqa-igcse-geography-world-cities-london-new-york-practice/).

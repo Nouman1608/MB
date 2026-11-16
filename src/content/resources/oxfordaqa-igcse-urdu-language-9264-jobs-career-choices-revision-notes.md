@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The Urdu terms, example sentences and self-test answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -115,6 +116,70 @@ In reading, sort each sentence into fact (the job someone does), opinion (how th
 and aspiration (what they hope to do). اس لیے (so, therefore) often introduces what someone does
 as a result.
 
+## More professions and qualities
+
+| Urdu | English | Note |
+|---|---|---|
+| انجینئر | engineer | same form for men and women |
+| ڈاکٹر | doctor | same form for men and women |
+| پائلٹ | pilot | |
+| سائنس دان | scientist | |
+| دکاندار | shopkeeper | |
+| باورچی | cook, chef | |
+| ایماندار | honest | |
+| وقت کا پابند | punctual | literally "bound by time" |
+| خوش اخلاق | courteous, well-mannered | |
+| تجربہ کار | experienced | |
+
+## Worked example
+
+**Task (written for this page):** Write about work experience you have done, what you learned, and
+your plans for the future.
+
+> پچھلی گرمیوں میں میں نے دو ہفتے ایک ہسپتال میں کام کا تجربہ حاصل کیا۔ وہاں میں مریضوں کے لیے فارم
+> بھرتی تھی اور نرسوں کی مدد کرتی تھی۔ اس کام سے میں نے سیکھا ہے کہ اس پیشے میں بہت صبر کی ضرورت
+> ہوتی ہے۔ مستقبل میں میں ڈاکٹر بننا چاہتی ہوں کیونکہ میں لوگوں کی مدد کرنا چاہتی ہوں۔ میرے لیے اچھی
+> تنخواہ سے زیادہ اہم یہ ہے کہ میرا کام دوسروں کے کام آئے۔ اگر میں محنت کروں تو مجھے یقین ہے کہ میرا
+> خواب پورا ہوگا۔
+
+**English gloss:** "Last summer I did two weeks' work experience in a hospital. There I used to fill in
+forms for patients and help the nurses. From this work I have learned that this profession needs a lot
+of patience. In the future I want to become a doctor because I want to help people. For me, more
+important than a good salary is that my work is useful to others. If I work hard, I am sure my dream
+will come true."
+
+| Step of the shape | Where it appears | Grammar point |
+|---|---|---|
+| 1 Work before | میں نے ... کام کا تجربہ حاصل کیا | نے; حاصل کیا agrees with masculine تجربہ |
+| 1 Routine there | فارم بھرتی تھی، مدد کرتی تھی | habitual past, no نے |
+| 2 What you learned | میں نے سیکھا ہے کہ ... | present perfect |
+| 3 Ambition and reason | ڈاکٹر بننا چاہتی ہوں کیونکہ ... | بننا, not بنانا |
+| 4 Values and condition | ... سے زیادہ اہم یہ ہے کہ ...; اگر ... تو | comparison; subjunctive کروں |
+
+A boy writes بھرتا تھا، کرتا تھا، چاہتا ہوں; the نے sentences do not change, because there the verb agrees
+with the object.
+
+## Connectives for careers answers
+
+| Urdu | English |
+|---|---|
+| اس لیے | so, therefore |
+| مستقبل میں | in the future |
+| اس کے علاوہ | besides |
+| دوسری طرف | on the other hand |
+| مجھے یقین ہے کہ | I am sure that |
+| مجھے امید ہے کہ | I hope that |
+
+## More translation practice
+
+| English | Urdu |
+|---|---|
+| A nurse needs patience. | نرس کو صبر کی ضرورت ہوتی ہے۔ |
+| My father is a shopkeeper. | میرے والد دکاندار ہیں۔ |
+| I want to become a scientist. | میں سائنس دان بننا چاہتا ہوں / چاہتی ہوں۔ |
+
+Note the respectful plural ہیں for a parent.
+
 ## Exam traps
 
 - بنانا where بننا is meant.
@@ -122,6 +187,9 @@ as a result.
 - An ambition with no reason.
 - نے with the habitual past: میں نے فون سنتی تھی is wrong.
 - Turning a careers answer into a description of college courses (Topic 3).
+- میرے والد دکاندار ہے: a parent normally takes the respectful plural ہیں.
+- Translating "I want to be" with ہونا چاہتا ہوں for a profession, where بننا چاہتا ہوں is the natural
+  form.
 
 ## Self-test
 
@@ -131,11 +199,20 @@ as a result.
 4. Translate into Urdu: "Last summer I did work experience in an office."
 5. Why is there no نے in وہاں میں فون سنتی تھی؟
 6. Write one sentence saying what matters more to you than salary.
+7. Give the Urdu for: honest, punctual, scientist.
+8. In the worked example, why is it حاصل کیا but بھرتی تھی?
+9. Translate into Urdu: "My father is a shopkeeper."
+10. Write a sentence with اگر ... تو about your career plans.
+11. How would a boy write وہاں میں نرسوں کی مدد کرتی تھی؟
 
 **Answers:** 1. تنخواہ، جز وقتی ملازمت (or پارٹ ٹائم نوکری)، گاہک، صحافی۔ 2. بننا means "to
 become"; بنانا means "to make". 3. میں انجینئر بننا چاہتی ہوں۔ 4. پچھلی گرمیوں میں میں نے ایک
 دفتر میں کام کا تجربہ حاصل کیا۔ 5. It is the habitual past (سنتی تھی), which never takes نے.
-6. For example: میرے لیے اچھی تنخواہ سے زیادہ اہم یہ ہے کہ مجھے اپنا کام پسند ہو۔
+6. For example: میرے لیے اچھی تنخواہ سے زیادہ اہم یہ ہے کہ مجھے اپنا کام پسند ہو۔ 7. ایماندار، وقت کا
+پابند، سائنس دان۔ 8. حاصل کیا is a completed transitive action with نے, agreeing with تجربہ;
+بھرتی تھی is the habitual past, which takes no نے and agrees with the girl writing. 9. میرے والد
+دکاندار ہیں۔ 10. For example: اگر مجھے موقع ملا تو میں صحافی بنوں گا / بنوں گی۔ 11. وہاں میں نرسوں
+کی مدد کرتا تھا۔
 
 Next step: try the
 [Jobs, career choices and ambitions practice questions](/resources/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices-practice/).

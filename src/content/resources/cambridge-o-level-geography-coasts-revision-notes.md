@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -87,6 +88,40 @@ associated hazards and their management.
 Spurn Head; defences at Hornsea, Withernsea, Mappleton (rock groynes and armour, 1991) and the
 Easington gas terminal; erosion increased south of Mappleton.
 
+**Second case-study hook:** the Sindh coast and Indus delta, Pakistan.
+- Opportunities: the ports of Karachi and Port Qasim; fishing and shrimp catches from the delta
+  creeks; mangrove forests that act as fish nurseries and supply wood and fodder.
+- Hazards: tropical cyclones and storm surges from the Arabian Sea (large evacuations along the
+  Sindh coast during **Cyclone Biparjoy**, June 2023); **seawater intrusion** into the delta,
+  which makes land and wells salty.
+- Causes of delta decline: dams and barrages upstream reduce the fresh water and sediment that
+  reach the delta, so the sea advances; mangroves were cut for fuelwood and grazed by camels.
+- Management: large-scale mangrove replanting by the Sindh Forest Department with partners;
+  protected forest status; warnings and evacuation for cyclones.
+- Evaluation: replanting is cheap and natural but young trees need years to protect the coast and
+  still need some fresh water and silt from the river.
+
+## Worked example: rate of cliff retreat
+
+A cliff top was 60 m from a road in 2000 and 36 m from it in 2024.
+
+```
+retreat      = 60 - 36 = 24 m
+time         = 2024 - 2000 = 24 years
+mean rate    = 24 / 24 = 1 m per year
+road reached in about 36 / 1 = 36 years, if the rate stays the same
+```
+
+Add a limitation: erosion is not steady; large storms or slumps can remove several metres at once.
+
+## Model explanation: how a spit forms
+
+"Longshore drift moves sand and shingle along the coast. Where the coastline changes direction,
+for example at a river mouth, the drift continues in the original direction and the material is
+deposited in the calmer, deeper water, building a long ridge out to sea. Changes in wind and wave
+direction curve the end into a hook. Behind the spit, sheltered water allows mud to settle and a
+salt marsh to form."
+
 ## Key terms
 
 | Term | Meaning |
@@ -99,6 +134,19 @@ Easington gas terminal; erosion increased south of Mappleton.
 | Coral bleaching | Coral losing its algae, often due to warm water, turning white |
 | Storm surge | Rise in sea level caused by low pressure and strong winds of a storm |
 | Managed retreat | Allowing a coast to erode or flood in a controlled way |
+| Differential erosion | Rocks of different hardness eroding at different rates |
+| Hydraulic action | Force of waves compressing air in cracks and breaking rock apart |
+| Groyne | Low wall built across a beach to trap sediment moved by longshore drift |
+| Rock armour | Large boulders placed at the foot of a cliff to absorb wave energy |
+| Seawater intrusion | Salt water moving into fresh groundwater or delta land |
+
+## Exam traps
+
+- Describing longshore drift without the angle of swash and the straight backwash.
+- Cave, arch, stack and stump given as a list with no process at each stage.
+- Saying hard engineering is "better"; evaluate cost, effects down-drift and what is protected.
+- Placing coral reefs in muddy river mouths; they need clear water.
+- A case study with no named places, defences or dates.
 
 ## Self-test
 
@@ -108,6 +156,11 @@ Easington gas terminal; erosion increased south of Mappleton.
 4. Why do mangroves grow on sheltered coasts?
 5. Give one disadvantage of groynes.
 6. Name two soft engineering methods of coastal management.
+7. A cliff retreated 18 m between 2006 and 2024. Calculate the mean rate.
+8. Explain why the Indus delta is shrinking.
+9. Give two benefits of mangroves to people on the Sindh coast.
+10. Why does a spit develop a hooked end?
+11. Explain how a storm surge is caused.
 
 **Answers:** 1. Any two: constructive are lower, less frequent and have stronger swash;
 destructive are higher, more frequent and have stronger backwash. 2. Swash carries sediment up
@@ -116,4 +169,9 @@ the coast. 3. Any three of: warm water above about 18 °C; shallow, clear water 
 salt water; well-oxygenated water. 4. Their seedlings and muddy sediment need low-energy water;
 strong waves would wash them away. 5. They trap sediment, so beaches further along the coast are
 starved and erode faster. 6. Any two of: beach nourishment, dune regeneration, mangrove
-replanting, managed retreat.
+replanting, managed retreat. 7. 18 ÷ 18 = **1 m per year**. 8. Dams and barrages upstream reduce
+the fresh water and sediment reaching the delta, so deposition no longer keeps pace with erosion
+and the sea advances; mangrove loss adds to the problem. 9. Any two: protection from storm surges
+and waves; nurseries for fish and shrimp; wood and fodder. 10. Changes in wind and wave direction
+curve the end of the spit. 11. Very low pressure lets the sea surface rise, and strong onshore
+winds push water towards the coast, so sea level rises well above normal.

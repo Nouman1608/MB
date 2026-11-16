@@ -14,13 +14,14 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "rocks-and-weathering-9696"
     subtopic: "weathering-9696"
-description: "Condensed revision notes for Cambridge 9696 Geography 3.2 Weathering: key terms, processes, exam traps and a short self-test."
+description: "Revision notes for Cambridge 9696 Geography 3.2 Weathering: key terms, processes, worked examples, exam traps and a self-test with answers."
 author: "marlbridge-academic-team"
 reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -41,6 +42,9 @@ Condensed recall for **3.2 Weathering** (physical, chemical and biological). For
 | Oxidation | Reaction of minerals, especially iron, with oxygen |
 | Hydration | Minerals absorb water, swell and weaken |
 | Solution | Dissolving of soluble minerals |
+| Regolith | Layer of loose, weathered material over solid rock |
+| Granular disintegration | Rock crumbling grain by grain as minerals expand and contract at different rates |
+| Chelation | Organic acids binding and removing metal ions from minerals |
 
 ## Physical weathering
 
@@ -49,13 +53,30 @@ Condensed recall for **3.2 Weathering** (physical, chemical and biological). For
 - **Salt crystallisation:** dry coasts and deserts.
 - **Pressure release:** granite exposed after erosion removes overlying rock, forming sheet joints.
 
+**How each works in more detail:**
+
+- **Freeze-thaw** is most effective where there are many cycles across 0 degrees C, such as high mountains and periglacial areas, rather than places that stay frozen all winter. It produces angular fragments that collect as **scree** at the foot of slopes.
+- **Exfoliation (insolation weathering):** rock is a poor conductor, so the outer layer heats and expands by day and cools and contracts at night more than the interior. Stress builds parallel to the surface and thin shells peel off. Dark minerals heat more than light ones, which can also cause **granular disintegration**. Many geographers argue that small amounts of moisture are needed for this to work well.
+- **Salt crystallisation:** salt solutions enter pores; as water evaporates, crystals grow and force grains apart. Salts can also expand when heated or when they absorb water. It is effective on porous sandstones and on buildings near the sea.
+- **Pressure release (dilatation):** granite forms deep underground under great pressure. When overlying rock is eroded, the granite expands upwards and cracks into curved sheets parallel to the surface. This can help form domes and tors.
+
 ## Chemical weathering
 
 Carbonation affects limestone and chalk; hydrolysis affects granite and its feldspar; oxidation turns iron-bearing rocks red or brown; hydration and solution also weaken rock. Rates rise with temperature and moisture.
 
+**Simple word equations:**
+
+- **Carbonation:** rainwater absorbs carbon dioxide from the air and soil to form weak **carbonic acid**. Calcium carbonate + carbonic acid gives soluble **calcium bicarbonate**, which is carried away in solution. This widens joints and bedding planes in limestone.
+- **Hydrolysis:** feldspar in granite reacts with water (and hydrogen ions) to form **kaolinite clay**, releasing other ions in solution. Quartz is resistant and remains as sand grains. Deep hydrolysis in warm, wet climates can rot granite to depths of many metres.
+- **Oxidation:** iron in minerals combines with oxygen to form iron oxides, giving a red or brown colour and weakening the rock.
+
+Cold water holds more carbon dioxide than warm water, so carbonation can be active in cold climates even though most chemical reactions speed up with heat.
+
 ## Biological weathering
 
 Root growth wedges rock open; burrowing animals expose rock; organic acids from decay and lichens break down minerals (chelation).
+
+Biological weathering often combines physical and chemical action: tree roots grow into cracks and widen them as they thicken; decaying vegetation releases humic acids; and plant roots and soil organisms raise the carbon dioxide content of soil water, which speeds carbonation.
 
 ## Controls
 
@@ -64,12 +85,32 @@ Root growth wedges rock open; burrowing animals expose rock; organic acids from 
 | Climate | Freeze-thaw in cold, wet-dry climates; chemical fastest in hot, humid ones |
 | Rock type and structure | Joints let water in; limestone vulnerable to acids; granite resistant |
 | Vegetation | Roots and acids speed weathering; cover can also protect |
+| Mineral composition | Minerals formed at high temperatures, such as olivine and feldspar, weather faster than quartz |
+| Grain size and porosity | Porous rocks absorb water and salt; coarse-grained rocks can disintegrate grain by grain |
+| Relief and time | Steep slopes remove weathered debris, exposing fresh rock; long exposure deepens the regolith |
+
+**Peltier's diagram (1950)** relates the type and intensity of weathering to mean annual temperature and rainfall:
+
+- strong chemical weathering in hot, wet climates;
+- strong freeze-thaw (frost) weathering where temperatures hover around freezing and there is moisture;
+- slight weathering in very cold or very dry climates.
+
+It is a generalisation: rock type and local conditions also matter.
+
+## Annotated model paragraph
+
+*"Explain why chemical weathering is more rapid in humid tropical climates."*
+
+> High temperatures speed chemical reactions such as hydrolysis (**temperature**). Abundant rainfall supplies the water needed for those reactions and removes the products (**moisture**). Dense vegetation adds organic acids and carbon dioxide to soil water (**biological factor**). As a result, deep regolith develops over granite (**outcome**).
 
 ## Exam traps
 
 - Weathering is not erosion: no movement of material.
 - Do not write "freeze-thaw" for warm climates.
 - Link process to rock type: carbonation needs calcium carbonate.
+- Freeze-thaw needs many cycles, not a long period below freezing.
+- Explain weathering processes as a sequence of steps, not just by naming them.
+- Use the climate control to explain which process dominates, not to suggest only one process ever occurs.
 
 ## Self-test
 
@@ -79,8 +120,14 @@ Root growth wedges rock open; burrowing animals expose rock; organic acids from 
 4. Where is exfoliation common?
 5. Give one form of biological weathering.
 6. Why is chemical weathering fastest in warm, wet climates?
+7. Write a word equation for carbonation.
+8. What does hydrolysis of feldspar produce?
+9. How does pressure release form sheet joints?
+10. Why is salt crystallisation effective on coasts and in deserts?
+11. What does Peltier's diagram show?
+12. Why does quartz remain after granite is weathered?
 
-**Answers:** 1. In situ breakdown of rock without transport. 2. Water in cracks and temperatures that cross 0 degrees C repeatedly. 3. Limestone, chalk or other calcium carbonate rocks. 4. Bare rock in deserts with large daily temperature ranges. 5. Root wedging, burrowing or organic acids. 6. Reaction rates rise with temperature and water is plentiful.
+**Answers:** 1. In situ breakdown of rock without transport. 2. Water in cracks and temperatures that cross 0 degrees C repeatedly. 3. Limestone, chalk or other calcium carbonate rocks. 4. Bare rock in deserts with large daily temperature ranges. 5. Root wedging, burrowing or organic acids. 6. Reaction rates rise with temperature and water is plentiful. 7. Calcium carbonate + carbonic acid gives calcium bicarbonate (in solution). 8. Kaolinite clay, with ions removed in solution. 9. Removal of overlying rock lets granite expand upwards, cracking it parallel to the surface. 10. Salt is plentiful from sea spray or groundwater, and evaporation is high, so crystals grow in pores. 11. How weathering type and intensity vary with mean annual temperature and rainfall. 12. It is chemically resistant.
 
 ## Related resources
 

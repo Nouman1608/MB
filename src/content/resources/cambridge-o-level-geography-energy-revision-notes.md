@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -90,6 +91,34 @@ fuelwood as countries develop.
   criticised for flooding highland wilderness.
 - Still imports oil for transport and fishing.
 
+## Second case study outline: Pakistan
+
+- **Fossil fuels**: natural gas from fields such as **Sui** in Balochistan (discovered in 1952)
+  was long the main domestic fuel for homes and industry; as domestic output fell, imports of oil
+  and liquefied natural gas (LNG) rose. Coal from the **Thar** field in Sindh is now mined for power.
+- **HEP**: large dams at **Tarbela** (Indus) and **Mangla** (Jhelum) supply electricity as well as
+  irrigation water; output falls when river flow is low in winter.
+- **Nuclear**: plants at Chashma and Karachi add steady output.
+- **Solar and wind**: wind farms in the Gharo–Jhimpir corridor in Sindh; rooftop solar panels have
+  spread very quickly in recent years as panel prices fell and grid power became expensive.
+- **Fuelwood**: still widely used for cooking in rural areas, adding to deforestation.
+- **Problems**: dependence on imported fuel uses foreign currency; power cuts (**load-shedding**)
+  at times of high demand; transmission losses and unpaid bills strain the system.
+- **Link to the syllabus**: a middle-income country with rising demand, a mix of fossil fuels,
+  HEP and nuclear, and growing renewables.
+
+## Worked example: evaluating a source
+
+*Evaluate the use of HEP as a source of energy.* Model answer: "HEP is renewable and produces no
+emissions in use, and output can be increased quickly at times of high demand. Reservoirs such as
+Tarbela also store water for irrigation. However, building a large dam is very expensive, floods
+farmland and villages, and displaces people. Silt builds up behind the dam, reducing storage and
+starving farmland downstream of fertile sediment, and output falls in dry seasons. Overall, HEP is
+a valuable, low-carbon source where rivers and suitable valleys exist, but its local costs mean
+small-scale schemes may be more sustainable."
+
+**Evaluate** needs both sides and a supported judgement.
+
 ## Exam traps
 
 - Saying fuelwood is renewable without "if replanted".
@@ -97,6 +126,9 @@ fuelwood as countries develop.
 - One-sided evaluation.
 - Saying nuclear power is unreliable (it is reliable; cost, waste and
   risk are the issues).
+- Describing energy use only in total; compare use **per person** too.
+- Case studies with no named power stations, fields or dams.
+- Forgetting that renewables still have environmental impacts when built.
 
 ## Self-test
 
@@ -107,6 +139,11 @@ fuelwood as countries develop.
 5. Why can Iceland use so much geothermal energy?
 6. A country produces 60 units of electricity, 15 from wind. What
    percentage is this, and what pie chart angle?
+7. Name one gas field and one coal field in Pakistan.
+8. Why has Pakistan's dependence on imported fuel become a problem?
+9. Give one reason rooftop solar has spread quickly in Pakistan.
+10. Why can HEP output fall in winter in Pakistan?
+11. What does load-shedding mean?
 
 **Answers:** 1. Coal, oil, natural gas. 2. It uses uranium, a mined
 resource that will eventually run out. 3. It is free or cheap to
@@ -114,6 +151,12 @@ collect, and many rural areas have no electricity grid. 4. Benefit:
 reliable, controllable output with no emissions in use; disadvantage:
 the reservoir floods land and displaces people. 5. It lies on the
 Mid-Atlantic Ridge, a plate boundary where hot rocks are close to the
-surface. 6. 15 / 60 x 100 = 25%; 25 x 3.6 = 90 degrees.
+surface. 6. 15 / 60 x 100 = 25%; 25 x 3.6 = 90 degrees. 7. Gas: Sui
+(Balochistan); coal: Thar (Sindh). 8. Imports must be paid for in
+foreign currency, so rising world prices raise costs and supply can be
+interrupted. 9. Any one: falling panel prices; high grid electricity
+prices; frequent power cuts. 10. Rivers carry less water in winter,
+before snow and glacier melt increases in summer. 11. Planned power cuts
+when demand is greater than the electricity supply.
 
 Next, try the [Energy practice questions](/resources/cambridge-o-level-geography-energy-practice/).

@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 reviewNote: "2026-11-08: new overview practice page written only from the IB DP Computer Science subject brief (first assessment 2027); questions test the brief's four-part process, not the full guide's detailed outcomes; please review; 2026-11-08: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-08
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -56,6 +57,24 @@ These questions practise the computational thinking process as the IB's public s
 
 **7.** The internal assessment requires students to develop a computational solution to a real-world problem of their own choosing. Explain how each of the four abilities would be used in the IA. **[4]**
 
+## Section C
+
+**8.** A cinema wants a program that calculates the cost of a booking. Adult tickets cost 9.00, child tickets cost 6.00, and a booking of 10 or more tickets gets 10% off the total.
+
+**(a)** Write two testable success criteria for the program. **[2]**
+**(b)** Describe one boundary test for the discount, giving the input and the expected output. **[2]**
+
+**9.** Distinguish between testing a solution and evaluating it. **[2]**
+
+**10.** A program must find the student with the highest mark in a class test.
+
+**(a)** State the two items of data about each student that the algorithm needs. **[2]**
+**(b)** Describe, in steps, a general algorithm that finds the highest mark, and explain how one change would make it find the lowest mark instead. **[4]**
+
+**11.** A student writes the success criterion "The program should be fast." Explain why this is a weak success criterion and rewrite it so that it can be tested. **[2]**
+
+**12.** Explain why evaluating a solution can lead back to an earlier step of the computational thinking process. **[2]**
+
 ## Answers
 
 **1.** Specify problems in terms of their computational context and determine success criteria [1]; decompose complex real-world problems into more manageable problems [1]; abstract problems and generalize them to enable algorithmic thinking [1]; test and evaluate solutions for improvements [1].
@@ -76,12 +95,27 @@ These questions practise the computational thinking process as the IB's public s
 
 **7.** One mark per ability linked to the IA [4]: specify the client's problem and agree success criteria; decompose it into parts that can be designed and programmed; abstract the essential data and generalize the processing into algorithms; test the product against the success criteria and evaluate it, recommending improvements.
 
+**8. (a)** Any two testable criteria [1 each], e.g. a booking of 2 adults and 1 child costs 24.00; a booking of 10 or more tickets costs exactly 90% of the full price; a booking of 9 tickets gets no discount.
+**(b)** A test at the boundary of 10 tickets, e.g. 10 adult tickets (or 9 tickets as the value just below) [1], with the correct expected output: 10 adults cost 90.00 before discount, so 81.00 is expected; 9 adults with no discount also cost 81.00 [1].
+
+**9.** Testing checks whether the solution works correctly, by running it with planned inputs and comparing actual with expected results against the success criteria [1]. Evaluating judges how well the solution solves the original problem overall and identifies strengths, limitations and improvements [1].
+
+**10. (a)** The student's name (or ID) [1] and their mark [1].
+**(b)** Store the first student's name and mark as the best so far [1]; go through each remaining student in turn [1]; if their mark is greater than the best so far, replace the best with that student [1]; after the last student, output the best name and mark. Changing the comparison from "greater than" to "less than" finds the lowest mark, which shows the algorithm is general [1].
+
+**11.** "Fast" cannot be measured, so there is no standard a test could pass or fail against [1]. A testable version gives a measurable limit, e.g. "a search of 1,000 member records displays its result within one second" [1].
+
+**12.** Evaluation may show that the solution does not meet a success criterion or could be improved [1], so the problem may need to be re-specified, decomposed differently or redesigned, and the new version then tested again, which makes the process a repeating cycle [1].
+
 ## Where marks are usually lost
 
 - Success criteria that cannot be tested ("easy to use", "works properly").
 - Listing steps of decomposition that are just restatements of the whole problem.
 - Calling abstraction "hiding" without saying what detail is removed and why.
 - Testing only expected cases, with no boundary or empty-input tests.
+- Choosing a boundary test without stating the expected output, so the test cannot show a pass or a fail.
+- Describing an algorithm for one data set ("compare 56 with 72") instead of in general terms that work for any list.
+- Confusing testing (does it work?) with evaluation (how well does it solve the problem, and what could be better?).
 
 ## Frequently asked questions
 

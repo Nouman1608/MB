@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -41,10 +42,49 @@ places and networks). For the full explanation, read the
 Physical geography rarely decides outcomes alone, because technology and policy can overcome many
 barriers, but it shapes starting conditions.
 
+## Political influences in more detail
+
+| Influence | Example | Effect on interaction |
+|---|---|---|
+| Trading blocs | The EU single market (1993), USMCA (which replaced NAFTA in 2020), Mercosur, the African Continental Free Trade Area (trading from 2021) | Lower tariffs and shared rules raise trade between members, but can divert trade from outsiders |
+| Special Economic Zones | Shenzhen, China (1980) | Tax breaks and infrastructure attract foreign investment |
+| Leaving a bloc | The UK left the EU on 31 January 2020 | New customs checks and paperwork added friction to UK-EU trade |
+| Protectionism | Rising tariffs between the USA and China from 2018 | Firms rerouted supply chains through third countries |
+| Open borders | The Schengen Area allows passport-free travel between most participating European countries | Easier movement of people, tourists and workers |
+| Sanctions | Western sanctions on Russia after 2022 | Cut access to finance, technology and some markets |
+
+**Colonial history and language:** former colonial ties still shape migration, trade and media
+flows, for example between France and francophone West Africa, or the UK and Commonwealth countries.
+A shared language reduces the cost of doing business.
+
+## Physical influences in more detail
+
+- **Landlocked states:** the UN recognises a group of **landlocked developing countries** that face
+  extra transport costs and depend on neighbours' ports and good relations. Bolivia lost its
+  coastline to Chile in the War of the Pacific (1879 to 1884) and still relies on Chilean and other
+  foreign ports. Ethiopia has used Djibouti's port for most of its trade since its border war with
+  Eritrea (1998 to 2000), and a new electric railway to Djibouti opened in the late 2010s.
+- **Counter-example:** Switzerland is landlocked but very wealthy and well connected, showing that
+  policy, finance, skills and good relations with neighbours can outweigh physical location.
+- **Strategic location:** Singapore sits on the Strait of Malacca, one of the world's busiest
+  shipping lanes, which helped it become a global port and financial hub.
+- **Canals:** the Suez Canal (opened 1869) and Panama Canal (1914) are human responses to physical
+  barriers. Panama's canal depends on rainfall-fed lakes for its locks; drought in 2023 forced limits
+  on the number of ships passing through, a reminder that physical conditions still matter.
+- **Climate change and the Arctic:** shrinking sea ice is opening the Northern Sea Route along
+  Russia's coast for longer each summer, which could shorten some Asia-Europe journeys.
+- **Resource endowment:** oil, gas and minerals draw investment and trade (for example Gulf states)
+  but can tie a country to volatile prices.
+
 ## Distance, barriers and filters
 
 - Remote or landlocked places often face higher transport costs and lower participation in trade.
 - **Barriers and filters:** tariffs, border controls, censorship and conflict slow or block flows.
+
+A **barrier** stops a flow; a **filter** lets some flows through and blocks others. Visa systems
+filter migrants by skill; internet censorship filters information by content; tariffs filter goods by
+type. **Distance decay** is the general tendency for interaction to fall as distance rises, though
+time-space compression has weakened it for information and finance much more than for bulky goods.
 
 ## Gravity model
 
@@ -58,14 +98,32 @@ Interaction between two places is proportional to the **product of their sizes**
 - C is smaller than B but nearer, so the model predicts more A-C interaction.
 - Doubling A-B distance (d = 6): 6.3 / 36 = 0.175, a quarter of the original.
 
+**Further practice (invented figures):** if the A-C distance halved to d = 1, interaction would be
+3.78 / 1 = 3.78, four times its original value of 0.945. If C's population doubled to 1.8 million at
+the original distance, interaction would be (4.2 x 1.8) / 4 = 1.89, exactly double. Size scales the
+result in proportion; distance scales it by the square.
+
+A useful adaptation is to replace distance in kilometres with **travel time or cost**, because a
+high-speed rail link or low-cost airline can make a far city "closer" than a near one.
+
 **Limits:** ignores political borders, language, transport quality and trade agreements, so real
 pairs can interact more or less than predicted.
+
+## Model paragraph (to what extent)
+
+*"Physical geography still influences connection: Ethiopia's lack of a coastline makes it dependent
+on Djibouti's port and adds cost to its trade. However, Switzerland is also landlocked yet among the
+best-connected economies in the world, because stable government, skilled labour and agreements with
+neighbouring states outweigh its location. Human factors therefore usually decide how far a physical
+disadvantage limits interaction."*
 
 ## Exam traps
 
 - Suggesting that physical geography alone determines connection.
 - Forgetting to square the distance in the gravity model.
 - Applying the model without commenting on its assumptions.
+- Treating barriers and filters as the same.
+- Giving a trading bloc as an example without saying what it changed.
 
 ## Self-test
 
@@ -74,11 +132,22 @@ pairs can interact more or less than predicted.
 3. What happens to predicted interaction if distance doubles?
 4. Give one limit of the gravity model.
 5. Name one barrier or filter.
+6. Distinguish a barrier from a filter.
+7. Why is Switzerland a useful counter-example?
+8. How did drought affect the Panama Canal in 2023?
+9. What happens to predicted interaction if one place's population doubles?
+10. Why might travel time be better than distance in the gravity model?
+11. Give one effect of a trading bloc on non-members.
 
 **Answers:** 1. Human: trade agreements, infrastructure; physical: coasts, mountain barriers. 2.
 Interaction = (P1 x P2) / d squared. 3. It falls to a quarter. 4. It ignores borders, language or
-trade agreements. 5. For example a tariff or border control.
+trade agreements. 5. For example a tariff or border control. 6. A barrier stops a flow; a filter lets
+some flows through and blocks others. 7. It is landlocked but wealthy and well connected, so physical
+location is not decisive. 8. Low water levels forced limits on the number of ships passing through.
+9. It doubles. 10. Transport links change how accessible places really are. 11. Trade can be diverted
+away from them.
 
 ## Related resources
 
 - [Power, places and networks study guide](/resources/ib-ib-dp-geography-power-places-networks-study-guide/)
+- [Global networks and flows revision notes](/resources/ib-ib-dp-geography-global-networks-and-flows-revision-notes/)

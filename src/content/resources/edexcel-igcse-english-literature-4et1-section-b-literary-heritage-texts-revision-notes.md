@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -37,6 +38,40 @@ an unmarked prescribed edition. Allow about 45 minutes. For the full explanation
 | Book | Prescribed edition, completely unmarked |
 | Time | About 45 of the paper's 90 minutes |
 | Unique feature | AO4 context: not assessed in Section A |
+
+## Ten, ten and ten
+
+- **AO1 (10):** an informed personal response, a clear argument and precise reference across the
+  whole text.
+- **AO2 (10):** analysis of language, form and structure: soliloquies, imagery, narrative voice,
+  chapter or scene placement.
+- **AO4 (10):** the relationship between the text and its contexts of writing and reception, tied
+  to the moments you analyse.
+
+Equal weighting means context needs to appear in most paragraphs, but never at the expense of the
+analysis that earns AO2.
+
+## Themes and the moments that carry them
+
+Use these to find evidence quickly in your unmarked edition.
+
+| Text | Theme | Moments to locate |
+|---|---|---|
+| *Romeo and Juliet* | Conflict and public violence | The opening brawl (Act 1 Scene 1); the duels (Act 3 Scene 1) |
+| | Fate | The Prologue; Romeo's foreboding before the feast (Act 1 Scene 4) |
+| *Macbeth* | Ambition | Macbeth's soliloquy weighing the murder (Act 1 Scene 7) |
+| | Kingship | Malcolm testing Macduff in England (Act 4 Scene 3) |
+| *The Merchant of Venice* | Prejudice | Shylock recalling how Antonio has insulted him (Act 1 Scene 3) |
+| | Appearance and reality | The caskets chosen by Morocco (Act 2 Scene 7) and Bassanio (Act 3 Scene 2) |
+| | Justice and mercy | Portia's speech on mercy at the trial (Act 4 Scene 1) |
+| *Pride and Prejudice* | Marriage and money | Charlotte Lucas accepts Mr Collins (Chapter 22) |
+| | Self-knowledge | Elizabeth's response to Darcy's letter (Chapter 36) |
+| *Great Expectations* | Class and shame | Joe's awkward visit to Pip in London (Chapter 27) |
+| | Guilt and loyalty | Magwitch's return (Chapter 39); Miss Havisham's fire (Chapter 49) |
+| *The Scarlet Letter* | Sin and hypocrisy | Hester on the scaffold before the crowd (Chapter 2); Dimmesdale's vigil (Chapter 12) |
+| | The outsider | Pearl, and the community's view of her (Chapter 6) |
+
+Chapter numbering can vary slightly between editions of the novels, so check yours.
 
 ## Key terms
 
@@ -68,6 +103,22 @@ Learn two or three of these for your text and practise linking each to a specifi
 matters for the period or a later reader) + **link back** to the question. Every paragraph, not just
 the last one.
 
+## Annotated model paragraph
+
+Question: *Explore how Austen presents attitudes to marriage in* Pride and Prejudice.
+
+> Austen uses Charlotte Lucas's engagement to show that, for a woman without fortune, marriage
+> could be a practical necessity rather than a romantic choice. **[AO1: argument that answers the
+> question]** In Chapter 22 the narrator gives Charlotte's reasoning almost without comment:
+> marriage is described as a woman's "preservative from want", a phrase that makes a husband sound
+> like protection against poverty rather than a partner. **[AO2: narrative voice and word choice]**
+> Because property in families like the Bennets' could pass to a male heir, an unmarried
+> gentlewoman risked dependence on relatives, so Charlotte's calculation would have struck many of
+> Austen's first readers as sensible, if unromantic. **[AO4: social context, integrated with the
+> moment]** Placing this engagement only days after Elizabeth has refused the same man sharpens the
+> contrast between the two friends, and invites the reader to judge which choice the novel finally
+> rewards. **[AO2: structure; AO1: personal response]**
+
 ## Choosing the question in two minutes
 
 - Can I name three moments from different parts of the text for this question?
@@ -88,6 +139,9 @@ paragraph, not the context.
 - Biography that does not explain anything in the text.
 - Copying long quotations from the open book instead of analysing a few words.
 - Calling characters "real people" instead of the writer's constructions.
+- Confusing the time a text is set with the time it was written.
+- Using only one kind of context throughout the essay.
+- Presenting a modern judgement as fact rather than as a reading.
 
 ## Self-test
 
@@ -98,6 +152,11 @@ paragraph, not the context.
 5. Why should you aim to use the beginning, a turning point and the ending of the text?
 6. What may and may not be in your exam copy of the set text?
 7. What is "reception" context? Give one example.
+8. Which scene of *Macbeth* contains his soliloquy weighing the murder of Duncan?
+9. Which two casket scenes would support an essay on appearance and reality?
+10. In the model paragraph, why does the placement of Charlotte's engagement matter?
+11. Which chapter of *Great Expectations* shows Pip's shame at Joe's visit?
+12. Why must context appear in most paragraphs, not just one?
 
 **Answers:** 1. Ten. 2. Bolt-on context sits beside the analysis without explaining it; integrated
 context explains why a specific moment or method matters. 3. The seventeenth-century Puritan setting
@@ -106,7 +165,11 @@ to Mr Collins explains Mrs Bennet's urgency to see her daughters married. 5. It 
 the whole text and awareness of structure (AO1 and AO2). 6. The prescribed edition may be used, but
 it must be completely unmarked: no notes or highlighting. 7. How different audiences respond
 at different times, for example a modern audience reading Shylock as a victim of prejudice more
-readily than many Elizabethan audiences might have.
+readily than many Elizabethan audiences might have. 8. Act 1 Scene 7. 9. Morocco's choice
+(Act 2 Scene 7) and Bassanio's choice (Act 3 Scene 2). 10. It comes only days after Elizabeth's
+refusal of the same man, so the two friends' choices are contrasted and the reader is invited to
+judge them. 11. Chapter 27. 12. AO4 is worth a third of the marks, so context needs to explain moments
+throughout the essay, as long as it does not crowd out AO2 analysis.
 
 ## Related pages
 
