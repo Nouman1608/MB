@@ -21,7 +21,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   d.forEach(([h, q, f], i) => {
     const x = 30 + i * 285, w = 270;
     b += box(x, 110, w, 136, f, C.ink, 2.5, 12) + badge(x + 32, 146, 18, String(i + 1), '#fff') + t(x + 60, 153, h, { size: 20, weight: 700 }) + tl(x + 20, 186, wrap(q, 32), { size: 15.5 }, 20);
-    void 0;
+
     b += arrow(x + w / 2, 250, 450 + (i - 1) * 70, 292, { w: 3 });
   });
   b += box(250, 296, 400, 90, C.mustard, C.ink, 3, 14) + badge(290, 341, 18, '4', '#fff') + t(470, 334, 'Register', { size: 22, weight: 700, anchor: 'middle' }) + t(470, 362, 'follows from 1–3, not from the topic', { size: 15.5, anchor: 'middle' });

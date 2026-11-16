@@ -157,7 +157,7 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   const lane = (y, title, items, f, e) => {
     let s = R(30, y, 840, 40, f, e, { rx: 20 }) + T(50, y + 27, title, { size: 18, weight: 700 });
     const w = 197, h = Math.max(...items.map(([a, c]) => cardH(w, { title: a, body: c, bs: 15, ts: 17 })));
-    items.forEach(([a, c], i) => { s += card(30 + i * 214.3, y + 54, w, { title: a, body: c, bs: 15, ts: 17, h, bfill: C.ink }).s; if (i < items.length - 1) s += arrow(30 + i * 214.3 + w + 2, y + 54 + h / 2, 30 + (i + 1) * 214.3 - 2, y + 54 + h / 2, { w: 3 }); });
+    items.forEach(([a, c], i) => { s += card(30 + i * 214.3, y + 54, w, { title: a, body: c, bs: 15, ts: 17, h, bfill: C.ink }).s; if (i < items.length - 2) s += arrow(30 + i * 214.3 + w + 2, y + 54 + h / 2, 30 + (i + 1) * 214.3 - 2, y + 54 + h / 2, { w: 3 }); });
     return { s, h: h + 54 };
   };
   const L = lane(112, 'London', [

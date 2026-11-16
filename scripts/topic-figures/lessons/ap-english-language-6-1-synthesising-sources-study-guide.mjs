@@ -234,10 +234,10 @@ fig('03-quote-paraphrase-summarise', 'Bringing source material in', 'Using the f
   ];
   let y = y0;
   R.forEach(([h, w, ex], i) => {
-    const b = box(250, y, 620, { body: ex, size: 16, pad: 14, fill: C.panel });
-    const hh = Math.max(b.h, 76);
-    s += box(30, y, 200, { head: h, body: w, size: 14.5, headSize: 18, pad: 12, h: hh, vc: true, fill: [C.cream, C.tealLight, C.panel][i], edge: C.ink }).s;
-    s += box(250, y, 620, { body: ex, size: 16, pad: 14, h: hh, vc: true }).s;
+    const lb = { head: h, body: w, size: 15, headSize: 18, pad: 12, fill: [C.cream, C.tealLight, C.panel][i], edge: C.ink };
+    const hh = Math.max(box(290, y, 580, { body: ex, size: 16, pad: 14 }).h, box(30, y, 245, lb).h);
+    s += box(30, y, 245, { ...lb, h: hh, vc: true }).s;
+    s += box(290, y, 580, { body: ex, size: 16, pad: 14, h: hh, vc: true }).s;
     y += hh + 10;
   });
   y += 16;
