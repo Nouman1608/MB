@@ -6,7 +6,7 @@
   "after": "## 2.4 Climate and biomes",
   "alt": "Two equal beams of sunlight hit the Earth. Near the equator the beam strikes at a high angle onto a small area after a short path through the atmosphere. At high latitude the same beam strikes at a low angle, spreads over a larger area and passes through more atmosphere. Ice near the pole reflects more.",
   "caption": "Curvature spreads the same energy over more ground, and the longer path loses more.",
-  "bytes": 103796
+  "bytes": 109396
  },
  {
   "file": "ib-dp-ess-climate-biomes-succession--02-tricellular-model.webp",
@@ -15,7 +15,7 @@
   "after": "## 2.4 Climate and biomes",
   "alt": "Cross-section from the equator to the pole showing three circulation cells. In the Hadley cell air rises at the equator (low pressure, heavy rain, ITCZ) and sinks at about 30° (high pressure, deserts). In the Ferrel cell surface air flows poleward to about 60°, where it rises at the polar front with frequent rain. In the polar cell cold air sinks over the pole.",
   "caption": "Rising air brings low pressure and rain; sinking air brings high pressure and drought.",
-  "bytes": 71018
+  "bytes": 70794
  },
  {
   "file": "ib-dp-ess-climate-biomes-succession--03-biomes-temperature-precipitation.webp",
@@ -33,16 +33,16 @@
   "after": "## 2.4 Climate and biomes",
   "alt": "Climate graph for fictional station K. Monthly rainfall bars range from 180 to 310 mm and the temperature line stays between 26.4 and 27.3 °C. Totals: 3020 mm a year, mean 26.8 °C, range 0.9 °C, driest month 180 mm, matching tropical rainforest.",
   "caption": "High temperature, a tiny range and rain in every month point to tropical rainforest.",
-  "bytes": 78172
+  "bytes": 75784
  },
  {
   "file": "ib-dp-ess-climate-biomes-succession--05-succession-sere.webp",
   "width": 900,
-  "height": 880,
+  "height": 910,
   "after": "## 2.5 Zonation, succession and change in ecosystems",
   "alt": "Five stages of primary succession: bare rock, pioneer lichens and mosses, then seral stages with more and larger plants, ending in a climax community. Soil gets deeper at each stage. Secondary succession enters part-way along, where soil already exists. Wedges show soil depth, biomass and food-web complexity increasing.",
   "caption": "Each seral stage changes conditions so the next species can establish.",
-  "bytes": 113898
+  "bytes": 115668
  },
  {
   "file": "ib-dp-ess-climate-biomes-succession--06-productivity-succession.webp",
@@ -56,10 +56,10 @@
  {
   "file": "ib-dp-ess-climate-biomes-succession--07-disturbance-plagioclimax.webp",
   "width": 900,
-  "height": 730,
+  "height": 715,
   "after": "## 2.5 Zonation, succession and change in ecosystems",
-  "alt": "Schematic graph of biomass over time. Succession rises towards a climax plateau; a disturbance removes biomass, then faster secondary succession returns it towards climax. A dashed branch levels off below climax as a plagioclimax held by grazing or burning, and rises again when grazing stops.",
-  "caption": "Human activity can hold succession below climax; disturbance resets it.",
-  "bytes": 91664
+  "alt": "Two schematic graphs of biomass over time. Left: succession reaches climax, a disturbance removes biomass, and faster secondary succession returns it to climax. Right: grazing or burning holds the community at a plagioclimax below climax; when it stops, secondary succession resumes towards climax.",
+  "caption": "Disturbance resets succession; human activity can hold it below climax.",
+  "bytes": 96926
  }
 ]

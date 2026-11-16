@@ -72,7 +72,7 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
 // bulleted list, each item wrapped to width w; returns {svg, h}
 const bullets = (x, y, items, w, o = {}) => {
   const size = o.size || 16.5, lh = o.lh || Math.round(size * 1.3), gap = o.gap ?? 8; let s = '', yy = y;
-  for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, '•', { size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
+  for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, o.mark || '•', { size: o.mark ? size + 3 : size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
   return { svg: s, h: yy - y };
 };
 // ---- end helpers ----
@@ -161,7 +161,7 @@ const MANTLE = '#f1d3b8', MAGMA = '#d9772f', OCEAN = C.rockDark, CONT = C.rock;
 {
   const P = (x0, y0, kind) => {
     const G = y0 + 330, cx = x0 + 205;
-    let s = panel(x0, y0, 410, 640) + `<rect x="${x0 + 15}" y="${G}" width="380" height="95" fill="#d7dde0"/>` + line(x0 + 15, G, x0 + 395, G, { w: 2.5 });
+    let s = panel(x0, y0, 410, 610) + `<rect x="${x0 + 15}" y="${G}" width="380" height="95" fill="#d7dde0"/>` + line(x0 + 15, G, x0 + 395, G, { w: 2.5 });
     if (kind === 'strato') {
       s += t(x0 + 24, y0 + 40, 'Strato-volcano', { size: 22, weight: 700 }) + t(x0 + 24, y0 + 64, 'composite cone', { size: 16, fill: C.muted });
       for (let k = 0; k < 5; k++) { const f = 1 - k * 0.17; s += `<path d="M${cx - 145 * f},${G} L${cx - 20},${y0 + 140 + (1 - f) * 0} L${cx + 20},${y0 + 140} L${cx + 145 * f},${G} Z" fill="${k % 2 ? '#b9ab88' : C.rock}" stroke="${k ? 'none' : C.ink}" stroke-width="2.5"/>`; }
@@ -169,15 +169,15 @@ const MANTLE = '#f1d3b8', MAGMA = '#d9772f', OCEAN = C.rockDark, CONT = C.rock;
       s += path(`M${cx},${G + 40} L${cx},${y0 + 156}`, { stroke: MAGMA, w: 9 }) + path(`M${cx},${y0 + 285} L${cx + 85},${y0 + 236}`, { stroke: MAGMA, w: 6 });
       s += cloud(cx, y0 + 108, 0.55, '#9aa6b2');
       s += `<ellipse cx="${cx}" cy="${G + 52}" rx="70" ry="24" fill="${MAGMA}" stroke="${C.ink}" stroke-width="2.5"/>`;
-      s += tag(cx + 52, y0 + 102, 'ash cloud', { fill: C.ink }) + tag(cx + 28, y0 + 158, 'crater') + tag(cx + 92, y0 + 232, 'secondary vent', { size: 14.5 }) + tag(x0 + 28, y0 + 238, 'main vent') + line(x0 + 108, y0 + 233, cx - 6, y0 + 233, { w: 2 }) +
-        tag(cx, G - 16, 'layers of ash and lava', { anchor: 'middle', size: 14.5 }) + tag(cx + 78, G + 58, 'magma chamber', { size: 14.5, bg: '#d7dde0', op: 1 });
+      s += tag(cx + 52, y0 + 102, 'ash cloud', { fill: C.ink }) + tag(cx + 28, y0 + 158, 'crater') + tag(cx + 98, y0 + 224, 'secondary', { size: 14.5 }) + tag(cx + 98, y0 + 243, 'vent', { size: 14.5 }) + tag(x0 + 28, y0 + 238, 'main vent') + line(x0 + 108, y0 + 233, cx - 6, y0 + 233, { w: 2 }) +
+        tag(cx, G - 16, 'layers of ash and lava', { anchor: 'middle', size: 14.5 }) + tag(cx + 78, G + 50, 'magma', { size: 14.5, bg: '#d7dde0', op: 1 }) + tag(cx + 78, G + 68, 'chamber', { size: 14.5, bg: '#d7dde0', op: 1 });
     } else {
       s += t(x0 + 24, y0 + 40, 'Shield volcano', { size: 22, weight: 700 }) + t(x0 + 24, y0 + 64, 'wide, gently sloping dome', { size: 16, fill: C.muted });
       for (let k = 0; k < 4; k++) { const f = 1 - k * 0.2; s += `<path d="M${cx - 185 * f},${G} Q${cx},${y0 + 230 + (1 - f) * 70} ${cx + 185 * f},${G} Z" fill="${k % 2 ? '#b9ab88' : C.rock}" stroke="${k ? 'none' : C.ink}" stroke-width="2.5"/>`; }
       s += path(`M${cx},${G + 40} L${cx},${y0 + 282}`, { stroke: MAGMA, w: 9 }) + `<path d="M${cx - 16},${y0 + 280} L${cx},${y0 + 290} L${cx + 16},${y0 + 280} Z" fill="${C.panel}" stroke="${C.ink}" stroke-width="2"/>`;
       s += path(`M${cx + 14},${y0 + 284} Q${cx + 90},${y0 + 296} ${cx + 175},${G - 3}`, { stroke: MAGMA, w: 7 });
       s += `<ellipse cx="${cx}" cy="${G + 52}" rx="70" ry="24" fill="${MAGMA}" stroke="${C.ink}" stroke-width="2.5"/>`;
-      s += tag(cx, y0 + 262, 'crater', { anchor: 'middle' }) + tag(cx + 70, y0 + 266, 'runny lava flows far', { size: 14.5, fill: C.rust }) + tag(x0 + 40, G - 12, 'many layers of runny lava', { size: 14.5 }) + tag(cx + 78, G + 58, 'magma chamber', { size: 14.5, bg: '#d7dde0', op: 1 }) + tag(cx - 120, G + 32, 'vent', { bg: '#d7dde0', op: 1 }) + line(cx - 82, G + 27, cx - 6, G + 27, { w: 2 });
+      s += tag(cx, y0 + 262, 'crater', { anchor: 'middle' }) + tag(cx + 80, y0 + 250, 'runny lava', { size: 14.5, fill: C.rust }) + tag(cx + 80, y0 + 268, 'flows far', { size: 14.5, fill: C.rust }) + tag(x0 + 40, G - 12, 'many layers of runny lava', { size: 14.5 }) + tag(cx + 78, G + 50, 'magma', { size: 14.5, bg: '#d7dde0', op: 1 }) + tag(cx + 78, G + 68, 'chamber', { size: 14.5, bg: '#d7dde0', op: 1 }) + tag(cx - 120, G + 32, 'vent', { bg: '#d7dde0', op: 1 }) + line(cx - 82, G + 27, cx - 6, G + 27, { w: 2 });
     }
     const rows = kind === 'strato'
       ? [['Lava', 'thick, viscous, flows a short way'], ['Eruptions', 'explosive: ash, pyroclastic flows'], ['Boundary', 'destructive'], ['Examples', 'Mount Fuji; Mount St Helens']]
@@ -186,7 +186,7 @@ const MANTLE = '#f1d3b8', MAGMA = '#d9772f', OCEAN = C.rockDark, CONT = C.rock;
     return s;
   };
   add('03-volcano-types',
-    svg(900, 780, 'Two kinds of volcano', P(30, 110, 'strato') + P(460, 110, 'shield'), 'Schematic cross-sections, not to scale'),
+    svg(900, 745, 'Two kinds of volcano', P(30, 110, 'strato') + P(460, 110, 'shield'), 'Schematic cross-sections, not to scale'),
     'Two cross-sections. A strato-volcano is a tall, steep cone of alternating ash and lava layers with a magma chamber, main vent, secondary vent, crater and ash cloud; its thick lava erupts explosively at destructive boundaries (Mount Fuji, Mount St Helens). A shield volcano is a wide, gentle dome of runny lava layers that flows far in gentle eruptions at constructive boundaries or hotspots (Mauna Loa).',
     'Thick lava builds steep, explosive cones; runny lava builds wide, gentle shields.',
     '## Types and features of volcanoes');
@@ -210,10 +210,10 @@ const MANTLE = '#f1d3b8', MAGMA = '#d9772f', OCEAN = C.rockDark, CONT = C.rock;
     let m = panel(x, 490, 410, 250) + t(x + 22, 526, title, { size: 19, weight: 700 });
     m += `<rect x="${x + 20}" y="580" width="370" height="140" fill="${C.rock}"/>` + line(x + 20, 580, x + 390, 580, { w: 2.5 });
     const fy = 580 + depth;
-    m += [30, 60, 90].map((r) => `<path d="M${x + 205 - r},${fy} A${r},${r} 0 0 1 ${x + 205 + r},${fy}" fill="none" stroke="${C.olive}" stroke-width="2" stroke-dasharray="6 5"/>`).join('');
+    m += `<defs><clipPath id="cl${x}"><rect x="${x + 20}" y="580" width="370" height="140"/></clipPath></defs><g clip-path="url(#cl${x})">` + [30, 60, 90].map((r) => `<path d="M${x + 205 - r},${fy} A${r},${r} 0 0 1 ${x + 205 + r},${fy}" fill="none" stroke="${C.olive}" stroke-width="2" stroke-dasharray="6 5"/>`).join('') + '</g>';
     m += `<path d="M${x + 205},${fy - 10} l3,7 l8,1 l-6,5 l2,8 l-7,-4 l-7,4 l2,-8 l-6,-5 l8,-1 z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="1.6"/>`;
-    m += strong ? path(`M${x + 120},566 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8`, { stroke: C.rust, w: 3.5 })
-      : path(`M${x + 165},568 l10,-4 l10,4 l10,-4 l10,4 l10,-4 l10,4 l10,-4 l10,4`, { stroke: C.rust, w: 2.5 });
+    m += strong ? path(`M${x + 120},577 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8 l10,-8 l10,8`, { stroke: C.rust, w: 3.5 })
+      : path(`M${x + 165},577 l10,-4 l10,4 l10,-4 l10,4 l10,-4 l10,4 l10,-4 l10,4`, { stroke: C.rust, w: 2.5 });
     m += t(x + 22, 552, strong ? 'more surface damage' : 'less damage at the surface', { size: 16, fill: strong ? C.rust : C.muted, weight: 600 });
     return m;
   };
@@ -232,22 +232,120 @@ const MANTLE = '#f1d3b8', MAGMA = '#d9772f', OCEAN = C.rockDark, CONT = C.rock;
 // 05 Primary and secondary effects
 {
   const block = (y, title, prim, sec) => {
-    let s = panel(30, y, 840, 270) + t(55, y + 40, title, { size: 22, weight: 700 });
-    s += rrect(55, y + 62, 300, 186, C.tealLight, C.tealDark, 2.5, 12) + t(75, y + 92, 'Primary', { size: 18, weight: 700, fill: C.tealDark }) + t(160, y + 92, 'the event itself', { size: 15, fill: C.muted }) + bullets(75, y + 124, prim, 270, { size: 16, gap: 6 }).svg;
-    s += arrow(362, y + 155, 400, y + 155, { w: 4 });
-    s += rrect(405, y + 62, 445, 186, '#f6e6dc', C.rust, 2.5, 12) + t(425, y + 92, 'Secondary', { size: 18, weight: 700, fill: C.rust }) + t(527, y + 92, 'what follows from it', { size: 15, fill: C.muted });
+    let s = panel(30, y, 840, 245) + t(55, y + 40, title, { size: 22, weight: 700 });
+    s += rrect(55, y + 62, 300, 165, C.tealLight, C.tealDark, 2.5, 12) + t(75, y + 92, 'Primary', { size: 18, weight: 700, fill: C.tealDark }) + t(160, y + 92, 'the event itself', { size: 15, fill: C.muted }) + bullets(75, y + 124, prim, 270, { size: 16, gap: 6 }).svg;
+    s += arrow(362, y + 145, 400, y + 145, { w: 4 });
+    s += rrect(405, y + 62, 445, 165, '#f6e6dc', C.rust, 2.5, 12) + t(425, y + 92, 'Secondary', { size: 18, weight: 700, fill: C.rust }) + t(527, y + 92, 'what follows from it', { size: 15, fill: C.muted });
     const half = Math.ceil(sec.length / 2);
     s += bullets(425, y + 124, sec.slice(0, half), 210, { size: 16, gap: 6 }).svg + bullets(640, y + 124, sec.slice(half), 200, { size: 16, gap: 6 }).svg;
     return s;
   };
   let s = block(110, 'Earthquakes', ['Buildings and bridges collapse', 'Deaths and injuries', 'Roads and pipes broken'], ['Fires from broken gas pipes', 'Tsunamis', 'Landslides', 'Disease from damaged water supply', 'Homelessness', 'Economic loss']);
-  s += block(396, 'Volcanoes', ['Lava flows', 'Pyroclastic flows', 'Ash fall', 'Volcanic gases'], ['Lahars (mudflows)', 'Crop and livestock loss', 'Air travel disruption', 'Climate cooling from ash and gas']);
-  s += t(450, 712, 'The same hazard hits harder or softer depending on …', { size: 18, weight: 700, anchor: 'middle' });
+  s += block(371, 'Volcanoes', ['Lava flows', 'Pyroclastic flows', 'Ash fall', 'Volcanic gases'], ['Lahars (mudflows)', 'Crop and livestock loss', 'Air travel disruption', 'Climate cooling from ash and gas']);
+  s += t(450, 660, 'The same hazard hits harder or softer depending on …', { size: 18, weight: 700, anchor: 'middle' });
   const f = ['magnitude', 'depth of focus', 'distance from epicentre', 'population density', 'building quality', 'time of day', 'level of development', 'preparedness'];
-  f.forEach((c, i) => { const x = 30 + (i % 4) * 213, y = 728 + Math.floor(i / 4) * 54; s += pill(x, y, 201, 42, c, { size: 15.5, weight: 600 }); });
+  f.forEach((c, i) => { const x = 30 + (i % 4) * 213, y = 678 + Math.floor(i / 4) * 54; s += pill(x, y, 201, 42, c, { size: 15.5, weight: 600 }); });
   add('05-primary-secondary-effects',
-    svg(900, 850, 'Primary and secondary effects', s),
+    svg(900, 800, 'Primary and secondary effects', s),
     'Two panels. Earthquakes: primary effects are collapsing buildings and bridges, deaths and injuries, and broken roads and pipes; secondary effects are fires, tsunamis, landslides, disease, homelessness and economic loss. Volcanoes: primary effects are lava flows, pyroclastic flows, ash fall and gases; secondary effects are lahars, crop and livestock loss, air travel disruption and climate cooling. Eight factors that change the impact are listed below.',
     'Primary effects come from the event; secondary effects follow from them.',
     '## Effects on people and the environment');
+}
+
+// 06 Hazards and opportunities on one volcano
+{
+  const G = 470;
+  let s = panel(30, 110, 840, 400) + `<rect x="45" y="125" width="810" height="${G - 125}" rx="10" fill="${C.tealLight}"/>` + `<rect x="45" y="${G}" width="810" height="26" fill="#d8e3c6" stroke="${C.ink}" stroke-width="2"/>`;
+  s += `<path d="M290,${G} L430,235 L470,235 L610,${G} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+  s += cloud(430, 180, 0.8, '#9aa6b2') + [[350, 205], [330, 230], [310, 255], [365, 245], [345, 275], [325, 300]].map(([x, y]) => circ(x, y, 3.2, C.muted, C.muted, 1)).join('');
+  s += path(`M440,240 Q410,300 395,350 Q385,400 360,${G - 4}`, { stroke: MAGMA, w: 8 });
+  s += `<path d="M300,${G - 2} Q330,420 360,380 Q350,420 380,430 Q370,450 330,${G - 2} Z" fill="#b8bfc6" stroke="${C.ink}" stroke-width="2"/>`;
+  s += path(`M462,232 q-8,-14 0,-26 q8,-12 0,-24`, { stroke: C.olive, w: 3 });
+  // opportunity side
+  for (let r = 0; r < 3; r++) for (let k = 0; k < 6; k++) s += circ(515 + k * 14 + r * 12, 400 + r * 22, 5, C.grass, C.ink, 1.2);
+  s += `<rect x="660" y="${G - 46}" width="70" height="46" fill="#ffffff" stroke="${C.ink}" stroke-width="2.2"/>` + path(`M680,${G - 50} q-8,-14 0,-26 q8,-12 0,-24 M705,${G - 50} q-8,-14 0,-26 q8,-12 0,-24`, { stroke: C.muted, w: 3 });
+  s += person(780, G, 0.9) + person(805, G, 0.9, C.olive);
+  // labels
+  const L = (x, y, a, b, col, anchor = 'start') => t(x, y, a, { size: 17.5, weight: 700, fill: col, anchor }) + (b ? t(x, y + 21, b, { size: 15, fill: C.muted, anchor }) : '');
+  s += t(60, 152, 'HAZARDS', { size: 16, weight: 700, fill: C.rust });
+  s += L(60, 190, 'Ash fall', 'from the ash cloud', C.rust) + L(60, 300, 'Lava flows', '', C.rust) + line(160, 296, 385, 360, { w: 1.8, color: C.rust }) + L(60, 400, 'Pyroclastic', 'flows', C.rust) + line(165, 396, 320, 430, { w: 1.8, color: C.rust }) + L(500, 168, 'Volcanic gases', '', C.olive) + line(498, 172, 466, 200, { w: 1.8, color: C.olive });
+  s += t(840, 152, 'OPPORTUNITIES', { size: 16, weight: 700, fill: C.tealDark, anchor: 'end' });
+  s += L(840, 260, 'Fertile soils', 'e.g. vineyards, orchards on Etna', C.tealDark, 'end') + line(700, 290, 590, 400, { w: 1.8, color: C.tealDark });
+  s += L(840, 340, 'Geothermal energy', 'e.g. Iceland: power and heating', C.tealDark, 'end') + line(745, 370, 715, 410, { w: 1.8, color: C.tealDark });
+  s += t(840, 420, 'Tourism', { size: 17.5, weight: 700, fill: C.tealDark, anchor: 'end' });
+  s += card(30, 530, 410, 120, 'Also: minerals', 'Sulphur and volcanic rock for building materials.', { fill: C.tealLight, edge: C.tealDark, ts: 19 });
+  s += card(460, 530, 410, 120, 'Why people stay', 'Family and land are there, eruptions are infrequent, and they trust monitoring and warnings.', { fill: C.cream, edge: C.olive, ts: 19 });
+  add('06-volcano-hazards-opportunities',
+    svg(900, 675, 'Living with a volcano: risks and rewards', s),
+    'A volcano with hazards on one side (ash fall from an ash cloud, lava flows, pyroclastic flows and volcanic gases) and opportunities on the other (fertile soils with vineyards and orchards as on Mount Etna, geothermal energy as in Iceland, and tourism). Below, minerals such as sulphur and volcanic rock, and reasons people stay: family and land, infrequent eruptions and trust in warnings.',
+    'People weigh rare hazards against everyday benefits.',
+    '## Why people live near volcanoes: hazards and opportunities');
+}
+
+// 07 Reducing the impacts
+{
+  let s = panel(30, 110, 410, 480) + t(55, 148, 'Earthquake-resistant building', { size: 20, weight: 700 });
+  const G = 420;
+  s += `<rect x="45" y="${G}" width="380" height="85" fill="${C.rock}"/>` + line(45, G, 425, G, { w: 2.5 });
+  s += `<rect x="95" y="180" width="140" height="${G - 190}" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/>`;
+  for (let k = 1; k < 5; k++) s += line(95, 180 + k * 46, 235, 180 + k * 46, { w: 1.6, color: C.muted });
+  s += line(95, 180, 235, G - 10, { w: 3, color: C.tealDark }) + line(235, 180, 95, G - 10, { w: 3, color: C.tealDark });
+  [110, 165, 220].forEach((x) => { s += `<rect x="${x - 10}" y="${G - 10}" width="20" height="12" rx="5" fill="${C.ink}"/>`; });
+  [110, 165, 220].forEach((x) => { s += line(x, G + 4, x, G + 78, { w: 5, color: C.rockDark }); });
+  s += path(`M235,${G + 28} q12,-10 24,0 q12,10 24,0 q12,-10 24,0 q12,10 24,0`, { stroke: C.blue, w: 5 });
+  s += t(255, 220, 'cross-bracing', { size: 16.5, weight: 700, fill: C.tealDark }) + line(252, 215, 205, 235, { w: 1.6, color: C.tealDark });
+  s += t(255, 380, 'rubber shock', { size: 16.5, weight: 700 }) + t(255, 400, 'absorbers', { size: 16.5, weight: 700 }) + line(252, 395, 228, 408, { w: 1.6 });
+  s += t(345, G + 34, 'flexible', { size: 16.5, weight: 700, fill: C.blue }) + t(345, G + 54, 'pipes', { size: 16.5, weight: 700, fill: C.blue });
+  s += tag(240, G + 72, 'deep foundations', { size: 16, bg: C.rock, op: 1 }) + line(235, G + 66, 222, G + 60, { w: 1.6 });
+  s += t(55, 540, 'Earthquakes cannot be reliably predicted.', { size: 16, weight: 700, fill: C.rust }) + t(55, 565, 'Seismometers detect activity.', { size: 15.5, fill: C.muted });
+  s += panel(460, 110, 410, 480) + t(485, 148, 'Forecasting an eruption', { size: 20, weight: 700 });
+  const V = 420;
+  s += `<rect x="475" y="${V}" width="380" height="85" fill="#d7dde0"/>` + line(475, V, 855, V, { w: 2.5 });
+  s += `<path d="M520,${V} L640,240 L680,240 L800,${V} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+  s += path(`M702,280 Q758,310 748,370`, { stroke: C.rust, w: 3, extra: 'stroke-dasharray="8 6"' });
+  s += path(`M662,236 q-8,-14 0,-26 q8,-12 0,-24`, { stroke: C.olive, w: 3 });
+  const star = (x, y) => `<path d="M${x},${y} l3,7 l8,1 l-6,5 l2,8 l-7,-4 l-7,4 l2,-8 l-6,-5 l8,-1 z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="1.6"/>`;
+  s += star(640, V + 14) + star(700, V + 30) + star(590, V + 28);
+  s += badge(700, 180, 15, '3', C.cream) + t(722, 176, 'gas emissions', { size: 16, weight: 700, fill: C.olive }) + t(722, 196, 'change', { size: 16, weight: 700, fill: C.olive });
+  s += badge(790, 300, 15, '2', C.cream) + t(812, 340, 'ground', { size: 16, weight: 700, fill: C.rust, anchor: 'end' }) + t(812, 360, 'swells', { size: 16, weight: 700, fill: C.rust, anchor: 'end' });
+  s += badge(520, V + 66, 15, '1', C.cream) + tag(546, V + 72, 'small earthquakes', { size: 16, bg: '#d7dde0', op: 1 });
+  s += t(485, 540, 'Eruptions can often be forecast.', { size: 16, weight: 700, fill: C.tealDark }) + t(485, 565, 'Tiltmeters and satellites detect swelling.', { size: 15.5, fill: C.muted });
+  const cards = [['Tsunami warnings', 'minutes or hours of notice; sea walls'], ['Drills and kits', 'Japan: Disaster Prevention Day, 1 September'], ['Cool the lava', 'Heimaey, Iceland, 1973: seawater pumped'], ['Plan land use', 'exclusion zones, hazard maps; avoid unstable land']];
+  cards.forEach(([a, b], i) => { s += card(30 + i * 213, 610, 201, 130, a, b, { ts: 17.5, bs: 15.5 }); });
+  add('07-reducing-impacts',
+    svg(900, 765, 'Reducing the impacts', s),
+    'Left: an earthquake-resistant building with cross-bracing, rubber shock absorbers, deep foundations and flexible pipes; earthquakes cannot be reliably predicted. Right: three signs used to forecast an eruption: small earthquakes, the ground swelling (tiltmeters and satellites) and changes in gas emissions. Below: tsunami warnings and sea walls, drills and Japan’s Disaster Prevention Day, cooling lava on Heimaey in 1973, and land-use planning.',
+    'Earthquakes are built against; eruptions are forecast and evacuated.',
+    '## Reducing the impacts');
+}
+
+// 08 Mount St Helens 1980 sequence
+{
+  const W = 410, H = 250;
+  const cone = (x, y, bulge) => `<path d="M${x + 110},${y + 175} L${x + 190},${y + 85} L${x + 220},${y + 85} L${x + 300},${y + 175} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>` +
+    (bulge ? `<path d="M${x + 175},${y + 102} Q${x + 120},${y + 120} ${x + 140},${y + 150}" fill="none" stroke="${C.rust}" stroke-width="3" stroke-dasharray="7 5"/>` : '');
+  const scene = (x, y, k) => {
+    let s = `<rect x="${x + 20}" y="${y + 60}" width="${W - 40}" height="125" rx="8" fill="${C.tealLight}"/>` + line(x + 20, y + 175, x + W - 20, y + 175, { w: 2 });
+    if (k === 0) {
+      s += `<path d="M${x + 20},${y + 120} L${x + 160},${y + 120} L${x + 260},${y + 182} L${x + 240},${y + 185} L${x + 150},${y + 140} L${x + 20},${y + 140} Z" fill="${OCEAN}" stroke="${C.ink}" stroke-width="2"/>`;
+      s += `<path d="M${x + 170},${y + 118} L${x + 390},${y + 118} L${x + 390},${y + 185} L${x + 240},${y + 185} Z" fill="${CONT}" stroke="${C.ink}" stroke-width="2"/>` + `<path d="M${x + 270},${y + 118} L${x + 295},${y + 82} L${x + 320},${y + 118} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2"/>` + path(`M${x + 255},${y + 178} Q${x + 285},${y + 140} ${x + 295},${y + 88}`, { stroke: MAGMA, w: 5 });
+      s += tag(x + 30, y + 108, 'Juan de Fuca', { size: 14 , bg: C.tealLight, op: 1}) + tag(x + 282, y + 155, 'N. American', { size: 14, bg: CONT, op: 1 });
+    }
+    if (k === 1) s += cone(x, y, true) + `<ellipse cx="${x + 205}" cy="${y + 160}" rx="26" ry="9" fill="${MAGMA}"/>` + tag(x + 30, y + 92, 'north side', { size: 14, fill: C.rust }) + tag(x + 30, y + 110, 'bulges out', { size: 14, fill: C.rust, weight: 400 });
+    if (k === 2) s += cone(x, y, false) + `<path d="M${x + 175},${y + 102} Q${x + 110},${y + 125} ${x + 135},${y + 160} L${x + 155},${y + 125} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>` + arrow(x + 125, y + 128, x + 70, y + 168, { w: 4, color: C.rust, marker: 'ahR' }) + `<path d="M${x + 210},${y + 158} l3,7 l8,1 l-6,5 l2,8 l-7,-4 l-7,4 l2,-8 l-6,-5 l8,-1 z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="1.6"/>`;
+    if (k === 3) s += `<path d="M${x + 110},${y + 175} L${x + 160},${y + 120} L${x + 200},${y + 105} L${x + 230},${y + 92} L${x + 300},${y + 175} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>` + cloud(x + 95, y + 120, 0.55, '#9aa6b2') + [0, 1, 2].map((i) => arrow(x + 150, y + 125 + i * 15, x + 55, y + 115 + i * 25, { w: 3.5, color: C.rust, marker: 'ahR' })).join('');
+    return s;
+  };
+  const steps = [['Subduction', 'Juan de Fuca Plate sinks beneath the North American Plate; magma builds up.'], ['Bulge', 'The north side of the volcano bulges outwards.'], ['Earthquake and landslide', 'An earthquake triggers a huge landslide of the bulging north face.'], ['Lateral blast', 'Pressure is released sideways: a lateral blast.']];
+  let s = '';
+  steps.forEach(([h, d], i) => { const x = 30 + (i % 2) * 430, y = 110 + Math.floor(i / 2) * (H + 16); s += panel(x, y, W, H) + badge(x + 32, y + 32, 17, String(i + 1), i === 3 ? C.mustard : C.cream) + t(x + 60, y + 39, h, { size: 19, weight: 700 }) + scene(x, y, i) + para(x + 22, y + 210, d, W - 44, { size: 15.5, fill: C.muted, lh: 19 }).svg; });
+  const y2 = 110 + 2 * (H + 16) + 4;
+  s += card(30, y2, 272, 150, 'People', '57 killed; homes, roads and bridges destroyed; ash fell over a wide area.', { ts: 18.5, bs: 15.5, edge: C.rust });
+  s += card(314, y2, 272, 150, 'Environment', 'Forests flattened; lahars filled valleys; wildlife killed; summit lowered, large crater.', { ts: 18.5, bs: 15.5, edge: C.grass });
+  s += card(598, y2, 272, 150, 'Management', 'Monitoring led to an exclusion zone before the eruption, which reduced the death toll.', { ts: 18.5, bs: 15.5, edge: C.tealDark, fill: C.tealLight });
+  add('08-mount-st-helens',
+    svg(900, y2 + 172, 'Case study: Mount St Helens, 18 May 1980', s),
+    'Four steps: the Juan de Fuca Plate is subducted beneath the North American Plate and magma builds up; the north side of the volcano bulges; an earthquake triggers a landslide of the north face; a sideways (lateral) blast follows. Below: 57 people killed and homes, roads and bridges destroyed; forests flattened, lahars, wildlife killed and the summit lowered; an exclusion zone set up after monitoring reduced the death toll.',
+    'Cause, trigger, eruption, then effects on people and the environment.',
+    '## Worked example 2: case study of a volcano');
 }

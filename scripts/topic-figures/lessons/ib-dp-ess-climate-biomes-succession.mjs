@@ -41,7 +41,7 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
 
 // 01 Insolation and latitude
 {
-  const cx = 470, cy = 440, R = 210, RA = 238;
+  const cx = 390, cy = 440, R = 190, RA = 214;
   const xr = (r, dy) => cx - Math.sqrt(r * r - dy * dy);
   const beam = (d1, d2) => {
     const a = xr(R, d1), b2 = xr(R, d2);
@@ -52,18 +52,15 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
   let b = panel(30, 110, 840, 670);
   b += `<circle cx="${cx}" cy="${cy}" r="${RA}" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2" stroke-dasharray="7 6"/>`;
   b += `<circle cx="${cx}" cy="${cy}" r="${R}" fill="#cfe0c0" stroke="${C.ink}" stroke-width="3"/>`;
-  b += `<path d="M${cx - 95},${cy - 187} A${R},${R} 0 0 1 ${cx + 95},${cy - 187} Z" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/>`;
+  const hw = Math.sqrt(R * R - 172 * 172);
   b += line(cx - R, cy, cx + R, cy, C.ink, 2, '8 6') + t(cx + 30, cy - 10, 'equator', { size: 17, weight: 600 });
-  b += beam(-25, 25) + beam(-195, -145) + arc(-25, 25) + arc(-195, -145);
-  b += ar(60, cy - 40, 160, cy - 40, C.olive, 3) + t(60, cy - 52, 'Sun’s rays', { size: 17, weight: 700, fill: C.olive });
-  b += t(cx, cy - 196, 'ice and snow', { size: 15, weight: 600, anchor: 'middle' });
-  // callouts
-  b += line(xr(R, -170) - 8, cy - 170, 700, 200, C.ink, 2) + `<circle cx="${xr(R, -170)}" cy="${cy - 170}" r="5" fill="${C.ink}"/>`;
-  b += line(xr(R, 0) + 8, cy, 700, 520, C.ink, 2) + `<circle cx="${xr(R, 0)}" cy="${cy}" r="5" fill="${C.ink}"/>`;
-  b += H(708, 160, 'High latitude', C.ink, 20) + tl(708, 188, ['Low-angle rays: the same', 'energy is spread over a', 'larger area', 'Longer path through the', 'atmosphere: more absorbed,', 'scattered or reflected'], { size: 16, fill: C.muted }, 21);
-  b += H(708, 520, 'Near the equator', C.ink, 20) + tl(708, 548, ['High-angle rays: energy', 'concentrated on a small', 'area; short path through', 'the atmosphere'], { size: 16, fill: C.muted }, 21);
-  b += t(cx, 712, 'atmosphere (not to scale)', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 600 });
-  b += t(450, 755, 'Same width of beam, different area of ground: insolation falls towards the poles.', { size: 17, anchor: 'middle', weight: 700 });
+  b += beam(-25, 25) + beam(-175, -125) + arc(-25, 25) + arc(-175, -125);
+  b += ar(60, cy + 60, 160, cy + 60, C.olive, 3) + t(60, cy + 90, 'Sun’s rays (same width)', { size: 17, weight: 700, fill: C.olive });
+  b += badge(205, cy - 200, 20, '1', C.mustard) + badge(160, cy - 50, 20, '2', C.cream);
+  b += badge(640, 175, 20, '1', C.mustard) + H(672, 182, 'High latitude', C.ink, 20) + tl(625, 216, ['Low-angle rays: the same', 'energy is spread over a', 'larger area of ground.', 'Longer path through the', 'atmosphere: more energy', 'absorbed, scattered or', 'reflected. Ice and snow', 'reflect more (high albedo).'], { size: 16, fill: C.muted }, 22);
+  b += badge(640, 420, 20, '2', C.cream) + H(672, 427, 'Near the equator', C.ink, 20) + tl(625, 461, ['High-angle rays: energy', 'concentrated on a small', 'area; short path through', 'the atmosphere.'], { size: 16, fill: C.muted }, 22);
+  b += t(cx, cy + RA + 30, 'atmosphere (not to scale)', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 600 });
+  b += t(450, 750, 'Same width of beam, different area of ground: insolation falls towards the poles.', { size: 17, anchor: 'middle', weight: 700 });
   add('01-insolation-latitude',
     svg(900, 800, 'Why insolation falls with latitude', b),
     'Two equal beams of sunlight hit the Earth. Near the equator the beam strikes at a high angle onto a small area after a short path through the atmosphere. At high latitude the same beam strikes at a low angle, spreads over a larger area and passes through more atmosphere. Ice near the pole reflects more.',
@@ -73,7 +70,7 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
 
 // 02 Tricellular model
 {
-  const X = (lat) => 90 + lat * 8.4, gY = 470, top = 220;
+  const X = (lat) => 110 + lat * 7.9, gY = 470, top = 220;
   const loop = (xa, xb, up, col) => {
     // up: x where air rises; the other side sinks
     const xu = up === 'L' ? xa : xb, xd = up === 'L' ? xb : xa, dir = xd > xu ? 1 : -1;
@@ -84,7 +81,7 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
   };
   let b = panel(30, 110, 840, 640);
   b += `<rect x="${X(0)}" y="${top}" width="${X(90) - X(0)}" height="${gY - top}" fill="${C.tealLight}" opacity="0.6"/>`;
-  b += loop(X(2), X(28), 'L', C.rust) + loop(X(33), X(57), 'R', C.olive) + loop(X(63), X(88), 'R', C.tealDark);
+  b += loop(X(2), X(28), 'L', C.rust) + loop(X(33), X(57), 'R', C.olive) + loop(X(63), X(88), 'L', C.tealDark);
   b += H((X(2) + X(28)) / 2, 350, 'Hadley', C.rust, 22, 'middle') + t((X(2) + X(28)) / 2, 374, '0–30°', { size: 16, anchor: 'middle', fill: C.muted });
   b += H((X(33) + X(57)) / 2, 350, 'Ferrel', C.olive, 22, 'middle') + t((X(33) + X(57)) / 2, 374, '30–60°', { size: 16, anchor: 'middle', fill: C.muted });
   b += H((X(63) + X(88)) / 2, 350, 'Polar', C.tealDark, 22, 'middle') + t((X(63) + X(88)) / 2, 374, '60–90°', { size: 16, anchor: 'middle', fill: C.muted });
@@ -149,8 +146,8 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
   b += t(x0 + 6 + 6 * step + bw / 2, y0 - 180 * ky - 10, '180', { size: 15, anchor: 'middle', weight: 700 });
   b += t(x0 + 6 * step, 150, 'temperature', { size: 16, fill: C.rust, weight: 700, anchor: 'middle' }) + t(x0 + 6 * step, 610, 'bars: precipitation', { size: 16, fill: C.tealDark, weight: 700, anchor: 'middle' });
   const chip = (x, w, a, c) => rect(x, 670, w, 84, { fill: C.cream, stroke: C.olive }) + t(x + w / 2, 706, a, { size: 21, weight: 700, anchor: 'middle' }) + t(x + w / 2, 734, c, { size: 15, anchor: 'middle', fill: C.muted });
-  b += chip(30, 200, '3020 mm', 'annual precipitation') + chip(243, 200, '26.8 °C', 'mean temperature') + chip(456, 200, '0.9 °C', 'annual range') + chip(669, 201, '180 mm', 'driest month: no dry season');
-  b += rect(30, 772, 840, 58, { fill: C.teal, stroke: C.tealDark }) + t(450, 808, 'Hot all year, tiny range, wet every month → tropical rainforest', { size: 19, weight: 700, anchor: 'middle' });
+  b += chip(30, 200, '3020 mm', 'annual precipitation') + chip(243, 200, '26.8 °C', 'mean temperature') + chip(456, 200, '0.9 °C', 'annual range') + chip(669, 201, '180 mm', 'driest month');
+  b += rect(30, 772, 840, 58, { fill: C.teal, stroke: C.tealDark }) + t(450, 808, 'Hot all year, tiny range, no dry season → tropical rainforest', { size: 19, weight: 700, anchor: 'middle' });
   add('04-climate-graph-station-k',
     svg(900, 850, 'Worked example: which biome is station K?', b),
     'Climate graph for fictional station K. Monthly rainfall bars range from 180 to 310 mm and the temperature line stays between 26.4 and 27.3 °C. Totals: 3020 mm a year, mean 26.8 °C, range 0.9 °C, driest month 180 mm, matching tropical rainforest.',
@@ -160,35 +157,34 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
 
 // 05 Primary succession sere
 {
-  const W = 168, y0 = 150, gY = 380;
+  const W = 168, y0 = 115, gY = 330, pb = 395;
   const stages = [['Bare rock', 'no soil'], ['Pioneers', 'lichens, mosses'], ['Seral stage', 'more species'], ['Seral stage', 'larger plants'], ['Climax', 'stable community']];
   let b = '';
   stages.forEach(([a, c], i) => {
-    const x = 30 + i * W + (i ? i * 0 : 0), soil = [0, 6, 18, 32, 48][i];
-    b += rect(x + 4, y0, W - 8, 300, { fill: C.panel, stroke: C.panelEdge, r: 12 });
-    b += `<rect x="${x + 6}" y="${gY}" width="${W - 12}" height="${450 - gY - 2}" fill="${C.rock}"/>`;
-    if (soil) b += `<rect x="${x + 6}" y="${gY - soil}" width="${W - 12}" height="${soil}" fill="${C.rockDark}"/>`;
-    b += line(x + 6, gY - soil, x + W - 6, gY - soil, C.ink, 2.5);
+    const x = 30 + i * W, soil = [0, 6, 18, 32, 48][i];
+    b += rect(x + 8, y0, W - 16, pb - y0, { fill: C.panel, stroke: C.panelEdge, r: 12 });
+    b += `<rect x="${x + 10}" y="${gY}" width="${W - 20}" height="${pb - gY - 2}" fill="${C.rock}"/>`;
+    if (soil) b += `<rect x="${x + 10}" y="${gY - soil}" width="${W - 20}" height="${soil}" fill="${C.rockDark}"/>`;
+    b += line(x + 10, gY - soil, x + W - 10, gY - soil, C.ink, 2.5);
     const gy = gY - soil, cx = x + W / 2;
     if (i === 1) b += [cx - 45, cx - 10, cx + 30].map((xx) => `<ellipse cx="${xx}" cy="${gy - 4}" rx="16" ry="6" fill="${C.olive}" stroke="${C.ink}" stroke-width="1.5"/>`).join('') + `<ellipse cx="${cx + 55}" cy="${gy - 5}" rx="10" ry="7" fill="${C.grass}"/>`;
     if (i === 2) b += [cx - 50, cx - 25, cx, cx + 25, cx + 50].map((xx) => path(`M${xx},${gy} l-6,-22 M${xx},${gy} l0,-28 M${xx},${gy} l6,-22`, { stroke: C.grass, w: 2.5 })).join('');
-    if (i === 3) b += [cx - 40, cx + 35].map((xx) => `<ellipse cx="${xx}" cy="${gy - 32}" rx="30" ry="30" fill="#a9c48f" stroke="${C.ink}" stroke-width="2"/>`).join('') + path(`M${cx},${gy} l-6,-20 M${cx},${gy} l6,-20`, { stroke: C.grass, w: 2.5 });
-    if (i === 4) b += [cx - 38, cx + 38].map((xx) => `<rect x="${xx - 5}" y="${gy - 80}" width="10" height="80" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="1.5"/><circle cx="${xx}" cy="${gy - 112}" r="40" fill="${C.grass}" stroke="${C.ink}" stroke-width="2"/>`).join('');
-    b += t(cx, y0 + 34, a, { size: 18, weight: 700, anchor: 'middle' }) + t(cx, y0 + 56, c, { size: 15, anchor: 'middle', fill: C.muted });
-    if (i < 4) b += ar(x + W - 14, 425, x + W + 14, 425, C.ink, 3);
+    if (i === 3) b += [cx - 36, cx + 34].map((xx) => `<ellipse cx="${xx}" cy="${gy - 32}" rx="30" ry="30" fill="#a9c48f" stroke="${C.ink}" stroke-width="2"/>`).join('') + path(`M${cx},${gy} l-6,-20 M${cx},${gy} l6,-20`, { stroke: C.grass, w: 2.5 });
+    if (i === 4) b += [cx - 30, cx + 40].map((xx) => `<rect x="${xx - 5}" y="${gy - 70}" width="10" height="70" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="1.5"/><circle cx="${xx}" cy="${gy - 100}" r="34" fill="${C.grass}" stroke="${C.ink}" stroke-width="2"/>`).join('');
+    b += t(cx, pb + 30, a, { size: 18, weight: 700, anchor: 'middle' }) + t(cx, pb + 52, c, { size: 15, anchor: 'middle', fill: C.muted });
   });
-  // primary/secondary entry
-  b += ar(114, 470, 114, 452, C.rust, 3.5) + t(40, 496, 'Primary succession starts', { size: 16, weight: 700, fill: C.rust }) + t(40, 516, 'on bare ground, no soil', { size: 15, fill: C.muted });
-  b += ar(30 + 2.5 * W, 470, 30 + 2.5 * W, 452, C.tealDark, 3.5) + t(30 + 2.5 * W - 70, 496, 'Secondary succession starts', { size: 16, weight: 700, fill: C.tealDark }) + t(30 + 2.5 * W - 70, 516, 'where soil exists: fire, flood,', { size: 15, fill: C.muted }) + t(30 + 2.5 * W - 70, 534, 'abandoned farmland; faster', { size: 15, fill: C.muted });
+  for (let i = 0; i < 4; i++) b += ar(30 + (i + 1) * W - 26, 200, 30 + (i + 1) * W + 12, 200, C.ink, 4);
+  b += ar(114, 500, 114, 462, C.rust, 3.5) + t(40, 524, 'Primary succession starts', { size: 16, weight: 700, fill: C.rust }) + t(40, 544, 'on bare ground, no soil', { size: 15, fill: C.muted });
+  b += ar(30 + 2.5 * W, 500, 30 + 2.5 * W, 462, C.tealDark, 3.5) + t(30 + 2.5 * W - 70, 524, 'Secondary succession starts', { size: 16, weight: 700, fill: C.tealDark }) + t(30 + 2.5 * W - 70, 544, 'where soil exists: fire, flood,', { size: 15, fill: C.muted }) + t(30 + 2.5 * W - 70, 562, 'abandoned farmland; faster', { size: 15, fill: C.muted });
   // trend bars
   const trend = (y, label, from, to, fill) => `<path d="M260,${y + 26} L840,${y + 4} L840,${y + 48} Z" fill="${fill}" stroke="${C.ink}" stroke-width="2"/>` + t(60, y + 32, label, { size: 17, weight: 700 }) + t(270, y + 64, from, { size: 15, fill: C.muted }) + t(840, y + 64, to, { size: 15, fill: C.muted, anchor: 'end' });
-  let c = panel(30, 560, 840, 300);
-  c += trend(575, 'Soil depth', 'thin, little organic matter', 'deep, organic-rich', C.rockDark);
-  c += trend(650, 'Biomass', 'low but rising', 'high', C.grass);
-  c += trend(725, 'Food webs', 'simple chains', 'complex webs', C.teal);
-  c += t(60, 836, 'Species: r-strategists (many small offspring) → K-strategists (fewer, larger, long-lived)', { size: 16, weight: 600 });
+  let c = panel(30, 590, 840, 300);
+  c += trend(605, 'Soil depth', 'thin, little organic matter', 'deep, organic-rich', C.rockDark);
+  c += trend(680, 'Biomass', 'low but rising', 'high', C.grass);
+  c += trend(755, 'Food webs', 'simple chains', 'complex webs', C.teal);
+  c += t(60, 866, 'Species: r-strategists (many small offspring) → K-strategists (fewer, larger, long-lived)', { size: 16, weight: 600 });
   add('05-succession-sere',
-    svg(900, 880, 'A sere: from bare rock to climax', b + c),
+    svg(900, 910, 'A sere: from bare rock to climax', b + c),
     'Five stages of primary succession: bare rock, pioneer lichens and mosses, then seral stages with more and larger plants, ending in a climax community. Soil gets deeper at each stage. Secondary succession enters part-way along, where soil already exists. Wedges show soil depth, biomass and food-web complexity increasing.',
     'Each seral stage changes conditions so the next species can establish.',
     '## 2.5 Zonation, succession and change in ecosystems');
@@ -221,30 +217,32 @@ export const slug = 'ib-dp-ess-climate-biomes-succession';
 
 // 07 Disturbance and plagioclimax
 {
-  const x0 = 110, y0 = 560, x1 = 840;
-  let b = panel(30, 110, 840, 600);
-  b += line(x0, y0, x1, y0, C.ink, 3) + line(x0, y0, x0, 150, C.ink, 3);
-  b += t((x0 + x1) / 2, y0 + 34, 'Time →', { size: 18, weight: 700, anchor: 'middle' });
-  b += `<text x="66" y="355" font-size="18" font-weight="700" fill="${C.ink}" text-anchor="middle" transform="rotate(-90 66 355)">Biomass / stage</text>`;
-  // climax line
-  b += line(x0, 200, x1, 200, C.tealDark, 2, '8 6') + t(x1 - 6, 190, 'climax', { size: 16, weight: 700, anchor: 'end', fill: C.tealDark });
-  // main curve: rises to plateau
-  b += path(`M${x0},${y0 - 10} C200,${y0 - 40} 240,240 360,214 L470,206`, { stroke: C.grass, w: 5 });
-  // disturbance drop and secondary regrowth
-  b += path(`M470,206 L478,470`, { stroke: C.rust, w: 4, extra: 'stroke-dasharray="7 5"' });
-  b += path(`M478,470 C540,420 560,240 640,212 L${x1 - 10},204`, { stroke: C.grass, w: 5 });
-  b += t(488, 498, 'disturbance', { size: 16, weight: 700, fill: C.rust }) + t(488, 518, 'removes biomass', { size: 15, fill: C.muted });
-  b += t(560, 330, 'secondary succession', { size: 16, weight: 700, fill: C.grass }) + t(560, 350, 'is faster', { size: 15, fill: C.muted });
-  // plagioclimax branch
-  b += path(`M200,${y0 - 70} C220,${y0 - 120} 250,380 300,375 L410,375`, { stroke: C.olive, w: 4.5, extra: 'stroke-dasharray="10 6"' });
-  b += rect(150, 395, 270, 82, { fill: C.cream, stroke: C.olive });
-  b += t(285, 425, 'Plagioclimax', { size: 18, weight: 700, anchor: 'middle' }) + t(285, 448, 'held by human activity:', { size: 15, anchor: 'middle', fill: C.muted }) + t(285, 467, 'pasture, lawns, moorland', { size: 15, anchor: 'middle', fill: C.muted });
-  b += carrow('M410,375 Q440,370 450,300', C.olive, 3.5, '6 5') + t(380, 290, 'grazing stops:', { size: 15, weight: 700, fill: C.olive, anchor: 'end' }).replace('x="380"', 'x="446"') ;
-  b += t(232, 255, 'primary or', { size: 15, fill: C.muted }) + t(232, 274, 'secondary succession', { size: 15, fill: C.muted });
-  b += tl(60, 610, ['Natural disturbance: fire, storms, floods, landslides, eruptions.', 'Human disturbance: clearing, ploughing, grazing, burning.', 'Resilience depends on diversity, storage size and how fast species reproduce.'], { size: 16 }, 26);
+  const graph = (x, title, curve, notes) => {
+    const ax = x + 50, ay = 470, ex = x + 390;
+    let o = panel(x, 110, 410, 540) + H(x + 205, 148, title, C.ink, 20, 'middle');
+    o += line(ax, 200, ex, 200, C.tealDark, 2, '8 6') + t(ex, 190, 'climax', { size: 15, weight: 700, anchor: 'end', fill: C.tealDark });
+    o += line(ax, ay, ex, ay, C.ink, 3) + line(ax, ay, ax, 170, C.ink, 3);
+    o += t((ax + ex) / 2, ay + 28, 'time →', { size: 16, weight: 600, anchor: 'middle', fill: C.muted });
+    o += `<text x="${x + 30}" y="${(ay + 190) / 2}" font-size="16" font-weight="600" fill="${C.muted}" text-anchor="middle" transform="rotate(-90 ${x + 30} ${(ay + 190) / 2})">biomass</text>`;
+    o += curve;
+    notes.forEach(([n, l1, l2], i) => { o += badge(x + 40, 545 + i * 56, 16, n, C.cream) + t(x + 66, 541 + i * 56, l1, { size: 16, weight: 700 }) + t(x + 66, 561 + i * 56, l2, { size: 15, fill: C.muted }); });
+    return o;
+  };
+  const L = 30, Rx = 460;
+  const c1 = path(`M${L + 52},462 C${L + 110},455 ${L + 120},215 ${L + 190},204 L${L + 235},202`, { stroke: C.grass, w: 5 }) +
+    path(`M${L + 235},202 L${L + 240},430`, { stroke: C.rust, w: 4, extra: 'stroke-dasharray="7 5"' }) +
+    path(`M${L + 240},430 C${L + 270},400 ${L + 285},215 ${L + 330},205 L${L + 385},202`, { stroke: C.grass, w: 5 }) +
+    badge(L + 262, 440, 15, '1', C.cream) + badge(L + 312, 300, 15, '2', C.cream);
+  const c2 = path(`M${Rx + 52},462 C${Rx + 90},455 ${Rx + 100},350 ${Rx + 150},345 L${Rx + 250},345`, { stroke: C.grass, w: 5 }) +
+    `<rect x="${Rx + 150}" y="335" width="100" height="20" fill="${C.mustard}" opacity="0.35"/>` +
+    path(`M${Rx + 250},345 C${Rx + 290},340 ${Rx + 300},212 ${Rx + 340},205 L${Rx + 385},202`, { stroke: C.grass, w: 5, extra: 'stroke-dasharray="10 6"' }) +
+    badge(Rx + 200, 310, 15, '1', C.cream) + badge(Rx + 296, 250, 15, '2', C.cream);
+  let b = graph(L, 'Disturbance resets succession', c1, [['1', 'Disturbance removes biomass', 'fire, storm, flood, clearing'], ['2', 'Secondary succession', 'faster: soil and seeds remain']]);
+  b += graph(Rx, 'Plagioclimax holds it back', c2, [['1', 'Plagioclimax', 'held by grazing or burning'], ['2', 'Grazing or burning stops', 'secondary succession resumes']]);
+  b += t(450, 690, 'Plagioclimax examples: grazed pasture, lawns, heather moorland burned in rotation.', { size: 16, anchor: 'middle', fill: C.muted });
   add('07-disturbance-plagioclimax',
-    svg(900, 730, 'Disturbance and plagioclimax', b),
-    'Schematic graph of biomass over time. Succession rises towards a climax plateau; a disturbance removes biomass, then faster secondary succession returns it towards climax. A dashed branch levels off below climax as a plagioclimax held by grazing or burning, and rises again when grazing stops.',
-    'Human activity can hold succession below climax; disturbance resets it.',
+    svg(900, 715, 'Disturbance and plagioclimax', b),
+    'Two schematic graphs of biomass over time. Left: succession reaches climax, a disturbance removes biomass, and faster secondary succession returns it to climax. Right: grazing or burning holds the community at a plagioclimax below climax; when it stops, secondary succession resumes towards climax.',
+    'Disturbance resets succession; human activity can hold it below climax.',
     '## 2.5 Zonation, succession and change in ecosystems');
 }

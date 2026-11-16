@@ -1,0 +1,65 @@
+[
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--01-types-of-data.webp",
+  "width": 900,
+  "height": 646,
+  "after": "## What is the difference between primary, secondary, quantitative and qualitative data?",
+  "alt": "A two-by-two grid. Primary quantitative: questionnaires, structured interviews, experiments. Primary qualitative: unstructured interviews, participant observation. Secondary quantitative: official statistics, existing survey data. Secondary qualitative: diaries, letters, social media posts, news articles.",
+  "caption": "Any data is primary or secondary, and quantitative or qualitative.",
+  "bytes": 95514
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--02-secondary-sources.webp",
+  "width": 900,
+  "height": 576,
+  "after": "## How useful are secondary sources?",
+  "alt": "Four secondary sources with a strength and a limitation each: official statistics are cheap and comparable but socially constructed; personal documents are rich but unrepresentative; digital content is plentiful but raises authenticity and consent issues; media sources show framing but reflect the media’s agenda.",
+  "caption": "Every secondary source trades convenience against questions of construction and representativeness.",
+  "bytes": 101768
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--03-observation-types.webp",
+  "width": 900,
+  "height": 476,
+  "after": "## What are the strengths and limitations of qualitative methods?",
+  "alt": "Three types of observation along a line of increasing involvement: non-participant observation has less risk of going native but less insight; overt participant observation is ethical but people may change their behaviour; covert participant observation gives access and natural behaviour but involves deception and risk.",
+  "caption": "More involvement brings more insight, and more ethical risk.",
+  "bytes": 87144
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--04-interview-continuum.webp",
+  "width": 900,
+  "height": 585,
+  "after": "## What are the strengths and limitations of qualitative methods?",
+  "alt": "Interviews on a continuum from structured, which are more comparable and reliable, through semi-structured, to unstructured, which give more depth and validity but take time and use small samples. Group interviews show views forming in interaction.",
+  "caption": "The less structured the interview, the more depth it gains and the less comparable it becomes.",
+  "bytes": 98016
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--05-research-design-stages.webp",
+  "width": 900,
+  "height": 745,
+  "after": "## What are the stages of research design?",
+  "alt": "Eight stages in order: research strategy, research questions and hypotheses, operationalisation, sampling frame, sampling technique, pilot study, conducting research and interpreting results.",
+  "caption": "Research design runs from choosing a strategy to interpreting results.",
+  "bytes": 133460
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--06-tpe-factors.webp",
+  "width": 900,
+  "height": 599,
+  "after": "## What influences a sociologist's choice of topic and method?",
+  "alt": "Theoretical factors (positivist or interpretivist preferences), practical factors (time, cost, access, skills) and ethical factors (consent, confidentiality, harm, vulnerable participants) all feed into the choice of topic and method.",
+  "caption": "Theory, practicalities and ethics together shape how research is done.",
+  "bytes": 94168
+ },
+ {
+  "file": "a-level-cambridge-sociology-research-methods-design-and-issues--07-reliability-validity.webp",
+  "width": 900,
+  "height": 651,
+  "after": "## How do you assess the value of a research method?",
+  "alt": "Quantitative methods such as questionnaires, structured interviews, official statistics and large sampled surveys score higher on reliability and representativeness; qualitative methods such as unstructured interviews and participant observation score higher on validity. Objectivity and ethics are noted below.",
+  "caption": "Methods tend to gain reliability or validity, rarely both.",
+  "bytes": 97208
+ }
+]

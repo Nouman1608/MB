@@ -20,11 +20,11 @@
  {
   "file": "cambridge-o-level-geography-earthquakes-volcanoes--03-volcano-types.webp",
   "width": 900,
-  "height": 780,
+  "height": 745,
   "after": "## Types and features of volcanoes",
   "alt": "Two cross-sections. A strato-volcano is a tall, steep cone of alternating ash and lava layers with a magma chamber, main vent, secondary vent, crater and ash cloud; its thick lava erupts explosively at destructive boundaries (Mount Fuji, Mount St Helens). A shield volcano is a wide, gentle dome of runny lava layers that flows far in gentle eruptions at constructive boundaries or hotspots (Mauna Loa).",
   "caption": "Thick lava builds steep, explosive cones; runny lava builds wide, gentle shields.",
-  "bytes": 110198
+  "bytes": 109960
  },
  {
   "file": "cambridge-o-level-geography-earthquakes-volcanoes--04-earthquake-features.webp",
@@ -33,15 +33,42 @@
   "after": "## Features of earthquakes",
   "alt": "A cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above. Two smaller sections compare a shallow focus, which causes more surface damage, with a deep focus of the same magnitude. A final strip shows that each whole step of magnitude means about ten times the ground movement and roughly 32 times the energy.",
   "caption": "Focus below, epicentre above; shallow quakes and each extra magnitude step do far more damage.",
-  "bytes": 136786
+  "bytes": 134924
  },
  {
   "file": "cambridge-o-level-geography-earthquakes-volcanoes--05-primary-secondary-effects.webp",
   "width": 900,
-  "height": 850,
+  "height": 800,
   "after": "## Effects on people and the environment",
   "alt": "Two panels. Earthquakes: primary effects are collapsing buildings and bridges, deaths and injuries, and broken roads and pipes; secondary effects are fires, tsunamis, landslides, disease, homelessness and economic loss. Volcanoes: primary effects are lava flows, pyroclastic flows, ash fall and gases; secondary effects are lahars, crop and livestock loss, air travel disruption and climate cooling. Eight factors that change the impact are listed below.",
   "caption": "Primary effects come from the event; secondary effects follow from them.",
-  "bytes": 133034
+  "bytes": 134528
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--06-volcano-hazards-opportunities.webp",
+  "width": 900,
+  "height": 675,
+  "after": "## Why people live near volcanoes: hazards and opportunities",
+  "alt": "A volcano with hazards on one side (ash fall from an ash cloud, lava flows, pyroclastic flows and volcanic gases) and opportunities on the other (fertile soils with vineyards and orchards as on Mount Etna, geothermal energy as in Iceland, and tourism). Below, minerals such as sulphur and volcanic rock, and reasons people stay: family and land, infrequent eruptions and trust in warnings.",
+  "caption": "People weigh rare hazards against everyday benefits.",
+  "bytes": 98304
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--07-reducing-impacts.webp",
+  "width": 900,
+  "height": 765,
+  "after": "## Reducing the impacts",
+  "alt": "Left: an earthquake-resistant building with cross-bracing, rubber shock absorbers, deep foundations and flexible pipes; earthquakes cannot be reliably predicted. Right: three signs used to forecast an eruption: small earthquakes, the ground swelling (tiltmeters and satellites) and changes in gas emissions. Below: tsunami warnings and sea walls, drills and Japan’s Disaster Prevention Day, cooling lava on Heimaey in 1973, and land-use planning.",
+  "caption": "Earthquakes are built against; eruptions are forecast and evacuated.",
+  "bytes": 121906
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--08-mount-st-helens.webp",
+  "width": 900,
+  "height": 818,
+  "after": "## Worked example 2: case study of a volcano",
+  "alt": "Four steps: the Juan de Fuca Plate is subducted beneath the North American Plate and magma builds up; the north side of the volcano bulges; an earthquake triggers a landslide of the north face; a sideways (lateral) blast follows. Below: 57 people killed and homes, roads and bridges destroyed; forests flattened, lahars, wildlife killed and the summit lowered; an exclusion zone set up after monitoring reduced the death toll.",
+  "caption": "Cause, trigger, eruption, then effects on people and the environment.",
+  "bytes": 131476
  }
 ]

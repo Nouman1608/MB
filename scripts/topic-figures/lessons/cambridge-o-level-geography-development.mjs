@@ -72,7 +72,7 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
 // bulleted list, each item wrapped to width w; returns {svg, h}
 const bullets = (x, y, items, w, o = {}) => {
   const size = o.size || 16.5, lh = o.lh || Math.round(size * 1.3), gap = o.gap ?? 8; let s = '', yy = y;
-  for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, '•', { size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
+  for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, o.mark || '•', { size: o.mark ? size + 3 : size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
   return { svg: s, h: yy - y };
 };
 // ---- end helpers ----

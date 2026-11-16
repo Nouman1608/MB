@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-o-level-geography-energy--01-energy-and-development.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## How energy use varies with development",
+  "alt": "Three columns. Low-income countries rely on fuelwood and charcoal, use little energy per person and many lack mains electricity, because wood is cheap and grids do not reach villages. Middle-income countries see fast-growing demand and heavy coal and oil use, driven by industry and cities. High-income countries use the most per person, with fossil fuels still important but a rising share of renewables and, in some, nuclear.",
+  "caption": "Use per person rises with development, and the mix of sources shifts.",
+  "bytes": 135510
+ },
+ {
+  "file": "cambridge-o-level-geography-energy--02-nuclear-power.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Evaluating nuclear power",
+  "alt": "Four steps: uranium atoms split giving heat, the heat boils water to steam, steam drives turbines and generators make electricity. Benefits: large steady output, very low carbon dioxide while operating, little fuel needed, less reliance on imported oil and gas. Disadvantages: very high building and decommissioning costs, long-lived radioactive waste, rare severe accidents such as Chernobyl and Fukushima, and the need for skill, regulation and public support.",
+  "caption": "Nuclear is reliable and low-carbon; its costs are money, waste and risk.",
+  "bytes": 134660
+ },
+ {
+  "file": "cambridge-o-level-geography-energy--03-renewables-by-source.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Evaluating renewable sources",
+  "alt": "Three renewable schemes compared. A solar panel on a village school supplies remote areas cheaply but varies with weather and time of day. A wind farm does not run out and emits little greenhouse gas but varies, needs back-up and is large, noisy and visually intrusive. A large HEP dam does not run out and improves energy security but floods valleys, displaces people and traps sediment.",
+  "caption": "A village solar panel and a giant dam are both “renewable” but have very different impacts.",
+  "bytes": 105186
+ },
+ {
+  "file": "cambridge-o-level-geography-energy--04-iceland-energy.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Case study: energy supply in Iceland",
+  "alt": "A schematic west-to-east section of Iceland. In the west, hot rocks near the surface at the Mid-Atlantic Ridge feed boreholes at the Hellisheiði geothermal station, which pipes hot water to homes in Reykjavík. In the east, glaciers and steep valleys feed the Kárahnjúkar HEP dams, which power an aluminium smelter at Reyðarfjörður. Below: HEP gives the larger share, geothermal most of the rest; drawbacks include flooded wilderness and hydrogen sulphide; oil is still imported for transport and fishing.",
+  "caption": "Iceland’s geology and climate give it almost all-renewable electricity; few countries can copy it.",
+  "bytes": 112704
+ },
+ {
+  "file": "cambridge-o-level-geography-energy--05-energy-mix-calculation.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## Worked example: an energy mix calculation",
+  "alt": "A pie chart of a fictional country’s 80 units of electricity: coal 36, natural gas 20, HEP 12, nuclear 8, wind and solar 4. Beside it, three calculations: fossil fuels give (36 + 20) ÷ 80 × 100 = 70 per cent, renewables (12 + 4) ÷ 80 × 100 = 20 per cent, and the coal slice is 36 ÷ 80 × 360 = 162 degrees.",
+  "caption": "Share = part ÷ total × 100; pie angle = part ÷ total × 360.",
+  "bytes": 96854
+ }
+]
