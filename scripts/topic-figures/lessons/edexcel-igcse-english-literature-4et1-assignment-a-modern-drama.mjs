@@ -317,7 +317,7 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
     const r = row(cy, cards, { gap: 18, card: { tsize: 19, size: 16, pad: 16 }, x: 30, w: 840 });
     // badges inside cards (shift titles right)
     s += r.s.replace(/x="(\d+(?:\.\d+)?)" y="(\d+(?:\.\d+)?)" font-size="19" font-weight="700"/g, (m, x, y) => `x="${+x + 34}" y="${y}" font-size="19" font-weight="700"`);
-    pair.forEach(([n], j) => { s += badge(30 + j * 429 + 30, cy + 30, 14, n, C.mustard); });
+    pair.forEach(([n], j) => { s += badge(30 + j * 429 + 30, cy + 27, 15, n, C.mustard); });
     cy += r.h + 14;
   }
   add('01-stage-methods',
@@ -423,11 +423,11 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
   let s = '';
   const rowp = (y, cmd, gist, visual) => panel(30, y, 840, H) + card(50, y + 20, 300, { title: cmd, tsize: 19, fill: C.cream, edge: C.olive, minH: H - 40, vcenter: true }).s + T(380, y + 46, gist[0], { size: 19, weight: 700, fill: C.tealDark }) + tl(380, y + 76, gist.slice(1), { size: 16, fill: C.muted }, 21) + visual;
   // explore: range across the play
-  const v1 = (y) => { let o = `<line x1="380" y1="${y + 140}" x2="840" y2="${y + 140}" stroke="${C.ink}" stroke-width="3"/>`; [400, 520, 640, 760, 830].forEach((x) => { o += `<circle cx="${x}" cy="${y + 140}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`; }); return o; };
+  const v1 = (y) => { let o = `<line x1="380" y1="${y + 126}" x2="840" y2="${y + 126}" stroke="${C.ink}" stroke-width="3"/>`; [400, 520, 640, 760, 830].forEach((x) => { o += `<circle cx="${x}" cy="${y + 126}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`; }); return o + T(380, y + 156, 'beginning', { size: 15, fill: C.muted }) + T(840, y + 156, 'end of the play', { size: 15, fill: C.muted, anchor: 'end' }); };
   // how does: playwright's choices at the centre
   const v2 = (y) => `<circle cx="760" cy="${y + 85}" r="56" fill="${C.teal}" stroke="${C.ink}" stroke-width="3"/>` + T(760, y + 80, 'playwright’s', { size: 15, weight: 700, anchor: 'middle' }) + T(760, y + 99, 'choices', { size: 15, weight: 700, anchor: 'middle' });
   // to what extent: weigh
-  const v3 = (y) => scaleIcon(770, y + 62, 0.6);
+  const v3 = (y) => scaleIcon(740, y + 58, 0.6);
   s += rowp(Y, 'Explore the ways in which…', ['Range', 'Several methods and', 'several parts of the play.'], v1(Y));
   s += rowp(Y + H + 16, 'How does [playwright] present…', ['Method', 'Keeps the playwright’s', 'choices at the centre.'], v2(Y + H + 16));
   s += rowp(Y + 2 * (H + 16), 'To what extent…', ['Weigh a view', 'Agree in part, then', 'reach a judgement.'], v3(Y + 2 * (H + 16)));

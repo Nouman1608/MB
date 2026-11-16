@@ -162,17 +162,19 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   b += `<path d="M30,180 Q160,170 300,300 Q420,420 560,${gl} L870,${gl} L870,542 L30,542 Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
   b += `<path d="M30,300 Q140,320 250,400 Q300,440 340,542 L30,542 Z" fill="${C.teal}" opacity="0.9"/>`;
   b += path('M30,300 Q140,320 250,400', { stroke: C.blue, w: 3 });
-  b += path(`M250,400 L560,${gl - 4}`, { stroke: C.ink, w: 16 }) + path(`M250,400 L560,${gl - 4}`, { stroke: '#9fc3e6', w: 10 });
-  b += path(`M560,${gl - 4} L700,${gl - 4}`, { stroke: C.blue, w: 6 });
+  b += path(`M250,430 L585,${gl - 4}`, { stroke: C.ink, w: 16 }) + path(`M250,430 L585,${gl - 4}`, { stroke: '#9fc3e6', w: 10 });
+  b += path(`M585,${gl - 4} L700,${gl - 4}`, { stroke: C.blue, w: 6 });
   const palm = (x) => path(`M${x},${gl} L${x},${gl - 80}`, { stroke: C.rockDark, w: 6 }) + [[-34, 10], [34, 10], [-24, -18], [24, -18], [0, -26]].map(([dx, dy]) => path(`M${x},${gl - 80} Q${x + dx / 2},${gl - 98 + dy / 2} ${x + dx},${gl - 74 + dy}`, { stroke: C.grass, w: 6 })).join('');
   b += palm(640) + palm(730) + [600, 680, 770, 810].map((x) => `<ellipse cx="${x}" cy="${gl - 8}" rx="14" ry="9" fill="${C.grass}" stroke="${C.ink}" stroke-width="2"/>`).join('');
   b += T(110, 230, 'HILLS', { size: 20, weight: 700, fill: C.olive });
   b += T(70, 470, 'groundwater at the', { size: 17, weight: 700, fill: C.tealDark }) + T(70, 492, 'foot of the hills', { size: 17, weight: 700, fill: C.tealDark });
-  b += arrow(420, 270, 400, 425, { w: 3 }) + T(360, 220, 'underground channel:', { size: 18, weight: 700 }) + T(360, 244, 'water flows by gravity', { size: 18 });
+  b += arrow(420, 270, 420, 440, { w: 3 }) + T(360, 220, 'underground channel:', { size: 18, weight: 700 }) + T(360, 244, 'water flows by gravity', { size: 18 });
   b += T(720, 330, 'OASIS', { size: 21, weight: 700, anchor: 'middle' }) + T(720, 354, 'dates and vegetables', { size: 17, anchor: 'middle', fill: C.muted });
-  b += T(450, 520, 'little water lost to evaporation underground', { size: 17, weight: 600, fill: C.blue, anchor: 'middle' });
-  const n1 = card(30, 562, 410, { title: 'Advantage', body: 'Water travels underground, so little is lost to evaporation in the desert heat.', fill: C.tealLight, edge: C.tealDark, bfill: C.ink });
-  const n2 = card(460, 562, 410, { title: 'Problems', body: 'Channels need constant cleaning. Tubewells are replacing karez in places and lower the water table.', fill: C.cream, edge: C.olive, bfill: C.ink, h: n1.h });
+  b += T(600, 515, 'little water lost to evaporation underground', { size: 17, weight: 600, fill: C.blue, anchor: 'middle' });
+  const o1 = { title: 'Advantage', body: 'Water travels underground, so little is lost to evaporation.', fill: C.tealLight, edge: C.tealDark, bfill: C.ink };
+  const o2 = { title: 'Problems', body: 'Channels need constant cleaning. Tubewells are replacing karez in places and lower the water table.', fill: C.cream, edge: C.olive, bfill: C.ink };
+  const nh = Math.max(cardH(410, o1), cardH(410, o2));
+  const n1 = card(30, 562, 410, { ...o1, h: nh }), n2 = card(460, 562, 410, { ...o2, h: nh });
   add('04-karez-oasis',
     svg(900, 562 + Math.max(n1.h, n2.h) + 30, 'Karez: gravity-fed water for an oasis', b + n1.s + n2.s, 'Balochistan · not to scale'),
     'Cross-section from the hills to a desert oasis. Groundwater at the foot of the hills flows by gravity along a sloping underground channel to an oasis where dates and vegetables are grown. Little water is lost to evaporation, but the channels need constant cleaning and nearby tubewells lower the water table.',
@@ -186,16 +188,14 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   let b = panel(30, 112, 840, 320);
   b += `<path d="M60,${base} L300,${base - 10} Q480,${base - 60} 600,180 Q650,150 700,175 Q780,250 840,${base} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
   b += path('M580,196 Q650,140 720,190', { stroke: C.grass, w: 10 }) + path(`M70,${base - 4} L280,${base - 12}`, { stroke: C.grass, w: 10 });
-  b += path(`M260,${base - 50} Q420,${base - 140} 560,170`, { stroke: C.tealDark, w: 5, extra: 'marker-end="url(#ahT)"' });
-  b += path(`M650,250 Q560,330 330,${base - 40}`, { stroke: C.rust, w: 5, extra: 'marker-end="url(#ahR)"' });
+  b += path(`M320,${base - 38} Q470,305 585,168`, { stroke: C.tealDark, w: 5, extra: 'marker-end="url(#ahT)"' });
+  b += path(`M612,238 Q480,350 330,${base - 18}`, { stroke: C.rust, w: 5, extra: 'marker-end="url(#ahR)"' });
   b += T(650, 140, 'high summer pastures', { size: 18, weight: 700, fill: C.grass, anchor: 'middle' });
-  b += T(320, 210, 'SUMMER: move up', { size: 18, weight: 700, fill: C.tealDark, anchor: 'end' });
+  b += T(440, 268, 'SUMMER: move up', { size: 18, weight: 700, fill: C.tealDark, anchor: 'end' });
   b += T(560, 340, 'WINTER: move down', { size: 18, weight: 700, fill: C.rust }) + T(560, 362, 'to the valleys', { size: 17, fill: C.rust });
   b += T(80, base + 22, 'valleys', { size: 17, weight: 700, fill: C.grass });
   b += T(60, 150, 'Transhumance', { size: 22, weight: 700 }) + T(60, 174, 'sheep and goats in the mountains and Balochistan', { size: 16, fill: C.muted });
-  const c1 = card(30, 452, 410, { title: 'Small farms', body: 'Buffalo and cattle provide milk, draught power and dung.' });
-  const c2 = card(460, 452, 410, { title: 'Nomadic or semi-nomadic herding', body: 'Sheep and goats are herded by nomads, or moved with the seasons by transhumance.', h: undefined });
-  const hh = Math.max(c1.h, c2.h);
+  const hh = Math.max(cardH(410, { title: 'Small farms', body: 'Buffalo and cattle provide milk, draught power and dung.' }), cardH(410, { title: 'Nomadic or semi-nomadic herding', body: 'Sheep and goats are herded by nomads, or moved with the seasons by transhumance.' }));
   const c1b = card(30, 452, 410, { title: 'Small farms', body: 'Buffalo and cattle provide milk, draught power and dung.', h: hh });
   const c2b = card(460, 452, 410, { title: 'Nomadic or semi-nomadic herding', body: 'Sheep and goats are herded by nomads, or moved with the seasons by transhumance.', h: hh });
   add('05-livestock-transhumance',
@@ -224,14 +224,15 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
     if (i === 4) s += `<rect x="${x + 30}" y="${y + 18}" width="140" height="56" fill="${C.teal}" stroke="${C.grass}" stroke-width="9"/>` + [60, 100, 140].map((k) => path(`M${x + k},${y + 56} l-5,-14 m5,14 l5,-14`, { stroke: C.grass, w: 2.5 })).join('');
     return s;
   };
-  let b = '', y = 112;
+  let b = '', arrows = '', y = 112;
   steps.forEach(([ti, d], i) => {
     const h = 114;
     b += panel(30, y, 840, h) + icon(i, 50, y + 12) + badge(300, y + h / 2, 24, String(i + 1), i === 1 ? C.mustard : C.cream);
     b += para(345, y + 44, ti, 500, { size: 22, weight: 700 }).s + para(345, y + 44 + (tw(ti, 22, 700) > 500 ? 58 : 30), d, 500, { size: 18, fill: C.muted }).s;
-    if (i < steps.length - 1) b += arrow(300, y + h / 2 + 26, 300, y + h + 14 + h / 2 - 28, { w: 3 });
+    if (i < steps.length - 1) arrows += arrow(300, y + h / 2 + 26, 300, y + h + 14 + h / 2 - 28, { w: 3 });
     y += h + 14;
   });
+  b += arrows;
   add('06-river-to-field',
     svg(900, y + 16, 'Moving water from the river to the field', b),
     'Five steps of the irrigation network: a dam stores water, a barrage raises the river level and diverts water into canals, link canals move water between rivers, distribution canals and field channels carry it to farms, and bunds hold it on the fields.',
@@ -246,19 +247,21 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   b += `<rect x="30" y="${sy}" width="840" height="242" fill="${C.sand}"/>` + `<line x1="30" y1="${sy}" x2="870" y2="${sy}" stroke="${C.ink}" stroke-width="3"/>`;
   b += `<path d="M70,${sy} L90,${sy + 60} L190,${sy + 60} L210,${sy} Z" fill="${C.teal}" stroke="${C.ink}" stroke-width="3"/>` + T(140, sy - 14, 'unlined canal', { size: 17, weight: 700, anchor: 'middle' });
   // water tables
-  b += `<rect x="30" y="${sy + 40}" width="840" height="${502 - sy - 40}" fill="${C.teal}" opacity="0.55"/>`;
+  b += `<rect x="30" y="${sy + 40}" width="840" height="${502 - sy - 40}" fill="${C.teal}" opacity="0.75"/>`;
   b += path(`M30,${sy + 40} L870,${sy + 40}`, { stroke: C.blue, w: 4 }) + path(`M30,${sy + 190} L870,${sy + 190}`, { stroke: C.blue, w: 3, extra: 'stroke-dasharray="10 8"' });
-  b += T(860, sy + 182, 'water table before', { size: 16, fill: C.blue, anchor: 'end', weight: 600 }) + T(860, sy + 66, 'water table rises near the surface', { size: 17, fill: C.blue, anchor: 'end', weight: 700 });
+  b += T(860, sy + 182, 'water table before', { size: 16, fill: C.blue, anchor: 'end', weight: 600 }) + T(240, sy + 66, 'water table rises near the surface', { size: 17, fill: C.blue, weight: 700 });
   b += [110, 140, 170].map((x) => arrow(x, sy + 70, x, sy + 130, { color: C.blue, w: 3 })).join('') + T(140, sy + 160, 'seepage', { size: 17, weight: 700, fill: C.blue, anchor: 'middle' });
   b += arrow(330, 170, 330, sy - 6, { color: C.blue, w: 3 }) + arrow(360, 170, 360, sy - 6, { color: C.blue, w: 3 }) + T(345, 160, 'over-watering', { size: 17, weight: 700, fill: C.blue, anchor: 'middle' });
   // crop with drowned roots
   [470, 520, 570].forEach((x) => { b += path(`M${x},${sy} L${x},${sy - 60} M${x},${sy - 30} l-14,-14 M${x},${sy - 42} l14,-14`, { stroke: C.grass, w: 4 }) + path(`M${x},${sy} l-10,30 M${x},${sy} l0,34 M${x},${sy} l10,30`, { stroke: C.rockDark, w: 2.5 }); });
-  b += T(520, sy + 100, 'waterlogged: roots cannot breathe', { size: 17, weight: 700, anchor: 'middle' });
+  b += T(520, sy + 112, 'waterlogged: roots cannot breathe', { size: 17, weight: 700, anchor: 'middle' });
   // evaporation and salt
-  b += [700, 760, 820].map((x) => arrow(x, sy - 4, x, sy - 70, { color: C.rust, w: 3, marker: 'ahR' })).join('') + T(760, sy - 84, 'evaporation in the hot climate', { size: 17, weight: 700, fill: C.rust, anchor: 'middle' });
-  b += `<rect x="650" y="${sy - 7}" width="210" height="9" fill="#ffffff" stroke="${C.muted}" stroke-width="1.5"/>` + T(760, sy + 30, 'salts left on the surface:', { size: 17, weight: 700, anchor: 'middle' }) + T(760, sy + 52, 'salinity', { size: 17, weight: 700, anchor: 'middle' });
-  const c1 = card(30, 522, 410, { title: 'Restoring damaged land', body: ['Tubewells pump groundwater out to lower the water table', 'Drainage channels carry salty water away', 'Land is flushed with water', 'Salt-tolerant crops are planted'], bullets: true, fill: C.tealLight, edge: C.tealDark, bfill: C.ink });
-  const c2 = card(460, 522, 410, { title: 'Prevention', body: ['Lining canals', 'More careful water use', 'Better drainage'], bullets: true, fill: C.cream, edge: C.olive, bfill: C.ink, h: c1.h });
+  b += [690, 740, 790].map((x) => arrow(x, sy - 8, x, sy - 64, { color: C.rust, w: 3, marker: 'ahR' })).join('') + T(735, sy - 80, 'evaporation in the hot climate', { size: 16, weight: 700, fill: C.rust, anchor: 'middle' });
+  b += `<rect x="650" y="${sy - 7}" width="210" height="9" fill="#ffffff" stroke="${C.muted}" stroke-width="1.5"/>` + T(860, sy + 66, 'salt crust left on the', { size: 17, weight: 700, anchor: 'end' }) + T(860, sy + 88, 'surface = salinity', { size: 17, weight: 700, anchor: 'end' });
+  const q1 = { title: 'Restoring damaged land', body: ['Tubewells pump groundwater out to lower the water table', 'Drainage channels carry salty water away', 'Land is flushed with water', 'Salt-tolerant crops are planted'], bullets: true, fill: C.tealLight, edge: C.tealDark, bfill: C.ink };
+  const q2 = { title: 'Prevention', body: ['Lining canals', 'More careful water use', 'Better drainage'], bullets: true, fill: C.cream, edge: C.olive, bfill: C.ink };
+  const qh = Math.max(cardH(410, q1), cardH(410, q2));
+  const c1 = card(30, 522, 410, { ...q1, h: qh }), c2 = card(460, 522, 410, { ...q2, h: qh });
   add('07-waterlogging-salinity',
     svg(900, 522 + c1.h + 30, 'How waterlogging leads to salinity', b + c1.s + c2.s, 'not to scale'),
     'Cross-section of a field beside an unlined canal. Seepage and over-watering raise the water table near the surface so crop roots cannot breathe; evaporation in the hot climate then leaves salts on the surface. Cards list ways to restore damaged land and to prevent the problem.',

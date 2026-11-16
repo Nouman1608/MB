@@ -26,7 +26,7 @@ const box = (x, y, w, h, fill, edge, sw = 2.5, rx = 12) => `<rect x="${x}" y="${
       b += t(x + 16, 384, 'sub-topics', { size: 15, weight: 600, fill: C.muted });
       subs.forEach((s, j) => {
         const y = 396 + j * 96;
-        const ls = wrap(s, 15);
+        const ls = wrap(s, 20);
         b += panel(x, y, w, 80) + tl(x + 16, y + (ls.length === 1 ? 46 : 34), ls, { size: 17 }, 22);
       });
     } else {
@@ -67,7 +67,7 @@ const box = (x, y, w, h, fill, edge, sw = 2.5, rx = 12) => `<rect x="${x}" y="${
 // 03 Switching registers in one piece
 {
   let b = '';
-  const col = (x, head, sub, lines, fill, edge) => box(x, 110, 380, 400, fill, edge, 2.5, 14) + t(x + 24, 150, head, { size: 24, weight: 700 }) + t(x + 24, 178, sub, { size: 17, fill: C.muted }) +
+  const col = (x, head, sub, lines, fill, edge) => box(x, 110, 380, 330, fill, edge, 2.5, 14) + t(x + 24, 150, head, { size: 24, weight: 700 }) + t(x + 24, 178, sub, { size: 17, fill: C.muted }) +
     lines.map(([a, c], i) => t(x + 24, 232 + i * 70, a, { size: 18, weight: 700, fill: C.tealDark }) + t(x + 24, 256 + i * 70, c, { size: 17 })).join('');
   b += col(30, 'Describe', 'a place, factually', [
     ['Present tense', 'what the place is like'],
@@ -79,10 +79,10 @@ const box = (x, y, w, h, fill, edge, sw = 2.5, rx = 12) => `<rect x="${x}" y="${
     ['Cause and effect', 'as a result, this leads to'],
     ['Conditionals', 'if we recycled more, ... would improve'],
   ], C.cream, C.olive);
-  b += arrow(414, 310, 486, 310, { w: 5 });
-  b += t(450, 552, 'Practise moving from description to argument within a single piece of writing', { size: 18, weight: 600, anchor: 'middle' });
+  b += arrow(414, 290, 486, 290, { w: 5 });
+  b += t(450, 480, 'Practise moving from description to argument within a single piece of writing', { size: 18, weight: 600, anchor: 'middle' });
   add('03-describe-then-evaluate',
-    svg(900, 590, 'Switching register in one answer', b),
+    svg(900, 520, 'Switching register in one answer', b),
     'Two halves of one piece of writing. Describing a place uses the present tense, comparatives and past narrative; evaluating a problem uses impersonal constructions, cause-and-effect connectives and conditionals.',
     'Theme 2 mixes description and argument, so practise switching between them.',
     '## Structures that raise the grade');
@@ -90,19 +90,19 @@ const box = (x, y, w, h, fill, edge, sw = 2.5, rx = 12) => `<rect x="${x}" y="${
 
 // 04 Reading text functions and the travel tense switch
 {
-  let b = panel(30, 110, 840, 270) + t(54, 148, 'Reading on social and global issues: what is this part doing?', { size: 21, weight: 700 });
+  let b = panel(30, 110, 840, 220) + t(54, 148, 'Reading on social and global issues: what is this part doing?', { size: 21, weight: 700 });
   [['Describing', 'a problem'], ['Proposing', 'a solution'], ['Evaluating', 'how well a', 'solution worked']].forEach(([h, ...ls], i) => {
     const x = 60 + i * 270, fill = i === 2 ? C.cream : C.tealLight, edge = i === 2 ? C.olive : C.tealDark;
-    b += box(x, 176, 240, 180, fill, edge, 2.5, 12) + t(x + 120, 220, h, { size: 22, weight: 700, anchor: 'middle' }) + tl(x + 120, 254, ls, { size: 18, anchor: 'middle' }, 24);
-    if (i < 2) b += arrow(x + 242, 266, x + 266, 266, { w: 3 });
+    b += box(x, 172, 240, 136, fill, edge, 2.5, 12) + t(x + 120, 214, h, { size: 22, weight: 700, anchor: 'middle' }) + tl(x + 120, 248, ls, { size: 18, anchor: 'middle' }, 24);
+    if (i < 2) b += arrow(x + 242, 240, x + 266, 240, { w: 3 });
   });
-  b += panel(30, 400, 840, 250) + t(54, 438, 'Writing on travel: two time frames in one response', { size: 21, weight: 700 });
-  b += box(60, 466, 360, 150, C.panel, C.panelEdge, 2.5, 12) + t(84, 504, 'Past-tense recount', { size: 20, weight: 700, fill: C.tealDark }) + t(84, 536, 'what you did', { size: 18 });
-  b += box(480, 466, 360, 150, C.cream, C.olive, 2.5, 12) + t(504, 504, 'Present-tense evaluation', { size: 20, weight: 700, fill: C.olive }) + t(504, 536, 'what you think of it now', { size: 18 });
-  b += arrow(424, 541, 476, 541, { w: 4 });
-  b += t(84, 584, 'avoid a pure narrative with no comment', { size: 16, fill: C.muted }) + t(504, 584, 'shows opinion-giving language', { size: 16, fill: C.muted });
+  b += panel(30, 350, 840, 250) + t(54, 388, 'Writing on travel: two time frames in one response', { size: 21, weight: 700 });
+  b += box(60, 416, 360, 150, C.panel, C.panelEdge, 2.5, 12) + t(84, 454, 'Past-tense recount', { size: 20, weight: 700, fill: C.tealDark }) + t(84, 486, 'what you did', { size: 18 });
+  b += box(480, 416, 360, 150, C.cream, C.olive, 2.5, 12) + t(504, 454, 'Present-tense evaluation', { size: 20, weight: 700, fill: C.olive }) + t(504, 486, 'what you think of it now', { size: 18 });
+  b += arrow(424, 491, 476, 491, { w: 4 });
+  b += t(84, 534, 'avoid a pure narrative with no comment', { size: 16, fill: C.muted }) + t(504, 534, 'shows opinion-giving language', { size: 16, fill: C.muted });
   add('04-approaching-the-tasks',
-    svg(900, 680, 'Approaching the tasks', b),
+    svg(900, 630, 'Approaching the tasks', b),
     'In reading, sort each part of an issues text into describing a problem, proposing a solution or evaluating how well a solution worked. In travel writing, move from a past-tense recount of what you did to a present-tense evaluation of what you think now.',
     'Separate problem, solution and evaluation in reading; switch tenses in travel writing.',
     '## Approaching the tasks');

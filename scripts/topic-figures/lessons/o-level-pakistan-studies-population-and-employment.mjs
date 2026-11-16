@@ -46,7 +46,7 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
     svg(900, 636, 'Pakistan’s population at each census', b),
     'A bar chart on a true time scale shows census populations of about 34 million in 1951, 84 million in 1981, 132 million in 1998, 208 million in 2017 and 241.5 million in 2023, with growth of about 2.55% a year between 2017 and 2023.',
     'Pakistan’s population has grown about sevenfold since 1951.',
-    '## How fast has Pakistan’s population grown?');
+    "## How fast has Pakistan's population grown?");
 }
 
 // 02 Natural increase (schematic)
@@ -68,7 +68,7 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
     svg(900, 644, 'Why growth stayed high', b, 'Schematic: shapes show the trend, not measured values'),
     'A schematic graph from independence to today. The death rate falls steeply while the birth rate falls much more slowly, so the shaded gap between them, natural increase, stays wide.',
     'Deaths fell fast and births fell slowly, so natural increase stayed high.',
-    '## How fast has Pakistan’s population grown?');
+    "## How fast has Pakistan's population grown?");
 }
 
 // 03 Pyramid (schematic)
@@ -98,7 +98,7 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
     svg(900, py + 160, 'Reading Pakistan’s population pyramid', b, 'Schematic shape, not census data'),
     'A schematic pyramid with a broad base (a third or more under 15), a slightly narrower bottom bar as birth rates begin to fall, a bulge in the 15–29 groups and a narrow top with few over 65. Boxes below list effects now and projected effects, including the demographic dividend.',
     'A broad base and a youth bulge: a dividend if jobs are created, a problem if not.',
-    '## What does Pakistan’s population pyramid show?');
+    "## What does Pakistan's population pyramid show?");
 }
 
 // 04 Why growth continues

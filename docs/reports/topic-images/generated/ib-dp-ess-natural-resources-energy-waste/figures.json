@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--01-sustainable-yield-forest.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## 7.1 Natural resources -- uses and management",
+  "alt": "Graph of a plantation stock over ten years. Felling 920 t a year, equal to the sustainable yield, keeps the stock at 18 400 t; felling 1150 t a year takes 230 t above the yield and cuts the stock to 16 100 t. Steps show SY = 19 320 − 18 400 = 920 t, 5.0% of the stock.",
+  "caption": "Harvest no more than the sustainable yield, or natural capital shrinks.",
+  "bytes": 99394
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--02-maximum-sustainable-yield.webp",
+  "width": 900,
+  "height": 776,
+  "after": "## 7.1 Natural resources -- uses and management",
+  "alt": "Hump-shaped graph of yearly growth against stock size, from zero to the carrying capacity K. Growth is fastest at about half of K, where the maximum sustainable yield can be taken. MSY is risky because stock estimates are uncertain.",
+  "caption": "Growth, and so the maximum sustainable yield, peaks at about half the carrying capacity.",
+  "bytes": 55914
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--03-tragedy-of-the-commons.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## 7.1 Natural resources -- uses and management",
+  "alt": "A shared pasture used by several herders. One herder adds an animal and gets the full benefit, while the cost of overgrazing is shared by all. Each user acting rationally leads to overexploitation. A note says commons with clear boundaries, agreed rules and penalties have been managed sustainably.",
+  "caption": "Private gain with shared cost drives overexploitation of a common-pool resource.",
+  "bytes": 96718
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--04-energy-mix.webp",
+  "width": 900,
+  "height": 635,
+  "after": "## 7.2 Energy sources -- uses and management",
+  "alt": "Stacked bars of electricity generation in a fictional country. 2015: 280 TWh with coal 140, gas 60, oil 10, nuclear 20, hydro 35, wind 10, solar 2, biomass 3. 2025: 310 TWh with coal 110, gas 80, oil 5, nuclear 20, hydro 38, wind 32, solar 20, biomass 5. The renewable share rose from 17.9% to 30.6%, but fossil generation fell by only 15 TWh.",
+  "caption": "The renewable share rose, but growing demand kept fossil generation high.",
+  "bytes": 86218
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--05-energy-choices-security.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## 7.2 Energy sources -- uses and management",
+  "alt": "Seven factors point to a society’s energy mix: availability of local resources, technology and cost, economic factors, political factors, cultural and social attitudes, environmental concerns and energy security. Below, four ways to improve energy security: diversify sources, develop local renewables, store fuel or electricity, and reduce demand.",
+  "caption": "Energy choices balance several factors; security depends on diversity and demand.",
+  "bytes": 114162
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--06-waste-hierarchy.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## 7.3 Solid waste",
+  "alt": "An inverted pyramid of waste strategies from most to least preferred: reduce, reuse, recycle or compost, recover energy, dispose to landfill. Reduce and reuse match level 1 of the pollution management model (altering human activity); recycling, composting, incineration and landfill taxes match level 2 (controlling release); clean-up and restoration is level 3.",
+  "caption": "Reduce and reuse come before recycling; disposal is the last resort.",
+  "bytes": 92768
+ },
+ {
+  "file": "ib-dp-ess-natural-resources-energy-waste--07-landfill-lifespan.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## 7.3 Solid waste",
+  "alt": "Flow of calculations. Now: 30 400 t of waste a year, 22 800 t landfilled, 30 400 cubic metres a year at 0.75 t per cubic metre, so 380 000 cubic metres of space lasts 12.5 years. With food-waste collection and better recycling: 15 000 t landfilled, 20 000 cubic metres a year, 50.7% diverted, lasting 19 years.",
+  "caption": "Diverting half the waste stretches the landfill from 12.5 to 19 years.",
+  "bytes": 102986
+ }
+]

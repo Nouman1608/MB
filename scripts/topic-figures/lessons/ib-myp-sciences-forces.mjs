@@ -124,13 +124,13 @@ const axes = (ox, oy, w, h, xl, yl, size = 16) => `<line x1="${ox}" y1="${oy}" x
 // 05 Motion graphs
 {
   let b = '';
-  const mini = (x, title, d, note) => panel(x, 110, 270, 250) + t(x + 135, 145, title, { size: 18, weight: 700, anchor: 'middle' }) + axes(x + 50, 310, 190, 130, 'time', 'distance', 15) + path(d, { stroke: C.tealDark, w: 4 }) + t(x + 135, 350, note, { size: 15, anchor: 'middle', fill: C.muted });
+  const mini = (x, title, d, note) => panel(x, 110, 270, 272) + t(x + 135, 145, title, { size: 18, weight: 700, anchor: 'middle' }) + axes(x + 50, 310, 190, 130, 'time', 'distance', 15) + path(d, { stroke: C.tealDark, w: 4 }) + t(x + 135, 366, note, { size: 15, anchor: 'middle', fill: C.muted });
   b += mini(30, 'Stationary', 'M80,240 L270,240', 'horizontal line');
   b += mini(315, 'Constant speed', 'M365,305 L545,195', 'straight slope: gradient = speed');
   b += mini(600, 'Speeding up', 'M650,308 Q760,300 830,190', 'curve getting steeper');
-  b += panel(30, 380, 840, 470);
-  b += t(60, 418, 'Velocity-time graph: a tram', { size: 20, weight: 700 });
-  const ox = 110, oy = 740, sx = 42, sy = 22;
+  b += panel(30, 400, 840, 440);
+  b += t(60, 438, 'Velocity-time graph: a tram', { size: 20, weight: 700 });
+  const ox = 110, oy = 770, sx = 32, sy = 22;
   const X = (s) => ox + s * sx, Y = (v) => oy - v * sy;
   b += `<path d="M${X(0)},${Y(0)} L${X(4)},${Y(12)} L${X(4)},${Y(0)} Z" fill="${C.teal}" opacity="0.8"/><path d="M${X(4)},${Y(12)} L${X(10)},${Y(12)} L${X(10)},${Y(0)} L${X(4)},${Y(0)} Z" fill="${C.cream}"/><path d="M${X(10)},${Y(12)} L${X(13)},${Y(0)} L${X(10)},${Y(0)} Z" fill="${C.teal}" opacity="0.8"/>`;
   b += axes(ox, oy, 14 * sx, 13 * sy + 10, 'time (s)', 'velocity (m/s)');
@@ -138,11 +138,11 @@ const axes = (ox, oy, w, h, xl, yl, size = 16) => `<line x1="${ox}" y1="${oy}" x
   b += t(ox - 10, Y(12) + 5, '12', { size: 15, anchor: 'end' }) + `<line x1="${ox - 5}" y1="${Y(12)}" x2="${ox}" y2="${Y(12)}" stroke="${C.ink}" stroke-width="2"/>`;
   b += path(`M${X(0)},${Y(0)} L${X(4)},${Y(12)} L${X(10)},${Y(12)} L${X(13)},${Y(0)}`, { stroke: C.ink, w: 4 });
   b += t(X(2.9), Y(3), '24 m', { size: 17, weight: 700, anchor: 'middle' }) + t(X(7), Y(5), '72 m', { size: 19, weight: 700, anchor: 'middle' }) + t(X(10.95), Y(3), '18 m', { size: 17, weight: 700, anchor: 'middle' });
-  b += t(X(2) - 14, Y(7), 'a = 3.0', { size: 15, weight: 700, anchor: 'end', fill: C.tealDark }) + t(X(7), Y(12) - 12, 'a = 0', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(X(11.5) + 16, Y(7), 'a = −4.0 m/s²', { size: 15, weight: 700, fill: C.rust });
-  b += `<rect x="${X(14) + 30}" y="470" width="220" height="190" rx="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>`;
-  b += tl(X(14) + 46, 505, ['gradient = acceleration', 'area = distance', '', 'total = 114 m', 'average speed', '= 114 ÷ 13 = 8.77 m/s'], { size: 16, weight: 600 }, 24);
+  b += t(X(3) - 14, Y(9), 'a = 3.0', { size: 15, weight: 700, anchor: 'end', fill: C.tealDark }) + t(X(7), Y(12) - 12, 'a = 0', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(X(10.75) + 12, Y(9), 'a = −4.0', { size: 15, weight: 700, fill: C.rust });
+  b += `<rect x="${X(14) + 30}" y="500" width="250" height="190" rx="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>`;
+  b += tl(X(14) + 46, 535, ['gradient = acceleration', '(a in m/s²)', 'area = distance', 'total = 114 m', 'average speed', '= 114 ÷ 13 = 8.77 m/s'], { size: 16, weight: 600 }, 24);
   add('05-motion-graphs',
-    svg(900, 870, 'Reading motion graphs', b),
+    svg(900, 860, 'Reading motion graphs', b),
     'Three distance-time graphs: a horizontal line for stationary, a straight slope for constant speed and a steepening curve for speeding up. Below, a tram’s velocity-time graph rises to 12 m/s in 4 s (3.0 m/s²), stays at 12 m/s until 10 s, then falls to 0 at 13 s (−4.0 m/s²). The areas 24 m, 72 m and 18 m give 114 m, an average speed of 8.77 m/s.',
     'Gradient gives speed or acceleration; the area under a velocity-time graph gives distance.',
     '## Graphs of motion');
@@ -166,7 +166,7 @@ const axes = (ox, oy, w, h, xl, yl, size = 16) => `<line x1="${ox}" y1="${oy}" x
   b += `<rect x="70" y="590" width="330" height="220" fill="${C.teal}"/>` + `<line x1="70" y1="590" x2="400" y2="590" stroke="${C.tealDark}" stroke-width="2.5"/>`;
   b += `<path d="M400,570 L450,570 L540,810 L400,810 Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>` + t(470, 760, 'dam', { size: 17, weight: 700, anchor: 'middle' });
   [610, 660, 710, 760, 800].forEach((y, i) => { b += force(400 - 20 - (y - 590) * 0.5, y, 396, y, C.blue, 'ah', 3); });
-  b += t(90, 620, 'longer arrows: more pressure', { size: 15, fill: '#fff', weight: 700 });
+  b += t(70, 580, 'longer arrows: more pressure', { size: 15, fill: C.blue, weight: 700 });
   b += tl(570, 600, ['p = h × ρ × g', '', 'At 5.0 m in fresh water:', '5.0 × 1000 × 9.8', '= 49 000 Pa', '', 'So dam walls are thicker', 'at the bottom.'], { size: 17, weight: 600 }, 24);
   add('06-pressure',
     svg(900, 860, 'Pressure: force spread over area', b),
@@ -189,9 +189,9 @@ const axes = (ox, oy, w, h, xl, yl, size = 16) => `<line x1="${ox}" y1="${oy}" x
   b += `<line x1="${xl}" y1="${py - 100}" x2="${px}" y2="${py - 100}" stroke="${C.ink}" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>` + t((xl + px) / 2, py - 112, '2.0 m', { size: 18, weight: 700, anchor: 'middle' });
   b += `<line x1="${px}" y1="${py - 100}" x2="${xr}" y2="${py - 100}" stroke="${C.ink}" stroke-width="2.5" marker-start="url(#ah)" marker-end="url(#ah)"/>` + t((xr + px) / 2, py - 112, 'd = 1.5 m', { size: 18, weight: 700, anchor: 'middle' });
   b += `<line x1="${px}" y1="${py - 130}" x2="${px}" y2="${py}" stroke="${C.muted}" stroke-width="2" stroke-dasharray="5 5"/>` + t(px, py + 135, 'pivot', { size: 16, anchor: 'middle', fill: C.muted });
-  b += path(`M${px - 70},${py + 60} A70,70 0 0 1 ${px - 70},${py - 60}`, { stroke: C.tealDark, w: 3, extra: 'marker-end="url(#ahT)"' }).replace(`M${px - 70},${py + 60} A70,70 0 0 1 ${px - 70},${py - 60}`, `M${px - 110},${py + 50} Q${px - 150},${py} ${px - 110},${py - 50}`);
-  b += t(130, py + 70, 'anticlockwise', { size: 15, fill: C.tealDark, weight: 700 });
-  b += path(`M${px + 110},${py - 50} Q${px + 150},${py} ${px + 110},${py + 50}`, { stroke: C.olive, w: 3, extra: 'marker-end="url(#ahO)"' }) + t(px + 160, py + 70, 'clockwise', { size: 15, fill: C.olive, weight: 700 });
+  b += path(`M${px - 70},${py + 60} A70,70 0 0 1 ${px - 70},${py - 60}`, { stroke: C.tealDark, w: 3, extra: 'marker-end="url(#ahT)"' }).replace(`M${px - 70},${py + 60} A70,70 0 0 1 ${px - 70},${py - 60}`, `M${px - 110},${py - 50} Q${px - 150},${py} ${px - 110},${py + 50}`);
+  b += t(px - 150, py + 80, 'anticlockwise', { size: 15, fill: C.tealDark, weight: 700, anchor: 'middle' });
+  b += path(`M${px + 110},${py - 50} Q${px + 150},${py} ${px + 110},${py + 50}`, { stroke: C.olive, w: 3, extra: 'marker-end="url(#ahO)"' }) + t(px + 150, py + 80, 'clockwise', { size: 15, fill: C.olive, weight: 700, anchor: 'middle' });
   b += panel(30, 530, 840, 200, C.cream, C.olive);
   b += t(60, 568, 'Principle of moments (in balance):', { size: 19, weight: 700 }) + t(60, 600, 'total anticlockwise moment = total clockwise moment', { size: 17, fill: C.muted });
   b += t(60, 644, '300 × 2.0 = 400 × d', { size: 22, weight: 700 }) + t(60, 684, '600 = 400d   →   d = 1.5 m', { size: 22, weight: 700, fill: C.tealDark });

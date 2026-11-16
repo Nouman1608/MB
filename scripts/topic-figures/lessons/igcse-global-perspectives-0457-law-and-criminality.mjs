@@ -378,22 +378,23 @@ add('04-drug-possession-perspectives',
 // 05 Criminal record chain
 add('05-criminal-record-chain',
   compose('From a minor offence to more crime', [
-    (y) => cycle(y, [
-      { title: 'Criminal record for a minor offence', fill: C.cream, edge: C.olive },
-      { title: 'Employers less willing to hire' },
-      { title: 'No work or income', body: 'risk of reoffending may rise' },
-      { title: 'Community pays again', body: 'more crime, more court costs', fill: C.tealLight, edge: C.tealDark },
-    ], { rx: 300, ry: 165, cardW: 250, center: 'possible factors, not certainties', da: 0.4 }),
+    (y) => row(y, [
+      { kicker: 'CAUSE', kfill: C.olive, title: 'A young person gets a criminal record for a minor offence', fill: C.cream, edge: C.olive },
+      { kicker: 'CONSEQUENCE', title: 'Employers may be less willing to hire them' },
+      { kicker: 'FURTHER', title: 'Without work or income, the risk of reoffending may rise' },
+      { kicker: 'KNOCK-ON', title: 'The community pays again: more crime, more court costs', fill: C.tealLight, edge: C.tealDark },
+    ], { arrows: true, gap: 40, card: { tsize: 16, pad: 14 } }),
+    (y) => note(y, 'Causes of crime are contested: present them as possible factors supported by evidence, not certainties.'),
     (y) => chips(y, ['because', 'so', 'which means that', 'as a result'], { fill: C.mustard, edge: C.ink }),
     (y) => ({ s: T(450, y + 4, 'Each linking word is reasoning an examiner can credit. Avoid stereotyping whole groups.', { size: 17, anchor: 'middle', fill: C.muted }), h: 8 }),
   ]),
-  'A loop: a criminal record for a minor offence makes employers less willing to hire; without work or income the risk of reoffending may rise; the community pays again through more crime and court costs. Linking words such as because, so, which means that and as a result turn the steps into reasoning.',
-  'A consequence can feed back into the problem it was meant to solve.',
+  'A chain: a criminal record for a minor offence makes employers less willing to hire; without work or income the risk of reoffending may rise; the community pays again through more crime and court costs. Linking words such as because, so, which means that and as a result turn the steps into reasoning.',
+  'Each link in the chain is a piece of reasoning to support with evidence.',
   '## Causes and consequences');
 
 // 06 Harwell street lighting
 {
-  const Y = 120, base = Y + 290, sy = (v) => base - (v / 60) * 230;
+  const Y = 120, base = Y + 330, sy = (v) => base - (v / 60) * 220;
   let b = card(30, Y - 6, 840, { kicker: 'FICTIONAL COUNCIL OF HARWELL', title: '“New street lighting cut crime by 25%.”', tsize: 21, fill: C.panel, edge: C.ink }).s;
   b += `<line x1="60" y1="${base}" x2="840" y2="${base}" stroke="${C.ink}" stroke-width="3"/>`;
   const grp = [[100, 'Lit streets', 52, 39, '−25%', C.cream], [480, 'Nearby area, no new lights', 48, 38, 'about −21%', C.tealLight]];
@@ -404,13 +405,14 @@ add('05-criminal-record-chain',
     });
     b += T(x + 125, base + 54, l, { size: 18, weight: 700, anchor: 'middle' }) + T(x + 125, base + 78, 'recorded thefts: ' + pct, { size: 16, anchor: 'middle', fill: C.rust, weight: 600 });
   });
-  b += T(450, Y + 104, 'recorded thefts in one year', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
-  b += row(base + 100, [
+  b += T(450, Y + 92 + 12, 'recorded thefts, one year before and after', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
+  const rw = row(base + 100, [
     { kicker: 'ANALYSIS', title: 'The arithmetic is right, the cause is not shown', body: 'Thefts fell almost as much without new lights, so most of the fall may have happened anyway.', edge: C.rust, kfill: C.rust },
     { kicker: 'BETTER TEST', title: 'Several lit and unlit streets, two years before and after', body: 'Plus a residents’ survey on crimes they did not report.', fill: C.tealLight, edge: C.tealDark },
-  ], { gap: 24, card: { tsize: 18, size: 16 } }).s;
+  ], { gap: 24, card: { tsize: 18, size: 16 } });
+  b += rw.s;
   add('06-harwell-lighting',
-    svg(900, base + 100 + 170, 'Did the lights cut crime?', b),
+    svg(900, base + 100 + rw.h + 30, 'Did the lights cut crime?', b),
     'Bar chart for the fictional town of Harwell: recorded thefts on newly lit streets fell from 52 to 39 (25%), but in a nearby area with no new lights they fell from 48 to 38 (about 21%). Most of the fall may have happened anyway; a better test compares several lit and unlit streets over two years before and after, with a residents’ survey.',
     'A comparison area shows how much of a change would have happened anyway.',
     '## Judging sources and evidence');
@@ -423,8 +425,8 @@ add('07-crime-evidence-traps',
       const L = card(30, y, 410, { title: 'Recorded crime is not all crime', body: 'Many crimes are never reported.', tsize: 19, edge: C.rust });
       let s = L.s;
       s += T(660, y + 30, 'A rise in recorded crime can mean…', { size: 18, weight: 700, anchor: 'middle' });
-      ['more crime', 'more reporting', 'new recording rules'].forEach((t2, i) => { s += `<rect x="${470 + i * 133}" y="${y + 50}" width="125" height="56" rx="12" fill="${i ? C.cream : C.tealLight}" stroke="${i ? C.olive : C.tealDark}" stroke-width="2.5"/>` + para(470 + i * 133 + 62, y + 74, t2, 110, { size: 16, weight: 600, anchor: 'middle' }).s; });
-      return { s, h: Math.max(L.h, 110) };
+      [['more crime'], ['more', 'reporting'], ['new recording', 'rules']].forEach((t2, i) => { const bx = 462 + i * 138; s += `<rect x="${bx}" y="${y + 48}" width="130" height="66" rx="12" fill="${i ? C.cream : C.tealLight}" stroke="${i ? C.olive : C.tealDark}" stroke-width="2.5"/>` + t2.map((l, k) => T(bx + 65, y + 87 - (t2.length - 1) * 10 + k * 20, l, { size: 16, weight: 600, anchor: 'middle' })).join(''); });
+      return { s, h: Math.max(L.h, 116) };
     },
     (y) => row(y, [
       { title: 'Fear of crime is not crime', body: 'A survey of how unsafe people feel is evidence about feelings.', edge: C.rust },
@@ -444,7 +446,7 @@ add('08-patrols-vs-mentoring',
       const W = 840, x0 = 30;
       let s = T(x0, y + 20, 'Time', { size: 16, weight: 700, fill: C.muted }) + `<line x1="${x0 + 60}" y1="${y + 14}" x2="${x0 + W}" y2="${y + 14}" stroke="${C.ink}" stroke-width="2.5" marker-end="url(#ah)"/>`;
       s += `<rect x="90" y="${y + 40}" width="260" height="56" rx="12" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>` + T(220, y + 75, 'Patrols: quick reassurance', { size: 17, weight: 700, anchor: 'middle' });
-      s += `<rect x="250" y="${y + 110}" width="620" height="56" rx="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(560, y + 145, 'Mentoring: set up, then lasting reduction', { size: 17, weight: 700, anchor: 'middle' });
+      s += `<rect x="250" y="${y + 110}" width="620" height="56" rx="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(560, y + 145, 'Mentoring: slower, more likely to reduce crime over time', { size: 17, weight: 700, anchor: 'middle' });
       return { s, h: 170 };
     },
     (y) => row(y, [

@@ -265,20 +265,21 @@ fig('04-exigence-vs-purpose', 'Exigence looks back, purpose looks forward', '', 
   let s = '';
   const y = y0 + 30;
   s += line(40, y + 70, 860, y + 70, C.panelEdge, 3);
-  const a = box(30, y, 250, { head: 'Exigence', body: 'The council voted to cut library hours.', headColor: C.rust, align: 'middle', edge: C.rust, fill: C.panel, h: 140 });
-  const m = box(325, y + 10, 250, { head: 'The text', body: 'A letter to the council', align: 'middle', fill: C.cream, edge: C.ink, h: 120 });
-  const b = box(620, y, 250, { head: 'Purpose', body: 'Persuade the council to reverse it.', headColor: C.tealDark, align: 'middle', edge: C.tealDark, fill: C.tealLight, h: 140 });
+  const a = box(30, y, 250, { head: 'Exigence', body: 'The council voted to cut library hours.', headColor: C.rust, align: 'middle', edge: C.rust, fill: C.panel, h: 140, vc: true });
+  const m = box(325, y + 10, 250, { head: 'The text', body: 'A letter to the council', align: 'middle', fill: C.cream, edge: C.ink, h: 120, vc: true });
+  const b = box(620, y, 250, { head: 'Purpose', body: 'Persuade the council to reverse it.', headColor: C.tealDark, align: 'middle', edge: C.tealDark, fill: C.tealLight, h: 140, vc: true });
   s += a.s + m.s + b.s;
   s += arrow(282, y + 70, 318, y + 70, { color: C.rust, marker: 'ahR', w: 4 });
   s += arrow(577, y + 70, 613, y + 70, { color: C.tealDark, marker: 'ahT', w: 4 });
   s += T(155, y + 170, '← what prompts the writing', { size: 17, anchor: 'middle', weight: 700, fill: C.rust });
   s += T(745, y + 170, 'what the text should do →', { size: 17, anchor: 'middle', weight: 700, fill: C.tealDark });
-  const r = row(30, y + 200, 840, 24, [
-    { head: 'Message is not purpose either', body: 'Message: what the text __says__. “A library is central to a town.”', fill: C.panel },
-    { head: ' ', body: 'Purpose: what the writer wants it to __do__. “Get the cut reversed.”', fill: C.panel },
+  s += T(450, y + 214, 'Message is not purpose either', { size: 18, weight: 700, anchor: 'middle' });
+  const r = row(30, y + 232, 840, 24, [
+    { head: 'Message: what the text says', body: '“A library is central to a town.”', fill: C.panel, headColor: C.olive },
+    { head: 'Purpose: what it should do', body: '“Get the cut reversed.”', fill: C.panel, headColor: C.tealDark },
   ]);
   s += r.s;
-  return { s, h: 200 + r.h + 30 };
+  return { s, h: 232 + r.h + 30 };
 }, 'A timeline: the council’s vote to cut library hours (exigence) prompts a letter, which aims to persuade the council to reverse the cut (purpose). Below, message is what the text says and purpose is what the writer wants it to do.',
 'Exigence is the trigger behind the text; purpose is the effect it aims at.', '## Describing each component precisely');
 
@@ -315,14 +316,14 @@ fig('06-primary-secondary-audience', 'Two layers of audience', 'The Larkfield Co
   let s = '';
   const y = y0 + 10;
   const w = box(30, y + 60, 230, { head: 'Writer', body: 'Retired bus driver; daily library user for six years', align: 'middle', size: 16 });
-  s += box(30, y + 60, 230, { head: 'Writer', body: 'Retired bus driver; daily library user for six years', align: 'middle', size: 16, h: 150 }).s;
-  s += box(335, y + 60, 230, { head: 'Letter', body: 'published in the Larkfield Courier', align: 'middle', fill: C.cream, edge: C.olive, size: 16, h: 150 }).s;
+  s += box(30, y + 60, 230, { head: 'Writer', body: 'Retired bus driver; daily library user for six years', align: 'middle', size: 16, h: 150, vc: true }).s;
+  s += box(335, y + 60, 230, { head: 'Letter', body: 'published in the Larkfield Courier', align: 'middle', fill: C.cream, edge: C.olive, size: 16, h: 150, vc: true }).s;
   s += arrow(262, y + 135, 328, y + 135, { w: 4 });
-  s += box(640, y, 230, { head: 'Primary', body: 'the councillors: “Councillors, you will say...”', align: 'middle', fill: C.tealLight, edge: C.tealDark, size: 16, h: 120 }).s;
-  s += box(640, y + 150, 230, { head: 'Secondary', body: 'Courier readers who might add public pressure', align: 'middle', fill: C.panel, edge: C.tealDark, size: 16, h: 120, dash: '7 5' }).s;
+  s += box(640, y, 230, { head: 'Primary', body: 'the councillors: “Councillors, you will say...”', align: 'middle', fill: C.tealLight, edge: C.tealDark, size: 16, h: 120, vc: true }).s;
+  s += box(640, y + 150, 230, { head: 'Secondary', body: 'Courier readers who might add public pressure', align: 'middle', fill: C.panel, edge: C.tealDark, size: 16, h: 120, dash: '7 5', vc: true }).s;
   s += curve(`M567,${y + 120} C600,${y + 110} 605,${y + 60} 632,${y + 60}`, C.tealDark, 5, 'ahT');
   s += curve(`M567,${y + 150} C600,${y + 160} 605,${y + 210} 632,${y + 210}`, C.tealDark, 3, 'ahT', '8 6');
-  let yy = y + 330;
+  let yy = y + 300;
   const r = row(30, yy, 840, 24, [
     { head: 'Credibility', body: 'The personal detail about being a bus driver builds the writer’s credibility as an ordinary user.', size: 16 },
     { head: 'Anticipated objection', body: '“You will say the savings are needed” shows the writer knows what the council will argue.', size: 16 },

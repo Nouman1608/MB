@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- local helpers (kept in this file so style.mjs stays shared and unchanged) ----
 const wrap = (s, size, width, bold = false) => {
-  const max = Math.floor(width / (size * (bold ? 0.58 : 0.53))); const out = [''];
+  const max = Math.floor(width / (size * (bold ? 0.56 : 0.5))); const out = [''];
   for (const w of s.split(' ')) { const cur = out[out.length - 1]; if (cur && (cur + ' ' + w).length > max) out.push(w); else out[out.length - 1] = cur ? cur + ' ' + w : w; }
   return out;
 };
@@ -55,7 +55,7 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   b += panel(30, 556, 840, 170) + t(56, 594, 'Five Pillars of Islam', { size: 23, weight: 700 }) + t(844, 594, 'what Muslims DO', { size: 17, weight: 700, fill: C.olive, anchor: 'end' });
   pils.forEach(([n, g], i) => {
     const x = 56 + i * 160;
-    b += rect(x, 614, 148, 88, C.cream, C.mustard, 2.5, 12) + t(x + 74, 648, n, { size: 20, weight: 700, anchor: 'middle' }) + ctext(x + 74, 680, g, 132, { size: 15, fill: C.muted });
+    b += rect(x, 614, 148, 88, C.cream, C.mustard, 2.5, 12) + t(x + 74, 648, n, { size: 20, weight: 700, anchor: 'middle' }) + tl(x + 74, 674, wrap(g, 15, 132), { size: 15, fill: C.muted, anchor: 'middle' }, 19);
   });
   add('01-articles-to-pillars',
     svg(900, 750, 'Belief and practice in Islam', b),
@@ -77,13 +77,13 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   let b = rect(30, 110, 840, 60, C.teal, C.tealDark, 3, 14) +
     t(450, 148, 'Created from light  ·  no free will  ·  always obey Allah', { size: 20, weight: 700, anchor: 'middle' });
   angels.forEach(([n, d], i) => {
-    const x = 30 + (i % 2) * 426, y = 190 + Math.floor(i / 2) * 128;
-    b += card(x, y, 414, 114, { head: n, body: d, headSize: 20, size: 17, fill: i === 4 ? C.cream : C.panel, edge: i === 4 ? C.mustard : C.panelEdge });
+    const x = 30 + (i % 2) * 426, y = 188 + Math.floor(i / 2) * 136;
+    b += card(x, y, 414, 124, { head: n, body: d, headSize: 20, size: 17, fill: i === 4 ? C.cream : C.panel, edge: i === 4 ? C.mustard : C.panelEdge });
   });
-  const n = note(30, 584, 840, 'Why it matters', 'Belief that the Kiraman Katibin record every deed reminds Muslims they are never unobserved, which encourages good behaviour.');
+  const n = note(30, 600, 840, 'Why it matters', 'Belief that the Kiraman Katibin record every deed reminds Muslims they are never unobserved, which encourages good behaviour.');
   b += n.s;
   add('02-angels-and-duties',
-    svg(900, 584 + n.h + 24, 'Angels and their duties', b),
+    svg(900, 600 + n.h + 24, 'Angels and their duties', b),
     'Six cards name the key angels and their work: Jibril brought revelation, Mika\'il is linked to sustenance and rain, Israfil will blow the trumpet, the Angel of Death takes souls, the Kiraman Katibin record deeds, and Munkar and Nakir question the dead in the grave.',
     'Each angel has a fixed duty; knowing deeds are recorded encourages good behaviour.',
     '## What are angels and what do they do?');
@@ -95,20 +95,20 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   let b = '';
   books.forEach(([bk, g, p], i) => {
     const x = 30 + i * 170, last = i === 4;
-    b += rect(x, 120, 160, 130, last ? C.cream : C.panel, last ? C.mustard : C.panelEdge, last ? 3.5 : 2.5, 14) +
-      t(x + 80, 168, bk, { size: 24, weight: 700, anchor: 'middle' }) + (g ? t(x + 80, 194, g, { size: 16, anchor: 'middle', fill: C.muted }) : '') +
+    b += rect(x, 112, 160, 200, last ? C.cream : C.panel, last ? C.mustard : C.panelEdge, last ? 3.5 : 2.5, 14) +
+      t(x + 80, 160, bk, { size: 25, weight: 700, anchor: 'middle' }) + (g ? t(x + 80, 186, g, { size: 16, anchor: 'middle', fill: C.muted }) : '') +
       t(x + 80, 228, 'given to', { size: 15, anchor: 'middle', fill: C.muted });
-    b += rect(x + 10, 262, 140, 50, last ? C.mustard : C.tealLight, last ? C.olive : C.tealDark, 2.5, 25) + ctext(x + 80, 287, p, 130, { size: p.length > 10 ? 15 : 18, weight: 700 });
+    b += rect(x + 10, 242, 140, 56, last ? C.mustard : C.tealLight, last ? C.olive : C.tealDark, 2.5, 16) + ctext(x + 80, 270, p, 120, { size: 17, weight: 700 });
   });
-  b += pline('M40,345 L690,345', { color: C.tealDark, marker: 'ahT', w: 4 }) + pline('M690,345 L40,345', { color: C.tealDark, marker: 'ahT', w: 4 });
-  b += t(365, 375, 'all carried the same core message: tawhid', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += rect(30, 400, 840, 92, C.panel, C.panelEdge, 2.5, 14) +
-    t(56, 436, 'The Qur\'an is the final, complete and preserved revelation,', { size: 19, weight: 700 }) +
-    t(56, 466, 'so it is the standard by which Muslims live.', { size: 19, fill: C.muted });
-  b += pline('M780,326 L780,398', { color: C.olive, marker: 'ahO', w: 4 });
+  b += pline('M40,340 L690,340', { color: C.tealDark, marker: 'ahT', w: 4 }) + pline('M690,340 L40,340', { color: C.tealDark, marker: 'ahT', w: 4 });
+  b += t(365, 370, 'earlier books carried the same core message: tawhid', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += rect(30, 396, 840, 92, C.panel, C.panelEdge, 2.5, 14) +
+    t(56, 432, 'The Qur\'an is the final, complete and preserved revelation,', { size: 19, weight: 700 }) +
+    t(56, 462, 'so it is the standard by which Muslims live.', { size: 19, fill: C.muted });
+  b += pline('M790,314 L790,392', { color: C.olive, marker: 'ahO', w: 4 });
   add('03-revealed-books',
-    svg(900, 516, 'The revealed books', b),
-    'Five books with the prophet each was given to: the Suhuf (scrolls) to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the Qur\'an to Muhammad (pbuh). A line under them notes the same core message of tawhid, and the Qur\'an is marked as the final, complete and preserved revelation.',
+    svg(900, 512, 'The revealed books', b),
+    'Five books with the prophet each was given to: the Suhuf (scrolls) to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the Qur\'an to Muhammad (pbuh). A line under the earlier books notes their shared core message of tawhid, and the Qur\'an is marked as the final, complete and preserved revelation.',
     'One message of tawhid in every book; the Qur\'an is the final, preserved standard.',
     '## What are the revealed books?');
 }
@@ -123,15 +123,15 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     ['Deeds are weighed', ''],
     ['People cross the bridge (sirat)', ''],
   ];
-  let b = `<line x1="110" y1="132" x2="110" y2="${132 + 5 * 72}" stroke="${C.ink}" stroke-width="4"/>`;
+  let b = `<line x1="130" y1="132" x2="130" y2="${132 + 5 * 72}" stroke="${C.ink}" stroke-width="4"/>`;
   steps.forEach(([s, sub], i) => {
     const y = 108 + i * 72;
-    b += badge(110, y + 26, 22, String(i + 1), i === 3 ? C.mustard : C.cream);
-    b += rect(150, y, 620, 54, C.panel, C.panelEdge, 2.5, 12) + t(172, y + 34, s, { size: 20, weight: 700 }) + (sub ? t(748, y + 34, sub, { size: 17, fill: C.muted, anchor: 'end' }) : '');
+    b += badge(130, y + 26, 22, String(i + 1), i === 3 ? C.mustard : C.cream);
+    b += rect(170, y, 620, 54, C.panel, C.panelEdge, 2.5, 12) + t(192, y + 34, s, { size: 20, weight: 700 }) + (sub ? t(768, y + 34, sub, { size: 17, fill: C.muted, anchor: 'end' }) : '');
   });
   const yS = 108 + 6 * 72 - 18;
-  b += pline(`M460,${yS} L460,${yS + 18} L240,${yS + 18} L240,${yS + 52}`, { color: C.tealDark, marker: 'ahT' }) +
-    pline(`M460,${yS + 18} L680,${yS + 18} L680,${yS + 52}`, { color: C.rust, marker: 'ahR' });
+  b += pline(`M480,${yS} L480,${yS + 18} L240,${yS + 18} L240,${yS + 52}`, { color: C.tealDark, marker: 'ahT' }) +
+    pline(`M480,${yS + 18} L660,${yS + 18} L660,${yS + 52}`, { color: C.rust, marker: 'ahR' });
   const yo = yS + 60;
   b += rect(60, yo, 360, 88, C.tealLight, C.tealDark, 3, 14) + t(240, yo + 38, 'The righteous', { size: 20, weight: 700, anchor: 'middle' }) + t(240, yo + 68, 'enter paradise (janna)', { size: 18, anchor: 'middle', fill: C.tealDark, weight: 600 });
   b += rect(480, yo, 360, 88, '#f3dccd', C.rust, 3, 14) + t(660, yo + 38, 'The wicked', { size: 20, weight: 700, anchor: 'middle' }) + t(660, yo + 68, 'enter hell (jahannam)', { size: 18, anchor: 'middle', fill: C.rust, weight: 600 });
@@ -152,7 +152,7 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     ['Speech, knowledge and wealth', '', 'Such as teaching Islam or supporting the poor.', C.panel, C.panelEdge],
     ['Physical defence', 'of the community', 'Allowed only under strict conditions.', C.panel, C.panelEdge],
   ];
-  const xs = [30, 314, 598], w = 272, ch = 196;
+  const xs = [30, 314, 598], w = 272, ch = 160;
   cols.forEach(([h, sub, d, f, e], i) => {
     const x = xs[i];
     b += pline(`M450,178 L450,200 L${x + w / 2},200 L${x + w / 2},226`, { marker: 'ah', w: 3 });
@@ -162,16 +162,16 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     if (sub) { b += t(x + 18, y + 2, sub, { size: 17, weight: 600, fill: i === 0 ? C.olive : C.tealDark, italic: true }); y += 28; }
     b += para(x + 18, y + 8, d, w - 36, { size: 17, fill: C.muted }, 23);
   });
-  b += arrow(xs[2] + w / 2, 232 + ch + 2, xs[2] + w / 2, 466);
-  b += panel(30, 472, 840, 186) + t(56, 508, 'Physical defence is allowed only with:', { size: 20, weight: 700 });
+  b += arrow(xs[2] + w / 2, 232 + ch + 2, xs[2] + w / 2, 430);
+  b += panel(30, 436, 840, 150) + t(56, 472, 'Physical defence is allowed only with:', { size: 20, weight: 700 });
   const conds = ['a just cause', 'proper authority', 'strict rules: no harm to non-combatants, women, children, the elderly, crops or places of worship'];
-  const cx = [56, 296, 536], cw = [220, 220, 310];
+  const cx = [56, 236, 466], cw = [175, 225, 380];
   conds.forEach((c, i) => {
-    b += `<circle cx="${cx[i] + 12}" cy="${540}" r="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + path(`M${cx[i] + 6},540 l5,5 l8,-10`, { stroke: C.tealDark, w: 3 });
-    b += para(cx[i] + 34, 546, c, cw[i] - 34, { size: 18, weight: i < 2 ? 700 : 400 }, 24);
+    b += `<circle cx="${cx[i] + 12}" cy="${504}" r="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + path(`M${cx[i] + 6},504 l5,5 l8,-10`, { stroke: C.tealDark, w: 3 });
+    b += para(cx[i] + 34, 510, c, cw[i] - 34, { size: 18, weight: i < 2 ? 700 : 400 }, 24);
   });
   add('05-meanings-of-jihad',
-    svg(900, 682, 'The range of meanings of jihad', b),
+    svg(900, 610, 'The range of meanings of jihad', b),
     'Jihad, meaning striving in the way of Allah, branches into three forms: the spiritual and mental struggle against wrong desires (the greater jihad); striving through speech, knowledge and wealth; and physical defence of the community, allowed only for a just cause, under proper authority and without harming non-combatants, women, children, the elderly, crops or places of worship.',
     'Jihad covers inner, intellectual and physical striving; physical defence has strict limits.',
     '## What does jihad mean?');
@@ -190,10 +190,10 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   let b = t(x2 + 12, 132, 'What Muslims do', { size: 18, weight: 700, fill: C.olive }) + t(x3 + 12, 132, 'Why it matters', { size: 18, weight: 700, fill: C.tealDark });
   let y = 146;
   rows.forEach(([n, p, d, s]) => {
-    const h = Math.max(nl(d, 17, w2 - 28), nl(s, 17, w3 - 28)) * 22 + 30;
+    const h = Math.max(nl(d, 17, w2 - 28), nl(s, 17, w3 - 28)) * 22 + 22;
     b += rect(x1, y, w1, h, C.cream, C.mustard, 2.5, 12) + badge(x1 + 34, y + h / 2, 18, n, C.mustard) + t(x1 + 62, y + h / 2 + 7, p, { size: 20, weight: 700 });
-    b += rect(x2, y, w2, h, C.panel, C.panelEdge, 2.5, 12) + para(x2 + 14, y + 27, d, w2 - 28, { size: 17 }, 22);
-    b += rect(x3, y, w3, h, C.tealLight, C.tealDark, 2, 12) + para(x3 + 14, y + 27, s, w3 - 28, { size: 17, fill: C.ink }, 22);
+    b += rect(x2, y, w2, h, C.panel, C.panelEdge, 2.5, 12) + para(x2 + 14, y + 28, d, w2 - 28, { size: 17 }, 22);
+    b += rect(x3, y, w3, h, C.tealLight, C.tealDark, 2, 12) + para(x3 + 14, y + 28, s, w3 - 28, { size: 17, fill: C.ink }, 22);
     y += h + 10;
   });
   add('06-five-pillars-practice-significance',
@@ -207,14 +207,14 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
 {
   const st = [
     ['Miqat', 'Enter ihram'],
-    ['Ka\'ba', 'Tawaf around the Ka\'ba'],
-    ['Safa and Marwa', 'Sa\'y between the two hills'],
+    ['', 'Tawaf around the Ka\'ba'],
+    ['', 'Sa\'y between Safa and Marwa'],
     ['Arafat', 'Standing at Arafat on the 9th'],
     ['Muzdalifa', 'Spend the night'],
     ['Mina', 'Stone the pillars'],
     ['', 'Animal sacrifice'],
     ['', 'Shave or cut hair'],
-    ['Ka\'ba', 'Further tawaf'],
+    ['', 'Further tawaf'],
   ];
   const W = 250, H = 120, gx = 45, x0 = 30 + (840 - 3 * W - 2 * gx) / 2, y0 = 112, gy = 50;
   const pos = (i) => { const r = Math.floor(i / 3), c = r === 1 ? 2 - (i % 3) : i % 3; return [x0 + c * (W + gx), y0 + r * (H + gy)]; };
@@ -231,7 +231,7 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     else b += arrow(ax + W / 2, ay + H + 4, bx + W / 2, by - 6);
   }
   const yb = y0 + 3 * H + 2 * gy + 24;
-  const n = note(30, yb, 840, '"Hajj is Arafat"', 'Standing in prayer at Arafat on the 9th of Dhu al-Hijja is essential for a valid hajj. The whole journey stresses equality and unity, remembrance of Ibrahim, Hajar and Isma\'il, forgiveness of sins and the Day of Judgement.');
+  const n = note(30, yb, 840, '"Hajj is Arafat"', 'Standing in prayer at Arafat on the 9th of Dhu al-Hijja is essential for a valid hajj. Hajj also stands for equality and unity of the Ummah, remembrance of Ibrahim, Hajar and Isma\'il, forgiveness of sins and a reminder of the Day of Judgement.');
   b += n.s;
   add('07-hajj-observances',
     svg(900, yb + n.h + 24, 'The main observances of hajj', b),

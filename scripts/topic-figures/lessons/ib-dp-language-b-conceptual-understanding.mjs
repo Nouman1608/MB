@@ -245,7 +245,7 @@ F('02-explicit-implicit', 'What is said, and what is suggested', '', [
     const s1 = 'Residents are ', s2 = 'reminded', s3 = ' that bins must be inside by 8 p.m.';
     const size = 24, w = tw(s1 + s2 + s3, size, 400), x0 = 450 - w / 2, hx = x0 + tw(s1, size), hw = tw(s2, size, 700);
     let s = panel(30, y, 840, 104) +
-      `<rect x="${hx - 6}" y="${y + 32}" width="${hw + 12}" height="40" rx="8" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>` +
+      `<rect x="${hx - 3}" y="${y + 34}" width="${hw + 6}" height="36" rx="6" fill="${C.cream}"/><line x1="${hx}" y1="${y + 70}" x2="${hx + hw}" y2="${y + 70}" stroke="${C.olive}" stroke-width="3"/>` +
       `<text x="${x0}" y="${y + 61}" font-size="${size}" fill="${C.ink}">${X(s1)}<tspan font-weight="700">${s2}</tspan>${X(s3)}</text>`;
     const yy = y + 160;
     s += path(`M${hx + hw / 2 - 60},${y + 104} C${hx + hw / 2 - 60},${y + 130} 250,${y + 130} 250,${yy - 8}`, { w: 3, extra: 'marker-end="url(#ah)"' });
@@ -274,7 +274,6 @@ F('03-register-vs-tone', 'Register and tone are not the same thing', '', [
       s += `<rect x="108" y="${yy}" width="300" height="68" rx="10" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>`;
       s += T(124, yy + 28, n, { size: 19, weight: 700 }) + T(124, yy + 54, a, { size: 16, fill: C.muted });
     });
-    s += T(80, y + 360, 'more formal at the top', { size: 15, fill: C.muted, italic: true });
     s += panel(rx, y, 420, 380) + T(rx + 25, y + 42, 'TONE = what attitude', { size: 21, weight: 700, fill: C.olive });
     const tones = ['urgent', 'reassuring', 'enthusiastic', 'critical', 'sympathetic', 'humorous', 'ironic', 'neutral'];
     let cx = rx + 25, cyy = y + 70;
@@ -283,6 +282,7 @@ F('03-register-vs-tone', 'Register and tone are not the same thing', '', [
     s += tl(rx + 25, cyy + 116, ['• intensifiers ("absolutely")', '• modal verbs ("must" vs "could")', '• punctuation', '• the balance of facts and feelings'].map(X), { size: 17, fill: C.muted }, 25);
     return { s, h: 380 };
   },
+  P('**Any register can carry different tones:**', { anchor: 'middle', size: 18, fill: C.ink }),
   (y) => {
     const r = row(y, [
       { title: 'Formal letter', body: 'can be angry, grateful or cold' },
@@ -329,22 +329,18 @@ F('04-notice-five-concepts', 'Reading a notice through the five concepts', 'Noti
 // 05 One message, three audiences
 F('05-three-audiences', 'One message, three audiences', 'Class 12B has built a solar-powered phone-charging bench', [
   (y) => {
-    const meter = (n) => (x, yy, w, h) => [0, 1, 2].map((i) => `<rect x="${x + w - 20 - (3 - i) * 26}" y="${yy + 20}" width="20" height="14" rx="3" fill="${i < n ? C.tealDark : C.panel}" stroke="${C.tealDark}" stroke-width="2"/>`).join('');
-    const r = row(y, [
+    const meter = (n) => (x, yy, w, h) => `<line x1="${x + 18}" y1="${yy + h - 52}" x2="${x + w - 18}" y2="${yy + h - 52}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(x + 18, yy + h - 20, 'Formality', { size: 16, weight: 700, fill: C.tealDark }) + [0, 1, 2].map((i) => `<rect x="${x + 112 + i * 30}" y="${yy + h - 35}" width="24" height="18" rx="4" fill="${i < n ? C.tealDark : C.panel}" stroke="${C.tealDark}" stroke-width="2"/>`).join('');
+    const items = [
       { kicker: 'FORMAL EMAIL', title: 'To the head of school', body: ['*"I am writing on behalf of Class 12B to ask whether we may install…"*', '**Purpose:** request', '**Opening:** formal greeting and title', '**Sentences:** complete, polite conditionals', '**Relationship:** pupil to authority'], extra: meter(3) },
       { kicker: 'SEMI-FORMAL ARTICLE', title: 'To the school magazine', body: ['*"Ever run out of battery before the bus home?"*', '**Purpose:** inform and interest', '**Opening:** question to hook readers', '**Sentences:** mix of question and statement', '**Relationship:** writer to peers'], extra: meter(2) },
       { kicker: 'TEXT MESSAGE', title: 'To a friend', body: ['*"Bench is DONE!! … Come see it tomorrow?"*', '**Purpose:** share news', '**Opening:** none', '**Sentences:** fragments, exclamations', '**Relationship:** friend to friend'], extra: meter(1) },
-    ], { gap: 16, vcenter: false, card: { size: 16, tsize: 19, gap: 9, pad: 18 } });
-    return r;
-  },
-  (y) => {
-    let s = T(450, y + 20, 'Formality', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
-    s += arrow(390, y + 14, 270, y + 14, { color: C.tealDark, marker: 'ahT', w: 3 }) + `<line x1="510" y1="${y + 14}" x2="630" y2="${y + 14}" stroke="${C.tealDark}" stroke-width="3"/>` + T(170, y + 20, 'more formal', { size: 15, fill: C.tealDark, anchor: 'middle' }) + T(720, y + 20, 'less formal', { size: 15, fill: C.tealDark, anchor: 'middle' });
-    return { s, h: 26 };
+    ];
+    const o = { gap: 16, vcenter: false, card: { size: 16, tsize: 19, gap: 9, pad: 18 } };
+    return row(y, items, { ...o, minH: row(y, items, o).h + 48 });
   },
   (y) => note(y, 'The content barely changes; register, tone and structure all move.', 'That is variation: language appropriate to contexts and audiences.', { align: 'middle' }),
 ],
-'Three cards tell the same news about a charging bench. A formal email to the head of school makes a request with a formal greeting and polite conditionals; a semi-formal magazine article informs and interests with a hook question; a text message to a friend shares news in fragments and exclamations. Meters show formality falling from left to right.',
+'Three cards tell the same news about a charging bench. A formal email to the head of school makes a request with a formal greeting and polite conditionals; a semi-formal magazine article informs and interests with a hook question; a text message to a friend shares news in fragments and exclamations. A formality meter on each card falls from three to one.',
 'Same news, three audiences: the register, opening and sentences change to fit each reader.', H2.w2);
 
 // 06 Decoding a writing task
