@@ -46,7 +46,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
 
 // 02 The prescribed works
 {
-  let b = t(54, 138, 'Literary texts', { size: 21, weight: 700, fill: C.olive }) + t(476, 138, 'Films', { size: 21, weight: 700, fill: C.tealDark });
+  let b = t(54, 138, 'Literary texts', { size: 21, weight: 700, fill: C.olive }) + t(552, 138, 'Films', { size: 21, weight: 700, fill: C.tealDark });
   const lit = [
     ['آنگن', 'Aangan', 'novel, Khadija Mastur, 1999'],
     ['پطرس کے مضامین', 'Patras Ke Mazameen', 'essays, Ahmad Shah Patras Bukhari, 2011'],
@@ -54,21 +54,21 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   ];
   const film = [['بن روئے', 'Bin Roye', '2015'], ['باغبان', 'Baaghban', '2003'], ['بجرنگی بھائی جان', 'Bajrangi Bhaijaan', '2015']];
   lit.forEach(([ur, en, d], i) => {
-    const y = 156 + i * 112;
-    b += box(30, y, 420, 100, C.cream, C.olive, 2.5, 12) + u(430, y + 48, ur, { size: 28 }) + t(48, y + 36, en, { size: 18, weight: 700, italic: true }) + wt(48, y + 62, d, 22, { size: 15, fill: C.muted }, 19);
+    const y = 156 + i * 124;
+    b += box(30, y, 480, 112, C.cream, C.olive, 2.5, 12) + u(490, y + 44, ur, { size: 27 }) + t(48, y + 74, en, { size: 17, weight: 700, italic: true }) + t(48, y + 98, d, { size: 15, fill: C.muted });
   });
   film.forEach(([ur, en, d], i) => {
-    const y = 156 + i * 112;
-    b += box(470, y, 400, 100, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 48, ur, { size: 28 }) + t(490, y + 36, en, { size: 18, weight: 700, italic: true }) + t(490, y + 64, d, { size: 15, fill: C.muted });
+    const y = 156 + i * 124;
+    b += box(530, y, 340, 112, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 44, ur, { size: 27 }) + t(548, y + 74, en, { size: 17, weight: 700, italic: true }) + t(548, y + 98, d, { size: 15, fill: C.muted });
   });
-  b += panel(30, 500, 840, 150) + t(54, 534, 'Patras: five essays prescribed, not the whole book', { size: 18, weight: 700 });
+  b += panel(30, 540, 840, 120) + t(54, 574, 'Patras: five essays prescribed, not the whole book', { size: 18, weight: 700 });
   ['Savere Jo Kal Aankh Meri Khuli', 'Urdu Ki Aakhri Kitab', 'Murid Pur Ka Peer', 'Marhoom Ki Yaad Mein', 'Lahore Ka Jughrafia'].forEach((s, i) => {
-    const xx = 54 + (i % 3) * 272, yy = 570 + Math.floor(i / 3) * 34;
+    const xx = 54 + (i % 3) * 272, yy = 610 + Math.floor(i / 3) * 32;
     b += t(xx, yy, '• ' + s, { size: 16, italic: true });
   });
-  b += t(450, 682, 'Films are listed by name and year only: do not label anyone "director" from this list', { size: 16, weight: 600, anchor: 'middle', fill: C.rust });
+  b += t(450, 690, 'Films are listed by name and year only: do not label anyone "director" from this list', { size: 16, weight: 600, anchor: 'middle', fill: C.rust });
   add('02-prescribed-works',
-    svg(900, 706, 'The prescribed works', b),
+    svg(900, 716, 'The prescribed works', b),
     'Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015).',
     'Three texts and three films; the films are given by name and year only.',
     '## Syllabus coverage');
@@ -82,7 +82,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   angles.forEach(([a, c, deg]) => {
     const r = deg * Math.PI / 180, x = cx + Math.cos(r) * 230, y = cy + Math.sin(r) * 190;
     const hi = deg === 54;
-    b += `<line x1="${cx + Math.cos(r) * 96}" y1="${cy + Math.sin(r) * 96}" x2="${cx + Math.cos(r) * 150}" y2="${cy + Math.sin(r) * 124}" stroke="${C.ink}" stroke-width="2.5"/>` +
+    b += `<line x1="${cx + Math.cos(r) * 96}" y1="${cy + Math.sin(r) * 96}" x2="${x}" y2="${y}" stroke="${C.ink}" stroke-width="2.5"/>` +
       box(x - 95, y - 38, 190, 76, hi ? C.tealLight : C.panel, hi ? C.tealDark : C.panelEdge, 2.5, 12) + t(x, y - 5, a, { size: 17, weight: 700, anchor: 'middle' }) + t(x, y + 18, c, { size: 17, weight: 700, anchor: 'middle' });
   });
   b += box(30, 584, 840, 84, C.tealLight, C.tealDark, 2, 12) + t(54, 618, 'For AO4, connect each work to the four social and cultural themes', { size: 18, weight: 700 }) +
