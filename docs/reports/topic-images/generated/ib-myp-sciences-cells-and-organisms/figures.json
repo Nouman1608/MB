@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--01-animal-plant-bacterial-cells.webp",
+  "width": 900,
+  "height": 900,
+  "after": "## Cell structure: animal, plant and bacterial cells",
+  "alt": "Labelled animal cell with membrane, cytoplasm, nucleus, mitochondria and ribosomes. Plant cell adds a cellulose cell wall, chloroplasts and a large permanent vacuole. Bacterial cell has no nucleus: circular DNA and plasmids lie in the cytoplasm, with ribosomes, a cell membrane, a cell wall, and in some a capsule and flagellum.",
+  "caption": "Plant cells add a wall, chloroplasts and a vacuole; bacteria have no nucleus.",
+  "bytes": 139542
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--02-microscope-magnification.webp",
+  "width": 900,
+  "height": 820,
+  "after": "## Microscopy and magnification",
+  "alt": "A light microscope with a ×10 eyepiece lens, a ×40 objective lens, a slide on the stage, a focusing knob and a light source below. Total magnification is 10 × 40 = ×400. Beside it, low resolution shows two close points as one blur and high resolution shows them as two separate points.",
+  "caption": "Total magnification = eyepiece × objective; more magnification does not mean more detail.",
+  "bytes": 98434
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--03-units-and-sizes.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Microscopy and magnification",
+  "alt": "Millimetres convert to micrometres and micrometres to nanometres by multiplying by 1000, and back by dividing by 1000. A ten-times scale places an electron microscope’s resolution under 1 nm, a light microscope’s at about 200 nm, a mitochondrion at about 1 µm, a bacterium at 1–5 µm and an animal cell at 10–30 µm.",
+  "caption": "Each unit step is ×1000; put both sizes in the same unit before dividing.",
+  "bytes": 73664
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--04-magnification-triangle.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Microscopy and magnification",
+  "alt": "A formula triangle with image size on top and actual size times magnification below. A worked example converts a 30 mm drawing to 30 000 µm, divides by the 60 µm actual size and gets ×500, written with no unit.",
+  "caption": "Convert to the same unit, divide image by actual, and write the answer as ×500.",
+  "bytes": 74368
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--05-scale-bar.webp",
+  "width": 900,
+  "height": 500,
+  "after": "## Microscopy and magnification",
+  "alt": "A micrograph of a plant cell that measures 42 mm, with a 50 µm scale bar that measures 25 mm. The bar gives 25 000 µm ÷ 50 µm = ×500, so the cell is 42 000 µm ÷ 500 = 84 µm long.",
+  "caption": "Use the scale bar to find the magnification, then use it to find real sizes.",
+  "bytes": 57710
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--06-specialised-cells.webp",
+  "width": 900,
+  "height": 840,
+  "after": "## Specialised cells",
+  "alt": "Seven specialised cells, each with its key features: red blood cell, neurone, sperm cell, ciliated cell, root hair cell, palisade cell and guard cells. A final card gives the answer pattern: feature, then its effect, then the link to function.",
+  "caption": "Each specialised cell has features that suit one job; always link feature to function.",
+  "bytes": 178454
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--07-levels-of-organisation.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## Levels of organisation",
+  "alt": "Five levels from smallest to largest: a muscle cell; muscle tissue of similar cells; the stomach, an organ made of muscle, glandular and lining tissues; the digestive system of stomach, intestines, liver and pancreas; and the whole organism.",
+  "caption": "Cells make tissues, tissues make organs, organs make systems, systems make an organism.",
+  "bytes": 93416
+ },
+ {
+  "file": "ib-myp-sciences-cells-and-organisms--08-classification-binomial.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Classification of organisms",
+  "alt": "Left: the eight ranks from domain, kingdom, phylum, class, order, family and genus down to species. Right: family Felidae splits into genus Panthera, holding the lion Panthera leo and tiger Panthera tigris, and genus Felis, holding the domestic cat Felis catus. In a binomial name the genus has a capital letter and the species is lower case, in italics.",
+  "caption": "Organisms that share a genus are more closely related than those that share only a family.",
+  "bytes": 77982
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--01-weighting-and-evidence.webp",
+  "width": 900,
+  "height": 501,
+  "after": "## Where this fits in 0457",
+  "alt": "A bar shows the three components: Written Exam 35%, Individual Report 30%, Team Project 35%. Below, the Team Project produces two shared pieces of evidence, the Explanation of Research and Planning and the Evidence of Action, and one individual Reflective Paper per candidate.",
+  "caption": "The Team Project is joint-largest with the Written Exam and mixes team and individual evidence.",
+  "bytes": 80280
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--02-mark-structure.webp",
+  "width": 900,
+  "height": 718,
+  "after": "## Syllabus coverage",
+  "alt": "A tree splits the 70 marks into the Team Element (25: Explanation of Research and Planning 10, Evidence of Action 5, collaboration 5 for the whole team and 5 individual) and the Personal Element (45: evaluation of action and teamwork 10, reflection on learning 15, reflection on teamwork 10, communication 10).",
+  "caption": "Only 25 marks are shared; 50 of the 70 marks are individual.",
+  "bytes": 94482
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--03-project-process.webp",
+  "width": 900,
+  "height": 783,
+  "after": "## How the Team Project actually runs",
+  "alt": "Five numbered steps: choose a topic and local issue, research different aspects, decide on a course of action, carry out the action, and measure its success. Below, the Explanation of Research and Planning grows in three stages: topic and issue, plan and roles, then a review of changes.",
+  "caption": "Research is shared out, the action is agreed together, and the planning document grows as the project runs.",
+  "bytes": 122646
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--04-evidence-of-action.webp",
+  "width": 900,
+  "height": 538,
+  "after": "## How the Team Project actually runs",
+  "alt": "Ticked list of acceptable forms of Evidence of Action: posters, leaflets, web pages, videos of up to 10 minutes, presentations and event photographs. A separate panel marks evidence of research or planning meetings as not counting.",
+  "caption": "Evidence of Action must show the action itself, in any suitable form.",
+  "bytes": 78566
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--05-hard-caps.webp",
+  "width": 900,
+  "height": 752,
+  "after": "## Word and time limits that cost marks if ignored",
+  "alt": "Three length scales. Explanation of Research and Planning: 300 to 400 words, nothing after 400 marked. Evidence of Action video: nothing after 10 minutes marked. Reflective Paper: 750 to 1000 words, nothing after 1000 marked, so a 1400-word paper is marked only on its first 1000.",
+  "caption": "Anything past the cap earns nothing.",
+  "bytes": 91010
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--06-reflective-paper.webp",
+  "width": 900,
+  "height": 525,
+  "after": "## The Reflective Paper (Personal Element, 45 marks)",
+  "alt": "Three parts of the Reflective Paper: summarise your research findings and how the team used them; reflect on what you learned about the issue, teamwork and yourself; evaluate the action and your own collaboration. Facts: 750 to 1000 words of continuous text, usually first person, sub-headings allowed, worth 45 of the 70 marks.",
+  "caption": "The Reflective Paper is where an individual grade is mostly decided.",
+  "bytes": 93878
+ },
+ {
+  "file": "igcse-cambridge-global-perspectives-team-project--07-collaboration.webp",
+  "width": 900,
+  "height": 543,
+  "after": "## Collaboration (10 marks, part of the Team Element)",
+  "alt": "Seven observed behaviours around a central Collaboration hub: clear communication, sharing ideas, agreeing targets and deadlines, solving problems, flexibility, dividing tasks and recognising contributions, and giving and asking for support. Collaboration is 10 marks: 5 for the whole team and 5 individual.",
+  "caption": "Collaboration is observed, not automatic, and half of it is marked individually.",
+  "bytes": 92394
+ }
+]

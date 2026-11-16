@@ -1,0 +1,65 @@
+[
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--01-farm-as-a-system.webp",
+  "width": 900,
+  "height": 868,
+  "after": "## How does a farm work as a system?",
+  "alt": "Three farm types set out as inputs, processes and outputs: a subsistence rice plot in Sindh, a cotton farm near Vehari and a buffalo dairy near Lahore. A feedback arrow runs from outputs back to inputs.",
+  "caption": "Every farm type turns inputs into outputs, and each season’s results feed back into the next.",
+  "bytes": 130536
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--02-kharif-rabi-calendar.webp",
+  "width": 900,
+  "height": 724,
+  "after": "## How do kharif and rabi seasons shape production?",
+  "alt": "A twelve-month calendar. Kharif crops such as cotton and rice are sown in spring or early summer and harvested in autumn; rabi crops such as wheat are sown October to December and harvested March to May. November is highlighted where cotton picking and wheat sowing overlap.",
+  "caption": "Two cropping seasons share the year, and they collide in November.",
+  "bytes": 115088
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--03-karez-oasis.webp",
+  "width": 900,
+  "height": 764,
+  "after": "## How do natural and human factors affect the three named subsistence systems?",
+  "alt": "Cross-section showing groundwater in the hills feeding a gently sloping underground tunnel that carries water by gravity to an oasis with date palms and vegetables. A dashed line shows how pumping by a tubewell lowers the water table below the tunnel.",
+  "caption": "A karez moves groundwater by gravity with little evaporation, but falling water tables leave many dry.",
+  "bytes": 107798
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--04-livestock-movement.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## How do natural and human factors affect the three named subsistence systems?",
+  "alt": "A mountain profile shows transhumance: flocks move up to high summer pastures and back down to valleys or the plains in winter. Two cards below compare stall-fed buffalo and cattle on small farms with Cholistan herders moving between tobas and canal areas.",
+  "caption": "Livestock is either stall-fed in one place or moved with the seasons and the water.",
+  "bytes": 92042
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--05-river-to-field.webp",
+  "width": 900,
+  "height": 812,
+  "after": "## Which irrigation methods are used, and what are their trade-offs?",
+  "alt": "Five linked stages: dams such as Tarbela and Mangla store water; barrages such as Sukkur raise the river and divert it into canals; link canals move water from western to eastern rivers; distribution canals and watercourses carry it on; field channels and bunds hold it on each plot.",
+  "caption": "Water passes through five stages of engineering before it reaches a field.",
+  "bytes": 91852
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--06-waterlogging-salinity.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## What causes waterlogging and salinity, and what can be done?",
+  "alt": "Cross-section of a field beside an unlined canal. Seepage and over-irrigation raise the water table; capillary action draws water up and evaporation leaves a salt crust. Below, restoration methods (SCARP tubewells, drains, flushing and gypsum) sit beside prevention methods (lining, laser levelling, measured allocation, sprinkler or drip).",
+  "caption": "Too much water raises the water table; evaporation then leaves salt on the surface.",
+  "bytes": 105944
+ },
+ {
+  "file": "o-level-pakistan-studies-agricultural-development--07-government-action.webp",
+  "width": 900,
+  "height": 802,
+  "after": "## How has government tried to raise production?",
+  "alt": "Five government measures (land reforms, improved seeds, research, training and credit, subsidies) lead to a balance of outcomes: yields rose, but benefits went mainly to larger farmers, much land stayed with large owners, chemicals raised costs and polluted water, and groundwater fell.",
+  "caption": "Government action raised yields, but the gains were uneven and had environmental costs.",
+  "bytes": 106592
+ }
+]
