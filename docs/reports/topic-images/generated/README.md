@@ -11,4 +11,6 @@ Rebuild a lesson after editing its source in `scripts/topic-figures/lessons/`:
 
     node scripts/topic-figures/build.mjs scripts/topic-figures/lessons/<slug>.mjs docs/reports/topic-images/generated
 
-Done so far: `cambridge-o-level-geography-coasts` (8 figures).
+Status: all 330 pages in the CSV are done (2,114 new figures, 63 reused). See [REVIEW-NOTES.md](REVIEW-NOTES.md) before uploading.
+
+Reused figures are hand-added blocks in `figures.html` (`<!-- reused from <slug> -->`, `<!-- place after: ## heading -->`, `<figure>`); `build.mjs` keeps them, once each, on rebuild.

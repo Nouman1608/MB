@@ -108,7 +108,7 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
     svg(900, 494, 'Section B: from source to answer', b),
     'Four linked steps for Section B: listen to or read the source, take accurate notes, use those notes to build the answer, and write the response. Treating Section B as an afterthought leaves half the marks under-practised.',
     'Practise note-taking and writing as one skill, under the same timing.',
-    '## Approaching Section B’s combined tasks');
+    "## Approaching Section B's combined tasks");
 }
 
 // 05 Using replay control inside 45 minutes
