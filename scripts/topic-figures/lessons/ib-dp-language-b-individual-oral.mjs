@@ -290,14 +290,14 @@ F('01-oral-at-a-glance', 'The individual oral at a glance', '', [
 // 02 Three skills
 F('02-three-skills', 'The oral uses all three skills', '', [
   (y) => {
-    const pts = [[260, y + 120, 'Receptive', 'understand the stimulus and the teacher\'s questions', C.teal], [640, y + 120, 'Productive', 'speak at length, in an organised way', C.cream], [450, y + 300, 'Interactive', 'a real exchange, not memorised answers', C.mustard]];
+    const R = 150, A = [355, y + 160], Bp = [545, y + 160], Cc = [450, y + 320];
     let s = '';
-    pts.forEach(([x, yy, , , f]) => { s += `<circle cx="${x}" cy="${yy}" r="${118}" fill="${f}" fill-opacity="0.75" stroke="${C.ink}" stroke-width="3"/>`; });
-    s += T(220, y + 92, 'Receptive', { size: 22, weight: 700, anchor: 'middle' }) + para(220, y + 120, 'understand the stimulus and the questions', 170, { size: 16, anchor: 'middle', fill: C.ink }).s;
-    s += T(680, y + 92, 'Productive', { size: 22, weight: 700, anchor: 'middle' }) + para(680, y + 120, 'speak at length, in an organised way', 170, { size: 16, anchor: 'middle', fill: C.ink }).s;
-    s += T(450, y + 340, 'Interactive', { size: 22, weight: 700, anchor: 'middle' }) + para(450, y + 368, 'a real exchange, not memorised answers', 190, { size: 16, anchor: 'middle', fill: C.ink }).s;
-    s += `<circle cx="450" cy="${y + 185}" r="44" fill="${C.panel}" stroke="${C.ink}" stroke-width="3"/>` + T(450, y + 191, 'Oral', { size: 19, weight: 700, anchor: 'middle' });
-    return { s, h: 420 };
+    [[A, C.teal], [Bp, C.cream], [Cc, C.mustard]].forEach(([[x, yy], f]) => { s += `<circle cx="${x}" cy="${yy}" r="${R}" fill="${f}" fill-opacity="0.6" stroke="${C.ink}" stroke-width="3"/>`; });
+    s += T(290, y + 105, 'Receptive', { size: 22, weight: 700, anchor: 'middle' }) + para(290, y + 133, 'understand the stimulus and the questions', 150, { size: 16, anchor: 'middle', fill: C.ink }).s;
+    s += T(610, y + 105, 'Productive', { size: 22, weight: 700, anchor: 'middle' }) + para(610, y + 133, 'speak at length, in an organised way', 150, { size: 16, anchor: 'middle', fill: C.ink }).s;
+    s += T(450, y + 375, 'Interactive', { size: 22, weight: 700, anchor: 'middle' }) + para(450, y + 403, 'a real exchange, not memorised answers', 170, { size: 16, anchor: 'middle', fill: C.ink }).s;
+    s += `<circle cx="450" cy="${y + 215}" r="40" fill="${C.panel}" stroke="${C.ink}" stroke-width="3"/>` + T(450, y + 222, 'Oral', { size: 19, weight: 700, anchor: 'middle' });
+    return { s, h: 470 };
   },
   (y) => note(y, 'Notice the verb respond', '"understand and use language to express and **respond** to a range of ideas with fluency and accuracy": half of the skill is reacting to what someone else says.', { size: 17 }),
   (y) => P('Register: your audience is your teacher in a formal assessment, so be polite, clear and natural: full sentences, no slang, no essay phrasing read aloud.', { anchor: 'middle', size: 17 })(y),
@@ -333,13 +333,13 @@ F('04-hl-four-questions', 'HL: four questions for a literary extract', 'Extract:
 
 // 05 Five-move presentation
 F('05-five-move-presentation', 'A five-move presentation', 'The same shape works at SL and HL', [
-  (y) => row(y, [
-    { kicker: '1', title: 'Frame', body: 'What the stimulus is + your main idea' },
-    { kicker: '2', title: 'Describe', body: 'Literal account (SL) / place in the work (HL)' },
-    { kicker: '3', title: 'Interpret', body: 'Two points, each linked to the theme or a possible question', fill: C.tealLight, edge: C.tealDark },
-    { kicker: '4', title: 'Connect', body: 'A target-language culture example (SL) / the wider work (HL)', fill: C.tealLight, edge: C.tealDark },
-    { kicker: '5', title: 'Close', body: 'A question or tension that opens discussion' },
-  ], { arrows: true, gap: 26, vcenter: false, card: { size: 15, tsize: 19, pad: 13, align: 'middle', kfill: C.tealDark } }),
+  (y) => steps(y, [
+    { title: 'Frame', body: 'One sentence: what the stimulus is + your main idea' },
+    { title: 'Describe', body: 'Brief literal account (SL) / place in the work (HL)' },
+    { title: 'Interpret', body: 'Two points, each linked to the theme or a possible question' },
+    { title: 'Connect', body: 'A specific target-language culture example (SL) / the wider work and its themes (HL)' },
+    { title: 'Close', body: 'A sentence that opens discussion: a question or tension' },
+  ], { highlight: [2, 3], size: 17, tsize: 19, gap: 8, pad: 13 }),
   (y) => {
     let s = T(30, y + 16, 'TIME BALANCE', { size: 15, weight: 700, fill: C.muted });
     const b = segbar(y + 28, [

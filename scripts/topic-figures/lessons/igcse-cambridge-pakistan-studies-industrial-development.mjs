@@ -122,9 +122,9 @@ const weigh = (y, forT, forL, agT, agL) => {
 {
   const st = [
     ['Raw cotton', 'raw material', 'Primary: farming'],
-    ['Ginned and spun into yarn', 'processed', 'Secondary'],
-    ['Cloth', 'processed', 'Secondary'],
-    ['Shirts', 'manufactured', 'Secondary'],
+    ['Yarn', 'processed: ginned and spun', 'Secondary'],
+    ['Cloth', '', 'Secondary'],
+    ['Shirts', 'manufactured: cloth made into shirts', 'Secondary'],
   ];
   const w = 190, gap = 26, y = 150;
   let b = '';
@@ -132,7 +132,7 @@ const weigh = (y, forT, forL, agT, agL) => {
     const x = 30 + i * (w + gap) + (i === 3 ? 2 : 0);
     const barH = 40 + i * 45;
     b += `<rect x="${x + 40}" y="${y + 230 - barH}" width="${w - 80}" height="${barH}" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5" rx="4"/>`;
-    b += card(x, y + 250, w, { title: ti, sub: term, subfill: C.tealDark, h: 110, ts: 18 }).s;
+    b += card(x, y + 250, w, { title: ti, sub: term || undefined, subfill: C.tealDark, h: 110, ts: 20 }).s;
     b += R(x, y + 376, w, 36, i === 0 ? C.tealLight : C.cream, i === 0 ? C.tealDark : C.olive, { rx: 18 }) + T(x + w / 2, y + 400, sec, { size: 16, weight: 700, anchor: 'middle' });
     if (i < 3) b += arrow(x + w + 3, y + 305, x + w + gap - 4, y + 305, { w: 3.5 });
   });
@@ -193,7 +193,7 @@ const weigh = (y, forT, forL, agT, agL) => {
     ['Brick', 'Edge of most towns', [1, 0, 1, 0, 1], 'Domestic'],
     ['Crafts', 'Throughout', [0, 0, 1, 0, 0], 'Domestic + export'],
   ];
-  const x0 = 30, nameW = 300, fw = 74, y0 = 112, hh = 112, rh = 50;
+  const x0 = 30, nameW = 290, fw = 66, y0 = 112, hh = 112, rh = 50;
   let b = `<rect x="${x0}" y="${y0}" width="840" height="${hh + rows.length * rh}" rx="12" fill="${C.panel}" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += T(x0 + 16, y0 + hh - 16, 'Industry and main locations', { size: 17, weight: 700 }) + T(x0 + nameW + 5 * fw + 16, y0 + hh - 16, 'Market', { size: 17, weight: 700 });
   facs.forEach((f, i) => { const cx = x0 + nameW + i * fw + fw / 2; b += `<text transform="translate(${cx + 6},${y0 + hh - 12}) rotate(-50)" font-size="16" font-weight="700" fill="${C.ink}">${X(f)}</text>`; });
@@ -207,7 +207,7 @@ const weigh = (y, forT, forL, agT, agL) => {
   b += `<line x1="${x0}" y1="${y0 + hh}" x2="${x0 + 840}" y2="${y0 + hh}" stroke="${C.ink}" stroke-width="2"/>`;
   [0, 5].forEach((i) => { const x = x0 + nameW + i * fw; b += `<line x1="${x}" y1="${y0 + hh}" x2="${x}" y2="${y0 + hh + rows.length * rh}" stroke="${C.panelEdge}" stroke-width="2"/>`; });
   const yb = y0 + hh + rows.length * rh;
-  b += `<circle cx="60" cy="${yb + 30}" r="11" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + T(80, yb + 36, 'key location factor named in the table above', { size: 16, fill: C.muted });
+  b += `<circle cx="60" cy="${yb + 30}" r="11" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + T(80, yb + 36, 'key location factor given in the lesson table', { size: 16, fill: C.muted });
   add('04-location-factors',
     svg(900, yb + 56, 'What pulls each industry to its location?', b),
     'A matrix of ten industries against five location factors. Sugar, cement, fertiliser and brick are pulled to raw materials; iron and steel and oil refining to the coast for imported inputs; sports goods, surgical instruments and crafts to skilled labour. A final column shows whether each mainly serves the domestic or export market.',

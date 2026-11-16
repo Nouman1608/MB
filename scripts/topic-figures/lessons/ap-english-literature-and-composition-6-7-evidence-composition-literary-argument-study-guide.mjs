@@ -222,29 +222,26 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 // 05 Coordination vs subordination
 {
   let b = '';
-  const scale = (cx, tilt, lText, rText, lSub, rSub) => {
-    const by = 300, half = 150, dy = tilt;
-    let s = `<path d="M${cx - 40},${by + 130} L${cx + 40},${by + 130} L${cx},${by + 4} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
-    s += `<line x1="${cx - half}" y1="${by - dy}" x2="${cx + half}" y2="${by + dy}" stroke="${C.ink}" stroke-width="6" stroke-linecap="round"/><circle cx="${cx}" cy="${by}" r="8" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
-    [[cx - half, by - dy, lText, lSub, C.panel, C.panelEdge], [cx + half, by + dy, rText, rSub, tilt ? C.tealLight : C.panel, tilt ? C.tealDark : C.panelEdge]].forEach(([px, py, tx, sub, f, e]) => {
-      s += `<line x1="${px}" y1="${py}" x2="${px}" y2="${py + 30}" stroke="${C.ink}" stroke-width="2.5"/>`;
-      s += `<rect x="${px - 92}" y="${py + 30}" width="184" height="78" rx="12" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
-      s += para(px, py + 60, tx, 164, { size: 16, weight: 700, anchor: 'middle' }).s + T(px, py + 96, sub, { size: 15, anchor: 'middle', fill: C.muted });
+  const block = (y0, tilt, lText, rText, lSub, rSub, title, sub, sent, note) => {
+    const H = 280, cx = 330, by = y0 + 100, half = 170;
+    let s = panel(30, y0, 840, H, C.panel, tilt ? C.tealDark : C.panelEdge);
+    s += `<path d="M${cx - 45},${by + 120} L${cx + 45},${by + 120} L${cx},${by + 4} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+    s += `<line x1="${cx - half}" y1="${by - tilt}" x2="${cx + half}" y2="${by + tilt}" stroke="${C.ink}" stroke-width="6" stroke-linecap="round"/><circle cx="${cx}" cy="${by}" r="8" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
+    [[cx - half, by - tilt, lText, lSub, C.panel, C.panelEdge], [cx + half, by + tilt, rText, rSub, tilt ? C.tealLight : C.panel, tilt ? C.tealDark : C.panelEdge]].forEach(([px, py, tx, sb, f, e]) => {
+      s += `<line x1="${px}" y1="${py}" x2="${px}" y2="${py + 26}" stroke="${C.ink}" stroke-width="2.5"/>`;
+      s += `<rect x="${px - 100}" y="${py + 26}" width="200" height="70" rx="12" fill="${f}" stroke="${e}" stroke-width="2.5"/>`;
+      const lines = wrap(tx, 180, 17, 700);
+      s += tl(px, py + 54 - (lines.length - 1) * 10, lines, { size: 17, weight: 700, anchor: 'middle' }, 21) + T(px, py + 86, sb, { size: 15, anchor: 'middle', fill: C.muted });
     });
+    s += T(560, y0 + 46, title, { size: 23, weight: 700 }) + para(560, y0 + 74, sub, 290, { size: 17, weight: 600, fill: C.tealDark }).s;
+    s += para(560, y0 + 140, sent, 290, { size: 18, italic: true }).s;
+    s += para(560, y0 + 222, note, 290, { size: 16, fill: C.muted }).s;
     return s;
   };
-  b += panel(30, 110, 411, 540) + panel(459, 110, 411, 540);
-  b += T(235, 148, 'Coordination', { size: 23, weight: 700, anchor: 'middle' }) + T(235, 174, 'balance or equality', { size: 17, anchor: 'middle', fill: C.tealDark, weight: 600 });
-  b += T(665, 148, 'Subordination', { size: 23, weight: 700, anchor: 'middle' }) + T(665, 174, 'imbalance: emphasis on the main clause', { size: 17, anchor: 'middle', fill: C.tealDark, weight: 600 });
-  b += `<g transform="translate(0,-40)">` + scale(235, 0, 'Lydia appears calm', 'her hands shake', 'idea 1', 'idea 2') + `</g>`;
-  b += `<g transform="translate(0,-40)">` + scale(665, 36, 'Although Lydia appears calm', 'her hands shake', 'subordinate', 'main clause') + `</g>`;
-  const yS = 520;
-  b += para(235, yS + 20, '"Lydia appears calm, and her hands shake."', 360, { size: 18, italic: true, anchor: 'middle' }).s;
-  b += para(665, yS + 20, '"Although Lydia appears calm, her hands shake."', 360, { size: 18, italic: true, anchor: 'middle' }).s;
-  b += T(235, yS + 96, 'joined by "and"', { size: 16, anchor: 'middle', fill: C.muted });
-  b += T(665, yS + 96, 'use it if the calm is only a surface', { size: 16, anchor: 'middle', fill: C.muted });
+  b += block(110, 0, 'Lydia appears calm', 'her hands shake', 'idea 1', 'idea 2', 'Coordination', 'balance or equality', '"Lydia appears calm, and her hands shake."', 'Joining everything with "and" makes everything equally important.');
+  b += block(410, 34, 'Although Lydia appears calm', 'her hands shake', 'subordinate clause', 'main clause', 'Subordination', 'imbalance: emphasis on the main clause', '"Although Lydia appears calm, her hands shake."', 'Use it if you read the calm as only a surface.');
   add('05-coordination-subordination',
-    svg(900, 680, 'Coordination or subordination?', b),
+    svg(900, 720, 'Coordination or subordination?', b),
     'Two balance scales. Coordination: "Lydia appears calm, and her hands shake" keeps the two ideas level. Subordination: "Although Lydia appears calm, her hands shake" tips the scale towards the main clause, so the shaking hands carry the emphasis.',
     'Choose the sentence structure that matches your interpretation.',
     '### Coordination and subordination');

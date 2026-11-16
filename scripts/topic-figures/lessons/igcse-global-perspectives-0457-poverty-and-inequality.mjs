@@ -287,17 +287,19 @@ function compose(title, parts, subtitle) {
 // 01 Measuring poverty
 {
   const Y = 120;
-  let b = row(Y, [
+  const r1 = row(Y, [
     { kicker: 'ABSOLUTE POVERTY', title: 'Not enough to meet basic needs', body: 'Food, shelter, clean water.', fill: C.cream, edge: C.olive, kfill: C.olive },
     { kicker: 'RELATIVE POVERTY', title: 'Much less than most people in your society', body: 'UK: commonly household income below 60% of the median.', fill: C.tealLight, edge: C.tealDark },
-  ], { gap: 24, card: { tsize: 19, size: 16 } }).s;
-  b += row(Y + 160, [
+  ], { gap: 24, card: { tsize: 19, size: 16 } });
+  let b = r1.s;
+  const r2 = row(Y + r1.h + 16, [
     { kicker: 'INCOME', title: 'Money coming in over time', body: 'wages, benefits' },
     { kicker: 'WEALTH', title: 'What you own', body: 'savings, land, property' },
     { kicker: 'MULTIDIMENSIONAL', title: 'Several things at once', body: 'schooling, health, living standards (UNDP and Oxford MPI)' },
-  ], { card: { tsize: 18, size: 15 } }).s;
+  ], { card: { tsize: 18, size: 15 } });
+  b += r2.s;
   // Gini scale
-  const gy = Y + 345, x0 = 100, x1 = 800;
+  const gy = Y + r1.h + 16 + r2.h + 36, x0 = 100, x1 = 800;
   b += T(450, gy, 'Gini coefficient: income inequality in one number', { size: 19, weight: 700, anchor: 'middle' });
   b += `<defs><linearGradient id="gg" x1="0" x2="1"><stop offset="0" stop-color="${C.tealLight}"/><stop offset="1" stop-color="${C.mustard}"/></linearGradient></defs><rect x="${x0}" y="${gy + 20}" width="${x1 - x0}" height="34" rx="8" fill="url(#gg)" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += T(x0, gy + 80, '0', { size: 22, weight: 700, anchor: 'middle' }) + T(x1, gy + 80, '1', { size: 22, weight: 700, anchor: 'middle' });
@@ -319,7 +321,12 @@ add('02-food-prices-levels',
       lv.forEach(([k, t2, f, e, w], i) => { const c = card(450 - w / 2, cy, w, { kicker: k, kfill: e, title: t2, align: 'middle', fill: f, edge: e, tsize: 20 }); s += c.s; cy += c.h; if (i < 2) { s += arrow(450, cy + 4, 450, cy + 34, { w: 4 }); cy += 38; } });
       return { s, h: cy - y };
     },
-    (y) => card(30, y, 840, { kicker: 'AN ISSUE AT EACH LEVEL', title: 'Global: SDG 1 “End poverty in all its forms everywhere”: how to measure progress? National: absolute or relative poverty line? Local: is a food bank a solution, or a sign that something else has failed?', tsize: 17 }),
+    (y) => label(y, 'An issue that divides opinion at each level', { size: 19 }),
+    (y) => row(y, [
+      { kicker: 'GLOBAL', title: 'How should progress on SDG 1, “End poverty in all its forms everywhere”, be measured?', fill: C.tealLight, edge: C.tealDark },
+      { kicker: 'NATIONAL', title: 'Should the poverty line be absolute or relative?', fill: C.teal, edge: C.tealDark },
+      { kicker: 'LOCAL', kfill: C.olive, title: 'Is a food bank a solution, or a sign that something else has failed?', fill: C.cream, edge: C.olive },
+    ], { card: { tsize: 17 } }),
   ]),
   'A global pattern of rising living costs, a national rise in food prices and more families in one town using a food bank, linked by arrows. Below, an issue at each level: measuring SDG 1, choosing an absolute or relative poverty line, and whether a food bank is a solution or a sign of failure.',
   'Strong answers show the links between levels, not just each level alone.',
@@ -338,7 +345,7 @@ add('03-unconditional-cash-perspectives',
       { kicker: 'A FAMILY RECEIVING SUPPORT', title: 'Cash lets them choose what they most need' },
       { kicker: 'A TAXPAYERS’ GROUP', title: 'Wants proof public money is used well' },
       { kicker: 'A CHARITY', title: 'May support cash, or argue services matter more' },
-      { kicker: 'AN INTERNATIONAL ORGANISATION', title: 'Compares programmes across countries' },
+      { kicker: 'INTERNATIONAL ORGANISATION', title: 'Compares programmes across countries' },
     ], { r: 92, cardW: 290, csize: 18 }),
   ]),
   'Three reasons perspectives on poverty differ: values, interests, and evidence and experience. Applied to unconditional cash: a family values choice, a taxpayers’ group wants proof money is used well, a charity may back cash or services, and an international organisation compares programmes across countries.',

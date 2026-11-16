@@ -245,11 +245,11 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
     ['Disability', 'physical barriers and employer attitudes'],
     ['Religion and belief', 'discrimination in hiring'],
   ];
-  const pos = f.map((_, i) => { const a = -Math.PI / 2 + (i * 2 * Math.PI) / f.length; return [a, cx + R * 1.15 * Math.cos(a), cy + R * 0.98 * Math.sin(a)]; });
+  const pos = f.map((_, i) => { const a = -Math.PI / 2 + (i * 2 * Math.PI) / f.length; return [a, cx + R * 1.25 * Math.cos(a), cy + R * 0.98 * Math.sin(a)]; });
   pos.forEach(([, x, y]) => { s += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="${C.tealDark}" stroke-width="3"/>`; });
   s += `<circle cx="${cx}" cy="${cy}" r="92" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>` + label(cx, cy - 4, 'LIFE', { size: 24, weight: 700, anchor: 'middle' }) + label(cx, cy + 24, 'CHANCES', { size: 24, weight: 700, anchor: 'middle' });
   f.forEach(([head, body], i) => {
-    const [, x, y] = pos[i], w = 236, bp = para(0, 0, w - 24, body, { size: 16 }), h = 30 + 22 + bp.h + 4;
+    const [, x, y] = pos[i], w = 220, bp = para(0, 0, w - 24, body, { size: 16 }), h = 30 + 22 + bp.h + 4;
     s += box(x - w / 2, y - h / 2, w, h, { fill: i % 2 ? C.tealLight : C.panel, edge: C.ink, sw: 2.5 });
     s += label(x, y - h / 2 + 30, head, { size: 18, weight: 700, anchor: 'middle' });
     s += para(x, y - h / 2 + 54, w - 24, body, { size: 16, anchor: 'middle' }).svg;
