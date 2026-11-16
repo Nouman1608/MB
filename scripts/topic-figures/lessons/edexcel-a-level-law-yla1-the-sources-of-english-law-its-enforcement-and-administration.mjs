@@ -370,7 +370,7 @@ F('05-civil-courts-tracks', 'Civil courts and the CPR tracks', 'Civil Procedure 
     const sc = box(450, y, 300, 'Supreme Court', C.mustard, C.ink), ca = box(450, y + 90, 300, 'Court of Appeal', C.cream, C.olive);
     const cc = box(270, y + 180, 260, 'County Court', C.tealLight, C.tealDark), hc = box(630, y + 180, 260, 'High Court', C.tealLight, C.tealDark);
     let s = arrow(450, y + 88, 450, y + 60, { w: 3 }) + arrow(300, y + 178, 400, y + 150, { w: 3 }) + arrow(600, y + 178, 500, y + 150, { w: 3 });
-    s += T(860, y + 120, 'appeals', { size: 15, anchor: 'end', fill: C.muted, italic: true }) + T(450, y + 262, 'most civil claims start here', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
+    s += T(450, y + 262, 'most civil claims start here', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
     return { s: s + sc.s + ca.s + cc.s + hc.s, h: 268 };
   },
   (y) => {
@@ -403,13 +403,8 @@ F('06-adr-who-decides', 'ADR: who decides, and is it binding?', '', [
     ];
     return table(y, [{ w: 0.8, head: 'Method' }, { w: 1.4, head: 'Who decides' }, { w: 1.1, head: 'Binding?', hfill: C.cream }, { w: 1.3, head: 'Example' }], L, { size: 16, cellFill: (r, c) => (c === 2 && r === 3 ? C.cream : null) });
   },
-  (y) => {
-    let s = arrow(80, y + 24, 820, y + 24, { w: 4, color: C.olive, marker: 'ahO' });
-    s += T(80, y + 54, 'parties in control', { size: 15, fill: C.muted }) + T(820, y + 54, 'third party decides', { size: 15, fill: C.muted, anchor: 'end' });
-    return { s, h: 60 };
-  },
 ],
-'A table of five ADR methods with who decides, whether the outcome is binding, and an example: negotiation, mediation and conciliation bind only if the parties agree; arbitration is binding under the Arbitration Act 1996; an ombudsman\'s decision depends on the scheme. An arrow runs from parties in control to a third party deciding.',
+'A table of five ADR methods with who decides, whether the outcome is binding, and an example: negotiation, mediation and conciliation bind only if the parties agree; arbitration is binding under the Arbitration Act 1996; an ombudsman\'s decision depends on the scheme.',
 'Contrast ADR methods by who decides and whether the result binds.', H2.civ);
 
 // 07 Amira
