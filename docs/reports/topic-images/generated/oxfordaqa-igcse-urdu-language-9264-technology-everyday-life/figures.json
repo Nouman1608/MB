@@ -1,0 +1,29 @@
+[
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--01-loanword-genders.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Vocabulary",
+  "alt": "Masculine technology words: موبائل فون, انٹرنیٹ, سوشل میڈیا, پیغام, فائدہ, نقصان, رابطہ. Feminine: ایپ, ویڈیو, تصویر, ٹیکنالوجی, سہولت, عادت, معلومات (feminine plural) and لت.",
+  "caption": "Borrowed words are easy to recognise, but each has a gender that verbs must follow.",
+  "bytes": 89144
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--02-ne-agrees-with-object.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Structures that carry this topic",
+  "alt": "With میں نے the past verb agrees with the object: میں نے دوست کو پیغام بھیجا (masculine پیغام), میں نے ایک تصویر پوسٹ کی (feminine تصویر). میں نے ویڈیو دیکھا is wrong; it should be میں نے ویڈیو دیکھی.",
+  "caption": "Know each loanword’s gender: with نے, the verb agrees with it.",
+  "bytes": 81548
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--03-translation-traps.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Worked example 1: translation into Urdu",
+  "alt": "Translating \"I use my phone every day to talk to my relatives in Pakistan\": use اپنا فون, not میرا فون, because the subject owns the phone; put the purpose as بات کرنے کے لیے; and put استعمال کرتا ہوں at the end.",
+  "caption": "اپنا when the subject is the owner, and the verb at the end.",
+  "bytes": 84138
+ }
+]

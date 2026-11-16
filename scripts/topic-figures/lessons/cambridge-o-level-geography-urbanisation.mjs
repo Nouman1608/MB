@@ -1,4 +1,10 @@
-import { C, svg, panel, t, tl, arrow, path, badge } from '../style.mjs';
+import { C, svg, panel, t as t0, tl as tl0, arrow, path, badge as badge0 } from '../style.mjs';
+
+// house minimum text size is 15: clamp every label drawn in this file
+const MIN = 15;
+const t = (x, y, s, o = {}) => t0(x, y, s, { ...o, size: Math.max(MIN, o.size || 18) });
+const tl = (x, y, lines, opts = {}, lh = Math.max(MIN, opts.size || 18) * 1.3) => lines.map((s, i) => t(x, y + i * lh, s, opts)).join('');
+const badge = (cx, cy, r, label, fill = C.mustard) => { const sz = Math.max(MIN, r); return `<circle cx="${cx}" cy="${cy}" r="${Math.max(r, sz * 0.85)}" fill="${fill}" stroke="${C.ink}" stroke-width="3"/>` + t(cx, cy + sz * 0.36, label, { size: sz, weight: 700, anchor: 'middle' }); };
 
 export const slug = 'cambridge-o-level-geography-urbanisation';
 export const figures = [];
@@ -8,6 +14,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 const esc = (s) => String(s).replace(/&(?!(amp|lt|gt|quot|#\d+);)/g, '&amp;').replace(/</g, '&lt;');
 // wrap text to a pixel width (approximate Inter metrics)
 const wrap = (s, w, size = 17, bold = false) => {
+  size = Math.max(MIN, size);
   const max = Math.max(4, Math.floor(w / (size * (bold ? 0.57 : 0.53))));
   const out = [''];
   for (const word of String(s).split(' ')) {
@@ -68,10 +75,10 @@ const flowRight = (x, y, ws, h, gap, items, o = {}) => {
   return s;
 };
 // label with a soft white backing so it reads over lines
-const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).length * size * ((o.weight || 700) >= 600 ? 0.6 : 0.55) + 12; const x0 = o.anchor === 'middle' ? x - w / 2 : o.anchor === 'end' ? x - w + 6 : x - 6; return `<rect x="${x0}" y="${y - size * 0.95}" width="${w}" height="${size * 1.35}" rx="5" fill="${o.bg || '#ffffff'}" opacity="${o.op || 0.92}"/>` + t(x, y, s, { size, weight: o.weight || 700, anchor: o.anchor || 'start', fill: o.fill || C.ink }); };
+const tag = (x, y, s, o = {}) => { const size = Math.max(MIN, o.size || 15), w = String(s).length * size * ((o.weight || 700) >= 600 ? 0.6 : 0.55) + 12; const x0 = o.anchor === 'middle' ? x - w / 2 : o.anchor === 'end' ? x - w + 6 : x - 6; return `<rect x="${x0}" y="${y - size * 0.95}" width="${w}" height="${size * 1.35}" rx="5" fill="${o.bg || '#ffffff'}" opacity="${o.op || 0.92}"/>` + t(x, y, s, { size, weight: o.weight || 700, anchor: o.anchor || 'start', fill: o.fill || C.ink }); };
 // bulleted list, each item wrapped to width w; returns {svg, h}
 const bullets = (x, y, items, w, o = {}) => {
-  const size = o.size || 16.5, lh = o.lh || Math.round(size * 1.3), gap = o.gap ?? 8; let s = '', yy = y;
+  const size = Math.max(MIN, o.size || 16.5), lh = o.lh || Math.round(size * 1.3), gap = o.gap ?? 8; let s = '', yy = y;
   for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, o.mark || '•', { size: o.mark ? size + 3 : size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
   return { svg: s, h: yy - y };
 };
@@ -108,7 +115,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   s += t(255, 368, 'PUSH (rural areas)', { size: 16, weight: 700, anchor: 'middle', fill: C.rust }) + t(675, 368, 'PULL (cities)', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
   rows.forEach(([g, p, q], i) => { const y = 382 + i * 84; s += rrect(30, y, 100, 72, C.ink, C.ink, 2, 10) + t(80, y + 42, g, { size: 15.5, weight: 700, anchor: 'middle', fill: '#ffffff' }) + rrect(140, y, 330, 72, '#f6e6dc', C.rust, 2, 10) + tl(156, y + 30, wrap(p, 300, 15), { size: 15 }, 19) + rrect(480, y, 390, 72, C.tealLight, C.tealDark, 2, 10) + tl(496, y + 30, wrap(q, 360, 15), { size: 15 }, 19); });
   s += panel(30, 642, 840, 104) + t(55, 676, 'Chain migration', { size: 18, weight: 700 });
-  s += house(260, 700, 0.9) + t(275, 728, 'village', { size: 14, anchor: 'middle', fill: C.muted }) + `<rect x="640" y="672" width="60" height="40" fill="${C.rock}" stroke="${C.ink}" stroke-width="2"/>` + t(670, 728, 'city district', { size: 14, anchor: 'middle', fill: C.muted });
+  s += house(260, 700, 0.9) + t(250, 718, 'village', { size: 14, anchor: 'end', fill: C.muted }) + `<rect x="640" y="672" width="60" height="40" fill="${C.rock}" stroke="${C.ink}" stroke-width="2"/>` + t(670, 728, 'city district', { size: 14, anchor: 'middle', fill: C.muted });
   s += arrow(300, 682, 630, 682, { w: 3.5 }) + t(465, 674, 'migrants', { size: 14, anchor: 'middle', weight: 700 }) + arrow(630, 704, 300, 704, { w: 3, color: C.olive, marker: 'ahO', dash: '8 5' }) + t(465, 724, 'news, money, help with housing and work', { size: 14, anchor: 'middle', fill: C.olive, weight: 700 });
   s += t(845, 690, 'more follow', { size: 14.5, anchor: 'end', weight: 600 }) + t(845, 710, 'from the same', { size: 14.5, anchor: 'end', weight: 600 }) + t(845, 730, 'village', { size: 14.5, anchor: 'end', weight: 600 });
   add('02-why-cities-grow',

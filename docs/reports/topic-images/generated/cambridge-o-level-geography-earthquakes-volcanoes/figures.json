@@ -15,7 +15,7 @@
   "after": "## Plate boundaries and what happens at each",
   "alt": "Four cross-sections. Constructive: plates move apart and magma rises to form a ridge (Mid-Atlantic Ridge). Destructive: denser oceanic crust is subducted under continental crust at a trench, melts and feeds a volcano (Nazca and South American Plates). Collision: two continental plates crumple into fold mountains with no volcanoes (Indian and Eurasian Plates). Conservative: plates slide past each other along a fault (San Andreas).",
   "caption": "Volcanoes need magma: none at collision or conservative boundaries.",
-  "bytes": 136296
+  "bytes": 136744
  },
  {
   "file": "cambridge-o-level-geography-earthquakes-volcanoes--03-volcano-types.webp",
@@ -24,7 +24,7 @@
   "after": "## Types and features of volcanoes",
   "alt": "Two cross-sections. A strato-volcano is a tall, steep cone of alternating ash and lava layers with a magma chamber, main vent, secondary vent, crater and ash cloud; its thick lava erupts explosively at destructive boundaries (Mount Fuji, Mount St Helens). A shield volcano is a wide, gentle dome of runny lava layers that flows far in gentle eruptions at constructive boundaries or hotspots (Mauna Loa).",
   "caption": "Thick lava builds steep, explosive cones; runny lava builds wide, gentle shields.",
-  "bytes": 109960
+  "bytes": 111298
  },
  {
   "file": "cambridge-o-level-geography-earthquakes-volcanoes--04-earthquake-features.webp",
@@ -69,6 +69,6 @@
   "after": "## Worked example 2: case study of a volcano",
   "alt": "Four steps: the Juan de Fuca Plate is subducted beneath the North American Plate and magma builds up; the north side of the volcano bulges; an earthquake triggers a landslide of the north face; a sideways (lateral) blast follows. Below: 57 people killed and homes, roads and bridges destroyed; forests flattened, lahars, wildlife killed and the summit lowered; an exclusion zone set up after monitoring reduced the death toll.",
   "caption": "Cause, trigger, eruption, then effects on people and the environment.",
-  "bytes": 131476
+  "bytes": 131870
  }
 ]

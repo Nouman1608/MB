@@ -221,9 +221,9 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     b += panel(x, y, w, h, i === 0 ? C.panel : C.panel) + ic[i](x + w / 2, y + 64);
     b += para(x + w / 2, y + 130, ti, w - 30, { size: 19, weight: 700, anchor: 'middle' }).s;
     b += `<rect x="${x + 16}" y="${y + 160}" width="${w - 32}" height="58" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>`;
-    b += T(x + 30, y + 182, k1.toUpperCase(), { size: 14.5, weight: 700, fill: C.tealDark }) + T(x + 30, y + 205, v1, { size: 16, weight: 600 });
+    b += T(x + 30, y + 182, k1.toUpperCase(), { size: 15, weight: 700, fill: C.tealDark }) + T(x + 30, y + 205, v1, { size: 16, weight: 600 });
     b += `<rect x="${x + 16}" y="${y + 226}" width="${w - 32}" height="80" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="6 5"/>`;
-    b += T(x + 30, y + 248, k2.toUpperCase(), { size: 14.5, weight: 700, fill: C.rust }) + para(x + 30, y + 270, v2, w - 60, { size: 16, weight: 600 }).s;
+    b += T(x + 30, y + 248, k2.toUpperCase(), { size: 15, weight: 700, fill: C.rust }) + para(x + 30, y + 270, v2, w - 60, { size: 16, weight: 600 }).s;
   });
   const y = 460;
   const r = row(y, [

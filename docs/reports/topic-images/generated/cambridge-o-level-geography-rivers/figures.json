@@ -6,7 +6,7 @@
   "after": "## River characteristics downstream",
   "alt": "A long profile falls steeply near the source and gently towards the mouth. Three channel cross-sections get wider and deeper downstream while the load changes from large angular pieces to small rounded ones. Chips show width, depth, discharge and usually velocity increasing, and gradient and load size decreasing. A note explains that velocity rises because the larger, smoother channel loses less energy to friction.",
   "caption": "Downstream: bigger, deeper, usually faster, gentler, with finer load.",
-  "bytes": 108500
+  "bytes": 109062
  },
  {
   "file": "cambridge-o-level-geography-rivers--02-waterfall-gorge.webp",
@@ -15,7 +15,7 @@
   "after": "## How the landforms form",
   "alt": "Three side views. 1: a band of hard rock lies over softer rock; the soft rock erodes faster and a plunge pool forms. 2: the soft rock is undercut, leaving an overhang of hard rock, and the plunge pool deepens. 3: the overhang collapses into the pool and the waterfall retreats upstream, leaving a steep-sided gorge; the old position is dashed.",
   "caption": "Undercut, overhang, collapse, retreat: repeated, it cuts a gorge.",
-  "bytes": 84272
+  "bytes": 85420
  },
  {
   "file": "cambridge-o-level-geography-rivers--03-meander-levee-sections.webp",
@@ -24,7 +24,7 @@
   "after": "## How the landforms form",
   "alt": "Top: a cross-section from A to B across a meander bend. The deepest, fastest water is against the outer bank, forming a steep river cliff by erosion; the inner bank is a gentle slip-off slope of deposited material. Bottom: a flood plain cross-section. Flood water spreads out and drops the coarsest material on the banks, building levées, and carries fine silt further across the flat flood plain.",
   "caption": "Erosion on the outside, deposition inside; coarse load on the banks, fine silt beyond.",
-  "bytes": 91222
+  "bytes": 91384
  },
  {
   "file": "cambridge-o-level-geography-rivers--04-flood-management.webp",
@@ -33,7 +33,7 @@
   "after": "## Managing river flooding",
   "alt": "A schematic valley plan. Hard engineering (rust labels): a dam and reservoir upstream, a flood relief channel around a town and embankments along the river. Soft measures (teal labels): afforestation of slopes, a restored wetland, zoning that keeps homes on higher land, and warning systems. Below, hard engineering is expensive and can move the problem downstream; soft measures are cheaper and more sustainable but protect less against the largest floods.",
   "caption": "Hard engineering controls the river; soft measures work with it.",
-  "bytes": 128754
+  "bytes": 130944
  },
  {
   "file": "cambridge-o-level-geography-rivers--05-nile-aswan.webp",
@@ -42,6 +42,6 @@
   "after": "## Worked example 2: case-study plan",
   "alt": "A schematic side view from south to north. Lake Nasser lies behind the Aswan High Dam, completed in 1970, where silt is trapped. The dam generates hydro-electric power and releases water for year-round irrigation downstream, but the delta coast is no longer replenished with silt. Below: opportunities of irrigation, fertile soils, transport and tourism; the unreliable flood before the dam; and an evaluation noting farmers now rely on artificial fertiliser.",
   "caption": "The dam tamed the flood, but trapped the silt that fed the land.",
-  "bytes": 106806
+  "bytes": 107372
  }
 ]

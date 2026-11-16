@@ -15,16 +15,16 @@
   "after": "## How are coal, oil and gas extracted?",
   "alt": "Cross-section of rock layers. A seismic survey at the surface locates a deposit of oil or gas trapped beneath an arched cap rock. A rig drills a well down to the reservoir, and the oil or gas rises under pressure or is pumped to the surface.",
   "caption": "Seismic surveys find the trap; the well taps it.",
-  "bytes": 92768
+  "bytes": 94242
  },
  {
   "file": "igcse-cambridge-pakistan-studies-power--03-fuels-to-users.webp",
   "width": 900,
-  "height": 801,
+  "height": 716,
   "after": "## What are Pakistan's non-renewable power resources?",
   "alt": "Three rows. Coal: low-grade Thar lignite is burned in power stations near the mine, while imported coal arrives at Karachi’s ports and moves inland by rail and road. Gas: from Sui and other fields it travels by trunk pipeline to cities, while areas off the network use costlier LPG cylinders. Oil: most is imported by tanker to Karachi, refined there or piped to Mahmood Kot near Multan, with rail and road tankers carrying the rest.",
   "caption": "Pipelines reach the cities; everywhere else depends on costlier rail, road and cylinders.",
-  "bytes": 146650
+  "bytes": 143010
  },
  {
   "file": "igcse-cambridge-pakistan-studies-power--04-electricity-sources.webp",
@@ -42,7 +42,7 @@
   "after": "## Why are multi-purpose hydel schemes built where they are?",
   "alt": "Cross-section of a dam across a valley holding back a reservoir, with water passing through a power station and on downstream. The scheme provides irrigation water, electricity and flood control. Cards list the physical conditions (narrow, deep valley in hard rock, reliable flow, large basin) and human conditions (capital, expertise, downstream demand, few people to resettle).",
   "caption": "A good dam site needs the right valley and river, plus the money, skills and demand to use it.",
-  "bytes": 105154
+  "bytes": 105194
  },
  {
   "file": "igcse-cambridge-pakistan-studies-power--06-unreliable-supply.webp",
@@ -56,10 +56,10 @@
  {
   "file": "igcse-cambridge-pakistan-studies-power--07-command-words.webp",
   "width": 900,
-  "height": 414,
+  "height": 456,
   "after": "## How to approach Power exam questions",
   "alt": "Three stepped cards. Describe: name a source, a place and a fact. Explain: link a cause to an effect with because or so. Evaluate or assess: give advantages and disadvantages, refer to Pakistan and reach a judgement.",
   "caption": "Each command word asks for one step more than the last.",
-  "bytes": 55406
+  "bytes": 56016
  }
 ]

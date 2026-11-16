@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-o-level-geography-weather--01-stevenson-screen.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## The Stevenson Screen in detail",
+  "alt": "A white Stevenson Screen with louvred sides and a double roof stands on legs about 1.2 metres above grass, in the open, with a crossed-out building and tree showing it must be away from them. Labels give each reason: white reflects the Sun’s radiation, louvres let air through but keep sun and rain out, the double roof reduces heating, the height avoids ground heat and the door opens away from the Sun. Below, which instruments go inside and outside.",
+  "caption": "Every feature exists so the thermometers read shade air temperature fairly.",
+  "bytes": 126224
+ },
+ {
+  "file": "cambridge-o-level-geography-weather--02-three-instruments.webp",
+  "width": 900,
+  "height": 620,
+  "after": "## The instruments and how each works",
+  "alt": "Three panels. A U-shaped maximum-minimum thermometer with metal markers left at the highest and lowest temperatures, reset with a magnet. A wet-and-dry bulb thermometer: evaporation cools the muslin-wrapped wet bulb; equal readings of 28 and 28 °C mean saturated air, while 28 and 20 °C mean much drier air. A wind vane whose arrow points into the wind, towards the south-west for a south-westerly.",
+  "caption": "Markers record extremes; the bulb difference gives humidity; the vane points where the wind comes from.",
+  "bytes": 98956
+ },
+ {
+  "file": "cambridge-o-level-geography-weather--03-cloud-amount-type.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## Observing cloud",
+  "alt": "Top: five sky circles shaded to show 0, 2, 4, 6 and 8 oktas, from clear to overcast. Bottom: cloud types by shape and height: high, thin, wispy cirrus; heaped, white, flat-based cumulus; towering cumulonimbus with heavy rain and thunder; and a low, grey, even layer of stratus.",
+  "caption": "Amount in oktas; type by shape and height.",
+  "bytes": 75074
+ },
+ {
+  "file": "cambridge-o-level-geography-weather--04-week-of-readings.webp",
+  "width": 900,
+  "height": 615,
+  "after": "## Worked example 1: calculations from readings",
+  "alt": "A graph of one week: maximum temperatures from 27 to 34 °C, minimums from 19 to 24 °C, and rainfall bars of 12, 25, 3 and 6 mm on four days. Calculations: Tuesday’s range 33 − 23 = 10 °C; Wednesday’s mean (29 + 21) ÷ 2 = 25 °C; total rain 46 mm; mean daily rain 46 ÷ 7 = 6.6 mm, which hides three dry days; the week’s range 34 − 19 = 15 °C.",
+  "caption": "Range = max − min; mean = (max + min) ÷ 2; always show working and units.",
+  "bytes": 90038
+ },
+ {
+  "file": "cambridge-o-level-geography-weather--05-wind-rose-describing.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Reading graphs and diagrams",
+  "alt": "Left: an illustrative wind rose with eight arms; the longest, from the south-west, shows the prevailing wind. Right: four steps for describing any weather graph: give the overall pattern first, quote the highest and lowest values with units and when they occurred, use data for any change, and point out anomalies such as a single very wet day.",
+  "caption": "The longest arm is the prevailing wind; describe graphs pattern first, then data.",
+  "bytes": 88566
+ }
+]

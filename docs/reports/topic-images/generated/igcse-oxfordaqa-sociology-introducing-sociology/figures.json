@@ -1,0 +1,74 @@
+[
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--01-family-types.webp",
+  "width": 900,
+  "height": 699,
+  "after": "## Families (3.1.1)",
+  "alt": "Seven small family diagrams: nuclear, extended, single-parent, reconstituted, living apart together, child-free couple and beanpole (many generations, few members each). A note adds Therborn’s point that family systems differ across world regions.",
+  "caption": "There is no single family form: households take many shapes.",
+  "bytes": 96480
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--02-family-perspectives.webp",
+  "width": 900,
+  "height": 503,
+  "after": "## Families (3.1.1)",
+  "alt": "Three cards. Parsons, a functionalist, sees positive functions: primary socialisation and stabilising adult personalities. Engels, a Marxist, sees the family serving capitalism. Oakley, a feminist, sees women positioned unequally around domestic labour and childcare. Below, Smart and Stacey on growing family diversity.",
+  "caption": "Functionalists see benefits, Marxists see capitalism, feminists see inequality.",
+  "bytes": 84038
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--03-beanpole-pivot.webp",
+  "width": 900,
+  "height": 664,
+  "after": "## Families (3.1.1)",
+  "alt": "Rising life expectancy and falling birth rates produce beanpole families: three generations with few members in each. The middle generation becomes the pivot generation, caring for ageing parents above and children below at the same time.",
+  "caption": "Longer lives and fewer births leave the middle generation caring both ways.",
+  "bytes": 72984
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--04-labelling-prophecy.webp",
+  "width": 900,
+  "height": 766,
+  "after": "## Education (3.1.2)",
+  "alt": "A cycle of four steps around the self-fulfilling prophecy: a teacher labels a pupil, often on limited evidence; the teacher’s expectations change; the pupil is treated differently; the pupil internalises and acts out the label, which confirms it.",
+  "caption": "A label shapes expectations and treatment until the pupil lives up, or down, to it.",
+  "bytes": 93230
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-perspectives.webp",
+  "width": 900,
+  "height": 484,
+  "after": "## Education (3.1.2)",
+  "alt": "Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought.",
+  "caption": "Schools teach more than subjects; the perspectives disagree about what that does.",
+  "bytes": 97498
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--06-global-education.webp",
+  "width": 900,
+  "height": 654,
+  "after": "## Education (3.1.2)",
+  "alt": "Four cards on access to education worldwide: provision (free schooling, class sizes, teachers, buildings); poverty (child work, fees, underfunding); gender and other inequalities (early marriage, disability, rural location, conflict, with women about two-thirds of adults lacking basic literacy); and digital access, exposed during COVID-19 closures.",
+  "caption": "Provision, poverty, gender and digital access all shape who gets an education.",
+  "bytes": 129528
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--07-methods-scorecard.webp",
+  "width": 900,
+  "height": 757,
+  "after": "## Research methods (3.1.3 — shared with Paper 2)",
+  "alt": "Five methods with what each is strong on and a strength and weakness: questionnaires and structured interviews are reliable; unstructured interviews and participant observation give valid detail; official statistics give large-scale, comparable data but were collected for other purposes. Below, the three tests: reliability, validity and representativeness.",
+  "caption": "Reliable methods tend to lack depth; valid, detailed methods are hard to repeat.",
+  "bytes": 146498
+ },
+ {
+  "file": "igcse-oxfordaqa-sociology-introducing-sociology--08-bullying-method-choice.webp",
+  "width": 900,
+  "height": 574,
+  "after": "## Worked example",
+  "alt": "For a study of bullying in a school, a questionnaire is anonymous and reliable but shallow; unstructured interviews give rich detail but pupils may not open up and the sample is small. The best answer combines them: a questionnaire to measure how widespread bullying is, then interviews with volunteers to understand why.",
+  "caption": "Recommending a justified combination scores higher than defending one method.",
+  "bytes": 94414
+ }
+]

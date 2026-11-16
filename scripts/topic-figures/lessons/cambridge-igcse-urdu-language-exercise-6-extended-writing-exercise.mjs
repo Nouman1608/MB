@@ -241,15 +241,47 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   b += panel(30, y, 840, 250, C.cream, C.mustard) + T(54, y + 36, 'Punctuation and spelling (W4)', { size: 19, weight: 700 });
   [['۔', 'full stop'], ['،', 'comma'], ['؟', 'question']].forEach(([m, g], i) => { b += chip(54 + i * 128, y + 56, 116, m, g, { h: 96, ub: 50, us: 32 }); });
   const sp = [['ضروری', 'ظروری'], ['ذریعے', 'زریعے']];
+  b += T(470, y + 70, 'Spelling: sound-alike letters', { size: 16, weight: 700, fill: C.olive });
   sp.forEach(([ok, bad], i) => {
-    const yy = y + 66 + i * 64;
-    b += U(640, yy + 22, ok, { size: 26, fill: C.tealDark }) + tick(670, yy + 18, true) + U(780, yy + 22, bad, { size: 26, fill: C.rust }) + T(800, yy + 18, 'not', { size: 15, fill: C.rust });
+    const yy = y + 84 + i * 72;
+    b += `<rect x="470" y="${yy}" width="376" height="62" rx="10" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>`;
+    b += U(800, yy + 42, ok, { size: 26, fill: C.tealDark }) + tick(826, yy + 40, true) + T(660, yy + 38, 'not', { size: 16, fill: C.muted, anchor: 'middle' }) + U(610, yy + 42, bad, { size: 26, fill: C.rust }) + tick(500, yy + 40, false);
   });
-  b += T(450, y + 216, 'ہ and ھ differ:'.replace(/.*/, 'Keep ہ and ھ apart, as in'), { size: 16, fill: C.muted, anchor: 'end' }).replace('ہ and ھ', 'two letters') ;
-  b += U(560, y + 222, 'پہلے', { size: 26 }) + T(580, y + 216, 'and', { size: 16, fill: C.muted }) + U(680, y + 222, 'پھر', { size: 26 });
+  b += T(54, y + 198, 'ہ versus ھ:'.replace('ہ versus ھ:', 'Two h letters:'), { size: 16, weight: 700, fill: C.olive });
+  b += chip(320, y + 160, 100, 'پہلے', 'first', { h: 74, ub: 40, us: 24 }).replace(/<text[^>]*font-size="16"[^>]*>first<\/text>/, '') + chip(208, y + 160, 100, 'پھر', '', { h: 74, ub: 40, us: 24 });
   add('07-structures-and-accuracy',
     SV(y + 278, 'Structures for range, marks for accuracy', b),
     'Five Urdu structures with glosses: a condition with اگر… تو, a relative clause with جو, a passive, a suggestion with میری تجویز ہے کہ, and a comparison with کے مقابلے میں. Below, the Urdu full stop, comma and question mark, and spellings such as ضروری (not ظروری) and ذریعے (not زریعے).',
     'Plan a few structures in deliberately, then check punctuation and spelling.',
     '## Language that lifts the mark');
+}
+
+// 08 Worked example: report plan
+{
+  let b = '';
+  [['Purpose', 'inform and recommend'], ['Format', 'report: title, purpose, recommendations'], ['Audience', 'the principal: formal, آپ'.replace(', آپ', '')]].forEach(([k, v], i) => {
+    b += card(30 + i * 286, 110, 268, 100, k, [v], { tsize: 18, size: 16, fill: C.tealLight, edge: C.tealDark });
+  });
+  let y = 230;
+  b += panel(30, y, 840, 646);
+  b += U(450, y + 58, 'ثقافتی ہفتے کی رپورٹ', { size: 30, anchor: 'middle' }) + T(450, y + 92, 'title', { size: 15, fill: C.muted, anchor: 'middle', italic: true });
+  const row = (yy, n, h, d, urs, f) => {
+    let s = `<rect x="46" y="${yy}" width="808" height="${urs.length ? 60 + urs.length * 50 : 74}" rx="10" fill="${f}"/>` + badge(80, yy + 34, 18, n, C.panel) + T(110, yy + 32, h, { size: 17, weight: 700 }) + (d ? T(110, yy + 56, d, { size: 15, fill: C.muted }) : '');
+    urs.forEach((u, k) => { s += U(838, yy + 98 + k * 50 - (d ? 0 : 20), u, { size: 24 }); });
+    return s;
+  };
+  b += row(y + 112, '1', 'Title + purpose of the report', 'what, when, aim of the week', ['یہ رپورٹ اسکول میں پچھلے مہینے منائے گئے', 'ثقافتی ہفتے کے بارے میں ہے۔'], C.cream);
+  b += row(y + 284, '2', 'What worked: the food fair', "each class, one province's dish; money to the library", [], C.tealLight);
+  b += row(y + 370, '3', 'What did not: programmes too long', 'speech contest; younger pupils restless', [], C.tealLight);
+  b += row(y + 456, '4', 'Recommendations', 'invite parents; a time limit for each programme', ['سفارشات: میری تجویز ہے کہ اگلے سال', 'والدین کو بھی مدعو کیا جائے'], C.cream);
+  y += 676;
+  b += T(450, y + 20, 'The prompt is raised in register, not copied', { size: 19, weight: 700, anchor: 'middle' });
+  b += `<rect x="30" y="${y + 40}" width="400" height="96" rx="12" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(50, y + 68, 'prompt', { size: 15, fill: C.muted }) + U(410, y + 108, 'والدین کو بھی بلانا چاہیے', { size: 25 });
+  b += harrow(438, 462, y + 88);
+  b += `<rect x="470" y="${y + 40}" width="400" height="96" rx="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + T(490, y + 68, 'report', { size: 15, fill: C.tealDark }) + U(850, y + 108, 'والدین کو بھی مدعو کیا جائے', { size: 25 });
+  add('08-report-plan',
+    SV(y + 164, 'Worked example: a report on cultural week', b),
+    'The plan for a report to the principal on cultural week: a title ثقافتی ہفتے کی رپورٹ and purpose statement, what worked (the food fair), what did not (overlong programmes), and recommendations under سفارشات. The prompt والدین کو بھی بلانا چاہیے is raised to والدین کو بھی مدعو کیا جائے.',
+    'Title, purpose, two developed points and recommendations, in formal Urdu.',
+    '## Worked example');
 }

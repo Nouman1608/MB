@@ -1,0 +1,56 @@
+[
+ {
+  "file": "aqa-gcse-psychology-8182-memory--01-encoding-and-types.webp",
+  "width": 900,
+  "height": 757,
+  "after": "## Processes and types of memory",
+  "alt": "Encoding, storage and retrieval are linked. Encoding can be acoustic, visual or semantic. Long-term memory has three types: episodic (personal experiences), semantic (facts) and procedural (skills). Clive Wearing lost most episodic memory but kept the procedural skill of playing the piano.",
+  "caption": "Episodic, semantic and procedural memories are stored differently, and can be lost separately.",
+  "bytes": 133662
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-memory--02-serial-position-curve.webp",
+  "width": 900,
+  "height": 793,
+  "after": "## Serial position: Murdock's study",
+  "alt": "A U-shaped curve of chance of recall against position in a list. Early words show a primacy effect because they were rehearsed into the long-term store; the last words show a recency effect because they were still in the short-term store; middle words are recalled worst. Cards give the variables, conclusion and evaluation.",
+  "caption": "Primacy from long-term memory, recency from short-term memory: evidence for separate stores.",
+  "bytes": 112408
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-memory--03-war-of-the-ghosts.webp",
+  "width": 900,
+  "height": 872,
+  "after": "## Memory as an active process: Bartlett",
+  "alt": "Three pages get shorter as an unfamiliar folk tale is reproduced again and again, with some lines changed. The changes: shortened, unfamiliar details omitted and details transformed into familiar forms. Schemas fill gaps and effort after meaning makes the story fit what we know. An evaluation note follows.",
+  "caption": "Each recall rebuilds the story to fit our schemas: shorter, simpler, more familiar.",
+  "bytes": 129400
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-memory--04-accuracy-factors.webp",
+  "width": 900,
+  "height": 552,
+  "after": "## Factors affecting the accuracy of memory",
+  "alt": "Two interference rows: proactive, where old learning disrupts new (an old PIN), and retroactive, where new learning disrupts old (last term's timetable). Cards cover context, where divers recalled better in the same environment as learning, and false memories, where suggestion produced recall of invented events.",
+  "caption": "Interference, a change of context and suggestion can all make recall inaccurate.",
+  "bytes": 93786
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-memory--05-scenario-answer.webp",
+  "width": 900,
+  "height": 521,
+  "after": "## Worked example 1: applying memory to a scenario",
+  "alt": "Three numbered steps for a three-mark scenario answer about Jamal's locker codes: name the concept (proactive interference), explain it, and link it to the scenario. The last step is highlighted because it earns the application mark.",
+  "caption": "Name it, explain it, then link it to the person in the question.",
+  "bytes": 96480
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-memory--06-extended-answer-plan.webp",
+  "width": 900,
+  "height": 451,
+  "after": "## Worked example 2: planning an extended answer",
+  "alt": "A bar splits an extended answer into describe (about half), evaluate (about half) and a one-sentence conclusion. Below, the describe column lists reconstruction, schemas, effort after meaning and the War of the Ghosts changes; the evaluate column gives one strength and two weaknesses; the conclusion weighs them up.",
+  "caption": "Split the answer roughly half description, half evaluation, then weigh up.",
+  "bytes": 91250
+ }
+]

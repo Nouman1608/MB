@@ -152,7 +152,7 @@ const COAL = '#2b2f3a';
   b += path(`M30,${g + 80} Q450,${g + 40} 870,${g + 80}`, { stroke: C.rockDark, w: 2 });
   b += `<path d="M30,${g + 245} Q450,${g + 95} 870,${g + 245} L870,${y + 430} L30,${y + 430} Z" fill="${C.rock}"/>`;
   b += `<path d="M30,${g + 210} Q450,${g + 60} 870,${g + 210} L870,${g + 245} Q450,${g + 95} 30,${g + 245} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>`;
-  b += `<path d="M230,${g + 191} Q450,${g + 149} 670,${g + 191} Q450,${g + 215} 230,${g + 191} Z" fill="${COAL}"/>`;
+  b += `<path d="M230,${g + 191} Q450,${g + 149} 670,${g + 191} Q450,${g + 252} 230,${g + 191} Z" fill="${COAL}"/>`;
   // rig
   b += path(`M430,${g} L450,${g - 100} L470,${g}`, { stroke: C.ink, w: 4 }) + path(`M436,${g - 30} L464,${g - 30} M441,${g - 60} L459,${g - 60}`, { stroke: C.ink, w: 3 });
   b += `<line x1="450" y1="${g}" x2="450" y2="${g + 182}" stroke="${C.ink}" stroke-width="5"/>`;
@@ -162,8 +162,8 @@ const COAL = '#2b2f3a';
   b += T(135, g - 60, 'seismic survey', { size: 16, weight: 700, fill: C.tealDark, anchor: 'middle' }) + T(135, g - 40, 'locates trapped deposits', { size: 15, fill: C.tealDark, anchor: 'middle' });
   b += T(480, g - 70, 'rig drills a well', { size: 17, weight: 700 });
   b += T(480, g + 60, 'oil or gas rises under', { size: 16, weight: 700, fill: C.olive }) + T(480, g + 80, 'pressure or is pumped', { size: 16, weight: 700, fill: C.olive });
-  b += T(860, g + 176, 'cap rock seals it in', { size: 16, weight: 700, anchor: 'end' });
-  b += T(450, g + 252, 'oil or gas trapped in the reservoir (black)', { size: 16, weight: 700, anchor: 'middle' });
+  b += T(860, g + 140, 'cap rock seals it in', { size: 16, weight: 700, anchor: 'end' }) + `<line x1="790" y1="${g + 148}" x2="800" y2="${g + 192}" stroke="${C.ink}" stroke-width="2"/>`;
+  b += T(560, g + 276, 'oil or gas trapped in the reservoir rock', { size: 16, weight: 700 }) + `<line x1="555" y1="${g + 270}" x2="520" y2="${g + 212}" stroke="${C.ink}" stroke-width="2"/>`;
   const n = note(30, y + 450, 840, 'Found in sedimentary basins such as the Potwar Plateau and Sindh. A labelled diagram should show the reservoir, the cap rock and the route to the surface.');
   add('02-drilling-oil-gas',
     svg(900, y + 450 + n.h + 30, 'Drilling for oil and gas', b + n.s, 'simple cross-section, not to scale'),
@@ -174,27 +174,31 @@ const COAL = '#2b2f3a';
 
 // 03 How fuels reach users
 {
-  const rowY = [150, 340, 530];
   const rows = [
-    ['COAL', [['Thar lignite', 'Low-grade: high ash, moisture, sulphur'], ['Power stations at or near the mine', 'Low heat output: poor for long transport']], [['Imported coal, incl. coking coal', 'Arrives by sea at Karachi’s ports'], ['Rail and road inland', 'e.g. to iron and steel making']]],
+    ['COAL', [['Thar lignite', 'Low-grade: high ash, moisture, sulphur'], ['Power stations at or near the mine', 'Low heat output: poor for long transport']], [['Imported coal, incl. coking coal', 'Arrives by sea at Karachi’s ports'], ['Rail and road', 'Carry it inland']]],
     ['GAS', [['Sui (found 1952) and fields in Sindh and Balochistan', ''], ['Trunk pipelines', 'To cities of Sindh and Punjab and to Peshawar']], [['Areas off the pipeline', 'Rural and hilly areas'], ['LPG cylinders', 'More expensive; supply can be irregular']]],
-    ['OIL', [['Tankers to Karachi', 'Most crude and products imported, mainly from the Gulf'], ['Refined at Karachi', 'or piped to Mahmood Kot near Multan']], [['Domestic crude', 'Potwar Plateau and Sindh: a small part of demand'], ['Rail and road tankers', 'carry the rest inland']]],
+    ['OIL', [['Tankers to Karachi', 'Most crude and products imported, mainly from the Gulf'], ['Karachi', 'Refined there, or piped to the refinery at Mahmood Kot near Multan; rail and road tankers carry the rest']], [['Domestic crude', 'Potwar Plateau and Sindh: only a small part of demand']]],
   ];
   let b = '';
-  const w = 168;
+  const w = 168, G = 18, off = 10;
+  let y = 120;
+  const sepX = 130 + 2 * (w + G) + off / 2 - G / 2;
   rows.forEach(([lab, A, B], r) => {
-    const y = rowY[r] - 30;
-    b += R(30, y, 840, 176, r % 2 ? C.panel : '#f9fbfb', C.panelEdge) + `<rect x="30" y="${y}" width="80" height="176" rx="14" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`;
-    b += `<text transform="translate(78,${y + 88}) rotate(-90)" font-size="20" font-weight="700" fill="${C.ink}" text-anchor="middle">${lab}</text>`;
-    const draw = (arr, yy, hh) => arr.forEach(([ti, s], i) => {
-      const x = 130 + i * (w + 26) + (arr === B ? 2 * (w + 26) : 0);
-      b += card(x, yy, w, { title: ti, body: s || undefined, ts: 15, bs: 15, h: hh, bfill: C.ink, pad: 10, fill: '#ffffff' }).s;
-      if (i === 0) b += arrow(x + w + 3, yy + hh / 2, x + w + 23, yy + hh / 2, { w: 3 });
+    const hh = Math.max(...[...A, ...B].map(([ti, s2]) => cardH(w, { title: ti, body: s2 || undefined, ts: 15, bs: 15, pad: 10 })));
+    const H = hh + 20;
+    b += R(30, y, 840, H, r % 2 ? C.panel : '#f9fbfb', C.panelEdge) + `<rect x="30" y="${y}" width="80" height="${H}" rx="14" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`;
+    b += `<text transform="translate(78,${y + H / 2}) rotate(-90)" font-size="20" font-weight="700" fill="${C.ink}" text-anchor="middle">${lab}</text>`;
+    b += `<line x1="${sepX}" y1="${y + 6}" x2="${sepX}" y2="${y + H - 6}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="6 6"/>`;
+    const draw = (arr, isB) => arr.forEach(([ti, s2], i) => {
+      const x = 130 + i * (w + G) + (isB ? 2 * (w + G) + off : 0);
+      b += card(x, y + 10, w, { title: ti, body: s2 || undefined, ts: 15, bs: 15, h: hh, bfill: C.ink, pad: 10, fill: '#ffffff' }).s;
+      if (i === 0 && arr.length > 1) b += arrow(x + w + 1, y + 10 + hh / 2, x + w + G - 1, y + 10 + hh / 2, { w: 3 });
     });
-    draw(A, y + 10, 156); draw(B, y + 10, 156);
+    draw(A, false); draw(B, true);
+    y += H + 14;
   });
-  b += `<line x1="${130 + 2 * (w + 26) - 13}" y1="120" x2="${130 + 2 * (w + 26) - 13}" y2="${rowY[2] + 146}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="6 6"/>`;
-  const n = note(30, rowY[2] + 166, 840, 'LNG imports through terminals at Port Qasim now help meet gas demand as domestic output falls behind.');
+  const n = note(30, y + 6, 840, 'LNG imports through terminals at Port Qasim now help meet gas demand as domestic output falls behind.');
+  const rowY = [0, 0, y + 6 - 166];
   add('03-fuels-to-users',
     svg(900, rowY[2] + 166 + n.h + 30, 'How coal, gas and oil reach their users', b + n.s),
     'Three rows. Coal: low-grade Thar lignite is burned in power stations near the mine, while imported coal arrives at Karachi’s ports and moves inland by rail and road. Gas: from Sui and other fields it travels by trunk pipeline to cities, while areas off the network use costlier LPG cylinders. Oil: most is imported by tanker to Karachi, refined there or piped to Mahmood Kot near Multan, with rail and road tankers carrying the rest.',
@@ -229,21 +233,22 @@ const COAL = '#2b2f3a';
 {
   const y = 112, g = y + 290;
   let b = `<rect x="30" y="${y}" width="840" height="300" rx="14" fill="#e6eef0"/>`;
-  b += `<path d="M30,${y + 150} Q200,${y + 150} 300,${y + 200} L430,${y + 200} L430,${g} L30,${g} Z" fill="${C.teal}"/>`;
-  b += `<path d="M30,${y + 80} Q150,${y + 70} 220,${y + 120} L300,${y + 200} L300,${y + 300} L30,${y + 300} Z" fill="none"/>`;
-  b += `<path d="M30,${g + 10} L30,${y + 240} Q200,${y + 250} 420,${g - 40} L870,${g - 20} L870,${g + 10} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5"/>`;
-  b += `<path d="M430,${y + 190} L470,${y + 190} L520,${g - 36} L430,${g - 36} Z" fill="#d6d6d6" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
-  b += `<line x1="30" y1="${y + 150}" x2="300" y2="${y + 150}" stroke="${C.blue}" stroke-width="0"/>`;
-  b += `<rect x="530" y="${g - 76}" width="60" height="40" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>` + T(560, g - 50, '⚡', { size: 22, anchor: 'middle' });
-  b += path(`M445,${g - 60} L530,${g - 56}`, { stroke: C.blue, w: 5 }) + path(`M590,${g - 40} Q700,${g - 34} 860,${g - 28}`, { stroke: C.blue, w: 7 });
-  b += T(140, y + 190, 'reservoir', { size: 18, weight: 700, fill: C.tealDark }) + T(140, y + 212, 'stores water', { size: 16, fill: C.tealDark });
-  b += T(450, y + 176, 'dam', { size: 18, weight: 700, anchor: 'middle' });
-  b += T(600, g - 90, 'power station', { size: 16, weight: 700 });
-  b += T(860, g - 46, 'river flows on downstream', { size: 15, fill: C.blue, anchor: 'end' });
+  // reservoir (flat surface) behind the dam, river bed sloping down to the right
+  b += `<path d="M30,${y + 170} L440,${y + 170} L440,${y + 262} L30,${y + 240} Z" fill="${C.teal}"/>`;
+  b += path(`M30,${y + 170} L440,${y + 170}`, { stroke: C.blue, w: 3 });
+  b += `<path d="M30,${y + 240} L440,${y + 262} L870,${y + 268} L870,${y + 300} L30,${y + 300} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
+  b += path(`M520,${y + 262} L866,${y + 266}`, { stroke: C.blue, w: 7 });
+  b += `<path d="M430,${y + 150} L462,${y + 150} L520,${y + 266} L430,${y + 262} Z" fill="#d6d6d6" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+  b += path(`M440,${y + 238} L540,${y + 246}`, { stroke: C.blue, w: 5 });
+  b += `<rect x="530" y="${y + 214}" width="64" height="44" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>`;
+  b += T(160, y + 214, 'reservoir stores water', { size: 18, weight: 700, fill: C.tealDark });
+  b += T(446, y + 138, 'dam', { size: 18, weight: 700, anchor: 'middle' });
+  b += T(604, y + 230, 'power station', { size: 16, weight: 700 });
+  b += T(860, y + 290, 'river flows on downstream', { size: 15, fill: C.blue, anchor: 'end', weight: 600 });
   // outputs
   const outs = [['Irrigation water', C.teal], ['Electricity', C.mustard], ['Flood control', C.cream]];
-  outs.forEach(([s, f], i) => { const x = 620 + 0, yy = y + 20 + i * 52; b += R(x, yy, 230, 40, f, C.ink, { rx: 20 }) + T(x + 115, yy + 27, s, { size: 17, weight: 700, anchor: 'middle' }); });
-  b += T(600, y + 46, 'multi-purpose:', { size: 16, weight: 700, anchor: 'end' });
+  outs.forEach(([s, f], i) => { const x = 620 + 0, yy = y + 18 + i * 50; b += R(x, yy, 230, 40, f, C.ink, { rx: 20 }) + T(x + 115, yy + 27, s, { size: 17, weight: 700, anchor: 'middle' }); });
+  b += T(606, y + 44, 'multi-purpose:', { size: 17, weight: 700, anchor: 'end' });
   const phys = ['Narrow, deep valley in hard rock for the dam', 'Large, reliable flow from snowmelt and monsoon rain', 'Large basin upstream to store water'];
   const hum = ['Capital, often from international lenders', 'Technical expertise', 'Downstream demand for irrigation water and electricity', 'Land that can be flooded with the fewest people resettled'];
   const h = Math.max(cardH(410, { title: 'Physical conditions', body: phys, bullets: true, bs: 16 }), cardH(410, { title: 'Human conditions', body: hum, bullets: true, bs: 16 }));
@@ -289,13 +294,15 @@ const COAL = '#2b2f3a';
     ['Evaluate / assess', 'Give advantages and disadvantages, refer to Pakistan, then reach a judgement. Often the final part.', C.cream, C.olive],
   ];
   let b = '';
+  let yy = 112;
   steps.forEach(([a, c, f, e], i) => {
-    const x = 30 + i * 120, y = 112 + (2 - i) * 0 + i * 96, w = 600;
-    const cc = card(x, y, w, { title: a, body: c, ts: 22, bs: 17, h: 86, fill: f, edge: e, bfill: C.ink });
-    b += cc.s + badge(x + w + 36, y + 43, 24, String(i + 1), i === 2 ? C.mustard : C.cream);
+    const x = 30 + i * 90, w = 840 - 2 * 90 - 60;
+    const cc = card(x + 60, yy, w, { title: a, body: c, ts: 22, bs: 17, fill: f, edge: e, bfill: C.ink });
+    b += cc.s + badge(x + 26, yy + cc.h / 2, 24, String(i + 1), i === 2 ? C.mustard : C.cream);
+    yy += cc.h + 14;
   });
   add('07-command-words',
-    svg(900, 112 + 3 * 96 + 14, 'Answering Power questions', b),
+    svg(900, yy + 16, 'Answering Power questions', b),
     'Three stepped cards. Describe: name a source, a place and a fact. Explain: link a cause to an effect with because or so. Evaluate or assess: give advantages and disadvantages, refer to Pakistan and reach a judgement.',
     'Each command word asks for one step more than the last.',
     '## How to approach Power exam questions');
