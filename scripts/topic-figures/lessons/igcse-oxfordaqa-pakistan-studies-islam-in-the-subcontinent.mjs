@@ -176,7 +176,7 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
 {
   const y = 112;
   let b = R(30, y, 260, 120, C.tealLight, C.tealDark) + T(160, y + 44, 'Correct practice', { size: 19, weight: 700, anchor: 'middle' }) + T(160, y + 72, 'under the Sharia', { size: 16, anchor: 'middle' });
-  b += R(610, y, 260, 120, C.cream, C.olive) + T(740, y + 44, 'Inner sincerity', { size: 19, weight: 700, anchor: 'middle' }) + T(740, y + 72, 'the Sufi path', { size: 16, anchor: 'middle' });
+  b += R(610, y, 260, 120, C.cream, C.olive) + T(740, y + 44, 'Inner sincerity', { size: 19, weight: 700, anchor: 'middle' }) + T(740, y + 72, 'inner faith', { size: 16, anchor: 'middle' });
   b += T(450, y + 52, '+', { size: 48, weight: 700, anchor: 'middle' });
   b += arrow(160, y + 124, 400, y + 196, { w: 4 }) + arrow(740, y + 124, 500, y + 196, { w: 4 });
   b += R(300, y + 200, 300, 70, C.mustard, C.ink) + T(450, y + 243, 'True faith', { size: 22, weight: 700, anchor: 'middle' });
@@ -216,7 +216,7 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
     ['Division between Sunnis and Shias', 'Tried to reduce sectarian conflict and reconcile the schools of thought'],
     ['Scholars stressing law vs popular customs at shrines', 'Stressed the Sharia and hadith; wrote Hujjat Allah al-Baligha explaining the reasons behind Islamic law'],
   ];
-  let b = T(225, 136, 'Problem', { size: 19, weight: 700, fill: C.rust, anchor: 'middle' }) + T(665, 136, 'Shah Waliullah’s response', { size: 19, weight: 700, fill: C.tealDark, anchor: 'middle' });
+  let b = T(225, 136, 'Problem', { size: 19, weight: 700, fill: C.rust, anchor: 'middle' }) + T(665, 136, 'Related reform', { size: 19, weight: 700, fill: C.tealDark, anchor: 'middle' });
   let y = 152;
   rows.forEach(([p, r]) => {
     const h = Math.max(cardH(390, { body: p, bs: 16 }), cardH(410, { body: r, bs: 16 }));
@@ -227,7 +227,7 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   add('06-shah-waliullah-reforms',
     svg(900, y + 8 + n.h + 30, 'Shah Waliullah’s answers to Muslim weakness', b + n.s),
     'Four problems facing Muslims after 1707 are matched to Shah Waliullah’s responses: political decline to letters urging rulers such as Ahmad Shah Abdali to act; lack of access to the Arabic Qur’an to his Persian translation; Sunni–Shia division to efforts at reconciliation; and tension between law and popular custom to his stress on Sharia, hadith and Hujjat Allah al-Baligha.',
-    'Each of Shah Waliullah’s reforms answered a specific cause of Muslim weakness.',
+    'Shah Waliullah’s reforms can be matched to the causes of Muslim weakness.',
     '## What were Shah Waliullah\'s reforms?');
 }
 
@@ -268,8 +268,8 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   nodes.forEach(([x, y, a, c, f, e]) => { b += R(x, y, w, h, f, e) + T(x + w / 2, y + 36, a, { size: 18, weight: 700, anchor: 'middle' }) + T(x + w / 2, y + 62, c, { size: 15, anchor: 'middle', fill: C.ink }); });
   const ly = 580;
   b += arrow(240, 452 + h + 4, 240, ly - 6, { w: 4, color: C.tealDark, marker: 'ahT' });
-  ['Ahl-i-Hadith', 'Deobandi movement (Deoband, 1867)'].forEach((s, i) => { const x = 30 + i * 300; b += R(x, ly, i ? 400 : 280, 56, C.teal, C.tealDark) + T(x + (i ? 200 : 140), ly + 35, s, { size: 17, weight: 700, anchor: 'middle' }); });
-  b += T(740, ly + 35, 'later influenced', { size: 16, fill: C.muted, anchor: 'middle' });
+  ['Ahl-i-Hadith', 'Deobandi movement (Deoband, 1867)'].forEach((s, i) => { const x = i ? 400 : 30; b += R(x, ly, i ? 470 : 340, 56, C.teal, C.tealDark) + T(x + (i ? 235 : 170), ly + 35, s, { size: 17, weight: 700, anchor: 'middle' }); });
+  b += T(256, ly - 22, 'the movement later influenced', { size: 16, fill: C.tealDark, weight: 600 });
   add('08-reform-tradition',
     svg(900, ly + 86, 'One family, one reform tradition', b),
     'A family chart: Shah Abdur Rahim, founder of the Madrasa Rahimiya, is father of Shah Waliullah, whose son Shah Abdul Aziz taught Syed Ahmad Barelvi and whose grandson Shah Ismail Shaheed fought alongside Barelvi from 1826. The movement later influenced the Ahl-i-Hadith and the Deobandi movement founded in 1867.',

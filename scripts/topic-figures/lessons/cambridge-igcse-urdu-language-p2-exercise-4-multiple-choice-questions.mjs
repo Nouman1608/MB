@@ -221,8 +221,8 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   const lines = [['نادیہ', 'سنا ہے تم نے گٹار سیکھنا چھوڑ دیا؟', C.cream], ['بلال', 'چھوڑا نہیں، بس کچھ دن کا وقفہ لیا ہے۔ استاد صاحب دوسرے شہر چلے گئے ہیں۔', C.tealLight], ['نادیہ', 'آن لائن کلاسیں کیوں نہیں لیتے؟', C.cream], ['بلال', 'کوشش کی تھی، مگر انٹرنیٹ اتنا سست ہے کہ آدھی بات سمجھ ہی نہیں آتی تھی۔', C.tealLight]];
   let y = 110;
   lines.forEach(([n, l, f]) => {
-    b += `<rect x="30" y="${y}" width="840" height="70" rx="12" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>` + U(846, y + 46, n + ':', { size: 22, fill: C.tealDark }) + U(770, y + 46, l, { size: 22 });
-    y += 80;
+    b += `<rect x="30" y="${y}" width="840" height="78" rx="12" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>` + U(846, y + 54, n + ':', { size: 22, fill: C.tealDark }) + U(770, y + 54, l, { size: 22 });
+    y += 88;
   });
   y += 12;
   const Q = [
@@ -230,12 +230,12 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
     ['(b)', 'آن لائن کلاسوں کے بارے میں بلال کی کیا رائے ہے؟', "What is Bilal's view of online classes?", [['A', 'اس نے کبھی آن لائن کلاس لینے کی کوشش نہیں کی۔', 'ruled out: he says he tried', false], ['B', 'وہ آن لائن کلاسیں پسند کرتا ہے۔', 'contradicted by the "but" after his attempt', false], ['C', 'سست انٹرنیٹ کی وجہ سے آن لائن کلاسیں کارآمد نہیں رہیں۔', 'implied, never stated (L4)', true]]],
   ];
   Q.forEach(([L, q, qe, opts]) => {
-    const H = 92 + opts.length * 64 + 10;
-    b += panel(30, y, 840, H) + T(54, y + 40, L, { size: 19, weight: 700 }) + U(846, y + 48, q, { size: 25 }) + T(54, y + 74, qe, { size: 15, fill: C.muted, italic: true });
+    const H = 100 + opts.length * 72 + 10;
+    b += panel(30, y, 840, H) + T(54, y + 44, L, { size: 19, weight: 700 }) + U(846, y + 56, q, { size: 25 }) + T(54, y + 80, qe, { size: 15, fill: C.muted, italic: true });
     opts.forEach(([k, u, why, ok], i) => {
-      const yy = y + 92 + i * 64;
-      b += `<rect x="46" y="${yy}" width="808" height="56" rx="10" fill="${ok ? C.tealLight : C.panel}" stroke="${ok ? C.tealDark : C.panelEdge}" stroke-width="2"/>`;
-      b += tick(70, yy + 37, ok) + T(96, yy + 35, k + '  ' + why, { size: 15, fill: ok ? C.tealDark : C.rust, weight: 600 }) + U(838, yy + 40, u, { size: 22 });
+      const yy = y + 100 + i * 72;
+      b += `<rect x="46" y="${yy}" width="808" height="64" rx="10" fill="${ok ? C.tealLight : C.panel}" stroke="${ok ? C.tealDark : C.panelEdge}" stroke-width="2"/>`;
+      b += tick(70, yy + 41, ok) + T(96, yy + 39, k + '  ' + why, { size: 15, fill: ok ? C.tealDark : C.rust, weight: 600 }) + U(838, yy + 46, u, { size: 22 });
     });
     y += H + 14;
   });

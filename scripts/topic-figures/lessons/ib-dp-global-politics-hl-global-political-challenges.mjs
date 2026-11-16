@@ -194,7 +194,7 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
   const hl = [[0, 2], [1, 6], [3, 5], [4, 6], [5, 2], [7, 0]];
   areas.forEach((a, i) => { b += box(pos[i][0] - 85, pos[i][1] - 28, 170, 56, { title: a, tsize: 19, align: 'middle', fill: i % 2 ? C.cream : C.tealLight, edge: i % 2 ? C.olive : C.tealDark, pad: 8 }); });
   b += `<circle cx="${cx}" cy="${cy}" r="70" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>` + tx(cx, cy - 4, 'Global', { size: 18, weight: 700, anchor: 'middle' }) + tx(cx, cy + 18, 'challenges', { size: 18, weight: 700, anchor: 'middle' });
-  const n = note(30, 680, 840, 'The areas overlap: a single case usually touches several of them, so study what connects them.', { size: 16, weight: 600 });
+  const n = note(30, 680, 840, 'The areas overlap: one case can touch several of them, so study what connects them.', { size: 16, weight: 600 });
   fig('02-eight-topic-areas', 'Eight HL topic areas', b + n.s, 680 + n.h + 30,
     'Eight topic areas arranged in a ring and all linked to each other: borders, environment, equality, health, identity, poverty, security and technology.',
     'Eight overlapping areas: the connections matter as much as the areas.',

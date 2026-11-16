@@ -228,23 +228,29 @@ const codePanel = (x, y, w, lines, o = {}) => {
 // 03 Value types and compatibility
 {
   let b = '';
-  const tbox = (x, y, ty, ex) => `<rect x="${x}" y="${y}" width="200" height="110" rx="14" fill="#ffffff" stroke="${C.ink}" stroke-width="3"/>` +
-    code(x + 100, y + 44, ty, { size: 24, weight: 700, anchor: 'middle' }) + T(x + 100, y + 76, 'value, e.g.', { size: 15, anchor: 'middle', fill: C.muted }) + code(x + 100, y + 98, ex, { size: 17, anchor: 'middle' });
-  const vbox = (x, y, ty) => `<rect x="${x}" y="${y}" width="200" height="80" rx="14" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="3"/>` +
-    code(x + 100, y + 38, ty, { size: 22, weight: 700, anchor: 'middle' }) + T(x + 100, y + 62, 'variable', { size: 15, anchor: 'middle', fill: C.tealDark });
-  b += T(130, 130, 'VALUE TYPE', { size: 16, weight: 700, anchor: 'middle', fill: C.muted }) + T(770, 130, 'VARIABLE TYPE', { size: 16, weight: 700, anchor: 'middle', fill: C.muted });
-  b += tbox(30, 150, 'int', '3 + 2  →  5') + tbox(30, 300, 'double', '3 + 2.0  →  5.0') + tbox(30, 450, 'boolean', 'true');
-  b += vbox(670, 165, 'int') + vbox(670, 315, 'double') + vbox(670, 465, 'boolean');
-  const ok = (x1, y1, x2, y2, lab, ly) => arrow(x1, y1, x2, y2, { w: 4, color: C.tealDark, marker: 'ahT' }) + T((x1 + x2) / 2, ly, lab, { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += ok(236, 205, 662, 205, 'allowed', 196);
-  b += ok(236, 225, 662, 345, 'allowed: stored as 5.0', 300);
-  b += ok(236, 355, 662, 355, 'allowed', 372);
-  b += ok(236, 505, 662, 505, 'boolean only', 496);
-  // forbidden
-  b += `<line x1="236" y1="335" x2="560" y2="230" stroke="${C.rust}" stroke-width="4" stroke-dasharray="9 7"/>`;
-  b += `<circle cx="590" cy="220" r="20" fill="#ffffff" stroke="${C.rust}" stroke-width="3"/>` + path('M580,210 l20,20 M600,210 l-20,20', { stroke: C.rust, w: 3.5 });
-  b += T(430, 258, 'not allowed', { size: 16, weight: 700, fill: C.rust, anchor: 'middle' });
-  const y = 590;
+  const x0 = 30, c0 = 270, cwd = 190, rh = 96, y0 = 110;
+  b += T(x0 + c0 + 1.5 * cwd, y0 + 22, 'STORED IN A VARIABLE OF TYPE', { size: 15, weight: 700, anchor: 'middle', fill: C.muted });
+  ['int', 'double', 'boolean'].forEach((v, j) => {
+    const x = x0 + c0 + j * cwd;
+    b += `<rect x="${x + 4}" y="${y0 + 34}" width="${cwd - 8}" height="54" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + code(x + cwd / 2, y0 + 68, v, { size: 22, weight: 700, anchor: 'middle' });
+  });
+  b += T(x0 + 10, y0 + 68, 'VALUE OF TYPE', { size: 15, weight: 700, fill: C.muted });
+  const vals = [['int', '3 + 2  is  5'], ['double', '3 + 2.0  is  5.0'], ['boolean', 'true']];
+  const grid = [[['ok', ''], ['ok', 'stored as 5.0'], ['no', '']], [['no', 'even if it looks whole'], ['ok', ''], ['no', '']], [['no', ''], ['no', ''], ['ok', '']]];
+  vals.forEach(([ty, ex], i) => {
+    const y = y0 + 100 + i * (rh + 8);
+    b += `<rect x="${x0}" y="${y}" width="${c0 - 12}" height="${rh}" rx="12" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/>`;
+    b += code(x0 + 18, y + 40, ty, { size: 22, weight: 700 }) + code(x0 + 18, y + 72, ex, { size: 16, fill: C.muted });
+    grid[i].forEach(([k, note], j) => {
+      const x = x0 + c0 + j * cwd, cx = x + cwd / 2, cy = y + (note ? 36 : rh / 2);
+      const okc = k === 'ok';
+      b += `<rect x="${x + 4}" y="${y}" width="${cwd - 8}" height="${rh}" rx="12" fill="${okc ? C.tealLight : '#ffffff'}" stroke="${okc ? C.tealDark : C.panelEdge}" stroke-width="2"/>`;
+      if (okc) b += `<circle cx="${cx}" cy="${cy}" r="18" fill="${C.tealDark}"/>` + path(`M${cx - 9},${cy} l6,7 l12,-14`, { stroke: '#ffffff', w: 4 });
+      else b += `<circle cx="${cx}" cy="${cy}" r="18" fill="#ffffff" stroke="${C.rust}" stroke-width="3"/>` + path(`M${cx - 8},${cy - 8} l16,16 M${cx + 8},${cy - 8} l-16,16`, { stroke: C.rust, w: 3.5 });
+      if (note) b += T(cx, y + 80, note, { size: 15, anchor: 'middle', fill: okc ? C.tealDark : C.rust, weight: 600 });
+    });
+  });
+  const y = y0 + 100 + 3 * (rh + 8) + 16;
   const r = row(y, [
     { kicker: 'COMPILES', title: 'double d = a + 2;', body: 'an int value in a double variable: holds 5.0', fill: C.tealLight, edge: C.tealDark },
     { kicker: 'DOES NOT COMPILE', kfill: C.rust, title: 'int n = 2.5 * 2;', body: 'the value is a double, even though 5.0 looks whole', edge: C.rust },
@@ -252,7 +258,7 @@ const codePanel = (x, y, w, lines, o = {}) => {
   b += r.s;
   add('03-type-compatibility',
     svg(900, y + r.h + 30, 'Which values fit which variables', b),
-    'Arrows from value types to variable types. An int value can go into an int or a double variable, where 5 becomes 5.0; a double value goes only into a double variable, and the arrow from double to int is crossed out; a boolean value goes only into a boolean variable. Below: double d = a + 2; compiles, int n = 2.5 * 2; does not.',
+    'A grid of value types against variable types. An int value can be stored in an int or a double variable, where 5 becomes 5.0; a double value only in a double variable, even if it looks whole; a boolean value only in a boolean variable. Below: double d = a + 2; compiles, int n = 2.5 * 2; does not.',
     'The compiler checks the type of the value, not whether it looks like a whole number.',
     '### An expression has a value and a type');
 }
@@ -266,7 +272,7 @@ const codePanel = (x, y, w, lines, o = {}) => {
   b += varBox(510, 176, 'y', 'declared, no value', '?', { w: 120, fill: '#ffffff', edge: C.rust, vfill: C.rust });
   b += `<rect x="30" y="${148 + cp.h + 14}" width="840" height="44" rx="10" fill="#ffffff" stroke="${C.rust}" stroke-width="2" stroke-dasharray="7 5"/>`;
   b += code(46, 148 + cp.h + 43, 'error: variable y might not have been initialized', { size: 16, fill: C.rust });
-  b += T(680, 200, 'Fix: int y = 0;', { size: 17, weight: 700, fill: C.tealDark }) + T(680, 226, 'assign before any use', { size: 16, fill: C.muted });
+  b += T(680, 200, 'Fix:', { size: 17, weight: 700, fill: C.tealDark }) + code(722, 200, 'int y = 0;', { size: 17, weight: 700, fill: C.tealDark }) + T(680, 226, 'assign before any use', { size: 16, fill: C.muted });
   const y2 = 148 + cp.h + 100;
   b += T(30, y2, 'Reference variables', { size: 20, weight: 700 });
   const cp2 = codePanel(30, y2 + 16, 400, ['String title = "Dune";', 'String empty = null;'], { size: 17 });
@@ -275,16 +281,17 @@ const codePanel = (x, y, w, lines, o = {}) => {
   b += varBox(60, vy, 'title', 'String', '', { w: 120 }) + `<circle cx="120" cy="${vy + 32}" r="7" fill="${C.ink}"/>`;
   b += arrow(127, vy + 32, 336, vy + 32, { w: 3.5 });
   b += `<rect x="342" y="${vy - 6}" width="200" height="76" rx="14" fill="${C.cream}" stroke="${C.olive}" stroke-width="3"/>` + T(442, vy + 18, 'String object', { size: 15, anchor: 'middle', fill: C.olive, weight: 700 }) + code(442, vy + 50, '"Dune"', { size: 22, weight: 700, anchor: 'middle' });
-  b += varBox(60, vy + 130, 'empty', 'String', 'null', { w: 120, vfill: C.muted, vsize: 22 });
-  b += T(200, vy + 168, 'refers to no object at all', { size: 17, fill: C.muted, italic: true });
+  b += varBox(60, vy + 150, 'empty', 'String', 'null', { w: 120, vfill: C.muted, vsize: 22 });
+  b += T(200, vy + 188, 'refers to no object at all', { size: 17, fill: C.muted, italic: true });
   const notes = [['int n = null;', 'does not compile: primitives cannot hold null'], ['""', 'an actual empty String object, not null'], ['empty.length()', 'calling a method on null: NullPointerException']];
   let ny = vy - 4;
   notes.forEach(([c2, n]) => {
-    b += `<rect x="580" y="${ny}" width="290" height="${n.length > 40 ? 84 : 74}" rx="12" fill="#ffffff" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
+    const nh = 50 + para(0, 0, n, 260, { size: 15 }).h;
+    b += `<rect x="580" y="${ny}" width="290" height="${nh}" rx="12" fill="#ffffff" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
     b += code(596, ny + 28, c2, { size: 16, weight: 700 }) + para(596, ny + 52, n, 260, { size: 15, fill: C.muted }).s;
-    ny += (n.length > 40 ? 84 : 74) + 10;
+    ny += nh + 10;
   });
-  const H = Math.max(vy + 130 + 64 + 40, ny + 20);
+  const H = Math.max(vy + 150 + 64 + 50, ny + 20);
   add('04-initialization-and-null',
     svg(900, H, 'Uninitialized variables and null', b),
     'Top: int y; declares y with no value, so int z = y + 1; fails with "variable y might not have been initialized". Bottom: the String variable title holds an arrow to a String object "Dune", while empty holds null and refers to no object; primitives cannot hold null, and "" is a real empty String.',
@@ -295,30 +302,19 @@ const codePanel = (x, y, w, lines, o = {}) => {
 // 05 Scanner: input becomes values in variables
 {
   let b = '';
-  b += T(30, 132, 'Keyboard input, one item per line', { size: 18, weight: 700 });
-  const lines = ['Ada Lovelace', '36', '1.65'];
-  let x = 30;
-  const yI = 150;
-  const segs = [];
-  lines.forEach((l) => {
-    const w = cw(l, 20) + 24;
-    b += `<rect x="${x}" y="${yI}" width="${w}" height="46" rx="8" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/>` + code(x + 12, yI + 30, l, { size: 20 });
-    segs.push(x + w / 2);
-    x += w + 4;
-    b += `<rect x="${x}" y="${yI}" width="36" height="46" rx="8" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + T(x + 18, yI + 30, '⏎', { size: 20, anchor: 'middle', fill: C.tealDark });
-    x += 44;
+  b += T(30, 132, 'Input typed, one item per line:', { size: 17, weight: 700 }) + code(318, 132, 'Ada Lovelace⏎ 36⏎ 1.65⏎', { size: 17, fill: C.tealDark });
+  const calls = [['Ada Lovelace', 'String name = in.nextLine();', 'name', 'String', '"Ada Lovelace"'], ['36', 'int age = in.nextInt();', 'age', 'int', '36'], ['1.65', 'double height = in.nextDouble();', 'height', 'double', '1.65']];
+  b += T(110, 172, 'INPUT ITEM', { size: 15, weight: 700, anchor: 'middle', fill: C.muted }) + T(430, 172, 'ASSIGNMENT', { size: 15, weight: 700, anchor: 'middle', fill: C.muted }) + T(760, 172, 'VARIABLE', { size: 15, weight: 700, anchor: 'middle', fill: C.muted });
+  const yC = 190;
+  calls.forEach(([tok, c2, v, ty, val], i) => {
+    const y = yC + i * 96;
+    b += `<rect x="30" y="${y}" width="160" height="56" rx="10" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/>` + code(110, y + 35, tok, { size: 18, anchor: 'middle' });
+    b += arrow(194, y + 28, 222, y + 28, { w: 3.5, color: C.tealDark, marker: 'ahT' });
+    b += `<rect x="228" y="${y}" width="402" height="56" rx="10" fill="${C.ink}"/>` + code(244, y + 35, c2, { size: 17, fill: '#e8eef0' });
+    b += arrow(634, y + 28, 664, y + 28, { w: 3.5 });
+    b += `<rect x="670" y="${y}" width="200" height="56" rx="10" fill="${C.cream}" stroke="${C.olive}" stroke-width="2.5"/>` + code(770, y + 26, val, { size: 18, weight: 700, anchor: 'middle' }) + T(770, y + 47, `${v} (${ty})`, { size: 15, anchor: 'middle', fill: C.muted });
   });
-  b += T(x + 6, yI + 30, 'end-of-line markers', { size: 15, fill: C.tealDark });
-  const calls = [['String name = in.nextLine();', 'name', 'String', '"Ada Lovelace"'], ['int age = in.nextInt();', 'age', 'int', '36'], ['double height = in.nextDouble();', 'height', 'double', '1.65']];
-  const yC = 280;
-  calls.forEach(([c2, v, ty, val], i) => {
-    const y = yC + i * 110;
-    b += `<rect x="30" y="${y}" width="420" height="56" rx="10" fill="${C.ink}"/>` + code(46, y + 35, c2, { size: 17, fill: '#e8eef0' });
-    b += path(`M${segs[i]},${yI + 50} C${segs[i]},${y - 30} ${240},${y - 40} ${240},${y - 6}`, { w: 3, stroke: C.tealDark, extra: 'marker-end="url(#ahT)"' });
-    b += arrow(456, y + 28, 560, y + 28, { w: 4 });
-    b += varBox(570, y - 4, v, ty, val, { w: 240, h: 60, vsize: 20, fill: C.cream, edge: C.olive });
-  });
-  const yT = yC + 3 * 110 + 20;
+  const yT = yC + 3 * 96 + 14;
   const tb = table(30, yT, [{ w: 230, head: 'Method' }, { w: 610, head: 'Returns' }], [
     ['nextInt()', 'the next int'], ['nextDouble()', 'the next double'], ['nextBoolean()', 'the next boolean'], ['next()', 'the next word, as a String'], ['nextLine()', 'the rest of the line, as a String'],
   ], { size: 17 });
@@ -344,7 +340,7 @@ const codePanel = (x, y, w, lines, o = {}) => {
   ];
   let y = 120;
   steps.forEach(([c2, d, res, used, pos], i) => {
-    const h = 150;
+    const h = 170;
     b += panel(30, y, 840, h, i === 1 ? C.cream : C.panel, i === 1 ? C.olive : C.panelEdge);
     b += badge(64, y + 36, 20, String(i + 1), i === 1 ? C.mustard : C.cream);
     b += code(98, y + 43, c2, { size: 18, weight: 700 });
@@ -410,7 +406,7 @@ const codePanel = (x, y, w, lines, o = {}) => {
     ['io', 'double length = in.nextDouble();', 'input 4.5  →  4.5'],
     ['io', 'double width = in.nextDouble();', 'input 3  →  3.0'],
     ['p', 'double area = length * width;', '4.5 * 3.0  =  13.5'],
-    ['p', 'double perimeter = 2 * (length + width);', 'bracket first: 7.5, then 2 * 7.5 = 15.0'],
+    ['p', 'double perimeter = 2 * (length + width);', '(4.5 + 3.0) = 7.5; 2 * 7.5 = 15.0'],
     ['io', 'print area and perimeter', 'Area: 13.5   Perimeter: 15.0'],
   ];
   let y = 120;
