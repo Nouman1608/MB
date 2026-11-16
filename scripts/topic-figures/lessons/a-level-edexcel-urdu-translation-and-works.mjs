@@ -55,11 +55,11 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   const film = [['بن روئے', 'Bin Roye', '2015'], ['باغبان', 'Baaghban', '2003'], ['بجرنگی بھائی جان', 'Bajrangi Bhaijaan', '2015']];
   lit.forEach(([ur, en, d], i) => {
     const y = 156 + i * 124;
-    b += box(30, y, 480, 112, C.cream, C.olive, 2.5, 12) + u(490, y + 44, ur, { size: 27 }) + t(48, y + 74, en, { size: 17, weight: 700, italic: true }) + t(48, y + 98, d, { size: 15, fill: C.muted });
+    b += box(30, y, 480, 112, C.cream, C.olive, 2.5, 12) + u(490, y + 54, ur, { size: 26 }) + t(48, y + 80, en, { size: 17, weight: 700, italic: true }) + t(48, y + 102, d, { size: 15, fill: C.muted });
   });
   film.forEach(([ur, en, d], i) => {
     const y = 156 + i * 124;
-    b += box(530, y, 340, 112, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 44, ur, { size: 27 }) + t(548, y + 74, en, { size: 17, weight: 700, italic: true }) + t(548, y + 98, d, { size: 15, fill: C.muted });
+    b += box(530, y, 340, 112, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 54, ur, { size: 26 }) + t(548, y + 80, en, { size: 17, weight: 700, italic: true }) + t(548, y + 102, d, { size: 15, fill: C.muted });
   });
   b += panel(30, 540, 840, 120) + t(54, 574, 'Patras: five essays prescribed, not the whole book', { size: 18, weight: 700 });
   ['Savere Jo Kal Aankh Meri Khuli', 'Urdu Ki Aakhri Kitab', 'Murid Pur Ka Peer', 'Marhoom Ki Yaad Mein', 'Lahore Ka Jughrafia'].forEach((s, i) => {
@@ -85,10 +85,10 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
     b += `<line x1="${cx + Math.cos(r) * 96}" y1="${cy + Math.sin(r) * 96}" x2="${x}" y2="${y}" stroke="${C.ink}" stroke-width="2.5"/>` +
       box(x - 95, y - 38, 190, 76, hi ? C.tealLight : C.panel, hi ? C.tealDark : C.panelEdge, 2.5, 12) + t(x, y - 5, a, { size: 17, weight: 700, anchor: 'middle' }) + t(x, y + 18, c, { size: 17, weight: 700, anchor: 'middle' });
   });
-  b += box(30, 584, 840, 84, C.tealLight, C.tealDark, 2, 12) + t(54, 618, 'For AO4, connect each work to the four social and cultural themes', { size: 18, weight: 700 }) +
-    t(54, 646, 'place it in its wider social or historical context, not only what happens in it', { size: 16, fill: C.muted });
+  b += box(30, 556, 840, 84, C.tealLight, C.tealDark, 2, 12) + t(54, 590, 'For AO4, connect each work to the four social and cultural themes', { size: 18, weight: 700 }) +
+    t(54, 618, 'place it in its wider social or historical context, not only what happens in it', { size: 16, fill: C.muted });
   add('03-five-angles',
-    svg(900, 694, 'Preparing a work from five angles', b),
+    svg(900, 664, 'Preparing a work from five angles', b),
     'Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4.',
     'Revise each work from all five angles and link it to the wider themes.',
     '## How to approach it');
