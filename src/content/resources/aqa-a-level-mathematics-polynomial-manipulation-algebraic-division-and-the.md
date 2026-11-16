@@ -48,7 +48,7 @@ A polynomial in x is a sum of terms of the form axⁿ with n a non-negative inte
 
 **Example 1.** Expand and simplify (2x − 1)(x² + 3x − 4) − (x − 2)(x + 5).
 
-```
+```text
 (2x − 1)(x² + 3x − 4) = 2x³ + 6x² − 8x − x² − 3x + 4
                       = 2x³ + 5x² − 11x + 4
 (x − 2)(x + 5)        = x² + 3x − 10
@@ -111,7 +111,7 @@ The remainder is a constant when the divisor is linear. The quotient has degree 
 
 **Example 5.** Divide 3x³ + 2x² − 7x + 4 by (x − 2).
 
-```
+```text
               3x²  + 8x  + 9
         ┌────────────────────────
 x − 2   │ 3x³ + 2x² − 7x + 4
@@ -134,7 +134,7 @@ So 3x³ + 2x² − 7x + 4 = (x − 2)(3x² + 8x + 9) + 22.
 
 Write the dividend as 4x³ + 0x² − 3x + 5. At each stage divide the leading term by 2x.
 
-```
+```text
 4x³ + 0x² − 3x + 5
 2x²  × (2x + 1) = 4x³ + 2x²     → remainder −2x² − 3x
 −x   × (2x + 1) = −2x² − x      → remainder −2x + 5
@@ -184,7 +184,7 @@ f(1) = 1 − 4 − 7 + 10 = 0     so (x − 1) is a factor
 
 Divide by (x − 1), using the same layout as Example 5:
 
-```
+```text
 x³ − 4x² − 7x + 10 = (x − 1)(x² − 3x − 10)
 x² × (x − 1) = x³ − x²          → remainder −3x² − 7x
 −3x × (x − 1) = −3x² + 3x       → remainder −10x + 10
@@ -197,7 +197,7 @@ f(x) = (x − 1)(x − 5)(x + 2), and the solutions are x = 1, x = 5 and x = −
 
 **Example 8 (unknown constants).** f(x) = 2x³ + ax² − 7x + b. (x − 2) is a factor, and the remainder when f(x) is divided by (x + 1) is 9. Find a and b.
 
-```
+```text
 f(2)  = 16 + 4a − 14 + b = 0   →  4a + b = −2
 f(−1) = −2 + a + 7 + b = 9     →  a + b = 4
 Subtract: 3a = −6, so a = −2 and b = 6

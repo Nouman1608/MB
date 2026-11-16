@@ -111,7 +111,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; 1 solar m
 
 **7. (a)** V = (4/3)π(1.1 × 10⁴)³ = 5.58 × 10¹² m³ [1]; ρ = 2.2 × 10³⁰ / 5.58 × 10¹² [1]; **3.9 × 10¹⁷ kg m⁻³** [1]
 **(b)** g = GM/r² = 6.67 × 10⁻¹¹ × 2.2 × 10³⁰ / (1.1 × 10⁴)² [1]; **1.2 × 10¹² N kg⁻¹** [1]
-**(c)** v = √(2GM/r) = √(2 × 6.67 × 10⁻¹¹ × 2.2 × 10³⁰ / 1.1 × 10⁴) = **1.6 × 10⁸ m s⁻¹** [1]; this is 0.54 of c [1]; it is below c, so light can escape and the object is not a black hole [1]
+**(c)** v = √(2GM/r) = √(2 × 6.67 × 10⁻¹¹ × 2.2 × 10³⁰ / (1.1 × 10⁴)) = **1.6 × 10⁸ m s⁻¹** [1]; this is 0.54 of c [1]; it is below c, so light can escape and the object is not a black hole [1]
 *Examiner insight:* Convert 11 km to metres before substituting, and finish by comparing your answer with c so the conclusion is justified.
 
 **8. (a)** Any two from: radius about 10 to 15 km; almost entirely neutrons; density about 10¹⁷ kg m⁻³ like a nucleus. One mark each [1] [1]

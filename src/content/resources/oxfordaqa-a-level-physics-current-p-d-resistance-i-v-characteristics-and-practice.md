@@ -110,7 +110,7 @@ These questions follow sections 3.4.1 to 3.4.3 of the OxfordAQA International AS
 
 ## Answers
 
-**1.** t = 8.0 × 60 = 480 s [1]. Q = It = 2.5 × 10⁻³ × 480 = **1.2 C** [1]. N = Q/e = 1.2 / 1.60 × 10⁻¹⁹ = **7.5 × 10¹⁸ electrons** [1] **[3]**
+**1.** t = 8.0 × 60 = 480 s [1]. Q = It = 2.5 × 10⁻³ × 480 = **1.2 C** [1]. N = Q/e = 1.2 / (1.60 × 10⁻¹⁹) = **7.5 × 10¹⁸ electrons** [1] **[3]**
 *Examiner insight:* Convert minutes and milliamps before substituting, and show the conversion.
 
 **2. (a)** I = Q/t = 45/30 = **1.5 A** [1]
@@ -124,7 +124,7 @@ These questions follow sections 3.4.1 to 3.4.3 of the OxfordAQA International AS
 **(b)** Gradient = 0.050 / 4.0 = **1.25 × 10⁻² A V⁻¹** [1]. R = 1/gradient = **80 Ω** [1] **[5]**
 *Examiner insight:* Say what the constant R is evidence for and quote the condition (constant temperature). On an I-V graph, R is the reciprocal of the gradient.
 
-**5. (a)** R = 0.50 / 0.40 × 10⁻³ = **1250 Ω** (1.3 kΩ) [1]. R = 0.70 / 12.5 × 10⁻³ = **56 Ω** [1]
+**5. (a)** R = 0.50 / (0.40 × 10⁻³) = **1250 Ω** (1.3 kΩ) [1]. R = 0.70 / (12.5 × 10⁻³) = **56 Ω** [1]
 **(b)** Forward: resistance falls as p.d. rises (1250 Ω to 56 Ω) [1]. Reverse: current too small to measure, so resistance is very large [1]
 **(c)** The claim is wrong: R is not constant (it falls from 1250 Ω to 56 Ω), so I is not proportional to V [1] **[5]**
 *Examiner insight:* Support a comparison with figures from the table. A steep graph is not the same as a proportional one.
@@ -138,7 +138,7 @@ These questions follow sections 3.4.1 to 3.4.3 of the OxfordAQA International AS
 **7.** Circuit: the lamp in series with a variable power supply and an ammeter [1]; a voltmeter across the lamp alone, in parallel [1]. Increase the p.d. in steps from near zero, recording V and I after the lamp settles [1], without exceeding the rated p.d. [1]. Reverse the supply connections and repeat for negative values [1]. Plot I against V: a curve through the origin, symmetrical about it [1] **[6]**
 *Examiner insight:* Say where each meter is connected and what is varied. State series or parallel explicitly.
 
-**8. (a)** A = π(0.25 × 10⁻³)² = 1.96 × 10⁻⁷ m² [1]. R = ρL/A [1] = 2.7 × 10⁻⁸ × 1.2 / 1.96 × 10⁻⁷ = **0.17 Ω** [1]
+**8. (a)** A = π(0.25 × 10⁻³)² = 1.96 × 10⁻⁷ m² [1]. R = ρL/A [1] = 2.7 × 10⁻⁸ × 1.2 / (1.96 × 10⁻⁷) = **0.17 Ω** [1]
 **(b)** Half the length halves R. Half the diameter makes A a quarter, which multiplies R by four. The net factor is 2 [1]. R = 2.7 × 10⁻⁸ × 0.60 / π(0.125 × 10⁻³)² = **0.33 Ω**, double the first wire [1] **[5]**
 *Examiner insight:* Use proportional reasoning as a check, and give the number too.
 
@@ -159,7 +159,7 @@ These questions follow sections 3.4.1 to 3.4.3 of the OxfordAQA International AS
 **(c)** Strong electromagnets (for example scanner or accelerator coils): large currents without heating [1]. Power transmission cables: no energy lost as heat [1] **[5]**
 *Examiner insight:* Pair each application with its reason. A bare application does not link to zero resistivity.
 
-**12. (a)** A = π(0.015 × 10⁻³)² = 7.07 × 10⁻¹⁰ m² [1]. L = RA/ρ [1] = 1.8 × 7.07 × 10⁻¹⁰ / 5.6 × 10⁻⁸ = **0.023 m** [1]
+**12. (a)** A = π(0.015 × 10⁻³)² = 7.07 × 10⁻¹⁰ m² [1]. L = RA/ρ [1] = 1.8 × 7.07 × 10⁻¹⁰ / (5.6 × 10⁻⁸) = **0.023 m** [1]
 **(b)** R = V/I = 12 / 0.50 = **24 Ω** [1]. Ratio = 24 / 1.8 = **13** [1]
 **(c)** The filament gets very hot in use [1]. Its ions vibrate more, so there are more collisions with electrons and the resistance is larger [1]
 **(d)** ρ = 13.3 × 5.6 × 10⁻⁸ = **7.5 × 10⁻⁷ Ω m** [1] **[8]**

@@ -150,7 +150,7 @@ where **ρ (rho) is the resistivity** of the material, in **Ω m**. Resistivity 
 
 **Worked example 4 (using the equation).** A constantan wire has length 1.50 m and diameter 0.28 mm. Take ρ = 4.9 × 10⁻⁷ Ω m (data supplied).
 A = π(d/2)² = π × (0.14 × 10⁻³)² = 6.16 × 10⁻⁸ m².
-R = ρL / A = (4.9 × 10⁻⁷ × 1.50) / 6.16 × 10⁻⁸ = **11.9 Ω**.
+R = ρL / A = (4.9 × 10⁻⁷ × 1.50) / (6.16 × 10⁻⁸) = **11.9 Ω**.
 
 Doubling the diameter multiplies A by 4, so R falls to a quarter. Doubling the length doubles R.
 

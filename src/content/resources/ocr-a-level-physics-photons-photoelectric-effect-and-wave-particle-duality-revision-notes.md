@@ -60,7 +60,7 @@ Handy conversions: 1 eV = 1.60 × 10⁻¹⁹ J. With the values above, hc = 1.99
 - Photon energy depends only on frequency. Brightness changes the number of photons per second.
 - Intensity = power per unit area, which is photons per second per square metre multiplied by the energy of each photon.
 
-**Reminder.** A 2.0 mW beam of 500 nm light: E = 3.98 × 10⁻¹⁹ J per photon, so N = 2.0 × 10⁻³ / 3.98 × 10⁻¹⁹ = 5.0 × 10¹⁵ s⁻¹.
+**Reminder.** A 2.0 mW beam of 500 nm light: E = 3.98 × 10⁻¹⁹ J per photon, so N = 2.0 × 10⁻³ / (3.98 × 10⁻¹⁹) = 5.0 × 10¹⁵ s⁻¹.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--06-aphy-quantum-antimatter.webp" width="900" height="1230" alt="An electron and positron at rest annihilate into two 0.511 MeV photons going opposite ways. A 3.50 MeV photon makes an electron-positron pair, using 1.022 MeV as rest energy and leaving 2.478 MeV as kinetic energy, 1.24 MeV each. A 0.80 MeV photon is below the 1.022 MeV minimum." loading="lazy">
@@ -174,14 +174,14 @@ No semiconductor theory is required. The main uncertainty is judging when the LE
 ### Answers
 
 1. 5.0 × 1.60 × 10⁻¹⁹ = **8.0 × 10⁻¹⁹ J**.
-2. 2.4 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ = **1.5 eV**.
+2. 2.4 × 10⁻¹⁹ / (1.60 × 10⁻¹⁹) = **1.5 eV**.
 3. The **minimum energy needed to remove an electron from the surface of the metal**.
 4. Photon energy = 1243 / 300 = 4.14 eV. KEmax = 4.14 − 3.5 = **0.64 eV**.
-5. f₀ = φ/h = 3.5 × 1.60 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **8.4 × 10¹⁴ Hz**.
-6. h = eVλ/c = 1.60 × 10⁻¹⁹ × 1.8 × 690 × 10⁻⁹ / 3.00 × 10⁸ = **6.62 × 10⁻³⁴ J s**.
+5. f₀ = φ/h = 3.5 × 1.60 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **8.4 × 10¹⁴ Hz**.
+6. h = eVλ/c = 1.60 × 10⁻¹⁹ × 1.8 × 690 × 10⁻⁹ / (3.00 × 10⁸) = **6.62 × 10⁻³⁴ J s**.
 7. Photoelectric current **doubles**, because the number of photons per second doubles. KEmax is **unchanged**.
-8. N = P/E = 2.0 × 10⁻³ / 3.98 × 10⁻¹⁹ = **5.0 × 10¹⁵ s⁻¹**.
-9. p = 9.11 × 10⁻³¹ × 3.0 × 10⁶ = 2.73 × 10⁻²⁴ kg m s⁻¹, so λ = 6.63 × 10⁻³⁴ / 2.73 × 10⁻²⁴ = **2.4 × 10⁻¹⁰ m**.
+8. N = P/E = 2.0 × 10⁻³ / (3.98 × 10⁻¹⁹) = **5.0 × 10¹⁵ s⁻¹**.
+9. p = 9.11 × 10⁻³¹ × 3.0 × 10⁶ = 2.73 × 10⁻²⁴ kg m s⁻¹, so λ = 6.63 × 10⁻³⁴ / (2.73 × 10⁻²⁴) = **2.4 × 10⁻¹⁰ m**.
 10. eV = 1.60 × 10⁻¹⁶ J, so p = √(2m × eV) = 1.71 × 10⁻²³ kg m s⁻¹, so λ = **3.9 × 10⁻¹¹ m**.
 11. A **pattern of concentric rings** on the screen, which is a diffraction pattern.
 

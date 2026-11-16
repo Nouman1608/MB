@@ -106,7 +106,7 @@ needs a **credit** balance of £630.
 
 **Step 2: journal entries.**
 
-```
+```text
                                          Dr £      Cr £
 1  Suspense                              400
      Revenue                                       400
@@ -130,7 +130,7 @@ needs a **credit** balance of £630.
 
 **Step 3: the suspense account clears.**
 
-```
+```text
                      Suspense account
 Revenue        400 | Balance b/d          630
 Rent           270 | Discount allowed     180
@@ -141,7 +141,7 @@ Insurance      140 |
 
 **Step 4: corrected profit.**
 
-```
+```text
 Draft profit for the year                  42 300
 Add: revenue undercast                        400
      rent overstated                          270
@@ -235,7 +235,7 @@ Ashby Tiles provides the following for May 2026.
 | Interest charged by a supplier | 95 |
 | Purchases ledger debit balances 31 May | 150 |
 
-```
+```text
                  Sales ledger control account
 Balance b/d          38 650 | Balance b/d             420
 Credit sales         61 300 | Bank                 55 240
@@ -252,7 +252,7 @@ Balance b/d          40 600 | Balance b/d             380
 
 Cash sales (£9 800) and the provision (£500) are left out.
 
-```
+```text
                Purchases ledger control account
 Balance b/d             260 | Balance b/d          24 980
 Bank                 33 120 | Credit purchases     37 450
@@ -304,7 +304,7 @@ statement showed a favourable balance of £5 790, bank charges £65, a standing 
 supplier had been entered in the cash book as £1 760. Unpresented cheques were £2 340 and £815; an
 outstanding lodgement was £1 925.
 
-```
+```text
             Cash book (bank columns)
 Balance b/d        4 215 | Bank charges             65
 Credit transfer    1 180 | Insurance (S/O)         320
@@ -314,7 +314,7 @@ Supplier (error)      90 | Dishonoured cheque      540
                   5 485                         5 485
 ```
 
-```
+```text
 Kestrel Print
 Bank reconciliation statement at 30 June 2026
                                           £

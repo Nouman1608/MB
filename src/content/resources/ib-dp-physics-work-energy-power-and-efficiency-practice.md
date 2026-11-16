@@ -119,7 +119,7 @@ These questions cover sub-topic A.3, Work, energy and power, in the IB *Physics 
 
 **10. (a)** With no acceleration, the driving force balances the resistive force. Pout = Fv = 700 × 22 [1] = **15.4 kW** [1]
 **(b)** Pin = 15.4 / 0.25 [1] = **61.6 kW** [1]
-**(c)** Fuel energy per hour = 61 600 × 3600 = 2.22 × 10⁸ J [1]. Volume = 2.22 × 10⁸ / 3.3 × 10⁷ = **6.7 litres** [1]
+**(c)** Fuel energy per hour = 61 600 × 3600 = 2.22 × 10⁸ J [1]. Volume = 2.22 × 10⁸ / (3.3 × 10⁷) = **6.7 litres** [1]
 **(d)** Journey time = 100 000 / 22 = 4545 s [1]. Volume = 6.72 × 4545 / 3600 = **8.5 litres** [1] **[8]**
 *Examiner insight:* Work in joules and seconds, or use the rate in litres per hour consistently; mixing kW with hours in one line is where unit errors creep in.
 

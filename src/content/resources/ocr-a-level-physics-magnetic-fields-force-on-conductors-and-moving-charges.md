@@ -180,7 +180,7 @@ Being perpendicular to the velocity at every instant, the force does no work on 
 **Worked example 3.** An electron moves at 2.4 × 10⁶ m s⁻¹ at right angles to a uniform field of 0.045 T. Find the force and the acceleration. (e = 1.60 × 10⁻¹⁹ C, electron mass 9.11 × 10⁻³¹ kg.)
 
 F = BQv = 0.045 × 1.60 × 10⁻¹⁹ × 2.4 × 10⁶ = 1.7 × 10⁻¹⁴ N
-a = F/m = 1.728 × 10⁻¹⁴ / 9.11 × 10⁻³¹ = 1.9 × 10¹⁶ m s⁻²
+a = F/m = 1.728 × 10⁻¹⁴ / (9.11 × 10⁻³¹) = 1.9 × 10¹⁶ m s⁻²
 
 
 ## 6.3.2(b) Circular orbits in a uniform field
@@ -199,7 +199,7 @@ For a particle accelerated from rest through a potential difference V before it 
 
 **Worked example 4.** A proton is accelerated from rest through 1500 V and enters a field of 0.20 T at right angles. Find its radius and period. (e = 1.60 × 10⁻¹⁹ C, proton mass 1.673 × 10⁻²⁷ kg.)
 
-v = √(2eV/m) = √(2 × 1.60 × 10⁻¹⁹ × 1500 / 1.673 × 10⁻²⁷) = 5.4 × 10⁵ m s⁻¹
+v = √(2eV/m) = √(2 × 1.60 × 10⁻¹⁹ × 1500 / (1.673 × 10⁻²⁷)) = 5.4 × 10⁵ m s⁻¹
 r = mv/(eB) = 1.673 × 10⁻²⁷ × 5.36 × 10⁵ / (1.60 × 10⁻¹⁹ × 0.20) = 2.8 × 10⁻² m
 T = 2πm/(eB) = 2π × 1.673 × 10⁻²⁷ / (1.60 × 10⁻¹⁹ × 0.20) = 3.3 × 10⁻⁷ s
 
@@ -223,7 +223,7 @@ The charge Q cancels, as does the mass. Any particle with speed E/B passes undef
 
 **Worked example 5.** Plates 6.0 mm apart have a p.d. of 900 V across them. A uniform magnetic field of 0.050 T is applied at right angles. Find the speed of undeflected particles.
 
-E = V/d = 900 / 6.0 × 10⁻³ = 1.5 × 10⁵ V m⁻¹
+E = V/d = 900 / (6.0 × 10⁻³) = 1.5 × 10⁵ V m⁻¹
 v = E/B = 1.5 × 10⁵ / 0.050 = 3.0 × 10⁶ m s⁻¹
 
 ## Common errors

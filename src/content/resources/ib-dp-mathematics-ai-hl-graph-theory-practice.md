@@ -56,7 +56,7 @@ Learn the methods in the [graph theory study guide](/resources/ib-dp-mathematics
 
 **3.** (HL, calculator allowed) A simple graph G has adjacency matrix
 
-```
+```text
       1 2 3 4 5
 1  [  0 1 1 0 0 ]
 2  [  1 0 1 1 1 ]
@@ -115,7 +115,7 @@ Use Prim's algorithm, starting at A, to find a minimum spanning tree. State the 
 
 **11.** (HL, calculator allowed) A simple graph H has adjacency matrix
 
-```
+```text
       1 2 3 4 5
 1  [  0 1 1 0 0 ]
 2  [  1 0 1 1 0 ]
@@ -147,7 +147,7 @@ Use Prim's algorithm, starting at A, to find a minimum spanning tree. State the 
 
 **4. (a)** Columns: A → B, C (½ each); B → C, D (½ each); C → A, D (½ each); D → A (1) [1]
 
-```
+```text
 T = [  0    0   1/2   1 ]
     [ 1/2   0    0    0 ]
     [ 1/2  1/2   0    0 ]

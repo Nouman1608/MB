@@ -102,7 +102,7 @@ Energy to take a 2.0 kg mass from the surface to infinity: 2.0 × 6.25 × 10⁷ 
 
 Escape speed from a planet with g = 6.0 N kg⁻¹ at the surface and R = 4.0 × 10⁶ m: v = √(2 × 6.0 × 4.0 × 10⁶) = 6.9 × 10³ m s⁻¹.
 
-Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³ m s⁻¹, below the escape speed, and moves with no engine and no air resistance. Energy per kilogram at launch: ½v² + Vg = 3.20 × 10⁷ - 6.25 × 10⁷ = -3.05 × 10⁷ J kg⁻¹. At the highest point the speed is zero, so Vg = -GM/r = -3.05 × 10⁷, giving r = 3.982 × 10¹⁴ / 3.05 × 10⁷ = 1.31 × 10⁷ m from the centre, which is 6.68 × 10⁶ m above the surface. Notice that a negative total energy means the probe is bound and must return.
+Maximum distance reached: a probe leaves the surface of the Earth at 8.0 × 10³ m s⁻¹, below the escape speed, and moves with no engine and no air resistance. Energy per kilogram at launch: ½v² + Vg = 3.20 × 10⁷ - 6.25 × 10⁷ = -3.05 × 10⁷ J kg⁻¹. At the highest point the speed is zero, so Vg = -GM/r = -3.05 × 10⁷, giving r = 3.982 × 10¹⁴ / (3.05 × 10⁷) = 1.31 × 10⁷ m from the centre, which is 6.68 × 10⁶ m above the surface. Notice that a negative total energy means the probe is bound and must return.
 
 ## Escape velocity and atmospheres
 

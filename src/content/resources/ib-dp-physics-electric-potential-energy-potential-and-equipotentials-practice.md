@@ -139,7 +139,7 @@ These questions cover the additional higher level part of sub-topic D.2, Electri
 **(d)** The forces on the protons are equal and opposite [1] and the masses are equal, so the accelerations and speeds are equal [1]. **[2]**
 *Examiner insight:* The energy is shared between two particles. Giving all of Ep to one proton overestimates the speed by a factor of √2.
 
-**12.** Energy in eV = 3.2 × 10⁻¹⁵ / 1.60 × 10⁻¹⁹ = **2.0 × 10⁴ eV** [1]. The electron has charge e, so the potential difference is **2.0 × 10⁴ V** [1]. **[2]**
+**12.** Energy in eV = 3.2 × 10⁻¹⁵ / (1.60 × 10⁻¹⁹) = **2.0 × 10⁴ eV** [1]. The electron has charge e, so the potential difference is **2.0 × 10⁴ V** [1]. **[2]**
 *Examiner insight:* Show the division by e so the conversion to eV is visible.
 
 ## Where marks are usually lost

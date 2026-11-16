@@ -118,7 +118,7 @@ These questions cover sections 3.10.1 (Magnetic flux density) and 3.10.2 (Moving
 **(c)** r = mv / (BQ) = 1.67 × 10⁻²⁷ × 3.1 × 10⁵ / (0.46 × 1.60 × 10⁻¹⁹) [1] = **7.0 × 10⁻³ m** [1]. At twice the speed the radius doubles to **1.4 × 10⁻² m** and the time is unchanged at **1.4 × 10⁻⁷ s** [1]. **[8]**
 *Examiner insight:* In a "show that" question, every line of the derivation should appear. Going straight to T = 2πm / (BQ) without the centripetal step leaves the argument incomplete.
 
-**7.** **(a)** m = 35 × 1.66 × 10⁻²⁷ = 5.81 × 10⁻²⁶ kg [1]. v = √(2eV / m) = √(2 × 1.60 × 10⁻¹⁹ × 1500 / 5.81 × 10⁻²⁶) = **9.1 × 10⁴ m s⁻¹** [1].
+**7.** **(a)** m = 35 × 1.66 × 10⁻²⁷ = 5.81 × 10⁻²⁶ kg [1]. v = √(2eV / m) = √(2 × 1.60 × 10⁻¹⁹ × 1500 / (5.81 × 10⁻²⁶)) = **9.1 × 10⁴ m s⁻¹** [1].
 **(b)** For 37 u: m = 6.142 × 10⁻²⁶ kg and v = 8.84 × 10⁴ m s⁻¹ [1]. r = mv / (eB) gives, for 35 u, 5.81 × 10⁻²⁶ × 9.089 × 10⁴ / (1.60 × 10⁻¹⁹ × 0.20) = **0.165 m** [1], and for 37 u, **0.170 m** [1].
 **(c)** The landing points are one diameter from the entry point, so the separation is 2(r₃₇ − r₃₅) [1] = 2 × (0.16968 − 0.16503) = **9.3 × 10⁻³ m** [1]. **[7]**
 *Examiner insight:* Keep extra digits until the final subtraction, and remember the separation is twice the radius difference.

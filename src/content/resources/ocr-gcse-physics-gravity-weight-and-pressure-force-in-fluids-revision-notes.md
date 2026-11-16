@@ -237,7 +237,7 @@ All the questions are for both tiers. Questions 5 to 12 cover separate Physics o
 9. p = 250 / 0.050 = **5000 Pa**.
 10. A = F / p = 600 / (2.4 × 10⁵) = **0.0025 m²**.
 11. 400 / 10 000 = **0.04 m²**.
-12. Ratio = 2.0 × 10⁻² / 5.0 × 10⁻⁴ = 40, so F = 40 × 40 = **1600 N**.
+12. Ratio = 2.0 × 10⁻² / (5.0 × 10⁻⁴) = 40, so F = 40 × 40 = **1600 N**.
 
 ## Where marks are usually lost
 

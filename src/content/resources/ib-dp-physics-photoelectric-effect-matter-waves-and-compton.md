@@ -82,9 +82,9 @@ If a retarding potential difference Vs just stops the fastest electrons, Emax = 
 
 A metal has Φ = 2.90 eV. Take h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹⁹ C and electron mass 9.11 × 10⁻³¹ kg.
 
-(a) Threshold frequency: Φ = 2.90 × 1.60 × 10⁻¹⁹ = 4.64 × 10⁻¹⁹ J, so f₀ = Φ/h = 4.64 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **7.00 × 10¹⁴ Hz**. The matching wavelength is c/f₀ = **429 nm**.
+(a) Threshold frequency: Φ = 2.90 × 1.60 × 10⁻¹⁹ = 4.64 × 10⁻¹⁹ J, so f₀ = Φ/h = 4.64 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **7.00 × 10¹⁴ Hz**. The matching wavelength is c/f₀ = **429 nm**.
 
-(b) Light of wavelength 310 nm: photon energy = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 310 × 10⁻⁹ = 6.42 × 10⁻¹⁹ J = 4.01 eV. Then Emax = 4.01 - 2.90 = **1.11 eV** (1.78 × 10⁻¹⁹ J). The stopping potential is **1.11 V**. The maximum speed comes from ½mv² = 1.78 × 10⁻¹⁹ J: v = √(2 × 1.78 × 10⁻¹⁹ / 9.11 × 10⁻³¹) = **6.24 × 10⁵ m s⁻¹**.
+(b) Light of wavelength 310 nm: photon energy = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (310 × 10⁻⁹) = 6.42 × 10⁻¹⁹ J = 4.01 eV. Then Emax = 4.01 - 2.90 = **1.11 eV** (1.78 × 10⁻¹⁹ J). The stopping potential is **1.11 V**. The maximum speed comes from ½mv² = 1.78 × 10⁻¹⁹ J: v = √(2 × 1.78 × 10⁻¹⁹ / (9.11 × 10⁻³¹)) = **6.24 × 10⁵ m s⁻¹**.
 
 (c) Light of wavelength 450 nm has photon energy 2.76 eV, which is less than 2.90 eV. **No electrons are emitted**, however bright the beam.
 
@@ -93,7 +93,7 @@ A metal has Φ = 2.90 eV. Take h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s
 A metal has Φ = 2.10 eV. A 0.40 mW beam of wavelength 350 nm falls on it. On average 1 photon in 1000 releases an electron.
 
 * Photon energy = hc/λ = 5.68 × 10⁻¹⁹ J = 3.55 eV.
-* Photons per second = 0.40 × 10⁻³ / 5.68 × 10⁻¹⁹ = **7.04 × 10¹⁴ s⁻¹**.
+* Photons per second = 0.40 × 10⁻³ / (5.68 × 10⁻¹⁹) = **7.04 × 10¹⁴ s⁻¹**.
 * Electrons per second = 7.04 × 10¹¹, so current = 7.04 × 10¹¹ × 1.60 × 10⁻¹⁹ = **1.13 × 10⁻⁷ A**.
 * Emax = 3.55 - 2.10 = **1.45 eV**.
 
@@ -105,7 +105,7 @@ A student measures the stopping potential Vs for a metal at six frequencies. Two
 
 Gradient = (2.16 - 0.09) / (5.0 × 10¹⁴) = 4.14 × 10⁻¹⁵ V Hz⁻¹. Since gradient = h/e, h = 4.14 × 10⁻¹⁵ × 1.60 × 10⁻¹⁹ = **6.62 × 10⁻³⁴ J s**.
 
-The line meets the frequency axis where Vs = 0. Going back from the first point: f₀ = 6.00 × 10¹⁴ - 0.09 / 4.14 × 10⁻¹⁵ = **5.78 × 10¹⁴ Hz**. Then Φ = hf₀ = 6.62 × 10⁻³⁴ × 5.78 × 10¹⁴ = 3.83 × 10⁻¹⁹ J = **2.39 eV**.
+The line meets the frequency axis where Vs = 0. Going back from the first point: f₀ = 6.00 × 10¹⁴ - 0.09 / (4.14 × 10⁻¹⁵) = **5.78 × 10¹⁴ Hz**. Then Φ = hf₀ = 6.62 × 10⁻³⁴ × 5.78 × 10¹⁴ = 3.83 × 10⁻¹⁹ J = **2.39 eV**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--01-photon-vs-work-function.webp" width="900" height="1100" alt="Two panels for a metal with work function 2.90 eV. A 450 nm photon carries 2.76 eV, less than the work function, so the electron stays. A 310 nm photon carries 4.01 eV: 2.90 eV frees the electron and the remaining 1.11 eV is its maximum kinetic energy." loading="lazy">
@@ -158,7 +158,7 @@ For a single gap of width b, the first minimum on either side of the central max
 
 ### Worked example 5: where is the minimum?
 
-The electrons of example 4 (λ = 1.33 × 10⁻¹⁰ m) pass through a gap of width 1.00 nm. sin θ = 1.33 × 10⁻¹⁰ / 1.00 × 10⁻⁹ = 0.133, so θ = **7.64°**. If the accelerating voltage were raised, λ would fall and the minimum would move closer to the centre.
+The electrons of example 4 (λ = 1.33 × 10⁻¹⁰ m) pass through a gap of width 1.00 nm. sin θ = 1.33 × 10⁻¹⁰ / (1.00 × 10⁻⁹) = 0.133, so θ = **7.64°**. If the accelerating voltage were raised, λ would fall and the minimum would move closer to the centre.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-photoelectric-effect-matter-waves-and-compton--04-de-broglie-scale.webp" width="900" height="1020" alt="A log scale of wavelength. An electron accelerated through 85.0 V has λ = 1.33 x 10^-10 m, comparable to a 1.00 nm gap, so diffraction shows. A 0.058 kg ball at 40 m/s has λ = 2.86 x 10^-34 m, about 5 x 10^23 times smaller, so its wave behaviour never shows." loading="lazy">
@@ -186,7 +186,7 @@ A photon of wavelength 0.0500 nm scatters through 90° from an electron.
 * λf = 5.00 × 10⁻¹¹ + 0.243 × 10⁻¹¹ = **5.24 × 10⁻¹¹ m**, an increase of 4.86%.
 * Taking the electron as free and initially at rest, the energy it gains is hc/λi - hc/λf. These are 24.9 keV and 23.7 keV, so the electron gains about **1.15 keV**.
 
-To find an angle from a measured shift of 1.00 × 10⁻¹² m: cos θ = 1 - 1.00 × 10⁻¹² / 2.43 × 10⁻¹² = 0.588, so θ = **54.0°**.
+To find an angle from a measured shift of 1.00 × 10⁻¹² m: cos θ = 1 - 1.00 × 10⁻¹² / (2.43 × 10⁻¹²) = 0.588, so θ = **54.0°**.
 
 ### Why Compton is stronger evidence
 

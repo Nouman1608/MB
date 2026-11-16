@@ -93,7 +93,7 @@ Reminder: charges of 2.0 µC and 3.0 µC at 0.10 m give F = 8.99 × 10⁹ × 2.0
 - Balanced: qE = mg, so q = mg/E and E = V/d.
 - Every result is a whole number of elementary charges. This is the evidence that charge is quantized.
 - To find e from data: divide all values by a trial unit and look for whole numbers.
-- Reminder: a drop of mass 3.3 × 10⁻¹⁵ kg is held between plates 1.0 cm apart with 2.0 kV across them. E = 2000 / 0.010 = 2.0 × 10⁵ V m⁻¹, so q = mg/E = (3.3 × 10⁻¹⁵ × 9.81) / 2.0 × 10⁵ = 1.6 × 10⁻¹⁹ C, which is one elementary charge.
+- Reminder: a drop of mass 3.3 × 10⁻¹⁵ kg is held between plates 1.0 cm apart with 2.0 kV across them. E = 2000 / 0.010 = 2.0 × 10⁵ V m⁻¹, so q = mg/E = (3.3 × 10⁻¹⁵ × 9.81) / (2.0 × 10⁵) = 1.6 × 10⁻¹⁹ C, which is one elementary charge.
 - Reminder: a drop with 9.6 × 10⁻¹⁹ C carries 9.6 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ = 6 elementary charges.
 
 <figure class="topic-figure">
@@ -208,7 +208,7 @@ Dot (⊙) means out of the page and cross (⊗) means into the page. Current int
 4. q = −5.0 × 10¹² × 1.60 × 10⁻¹⁹ = −8.0 × 10⁻⁷ C.
 5. Total = −4.0 µC, so −2.0 µC each.
 6. Every measured charge was a whole-number multiple of one smallest value, so charge is quantized.
-7. E = 4.5 × 10⁻³ / 3.0 × 10⁻⁶ = 1.5 × 10³ N C⁻¹.
+7. E = 4.5 × 10⁻³ / (3.0 × 10⁻⁶) = 1.5 × 10³ N C⁻¹.
 8. E = 600 / 0.015 = 4.0 × 10⁴ V m⁻¹.
 9. E = 8.99 × 10⁹ × 2.0 × 10⁻⁶ / 0.50² = 7.2 × 10⁴ N C⁻¹, directed away from the charge.
 10. Closer lines mean a stronger field.

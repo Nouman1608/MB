@@ -201,7 +201,7 @@ For a wave passing a body, the wave bends round the sides and fills in part of t
 **Worked example 5.** Sound of frequency 500 Hz travels at 340 m s⁻¹ in air. A radio wave of frequency 100 MHz and light of wavelength 5 × 10⁻⁷ m both pass a doorway 0.90 m wide. Compare the diffraction.
 
 - Sound: λ = 340 / 500 = 0.68 m, comparable to the doorway, so the sound spreads into the room and can be heard around the corner.
-- Radio: λ = 3.00 × 10⁸ / 1.00 × 10⁸ = 3.0 m, larger than the doorway, so it spreads strongly.
+- Radio: λ = 3.00 × 10⁸ / (1.00 × 10⁸) = 3.0 m, larger than the doorway, so it spreads strongly.
 - Light: λ is about a million times smaller than the gap, so there is no noticeable spreading and a sharp shadow edge.
 
 <figure class="topic-figure">

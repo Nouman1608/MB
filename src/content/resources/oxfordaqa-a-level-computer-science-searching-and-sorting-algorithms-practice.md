@@ -183,7 +183,7 @@ Outer `while` loop controlled by a flag [1]; flag set to `False` at the start of
 *Examiner insight:* "It is already sorted" is not enough for part (c); link the early finish to the pass with no swaps.
 
 **9.**
-```
+```text
 Split:  [71, 23, 58, 14]          [96, 35, 42, 8]
         [71, 23]  [58, 14]        [96, 35]  [42, 8]
         71 | 23 | 58 | 14         96 | 35 | 42 | 8     (single items)

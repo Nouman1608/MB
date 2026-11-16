@@ -155,7 +155,7 @@ The frequency is 12 Hz in both regions. The ratio of speeds is 0.108/0.144 = 0.7
 Microwaves of frequency 10.0 GHz travel at 3.00 × 10⁸ m s⁻¹.
 
 ```
-λ = 3.00 × 10⁸ / 10.0 × 10⁹ = 0.0300 m = 3.0 cm
+λ = 3.00 × 10⁸ / (10.0 × 10⁹) = 0.0300 m = 3.0 cm
 ```
 
 Through a gap 3.0 cm wide the waves spread widely, because the gap is comparable to λ. Through a gap 30 cm wide the spreading is slight.

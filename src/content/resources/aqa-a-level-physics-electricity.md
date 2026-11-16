@@ -57,7 +57,7 @@ A charge of 36 C flows through a resistor in 2.0 minutes. The pd across it is 12
 
 ```
 I = ΔQ/Δt = 36 / 120 = 0.30 A
-electrons per second = 0.30 / 1.60 × 10⁻¹⁹ = 1.9 × 10¹⁸
+electrons per second = 0.30 / (1.60 × 10⁻¹⁹) = 1.9 × 10¹⁸
 W = QV = 36 × 12 = 432 J
 R = V/I = 12 / 0.30 = 40 Ω
 ```

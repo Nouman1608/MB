@@ -108,7 +108,7 @@ Learn the content from the [study guide](/resources/ocr-a-level-physics-gravitat
 **(b)** The force per unit mass [1] on a small test mass at that point, g = F/m [1]. **[2]**
 *Examiner insight:* Define it with both "force" and "per unit mass".
 
-**2. (a)** For 1.2 × 10⁸ m: T = 5.84 × 10⁴ s, T²/r³ = 3.41 × 10⁹ / 1.728 × 10²⁴ = 1.97 × 10⁻¹⁵ s² m⁻³ [1]. For 3.5 × 10⁸ m: T = 2.91 × 10⁵ s, T²/r³ = 8.48 × 10¹⁰ / 4.2875 × 10²⁵ = 1.98 × 10⁻¹⁵ s² m⁻³ [1]. The ratios agree to within rounding, so T² ∝ r³ [1]. **[3]**
+**2. (a)** For 1.2 × 10⁸ m: T = 5.84 × 10⁴ s, T²/r³ = 3.41 × 10⁹ / (1.728 × 10²⁴) = 1.97 × 10⁻¹⁵ s² m⁻³ [1]. For 3.5 × 10⁸ m: T = 2.91 × 10⁵ s, T²/r³ = 8.48 × 10¹⁰ / (4.2875 × 10²⁵) = 1.98 × 10⁻¹⁵ s² m⁻³ [1]. The ratios agree to within rounding, so T² ∝ r³ [1]. **[3]**
 **(b)** T²/r³ = 4π²/GM, so M = 4π² / (G × 1.98 × 10⁻¹⁵) [1] = **3.0 × 10²⁶ kg** [1]. **[2]**
 *Examiner insight:* Convert days to seconds before squaring. One ratio alone proves nothing, so show both.
 
@@ -134,7 +134,7 @@ Learn the content from the [study guide](/resources/ocr-a-level-physics-gravitat
 *Examiner insight:* Write the starting statement in words and show m cancelling. A derivation that jumps to the answer leaves nothing to credit.
 
 **8. (a)** Planets move in ellipses with the Sun at one focus [1]. The line joining a planet to the Sun sweeps equal areas in equal times [1]. T² is proportional to r³ [1]. **[3]**
-**(b)** Equal areas in equal times at the closest and furthest points gives v₁r₁ = v₂r₂ [1]. v₂ = 2.1 × 10⁴ × 2.2 × 10¹¹ / 4.4 × 10¹¹ = **1.05 × 10⁴ m s⁻¹** [1]. **[2]**
+**(b)** Equal areas in equal times at the closest and furthest points gives v₁r₁ = v₂r₂ [1]. v₂ = 2.1 × 10⁴ × 2.2 × 10¹¹ / (4.4 × 10¹¹) = **1.05 × 10⁴ m s⁻¹** [1]. **[2]**
 **(c)** Area per second = ½rv = ½ × 2.2 × 10¹¹ × 2.1 × 10⁴ = **2.3 × 10¹⁵ m² s⁻¹** [1]. **[1]**
 *Examiner insight:* Say the relation holds at these two points because velocity is perpendicular to the radius there.
 

@@ -115,13 +115,13 @@ These questions cover section 4.4.3 (Superposition) of the OCR Advanced GCE in P
 **5. (a)** Use one transmitter so the two gaps are coherent [1]. Move the probe slowly along a line parallel to the plate and note where the meter reading is greatest [1]. Measure the distance across several maxima with a ruler and divide by the number of spacings, repeating to check [1]. **(b)** x = 1.00 / 5 = 0.200 m [1]. λ = ax/D = (0.150 × 0.200) / 1.20 = **0.0250 m** [1]. **(c)** f = c/λ = 3.00 × 10⁸ / 0.0250 = **1.2 × 10¹⁰ Hz** [1]. **[6]**
 *Examiner insight:* Count the gaps between maxima, not the maxima.
 
-**6. (a)** x = λD/a [1] = (470 × 10⁻⁹ × 1.85) / (0.45 × 10⁻³) = **1.9 × 10⁻³ m** (1.93 mm) [1]. **(b)** x is proportional to λ, so the fringes are further apart [1]: x = (650 × 10⁻⁹ × 1.85) / 0.45 × 10⁻³ = **2.7 × 10⁻³ m** (2.67 mm) [1]. **(c)** The central fringe is white [1]; the other fringes are coloured spectra, with blue nearer the centre than red [1]. **[6]**
+**6. (a)** x = λD/a [1] = (470 × 10⁻⁹ × 1.85) / (0.45 × 10⁻³) = **1.9 × 10⁻³ m** (1.93 mm) [1]. **(b)** x is proportional to λ, so the fringes are further apart [1]: x = (650 × 10⁻⁹ × 1.85) / (0.45 × 10⁻³) = **2.7 × 10⁻³ m** (2.67 mm) [1]. **(c)** The central fringe is white [1]; the other fringes are coloured spectra, with blue nearer the centre than red [1]. **[6]**
 *Examiner insight:* Convert mm and nm to metres before substituting. Check the answer's size against typical fringe widths of about a millimetre.
 
 **7. (a)** Plot x against D, which gives a straight line through the origin [1]. The gradient is λ/a [1]. **(b)** Gradient = (3.09 − 1.03) × 10⁻³ / (3.00 − 1.00) = 1.03 × 10⁻³ [1]. λ = gradient × a = 1.03 × 10⁻³ × 0.60 × 10⁻³ [1] = **6.2 × 10⁻⁷ m** (618 nm) [1]. **[5]**
 *Examiner insight:* Read the gradient using two well-separated points on the best-fit line, not neighbouring data points.
 
-**8. (a)** d = 1 / (240 × 10³) = **4.17 × 10⁻⁶ m** [1]. **(b)** sin θ = nλ/d = (3 × 560 × 10⁻⁹) / 4.167 × 10⁻⁶ = 0.403 [1], θ = **23.8°** [1]. **(c)** d/λ = 4.167 × 10⁻⁶ / 560 × 10⁻⁹ = 7.44 [1]; the highest order is **7** [1]. **[5]**
+**8. (a)** d = 1 / (240 × 10³) = **4.17 × 10⁻⁶ m** [1]. **(b)** sin θ = nλ/d = (3 × 560 × 10⁻⁹) / (4.167 × 10⁻⁶) = 0.403 [1], θ = **23.8°** [1]. **(c)** d/λ = 4.167 × 10⁻⁶ / (560 × 10⁻⁹) = 7.44 [1]; the highest order is **7** [1]. **[5]**
 *Examiner insight:* Rounding 7.44 up to 8 gives an order needing sin θ above 1.
 
 **9. (a)** tan θ = 0.664 / 0.800 = 0.830 [1], so θ = **39.7°** [1]. **(b)** d = 1 / (1.2 × 10⁶) = 8.33 × 10⁻⁷ m, [1], then λ = d sin θ / n = 8.33 × 10⁻⁷ × sin 39.7° = **5.3 × 10⁻⁷ m** [1]. **(c)** At 39.7°, sin θ = 0.639 but tan θ = 0.830, so sin θ is not close to tan θ [1]. **(d)** Measure the separation of the two first-order spots and halve it, which avoids locating the central spot [1]. **[6]**
@@ -130,7 +130,7 @@ These questions cover section 4.4.3 (Superposition) of the OCR Advanced GCE in P
 **10.** For a point P at angle θ to the central line, the path difference between waves from the slits is a sin θ [1]. A bright fringe needs path difference nλ, so a sin θ = nλ [1]. For small θ, sin θ ≈ tan θ = y/D, where y is the distance from the centre [1]. So y = nλD/a [1]. Neighbouring fringes (n and n + 1) differ by x = λD/a [1]. Rearranging gives **λ = ax/D**, valid when a ≪ D (so angles are small) [1]. **[6]**
 *Examiner insight:* State the approximation at the step where it is used, and give the validity condition.
 
-**11. (a)** d = 1 / (360 × 10³) = **2.78 × 10⁻⁶ m** [1]. **(b)** Second-order red: sin θ = 2 × 690 × 10⁻⁹ / 2.78 × 10⁻⁶ = 0.497 [1], θ = 29.8° [1]. Third-order violet: sin θ = 3 × 410 × 10⁻⁹ / 2.78 × 10⁻⁶ = 0.443 [1], θ = 26.3°, which is smaller than 29.8°, so part of the third order lies within the second [1]. **(c)** Interference with dark fringes needs light from two sources to cancel [1], which is what waves can do by superposition [1]. Young's fringes therefore supported Huygens's wave model and not a purely particle model such as Newton's [1]. **[8]**
+**11. (a)** d = 1 / (360 × 10³) = **2.78 × 10⁻⁶ m** [1]. **(b)** Second-order red: sin θ = 2 × 690 × 10⁻⁹ / (2.78 × 10⁻⁶) = 0.497 [1], θ = 29.8° [1]. Third-order violet: sin θ = 3 × 410 × 10⁻⁹ / (2.78 × 10⁻⁶) = 0.443 [1], θ = 26.3°, which is smaller than 29.8°, so part of the third order lies within the second [1]. **(c)** Interference with dark fringes needs light from two sources to cancel [1], which is what waves can do by superposition [1]. Young's fringes therefore supported Huygens's wave model and not a purely particle model such as Newton's [1]. **[8]**
 *Examiner insight:* "Overlap" needs a comparison of two angles, not just a statement.
 
 ## Where marks are usually lost

@@ -181,7 +181,7 @@ Good practice: one common source for coherence, measure across several spacings 
 6. x = λD/a = (600 × 10⁻⁹ × 1.60) / (0.20 × 10⁻³) = **4.8 mm**.
 7. x ∝ D/a, so it becomes **4 times** larger.
 8. d = 1 / (2.00 × 10⁵) = **5.0 μm** (5.0 × 10⁻⁶ m).
-9. d/λ = 7.8, so highest order **7**. sin θ = 2 × 640 × 10⁻⁹ / 5.0 × 10⁻⁶ = 0.256, so θ = **14.8°**.
+9. d/λ = 7.8, so highest order **7**. sin θ = 2 × 640 × 10⁻⁹ / (5.0 × 10⁻⁶) = 0.256, so θ = **14.8°**.
 10. The percentage uncertainty in x is smaller for a long distance than for one small spacing.
 
 <figure class="topic-figure">

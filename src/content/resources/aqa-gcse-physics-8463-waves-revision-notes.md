@@ -297,7 +297,7 @@ Worked reminder: a white shirt seen through a blue filter looks **blue**; a red 
 
 1. The distance from a point on one wave to the equivalent point on the adjacent wave.
 2. f = 1/T = 1/0.040 = **25 Hz**.
-3. λ = 3.0 × 10⁸ / 2.0 × 10⁸ = **1.5 m**.
+3. λ = 3.0 × 10⁸ / (2.0 × 10⁸) = **1.5 m**.
 4. **Radio waves**.
 5. **20 Hz to 20 kHz**.
 6. 1500 × 0.60 = 900 m there and back, so depth = **450 m**.

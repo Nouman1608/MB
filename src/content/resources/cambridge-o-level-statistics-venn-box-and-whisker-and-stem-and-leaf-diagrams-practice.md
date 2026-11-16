@@ -151,7 +151,7 @@ Key: 2 | 9 means 29 cm
 
 **6. (a)** Stems 2 to 7 in the middle [1], both sets of leaves in order outwards from the stem [1], key for each side [1]:
 
-```
+```text
 Year 7        | Year 9
               | 2 | 5 9
         8 2   | 3 | 3 6 9

@@ -132,7 +132,7 @@ Use v = 343 m s⁻¹ for the speed of sound in air.
 (c) Intensity ∝ 1/r², so quarter intensity needs twice the distance: **6.0 m** [1]. **[5]**
 *Examiner insight:* Carry the unrounded intensity into part (b) and give units on every answer.
 
-**11.** (a) Area = π(1.0 × 10⁻³)² = 3.14 × 10⁻⁶ m² [1]. I = P/A = 4.0 × 10⁻³ / 3.14 × 10⁻⁶ = **1.3 × 10³ W m⁻²** [1].
+**11.** (a) Area = π(1.0 × 10⁻³)² = 3.14 × 10⁻⁶ m² [1]. I = P/A = 4.0 × 10⁻³ / (3.14 × 10⁻⁶) = **1.3 × 10³ W m⁻²** [1].
 (b) Diameter doubled so area is four times larger, giving I = **3.2 × 10² W m⁻²** (318) [1]. Intensity ∝ amplitude², so the amplitude falls to **half** [1] since the square root of 1/4 is 1/2 [1]. **[5]**
 *Examiner insight:* The radius, not the diameter, goes into πr². Statements about amplitude need the square relationship, not a direct proportion.
 

@@ -161,8 +161,8 @@ Three coplanar forces in equilibrium:
 1. 250 × 0.30 = **75 N m**.
 2. F = torque / d = 3.6 / 0.15 = **24 N**.
 3. 400 × 1.5 = 600 × x, so x = **1.0 m**.
-4. ρ = 0.52 / 6.0 × 10⁻⁴ = **870 kg m⁻³** (867 to 3 s.f.).
-5. p = 90 / 3.0 × 10⁻³ = **3.0 × 10⁴ Pa**.
+4. ρ = 0.52 / (6.0 × 10⁻⁴) = **870 kg m⁻³** (867 to 3 s.f.).
+5. p = 90 / (3.0 × 10⁻³) = **3.0 × 10⁴ Pa**.
 6. p = 12 × 1000 × 9.81 = **1.2 × 10⁵ Pa** (117 720 Pa).
 7. U = 1000 × 9.81 × 5.0 × 10⁻⁴ = **4.9 N**.
 8. The forces sum to zero and the moments about any point sum to zero.

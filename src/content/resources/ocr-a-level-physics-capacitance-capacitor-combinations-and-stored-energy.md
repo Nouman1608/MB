@@ -113,8 +113,8 @@ The total is smaller than the smallest capacitor. With the same Q on each, V = Q
 ```
 1/C = 1/10 + 1/15 = 3/30 + 2/30 = 5/30   so C = 6.0 µF
 Q = CV = 6.0 × 10⁻⁶ × 15 = 9.0 × 10⁻⁵ C
-V across 10 µF = Q/C = 9.0 × 10⁻⁵ / 10 × 10⁻⁶ = 9.0 V
-V across 15 µF = 9.0 × 10⁻⁵ / 15 × 10⁻⁶ = 6.0 V
+V across 10 µF = Q/C = 9.0 × 10⁻⁵ / (10 × 10⁻⁶) = 9.0 V
+V across 15 µF = 9.0 × 10⁻⁵ / (15 × 10⁻⁶) = 6.0 V
 ```
 
 Check: 9.0 + 6.0 = 15 V.
@@ -255,7 +255,7 @@ For the same mass, a capacitor stores much less energy than a battery. That is w
 
 ```
 W = ½CV² = 0.5 × 80 × 10⁻⁶ × (3.0 × 10³)² = 360 J
-Mean power = W / t = 360 / 4.0 × 10⁻³ = 9.0 × 10⁴ W
+Mean power = W / t = 360 / (4.0 × 10⁻³) = 9.0 × 10⁴ W
 ```
 
 The mean power is about 90 kW.

@@ -94,7 +94,7 @@ Related: [study guide](/resources/ib-dp-physics-atomic-structure-rutherford-scat
 *Examiner insight:* name the mechanism, photon energy matching a level gap. "The gas absorbs some colours" does not explain the sharp lines.
 
 **4. (a)** Three photon energies: −2.0 to −4.0, −4.0 to −9.0 and −2.0 to −9.0 eV [1]. **[1]**
-**(b)** The shortest wavelength comes from the largest gap, −2.0 to −9.0 eV = 7.0 eV [1]. 7.0 × 1.60 × 10⁻¹⁹ = 1.12 × 10⁻¹⁸ J [1]. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 1.12 × 10⁻¹⁸ = **1.78 × 10⁻⁷ m** [1]. **[3]**
+**(b)** The shortest wavelength comes from the largest gap, −2.0 to −9.0 eV = 7.0 eV [1]. 7.0 × 1.60 × 10⁻¹⁹ = 1.12 × 10⁻¹⁸ J [1]. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (1.12 × 10⁻¹⁸) = **1.78 × 10⁻⁷ m** [1]. **[3]**
 **(c)** The possible gaps from the ground state are 5.0 eV, 7.0 eV and 9.0 eV [1]. 6.0 eV matches none of them, so the photons are not absorbed [1]. **[2]**
 *Examiner insight:* convert eV to joules before using h; mixing eV and J gives a wrong answer that is hard to credit.
 
@@ -114,20 +114,20 @@ Related: [study guide](/resources/ib-dp-physics-atomic-structure-rutherford-scat
 **(b)** Set the closest approach equal to R = 1.2 × 27^(1/3) = 3.6 fm [1]. E_k = 2kZe²/R = 2 × 13 × 1.44 MeV fm / 3.6 fm [1] = **10.4 MeV** [1]. **[3]**
 *Examiner insight:* name the force responsible for the deviation; "the model breaks down" is too vague for credit.
 
-**9.** E₅ = −13.6/25 = −0.544 eV and E₃ = −13.6/9 = −1.51 eV [1]. ΔE = 0.967 eV = 1.55 × 10⁻¹⁹ J [1]. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 1.55 × 10⁻¹⁹ = **1.29 × 10⁻⁶ m** [1]. This is longer than visible wavelengths, so it is **infrared** [1]. **[4]**
+**9.** E₅ = −13.6/25 = −0.544 eV and E₃ = −13.6/9 = −1.51 eV [1]. ΔE = 0.967 eV = 1.55 × 10⁻¹⁹ J [1]. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (1.55 × 10⁻¹⁹) = **1.29 × 10⁻⁶ m** [1]. This is longer than visible wavelengths, so it is **infrared** [1]. **[4]**
 *Examiner insight:* subtract upper minus lower so the photon energy is positive.
 
 **10.** mvr = 9.11 × 10⁻³¹ × 1.09 × 10⁶ × 2.12 × 10⁻¹⁰ = 2.105 × 10⁻³⁴ J s [1]. n = mvr × 2π / h = 2.105 × 10⁻³⁴ × 2π / 6.63 × 10⁻³⁴ = 1.995 [1], so **n = 2** [1]. E = −13.6/4 = **−3.40 eV** [1]. **[4]**
 *Examiner insight:* give the unrounded value before stating the integer n.
 
 **11. (a)** Gaps from n = 1: to n = 2, 10.20 eV; to n = 3, 12.09 eV; to n = 4, 12.75 eV [1]. 10.20, 12.09 and 12.75 eV photons are absorbed [1]. 11.00 eV is not absorbed because it matches no gap [1]. **[3]**
-**(b)** The possible transitions are 3 to 1, 3 to 2 and 2 to 1 [1]. Photon energies 12.09 eV, 1.89 eV and 10.20 eV **[1][1]**. The longest wavelength comes from the smallest energy, 1.89 eV = 3.02 × 10⁻¹⁹ J [1]. λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 3.02 × 10⁻¹⁹ = **6.58 × 10⁻⁷ m** [1]. **[5]**
+**(b)** The possible transitions are 3 to 1, 3 to 2 and 2 to 1 [1]. Photon energies 12.09 eV, 1.89 eV and 10.20 eV **[1][1]**. The longest wavelength comes from the smallest energy, 1.89 eV = 3.02 × 10⁻¹⁹ J [1]. λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (3.02 × 10⁻¹⁹) = **6.58 × 10⁻⁷ m** [1]. **[5]**
 *Examiner insight:* show the gaps you checked against each photon energy.
 
 **12. (a)** R = 1.2 × 208^(1/3) [1] = **7.11 fm** [1]. **[2]**
 **(b)** E_k = 6.8 × 10⁶ × 1.60 × 10⁻¹⁹ = 1.09 × 10⁻¹² J [1]. d = 2kZe²/E_k = 2 × 8.99 × 10⁹ × 82 × (1.60 × 10⁻¹⁹)² / 1.09 × 10⁻¹² [1] = **3.47 × 10⁻¹⁴ m** [1]. **[3]**
 **(c)** d (34.7 fm) is about five times R, so the alpha particle stops well outside the nucleus [1]. **[1]**
-**(d)** Radius ratio = 1.0 × 10⁻¹⁰ / 7.11 × 10⁻¹⁵ = 1.41 × 10⁴, so volume ratio = (1.41 × 10⁴)³ = **2.8 × 10¹²** [1]. Almost all the mass is in the nucleus, so its density is far greater than the atom's average density [1]. **[2]**
+**(d)** Radius ratio = 1.0 × 10⁻¹⁰ / (7.11 × 10⁻¹⁵) = 1.41 × 10⁴, so volume ratio = (1.41 × 10⁴)³ = **2.8 × 10¹²** [1]. Almost all the mass is in the nucleus, so its density is far greater than the atom's average density [1]. **[2]**
 *Examiner insight:* the volume ratio is the cube of the radius ratio, not the square.
 
 ## Where marks are usually lost

@@ -184,13 +184,13 @@ Near iron no further gain is possible by joining or splitting.
 
 1. Energy change in J = mass change in kg × (speed of light in m s⁻¹)².
 2. E = 2.0 × 10⁻³⁰ × (3.00 × 10⁸)² = 1.8 × 10⁻¹³ J.
-3. Each photon carries one rest energy: 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 8.20 × 10⁻¹⁴ J. λ = hc/E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 8.20 × 10⁻¹⁴ = 2.43 × 10⁻¹² m.
+3. Each photon carries one rest energy: 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 8.20 × 10⁻¹⁴ J. λ = hc/E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (8.20 × 10⁻¹⁴) = 2.43 × 10⁻¹² m.
 4. Δm = 1.6 × 10⁻¹¹ / (3.00 × 10⁸)² = 1.8 × 10⁻²⁸ kg.
 5. 342 ÷ 40 = 8.55 MeV per nucleon.
 6. The product has a higher binding energy per nucleon, so some mass is converted to energy.
 7. It slows fast neutrons by collisions, so they are more likely to cause fission.
 8. The rate rises, because fewer neutrons are absorbed and more fissions are caused.
-9. 1.0 × 10⁶ / 3.2 × 10⁻¹¹ = 3.1 × 10¹⁶ per second.
+9. 1.0 × 10⁶ / (3.2 × 10⁻¹¹) = 3.1 × 10¹⁶ per second.
 10. Nucleon number: 236 = 141 + 92 + x, so x = 3 (charge: 92 = 56 + 36 balances).
 11. Nuclei repel, so they must be given large kinetic energy to reach the range of the strong nuclear force, and kinetic energy rises with temperature.
 12. It stays radioactive and hot for a very long time, so it needs secure storage for thousands of years.

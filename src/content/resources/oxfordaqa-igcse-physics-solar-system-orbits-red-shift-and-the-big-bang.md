@@ -109,7 +109,7 @@ A satellite in a low polar orbit has an orbital radius of 6.78 × 10⁶ m, measu
 
 ### Worked example 2: the Moon
 
-The Moon orbits at a radius of 3.84 × 10⁸ m and takes 27.3 days. Convert the time: 27.3 × 86 400 = 2.36 × 10⁶ s. Distance = 2π × 3.84 × 10⁸ = 2.41 × 10⁹ m. Speed = 2.41 × 10⁹ / 2.36 × 10⁶ = 1020 m/s (3 s.f.).
+The Moon orbits at a radius of 3.84 × 10⁸ m and takes 27.3 days. Convert the time: 27.3 × 86 400 = 2.36 × 10⁶ s. Distance = 2π × 3.84 × 10⁸ = 2.41 × 10⁹ m. Speed = 2.41 × 10⁹ / (2.36 × 10⁶) = 1020 m/s (3 s.f.).
 
 The satellite is moving about seven and a half times faster than the Moon. Section 3.8.2 f explains why.
 

@@ -67,7 +67,7 @@ Moving a charge Q through a potential difference ΔV involves work ΔW = QΔV. I
 ```
 ΔW = QΔV = 1.60 × 10⁻¹⁹ × 2.5 × 10³ = 4.0 × 10⁻¹⁶ J
 ½mv² = 4.0 × 10⁻¹⁶
-v = √(2 × 4.0 × 10⁻¹⁶ / 1.67 × 10⁻²⁷) = 6.9 × 10⁵ m s⁻¹
+v = √(2 × 4.0 × 10⁻¹⁶ / (1.67 × 10⁻²⁷)) = 6.9 × 10⁵ m s⁻¹
 ```
 
 The result does not depend on the path taken, only on the potential difference.
@@ -176,7 +176,7 @@ A polar molecule has one end slightly positive and the other slightly negative e
 
 ```
 A = 0.15² = 0.0225 m²
-C = 8.85 × 10⁻¹² × 2.3 × 0.0225 / 0.50 × 10⁻³ = 9.2 × 10⁻¹⁰ F (916 pF)
+C = 8.85 × 10⁻¹² × 2.3 × 0.0225 / (0.50 × 10⁻³) = 9.2 × 10⁻¹⁰ F (916 pF)
 Q = CV = 9.16 × 10⁻¹⁰ × 12 = 1.1 × 10⁻⁸ C
 Energy = ½CV² = ½ × 9.16 × 10⁻¹⁰ × 12² = 6.6 × 10⁻⁸ J
 ```

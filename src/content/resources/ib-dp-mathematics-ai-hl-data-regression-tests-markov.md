@@ -95,7 +95,7 @@ A café counts customers arriving in 120 five-minute intervals.
 
 Test at the 5% level whether a Poisson model fits.
 
-```
+```text
 H₀: the data follow a Poisson distribution
 H₁: the data do not follow a Poisson distribution
 Sample mean = 240/120 = 2, so use Po(2)
@@ -182,7 +182,7 @@ You will not be asked to calculate critical regions for t-tests.
 
 Bottles are filled with volumes N(μ, 4²) ml. The label claims μ = 500. A sample of 25 has x̄ = 498.3. Test at 5% whether μ < 500.
 
-```
+```text
 H₀: μ = 500    H₁: μ < 500
 Under H₀, X̄ ~ N(500, 4²/25), so the standard deviation of X̄ is 0.8
 z = (498.3 − 500)/0.8 = −2.125,  p = 0.0168
@@ -208,7 +208,7 @@ Let d = after − before: 4, 3, −1, 7, 5, 1, 5, 5. H₀: μ_d = 0, H₁: μ_d 
 
 It is claimed that 30% of seeds fail. After a new treatment, 20 seeds are sown. Test at 5% whether the proportion has fallen.
 
-```
+```text
 H₀: p = 0.3    H₁: p < 0.3    X ~ B(20, 0.3) under H₀
 P(X ≤ 2) = 0.0355 < 0.05     P(X ≤ 3) = 0.107 > 0.05
 Critical region: X ≤ 2       P(Type I) = 0.0355
@@ -254,7 +254,7 @@ A Markov chain is **regular** if some power of T has all entries positive. A reg
 
 Each week a gym member either attends (A) or does not (N). An attender attends the next week with probability 0.8. A non-attender attends with probability 0.3.
 
-```
+```text
         from A  from N
 T = [   0.8     0.3  ]  to A
     [   0.2     0.7  ]  to N

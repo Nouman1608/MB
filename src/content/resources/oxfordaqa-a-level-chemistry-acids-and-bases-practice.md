@@ -136,7 +136,7 @@ If a method is unfamiliar, go back to the [study guide](/resources/oxfordaqa-a-l
 **6.** Ka(R) = 10^(−2.86) = **1.38 × 10⁻³ mol dm⁻³** [1]; pKa(S) = −log₁₀(6.6 × 10⁻⁴) = **3.18** [1]; strongest to weakest: **R > S > T** (lowest pKa is strongest) [1]
 *Examiner insight:* Convert all three to the same form before ranking, or the order often comes out reversed.
 
-**7.** Mean of concordant titres = (20.70 + 20.80 + 20.75) / 3 = 20.75 cm³ [1]; n(NaOH) = 0.0480 × 20.75 / 1000 = 9.96 × 10⁻⁴ mol [1]; n(acid) in 25.0 cm³ = 9.96 × 10⁻⁴ mol (1 : 1) [1]; n(acid) in 250 cm³ = 9.96 × 10⁻³ mol [1]; Mr = 1.22 / 9.96 × 10⁻³ = **122** [1]
+**7.** Mean of concordant titres = (20.70 + 20.80 + 20.75) / 3 = 20.75 cm³ [1]; n(NaOH) = 0.0480 × 20.75 / 1000 = 9.96 × 10⁻⁴ mol [1]; n(acid) in 25.0 cm³ = 9.96 × 10⁻⁴ mol (1 : 1) [1]; n(acid) in 250 cm³ = 9.96 × 10⁻³ mol [1]; Mr = 1.22 / (9.96 × 10⁻³) = **122** [1]
 *Examiner insight:* Including the rough titre, or forgetting to scale from 25.0 cm³ to 250 cm³, gives a wrong Mr.
 
 **8.** n(H⁺) = 0.120 × 0.0350 = 4.20 × 10⁻³ mol; n(OH⁻) = 0.150 × 0.0200 = 3.00 × 10⁻³ mol [1]; excess H⁺ = 1.20 × 10⁻³ mol [1]; [H⁺] = 1.20 × 10⁻³ / 0.0550 = 0.0218 mol dm⁻³ [1]; pH = **1.66** [1]

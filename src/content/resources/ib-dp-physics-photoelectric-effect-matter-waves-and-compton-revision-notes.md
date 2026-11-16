@@ -175,14 +175,14 @@ Do not confuse the **work function** Φ (a property of the metal) with **Emax** 
 
 ### Answers
 
-1. f₀ = Φ/h = 2.50 × 1.60 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **6.03 × 10¹⁴ Hz**.
+1. f₀ = Φ/h = 2.50 × 1.60 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **6.03 × 10¹⁴ Hz**.
 2. hf = 6.63 × 10⁻³⁴ × 9.0 × 10¹⁴ = 5.97 × 10⁻¹⁹ J = 3.73 eV; Emax = 3.73 - 2.50 = **1.23 eV**.
 3. hc/λ = 4.44 eV; Emax = **0.24 eV**.
 4. λ = h/(mv) = 6.63 × 10⁻³⁴ / (9.11 × 10⁻³¹ × 1.0 × 10⁶) = **7.28 × 10⁻¹⁰ m**.
 5. More intensity means more photons per second. Each photon still has energy hf, and each acts on one electron, so the maximum energy is unchanged.
 6. sin θ = 0.40 / 2.0 = 0.20, so **θ = 11.5°**.
 7. Δλ = 1.21 × 10⁻¹² m; λf = **3.12 × 10⁻¹¹ m**.
-8. Photon energy = 3.31 × 10⁻¹⁹ J; N = 2.0 × 10⁻³ / 3.31 × 10⁻¹⁹ = **6.03 × 10¹⁵ s⁻¹**.
+8. Photon energy = 3.31 × 10⁻¹⁹ J; N = 2.0 × 10⁻³ / (3.31 × 10⁻¹⁹) = **6.03 × 10¹⁵ s⁻¹**.
 9. The voltage rises by a factor 4, so p rises by 2 and λ falls from 1.00 × 10⁻¹⁰ m to 5.01 × 10⁻¹¹ m: it **halves**.
 10. A classical wave spreads energy continuously, so a dim wave would need time to deliver enough energy to one electron. Emission is observed to be immediate.
 

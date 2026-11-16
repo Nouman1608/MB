@@ -146,7 +146,7 @@ These errors were then found.
 **4. (a)** −1 380 − 245 − 38 (direct debit and interest) [1] + 960 (credit transfer) [1] − 36 (receipt overstated, 651 − 615) [1] = **overdraft £739** [1].
 **(b)**
 
-```
+```text
 Lowther Cycles
 Bank reconciliation statement at 31 August 2026
                                          £
@@ -162,7 +162,7 @@ Overdrawn balance shown negative [1]; lodgement added [1]; unpresented cheques d
 
 **5.**
 
-```
+```text
                 Sales ledger control account
 Balance b/d          27 340 | Balance b/d             190
 Credit sales         48 760 | Bank                 44 815
@@ -186,7 +186,7 @@ Opening debit balance and credit sales [1]; dishonoured cheque and interest [1];
 **7. (a)** (i) Dr Suspense 300, Cr Purchases 300 [1]. (ii) Dr Suspense 725, Cr R Haddad 725 [1]. (iii) Dr Rates 81, Cr Suspense 81 [1]. (iv) Dr Drawings 360, Cr Electricity 360 [1].
 **(b)**
 
-```
+```text
                        Suspense account
 Purchases          300 | Balance b/d          944
 R Haddad           725 | Rates                 81

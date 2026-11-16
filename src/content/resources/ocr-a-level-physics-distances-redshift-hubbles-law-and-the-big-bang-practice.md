@@ -88,10 +88,10 @@ These questions cover section 5.5.3 (Cosmology) of the OCR Advanced GCE in Physi
 **1.** AU: the mean distance from the Earth to the Sun [1]. Light-year: the distance light travels in a vacuum in one year [1]. Parsec: the distance at which a star shows a parallax of one second of arc (an AU subtends one second of arc) [1]. **[3]**
 *Examiner insight:* A light-year must be described as a distance travelled by light in a vacuum in one year. Writing only "how far light goes in a year" is vague, and "a time" loses the idea completely.
 
-**2.** Distance = 2.6 × 3.09 × 10¹⁶ = **8.0 × 10¹⁶ m** [1]. In ly: 8.03 × 10¹⁶ / 9.46 × 10¹⁵ = **8.5 ly** [1]. **[2]**
+**2.** Distance = 2.6 × 3.09 × 10¹⁶ = **8.0 × 10¹⁶ m** [1]. In ly: 8.03 × 10¹⁶ / (9.46 × 10¹⁵) = **8.5 ly** [1]. **[2]**
 *Examiner insight:* Keep the unrounded value from the first conversion for the second, and give units on both answers. A number with no unit is not a complete answer.
 
-**3. (a)** d = 1/p = 1/0.045 = **22 pc** [1]. In ly: 22.2 × 3.09 × 10¹⁶ / 9.46 × 10¹⁵ = **73 ly** [1].
+**3. (a)** d = 1/p = 1/0.045 = **22 pc** [1]. In ly: 22.2 × 3.09 × 10¹⁶ / (9.46 × 10¹⁵) = **73 ly** [1].
 **(b)** Measure the position of the star relative to very distant stars [1]. Measure again six months later, when the Earth is on the opposite side of its orbit [1]. The parallax angle is half the angular shift in position between the two observations [1].
 **(c)** For distant stars the parallax angle is too small to measure [1]. **[6]**
 *Examiner insight:* For the method, state both observation times and say "half" of the shift. The commonest slip is giving the full shift as p.
@@ -106,7 +106,7 @@ These questions cover section 5.5.3 (Cosmology) of the OCR Advanced GCE in Physi
 **6. (a)** A straight line through the origin [1].
 **(b)** v/d values are 75, 71.7, 72.2, 70.8 and 70.0, or a best-fit line through the origin [1]. H0 ≈ **71 km s⁻¹ Mpc⁻¹** (accept about 70 to 72) [1].
 **(c)** 1 Mpc = 3.09 × 10¹⁹ km, so H0 = 71 / 3.09 × 10¹⁹ [1] = **2.3 × 10⁻¹⁸ s⁻¹** [1].
-**(d)** t = 1/H0 = 1 / 2.30 × 10⁻¹⁸ = 4.35 × 10¹⁷ s [1]. In years: 4.35 × 10¹⁷ / 3.16 × 10⁷ = **1.4 × 10¹⁰ years** [1]. **[7]**
+**(d)** t = 1/H0 = 1 / (2.30 × 10⁻¹⁸) = 4.35 × 10¹⁷ s [1]. In years: 4.35 × 10¹⁷ / (3.16 × 10⁷) = **1.4 × 10¹⁰ years** [1]. **[7]**
 *Examiner insight:* A single end point is a weak basis for a gradient. Show that you used all the data, either by a best-fit line or by averaging the ratios. Carry the unrounded H0 into part (d).
 
 **7.** The light from distant galaxies is shifted to longer wavelength (red shift) [1]. This is interpreted as the galaxies moving away from us [1]. The shift, and so the speed, increases with distance (Hubble's law) [1]. This is what a uniform expansion of space gives, as all separations grow [1]. Observers in any other galaxy would see the same pattern, so the Earth is not at a centre; the expansion has no centre [1]. **[5]**
@@ -115,7 +115,7 @@ These questions cover section 5.5.3 (Cosmology) of the OCR Advanced GCE in Physi
 **8.** The CMB is microwave radiation reaching the Earth equally from all directions [1]. It has a spectrum corresponding to a temperature of 2.7 K [1]. At the start the universe was extremely hot, packed tightly and full of radiation [1]. Expansion stretched the wavelength of this radiation and cooled it, which gives the observed low temperature; this matches a prediction of the Big Bang theory [1]. **[4]**
 *Examiner insight:* Link the observation to the theory. Describing the CMB without explaining why a hot early universe predicts it gives only part of the credit available.
 
-**9.** t = 1/H0 = 1 / 2.4 × 10⁻¹⁸ [1] = **4.2 × 10¹⁷ s** [1]. In years: 4.17 × 10¹⁷ / 3.16 × 10⁷ = **1.3 × 10¹⁰ years** [1]. The estimate assumes a constant expansion rate (the rate may have changed), or H0 has experimental uncertainty [1]. **[4]**
+**9.** t = 1/H0 = 1 / 2.4 × 10⁻¹⁸ [1] = **4.2 × 10¹⁷ s** [1]. In years: 4.17 × 10¹⁷ / (3.16 × 10⁷) = **1.3 × 10¹⁰ years** [1]. The estimate assumes a constant expansion rate (the rate may have changed), or H0 has experimental uncertainty [1]. **[4]**
 *Examiner insight:* Give a reason that is specific to this calculation. "Human error" is not a reason about the physics.
 
 **10.** A model answer has three stages in the right order. After a few minutes, fusion forms light nuclei, mainly hydrogen and helium [1]. After a few hundred thousand years, the universe cools enough for electrons to join nuclei and form atoms [1]; radiation can then travel freely, and this is the cosmic microwave background [1]. Over the following hundreds of millions of years, gravity pulls gas together to form the first stars and galaxies [1]. **[4]**

@@ -99,7 +99,7 @@ Use Kepler's third law to determine the orbital period of Ganymede in days. **[4
 **(b)** One mass doubled gives a factor of 2, and r tripled gives a factor of 1/9, so F = 2/9 × 2.96 × 10⁻⁶ = **6.59 × 10⁻⁷ N** [1] **[3]**
 *Examiner insight:* A scaling argument shows full understanding, but state the factor for each change.
 
-**3.** Kepler's third law: T² ∝ r³, so T₂ = T₁(r₂/r₁)^(3/2) [1]. r₂/r₁ = 1.07 × 10⁹ / 6.71 × 10⁸ = 1.595 [1]. (1.595)^(3/2) = 2.014 [1]. T₂ = 3.55 × 2.014 = **7.15 days** [1] **[4]**
+**3.** Kepler's third law: T² ∝ r³, so T₂ = T₁(r₂/r₁)^(3/2) [1]. r₂/r₁ = 1.07 × 10⁹ / (6.71 × 10⁸) = 1.595 [1]. (1.595)^(3/2) = 2.014 [1]. T₂ = 3.55 × 2.014 = **7.15 days** [1] **[4]**
 *Examiner insight:* The ratio form means no unit conversion is needed. Converting to seconds and back is allowed but gives more chances for slips.
 
 **4.** The Sun-asteroid line covers equal areas in equal times [1]. At these two points, r₁v₁ = r₂v₂ [1]. v₂ = 1.4 × 10¹¹ × 3.6 × 10⁴ / 4.2 × 10¹¹ [1] = **1.20 × 10⁴ m s⁻¹** [1] **[4]**
@@ -128,7 +128,7 @@ The distance must be measured from the centre of Venus, since the planet acts as
 
 **10. (a)** M = ρ × (4/3)πR³ [1]. g = GM/R² = G × ρ(4/3)πR³/R² [1] = (4/3)πGρR, so g ∝ R for constant ρ [1]
 **(b)** g = 1.5 × 9.81 [1] = **14.7 N kg⁻¹** [1]
-**(c)** M = gR²/G [1] = 9.81 × (6.37 × 10⁶)² / 6.67 × 10⁻¹¹ = **5.97 × 10²⁴ kg** [1] **[7]**
+**(c)** M = gR²/G [1] = 9.81 × (6.37 × 10⁶)² / (6.67 × 10⁻¹¹) = **5.97 × 10²⁴ kg** [1] **[7]**
 *Examiner insight:* On "show that" questions, every algebraic step must appear. In (a), stating the volume formula and cancelling the powers of R is what earns the marks.
 
 **11. (a)** M = 4π²r³/(GT²) [1] = 4π² × (4.2 × 10⁸)³ / (6.67 × 10⁻¹¹ × (1.5 × 10⁵)²) [1] = **1.95 × 10²⁷ kg** [1]

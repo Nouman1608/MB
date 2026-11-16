@@ -58,7 +58,7 @@ Diagram: draw a relatively elastic demand curve flat and a relatively inelastic 
 
 ## Price elasticity of demand (PED)
 
-```
+```text
 PED = change in quantity demanded, in per cent
       -----------------------------------------
       change in price, in per cent
@@ -72,7 +72,7 @@ Demand slopes downwards, so the raw PED is negative. This page keeps the sign in
 
 In the fictional city of Corrick, a day pass for the buses costs 8 units. The operator raises the price to 10 and daily sales fall from 4,000 to 3,400 passes.
 
-```
+```text
 % change in price    = (10 - 8) / 8 x 100          = +25%
 % change in quantity = (3,400 - 4,000) / 4,000 x 100 = -15%
 PED = -15 / +25 = -0.6
@@ -94,7 +94,7 @@ The size of PED is 0.6, so demand is price inelastic over this range. Revenue ro
 
 The theoretical range therefore runs from zero to infinity in size. The guide asks you to draw the three constant cases:
 
-```
+```text
 Perfectly inelastic     Perfectly elastic      Unitary PED
 P |      |              P |                    P | \
   |      |                |________ D            |  \
@@ -163,7 +163,7 @@ Reason: a price rise gains revenue on units still sold and loses it on units no 
 
 A cinema in the fictional town of Tarnby cuts its ticket price from 12 to 10 and weekly attendance rises from 600 to 780.
 
-```
+```text
 % change in price    = (10 - 12) / 12 x 100 = -16.67%
 % change in quantity = (780 - 600) / 600 x 100 = +30%
 PED = +30 / -16.67 = -1.8      (size 1.8: price elastic)
@@ -205,7 +205,7 @@ State the contrast clearly and note that "generally" allows exceptions, such as 
 
 ## Income elasticity of demand (YED)
 
-```
+```text
 YED = change in quantity demanded, in per cent
       ----------------------------------------
       change in income, in per cent

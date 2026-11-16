@@ -82,7 +82,7 @@ Related: [study guide](/resources/ocr-a-level-physics-charge-current-drift-veloc
 ## Answers
 
 **1. (a)** t = 25 × 60 = 1500 s [1]. Q = It = 2.8 × 1500 = **4.2 × 10³ C** (4200 C) [1].
-**(b)** N = Q/e [1] = 4200 / 1.6 × 10⁻¹⁹ = **2.6 × 10²² electrons** [1]. **[4]**
+**(b)** N = Q/e [1] = 4200 / (1.6 × 10⁻¹⁹) = **2.6 × 10²² electrons** [1]. **[4]**
 *Examiner insight:* Convert the time to seconds before substituting, and write that conversion as a separate line so it is easy to check.
 
 **2.** Divide each charge by e: 3.2/1.6 = 2.0, 4.8/1.6 = 3.0, 5.6/1.6 = 3.5, 8.0/1.6 = 5.0 [1]. Charge is quantised, so every value must be a whole-number multiple of e [1]. **5.6 × 10⁻¹⁹ C** cannot be correct because it is 3.5e [1]. **[3]**
@@ -104,7 +104,7 @@ Related: [study guide](/resources/ocr-a-level-physics-charge-current-drift-veloc
 *Examiner insight:* Substituting 1.2 mm where the radius belongs gives the wrong area and a drift velocity out by a factor of four, so write the radius on its own line first.
 
 **7. (a)** The current is the same and n is the same, so v ∝ 1/A [1]. A ∝ d², so Y has one ninth of the area of X [1]. The drift velocity in Y is **9 times** that in X [1].
-**(b)** For the same I and A, v ∝ 1/n [1]. v(semiconductor) / v(metal) = 8.5 × 10²⁸ / 4.0 × 10²² = **2.1 × 10⁶** [1].
+**(b)** For the same I and A, v ∝ 1/n [1]. v(semiconductor) / v(metal) = 8.5 × 10²⁸ / (4.0 × 10²²) = **2.1 × 10⁶** [1].
 **(c)** An insulator has almost no free charge carriers, so n is extremely small and no useful current flows even with a large p.d. [1] **[6]**
 *Examiner insight:* Solve comparisons by proportion, stating which quantities stay constant.
 
@@ -129,7 +129,7 @@ Related: [study guide](/resources/ocr-a-level-physics-charge-current-drift-veloc
 *Examiner insight:* Define both terms using the direction of the energy change. Saying "e.m.f. is the voltage of the battery" does not make the distinction.
 
 **11. (a)** Electrical energy gained = kinetic energy: eV = ½mv² [1]. v = √(2eV/m) = √(2 × 1.6 × 10⁻¹⁹ × 1200 / 9.11 × 10⁻³¹) [1] = **2.05 × 10⁷ m s⁻¹** [1].
-**(b)** v = √(2 × 1.6 × 10⁻¹⁹ × 1200 / 1.67 × 10⁻²⁷) = **4.8 × 10⁵ m s⁻¹** [1]. The electron is about **43 times faster**, the square root of the mass ratio [1]. **[5]**
+**(b)** v = √(2 × 1.6 × 10⁻¹⁹ × 1200 / (1.67 × 10⁻²⁷)) = **4.8 × 10⁵ m s⁻¹** [1]. The electron is about **43 times faster**, the square root of the mass ratio [1]. **[5]**
 *Examiner insight:* A comparison needs both speeds and the ratio. Check the mass used for each particle.
 
 **12. (a)** KE = qV = 2 × 1.6 × 10⁻¹⁹ × 1500 = **4.8 × 10⁻¹⁶ J** [1].

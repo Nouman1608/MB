@@ -210,7 +210,7 @@ If conditions change, a new terminal velocity follows. If a parachute opens, dra
 **Worked example 7.** A steel ball bearing of mass 0.88 g falls through oil. The upthrust is 1.1 mN.
 
 Weight = 0.88 × 10⁻³ × 9.81 = 8.6 mN
-At release (no drag): net force = 8.6 − 1.1 = 7.5 mN, so a = 7.5 × 10⁻³/0.88 × 10⁻³ = 8.6 m s⁻²
+At release (no drag): net force = 8.6 − 1.1 = 7.5 mN, so a = 7.5 × 10⁻³/(0.88 × 10⁻³) = 8.6 m s⁻²
 At terminal velocity: drag = weight − upthrust = 8.6 − 1.1 = 7.5 mN
 
 ## Determining terminal velocity (3.2.2(d)(ii))

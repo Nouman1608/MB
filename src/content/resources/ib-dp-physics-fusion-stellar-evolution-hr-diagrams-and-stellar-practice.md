@@ -96,7 +96,7 @@ The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-
 **2.** Gravity acts inward on every layer [1]. Outward pressure from hot gas and radiation acts against it [1]. The star is stable when these are in balance at each depth [1]. If the fusion rate rose, the core would expand and cool, reducing the rate again; if it fell, the core would contract and heat, raising it [1]. **[4]**
 *Examiner insight:* Name both pressure sources and say "balance". "Fusion pushes against gravity" is too loose.
 
-**3. (a)** U = k e² / r = 8.99 × 10⁹ × (1.602 × 10⁻¹⁹)² / 2.0 × 10⁻¹⁵ = 1.15 × 10⁻¹³ J [1] = **0.72 MeV** [1].
+**3. (a)** U = k e² / r = 8.99 × 10⁹ × (1.602 × 10⁻¹⁹)² / (2.0 × 10⁻¹⁵) = 1.15 × 10⁻¹³ J [1] = **0.72 MeV** [1].
 **(b)** 3/2 × 1.38 × 10⁻²³ × 2.0 × 10⁷ = 4.14 × 10⁻¹⁶ J [1] = **2.6 keV** [1].
 **(c)** The barrier is roughly 280 times the mean thermal energy, yet fusion occurs because a small fraction of nuclei move much faster than average, and quantum effects allow fusion without the full barrier energy [1]. High density makes collisions frequent, so the fusion rate is large enough to power the star [1]. **[6]**
 *Examiner insight:* Convert to the same unit before comparing, and state the ratio.
@@ -112,9 +112,9 @@ The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-
 **6.** One solar mass: lower core temperature and a slow fusion rate, so a lifetime of billions of years [1]. It leaves the main sequence and swells to a red giant [1]. It sheds its outer layers and the core remains as a white dwarf [1]. Fifteen solar masses: hotter core and far higher luminosity, so the fuel is used much faster and the lifetime is far shorter [1]. It becomes a super giant and fuses heavier elements up to iron [1]. The core collapses in a supernova, leaving a neutron star or a black hole [1]. **[6]**
 *Examiner insight:* A comparison needs both stars addressed on the same feature, such as lifetime or end state. 
 
-**7. (a)** T = 2.9 × 10⁻³ / λmax [1] = 2.9 × 10⁻³ / 1.45 × 10⁻⁷ = **2.0 × 10⁴ K** [1].
+**7. (a)** T = 2.9 × 10⁻³ / λmax [1] = 2.9 × 10⁻³ / (1.45 × 10⁻⁷) = **2.0 × 10⁴ K** [1].
 **(b)** Atoms in the cooler outer layers absorb photons whose energies match transitions between their energy levels [1]. The missing wavelengths appear as dark lines, and each element has its own pattern, so matching the pattern identifies the element [1].
-**(c)** T = 2.9 × 10⁻³ / 8.0 × 10⁻⁷ = **3.6 × 10³ K** [1]. **[5]**
+**(c)** T = 2.9 × 10⁻³ / (8.0 × 10⁻⁷) = **3.6 × 10³ K** [1]. **[5]**
 *Examiner insight:* Mention the transition between energy levels in part (b). "Different elements give different lines" alone does not explain why.
 
 **8. (a)** d = 1/0.0310 = **32.3 pc** [1] = 32.3 × 3.09 × 10¹⁶ = **9.97 × 10¹⁷ m** [1].
@@ -128,10 +128,10 @@ The [study guide](/resources/ib-dp-physics-fusion-stellar-evolution-hr-diagrams-
 **(b)** The star moves horizontally to the right (to lower temperature at the same luminosity) [1], into the region of red giants and super giants [1]. **[4]**
 *Examiner insight:* Give the proportionality before substituting. Stating "R is 4 times larger" with no link to L and T is a bare answer.
 
-**10. (a)** E = 26.7 × 1.602 × 10⁻¹³ = 4.28 × 10⁻¹² J [1]. Rate = 1.0 × 10²⁹ / 4.28 × 10⁻¹² = **2.3 × 10⁴⁰ s⁻¹** [1].
+**10. (a)** E = 26.7 × 1.602 × 10⁻¹³ = 4.28 × 10⁻¹² J [1]. Rate = 1.0 × 10²⁹ / (4.28 × 10⁻¹²) = **2.3 × 10⁴⁰ s⁻¹** [1].
 **(b)** Each fusion uses 4 × 1.007825 × 1.661 × 10⁻²⁷ = 6.70 × 10⁻²⁷ kg [1]; mass = 2.34 × 10⁴⁰ × 6.70 × 10⁻²⁷ = **1.6 × 10¹⁴ kg s⁻¹** [1].
 **(c)** m = L / c² = 1.0 × 10²⁹ / (3.00 × 10⁸)² = **1.1 × 10¹² kg s⁻¹** [1].
-**(d)** t = 3.0 × 10²⁹ / 1.56 × 10¹⁴ = 1.9 × 10¹⁵ s [1] = **6.1 × 10⁷ years** [1].
+**(d)** t = 3.0 × 10²⁹ / (1.56 × 10¹⁴) = 1.9 × 10¹⁵ s [1] = **6.1 × 10⁷ years** [1].
 **(e)** Massive stars fuse hydrogen at a rate hundreds of times higher than the Sun, so they exhaust their fuel far sooner [1]. **[8]**
 *Examiner insight:* Part (c) is smaller than part (b) because only a small fraction of the mass becomes energy; saying so shows the link.
 

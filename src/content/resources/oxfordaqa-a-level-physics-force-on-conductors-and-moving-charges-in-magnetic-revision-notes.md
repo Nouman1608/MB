@@ -102,7 +102,7 @@ Fleming's left-hand rule: thumb gives the force, first finger the field (north t
 4. Find the period with T = 2πm / (BQ) if asked.
 5. Direction of circulation: use the left-hand rule for the force at one point and sketch the centre on that side.
 
-**Reminder.** An electron is accelerated from rest through 120 V. Then v = √(2 × 1.60 × 10⁻¹⁹ × 120 / 9.11 × 10⁻³¹) = 6.5 × 10⁶ m s⁻¹. In a field of 4.0 × 10⁻³ T, r = 9.11 × 10⁻³¹ × 6.5 × 10⁶ / (4.0 × 10⁻³ × 1.60 × 10⁻¹⁹) = **9.2 × 10⁻³ m**.
+**Reminder.** An electron is accelerated from rest through 120 V. Then v = √(2 × 1.60 × 10⁻¹⁹ × 120 / (9.11 × 10⁻³¹)) = 6.5 × 10⁶ m s⁻¹. In a field of 4.0 × 10⁻³ T, r = 9.11 × 10⁻³¹ × 6.5 × 10⁶ / (4.0 × 10⁻³ × 1.60 × 10⁻¹⁹) = **9.2 × 10⁻³ m**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-alternating-currents--03-charged-particle-circles.webp" width="900" height="920" alt="A proton accelerated through 1500 V enters a uniform 0.20 T field pointing into the page, moving upward. The magnetic force points left, so it circles; the radius is 2.8 cm at speed v and 5.6 cm at 2v. Both take the same time, T = 3.3 x 10^-7 s. An electron through the same voltage has a 43 times smaller radius and the opposite sense." loading="lazy">
@@ -153,7 +153,7 @@ At speeds approaching the speed of light these simple results stop working, beca
 5. F = 0.30 × 1.60 × 10⁻¹⁹ × 1.8 × 10⁶ = **8.6 × 10⁻¹⁴ N**.
 6. Treat as conventional current to the left, field into the page. The thumb points **down the page**.
 7. r = 1.67 × 10⁻²⁷ × 2.4 × 10⁶ / (0.50 × 1.60 × 10⁻¹⁹) = **0.050 m**. Doubling B halves r to **0.025 m**.
-8. With equal kinetic energy, mv = √(2mEk), so r is proportional to √m. The ratio r(proton) / r(electron) = √(1.67 × 10⁻²⁷ / 9.11 × 10⁻³¹) = **43** (the proton's orbit is larger).
+8. With equal kinetic energy, mv = √(2mEk), so r is proportional to √m. The ratio r(proton) / r(electron) = √(1.67 × 10⁻²⁷ / (9.11 × 10⁻³¹)) = **43** (the proton's orbit is larger).
 9. f = BQ / (2πm) = 0.65 × 1.60 × 10⁻¹⁹ / (2π × 1.67 × 10⁻²⁷) = **9.9 × 10⁶ Hz**.
 10. The time for each semicircle is πm / (BQ), which does not depend on speed. A faster particle goes round a bigger semicircle in the same time, so it always reaches the gap when the pd reverses.
 

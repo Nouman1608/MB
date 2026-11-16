@@ -118,7 +118,7 @@ Comparing experiments 2 and 3: [B] doubles, [A] constant, rate quadruples
 Rate equation: **rate = k[A][B]²**; overall order = 1 + 2 = **3**.
 
 Using experiment 1 to find k: 2.0 × 10⁻³ = k(0.10)(0.10)², so k = 2.0 ×
-10⁻³ / (0.10 × 0.010) = 2.0 × 10⁻³ / 1.0 × 10⁻³ = **2.0 mol⁻² dm⁶ s⁻¹**
+10⁻³ / (0.10 × 0.010) = 2.0 × 10⁻³ / (1.0 × 10⁻³) = **2.0 mol⁻² dm⁶ s⁻¹**
 
 **Half-life of a first-order reaction.** For a first-order reaction, the
 time for the concentration to halve (t½) is constant, independent of the

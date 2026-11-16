@@ -84,7 +84,7 @@ These notes condense the [bank reconciliation statements study guide](/resources
 
 ## Reconciliation layout
 
-```
+```text
 Bank reconciliation statement at (date)
 Balance per bank statement                  xxx
 Add:  outstanding bankings                  xxx
@@ -123,7 +123,7 @@ If the bank statement balance is 2,610 (credit) and the only other differences a
 
 Thorncroft Tools in a different month has a cash book credit balance of 920 (overdrawn). Bank charges of 30 and a standing order of 110 are missing, so the updated balance is an overdraft of 1,060. It has an unpresented cheque of 240 and an outstanding banking of 500. The bank statement overdraft must therefore be 1,320.
 
-```
+```text
 Balance per bank statement (overdrawn)    (1,320)
 Add: outstanding banking                     500
                                             (820)
