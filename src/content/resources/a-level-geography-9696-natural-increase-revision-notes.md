@@ -40,7 +40,7 @@ Condensed recall for **4.1 Natural increase as a component of population change*
 | Dependency ratio | Dependents (young and old) per 100 people of working age |
 | Age/sex structure | Population pyramid showing age bands by sex |
 | Natural decrease | Deaths exceed births, so the natural increase rate is negative |
-| Replacement-level fertility | About 2.1 children per woman in most HICs: enough to replace the parents |
+| Replacement-level fertility | Fertility at which each generation just replaces itself: roughly 2.1 children per woman where child mortality is low |
 | Cohort | A group of people born in the same period |
 
 ## Worked calculations
