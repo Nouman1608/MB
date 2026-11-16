@@ -51,7 +51,7 @@ Course links: [Literature course hub](/boards/ib/ib-dp/language-a-literature/) Â
 | Levels | Taken by both SL and HL students |
 
 Not in the brief: the timing, the extract length, what notes you may use, and the assessment
-criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points, and it is marked out of 40 on four criteria (A to D, 10 marks each). Confirm the details with your teacher.
+criteria. The full IB Language A guide does set them: the oral lasts 15 minutes (a 10-minute prepared response followed by 5 minutes of teacher questions), each extract is no more than 40 lines, you may take in an outline of no more than 10 bullet points. Its mark total and criteria are not given here until an IB document confirms them; confirm them with your teacher.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-language-a-literature-individual-oral-global-issues--01-ns57-oral-requirements.webp" width="900" height="1090" alt="One work in the language studied and one work studied in translation both approach a common global issue. Arrows run from each book to a globe, and labels show you analyse voice, imagery, structure and form. Two works in one language are marked as not allowed, and the oral is shown as internally assessed at 30% SL and 20% HL." loading="lazy">

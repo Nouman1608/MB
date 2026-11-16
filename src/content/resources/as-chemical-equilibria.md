@@ -111,7 +111,7 @@ gets the system to equilibrium faster.
 
 For a general reaction aA + bB ⇌ cC + dD at equilibrium:
 
-**Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ**
+**Kc = [C]ᶜ[D]ᵈ / ([A]ᵃ[B]ᵇ)**
 
 with concentrations in mol dm⁻³ and each raised to the power of its balancing
 number.
@@ -142,7 +142,7 @@ pressure:
 Kp is written the same way as Kc, but using partial pressures in place of
 concentrations:
 
-**Kp = (P꜀)ᶜ(P_D)ᵈ / (Pₐ)ᵃ(P_B)ᵇ**
+**Kp = P(C)ᶜ × P(D)ᵈ / (P(A)ᵃ × P(B)ᵇ)**
 
 **Worked example.** A sealed vessel at total pressure 200 kPa contains an
 equilibrium mixture of N₂O₄(g) ⇌ 2NO₂(g) with mole fractions 0.60 for N₂O₄
@@ -151,7 +151,7 @@ and 0.40 for NO₂. Calculate Kp.
 Partial pressures: P(N₂O₄) = 0.60 × 200 = 120 kPa; P(NO₂) = 0.40 × 200 =
 80 kPa.
 
-Kp = (P_NO₂)² / P_N₂O₄ = (80)² / 120 = 6400 / 120 = **53.3 kPa**
+Kp = P(NO₂)² / P(N₂O₄) = (80)² / 120 = 6400 / 120 = **53.3 kPa**
 
 Here the mole count changes (1 → 2), so the pressure units don't cancel —
 Kp carries units, here kPa¹, because the net order is (2 − 1) = 1.

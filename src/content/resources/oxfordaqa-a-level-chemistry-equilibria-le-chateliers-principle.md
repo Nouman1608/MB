@@ -128,7 +128,7 @@ through Le Chatelier's principle.
 For a general reaction aA + bB ⇌ cC + dD at equilibrium, the equilibrium
 constant in terms of concentration is:
 
-**Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ**
+**Kc = [C]ᶜ[D]ᵈ / ([A]ᵃ[B]ᵇ)**
 
 with each concentration (in mol dm⁻³) raised to the power of its balancing
 number in the equation.

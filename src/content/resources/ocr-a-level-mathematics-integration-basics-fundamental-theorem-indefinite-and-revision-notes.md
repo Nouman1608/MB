@@ -90,7 +90,7 @@ These notes condense OCR A Level Mathematics A (H240) content references 1.08a t
 
 **Worked reminders.**
 - ∫₀^(ln 4) 6e^(-x) dx = [-6e^(-x)]₀^(ln 4) = -6/4 + 6 = 9/2.
-- ∫_(-4)^(-1) (2/x) dx = [2 ln\|x\|]_(-4)^(-1) = 2 ln 1 - 2 ln 4 = -4 ln 2. The value is negative because 1/x is negative on this interval.
+- ∫ from −4 to −1 of (2/x) dx = [2 ln\|x\|] from −4 to −1 = 2 ln 1 − 2 ln 4 = −4 ln 2. The value is negative because 1/x is negative on this interval.
 
 - Swapping limits changes the sign. Splitting at a point: ∫ₐᶜ = ∫ₐᵇ + ∫ᵇᶜ.
 - Show the antiderivative and the substitution of limits. One of the specification's examples of detailed reasoning is a definite integral, and it says a bare calculator answer would not be awarded any marks there.
@@ -151,7 +151,7 @@ These notes condense OCR A Level Mathematics A (H240) content references 1.08a t
 3. Integrate (upper - lower).
 4. If the curves cross inside the interval, split there and reverse the subtraction.
 
-**Worked reminder.** The curve y = 8 - x² and the line y = 2x meet where x² + 2x - 8 = 0, so x = -4 or 2. At x = 0 the curve (8) is above the line (0). Area = ∫_(-4)^2 (8 - 2x - x²) dx = [8x - x² - x³/3]_(-4)^2 = 28/3 + 80/3 = 36.
+**Worked reminder.** The curve y = 8 - x² and the line y = 2x meet where x² + 2x - 8 = 0, so x = -4 or 2. At x = 0 the curve (8) is above the line (0). Area = ∫ from −4 to 2 of (8 − 2x − x²) dx = [8x − x² − x³/3] from −4 to 2 = 28/3 + 80/3 = 36.
 
 ## Exam technique in short
 
@@ -207,7 +207,7 @@ These notes condense OCR A Level Mathematics A (H240) content references 1.08a t
 9. k³ - 1 = 63, so k³ = 64 and k = 4
 10. y = x² - 3x + c; 4 - 6 + c = 5, so c = 7 and y = x² - 3x + 7
 11. The curve is below the axis between x = -3 and 3: area = 36
-12. The curves meet at x = -1 and 3: area = ∫_(-1)^3 (2x + 3 - x²) dx = 32/3
+12. The curves meet at x = -1 and 3: area = ∫ from −1 to 3 of (2x + 3 − x²) dx = 32/3
 13. The net integral is 0. Area = 2 × 2 = 4
 
 ## Where marks are usually lost

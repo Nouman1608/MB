@@ -274,8 +274,8 @@ The same method works for two curves. The intersection skills come from [Quadrat
 Rotating a region through 360° about an axis produces a solid. Each thin slice is a disc of radius y (about the x-axis) or x (about the y-axis).
 
 ```
-About the x-axis:   V = π ∫ₐᵇ y² dx
-About the y-axis:   V = π ∫꜀ᵈ x² dy
+About the x-axis:   V = π ∫ y² dx, from x = a to x = b
+About the y-axis:   V = π ∫ x² dy, from y = c to y = d
 ```
 
 Square y (or x) **before** integrating. Leave π outside and bring it back at the end.

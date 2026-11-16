@@ -41,8 +41,8 @@ depends on, is the single most common structural mistake in how students sequenc
 
 ## Core skills to hold securely
 
-- **The concept of a function** -- domain, range, and function notation $f(x)$, including composite
-  functions $f \circ g(x)$ and the conditions needed for an inverse function $f^{-1}(x)$ to exist.
+- **The concept of a function** -- domain, range, and function notation f(x), including composite
+  functions f ∘ g(x) and the conditions needed for an inverse function f⁻¹(x) to exist.
 - **Graphing and transforming functions** -- translations, stretches and reflections applied to a
   base graph, and reading key features (intercepts, turning points, asymptotes) directly from a graph
   or its equation.
@@ -53,8 +53,8 @@ depends on, is the single most common structural mistake in how students sequenc
 
 ## Worked example: composite and inverse functions
 
-Given $f(x) = 2x + 3$ and $g(x) = x^2$, find $f \circ g(x)$ and explain why $f^{-1}(x)$ exists but a
-general inverse of $g(x)$ over all real $x$ does not.
+Given f(x) = 2x + 3 and g(x) = x², find f ∘ g(x) and explain why f⁻¹(x) exists but a
+general inverse of g(x) over all real x does not.
 
 ```
 f(g(x)):        substitute g(x) into f: f(x^2) = 2x^2 + 3
@@ -92,14 +92,14 @@ Approaches mark schemes reward when a question asks *why* an inverse does or doe
 
 ## Transformations at a glance
 
-| Transformation | Effect on $y = f(x)$ |
+| Transformation | Effect on y = f(x) |
 |---|---|
-| $y = f(x) + k$ | Vertical translation by $k$ |
-| $y = f(x - a)$ | Horizontal translation by $a$ |
-| $y = k f(x)$ | Vertical stretch, scale factor $k$ |
-| $y = f(kx)$ | Horizontal stretch, scale factor $1/k$ |
-| $y = -f(x)$ | Reflection in the $x$-axis |
-| $y = f(-x)$ | Reflection in the $y$-axis |
+| y = f(x) + k | Vertical translation by k |
+| y = f(x − a) | Horizontal translation by a |
+| y = k f(x) | Vertical stretch, scale factor k |
+| y = f(kx) | Horizontal stretch, scale factor 1/k |
+| y = −f(x) | Reflection in the x-axis |
+| y = f(−x) | Reflection in the y-axis |
 
 Apply transformations to the **key features** of the base graph (intercepts, turning points,
 asymptotes) directly, rather than replotting the whole curve from scratch every time -- this is far
@@ -124,17 +124,17 @@ faster under exam time pressure and less error-prone for multi-step transformati
 ## Logarithmic and exponential pairs
 
 Exponential and logarithmic functions are inverses of each other, and this strand expects fluent
-movement between the two forms: $y = a^x$ rewritten as $x = \log_a y$, and the graph of a logarithmic
-function recognised as the reflection of the corresponding exponential graph in the line $y = x$ —
+movement between the two forms: y = aˣ rewritten as x = logₐ y, and the graph of a logarithmic
+function recognised as the reflection of the corresponding exponential graph in the line y = x —
 the general graphical signature of any function and its inverse. Questions combining exponential
 growth/decay models with logarithms to solve for an unknown exponent are common, and rely on this
 inverse relationship rather than a separate memorised technique.
 
 ## Exam traps
 
-- Swapping $x$ and $y$ mechanically to find an inverse without first checking the function is
+- Swapping x and y mechanically to find an inverse without first checking the function is
   one-to-one over the domain given.
-- Applying a horizontal transformation ($f(x-a)$ or $f(kx)$) in the wrong direction relative to the
+- Applying a horizontal transformation (f(x−a) or f(kx)) in the wrong direction relative to the
   sign given.
 - Reading off asymptotes from a transformed graph without checking how the transformation moved them.
 - Treating a graphical solution (technology) and an algebraic solution as interchangeable without
@@ -146,7 +146,7 @@ inverse relationship rather than a separate memorised technique.
 - Confirm a function is one-to-one before finding its inverse, rather than swapping variables by
   default.
 - Practise sketching each transformation from the table above onto a simple base graph such as
-  $y = x^2$.
+  y = x².
 - Convert confidently between exponential and logarithmic forms of the same relationship.
 - Cross-check an algebraic solution to an equation involving functions against a graphical solution
   using technology, since Paper 2 allows this directly.
@@ -154,14 +154,14 @@ inverse relationship rather than a separate memorised technique.
 ## Self-test
 
 1. State the condition a function must satisfy for its inverse to exist.
-2. What is the effect of $y = f(x - a)$ on the graph of $y = f(x)$?
-3. Why does $g(x) = x^2$ not have an inverse over all real $x$?
+2. What is the effect of y = f(x − a) on the graph of y = f(x)?
+3. Why does g(x) = x² not have an inverse over all real x?
 4. Why is Functions positioned before Calculus in the course structure?
 5. Name two types of function most commonly assessed in this strand.
 
 **Answers:** 1. The function must be one-to-one (each output corresponds to exactly one input) over
-the domain considered. 2. A horizontal translation by $a$ units. 3. Because it is not one-to-one over
-all real numbers -- two different inputs (e.g. $2$ and $-2$) can give the same output, so no single
+the domain considered. 2. A horizontal translation by a units. 3. Because it is not one-to-one over
+all real numbers -- two different inputs (e.g. 2 and −2) can give the same output, so no single
 inverse function can recover the original input without restricting the domain. 4. Because
 differentiation and integration operate on functions, so fluency with function notation, graphing and
 equation-solving underpins nearly every Calculus technique. 5. Any two of: linear, quadratic,

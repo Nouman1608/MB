@@ -119,7 +119,7 @@ See [`OPEN_QUESTIONS.md`](../../../OPEN_QUESTIONS.md): 5 owner questions, 4 teac
 2. (Owner) SL assessment figures for IB DP Biology/Chemistry, or approved deferral (OQ-2).
 3. (Teacher) Itemise subtopics for the 380 topic-level-only pages (OT-1).
 4. (Teacher) Series check for 5014 / 0479 / H060 (OT-2).
-5. ~~thinkib.net source vs policy (OQ-3)~~: done in D-455. Same question open for DP Language A: Literature (OQ-6).
+5. ~~thinkib.net source vs policy (OQ-3)~~: done in D-455. DP Language A: Literature likewise in D-473 (OQ-6).
 
 **Medium**
 6. (Translator) Native review of the six translated pointer sentences (OL-1).
