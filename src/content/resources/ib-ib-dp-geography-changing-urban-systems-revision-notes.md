@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-7-2"
 description: "Condensed IB DP Geography notes on 7.2: cities as systems, migration, deindustrialisation, suburbanisation, globalisation and growth calculations, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

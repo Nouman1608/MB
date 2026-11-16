@@ -10,7 +10,10 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "How Cambridge IGCSE History 0470 is organised: the core options, five depth studies, the three assessed components and the coursework choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

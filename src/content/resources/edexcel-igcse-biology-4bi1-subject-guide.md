@@ -10,7 +10,10 @@ syllabusSeries: "Issue 3"
 order: 0
 description: "An overview of Pearson Edexcel International GCSE Biology 4BI1: its five content areas, the two untiered papers and how bold-referenced content is assessed."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

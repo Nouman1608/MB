@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-4-summary-0539"
 description: "Quick recall for the 0539 Paper 1 Exercise 4 summary: the 100-word limit, five Urdu paraphrase techniques, linking words, what to leave out and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains Urdu paraphrase examples and connectives; an Urdu specialist should check that every Urdu item is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains Urdu paraphrase examples and connectives; an Urdu specialist should check that every Urdu item is correct and natural."
 ---
 
 Condensed for the final weeks. For the full explanation and a worked example, use the

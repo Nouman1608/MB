@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "weather-0460"
 description: "Condensed IGCSE Geography 0460 notes on 2.4: weather instruments, the Stevenson screen, weather calculations, graph reading and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

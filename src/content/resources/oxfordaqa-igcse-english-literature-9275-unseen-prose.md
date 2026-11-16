@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-prose-9275"
 description: "How to analyse an unseen prose extract for Paper 2a Section C (Route A) of OxfordAQA International GCSE English Literature 9275, with a worked original extract."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

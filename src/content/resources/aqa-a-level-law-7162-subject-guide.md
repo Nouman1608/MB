@@ -10,7 +10,10 @@ syllabusSeries: "For teaching from September 2017 onwards, A-level exams 2019 on
 order: 0
 description: "An overview of AQA A-Level Law (7162): the legal system core, criminal law, tort and the contract or human rights option, and how the three papers work."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

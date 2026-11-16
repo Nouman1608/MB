@@ -14,11 +14,12 @@ syllabusTopics:
     topic: "component-5-speaking-0539"
 description: "Quick recall for the optional 0539 Component 5 Speaking test: the three parts, marks and timings, preparing a presentation, useful Urdu phrases and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains Urdu set phrases and short sentences; an Urdu specialist should check that every Urdu item is correct and natural."
 publishedDate: 2026-11-16
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains Urdu set phrases and short sentences; an Urdu specialist should check that every Urdu item is correct and natural."
 ---
 
 Condensed notes for the optional **Component 5: Speaking** of Cambridge IGCSE Urdu as a Second

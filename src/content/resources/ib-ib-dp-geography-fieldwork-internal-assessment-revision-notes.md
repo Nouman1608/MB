@@ -14,7 +14,10 @@ syllabusTopics:
     topic: "ib-dp-geography-fieldwork"
 description: "Condensed IB DP Geography notes on the fieldwork internal assessment: question, hypotheses, sampling, data presentation, statistical tests, evaluation and report structure, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

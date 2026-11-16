@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-6-4"
 description: "Condensed IB DP Geography notes on 6.4 Food and health: future pressures on food and health, sustainable options, resilience and governance, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

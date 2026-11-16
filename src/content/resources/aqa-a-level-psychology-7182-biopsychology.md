@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "biopsychology-7182"
 description: "Study guide to AQA A-level Psychology 7182 Biopsychology: nervous and endocrine systems, synapses, fight or flight, localisation, split brains and plasticity."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

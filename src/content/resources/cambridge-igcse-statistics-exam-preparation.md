@@ -11,7 +11,10 @@ syllabusSeries: "2027"
 order: 3
 description: "How to prepare for Cambridge IGCSE Statistics 0479 Papers 1 and 2: two equal 2h15 papers of 100 marks, calculator use, shown working and a worked quartile example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

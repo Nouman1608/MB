@@ -11,9 +11,10 @@ syllabusCodes: ["7405"]
 order: 1
 description: "AQA A Level Chemistry (7405) past papers guide with June 2026 grade thresholds and our notes on the June 2025 and June 2024 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Grade thresholds could be retrieved only for June 2026, and no June 2026 examiner report was available, so June 2025 and June 2024 have report notes without thresholds."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Grade thresholds could be retrieved only for June 2026, and no June 2026 examiner report was available, so June 2025 and June 2024 have report notes without thresholds."
 publishedDate: 2026-11-15
 featured: false
 ---

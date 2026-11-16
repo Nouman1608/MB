@@ -16,10 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-a-inquiring-and-analysing"
 description: "Condensed IB MYP Design revision notes for Criterion A: need, research plans, product analysis, design briefs, a self-test and common mark losses."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---

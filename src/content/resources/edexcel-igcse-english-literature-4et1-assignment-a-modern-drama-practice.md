@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "assignment-a-modern-drama-4et1"
 description: "Original practice for 4ET1 Component 3 Assignment A: stagecraft drills on a short original scene and 30-mark modern drama tasks with AO1 and AO2 indicative content."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the indicative content for Kindertransport, Curious Incident and Death and the King's Horseman against the prescribed editions before review."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the indicative content for Kindertransport, Curious Incident and Death and the King's Horseman against the prescribed editions before review."
 publishedDate: 2026-11-15
 featured: false
 ---

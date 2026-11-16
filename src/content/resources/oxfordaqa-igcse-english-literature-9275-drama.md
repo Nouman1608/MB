@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "drama-9275"
 description: "How to write about your set play as a text for performance in Paper 1 Section B of OxfordAQA International GCSE English Literature 9275, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

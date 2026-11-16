@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "Condensed notes for the 4ET1 Component 3 Assignment B heritage essay: AO split, five kinds of context, genre links, an 800-word budget and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

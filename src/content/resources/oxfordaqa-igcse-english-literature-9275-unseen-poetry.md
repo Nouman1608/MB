@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "unseen-poetry-route-b-9275"
 description: "A step-by-step method for the 30-mark unseen poetry question in OxfordAQA International GCSE English Literature 9275, for Route A and Route B, with a worked poem."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem, with no separate comparison task."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem, with no separate comparison task."
 ---
 
 This guide covers **unseen poetry** in OxfordAQA International GCSE English Literature (9275). It

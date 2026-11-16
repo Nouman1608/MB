@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "aangan-khadija-mastur-9ur0"
 description: "Condensed 9UR0 notes on the prescribed novel Aangan (آنگن) by Khadija Mastur (1999): how it is examined, preparation angles and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

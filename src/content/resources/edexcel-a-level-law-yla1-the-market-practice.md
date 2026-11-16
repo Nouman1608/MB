@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-market-yla1"
 description: "Original practice questions on YLA1 section 2.1 The market, from offer and acceptance to consumer remedies, frustration and negligence, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

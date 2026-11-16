@@ -11,7 +11,10 @@ syllabusSeries: "Version 1.4 (1 September 2025), for teaching from September 202
 order: 3
 description: "Plan your revision for the three AQA A-Level Psychology 7182 papers: section marks, the content on each paper, timing per mark and a worked research methods answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,7 +11,10 @@ syllabusSeries: "Issue 3"
 order: 3
 description: "How to prepare for Pearson Edexcel International Advanced Level Physics YPH11: six externally assessed units, practical skills papers, timing and a Young modulus example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching from September 2015"
 order: 0
 description: "An overview of AQA A-Level Economics (7136): the microeconomic and macroeconomic halves, three two-hour papers, the synoptic Paper 3 and a two-year study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

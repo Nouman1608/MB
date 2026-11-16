@@ -11,9 +11,10 @@ syllabusCodes: ["8700"]
 order: 1
 description: "AQA GCSE English Language 8700 past papers guide with grade thresholds from June 2024 to June 2026 and our notes on the examiner reports for four series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "No June 2026 examiner report was available, and the November 2024 and earlier series are not covered, so coverage is limited to four series."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No June 2026 examiner report was available, and the November 2024 and earlier series are not covered, so coverage is limited to four series."
 publishedDate: 2026-11-15
 featured: false
 ---

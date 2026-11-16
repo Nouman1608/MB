@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "An overview of Cambridge IGCSE Mathematics 0580: nine content areas, Core and Extended tiers, calculator and non-calculator papers, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

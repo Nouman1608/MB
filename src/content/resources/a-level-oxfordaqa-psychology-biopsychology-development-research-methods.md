@@ -24,10 +24,10 @@ syllabusTopics:
     subtopic: "research-methods-1-9685"
 description: "Study guide to Unit 2 of OxfordAQA International AS and A-Level Psychology (9685): biopsychology, cognitive development and research methods 1."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

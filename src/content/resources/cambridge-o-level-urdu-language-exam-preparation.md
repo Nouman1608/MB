@@ -11,9 +11,10 @@ syllabusSeries: "3247: 2027; 3248: 2027-2029"
 order: 3
 description: "How to prepare for Cambridge O Level Urdu 3247 (First Language) and 3248 (Second Language): two written papers each, timing per mark, and a worked writing plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Paper contents beyond the record's titles and notes (question types within each paper) are kept general; check the 3247 and 3248 syllabuses before adding detail."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Paper contents beyond the record's titles and notes (question types within each paper) are kept general; check the 3247 and 3248 syllabuses before adding detail."
 publishedDate: 2026-11-15
 featured: false
 ---

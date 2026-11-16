@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-a-modern-drama-4et1"
 description: "How to write the 30-mark Assignment A modern drama coursework essay for Edexcel IGCSE English Literature 4ET1 Component 3, analysing a play as performance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

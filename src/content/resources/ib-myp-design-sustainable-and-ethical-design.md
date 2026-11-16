@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "ib-myp-design-related-concepts"
 description: "IB MYP Design study guide on life-cycle thinking, materials choice, ergonomics, inclusive design and data ethics, with worked examples for A and D."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---

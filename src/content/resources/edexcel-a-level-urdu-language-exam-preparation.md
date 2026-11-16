@@ -11,11 +11,12 @@ syllabusSeries: "2018"
 order: 3
 description: "How to prepare for Pearson Edexcel A-Level Urdu 9UR0: translation both ways, a research-based writing task, response to works and a listening paper, with timings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains original Urdu text (model paragraph and translation sentence) that an Urdu specialist should read, and per-section minute estimates derived from marks; also confirm the fourth 9UR0 theme name."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains original Urdu text (model paragraph and translation sentence) that an Urdu specialist should read, and per-section minute estimates derived from marks; also confirm the fourth 9UR0 theme name."
 ---
 
 Pearson Edexcel A-Level Urdu (9UR0) is a linear qualification assessed by three externally assessed written papers, all sat together in one May/June series. Paper 1 (9UR0/01) is Translation into English, Reading Comprehension and Writing (Research Question) in Urdu: 2 hours 30 minutes, 80 marks, 40%. Paper 2 (9UR0/02) is Translation into Urdu and Written Response to Works: 2 hours 40 minutes, 110 marks, 30%. Paper 3 (9UR0/03) is Listening, Reading and Writing in Urdu: 2 hours 15 minutes, 60 marks, 30%. This is the UK-regulated Level 3 Advanced GCE in Urdu, not an International Advanced Level, and it has no separate AS certification route. The site's pages on [Translation and Reading](/resources/a-level-edexcel-urdu-translation-and-reading/), [Translation and Works](/resources/a-level-edexcel-urdu-translation-and-works/) and [Listening, Reading and Writing](/resources/a-level-edexcel-urdu-listening-reading-writing/) cover each paper in more detail.

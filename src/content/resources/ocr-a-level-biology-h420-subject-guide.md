@@ -10,7 +10,10 @@ syllabusSeries: "Version 4.1 (April 2026), for first assessment in 2025"
 order: 0
 description: "How OCR A Level Biology A (H420) is organised: six modules, three linear papers totalling 270 marks, the synoptic Paper 3 and the Practical Endorsement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

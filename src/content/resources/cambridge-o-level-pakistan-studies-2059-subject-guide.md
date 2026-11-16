@@ -10,11 +10,12 @@ syllabusSeries: "2026"
 order: 0
 description: "An overview of Cambridge O Level Pakistan Studies (2059): its history and environment papers, question choices, assessment weightings and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: This page describes the 2026 single-year syllabus edition; later 2027 and 2028-2030 editions exist and are not described here, so check which edition the page should cover."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "This page describes the 2026 single-year syllabus edition; later 2027 and 2028-2030 editions exist and are not described here, so check which edition the page should cover."
 ---
 
 Cambridge O Level Pakistan Studies (2059) is a two-part course that asks

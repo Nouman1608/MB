@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
 description: "Condensed recall notes on YLA1 section 1.1: rules and law, civil and criminal liability, the seven theories of punishment, legal theory and law and morality."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

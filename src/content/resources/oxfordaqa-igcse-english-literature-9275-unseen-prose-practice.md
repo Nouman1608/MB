@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-prose-9275"
 description: "Original unseen prose extracts with short skills questions and two 30-mark tasks for OxfordAQA 9275 Paper 2a Section C (Route A), with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

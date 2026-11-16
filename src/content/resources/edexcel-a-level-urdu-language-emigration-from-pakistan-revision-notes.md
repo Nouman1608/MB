@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "emigration-from-pakistan-research-subject-9ur0"
 description: "Condensed 9UR0 Theme 3.3 notes on emigration from Pakistan, the research subject: push and pull factors, remittances, brain drain and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

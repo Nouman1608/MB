@@ -11,7 +11,10 @@ syllabusSeries: "2026"
 order: 3
 description: "How to prepare for Cambridge O Level Pakistan Studies 2059: two 75-mark papers, choosing essays and questions, timing per mark and a worked essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

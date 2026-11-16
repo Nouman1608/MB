@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-13-2"
 description: "Condensed IB DP Geography notes on 13.2: climate, biodiversity, pollution, pandemic and hazard risks, and the hazard, exposure and vulnerability and pressure and release models, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

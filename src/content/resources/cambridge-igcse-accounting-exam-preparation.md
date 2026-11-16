@@ -11,7 +11,10 @@ syllabusSeries: "2027-2029"
 order: 3
 description: "How to prepare for the two Cambridge IGCSE Accounting 0452 papers: 40 multiple-choice questions and five compulsory 20-mark questions, with timing and a worked trading account."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

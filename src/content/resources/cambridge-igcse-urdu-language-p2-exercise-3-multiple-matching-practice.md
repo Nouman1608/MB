@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "p2-exercise-3-multiple-matching-0539"
 description: "Original read-aloud speaker extracts for the multiple matching exercise in Paper 2 of Cambridge IGCSE Urdu 0539, with extra options, attitude questions and answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text; the use of two extra options is a practice design choice, as the syllabus does not state the number of options."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text; the use of two extra options is a practice design choice, as the syllabus does not state the number of options."
 publishedDate: 2026-11-15
 featured: false
 ---

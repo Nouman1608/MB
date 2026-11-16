@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-global-contexts"
 description: "Original MYP Individuals and Societies practice questions on global contexts, statements of inquiry and research questions, with worked answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-10-04
 featured: false
 ---

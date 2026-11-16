@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-dynamics-2217"
 description: "Quick-recall notes for 2217 sub-topic 1.1: rates of change, why world population grew, over- and under-population, and how to evaluate population policies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

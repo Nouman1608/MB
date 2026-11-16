@@ -10,9 +10,10 @@ syllabusSeries: "For first assessment in 2016"
 order: 0
 description: "How OCR AS Level Economics (H060) is organised: seven topics across microeconomics and macroeconomics, assessed by two synoptic 60-mark papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Topics and paper format come from H060 specification text headed 'For first assessment in 2016', while the source course page is OCR's 'from 2019' page; confirm both match the H060 specification currently in use."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Topics and paper format come from H060 specification text headed 'For first assessment in 2016', while the source course page is OCR's 'from 2019' page; confirm both match the H060 specification currently in use."
 publishedDate: 2026-11-15
 featured: false
 ---

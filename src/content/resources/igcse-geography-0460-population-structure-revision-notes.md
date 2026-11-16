@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-structure-0460"
 description: "Condensed IGCSE Geography 0460 notes on 1.3: reading population pyramids, the dependency ratio, youthful and ageing populations and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

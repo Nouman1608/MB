@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "jobs-career-choices-9264"
 description: "Theme 3 Topic 4 of OxfordAQA International GCSE Urdu (9264): professions, part-time work, بننا چاہنا with reasons, job priorities and conditions, with examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, and that the topic scope matches section 3.1.3 of the specification."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, and that the topic scope matches section 3.1.3 of the specification."
 ---
 
 This guide goes deeper on one topic: **Theme 3, Topic 4 Jobs, Career Choices and Ambitions** in

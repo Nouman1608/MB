@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-6-1"
 description: "Condensed IB DP Geography notes on 6.1 Food and health: food security dimensions, measures of nutrition and health, BMI and DALYs, the nutrition transition and data limits, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

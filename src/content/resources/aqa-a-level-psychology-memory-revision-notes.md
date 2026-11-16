@@ -15,10 +15,10 @@ syllabusTopics:
     subtopic: "memory-7182"
 description: "Revision notes on the multi-store and working memory models for AQA A-Level Psychology (7182) Memory: coding, capacity, duration and each component's role."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-03
 featured: false
 ---

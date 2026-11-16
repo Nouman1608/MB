@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "education-post-16-9264"
 description: "Condensed recall for Theme 3 Topic 3 Education Post-16 in OxfordAQA IGCSE Urdu (9264): study-route vocabulary, future and intention forms, pros and cons, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The Urdu terms, example sentences and self-test answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The Urdu terms, example sentences and self-test answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 Condensed for final review. For the full explanation and worked examples, use the

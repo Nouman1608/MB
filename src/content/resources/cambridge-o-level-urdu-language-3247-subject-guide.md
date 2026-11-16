@@ -10,7 +10,10 @@ syllabusSeries: "3247: 2027; 3248: 2027-2029"
 order: 0
 description: "How Cambridge O Level Urdu is organised as two syllabuses, First Language 3247 and Second Language 3248, with the papers, timings and weightings of each."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

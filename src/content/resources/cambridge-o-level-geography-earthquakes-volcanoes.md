@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "earthquakes-volcanoes-2217"
 description: "Cambridge O Level Geography 2217 sub-topic 2.1: volcano and earthquake features, plate boundaries, effects, hazards and opportunities, and reducing impacts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

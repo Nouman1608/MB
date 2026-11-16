@@ -11,7 +11,10 @@ syllabusSeries: "2028"
 order: 3
 description: "How to prepare for Cambridge IGCSE Commerce 0715: a 40-mark multiple choice Paper 1 and an 80-mark written Paper 2, with timing, calculations and a worked answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

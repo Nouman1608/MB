@@ -11,7 +11,10 @@ syllabusSeries: "2026"
 order: 3
 description: "Prepare for the four Cambridge A-Level Computer Science 9618 papers: theory, programming and the practical, timing per mark and a worked file-size and trace answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

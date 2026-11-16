@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "unseen-prose-9275"
 description: "Condensed notes on Paper 2a Section C unseen prose (Route A) for OxfordAQA 9275: prose methods, key terms, a 45-minute method and a quick self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "For teaching from September 2017, exams from May/June 2019"
 order: 0
 description: "An overview of OxfordAQA International GCSE Computer Science (9210): its eight topics, the on-screen programming paper and the concepts paper, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

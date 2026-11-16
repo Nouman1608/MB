@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "the-market-yla1"
 description: "A deep dive into YLA1 section 2.1 The market: contract formation, terms, consumer rights, validity, discharge and privity, and negligence as an alternative claim."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification heads 2.1.6 to 2.1.8 'Liability in negligence as an alternative to contract'; this page presents negligence as a second basis of liability in the market, while the Paper 2 guide calls it an alternative route of study. Please confirm which reading is correct."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The specification heads 2.1.6 to 2.1.8 'Liability in negligence as an alternative to contract'; this page presents negligence as a second basis of liability in the market, while the Paper 2 guide calls it an alternative route of study. Please confirm which reading is correct."
 ---
 
 This guide covers **section 2.1, The market**, the first of the three sections of Paper 2 (The Law in Action) in Pearson Edexcel International Advanced Level Law, Issue 4. The [Law in Action guide](/resources/a-level-edexcel-law-the-law-in-action/) sets out each rule briefly. This page adds the leading cases, shows how the rules are applied to a scenario, and explains how negligence fits alongside contract.

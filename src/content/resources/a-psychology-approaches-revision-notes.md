@@ -27,10 +27,10 @@ syllabusTopics:
     subtopic: "social-approach-9990"
 description: "Revision notes on the four approaches, the 12 core studies and the five AS Level issues and debates for Cambridge AS & A Level Psychology 9990 Paper 1."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

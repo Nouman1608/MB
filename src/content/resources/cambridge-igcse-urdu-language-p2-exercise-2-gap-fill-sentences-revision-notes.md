@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "p2-exercise-2-gap-fill-sentences-0539"
 description: "Quick-recall notes for Paper 2 Exercise 2 of Cambridge IGCSE Urdu 0539: gap types, grammar clues for prediction, then-and-now traps, routine and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text, especially the grammar-clue examples."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text, especially the grammar-clue examples."
 publishedDate: 2026-11-15
 featured: false
 ---

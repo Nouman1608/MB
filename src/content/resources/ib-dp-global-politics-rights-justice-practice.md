@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-rights-and-justice"
 description: "Original IB DP Global Politics practice questions on Rights and justice, with worked answers using power, sovereignty, legitimacy and interdependence."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-unseen-poetry-4et1"
 description: "Quick-recall notes for the 4ET1 Paper 1 unseen poem: the 20-mark AO2 task, a five-step reading method, key poetic terms and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

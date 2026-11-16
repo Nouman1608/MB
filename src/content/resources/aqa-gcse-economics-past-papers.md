@@ -11,9 +11,10 @@ syllabusCodes: ["8136"]
 order: 1
 description: "8136 GCSE Economics past papers guide: AQA grade thresholds for June 2024 and June 2025 with our notes on the examiner reports for both papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Notes cover the parts of each report we read, mainly the multiple-choice and short-answer questions plus most of the extended ones; June 2026 documents were not retrievable."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Notes cover the parts of each report we read, mainly the multiple-choice and short-answer questions plus most of the extended ones; June 2026 documents were not retrievable."
 publishedDate: 2026-11-15
 featured: false
 ---

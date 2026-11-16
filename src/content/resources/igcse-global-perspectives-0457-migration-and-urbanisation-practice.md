@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "migration-and-urbanisation-0457"
 description: "Original source-based 0457 questions on migration and urbanisation, with marked answers plus Individual Report and Team Project planning tasks."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

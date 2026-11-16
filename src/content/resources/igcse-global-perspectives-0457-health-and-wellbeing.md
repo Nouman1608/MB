@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "health-and-wellbeing-0457"
 description: "Use the 0457 topic Health and wellbeing to practise issues, perspectives, causes, consequences, judging evidence and choosing courses of action."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

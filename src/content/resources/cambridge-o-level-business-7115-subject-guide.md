@@ -10,11 +10,12 @@ syllabusSeries: "2026"
 order: 0
 description: "How Cambridge O Level Business Studies (7115) is structured: six topics, a short-answer paper and a case-study paper of equal weight, and a plan for study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The assessment record covers only the single-year 2026 edition of 7115 (first and final assessment 2026), so the page needs checking against the syllabus Cambridge publishes for later series."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The assessment record covers only the single-year 2026 edition of 7115 (first and final assessment 2026), so the page needs checking against the syllabus Cambridge publishes for later series."
 ---
 
 Cambridge O Level Business Studies (7115) is a course in how businesses

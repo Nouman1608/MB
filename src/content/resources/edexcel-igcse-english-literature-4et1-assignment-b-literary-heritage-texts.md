@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-b-literary-heritage-texts-4et1"
 description: "How to write the 30-mark Assignment B literary heritage coursework essay for Edexcel IGCSE English Literature 4ET1, fitting AO4 context into 800 words."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

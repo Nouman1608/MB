@@ -11,7 +11,10 @@ syllabusSeries: "2027-2029"
 order: 3
 description: "How to prepare for Cambridge O Level Accounting 7707: a 40-mark multiple choice paper and a 100-mark structured paper, with timing per mark and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

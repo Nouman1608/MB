@@ -11,7 +11,10 @@ syllabusSeries: "2026"
 order: 3
 description: "How to prepare for Cambridge O Level Economics 2281: the 45-minute multiple choice Paper 1 and the 2h15 structured Paper 2, with timing and a worked elasticity example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

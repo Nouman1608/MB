@@ -10,7 +10,10 @@ syllabusSeries: "International AS exams from May/June 2018, International A-leve
 order: 0
 description: "How OxfordAQA International AS and A-level Mathematics (9660) is structured: units P1, PSM1 and P2, the S2-or-M2 choice, weightings and a plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

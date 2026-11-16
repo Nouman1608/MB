@@ -10,9 +10,10 @@ syllabusSeries: "2025-2026"
 order: 0
 description: "How Cambridge International AS & A Level Geography (9696) is built: core physical and human topics, advanced options, four papers and the staged route."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Confirm against the 2025-2026 syllabus how the A Level option topics map to Papers 3 and 4 and how many options candidates answer; the page infers the mapping from paper titles and topic stages."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Confirm against the 2025-2026 syllabus how the A Level option topics map to Papers 3 and 4 and how many options candidates answer; the page infers the mapping from paper titles and topic stages."
 publishedDate: 2026-11-15
 featured: false
 ---

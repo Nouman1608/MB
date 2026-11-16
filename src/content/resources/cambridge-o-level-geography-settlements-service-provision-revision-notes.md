@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "settlements-service-provision-2217"
 description: "Quick-recall notes for 2217 sub-topic 1.5: settlement patterns, site factors, functions, threshold, range, sphere of influence and changing service provision."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

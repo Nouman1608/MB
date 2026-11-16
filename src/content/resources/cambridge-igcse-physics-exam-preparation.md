@@ -11,7 +11,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 3
 description: "How to prepare for Cambridge IGCSE Physics 0625: Core and Extended multiple choice and theory, plus the Paper 5 or Paper 6 practical route, with timing and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

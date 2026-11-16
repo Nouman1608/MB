@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bisaat-basir-kazmi-9ur0"
 description: "Condensed 9UR0 notes on the prescribed play Bisaat (بساط) by Baseer Kazmi (1987): how it is examined, form and technique, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

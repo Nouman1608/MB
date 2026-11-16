@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-cognitive-approach"
 description: "Study guide to the IB DP Psychology cognitive approach on Paper 1: memory, perception, thinking, reconstructive memory and schema theory, with worked examples."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "Condensed revision notes on choosing a question, sourcing, evaluating perspectives and referencing for the Cambridge AS Level Global Perspectives 9239 Essay."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-03
 featured: false
 ---

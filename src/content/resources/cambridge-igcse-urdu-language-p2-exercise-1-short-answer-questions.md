@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "p2-exercise-1-short-answer-questions-0539"
 description: "How to tackle the short answer listening questions in Paper 2 of Cambridge IGCSE Urdu 0539: announcements, phone messages, numbers, times and changed details."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text, including the number and time tables and the sample announcement."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text, including the number and time tables and the sample announcement."
 publishedDate: 2026-11-15
 featured: false
 ---

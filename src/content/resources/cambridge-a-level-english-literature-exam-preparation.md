@@ -11,7 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "How to prepare for the four Cambridge A-Level English Literature 9695 papers: AS Papers 1 and 2, A2 Papers 3 and 4, timing per mark and a worked unseen paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

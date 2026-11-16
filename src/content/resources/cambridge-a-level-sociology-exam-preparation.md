@@ -11,9 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "How to prepare for Cambridge A Level Sociology 9699: four papers with an uneven 25, 25, 21 and 29 per cent split, timing per mark and a worked essay-paragraph model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the section structure, mark allocation by question and any essay or source-based formats on each paper against the 2024-2026 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the section structure, mark allocation by question and any essay or source-based formats on each paper against the 2024-2026 syllabus; only record titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

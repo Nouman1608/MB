@@ -10,7 +10,10 @@ syllabusSeries: "First assessment 2025"
 order: 0
 description: "An overview of IB DP Physics: themes A to E, the HL-only topics, Papers 1A, 1B and 2, the scientific investigation and how SL and HL papers compare."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

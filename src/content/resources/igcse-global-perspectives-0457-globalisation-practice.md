@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "globalisation-0457"
 description: "Original source-based questions on globalisation for Cambridge IGCSE Global Perspectives 0457, with mark-by-mark answers and report and project planning tasks."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

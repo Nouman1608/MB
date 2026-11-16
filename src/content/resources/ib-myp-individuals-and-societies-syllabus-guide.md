@@ -13,10 +13,10 @@ syllabusSeries: "From 2014"
 order: 2
 description: "The IB MYP Individuals and Societies framework: discipline options, key and related concepts, the four criteria A to D, teaching hours and on-screen exam tasks."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

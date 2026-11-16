@@ -10,7 +10,10 @@ syllabusSeries: "2024-onwards"
 order: 0
 description: "How OxfordAQA International AS and A-level Accounting (9615) is organised: twenty topics across AS and A2, four modular papers and a stage-by-stage plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

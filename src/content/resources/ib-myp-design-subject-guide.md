@@ -8,10 +8,10 @@ qualifications: ["ib-myp"]
 syllabusCodes: ["MYP Design"]
 description: "An overview of IB Middle Years Programme Design -- applying the design cycle to solve practical, real-world problems, for ages 11-16."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

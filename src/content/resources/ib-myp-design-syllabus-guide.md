@@ -11,10 +11,10 @@ syllabusSeries: "From 2014"
 order: 2
 description: "The IB MYP Design framework: the design cycle, key and related concepts, the four assessment criteria A to D, teaching hours and how the ePortfolio works."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

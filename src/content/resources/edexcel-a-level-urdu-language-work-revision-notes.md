@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "kaam-work-9ur0"
 description: "Condensed 9UR0 Theme 1.2 notes on work (کام): types of work, women's employment, unemployment, technology, vocabulary and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

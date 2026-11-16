@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-1-4"
 description: "Condensed IB DP Geography notes on 1.4 Freshwater: supply-side and demand-side strategies, integrated water resources management and sustainability, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

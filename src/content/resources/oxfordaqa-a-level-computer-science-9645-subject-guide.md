@@ -10,7 +10,10 @@ syllabusSeries: "2024-onwards"
 order: 0
 description: "How OxfordAQA International AS and A-level Computer Science (9645) is organised: sixteen topics, four modular papers, on-screen programming and written theory."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

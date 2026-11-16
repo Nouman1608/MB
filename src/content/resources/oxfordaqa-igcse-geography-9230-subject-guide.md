@@ -10,7 +10,10 @@ syllabusSeries: "Version 4.3"
 order: 0
 description: "An overview of OxfordAQA International GCSE Geography (9230): physical and human environments, a fieldwork skills paper, and three papers weighted 36/36/28."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

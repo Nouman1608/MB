@@ -10,7 +10,10 @@ syllabusSeries: "2015-onwards"
 order: 0
 description: "How AQA A-Level Computer Science (7517) works: 13 content areas, an on-screen paper, a written paper and the practical project, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

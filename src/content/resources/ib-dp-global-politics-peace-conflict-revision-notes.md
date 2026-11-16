@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-peace-and-conflict"
 description: "Condensed revision notes on the IB DP Global Politics Peace and conflict thematic study: conflict types, six causes, peace approaches and self-test questions."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

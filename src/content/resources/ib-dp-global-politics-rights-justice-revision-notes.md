@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-rights-and-justice"
 description: "Condensed revision notes on the IB DP Global Politics Rights and justice thematic study: the four core concepts, named institutions, case banks and Paper 2."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-03
 featured: false
 ---

@@ -19,10 +19,10 @@ syllabusTopics:
     subtopic: "psychology-of-sleep-9685"
 description: "Revision notes for OxfordAQA 9685 Psychology of sleep: key terms, studies at a glance, must-know distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

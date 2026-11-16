@@ -11,9 +11,10 @@ syllabusSeries: "Issue 1, October 2016"
 order: 3
 description: "How to prepare for Pearson Edexcel IGCSE Accounting 4AC1: Paper 1 (2 hours, 100 marks) and Paper 2 (1 hour 15 minutes, 50 marks), timing, method and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Paper-to-topic mapping and question styles are kept general because the verified record gives only paper titles, timings and marks; check the specification and sample assessments for what each paper contains."
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Paper-to-topic mapping and question styles are kept general because the verified record gives only paper titles, timings and marks; check the specification and sample assessments for what each paper contains."
 publishedDate: 2026-11-15
 featured: false
 ---

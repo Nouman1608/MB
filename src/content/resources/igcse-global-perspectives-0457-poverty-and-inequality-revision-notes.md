@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "poverty-and-inequality-0457"
 description: "Quick revision of poverty and inequality for 0457: key terms, real examples to evaluate, source traps, an essay plan and a self-test with answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "research-methods-8182"
 description: "Original practice questions on 3.1.4 Research Methods for AQA GCSE Psychology 8182: hypotheses, sampling, designs, ethics, calculations and a planning task."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "world-cities-london-new-york-9230"
 description: "Quick-recall notes for OxfordAQA IGCSE Geography 9230 world cities: London and New York facts, migration, challenges, Docklands regeneration and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

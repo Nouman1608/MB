@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-3-4"
 description: "Condensed IB DP Geography notes on 3.4 Extreme environments: climate change impacts in cold and arid areas, feedbacks, scenarios, vulnerability and resilience, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

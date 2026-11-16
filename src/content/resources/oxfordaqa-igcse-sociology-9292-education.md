@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "education-9292"
 description: "A deep dive into 3.1.2 Education for OxfordAQA IGCSE Sociology 9292: schooling, three perspectives, labelling, subcultures, attainment gaps and global education."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The specification names Samson among the sociologists for 3.1.2; this page lists the name but does not describe the work, which a sociology specialist should add."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The specification names Samson among the sociologists for 3.1.2; this page lists the name but does not describe the work, which a sociology specialist should add."
 ---
 
 This guide covers **section 3.1.2 Education**, Section B of Paper 1 (Introducing Sociology) in OxfordAQA International GCSE Sociology (9292). Section B is worth **22 of the paper's 60 marks**, through short and extended response questions. The [Introducing Sociology guide](/resources/igcse-oxfordaqa-sociology-introducing-sociology/) outlines all of Paper 1 and summarises global education; this page goes deeper into the rest of education, with the studies and examples you need.

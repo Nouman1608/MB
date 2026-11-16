@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "bin-roye-momina-duraid-9ur0"
 description: "Condensed 9UR0 notes on the prescribed film Bin Roye (بن روئے), Momina Duraid (2015): how a film is examined, approach and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "attitudes-towards-immigration-9ur0"
 description: "Condensed 9UR0 Theme 3.2 notes on attitudes towards immigration: welcoming and sceptical views, prejudice, integration, vocabulary and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

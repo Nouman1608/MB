@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "climate-natural-vegetation-0460"
 description: "Condensed IGCSE Geography 0460 notes on 2.5: equatorial and hot desert climates, climate factors, rainforest and desert ecosystems, deforestation and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

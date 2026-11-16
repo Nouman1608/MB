@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "Original practice on comparing poems for the OxfordAQA 9275 anthology question, Route A and Route B: short skills tasks and 30-mark comparisons, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate), so the Section B tasks mirror it."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate), so the Section B tasks mirror it."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on this

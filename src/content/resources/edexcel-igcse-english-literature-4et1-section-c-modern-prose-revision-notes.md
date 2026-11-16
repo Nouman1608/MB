@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-c-modern-prose-4et1"
 description: "Recall notes for the closed-book 4ET1 modern prose essay: AO1 and AO4, the set novels, a four-moment plan, quotation bank tips and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,9 +11,10 @@ syllabusCodes: ["4CH1"]
 order: 1
 description: "4CH1 International GCSE Chemistry past papers guide: our notes on the Pearson Edexcel examiner reports for June and November 2025, with a note on thresholds."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Grade thresholds could not be retrieved from a Pearson document, so none are shown; only the June 2025 and November 2025 examiner reports are summarised."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Grade thresholds could not be retrieved from a Pearson document, so none are shown; only the June 2025 and November 2025 examiner reports are summarised."
 publishedDate: 2026-11-15
 featured: false
 ---

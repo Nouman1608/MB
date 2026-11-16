@@ -29,10 +29,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9218"
 description: "Study guide to OxfordAQA International GCSE Psychology (9218) Paper 1: memory, perception, biopsychology and research methods, with key studies and examples."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-08-21
 featured: false
 ---

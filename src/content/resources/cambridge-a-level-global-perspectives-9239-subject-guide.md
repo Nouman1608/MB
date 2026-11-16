@@ -10,11 +10,12 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "How Cambridge A Level Global Perspectives & Research 9239 works: three AS components, the Cambridge Research Report, weightings and a staged study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the general descriptions of what the Written Exam, Essay and Team Project ask students to do against the 2026-2028 syllabus; only component titles, marks, weightings, word limits and the staged route came from the assessment record."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Check the general descriptions of what the Written Exam, Essay and Team Project ask students to do against the 2026-2028 syllabus; only component titles, marks, weightings, word limits and the staged route came from the assessment record."
 ---
 
 Cambridge International AS & A Level Global Perspectives & Research (9239) is a skills-based course: rather than a list of content topics, it is organised around four pieces of assessed work that train you to research, analyse arguments, collaborate and reflect. The AS Level is made up of three components, and the full A Level adds a fourth, the Cambridge Research Report, which on its own carries 50% of the A Level. Measured as shares of the full A Level, Component 1, the Written Exam (1 hour 30 minutes, 45 marks), is worth 18%, Component 2, the Essay (40 marks), 16%, and Component 3, the Team Project (40 marks), 16%. Students often take it alongside other A Levels because the skills transfer so readily. This overview explains how the components fit together and how to plan the work.

@@ -10,7 +10,10 @@ syllabusSeries: "2015-onwards"
 order: 0
 description: "How Pearson Edexcel International A Level Accounting YAC11 is built from two 200-mark units, what each unit covers and how to plan study across both."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

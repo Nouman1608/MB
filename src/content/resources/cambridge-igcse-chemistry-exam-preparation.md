@@ -11,7 +11,10 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for Cambridge IGCSE Chemistry 0620: Core Papers 1 and 3, Extended Papers 2 and 4, and the choice of Paper 5 or Paper 6 for practical skills."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

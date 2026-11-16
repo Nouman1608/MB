@@ -11,9 +11,10 @@ syllabusCodes: ["YCH11"]
 order: 1
 description: "YCH11 Edexcel International A Level Chemistry past papers guide: where to find official papers, plus our notes on the June 2025 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Grade thresholds could not be retrieved from a Pearson document, and only the June 2025 Units 4 to 6 examiner reports are summarised."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Grade thresholds could not be retrieved from a Pearson document, and only the June 2025 Units 4 to 6 examiner reports are summarised."
 publishedDate: 2026-11-15
 featured: false
 ---

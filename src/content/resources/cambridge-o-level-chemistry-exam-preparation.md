@@ -11,7 +11,10 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for Cambridge O Level Chemistry 5070: Paper 1 multiple choice, Paper 2 theory, and a choice between the Paper 3 practical test and Paper 4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

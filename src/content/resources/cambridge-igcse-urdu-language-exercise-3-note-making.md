@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-3-note-making-0539"
 description: "Making brief notes under supplied headings in 0539 Paper 1 Exercise 3: reading a longer Urdu text, cutting sentences to notes, keeping points under the right heading."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains an original Urdu paragraph, sample notes and reduced phrases; an Urdu specialist should check that every Urdu item is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains an original Urdu paragraph, sample notes and reduced phrases; an Urdu specialist should check that every Urdu item is correct and natural."
 ---
 
 Exercise 3 of **Paper 1 Reading and Writing** in Cambridge IGCSE Urdu as a Second Language (0539) is

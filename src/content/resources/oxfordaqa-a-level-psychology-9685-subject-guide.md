@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.1"
 order: 0
 description: "OxfordAQA International AS and A-level Psychology (9685): four units, two AS and two A-level papers, resits, research methods and a synoptic final paper."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

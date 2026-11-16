@@ -10,7 +10,10 @@ syllabusSeries: "Version 1.1"
 order: 0
 description: "An overview of OxfordAQA International GCSE Psychology (9218): two papers on cognition and social context, research methods in both, and no component resits."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

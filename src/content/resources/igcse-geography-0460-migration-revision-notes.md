@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "migration-0460"
 description: "Condensed IGCSE Geography 0460 notes on 1.2: types of migration, push and pull factors, impacts on source and receiving countries and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

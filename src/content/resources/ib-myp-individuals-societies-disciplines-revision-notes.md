@@ -16,10 +16,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-eassessment-topics"
 description: "Revision notes on the disciplines IB MYP Individuals and Societies schools may teach and its three eAssessment subjects: history, geography and humanities."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-09-03
 featured: false
 ---

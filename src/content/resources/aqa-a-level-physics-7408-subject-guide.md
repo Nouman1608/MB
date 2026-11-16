@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2015"
 order: 0
 description: "How AQA A-Level Physics (7408) is structured: eight core sections, five optional topics, three papers and the practical skills section on Paper 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

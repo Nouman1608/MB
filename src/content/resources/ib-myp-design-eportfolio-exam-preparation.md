@@ -11,10 +11,10 @@ syllabusSeries: "From 2014"
 order: 9
 description: "A stage-by-stage checklist for the IB MYP Design ePortfolio: what to record at each design cycle stage so Criteria A to D are evidenced, not just the product."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

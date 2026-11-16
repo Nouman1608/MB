@@ -10,7 +10,10 @@ syllabusSeries: "Specification Issue 3, April 2019"
 order: 0
 description: "How Pearson Edexcel International A Level Mathematics YMA01 fits together: four pure units, one applied pair from five valid options, and six equal papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

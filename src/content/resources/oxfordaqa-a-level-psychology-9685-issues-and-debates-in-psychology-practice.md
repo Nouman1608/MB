@@ -19,10 +19,10 @@ syllabusTopics:
     subtopic: "issues-and-debates-9685"
 description: "Twelve original OxfordAQA 9685 issues and debates questions with fictional data, model answers, mark points and an examiner insight for each one."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

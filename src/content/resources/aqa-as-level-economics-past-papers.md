@@ -11,9 +11,10 @@ syllabusCodes: ["7135"]
 order: 1
 description: "7135 AS Level Economics past papers guide: AQA grade thresholds for June 2024 and June 2025 with our notes on the examiner reports for both papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The June 2024 report notes summarise only the opening sections of each report that we read; June 2026 documents were not retrievable."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The June 2024 report notes summarise only the opening sections of each report that we read; June 2026 documents were not retrievable."
 publishedDate: 2026-11-15
 featured: false
 ---

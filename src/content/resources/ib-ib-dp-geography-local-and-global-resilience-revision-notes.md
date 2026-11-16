@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-13-3"
 description: "Condensed IB DP Geography notes on 13.3: resilience, adaptation and mitigation, responses at local, national and global scales, and why resilience is unevenly available, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

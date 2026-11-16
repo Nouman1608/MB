@@ -10,7 +10,10 @@ syllabusSeries: "Issue 3, September 2024"
 order: 0
 description: "How Pearson Edexcel IGCSE Chemistry 4CH1 is organised: four content areas, two untiered papers weighted 61.1% and 38.9%, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

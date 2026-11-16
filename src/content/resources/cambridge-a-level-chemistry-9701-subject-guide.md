@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge International AS & A Level Chemistry (9701) is laid out: 37 topics in physical, inorganic and organic strands, five papers and the AS route."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

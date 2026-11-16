@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2015"
 order: 0
 description: "How AQA A-Level English Language (7702) is organised: three areas of study, two exam papers, the Language in Action NEA, and how to plan the two-year course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

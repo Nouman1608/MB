@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.2"
 order: 0
 description: "How OxfordAQA International AS and A-level Geography (9635) is organised: five units, a physical geography option, five papers of 20% each, and fieldwork."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

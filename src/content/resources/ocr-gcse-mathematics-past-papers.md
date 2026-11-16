@@ -11,11 +11,12 @@ syllabusCodes: ["J560"]
 order: 1
 description: "OCR GCSE Mathematics (J560) past papers guide: grade thresholds for June 2024 to June 2026 and examiner report notes for June 2024 and June 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Examiner report notes cover June 2024 and June 2025 only, drawn mainly from each paper's series overview; no June 2026 or November 2025 J560 examiner reports were available, so those series have grade thresholds only."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Examiner report notes cover June 2024 and June 2025 only, drawn mainly from each paper's series overview; no June 2026 or November 2025 J560 examiner reports were available, so those series have grade thresholds only."
 ---
 
 This page is a guide to OCR GCSE (9-1) Mathematics (J560) past papers from June 2024 to June 2026. For each series you get the grade thresholds, copied from OCR's grade-boundary documents, and for June 2025 and June 2024 a short account of what the examiners saw, written by us from OCR's examiner reports. We do not host any papers. Every paper, mark scheme and report is on OCR's own site or its teacher platform.

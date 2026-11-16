@@ -11,9 +11,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 3
 description: "How to prepare for Cambridge IGCSE Biology 0610: Core and Extended routes, multiple choice, theory, and the practical alternatives, with timing per mark and a worked osmosis calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the question styles within each paper, the content split between tiers and the practical skills examined on Papers 5 and 6 against the 2026-2028 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the question styles within each paper, the content split between tiers and the practical skills examined on Papers 5 and 6 against the 2026-2028 syllabus; only record titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

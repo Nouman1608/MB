@@ -11,9 +11,10 @@ syllabusCodes: ["8145"]
 order: 1
 description: "AQA GCSE History (8145) past papers guide with June 2026, 2025 and 2024 grade threshold ranges and our notes on the June 2025 and June 2024 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Thresholds are summarised as the lowest and highest boundary across AQA's listed option combinations, not every combination; no June 2026 examiner report was available."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Thresholds are summarised as the lowest and highest boundary across AQA's listed option combinations, not every combination; no June 2026 examiner report was available."
 publishedDate: 2026-11-15
 featured: false
 ---

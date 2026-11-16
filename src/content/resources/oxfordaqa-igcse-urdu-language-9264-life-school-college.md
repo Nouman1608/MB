@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "life-school-college-9264"
 description: "Theme 3 Topic 2 of OxfordAQA International GCSE Urdu (9264): facilities, uniform, rules with پڑنا and اجازت, routine and school events, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, including the guidance on agreement with پڑنا, and that the topic scope matches section 3.1.3 of the specification."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, including the guidance on agreement with پڑنا, and that the topic scope matches section 3.1.3 of the specification."
 ---
 
 This guide goes deeper on one topic: **Theme 3, Topic 2 Life at School/College** in OxfordAQA

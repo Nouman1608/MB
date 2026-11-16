@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching from September 2017"
 order: 0
 description: "How AQA GCSE Business (8132) fits together: six content topics, two 90-mark papers, the case-study style of assessment and how to plan two years of study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

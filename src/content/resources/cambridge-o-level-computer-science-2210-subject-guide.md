@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "An overview of Cambridge O Level Computer Science (2210): the ten syllabus topics, the Computer Systems and Programming papers, and a plan for the year."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

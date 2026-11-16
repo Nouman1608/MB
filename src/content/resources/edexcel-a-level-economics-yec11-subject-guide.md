@@ -10,7 +10,10 @@ syllabusSeries: "Issue 2, June 2018"
 order: 0
 description: "An overview of Pearson Edexcel International A Level Economics YEC11: four units worth 25% each, how the AS and A2 stages connect, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,9 +11,10 @@ syllabusCodes: ["7517"]
 order: 1
 description: "7517 A Level Computer Science past papers guide: AQA grade thresholds for June 2024 and June 2025 with our notes on the examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The report AQA lists for 7517/1 in June 2025 is the AS paper 7516/2 report, so Paper 1 has no June 2025 notes; June 2026 documents were not retrievable."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The report AQA lists for 7517/1 in June 2025 is the AS paper 7516/2 report, so Paper 1 has no June 2025 notes; June 2026 documents were not retrievable."
 publishedDate: 2026-11-15
 featured: false
 ---

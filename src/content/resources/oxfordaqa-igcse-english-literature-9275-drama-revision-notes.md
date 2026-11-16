@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "drama-9275"
 description: "Condensed notes on Paper 1 Section B drama for OxfordAQA 9275: dramatic methods, key terms, staging notes, the two question types and a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

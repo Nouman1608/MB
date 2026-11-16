@@ -30,6 +30,10 @@ syllabusTopics:
     subtopic: "advertising-9990"
 description: "Condensed revision notes for Cambridge 9990 Consumer Psychology: models, heuristics, key studies and exam traps for topics 2.1 to 2.5, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -18,10 +18,10 @@ syllabusTopics:
     subtopic: "addiction-7182"
 description: "Original AQA A-level Psychology 7182 Addiction questions with mark-by-mark answers: dependence, cue reactivity, gambling, therapies and Prochaska."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

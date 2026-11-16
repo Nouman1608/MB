@@ -10,7 +10,10 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "How Cambridge International AS & A Level English Language (9093) fits together: Reading, Writing, Language Analysis and Language Topics, the routes and planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

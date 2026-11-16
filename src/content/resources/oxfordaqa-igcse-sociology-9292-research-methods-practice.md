@@ -18,7 +18,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9292"
 description: "Original research methods practice for OxfordAQA IGCSE Sociology 9292 in both paper styles: an unseen data item, a field-notes extract and evaluation, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

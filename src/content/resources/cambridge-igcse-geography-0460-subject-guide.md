@@ -10,7 +10,10 @@ syllabusSeries: "2025-2026"
 order: 0
 description: "How Cambridge IGCSE Geography 0460 is organised: three themes, two compulsory papers, a choice of coursework or Paper 4, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

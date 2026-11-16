@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "resource-security-9635"
 description: "Condensed OxfordAQA 9635 notes on 3.2.2: resource security, renewable and non-renewable resources, scarcity, energy mix, conflict, sustainable management and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

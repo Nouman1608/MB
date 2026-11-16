@@ -10,7 +10,10 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "An overview of Cambridge O Level English Language (1123): the Reading and Writing papers, what each section asks of you, and how to plan a year of study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

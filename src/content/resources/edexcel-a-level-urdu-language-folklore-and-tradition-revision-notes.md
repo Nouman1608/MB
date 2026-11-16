@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "lok-rasoom-o-riwayat-folklore-9ur0"
 description: "Condensed 9UR0 Theme 2.1 notes on folklore and tradition (لوک رسوم و روایت): oral tradition, folk tales, festivals, vocabulary and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

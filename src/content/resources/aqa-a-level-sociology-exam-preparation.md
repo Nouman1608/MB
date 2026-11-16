@@ -11,7 +11,10 @@ syllabusSeries: "first teaching 2015"
 order: 3
 description: "Prepare for the three AQA A-Level Sociology 7192 papers: section marks, topic choices on Paper 2, timing per mark and a worked essay plan with a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

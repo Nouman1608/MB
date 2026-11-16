@@ -10,7 +10,10 @@ syllabusSeries: "2027"
 order: 0
 description: "How the new Cambridge IGCSE Statistics (0479) syllabus works: twelve topics, two equal calculator papers drawn from the whole course, and a plan for study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

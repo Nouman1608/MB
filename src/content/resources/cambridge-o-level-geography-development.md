@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "development-2217"
 description: "Cambridge O Level Geography 2217 subtopic 3.1: development indicators and HDI, inequality between and within countries, employment sectors, globalisation and TNCs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

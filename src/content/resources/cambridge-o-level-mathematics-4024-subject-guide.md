@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge O Level Mathematics 4024 is organised: nine content areas, one non-calculator and one calculator paper of equal weight, and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

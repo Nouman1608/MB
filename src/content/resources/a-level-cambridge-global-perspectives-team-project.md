@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "How the 9239 Team Project works: researching a local problem with global relevance, the individual presentation and reflective paper, for Cambridge AS Level."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

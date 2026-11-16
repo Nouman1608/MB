@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-2-4"
 description: "Condensed IB DP Geography notes on 2.4 Oceans and coastal margins: ocean governance, UNCLOS and EEZs, marine protected areas, pressures on oceans and adaptive management, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

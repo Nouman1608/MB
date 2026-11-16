@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-living-with-hazards-9635"
 description: "Condensed OxfordAQA 9635 notes on 3.1.1: hazard and risk, plate margins, tectonic, storm and wildfire hazards, management, required case studies and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

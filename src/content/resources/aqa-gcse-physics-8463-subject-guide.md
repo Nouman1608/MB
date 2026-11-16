@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2016"
 order: 0
 description: "What AQA GCSE Physics (8463) covers: eight topics split across two equally weighted papers, Foundation and Higher tiers, and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

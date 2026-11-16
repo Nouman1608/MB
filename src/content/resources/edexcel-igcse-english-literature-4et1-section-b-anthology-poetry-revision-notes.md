@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-anthology-poetry-4et1"
 description: "Recall notes for the 4ET1 anthology comparison essay: AO2 and AO3, poem forms, pairing grid, comparative sentence frames and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

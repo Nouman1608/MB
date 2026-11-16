@@ -26,10 +26,10 @@ syllabusTopics:
     subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Original exam-style practice questions with full worked answers on social influence, memory, attachment, and clinical psychology and mental health."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-08-22
 featured: false
 ---

@@ -10,12 +10,13 @@ image: "/images/faculty/ammar-bilal.jpg"
 entityType: person
 yearsExperience: 2
 subjectsTaught: ["English Literature", "English", "Language A: Literature", "Language A: Language and Literature", "Language B", "Language Acquisition (MYP)"]
+subjectsReviewed: ["Global Perspectives"]
 boardsTaught: ["cambridge", "edexcel", "aqa", "oxfordaqa", "ib"]
 apCoursesReviewed: ["english-language-and-composition", "english-literature-and-composition"]
 qualificationsTaught: []
 previousSchools: []
 isReviewer: true
-sourceNote: "Confirmed in writing by Nouman Ahmed, owner, 1 October 2026. Years of teaching experience (2) confirmed by Nouman Ahmed, owner, 15 November 2026."
+sourceNote: "Confirmed in writing by Nouman Ahmed, owner, 1 October 2026. Years of teaching experience (2) confirmed by Nouman Ahmed, owner, 15 November 2026. Global Perspectives review assigned by Nouman Ahmed, owner, in writing, 16 November 2026."
 verifiedOn: 2026-10-01
 publicationState: published
 ---

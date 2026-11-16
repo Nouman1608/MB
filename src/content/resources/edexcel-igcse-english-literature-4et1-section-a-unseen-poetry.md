@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-unseen-poetry-4et1"
 description: "How to read and write about the unseen poem in Edexcel IGCSE English Literature 4ET1 Paper 1 Section A: a reading method, AO2 analysis and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

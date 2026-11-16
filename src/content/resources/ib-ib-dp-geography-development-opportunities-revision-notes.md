@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-12-1"
 description: "Condensed IB DP Geography notes on 12.1: measuring development with GNI, HDI and Gini, routes to development and their costs, and spatial inequality, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

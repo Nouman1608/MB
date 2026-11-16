@@ -10,7 +10,10 @@ syllabusSeries: "Version 1.9"
 order: 0
 description: "OxfordAQA International GCSE Pakistan Studies (9236) explained: a history paper and a geography paper, compulsory and optional topics, assessment and planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

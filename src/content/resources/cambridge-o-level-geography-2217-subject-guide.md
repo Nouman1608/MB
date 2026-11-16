@@ -10,7 +10,10 @@ syllabusSeries: "2026 (Version 3)"
 order: 0
 description: "An overview of Cambridge O Level Geography 2217: the three themes, three compulsory papers, the November-only series and a plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

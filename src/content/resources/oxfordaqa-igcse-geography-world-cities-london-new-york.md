@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "world-cities-london-new-york-9230"
 description: "OxfordAQA IGCSE Geography 9230 section 3.2.1.2: London and New York as world cities, covering migration, global importance, opportunities, challenges and regeneration."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

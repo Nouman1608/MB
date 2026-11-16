@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-global-politics-peace-and-conflict"
 description: "Study guide to Peace and conflict in IB DP Global Politics: four types of conflict, six causes, peacemaking to peacebuilding, and the four core concepts."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

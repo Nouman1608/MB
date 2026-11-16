@@ -10,7 +10,10 @@ syllabusSeries: "2027-2029"
 order: 0
 description: "A guide to Cambridge O Level Accounting (7707) for 2027-2029: what the seven topic areas cover, how the two papers work and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-developmental-psychology"
 description: "Original IB DP Psychology Paper 2 essays on developmental psychology, from peers and poverty to attachment and theory of mind, with ERQ criteria and plans."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check model plans against the IB Psychology guide (first assessment 2019) and a recent Paper 2 markscheme before teacher sign-off."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check model plans against the IB Psychology guide (first assessment 2019) and a recent Paper 2 markscheme before teacher sign-off."
 publishedDate: 2026-11-08
 featured: false
 ---

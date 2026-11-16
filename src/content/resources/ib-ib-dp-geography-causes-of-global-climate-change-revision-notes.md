@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-9-1"
 description: "Condensed IB DP Geography notes on 9.1: the energy balance, the greenhouse effect, volcanic dimming, albedo and positive feedback loops, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

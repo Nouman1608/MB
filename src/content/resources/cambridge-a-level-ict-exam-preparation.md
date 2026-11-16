@@ -11,9 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for Cambridge A Level Information Technology 9626: two theory papers, two practical papers, timing per mark and a worked spreadsheet scenario."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check what tasks and software skills Papers 2 and 4 expect, and the theory question styles, against the 2025-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check what tasks and software skills Papers 2 and 4 expect, and the theory question styles, against the 2025-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "prose-fiction-9275"
 description: "Original prose fiction practice for OxfordAQA 9275 Paper 1 Section A: short skills questions on new extracts and 30-mark essays, with mark-scheme style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

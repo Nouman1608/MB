@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "family-friends-9264"
 description: "Condensed recall for Urdu family and friendship vocabulary, possessive agreement, the plural of respect and relationship phrases, with a self-test, for OxfordAQA 9264."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains original Urdu vocabulary and example sentences; an Urdu specialist should check that every Urdu word and sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains original Urdu vocabulary and example sentences; an Urdu specialist should check that every Urdu word and sentence is correct and natural."
 ---
 
 Condensed for revision. For full explanations and worked examples, use the

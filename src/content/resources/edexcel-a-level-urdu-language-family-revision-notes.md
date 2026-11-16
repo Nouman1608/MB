@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "khandan-family-9ur0"
 description: "Condensed 9UR0 Theme 1.1 notes on family (خاندان): joint and separate households, elders, marriage, vocabulary and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

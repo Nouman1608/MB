@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "Revision notes on the IB DP Psychology biological approach: brain and behaviour, hormones and pheromones, genetics, HL animal research and evaluation prompts."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

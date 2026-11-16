@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-11-3"
 description: "Condensed IB DP Geography notes on 11.3: human and physical influences on connection, barriers and filters, and the gravity model with a worked example, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

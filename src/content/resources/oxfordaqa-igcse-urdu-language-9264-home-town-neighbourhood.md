@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "home-town-neighbourhood-9264"
 description: "Describing your home and area, local amenities, comparisons and directions in Urdu, with worked translation and writing, for OxfordAQA International GCSE 9264."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains original Urdu text (vocabulary, directions, example sentences, translations and a model paragraph); an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains original Urdu text (vocabulary, directions, example sentences, translations and a model paragraph); an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 This guide goes deeper on the first topic of **Theme 2 Local, National, International and Global

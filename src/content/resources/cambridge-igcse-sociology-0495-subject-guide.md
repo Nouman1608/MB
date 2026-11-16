@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge IGCSE Sociology (0495) is structured: research methods, identity and inequality in Paper 1, family, education and crime in Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

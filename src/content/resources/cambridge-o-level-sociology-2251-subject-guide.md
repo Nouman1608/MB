@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "An overview of Cambridge O Level Sociology (2251): six key-question topics across two equally weighted papers, how they connect and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

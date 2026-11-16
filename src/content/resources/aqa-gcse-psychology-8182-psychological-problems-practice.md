@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "psychological-problems-8182"
 description: "Original practice questions with mark-scheme answers on AQA GCSE Psychology 8182 topic 3.2.4: mental health, depression, addiction and their treatments."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check that the depression and addiction terms used in the questions match the current 8182 specification wording."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check that the depression and addiction terms used in the questions match the current 8182 specification wording."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "For teaching from September 2015"
 order: 0
 description: "An overview of AQA A-Level Chemistry (7405): physical, inorganic and organic strands, three two-hour papers, how content is shared out and how to plan study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

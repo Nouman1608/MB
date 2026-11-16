@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "brain-and-neuropsychology-8182"
 description: "Study guide to AQA GCSE Psychology 8182 topic 3.2.3: nervous system, James-Lange, neurons and synapses, Hebb, brain lobes, Penfield, scans, Tulving and brain damage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

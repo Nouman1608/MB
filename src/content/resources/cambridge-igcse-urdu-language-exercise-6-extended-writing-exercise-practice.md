@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "exercise-6-extended-writing-exercise-0539"
 description: "Original practice for the extended writing task in Cambridge IGCSE Urdu 0539 Paper 1: register, linking and planning drills plus two full tasks with model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text, especially the model article; the 8+8 content/language split is a Marlbridge practice convention, as the syllabus gives only the 16-mark total."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text, especially the model article; the 8+8 content/language split is a Marlbridge practice convention, as the syllabus gives only the 16-mark total."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,7 +11,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 3
 description: "Prepare for the four Cambridge A-Level Business 9609 papers: AS and A Level routes, Business Decision-Making and Strategy, timing per mark and a worked appraisal."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

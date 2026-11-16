@@ -10,7 +10,10 @@ syllabusSeries: "2027-2029"
 order: 0
 description: "How Cambridge International AS and A Level History 9489 is organised: the three AS options, the A Level papers, weightings and how to plan study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

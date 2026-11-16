@@ -10,7 +10,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 0
 description: "An overview of Cambridge IGCSE Biology (0610): its 21 topics, the Core and Extended routes, the practical choice of Paper 5 or 6, and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

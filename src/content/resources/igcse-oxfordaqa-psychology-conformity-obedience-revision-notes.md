@@ -15,10 +15,10 @@ syllabusTopics:
     subtopic: "social-influences-9218"
 description: "Revision notes on Asch, Milgram, Agency theory and the Authoritarian Personality for 3.2.2 Social Influence in OxfordAQA International GCSE Psychology 9218."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-03
 featured: false
 ---

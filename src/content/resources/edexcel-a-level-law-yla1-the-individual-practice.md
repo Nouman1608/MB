@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-individual-yla1"
 description: "Original practice questions on YLA1 section 2.3 The individual: defamation, free expression, the ECtHR, privacy, occupiers' liability and trespass, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

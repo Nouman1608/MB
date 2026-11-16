@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-3-2"
 description: "Condensed IB DP Geography notes on 3.2 Extreme environments: weathering, glacial, periglacial and arid processes and landforms, and mountain environments, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

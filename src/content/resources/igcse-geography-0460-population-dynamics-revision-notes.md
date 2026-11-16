@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-dynamics-0460"
 description: "Condensed IGCSE Geography 0460 notes on 1.1: birth and death rates, the Demographic Transition Model, over- and under-population, population policies and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

@@ -30,6 +30,10 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Condensed revision notes for Cambridge 9990 Organisational Psychology: theory lists, key terms, key studies, comparisons and a self-test for topics 4.1 to 4.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

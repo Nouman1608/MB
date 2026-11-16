@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-modern-drama-4et1"
 description: "Recall notes for the 4ET1 Paper 2 modern drama essay: the five set plays, AO1 and AO2 marks, dramatic methods, open-book habits and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

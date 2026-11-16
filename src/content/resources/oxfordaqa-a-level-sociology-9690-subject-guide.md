@@ -10,7 +10,10 @@ syllabusSeries: "Version 1.1"
 order: 0
 description: "OxfordAQA International AS and A-level Sociology (9690), a new specification: five equally weighted units, research methods at AS, and planning for first exams."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2016"
 order: 0
 description: "How AQA GCSE Biology (8461) works: seven topics plus key ideas, Foundation and Higher tiers, two papers, required practicals and a two-year study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

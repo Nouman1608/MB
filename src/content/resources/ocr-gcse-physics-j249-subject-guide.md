@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.0 (July 2026), for first assessment in 2018"
 order: 0
 description: "An overview of OCR GCSE Gateway Physics A (J249): eight content topics, practical skills, two papers per tier and how the topics split across the papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

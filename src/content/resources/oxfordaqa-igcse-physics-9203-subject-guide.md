@@ -10,7 +10,10 @@ syllabusSeries: "For exams May/June 2018 onwards"
 order: 0
 description: "How OxfordAQA International GCSE Physics (9203) fits together: eight topics from forces to space, two open-scope papers, no practical exam, and a two-year plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

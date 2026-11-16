@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "water-2217"
 description: "Cambridge O Level Geography 2217 subtopic 3.6: water supply methods, how water use changes with development, causes of shortages and management, with Singapore."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge International AS & A Level Physics (9702) is built: 25 topics across AS and A Level, five papers, the staged route and a plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

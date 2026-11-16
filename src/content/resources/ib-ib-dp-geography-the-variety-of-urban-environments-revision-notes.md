@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "ib-dp-geography-7-1"
 description: "Condensed IB DP Geography notes on 7.1: urbanisation versus urban growth, megacities, urban structure models, the rank-size rule and informal settlements, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

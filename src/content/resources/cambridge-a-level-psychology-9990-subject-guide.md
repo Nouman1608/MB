@@ -10,11 +10,12 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "How Cambridge International AS & A Level Psychology (9990) is organised: core studies, research methods, four specialist options and four equal papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: This page describes the 2024-2026 syllabus edition, whose final examination year is 2026; check whether the page should move to the following 9990 edition."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "This page describes the 2024-2026 syllabus edition, whose final examination year is 2026; check whether the page should move to the following 9990 edition."
 ---
 
 Cambridge International AS & A Level Psychology (9990) introduces

@@ -10,7 +10,10 @@ syllabusSeries: "For exams May/June 2018 onwards, Version 5.1"
 order: 0
 description: "How OxfordAQA International GCSE Mathematics (9260) is organised: four content areas, Core and Extension tiers, two calculator papers per tier and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

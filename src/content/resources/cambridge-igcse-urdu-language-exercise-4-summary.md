@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-4-summary-0539"
 description: "Writing the 100-word Urdu summary in 0539 Paper 1 Exercise 4: choosing points for the aspect set, paraphrasing in your own words, linking ideas, keeping to the limit."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains an original Urdu source paragraph, paraphrase examples and a model summary; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains an original Urdu source paragraph, paraphrase examples and a model summary; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 Exercise 4 of **Paper 1 Reading and Writing** in Cambridge IGCSE Urdu as a Second Language (0539) is a

@@ -13,10 +13,10 @@ syllabusTopics:
     topic: "ib-myp-design-assessment-criteria"
 description: "Revision notes on what top-band evidence looks like for each IB MYP Design criterion, A to D, with a worked example for each and links to the design cycle."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

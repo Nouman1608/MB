@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1a-hot-desert-systems-9635"
 description: "Condensed OxfordAQA 9635 notes on 3.1.2: desert systems, causes of aridity, weathering, wind and water processes, landforms, desertification and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

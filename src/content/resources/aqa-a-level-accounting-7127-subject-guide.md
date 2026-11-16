@@ -10,7 +10,10 @@ syllabusSeries: "2017-onwards"
 order: 0
 description: "How AQA A-Level Accounting (7127) is organised: its 18 content sections, two three-hour papers, how the topics connect and how to plan the two years."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

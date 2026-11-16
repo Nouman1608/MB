@@ -19,10 +19,10 @@ syllabusTopics:
     subtopic: "approaches-in-psychology-9685"
 description: "Original practice questions with mark schemes for OxfordAQA 9685 section 3.4.1, from conditioning and Bandura to schema, twin data and evolution."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

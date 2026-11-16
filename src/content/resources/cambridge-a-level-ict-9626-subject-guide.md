@@ -10,11 +10,12 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge A Level Information Technology 9626 is structured: AS and A Level topics, two theory and two practical papers, routes and study planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the page's general suggestion of which topics are mainly tested in the theory papers and which in the practical papers against the 2025-2027 syllabus; the assessment record gives paper titles, durations, marks and weightings only."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Check the page's general suggestion of which topics are mainly tested in the theory papers and which in the practical papers against the 2025-2027 syllabus; the assessment record gives paper titles, durations, marks and weightings only."
 ---
 
 Cambridge International AS & A Level Information Technology (9626) combines the study of how IT systems work, and how they affect people and organisations, with hands-on use of software to solve problems. It is assessed by four externally marked papers, each worth 25% of the full A Level: Paper 1, Theory (1 hour 45 minutes, 70 marks), Paper 2, Practical (2 hours 30 minutes, 90 marks), Paper 3, Advanced Theory (1 hour 45 minutes, 70 marks) and Paper 4, Advanced Practical (2 hours 30 minutes, 90 marks). The first two papers form the AS Level; the second two complete the A Level. This overview explains how the 21 topics are divided, how the routes through the qualification work, and how to plan your study.

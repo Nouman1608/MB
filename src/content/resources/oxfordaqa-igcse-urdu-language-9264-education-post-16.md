@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "education-post-16-9264"
 description: "Theme 3 Topic 3 of OxfordAQA International GCSE Urdu (9264): college, university and training options, future plans and weighing choices, with worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, including the subjunctive after ارادہ ہے کہ, and that the topic scope matches section 3.1.3 of the specification."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "All Urdu examples, the model paragraph and the translation are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural, including the subjunctive after ارادہ ہے کہ, and that the topic scope matches section 3.1.3 of the specification."
 ---
 
 This guide goes deeper on one topic: **Theme 3, Topic 3 Education Post-16** in OxfordAQA

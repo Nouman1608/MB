@@ -11,11 +11,12 @@ syllabusCodes: ["J247"]
 order: 1
 description: "OCR GCSE Biology A (Gateway Science, J247) past papers guide: grade thresholds for June 2023 to June 2026 and examiner report notes for 2023 to 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No June 2026 examiners' report was available, and OCR's 2024 listing carries the 2023 reports for Papers 2 and 4, so those papers have no 2024 notes."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "No June 2026 examiners' report was available, and OCR's 2024 listing carries the 2023 reports for Papers 2 and 4, so those papers have no 2024 notes."
 ---
 
 This page is a guide to OCR GCSE (9-1) Biology A (Gateway Science, J247) past papers from June 2023 to June 2026. For each series you get the grade thresholds, copied from OCR's grade-boundary documents, and, where OCR's examiners' report for that paper was available, a short account of what examiners saw, written by us. We do not host any papers. Every paper, mark scheme and report is on OCR's site, linked below.

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-5-writing-exercise-0539"
 description: "Writing the 120-word functional piece in 0539 Paper 1 Exercise 5: reading purpose, format and audience, choosing تم or آپ, covering every prompt and checking accuracy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains a model Urdu email, register tables and set phrases; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains a model Urdu email, register tables and set phrases; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 Exercise 5 of **Paper 1 Reading and Writing** in Cambridge IGCSE Urdu as a Second Language (0539) is a

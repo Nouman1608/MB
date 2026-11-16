@@ -10,7 +10,10 @@ syllabusSeries: "Version 6.2, for exams May/June 2018 onwards"
 order: 0
 description: "An overview of OxfordAQA International GCSE Chemistry (9202): ten content areas, two papers with no topic split, how the areas connect and a two-year plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

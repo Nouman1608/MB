@@ -11,9 +11,10 @@ syllabusCodes: ["9620"]
 order: 1
 description: "9620 International AS and A-level Chemistry past papers guide: examiner report notes for January 2024, June 2024 and January 2026, with a series index."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "No grade-boundary document could be retrieved for any 9620 series, and examiner reports were only available for January 2024, June 2024 (CH02) and January 2026 (CH01), so the page needs a second pass once the boundary documents and later reports are sourced."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No grade-boundary document could be retrieved for any 9620 series, and examiner reports were only available for January 2024, June 2024 (CH02) and January 2026 (CH01), so the page needs a second pass once the boundary documents and later reports are sourced."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "weathering-9696"
 description: "Condensed revision notes for Cambridge 9696 Geography 3.2 Weathering: key terms, processes, exam traps and a short self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
 featured: false
 ---

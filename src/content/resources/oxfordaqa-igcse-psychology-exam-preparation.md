@@ -11,10 +11,10 @@ syllabusSeries: "First teaching 2023, first examined 2025"
 order: 3
 description: "Exam strategy for OxfordAQA International GCSE Psychology 9218: two 100-mark papers, why one paper cannot be resat alone, timing and evaluating studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-09
 featured: false
 ---

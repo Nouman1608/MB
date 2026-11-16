@@ -11,7 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "How to prepare for Cambridge O Level English Language 1123: the two-hour Reading and Writing papers, directed writing and composition, with timing and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

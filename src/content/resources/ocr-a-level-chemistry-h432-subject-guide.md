@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.1 (May 2026), for first assessment in 2017"
 order: 0
 description: "How OCR A Level Chemistry A (H432) fits together: six modules, two 100-mark papers, the synoptic Unified chemistry paper and the Practical Endorsement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

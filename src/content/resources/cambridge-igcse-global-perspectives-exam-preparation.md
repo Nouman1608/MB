@@ -11,7 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for Cambridge IGCSE Global Perspectives 0457: the written exam, the individual report and the team project, with timing and a worked source evaluation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

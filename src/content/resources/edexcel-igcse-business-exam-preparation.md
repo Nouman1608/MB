@@ -11,9 +11,10 @@ syllabusSeries: "Issue 2, February 2026"
 order: 3
 description: "Prepare for Pearson Edexcel IGCSE Business 4BS1: two 1 hour 30 minute, 80-mark papers on small and large businesses, with timing advice and a worked break-even example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Command-word guidance and the style of the four 20-mark questions are kept general; check the specification and sample assessments for the exact question wording and mark allocations within each 20-mark question."
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to asif-iqbal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Command-word guidance and the style of the four 20-mark questions are kept general; check the specification and sample assessments for the exact question wording and mark allocations within each 20-mark question."
 publishedDate: 2026-11-15
 featured: false
 ---

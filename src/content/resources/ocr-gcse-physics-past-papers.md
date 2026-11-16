@@ -11,11 +11,12 @@ syllabusCodes: ["J249"]
 order: 1
 description: "OCR GCSE Physics A (J249) past papers guide: grade thresholds for June 2024, June 2025 and June 2026, with where to find the official papers and reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No J249 examiner reports could be retrieved, so this page gives grade thresholds only and no examiner report notes."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "No J249 examiner reports could be retrieved, so this page gives grade thresholds only and no examiner report notes."
 ---
 
 This page is a guide to OCR GCSE (9-1) Physics A (Gateway Science, J249) past papers from June 2024 to June 2026. For each series you get the grade thresholds, copied from OCR's grade-boundary documents. We could not retrieve the J249 examiner reports, so this page does not include examiner report notes; that is stated again in each series below. We do not host any papers. Every paper, mark scheme and report is on OCR's own site or its teacher platform.

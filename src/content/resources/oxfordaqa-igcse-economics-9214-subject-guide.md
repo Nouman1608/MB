@@ -10,7 +10,10 @@ syllabusSeries: "First teaching September 2023, first examined May/June 2025"
 order: 0
 description: "An overview of OxfordAQA International GCSE Economics (9214): How Markets Work, How Economies Work, two equal exam papers and a plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

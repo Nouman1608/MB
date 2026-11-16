@@ -10,11 +10,12 @@ syllabusSeries: "2026"
 order: 0
 description: "How Cambridge IGCSE Pakistan Studies (0448) is organised: a history and culture paper, an environment paper, how each is assessed and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: This page describes the 2026 single-year syllabus edition, whose only exam series (June 2026) has passed; check whether a later 0448 edition should be described instead."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "This page describes the 2026 single-year syllabus edition, whose only exam series (June 2026) has passed; check whether a later 0448 edition should be described instead."
 ---
 
 Cambridge IGCSE Pakistan Studies (0448) brings together two quite

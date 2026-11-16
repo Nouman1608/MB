@@ -16,10 +16,10 @@ syllabusTopics:
     subtopic: "ib-myp-design-assessment-criteria-d-evaluating"
 description: "IB MYP Design study guide to criterion D: planning tests from your specification, judging success with data, and explaining improvements and impact."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---

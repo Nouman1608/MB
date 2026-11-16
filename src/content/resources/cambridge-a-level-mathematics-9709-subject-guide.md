@@ -10,7 +10,10 @@ syllabusSeries: "2026-2027"
 order: 0
 description: "How Cambridge A Level Mathematics 9709 works: six papers, the AS and A Level routes, which combinations carry forward, and a plan for pure and applied study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

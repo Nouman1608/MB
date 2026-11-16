@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "coasts-2217"
 description: "Condensed recall notes for Cambridge O Level Geography 2217 sub-topic 2.3: waves, coastal landforms, sand dunes, coral reefs, mangroves and coastal management."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

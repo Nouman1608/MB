@@ -11,10 +11,10 @@ syllabusSeries: "2025-2027"
 order: 1
 description: "How the source-based Written Exam works within Cambridge IGCSE Global Perspectives (0457), a skills-based syllabus where knowledge of content is not assessed."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-08-21
 featured: false
 ---

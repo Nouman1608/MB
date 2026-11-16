@@ -11,9 +11,10 @@ syllabusCodes: ["8132"]
 order: 1
 description: "8132 GCSE Business past papers guide: AQA grade thresholds for June 2024 and June 2025, plus our notes on the June 2025 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "AQA's assessment-resources page lists no June 2024 report on the examination for 8132, so that series has thresholds only; June 2026 documents were not retrievable."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: AQA's assessment-resources page lists no June 2024 report on the examination for 8132, so that series has thresholds only; June 2026 documents were not retrievable."
 publishedDate: 2026-11-15
 featured: false
 ---

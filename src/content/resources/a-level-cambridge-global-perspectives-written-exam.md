@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-1-written-exam-9239"
 description: "How the 45-mark, source-based Written Exam works in Cambridge AS & A Level Global Perspectives & Research 9239, built around the Critical Path approach."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-08-21
 featured: false
 ---

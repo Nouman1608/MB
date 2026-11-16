@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "An overview of Cambridge IGCSE Global Perspectives 0457: the 22 global topics, the Written Exam, Individual Report and Team Project, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---
