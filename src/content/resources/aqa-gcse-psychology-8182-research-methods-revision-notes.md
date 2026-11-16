@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "research-methods-8182"
 description: "Condensed revision notes on 3.1.4 Research Methods for AQA GCSE Psychology 8182: methods, procedures, ethics, maths skills and data handling, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed recall for **section 3.1.4 Research Methods** of Paper 1, including data handling (3.1.4.1). For full explanations, worked examples and the sampling and design comparisons, read the [Research Methods study guide](/resources/aqa-gcse-psychology-research-methods/) first; then test yourself with the [Research Methods practice questions](/resources/aqa-gcse-psychology-8182-research-methods-practice/). It is also examined inside the memory, perception and development questions.

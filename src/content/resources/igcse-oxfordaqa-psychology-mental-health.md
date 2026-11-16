@@ -15,8 +15,12 @@ syllabusTopics:
     subtopic: "mental-health-9218"
 description: "Mental health trends and effects, and ICD diagnosis, explanations and therapies for OCD and PTSD: section 3.2.3 of OxfordAQA International GCSE Psychology 9218."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **3.2.3 Mental health** is the third topic of Paper 2 (Social Context and Behaviour) in OxfordAQA

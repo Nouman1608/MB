@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "relationships-7182"
 description: "Study guide to AQA A-level Psychology 7182 Relationships: attraction, exchange, equity, investment, breakdown, online and parasocial relationships."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers the Relationships topic of AQA A-level Psychology (7182), as printed in section 4.3.2 of the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Relationships is one of the three topics in option 1 of Paper 3: Issues and Options in Psychology, where it is assessed in Section B. It is A-level content only.

@@ -19,12 +19,12 @@ syllabusTopics:
     subtopic: "issues-and-debates-9685"
 description: "Revision notes for OxfordAQA 9685 issues and debates: key terms, studies at a glance, must-know distinctions, an essay plan and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 These notes condense the [issues and debates study guide](/resources/oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology/), so read that first if a term here is new. They follow section 3.4.2 of the OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). The content is assessed in Unit 4: Approaches and application, Section B, which the specification gives as 30 marks of compulsory questions in a 1 hour 30 minute, 90-mark exam worth 30% of the International A-level.

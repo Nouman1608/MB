@@ -38,9 +38,9 @@ review.
 | Saad Zai | `saad-zai` | 12 |
 | Zain Ud Din Ahmed | `zain-ud-din-ahmed` | 12 |
 | Lubna Waseem | `lubna-waseem` | 10 |
-| *No eligible teacher* | — | 522 |
+| *No eligible teacher* | — | 353 |
 
-885 review-pending pages in total; a page can appear under more than one teacher.
+716 review-pending pages in total; a page can appear under more than one teacher.
 
 ## Farheen Zehra (`farheen-zehra`) — 89
 
@@ -633,7 +633,7 @@ review.
 | `oxfordaqa-a-level-english-language-9670-subject-guide` | oxfordaqa a-level english (9670) | subject-guides | UNVERIFIED | 1 |
 | `oxfordaqa-igcse-english-language-9270-subject-guide` | oxfordaqa igcse english (9270) | subject-guides | UNVERIFIED | 1 |
 
-## No eligible teacher — 522
+## No eligible teacher — 353
 
 These pages have no designated reviewer whose profile covers their board(s) and subject.
 Signing them off needs a teacher profile to be updated (or a new reviewer designated)
@@ -643,8 +643,6 @@ is not a review and does not change their status.
 
 | Resource | Course | Type | Verification | Also eligible |
 | --- | --- | --- | --- | --- |
-| `a-level-aqa-psychology-approaches-in-psychology` | aqa a-level psychology (7182) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
-| `a-level-aqa-psychology-multi-store-and-working-memory-models` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
 | `a-level-cambridge-global-perspectives-essay` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-cambridge-global-perspectives-team-project-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-cambridge-global-perspectives-team-project-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
@@ -652,7 +650,6 @@ is not a review and does not change their status.
 | `a-level-cambridge-global-perspectives-written-exam-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-cambridge-global-perspectives-written-exam-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
 | `a-level-cambridge-global-perspectives-written-exam` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
-| `a-level-cambridge-psychology-research-methods` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
 | `a-level-geography-9696-atmosphere-human-impact-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
 | `a-level-geography-9696-changes-in-rural-settlements-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
 | `a-level-geography-9696-changing-structure-of-urban-settlements-revision-notes` | cambridge a-level geography (9696) | revision-notes | UNVERIFIED | 0 |
@@ -682,106 +679,9 @@ is not a review and does not change their status.
 | `a-level-global-perspectives-9239-component-4-cambridge-research-report` | cambridge a-level global-perspectives (9239) | study-guides | VERIFIED | 0 |
 | `a-level-global-perspectives-essay-practice` | cambridge a-level global-perspectives (9239) | practice-questions | VERIFIED | 0 |
 | `a-level-global-perspectives-essay-revision-notes` | cambridge a-level global-perspectives (9239) | revision-notes | VERIFIED | 0 |
-| `a-level-oxfordaqa-psychology-biopsychology-development-research-methods` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `a-level-oxfordaqa-psychology-introductory-topics` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `a-level-psychology-approaches-issues-and-debates` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
-| `a-level-psychology-clinical-psychology-practice` | cambridge a-level psychology (9990) | practice-questions | UNVERIFIED | 0 |
-| `a-level-psychology-clinical-psychology-revision-notes` | cambridge a-level psychology (9990) | revision-notes | UNVERIFIED | 0 |
-| `a-level-psychology-clinical-psychology` | cambridge a-level psychology (9990) | study-guides | UNVERIFIED | 0 |
-| `a-level-psychology-consumer-psychology-practice` | cambridge a-level psychology (9990) | practice-questions | UNVERIFIED | 0 |
-| `a-level-psychology-consumer-psychology-revision-notes` | cambridge a-level psychology (9990) | revision-notes | UNVERIFIED | 0 |
-| `a-level-psychology-consumer-psychology` | cambridge a-level psychology (9990) | study-guides | UNVERIFIED | 0 |
-| `a-level-psychology-health-psychology-practice` | cambridge a-level psychology (9990) | practice-questions | UNVERIFIED | 0 |
-| `a-level-psychology-health-psychology-revision-notes` | cambridge a-level psychology (9990) | revision-notes | UNVERIFIED | 0 |
-| `a-level-psychology-health-psychology` | cambridge a-level psychology (9990) | study-guides | UNVERIFIED | 0 |
-| `a-level-psychology-organisational-psychology-practice` | cambridge a-level psychology (9990) | practice-questions | UNVERIFIED | 0 |
-| `a-level-psychology-organisational-psychology-revision-notes` | cambridge a-level psychology (9990) | revision-notes | UNVERIFIED | 0 |
-| `a-level-psychology-organisational-psychology` | cambridge a-level psychology (9990) | study-guides | UNVERIFIED | 0 |
-| `a-level-psychology-research-methods-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |
-| `a-level-psychology-research-methods-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
-| `a-level-psychology-specialist-options-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |
-| `a-level-psychology-specialist-options-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
-| `a-level-psychology-specialist-options` | cambridge a-level psychology (9990) | study-guides | VERIFIED | 0 |
-| `a-psychology-approaches-revision-notes` | cambridge a-level psychology (9990) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-addiction-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-addiction-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-addiction` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-aggression-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-aggression-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-aggression` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-biopsychology-practice` | aqa a-level psychology (7182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-biopsychology-revision-notes` | aqa a-level psychology (7182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-biopsychology` | aqa a-level psychology (7182) | study-guides | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-cognition-and-development-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-cognition-and-development-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-cognition-and-development` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-eating-behaviour-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-eating-behaviour-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-eating-behaviour` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-forensic-psychology-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-forensic-psychology-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-forensic-psychology` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-gender-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-gender-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-gender` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-issues-and-debates-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-issues-and-debates-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-issues-and-debates` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-relationships-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-relationships-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-relationships` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-research-methods-practice` | aqa a-level psychology (7182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-research-methods-revision-notes` | aqa a-level psychology (7182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-research-methods` | aqa a-level psychology (7182) | study-guides | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-7182-schizophrenia-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-schizophrenia-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-schizophrenia` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-stress-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-stress-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-stress` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-7182-subject-guide` | aqa a-level psychology (7182) | subject-guides | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-approaches-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-approaches-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-exam-preparation` | aqa a-level psychology (7182) | exam-preparation | UNVERIFIED | 0 |
-| `aqa-a-level-psychology-introductory-practice` | aqa a-level psychology (7182) | practice-questions | VERIFIED | 0 |
-| `aqa-a-level-psychology-introductory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `aqa-a-level-psychology-introductory-topics` | aqa a-level psychology (7182) | study-guides | VERIFIED | 0 |
-| `aqa-a-level-psychology-memory-revision-notes` | aqa a-level psychology (7182) | revision-notes | VERIFIED | 0 |
-| `aqa-a-level-psychology-past-papers` | aqa a-level psychology (7182) | past-papers | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-brain-and-neuropsychology-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-brain-and-neuropsychology-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-brain-and-neuropsychology` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-development-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-development-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-development` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-language-thought-communication-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-language-thought-communication-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-language-thought-communication` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-memory-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-memory-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-memory` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-perception-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-perception-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-perception` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-psychological-problems-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-psychological-problems-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-psychological-problems` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-research-methods-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-research-methods-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-social-influence-practice` | aqa gcse psychology (8182) | practice-questions | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-social-influence-revision-notes` | aqa gcse psychology (8182) | revision-notes | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-social-influence` | aqa gcse psychology (8182) | study-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-8182-subject-guide` | aqa gcse psychology (8182) | subject-guides | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-cognition-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-psychology-exam-preparation` | aqa gcse psychology (8182) | exam-preparation | VERIFIED | 0 |
-| `aqa-gcse-psychology-past-papers` | aqa gcse psychology (8182) | past-papers | UNVERIFIED | 0 |
-| `aqa-gcse-psychology-research-methods` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
-| `aqa-gcse-psychology-social-context-and-behaviour` | aqa gcse psychology (8182) | study-guides | VERIFIED | 0 |
 | `cambridge-a-level-geography-9696-subject-guide` | cambridge a-level geography (9696) | subject-guides | UNVERIFIED | 0 |
 | `cambridge-a-level-global-perspectives-9239-subject-guide` | cambridge a-level global-perspectives (9239) | subject-guides | UNVERIFIED | 0 |
 | `cambridge-a-level-global-perspectives-exam-preparation` | cambridge a-level global-perspectives (9239) | exam-preparation | UNVERIFIED | 0 |
-| `cambridge-a-level-psychology-9990-subject-guide` | cambridge a-level psychology (9990) | subject-guides | UNVERIFIED | 0 |
-| `cambridge-a-level-psychology-exam-preparation` | cambridge a-level psychology (9990) | exam-preparation | UNVERIFIED | 0 |
 | `cambridge-igcse-geography-0460-subject-guide` | cambridge igcse geography (0460) | subject-guides | UNVERIFIED | 0 |
 | `cambridge-igcse-geography-exam-preparation` | cambridge igcse geography (0460) | exam-preparation | UNVERIFIED | 0 |
 | `cambridge-igcse-global-perspectives-0457-subject-guide` | cambridge igcse global-perspectives (0457) | subject-guides | UNVERIFIED | 0 |
@@ -845,10 +745,6 @@ is not a review and does not change their status.
 | `cambridge-o-level-geography-weather-practice` | cambridge o-level geography (2217) | practice-questions | UNVERIFIED | 0 |
 | `cambridge-o-level-geography-weather-revision-notes` | cambridge o-level geography (2217) | revision-notes | UNVERIFIED | 0 |
 | `cambridge-o-level-geography-weather` | cambridge o-level geography (2217) | study-guides | UNVERIFIED | 0 |
-| `gcse-psychology-cognition-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
-| `gcse-psychology-cognition-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED_AFTER_CORRECTION | 0 |
-| `gcse-psychology-social-context-practice` | aqa gcse psychology (8182) | practice-questions | VERIFIED | 0 |
-| `gcse-psychology-social-context-revision-notes` | aqa gcse psychology (8182) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-individual-report-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
 | `global-perspectives-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `global-perspectives-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
@@ -910,16 +806,6 @@ is not a review and does not change their status.
 | `ib-dp-global-politics-rights-justice` | ib ib-dp global-politics (DP Global Politics) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-subject-guide` | ib ib-dp global-politics (DP Global Politics) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-dp-global-politics-syllabus-guide` | ib ib-dp global-politics (DP Global Politics) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-assessment-revision-notes` | ib ib-dp psychology (DP Psychology) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-biological-approach-practice` | ib ib-dp psychology (DP Psychology) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-biological-approach-revision-notes` | ib ib-dp psychology (DP Psychology) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-biological-approach` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-cognitive-approach-practice` | ib ib-dp psychology (DP Psychology) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-cognitive-approach-revision-notes` | ib ib-dp psychology (DP Psychology) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-cognitive-approach` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-exam-preparation` | ib ib-dp psychology (DP Psychology) | exam-preparation | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-subject-guide` | ib ib-dp psychology (DP Psychology) | subject-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `ib-dp-psychology-syllabus-guide` | ib ib-dp psychology (DP Psychology) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-ib-dp-geography-building-sustainable-urban-systems-for-the-future-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-geography-causes-of-global-climate-change-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-geography-challenges-and-opportunities-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
@@ -943,24 +829,6 @@ is not a review and does not change their status.
 | `ib-ib-dp-geography-responding-to-global-climate-change-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-geography-the-variety-of-urban-environments-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
 | `ib-ib-dp-geography-urban-environmental-and-social-stresses-revision-notes` | ib ib-dp geography (DP Geography) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-abnormal-psychology-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-abnormal-psychology-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-abnormal-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-approaches-to-researching-behaviour-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-approaches-to-researching-behaviour-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-developmental-psychology-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-developmental-psychology-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-developmental-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-health-psychology-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-health-psychology-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-health-psychology-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-psychology-of-human-relationships-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-psychology-of-human-relationships-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-psychology-of-human-relationships-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-sociocultural-approach-practice` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | practice-questions | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-sociocultural-approach-revision-notes` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | revision-notes | UNVERIFIED | 0 |
-| `ib-ib-dp-psychology-sociocultural-approach-study-guide` | ib ib-dp psychology (DP Psychology (2019) / DP Psychology (2027)) | study-guides | UNVERIFIED | 0 |
 | `ib-myp-design-assessment-revision-notes` | ib ib-myp myp-design (MYP Design) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-design-criteria-in-practice-practice` | ib ib-myp myp-design (MYP Design) | practice-questions | PARTIAL_UNVERIFIABLE | 0 |
 | `ib-myp-design-criteria-in-practice-revision-notes` | ib ib-myp myp-design (MYP Design) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
@@ -1119,49 +987,12 @@ is not a review and does not change their status.
 | `igcse-global-perspectives-individual-report-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-team-project-practice` | cambridge igcse global-perspectives (0457) | practice-questions | VERIFIED | 0 |
 | `igcse-global-perspectives-team-project-revision-notes` | cambridge igcse global-perspectives (0457) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-cognition-and-behaviour` | oxfordaqa igcse psychology (9218) | study-guides | VERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-communication-mental-health-practice` | oxfordaqa igcse psychology (9218) | practice-questions | UNVERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-communication-mental-health-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | UNVERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-communication` | oxfordaqa igcse psychology (9218) | study-guides | UNVERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-conformity-and-obedience` | oxfordaqa igcse psychology (9218) | study-guides | VERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-conformity-obedience-practice` | oxfordaqa igcse psychology (9218) | practice-questions | VERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-conformity-obedience-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | VERIFIED | 0 |
-| `igcse-oxfordaqa-psychology-mental-health` | oxfordaqa igcse psychology (9218) | study-guides | UNVERIFIED | 0 |
-| `igcse-psychology-cognition-practice` | oxfordaqa igcse psychology (9218) | practice-questions | VERIFIED | 0 |
-| `igcse-psychology-cognition-revision-notes` | oxfordaqa igcse psychology (9218) | revision-notes | VERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-coastal-systems-and-landscapes-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-hot-desert-systems-and-landscapes-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-living-with-hazards-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-resource-security-revision-notes` | oxfordaqa a-level geography (9635) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-a-level-geography-9635-subject-guide` | oxfordaqa a-level geography (9635) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-applied-psychology-work-and-the-individual` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-issues-and-debates-in-psychology` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-psychology-of-sleep-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-psychology-of-sleep-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-psychology-of-sleep` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-research-methods-2-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-research-methods-2-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-research-methods-2` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-schizophrenia-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-schizophrenia-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | PARTIAL_UNVERIFIABLE | 0 |
-| `oxfordaqa-a-level-psychology-9685-schizophrenia` | oxfordaqa a-level psychology (9685) | study-guides | PARTIAL_UNVERIFIABLE | 0 |
-| `oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-scientific-approaches-in-psychology` | oxfordaqa a-level psychology (9685) | study-guides | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-9685-subject-guide` | oxfordaqa a-level psychology (9685) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-biopsychology-development-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-biopsychology-development-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-exam-preparation` | oxfordaqa a-level psychology (9685) | exam-preparation | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-practice` | oxfordaqa a-level psychology (9685) | practice-questions | VERIFIED | 0 |
-| `oxfordaqa-a-level-psychology-revision-notes` | oxfordaqa a-level psychology (9685) | revision-notes | VERIFIED | 0 |
 | `oxfordaqa-igcse-geography-9230-subject-guide` | oxfordaqa igcse geography (9230) | subject-guides | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-geography-world-cities-london-new-york-practice` | oxfordaqa igcse geography (9230) | practice-questions | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-geography-world-cities-london-new-york-revision-notes` | oxfordaqa igcse geography (9230) | revision-notes | UNVERIFIED | 0 |
 | `oxfordaqa-igcse-geography-world-cities-london-new-york` | oxfordaqa igcse geography (9230) | study-guides | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-psychology-9218-subject-guide` | oxfordaqa igcse psychology (9218) | subject-guides | UNVERIFIED | 0 |
-| `oxfordaqa-igcse-psychology-exam-preparation` | oxfordaqa igcse psychology (9218) | exam-preparation | VERIFIED | 0 |
-| `psychology-approaches-and-debates-practice` | cambridge a-level psychology (9990) | practice-questions | VERIFIED | 0 |

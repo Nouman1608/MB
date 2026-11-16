@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "perception-8182"
 description: "Condensed revision notes on 3.1.2 Perception for AQA GCSE Psychology 8182: depth cues, six illusions, Gibson and Gregory, perceptual set and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanations and worked answers, read the [Perception study guide](/resources/aqa-gcse-psychology-8182-perception/) first; then test yourself with the [Perception practice questions](/resources/aqa-gcse-psychology-8182-perception-practice/).

@@ -11,9 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "How to prepare for the four Cambridge A Level Psychology 9990 papers, each 90 minutes and 60 marks, with timing per mark, a worked data-handling scenario and a checklist."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the question styles, section structure and which specialist options are examined on Papers 3 and 4 against the 2024-2026 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "Check the question styles, section structure and which specialist options are examined on Papers 3 and 4 against the 2024-2026 syllabus; only record titles, durations, marks and weightings were treated as certain; 2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

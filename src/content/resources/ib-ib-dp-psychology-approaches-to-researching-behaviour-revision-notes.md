@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
 description: "Revision notes on IB DP Psychology research methods: experiments, correlations, qualitative methods, sampling, ethics, generalisation, bias and the HL Paper 3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the Paper 3 question pattern and terminology against the IB Psychology guide (first assessment 2019) before teacher sign-off. 2026-11-08 recheck: Paper 3 description corrected (Question 3 can be generalisation, credibility or bias)."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "Check the Paper 3 question pattern and terminology against the IB Psychology guide (first assessment 2019) before teacher sign-off. 2026-11-08 recheck: Paper 3 description corrected (Question 3 can be generalisation, credibility or bias); 2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

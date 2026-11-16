@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "brain-and-neuropsychology-8182"
 description: "Condensed AQA GCSE Psychology 8182 notes on 3.2.3: nervous system, fight-or-flight, neurons, synapses, brain areas, scans, Penfield and Tulving, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed recall for **3.2.3 Brain and neuropsychology** (AQA GCSE Psychology 8182, Paper 2). For

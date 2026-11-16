@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "obsessive-compulsive-disorder-ocd-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Clinical Psychology: diagnosis, explanations and treatments for topics 1.1 to 1.5, with all five key studies."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Clinical Psychology is Specialist Option 1 of Cambridge International A Level Psychology 9990.** It covers five groups of disorders: schizophrenia, mood disorders, impulse control disorders, anxiety and fear-related disorders, and obsessive-compulsive disorder (OCD). For each one you must know the ICD-11 diagnostic criteria and a named measure, then biological and psychological explanations, then biological and psychological treatments. The exam expects you to describe, evaluate and compare these, and to link them to issues and debates and research methods.

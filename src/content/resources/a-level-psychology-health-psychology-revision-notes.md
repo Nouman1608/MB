@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Condensed revision notes for Cambridge 9990 Health Psychology: key terms, measures, theories, the five key studies and exam traps for topics 3.1 to 3.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **These notes condense Specialist Option 3, Health Psychology, of Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** The five topics are the patient–practitioner relationship, adherence to medical advice, pain, stress and health promotion. Three themes run through them: how a problem is explained, how it is measured, and how it is managed or improved.

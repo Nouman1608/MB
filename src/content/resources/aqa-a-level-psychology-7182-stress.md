@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "stress-7182"
 description: "Study guide to the AQA A-level Psychology 7182 Stress option: physiology, illness, sources, measurement, personality, coping and social support."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers the Stress option of AQA A-level Psychology (7182), as set out in the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Stress is section 4.3.7 of the specification and is topic 14, one of the three topics in Option 2. It is assessed in Paper 3: Issues and Options in Psychology, in Section C.

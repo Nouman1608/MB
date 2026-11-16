@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "research-methods-7182"
 description: "Study guide to AQA A-level Psychology 7182 Research methods: methods, scientific processes, data handling, statistics, inferential tests and choosing a test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Research methods is the part of AQA A-level Psychology (7182) that teaches how psychologists design studies, collect and analyse data, and judge whether findings are trustworthy.** It is compulsory content examined on Paper 2: Psychology in Context, and research methods skills are also assessed across all three papers. You need to know each method, the scientific processes behind good research, descriptive statistics, and how to choose and interpret inferential tests.

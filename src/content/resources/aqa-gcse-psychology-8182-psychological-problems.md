@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "psychological-problems-8182"
 description: "Study guide to AQA GCSE Psychology 8182 topic 3.2.4: mental health, depression and addiction, their explanations and treatments, with Wiles and Kaij evaluated."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the 'introduction to mental health' bullet list and the depression and addiction definitions against the current 8182 specification wording."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "Check the 'introduction to mental health' bullet list and the depression and addiction definitions against the current 8182 specification wording; 2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

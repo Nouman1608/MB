@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biopsychology-7182"
 description: "Study guide to AQA A-level Psychology 7182 Biopsychology: nervous and endocrine systems, synapses, fight or flight, localisation, split brains and plasticity."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Biopsychology is the study of how the nervous system, hormones and brain structures relate to behaviour.** In AQA A-level Psychology (7182) it is compulsory content examined on Paper 2: Psychology in Context. You need to describe the nervous and endocrine systems, neurons and synaptic transmission, the fight-or-flight response, localisation and lateralisation of function, split-brain research, plasticity and ways of studying the brain, and to evaluate the research behind them. Biological rhythms, part of earlier editions of the specification, are not in section 4.2.2 of Version 1.4.

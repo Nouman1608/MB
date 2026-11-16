@@ -21,12 +21,12 @@ syllabusTopics:
     topic: "organisational-psychology-9990"
 description: "Revision notes on Clinical, Consumer, Health and Organisational specialist options for Cambridge A Level Psychology 9990, with worked examples and exam traps."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-05
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

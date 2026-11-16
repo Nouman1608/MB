@@ -24,12 +24,12 @@ syllabusTopics:
     subtopic: "research-methods-1-9685"
 description: "Revision notes on the nervous system, synapses, brain localisation, Piaget, Vygotsky and research methods 1 for OxfordAQA International A-Level Psychology 9685."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed for the final weeks. For the full explanation, use the

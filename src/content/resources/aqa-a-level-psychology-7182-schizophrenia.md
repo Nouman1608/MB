@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "schizophrenia-7182"
 description: "AQA A-level Psychology 7182 Schizophrenia guide: symptoms, diagnosis issues, explanations, therapies and diathesis-stress, with worked paragraphs."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers Schizophrenia for AQA A-level Psychology (7182), following the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Schizophrenia is section 4.3.5 of that document, inside section 4.3 Issues and options in Psychology. It is one of the three topics in Option 2, and it is assessed in Section C of Paper 3: Issues and Options in Psychology.

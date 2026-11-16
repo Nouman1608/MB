@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Condensed revision notes for Cambridge 9990 Organisational Psychology: theory lists, key terms, key studies, comparisons and a self-test for topics 4.1 to 4.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **These notes condense Specialist Option 4, Organisational Psychology, of Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** The option has five topics: motivation to work, leadership and management, group behaviour, work conditions, and satisfaction at work. Much of the marks come from naming the parts of a model accurately and applying them to a workplace in the question.

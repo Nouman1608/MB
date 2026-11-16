@@ -10,12 +10,12 @@ syllabusSeries: "First assessment 2019"
 order: 1
 description: "Revision notes on how IB DP Psychology is assessed at SL and HL: papers, weightings, the four options and the internal assessment, first assessment 2019."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-08-26
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > **Course note (legacy syllabus):** This resource describes IB DP

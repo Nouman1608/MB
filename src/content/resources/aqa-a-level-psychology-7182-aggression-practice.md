@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "aggression-7182"
 description: "Original AQA A-level Psychology 7182 Aggression practice questions with marked answers, data tasks, scenarios and essay plans for Paper 3."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

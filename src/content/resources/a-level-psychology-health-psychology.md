@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "health-promotion-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Health Psychology: patient–practitioner relationship, adherence, pain, stress and health promotion, 3.1 to 3.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Health Psychology is Specialist Option 3 of Cambridge International A Level Psychology 9990.** It looks at psychological factors in health: how doctors and patients communicate, why patients do not follow medical advice, how pain and stress are explained, measured and managed, and how health can be promoted. The exam asks you to describe, evaluate and compare theories, studies and treatments, and to apply them to real health settings.

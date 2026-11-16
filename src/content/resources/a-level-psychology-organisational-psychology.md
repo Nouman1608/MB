@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Organisational Psychology: motivation, leadership, groups, work conditions and job satisfaction, 4.1 to 4.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Organisational Psychology is Specialist Option 4 of Cambridge International A Level Psychology 9990.** It studies behaviour in the workplace: what motivates people to work, how leaders lead and followers follow, how groups make decisions and perform, how physical and time conditions affect health and safety, and how job satisfaction is explained and measured. Exam questions often give a workplace scenario and ask you to apply a named theory or study to it.

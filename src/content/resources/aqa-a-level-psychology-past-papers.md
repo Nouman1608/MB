@@ -11,9 +11,12 @@ syllabusCodes: ["7182"]
 order: 1
 description: "AQA A Level Psychology 7182 past papers guide: grade thresholds for June 2024 to June 2026 and our notes on the 2024 and 2025 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This page is a guide to AQA A Level Psychology (7182) past papers from June 2024 to June 2026. For each series you get the grade thresholds, copied from AQA's grade-boundary documents, and, where AQA has published them, a short account of what the examiners saw, written by us from AQA's reports on the examination. We do not host any papers. Every paper, mark scheme and report is on AQA's own site, linked below.

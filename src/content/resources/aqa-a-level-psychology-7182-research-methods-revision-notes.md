@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "research-methods-7182"
 description: "Condensed revision notes for AQA A-level Psychology 7182 Research methods: methods, designs, sampling, validity, statistics, test choice and a quick self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Research methods in AQA A-level Psychology (7182) is about designing studies, controlling variables, analysing data and judging the quality of findings.** It is section 4.2.3 and topic 7 of the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025). It is listed under Paper 2: Psychology in Context (2 hours, 96 marks, 33.3% of the A-level), but research methods and maths skills are assessed on all three papers. These notes are built for fast recall and application to novel scenarios.

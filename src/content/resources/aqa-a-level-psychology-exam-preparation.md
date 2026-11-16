@@ -11,9 +11,12 @@ syllabusSeries: "Version 1.4 (1 September 2025), for teaching from September 202
 order: 3
 description: "Plan your revision for the three AQA A-Level Psychology 7182 papers: section marks, the content on each paper, timing per mark and a worked research methods answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 AQA A-Level Psychology (7182) is linear and not tiered, with three written papers of 2 hours each, 96 marks each and one third of the A-level, 288 marks in total. Every paper mixes multiple-choice, short-answer and extended-writing questions. Use this page to plan around that structure, together with our topic pages on [Approaches in Psychology](/resources/a-level-aqa-psychology-approaches-in-psychology/), [Biopsychology](/resources/aqa-a-level-psychology-7182-biopsychology/) and [the multi-store and working memory models](/resources/a-level-aqa-psychology-multi-store-and-working-memory-models/).

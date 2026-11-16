@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "perception-8182"
 description: "A deep dive into section 3.1.2 Perception for AQA GCSE Psychology 8182: depth cues, illusions, Gibson versus Gregory, perceptual set and the key studies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers **section 3.1.2 Perception**, the second of the four sections of Paper 1 (Cognition and Behaviour) in AQA GCSE Psychology (8182). The [Paper 1 Cognition and Behaviour guide](/resources/aqa-gcse-psychology-cognition-and-behaviour/) lists the content in outline; this page goes deeper into perception alone, with everyday examples of each cue, a full explanation of each illusion, evaluation of both theories and worked exam answers.

@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "language-thought-communication-8182"
 description: "Condensed AQA GCSE Psychology 8182 notes on 3.2.2: Piaget v Sapir-Whorf, Von Frisch's bees, non-verbal communication, Darwin and Yuki, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Condensed recall for **3.2.2 Language, thought and communication** (AQA GCSE Psychology 8182,

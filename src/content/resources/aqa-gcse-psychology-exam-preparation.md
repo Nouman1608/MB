@@ -11,12 +11,12 @@ syllabusSeries: "For first teaching 2017"
 order: 2
 description: "Exam preparation for AQA GCSE Psychology 8182: the Paper 1 and Paper 2 split, command words, applying studies to new scenarios and a worked evaluate answer."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-07
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 AQA GCSE Psychology (8182) is assessed through two written papers, not tiered: Paper 1 (Cognition and

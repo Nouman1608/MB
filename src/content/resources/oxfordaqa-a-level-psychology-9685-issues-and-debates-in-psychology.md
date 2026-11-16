@@ -19,12 +19,12 @@ syllabusTopics:
     subtopic: "issues-and-debates-9685"
 description: "Study guide for OxfordAQA 9685 section 3.4.2: free will and determinism, nature-nurture, holism and reductionism, and psychology as a science."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.4.2 Issues and debates in psychology in the OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). The section sits in Unit 4: Approaches and application, which the specification labels a synoptic unit. The specification says Unit 4 is a 1 hour 30 minute written exam worth 90 marks and 30% of the International A-level, and that Section B, Issues and debates in psychology, carries 30 marks of compulsory questions.

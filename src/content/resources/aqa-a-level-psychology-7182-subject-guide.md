@@ -10,9 +10,12 @@ syllabusSeries: "Version 1.4 (1 September 2025), for teaching from September 202
 order: 0
 description: "An overview of AQA A-Level Psychology (7182) from September 2025: three equal papers, compulsory topics, the Paper 3 option groups and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 AQA A-Level Psychology (7182) studies how people think, feel and

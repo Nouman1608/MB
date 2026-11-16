@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "forensic-psychology-7182"
 description: "AQA A-level Psychology 7182 Forensic Psychology guide: offender profiling, biological and psychological explanations, and dealing with offending."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers Forensic Psychology for AQA A-level Psychology (7182), following the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. Forensic Psychology is section 4.3.9 of that document and topic 16 in Option 3 of the A-level content. It is assessed in Paper 3: Issues and Options in Psychology, Section D.

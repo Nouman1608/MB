@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "perception-8182"
 description: "Original practice questions on 3.1.2 Perception for AQA GCSE Psychology 8182: depth cues, illusions, both theories, perceptual set and study design, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

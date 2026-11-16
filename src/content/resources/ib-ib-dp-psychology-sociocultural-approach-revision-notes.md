@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-sociocultural-approach"
 description: "Revision notes for the IB DP Psychology sociocultural approach: social identity, social cognitive theory, stereotypes, culture, enculturation and acculturation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check study details against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "Check study details against the original papers and the IB Psychology guide (first assessment 2019) before teacher sign-off; 2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

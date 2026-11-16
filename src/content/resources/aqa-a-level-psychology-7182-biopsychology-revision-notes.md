@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "biopsychology-7182"
 description: "Revision notes for AQA A-level Psychology 7182 Biopsychology, with key terms, studies at a glance, brain-scan comparisons, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Biopsychology in AQA A-level Psychology (7182) covers how the nervous system, hormones and brain produce behaviour, and how the brain is studied.** It is section 4.2.2 and topic 6 of the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), and is assessed on Paper 2: Psychology in Context (2 hours, 96 marks, 33.3% of the A-level). These notes give you the facts, the studies and the evaluation points in a form you can test yourself on.

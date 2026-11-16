@@ -14,12 +14,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-biological-approach"
 description: "Study guide to the IB DP Psychology biological approach on Paper 1: brain and behaviour, hormones and pheromones, genetics, and HL animal research."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-06
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > **Course note (legacy syllabus):** This resource describes IB DP

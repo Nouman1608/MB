@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "advertising-9990"
 description: "Condensed revision notes for Cambridge 9990 Consumer Psychology: models, heuristics, key studies and exam traps for topics 2.1 to 2.5, with a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **These notes condense Specialist Option 2, Consumer Psychology, of Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** The option has five topics: the physical environment, the psychological environment, consumer decision-making, the product, and advertising. Each topic has three sub-topics, and the exam can ask you to describe, evaluate or apply any of them.

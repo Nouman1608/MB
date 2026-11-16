@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "advertising-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Consumer Psychology: store design, atmospherics, menus, decision-making, packaging, selling and advertising."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **Consumer Psychology is Specialist Option 2 of Cambridge International A Level Psychology 9990.** It studies how people behave in shops, restaurants and online: how the physical and psychological environment shapes spending, how consumers make (and mistake) decisions, how products are packaged and sold, and how advertising works. The exam expects you to describe and evaluate theories and studies, link them to issues and debates and research methods, and apply them to real retail settings.

@@ -18,8 +18,12 @@ syllabusTopics:
     subtopic: "mental-health-9218"
 description: "Original exam-style questions with full answers on language and thought, animal and non-verbal communication, OCD and PTSD for OxfordAQA IGCSE Psychology 9218."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

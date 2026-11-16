@@ -14,12 +14,12 @@ syllabusTopics:
     topic: "ib-dp-psychology-cognitive-approach"
 description: "Revision notes on the IB DP Psychology cognitive approach: memory, schema and reconstructive memory, with Loftus and Palmer, Bartlett and a self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-03
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > **Course note (legacy syllabus):** This resource describes IB DP

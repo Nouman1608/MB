@@ -15,9 +15,12 @@ syllabusTopics:
     subtopic: "memory-8182"
 description: "A deep dive into section 3.1.1 Memory for AQA GCSE Psychology 8182: the multi-store model, Murdock, Bartlett, accuracy of memory and exam technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-15
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers **section 3.1.1 Memory**, the first of the four sections of Paper 1 (Cognition and Behaviour) in AQA GCSE Psychology (8182). The [Paper 1 Cognition and Behaviour guide](/resources/aqa-gcse-psychology-cognition-and-behaviour/) gives the whole paper in outline; this page goes further into memory alone, with the evaluation points, applied examples and exam technique you need to turn knowledge into marks.

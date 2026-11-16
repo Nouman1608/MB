@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "issues-and-debates-7182"
 description: "Original practice questions with mark-by-mark answers for AQA A-level Psychology 7182 issues and debates, from bias and determinism to social sensitivity."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

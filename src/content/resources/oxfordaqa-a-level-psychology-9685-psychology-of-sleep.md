@@ -19,12 +19,12 @@ syllabusTopics:
     subtopic: "psychology-of-sleep-9685"
 description: "Study guide for OxfordAQA 9685 section 3.3.1: biological rhythms, shift work and jet lag, REM and non-REM sleep, sleep functions, insomnia and narcolepsy."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.3.1 Psychology of sleep in the OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). The section sits in Unit 3: Advanced topics and research methods 2. The specification says Unit 3 is a 1 hour 30 minute written exam worth 90 marks and 30% of the International A-level, and that Section A, Psychology of sleep, carries 30 marks of compulsory questions.

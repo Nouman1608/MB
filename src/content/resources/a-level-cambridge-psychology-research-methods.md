@@ -21,12 +21,12 @@ syllabusTopics:
     subtopic: "methodological-concepts-as-9990"
 description: "Guide to Paper 2 Research Methods in Cambridge AS & A Level Psychology (9990): the six methods, sampling, validity, reliability and the planning question."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 Paper 2 – Research Methods is worth 60 marks, 1 hour 30 minutes, and

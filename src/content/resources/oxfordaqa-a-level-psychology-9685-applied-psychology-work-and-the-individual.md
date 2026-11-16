@@ -19,12 +19,12 @@ syllabusTopics:
     subtopic: "applied-psychology-work-individual-9685"
 description: "Study guide for OxfordAQA 9685 section 3.4.3: group processes, communication at work, job motivation and satisfaction, and workplace stress."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers section 3.4.3 Applied psychology: work and the individual in the OxfordAQA International AS and A-level Psychology (9685) specification, Version 3.1 (International A-level exams May/June 2020 onwards). The section is Section C of Unit 4: Approaches and application, the synoptic unit. The specification says Unit 4 is a 1 hour 30 minute written exam worth 90 marks and 30% of the International A-level, and that Section C carries 30 marks of compulsory questions.

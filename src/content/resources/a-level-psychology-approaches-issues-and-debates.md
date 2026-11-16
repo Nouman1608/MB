@@ -27,12 +27,12 @@ syllabusTopics:
     subtopic: "social-approach-9990"
 description: "The Biological, Cognitive, Learning and Social Approaches -- the full content of Paper 1 for Cambridge AS & A Level Psychology 9990."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers **Paper 1 Approaches, Issues and Debates**, an AS

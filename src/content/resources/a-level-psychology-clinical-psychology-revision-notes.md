@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "obsessive-compulsive-disorder-ocd-9990"
 description: "Condensed revision notes for Cambridge 9990 Clinical Psychology: ICD-11 criteria, measures, explanations, treatments and key studies for topics 1.1 to 1.5."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 **These notes condense Specialist Option 1, Clinical Psychology, of Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** Each of the five topics has the same three-part shape: diagnose and measure, explain (biological and psychological), then treat and manage. Learn the grid below, the five key studies and the evaluation hooks, and you can answer any Paper 3 or Paper 4 question on this option.

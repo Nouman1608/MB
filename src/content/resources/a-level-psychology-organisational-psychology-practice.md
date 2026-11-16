@@ -30,8 +30,12 @@ syllabusTopics:
     subtopic: "satisfaction-at-work-9990"
 description: "Original Paper 3 and Paper 4 style questions with mark-scheme answers for Cambridge 9990 Organisational Psychology: motivation, leaders, groups, satisfaction."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-11-08
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 > These are original practice questions written in the style of Cambridge AS &

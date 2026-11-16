@@ -23,12 +23,12 @@ syllabusTopics:
     subtopic: "clinical-psychology-and-mental-health-7182"
 description: "Study guide to AQA A-Level Psychology (7182) Paper 1: social influence, memory, attachment, and clinical psychology and mental health, with key studies."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-08-21
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers **Paper 1 Introductory Topics in Psychology** for

@@ -18,12 +18,12 @@ syllabusTopics:
     subtopic: "cognition-and-development-7182"
 description: "Piaget, Vygotsky, Baillargeon, Selman, theory of mind and mirror neurons for AQA A-level Psychology 7182 Paper 3, with evaluation and model paragraphs."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-29
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers **Cognition and development** from the AQA AS and A-level Psychology (7181, 7182) specification, Version 1.4 (1 September 2025), for teaching from September 2025. In the specification PDF this is section 4.3.4, one of the optional topics in 4.3 Issues and options in Psychology. It is examined in **Paper 3: Issues and Options in Psychology**, Section B, which is where you answer on one topic from option 1.

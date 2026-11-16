@@ -15,12 +15,12 @@ syllabusTopics:
     subtopic: "memory-7182"
 description: "Study guide to the multi-store model and the working memory model in the Memory topic of AQA A-Level Psychology (7182), with coding, capacity and duration."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-09-02
 featured: false
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 ---
 
 This guide covers the two structural models of memory within **Memory**

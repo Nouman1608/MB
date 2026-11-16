@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-abnormal-psychology"
 description: "Normality, diagnosis and classification, explanations of disorders and treatment approaches for the IB DP Psychology abnormal psychology option."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current guide for the required disorders, the exact breakdown of the three topics and the studies expected for this option."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "Check the current guide for the required disorders, the exact breakdown of the three topics and the studies expected for this option; 2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---
