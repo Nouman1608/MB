@@ -7,6 +7,7 @@ credentials: []
 image: "/images/faculty/sajawal-zahid.jpg"
 entityType: person
 subjectsTaught: ["Mathematics", "Statistics"]
+subjectsReviewed: ["Design (MYP)"]
 boardsTaught: ["edexcel", "aqa", "oxfordaqa", "ib", "cambridge", "ocr"]
 qualificationsTaught: []
 yearsExperience: 5
@@ -14,5 +15,6 @@ previousSchools: ["King's House School", "Learners Academy", "ESE"]
 sourceUrl: "https://learnersacademy.com.pk/teachers/"
 verifiedOn: 2026-08-18
 isReviewer: true
+sourceNote: "MYP Design review assigned by Nouman Ahmed, owner, in writing, 16 November 2026."
 publicationState: published
 ---

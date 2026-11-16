@@ -17,10 +17,10 @@ syllabusTopics:
     topic: "ib-myp-design-related-concepts"
 description: "Original IB MYP Design practice questions on key and related concepts, percentile data and statements of inquiry, with fully worked answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---

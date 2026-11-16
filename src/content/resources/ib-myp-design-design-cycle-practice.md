@@ -14,10 +14,10 @@ syllabusTopics:
     topic: "ib-myp-design-assessment-criteria"
 description: "Original scenario-based IB MYP Design practice questions on the four design cycle stages and how they map onto Criteria A to D, with full worked answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

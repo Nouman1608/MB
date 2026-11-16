@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "ib-myp-design-global-contexts"
 description: "Revision notes for IB MYP Design: the six global contexts, problem statements built from a design situation, context-led research and a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-09-28
 featured: false
 ---
