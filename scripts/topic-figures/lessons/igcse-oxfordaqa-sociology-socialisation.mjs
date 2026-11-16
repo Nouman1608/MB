@@ -204,7 +204,7 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
     s += label(50, y + 36, n, { size: 17, weight: 700, fill: C.muted }) + para(50, y + 64, 400, t2, { size: 18, weight: 700 }).svg;
     s += arrow(476, y + h / 2, 506, y + h / 2, { w: 3 });
     s += box(512, y, 358, h, { fill: me ? C.cream : C.panel, edge: me ? C.ink : C.panelEdge, sw: me ? 3 : 2 }) + vcenter(528, y, h, 326, c, { size: 16 });
-    if (i === 2 || i === 3) s += `<rect x="40" y="${y + h - 26}" width="110" height="20" rx="10" fill="${C.sand}"/>` + label(95, y + h - 11, 'title swapped', { size: 13, weight: 700, anchor: 'middle', fill: C.rust });
+    if (i === 2 || i === 3) s += `<rect x="300" y="${y + 12}" width="150" height="26" rx="13" fill="${C.sand}"/>` + label(375, y + 31, 'title swapped', { size: 15, weight: 700, anchor: 'middle', fill: C.rust });
     y += h + 12;
   });
   const n = note(y + 6, null, 'This guide covers 3.2.2.2 only. Cite part numbers and contents, not titles alone; revise the other three parts from the specification and your textbook.');

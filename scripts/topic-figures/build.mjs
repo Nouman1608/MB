@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import sharp from 'sharp';
+import { keptReuseBlocks } from './reuse-blocks.mjs';
 
 const [, , mod, outRoot] = process.argv;
 const { slug, figures } = await import(path.resolve(mod));
@@ -22,10 +23,7 @@ for (const f of figures) {
 }
 // Keep hand-added reuse blocks (<!-- reused from <slug> --> ... </figure>) across rebuilds.
 const htmlPath = path.join(dir, 'figures.html');
-if (fs.existsSync(htmlPath)) {
-  const kept = fs.readFileSync(htmlPath, 'utf8').match(/<!-- reused from [\s\S]*?<\/figure>/g) || [];
-  for (const block of kept) html += `\n${block}\n`;
-}
+if (fs.existsSync(htmlPath)) html += keptReuseBlocks(fs.readFileSync(htmlPath, 'utf8'));
 fs.writeFileSync(htmlPath, html);
 fs.writeFileSync(path.join(dir, 'figures.json'), JSON.stringify(manifest, null, 1));
 console.log(manifest.map((m) => `${m.file} 900x${m.height} ${(m.bytes / 1024).toFixed(0)}KB`).join('\n'));

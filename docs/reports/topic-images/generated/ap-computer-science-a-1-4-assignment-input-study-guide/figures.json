@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--01-evaluate-then-store.webp",
+  "width": 900,
+  "height": 634,
+  "after": "## Assignment: evaluate on the right, store on the left",
+  "alt": "The statement a = a * b; with the right side marked \"evaluate first\" and the left variable marked \"store here\". Before, a holds 3 and b holds 5; the right side 3 * 5 evaluates to the int 15; after, a holds 15 and b still holds 5.",
+  "caption": "The right side is evaluated with the current values, then the result replaces the left variable.",
+  "bytes": 59238
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--02-trace-table.webp",
+  "width": 900,
+  "height": 588,
+  "after": "## Assignment: evaluate on the right, store on the left",
+  "alt": "A four-line Java segment and its trace table. a is set to 3, b to a + 2 = 5, then a becomes a * b = 15, and finally b becomes b - a = 5 - 15 = -10, so the program prints 15 -10. In each row only the left-hand variable changes.",
+  "caption": "One row per statement, and each statement changes only the variable on its left.",
+  "bytes": 62718
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--03-type-compatibility.webp",
+  "width": 900,
+  "height": 754,
+  "after": "### An expression has a value and a type",
+  "alt": "Arrows from value types to variable types. An int value can go into an int or a double variable, where 5 becomes 5.0; a double value goes only into a double variable, and the arrow from double to int is crossed out; a boolean value goes only into a boolean variable. Below: double d = a + 2; compiles, int n = 2.5 * 2; does not.",
+  "caption": "The compiler checks the type of the value, not whether it looks like a whole number.",
+  "bytes": 84794
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--04-initialization-and-null.webp",
+  "width": 900,
+  "height": 768,
+  "after": "### Initialization: a variable must have a value before it is used",
+  "alt": "Top: int y; declares y with no value, so int z = y + 1; fails with \"variable y might not have been initialized\". Bottom: the String variable title holds an arrow to a String object \"Dune\", while empty holds null and refers to no object; primitives cannot hold null, and \"\" is a real empty String.",
+  "caption": "A variable must be given a value before use, and null means no object at all.",
+  "bytes": 88810
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--05-scanner-input-to-variables.webp",
+  "width": 900,
+  "height": 1022,
+  "after": "## Input: getting values from a user",
+  "alt": "Three lines of keyboard input, \"Ada Lovelace\", 36 and 1.65, each followed by an end-of-line marker. Each Scanner call reads one item and its value is assigned to a variable: name holds \"Ada Lovelace\", age holds 36 and height holds 1.65. A table lists nextInt, nextDouble, nextBoolean, next and nextLine.",
+  "caption": "Each Scanner call is an expression whose value is stored by an assignment.",
+  "bytes": 120626
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--06-nextline-pitfall.webp",
+  "width": 900,
+  "height": 658,
+  "after": "### The `nextLine` pitfall",
+  "alt": "The input 5, end-of-line, hello, end-of-line, with a read position marker. nextInt() reads 5 and stops before the end-of-line. The first nextLine() reads the empty rest of that line, so rest is the empty string. The second nextLine() reads hello. The program prints [] then [hello].",
+  "caption": "nextInt() leaves the end-of-line behind, so the next nextLine() returns an empty string.",
+  "bytes": 74296
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--07-tracing-mixed-types.webp",
+  "width": 900,
+  "height": 711,
+  "after": "## A reliable method for tracing assignments",
+  "alt": "Four tracing moves: a column per variable with its type, one statement at a time, right side first, overwrite only the left. Applied to worked example 1, items goes 4 then 5, price goes 2.5 then 5.0, and cost goes 10.0 then 22.5, so the program prints 5 5.0 22.5.",
+  "caption": "Columns, one row per statement, right side first: the output is 5 5.0 22.5.",
+  "bytes": 120324
+ },
+ {
+  "file": "ap-computer-science-a-1-4-assignment-input-study-guide--08-rectangle-flowchart.webp",
+  "width": 900,
+  "height": 888,
+  "after": "## Worked example 2: A program driven by input",
+  "alt": "Flowchart of the rectangle program. Two input steps read 4.5 into length and 3 into width as 3.0; area = length * width gives 13.5; perimeter = 2 * (length + width) evaluates the bracket to 7.5 then gives 15.0; the program prints Area: 13.5 and Perimeter: 15.0.",
+  "caption": "Read, compute, print: every variable is assigned before it is used.",
+  "bytes": 103230
+ }
+]
