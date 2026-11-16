@@ -41,7 +41,7 @@ export const DECK_EDEXCEL_A_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
   syllabusCode: '9UR0',
   syllabusSeries: '2018',
   author: 'marlbridge-academic-team',
-  updated: '2026-11-15',
+  updated: '2026-11-16',
   deckReview: { reviewerSlug: 'farheen-zehra', reviewedOn: '2026-11-15' },
   cards: [
     // Theme 1: Evolving Pakistani society
@@ -173,17 +173,17 @@ export const DECK_EDEXCEL_A_LEVEL_URDU_LANGUAGE: FlashcardDeck = {
       { n: 4, f: 'Can you choose a play and a film as your two works?', b: 'Yes. You may study one literary text (the novel, the essays or the play) and one film. You may not study two films.' },
     ]),
     ...sub(T5, 'bin-roye-momina-duraid-9ur0', '5.4', [
-      { n: 1, f: 'بن روئے: director, year and type?', b: 'مومنہ دُرید, 2015, a prescribed film in Appendix 1. The specification gives each film as a name and a year only.' },
+      { n: 1, f: 'بن روئے: named person, year and type?', b: 'مومنہ دُرید, 2015, a prescribed film in Appendix 1. The specification gives each film as a name and a year only.' },
       { n: 2, f: 'Which section covers a film on Paper 2?', b: 'Section C, 45 marks, about 1 hour 5 minutes. You may choose one film only, together with one literary text.' },
       { n: 3, f: 'How do you approach a film response?', b: 'Use the same five angles as for a text: form and technique, themes and issues, characterisation, plot structure and social and cultural setting. Evaluate the film\'s treatment of an issue, not just the story.' },
     ]),
     ...sub(T5, 'baaghban-ravi-chopra-9ur0', '5.5', [
-      { n: 1, f: 'باغبان: director, year and type?', b: 'روی چوپڑہ, 2003, a prescribed film in Appendix 1.' },
+      { n: 1, f: 'باغبان: named person, year and type?', b: 'روی چوپڑہ, 2003, a prescribed film in Appendix 1.' },
       { n: 2, f: 'What does a film answer need to show for the AO4 mark?', b: 'A critical and analytical response with cultural or social insight: connect the film\'s treatment of an issue to a broader social or cultural theme, supported by specific scenes.' },
       { n: 3, f: 'How do you prepare for a film essay without retelling the plot?', b: 'Work out your position, pick two or three specific scenes as evidence, and say what each shows about the theme. Practise writing it in accurate Urdu under the section timing.' },
     ]),
     ...sub(T5, 'bajrangi-bhaijaan-kabir-khan-9ur0', '5.6', [
-      { n: 1, f: 'بجرنگی بھائی جان: director, year and type?', b: 'کبیر خان, 2015, a prescribed film in Appendix 1.' },
+      { n: 1, f: 'بجرنگی بھائی جان: named person, year and type?', b: 'کبیر خان, 2015, a prescribed film in Appendix 1.' },
       { n: 2, f: 'What rule applies to the combination of works on Paper 2?', b: 'Every candidate writes exactly two extended responses: two literary texts, or one literary text and one film. Two films is never allowed.' },
       { n: 3, f: 'Timing across Paper 2', b: 'About 30 minutes for the Section A translation into Urdu and about 1 hour 5 minutes for each extended response. Do not let one section overrun, because the essays carry 45 marks each.' },
     ]),
