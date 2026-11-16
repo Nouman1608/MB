@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.3-study-guide"
 title: "Estimating Probabilities Using Simulation: Study Guide (Statistics 2.3)"
+seoTitle: "Statistics 2.3 Probabilities Using Simulation Study Guide"
 description: "Learn what random processes, outcomes and events are, how to design and carry out a simulation with random digits or technology, and why more trials give better estimates."
 course: "statistics"
 unit: 2

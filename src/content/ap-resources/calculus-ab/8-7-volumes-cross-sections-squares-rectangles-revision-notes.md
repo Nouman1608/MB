@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.7-revision-notes"
 title: "Volumes with Cross Sections: Squares and Rectangles: Revision Notes (Calculus AB 8.7)"
+seoTitle: "Calculus AB 8.7 Cross Sections Squares and Rectangles Notes"
 description: "One-page recap of volumes with square and rectangular cross sections: the slab idea, side length from the base, area formulas, dx or dy, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 8

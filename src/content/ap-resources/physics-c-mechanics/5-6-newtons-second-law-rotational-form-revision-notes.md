@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.6-revision-notes"
 title: "Newton’s Second Law in Rotational Form: Revision Notes (Physics C: Mechanics 5.6)"
+seoTitle: "Physics C Mechanics 5.6 Rotational Newton's 2nd Law Notes"
 description: "One-page recap of rotational dynamics for the calculus-based course: α = Στ/I and its derivation, time-dependent torques by integration, separate linear and rotational equations, and measuring I."
 course: "physics-c-mechanics"
 unit: 5

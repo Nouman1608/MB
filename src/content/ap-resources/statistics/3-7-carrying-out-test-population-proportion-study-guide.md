@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.7-study-guide"
 title: "Carrying Out a Test for a Population Proportion: Study Guide (Statistics 3.7)"
+seoTitle: "Statistics 3.7 Carrying Out a Test for a Proportion Guide"
 description: "Learn to calculate the z test statistic and p-value for one population proportion, compare the p-value with a significance level and write a conclusion in context."
 course: "statistics"
 unit: 3

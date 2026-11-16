@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics 2)"
+seoTitle: "Physics 2 Task Verbs and Free-Response Technique Exam Skills"
 description: "What each free-response task verb asks you to do, how much to write, how to plan the 95-minute section and show working, with weak and strong answers compared."
 course: "physics-2"
 unit: 9

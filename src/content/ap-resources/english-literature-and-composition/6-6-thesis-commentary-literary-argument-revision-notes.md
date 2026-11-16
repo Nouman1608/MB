@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.6-revision-notes
 title: 'Thesis and Commentary in a Literary Argument: Revision Notes (English Literature 6.6)'
+seoTitle: "English Literature 6.6 Literary Argument Thesis Notes"
 description: 'Revision notes on thesis, line of reasoning and commentary in a literary argument: what makes a thesis defensible, the four-move commentary chain and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 6

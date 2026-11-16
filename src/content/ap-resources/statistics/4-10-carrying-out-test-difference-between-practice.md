@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.10-practice"
 title: "Carrying Out a Test for the Difference Between Two Population Means: Practice Questions (Statistics 4.10)"
+seoTitle: "Statistics 4.10 Carrying Out a Test for Two Means Practice"
 description: "Seven original Marlbridge practice questions on the two-sample t-statistic, degrees of freedom, p-values, decisions and conclusions in context, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 4

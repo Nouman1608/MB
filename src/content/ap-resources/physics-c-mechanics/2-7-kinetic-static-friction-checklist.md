@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.7-checklist"
 title: "Kinetic and Static Friction: Topic Checklist (Physics C: Mechanics 2.7)"
+seoTitle: "Physics C Mechanics 2.7 Kinetic, Static Friction Checklist"
 description: "Specific “I can…” statements for kinetic and static friction, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.16-study-guide"
 title: "Working with the Intermediate Value Theorem: Study Guide (Calculus AB 1.16)"
+seoTitle: "Calculus AB 1.16 Intermediate Value Theorem Study Guide"
 description: "Learn what the Intermediate Value Theorem guarantees, why continuity on a closed interval matters, and how to write a full justification from a formula, table or graph."
 course: "calculus-ab"
 unit: 1

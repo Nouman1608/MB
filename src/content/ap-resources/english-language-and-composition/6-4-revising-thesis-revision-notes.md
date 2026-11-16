@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.4-revision-notes
 title: 'Revising a Thesis for New Evidence: Revision Notes (English Language 6.4)'
+seoTitle: "English Language 6.4 Revising a Thesis Revision Notes"
 description: 'One-page recap of revising a thesis for new evidence: the kinds of revision, a step-by-step method, and the changes to the line of reasoning that follow.'
 course: english-language-and-composition
 unit: 6

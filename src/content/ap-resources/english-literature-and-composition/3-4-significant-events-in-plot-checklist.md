@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.4-checklist"
 title: "Significant Events in a Plot: Topic Checklist (English Literature 3.4)"
+seoTitle: "English Lit 3.4 Significant Events in a Plot Topic Checklist"
 description: "Specific I can statements for explaining significant events in a plot, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 3

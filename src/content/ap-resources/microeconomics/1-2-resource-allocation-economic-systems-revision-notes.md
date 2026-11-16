@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.2-revision-notes"
 title: "Resource Allocation and Economic Systems: Revision Notes (Microeconomics 1.2)"
+seoTitle: "Microeconomics 1.2 Resource Allocation Revision Notes"
 description: "One-page recap of the three basic economic questions and how command, market and mixed economies answer them, with coordinating mechanisms, limitations and the mistakes that cost marks."
 course: "microeconomics"
 unit: 1

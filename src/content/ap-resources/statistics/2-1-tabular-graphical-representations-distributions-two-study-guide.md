@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.1-study-guide"
 title: "Tabular and Graphical Representations for Two Categorical Variables: Study Guide (Statistics 2.1)"
+seoTitle: "Statistics 2.1 Graphing Two Categorical Variables Guide"
 description: "Learn to read and build two-way tables, side-by-side bar charts, segmented bar charts and mosaic plots, and use them to judge whether two categorical variables are associated."
 course: "statistics"
 unit: 2

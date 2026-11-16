@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.9-study-guide"
 title: "Logistic Models with Differential Equations: Study Guide (Calculus BC 7.9)"
+seoTitle: "Calculus BC 7.9 Logistic Differential Equations Guide"
 description: "Write a logistic differential equation from a sentence, then read it without solving: the carrying capacity, the long-run limit, and the value where growth is fastest."
 course: "calculus-bc"
 unit: 7

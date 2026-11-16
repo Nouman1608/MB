@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.6-revision-notes"
 title: "Applying Properties of Definite Integrals: Revision Notes (Calculus AB 6.6)"
+seoTitle: "Calculus AB 6.6 Properties of Definite Integrals Notes"
 description: "One-page recap of evaluating definite integrals with geometry and with the properties for constants, sums, reversed limits, adjacent intervals and discontinuities."
 course: "calculus-ab"
 unit: 6

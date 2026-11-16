@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.11-practice"
 title: "Introduction to Solubility Equilibria: Practice Questions (Chemistry 7.11)"
+seoTitle: "Chemistry 7.11 Solubility Equilibria Practice Questions"
 description: "Seven original Marlbridge practice questions on K_sp expressions, molar solubility, K_sp from data and comparing salts, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 7

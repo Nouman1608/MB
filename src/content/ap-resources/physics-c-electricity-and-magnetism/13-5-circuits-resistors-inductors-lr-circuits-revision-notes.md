@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.5-revision-notes"
 title: "Circuits with Resistors and Inductors (LR Circuits): Revision Notes (Physics C: E&M 13.5)"
+seoTitle: "Physics C E&M 13.5 LR Circuits Revision Notes"
 description: "One-page recap of LR circuits for the calculus-based course: the loop equation, τ = L/R, growth and decay formulas, switching rules and where the stored energy goes."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

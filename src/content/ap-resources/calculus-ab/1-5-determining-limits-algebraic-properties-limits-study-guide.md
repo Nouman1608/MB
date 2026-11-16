@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.5-study-guide"
 title: "Determining Limits Using Algebraic Properties of Limits: Study Guide (Calculus AB 1.5)"
+seoTitle: "Calculus AB 1.5 Limits Using Algebraic Properties Guide"
 description: "Learn the limit laws for sums, products, quotients, powers, roots and composite functions, when each applies, and how to find one-sided limits from formulas and graphs."
 course: "calculus-ab"
 unit: 1

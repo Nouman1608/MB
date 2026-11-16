@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.1-practice"
 title: "Structure and contrasts in poetry: Practice Questions (English Literature 8.1)"
+seoTitle: "English Lit 8.1 Structure and Contrasts in Poetry Practice"
 description: "Original Marlbridge practice questions on structure and contrasts in poetry, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 8

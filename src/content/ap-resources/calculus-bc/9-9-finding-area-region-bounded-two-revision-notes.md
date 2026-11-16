@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.9-revision-notes"
 title: "Finding the Area of the Region Bounded by Two Polar Curves: Revision Notes (Calculus BC 9.9)"
+seoTitle: "Calculus BC 9.9 Area Bounded by Two Polar Curves Notes"
 description: "One-page recap of area between two polar curves: the ½ ∫ (R² − r²) dθ formula, finding intersections and the pole, regions inside both curves, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 9

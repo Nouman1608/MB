@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.6-study-guide"
 title: "Thesis and Commentary in a Prose Analysis: Study Guide (English Literature 4.6)"
+seoTitle: "English Literature 4.6 Prose Analysis Thesis Study Guide"
 description: "A first-principles guide to how to write a defensible thesis and developed commentary in an essay analysing a passage of prose fiction, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 4

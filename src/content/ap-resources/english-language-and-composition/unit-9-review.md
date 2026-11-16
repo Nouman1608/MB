@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u9-review"
 title: "Counterarguments: Concession, Rebuttal and Refutation: Mixed Unit Review (English Language Unit 9)"
+seoTitle: "English Language Unit 9 Counterarguments Review"
 description: "Big ideas, a one-table method summary and five original exam-style questions that each combine two or more Unit 9 topics, with worked answers and suggested rubrics."
 course: "english-language-and-composition"
 unit: 9

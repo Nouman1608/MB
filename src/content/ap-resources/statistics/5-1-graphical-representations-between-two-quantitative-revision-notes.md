@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.1-revision-notes"
 title: "Graphical Representations Between Two Quantitative Variables: Revision Notes (Statistics 5.1)"
+seoTitle: "Statistics 5.1 Graphing Two Quantitative Variables Notes"
 description: "One-page recap of scatterplots: explanatory and response variables, axes and scales, and describing form, direction, strength and unusual features in context."
 course: "statistics"
 unit: 5

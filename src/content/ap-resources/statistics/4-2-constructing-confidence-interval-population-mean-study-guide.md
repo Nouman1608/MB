@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.2-study-guide"
 title: "Constructing a Confidence Interval for a Mean or Mean Difference: Study Guide (Statistics 4.2)"
+seoTitle: "Statistics 4.2 Confidence Interval for a Mean Study Guide"
 description: "Learn how t-distributions work, when to use a one-sample t-interval for μ or for a matched-pairs mean difference μd, how to check the conditions and how to calculate the interval."
 course: "statistics"
 unit: 4

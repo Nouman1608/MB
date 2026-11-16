@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.5-revision-notes"
 title: "Introducing Counterarguments, and When to Address Them: Revision Notes (English Language 9.5)"
+seoTitle: "English Language 9.5 Introducing Counterarguments Notes"
 description: "One-page recap of introducing counterarguments with transitions and choosing where to place them, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.7-practice"
 title: "Carrying Out a Test for a Population Proportion: Practice Questions (Statistics 3.7)"
+seoTitle: "Statistics 3.7 Carrying Out a Proportion Test Practice"
 description: "Seven original Marlbridge practice questions on the one-proportion z-test: test statistic, p-values for each alternative, decisions at a significance level and conclusions in context."
 course: "statistics"
 unit: 3

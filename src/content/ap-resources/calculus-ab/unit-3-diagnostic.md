@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u3-diagnostic"
 title: "Differentiation: Composite, Implicit, and Inverse Functions: Unit Diagnostic (Calculus AB Unit 3)"
+seoTitle: "Calculus AB Unit 3 Composite, Implicit, Inverse Diagnostic"
 description: "Ten short original questions, one or two per topic of composite, implicit and inverse differentiation, to show which topics to revisit, with explanations and links."
 course: "calculus-ab"
 unit: 3

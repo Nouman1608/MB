@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.1-checklist"
 title: "Beneficial and Harmful Effects: Topic Checklist (Computer Science Principles 5.1)"
+seoTitle: "CS Principles 5.1 Beneficial and Harmful Effects Checklist"
 description: "Specific I can statements for beneficial and harmful effects of computing, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 5

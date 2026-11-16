@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.3-checklist"
 title: "Estimating Limit Values from Graphs: Topic Checklist (Calculus AB 1.3)"
+seoTitle: "Calculus AB 1.3 Estimating Limits from Graphs Checklist"
 description: "Specific “I can…” statements for reading limits from graphs, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1

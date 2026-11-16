@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-exam-skills-free-response-essays"
 title: "The Three Free-Response Essays: Planning, Thesis, Reasoning and Timing: Exam Skills Guide (English Language)"
+seoTitle: "English Language Free-Response Essays Exam Skills Guide"
 description: "How to plan, open, develop and time the synthesis, rhetorical analysis and argument essays, with annotated model paragraphs, a thesis checklist and a Marlbridge six-point rubric."
 course: "english-language-and-composition"
 unit: 1

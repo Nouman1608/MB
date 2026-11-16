@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.9-study-guide"
 title: "Comparisons of the Distributions for One Quantitative Variable: Study Guide (Statistics 1.9)"
+seoTitle: "Statistics 1.9 Comparisons of Distributions Study Guide"
 description: "Learn to compare two or more distributions of a quantitative variable using dot plots, stemplots, histograms and boxplots, justify claims in context, and use z-scores for relative position."
 course: "statistics"
 unit: 1

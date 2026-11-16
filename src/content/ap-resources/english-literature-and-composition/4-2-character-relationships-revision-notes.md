@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.2-revision-notes"
 title: "Nuance and Complexity in Character Relationships: Revision Notes (English Literature 4.2)"
+seoTitle: "English Literature 4.2 Complex Character Relationships Notes"
 description: "One-page recap of how textual details reveal the nuance and complexity of relationships between characters in short fiction: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 4

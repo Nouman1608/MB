@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-u5-diagnostic
 title: 'Coherence, Transitions and Word Choice: Unit Diagnostic (English Language Unit 5)'
+seoTitle: "English Language Unit 5 Coherence and Transitions Diagnostic"
 description: A 30-minute check with one short question per topic of Unit 5, from body paragraphs and coherence to transitions, connotation and precise word choice, showing which topics to revisit.
 course: english-language-and-composition
 unit: 5

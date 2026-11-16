@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.6-practice"
 title: "Compound Assignment Operators: Practice Questions (Computer Science A 1.6)"
+seoTitle: "Computer Science A 1.6 Compound Assignment Practice"
 description: "Nine original Marlbridge practice questions on compound assignment operators and the ++ and -- operators, including tracing, equivalent statements and writing short update code."
 course: "computer-science-a"
 unit: 1

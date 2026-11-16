@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.6-practice
 title: 'Thesis and Commentary in a Literary Argument: Practice Questions (English Literature 6.6)'
+seoTitle: "English Literature 6.6 Literary Argument Thesis Practice"
 description: Nine original Marlbridge practice questions on thesis statements, lines of reasoning and commentary in a literary argument, with full explanations, model answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

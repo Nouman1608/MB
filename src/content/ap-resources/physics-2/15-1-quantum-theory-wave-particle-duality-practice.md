@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.1-practice"
 title: "Quantum Theory and Wave-Particle Duality: Practice Questions (Physics 2 15.1)"
+seoTitle: "Physics 2 15.1 Wave-Particle Duality Practice Questions"
 description: "Seven original Marlbridge practice questions on photon energy, photons per second, light in a medium, two-slit evidence and de Broglie wavelengths, with full solutions."
 course: "physics-2"
 unit: 15

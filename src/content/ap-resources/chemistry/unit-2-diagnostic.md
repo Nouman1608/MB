@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-u2-diagnostic"
 title: "Compound Structure and Properties: Unit Diagnostic (Chemistry Unit 2)"
+seoTitle: "Chemistry Unit 2 Compound Structure, Properties Diagnostic"
 description: "Nine short original questions, one or two per topic, to find which parts of bonding, ionic and metallic solids, Lewis diagrams, resonance and molecular shape you should revisit."
 course: "chemistry"
 unit: 2

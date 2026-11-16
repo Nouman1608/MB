@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.6-practice"
 title: "Thesis and commentary in a poetry essay: Practice Questions (English Literature 8.6)"
+seoTitle: "English Lit 8.6 Poetry Essay Thesis and Commentary Practice"
 description: "Original Marlbridge practice questions on thesis and commentary in a poetry essay, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 8

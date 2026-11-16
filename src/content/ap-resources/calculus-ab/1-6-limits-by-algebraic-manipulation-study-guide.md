@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.6-study-guide"
 title: "Determining Limits Using Algebraic Manipulation: Study Guide (Calculus AB 1.6)"
+seoTitle: "Calculus AB 1.6 Limits Using Algebraic Manipulation Guide"
 description: "Learn why 0/0 is a signal rather than an answer, and how factoring, conjugates, combining fractions and trig identities turn it into a limit you can evaluate."
 course: "calculus-ab"
 unit: 1

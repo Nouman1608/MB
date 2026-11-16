@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u4-diagnostic"
 title: "Contextual Applications of Differentiation: Unit Diagnostic (Calculus AB Unit 4)"
+seoTitle: "Calculus AB Unit 4 Contextual Differentiation Diagnostic"
 description: "Ten short original questions, one or two per topic of Contextual Applications of Differentiation, to show which topics you should revisit, with explanations and links."
 course: "calculus-ab"
 unit: 4

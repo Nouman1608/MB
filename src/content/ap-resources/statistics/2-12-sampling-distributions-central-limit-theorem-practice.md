@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.12-practice"
 title: "Sampling Distributions and the Central Limit Theorem: Practice Questions (Statistics 2.12)"
+seoTitle: "Statistics 2.12 Central Limit Theorem Practice Questions"
 description: "Seven original Marlbridge practice questions on sampling distributions, simulation, randomization distributions and the central limit theorem, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

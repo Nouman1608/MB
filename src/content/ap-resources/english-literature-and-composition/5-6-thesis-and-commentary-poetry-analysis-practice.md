@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.6-practice"
 title: "Thesis and Commentary in a Poetry Analysis: Practice Questions (English Literature 5.6)"
+seoTitle: "English Literature 5.6 Poetry Analysis Thesis Practice"
 description: "Original Marlbridge practice questions on how to write a defensible thesis and developed commentary in an essay analysing a poem, using device-to-effect chains, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 5

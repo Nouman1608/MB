@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.2-revision-notes"
 title: "Defining Limits and Using Limit Notation: Revision Notes (Calculus AB 1.2)"
+seoTitle: "Calculus AB 1.2 Defining Limits and Limit Notation Notes"
 description: "One-page recap of the informal definition of a limit, each part of limit notation, why f(c) does not decide the limit, and the notation slips that cost marks."
 course: "calculus-ab"
 unit: 1

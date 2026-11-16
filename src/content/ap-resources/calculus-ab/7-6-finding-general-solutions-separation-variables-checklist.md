@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.6-checklist"
 title: "Finding General Solutions Using Separation of Variables: Topic Checklist (Calculus AB 7.6)"
+seoTitle: "Calculus AB 7.6 Separation of Variables Topic Checklist"
 description: "Specific “I can…” statements for separable differential equations and general solutions, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 7

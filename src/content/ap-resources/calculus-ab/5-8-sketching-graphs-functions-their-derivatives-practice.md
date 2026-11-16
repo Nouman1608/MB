@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.8-practice"
 title: "Sketching Graphs of Functions and Their Derivatives: Practice Questions (Calculus AB 5.8)"
+seoTitle: "Calculus AB 5.8 Graphs of Functions and Derivatives Practice"
 description: "Seven original Marlbridge practice questions on describing and sketching f from formulas, graphs of f′ and tables, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

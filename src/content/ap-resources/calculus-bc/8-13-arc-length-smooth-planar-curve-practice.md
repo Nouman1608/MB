@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-8.13-practice"
 title: "The Arc Length of a Smooth, Planar Curve and Distance Traveled: Practice Questions (Calculus BC 8.13)"
+seoTitle: "Calculus BC 8.13 Arc Length and Distance Traveled Practice"
 description: "Seven original Marlbridge practice questions on arc length: setting up the integral, exact and calculator lengths, x = g(y) curves, bounds, and distance traveled along a path, with rubrics."
 course: "calculus-bc"
 unit: 8

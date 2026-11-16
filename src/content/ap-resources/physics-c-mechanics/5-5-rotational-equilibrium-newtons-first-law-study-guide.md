@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.5-study-guide"
 title: "Rotational Equilibrium and Newton’s First Law in Rotational Form: Study Guide (Physics C: Mechanics 5.5)"
+seoTitle: "Physics C Mechanics 5.5 Rotational Equilibrium Study Guide"
 description: "Calculus-based rotational equilibrium: when angular velocity stays constant, extended force diagrams, the torque of a distributed weight by integration, and why the two equilibrium conditions are independent."
 course: "physics-c-mechanics"
 unit: 5

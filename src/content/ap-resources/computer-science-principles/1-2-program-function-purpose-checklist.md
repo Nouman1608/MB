@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.2-checklist"
 title: "Program Function and Purpose: Topic Checklist (Computer Science Principles 1.2)"
+seoTitle: "CS Principles 1.2 Program Function and Purpose Checklist"
 description: "Specific I can statements for program function and purpose, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 1

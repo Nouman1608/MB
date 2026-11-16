@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.2-checklist"
 title: "Evidence that Supports, Complements or Contradicts a Thesis: Topic Checklist (English Language 9.2)"
+seoTitle: "English Language 9.2 Evidence and the Thesis Topic Checklist"
 description: "Specific \"I can\" statements for classifying evidence and sources as supporting, complementing or contradicting a thesis, and using each type, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 9

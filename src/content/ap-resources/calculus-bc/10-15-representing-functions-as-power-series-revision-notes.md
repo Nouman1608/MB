@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.15-revision-notes"
 title: "Representing Functions as Power Series: Revision Notes (Calculus BC 10.15)"
+seoTitle: "Calculus BC 10.15 Functions as Power Series Revision Notes"
 description: "One-page recap of building power series from known series: geometric rewriting, substitution, powers of x, term-by-term calculus, intervals and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 10

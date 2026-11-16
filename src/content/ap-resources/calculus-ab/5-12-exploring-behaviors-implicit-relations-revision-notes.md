@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.12-revision-notes"
 title: "Exploring Behaviors of Implicit Relations: Revision Notes (Calculus AB 5.12)"
+seoTitle: "Calculus AB 5.12 Behaviors of Implicit Relations Notes"
 description: "One-page recap of implicit relations: critical points where dy/dx is 0 or undefined, the 0/0 case, sign analysis in x and y, and second derivative tests."
 course: "calculus-ab"
 unit: 5

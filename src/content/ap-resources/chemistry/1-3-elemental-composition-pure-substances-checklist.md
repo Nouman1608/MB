@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.3-checklist"
 title: "Elemental Composition of Pure Substances: Topic Checklist (Chemistry 1.3)"
+seoTitle: "Chemistry 1.3 Composition of Pure Substances Checklist"
 description: "Specific “I can…” statements for elemental composition and empirical formulas, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 1

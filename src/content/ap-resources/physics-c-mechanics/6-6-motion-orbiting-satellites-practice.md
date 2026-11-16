@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.6-practice"
 title: "Motion of Orbiting Satellites: Practice Questions (Physics C: Mechanics 6.6)"
+seoTitle: "Physics C Mechanics 6.6 Orbiting Satellites Practice"
 description: "Seven original Marlbridge calculus-based practice questions on orbits: conserved quantities, circular-orbit energies, factors of change, escape speed and an elliptical orbit solved from one end."
 course: "physics-c-mechanics"
 unit: 6

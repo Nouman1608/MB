@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.3-practice"
 title: "Appeals: The Modes of Persuasion: Practice Questions (English Language 2.3)"
+seoTitle: "English Language 2.3 Modes of Persuasion Practice Questions"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.3"]

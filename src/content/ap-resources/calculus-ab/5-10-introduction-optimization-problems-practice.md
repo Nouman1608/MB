@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.10-practice"
 title: "Introduction to Optimization Problems: Practice Questions (Calculus AB 5.10)"
+seoTitle: "Calculus AB 5.10 Optimization Problems Practice Questions"
 description: "Seven original Marlbridge practice questions on setting up and solving optimization problems, with full solutions, distractor explanations and suggested rubrics."
 course: "calculus-ab"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.2-practice
 title: 'Setting and Its Relationship to Character: Practice Questions (English Literature 7.2)'
+seoTitle: "English Literature 7.2 Setting and Character Practice"
 description: 'Nine original Marlbridge practice questions on setting and its relationship to character in short fiction: values conveyed, changes of setting, contrasted settings and behaviour in place, with full answers.'
 course: english-literature-and-composition
 unit: 7

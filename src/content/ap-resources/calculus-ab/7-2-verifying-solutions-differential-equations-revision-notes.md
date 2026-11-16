@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.2-revision-notes"
 title: "Verifying Solutions for Differential Equations: Revision Notes (Calculus AB 7.2)"
+seoTitle: "Calculus AB 7.2 Verifying Differential Equations Notes"
 description: "One-page recap of checking solutions to differential equations: the four-step method, families of solutions, second-order checks and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.11-study-guide"
 title: "Justifying a Claim Based on a Confidence Interval for Two Proportions: Study Guide (Statistics 3.11)"
+seoTitle: "Statistics 3.11 Two-Proportion CI Claims Study Guide"
 description: "Learn to interpret a confidence interval and confidence level for p₁ − p₂ in context, and use whether the interval contains 0 to justify a claim about two populations or treatments."
 course: "statistics"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.8-practice"
 title: "Introduction to Random Variables and Probability Distributions: Practice Questions (Statistics 2.8)"
+seoTitle: "Statistics 2.8 Random Variables and Distributions Practice"
 description: "Seven original Marlbridge practice questions on discrete random variables, valid distributions, cumulative distributions and simulation estimates, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

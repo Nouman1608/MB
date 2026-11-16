@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.6-revision-notes"
 title: "From Claim-and-Evidence Paragraph to Defensible Thesis: Revision Notes (English Literature 3.6)"
+seoTitle: "English Literature 3.6 Defensible Thesis Revision Notes"
 description: "A one-page recap of the thesis statement: what it must do, how it differs from a topic, summary or list, how to preview a line of reasoning and how to test a draft thesis."
 course: "english-literature-and-composition"
 unit: 3

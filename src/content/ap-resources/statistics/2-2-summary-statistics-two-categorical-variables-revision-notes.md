@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.2-revision-notes"
 title: "Summary Statistics for Two Categorical Variables: Revision Notes (Statistics 2.2)"
+seoTitle: "Statistics 2.2 Summarizing Two Categorical Variables Notes"
 description: "One-page recap of joint, marginal and conditional relative frequencies, how to pick the denominator, how to judge association, and the mistakes that cost marks."
 course: "statistics"
 unit: 2

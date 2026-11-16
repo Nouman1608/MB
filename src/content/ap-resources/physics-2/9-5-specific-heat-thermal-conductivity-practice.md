@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.5-practice"
 title: "Specific Heat and Thermal Conductivity: Practice Questions (Physics 2 9.5)"
+seoTitle: "Physics 2 9.5 Specific Heat and Conductivity Practice"
 description: "Seven original Marlbridge practice questions on Q = mcΔT, mixing to equilibrium, conduction rates, designing a specific heat experiment and a two-layer wall, with full solutions."
 course: "physics-2"
 unit: 9

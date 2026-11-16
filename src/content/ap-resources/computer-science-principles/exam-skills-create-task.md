@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-exam-skills-create-task"
 title: "The Create Performance Task: Exam Skills Guide (Computer Science Principles)"
+seoTitle: "CS Principles Create Performance Task Exam Skills Guide"
 description: "How to plan, build, document and reflect on a Create performance task program, and how to write clearly about your own code, with checklists and original practice. No sample submission."
 course: "computer-science-principles"
 unit: 1

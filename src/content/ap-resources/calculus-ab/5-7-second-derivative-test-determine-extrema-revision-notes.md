@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.7-revision-notes"
 title: "Using the Second Derivative Test to Determine Extrema: Revision Notes (Calculus AB 5.7)"
+seoTitle: "Calculus AB 5.7 Second Derivative Test for Extrema Notes"
 description: "One-page recap of the second derivative test: the three cases, when it cannot be used, how to justify a conclusion and when a relative extremum is also absolute."
 course: "calculus-ab"
 unit: 5

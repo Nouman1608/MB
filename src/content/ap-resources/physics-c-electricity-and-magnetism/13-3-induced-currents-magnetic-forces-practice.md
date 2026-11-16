@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.3-practice"
 title: "Induced Currents and Magnetic Forces: Practice Questions (Physics C: E&M 13.3)"
+seoTitle: "Physics C E&M 13.3 Induced Currents Practice Questions"
 description: "Seven original Marlbridge practice questions on magnetic forces on induced currents: braking direction, factors of change, rods on rails and falling loops, with solutions."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

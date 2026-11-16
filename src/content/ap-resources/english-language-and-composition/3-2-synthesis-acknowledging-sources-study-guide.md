@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.2-study-guide"
 title: "Synthesis and Acknowledging Sources: Study Guide (English Language 3.2)"
+seoTitle: "English Language 3.2 Synthesis and Sources Study Guide"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.2"]

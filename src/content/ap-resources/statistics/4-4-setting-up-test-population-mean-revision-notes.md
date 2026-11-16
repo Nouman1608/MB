@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.4-revision-notes"
 title: "Setting Up a Test for a Population Mean or Population Mean Difference: Revision Notes (Statistics 4.4)"
+seoTitle: "Statistics 4.4 Setting Up a Test for a Mean Revision Notes"
 description: "One-page recap of setting up a one-sample t-test for a mean or a matched-pairs mean difference: procedure, parameter, hypotheses, conditions and the mistakes that cost marks."
 course: "statistics"
 unit: 4

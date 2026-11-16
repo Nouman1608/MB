@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.5-practice"
 title: "Simple and Physical Pendulums: Practice Questions (Physics C: Mechanics 7.5)"
+seoTitle: "Physics C Mechanics 7.5 Pendulums Practice Questions"
 description: "Seven original Marlbridge calculus-based practice questions on physical, simple and torsion pendulums: periods, derivations from τ = Iα, linearised timing data and adding mass."
 course: "physics-c-mechanics"
 unit: 7

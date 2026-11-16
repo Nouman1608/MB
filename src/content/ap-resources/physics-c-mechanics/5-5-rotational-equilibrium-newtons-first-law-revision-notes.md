@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.5-revision-notes"
 title: "Rotational Equilibrium and Newton’s First Law in Rotational Form: Revision Notes (Physics C: Mechanics 5.5)"
+seoTitle: "Physics C Mechanics 5.5 Rotational Equilibrium Notes"
 description: "One-page recap of rotational equilibrium for the calculus-based course: Στ = 0 and constant ω, the torque of a distributed weight, the free choice of torque point, and the two independent conditions."
 course: "physics-c-mechanics"
 unit: 5

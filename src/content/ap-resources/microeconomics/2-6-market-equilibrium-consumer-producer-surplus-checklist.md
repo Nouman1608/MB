@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.6-checklist"
 title: "Market Equilibrium and Consumer and Producer Surplus: Topic Checklist (Microeconomics 2.6)"
+seoTitle: "Microeconomics 2.6 Equilibrium and Surplus Topic Checklist"
 description: "Specific “I can…” statements for market equilibrium and consumer and producer surplus, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 2

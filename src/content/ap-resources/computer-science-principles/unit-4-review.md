@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u4-review"
 title: "Computer Systems and Networks: Mixed Unit Review (Computer Science Principles Unit 4)"
+seoTitle: "CS Principles Unit 4 Computer Systems and Networks Review"
 description: "Big ideas, a one-table method summary and six original exam-style questions that combine Unit 4 topics, with worked solutions and suggested rubrics."
 course: "computer-science-principles"
 unit: 4

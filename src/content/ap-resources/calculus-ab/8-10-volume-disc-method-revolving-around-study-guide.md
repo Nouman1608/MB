@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.10-study-guide"
 title: "Volume with the Disc Method: Revolving Around Other Axes: Study Guide (Calculus AB 8.10)"
+seoTitle: "Calculus AB 8.10 Disc Method Around Other Axes Study Guide"
 description: "Learn how to use discs when a region spins about a line such as y = 1 or x = 3: find the radius as a distance from that line, choose dx or dy, and set up and evaluate the integral."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.4-practice"
 title: "The Function of Specific Words and Phrases: Practice Questions (English Literature 2.4)"
+seoTitle: "English Lit 2.4 Function of Words and Phrases Practice"
 description: "Nine original Marlbridge questions on the function of specific words and phrases in poems: referents, ambiguity, repetition and alliteration, with answers and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 2

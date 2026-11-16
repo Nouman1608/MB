@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-u14-review"
 title: "Waves, Sound and Physical Optics: Mixed Unit Review (Physics 2 Unit 14)"
+seoTitle: "Physics 2 Unit 14 Waves, Sound and Physical Optics Review"
 description: "Connect the wave and optics topics: the big ideas, one summary table and six original questions that combine wave speed, boundaries, standing waves, beats, Doppler, diffraction, gratings and thin films."
 course: "physics-2"
 unit: 14

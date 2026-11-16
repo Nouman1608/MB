@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.3-revision-notes"
 title: "Reaction Quotient and Equilibrium Constant: Revision Notes (Chemistry 7.3)"
+seoTitle: "Chemistry 7.3 Reaction Quotient and Equilibrium K Notes"
 description: "One-page recap of how to write Q and K in concentrations or partial pressures, when Q equals K, and which species to leave out of the expression."
 course: "chemistry"
 unit: 7

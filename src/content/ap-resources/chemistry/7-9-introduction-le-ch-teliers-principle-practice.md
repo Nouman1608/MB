@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.9-practice"
 title: "Introduction to Le Châtelier's Principle: Practice Questions (Chemistry 7.9)"
+seoTitle: "Chemistry 7.9 Le Châtelier's Principle Practice Questions"
 description: "Seven original Marlbridge practice questions on predicting equilibrium shifts and their effects on colour, pH and temperature, with full explanations and suggested mark points."
 course: "chemistry"
 unit: 7

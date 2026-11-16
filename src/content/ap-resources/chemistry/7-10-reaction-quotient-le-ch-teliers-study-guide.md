@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.10-study-guide"
 title: "Reaction Quotient and Le Châtelier's Principle: Study Guide (Chemistry 7.10)"
+seoTitle: "Chemistry 7.10 Reaction Quotient and Le Châtelier Guide"
 description: "Learn to explain every equilibrium shift with numbers: calculate Q after a stress, compare it with K, and see why temperature is the only stress that changes K."
 course: "chemistry"
 unit: 7

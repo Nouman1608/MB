@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.3-study-guide"
 title: "Mathematical Expressions: Study Guide (Computer Science Principles 3.3)"
+seoTitle: "CS Principles 3.3 Mathematical Expressions Study Guide"
 description: "How arithmetic expressions are evaluated, how order of operations treats MOD, and how to use MOD for parity, divisibility, digits and wrap-around. Two worked examples and misconceptions."
 course: "computer-science-principles"
 unit: 3

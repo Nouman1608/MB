@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.5-checklist"
 title: "Details, diction and syntax that reveal perspective: Topic Checklist (English Literature 9.5)"
+seoTitle: "English Lit 9.5 Diction and Syntax for Perspective Checklist"
 description: "Specific \"I can\" statements for details, diction and syntax that reveal perspective, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.6-study-guide"
 title: "Grammar, Mechanics and Punctuation: Study Guide (English Language 7.6)"
+seoTitle: "English Language 7.6 Grammar and Punctuation Study Guide"
 description: "How conventional grammar and mechanics keep an argument clear, and how commas, colons, semicolons, dashes, hyphens, parentheses, quotation marks and end marks shape meaning and tone."
 course: "english-language-and-composition"
 unit: 7

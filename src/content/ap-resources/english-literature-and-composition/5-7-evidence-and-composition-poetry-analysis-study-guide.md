@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.7-study-guide"
 title: "Evidence and Composition in a Poetry Analysis: Study Guide (English Literature 5.7)"
+seoTitle: "English Literature 5.7 Poetry Analysis Evidence Study Guide"
 description: "A first-principles guide to selecting, quoting and integrating evidence from a poem and controlling paragraphs and transitions in an essay, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 5

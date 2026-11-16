@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.8-practice"
 title: "Graphical Representations of Summary Statistics: Practice Questions (Statistics 1.8)"
+seoTitle: "Statistics 1.8 Graphing Summary Statistics Practice"
 description: "Seven original Marlbridge practice questions on five-number summaries, boxplots with outliers, reading boxplots, and the link between shape, mean and median, with worked solutions."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.1-revision-notes"
 title: "Introduction to Algorithms, Programming, and Compilers: Revision Notes (Computer Science A 1.1)"
+seoTitle: "Computer Science A 1.1 Programming and Compilers Notes"
 description: "A one-page recap of algorithms, sequencing, the compile-and-run process and the three kinds of programming error, with a quick self-check."
 course: "computer-science-a"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u1-review"
 title: "Exploring One-Variable Data and Collecting Data: Mixed Unit Review (Statistics Unit 1)"
+seoTitle: "Statistics Unit 1 Exploring One-Variable Data Unit Review"
 description: "Big ideas, a one-table method summary and seven original exam-style questions that each combine two or more Unit 1 topics, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

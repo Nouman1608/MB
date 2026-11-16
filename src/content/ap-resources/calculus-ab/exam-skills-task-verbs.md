@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Calculus AB and BC)"
+seoTitle: "Calculus AB BC Task Verbs and Free-Response Exam Skills"
 description: "What each free-response task verb asks you to do, how much to write, how to plan your time and show work, and what earns or loses credit, with original worked examples."
 course: "calculus-ab"
 unit: 1

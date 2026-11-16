@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.11-revision-notes"
 title: "Finding Taylor Polynomial Approximations of Functions: Revision Notes (Calculus BC 10.11)"
+seoTitle: "Calculus BC 10.11 Taylor Polynomial Approximations Notes"
 description: "One-page recap of Taylor polynomials: the f⁽ⁿ⁾(a)/n! coefficient, building from a derivative table, reading derivatives back, estimating values and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 10

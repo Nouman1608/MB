@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.3-practice"
 title: "Gibbs Free Energy and Thermodynamic Favorability: Practice Questions (Chemistry 9.3)"
+seoTitle: "Chemistry 9.3 Gibbs Free Energy and Favorability Practice"
 description: "Seven original Marlbridge practice questions on ΔG°, free energies of formation, ΔG° = ΔH° − TΔS° and temperature conditions for favourability, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 9

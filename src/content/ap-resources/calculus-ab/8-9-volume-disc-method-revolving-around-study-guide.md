@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.9-study-guide"
 title: "Volume with the Disc Method: Revolving Around the x- or y-Axis: Study Guide (Calculus AB 8.9)"
+seoTitle: "Calculus AB 8.9 Disc Method Around the x- or y-Axis Guide"
 description: "Learn why spinning a region about the x- or y-axis gives circular slices, how to write the disc integral π∫r² with the right variable and limits, and how to evaluate it with and without a calculator."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.2-revision-notes
 title: 'How Choices, Actions and Speech Reveal Complexity: Revision Notes (English Literature 6.2)'
+seoTitle: "English Lit 6.2 Character Choices and Complexity Notes"
 description: 'Revision notes on how a character''s choices, actions and speech reveal complexity: the tension-mapping method, key terms, common mistakes and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 6

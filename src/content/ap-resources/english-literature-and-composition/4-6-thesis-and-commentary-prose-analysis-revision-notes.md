@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.6-revision-notes"
 title: "Thesis and Commentary in a Prose Analysis: Revision Notes (English Literature 4.6)"
+seoTitle: "English Literature 4.6 Prose Analysis Thesis Revision Notes"
 description: "One-page recap of how to write a defensible thesis and developed commentary in an essay analysing a passage of prose fiction: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 4

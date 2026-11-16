@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.5-study-guide"
 title: "Narrator, Point of View and Perspective: Study Guide (English Literature 4.5)"
+seoTitle: "English Literature 4.5 Narrator and Point of View Guide"
 description: "A first-principles guide to narrators, point of view and narrative distance, and how diction and syntax reveal perspective, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 4

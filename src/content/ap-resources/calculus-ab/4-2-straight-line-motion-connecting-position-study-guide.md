@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.2-study-guide"
 title: "Straight-Line Motion: Connecting Position, Velocity, and Acceleration: Study Guide (Calculus AB 4.2)"
+seoTitle: "Calculus AB 4.2 Position, Velocity and Acceleration Guide"
 description: "Learn how position, velocity, acceleration and speed are linked by derivatives, how to tell the direction of motion, and how to decide when an object speeds up or slows down."
 course: "calculus-ab"
 unit: 4

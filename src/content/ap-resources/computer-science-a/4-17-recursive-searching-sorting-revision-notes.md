@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.17-revision-notes"
 title: "Recursive Searching and Sorting: Revision Notes (Computer Science A 4.17)"
+seoTitle: "Computer Science A 4.17 Recursive Search and Sort Notes"
 description: "A short recap of recursive traversal, binary search and merge sort: conditions, the low-high-mid trace, the split and merge steps, efficiency and common errors."
 course: "computer-science-a"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.2-practice"
 title: "Conservation of Charge and Charging: Practice Questions (Physics C: E&M 8.2)"
+seoTitle: "Physics C E&M 8.2 Charge Conservation and Charging Practice"
 description: "Seven original Marlbridge practice questions on conservation of charge: friction, contact, polarization, grounding, induction and charge data, with full solutions."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

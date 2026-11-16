@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.2-revision-notes"
 title: "Program Function and Purpose: Revision Notes (Computer Science Principles 1.2)"
+seoTitle: "CS Principles 1.2 Program Function and Purpose Notes"
 description: "One-page recap of program purpose, function and behavior, inputs, outputs, events, code segments and describing programs at two levels of detail."
 course: "computer-science-principles"
 unit: 1

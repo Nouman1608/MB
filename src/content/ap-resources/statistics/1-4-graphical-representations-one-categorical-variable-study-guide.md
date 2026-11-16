@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.4-study-guide"
 title: "Graphical Representations for One Categorical Variable: Study Guide (Statistics 1.4)"
+seoTitle: "Statistics 1.4 Graphing One Categorical Variable Guide"
 description: "Learn to draw and read bar charts and pie charts for one categorical variable, use them to justify claims in context, and compare groups of different sizes fairly."
 course: "statistics"
 unit: 1

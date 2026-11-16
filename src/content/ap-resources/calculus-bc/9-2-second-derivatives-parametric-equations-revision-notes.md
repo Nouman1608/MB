@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.2-revision-notes"
 title: "Second Derivatives of Parametric Equations: Revision Notes (Calculus BC 9.2)"
+seoTitle: "Calculus BC 9.2 Parametric Second Derivatives Notes"
 description: "One-page recap of d²y/dx² for parametric curves: the correct method, why the shortcut fails, concavity, tangent-line estimates and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.3-practice"
 title: "Determining Intervals on Which a Function Is Increasing or Decreasing: Practice Questions (Calculus AB 5.3)"
+seoTitle: "Calculus AB 5.3 Increasing and Decreasing Intervals Practice"
 description: "Seven original Marlbridge practice questions on intervals of increase and decrease from formulas, graphs of f′ and contexts, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

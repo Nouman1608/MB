@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.7-checklist"
 title: "Alternating Series Test for Convergence: Topic Checklist (Calculus BC 10.7)"
+seoTitle: "Calculus BC 10.7 Alternating Series Test Topic Checklist"
 description: "Specific “I can…” statements for the alternating series test, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.4-study-guide"
 title: "The Fundamental Theorem of Calculus and Accumulation Functions: Study Guide (Calculus AB 6.4)"
+seoTitle: "Calculus AB 6.4 FTC and Accumulation Functions Study Guide"
 description: "Learn how a definite integral with a variable upper limit defines a new function, why its derivative is the integrand, and how to apply this with the chain rule."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.2-study-guide"
 title: "Evidence that Supports, Complements or Contradicts a Thesis: Study Guide (English Language 9.2)"
+seoTitle: "English Language 9.2 Evidence and the Thesis Study Guide"
 description: "How evidence and sources can support, complement or contradict a writer's thesis, how to classify each relationship, and how to use all three in an argument or a synthesis essay."
 course: "english-language-and-composition"
 unit: 9

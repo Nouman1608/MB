@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-u3-review"
 title: "Longer Fiction or Drama I: Mixed Unit Review (English Literature Unit 3)"
+seoTitle: "English Lit Unit 3 Longer Fiction or Drama I Review"
 description: "Big ideas, a method table and six original exam-style questions on a public-domain scene from Macbeth, each combining character, conflict, events, change, thesis, commentary and evidence, with a rubric."
 course: "english-literature-and-composition"
 unit: 3

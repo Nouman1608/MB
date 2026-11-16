@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.1-practice"
 title: "Entering an Ongoing Conversation: Practice Questions (English Language 9.1)"
+seoTitle: "English Language 9.1 Entering the Conversation Practice"
 description: "8 original Marlbridge practice questions on engaging the positions already considered on a subject and placing your own argument among them, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 9

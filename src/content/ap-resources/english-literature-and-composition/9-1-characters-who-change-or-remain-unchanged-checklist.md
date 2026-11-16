@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.1-checklist"
 title: "Characters who change or remain unchanged: Topic Checklist (English Literature 9.1)"
+seoTitle: "English Lit 9.1 Characters Who Change Topic Checklist"
 description: "Specific \"I can\" statements for characters who change or remain unchanged, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 9

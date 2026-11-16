@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.3-practice"
 title: "Resistance, Resistivity and Ohm's Law: Practice Questions (Physics 2 11.3)"
+seoTitle: "Physics 2 11.3 Resistivity and Ohm's Law Practice Questions"
 description: "Seven original Marlbridge practice questions on R = ρL/A, Ohm's law, ohmic and non-ohmic elements, I–ΔV graphs and planning a resistance experiment, with full solutions."
 course: "physics-2"
 unit: 11

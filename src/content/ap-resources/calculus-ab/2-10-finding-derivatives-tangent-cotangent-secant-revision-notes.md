@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.10-revision-notes"
 title: "Derivatives of Tangent, Cotangent, Secant and Cosecant: Revision Notes (Calculus AB 2.10)"
+seoTitle: "Calculus AB 2.10 Derivatives of tan, cot, sec and csc Notes"
 description: "One-page recap of the derivatives of tan, cot, sec and csc: how each comes from sine and cosine, the sign pattern, useful identities and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 2

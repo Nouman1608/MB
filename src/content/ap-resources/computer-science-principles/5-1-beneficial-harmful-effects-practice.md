@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.1-practice"
 title: "Beneficial and Harmful Effects: Practice Questions (Computer Science Principles 5.1)"
+seoTitle: "CS Principles 5.1 Beneficial and Harmful Effects Practice"
 description: "Ten original practice questions on beneficial and harmful effects, unintended consequences and use beyond intended purpose, including a short original passage, with explanations and rubrics."
 course: "computer-science-principles"
 unit: 5

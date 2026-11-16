@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.9-practice"
 title: "Comparisons of the Distributions for One Quantitative Variable: Practice Questions (Statistics 1.9)"
+seoTitle: "Statistics 1.9 Comparisons of Distributions Practice"
 description: "Seven original Marlbridge practice questions on comparing distributions with stemplots, boxplots and frequency tables, justifying claims and using z-scores, with worked solutions."
 course: "statistics"
 unit: 1

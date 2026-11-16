@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u5-review"
 title: "Torque and Rotational Dynamics: Mixed Unit Review (Physics C: Mechanics Unit 5)"
+seoTitle: "Physics C Mechanics Unit 5 Torque and Rotation Unit Review"
 description: "A one-hour mixed review of rotation about a fixed axis: the big ideas that link Topics 5.1 to 5.6, a summary table and seven original questions that each combine two or more topics."
 course: "physics-c-mechanics"
 unit: 5

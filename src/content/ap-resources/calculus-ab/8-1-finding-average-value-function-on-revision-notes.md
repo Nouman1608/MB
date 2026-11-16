@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.1-revision-notes"
 title: "Finding the Average Value of a Function on an Interval: Revision Notes (Calculus AB 8.1)"
+seoTitle: "Calculus AB 8.1 Average Value of a Function Revision Notes"
 description: "One-page recap of the average value of a function: the integral formula, the equal-area rectangle, tables and graphs, units, and how it differs from average rate of change."
 course: "calculus-ab"
 unit: 8

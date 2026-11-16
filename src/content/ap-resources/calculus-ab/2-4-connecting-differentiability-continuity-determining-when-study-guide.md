@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.4-study-guide"
 title: "Connecting Differentiability and Continuity: Study Guide (Calculus AB 2.4)"
+seoTitle: "Calculus AB 2.4 Differentiability and Continuity Study Guide"
 description: "Learn why differentiability implies continuity, why the reverse fails, and how to justify that a derivative does not exist at a corner, cusp, vertical tangent or discontinuity."
 course: "calculus-ab"
 unit: 2

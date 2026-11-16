@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.5-revision-notes"
 title: "Changes in the Foreign Exchange Market and Net Exports: Revision Notes (Macroeconomics 6.5)"
+seoTitle: "Macroeconomics 6.5 Exchange Market and Net Exports Notes"
 description: "One-page recap of how appreciation and depreciation change export and import prices, net exports and aggregate demand, with the conversion rules and the mistakes that cost marks."
 course: "macroeconomics"
 unit: 6

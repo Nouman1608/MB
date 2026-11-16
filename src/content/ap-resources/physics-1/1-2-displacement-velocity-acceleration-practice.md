@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-1.2-practice"
 title: "Displacement, Velocity, and Acceleration: Practice Questions (Physics 1 1.2)"
+seoTitle: "Physics 1 1.2 Displacement and Velocity Practice Questions"
 description: "Seven original Marlbridge practice questions on displacement, average and instantaneous velocity, acceleration signs and motion-detector data, with worked solutions and suggested mark points."
 course: "physics-1"
 unit: 1

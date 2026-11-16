@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.10-revision-notes"
 title: "Carrying Out a Test for the Difference Between Two Population Means: Revision Notes (Statistics 4.10)"
+seoTitle: "Statistics 4.10 Carrying Out a Test for Two Means Notes"
 description: "One-page recap of the two-sample t-test: test statistic, degrees of freedom, p-value, its interpretation, the decision and a conclusion in context, with the mistakes that cost marks."
 course: "statistics"
 unit: 4

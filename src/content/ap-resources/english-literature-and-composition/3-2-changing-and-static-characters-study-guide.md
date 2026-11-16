@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.2-study-guide"
 title: "Characters Who Change or Remain Unchanged: Study Guide (English Literature 3.2)"
+seoTitle: "English Lit 3.2 Changing and Unchanged Characters Guide"
 description: "Learn to recognise dynamic and static characters, external and internal change, and the function of a character's development or constancy in a novel or play, with Austen, Shakespeare and original extracts."
 course: "english-literature-and-composition"
 unit: 3

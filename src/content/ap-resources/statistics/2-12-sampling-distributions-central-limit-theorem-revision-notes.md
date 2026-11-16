@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.12-revision-notes"
 title: "Sampling Distributions and the Central Limit Theorem: Revision Notes (Statistics 2.12)"
+seoTitle: "Statistics 2.12 Central Limit Theorem Revision Notes"
 description: "One-page recap of sampling distributions, simulation from an assumed parameter, randomization distributions and the central limit theorem, with the mistakes that cost marks."
 course: "statistics"
 unit: 2

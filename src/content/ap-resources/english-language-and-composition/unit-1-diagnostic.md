@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u1-diagnostic"
 title: "Claims, Evidence and the Rhetorical Situation: Unit Diagnostic (English Language Unit 1)"
+seoTitle: "English Language Unit 1 Rhetorical Situation Diagnostic"
 description: "An eight-question check with a short question on every topic of Unit 1, from the rhetorical situation to claims, evidence and paragraphs, showing which topics to revisit."
 course: "english-language-and-composition"
 unit: 1

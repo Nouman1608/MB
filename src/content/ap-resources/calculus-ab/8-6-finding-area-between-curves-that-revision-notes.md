@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.6-revision-notes"
 title: "Finding the Area Between Curves That Intersect at More Than Two Points: Revision Notes (Calculus AB 8.6)"
+seoTitle: "Calculus AB 8.6 Area Between Curves at 3+ Points Notes"
 description: "One-page recap of areas between curves that cross several times: find every crossing, split or use the absolute value, and never confuse net value with area."
 course: "calculus-ab"
 unit: 8

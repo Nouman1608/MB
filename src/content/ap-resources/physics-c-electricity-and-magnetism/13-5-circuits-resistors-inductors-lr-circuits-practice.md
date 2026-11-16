@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.5-practice"
 title: "Circuits with Resistors and Inductors (LR Circuits): Practice Questions (Physics C: E&M 13.5)"
+seoTitle: "Physics C E&M 13.5 LR Circuits Practice Questions"
 description: "Seven original Marlbridge practice questions on LR circuits: time constants, growth and decay, switching, energy, experimental data and a loop-rule derivation, with solutions and suggested mark points."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

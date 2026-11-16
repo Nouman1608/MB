@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.5-revision-notes"
 title: "Approximating Solutions Using Euler’s Method: Revision Notes (Calculus BC 7.5)"
+seoTitle: "Calculus BC 7.5 Euler's Method Approximations Notes"
 description: "One-page recap of Euler’s method: the step rule, a table layout, step size and accuracy, backward steps, and how concavity tells you if an estimate is too high or too low."
 course: "calculus-bc"
 unit: 7

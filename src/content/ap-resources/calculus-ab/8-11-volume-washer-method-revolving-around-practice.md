@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.11-practice"
 title: "Volume with Washer Method: Revolving Around the x- or y-Axis: Practice Questions (Calculus AB 8.11)"
+seoTitle: "Calculus AB 8.11 Washer Method About x or y Axis Practice"
 description: "Seven original Marlbridge practice questions on washer-method volumes around the x- and y-axes, with full solutions, rounding checks and suggested rubrics."
 course: "calculus-ab"
 unit: 8

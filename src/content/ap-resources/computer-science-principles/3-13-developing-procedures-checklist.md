@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.13-checklist"
 title: "Developing Procedures: Topic Checklist (Computer Science Principles 3.13)"
+seoTitle: "CS Principles 3.13 Developing Procedures Topic Checklist"
 description: "Specific \"I can\" statements for developing procedures and procedural abstraction, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

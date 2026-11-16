@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.11-practice"
 title: "Integrating Using Integration by Parts: Practice Questions (Calculus BC 6.11)"
+seoTitle: "Calculus BC 6.11 Integration by Parts Practice Questions"
 description: "Seven original Marlbridge practice questions on integration by parts: choosing u, definite, repeated and self-returning integrals, and an accumulation context, with rubrics."
 course: "calculus-bc"
 unit: 6

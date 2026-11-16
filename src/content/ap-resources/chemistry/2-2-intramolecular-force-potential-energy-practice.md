@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.2-practice"
 title: "Intramolecular Force and Potential Energy: Practice Questions (Chemistry 2.2)"
+seoTitle: "Chemistry 2.2 Intramolecular Force and Energy Practice"
 description: "Seven original Marlbridge practice questions on potential energy curves, bond length, bond energy, bond order and Coulomb's law for ions, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 2

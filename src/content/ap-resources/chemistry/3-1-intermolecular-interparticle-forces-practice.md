@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.1-practice"
 title: "Intermolecular and Interparticle Forces: Practice Questions (Chemistry 3.1)"
+seoTitle: "Chemistry 3.1 Intermolecular Forces Practice Questions"
 description: "Seven original Marlbridge practice questions on dispersion forces, dipoles, hydrogen bonding and ion–dipole forces, with full explanations and suggested mark points."
 course: "chemistry"
 unit: 3

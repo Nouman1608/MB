@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.2-study-guide"
 title: "Setting: Details That Convey a Time and Place: Study Guide (English Literature 1.2)"
+seoTitle: "English Literature 1.2 Setting, Time and Place Study Guide"
 description: "Learn to identify the details that fix a story's time and place and to explain what values, mood and social rules those details convey, with worked examples and common traps."
 course: "english-literature-and-composition"
 unit: 1

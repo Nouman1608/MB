@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.2-practice"
 title: "Approximating Areas with Riemann Sums: Practice Questions (Calculus AB 6.2)"
+seoTitle: "Calculus AB 6.2 Riemann Sums Area Approximation Practice"
 description: "Seven original Marlbridge practice questions on left, right, midpoint and trapezoidal sums from formulas, tables and descriptions, with over/under reasoning and full solutions."
 course: "calculus-ab"
 unit: 6

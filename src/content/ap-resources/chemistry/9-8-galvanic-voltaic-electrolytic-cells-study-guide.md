@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.8-study-guide"
 title: "Galvanic (Voltaic) and Electrolytic Cells: Study Guide (Chemistry 9.8)"
+seoTitle: "Chemistry 9.8 Galvanic and Electrolytic Cells Study Guide"
 description: "Learn what each part of an electrochemical cell does, how galvanic and electrolytic cells differ, and how to trace electrons, ions, mass changes and gases from a cell diagram."
 course: "chemistry"
 unit: 9

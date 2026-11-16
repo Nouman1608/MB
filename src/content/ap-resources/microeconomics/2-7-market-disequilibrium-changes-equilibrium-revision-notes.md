@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.7-revision-notes"
 title: "Market Disequilibrium and Changes in Equilibrium: Revision Notes (Microeconomics 2.7)"
+seoTitle: "Microeconomics 2.7 Market Disequilibrium Revision Notes"
 description: "One-page recap of shortages, surpluses, market adjustment, single and double shifts of demand and supply, surplus changes and the role of elasticity, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 2

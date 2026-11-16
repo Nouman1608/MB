@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.7-revision-notes"
 title: "Using L'Hospital's Rule for Determining Limits of Indeterminate Forms: Revision Notes (Calculus AB 4.7)"
+seoTitle: "Calculus AB 4.7 L'Hospital's Rule Indeterminate Forms Notes"
 description: "One-page recap of L'Hospital's Rule: the 0/0 and ∞/∞ conditions, how to write the check, repeated use, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 4

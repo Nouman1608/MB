@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.10-revision-notes"
 title: "Cell Potential Under Nonstandard Conditions: Revision Notes (Chemistry 9.10)"
+seoTitle: "Chemistry 9.10 Nonstandard Cell Potential Revision Notes"
 description: "One-page recap of how Q moves a cell potential above or below E°, why E reaches zero at equilibrium, concentration cells and the qualitative Nernst equation."
 course: "chemistry"
 unit: 9

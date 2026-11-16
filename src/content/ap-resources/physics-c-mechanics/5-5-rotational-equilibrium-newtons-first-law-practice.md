@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.5-practice"
 title: "Rotational Equilibrium and Newton’s First Law in Rotational Form: Practice (Physics C: Mechanics 5.5)"
+seoTitle: "Physics C Mechanics 5.5 Rotational Equilibrium Practice"
 description: "Seven original Marlbridge calculus-based practice questions on rotational equilibrium: constant angular velocity, couples, non-uniform rods, hinge and cable forces, and a support-force experiment."
 course: "physics-c-mechanics"
 unit: 5

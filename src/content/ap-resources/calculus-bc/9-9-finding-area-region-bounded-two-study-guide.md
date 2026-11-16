@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.9-study-guide"
 title: "Finding the Area of the Region Bounded by Two Polar Curves: Study Guide (Calculus BC 9.9)"
+seoTitle: "Calculus BC 9.9 Area Bounded by Two Polar Curves Guide"
 description: "Find areas between two polar curves: locate where the curves meet, including at the pole, decide which curve is outer, and split regions such as the area inside both curves."
 course: "calculus-bc"
 unit: 9

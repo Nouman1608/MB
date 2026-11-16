@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.2-practice"
 title: "Summary Statistics for Two Categorical Variables: Practice Questions (Statistics 2.2)"
+seoTitle: "Statistics 2.2 Two Categorical Variable Summaries Practice"
 description: "Seven original Marlbridge practice questions on joint, marginal and conditional relative frequencies, association and claims from two-way tables, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

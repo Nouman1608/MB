@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.3-checklist"
 title: "Qualifying a Claim with Modifiers: Topic Checklist (English Language 7.3)"
+seoTitle: "English Language 7.3 Qualifying a Claim Topic Checklist"
 description: "Specific \"I can\" statements for using words, phrases and clauses as modifiers to qualify and limit the scope of a claim, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

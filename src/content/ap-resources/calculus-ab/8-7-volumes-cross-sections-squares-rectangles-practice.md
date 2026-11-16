@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.7-practice"
 title: "Volumes with Cross Sections: Squares and Rectangles: Practice Questions (Calculus AB 8.7)"
+seoTitle: "Calculus AB 8.7 Cross Sections Squares, Rectangles Practice"
 description: "Seven original Marlbridge practice questions on volumes with square and rectangular cross sections, across x and across y, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

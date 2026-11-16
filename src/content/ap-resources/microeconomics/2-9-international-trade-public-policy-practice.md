@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.9-practice"
 title: "International Trade and Public Policy: Practice Questions (Microeconomics 2.9)"
+seoTitle: "Microeconomics 2.9 Trade and Public Policy Practice"
 description: "Seven original Marlbridge practice questions on imports, exports, gains from trade, tariffs and import quotas, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 2

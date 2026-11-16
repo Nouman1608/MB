@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.5-practice"
 title: "Details, diction and syntax that reveal perspective: Practice Questions (English Literature 9.5)"
+seoTitle: "English Lit 9.5 Diction and Syntax for Perspective Practice"
 description: "Original Marlbridge practice questions on details, diction and syntax that reveal perspective, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 9

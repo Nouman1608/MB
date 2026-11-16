@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.3-practice"
 title: "Profit-Maximising Behaviour in Perfectly Competitive Factor Markets: Practice Questions (Microeconomics 5.3)"
+seoTitle: "Microeconomics 5.3 Competitive Factor Markets Practice"
 description: "Seven original Marlbridge practice questions on wage-taking firms, MRP and VMP, the MRP = wage hiring rule and the least-cost and profit-maximising input rules, with worked solutions and mark points."
 course: "microeconomics"
 unit: 5

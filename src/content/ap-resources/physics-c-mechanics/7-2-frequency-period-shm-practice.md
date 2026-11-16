@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.2-practice"
 title: "Frequency and Period of SHM: Practice Questions (Physics C: Mechanics 7.2)"
+seoTitle: "Physics C Mechanics 7.2 SHM Frequency and Period Practice"
 description: "Seven original Marlbridge calculus-based practice questions on SHM period and frequency: ω from equations of motion, springs, pendulum derivation, factors of change and linearised data."
 course: "physics-c-mechanics"
 unit: 7

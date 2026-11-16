@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.4-checklist"
 title: "Estimating Limit Values from Tables: Topic Checklist (Calculus AB 1.4)"
+seoTitle: "Calculus AB 1.4 Estimating Limits from Tables Checklist"
 description: "Specific “I can…” statements for estimating limits from tables, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1

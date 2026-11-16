@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.6-practice
 title: 'Simile and Personification in Fiction: Practice Questions (English Literature 7.6)'
+seoTitle: "English Lit 7.6 Simile and Personification Practice"
 description: 'Nine original Marlbridge practice questions on simile and personification in prose fiction: choice of objects and traits, attitude conveyed and how to write about figurative language, with full answers.'
 course: english-literature-and-composition
 unit: 7

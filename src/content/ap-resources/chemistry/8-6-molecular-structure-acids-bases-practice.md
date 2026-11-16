@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-8.6-practice"
 title: "Molecular Structure of Acids and Bases: Practice Questions (Chemistry 8.6)"
+seoTitle: "Chemistry 8.6 Structure of Acids and Bases Practice"
 description: "Seven original Marlbridge practice questions on acidic hydrogens, strong and weak acids and bases, inductive effects, resonance and conjugate pairs, with worked solutions."
 course: "chemistry"
 unit: 8

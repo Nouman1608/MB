@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.7-practice"
 title: "Alternating Series Test for Convergence: Practice Questions (Calculus BC 10.7)"
+seoTitle: "Calculus BC 10.7 Alternating Series Test Practice"
 description: "Seven original Marlbridge practice questions on the alternating series test: spotting alternating series, checking both conditions and writing justifications, with rubrics."
 course: "calculus-bc"
 unit: 10

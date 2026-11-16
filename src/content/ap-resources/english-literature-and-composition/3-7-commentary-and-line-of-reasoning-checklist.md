@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.7-checklist"
 title: "Commentary and the Line of Reasoning: Topic Checklist (English Literature 3.7)"
+seoTitle: "English Lit 3.7 Commentary and Line of Reasoning Checklist"
 description: "Specific I can statements for writing commentary and a line of reasoning, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 3

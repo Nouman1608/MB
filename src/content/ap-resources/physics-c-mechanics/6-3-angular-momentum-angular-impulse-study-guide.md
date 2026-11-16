@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.3-study-guide"
 title: "Angular Momentum and Angular Impulse: Study Guide (Physics C: Mechanics 6.3)"
+seoTitle: "Physics C Mechanics 6.3 Angular Momentum and Impulse Guide"
 description: "Calculus-based angular momentum: L = Iω and L = r × p, the role of the chosen axis, angular impulse as ∫τ dt, and τ_net = dL/dt derived from Newton's second law."
 course: "physics-c-mechanics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.2-revision-notes"
 title: "Straight-Line Motion: Connecting Position, Velocity, and Acceleration: Revision Notes (Calculus AB 4.2)"
+seoTitle: "Calculus AB 4.2 Position, Velocity and Acceleration Notes"
 description: "One-page recap of straight-line motion: velocity and acceleration as derivatives, direction, speed, speeding up or slowing down, and total distance."
 course: "calculus-ab"
 unit: 4

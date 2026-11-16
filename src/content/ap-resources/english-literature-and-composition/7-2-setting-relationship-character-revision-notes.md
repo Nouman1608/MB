@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.2-revision-notes
 title: 'Setting and Its Relationship to Character: Revision Notes (English Literature 7.2)'
+seoTitle: "English Literature 7.2 Setting and Character Revision Notes"
 description: 'Revision notes on setting and its relationship to character in short fiction: values conveyed by setting, changes of setting, contrasted settings and character behaviour, with a self-check and answers.'
 course: english-literature-and-composition
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.5-practice"
 title: "Interpreting the Behavior of Accumulation Functions Involving Area: Practice Questions (Calculus AB 6.5)"
+seoTitle: "Calculus AB 6.5 Behavior of Accumulation Functions Practice"
 description: "Seven original Marlbridge practice questions on reading extrema, concavity and values of an accumulation function from a graph, table, formula or description, with suggested rubrics."
 course: "calculus-ab"
 unit: 6

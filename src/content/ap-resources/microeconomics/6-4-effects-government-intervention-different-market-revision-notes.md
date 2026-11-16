@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.4-revision-notes"
 title: "The Effects of Government Intervention in Different Market Structures: Revision Notes (Microeconomics 6.4)"
+seoTitle: "Microeconomics 6.4 Market Structure Intervention Notes"
 description: "One-page recap of taxes, subsidies, price controls, natural monopoly regulation and antitrust policy across market structures, with the rules for price, output and deadweight loss and the mistakes that cost marks."
 course: "microeconomics"
 unit: 6

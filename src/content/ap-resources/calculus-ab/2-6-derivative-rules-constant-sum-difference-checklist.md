@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.6-checklist"
 title: "Derivative Rules: Constant, Sum, Difference and Constant Multiple: Topic Checklist (Calculus AB 2.6)"
+seoTitle: "Calculus AB 2.6 Constant, Sum and Difference Rules Checklist"
 description: "Specific “I can…” statements for the constant, sum, difference and constant multiple rules, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 2

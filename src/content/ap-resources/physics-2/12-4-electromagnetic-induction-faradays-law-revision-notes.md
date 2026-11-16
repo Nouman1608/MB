@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-12.4-revision-notes"
 title: "Electromagnetic Induction and Faraday's Law: Revision Notes (Physics 2 12.4)"
+seoTitle: "Physics 2 12.4 Induction and Faraday's Law Revision Notes"
 description: "One-page recap of magnetic flux and its sign, Faraday's law, Lenz's law in four steps, the rod on rails and reading emf from a flux–time graph."
 course: "physics-2"
 unit: 12

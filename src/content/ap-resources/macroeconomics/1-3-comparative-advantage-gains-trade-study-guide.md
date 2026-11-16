@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.3-study-guide"
 title: "Comparative Advantage and Gains from Trade: Study Guide (Macroeconomics 1.3)"
+seoTitle: "Macroeconomics 1.3 Comparative Advantage Study Guide"
 description: "Learn to tell absolute from comparative advantage using output tables, input tables and PPCs, find mutually beneficial terms of trade, and show how trade lets both sides consume beyond their PPCs."
 course: "macroeconomics"
 unit: 1

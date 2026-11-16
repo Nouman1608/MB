@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.6-study-guide
 title: 'Descriptive Words and Precise Word Choice: Study Guide (English Language 5.6)'
+seoTitle: "English Language 5.6 Precise Word Choice Study Guide"
 description: How adjectives, adverbs and precise nouns and verbs convey a writer's perspective, how vague and imprecise words confuse readers, and how to revise for exact, purposeful word choice.
 course: english-language-and-composition
 unit: 5

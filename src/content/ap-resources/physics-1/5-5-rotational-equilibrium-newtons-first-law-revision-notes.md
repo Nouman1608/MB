@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.5-revision-notes"
 title: "Rotational Equilibrium and Newton's First Law in Rotational Form: Revision Notes (Physics 1 5.5)"
+seoTitle: "Physics 1 5.5 Rotational Equilibrium Revision Notes"
 description: "One-page recap of rotational equilibrium for the algebra-based course: Στ = 0, the rotational first law, choosing a pivot, and the difference between rotational and translational equilibrium."
 course: "physics-1"
 unit: 5

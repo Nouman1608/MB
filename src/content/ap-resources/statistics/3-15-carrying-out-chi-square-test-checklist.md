@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.15-checklist"
 title: "Carrying Out a Chi-Square Test for Homogeneity or Independence: Topic Checklist (Statistics 3.15)"
+seoTitle: "Statistics 3.15 Carrying Out a Chi-Square Test Checklist"
 description: "Specific “I can…” statements for carrying out a chi-square test for homogeneity or independence, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3

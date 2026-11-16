@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.8-checklist"
 title: "Sketching Graphs of Functions and Their Derivatives: Topic Checklist (Calculus AB 5.8)"
+seoTitle: "Calculus AB 5.8 Sketching Function Graphs Topic Checklist"
 description: "Specific “I can…” statements for sketching f from f′ and f″ in formula, graph and table form, each linked to the guide section and practice question that checks it."
 course: "calculus-ab"
 unit: 5

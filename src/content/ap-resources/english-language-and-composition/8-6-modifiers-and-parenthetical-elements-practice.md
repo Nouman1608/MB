@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.6-practice"
 title: "Modifiers and Parenthetical Elements: Practice Questions (English Language 8.6)"
+seoTitle: "English Language 8.6 Modifiers and Parentheticals Practice"
 description: "8 original Marlbridge practice questions on placing modifiers clearly and using parenthetical elements to add information for an audience and purpose, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 8

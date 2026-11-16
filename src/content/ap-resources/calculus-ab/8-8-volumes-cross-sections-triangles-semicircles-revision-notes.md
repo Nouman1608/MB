@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.8-revision-notes"
 title: "Volumes with Cross Sections: Triangles and Semicircles: Revision Notes (Calculus AB 8.8)"
+seoTitle: "Calculus AB 8.8 Cross Sections Triangles Revision Notes"
 description: "One-page recap of volumes with triangular and semicircular cross sections: the area formulas in terms of s, the V = c ∫ s² dx shortcut, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 8

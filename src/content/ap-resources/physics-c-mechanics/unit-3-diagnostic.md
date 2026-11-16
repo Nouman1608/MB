@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u3-diagnostic"
 title: "Work, Energy, and Power: Unit Diagnostic (Physics C: Mechanics Unit 3)"
+seoTitle: "Physics C Mechanics Unit 3 Work, Energy and Power Diagnostic"
 description: "A 30-minute check of calculus-based work and energy: ten original questions on kinetic energy, work integrals, potential energy, energy conservation and power, each linked to a topic guide."
 course: "physics-c-mechanics"
 unit: 3

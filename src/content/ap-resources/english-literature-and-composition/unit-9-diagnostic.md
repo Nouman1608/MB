@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-u9-diagnostic"
 title: "Longer Fiction or Drama III: Unit Diagnostic (English Literature Unit 9)"
+seoTitle: "English Lit Unit 9 Longer Fiction or Drama III Diagnostic"
 description: "A 40-minute check with at least one original question for each topic of Unit 9, covering character change, complexity, events, conflict, perspective and the literary argument essay."
 course: "english-literature-and-composition"
 unit: 9

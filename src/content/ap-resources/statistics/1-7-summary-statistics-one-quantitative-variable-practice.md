@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.7-practice"
 title: "Summary Statistics for One Quantitative Variable: Practice Questions (Statistics 1.7)"
+seoTitle: "Statistics 1.7 Quantitative Summary Statistics Practice"
 description: "Seven original Marlbridge practice questions on mean, median, quartiles, IQR, standard deviation, outliers, resistance and unit changes, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.3-study-guide"
 title: "Finding Arc Lengths of Curves Given by Parametric Equations: Study Guide (Calculus BC 9.3)"
+seoTitle: "Calculus BC 9.3 Arc Length of Parametric Curves Guide"
 description: "Build the parametric arc length integral from Pythagoras, check when it applies, and use it for exact lengths by hand and calculator lengths in context."
 course: "calculus-bc"
 unit: 9

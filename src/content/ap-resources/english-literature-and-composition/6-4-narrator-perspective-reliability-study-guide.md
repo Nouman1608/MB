@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.4-study-guide
 title: 'Narrator Perspective and Reliability: Study Guide (English Literature 6.4)'
+seoTitle: "English Literature 6.4 Narrator Reliability Study Guide"
 description: How a narrator's diction, syntax, tone and choice of details reveal perspective and bias, and how to judge reliability and its effect on a longer narrative.
 course: english-literature-and-composition
 unit: 6

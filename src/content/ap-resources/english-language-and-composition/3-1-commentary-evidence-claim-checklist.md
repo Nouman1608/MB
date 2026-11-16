@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.1-checklist"
 title: "Commentary That Links Evidence to a Claim: Topic Checklist (English Language 3.1)"
+seoTitle: "English Language 3.1 Commentary on Evidence Topic Checklist"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]

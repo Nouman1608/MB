@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.17-practice"
 title: "Algorithmic Efficiency: Practice Questions (Computer Science Principles 3.17)"
+seoTitle: "CS Principles 3.17 Algorithmic Efficiency Practice"
 description: "Ten original Marlbridge practice questions on efficiency: counting executions, comparing algorithms, reasonable versus unreasonable time, decision and optimization problems, and heuristics, with a suggested rubric."
 course: "computer-science-principles"
 unit: 3

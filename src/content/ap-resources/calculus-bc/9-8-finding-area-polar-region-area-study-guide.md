@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.8-study-guide"
 title: "Area of a Polar Region or the Area Bounded by a Single Polar Curve: Study Guide (Calculus BC 9.8)"
+seoTitle: "Calculus BC 9.8 Area of a Polar Region Study Guide"
 description: "Build the polar area formula ½∫r² dθ from thin sectors, choose limits that trace a region exactly once, and find areas of petals, loops and regions between two rays."
 course: "calculus-bc"
 unit: 9

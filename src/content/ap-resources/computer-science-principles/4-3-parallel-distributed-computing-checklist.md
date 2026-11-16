@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-4.3-checklist"
 title: "Parallel and Distributed Computing: Topic Checklist (Computer Science Principles 4.3)"
+seoTitle: "CS Principles 4.3 Parallel, Distributed Computing Checklist"
 description: "Specific I can statements for parallel and distributed computing, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 4

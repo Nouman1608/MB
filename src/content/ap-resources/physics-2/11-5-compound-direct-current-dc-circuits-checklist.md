@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.5-checklist"
 title: "Compound Direct Current (DC) Circuits: Topic Checklist (Physics 2 11.5)"
+seoTitle: "Physics 2 11.5 Compound DC Circuits Topic Checklist"
 description: "Specific “I can…” statements for compound DC circuits, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 11

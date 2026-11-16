@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u4-diagnostic"
 title: "Inference for Quantitative Data: Means: Unit Diagnostic (Statistics Unit 4)"
+seoTitle: "Statistics Unit 4 Inference for Means Unit Diagnostic"
 description: "A 30-minute check with one short question per topic of Unit 4, from the sampling distribution of x̄ to two-sample t-tests, showing which topics to revisit."
 course: "statistics"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.9-practice"
 title: "Setting Up a Test for the Difference Between Two Population Means: Practice Questions (Statistics 4.9)"
+seoTitle: "Statistics 4.9 Setting Up a Test for Two Means Practice"
 description: "Seven original Marlbridge practice questions on choosing a two-sample t-test, defining μ₁ and μ₂, writing hypotheses and checking conditions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.6-practice"
 title: "Methods: Passing and Returning References of an Object: Practice Questions (Computer Science A 3.6)"
+seoTitle: "Computer Science A 3.6 Passing Object References Practice"
 description: "Nine original Marlbridge practice questions on passing and returning object references: aliasing, reassigning parameters, returned references and private access, with suggested rubrics."
 course: "computer-science-a"
 unit: 3

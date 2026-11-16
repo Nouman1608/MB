@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-exam-skills-multiple-choice"
 title: "The Multiple-Choice Section: Exam Skills Guide (English Literature)"
+seoTitle: "English Lit The Multiple-Choice Section Exam Skills Guide"
 description: "How the multiple-choice section is built, how to pace five passage sets and how to read prose and poetry passages, with strategies for each question type and two original practice sets with explanations."
 course: "english-literature-and-composition"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.5-study-guide"
 title: "Rotational Equilibrium and Newton's First Law in Rotational Form: Study Guide (Physics 1 5.5)"
+seoTitle: "Physics 1 5.5 Rotational Equilibrium Study Guide"
 description: "When does angular velocity stay constant? Net torque, rotational equilibrium, the rotational first law, force diagrams and balance problems, and why the two kinds of equilibrium are independent."
 course: "physics-1"
 unit: 5

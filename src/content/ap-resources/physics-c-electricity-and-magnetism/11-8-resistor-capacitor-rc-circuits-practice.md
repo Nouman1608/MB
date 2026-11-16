@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.8-practice"
 title: "Resistor-Capacitor (RC) Circuits: Practice Questions (Physics C: E&M 11.8)"
+seoTitle: "Physics C E&M 11.8 Resistor-Capacitor (RC) Circuits Practice"
 description: "Seven original Marlbridge practice questions on RC circuits: capacitor networks, charging and discharging, time constants, multi-branch circuits and a linearised graph, with suggested mark points."
 course: "physics-c-electricity-and-magnetism"
 unit: 11

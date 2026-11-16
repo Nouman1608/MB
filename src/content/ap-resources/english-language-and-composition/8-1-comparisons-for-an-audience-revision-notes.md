@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.1-revision-notes"
 title: "Comparisons that Relate to an Audience: Revision Notes (English Language 8.1)"
+seoTitle: "English Language 8.1 Comparisons for an Audience Notes"
 description: "One-page recap of similes, metaphors, analogies and anecdotes that relate an argument to an audience's own experience, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 8

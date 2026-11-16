@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.6-revision-notes"
 title: "Marginal Analysis and Consumer Choice: Revision Notes (Microeconomics 1.6)"
+seoTitle: "Microeconomics 1.6 Marginal Analysis Revision Notes"
 description: "One-page recap of marginal analysis and consumer choice: the MB = MC rule, sunk costs, diminishing marginal utility and the MU-per-dollar rule, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 1

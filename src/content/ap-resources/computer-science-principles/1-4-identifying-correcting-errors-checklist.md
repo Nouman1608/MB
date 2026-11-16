@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.4-checklist"
 title: "Identifying and Correcting Errors: Topic Checklist (Computer Science Principles 1.4)"
+seoTitle: "CS Principles 1.4 Identifying, Correcting Errors Checklist"
 description: "Specific I can statements for identifying and correcting errors, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 1

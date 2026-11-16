@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.2-study-guide"
 title: "Opportunity Cost and the Production Possibilities Curve: Study Guide (Macroeconomics 1.2)"
+seoTitle: "Macroeconomics 1.2 Opportunity Cost and the PPC Study Guide"
 description: "Learn what a production possibilities curve shows, how to calculate opportunity cost from a table or graph, why the curve's shape depends on opportunity costs, and what makes it shift."
 course: "macroeconomics"
 unit: 1

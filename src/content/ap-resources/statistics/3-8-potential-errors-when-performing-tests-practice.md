@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.8-practice"
 title: "Potential Errors When Performing Tests: Practice Questions (Statistics 3.8)"
+seoTitle: "Statistics 3.8 Errors When Performing Tests Practice"
 description: "Seven original Marlbridge practice questions on Type I and Type II errors, α, power, the factors that affect power and the consequences of errors, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

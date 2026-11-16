@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.1-revision-notes"
 title: "Interpreting the Meaning of the Derivative in Context: Revision Notes (Calculus AB 4.1)"
+seoTitle: "Calculus AB 4.1 Meaning of the Derivative in Context Notes"
 description: "One-page recap of derivatives in context: what f′(a) means, how to find its units, the four-part interpretation sentence and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 4

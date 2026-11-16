@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u2-review"
 title: "Audience, Appeals and the Thesis: Mixed Unit Review (English Language Unit 2)"
+seoTitle: "English Language Unit 2 Audience, Appeals and Thesis Review"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 2 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
 unit: 2

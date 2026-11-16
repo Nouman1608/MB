@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.3-practice"
 title: "Riemann Sums, Summation Notation and Definite Integral Notation: Practice Questions (Calculus AB 6.3)"
+seoTitle: "Calculus AB 6.3 Riemann Sums and Integral Notation Practice"
 description: "Seven original Marlbridge practice questions on sigma notation, Riemann sums and translating between limits of sums and definite integrals, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 6

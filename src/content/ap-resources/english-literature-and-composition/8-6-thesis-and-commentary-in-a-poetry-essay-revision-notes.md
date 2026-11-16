@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.6-revision-notes"
 title: "Thesis and commentary in a poetry essay: Revision Notes (English Literature 8.6)"
+seoTitle: "English Lit 8.6 Poetry Essay Thesis and Commentary Notes"
 description: "A one-page recap of thesis and commentary in a poetry essay: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 8

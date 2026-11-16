@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.6-practice"
 title: "Entropy and the Second Law of Thermodynamics: Practice Questions (Physics 2 9.6)"
+seoTitle: "Physics 2 9.6 Entropy and Second Law Practice Questions"
 description: "Seven original Marlbridge practice questions on entropy, the second law, state functions, equilibrium and closed systems, with full solutions and suggested mark points."
 course: "physics-2"
 unit: 9

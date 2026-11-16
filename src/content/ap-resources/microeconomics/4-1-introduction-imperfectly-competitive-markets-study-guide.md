@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.1-study-guide"
 title: "Introduction to Imperfectly Competitive Markets: Study Guide (Microeconomics 4.1)"
+seoTitle: "Microeconomics 4.1 Imperfect Competition Study Guide"
 description: "Learn what makes a market imperfectly competitive, why marginal revenue falls below price, why price above marginal cost is inefficient, and how barriers to entry protect profit."
 course: "microeconomics"
 unit: 4

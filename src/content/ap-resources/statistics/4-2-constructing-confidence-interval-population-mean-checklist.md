@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.2-checklist"
 title: "Constructing a Confidence Interval for a Mean or Mean Difference: Topic Checklist (Statistics 4.2)"
+seoTitle: "Statistics 4.2 Confidence Interval for a Mean Checklist"
 description: "Specific “I can…” statements for t-distributions and one-sample t-intervals for a mean or matched-pairs mean difference, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 4

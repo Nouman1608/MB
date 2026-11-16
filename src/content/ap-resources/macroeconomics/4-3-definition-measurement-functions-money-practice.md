@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.3-practice"
 title: "Definition, Measurement, and Functions of Money: Practice Questions (Macroeconomics 4.3)"
+seoTitle: "Macroeconomics 4.3 Functions of Money Practice Questions"
 description: "Seven original Marlbridge practice questions on the functions of money, calculating M1, M2 and the monetary base, and how transactions change them, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 4

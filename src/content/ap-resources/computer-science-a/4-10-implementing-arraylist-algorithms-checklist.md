@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.10-checklist"
 title: "Implementing ArrayList Algorithms: Checklist (Computer Science A 4.10)"
+seoTitle: "Computer Science A 4.10 ArrayList Algorithms Checklist"
 description: "A self-check for ArrayList algorithms: writing and tracing maximum, average, count, any and all, duplicates, reverse, rotate and insert algorithms and spotting their bugs."
 course: "computer-science-a"
 unit: 4

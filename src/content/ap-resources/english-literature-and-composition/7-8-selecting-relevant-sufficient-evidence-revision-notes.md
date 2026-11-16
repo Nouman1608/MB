@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.8-revision-notes
 title: 'Selecting Relevant and Sufficient Evidence: Revision Notes (English Literature 7.8)'
+seoTitle: "English Lit 7.8 Selecting Relevant Evidence Revision Notes"
 description: 'Revision notes on selecting relevant and sufficient evidence: the evidence audit, quality and quantity, handling counter-evidence and the recursive loop, with a short self-check and answers.'
 course: english-literature-and-composition
 unit: 7

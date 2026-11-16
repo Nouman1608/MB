@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.6-study-guide"
 title: "Changes in the AD–AS Model in the Short Run: Study Guide (Macroeconomics 3.6)"
+seoTitle: "Macroeconomics 3.6 Short-Run AD–AS Model Changes Study Guide"
 description: "Learn how demand shocks and supply shocks shift the AD and SRAS curves, what happens to output, employment and the price level in the short run, and how demand-pull and cost-push inflation differ."
 course: "macroeconomics"
 unit: 3

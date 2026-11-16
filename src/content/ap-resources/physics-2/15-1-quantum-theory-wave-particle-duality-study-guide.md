@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.1-study-guide"
 title: "Quantum Theory and Wave-Particle Duality: Study Guide (Physics 2 15.1)"
+seoTitle: "Physics 2 15.1 Wave-Particle Duality Study Guide"
 description: "Why classical physics needed replacing: photons with E = hf, light speed in a medium, matter waves with λ = h/p, and why bound systems have quantized energy."
 course: "physics-2"
 unit: 15

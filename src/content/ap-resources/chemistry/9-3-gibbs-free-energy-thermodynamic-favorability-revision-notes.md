@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.3-revision-notes"
 title: "Gibbs Free Energy and Thermodynamic Favorability: Revision Notes (Chemistry 9.3)"
+seoTitle: "Chemistry 9.3 Gibbs Free Energy and Favorability Notes"
 description: "One-page recap of ΔG°, the two ways to calculate it, the four sign combinations of ΔH° and ΔS°, and the unit and sign slips that cost marks."
 course: "chemistry"
 unit: 9

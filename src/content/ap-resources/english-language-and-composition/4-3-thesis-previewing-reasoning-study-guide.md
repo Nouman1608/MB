@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.3-study-guide
 title: 'Thesis Statements That Preview the Line of Reasoning: Study Guide (English Language 4.3)'
+seoTitle: "English Language 4.3 Thesis Previewing Reasoning Study Guide"
 description: 'How a thesis statement can preview the line of reasoning without listing points: previewing with reasons, avoiding announcements, spotting a preview in a text, and writing one for argument and analysis.'
 course: english-language-and-composition
 unit: 4

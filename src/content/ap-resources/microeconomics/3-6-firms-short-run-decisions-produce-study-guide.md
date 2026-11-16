@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.6-study-guide"
 title: "Short-Run Production and Long-Run Entry or Exit Decisions: Study Guide (Microeconomics 3.6)"
+seoTitle: "Microeconomics 3.6 Short-Run Production and Exit Study Guide"
 description: "Learn when a firm should keep producing at a loss or shut down in the short run, using TR versus TVC or price versus AVC, and why firms enter or exit a market in the long run."
 course: "microeconomics"
 unit: 3

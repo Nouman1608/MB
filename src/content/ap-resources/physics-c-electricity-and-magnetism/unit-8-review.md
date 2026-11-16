@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-u8-review"
 title: "Electric Charges, Fields and Gauss's Law: Mixed Unit Review (Physics C: E&M Unit 8)"
+seoTitle: "Physics C E&M Unit 8 Charge, Fields, Gauss's Law Review"
 description: "A mixed review of Unit 8: the big ideas that link charge, force, field, flux and Gauss's law, a summary table and seven original questions that combine topics, with rubrics."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

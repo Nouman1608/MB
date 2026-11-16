@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.1-revision-notes"
 title: "Introduction to Imperfectly Competitive Markets: Revision Notes (Microeconomics 4.1)"
+seoTitle: "Microeconomics 4.1 Imperfect Competition Revision Notes"
 description: "One-page recap of imperfect competition: the four market structures, why marginal revenue lies below demand, why price above marginal cost is inefficient, and the main barriers to entry."
 course: "microeconomics"
 unit: 4

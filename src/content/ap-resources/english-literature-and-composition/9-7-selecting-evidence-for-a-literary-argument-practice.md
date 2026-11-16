@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.7-practice"
 title: "Selecting evidence for a literary argument: Practice Questions (English Literature 9.7)"
+seoTitle: "English Lit 9.7 Literary Argument Evidence Practice"
 description: "Original Marlbridge practice questions on selecting evidence for a literary argument, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 9

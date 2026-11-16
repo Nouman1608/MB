@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.3-practice"
 title: "Following and Building a Line of Reasoning: Practice Questions (English Language 3.3)"
+seoTitle: "English Language 3.3 Building a Line of Reasoning Practice"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]

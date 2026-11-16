@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.7-revision-notes"
 title: "Constructing a Confidence Interval for the Difference Between Two Means: Revision Notes (Statistics 4.7)"
+seoTitle: "Statistics 4.7 Confidence Interval for Two Means Notes"
 description: "One-page recap of the two-sample t-interval: choosing it over a paired interval, defining μ₁ − μ₂, the three conditions, standard error, degrees of freedom and margin of error."
 course: "statistics"
 unit: 4

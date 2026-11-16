@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.4-practice"
 title: "Graphical Representations for One Categorical Variable: Practice Questions (Statistics 1.4)"
+seoTitle: "Statistics 1.4 Graphing One Categorical Variable Practice"
 description: "Seven original Marlbridge practice questions on drawing and reading bar charts and pie charts, misleading graphs, justifying claims and comparing groups, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

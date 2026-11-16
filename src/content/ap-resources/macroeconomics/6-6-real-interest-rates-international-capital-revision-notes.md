@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.6-revision-notes"
 title: "Real Interest Rates and International Capital Flows: Revision Notes (Macroeconomics 6.6)"
+seoTitle: "Macroeconomics 6.6 Real Interest Rates and Capital Notes"
 description: "One-page recap of how real interest rate differences move financial capital between countries, and the knock-on effects on exchange rates, loanable funds, net exports and the balance of payments."
 course: "macroeconomics"
 unit: 6

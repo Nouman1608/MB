@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-u3-review"
 title: "Production, Cost and Perfect Competition: Mixed Unit Review (Microeconomics Unit 3)"
+seoTitle: "Microeconomics Unit 3 Perfect Competition Review"
 description: "Connect production, short-run and long-run costs, profit, MR = MC, shutdown and exit, and perfect competition, then practise seven original questions that combine topics, with worked solutions."
 course: "microeconomics"
 unit: 3

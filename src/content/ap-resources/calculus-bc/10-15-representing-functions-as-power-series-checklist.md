@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.15-checklist"
 title: "Representing Functions as Power Series: Topic Checklist (Calculus BC 10.15)"
+seoTitle: "Calculus BC 10.15 Functions as Power Series Checklist"
 description: "Specific “I can…” statements for building power series from known series, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.8-revision-notes"
 title: "Determining Limits Using the Squeeze Theorem: Revision Notes (Calculus AB 1.8)"
+seoTitle: "Calculus AB 1.8 Limits Using the Squeeze Theorem Notes"
 description: "One-page recap of the squeeze theorem: its three conditions, how to build bounds from sine and cosine, the two key trig limits and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.7-practice"
 title: "Constructing a Confidence Interval for the Difference Between Two Means: Practice Questions (Statistics 4.7)"
+seoTitle: "Statistics 4.7 Confidence Interval for Two Means Practice"
 description: "Seven original Marlbridge practice questions on two-sample t-intervals: choosing the procedure, conditions, standard error, degrees of freedom and full intervals, with suggested rubrics."
 course: "statistics"
 unit: 4

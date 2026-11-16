@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u3-diagnostic"
 title: "Inference for Categorical Data: Proportions: Unit Diagnostic (Statistics Unit 3)"
+seoTitle: "Statistics Unit 3 Inference for Proportions Diagnostic"
 description: "A 30-minute check with one short question per topic of Unit 3, from estimators and sampling distributions to intervals, tests and chi-square, showing which topics to revisit."
 course: "statistics"
 unit: 3

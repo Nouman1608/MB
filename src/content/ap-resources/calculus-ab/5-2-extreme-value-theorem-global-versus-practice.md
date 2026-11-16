@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.2-practice"
 title: "Extreme Value Theorem, Global Versus Local Extrema, and Critical Points: Practice Questions (Calculus AB 5.2)"
+seoTitle: "Calculus AB 5.2 Extreme Value Theorem Practice Questions"
 description: "Seven original Marlbridge practice questions on the Extreme Value Theorem, critical points and global versus local extrema, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

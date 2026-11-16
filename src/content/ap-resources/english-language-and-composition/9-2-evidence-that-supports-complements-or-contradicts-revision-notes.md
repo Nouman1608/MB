@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.2-revision-notes"
 title: "Evidence that Supports, Complements or Contradicts a Thesis: Revision Notes (English Language 9.2)"
+seoTitle: "English Language 9.2 Evidence and the Thesis Revision Notes"
 description: "One-page recap of classifying evidence and sources as supporting, complementing or contradicting a thesis, and using each type, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 9

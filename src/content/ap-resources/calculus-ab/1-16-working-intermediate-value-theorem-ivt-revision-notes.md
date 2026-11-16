@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.16-revision-notes"
 title: "Working with the Intermediate Value Theorem: Revision Notes (Calculus AB 1.16)"
+seoTitle: "Calculus AB 1.16 Intermediate Value Theorem Revision Notes"
 description: "One-page recap of the Intermediate Value Theorem: its two conditions, what it does and does not promise, the three-part justification and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

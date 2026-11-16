@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.3-revision-notes"
 title: "Estimating Derivatives of a Function at a Point: Revision Notes (Calculus AB 2.3)"
+seoTitle: "Calculus AB 2.3 Estimating Derivatives at a Point Notes"
 description: "One-page recap of estimating a derivative at a point from a table, a graph or a calculator, with the difference quotients, units and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 2

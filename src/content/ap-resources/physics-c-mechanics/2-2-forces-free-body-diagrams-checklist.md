@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.2-checklist"
 title: "Forces and Free-Body Diagrams: Topic Checklist (Physics C: Mechanics 2.2)"
+seoTitle: "Physics C Mechanics 2.2 Forces, Free-Body Diagrams Checklist"
 description: "Specific “I can…” statements for forces and free-body diagrams in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 2

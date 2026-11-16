@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.2-revision-notes"
 title: "Extreme Value Theorem, Global Versus Local Extrema, and Critical Points: Revision Notes (Calculus AB 5.2)"
+seoTitle: "Calculus AB 5.2 Extreme Value Theorem Revision Notes"
 description: "One-page recap of the Extreme Value Theorem, global and local extrema, critical points and the link between them, with the mistakes that cost marks."
 course: "calculus-ab"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.14-practice"
 title: "Finding Taylor or Maclaurin Series for a Function: Practice Questions (Calculus BC 10.14)"
+seoTitle: "Calculus BC 10.14 Taylor or Maclaurin Series Practice"
 description: "Seven original Marlbridge practice questions on Taylor and Maclaurin series: the four key series, series from derivatives, reading coefficients and recognising sums, with rubrics."
 course: "calculus-bc"
 unit: 10

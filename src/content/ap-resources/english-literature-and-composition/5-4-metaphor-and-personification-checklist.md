@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.4-checklist"
 title: "Metaphor and Personification: Topic Checklist (English Literature 5.4)"
+seoTitle: "English Lit 5.4 Metaphor and Personification Topic Checklist"
 description: "Specific “I can…” statements on how metaphor and personification transfer particular traits and convey a perspective in a poem, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5

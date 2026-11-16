@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.2-study-guide"
 title: "Redistribution of Charge Between Conductors: Study Guide (Physics C: E&M 10.2)"
+seoTitle: "Physics C E&M 10.2 Charge Redistribution Study Guide"
 description: "Calculus-based guide to charge sharing between conductors: equal potentials on contact, spheres joined by a wire, nested conductors, ground as a reference and charging by grounding."
 course: "physics-c-electricity-and-magnetism"
 unit: 10

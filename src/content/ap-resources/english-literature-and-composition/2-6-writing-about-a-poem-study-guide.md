@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.6-study-guide"
 title: "Writing a Paragraph About a Poem: Study Guide (English Literature 2.6)"
+seoTitle: "English Lit 2.6 Writing a Paragraph About a Poem Study Guide"
 description: "Learn to write a paragraph about a poem that opens with a defensible claim and supports it with quoted lines and device-to-effect reasoning, with a Keats sonnet and a revision example."
 course: "english-literature-and-composition"
 unit: 2

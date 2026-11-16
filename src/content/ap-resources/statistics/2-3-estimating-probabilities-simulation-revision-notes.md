@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.3-revision-notes"
 title: "Estimating Probabilities Using Simulation: Revision Notes (Statistics 2.3)"
+seoTitle: "Statistics 2.3 Probabilities Using Simulation Notes"
 description: "One-page recap of random processes, outcomes, events, long-run relative frequency, designing a simulation and the law of large numbers, with the mistakes that cost marks."
 course: "statistics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.7-practice"
 title: "Independent Events and Unions of Events: Practice Questions (Statistics 2.7)"
+seoTitle: "Statistics 2.7 Independent Events and Unions Practice"
 description: "Seven original Marlbridge practice questions on independence checks, the multiplication rule, the general addition rule and at-least-one problems, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

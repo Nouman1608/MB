@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.7-checklist"
 title: "Nested Conditionals: Topic Checklist (Computer Science Principles 3.7)"
+seoTitle: "CS Principles 3.7 Nested Conditionals Topic Checklist"
 description: "Specific \"I can\" statements for nested conditionals, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

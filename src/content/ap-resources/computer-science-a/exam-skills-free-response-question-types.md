@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-exam-skills-free-response-question-types"
 title: "The Four Free-Response Question Types: Exam Skills Guide (Computer Science A)"
+seoTitle: "Computer Science A Free-Response Question Types Exam Skills"
 description: "How to approach each of the four Java free-response questions (methods and control, class design, ArrayList data analysis, 2D array), with original examples, solutions and a suggested rubric."
 course: "computer-science-a"
 unit: 1

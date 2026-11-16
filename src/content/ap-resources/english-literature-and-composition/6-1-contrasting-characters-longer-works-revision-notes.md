@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.1-revision-notes
 title: 'Contrasting Characters in Longer Works: Revision Notes (English Literature 6.1)'
+seoTitle: "English Literature 6.1 Contrasting Characters Revision Notes"
 description: 'One-page revision notes on foils, contrasting characters and character perspective in longer works: the contrast frame, key terms, common mistakes and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 6

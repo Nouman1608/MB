@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.5-checklist"
 title: "Selecting Procedures for Calculating Derivatives: Topic Checklist (Calculus AB 3.5)"
+seoTitle: "Calculus AB 3.5 Choosing Derivative Procedures Checklist"
 description: "Specific “I can…” statements for choosing and combining derivative rules, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3

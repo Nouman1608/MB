@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.2-checklist"
 title: "Diction, Syntax and Credibility: Topic Checklist (English Language 8.2)"
+seoTitle: "English Language 8.2 Diction, Syntax, Credibility Checklist"
 description: "Specific \"I can\" statements for how word choice and sentence structure shape how an audience perceives a writer and accepts an argument, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 8

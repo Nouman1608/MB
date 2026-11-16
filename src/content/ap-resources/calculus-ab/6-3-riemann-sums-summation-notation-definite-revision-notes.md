@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.3-revision-notes"
 title: "Riemann Sums, Summation Notation and Definite Integral Notation: Revision Notes (Calculus AB 6.3)"
+seoTitle: "Calculus AB 6.3 Riemann Sums and Integral Notation Notes"
 description: "One-page recap of sigma notation, the general Riemann sum, the definition of the definite integral and how to translate a limit of sums into an integral and back."
 course: "calculus-ab"
 unit: 6

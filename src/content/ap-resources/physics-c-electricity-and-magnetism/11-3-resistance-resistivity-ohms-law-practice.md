@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.3-practice"
 title: "Resistance, Resistivity and Ohm's Law: Practice Questions (Physics C: E&M 11.3)"
+seoTitle: "Physics C E&M 11.3 Resistivity and Ohm's Law Practice"
 description: "Seven original Marlbridge practice questions on resistance: R = ρℓ/A, stretched wires, non-ohmic lamps, finding resistivity from plotted data and integrating a varying resistivity."
 course: "physics-c-electricity-and-magnetism"
 unit: 11

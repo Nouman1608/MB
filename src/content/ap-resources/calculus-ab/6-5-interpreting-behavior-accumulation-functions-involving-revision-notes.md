@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.5-revision-notes"
 title: "Interpreting the Behavior of Accumulation Functions Involving Area: Revision Notes (Calculus AB 6.5)"
+seoTitle: "Calculus AB 6.5 Behavior of Accumulation Functions Notes"
 description: "One-page recap of how the sign, slope and area of f describe g(x) = ∫ (a to x) f(t) dt: increasing intervals, extrema, concavity, inflection points and absolute values."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.13-practice"
 title: "Developing Procedures: Practice Questions (Computer Science Principles 3.13)"
+seoTitle: "CS Principles 3.13 Developing Procedures Practice"
 description: "Nine original Marlbridge practice questions on writing procedures, parameters, return values, reuse and explaining how procedural abstraction manages complexity, with a suggested rubric."
 course: "computer-science-principles"
 unit: 3

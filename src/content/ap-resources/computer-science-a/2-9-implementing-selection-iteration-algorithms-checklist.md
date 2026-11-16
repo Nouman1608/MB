@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.9-checklist"
 title: "Implementing Selection and Iteration Algorithms: Topic Checklist (Computer Science A 2.9)"
+seoTitle: "Computer Science A 2.9 Selection and Iteration Checklist"
 description: "Specific I can statements for standard algorithms that combine selection and iteration, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 2

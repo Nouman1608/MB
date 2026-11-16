@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.4-study-guide"
 title: "Identifying and Correcting Errors: Study Guide (Computer Science Principles 1.4)"
+seoTitle: "CS Principles 1.4 Identifying and Correcting Errors Guide"
 description: "How to classify logic, syntax, run-time and overflow errors, design test cases with expected outputs and boundary values, and find errors by hand tracing, with two worked examples."
 course: "computer-science-principles"
 unit: 1

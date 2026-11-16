@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-u10-review"
 title: "Infinite Sequences and Series: Mixed Unit Review (Calculus BC Unit 10)"
+seoTitle: "Calculus BC Unit 10 Infinite Sequences and Series Review"
 description: "The big ideas of Infinite Sequences and Series in one place, a methods summary table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-bc"
 unit: 10

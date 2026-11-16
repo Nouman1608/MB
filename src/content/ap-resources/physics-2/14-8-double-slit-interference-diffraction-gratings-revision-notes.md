@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.8-revision-notes"
 title: "Double-Slit Interference and Diffraction Gratings: Revision Notes (Physics 2 14.8)"
+seoTitle: "Physics 2 14.8 Double-Slit and Gratings Revision Notes"
 description: "One-page recap of double-slit fringes, d sin θ = mλ, y_max = mλL/d, the single-slit envelope, diffraction gratings and white-light spectra."
 course: "physics-2"
 unit: 14

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.10-checklist"
 title: "Derivatives of Tangent, Cotangent, Secant and Cosecant: Topic Checklist (Calculus AB 2.10)"
+seoTitle: "Calculus AB 2.10 Derivatives of tan, cot, sec, csc Checklist"
 description: "Specific “I can…” statements for differentiating tan, cot, sec and csc, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 2

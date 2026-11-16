@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.3-revision-notes"
 title: "Rates of Change in Applied Contexts Other Than Motion: Revision Notes (Calculus AB 4.3)"
+seoTitle: "Calculus AB 4.3 Rates of Change in Applied Contexts Notes"
 description: "One-page recap of derivatives as rates in any context: the unit rule, the four-part interpretation sentence, sign words and what the second derivative adds."
 course: "calculus-ab"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.1-practice
 title: 'Contrasting Characters in Longer Works: Practice Questions (English Literature 6.1)'
+seoTitle: "English Literature 6.1 Contrasting Characters Practice"
 description: Nine original Marlbridge practice questions on foils, contrasting characters and character perspective in longer works, with full explanations, model answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

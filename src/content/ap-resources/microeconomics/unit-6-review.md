@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-u6-review"
 title: "Market Failure and the Role of Government: Mixed Unit Review (Microeconomics Unit 6)"
+seoTitle: "Microeconomics Unit 6 Market Failure Review"
 description: "Connect efficiency, externalities, public goods, government intervention and inequality, then practise seven original questions that combine topics, with worked solutions and suggested rubrics."
 course: "microeconomics"
 unit: 6

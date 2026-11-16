@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.15-revision-notes"
 title: "Carrying Out a Chi-Square Test for Homogeneity or Independence: Revision Notes (Statistics 3.15)"
+seoTitle: "Statistics 3.15 Carrying Out a Chi-Square Test Notes"
 description: "One-page recap of expected counts, the chi-square statistic, degrees of freedom, right-tail p-values and conclusions for homogeneity and independence tests, with the mistakes that cost marks."
 course: "statistics"
 unit: 3

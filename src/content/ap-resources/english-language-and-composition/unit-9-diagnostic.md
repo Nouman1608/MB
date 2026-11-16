@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u9-diagnostic"
 title: "Counterarguments: Concession, Rebuttal and Refutation: Unit Diagnostic (English Language Unit 9)"
+seoTitle: "English Language Unit 9 Counterarguments Diagnostic"
 description: "A 25-minute check with at least one short question per topic of Unit 9, from entering a conversation to conceding, rebutting, refuting and introducing counterarguments, showing which topics to revisit."
 course: "english-language-and-composition"
 unit: 9

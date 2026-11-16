@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u2-review"
 title: "Force and Translational Dynamics: Mixed Unit Review (Physics C: Mechanics Unit 2)"
+seoTitle: "Physics C Mechanics Unit 2 Translational Dynamics Review"
 description: "A one-hour mixed review of forces and Newton's laws with calculus: the big ideas linking Topics 2.1 to 2.10, a summary table and seven original questions that each combine two or more topics."
 course: "physics-c-mechanics"
 unit: 2

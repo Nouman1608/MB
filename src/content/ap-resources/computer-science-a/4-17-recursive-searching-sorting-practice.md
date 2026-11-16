@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.17-practice"
 title: "Recursive Searching and Sorting: Practice Questions (Computer Science A 4.17)"
+seoTitle: "Computer Science A 4.17 Recursive Search and Sort Practice"
 description: "Ten original questions on recursive searching and sorting: binary search traces and step counts, unsorted data, recursive traversals, merge sort splits and merges, plus two trace tasks."
 course: "computer-science-a"
 unit: 4

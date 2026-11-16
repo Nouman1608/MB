@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.3-revision-notes"
 title: "Mathematical Expressions: Revision Notes (Computer Science Principles 3.3)"
+seoTitle: "CS Principles 3.3 Mathematical Expressions Revision Notes"
 description: "One-page recap of arithmetic operators, order of operations and MOD, with a table of everyday MOD patterns and the slips that cost marks."
 course: "computer-science-principles"
 unit: 3

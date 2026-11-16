@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.6-checklist"
 title: "Sampling Distributions for the Difference Between Two Sample Means: Topic Checklist (Statistics 4.6)"
+seoTitle: "Statistics 4.6 Difference in Two Sample Means Checklist"
 description: "Specific “I can…” statements for the sampling distribution of a difference in sample means, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 4

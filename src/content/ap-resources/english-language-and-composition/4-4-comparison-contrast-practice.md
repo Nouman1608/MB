@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.4-practice
 title: 'Developing Ideas Through Comparison-Contrast: Practice Questions (English Language 4.4)'
+seoTitle: "English Language 4.4 Comparison-Contrast Practice Questions"
 description: 'Eight original Marlbridge practice questions on comparison-contrast: identifying categories, checking like categories, organising a comparison, and using it to support a claim.'
 course: english-language-and-composition
 unit: 4

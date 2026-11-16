@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.6-revision-notes"
 title: "Short-Run Production and Long-Run Entry or Exit Decisions: Revision Notes (Microeconomics 3.6)"
+seoTitle: "Microeconomics 3.6 Short-Run Production and Exit Notes"
 description: "One-page recap of the short-run shutdown rule (TR versus TVC, price versus AVC), the shutdown and break-even points, and long-run entry and exit, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 3

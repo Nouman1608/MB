@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.2-study-guide"
 title: "Resource Allocation and Economic Systems: Study Guide (Microeconomics 1.2)"
+seoTitle: "Microeconomics 1.2 Resource Allocation Study Guide"
 description: "Learn the three questions every economy must answer and how command, market and mixed economies answer them, with their coordinating mechanisms, strengths and limits."
 course: "microeconomics"
 unit: 1

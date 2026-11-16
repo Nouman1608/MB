@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.6-study-guide"
 title: "Derivative Rules: Constant, Sum, Difference and Constant Multiple: Study Guide (Calculus AB 2.6)"
+seoTitle: "Calculus AB 2.6 Constant, Sum and Difference Rules Guide"
 description: "Learn why constants differentiate to zero and why derivatives split over sums and constant multiples, then use these rules with the power rule to differentiate any polynomial."
 course: "calculus-ab"
 unit: 2

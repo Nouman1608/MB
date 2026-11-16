@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.17-study-guide"
 title: "Algorithmic Efficiency: Study Guide (Computer Science Principles 3.17)"
+seoTitle: "CS Principles 3.17 Algorithmic Efficiency Study Guide"
 description: "How to measure efficiency by counting statement executions, why polynomial algorithms run in reasonable time and exponential ones do not, and why heuristics give approximate answers. Two worked examples."
 course: "computer-science-principles"
 unit: 3

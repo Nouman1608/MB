@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.7-checklist"
 title: "Carrying Out a Test for a Population Proportion: Topic Checklist (Statistics 3.7)"
+seoTitle: "Statistics 3.7 Carrying Out a Proportion Test Checklist"
 description: "Specific “I can…” statements for carrying out a one-proportion z-test, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3

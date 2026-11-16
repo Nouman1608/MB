@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.4-practice
 title: 'Revising a Thesis for New Evidence: Practice Questions (English Language 6.4)'
+seoTitle: "English Language 6.4 Revising a Thesis Practice Questions"
 description: 'Eight original Marlbridge practice questions on revising a thesis and line of reasoning in response to new evidence: choosing the kind of revision, rewriting theses and spotting revisions in texts.'
 course: english-language-and-composition
 unit: 6

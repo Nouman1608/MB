@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-exam-skills-representations-derivations"
 title: "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics 1)"
+seoTitle: "Physics 1 Derivations and Experiments Exam Skills Guide"
 description: "Draw free-body diagrams, motion graphs and energy bar charts that score, derive and check symbolic answers, write paragraph arguments and design experiments with linearised graphs."
 course: "physics-1"
 unit: 1

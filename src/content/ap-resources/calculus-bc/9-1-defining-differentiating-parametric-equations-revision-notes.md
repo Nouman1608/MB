@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.1-revision-notes"
 title: "Defining and Differentiating Parametric Equations: Revision Notes (Calculus BC 9.1)"
+seoTitle: "Calculus BC 9.1 Differentiating Parametric Equations Notes"
 description: "One-page recap of parametric curves and dy/dx: the chain-rule formula, tangent lines, horizontal and vertical tangents, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.10-practice"
 title: "Implementing String Algorithms: Practice Questions (Computer Science A 2.10)"
+seoTitle: "Computer Science A 2.10 String Algorithms Practice"
 description: "10 original Marlbridge practice questions on standard algorithms that process strings with loops, with full answers, an explanation of every wrong option and a suggested rubric."
 course: "computer-science-a"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.1-practice"
 title: "Algorithms with Selection and Repetition: Practice Questions (Computer Science A 2.1)"
+seoTitle: "Computer Science A 2.1 Selection and Repetition Practice"
 description: "10 original Marlbridge practice questions on algorithms built from sequencing, selection and repetition, with full answers, an explanation of every wrong option and a suggested rubric."
 course: "computer-science-a"
 unit: 2

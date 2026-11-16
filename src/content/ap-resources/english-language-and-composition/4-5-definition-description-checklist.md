@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.5-checklist
 title: 'Developing Ideas Through Definition and Description: Topic Checklist (English Language 4.5)'
+seoTitle: "English Language 4.5 Definition and Description Checklist"
 description: Specific “I can…” statements for reading and writing definition and description, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 4

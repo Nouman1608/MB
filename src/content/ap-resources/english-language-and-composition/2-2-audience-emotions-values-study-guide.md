@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.2-study-guide"
 title: "Relating to an Audience’s Emotions and Values: Study Guide (English Language 2.2)"
+seoTitle: "English Language 2.2 Audience Emotions and Values Guide"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.2"]

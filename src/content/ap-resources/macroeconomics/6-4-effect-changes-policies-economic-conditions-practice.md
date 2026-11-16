@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.4-practice"
 title: "Policies, Economic Conditions and the Foreign Exchange Market: Practice Questions (Macroeconomics 6.4)"
+seoTitle: "Macroeconomics 6.4 Policies and Foreign Exchange Practice"
 description: "Seven original Marlbridge practice questions on shifts in currency demand and supply, trade barriers, inflation, and fiscal and monetary policy effects on exchange rates, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 6

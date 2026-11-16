@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.5-practice"
 title: "Approximating Solutions Using Euler’s Method: Practice Questions (Calculus BC 7.5)"
+seoTitle: "Calculus BC 7.5 Euler's Method Approximations Practice"
 description: "Seven original Marlbridge practice questions on Euler’s method: single and repeated steps, backward steps, concavity and error, and a context problem, with rubrics."
 course: "calculus-bc"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.4-revision-notes"
 title: "Finding the Area Between Curves Expressed as Functions of x: Revision Notes (Calculus AB 8.4)"
+seoTitle: "Calculus AB 8.4 Area Between Curves as Functions of x Notes"
 description: "One-page recap of area between curves with vertical strips: top minus bottom, finding limits and the top curve, regions below the axis, splitting, and the errors that cost marks."
 course: "calculus-ab"
 unit: 8

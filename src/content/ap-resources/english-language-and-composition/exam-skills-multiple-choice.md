@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-exam-skills-multiple-choice"
 title: "The Multiple-Choice Section: Reading, Rhetoric and Writing Questions: Exam Skills Guide (English Language)"
+seoTitle: "English Language Multiple-Choice Section Exam Skills Guide"
 description: "How the 45 multiple-choice questions are built, how to read and eliminate answers, how to pace 60 minutes, and how to handle the editing and composition questions, with original practice sets and answers."
 course: "english-language-and-composition"
 unit: 1

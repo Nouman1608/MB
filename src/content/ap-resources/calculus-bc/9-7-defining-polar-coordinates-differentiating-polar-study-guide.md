@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.7-study-guide"
 title: "Defining Polar Coordinates and Differentiating in Polar Form: Study Guide (Calculus BC 9.7)"
+seoTitle: "Calculus BC 9.7 Polar Coordinates and Differentiation Guide"
 description: "Learn what polar coordinates mean, convert between polar and rectangular form, and find dr/dθ, dx/dθ, dy/dθ, dy/dx and d²y/dx² for a polar curve r = f(θ)."
 course: "calculus-bc"
 unit: 9

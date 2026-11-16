@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.11-practice"
 title: "Spectroscopy and the Electromagnetic Spectrum: Practice Questions (Chemistry 3.11)"
+seoTitle: "Chemistry 3.11 Spectroscopy and the EM Spectrum Practice"
 description: "Seven original Marlbridge practice questions on spectral regions, photon energy order and rotational, vibrational and electronic transitions, with full solutions and suggested mark points."
 course: "chemistry"
 unit: 3

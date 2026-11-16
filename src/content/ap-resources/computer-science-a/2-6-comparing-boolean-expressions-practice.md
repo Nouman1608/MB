@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.6-practice"
 title: "Comparing Boolean Expressions: Practice Questions (Computer Science A 2.6)"
+seoTitle: "Computer Science A 2.6 Comparing Booleans Practice"
 description: "10 original Marlbridge practice questions on equivalent Boolean expressions, De Morgan's laws and comparing object references, with full answers, an explanation of every wrong option and a suggested rubric."
 course: "computer-science-a"
 unit: 2

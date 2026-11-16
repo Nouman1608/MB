@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.10-checklist"
 title: "The Investigative Question Revisited and Data Collection: Topic Checklist (Statistics 1.10)"
+seoTitle: "Statistics 1.10 Data Collection Topic Checklist"
 description: "Specific “I can…” statements for investigative questions, census, observational studies, experiments, confounding and generalising, each linked to the guide section or practice question that tests it."
 course: "statistics"
 unit: 1

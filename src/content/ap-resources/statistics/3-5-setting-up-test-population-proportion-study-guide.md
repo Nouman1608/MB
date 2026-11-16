@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.5-study-guide"
 title: "Setting Up a Test for a Population Proportion: Study Guide (Statistics 3.5)"
+seoTitle: "Statistics 3.5 Setting Up a Test for a Proportion Guide"
 description: "Learn to set up a one-sample z-test for a population proportion: define the parameter in context, write the null and alternative hypotheses, and verify the three conditions."
 course: "statistics"
 unit: 3

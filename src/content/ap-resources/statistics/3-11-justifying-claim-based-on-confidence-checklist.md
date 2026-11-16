@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.11-checklist"
 title: "Justifying a Claim Based on a Confidence Interval for Two Proportions: Topic Checklist (Statistics 3.11)"
+seoTitle: "Statistics 3.11 Two-Proportion CI Claims Topic Checklist"
 description: "Specific “I can…” statements for interpreting and using a confidence interval for p₁ − p₂, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3

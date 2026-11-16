@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.8-practice"
 title: "The Effects of Government Intervention in Markets: Practice Questions (Microeconomics 2.8)"
+seoTitle: "Microeconomics 2.8 Government Intervention Practice"
 description: "Seven original Marlbridge practice questions on price ceilings, price floors, quotas, per-unit taxes and subsidies, incidence and deadweight loss, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 2

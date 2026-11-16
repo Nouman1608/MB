@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-u2-review"
 title: "Force and Translational Dynamics: Mixed Unit Review (Physics 1 Unit 2)"
+seoTitle: "Physics 1 Unit 2 Force and Translational Dynamics Review"
 description: "Connect all nine force and dynamics topics: the big ideas, a one-table summary of key relationships, and seven original exam-style questions that each combine two or more topics."
 course: "physics-1"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.5-study-guide"
 title: "Changes in the Foreign Exchange Market and Net Exports: Study Guide (Macroeconomics 6.5)"
+seoTitle: "Macroeconomics 6.5 Exchange Market and Net Exports Guide"
 description: "Learn how an appreciation or depreciation changes the prices of exports and imports, why it moves net exports in the opposite direction, and how that shifts aggregate demand."
 course: "macroeconomics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.2-practice"
 title: "Redistribution of Charge Between Conductors: Practice Questions (Physics C: E&M 10.2)"
+seoTitle: "Physics C E&M 10.2 Charge Redistribution Practice Questions"
 description: "Seven original Marlbridge practice questions on charge sharing between conductors: equal potentials, spheres on a wire, nested conductors, grounding and induced charge, with solutions."
 course: "physics-c-electricity-and-magnetism"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.6-revision-notes"
 title: "Changes in the AD–AS Model in the Short Run: Revision Notes (Macroeconomics 3.6)"
+seoTitle: "Macroeconomics 3.6 Short-Run AD–AS Model Changes Notes"
 description: "One-page recap of demand and supply shocks, their short-run effects on output, employment and the price level, demand-pull and cost-push inflation, and stagflation."
 course: "macroeconomics"
 unit: 3

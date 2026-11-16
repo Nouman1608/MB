@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.3-checklist"
 title: "Appeals: The Modes of Persuasion: Topic Checklist (English Language 2.3)"
+seoTitle: "English Language 2.3 Modes of Persuasion Topic Checklist"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.3"]

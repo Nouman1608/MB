@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u6-review"
 title: "Energy and Momentum of Rotating Systems: Mixed Unit Review (Physics C: Mechanics Unit 6)"
+seoTitle: "Physics C Mechanics Unit 6 Rotating Systems Unit Review"
 description: "A one-hour mixed review of rotational energy and angular momentum: the big ideas that link Topics 6.1 to 6.6, a summary table and seven original questions that each combine two or more topics."
 course: "physics-c-mechanics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.10-practice"
 title: "Volume with the Disc Method: Revolving Around Other Axes: Practice Questions (Calculus AB 8.10)"
+seoTitle: "Calculus AB 8.10 Disc Method Around Other Axes Practice"
 description: "Seven original Marlbridge practice questions on disc-method volumes about lines such as y = k and x = h, with calculator and non-calculator parts, full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.4-practice"
 title: "Differentiating Inverse Trigonometric Functions: Practice Questions (Calculus AB 3.4)"
+seoTitle: "Calculus AB 3.4 Derivatives of Inverse Trig Practice"
 description: "Seven original Marlbridge practice questions on derivatives of arcsin, arccos and arctan, including chain-rule, tangent-line and derivation questions, with suggested rubrics."
 course: "calculus-ab"
 unit: 3

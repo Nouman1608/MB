@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.6-revision-notes"
 title: "Descriptions for One Quantitative Variable Distributions: Revision Notes (Statistics 1.6)"
+seoTitle: "Statistics 1.6 Describing Quantitative Distributions Notes"
 description: "One-page recap of describing a quantitative distribution: skewed or symmetric, unimodal, bimodal or uniform, outliers, gaps and clusters, centre and spread, and using a graph to judge a claim."
 course: "statistics"
 unit: 1

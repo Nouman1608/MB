@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.12-study-guide"
 title: "Confirming Continuity over an Interval: Study Guide (Calculus AB 1.12)"
+seoTitle: "Calculus AB 1.12 Continuity over an Interval Study Guide"
 description: "Learn what it means for a function to be continuous on an interval, which function families are continuous on their domains, and how to find and justify the intervals of continuity."
 course: "calculus-ab"
 unit: 1

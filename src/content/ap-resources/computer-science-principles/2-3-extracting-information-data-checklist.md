@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.3-checklist"
 title: "Extracting Information from Data: Topic Checklist (Computer Science Principles 2.3)"
+seoTitle: "CS Principles 2.3 Extracting Information from Data Checklist"
 description: "Specific I can statements for extracting information from data, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 2

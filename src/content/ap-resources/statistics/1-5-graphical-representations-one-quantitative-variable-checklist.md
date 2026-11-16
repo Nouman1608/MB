@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.5-checklist"
 title: "Graphical Representations for One Quantitative Variable: Topic Checklist (Statistics 1.5)"
+seoTitle: "Statistics 1.5 Graphing One Quantitative Variable Checklist"
 description: "Specific “I can…” statements for constructing dotplots, stem-and-leaf plots and histograms, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1

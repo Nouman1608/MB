@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.1-revision-notes"
 title: "Introducing Calculus: Can Change Occur at an Instant? Revision Notes (Calculus AB 1.1)"
+seoTitle: "Calculus AB 1.1 Introducing Calculus Revision Notes"
 description: "One-page recap of average rates of change, why a single instant gives 0/0, and how shrinking intervals lead to the rate of change at an instant."
 course: "calculus-ab"
 unit: 1

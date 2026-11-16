@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.12-practice"
 title: "Volume with Washer Method: Revolving Around Other Axes: Practice Questions (Calculus AB 8.12)"
+seoTitle: "Calculus AB 8.12 Washer Method Around Other Axes Practice"
 description: "Seven original Marlbridge practice questions on washer-method volumes around horizontal and vertical lines other than the axes, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

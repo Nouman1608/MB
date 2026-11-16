@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.6-practice"
 title: "Writing a Paragraph About a Poem: Practice Questions (English Literature 2.6)"
+seoTitle: "English Lit 2.6 Writing a Paragraph About a Poem Practice"
 description: "Eight original Marlbridge questions on writing about a poem: choosing claims and evidence, quoting lines, linking devices to effects and revising a weak paragraph, with a rubric."
 course: "english-literature-and-composition"
 unit: 2

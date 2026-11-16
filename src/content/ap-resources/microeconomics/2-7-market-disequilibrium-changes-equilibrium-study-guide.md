@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.7-study-guide"
 title: "Market Disequilibrium and Changes in Equilibrium: Study Guide (Microeconomics 2.7)"
+seoTitle: "Microeconomics 2.7 Market Disequilibrium Study Guide"
 description: "Learn what shortages and surpluses are, how market forces remove them, and how shifts in demand and supply change price, quantity, consumer surplus and producer surplus."
 course: "microeconomics"
 unit: 2

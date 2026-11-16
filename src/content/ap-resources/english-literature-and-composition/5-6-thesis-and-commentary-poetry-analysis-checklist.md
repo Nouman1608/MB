@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.6-checklist"
 title: "Thesis and Commentary in a Poetry Analysis: Topic Checklist (English Literature 5.6)"
+seoTitle: "English Literature 5.6 Poetry Analysis Thesis Checklist"
 description: "Specific “I can…” statements on how to write a defensible thesis and developed commentary in an essay analysing a poem, using device-to-effect chains, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.2-study-guide"
 title: "Connecting Position, Velocity, and Acceleration Using Integrals: Study Guide (Calculus AB 8.2)"
+seoTitle: "Calculus AB 8.2 Motion Using Integrals Study Guide"
 description: "Learn how integrals turn acceleration into velocity and velocity into position, and why the integral of velocity gives displacement while the integral of speed gives total distance."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.2-practice"
 title: "Resource Allocation and Economic Systems: Practice Questions (Microeconomics 1.2)"
+seoTitle: "Microeconomics 1.2 Resource Allocation Practice Questions"
 description: "Seven original Marlbridge practice questions on the three basic economic questions and on command, market and mixed economies, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 1

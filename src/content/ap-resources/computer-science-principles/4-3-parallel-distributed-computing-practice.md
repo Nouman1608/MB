@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-4.3-practice"
 title: "Parallel and Distributed Computing: Practice Questions (Computer Science Principles 4.3)"
+seoTitle: "CS Principles 4.3 Parallel, Distributed Computing Practice"
 description: "Ten original practice questions on sequential and parallel run time, speedup, the sequential limit and distributed computing, with explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 4

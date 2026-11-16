@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.8-checklist"
 title: "The Effects of Government Intervention in Markets: Topic Checklist (Microeconomics 2.8)"
+seoTitle: "Microeconomics 2.8 Government Intervention Topic Checklist"
 description: "Specific “I can…” statements for price controls, quotas, taxes and subsidies, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 2

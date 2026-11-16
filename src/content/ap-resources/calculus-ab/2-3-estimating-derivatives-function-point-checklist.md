@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.3-checklist"
 title: "Estimating Derivatives of a Function at a Point: Topic Checklist (Calculus AB 2.3)"
+seoTitle: "Calculus AB 2.3 Estimating Derivatives at a Point Checklist"
 description: "Specific “I can…” statements for estimating derivatives from tables, graphs and a calculator, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 2

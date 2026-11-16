@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.1-study-guide"
 title: "Introducing Calculus: Can Change Occur at an Instant? Study Guide (Calculus AB 1.1)"
+seoTitle: "Calculus AB 1.1 Introducing Calculus Study Guide"
 description: "Learn why a rate of change at a single instant cannot be found by one division, and how average rates over shrinking intervals lead to it."
 course: "calculus-ab"
 unit: 1

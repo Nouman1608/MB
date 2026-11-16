@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.3-practice"
 title: "Boundary Behavior of Waves and Polarization: Practice Questions (Physics 2 14.3)"
+seoTitle: "Physics 2 14.3 Wave Boundaries and Polarization Practice"
 description: "Seven original Marlbridge practice questions on reflection and transmission at boundaries, wavelength changes, polarization and intensity, with full solutions."
 course: "physics-2"
 unit: 14

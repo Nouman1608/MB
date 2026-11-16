@@ -4,6 +4,7 @@
  * (src/data/ap/config.ts). Every metadata field in the panel comes straight from the
  * resource's validated frontmatter (scripts/validate-ap-library.mjs).
  */
+import { apSearchTitle } from '../../../utils/ap/search-title';
 import { getCollection, getEntry, render } from 'astro:content';
 import PageLayout from '../../../layouts/PageLayout.astro';
 import Section from '../../../components/layout/Section.astro';
@@ -63,7 +64,7 @@ const correctionHref = `${routes.reportCorrection}#page=${encodeURIComponent(`ht
 const h2 = 'm-0 mb-4 text-[length:var(--text-h2)] font-semibold leading-[1.16] tracking-[-0.015em] text-navy-800';
 ---
 <PageLayout
-  title={d.title}
+  title={apSearchTitle(d.title, d.seoTitle)}
   description={d.description}
   path={path}
   type="article"

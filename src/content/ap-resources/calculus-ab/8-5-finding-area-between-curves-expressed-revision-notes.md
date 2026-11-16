@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.5-revision-notes"
 title: "Finding the Area Between Curves Expressed as Functions of y: Revision Notes (Calculus AB 8.5)"
+seoTitle: "Calculus AB 8.5 Area Between Curves as Functions of y Notes"
 description: "One-page recap of area with horizontal strips: right minus left, y-limits, rewriting curves as x in terms of y, choosing dx or dy, and the errors that cost marks."
 course: "calculus-ab"
 unit: 8

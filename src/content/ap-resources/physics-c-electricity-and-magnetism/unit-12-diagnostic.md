@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-u12-diagnostic"
 title: "Magnetic Fields and Electromagnetism: Unit Diagnostic (Physics C: E&M Unit 12)"
+seoTitle: "Physics C E&M Unit 12 Magnetism, Electromagnetism Diagnostic"
 description: "A 30-minute check of Unit 12: ten original Marlbridge questions on magnetic fields, moving charges, the Biot-Savart law and Ampère's law, each linked to the guide to revisit."
 course: "physics-c-electricity-and-magnetism"
 unit: 12

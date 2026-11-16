@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.6-checklist"
 title: "Circuits with Capacitors and Inductors (LC Circuits): Topic Checklist (Physics C: E&M 13.6)"
+seoTitle: "Physics C E&M 13.6 LC Circuits Topic Checklist"
 description: "Specific “I can…” statements for LC circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

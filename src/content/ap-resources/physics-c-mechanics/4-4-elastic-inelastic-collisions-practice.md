@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.4-practice"
 title: "Elastic and Inelastic Collisions: Practice Questions (Physics C: Mechanics 4.4)"
+seoTitle: "Physics C Mechanics 4.4 Collisions Practice Questions"
 description: "Seven original Marlbridge practice questions on classifying collisions by kinetic energy, perfectly inelastic outcomes, one-dimensional elastic collisions and collision data."
 course: "physics-c-mechanics"
 unit: 4

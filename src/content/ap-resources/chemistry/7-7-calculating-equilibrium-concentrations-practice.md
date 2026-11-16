@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.7-practice"
 title: "Calculating Equilibrium Concentrations: Practice Questions (Chemistry 7.7)"
+seoTitle: "Chemistry 7.7 Equilibrium Concentrations Practice"
 description: "Seven original Marlbridge practice questions on Q versus K, ICE tables, small-x and large-K shortcuts and concentration–time graphs, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 7

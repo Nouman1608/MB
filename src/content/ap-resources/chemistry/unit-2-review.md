@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-u2-review"
 title: "Compound Structure and Properties: Mixed Unit Review (Chemistry Unit 2)"
+seoTitle: "Chemistry Unit 2 Compound Structure and Properties Review"
 description: "Connect bond types, potential energy, ionic and metallic solids, alloys, Lewis diagrams, formal charge and molecular shape with seven original questions that each combine topics."
 course: "chemistry"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.8-revision-notes"
 title: "Graphical Representations of Summary Statistics: Revision Notes (Statistics 1.8)"
+seoTitle: "Statistics 1.8 Graphing Summary Statistics Revision Notes"
 description: "One-page recap of the five-number summary, how to draw and read a boxplot with outliers, and how the mean and median relate to shape, with the mistakes that cost marks."
 course: "statistics"
 unit: 1

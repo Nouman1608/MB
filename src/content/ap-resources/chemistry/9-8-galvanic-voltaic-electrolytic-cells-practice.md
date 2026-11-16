@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.8-practice"
 title: "Galvanic (Voltaic) and Electrolytic Cells: Practice Questions (Chemistry 9.8)"
+seoTitle: "Chemistry 9.8 Galvanic and Electrolytic Cells Practice"
 description: "Seven original Marlbridge practice questions on the parts of electrochemical cells, electron and ion flow, electrode changes and set-up changes, with worked solutions and mark points."
 course: "chemistry"
 unit: 9

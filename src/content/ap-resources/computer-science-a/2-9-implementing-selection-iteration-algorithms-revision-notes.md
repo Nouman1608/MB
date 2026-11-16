@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.9-revision-notes"
 title: "Implementing Selection and Iteration Algorithms: Revision Notes (Computer Science A 2.9)"
+seoTitle: "Computer Science A 2.9 Selection and Iteration Notes"
 description: "One-page recap of standard algorithms that combine selection and iteration: the rules, a key-relationships table, mistakes to avoid and a short self-check with answers."
 course: "computer-science-a"
 unit: 2

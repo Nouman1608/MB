@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.6-revision-notes"
 title: "Sampling Distributions for the Difference Between Two Sample Means: Revision Notes (Statistics 4.6)"
+seoTitle: "Statistics 4.6 Difference in Two Sample Means Notes"
 description: "One-page recap of the sampling distribution of x̄₁ − x̄₂: mean, standard deviation, conditions, when a normal model applies, and the mistakes that cost marks."
 course: "statistics"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.3-practice"
 title: "Rates of Change in Applied Contexts Other Than Motion: Practice Questions (Calculus AB 4.3)"
+seoTitle: "Calculus AB 4.3 Rates of Change in Applied Contexts Practice"
 description: "Seven original Marlbridge practice questions on derivatives as rates in cost, rainfall, density, chemistry and medicine contexts, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 4

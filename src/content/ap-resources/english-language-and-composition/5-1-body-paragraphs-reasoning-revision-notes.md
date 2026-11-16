@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.1-revision-notes
 title: 'Body Paragraphs and the Line of Reasoning: Revision Notes (English Language 5.1)'
+seoTitle: "English Language 5.1 Body Paragraphs Revision Notes"
 description: 'One-page recap of body paragraphs: claim, evidence and commentary, how paragraphs build a line of reasoning, and common errors.'
 course: english-language-and-composition
 unit: 5

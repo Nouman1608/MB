@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u7-review"
 title: "Qualifying Claims, Sentence Structure and Punctuation: Mixed Unit Review (English Language Unit 7)"
+seoTitle: "English Language Unit 7 Qualifying Claims Review"
 description: "Big ideas, a one-table method summary and six original exam-style questions that each combine two or more Unit 7 topics, with worked answers and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

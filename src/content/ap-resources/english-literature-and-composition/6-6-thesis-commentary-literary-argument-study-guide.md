@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.6-study-guide
 title: 'Thesis and Commentary in a Literary Argument: Study Guide (English Literature 6.6)'
+seoTitle: "English Literature 6.6 Literary Argument Thesis Study Guide"
 description: How to write a defensible thesis about a literary work and develop commentary that links evidence, a line of reasoning and the thesis, with weak and strong versions side by side.
 course: english-literature-and-composition
 unit: 6

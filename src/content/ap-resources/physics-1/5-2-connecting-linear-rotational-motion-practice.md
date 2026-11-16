@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.2-practice"
 title: "Connecting Linear and Rotational Motion: Practice Questions (Physics 1 5.2)"
+seoTitle: "Physics 1 5.2 Linear and Rotational Motion Practice"
 description: "Seven original Marlbridge practice questions linking angle, angular velocity and angular acceleration to arc length, speed and acceleration of points, belts and strings, with suggested mark points."
 course: "physics-1"
 unit: 5

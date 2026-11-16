@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.4-revision-notes"
 title: "Electric Fields of Charge Distributions: Revision Notes (Physics C: E&M 8.4)"
+seoTitle: "Physics C E&M 8.4 Fields of Charge Distributions Notes"
 description: "One-page recap of fields of continuous charge for the calculus-based course: the dq method, symmetry, and standard results for rods, rings, arcs and lines."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

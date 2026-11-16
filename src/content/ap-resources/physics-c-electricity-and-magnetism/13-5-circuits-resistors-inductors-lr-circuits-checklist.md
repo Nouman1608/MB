@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.5-checklist"
 title: "Circuits with Resistors and Inductors (LR Circuits): Topic Checklist (Physics C: E&M 13.5)"
+seoTitle: "Physics C E&M 13.5 LR Circuits Topic Checklist"
 description: "Specific “I can…” statements for LR circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

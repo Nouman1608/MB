@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.3-revision-notes"
 title: "Representing and Analyzing SHM: Revision Notes (Physics C: Mechanics 7.3)"
+seoTitle: "Physics C Mechanics 7.3 Representing, Analyzing SHM Notes"
 description: "One-page calculus recap of simple harmonic motion: d²x/dt² = −ω²x, x = A cos(ωt + φ₀), velocity and acceleration by differentiation, zeros and extremes, and resonance."
 course: "physics-c-mechanics"
 unit: 7

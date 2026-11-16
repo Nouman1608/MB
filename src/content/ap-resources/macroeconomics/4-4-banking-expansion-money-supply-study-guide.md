@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.4-study-guide"
 title: "Banking and the Expansion of the Money Supply: Study Guide (Macroeconomics 4.4)"
+seoTitle: "Macroeconomics 4.4 Banking and the Money Supply Study Guide"
 description: "Learn how banks' balance sheets work, how fractional reserve banking turns excess reserves into new loans and deposits, and how to use the money multiplier and its limits."
 course: "macroeconomics"
 unit: 4

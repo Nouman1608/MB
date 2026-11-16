@@ -15,6 +15,7 @@ import { topicAnchor } from '../../../../../utils/academic/course-topics';
 import { getResources } from '../../../../../utils/content/collections';
 import { resourcesForCombination, STUDY_KIND } from '../../../../../utils/academic/combination-resources';
 import { routes } from '../../../../../utils/urls/routes';
+import { flashcardSearchTitle } from '../../../../../utils/flashcards/search-title';
 
 export function getStaticPaths() {
   return FLASHCARD_DECKS.flatMap((deck) => {
@@ -55,9 +56,11 @@ const study = (['learn', 'review', 'practice'] as const).flatMap((k) => {
   const r = onTopic.find((x) => STUDY_KIND[x.data.resourceType] === k);
   return r ? [{ kind: KIND_LABEL[k], title: r.data.title, href: routes.resource(r.id) }] : [];
 });
+// D-482 -- shortened <title>; the heading keeps the full topic name.
+const searchTitle = flashcardSearchTitle({ topicName: topic.name, stageLabel, subject: c.subject, code: cs ? deck.syllabusCode : '', codeWord });
 ---
 <PageLayout
-  title={`${topic.name}${stageLabel ? ` (${stageLabel})` : ''} Flashcards — ${cs ? `${c.subject} ${deck.syllabusCode}` : codeWord}`}
+  title={searchTitle}
   description={`${topicCards.length} free flashcards on ${topic.name} for ${c.board} ${c.qualification} ${c.subject}${cs ? ` ${deck.syllabusCode}` : ''} (${deck.syllabusSeries})${subNumbers.length ? `, covering ${subNumbers.join(', ')}` : ''}.`}
   path={path}
   eyebrow={`Flashcards · ${codeWord} · ${topicWord}`}

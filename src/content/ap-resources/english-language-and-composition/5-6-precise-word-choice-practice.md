@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.6-practice
 title: 'Descriptive Words and Precise Word Choice: Practice Questions (English Language 5.6)'
+seoTitle: "English Language 5.6 Precise Word Choice Practice Questions"
 description: 'Eight original Marlbridge practice questions on descriptive words and precise word choice: reading modifiers for perspective, replacing vague words, and writing exact, purposeful sentences.'
 course: english-language-and-composition
 unit: 5

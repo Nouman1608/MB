@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.3-study-guide"
 title: "Program Design and Development: Study Guide (Computer Science Principles 1.3)"
+seoTitle: "CS Principles 1.3 Program Design and Development Guide"
 description: "The phases of program development, iterative versus incremental processes, requirements and specifications, design activities, documentation and acknowledging code, with two worked examples."
 course: "computer-science-principles"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.9-study-guide"
 title: "Implementing Selection and Iteration Algorithms: Study Guide (Computer Science A 2.9)"
+seoTitle: "Computer Science A 2.9 Selection and Iteration Study Guide"
 description: "Learn standard algorithms that combine selection and iteration, with a first-principles explanation, traced Java examples, a diagram, two worked examples and the mistakes to avoid."
 course: "computer-science-a"
 unit: 2

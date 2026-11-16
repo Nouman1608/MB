@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.1-revision-notes"
 title: "Defining Average and Instantaneous Rates of Change at a Point: Revision Notes (Calculus AB 2.1)"
+seoTitle: "Calculus AB 2.1 Average and Instantaneous Rates Notes"
 description: "One-page recap of difference quotients, the limit definition of the derivative at a point, how to recognise a limit as f′(a), and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.2-checklist"
 title: "Complexity and Avoiding Oversimplification: Topic Checklist (English Language 7.2)"
+seoTitle: "English Language 7.2 Avoiding Oversimplification Checklist"
 description: "Specific \"I can\" statements for spotting and avoiding oversimplified claims, and revising a claim when evidence complicates it, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

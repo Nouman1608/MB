@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.3-revision-notes"
 title: "Constructing a Confidence Interval for a Population Proportion: Revision Notes (Statistics 3.3)"
+seoTitle: "Statistics 3.3 Confidence Interval for a Proportion Notes"
 description: "One-page recap of the one-sample z-interval for a proportion: parameter, conditions, critical values, standard error, margin of error and sample size, with the mistakes that cost marks."
 course: "statistics"
 unit: 3

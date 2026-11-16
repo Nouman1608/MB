@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.12-revision-notes"
 title: "Integrating Using Linear Partial Fractions: Revision Notes (Calculus BC 6.12)"
+seoTitle: "Calculus BC 6.12 Integrating Linear Partial Fractions Notes"
 description: "One-page recap of linear partial fractions: when the method applies, two ways to find the constants, integrating each piece as a logarithm, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 6

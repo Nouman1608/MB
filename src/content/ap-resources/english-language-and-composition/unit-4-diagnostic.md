@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-u4-diagnostic
 title: 'Introductions, Conclusions and Further Methods of Development: Unit Diagnostic (English Language Unit 4)'
+seoTitle: "English Language Unit 4 Methods of Development Diagnostic"
 description: A 30-minute check with one short question per topic of Unit 4, from introductions and conclusions to previewing theses, comparison-contrast and definition, showing which topics to revisit.
 course: english-language-and-composition
 unit: 4

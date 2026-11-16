@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.1-revision-notes"
 title: "Ethical and Social Issues Around Data Collection: Revision Notes (Computer Science A 4.1)"
+seoTitle: "Computer Science A 4.1 Ethics of Data Collection Notes"
 description: "One-page recap of data privacy, algorithmic bias, bias from data collection methods, data quality problems and choosing an appropriate data set for a question."
 course: "computer-science-a"
 unit: 4

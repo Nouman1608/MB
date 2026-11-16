@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.3-practice"
 title: "Justifying a Claim Based on a Confidence Interval for a Mean: Practice Questions (Statistics 4.3)"
+seoTitle: "Statistics 4.3 Justifying a Claim, Mean CI Practice"
 description: "Seven original Marlbridge practice questions on interpreting t-intervals and confidence levels, judging claims about a mean or mean difference, and the effects of n and C, with suggested rubrics."
 course: "statistics"
 unit: 4

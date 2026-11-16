@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.5-checklist"
 title: "Compound Direct Current Circuits: Topic Checklist (Physics C: E&M 11.5)"
+seoTitle: "Physics C E&M 11.5 Compound DC Circuits Topic Checklist"
 description: "Specific “I can…” statements for compound DC circuits in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 11

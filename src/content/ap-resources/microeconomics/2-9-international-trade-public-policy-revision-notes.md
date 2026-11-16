@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.9-revision-notes"
 title: "International Trade and Public Policy: Revision Notes (Microeconomics 2.9)"
+seoTitle: "Microeconomics 2.9 Trade and Public Policy Revision Notes"
 description: "One-page recap of trade in a supply and demand market: imports and exports at the world price, surplus changes, and the effects of tariffs and import quotas, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 2

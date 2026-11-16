@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.14-study-guide"
 title: "Connecting Infinite Limits and Vertical Asymptotes: Study Guide (Calculus AB 1.14)"
+seoTitle: "Calculus AB 1.14 Infinite Limits Vertical Asymptotes Guide"
 description: "Learn what it means for a limit to be infinite, how to find one-sided infinite limits with a sign check, and how to use them to justify a vertical asymptote."
 course: "calculus-ab"
 unit: 1

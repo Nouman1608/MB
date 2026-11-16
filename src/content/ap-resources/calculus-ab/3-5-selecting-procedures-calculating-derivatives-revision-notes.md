@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.5-revision-notes"
 title: "Selecting Procedures for Calculating Derivatives: Revision Notes (Calculus AB 3.5)"
+seoTitle: "Calculus AB 3.5 Selecting Procedures for Derivatives Notes"
 description: "One-page recap of choosing a derivative rule: rewrite first, find the last operation, the full rule table, the special cases and the slips that cost marks."
 course: "calculus-ab"
 unit: 3

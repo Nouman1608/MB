@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.6-practice"
 title: "Newton's Second Law in Rotational Form: Practice Questions (Physics 1 5.6)"
+seoTitle: "Physics 1 5.6 Newton's Second Law Rotational Form Practice"
 description: "Seven original Marlbridge practice questions on α = τ_net / I: proportional reasoning, hoops and disks, a spin-up with friction, a pulley with rotational inertia, a torque experiment and a spool on ice."
 course: "physics-1"
 unit: 5

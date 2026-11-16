@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.6-practice"
 title: "Sampling Distributions for the Difference Between Two Sample Means: Practice Questions (Statistics 4.6)"
+seoTitle: "Statistics 4.6 Difference in Two Sample Means Practice"
 description: "Seven original Marlbridge practice questions on the mean, standard deviation, conditions and normal probabilities for a difference in sample means, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 4

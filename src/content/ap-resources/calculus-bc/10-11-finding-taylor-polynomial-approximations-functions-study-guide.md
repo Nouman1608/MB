@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.11-study-guide"
 title: "Finding Taylor Polynomial Approximations of Functions: Study Guide (Calculus BC 10.11)"
+seoTitle: "Calculus BC 10.11 Taylor Polynomial Approximations Guide"
 description: "Build Taylor polynomials from derivative values, see why each coefficient is f⁽ⁿ⁾(a)/n!, read derivatives back from a polynomial, and use it to estimate function values near the centre."
 course: "calculus-bc"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.3-practice"
 title: "Elemental Composition of Pure Substances: Practice Questions (Chemistry 1.3)"
+seoTitle: "Chemistry 1.3 Composition of Pure Substances Practice"
 description: "Seven original Marlbridge practice questions on percentage composition, the law of definite proportions and empirical formulas, with worked solutions and mark points."
 course: "chemistry"
 unit: 1

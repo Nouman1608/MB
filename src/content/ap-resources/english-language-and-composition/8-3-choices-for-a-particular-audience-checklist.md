@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.3-checklist"
 title: "Making Choices for a Particular Audience: Topic Checklist (English Language 8.3)"
+seoTitle: "English Language 8.3 Choices for an Audience Topic Checklist"
 description: "Specific \"I can\" statements for choosing evidence, organisation and language to fit an audience's perspective, context and needs, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 8

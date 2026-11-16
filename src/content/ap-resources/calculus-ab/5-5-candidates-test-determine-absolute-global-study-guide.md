@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.5-study-guide"
 title: "Using the Candidates Test to Find Absolute Extrema: Study Guide (Calculus AB 5.5)"
+seoTitle: "Calculus AB 5.5 Candidates Test for Absolute Extrema Guide"
 description: "Learn why absolute extrema on a closed interval can only sit at critical points or endpoints, and how to list, test and compare those candidates."
 course: "calculus-ab"
 unit: 5

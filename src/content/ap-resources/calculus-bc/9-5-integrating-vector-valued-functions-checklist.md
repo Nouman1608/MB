@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.5-checklist"
 title: "Integrating Vector-Valued Functions: Topic Checklist (Calculus BC 9.5)"
+seoTitle: "Calculus BC 9.5 Integrating Vector Functions Checklist"
 description: "Specific “I can…” statements for integrating vector-valued functions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.14-revision-notes"
 title: "Connecting Infinite Limits and Vertical Asymptotes: Revision Notes (Calculus AB 1.14)"
+seoTitle: "Calculus AB 1.14 Infinite Limits Vertical Asymptotes Notes"
 description: "One-page recap of infinite limits: what = ∞ really means, the sign check for one-sided limits, holes versus vertical asymptotes, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.1-study-guide"
 title: "Comparisons that Relate to an Audience: Study Guide (English Language 8.1)"
+seoTitle: "English Language 8.1 Comparisons for an Audience Study Guide"
 description: "How similes, metaphors, analogies and anecdotes relate a writer's message to an audience, why an effective comparison must be shared and understood, and how to analyse and choose one."
 course: "english-language-and-composition"
 unit: 8

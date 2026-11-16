@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.1-study-guide"
 title: "Characters who change or remain unchanged: Study Guide (English Literature 9.1)"
+seoTitle: "English Lit 9.1 Characters Who Change Study Guide"
 description: "Learn to explain what it means, and why it matters, when a character changes or does not change over a longer work, and how to avoid describing change as plot summary."
 course: "english-literature-and-composition"
 unit: 9

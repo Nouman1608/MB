@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.10-study-guide"
 title: "Cell Potential Under Nonstandard Conditions: Study Guide (Chemistry 9.10)"
+seoTitle: "Chemistry 9.10 Nonstandard Cell Potential Study Guide"
 description: "Learn how concentration changes move a cell potential above or below E°, why it falls to zero at equilibrium, how concentration cells work, and how to use the Nernst equation qualitatively."
 course: "chemistry"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.12-checklist"
 title: "Sampling Distributions and the Central Limit Theorem: Topic Checklist (Statistics 2.12)"
+seoTitle: "Statistics 2.12 Central Limit Theorem Topic Checklist"
 description: "Specific “I can…” statements for sampling distributions, simulation, randomization distributions and the central limit theorem, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 2

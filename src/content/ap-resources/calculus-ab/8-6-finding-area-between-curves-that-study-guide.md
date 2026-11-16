@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.6-study-guide"
 title: "Finding the Area Between Curves That Intersect at More Than Two Points: Study Guide (Calculus AB 8.6)"
+seoTitle: "Calculus AB 8.6 Area Between Curves at 3+ Points Study Guide"
 description: "Learn how to find the area between curves that cross several times: locate every intersection, split the integral where the top curve changes, or integrate the absolute difference."
 course: "calculus-ab"
 unit: 8

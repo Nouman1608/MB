@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.7-study-guide"
 title: "Derivatives of cos x, sin x, eˣ and ln x: Study Guide (Calculus AB 2.7)"
+seoTitle: "Calculus AB 2.7 Derivatives of sin, cos, eˣ, ln x Guide"
 description: "Learn the derivatives of sin x, cos x, eˣ and ln x, why each rule is true, how to combine them with earlier rules, and how to spot a limit that is really a derivative."
 course: "calculus-ab"
 unit: 2

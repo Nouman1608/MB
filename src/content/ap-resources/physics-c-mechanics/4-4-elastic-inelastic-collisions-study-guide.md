@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.4-study-guide"
 title: "Elastic and Inelastic Collisions: Study Guide (Physics C: Mechanics 4.4)"
+seoTitle: "Physics C Mechanics 4.4 Collisions Study Guide"
 description: "Classifying collisions by what happens to kinetic energy: elastic, inelastic and perfectly inelastic cases, where the lost energy goes, and solving one- and two-dimensional collisions."
 course: "physics-c-mechanics"
 unit: 4

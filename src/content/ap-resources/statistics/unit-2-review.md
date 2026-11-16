@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u2-review"
 title: "Probability, Random Variables and Probability Distributions: Mixed Unit Review (Statistics Unit 2)"
+seoTitle: "Statistics Unit 2 Probability and Random Variables Review"
 description: "Big ideas, a one-table method summary and seven original exam-style questions that each combine two or more Unit 2 topics, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

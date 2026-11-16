@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.1-revision-notes"
 title: "Character: What Details Reveal About Perspective and Motive: Revision Notes (English Literature 1.1)"
+seoTitle: "English Lit 1.1 Character Perspective and Motive Notes"
 description: "A one-page recap of how to read a character from details: the detail-inference-perspective chain, the main sources of evidence and the usual traps, with a quick self-check."
 course: "english-literature-and-composition"
 unit: 1

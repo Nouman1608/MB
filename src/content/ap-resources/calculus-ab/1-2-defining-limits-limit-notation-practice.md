@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.2-practice"
 title: "Defining Limits and Using Limit Notation: Practice Questions (Calculus AB 1.2)"
+seoTitle: "Calculus AB 1.2 Defining Limits and Limit Notation Practice"
 description: "Seven original Marlbridge practice questions on the meaning of a limit, writing and reading limit notation, and limits in graphs, tables and context, with full solutions."
 course: "calculus-ab"
 unit: 1

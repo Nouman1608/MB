@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.9-practice"
 title: "Sampling Distributions for the Difference Between Sample Proportions: Practice Questions (Statistics 3.9)"
+seoTitle: "Statistics 3.9 Difference in Sample Proportions Practice"
 description: "Seven original Marlbridge practice questions on the mean, standard deviation, conditions and normal probabilities for a difference in sample proportions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

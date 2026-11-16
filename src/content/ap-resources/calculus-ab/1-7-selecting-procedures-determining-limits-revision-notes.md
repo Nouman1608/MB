@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.7-revision-notes"
 title: "Selecting Procedures for Determining Limits: Revision Notes (Calculus AB 1.7)"
+seoTitle: "Calculus AB 1.7 Selecting Procedures for Limits Notes"
 description: "One-page recap of how to choose a limit method: representation, split check, substitution outcomes, the form-to-tool table and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.9-revision-notes"
 title: "Volume with the Disc Method: Revolving Around the x- or y-Axis: Revision Notes (Calculus AB 8.9)"
+seoTitle: "Calculus AB 8.9 Disc Method Around the x- or y-Axis Notes"
 description: "One-page recap of the disc method about the x- and y-axes: the formula, how to choose the radius, variable and limits, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 8

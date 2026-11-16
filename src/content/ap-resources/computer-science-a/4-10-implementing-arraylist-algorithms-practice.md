@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.10-practice"
 title: "Implementing ArrayList Algorithms: Practice Questions (Computer Science A 4.10)"
+seoTitle: "Computer Science A 4.10 ArrayList Algorithms Practice"
 description: "Ten original questions on ArrayList algorithms: maximum with a bad start value, integer division in averages, consecutive pairs, reversing, rotating, inserting in order, and two coding tasks."
 course: "computer-science-a"
 unit: 4

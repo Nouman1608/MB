@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.14-study-guide"
 title: "Setting Up a Chi-Square Test for Homogeneity or Independence: Study Guide (Statistics 3.14)"
+seoTitle: "Statistics 3.14 Setting Up a Chi-Square Test Study Guide"
 description: "Learn what the chi-square statistic measures, how chi-square distributions behave, how to choose between homogeneity and independence, and how to write hypotheses and check conditions."
 course: "statistics"
 unit: 3

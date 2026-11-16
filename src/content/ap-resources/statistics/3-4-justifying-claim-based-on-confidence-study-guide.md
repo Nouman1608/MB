@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.4-study-guide"
 title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Study Guide (Statistics 3.4)"
+seoTitle: "Statistics 3.4 Justifying a Claim, Proportion CI Guide"
 description: "Learn to interpret a confidence interval and a confidence level in context, use an interval to judge a claim about a proportion, and predict how sample size and confidence level change the width."
 course: "statistics"
 unit: 3

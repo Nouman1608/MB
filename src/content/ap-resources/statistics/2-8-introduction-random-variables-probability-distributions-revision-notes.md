@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.8-revision-notes"
 title: "Introduction to Random Variables and Probability Distributions: Revision Notes (Statistics 2.8)"
+seoTitle: "Statistics 2.8 Random Variables and Distributions Notes"
 description: "One-page recap of discrete random variables, valid probability distributions, tables, histograms and functions, cumulative distributions and simulation estimates, with common mistakes."
 course: "statistics"
 unit: 2

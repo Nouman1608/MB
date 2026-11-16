@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-u10-review"
 title: "Electric Force, Field, and Potential: Mixed Unit Review (Physics 2 Unit 10)"
+seoTitle: "Physics 2 Unit 10 Electric Force and Field Review"
 description: "Connect the electrostatics topics: the big ideas, one summary table and six original questions that combine force, charging, fields, potential energy, potential, capacitors and energy."
 course: "physics-2"
 unit: 10

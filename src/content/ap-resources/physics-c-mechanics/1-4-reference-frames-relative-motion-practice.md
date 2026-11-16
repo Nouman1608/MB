@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.4-practice"
 title: "Reference Frames and Relative Motion: Practice Questions (Physics C: Mechanics 1.4)"
+seoTitle: "Physics C Mechanics 1.4 Frames and Relative Motion Practice"
 description: "Seven original Marlbridge practice questions on relative velocity in one and two dimensions, frame changes by differentiation, and why inertial observers agree on acceleration."
 course: "physics-c-mechanics"
 unit: 1

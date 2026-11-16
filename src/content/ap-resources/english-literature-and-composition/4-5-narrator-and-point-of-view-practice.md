@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.5-practice"
 title: "Narrator, Point of View and Perspective: Practice Questions (English Literature 4.5)"
+seoTitle: "English Literature 4.5 Narrator and Point of View Practice"
 description: "Original Marlbridge practice questions on narrators, point of view and narrative distance, and how diction and syntax reveal perspective, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 4

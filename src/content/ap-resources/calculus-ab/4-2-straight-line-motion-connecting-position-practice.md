@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.2-practice"
 title: "Straight-Line Motion: Connecting Position, Velocity, and Acceleration: Practice Questions (Calculus AB 4.2)"
+seoTitle: "Calculus AB 4.2 Position, Velocity and Acceleration Practice"
 description: "Seven original Marlbridge practice questions on straight-line motion: velocity, acceleration, speed, direction changes and total distance, with full solutions."
 course: "calculus-ab"
 unit: 4

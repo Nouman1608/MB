@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.1-practice"
 title: "Introduction to Algorithms, Programming, and Compilers: Practice Questions (Computer Science A 1.1)"
+seoTitle: "Computer Science A 1.1 Programming and Compilers Practice"
 description: "Nine original Marlbridge practice questions on algorithms, sequencing, compiling and running, and classifying syntax, logic and run-time errors, with explanations and rubrics."
 course: "computer-science-a"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.4-study-guide"
 title: "Differentiating Inverse Trigonometric Functions: Study Guide (Calculus AB 3.4)"
+seoTitle: "Calculus AB 3.4 Differentiating Inverse Trig Functions Guide"
 description: "Derive the derivatives of arcsin, arccos and arctan from the inverse-function idea, then use them with the chain, product and quotient rules."
 course: "calculus-ab"
 unit: 3

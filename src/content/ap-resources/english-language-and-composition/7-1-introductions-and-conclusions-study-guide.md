@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.1-study-guide"
 title: "Introductions and Conclusions for a Complex Argument: Study Guide (English Language 7.1)"
+seoTitle: "English Language 7.1 Introductions and Conclusions Guide"
 description: "How introductions orient, engage and focus an audience, how conclusions bring an argument to a unified end, and how to choose each move to suit the situation."
 course: "english-language-and-composition"
 unit: 7

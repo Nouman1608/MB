@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.4-practice"
 title: "Defining and Differentiating Vector-Valued Functions: Practice Questions (Calculus BC 9.4)"
+seoTitle: "Calculus BC 9.4 Vector-Valued Function Derivatives Practice"
 description: "Seven original Marlbridge practice questions on vector-valued functions: domain, component derivatives, direction, tangents, r″ versus d²y/dx², and a table-based context, with rubrics."
 course: "calculus-bc"
 unit: 9

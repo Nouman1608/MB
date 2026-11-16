@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.2-checklist"
 title: "Introduction to Using Data Sets: Topic Checklist (Computer Science A 4.2)"
+seoTitle: "Computer Science A 4.2 Using Data Sets Topic Checklist"
 description: "Specific I can statements for using data sets: representing patterns and algorithms in words, tables and diagrams, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 4

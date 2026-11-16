@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-u6-diagnostic"
 title: "Market Failure and the Role of Government: Unit Diagnostic (Microeconomics Unit 6)"
+seoTitle: "Microeconomics Unit 6 Market Failure Diagnostic"
 description: "A short diagnostic on efficient and inefficient outcomes, externalities, public goods, government intervention and inequality, with answers and a link to the right study guide for every miss."
 course: "microeconomics"
 unit: 6

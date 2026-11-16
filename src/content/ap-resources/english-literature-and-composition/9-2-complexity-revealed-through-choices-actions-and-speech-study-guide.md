@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.2-study-guide"
 title: "Complexity revealed through choices, actions and speech: Study Guide (English Literature 9.2)"
+seoTitle: "English Lit 9.2 Complexity Through Choices Study Guide"
 description: "Learn to explain how a character's own choices, actions and speech reveal inconsistency and complexity, especially in response to the resolution of a narrative, and what that complexity does."
 course: "english-literature-and-composition"
 unit: 9

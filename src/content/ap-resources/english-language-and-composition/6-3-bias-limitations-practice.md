@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.3-practice
 title: 'Bias and Limitations in Sources: Practice Questions (English Language 6.3)'
+seoTitle: "English Language 6.3 Source Bias and Limitations Practice"
 description: 'Eight original Marlbridge practice questions on bias and limitations in sources: spotting signs of bias, distinguishing limitations, comparing reliability and writing responsibly from imperfect sources.'
 course: english-language-and-composition
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.6-practice"
 title: "Market Equilibrium and Changes in Equilibrium: Practice Questions (Macroeconomics 1.6)"
+seoTitle: "Macroeconomics 1.6 Market Equilibrium Practice Questions"
 description: "Seven original Marlbridge practice questions on finding equilibrium, calculating surpluses and shortages, price adjustment and single and double shifts, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 1

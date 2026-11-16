@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-1.6-revision-notes"
 title: "Writing a Paragraph with a Claim and Evidence: Revision Notes (English Language 1.6)"
+seoTitle: "English Language 1.6 Claim and Evidence Paragraph Notes"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.6"]

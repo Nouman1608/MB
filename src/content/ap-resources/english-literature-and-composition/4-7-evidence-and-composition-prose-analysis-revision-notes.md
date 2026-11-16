@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.7-revision-notes"
 title: "Evidence and Composition in a Prose Analysis: Revision Notes (English Literature 4.7)"
+seoTitle: "English Literature 4.7 Prose Analysis Evidence Notes"
 description: "One-page recap of choosing relevant, sufficient evidence and controlling paragraphs and transitions in a prose analysis essay: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 4

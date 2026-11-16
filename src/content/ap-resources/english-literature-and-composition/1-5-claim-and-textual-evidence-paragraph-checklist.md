@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.5-checklist"
 title: "Writing a Paragraph With a Claim and Textual Evidence: Topic Checklist (English Literature 1.5)"
+seoTitle: "English Lit 1.5 Claim and Evidence Paragraph Topic Checklist"
 description: "Specific I can statements for writing a claim-and-evidence paragraph about short fiction, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 1

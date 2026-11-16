@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.3-study-guide"
 title: "Conservation of Linear Momentum: Study Guide (Physics C: Mechanics 4.3)"
+seoTitle: "Physics C Mechanics 4.3 Linear Momentum Conservation Guide"
 description: "Total momentum and center-of-mass velocity, why internal forces cannot change a system's momentum, choosing a system, and conservation in one and two dimensions."
 course: "physics-c-mechanics"
 unit: 4

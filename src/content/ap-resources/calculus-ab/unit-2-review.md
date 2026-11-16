@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u2-review"
 title: "Differentiation: Definition and Fundamental Properties: Mixed Unit Review (Calculus AB Unit 2)"
+seoTitle: "Calculus AB Unit 2 Differentiation Fundamentals Unit Review"
 description: "The big ideas of Differentiation: Definition and Fundamental Properties, a methods summary table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-ab"
 unit: 2

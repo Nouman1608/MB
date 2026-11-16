@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.4-revision-notes"
 title: "Government Deficits and the National Debt: Revision Notes (Macroeconomics 5.4)"
+seoTitle: "Macroeconomics 5.4 Deficits and the National Debt Notes"
 description: "One-page recap of budget surpluses and deficits, how deficits build the national debt, and the burden of interest on the debt, with the mistakes that cost marks."
 course: "macroeconomics"
 unit: 5

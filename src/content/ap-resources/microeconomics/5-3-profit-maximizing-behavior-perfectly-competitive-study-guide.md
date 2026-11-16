@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.3-study-guide"
 title: "Profit-Maximising Behaviour in Perfectly Competitive Factor Markets: Study Guide (Microeconomics 5.3)"
+seoTitle: "Microeconomics 5.3 Competitive Factor Markets Study Guide"
 description: "Learn how a wage-taking firm decides how many workers to hire where MRP equals the wage, how MRP differs from VMP, and how to choose the least-cost and profit-maximising mix of inputs."
 course: "microeconomics"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.9-study-guide"
 title: "International Trade and Public Policy: Study Guide (Microeconomics 2.9)"
+seoTitle: "Microeconomics 2.9 Trade and Public Policy Study Guide"
 description: "Learn how opening a market to trade changes price, quantity and surplus for importers and exporters, and how tariffs and quotas affect price, imports, revenue and total surplus."
 course: "microeconomics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-3.3-practice"
 title: "Short-Run Aggregate Supply (SRAS): Practice Questions (Macroeconomics 3.3)"
+seoTitle: "Macroeconomics 3.3 Short-Run Aggregate Supply Practice"
 description: "Seven original Marlbridge practice questions on the SRAS curve: sticky wages, shifts and movements, expected inflation, and the short-run trade-off between inflation and unemployment."
 course: "macroeconomics"
 unit: 3

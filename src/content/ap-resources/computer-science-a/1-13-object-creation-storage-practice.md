@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.13-practice"
 title: "Object Creation and Storage (Instantiation): Practice Questions (Computer Science A 1.13)"
+seoTitle: "Computer Science A 1.13 Object Instantiation Practice"
 description: "Ten original Marlbridge practice questions on constructors, creating objects with new, overloaded constructors, null references, call by value and the order of execution in constructor calls."
 course: "computer-science-a"
 unit: 1

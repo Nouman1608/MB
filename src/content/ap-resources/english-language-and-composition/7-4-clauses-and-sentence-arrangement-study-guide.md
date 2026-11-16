@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.4-study-guide"
 title: "Clauses and the Arrangement of Sentences: Study Guide (English Language 7.4)"
+seoTitle: "English Language 7.4 Clauses and Sentence Arrangement Guide"
 description: "How sentences are built from independent and dependent clauses, and how the order of clauses, phrases and sentences puts emphasis on particular ideas."
 course: "english-language-and-composition"
 unit: 7

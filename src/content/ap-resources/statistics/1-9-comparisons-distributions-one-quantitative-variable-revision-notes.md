@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.9-revision-notes"
 title: "Comparisons of the Distributions for One Quantitative Variable: Revision Notes (Statistics 1.9)"
+seoTitle: "Statistics 1.9 Comparisons of Distributions Revision Notes"
 description: "One-page recap of comparing distributions with dot plots, stemplots, histograms and boxplots, writing a full comparison in context, and using z-scores for relative position."
 course: "statistics"
 unit: 1

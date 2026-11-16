@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.6-revision-notes
 title: 'Simile and Personification in Fiction: Revision Notes (English Literature 7.6)'
+seoTitle: "English Lit 7.6 Simile and Personification in Fiction Notes"
 description: 'Revision notes on simile and personification in fiction: the five-step simile analysis, personification in two directions, examples and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u2-diagnostic"
 title: "Audience, Appeals and the Thesis: Unit Diagnostic (English Language Unit 2)"
+seoTitle: "English Language Unit 2 Audience and Appeals Diagnostic"
 description: "A ten-question check with at least one question for each topic of Unit 2, from audience and appeals to evidence and the thesis, showing which topics to revisit."
 course: "english-language-and-composition"
 unit: 2

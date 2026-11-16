@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.6-study-guide"
 title: "Real Interest Rates and International Capital Flows: Study Guide (Macroeconomics 6.6)"
+seoTitle: "Macroeconomics 6.6 Real Interest Rates and Capital Guide"
 description: "Learn why financial capital flows towards the country with the relatively higher real interest rate, and how that flow changes loanable funds markets, exchange rates and net exports."
 course: "macroeconomics"
 unit: 6

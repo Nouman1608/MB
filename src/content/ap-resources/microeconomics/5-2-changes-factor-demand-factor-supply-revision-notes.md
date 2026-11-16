@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.2-revision-notes"
 title: "Changes in Factor Demand and Factor Supply: Revision Notes (Microeconomics 5.2)"
+seoTitle: "Microeconomics 5.2 Factor Demand and Supply Revision Notes"
 description: "One-page recap of what shifts labour demand and labour supply, how each shift changes the wage and employment, and what happens when both curves shift, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.4-revision-notes"
 title: "The Function of Specific Words and Phrases: Revision Notes (English Literature 2.4)"
+seoTitle: "English Literature 2.4 Function of Words and Phrases Notes"
 description: "A one-page recap of how words and phrases function in poems: antecedents and referents, ambiguous referents, repetition and alliteration, with common mistakes and a quick self-check."
 course: "english-literature-and-composition"
 unit: 2

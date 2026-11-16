@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-u8-diagnostic"
 title: "Electric Charges, Fields and Gauss's Law: Unit Diagnostic (Physics C: E&M Unit 8)"
+seoTitle: "Physics C E&M Unit 8 Charge, Fields, Gauss's Law Diagnostic"
 description: "A 30-minute check of Unit 8: nine original Marlbridge questions on charge, Coulomb's law, fields, charge distributions, flux and Gauss's law, each linked to the guide to revisit."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

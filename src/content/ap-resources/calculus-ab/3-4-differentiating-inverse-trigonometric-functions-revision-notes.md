@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.4-revision-notes"
 title: "Differentiating Inverse Trigonometric Functions: Revision Notes (Calculus AB 3.4)"
+seoTitle: "Calculus AB 3.4 Differentiating Inverse Trig Functions Notes"
 description: "One-page recap of the derivatives of arcsin, arccos and arctan: where they come from, the chain-rule forms, where they fail and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 3

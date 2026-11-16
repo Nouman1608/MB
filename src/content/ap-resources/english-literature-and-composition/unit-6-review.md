@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-u6-review
 title: 'Longer Fiction or Drama II: Mixed Unit Review (English Literature Unit 6)'
+seoTitle: "English Lit Unit 6 Longer Fiction or Drama II Review"
 description: Big ideas, a one-table method summary and six original questions that combine two or more Unit 6 topics, including a model literary-argument essay with a suggested rubric.
 course: english-literature-and-composition
 unit: 6

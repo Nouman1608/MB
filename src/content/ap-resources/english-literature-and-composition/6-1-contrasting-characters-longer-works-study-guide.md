@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.1-study-guide
 title: 'Contrasting Characters in Longer Works: Study Guide (English Literature 6.1)'
+seoTitle: "English Literature 6.1 Contrasting Characters Study Guide"
 description: 'How foils and contrasting characters work in a longer novel or play: what a contrast reveals, how different perspectives give different information, and how to explain the function.'
 course: english-literature-and-composition
 unit: 6

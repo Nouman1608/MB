@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.1-study-guide"
 title: "Character: What Details Reveal About Perspective and Motive: Study Guide (English Literature 1.1)"
+seoTitle: "English Lit 1.1 Character Perspective and Motive Study Guide"
 description: "Learn to move from a specific detail in a short story to a defensible claim about a character's perspective and motive, using description, dialogue and behaviour as evidence."
 course: "english-literature-and-composition"
 unit: 1

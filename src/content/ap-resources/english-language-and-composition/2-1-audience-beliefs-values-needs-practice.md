@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.1-practice"
 title: "Writing for an Audience’s Beliefs, Values and Needs: Practice Questions (English Language 2.1)"
+seoTitle: "English Language 2.1 Audience Beliefs and Values Practice"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.1"]

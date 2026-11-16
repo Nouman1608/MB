@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-u6-diagnostic"
 title: "Energy and Momentum of Rotating Systems: Unit Diagnostic (Physics 1 Unit 6)"
+seoTitle: "Physics 1 Unit 6 Energy of Rotating Systems Diagnostic"
 description: "Ten short original questions across all six rotational energy and angular momentum topics, with explanations, so you can see which topics to revisit before mixed practice."
 course: "physics-1"
 unit: 6

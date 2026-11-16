@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.7-checklist"
 title: "Independent Events and Unions of Events: Topic Checklist (Statistics 2.7)"
+seoTitle: "Statistics 2.7 Independent Events and Unions Checklist"
 description: "Specific “I can…” statements for independent events and unions of events, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2

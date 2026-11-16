@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.6-practice"
 title: "Finding General Solutions Using Separation of Variables: Practice Questions (Calculus AB 7.6)"
+seoTitle: "Calculus AB 7.6 Separation of Variables Practice Questions"
 description: "Seven original Marlbridge practice questions on separable differential equations and general solutions, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 7

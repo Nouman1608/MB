@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.9-revision-notes"
 title: "Setting Up a Test for the Difference Between Two Population Means: Revision Notes (Statistics 4.9)"
+seoTitle: "Statistics 4.9 Setting Up a Test for Two Means Notes"
 description: "One-page recap of setting up a two-sample t-test: choosing the procedure, defining μ₁ and μ₂, writing hypotheses and checking the three conditions, with the mistakes that cost marks."
 course: "statistics"
 unit: 4

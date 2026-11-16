@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.1-checklist"
 title: "Introductions and Conclusions for a Complex Argument: Topic Checklist (English Language 7.1)"
+seoTitle: "English Language 7.1 Introductions and Conclusions Checklist"
 description: "Specific \"I can\" statements for writing and analysing introductions and conclusions that suit the rhetorical situation, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

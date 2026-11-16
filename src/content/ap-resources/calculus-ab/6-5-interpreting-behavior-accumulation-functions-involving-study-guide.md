@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.5-study-guide"
 title: "Interpreting the Behavior of Accumulation Functions Involving Area: Study Guide (Calculus AB 6.5)"
+seoTitle: "Calculus AB 6.5 Behavior of Accumulation Functions Guide"
 description: "Learn to read where an accumulation function increases, decreases, has extrema and changes concavity, using a graph, table, formula or description of its integrand."
 course: "calculus-ab"
 unit: 6

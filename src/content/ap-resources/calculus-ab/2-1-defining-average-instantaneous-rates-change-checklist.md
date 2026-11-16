@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.1-checklist"
 title: "Defining Average and Instantaneous Rates of Change at a Point: Topic Checklist (Calculus AB 2.1)"
+seoTitle: "Calculus AB 2.1 Average and Instantaneous Rates Checklist"
 description: "Specific “I can…” statements for difference quotients and the derivative at a point, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 2

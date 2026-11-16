@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.10-revision-notes"
 title: "The Investigative Question Revisited and Data Collection: Revision Notes (Statistics 1.10)"
+seoTitle: "Statistics 1.10 Data Collection Revision Notes"
 description: "One-page recap of the three parts of an investigative question, census, observational studies, experiments, confounding and generalising, with the mistakes that cost marks."
 course: "statistics"
 unit: 1

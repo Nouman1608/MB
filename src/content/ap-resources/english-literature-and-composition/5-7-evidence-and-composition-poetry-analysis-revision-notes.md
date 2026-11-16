@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.7-revision-notes"
 title: "Evidence and Composition in a Poetry Analysis: Revision Notes (English Literature 5.7)"
+seoTitle: "English Literature 5.7 Poetry Analysis Evidence Notes"
 description: "One-page recap of selecting, quoting and integrating evidence from a poem and controlling paragraphs and transitions in an essay: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 5

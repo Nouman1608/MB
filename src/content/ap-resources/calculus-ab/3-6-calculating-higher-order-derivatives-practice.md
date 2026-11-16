@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.6-practice"
 title: "Calculating Higher-Order Derivatives: Practice Questions (Calculus AB 3.6)"
+seoTitle: "Calculus AB 3.6 Higher-Order Derivatives Practice Questions"
 description: "Seven original Marlbridge practice questions on second and higher derivatives: notation, patterns, existence and implicit second derivatives, with full solutions."
 course: "calculus-ab"
 unit: 3

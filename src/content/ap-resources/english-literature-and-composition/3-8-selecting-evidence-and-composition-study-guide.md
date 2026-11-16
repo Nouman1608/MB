@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.8-study-guide"
 title: "Selecting Evidence and Controlling Composition: Study Guide (English Literature 3.8)"
+seoTitle: "English Lit 3.8 Selecting Evidence and Composition Guide"
 description: "Learn to choose relevant and sufficient evidence for a line of reasoning, to use it for different purposes, and to control grammar, mechanics and quotation so that your interpretation is clear."
 course: "english-literature-and-composition"
 unit: 3

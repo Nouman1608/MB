@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.2-practice"
 title: "Connecting Position, Velocity, and Acceleration Using Integrals: Practice Questions (Calculus AB 8.2)"
+seoTitle: "Calculus AB 8.2 Motion Using Integrals Practice Questions"
 description: "Seven original Marlbridge practice questions on motion with integrals: positions, velocities, displacement, total distance and average speed, from formulas and graphs, with solutions."
 course: "calculus-ab"
 unit: 8

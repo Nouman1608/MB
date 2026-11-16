@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.8-checklist"
 title: "Selecting Evidence and Controlling Composition: Topic Checklist (English Literature 3.8)"
+seoTitle: "English Lit 3.8 Selecting Evidence and Composition Checklist"
 description: "Specific I can statements for selecting evidence and controlling composition in literary analysis, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 3

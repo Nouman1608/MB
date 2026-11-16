@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.6-practice"
 title: "Determining Limits Using Algebraic Manipulation: Practice Questions (Calculus AB 1.6)"
+seoTitle: "Calculus AB 1.6 Limits Using Algebraic Manipulation Practice"
 description: "Seven original Marlbridge practice questions on 0/0 limits using factoring, conjugates, combined fractions and trig identities, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

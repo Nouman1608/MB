@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.1-study-guide"
 title: "Algorithms with Selection and Repetition: Study Guide (Computer Science A 2.1)"
+seoTitle: "Computer Science A 2.1 Selection and Repetition Guide"
 description: "Learn algorithms built from sequencing, selection and repetition, with a first-principles explanation, traced Java examples, a diagram, two worked examples and the mistakes to avoid."
 course: "computer-science-a"
 unit: 2

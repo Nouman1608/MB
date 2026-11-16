@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.6-practice"
 title: "Properties of the Equilibrium Constant: Practice Questions (Chemistry 7.6)"
+seoTitle: "Chemistry 7.6 Properties of Equilibrium Constant Practice"
 description: "Seven original Marlbridge practice questions on reversing, multiplying and adding equations to find K or Q, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 7

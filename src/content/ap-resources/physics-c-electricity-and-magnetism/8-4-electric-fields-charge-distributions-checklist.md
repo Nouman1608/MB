@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.4-checklist"
 title: "Electric Fields of Charge Distributions: Topic Checklist (Physics C: E&M 8.4)"
+seoTitle: "Physics C E&M 8.4 Fields of Charge Distributions Checklist"
 description: "Specific “I can…” statements for fields of continuous charge in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

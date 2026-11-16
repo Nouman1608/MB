@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.2-practice"
 title: "Literal and Figurative Meaning: Practice Questions (English Literature 5.2)"
+seoTitle: "English Lit 5.2 Literal and Figurative Meaning Practice"
 description: "Original Marlbridge practice questions on telling literal from figurative meaning and explaining the function of words, hyperbole and understatement, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 5

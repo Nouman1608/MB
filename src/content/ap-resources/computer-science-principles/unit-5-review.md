@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u5-review"
 title: "Impact of Computing: Mixed Unit Review (Computer Science Principles Unit 5)"
+seoTitle: "CS Principles Unit 5 Impact of Computing Review"
 description: "Big ideas, a one-table method summary and six original exam-style questions, built around a short invented passage, that combine Unit 5 topics, with worked solutions and suggested rubrics."
 course: "computer-science-principles"
 unit: 5

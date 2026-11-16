@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-10.2-practice"
 title: "Conservation of Electric Charge and the Process of Charging: Practice Questions (Physics 2 10.2)"
+seoTitle: "Physics 2 10.2 Conservation of Charge Practice Questions"
 description: "Seven original Marlbridge practice questions on charge conservation, charging by friction, contact and induction, polarization of neutral objects and grounding, with full solutions."
 course: "physics-2"
 unit: 10

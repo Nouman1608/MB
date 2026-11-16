@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.2-checklist"
 title: "Defining the Derivative of a Function and Using Derivative Notation: Topic Checklist (Calculus AB 2.2)"
+seoTitle: "Calculus AB 2.2 Defining the Derivative Topic Checklist"
 description: "Specific “I can…” statements for the derivative function, derivative notation and tangent lines, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 2

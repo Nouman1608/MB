@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-11.5-practice"
 title: "Compound Direct Current (DC) Circuits: Practice Questions (Physics 2 11.5)"
+seoTitle: "Physics 2 11.5 Compound DC Circuits Practice Questions"
 description: "Seven original Marlbridge practice questions on equivalent resistance, compound networks, internal resistance and meters, with full solutions and suggested mark points."
 course: "physics-2"
 unit: 11

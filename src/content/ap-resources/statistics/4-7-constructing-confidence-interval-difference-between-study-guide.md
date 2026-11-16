@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.7-study-guide"
 title: "Constructing a Confidence Interval for the Difference Between Two Means: Study Guide (Statistics 4.7)"
+seoTitle: "Statistics 4.7 Confidence Interval for Two Means Guide"
 description: "Learn when to use a two-sample t-interval, how to define μ₁ − μ₂ in context, check the three conditions, and calculate the standard error, margin of error and interval."
 course: "statistics"
 unit: 4

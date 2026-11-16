@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.2-study-guide"
 title: "Nuance and Complexity in Character Relationships: Study Guide (English Literature 4.2)"
+seoTitle: "English Literature 4.2 Complex Character Relationships Guide"
 description: "A first-principles guide to how textual details reveal the nuance and complexity of relationships between characters in short fiction, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 4

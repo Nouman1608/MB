@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.7-practice"
 title: "Defining Polar Coordinates and Differentiating in Polar Form: Practice Questions (Calculus BC 9.7)"
+seoTitle: "Calculus BC 9.7 Differentiating in Polar Form Practice"
 description: "Seven original Marlbridge practice questions on polar coordinates: converting points and equations, slopes, tangents, concavity and the meaning of dr/dθ, with rubrics."
 course: "calculus-bc"
 unit: 9

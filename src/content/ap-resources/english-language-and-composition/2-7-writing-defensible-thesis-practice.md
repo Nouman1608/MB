@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.7-practice"
 title: "Writing a Defensible Thesis Statement: Practice Questions (English Language 2.7)"
+seoTitle: "English Language 2.7 Writing a Defensible Thesis Practice"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.7"]

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.6-revision-notes"
 title: "Determining Limits Using Algebraic Manipulation: Revision Notes (Calculus AB 1.6)"
+seoTitle: "Calculus AB 1.6 Limits Using Algebraic Manipulation Notes"
 description: "One-page recap of 0/0 limits: why cancelling is valid, the four rewriting techniques with their conditions, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

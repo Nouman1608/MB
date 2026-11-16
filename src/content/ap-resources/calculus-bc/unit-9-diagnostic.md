@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-u9-diagnostic"
 title: "Parametric Equations, Polar Coordinates and Vector-Valued Functions: Unit Diagnostic (Calculus BC Unit 9)"
+seoTitle: "Calculus BC Unit 9 Parametric, Polar and Vector Diagnostic"
 description: "Eleven short original questions, one or two per topic of parametric, polar and vector-valued functions, to show which topics you should revisit, with explanations and links."
 course: "calculus-bc"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.12-practice"
 title: "Setting Up a Test for the Difference Between Two Population Proportions: Practice Questions (Statistics 3.12)"
+seoTitle: "Statistics 3.12 Setting Up a Two-Proportion Test Practice"
 description: "Seven original Marlbridge practice questions on choosing the two-sample z-test for p₁ − p₂, defining parameters, writing hypotheses and checking conditions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

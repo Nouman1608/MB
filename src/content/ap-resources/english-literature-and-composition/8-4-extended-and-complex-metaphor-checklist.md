@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.4-checklist"
 title: "Extended and complex metaphor: Topic Checklist (English Literature 8.4)"
+seoTitle: "English Lit 8.4 Extended and Complex Metaphor Checklist"
 description: "Specific \"I can\" statements for extended and complex metaphor, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 8

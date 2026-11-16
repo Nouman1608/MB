@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.6-study-guide"
 title: "Circuits with Capacitors and Inductors (LC Circuits): Study Guide (Physics C: E&M 13.6)"
+seoTitle: "Physics C E&M 13.6 LC Circuits Study Guide"
 description: "Calculus-based guide to LC circuits: energy exchange between capacitor and inductor, maximum current, the simple harmonic equation for charge, ω = 1/√(LC) and graphs of q and I."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

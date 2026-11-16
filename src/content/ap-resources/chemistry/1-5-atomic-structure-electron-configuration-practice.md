@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.5-practice"
 title: "Atomic Structure and Electron Configuration: Practice Questions (Chemistry 1.5)"
+seoTitle: "Chemistry 1.5 Electron Configuration Practice Questions"
 description: "Seven original Marlbridge practice questions on electron configurations of atoms and ions, Coulomb's law comparisons and electron removal, with worked solutions and suggested mark points."
 course: "chemistry"
 unit: 1

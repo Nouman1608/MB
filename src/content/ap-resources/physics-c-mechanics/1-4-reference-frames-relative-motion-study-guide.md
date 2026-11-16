@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.4-study-guide"
 title: "Reference Frames and Relative Motion: Study Guide (Physics C: Mechanics 1.4)"
+seoTitle: "Physics C Mechanics 1.4 Frames and Relative Motion Guide"
 description: "Calculus-based relative motion: what a reference frame is, converting position and velocity between inertial frames by vector addition, and why every inertial observer measures the same acceleration."
 course: "physics-c-mechanics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.1-practice"
 title: "Characters who change or remain unchanged: Practice Questions (English Literature 9.1)"
+seoTitle: "English Lit 9.1 Characters Who Change Practice Questions"
 description: "Original Marlbridge practice questions on characters who change or remain unchanged, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 9

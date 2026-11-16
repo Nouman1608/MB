@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.14-revision-notes"
 title: "Setting Up a Chi-Square Test for Homogeneity or Independence: Revision Notes (Statistics 3.14)"
+seoTitle: "Statistics 3.14 Setting Up a Chi-Square Test Notes"
 description: "One-page recap of chi-square distributions, choosing between homogeneity and independence, writing hypotheses and checking conditions, with the mistakes that cost marks."
 course: "statistics"
 unit: 3

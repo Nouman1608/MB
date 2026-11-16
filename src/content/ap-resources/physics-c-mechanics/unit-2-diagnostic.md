@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u2-diagnostic"
 title: "Force and Translational Dynamics: Unit Diagnostic (Physics C: Mechanics Unit 2)"
+seoTitle: "Physics C Mechanics Unit 2 Translational Dynamics Diagnostic"
 description: "A 30-minute check of forces and Newton's laws with calculus: twelve original questions on center of mass, free-body diagrams, gravity, friction, springs, drag and circular motion."
 course: "physics-c-mechanics"
 unit: 2

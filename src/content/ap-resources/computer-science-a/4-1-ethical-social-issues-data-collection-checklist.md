@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.1-checklist"
 title: "Ethical and Social Issues Around Data Collection: Topic Checklist (Computer Science A 4.1)"
+seoTitle: "Computer Science A 4.1 Ethics of Data Collection Checklist"
 description: "Specific I can statements for ethical and social issues around data collection, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 4

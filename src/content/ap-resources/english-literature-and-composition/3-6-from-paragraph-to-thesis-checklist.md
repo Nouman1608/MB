@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.6-checklist"
 title: "From Claim-and-Evidence Paragraph to Defensible Thesis: Topic Checklist (English Literature 3.6)"
+seoTitle: "English Literature 3.6 Defensible Thesis Topic Checklist"
 description: "Specific I can statements for writing a defensible thesis statement about a literary text, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 3

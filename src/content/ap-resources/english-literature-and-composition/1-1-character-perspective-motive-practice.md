@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.1-practice"
 title: "Character: What Details Reveal About Perspective and Motive: Practice Questions (English Literature 1.1)"
+seoTitle: "English Lit 1.1 Character Perspective and Motive Practice"
 description: "Nine original Marlbridge questions on character in short fiction: reading description, dialogue and behaviour for perspective and motive, with answers and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 1

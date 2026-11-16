@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.6-study-guide"
 title: "Thesis and Commentary in a Poetry Analysis: Study Guide (English Literature 5.6)"
+seoTitle: "English Literature 5.6 Poetry Analysis Thesis Study Guide"
 description: "A first-principles guide to how to write a defensible thesis and developed commentary in an essay analysing a poem, using device-to-effect chains, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 5

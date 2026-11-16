@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.4-practice
 title: 'Narrator Perspective and Reliability: Practice Questions (English Literature 6.4)'
+seoTitle: "English Literature 6.4 Narrator Reliability Practice"
 description: Nine original Marlbridge practice questions on narrator perspective, diction, syntax, tone, omission and reliability in longer works, with full answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

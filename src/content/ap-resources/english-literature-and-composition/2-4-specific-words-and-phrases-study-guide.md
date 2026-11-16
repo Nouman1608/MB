@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.4-study-guide"
 title: "The Function of Specific Words and Phrases: Study Guide (English Literature 2.4)"
+seoTitle: "English Literature 2.4 Function of Words and Phrases Guide"
 description: "Learn how particular words and phrases work in a poem: referents and antecedents, ambiguity, repetition and alliteration, with Tennyson's The Eagle and original poems as worked examples."
 course: "english-literature-and-composition"
 unit: 2

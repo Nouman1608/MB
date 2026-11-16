@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.7-study-guide"
 title: "Developing Ideas Through Narration and Cause-Effect: Study Guide (English Language 3.7)"
+seoTitle: "English Language 3.7 Narration and Cause-Effect Study Guide"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.7"]

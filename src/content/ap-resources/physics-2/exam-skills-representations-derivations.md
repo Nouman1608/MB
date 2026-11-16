@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-exam-skills-representations-derivations"
 title: "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics 2)"
+seoTitle: "Physics 2 Derivations and Experiments Exam Skills Guide"
 description: "How to draw field, circuit, ray and PV diagrams that earn credit, derive and check expressions, translate between representations and linearise lab data."
 course: "physics-2"
 unit: 9

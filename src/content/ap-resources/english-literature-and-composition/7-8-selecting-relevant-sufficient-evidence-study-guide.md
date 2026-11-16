@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.8-study-guide
 title: 'Selecting Relevant and Sufficient Evidence: Study Guide (English Literature 7.8)'
+seoTitle: "English Lit 7.8 Selecting Relevant Evidence Study Guide"
 description: 'How to select evidence from a short story that is relevant and sufficient: an evidence audit, tests for relevance and coverage, handling counter-evidence, and revising a claim when the text pushes back.'
 course: english-literature-and-composition
 unit: 7

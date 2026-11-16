@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.5-checklist"
 title: "Compound Boolean Expressions: Topic Checklist (Computer Science A 2.5)"
+seoTitle: "Computer Science A 2.5 Compound Boolean Expression Checklist"
 description: "Specific I can statements for compound Boolean expressions with !, && and ||, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 2

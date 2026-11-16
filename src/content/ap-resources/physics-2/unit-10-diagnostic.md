@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-u10-diagnostic"
 title: "Electric Force, Field, and Potential: Unit Diagnostic (Physics 2 Unit 10)"
+seoTitle: "Physics 2 Unit 10 Electric Force and Field Diagnostic"
 description: "Eleven short original questions across all seven topics to find which electrostatics ideas to revisit: charge and force, charging, fields, potential energy, potential, capacitors and energy."
 course: "physics-2"
 unit: 10

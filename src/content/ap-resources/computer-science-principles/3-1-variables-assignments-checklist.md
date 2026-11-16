@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.1-checklist"
 title: "Variables and Assignments: Topic Checklist (Computer Science Principles 3.1)"
+seoTitle: "CS Principles 3.1 Variables and Assignments Checklist"
 description: "Specific \"I can\" statements for variables and assignment, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

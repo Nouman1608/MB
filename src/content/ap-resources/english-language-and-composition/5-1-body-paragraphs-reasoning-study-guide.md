@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.1-study-guide
 title: 'Body Paragraphs and the Line of Reasoning: Study Guide (English Language 5.1)'
+seoTitle: "English Language 5.1 Body Paragraphs Study Guide"
 description: How body paragraphs make a claim, support it with evidence and use commentary to show how the paragraph advances the thesis, and how a sequence of paragraphs builds a line of reasoning.
 course: english-language-and-composition
 unit: 5

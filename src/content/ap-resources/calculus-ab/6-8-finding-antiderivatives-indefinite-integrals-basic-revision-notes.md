@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.8-revision-notes"
 title: "Antiderivatives and Indefinite Integrals: Basic Rules and Notation: Revision Notes (Calculus AB 6.8)"
+seoTitle: "Calculus AB 6.8 Indefinite Integrals Basic Rules Notes"
 description: "One-page recap of indefinite integrals: the meaning of + C, the table of basic antiderivatives, rewriting before integrating and the errors that cost marks."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.1-study-guide"
 title: "Beneficial and Harmful Effects: Study Guide (Computer Science Principles 5.1)"
+seoTitle: "CS Principles 5.1 Beneficial and Harmful Effects Study Guide"
 description: "How computing innovations can have beneficial, harmful and unintended effects, why the same effect can be viewed differently by different people, and how to analyse an innovation, with two worked examples."
 course: "computer-science-principles"
 unit: 5

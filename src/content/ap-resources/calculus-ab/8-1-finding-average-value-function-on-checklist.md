@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.1-checklist"
 title: "Finding the Average Value of a Function on an Interval: Topic Checklist (Calculus AB 8.1)"
+seoTitle: "Calculus AB 8.1 Average Value of a Function Topic Checklist"
 description: "Specific “I can…” statements for the average value of a function, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8

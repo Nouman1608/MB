@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.6-checklist"
 title: "Comparing Boolean Expressions: Topic Checklist (Computer Science A 2.6)"
+seoTitle: "Computer Science A 2.6 Comparing Booleans Topic Checklist"
 description: "Specific I can statements for equivalent Boolean expressions, De Morgan's laws and comparing object references, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 2

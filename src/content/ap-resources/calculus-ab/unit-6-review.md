@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u6-review"
 title: "Integration and Accumulation of Change: Mixed Unit Review (Calculus AB Unit 6)"
+seoTitle: "Calculus AB Unit 6 Integration and Accumulation Review"
 description: "The big ideas of Integration and Accumulation of Change in one place, a methods summary table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-ab"
 unit: 6

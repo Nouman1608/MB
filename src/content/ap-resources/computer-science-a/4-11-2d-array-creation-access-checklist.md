@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.11-checklist"
 title: "2D Array Creation and Access: Checklist (Computer Science A 4.11)"
+seoTitle: "Computer Science A 4.11 2D Array Creation, Access Checklist"
 description: "A self-check for 2D array creation and access: declaring and initialising, using row and column indices, length of rows and columns, default values, and avoiding index errors."
 course: "computer-science-a"
 unit: 4

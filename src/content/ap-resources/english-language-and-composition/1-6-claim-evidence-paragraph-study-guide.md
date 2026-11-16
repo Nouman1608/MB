@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-1.6-study-guide"
 title: "Writing a Paragraph with a Claim and Evidence: Study Guide (English Language 1.6)"
+seoTitle: "English Language 1.6 Claim and Evidence Paragraph Guide"
 course: "english-language-and-composition"
 unit: 1
 topics: ["1.6"]

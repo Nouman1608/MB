@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-exam-skills-representations-derivations"
 title: "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics C: E&M)"
+seoTitle: "Physics C E&M Representations and Derivations Exam Skills"
 description: "How to draw field, equipotential and circuit diagrams, choose Gaussian surfaces and Amperian loops, set out calculus derivations, check results and linearise lab data."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

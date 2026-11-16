@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.2-checklist"
 title: "Connecting Position, Velocity, and Acceleration Using Integrals: Topic Checklist (Calculus AB 8.2)"
+seoTitle: "Calculus AB 8.2 Motion Using Integrals Topic Checklist"
 description: "Specific “I can…” statements for motion with integrals, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.3-study-guide"
 title: "Accumulation Functions and Definite Integrals in Applied Contexts: Study Guide (Calculus AB 8.3)"
+seoTitle: "Calculus AB 8.3 Definite Integrals in Applied Contexts Guide"
 description: "Learn how integrating a rate gives a net change, how to build an amount function from a starting value and a rate, and how to interpret every integral in context with units."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.1-checklist"
 title: "Introduction to Imperfectly Competitive Markets: Topic Checklist (Microeconomics 4.1)"
+seoTitle: "Microeconomics 4.1 Imperfect Competition Topic Checklist"
 description: "Specific “I can…” statements for imperfectly competitive markets, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 4

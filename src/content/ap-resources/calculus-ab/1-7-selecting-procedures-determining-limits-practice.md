@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.7-practice"
 title: "Selecting Procedures for Determining Limits: Practice Questions (Calculus AB 1.7)"
+seoTitle: "Calculus AB 1.7 Selecting Procedures for Limits Practice"
 description: "Seven original Marlbridge practice questions on choosing a limit method: substitution, one-sided limits, rewriting 0/0 forms and composite functions, with solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

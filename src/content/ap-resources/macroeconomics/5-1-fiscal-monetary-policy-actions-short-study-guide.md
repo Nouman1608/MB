@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.1-study-guide"
 title: "Fiscal and Monetary Policy Actions in the Short Run: Study Guide (Macroeconomics 5.1)"
+seoTitle: "Macroeconomics 5.1 Fiscal and Monetary Policy Study Guide"
 description: "Learn how governments and central banks combine fiscal and monetary policy to close output gaps, and how each mix affects aggregate demand, real output, the price level and interest rates."
 course: "macroeconomics"
 unit: 5

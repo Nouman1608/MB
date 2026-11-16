@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.5-study-guide"
 title: "Finding the Area Between Curves Expressed as Functions of y: Study Guide (Calculus AB 8.5)"
+seoTitle: "Calculus AB 8.5 Area Between Curves as Functions of y Guide"
 description: "Learn when to slice a region into horizontal strips, why the area becomes the integral of right minus left with respect to y, and how to set up and evaluate it."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.3-revision-notes"
 title: "Comparative Advantage and Gains from Trade: Revision Notes (Macroeconomics 1.3)"
+seoTitle: "Macroeconomics 1.3 Comparative Advantage Revision Notes"
 description: "One-page recap of absolute and comparative advantage, opportunity cost from output and input data, terms of trade and gains from trade, with the mistakes that cost marks."
 course: "macroeconomics"
 unit: 1

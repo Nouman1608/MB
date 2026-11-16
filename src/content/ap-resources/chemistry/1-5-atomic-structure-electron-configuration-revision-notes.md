@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.5-revision-notes"
 title: "Atomic Structure and Electron Configuration: Revision Notes (Chemistry 1.5)"
+seoTitle: "Chemistry 1.5 Electron Configuration Revision Notes"
 description: "One-page recap of atomic structure, Coulomb's law, the Aufbau filling order, configurations of atoms and ions, and why some electrons are harder to remove than others."
 course: "chemistry"
 unit: 1

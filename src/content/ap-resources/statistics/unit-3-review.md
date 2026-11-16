@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u3-review"
 title: "Inference for Categorical Data: Proportions: Mixed Unit Review (Statistics Unit 3)"
+seoTitle: "Statistics Unit 3 Inference for Proportions Unit Review"
 description: "Big ideas, a one-table method summary and seven original exam-style questions that each combine two or more Unit 3 topics, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

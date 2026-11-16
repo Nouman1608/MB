@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.12-practice"
 title: "Objects: Instances of Classes: Practice Questions (Computer Science A 1.12)"
+seoTitle: "Computer Science A 1.12 Objects and Classes Practice"
 description: "Nine original Marlbridge practice questions on classes and objects, reference variables, aliasing, the difference from primitive copying, and the Object class."
 course: "computer-science-a"
 unit: 1

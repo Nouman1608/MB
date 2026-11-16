@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.2-checklist"
 title: "Complexity revealed through choices, actions and speech: Topic Checklist (English Literature 9.2)"
+seoTitle: "English Lit 9.2 Complexity Through Choices Topic Checklist"
 description: "Specific \"I can\" statements for complexity revealed through choices, actions and speech, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.3-study-guide"
 title: "Making Choices for a Particular Audience: Study Guide (English Language 8.3)"
+seoTitle: "English Language 8.3 Choices for a Particular Audience Guide"
 description: "How writers analyse an audience's perspectives, context and needs, and then choose evidence, organisation and language to suit it, with strategies for hostile, neutral and supportive readers."
 course: "english-language-and-composition"
 unit: 8

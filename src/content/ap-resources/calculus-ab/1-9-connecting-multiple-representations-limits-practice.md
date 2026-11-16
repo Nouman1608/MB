@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.9-practice"
 title: "Connecting Multiple Representations of Limits: Practice Questions (Calculus AB 1.9)"
+seoTitle: "Calculus AB 1.9 Multiple Representations of Limits Practice"
 description: "Seven original Marlbridge practice questions that mix graphs, tables, piecewise formulas and words in limit problems, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

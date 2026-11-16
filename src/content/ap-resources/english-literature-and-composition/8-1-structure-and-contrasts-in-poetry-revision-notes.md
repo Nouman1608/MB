@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.1-revision-notes"
 title: "Structure and contrasts in poetry: Revision Notes (English Literature 8.1)"
+seoTitle: "English Lit 8.1 Structure and Contrasts in Poetry Notes"
 description: "A one-page recap of structure and contrasts in poetry: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 8

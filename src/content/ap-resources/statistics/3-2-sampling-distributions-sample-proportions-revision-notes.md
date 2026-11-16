@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.2-revision-notes"
 title: "Sampling Distributions for Sample Proportions: Revision Notes (Statistics 3.2)"
+seoTitle: "Statistics 3.2 Sample Proportion Distributions Notes"
 description: "One-page recap of the mean, standard deviation and shape of the sampling distribution of a sample proportion, the three conditions, normal probabilities and the mistakes that cost marks."
 course: "statistics"
 unit: 3

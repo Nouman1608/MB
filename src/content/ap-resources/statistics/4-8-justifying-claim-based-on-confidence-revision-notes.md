@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.8-revision-notes"
 title: "Justifying a Claim With a Confidence Interval for Two Means: Revision Notes (Statistics 4.8)"
+seoTitle: "Statistics 4.8 Justifying a Claim, Two-Mean CI Notes"
 description: "One-page recap of interpreting a confidence interval for μ₁ − μ₂ and its confidence level, and using the interval and the value 0 to justify claims, with the mistakes that cost marks."
 course: "statistics"
 unit: 4

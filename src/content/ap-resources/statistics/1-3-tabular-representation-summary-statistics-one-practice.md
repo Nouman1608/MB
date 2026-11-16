@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.3-practice"
 title: "Tables and Summary Statistics for One Categorical Variable: Practice Questions (Statistics 1.3)"
+seoTitle: "Statistics 1.3 Tables for One Categorical Variable Practice"
 description: "Seven original Marlbridge practice questions on frequency and relative frequency tables, proportions, percentages and ratios, and claims about one categorical variable, with suggested rubrics."
 course: "statistics"
 unit: 1

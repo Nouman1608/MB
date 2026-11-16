@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.2-study-guide"
 title: "Program Function and Purpose: Study Guide (Computer Science Principles 1.2)"
+seoTitle: "CS Principles 1.2 Program Function and Purpose Study Guide"
 description: "The difference between purpose, function and behavior; how to identify inputs, outputs and events; and how to describe a program at two levels, with two worked examples."
 course: "computer-science-principles"
 unit: 1

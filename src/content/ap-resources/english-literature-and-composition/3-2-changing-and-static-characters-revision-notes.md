@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.2-revision-notes"
 title: "Characters Who Change or Remain Unchanged: Revision Notes (English Literature 3.2)"
+seoTitle: "English Lit 3.2 Changing and Unchanged Characters Notes"
 description: "A one-page recap of change and constancy in character: dynamic and static characters, visible and inner change, evidence of change, and why a character's change or stillness matters to the plot."
 course: "english-literature-and-composition"
 unit: 3

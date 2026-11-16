@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.14-checklist"
 title: "Finding Taylor or Maclaurin Series for a Function: Topic Checklist (Calculus BC 10.14)"
+seoTitle: "Calculus BC 10.14 Taylor or Maclaurin Series Checklist"
 description: "Specific “I can…” statements for Taylor and Maclaurin series, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.2-practice"
 title: "Changes in Factor Demand and Factor Supply: Practice Questions (Microeconomics 5.2)"
+seoTitle: "Microeconomics 5.2 Factor Demand and Supply Practice"
 description: "Seven original Marlbridge practice questions on shifts in labour demand and labour supply, changes in MRP, and wage and employment after one or two shifts, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 5

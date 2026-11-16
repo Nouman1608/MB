@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.13-study-guide"
 title: "Object Creation and Storage (Instantiation): Study Guide (Computer Science A 1.13)"
+seoTitle: "Computer Science A 1.13 Object Instantiation Study Guide"
 description: "Learn how an object is created with the keyword new and a constructor, how constructor signatures and overloading select the right constructor, and what a reference variable holds before and after."
 course: "computer-science-a"
 unit: 1

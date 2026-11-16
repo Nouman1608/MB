@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.2-revision-notes"
 title: "Defining the Derivative of a Function and Using Derivative Notation: Revision Notes (Calculus AB 2.2)"
+seoTitle: "Calculus AB 2.2 Defining the Derivative and Notation Notes"
 description: "One-page recap of the derivative function from the limit definition, the notations f′(x), dy/dx and y′, units, and the tangent line equation y − f(a) = f′(a)(x − a)."
 course: "calculus-ab"
 unit: 2

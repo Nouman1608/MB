@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.4-revision-notes"
 title: "Graphical Representations for One Categorical Variable: Revision Notes (Statistics 1.4)"
+seoTitle: "Statistics 1.4 Graphing One Categorical Variable Notes"
 description: "One-page recap of bar charts and pie charts for one categorical variable: slice angles, reading counts back, fair comparisons and the mistakes that cost marks."
 course: "statistics"
 unit: 1

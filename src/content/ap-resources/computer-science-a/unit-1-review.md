@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-u1-review"
 title: "Using Objects and Methods: Mixed Unit Review (Computer Science A Unit 1)"
+seoTitle: "Computer Science A Unit 1 Using Objects and Methods Review"
 description: "Seven original Java review questions that combine Unit 1 topics: variables, expressions, casting, String methods, Math methods and calling methods on objects, with traced solutions and suggested rubrics."
 course: "computer-science-a"
 unit: 1

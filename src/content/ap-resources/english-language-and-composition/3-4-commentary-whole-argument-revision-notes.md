@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.4-revision-notes"
 title: "Commentary Across a Whole Argument: Revision Notes (English Language 3.4)"
+seoTitle: "English Language 3.4 Commentary Across an Argument Notes"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.4"]

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.3-study-guide"
 title: "Boundary Behavior of Waves and Polarization: Study Guide (Physics 2 14.3)"
+seoTitle: "Physics 2 14.3 Wave Boundaries and Polarization Study Guide"
 description: "What happens when a wave reaches a new medium: reflection and transmission, when the reflected pulse flips, why frequency stays fixed, polarization and intensity."
 course: "physics-2"
 unit: 14

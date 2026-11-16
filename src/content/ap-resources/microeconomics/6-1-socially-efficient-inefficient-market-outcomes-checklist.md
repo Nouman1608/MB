@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.1-checklist"
 title: "Socially Efficient and Inefficient Market Outcomes: Topic Checklist (Microeconomics 6.1)"
+seoTitle: "Microeconomics 6.1 Socially Efficient Outcomes Checklist"
 description: "Specific “I can…” statements for social efficiency, sources of market inefficiency and deadweight loss, each linked to the guide section and practice question that shows whether you can do it."
 course: "microeconomics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.4-study-guide"
 title: "Using the First Derivative Test to Determine Relative (Local) Extrema: Study Guide (Calculus AB 5.4)"
+seoTitle: "Calculus AB 5.4 First Derivative Test Study Guide"
 description: "Learn how a change of sign in f′ at a critical point shows a relative maximum or minimum, when the test does not apply, and how to write the justification."
 course: "calculus-ab"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.5-revision-notes"
 title: "Writing a Paragraph With a Claim and Textual Evidence: Revision Notes (English Literature 1.5)"
+seoTitle: "English Literature 1.5 Claim and Evidence Paragraph Notes"
 description: "A one-page recap of the claim-and-evidence paragraph: what makes a claim, how to choose and embed evidence, tense and accuracy, common mistakes and a quick self-check."
 course: "english-literature-and-composition"
 unit: 1

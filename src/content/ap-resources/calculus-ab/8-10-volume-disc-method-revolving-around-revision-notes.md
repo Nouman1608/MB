@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.10-revision-notes"
 title: "Volume with the Disc Method: Revolving Around Other Axes: Revision Notes (Calculus AB 8.10)"
+seoTitle: "Calculus AB 8.10 Disc Method Around Other Axes Notes"
 description: "One-page recap of discs about lines such as y = k and x = h: the radius as a distance from the axis, the choice of dx or dy, and the sign errors that cost marks."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.1-study-guide"
 title: "Introduction to Algorithms, Programming, and Compilers: Study Guide (Computer Science A 1.1)"
+seoTitle: "Computer Science A 1.1 Programming and Compilers Guide"
 description: "Learn what an algorithm is, why order of steps (sequencing) matters, how a Java program is compiled and run, and how to tell syntax, logic and run-time errors apart."
 course: "computer-science-a"
 unit: 1

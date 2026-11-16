@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.1-study-guide"
 title: "Defining Average and Instantaneous Rates of Change at a Point: Study Guide (Calculus AB 2.1)"
+seoTitle: "Calculus AB 2.1 Average and Instantaneous Rates Study Guide"
 description: "Learn the two difference quotients for an average rate of change and how their limit defines the derivative at a point, f′(a), with exact worked examples."
 course: "calculus-ab"
 unit: 2

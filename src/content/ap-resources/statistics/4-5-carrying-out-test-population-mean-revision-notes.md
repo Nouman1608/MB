@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.5-revision-notes"
 title: "Carrying Out a Test for a Population Mean or Population Mean Difference: Revision Notes (Statistics 4.5)"
+seoTitle: "Statistics 4.5 Carrying Out a Test for a Mean Notes"
 description: "One-page recap of the one-sample t-test for a mean or mean difference: test statistic, degrees of freedom, p-value, decision rule and conclusion wording, with the mistakes that cost marks."
 course: "statistics"
 unit: 4

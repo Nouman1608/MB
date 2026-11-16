@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.7-practice"
 title: "Using the Second Derivative Test to Determine Extrema: Practice Questions (Calculus AB 5.7)"
+seoTitle: "Calculus AB 5.7 Second Derivative Test for Extrema Practice"
 description: "Seven original Marlbridge practice questions on classifying critical points with the second derivative test, inconclusive cases and absolute extrema, with suggested rubrics."
 course: "calculus-ab"
 unit: 5

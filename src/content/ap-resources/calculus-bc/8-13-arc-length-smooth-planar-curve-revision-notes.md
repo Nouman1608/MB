@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-8.13-revision-notes"
 title: "The Arc Length of a Smooth, Planar Curve and Distance Traveled: Revision Notes (Calculus BC 8.13)"
+seoTitle: "Calculus BC 8.13 Arc Length and Distance Traveled Notes"
 description: "One-page recap of arc length: where the integral comes from, the dx and dy forms, the smoothness condition, distance traveled along a path, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 8

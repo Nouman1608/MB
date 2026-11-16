@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.1-study-guide"
 title: "Ethical and Social Issues Around Data Collection: Study Guide (Computer Science A 4.1)"
+seoTitle: "Computer Science A 4.1 Ethics of Data Collection Guide"
 description: "Learn the privacy risks of collecting personal data, what algorithmic bias is, how the way data was collected can bias a data set, and why incomplete or inaccurate data breaks programs."
 course: "computer-science-a"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.9-practice"
 title: "Implementing Selection and Iteration Algorithms: Practice Questions (Computer Science A 2.9)"
+seoTitle: "Computer Science A 2.9 Selection and Iteration Practice"
 description: "10 original Marlbridge practice questions on standard algorithms that combine selection and iteration, with full answers, an explanation of every wrong option and a suggested rubric."
 course: "computer-science-a"
 unit: 2

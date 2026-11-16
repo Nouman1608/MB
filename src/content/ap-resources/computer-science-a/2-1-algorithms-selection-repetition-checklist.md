@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.1-checklist"
 title: "Algorithms with Selection and Repetition: Topic Checklist (Computer Science A 2.1)"
+seoTitle: "Computer Science A 2.1 Selection and Repetition Checklist"
 description: "Specific I can statements for algorithms built from sequencing, selection and repetition, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 2

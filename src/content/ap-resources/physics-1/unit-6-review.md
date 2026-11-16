@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-u6-review"
 title: "Energy and Momentum of Rotating Systems: Mixed Unit Review (Physics 1 Unit 6)"
+seoTitle: "Physics 1 Unit 6 Energy of Rotating Systems Review"
 description: "Connect all six rotational energy and angular momentum topics: the big ideas, a one-table summary of key relationships, and seven original exam-style questions that each combine two or more topics."
 course: "physics-1"
 unit: 6

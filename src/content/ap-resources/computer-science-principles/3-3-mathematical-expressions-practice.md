@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.3-practice"
 title: "Mathematical Expressions: Practice Questions (Computer Science Principles 3.3)"
+seoTitle: "CS Principles 3.3 Mathematical Expressions Practice"
 description: "Nine original Marlbridge practice questions on evaluating expressions, order of operations and MOD patterns such as parity, digits and clock wrap, with explanations and a suggested rubric."
 course: "computer-science-principles"
 unit: 3

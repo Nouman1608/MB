@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.5-checklist"
 title: "Using the Candidates Test to Find Absolute Extrema: Topic Checklist (Calculus AB 5.5)"
+seoTitle: "Calculus AB 5.5 Candidates Test Topic Checklist"
 description: "Specific “I can…” statements for absolute extrema on closed intervals, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5

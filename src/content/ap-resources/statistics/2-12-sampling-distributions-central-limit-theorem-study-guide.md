@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.12-study-guide"
 title: "Sampling Distributions and the Central Limit Theorem: Study Guide (Statistics 2.12)"
+seoTitle: "Statistics 2.12 Central Limit Theorem Study Guide"
 description: "Learn what a sampling distribution is, how to simulate one, how randomization distributions work for experiments, and what the central limit theorem says about sample means."
 course: "statistics"
 unit: 2

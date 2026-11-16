@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.5-study-guide"
 title: "Details, diction and syntax that reveal perspective: Study Guide (English Literature 9.5)"
+seoTitle: "English Lit 9.5 Diction and Syntax for Perspective Guide"
 description: "Learn to identify and describe the details, diction and syntax by which a narrator or character reveals perspective in a longer work, including contrasting or changing perspectives and what they imply."
 course: "english-literature-and-composition"
 unit: 9

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.8-study-guide"
 title: "Double-Slit Interference and Diffraction Gratings: Study Guide (Physics 2 14.8)"
+seoTitle: "Physics 2 14.8 Double-Slit and Gratings Study Guide"
 description: "Young's double slit from first principles: path difference d sin θ, bright and dark fringes, fringes inside the single-slit envelope, diffraction gratings and white-light spectra."
 course: "physics-2"
 unit: 14

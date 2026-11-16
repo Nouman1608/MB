@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.2-checklist"
 title: "Synthesis and Acknowledging Sources: Topic Checklist (English Language 3.2)"
+seoTitle: "English Language 3.2 Synthesis and Sources Topic Checklist"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.2"]

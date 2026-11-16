@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.5-checklist"
 title: "Introducing Counterarguments, and When to Address Them: Topic Checklist (English Language 9.5)"
+seoTitle: "English Language 9.5 Introducing Counterarguments Checklist"
 description: "Specific \"I can\" statements for introducing counterarguments with transitions and choosing where to place them, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 9

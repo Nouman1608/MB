@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.2-practice"
 title: "Verifying Solutions for Differential Equations: Practice Questions (Calculus AB 7.2)"
+seoTitle: "Calculus AB 7.2 Verifying Differential Equations Practice"
 description: "Seven original Marlbridge practice questions on checking solutions of first- and second-order differential equations, families of solutions and unknown constants."
 course: "calculus-ab"
 unit: 7

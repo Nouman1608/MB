@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.4-practice"
 title: "Setting Up a Test for a Population Mean or Population Mean Difference: Practice Questions (Statistics 4.4)"
+seoTitle: "Statistics 4.4 Setting Up a Test for a Mean Practice"
 description: "Seven original Marlbridge practice questions on choosing a t-test for a mean or mean difference, defining the parameter, writing hypotheses and checking conditions, with suggested rubrics."
 course: "statistics"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.5-checklist"
 title: "Coordination and Subordination: Topic Checklist (English Language 7.5)"
+seoTitle: "English Language 7.5 Coordination, Subordination Checklist"
 description: "Specific \"I can\" statements for using coordination to show balance and subordination to show imbalance between ideas, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

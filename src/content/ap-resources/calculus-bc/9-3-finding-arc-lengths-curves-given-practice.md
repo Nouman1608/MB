@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.3-practice"
 title: "Finding Arc Lengths of Curves Given by Parametric Equations: Practice Questions (Calculus BC 9.3)"
+seoTitle: "Calculus BC 9.3 Arc Length of Parametric Curves Practice"
 description: "Seven original Marlbridge practice questions on parametric arc length: setting up the integral, exact and calculator lengths, retraced curves, a loop and a context, with rubrics."
 course: "calculus-bc"
 unit: 9

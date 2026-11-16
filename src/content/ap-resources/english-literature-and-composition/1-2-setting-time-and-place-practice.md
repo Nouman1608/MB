@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.2-practice"
 title: "Setting: Details That Convey a Time and Place: Practice Questions (English Literature 1.2)"
+seoTitle: "English Literature 1.2 Setting, Time and Place Practice"
 description: "Eight original Marlbridge questions on setting in short fiction: details of time and place, the values and mood they convey, and how setting shapes character, with answers and a rubric."
 course: "english-literature-and-composition"
 unit: 1

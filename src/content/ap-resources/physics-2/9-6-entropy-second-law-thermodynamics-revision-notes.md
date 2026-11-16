@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.6-revision-notes"
 title: "Entropy and the Second Law of Thermodynamics: Revision Notes (Physics 2 9.6)"
+seoTitle: "Physics 2 9.6 Entropy and Second Law Revision Notes"
 description: "One-page recap of entropy as spreading energy, the second law for isolated systems, entropy as a state function, equilibrium and closed systems."
 course: "physics-2"
 unit: 9

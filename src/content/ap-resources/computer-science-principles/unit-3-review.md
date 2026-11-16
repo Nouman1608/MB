@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u3-review"
 title: "Algorithms and Programming: Mixed Unit Review (Computer Science Principles Unit 3)"
+seoTitle: "CS Principles Unit 3 Algorithms and Programming Review"
 description: "Big ideas, a method table and seven original exam-style questions that each combine two or more Unit 3 topics, with worked solutions and suggested rubrics."
 course: "computer-science-principles"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.3-practice"
 title: "Reaction Quotient and Equilibrium Constant: Practice Questions (Chemistry 7.3)"
+seoTitle: "Chemistry 7.3 Reaction Quotient and Equilibrium K Practice"
 description: "Seven original Marlbridge practice questions on writing Q and K, leaving out solids and liquids, calculating Q and graphing Q against time, with worked solutions."
 course: "chemistry"
 unit: 7

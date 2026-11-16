@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.6-revision-notes"
 title: "Writing a Paragraph About a Poem: Revision Notes (English Literature 2.6)"
+seoTitle: "English Lit 2.6 Writing a Paragraph About a Poem Notes"
 description: "A one-page recap of writing about a poem: the claim, quoted lines, device-to-effect chains, how to quote verse, common mistakes and a quick self-check."
 course: "english-literature-and-composition"
 unit: 2

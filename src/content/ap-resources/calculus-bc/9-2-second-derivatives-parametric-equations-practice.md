@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.2-practice"
 title: "Second Derivatives of Parametric Equations: Practice Questions (Calculus BC 9.2)"
+seoTitle: "Calculus BC 9.2 Parametric Second Derivatives Practice"
 description: "Seven original Marlbridge practice questions on d²y/dx² for parametric curves: evaluating it, concavity, the sign of dx/dt and tangent-line estimates, with rubrics."
 course: "calculus-bc"
 unit: 9

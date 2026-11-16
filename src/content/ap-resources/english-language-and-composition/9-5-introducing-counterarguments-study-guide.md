@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.5-study-guide"
 title: "Introducing Counterarguments, and When to Address Them: Study Guide (English Language 9.5)"
+seoTitle: "English Language 9.5 Introducing Counterarguments Guide"
 description: "How transitions introduce counterarguments, where in an argument to place them, how to decide whether to address one at all, and how to read arguments that leave counterarguments implicit."
 course: "english-language-and-composition"
 unit: 9

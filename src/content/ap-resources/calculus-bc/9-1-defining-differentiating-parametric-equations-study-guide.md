@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.1-study-guide"
 title: "Defining and Differentiating Parametric Equations: Study Guide (Calculus BC 9.1)"
+seoTitle: "Calculus BC 9.1 Differentiating Parametric Equations Guide"
 description: "What a parametric curve is, how to find dy/dx from dx/dt and dy/dt, and how to use it for tangent lines, horizontal and vertical tangents, and a path in context."
 course: "calculus-bc"
 unit: 9

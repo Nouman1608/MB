@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.6-checklist"
 title: "Thesis and commentary in a poetry essay: Topic Checklist (English Literature 8.6)"
+seoTitle: "English Lit 8.6 Poetry Essay Thesis and Commentary Checklist"
 description: "Specific \"I can\" statements for thesis and commentary in a poetry essay, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 8

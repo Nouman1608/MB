@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.7-practice"
 title: "Particular Solutions from Initial Conditions and Separation of Variables: Practice Questions (Calculus AB 7.7)"
+seoTitle: "Calculus AB 7.7 Particular Solutions Practice Questions"
 description: "Seven original Marlbridge practice questions on particular solutions: initial conditions, signs, domains and the integral form, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 7

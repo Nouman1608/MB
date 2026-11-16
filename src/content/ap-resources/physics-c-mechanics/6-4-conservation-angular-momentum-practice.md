@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.4-practice"
 title: "Conservation of Angular Momentum: Practice Questions (Physics C: Mechanics 6.4)"
+seoTitle: "Physics C Mechanics 6.4 Conserving Angular Momentum Practice"
 description: "Seven original Marlbridge calculus-based practice questions on conservation of angular momentum: system choice, pivot collisions, shape changes, changing inertia and platform data."
 course: "physics-c-mechanics"
 unit: 6

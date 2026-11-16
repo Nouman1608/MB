@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.3-checklist"
 title: "Profit-Maximising Behaviour in Perfectly Competitive Factor Markets: Topic Checklist (Microeconomics 5.3)"
+seoTitle: "Microeconomics 5.3 Competitive Factor Markets Checklist"
 description: "Specific “I can…” statements for hiring in perfectly competitive factor markets, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 5

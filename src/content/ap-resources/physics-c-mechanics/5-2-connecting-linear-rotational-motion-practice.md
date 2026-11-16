@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.2-practice"
 title: "Connecting Linear and Rotational Motion: Practice Questions (Physics C: Mechanics 5.2)"
+seoTitle: "Physics C Mechanics 5.2 Linear & Rotational Motion Practice"
 description: "Seven original Marlbridge calculus-based practice questions on s = rθ, v = rω, a_T = rα, centripetal acceleration, strings that unwind without slipping, graphs and derivations."
 course: "physics-c-mechanics"
 unit: 5

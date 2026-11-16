@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.5-study-guide"
 title: "Approximating Solutions Using Euler’s Method: Study Guide (Calculus BC 7.5)"
+seoTitle: "Calculus BC 7.5 Euler's Method Approximations Study Guide"
 description: "Build Euler’s method from tangent lines, run it in a clear table, see how step size changes accuracy, and use concavity to decide whether an estimate is too high or too low."
 course: "calculus-bc"
 unit: 7

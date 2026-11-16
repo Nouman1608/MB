@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.3-revision-notes"
 title: "Angular Momentum and Angular Impulse: Revision Notes (Physics C: Mechanics 6.3)"
+seoTitle: "Physics C Mechanics 6.3 Angular Momentum and Impulse Notes"
 description: "One-page calculus recap of angular momentum and angular impulse: L = Iω, L = r × p about a chosen point, ∫τ dt as a signed area, and τ_net = dL/dt."
 course: "physics-c-mechanics"
 unit: 6

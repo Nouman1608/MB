@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.5-practice"
 title: "Carrying Out a Test for a Population Mean or Population Mean Difference: Practice Questions (Statistics 4.5)"
+seoTitle: "Statistics 4.5 Carrying Out a Test for a Mean Practice"
 description: "Seven original Marlbridge practice questions on t test statistics, p-values, their interpretation and conclusions for a mean or matched-pairs mean difference, with worked solutions and rubrics."
 course: "statistics"
 unit: 4

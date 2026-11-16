@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.2-checklist"
 title: "Setting: Details That Convey a Time and Place: Topic Checklist (English Literature 1.2)"
+seoTitle: "English Literature 1.2 Setting, Time and Place Checklist"
 description: "Specific I can statements for reading setting in short fiction, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 1

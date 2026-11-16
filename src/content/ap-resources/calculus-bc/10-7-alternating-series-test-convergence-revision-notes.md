@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.7-revision-notes"
 title: "Alternating Series Test for Convergence: Revision Notes (Calculus BC 10.7)"
+seoTitle: "Calculus BC 10.7 Alternating Series Test Revision Notes"
 description: "One-page recap of the alternating series test: spotting alternating series, the two conditions, showing terms decrease, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 10

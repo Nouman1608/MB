@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.5-checklist"
 title: "Implementing Array Algorithms: Topic Checklist (Computer Science A 4.5)"
+seoTitle: "Computer Science A 4.5 Array Algorithms Topic Checklist"
 description: "Specific I can statements for implementing array algorithms in Java, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 4

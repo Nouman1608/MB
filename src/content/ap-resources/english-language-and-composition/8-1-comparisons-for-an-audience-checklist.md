@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.1-checklist"
 title: "Comparisons that Relate to an Audience: Topic Checklist (English Language 8.1)"
+seoTitle: "English Language 8.1 Comparisons for an Audience Checklist"
 description: "Specific \"I can\" statements for similes, metaphors, analogies and anecdotes that relate an argument to an audience's own experience, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 8

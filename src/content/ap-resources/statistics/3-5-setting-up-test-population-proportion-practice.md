@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.5-practice"
 title: "Setting Up a Test for a Population Proportion: Practice Questions (Statistics 3.5)"
+seoTitle: "Statistics 3.5 Setting Up a Test for a Proportion Practice"
 description: "Seven original Marlbridge practice questions on defining the parameter, writing hypotheses and checking conditions for a one-sample z-test for a proportion, with suggested rubrics."
 course: "statistics"
 unit: 3
