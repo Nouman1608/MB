@@ -47,6 +47,8 @@ export const DECK_AQA_A_LEVEL_LAW: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'law',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'aizaz-raoof-ali', reviewedOn: '2026-11-16' },
   syllabusCode: '7162',
   syllabusSeries: 'For teaching from September 2017 onwards, A-level exams 2019 onwards',
   author: 'marlbridge-academic-team',

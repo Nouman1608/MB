@@ -38,6 +38,8 @@ export const DECK_IB_IB_DP_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'computer-science',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: 'DP Computer Science (2014) / DP Computer Science (2027)',
   syllabusSeries: 'First assessment 2027',
   author: 'marlbridge-academic-team',

@@ -41,6 +41,8 @@ export const DECK_CAMBRIDGE_IGCSE_PAKISTAN_STUDIES: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'pakistan-studies',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '0448',
   syllabusSeries: '2026',
   author: 'marlbridge-academic-team',

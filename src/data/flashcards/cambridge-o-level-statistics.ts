@@ -58,6 +58,8 @@ export const DECK_CAMBRIDGE_O_LEVEL_STATISTICS: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'o-level',
   subjectSlug: 'statistics',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
   syllabusCode: '4040',
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',

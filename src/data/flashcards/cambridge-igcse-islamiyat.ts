@@ -38,6 +38,8 @@ export const DECK_CAMBRIDGE_IGCSE_ISLAMIYAT: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'islamiyat',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '0493',
   syllabusSeries: '2026-2027',
   author: 'marlbridge-academic-team',

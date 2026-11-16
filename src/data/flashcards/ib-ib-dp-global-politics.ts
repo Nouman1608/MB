@@ -37,6 +37,8 @@ export const DECK_IB_IB_DP_GLOBAL_POLITICS: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'global-politics',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: 'DP Global Politics',
   syllabusSeries: 'First assessment 2026',
   author: 'marlbridge-academic-team',

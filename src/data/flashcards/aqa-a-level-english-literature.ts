@@ -36,6 +36,8 @@ export const DECK_AQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'english-literature',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '7712 / 7717',
   syllabusSeries: 'English Literature B, for first teaching 2025 (AS 7716; code matches this site\'s overview record)',
   author: 'marlbridge-academic-team',

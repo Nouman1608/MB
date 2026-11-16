@@ -49,6 +49,8 @@ export const DECK_OXFORDAQA_IGCSE_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
   subjectSlug: 'computer-science',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: '9210',
   syllabusSeries: 'For teaching from September 2017, exams from May/June 2019',
   author: 'marlbridge-academic-team',

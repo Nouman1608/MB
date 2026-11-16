@@ -44,6 +44,8 @@ export const DECK_CAMBRIDGE_A_LEVEL_SOCIOLOGY: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'a-level',
   subjectSlug: 'sociology',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'naqiya-yousaf', reviewedOn: '2026-11-16' },
   syllabusCode: '9699',
   syllabusSeries: '2024-2026',
   author: 'marlbridge-academic-team',

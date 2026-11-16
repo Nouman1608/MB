@@ -52,6 +52,8 @@ export const DECK_AQA_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'psychology',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-16' },
   syllabusCode: '7182',
   syllabusSeries: 'Version 1.4 (1 September 2025), for teaching from September 2025',
   author: 'marlbridge-academic-team',

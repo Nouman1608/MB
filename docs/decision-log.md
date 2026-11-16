@@ -16244,3 +16244,17 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Elsewhere.** The resource tutoring prompt maps the Riyadh, Kuwait and Bahrain time zones to `/gulf/` (WhatsApp still first); the international tutoring list, country guides, market data and `llms.txt` drop the three entries. Pricing rows are unchanged.
 - **Not changed.** The UAE, Qatar and Oman pages.
 - **Flashcards (D-482 follow-up).** Owner chose to keep the board's topic wording in full for the 307 long flashcard titles; `fitLongTopic` records that.
+## D-484 - SL figures deferred; no translation of study materials; diagnostics, flashcard decks and the last articles marked reviewed; topic-image list (16 Nov 2026)
+
+- Owner, 16 Nov 2026: "defer OQ-2 and make it live / no need to translate the study materials / mark all as reviewed / tell me exactly which topic images are left".
+- **OQ-2 deferred.** IB DP Biology and Chemistry keep HL-only assessment records. The FAQ and table keep saying SL figures are not listed (D-448). No SL figure was added.
+- **Translation.** Study materials stay English-only. OL-1 (native-speaker check of the six translated policy pointer sentences, D-448) is closed on the owner's word, and those sentences stay as written.
+- **"Mark all as reviewed".** Every study resource (8,641) and AP page (3,270) was already `reviewed` by D-477. The items still unreviewed were credited here on the owner's word, each to the teacher already accountable for that course on its resource pages, dated 2026-11-16 (the date of the owner's confirmation, not of a separate review record):
+  - 3 articles (`choosing-subjects-at-igcse-and-a-level`, `how-to-revise-for-a-science-examination`, `understanding-mark-schemes-and-examiner-reports`) are `reviewed`, with Nouman Ahmed as reviewer. That follows the 11 of 12 existing article credits.
+  - All 31 diagnostic sets have a `setReview`. Each teacher's profile role names the set's subject (validate-diagnostics).
+  - The remaining 70 of 166 flashcard decks have a `deckReview`; all 166 now do. Each teacher's profile covers the deck's board and subject (validate-flashcards).
+  - `validate-flashcards` now maps a deck's subject through `subjects.ts` `hubId` (english-language → english), the same mapping rule [10] uses for pages. That lets the 7 English Language decks go to Ammar Bilal, who is credited on all 100 English Language resources.
+  - AP flashcard decks have no review field and show no review line, so nothing was marked there.
+  - No `teacher-verifications.json` record was added (0 records): those need per-resource evidence (D-448), and an owner statement is not that.
+  - OT-4 is closed as superseded by D-477. The other teacher tasks (OT-1, 2, 3, 5, 6, 7) are work items, not review statuses, and stay open.
+- **Topic images.** New `scripts/report-topic-images-needed.mjs` writes `docs/reports/topic-images/topic-images-needed.{md,csv}`. It lists 284 topic lessons in 34 courses and 46 AP study guides with no figure, plus 18 optional course-overview pages and 669 revision notes, which normally reuse their lesson's figures.

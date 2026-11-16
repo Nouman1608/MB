@@ -63,6 +63,8 @@ export const DECK_AQA_GCSE_SOCIOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'gcse',
   subjectSlug: 'sociology',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'naqiya-yousaf', reviewedOn: '2026-11-16' },
   syllabusCode: '8192',
   syllabusSeries: 'first teaching 2017',
   author: 'marlbridge-academic-team',

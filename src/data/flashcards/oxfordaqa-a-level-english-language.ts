@@ -46,6 +46,8 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'english-language',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '9670',
   syllabusSeries: 'Version 5.2, for International AS exams from May/June 2018, A-level from May/June 2019',
   author: 'marlbridge-academic-team',

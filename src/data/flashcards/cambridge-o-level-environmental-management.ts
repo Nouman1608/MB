@@ -45,6 +45,8 @@ export const DECK_CAMBRIDGE_O_LEVEL_ENVIRONMENTAL_MANAGEMENT: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'o-level',
   subjectSlug: 'environmental-management',
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '5014',
   syllabusSeries: '2027-2029',
   author: 'marlbridge-academic-team',
