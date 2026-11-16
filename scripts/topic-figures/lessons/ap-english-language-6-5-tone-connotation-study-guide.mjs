@@ -214,7 +214,7 @@ fig('02-naming-tone-precisely', 'Name the tone precisely', 'Replace vague labels
   });
   y += 6;
   s += box(30, y, 840, { body: 'Two linked words often do better: **“wry but affectionate”**, **“urgent yet hopeful”**, **“scornful and controlled”**.', size: 16, align: 'middle', fill: C.cream, edge: C.olive }).s;
-  y += 76;
+  y += 90;
   const st = ['1  impression', '2  pick 2–3 words', '3  connotations', '4  name the tone', '5  link to purpose'];
   st.forEach((t2, i) => {
     const x = 30 + i * 172;
