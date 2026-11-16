@@ -192,7 +192,7 @@ function cardRow(y, cards, o = {}) {
     [-80, -27, 27, 80].map((dx) => arrow(x + 134 + dx * 0.3, 280, x + 134 + dx, 330, { w: 2.5 }) + `<rect x="${x + 134 + dx - 22}" y="334" width="44" height="30" rx="6" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="2"/>`).join('') + label(x + 134, 384, 'different tests', { size: 15, anchor: 'middle', fill: C.muted });
   // Gardner: several separate circles
   const names = ['linguistic', 'logical-mathematical', 'musical', 'spatial'];
-  const gdA = (x) => names.map((n, i) => { const yy = 200 + i * 46; return `<rect x="${x + 34}" y="${yy}" width="200" height="36" rx="18" fill="${i === 0 || i === 1 ? C.teal : C.cream}" stroke="${C.ink}" stroke-width="2"/>` + label(x + 134, yy + 24, n, { size: 15, anchor: 'middle', weight: 600 }); }).join('') + label(x + 134, 384, 'schools reward only some', { size: 15, anchor: 'middle', fill: C.muted });
+  const gdA = (x) => names.map((n, i) => { const yy = 188 + i * 44; return `<rect x="${x + 34}" y="${yy}" width="200" height="34" rx="17" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="2"/>` + label(x + 134, yy + 23, n, { size: 15, anchor: 'middle', weight: 600 }); }).join('') + label(x + 134, 384, 'schools reward only some', { size: 15, anchor: 'middle', fill: C.muted });
   // Sternberg: triangle
   const stA = (x) => { const cx = x + 134; return `<path d="M${cx},205 L${cx + 95},355 L${cx - 95},355 Z" fill="${C.tealLight}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>` +
     label(cx, 198, 'analytical', { size: 15, anchor: 'middle', weight: 700 }) + label(cx - 95, 376, 'creative', { size: 15, anchor: 'middle', weight: 700 }) + label(cx + 95, 376, 'practical', { size: 15, anchor: 'middle', weight: 700 }); };

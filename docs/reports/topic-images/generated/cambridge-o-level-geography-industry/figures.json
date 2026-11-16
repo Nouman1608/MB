@@ -11,11 +11,11 @@
  {
   "file": "cambridge-o-level-geography-industry--02-types-of-industry.webp",
   "width": 900,
-  "height": 640,
+  "height": 575,
   "after": "## Four types of industry",
   "alt": "Manufacturing, making goods from materials, is drawn as the broad category containing three kinds: processing (refining oil, smelting ore, milling grain, refining sugar), assembly (cars, televisions, phones from parts made elsewhere, needing supply chains and transport) and high technology (microchips, software, pharmaceuticals, aerospace, needing skilled workers and universities).",
   "caption": "Manufacturing is the umbrella; processing, assembly and high tech sit inside it.",
-  "bytes": 96700
+  "bytes": 95358
  },
  {
   "file": "cambridge-o-level-geography-industry--03-location-factors.webp",
@@ -24,7 +24,7 @@
   "after": "## How each location factor works",
   "alt": "Seven location factors around a factory: land (flat, cheap, room to expand; greenfield or brownfield), labour (low-cost or highly skilled), raw materials (heavy, weight-losing inputs near the source), fuel and power (the national grid makes most industry footloose; smelters seek cheap HEP), transport (ports, motorways, rail, airports), markets (bulky, fragile or perishable goods near customers) and political factors (grants, tax breaks, export processing zones). Agglomeration draws firms to existing clusters.",
   "caption": "Each industry weighs the seven factors differently.",
-  "bytes": 108346
+  "bytes": 104576
  },
  {
   "file": "cambridge-o-level-geography-industry--04-choosing-a-site.webp",
@@ -33,15 +33,15 @@
   "after": "## Worked example 1: choosing a site",
   "alt": "A schematic plan with cane fields, a port on the coast and an inland city. Site A is 5 km from the fields and 120 km from the port; site B is 90 km from the fields and 10 km from the port; site C is 150 km from both with expensive land. Steps: identify the key factor (bulky, perishable, weight-losing cane), apply it to the data (A is nearest the fields and cheapest), and reject the alternatives.",
   "caption": "Find the key factor for this industry, apply it to the data, reject the rest.",
-  "bytes": 102574
+  "bytes": 103236
  },
  {
   "file": "cambridge-o-level-geography-industry--05-silicon-valley.webp",
   "width": 900,
-  "height": 690,
+  "height": 750,
   "after": "## Worked example 2: an industrial zone case study — Silicon Valley, California",
   "alt": "A schematic plan of the southern San Francisco Bay showing Palo Alto (Stanford University, Hewlett-Packard 1939), Mountain View (Google), Cupertino (Apple), Santa Clara (Intel), San Jose and San Francisco with airports. Reasons for the location: labour and research, venture capital, agglomeration, transport and a pleasant climate. Problems: very high housing costs, traffic congestion and inequality.",
   "caption": "A high-tech cluster grows from skilled people, capital and agglomeration.",
-  "bytes": 106354
+  "bytes": 108200
  }
 ]
