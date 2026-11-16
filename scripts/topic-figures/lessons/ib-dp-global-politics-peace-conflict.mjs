@@ -259,12 +259,12 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 
 // 06 Legitimacy shapes responses
 {
-  let b = box(30, 115, 410, 160, { title: 'Conflict A', body: 'force widely seen as defensive or authorised by an international body\nlegitimacy broadly recognised', fill: '#eaf3f1', edge: C.tealDark, tsize: 21, valign: 'top' });
-  b += box(460, 115, 410, 160, { title: 'Conflict B', body: 'force widely seen as unprovoked aggression or lacking authorisation\nlegitimacy broadly denied', fill: '#fbeee6', edge: C.rust, tsize: 21, valign: 'top' });
+  let b = box(30, 115, 390, 160, { title: 'Conflict A', body: 'force widely seen as defensive or authorised by an international body\nlegitimacy broadly recognised', fill: '#eaf3f1', edge: C.tealDark, tsize: 21, valign: 'top' });
+  b += box(480, 115, 390, 160, { title: 'Conflict B', body: 'force widely seen as unprovoked aggression or lacking authorisation\nlegitimacy broadly denied', fill: '#fbeee6', edge: C.rust, tsize: 21, valign: 'top' });
   b += tx(450, 205, '≈', { size: 30, weight: 700, anchor: 'middle' }) + tx(450, 305, 'militarily similar', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
-  b += arrow(235, 280, 235, 330, { color: C.tealDark, marker: 'ahT' }) + arrow(665, 280, 665, 330, { color: C.rust, marker: 'ahR' });
-  b += box(30, 335, 410, 100, { title: 'More measured or supportive responses', fill: C.panel, edge: C.tealDark, align: 'middle', tsize: 18 });
-  b += box(460, 335, 410, 100, { title: 'Condemnation, sanctions or intervention', fill: C.panel, edge: C.rust, align: 'middle', tsize: 18 });
+  b += arrow(225, 280, 225, 330, { color: C.tealDark, marker: 'ahT' }) + arrow(675, 280, 675, 330, { color: C.rust, marker: 'ahR' });
+  b += box(30, 335, 390, 100, { title: 'More measured or supportive responses', fill: C.panel, edge: C.tealDark, align: 'middle', tsize: 18 });
+  b += box(480, 335, 390, 100, { title: 'Condemnation, sanctions or intervention', fill: C.panel, edge: C.rust, align: 'middle', tsize: 18 });
   const n = note(30, 460, 840, 'Legitimacy is partly perception and recognition by other actors, not the scale or intensity of the fighting.', { size: 17 });
   fig('06-legitimacy-responses', 'Why similar conflicts get different responses', b + n.s, 460 + n.h + 30,
     'Two militarily similar conflicts. In A, force is seen as defensive or authorised, legitimacy is recognised, and responses are measured or supportive. In B, force is seen as unprovoked or unauthorised, legitimacy is denied, and responses include condemnation, sanctions or intervention.',

@@ -107,16 +107,15 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
 {
   const y = 112;
   let b = R(30, y, 840, 330, '#e6eef0', C.panelEdge) + T(450, y + 28, 'schematic: arrows show general direction only, not a map', { size: 15, fill: C.muted, anchor: 'middle', italic: true });
-  b += R(350, y + 120, 200, 110, C.mustard, C.ink, { rx: 16 }) + T(450, y + 182, 'Pakistan', { size: 22, weight: 700, anchor: 'middle' });
-  b += arrow(150, y + 300, 342, y + 210, { w: 9, color: C.tealDark, marker: 'ahT' });
-  b += T(60, y + 250, 'MONSOON', { size: 19, weight: 700, fill: C.tealDark }) + T(60, y + 272, 'from the south-west', { size: 16, fill: C.tealDark });
-  b += arrow(110, y + 80, 342, y + 140, { w: 9, color: C.blue, marker: 'ah' }).replace(`stroke="${C.ink}"`, `stroke="${C.blue}"`);
-  b += T(60, y + 60, 'WESTERN DISTURBANCES', { size: 19, weight: 700, fill: C.blue }) + T(60, y + 82, 'from the Mediterranean and Caspian regions', { size: 16, fill: C.blue }).replace(`y="${y + 82}"`, `y="${y + 104}"`);
+  b += R(560, y + 120, 200, 110, C.mustard, C.ink, { rx: 16 }) + T(660, y + 182, 'Pakistan', { size: 22, weight: 700, anchor: 'middle' });
+  b += arrow(330, y + 290, 552, y + 210, { w: 9, color: C.tealDark, marker: 'ahT' });
+  b += T(60, y + 270, 'MONSOON', { size: 19, weight: 700, fill: C.tealDark }) + T(60, y + 292, 'summer, from the south-west', { size: 16, fill: C.tealDark });
+  b += `<line x1="330" y1="${y + 110}" x2="548" y2="${y + 150}" stroke="${C.blue}" stroke-width="9" marker-end="url(#ah)"/>`;
+  b += T(60, y + 80, 'WESTERN DISTURBANCES', { size: 19, weight: 700, fill: C.blue }) + T(60, y + 102, 'winter, from the Mediterranean', { size: 16, fill: C.blue }) + T(60, y + 122, 'and Caspian regions', { size: 16, fill: C.blue });
   const g = grid(30, y + 350, [{ label: '', w: 200 }, { label: 'Monsoon', w: 320 }, { label: 'Western disturbances', w: 320 }], [
     ['Season', 'Summer', 'Winter'],
     ['Comes from', 'The south-west', 'The Mediterranean and Caspian regions'],
-    ['Brings', 'The bulk of summer rainfall', 'Rain and snow'],
-    ['Main area affected', '—', 'Northern and western Pakistan'],
+    ['Brings', 'The bulk of summer rainfall', 'Rain and snow to northern and western Pakistan'],
   ], { size: 16 });
   const n = note(30, y + 350 + g.h + 20, 840, 'Common mistake: treating them as one system, or calling all of Pakistan’s rainfall monsoon-driven.');
   add('02-monsoon-western-disturbances',

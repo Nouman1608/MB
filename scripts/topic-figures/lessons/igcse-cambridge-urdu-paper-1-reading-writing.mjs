@@ -150,12 +150,12 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   const st = [['Ex. 1-3', 'Reading of increasing depth', 'gist → matching → detailed notes', C.tealLight, C.tealDark], ['Ex. 4', 'Summary', 'own words, not copying: practise paraphrase as its own skill', C.cream, C.mustard], ['Ex. 5-6', 'Purpose-driven writing', '24 of 60 marks: purpose, format and audience must show', C.teal, C.tealDark]];
   st.forEach(([k, h, d, f, e], i) => {
     const x = 30 + i * 290;
-    b += card(x, 120 + (2 - i) * 0, 260, 200, h, [d], { kicker: k, fill: f, edge: e, size: 16 });
-    if (i < 2) b += harrow(x + 262, x + 288, 220);
+    b += card(x, 120, 260, 182, h, [d], { kicker: k, fill: f, edge: e, size: 16 });
+    if (i < 2) b += harrow(x + 262, x + 288, 205);
   });
-  b += panel(30, 344, 840, 92) + T(54, 380, 'Practise each skill on its own first,', { size: 18, weight: 700 }) + T(54, 410, 'then combine them under timed exam conditions.', { size: 17, fill: C.muted });
+  b += panel(30, 326, 840, 92) + T(54, 362, 'Practise each skill on its own first,', { size: 18, weight: 700 }) + T(54, 392, 'then combine them under timed exam conditions.', { size: 17, fill: C.muted });
   add('03-progression',
-    SV(464, 'From reading to writing across the paper', b),
+    SV(446, 'From reading to writing across the paper', b),
     'Exercises 1 to 3 build reading from gist to detailed note-making; Exercise 4 bridges to writing with a summary in your own words; Exercises 5 and 6 are purpose-driven writing worth 24 of the 60 marks.',
     'Reading deepens, the summary bridges, and writing carries the most marks.',
     '## How to approach it');
@@ -200,14 +200,14 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
 {
   let b = '';
   b += panel(30, 110, 840, 100, C.tealLight, C.tealDark) + T(54, 146, 'Question: Why did the writer decide to leave the village?', { size: 18, weight: 700 }) + T(54, 178, 'The passage: he found no work, and his children\'s school had closed.', { size: 16, fill: C.muted });
-  b += card(30, 230, 410, 190, 'Weak answer', ['Copies the two sentences verbatim.', 'Shows where the answer is, not understanding.'], { fill: '#fbf1ea', edge: C.rust, tfill: C.rust, size: 16, gap: 10 });
-  b += card(460, 230, 410, 190, 'Strong answer', ['Gives the reason in your own Urdu: economic necessity (no employment) combined with concern for the children\'s education.'], { fill: C.tealLight, edge: C.tealDark, tfill: C.tealDark, size: 16 });
-  b += T(450, 470, 'Then check', { size: 19, weight: 700, anchor: 'middle' });
+  b += card(30, 230, 410, 150, 'Weak answer', ['Copies the two sentences verbatim.', 'Shows where the answer is, not understanding.'], { fill: '#fbf1ea', edge: C.rust, tfill: C.rust, size: 16, gap: 10 });
+  b += card(460, 230, 410, 150, 'Strong answer', ['Gives the reason in your own Urdu: economic necessity (no employment) combined with concern for the children\'s education.'], { fill: C.tealLight, edge: C.tealDark, tfill: C.tealDark, size: 16 });
+  b += T(450, 430, 'Then check', { size: 19, weight: 700, anchor: 'middle' });
   ['Does it answer WHY, not WHAT?', 'Is it in your own words?', 'Is the length right for the marks?'].forEach((c, i) => {
-    b += `<rect x="${30 + i * 286}" y="490" width="268" height="70" rx="12" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>` + T(164 + i * 286, 531, c, { size: 16, weight: 600, anchor: 'middle' });
+    b += `<rect x="${30 + i * 286}" y="450" width="268" height="70" rx="12" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>` + T(164 + i * 286, 491, c, { size: 15, weight: 600, anchor: 'middle' });
   });
   add('06-worked-example',
-    SV(588, 'Worked example: answering a "why" question', b),
+    SV(548, 'Worked example: answering a "why" question', b),
     'A why question about leaving the village. The weak answer copies two sentences; the strong answer explains economic necessity and concern for the children\'s education in the candidate\'s own Urdu, then checks reason, wording and length.',
     'Explain the reason in your own words; do not copy the lines that contain it.',
     '## Worked example');
