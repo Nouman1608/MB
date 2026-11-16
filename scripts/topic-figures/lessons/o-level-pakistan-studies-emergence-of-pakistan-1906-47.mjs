@@ -80,7 +80,7 @@ const tbox = (x, y, w, head, body, { fill = '#ffffff', edge = C.panelEdge, size 
   let b = panel(30, 110, 840, 110, C.tealLight, C.tealDark) + t(60, 152, 'Section A', { size: 23, weight: 700 }) + t(220, 152, 'compulsory', { size: 18, weight: 700, fill: C.tealDark }) +
     t(60, 186, 'Source-based question: use and interpret the source alongside your own knowledge.', { size: 17, fill: C.muted });
   b += panel(30, 240, 840, 350) + t(60, 282, 'Section B', { size: 23, weight: 700 }) + t(220, 282, 'answer 2 of 4 questions', { size: 18, weight: 700, fill: C.olive });
-  const parts = [['4', 'marks', 'Knowledge', '', C.cream, 110], ['7', 'marks', 'Explanation', '', C.tealLight, 170], ['14', 'marks', 'Evaluation essay', '', C.teal, 240]];
+  const parts = [['4', 'marks', 'Knowledge', '', C.cream, 124], ['7', 'marks', 'Explanation', '', C.tealLight, 170], ['14', 'marks', 'Evaluation essay', '', C.teal, 240]];
   let x = 60;
   parts.forEach(([n, m, h, s, f, hgt]) => {
     const w = 240, base = 560;
@@ -92,7 +92,7 @@ const tbox = (x, y, w, head, body, { fill = '#ffffff', edge = C.panelEdge, size 
   const steps = ['Factor named in the question', 'Second factor', 'Third factor', 'Reasoned judgement'];
   steps.forEach((s, i) => {
     const bx = 60 + i * 200, w = 170;
-    b += rect(bx, 670, w, 80, i === 3 ? C.mustard : '#ffffff', C.ink, 2.5, 10) + tl(bx + w / 2, 702, wrap(s, 17, w - 20), { size: 17, weight: 700, anchor: 'middle' }, 22);
+    b += rect(bx, 670, w, 80, i === 3 ? C.mustard : '#ffffff', C.ink, 2.5, 10) + tl(bx + w / 2, 716 - (wrap(s, 17, w - 20).length - 1) * 11, wrap(s, 17, w - 20), { size: 17, weight: 700, anchor: 'middle' }, 22);
     if (i < 3) b += arrow(bx + w + 3, 710, bx + w + 26, 710, { w: 3 });
   });
   b += t(60, 790, 'Explain at least three factors with accurate detail, then finish with a judgement.', { size: 17, fill: C.muted });

@@ -18,7 +18,7 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
 
 // 01 Animal, plant and bacterial cells
 {
-  let b = panel(30, 110, 410, 450) + panel(460, 110, 410, 450) + panel(30, 580, 840, 300);
+  let b = panel(30, 110, 410, 450) + panel(460, 110, 410, 450) + panel(30, 580, 840, 320);
   b += t(60, 148, 'Animal cell', { size: 22, weight: 700 }) + t(60, 172, 'eukaryotic', { size: 16, fill: C.tealDark, weight: 600 });
   b += t(490, 148, 'Plant cell', { size: 22, weight: 700 }) + t(490, 172, 'eukaryotic', { size: 16, fill: C.tealDark, weight: 600 });
   b += t(60, 618, 'Bacterial cell', { size: 22, weight: 700 }) + t(60, 642, 'prokaryotic: no nucleus', { size: 16, fill: C.rust, weight: 600 });
@@ -32,10 +32,10 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
   b += `<rect x="500" y="195" width="190" height="320" rx="6" fill="${GREEN}" stroke="${C.ink}" stroke-width="3"/>` +
     `<rect x="512" y="207" width="166" height="296" rx="4" fill="${CYTO}" stroke="${C.ink}" stroke-width="2"/>` +
     `<rect x="540" y="245" width="110" height="215" rx="22" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` +
-    nucleus(535, 225, 18) + chloro(526, 300, 90, 0.85) + chloro(527, 380, 90, 0.85) + chloro(665, 260, 90, 0.85) + chloro(664, 420, 90, 0.85) + chloro(600, 482, 0, 0.85) + chloro(610, 226, 0, 0.85) +
-    mito(663, 340, 90, 0.7) + mito(540, 485, 0, 0.7) + ribos([[527, 440], [526, 460], [666, 470], [666, 300], [645, 488]]);
-  b += lead(730, 200, 690, 205, 'cell wall') + lead(730, 237, 678, 235, 'cell membrane') + lead(730, 274, 670, 260, 'chloroplast') +
-    lead(730, 311, 545, 225, 'nucleus') + lead(730, 348, 650, 330, 'vacuole') + lead(730, 385, 670, 345, 'mitochondrion') +
+    nucleus(652, 228, 18) + chloro(526, 300, 90, 0.85) + chloro(527, 380, 90, 0.85) + chloro(665, 295, 90, 0.85) + chloro(664, 420, 90, 0.85) + chloro(600, 482, 0, 0.85) + chloro(570, 226, 0, 0.85) +
+    mito(663, 355, 90, 0.7) + mito(540, 485, 0, 0.7) + ribos([[527, 440], [526, 460], [666, 470], [666, 300], [645, 488]]);
+  b += lead(730, 200, 690, 205, 'cell wall') + lead(730, 237, 678, 248, 'cell membrane') + lead(730, 274, 663, 236, 'nucleus') +
+    lead(730, 311, 672, 300, 'chloroplast') + lead(730, 348, 650, 330, 'vacuole') + lead(730, 385, 668, 362, 'mitochondrion') +
     lead(730, 422, 666, 470, 'ribosomes') + lead(730, 459, 620, 492, 'cytoplasm');
   // bacterium
   const bx = 180, by = 760;
@@ -47,11 +47,11 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
     ribos([[bx + 70, by + 22], [bx + 95, by + 30], [bx + 250, by - 22], [bx + 270, by - 12], [bx + 230, by + 30], [bx + 110, by + 8]]) +
     path(`M${bx},${by} q-20,-20 -40,0 q-20,20 -40,0 q-20,-20 -40,0`, { stroke: C.ink, w: 3 });
   b += lead(600, 666, bx + 300, by - 62, 'capsule (some bacteria)') + lead(600, 698, bx + 318, by - 30, 'cell wall (not cellulose)') + lead(600, 730, bx + 312, by - 10, 'cell membrane') +
-    lead(600, 762, bx + 207, by - 10, 'circular DNA') + lead(600, 794, bx + 274, by + 18, 'plasmid') + lead(600, 826, bx + 230, by + 30, 'ribosomes (smaller)') +
-    lead(600, 858, bx + 150, by + 40, 'cytoplasm');
+    lead(600, 762, bx + 207, by - 10, 'circular DNA') + lead(600, 794, bx + 274, by + 18, 'plasmid') + lead(600, 826, bx + 232, by + 30, 'ribosomes (smaller)') +
+    `<line x1="${bx + 150}" y1="${by + 40}" x2="${bx + 150}" y2="${by + 92}" stroke="${C.ink}" stroke-width="1.8"/><circle cx="${bx + 150}" cy="${by + 40}" r="3.5" fill="${C.ink}"/>` + t(bx + 150, by + 112, 'cytoplasm', { size: 16, weight: 600, anchor: 'middle' });
   b += t(85, 845, 'flagellum', { size: 16, weight: 600 }) + `<line x1="110" y1="828" x2="110" y2="770" stroke="${C.ink}" stroke-width="1.8"/>`;
   add('01-animal-plant-bacterial-cells',
-    svg(900, 900, 'Animal, plant and bacterial cells', b, 'Simplified, not to scale'),
+    svg(900, 930, 'Animal, plant and bacterial cells', b, 'Simplified, not to scale'),
     'Labelled animal cell with membrane, cytoplasm, nucleus, mitochondria and ribosomes. Plant cell adds a cellulose cell wall, chloroplasts and a large permanent vacuole. Bacterial cell has no nucleus: circular DNA and plasmids lie in the cytoplasm, with ribosomes, a cell membrane, a cell wall, and in some a capsule and flagellum.',
     'Plant cells add a wall, chloroplasts and a vacuole; bacteria have no nucleus.',
     '## Cell structure: animal, plant and bacterial cells');
@@ -73,7 +73,7 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
   b += `<circle cx="300" cy="450" r="16" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += `<circle cx="210" cy="660" r="20" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + `<line x1="210" y1="640" x2="210" y2="550" stroke="${C.mustard}" stroke-width="3" stroke-dasharray="6 5"/>` + `<rect x="185" y="680" width="50" height="40" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += lead(260, 150, 228, 185, 'eyepiece lens ×10', { size: 17 }) + lead(130, 485, 205, 485, 'objective', { anchor: 'end', size: 17 }) + t(124, 506, 'lens ×40', { size: 17, weight: 600, anchor: 'end' }) +
-    lead(130, 590, 175, 525, 'slide on', { anchor: 'end', size: 17 }) + t(124, 611, 'the stage', { size: 17, weight: 600, anchor: 'end' }) + lead(260, 650, 228, 660, 'light source', { size: 17 }) +
+    lead(130, 590, 175, 525, 'slide on', { anchor: 'end', size: 17 }) + t(124, 611, 'the stage', { size: 17, weight: 600, anchor: 'end' }) + lead(130, 660, 190, 660, 'light source', { anchor: 'end', size: 17 }) +
     lead(340, 400, 306, 440, 'focusing', { size: 17 }) + t(346, 421, 'knob', { size: 17, weight: 600 });
   // right
   b += panel(480, 110, 390, 300, C.cream, C.olive) + t(675, 150, 'Total magnification', { size: 22, weight: 700, anchor: 'middle' });
@@ -107,19 +107,24 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
   b += panel(30, 310, 840, 360);
   b += t(60, 350, 'Sizes on a ×10 scale (each step is ten times bigger)', { size: 20, weight: 700 });
   const X = (lg) => 90 + (lg + 9) * 120; // lg = log10(metres)
-  const ay = 520;
+  const ay = 530;
   b += `<line x1="70" y1="${ay}" x2="830" y2="${ay}" stroke="${C.ink}" stroke-width="3"/>`;
   [['1 nm', -9], ['10 nm', -8], ['100 nm', -7], ['1 µm', -6], ['10 µm', -5], ['100 µm', -4], ['1 mm', -3]].forEach(([s, lg]) => {
     b += `<line x1="${X(lg)}" y1="${ay - 8}" x2="${X(lg)}" y2="${ay + 8}" stroke="${C.ink}" stroke-width="2.5"/>` + t(X(lg), ay + 32, s, { size: 16, anchor: 'middle', weight: 600 });
   });
-  const span = (a, c, y, col, label, sub) => `<rect x="${X(a)}" y="${y}" width="${Math.max(X(c) - X(a), 10)}" height="16" rx="8" fill="${col}" stroke="${C.ink}" stroke-width="2"/>` +
-    t((X(a) + X(c)) / 2, y - 12, label, { size: 16, weight: 700, anchor: 'middle' }) + (sub ? t((X(a) + X(c)) / 2, y - 32, sub, { size: 15, anchor: 'middle', fill: C.muted }) : '');
   const L = Math.log10;
-  b += span(-9.15, -9, 470, C.rust, 'electron microscope', 'resolution under 1 nm');
-  b += span(L(200e-9) - 0.05, L(200e-9) + 0.05, 470, C.mustard, 'light microscope', 'resolution about 200 nm');
-  b += span(-6.05, -5.95, 405, C.grass, 'mitochondrion', 'about 1 µm');
-  b += span(-6, L(5e-6), 590, C.teal, 'bacterium 1–5 µm', '');
-  b += span(-5, L(30e-6), 470, C.cream, 'animal cell', '10–30 µm');
+  const mark = (a, c, col, ly, label, sub, anchor = 'middle', lx = null) => {
+    const x1 = X(a), x2 = Math.max(X(c), X(a) + 10), mx = (x1 + x2) / 2, tx = lx ?? mx;
+    const up = ly < ay;
+    return `<line x1="${mx}" y1="${up ? ay - 10 : ay + 10}" x2="${mx}" y2="${up ? ly + 8 : ly - 20}" stroke="${C.muted}" stroke-width="1.8"/>` +
+      `<rect x="${x1}" y="${ay - 9}" width="${x2 - x1}" height="18" rx="9" fill="${col}" stroke="${C.ink}" stroke-width="2"/>` +
+      t(tx, ly, label, { size: 16, weight: 700, anchor }) + (sub ? t(tx, up ? ly - 20 : ly + 20, sub, { size: 15, anchor, fill: C.muted }) : '');
+  };
+  b += mark(-9.1, -9, C.rust, 430, 'electron microscope', 'resolution under 1 nm', 'start', 66);
+  b += mark(L(200e-9) - 0.04, L(200e-9) + 0.04, C.mustard, 470, 'light microscope', 'resolution about 200 nm', 'middle', 320);
+  b += mark(-6, L(5e-6), C.teal, 600, 'bacterium 1–5 µm', '');
+  b += mark(-6.04, -5.96, C.grass, 410, 'mitochondrion', 'about 1 µm');
+  b += mark(-5, L(30e-6), C.cream, 470, 'animal cell', '10–30 µm');
   b += t(450, 650, 'Anything smaller than the resolution limit cannot be seen as separate detail.', { size: 16, anchor: 'middle', fill: C.muted });
   add('03-units-and-sizes',
     svg(900, 700, 'Units for tiny things', b),
@@ -137,8 +142,7 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
   b += t(tx, ty + 95, 'image', { size: 19, weight: 700, anchor: 'middle' }) + t(tx, ty + 117, 'size', { size: 19, weight: 700, anchor: 'middle' });
   b += t(tx - 62, ty + 200, 'actual', { size: 18, weight: 700, anchor: 'middle' }) + t(tx - 62, ty + 222, 'size', { size: 18, weight: 700, anchor: 'middle' });
   b += t(tx + 62, ty + 200, 'magni-', { size: 18, weight: 700, anchor: 'middle' }) + t(tx + 62, ty + 222, 'fication', { size: 18, weight: 700, anchor: 'middle' });
-  b += t(tx - 4, ty + 188, '×', { size: 24, weight: 700, anchor: 'middle', fill: C.rust });
-  b += t(210, 455, 'Cover the one you want:', { size: 16, anchor: 'middle', fill: C.muted }) + t(210, 478, 'M = I ÷ A    A = I ÷ M    I = A × M', { size: 17, anchor: 'middle', weight: 600 });
+  b += t(210, 455, 'Cover the one you want:', { size: 16, anchor: 'middle', fill: C.muted }) + t(95, 480, 'M = I ÷ A', { size: 17, anchor: 'middle', weight: 600 }) + t(210, 480, 'A = I ÷ M', { size: 17, anchor: 'middle', weight: 600 }) + t(325, 480, 'I = A × M', { size: 17, anchor: 'middle', weight: 600 });
   b += t(210, 510, 'Same unit for I and A first!', { size: 17, anchor: 'middle', weight: 700, fill: C.rust });
   // worked example
   b += panel(410, 110, 460, 420, C.panel);
@@ -184,12 +188,12 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
   };
   let b = '';
   b += card(0, 'Red blood cell', ['No nucleus: more room for', 'haemoglobin. Biconcave disc:', 'large surface area for oxygen', 'to diffuse in and out.'], (x, y) =>
-    `<circle cx="${x + 60}" cy="${y + 70}" r="38" fill="#d9776a" stroke="${C.ink}" stroke-width="2.5"/><circle cx="${x + 60}" cy="${y + 70}" r="17" fill="#eaa79c"/>` +
-    path(`M${x + 25},${y + 135} q0,-14 18,-14 q17,0 17,7 q0,-7 17,-7 q18,0 18,14 q0,14 -18,14 q-17,0 -17,-7 q0,7 -17,7 q-18,0 -18,-14 Z`, { fill: '#d9776a', w: 2.5 }) + t(x + 120, y + 112, 'side', { size: 15, fill: C.muted, anchor: 'end' }));
+    `<circle cx="${x + 60}" cy="${y + 58}" r="34" fill="#d9776a" stroke="${C.ink}" stroke-width="2.5"/><circle cx="${x + 60}" cy="${y + 58}" r="15" fill="#eaa79c"/>` +
+    path(`M${x + 25},${y + 118} q0,-14 18,-14 q17,0 17,7 q0,-7 17,-7 q18,0 18,14 q0,14 -18,14 q-17,0 -17,-7 q0,7 -17,7 q-18,0 -18,-14 Z`, { fill: '#d9776a', w: 2.5 }) + t(x + 60, y + 155, 'side view', { size: 15, fill: C.muted, anchor: 'middle' }));
   b += card(1, 'Nerve cell (neurone)', ['Long axon: carries electrical', 'impulses over long distances.', 'Branched endings: connect', 'with many other cells.'], (x, y) =>
     `<circle cx="${x + 32}" cy="${y + 84}" r="16" fill="#c9b6dd" stroke="${C.ink}" stroke-width="2.5"/>` + path(`M${x + 20},${y + 72} l-8,-14 M${x + 22},${y + 98} l-10,14 M${x + 32},${y + 68} l2,-16`, { w: 2.5 }) +
     path(`M${x + 48},${y + 84} L${x + 125},${y + 84}`, { w: 4 }) + path(`M${x + 125},${y + 84} l14,-16 M${x + 125},${y + 84} l18,0 M${x + 125},${y + 84} l14,16`, { w: 2.5 }) + t(x + 88, y + 110, 'axon', { size: 15, anchor: 'middle', fill: C.muted }));
-  b += card(2, 'Sperm cell', ['Tail: swims to the egg. Many', 'mitochondria: release energy', 'for swimming. Enzymes in the', 'head: digest a way into the egg.'], (x, y) =>
+  b += card(2, 'Sperm cell', ['Tail: swims to the egg.', 'Many mitochondria: energy', 'for swimming. Enzymes in', 'the head digest into the egg.'], (x, y) =>
     `<ellipse cx="${x + 40}" cy="${y + 84}" rx="24" ry="17" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/><rect x="${x + 63}" y="${y + 78}" width="28" height="12" rx="4" fill="#e8b48f" stroke="${C.ink}" stroke-width="2"/>` +
     path(`M${x + 91},${y + 84} q10,-12 20,0 q10,12 20,0 q8,-10 14,0`, { w: 2.5 }) + t(x + 40, y + 125, 'head', { size: 15, anchor: 'middle', fill: C.muted }) + t(x + 118, y + 125, 'tail', { size: 15, anchor: 'middle', fill: C.muted }));
   b += card(3, 'Ciliated cell (airways)', ['Tiny hairs called cilia sweep', 'mucus and trapped dust away', 'from the lungs.'], (x, y) => {
@@ -206,8 +210,8 @@ const nucleus = (x, y, r = 30) => `<circle cx="${x}" cy="${y}" r="${r}" fill="#c
     return o;
   });
   b += card(6, 'Guard cells (leaf)', ['A pair of cells around a pore', '(stoma). They change shape', 'to open and close it, controlling', 'gas exchange and water loss.'], (x, y) =>
-    path(`M${x + 80},${y + 40} C${x + 30},${y + 45} ${x + 30},${y + 125} ${x + 80},${y + 130} C${x + 62},${y + 110} ${x + 62},${y + 60} ${x + 80},${y + 40} Z`, { fill: GREEN, w: 2.5 }) +
-    path(`M${x + 80},${y + 40} C${x + 130},${y + 45} ${x + 130},${y + 125} ${x + 80},${y + 130} C${x + 98},${y + 110} ${x + 98},${y + 60} ${x + 80},${y + 40} Z`, { fill: GREEN, w: 2.5 }) +
+    path(`M${x + 80},${y + 40} C${x + 30},${y + 45} ${x + 30},${y + 125} ${x + 80},${y + 130} C${x + 58},${y + 110} ${x + 58},${y + 60} ${x + 80},${y + 40} Z`, { fill: GREEN, w: 2.5 }) +
+    path(`M${x + 80},${y + 40} C${x + 130},${y + 45} ${x + 130},${y + 125} ${x + 80},${y + 130} C${x + 102},${y + 110} ${x + 102},${y + 60} ${x + 80},${y + 40} Z`, { fill: GREEN, w: 2.5 }) +
     t(x + 80, y + 155, 'stoma', { size: 15, anchor: 'middle', fill: C.muted }));
   {
     const x = 460, y = y0 + 3 * (ch + g);

@@ -69,6 +69,12 @@ const flowRight = (x, y, ws, h, gap, items, o = {}) => {
 };
 // label with a soft white backing so it reads over lines
 const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).length * size * ((o.weight || 700) >= 600 ? 0.6 : 0.55) + 12; const x0 = o.anchor === 'middle' ? x - w / 2 : o.anchor === 'end' ? x - w + 6 : x - 6; return `<rect x="${x0}" y="${y - size * 0.95}" width="${w}" height="${size * 1.35}" rx="5" fill="${o.bg || '#ffffff'}" opacity="${o.op || 0.92}"/>` + t(x, y, s, { size, weight: o.weight || 700, anchor: o.anchor || 'start', fill: o.fill || C.ink }); };
+// bulleted list, each item wrapped to width w; returns {svg, h}
+const bullets = (x, y, items, w, o = {}) => {
+  const size = o.size || 16.5, lh = o.lh || Math.round(size * 1.3), gap = o.gap ?? 8; let s = '', yy = y;
+  for (const it of items) { const ls = wrap(it, w - 18, size); s += t(x, yy, '•', { size, fill: o.bullet || o.fill || C.ink, weight: 700 }) + tl(x + 16, yy, ls, { size, fill: o.fill || C.ink }, lh); yy += ls.length * lh + gap; }
+  return { svg: s, h: yy - y };
+};
 // ---- end helpers ----
 
 // 01 HDI as a composite and why one indicator is not enough
@@ -85,11 +91,11 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
     t(500, 392, '0', { size: 18, weight: 700, anchor: 'middle' }) + t(840, 392, '1', { size: 18, weight: 700, anchor: 'middle' }) + t(670, 392, 'a value from 0 to 1', { size: 16, anchor: 'middle', fill: C.muted }) +
     arrow(605, 300, 605, 340, { w: 3 });
   s += t(450, 460, 'Why no single indicator is enough', { size: 22, weight: 700, anchor: 'middle' });
-  s += card(30, 480, 410, 128, 'Rich from oil exports', 'High GNP per capita, yet literacy among women can be low.', { edge: C.olive, fill: C.cream, ts: 19 }) +
-    card(460, 480, 410, 128, 'Modest income', 'Yet high life expectancy, thanks to good primary health care.', { edge: C.tealDark, fill: C.tealLight, ts: 19 });
-  s += t(450, 640, 'Still national averages, and leaves out factors such as political freedom.', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
+  s += card(30, 480, 410, 108, 'Rich from oil exports', 'High GNP per capita, yet literacy among women can be low.', { edge: C.olive, fill: C.cream, ts: 19 }) +
+    card(460, 480, 410, 108, 'Modest income', 'Yet high life expectancy, thanks to good primary health care.', { edge: C.tealDark, fill: C.tealLight, ts: 19 });
+  s += t(450, 625, 'Still national averages, and leaves out factors such as political freedom.', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
   add('01-hdi-composite',
-    svg(900, 670, 'One number or three? The HDI', s),
+    svg(900, 650, 'One number or three? The HDI', s),
     'Life expectancy, education and income feed into the Human Development Index, a composite value from 0 to 1. Below, two cases show why one indicator misleads: an oil-rich country with high GNP per capita but low literacy among women, and a modest-income country with high life expectancy from good primary health care.',
     'A composite index reduces the distortion of any one measure.',
     '## Indicators: what each one tells you');
@@ -112,8 +118,8 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
     });
     y += 175;
   });
-  s += card(640, 175, 230, 90, 'P is 30 times R', '45,000 vs 1,500 US$', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
-  s += card(700, 345, 170, 112, '20 years', 'longer life in P than R (82 vs 62)', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
+  s += card(640, 212, 230, 86, 'P is 30 times R', '45,000 vs 1,500 US$', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
+  s += card(640, 382, 230, 86, '82 vs 62 years', 'P lives 20 years longer than R', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
   s += panel(30, 650, 840, 112, C.tealLight, C.tealDark) + t(55, 688, 'Q earns about a quarter of P’s income …', { size: 19, weight: 700 }) +
     t(55, 718, '… yet its life expectancy is only 6 years lower. Health care can improve', { size: 17, fill: C.ink }) + t(55, 742, 'faster than income at middle levels of development.', { size: 17, fill: C.ink });
   add('02-comparing-countries',
@@ -132,18 +138,18 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
   s += `<path d="M395,318 l6,14 l15,1 l-12,9 l4,15 l-13,-8 l-13,8 l4,-15 l-12,-9 l15,-1 z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>` + t(410, 378, 'capital', { size: 15, weight: 600, anchor: 'middle' });
   s += rrect(470, 395, 50, 22, '#ffffff', C.ink, 2, 4) + t(495, 440, 'port', { size: 15, weight: 600, anchor: 'middle' });
   s += factory(375, 425, 0.6) + house(420, 405, 0.7);
-  s += t(170, 330, 'PERIPHERY', { size: 20, weight: 700, anchor: 'middle', fill: C.muted }) + house(110, 230) + house(220, 470) + house(140, 420, 0.8) + house(250, 210, 0.8);
+  s += t(165, 315, 'PERIPHERY', { size: 20, weight: 700, anchor: 'middle', fill: C.muted }) + house(110, 230) + house(220, 470) + house(110, 500, 0.8) + house(250, 210, 0.8);
   s += arrow(200, 255, 322, 315, { color: C.rust, w: 5, marker: 'ahR' }) + arrow(200, 400, 322, 370, { color: C.rust, w: 5, marker: 'ahR' });
-  s += tag(180, 375, 'young workers', { fill: C.rust, bg: '#d8e3c6', op: 1 }) + tag(180, 394, 'migrate in', { fill: C.rust, bg: '#d8e3c6', op: 1, weight: 400 });
+  s += tag(215, 432, 'young workers', { fill: C.rust, bg: '#d8e3c6', op: 1, anchor: 'middle' }) + tag(215, 451, 'migrate to the core', { fill: C.rust, bg: '#d8e3c6', op: 1, weight: 400, anchor: 'middle' });
   s += t(285, 615, 'Schematic country, not to scale', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
-  const steps = ['Markets and ports already exist', 'Investment and infrastructure go there', 'Jobs draw young workers in', 'The core grows; the periphery lags'];
-  steps.forEach((st, i) => { const y = 130 + i * 112; s += rrect(565, y, 270, 76, i === 3 ? C.cream : '#ffffff', C.ink, 2.5, 12) + tl(700, y + 32 + (wrap(st, 240, 17, true).length === 1 ? 10 : 0), wrap(st, 240, 17, true), { size: 17, weight: 700, anchor: 'middle' }, 22); if (i < 3) s += arrow(700, y + 79, 700, y + 108, { w: 3.5 }); });
+  const steps = ['Markets and ports already exist', 'Investment and infrastructure go there', 'Jobs pull in young workers', 'The core grows; the periphery lags'];
+  steps.forEach((st, i) => { const y = 130 + i * 112; s += rrect(565, y, 270, 76, i === 3 ? C.cream : '#ffffff', C.ink, 2.5, 12) + tl(700, y + 32 + (wrap(st, 255, 17, true).length === 1 ? 10 : 0), wrap(st, 255, 17, true), { size: 17, weight: 700, anchor: 'middle' }, 22); if (i < 3) s += arrow(700, y + 79, 700, y + 108, { w: 3.5 }); });
   s += path(`M835,504 Q862,504 862,470 L862,200 Q862,168 840,168`, { w: 3.5, stroke: C.tealDark, extra: 'stroke-dasharray="9 7" marker-end="url(#ahT)"' });
   s += t(700, 600, 'the cycle reinforces itself', { size: 16, anchor: 'middle', fill: C.tealDark, weight: 700 });
   const ex = [['Brazil', 'south-east (São Paulo, Rio) ahead of the north-east'], ['China', 'eastern coastal provinces grew faster than the interior'], ['Urban–rural gap', 'also an inequality within one country']];
-  ex.forEach(([a, b], i) => { s += card(30 + i * 283, 640, 272, 104, a, b, { ts: 18.5, bs: 15.5 }); });
+  ex.forEach(([a, b], i) => { s += card(30 + i * 283, 640, 272, 118, a, b, { ts: 18.5, bs: 15.5 }); });
   add('03-core-periphery',
-    svg(900, 770, 'Why wealth gathers in a core region', s),
+    svg(900, 785, 'Why wealth gathers in a core region', s),
     'A schematic country with a core region around the capital and a port on the coast, and a periphery of scattered rural houses. Young workers migrate from the periphery to the core. Beside it a cycle: markets and ports already exist, investment and infrastructure go there, jobs draw young workers in, and the core grows while the periphery lags. Examples: south-east versus north-east Brazil, coastal versus interior China, and urban–rural gaps.',
     'Investment follows existing markets, workers follow investment, and the gap widens.',
     '## Inequality between and within countries');
@@ -152,23 +158,22 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
 // 04 Why employment shifts between sectors
 {
   const st = [
-    ['1', 'Low development', 'Primary dominates', ['Mostly subsistence', 'farming', 'Little capital or', 'technology'], C.mustard],
-    ['2', 'Industrialising', 'Secondary grows', ['Machines on farms', 'release labour', 'Factory jobs pay more', 'Investment, often', 'from TNCs'], C.teal],
-    ['3', 'High development', 'Tertiary and quaternary', ['Rising incomes:', 'demand for services', 'Manufacturing', 'automated or moved', 'abroad (deindustrialisation)'], C.tealDark],
+    ['1', 'Low development', 'Primary dominates', ['Most people farm, largely for subsistence', 'Little capital or technology'], C.mustard],
+    ['2', 'Industrialising', 'Secondary grows', ['Machines on farms release labour', 'Factory jobs pay more, so workers move', 'Investment, often from TNCs, builds factories'], C.teal],
+    ['3', 'High development', 'Tertiary and quaternary', ['Rising incomes create demand for services', 'Manufacturing automated or moved abroad (deindustrialisation)'], C.tealDark],
   ];
   let s = '';
-  st.forEach(([n, h, sub, lines, col], i) => {
+  st.forEach(([n, h, sub, items, col], i) => {
     const x = 30 + i * 290;
-    s += panel(x, 115, 260, 430) + `<rect x="${x}" y="115" width="260" height="14" rx="7" fill="${col}"/>` + badge(x + 36, 168, 20, n, C.cream) +
+    s += panel(x, 115, 260, 340) + `<rect x="${x}" y="115" width="260" height="14" rx="7" fill="${col}"/>` + badge(x + 36, 168, 20, n, C.cream) +
       t(x + 66, 162, h, { size: 19, weight: 700 }) + t(x + 66, 186, sub, { size: 15.5, weight: 600, fill: C.tealDark });
     s += line(x + 20, 210, x + 240, 210, { color: C.panelEdge, w: 2 });
-    let y = 245;
-    for (let k = 0; k < lines.length; k++) { const bullet = k === 0 || /^[A-Z]/.test(lines[k]); s += t(x + 24, y, (bullet ? '• ' : '   ') + lines[k], { size: 16.5, fill: C.ink }); y += bullet && k + 1 < lines.length && /^[A-Z]/.test(lines[k + 1]) ? 34 : 24; }
-    if (i < 2) s += arrow(x + 264, 330, x + 286, 330, { w: 3.5 });
+    s += bullets(x + 22, 244, items, 222, { size: 16.5, gap: 12 }).svg;
+    if (i < 2) s += arrow(x + 264, 285, x + 286, 285, { w: 3.5 });
   });
-  s += panel(30, 570, 840, 76, C.cream, C.olive) + t(450, 616, 'Explain = the cause of the change + its effect on employment', { size: 19, weight: 700, anchor: 'middle' });
+  s += panel(30, 475, 840, 72, C.cream, C.olive) + t(450, 518, 'Explain = the cause of the change + its effect on employment', { size: 19, weight: 700, anchor: 'middle' });
   add('04-why-sectors-shift',
-    svg(900, 670, 'Why jobs move from sector to sector', s),
+    svg(900, 572, 'Why jobs move from sector to sector', s),
     'Three stages. Low development: most people work in the primary sector, largely subsistence farming, with little capital or technology. Industrialising: farm machinery releases labour, factory jobs pay more and TNC investment builds factories, so the secondary sector grows. High development: rising incomes create demand for services and manufacturing is automated or moved abroad, so tertiary and quaternary jobs dominate.',
     'Each shift has a cause: give it, then its effect on jobs.',
     '## Sectors and employment structure');
@@ -178,17 +183,17 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
 {
   const drv = [['Transport', 'container ships, cheaper air freight'], ['ICT', 'internet runs firms worldwide'], ['TNCs', 'lower costs, new markets'], ['Trade agreements', 'tax incentives for investors']];
   let s = t(30, 136, 'Drivers', { size: 19, weight: 700, fill: C.muted });
-  drv.forEach(([a, b], i) => { const x = 30 + i * 213; s += card(x, 150, 201, 110, a, b, { ts: 18.5, bs: 15.5 }); s += arrow(x + 100, 264, 450 + (x + 100 - 450) * 0.35, 300, { w: 3 }); });
-  s += rrect(150, 304, 600, 82, C.ink, C.ink, 2.5, 14) + t(450, 337, 'Globalisation', { size: 23, weight: 700, anchor: 'middle', fill: '#ffffff' }) +
-    t(450, 366, 'connection and interdependence: trade, investment, migration, information', { size: 15.5, anchor: 'middle', fill: '#ffffff' });
+  drv.forEach(([a, b], i) => { const x = 30 + i * 213; s += card(x, 150, 201, 124, a, b, { ts: 18.5, bs: 15.5 }); s += arrow(x + 100, 278, 450 + (x + 100 - 450) * 0.35, 308, { w: 3 }); });
+  s += rrect(150, 310, 600, 80, C.ink, C.ink, 2.5, 14) + t(450, 342, 'Globalisation', { size: 23, weight: 700, anchor: 'middle', fill: '#ffffff' }) +
+    t(450, 371, 'connection and interdependence: trade, investment, migration, information', { size: 15.5, anchor: 'middle', fill: '#ffffff' });
   s += arrow(330, 390, 240, 428, { w: 3.5 }) + arrow(570, 390, 660, 428, { w: 3.5 });
   const pos = ['Jobs and investment', 'Skills and technology transferred', 'Cheaper goods', 'Export earnings'];
   const neg = ['Low wages, poor conditions in some factories', 'Profits leave the host country', 'Local firms out-competed', 'Job losses when factories relocate', 'Environmental damage'];
-  s += panel(30, 432, 410, 272, C.tealLight, C.tealDark) + t(55, 470, '+ Positives', { size: 21, weight: 700, fill: C.tealDark });
-  pos.forEach((p, i) => { s += t(55, 506 + i * 32, '• ' + p, { size: 17 }); });
-  s += panel(460, 432, 410, 272, '#f6e6dc', C.rust) + t(485, 470, '– Negatives', { size: 21, weight: 700, fill: C.rust });
-  neg.forEach((p, i) => { s += t(485, 506 + i * 32, '• ' + p, { size: 17 }); });
-  s += t(450, 736, 'Weigh them: who gains, who loses, and at what scale?', { size: 18, weight: 700, anchor: 'middle' });
+  s += panel(30, 432, 410, 262, C.tealLight, C.tealDark) + t(55, 470, '+ Positives', { size: 21, weight: 700, fill: C.tealDark });
+  s += bullets(55, 506, pos, 370, { size: 17 }).svg;
+  s += panel(460, 432, 410, 262, '#f6e6dc', C.rust) + t(485, 470, '– Negatives', { size: 21, weight: 700, fill: C.rust });
+  s += bullets(485, 506, neg, 370, { size: 17 }).svg;
+  s += t(450, 728, 'Weigh them: who gains, who loses, and at what scale?', { size: 18, weight: 700, anchor: 'middle' });
   add('05-globalisation',
     svg(900, 760, 'Globalisation: what drives it, what it does', s),
     'Four drivers (transport, information and communication technology, TNCs, and trade agreements) feed into globalisation, the growing connection and interdependence of economies through trade, investment, migration and information. Positives: jobs and investment, skills and technology, cheaper goods, export earnings. Negatives: low wages in some factories, profits leaving, local firms out-competed, job losses on relocation, environmental damage.',
@@ -206,10 +211,10 @@ const tag = (x, y, s, o = {}) => { const size = o.size || 15, w = String(s).leng
   sites.forEach(([x, a, b]) => { s += card(x, 296, 255, 92, a, b, { ts: 17.5, bs: 16, bfill: C.tealDark }); s += arrow(450, 212, x + 127, 292, { w: 3 }); });
   s += t(450, 438, 'Why locate abroad?', { size: 20, weight: 700, anchor: 'middle' });
   ['Inside major markets', 'Avoid import tariffs', 'Lower transport costs', 'Skilled local workers'].forEach((c, i) => { s += pill(30 + i * 213, 456, 201, 48, c, { size: 16 }); });
-  s += card(30, 530, 410, 160, '+ For the host country', 'Direct jobs, and many more in component suppliers (a multiplier effect); training; export earnings.', { fill: C.tealLight, edge: C.tealDark, tfill: C.tealDark });
-  s += card(460, 530, 410, 160, '– For the host country', 'Decisions are made in Japan and profits return there; the host is exposed if production is cut.', { fill: '#f6e6dc', edge: C.rust, tfill: C.rust });
+  s += card(30, 530, 410, 132, '+ For the host country', 'Direct jobs, and many more in component suppliers (a multiplier effect); training; export earnings.', { fill: C.tealLight, edge: C.tealDark, tfill: C.tealDark });
+  s += card(460, 530, 410, 132, '– For the host country', 'Decisions are made in Japan and profits return there; the host is exposed if production is cut.', { fill: '#f6e6dc', edge: C.rust, tfill: C.rust });
   add('06-tnc-toyota',
-    svg(900, 715, 'A TNC case study in one picture: Toyota', s, ),
+    svg(900, 690, 'A TNC case study in one picture: Toyota', s, ),
     'Toyota’s headquarters and research in Toyota City, Japan, link to three overseas plants: a car plant at Burnaston near Derby and an engine plant at Deeside in North Wales (UK), and a large plant at Georgetown, Kentucky (USA). Reasons for locating abroad: inside major markets, avoiding tariffs, lower transport costs, skilled workers. Host impacts: jobs, a multiplier effect, training and exports, but decisions and profits stay in Japan.',
     'Learn a headquarters, named overseas sites, reasons, and one impact each way.',
     '## Worked example 2: building a TNC case study');
