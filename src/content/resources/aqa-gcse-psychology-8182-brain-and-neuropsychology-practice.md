@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "brain-and-neuropsychology-8182"
 description: "Original practice questions with mark-scheme answers on AQA GCSE Psychology 8182 topic 3.2.3: nervous system, emotion, brain areas, scans and named studies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,10 +11,10 @@ syllabusSeries: "2025-2027"
 order: 5
 description: "Practice questions with answers on marks, word and time limits, the Reflective Paper, Evidence of Action and Collaboration for the IGCSE 0457 Team Project."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

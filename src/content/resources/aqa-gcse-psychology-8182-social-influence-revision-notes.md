@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "social-influence-8182"
 description: "Condensed notes for AQA GCSE Psychology 8182 topic 3.2.1 Social influence: key terms, factor tables, Asch, Milgram, Adorno and Piliavin, and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-key-concepts"
 description: "Condensed IB MYP Individuals and Societies revision notes on change, global interactions, systems and time, place and space, with a quick self-test."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-10-04
 featured: false
 ---

@@ -10,10 +10,10 @@ syllabusCodes: ["DP Global Politics"]
 order: 4
 description: "How to prepare for each IB DP Global Politics paper: covering every thematic study, writing multi-perspective evaluations and tackling HL Paper 3."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-07
 featured: false
 ---

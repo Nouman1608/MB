@@ -30,6 +30,10 @@ syllabusTopics:
     subtopic: "advertising-9990"
 description: "Study guide to Cambridge A Level Psychology 9990 Consumer Psychology: store design, atmospherics, menus, decision-making, packaging, selling and advertising."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

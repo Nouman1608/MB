@@ -11,9 +11,10 @@ syllabusCodes: ["8182"]
 order: 1
 description: "AQA GCSE Psychology (8182) past papers guide with June 2026, 2025 and 2024 grade thresholds and our notes on the June 2025 and June 2024 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "No June 2026 report on the examination was available, so that series has grade thresholds but no examiner notes."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No June 2026 report on the examination was available, so that series has grade thresholds but no examiner notes."
 publishedDate: 2026-11-15
 featured: false
 ---

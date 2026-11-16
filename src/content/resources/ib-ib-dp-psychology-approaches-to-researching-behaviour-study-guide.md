@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-approaches-to-researching-behaviour"
 description: "Qualitative and quantitative research methods, sampling, ethics, bias and credibility, and descriptive statistics for IB DP Psychology."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current guide for which research methods and which statistical content are required at SL and at HL, and how this section is assessed."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the current guide for which research methods and which statistical content are required at SL and at HL, and how this section is assessed."
 publishedDate: 2026-11-08
 featured: false
 ---

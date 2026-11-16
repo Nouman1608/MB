@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-developmental-psychology"
 description: "Cognitive and social development, attachment, identity, moral reasoning and learning theories with key studies for the IB DP Psychology developmental option."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current guide for the exact headings and required content of the developmental option, such as identity, empathy and altruism, and developing as a learner."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the current guide for the exact headings and required content of the developmental option, such as identity, empathy and altruism, and developing as a learner."
 publishedDate: 2026-11-08
 featured: false
 ---

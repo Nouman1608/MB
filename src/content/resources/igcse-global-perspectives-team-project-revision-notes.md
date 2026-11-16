@@ -11,10 +11,10 @@ syllabusSeries: "2025-2027"
 order: 4
 description: "Recall notes on the mark breakdown, word and time limits, and what the Reflective Paper and Collaboration marks reward in the Cambridge IGCSE 0457 Team Project."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-05
 featured: false
 ---

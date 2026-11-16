@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "Recall notes on team formation, the 30-mark presentation and 10-mark reflective paper for the Cambridge AS & A Level Global Perspectives 9239 Team Project."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

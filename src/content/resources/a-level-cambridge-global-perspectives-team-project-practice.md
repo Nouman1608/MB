@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-3-team-project-9239"
 description: "Practice questions with worked answers on the format, rules and 40-mark allocation of the Team Project in Cambridge AS & A Level Global Perspectives 9239."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

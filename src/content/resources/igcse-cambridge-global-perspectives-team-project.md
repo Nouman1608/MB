@@ -11,10 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How the 70-mark Team Project works: Explanation of Research and Planning, Evidence of Action, Collaboration and the Reflective Paper, for Cambridge IGCSE 0457."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

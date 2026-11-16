@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "memory-8182"
 description: "Original practice questions on 3.1.1 Memory for AQA GCSE Psychology 8182, from short recall to a scenario, a data question and an extended answer, with mark schemes."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

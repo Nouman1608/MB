@@ -21,10 +21,10 @@ syllabusTopics:
     subtopic: "methodological-concepts-as-9990"
 description: "Practice questions and answers on research methods, validity, reliability, ethics and the Paper 2 planning question for Cambridge AS & A Level Psychology 9990."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

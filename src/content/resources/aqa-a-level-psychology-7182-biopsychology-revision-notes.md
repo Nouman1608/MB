@@ -18,6 +18,10 @@ syllabusTopics:
     subtopic: "biopsychology-7182"
 description: "Revision notes for AQA A-level Psychology 7182 Biopsychology, with key terms, studies at a glance, brain-scan comparisons, an essay plan and a self-test."
 author: "marlbridge-academic-team"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
 featured: false
 ---

@@ -16,10 +16,10 @@ syllabusTopics:
     topic: "component-4-cambridge-research-report-9239"
 description: "How to plan, research and write the 9239 Cambridge Research Report: question, proposal, log, methods, perspectives, judgement and referencing."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

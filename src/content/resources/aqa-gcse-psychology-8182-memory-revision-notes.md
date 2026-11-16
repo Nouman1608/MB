@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "memory-8182"
 description: "Condensed revision notes on 3.1.1 Memory for AQA GCSE Psychology 8182, with a key terms table, study summaries, evaluation points and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

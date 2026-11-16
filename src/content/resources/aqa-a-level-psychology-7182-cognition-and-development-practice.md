@@ -18,10 +18,10 @@ syllabusTopics:
     subtopic: "cognition-and-development-7182"
 description: "Original AQA 7182 Cognition and development questions: scenarios, a sign test on looking-time data and essays, with mark-by-mark answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-09-29
 featured: false
 ---

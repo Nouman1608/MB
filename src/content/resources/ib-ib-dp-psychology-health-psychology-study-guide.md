@@ -14,9 +14,10 @@ syllabusTopics:
     topic: "ib-dp-psychology-health-psychology"
 description: "Study guide to the IB DP Psychology health option: determinants of health, stress, addiction and obesity, health belief models and health promotion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the current subject guide for the exact list of determinants, health problems and promotion content in this option, and which course version (2019 or 2027) your cohort is following."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the current subject guide for the exact list of determinants, health problems and promotion content in this option, and which course version (2019 or 2027) your cohort is following."
 publishedDate: 2026-11-08
 featured: false
 ---

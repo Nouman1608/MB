@@ -13,10 +13,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-assessment-criteria"
 description: "Original scenario-based IB MYP Individuals and Societies practice questions judging coursework against top-band standards for Criteria A to D, with answers."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---

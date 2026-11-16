@@ -24,10 +24,10 @@ syllabusTopics:
     subtopic: "psychopathology-9685"
 description: "Memory, social psychology, and psychopathology -- the full content of Unit 1 for OxfordAQA International AS and A-Level Psychology (9685)."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-08-21
 featured: false
 ---

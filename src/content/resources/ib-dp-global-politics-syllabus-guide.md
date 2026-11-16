@@ -11,10 +11,10 @@ syllabusSeries: "First assessment 2026"
 order: 2
 description: "Syllabus guide to IB DP Global Politics from 2026: the core, three compulsory thematic studies, the engagement project, the HL extension and teaching hours."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-09-02
 featured: false
 ---

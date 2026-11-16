@@ -10,7 +10,10 @@ syllabusSeries: "first teaching 2017"
 order: 0
 description: "AQA GCSE Psychology (8182) explained: eight topics across Cognition and Behaviour and Social Context and Behaviour, two equal papers and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

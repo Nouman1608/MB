@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "ib-myp-individuals-and-societies-key-concepts"
 description: "Original IB MYP Individuals and Societies practice questions on key concepts, statements of inquiry and inquiry questions, with answers by criterion."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "public-course-documents"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-10-04
 featured: false
 ---

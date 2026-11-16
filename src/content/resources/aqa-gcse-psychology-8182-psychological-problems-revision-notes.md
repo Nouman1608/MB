@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "psychological-problems-8182"
 description: "Condensed AQA GCSE Psychology 8182 notes on 3.2.4: mental health, depression, addiction, explanations, treatments, Wiles and Kaij, with key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the 'introduction to mental health' points and the depression and addiction definitions against the current 8182 specification wording."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the 'introduction to mental health' points and the depression and addiction definitions against the current 8182 specification wording."
 publishedDate: 2026-11-15
 featured: false
 ---

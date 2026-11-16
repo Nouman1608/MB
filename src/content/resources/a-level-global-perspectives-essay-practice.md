@@ -15,10 +15,10 @@ syllabusTopics:
     topic: "component-2-essay-9239"
 description: "Practice questions with worked answers on essay titles, source selection, contrasting perspectives and referencing for the Cambridge 9239 Component 2 Essay."
 author: "marlbridge-academic-team"
-specCheck:
-  by: "marlbridge-academic-team"
-  date: 2026-10-04
-  scope: "official-specification"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-09-06
 featured: false
 ---
