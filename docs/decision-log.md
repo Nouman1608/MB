@@ -16153,3 +16153,16 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - Owner, 15 Nov 2026: re-sent Ammar Bilal's photograph; said Farhat ul Ain Sehgal's pixelated photograph "was deliberate".
 - **Fix.** `docs/image-source-manifest.md` gains rows for both files. Ammar Bilal's site photo was compared with the re-sent original: it is a square crop of the same photograph, so the file was not changed. Farhat ul Ain Sehgal's row records that the pixelation is intended.
 - **Not changed.** No image file. Every teacher photograph on the site now has a row in the record.
+
+## D-472 - DP Language A: Literature HL essay and individual oral totals removed until an IB document confirms them (OQ-6, 16 Nov 2026)
+
+- Owner, 16 Nov 2026: "do OQ-6 option a". This is the same conflict as OQ-3 / D-455, on the sister subject.
+- **Problem.** The record showed the HL Essay as 20 marks and the Individual Oral as 40 (SL and HL). Neither component is in the IB specimen papers, and both totals were corroborated only against a third-party IB revision resource. The editorial policy says sources are never a tutoring site.
+- **Fix** (`src/data/academic/assessments.ts`):
+  - `marks` is `null` for the HL Essay and both Individual Oral rows, shown as "Not confirmed" and "mark total not confirmed".
+  - The reader-facing `marksSourceNote` and the public `notes` say why.
+  - Paper 1 (20 / 40) and Paper 2 (25) are kept: they come from IB specimen papers. Durations and weightings are from the IB brief and unchanged.
+  - The hub's disclosure prefix now reads "Some figures are not shown:" whenever a total is withheld and no third-party mirror is in use. The condition was generalised from D-455's `official-host` check.
+- **Two resource pages.** `ib-dp-language-a-literature-individual-oral-global-issues` and its revision notes said the oral "is marked out of 40 on four criteria (A to D, 10 marks each)", attributed to the IB guide. That clause now says the mark total and criteria are not given until an IB document confirms them. The rest of each page is unchanged.
+- **Guards.** `validate-assessments` [8] (from D-455) passes. A new unit test asserts no 20 or 40 total is printed for these components.
+- **To restore the figures.** An IB document: the subject guide, or a published assessment-criteria document.
