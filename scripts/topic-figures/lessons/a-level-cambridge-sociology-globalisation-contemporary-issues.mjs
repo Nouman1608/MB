@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- Local layout helpers (sociology figures: wrapped text, tables, flows, cards) ----
 const esc = (s) => String(s).replace(/&(?![a-z]+;|#\d+;)/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const CW = 0.515, CWB = 0.56; // average glyph width / font size for Inter (regular, bold)
+const CW = 0.505, CWB = 0.555; // average glyph width / font size for Inter (regular, bold)
 function wrap(s, maxPx, size = 17, bold = false) {
   const maxCh = Math.floor(maxPx / (size * (bold ? CWB : CW)));
   const lines = [''];
@@ -159,14 +159,29 @@ function hchain(y, items, o = {}) {
   items.forEach((it, i) => {
     const x = 30 + i * (w + ag);
     s += `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="12" fill="${it.fill || C.panel}" stroke="${it.edge || C.ink}" stroke-width="2.5"/>`;
-    let yy = y + 20 + 18 * 0.85;
+    let yy = y + (h - hs[i]) / 2 + 18 * 0.85;
     if (it.head) { const hp = para(x + w / 2, yy, w - 24, it.head, { size: 18, weight: 700, anchor: 'middle' }); s += hp.svg; yy += hp.h + 6; }
-    if (it.body) s += para(x + w / 2, yy, w - 24, it.body, { size, anchor: 'middle', fill: it.head ? C.muted : C.ink }).svg;
+    if (it.body) s += para(x + w / 2, yy, w - 24, it.body, { size, anchor: 'middle', fill: it.head && (!it.fill || it.fill === C.panel) ? C.muted : C.ink }).svg;
     if (i < n - 1 && o.arrows !== false) s += arrow(x + w + 4, y + h / 2, x + w + ag - 4, y + h / 2, { w: 3.5 });
   });
   return { svg: s, h };
 }
 const label = (x, y, s, o = {}) => t(x, y, esc(s), o);
+// One row of header cards across a given x-range; returns {svg, h}
+function cardRow(y, cards, o = {}) {
+  const x0 = o.x ?? 30, W = o.w ?? 840, gap = o.gap ?? 16, n = cards.length, cw = (W - gap * (n - 1)) / n, size = o.size || 16, hs = o.headSize || 19;
+  const hh = Math.max(...cards.map((c) => headH(cw, c.head, hs)));
+  const bodies = cards.map((c) => (c.sub ? para(0, 0, cw - 28, c.sub, { size, weight: 600 }).h + 6 : 0) + block(0, 0, cw - 28, c.body, { size }).h);
+  const ch = hh + Math.max(...bodies) + 34; let s = '';
+  cards.forEach((c, i) => {
+    const x = x0 + i * (cw + gap);
+    s += headPanel(x, y, cw, ch, c.head, { fill: c.fill || C.teal, hh, size: hs }).svg;
+    let yy = y + hh + 16 + size * 0.95;
+    if (c.sub) { const sp = para(x + 14, yy, cw - 28, c.sub, { size, fill: C.tealDark, weight: 600 }); s += sp.svg; yy += sp.h + 6; }
+    s += block(x + 14, yy, cw - 28, c.body, { size, dot: c.dot }).svg;
+  });
+  return { svg: s, h: ch };
+}
 // ---- end helpers ----
 
 // 01 Optimistic vs pessimistic views of globalisation and life chances
@@ -211,8 +226,8 @@ add('01-life-chances-debate',
   ];
   let y = 108, s = '';
   for (const [h, b, f] of items) {
-    const bp = para(0, 0, 360, b, { size: 16 });
-    const hgt = 50 + bp.h + 4;
+    const bp = para(0, 0, 350, b, { size: 16 });
+    const hgt = 50 + bp.h + 10;
     s += `<rect x="480" y="${y}" width="390" height="${hgt}" rx="12" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>` +
       `<rect x="480" y="${y}" width="12" height="${hgt}" rx="4" fill="${f === C.cream ? C.mustard : C.tealDark}"/>` +
       label(506, y + 32, h, { size: 19, weight: 700 }) + para(506, y + 57, 350, b, { size: 16 }).svg;

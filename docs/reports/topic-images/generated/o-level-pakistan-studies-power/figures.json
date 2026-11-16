@@ -1,0 +1,56 @@
+[
+ {
+  "file": "o-level-pakistan-studies-power--01-coal-mining-methods.webp",
+  "width": 900,
+  "height": 948,
+  "after": "## How is each fuel extracted?",
+  "alt": "Three cross-sections. Open cast: overburden is stripped in benches to reach a seam near the surface, with a spoil heap beside the pit (Thar Block II). Adit: a near-horizontal tunnel enters a hillside where the seam outcrops, sloping out for drainage (Duki, Sor Range). Shaft: headgear over a vertical shaft leads to galleries in a deep seam, with a ventilation shaft.",
+  "caption": "Depth and terrain decide the method: open cast near the surface, adit into hills, shaft for deep seams.",
+  "bytes": 101560
+ },
+ {
+  "file": "o-level-pakistan-studies-power--02-oil-gas-trap.webp",
+  "width": 900,
+  "height": 744,
+  "after": "## How is each fuel extracted?",
+  "alt": "A cross-section of an anticline. Under an arch of impermeable cap rock, gas lies above oil, which lies above water. A drilling rig at the surface sends a well down into the trap, and the fuel flows up under pressure or is pumped.",
+  "caption": "Gas floats above oil, oil above water, all sealed under impermeable cap rock.",
+  "bytes": 95534
+ },
+ {
+  "file": "o-level-pakistan-studies-power--03-fuel-journeys.webp",
+  "width": 900,
+  "height": 836,
+  "after": "## What are Pakistan's non-renewable resources, and how long will they last?",
+  "alt": "Three rows trace each fuel. Coal: Thar lignite is burned in mine-mouth power stations, while imported coal lands at Port Qasim and Karachi and moves by rail and lorry to steel and cement. Gas: fields feed the Sui Southern and Sui Northern pipelines, and places off the network rely on LPG cylinders by road. Oil: imports arrive by tanker at Port Qasim and move by the White Oil Pipeline, rail tank wagons and road tankers.",
+  "caption": "Bulky lignite is used at the mine; imported coal and oil move from the port inland.",
+  "bytes": 108744
+ },
+ {
+  "file": "o-level-pakistan-studies-power--04-electricity-mix.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## How is electricity generated in Pakistan?",
+  "alt": "Installed capacity was about 42,000 MW in March 2024 from four kinds of station: thermal (oil, gas, LNG and coal, such as Sahiwal and Port Qasim), nuclear (Chashma and K-2 and K-3 at Karachi), hydel (Tarbela, Mangla, Warsak and run-of-river schemes) and wind and solar (the Jhimpir–Gharo corridor and rooftop panels).",
+  "caption": "Two kinds of station burn finite fuel; two use renewable flows.",
+  "bytes": 117386
+ },
+ {
+  "file": "o-level-pakistan-studies-power--05-hydel-site.webp",
+  "width": 900,
+  "height": 692,
+  "after": "## What makes a good site for a multi-purpose hydel scheme?",
+  "alt": "A long profile of a river: snowmelt and monsoon rain fill a reservoir in a wide valley upstream, held by a dam in a narrow gorge of strong, impermeable rock; downstream the scheme supplies power, irrigation water and flood control. Boxes list the physical and human factors that favour a site.",
+  "caption": "A narrow gorge, a wide valley behind it and a reliable flow make the best hydel site.",
+  "bytes": 129524
+ },
+ {
+  "file": "o-level-pakistan-studies-power--06-unreliable-supply.webp",
+  "width": 900,
+  "height": 626,
+  "after": "## Why is electricity supply still unreliable?",
+  "alt": "A schematic bar shows actual supply falling short of installed capacity. Five causes are listed: rising demand, costly imported fuel, low winter rivers, losses and unpaid bills (circular debt) and distance from the grid. Below, micro-hydel in Chitral and Gilgit-Baltistan and solar home systems in Balochistan and Thar are shown as small-scale solutions.",
+  "caption": "Capacity is not supply: fuel costs, low rivers and losses leave a shortfall.",
+  "bytes": 109430
+ }
+]

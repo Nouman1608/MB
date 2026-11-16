@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- Local layout helpers (sociology figures: wrapped text, tables, flows, cards) ----
 const esc = (s) => String(s).replace(/&(?![a-z]+;|#\d+;)/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const CW = 0.515, CWB = 0.56; // average glyph width / font size for Inter (regular, bold)
+const CW = 0.505, CWB = 0.555; // average glyph width / font size for Inter (regular, bold)
 function wrap(s, maxPx, size = 17, bold = false) {
   const maxCh = Math.floor(maxPx / (size * (bold ? CWB : CW)));
   const lines = [''];
@@ -159,9 +159,9 @@ function hchain(y, items, o = {}) {
   items.forEach((it, i) => {
     const x = 30 + i * (w + ag);
     s += `<rect x="${x}" y="${y}" width="${w}" height="${h}" rx="12" fill="${it.fill || C.panel}" stroke="${it.edge || C.ink}" stroke-width="2.5"/>`;
-    let yy = y + 20 + 18 * 0.85;
+    let yy = y + (h - hs[i]) / 2 + 18 * 0.85;
     if (it.head) { const hp = para(x + w / 2, yy, w - 24, it.head, { size: 18, weight: 700, anchor: 'middle' }); s += hp.svg; yy += hp.h + 6; }
-    if (it.body) s += para(x + w / 2, yy, w - 24, it.body, { size, anchor: 'middle', fill: it.head ? C.muted : C.ink }).svg;
+    if (it.body) s += para(x + w / 2, yy, w - 24, it.body, { size, anchor: 'middle', fill: it.head && (!it.fill || it.fill === C.panel) ? C.muted : C.ink }).svg;
     if (i < n - 1 && o.arrows !== false) s += arrow(x + w + 4, y + h / 2, x + w + ag - 4, y + h / 2, { w: 3.5 });
   });
   return { svg: s, h };

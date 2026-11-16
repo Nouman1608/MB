@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-myp-design-criteria-in-practice--01-four-criteria-scale.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Where this fits in the subject",
+  "alt": "Four equally weighted criteria: A inquiring and analysing, B developing ideas, C creating the solution and D evaluating. Each is scored from 0 to 8, with levels 1 to 8 in four descriptor bands and level 0 for work below level 1. Design is assessed through an ePortfolio presented as a complete design folder.",
+  "caption": "Every criterion is worth the same and is marked on the same 0–8 scale.",
+  "bytes": 99710
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--02-what-a-moderator-sees.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Where this fits in the subject",
+  "alt": "Left: a complete design folder with inquiry, specification, planning and process, and testing sections, one for each criterion, plus a prototype photograph. Right: a prototype photograph on its own gives no basis to mark criteria A, B or D and cannot reach the top band for C without a process log.",
+  "caption": "The documentation at each stage is the evidence; the prototype alone is not.",
+  "bytes": 92454
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--03-criterion-a-investigate-first.webp",
+  "width": 900,
+  "height": 750,
+  "after": "## Criterion A: Inquiring and analysing",
+  "alt": "For a task to reduce food waste in a school canteen, a lower-band response goes straight from the task to a design brief. A top-band response first surveys students and staff, observes canteen practices and researches existing solutions, builds an evidenced analysis of the audience’s need, and only then writes the brief.",
+  "caption": "The design brief should come after the evidence, not before it.",
+  "bytes": 91390
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--04-criterion-b-compare-ideas.webp",
+  "width": 900,
+  "height": 820,
+  "after": "## Criterion B: Developing ideas",
+  "alt": "A testable specification with criteria such as cost, materials and target-audience appeal sits above a grid in which three different ideas are each judged against every criterion. The chosen idea is presented with reasons why it beats the rejected alternatives; presenting only one idea makes comparison impossible.",
+  "caption": "Top-band development compares several ideas against the specification and justifies the choice.",
+  "bytes": 91506
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--05-criterion-c-process-log.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Criterion C: Creating the solution",
+  "alt": "Five planned steps are followed in order. At step 3 a material is substituted because of availability, and the log records why the change was made and how it affected the following steps, along with how time, resources and risks were managed. A finished prototype with no process record stays out of the top band.",
+  "caption": "Criterion C rewards the documented process as much as the prototype.",
+  "bytes": 103586
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--06-criterion-d-test-each-point.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Criterion D: Evaluating",
+  "alt": "A vague claim that the prototype was successful is rejected. Instead, each specification point gets a measurable test, an honestly reported result and a specific improvement; for the canteen, reducing food waste by a target amount is tested by measuring waste over a trial period. The evaluation ends with the solution’s impact on its client or audience.",
+  "caption": "Evaluate point by point against the original specification, not with a general verdict.",
+  "bytes": 102188
+ },
+ {
+  "file": "ib-myp-design-criteria-in-practice--07-design-cycle-criteria-map.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## How to approach it",
+  "alt": "The design cycle runs clockwise through four stages, each mapped to a criterion: inquiring and analysing (the problem stage, A), developing ideas (the specification stage, B), creating the solution (the build stage, C) and evaluating (the test stage, D). At the centre: document as you work, not afterwards.",
+  "caption": "Moving through the cycle in order structures evidence for all four criteria, if each stage is documented.",
+  "bytes": 79314
+ }
+]

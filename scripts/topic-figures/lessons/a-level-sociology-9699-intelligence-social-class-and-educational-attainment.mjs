@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- Local layout helpers (sociology figures: wrapped text, tables, flows, cards) ----
 const esc = (s) => String(s).replace(/&(?![a-z]+;|#\d+;)/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const CW = 0.495, CWB = 0.55; // average glyph width / font size for Inter (regular, bold)
+const CW = 0.505, CWB = 0.555; // average glyph width / font size for Inter (regular, bold)
 function wrap(s, maxPx, size = 17, bold = false) {
   const maxCh = Math.floor(maxPx / (size * (bold ? CWB : CW)));
   const lines = [''];
@@ -270,16 +270,16 @@ add('04-material-factors',
   const inner = codes.slice(codes.indexOf('</text>', codes.indexOf('font-size="31"')) + 7, codes.lastIndexOf('</svg>'));
   const hh = Number(/viewBox="0 0 900 (\d+)"/.exec(codes)[1]) - 24;
   let s = label(30, 128, 'Bernstein (1971): speech codes', { size: 19, weight: 700, fill: C.tealDark }) + inner +
-    label(30, hh + 6, 'Not inferior: Bernstein denied offering a deficit account.', { size: 16, italic: true, fill: C.muted });
-  const y2 = hh + 40;
-  const L = headPanel(30, y2, 404, 290, 'Cultural deprivation', { fill: C.cream, size: 20 });
-  const R = headPanel(466, y2, 404, 290, 'Cultural capital', { fill: C.teal, size: 20 });
+    label(30, hh + 16, 'Not inferior: Bernstein denied offering a deficit account.', { size: 16, italic: true, fill: C.muted });
+  const y2 = hh + 46;
+  const L = headPanel(30, y2, 404, 264, 'Cultural deprivation', { fill: C.cream, size: 20 });
+  const R = headPanel(466, y2, 404, 264, 'Cultural capital', { fill: C.teal, size: 20 });
   s += L.svg + R.svg + label(232, y2 + L.hh + 30, 'the home lacks something', { size: 17, anchor: 'middle', weight: 700, fill: C.olive }) + label(668, y2 + R.hh + 30, 'the school rewards one class’s culture', { size: 17, anchor: 'middle', weight: 700, fill: C.tealDark }) +
     bullets(50, y2 + L.hh + 64, 366, ['**Douglas (1964):** parental attitudes', '**Hyman; Sugarman:** values such as immediate gratification', '**Keddie (1973):** different, not deprived'], { size: 16, gap: 8 }).svg +
     bullets(486, y2 + R.hh + 64, 366, ['**Bourdieu and Passeron:** middle-class culture rewarded as if natural ability', '**Lareau (2003):** concerted cultivation versus natural growth', '**Sullivan (2001):** a direct class effect remained'], { size: 16, gap: 8 }).svg +
-    `<circle cx="450" cy="${y2 + 145}" r="24" fill="${C.ink}"/>` + label(450, y2 + 152, 'vs', { size: 19, weight: 700, fill: '#ffffff', anchor: 'middle' });
+    `<circle cx="450" cy="${y2 + 123}" r="24" fill="${C.ink}"/>` + label(450, y2 + 130, 'vs', { size: 19, weight: 700, fill: '#ffffff', anchor: 'middle' });
   add('05-cultural-explanations',
-    svg(900, y2 + 316, 'Cultural explanations of class differences', s),
+    svg(900, y2 + 290, 'Cultural explanations of class differences', s),
     'Top: Bernstein’s restricted code is short and context-bound, while the elaborated code is explicit and used by schools; he denied the restricted code was inferior. Below: cultural deprivation says the home lacks something (Douglas, Hyman, Sugarman, with Keddie’s criticism); cultural capital says the school rewards one class’s culture (Bourdieu, Lareau, Sullivan).',
     'Cultural deprivation blames the home; cultural capital points at what the school rewards.',
     '## 6.2 Cultural explanations');
@@ -303,20 +303,20 @@ add('06-labelling',
 
 // 07 Compensatory education timeline + Perry result
 {
-  const ev = [[1962, 'Perry Preschool', '1962–1967, Michigan'], [1965, 'Head Start', 'USA, War on Poverty'], [1967, 'Plowden Report', '“positive discrimination”'], [1998, 'Sure Start; EAZs', 'England and Wales'], [2011, 'Pupil Premium', 'money per pupil']];
+  const ev = [[1962, 'Perry Preschool', '1962–1967, Michigan'], [1965, 'Head Start (1965)', 'USA, War on Poverty'], [1967, 'Plowden Report (1967)', '“positive discrimination”'], [1998, 'Sure Start; Education Action Zones (1998)', 'England and Wales'], [2011, 'Pupil Premium (2011)', 'money per disadvantaged pupil']];
   const x0 = 90, x1 = 810, sc = (y) => x0 + ((y - 1962) / (2011 - 1962)) * (x1 - x0);
-  const ly = 250;
+  const ly = 278;
   let s = `<line x1="50" y1="${ly}" x2="850" y2="${ly}" stroke="${C.ink}" stroke-width="4"/>`;
-  const bx = [30, 205, 380, 555, 730];
+  const bx = [30, 202, 374, 546, 718], BW = 150, BH = 128;
   ev.forEach(([yr, h, b], i) => {
     const x = sc(yr), up = i % 2 === 0;
     const by = up ? 108 : ly + 36;
-    s += `<line x1="${bx[i] + 70}" y1="${up ? by + 84 : by}" x2="${x}" y2="${up ? ly - 12 : ly + 12}" stroke="${C.ink}" stroke-width="2"/>`;
-    s += `<rect x="${bx[i]}" y="${by}" width="140" height="84" rx="10" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>` + para(bx[i] + 70, by + 28, 128, h, { size: 16, weight: 700, anchor: 'middle' }).svg + para(bx[i] + 70, by + 28 + para(0, 0, 128, h, { size: 16, weight: 700 }).h, 128, b, { size: 15, anchor: 'middle', fill: C.muted }).svg;
+    s += `<line x1="${bx[i] + BW / 2}" y1="${up ? by + BH : by}" x2="${x}" y2="${up ? ly - 12 : ly + 12}" stroke="${C.ink}" stroke-width="2"/>`;
+    s += `<rect x="${bx[i]}" y="${by}" width="${BW}" height="${BH}" rx="10" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>` + para(bx[i] + BW / 2, by + 28, BW - 14, h, { size: 16, weight: 700, anchor: 'middle' }).svg + para(bx[i] + BW / 2, by + 28 + para(0, 0, BW - 14, h, { size: 16, weight: 700 }).h, BW - 14, b, { size: 15, anchor: 'middle', fill: C.muted }).svg;
     s += `<circle cx="${x}" cy="${ly}" r="10" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`;
   });
   // Perry bars
-  const by0 = 410, bh = 200, base = by0 + bh;
+  const by0 = 500, bh = 176, base = by0 + bh;
   s += label(30, by0 - 10, 'Perry Preschool: graduated high school by age 19', { size: 19, weight: 700, fill: C.tealDark });
   [['Pre-school group', 67, C.teal], ['Control group', 49, C.cream]].forEach(([n, v, f], i) => {
     const w = (v / 100) * 560, y = by0 + 20 + i * 80;

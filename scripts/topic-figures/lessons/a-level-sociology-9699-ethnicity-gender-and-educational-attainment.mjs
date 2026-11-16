@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- Local layout helpers (sociology figures: wrapped text, tables, flows, cards) ----
 const esc = (s) => String(s).replace(/&(?![a-z]+;|#\d+;)/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-const CW = 0.495, CWB = 0.55; // average glyph width / font size for Inter (regular, bold)
+const CW = 0.505, CWB = 0.555; // average glyph width / font size for Inter (regular, bold)
 function wrap(s, maxPx, size = 17, bold = false) {
   const maxCh = Math.floor(maxPx / (size * (bold ? CWB : CW)));
   const lines = [''];

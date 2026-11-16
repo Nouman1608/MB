@@ -317,28 +317,28 @@ add('02-globalisation-perspectives',
   'Informed experts disagree about globalisation, so present each view fairly before judging.',
   '## Different perspectives and why people hold them');
 
-// 03 Causes and consequences timeline
-{
-  const Y = 130, ly = Y + 190;
-  let b = `<line x1="50" y1="${ly}" x2="860" y2="${ly}" stroke="${C.ink}" stroke-width="4" marker-end="url(#ah)"/>`;
-  b += T(50, Y - 2, 'CAUSES', { size: 17, weight: 700, fill: C.olive }) + T(50, ly + 52, 'CONSEQUENCES', { size: 17, weight: 700, fill: C.tealDark });
-  const up = [[130, '1956', 'First container ship voyage', 'McLean’s Ideal X: moving goods by sea got far cheaper'], [420, '1995', 'World Trade Organization begins', 'Sets and oversees trade rules'], [700, '', 'Digital communication', 'Firms manage teams and suppliers in many countries at once']];
-  up.forEach(([x, yr, a, d]) => {
-    const c = card(x - 115, Y + 10, 230, { kicker: yr || 'INTERNET', kfill: C.olive, title: a, body: d, tsize: 16, size: 15, pad: 12, fill: C.cream, edge: C.olive, minH: 150 });
-    b += c.s + `<line x1="${x}" y1="${Y + 160}" x2="${x}" y2="${ly - 10}" stroke="${C.olive}" stroke-width="2.5"/><circle cx="${x}" cy="${ly}" r="10" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
-  });
-  const dn = [[300, '2020–2021', 'Worldwide chip shortage', 'Chips are made in few places; car makers cut production'], [640, 'MARCH 2021', 'Ever Given blocks Suez Canal', 'Six days of delays for goods for many countries']];
-  dn.forEach(([x, yr, a, d]) => {
-    b += `<line x1="${x}" y1="${ly + 10}" x2="${x}" y2="${ly + 70}" stroke="${C.tealDark}" stroke-width="2.5"/><circle cx="${x}" cy="${ly}" r="10" fill="${C.teal}" stroke="${C.ink}" stroke-width="3"/>`;
-    b += card(x - 140, ly + 70, 280, { kicker: yr, title: a, body: d, tsize: 17, size: 15, pad: 12, fill: C.tealLight, edge: C.tealDark, minH: 130 }).s;
-  });
-  b += note(ly + 222, 'One dramatic event shows that a risk exists, not how often it happens. Use it as an example, not proof of a trend.', { title: 'Evaluation point' }).s;
-  add('03-causes-consequences-timeline',
-    svg(900, ly + 222 + 112, 'What drove globalisation, and what it risks', b),
-    'A timeline with causes above: the first container ship voyage (Ideal X, 1956), the start of the World Trade Organization (1995) and digital communication. Consequences below: a worldwide chip shortage in 2020 and 2021 that cut car production, and the Ever Given blocking the Suez Canal for six days in March 2021.',
-    'Cheaper shipping, trade rules and the internet linked the world, but long supply chains can be fragile.',
-    '## Causes and consequences');
-}
+// 03 Causes and consequences
+add('03-causes-consequences',
+  compose('What drove globalisation, and what it risks', [
+    (y) => label(y, 'Causes', { size: 19, fill: C.olive }),
+    (y) => row(y, [
+      { kicker: '1956', kfill: C.olive, title: 'Container shipping', body: 'McLean’s Ideal X sails; moving goods across oceans gets far cheaper.', fill: C.cream, edge: C.olive },
+      { kicker: '1 JANUARY 1995', kfill: C.olive, title: 'World Trade Organization', body: 'Sets and oversees rules for trade between members.', fill: C.cream, edge: C.olive },
+      { kicker: 'THE INTERNET', kfill: C.olive, title: 'Digital communication', body: 'Firms manage teams and suppliers in many countries at once.', fill: C.cream, edge: C.olive },
+    ], { card: { tsize: 18, size: 16 } }),
+    (y) => ({ s: [165, 450, 735].map((x) => `<line x1="${x}" y1="${y - 16}" x2="450" y2="${y + 26}" stroke="${C.ink}" stroke-width="3"/>`).join('') + arrow(450, y + 26, 450, y + 46, { w: 3.5 }), h: 46 }),
+    (y) => card(230, y, 440, { title: 'Long supply chains across many countries', align: 'middle', fill: C.mustard, edge: C.ink, tsize: 19 }),
+    (y) => ({ s: arrow(450, y - 14, 240, y + 22, { w: 3.5 }) + arrow(450, y - 14, 660, y + 22, { w: 3.5 }), h: 22 }),
+    (y) => label(y - 4, 'Consequences', { size: 19, fill: C.tealDark }),
+    (y) => row(y - 8, [
+      { kicker: '2020–2021', title: 'Worldwide shortage of computer chips', body: 'Chips are made in a few places; many car makers cut production.', fill: C.tealLight, edge: C.tealDark },
+      { kicker: 'MARCH 2021', title: 'Ever Given blocks the Suez Canal', body: 'Six days, delaying goods for many countries.', fill: C.tealLight, edge: C.tealDark },
+    ], { gap: 24, card: { tsize: 18, size: 16 } }),
+    (y) => note(y - 8, 'One dramatic event shows that a risk exists, not how often it happens. Use it as an example, not proof of a trend.', { title: 'Evaluation point' }),
+  ]),
+  'Three causes, container shipping from 1956, the World Trade Organization from 1995 and digital communication, lead to long supply chains across many countries. Two consequences follow: a worldwide computer chip shortage in 2020 and 2021 that cut car production, and the Ever Given blocking the Suez Canal for six days in March 2021.',
+  'Cheaper shipping, trade rules and the internet linked the world, but long supply chains can be fragile.',
+  '## Causes and consequences');
 
 // 04 Pellmoor shopkeepers
 {
@@ -347,13 +347,13 @@ add('02-globalisation-perspectives',
   const dy = Y + 120;
   for (let i = 0; i < 50; i++) { const r = Math.floor(i / 25), c = i % 25; b += `<circle cx="${62 + c * 32}" cy="${dy + 16 + r * 32}" r="12" fill="${i < 31 ? C.mustard : C.panel}" stroke="${C.ink}" stroke-width="2"/>`; }
   b += T(450, dy + 92, '31 of 50 (62%) said so: what people believe, not closures that were checked', { size: 17, weight: 600, anchor: 'middle' });
-  b += row(dy + 116, [
+  const rw = row(dy + 116, [
     { kicker: 'SOME VALUE', title: 'Direct experience', body: 'Shopkeepers have seen the high street change themselves.', edge: C.tealDark },
     { kicker: 'WEAKNESSES', kfill: C.rust, title: 'Small, interested, unchecked', body: ['50 people in one town', 'Shopkeepers compete with the supermarket: a vested interest', 'Beliefs, not verified closures'], bullets: true, edge: C.rust },
-  ], { gap: 24, card: { tsize: 19, size: 16 } }).s;
-  b += note(dy + 330, '“Global chains destroy local business everywhere” is a generalisation the evidence cannot support.', { title: 'Judgement' }).s;
+  ], { gap: 24, card: { tsize: 19, size: 16 } });
+  b += rw.s + note(dy + 116 + rw.h + 18, '“Global chains destroy local business everywhere” is a generalisation the evidence cannot support.', { title: 'Judgement' }).s;
   add('04-pellmoor-shopkeepers',
-    svg(900, dy + 330 + 110, 'What 31 shopkeepers can and cannot prove', b),
+    svg(900, dy + 116 + rw.h + 18 + 112, 'What 31 shopkeepers can and cannot prove', b),
     'Fifty dots, 31 highlighted, show that 31 of 50 Pellmoor shopkeepers said a global supermarket forced a neighbour to close. The evidence has value as direct experience but is a small sample from one town, from people with a vested interest, reporting beliefs not checked closures; the general conclusion is an unsupported generalisation.',
     'A belief reported by a small, interested group cannot prove a general claim.',
     '## Judging sources and evidence');
