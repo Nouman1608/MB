@@ -100,7 +100,7 @@ These questions follow sections 3.2.9 and 3.2.10 of the OxfordAQA International 
 **(b)** k = F/ΔL = 8 / 0.020 [1] = **400 N m⁻¹ [1]**.
 *Examiner insight:* Support "proportional" with a calculated ratio, and convert millimetres to metres.
 
-**3. (a)** A = π × (3.0 × 10⁻³)² = 2.83 × 10⁻⁵ m² [1]; stress = 21 × 10³ / 2.83 × 10⁻⁵ = **7.4 × 10⁸ Pa [1]**.
+**3. (a)** A = π × (3.0 × 10⁻³)² = 2.83 × 10⁻⁵ m² [1]; stress = 21 × 10³ / (2.83 × 10⁻⁵) = **7.4 × 10⁸ Pa [1]**.
 **(b)** A = π × (4.5 × 10⁻³)² = 6.36 × 10⁻⁵ m² [1]; F = 7.43 × 10⁸ × 6.36 × 10⁻⁵ = **4.7 × 10⁴ N [1]**.
 *Examiner insight:* Breaking stress belongs to the material, so reuse the part (a) value. Using the diameter as the radius affects both parts.
 
@@ -122,7 +122,7 @@ These questions follow sections 3.2.9 and 3.2.10 of the OxfordAQA International 
 **(c)** Gravitational potential energy gained = 0.025 × 9.81 × 1.40 = 0.343 J [1]; dissipated = 0.425 − 0.343 = **0.082 J [1]**.
 *Examiner insight:* Write the energy equation in words first; it shows that the height is measured from the release position.
 
-**8.** A = π × (0.23 × 10⁻³)² = 1.66 × 10⁻⁷ m² [1]; stress = 28 / 1.66 × 10⁻⁷ = 1.68 × 10⁸ Pa [1]; strain = 3.4 × 10⁻³ / 2.20 = 1.55 × 10⁻³ [1]; E = 1.68 × 10⁸ / 1.55 × 10⁻³ = **1.09 × 10¹¹ Pa [1]**; energy = ½ × 28 × 3.4 × 10⁻³ = **0.048 J [1]**.
+**8.** A = π × (0.23 × 10⁻³)² = 1.66 × 10⁻⁷ m² [1]; stress = 28 / (1.66 × 10⁻⁷) = 1.68 × 10⁸ Pa [1]; strain = 3.4 × 10⁻³ / 2.20 = 1.55 × 10⁻³ [1]; E = 1.68 × 10⁸ / (1.55 × 10⁻³) = **1.09 × 10¹¹ Pa [1]**; energy = ½ × 28 × 3.4 × 10⁻³ = **0.048 J [1]**.
 *Examiner insight:* Show stress and strain separately: one long substitution leaves no partial working to credit if a number is entered wrongly.
 
 **9. (a)** Area of B is four times that of A, so stress ratio B : A = **1 : 4 [1]**.

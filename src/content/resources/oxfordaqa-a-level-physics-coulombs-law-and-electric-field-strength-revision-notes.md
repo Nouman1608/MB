@@ -142,13 +142,13 @@ The separation cancels, so the ratio is the same at every distance. Gravity is n
 
 ## Worked reminders
 
-**Coulomb force.** Charges +1.5 μC and +2.5 μC are 0.20 m apart in air. F = (1.5 × 10⁻⁶ × 2.5 × 10⁻⁶) / (4π × 8.85 × 10⁻¹² × 0.20²) = 3.75 × 10⁻¹² / 4.45 × 10⁻¹² = **0.84 N**, repulsive.
+**Coulomb force.** Charges +1.5 μC and +2.5 μC are 0.20 m apart in air. F = (1.5 × 10⁻⁶ × 2.5 × 10⁻⁶) / (4π × 8.85 × 10⁻¹² × 0.20²) = 3.75 × 10⁻¹² / (4.45 × 10⁻¹²) = **0.84 N**, repulsive.
 
 **Radial field and force.** A sphere carries +24 nC. At 0.40 m from its centre, E = 24 × 10⁻⁹ / (4π × 8.85 × 10⁻¹² × 0.40²) = **1.3 × 10³ N C⁻¹**, directed away from the sphere. A −2.0 nC charge there feels F = QE = **2.7 × 10⁻⁶ N**, towards the sphere. At 0.10 m the field would be (0.40/0.10)² = 16 times greater.
 
 **Deflection.** A singly charged ion (mass 3.2 × 10⁻²⁶ kg) enters plates 4.0 cm long and 1.0 cm apart at 2.5 × 10⁵ m s⁻¹, at right angles to the field. The p.d. is 200 V.
 
-E = 200/0.010 = 2.0 × 10⁴ V m⁻¹. F = 1.60 × 10⁻¹⁹ × 2.0 × 10⁴ = 3.2 × 10⁻¹⁵ N. a = F/m = 1.0 × 10¹¹ m s⁻². t = 0.040 / 2.5 × 10⁵ = 1.6 × 10⁻⁷ s. y = ½at² = **1.3 mm**. v_y = at = 1.6 × 10⁴ m s⁻¹, so the angle is tan⁻¹(1.6 × 10⁴ / 2.5 × 10⁵) = **3.7°**.
+E = 200/0.010 = 2.0 × 10⁴ V m⁻¹. F = 1.60 × 10⁻¹⁹ × 2.0 × 10⁴ = 3.2 × 10⁻¹⁵ N. a = F/m = 1.0 × 10¹¹ m s⁻². t = 0.040 / (2.5 × 10⁵) = 1.6 × 10⁻⁷ s. y = ½at² = **1.3 mm**. v_y = at = 1.6 × 10⁴ m s⁻¹, so the angle is tan⁻¹(1.6 × 10⁴ / 2.5 × 10⁵) = **3.7°**.
 
 ## Wording that earns credit
 
@@ -173,12 +173,12 @@ E = 200/0.010 = 2.0 × 10⁴ V m⁻¹. F = 1.60 × 10⁻¹⁹ × 2.0 × 10⁴ = 
 ### Answers
 
 1. The force between two point charges is proportional to the product of the charges and inversely proportional to the square of their separation. It acts along the line joining them.
-2. F = 3.75 × 10⁻¹² / (4π × 8.85 × 10⁻¹² × 0.10²) = 3.75 × 10⁻¹² / 1.112 × 10⁻¹² = **3.4 N**.
+2. F = 3.75 × 10⁻¹² / (4π × 8.85 × 10⁻¹² × 0.10²) = 3.75 × 10⁻¹² / (1.112 × 10⁻¹²) = **3.4 N**.
 3. F ∝ 1/r², so halving r multiplies F by **4**.
 4. Force per unit positive charge, E = F/Q. Units: **N C⁻¹ and V m⁻¹**.
 5. E = 9.0 × 10⁻⁹ / (4π × 8.85 × 10⁻¹² × 0.15²) = **3.6 × 10³ N C⁻¹**.
 6. E = 900/0.012 = **7.5 × 10⁴ V m⁻¹**.
-7. F = eE = 1.60 × 10⁻¹⁹ × 1.5 × 10⁴ = 2.4 × 10⁻¹⁵ N. a = F/m = 2.4 × 10⁻¹⁵ / 9.11 × 10⁻³¹ = **2.6 × 10¹⁵ m s⁻²**, opposite to the field.
+7. F = eE = 1.60 × 10⁻¹⁹ × 1.5 × 10⁴ = 2.4 × 10⁻¹⁵ N. a = F/m = 2.4 × 10⁻¹⁵ / (9.11 × 10⁻³¹) = **2.6 × 10¹⁵ m s⁻²**, opposite to the field.
 8. E ∝ 1/r², so E falls to **1/16**.
 9. Its weight is mg = 8.9 × 10⁻³⁰ N, which is far smaller than the electric force of 2.4 × 10⁻¹⁵ N.
 10. A **parabola**, then a straight line after it leaves the field.

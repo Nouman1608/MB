@@ -230,7 +230,7 @@ Electrical energy = 1500 × 3.0 × 3600 = 1.62 × 10⁷ J.
 
 Fuel energy needed = 1.62 × 10⁷ / 0.28 = 5.79 × 10⁷ J.
 
-Volume = 5.79 × 10⁷ / 3.6 × 10⁷ = 1.6 litres.
+Volume = 5.79 × 10⁷ / (3.6 × 10⁷) = 1.6 litres.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--09-fuel-energy-density.webp" width="900" height="1040" alt="A 28% efficient generator supplies 1.5 kW for 3.0 h, needing 1.62 x 10^7 J of electrical energy. A Sankey diagram shows 57.9 MJ of fuel energy giving 16.2 MJ useful. Dividing by 36 MJ per litre gives 1.6 litres." loading="lazy">

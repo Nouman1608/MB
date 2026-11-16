@@ -63,7 +63,7 @@ For a negative multiplier the same stretch is followed by a reflection: in the x
 
 **Order matters when two transformations act on the same axis.** Build the new equation by applying each change to the equation you already have. Starting with y = f(x):
 
-```
+```text
 stretch y by 3, then translate up 2:   y = 3f(x) + 2
 translate up 2, then stretch y by 3:   y = 3(f(x) + 2) = 3f(x) + 6
 ```
@@ -122,7 +122,7 @@ So (3x + 1) is a factor. Dividing gives g(x) = (3x + 1)(x² + x − 6) = (3x + 1
 
 **Example 6 (finding constants).** f(x) = 2x³ + px² + qx − 6. Given that (2x − 3) is a factor and that the remainder on division by (x + 1) is −5, find p and q.
 
-```
+```text
 f(3/2) = 0:  27/4 + 9p/4 + 3q/2 − 6 = 0   →   3p + 2q = −1
 f(−1) = −5:  −2 + p − q − 6 = −5          →   p − q = 3
 ```
@@ -206,7 +206,7 @@ f(x) = (divisor) × (quotient) + (remainder)
 
 **By formal division.** Divide 6x³ − 5x² − 14x + 9 by (2x − 3).
 
-```
+```text
             3x² + 2x − 4
          ┌───────────────────────
 2x − 3   │ 6x³ − 5x² − 14x + 9

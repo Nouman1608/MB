@@ -186,7 +186,7 @@ d = 1 / (750 × 10³) = 1.333 × 10⁻⁶ m
 
 λ = d sin θ / n = (1.333 × 10⁻⁶ × sin 39.0°) / 2 = **4.2 × 10⁻⁷ m** (420 nm)
 
-Highest order: d/λ = 1.333 × 10⁻⁶ / 4.2 × 10⁻⁷ ≈ 3.2, so **3**.
+Highest order: d/λ = 1.333 × 10⁻⁶ / (4.2 × 10⁻⁷) ≈ 3.2, so **3**.
 
 **Procedure.** Shine a laser through the grating at normal incidence onto a screen a distance L away. Measure the distance y from the central maximum to the order n spot. Then tan θ = y/L gives θ, and λ = d sin θ / n. For a grating, θ is large, so do not replace sin θ with tan θ. Averaging the angles on the left and right of the centre reduces error.
 

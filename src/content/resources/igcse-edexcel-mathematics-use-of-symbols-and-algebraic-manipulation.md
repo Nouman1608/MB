@@ -121,7 +121,7 @@ factorising will surface here even if 2.2B itself feels secure. Revise
 
 Write 2x² + 6x − 1 in the form a(x + b)² + c.
 
-```
+```text
 2x^2 + 6x - 1
 = 2(x^2 + 3x) - 1              [factor out the coefficient of x^2]
 = 2[(x + 1.5)^2 - 2.25] - 1    [complete the square inside the bracket]
@@ -173,7 +173,7 @@ above.
 
 Express (3x + 1)/(x + 2) − (x − 2)/(x − 1) as a single fraction.
 
-```
+```text
 Common denominator: (x + 2)(x - 1)
 
 (3x + 1)(x - 1) - (x - 2)(x + 2)

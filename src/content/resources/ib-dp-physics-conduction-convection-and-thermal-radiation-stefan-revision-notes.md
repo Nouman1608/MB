@@ -134,7 +134,7 @@ It needs a fluid and cannot occur in a solid. It needs the heating to be below t
 
 **Brightness reminder.** A source of L = 1.0 × 10²⁷ W is 5.0 × 10¹⁷ m away. Then b = 1.0 × 10²⁷ / (4π × (5.0 × 10¹⁷)²) = 3.2 × 10⁻¹⁰ W m⁻². Moving it to twice the distance gives a quarter of this value, 8.0 × 10⁻¹¹ W m⁻².
 
-**Chain reminder.** A star peaks at 600 nm and has radius 1.0 × 10⁹ m. Wien: T = 2.9 × 10⁻³ / 600 × 10⁻⁹ = 4.8 × 10³ K. Then A = 4π × (1.0 × 10⁹)² = 1.26 × 10¹⁹ m² and L = σAT⁴ = 3.9 × 10²⁶ W, which is about 1.0 L⊙.
+**Chain reminder.** A star peaks at 600 nm and has radius 1.0 × 10⁹ m. Wien: T = 2.9 × 10⁻³ / (600 × 10⁻⁹) = 4.8 × 10³ K. Then A = 4π × (1.0 × 10⁹)² = 1.26 × 10¹⁹ m² and L = σAT⁴ = 3.9 × 10²⁶ W, which is about 1.0 L⊙.
 
 **Reading a spectrum graph.** Check which axis is wavelength and which is intensity. Compare peak positions to rank temperatures: the peak further to the left belongs to the hotter body. Compare heights or areas to rank power per unit area. Never compare temperatures from the heights alone.
 
@@ -181,8 +181,8 @@ It needs a fluid and cannot occur in a solid. It needs the heating to be below t
 ### Answers
 
 1. 0.50 × 4.0 × 10⁻³ × 30 / 0.020 = **3.0 W**.
-2. T = 2.9 × 10⁻³ / 2.9 × 10⁻⁶ = **1.0 × 10³ K**.
-3. T = 2.9 × 10⁻³ / 500 × 10⁻⁹ = **5.8 × 10³ K**.
+2. T = 2.9 × 10⁻³ / (2.9 × 10⁻⁶) = **1.0 × 10³ K**.
+3. T = 2.9 × 10⁻³ / (500 × 10⁻⁹) = **5.8 × 10³ K**.
 4. A = 4π × 0.10² = 0.126 m². L = 5.67 × 10⁻⁸ × 0.126 × 600⁴ = **9.2 × 10² W**.
 5. 2⁴ = **16 times larger**.
 6. b ∝ 1/d², so b becomes 1/1.5² = 0.44 of its value (**decreases to 4/9**).

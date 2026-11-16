@@ -137,7 +137,7 @@ N is the number of organisms after n generations, and N0 is the starting number.
 - N = 40 × 2⁶ = 40 × 64 = **2560 cells**.
 
 **Worked example 2.** A culture grows from 2.0 × 10³ to 5.0 × 10⁶ cells, with a 20 minute generation time. How long does it take?
-- 2^n = 5.0 × 10⁶ / 2.0 × 10³ = 2500.
+- 2^n = 5.0 × 10⁶ / (2.0 × 10³) = 2500.
 - n = log₂ 2500 = log 2500 / log 2 = 11.29 generations.
 - Time = 11.29 × 20 = 226 minutes, **about 3.8 hours**.
 

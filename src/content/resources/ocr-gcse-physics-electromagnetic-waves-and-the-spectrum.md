@@ -213,8 +213,8 @@ Our eyes detect only a **limited range** of the spectrum: the visible group, rou
 Within the visible range, different wavelengths give different colours: red at the long end, then orange, yellow, green, blue and violet at the short end. Converting the ends of the range to frequency with f = v / λ:
 
 ```
-400 nm: f = 3.0 × 10⁸ / 4.0 × 10⁻⁷ = 7.5 × 10¹⁴ Hz
-700 nm: f = 3.0 × 10⁸ / 7.0 × 10⁻⁷ = 4.3 × 10¹⁴ Hz
+400 nm: f = 3.0 × 10⁸ / (4.0 × 10⁻⁷) = 7.5 × 10¹⁴ Hz
+700 nm: f = 3.0 × 10⁸ / (7.0 × 10⁻⁷) = 4.3 × 10¹⁴ Hz
 ```
 
 This range is very narrow compared with the whole spectrum, which covers many powers of ten in wavelength.

@@ -133,7 +133,7 @@ Take G = 6.67 × 10⁻¹¹ N m² kg⁻², ε₀ = 8.85 × 10⁻¹² F m⁻¹, e 
 *Examiner insight:* Field strengths add as vectors, potentials as signed scalars; subtracting the two field strengths here gives a wrong answer.
 
 **6. (a)** Work done moving Q between the plates: W = Fd = QV [1]; so E = F/Q = V/d [1].
-**(b)** E = 600/0.040 = 1.5 × 10⁴ V m⁻¹ [1]; a = eE/m = 1.44 × 10¹² m s⁻² [1]; t = 0.060 / 1.5 × 10⁶ = 4.0 × 10⁻⁸ s [1]; y = ½at² = **1.1 × 10⁻³ m** [1]
+**(b)** E = 600/0.040 = 1.5 × 10⁴ V m⁻¹ [1]; a = eE/m = 1.44 × 10¹² m s⁻² [1]; t = 0.060 / (1.5 × 10⁶) = 4.0 × 10⁻⁸ s [1]; y = ½at² = **1.1 × 10⁻³ m** [1]
 *Examiner insight:* In (b), find the time from the horizontal motion only; the field does not change the speed along the plates.
 
 **7. (a)** εᵣ = Cd / (Aε₀) = 450 × 10⁻¹² × 2.0 × 10⁻³ / (0.0225 × 8.85 × 10⁻¹²) [1] = **4.5** [1]

@@ -237,7 +237,7 @@ With pV = NkT this gives ½m(c_rms)² = (3/2)kT = (3/2)RT/N_A. For an ideal gas 
 
 ```
 E_k = (3/2)kT = 1.5 × 1.38 × 10⁻²³ × 300 = 6.21 × 10⁻²¹ J
-c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 300 / 4.65 × 10⁻²⁶) = 517 m s⁻¹
+c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 300 / (4.65 × 10⁻²⁶)) = 517 m s⁻¹
 ```
 
 <figure class="topic-figure">

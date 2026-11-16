@@ -49,7 +49,7 @@ Prefixes: µ = 10⁻⁶, n = 10⁻⁹, p = 10⁻¹². Convert to farads before s
 **Reminder.** 220 µF holding 0.68 mC:
 
 ```
-V = Q/C = 0.68 × 10⁻³ / 220 × 10⁻⁶ = 3.1 V
+V = Q/C = 0.68 × 10⁻³ / (220 × 10⁻⁶) = 3.1 V
 ```
 
 <figure class="topic-figure">

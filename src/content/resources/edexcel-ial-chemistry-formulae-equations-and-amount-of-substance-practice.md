@@ -155,7 +155,7 @@ Mass of Al = 0.100 × 27.0 = **2.71 g** [1]. n(Fe) = 0.100 mol; mass = 0.100 × 
 
 **8.** T = 363 K, p = 100 000 Pa, V = 94.9 × 10⁻⁶ m³ [1].
 n = pV / RT = (100 000 × 94.9 × 10⁻⁶) / (8.31 × 363) = 3.146 × 10⁻³ mol [1].
-M = 0.258 / 3.146 × 10⁻³ = **82.0 g mol⁻¹** [1]. Empirical formula mass of C₃H₅ = 41.0; 82.0 / 41.0 = 2 [1].
+M = 0.258 / (3.146 × 10⁻³) = **82.0 g mol⁻¹** [1]. Empirical formula mass of C₃H₅ = 41.0; 82.0 / 41.0 = 2 [1].
 Molecular formula **C₆H₁₀** [1]
 *Examiner insight:* Each unconverted quantity (°C, kPa or cm³) gives a wrong molar mass; show the
 converted values so an examiner can follow your method.

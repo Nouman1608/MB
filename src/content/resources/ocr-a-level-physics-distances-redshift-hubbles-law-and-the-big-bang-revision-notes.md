@@ -187,11 +187,11 @@ Worked reminder: H0 = 68 km s⁻¹ Mpc⁻¹ is 68 / 3.09 × 10¹⁹ = 2.20 × 10
 4. v = 0.0072 × 3.00 × 10⁸ = 2.2 × 10⁶ m s⁻¹.
 5. v = 70 × 30 = 2100 km s⁻¹.
 6. H0 = 21 000 / 300 = 70 km s⁻¹ Mpc⁻¹.
-7. 75 / 3.09 × 10¹⁹ = 2.4 × 10⁻¹⁸ s⁻¹.
+7. 75 / (3.09 × 10¹⁹) = 2.4 × 10⁻¹⁸ s⁻¹.
 8. 1/H0 = 5.0 × 10¹⁷ s; divided by 3.16 × 10⁷ gives 1.6 × 10¹⁰ years.
 9. The universe is homogeneous and isotropic on a large scale, and the laws of physics are the same everywhere.
 10. 2.7 K; it supports the Big Bang theory (hot early universe that has expanded and cooled).
-11. Δλ = λ v/c = 500 × 6.0 × 10⁶ / 3.00 × 10⁸ = 10 nm.
+11. Δλ = λ v/c = 500 × 6.0 × 10⁶ / (3.00 × 10⁸) = 10 nm.
 12. Dark energy, dark matter, ordinary matter.
 
 ## Where marks are usually lost

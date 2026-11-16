@@ -142,8 +142,8 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-wa
 *Examiner insight:* Dividing 15.0 mm by 11 instead of 10 is the usual error; units must be converted to metres before substituting.
 
 **9. (a)** Light from adjacent slits travelling at angle θ has path difference d sin θ [1]. For a maximum the path difference must be a whole number of wavelengths, nλ [1]. So d sin θ = nλ, where n is the order [1].
-**(b)** d = 1/(400 × 10³) = 2.5 × 10⁻⁶ m [1]. sin θ = 2 × 546 × 10⁻⁹ / 2.5 × 10⁻⁶ = 0.437, θ = **25.9°** [1]
-**(c)** d/λ = 2.5 × 10⁻⁶ / 546 × 10⁻⁹ = 4.58 [1]. Highest order = **4** [1] **[7]**
+**(b)** d = 1/(400 × 10³) = 2.5 × 10⁻⁶ m [1]. sin θ = 2 × 546 × 10⁻⁹ / (2.5 × 10⁻⁶) = 0.437, θ = **25.9°** [1]
+**(c)** d/λ = 2.5 × 10⁻⁶ / (546 × 10⁻⁹) = 4.58 [1]. Highest order = **4** [1] **[7]**
 *Examiner insight:* A diagram with the path difference marked can earn the first mark of (a); rounding 4.58 up to 5 loses the final mark.
 
 **10. (a)** The central maximum becomes **wider** [1].

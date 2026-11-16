@@ -134,7 +134,7 @@ The X-ray spectrum has two features. A **continuous spectrum** comes from electr
 - Maximum photon energy = 45 keV = 45 × 10³ × 1.60 × 10⁻¹⁹ = 7.2 × 10⁻¹⁵ J.
 - λ(min) = hc/E = (1.989 × 10⁻²⁵)/(7.2 × 10⁻¹⁵) = 2.76 × 10⁻¹¹ m.
 - Power delivered by the beam = IV = 12 × 10⁻³ × 45 × 10³ = 540 W.
-- Electrons per second = I/e = 12 × 10⁻³/1.60 × 10⁻¹⁹ = 7.5 × 10¹⁶ s⁻¹.
+- Electrons per second = I/e = 12 × 10⁻³/(1.60 × 10⁻¹⁹) = 7.5 × 10¹⁶ s⁻¹.
 
 **Medical use.** X-rays pass through soft tissue more easily than bone, so an image on a detector shows bones as lighter shadows. X-rays are also used to treat cancer by damaging cells in a tumour. Because X-ray photons can ionise tissue, exposure is kept as low as possible.
 
@@ -189,7 +189,7 @@ A metal has work function 3.2 eV. Light of wavelength 240 nm falls on it.
 - ϕ = 3.2 × 1.60 × 10⁻¹⁹ = 5.12 × 10⁻¹⁹ J.
 - Ek(max) = 8.29 × 10⁻¹⁹ - 5.12 × 10⁻¹⁹ = 3.17 × 10⁻¹⁹ J = 1.98 eV.
 - Stopping potential = 1.98 V.
-- Threshold frequency f₀ = ϕ/h = 5.12 × 10⁻¹⁹/6.63 × 10⁻³⁴ = 7.72 × 10¹⁴ Hz, which is a wavelength of 388 nm.
+- Threshold frequency f₀ = ϕ/h = 5.12 × 10⁻¹⁹/(6.63 × 10⁻³⁴) = 7.72 × 10¹⁴ Hz, which is a wavelength of 388 nm.
 - Light of 450 nm gives no emission: it is above the threshold wavelength.
 
 ### Worked example: interpreting data
@@ -204,7 +204,7 @@ A best-fit line passes close to (6.0, 0.39) and (10.0, 2.04).
 
 - Gradient = (2.04 - 0.39)/((10.0 - 6.0) × 10¹⁴) = 4.13 × 10⁻¹⁵ V s.
 - h = gradient × e = 4.13 × 10⁻¹⁵ × 1.60 × 10⁻¹⁹ = 6.60 × 10⁻³⁴ J s.
-- The line crosses V(s) = 0 at f₀ = 6.0 × 10¹⁴ - 0.39/4.13 × 10⁻¹⁵ = 5.06 × 10¹⁴ Hz.
+- The line crosses V(s) = 0 at f₀ = 6.0 × 10¹⁴ - 0.39/(4.13 × 10⁻¹⁵) = 5.06 × 10¹⁴ Hz.
 - ϕ = hf₀ = 6.60 × 10⁻³⁴ × 5.06 × 10¹⁴ = 3.34 × 10⁻¹⁹ J, about 2.1 eV.
 
 <figure class="topic-figure">
@@ -224,7 +224,7 @@ A best-fit line passes close to (6.0, 0.39) and (10.0, 2.04).
 
 λ = h/mv, where mv is the momentum.
 
-**Worked example.** An electron moves at 4.0 × 10⁶ m s⁻¹. Momentum = 9.11 × 10⁻³¹ × 4.0 × 10⁶ = 3.64 × 10⁻²⁴ kg m s⁻¹, so λ = 6.63 × 10⁻³⁴/3.64 × 10⁻²⁴ = 1.82 × 10⁻¹⁰ m. That is comparable to the spacing between atoms, so a crystal diffracts it.
+**Worked example.** An electron moves at 4.0 × 10⁶ m s⁻¹. Momentum = 9.11 × 10⁻³¹ × 4.0 × 10⁶ = 3.64 × 10⁻²⁴ kg m s⁻¹, so λ = 6.63 × 10⁻³⁴/(3.64 × 10⁻²⁴) = 1.82 × 10⁻¹⁰ m. That is comparable to the spacing between atoms, so a crystal diffracts it.
 
 Compare a proton at the same speed (mass 1.67 × 10⁻²⁷ kg): λ = 9.93 × 10⁻¹⁴ m, much smaller because its momentum is about 1800 times greater. A 0.16 kg ball at 30 m s⁻¹ has λ = 1.4 × 10⁻³⁴ m. No gap is that small, so you never see it diffract.
 

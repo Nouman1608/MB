@@ -103,7 +103,7 @@ Sound is a longitudinal mechanical wave. A vibrating loudspeaker cone pushes air
 Electromagnetic waves are transverse waves made of varying electric and magnetic fields, perpendicular to one another and to the way the wave moves. They do not need a medium and cross a vacuum. In a vacuum all of them travel at the same speed, c = 3.00 × 10⁸ m s⁻¹, so c = fλ for every EM wave.
 
 **Worked example 3.** An FM station broadcasts at 94.5 MHz. Find the wavelength.
-- λ = c/f = 3.00 × 10⁸ / 94.5 × 10⁶ = 3.17 m.
+- λ = c/f = 3.00 × 10⁸ / (94.5 × 10⁶) = 3.17 m.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-travelling-waves-and-the-doppler-effect--05-em-wave-structure.webp" width="900" height="980" alt="An EM wave drawn with the electric field in one plane and the magnetic field in a plane at right angles, both perpendicular to the direction of travel. It needs no medium and travels at c = 3.00 x 10^8 m/s in a vacuum, so c = f lambda; 94.5 MHz gives 3.17 m." loading="lazy">

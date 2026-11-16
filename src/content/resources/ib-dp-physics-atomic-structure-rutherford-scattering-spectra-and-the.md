@@ -105,9 +105,9 @@ Widen the gap and the photon frequency rises while its wavelength shrinks. Energ
 
 Energy gap = −1.2 − (−5.4) = 4.2 eV = 4.2 × 1.60 × 10⁻¹⁹ = 6.72 × 10⁻¹⁹ J.
 
-f = E/h = 6.72 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **1.01 × 10¹⁵ Hz**.
+f = E/h = 6.72 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **1.01 × 10¹⁵ Hz**.
 
-λ = c/f = 3.00 × 10⁸ / 1.01 × 10¹⁵ = **2.96 × 10⁻⁷ m** (296 nm, ultraviolet).
+λ = c/f = 3.00 × 10⁸ / (1.01 × 10¹⁵) = **2.96 × 10⁻⁷ m** (296 nm, ultraviolet).
 
 With four levels, every pair can give a line: 4 × 3 / 2 = **6** lines. 
 
@@ -174,7 +174,7 @@ E_k = k (2e)(Ze) / d, so d = 2kZe² / E_k
 
 E_k = 6.0 × 10⁶ × 1.60 × 10⁻¹⁹ = 9.6 × 10⁻¹³ J.
 
-d = 2 × 8.99 × 10⁹ × 28 × (1.60 × 10⁻¹⁹)² / 9.6 × 10⁻¹³ = **1.34 × 10⁻¹⁴ m** (13.4 fm).
+d = 2 × 8.99 × 10⁹ × 28 × (1.60 × 10⁻¹⁹)² / (9.6 × 10⁻¹³) = **1.34 × 10⁻¹⁴ m** (13.4 fm).
 
 R = 1.2 × 58^(1/3) = 4.6 fm. Since d is almost three times R, the alpha particle never reaches the nucleus, and only the electric force acts. This is why Rutherford's prediction held.
 
@@ -208,7 +208,7 @@ E₄ = −13.6/16 = −0.85 eV. E₂ = −13.6/4 = −3.40 eV.
 
 ΔE = −0.85 − (−3.40) = 2.55 eV = 2.55 × 1.60 × 10⁻¹⁹ = 4.08 × 10⁻¹⁹ J.
 
-λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 4.08 × 10⁻¹⁹ = **4.88 × 10⁻⁷ m** (488 nm, in the visible range).
+λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (4.08 × 10⁻¹⁹) = **4.88 × 10⁻⁷ m** (488 nm, in the visible range).
 
 **Worked example 6.** In the ground state the orbit radius is 5.29 × 10⁻¹¹ m. Find the electron speed.
 

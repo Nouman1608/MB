@@ -113,8 +113,8 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kine
 *Examiner insight:* "Harder" and "more often" are separate ideas. Give both.
 
 **4.** **(a)** n = 4.0 / 4.0 = **1.0 mol** [1]. **[1]**
-**(b)** p = nRT / V [1] = (1.0 × 8.31 × 300) / 2.5 × 10⁻³ = **1.0 × 10⁶ Pa** (9.97 × 10⁵ Pa) [1]. **[2]**
-**(c)** m = M / N_A = 0.0040 / 6.02 × 10²³ = **6.6 × 10⁻²⁷ kg** [1]. **[1]**
+**(b)** p = nRT / V [1] = (1.0 × 8.31 × 300) / (2.5 × 10⁻³) = **1.0 × 10⁶ Pa** (9.97 × 10⁵ Pa) [1]. **[2]**
+**(c)** m = M / N_A = 0.0040 / (6.02 × 10²³) = **6.6 × 10⁻²⁷ kg** [1]. **[1]**
 **(d)** N = nN_A = **6.0 × 10²³** [1]. **[1]**
 *Examiner insight:* Pair grams with g mol⁻¹, or convert both to SI.
 
@@ -144,7 +144,7 @@ Read the [study guide](/resources/oxfordaqa-a-level-physics-ideal-gases-and-kine
 
 **11.** **(a)** Kinetic energy = 3kT/2 [1] = 1.5 × 1.38 × 10⁻²³ × 350 = **7.2 × 10⁻²¹ J** [1]. **[2]**
 **(b)** U = 3nRT/2 [1] = 1.5 × 0.40 × 8.31 × 350 = **1.7 × 10³ J** [1]. **[2]**
-**(c)** m = 0.0200 / 6.02 × 10²³ = 3.32 × 10⁻²⁶ kg [1]. (c_rms)² = 2 × 7.245 × 10⁻²¹ / 3.32 × 10⁻²⁶ = 4.36 × 10⁵ [1], so c_rms = **6.6 × 10² m s⁻¹** [1]. **[3]**
+**(c)** m = 0.0200 / (6.02 × 10²³) = 3.32 × 10⁻²⁶ kg [1]. (c_rms)² = 2 × 7.245 × 10⁻²¹ / (3.32 × 10⁻²⁶) = 4.36 × 10⁵ [1], so c_rms = **6.6 × 10² m s⁻¹** [1]. **[3]**
 **(d)** c_rms is proportional to √(T/M), so T / 0.0200 = 350 / 0.0040 [1] and T = **1.8 × 10³ K** (1750 K) [1]. **[2]**
 *Examiner insight:* In part (d) the ratio method is quicker.
 

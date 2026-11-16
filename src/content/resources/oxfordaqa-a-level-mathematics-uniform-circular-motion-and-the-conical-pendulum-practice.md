@@ -103,9 +103,9 @@ Learn the method first in the [study guide](/resources/oxfordaqa-a-level-mathema
 **(b)** R = mg = 11 760 N [1], so μ ≥ 4704/11 760 = **0.4** [1]
 *Examiner insight:* Say which force supplies the acceleration and resolve vertically for R. The mass cancels, which gives you a check on your answer.
 
-**3. (a)** Gravity provides the acceleration: m v²/r = mk/r² [1], so v² = k/r = 4.0×10¹⁴/2.5×10⁷ = 1.6×10⁷ [1], giving **v = 4000 m s⁻¹** [1]
+**3. (a)** Gravity provides the acceleration: m v²/r = mk/r² [1], so v² = k/r = 4.0×10¹⁴/(2.5×10⁷) = 1.6×10⁷ [1], giving **v = 4000 m s⁻¹** [1]
 **(b)** Period = 2πr/v = 2π × 2.5×10⁷/4000 = 39 270 s [1] = **10.9 hours** [1]
-**(c)** ω = v/r = 4000/2.5×10⁷ = 1.6×10⁻⁴ rad s⁻¹ [1]. Then ω²r³ = 2.56×10⁻⁸ × 1.5625×10²² = 4.0×10¹⁴ = k **as required** [1]
+**(c)** ω = v/r = 4000/(2.5×10⁷) = 1.6×10⁻⁴ rad s⁻¹ [1]. Then ω²r³ = 2.56×10⁻⁸ × 1.5625×10²² = 4.0×10¹⁴ = k **as required** [1]
 *Examiner insight:* In "show that", state the substituted values and the final equality. A bare statement that the two sides agree is a weaker answer.
 
 **4. (a)** r − (−2i + 4j) = 6sin(t/2)i + 6cos(t/2)j [1]. Its magnitude squared is 36sin²(t/2) + 36cos²(t/2) = 36 for all t [1]. So the particle is always 6 m from (−2, 4): a circle, **centre (−2, 4), radius 6 m** [1]

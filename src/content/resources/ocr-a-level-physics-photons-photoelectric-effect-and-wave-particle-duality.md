@@ -51,12 +51,12 @@ where h is the Planck constant, f the frequency, c the speed of light and λ the
 
 **Worked example 1.** Find the energy of a photon of wavelength 485 nm.
 
-E = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 485 × 10⁻⁹ = 4.10 × 10⁻¹⁹ J (3 s.f.).
+E = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (485 × 10⁻⁹) = 4.10 × 10⁻¹⁹ J (3 s.f.).
 
 **Worked example 2.** A laser emits 4.0 mW of light at 532 nm. How many photons leave it each second?
 
 Energy per photon = hc/λ = 3.74 × 10⁻¹⁹ J.
-Power = energy per second = N × E, so N = 4.0 × 10⁻³ / 3.74 × 10⁻¹⁹ = 1.1 × 10¹⁶ s⁻¹.
+Power = energy per second = N × E, so N = 4.0 × 10⁻³ / (3.74 × 10⁻¹⁹) = 1.1 × 10¹⁶ s⁻¹.
 
 Intensity is power per unit area: photons arriving per second per square metre, times the energy of each photon.
 
@@ -79,7 +79,7 @@ One electronvolt (eV) is the energy an electron gains when it is accelerated acr
 
 (a) 3.4 × 1.60 × 10⁻¹⁹ = 5.4 × 10⁻¹⁹ J.
 (b) Kinetic energy = 2.5 keV = 2500 eV = 2500 × 1.60 × 10⁻¹⁹ = 4.0 × 10⁻¹⁶ J.
-½mv² = 4.0 × 10⁻¹⁶, so v = √(2 × 4.0 × 10⁻¹⁶ / 9.11 × 10⁻³¹) = 3.0 × 10⁷ m s⁻¹.
+½mv² = 4.0 × 10⁻¹⁶, so v = √(2 × 4.0 × 10⁻¹⁶ / (9.11 × 10⁻³¹)) = 3.0 × 10⁷ m s⁻¹.
 
 ## 4.5.1(e) Estimating h with LEDs (PAG6)
 
@@ -103,7 +103,7 @@ A graph of V against 1/λ is a straight line through the origin with gradient hc
 |---|---|---|---|---|---|
 | V / V | 1.95 | 2.09 | 2.36 | 2.65 | 3.05 |
 
-The gradient of the best-fit line is 1.23 × 10⁻⁶ V m. Then h = gradient × e/c = 1.23 × 10⁻⁶ × 1.60 × 10⁻¹⁹ / 3.00 × 10⁸ = 6.56 × 10⁻³⁴ J s.
+The gradient of the best-fit line is 1.23 × 10⁻⁶ V m. Then h = gradient × e/c = 1.23 × 10⁻⁶ × 1.60 × 10⁻¹⁹ / (3.00 × 10⁸) = 6.56 × 10⁻³⁴ J s.
 
 Judging when the LED "just" lights is subjective, which limits accuracy.
 
@@ -149,8 +149,8 @@ Here KEmax is the maximum kinetic energy of the photoelectrons. It is a maximum 
 **Worked example 5.** Light of wavelength 400 nm falls on potassium, work function 2.3 eV. Find (a) the maximum kinetic energy in J, (b) the maximum speed, (c) the threshold frequency.
 
 (a) Photon energy = hc/λ = 4.97 × 10⁻¹⁹ J (3.11 eV). φ = 2.3 × 1.60 × 10⁻¹⁹ = 3.68 × 10⁻¹⁹ J. KEmax = 4.97 × 10⁻¹⁹ − 3.68 × 10⁻¹⁹ = 1.29 × 10⁻¹⁹ J (0.81 eV).
-(b) v = √(2 × 1.29 × 10⁻¹⁹ / 9.11 × 10⁻³¹) = 5.3 × 10⁵ m s⁻¹.
-(c) f₀ = φ/h = 3.68 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = 5.55 × 10¹⁴ Hz.
+(b) v = √(2 × 1.29 × 10⁻¹⁹ / (9.11 × 10⁻³¹)) = 5.3 × 10⁵ m s⁻¹.
+(c) f₀ = φ/h = 3.68 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = 5.55 × 10¹⁴ Hz.
 
 ### Graph of KEmax against frequency
 
@@ -164,7 +164,7 @@ Rearranging gives KEmax = hf − φ. A graph of KEmax against f is a straight li
 
 Gradient (first and last points) = (1.83 − 0.17) / (4.0 × 10¹⁴) = 4.15 × 10⁻¹⁵ eV s. Convert: h = 4.15 × 10⁻¹⁵ × 1.60 × 10⁻¹⁹ = 6.64 × 10⁻³⁴ J s.
 φ = hf − KEmax at the first point = 4.15 × 10⁻¹⁵ × 6.5 × 10¹⁴ − 0.17 = 2.53 eV.
-f₀ = φ/gradient = 2.53 / 4.15 × 10⁻¹⁵ = 6.1 × 10¹⁴ Hz.
+f₀ = φ/gradient = 2.53 / (4.15 × 10⁻¹⁵) = 6.1 × 10¹⁴ Hz.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-quantum-physics--02-aphy-quantum-nuclear-size.webp" width="900" height="1190" alt="Radius R against A^(1/3) is a straight line through the origin with gradient r0 = 1.2 fm, with points for He-4, Al-27, Ca-40, Fe-56 and Pb-208. The three nuclei drawn to scale have equal density 2.3e17 kg/m3 because volume is proportional to A." loading="lazy">
@@ -182,7 +182,7 @@ f₀ = φ/gradient = 2.53 / 4.15 × 10⁻¹⁵ = 6.1 × 10¹⁴ Hz.
 - **KEmax does not depend on intensity (4.5.2(e)).** Each electron interacts with one photon, and photon energy depends only on frequency. More intense light of the same frequency means more photons per second, not more energy per photon.
 - **Emission rate is proportional to intensity above threshold (4.5.2(f)).** More photons per second means more electrons released per second, so the photoelectric current is directly proportional to intensity, provided f > f₀.
 
-**Worked example 7.** Light of 400 nm and power 1.0 mW strikes the potassium surface above, then the power is doubled. Photon rate: 1.0 × 10⁻³ / 4.97 × 10⁻¹⁹ = 2.0 × 10¹⁵ s⁻¹, rising to 4.0 × 10¹⁵ s⁻¹. The number of electrons released per second doubles, while KEmax stays at 0.81 eV.
+**Worked example 7.** Light of 400 nm and power 1.0 mW strikes the potassium surface above, then the power is doubled. Photon rate: 1.0 × 10⁻³ / (4.97 × 10⁻¹⁹) = 2.0 × 10¹⁵ s⁻¹, rising to 4.0 × 10¹⁵ s⁻¹. The number of electrons released per second doubles, while KEmax stays at 0.81 eV.
 
 ### Why the wave model fails
 
@@ -208,7 +208,7 @@ A particle of momentum p has an associated wavelength
 **Worked example 8.** Electrons are accelerated through 3.5 kV. Find their de Broglie wavelength.
 
 Kinetic energy = eV = 1.60 × 10⁻¹⁹ × 3.5 × 10³ = 5.6 × 10⁻¹⁶ J. Since KE = p²/2m, p = √(2m × KE) = √(2 × 9.11 × 10⁻³¹ × 5.6 × 10⁻¹⁶) = 3.19 × 10⁻²³ kg m s⁻¹.
-λ = h/p = 6.63 × 10⁻³⁴ / 3.19 × 10⁻²³ = 2.1 × 10⁻¹¹ m.
+λ = h/p = 6.63 × 10⁻³⁴ / (3.19 × 10⁻²³) = 2.1 × 10⁻¹¹ m.
 
 This is comparable to atomic spacings, so diffraction is visible.
 

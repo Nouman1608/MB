@@ -96,9 +96,9 @@ These questions cover sections 3.4.1 (Springs) and 3.4.2 (Mechanical properties 
 **(b)** The area under loading is the work done on the band and under unloading is the energy recovered. [1] The loop between them is energy dissipated as thermal energy in the rubber. [1]
 *Examiner insight:* "Energy lost" is vague. Say where it goes, and which area is which.
 
-**4. (a)** A = π × (0.40 × 10⁻³)² = 5.03 × 10⁻⁷ m². [1] Stress = 88 / 5.03 × 10⁻⁷ = **1.75 × 10⁸ Pa**. [1]
+**4. (a)** A = π × (0.40 × 10⁻³)² = 5.03 × 10⁻⁷ m². [1] Stress = 88 / (5.03 × 10⁻⁷) = **1.75 × 10⁸ Pa**. [1]
 **(b)** Strain = 2.1 × 10⁻³ / 1.85 = **1.14 × 10⁻³**. [1]
-**(c)** E = 1.75 × 10⁸ / 1.14 × 10⁻³ = **1.5 × 10¹¹ Pa**. [1]
+**(c)** E = 1.75 × 10⁸ / (1.14 × 10⁻³) = **1.5 × 10¹¹ Pa**. [1]
 **(d)** Percentage uncertainties: diameter 0.01/0.80 = 1.25%, doubled to 2.5% in area; extension 4.8%; length 0.3%. [1] Total = 2.5 + 4.8 + 0.3 = 7.5%. [1] Absolute uncertainty = 7.5% of 1.54 × 10¹¹ ≈ 1.2 × 10¹⁰, so E = **(1.5 ± 0.1) × 10¹¹ Pa**. [1]
 *Examiner insight:* Doubling the percentage uncertainty in the diameter is the point most often missed.
 
@@ -108,7 +108,7 @@ These questions cover sections 3.4.1 (Springs) and 3.4.2 (Mechanical properties 
 **6. (a)** E = stress/strain = 240 × 10⁶ / 0.00120 [1] = **2.0 × 10¹¹ Pa**. [1]
 **(b)** The maximum stress is **410 MPa**. [1]
 **(c)** The rod undergoes a large strain (0.22) beyond the linear region before it breaks. [1] A brittle material would fracture soon after the straight section. [1]
-**(d)** A = 6.0 × 10⁻⁶ m², so stress = 1800 / 6.0 × 10⁻⁶ = 3.0 × 10⁸ Pa. [1] This exceeds 240 MPa, so it is beyond the limit of proportionality. [1]
+**(d)** A = 6.0 × 10⁻⁶ m², so stress = 1800 / (6.0 × 10⁻⁶) = 3.0 × 10⁸ Pa. [1] This exceeds 240 MPa, so it is beyond the limit of proportionality. [1]
 *Examiner insight:* A "show that" answer needs the calculated stress and the comparison with 240 MPa. M means 10⁶.
 
 **7. (a)** A brittle material's graph is linear almost to the breaking point. [1] It has little or no plastic region and breaks suddenly, with no necking. [1]

@@ -57,7 +57,7 @@ The same three outcomes also open section 3.1 of Pure Mathematics 3. The [Pure M
 
 The modulus |x| is the size of x, ignoring its sign:
 
-```
+```text
 |x| = x    when x ≥ 0
 |x| = −x   when x < 0
 ```
@@ -70,7 +70,7 @@ Draw the straight line y = ax + b. Any part below the x-axis is reflected in the
 
 *Worked example 1.* Sketch y = |2x − 5|.
 
-```
+```text
 Vertex: 2x − 5 = 0  →  x = 5/2, so vertex (5/2, 0)
 y-intercept: x = 0  →  y = |−5| = 5, so (0, 5)
 Right arm: y = 2x − 5 (gradient 2) for x ≥ 5/2
@@ -121,7 +121,7 @@ When the other side is an expression in x, it could be negative, and a modulus c
 
 *Worked example 3.* Solve |x − 1| = 2x + 4.
 
-```
+```text
 Case 1:  x − 1 = 2x + 4      →  x = −5
          Check: |−6| = 6 but 2(−5) + 4 = −6.  Reject.
 Case 2:  −(x − 1) = 2x + 4   →  −x + 1 = 2x + 4  →  x = −1
@@ -134,14 +134,14 @@ The only solution is **x = −1**. A quick sketch of the V and the line y = 2x +
 
 Because |x − a| is a distance, |x − a| < b says "x is less than b away from a":
 
-```
+```text
 |x − a| < b   ⇔   a − b < x < a + b
 |x − a| > b   ⇔   x < a − b  or  x > a + b
 ```
 
 *Worked example 4.* Solve (a) |3x − 4| ≤ 5 and (b) |x + 2| > 3.
 
-```
+```text
 (a)  −5 ≤ 3x − 4 ≤ 5
      −1 ≤ 3x ≤ 9
      −1/3 ≤ x ≤ 3
@@ -156,7 +156,7 @@ In (a) the answer is one interval. In (b) it is two pieces joined by "or". Writi
 
 Here the right-hand side is not a modulus, so work from a sketch. Draw the V of y = |x + 3| (vertex (−3, 0)) and the line y = 2x.
 
-```
+```text
 Boundary, case 1:  x + 3 = 2x        →  x = 3
                    Check: |6| = 6 = 2(3).  Valid.
 Boundary, case 2:  −(x + 3) = 2x     →  x = −1
@@ -179,7 +179,7 @@ q(x) is the quotient and r(x) the remainder. The remainder always has a lower de
 
 *Worked example 6.* Find the quotient and remainder when 2x³ − 5x² + 4x + 6 is divided by (x − 3).
 
-```
+```text
                 2x² +  x  +  7
          ┌──────────────────────
  x − 3   │ 2x³ − 5x² + 4x + 6
@@ -200,7 +200,7 @@ Quotient **2x² + x + 7**, remainder **27**. Each line divides the leading term 
 
 Divide the leading term by x² each time.
 
-```
+```text
 Step 1:  2x⁴ ÷ x² = 2x²
          2x⁴ − 3x³ + x² + 5x − 4 − 2x²(x² − x + 2)  =  −x³ − 3x² + 5x − 4
 Step 2:  −x³ ÷ x² = −x
@@ -227,7 +227,7 @@ Each condition gives one equation. Two unknowns need two conditions.
 
 *Worked example 8.* p(x) = 2x³ + ax² + bx − 3. (2x + 1) is a factor of p(x), and the remainder when p(x) is divided by (x − 2) is 15. Find a and b, then solve p(x) = 0.
 
-```
+```text
 (2x + 1) is a factor, so p(−1/2) = 0:
    2(−1/8) + a(1/4) + b(−1/2) − 3 = 0
    multiply by 4:  −1 + a − 2b − 12 = 0   →   a − 2b = 13
@@ -253,7 +253,7 @@ When no factor is given, try small values that divide the constant term (and fra
 
 *Worked example 9.* Solve 2x³ − x² − 13x − 6 = 0.
 
-```
+```text
 q(1)  = 2 − 1 − 13 − 6 = −18    not zero
 q(−1) = −2 − 1 + 13 − 6 = 4     not zero
 q(−2) = −16 − 4 + 26 − 6 = 0    so (x + 2) is a factor

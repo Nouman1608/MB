@@ -106,7 +106,7 @@ Calculate the mass of the droplet and state which plate is positive. **[5]**
 
 **5. (a)** F = e²/(4πε₀r²) = (1.60 × 10⁻¹⁹)² / (4π × 8.85 × 10⁻¹² × (5.3 × 10⁻¹¹)²) [1] = 8.2 × 10⁻⁸ N [1].
 **(b)** F = Gm_em_p/r² = 6.67 × 10⁻¹¹ × 9.11 × 10⁻³¹ × 1.67 × 10⁻²⁷ / (5.3 × 10⁻¹¹)² [1] = 3.6 × 10⁻⁴⁷ N [1].
-**(c)** Ratio = 8.2 × 10⁻⁸ / 3.6 × 10⁻⁴⁷ = **2.3 × 10³⁹** [1].
+**(c)** Ratio = 8.2 × 10⁻⁸ / (3.6 × 10⁻⁴⁷) = **2.3 × 10³⁹** [1].
 *Examiner insight:* Check that both forces use the same r.
 
 **6.** E = V/d = 750/0.025 = 3.0 × 10⁴ V m⁻¹ [1]. Charge q = 3 × 1.60 × 10⁻¹⁹ = 4.8 × 10⁻¹⁹ C. In equilibrium qE = mg [1]. m = qE/g [1] = 4.8 × 10⁻¹⁹ × 3.0 × 10⁴ / 9.81 = **1.5 × 10⁻¹⁵ kg** [1]. The charge is negative, so the force is upwards, E points downwards and the **upper plate is positive** [1].
@@ -118,8 +118,8 @@ Calculate the mass of the droplet and state which plate is positive. **[5]**
 *Examiner insight:* Carry the unrounded capacitance into part (c).
 
 **8. (a)** E = 600/0.020 = **3.0 × 10⁴ V m⁻¹** [1].
-**(b)** a = eE/m [1] = 1.60 × 10⁻¹⁹ × 3.0 × 10⁴ / 1.67 × 10⁻²⁷ = **2.9 × 10¹² m s⁻²** [1].
-**(c)** t = 0.050 / 1.0 × 10⁶ = **5.0 × 10⁻⁸ s** [1].
+**(b)** a = eE/m [1] = 1.60 × 10⁻¹⁹ × 3.0 × 10⁴ / (1.67 × 10⁻²⁷) = **2.9 × 10¹² m s⁻²** [1].
+**(c)** t = 0.050 / (1.0 × 10⁶) = **5.0 × 10⁻⁸ s** [1].
 **(d)** y = ½at² [1] = 0.5 × 2.87 × 10¹² × (5.0 × 10⁻⁸)² = **3.6 × 10⁻³ m** [1].
 **(e)** 3.6 mm is less than 10 mm (half the gap), so it leaves [1]. tan θ = at/v = 1.44 × 10⁵ / 1.0 × 10⁶, so θ = **8.2°** [1].
 *Examiner insight:* Find t from the horizontal motion, then compare y with half the gap.

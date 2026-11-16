@@ -48,7 +48,7 @@ More people need more food. If the population grows faster than food production,
 
 1. Population increase = (44.6 - 38.0) / 38.0 × 100 = **17.4%**.
 2. Output increase = (12.5 - 11.4) / 11.4 × 100 = **9.6%**.
-3. Cereal per person before = 11.4 × 10⁹ kg / 38.0 × 10⁶ = **300 kg**. After = 12.5 × 10⁹ / 44.6 × 10⁶ = **280 kg** (3 significant figures).
+3. Cereal per person before = 11.4 × 10⁹ kg / 38.0 × 10⁶ = **300 kg**. After = 12.5 × 10⁹ / (44.6 × 10⁶) = **280 kg** (3 significant figures).
 4. Output grew more slowly than population, so cereal per person fell by about 6.6%. Food security in this country is under pressure.
 
 ### Changing diets in wealthier populations

@@ -108,15 +108,15 @@ These questions follow sections 3.5.3 and 3.5.4 of the OxfordAQA International A
 **(b)** Sound and ultrasound are **longitudinal** [1]; light and waves on a string are **transverse** [1]
 *Examiner insight:* give the comparison in terms of the way the energy travels. "Up and down" is not a reliable description.
 
-**5. (a)** t = d/c [1] = 2.25 × 10¹¹ / 3.00 × 10⁸ = **750 s** [1]
-**(b)** λ = c/f [1] = 3.00 × 10⁸ / 8.4 × 10⁹ = **0.036 m (3.6 cm)** [1]
-**(c)** Same travel time, **750 s**, because every electromagnetic wave has one speed in a vacuum [1]; f = c/λ = 3.00 × 10⁸ / 590 × 10⁻⁹ = **5.1 × 10¹⁴ Hz** [1]
+**5. (a)** t = d/c [1] = 2.25 × 10¹¹ / (3.00 × 10⁸) = **750 s** [1]
+**(b)** λ = c/f [1] = 3.00 × 10⁸ / (8.4 × 10⁹) = **0.036 m (3.6 cm)** [1]
+**(c)** Same travel time, **750 s**, because every electromagnetic wave has one speed in a vacuum [1]; f = c/λ = 3.00 × 10⁸ / (590 × 10⁻⁹) = **5.1 × 10¹⁴ Hz** [1]
 *Examiner insight:* convert GHz and nm before substituting. Powers of ten are the usual place for errors here.
 
 **6. (a)** The pulse travels to the surface and back, so the distance travelled is twice the depth [1]
 **(b)** Front: 1540 × 26 × 10⁻⁶ / 2 = **0.020 m** [1]; back: 1540 × 104 × 10⁻⁶ / 2 = **0.080 m** [1]; thickness = **0.060 m (6.0 cm)** [1]
 **(c)** The gel removes the air between probe and skin [1]; otherwise most of the ultrasound would be reflected at the air-skin boundary and little would enter the body [1]
-**(d)** λ = 1540 / 2.5 × 10⁶ = **6.2 × 10⁻⁴ m** [1]
+**(d)** λ = 1540 / (2.5 × 10⁶) = **6.2 × 10⁻⁴ m** [1]
 *Examiner insight:* in "explain" questions about the gel, name the boundary where reflection happens. "It helps the ultrasound get in" is too vague.
 
 **7. (a)** The intensity varies between a maximum and a minimum as B rotates [1]; there are two positions of maximum and two of minimum (almost zero) in each full turn [1]; the minima are 90° from the maxima, when the axes are crossed [1]

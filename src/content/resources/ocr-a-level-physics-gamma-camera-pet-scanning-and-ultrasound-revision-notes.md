@@ -146,7 +146,7 @@ Gel: air has a tiny Z, skin a large one, so a bare air gap would reflect nearly 
 **Reflection.** A beam of intensity 8.0 mW m⁻² crosses a boundary between tissues of Z = 1.38 × 10⁶ and 1.62 × 10⁶ kg m⁻² s⁻¹.
 
 ```
-Ir/I0 = (0.24 × 10⁶ / 3.00 × 10⁶)² = 0.0064
+Ir/I0 = (0.24 × 10⁶ / (3.00 × 10⁶))² = 0.0064
 Ir = 0.0064 × 8.0 = 0.051 mW m⁻²;  transmitted = 7.95 mW m⁻²
 ```
 

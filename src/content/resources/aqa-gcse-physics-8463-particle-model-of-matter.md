@@ -110,7 +110,7 @@ rises from 50.0 cm³ to 68.0 cm³. Calculate its density.
 ```
 V = 68.0 − 50.0 = 18.0 cm³ = 1.80 × 10⁻⁵ m³
 m = 153 g = 0.153 kg
-ρ = 0.153 / 1.80 × 10⁻⁵ = 8500 kg/m³
+ρ = 0.153 / (1.80 × 10⁻⁵) = 8500 kg/m³
 ```
 
 <figure class="topic-figure">

@@ -165,7 +165,7 @@ For a fibre of length L, the axial ray takes L n1/c. The most oblique guided ray
 
 **Worked example 7.** A step index fibre is 3.0 km long, with core n = 1.55 and cladding n = 1.50. Find the difference in transit time between the axial ray and the ray at the critical angle.
 
-Axial time = 3000 × 1.55 / 3.00 × 10⁸ = 1.550 × 10⁻⁵ s.
+Axial time = 3000 × 1.55 / (3.00 × 10⁸) = 1.550 × 10⁻⁵ s.
 Oblique time = 1.550 × 10⁻⁵ × (1.55 / 1.50) = 1.602 × 10⁻⁵ s.
 Difference = 5.17 × 10⁻⁷ s, which is 517 ns.
 

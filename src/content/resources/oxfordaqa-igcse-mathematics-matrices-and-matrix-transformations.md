@@ -48,7 +48,7 @@ A matrix is a rectangular array of numbers. Its **order** is rows × columns. A 
 
 Multiply every entry by the number.
 
-```
+```text
 3 ( 2  −1 )   =   ( 6  −3 )
   ( 0   4 )       ( 0  12 )
 ```
@@ -59,7 +59,7 @@ Take each row of the matrix in turn. Multiply it, entry by entry, with the colum
 
 **Example 1.** Work out A × (5 / −1) where A = (3 −2 / 1 4).
 
-```
+```text
 ( 3  −2 ) (  5 )   =   ( 3×5 + (−2)×(−1) )   =   ( 17 )
 ( 1   4 ) ( −1 )       ( 1×5 +  4×(−1)   )       (  1 )
 ```
@@ -78,7 +78,7 @@ Each entry of the answer is a row of the left matrix multiplied by a column of t
 
 **Example 2.** P = (2 1 / −3 4) and Q = (1 5 / 0 −2). Work out PQ and QP.
 
-```
+```text
 PQ:  top left      2×1 + 1×0       =   2
      top right     2×5 + 1×(−2)    =   8
      bottom left   −3×1 + 4×0      =  −3
@@ -108,7 +108,7 @@ Multiply out: a×1 + 2×4 = 11 and 3×1 + b×4 = 19. So a + 8 = 11, giving a = 3
 
 The 2 × 2 identity matrix is
 
-```
+```text
 I = ( 1  0 )
     ( 0  1 )
 ```
@@ -117,7 +117,7 @@ It does nothing. For any 2 × 2 matrix M, MI = IM = M. For any column, I(x / y) 
 
 **Example 4.** Show that IM = MI = M for M = (5 −2 / 3 1).
 
-```
+```text
 IM: top row    1×5 + 0×3 = 5,   1×(−2) + 0×1 = −2
     bottom row 0×5 + 1×3 = 3,   0×(−2) + 1×1 = 1     so IM = M
 
@@ -135,7 +135,7 @@ The **unit square** has vertices O(0, 0), A(1, 0), B(1, 1) and C(0, 1). To trans
 
 Let M = (a b / c d). Then:
 
-```
+```text
 M (1 / 0) = ( a )        M (0 / 1) = ( b )
             ( c )                     ( d )
 ```
@@ -161,7 +161,7 @@ A(1, 0) turns to (0, 1). C(0, 1) turns to (−1, 0). Put these in as columns: th
 
 Check with the vertex B(1, 1):
 
-```
+```text
 ( 0  −1 ) ( 1 )  =  ( −1 )
 ( 1   0 ) ( 1 )     (  1 )
 ```
@@ -203,7 +203,7 @@ For example, reflection in y = −x sends A(1, 0) to (0, −1) and C(0, 1) to (�
 <!-- /marlbridge-diagram:maths-b31-matrix-reflection-y-equals-minus-x -->
 
 
-```
+```text
 ( 0  −1 ) ( 2 )  =  ( −1 )      so (2, 1) → (−1, −2)
 (−1   0 ) ( 1 )     ( −2 )
 
@@ -254,7 +254,7 @@ The first transformation is the matrix **nearest the point**: BA(x / y) = B(A(x 
 
 The first matrix is M = (1 0 / 0 −1). The second is R = (0 −1 / 1 0). The combined matrix is RM.
 
-```
+```text
 RM = ( 0  −1 ) ( 1   0 )  =  ( 0×1 + (−1)×0    0×0 + (−1)×(−1) )  =  ( 0  1 )
      ( 1   0 ) ( 0  −1 )     ( 1×1 + 0×0       1×0 + 0×(−1)     )     ( 1  0 )
 ```
@@ -265,7 +265,7 @@ Check with (2, 3). Reflection in y = 0 gives (2, −3). Rotating that 90° antic
 
 **Example 10.** Now do the same two transformations in the other order: rotation first, then reflection in y = 0.
 
-```
+```text
 MR = ( 1   0 ) ( 0  −1 )  =  (  0  −1 )
      ( 0  −1 ) ( 1   0 )     ( −1   0 )
 ```
@@ -276,7 +276,7 @@ This is reflection in y = −x. A different order gives a different single trans
 
 The enlargement matrix is (3 0 / 0 3) and the reflection matrix is (−1 0 / 0 1). The combined matrix, enlargement first, is:
 
-```
+```text
 ( −1  0 ) ( 3  0 )  =  ( −3  0 )
 (  0  1 ) ( 0  3 )     (  0  3 )
 ```
@@ -287,7 +287,7 @@ Then (−3 0 / 0 3)(2 / 1) = (−6 / 3), so (2, 1) goes to (−6, 3).
 
 Doing the same transformation twice means squaring its matrix. For R = (0 −1 / 1 0):
 
-```
+```text
 R² = RR = ( −1   0 )
           (  0  −1 )
 ```

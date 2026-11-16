@@ -118,7 +118,7 @@ Fleming's left-hand rule uses conventional current. For a **positive** charge, p
 
 F = BQv = 0.062 × 1.60 × 10⁻¹⁹ × 3.2 × 10⁶ = **3.2 × 10⁻¹⁴ N**
 
-a = F / m = 3.1744 × 10⁻¹⁴ / 9.11 × 10⁻³¹ = **3.5 × 10¹⁶ m s⁻²**
+a = F / m = 3.1744 × 10⁻¹⁴ / (9.11 × 10⁻³¹) = **3.5 × 10¹⁶ m s⁻²**
 
 **Worked example 5 (direction).** An electron moves to the right, and the field points out of the page. Which way does it deflect?
 
@@ -144,7 +144,7 @@ If a particle is accelerated from rest through a potential difference V before e
 
 **Worked example 6.** An alpha particle (charge 3.20 × 10⁻¹⁹ C, mass 6.64 × 10⁻²⁷ kg) is accelerated from rest through 2400 V and enters a field of 0.15 T at right angles. Find its orbit radius and period.
 
-v = √(2QV / m) = √(2 × 3.20 × 10⁻¹⁹ × 2400 / 6.64 × 10⁻²⁷) = 4.81 × 10⁵ m s⁻¹
+v = √(2QV / m) = √(2 × 3.20 × 10⁻¹⁹ × 2400 / (6.64 × 10⁻²⁷)) = 4.81 × 10⁵ m s⁻¹
 
 r = mv / (BQ) = 6.64 × 10⁻²⁷ × 4.81 × 10⁵ / (0.15 × 3.20 × 10⁻¹⁹) = **0.067 m**
 
@@ -181,7 +181,7 @@ Maximum speed: v = BQR / m. Maximum kinetic energy: ½mv² = (BQR)² / (2m).
 
 (a) f = BQ / (2πm) = 0.80 × 1.60 × 10⁻¹⁹ / (2π × 1.67 × 10⁻²⁷) = **1.2 × 10⁷ Hz**
 
-(b) v = BQR / m = 0.80 × 1.60 × 10⁻¹⁹ × 0.25 / 1.67 × 10⁻²⁷ = **1.9 × 10⁷ m s⁻¹**
+(b) v = BQR / m = 0.80 × 1.60 × 10⁻¹⁹ × 0.25 / (1.67 × 10⁻²⁷) = **1.9 × 10⁷ m s⁻¹**
 
 (c) Ek = ½mv² = ½ × 1.67 × 10⁻²⁷ × (1.916 × 10⁷)² = **3.1 × 10⁻¹³ J**, which is 1.9 MeV.
 

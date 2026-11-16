@@ -86,10 +86,10 @@ These questions cover section 4.5 (Quantum physics: photons, the photoelectric e
 **(c)** E = eV = 1.60 × 10⁻¹⁹ × 450 = **7.2 × 10⁻¹⁷ J** [1] **[1]**
 *Examiner insight:* Give the unit with each answer; a bare number in a mixed eV and J question is easy to misread.
 
-**2.** f = E/h = 3.2 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ [1] = **4.8 × 10¹⁴ Hz** [1]. λ = c/f = 3.00 × 10⁸ / 4.83 × 10¹⁴ = **6.2 × 10⁻⁷ m** (620 nm) [1] **[3]**
+**2.** f = E/h = 3.2 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ [1] = **4.8 × 10¹⁴ Hz** [1]. λ = c/f = 3.00 × 10⁸ / (4.83 × 10¹⁴) = **6.2 × 10⁻⁷ m** (620 nm) [1] **[3]**
 *Examiner insight:* Carry unrounded values into the second part; rounding f to 4.8 first changes the third significant figure of λ.
 
-**3.** E = hc/λ [1] = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 280 × 10⁻⁹ = 7.10 × 10⁻¹⁹ J [1]. In eV: 7.10 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ = **4.44 eV** [1] **[3]**
+**3.** E = hc/λ [1] = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (280 × 10⁻⁹) = 7.10 × 10⁻¹⁹ J [1]. In eV: 7.10 × 10⁻¹⁹ / (1.60 × 10⁻¹⁹) = **4.44 eV** [1] **[3]**
 *Examiner insight:* Convert nanometres to metres at the start; a 10⁹ slip is the most common cause of a wrong answer here.
 
 **4.** Photon energy = hc/λ = 3.06 × 10⁻¹⁹ J [1]. N = P/E = 5.0 × 10⁻³ / 3.06 × 10⁻¹⁹ [1] = **1.6 × 10¹⁶ s⁻¹** [1] **[3]**
@@ -118,11 +118,11 @@ These questions cover section 4.5 (Quantum physics: photons, the photoelectric e
 *Examiner insight:* Say that the plate is negative and what is leaving it; "the leaf falls" without a cause earns little.
 
 **11. (a)** Photon energy = hc/λ = 3.83 × 10⁻¹⁹ J [1]. φ = 2.10 × 1.60 × 10⁻¹⁹ = 3.36 × 10⁻¹⁹ J [1]. KEmax = **4.7 × 10⁻²⁰ J** [1] **[3]**
-**(b)** ½mv² = 4.65 × 10⁻²⁰ [1]. v = √(2 × 4.65 × 10⁻²⁰ / 9.11 × 10⁻³¹) = **3.2 × 10⁵ m s⁻¹** [1] **[2]**
+**(b)** ½mv² = 4.65 × 10⁻²⁰ [1]. v = √(2 × 4.65 × 10⁻²⁰ / (9.11 × 10⁻³¹)) = **3.2 × 10⁵ m s⁻¹** [1] **[2]**
 **(c)** KEmax is unchanged because photon energy depends only on frequency [1]. The photoelectric current triples because three times as many photons per second release three times as many electrons per second [1] **[2]**
 *Examiner insight:* Put both quantities in the answer, and give the reason in terms of photons.
 
-**12. (a)** eV = 1.60 × 10⁻¹⁹ × 150 = 2.4 × 10⁻¹⁷ J, and p = √(2m × eV) [1] = 6.6 × 10⁻²⁴ kg m s⁻¹ [1]. λ = h/p = 6.63 × 10⁻³⁴ / 6.61 × 10⁻²⁴ = **1.0 × 10⁻¹⁰ m** [1] **[3]**
+**12. (a)** eV = 1.60 × 10⁻¹⁹ × 150 = 2.4 × 10⁻¹⁷ J, and p = √(2m × eV) [1] = 6.6 × 10⁻²⁴ kg m s⁻¹ [1]. λ = h/p = 6.63 × 10⁻³⁴ / (6.61 × 10⁻²⁴) = **1.0 × 10⁻¹⁰ m** [1] **[3]**
 **(b)** A set of concentric rings appears [1]. The atoms in the graphite, and the spacing between them, diffract the electrons, and diffraction and interference are wave properties [1]. The pattern is only possible if the electrons behave as waves [1] **[3]**
 **(c)** p ∝ √V, so four times V doubles p and halves λ to **5.0 × 10⁻¹¹ m** [1]. The rings become smaller in radius, closer to the centre [1] **[2]**
 *Examiner insight:* Link the observation (rings) to the property (diffraction) and then to the conclusion (wave behaviour).

@@ -199,7 +199,7 @@ White light: a white central maximum, then spectra with violet nearest the centr
 6. It becomes **wider** and **less intense**.
 7. 2Dλ/b = 2 × 2.0 × 500 × 10⁻⁹ / 0.12 × 10⁻³ = **16.7 mm** (1.67 cm).
 8. d/b = 3: the **third order** is missing; 2(3) − 1 = **5** bright fringes.
-9. sin θ = 550 × 10⁻⁹ / 2.00 × 10⁻⁶ = 0.275, θ = **16.0°**. d/λ = 3.64, so the highest order is **3**.
+9. sin θ = 550 × 10⁻⁹ / (2.00 × 10⁻⁶) = 0.275, θ = **16.0°**. d/λ = 3.64, so the highest order is **3**.
 10. d = 480 × 10⁻⁹ / sin 20.0° = 1.40 × 10⁻⁶ m, giving **713 lines per mm** (to 3 s.f.).
 11. The central maximum is **white**. The first order is a **spectrum**, violet nearest the centre and red furthest.
 

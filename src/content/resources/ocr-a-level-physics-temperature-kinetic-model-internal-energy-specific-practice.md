@@ -150,7 +150,7 @@ These questions cover sections 5.1.1 to 5.1.3 of the OCR Advanced GCE in Physics
 
 **11.** **(a)** The liquid is boiling at the same temperature in both runs, so the rate of energy loss is the same. [1] The extra energy supplied at the higher power only vaporises the extra mass. [1]
 **(b)** Extra energy = (140 − 70) × 420 = 29 400 J [1] Extra mass = 0.0241 − 0.0113 = 0.0128 kg [1] l = 29 400 / 0.0128 = **2.30 × 10⁶ J kg⁻¹** [1]
-**(c)** Ratio = 2.30 × 10⁶ / 3.34 × 10⁵ = 6.9 [1] In vaporisation molecules go from close contact to far apart, gaining more potential energy. [1] In fusion they stay close and are only loosened. [1]
+**(c)** Ratio = 2.30 × 10⁶ / (3.34 × 10⁵) = 6.9 [1] In vaporisation molecules go from close contact to far apart, gaining more potential energy. [1] In fusion they stay close and are only loosened. [1]
 *Examiner insight:* The same-temperature argument is the key idea in part (a); a vague "losses cancel" is weaker.
 
 **12.** **(a)** Temperature rises steadily from −20 °C to 0 °C, [1] a flat section at 0 °C, then a less steep rise to 40 °C (water has the larger specific heat capacity). [1]

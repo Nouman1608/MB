@@ -81,7 +81,7 @@ Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable check
 **2.** ΔE = −3.6 − (−8.2) = 4.6 eV [1]. ΔE = 4.6 × 1.60 × 10⁻¹⁹ = 7.36 × 10⁻¹⁹ J, and λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 7.36 × 10⁻¹⁹ [1]. λ = 2.70 × 10⁻⁷ m, which is **270 nm** [1]. **[3]**
 *Examiner insight:* A common route to losing credit is putting 4.6 eV straight into hc/λ; the conversion to joules is part of the method, so show it.
 
-**3.** f = ΔE/h = 2.9 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ [1]. f = **4.4 × 10¹⁴ Hz** (4.37 × 10¹⁴ Hz unrounded) [1]. λ = c/f = 3.00 × 10⁸ / 4.37 × 10¹⁴ = 6.9 × 10⁻⁷ m, which is **690 nm** [1]. **[3]**
+**3.** f = ΔE/h = 2.9 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ [1]. f = **4.4 × 10¹⁴ Hz** (4.37 × 10¹⁴ Hz unrounded) [1]. λ = c/f = 3.00 × 10⁸ / (4.37 × 10¹⁴) = 6.9 × 10⁻⁷ m, which is **690 nm** [1]. **[3]**
 *Examiner insight:* Using the unrounded frequency in the second step avoids a rounding drift, and a clear unit on each answer helps your working to be followed.
 
 **4.** The hot interior emits a continuous spectrum [1]. Atoms in the cooler outer gas absorb photons whose energy equals the gap between two of their energy levels [1]. The photons are re-emitted in all directions, so the intensity at those wavelengths in the beam is reduced and dark lines appear [1]. The wavelengths of the dark lines are compared with the laboratory line spectra of known elements; a match to the whole set of lines of an element identifies it [1]. **[4]**
@@ -90,13 +90,13 @@ Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable check
 **5.** The number of drops is 3 + 2 + 1 = **6 lines** [1]. The shortest wavelength is from the largest gap, −0.9 eV to −7.9 eV, which is 7.0 eV [1]. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (7.0 × 1.60 × 10⁻¹⁹) = 1.78 × 10⁻⁷ m, which is **178 nm** [1]. **[3]**
 *Examiner insight:* Naming which two levels give the shortest wavelength shows the reasoning; stating only a final number leaves nothing to credit if it is wrong.
 
-**6.** d = 1.00 × 10⁻³ / 450 = 2.22 × 10⁻⁶ m [1]. First order: sin θ = 610 × 10⁻⁹ / 2.22 × 10⁻⁶ = 0.2745, so **θ = 15.9°** [1]. Second order: sin θ = 2 × 0.2745 = 0.549 [1], so **θ = 33.3°** [1]. **[4]**
+**6.** d = 1.00 × 10⁻³ / 450 = 2.22 × 10⁻⁶ m [1]. First order: sin θ = 610 × 10⁻⁹ / (2.22 × 10⁻⁶) = 0.2745, so **θ = 15.9°** [1]. Second order: sin θ = 2 × 0.2745 = 0.549 [1], so **θ = 33.3°** [1]. **[4]**
 *Examiner insight:* Take sin⁻¹ of the whole value 2λ/d. Doubling the first order angle (31.9°) is a typical slip and gives the wrong answer.
 
-**7.** d = 1.00 × 10⁻³ / 250 = 4.00 × 10⁻⁶ m [1]. n must satisfy n ≤ d/λ = 4.00 × 10⁻⁶ / 450 × 10⁻⁹ = 8.89, so the highest order is 8 [1]. Maxima on both sides and the centre: 2 × 8 + 1 = **17** [1]. **[3]**
+**7.** d = 1.00 × 10⁻³ / 250 = 4.00 × 10⁻⁶ m [1]. n must satisfy n ≤ d/λ = 4.00 × 10⁻⁶ / (450 × 10⁻⁹) = 8.89, so the highest order is 8 [1]. Maxima on both sides and the centre: 2 × 8 + 1 = **17** [1]. **[3]**
 *Examiner insight:* Round the highest order down, never up, because an order above d/λ would need sin θ greater than 1. The count of 16 omits the central maximum.
 
-**8. (a)** T(A) = 2.90 × 10⁻³ / 355 × 10⁻⁹ = **8170 K** [1]. T(B) = 2.90 × 10⁻³ / 1450 × 10⁻⁹ = **2000 K** [1].
+**8. (a)** T(A) = 2.90 × 10⁻³ / (355 × 10⁻⁹) = **8170 K** [1]. T(B) = 2.90 × 10⁻³ / (1450 × 10⁻⁹) = **2000 K** [1].
 **(b)** T(A)/T(B) = 8170/2000 = **4.08** (or 1450/355 = 4.08) [1].
 **(c)** Star A, because it has the shorter peak wavelength, so it is hotter and its peak lies nearer the blue/ultraviolet end [1]. **[4]**
 *Examiner insight:* Part (c) needs the reason as well as the star; saying "A is hotter" without the link to peak wavelength is only half of the argument.
@@ -104,7 +104,7 @@ Links: [OCR A Level Physics hub](/boards/ocr/a-level/physics/), [printable check
 **9.** Surface area = 4πr² = 4π × (2.1 × 10⁹)² = 5.54 × 10¹⁹ m² [1]. σT⁴ = 5.67 × 10⁻⁸ × (9200)⁴ = 4.06 × 10⁸ W m⁻² [1]. L = 5.54 × 10¹⁹ × 4.06 × 10⁸ = **2.25 × 10²⁸ W** [1]. **[3]**
 *Examiner insight:* Raise the temperature to the fourth power before multiplying, and write the unit W. Squaring T instead of raising it to the fourth is the usual error.
 
-**10.** T = 2.90 × 10⁻³ / λmax [1]. T = 2.90 × 10⁻³ / 910 × 10⁻⁹ = 3190 K (keep 3186.8 K unrounded) [1]. r² = L / (4πσT⁴) [1]. 4πσT⁴ = 4π × 5.67 × 10⁻⁸ × (3186.8)⁴ = 7.35 × 10⁷ W m⁻² [1]. r² = 3.0 × 10²⁹ / 7.35 × 10⁷ = 4.08 × 10²¹, so **r = 6.4 × 10¹⁰ m** [1]. r/r(Sun) = 6.39 × 10¹⁰ / 6.96 × 10⁸ = **about 92 times** the Sun's radius [1]. **[6]**
+**10.** T = 2.90 × 10⁻³ / λmax [1]. T = 2.90 × 10⁻³ / (910 × 10⁻⁹) = 3190 K (keep 3186.8 K unrounded) [1]. r² = L / (4πσT⁴) [1]. 4πσT⁴ = 4π × 5.67 × 10⁻⁸ × (3186.8)⁴ = 7.35 × 10⁷ W m⁻² [1]. r² = 3.0 × 10²⁹ / (7.35 × 10⁷) = 4.08 × 10²¹, so **r = 6.4 × 10¹⁰ m** [1]. r/r(Sun) = 6.39 × 10¹⁰ / 6.96 × 10⁸ = **about 92 times** the Sun's radius [1]. **[6]**
 *Examiner insight:* Show the rearrangement before the numbers and keep the square root to the last line. Rounding T early to 3200 K gives a visibly different radius.
 
 **11. (a)** d = 1.00 × 10⁻³ / 600 = 1.67 × 10⁻⁶ m [1]. λ = d sin θ with n = 1 [1]. 23.2° gives **657 nm**, 18.1° gives **518 nm** and 17.0° gives **487 nm** [1].

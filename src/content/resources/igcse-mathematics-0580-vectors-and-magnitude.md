@@ -55,7 +55,7 @@ In running text this page writes a column vector as "the column vector (x, y)", 
 
 A translation slides every point of a shape the same distance in the same direction. A column vector records that movement:
 
-```
+```text
 ( x )   x = movement across: positive to the right, negative to the left
 ( y )   y = movement up/down: positive up, negative down
 ```
@@ -68,7 +68,7 @@ A translation maps point P(−3, 5) onto point Q(4, −1). Write the translation
 
 Work out how far you move in each direction, always **finish minus start**:
 
-```
+```text
 across: 4 − (−3) = 7      (7 to the right)
 up:    −1 − 5    = −6     (6 down)
 
@@ -129,7 +129,7 @@ Subtract entry by entry. It helps to think of **a** − **b** as **a** + (−**b
 
 **p** is the column vector (5, −2) and **q** is the column vector (−1, 7). Find **p** + **q**, **p** − **q** and **q** − **p**.
 
-```
+```text
           (  5 )   ( −1 )   (  5 + (−1) )   ( 4 )
 p + q  =  ( −2 ) + (  7 ) = ( −2 + 7    ) = ( 5 )
 
@@ -174,7 +174,7 @@ In every case k**a** is **parallel** to **a**. Showing that one vector is a scal
 
 **r** is the column vector (6, −4). Find 3**r**, −2**r** and ½**r**. Then, with **p** and **q** from Worked example 3, find 3**p** − 2**q**.
 
-```
+```text
 3r   = (3 × 6,  3 × (−4))  = (18, −12)
 −2r  = (−2 × 6, −2 × (−4)) = (−12, 8)
 ½r   = (½ × 6,  ½ × (−4))  = (3, −2)
@@ -184,7 +184,7 @@ In every case k**a** is **parallel** to **a**. Showing that one vector is a scal
 
 For a combination, scale first, then add or subtract:
 
-```
+```text
          (  15 )   ( −2 )   ( 15 − (−2) )   (  17 )
 3p − 2q = ( −6 ) − ( 14 ) = ( −6 − 14   ) = ( −20 )
 ```
@@ -195,7 +195,7 @@ Find x and y if the column vector (x, 4) plus 3 times the column vector (2, y) e
 
 Two vectors are equal only when their top entries are equal **and** their bottom entries are equal. So split the vector equation into two ordinary equations:
 
-```
+```text
 top:     x + 3 × 2 = 11   →  x + 6 = 11   →  x = 5
 bottom:  4 + 3y    = −5   →  3y = −9      →  y = −3
 ```
@@ -216,14 +216,14 @@ bottom:  4 + 3y    = −5   →  3y = −9      →  y = −3
 
 Compare top entries and bottom entries:
 
-```
+```text
 top:     2m − n  = 1     ... (1)
 bottom:  m + 3n  = 11    ... (2)
 ```
 
 From (1), n = 2m − 1. Substitute into (2):
 
-```
+```text
 m + 3(2m − 1) = 11
 m + 6m − 3    = 11
 7m            = 14   →  m = 2
@@ -278,7 +278,7 @@ Find the exact magnitude of the column vector (4, −6).
 
 A translation maps A(1, −4) onto B(6, 3). Find |AB|.
 
-```
+```text
        ( 6 − 1    )   ( 5 )
 AB  =  ( 3 − (−4) ) = ( 7 )
 
@@ -312,7 +312,7 @@ So |**a** + **b**| is **not** |**a**| + |**b**|. Never work out magnitudes separ
 
 The column vector (k, −24) has magnitude 25. Find the possible values of k.
 
-```
+```text
 k² + (−24)² = 25²
 k² + 576    = 625
 k²          = 49

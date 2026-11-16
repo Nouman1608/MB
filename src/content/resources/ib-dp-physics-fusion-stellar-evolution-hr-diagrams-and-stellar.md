@@ -83,7 +83,7 @@ Using atomic masses includes the electrons, so the figure counts the energy from
 
 ```
 E per fusion = 26.7 × 1.602 × 10⁻¹³ = 4.28 × 10⁻¹² J
-fusions per second = 3.83 × 10²⁶ / 4.28 × 10⁻¹² = 8.94 × 10³⁷ s⁻¹
+fusions per second = 3.83 × 10²⁶ / (4.28 × 10⁻¹²) = 8.94 × 10³⁷ s⁻¹
 hydrogen used per second = 8.94 × 10³⁷ × 4 × 1.007825 × 1.661 × 10⁻²⁷ kg
                          = 6.0 × 10¹¹ kg per second
 mass converted to energy = L / c² = 3.83 × 10²⁶ / (3.00 × 10⁸)² = 4.26 × 10⁹ kg per second

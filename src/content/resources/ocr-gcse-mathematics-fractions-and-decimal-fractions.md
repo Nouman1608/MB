@@ -256,7 +256,7 @@ Call the decimal x, multiply to line up the repeating part, and subtract to remo
 
 **Example 1.** Write 0.303030... (0.30 recurring) as a fraction.
 
-```
+```text
 x    = 0.303030...
 100x = 30.303030...
 99x  = 30
@@ -265,7 +265,7 @@ x    = 30/99 = 10/33
 
 **Example 2.** Write 0.3555... (3 then 5 recurring) as a fraction. Multiply by 10 to reach the repeating part and by 100 to move one full cycle further:
 
-```
+```text
 10x  = 3.555...
 100x = 35.555...
 90x  = 32
@@ -308,7 +308,7 @@ Line up the decimal points and fill the gaps with zeros.
 
 **Example.** Work out 14.6 − 8.375.
 
-```
+```text
  14.600
 − 8.375
  ------

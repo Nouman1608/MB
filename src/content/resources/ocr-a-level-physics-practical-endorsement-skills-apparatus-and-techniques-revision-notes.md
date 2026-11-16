@@ -155,7 +155,7 @@ These notes condense OCR A Level Physics A (H556), section 1.2.1 (practical skil
 
 **Multiple oscillations.** 10 oscillations take 14.6 s. T = 14.6 / 10 = 1.46 s. A ±0.2 s timing error gives ±0.02 s in T, about 1.4 %.
 
-**Grating.** 600 lines per mm gives d = 1.667 × 10⁻⁶ m. For light of wavelength 650 nm in the first order, sin θ = 650 × 10⁻⁹ / 1.667 × 10⁻⁶ = 0.39, so θ = 23.0°. Measuring the angle on both sides of the central maximum and averaging helps check that the grating is square to the beam.
+**Grating.** 600 lines per mm gives d = 1.667 × 10⁻⁶ m. For light of wavelength 650 nm in the first order, sin θ = 650 × 10⁻⁹ / (1.667 × 10⁻⁶) = 0.39, so θ = 23.0°. Measuring the angle on both sides of the central maximum and averaging helps check that the grating is square to the beam.
 
 **Radiation.** Background 72 counts in 300 s is 0.24 s⁻¹. A source giving 1944 counts in 60 s is 32.4 s⁻¹. Corrected rate: 32.4 − 0.24 = 32.2 s⁻¹.
 

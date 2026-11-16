@@ -62,7 +62,7 @@ The amount of substance n, in moles, counts particles in bundles of the Avogadro
 
 n = N/NA, so N = nNA.
 
-**Worked example 2.** A sample contains 2.408 × 10²⁴ molecules. n = 2.408 × 10²⁴ / 6.02 × 10²³ = **4.00 mol**. In reverse, 0.250 mol has 0.250 × 6.02 × 10²³ = 1.51 × 10²³ molecules.
+**Worked example 2.** A sample contains 2.408 × 10²⁴ molecules. n = 2.408 × 10²⁴ / (6.02 × 10²³) = **4.00 mol**. In reverse, 0.250 mol has 0.250 × 6.02 × 10²³ = 1.51 × 10²³ molecules.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-ideal-gases-pressure-the-gas-laws-and-kinetic-theory--01-pressure.webp" width="900" height="1170" alt="A 18 kg crate on a 0.30 m by 0.20 m face has weight 176.6 N over 0.060 square metres, giving 2943 Pa. Below, a 100 N force at 35 degrees to a wall has only its right-angle component, 81.9 N, counting towards pressure." loading="lazy">

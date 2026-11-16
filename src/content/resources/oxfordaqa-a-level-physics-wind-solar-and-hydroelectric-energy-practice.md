@@ -124,7 +124,7 @@ These questions cover sections 3.13.2 to 3.13.4 of the OxfordAQA International A
 
 **11. (a)** A base-power station runs continuously at a steady output to meet constant demand [1]; a back-up station starts quickly to meet extra demand at peak times [1]
 **(b)** Water is pumped to a high reservoir when demand is low, using surplus electricity [1]; stored as gravitational potential energy [1]; released through turbines to generate at peak demand, so it supplies back-up power quickly (it is a store, not a source) [1]
-**(c)** E = ρVgh = 1000 × 1.2 × 10⁶ × 9.81 × 250 = 2.94 × 10¹² J [1]; = 2.94 × 10¹² / 3.6 × 10⁹ = 817.5 MWh [1]; output = 0.85 × 817.5 = **695 MWh** [1]
+**(c)** E = ρVgh = 1000 × 1.2 × 10⁶ × 9.81 × 250 = 2.94 × 10¹² J [1]; = 2.94 × 10¹² / (3.6 × 10⁹) = 817.5 MWh [1]; output = 0.85 × 817.5 = **695 MWh** [1]
 *Examiner insight:* "Stores energy" with no mention of when it is pumped and when it is released is a common half-answer; include the demand condition.
 
 ## Where marks are usually lost

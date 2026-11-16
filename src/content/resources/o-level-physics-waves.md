@@ -274,7 +274,7 @@ White light is a mixture of colours. A glass prism refracts each colour by a dif
 
 In order of increasing frequency (and decreasing wavelength): radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays. In a vacuum every one of them moves at 3.0 × 10⁸ m/s, and air changes this very little.
 
-Worked example 7: a 100 MHz (1.0 × 10⁸ Hz) radio signal has λ = v/f = 3.0 × 10⁸ / 1.0 × 10⁸ = **3.0 m**.
+Worked example 7: a 100 MHz (1.0 × 10⁸ Hz) radio signal has λ = v/f = 3.0 × 10⁸ / (1.0 × 10⁸) = **3.0 m**.
 
 - Radio waves: radio and television, astronomy.
 - Microwaves: satellite television, mobile phones, Bluetooth, microwave ovens.

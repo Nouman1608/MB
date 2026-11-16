@@ -62,7 +62,7 @@ You should be able to turn a real structure into a graph: towns become vertices 
 
 A directed graph has edges P→Q, Q→P, Q→R, R→P, R→S and S→Q. Find the in and out degree of each vertex and decide whether the graph is strongly connected.
 
-```
+```text
 Vertex   in   out
 P        2    1
 Q        2    2
@@ -98,7 +98,7 @@ For walks of length up to k, add the matrices: A + A² + … + Aᵏ.
 
 An undirected graph has edges AB, AC, BC, BD and CD. Find the number of walks of length 3 from A to D, and of length at most 3.
 
-```
+```text
       A B C D                   A B C D
 A = [ 0 1 1 0 ]          A³ = [ 2 5 5 2 ]
     [ 1 0 1 1 ]               [ 5 4 5 5 ]
@@ -120,7 +120,7 @@ The steady-state vector s satisfies Ts = s with entries summing to 1. In Google'
 
 Use the directed graph from worked example 1. Out degrees: P 1, Q 2, R 2, S 1.
 
-```
+```text
         from P  Q    R    S
 to P   [ 0    1/2  1/2   0 ]
 to Q   [ 1     0    0    1 ]
@@ -201,7 +201,7 @@ Find the shortest closed route that travels along every edge at least once.
 
 Edges: AB 5, AC 8, AD 6, BC 4, BE 7, CD 3, CE 9, DE 10. Total = **52**. Degrees: A 3, B 3, C 4, D 3, E 3, so the odd vertices are A, B, D, E.
 
-```
+```text
 AB + DE = 5 + 10       = 15
 AD + BE = 6 + 7        = 13   ← least
 AE + BD = 12 + 7       = 19   (A–B–E, B–C–D)

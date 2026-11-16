@@ -168,7 +168,7 @@ Explain why the satellite is accelerating. **[3]**
 *Examiner insight:* In (a) the three marks follow observe → pattern → model; describing the Big Bang itself without mentioning the observations scores at most 1.
 
 **11. (a)** f = v / λ = 3.00 × 10⁸ / 400 × 10⁻⁹ [1] = **7.50 × 10¹⁴ Hz** [1]
-**(b)** f = 3.00 × 10⁸ / 436 × 10⁻⁹ = **6.88 × 10¹⁴ Hz** [1]
+**(b)** f = 3.00 × 10⁸ / (436 × 10⁻⁹) = **6.88 × 10¹⁴ Hz** [1]
 **(c)** The wavelength has increased (red-shift) [1], so the galaxy is moving away from the Earth [1]
 **(d)** Gold is heavier than iron, so it was produced in a supernova [1]; the supernova was the explosion of a star much more massive than the Sun [1]; the explosion distributed the gold through the universe, where it became part of the material in this galaxy [1]
 *Examiner insight:* Converting nm to m (× 10⁻⁹) is essential in (a); an answer out by a power of ten loses the accuracy mark but keeps the method mark if the equation is correct.

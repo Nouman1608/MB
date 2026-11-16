@@ -237,7 +237,7 @@ A grating has 300 lines per mm. Light of wavelength 589 nm is incident normally.
 
 ```
 d = 1 / (300 × 10³) = 3.33 × 10⁻⁶ m
-sin θ₁ = λ/d = 589 × 10⁻⁹ / 3.33 × 10⁻⁶ = 0.177 → θ₁ = 10.2°
+sin θ₁ = λ/d = 589 × 10⁻⁹ / (3.33 × 10⁻⁶) = 0.177 → θ₁ = 10.2°
 d/λ = 5.66 → highest order n = 5
 ```
 

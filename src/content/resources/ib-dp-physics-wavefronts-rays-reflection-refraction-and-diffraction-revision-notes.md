@@ -176,7 +176,7 @@ Speed, wavelength and frequency do not change on diffraction. The wavefront shap
 3. Speed and wavelength change. Frequency does not.
 4. sin θ2 = sin 25.0° / 1.33 = 0.4226 / 1.33 = 0.3177, so θ2 = 18.5°.
 5. v = 3.00 × 10⁸ / 1.60 = 1.88 × 10⁸ m s⁻¹. λ = 650 / 1.60 = 406 nm.
-6. n = c / v = 3.00 × 10⁸ / 2.25 × 10⁸ = 1.33.
+6. n = c / v = 3.00 × 10⁸ / (2.25 × 10⁸) = 1.33.
 7. sin θ2 = (0.30 / 0.40) × sin 30° = 0.75 × 0.5 = 0.375, so θ2 = 22.0°.
 8. Light is going from a lower n to a higher n, so it bends towards the normal. The sine of the refracted angle can never reach 1, so there is no refracted angle of 90°.
 9. C = sin⁻¹(1.00 / 1.60) = 38.7°. The angle 38° is below C, so the ray emerges. sin θ2 = 1.60 × sin 38° = 0.985, so θ2 = 80.1°. Some light is also reflected.

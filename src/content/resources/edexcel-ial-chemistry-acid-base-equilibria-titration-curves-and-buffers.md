@@ -222,7 +222,7 @@ You need a buffer of pH 5.10 made from 250 cm³ of 0.180 mol dm⁻³ ethanoic ac
 
 ```
 [H⁺] = 10^-5.10 = 7.94 × 10⁻⁶ mol dm⁻³
-[A⁻] = Ka × [HA] / [H⁺] = 1.74 × 10⁻⁵ × 0.180 / 7.94 × 10⁻⁶ = 0.394 mol dm⁻³
+[A⁻] = Ka × [HA] / [H⁺] = 1.74 × 10⁻⁵ × 0.180 / (7.94 × 10⁻⁶) = 0.394 mol dm⁻³
 moles = 0.394 × 0.250 = 0.0986 mol
 mass  = 0.0986 × 82.0 = 8.08 g
 ```
