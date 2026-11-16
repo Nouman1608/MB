@@ -9,21 +9,22 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const GEN = 'docs/reports/topic-images/generated';
-const CSV = 'docs/reports/topic-images/topic-images-needed.csv';
 const args = process.argv.slice(2);
 const dry = args.includes('--dry-run');
 const only = new Set(args.filter((a) => !a.startsWith('--')));
 
-// slug -> lesson markdown path, from the report CSV (AP pages live under src/content/ap-resources/<course>/)
-const fileBySlug = new Map();
-for (const line of fs.readFileSync(CSV, 'utf8').split('\n').slice(1)) {
-  const cols = line.match(/"((?:[^"]|"")*)"/g)?.map((c) => c.slice(1, -1).replace(/""/g, '"'));
-  if (!cols || cols.length < 5) continue;
-  const file = cols[4];
-  const stem = path.basename(file, '.md');
-  const m = /^src\/content\/ap-resources\/([^/]+)\//.exec(file);
-  fileBySlug.set(m ? `ap-${m[1]}-${stem}` : stem, file);
-}
+// slug -> lesson markdown path. Lessons: src/content/resources/<slug>.md.
+// AP study guides: src/content/ap-resources/<course>/<stem>.md, slug "ap-<course>-<stem>".
+const AP = 'src/content/ap-resources';
+const apCourses = fs.readdirSync(AP).filter((c) => fs.statSync(path.join(AP, c)).isDirectory()).sort((a, b) => b.length - a.length);
+const fileBySlug = { get(slug) {
+  if (slug.startsWith('ap-')) {
+    for (const c of apCourses) {
+      if (slug.startsWith(`ap-${c}-`)) return path.join(AP, c, `${slug.slice(c.length + 4)}.md`);
+    }
+  }
+  return `src/content/resources/${slug}.md`;
+} };
 
 function parseBlocks(html) {
   const blocks = [];
