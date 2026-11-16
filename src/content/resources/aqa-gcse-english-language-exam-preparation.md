@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language: Balancing Reading and Writing Marks Across Both Papers (8700)"
+seoTitle: "AQA GCSE English Language Reading & Writing Marks Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Second Language Urdu: Paper 2 — Revision Notes"
+seoTitle: "Cambridge O Level Second Language Urdu Paper 2 Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["o-levels"]

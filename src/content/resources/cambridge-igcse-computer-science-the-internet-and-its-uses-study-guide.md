@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): The internet and its uses -- Study Guide"
+seoTitle: "Cambridge IGCSE CS Internet and Its Uses Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

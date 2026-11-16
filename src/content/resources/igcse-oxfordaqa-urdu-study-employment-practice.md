@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Urdu: Current and Future Study and Employment — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Study and Employment Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

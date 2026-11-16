@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: Microeconomic Decision Makers — Practice Questions (Cambridge 2281)"
+seoTitle: "Cambridge O Level Economics Decision Makers Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

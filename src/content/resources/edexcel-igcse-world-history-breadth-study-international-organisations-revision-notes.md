@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The League and the UN, 1919–c2011 — Revision Notes"
+seoTitle: "Edexcel IGCSE History League and the UN 1919–c2011 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

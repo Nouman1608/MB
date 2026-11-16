@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: China, Conflict, Crisis and Change, 1900–89 (4HI1)"
+seoTitle: "Edexcel IGCSE History China 1900–89 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

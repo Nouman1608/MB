@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Programming (7517)"
+seoTitle: "AQA A-Level Computer Science Programming Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

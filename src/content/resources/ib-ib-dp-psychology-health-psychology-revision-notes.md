@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Health psychology -- Revision Notes"
+seoTitle: "IB DP Psychology Health Psychology Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

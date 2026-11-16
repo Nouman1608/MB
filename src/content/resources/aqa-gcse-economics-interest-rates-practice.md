@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Economics: Interest Rates and Government Income and Expenditure — Practice Questions"
+seoTitle: "AQA GCSE Economics Interest Rates & Government Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["gcse"]

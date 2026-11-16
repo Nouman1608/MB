@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Cell Structure and Biological Molecules (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Cell Structure Study Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["igcse"]

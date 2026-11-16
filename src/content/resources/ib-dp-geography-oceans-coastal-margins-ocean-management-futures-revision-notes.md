@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 2.4 Ocean management futures -- Revision Notes"
+seoTitle: "IB DP Geography Ocean Management Futures Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

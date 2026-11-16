@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): The Feudal System (جاگیرداری نظام) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu The Feudal System Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

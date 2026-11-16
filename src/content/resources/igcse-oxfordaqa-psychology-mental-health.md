@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Psychology: Mental Health, OCD and PTSD (9218)"
+seoTitle: "OxfordAQA IGCSE Psychology Mental Health, OCD and PTSD Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Language 9270: Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Language 9270 Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

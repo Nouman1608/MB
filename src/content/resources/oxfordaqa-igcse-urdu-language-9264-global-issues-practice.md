@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Global Issues -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Global Issues Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

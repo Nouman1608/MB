@@ -1,5 +1,6 @@
 ---
 title: "O Level Mathematics: Number Practice Questions (Cambridge 4024)"
+seoTitle: "Cambridge O Level Maths Number Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

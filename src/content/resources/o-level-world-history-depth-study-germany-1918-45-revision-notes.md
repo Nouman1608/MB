@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study B, Germany 1918-45 — Revision Notes (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Germany 1918-45 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]

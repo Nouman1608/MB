@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level English Literature: Aspects of Dramatic Tragedy (9675)"
+seoTitle: "OxfordAQA A-Level English Literature Dramatic Tragedy Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

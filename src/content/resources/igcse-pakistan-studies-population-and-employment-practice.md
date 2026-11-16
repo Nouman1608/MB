@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Population and Employment — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pak Studies Population & Employment Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law: Underlying Principles and Law Making — Practice Questions"
+seoTitle: "Edexcel IAL Law Underlying Principles & Law Making Practice"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

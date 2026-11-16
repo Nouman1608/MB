@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Artificial Intelligence (AI) -- Study Guide"
+seoTitle: "Cambridge A Level Computer Science AI Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

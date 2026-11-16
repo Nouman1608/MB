@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Trigonometry (Extended) — Practice Questions (Cambridge 0580)"
+seoTitle: "Cambridge IGCSE Maths Extended Trigonometry Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

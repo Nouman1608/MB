@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Global Climate -- Vulnerability and Resilience -- Practice Questions"
+seoTitle: "IB DP Geography Global Climate Vulnerability Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["ib"]

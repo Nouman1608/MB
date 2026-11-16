@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Physics: Motion, Forces and Energy — Practice Questions"
+seoTitle: "Cambridge IGCSE Physics Motion, Forces and Energy Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

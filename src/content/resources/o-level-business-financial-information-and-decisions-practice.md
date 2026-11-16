@@ -1,5 +1,6 @@
 ---
 title: "O Level Business: Financial information and decisions — Practice Questions (Cambridge 7115)"
+seoTitle: "Cambridge O Level Business Financial Information Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

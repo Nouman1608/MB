@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Islamiat: Living the Muslim Life (9237)"
+seoTitle: "OxfordAQA IGCSE Islamiyat Living the Muslim Life Study Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

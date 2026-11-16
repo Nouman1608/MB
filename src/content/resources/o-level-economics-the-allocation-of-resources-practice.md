@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: The Allocation of Resources — Practice Questions"
+seoTitle: "Cambridge O Level Economics Allocation of Resources Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

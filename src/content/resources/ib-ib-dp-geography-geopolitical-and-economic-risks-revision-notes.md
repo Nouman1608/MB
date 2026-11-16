@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 13.1 Geopolitical and economic risks -- Revision Notes"
+seoTitle: "IB DP Geography Geopolitical and Economic Risks Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Paper 2 Investigation and Breadth Studies — Practice Questions"
+seoTitle: "Edexcel IGCSE History Investigation & Breadth Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

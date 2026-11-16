@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): Software -- Study Guide"
+seoTitle: "Cambridge IGCSE Computer Science Software Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE ICT: Operating Systems, Types of Computer and Emerging Technologies — Revision Notes (0417)"
+seoTitle: "Cambridge IGCSE ICT Operating Systems Revision Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["igcse"]

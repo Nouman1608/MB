@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Families -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Families Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

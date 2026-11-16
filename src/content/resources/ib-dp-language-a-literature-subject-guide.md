@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Language A: Literature: Subject Overview"
+seoTitle: "IB DP Language A Literature Subject Guide"
 resourceType: "subject-guides"
 subject: "language-a-literature"
 level: ["ib"]

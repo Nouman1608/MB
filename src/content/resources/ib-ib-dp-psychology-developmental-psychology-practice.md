@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Developmental psychology -- Practice Questions"
+seoTitle: "IB DP Psychology Developmental Psychology Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Me, My Family, Friends and People I Know"
+seoTitle: "OxfordAQA IGCSE Urdu 9264 Family and Friends Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

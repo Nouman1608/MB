@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Fundamentals of Programming — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Programming Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

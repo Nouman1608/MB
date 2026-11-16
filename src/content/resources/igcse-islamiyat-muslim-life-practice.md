@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiat: Living the Muslim Life — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Islamiat Living the Muslim Life Practice"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Component 3 Non-Examined Assessment — Revision Notes"
+seoTitle: "Edexcel IGCSE English Lit Non-Examined Assessment Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

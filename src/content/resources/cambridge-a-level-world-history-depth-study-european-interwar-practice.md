@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): European option: European history, 1919-41 -- Practice Questions"
+seoTitle: "Cambridge A Level History European History 1919-41 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

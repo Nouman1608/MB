@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Accounting: Types of Business Organisation — Practice Questions"
+seoTitle: "OxfordAQA A Level Accounting Business Organisation Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

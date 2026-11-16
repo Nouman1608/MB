@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Sociology: Family, Education and Crime — Revision Notes"
+seoTitle: "Cambridge IGCSE Sociology Family, Education and Crime Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

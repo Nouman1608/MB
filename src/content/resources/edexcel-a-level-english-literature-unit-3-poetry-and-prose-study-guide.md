@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel A Level English Literature (YET01): Unit 3 Poetry and Prose -- Study Guide"
+seoTitle: "Edexcel IAL English Literature Unit 3 Poetry and Prose Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

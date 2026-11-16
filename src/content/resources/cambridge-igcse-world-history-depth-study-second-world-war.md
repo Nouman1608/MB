@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Depth Study E, The Second World War 1939-c.1945 (0470)"
+seoTitle: "Cambridge IGCSE World History Second World War 1939-45 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Transformations and Vectors — Revision Notes"
+seoTitle: "Cambridge IGCSE Maths Transformations and Vectors Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["igcse"]

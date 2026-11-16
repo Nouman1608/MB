@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Biology: Gas Exchange Surfaces, Membranes and Osmosis — Practice Questions"
+seoTitle: "Edexcel IAL Biology Gas Exchange and Membranes Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

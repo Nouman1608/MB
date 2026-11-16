@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Sources and Recording of Data (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE 0452 Sources and Recording of Data Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

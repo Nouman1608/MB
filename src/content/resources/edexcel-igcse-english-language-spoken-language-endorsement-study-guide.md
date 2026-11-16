@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language (4EA1): Spoken Language Endorsement (optional) -- Study Guide"
+seoTitle: "Edexcel IGCSE English Spoken Language Endorsement Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

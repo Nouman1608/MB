@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Rocks, Energy Management and Fracking — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Rocks, Energy and Fracking Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

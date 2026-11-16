@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Communication — Revision Notes (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Computer Science Communication Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

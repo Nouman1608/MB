@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Two Equal Components and Where the Synoptic Marks Sit"
+seoTitle: "OCR GCSE Business Exam Prep: Components and Synoptic Marks"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["gcse"]

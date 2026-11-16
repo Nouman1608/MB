@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 Shakespeare and Pre-1900 Poetry (YET01): Revision Notes"
+seoTitle: "Edexcel IAL English Lit Shakespeare & Pre-1900 Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

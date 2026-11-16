@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Dynamics, Newton Laws and Momentum — Revision Notes"
+seoTitle: "Cambridge AS Physics Dynamics & Momentum Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

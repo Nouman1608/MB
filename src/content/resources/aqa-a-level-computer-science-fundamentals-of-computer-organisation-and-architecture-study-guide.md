@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Fundamentals of computer organisation and architecture -- Study Guide"
+seoTitle: "AQA A-Level CS Computer Organisation & Architecture Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

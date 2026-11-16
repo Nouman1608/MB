@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Physics: Estimation of Physical Quantities — Practice Questions"
+seoTitle: "AQA A-Level Physics Estimating Physical Quantities Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

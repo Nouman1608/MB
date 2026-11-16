@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: Preparing for H431 During Its Teach-Out to H436"
+seoTitle: "OCR A Level Business H431 to H436 Teach-Out Exam Prep"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["a-levels"]

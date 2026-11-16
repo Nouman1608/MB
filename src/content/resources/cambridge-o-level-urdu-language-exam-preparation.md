@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Urdu Language: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Urdu Language Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "urdu-language"
 level: ["o-levels"]

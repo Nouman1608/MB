@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Mathematics: Quadratics, Simultaneous Equations and Inequalities — Practice Questions"
+seoTitle: "AQA A-Level Maths Quadratics and Inequalities Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

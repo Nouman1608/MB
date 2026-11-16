@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A Divided Union, Civil Rights in the USA, 1945–74 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Civil Rights in the USA 1945–74 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

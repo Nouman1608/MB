@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 5.2 Tourism and sport at the local and national scale -- Revision Notes"
+seoTitle: "IB Geography Tourism and Sport Local and National Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

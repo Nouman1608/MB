@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Geography (9230): World cities – London and New York -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Geography World Cities Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

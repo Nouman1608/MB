@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Development -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Development Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

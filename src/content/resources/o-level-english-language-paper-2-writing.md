@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level English Language 1123: Paper 2 Writing Study Guide"
+seoTitle: "Cambridge O Level English Language Paper 2 Writing Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["o-levels"]

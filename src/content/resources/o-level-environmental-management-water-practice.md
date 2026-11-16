@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Water — Practice Questions (5014, 2027-2029)"
+seoTitle: "Cambridge O Level Environmental Management Water Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

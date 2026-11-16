@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Sciences: Course Models and eAssessment Content Scope — Revision Notes"
+seoTitle: "IB MYP Sciences Course Models and eAssessment Scope Notes"
 resourceType: "revision-notes"
 subject: "myp-sciences"
 level: ["ib"]

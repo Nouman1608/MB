@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Earthquakes and Volcanoes -- Practice Questions"
+seoTitle: "O Level Geography Earthquakes and Volcanoes Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

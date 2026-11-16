@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Globalisation of Trade — Revision Notes"
+seoTitle: "Cambridge IGCSE Commerce Globalisation of Trade Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

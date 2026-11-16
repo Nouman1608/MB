@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Chemistry: Chemical Bonds and Ionic Bonding — Practice Questions"
+seoTitle: "AQA GCSE Chemistry Chemical Bonds & Ionic Bonding Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

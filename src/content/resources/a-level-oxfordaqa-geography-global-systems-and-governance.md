@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Geography: Globalisation and Global Systems (9635)"
+seoTitle: "OxfordAQA A-Level Geography Globalisation and Global Systems"
 resourceType: "study-guides"
 subject: "geography"
 level: ["a-levels"]

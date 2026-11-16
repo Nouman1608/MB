@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Geography: Physical Geography 1 – Living with Hazards (9635)"
+seoTitle: "OxfordAQA A-Level Geography Living with Hazards Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["a-levels"]

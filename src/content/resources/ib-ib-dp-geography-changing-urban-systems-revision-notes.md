@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 7.2 Changing urban systems -- Revision Notes"
+seoTitle: "IB DP Geography Changing Urban Systems Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

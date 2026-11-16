@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Files, Queues, Stacks, Graphs, Trees, Hash Tables and Vectors (7517)"
+seoTitle: "AQA A-Level Computer Science Abstract Data Types Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

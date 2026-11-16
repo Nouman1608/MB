@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Theory of Computation — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Theory of Computation Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

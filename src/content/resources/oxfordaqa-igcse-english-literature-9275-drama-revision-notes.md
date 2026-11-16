@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Drama -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Drama Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

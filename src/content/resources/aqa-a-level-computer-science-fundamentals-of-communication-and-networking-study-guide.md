@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Fundamentals of communication and networking -- Study Guide"
+seoTitle: "AQA A-Level CS Communication and Networking Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

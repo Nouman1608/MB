@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Sciences: Course Models and eAssessment Content Scope -- Practice Questions"
+seoTitle: "IB MYP Sciences Course Models and eAssessment Scope Practice"
 resourceType: "practice-questions"
 subject: "myp-sciences"
 level: ["ib"]

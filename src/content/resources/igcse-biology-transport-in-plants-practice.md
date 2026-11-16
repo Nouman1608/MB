@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Transport in plants — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Transport in Plants Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

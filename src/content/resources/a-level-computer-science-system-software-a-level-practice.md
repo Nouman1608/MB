@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: System Software (A Level) — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 A Level System Software Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

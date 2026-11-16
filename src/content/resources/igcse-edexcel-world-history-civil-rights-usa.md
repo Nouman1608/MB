@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A Divided Union, Civil Rights in the USA, 1945–74 (4HI1)"
+seoTitle: "Edexcel IGCSE History Civil Rights in the USA 1945–74 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

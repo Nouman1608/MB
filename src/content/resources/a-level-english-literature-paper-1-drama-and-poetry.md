@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 1 - Drama and Poetry (Cambridge 9695)"
+seoTitle: "Cambridge A Level English Lit Drama and Poetry Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

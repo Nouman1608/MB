@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Home, Town, Neighbourhood and Region -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Home, Town and Neighbourhood Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

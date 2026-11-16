@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Organisational Psychology — Practice Questions"
+seoTitle: "Cambridge A Level Psychology Organisational Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Option D: Geophysical hazards -- Study Guide"
+seoTitle: "IB DP Geography Option D Geophysical Hazards Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

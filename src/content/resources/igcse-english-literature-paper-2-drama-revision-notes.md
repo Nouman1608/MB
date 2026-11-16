@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 2 - Drama — Revision Notes (Cambridge 0475)"
+seoTitle: "Cambridge IGCSE English Literature Drama Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

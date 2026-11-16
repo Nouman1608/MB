@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International GCSE Biology: Reproduction and Inheritance (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Reproduction and Inheritance Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["igcse"]

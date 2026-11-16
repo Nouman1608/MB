@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Immunity — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Immunity Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

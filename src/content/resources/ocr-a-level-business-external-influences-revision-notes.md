@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: External Influences Facing Businesses — Revision Notes"
+seoTitle: "OCR A Level Business External Influences Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

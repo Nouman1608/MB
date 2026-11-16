@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Accounting: Types of Business Organisation (9615)"
+seoTitle: "OxfordAQA A-Level Accounting Types of Business Organisation"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

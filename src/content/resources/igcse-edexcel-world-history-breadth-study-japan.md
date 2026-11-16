@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Japan in Transformation, 1853–1945 (4HI1)"
+seoTitle: "Edexcel IGCSE History Japan in Transformation 1853–1945"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Managing Business Activities — Practice Questions"
+seoTitle: "Edexcel IAL Business Managing Business Activities Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

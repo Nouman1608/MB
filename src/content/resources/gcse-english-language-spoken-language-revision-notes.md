@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language Spoken Language Endorsement: Revision Notes"
+seoTitle: "AQA GCSE English Spoken Language Endorsement Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["gcse"]

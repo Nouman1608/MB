@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: East Germany, 1958–90 — Revision Notes"
+seoTitle: "Edexcel IGCSE History East Germany 1958–90 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

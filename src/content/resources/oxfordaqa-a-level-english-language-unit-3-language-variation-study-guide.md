@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level English Language (9670): Unit 3 – Language Variation -- Study Guide"
+seoTitle: "OxfordAQA A Level English Language Variation Study Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

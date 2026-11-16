@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Computer Science: Records, Queues and Stacks (9645)"
+seoTitle: "OxfordAQA A-Level CS Records, Queues and Stacks Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Mathematics A: Tier Choice and Two-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Maths A Tier Choice and Two-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["igcse"]

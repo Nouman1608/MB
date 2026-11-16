@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Atomic Structure, Radius and Isotopes — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Atomic Structure & Isotopes Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

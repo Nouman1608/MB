@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: The Allocation of Resources (Cambridge 2281)"
+seoTitle: "Cambridge O Level Economics Allocation of Resources Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Hardware — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE Computer Science Hardware Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

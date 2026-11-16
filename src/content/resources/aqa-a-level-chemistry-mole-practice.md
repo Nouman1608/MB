@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Chemistry: Relative Mass, the Mole and the Avogadro Constant — Practice Questions"
+seoTitle: "AQA A-Level Chemistry Relative Mass and the Mole Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

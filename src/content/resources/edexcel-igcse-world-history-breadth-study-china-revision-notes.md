@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: China, Conflict, Crisis and Change, 1900–89 — Revision Notes"
+seoTitle: "Edexcel IGCSE History China 1900–89 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

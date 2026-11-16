@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Sociology: Introducing Sociology (9690)"
+seoTitle: "OxfordAQA A-Level Sociology Introducing Sociology Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["a-levels"]

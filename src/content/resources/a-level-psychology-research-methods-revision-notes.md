@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Psychology: Research Methods — Revision Notes (9990)"
+seoTitle: "Cambridge A Level Psychology Research Methods Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

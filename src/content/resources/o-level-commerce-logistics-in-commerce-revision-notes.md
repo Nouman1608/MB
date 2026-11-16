@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Logistics in Commerce — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Logistics in Commerce Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

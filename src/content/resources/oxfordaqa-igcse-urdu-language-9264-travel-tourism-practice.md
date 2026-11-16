@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Travel and Tourism -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Travel and Tourism Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

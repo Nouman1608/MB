@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Research Methods -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Research Methods Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

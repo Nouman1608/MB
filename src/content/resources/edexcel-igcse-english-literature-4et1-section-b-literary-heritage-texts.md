@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section B Literary Heritage Texts"
+seoTitle: "Edexcel IGCSE English Lit Literary Heritage Texts Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

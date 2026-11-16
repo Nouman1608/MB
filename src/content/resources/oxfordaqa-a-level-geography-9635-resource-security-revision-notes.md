@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-level Geography (9635): 3.2.2 Resource security -- Revision Notes"
+seoTitle: "OxfordAQA A-level Geography Resource Security Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

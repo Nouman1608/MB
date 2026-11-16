@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Biology: Two Papers That Can Each Assess Anything"
+seoTitle: "OxfordAQA IGCSE Biology Exam Prep: Two Open-Scope Papers"
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["igcse"]

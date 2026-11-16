@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language: Paper 1 — Explorations in Creative Reading and Writing (8700)"
+seoTitle: "AQA GCSE English Language Creative Reading & Writing Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["gcse"]

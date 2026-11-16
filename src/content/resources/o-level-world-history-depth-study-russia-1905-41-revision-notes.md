@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study C, Russia 1905-41 — Revision Notes (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Russia 1905-41 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]

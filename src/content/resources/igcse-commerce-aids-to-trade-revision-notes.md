@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Aids to Trade that Support Commerce — Revision Notes"
+seoTitle: "Cambridge IGCSE Commerce Aids to Trade Revision Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

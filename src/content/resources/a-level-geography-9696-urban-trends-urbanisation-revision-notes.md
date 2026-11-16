@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 6.2 Urban trends and issues of urbanisation -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Urban Trends and Urbanisation"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

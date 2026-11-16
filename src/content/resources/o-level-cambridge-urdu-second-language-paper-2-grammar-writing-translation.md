@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Second Language Urdu: Paper 2 Grammar, Writing and Translation (3248)"
+seoTitle: "Cambridge O Level Second Language Urdu Paper 2 Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["o-levels"]

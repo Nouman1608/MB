@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Biology: Enzymes and the Digestive System — Practice Questions"
+seoTitle: "AQA GCSE Biology Enzymes and the Digestive System Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["gcse"]

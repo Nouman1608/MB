@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Energy Management, New Energy Resources and Fracking (0680)"
+seoTitle: "Cambridge IGCSE 0680 Energy Management and Fracking Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

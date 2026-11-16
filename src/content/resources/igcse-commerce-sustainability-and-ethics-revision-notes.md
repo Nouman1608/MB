@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Sustainability and Ethics — Revision Notes"
+seoTitle: "Cambridge IGCSE Commerce Sustainability and Ethics Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

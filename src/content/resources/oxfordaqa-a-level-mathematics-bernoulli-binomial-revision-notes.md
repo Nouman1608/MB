@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Mathematics: Bernoulli and Binomial Distributions — Revision Notes"
+seoTitle: "OxfordAQA A Level Maths Bernoulli and Binomial Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

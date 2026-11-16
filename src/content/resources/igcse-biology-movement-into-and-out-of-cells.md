@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Movement Into and Out of Cells (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Movement Into and Out of Cells Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["igcse"]

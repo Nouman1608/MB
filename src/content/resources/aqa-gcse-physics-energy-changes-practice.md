@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Physics: Energy Changes in a System — Practice Questions"
+seoTitle: "AQA GCSE Physics Energy Changes in a System Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["gcse"]

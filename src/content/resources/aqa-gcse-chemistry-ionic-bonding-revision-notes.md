@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Chemistry: Chemical Bonds and Ionic Bonding — Revision Notes"
+seoTitle: "AQA GCSE Chemistry Chemical Bonds & Ionic Bonding Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

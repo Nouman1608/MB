@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Algorithm Design and Problem-Solving — Revision Notes"
+seoTitle: "Cambridge O Level Computer Science Algorithm Design Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

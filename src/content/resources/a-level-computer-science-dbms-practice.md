@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Database Management Systems — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Database Management Systems Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

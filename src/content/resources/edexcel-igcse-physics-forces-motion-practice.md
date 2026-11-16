@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Forces and Motion — Practice Questions"
+seoTitle: "Edexcel IGCSE Physics Forces and Motion Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

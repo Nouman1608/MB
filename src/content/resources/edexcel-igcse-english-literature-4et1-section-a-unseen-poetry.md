@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section A Unseen Poetry"
+seoTitle: "Edexcel IGCSE English Literature Unseen Poetry Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

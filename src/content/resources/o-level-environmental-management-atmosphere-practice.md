@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: The Atmosphere and Human Activities — Practice Questions (5014, 2027-2029)"
+seoTitle: "Cambridge 5014 Environmental Management Atmosphere Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

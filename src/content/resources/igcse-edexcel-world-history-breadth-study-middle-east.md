@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Middle East, Conflict, Crisis and Change, 1917–2012 (4HI1)"
+seoTitle: "Edexcel IGCSE History Middle East 1917–2012 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

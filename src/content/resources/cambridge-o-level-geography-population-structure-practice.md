@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Structure -- Practice Questions"
+seoTitle: "Cambridge O Level Geography Population Structure Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

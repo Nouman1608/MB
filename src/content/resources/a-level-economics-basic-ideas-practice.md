@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Basic Economic Ideas and Resource Allocation — Practice Questions"
+seoTitle: "Cambridge A Level Economics Basic Economic Ideas Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

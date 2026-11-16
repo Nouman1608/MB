@@ -1,5 +1,6 @@
 ---
 title: "O Level Business Studies: People in Business (Cambridge 7115)"
+seoTitle: "Cambridge O Level Business People in Business Study Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["o-levels"]

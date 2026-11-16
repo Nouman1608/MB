@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The French Revolution, c1780–99 — Practice Questions"
+seoTitle: "Edexcel IGCSE History French Revolution c1780–99 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

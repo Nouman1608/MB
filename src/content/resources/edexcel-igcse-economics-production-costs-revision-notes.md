@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Economics: Production and Business Costs — Revision Notes"
+seoTitle: "Edexcel IGCSE Economics Production and Business Costs Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Systematic Approach to Problem Solving — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Problem Solving Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

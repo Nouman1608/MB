@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Economics: How Markets Work (9214)"
+seoTitle: "OxfordAQA IGCSE Economics How Markets Work Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]

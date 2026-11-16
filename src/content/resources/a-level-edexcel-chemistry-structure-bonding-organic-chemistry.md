@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Chemistry: Structure, Bonding and Introduction to Organic Chemistry (YCH11)"
+seoTitle: "Edexcel IAL Chemistry Structure and Bonding Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

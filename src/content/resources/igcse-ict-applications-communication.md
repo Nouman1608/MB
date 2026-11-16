@@ -1,5 +1,6 @@
 ---
 title: "ICT Applications: Communication Media and Mobile Communication"
+seoTitle: "Cambridge IGCSE ICT Applications Communication Media Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

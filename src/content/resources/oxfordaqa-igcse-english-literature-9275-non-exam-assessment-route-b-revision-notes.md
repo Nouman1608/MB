@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Non-Exam Assessment (Route B) -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature NEA Route B Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

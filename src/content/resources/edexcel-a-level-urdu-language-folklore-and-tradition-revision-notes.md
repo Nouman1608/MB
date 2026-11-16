@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Folklore and Tradition (لوک رسوم و روایت) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Folklore and Tradition Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

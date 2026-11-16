@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: The History and Culture of Pakistan (Cambridge 2059)"
+seoTitle: "Cambridge O Level Pakistan Studies History and Culture Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

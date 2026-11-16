@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Multi-Step Synthesis Routes — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Multi-Step Synthesis Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

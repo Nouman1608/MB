@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level English Literature: Four 50-Mark Units and How to Pace Them"
+seoTitle: "Edexcel IAL English Literature Pacing Four Units Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["a-levels"]

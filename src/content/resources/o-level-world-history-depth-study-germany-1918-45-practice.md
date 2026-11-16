@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study B, Germany 1918-45 — Practice Questions (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Germany 1918-45 Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

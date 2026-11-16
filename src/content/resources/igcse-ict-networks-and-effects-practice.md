@@ -1,5 +1,6 @@
 ---
 title: "IGCSE ICT: Networks and the Effects of Using Them — Practice Questions"
+seoTitle: "Cambridge IGCSE ICT Networks Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["igcse"]

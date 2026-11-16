@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section B Anthology Poetry -- Revision Notes"
+seoTitle: "Edexcel IGCSE English Literature Anthology Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

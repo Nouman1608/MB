@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Chemistry: Physical Chemistry — Practice Questions (4CH1)"
+seoTitle: "Edexcel IGCSE Chemistry Physical Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Chemistry (YCH11): Subject Overview"
+seoTitle: "Edexcel International A Level Chemistry Subject Guide"
 resourceType: "subject-guides"
 subject: "chemistry"
 level: ["a-levels"]

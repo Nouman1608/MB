@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History (9245): Paper 2 Section A, Societies in Change — Practice Questions"
+seoTitle: "OxfordAQA IGCSE History Societies in Change Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

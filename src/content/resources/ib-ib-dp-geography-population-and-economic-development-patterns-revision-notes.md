@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 8.1 Population and economic development patterns -- Revision Notes"
+seoTitle: "IB DP Geography Population and Economic Development Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

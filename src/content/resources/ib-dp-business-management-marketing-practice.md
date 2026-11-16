@@ -1,5 +1,6 @@
 ---
 title: "IB DP Business Management Unit 4: Marketing -- Practice Questions"
+seoTitle: "IB DP Business Management Marketing Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["ib"]

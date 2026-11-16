@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Language, Thought and Communication"
+seoTitle: "AQA GCSE Psychology Language, Thought & Communication Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Biology: Enzymes and the Digestive System — Revision Notes"
+seoTitle: "AQA GCSE Biology Enzymes and the Digestive System Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Economics: Microeconomic Decision Makers (0455)"
+seoTitle: "IGCSE Economics Microeconomic Decision Makers Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]

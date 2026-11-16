@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section A Unseen Poetry -- Practice Questions"
+seoTitle: "Edexcel IGCSE English Literature Unseen Poetry Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Equal Access to Education in Pakistan -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Equal Access to Education Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

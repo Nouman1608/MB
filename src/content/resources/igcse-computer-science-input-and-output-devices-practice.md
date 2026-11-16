@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Input and Output Devices — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE 0478 Input and Output Devices Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

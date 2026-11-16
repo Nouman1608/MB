@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Space physics — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Space Physics Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

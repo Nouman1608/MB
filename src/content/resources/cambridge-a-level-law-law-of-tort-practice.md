@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Law: Law of Tort — Practice Questions (9084)"
+seoTitle: "Cambridge A Level Law of Tort Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

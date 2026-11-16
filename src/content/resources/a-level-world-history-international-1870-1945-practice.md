@@ -1,5 +1,6 @@
 ---
 title: "A Level World History: International History, 1870-1939 — Practice Questions"
+seoTitle: "Cambridge A Level History International 1870-1939 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

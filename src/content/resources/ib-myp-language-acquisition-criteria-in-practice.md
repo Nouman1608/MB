@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Language Acquisition: The Four Assessment Criteria in Practice"
+seoTitle: "IB MYP Language Acquisition Four Criteria Study Guide"
 resourceType: "study-guides"
 subject: "myp-language-acquisition"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Quantitative Chemistry: Conservation of Mass, the Mole and Molar Calculations"
+seoTitle: "OxfordAQA IGCSE Chemistry Quantitative Chemistry Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["igcse"]

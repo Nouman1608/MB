@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Economics: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Economics 4EC1 Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["igcse"]

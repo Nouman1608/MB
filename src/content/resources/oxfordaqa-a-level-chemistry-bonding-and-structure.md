@@ -1,5 +1,6 @@
 ---
 title: "Bonding and Structure: Ionic, Covalent, Metallic Bonding and the Four Crystal Types"
+seoTitle: "OxfordAQA A Level Chemistry Bonding and Structure Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

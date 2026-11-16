@@ -1,5 +1,6 @@
 ---
 title: "IB DP Biology Theme A: Unity and Diversity — Practice Questions"
+seoTitle: "IB DP Biology Theme A Unity and Diversity Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["ib"]

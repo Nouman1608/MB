@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Biology: Molecules, Transport and Health — Practice Questions"
+seoTitle: "Edexcel IAL Biology Molecules Transport and Health Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

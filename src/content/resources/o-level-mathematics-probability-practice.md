@@ -1,5 +1,6 @@
 ---
 title: "O Level Mathematics: Probability Practice Questions (Cambridge 4024)"
+seoTitle: "Cambridge O Level Maths Probability Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

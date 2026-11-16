@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives & Research: The Written Exam (9239)"
+seoTitle: "Cambridge A Level Global Perspectives Written Exam Guide"
 resourceType: "study-guides"
 subject: "global-perspectives"
 level: ["a-levels"]

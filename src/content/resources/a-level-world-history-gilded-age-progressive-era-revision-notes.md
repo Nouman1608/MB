@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): The Gilded Age and the Progressive Era -- Revision Notes"
+seoTitle: "Cambridge A Level History Gilded Age & Progressive Era Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]

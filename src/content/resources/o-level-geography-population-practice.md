@@ -1,5 +1,6 @@
 ---
 title: "O Level Geography: Population and Settlement — Practice Questions"
+seoTitle: "Cambridge O Level Geography Population & Settlement Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

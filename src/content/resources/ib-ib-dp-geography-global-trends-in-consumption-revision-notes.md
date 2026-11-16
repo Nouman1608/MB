@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 10.1 Global trends in consumption -- Revision Notes"
+seoTitle: "IB DP Geography Global Trends in Consumption Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

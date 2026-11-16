@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 4.4 Future resilience and adaptation -- Revision Notes"
+seoTitle: "IB DP Geography Future Resilience and Adaptation Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

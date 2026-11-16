@@ -1,5 +1,6 @@
 ---
 title: "O Level Sociology: Family, Education and Crime — Practice Questions (Cambridge 2251)"
+seoTitle: "Cambridge 2251 Sociology Family, Education & Crime Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Economics: The Measurement of Macroeconomic Performance — Practice Questions"
+seoTitle: "AQA A-Level Economics Macroeconomic Performance Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

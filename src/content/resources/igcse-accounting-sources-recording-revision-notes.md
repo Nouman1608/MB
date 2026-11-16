@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Accounting: Sources and Recording of Data — Revision Notes"
+seoTitle: "Cambridge IGCSE 0452 Sources and Recording of Data Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse","o-levels"]

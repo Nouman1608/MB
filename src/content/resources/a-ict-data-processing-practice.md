@@ -1,5 +1,6 @@
 ---
 title: "A Level Information Technology (ICT): Data Processing and Information — Practice Questions"
+seoTitle: "Cambridge A Level ICT Data Processing & Information Practice"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]

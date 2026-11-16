@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section C Modern Prose -- Practice Questions"
+seoTitle: "Edexcel IGCSE English Literature Modern Prose Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

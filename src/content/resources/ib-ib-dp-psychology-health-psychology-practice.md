@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Health psychology -- Practice Questions"
+seoTitle: "IB DP Psychology Health Psychology Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

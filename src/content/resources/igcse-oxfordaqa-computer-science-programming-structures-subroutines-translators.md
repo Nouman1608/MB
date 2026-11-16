@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Data Structures, Subroutines and Translators (9210)"
+seoTitle: "OxfordAQA IGCSE Computer Science Data Structures Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

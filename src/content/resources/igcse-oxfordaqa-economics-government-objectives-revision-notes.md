@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Economics: Government Objectives — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Economics Government Objectives Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["igcse"]

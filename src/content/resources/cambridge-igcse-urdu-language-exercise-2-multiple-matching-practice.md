@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 2 – Multiple matching -- Practice Questions"
+seoTitle: "Cambridge IGCSE Urdu Exercise 2 Multiple Matching Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

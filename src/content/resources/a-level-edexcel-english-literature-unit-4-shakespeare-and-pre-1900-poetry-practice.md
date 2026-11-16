@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 Shakespeare and Pre-1900 Poetry (YET01): Practice Questions"
+seoTitle: "Edexcel IAL English Lit Shakespeare & Pre-1900 Poetry Qs"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

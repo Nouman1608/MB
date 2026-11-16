@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): Human population -- Study Guide"
+seoTitle: "O Level Environmental Management Human Population Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

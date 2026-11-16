@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Mathematics A: Pure on Every Paper, Plus Statistics, Mechanics and the Pre-Release Data Set"
+seoTitle: "OCR A Level Maths A Exam Prep: Pure, Stats and Mechanics"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["a-levels"]

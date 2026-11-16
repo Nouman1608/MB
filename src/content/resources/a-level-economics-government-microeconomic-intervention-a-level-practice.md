@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Government Microeconomic Intervention (A Level) — Practice Questions (Cambridge 9708)"
+seoTitle: "Cambridge 9708 A Level Microeconomic Intervention Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

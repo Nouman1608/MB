@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Colonial Rule and the Nationalist Challenge in India, 1919–47 (4HI1)"
+seoTitle: "Edexcel IGCSE History Colonial Rule in India 1919–47 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

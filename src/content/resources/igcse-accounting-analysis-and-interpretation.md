@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Analysis and Interpretation (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE Accounting Analysis and Interpretation Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

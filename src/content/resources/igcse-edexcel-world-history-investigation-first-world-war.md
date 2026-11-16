@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Origins and Course of the First World War, 1905–18 (4HI1)"
+seoTitle: "Edexcel IGCSE History First World War 1905–18 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

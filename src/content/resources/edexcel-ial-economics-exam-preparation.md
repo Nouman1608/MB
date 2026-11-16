@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Economics: Question-Type Timing Across Four Units"
+seoTitle: "Edexcel IAL Economics Question-Type Timing Exam Prep"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["a-levels"]

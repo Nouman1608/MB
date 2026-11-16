@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Chemistry: Atomic Structure and the Periodic Table (8462)"
+seoTitle: "AQA GCSE Chemistry Atomic Structure and Periodic Table Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

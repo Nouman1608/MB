@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel GCSE Business: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel GCSE Business Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["gcse"]

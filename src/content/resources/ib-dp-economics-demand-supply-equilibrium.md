@@ -1,5 +1,6 @@
 ---
 title: "IB DP Economics: Demand, Supply and Market Equilibrium (Unit 2.1-2.3)"
+seoTitle: "IB DP Economics Demand, Supply and Market Equilibrium Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Diversity, Rights and Equality in Britain, 1914–2010 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Diversity & Rights in Britain Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

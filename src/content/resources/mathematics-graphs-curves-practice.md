@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Mathematics: Graphs of Functions and Sketching Curves — Practice Questions"
+seoTitle: "Cambridge O Level Maths Graphs and Sketching Curves Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

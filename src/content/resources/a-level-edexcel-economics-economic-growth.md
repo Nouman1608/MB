@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Economics: Measuring Economic Growth (WEC12/01)"
+seoTitle: "Edexcel IAL Economics Measuring Economic Growth Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

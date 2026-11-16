@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Physics: Motion Along a Straight Line and Newton's Laws (9630)"
+seoTitle: "OxfordAQA A-Level Physics Motion and Newton's Laws Guide"
 resourceType: "study-guides"
 subject: "physics"
 level: ["a-levels"]

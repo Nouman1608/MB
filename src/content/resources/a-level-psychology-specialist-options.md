@@ -1,5 +1,6 @@
 ---
 title: "A Level Psychology: Specialist Options Overview (Cambridge 9990)"
+seoTitle: "Cambridge A Level Psychology Specialist Options Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

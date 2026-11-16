@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Introducing Sociology — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Sociology Introducing Sociology Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Major Themes of the Qur'an — Revision Notes (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Themes of the Qur'an Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]

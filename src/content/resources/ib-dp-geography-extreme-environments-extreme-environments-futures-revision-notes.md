@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 3.4 Extreme environments futures -- Revision Notes"
+seoTitle: "IB DP Geography Extreme Environments Futures Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

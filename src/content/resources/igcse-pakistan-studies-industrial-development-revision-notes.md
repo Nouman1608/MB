@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Industrial Development — Revision Notes"
+seoTitle: "Cambridge IGCSE Pak Studies Industrial Development Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

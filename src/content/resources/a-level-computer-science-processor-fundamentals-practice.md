@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Processor Fundamentals — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Processor Fundamentals Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Psychology of human relationships -- Revision Notes"
+seoTitle: "IB DP Psychology Human Relationships Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

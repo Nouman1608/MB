@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Component 3 Non-Examined Assessment (4ET1)"
+seoTitle: "Edexcel IGCSE English Literature Non-Examined Assessment"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

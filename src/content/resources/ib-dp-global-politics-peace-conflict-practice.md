@@ -1,5 +1,6 @@
 ---
 title: "IB DP Global Politics: Peace and Conflict -- Practice Questions"
+seoTitle: "IB DP Global Politics Peace and Conflict Practice Questions"
 resourceType: "practice-questions"
 subject: "global-politics"
 level: ["ib"]

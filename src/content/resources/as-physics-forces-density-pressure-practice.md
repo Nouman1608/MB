@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Forces, Density and Pressure — Practice Questions"
+seoTitle: "Cambridge AS Physics Forces, Density and Pressure Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

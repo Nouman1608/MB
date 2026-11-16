@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Cyber Security — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Cyber Security Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

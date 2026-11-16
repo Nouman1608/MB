@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Land — Revision Notes (5014, 2027-2029)"
+seoTitle: "Cambridge O Level Environmental Management Land Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["o-levels"]

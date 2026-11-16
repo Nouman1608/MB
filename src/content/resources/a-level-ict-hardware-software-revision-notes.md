@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Hardware and Software — Revision Notes (9626)"
+seoTitle: "Cambridge A Level ICT 9626 Hardware and Software Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]

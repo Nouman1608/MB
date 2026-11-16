@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Literature -- Intertextuality: Connecting Texts"
+seoTitle: "IB DP Language A Literature Intertextuality Study Guide"
 resourceType: "study-guides"
 subject: "language-a-literature"
 level: ["ib"]

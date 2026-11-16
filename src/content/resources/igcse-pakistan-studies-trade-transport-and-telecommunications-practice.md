@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Trade, Transport and Telecommunications — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pak Studies Trade and Transport Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

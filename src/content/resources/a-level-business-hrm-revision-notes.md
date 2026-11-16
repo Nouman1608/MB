@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Human Resource Management — Revision Notes (Cambridge 9609)"
+seoTitle: "Cambridge A Level Business Human Resource Management Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

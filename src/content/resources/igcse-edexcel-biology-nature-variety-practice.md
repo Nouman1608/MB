@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Biology: Nature and Variety of Living Organisms — Practice Questions"
+seoTitle: "Edexcel IGCSE Biology Variety of Living Organisms Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

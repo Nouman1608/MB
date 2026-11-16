@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Natural Resources — Revision Notes"
+seoTitle: "Cambridge O Level Pakistan Studies Natural Resources Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

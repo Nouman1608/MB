@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 1 - Poetry and Prose — Practice Questions"
+seoTitle: "Cambridge IGCSE English Literature Poetry and Prose Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

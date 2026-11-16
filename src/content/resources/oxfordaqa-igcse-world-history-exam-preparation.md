@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History: Preparing for a New Specification's Depth and Change Papers"
+seoTitle: "OxfordAQA IGCSE History Exam Prep: Depth and Change Papers"
 resourceType: "exam-preparation"
 subject: "world-history"
 level: ["igcse"]

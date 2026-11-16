@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Economics: The Economic Objectives of the Government (8136)"
+seoTitle: "AQA GCSE Economics Economic Objectives of Government Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["gcse"]

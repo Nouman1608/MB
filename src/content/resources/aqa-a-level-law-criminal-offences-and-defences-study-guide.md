@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Law (7162): Criminal Offences and Defences -- Study Guide"
+seoTitle: "AQA A-Level Law Criminal Offences and Defences Study Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

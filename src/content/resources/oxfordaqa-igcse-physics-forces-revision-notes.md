@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Physics: Forces and Their Effects — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Physics Forces and Their Effects Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["igcse"]

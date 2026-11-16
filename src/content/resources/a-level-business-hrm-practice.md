@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Human Resource Management — Practice Questions (Cambridge 9609)"
+seoTitle: "Cambridge A Level Business Human Resource Management Qs"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

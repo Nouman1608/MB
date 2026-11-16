@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Shapes of Molecules and Intermolecular Forces — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Shapes & Intermolecular Forces Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

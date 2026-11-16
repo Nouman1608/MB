@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Organisational Psychology (Specialist Option 4)"
+seoTitle: "Cambridge A Level Psychology Organisational Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

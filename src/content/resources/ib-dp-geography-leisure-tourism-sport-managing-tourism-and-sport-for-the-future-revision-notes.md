@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 5.4 Managing tourism and sport for the future -- Revision Notes"
+seoTitle: "IB Geography Managing Tourism and Sport for the Future Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

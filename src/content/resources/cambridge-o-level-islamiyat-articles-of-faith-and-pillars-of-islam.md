@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Articles of Faith and Pillars of Islam, Subtopic 2.4 (2058)"
+seoTitle: "O Level Islamiyat Articles of Faith & Pillars of Islam Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["o-levels"]

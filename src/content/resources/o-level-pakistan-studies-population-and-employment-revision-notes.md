@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Population and Employment — Revision Notes"
+seoTitle: "Cambridge O Level Pak Studies Population & Employment Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

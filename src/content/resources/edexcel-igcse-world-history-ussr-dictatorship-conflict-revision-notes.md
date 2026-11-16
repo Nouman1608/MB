@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Dictatorship and Conflict in the USSR, 1924–53 — Revision Notes"
+seoTitle: "Edexcel IGCSE History USSR Dictatorship and Conflict Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

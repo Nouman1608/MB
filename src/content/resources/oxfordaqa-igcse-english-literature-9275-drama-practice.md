@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Drama -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature Drama Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

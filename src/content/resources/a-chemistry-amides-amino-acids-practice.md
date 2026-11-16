@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Amides and Amino Acids — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Amides and Amino Acids Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

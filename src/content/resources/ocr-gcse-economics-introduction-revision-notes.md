@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Economics: Introduction to Economics — Revision Notes"
+seoTitle: "OCR GCSE Economics Introduction Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["gcse"]

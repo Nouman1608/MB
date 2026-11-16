@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Literature -- Intertextuality: Connecting Texts Revision Notes"
+seoTitle: "IB DP Language A Literature Intertextuality Revision Notes"
 resourceType: "revision-notes"
 subject: "language-a-literature"
 level: ["ib"]

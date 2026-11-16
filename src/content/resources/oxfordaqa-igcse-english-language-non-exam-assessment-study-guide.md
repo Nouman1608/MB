@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language (9270): Non-exam assessment -- Study Guide"
+seoTitle: "OxfordAQA IGCSE English Language 9270 NEA Study Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: General Elements of Criminal Liability — Revision Notes"
+seoTitle: "AQA A-Level Law Criminal Liability Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

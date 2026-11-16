@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Mathematics: Pure Mathematics 1 — Practice Questions"
+seoTitle: "Edexcel IAL Maths Pure Mathematics 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Multi-Step Synthesis Routes — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Multi-Step Synthesis Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

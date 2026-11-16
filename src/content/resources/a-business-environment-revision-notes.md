@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Business and Its Environment — Revision Notes"
+seoTitle: "Cambridge A Level Business and Its Environment Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

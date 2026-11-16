@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 3.1 Plate tectonics -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Plate Tectonics Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

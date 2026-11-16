@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Characteristics and Classification of Living Organisms (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE 0610 Classification of Organisms Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Energy Resources and Energy Transfers — Revision Notes"
+seoTitle: "Edexcel IGCSE Physics Energy Resources and Transfers Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["igcse"]

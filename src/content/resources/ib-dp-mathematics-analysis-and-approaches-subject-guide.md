@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Mathematics: Analysis and Approaches: Subject Overview"
+seoTitle: "IB DP Maths Analysis and Approaches Subject Guide"
 resourceType: "subject-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

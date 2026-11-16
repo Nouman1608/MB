@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE English Language: Non-fiction Texts and Transactional Writing — Revision Notes"
+seoTitle: "Edexcel IGCSE English Language Transactional Writing Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

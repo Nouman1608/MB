@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Data Structures and Arrays — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Data Structures & Arrays Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

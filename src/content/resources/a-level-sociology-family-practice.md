@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: The Family — Practice Questions (9699)"
+seoTitle: "Cambridge A Level Sociology The Family Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

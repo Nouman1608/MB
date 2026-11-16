@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Mathematics: Algebra – Notation and Manipulation (9260)"
+seoTitle: "OxfordAQA IGCSE Maths Algebra Notation & Manipulation Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "ICT Applications: Modelling, Control, Banking, Medicine, Retail and Recognition Systems"
+seoTitle: "Cambridge IGCSE ICT Applications Modelling and Control Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

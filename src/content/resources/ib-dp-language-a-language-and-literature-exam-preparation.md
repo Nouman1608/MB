@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Language and Literature -- Paper-by-Paper Exam Preparation"
+seoTitle: "IB DP Language and Literature Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "language-a-language-and-literature"
 level: ["ib"]

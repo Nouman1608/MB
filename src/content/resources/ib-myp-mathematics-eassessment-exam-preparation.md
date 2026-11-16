@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Mathematics eAssessment: Task-by-Task Exam Preparation"
+seoTitle: "IB MYP Maths eAssessment Task-by-Task Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["ib"]

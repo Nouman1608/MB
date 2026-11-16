@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Colour, Stereoisomerism and Kstab — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Colour, Isomerism & Kstab Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

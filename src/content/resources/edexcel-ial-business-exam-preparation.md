@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Source-Booklet Technique Across Four Units"
+seoTitle: "Edexcel IAL Business Source-Booklet Technique Exam Prep"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["a-levels"]

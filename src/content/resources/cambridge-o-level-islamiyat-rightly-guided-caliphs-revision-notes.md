@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: The Rightly Guided Caliphs — Revision Notes (2058)"
+seoTitle: "Cambridge O Level Islamiyat Rightly Guided Caliphs Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]

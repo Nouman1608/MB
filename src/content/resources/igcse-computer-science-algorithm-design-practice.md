@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Algorithm Design and Problem-Solving — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE Computer Science Algorithm Design Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

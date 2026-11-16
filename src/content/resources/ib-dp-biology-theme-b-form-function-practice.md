@@ -1,5 +1,6 @@
 ---
 title: "IB DP Biology Theme B: Form and Function — Practice Questions"
+seoTitle: "IB DP Biology Theme B Form and Function Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["ib"]

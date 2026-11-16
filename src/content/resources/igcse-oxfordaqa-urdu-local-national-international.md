@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu: Local, National, International and Global Areas of Interest (9264)"
+seoTitle: "OxfordAQA IGCSE Urdu Areas of Interest Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

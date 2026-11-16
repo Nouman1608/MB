@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A-Level English Literature: Post-2000 Poetry and Prose (YET01)"
+seoTitle: "Edexcel IAL English Lit Post-2000 Poetry and Prose Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

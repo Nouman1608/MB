@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Consumer Psychology — Practice Questions"
+seoTitle: "Cambridge A Level Psychology Consumer Psychology Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

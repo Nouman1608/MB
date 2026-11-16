@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Computational thinking and Problem-solving -- Study Guide"
+seoTitle: "Cambridge A Level CS Computational Thinking Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Lattice Energy, Entropy and Gibbs Free Energy — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Lattice Energy and Entropy Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

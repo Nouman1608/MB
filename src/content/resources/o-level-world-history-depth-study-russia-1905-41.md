@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: Depth Study C, Russia 1905-41 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Russia 1905-41 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

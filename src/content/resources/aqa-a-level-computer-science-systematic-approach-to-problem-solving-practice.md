@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Systematic Approach to Problem Solving — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Problem Solving Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

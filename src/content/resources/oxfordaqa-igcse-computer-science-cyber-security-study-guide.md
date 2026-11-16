@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science (9210): Cyber security -- Study Guide"
+seoTitle: "OxfordAQA IGCSE CS 9210 Cyber Security Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

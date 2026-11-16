@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): My Studies -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu My Studies Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

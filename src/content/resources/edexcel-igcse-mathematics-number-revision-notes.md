@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Mathematics: Numbers and the Number System — Revision Notes"
+seoTitle: "Edexcel IGCSE Maths Numbers and the Number System Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["igcse"]

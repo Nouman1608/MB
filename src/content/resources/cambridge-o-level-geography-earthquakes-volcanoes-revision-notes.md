@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Earthquakes and Volcanoes -- Revision Notes"
+seoTitle: "O Level Geography Earthquakes and Volcanoes Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

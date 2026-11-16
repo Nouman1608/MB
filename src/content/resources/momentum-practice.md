@@ -1,5 +1,6 @@
 ---
 title: "Momentum: Practice Questions (Cambridge O Level Physics 5054)"
+seoTitle: "Cambridge O Level Physics Momentum Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

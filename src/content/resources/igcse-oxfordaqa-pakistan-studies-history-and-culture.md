@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: The History and Culture of Pakistan (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies History and Culture Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

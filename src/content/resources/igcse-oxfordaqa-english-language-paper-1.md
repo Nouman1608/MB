@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Language: Literary Non-fiction and Composition (9270)"
+seoTitle: "OxfordAQA IGCSE English Language Literary Non-fiction Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

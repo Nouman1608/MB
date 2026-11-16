@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Subject Overview"
+seoTitle: "Cambridge IGCSE Urdu as a Second Language 0539 Subject Guide"
 resourceType: "subject-guides"
 subject: "urdu-language"
 level: ["igcse"]

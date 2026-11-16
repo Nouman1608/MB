@@ -1,5 +1,6 @@
 ---
 title: "Earthquakes and Volcanoes: Plate Boundaries, Hazards and Case Studies"
+seoTitle: "Cambridge IGCSE Geography Earthquakes and Volcanoes Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

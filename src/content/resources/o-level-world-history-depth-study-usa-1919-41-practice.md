@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study D, The United States 1919-41 — Practice Questions (Cambridge 2147)"
+seoTitle: "Cambridge O Level History USA 1919-41 Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

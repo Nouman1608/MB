@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Electric and Magnetic Fields — Practice Questions"
+seoTitle: "Edexcel IAL Physics Electric and Magnetic Fields Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

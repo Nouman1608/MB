@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Unit 4: Power, places and networks -- Study Guide"
+seoTitle: "IB DP Geography Power, Places and Networks Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Language Acquisition: Proficiency Phases and Assessment Criteria"
+seoTitle: "IB MYP Language Acquisition Proficiency Phases Study Guide"
 resourceType: "study-guides"
 subject: "myp-language-acquisition"
 level: ["ib"]

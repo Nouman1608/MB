@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: Depth Study B, Germany 1918-45 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Germany 1918-45 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

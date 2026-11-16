@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Computer Networks — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Computer Networks Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

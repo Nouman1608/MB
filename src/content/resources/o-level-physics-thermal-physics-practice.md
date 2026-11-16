@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Thermal physics — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Thermal Physics Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

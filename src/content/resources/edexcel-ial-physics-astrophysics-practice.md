@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Astrophysics and Cosmology — Practice Questions"
+seoTitle: "Edexcel IAL Physics Astrophysics and Cosmology Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

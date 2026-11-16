@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Geography: Six Components, an Option Choice, and Fieldwork"
+seoTitle: "OxfordAQA A-Level Geography Exam Prep: Options and Fieldwork"
 resourceType: "exam-preparation"
 subject: "geography"
 level: ["a-levels"]

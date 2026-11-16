@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives & Research: The Essay — Practice Questions"
+seoTitle: "Cambridge A Level Global Perspectives Essay Practice"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["a-levels"]

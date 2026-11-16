@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Economics: Government Objectives — Practice Questions (9214)"
+seoTitle: "OxfordAQA IGCSE Economics Government Objectives Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["igcse"]

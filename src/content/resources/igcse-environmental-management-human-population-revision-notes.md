@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Human Population — Revision Notes"
+seoTitle: "Cambridge IGCSE 0680 Human Population Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

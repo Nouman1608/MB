@@ -1,5 +1,6 @@
 ---
 title: "Paper 2 Writers' Viewpoints and Perspectives: Practice Questions"
+seoTitle: "AQA GCSE English Paper 2 Writers' Viewpoints Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["gcse"]

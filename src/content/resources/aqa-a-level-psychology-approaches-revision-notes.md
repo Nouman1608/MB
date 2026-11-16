@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Psychology: Approaches in Psychology — Revision Notes"
+seoTitle: "AQA A-Level Psychology Approaches in Psychology Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

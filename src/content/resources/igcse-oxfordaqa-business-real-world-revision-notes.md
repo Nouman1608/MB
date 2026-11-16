@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Business: Business in the Real World — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Business in the Real World Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["igcse"]

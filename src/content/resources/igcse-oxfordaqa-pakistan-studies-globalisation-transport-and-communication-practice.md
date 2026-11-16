@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Globalisation, Transport and Communication — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Globalisation Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

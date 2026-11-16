@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): My Studies -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu My Studies Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

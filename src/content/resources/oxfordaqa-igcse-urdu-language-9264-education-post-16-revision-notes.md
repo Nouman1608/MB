@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Education Post-16 -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Education Post-16 Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Outsourcing, Wholesaling and Communication — Revision Notes (0715)"
+seoTitle: "Cambridge IGCSE Commerce Outsourcing and Wholesaling Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

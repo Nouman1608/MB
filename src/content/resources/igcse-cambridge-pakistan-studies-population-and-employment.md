@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Population and Employment (0448)"
+seoTitle: "Cambridge IGCSE 0448 Population and Employment Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

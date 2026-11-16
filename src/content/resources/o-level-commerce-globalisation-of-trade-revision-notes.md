@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Globalisation of Trade — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Globalisation of Trade Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

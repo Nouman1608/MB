@@ -1,5 +1,6 @@
 ---
 title: "AS & A Level Accounting: Reconciliation and Verification (Cambridge 9706)"
+seoTitle: "Cambridge A Level Accounting Reconciliation Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

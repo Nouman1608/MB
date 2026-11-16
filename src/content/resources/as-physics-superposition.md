@@ -1,5 +1,6 @@
 ---
 title: "Superposition: Stationary Waves, Diffraction and Interference"
+seoTitle: "Cambridge A Level Physics Superposition Study Guide"
 resourceType: "study-guides"
 subject: "physics"
 level: ["a-levels"]

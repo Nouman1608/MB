@@ -1,5 +1,6 @@
 ---
 title: "IB DP Environmental Systems and Societies: Paper-by-Paper Exam Preparation"
+seoTitle: "IB DP Environmental Systems and Societies Exam Prep"
 resourceType: "exam-preparation"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

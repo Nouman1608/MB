@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Urdu (3247/3248): Paper 1 Practice Questions"
+seoTitle: "Cambridge O Level Urdu Paper 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["o-levels"]

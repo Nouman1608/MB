@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Depth Study B, Germany 1918-45 (0470)"
+seoTitle: "Cambridge IGCSE World History Germany 1918-45 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

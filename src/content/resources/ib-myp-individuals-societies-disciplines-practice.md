@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: Discipline Options and eAssessment Subjects -- Practice Questions"
+seoTitle: "IB MYP Individuals & Societies Discipline Options Practice"
 resourceType: "practice-questions"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

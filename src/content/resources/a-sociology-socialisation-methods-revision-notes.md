@@ -1,5 +1,6 @@
 ---
 title: "A Level Sociology: Socialisation, Identity and Research Methods — Revision Notes"
+seoTitle: "Cambridge A Level Sociology Socialisation & Methods Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

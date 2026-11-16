@@ -1,5 +1,6 @@
 ---
 title: "A Level Accounting: The Role of the Accountant and Financial Statements — Practice Questions"
+seoTitle: "OxfordAQA A-Level Accounting Role of the Accountant Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

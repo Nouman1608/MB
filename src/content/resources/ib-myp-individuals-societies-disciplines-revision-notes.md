@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: Discipline Options and eAssessment Subjects — Revision Notes"
+seoTitle: "IB MYP Individuals & Societies Discipline Options Notes"
 resourceType: "revision-notes"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

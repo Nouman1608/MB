@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE ICT (0417): The systems life cycle -- Study Guide"
+seoTitle: "Cambridge IGCSE ICT Systems Life Cycle Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

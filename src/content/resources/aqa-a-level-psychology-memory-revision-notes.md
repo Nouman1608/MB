@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Psychology: The Multi-Store and Working Memory Models — Revision Notes"
+seoTitle: "AQA A-Level Psychology Multi-Store & Working Memory Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

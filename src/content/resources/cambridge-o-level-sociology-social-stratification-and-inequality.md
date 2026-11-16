@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Sociology: Social Stratification and Inequality, Topic 3 (2251)"
+seoTitle: "O Level Sociology Social Stratification and Inequality Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["o-levels"]

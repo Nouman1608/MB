@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Drama"
+seoTitle: "OxfordAQA IGCSE English Literature 9275 Drama Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

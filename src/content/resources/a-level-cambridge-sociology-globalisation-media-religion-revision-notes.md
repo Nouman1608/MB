@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: Globalisation, Media and Religion — Revision Notes"
+seoTitle: "Cambridge A Level Sociology Globalisation and Media Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

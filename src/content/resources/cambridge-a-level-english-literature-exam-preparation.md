@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level English Literature: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level English Literature 9695 Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["a-levels"]

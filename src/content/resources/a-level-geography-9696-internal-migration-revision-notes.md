@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 5.2 Internal migration (within a country) -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Internal Migration Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

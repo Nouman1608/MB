@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Urdu: Current and Future Study and Employment — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Study and Employment Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

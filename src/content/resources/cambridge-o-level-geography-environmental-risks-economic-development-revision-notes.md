@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Environmental Risks of Economic Development -- Revision Notes"
+seoTitle: "O Level Geography 2217 Environmental Risks Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

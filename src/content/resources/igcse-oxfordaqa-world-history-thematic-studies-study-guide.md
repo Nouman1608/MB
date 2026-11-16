@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History (9245): Paper 2 Section B, Technology or Medicine and Change — Study Guide"
+seoTitle: "OxfordAQA IGCSE History Technology or Medicine Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

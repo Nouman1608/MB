@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Biological Approach to Understanding Behaviour"
+seoTitle: "IB DP Psychology Biological Approach to Behaviour Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

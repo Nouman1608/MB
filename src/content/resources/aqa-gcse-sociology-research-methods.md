@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Sociology: Sociological Research Methods, Section 3.7 (8192)"
+seoTitle: "AQA GCSE Sociology Sociological Research Methods Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["gcse"]

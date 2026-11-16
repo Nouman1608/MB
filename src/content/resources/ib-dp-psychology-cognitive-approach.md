@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Cognitive Approach to Understanding Behaviour"
+seoTitle: "IB DP Psychology Cognitive Approach to Behaviour Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

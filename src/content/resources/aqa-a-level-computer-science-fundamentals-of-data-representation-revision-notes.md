@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Data Representation — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Data Representation Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

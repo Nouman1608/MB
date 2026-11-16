@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Language and Literature -- Time and Space: Practice Questions"
+seoTitle: "IB DP Language and Literature Time and Space Practice"
 resourceType: "practice-questions"
 subject: "language-a-language-and-literature"
 level: ["ib"]

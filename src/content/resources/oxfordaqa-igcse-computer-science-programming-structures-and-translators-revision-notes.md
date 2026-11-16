@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Data Structures, Subroutines and Translators — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Data Structures and Subroutines Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

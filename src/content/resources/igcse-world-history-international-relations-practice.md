@@ -1,5 +1,6 @@
 ---
 title: "IGCSE History: International Relations Depth Studies — Practice Questions"
+seoTitle: "OxfordAQA IGCSE History International Relations Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

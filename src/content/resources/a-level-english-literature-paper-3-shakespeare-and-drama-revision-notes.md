@@ -1,5 +1,6 @@
 ---
 title: "A Level Literature in English: Paper 3 - Shakespeare and Drama — Revision Notes"
+seoTitle: "Cambridge A Level Literature Shakespeare and Drama Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

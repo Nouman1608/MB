@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Movement Into and Out of Cells — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE 0610 Movement Into and Out of Cells Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

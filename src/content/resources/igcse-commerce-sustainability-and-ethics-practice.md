@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Sustainability and Ethics — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Sustainability and Ethics Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

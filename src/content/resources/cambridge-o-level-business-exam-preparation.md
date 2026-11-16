@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Business Studies: Short-Answer Technique vs Case-Study Technique (7115)"
+seoTitle: "Cambridge O Level Business Short-Answer and Case-Study Prep"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["o-levels"]

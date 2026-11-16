@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level First Language Urdu: Paper 2 Texts — Practice Questions"
+seoTitle: "Cambridge O Level First Language Urdu Paper 2 Texts Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["o-levels"]

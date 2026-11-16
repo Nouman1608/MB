@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Approaches to researching behaviour -- Study Guide"
+seoTitle: "IB DP Psychology Approaches to Researching Behaviour Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

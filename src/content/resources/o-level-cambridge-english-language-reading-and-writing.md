@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level English Language: Reading and Writing (1123)"
+seoTitle: "Cambridge O Level English Language Reading and Writing Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["o-levels"]

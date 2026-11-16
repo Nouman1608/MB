@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Outsourcing and Wholesaling — Practice Questions (7100)"
+seoTitle: "Cambridge 7100 Commerce Outsourcing and Wholesaling Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Option 2B Political and Social Protest Writing — Practice Questions"
+seoTitle: "AQA A-Level English Lit B Political & Social Protest Qs"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

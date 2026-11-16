@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Biology: Biological Molecules — Practice Questions"
+seoTitle: "AQA A-Level Biology Biological Molecules Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

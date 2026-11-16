@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Dictatorship and Conflict in the USSR, 1924–53 — Practice Questions"
+seoTitle: "Edexcel IGCSE History USSR Dictatorship & Conflict Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

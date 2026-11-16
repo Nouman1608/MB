@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Mathematics: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level Maths Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["a-levels"]

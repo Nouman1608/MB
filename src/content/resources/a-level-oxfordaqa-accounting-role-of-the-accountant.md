@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Accounting: An Introduction to the Role of the Accountant (9615)"
+seoTitle: "OxfordAQA A-Level Accounting Role of the Accountant Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

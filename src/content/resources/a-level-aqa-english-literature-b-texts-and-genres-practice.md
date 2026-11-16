@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Paper 2 Texts and Genres — Practice Questions"
+seoTitle: "AQA A-Level English Literature B Texts and Genres Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

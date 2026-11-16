@@ -1,5 +1,6 @@
 ---
 title: "O Level Geography: The Natural Environment — Revision Notes (Cambridge 2217)"
+seoTitle: "Cambridge O Level Geography Natural Environment Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

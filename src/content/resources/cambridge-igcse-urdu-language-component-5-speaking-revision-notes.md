@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Component 5 – Speaking -- Revision Notes"
+seoTitle: "Cambridge IGCSE Urdu Component 5 Speaking Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

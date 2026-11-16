@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Physical Quantities, Units and Measurement — Revision Notes"
+seoTitle: "Cambridge AS Physics Physical Quantities and Units Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

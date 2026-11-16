@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: Socialisation, Identity and Methods of Research (9699)"
+seoTitle: "Cambridge A Level Sociology Socialisation and Identity Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["a-levels"]

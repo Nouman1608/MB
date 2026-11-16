@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Biology: Organisms Exchange Substances With Their Environment (7402)"
+seoTitle: "AQA A-Level Biology Exchange With the Environment Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

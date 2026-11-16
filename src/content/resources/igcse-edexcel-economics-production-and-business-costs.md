@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Economics: Production and Business Costs (4EC1)"
+seoTitle: "Edexcel IGCSE Economics Production and Business Costs Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]

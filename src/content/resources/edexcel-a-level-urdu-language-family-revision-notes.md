@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Family (خاندان) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu 9UR0 Family Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

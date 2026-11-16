@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Biology: Five Papers, Ten Required Practicals"
+seoTitle: "OxfordAQA A-Level Biology Exam Prep: Papers and Practicals"
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["a-levels"]

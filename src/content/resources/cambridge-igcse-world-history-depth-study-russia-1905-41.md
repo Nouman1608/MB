@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Depth Study C, Russia 1905-41 (0470)"
+seoTitle: "Cambridge IGCSE World History Russia 1905-41 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

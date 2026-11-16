@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Business: Business in the Real World — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Business in the Real World Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["igcse"]

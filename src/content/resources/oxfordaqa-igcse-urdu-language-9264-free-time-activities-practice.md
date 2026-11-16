@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Free-Time Activities -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Free-Time Activities Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

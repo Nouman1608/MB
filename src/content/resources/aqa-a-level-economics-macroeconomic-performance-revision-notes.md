@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Economics: The Measurement of Macroeconomic Performance — Revision Notes"
+seoTitle: "AQA A-Level Economics Macroeconomic Performance Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

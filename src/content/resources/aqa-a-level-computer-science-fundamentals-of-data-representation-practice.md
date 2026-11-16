@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Data Representation — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Data Representation Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

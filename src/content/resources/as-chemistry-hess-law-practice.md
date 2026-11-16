@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Hess Law and Enthalpy Cycles — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Hess's Law & Enthalpy Cycles Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

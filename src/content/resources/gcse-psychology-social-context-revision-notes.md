@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology: Social Context and Behaviour — Revision Notes"
+seoTitle: "AQA GCSE Psychology Social Context and Behaviour Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

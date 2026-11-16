@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 1 – Drama and Poetry — Revision Notes"
+seoTitle: "Cambridge A Level English Lit Drama and Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

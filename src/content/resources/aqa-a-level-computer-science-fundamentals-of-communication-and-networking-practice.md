@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Communication and Networking — Practice Questions"
+seoTitle: "AQA A-Level CS Communication and Networking Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

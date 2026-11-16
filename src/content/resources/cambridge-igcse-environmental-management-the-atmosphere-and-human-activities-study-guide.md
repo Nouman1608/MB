@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management (0680): The atmosphere and human activities -- Study Guide"
+seoTitle: "IGCSE Environmental Management Atmosphere Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.1: Computational Thinking -- Revision Notes"
+seoTitle: "IB DP Computer Science Computational Thinking Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["ib"]

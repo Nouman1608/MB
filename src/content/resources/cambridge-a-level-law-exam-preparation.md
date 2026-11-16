@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International A-Level Law: Four Equally Weighted Papers, One Consistent Technique (9084)"
+seoTitle: "Cambridge International A Level Law 9084 Exam Prep"
 resourceType: "exam-preparation"
 subject: "law"
 level: ["a-levels"]

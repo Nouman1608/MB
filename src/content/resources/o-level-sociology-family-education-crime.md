@@ -1,5 +1,6 @@
 ---
 title: "O Level Sociology: Family, Education and Crime (Cambridge 2251)"
+seoTitle: "Cambridge O Level Sociology Family, Education & Crime Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Health Psychology (Specialist Option 3)"
+seoTitle: "Cambridge A Level Psychology Health Psychology Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

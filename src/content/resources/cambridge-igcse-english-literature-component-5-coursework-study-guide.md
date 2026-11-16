@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE English Literature (0475): Component 5 Coursework -- Study Guide"
+seoTitle: "Cambridge IGCSE English Literature Coursework Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

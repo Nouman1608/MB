@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Chemistry: Relative Mass, the Mole and the Avogadro Constant (7405)"
+seoTitle: "AQA A-Level Chemistry Relative Mass and the Mole Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

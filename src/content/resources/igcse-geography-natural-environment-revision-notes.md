@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography: The Natural Environment — Revision Notes (0460)"
+seoTitle: "Cambridge IGCSE Geography Natural Environment Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

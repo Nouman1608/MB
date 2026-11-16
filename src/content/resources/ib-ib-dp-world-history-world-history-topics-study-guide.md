@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): World history topics -- Study Guide"
+seoTitle: "IB DP History World History Topics Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["ib"]

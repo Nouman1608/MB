@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Population Distribution -- Changing Population"
+seoTitle: "IB DP Geography Population Distribution Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

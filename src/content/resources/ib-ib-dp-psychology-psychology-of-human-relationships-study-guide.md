@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Psychology of human relationships -- Study Guide"
+seoTitle: "IB DP Psychology Human Relationships Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

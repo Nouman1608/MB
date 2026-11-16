@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Geometry and Trigonometry Strand"
+seoTitle: "IB DP Maths AI Geometry and Trigonometry Study Guide"
 resourceType: "study-guides"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

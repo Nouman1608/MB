@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Chemistry: Structure, Bonding and Introductory Organic Chemistry — Revision Notes"
+seoTitle: "Edexcel IAL Chemistry Structure and Bonding Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

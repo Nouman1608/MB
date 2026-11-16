@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Individual -- Revision Notes"
+seoTitle: "Edexcel IAL Law The Individual Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

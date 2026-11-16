@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Geography: Globalisation and Global Systems — Revision Notes"
+seoTitle: "OxfordAQA A Level Geography Globalisation Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

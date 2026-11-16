@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 4 – Pre- and Post-1900 Poetry and Prose — Revision Notes"
+seoTitle: "Cambridge A Level English Lit Pre & Post-1900 Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

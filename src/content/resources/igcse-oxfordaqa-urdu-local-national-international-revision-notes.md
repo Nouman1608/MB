@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Urdu: Local, National, International and Global Areas of Interest — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Areas of Interest Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

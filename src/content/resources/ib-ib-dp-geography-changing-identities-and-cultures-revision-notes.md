@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 12.2 Changing identities and cultures -- Revision Notes"
+seoTitle: "IB DP Geography Changing Identities and Cultures Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

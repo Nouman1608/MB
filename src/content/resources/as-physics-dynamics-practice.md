@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Dynamics, Newton Laws and Momentum — Practice Questions"
+seoTitle: "Cambridge AS Physics Dynamics & Momentum Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

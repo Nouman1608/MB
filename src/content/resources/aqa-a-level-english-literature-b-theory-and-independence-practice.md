@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Theory and Independence NEA — Practice Questions"
+seoTitle: "AQA A-Level English Lit B Theory & Independence Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

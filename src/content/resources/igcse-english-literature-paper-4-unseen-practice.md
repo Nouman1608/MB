@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 4 - Unseen — Practice Questions"
+seoTitle: "Cambridge IGCSE English Literature Unseen Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

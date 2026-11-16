@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Food Production -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Food Production Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

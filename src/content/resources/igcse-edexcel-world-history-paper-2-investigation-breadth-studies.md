@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Paper 2 Investigation and Breadth Studies (4HI1)"
+seoTitle: "Edexcel IGCSE History Investigation & Breadth Studies Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

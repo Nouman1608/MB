@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE World History: Studies in Change — Revision Notes"
+seoTitle: "OxfordAQA IGCSE World History Studies in Change Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

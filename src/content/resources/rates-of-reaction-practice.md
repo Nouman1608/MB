@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Rates of Reaction and Reversible Reactions — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Rates of Reaction Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

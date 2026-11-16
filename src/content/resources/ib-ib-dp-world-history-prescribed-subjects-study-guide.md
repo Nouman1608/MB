@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): Prescribed subjects -- Study Guide"
+seoTitle: "IB DP History Prescribed Subjects Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Component-by-Component Exam Preparation"
+seoTitle: "Cambridge IGCSE Urdu Second Language Exam Prep"
 resourceType: "exam-preparation"
 subject: "urdu-language"
 level: ["igcse"]

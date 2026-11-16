@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): Natural hazards -- Study Guide"
+seoTitle: "O Level Environmental Management Natural Hazards Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

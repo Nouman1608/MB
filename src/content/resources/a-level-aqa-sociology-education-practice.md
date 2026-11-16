@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Sociology: Role of Education and Differential Achievement — Practice Questions"
+seoTitle: "AQA A-Level Sociology Education and Achievement Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

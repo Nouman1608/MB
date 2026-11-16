@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Hardware and Software — Practice Questions"
+seoTitle: "Cambridge A Level ICT 9626 Hardware and Software Practice"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]

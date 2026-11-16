@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 11.3 Human and physical influences on global interactions -- Revision Notes"
+seoTitle: "IB Geography Human and Physical Influences on Interactions"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

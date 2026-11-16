@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 4.4 The management of natural increase -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Managing Natural Increase Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

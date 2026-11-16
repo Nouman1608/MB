@@ -1,5 +1,6 @@
 ---
 title: "O Level Commerce: Aids to Trade that Support Commerce — Practice Questions"
+seoTitle: "Cambridge O Level Commerce Aids to Trade Practice Questions"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["o-levels"]

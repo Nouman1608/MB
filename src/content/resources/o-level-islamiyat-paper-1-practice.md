@@ -1,5 +1,6 @@
 ---
 title: "O Level Islamiyat: Paper 1 Practice Questions (Cambridge 2058)"
+seoTitle: "Cambridge O Level Islamiyat Paper 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["o-levels"]

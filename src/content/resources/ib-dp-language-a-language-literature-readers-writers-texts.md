@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Language and Literature -- Readers, Writers and Texts"
+seoTitle: "IB DP Lang and Lit Readers, Writers and Texts Study Guide"
 resourceType: "study-guides"
 subject: "language-a-language-and-literature"
 level: ["ib"]

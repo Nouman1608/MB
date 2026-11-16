@@ -1,5 +1,6 @@
 ---
 title: "Atomic Structure: Fundamental Particles, Isotopes, TOF-MS and Electron Configuration"
+seoTitle: "OxfordAQA A Level Chemistry Atomic Structure Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

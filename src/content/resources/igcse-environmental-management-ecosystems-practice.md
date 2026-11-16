@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Ecosystems, Biodiversity and Fieldwork — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Ecosystems and Biodiversity Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Biology: The Diversity of Living Organisms (9610)"
+seoTitle: "OxfordAQA A-Level Biology Diversity of Organisms Study Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

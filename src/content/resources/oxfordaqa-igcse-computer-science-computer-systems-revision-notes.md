@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Computer Systems — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Computer Systems Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

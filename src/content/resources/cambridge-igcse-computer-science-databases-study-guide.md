@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): Databases -- Study Guide"
+seoTitle: "Cambridge IGCSE Computer Science Databases Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Transport in mammals — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Transport in Mammals Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

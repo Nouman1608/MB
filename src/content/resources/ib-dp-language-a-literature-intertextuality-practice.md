@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Literature -- Intertextuality: Practice Questions"
+seoTitle: "IB DP Language A Literature Intertextuality Practice"
 resourceType: "practice-questions"
 subject: "language-a-literature"
 level: ["ib"]

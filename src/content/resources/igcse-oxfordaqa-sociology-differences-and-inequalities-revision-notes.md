@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Differences and Inequalities — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Sociology Differences and Inequalities Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

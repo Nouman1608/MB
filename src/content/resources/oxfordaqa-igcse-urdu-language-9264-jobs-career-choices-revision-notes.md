@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Jobs, Career Choices and Ambitions -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Jobs and Career Choices Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

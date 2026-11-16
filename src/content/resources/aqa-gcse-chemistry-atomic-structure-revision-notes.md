@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Chemistry: Atomic Structure and the Periodic Table — Revision Notes"
+seoTitle: "AQA GCSE Chemistry Atomic Structure & Periodic Table Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

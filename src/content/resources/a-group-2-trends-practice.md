@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Group 2 — Thermal Stability and Solubility Trends Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Group 2 Trends Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

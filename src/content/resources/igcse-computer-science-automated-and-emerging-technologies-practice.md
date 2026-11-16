@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Automated and Emerging Technologies — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge 0478 Automated and Emerging Technologies Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Sciences: The Four Assessment Criteria in Practice -- Practice Questions"
+seoTitle: "IB MYP Sciences Four Assessment Criteria Practice Questions"
 resourceType: "practice-questions"
 subject: "myp-sciences"
 level: ["ib"]

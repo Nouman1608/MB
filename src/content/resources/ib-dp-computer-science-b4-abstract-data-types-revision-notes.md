@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.4: Abstract Data Types -- Revision Notes"
+seoTitle: "IB DP Computer Science Abstract Data Types Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["ib"]

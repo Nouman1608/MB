@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 2 - Drama — Practice Questions"
+seoTitle: "Cambridge IGCSE English Literature Drama Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

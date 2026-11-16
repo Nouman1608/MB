@@ -1,5 +1,6 @@
 ---
 title: "A Level World History: International History, 1870-1939 (Cambridge 9489)"
+seoTitle: "Cambridge A Level History International 1870-1939 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Speaking and Listening Endorsement — Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Speaking and Listening Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

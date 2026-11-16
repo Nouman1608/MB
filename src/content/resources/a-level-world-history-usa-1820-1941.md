@@ -1,5 +1,6 @@
 ---
 title: "A Level World History: The History of the USA, 1820-1941 (Cambridge 9489)"
+seoTitle: "Cambridge A Level History USA 1820-1941 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

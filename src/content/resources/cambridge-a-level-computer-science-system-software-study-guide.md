@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): System Software -- Study Guide"
+seoTitle: "Cambridge A Level Computer Science System Software Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

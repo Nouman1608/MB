@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: Economic development — Practice Questions (Cambridge 2281)"
+seoTitle: "Cambridge O Level Economics Economic Development Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Sciences eAssessment: Preparing for the Investigation Skills Task"
+seoTitle: "IB MYP Sciences Investigation Skills Task Exam Prep"
 resourceType: "exam-preparation"
 subject: "myp-sciences"
 level: ["ib"]

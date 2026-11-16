@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History (8145): Paper 1 Section A Period Studies — Practice Questions"
+seoTitle: "AQA GCSE History Paper 1 Period Studies Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Component 2 – Individual Report — Practice Questions"
+seoTitle: "Cambridge IGCSE 0457 Individual Report Practice Questions"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["igcse"]

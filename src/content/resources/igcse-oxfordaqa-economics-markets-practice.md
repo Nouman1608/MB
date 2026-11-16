@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Economics: Markets and Market Failure — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Economics Markets & Market Failure Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["igcse"]

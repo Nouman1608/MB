@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: History and Importance of the Hadiths, Subtopic 2.2 (0493)"
+seoTitle: "IGCSE Islamiyat History and Importance of Hadiths Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

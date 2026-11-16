@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Changes in Medicine, c1848–c1948 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Changes in Medicine c1848–c1948 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

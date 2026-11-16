@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Russia and the Soviet Union, 1905–24 (4HI1)"
+seoTitle: "Edexcel IGCSE History Russia and Soviet Union 1905–24 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Computer Science: Data Transmission — Revision Notes"
+seoTitle: "Cambridge O Level Computer Science Data Transmission Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

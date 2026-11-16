@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Unification of Italy, 1848–70 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Unification of Italy 1848–70 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

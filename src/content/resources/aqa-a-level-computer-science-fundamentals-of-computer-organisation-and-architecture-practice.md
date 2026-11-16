@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Computer Organisation and Architecture — Practice Questions"
+seoTitle: "AQA A-Level CS Computer Organisation & Architecture Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

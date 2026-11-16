@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section C Modern Prose -- Revision Notes"
+seoTitle: "Edexcel IGCSE English Literature Modern Prose Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

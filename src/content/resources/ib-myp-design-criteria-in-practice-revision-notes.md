@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Design: The Four Assessment Criteria in Practice -- Revision Notes"
+seoTitle: "IB MYP Design Four Assessment Criteria Revision Notes"
 resourceType: "revision-notes"
 subject: "myp-design"
 level: ["ib"]

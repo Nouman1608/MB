@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Urbanisation -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Urbanisation Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

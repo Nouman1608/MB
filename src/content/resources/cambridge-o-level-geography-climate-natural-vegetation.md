@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Climate and Natural Vegetation"
+seoTitle: "O Level Geography Climate and Natural Vegetation Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

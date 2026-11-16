@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Differences and Inequalities — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Inequalities Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

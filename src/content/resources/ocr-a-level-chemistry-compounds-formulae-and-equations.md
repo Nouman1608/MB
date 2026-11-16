@@ -1,5 +1,6 @@
 ---
 title: "Compounds, Formulae and Equations: Ionic Charges and Balanced Equations"
+seoTitle: "OCR A Level Chemistry Formulae and Equations Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

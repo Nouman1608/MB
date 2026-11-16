@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Law (7162): Tort Rules, Cases, Defences and Remedies -- Study Guide"
+seoTitle: "AQA A-Level Law Tort Cases, Defences and Remedies Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

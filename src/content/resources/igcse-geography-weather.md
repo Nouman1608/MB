@@ -1,5 +1,6 @@
 ---
 title: "Weather: Data Collection, Instruments and Interpreting Climate Graphs"
+seoTitle: "Cambridge IGCSE Geography Weather and Climate Graphs Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

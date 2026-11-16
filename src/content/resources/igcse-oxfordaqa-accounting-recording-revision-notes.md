@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Sources and Recording of Data — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Accounting Recording of Data Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse"]

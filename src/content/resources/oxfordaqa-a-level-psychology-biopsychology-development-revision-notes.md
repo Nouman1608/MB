@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Psychology: Biopsychology, Development and Research Methods 1 — Revision Notes"
+seoTitle: "OxfordAQA A-Level Psychology Biopsychology Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

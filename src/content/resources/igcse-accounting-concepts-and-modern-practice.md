@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Accounting Concepts and Modern Practice (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE Accounting Concepts & Modern Practice Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Biological Approach to Understanding Behaviour -- Revision Notes"
+seoTitle: "IB DP Psychology Biological Approach Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

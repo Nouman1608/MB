@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 12.1 Development opportunities -- Revision Notes"
+seoTitle: "IB DP Geography Development Opportunities Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

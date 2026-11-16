@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level Global Perspectives 9239 Exam Prep"
 resourceType: "exam-preparation"
 subject: "global-perspectives"
 level: ["a-levels"]

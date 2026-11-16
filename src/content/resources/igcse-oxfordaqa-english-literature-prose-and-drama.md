@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature: Prose and Drama (9275)"
+seoTitle: "OxfordAQA IGCSE English Literature Prose and Drama Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

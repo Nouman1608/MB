@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Introduction to Organic Chemistry — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Intro to Organic Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

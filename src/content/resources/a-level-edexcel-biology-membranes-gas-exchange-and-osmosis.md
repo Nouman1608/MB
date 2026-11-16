@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Biology: Gas Exchange Surfaces, Membranes and Osmosis (YBI11)"
+seoTitle: "Edexcel IAL Biology Gas Exchange and Membranes Study Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

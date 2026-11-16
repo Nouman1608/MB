@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Web Page Design — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Web Page Design Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

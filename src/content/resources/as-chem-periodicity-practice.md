@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Periodicity Across Period 3 — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Periodicity Across Period 3 Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

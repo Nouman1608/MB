@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: History and Importance of the Hadiths — Revision Notes (0493)"
+seoTitle: "IGCSE Islamiyat History and Importance of Hadiths Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

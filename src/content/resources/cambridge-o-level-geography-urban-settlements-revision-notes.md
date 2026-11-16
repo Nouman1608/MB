@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Urban Settlements -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Urban Settlements Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

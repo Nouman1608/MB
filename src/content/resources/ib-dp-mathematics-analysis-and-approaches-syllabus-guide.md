@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Mathematics: Analysis and Approaches: Syllabus Guide"
+seoTitle: "IB DP Maths Analysis and Approaches Syllabus Guide"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

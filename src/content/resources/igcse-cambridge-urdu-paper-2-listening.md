@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Paper 2 – Listening (0539)"
+seoTitle: "Cambridge IGCSE Urdu 0539 Listening Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

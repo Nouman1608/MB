@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce (0715): Sustainability and ethics -- Study Guide"
+seoTitle: "Cambridge IGCSE Commerce Sustainability and Ethics Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["igcse"]

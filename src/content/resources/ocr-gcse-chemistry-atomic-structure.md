@@ -1,5 +1,6 @@
 ---
 title: "Atomic Structure: Sub-Atomic Particles and the Development of the Atomic Model"
+seoTitle: "OCR GCSE Chemistry Atomic Structure and Atomic Model Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Functional Programming — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Functional Programming Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

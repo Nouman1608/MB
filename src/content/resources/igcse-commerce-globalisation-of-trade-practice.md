@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Globalisation of Trade — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Globalisation of Trade Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

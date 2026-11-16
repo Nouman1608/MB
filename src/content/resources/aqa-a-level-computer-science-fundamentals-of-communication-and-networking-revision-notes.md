@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Communication and Networking — Revision Notes"
+seoTitle: "AQA A-Level CS Communication and Networking Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

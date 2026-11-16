@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: The Four Assessment Criteria in Practice -- Revision Notes"
+seoTitle: "IB MYP Individuals & Societies Four Criteria Revision Notes"
 resourceType: "revision-notes"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

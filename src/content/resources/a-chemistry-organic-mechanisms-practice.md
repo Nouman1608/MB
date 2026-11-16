@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Organic Mechanisms and Arenes — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Organic Mechanisms Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

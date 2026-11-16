@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Biology: Gas Exchange Surfaces, Membranes and Osmosis — Revision Notes"
+seoTitle: "Edexcel IAL Biology Gas Exchange and Membranes Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

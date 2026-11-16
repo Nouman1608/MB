@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Biology: Development of Practical Skills — Revision Notes"
+seoTitle: "OCR A Level Biology Development of Practical Skills Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

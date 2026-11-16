@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Statistics: Representation of Data — Revision Notes"
+seoTitle: "Cambridge IGCSE Statistics Representation of Data Notes"
 resourceType: "revision-notes"
 subject: "statistics"
 level: ["igcse"]

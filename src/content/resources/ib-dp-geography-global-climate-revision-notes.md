@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Global Climate -- Vulnerability and Resilience -- Revision Notes"
+seoTitle: "IB DP Geography Global Climate Vulnerability Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

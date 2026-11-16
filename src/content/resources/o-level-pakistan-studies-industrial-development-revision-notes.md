@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Industrial Development — Revision Notes"
+seoTitle: "Cambridge O Level Pak Studies Industrial Development Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

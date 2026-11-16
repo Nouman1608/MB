@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Input and Output Devices — Practice Questions (Cambridge 2210)"
+seoTitle: "Cambridge O Level CS Input and Output Devices Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

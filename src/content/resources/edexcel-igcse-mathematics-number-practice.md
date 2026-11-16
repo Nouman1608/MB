@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Mathematics: Numbers and the Number System — Practice Questions"
+seoTitle: "Edexcel IGCSE Maths Numbers and the Number System Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

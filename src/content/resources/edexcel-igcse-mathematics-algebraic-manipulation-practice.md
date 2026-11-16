@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Mathematics: Use of Symbols and Algebraic Manipulation — Practice Questions (4MA1)"
+seoTitle: "Edexcel IGCSE Maths Algebraic Manipulation Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

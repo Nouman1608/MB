@@ -1,5 +1,6 @@
 ---
 title: "O Level Geography: The Natural Environment — Practice Questions"
+seoTitle: "Cambridge O Level Geography Natural Environment Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

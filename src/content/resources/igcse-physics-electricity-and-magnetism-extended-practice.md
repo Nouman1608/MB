@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Physics: Electricity and Magnetism (Extended) — Practice Questions (Cambridge 0625)"
+seoTitle: "Cambridge 0625 Electricity and Magnetism Extended Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

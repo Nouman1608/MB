@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Algorithm Design and Problem-Solving — Revision Notes"
+seoTitle: "Cambridge IGCSE Computer Science Algorithm Design Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

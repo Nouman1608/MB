@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 13.3 Local and global resilience -- Revision Notes"
+seoTitle: "IB DP Geography Local and Global Resilience Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

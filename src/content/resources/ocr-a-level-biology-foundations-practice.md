@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Biology: Foundations in Biology — Practice Questions"
+seoTitle: "OCR A Level Biology Foundations in Biology Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

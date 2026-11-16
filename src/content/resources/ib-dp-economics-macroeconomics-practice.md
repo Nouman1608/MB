@@ -1,5 +1,6 @@
 ---
 title: "IB DP Economics: Measuring and Managing the Economy (Unit 3.1-3.3) -- Practice Questions"
+seoTitle: "IB DP Economics Measuring and Managing the Economy Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Condensation Polymerisation — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Condensation Polymers Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

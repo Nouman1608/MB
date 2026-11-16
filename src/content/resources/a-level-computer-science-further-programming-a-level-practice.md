@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Further Programming (A Level) — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 A Level Further Programming Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

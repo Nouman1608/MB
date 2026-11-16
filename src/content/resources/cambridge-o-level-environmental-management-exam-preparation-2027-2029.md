@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Exam Preparation for the 2027-2029 Papers (5014)"
+seoTitle: "O Level Environmental Management 2027-2029 Exam Prep"
 resourceType: "exam-preparation"
 subject: "environmental-management"
 level: ["o-levels"]

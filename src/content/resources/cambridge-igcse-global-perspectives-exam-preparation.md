@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge IGCSE Global Perspectives Exam Prep"
 resourceType: "exam-preparation"
 subject: "global-perspectives"
 level: ["igcse"]

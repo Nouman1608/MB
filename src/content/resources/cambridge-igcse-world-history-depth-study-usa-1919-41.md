@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Depth Study D, The United States 1919-41 (0470)"
+seoTitle: "Cambridge IGCSE World History USA 1919-41 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

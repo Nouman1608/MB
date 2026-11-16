@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Business: Operations and People, Marketing and Finance"
+seoTitle: "OxfordAQA IGCSE Business Exam Prep: Operations to Finance"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["igcse"]

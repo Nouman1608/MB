@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Component 5 – Coursework — Revision Notes (Cambridge 0475)"
+seoTitle: "Cambridge IGCSE English Literature Coursework Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

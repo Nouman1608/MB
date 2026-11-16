@@ -1,5 +1,6 @@
 ---
 title: "Climate and Natural Vegetation: Equatorial and Hot Desert Ecosystems"
+seoTitle: "Cambridge IGCSE 0460 Climate and Natural Vegetation Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

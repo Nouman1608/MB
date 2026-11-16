@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Practical Techniques — Titrations, Chromatography and Separation — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Practical Techniques Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

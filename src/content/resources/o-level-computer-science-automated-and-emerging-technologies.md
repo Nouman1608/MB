@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Automated and Emerging Technologies (Cambridge 2210)"
+seoTitle: "Cambridge O Level CS Automated & Emerging Technologies Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

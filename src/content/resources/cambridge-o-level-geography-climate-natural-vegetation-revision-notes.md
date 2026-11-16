@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Climate and Natural Vegetation -- Revision Notes"
+seoTitle: "O Level Geography Climate and Natural Vegetation Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

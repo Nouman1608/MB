@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: The Four Assessment Criteria in Practice -- Practice Questions"
+seoTitle: "IB MYP Individuals & Societies Four Criteria Practice"
 resourceType: "practice-questions"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

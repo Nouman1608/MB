@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Databases — Practice Questions (Cambridge 2210)"
+seoTitle: "Cambridge O Level Computer Science Databases Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

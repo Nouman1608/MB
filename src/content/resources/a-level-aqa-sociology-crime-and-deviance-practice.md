@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Sociology: Crime and Deviance — Practice Questions"
+seoTitle: "AQA A-Level Sociology Crime and Deviance Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

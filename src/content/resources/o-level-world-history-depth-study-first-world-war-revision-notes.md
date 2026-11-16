@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study A, The First World War — Revision Notes (Cambridge 2147)"
+seoTitle: "Cambridge O Level History First World War Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]

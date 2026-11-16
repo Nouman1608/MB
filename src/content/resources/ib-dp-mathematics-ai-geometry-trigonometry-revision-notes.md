@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Geometry and Trigonometry Strand Revision Notes"
+seoTitle: "IB DP Maths AI Geometry and Trigonometry Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

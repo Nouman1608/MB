@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: Law Making and the Legal System — Practice Questions"
+seoTitle: "AQA A-Level Law Making and the Legal System Practice"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

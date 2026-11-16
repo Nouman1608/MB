@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Radioactivity and Particles — Revision Notes"
+seoTitle: "Edexcel IGCSE Physics Radioactivity and Particles Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["igcse"]

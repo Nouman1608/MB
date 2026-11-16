@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Literature: Closed-Book, Open-Book and the Route A/B Choice (9675)"
+seoTitle: "OxfordAQA A-Level English Literature 9675 Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["a-levels"]

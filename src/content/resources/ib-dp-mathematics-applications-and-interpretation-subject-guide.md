@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Mathematics: Applications and Interpretation: Subject Overview"
+seoTitle: "IB DP Maths Applications and Interpretation Subject Guide"
 resourceType: "subject-guides"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

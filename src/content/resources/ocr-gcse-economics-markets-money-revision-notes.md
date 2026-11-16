@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Economics: The Role of Markets and Money — Revision Notes"
+seoTitle: "OCR GCSE Economics Markets and Money Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["gcse"]

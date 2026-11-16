@@ -1,5 +1,6 @@
 ---
 title: "IB DP Business Management Unit 4: Marketing -- Revision Notes"
+seoTitle: "IB DP Business Management Marketing Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["ib"]

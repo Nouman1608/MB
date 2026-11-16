@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Fieldwork (internal assessment) -- Study Guide"
+seoTitle: "IB DP Geography Fieldwork Internal Assessment Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

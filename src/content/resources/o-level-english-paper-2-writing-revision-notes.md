@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level English Language: Paper 2 Writing — Revision Notes"
+seoTitle: "Cambridge O Level English Language Paper 2 Writing Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Environmental Management: Rocks and Minerals — Practice Questions"
+seoTitle: "Cambridge O Level 5014 Rocks and Minerals Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

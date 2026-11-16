@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Cognitive Approach to Understanding Behaviour -- Revision Notes"
+seoTitle: "IB DP Psychology Cognitive Approach Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

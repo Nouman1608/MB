@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: South Africa, From Union to the End of Apartheid, 1948–94 — Practice Questions"
+seoTitle: "Edexcel IGCSE History End of Apartheid 1948–94 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

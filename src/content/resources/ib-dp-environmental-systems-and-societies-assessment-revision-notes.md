@@ -1,5 +1,6 @@
 ---
 title: "How DP Environmental Systems and Societies Is Assessed: Revision Notes"
+seoTitle: "IB DP Environmental Systems and Societies Assessment Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

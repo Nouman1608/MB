@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Natural Resources (0680)"
+seoTitle: "Cambridge IGCSE 0680 Natural Resources Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Prose Fiction -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature Prose Fiction Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Computer Science: Data Transmission — Practice Questions (2210)"
+seoTitle: "Cambridge O Level CS Data Transmission Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Language Discourses, Methods and Writing Skills — Revision Notes"
+seoTitle: "AQA A-Level English Language Discourses and Writing Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

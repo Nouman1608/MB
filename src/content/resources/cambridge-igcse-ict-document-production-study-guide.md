@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE ICT (0417): Document production -- Study Guide"
+seoTitle: "Cambridge IGCSE ICT Document Production Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

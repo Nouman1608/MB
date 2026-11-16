@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Law (YLA1): Subject Overview"
+seoTitle: "Edexcel International A Level Law Subject Guide"
 resourceType: "subject-guides"
 subject: "law"
 level: ["a-levels"]

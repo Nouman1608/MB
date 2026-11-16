@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Urban Issues and Challenges (9230)"
+seoTitle: "OxfordAQA IGCSE Geography Urban Issues and Challenges Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

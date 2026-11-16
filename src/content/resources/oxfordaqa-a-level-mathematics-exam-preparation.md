@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Mathematics: The Statistics-or-Mechanics Choice, and How the Four Units Weight (9660)"
+seoTitle: "OxfordAQA A-Level Maths 9660 Stats or Mechanics Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["a-levels"]

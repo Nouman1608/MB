@@ -1,5 +1,6 @@
 ---
 title: "The History and Culture of Pakistan (2059): Practice Questions"
+seoTitle: "Cambridge O Level Pak Studies History and Culture Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

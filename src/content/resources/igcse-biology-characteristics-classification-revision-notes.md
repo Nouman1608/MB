@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Characteristics and Classification of Living Organisms — Revision Notes"
+seoTitle: "Cambridge IGCSE 0610 Classification of Organisms Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["igcse"]

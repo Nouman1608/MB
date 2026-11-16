@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: File Organisation and Access — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 File Organisation and Access Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

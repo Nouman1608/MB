@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Relational Databases and SQL — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Relational Databases and SQL Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

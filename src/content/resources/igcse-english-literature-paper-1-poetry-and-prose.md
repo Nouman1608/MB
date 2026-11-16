@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 1 - Poetry and Prose (Cambridge 0475)"
+seoTitle: "Cambridge IGCSE English Literature Poetry and Prose Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

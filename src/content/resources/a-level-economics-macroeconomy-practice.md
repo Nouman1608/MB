@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: The Macroeconomy — Practice Questions (Cambridge 9708)"
+seoTitle: "Cambridge A Level Economics The Macroeconomy Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

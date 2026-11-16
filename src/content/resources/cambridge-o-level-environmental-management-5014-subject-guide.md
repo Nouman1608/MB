@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): Subject Overview"
+seoTitle: "Cambridge O Level Environmental Management Subject Guide"
 resourceType: "subject-guides"
 subject: "environmental-management"
 level: ["o-levels"]

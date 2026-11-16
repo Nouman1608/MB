@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Principles and Double Entry Bookkeeping — Practice Questions"
+seoTitle: "Edexcel IAL Accounting Double Entry Bookkeeping Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

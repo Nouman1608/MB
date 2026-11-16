@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Option 2A Elements of Crime Writing — Practice Questions"
+seoTitle: "AQA A-Level English Literature B Crime Writing Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

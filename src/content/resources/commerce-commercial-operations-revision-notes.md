@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Commercial Operations — Revision Notes"
+seoTitle: "Cambridge IGCSE Commerce Commercial Operations Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

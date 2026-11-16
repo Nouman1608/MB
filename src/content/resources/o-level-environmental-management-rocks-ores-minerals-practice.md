@@ -1,5 +1,6 @@
 ---
 title: "O Level Environmental Management: Rocks, Ores and Minerals — Practice Questions (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Rocks, Ores and Minerals Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

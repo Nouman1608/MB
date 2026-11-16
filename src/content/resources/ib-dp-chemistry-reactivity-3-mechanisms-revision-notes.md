@@ -1,5 +1,6 @@
 ---
 title: "IB DP Chemistry Reactivity 3: Mechanisms of Chemical Change -- Revision Notes"
+seoTitle: "IB DP Chemistry Reactivity 3 Mechanisms of Change Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["ib"]

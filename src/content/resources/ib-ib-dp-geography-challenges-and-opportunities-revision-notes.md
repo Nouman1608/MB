@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 8.3 Challenges and opportunities -- Revision Notes"
+seoTitle: "IB DP Geography Challenges and Opportunities Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

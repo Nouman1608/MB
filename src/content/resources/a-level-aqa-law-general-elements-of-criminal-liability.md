@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: General Elements of Criminal Liability (7162)"
+seoTitle: "AQA A-Level Law General Elements of Criminal Liability Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

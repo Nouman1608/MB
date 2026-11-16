@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Vietnam Conflict, 1945–75 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Vietnam Conflict 1945–75 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

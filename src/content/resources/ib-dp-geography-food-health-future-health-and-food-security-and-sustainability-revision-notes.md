@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 6.4 Future health and food security and sustainability -- Revision Notes"
+seoTitle: "IB DP Geography Future Health and Food Security Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

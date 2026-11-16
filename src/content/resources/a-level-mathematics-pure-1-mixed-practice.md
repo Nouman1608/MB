@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Pure Mathematics 1 Mixed Practice (Cambridge 9709 Paper 1)"
+seoTitle: "Cambridge A Level Maths Pure Mathematics 1 Mixed Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

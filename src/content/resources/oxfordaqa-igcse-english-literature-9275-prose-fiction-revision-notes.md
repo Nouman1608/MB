@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Prose Fiction -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Prose Fiction Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

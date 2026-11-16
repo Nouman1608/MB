@@ -1,5 +1,6 @@
 ---
 title: "A Level Organic Synthesis: Multi-Step Routes with Aromatic Chemistry"
+seoTitle: "Cambridge A Level Organic Synthesis Multi-Step Routes Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

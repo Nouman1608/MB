@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Marketing and People — Practice Questions"
+seoTitle: "Edexcel IAL Business Marketing and People Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

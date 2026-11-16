@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Population Distribution -- Changing Population Revision Notes"
+seoTitle: "IB DP Geography Population Distribution Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

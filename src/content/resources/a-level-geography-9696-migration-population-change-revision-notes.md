@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 5.1 Migration as a component of population change -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Migration and Population Change"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

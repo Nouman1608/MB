@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Preparation of Financial Statements — Revision Notes"
+seoTitle: "Cambridge IGCSE Accounting Financial Statements Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse","o-levels"]

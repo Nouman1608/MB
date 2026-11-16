@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: The Land of Pakistan — Practice Questions"
+seoTitle: "Cambridge O Level Pakistan Studies Land of Pakistan Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

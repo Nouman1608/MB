@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Organic Chemistry — Formulae and Naming — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Organic Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

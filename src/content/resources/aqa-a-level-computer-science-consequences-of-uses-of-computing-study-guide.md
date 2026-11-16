@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Consequences of uses of computing -- Study Guide"
+seoTitle: "AQA A-Level Computer Science Consequences of Computing Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

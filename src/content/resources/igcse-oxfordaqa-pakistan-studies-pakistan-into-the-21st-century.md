@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: Pakistan into the 21st Century (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies 21st Century Study Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

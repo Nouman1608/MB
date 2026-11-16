@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Radioactivity and Particles — Practice Questions"
+seoTitle: "Edexcel IGCSE Physics Radioactivity and Particles Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

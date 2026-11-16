@@ -1,5 +1,6 @@
 ---
 title: "IB DP Environmental Systems and Societies Topic 1: Foundations"
+seoTitle: "IB DP ESS Topic 1 Foundations Study Guide"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

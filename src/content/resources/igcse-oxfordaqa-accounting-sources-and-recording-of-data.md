@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Accounting: Sources and Recording of Data (9215)"
+seoTitle: "OxfordAQA IGCSE Accounting Recording of Data Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

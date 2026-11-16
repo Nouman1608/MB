@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Islamiat: Life and Teachings of Hazrat Muhammad (pbuh) (9237)"
+seoTitle: "OxfordAQA IGCSE Islamiyat Life of Hazrat Muhammad Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

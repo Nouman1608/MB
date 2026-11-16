@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: Source-Evaluation Exam Preparation"
+seoTitle: "IB MYP Individuals & Societies Source Evaluation Exam Prep"
 resourceType: "exam-preparation"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

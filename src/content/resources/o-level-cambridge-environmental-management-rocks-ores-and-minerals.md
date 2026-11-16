@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Rocks, Ores and Minerals (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Rocks, Ores and Minerals Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

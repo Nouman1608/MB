@@ -1,5 +1,6 @@
 ---
 title: "IGCSE ICT: Applications — Modelling to Satellite Systems — Revision Notes"
+seoTitle: "Cambridge IGCSE ICT Applications Revision Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Aids to Trade that Support Commerce — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Aids to Trade Revision Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

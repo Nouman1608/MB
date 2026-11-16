@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Component-by-Component Exam Preparation"
+seoTitle: "Cambridge IGCSE World History 0470 Exam Prep"
 resourceType: "exam-preparation"
 subject: "world-history"
 level: ["igcse"]

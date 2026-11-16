@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 2.3 Managing coastal margins -- Revision Notes"
+seoTitle: "IB DP Geography Managing Coastal Margins Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

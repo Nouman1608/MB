@@ -1,5 +1,6 @@
 ---
 title: "A Level Accounting: Accounting for Non-Current Assets — Revision Notes (Cambridge 9706)"
+seoTitle: "Cambridge A Level Accounting Non-Current Assets Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

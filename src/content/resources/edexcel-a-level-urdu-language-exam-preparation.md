@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel A-Level Urdu Language: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel A Level Urdu Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "urdu-language"
 level: ["a-levels"]

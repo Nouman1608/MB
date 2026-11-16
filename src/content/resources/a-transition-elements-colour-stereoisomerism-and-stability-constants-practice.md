@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Colour, Stereoisomerism and Stability Constants — Practice Questions"
+seoTitle: "Cambridge A Level Transition Elements Colour Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

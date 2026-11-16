@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Brain and Neuropsychology -- Revision Notes"
+seoTitle: "AQA GCSE Psychology Brain and Neuropsychology Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

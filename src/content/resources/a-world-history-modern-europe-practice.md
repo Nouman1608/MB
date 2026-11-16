@@ -1,5 +1,6 @@
 ---
 title: "A Level World History: Modern Europe, 1774-1924 — Practice Questions"
+seoTitle: "Cambridge A Level History Modern Europe 1774-1924 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

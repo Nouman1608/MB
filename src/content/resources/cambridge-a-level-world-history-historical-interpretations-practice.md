@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Historical interpretations -- Practice Questions"
+seoTitle: "Cambridge A Level History Interpretations Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

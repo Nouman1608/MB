@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Economics: Preparing for Component 03's Unseen Theme"
+seoTitle: "OCR A Level Economics Component 03 Unseen Theme Exam Prep"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["a-levels"]

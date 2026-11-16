@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce (7100): Logistics in commerce -- Study Guide"
+seoTitle: "Cambridge O Level Commerce Logistics in Commerce Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["o-levels"]

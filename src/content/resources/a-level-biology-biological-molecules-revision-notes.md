@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Biological Molecules — Revision Notes (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Biological Molecules Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

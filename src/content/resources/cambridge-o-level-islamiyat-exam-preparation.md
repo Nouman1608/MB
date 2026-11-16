@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Question Choice and Timing Strategy for Both Papers"
+seoTitle: "Cambridge O Level Islamiyat Question Choice and Timing Prep"
 resourceType: "exam-preparation"
 subject: "islamiyat"
 level: ["o-levels"]

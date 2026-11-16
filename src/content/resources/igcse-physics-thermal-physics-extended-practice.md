@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Physics: Thermal Physics (Extended) — Practice Questions (Cambridge 0625)"
+seoTitle: "Cambridge IGCSE Physics Thermal Physics Extended Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

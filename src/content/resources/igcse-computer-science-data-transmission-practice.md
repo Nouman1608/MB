@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Data Transmission — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE Computer Science Data Transmission Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

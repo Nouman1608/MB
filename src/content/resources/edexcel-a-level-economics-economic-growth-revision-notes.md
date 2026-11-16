@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Economics: Measuring Economic Growth — Revision Notes"
+seoTitle: "Edexcel IAL Economics Measuring Economic Growth Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Fundamentals of functional programming -- Study Guide"
+seoTitle: "AQA A-Level Computer Science Functional Programming Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

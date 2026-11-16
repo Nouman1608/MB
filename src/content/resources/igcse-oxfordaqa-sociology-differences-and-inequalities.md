@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Differences and Inequalities (9292)"
+seoTitle: "OxfordAQA IGCSE Sociology Differences and Inequalities Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["igcse"]

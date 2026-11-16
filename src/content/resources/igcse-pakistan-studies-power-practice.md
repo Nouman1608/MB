@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Power — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Power Practice Questions"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

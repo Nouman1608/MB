@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel A-Level Urdu Language (9UR0): Subject Overview"
+seoTitle: "Edexcel A Level Urdu Language 9UR0 Subject Guide"
 resourceType: "subject-guides"
 subject: "urdu-language"
 level: ["a-levels"]

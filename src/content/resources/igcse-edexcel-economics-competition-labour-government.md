@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Economics: Business Competition, the Labour Market and Government Intervention (4EC1)"
+seoTitle: "Edexcel IGCSE Economics Competition and Labour Market Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]

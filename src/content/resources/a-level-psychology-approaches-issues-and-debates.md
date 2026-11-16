@@ -1,5 +1,6 @@
 ---
 title: "A Level Psychology: Approaches, Issues and Debates (Cambridge 9990)"
+seoTitle: "Cambridge A Level Psychology Approaches, Issues and Debates"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

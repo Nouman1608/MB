@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.3: Object Oriented Programming -- Practice Questions"
+seoTitle: "IB DP Computer Science Object Oriented Programming Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["ib"]

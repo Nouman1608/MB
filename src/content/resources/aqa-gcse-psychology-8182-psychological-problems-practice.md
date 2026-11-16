@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Psychological Problems -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Psychological Problems Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

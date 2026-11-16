@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives (9239): Subject Overview"
+seoTitle: "Cambridge A Level Global Perspectives 9239 Subject Guide"
 resourceType: "subject-guides"
 subject: "global-perspectives"
 level: ["a-levels"]

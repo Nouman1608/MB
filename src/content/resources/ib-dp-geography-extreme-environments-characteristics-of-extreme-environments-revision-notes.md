@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 3.1 The characteristics of extreme environments -- Revision Notes"
+seoTitle: "IB Geography Characteristics of Extreme Environments Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Islam — Beliefs and Teachings — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Islamiyat Beliefs and Teachings Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): France, 1774-1814 -- Study Guide"
+seoTitle: "Cambridge A Level World History France 1774-1814 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

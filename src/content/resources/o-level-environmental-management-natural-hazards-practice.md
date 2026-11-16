@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Natural Hazards — Practice Questions (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Natural Hazards Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["o-levels"]

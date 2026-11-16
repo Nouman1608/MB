@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Language and Literature -- Time and Space: Revision Notes"
+seoTitle: "IB DP Language and Literature Time and Space Revision Notes"
 resourceType: "revision-notes"
 subject: "language-a-language-and-literature"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Government Microeconomic Intervention — Revision Notes"
+seoTitle: "Cambridge A Level Economics Microeconomic Intervention Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

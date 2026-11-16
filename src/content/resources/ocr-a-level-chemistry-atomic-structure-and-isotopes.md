@@ -1,5 +1,6 @@
 ---
 title: "Atomic Structure and Isotopes: Relative Mass and Mass Spectrometry"
+seoTitle: "OCR A Level Chemistry Atomic Structure and Isotopes Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

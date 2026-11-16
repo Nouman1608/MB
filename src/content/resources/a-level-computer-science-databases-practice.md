@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Databases — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Computer Science Databases Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

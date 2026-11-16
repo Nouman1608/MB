@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Pakistan Studies: The History and Culture of Pakistan (Cambridge 0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies History and Culture Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

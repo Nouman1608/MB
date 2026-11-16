@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Paper-by-Paper Exam Preparation"
+seoTitle: "IB DP Maths Applications and Interpretation Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

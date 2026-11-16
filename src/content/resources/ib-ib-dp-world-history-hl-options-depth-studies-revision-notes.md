@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): HL options: Depth studies -- Revision Notes"
+seoTitle: "IB DP History HL Options Depth Studies Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["ib"]

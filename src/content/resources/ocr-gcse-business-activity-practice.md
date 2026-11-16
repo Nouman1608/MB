@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Business Activity, Marketing and People — Practice Questions"
+seoTitle: "OCR GCSE Business Activity, Marketing and People Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["gcse"]

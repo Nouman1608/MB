@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Statistics and Probability"
+seoTitle: "IB DP Maths AI Statistics and Probability Study Guide"
 resourceType: "study-guides"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

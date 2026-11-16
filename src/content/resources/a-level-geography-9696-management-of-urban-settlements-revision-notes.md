@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 6.4 The management of urban settlements -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Managing Urban Settlements Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

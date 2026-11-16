@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 7.3 Urban environmental and social stresses -- Revision Notes"
+seoTitle: "IB Geography Urban Environmental and Social Stresses Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

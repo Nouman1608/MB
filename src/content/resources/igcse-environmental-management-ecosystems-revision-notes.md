@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Ecosystems, Biodiversity and Fieldwork — Revision Notes"
+seoTitle: "Cambridge IGCSE Environmental Management Ecosystems Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

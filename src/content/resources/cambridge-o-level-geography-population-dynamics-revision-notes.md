@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Dynamics -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Population Dynamics Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

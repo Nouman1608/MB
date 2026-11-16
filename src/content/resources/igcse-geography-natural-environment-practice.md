@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography: The Natural Environment — Practice Questions (0460)"
+seoTitle: "Cambridge IGCSE Geography Natural Environment Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["igcse"]

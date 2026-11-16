@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Business Studies: Understanding Business Activity — Revision Notes"
+seoTitle: "Cambridge IGCSE 0450 Business Activity Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["igcse"]

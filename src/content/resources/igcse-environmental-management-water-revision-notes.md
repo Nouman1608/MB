@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Water — Revision Notes"
+seoTitle: "Cambridge IGCSE Environmental Management Water Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

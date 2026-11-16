@@ -1,5 +1,6 @@
 ---
 title: "A Level Sociology: Socialisation, Identity and Research Methods — Practice Questions"
+seoTitle: "Cambridge A Level Sociology Socialisation & Methods Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

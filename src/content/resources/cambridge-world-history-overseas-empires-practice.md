@@ -1,5 +1,6 @@
 ---
 title: "Overseas Empires in the Nineteenth Century: Practice Questions"
+seoTitle: "Cambridge World History Overseas Empires Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse", "o-levels"]

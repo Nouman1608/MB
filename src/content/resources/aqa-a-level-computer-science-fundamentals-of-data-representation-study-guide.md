@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Fundamentals of data representation -- Study Guide"
+seoTitle: "AQA A-Level Computer Science Data Representation Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

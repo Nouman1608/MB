@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Statistics: Representation of Data — Practice Questions"
+seoTitle: "Cambridge IGCSE Statistics Representation of Data Practice"
 resourceType: "practice-questions"
 subject: "statistics"
 level: ["igcse"]

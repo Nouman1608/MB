@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Population Dynamics -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Population Dynamics Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

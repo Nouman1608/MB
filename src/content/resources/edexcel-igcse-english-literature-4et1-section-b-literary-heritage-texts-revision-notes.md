@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section B Literary Heritage Texts -- Revision Notes"
+seoTitle: "Edexcel IGCSE English Lit Literary Heritage Texts Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

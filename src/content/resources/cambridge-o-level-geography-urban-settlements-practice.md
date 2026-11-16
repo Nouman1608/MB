@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Urban Settlements -- Practice Questions"
+seoTitle: "Cambridge O Level Geography Urban Settlements Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

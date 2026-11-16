@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Programming Paradigms — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Programming Paradigms Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

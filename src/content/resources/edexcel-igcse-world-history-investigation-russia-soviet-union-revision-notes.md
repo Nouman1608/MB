@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Russia and the Soviet Union, 1905–24 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Russia and Soviet Union 1905–24 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

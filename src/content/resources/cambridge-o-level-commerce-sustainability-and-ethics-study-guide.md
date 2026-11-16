@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce (7100): Sustainability and ethics -- Study Guide"
+seoTitle: "Cambridge O Level Commerce Sustainability and Ethics Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["o-levels"]

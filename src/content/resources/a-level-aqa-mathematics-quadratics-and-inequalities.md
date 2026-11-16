@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Mathematics: Quadratics, Simultaneous Equations and Inequalities (7357)"
+seoTitle: "AQA A-Level Maths Quadratics and Inequalities Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

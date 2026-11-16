@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 5 – Writing exercise"
+seoTitle: "Cambridge IGCSE Urdu Exercise 5 Writing Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

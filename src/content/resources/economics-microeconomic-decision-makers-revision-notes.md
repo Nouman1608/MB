@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: Microeconomic Decision Makers — Revision Notes"
+seoTitle: "O Level Economics Microeconomic Decision Makers Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["o-levels"]

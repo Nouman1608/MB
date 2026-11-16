@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu: Current and Future Study and Employment (9264)"
+seoTitle: "OxfordAQA IGCSE Urdu Study and Employment Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

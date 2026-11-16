@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Biology: The Nature and Variety of Living Organisms (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Variety of Living Organisms Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["igcse"]

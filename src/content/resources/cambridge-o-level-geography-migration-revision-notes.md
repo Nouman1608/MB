@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Migration -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Migration Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

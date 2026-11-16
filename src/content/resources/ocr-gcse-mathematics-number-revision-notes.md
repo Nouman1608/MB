@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Mathematics: Number Operations and Integers — Revision Notes"
+seoTitle: "OCR GCSE Maths Number Operations and Integers Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["gcse"]

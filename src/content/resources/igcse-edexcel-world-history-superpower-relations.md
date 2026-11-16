@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A World Divided, Superpower Relations, 1943–72 (4HI1)"
+seoTitle: "Edexcel IGCSE History Superpower Relations 1943–72 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

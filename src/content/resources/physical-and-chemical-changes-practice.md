@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Physical and Chemical Changes — Practice Questions"
+seoTitle: "IGCSE Chemistry Physical and Chemical Changes Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

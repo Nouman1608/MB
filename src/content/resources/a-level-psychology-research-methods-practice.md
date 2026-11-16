@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Psychology: Research Methods — Practice Questions"
+seoTitle: "Cambridge A Level Psychology Research Methods Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

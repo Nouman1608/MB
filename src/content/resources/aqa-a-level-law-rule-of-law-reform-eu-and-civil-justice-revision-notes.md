@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: Rule of Law, Law Reform, the EU and Civil Justice — Revision Notes"
+seoTitle: "AQA A-Level Law Reform, EU & Civil Justice Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

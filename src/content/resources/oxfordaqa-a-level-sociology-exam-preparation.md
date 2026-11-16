@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Sociology (9690): Preparing for a Brand-New Specification"
+seoTitle: "OxfordAQA A-Level Sociology 9690 New Specification Exam Prep"
 resourceType: "exam-preparation"
 subject: "sociology"
 level: ["a-levels"]

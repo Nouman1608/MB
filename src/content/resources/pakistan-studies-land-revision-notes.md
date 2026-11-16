@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: The Land of Pakistan — Revision Notes"
+seoTitle: "Cambridge IGCSE Pakistan Studies Land of Pakistan Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

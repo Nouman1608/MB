@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Ionic, Covalent and Metallic Bonding — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Chemical Bonding Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

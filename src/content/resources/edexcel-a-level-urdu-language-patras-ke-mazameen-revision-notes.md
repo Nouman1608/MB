@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Patras Ke Mazameen (پطرس کے مضامین) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Patras Ke Mazameen Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

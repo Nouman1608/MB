@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Mathematics: Pure Mathematics — Practice Questions"
+seoTitle: "OCR A Level Maths Pure Mathematics Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

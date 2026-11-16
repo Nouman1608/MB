@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Nature, Purpose of and Liability in Law -- Revision Notes"
+seoTitle: "Edexcel IAL Law Nature Purpose and Liability in Law Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

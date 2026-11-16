@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: The Emergence of Pakistan, 1906–47 (0448)"
+seoTitle: "Cambridge IGCSE 0448 Emergence of Pakistan 1906–47 Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

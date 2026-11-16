@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Me, My Family, Friends and People I Know -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Family and Friends Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

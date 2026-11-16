@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Computer Systems — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Computer Systems Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

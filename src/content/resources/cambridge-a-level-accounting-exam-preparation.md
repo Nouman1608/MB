@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International A-Level Accounting: Why Paper 2 Carries the Most Weight (9706)"
+seoTitle: "Cambridge International A Level Accounting 9706 Exam Prep"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["a-levels"]

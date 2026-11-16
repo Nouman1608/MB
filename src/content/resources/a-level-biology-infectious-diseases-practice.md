@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Infectious diseases — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Infectious Diseases Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

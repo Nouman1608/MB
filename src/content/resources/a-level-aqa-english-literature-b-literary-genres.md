@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Paper 1 Literary Genres (7717)"
+seoTitle: "AQA A-Level English Literature B Literary Genres Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

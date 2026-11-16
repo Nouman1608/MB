@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Algorithms — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Algorithms Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

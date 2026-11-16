@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Thermodynamics and Astrophysics — Practice Questions"
+seoTitle: "Edexcel IAL Physics Thermodynamics and Astrophysics Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

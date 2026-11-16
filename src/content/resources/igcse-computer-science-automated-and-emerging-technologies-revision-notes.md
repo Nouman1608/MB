@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Automated and Emerging Technologies — Revision Notes"
+seoTitle: "Cambridge IGCSE CS Automated and Emerging Technologies Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

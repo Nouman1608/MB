@@ -1,5 +1,6 @@
 ---
 title: "Acids, Bases and Neutralisation: Titration Technique and Calculations"
+seoTitle: "OCR A Level Chemistry Acids, Bases and Titration Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Psychology: Conformity and Obedience — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Psychology Conformity and Obedience Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Physics: Five Equal Papers and Ten Practicals in Writing"
+seoTitle: "OxfordAQA A-Level Physics Exam Prep: Papers and Practicals"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["a-levels"]

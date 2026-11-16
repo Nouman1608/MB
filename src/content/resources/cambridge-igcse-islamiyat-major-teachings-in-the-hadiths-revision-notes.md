@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadiths — Revision Notes (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadiths Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

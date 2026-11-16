@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Paper 2 Texts and Genres — Revision Notes"
+seoTitle: "AQA A-Level English Literature B Texts and Genres Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

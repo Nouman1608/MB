@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Trade, Transport and Telecommunications — Revision Notes"
+seoTitle: "Cambridge IGCSE Pakistan Studies Trade and Transport Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

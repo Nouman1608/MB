@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: Depth Study E, The Second World War 1939-c.1945 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Second World War 1939-c.1945 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

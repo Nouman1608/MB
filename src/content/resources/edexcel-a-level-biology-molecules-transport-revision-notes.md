@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Biology: Molecules, Transport and Health — Revision Notes"
+seoTitle: "Edexcel IAL Biology Molecules Transport and Health Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

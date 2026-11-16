@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Paper 2 Investigation and Breadth Studies — Revision Notes"
+seoTitle: "Edexcel IGCSE History Investigation & Breadth Studies Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

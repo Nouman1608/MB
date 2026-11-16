@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Theme 3, Immigration and the Multicultural Society (9UR0)"
+seoTitle: "Edexcel A Level Urdu Theme 3 Multicultural Society Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

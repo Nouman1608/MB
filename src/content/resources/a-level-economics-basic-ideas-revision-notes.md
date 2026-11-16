@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Basic Economic Ideas and Resource Allocation — Revision Notes"
+seoTitle: "Cambridge A Level Economics Basic Economic Ideas Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

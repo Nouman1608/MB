@@ -1,5 +1,6 @@
 ---
 title: "IB DP Economics: Measuring and Managing the Economy (Unit 3.1–3.3)"
+seoTitle: "IB DP Economics Measuring and Managing the Economy Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["ib"]

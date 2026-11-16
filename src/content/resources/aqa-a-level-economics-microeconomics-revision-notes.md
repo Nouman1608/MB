@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Economics: Individuals, Firms, Markets and Market Failure — Revision Notes"
+seoTitle: "AQA A-Level Economics Firms, Markets & Market Failure Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

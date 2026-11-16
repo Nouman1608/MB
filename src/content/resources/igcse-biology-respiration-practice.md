@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Respiration — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Respiration Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

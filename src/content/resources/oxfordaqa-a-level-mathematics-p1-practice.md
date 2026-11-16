@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Mathematics: Pure Maths 1 — Practice Questions"
+seoTitle: "OxfordAQA A Level Maths Pure Maths 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Economics: The Allocation of Resources (Cambridge 0455)"
+seoTitle: "Cambridge IGCSE Economics Allocation of Resources Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["igcse"]

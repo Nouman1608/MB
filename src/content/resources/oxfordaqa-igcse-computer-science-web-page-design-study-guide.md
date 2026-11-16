@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science (9210): Web page design -- Study Guide"
+seoTitle: "OxfordAQA IGCSE CS 9210 Web Page Design Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

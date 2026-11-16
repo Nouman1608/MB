@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE English Literature: Poetry and Modern Prose (4ET1)"
+seoTitle: "Edexcel IGCSE English Literature Poetry and Modern Prose"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

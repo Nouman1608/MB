@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Poetry and Prose Texts and Imaginative Writing (4EA1)"
+seoTitle: "Edexcel IGCSE English Language Poetry and Prose Texts Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

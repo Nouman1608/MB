@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Sociology: Research Methods, Identity and Inequality — Revision Notes"
+seoTitle: "Cambridge IGCSE Sociology Research Methods Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

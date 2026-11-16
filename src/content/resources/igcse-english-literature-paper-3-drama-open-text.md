@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 3 - Drama (Open Text) (Cambridge 0475)"
+seoTitle: "Cambridge IGCSE English Literature Open Text Drama Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

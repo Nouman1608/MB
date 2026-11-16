@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Geography: Core Human Geography — Practice Questions (9696)"
+seoTitle: "Cambridge A Level Geography Core Human Geography Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["a-levels"]

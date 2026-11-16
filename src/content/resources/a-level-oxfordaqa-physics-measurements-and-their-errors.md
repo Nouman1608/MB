@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Physics: Measurements and Their Errors (9630)"
+seoTitle: "OxfordAQA A-Level Physics Measurements and Errors Guide"
 resourceType: "study-guides"
 subject: "physics"
 level: ["a-levels"]

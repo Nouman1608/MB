@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Migration -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Migration Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

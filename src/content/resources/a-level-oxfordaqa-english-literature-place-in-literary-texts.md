@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level English Literature: Place in Literary Texts (9675)"
+seoTitle: "OxfordAQA A-Level English Literature Place in Literary Texts"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

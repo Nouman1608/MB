@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Language, the Individual and Society (7702)"
+seoTitle: "AQA A-Level English Language Individual and Society Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

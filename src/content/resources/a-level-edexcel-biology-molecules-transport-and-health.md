@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Biology: Molecules, Transport and Health (YBI11)"
+seoTitle: "Edexcel IAL Biology Molecules, Transport and Health Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

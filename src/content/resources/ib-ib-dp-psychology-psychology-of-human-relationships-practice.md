@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Psychology of human relationships -- Practice Questions"
+seoTitle: "IB DP Psychology Human Relationships Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

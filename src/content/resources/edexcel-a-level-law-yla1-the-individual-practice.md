@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Individual -- Practice Questions"
+seoTitle: "Edexcel IAL Law The Individual Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

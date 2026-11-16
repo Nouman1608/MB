@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Component 5 – Coursework — Practice Questions"
+seoTitle: "Cambridge IGCSE English Literature Coursework Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Economics: The Operation of Markets — Practice Questions"
+seoTitle: "OxfordAQA A Level Economics Operation of Markets Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

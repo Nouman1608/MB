@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Mathematics: Bernoulli and Binomial Distributions — Practice Questions"
+seoTitle: "OxfordAQA A Level Maths Bernoulli and Binomial Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

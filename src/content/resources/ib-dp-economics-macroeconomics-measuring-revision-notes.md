@@ -1,5 +1,6 @@
 ---
 title: "IB DP Economics: Measuring and Managing the Economy (Unit 3.1-3.3) -- Revision Notes"
+seoTitle: "IB DP Economics Measuring and Managing the Economy Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["ib"]

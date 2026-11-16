@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level English Language: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level English Language Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["a-levels"]

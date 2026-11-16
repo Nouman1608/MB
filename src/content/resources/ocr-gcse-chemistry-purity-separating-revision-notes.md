@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Chemistry: Purity and Separating Mixtures — Revision Notes"
+seoTitle: "OCR GCSE Chemistry Purity and Separating Mixtures Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

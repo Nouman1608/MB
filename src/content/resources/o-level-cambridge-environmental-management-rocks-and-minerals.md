@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Rocks and Minerals and Their Exploitation (5014)"
+seoTitle: "Cambridge O Level 5014 Rocks and Minerals Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

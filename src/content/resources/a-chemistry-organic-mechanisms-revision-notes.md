@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Organic Mechanisms and Arenes — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Organic Mechanisms Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

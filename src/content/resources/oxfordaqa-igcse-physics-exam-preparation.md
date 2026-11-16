@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Physics: Equation Discipline Across Two Open-Scope Papers"
+seoTitle: "OxfordAQA IGCSE Physics Exam Prep: Equation Discipline"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["igcse"]

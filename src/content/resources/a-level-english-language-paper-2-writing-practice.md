@@ -1,5 +1,6 @@
 ---
 title: "A Level English Language: Paper 2 Writing — Practice Questions"
+seoTitle: "Cambridge A Level English Language Paper 2 Writing Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

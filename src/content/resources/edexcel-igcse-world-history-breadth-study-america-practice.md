@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: America, From New Nation to Divided Union, 1783–1877 — Practice Questions"
+seoTitle: "Edexcel IGCSE History America 1783–1877 Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

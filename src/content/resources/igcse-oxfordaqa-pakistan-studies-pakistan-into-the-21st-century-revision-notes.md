@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Pakistan into the 21st Century — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies 21st Century Revision Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

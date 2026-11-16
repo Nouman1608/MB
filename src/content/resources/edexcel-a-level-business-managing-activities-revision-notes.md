@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Managing Business Activities — Revision Notes"
+seoTitle: "Edexcel IAL Business Managing Business Activities Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

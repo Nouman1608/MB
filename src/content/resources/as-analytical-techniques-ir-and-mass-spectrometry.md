@@ -1,5 +1,6 @@
 ---
 title: "Analytical Techniques: Infrared Spectroscopy and Mass Spectrometry"
+seoTitle: "Cambridge A Level Chemistry IR and Mass Spectrometry Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

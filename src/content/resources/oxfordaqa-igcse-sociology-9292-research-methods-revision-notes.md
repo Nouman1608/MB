@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Research Methods -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Sociology Research Methods Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

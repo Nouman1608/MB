@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: The Rightly Guided Caliphs, Subtopic 2.3 (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Rightly Guided Caliphs Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Analysis and Approaches -- Paper-by-Paper Exam Preparation"
+seoTitle: "IB DP Maths Analysis and Approaches Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

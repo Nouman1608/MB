@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Statistics and Probability Practice Questions"
+seoTitle: "IB DP Maths AI Statistics and Probability Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

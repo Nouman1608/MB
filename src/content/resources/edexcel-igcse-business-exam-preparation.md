@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Business: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Business 4BS1 Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["igcse"]

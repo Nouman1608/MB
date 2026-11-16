@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 1 – Drama and Poetry — Practice Questions"
+seoTitle: "Cambridge A Level English Lit Drama and Poetry Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

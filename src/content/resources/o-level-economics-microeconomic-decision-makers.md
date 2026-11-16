@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: Microeconomic Decision Makers (Cambridge 2281)"
+seoTitle: "Cambridge 2281 Economics Microeconomic Decision Makers Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["o-levels"]

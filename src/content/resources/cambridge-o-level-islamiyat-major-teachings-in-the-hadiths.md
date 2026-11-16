@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Major Teachings in the Hadiths, Subtopic 2.1 (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadiths Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["o-levels"]

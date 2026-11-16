@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: The Basic Economic Problem — Revision Notes"
+seoTitle: "Cambridge O Level Economics Basic Economic Problem Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Jobs, Career Choices and Ambitions -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Jobs and Career Choices Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

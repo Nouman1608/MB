@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Accounting: How the Four Papers Fit Together (9615)"
+seoTitle: "OxfordAQA A-Level Accounting 9615 Four Papers Exam Prep"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["a-levels"]

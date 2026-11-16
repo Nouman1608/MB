@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language 7702: Paper 1 — Practice Questions"
+seoTitle: "AQA A-Level English Language Paper 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

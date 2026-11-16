@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Trade, Transport and Telecommunications (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Trade and Transport Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

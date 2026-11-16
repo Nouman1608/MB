@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Computer Science: The Pre-Released Skeleton Program and Paper 2"
+seoTitle: "OxfordAQA IGCSE CS Exam Prep: Skeleton Program and Paper 2"
 resourceType: "exam-preparation"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Sociology: Research Methods, Identity and Inequality — Revision Notes"
+seoTitle: "Cambridge O Level Sociology Research Methods Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["o-levels"]

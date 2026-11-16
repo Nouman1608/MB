@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language 7702: Language in Action (NEA) — Revision Notes"
+seoTitle: "AQA A-Level English Language NEA Language in Action Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

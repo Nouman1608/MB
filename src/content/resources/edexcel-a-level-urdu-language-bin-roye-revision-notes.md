@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Bin Roye (بن روئے) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu 9UR0 Bin Roye Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

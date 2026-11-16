@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Nature, Purpose of and Liability in Law"
+seoTitle: "Edexcel IAL Law Nature Purpose and Liability in Law Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Component 3 Non-Examined Assessment — Practice Questions (4EA1)"
+seoTitle: "Edexcel IGCSE English Language Component 3 Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

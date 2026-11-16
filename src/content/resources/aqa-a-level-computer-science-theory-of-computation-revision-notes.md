@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Theory of Computation — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Theory of Computation Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

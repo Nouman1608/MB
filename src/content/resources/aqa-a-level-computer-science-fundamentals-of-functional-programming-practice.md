@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Functional Programming — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Functional Programming Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

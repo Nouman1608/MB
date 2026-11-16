@@ -1,5 +1,6 @@
 ---
 title: "Shakespeare and the 19th-Century Novel (8702): Revision Notes"
+seoTitle: "AQA GCSE English Lit Shakespeare & 19th-Century Novel Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["gcse"]

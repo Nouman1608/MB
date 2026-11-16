@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Physics: Conservation and Dissipation of Energy — Practice Questions"
+seoTitle: "AQA GCSE Physics Energy Conservation & Dissipation Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["gcse"]

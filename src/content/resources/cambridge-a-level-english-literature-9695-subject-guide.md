@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level English Literature (9695): Subject Overview"
+seoTitle: "Cambridge A Level English Literature 9695 Subject Guide"
 resourceType: "subject-guides"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives: The Team Project — Revision Notes"
+seoTitle: "Cambridge A Level Global Perspectives Team Project Notes"
 resourceType: "revision-notes"
 subject: "global-perspectives"
 level: ["a-levels"]

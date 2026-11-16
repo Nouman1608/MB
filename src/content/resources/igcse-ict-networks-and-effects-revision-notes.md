@@ -1,5 +1,6 @@
 ---
 title: "IGCSE ICT: Networks and the Effects of Using Them — Revision Notes"
+seoTitle: "Cambridge IGCSE ICT Networks Revision Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Physics: National and Global Energy Resources — Practice Questions"
+seoTitle: "AQA GCSE Physics National & Global Energy Resources Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["gcse"]

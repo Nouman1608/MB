@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study E, The Second World War — Practice Questions (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Second World War Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

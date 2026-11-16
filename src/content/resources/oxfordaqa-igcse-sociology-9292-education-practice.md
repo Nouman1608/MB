@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Education -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Education Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

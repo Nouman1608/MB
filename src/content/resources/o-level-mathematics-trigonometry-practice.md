@@ -1,5 +1,6 @@
 ---
 title: "O Level Mathematics: Trigonometry Practice Questions (Cambridge 4024)"
+seoTitle: "Cambridge O Level Maths Trigonometry Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

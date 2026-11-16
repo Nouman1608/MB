@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Population Structure -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Population Structure Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

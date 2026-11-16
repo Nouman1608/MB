@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Waves and the Particle Nature of Light — Revision Notes"
+seoTitle: "Edexcel IAL Physics Waves and Particle Nature of Light Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

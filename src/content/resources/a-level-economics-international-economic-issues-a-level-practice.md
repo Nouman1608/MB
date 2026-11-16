@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: International Economic Issues (A Level) — Practice Questions (Cambridge 9708)"
+seoTitle: "Cambridge 9708 A Level International Economic Issues Qs"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

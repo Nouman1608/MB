@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Speaking and Listening Endorsement — Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Speaking and Listening Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

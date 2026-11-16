@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Statistics: Frequency Distributions — Revision Notes"
+seoTitle: "Cambridge IGCSE Statistics Frequency Distributions Notes"
 resourceType: "revision-notes"
 subject: "statistics"
 level: ["igcse"]

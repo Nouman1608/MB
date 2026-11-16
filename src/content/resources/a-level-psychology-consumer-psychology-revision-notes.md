@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Consumer Psychology — Revision Notes"
+seoTitle: "Cambridge A Level Psychology Consumer Psychology Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

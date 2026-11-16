@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Component 3 Non-Examined Assessment — Practice Questions (4ET1)"
+seoTitle: "Edexcel IGCSE English Lit Non-Examined Assessment Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Biology: Nature and Variety of Living Organisms — Revision Notes"
+seoTitle: "Edexcel IGCSE Biology Variety of Living Organisms Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["igcse"]

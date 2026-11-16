@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Hardware -- Study Guide"
+seoTitle: "Cambridge A Level Computer Science Hardware Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

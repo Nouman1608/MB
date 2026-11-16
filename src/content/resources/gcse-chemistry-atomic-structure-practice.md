@@ -1,5 +1,6 @@
 ---
 title: "GCSE Chemistry: Atomic Structure and the Periodic Table — Practice Questions"
+seoTitle: "OCR GCSE Chem Atomic Structure & Periodic Table Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

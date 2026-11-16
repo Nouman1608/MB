@@ -1,5 +1,6 @@
 ---
 title: "O Level Geography: Population and Settlement (Cambridge 2217)"
+seoTitle: "Cambridge O Level Geography Population and Settlement Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

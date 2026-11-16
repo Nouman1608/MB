@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Vietnam Conflict, 1945–75 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Vietnam Conflict 1945–75 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

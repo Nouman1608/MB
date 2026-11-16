@@ -1,5 +1,6 @@
 ---
 title: "Rivers: Drainage Basin Processes, Landforms and Flood Management"
+seoTitle: "Cambridge IGCSE Geography Rivers and Flood Management Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

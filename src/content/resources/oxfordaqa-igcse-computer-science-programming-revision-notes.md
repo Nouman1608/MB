@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Programming Fundamentals — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Programming Fundamentals Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

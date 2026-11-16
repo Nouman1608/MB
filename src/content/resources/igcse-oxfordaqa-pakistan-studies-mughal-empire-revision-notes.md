@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: The Mughal Empire — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Mughal Empire Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

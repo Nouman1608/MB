@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: The Atmosphere and Human Activities — Revision Notes"
+seoTitle: "Cambridge IGCSE Environmental Management Atmosphere Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

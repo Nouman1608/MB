@@ -1,5 +1,6 @@
 ---
 title: "Chemical Equilibria: Le Chatelier's Principle and the Equilibrium Constant Kc"
+seoTitle: "OxfordAQA A Level Chemistry Le Chatelier and Kc Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

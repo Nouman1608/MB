@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Unseen Poetry -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Unseen Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Clinical Psychology (Specialist Option 1)"
+seoTitle: "Cambridge A Level Psychology Clinical Psychology Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

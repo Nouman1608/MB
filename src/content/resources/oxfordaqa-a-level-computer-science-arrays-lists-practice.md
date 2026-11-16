@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Computer Science: Arrays and Lists — Practice Questions"
+seoTitle: "OxfordAQA A Level CS Arrays and Lists Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

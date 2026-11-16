@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Accounting Concepts and Modern Practice — Revision Notes"
+seoTitle: "Cambridge IGCSE Accounting Concepts & Modern Practice Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse","o-levels"]

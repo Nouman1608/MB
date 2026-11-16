@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Mathematics: Core or Extension, and Two Papers That Cover Everything"
+seoTitle: "OxfordAQA IGCSE Maths Exam Prep: Core or Extension"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["igcse"]

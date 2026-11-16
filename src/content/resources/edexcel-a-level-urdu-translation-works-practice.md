@@ -1,5 +1,6 @@
 ---
 title: "A Level Urdu: Translation into Urdu and Written Response to Works — Practice Questions"
+seoTitle: "Edexcel A Level Urdu Translation & Written Response Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["a-levels"]

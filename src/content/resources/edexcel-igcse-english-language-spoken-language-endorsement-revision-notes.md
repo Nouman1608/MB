@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Spoken Language Endorsement — Revision Notes"
+seoTitle: "Edexcel IGCSE English Spoken Language Endorsement Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce (0715): Logistics in commerce -- Study Guide"
+seoTitle: "Cambridge IGCSE Commerce Logistics in Commerce Study Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["igcse"]

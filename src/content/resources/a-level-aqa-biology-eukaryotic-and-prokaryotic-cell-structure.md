@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Biology: Eukaryotic and Prokaryotic Cell Structure (7402)"
+seoTitle: "AQA A-Level Biology Eukaryotic and Prokaryotic Cells Guide"
 resourceType: "study-guides"
 subject: "biology"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Water -- Practice Questions"
+seoTitle: "Cambridge O Level Geography 2217 Water Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

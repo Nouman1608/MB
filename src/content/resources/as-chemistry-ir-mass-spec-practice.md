@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Infrared and Mass Spectrometry — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Infrared & Mass Spectrometry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

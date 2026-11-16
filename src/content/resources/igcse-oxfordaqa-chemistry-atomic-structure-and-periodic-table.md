@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Chemistry: Atomic Structure and the Periodic Table (9202)"
+seoTitle: "OxfordAQA IGCSE Chemistry Atomic Structure Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["igcse"]

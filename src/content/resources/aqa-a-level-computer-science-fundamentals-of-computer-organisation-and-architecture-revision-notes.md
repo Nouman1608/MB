@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Computer Organisation and Architecture — Revision Notes"
+seoTitle: "AQA A-Level CS Computer Organisation & Architecture Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

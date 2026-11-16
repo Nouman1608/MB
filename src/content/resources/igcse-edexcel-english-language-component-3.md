@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Component 3 Non-Examined Assessment (4EA1)"
+seoTitle: "Edexcel IGCSE English Language Non-Examined Assessment Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

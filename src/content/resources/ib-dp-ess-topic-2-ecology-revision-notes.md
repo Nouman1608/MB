@@ -1,5 +1,6 @@
 ---
 title: "IB DP Environmental Systems and Societies Topic 2: Ecology -- Revision Notes"
+seoTitle: "IB DP ESS Topic 2 Ecology Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

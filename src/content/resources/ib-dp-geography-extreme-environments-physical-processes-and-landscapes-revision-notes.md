@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 3.2 Physical processes and landscapes -- Revision Notes"
+seoTitle: "IB DP Geography Physical Processes and Landscapes Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

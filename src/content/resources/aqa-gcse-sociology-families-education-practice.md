@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Sociology: Families and Education — Practice Questions"
+seoTitle: "AQA GCSE Sociology Families and Education Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["gcse"]

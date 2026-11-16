@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Sources of Authority in Islam — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Islamiyat Sources of Authority Practice"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]

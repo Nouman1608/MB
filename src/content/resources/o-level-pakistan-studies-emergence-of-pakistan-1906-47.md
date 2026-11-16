@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: The Emergence of Pakistan, 1906–47 (Cambridge 2059)"
+seoTitle: "Cambridge O Level Pak Studies Emergence of Pakistan Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

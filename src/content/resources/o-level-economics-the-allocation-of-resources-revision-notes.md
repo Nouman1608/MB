@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: The Allocation of Resources — Revision Notes"
+seoTitle: "Cambridge O Level Economics Allocation of Resources Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["o-levels"]

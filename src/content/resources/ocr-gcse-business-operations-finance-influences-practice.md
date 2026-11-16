@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Operations, Finance and Influences — Practice Questions"
+seoTitle: "OCR GCSE Business Operations and Finance Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["gcse"]

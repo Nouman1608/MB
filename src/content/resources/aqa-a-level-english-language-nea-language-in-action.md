@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: The Language in Action NEA (7702)"
+seoTitle: "AQA A-Level English Language NEA Language in Action Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

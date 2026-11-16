@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Programming Fundamentals — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Programming Fundamentals Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

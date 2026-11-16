@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: Language Variation (Unit 3) — Revision Notes"
+seoTitle: "OxfordAQA A-Level English Language Variation Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

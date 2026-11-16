@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Economics: The Measurement of Macroeconomic Performance (7136)"
+seoTitle: "AQA A-Level Economics Macroeconomic Performance Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

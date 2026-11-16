@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Climate and Natural Vegetation -- Practice Questions"
+seoTitle: "O Level Geography Climate and Natural Vegetation Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

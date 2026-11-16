@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 2.1 Diurnal energy budgets -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Diurnal Energy Budgets Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

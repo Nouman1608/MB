@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Life at School/College -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Life at School/College Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

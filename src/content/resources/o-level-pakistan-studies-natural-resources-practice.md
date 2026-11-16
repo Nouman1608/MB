@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Natural Resources — Practice Questions"
+seoTitle: "Cambridge O Level Pak Studies Natural Resources Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

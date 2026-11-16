@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Geography (9230): World cities – London and New York -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Geography World Cities Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["igcse"]

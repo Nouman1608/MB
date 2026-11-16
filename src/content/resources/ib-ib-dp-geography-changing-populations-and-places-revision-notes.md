@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 8.2 Changing populations and places -- Revision Notes"
+seoTitle: "IB DP Geography Changing Populations and Places Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

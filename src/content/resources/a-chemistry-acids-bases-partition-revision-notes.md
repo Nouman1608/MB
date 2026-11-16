@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Acids, Bases, Buffers and Partition Coefficients — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Acids, Bases and Buffers Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Sociology: Family, Education and Crime — Practice Questions"
+seoTitle: "Cambridge IGCSE Sociology Family, Education & Crime Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

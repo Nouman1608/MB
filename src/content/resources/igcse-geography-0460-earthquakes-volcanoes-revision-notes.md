@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Earthquakes and Volcanoes -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Earthquakes and Volcanoes Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

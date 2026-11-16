@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Chemistry: Quantitative Chemistry — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Chemistry Quantitative Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: International Relations since 1919 — Revision Notes (Cambridge 2147)"
+seoTitle: "Cambridge O Level History International Relations Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]

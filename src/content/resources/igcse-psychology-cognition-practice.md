@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Psychology: Cognition and Behaviour — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Psychology Cognition and Behaviour Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Mathematics: Choosing Your Applied Unit Pair and Preparing Six Papers"
+seoTitle: "Edexcel IAL Maths Choosing Your Applied Units Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["a-levels"]

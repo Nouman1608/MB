@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Land (5014, 2027-2029)"
+seoTitle: "O Level Environmental Management Land 2027-2029 Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

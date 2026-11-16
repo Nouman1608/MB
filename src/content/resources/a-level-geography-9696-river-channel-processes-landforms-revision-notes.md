@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 1.3 River channel processes and landforms -- Revision Notes"
+seoTitle: "Cambridge A Level Geography River Processes and Landforms"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

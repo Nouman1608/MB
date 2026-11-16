@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: Globalisation, Media and Religion — Practice Questions"
+seoTitle: "Cambridge A Level Sociology Globalisation and Media Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

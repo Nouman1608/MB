@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Data Types and Structures -- Study Guide"
+seoTitle: "Cambridge A Level CS Data Types and Structures Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

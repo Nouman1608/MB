@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: Objectives and Strategic Decisions — Revision Notes"
+seoTitle: "OCR A Level Business Objectives and Strategy Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

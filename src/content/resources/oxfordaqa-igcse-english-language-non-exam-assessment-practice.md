@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Non-Exam Assessment Project — Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Language NEA Project Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

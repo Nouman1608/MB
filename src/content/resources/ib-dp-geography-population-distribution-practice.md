@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Population Distribution -- Practice Questions"
+seoTitle: "IB DP Geography Population Distribution Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Germany, Development of Dictatorship, 1918–45 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Germany Dictatorship 1918–45 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

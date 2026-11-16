@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Brain and Neuropsychology -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Brain and Neuropsychology Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

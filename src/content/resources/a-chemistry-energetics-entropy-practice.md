@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Lattice Energy, Entropy and Gibbs Free Energy — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Lattice Energy, Entropy Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

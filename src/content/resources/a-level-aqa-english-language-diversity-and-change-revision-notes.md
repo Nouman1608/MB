@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Language Diversity and Change — Revision Notes"
+seoTitle: "AQA A-Level English Language Diversity and Change Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE History: International Relations Depth Studies — Revision Notes"
+seoTitle: "OxfordAQA IGCSE History International Relations Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

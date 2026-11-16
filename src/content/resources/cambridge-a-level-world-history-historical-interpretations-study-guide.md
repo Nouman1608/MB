@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Historical interpretations -- Study Guide"
+seoTitle: "Cambridge A Level History Historical Interpretations Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

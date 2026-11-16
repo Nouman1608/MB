@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-level Geography (9635): 3.1.2 Hot desert systems and landscapes -- Revision Notes"
+seoTitle: "OxfordAQA A-level Geography Hot Desert Systems Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

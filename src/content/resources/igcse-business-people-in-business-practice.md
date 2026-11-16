@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Business Studies: People in Business — Practice Questions (Cambridge 0450)"
+seoTitle: "Cambridge IGCSE Business People in Business Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["igcse"]

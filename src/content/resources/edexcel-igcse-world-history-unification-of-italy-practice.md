@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Unification of Italy, 1848–70 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Unification of Italy 1848–70 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

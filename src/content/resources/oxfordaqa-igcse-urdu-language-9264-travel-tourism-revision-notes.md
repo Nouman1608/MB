@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Travel and Tourism -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Travel and Tourism Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

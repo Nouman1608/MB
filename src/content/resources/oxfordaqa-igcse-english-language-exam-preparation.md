@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Language: Route A or Route B for the Final 40%"
+seoTitle: "OxfordAQA IGCSE English Language Exam Prep: Route A or B"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["igcse"]

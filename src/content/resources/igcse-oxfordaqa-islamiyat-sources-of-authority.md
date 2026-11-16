@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Sources of Authority in Islam (9237)"
+seoTitle: "OxfordAQA IGCSE Islamiyat Sources of Authority Study Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

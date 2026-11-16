@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature: Paper-by-Paper Exam Preparation"
+seoTitle: "AQA A-Level English Literature Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Mathematics: Reasoning with Data -- Practice Questions"
+seoTitle: "IB MYP Maths Reasoning with Data Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Energy and respiration — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Energy and Respiration Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

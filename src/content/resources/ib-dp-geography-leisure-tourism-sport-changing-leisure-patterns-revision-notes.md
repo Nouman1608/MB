@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 5.1 Changing leisure patterns -- Revision Notes"
+seoTitle: "IB DP Geography Changing Leisure Patterns Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

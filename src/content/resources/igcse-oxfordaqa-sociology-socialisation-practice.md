@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Socialisation — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Socialisation Practice Questions"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

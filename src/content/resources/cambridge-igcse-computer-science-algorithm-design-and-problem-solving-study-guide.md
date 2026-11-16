@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): Algorithm design and problem-solving -- Study Guide"
+seoTitle: "Cambridge IGCSE Computer Science Algorithm Design Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

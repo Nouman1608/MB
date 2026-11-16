@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): Ecosystems, biodiversity and fieldwork -- Study Guide"
+seoTitle: "O Level Environmental Management Ecosystems Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

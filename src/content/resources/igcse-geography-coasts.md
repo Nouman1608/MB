@@ -1,5 +1,6 @@
 ---
 title: "Coasts: Erosion and Deposition Landforms, Coral Reefs and Coastal Management"
+seoTitle: "Cambridge IGCSE Geography Coasts & Coastal Management Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

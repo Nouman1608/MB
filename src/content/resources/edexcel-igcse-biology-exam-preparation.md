@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Biology 4BI1 Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["igcse"]

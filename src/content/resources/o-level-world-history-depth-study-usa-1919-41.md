@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: Depth Study D, The United States 1919-41 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History Depth Study USA 1919-41 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

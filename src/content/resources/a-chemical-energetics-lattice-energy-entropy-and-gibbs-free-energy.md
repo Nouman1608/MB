@@ -1,5 +1,6 @@
 ---
 title: "Chemical Energetics: Lattice Energy, Entropy and Gibbs Free Energy"
+seoTitle: "Cambridge A Level Chemistry Lattice Energy and Entropy Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

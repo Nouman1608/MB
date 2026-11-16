@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Abnormal psychology -- Revision Notes"
+seoTitle: "IB DP Psychology Abnormal Psychology Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

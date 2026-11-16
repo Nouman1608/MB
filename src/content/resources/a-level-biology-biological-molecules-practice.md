@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Biological Molecules — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Biological Molecules Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

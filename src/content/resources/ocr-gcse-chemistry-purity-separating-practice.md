@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Chemistry: Purity and Separating Mixtures — Practice Questions"
+seoTitle: "OCR GCSE Chemistry Purity and Separating Mixtures Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Geography: Globalisation and Global Systems — Practice Questions"
+seoTitle: "OxfordAQA A Level Geography Globalisation Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["a-levels"]

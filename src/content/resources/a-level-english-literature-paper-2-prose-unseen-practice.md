@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 2 - Prose and Unseen — Practice Questions"
+seoTitle: "Cambridge A Level English Lit Prose and Unseen Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

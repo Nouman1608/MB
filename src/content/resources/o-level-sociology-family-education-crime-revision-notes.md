@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Sociology: Family, Education and Crime — Revision Notes (2251)"
+seoTitle: "Cambridge O Level Sociology Family, Education & Crime Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["o-levels"]

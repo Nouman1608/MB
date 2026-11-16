@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language Unit 1: Language and Context — Revision Notes"
+seoTitle: "OxfordAQA A-Level English Language and Context Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

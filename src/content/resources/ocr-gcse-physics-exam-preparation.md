@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Physics A (Gateway): Working With Equations, Units and Graphs Under Exam Conditions"
+seoTitle: "OCR GCSE Physics A Gateway Exam Prep: Equations and Units"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["gcse"]

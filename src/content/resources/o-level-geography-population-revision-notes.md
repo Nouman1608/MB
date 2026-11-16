@@ -1,5 +1,6 @@
 ---
 title: "O Level Geography: Population and Settlement — Revision Notes"
+seoTitle: "Cambridge O Level Geography Population and Settlement Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: Articles of Faith and Pillars of Islam, Subtopic 2.4 (0493)"
+seoTitle: "IGCSE Islamiyat Articles of Faith and Pillars of Islam Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

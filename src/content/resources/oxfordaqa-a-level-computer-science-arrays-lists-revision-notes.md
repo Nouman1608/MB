@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Computer Science: Arrays and Lists — Revision Notes"
+seoTitle: "OxfordAQA A Level CS Arrays and Lists Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 6 – Extended writing exercise -- Practice Questions"
+seoTitle: "Cambridge IGCSE Urdu Exercise 6 Extended Writing Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

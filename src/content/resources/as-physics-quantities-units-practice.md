@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Physical Quantities, Units and Measurement — Practice Questions"
+seoTitle: "Cambridge AS Physics Physical Quantities and Units Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

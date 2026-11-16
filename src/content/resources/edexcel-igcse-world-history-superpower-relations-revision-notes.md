@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A World Divided, Superpower Relations, 1943–72 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Superpower Relations 1943–72 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]
