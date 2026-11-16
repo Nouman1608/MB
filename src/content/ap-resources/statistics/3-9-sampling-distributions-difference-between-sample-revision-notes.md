@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.9-revision-notes"
 title: "Sampling Distributions for the Difference Between Sample Proportions: Revision Notes (Statistics 3.9)"
+seoTitle: "Statistics 3.9 Difference in Sample Proportions Notes"
 description: "One-page recap of the mean and standard deviation of p̂1 − p̂2, the randomization, 10% and large-counts conditions, normal probabilities and the mistakes that cost marks."
 course: "statistics"
 unit: 3

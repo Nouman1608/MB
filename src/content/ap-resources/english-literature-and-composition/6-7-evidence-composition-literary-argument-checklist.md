@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.7-checklist
 title: 'Evidence and Composition in a Literary Argument: Topic Checklist (English Literature 6.7)'
+seoTitle: "English Literature 6.7 Literary Argument Evidence Checklist"
 description: Specific “I can…” statements for relevant and sufficient evidence and for composition in a literary argument, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6

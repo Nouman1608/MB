@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-u3-diagnostic"
 title: "Production, Cost and Perfect Competition: Unit Diagnostic (Microeconomics Unit 3)"
+seoTitle: "Microeconomics Unit 3 Perfect Competition Diagnostic"
 description: "A short diagnostic on production, short-run and long-run costs, types of profit, profit maximization, shutdown and exit, and perfect competition, with answers and a study guide link for every miss."
 course: "microeconomics"
 unit: 3

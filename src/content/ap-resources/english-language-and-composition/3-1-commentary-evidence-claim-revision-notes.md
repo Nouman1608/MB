@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.1-revision-notes"
 title: "Commentary That Links Evidence to a Claim: Revision Notes (English Language 3.1)"
+seoTitle: "English Language 3.1 Commentary on Evidence Revision Notes"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]

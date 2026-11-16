@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.5-checklist"
 title: "Boolean Expressions: Topic Checklist (Computer Science Principles 3.5)"
+seoTitle: "CS Principles 3.5 Boolean Expressions Topic Checklist"
 description: "Specific \"I can\" statements for Boolean expressions, relational and logical operators, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

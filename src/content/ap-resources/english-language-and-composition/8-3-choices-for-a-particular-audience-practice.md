@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.3-practice"
 title: "Making Choices for a Particular Audience: Practice Questions (English Language 8.3)"
+seoTitle: "English Language 8.3 Choices for an Audience Practice"
 description: "8 original Marlbridge practice questions on choosing evidence, organisation and language to fit an audience's perspective, context and needs, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 8

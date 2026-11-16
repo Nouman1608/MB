@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.1-practice"
 title: "Graphical Representations Between Two Quantitative Variables: Practice Questions (Statistics 5.1)"
+seoTitle: "Statistics 5.1 Graphing Two Quantitative Variables Practice"
 description: "Seven original Marlbridge practice questions on scatterplots: choosing axes, constructing plots, describing associations in context and judging claims, with suggested rubrics."
 course: "statistics"
 unit: 5

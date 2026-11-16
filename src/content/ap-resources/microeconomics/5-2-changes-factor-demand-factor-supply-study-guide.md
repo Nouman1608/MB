@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.2-study-guide"
 title: "Changes in Factor Demand and Factor Supply: Study Guide (Microeconomics 5.2)"
+seoTitle: "Microeconomics 5.2 Factor Demand and Supply Study Guide"
 description: "Learn what shifts labour demand and labour supply, how a change in output price or productivity moves a firm's MRP curve, and how to find the new wage and employment after one or two shifts."
 course: "microeconomics"
 unit: 5

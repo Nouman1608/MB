@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.9-checklist"
 title: "Determining Absolute or Conditional Convergence: Topic Checklist (Calculus BC 10.9)"
+seoTitle: "Calculus BC 10.9 Absolute Conditional Convergence Checklist"
 description: "Specific “I can…” statements for absolute and conditional convergence, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 10

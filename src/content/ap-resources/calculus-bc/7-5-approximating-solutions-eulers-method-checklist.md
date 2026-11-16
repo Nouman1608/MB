@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.5-checklist"
 title: "Approximating Solutions Using Euler’s Method: Topic Checklist (Calculus BC 7.5)"
+seoTitle: "Calculus BC 7.5 Euler's Method Approximations Checklist"
 description: "Specific “I can…” statements for Euler’s method, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 7

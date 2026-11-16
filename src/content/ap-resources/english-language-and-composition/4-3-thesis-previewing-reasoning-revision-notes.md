@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.3-revision-notes
 title: 'Thesis Statements That Preview the Line of Reasoning: Revision Notes (English Language 4.3)'
+seoTitle: "English Language 4.3 Thesis Previewing Reasoning Notes"
 description: One-page recap of how a thesis can preview the line of reasoning, how that differs from an announcement or a list, and how to read and write one.
 course: english-language-and-composition
 unit: 4

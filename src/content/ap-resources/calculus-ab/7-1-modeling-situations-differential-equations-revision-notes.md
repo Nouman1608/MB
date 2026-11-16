@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.1-revision-notes"
 title: "Modeling Situations with Differential Equations: Revision Notes (Calculus AB 7.1)"
+seoTitle: "Calculus AB 7.1 Modeling with Differential Equations Notes"
 description: "One-page recap of writing differential equations from words: the phrase-to-symbol table, choosing the sign of k, its units and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 7

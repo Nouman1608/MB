@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.5-study-guide"
 title: "Writing a Paragraph With a Claim and Textual Evidence: Study Guide (English Literature 1.5)"
+seoTitle: "English Literature 1.5 Claim and Evidence Paragraph Guide"
 description: "Learn how to write a literary-analysis paragraph built on a defensible claim and well-chosen, accurately quoted evidence, with a drafting method, a revision example and weak-versus-strong models."
 course: "english-literature-and-composition"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.7-checklist"
 title: "Summary Statistics for One Quantitative Variable: Topic Checklist (Statistics 1.7)"
+seoTitle: "Statistics 1.7 Quantitative Summary Statistics Checklist"
 description: "Specific “I can…” statements for summary statistics of one quantitative variable, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.3-practice"
 title: "Representing and Analyzing SHM: Practice Questions (Physics C: Mechanics 7.3)"
+seoTitle: "Physics C Mechanics 7.3 Analyzing SHM Practice Questions"
 description: "Seven original Marlbridge calculus-based practice questions on SHM: phase and initial conditions, velocity and acceleration by differentiation, graphs, derivation and resonance."
 course: "physics-c-mechanics"
 unit: 7

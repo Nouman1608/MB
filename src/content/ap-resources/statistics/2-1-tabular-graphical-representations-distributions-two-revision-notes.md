@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.1-revision-notes"
 title: "Tabular and Graphical Representations for Two Categorical Variables: Revision Notes (Statistics 2.1)"
+seoTitle: "Statistics 2.1 Graphing Two Categorical Variables Notes"
 description: "One-page recap of two-way tables, side-by-side and segmented bar charts and mosaic plots, how to spot an association, and the mistakes that cost marks."
 course: "statistics"
 unit: 2

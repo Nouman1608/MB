@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.1-checklist"
 title: "Structure and contrasts in poetry: Topic Checklist (English Literature 8.1)"
+seoTitle: "English Lit 8.1 Structure and Contrasts in Poetry Checklist"
 description: "Specific \"I can\" statements for structure and contrasts in poetry, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 8

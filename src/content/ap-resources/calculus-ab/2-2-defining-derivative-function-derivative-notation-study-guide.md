@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.2-study-guide"
 title: "Defining the Derivative of a Function and Using Derivative Notation: Study Guide (Calculus AB 2.2)"
+seoTitle: "Calculus AB 2.2 Defining the Derivative and Notation Guide"
 description: "Learn how the limit definition turns into a derivative function f′(x), how to read and write dy/dx, f′(x) and y′, and how to find a tangent line equation."
 course: "calculus-ab"
 unit: 2

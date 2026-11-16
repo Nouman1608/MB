@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-12.3-study-guide"
 title: "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law: Study Guide (Physics C: E&M 12.3)"
+seoTitle: "Physics C E&M 12.3 Biot-Savart Law Study Guide"
 description: "Calculus-based guide to the Biot-Savart law: field direction around a wire, finite straight wires, loops and arcs, the field on a loop's axis and the force on a current-carrying wire."
 course: "physics-c-electricity-and-magnetism"
 unit: 12

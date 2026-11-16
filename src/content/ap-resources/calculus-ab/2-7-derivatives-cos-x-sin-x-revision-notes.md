@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.7-revision-notes"
 title: "Derivatives of cos x, sin x, eˣ and ln x: Revision Notes (Calculus AB 2.7)"
+seoTitle: "Calculus AB 2.7 Derivatives of sin, cos, eˣ, ln x Notes"
 description: "One-page recap of the derivatives of sin x, cos x, eˣ and ln x, the conditions behind them, limits that are derivatives in disguise, and the sign slips to avoid."
 course: "calculus-ab"
 unit: 2

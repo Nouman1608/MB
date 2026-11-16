@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.3-practice"
 title: "Program Design and Development: Practice Questions (Computer Science Principles 1.3)"
+seoTitle: "CS Principles 1.3 Program Design and Development Practice"
 description: "Ten original practice questions on development phases, iterative and incremental processes, requirements, design, documentation and acknowledgement, with explanations and rubrics."
 course: "computer-science-principles"
 unit: 1

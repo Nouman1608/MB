@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-12.4-study-guide"
 title: "Electromagnetic Induction and Faraday's Law: Study Guide (Physics 2 12.4)"
+seoTitle: "Physics 2 12.4 Induction and Faraday's Law Study Guide"
 description: "Magnetic flux and its sign, Faraday's law for the emf made by changing flux, Lenz's law for its direction, and the moving rod on rails with ε = Bℓv."
 course: "physics-2"
 unit: 12

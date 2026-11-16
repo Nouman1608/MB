@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.8-checklist"
 title: "Introduction to Random Variables and Probability Distributions: Topic Checklist (Statistics 2.8)"
+seoTitle: "Statistics 2.8 Random Variables and Distributions Checklist"
 description: "Specific “I can…” statements for discrete random variables and probability distributions, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2

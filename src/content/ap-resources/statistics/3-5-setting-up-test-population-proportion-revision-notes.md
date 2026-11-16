@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.5-revision-notes"
 title: "Setting Up a Test for a Population Proportion: Revision Notes (Statistics 3.5)"
+seoTitle: "Statistics 3.5 Setting Up a Test for a Proportion Notes"
 description: "One-page recap of setting up a one-sample z-test for a proportion: the parameter, null and alternative hypotheses, one- and two-sided tests, and the three conditions."
 course: "statistics"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.1-study-guide"
 title: "Modeling Situations with Differential Equations: Study Guide (Calculus AB 7.1)"
+seoTitle: "Calculus AB 7.1 Modeling with Differential Equations Guide"
 description: "Learn what a differential equation is and how to turn sentences such as “decreases at a rate proportional to” into an equation, with the right sign, constant and units."
 course: "calculus-ab"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.7-checklist"
 title: "Defining Polar Coordinates and Differentiating in Polar Form: Topic Checklist (Calculus BC 9.7)"
+seoTitle: "Calculus BC 9.7 Differentiating in Polar Form Checklist"
 description: "Specific “I can…” statements for polar coordinates and polar derivatives, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9

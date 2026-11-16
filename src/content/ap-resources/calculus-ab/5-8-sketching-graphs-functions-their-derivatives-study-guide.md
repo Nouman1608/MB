@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.8-study-guide"
 title: "Sketching Graphs of Functions and Their Derivatives: Study Guide (Calculus AB 5.8)"
+seoTitle: "Calculus AB 5.8 Graphs of Functions and Derivatives Guide"
 description: "Learn how sign charts for f′ and f″ turn a formula, a graph of f′ or a table of values into an accurate sketch of f, and how to sketch f′ from a graph of f."
 course: "calculus-ab"
 unit: 5

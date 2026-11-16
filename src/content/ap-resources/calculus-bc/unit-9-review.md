@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-u9-review"
 title: "Parametric Equations, Polar Coordinates and Vector-Valued Functions: Mixed Unit Review (Calculus BC Unit 9)"
+seoTitle: "Calculus BC Unit 9 Parametric, Polar and Vector Review"
 description: "The big ideas of parametric, polar and vector-valued functions in one place, a methods summary table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-bc"
 unit: 9

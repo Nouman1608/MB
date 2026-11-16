@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u6-diagnostic"
 title: "Energy and Momentum of Rotating Systems: Unit Diagnostic (Physics C: Mechanics Unit 6)"
+seoTitle: "Physics C Mechanics Unit 6 Rotating Systems Diagnostic"
 description: "A 30-minute check of rotational energy and angular momentum: ten original questions on rotational kinetic energy, torque work, angular impulse, conservation, rolling and orbits, each linked to a topic guide."
 course: "physics-c-mechanics"
 unit: 6

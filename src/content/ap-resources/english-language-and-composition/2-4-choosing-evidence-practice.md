@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.4-practice"
 title: "Choosing Evidence Strategically: Practice Questions (English Language 2.4)"
+seoTitle: "English Language 2.4 Choosing Evidence Practice Questions"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.4"]

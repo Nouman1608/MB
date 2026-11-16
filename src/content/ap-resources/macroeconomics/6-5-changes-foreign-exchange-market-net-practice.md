@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.5-practice"
 title: "Changes in the Foreign Exchange Market and Net Exports: Practice Questions (Macroeconomics 6.5)"
+seoTitle: "Macroeconomics 6.5 Exchange Market and Net Exports Practice"
 description: "Seven original Marlbridge practice questions on how appreciation and depreciation change export and import prices, net exports and aggregate demand, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 6

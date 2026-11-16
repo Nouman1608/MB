@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.8-study-guide"
 title: "Graphical Representations of Summary Statistics: Study Guide (Statistics 1.8)"
+seoTitle: "Statistics 1.8 Graphing Summary Statistics Study Guide"
 description: "Learn to build a five-number summary and a boxplot that shows outliers, read what each part of a boxplot means, and link a distribution's shape to its mean and median."
 course: "statistics"
 unit: 1

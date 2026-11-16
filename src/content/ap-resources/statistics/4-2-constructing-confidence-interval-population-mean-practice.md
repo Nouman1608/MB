@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.2-practice"
 title: "Constructing a Confidence Interval for a Mean or Mean Difference: Practice Questions (Statistics 4.2)"
+seoTitle: "Statistics 4.2 Confidence Interval for a Mean Practice"
 description: "Seven original Marlbridge practice questions on t-distributions, choosing a one-sample t-interval, matched pairs, checking conditions and calculating intervals, with worked solutions and rubrics."
 course: "statistics"
 unit: 4

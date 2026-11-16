@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.8-study-guide"
 title: "Volumes with Cross Sections: Triangles and Semicircles: Study Guide (Calculus AB 8.8)"
+seoTitle: "Calculus AB 8.8 Cross Sections Triangles Study Guide"
 description: "Learn the area formulas for triangular and semicircular cross sections in terms of the side s, and use them in V = ∫ A dx to find volumes of solids built on a base region."
 course: "calculus-ab"
 unit: 8

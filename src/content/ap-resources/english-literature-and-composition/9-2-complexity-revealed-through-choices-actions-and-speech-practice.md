@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.2-practice"
 title: "Complexity revealed through choices, actions and speech: Practice Questions (English Literature 9.2)"
+seoTitle: "English Lit 9.2 Complexity Through Choices Practice"
 description: "Original Marlbridge practice questions on complexity revealed through choices, actions and speech, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 9

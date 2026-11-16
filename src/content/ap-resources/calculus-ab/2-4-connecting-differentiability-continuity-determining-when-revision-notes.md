@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.4-revision-notes"
 title: "Connecting Differentiability and Continuity: Revision Notes (Calculus AB 2.4)"
+seoTitle: "Calculus AB 2.4 Differentiability and Continuity Notes"
 description: "One-page recap of how differentiability and continuity are linked, the four ways a derivative fails to exist, and how to justify it with one-sided difference quotients."
 course: "calculus-ab"
 unit: 2

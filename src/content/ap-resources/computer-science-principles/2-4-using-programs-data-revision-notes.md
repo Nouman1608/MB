@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.4-revision-notes"
 title: "Using Programs with Data: Revision Notes (Computer Science Principles 2.4)"
+seoTitle: "CS Principles 2.4 Using Programs with Data Revision Notes"
 description: "One-page recap of using programs with data: filtering, transforming, combining, visualising, clustering, classifying and iterative, interactive analysis."
 course: "computer-science-principles"
 unit: 2

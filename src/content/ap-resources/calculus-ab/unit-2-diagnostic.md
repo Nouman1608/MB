@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u2-diagnostic"
 title: "Differentiation: Definition and Fundamental Properties: Unit Diagnostic (Calculus AB Unit 2)"
+seoTitle: "Calculus AB Unit 2 Differentiation Fundamentals Diagnostic"
 description: "Thirteen short original questions, one or two per topic of Differentiation: Definition and Fundamental Properties, to show which topics to revisit, with links."
 course: "calculus-ab"
 unit: 2

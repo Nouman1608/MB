@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.6-checklist"
 title: "Wave Interference and Standing Waves: Topic Checklist (Physics 2 14.6)"
+seoTitle: "Physics 2 14.6 Interference and Standing Waves Checklist"
 description: "Specific “I can…” statements for superposition, beats and standing waves, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 14

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.1-practice"
 title: "Comparisons that Relate to an Audience: Practice Questions (English Language 8.1)"
+seoTitle: "English Language 8.1 Comparisons for an Audience Practice"
 description: "8 original Marlbridge practice questions on similes, metaphors, analogies and anecdotes that relate an argument to an audience's own experience, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.3-practice"
 title: "Estimating Probabilities Using Simulation: Practice Questions (Statistics 2.3)"
+seoTitle: "Statistics 2.3 Probabilities Using Simulation Practice"
 description: "Seven original Marlbridge practice questions on outcomes and events, assigning random digits, carrying out simulations and the law of large numbers, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

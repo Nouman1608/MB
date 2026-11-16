@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.5-revision-notes
 title: 'Developing Ideas Through Definition and Description: Revision Notes (English Language 4.5)'
+seoTitle: "English Language 4.5 Definition and Description Notes"
 description: 'One-page recap of definition and description as methods of development: formal and extended definitions, sensory detail, examples, and what each does for an argument.'
 course: english-language-and-composition
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.7-revision-notes"
 title: "Writing a Defensible Thesis Statement: Revision Notes (English Language 2.7)"
+seoTitle: "English Language 2.7 Writing a Defensible Thesis Notes"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.7"]

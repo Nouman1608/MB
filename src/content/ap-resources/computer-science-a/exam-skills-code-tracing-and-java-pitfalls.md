@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-exam-skills-code-tracing-and-java-pitfalls"
 title: "Code Tracing, Multiple Choice and Java Pitfalls: Exam Skills Guide (Computer Science A)"
+seoTitle: "Computer Science A Code Tracing, Java Pitfalls Exam Skills"
 description: "A method for tracing Java code by hand, a strategy for the multiple-choice section, and the Java behaviours that most often trap students, with original compiled examples."
 course: "computer-science-a"
 unit: 1

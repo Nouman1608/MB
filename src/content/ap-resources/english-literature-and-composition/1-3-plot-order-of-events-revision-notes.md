@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.3-revision-notes"
 title: "Plot: How Events Are Ordered and Why: Revision Notes (English Literature 1.3)"
+seoTitle: "English Literature 1.3 Plot and Order of Events Notes"
 description: "A one-page recap of plot in short fiction: cause and effect, the stages of a plot, ordering choices such as flashback, and what a sequence of events makes the reader notice."
 course: "english-literature-and-composition"
 unit: 1

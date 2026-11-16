@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.3-revision-notes"
 title: "Determining Intervals on Which a Function Is Increasing or Decreasing: Revision Notes (Calculus AB 5.3)"
+seoTitle: "Calculus AB 5.3 Increasing and Decreasing Intervals Notes"
 description: "One-page recap of increasing and decreasing intervals: the sign rule for f′, the sign-chart method, reading a graph of f′, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 5

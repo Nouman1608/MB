@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.4-checklist"
 title: "The Fundamental Theorem of Calculus and Accumulation Functions: Topic Checklist (Calculus AB 6.4)"
+seoTitle: "Calculus AB 6.4 FTC and Accumulation Functions Checklist"
 description: "Specific “I can…” statements for accumulation functions and the derivative of an integral, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6

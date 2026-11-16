@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u5-review"
 title: "Long-Run Consequences of Stabilization Policies: Mixed Unit Review (Macroeconomics Unit 5)"
+seoTitle: "Macroeconomics Unit 5 Stabilization Policies Review"
 description: "Connect policy mixes, the Phillips curve, money growth, deficits, crowding out and growth, then try six original questions that each combine two or more Unit 5 topics, with worked solutions."
 course: "macroeconomics"
 unit: 5

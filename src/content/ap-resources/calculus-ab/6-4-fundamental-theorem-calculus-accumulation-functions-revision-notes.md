@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.4-revision-notes"
 title: "The Fundamental Theorem of Calculus and Accumulation Functions: Revision Notes (Calculus AB 6.4)"
+seoTitle: "Calculus AB 6.4 FTC and Accumulation Functions Notes"
 description: "One-page recap of accumulation functions, the theorem d/dx ∫ (a to x) f(t) dt = f(x), its variations with a lower limit or chain rule, and the mistakes to avoid."
 course: "calculus-ab"
 unit: 6

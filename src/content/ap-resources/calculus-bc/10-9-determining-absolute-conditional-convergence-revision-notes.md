@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.9-revision-notes"
 title: "Determining Absolute or Conditional Convergence: Revision Notes (Calculus BC 10.9)"
+seoTitle: "Calculus BC 10.9 Absolute or Conditional Convergence Notes"
 description: "One-page recap of absolute and conditional convergence: the three outcomes, the order to test in, the p-series reference family, rearrangements and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 10

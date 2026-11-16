@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.17-checklist"
 title: "Algorithmic Efficiency: Topic Checklist (Computer Science Principles 3.17)"
+seoTitle: "CS Principles 3.17 Algorithmic Efficiency Topic Checklist"
 description: "Specific \"I can\" statements for algorithmic efficiency, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

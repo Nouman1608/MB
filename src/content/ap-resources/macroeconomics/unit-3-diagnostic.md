@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u3-diagnostic"
 title: "National Income and Price Determination: Unit Diagnostic (Macroeconomics Unit 3)"
+seoTitle: "Macroeconomics Unit 3 National Income and Prices Diagnostic"
 description: "A 30-minute check on aggregate demand, multipliers, SRAS, LRAS, AD–AS equilibrium, shocks, self-adjustment, fiscal policy and automatic stabilizers, with a link to revisit for each topic."
 course: "macroeconomics"
 unit: 3

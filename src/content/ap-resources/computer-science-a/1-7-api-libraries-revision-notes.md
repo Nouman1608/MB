@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.7-revision-notes"
 title: "Application Program Interface (API) and Libraries: Revision Notes (Computer Science A 1.7)"
+seoTitle: "Computer Science A 1.7 API and Libraries Revision Notes"
 description: "A one-page recap of libraries, packages, classes, API specifications, attributes and behaviors, and how to read a method entry in the documentation."
 course: "computer-science-a"
 unit: 1

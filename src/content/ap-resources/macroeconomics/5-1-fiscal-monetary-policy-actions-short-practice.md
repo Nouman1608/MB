@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.1-practice"
 title: "Fiscal and Monetary Policy Actions in the Short Run: Practice Questions (Macroeconomics 5.1)"
+seoTitle: "Macroeconomics 5.1 Fiscal and Monetary Policy Practice"
 description: "Seven original Marlbridge practice questions on combining fiscal and monetary policy to close output gaps, with effects on output, prices and interest rates, worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 5

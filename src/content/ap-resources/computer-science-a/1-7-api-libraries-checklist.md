@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.7-checklist"
 title: "Application Program Interface (API) and Libraries: Checklist (Computer Science A 1.7)"
+seoTitle: "Computer Science A 1.7 API and Libraries Topic Checklist"
 description: "A self-check list for libraries, packages, API documentation, attributes and behaviors, and reading Math and String method entries, linked to the guide and practice questions."
 course: "computer-science-a"
 unit: 1

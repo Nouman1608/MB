@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.4-revision-notes"
 title: "Policies, Economic Conditions and the Foreign Exchange Market: Revision Notes (Macroeconomics 6.4)"
+seoTitle: "Macroeconomics 6.4 Policies and Foreign Exchange Notes"
 description: "One-page recap of what shifts currency demand and supply, how fiscal and monetary policy change exchange rates, and the direction mistakes that cost marks."
 course: "macroeconomics"
 unit: 6

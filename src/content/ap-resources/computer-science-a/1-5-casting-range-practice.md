@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.5-practice"
 title: "Casting and Range of Variables: Practice Questions (Computer Science A 1.5)"
+seoTitle: "Computer Science A 1.5 Casting and Variable Range Practice"
 description: "Ten original Marlbridge practice questions on casting with (int) and (double), rounding, integer overflow and round-off error, with full explanations and rubrics."
 course: "computer-science-a"
 unit: 1

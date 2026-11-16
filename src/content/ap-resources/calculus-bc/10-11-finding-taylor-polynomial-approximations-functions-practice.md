@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.11-practice"
 title: "Finding Taylor Polynomial Approximations of Functions: Practice Questions (Calculus BC 10.11)"
+seoTitle: "Calculus BC 10.11 Taylor Polynomial Approximations Practice"
 description: "Seven original Marlbridge practice questions on Taylor polynomials: coefficients, building from tables, reading derivatives back and estimating values, with rubrics."
 course: "calculus-bc"
 unit: 10

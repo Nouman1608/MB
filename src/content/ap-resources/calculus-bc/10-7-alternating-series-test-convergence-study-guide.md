@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.7-study-guide"
 title: "Alternating Series Test for Convergence: Study Guide (Calculus BC 10.7)"
+seoTitle: "Calculus BC 10.7 Alternating Series Test Study Guide"
 description: "Learn the alternating series test: its two conditions, why the partial sums settle down, how to show terms decrease, and how to write a full justification."
 course: "calculus-bc"
 unit: 10

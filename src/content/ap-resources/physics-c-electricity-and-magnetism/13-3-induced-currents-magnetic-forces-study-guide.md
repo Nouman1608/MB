@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.3-study-guide"
 title: "Induced Currents and Magnetic Forces: Study Guide (Physics C: E&M 13.3)"
+seoTitle: "Physics C E&M 13.3 Induced Currents Study Guide"
 description: "Calculus-based guide to the magnetic force on an induced current: which segments feel a force, magnetic braking, Newton's second law for moving loops and rods, and energy."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

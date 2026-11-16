@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.2-study-guide"
 title: "Complexity and Avoiding Oversimplification: Study Guide (English Language 7.2)"
+seoTitle: "English Language 7.2 Complexity and Oversimplification Guide"
 description: "Why a lack of understanding leads to oversimplified claims, how arguments in an ongoing conversation avoid absolutes, and how to revise a claim when new evidence complicates it."
 course: "english-language-and-composition"
 unit: 7

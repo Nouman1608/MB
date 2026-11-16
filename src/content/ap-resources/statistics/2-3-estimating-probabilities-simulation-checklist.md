@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.3-checklist"
 title: "Estimating Probabilities Using Simulation: Topic Checklist (Statistics 2.3)"
+seoTitle: "Statistics 2.3 Probabilities Using Simulation Checklist"
 description: "Specific “I can…” statements for estimating probabilities with simulation, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2

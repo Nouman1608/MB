@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.3-checklist"
 title: "Representing and Analyzing SHM: Topic Checklist (Physics C: Mechanics 7.3)"
+seoTitle: "Physics C Mechanics 7.3 Analyzing SHM Topic Checklist"
 description: "Specific “I can…” statements for calculus-based simple harmonic motion, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.11-revision-notes"
 title: "Integrating Using Integration by Parts: Revision Notes (Calculus BC 6.11)"
+seoTitle: "Calculus BC 6.11 Integration by Parts Revision Notes"
 description: "One-page recap of integration by parts: the formula and where it comes from, choosing u, definite, repeated and self-returning integrals, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 6

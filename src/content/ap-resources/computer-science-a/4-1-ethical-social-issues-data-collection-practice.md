@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.1-practice"
 title: "Ethical and Social Issues Around Data Collection: Practice Questions (Computer Science A 4.1)"
+seoTitle: "Computer Science A 4.1 Ethics of Data Collection Practice"
 description: "Nine original Marlbridge practice questions on privacy, algorithmic bias, biased collection methods, data quality and choosing an appropriate data set, with suggested rubrics."
 course: "computer-science-a"
 unit: 4

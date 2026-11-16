@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.6-checklist"
 title: "Market Equilibrium and Changes in Equilibrium: Topic Checklist (Macroeconomics 1.6)"
+seoTitle: "Macroeconomics 1.6 Market Equilibrium Topic Checklist"
 description: "Specific “I can…” statements for market equilibrium, surpluses, shortages and shifts, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 1

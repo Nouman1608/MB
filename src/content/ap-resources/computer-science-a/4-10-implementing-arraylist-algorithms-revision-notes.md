@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.10-revision-notes"
 title: "Implementing ArrayList Algorithms: Revision Notes (Computer Science A 4.10)"
+seoTitle: "Computer Science A 4.10 ArrayList Algorithms Notes"
 description: "A short recap of the standard ArrayList algorithms: each pattern's set-up, loop and update, the usual bugs, and a self-check with answers."
 course: "computer-science-a"
 unit: 4

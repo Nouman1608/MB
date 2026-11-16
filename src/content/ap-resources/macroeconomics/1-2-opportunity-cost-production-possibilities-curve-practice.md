@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.2-practice"
 title: "Opportunity Cost and the Production Possibilities Curve: Practice Questions (Macroeconomics 1.2)"
+seoTitle: "Macroeconomics 1.2 Opportunity Cost and the PPC Practice"
 description: "Seven original Marlbridge practice questions on opportunity cost, reading and drawing production possibilities curves, PPC shapes and shifts, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 1

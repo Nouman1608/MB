@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-bio-6.6-checklist"
 title: "Gene Expression and Cell Specialization: Topic Checklist (Biology 6.6)"
+seoTitle: "Biology 6.6 Gene Expression and Specialization Checklist"
 description: "Specific “I can…” statements for transcription factors, enhancers, repressors, combinatorial control and small RNAs, each linked to the guide section and practice question that tests it."
 course: "biology"
 unit: 6

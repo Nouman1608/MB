@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.6-revision-notes"
 title: "Circuits with Capacitors and Inductors (LC Circuits): Revision Notes (Physics C: E&M 13.6)"
+seoTitle: "Physics C E&M 13.6 LC Circuits Revision Notes"
 description: "One-page recap of LC circuits for the calculus-based course: energy exchange, maximum current, the simple harmonic equation for charge, ω = 1/√(LC) and the phase of q and I."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.4-checklist"
 title: "The Function of Specific Words and Phrases: Topic Checklist (English Literature 2.4)"
+seoTitle: "English Lit 2.4 Function of Words and Phrases Checklist"
 description: "Specific I can statements for explaining the function of specific words and phrases in a poem, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.4-checklist"
 title: "Assignment Statements and Input: Checklist (Computer Science A 1.4)"
+seoTitle: "Computer Science A 1.4 Assignment and Input Checklist"
 description: "A self-check list for assignment statements, initialization, compatible types, null and Scanner input, linked to the guide sections and practice questions."
 course: "computer-science-a"
 unit: 1

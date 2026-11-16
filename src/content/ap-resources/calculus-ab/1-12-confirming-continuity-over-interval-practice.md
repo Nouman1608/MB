@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.12-practice"
 title: "Confirming Continuity over an Interval: Practice Questions (Calculus AB 1.12)"
+seoTitle: "Calculus AB 1.12 Continuity over an Interval Practice"
 description: "Seven original Marlbridge practice questions on intervals of continuity, function families, piecewise boundaries and closed-interval endpoints, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

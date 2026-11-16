@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.3-study-guide"
 title: "Extracting Information from Data: Study Guide (Computer Science Principles 2.3)"
+seoTitle: "CS Principles 2.3 Extracting Information from Data Guide"
 description: "How information is extracted from data: metadata, cleaning, filtering, transforming, combining and visualising, why correlation is not causation, and why bias and size matter, with two worked examples."
 course: "computer-science-principles"
 unit: 2

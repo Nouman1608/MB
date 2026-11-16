@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.6-practice"
 title: "Thesis and commentary in a literary argument essay: Practice Questions (English Literature 9.6)"
+seoTitle: "English Lit 9.6 Literary Argument Thesis Practice Questions"
 description: "Original Marlbridge practice questions on thesis and commentary in a literary argument essay, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 9

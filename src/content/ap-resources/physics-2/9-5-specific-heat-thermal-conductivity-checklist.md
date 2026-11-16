@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.5-checklist"
 title: "Specific Heat and Thermal Conductivity: Topic Checklist (Physics 2 9.5)"
+seoTitle: "Physics 2 9.5 Specific Heat and Conductivity Topic Checklist"
 description: "Specific “I can…” statements for specific heat and thermal conductivity, each linked to the guide section and practice question that shows whether you can really do it."
 course: "physics-2"
 unit: 9

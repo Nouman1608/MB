@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.6-checklist"
 title: "Grammar, Mechanics and Punctuation: Topic Checklist (English Language 7.6)"
+seoTitle: "English Language 7.6 Grammar and Punctuation Topic Checklist"
 description: "Specific \"I can\" statements for punctuation and grammar conventions that enable clear communication and shape relationships among ideas, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

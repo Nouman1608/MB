@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.13-study-guide"
 title: "Implementing 2D Array Algorithms: Study Guide (Computer Science A 4.13)"
+seoTitle: "Computer Science A 4.13 2D Array Algorithms Study Guide"
 description: "How to implement the standard 2D array algorithms in Java: maximum, sum, counting, any and all tests, duplicates, rotating and reversing rows and columns, neighbour checks and bounds, with traces."
 course: "computer-science-a"
 unit: 4

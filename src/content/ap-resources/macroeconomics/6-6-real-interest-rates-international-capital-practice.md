@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.6-practice"
 title: "Real Interest Rates and International Capital Flows: Practice Questions (Macroeconomics 6.6)"
+seoTitle: "Macroeconomics 6.6 Real Interest Rates and Capital Practice"
 description: "Seven original Marlbridge practice questions linking real interest rate differences to capital flows, exchange rates, loanable funds, net exports and the balance of payments, with suggested rubrics."
 course: "macroeconomics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.8-practice"
 title: "Antiderivatives and Indefinite Integrals: Basic Rules and Notation: Practice Questions (Calculus AB 6.8)"
+seoTitle: "Calculus AB 6.8 Indefinite Integrals Basic Rules Practice"
 description: "Seven original Marlbridge practice questions on indefinite integrals, the constant of integration, basic antiderivative rules and rewriting, with full solutions."
 course: "calculus-ab"
 unit: 6

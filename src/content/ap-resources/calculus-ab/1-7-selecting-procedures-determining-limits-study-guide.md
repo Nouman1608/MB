@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.7-study-guide"
 title: "Selecting Procedures for Determining Limits: Study Guide (Calculus AB 1.7)"
+seoTitle: "Calculus AB 1.7 Selecting Procedures for Limits Study Guide"
 description: "Learn how to choose the right method for a limit: read the representation, check for a split, substitute, then let the result tell you whether to stop, check signs or rewrite."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.1-study-guide"
 title: "Defining Simple Harmonic Motion (SHM): Study Guide (Physics C: Mechanics 7.1)"
+seoTitle: "Physics C Mechanics 7.1 Simple Harmonic Motion Study Guide"
 description: "Calculus-based definition of simple harmonic motion: equilibrium, restoring forces proportional to displacement, d²x/dt² = −(k/m)x, vertical springs, and small oscillations about a U(x) minimum."
 course: "physics-c-mechanics"
 unit: 7

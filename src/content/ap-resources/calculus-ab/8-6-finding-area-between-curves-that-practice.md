@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.6-practice"
 title: "Finding the Area Between Curves That Intersect at More Than Two Points: Practice Questions (Calculus AB 8.6)"
+seoTitle: "Calculus AB 8.6 Area Between Curves at 3+ Points Practice"
 description: "Seven original Marlbridge practice questions on areas between curves that cross several times, net versus total, and absolute-value integrals, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

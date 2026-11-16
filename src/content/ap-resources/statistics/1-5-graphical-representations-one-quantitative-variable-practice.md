@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.5-practice"
 title: "Graphical Representations for One Quantitative Variable: Practice Questions (Statistics 1.5)"
+seoTitle: "Statistics 1.5 Graphing One Quantitative Variable Practice"
 description: "Seven original Marlbridge practice questions on constructing and reading dotplots, stem-and-leaf plots and histograms, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

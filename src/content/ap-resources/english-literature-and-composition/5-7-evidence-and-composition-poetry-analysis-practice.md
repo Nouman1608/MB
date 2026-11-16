@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.7-practice"
 title: "Evidence and Composition in a Poetry Analysis: Practice Questions (English Literature 5.7)"
+seoTitle: "English Literature 5.7 Poetry Analysis Evidence Practice"
 description: "Original Marlbridge practice questions on selecting, quoting and integrating evidence from a poem and controlling paragraphs and transitions in an essay, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 5

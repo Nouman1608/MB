@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.2-revision-notes"
 title: "Opportunity Cost and the Production Possibilities Curve: Revision Notes (Macroeconomics 1.2)"
+seoTitle: "Macroeconomics 1.2 Opportunity Cost and the PPC Notes"
 description: "One-page recap of opportunity cost, the production possibilities curve, efficient, inefficient and unattainable points, PPC shapes and shifts, with the graph mistakes that cost marks."
 course: "macroeconomics"
 unit: 1

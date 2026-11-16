@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-u3-review"
 title: "Properties of Substances and Mixtures: Mixed Unit Review (Chemistry Unit 3)"
+seoTitle: "Chemistry Unit 3 Substances and Mixtures Mixed Unit Review"
 description: "Connect intermolecular forces, solids, gases, solutions, separation, spectroscopy, photons and the Beer-Lambert law with seven original questions that each combine topics."
 course: "chemistry"
 unit: 3

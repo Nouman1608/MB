@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.14-study-guide"
 title: "Finding Taylor or Maclaurin Series for a Function: Study Guide (Calculus BC 10.14)"
+seoTitle: "Calculus BC 10.14 Taylor or Maclaurin Series Study Guide"
 description: "Build Taylor and Maclaurin series from derivatives, learn the series for eˣ, sin x, cos x and 1/(1 − x), and read derivatives and sums back from a series."
 course: "calculus-bc"
 unit: 10

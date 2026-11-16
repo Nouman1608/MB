@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.3-checklist"
 title: "Following and Building a Line of Reasoning: Topic Checklist (English Language 3.3)"
+seoTitle: "English Language 3.3 Building a Line of Reasoning Checklist"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]

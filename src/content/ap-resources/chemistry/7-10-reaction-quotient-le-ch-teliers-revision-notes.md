@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.10-revision-notes"
 title: "Reaction Quotient and Le Châtelier's Principle: Revision Notes (Chemistry 7.10)"
+seoTitle: "Chemistry 7.10 Reaction Quotient and Le Châtelier Notes"
 description: "One-page recap of how a stress makes Q differ from K, how to predict the direction of reaction, and why only temperature changes the value of K."
 course: "chemistry"
 unit: 7

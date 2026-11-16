@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.4-study-guide"
 title: "Setting Up a Test for a Population Mean or Population Mean Difference: Study Guide (Statistics 4.4)"
+seoTitle: "Statistics 4.4 Setting Up a Test for a Mean Study Guide"
 description: "Learn to set up a one-sample t-test for a mean or a matched-pairs mean difference: choose the procedure, define μ or μd in context, write the hypotheses and verify the three conditions."
 course: "statistics"
 unit: 4

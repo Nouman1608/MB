@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.1-practice"
 title: "Interpreting the Meaning of the Derivative in Context: Practice Questions (Calculus AB 4.1)"
+seoTitle: "Calculus AB 4.1 Derivative in Context Practice Questions"
 description: "Seven original Marlbridge practice questions on derivatives in context: units, interpretation sentences, table estimates and second derivatives, with full solutions."
 course: "calculus-ab"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.6-practice"
 title: "Solving Motion Problems Using Parametric and Vector-Valued Functions: Practice Questions (Calculus BC 9.6)"
+seoTitle: "Calculus BC 9.6 Parametric and Vector Motion Practice"
 description: "Seven original Marlbridge practice questions on planar motion: speed, acceleration, direction, rest, speeding up, displacement, position and total distance, with rubrics."
 course: "calculus-bc"
 unit: 9

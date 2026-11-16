@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-1.5-study-guide"
 title: "Atomic Structure and Electron Configuration: Study Guide (Chemistry 1.5)"
+seoTitle: "Chemistry 1.5 Electron Configuration Study Guide"
 description: "Learn what an atom is made of, how Coulomb's law explains electron attraction, and how to write ground-state electron configurations for atoms and ions using the Aufbau principle."
 course: "chemistry"
 unit: 1

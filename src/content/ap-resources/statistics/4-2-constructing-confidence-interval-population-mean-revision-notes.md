@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.2-revision-notes"
 title: "Constructing a Confidence Interval for a Mean or Mean Difference: Revision Notes (Statistics 4.2)"
+seoTitle: "Statistics 4.2 Confidence Interval for a Mean Notes"
 description: "One-page recap of t-distributions, degrees of freedom, the one-sample t-interval for μ and for a matched-pairs μd, its three conditions, and the mistakes that cost marks."
 course: "statistics"
 unit: 4

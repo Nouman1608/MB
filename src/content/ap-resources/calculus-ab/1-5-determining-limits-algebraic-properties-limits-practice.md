@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.5-practice"
 title: "Determining Limits Using Algebraic Properties of Limits: Practice Questions (Calculus AB 1.5)"
+seoTitle: "Calculus AB 1.5 Limits Using Algebraic Properties Practice"
 description: "Seven original Marlbridge practice questions on the limit properties, composite and one-sided limits, from given values, formulas and graphs, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

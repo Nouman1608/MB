@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.6-study-guide"
 title: "Marginal Analysis and Consumer Choice: Study Guide (Microeconomics 1.6)"
+seoTitle: "Microeconomics 1.6 Marginal Analysis Study Guide"
 description: "Learn how to decide using marginal benefit and marginal cost, why sunk costs do not matter, how diminishing marginal utility works, and how a consumer spends a budget to get the most utility."
 course: "microeconomics"
 unit: 1

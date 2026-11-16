@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.3-checklist"
 title: "Determining Intervals on Which a Function Is Increasing or Decreasing: Topic Checklist (Calculus AB 5.3)"
+seoTitle: "Calculus AB 5.3 Increasing and Decreasing Topic Checklist"
 description: "Specific “I can…” statements for finding where a function increases or decreases, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 5

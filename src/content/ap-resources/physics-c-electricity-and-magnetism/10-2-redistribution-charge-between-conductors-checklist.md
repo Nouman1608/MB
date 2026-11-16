@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.2-checklist"
 title: "Redistribution of Charge Between Conductors: Topic Checklist (Physics C: E&M 10.2)"
+seoTitle: "Physics C E&M 10.2 Charge Redistribution Topic Checklist"
 description: "Specific “I can…” statements for charge redistribution between conductors in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 10

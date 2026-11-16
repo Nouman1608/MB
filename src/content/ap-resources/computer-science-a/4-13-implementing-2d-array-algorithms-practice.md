@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.13-practice"
 title: "Implementing 2D Array Algorithms: Practice Questions (Computer Science A 4.13)"
+seoTitle: "Computer Science A 4.13 2D Array Algorithms Practice"
 description: "Ten original questions on 2D array algorithms: row and column maximums, counting along rows, rotating and reversing, neighbour counts, bounds checks, plus two coding tasks."
 course: "computer-science-a"
 unit: 4

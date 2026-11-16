@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.3-revision-notes
 title: 'Repetition, Synonyms, Pronouns and Parallel Structure: Revision Notes (English Language 5.3)'
+seoTitle: "English Language 5.3 Repetition and Parallelism Notes"
 description: One-page recap of repetition, synonyms, pronoun references and parallel structure as tools of coherence, with the usual faults and repairs.
 course: english-language-and-composition
 unit: 5

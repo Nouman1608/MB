@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.8-study-guide"
 title: "Introduction to Random Variables and Probability Distributions: Study Guide (Statistics 2.8)"
+seoTitle: "Statistics 2.8 Random Variables and Distributions Guide"
 description: "Learn what a discrete random variable is and how to build, check, graph and use its probability distribution and cumulative distribution, from probability rules or a simulation."
 course: "statistics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.2-revision-notes"
 title: "Connecting Position, Velocity, and Acceleration Using Integrals: Revision Notes (Calculus AB 8.2)"
+seoTitle: "Calculus AB 8.2 Motion Using Integrals Revision Notes"
 description: "One-page recap of motion with integrals: position from velocity, velocity from acceleration, displacement versus total distance, and average velocity versus average speed."
 course: "calculus-ab"
 unit: 8

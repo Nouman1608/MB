@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.6-practice"
 title: "Derivative Rules: Constant, Sum, Difference and Constant Multiple: Practice Questions (Calculus AB 2.6)"
+seoTitle: "Calculus AB 2.6 Constant, Sum and Difference Rules Practice"
 description: "Seven original Marlbridge practice questions on the constant, sum, difference and constant multiple rules, polynomials, tables and tangent lines, with full solutions and rubrics."
 course: "calculus-ab"
 unit: 2

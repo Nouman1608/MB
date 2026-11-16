@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.1-practice"
 title: "Abstraction and Program Design: Practice Questions (Computer Science A 3.1)"
+seoTitle: "Computer Science A 3.1 Abstraction, Program Design Practice"
 description: "Nine original Marlbridge practice questions on data and procedural abstraction, attributes and behaviours, and designing classes before coding, with suggested rubrics."
 course: "computer-science-a"
 unit: 3

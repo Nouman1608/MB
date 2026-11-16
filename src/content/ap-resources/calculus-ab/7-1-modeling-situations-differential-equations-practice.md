@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.1-practice"
 title: "Modeling Situations with Differential Equations: Practice Questions (Calculus AB 7.1)"
+seoTitle: "Calculus AB 7.1 Modeling Differential Equations Practice"
 description: "Seven original Marlbridge practice questions on writing and reading differential equations from words, finding the constant of proportionality and interpreting rates."
 course: "calculus-ab"
 unit: 7

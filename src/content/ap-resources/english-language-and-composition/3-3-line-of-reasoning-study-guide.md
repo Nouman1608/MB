@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.3-study-guide"
 title: "Following and Building a Line of Reasoning: Study Guide (English Language 3.3)"
+seoTitle: "English Language 3.3 Building a Line of Reasoning Guide"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.3"]

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.5-revision-notes"
 title: "Graphical Representations for One Quantitative Variable: Revision Notes (Statistics 1.5)"
+seoTitle: "Statistics 1.5 Graphing One Quantitative Variable Notes"
 description: "One-page recap of how to construct dotplots, stem-and-leaf plots and histograms, how bin width changes a histogram, and the drawing mistakes that cost marks."
 course: "statistics"
 unit: 1

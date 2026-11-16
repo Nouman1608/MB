@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.9-practice"
 title: "Volume with the Disc Method: Revolving Around the x- or y-Axis: Practice Questions (Calculus AB 8.9)"
+seoTitle: "Calculus AB 8.9 Disc Method Around the x- or y-Axis Practice"
 description: "Seven original Marlbridge practice questions on disc-method volumes about the x- and y-axes, including a table estimate and calculator integrals, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

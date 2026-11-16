@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Statistics)"
+seoTitle: "Statistics Task Verbs and Free-Response Exam Skills Guide"
 description: "What each free-response task verb asks for in statistics answers, how much to write, how to read a multi-part question, plan your time and show work, with original examples."
 course: "statistics"
 unit: 1

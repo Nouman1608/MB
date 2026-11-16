@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.8-revision-notes"
 title: "The Effects of Government Intervention in Markets: Revision Notes (Microeconomics 2.8)"
+seoTitle: "Microeconomics 2.8 Government Intervention Revision Notes"
 description: "One-page recap of price ceilings, price floors, quotas, per-unit taxes and subsidies: their effects, the key calculations, tax incidence and deadweight loss, with the mistakes that cost marks."
 course: "microeconomics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.6-study-guide"
 title: "Entropy and the Second Law of Thermodynamics: Study Guide (Physics 2 9.6)"
+seoTitle: "Physics 2 9.6 Entropy and Second Law Study Guide"
 description: "Learn what entropy means, why the total entropy of an isolated system never decreases, why systems move toward equilibrium and how a closed system's entropy can fall."
 course: "physics-2"
 unit: 9

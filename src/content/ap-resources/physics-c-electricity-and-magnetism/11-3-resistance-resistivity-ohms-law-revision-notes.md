@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.3-revision-notes"
 title: "Resistance, Resistivity and Ohm's Law: Revision Notes (Physics C: E&M 11.3)"
+seoTitle: "Physics C E&M 11.3 Resistivity and Ohm's Law Revision Notes"
 description: "One-page recap of resistance for the calculus-based course: R = ρℓ/A, resistivity and temperature, integrating a varying resistivity, Ohm's law and reading R from an I–ΔV graph."
 course: "physics-c-electricity-and-magnetism"
 unit: 11

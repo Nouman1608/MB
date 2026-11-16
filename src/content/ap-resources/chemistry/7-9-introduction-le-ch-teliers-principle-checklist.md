@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.9-checklist"
 title: "Introduction to Le Châtelier's Principle: Topic Checklist (Chemistry 7.9)"
+seoTitle: "Chemistry 7.9 Le Châtelier's Principle Topic Checklist"
 description: "Specific “I can…” statements for Le Châtelier's principle, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 7

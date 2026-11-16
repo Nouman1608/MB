@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.3-practice"
 title: "Conservation of Linear Momentum: Practice Questions (Physics C: Mechanics 4.3)"
+seoTitle: "Physics C Mechanics 4.3 Conserving Linear Momentum Practice"
 description: "Seven original Marlbridge practice questions on total momentum, center-of-mass velocity, choosing a system, two-dimensional explosions and momentum data."
 course: "physics-c-mechanics"
 unit: 4

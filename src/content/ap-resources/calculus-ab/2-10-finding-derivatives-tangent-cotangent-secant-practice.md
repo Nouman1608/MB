@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.10-practice"
 title: "Derivatives of Tangent, Cotangent, Secant and Cosecant: Practice Questions (Calculus AB 2.10)"
+seoTitle: "Calculus AB 2.10 Derivatives of tan, cot, sec, csc Practice"
 description: "Seven original Marlbridge practice questions on derivatives of tan, cot, sec and csc, with identities, product and quotient rules, a context and suggested rubrics."
 course: "calculus-ab"
 unit: 2

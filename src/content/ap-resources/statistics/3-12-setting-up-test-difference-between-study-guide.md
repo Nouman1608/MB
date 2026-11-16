@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.12-study-guide"
 title: "Setting Up a Test for the Difference Between Two Population Proportions: Study Guide (Statistics 3.12)"
+seoTitle: "Statistics 3.12 Setting Up a Two-Proportion Test Guide"
 description: "Learn to choose the two-sample z-test for p₁ − p₂, define both parameters in context, write the null and alternative hypotheses, and check the conditions using the pooled proportion."
 course: "statistics"
 unit: 3

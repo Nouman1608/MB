@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.1-practice
 title: 'Body Paragraphs and the Line of Reasoning: Practice Questions (English Language 5.1)'
+seoTitle: "English Language 5.1 Body Paragraphs Practice Questions"
 description: 'Eight original Marlbridge practice questions on body paragraphs and lines of reasoning: identifying claim, evidence and commentary, adding commentary, and describing how an argument develops.'
 course: english-language-and-composition
 unit: 5

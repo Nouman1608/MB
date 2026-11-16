@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.6-revision-notes"
 title: "Market Equilibrium and Changes in Equilibrium: Revision Notes (Macroeconomics 1.6)"
+seoTitle: "Macroeconomics 1.6 Market Equilibrium Revision Notes"
 description: "One-page recap of market equilibrium, surpluses and shortages, how prices adjust, and the effects of single and double shifts in demand and supply, with the graphing mistakes that cost marks."
 course: "macroeconomics"
 unit: 1

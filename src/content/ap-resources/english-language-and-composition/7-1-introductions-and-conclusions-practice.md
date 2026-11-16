@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.1-practice"
 title: "Introductions and Conclusions for a Complex Argument: Practice Questions (English Language 7.1)"
+seoTitle: "English Language 7.1 Introductions and Conclusions Practice"
 description: "8 original Marlbridge practice questions on writing and analysing introductions and conclusions that suit the rhetorical situation, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.4-checklist"
 title: "Choosing Evidence Strategically: Topic Checklist (English Language 2.4)"
+seoTitle: "English Language 2.4 Choosing Evidence Topic Checklist"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.4"]

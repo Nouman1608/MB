@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.7-study-guide"
 title: "The Fundamental Theorem of Calculus and Definite Integrals: Study Guide (Calculus AB 6.7)"
+seoTitle: "Calculus AB 6.7 FTC and Definite Integrals Study Guide"
 description: "Learn how an antiderivative turns a definite integral into F(b) − F(a), why the theorem works, when it fails, and how to use it for net change in context."
 course: "calculus-ab"
 unit: 6

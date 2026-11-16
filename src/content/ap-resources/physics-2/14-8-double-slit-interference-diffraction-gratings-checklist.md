@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.8-checklist"
 title: "Double-Slit Interference and Diffraction Gratings: Topic Checklist (Physics 2 14.8)"
+seoTitle: "Physics 2 14.8 Double-Slit and Gratings Topic Checklist"
 description: "Specific “I can…” statements for double-slit fringes, the diffraction envelope and gratings, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 14

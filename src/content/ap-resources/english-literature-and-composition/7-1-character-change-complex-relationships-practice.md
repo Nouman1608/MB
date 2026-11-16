@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.1-practice
 title: 'Character Change and Complex Relationships: Practice Questions (English Literature 7.1)'
+seoTitle: "English Lit 7.1 Character Change and Relationships Practice"
 description: Nine original Marlbridge practice questions on character change, epiphany and relationships between characters and groups in short fiction, with full explanations, model answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 7

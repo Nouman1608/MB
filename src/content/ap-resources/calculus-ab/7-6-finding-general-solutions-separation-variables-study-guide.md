@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.6-study-guide"
 title: "Finding General Solutions Using Separation of Variables: Study Guide (Calculus AB 7.6)"
+seoTitle: "Calculus AB 7.6 Separation of Variables Study Guide"
 description: "Learn how to spot a separable differential equation, separate the variables, antidifferentiate both sides with one constant, and write the general solution."
 course: "calculus-ab"
 unit: 7

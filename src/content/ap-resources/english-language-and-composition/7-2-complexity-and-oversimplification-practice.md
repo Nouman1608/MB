@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.2-practice"
 title: "Complexity and Avoiding Oversimplification: Practice Questions (English Language 7.2)"
+seoTitle: "English Language 7.2 Avoiding Oversimplification Practice"
 description: "8 original Marlbridge practice questions on spotting and avoiding oversimplified claims, and revising a claim when evidence complicates it, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

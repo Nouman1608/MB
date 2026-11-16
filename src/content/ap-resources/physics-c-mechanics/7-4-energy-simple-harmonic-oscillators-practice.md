@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.4-practice"
 title: "Energy of Simple Harmonic Oscillators: Practice Questions (Physics C: Mechanics 7.4)"
+seoTitle: "Physics C Mechanics 7.4 Harmonic Oscillator Energy Practice"
 description: "Seven original Marlbridge calculus-based practice questions on oscillator energy: energy sharing, E = ½kA², energy graphs, a constancy proof, sensor data and a sudden push."
 course: "physics-c-mechanics"
 unit: 7

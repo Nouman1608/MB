@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.6-revision-notes"
 title: "Derivative Rules: Constant, Sum, Difference and Constant Multiple: Revision Notes (Calculus AB 2.6)"
+seoTitle: "Calculus AB 2.6 Constant, Sum and Difference Rules Notes"
 description: "One-page recap of the constant, constant multiple, sum and difference rules, how to differentiate polynomials term by term, and the slips that cost marks."
 course: "calculus-ab"
 unit: 2

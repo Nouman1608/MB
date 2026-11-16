@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.6-study-guide"
 title: "Thesis and commentary in a poetry essay: Study Guide (English Literature 8.6)"
+seoTitle: "English Lit 8.6 Poetry Essay Thesis and Commentary Guide"
 description: "Learn to write a defensible thesis for a poetry analysis essay and to build commentary that explains how evidence supports a line of reasoning, with original models and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 8

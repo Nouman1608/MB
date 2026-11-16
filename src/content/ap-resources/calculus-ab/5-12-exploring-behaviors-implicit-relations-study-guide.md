@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.12-study-guide"
 title: "Exploring Behaviors of Implicit Relations: Study Guide (Calculus AB 5.12)"
+seoTitle: "Calculus AB 5.12 Behaviors of Implicit Relations Study Guide"
 description: "Learn to find critical points of curves defined implicitly and to justify where y increases, decreases, has a relative maximum or minimum, or is concave up or down."
 course: "calculus-ab"
 unit: 5

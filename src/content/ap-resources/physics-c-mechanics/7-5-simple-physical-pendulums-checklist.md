@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.5-checklist"
 title: "Simple and Physical Pendulums: Topic Checklist (Physics C: Mechanics 7.5)"
+seoTitle: "Physics C Mechanics 7.5 Pendulums Topic Checklist"
 description: "Specific “I can…” statements for physical, simple and torsion pendulums, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 7

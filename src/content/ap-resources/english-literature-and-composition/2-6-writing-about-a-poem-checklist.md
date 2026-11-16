@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-2.6-checklist"
 title: "Writing a Paragraph About a Poem: Topic Checklist (English Literature 2.6)"
+seoTitle: "English Lit 2.6 Writing a Paragraph About a Poem Checklist"
 description: "Specific I can statements for writing a paragraph about a poem, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.5-checklist"
 title: "Rotational Equilibrium and Newton’s First Law in Rotational Form: Topic Checklist (Physics C: Mechanics 5.5)"
+seoTitle: "Physics C Mechanics 5.5 Rotational Equilibrium Checklist"
 description: "Specific “I can…” statements for calculus-based rotational equilibrium, each linked to the study guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5

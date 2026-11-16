@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u5-diagnostic"
 title: "Long-Run Consequences of Stabilization Policies: Unit Diagnostic (Macroeconomics Unit 5)"
+seoTitle: "Macroeconomics Unit 5 Stabilization Policies Diagnostic"
 description: "A 30-minute check on policy mixes, the Phillips curve, money growth and inflation, deficits and debt, crowding out and economic growth, with a link to revisit for each topic."
 course: "macroeconomics"
 unit: 5

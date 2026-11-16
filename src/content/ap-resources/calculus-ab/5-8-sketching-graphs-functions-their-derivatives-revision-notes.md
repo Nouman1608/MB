@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.8-revision-notes"
 title: "Sketching Graphs of Functions and Their Derivatives: Revision Notes (Calculus AB 5.8)"
+seoTitle: "Calculus AB 5.8 Graphs of Functions and Derivatives Notes"
 description: "One-page recap of sketching f from f′ and f″: the feature table, the four basic shapes, reading a graph of f′, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 5

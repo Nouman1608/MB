@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.12-practice"
 title: "Integrating Using Linear Partial Fractions: Practice Questions (Calculus BC 6.12)"
+seoTitle: "Calculus BC 6.12 Linear Partial Fractions Practice"
 description: "Seven original Marlbridge practice questions on linear partial fractions: decomposing, non-monic and three-factor cases, dividing first, definite integrals and a context, with rubrics."
 course: "calculus-bc"
 unit: 6

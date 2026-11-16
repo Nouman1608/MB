@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.5-practice"
 title: "Motion in Two or Three Dimensions: Practice Questions (Physics C: Mechanics 1.5)"
+seoTitle: "Physics C Mechanics 1.5 Motion in 2D and 3D Practice"
 description: "Seven original Marlbridge calculus-based practice questions on motion in a plane: vector derivatives, independent components, non-uniform acceleration, projectiles and video data."
 course: "physics-c-mechanics"
 unit: 1

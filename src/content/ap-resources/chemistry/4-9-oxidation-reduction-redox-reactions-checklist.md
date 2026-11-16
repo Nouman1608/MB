@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-4.9-checklist"
 title: "Oxidation-Reduction (Redox) Reactions: Topic Checklist (Chemistry 4.9)"
+seoTitle: "Chemistry 4.9 Oxidation-Reduction Reactions Checklist"
 description: "Specific “I can…” statements for writing, balancing and combining redox half-reactions, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 4

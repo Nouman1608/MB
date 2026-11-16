@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.1-revision-notes"
 title: "Algorithms with Selection and Repetition: Revision Notes (Computer Science A 2.1)"
+seoTitle: "Computer Science A 2.1 Selection and Repetition Notes"
 description: "One-page recap of algorithms built from sequencing, selection and repetition: the rules, a key-relationships table, mistakes to avoid and a short self-check with answers."
 course: "computer-science-a"
 unit: 2

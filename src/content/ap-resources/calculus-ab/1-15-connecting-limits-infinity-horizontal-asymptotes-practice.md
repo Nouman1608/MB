@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.15-practice"
 title: "Connecting Limits at Infinity and Horizontal Asymptotes: Practice Questions (Calculus AB 1.15)"
+seoTitle: "Calculus AB 1.15 Limits at Infinity and Asymptotes Practice"
 description: "Seven original Marlbridge practice questions on limits at infinity, end behaviour, horizontal asymptotes and growth rates, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

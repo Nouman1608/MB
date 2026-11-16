@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.10-checklist"
 title: "Exploring Types of Discontinuities: Topic Checklist (Calculus AB 1.10)"
+seoTitle: "Calculus AB 1.10 Types of Discontinuities Topic Checklist"
 description: "Specific “I can…” statements for classifying removable, jump and vertical-asymptote discontinuities, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1

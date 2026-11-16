@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.1-revision-notes"
 title: "Fiscal and Monetary Policy Actions in the Short Run: Revision Notes (Macroeconomics 5.1)"
+seoTitle: "Macroeconomics 5.1 Fiscal and Monetary Policy Revision Notes"
 description: "One-page recap of combined fiscal and monetary policy: which mix closes each output gap, which effects are certain or uncertain, and how to calculate the combined shift in AD."
 course: "macroeconomics"
 unit: 5

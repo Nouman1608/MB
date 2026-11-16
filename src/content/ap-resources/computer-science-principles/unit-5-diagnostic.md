@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u5-diagnostic"
 title: "Impact of Computing: Unit Diagnostic (Computer Science Principles Unit 5)"
+seoTitle: "CS Principles Unit 5 Impact of Computing Diagnostic"
 description: "A 30-minute check with two short questions on every topic of Unit 5: effects of computing, the digital divide, bias, crowdsourcing, legal and ethical concerns, and safe computing."
 course: "computer-science-principles"
 unit: 5

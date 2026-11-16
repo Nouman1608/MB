@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.3-practice"
 title: "Angular Momentum and Angular Impulse: Practice Questions (Physics C: Mechanics 6.3)"
+seoTitle: "Physics C Mechanics 6.3 Angular Momentum, Impulse Practice"
 description: "Seven original Marlbridge calculus-based practice questions on angular momentum and angular impulse: L = r × p, torque–time and L–time graphs, integration and sensor data."
 course: "physics-c-mechanics"
 unit: 6

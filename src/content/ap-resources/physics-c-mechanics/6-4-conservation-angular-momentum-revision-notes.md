@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.4-revision-notes"
 title: "Conservation of Angular Momentum: Revision Notes (Physics C: Mechanics 6.4)"
+seoTitle: "Physics C Mechanics 6.4 Conserving Angular Momentum Notes"
 description: "One-page calculus recap of conservation of angular momentum: system totals, cancelling internal torques, choosing the system, shape changes and transfer by external torques."
 course: "physics-c-mechanics"
 unit: 6

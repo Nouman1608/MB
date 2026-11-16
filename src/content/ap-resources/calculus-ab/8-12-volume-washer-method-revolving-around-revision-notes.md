@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.12-revision-notes"
 title: "Volume with Washer Method: Revolving Around Other Axes: Revision Notes (Calculus AB 8.12)"
+seoTitle: "Calculus AB 8.12 Washer Method Around Other Axes Notes"
 description: "One-page recap of washer volumes around any horizontal or vertical line: the radius rule, which boundary is outer, the formulas and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 8

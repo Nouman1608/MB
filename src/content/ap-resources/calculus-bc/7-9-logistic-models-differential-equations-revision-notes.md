@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.9-revision-notes"
 title: "Logistic Models with Differential Equations: Revision Notes (Calculus BC 7.9)"
+seoTitle: "Calculus BC 7.9 Logistic Differential Equations Notes"
 description: "One-page recap of logistic models: the equation and its forms, carrying capacity, long-run limits, fastest growth at half capacity, concavity, and the mistakes to avoid."
 course: "calculus-bc"
 unit: 7

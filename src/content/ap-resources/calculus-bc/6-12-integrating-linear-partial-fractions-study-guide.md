@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.12-study-guide"
 title: "Integrating Using Linear Partial Fractions: Study Guide (Calculus BC 6.12)"
+seoTitle: "Calculus BC 6.12 Integrating Linear Partial Fractions Guide"
 description: "Split a rational function into simpler fractions with different linear factors, find the constants, and integrate each piece with ln, for indefinite and definite integrals."
 course: "calculus-bc"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.2-revision-notes"
 title: "Displacement, Velocity, and Acceleration: Revision Notes (Physics C: Mechanics 1.2)"
+seoTitle: "Physics C Mechanics 1.2 Velocity and Acceleration Notes"
 description: "One-page calculus recap of displacement, velocity and acceleration: derivatives, integrals with initial conditions, signed areas, and when the constant-acceleration equations apply."
 course: "physics-c-mechanics"
 unit: 1

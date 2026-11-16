@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-bio-3.2-practice"
 title: "Environmental Impacts on Enzyme Function: Practice Questions (Biology 3.2)"
+seoTitle: "Biology 3.2 Environmental Impacts on Enzymes Practice"
 description: "Seven original Marlbridge practice questions on temperature, pH, denaturation, substrate and product concentrations and inhibitors, with worked solutions and suggested mark points."
 course: "biology"
 unit: 3

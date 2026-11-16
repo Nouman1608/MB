@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.6-checklist"
 title: "Identifying the Thesis of an Argument: Topic Checklist (English Language 2.6)"
+seoTitle: "English Language 2.6 Identifying the Thesis Topic Checklist"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.6"]

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.7-practice"
 title: "Commentary and the Line of Reasoning: Practice Questions (English Literature 3.7)"
+seoTitle: "English Lit 3.7 Commentary and Line of Reasoning Practice"
 description: "Eight original Marlbridge questions on commentary and line of reasoning: separating evidence from commentary, improving thin commentary and ordering claims, with answers and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 3

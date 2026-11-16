@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.4-checklist"
 title: "Clauses and the Arrangement of Sentences: Topic Checklist (English Language 7.4)"
+seoTitle: "English Language 7.4 Sentence Arrangement Topic Checklist"
 description: "Specific \"I can\" statements for independent and dependent clauses, and how the arrangement of clauses and sentences emphasises ideas, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 7

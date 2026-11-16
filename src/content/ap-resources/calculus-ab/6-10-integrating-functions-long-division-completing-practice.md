@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.10-practice"
 title: "Integrating Functions Using Long Division and Completing the Square: Practice Questions (Calculus AB 6.10)"
+seoTitle: "Calculus AB 6.10 Integrating by Long Division Practice"
 description: "Seven original Marlbridge practice questions on rewriting integrands with long division and completing the square, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.4-practice"
 title: "Assignment Statements and Input: Practice Questions (Computer Science A 1.4)"
+seoTitle: "Computer Science A 1.4 Assignment and Input Practice"
 description: "Nine original Marlbridge practice questions on assignment statements, tracing, initialization, type compatibility, null and Scanner input, with explanations and rubrics."
 course: "computer-science-a"
 unit: 1

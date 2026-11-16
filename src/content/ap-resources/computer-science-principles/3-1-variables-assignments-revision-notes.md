@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.1-revision-notes"
 title: "Variables and Assignments: Revision Notes (Computer Science Principles 3.1)"
+seoTitle: "CS Principles 3.1 Variables and Assignments Revision Notes"
 description: "One-page recap of variables, assignment, tracing and swapping, with the notation, a key-relationships table and the mistakes that cost marks."
 course: "computer-science-principles"
 unit: 3

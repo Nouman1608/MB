@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.10-study-guide"
 title: "Implementing ArrayList Algorithms: Study Guide (Computer Science A 4.10)"
+seoTitle: "Computer Science A 4.10 ArrayList Algorithms Study Guide"
 description: "How to implement the standard ArrayList algorithms in Java: maximum, sum and average, counting, any and all tests, consecutive pairs, duplicates, shifting, reversing, inserting and deleting, with traces."
 course: "computer-science-a"
 unit: 4

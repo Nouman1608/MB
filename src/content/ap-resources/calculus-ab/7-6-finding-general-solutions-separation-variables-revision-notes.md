@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.6-revision-notes"
 title: "Finding General Solutions Using Separation of Variables: Revision Notes (Calculus AB 7.6)"
+seoTitle: "Calculus AB 7.6 Separation of Variables Revision Notes"
 description: "One-page recap of separable differential equations: how to spot them, the four-step method, handling ln|y| and the constant, and the errors that cost marks."
 course: "calculus-ab"
 unit: 7

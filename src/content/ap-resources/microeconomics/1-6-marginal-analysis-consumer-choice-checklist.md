@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.6-checklist"
 title: "Marginal Analysis and Consumer Choice: Topic Checklist (Microeconomics 1.6)"
+seoTitle: "Microeconomics 1.6 Marginal Analysis Topic Checklist"
 description: "Specific “I can…” statements for marginal analysis and consumer choice, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.4-practice"
 title: "Extended and complex metaphor: Practice Questions (English Literature 8.4)"
+seoTitle: "English Lit 8.4 Extended and Complex Metaphor Practice"
 description: "Original Marlbridge practice questions on extended and complex metaphor, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 8

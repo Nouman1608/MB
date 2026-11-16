@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.1-revision-notes"
 title: "Writing for an Audience’s Beliefs, Values and Needs: Revision Notes (English Language 2.1)"
+seoTitle: "English Language 2.1 Audience Beliefs and Values Notes"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.1"]

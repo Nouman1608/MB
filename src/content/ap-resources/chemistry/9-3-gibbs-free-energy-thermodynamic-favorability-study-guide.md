@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.3-study-guide"
 title: "Gibbs Free Energy and Thermodynamic Favorability: Study Guide (Chemistry 9.3)"
+seoTitle: "Chemistry 9.3 Gibbs Free Energy and Favorability Guide"
 description: "Use the standard Gibbs free energy change to decide whether a process is thermodynamically favoured: from formation data, from ΔG° = ΔH° − TΔS°, and from the signs of ΔH° and ΔS°."
 course: "chemistry"
 unit: 9

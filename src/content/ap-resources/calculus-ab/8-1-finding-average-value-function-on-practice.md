@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.1-practice"
 title: "Finding the Average Value of a Function on an Interval: Practice Questions (Calculus AB 8.1)"
+seoTitle: "Calculus AB 8.1 Average Value of a Function Practice"
 description: "Seven original Marlbridge practice questions on the average value of a function from formulas, tables and given integrals, with and without a calculator, with full solutions."
 course: "calculus-ab"
 unit: 8

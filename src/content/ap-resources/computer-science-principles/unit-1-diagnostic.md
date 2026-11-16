@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u1-diagnostic"
 title: "Creative Development: Unit Diagnostic (Computer Science Principles Unit 1)"
+seoTitle: "CS Principles Unit 1 Creative Development Diagnostic"
 description: "A 25-minute check with short questions on every topic of Unit 1: collaboration, program function and purpose, design and development, and identifying and correcting errors."
 course: "computer-science-principles"
 unit: 1

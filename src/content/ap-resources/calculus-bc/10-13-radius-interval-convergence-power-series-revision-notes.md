@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.13-revision-notes"
 title: "Radius and Interval of Convergence of Power Series: Revision Notes (Calculus BC 10.13)"
+seoTitle: "Calculus BC 10.13 Power Series Convergence Revision Notes"
 description: "One-page recap of radius and interval of convergence: the ratio-test method, the endpoint tests, the Taylor-coefficient link and term-by-term calculus."
 course: "calculus-bc"
 unit: 10

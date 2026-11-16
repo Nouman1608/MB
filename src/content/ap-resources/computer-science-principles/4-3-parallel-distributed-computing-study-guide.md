@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-4.3-study-guide"
 title: "Parallel and Distributed Computing: Study Guide (Computer Science Principles 4.3)"
+seoTitle: "CS Principles 4.3 Parallel and Distributed Computing Guide"
 description: "Sequential, parallel and distributed computing, how to calculate run time and speedup, why the sequential portion limits the gain, and benefits and challenges, with two fully worked examples."
 course: "computer-science-principles"
 unit: 4

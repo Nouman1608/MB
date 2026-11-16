@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.5-practice"
 title: "Implementing Array Algorithms: Practice Questions (Computer Science A 4.5)"
+seoTitle: "Computer Science A 4.5 Array Algorithms Practice Questions"
 description: "Nine original Marlbridge practice questions on implementing array algorithms: max and min, any and all, counting, pairs, duplicates, rotating and reversing, tracing and fixing code, with rubrics."
 course: "computer-science-a"
 unit: 4

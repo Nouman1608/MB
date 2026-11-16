@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.2-study-guide"
 title: "Displacement, Velocity, and Acceleration: Study Guide (Physics C: Mechanics 1.2)"
+seoTitle: "Physics C Mechanics 1.2 Velocity and Acceleration Guide"
 description: "Calculus-based kinematics in one dimension: velocity and acceleration as derivatives, position and velocity by integration, non-constant acceleration, and the constant-acceleration equations derived."
 course: "physics-c-mechanics"
 unit: 1

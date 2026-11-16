@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.5-study-guide
 title: 'Developing Ideas Through Definition and Description: Study Guide (English Language 4.5)'
+seoTitle: "English Language 4.5 Definition and Description Study Guide"
 description: 'How writers develop ideas through definition and description: formal and extended definitions, sensory and concrete description, examples and illustrations, and how each serves an argument''s purpose.'
 course: english-language-and-composition
 unit: 4

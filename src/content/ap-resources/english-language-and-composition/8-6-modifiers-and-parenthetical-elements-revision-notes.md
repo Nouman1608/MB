@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.6-revision-notes"
 title: "Modifiers and Parenthetical Elements: Revision Notes (English Language 8.6)"
+seoTitle: "English Language 8.6 Modifiers and Parentheticals Notes"
 description: "One-page recap of placing modifiers clearly and using parenthetical elements to add information for an audience and purpose, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 8

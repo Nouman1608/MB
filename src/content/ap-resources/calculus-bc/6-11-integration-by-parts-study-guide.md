@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-6.11-study-guide"
 title: "Integrating Using Integration by Parts: Study Guide (Calculus BC 6.11)"
+seoTitle: "Calculus BC 6.11 Integration by Parts Study Guide"
 description: "Derive integration by parts from the product rule, learn how to choose u, and use it for repeated, self-returning and definite integrals, including an accumulation problem."
 course: "calculus-bc"
 unit: 6

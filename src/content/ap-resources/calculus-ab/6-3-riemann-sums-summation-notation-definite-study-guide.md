@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.3-study-guide"
 title: "Riemann Sums, Summation Notation and Definite Integral Notation: Study Guide (Calculus AB 6.3)"
+seoTitle: "Calculus AB 6.3 Riemann Sums and Integral Notation Guide"
 description: "Learn to write Riemann sums with sigma notation, see why their limit defines the definite integral, and translate between a limit of sums and an integral in both directions."
 course: "calculus-ab"
 unit: 6

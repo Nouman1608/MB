@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.1-practice"
 title: "Defining Convergent and Divergent Infinite Series: Practice Questions (Calculus BC 10.1)"
+seoTitle: "Calculus BC 10.1 Convergent and Divergent Series Practice"
 description: "Seven original Marlbridge practice questions on partial sums and the definition of convergence: terms from Sₙ, telescoping sums and divergent series, with rubrics."
 course: "calculus-bc"
 unit: 10

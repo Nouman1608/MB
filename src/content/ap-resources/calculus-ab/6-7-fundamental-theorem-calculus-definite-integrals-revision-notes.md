@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.7-revision-notes"
 title: "The Fundamental Theorem of Calculus and Definite Integrals: Revision Notes (Calculus AB 6.7)"
+seoTitle: "Calculus AB 6.7 FTC and Definite Integrals Revision Notes"
 description: "One-page recap of evaluating definite integrals with antiderivatives: the theorem and its condition, the five-step method, net change and the errors that cost marks."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u6-diagnostic"
 title: "Integration and Accumulation of Change: Unit Diagnostic (Calculus AB Unit 6)"
+seoTitle: "Calculus AB Unit 6 Integration and Accumulation Diagnostic"
 description: "Fourteen short original questions, one per topic of Integration and Accumulation of Change, to show which topics you should revisit, with explanations and links."
 course: "calculus-ab"
 unit: 6

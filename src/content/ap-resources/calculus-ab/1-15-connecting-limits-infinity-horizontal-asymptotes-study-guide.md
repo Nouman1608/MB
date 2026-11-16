@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.15-study-guide"
 title: "Connecting Limits at Infinity and Horizontal Asymptotes: Study Guide (Calculus AB 1.15)"
+seoTitle: "Calculus AB 1.15 Limits at Infinity and Asymptotes Guide"
 description: "Learn what a limit as x → ∞ means, how it describes end behaviour and horizontal asymptotes, and how to compare how fast functions grow using limits."
 course: "calculus-ab"
 unit: 1

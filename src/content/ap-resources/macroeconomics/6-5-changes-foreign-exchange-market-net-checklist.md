@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.5-checklist"
 title: "Changes in the Foreign Exchange Market and Net Exports: Topic Checklist (Macroeconomics 6.5)"
+seoTitle: "Macroeconomics 6.5 Exchange Market and Net Exports Checklist"
 description: "Specific “I can…” statements for how currency changes affect net exports and aggregate demand, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.1-checklist"
 title: "Sampling Distributions for Sample Means: Topic Checklist (Statistics 4.1)"
+seoTitle: "Statistics 4.1 Sample Mean Distributions Topic Checklist"
 description: "Specific “I can…” statements for the sampling distribution of a sample mean, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 4

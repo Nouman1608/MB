@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.5-checklist"
 title: "Casting and Range of Variables: Checklist (Computer Science A 1.5)"
+seoTitle: "Computer Science A 1.5 Casting and Variable Range Checklist"
 description: "A self-check list for casting with (int) and (double), rounding doubles, the range of int, integer overflow and round-off error, linked to the guide and practice questions."
 course: "computer-science-a"
 unit: 1

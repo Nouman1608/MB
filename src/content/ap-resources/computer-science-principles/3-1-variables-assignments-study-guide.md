@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.1-study-guide"
 title: "Variables and Assignments: Study Guide (Computer Science Principles 3.1)"
+seoTitle: "CS Principles 3.1 Variables and Assignments Study Guide"
 description: "How variables store values, how the assignment operator updates them, how to trace code with a table, and why names and types matter. Two fully worked examples and misconceptions."
 course: "computer-science-principles"
 unit: 3

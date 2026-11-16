@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.4-practice"
 title: "Identifying and Correcting Errors: Practice Questions (Computer Science Principles 1.4)"
+seoTitle: "CS Principles 1.4 Identifying and Correcting Errors Practice"
 description: "Ten original practice questions on error types, test case design, boundary inputs and finding errors by tracing, with full explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.8-checklist"
 title: "Justifying a Claim With a Confidence Interval for Two Means: Topic Checklist (Statistics 4.8)"
+seoTitle: "Statistics 4.8 Justifying a Claim, Two-Mean CI Checklist"
 description: "Specific “I can…” statements for interpreting intervals for μ₁ − μ₂ and justifying claims with them, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 4

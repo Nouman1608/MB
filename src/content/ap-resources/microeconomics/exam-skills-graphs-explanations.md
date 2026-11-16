@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-exam-skills-graphs-explanations"
 title: "Drawing Graphs and Writing Cause-and-Effect Explanations: Exam Skills Guide (Microeconomics)"
+seoTitle: "Microeconomics Graphs and Explanations Exam Skills Guide"
 description: "Draw fully labelled graphs with shifts, arrows and shaded areas, pair firm and market graphs, write cause-and-effect chains that state every direction, and show the steps in every calculation."
 course: "microeconomics"
 unit: 1

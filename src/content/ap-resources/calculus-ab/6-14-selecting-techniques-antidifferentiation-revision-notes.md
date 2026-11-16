@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.14-revision-notes"
 title: "Selecting Techniques for Antidifferentiation: Revision Notes (Calculus AB 6.14)"
+seoTitle: "Calculus AB 6.14 Techniques for Antidifferentiation Notes"
 description: "One-page recap of how to pick an integration technique: the signal for each method, lookalike integrals, integrands with no formula, and the slips that cost marks."
 course: "calculus-ab"
 unit: 6

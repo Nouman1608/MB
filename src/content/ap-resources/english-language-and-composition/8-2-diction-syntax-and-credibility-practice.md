@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.2-practice"
 title: "Diction, Syntax and Credibility: Practice Questions (English Language 8.2)"
+seoTitle: "English Language 8.2 Diction, Syntax, Credibility Practice"
 description: "8 original Marlbridge practice questions on how word choice and sentence structure shape how an audience perceives a writer and accepts an argument, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 8

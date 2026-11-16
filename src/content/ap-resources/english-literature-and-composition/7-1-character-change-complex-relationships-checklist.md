@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.1-checklist
 title: 'Character Change and Complex Relationships: Topic Checklist (English Literature 7.1)'
+seoTitle: "English Lit 7.1 Character Change and Relationships Checklist"
 description: Specific “I can…” statements for character change, epiphany and relationships between characters and groups in short fiction, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7

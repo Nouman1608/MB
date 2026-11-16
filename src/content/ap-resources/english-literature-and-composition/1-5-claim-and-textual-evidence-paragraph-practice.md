@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.5-practice"
 title: "Writing a Paragraph With a Claim and Textual Evidence: Practice Questions (English Literature 1.5)"
+seoTitle: "English Literature 1.5 Claim and Evidence Paragraph Practice"
 description: "Eight original Marlbridge questions on claims and textual evidence in a paragraph: telling claim from fact, choosing evidence, embedding quotations and revising a weak draft, with a rubric."
 course: "english-literature-and-composition"
 unit: 1

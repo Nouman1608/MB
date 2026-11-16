@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.6-checklist"
 title: "Thesis and commentary in a literary argument essay: Topic Checklist (English Literature 9.6)"
+seoTitle: "English Lit 9.6 Literary Argument Thesis Topic Checklist"
 description: "Specific \"I can\" statements for thesis and commentary in a literary argument essay, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 9

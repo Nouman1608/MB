@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.4-practice"
 title: "Banking and the Expansion of the Money Supply: Practice Questions (Macroeconomics 4.4)"
+seoTitle: "Macroeconomics 4.4 Banking and the Money Supply Practice"
 description: "Seven original Marlbridge practice questions on bank balance sheets, required and excess reserves, the money multiplier and money creation, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 4

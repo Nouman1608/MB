@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u4-diagnostic"
 title: "Computer Systems and Networks: Unit Diagnostic (Computer Science Principles Unit 4)"
+seoTitle: "CS Principles Unit 4 Systems and Networks Diagnostic"
 description: "A 25-minute check with short questions on every topic of Unit 4: the Internet, fault tolerance, and parallel and distributed computing."
 course: "computer-science-principles"
 unit: 4

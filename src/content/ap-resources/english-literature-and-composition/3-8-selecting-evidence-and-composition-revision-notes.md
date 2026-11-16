@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.8-revision-notes"
 title: "Selecting Evidence and Controlling Composition: Revision Notes (English Literature 3.8)"
+seoTitle: "English Lit 3.8 Selecting Evidence and Composition Notes"
 description: "A one-page recap of selecting evidence and controlling composition: relevance and sufficiency, six uses of evidence, quotation conventions, common sentence-level errors and a revision routine."
 course: "english-literature-and-composition"
 unit: 3

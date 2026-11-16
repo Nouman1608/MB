@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.8-checklist"
 title: "Exponential Models with Differential Equations: Topic Checklist (Calculus AB 7.8)"
+seoTitle: "Calculus AB 7.8 Exponential Models with DEs Topic Checklist"
 description: "Specific “I can…” statements for exponential growth and decay models, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 7

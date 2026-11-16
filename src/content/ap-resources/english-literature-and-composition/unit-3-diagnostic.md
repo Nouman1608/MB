@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-u3-diagnostic"
 title: "Longer Fiction or Drama I: Unit Diagnostic (English Literature Unit 3)"
+seoTitle: "English Lit Unit 3 Longer Fiction or Drama I Diagnostic"
 description: "A 35-minute check with thirteen short questions across the eight topics of Unit 3: character, change, setting, events, conflict, thesis, commentary and evidence, showing which topics to revisit."
 course: "english-literature-and-composition"
 unit: 3

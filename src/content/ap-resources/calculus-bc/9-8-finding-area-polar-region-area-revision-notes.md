@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.8-revision-notes"
 title: "Area of a Polar Region or the Area Bounded by a Single Polar Curve: Revision Notes (Calculus BC 9.8)"
+seoTitle: "Calculus BC 9.8 Area of a Polar Region Revision Notes"
 description: "One-page recap of polar area: where ½∫r² dθ comes from, choosing limits that trace a region once, petals and loops, the identities you need, and common errors."
 course: "calculus-bc"
 unit: 9

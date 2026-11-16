@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.4-checklist"
 title: "Using Programs with Data: Topic Checklist (Computer Science Principles 2.4)"
+seoTitle: "CS Principles 2.4 Using Programs with Data Topic Checklist"
 description: "Specific I can statements for using programs with data, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 2

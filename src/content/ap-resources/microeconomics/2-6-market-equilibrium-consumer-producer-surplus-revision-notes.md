@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.6-revision-notes"
 title: "Market Equilibrium and Consumer and Producer Surplus: Revision Notes (Microeconomics 2.6)"
+seoTitle: "Microeconomics 2.6 Equilibrium and Surplus Revision Notes"
 description: "One-page recap of market equilibrium, the price as a signal, and consumer, producer and total surplus: definitions, area formulas, why equilibrium is efficient, and the mistakes that cost marks."
 course: "microeconomics"
 unit: 2

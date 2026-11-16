@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.1-practice"
 title: "Tabular and Graphical Representations for Two Categorical Variables: Practice Questions (Statistics 2.1)"
+seoTitle: "Statistics 2.1 Graphing Two Categorical Variables Practice"
 description: "Seven original Marlbridge practice questions on two-way tables, side-by-side and segmented bar charts, mosaic plots and association, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 2

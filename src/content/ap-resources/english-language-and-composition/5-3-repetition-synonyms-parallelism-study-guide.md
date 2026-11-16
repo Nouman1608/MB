@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.3-study-guide
 title: 'Repetition, Synonyms, Pronouns and Parallel Structure: Study Guide (English Language 5.3)'
+seoTitle: "English Language 5.3 Repetition and Parallelism Study Guide"
 description: How repetition, synonyms, pronoun references and parallel structure link ideas and show relationships between elements of a text, and how to use them deliberately and avoid their pitfalls.
 course: english-language-and-composition
 unit: 5

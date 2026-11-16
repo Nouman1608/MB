@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.7-revision-notes"
 title: "Evidence and composition in a poetry essay: Revision Notes (English Literature 8.7)"
+seoTitle: "English Lit 8.7 Poetry Essay Evidence Revision Notes"
 description: "A one-page recap of evidence and composition in a poetry essay: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 8

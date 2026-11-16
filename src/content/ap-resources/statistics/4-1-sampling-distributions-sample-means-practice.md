@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.1-practice"
 title: "Sampling Distributions for Sample Means: Practice Questions (Statistics 4.1)"
+seoTitle: "Statistics 4.1 Sample Mean Distributions Practice"
 description: "Seven original Marlbridge practice questions on the mean, standard deviation and shape of the sampling distribution of x̄, its conditions and normal probabilities, with worked solutions and rubrics."
 course: "statistics"
 unit: 4

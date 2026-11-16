@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.6-checklist"
 title: "Methods: Passing and Returning References of an Object: Topic Checklist (Computer Science A 3.6)"
+seoTitle: "Computer Science A 3.6 Passing Object References Checklist"
 description: "Specific I can statements for passing and returning object references, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 3

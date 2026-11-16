@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.1-practice"
 title: "Defining Simple Harmonic Motion (SHM): Practice Questions (Physics C: Mechanics 7.1)"
+seoTitle: "Physics C Mechanics 7.1 Simple Harmonic Motion Practice"
 description: "Seven original Marlbridge calculus-based practice questions on the SHM condition: force laws, shifted equilibria, vertical springs, k from U(x) and periodic motion that is not SHM."
 course: "physics-c-mechanics"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.15-study-guide"
 title: "Carrying Out a Chi-Square Test for Homogeneity or Independence: Study Guide (Statistics 3.15)"
+seoTitle: "Statistics 3.15 Carrying Out a Chi-Square Test Study Guide"
 description: "Learn to calculate expected counts, the chi-square statistic, degrees of freedom and the p-value for a two-way table, then interpret the p-value and write a conclusion in context."
 course: "statistics"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.4-checklist"
 title: "Government Deficits and the National Debt: Topic Checklist (Macroeconomics 5.4)"
+seoTitle: "Macroeconomics 5.4 Deficits and the National Debt Checklist"
 description: "Specific “I can…” statements for government deficits and the national debt, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5

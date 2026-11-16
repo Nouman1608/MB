@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.11-checklist"
 title: "Spectroscopy and the Electromagnetic Spectrum: Topic Checklist (Chemistry 3.11)"
+seoTitle: "Chemistry 3.11 Spectroscopy and the EM Spectrum Checklist"
 description: "Specific “I can…” statements for spectral regions and molecular transitions, each linked to the guide section and practice question that shows whether you can really do it."
 course: "chemistry"
 unit: 3

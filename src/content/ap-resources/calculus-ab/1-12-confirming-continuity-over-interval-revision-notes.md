@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.12-revision-notes"
 title: "Confirming Continuity over an Interval: Revision Notes (Calculus AB 1.12)"
+seoTitle: "Calculus AB 1.12 Continuity over an Interval Revision Notes"
 description: "One-page recap of continuity on an interval: where each function family is continuous, how to handle piecewise boundaries and closed-interval endpoints, and the mistakes to avoid."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.5-study-guide"
 title: "Selecting Procedures for Calculating Derivatives: Study Guide (Calculus AB 3.5)"
+seoTitle: "Calculus AB 3.5 Selecting Procedures for Derivatives Guide"
 description: "Learn how to choose the right derivative rule: rewrite first, find the last operation, then apply power, product, quotient, chain, implicit or inverse rules in order."
 course: "calculus-ab"
 unit: 3

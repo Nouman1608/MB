@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.3-study-guide"
 title: "Determining Intervals on Which a Function Is Increasing or Decreasing: Study Guide (Calculus AB 5.3)"
+seoTitle: "Calculus AB 5.3 Increasing and Decreasing Intervals Guide"
 description: "Learn how the sign of the first derivative tells you where a function rises or falls, how to build a sign chart, and how to write a justification that earns credit."
 course: "calculus-ab"
 unit: 5

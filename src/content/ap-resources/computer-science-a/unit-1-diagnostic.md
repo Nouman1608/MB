@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-u1-diagnostic"
 title: "Using Objects and Methods: Unit Diagnostic (Computer Science A Unit 1)"
+seoTitle: "Computer Science A Unit 1 Objects and Methods Diagnostic"
 description: "A 40-minute check with one short question per topic of Unit 1, from algorithms and variables to methods, objects and strings, showing which study guides to revisit."
 course: "computer-science-a"
 unit: 1

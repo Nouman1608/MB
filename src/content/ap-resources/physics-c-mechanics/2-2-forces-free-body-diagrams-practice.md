@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.2-practice"
 title: "Forces and Free-Body Diagrams: Practice Questions (Physics C: Mechanics 2.2)"
+seoTitle: "Physics C Mechanics 2.2 Forces, Free-Body Diagrams Practice"
 description: "Seven original Marlbridge practice questions on forces as interactions, internal and external forces, free-body diagram conventions, tilted axes and choosing a system."
 course: "physics-c-mechanics"
 unit: 2

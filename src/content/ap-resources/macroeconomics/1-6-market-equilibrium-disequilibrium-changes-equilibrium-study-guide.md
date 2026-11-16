@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.6-study-guide"
 title: "Market Equilibrium and Changes in Equilibrium: Study Guide (Macroeconomics 1.6)"
+seoTitle: "Macroeconomics 1.6 Market Equilibrium Study Guide"
 description: "Learn how demand and supply set the equilibrium price and quantity, how to calculate a surplus or shortage, how prices restore equilibrium and how shifts change the outcome."
 course: "macroeconomics"
 unit: 1

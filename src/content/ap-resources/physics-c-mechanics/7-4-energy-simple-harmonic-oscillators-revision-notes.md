@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.4-revision-notes"
 title: "Energy of Simple Harmonic Oscillators: Revision Notes (Physics C: Mechanics 7.4)"
+seoTitle: "Physics C Mechanics 7.4 Harmonic Oscillator Energy Notes"
 description: "One-page recap of energy in simple harmonic motion: E = K + U = ½kA², energy against position and time, amplitude from energy, and the effect of changing A, m or k."
 course: "physics-c-mechanics"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics C: Mechanics)"
+seoTitle: "Physics C Mechanics Task Verbs, Free-Response Exam Skills"
 description: "What each free-response task verb asks for in calculus-based mechanics, how much to write, how to plan the section and show working, with original worked examples, rubrics and practice."
 course: "physics-c-mechanics"
 unit: 1

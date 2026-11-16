@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.2-checklist"
 title: "Sampling Distributions for Sample Proportions: Topic Checklist (Statistics 3.2)"
+seoTitle: "Statistics 3.2 Sample Proportion Distributions Checklist"
 description: "Specific “I can…” statements for the sampling distribution of a sample proportion, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3

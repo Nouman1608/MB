@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.1-study-guide"
 title: "Introducing Statistics: What Can We Learn from Data? Study Guide (Statistics 1.1)"
+seoTitle: "Statistics 1.1 Introducing Statistics Study Guide"
 description: "Learn the parts of a statistical study (population, sample, N, n, data and the investigative question), why we sample, and how to state results in context."
 course: "statistics"
 unit: 1

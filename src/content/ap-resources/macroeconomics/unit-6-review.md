@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u6-review"
 title: "Open Economy, International Trade and Finance: Mixed Unit Review (Macroeconomics Unit 6)"
+seoTitle: "Macroeconomics Unit 6 Open Economy and Trade Review"
 description: "Connect the balance of payments, exchange rates, the foreign exchange market, net exports and capital flows, then try six original questions that each combine two or more Unit 6 topics."
 course: "macroeconomics"
 unit: 6

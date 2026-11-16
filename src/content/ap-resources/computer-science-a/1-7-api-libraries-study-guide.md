@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.7-study-guide"
 title: "Application Program Interface (API) and Libraries: Study Guide (Computer Science A 1.7)"
+seoTitle: "Computer Science A 1.7 API and Libraries Study Guide"
 description: "Learn what libraries, packages, classes and an API specification are, how to read API documentation, and how attributes and behaviors describe what a class offers."
 course: "computer-science-a"
 unit: 1

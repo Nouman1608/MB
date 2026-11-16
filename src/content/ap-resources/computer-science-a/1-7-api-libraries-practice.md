@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.7-practice"
 title: "Application Program Interface (API) and Libraries: Practice Questions (Computer Science A 1.7)"
+seoTitle: "Computer Science A 1.7 API and Libraries Practice"
 description: "Ten original Marlbridge practice questions on libraries, packages, API documentation, attributes and behaviors, and using Math and String methods from their documentation."
 course: "computer-science-a"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.3-checklist"
 title: "Induced Currents and Magnetic Forces: Topic Checklist (Physics C: E&M 13.3)"
+seoTitle: "Physics C E&M 13.3 Induced Currents Topic Checklist"
 description: "Specific “I can…” statements for magnetic forces on induced currents in the calculus-based course, each linked to the guide section and practice question that tests it."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

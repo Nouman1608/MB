@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.5-practice"
 title: "Selecting Procedures for Calculating Derivatives: Practice Questions (Calculus AB 3.5)"
+seoTitle: "Calculus AB 3.5 Choosing Derivative Procedures Practice"
 description: "Seven original Marlbridge practice questions on choosing derivative rules: rewriting, product, quotient, chain, implicit, inverse and table values, with full solutions."
 course: "calculus-ab"
 unit: 3

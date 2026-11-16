@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-u2-review"
 title: "Selection and Iteration: Mixed Unit Review (Computer Science A Unit 2)"
+seoTitle: "Computer Science A Unit 2 Selection and Iteration Review"
 description: "Seven original Java review questions that combine Unit 2 topics: Boolean logic, if statements, while and for loops, nested loops and algorithm tracing, with traced solutions and suggested rubrics."
 course: "computer-science-a"
 unit: 2

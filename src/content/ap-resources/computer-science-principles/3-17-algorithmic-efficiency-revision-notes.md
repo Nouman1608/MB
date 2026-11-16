@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.17-revision-notes"
 title: "Algorithmic Efficiency: Revision Notes (Computer Science Principles 3.17)"
+seoTitle: "CS Principles 3.17 Algorithmic Efficiency Revision Notes"
 description: "One-page recap of algorithmic efficiency: problems and instances, decision versus optimization, counting executions, reasonable versus unreasonable time, and heuristics."
 course: "computer-science-principles"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.4-practice"
 title: "Government Deficits and the National Debt: Practice Questions (Macroeconomics 5.4)"
+seoTitle: "Macroeconomics 5.4 Deficits and the National Debt Practice"
 description: "Seven original Marlbridge practice questions on budget surpluses and deficits, how deficits change the national debt, and the burden of interest on the debt, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 5

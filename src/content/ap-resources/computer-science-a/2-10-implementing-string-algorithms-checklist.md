@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-2.10-checklist"
 title: "Implementing String Algorithms: Topic Checklist (Computer Science A 2.10)"
+seoTitle: "Computer Science A 2.10 String Algorithms Topic Checklist"
 description: "Specific I can statements for standard algorithms that process strings with loops, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 2

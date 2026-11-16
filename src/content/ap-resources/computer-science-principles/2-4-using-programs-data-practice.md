@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.4-practice"
 title: "Using Programs with Data: Practice Questions (Computer Science Principles 2.4)"
+seoTitle: "CS Principles 2.4 Using Programs with Data Practice"
 description: "Ten original practice questions on tracing list-processing code, filtering, transforming, combining data sources and planning an analysis, with explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 2

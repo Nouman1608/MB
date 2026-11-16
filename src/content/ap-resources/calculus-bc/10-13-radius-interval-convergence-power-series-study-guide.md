@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.13-study-guide"
 title: "Radius and Interval of Convergence of Power Series: Study Guide (Calculus BC 10.13)"
+seoTitle: "Calculus BC 10.13 Power Series Convergence Study Guide"
 description: "Find where a power series converges: use the ratio test for the radius, test both endpoints for the interval, and see how term-by-term calculus keeps the radius."
 course: "calculus-bc"
 unit: 10

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.11-revision-notes"
 title: "Justifying a Claim Based on a Confidence Interval for Two Proportions: Revision Notes (Statistics 3.11)"
+seoTitle: "Statistics 3.11 Two-Proportion CI Claims Revision Notes"
 description: "One-page recap of interpreting a confidence interval and confidence level for p₁ − p₂, and using 0 and the endpoint signs to judge claims, with the mistakes that cost marks."
 course: "statistics"
 unit: 3

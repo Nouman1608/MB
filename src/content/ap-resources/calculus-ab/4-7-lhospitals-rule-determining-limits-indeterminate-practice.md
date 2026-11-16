@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.7-practice"
 title: "Using L'Hospital's Rule for Determining Limits of Indeterminate Forms: Practice Questions (Calculus AB 4.7)"
+seoTitle: "Calculus AB 4.7 L'Hospital's Rule Practice Questions"
 description: "Seven original Marlbridge practice questions on L'Hospital's Rule for 0/0 and ∞/∞ limits, with written checks, full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 4

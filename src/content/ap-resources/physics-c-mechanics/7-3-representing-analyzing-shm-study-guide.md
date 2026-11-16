@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.3-study-guide"
 title: "Representing and Analyzing SHM: Study Guide (Physics C: Mechanics 7.3)"
+seoTitle: "Physics C Mechanics 7.3 Representing, Analyzing SHM Guide"
 description: "Calculus-based simple harmonic motion: the differential equation from Newton's second law, x = A cos(ωt + φ₀), velocity and acceleration by differentiation, graphs, and resonance."
 course: "physics-c-mechanics"
 unit: 7

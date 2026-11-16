@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.4-study-guide"
 title: "Defining and Differentiating Vector-Valued Functions: Study Guide (Calculus BC 9.4)"
+seoTitle: "Calculus BC 9.4 Vector-Valued Function Derivatives Guide"
 description: "Learn what a vector-valued function is, why its derivative is found one component at a time, and how r′(t) gives tangent direction, slope and the second derivative r″(t)."
 course: "calculus-bc"
 unit: 9

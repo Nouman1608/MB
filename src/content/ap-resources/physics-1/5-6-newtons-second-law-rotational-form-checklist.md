@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.6-checklist"
 title: "Newton's Second Law in Rotational Form: Topic Checklist (Physics 1 5.6)"
+seoTitle: "Physics 1 5.6 Newton's Second Law Rotational Form Checklist"
 description: "Specific “I can…” statements for the rotational second law in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 5

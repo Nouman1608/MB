@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.4-revision-notes"
 title: "Identifying and Correcting Errors: Revision Notes (Computer Science Principles 1.4)"
+seoTitle: "CS Principles 1.4 Identifying and Correcting Errors Notes"
 description: "One-page recap of error types, test cases, expected outputs, boundary inputs and debugging techniques such as hand tracing and extra output statements."
 course: "computer-science-principles"
 unit: 1

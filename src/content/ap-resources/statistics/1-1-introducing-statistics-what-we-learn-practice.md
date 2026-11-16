@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.1-practice"
 title: "Introducing Statistics: What Can We Learn from Data? Practice Questions (Statistics 1.1)"
+seoTitle: "Statistics 1.1 Introducing Statistics Practice Questions"
 description: "Seven original Marlbridge practice questions on populations, samples, N and n, investigative questions and writing in context, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

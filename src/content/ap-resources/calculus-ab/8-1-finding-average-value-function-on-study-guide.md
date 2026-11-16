@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.1-study-guide"
 title: "Finding the Average Value of a Function on an Interval: Study Guide (Calculus AB 8.1)"
+seoTitle: "Calculus AB 8.1 Average Value of a Function Study Guide"
 description: "Learn why the average value of a function is an integral divided by the interval length, what it means on a graph, and how to find it from formulas, tables and graphs."
 course: "calculus-ab"
 unit: 8

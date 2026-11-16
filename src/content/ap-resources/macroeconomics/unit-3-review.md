@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u3-review"
 title: "National Income and Price Determination: Mixed Unit Review (Macroeconomics Unit 3)"
+seoTitle: "Macroeconomics Unit 3 National Income and Prices Review"
 description: "Connect AD, multipliers, SRAS, LRAS, equilibrium, shocks, self-adjustment and fiscal policy, then try six original questions that each combine two or more Unit 3 topics, with worked solutions."
 course: "macroeconomics"
 unit: 3

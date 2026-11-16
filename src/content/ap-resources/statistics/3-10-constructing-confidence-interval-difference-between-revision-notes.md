@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.10-revision-notes"
 title: "Constructing a Confidence Interval for a Difference in Two Proportions: Revision Notes (Statistics 3.10)"
+seoTitle: "Statistics 3.10 Two-Proportion Confidence Interval Notes"
 description: "One-page recap of the two-sample z-interval for p1 − p2: the parameter, the three conditions, standard error, margin of error, reading an interval and the mistakes that cost marks."
 course: "statistics"
 unit: 3

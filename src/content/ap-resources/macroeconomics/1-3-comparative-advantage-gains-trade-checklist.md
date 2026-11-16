@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.3-checklist"
 title: "Comparative Advantage and Gains from Trade: Topic Checklist (Macroeconomics 1.3)"
+seoTitle: "Macroeconomics 1.3 Comparative Advantage Topic Checklist"
 description: "Specific “I can…” statements for comparative advantage and gains from trade, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 1

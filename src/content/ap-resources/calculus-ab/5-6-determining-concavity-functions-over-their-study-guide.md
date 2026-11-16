@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.6-study-guide"
 title: "Determining Concavity of Functions over Their Domains: Study Guide (Calculus AB 5.6)"
+seoTitle: "Calculus AB 5.6 Determining Concavity of Functions Guide"
 description: "Learn what concave up and concave down mean, how the sign of f″ or the behaviour of f′ decides concavity, and how to find and justify points of inflection."
 course: "calculus-ab"
 unit: 5

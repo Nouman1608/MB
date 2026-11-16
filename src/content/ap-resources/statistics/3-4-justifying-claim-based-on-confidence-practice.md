@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.4-practice"
 title: "Justifying a Claim Based on a Confidence Interval for a Proportion: Practice Questions (Statistics 3.4)"
+seoTitle: "Statistics 3.4 Justifying a Claim, Proportion CI Practice"
 description: "Seven original Marlbridge practice questions on interpreting confidence intervals and levels, judging claims, and the effects of sample size and confidence level, with suggested rubrics."
 course: "statistics"
 unit: 3

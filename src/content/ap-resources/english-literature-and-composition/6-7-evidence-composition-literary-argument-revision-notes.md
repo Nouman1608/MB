@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.7-revision-notes
 title: 'Evidence and Composition in a Literary Argument: Revision Notes (English Literature 6.7)'
+seoTitle: "English Literature 6.7 Literary Argument Evidence Notes"
 description: 'Revision notes on evidence and composition in a literary argument: the six jobs of evidence, relevance and sufficiency, integrating quotations, coordination, subordination and punctuation, with a self-check.'
 course: english-literature-and-composition
 unit: 6

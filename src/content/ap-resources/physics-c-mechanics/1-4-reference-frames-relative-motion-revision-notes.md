@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.4-revision-notes"
 title: "Reference Frames and Relative Motion: Revision Notes (Physics C: Mechanics 1.4)"
+seoTitle: "Physics C Mechanics 1.4 Frames and Relative Motion Notes"
 description: "One-page recap of reference frames and relative motion: subscript notation, vector addition of velocities between frames, and why inertial observers agree on acceleration."
 course: "physics-c-mechanics"
 unit: 1

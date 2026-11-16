@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.8-checklist"
 title: "Volumes with Cross Sections: Triangles and Semicircles: Topic Checklist (Calculus AB 8.8)"
+seoTitle: "Calculus AB 8.8 Cross Sections Triangles Topic Checklist"
 description: "Specific “I can…” statements for volumes with triangular, semicircular and other cross sections, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 8

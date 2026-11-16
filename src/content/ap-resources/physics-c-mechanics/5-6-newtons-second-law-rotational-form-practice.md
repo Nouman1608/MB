@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.6-practice"
 title: "Newton’s Second Law in Rotational Form: Practice Questions (Physics C: Mechanics 5.6)"
+seoTitle: "Physics C Mechanics 5.6 Rotational Newton's 2nd Law Practice"
 description: "Seven original Marlbridge calculus-based practice questions on α = Στ/I: factors of change, time-dependent torques, axle forces, a stepped pulley, measuring I with friction, and a drag torque."
 course: "physics-c-mechanics"
 unit: 5

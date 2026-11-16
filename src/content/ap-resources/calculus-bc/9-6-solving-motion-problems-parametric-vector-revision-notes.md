@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.6-revision-notes"
 title: "Solving Motion Problems Using Parametric and Vector-Valued Functions: Revision Notes (Calculus BC 9.6)"
+seoTitle: "Calculus BC 9.6 Parametric and Vector Motion Problems Notes"
 description: "One-page recap of planar motion: velocity, acceleration and speed, direction and rest, speeding up, and displacement, position and distance from integrals."
 course: "calculus-bc"
 unit: 9

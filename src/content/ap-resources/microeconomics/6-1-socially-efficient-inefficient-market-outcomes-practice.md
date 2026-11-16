@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.1-practice"
 title: "Socially Efficient and Inefficient Market Outcomes: Practice Questions (Microeconomics 6.1)"
+seoTitle: "Microeconomics 6.1 Socially Efficient Outcomes Practice"
 description: "Seven original Marlbridge practice questions on the efficient quantity, sources of market inefficiency, deadweight loss and cost-benefit analysis of policy, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 6

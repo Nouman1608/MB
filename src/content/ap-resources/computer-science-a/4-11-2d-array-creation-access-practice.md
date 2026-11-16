@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.11-practice"
 title: "2D Array Creation and Access: Practice Questions (Computer Science A 4.11)"
+seoTitle: "Computer Science A 4.11 2D Array Creation, Access Practice"
 description: "Ten original questions on 2D arrays: sizes and defaults, reading and writing cells, rows as arrays, aliasing, swapping rows, index exceptions, plus two code-writing tasks."
 course: "computer-science-a"
 unit: 4

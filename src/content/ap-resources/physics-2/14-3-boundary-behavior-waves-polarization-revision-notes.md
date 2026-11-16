@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.3-revision-notes"
 title: "Boundary Behavior of Waves and Polarization: Revision Notes (Physics 2 14.3)"
+seoTitle: "Physics 2 14.3 Wave Boundaries and Polarization Notes"
 description: "One-page recap of reflection and transmission at a boundary, when a reflected pulse is inverted, fixed frequency, polarization of transverse waves and intensity."
 course: "physics-2"
 unit: 14

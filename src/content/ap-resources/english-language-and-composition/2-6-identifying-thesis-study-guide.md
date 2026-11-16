@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.6-study-guide"
 title: "Identifying the Thesis of an Argument: Study Guide (English Language 2.6)"
+seoTitle: "English Language 2.6 Identifying the Thesis Study Guide"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.6"]

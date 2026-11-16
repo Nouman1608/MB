@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.8-practice"
 title: "Selecting Evidence and Controlling Composition: Practice Questions (English Literature 3.8)"
+seoTitle: "English Lit 3.8 Selecting Evidence and Composition Practice"
 description: "Eight original Marlbridge questions on selecting evidence and controlling composition: relevance, the purpose of evidence, quotation punctuation and sentence errors, with answers and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 3

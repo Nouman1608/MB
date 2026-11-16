@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.6-revision-notes"
 title: "Thesis and commentary in a literary argument essay: Revision Notes (English Literature 9.6)"
+seoTitle: "English Lit 9.6 Literary Argument Thesis Revision Notes"
 description: "A one-page recap of thesis and commentary in a literary argument essay: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 9

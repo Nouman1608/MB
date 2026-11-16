@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u1-review"
 title: "Creative Development: Mixed Unit Review (Computer Science Principles Unit 1)"
+seoTitle: "CS Principles Unit 1 Creative Development Review"
 description: "Big ideas, a one-table method summary and six original exam-style questions that combine Unit 1 topics, with worked solutions and suggested rubrics."
 course: "computer-science-principles"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.6-practice"
 title: "Thesis and Commentary in a Prose Analysis: Practice Questions (English Literature 4.6)"
+seoTitle: "English Literature 4.6 Prose Analysis Thesis Practice"
 description: "Original Marlbridge practice questions on how to write a defensible thesis and developed commentary in an essay analysing a passage of prose fiction, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 4

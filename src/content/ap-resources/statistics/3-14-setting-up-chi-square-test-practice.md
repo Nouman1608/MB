@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.14-practice"
 title: "Setting Up a Chi-Square Test for Homogeneity or Independence: Practice Questions (Statistics 3.14)"
+seoTitle: "Statistics 3.14 Setting Up a Chi-Square Test Practice"
 description: "Seven original Marlbridge practice questions on chi-square distributions, choosing homogeneity or independence, writing hypotheses and checking conditions, with suggested rubrics."
 course: "statistics"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.3-practice"
 title: "Constructing a Confidence Interval for a Population Proportion: Practice Questions (Statistics 3.3)"
+seoTitle: "Statistics 3.3 Proportion Confidence Interval Practice"
 description: "Seven original Marlbridge practice questions on the one-sample z-interval for a proportion: critical values, conditions, margin of error, sample size and spotting errors, with suggested rubrics."
 course: "statistics"
 unit: 3

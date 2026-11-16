@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.5-practice"
 title: "Finding the Area Between Curves Expressed as Functions of y: Practice Questions (Calculus AB 8.5)"
+seoTitle: "Calculus AB 8.5 Area Between Curves in y Practice Questions"
 description: "Seven original Marlbridge practice questions on the area between curves with horizontal strips, including rewriting curves and calculator intersections, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

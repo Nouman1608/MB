@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-exam-skills-free-response-essays"
 title: "The Three Free-Response Essays: Exam Skills Guide (English Literature)"
+seoTitle: "English Lit The Three Free-Response Essays Exam Skills Guide"
 description: "How to plan and write the poetry analysis, prose fiction analysis and literary argument essays: thesis, evidence with commentary, sophistication and timing, with original annotated models and a rubric."
 course: "english-literature-and-composition"
 unit: 1

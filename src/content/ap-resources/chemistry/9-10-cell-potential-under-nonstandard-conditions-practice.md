@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.10-practice"
 title: "Cell Potential Under Nonstandard Conditions: Practice Questions (Chemistry 9.10)"
+seoTitle: "Chemistry 9.10 Nonstandard Cell Potential Practice"
 description: "Seven original Marlbridge practice questions on how concentration changes affect cell potential, cells running down, concentration cells and qualitative Nernst reasoning, with mark points."
 course: "chemistry"
 unit: 9

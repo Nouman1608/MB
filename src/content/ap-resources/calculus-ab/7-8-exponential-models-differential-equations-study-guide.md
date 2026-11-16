@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.8-study-guide"
 title: "Exponential Models with Differential Equations: Study Guide (Calculus AB 7.8)"
+seoTitle: "Calculus AB 7.8 Exponential Models with DEs Study Guide"
 description: "Learn how the sentence 'rate proportional to amount' becomes dy/dt = ky, why its solutions are y = y₀e^(kt), and how to find, check and interpret k in context."
 course: "calculus-ab"
 unit: 7

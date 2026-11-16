@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.5-study-guide"
 title: "Graphical Representations for One Quantitative Variable: Study Guide (Statistics 1.5)"
+seoTitle: "Statistics 1.5 Graphing One Quantitative Variable Guide"
 description: "Learn to construct dotplots, stem-and-leaf plots and frequency or relative frequency histograms for one quantitative variable, and see how bin width changes a histogram."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.5-study-guide"
 title: "Legal and Ethical Concerns: Study Guide (Computer Science Principles 5.5)"
+seoTitle: "CS Principles 5.5 Legal and Ethical Concerns Study Guide"
 description: "Intellectual property, plagiarism, Creative Commons, open source and open access, citation, and the legal and ethical concerns raised by computing innovations, with two worked examples and a balanced method."
 course: "computer-science-principles"
 unit: 5

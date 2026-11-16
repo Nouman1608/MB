@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.6-practice"
 title: "Circuits with Capacitors and Inductors (LC Circuits): Practice Questions (Physics C: E&M 13.6)"
+seoTitle: "Physics C E&M 13.6 LC Circuits Practice Questions"
 description: "Seven original Marlbridge practice questions on LC circuits: frequency, phase, energy, maximum current and charge, an experiment on period and a derivation, with solutions and suggested mark points."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

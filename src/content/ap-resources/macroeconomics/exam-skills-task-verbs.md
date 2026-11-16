@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Macroeconomics)"
+seoTitle: "Macroeconomics Task Verbs and Free-Response Exam Skills"
 description: "What each free-response task verb asks for in economics answers, how much to write, how to read a multi-part question, plan your time and show work, with original examples."
 course: "macroeconomics"
 unit: 1

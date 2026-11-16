@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.12-checklist"
 title: "Exploring Behaviors of Implicit Relations: Topic Checklist (Calculus AB 5.12)"
+seoTitle: "Calculus AB 5.12 Behaviors of Implicit Relations Checklist"
 description: "Specific “I can…” statements for critical points, sign analysis and second derivatives of implicit curves, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 5

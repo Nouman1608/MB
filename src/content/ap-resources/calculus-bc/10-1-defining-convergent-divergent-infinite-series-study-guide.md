@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.1-study-guide"
 title: "Defining Convergent and Divergent Infinite Series: Study Guide (Calculus BC 10.1)"
+seoTitle: "Calculus BC 10.1 Convergent and Divergent Series Guide"
 description: "Learn what an infinite series is, how partial sums are built, and how the limit of the partial sums decides whether a series converges or diverges, with telescoping examples."
 course: "calculus-bc"
 unit: 10

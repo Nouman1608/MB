@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.16-checklist"
 title: "Working with the Intermediate Value Theorem: Topic Checklist (Calculus AB 1.16)"
+seoTitle: "Calculus AB 1.16 Intermediate Value Theorem Topic Checklist"
 description: "Specific “I can…” statements for the Intermediate Value Theorem, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 1

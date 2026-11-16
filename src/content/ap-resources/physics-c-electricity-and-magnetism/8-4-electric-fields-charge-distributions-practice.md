@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.4-practice"
 title: "Electric Fields of Charge Distributions: Practice Questions (Physics C: E&M 8.4)"
+seoTitle: "Physics C E&M 8.4 Fields of Charge Distributions Practice"
 description: "Seven original Marlbridge practice questions on fields of continuous charge: rods, rings, arcs and long lines, with full solutions and suggested mark points."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

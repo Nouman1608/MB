@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.5-practice
 title: 'Developing Ideas Through Definition and Description: Practice Questions (English Language 4.5)'
+seoTitle: "English Language 4.5 Definition and Description Practice"
 description: 'Eight original Marlbridge practice questions on definition and description as methods of development: identifying features, judging fairness, and writing concrete definitions and descriptions.'
 course: english-language-and-composition
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.4-study-guide
 title: 'Developing Ideas Through Comparison-Contrast: Study Guide (English Language 4.4)'
+seoTitle: "English Language 4.4 Comparison-Contrast Development Guide"
 description: 'How writers develop ideas through comparison and contrast: choosing like categories of comparison, organising point by point or block by block, and using the comparison to advance an argument.'
 course: english-language-and-composition
 unit: 4

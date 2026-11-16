@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-9.8-revision-notes"
 title: "Galvanic (Voltaic) and Electrolytic Cells: Revision Notes (Chemistry 9.8)"
+seoTitle: "Chemistry 9.8 Galvanic and Electrolytic Cells Notes"
 description: "One-page recap of galvanic and electrolytic cells: the job of each part, anode and cathode, electron and ion flow, observations, and the mistakes that cost marks."
 course: "chemistry"
 unit: 9

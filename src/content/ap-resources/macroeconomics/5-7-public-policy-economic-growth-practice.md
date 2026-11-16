@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.7-practice"
 title: "Public Policy and Economic Growth: Practice Questions (Macroeconomics 5.7)"
+seoTitle: "Macroeconomics 5.7 Policy and Economic Growth Practice"
 description: "Seven original Marlbridge practice questions on growth policies, labour force participation, productivity and supply-side fiscal policy, with worked solutions and suggested rubrics."
 course: "macroeconomics"
 unit: 5

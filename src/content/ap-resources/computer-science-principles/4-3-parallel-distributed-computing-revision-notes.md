@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-4.3-revision-notes"
 title: "Parallel and Distributed Computing: Revision Notes (Computer Science Principles 4.3)"
+seoTitle: "CS Principles 4.3 Parallel and Distributed Computing Notes"
 description: "One-page recap of sequential, parallel and distributed computing, run-time and speedup calculations, the limit set by the sequential portion and the benefits and challenges."
 course: "computer-science-principles"
 unit: 4

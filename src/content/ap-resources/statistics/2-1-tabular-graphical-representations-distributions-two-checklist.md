@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.1-checklist"
 title: "Tabular and Graphical Representations for Two Categorical Variables: Topic Checklist (Statistics 2.1)"
+seoTitle: "Statistics 2.1 Graphing Two Categorical Variables Checklist"
 description: "Specific “I can…” statements for two-way tables and graphs of two categorical variables, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 2

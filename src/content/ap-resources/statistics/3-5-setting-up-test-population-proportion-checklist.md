@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.5-checklist"
 title: "Setting Up a Test for a Population Proportion: Topic Checklist (Statistics 3.5)"
+seoTitle: "Statistics 3.5 Setting Up a Test for a Proportion Checklist"
 description: "Specific “I can…” statements for setting up a one-sample z-test for a population proportion, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3

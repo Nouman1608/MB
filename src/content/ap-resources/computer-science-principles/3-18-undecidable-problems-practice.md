@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.18-practice"
 title: "Undecidable Problems: Practice Questions (Computer Science Principles 3.18)"
+seoTitle: "CS Principles 3.18 Undecidable Problems Practice Questions"
 description: "Nine original Marlbridge practice questions on decidable and undecidable problems, the halting problem, solvable instances and how this differs from unreasonable running time, with a suggested rubric."
 course: "computer-science-principles"
 unit: 3

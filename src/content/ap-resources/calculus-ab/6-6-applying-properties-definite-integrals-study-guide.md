@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.6-study-guide"
 title: "Applying Properties of Definite Integrals: Study Guide (Calculus AB 6.6)"
+seoTitle: "Calculus AB 6.6 Properties of Definite Integrals Study Guide"
 description: "Learn to evaluate definite integrals with geometry and with the rules for constants, sums, reversed limits and adjacent intervals, including integrands with jumps or holes."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.10-study-guide"
 title: "The Investigative Question Revisited and Data Collection: Study Guide (Statistics 1.10)"
+seoTitle: "Statistics 1.10 Data Collection Study Guide"
 description: "Learn the three parts of an investigative question, how to tell a census, an observational study and an experiment apart, what confounding means, and who a study's conclusions apply to."
 course: "statistics"
 unit: 1

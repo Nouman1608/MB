@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.1-study-guide"
 title: "Structure and contrasts in poetry: Study Guide (English Literature 8.1)"
+seoTitle: "English Lit 8.1 Structure and Contrasts in Poetry Guide"
 description: "Learn how a poem's structure (volta, line and stanza breaks, punctuation, patterns and their interruption) and its contrasts (juxtaposition, irony, paradox) create meaning."
 course: "english-literature-and-composition"
 unit: 8

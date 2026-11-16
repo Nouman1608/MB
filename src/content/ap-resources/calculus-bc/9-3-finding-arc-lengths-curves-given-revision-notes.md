@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.3-revision-notes"
 title: "Finding Arc Lengths of Curves Given by Parametric Equations: Revision Notes (Calculus BC 9.3)"
+seoTitle: "Calculus BC 9.3 Arc Length of Parametric Curves Notes"
 description: "One-page recap of parametric arc length: the integral and where it comes from, when it gives the length, exact versus calculator answers, and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 9

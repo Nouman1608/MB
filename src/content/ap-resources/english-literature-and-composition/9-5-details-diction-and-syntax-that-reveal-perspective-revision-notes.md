@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.5-revision-notes"
 title: "Details, diction and syntax that reveal perspective: Revision Notes (English Literature 9.5)"
+seoTitle: "English Lit 9.5 Diction and Syntax for Perspective Notes"
 description: "A one-page recap of details, diction and syntax that reveal perspective: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 9

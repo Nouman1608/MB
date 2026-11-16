@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.3-revision-notes
 title: 'Sequence and Contrasts in a Longer Plot: Revision Notes (English Literature 6.3)'
+seoTitle: "English Literature 6.3 Sequence and Contrasts in Plot Notes"
 description: 'Revision notes on plot order, interruptions of chronology and contrasts in longer works: techniques and effects in one table, a method for explaining function, and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 6

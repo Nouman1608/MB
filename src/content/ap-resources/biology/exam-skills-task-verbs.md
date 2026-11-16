@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-bio-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Biology)"
+seoTitle: "Biology Task Verbs and Free-Response Exam Skills Guide"
 description: "What each free-response task verb asks for and how much to write, how to read multi-part questions, plan your time and set out calculations, with three worked answers shown weak and strong."
 course: "biology"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.1-checklist"
 title: "Quantum Theory and Wave-Particle Duality: Topic Checklist (Physics 2 15.1)"
+seoTitle: "Physics 2 15.1 Wave-Particle Duality Topic Checklist"
 description: "Specific “I can…” statements for photons, wave-particle duality and de Broglie wavelengths, each linked to the guide section and practice question that tests it."
 course: "physics-2"
 unit: 15

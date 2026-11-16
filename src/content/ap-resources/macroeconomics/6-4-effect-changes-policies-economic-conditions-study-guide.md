@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.4-study-guide"
 title: "Policies, Economic Conditions and the Foreign Exchange Market: Study Guide (Macroeconomics 6.4)"
+seoTitle: "Macroeconomics 6.4 Policies and Foreign Exchange Study Guide"
 description: "Learn what shifts the demand for and supply of a currency, including tastes, incomes, inflation, interest rates, trade barriers and fiscal and monetary policy, and how each shift changes the equilibrium exchange rate."
 course: "macroeconomics"
 unit: 6

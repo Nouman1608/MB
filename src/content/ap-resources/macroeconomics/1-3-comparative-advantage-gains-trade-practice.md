@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-1.3-practice"
 title: "Comparative Advantage and Gains from Trade: Practice Questions (Macroeconomics 1.3)"
+seoTitle: "Macroeconomics 1.3 Comparative Advantage Practice Questions"
 description: "Seven original Marlbridge practice questions on absolute and comparative advantage, opportunity cost from output and input data, terms of trade and gains from trade, with worked solutions."
 course: "macroeconomics"
 unit: 1

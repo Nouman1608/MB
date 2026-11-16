@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-2.7-checklist"
 title: "Writing a Defensible Thesis Statement: Topic Checklist (English Language 2.7)"
+seoTitle: "English Language 2.7 Writing a Defensible Thesis Checklist"
 course: "english-language-and-composition"
 unit: 2
 topics: ["2.7"]

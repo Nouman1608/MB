@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u5-review"
 title: "Analytical Applications of Differentiation: Mixed Unit Review (Calculus AB Unit 5)"
+seoTitle: "Calculus AB Unit 5 Analytical Differentiation Unit Review"
 description: "The big ideas of Analytical Applications of Differentiation in one place, a methods summary table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-ab"
 unit: 5

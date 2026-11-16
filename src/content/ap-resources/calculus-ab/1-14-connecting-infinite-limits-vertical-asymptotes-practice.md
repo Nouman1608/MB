@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.14-practice"
 title: "Connecting Infinite Limits and Vertical Asymptotes: Practice Questions (Calculus AB 1.14)"
+seoTitle: "Calculus AB 1.14 Infinite Limits and Asymptotes Practice"
 description: "Seven original Marlbridge practice questions on one-sided infinite limits, sign checks, holes versus vertical asymptotes and limit-based justifications, with full solutions."
 course: "calculus-ab"
 unit: 1

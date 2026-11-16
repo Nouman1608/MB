@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.13-revision-notes"
 title: "Object Creation and Storage (Instantiation): Revision Notes (Computer Science A 1.13)"
+seoTitle: "Computer Science A 1.13 Object Instantiation Notes"
 description: "A one-page recap of constructors, creating objects with new, constructor signatures and overloading, null references, and how arguments and control flow work in a constructor call."
 course: "computer-science-a"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.2-revision-notes"
 title: "Intramolecular Force and Potential Energy: Revision Notes (Chemistry 2.2)"
+seoTitle: "Chemistry 2.2 Intramolecular Force and Energy Notes"
 description: "One-page recap of potential energy curves, bond length, bond energy, the effects of atom size and bond order, and Coulomb's law for ions, with the mistakes that cost marks."
 course: "chemistry"
 unit: 2

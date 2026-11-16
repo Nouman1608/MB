@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.3-practice
 title: 'Sequence and Contrasts in a Longer Plot: Practice Questions (English Literature 6.3)'
+seoTitle: "English Lit 6.3 Sequence and Contrasts in Plot Practice"
 description: Nine original Marlbridge practice questions on plot order, flashback, foreshadowing, in medias res, stream of consciousness and contrasts in longer works, with full answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

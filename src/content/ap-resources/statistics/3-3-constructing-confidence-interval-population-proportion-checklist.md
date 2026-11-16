@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.3-checklist"
 title: "Constructing a Confidence Interval for a Population Proportion: Topic Checklist (Statistics 3.3)"
+seoTitle: "Statistics 3.3 Proportion Confidence Interval Checklist"
 description: "Specific “I can…” statements for building a one-sample z-interval for a proportion, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 3

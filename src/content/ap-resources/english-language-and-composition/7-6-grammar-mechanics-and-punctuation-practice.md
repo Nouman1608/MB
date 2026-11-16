@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.6-practice"
 title: "Grammar, Mechanics and Punctuation: Practice Questions (English Language 7.6)"
+seoTitle: "English Language 7.6 Grammar and Punctuation Practice"
 description: "8 original Marlbridge practice questions on punctuation and grammar conventions that enable clear communication and shape relationships among ideas, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-9.3-practice"
 title: "Thermal Energy Transfer and Equilibrium: Practice Questions (Physics 2 9.3)"
+seoTitle: "Physics 2 9.3 Thermal Energy Transfer Practice Questions"
 description: "Seven original Marlbridge practice questions on heating and cooling, thermal processes, collisions between atoms and thermal equilibrium, with full solutions."
 course: "physics-2"
 unit: 9

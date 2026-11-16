@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.6-revision-notes"
 title: "Methods: Passing and Returning References of an Object: Revision Notes (Computer Science A 3.6)"
+seoTitle: "Computer Science A 3.6 Passing Object References Notes"
 description: "One-page recap of passing and returning object references in Java: copy of the reference, mutating versus reassigning, returned references, and access to private data of a parameter."
 course: "computer-science-a"
 unit: 3

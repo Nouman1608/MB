@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.14-revision-notes"
 title: "Finding Taylor or Maclaurin Series for a Function: Revision Notes (Calculus BC 10.14)"
+seoTitle: "Calculus BC 10.14 Taylor or Maclaurin Series Notes"
 description: "One-page recap of Taylor and Maclaurin series: the general formula, the four series to know with their intervals, reading derivatives from coefficients and the common slips."
 course: "calculus-bc"
 unit: 10

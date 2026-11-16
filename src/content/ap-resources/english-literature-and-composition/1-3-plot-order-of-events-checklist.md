@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.3-checklist"
 title: "Plot: How Events Are Ordered and Why: Topic Checklist (English Literature 1.3)"
+seoTitle: "English Literature 1.3 Plot and Order of Events Checklist"
 description: "Specific I can statements for reading plot in short fiction, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 1

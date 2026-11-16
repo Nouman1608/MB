@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-6.6-checklist"
 title: "Real Interest Rates and International Capital Flows: Topic Checklist (Macroeconomics 6.6)"
+seoTitle: "Macroeconomics 6.6 Real Interest Rates and Capital Checklist"
 description: "Specific “I can…” statements for real interest rates and international capital flows, each linked to the guide section and practice question that tests it."
 course: "macroeconomics"
 unit: 6

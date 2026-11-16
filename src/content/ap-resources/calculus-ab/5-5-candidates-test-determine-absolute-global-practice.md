@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.5-practice"
 title: "Using the Candidates Test to Find Absolute Extrema: Practice Questions (Calculus AB 5.5)"
+seoTitle: "Calculus AB 5.5 Candidates Test Practice Questions"
 description: "Seven original Marlbridge practice questions on absolute extrema over closed intervals, from tables, formulas and a context, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

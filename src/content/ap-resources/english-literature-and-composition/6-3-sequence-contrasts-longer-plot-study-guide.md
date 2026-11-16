@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.3-study-guide
 title: 'Sequence and Contrasts in a Longer Plot: Study Guide (English Literature 6.3)'
+seoTitle: "English Literature 6.3 Sequence and Contrasts in Plot Guide"
 description: 'How the sequence of events and contrasts in a longer plot shape meaning: flashback, foreshadowing, in medias res, stream of consciousness, and how contrasts add nuance to a text.'
 course: english-literature-and-composition
 unit: 6

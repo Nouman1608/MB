@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u6-diagnostic"
 title: "Open Economy, International Trade and Finance: Unit Diagnostic (Macroeconomics Unit 6)"
+seoTitle: "Macroeconomics Unit 6 Open Economy and Trade Diagnostic"
 description: "A 30-minute check on the balance of payments, exchange rates, the foreign exchange market, what shifts it, net exports and capital flows, with a link to revisit for each topic."
 course: "macroeconomics"
 unit: 6

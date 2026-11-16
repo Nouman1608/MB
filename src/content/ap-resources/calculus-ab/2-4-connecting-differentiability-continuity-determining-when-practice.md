@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.4-practice"
 title: "Connecting Differentiability and Continuity: Practice Questions (Calculus AB 2.4)"
+seoTitle: "Calculus AB 2.4 Differentiability and Continuity Practice"
 description: "Seven original Marlbridge practice questions on when derivatives do and do not exist: corners, cusps, vertical tangents, discontinuities and piecewise functions, with solutions."
 course: "calculus-ab"
 unit: 2

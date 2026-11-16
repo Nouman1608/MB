@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.6-checklist"
 title: "Modifiers and Parenthetical Elements: Topic Checklist (English Language 8.6)"
+seoTitle: "English Language 8.6 Modifiers and Parentheticals Checklist"
 description: "Specific \"I can\" statements for placing modifiers clearly and using parenthetical elements to add information for an audience and purpose, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 8

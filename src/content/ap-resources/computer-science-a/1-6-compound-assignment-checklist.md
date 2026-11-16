@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.6-checklist"
 title: "Compound Assignment Operators: Checklist (Computer Science A 1.6)"
+seoTitle: "Computer Science A 1.6 Compound Assignment Topic Checklist"
 description: "A self-check list for compound assignment operators and the post-increment and post-decrement operators, linked to the study guide sections and practice questions."
 course: "computer-science-a"
 unit: 1

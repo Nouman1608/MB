@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.10-practice"
 title: "The Investigative Question Revisited and Data Collection: Practice Questions (Statistics 1.10)"
+seoTitle: "Statistics 1.10 Data Collection Practice Questions"
 description: "Seven original Marlbridge practice questions on investigative questions, census, observational studies, experiments, confounding and generalising, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

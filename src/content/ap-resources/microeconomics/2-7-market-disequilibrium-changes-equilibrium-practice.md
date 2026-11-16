@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.7-practice"
 title: "Market Disequilibrium and Changes in Equilibrium: Practice Questions (Microeconomics 2.7)"
+seoTitle: "Microeconomics 2.7 Market Disequilibrium Practice Questions"
 description: "Seven original Marlbridge practice questions on shortages, surpluses, shifts of demand and supply, surplus changes and elasticity, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 2

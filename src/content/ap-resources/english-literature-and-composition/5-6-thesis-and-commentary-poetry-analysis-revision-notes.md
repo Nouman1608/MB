@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-5.6-revision-notes"
 title: "Thesis and Commentary in a Poetry Analysis: Revision Notes (English Literature 5.6)"
+seoTitle: "English Literature 5.6 Poetry Analysis Thesis Revision Notes"
 description: "One-page recap of how to write a defensible thesis and developed commentary in an essay analysing a poem, using device-to-effect chains: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 5

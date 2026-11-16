@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.1-checklist"
 title: "Abstraction and Program Design: Topic Checklist (Computer Science A 3.1)"
+seoTitle: "Computer Science A 3.1 Abstraction, Program Design Checklist"
 description: "Specific I can statements for abstraction and program design in Java, each linked to the guide section or practice question that tests it."
 course: "computer-science-a"
 unit: 3

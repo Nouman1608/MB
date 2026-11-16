@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u3-review"
 title: "Work, Energy, and Power: Mixed Unit Review (Physics C: Mechanics Unit 3)"
+seoTitle: "Physics C Mechanics Unit 3 Work, Energy, and Power Review"
 description: "A one-hour mixed review of calculus-based work and energy: the big ideas that link Topics 3.1 to 3.5, a summary table and seven original questions that each combine two or more topics."
 course: "physics-c-mechanics"
 unit: 3

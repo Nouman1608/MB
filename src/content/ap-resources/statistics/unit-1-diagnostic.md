@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u1-diagnostic"
 title: "Exploring One-Variable Data and Collecting Data: Unit Diagnostic (Statistics Unit 1)"
+seoTitle: "Statistics Unit 1 Exploring One-Variable Data Diagnostic"
 description: "A 30-minute check with one short question per topic of Unit 1, from variables and graphs to sampling, bias and experiments, showing which topics to revisit."
 course: "statistics"
 unit: 1

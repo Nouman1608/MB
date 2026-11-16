@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.1-study-guide"
 title: "Commentary That Links Evidence to a Claim: Study Guide (English Language 3.1)"
+seoTitle: "English Language 3.1 Commentary on Evidence Study Guide"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.1"]

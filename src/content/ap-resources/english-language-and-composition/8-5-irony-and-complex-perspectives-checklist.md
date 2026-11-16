@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.5-checklist"
 title: "Irony and Complex Perspectives: Topic Checklist (English Language 8.5)"
+seoTitle: "English Language 8.5 Irony, Complex Perspectives Checklist"
 description: "Specific \"I can\" statements for how writers signal irony and complex perspectives through style, and how readers detect them, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 8

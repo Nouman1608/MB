@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.6-checklist"
 title: "Short-Run Production and Long-Run Entry or Exit Decisions: Topic Checklist (Microeconomics 3.6)"
+seoTitle: "Microeconomics 3.6 Short-Run Production and Exit Checklist"
 description: "Specific “I can…” statements for short-run shutdown decisions and long-run entry and exit, each linked to the guide section and practice question that shows whether you can really do it."
 course: "microeconomics"
 unit: 3

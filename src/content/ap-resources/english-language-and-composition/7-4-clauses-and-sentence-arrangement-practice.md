@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.4-practice"
 title: "Clauses and the Arrangement of Sentences: Practice Questions (English Language 7.4)"
+seoTitle: "English Language 7.4 Sentence Arrangement Practice Questions"
 description: "8 original Marlbridge practice questions on independent and dependent clauses, and how the arrangement of clauses and sentences emphasises ideas, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

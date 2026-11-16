@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.6-practice"
 title: "Applying Properties of Definite Integrals: Practice Questions (Calculus AB 6.6)"
+seoTitle: "Calculus AB 6.6 Properties of Definite Integrals Practice"
 description: "Seven original Marlbridge practice questions on evaluating definite integrals with geometry and integral properties, including jumps and holes, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 6

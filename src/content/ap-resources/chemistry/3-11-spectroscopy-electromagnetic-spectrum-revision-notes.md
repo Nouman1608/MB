@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.11-revision-notes"
 title: "Spectroscopy and the Electromagnetic Spectrum: Revision Notes (Chemistry 3.11)"
+seoTitle: "Chemistry 3.11 Spectroscopy and the EM Spectrum Notes"
 description: "One-page recap of the electromagnetic spectrum and which molecular transition each region causes, with the assumptions and mistakes that cost marks."
 course: "chemistry"
 unit: 3

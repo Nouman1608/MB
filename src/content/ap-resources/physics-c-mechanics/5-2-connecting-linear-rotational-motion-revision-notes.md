@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.2-revision-notes"
 title: "Connecting Linear and Rotational Motion: Revision Notes (Physics C: Mechanics 5.2)"
+seoTitle: "Physics C Mechanics 5.2 Linear and Rotational Motion Notes"
 description: "One-page recap linking rotation to the motion of points on a rigid system: s = rθ, v = rω, a_T = rα, centripetal acceleration ω²r, and strings or belts that do not slip."
 course: "physics-c-mechanics"
 unit: 5

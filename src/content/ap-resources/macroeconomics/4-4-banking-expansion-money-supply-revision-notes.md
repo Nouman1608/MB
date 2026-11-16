@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.4-revision-notes"
 title: "Banking and the Expansion of the Money Supply: Revision Notes (Macroeconomics 4.4)"
+seoTitle: "Macroeconomics 4.4 Banking and the Money Supply Notes"
 description: "One-page recap of bank balance sheets, required and excess reserves, the money multiplier and its limits, with the balance-sheet mistakes that cost marks."
 course: "macroeconomics"
 unit: 4

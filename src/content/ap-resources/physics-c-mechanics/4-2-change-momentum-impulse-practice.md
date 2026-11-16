@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.2-practice"
 title: "Change in Momentum and Impulse: Practice Questions (Physics C: Mechanics 4.2)"
+seoTitle: "Physics C Mechanics 4.2 Momentum and Impulse Practice"
 description: "Seven original Marlbridge calculus-based practice questions on impulse as an integral, force–time areas, momentum–time slopes, the impulse–momentum theorem, sensor data and changing mass."
 course: "physics-c-mechanics"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u7-diagnostic"
 title: "Qualifying Claims, Sentence Structure and Punctuation: Unit Diagnostic (English Language Unit 7)"
+seoTitle: "English Language Unit 7 Qualifying Claims Diagnostic"
 description: "A 30-minute check with one short question per topic of Unit 7, from introductions and qualified claims to clauses, punctuation and design, showing which topics to revisit."
 course: "english-language-and-composition"
 unit: 7

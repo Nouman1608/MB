@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.2-practice"
 title: "Evidence that Supports, Complements or Contradicts a Thesis: Practice Questions (English Language 9.2)"
+seoTitle: "English Language 9.2 Evidence and the Thesis Practice"
 description: "8 original Marlbridge practice questions on classifying evidence and sources as supporting, complementing or contradicting a thesis, and using each type, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 9

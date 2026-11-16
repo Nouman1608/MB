@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Chemistry)"
+seoTitle: "Chemistry Task Verbs and Free-Response Technique Exam Skills"
 description: "Learn what each free-response task verb in chemistry asks for, how much to write, how to plan the section's time and how to set out calculations, with original worked examples."
 course: "chemistry"
 unit: 1

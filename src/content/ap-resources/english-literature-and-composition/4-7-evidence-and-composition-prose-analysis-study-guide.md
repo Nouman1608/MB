@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.7-study-guide"
 title: "Evidence and Composition in a Prose Analysis: Study Guide (English Literature 4.7)"
+seoTitle: "English Literature 4.7 Prose Analysis Evidence Study Guide"
 description: "A first-principles guide to choosing relevant, sufficient evidence and controlling paragraphs and transitions in a prose analysis essay, with two worked examples, common misconceptions and links to practice."
 course: "english-literature-and-composition"
 unit: 4

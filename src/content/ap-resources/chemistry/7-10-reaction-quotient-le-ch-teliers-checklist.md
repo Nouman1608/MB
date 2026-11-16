@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.10-checklist"
 title: "Reaction Quotient and Le Châtelier's Principle: Topic Checklist (Chemistry 7.10)"
+seoTitle: "Chemistry 7.10 Reaction Quotient and Le Châtelier Checklist"
 description: "Specific “I can…” statements for using Q and K to explain equilibrium shifts, each linked to the guide section and practice question that tests it."
 course: "chemistry"
 unit: 7

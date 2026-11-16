@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.4-study-guide"
 title: "Government Deficits and the National Debt: Study Guide (Macroeconomics 5.4)"
+seoTitle: "Macroeconomics 5.4 Deficits and the National Debt Guide"
 description: "Learn how to calculate a government budget surplus or deficit, how deficits add to the national debt, and why interest on the debt is a burden that uses funds with other possible uses."
 course: "macroeconomics"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-u3-diagnostic"
 title: "Algorithms and Programming: Unit Diagnostic (Computer Science Principles Unit 3)"
+seoTitle: "CS Principles Unit 3 Algorithms and Programming Diagnostic"
 description: "A 40-minute check with at least one short question per topic of Unit 3, from variables and lists to binary search, simulations and undecidable problems, showing which topics to revisit."
 course: "computer-science-principles"
 unit: 3

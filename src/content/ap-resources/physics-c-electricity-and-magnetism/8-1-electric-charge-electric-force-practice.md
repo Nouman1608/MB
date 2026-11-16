@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.1-practice"
 title: "Electric Charge and Electric Force: Practice Questions (Physics C: E&M 8.1)"
+seoTitle: "Physics C E&M 8.1 Electric Charge and Force Practice"
 description: "Seven original Marlbridge practice questions on charge and Coulomb's law: quantised charge, factors of change, vector forces, electric versus gravitational force and polarisation."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

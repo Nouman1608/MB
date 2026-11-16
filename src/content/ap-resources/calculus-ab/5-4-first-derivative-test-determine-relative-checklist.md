@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.4-checklist"
 title: "Using the First Derivative Test to Determine Relative (Local) Extrema: Topic Checklist (Calculus AB 5.4)"
+seoTitle: "Calculus AB 5.4 First Derivative Test Topic Checklist"
 description: "Specific “I can…” statements for the First Derivative Test, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5

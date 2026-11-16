@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-11.5-practice"
 title: "Compound Direct Current Circuits: Practice Questions (Physics C: E&M 11.5)"
+seoTitle: "Physics C E&M 11.5 Compound Direct Current Circuits Practice"
 description: "Seven original Marlbridge practice questions on compound DC circuits: equivalent resistance, bulb brightness, internal resistance, meters and battery data, with full solutions."
 course: "physics-c-electricity-and-magnetism"
 unit: 11

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.6-study-guide"
 title: "Market Equilibrium and Consumer and Producer Surplus: Study Guide (Microeconomics 2.6)"
+seoTitle: "Microeconomics 2.6 Equilibrium and Surplus Study Guide"
 description: "Learn how demand and supply set the equilibrium price and quantity, how prices guide resource allocation, and how to measure consumer, producer and total surplus from a graph or a table."
 course: "microeconomics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-8.4-study-guide"
 title: "Electric Fields of Charge Distributions: Study Guide (Physics C: E&M 8.4)"
+seoTitle: "Physics C E&M 8.4 Fields of Charge Distributions Guide"
 description: "Calculus-based guide to the electric field of continuous charge: setting up dE = k dq/r², using symmetry, and the field of rods, rings and arcs."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

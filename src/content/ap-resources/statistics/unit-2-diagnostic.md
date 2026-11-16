@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-u2-diagnostic"
 title: "Probability, Random Variables and Probability Distributions: Unit Diagnostic (Statistics Unit 2)"
+seoTitle: "Statistics Unit 2 Probability, Random Variables Diagnostic"
 description: "A 30-minute check with one short question per topic of Unit 2, from two-way tables and probability rules to binomial, normal and sampling distributions."
 course: "statistics"
 unit: 2

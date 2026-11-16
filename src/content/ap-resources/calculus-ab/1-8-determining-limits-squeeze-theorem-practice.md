@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.8-practice"
 title: "Determining Limits Using the Squeeze Theorem: Practice Questions (Calculus AB 1.8)"
+seoTitle: "Calculus AB 1.8 Limits Using the Squeeze Theorem Practice"
 description: "Seven original Marlbridge practice questions on the squeeze theorem, its conditions and the limits of sin x / x and (1 − cos x)/x, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

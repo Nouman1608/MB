@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.5-revision-notes"
 title: "Determining Limits Using Algebraic Properties of Limits: Revision Notes (Calculus AB 1.5)"
+seoTitle: "Calculus AB 1.5 Limits Using Algebraic Properties Notes"
 description: "One-page recap of the limit properties, the condition each one needs, composite and one-sided limits, and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.10-checklist"
 title: "Integrating Functions Using Long Division and Completing the Square: Topic Checklist (Calculus AB 6.10)"
+seoTitle: "Calculus AB 6.10 Integrating by Long Division Checklist"
 description: "Specific “I can…” statements for long division, completing the square, and arctan and arcsin forms, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.4-revision-notes"
 title: "Elastic and Inelastic Collisions: Revision Notes (Physics C: Mechanics 4.4)"
+seoTitle: "Physics C Mechanics 4.4 Collisions Revision Notes"
 description: "One-page recap of elastic, inelastic and perfectly inelastic collisions: the kinetic energy test, where lost energy goes, common velocity, and the elastic-collision results."
 course: "physics-c-mechanics"
 unit: 4

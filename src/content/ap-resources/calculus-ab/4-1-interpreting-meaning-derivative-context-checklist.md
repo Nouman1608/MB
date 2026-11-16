@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.1-checklist"
 title: "Interpreting the Meaning of the Derivative in Context: Topic Checklist (Calculus AB 4.1)"
+seoTitle: "Calculus AB 4.1 Derivative in Context Topic Checklist"
 description: "Specific “I can…” statements for derivatives in context, units and interpretation sentences, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 4

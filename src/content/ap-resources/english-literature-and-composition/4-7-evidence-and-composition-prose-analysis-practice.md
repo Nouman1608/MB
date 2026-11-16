@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.7-practice"
 title: "Evidence and Composition in a Prose Analysis: Practice Questions (English Literature 4.7)"
+seoTitle: "English Literature 4.7 Prose Analysis Evidence Practice"
 description: "Original Marlbridge practice questions on choosing relevant, sufficient evidence and controlling paragraphs and transitions in a prose analysis essay, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 4

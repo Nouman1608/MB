@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.7-revision-notes"
 title: "Selecting evidence for a literary argument: Revision Notes (English Literature 9.7)"
+seoTitle: "English Lit 9.7 Literary Argument Evidence Revision Notes"
 description: "A one-page recap of selecting evidence for a literary argument: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 9

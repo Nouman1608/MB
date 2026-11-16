@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.7-checklist"
 title: "Using the Second Derivative Test to Determine Extrema: Topic Checklist (Calculus AB 5.7)"
+seoTitle: "Calculus AB 5.7 Second Derivative Test for Extrema Checklist"
 description: "Specific “I can…” statements for the second derivative test, inconclusive cases and absolute extrema, each linked to the guide section and practice question that checks it."
 course: "calculus-ab"
 unit: 5

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.6-revision-notes"
 title: "Determining Concavity of Functions over Their Domains: Revision Notes (Calculus AB 5.6)"
+seoTitle: "Calculus AB 5.6 Determining Concavity of Functions Notes"
 description: "One-page recap of concavity: the link between f′ increasing and concave up, the sign of f″, how to confirm points of inflection and the usual errors."
 course: "calculus-ab"
 unit: 5

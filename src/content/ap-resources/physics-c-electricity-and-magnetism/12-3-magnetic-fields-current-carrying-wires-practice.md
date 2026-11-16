@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-12.3-practice"
 title: "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law: Practice Questions (Physics C: E&M 12.3)"
+seoTitle: "Physics C E&M 12.3 Biot-Savart Law Practice Questions"
 description: "Seven original Marlbridge practice questions on the Biot-Savart law: field directions, loops, finite wires, coils on axis and forces on wires, with full solutions and suggested mark points."
 course: "physics-c-electricity-and-magnetism"
 unit: 12

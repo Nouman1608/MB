@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-1.2-practice"
 title: "Program Function and Purpose: Practice Questions (Computer Science Principles 1.2)"
+seoTitle: "CS Principles 1.2 Program Function and Purpose Practice"
 description: "Ten original practice questions on program purpose, inputs, outputs, events, code segments and predicting behavior, with full explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-u3-diagnostic"
 title: "Properties of Substances and Mixtures: Unit Diagnostic (Chemistry Unit 3)"
+seoTitle: "Chemistry Unit 3 Substances and Mixtures Unit Diagnostic"
 description: "Fourteen short original questions, one or two per topic, to find which parts of forces, solids, gases, solutions, separation and spectroscopy you should revisit before the unit review."
 course: "chemistry"
 unit: 3

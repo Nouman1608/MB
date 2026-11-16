@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.8-practice
 title: 'Selecting Relevant and Sufficient Evidence: Practice Questions (English Literature 7.8)'
+seoTitle: "English Lit 7.8 Selecting Relevant Evidence Practice"
 description: 'Nine original Marlbridge practice questions on selecting relevant and sufficient evidence for a literary argument: relevance, coverage, counter-evidence and revising a claim, with full answers and rubrics.'
 course: english-literature-and-composition
 unit: 7

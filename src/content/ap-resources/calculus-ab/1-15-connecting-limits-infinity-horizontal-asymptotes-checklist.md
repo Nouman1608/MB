@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.15-checklist"
 title: "Connecting Limits at Infinity and Horizontal Asymptotes: Topic Checklist (Calculus AB 1.15)"
+seoTitle: "Calculus AB 1.15 Limits at Infinity and Asymptotes Checklist"
 description: "Specific “I can…” statements for limits at infinity, end behaviour, horizontal asymptotes and growth rates, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1

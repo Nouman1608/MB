@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-2.2-study-guide"
 title: "Summary Statistics for Two Categorical Variables: Study Guide (Statistics 2.2)"
+seoTitle: "Statistics 2.2 Summarizing Two Categorical Variables Guide"
 description: "Learn to calculate joint, marginal and conditional relative frequencies from a two-way table, compare conditional distributions for association, and justify claims in context."
 course: "statistics"
 unit: 2

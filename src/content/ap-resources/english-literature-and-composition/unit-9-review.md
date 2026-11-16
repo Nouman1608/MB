@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-u9-review"
 title: "Longer Fiction or Drama III: Mixed Unit Review (English Literature Unit 9)"
+seoTitle: "English Lit Unit 9 Longer Fiction or Drama III Review"
 description: "Big ideas, a one-table method summary, and original exam-style questions that combine Unit 9 skills, with a full model literary-argument response and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 9

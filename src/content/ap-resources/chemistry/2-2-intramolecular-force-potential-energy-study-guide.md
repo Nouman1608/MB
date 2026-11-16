@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-2.2-study-guide"
 title: "Intramolecular Force and Potential Energy: Study Guide (Chemistry 2.2)"
+seoTitle: "Chemistry 2.2 Intramolecular Force and Energy Study Guide"
 description: "Read and sketch potential energy curves for bonds, find bond length and bond energy, and explain how atom size, bond order and ion charge and size control bond strength."
 course: "chemistry"
 unit: 2

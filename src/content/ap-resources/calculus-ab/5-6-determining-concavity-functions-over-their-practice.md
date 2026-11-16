@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.6-practice"
 title: "Determining Concavity of Functions over Their Domains: Practice Questions (Calculus AB 5.6)"
+seoTitle: "Calculus AB 5.6 Determining Concavity of Functions Practice"
 description: "Seven original Marlbridge practice questions on concavity and points of inflection from formulas, a graph of f′ and a context, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

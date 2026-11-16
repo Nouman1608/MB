@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.4-study-guide"
 title: "Using Programs with Data: Study Guide (Computer Science Principles 2.4)"
+seoTitle: "CS Principles 2.4 Using Programs with Data Study Guide"
 description: "How programs filter, clean, transform, combine and visualise data to gain insight, with traced pseudocode on lists, an iterative analysis of two linked tables, and two worked examples."
 course: "computer-science-principles"
 unit: 2

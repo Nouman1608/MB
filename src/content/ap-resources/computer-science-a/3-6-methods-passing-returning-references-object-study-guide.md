@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-3.6-study-guide"
 title: "Methods: Passing and Returning References of an Object: Study Guide (Computer Science A 3.6)"
+seoTitle: "Computer Science A 3.6 Passing Object References Guide"
 description: "Learn what happens when an object is passed to or returned from a Java method: the parameter is a copy of the reference, the object can be changed, reassigning the parameter has no effect, and private access rules."
 course: "computer-science-a"
 unit: 3

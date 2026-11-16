@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u1-review"
 title: "Claims, Evidence and the Rhetorical Situation: Mixed Unit Review (English Language Unit 1)"
+seoTitle: "English Language Unit 1 Rhetorical Situation Review"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 1 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
 unit: 1

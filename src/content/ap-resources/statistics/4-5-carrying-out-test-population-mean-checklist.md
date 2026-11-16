@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.5-checklist"
 title: "Carrying Out a Test for a Population Mean or Population Mean Difference: Topic Checklist (Statistics 4.5)"
+seoTitle: "Statistics 4.5 Carrying Out a Test for a Mean Checklist"
 description: "Specific “I can…” statements for carrying out a one-sample t-test for a mean or mean difference, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 4

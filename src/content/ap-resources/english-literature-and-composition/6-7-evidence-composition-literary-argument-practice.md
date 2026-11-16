@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.7-practice
 title: 'Evidence and Composition in a Literary Argument: Practice Questions (English Literature 6.7)'
+seoTitle: "English Literature 6.7 Literary Argument Evidence Practice"
 description: Nine original Marlbridge practice questions on selecting relevant and sufficient evidence and writing with control in a literary argument, with full explanations, model answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

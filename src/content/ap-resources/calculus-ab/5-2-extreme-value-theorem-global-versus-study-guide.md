@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.2-study-guide"
 title: "Extreme Value Theorem, Global Versus Local Extrema, and Critical Points: Study Guide (Calculus AB 5.2)"
+seoTitle: "Calculus AB 5.2 Extreme Value Theorem Study Guide"
 description: "Learn when a function must have a highest and lowest value, how local and global extrema differ, and how to find critical points where f′ is zero or undefined."
 course: "calculus-ab"
 unit: 5

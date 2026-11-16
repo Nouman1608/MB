@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-8.13-study-guide"
 title: "The Arc Length of a Smooth, Planar Curve and Distance Traveled: Study Guide (Calculus BC 8.13)"
+seoTitle: "Calculus BC 8.13 Arc Length and Distance Traveled Guide"
 description: "Build the arc length integral from straight-line pieces, use it for curves y = f(x) and x = g(y), and find the distance traveled along a curved path, by hand and with a calculator."
 course: "calculus-bc"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.2-practice
 title: 'How Choices, Actions and Speech Reveal Complexity: Practice Questions (English Literature 6.2)'
+seoTitle: "English Lit 6.2 Character Choices and Complexity Practice"
 description: Nine original Marlbridge practice questions on how choices, actions and speech reveal a character's complexity in longer works, with full explanations, model answers and suggested rubrics.
 course: english-literature-and-composition
 unit: 6

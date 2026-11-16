@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.3-study-guide"
 title: "Estimating Derivatives of a Function at a Point: Study Guide (Calculus AB 2.3)"
+seoTitle: "Calculus AB 2.3 Estimating Derivatives at a Point Guide"
 description: "Learn how to estimate a derivative at a point from a table, from a graph with a tangent line, and with a calculator, and how to show the difference quotient that earns credit."
 course: "calculus-ab"
 unit: 2

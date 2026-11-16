@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-7.1-checklist"
 title: "Defining Simple Harmonic Motion (SHM): Topic Checklist (Physics 1 7.1)"
+seoTitle: "Physics 1 7.1 Simple Harmonic Motion Topic Checklist"
 description: "Specific “I can…” statements for defining simple harmonic motion in the algebra-based course, each linked to the guide section and practice question that tests it."
 course: "physics-1"
 unit: 7

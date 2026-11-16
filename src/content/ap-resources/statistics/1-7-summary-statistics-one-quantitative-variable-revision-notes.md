@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.7-revision-notes"
 title: "Summary Statistics for One Quantitative Variable: Revision Notes (Statistics 1.7)"
+seoTitle: "Statistics 1.7 Quantitative Summary Statistics Notes"
 description: "One-page recap of mean, median, quartiles, percentiles, range, IQR, standard deviation, the two outlier rules, resistance and unit changes, with the mistakes that cost marks."
 course: "statistics"
 unit: 1

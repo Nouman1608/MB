@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-12.3-revision-notes"
 title: "Magnetic Fields of Current-Carrying Wires and the Biot-Savart Law: Revision Notes (Physics C: E&M 12.3)"
+seoTitle: "Physics C E&M 12.3 Biot-Savart Law Revision Notes"
 description: "One-page recap of the Biot-Savart law for the calculus-based course: field direction, finite and long wires, loops, arcs, the loop axis and forces on wires."
 course: "physics-c-electricity-and-magnetism"
 unit: 12

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.17-study-guide"
 title: "Recursive Searching and Sorting: Study Guide (Computer Science A 4.17)"
+seoTitle: "Computer Science A 4.17 Recursive Search and Sort Guide"
 description: "How recursion traverses Strings, arrays and ArrayLists, how binary search halves a sorted range, and how merge sort splits and merges, with traced searches and a complete merge sort trace."
 course: "computer-science-a"
 unit: 4

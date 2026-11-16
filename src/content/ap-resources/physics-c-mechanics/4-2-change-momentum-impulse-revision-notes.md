@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.2-revision-notes"
 title: "Change in Momentum and Impulse: Revision Notes (Physics C: Mechanics 4.2)"
+seoTitle: "Physics C Mechanics 4.2 Momentum Change and Impulse Notes"
 description: "One-page recap of impulse for the calculus-based course: F_net = dp/dt, J = ∫F dt, graph areas and slopes, the impulse–momentum theorem, F = ma and F = v dm/dt as special cases."
 course: "physics-c-mechanics"
 unit: 4

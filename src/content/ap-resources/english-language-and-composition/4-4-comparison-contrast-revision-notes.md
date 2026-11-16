@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.4-revision-notes
 title: 'Developing Ideas Through Comparison-Contrast: Revision Notes (English Language 4.4)'
+seoTitle: "English Language 4.4 Comparison-Contrast Development Notes"
 description: 'One-page recap of comparison-contrast as a method of development: categories of comparison, like categories, organisation, and linking comparison to a claim.'
 course: english-language-and-composition
 unit: 4

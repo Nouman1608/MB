@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.4-revision-notes
 title: 'Narrator Perspective and Reliability: Revision Notes (English Literature 6.4)'
+seoTitle: "English Literature 6.4 Narrator Reliability Revision Notes"
 description: 'Revision notes on narrator perspective and reliability in longer works: evidence from diction, syntax, tone and omission, a reliability toolkit and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 6

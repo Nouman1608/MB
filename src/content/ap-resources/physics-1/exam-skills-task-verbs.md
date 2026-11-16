@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics 1)"
+seoTitle: "Physics 1 Task Verbs and Free-Response Technique Exam Skills"
 description: "What each free-response task verb asks you to write, how much to write, how to read a multi-part question, plan the 95 minutes and show calculation work."
 course: "physics-1"
 unit: 1

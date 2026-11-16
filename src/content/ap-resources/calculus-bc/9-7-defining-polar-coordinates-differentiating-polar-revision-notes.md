@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.7-revision-notes"
 title: "Defining Polar Coordinates and Differentiating in Polar Form: Revision Notes (Calculus BC 9.7)"
+seoTitle: "Calculus BC 9.7 Polar Coordinates and Differentiation Notes"
 description: "One-page recap of polar coordinates: converting points and equations, the parametric form of r = f(θ), dy/dx and d²y/dx², tangents, and what dr/dθ means."
 course: "calculus-bc"
 unit: 9

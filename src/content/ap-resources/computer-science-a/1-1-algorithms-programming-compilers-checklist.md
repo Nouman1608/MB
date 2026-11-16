@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-1.1-checklist"
 title: "Introduction to Algorithms, Programming, and Compilers: Checklist (Computer Science A 1.1)"
+seoTitle: "Computer Science A 1.1 Programming and Compilers Checklist"
 description: "A self-check list for algorithms, sequencing, compiling and running, and the three kinds of programming error, linked to the guide sections and practice questions."
 course: "computer-science-a"
 unit: 1

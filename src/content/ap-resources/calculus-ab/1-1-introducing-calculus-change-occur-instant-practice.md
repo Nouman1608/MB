@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.1-practice"
 title: "Introducing Calculus: Can Change Occur at an Instant? Practice Questions (Calculus AB 1.1)"
+seoTitle: "Calculus AB 1.1 Introducing Calculus Practice Questions"
 description: "Seven original Marlbridge practice questions on average rates of change and rates at an instant, from formulas, tables and graphs, with solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

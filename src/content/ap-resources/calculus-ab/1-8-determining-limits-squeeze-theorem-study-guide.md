@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.8-study-guide"
 title: "Determining Limits Using the Squeeze Theorem: Study Guide (Calculus AB 1.8)"
+seoTitle: "Calculus AB 1.8 Limits Using the Squeeze Theorem Study Guide"
 description: "Learn when a limit can be trapped between two simpler functions, how to check the three conditions of the squeeze theorem, and why sin x / x tends to 1."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.7-revision-notes"
 title: "Commentary and the Line of Reasoning: Revision Notes (English Literature 3.7)"
+seoTitle: "English Lit 3.7 Commentary and Line of Reasoning Notes"
 description: "A one-page recap of commentary and line of reasoning: what commentary does, levels of commentary, how claims form a sequence that defends the thesis, and common mistakes."
 course: "english-literature-and-composition"
 unit: 3

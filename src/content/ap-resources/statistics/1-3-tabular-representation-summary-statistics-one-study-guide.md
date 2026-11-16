@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.3-study-guide"
 title: "Tabular Representation and Summary Statistics for One Categorical Variable: Study Guide (Statistics 1.3)"
+seoTitle: "Statistics 1.3 Tables for One Categorical Variable Guide"
 description: "Learn to build frequency and relative frequency tables for one categorical variable, switch between counts, proportions, percentages and ratios, and use them to justify claims."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.12-checklist"
 title: "Confirming Continuity over an Interval: Topic Checklist (Calculus AB 1.12)"
+seoTitle: "Calculus AB 1.12 Continuity over an Interval Topic Checklist"
 description: "Specific “I can…” statements for continuity on intervals, function families, piecewise boundaries and endpoints, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-5.3-revision-notes"
 title: "Profit-Maximising Behaviour in Perfectly Competitive Factor Markets: Revision Notes (Microeconomics 5.3)"
+seoTitle: "Microeconomics 5.3 Competitive Factor Markets Revision Notes"
 description: "One-page recap of hiring in a perfectly competitive labour market: the wage-taking firm, MRP = MRC = wage, MRP versus VMP, and the least-cost and profit-maximising input rules."
 course: "microeconomics"
 unit: 5

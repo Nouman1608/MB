@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.10-revision-notes"
 title: "Integrating Functions Using Long Division and Completing the Square: Revision Notes (Calculus AB 6.10)"
+seoTitle: "Calculus AB 6.10 Integrating by Long Division Revision Notes"
 description: "One-page recap of rewriting integrands: when to divide, how to complete the square, the arctan and arcsin forms, splitting a numerator, and the slips that cost marks."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.8-practice"
 title: "Volumes with Cross Sections: Triangles and Semicircles: Practice Questions (Calculus AB 8.8)"
+seoTitle: "Calculus AB 8.8 Cross Sections Triangles Practice Questions"
 description: "Seven original Marlbridge practice questions on volumes with triangular, semicircular and other cross sections, including a table-based estimate, with full solutions and rubrics."
 course: "calculus-ab"
 unit: 8

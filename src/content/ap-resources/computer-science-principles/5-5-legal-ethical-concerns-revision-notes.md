@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.5-revision-notes"
 title: "Legal and Ethical Concerns: Revision Notes (Computer Science Principles 5.5)"
+seoTitle: "CS Principles 5.5 Legal and Ethical Concerns Revision Notes"
 description: "One-page recap of intellectual property, plagiarism, Creative Commons, open source, open access, citing sources, and a balanced method for analysing legal and ethical concerns."
 course: "computer-science-principles"
 unit: 5

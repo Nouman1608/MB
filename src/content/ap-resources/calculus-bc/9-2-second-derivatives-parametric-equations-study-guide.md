@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.2-study-guide"
 title: "Second Derivatives of Parametric Equations: Study Guide (Calculus BC 9.2)"
+seoTitle: "Calculus BC 9.2 Parametric Second Derivatives Study Guide"
 description: "How to find d²y/dx² for a parametric curve by differentiating dy/dx with respect to t and dividing by dx/dt, and how to use it for concavity and tangent-line estimates."
 course: "calculus-bc"
 unit: 9

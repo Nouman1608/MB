@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.4-practice"
 title: "The Fundamental Theorem of Calculus and Accumulation Functions: Practice Questions (Calculus AB 6.4)"
+seoTitle: "Calculus AB 6.4 FTC and Accumulation Functions Practice"
 description: "Seven original Marlbridge practice questions on accumulation functions and the derivative of an integral, including graphs, the chain rule and a context, with full solutions."
 course: "calculus-ab"
 unit: 6

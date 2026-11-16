@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.1-practice
 title: 'Synthesising Material from Several Sources: Practice Questions (English Language 6.1)'
+seoTitle: "English Language 6.1 Synthesising Several Sources Practice"
 description: 'Eight original Marlbridge practice questions on synthesising sources: telling synthesis from summary, integrating quotation, selecting relevant material, and writing paragraphs built from several sources.'
 course: english-language-and-composition
 unit: 6

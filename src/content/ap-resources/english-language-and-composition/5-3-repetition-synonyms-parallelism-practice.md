@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.3-practice
 title: 'Repetition, Synonyms, Pronouns and Parallel Structure: Practice Questions (English Language 5.3)'
+seoTitle: "English Language 5.3 Repetition and Parallelism Practice"
 description: 'Eight original Marlbridge practice questions on repetition, synonyms, pronoun references and parallel structure: identifying the devices, repairing faults and explaining their effects.'
 course: english-language-and-composition
 unit: 5

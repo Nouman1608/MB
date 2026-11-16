@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.1-revision-notes"
 title: "Defining Simple Harmonic Motion (SHM): Revision Notes (Physics C: Mechanics 7.1)"
+seoTitle: "Physics C Mechanics 7.1 Simple Harmonic Motion Notes"
 description: "One-page recap of what makes motion simple harmonic: equilibrium, restoring force F = −kx, the equation d²x/dt² = −(k/m)x, shifted equilibria and k_eff from d²U/dx²."
 course: "physics-c-mechanics"
 unit: 7

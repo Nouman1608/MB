@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.13-revision-notes"
 title: "Implementing 2D Array Algorithms: Revision Notes (Computer Science A 4.13)"
+seoTitle: "Computer Science A 4.13 2D Array Algorithms Revision Notes"
 description: "A short recap of 2D array algorithms: how each 1D pattern becomes a row, column or whole-table pattern, with the bounds rules and a mini-example."
 course: "computer-science-a"
 unit: 4

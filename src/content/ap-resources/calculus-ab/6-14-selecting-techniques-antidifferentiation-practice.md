@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.14-practice"
 title: "Selecting Techniques for Antidifferentiation: Practice Questions (Calculus AB 6.14)"
+seoTitle: "Calculus AB 6.14 Techniques for Antidifferentiation Practice"
 description: "Seven original Marlbridge practice questions on choosing and applying an integration technique, including lookalike integrals and a no-formula case, with suggested rubrics."
 course: "calculus-ab"
 unit: 6

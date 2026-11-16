@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.3-revision-notes"
 title: "Definition, Measurement, and Functions of Money: Revision Notes (Macroeconomics 4.3)"
+seoTitle: "Macroeconomics 4.3 Functions of Money Revision Notes"
 description: "One-page recap of what money is, its three functions, and how to calculate M1, M2 and the monetary base, with the classification mistakes that cost marks."
 course: "macroeconomics"
 unit: 4

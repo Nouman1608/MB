@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.10-study-guide"
 title: "Integrating Functions Using Long Division and Completing the Square: Study Guide (Calculus AB 6.10)"
+seoTitle: "Calculus AB 6.10 Integrating by Long Division Study Guide"
 description: "Learn when to rewrite an integrand first: long division for top-heavy rational functions, and completing the square to reach arctan and arcsin forms."
 course: "calculus-ab"
 unit: 6

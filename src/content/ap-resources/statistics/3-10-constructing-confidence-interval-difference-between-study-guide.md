@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.10-study-guide"
 title: "Constructing a Confidence Interval for a Difference in Two Proportions: Study Guide (Statistics 3.10)"
+seoTitle: "Statistics 3.10 Two-Proportion Confidence Interval Guide"
 description: "Learn to name the two-sample z-interval, define p1 − p2 in context, check the three conditions, and calculate the standard error, margin of error and interval for a difference in proportions."
 course: "statistics"
 unit: 3

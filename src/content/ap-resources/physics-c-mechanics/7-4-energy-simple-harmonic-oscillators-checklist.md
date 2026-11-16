@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.4-checklist"
 title: "Energy of Simple Harmonic Oscillators: Topic Checklist (Physics C: Mechanics 7.4)"
+seoTitle: "Physics C Mechanics 7.4 Harmonic Oscillator Energy Checklist"
 description: "Specific “I can…” statements for energy in simple harmonic motion, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 7

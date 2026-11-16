@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.7-practice"
 title: "Evidence and composition in a poetry essay: Practice Questions (English Literature 8.7)"
+seoTitle: "English Lit 8.7 Poetry Essay Evidence Practice Questions"
 description: "Original Marlbridge practice questions on evidence and composition in a poetry essay, with full answers, an explanation of every wrong option and a suggested rubric for written responses."
 course: "english-literature-and-composition"
 unit: 8

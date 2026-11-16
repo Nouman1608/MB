@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.3-study-guide"
 title: "Rates of Change in Applied Contexts Other Than Motion: Study Guide (Calculus AB 4.3)"
+seoTitle: "Calculus AB 4.3 Rates of Change in Applied Contexts Guide"
 description: "Read a derivative as a rate in any setting: tanks, costs, populations, concentrations and density. Units, sign words, second derivatives and full-sentence interpretations."
 course: "calculus-ab"
 unit: 4

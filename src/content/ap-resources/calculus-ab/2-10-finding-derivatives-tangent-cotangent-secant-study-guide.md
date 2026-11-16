@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.10-study-guide"
 title: "Derivatives of Tangent, Cotangent, Secant and Cosecant: Study Guide (Calculus AB 2.10)"
+seoTitle: "Calculus AB 2.10 Derivatives of tan, cot, sec and csc Guide"
 description: "Rewrite tan, cot, sec and csc in terms of sine and cosine, use the quotient rule to find their derivatives, and apply the results with the product and quotient rules."
 course: "calculus-ab"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.6-study-guide
 title: 'Simile and Personification in Fiction: Study Guide (English Literature 7.6)'
+seoTitle: "English Lit 7.6 Simile and Personification in Fiction Guide"
 description: 'How similes and personification work in prose fiction: how the choice of objects and traits creates meaning and attitude, and how giving things human qualities, or people the qualities of things, shapes tone.'
 course: english-literature-and-composition
 unit: 7

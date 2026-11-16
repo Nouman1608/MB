@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.7-study-guide"
 title: "Commentary and the Line of Reasoning: Study Guide (English Literature 3.7)"
+seoTitle: "English Lit 3.7 Commentary and Line of Reasoning Study Guide"
 description: "Learn how commentary explains the relationship between evidence, claim and thesis, how a line of reasoning links claims in a logical sequence, and how to turn quotation into analysis, with Shakespeare and Chopin."
 course: "english-literature-and-composition"
 unit: 3

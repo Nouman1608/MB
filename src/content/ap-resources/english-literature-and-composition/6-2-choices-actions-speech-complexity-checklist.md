@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.2-checklist
 title: 'How Choices, Actions and Speech Reveal Complexity: Topic Checklist (English Literature 6.2)'
+seoTitle: "English Lit 6.2 Character Choices and Complexity Checklist"
 description: Specific “I can…” statements for how choices, actions and speech reveal complexity in a character, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 6

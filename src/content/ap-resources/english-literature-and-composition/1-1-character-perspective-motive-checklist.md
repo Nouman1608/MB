@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.1-checklist"
 title: "Character: What Details Reveal About Perspective and Motive: Topic Checklist (English Literature 1.1)"
+seoTitle: "English Lit 1.1 Character Perspective and Motive Checklist"
 description: "Specific I can statements for reading character in short fiction, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-3.1-practice"
 title: "Translational Kinetic Energy: Practice Questions (Physics C: Mechanics 3.1)"
+seoTitle: "Physics C Mechanics 3.1 Kinetic Energy Practice Questions"
 description: "Seven original Marlbridge practice questions on translational kinetic energy: components, factors of change, K–t graphs with calculus, launcher data and frame dependence."
 course: "physics-c-mechanics"
 unit: 3

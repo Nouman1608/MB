@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.11-study-guide"
 title: "Volume with Washer Method: Revolving Around the x- or y-Axis: Study Guide (Calculus AB 8.11)"
+seoTitle: "Calculus AB 8.11 Washer Method Around the x- or y-Axis Guide"
 description: "Learn why a region with a gap from the axis makes ring-shaped slices, how to find the outer and inner radii, and how to write, evaluate and round a washer-method volume."
 course: "calculus-ab"
 unit: 8

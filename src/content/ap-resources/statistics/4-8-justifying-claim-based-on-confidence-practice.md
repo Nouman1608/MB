@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.8-practice"
 title: "Justifying a Claim With a Confidence Interval for Two Means: Practice Questions (Statistics 4.8)"
+seoTitle: "Statistics 4.8 Justifying a Claim, Two-Mean CI Practice"
 description: "Seven original Marlbridge practice questions on interpreting intervals for μ₁ − μ₂ and confidence levels, and using intervals to justify claims, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 4

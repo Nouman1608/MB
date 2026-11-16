@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.1-practice"
 title: "Variables and Assignments: Practice Questions (Computer Science Principles 3.1)"
+seoTitle: "CS Principles 3.1 Variables and Assignments Practice"
 description: "Nine original Marlbridge practice questions on assignment, tracing, swapping, running totals, naming and list copies, with explanations and a suggested rubric."
 course: "computer-science-principles"
 unit: 3

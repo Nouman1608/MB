@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.4-practice"
 title: "Using the First Derivative Test to Determine Relative (Local) Extrema: Practice Questions (Calculus AB 5.4)"
+seoTitle: "Calculus AB 5.4 First Derivative Test Practice Questions"
 description: "Seven original Marlbridge practice questions on the First Derivative Test from formulas, graphs of f′ and piecewise functions, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 5

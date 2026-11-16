@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.7-checklist"
 title: "Volumes with Cross Sections: Squares and Rectangles: Topic Checklist (Calculus AB 8.7)"
+seoTitle: "Calculus AB 8.7 Cross Sections Squares, Rectangles Checklist"
 description: "Specific “I can…” statements for volumes with square and rectangular cross sections, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 8

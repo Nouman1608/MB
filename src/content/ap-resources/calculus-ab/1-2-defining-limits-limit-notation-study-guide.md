@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.2-study-guide"
 title: "Defining Limits and Using Limit Notation: Study Guide (Calculus AB 1.2)"
+seoTitle: "Calculus AB 1.2 Defining Limits and Limit Notation Guide"
 description: "Learn what a limit means, how to read and write limit notation correctly, and how one limit statement looks as a graph, a table and a formula."
 course: "calculus-ab"
 unit: 1

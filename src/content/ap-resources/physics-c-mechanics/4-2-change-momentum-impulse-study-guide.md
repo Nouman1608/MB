@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-4.2-study-guide"
 title: "Change in Momentum and Impulse: Study Guide (Physics C: Mechanics 4.2)"
+seoTitle: "Physics C Mechanics 4.2 Momentum Change and Impulse Guide"
 description: "Calculus-based impulse and momentum: net force as dp/dt, impulse as the integral of force over time, graph areas and slopes, the impulse–momentum theorem, and systems that gain mass at constant velocity."
 course: "physics-c-mechanics"
 unit: 4

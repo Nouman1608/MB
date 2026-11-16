@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.14-study-guide"
 title: "Selecting Techniques for Antidifferentiation: Study Guide (Calculus AB 6.14)"
+seoTitle: "Calculus AB 6.14 Techniques for Antidifferentiation Guide"
 description: "Learn to read an integrand before you integrate it: the signals that point to a basic rule, rewriting, substitution, long division or completing the square, plus the BC-only methods."
 course: "calculus-ab"
 unit: 6

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.8-practice"
 title: "Exponential Models with Differential Equations: Practice Questions (Calculus AB 7.8)"
+seoTitle: "Calculus AB 7.8 Exponential Models with DEs Practice"
 description: "Seven original Marlbridge practice questions on dy/dt = ky: translating sentences, finding k, half-lives, checking solutions and motion, with full solutions and rubrics."
 course: "calculus-ab"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.7-study-guide
 title: 'Evidence and Composition in a Literary Argument: Study Guide (English Literature 6.7)'
+seoTitle: "English Literature 6.7 Literary Argument Evidence Guide"
 description: 'How to choose relevant and sufficient evidence for a literary argument and write with control: the jobs evidence does, integrating quotation, and coordination, subordination and punctuation.'
 course: english-literature-and-composition
 unit: 6

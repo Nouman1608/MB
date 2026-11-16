@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.2-revision-notes"
 title: "Setting: Details That Convey a Time and Place: Revision Notes (English Literature 1.2)"
+seoTitle: "English Literature 1.2 Setting, Time and Place Notes"
 description: "A one-page recap of setting in short fiction: time, place and the values and mood that setting details carry, with a key-ideas table, common mistakes and a quick self-check."
 course: "english-literature-and-composition"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.9-revision-notes"
 title: "Connecting a Function, Its First Derivative, and Its Second Derivative: Revision Notes (Calculus AB 5.9)"
+seoTitle: "Calculus AB 5.9 Function, First and Second Derivative Notes"
 description: "One-page recap of how features of f, f′ and f″ line up: sign versus direction, extrema versus inflection points, matching graphs and the reasons that earn marks."
 course: "calculus-ab"
 unit: 5

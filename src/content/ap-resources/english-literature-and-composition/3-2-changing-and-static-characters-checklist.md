@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.2-checklist"
 title: "Characters Who Change or Remain Unchanged: Topic Checklist (English Literature 3.2)"
+seoTitle: "English Lit 3.2 Changing and Unchanged Characters Checklist"
 description: "Specific I can statements for explaining characters who change or remain unchanged, each linked to the guide section or practice question that tests it."
 course: "english-literature-and-composition"
 unit: 3

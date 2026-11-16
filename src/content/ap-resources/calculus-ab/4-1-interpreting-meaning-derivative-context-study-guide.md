@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.1-study-guide"
 title: "Interpreting the Meaning of the Derivative in Context: Study Guide (Calculus AB 4.1)"
+seoTitle: "Calculus AB 4.1 Meaning of the Derivative in Context Guide"
 description: "Learn to read a derivative as a rate at one instant, give it the right units, and write a complete sentence that explains what it means in a real situation."
 course: "calculus-ab"
 unit: 4

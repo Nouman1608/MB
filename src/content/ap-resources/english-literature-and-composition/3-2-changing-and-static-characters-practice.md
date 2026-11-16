@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.2-practice"
 title: "Characters Who Change or Remain Unchanged: Practice Questions (English Literature 3.2)"
+seoTitle: "English Lit 3.2 Changing and Unchanged Characters Practice"
 description: "Nine original Marlbridge questions on characters who change or stay the same: reading paired extracts, inner and outer change, and the function of an unchanged character, with a rubric."
 course: "english-literature-and-composition"
 unit: 3

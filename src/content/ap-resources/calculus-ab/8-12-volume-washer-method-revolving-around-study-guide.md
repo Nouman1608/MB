@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.12-study-guide"
 title: "Volume with Washer Method: Revolving Around Other Axes: Study Guide (Calculus AB 8.12)"
+seoTitle: "Calculus AB 8.12 Washer Method Around Other Axes Study Guide"
 description: "Learn to measure outer and inner radii from any horizontal or vertical axis, and to set up and evaluate washer-method volumes when the axis is not a coordinate axis."
 course: "calculus-ab"
 unit: 8

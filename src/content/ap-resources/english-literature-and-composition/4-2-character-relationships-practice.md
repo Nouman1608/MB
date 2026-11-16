@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.2-practice"
 title: "Nuance and Complexity in Character Relationships: Practice Questions (English Literature 4.2)"
+seoTitle: "English Lit 4.2 Complex Character Relationships Practice"
 description: "Original Marlbridge practice questions on how textual details reveal the nuance and complexity of relationships between characters in short fiction, with full answers and suggested rubrics."
 course: "english-literature-and-composition"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.2-study-guide"
 title: "Connecting Linear and Rotational Motion: Study Guide (Physics C: Mechanics 5.2)"
+seoTitle: "Physics C Mechanics 5.2 Linear and Rotational Motion Guide"
 description: "Calculus-based links between rotation and the motion of points on a rigid system: s = rθ, v = rω and a_T = rα derived by differentiation, centripetal acceleration ω²r, and strings or hoses that unwind without slipping."
 course: "physics-c-mechanics"
 unit: 5

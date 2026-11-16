@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.9-checklist"
 title: "Comparisons of the Distributions for One Quantitative Variable: Topic Checklist (Statistics 1.9)"
+seoTitle: "Statistics 1.9 Comparisons of Distributions Checklist"
 description: "Specific “I can…” statements for comparing distributions of a quantitative variable and using z-scores, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-4.7-study-guide"
 title: "Using L'Hospital's Rule for Determining Limits of Indeterminate Forms: Study Guide (Calculus AB 4.7)"
+seoTitle: "Calculus AB 4.7 L'Hospital's Rule Indeterminate Forms Guide"
 description: "Learn when L'Hospital's Rule applies, why it works, how to show the conditions in writing, and how to use it on 0/0 and ∞/∞ limits, including repeated use."
 course: "calculus-ab"
 unit: 4

@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.2-study-guide
 title: 'Setting and Its Relationship to Character: Study Guide (English Literature 7.2)'
+seoTitle: "English Literature 7.2 Setting and Character Study Guide"
 description: 'How setting works in short fiction beyond time and place: how changes of setting mark shifts, how contrasted settings stage conflicts of values, and how characters'' behaviour in a setting reveals them.'
 course: english-literature-and-composition
 unit: 7

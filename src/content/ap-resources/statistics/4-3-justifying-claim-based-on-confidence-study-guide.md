@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.3-study-guide"
 title: "Justifying a Claim Based on a Confidence Interval for a Mean: Study Guide (Statistics 4.3)"
+seoTitle: "Statistics 4.3 Justifying a Claim, Mean CI Study Guide"
 description: "Learn to interpret a t-interval and its confidence level in context, use the interval to judge a claim about a mean or a matched-pairs mean difference, and predict how n and C change the width."
 course: "statistics"
 unit: 4

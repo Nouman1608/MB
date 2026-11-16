@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.3-practice"
 title: "Qualifying a Claim with Modifiers: Practice Questions (English Language 7.3)"
+seoTitle: "English Language 7.3 Qualifying a Claim Practice Questions"
 description: "8 original Marlbridge practice questions on using words, phrases and clauses as modifiers to qualify and limit the scope of a claim, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 7

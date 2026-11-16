@@ -479,6 +479,8 @@ const apResources = defineCollection({
     /** Permanent unique identifier, e.g. "mb-ap-chem-1.1-study-guide". Never reused. */
     resourceId: z.string().regex(/^mb-ap-[a-z0-9.-]+$/),
     title: z.string().max(110),
+    /** D-482: optional short search title (<title> only), used when `title` is over 60 characters. */
+    seoTitle: z.string().max(60).optional(),
     /** One or two sentences; also the visible summary. */
     description: z.string().min(70).max(220),
     /** Course slug from src/data/ap/frameworks.ts. */

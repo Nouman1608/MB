@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-3.6-practice"
 title: "From Claim-and-Evidence Paragraph to Defensible Thesis: Practice Questions (English Literature 3.6)"
+seoTitle: "English Literature 3.6 Defensible Thesis Practice Questions"
 description: "Eight original Marlbridge questions on thesis statements: spotting defensible theses, rejecting summaries and lists, previewing a line of reasoning and revising weak theses, with a rubric."
 course: "english-literature-and-composition"
 unit: 3

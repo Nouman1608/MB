@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.3-revision-notes"
 title: "Justifying a Claim Based on a Confidence Interval for a Mean: Revision Notes (Statistics 4.3)"
+seoTitle: "Statistics 4.3 Justifying a Claim, Mean CI Revision Notes"
 description: "One-page recap of interpreting t-intervals and confidence levels for a mean or mean difference, judging claims with plausible values, and how n and C change the width."
 course: "statistics"
 unit: 4

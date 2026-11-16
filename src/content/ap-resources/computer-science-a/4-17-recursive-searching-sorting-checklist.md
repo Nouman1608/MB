@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csa-4.17-checklist"
 title: "Recursive Searching and Sorting: Checklist (Computer Science A 4.17)"
+seoTitle: "Computer Science A 4.17 Recursive Search and Sort Checklist"
 description: "A self-check for recursive searching and sorting: tracing binary search, explaining why sorted data is needed, tracing merge sort splits and merges, and tracing recursive traversals."
 course: "computer-science-a"
 unit: 4

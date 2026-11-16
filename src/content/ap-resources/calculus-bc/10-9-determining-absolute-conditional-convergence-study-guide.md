@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.9-study-guide"
 title: "Determining Absolute or Conditional Convergence: Study Guide (Calculus BC 10.9)"
+seoTitle: "Calculus BC 10.9 Absolute or Conditional Convergence Guide"
 description: "Learn to classify a series as absolutely convergent, conditionally convergent or divergent, why absolute convergence implies convergence, and why it lets you reorder terms safely."
 course: "calculus-bc"
 unit: 10

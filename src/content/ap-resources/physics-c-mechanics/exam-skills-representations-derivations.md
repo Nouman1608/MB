@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-exam-skills-representations-derivations"
 title: "Representations, Derivations and Experimental Design: Exam Skills Guide (Physics C: Mechanics)"
+seoTitle: "Physics C Mechanics Representations, Derivations Exam Skills"
 description: "How to draw free-body diagrams, motion graphs and energy charts, set out calculus derivations, check results with units and limits, and design and linearise experiments."
 course: "physics-c-mechanics"
 unit: 1

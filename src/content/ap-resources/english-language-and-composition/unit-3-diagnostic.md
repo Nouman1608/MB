@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u3-diagnostic"
 title: "Commentary, Line of Reasoning and Methods of Development: Unit Diagnostic (English Language Unit 3)"
+seoTitle: "English Language Unit 3 Commentary and Reasoning Diagnostic"
 description: "A ten-question check with at least one question for each topic of Unit 3, from commentary and synthesis to reasoning flaws and methods of development, showing which topics to revisit."
 course: "english-language-and-composition"
 unit: 3

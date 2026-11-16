@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.3-practice"
 title: "Accumulation Functions and Definite Integrals in Applied Contexts: Practice Questions (Calculus AB 8.3)"
+seoTitle: "Calculus AB 8.3 Integrals in Applied Contexts Practice"
 description: "Seven original Marlbridge practice questions on net change, amount functions, rates in and out and interpreting integrals in context, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-7.10-practice"
 title: "Reaction Quotient and Le Châtelier's Principle: Practice Questions (Chemistry 7.10)"
+seoTitle: "Chemistry 7.10 Reaction Quotient and Le Châtelier Practice"
 description: "Seven original Marlbridge practice questions on using Q and K to explain equilibrium shifts after concentration, volume, dilution and temperature changes, with suggested mark points."
 course: "chemistry"
 unit: 7

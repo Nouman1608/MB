@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.2-practice"
 title: "Displacement, Velocity, and Acceleration: Practice Questions (Physics C: Mechanics 1.2)"
+seoTitle: "Physics C Mechanics 1.2 Velocity and Acceleration Practice"
 description: "Seven original Marlbridge calculus-based practice questions on velocity and acceleration as derivatives, integration with initial conditions, derivations and sensor data."
 course: "physics-c-mechanics"
 unit: 1

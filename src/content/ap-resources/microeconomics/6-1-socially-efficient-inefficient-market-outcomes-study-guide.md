@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.1-study-guide"
 title: "Socially Efficient and Inefficient Market Outcomes: Study Guide (Microeconomics 6.1)"
+seoTitle: "Microeconomics 6.1 Socially Efficient Outcomes Study Guide"
 description: "Learn what makes a quantity socially efficient (MSB = MSC), why competitive markets reach it, why market power and other failures do not, and how to calculate deadweight loss."
 course: "microeconomics"
 unit: 6

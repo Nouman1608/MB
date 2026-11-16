@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u3-review"
 title: "Commentary, Line of Reasoning and Methods of Development: Mixed Unit Review (English Language Unit 3)"
+seoTitle: "English Language Unit 3 Commentary and Reasoning Review"
 description: "Big ideas, a one-table summary and seven original exam-style questions that combine Unit 3 topics, with worked solutions and suggested rubrics."
 course: "english-language-and-composition"
 unit: 3

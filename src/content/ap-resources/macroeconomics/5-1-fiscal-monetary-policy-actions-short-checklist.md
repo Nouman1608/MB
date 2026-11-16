@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-5.1-checklist"
 title: "Fiscal and Monetary Policy Actions in the Short Run: Topic Checklist (Macroeconomics 5.1)"
+seoTitle: "Macroeconomics 5.1 Fiscal and Monetary Policy Checklist"
 description: "Specific “I can…” statements for combined fiscal and monetary policy, each linked to the guide section and practice question that shows whether you can really do it."
 course: "macroeconomics"
 unit: 5

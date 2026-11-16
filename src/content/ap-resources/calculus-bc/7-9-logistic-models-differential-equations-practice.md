@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-7.9-practice"
 title: "Logistic Models with Differential Equations: Practice Questions (Calculus BC 7.9)"
+seoTitle: "Calculus BC 7.9 Logistic Differential Equations Practice"
 description: "Seven original Marlbridge practice questions on logistic models: carrying capacity, long-run limits, fastest growth, concavity and interpretation in context, with rubrics."
 course: "calculus-bc"
 unit: 7

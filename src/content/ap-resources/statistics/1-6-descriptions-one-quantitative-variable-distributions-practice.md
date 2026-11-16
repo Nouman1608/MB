@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.6-practice"
 title: "Descriptions for One Quantitative Variable Distributions: Practice Questions (Statistics 1.6)"
+seoTitle: "Statistics 1.6 Describing Distributions Practice Questions"
 description: "Seven original Marlbridge practice questions on describing shape, centre, spread, outliers, gaps and clusters, and using a graph to judge a claim, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 1

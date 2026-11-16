@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.2-revision-notes"
 title: "Synthesis and Acknowledging Sources: Revision Notes (English Language 3.2)"
+seoTitle: "English Language 3.2 Synthesis and Sources Revision Notes"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.2"]

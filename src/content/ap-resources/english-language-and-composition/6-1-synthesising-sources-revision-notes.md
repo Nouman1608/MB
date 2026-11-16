@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.1-revision-notes
 title: 'Synthesising Material from Several Sources: Revision Notes (English Language 6.1)'
+seoTitle: "English Language 6.1 Synthesising Several Sources Notes"
 description: 'One-page recap of synthesising sources: selecting relevant material, combining sources around your own claim, integrating quotation and paraphrase, and avoiding summary.'
 course: english-language-and-composition
 unit: 6

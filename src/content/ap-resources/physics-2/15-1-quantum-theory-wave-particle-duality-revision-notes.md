@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-15.1-revision-notes"
 title: "Quantum Theory and Wave-Particle Duality: Revision Notes (Physics 2 15.1)"
+seoTitle: "Physics 2 15.1 Wave-Particle Duality Revision Notes"
 description: "One-page recap of photons and E = hf, photon speed in a medium, photons per second, de Broglie wavelength λ = h/p, and quantized energy in bound systems."
 course: "physics-2"
 unit: 15

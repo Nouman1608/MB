@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.5-practice"
 title: "Legal and Ethical Concerns: Practice Questions (Computer Science Principles 5.5)"
+seoTitle: "CS Principles 5.5 Legal and Ethical Concerns Practice"
 description: "Ten original practice questions on intellectual property, plagiarism, licences, citation and legal and ethical concerns, with full explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 5

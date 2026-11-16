@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.8-checklist"
 title: "Area of a Polar Region or the Area Bounded by a Single Polar Curve: Topic Checklist (Calculus BC 9.8)"
+seoTitle: "Calculus BC 9.8 Area of a Polar Region Topic Checklist"
 description: "Specific “I can…” statements for polar area with a single curve, each linked to the guide section and practice question that shows whether you can really do it."
 course: "calculus-bc"
 unit: 9

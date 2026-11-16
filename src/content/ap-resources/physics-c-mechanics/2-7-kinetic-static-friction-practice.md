@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-2.7-practice"
 title: "Kinetic and Static Friction: Practice Questions (Physics C: Mechanics 2.7)"
+seoTitle: "Physics C Mechanics 2.7 Kinetic, Static Friction Practice"
 description: "Seven original Marlbridge practice questions on kinetic and static friction: normal force, direction of friction, slip tests, slopes, a varying coefficient and sled data."
 course: "physics-c-mechanics"
 unit: 2

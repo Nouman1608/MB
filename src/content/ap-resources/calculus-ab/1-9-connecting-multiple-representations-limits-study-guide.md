@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.9-study-guide"
 title: "Connecting Multiple Representations of Limits: Study Guide (Calculus AB 1.9)"
+seoTitle: "Calculus AB 1.9 Multiple Representations of Limits Guide"
 description: "Read the same limit from a graph, a table, a formula and a sentence, then combine them: sums, products and composite functions where each piece comes from a different representation."
 course: "calculus-ab"
 unit: 1

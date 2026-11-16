@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.1-revision-notes"
 title: "Introducing Statistics: What Can We Learn from Data? Revision Notes (Statistics 1.1)"
+seoTitle: "Statistics 1.1 Introducing Statistics Revision Notes"
 description: "One-page recap of the parts of a statistical study, N and n, why we sample, what makes a valid investigative question and how to write in context."
 course: "statistics"
 unit: 1

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.4-checklist"
 title: "Conservation of Angular Momentum: Topic Checklist (Physics C: Mechanics 6.4)"
+seoTitle: "Physics C Mechanics 6.4 Angular Momentum Conserved Checklist"
 description: "Specific “I can…” statements for calculus-based conservation of angular momentum, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 6

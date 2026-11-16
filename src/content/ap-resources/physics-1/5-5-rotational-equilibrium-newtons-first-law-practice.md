@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys1-5.5-practice"
 title: "Rotational Equilibrium and Newton's First Law in Rotational Form: Practice Questions (Physics 1 5.5)"
+seoTitle: "Physics 1 5.5 Rotational Equilibrium Practice Questions"
 description: "Seven original Marlbridge practice questions on rotational equilibrium: balancing torques, tipping, a derived tension, a balance experiment and couples, with worked solutions and suggested mark points."
 course: "physics-1"
 unit: 5

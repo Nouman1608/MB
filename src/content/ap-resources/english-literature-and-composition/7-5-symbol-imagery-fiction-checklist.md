@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.5-checklist
 title: 'Symbol and Imagery in Fiction: Topic Checklist (English Literature 7.5)'
+seoTitle: "English Lit 7.5 Symbol and Imagery in Fiction Checklist"
 description: Specific “I can…” statements for symbol, imagery and motif in short fiction, each linked to the guide section or practice question that tests it.
 course: english-literature-and-composition
 unit: 7

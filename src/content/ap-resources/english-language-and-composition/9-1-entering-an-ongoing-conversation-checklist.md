@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.1-checklist"
 title: "Entering an Ongoing Conversation: Topic Checklist (English Language 9.1)"
+seoTitle: "English Language 9.1 Entering the Conversation Checklist"
 description: "Specific \"I can\" statements for engaging the positions already considered on a subject and placing your own argument among them, each linked to the guide section or practice question that tests it."
 course: "english-language-and-composition"
 unit: 9

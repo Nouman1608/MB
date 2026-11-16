@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-u14-diagnostic"
 title: "Waves, Sound and Physical Optics: Unit Diagnostic (Physics 2 Unit 14)"
+seoTitle: "Physics 2 Unit 14 Waves and Optics Diagnostic"
 description: "Twelve short original questions across all nine topics to find which wave ideas to revisit: wave speed, graphs, boundaries, polarization, the spectrum, Doppler, interference and thin films."
 course: "physics-2"
 unit: 14

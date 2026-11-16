@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.1-practice"
 title: "Defining Average and Instantaneous Rates of Change at a Point: Practice Questions (Calculus AB 2.1)"
+seoTitle: "Calculus AB 2.1 Average and Instantaneous Rates Practice"
 description: "Seven original Marlbridge practice questions on difference quotients and the derivative at a point as a limit, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 2

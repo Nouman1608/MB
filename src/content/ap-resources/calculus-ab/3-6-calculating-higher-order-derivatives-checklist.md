@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-3.6-checklist"
 title: "Calculating Higher-Order Derivatives: Topic Checklist (Calculus AB 3.6)"
+seoTitle: "Calculus AB 3.6 Higher-Order Derivatives Topic Checklist"
 description: "Specific “I can…” statements for second and higher derivatives, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 3

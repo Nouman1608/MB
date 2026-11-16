@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.5-revision-notes"
 title: "Using the Candidates Test to Find Absolute Extrema: Revision Notes (Calculus AB 5.5)"
+seoTitle: "Calculus AB 5.5 Candidates Test for Absolute Extrema Notes"
 description: "One-page recap of the Candidates Test: the conditions, which points count as candidates, how to compare them and how to report absolute extrema."
 course: "calculus-ab"
 unit: 5

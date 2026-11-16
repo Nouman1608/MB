@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.9-study-guide"
 title: "Setting Up a Test for the Difference Between Two Population Means: Study Guide (Statistics 4.9)"
+seoTitle: "Statistics 4.9 Setting Up a Test for Two Means Study Guide"
 description: "Learn to set up a two-sample t-test: recognise independent samples, define μ₁ and μ₂ in context, write the null and alternative hypotheses, and verify the three conditions."
 course: "statistics"
 unit: 4

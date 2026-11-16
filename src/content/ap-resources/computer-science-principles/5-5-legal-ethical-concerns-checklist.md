@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-5.5-checklist"
 title: "Legal and Ethical Concerns: Topic Checklist (Computer Science Principles 5.5)"
+seoTitle: "CS Principles 5.5 Legal and Ethical Concerns Topic Checklist"
 description: "Specific I can statements for legal and ethical concerns of computing, each linked to the guide section and practice question that tests it."
 course: "computer-science-principles"
 unit: 5

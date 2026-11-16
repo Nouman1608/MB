@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.12-practice"
 title: "Exploring Behaviors of Implicit Relations: Practice Questions (Calculus AB 5.12)"
+seoTitle: "Calculus AB 5.12 Behaviors of Implicit Relations Practice"
 description: "Seven original Marlbridge practice questions on critical points, increasing and decreasing behaviour and second derivatives of implicit curves, with full solutions and rubrics."
 course: "calculus-ab"
 unit: 5

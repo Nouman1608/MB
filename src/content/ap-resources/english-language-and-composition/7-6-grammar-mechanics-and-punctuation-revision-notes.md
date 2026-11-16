@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.6-revision-notes"
 title: "Grammar, Mechanics and Punctuation: Revision Notes (English Language 7.6)"
+seoTitle: "English Language 7.6 Grammar and Punctuation Revision Notes"
 description: "One-page recap of punctuation and grammar conventions that enable clear communication and shape relationships among ideas, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 7

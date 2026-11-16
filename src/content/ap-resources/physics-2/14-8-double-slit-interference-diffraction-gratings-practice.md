@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-14.8-practice"
 title: "Double-Slit Interference and Diffraction Gratings: Practice Questions (Physics 2 14.8)"
+seoTitle: "Physics 2 14.8 Double-Slit and Gratings Practice Questions"
 description: "Seven original Marlbridge practice questions on double-slit fringes, path difference, gratings, white-light spectra, graphing data and the diffraction envelope, with full solutions."
 course: "physics-2"
 unit: 14

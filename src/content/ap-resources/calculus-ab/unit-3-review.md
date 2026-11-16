@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u3-review"
 title: "Differentiation: Composite, Implicit, and Inverse Functions: Mixed Unit Review (Calculus AB Unit 3)"
+seoTitle: "Calculus AB Unit 3 Composite, Implicit, Inverse Unit Review"
 description: "The big ideas of composite, implicit and inverse differentiation in one place, a methods table, and seven original mixed questions with worked solutions and rubrics."
 course: "calculus-ab"
 unit: 3

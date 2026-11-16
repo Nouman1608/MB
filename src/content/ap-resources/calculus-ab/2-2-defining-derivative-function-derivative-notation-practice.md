@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.2-practice"
 title: "Defining the Derivative of a Function and Using Derivative Notation: Practice Questions (Calculus AB 2.2)"
+seoTitle: "Calculus AB 2.2 Defining the Derivative Practice Questions"
 description: "Seven original Marlbridge practice questions on the derivative function from the definition, derivative notation, units and tangent lines, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 2

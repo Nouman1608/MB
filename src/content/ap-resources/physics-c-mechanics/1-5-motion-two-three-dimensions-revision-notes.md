@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-1.5-revision-notes"
 title: "Motion in Two or Three Dimensions: Revision Notes (Physics C: Mechanics 1.5)"
+seoTitle: "Physics C Mechanics 1.5 Motion in 2D and 3D Revision Notes"
 description: "One-page calculus recap of motion in a plane: vector position, velocity and acceleration, independent components, non-uniform acceleration and projectiles."
 course: "physics-c-mechanics"
 unit: 1

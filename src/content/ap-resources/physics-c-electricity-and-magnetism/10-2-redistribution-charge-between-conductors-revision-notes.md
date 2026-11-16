@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-10.2-revision-notes"
 title: "Redistribution of Charge Between Conductors: Revision Notes (Physics C: E&M 10.2)"
+seoTitle: "Physics C E&M 10.2 Charge Redistribution Revision Notes"
 description: "One-page recap of charge sharing between conductors: equal potential on contact, spheres joined by a wire, nested conductors, ground and the induced charge on a grounded sphere."
 course: "physics-c-electricity-and-magnetism"
 unit: 10

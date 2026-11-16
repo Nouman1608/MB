@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.6-study-guide"
 title: "Modifiers and Parenthetical Elements: Study Guide (English Language 8.6)"
+seoTitle: "English Language 8.6 Modifiers and Parentheticals Guide"
 description: "How modifiers qualify, clarify and specify, why they belong next to what they modify, and how parenthetical elements interrupt a sentence to add information that serves an audience and a purpose."
 course: "english-language-and-composition"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-u8-review"
 title: "Audience, Style and Irony: Mixed Unit Review (English Language Unit 8)"
+seoTitle: "English Language Unit 8 Audience, Style and Irony Review"
 description: "Big ideas, a one-table method summary and six original exam-style questions that each combine two or more Unit 8 topics, with worked answers and suggested rubrics."
 course: "english-language-and-composition"
 unit: 8

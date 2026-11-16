@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.15-practice"
 title: "Representing Functions as Power Series: Practice Questions (Calculus BC 10.15)"
+seoTitle: "Calculus BC 10.15 Functions as Power Series Practice"
 description: "Seven original Marlbridge practice questions on building power series from known series, term-by-term differentiation and integration, and intervals of convergence, with rubrics."
 course: "calculus-bc"
 unit: 10

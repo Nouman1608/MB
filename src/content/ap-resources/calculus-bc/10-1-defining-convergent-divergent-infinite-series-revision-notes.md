@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.1-revision-notes"
 title: "Defining Convergent and Divergent Infinite Series: Revision Notes (Calculus BC 10.1)"
+seoTitle: "Calculus BC 10.1 Convergent and Divergent Series Notes"
 description: "One-page recap of infinite series: terms versus partial sums, the limit definition of convergence, recovering terms from Sₙ, telescoping sums and the mistakes that cost marks."
 course: "calculus-bc"
 unit: 10

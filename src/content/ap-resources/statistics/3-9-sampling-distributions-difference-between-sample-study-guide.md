@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.9-study-guide"
 title: "Sampling Distributions for the Difference Between Sample Proportions: Study Guide (Statistics 3.9)"
+seoTitle: "Statistics 3.9 Difference in Sample Proportions Guide"
 description: "Find the mean and standard deviation of the sampling distribution of p̂1 − p̂2, check the randomization, 10% and large-counts conditions, and calculate and interpret normal probabilities."
 course: "statistics"
 unit: 3

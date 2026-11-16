@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.2-revision-notes"
 title: "Complexity revealed through choices, actions and speech: Revision Notes (English Literature 9.2)"
+seoTitle: "English Lit 9.2 Complexity Through Choices Revision Notes"
 description: "A one-page recap of complexity revealed through choices, actions and speech: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 9

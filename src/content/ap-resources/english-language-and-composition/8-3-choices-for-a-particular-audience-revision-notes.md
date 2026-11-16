@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-8.3-revision-notes"
 title: "Making Choices for a Particular Audience: Revision Notes (English Language 8.3)"
+seoTitle: "English Language 8.3 Choices for a Particular Audience Notes"
 description: "One-page recap of choosing evidence, organisation and language to fit an audience's perspective, context and needs, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 8

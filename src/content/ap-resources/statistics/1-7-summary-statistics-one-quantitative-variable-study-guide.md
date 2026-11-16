@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.7-study-guide"
 title: "Summary Statistics for One Quantitative Variable: Study Guide (Statistics 1.7)"
+seoTitle: "Statistics 1.7 Quantitative Summary Statistics Study Guide"
 description: "Learn to calculate and interpret the mean, median, quartiles, percentiles, range, IQR and standard deviation, check for outliers two ways, and choose resistant statistics."
 course: "statistics"
 unit: 1

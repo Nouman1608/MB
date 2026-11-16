@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.2-revision-notes"
 title: "Complexity and Avoiding Oversimplification: Revision Notes (English Language 7.2)"
+seoTitle: "English Language 7.2 Complexity and Oversimplification Notes"
 description: "One-page recap of spotting and avoiding oversimplified claims, and revising a claim when evidence complicates it, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 7

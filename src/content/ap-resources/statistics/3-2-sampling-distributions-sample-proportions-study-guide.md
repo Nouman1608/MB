@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.2-study-guide"
 title: "Sampling Distributions for Sample Proportions: Study Guide (Statistics 3.2)"
+seoTitle: "Statistics 3.2 Sample Proportion Distributions Study Guide"
 description: "Find the mean and standard deviation of the sampling distribution of a sample proportion, check the random, 10% and large-counts conditions, and calculate and interpret normal probabilities."
 course: "statistics"
 unit: 3

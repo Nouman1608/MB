@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-10.2-revision-notes"
 title: "Conservation of Electric Charge and the Process of Charging: Revision Notes (Physics 2 10.2)"
+seoTitle: "Physics 2 10.2 Conservation of Charge Revision Notes"
 description: "One-page recap of conservation of charge, charging by friction and contact, induced charge separation, polarization, grounding and the steps of charging by induction."
 course: "physics-2"
 unit: 10

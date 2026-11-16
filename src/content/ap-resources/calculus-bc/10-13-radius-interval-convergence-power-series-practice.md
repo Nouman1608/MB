@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.13-practice"
 title: "Radius and Interval of Convergence of Power Series: Practice Questions (Calculus BC 10.13)"
+seoTitle: "Calculus BC 10.13 Power Series Convergence Practice"
 description: "Seven original Marlbridge practice questions on power series: radius by the ratio test, endpoint tests, coefficients and derivatives, and term-by-term calculus, with rubrics."
 course: "calculus-bc"
 unit: 10

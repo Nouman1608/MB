@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.18-checklist"
 title: "Undecidable Problems: Topic Checklist (Computer Science Principles 3.18)"
+seoTitle: "CS Principles 3.18 Undecidable Problems Topic Checklist"
 description: "Specific \"I can\" statements for undecidable problems, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

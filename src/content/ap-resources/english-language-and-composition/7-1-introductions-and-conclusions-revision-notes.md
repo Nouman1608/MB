@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.1-revision-notes"
 title: "Introductions and Conclusions for a Complex Argument: Revision Notes (English Language 7.1)"
+seoTitle: "English Language 7.1 Introductions and Conclusions Notes"
 description: "One-page recap of writing and analysing introductions and conclusions that suit the rhetorical situation, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.9-study-guide"
 title: "Connecting a Function, Its First Derivative, and Its Second Derivative: Study Guide (Calculus AB 5.9)"
+seoTitle: "Calculus AB 5.9 Function, First and Second Derivative Guide"
 description: "Learn how the graphs of f, f′ and f″ fit together: read increase, extrema, concavity and inflection points from any one graph, and justify each claim."
 course: "calculus-ab"
 unit: 5

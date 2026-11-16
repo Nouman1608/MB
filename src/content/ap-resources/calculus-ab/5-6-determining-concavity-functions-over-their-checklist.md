@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.6-checklist"
 title: "Determining Concavity of Functions over Their Domains: Topic Checklist (Calculus AB 5.6)"
+seoTitle: "Calculus AB 5.6 Determining Concavity of Functions Checklist"
 description: "Specific “I can…” statements for concavity and points of inflection, each linked to the guide section and practice question that shows whether you can do it."
 course: "calculus-ab"
 unit: 5

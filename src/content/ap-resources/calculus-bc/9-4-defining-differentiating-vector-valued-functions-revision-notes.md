@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.4-revision-notes"
 title: "Defining and Differentiating Vector-Valued Functions: Revision Notes (Calculus BC 9.4)"
+seoTitle: "Calculus BC 9.4 Vector-Valued Function Derivatives Notes"
 description: "One-page recap of vector-valued functions: notation and domain, component-wise derivatives, what r′(t) says about tangents and direction, and r″(t) versus d²y/dx²."
 course: "calculus-bc"
 unit: 9

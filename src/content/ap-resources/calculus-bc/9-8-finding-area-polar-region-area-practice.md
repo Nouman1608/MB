@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.8-practice"
 title: "Area of a Polar Region or the Area Bounded by a Single Polar Curve: Practice Questions (Calculus BC 9.8)"
+seoTitle: "Calculus BC 9.8 Area of a Polar Region Practice Questions"
 description: "Seven original Marlbridge practice questions on polar area: sectors, circles, petals, spirals, limaçons, a lemniscate and an inner loop, with worked solutions and rubrics."
 course: "calculus-bc"
 unit: 9

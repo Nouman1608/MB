@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-2.6-practice"
 title: "Market Equilibrium and Consumer and Producer Surplus: Practice Questions (Microeconomics 2.6)"
+seoTitle: "Microeconomics 2.6 Equilibrium and Surplus Practice"
 description: "Seven original Marlbridge practice questions on market equilibrium, the price as a signal, and consumer, producer and total surplus from tables and graphs, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 2

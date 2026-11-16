@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.4-study-guide"
 title: "Finding the Area Between Curves Expressed as Functions of x: Study Guide (Calculus AB 8.4)"
+seoTitle: "Calculus AB 8.4 Area Between Curves as Functions of x Guide"
 description: "Learn why the area between two curves is the integral of top minus bottom, how to find the limits and the top curve, and how to write and evaluate the integral with and without a calculator."
 course: "calculus-ab"
 unit: 8

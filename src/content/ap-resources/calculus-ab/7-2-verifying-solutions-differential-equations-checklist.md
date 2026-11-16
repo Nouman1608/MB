@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.2-checklist"
 title: "Verifying Solutions for Differential Equations: Topic Checklist (Calculus AB 7.2)"
+seoTitle: "Calculus AB 7.2 Verifying Differential Equations Checklist"
 description: "Specific “I can…” statements for verifying solutions of differential equations, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 7

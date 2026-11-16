@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.1-practice"
 title: "Defining and Differentiating Parametric Equations: Practice Questions (Calculus BC 9.1)"
+seoTitle: "Calculus BC 9.1 Parametric Differentiation Practice"
 description: "Seven original Marlbridge practice questions on parametric curves: dy/dx, tangent lines, horizontal and vertical tangents, and a path in context, with rubrics."
 course: "calculus-bc"
 unit: 9

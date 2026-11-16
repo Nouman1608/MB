@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u2-diagnostic"
 title: "Economic Indicators and the Business Cycle: Unit Diagnostic (Macroeconomics Unit 2)"
+seoTitle: "Macroeconomics Unit 2 Business Cycle Indicators Diagnostic"
 description: "A 30-minute check on GDP and its limits, unemployment, price indices, the costs of inflation, real GDP and the business cycle, with explanations and a link to revisit for each topic."
 course: "macroeconomics"
 unit: 2

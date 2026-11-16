@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.2-practice"
 title: "Sampling Distributions for Sample Proportions: Practice Questions (Statistics 3.2)"
+seoTitle: "Statistics 3.2 Sample Proportion Distributions Practice"
 description: "Seven original Marlbridge practice questions on the mean, standard deviation, conditions and normal probabilities for a sample proportion, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

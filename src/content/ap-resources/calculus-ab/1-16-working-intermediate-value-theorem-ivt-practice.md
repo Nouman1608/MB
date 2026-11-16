@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.16-practice"
 title: "Working with the Intermediate Value Theorem: Practice Questions (Calculus AB 1.16)"
+seoTitle: "Calculus AB 1.16 Intermediate Value Theorem Practice"
 description: "Seven original Marlbridge practice questions on the Intermediate Value Theorem using formulas, tables and piecewise functions, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 1

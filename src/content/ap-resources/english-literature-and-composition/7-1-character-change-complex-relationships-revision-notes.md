@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.1-revision-notes
 title: 'Character Change and Complex Relationships: Revision Notes (English Literature 7.1)'
+seoTitle: "English Lit 7.1 Character Change and Relationships Notes"
 description: 'Revision notes on character change, epiphany and relationships with groups or forces in short fiction: the before-and-after frame, key terms, common mistakes and a short self-check with answers.'
 course: english-literature-and-composition
 unit: 7

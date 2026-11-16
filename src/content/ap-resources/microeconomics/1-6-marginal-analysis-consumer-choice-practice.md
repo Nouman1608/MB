@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-1.6-practice"
 title: "Marginal Analysis and Consumer Choice: Practice Questions (Microeconomics 1.6)"
+seoTitle: "Microeconomics 1.6 Marginal Analysis Practice Questions"
 description: "Seven original Marlbridge practice questions on marginal benefit and marginal cost, sunk costs, diminishing marginal utility and utility maximization, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 1

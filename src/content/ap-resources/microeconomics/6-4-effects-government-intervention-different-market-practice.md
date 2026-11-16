@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.4-practice"
 title: "The Effects of Government Intervention in Different Market Structures: Practice Questions (Microeconomics 6.4)"
+seoTitle: "Microeconomics 6.4 Market Structure Intervention Practice"
 description: "Seven original Marlbridge practice questions on taxes, subsidies, price ceilings, minimum wages, natural monopoly regulation and antitrust policy in different market structures, with worked solutions."
 course: "microeconomics"
 unit: 6

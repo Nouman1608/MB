@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-6.4-study-guide"
 title: "Conservation of Angular Momentum: Study Guide (Physics C: Mechanics 6.4)"
+seoTitle: "Physics C Mechanics 6.4 Conserving Angular Momentum Guide"
 description: "Calculus-based conservation of angular momentum: total L of a system, why internal torques cancel, choosing the system, shape changes with ω = L/I, and transfer by external torques."
 course: "physics-c-mechanics"
 unit: 6

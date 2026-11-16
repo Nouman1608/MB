@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-6.1-revision-notes"
 title: "Socially Efficient and Inefficient Market Outcomes: Revision Notes (Microeconomics 6.1)"
+seoTitle: "Microeconomics 6.1 Socially Efficient Outcomes Notes"
 description: "One-page recap of social efficiency: the MSB = MSC rule, why competitive markets are efficient, the sources of inefficiency, deadweight loss calculations and the mistakes that cost marks."
 course: "microeconomics"
 unit: 6

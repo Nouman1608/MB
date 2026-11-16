@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-u6-diagnostic
 title: 'Longer Fiction or Drama II: Unit Diagnostic (English Literature Unit 6)'
+seoTitle: "English Lit Unit 6 Longer Fiction or Drama II Diagnostic"
 description: A 35-minute check with one short question per topic of Unit 6, from foils and complexity to narration, symbol, thesis and evidence, showing which topics to revisit.
 course: english-literature-and-composition
 unit: 6

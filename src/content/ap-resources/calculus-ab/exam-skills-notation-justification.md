@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-exam-skills-notation-justification"
 title: "Notation, Justification and Communication: Exam Skills Guide (Calculus AB and BC)"
+seoTitle: "Calculus AB BC Notation and Justification Exam Skills"
 description: "How to write calculus answers that earn credit: clear notation, theorem conditions, sign-chart justifications, units in context, and calculator set-ups."
 course: "calculus-ab"
 unit: 1

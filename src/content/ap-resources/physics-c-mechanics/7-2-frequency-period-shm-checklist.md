@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.2-checklist"
 title: "Frequency and Period of SHM: Topic Checklist (Physics C: Mechanics 7.2)"
+seoTitle: "Physics C Mechanics 7.2 SHM Frequency and Period Checklist"
 description: "Specific “I can…” statements for calculus-based period and frequency of SHM, each linked to the guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 7

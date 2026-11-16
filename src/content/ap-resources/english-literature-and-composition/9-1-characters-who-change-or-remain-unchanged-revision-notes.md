@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-9.1-revision-notes"
 title: "Characters who change or remain unchanged: Revision Notes (English Literature 9.1)"
+seoTitle: "English Lit 9.1 Characters Who Change Revision Notes"
 description: "A one-page recap of characters who change or remain unchanged: key ideas, a quick-reference table, common mistakes and a short self-check with answers."
 course: "english-literature-and-composition"
 unit: 9

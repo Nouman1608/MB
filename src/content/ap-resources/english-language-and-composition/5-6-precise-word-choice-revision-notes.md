@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-5.6-revision-notes
 title: 'Descriptive Words and Precise Word Choice: Revision Notes (English Language 5.6)'
+seoTitle: "English Language 5.6 Precise Word Choice Revision Notes"
 description: 'One-page recap of descriptive words and precise word choice: how modifiers convey perspective, how vague words weaken writing, and how to revise for precision.'
 course: english-language-and-composition
 unit: 5

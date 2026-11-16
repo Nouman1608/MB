@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.3-practice"
 title: "Estimating Derivatives of a Function at a Point: Practice Questions (Calculus AB 2.3)"
+seoTitle: "Calculus AB 2.3 Estimating Derivatives at a Point Practice"
 description: "Seven original Marlbridge practice questions on estimating derivatives from tables, tangent lines and a calculator, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 2

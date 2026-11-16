@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-exam-skills-task-verbs"
 title: "Task Verbs and Free-Response Technique: Exam Skills Guide (Physics C: E&M)"
+seoTitle: "Physics C E&M Task Verbs and Free-Response Exam Skills"
 description: "What each free-response task verb asks for in calculus-based electricity and magnetism, how much to write, how to plan the section and set out working, with original examples, rubrics and practice."
 course: "physics-c-electricity-and-magnetism"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-1.6-checklist"
 title: "Descriptions for One Quantitative Variable Distributions: Topic Checklist (Statistics 1.6)"
+seoTitle: "Statistics 1.6 Describing Distributions Topic Checklist"
 description: "Specific “I can…” statements for describing quantitative distributions and judging claims from graphs, each linked to the guide section and practice question that shows whether you can do it."
 course: "statistics"
 unit: 1

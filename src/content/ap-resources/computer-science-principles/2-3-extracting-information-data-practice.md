@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.3-practice"
 title: "Extracting Information from Data: Practice Questions (Computer Science Principles 2.3)"
+seoTitle: "CS Principles 2.3 Extracting Information from Data Practice"
 description: "Ten original practice questions on metadata, data cleaning, correlation versus causation, bias, filtering and large datasets, with full explanations and suggested rubrics."
 course: "computer-science-principles"
 unit: 2

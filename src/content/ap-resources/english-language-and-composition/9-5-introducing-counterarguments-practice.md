@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-9.5-practice"
 title: "Introducing Counterarguments, and When to Address Them: Practice Questions (English Language 9.5)"
+seoTitle: "English Language 9.5 Introducing Counterarguments Practice"
 description: "8 original Marlbridge practice questions on introducing counterarguments with transitions and choosing where to place them, with full answers, distractor explanations and suggested rubrics."
 course: "english-language-and-composition"
 unit: 9

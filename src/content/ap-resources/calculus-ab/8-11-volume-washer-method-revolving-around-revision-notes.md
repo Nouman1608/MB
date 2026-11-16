@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.11-revision-notes"
 title: "Volume with Washer Method: Revolving Around the x- or y-Axis: Revision Notes (Calculus AB 8.11)"
+seoTitle: "Calculus AB 8.11 Washer Method Around the x- or y-Axis Notes"
 description: "One-page recap of the washer method around the coordinate axes: outer and inner radii, the two volume formulas, rounding rules and the mistakes that cost marks."
 course: "calculus-ab"
 unit: 8

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.7-practice"
 title: "The Fundamental Theorem of Calculus and Definite Integrals: Practice Questions (Calculus AB 6.7)"
+seoTitle: "Calculus AB 6.7 FTC and Definite Integrals Practice"
 description: "Seven original Marlbridge practice questions on evaluating definite integrals with antiderivatives, continuity conditions, Riemann sums and net change, with full solutions."
 course: "calculus-ab"
 unit: 6

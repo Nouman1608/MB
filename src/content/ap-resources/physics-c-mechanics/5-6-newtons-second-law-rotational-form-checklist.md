@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-5.6-checklist"
 title: "Newton’s Second Law in Rotational Form: Topic Checklist (Physics C: Mechanics 5.6)"
+seoTitle: "Physics C Mechanics 5.6 Newton's 2nd Law, Rotation Checklist"
 description: "Specific “I can…” statements for calculus-based rotational dynamics, each linked to the study guide section and practice question that tests it."
 course: "physics-c-mechanics"
 unit: 5

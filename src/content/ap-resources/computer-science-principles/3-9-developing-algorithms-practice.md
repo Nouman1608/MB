@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.9-practice"
 title: "Developing Algorithms: Practice Questions (Computer Science Principles 3.9)"
+seoTitle: "CS Principles 3.9 Developing Algorithms Practice Questions"
 description: "Nine original Marlbridge practice questions on expressing, combining, modifying and comparing algorithms, including equivalent conditionals and Boolean expressions, with explanations and a suggested rubric."
 course: "computer-science-principles"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-8.2-checklist"
 title: "Word choice in complex poems: Topic Checklist (English Literature 8.2)"
+seoTitle: "English Lit 8.2 Word Choice in Complex Poems Topic Checklist"
 description: "Specific \"I can\" statements for word choice in complex poems, each linked to the guide section and practice question that tests it."
 course: "english-literature-and-composition"
 unit: 8

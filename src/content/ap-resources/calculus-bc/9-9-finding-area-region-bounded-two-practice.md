@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-9.9-practice"
 title: "Finding the Area of the Region Bounded by Two Polar Curves: Practice Questions (Calculus BC 9.9)"
+seoTitle: "Calculus BC 9.9 Area Bounded by Two Polar Curves Practice"
 description: "Seven original Marlbridge practice questions on areas between two polar curves: intersections and the pole, outer and inner curves, regions inside both, and a garden context, with rubrics."
 course: "calculus-bc"
 unit: 9

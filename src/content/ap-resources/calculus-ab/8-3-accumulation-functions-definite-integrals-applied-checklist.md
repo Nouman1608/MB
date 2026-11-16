@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.3-checklist"
 title: "Accumulation Functions and Definite Integrals in Applied Contexts: Topic Checklist (Calculus AB 8.3)"
+seoTitle: "Calculus AB 8.3 Integrals in Applied Contexts Checklist"
 description: "Specific “I can…” statements for net change, amount functions and interpreting integrals in context, each linked to the guide section and practice question that tests it."
 course: "calculus-ab"
 unit: 8

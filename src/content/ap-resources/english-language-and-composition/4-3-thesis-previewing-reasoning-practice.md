@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-4.3-practice
 title: 'Thesis Statements That Preview the Line of Reasoning: Practice Questions (English Language 4.3)'
+seoTitle: "English Language 4.3 Thesis Previewing Reasoning Practice"
 description: 'Eight original Marlbridge practice questions on theses that preview a line of reasoning: finding the thesis, telling a preview from an announcement, and writing and revising previewing theses.'
 course: english-language-and-composition
 unit: 4

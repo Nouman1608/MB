@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.8-checklist"
 title: "Potential Errors When Performing Tests: Topic Checklist (Statistics 3.8)"
+seoTitle: "Statistics 3.8 Errors When Performing Tests Checklist"
 description: "Specific “I can…” statements for Type I and Type II errors, α, power and the factors that affect them, each linked to the guide section and practice question that tests it."
 course: "statistics"
 unit: 3

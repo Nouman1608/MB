@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englang-6.4-checklist
 title: 'Revising a Thesis for New Evidence: Topic Checklist (English Language 6.4)'
+seoTitle: "English Language 6.4 Revising a Thesis Topic Checklist"
 description: Specific “I can…” statements for revising a thesis and line of reasoning in response to new evidence, each linked to the guide section and practice question that tests it.
 course: english-language-and-composition
 unit: 6

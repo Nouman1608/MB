@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.1-study-guide
 title: 'Character Change and Complex Relationships: Study Guide (English Literature 7.1)'
+seoTitle: "English Lit 7.1 Character Change and Relationships Guide"
 description: 'How and why characters change or stay the same in short fiction: conflicts of values, changed circumstances, epiphany, and what a character''s relationship with a group or force reveals.'
 course: english-literature-and-composition
 unit: 7

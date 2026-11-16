@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcem-13.3-revision-notes"
 title: "Induced Currents and Magnetic Forces: Revision Notes (Physics C: E&M 13.3)"
+seoTitle: "Physics C E&M 13.3 Induced Currents Revision Notes"
 description: "One-page recap of magnetic forces on induced currents: which segments feel a force, magnetic braking, F = B²L²v/R, exponential slowing and terminal speed."
 course: "physics-c-electricity-and-magnetism"
 unit: 13

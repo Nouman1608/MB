@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-5.1-study-guide"
 title: "Graphical Representations Between Two Quantitative Variables: Study Guide (Statistics 5.1)"
+seoTitle: "Statistics 5.1 Graphing Two Quantitative Variables Guide"
 description: "Learn to build a scatterplot with the explanatory variable on the x-axis, describe its form, direction, strength and unusual features in context, and use it to judge a claim."
 course: "statistics"
 unit: 5

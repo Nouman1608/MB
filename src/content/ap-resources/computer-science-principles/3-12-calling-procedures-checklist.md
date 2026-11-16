@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.12-checklist"
 title: "Calling Procedures: Topic Checklist (Computer Science Principles 3.12)"
+seoTitle: "CS Principles 3.12 Calling Procedures Topic Checklist"
 description: "Specific \"I can\" statements for calling procedures, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

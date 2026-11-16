@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-8.3-revision-notes"
 title: "Accumulation Functions and Definite Integrals in Applied Contexts: Revision Notes (Calculus AB 8.3)"
+seoTitle: "Calculus AB 8.3 Definite Integrals in Applied Contexts Notes"
 description: "One-page recap of net change from a rate: the amount-function formula, rates in and out, finding the greatest amount, units and how to word an interpretation."
 course: "calculus-ab"
 unit: 8

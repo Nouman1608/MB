@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-chem-3.11-study-guide"
 title: "Spectroscopy and the Electromagnetic Spectrum: Study Guide (Chemistry 3.11)"
+seoTitle: "Chemistry 3.11 Spectroscopy and the EM Spectrum Guide"
 description: "Learn how each region of the electromagnetic spectrum matches one kind of change in a molecule: microwaves change rotation, infrared changes vibration, and UV or visible light moves electrons."
 course: "chemistry"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-4.3-study-guide"
 title: "Definition, Measurement, and Functions of Money: Study Guide (Macroeconomics 4.3)"
+seoTitle: "Macroeconomics 4.3 Functions of Money Study Guide"
 description: "Learn what counts as money, its three functions, and how to calculate M1, M2 and the monetary base from data, including how everyday transactions change each measure."
 course: "macroeconomics"
 unit: 4

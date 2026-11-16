@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-u5-diagnostic"
 title: "Analytical Applications of Differentiation: Unit Diagnostic (Calculus AB Unit 5)"
+seoTitle: "Calculus AB Unit 5 Analytical Differentiation Diagnostic"
 description: "Twelve short original questions, one per topic of Analytical Applications of Differentiation, to show which topics you should revisit, with explanations and links."
 course: "calculus-ab"
 unit: 5

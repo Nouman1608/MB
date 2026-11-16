@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-macro-u2-review"
 title: "Economic Indicators and the Business Cycle: Mixed Unit Review (Macroeconomics Unit 2)"
+seoTitle: "Macroeconomics Unit 2 Business Cycle Indicators Review"
 description: "Connect GDP, unemployment, price indices, the costs of inflation, real GDP and the business cycle, then try six original questions that each combine two or more Unit 2 topics, with worked solutions."
 course: "macroeconomics"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.8-revision-notes"
 title: "Exponential Models with Differential Equations: Revision Notes (Calculus AB 7.8)"
+seoTitle: "Calculus AB 7.8 Exponential Models with DEs Revision Notes"
 description: "One-page recap of dy/dt = ky: translating the sentence, the solution y = y₀e^(kt), finding k from data or a half-life, checking answers and the common slips."
 course: "calculus-ab"
 unit: 7

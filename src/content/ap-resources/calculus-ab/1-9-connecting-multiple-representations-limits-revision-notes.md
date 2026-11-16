@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-1.9-revision-notes"
 title: "Connecting Multiple Representations of Limits: Revision Notes (Calculus AB 1.9)"
+seoTitle: "Calculus AB 1.9 Multiple Representations of Limits Notes"
 description: "One-page recap of reading limits from graphs, tables, formulas and words, combining them in sums, products and composites, and the traps that cost marks."
 course: "calculus-ab"
 unit: 1

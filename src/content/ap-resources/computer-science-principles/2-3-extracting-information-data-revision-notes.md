@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-2.3-revision-notes"
 title: "Extracting Information from Data: Revision Notes (Computer Science Principles 2.3)"
+seoTitle: "CS Principles 2.3 Extracting Information from Data Notes"
 description: "One-page recap of data versus information, metadata, data cleaning, correlation versus causation, bias, dataset size, and processes that extract information."
 course: "computer-science-principles"
 unit: 2

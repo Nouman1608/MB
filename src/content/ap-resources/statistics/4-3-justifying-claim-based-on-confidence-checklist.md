@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.3-checklist"
 title: "Justifying a Claim Based on a Confidence Interval for a Mean: Topic Checklist (Statistics 4.3)"
+seoTitle: "Statistics 4.3 Justifying a Claim, Mean CI Topic Checklist"
 description: "Specific “I can…” statements for interpreting t-intervals and confidence levels and judging claims about a mean or mean difference, each linked to the guide section and practice question."
 course: "statistics"
 unit: 4

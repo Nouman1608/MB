@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-7.5-practice
 title: 'Symbol and Imagery in Fiction: Practice Questions (English Literature 7.5)'
+seoTitle: "English Lit 7.5 Symbol and Imagery in Fiction Practice"
 description: 'Nine original Marlbridge practice questions on symbol, imagery and motif in short fiction: symbolic settings, the function of sensory images and how a pattern of images emphasises an idea.'
 course: english-literature-and-composition
 unit: 7

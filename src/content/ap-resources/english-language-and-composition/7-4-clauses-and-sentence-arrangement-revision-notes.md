@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-7.4-revision-notes"
 title: "Clauses and the Arrangement of Sentences: Revision Notes (English Language 7.4)"
+seoTitle: "English Language 7.4 Clauses and Sentence Arrangement Notes"
 description: "One-page recap of independent and dependent clauses, and how the arrangement of clauses and sentences emphasises ideas, with the key moves, the mistakes to avoid and a quick self-check."
 course: "english-language-and-composition"
 unit: 7

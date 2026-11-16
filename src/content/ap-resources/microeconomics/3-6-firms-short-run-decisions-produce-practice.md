@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-3.6-practice"
 title: "Short-Run Production and Long-Run Entry or Exit Decisions: Practice Questions (Microeconomics 3.6)"
+seoTitle: "Microeconomics 3.6 Short-Run Production and Exit Practice"
 description: "Seven original Marlbridge practice questions on the short-run shutdown rule, shutdown and break-even prices, losses when producing or shutting down, and long-run entry and exit, with worked solutions."
 course: "microeconomics"
 unit: 3

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-micro-4.1-practice"
 title: "Introduction to Imperfectly Competitive Markets: Practice Questions (Microeconomics 4.1)"
+seoTitle: "Microeconomics 4.1 Imperfect Competition Practice Questions"
 description: "Seven original Marlbridge practice questions on market structures, marginal revenue below price, price above marginal cost and barriers to entry, with worked solutions and suggested mark points."
 course: "microeconomics"
 unit: 4

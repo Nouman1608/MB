@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-6.8-study-guide"
 title: "Antiderivatives and Indefinite Integrals: Basic Rules and Notation: Study Guide (Calculus AB 6.8)"
+seoTitle: "Calculus AB 6.8 Indefinite Integrals Basic Rules Study Guide"
 description: "Learn what ∫ f(x) dx = F(x) + C means, how every basic antiderivative comes from a derivative rule, how to rewrite before integrating, and why some functions have no formula."
 course: "calculus-ab"
 unit: 6

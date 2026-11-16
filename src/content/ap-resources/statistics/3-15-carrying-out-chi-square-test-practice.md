@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.15-practice"
 title: "Carrying Out a Chi-Square Test for Homogeneity or Independence: Practice Questions (Statistics 3.15)"
+seoTitle: "Statistics 3.15 Carrying Out a Chi-Square Test Practice"
 description: "Seven original Marlbridge practice questions on expected counts, the chi-square statistic, degrees of freedom, p-values and conclusions, with worked solutions and suggested rubrics."
 course: "statistics"
 unit: 3

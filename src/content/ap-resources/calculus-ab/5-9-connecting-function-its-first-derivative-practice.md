@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.9-practice"
 title: "Connecting a Function, Its First Derivative, and Its Second Derivative: Practice Questions (Calculus AB 5.9)"
+seoTitle: "Calculus AB 5.9 First and Second Derivatives Practice"
 description: "Seven original Marlbridge practice questions linking the graphs of f, f′ and f″, with full solutions, distractor explanations and suggested rubrics."
 course: "calculus-ab"
 unit: 5

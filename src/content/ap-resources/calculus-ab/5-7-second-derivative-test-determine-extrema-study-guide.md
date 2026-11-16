@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.7-study-guide"
 title: "Using the Second Derivative Test to Determine Extrema: Study Guide (Calculus AB 5.7)"
+seoTitle: "Calculus AB 5.7 Second Derivative Test for Extrema Guide"
 description: "Learn how the sign of f″ at a critical point where f′ = 0 identifies a relative maximum or minimum, when the test gives no answer, and when one critical point gives an absolute extremum."
 course: "calculus-ab"
 unit: 5

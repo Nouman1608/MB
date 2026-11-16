@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.8-study-guide"
 title: "Justifying a Claim With a Confidence Interval for Two Means: Study Guide (Statistics 4.8)"
+seoTitle: "Statistics 4.8 Justifying a Claim, Two-Mean CI Study Guide"
 description: "Learn to interpret a confidence interval for μ₁ − μ₂ and its confidence level in context, and to use the interval, and where 0 lies, to support or reject a claim."
 course: "statistics"
 unit: 4

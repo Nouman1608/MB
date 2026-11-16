@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-7.2-study-guide"
 title: "Verifying Solutions for Differential Equations: Study Guide (Calculus AB 7.2)"
+seoTitle: "Calculus AB 7.2 Verifying Differential Equations Study Guide"
 description: "Learn how to check that a function solves a differential equation by differentiating and substituting, why one point is not enough, and why there can be infinitely many solutions."
 course: "calculus-ab"
 unit: 7

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englang-3.4-practice"
 title: "Commentary Across a Whole Argument: Practice Questions (English Language 3.4)"
+seoTitle: "English Language 3.4 Commentary Across an Argument Practice"
 course: "english-language-and-composition"
 unit: 3
 topics: ["3.4"]

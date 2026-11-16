@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-u5-diagnostic"
 title: "Torque and Rotational Dynamics: Unit Diagnostic (Physics C: Mechanics Unit 5)"
+seoTitle: "Physics C Mechanics Unit 5 Torque and Rotation Diagnostic"
 description: "A 30-minute check of rotation about a fixed axis: ten original questions on angular kinematics, torque, rotational inertia, equilibrium and Στ = Iα, each linked to a topic guide."
 course: "physics-c-mechanics"
 unit: 5

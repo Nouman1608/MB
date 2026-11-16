@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-1.3-practice"
 title: "Plot: How Events Are Ordered and Why: Practice Questions (English Literature 1.3)"
+seoTitle: "English Literature 1.3 Plot and Order of Events Practice"
 description: "Eight original Marlbridge questions on plot in short fiction: sequence, cause and effect, flashback and the function of an ordering choice, with answers and a suggested rubric."
 course: "english-literature-and-composition"
 unit: 1

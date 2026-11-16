@@ -1,6 +1,7 @@
 ---
 resourceId: mb-ap-englit-6.2-study-guide
 title: 'How Choices, Actions and Speech Reveal Complexity: Study Guide (English Literature 6.2)'
+seoTitle: "English Lit 6.2 Character Choices and Complexity Study Guide"
 description: 'How a character''s choices, actions and speech reveal complexity in a longer work: private versus professed values, competing choices, and how to explain the function of the tension.'
 course: english-literature-and-composition
 unit: 6

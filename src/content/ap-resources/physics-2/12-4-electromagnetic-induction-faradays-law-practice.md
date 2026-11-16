@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-phys2-12.4-practice"
 title: "Electromagnetic Induction and Faraday's Law: Practice Questions (Physics 2 12.4)"
+seoTitle: "Physics 2 12.4 Induction and Faraday's Law Practice"
 description: "Seven original Marlbridge practice questions on magnetic flux, Faraday's law, Lenz's law, flux and emf graphs, and rods on rails, with full solutions."
 course: "physics-2"
 unit: 12

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-2.7-practice"
 title: "Derivatives of cos x, sin x, eˣ and ln x: Practice Questions (Calculus AB 2.7)"
+seoTitle: "Calculus AB 2.7 Derivatives of sin, cos, eˣ, ln x Practice"
 description: "Seven original Marlbridge practice questions on the derivatives of sin x, cos x, eˣ and ln x, tangent lines and limits as derivatives, with full solutions and suggested rubrics."
 course: "calculus-ab"
 unit: 2

@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcab-5.4-revision-notes"
 title: "Using the First Derivative Test to Determine Relative (Local) Extrema: Revision Notes (Calculus AB 5.4)"
+seoTitle: "Calculus AB 5.4 First Derivative Test Revision Notes"
 description: "One-page recap of the First Derivative Test: the three outcomes, the conditions it needs, reading a graph of f′, and how to word a justification."
 course: "calculus-ab"
 unit: 5

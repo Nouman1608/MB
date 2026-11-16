@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.12-revision-notes"
 title: "Setting Up a Test for the Difference Between Two Population Proportions: Revision Notes (Statistics 3.12)"
+seoTitle: "Statistics 3.12 Setting Up a Two-Proportion Test Notes"
 description: "One-page recap of choosing the two-sample z-test for p₁ − p₂, defining parameters, writing hypotheses and checking conditions with the pooled proportion, plus the mistakes that cost marks."
 course: "statistics"
 unit: 3

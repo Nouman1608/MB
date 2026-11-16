@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-calcbc-10.9-practice"
 title: "Determining Absolute or Conditional Convergence: Practice Questions (Calculus BC 10.9)"
+seoTitle: "Calculus BC 10.9 Absolute Conditional Convergence Practice"
 description: "Seven original Marlbridge practice questions on absolute and conditional convergence: definitions, p-series families, the ratio test, rearrangements and full justifications, with rubrics."
 course: "calculus-bc"
 unit: 10

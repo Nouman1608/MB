@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-physcm-7.4-study-guide"
 title: "Energy of Simple Harmonic Oscillators: Study Guide (Physics C: Mechanics 7.4)"
+seoTitle: "Physics C Mechanics 7.4 Harmonic Oscillator Energy Guide"
 description: "Calculus-based energy in simple harmonic motion: why K + U stays constant, E = ½kA², energy against position and time, amplitude from energy, and vertical springs."
 course: "physics-c-mechanics"
 unit: 7

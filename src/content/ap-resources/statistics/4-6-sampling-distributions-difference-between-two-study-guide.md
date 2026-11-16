@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-4.6-study-guide"
 title: "Sampling Distributions for the Difference Between Two Sample Means: Study Guide (Statistics 4.6)"
+seoTitle: "Statistics 4.6 Difference in Two Sample Means Study Guide"
 description: "Find the mean and standard deviation of the sampling distribution of x̄₁ − x̄₂, check when it is normal or approximately normal, and calculate and interpret probabilities in context."
 course: "statistics"
 unit: 4

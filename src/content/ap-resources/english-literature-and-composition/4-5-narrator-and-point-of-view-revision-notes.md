@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-englit-4.5-revision-notes"
 title: "Narrator, Point of View and Perspective: Revision Notes (English Literature 4.5)"
+seoTitle: "English Literature 4.5 Narrator and Point of View Notes"
 description: "One-page recap of narrators, point of view and narrative distance, and how diction and syntax reveal perspective: key relationships, mistakes to avoid and a quick self-check with answers."
 course: "english-literature-and-composition"
 unit: 4

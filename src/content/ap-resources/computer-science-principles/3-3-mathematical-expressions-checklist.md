@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-csp-3.3-checklist"
 title: "Mathematical Expressions: Topic Checklist (Computer Science Principles 3.3)"
+seoTitle: "CS Principles 3.3 Mathematical Expressions Topic Checklist"
 description: "Specific \"I can\" statements for mathematical expressions and MOD, each linked to the study-guide section or practice question that tests it."
 course: "computer-science-principles"
 unit: 3

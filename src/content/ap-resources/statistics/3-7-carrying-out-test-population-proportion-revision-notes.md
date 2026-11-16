@@ -1,6 +1,7 @@
 ---
 resourceId: "mb-ap-stats-3.7-revision-notes"
 title: "Carrying Out a Test for a Population Proportion: Revision Notes (Statistics 3.7)"
+seoTitle: "Statistics 3.7 Carrying Out a Test for a Proportion Notes"
 description: "One-page recap of the one-proportion z-test: test statistic, p-value for each alternative, comparison with α, and a conclusion in context, with the mistakes that cost marks."
 course: "statistics"
 unit: 3
