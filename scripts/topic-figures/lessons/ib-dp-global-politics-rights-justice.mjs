@@ -203,7 +203,7 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
   let b = '';
   b += box(30, 115, 840, 80, { title: 'Universal Declaration of Human Rights (1948)', body: 'and the wider UN human rights system', fill: C.mustard, edge: C.ink, align: 'middle', tsize: 20 });
   b += label(30, 230, 'International bodies');
-  [['ICJ', 'International Court of Justice'], ['UNHRC', 'UN Human Rights Council'], ['UNHCR', 'UN High Commissioner for Refugees'], ['ICC', 'International Criminal Court']].forEach(([a, f], i) => { b += box(30 + i * 213, 245, 200, 96, { title: a, body: f, tsize: 21, bsize: 14.5, align: 'middle', pad: 10, fill: '#eaf3f1', edge: C.tealDark }); });
+  [['ICJ', 'International Court of Justice'], ['UNHRC', 'UN Human Rights Council'], ['UNHCR', 'UN High Commissioner for Refugees'], ['ICC', 'International Criminal Court']].forEach(([a, f], i) => { b += box(30 + i * 213, 245, 200, 104, { title: a, body: f, tsize: 21, bsize: 15, align: 'middle', pad: 8, fill: '#eaf3f1', edge: C.tealDark }); });
   b += label(30, 380, 'Regional human rights courts');
   ['European Court of Human Rights', 'Inter-American Court of Human Rights', 'African Court on Human and Peoples’ Rights'].forEach((s, i) => { b += box(30 + i * 285, 395, 270, 80, { title: s, tsize: 16.5, align: 'middle', pad: 10, fill: C.cream, edge: C.olive }); });
   b += label(30, 515, 'Norm');
@@ -219,15 +219,14 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 
 // 04 Cross-theme links
 {
-  const pos = [[450, 210, 'Rights and Justice', C.mustard, C.ink], [190, 470, 'Peace and Conflict', '#eaf3f1', C.tealDark], [710, 470, 'Development and Sustainability', C.cream, C.olive]];
+  const pos = [[450, 190, 'Rights and Justice', C.mustard, C.ink], [230, 520, 'Peace and Conflict', '#eaf3f1', C.tealDark], [670, 520, 'Development and Sustainability', C.cream, C.olive]];
   let b = '';
-  b += line(450, 210, 190, 470, { w: 3 }) + line(450, 210, 710, 470, { w: 3 }) + line(190, 470, 710, 470, { w: 2, dash: '7 6', color: C.muted });
+  b += line(450, 190, 230, 520, { w: 3 }) + line(450, 190, 670, 520, { w: 3 });
   pos.forEach(([x, y, l, f, e]) => { b += box(x - 150, y - 50, 300, 100, { title: l, tsize: 20, align: 'middle', fill: f, edge: e }); });
-  b += box(30, 290, 290, 100, { title: 'conflict raises rights violations', body: 'affecting the same population', tsize: 16, bsize: 15, align: 'middle', fill: C.panel, pad: 10 });
-  b += box(580, 290, 290, 100, { title: 'unequal development outcomes', body: 'raise questions of distributive justice', tsize: 16, bsize: 15, align: 'middle', fill: C.panel, pad: 10 });
-  b += tx(450, 590, 'Same four core concepts throughout', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
-  const n = note(30, 615, 840, 'Paper 2 may combine or contrast thematic studies: practise comparing a rights example with one from another theme.', { size: 16, weight: 600 });
-  fig('04-cross-theme', 'Linking the three thematic studies', b + n.s, 615 + n.h + 30,
+  b += box(30, 290, 270, 100, { title: 'conflict raises rights violations', body: 'affecting the same population', tsize: 16, bsize: 15, align: 'middle', fill: C.panel, pad: 10 });
+  b += box(600, 290, 270, 100, { title: 'unequal development outcomes', body: 'raise questions of distributive justice', tsize: 16, bsize: 15, align: 'middle', fill: C.panel, pad: 10 });
+  const n = note(30, 600, 840, 'Use the same four core concepts throughout. Paper 2 may combine or contrast thematic studies, so practise comparing across themes.', { size: 16, weight: 600 });
+  fig('04-cross-theme', 'Linking the three thematic studies', b + n.s, 600 + n.h + 30,
     'A triangle of the three thematic studies. Rights and justice links to peace and conflict, where conflict raises rights violations for the same population, and to development and sustainability, where unequal outcomes raise questions of distributive justice. The same four core concepts apply throughout.',
     'Real issues cross theme boundaries; so should your examples.',
     '## Comparing across the three thematic studies');

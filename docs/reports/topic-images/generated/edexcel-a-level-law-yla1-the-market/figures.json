@@ -1,0 +1,47 @@
+[
+ {
+  "file": "edexcel-a-level-law-yla1-the-market--01-offer-and-acceptance.webp",
+  "width": 900,
+  "height": 732,
+  "after": "## Formation: the cases behind the rules",
+  "alt": "Invitations to treat (shop shelves, windows, most advertisements) are contrasted with Carlill's unilateral offer. An offer box branches four ways: a counter-offer ends it (Hyde v Wrench), communicated revocation ends it (Routledge, Byrne, Dickinson), a request for information does not (Stevenson v McLean), and acceptance forms the contract (Felthouse: silence is not acceptance). Posted acceptance takes effect when posted, instantaneous when received.",
+  "caption": "Counter-offer and revocation end an offer; a request for information does not; acceptance binds.",
+  "bytes": 147778
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-market--02-exclusion-clause-gates.webp",
+  "width": 900,
+  "height": 862,
+  "after": "## Terms and exclusion clauses",
+  "alt": "Condition (Poussard v Spiers) and warranty (Bettini v Gye) are contrasted. Three steps test an exclusion clause: was it incorporated by signature, notice or course of dealing; which statute applies, UCTA for business contracts or the CRA for consumers; and does it survive. A table lists UCTA ss 2, 3 and 11 and CRA ss 31, 57, 62 and 65.",
+  "caption": "Incorporated first, then tested against UCTA (business) or the CRA (consumer).",
+  "bytes": 154200
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-market--03-discharge-routes.webp",
+  "width": 900,
+  "height": 674,
+  "after": "## Validity and discharge",
+  "alt": "Four routes to discharge: performance (Cutter v Powell, softened by Hoenig v Isaacs), agreement, breach including anticipatory breach (Hochster), and frustration (Taylor v Caldwell, Krell v Henry, but not mere expense, Davis Contractors). Below, misrepresentation can be fraudulent (Derry v Peek), negligent (s 2(1) Misrepresentation Act 1967) or innocent.",
+  "caption": "Performance, agreement, breach or frustration; a misrepresentation can unpick the contract instead.",
+  "bytes": 125374
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-market--04-privity-negligence.webp",
+  "width": 900,
+  "height": 526,
+  "after": "## Privity, and why negligence is the alternative",
+  "alt": "The consumer of the ginger beer had no contract with the manufacturer, shown by a crossed dashed line, yet an arrow shows the manufacturer owed her a duty of care in negligence, as in Donoghue v Stevenson. Cards cover privity (Tweddle, Dunlop) and the Contracts (Rights of Third Parties) Act 1999.",
+  "caption": "No contract with the manufacturer, but still a duty of care: negligence fills the privity gap.",
+  "bytes": 88368
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-market--05-leila-cra-remedies.webp",
+  "width": 900,
+  "height": 638,
+  "after": "## Worked example: applying CRA remedies",
+  "alt": "A timeline shows Leila's laptop screen failing at three weeks, inside the 30-day window for the short-term right to reject. Four steps: the rule (satisfactory quality, s 9), application, the remedy (s 20 rejection, or s 23 repair or replacement, then s 24), and that any exclusion of s 9 is not binding (s 31).",
+  "caption": "Inside 30 days she can reject for a refund; otherwise repair or replace before s 24.",
+  "bytes": 104180
+ }
+]

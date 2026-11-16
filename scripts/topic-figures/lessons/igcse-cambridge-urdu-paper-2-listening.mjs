@@ -174,10 +174,10 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   cols.forEach(([k, h, ls, f, e], i) => {
     const x = 30 + i * 286;
     b += `<circle cx="${x + 134}" cy="140" r="12" fill="${f}" stroke="${C.ink}" stroke-width="3"/>` + varrow(x + 134, 154, 180);
-    b += card(x, 184, 268, 280, h, ls.map((l) => '• ' + l), { kicker: k, fill: f, edge: e, size: 16, gap: 10 });
+    b += card(x, 184, 268, 262, h, ls.map((l) => '• ' + l), { kicker: k, fill: f, edge: e, size: 16, gap: 10 });
   });
   add('04-literal-to-inferential',
-    SV(492, 'From literal to inferential listening', b),
+    SV(474, 'From literal to inferential listening', b),
     'A scale from stated facts to implied meaning. Exercises 1 and 2 test facts such as times, places and names; Exercise 3 asks you to tell speakers\' views apart by tone and opinion words; Exercise 4 needs inference about sarcasm, hesitation and changes of mind.',
     'The paper moves from what is said towards what is meant.',
     '## How to approach it');
@@ -186,13 +186,13 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
 // 05 Two hearings
 {
   let b = '';
-  b += card(30, 110, 400, 220, 'First hearing', ['Get the overall gist.', 'Locate roughly where each answer sits.', 'Take notes; do not write final answers yet.'], { kicker: 'HEARING 1', fill: C.tealLight, edge: C.tealDark, size: 17, gap: 10 });
-  b += harrow(436, 464, 220, { w: 5 });
-  b += card(470, 110, 400, 220, 'Second hearing', ['Fill in precise details.', 'Check what you noted.', 'Confirm, then write the answer.'], { kicker: 'HEARING 2', fill: C.cream, edge: C.mustard, size: 17, gap: 10 });
-  b += panel(30, 350, 840, 104) + T(54, 386, 'Speaking practice helps listening too', { size: 18, weight: 700 }) +
-    T(54, 416, 'Component 5 skills, such as recognising register and following a conversation\'s turns,', { size: 16, fill: C.muted }) + T(54, 438, 'overlap closely with what Paper 2 tests.', { size: 16, fill: C.muted });
+  b += card(30, 110, 400, 236, 'First hearing', ['Get the overall gist.', 'Locate roughly where each answer sits.', 'Take notes; do not write final answers yet.'], { kicker: 'HEARING 1', fill: C.tealLight, edge: C.tealDark, size: 17, gap: 10 });
+  b += harrow(436, 464, 228, { w: 5 });
+  b += card(470, 110, 400, 236, 'Second hearing', ['Fill in precise details.', 'Check what you noted.', 'Confirm, then write the answer.'], { kicker: 'HEARING 2', fill: C.cream, edge: C.mustard, size: 17, gap: 10 });
+  b += panel(30, 366, 840, 104) + T(54, 402, 'Speaking practice helps listening too', { size: 18, weight: 700 }) +
+    T(54, 432, 'Component 5 skills, such as recognising register and following a conversation\'s turns,', { size: 16, fill: C.muted }) + T(54, 454, 'overlap closely with what Paper 2 tests.', { size: 16, fill: C.muted });
   add('05-two-hearings',
-    SV(482, 'Use each hearing for a different job', b),
+    SV(498, 'Use each hearing for a different job', b),
     'Every exercise is heard twice: use the first hearing for gist, rough location of answers and notes, and the second to fill in and check precise details before writing. Speaking practice for Component 5 overlaps with these listening skills.',
     'Gist and location first time, precise details second time.',
     '## How to approach it');

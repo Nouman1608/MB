@@ -414,7 +414,7 @@ F('05-sentencing', 'Sentencing: four main types', 'Criminal Justice Act 2003 fra
 'Custody is the last resort; seriousness, aggravation, mitigation and plea set the level.', H2.sent);
 
 // 06 Burglary worked example
-F('06-burglary-scenario', 'Applying s 9 to a scenario', 'Owen enters a neighbour\'s garage, meaning to take a bicycle; he pushes the owner over to get away, taking nothing', [
+F('06-burglary-scenario', 'Applying s 9 to a scenario', 'Owen enters a garage to take a bicycle, pushes the owner, takes nothing', [
   (y) => row(y, [
     { kicker: 's 9(1)(a)', title: 'Enters as a trespasser with intent', body: 'to steal, inflict GBH or do unlawful damage: complete on entry', fill: C.cream, edge: C.olive },
     { kicker: 's 9(1)(b)', title: 'Having entered as a trespasser…', body: 'steals or inflicts GBH, or attempts to' },

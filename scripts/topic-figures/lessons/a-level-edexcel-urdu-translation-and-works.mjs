@@ -55,11 +55,11 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
   const film = [['بن روئے', 'Bin Roye', '2015'], ['باغبان', 'Baaghban', '2003'], ['بجرنگی بھائی جان', 'Bajrangi Bhaijaan', '2015']];
   lit.forEach(([ur, en, d], i) => {
     const y = 156 + i * 124;
-    b += box(30, y, 480, 112, C.cream, C.olive, 2.5, 12) + u(490, y + 54, ur, { size: 26 }) + t(48, y + 80, en, { size: 17, weight: 700, italic: true }) + t(48, y + 102, d, { size: 15, fill: C.muted });
+    b += box(30, y, 480, 112, C.cream, C.olive, 2.5, 12) + u(490, y + 50, ur, { size: 26 }) + t(48, y + 80, en, { size: 17, weight: 700, italic: true }) + t(48, y + 102, d, { size: 15, fill: C.muted });
   });
   film.forEach(([ur, en, d], i) => {
     const y = 156 + i * 124;
-    b += box(530, y, 340, 112, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 54, ur, { size: 26 }) + t(548, y + 80, en, { size: 17, weight: 700, italic: true }) + t(548, y + 102, d, { size: 15, fill: C.muted });
+    b += box(530, y, 340, 112, C.tealLight, C.tealDark, 2.5, 12) + u(850, y + 50, ur, { size: 26 }) + t(548, y + 80, en, { size: 17, weight: 700, italic: true }) + t(548, y + 102, d, { size: 15, fill: C.muted });
   });
   b += panel(30, 540, 840, 120) + t(54, 574, 'Patras: five essays prescribed, not the whole book', { size: 18, weight: 700 });
   ['Savere Jo Kal Aankh Meri Khuli', 'Urdu Ki Aakhri Kitab', 'Murid Pur Ka Peer', 'Marhoom Ki Yaad Mein', 'Lahore Ka Jughrafia'].forEach((s, i) => {
