@@ -109,7 +109,7 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; g = 9.81 m s⁻²; ε₀ = 8.85 × 10
 
 **4. (a)** Fₑ = e²/(4πε₀r²) = (1.60 × 10⁻¹⁹)² / (4π × 8.85 × 10⁻¹² × (1.0 × 10⁻⁹)²) [1] = **2.3 × 10⁻¹⁰ N** [1] **[2]**
 **(b)** F_g = Gm²/r² = 6.67 × 10⁻¹¹ × (9.11 × 10⁻³¹)² / (1.0 × 10⁻⁹)² [1] = **5.5 × 10⁻⁵³ N** [1] **[2]**
-**(c)** Ratio = 2.30 × 10⁻¹⁰ / 5.54 × 10⁻⁵³ = **4.2 × 10⁴²** [1]. It is unchanged, because both forces are proportional to 1/r² [1]. **[2]**
+**(c)** Ratio = 2.30 × 10⁻¹⁰ / (5.54 × 10⁻⁵³) = **4.2 × 10⁴²** [1]. It is unchanged, because both forces are proportional to 1/r² [1]. **[2]**
 *Examiner insight:* A comparison needs the ratio calculated, not just two numbers. Saying that r cancels shows why the ratio is fixed.
 
 **5. (a)** Straight lines spreading out from the charge [1], with the arrows pointing in towards it [1]. **[2]**
@@ -131,21 +131,21 @@ Data: G = 6.67 × 10⁻¹¹ N m² kg⁻²; g = 9.81 m s⁻²; ε₀ = 8.85 × 10
 
 **9. (a)** E = V/d = 540 / 0.018 = **3.0 × 10⁴ V m⁻¹** [1] **[1]**
 **(b)** F = eE = 1.60 × 10⁻¹⁹ × 3.0 × 10⁴ = **4.8 × 10⁻¹⁵ N** [1] **[1]**
-**(c)** a = F/m = 4.8 × 10⁻¹⁵ / 9.11 × 10⁻³¹ = **5.3 × 10¹⁵ m s⁻²** [1] **[1]**
+**(c)** a = F/m = 4.8 × 10⁻¹⁵ / (9.11 × 10⁻³¹) = **5.3 × 10¹⁵ m s⁻²** [1] **[1]**
 **(d)** v² = 2ad [1] = 2 × 5.27 × 10¹⁵ × 0.018 [1], so v = **1.4 × 10⁷ m s⁻¹** [1] **[3]**
 *Examiner insight:* Carry unrounded values forward. The energy route, eV = ½mv², gives the same speed.
 
 **10. (a)** E = 150 / 0.020 = **7.5 × 10³ V m⁻¹** [1] **[1]**
 **(b)** F = QE = 2 × 1.60 × 10⁻¹⁹ × 7.5 × 10³ = **2.4 × 10⁻¹⁵ N** [1] **[1]**
-**(c)** a = F/m = 2.4 × 10⁻¹⁵ / 6.64 × 10⁻²⁷ = **3.6 × 10¹¹ m s⁻²** [1] **[1]**
-**(d)** t = L/v = 0.060 / 4.0 × 10⁵ = **1.5 × 10⁻⁷ s** [1] **[1]**
+**(c)** a = F/m = 2.4 × 10⁻¹⁵ / (6.64 × 10⁻²⁷) = **3.6 × 10¹¹ m s⁻²** [1] **[1]**
+**(d)** t = L/v = 0.060 / (4.0 × 10⁵) = **1.5 × 10⁻⁷ s** [1] **[1]**
 **(e)** y = ½at² [1] = ½ × 3.61 × 10¹¹ × (1.5 × 10⁻⁷)² = **4.1 mm** [1] **[2]**
 **(f)** A **parabola** [1]. The speed along the plates is constant, and there is a constant acceleration at right angles to it [1]. **[2]**
 **(g)** The proton has half the charge and a quarter of the mass, so a is twice as large. The time is the same, so y = **8.1 mm** [1]. **[1]**
 *Examiner insight:* Use the charge 2e in part (b). In part (f), "constant force at right angles to a constant velocity" explains the parabola; "it curves" does not.
 
 **11. (a)** E = 350 / 0.012 = **2.9 × 10⁴ V m⁻¹** [1] **[1]**
-**(b)** QE = mg [1], so Q = 2.4 × 10⁻¹⁵ × 9.81 / 2.92 × 10⁴ = **8.1 × 10⁻¹⁹ C** [1] **[2]**
+**(b)** QE = mg [1], so Q = 2.4 × 10⁻¹⁵ × 9.81 / (2.92 × 10⁴) = **8.1 × 10⁻¹⁹ C** [1] **[2]**
 **(c)** 8.07 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ = 5.04, so **5** electrons [1] **[1]**
 **(d)** The force on the droplet is upwards, so the field points downwards and the **upper plate is positive** [1] **[1]**
 **(e)** Halving the p.d. halves E, so the upward force falls to mg/2 [1]. The net force is mg/2 downwards [1], so a = g/2 = **4.9 m s⁻², downwards** [1]. **[3]**

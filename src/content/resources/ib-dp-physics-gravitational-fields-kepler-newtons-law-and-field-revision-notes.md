@@ -221,7 +221,7 @@ A quick check on any answer: the unit of GM/r² is N m² kg⁻² × kg / m² = N
 6. g is a quarter: 9.81/4 = **2.45 N kg⁻¹**.
 7. g = 6.67 × 10⁻¹¹ × 7.35 × 10²² / (1.74 × 10⁶)² = **1.62 N kg⁻¹**.
 8. W = 60 × 1.619 = **97.2 N**.
-9. v₂ = 6.0 × 10⁴ × 1.0 × 10¹⁰ / 4.0 × 10¹⁰ = **1.5 × 10⁴ m s⁻¹**.
+9. v₂ = 6.0 × 10⁴ × 1.0 × 10¹⁰ / (4.0 × 10¹⁰) = **1.5 × 10⁴ m s⁻¹**.
 10. √16 = 4, so the null point is 4/5 of 5.0 m from the heavier mass: **4.0 m**.
 
 ## Where marks are usually lost

@@ -212,7 +212,7 @@ Reminder: if 18.75 cm³ of 0.0800 mol dm⁻³ NaOH reaches equivalence with 15.0
 3. H₂PO₄⁻(aq) + H₃O⁺(aq) → H₃PO₄(aq) + H₂O(l).
 4. pH = −log₁₀(0.0085) = 2.07.
 5. [H⁺] = 10⁻⁸·²⁰ = 6.3 × 10⁻⁹ mol dm⁻³.
-6. [H⁺] = 1.0 × 10⁻¹⁴ / 4.0 × 10⁻⁹ = 2.5 × 10⁻⁶ mol dm⁻³. [H⁺] > [OH⁻], so acidic (pH 5.60).
+6. [H⁺] = 1.0 × 10⁻¹⁴ / (4.0 × 10⁻⁹) = 2.5 × 10⁻⁶ mol dm⁻³. [H⁺] > [OH⁻], so acidic (pH 5.60).
 7. [OH⁻] = 0.0016 mol dm⁻³, so [H⁺] = 1.0 × 10⁻¹⁴ / 0.0016 = 6.3 × 10⁻¹² mol dm⁻³; pH = 11.20.
 8. It neutralizes acids (accepts protons) but is insoluble in water, so it does not give a solution of OH⁻ ions.
 9. CH₃CH₂COOH(aq) + NaHCO₃(aq) → CH₃CH₂COONa(aq) + H₂O(l) + CO₂(g).

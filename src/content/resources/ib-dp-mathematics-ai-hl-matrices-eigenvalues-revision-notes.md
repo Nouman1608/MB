@@ -149,7 +149,7 @@ Determinants and inverses of 3 × 3 or larger matrices: use technology. For 2 ×
 
 Solve 5x + 3y = 19 and 3x + 2y = 12.
 
-```
+```text
 A = | 5  3 |    det A = 10 − 9 = 1    A⁻¹ = |  2  -3 |
     | 3  2 |                                | -3   5 |
 
@@ -173,7 +173,7 @@ Eigenvalues 1 and 3. For λ = 3: −x + y = 0, so v = (1, 1). For λ = 1: x + y 
 
 Continue with the same M. Put λ = 3 first in both P and D.
 
-```
+```text
 P = | 1   1 |    D = | 3  0 |    P⁻¹ = (1/2) | 1   1 |
     | 1  -1 |        | 0  1 |                | 1  -1 |
 

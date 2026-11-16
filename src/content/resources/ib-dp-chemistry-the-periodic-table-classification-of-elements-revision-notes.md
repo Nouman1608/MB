@@ -258,7 +258,7 @@ The guide says the data booklet supplies both the colour wheel and c = λf. Appr
 9. Aluminium's electron is removed from 3p, higher in energy than magnesium's 3s electron.
 10. Ni²⁺ [Ar] 3d⁸; Cr³⁺ [Ar] 3d³.
 11. 440 nm is violet, so yellow is seen. f = 3.00 × 10⁸ / (440 × 10⁻⁹) = 6.82 × 10¹⁴ s⁻¹.
-12. λ = 3.00 × 10⁸ / 6.00 × 10¹⁴ = 5.00 × 10⁻⁷ m = 500 nm, green absorbed, so red is seen.
+12. λ = 3.00 × 10⁸ / (6.00 × 10¹⁴) = 5.00 × 10⁻⁷ m = 500 nm, green absorbed, so red is seen.
 
 ## Where marks are usually lost
 

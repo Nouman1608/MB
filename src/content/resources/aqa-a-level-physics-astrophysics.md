@@ -125,7 +125,7 @@ Treat a star as a **black body**. Black-body curves rise to one peak; a hotter b
 - **Stefan**: P = σAT⁴, A = 4πr². Use it to compare power, temperature and size.
 - **Inverse square law**: I = P/4πd², assuming the star radiates equally in all directions and nothing absorbs radiation on the way.
 
-**Worked example 4.** Peak at 500 nm: T = 2.9 × 10⁻³/500 × 10⁻⁹ = **5800 K**. A 3000 K star with 50 times the radius of a 6000 K star: P ratio = 50² × (0.5)⁴ = **156**.
+**Worked example 4.** Peak at 500 nm: T = 2.9 × 10⁻³/(500 × 10⁻⁹) = **5800 K**. A 3000 K star with 50 times the radius of a 6000 K star: P ratio = 50² × (0.5)⁴ = **156**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
@@ -211,7 +211,7 @@ For v ≪ c: **Δf/f = v/c** and **z = Δλ/λ = −v/c**, with v positive for a
 ```
 z = 13.1/656.3 = 0.0200;  v = zc = 5.99 × 10⁶ m s⁻¹
 d = 5990 / 70 = 85.5 Mpc
-H = 70 × 10³ / 3.08 × 10²² = 2.27 × 10⁻¹⁸ s⁻¹
+H = 70 × 10³ / (3.08 × 10²²) = 2.27 × 10⁻¹⁸ s⁻¹
 age ≈ 1/H = 4.40 × 10¹⁷ s = 1.40 × 10¹⁰ years
 ```
 

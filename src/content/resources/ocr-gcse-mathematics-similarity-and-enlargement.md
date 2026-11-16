@@ -54,7 +54,7 @@ Three tests for triangles, and you only need one of them:
 
 Triangle P has sides 6 cm, 10 cm and 12 cm. Triangle Q has sides 9 cm, 15 cm and 18 cm. Triangle R has sides 9 cm, 14 cm and 18 cm. Which of these are similar to P?
 
-```
+```text
 Match shortest to shortest, and so on.
 P to Q:  9/6 = 1.5,  15/10 = 1.5,  18/12 = 1.5   equal, so P and Q are similar
 P to R:  9/6 = 1.5,  14/10 = 1.4,  18/12 = 1.5   not equal, so R is not similar to P
@@ -66,7 +66,7 @@ P and Q are similar, with scale factor 1.5 from P to Q.
 
 In triangle ABC, D lies on AB and E lies on AC. DE is parallel to BC. AD = 6 cm, DB = 3 cm and DE = 8 cm. Prove that triangles ADE and ABC are similar, then find BC.
 
-```
+```text
 Angle DAE = angle BAC           (common angle)
 Angle ADE = angle ABC           (corresponding angles, DE parallel to BC)
 Angle AED = angle ACB           (corresponding angles, DE parallel to BC)
@@ -124,7 +124,7 @@ An enlargement changes size and keeps shape. It needs a **scale factor** and a *
 
 Triangle ABC has A(3, 1), B(5, 1) and C(5, 4). Enlarge it by scale factor 2 with centre (1, 2).
 
-```
+```text
 Steps from the centre (1, 2):
 A: right 2, down 1   -> right 4, down 2   -> A' = (5, 0)
 B: right 4, down 1   -> right 8, down 2   -> B' = (9, 0)
@@ -151,7 +151,7 @@ Using a fraction smaller than 1 as the scale factor shrinks the shape. The metho
 
 Shape P has vertices (4, 2), (10, 2) and (10, 6). Enlarge it by scale factor 1/2 with centre (2, 0).
 
-```
+```text
 Steps from (2, 0):
 (4, 2):   right 2, up 2   -> right 1, up 1   -> (3, 1)
 (10, 2):  right 8, up 2   -> right 4, up 1   -> (6, 1)
@@ -200,7 +200,7 @@ With a negative scale factor, the image appears across the centre from the origi
 
 Enlarge triangle ABC with A(1, 3), B(3, 3) and C(3, 4) by scale factor −2, centre (2, 1).
 
-```
+```text
 Steps from (2, 1), then multiply by -2 (so the direction reverses):
 A: left 1, up 2    -> right 2, down 4   -> A' = (4, -3)
 B: right 1, up 2   -> left 2, down 4    -> B' = (0, -3)
@@ -231,7 +231,7 @@ A ratio such as 2 : 5 compares lengths on the original with lengths on the image
 
 A photograph measures 8 cm by 12 cm. It is enlarged, and its shorter side becomes 20 cm.
 
-```
+```text
 Ratio of shorter sides   8 : 20 = 2 : 5
 Scale factor             20 / 8 = 2.5
 Longer side              12 x 2.5 = 30 cm

@@ -171,7 +171,7 @@ With V on the horizontal axis the lamp curve flattens; with I on the horizontal 
 **Resistance from resistivity.** A wire 2.0 m long has cross-sectional area 1.0 × 10⁻⁷ m² and ρ = 1.7 × 10⁻⁸ Ω m.
 
 ```
-R = ρL/A = 1.7 × 10⁻⁸ × 2.0 / 1.0 × 10⁻⁷ = 0.34 Ω
+R = ρL/A = 1.7 × 10⁻⁸ × 2.0 / (1.0 × 10⁻⁷) = 0.34 Ω
 ```
 
 **Emf from two readings.** Terminal pd is 5.6 V at 0.40 A and 4.8 V at 1.20 A.

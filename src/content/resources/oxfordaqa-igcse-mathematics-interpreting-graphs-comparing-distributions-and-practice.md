@@ -93,7 +93,7 @@ Model Q: 12, 13, 16, 17, 17, 19, 20, 22
 
 **7.** The heights of 9 seedlings grown without fertiliser and 9 grown with fertiliser were measured in cm.
 
-```
+```text
     Without                | Stem |     With
            8   7   5   2   |  1   |  8
        9   6   4   3   1   |  2   |  1  2  4  5  7  8

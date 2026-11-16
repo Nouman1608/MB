@@ -116,7 +116,7 @@ Course pages: the [OxfordAQA International GCSE Physics hub](/boards/oxfordaqa/i
 **(b)** One end of each wavefront reaches the glass first and slows down [1]. The other end is still travelling faster in the air, so it catches up [1]. This turns the wavefront and the ray bends towards the normal [1]. **[3]**
 *Examiner insight:* An explanation of bending needs the idea that different parts of the wavefront change speed at different times. "Light is slower so it bends" is incomplete.
 
-**5. (a)** n = c / v [1] = 3.00 × 10⁸ / 1.85 × 10⁸ = **1.62** [1]
+**5. (a)** n = c / v [1] = 3.00 × 10⁸ / (1.85 × 10⁸) = **1.62** [1]
 **(b)** sin r = sin i / n = sin 48° / 1.62 [1] = 0.7431 / 1.62 = 0.4587 [1]; r = **27.3°** [1]
 *Examiner insight:* Show the rearrangement before substituting, then each step of the working, not just a final angle.
 

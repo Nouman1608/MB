@@ -99,7 +99,7 @@ Reminder: levels at -3.9 eV and -6.1 eV. Gap = 2.2 eV = 3.52 × 10⁻¹⁹ J. λ
 2. Shortest wavelength = hc divided by that energy.
 3. Beam power = IV. Electrons per second = I/e.
 
-Reminder: tube p.d. 30 kV. E = 30 × 10³ × 1.60 × 10⁻¹⁹ = 4.8 × 10⁻¹⁵ J, so λ(min) = 1.989 × 10⁻²⁵/4.8 × 10⁻¹⁵ = 4.14 × 10⁻¹¹ m.
+Reminder: tube p.d. 30 kV. E = 30 × 10³ × 1.60 × 10⁻¹⁹ = 4.8 × 10⁻¹⁵ J, so λ(min) = 1.989 × 10⁻²⁵/(4.8 × 10⁻¹⁵) = 4.14 × 10⁻¹¹ m.
 
 ## Photoelectric effect
 
@@ -119,7 +119,7 @@ Reminder: tube p.d. 30 kV. E = 30 × 10³ × 1.60 × 10⁻¹⁹ = 4.8 × 10⁻¹
 
 Reminder: photon 4.1 eV on a metal with ϕ = 2.3 eV. Ek(max) = 1.8 eV = 2.88 × 10⁻¹⁹ J; V(s) = 1.8 V.
 
-Reminder: a 2.0 mW beam of 520 nm light. Photon energy = 3.83 × 10⁻¹⁹ J, so photons per second = 2.0 × 10⁻³/3.83 × 10⁻¹⁹ = 5.2 × 10¹⁵.
+Reminder: a 2.0 mW beam of 520 nm light. Photon energy = 3.83 × 10⁻¹⁹ J, so photons per second = 2.0 × 10⁻³/(3.83 × 10⁻¹⁹) = 5.2 × 10¹⁵.
 
 ### Graph reading: V(s) against f
 
@@ -205,13 +205,13 @@ Reminder: electron at 2.5 × 10⁶ m s⁻¹. p = 2.28 × 10⁻²⁴ kg m s⁻¹,
 
 ### Answers
 
-1. 7.2 × 10⁻¹⁹/1.60 × 10⁻¹⁹ = 4.5 eV.
+1. 7.2 × 10⁻¹⁹/(1.60 × 10⁻¹⁹) = 4.5 eV.
 2. 0.85 × 1.60 × 10⁻¹⁹ = 1.36 × 10⁻¹⁹ J.
 3. 6.63 × 10⁻³⁴ × 6.0 × 10¹⁴ = 3.98 × 10⁻¹⁹ J.
-4. 3.0 eV = 4.8 × 10⁻¹⁹ J, so λ = 1.989 × 10⁻²⁵/4.8 × 10⁻¹⁹ = 4.14 × 10⁻⁷ m, or 414 nm.
-5. ϕ = 4.0 × 10⁻¹⁹ J, so f₀ = 4.0 × 10⁻¹⁹/6.63 × 10⁻³⁴ = 6.03 × 10¹⁴ Hz.
-6. V(s) = Ek/e = 1.4 × 10⁻¹⁹/1.60 × 10⁻¹⁹ = 0.875 V (0.88 V).
-7. λ = 6.63 × 10⁻³⁴/4.4 × 10⁻²⁴ = 1.5 × 10⁻¹⁰ m.
+4. 3.0 eV = 4.8 × 10⁻¹⁹ J, so λ = 1.989 × 10⁻²⁵/(4.8 × 10⁻¹⁹) = 4.14 × 10⁻⁷ m, or 414 nm.
+5. ϕ = 4.0 × 10⁻¹⁹ J, so f₀ = 4.0 × 10⁻¹⁹/(6.63 × 10⁻³⁴) = 6.03 × 10¹⁴ Hz.
+6. V(s) = Ek/e = 1.4 × 10⁻¹⁹/(1.60 × 10⁻¹⁹) = 0.875 V (0.88 V).
+7. λ = 6.63 × 10⁻³⁴/(4.4 × 10⁻²⁴) = 1.5 × 10⁻¹⁰ m.
 8. Momentum doubles, so λ halves. A shorter wavelength diffracts less, so the rings are closer to the centre.
 9. Each photon still has the same energy and releases one electron. More photons release more electrons, but not faster ones.
 10. The electron can give up 4.9 eV and keep 1.1 eV. A photon is absorbed whole, and 6.0 eV matches no gap, so it is not absorbed.

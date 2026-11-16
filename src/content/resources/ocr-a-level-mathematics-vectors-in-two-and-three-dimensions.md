@@ -238,7 +238,7 @@ If F₃ were removed, the resultant would be −3i + 9j, which has the same magn
 
 The constant acceleration formulae in section 3.02e hold in vector form, with the same letters but vector quantities:
 
-```
+```text
 s = ut + ½at²      v = u + at
 s = vt − ½at²      s = ½(u + v)t
 ```

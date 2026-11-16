@@ -163,7 +163,7 @@ For a wire, A = πd²/4.
 **Worked example 5.** A wire of diameter 0.60 mm breaks when the tension reaches 480 N. Find the UTS.
 
 A = π × (0.30 × 10⁻³)² = 2.83 × 10⁻⁷ m².
-UTS = 480 / 2.83 × 10⁻⁷ = 1.7 × 10⁹ Pa.
+UTS = 480 / (2.83 × 10⁻⁷) = 1.7 × 10⁹ Pa.
 
 ## 3.4.2(d)(i) The Young modulus
 
@@ -176,9 +176,9 @@ The unit is the pascal. The Young modulus belongs to the material, not the sampl
 **Worked example 6.** A steel wire of original length 2.40 m and diameter 0.50 mm carries a load of 62 N and extends by 3.6 mm. Find E, and the energy stored.
 
 A = π × (0.25 × 10⁻³)² = 1.96 × 10⁻⁷ m².
-Stress = 62 / 1.96 × 10⁻⁷ = 3.16 × 10⁸ Pa.
+Stress = 62 / (1.96 × 10⁻⁷) = 3.16 × 10⁸ Pa.
 Strain = 3.6 × 10⁻³ / 2.40 = 1.5 × 10⁻³.
-E = 3.16 × 10⁸ / 1.5 × 10⁻³ = 2.1 × 10¹¹ Pa.
+E = 3.16 × 10⁸ / (1.5 × 10⁻³) = 2.1 × 10¹¹ Pa.
 Energy stored = ½Fx = ½ × 62 × 3.6 × 10⁻³ = 0.11 J.
 
 <figure class="topic-figure">

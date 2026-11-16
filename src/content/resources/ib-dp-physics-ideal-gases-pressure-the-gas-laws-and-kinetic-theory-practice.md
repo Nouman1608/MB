@@ -89,10 +89,10 @@ A is 2.0 × 10⁵ Pa and 1.5 × 10⁻³ m³. A to B is a rise in pressure to 4.0
 
 ## Answers
 
-**1.** P = F/A [1] = 450 / 1.5 × 10⁻³ = **3.0 × 10⁵ Pa [1]**
+**1.** P = F/A [1] = 450 / (1.5 × 10⁻³) = **3.0 × 10⁵ Pa [1]**
 *Examiner insight:* Write the equation and the unit; a bare number with no unit may not earn full credit, and either pascals or N m⁻² states the unit correctly.
 
-**2. (a)** n = N/NA = 9.03 × 10²³ / 6.02 × 10²³ = **1.50 mol [1]**
+**2. (a)** n = N/NA = 9.03 × 10²³ / (6.02 × 10²³) = **1.50 mol [1]**
 **(b)** N = nNA [1] = 0.300 × 6.02 × 10²³ = **1.81 × 10²³ [1]**
 *Examiner insight:* The rearrangement N = nNA is the method step. State the final answer to three significant figures.
 
@@ -129,12 +129,12 @@ A is 2.0 × 10⁵ Pa and 1.5 × 10⁻³ m³. A to B is a rise in pressure to 4.0
 
 **11. (a)** T = PV/(nR). At A, PV = 300 J, so T = 300 / (0.080 × 8.31) = **451 K [1]**. At B, PV = 4.0 × 10⁵ × 1.5 × 10⁻³ = 600 J, so T = **903 K [1]**. B to C is isothermal, so at C **T = 903 K [1]**
 **(b)** A to B: a vertical straight line [1]. B to C: a curve (hyperbola) where PV is constant, falling from B [1]. C to A: a horizontal straight line [1]
-**(c)** B to C is at constant temperature, so PV is constant: 4.0 × 10⁵ × 1.5 × 10⁻³ = P × 3.0 × 10⁻³ [1]; P = 600 / 3.0 × 10⁻³ = **2.0 × 10⁵ Pa [1]**
+**(c)** B to C is at constant temperature, so PV is constant: 4.0 × 10⁵ × 1.5 × 10⁻³ = P × 3.0 × 10⁻³ [1]; P = 600 / (3.0 × 10⁻³) = **2.0 × 10⁵ Pa [1]**
 *Examiner insight:* Use the information the question gives about each process to fix the temperature at the next point, and give the shape of each line with its direction, not just its name.
 
 **12. (a)** P = nRT/V = (0.40 × 8.31 × 330) / 6.0 × 10⁻³ [1] = **1.83 × 10⁵ Pa [1]**
 **(b)** U = (3/2)nRT = 1.5 × 0.40 × 8.31 × 330 [1] = **1.65 × 10³ J [1]**
-**(c)** Mass = 0.40 × 4.00 × 10⁻³ = 1.60 × 10⁻³ kg, so ρ = 1.60 × 10⁻³ / 6.0 × 10⁻³ = **0.267 kg m⁻³ [1]**. v² = 3P/ρ = 3 × 1.83 × 10⁵ / 0.267 [1]; v = **1.43 × 10³ m s⁻¹ [1]**
+**(c)** Mass = 0.40 × 4.00 × 10⁻³ = 1.60 × 10⁻³ kg, so ρ = 1.60 × 10⁻³ / (6.0 × 10⁻³) = **0.267 kg m⁻³ [1]**. v² = 3P/ρ = 3 × 1.83 × 10⁵ / 0.267 [1]; v = **1.43 × 10³ m s⁻¹ [1]**
 **(d)** Pressure doubles to **3.66 × 10⁵ Pa**, U doubles to **3.29 × 10³ J [1]**, and the speed rises by a factor of √2, **1.41 [1]**
 *Examiner insight:* Part (d) can be answered by proportion without recalculating: P and U are both proportional to T at fixed volume, and speed is proportional to the square root of T.
 

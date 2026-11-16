@@ -124,7 +124,7 @@ These questions cover sections 3.2.3 (Equilibrium) and 3.2.4 (Density and pressu
 
 **11. (a)** Δp = hρg = 0.12 × 1000 × 9.81 [1] = **1180 Pa** [1] **[2]**
 **(b)** Upthrust = ΔpA = 1177 × 0.15² [1] = **26.5 N**. This equals the weight of the water displaced, and the block floats at rest, so it also equals the block's weight [1]. **[2]**
-**(c)** Mass = 26.5 / 9.81 = 2.70 kg [1]. Volume = 0.15² × 0.20 = 4.5 × 10⁻³ m³, so ρ = 2.70 / 4.5 × 10⁻³ = **600 kg m⁻³** [1] **[2]**
+**(c)** Mass = 26.5 / 9.81 = 2.70 kg [1]. Volume = 0.15² × 0.20 = 4.5 × 10⁻³ m³, so ρ = 2.70 / (4.5 × 10⁻³) = **600 kg m⁻³** [1] **[2]**
 **(d)** Fully submerged upthrust = 1000 × 9.81 × 4.5 × 10⁻³ = 44.1 N, so the extra weight is 44.1 − 26.5 = 17.7 N [1]. Mass = 17.7 / 9.81 = **1.80 kg** [1] **[2]**
 *Examiner insight:* Link part (b) to Archimedes in words: floating means the displaced water weighs the same as the block.
 

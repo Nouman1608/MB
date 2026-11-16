@@ -189,7 +189,7 @@ Method to find a speed: write the formula with the signs chosen from the situati
 
 **Wave on a string.** A wave of period 0.125 s has wavelength 0.90 m. Then v = λ/T = 0.90/0.125 = 7.2 m s⁻¹ and f = 1/T = 8.0 Hz.
 
-**Colour of light.** A red laser emits at 4.5 × 10¹⁴ Hz. Then λ = c/f = 3.00 × 10⁸ / 4.5 × 10¹⁴ = 6.7 × 10⁻⁷ m, which lies in the visible band.
+**Colour of light.** A red laser emits at 4.5 × 10¹⁴ Hz. Then λ = c/f = 3.00 × 10⁸ / (4.5 × 10¹⁴) = 6.7 × 10⁻⁷ m, which lies in the visible band.
 
 **Sign check for HL.** A source of 300 Hz recedes at 17 m s⁻¹ with v = 340 m s⁻¹. Receding means a lower frequency, so use v + us: f′ = 300 × 340/357 = 286 Hz. This is below 300 Hz, as it should be.
 
@@ -221,7 +221,7 @@ Method to find a speed: write the formula with the signs chosen from the situati
 1. T = 1/50 = 0.020 s.
 2. f = v/λ = 340/0.34 = 1000 Hz.
 3. v = fλ = 6.0 × 0.25 = 1.5 m s⁻¹.
-4. λ = c/f = 3.00 × 10⁸ / 1.5 × 10⁹ = 0.20 m.
+4. λ = c/f = 3.00 × 10⁸ / (1.5 × 10⁹) = 0.20 m.
 5. The frequency does not change. The speed and wavelength both change.
 6. At a point of zero displacement where the particles on either side are displaced towards it.
 7. Δλ = 0.5 nm, so v = 3.00 × 10⁸ × 0.5/393.4 = 3.8 × 10⁵ m s⁻¹. The wavelength has increased, so the source recedes.

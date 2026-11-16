@@ -62,7 +62,10 @@ function mdToHtml(md: string): string {
   // ("**5. (a)**" -> "**(a)**"). The old second replace was a no-op, so
   // multi-part answers rendered a stray "5." before their first part.
   const withoutLeadingNumber = md.replace(/^\*\*\d+\.\*\*\s*/, '').replace(/^\*\*\d+\.\s+(?=\S)/, '**');
-  const escaped = escapeHtml(withoutLeadingNumber);
+  // D-478: a fence label (```text) only styles the resource page; drop it
+  // here so the word never shows in a practice question.
+  const withoutFenceLabels = withoutLeadingNumber.replace(/```[A-Za-z]+(?=\n)/g, '```');
+  const escaped = escapeHtml(withoutFenceLabels);
   const withCode = escaped.replace(/`([^`]+)`/g, '<code>$1</code>');
   const withBold = withCode.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   const withItalic = withBold.replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, '$1<em>$2</em>');

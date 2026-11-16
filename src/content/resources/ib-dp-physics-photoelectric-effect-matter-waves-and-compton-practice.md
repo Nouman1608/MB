@@ -98,8 +98,8 @@ Data for every question: Planck constant 6.63 × 10⁻³⁴ J s; speed of light 
 
 ## Answers
 
-**1. (a)** Φ = 4.30 × 1.60 × 10⁻¹⁹ = 6.88 × 10⁻¹⁹ J [1]. f₀ = Φ/h = 6.88 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **1.04 × 10¹⁵ Hz** [1].
-**(b)** Photon energy = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 220 × 10⁻⁹ = 9.04 × 10⁻¹⁹ J [1]. Emax = 9.04 × 10⁻¹⁹ - 6.88 × 10⁻¹⁹ = **2.16 × 10⁻¹⁹ J** [1] = **1.35 eV** [1].
+**1. (a)** Φ = 4.30 × 1.60 × 10⁻¹⁹ = 6.88 × 10⁻¹⁹ J [1]. f₀ = Φ/h = 6.88 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **1.04 × 10¹⁵ Hz** [1].
+**(b)** Photon energy = hc/λ = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (220 × 10⁻⁹) = 9.04 × 10⁻¹⁹ J [1]. Emax = 9.04 × 10⁻¹⁹ - 6.88 × 10⁻¹⁹ = **2.16 × 10⁻¹⁹ J** [1] = **1.35 eV** [1].
 *Examiner insight:* Show the conversion from eV to J before using h; an answer with a unit mix-up usually cannot show the earlier steps were right.
 
 **2.** Any three of the following features, each with its prediction and observation, earn one mark each. The fourth mark is for the photon view.
@@ -110,15 +110,15 @@ The photon model fits all three, since one photon of energy hf gives its energy 
 *Examiner insight:* Pair each feature with both a prediction and an observation; naming a feature alone usually leaves the argument incomplete.
 
 **3. (a)** Photon energy = hf = 6.63 × 10⁻³⁴ × 9.00 × 10¹⁴ = 5.97 × 10⁻¹⁹ J [1]. Emax = eVs = 1.45 × 1.60 × 10⁻¹⁹ = 2.32 × 10⁻¹⁹ J [1]. Φ = 5.97 × 10⁻¹⁹ - 2.32 × 10⁻¹⁹ = 3.65 × 10⁻¹⁹ J = **2.28 eV** [1].
-**(b)** f₀ = 3.65 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **5.50 × 10¹⁴ Hz** [1].
+**(b)** f₀ = 3.65 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **5.50 × 10¹⁴ Hz** [1].
 *Examiner insight:* A stopping potential in volts equals Emax in eV numerically, so you can skip the conversion, but state that you are doing it.
 
 **4. (a)** Gradient = (1.42 - 0.18) / ((8.5 - 5.5) × 10¹⁴) [1] = **4.13 × 10⁻¹⁵ V Hz⁻¹** [1].
 **(b)** Gradient = h/e, so h = 4.13 × 10⁻¹⁵ × 1.60 × 10⁻¹⁹ [1] = **6.61 × 10⁻³⁴ J s** [1].
-**(c)** Vs = 0 at f₀ = 5.5 × 10¹⁴ - 0.18 / 4.13 × 10⁻¹⁵ = **5.06 × 10¹⁴ Hz** [1]. Φ/e = gradient × f₀ = 4.13 × 10⁻¹⁵ × 5.06 × 10¹⁴, so **Φ ≈ 2.09 eV** [1].
+**(c)** Vs = 0 at f₀ = 5.5 × 10¹⁴ - 0.18 / (4.13 × 10⁻¹⁵) = **5.06 × 10¹⁴ Hz** [1]. Φ/e = gradient × f₀ = 4.13 × 10⁻¹⁵ × 5.06 × 10¹⁴, so **Φ ≈ 2.09 eV** [1].
 *Examiner insight:* Use two points well separated on the line and show the subtraction; a value near 2.1 eV from sensible working is a fair reading of a graph.
 
-**5. (a)** Photon energy = hc/λ = 3.83 × 10⁻¹⁹ J [1]. N = 1.2 × 10⁻³ / 3.83 × 10⁻¹⁹ = **3.14 × 10¹⁵ s⁻¹** [1].
+**5. (a)** Photon energy = hc/λ = 3.83 × 10⁻¹⁹ J [1]. N = 1.2 × 10⁻³ / (3.83 × 10⁻¹⁹) = **3.14 × 10¹⁵ s⁻¹** [1].
 **(b)** Electrons per second = 3.14 × 10¹⁵ / 400 = 7.84 × 10¹² [1]. I = 7.84 × 10¹² × 1.60 × 10⁻¹⁹ = **1.25 × 10⁻⁶ A** [1].
 **(c)** Φ = 1.90 × 1.60 × 10⁻¹⁹ = 3.04 × 10⁻¹⁹ J. Emax = 3.83 × 10⁻¹⁹ - 3.04 × 10⁻¹⁹ = **7.85 × 10⁻²⁰ J** [1].
 **(d)** Photon energy at 700 nm = 2.84 × 10⁻¹⁹ J (1.78 eV), which is below Φ, so **there is no emission and the current falls to zero** [1].
@@ -146,7 +146,7 @@ The photon model fits all three, since one photon of energy hf gives its energy 
 **(b)** hc/λi = 2.04 × 10⁻¹⁵ J [1]; hc/λf = 1.99 × 10⁻¹⁵ J [1]; difference = 5.10 × 10⁻¹⁷ J = **319 eV** [1].
 *Examiner insight:* A small change in the constant used shifts the angle in the third figure, so use the value the question gives and keep extra digits until the end.
 
-**11. (a)** p = h/λ = 6.63 × 10⁻³⁴ / 0.250 × 10⁻⁹ = 2.65 × 10⁻²⁴ kg m s⁻¹ [1]. KE = p²/2m = 3.86 × 10⁻¹⁸ J [1] = **24.1 eV** [1].
+**11. (a)** p = h/λ = 6.63 × 10⁻³⁴ / (0.250 × 10⁻⁹) = 2.65 × 10⁻²⁴ kg m s⁻¹ [1]. KE = p²/2m = 3.86 × 10⁻¹⁸ J [1] = **24.1 eV** [1].
 **(b)** E = hc/λ = 7.96 × 10⁻¹⁶ J [1] = **4.97 keV** [1].
 **(c)** The photon's energy is about 206 times larger than the electron's, although the two have the same momentum [1].
 *Examiner insight:* Use p²/2m for the electron and hc/λ for the photon; applying the same energy formula to both is the standard mistake.

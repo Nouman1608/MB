@@ -111,7 +111,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-el
 *Examiner insight:* "Energy per charge" without saying work done or energy transferred may not be accepted; give the full wording.
 
 **2. (a)** Δt = 40 × 60 = 2400 s [1]; Q = IΔt = 0.75 × 2400 = **1800 C** [1].
-**(b)** N = 1800 / 1.60 × 10⁻¹⁹ = **1.1 × 10²² electrons** [1].
+**(b)** N = 1800 / (1.60 × 10⁻¹⁹) = **1.1 × 10²² electrons** [1].
 **(c)** W = QV [1] = 1800 × 5.0 = **9000 J** [1].
 *Examiner insight:* Using 40 instead of 2400 s loses the conversion mark; write Q on its own line so that later steps can still be followed and credited.
 
@@ -122,7 +122,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-el
 **(b)** R = V/I = 0.70 / 0.014 = **50 Ω** [1].
 *Examiner insight:* Convert 14 mA to 0.014 A; a bare "0.05" with no unit or power of ten earns nothing.
 
-**5. (a)** A = π(0.25 × 10⁻³)²/4 = 4.91 × 10⁻⁸ m² [1]. R = ρL/A [1] = 1.1 × 10⁻⁶ × 1.20 / 4.91 × 10⁻⁸ = **27 Ω** [1].
+**5. (a)** A = π(0.25 × 10⁻³)²/4 = 4.91 × 10⁻⁸ m² [1]. R = ρL/A [1] = 1.1 × 10⁻⁶ × 1.20 / (4.91 × 10⁻⁸) = **27 Ω** [1].
 **(b)** P = V²/R [1] = 6.0² / 26.9 = **1.3 W** [1].
 *Examiner insight:* Using the diameter as the radius in πr² gives four times the area; show A on its own line so the method mark is visible.
 

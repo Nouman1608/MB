@@ -71,7 +71,7 @@ Density links mass and volume: **ρ = m/V**, the mass in each unit of volume. Th
 
 ```
 V = 0.12 × 0.050 × 0.040 = 2.4 × 10⁻⁴ m³
-ρ = m/V = 1.62 / 2.4 × 10⁻⁴ = 6.75 × 10³ kg m⁻³
+ρ = m/V = 1.62 / (2.4 × 10⁻⁴) = 6.75 × 10³ kg m⁻³
 ```
 
 **Worked example 2.** An oil has density 920 kg m⁻³. Find the mass of 350 cm³.

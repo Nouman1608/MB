@@ -52,7 +52,7 @@ Energy cannot be created or destroyed, only transferred. For a planet this gives
 A small imbalance matters over long times. Suppose a 100 m deep layer of ocean (1.0 × 10⁵ kg under each square metre, specific heat capacity 4200 J kg⁻¹ K⁻¹) absorbs a net 0.8 W m⁻² more than it loses.
 
 Energy needed per kelvin under 1 m²: 1.0 × 10⁵ × 4200 = 4.2 × 10⁸ J K⁻¹.
-Rate of warming: 0.8 / 4.2 × 10⁸ = 1.9 × 10⁻⁹ K s⁻¹.
+Rate of warming: 0.8 / (4.2 × 10⁸) = 1.9 × 10⁻⁹ K s⁻¹.
 In one year (3.15 × 10⁷ s): 0.060 K.
 
 A tiny imbalance therefore adds up to a measurable warming over decades.
@@ -95,7 +95,7 @@ Earth's albedo is not fixed. It changes through the day and with the season as c
 
 **Worked example 2.** A planet receives 1.7 × 10¹⁷ W of sunlight and scatters 5.1 × 10¹⁶ W. Find its albedo and the power absorbed.
 
-α = 5.1 × 10¹⁶ / 1.7 × 10¹⁷ = **0.30**.
+α = 5.1 × 10¹⁶ / (1.7 × 10¹⁷) = **0.30**.
 Absorbed = 0.70 × 1.7 × 10¹⁷ = **1.2 × 10¹⁷ W**.
 
 <figure class="topic-figure">
@@ -136,7 +136,7 @@ T = [ S(1 − α) / (4eσ) ]^(1/4)
 **Worked example 4.** A planet has S = 2150 W m⁻², α = 0.28 and e = 1. Find its equilibrium temperature.
 
 Absorbed: 2150 × 0.72 / 4 = 387 W m⁻².
-T⁴ = 387 / 5.67 × 10⁻⁸ = 6.83 × 10⁹ K⁴.
+T⁴ = 387 / (5.67 × 10⁻⁸) = 6.83 × 10⁹ K⁴.
 T = **287 K** (about 14 °C).
 
 **Worked example 5.** Earth, S = 1361 W m⁻², α = 0.30. With e = 1 the absorbed intensity is 238 W m⁻² and T = **255 K**, about −18 °C. With e = 0.95 the same absorbed intensity gives T = 258 K, because a less efficient emitter must be hotter to lose the same power.
@@ -166,7 +166,7 @@ The Sun is hot (about 5800 K) so its radiation peaks in the visible region. By W
 
 **Molecular energy levels.** A molecule can only hold certain vibrational energies. A photon is absorbed when its energy hf equals the gap between two levels. For the main greenhouse gases the gaps match infrared photons. Take a photon of wavelength 15 μm (an infrared band absorbed by CO2):
 
-E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / 15 × 10⁻⁶ = **1.33 × 10⁻²⁰ J**.
+E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / (15 × 10⁻⁶) = **1.33 × 10⁻²⁰ J**.
 
 The molecule is left in a higher level. It later returns to a lower level and emits a photon, in a random direction. So the radiation is re-emitted in all directions: some goes out to space, and about half goes back down towards the surface. The molecule can also pass its energy to other molecules in collisions, warming the air.
 

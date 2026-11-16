@@ -202,9 +202,9 @@ An electromagnetic wave is an electric field and a magnetic field oscillating pe
 A radio station broadcasts at 91.5 MHz. Light from a lamp has wavelength 560 nm. Sunlight takes how long to cross 1.50 × 10¹¹ m?
 
 ```
-radio:  λ = c / f = 3.00 × 10⁸ / 91.5 × 10⁶ = 3.28 m
-light:  f = c / λ = 3.00 × 10⁸ / 560 × 10⁻⁹ = 5.36 × 10¹⁴ Hz
-time:   t = d / c = 1.50 × 10¹¹ / 3.00 × 10⁸ = 500 s
+radio:  λ = c / f = 3.00 × 10⁸ / (91.5 × 10⁶) = 3.28 m
+light:  f = c / λ = 3.00 × 10⁸ / (560 × 10⁻⁹) = 5.36 × 10¹⁴ Hz
+time:   t = d / c = 1.50 × 10¹¹ / (3.00 × 10⁸) = 500 s
 ```
 
 <figure class="topic-figure">
@@ -236,7 +236,7 @@ Assume ultrasound moves through soft tissue at 1540 m s⁻¹. Echoes from the fr
 front: d₁ = 1540 × 39 × 10⁻⁶ / 2 = 0.0300 m
 back:  d₂ = 1540 × 91 × 10⁻⁶ / 2 = 0.0701 m
 thickness = 0.0701 - 0.0300 = 0.0400 m = 4.0 cm
-λ = c / f = 1540 / 3.5 × 10⁶ = 4.4 × 10⁻⁴ m = 0.44 mm
+λ = c / f = 1540 / (3.5 × 10⁶) = 4.4 × 10⁻⁴ m = 0.44 mm
 ```
 
 Details much smaller than the wavelength cannot be resolved.

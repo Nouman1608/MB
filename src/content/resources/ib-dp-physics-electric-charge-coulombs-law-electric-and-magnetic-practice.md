@@ -94,7 +94,7 @@ Links: the [study guide](/resources/ib-dp-physics-electric-charge-coulombs-law-e
 *Examiner insight:* Checking that the final total equals the initial total is a quick way to catch an error and shows conservation of charge explicitly.
 
 **4. (a)** The drop is negative and the electric force must act upwards, so the field must point downwards [1]. Field lines run from positive to negative, so the **top plate is positive** [1]. **[2]**
-**(b)** E = V/d = 1500 / 0.0120 = 1.25 × 10⁵ V m⁻¹ [1]. qE = mg [1]. q = (8.16 × 10⁻¹⁵ × 9.81) / 1.25 × 10⁵ = **6.40 × 10⁻¹⁹ C** [1]. **[3]**
+**(b)** E = V/d = 1500 / 0.0120 = 1.25 × 10⁵ V m⁻¹ [1]. qE = mg [1]. q = (8.16 × 10⁻¹⁵ × 9.81) / (1.25 × 10⁵) = **6.40 × 10⁻¹⁹ C** [1]. **[3]**
 **(c)** 6.40 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ = **4** elementary charges [1]. **[1]**
 **(d)** Different drops carry different charges, but every measured value is a whole-number multiple of one smallest value [1]. No fractions of that unit appear, so charge comes in discrete units and is not continuous [1]. **[2]**
 *Examiner insight:* For an explain question about evidence, say what the data showed and what conclusion follows; stating only that charge is quantized does not answer how the results support it.

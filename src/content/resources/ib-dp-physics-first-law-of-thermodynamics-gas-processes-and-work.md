@@ -114,7 +114,7 @@ If pressure changes during the process, W = PΔV can only be applied to thin sli
 
 A gas expands so that its pressure falls linearly from 4.0 × 10⁵ Pa at 1.0 × 10⁻³ m³ to 2.0 × 10⁵ Pa at 3.0 × 10⁻³ m³. Find the work done by the gas.
 
-The area under the line is a trapezoid. Average pressure = (4.0 + 2.0)/2 × 10⁵ = 3.0 × 10⁵ Pa.
+The area under the line is a trapezoid. Average pressure = ((4.0 + 2.0)/2) × 10⁵ = 3.0 × 10⁵ Pa.
 ΔV = 3.0 × 10⁻³ − 1.0 × 10⁻³ = 2.0 × 10⁻³ m³.
 W = 3.0 × 10⁵ × 2.0 × 10⁻³ = **600 J**.
 

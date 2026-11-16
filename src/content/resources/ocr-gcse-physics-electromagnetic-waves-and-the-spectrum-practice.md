@@ -103,7 +103,7 @@ These questions cover statements P5.2a to P5.2f of topic P5.2, The electromagnet
 **(b)** Sound needs particles to vibrate and pass the wave on, and a vacuum has no particles. [1] Light is an electromagnetic wave made of oscillating electric and magnetic fields, so it needs no material medium. [1] **[2]**
 *Examiner insight:* an answer that only says "sound needs air" is incomplete. Linking to what the wave is made of, particles or fields, is what separates the two marks.
 
-**3.** λ = v / f [1]; λ = 3.0 × 10⁸ / 5.0 × 10¹⁴ = 6.0 × 10⁻⁷ m [1]; **600 nm** [1] **[3]**
+**3.** λ = v / f [1]; λ = 3.0 × 10⁸ / (5.0 × 10¹⁴) = 6.0 × 10⁻⁷ m [1]; **600 nm** [1] **[3]**
 *Examiner insight:* working in metres first and then converting to nanometres at the end is safer than converting at the start. A final answer in metres with no conversion does not answer "in nanometres".
 
 **4.** f = 909 kHz = 9.09 × 10⁵ Hz [1]; λ = 3.0 × 10⁸ / 9.09 × 10⁵ [1]; **330 m** [1] **[3]**

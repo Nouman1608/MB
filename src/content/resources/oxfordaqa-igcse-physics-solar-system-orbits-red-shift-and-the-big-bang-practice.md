@@ -132,7 +132,7 @@ Use: speed of sound in air 340 m/s; 1 day = 86 400 s.
 **10.** CMBR is electromagnetic radiation in the microwave region that fills the universe [1]; it is left over from radiation that existed soon after the universe began [1]; currently only the Big Bang theory explains its existence, so it supports the theory [1] **[3]**
 *Examiner insight:* Name the type of wave and say where it comes from; "background noise from space" is too vague to answer the question.
 
-**11. (a)** Time = 4.2 × 86 400 = 3.63 × 10⁵ s [1]; distance = 2π × 1.9 × 10⁸ = 1.19 × 10⁹ m [1]; speed = 1.19 × 10⁹ / 3.63 × 10⁵ = **3290 m/s** [1] **[3]**
+**11. (a)** Time = 4.2 × 86 400 = 3.63 × 10⁵ s [1]; distance = 2π × 1.9 × 10⁸ = 1.19 × 10⁹ m [1]; speed = 1.19 × 10⁹ / (3.63 × 10⁵) = **3290 m/s** [1] **[3]**
 **(b)** Its speed is higher [1]; the radius is smaller, so gravity is stronger and a higher speed goes with the stable orbit [1] **[2]**
 **(c)** The planet's gravity acts on the moon towards the centre of the orbit [1]; this is the centripetal force, an unbalanced force towards the centre [1]; it changes the direction of the moon's velocity but not its speed [1] **[3]**
 *Examiner insight:* Convert days to seconds before dividing and keep the time and distance on separate lines; in part (c) name gravity as the centripetal force instead of describing a "pull" in general terms.

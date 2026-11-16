@@ -147,7 +147,7 @@ At three radii from the centre, g falls by a factor of 9, to 1.0 N kg⁻¹.
 
 **Reminder 4: rearranging for mass.** A small body has surface g = 0.30 N kg⁻¹ and radius 2.0 × 10⁵ m.
 
-M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
+M = gR²/G = 0.30 × (2.0 × 10⁵)² / (6.67 × 10⁻¹¹) = 1.8 × 10²⁰ kg.
 
 **Reminder 5: weight in a different field.** An object of mass 12 kg is moved from a place where g = 9.8 N kg⁻¹ to one where g = 1.6 N kg⁻¹. Its mass stays 12 kg. Its weight changes from 118 N to 19 N, and 12 × 1.6 = 19.2 N rounds to 19 N.
 
@@ -170,7 +170,7 @@ M = gR²/G = 0.30 × (2.0 × 10⁵)² / 6.67 × 10⁻¹¹ = 1.8 × 10²⁰ kg.
 2. F = 6.67 × 10⁻¹¹ × 4.0 × 10⁵ × 6.0 × 10⁵ / 25² = 16.0 / 625 = **2.6 × 10⁻² N**.
 3. Force is proportional to m₁m₂/r². Factor = 3 / 2² = **3/4**, so the force falls to three quarters.
 4. Force per unit mass on a small mass at that point; **N kg⁻¹**.
-5. g = 6.67 × 10⁻¹¹ × 2.0 × 10²² / (1.2 × 10⁶)² = 1.334 × 10¹² / 1.44 × 10¹² = **0.93 N kg⁻¹**.
+5. g = 6.67 × 10⁻¹¹ × 2.0 × 10²² / (1.2 × 10⁶)² = 1.334 × 10¹² / (1.44 × 10¹²) = **0.93 N kg⁻¹**.
 6. r² = GM/g = 6.67 × 10⁻¹¹ × 5.97 × 10²⁴ / 1.0 = 3.98 × 10¹⁴, so r = **2.0 × 10⁷ m**.
 7. F = mg = 0.80 × 6.4 = **5.1 N**, directed towards the mass creating the field.
 8. The strength of the field: closer lines mean a stronger field.

@@ -178,10 +178,10 @@ For a metal loaded past its elastic limit, the unloading line is approximately p
 2. k = 18 / 0.24 = 75 N m⁻¹.
 3. E = ½ × 75 × 0.12² = 0.54 J.
 4. F = 300 × 0.050 = 15 N.
-5. 1.5 mm² = 1.5 × 10⁻⁶ m². Stress = 300 / 1.5 × 10⁻⁶ = 2.0 × 10⁸ Pa.
+5. 1.5 mm² = 1.5 × 10⁻⁶ m². Stress = 300 / (1.5 × 10⁻⁶) = 2.0 × 10⁸ Pa.
 6. Strain = 1.5 × 10⁻³ / 1.25 = 1.2 × 10⁻³.
-7. E = 75 × 10⁶ / 1.25 × 10⁻³ = 6.0 × 10¹⁰ Pa.
-8. UTS = 1600 / 4.0 × 10⁻⁶ = 4.0 × 10⁸ Pa.
+7. E = 75 × 10⁶ / (1.25 × 10⁻³) = 6.0 × 10¹⁰ Pa.
+8. UTS = 1600 / (4.0 × 10⁻⁶) = 4.0 × 10⁸ Pa.
 9. x = √(2E/k) = √(2 × 0.20 / 250) = 0.040 m.
 10. k = EA/L = 1.2 × 10¹¹ × 0.80 × 10⁻⁶ / 3.0 = 3.2 × 10⁴ N m⁻¹.
 11. The wire may not be uniform or perfectly circular. A is proportional to d², so any error in d is doubled in A. Averaging reduces this.

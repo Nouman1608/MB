@@ -69,7 +69,7 @@ Use kelvin in every T⁴ term. Radiation per unit area is an intensity in W m⁻
 4. Rearrange to T⁴, then take the fourth root.
 5. Give T in kelvin, then convert to °C only if asked. Check it is sensible.
 
-**Reminder.** S = 1800 W m⁻², α = 0.50, e = 1. Absorbed = 1800 × 0.50 / 4 = 225 W m⁻². T⁴ = 225 / 5.67 × 10⁻⁸ = 3.97 × 10⁹; T = 251 K.
+**Reminder.** S = 1800 W m⁻², α = 0.50, e = 1. Absorbed = 1800 × 0.50 / 4 = 225 W m⁻². T⁴ = 225 / (5.67 × 10⁻⁸) = 3.97 × 10⁹; T = 251 K.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-the-greenhouse-effect-and-planetary-energy-balance--05-no-atmosphere-temperature.webp" width="900" height="1080" alt="On a temperature scale, Earth with no atmosphere settles at 255 K (258 K if e = 0.95), below the 273 K freezing point; the real mean is 288 K, 33 K higher. That gap is the greenhouse effect." loading="lazy">
@@ -190,7 +190,7 @@ If power in exceeds power out, the net power divides into the heat capacity to g
 2. α = **0.62**; fraction absorbed = **0.38**.
 3. The planet intercepts sunlight over a disc of area πR² but radiates from a sphere of area 4πR², so the mean is S × πR² / 4πR² = **S/4**.
 4. 1200 × 0.65 / 4 = **195 W m⁻²**.
-5. T⁴ = 195 / 5.67 × 10⁻⁸ = 3.44 × 10⁹, so T = **242 K**.
+5. T⁴ = 195 / (5.67 × 10⁻⁸) = 3.44 × 10⁹, so T = **242 K**.
 6. T⁴ = 240 / (0.90 × 5.67 × 10⁻⁸) = 4.70 × 10⁹, so T = **262 K**.
 7. 1361 × π × (6.37 × 10⁶)² × 0.70 = **1.21 × 10¹⁷ W**.
 8. 2^(1/4) × 200 = **238 K**.

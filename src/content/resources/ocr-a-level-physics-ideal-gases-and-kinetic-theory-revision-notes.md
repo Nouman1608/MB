@@ -201,14 +201,14 @@ pV = ⅓ N m <c²>   and   pV = N k T
 
 1. n = 8.0 / 4.0 = **2.0 mol**; N = 2.0 × 6.02 × 10²³ = **1.2 × 10²⁴ atoms**.
 2. p = nRT / V = (0.50 × 8.31 × 300) / (2.5 × 10⁻³) = **5.0 × 10⁵ Pa**.
-3. V₂ = p₁V₁ / p₂ = (1.0 × 10⁵ × 3.0 × 10⁻³) / 2.0 × 10⁵ = **1.5 × 10⁻³ m³**.
+3. V₂ = p₁V₁ / p₂ = (1.0 × 10⁵ × 3.0 × 10⁻³) / (2.0 × 10⁵) = **1.5 × 10⁻³ m³**.
 4. −40 + 273 = **233 K**.
 5. c_rms = √(3p/ρ) = √(3 × 1.0 × 10⁵ / 0.50) = **7.7 × 10² m s⁻¹**.
 6. 3/2 × 1.38 × 10⁻²³ × 400 = **8.28 × 10⁻²¹ J**.
 7. There are negligible forces between molecules except during collisions, so there is no potential energy associated with their separation.
 8. U = 3/2 × 0.50 × 8.31 × 400 = **2.5 × 10³ J**.
 9. c_rms is proportional to √T, and √(1200/300) = 2, so it **doubles**.
-10. n = 3.01 × 10²⁴ / 6.02 × 10²³ = **5.0 mol**.
+10. n = 3.01 × 10²⁴ / (6.02 × 10²³) = **5.0 mol**.
 11. At constant volume p is proportional to T, so the pressure doubles to **2.4 × 10⁵ Pa**.
 
 ## Where marks are usually lost

@@ -198,7 +198,7 @@ The speeds of molecules in a gas at one temperature are spread out. The **Maxwel
 
 Writing the amount of gas as a number of molecules, n = N/NA, turns nRT into (N/NA)RT. The Boltzmann constant is **k = R/NA**:
 
-k = 8.31 / 6.02 × 10²³ = 1.38 × 10⁻²³ J K⁻¹
+k = 8.31 / (6.02 × 10²³) = 1.38 × 10⁻²³ J K⁻¹
 
 so **pV = NkT**.
 
@@ -216,7 +216,7 @@ The left-hand side is the mean translational kinetic energy of a molecule. It de
 ```
 Worked example: helium atoms (m = 6.64 × 10⁻²⁷ kg) at 300 K
 mean kinetic energy = 3/2 × 1.38 × 10⁻²³ × 300 = 6.21 × 10⁻²¹ J
-<c²> = 3kT / m = (3 × 1.38 × 10⁻²³ × 300) / 6.64 × 10⁻²⁷ = 1.87 × 10⁶ m² s⁻²
+<c²> = 3kT / m = (3 × 1.38 × 10⁻²³ × 300) / (6.64 × 10⁻²⁷) = 1.87 × 10⁶ m² s⁻²
 c_rms = 1.37 × 10³ m s⁻¹
 ```
 

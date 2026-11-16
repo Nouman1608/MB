@@ -93,7 +93,7 @@ Calculate force = mass × 9.81 N kg⁻¹, area = π (d / 2)², then tensile stre
 
 * Force = 3.1 × 9.81 = 30.4 N
 * Radius = 0.15 mm = 1.5 × 10⁻⁴ m. Area = π × (1.5 × 10⁻⁴)² = 7.07 × 10⁻⁸ m²
-* Tensile strength = 30.4 / 7.07 × 10⁻⁸ = 4.3 × 10⁸ Pa (430 MPa, 2 significant figures)
+* Tensile strength = 30.4 / (7.07 × 10⁻⁸) = 4.3 × 10⁸ Pa (430 MPa, 2 significant figures)
 
 **Why use stress, not breaking mass?** A thicker fibre carries a larger load simply because it has more material. Dividing by area allows fair comparison.
 

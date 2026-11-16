@@ -98,7 +98,7 @@ These questions cover sections 6.5.2 and 6.5.3 of the OCR Advanced GCE in Physic
 
 **4.** **(a)** E = 0.511 × 10⁶ × 1.60 × 10⁻¹⁹ [1] = **8.18 × 10⁻¹⁴ J** [1].
 **(b)** Momentum is conserved and the total before is about zero [1]; one photon would carry momentum, so two with equal and opposite momenta are produced [1].
-**(c)** λ = hc/E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 8.18 × 10⁻¹⁴ = **2.43 × 10⁻¹² m** [1].
+**(c)** λ = hc/E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (8.18 × 10⁻¹⁴) = **2.43 × 10⁻¹² m** [1].
 *Examiner insight:* Show the substitution. Quoting only a final number leaves nothing to credit if a slip is made.
 
 **5.** The patient is surrounded by a ring of detectors [1]. Each annihilation sends two photons in opposite directions, detected by two detectors at almost the same time [1]. The annihilation lies on the line between those two detectors [1]. The computer combines very many lines and finds where they cross most often, building an image of where the tracer is concentrated [1].

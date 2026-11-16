@@ -68,7 +68,7 @@ x³ + 4x² − 11x − 30 = (x − 3)(x² + 7x + 10)
 
 **Worked example 3 (formal division, non-zero remainder).** Divide 3x³ − 5x² + x + 9 by (x − 2).
 
-```
+```text
               3x²  +  x  +  3
         ┌──────────────────────────
 x − 2   │  3x³ − 5x² +  x  +  9
@@ -116,7 +116,7 @@ k = 3
 
 **Worked example 5 (two unknowns).** The polynomial g(x) = x³ + px² + qx − 12 has (x − 2) as a factor and leaves remainder −30 when divided by (x + 1). Find p and q.
 
-```
+```text
 g(2) = 0:   8 + 4p + 2q − 12 = 0   →   2p + q = 2
 g(−1) = −30: −1 + p − q − 12 = −30   →   p − q = −17
 ```

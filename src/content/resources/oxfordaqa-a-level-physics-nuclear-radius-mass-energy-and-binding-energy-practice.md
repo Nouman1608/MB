@@ -154,7 +154,7 @@ After: 236 × 8.52 = 2010.7 MeV [1]
 Mass after = 4.001506 + 2 × 1.007276 = 6.016058 u, difference 0.013806 u [1]
 **Energy = 0.013806 × 931.5 = 12.9 MeV** [1]
 **(b)** Energy per reaction = 12.86 × 1.60 × 10⁻¹³ = 2.058 × 10⁻¹² J [1]
-Reactions per second = 1.0 × 10⁶/2.058 × 10⁻¹² = **4.9 × 10¹⁷ s⁻¹** [1]
+Reactions per second = 1.0 × 10⁶/(2.058 × 10⁻¹²) = **4.9 × 10¹⁷ s⁻¹** [1]
 **(c)** Two nuclei per reaction: 2 × 3.014932 × 1.66 × 10⁻²⁷ = 1.00 × 10⁻²⁶ kg [1]
 Mass per second = 4.86 × 10¹⁷ × 1.00 × 10⁻²⁶ = **4.9 × 10⁻⁹ kg** [1] **[11]**
 *Examiner insight:* Subtract in the right order and carry unrounded values forward.
@@ -172,7 +172,7 @@ Difference = 0.197120 u [1]
 **(b)** Energy per fission = 183.6 × 1.60 × 10⁻¹³ = 2.94 × 10⁻¹¹ J [1]
 Nuclei in 1.0 kg = 6.02 × 10²³/0.235 = 2.56 × 10²⁴ [1]
 **Energy = 2.94 × 10⁻¹¹ × 2.56 × 10²⁴ = 7.5 × 10¹³ J** [1]
-**(c)** Fissions per second = 3.0 × 10⁹/2.94 × 10⁻¹¹ = 1.02 × 10²⁰; mass per day = 1.02 × 10²⁰ × 86400/2.56 × 10²⁴ [1]
+**(c)** Fissions per second = 3.0 × 10⁹/(2.94 × 10⁻¹¹) = 1.02 × 10²⁰; mass per day = 1.02 × 10²⁰ × 86400/2.56 × 10²⁴ [1]
 **Mass ≈ 3.4 kg** per day [1] **[9]**
 *Examiner insight:* Check that the proton numbers balance (92 = 54 + 38) before using atomic masses, and show each conversion on its own line.
 

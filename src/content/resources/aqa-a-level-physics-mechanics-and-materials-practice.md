@@ -142,8 +142,8 @@ See the [study guide](/resources/aqa-a-level-physics-mechanics-and-materials/), 
 **11.** Ep lost = 80 × 9.81 × 12 = 9418 J [1]. Ek gained = ½ × 80 × 11² = 4840 J [1]. Work against resistance = 4578 J [1]. F = 4578/150 = **31 N** [1].
 *Examiner insight:* The resistive force acts along the road, so divide by 150 m, not the 12 m height.
 
-**12.** (a) A = π(0.20 × 10⁻³)² = 1.257 × 10⁻⁷ m²; V = 3.14 × 10⁻⁷ m³ [1]. ρ = 2.8 × 10⁻³/3.14 × 10⁻⁷ = **8.9 × 10³ kg m⁻³** [1].
-(b) Stress = 30/1.257 × 10⁻⁷ = 2.39 × 10⁸ Pa [1]. Strain = 5.0 × 10⁻³/2.50 = 2.0 × 10⁻³ [1]. E = stress/strain [1] = **1.2 × 10¹¹ Pa** [1].
+**12.** (a) A = π(0.20 × 10⁻³)² = 1.257 × 10⁻⁷ m²; V = 3.14 × 10⁻⁷ m³ [1]. ρ = 2.8 × 10⁻³/(3.14 × 10⁻⁷) = **8.9 × 10³ kg m⁻³** [1].
+(b) Stress = 30/(1.257 × 10⁻⁷) = 2.39 × 10⁸ Pa [1]. Strain = 5.0 × 10⁻³/2.50 = 2.0 × 10⁻³ [1]. E = stress/strain [1] = **1.2 × 10¹¹ Pa** [1].
 (c) ½ × 30 × 5.0 × 10⁻³ = **0.075 J** [1].
 (d) A long, thin wire gives a large enough extension to measure precisely [1]; the wire may not be uniform, so a mean diameter reduces uncertainty in the area [1].
 (e) The unloading line is straight and parallel to the loading line [1], and does not return to zero: a permanent extension remains [1].

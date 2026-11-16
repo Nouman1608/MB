@@ -199,7 +199,7 @@ Compared with two slits, a grating with many slits gives **narrower, sharper and
 **Worked example 7.** A grating has 750 lines per mm. Light of λ = 610 nm is incident normally.
 
 - d = 1/750 mm = 1.33 × 10⁻⁶ m.
-- First order: sin θ = λ/d = 610 × 10⁻⁹ / 1.333 × 10⁻⁶ = 0.4575, so θ = **27.2°**.
+- First order: sin θ = λ/d = 610 × 10⁻⁹ / (1.333 × 10⁻⁶) = 0.4575, so θ = **27.2°**.
 - Maximum order: d/λ = 2.19, so n ≤ 2. Second order: sin θ = 0.915, θ = **66.2°**.
 - Maxima seen: n = 0, ±1, ±2, which is **5** in total.
 
@@ -207,7 +207,7 @@ Compared with two slits, a grating with many slits gives **narrower, sharper and
 
 - First order spectrum: 17.5° (violet) to 31.7° (red).
 - Second order: violet at sin θ = 0.600, so 36.9°. Wavelengths above d/2 = 667 nm have no second order, so the red end is cut off.
-- Third order violet: sin θ = 3 × 400 × 10⁻⁹ / 1.333 × 10⁻⁶ = 0.900, so θ = 64.2°, which lies **inside** the range of the second-order spectrum (from 36.9° upwards). Orders 2 and 3 overlap; orders 1 and 2 do not.
+- Third order violet: sin θ = 3 × 400 × 10⁻⁹ / (1.333 × 10⁻⁶) = 0.900, so θ = 64.2°, which lies **inside** the range of the second-order spectrum (from 36.9° upwards). Orders 2 and 3 overlap; orders 1 and 2 do not.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-superposition-double-slit-interference-single-slit--08-ibp-ssd-grating.webp" width="900" height="1060" alt="Light of 610 nm on a 750 lines per mm grating (d = 1.33 micrometres) gives maxima at 0 degrees and plus and minus 27.2 and 66.2 degrees, five in all, because d over lambda is 2.19." loading="lazy">

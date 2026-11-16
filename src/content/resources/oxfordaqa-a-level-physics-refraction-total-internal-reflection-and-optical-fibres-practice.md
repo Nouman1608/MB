@@ -89,7 +89,7 @@ These questions follow section 3.5.8 (Refraction at a plane surface) of the Oxfo
 
 ## Answers
 
-**1.** n = c / cs [1] = 3.00 × 10⁸ / 1.95 × 10⁸ = **1.54** [1] **[2]**
+**1.** n = c / cs [1] = 3.00 × 10⁸ / (1.95 × 10⁸) = **1.54** [1] **[2]**
 *Examiner insight:* Write the ratio the right way round: a refractive index below 1 for a solid shows that c and cs have been swapped.
 
 **2.** 1 × sin 62° = 1.36 × sin θ [1]. sin θ = 0.8829 / 1.36 = 0.6492 [1]. θ = **40.5°** [1] **[3]**
@@ -112,7 +112,7 @@ These questions follow section 3.5.8 (Refraction at a plane surface) of the Oxfo
 
 **7. (a)** sin θc = 1.48 / 1.52 [1] = 0.9737, so θc = **76.8°** [1]
 **(b)** 90° − 76.8° = **13.2°** [1]
-**(c)** Axial time = 800 × 1.52 / 3.00 × 10⁸ = 4.053 × 10⁻⁶ s [1]. Critical-angle path is 1.52 / 1.48 times longer, so time = 4.163 × 10⁻⁶ s [1]. Difference = **1.10 × 10⁻⁷ s** [1] **[6]**
+**(c)** Axial time = 800 × 1.52 / (3.00 × 10⁸) = 4.053 × 10⁻⁶ s [1]. Critical-angle path is 1.52 / 1.48 times longer, so time = 4.163 × 10⁻⁶ s [1]. Difference = **1.10 × 10⁻⁷ s** [1] **[6]**
 *Examiner insight:* The path length at the critical angle is L / sin θc, so the ratio of times is 1 / sin θc. Using the angle in degrees as the ratio is a common slip.
 
 **8.** The refractive index of the glass depends on wavelength, so different wavelengths travel at different speeds [1]. A pulse from a source with a range of wavelengths therefore spreads out in time as the wavelengths arrive at different times [1]. An LED emits a wide range of wavelengths [1]. A laser emits a very narrow range, so there is little difference in speed within the pulse and less broadening [1] **[4]**
@@ -124,7 +124,7 @@ These questions follow section 3.5.8 (Refraction at a plane surface) of the Oxfo
 *Examiner insight:* The loss is multiplicative. Subtracting 18% for each kilometre (6 × 18 = 108%) is a clear sign the power law has been missed.
 
 **10. (a)** sin θc = 1.47 / 1.50 [1] = 0.98, so θc = **78.5°** [1]
-**(b)** Axial time = 5000 × 1.50 / 3.00 × 10⁸ = 2.50 × 10⁻⁵ s. Critical-angle time = 2.50 × 10⁻⁵ × 1.50 / 1.47 = 2.551 × 10⁻⁵ s [2]. Difference = **5.1 × 10⁻⁷ s** [1]
+**(b)** Axial time = 5000 × 1.50 / (3.00 × 10⁸) = 2.50 × 10⁻⁵ s. Critical-angle time = 2.50 × 10⁻⁵ × 1.50 / 1.47 = 2.551 × 10⁻⁵ s [2]. Difference = **5.1 × 10⁻⁷ s** [1]
 **(c)** Rate = 1 / 5.1 × 10⁻⁷ [1] = **1.96 × 10⁶ pulses per second** [1]
 **(d)** Any two of: use a narrower (single-mode) core so only the axial path is possible; reduce the difference between core and cladding refractive indices; shorten the length between regenerators [2] **[9]**
 *Examiner insight:* In (d) each suggestion needs an effect on the path or time difference, not simply "better fibre". Give two distinct changes rather than one change reworded.

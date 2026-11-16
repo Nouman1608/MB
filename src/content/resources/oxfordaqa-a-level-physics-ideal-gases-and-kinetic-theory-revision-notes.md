@@ -138,7 +138,7 @@ Visible smoke or pollen particles jitter randomly because unequal numbers of fas
 
 **Pressure law.** A rigid tyre holds air at 2.2 × 10⁵ Pa and 280 K. At 310 K, p₂ = 2.2 × 10⁵ × 310 / 280 = **2.4 × 10⁵ Pa** (2.44 × 10⁵).
 
-**Moles and molecules.** 0.220 kg of carbon dioxide, M = 0.0440 kg mol⁻¹. n = 0.220 / 0.0440 = **5.0 mol**. N = 5.0 × 6.02 × 10²³ = **3.0 × 10²⁴**. Mass of one molecule = 0.0440 / 6.02 × 10²³ = **7.31 × 10⁻²⁶ kg**.
+**Moles and molecules.** 0.220 kg of carbon dioxide, M = 0.0440 kg mol⁻¹. n = 0.220 / 0.0440 = **5.0 mol**. N = 5.0 × 6.02 × 10²³ = **3.0 × 10²⁴**. Mass of one molecule = 0.0440 / (6.02 × 10²³) = **7.31 × 10⁻²⁶ kg**.
 
 **Density form.** A gas of density 1.2 kg m⁻³ has c_rms = 500 m s⁻¹. p = ⅓ × 1.2 × 500² = **1.0 × 10⁵ Pa**.
 
@@ -169,12 +169,12 @@ Visible smoke or pollen particles jitter randomly because unequal numbers of fas
 2. −196 + 273 = **77 K**.
 3. The pressure **doubles**, since pV is constant.
 4. N = 0.50 × 6.02 × 10²³ = **3.0 × 10²³**.
-5. m = 0.0320 / 6.02 × 10²³ = **5.32 × 10⁻²⁶ kg**.
+5. m = 0.0320 / (6.02 × 10²³) = **5.32 × 10⁻²⁶ kg**.
 6. W = pΔV = 1.5 × 10⁵ × 4.0 × 10⁻³ = **600 J**.
 7. 3kT/2 = 1.5 × 1.38 × 10⁻²³ × 600 = **1.24 × 10⁻²⁰ J**.
 8. Doubling c_rms quadruples T, so T = 1200 K and the rise is **900 K**.
 9. U = 1.5 × 0.30 × 8.31 × 400 = **1.5 × 10³ J** (1496 J).
-10. m = 0.0020 / 6.02 × 10²³ = 3.32 × 10⁻²⁷ kg. c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 273 / 3.32 × 10⁻²⁷) = **1.84 × 10³ m s⁻¹**.
+10. m = 0.0020 / (6.02 × 10²³) = 3.32 × 10⁻²⁷ kg. c_rms = √(3kT/m) = √(3 × 1.38 × 10⁻²³ × 273 / (3.32 × 10⁻²⁷)) = **1.84 × 10³ m s⁻¹**.
 11. Air molecules, too small to see, strike a smoke particle at random and fast. The numbers hitting each side are unequal at any moment, so the net force changes in size and direction.
 12. They were found by experiment and describe how p, V and T behave. They do not explain why.
 

@@ -128,7 +128,7 @@ These questions cover 6.3.1 (Magnetic fields) and 6.3.2 (Motion of charged parti
 **(b)** r = mv/(eB) = 1.673 × 10⁻²⁷ × 2.0 × 10⁵ / (1.60 × 10⁻¹⁹ × 0.30) = **7.0 × 10⁻³ m** [1], and for 8.0 × 10⁵ m s⁻¹, **2.8 × 10⁻² m** [1]
 *Examiner insight:* Start the derivation from the force equation and show the cancellation.
 
-**10.** (a) E = V/d = 240 / 4.0 × 10⁻³ = 6.0 × 10⁴ V m⁻¹ [1]. For no deflection QE = BQv [1], so v = E/B = **4.0 × 10⁶ m s⁻¹** [1]
+**10.** (a) E = V/d = 240 / (4.0 × 10⁻³) = 6.0 × 10⁴ V m⁻¹ [1]. For no deflection QE = BQv [1], so v = E/B = **4.0 × 10⁶ m s⁻¹** [1]
 **(b)** The magnetic force per unit charge is Bv = 0.015 × 2.0 × 10⁶ = 3.0 × 10⁴ V m⁻¹, which is less than E [1]. So the electric force is larger and the proton is deflected in the direction of the electric force, towards the negative plate [1]
 **(c)** Yes. The condition v = E/B does not contain charge or mass [1], and 4.0 × 10⁶ m s⁻¹ equals E/B, so the alpha is undeflected [1]
 *Examiner insight:* Compare the two forces with numbers, then state the direction.

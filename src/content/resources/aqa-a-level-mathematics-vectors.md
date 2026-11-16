@@ -55,7 +55,7 @@ Notation from Appendix A of the specification:
 
 A vector can be written in **component form** with i, j, k or as a column vector. These are the same vector:
 
-```
+```text
       (  3 )
 a  =  ( −4 )   =  3i − 4j + 2k
       (  2 )
@@ -175,7 +175,7 @@ cos θ = 6/7  →  θ = 31.0°
 
 **Worked example 5.** Find λ and μ such that λ(2i + j) + μ(i − 3j) = 7i − 7j.
 
-```
+```text
 i:  2λ + μ = 7
 j:  λ − 3μ = −7
 From the first, μ = 7 − 2λ. Substitute: λ − 21 + 6λ = −7  →  λ = 2, μ = 3

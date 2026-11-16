@@ -144,7 +144,7 @@ Use: h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹
 *Examiner insight:* Each conservation law needs both sides written out to earn its mark.
 
 **9. (a)** E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸)/320 × 10⁻⁹ [1] = **6.22 × 10⁻¹⁹ J** [1].
-**(b)** Ek(max) = eVs = 1.05 eV [1]; photon energy = 6.22 × 10⁻¹⁹/1.60 × 10⁻¹⁹ = 3.88 eV [1]; ϕ = 3.88 − 1.05 = **2.83 eV** [1].
+**(b)** Ek(max) = eVs = 1.05 eV [1]; photon energy = 6.22 × 10⁻¹⁹/(1.60 × 10⁻¹⁹) = 3.88 eV [1]; ϕ = 3.88 − 1.05 = **2.83 eV** [1].
 **(c)** ϕ = 6.22 × 10⁻¹⁹ − 1.68 × 10⁻¹⁹ = 4.54 × 10⁻¹⁹ J, and f₀ = ϕ/h = 4.54 × 10⁻¹⁹/6.63 × 10⁻³⁴ [1] = **6.84 × 10¹⁴ Hz** (6.83 × 10¹⁴ Hz from the rounded 2.83 eV is also fine) [1].
 **(d)** Stopping potential **unchanged** [1], because each photon still has the same energy, so Ek(max) is the same [1]. Current **increases**: more photons per second release more electrons per second [1].
 *Examiner insight:* Allow error carried forward from (a) into (b) and (c), but a stopping potential "increasing with intensity" in (d) gets no credit.
@@ -155,7 +155,7 @@ Use: h = 6.63 × 10⁻³⁴ J s, c = 3.00 × 10⁸ m s⁻¹, e = 1.60 × 10⁻¹
 **(d)** It can be excited to the −5.5 eV level, which needs 4.9 eV [1]. It cannot reach −3.7 eV, which needs 6.7 eV [1]. The electron leaves with 6.0 − 4.9 = **1.1 eV** [1].
 *Examiner insight:* The longest wavelength comes from the smallest energy gap; choosing the largest gap is a common way to lose all of (b).
 
-**11. (a)** Ek = 600 × 1.60 × 10⁻¹⁹ = 9.60 × 10⁻¹⁷ J [1]; v = √(2 × 9.60 × 10⁻¹⁷/9.11 × 10⁻³¹) = 1.452 × 10⁷ m s⁻¹ [1].
+**11. (a)** Ek = 600 × 1.60 × 10⁻¹⁹ = 9.60 × 10⁻¹⁷ J [1]; v = √(2 × 9.60 × 10⁻¹⁷/(9.11 × 10⁻³¹)) = 1.452 × 10⁷ m s⁻¹ [1].
 **(b)** λ = h/mv = 6.63 × 10⁻³⁴/(9.11 × 10⁻³¹ × 1.452 × 10⁷) [1] = **5.01 × 10⁻¹¹ m** [1].
 **(c)** Kinetic energy is four times larger, so momentum doubles [1]; λ halves to about 2.5 × 10⁻¹¹ m [1]; there is less diffraction, so the rings have a smaller radius [1].
 *Examiner insight:* On a "show that", give the answer to more significant figures than quoted (here 1.452 × 10⁷) or show every substitution; just restating the given value earns nothing.

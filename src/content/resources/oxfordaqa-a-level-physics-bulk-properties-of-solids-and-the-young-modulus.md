@@ -53,7 +53,7 @@ Density is mass per unit volume: ρ = m/V, in kg m⁻³. It describes the materi
 **Worked example 1.** A brass cylinder has diameter 24.0 mm, length 55.0 mm and mass 0.215 kg. Find its density.
 
 V = π r² l = π × (0.0120)² × 0.0550 = 2.49 × 10⁻⁵ m³.
-ρ = m/V = 0.215 / 2.49 × 10⁻⁵ = **8.64 × 10³ kg m⁻³**.
+ρ = m/V = 0.215 / (2.49 × 10⁻⁵) = **8.64 × 10³ kg m⁻³**.
 
 ## Hooke's law and the elastic limit
 
@@ -91,7 +91,7 @@ The breaking stress is the stress at which the material fractures. It depends on
 **Worked example 3.** A wire of diameter 0.35 mm breaks under a tension of 38 N. A 2.5 m length of it extends by 4.0 mm under a smaller load. Find the breaking stress and the strain in the second case.
 
 A = π × (0.175 × 10⁻³)² = 9.62 × 10⁻⁸ m².
-Breaking stress = 38 / 9.62 × 10⁻⁸ = **3.9 × 10⁸ Pa**.
+Breaking stress = 38 / (9.62 × 10⁻⁸) = **3.9 × 10⁸ Pa**.
 Strain = 4.0 × 10⁻³ / 2.5 = **1.6 × 10⁻³**.
 
 ## Elastic strain energy
@@ -154,9 +154,9 @@ Its unit is the pascal (Pa), the same as stress. A large E means a stiff materia
 **Worked example 7.** An aluminium wire of original length 1.60 m and diameter 0.80 mm carries a load of 85 N and extends by 3.9 mm. Find the Young modulus.
 
 A = π × (0.40 × 10⁻³)² = 5.03 × 10⁻⁷ m².
-Stress = 85 / 5.03 × 10⁻⁷ = 1.69 × 10⁸ Pa.
+Stress = 85 / (5.03 × 10⁻⁷) = 1.69 × 10⁸ Pa.
 Strain = 3.9 × 10⁻³ / 1.60 = 2.44 × 10⁻³.
-E = 1.69 × 10⁸ / 2.44 × 10⁻³ = **6.9 × 10¹⁰ Pa**.
+E = 1.69 × 10⁸ / (2.44 × 10⁻³) = **6.9 × 10¹⁰ Pa**.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/as-physics-deformation-of-solids--05-stress-strain-young-modulus.webp" width="900" height="1050" alt="A 2.0 m wire of cross-section 1.0e-6 m squared carries 60 N and extends 1.5 mm. Stress is 6.0e7 Pa, strain is 7.5e-4 and E is 8.0e10 Pa." loading="lazy">

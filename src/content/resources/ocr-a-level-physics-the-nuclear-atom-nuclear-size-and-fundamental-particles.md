@@ -114,8 +114,8 @@ The radius of a nucleus is R = r₀A^(1/3), where r₀ is a constant (about 1.2 
 A cancels, so every nucleus has the same density.
 
 **Worked example (densities).** Aluminium-27 (atom radius taken as 1.4 × 10⁻¹⁰ m).
-- Nucleus: R = 1.2 × 27^(1/3) = 3.6 fm, so V = (4/3)π(3.6 × 10⁻¹⁵)³ = 1.95 × 10⁻⁴³ m³. Mass = 27 × 1.66 × 10⁻²⁷ = 4.48 × 10⁻²⁶ kg. ρ = 4.48 × 10⁻²⁶ / 1.95 × 10⁻⁴³ = 2.3 × 10¹⁷ kg m⁻³.
-- Atom: V = (4/3)π(1.4 × 10⁻¹⁰)³ = 1.15 × 10⁻²⁹ m³. Electrons contribute almost nothing to the mass, so use the same mass: ρ = 4.48 × 10⁻²⁶ / 1.15 × 10⁻²⁹ = 3.9 × 10³ kg m⁻³.
+- Nucleus: R = 1.2 × 27^(1/3) = 3.6 fm, so V = (4/3)π(3.6 × 10⁻¹⁵)³ = 1.95 × 10⁻⁴³ m³. Mass = 27 × 1.66 × 10⁻²⁷ = 4.48 × 10⁻²⁶ kg. ρ = 4.48 × 10⁻²⁶ / (1.95 × 10⁻⁴³) = 2.3 × 10¹⁷ kg m⁻³.
+- Atom: V = (4/3)π(1.4 × 10⁻¹⁰)³ = 1.15 × 10⁻²⁹ m³. Electrons contribute almost nothing to the mass, so use the same mass: ρ = 4.48 × 10⁻²⁶ / (1.15 × 10⁻²⁹) = 3.9 × 10³ kg m⁻³.
 - The nuclear density is about 6 × 10¹³ times the mean atomic density.
 
 The atom's mean density is similar to everyday solids and liquids. Nuclear matter is vastly denser: one cubic centimetre of it would have a mass of about 2 × 10¹¹ kg.

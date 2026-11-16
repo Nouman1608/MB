@@ -68,7 +68,7 @@ A heated metal filament gives some conduction electrons enough kinetic energy to
 
 ```
 Ek = eV = 1.60 × 10⁻¹⁹ × 2500 = 4.00 × 10⁻¹⁶ J
-v = √(2Ek/m) = √(2 × 4.00 × 10⁻¹⁶ / 9.11 × 10⁻³¹) = 2.96 × 10⁷ m s⁻¹
+v = √(2Ek/m) = √(2 × 4.00 × 10⁻¹⁶ / (9.11 × 10⁻³¹)) = 2.96 × 10⁷ m s⁻¹
 ```
 
 That is about 0.1c, so the non-relativistic formula is acceptable.
@@ -147,7 +147,7 @@ An EM wave is electric and magnetic fields oscillating in phase, at right angles
 
 ```
 t = 1/(2 × 500 × 25) = 4.0 × 10⁻⁵ s
-c = 2 × 6000 / 4.0 × 10⁻⁵ = 3.0 × 10⁸ m s⁻¹
+c = 2 × 6000 / (4.0 × 10⁻⁵) = 3.0 × 10⁸ m s⁻¹
 ```
 
 **Implication:** the measured speed of light matched Maxwell's predicted speed for EM waves, so light is an electromagnetic wave.

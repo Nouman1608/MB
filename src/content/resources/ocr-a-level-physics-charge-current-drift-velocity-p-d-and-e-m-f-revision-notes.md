@@ -155,13 +155,13 @@ Be able to draw: cell, battery, switch, fixed resistor, variable resistor, filam
 ### Answers
 
 1. Δt = 720 s, Q = 0.35 × 720 = **252 C**.
-2. 4.0 × 10⁻¹⁹ / 1.6 × 10⁻¹⁹ = 2.5, not a whole number, so **no**.
+2. 4.0 × 10⁻¹⁹ / (1.6 × 10⁻¹⁹) = 2.5, not a whole number, so **no**.
 3. 6.0 + 2.5 − 4.1 = **4.4 A**.
 4. Area ×4, so v ÷ 4: **the drift velocity falls to one quarter**.
 5. v = 2.0 / (1.0 × 10⁻⁶ × 8.5 × 10²⁸ × 1.6 × 10⁻¹⁹) = **1.5 × 10⁻⁴ m s⁻¹**.
 6. W = VQ = 5.0 × 18 = **90 J**.
 7. Q = W/E = 150 / 3.0 = **50 C**.
-8. v = √(2 × 1.6 × 10⁻¹⁹ × 400 / 1.67 × 10⁻²⁷) = **2.8 × 10⁵ m s⁻¹**.
+8. v = √(2 × 1.6 × 10⁻¹⁹ × 400 / (1.67 × 10⁻²⁷)) = **2.8 × 10⁵ m s⁻¹**.
 9. J C⁻¹ = kg m² s⁻² / (A s) = **kg m² s⁻³ A⁻¹**.
 10. Heating releases more carriers, so **n increases** and, for the same drift velocity, the current rises.
 11. E = eV = 1.6 × 10⁻¹⁹ × 2000 = **3.2 × 10⁻¹⁶ J**.

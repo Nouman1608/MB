@@ -130,8 +130,8 @@ The **half-life** t½ is the time for the number of undecayed nuclei to fall to 
 **Worked example 2 (a long half-life).** A sample is 5.0 μg of an isotope of molar mass 137 g mol⁻¹ and Avogadro constant 6.02 × 10²³ mol⁻¹. Its activity is measured as 1.6 × 10⁷ Bq. Find the half-life.
 
 N = (5.0 × 10⁻⁶ / 137) × 6.02 × 10²³ = 2.20 × 10¹⁶
-λ = A/N = 1.6 × 10⁷ / 2.20 × 10¹⁶ = 7.28 × 10⁻¹⁰ s⁻¹
-t½ = 0.693 / 7.28 × 10⁻¹⁰ = 9.5 × 10⁸ s ≈ **30 years** (dividing by 3.16 × 10⁷ s per year)
+λ = A/N = 1.6 × 10⁷ / (2.20 × 10¹⁶) = 7.28 × 10⁻¹⁰ s⁻¹
+t½ = 0.693 / (7.28 × 10⁻¹⁰) = 9.5 × 10⁸ s ≈ **30 years** (dividing by 3.16 × 10⁷ s per year)
 
 Waiting for such a sample to halve is impractical, so you find N from the mass and A from a count. **Short half-lives** are measured directly. For the protactinium experiment, a sealed generator bottle holds a solution containing the parent uranium compound. You shake it and let two liquid layers separate; the short-lived protactinium isotope, with a half-life of about a minute, collects in the upper layer. Place a GM tube over that layer, record the count every 10 s for several minutes, and record the background separately. Subtract the background from each count rate, plot corrected count rate against time and read off the time for the rate to halve from several starting points; they should agree. Use gloves, keep the bottle sealed and follow your school's rules for the generator.
 
@@ -187,7 +187,7 @@ t = (1/λ) ln(A₀/A)
 **Worked example 5.** Living wood gives 0.230 Bq per gram of carbon. An ancient bowl gives 0.150 Bq per gram. Find its age.
 
 λ = ln 2 / 5730 = 1.21 × 10⁻⁴ year⁻¹
-t = ln(0.230/0.150) / 1.21 × 10⁻⁴ = 0.4274 / 1.21 × 10⁻⁴ = **3500 years** (2 s.f.)
+t = ln(0.230/0.150) / (1.21 × 10⁻⁴) = 0.4274 / (1.21 × 10⁻⁴) = **3500 years** (2 s.f.)
 
 **Assumptions and limits:** the starting ratio is assumed to match today's, the sample must not be contaminated by newer carbon, and after many half-lives the activity is too small to separate from background. Rocks are dated in the same way with isotopes whose half-lives are far longer.
 

@@ -176,7 +176,7 @@ Learn the content first with the [study guide](/resources/aqa-a-level-physics-fu
 **12. (a)** n = pV/RT = (1.5 × 10⁷ × 0.010)/(8.31 × 290) [1] = **62 mol** [1]
 **(b)** Mass = 62.2 × 0.040 = **2.5 kg** [1]
 **(c)** (3/2)kT = 1.5 × 1.38 × 10⁻²³ × 290 = **6.0 × 10⁻²¹ J** [1]
-**(d)** Atom mass = 0.040/6.02 × 10²³ = 6.64 × 10⁻²⁶ kg [1]; c_rms = √(3kT/m) = **425 m s⁻¹** [1]
+**(d)** Atom mass = 0.040/(6.02 × 10²³) = 6.64 × 10⁻²⁶ kg [1]; c_rms = √(3kT/m) = **425 m s⁻¹** [1]
 **(e)** U = (3/2)nRT = (3/2)pV [1] = 1.5 × 1.5 × 10⁷ × 0.010 = **2.3 × 10⁵ J** [1]
 **(f)** n remaining = (6.0 × 10⁶ × 0.010)/(8.31 × 290) = 24.9 mol [1]; mass released = (62.2 − 24.9) × 0.040 = **1.5 kg** [1] **[10]**
 *Examiner insight:* Carry unrounded values of n through (f); early rounding can shift the final answer.

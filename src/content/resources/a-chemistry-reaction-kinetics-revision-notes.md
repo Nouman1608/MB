@@ -120,9 +120,9 @@ Rearrange the rate equation: k = rate / ([A]ᵐ[B]ⁿ), with rate in mol dm⁻³
 3. Rate equation: **rate = k[A][B]²**; overall order 3.
 4. Rate constant, using experiment 1:
 
-       k = 2.4 × 10⁻⁴ / (0.010 × 0.020²) = 2.4 × 10⁻⁴ / 4.0 × 10⁻⁶ = 60 dm⁶ mol⁻² s⁻¹
+       k = 2.4 × 10⁻⁴ / (0.010 × 0.020²) = 2.4 × 10⁻⁴ / (4.0 × 10⁻⁶) = 60 dm⁶ mol⁻² s⁻¹
 
-   Check with experiment 3: 1.92 × 10⁻³ / (0.020 × 0.040²) = 1.92 × 10⁻³ / 3.2 × 10⁻⁵ = 60, the same value.
+   Check with experiment 3: 1.92 × 10⁻³ / (0.020 × 0.040²) = 1.92 × 10⁻³ / (3.2 × 10⁻⁵) = 60, the same value.
 5. Calculate an initial rate: when [A] = 0.030 and [B] = 0.010 mol dm⁻³,
    rate = 60 × 0.030 × 0.010² = 1.8 × 10⁻⁴ mol dm⁻³ s⁻¹.
 

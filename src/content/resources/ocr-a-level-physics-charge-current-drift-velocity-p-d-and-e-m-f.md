@@ -68,7 +68,7 @@ electrons per second = I / e = 0.60 / (1.6 × 10⁻¹⁹) = 3.75 × 10¹⁸ ≈ 
 
 ### Worked example 2: quantisation
 
-A plastic rod carries a net charge of −9.6 × 10⁻¹⁹ C. Number of excess electrons: 9.6 × 10⁻¹⁹ / 1.6 × 10⁻¹⁹ = 6. A charge of +6.4 × 10⁻¹⁹ C means 4 electrons are missing.
+A plastic rod carries a net charge of −9.6 × 10⁻¹⁹ C. Number of excess electrons: 9.6 × 10⁻¹⁹ / (1.6 × 10⁻¹⁹) = 6. A charge of +6.4 × 10⁻¹⁹ C means 4 electrons are missing.
 
 ### Charge carriers and the direction of current
 

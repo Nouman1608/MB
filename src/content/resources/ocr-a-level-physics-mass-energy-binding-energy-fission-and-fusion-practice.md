@@ -95,9 +95,9 @@ Data: c = 3.00 × 10⁸ m s⁻¹; 1 u = 1.661 × 10⁻²⁷ kg, equivalent to 93
 **2.** E = Δmc² = 3.6 × 10⁻²⁹ × (3.00 × 10⁸)² [1]; = 3.24 × 10⁻¹² J [1]; ÷ 1.60 × 10⁻¹³ = 20 MeV (20.25) [1]. **[3]**
 *Examiner insight:* Show the conversion from joules to MeV as a separate line; the unit is part of the answer.
 
-**3. (a)** E = hc/λ [1] = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 1.5 × 10⁻¹² = **1.33 × 10⁻¹³ J** [1]. **[2]**
+**3. (a)** E = hc/λ [1] = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (1.5 × 10⁻¹²) = **1.33 × 10⁻¹³ J** [1]. **[2]**
 **(b)** Minimum energy needed = 2mc² = 2 × 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 1.64 × 10⁻¹³ J [1]. The photon has less than this (1.33 × 10⁻¹³ J), so it cannot create a pair [1]. **[2]**
-**(c)** E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 0.80 × 10⁻¹² = 2.49 × 10⁻¹³ J [1]; energy left for motion = 2.49 × 10⁻¹³ − 1.64 × 10⁻¹³ = 8.5 × 10⁻¹⁴ J [1]; each particle **4.2 × 10⁻¹⁴ J** (about 0.26 MeV) [1]. **[3]**
+**(c)** E = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (0.80 × 10⁻¹²) = 2.49 × 10⁻¹³ J [1]; energy left for motion = 2.49 × 10⁻¹³ − 1.64 × 10⁻¹³ = 8.5 × 10⁻¹⁴ J [1]; each particle **4.2 × 10⁻¹⁴ J** (about 0.26 MeV) [1]. **[3]**
 *Examiner insight:* In a "show that" question, state the threshold value and make the comparison explicitly; a calculation without the conclusion leaves the point unmade.
 
 **4.** Mass of constituents = 13 × 1.007825 + 14 × 1.008665 = 13.101725 + 14.12131 = 27.223035 u [1]. Mass defect = 27.223035 − 26.981539 = 0.241496 u [1]. Binding energy = 0.241496 × 931.5 = 225 MeV [1]. Per nucleon = 225 / 27 = **8.33 MeV** [1]. **[4]**
@@ -121,14 +121,14 @@ Data: c = 3.00 × 10⁸ m s⁻¹; 1 u = 1.661 × 10⁻²⁷ kg, equivalent to 93
 *Examiner insight:* Keep the roles separate: "slows neutrons" belongs to the moderator and "absorbs neutrons" to the control rods.
 
 **9. (a)** 190 × 1.60 × 10⁻¹³ = **3.04 × 10⁻¹¹ J** [1]. **[1]**
-**(b)** Rate = power / energy per fission [1] = 2.4 × 10⁹ / 3.04 × 10⁻¹¹ = **7.9 × 10¹⁹ s⁻¹** [1]. **[2]**
+**(b)** Rate = power / energy per fission [1] = 2.4 × 10⁹ / (3.04 × 10⁻¹¹) = **7.9 × 10¹⁹ s⁻¹** [1]. **[2]**
 **(c)** Mass of nucleus = 235 × 1.661 × 10⁻²⁷ = 3.90 × 10⁻²⁵ kg [1]; mass per second = 7.89 × 10¹⁹ × 3.90 × 10⁻²⁵ = 3.08 × 10⁻⁵ kg [1]; per day = 3.08 × 10⁻⁵ × 8.64 × 10⁴ = **2.7 kg** [1]. **[3]**
 *Examiner insight:* Carry extra digits and round only at the end.
 
 **10.** Spent fuel and fission products are radioactive and emit ionising radiation [1]; some nuclides have half-lives of thousands of years or more, so waste must be kept secure for a very long time [1]; management includes cooling ponds, sealing in glass and deep underground storage in stable rock [1]; a benefit is that the waste volume is small and fission releases no carbon dioxide in operation [1]; a reasoned judgement that weighs the long-term risk against these benefits [1]. **[5]**
 *Examiner insight:* A discussion question rewards both sides and a conclusion; a list of hazards alone is one-sided.
 
-**11. (a)** U = (1/4πε₀) × e² / r [1] = 8.99 × 10⁹ × (1.60 × 10⁻¹⁹)² / 3.0 × 10⁻¹⁵ = **7.7 × 10⁻¹⁴ J** [1]. **[2]**
+**11. (a)** U = (1/4πε₀) × e² / r [1] = 8.99 × 10⁹ × (1.60 × 10⁻¹⁹)² / (3.0 × 10⁻¹⁵) = **7.7 × 10⁻¹⁴ J** [1]. **[2]**
 **(b)** Each nucleus has 7.67 × 10⁻¹⁴ / 2 = 3.84 × 10⁻¹⁴ J [1]; (3/2)kT = 3.84 × 10⁻¹⁴ [1]; T = 2 × 3.84 × 10⁻¹⁴ / (3 × 1.38 × 10⁻²³) = **1.9 × 10⁹ K** [1]. **[3]**
 **(c)** The estimate is far higher than the Sun's core temperature, because only the faster nuclei need this energy, so fusion occurs even though the mean energy is lower [1]. **[1]**
 *Examiner insight:* Compare the two numbers and offer a reason.

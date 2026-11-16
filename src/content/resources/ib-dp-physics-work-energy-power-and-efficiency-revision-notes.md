@@ -87,7 +87,7 @@ Also useful: the [course hub](/boards/ib/ib-dp/physics/), the [printable checkli
 
 **Reading a Sankey diagram.** The input arrow is 80 J. The useful arrow is 52 J, one waste arrow is 20 J and the other is 8 J, so 52 + 20 + 8 = 80 J. The efficiency is 52 / 80 = 0.65, or 65%.
 
-**Fuel volume.** A 1.0 kW electrical load runs for 1.0 hour from a generator that is 25% efficient. The fuel has an energy density of 32 MJ per litre. Output energy = 1000 × 3600 = 3.6 × 10⁶ J. Input energy = 3.6 × 10⁶ / 0.25 = 1.44 × 10⁷ J. Volume = 1.44 × 10⁷ / 3.2 × 10⁷ = 0.45 litres.
+**Fuel volume.** A 1.0 kW electrical load runs for 1.0 hour from a generator that is 25% efficient. The fuel has an energy density of 32 MJ per litre. Output energy = 1000 × 3600 = 3.6 × 10⁶ J. Input energy = 3.6 × 10⁶ / 0.25 = 1.44 × 10⁷ J. Volume = 1.44 × 10⁷ / (3.2 × 10⁷) = 0.45 litres.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/ib-dp-physics-work-energy-power-and-efficiency--06-friction-energy-loss.webp" width="900" height="970" alt="A 2.0 kg block slides 3.0 m down a slope that drops 1.5 m and reaches 4.2 m/s. It loses 29.4 J of Eg, gains 17.6 J of Ek, and 11.8 J becomes thermal energy through work against friction, so the friction force is 3.9 N." loading="lazy">
@@ -150,7 +150,7 @@ Always convert before substituting. A power in kW combined with a time in hours 
 5. Ek = 6.0² / (2 × 3.0) = 6.0 J.
 6. P = Fv = 300 × 12 = 3600 W, or 3.6 kW.
 7. η = 420 / 1200 = 0.35, or 35%.
-8. Input energy = 2.0 × 10⁸ / 0.30 = 6.7 × 10⁸ J. Volume = 6.67 × 10⁸ / 4.0 × 10⁷ = 17 litres.
+8. Input energy = 2.0 × 10⁸ / 0.30 = 6.7 × 10⁸ J. Volume = 6.67 × 10⁸ / (4.0 × 10⁷) = 17 litres.
 9. Work by friction = ΔEk = ½ × 1.5 × 3.0² − ½ × 1.5 × 5.0² = −12 J. Friction does 12 J of negative work.
 10. Ek = ½ × 2.0 × 3.0² = 9.0 J. Eg = 2.0 × 9.81 × 1.5 = 29.4 J. Mechanical energy = 38 J.
 11. The expression assumes a constant gravitational field strength. Over a large height change g decreases, so the expression overestimates the change.

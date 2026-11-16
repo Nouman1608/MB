@@ -175,7 +175,7 @@ Check that the ray stays thin and sharp, and that the normal is at 90° to the s
 
 ### Answers
 
-1. n = 3.00 × 10⁸ / 2.25 × 10⁸ = **1.33**.
+1. n = 3.00 × 10⁸ / (2.25 × 10⁸) = **1.33**.
 2. λ = 640 / 1.60 = **400 nm**.
 3. sin θ2 = sin 50° / 1.36 = 0.5633, so θ2 = **34.3°**.
 4. sin θc = 1/1.62 = 0.6173, so θc = **38.1°**.

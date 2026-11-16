@@ -117,8 +117,8 @@ These questions cover section 3.9.1, Capacitor charge and discharge, of the Oxfo
 
 **6. (a)** The tangent at t = 0 meets the time axis at t = RC, so RC = **25 s** [1].
 **(b)** The area under the I–t graph is the charge, and for an exponential this is I₀ × RC [1] = 480 × 10⁻⁶ × 25 = **1.2 × 10⁻² C** [1].
-**(c)** V₀ = Q₀/C = 1.2 × 10⁻² / 1500 × 10⁻⁶ = **8.0 V** [1].
-**(d)** R = RC / C = 25 / 1.5 × 10⁻³ = **1.7 × 10⁴ Ω** (17 kΩ) [1]. **[5]**
+**(c)** V₀ = Q₀/C = 1.2 × 10⁻² / (1500 × 10⁻⁶) = **8.0 V** [1].
+**(d)** R = RC / C = 25 / (1.5 × 10⁻³) = **1.7 × 10⁴ Ω** (17 kΩ) [1]. **[5]**
 *Examiner insight:* Say why I₀ × RC gives the charge; the reasoning about the area matters, not just the product.
 
 **7. (a)** V = V₀e^(−t/RC), so ln V = ln V₀ − t/RC [1], which has the form y = mx + c, so plotting ln V on the vertical axis against t gives a line of gradient −1/RC [1].

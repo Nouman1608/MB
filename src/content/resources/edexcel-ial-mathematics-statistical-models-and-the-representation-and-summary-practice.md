@@ -60,7 +60,7 @@ Study first with the [study guide](/resources/edexcel-ial-mathematics-statistica
 
 **4.** The numbers of customers served per hour by cashiers A and B are shown.
 
-```
+```text
                    |  1 | 9
                5 3 |  2 | 2 6 8
            8 6 4 1 |  3 | 1 3 5 7

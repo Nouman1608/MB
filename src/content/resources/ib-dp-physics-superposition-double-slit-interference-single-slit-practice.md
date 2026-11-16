@@ -104,7 +104,7 @@ These questions cover **C.3 Wave phenomena (second half)** in the IB *Physics gu
 *Examiner insight:* the order is a whole number below d/λ; rounding 3.11 up to 4 breaks sin θ ≤ 1.
 
 **11.** (a) The central maximum is **white [1]**: at θ = 0 the path difference is zero for every wavelength, so all colours are in phase [1].
-(b) d = 2.00 × 10⁻⁶ m. Violet: sin θ = 400 × 10⁻⁹/2.00 × 10⁻⁶ = 0.200, θ = **11.5° [1]**. Red: sin θ = 0.350, θ = **20.5° [1]**.
+(b) d = 2.00 × 10⁻⁶ m. Violet: sin θ = 400 × 10⁻⁹/(2.00 × 10⁻⁶) = 0.200, θ = **11.5° [1]**. Red: sin θ = 0.350, θ = **20.5° [1]**.
 (c) Third-order violet: sin θ = 3 × 0.200 = 0.600, θ = 36.9° [1]. Second-order red: sin θ = 2 × 0.350 = 0.700, θ = 44.4° [1]. The third-order violet (36.9°) is at a smaller angle than the second-order red (44.4°) and larger than the second-order violet (23.6°), so the spectra overlap [1].
 (d) The maxima are narrower and brighter, so angles can be measured more precisely [1]. **[8]**
 *Examiner insight:* "show that" asks for both angles to be calculated and compared; one value alone is not a demonstration.

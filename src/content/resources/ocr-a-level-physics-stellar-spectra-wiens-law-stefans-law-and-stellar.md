@@ -66,7 +66,7 @@ An electron in the hypothetical atom falls from −2.7 eV to −9.4 eV. Find the
 
 ΔE = −2.7 − (−9.4) = 6.7 eV
 ΔE = 6.7 × 1.60 × 10⁻¹⁹ = 1.07 × 10⁻¹⁸ J
-λ = hc/ΔE = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / 1.07 × 10⁻¹⁸ = 1.86 × 10⁻⁷ m
+λ = hc/ΔE = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / (1.07 × 10⁻¹⁸) = 1.86 × 10⁻⁷ m
 
 The wavelength is about 186 nm, which is in the ultraviolet. The frequency is f = ΔE/h = 1.62 × 10¹⁵ Hz.
 
@@ -122,7 +122,7 @@ The largest possible order comes from sin θ ≤ 1, so n ≤ d/λ, and n must be
 Green light of wavelength 540 nm strikes a grating with 600 lines per mm. Find the angle of the first order and the number of maxima.
 
 d = 1.67 × 10⁻⁶ m
-sin θ = λ/d = 540 × 10⁻⁹ / 1.67 × 10⁻⁶ = 0.324, so θ = 18.9°
+sin θ = λ/d = 540 × 10⁻⁹ / (1.67 × 10⁻⁶) = 0.324, so θ = 18.9°
 n ≤ d/λ = 3.09, so the highest order is 3
 Total maxima = 2 × 3 + 1 = 7
 
@@ -185,9 +185,9 @@ r = √( L / (4πσT⁴) )
 
 A star has a spectrum that peaks at 620 nm and a luminosity of 1.9 × 10²⁷ W. Estimate its radius, and compare it with the Sun's radius of 6.96 × 10⁸ m.
 
-Step 1: T = 2.90 × 10⁻³ / 620 × 10⁻⁹ = 4680 K (3 s.f.)
+Step 1: T = 2.90 × 10⁻³ / (620 × 10⁻⁹) = 4680 K (3 s.f.)
 Step 2: T⁴ = 4.79 × 10¹⁴ K⁴ (using the unrounded T), so σT⁴ = 2.71 × 10⁷ W m⁻² and 4πσT⁴ = 3.41 × 10⁸ W m⁻²
-Step 3: r² = L / (4πσT⁴) = 1.9 × 10²⁷ / 3.41 × 10⁸ = 5.57 × 10¹⁸ m²
+Step 3: r² = L / (4πσT⁴) = 1.9 × 10²⁷ / (3.41 × 10⁸) = 5.57 × 10¹⁸ m²
 Step 4: r = 2.36 × 10⁹ m
 
 Compared with the Sun this is 2.36 × 10⁹ / 6.96 × 10⁸ = 3.4 times larger.

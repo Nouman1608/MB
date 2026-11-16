@@ -114,7 +114,7 @@ These questions cover all of topic B.2 (Greenhouse effect) in the IB *Physics gu
 **4.** The planet intercepts sunlight over its projected disc of area πR². [1] The energy is shared (and radiated) over the whole surface of area 4πR². [1] Mean intensity = SπR² / 4πR² = **S/4**. [1]
 *Examiner insight:* Name both areas, and say which one receives the sunlight.
 
-**5. (a)** Absorbed = 1900 × 0.60 / 4 = 285 W m⁻². [1] T⁴ = 285 / 5.67 × 10⁻⁸ = 5.03 × 10⁹ K⁴. [1] T = **266 K**. [1]
+**5. (a)** Absorbed = 1900 × 0.60 / 4 = 285 W m⁻². [1] T⁴ = 285 / (5.67 × 10⁻⁸) = 5.03 × 10⁹ K⁴. [1] T = **266 K**. [1]
 **(b)** T⁴ = 285 / (0.90 × 5.67 × 10⁻⁸) = 5.58 × 10⁹. [1] T = **273 K**. [1]
 *Examiner insight:* Round once at the end; a rounded T⁴ can shift the third significant figure after the fourth root.
 
@@ -134,7 +134,7 @@ These questions cover all of topic B.2 (Greenhouse effect) in the IB *Physics gu
 **(e)** T⁴ = 380 / 5.67 × 10⁻⁸, so T = **286 K**. [1]
 *Examiner insight:* For a "show that" balance, write both totals and the comparison; a bare statement that they are equal does not demonstrate it.
 
-**10. (a)** Absorbed = 3000 × 0.80 / 4 = 600 W m⁻². [1] T⁴ = 600 / 5.67 × 10⁻⁸ = 1.06 × 10¹⁰ K⁴. [1] T = **321 K**. [1]
+**10. (a)** Absorbed = 3000 × 0.80 / 4 = 600 W m⁻². [1] T⁴ = 600 / (5.67 × 10⁻⁸) = 1.06 × 10¹⁰ K⁴. [1] T = **321 K**. [1]
 **(b)** Top of atmosphere: σTA⁴ = 600. Surface: 600 + σTA⁴ = σTs⁴, so σTs⁴ = **1200 W m⁻²**. [1] Ts = (1200 / 5.67 × 10⁻⁸)^(1/4) = **381 K**. [1]
 **(c)** Atmosphere: 0.60σTs⁴ = 2 × 0.60σTA⁴, so TA⁴ = Ts⁴/2. [1] Top of atmosphere: 0.40σTs⁴ + 0.60σTA⁴ = 600, so 0.70σTs⁴ = 600. [1] Ts⁴ = 1.51 × 10¹⁰, so Ts = **351 K**. [1]
 **(d)** Less of the surface infrared is absorbed, so less is returned to the surface and the surface does not need to be as hot. [1]
