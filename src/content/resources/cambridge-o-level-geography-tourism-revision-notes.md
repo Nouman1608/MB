@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -93,12 +94,44 @@ stronger multiplier and less leakage.
   divers; coral bleaching in marine heatwaves and sea-level rise
   threaten the attractions themselves.
 
+## Second example: tourism in northern Pakistan
+
+- **Physical attractions**: the Karakoram, Himalaya and Hindu Kush ranges, including K2; glaciers,
+  lakes and valleys such as Hunza and Swat; national parks such as Khunjerab and Deosai.
+- **Human attractions and access**: the Karakoram Highway; local culture and food; religious
+  tourism elsewhere in the country, such as Sikh pilgrims using the **Kartarpur Corridor**
+  (opened 2019).
+- **Growth**: rising domestic incomes, better roads, social media and improved security have
+  brought more domestic visitors, especially in summer.
+- **Benefits**: income for hotels, guides, porters and drivers in areas with few other jobs; a
+  reason to protect wildlife and landscapes; climbing permit fees for high peaks.
+- **Problems**: litter on trails and base camps; untreated sewage entering rivers; traffic jams on
+  narrow mountain roads at peak times; seasonal jobs; unplanned hotels built close to rivers,
+  some of which were damaged or destroyed in the 2022 floods in Swat.
+- **Management**: building controls away from river banks, waste collection and clean-up
+  campaigns, park rules and permits, training local people as guides.
+
+## Worked example: an evaluate question
+
+*Evaluate the impact of tourism on a named area.* Model answer outline for the Maldives:
+"Tourism is the largest industry and brings foreign currency, jobs and tax revenue that pay for
+schools and hospitals. However, many resorts are foreign-owned and import much of their food and
+equipment, so a large share of tourist spending leaks out of the country. Construction and
+divers have damaged reefs, and waste must be shipped to Thilafushi. Overall the economic benefits
+are large, but they depend on the reefs and beaches, so the industry is only sustainable if
+environmental damage is controlled."
+
+Both sides, place-specific detail, and a judgement linked to sustainability.
+
 ## Exam traps
 
 - Describing attractions when the question asks why tourism has *grown*.
 - One-sided answers to "evaluate".
 - Measures named without explaining how they protect the area.
 - A case study with no place-specific detail.
+- Treating all tourism jobs as good jobs; many are seasonal, low-paid or held by outsiders.
+- Saying the multiplier effect is "more money" with no chain of spending.
+- Forgetting that tourism can damage the very attractions it depends on.
 
 ## Self-test
 
@@ -109,6 +142,10 @@ stronger multiplier and less leakage.
 5. Why does local ownership of hotels matter?
 6. Name two sustainable management measures and say how one works.
 7. Give one environmental problem caused by tourism in the Maldives.
+8. Give two physical attractions of northern Pakistan.
+9. Why are many tourism jobs in mountain areas seasonal?
+10. Explain why building hotels close to river banks is a risk.
+11. Name one human attraction in Pakistan and the type of tourism it supports.
 
 **Answers:** 1. Physical: for example beaches, coral reefs, mountains;
 human: for example historic sites, museums, festivals. 2. Any two of:
@@ -123,6 +160,12 @@ numbers below carrying capacity; zoning protects fragile areas from
 heavy use. 7. Any one of: large amounts of waste taken to Thilafushi;
 reef damage from construction, anchors or divers. (Coral bleaching is
 caused by marine heatwaves, not by tourism itself, though it threatens
-the industry.)
+the industry.) 8. Any two: high mountains such as K2; glaciers; lakes
+and valleys such as Hunza or Swat; national parks. 9. Most visitors come
+in summer, when roads are open and weather is mild; winter snow closes
+many routes. 10. Floods and bank erosion can damage or destroy them, as
+in Swat in 2022, and sewage may flow straight into the river. 11. For
+example, the Kartarpur Corridor, which supports religious tourism by
+Sikh pilgrims.
 
 Next, try the [Tourism practice questions](/resources/cambridge-o-level-geography-tourism-practice/).

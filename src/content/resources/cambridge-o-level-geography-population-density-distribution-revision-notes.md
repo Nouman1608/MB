@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -79,6 +80,44 @@ almost empty.
 
 **Brazil**: coastal south-east dense; Amazon interior sparse; Brasília built inland.
 
+**Canada** (a cold-land contrast): most people live in a narrow band in the south, close to the
+border with the USA, around cities such as Toronto, Montreal and Vancouver; the vast north is very
+sparsely populated because of long, severe winters, permafrost and a short growing season.
+
+## Factors work together
+
+Exam answers improve when factors are linked rather than listed:
+
+- **Relief + climate + water** in the Punjab: flat land, warm temperatures and river water for
+  canal irrigation together support intensive farming, which supports dense rural population and
+  market towns.
+- **Climate + relief + access** in Balochistan: low rainfall and rugged mountains make farming
+  difficult and road building expensive, so few jobs develop. People cluster where water is
+  found, for example in valleys such as the one around Quetta.
+- **Human factors can outweigh physical ones**: Karachi has a hot, dry climate, but its port,
+  industry and trade attract millions of people.
+
+## Worked example: explaining a sparse area
+
+*Explain why the north of Pakistan is sparsely populated.* Model answer: "The relief is steep and
+high, so there is little flat land for farming or building, and roads are difficult and
+expensive to build, which makes the area remote. Temperatures are low for much of the year and
+the growing season is short, so crop yields are limited. Most people therefore live in the
+valleys, where there is flatter land and water from rivers, and the high slopes are almost
+empty."
+
+The answer gives a factor, explains its effect on people, then adds the local variation
+(valleys).
+
+## Reading the maps
+
+- **Choropleth map**: darker shading = higher density. Quote a category from the key (for example
+  "over 500 people per km²"). Weakness: it suggests that density is even across each area and
+  changes suddenly at boundaries.
+- **Dot map**: shows clusters and empty areas well; quote what one dot represents.
+- **Scale matters**: a country can be densely populated overall but contain empty areas, and a
+  sparse region can contain dense pockets such as oases, mining towns and capital cities.
+
 ## Key terms
 
 | Term | Definition |
@@ -91,6 +130,11 @@ almost empty.
 | Dot map | Map in which each dot represents a fixed number of people |
 | Physical factor | A natural feature of the environment, e.g. relief or climate |
 | Human factor | A feature created by people, e.g. jobs, transport, government policy |
+| Uneven distribution | People concentrated in some places and almost absent from others |
+| Alluvium | Fertile silt deposited by rivers, which supports intensive farming |
+| Accessibility | How easily a place can be reached |
+| Oasis | A fertile area in a desert with a water supply from springs or groundwater |
+| Permafrost | Ground that stays frozen all year, which makes building and farming difficult |
 
 ## Exam traps
 
@@ -99,6 +143,9 @@ almost empty.
 - "Good climate" with no detail.
 - Only physical or only human factors.
 - Forgetting dense pockets in sparse regions (oases, mines, valleys).
+- Writing "dense" for a single place; density compares people with an area.
+- Listing factors with no effect on people ("it is mountainous" with no "so...").
+- Quoting a map shading with no unit or category from the key.
 
 ## Self-test
 
@@ -107,10 +154,22 @@ almost empty.
 3. Name one human factor that explains Karachi's large population.
 4. Why is an average density figure misleading for Egypt?
 5. How can technology change population distribution?
+6. Give one weakness of a choropleth map for showing population.
+7. Explain how relief and water combine to give the Punjab a high density.
+8. Why is northern Canada sparsely populated?
+9. Name a human factor that can cause dense population in a place with a harsh climate, with an
+   example.
+10. Country X: 12 million people, 600,000 km². Country Y: 12 million people, 40,000 km². Which is
+    more densely populated, and by how many people per km²?
 
 **Answers:** 1. 450,000 ÷ 1,500 = **300 people per km²**. 2. Any two: very low rainfall, lack of
 fresh water, extreme daytime heat, poor soils, little vegetation. 3. Any one: its role as the main
 port; industry and jobs; trade links. 4. Almost everyone lives on a small area near the Nile, so the
 average combines very dense and almost empty areas. 5. Irrigation, desalination and air
 conditioning allow dense settlement in places that were too dry or hot, for example cities in the
-Gulf states.
+Gulf states. 6. It suggests density is the same across each shaded area and changes suddenly at
+boundaries, hiding variation within areas. 7. The flat plains are easy to farm and build on, and
+rivers provide water for canal irrigation, so intensive farming supports many people and market
+towns. 8. Any two: long, very cold winters; permafrost; short growing season; remoteness and few
+jobs. 9. Economic activity such as a port, industry or oil wealth, for example Karachi or a Gulf
+city. 10. X = 20 people per km²; Y = 300 people per km²; Y is denser by **280 people per km²**.

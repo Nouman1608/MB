@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -86,6 +87,32 @@ Navi Mumbai).
 
 Always add a **limitation**: cost, time, who loses out, or whether it moves the problem elsewhere.
 
+## Second case-study outline: Lahore, Pakistan
+
+- **Land use**: the old **Walled City** is a dense historic core of bazaars and workshops; newer
+  commercial areas grew along main roads such as Mall Road and in Gulberg; planned housing schemes
+  for wealthier residents spread outwards on the edge of the city; **katchi abadis** are found
+  beside railway lines, drains and on vacant land; industry lines the main roads out of the city.
+- **The model needs adjusting**: unlike the simple LIC pattern, much high-income housing is in
+  planned suburbs on the edge, so describe the real city rather than forcing it into a model.
+- **Urban sprawl**: rapid growth has spread the built-up area onto surrounding farmland, raising
+  journey lengths and car and motorbike use.
+- **Problems**: winter smog from traffic, industry and crop burning; congestion; pressure on
+  groundwater as the water table falls.
+- **Responses**: the Metrobus (2013) and the Orange Line metro train (2020) for mass transit; smog
+  emergency measures; plans to restore parts of the Walled City.
+- **Evaluation**: mass transit carries large numbers along its routes but is costly and covers
+  only some corridors; sprawl continues because planning controls are hard to enforce.
+
+## Model paragraph: explaining a land use
+
+*Explain why the CBD has tall buildings.* "The CBD is the most accessible part of the city, where
+main roads and public transport routes meet. Many shops and offices compete for space there
+because they need large numbers of customers and workers, so land values are very high. To make
+the most of expensive land, developers build upwards, giving tall office and apartment blocks."
+
+The chain is **accessibility → competition → land value → building form**.
+
 ## Key terms
 
 | Term | Meaning |
@@ -100,6 +127,16 @@ Always add a **limitation**: cost, time, who loses out, or whether it moves the 
 | Green belt | A protected zone of open land around a city where building is restricted |
 | Gentrification | Wealthier people moving into and renovating a poorer area |
 | Squatter settlement | Housing built without legal right to the land, usually lacking services |
+| Decentralisation | Movement of shops, offices or industry from the city centre to the edge |
+| Mass transit | Public transport that moves large numbers of people, such as metro or bus rapid transit |
+
+## Exam traps
+
+- Describing zones with no **reasons** (accessibility, land value, age of buildings).
+- Applying the HIC model unchanged to a city in a lower-income country.
+- Solutions with no limitation or judgement.
+- Naming a problem but not its cause; Cambridge asks for causes **and** solutions.
+- A case study with no named districts, schemes or dates.
 
 ## Self-test
 
@@ -109,6 +146,10 @@ Always add a **limitation**: cost, time, who loses out, or whether it moves the 
 4. Give two effects of urban sprawl on nearby rural settlements.
 5. Distinguish between a brownfield and a greenfield site.
 6. Name one cause and one solution for traffic congestion.
+7. Why is the Walled City of Lahore densely built up?
+8. Give one way Lahore's land use differs from the simple model for lower-income cities.
+9. Give one advantage and one limitation of a metro train line as a solution to congestion.
+10. Explain why developers build upwards in the CBD.
 
 **Answers:** 1. It is the most accessible point, where routes converge, and many users compete
 for a small area of land. 2. Any two of: cheaper land; large plots with room to expand; access to
@@ -118,4 +159,9 @@ poorest on the edge. 4. Any two of: rising house prices; villages become commute
 settlements; local services close; loss of surrounding farmland. 5. Brownfield has been built
 on before and can be reused; greenfield has never been built on. 6. Cause: rising car
 ownership, narrow old streets or commuting into the CBD. Solution: mass transit, park-and-ride,
-bus lanes or congestion charging.
+bus lanes or congestion charging. 7. It is the oldest part of the city, built before motor
+vehicles, with narrow streets and buildings packed close together around its bazaars. 8. Much
+high-income housing is in planned schemes on the edge of the city rather than near the CBD.
+9. Advantage: carries many people quickly without using road space; limitation: very expensive
+and serves only the corridors it runs along. 10. Land values are very high, so building upwards
+fits more floor space on each costly plot.

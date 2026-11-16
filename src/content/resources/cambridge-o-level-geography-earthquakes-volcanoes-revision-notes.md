@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -95,6 +96,35 @@ stone. People also stay because of family, land and infrequent eruptions.
   nuclear accident. Or Haiti, 12 January 2010, magnitude 7.0 — shallow, near Port-au-Prince,
   poorly built buildings, cholera outbreak later in 2010.
 
+- **Earthquake closer to home:** Kashmir, Pakistan, 8 October 2005, magnitude 7.6 — on the
+  **collision** zone where the Indian Plate pushes into the Eurasian Plate (so no volcanoes);
+  epicentre near Muzaffarabad; more than 70,000 deaths in Pakistan. It struck on a school
+  morning, so many children died when poorly built schools collapsed; towns such as Balakot were
+  largely destroyed; landslides blocked mountain roads and slowed rescue; millions were left
+  homeless as winter approached. Response: international aid and helicopter relief; the
+  Earthquake Reconstruction and Rehabilitation Authority (ERRA) was set up to rebuild with safer,
+  earthquake-resistant designs.
+
+## Why the same hazard has different impacts
+
+| Factor | Higher-income example (Tōhoku, 2011) | Lower-income example (Haiti, 2010) |
+|---|---|---|
+| Buildings | Strict building codes, flexible designs | Many unreinforced concrete buildings |
+| Preparation | Drills, warnings, tsunami walls | Little preparation or warning |
+| Response | Organised national rescue services | Government buildings and services destroyed |
+| Main killer | The tsunami, not shaking | Building collapse |
+
+**Model sentence:** "Although the Tōhoku earthquake was far more powerful, Haiti's death toll was
+much higher because buildings were poorly constructed and the government lacked the money and
+organisation to respond."
+
+## Model paragraph: why people live near volcanoes
+
+"Weathered lava and ash form fertile soils, so farmers on the slopes of volcanoes such as Etna can
+grow vines and fruit with high yields. Geothermal heat provides cheap energy, as in Iceland, and
+tourists bring income. Eruptions may be rare within a person's lifetime, and many people have
+family ties and land there that they cannot afford to leave, so they accept the risk."
+
 ## Key terms
 
 | Term | Meaning |
@@ -108,6 +138,20 @@ stone. People also stay because of family, land and infrequent eruptions.
 | Magnitude | The energy released by an earthquake |
 | Tsunami | Series of large sea waves caused by sudden displacement of water |
 | Hotspot | Plume of magma rising through the middle of a plate |
+| Plate boundary | The zone where two tectonic plates meet |
+| Constructive boundary | Where plates move apart and new crust forms |
+| Destructive boundary | Where plates move together and oceanic crust is subducted |
+| Collision zone | Where two continental plates push together and fold into mountains |
+| Conservative boundary | Where plates slide past each other |
+| Viscosity | How thick and sticky lava is; viscous lava traps gas, giving explosive eruptions |
+
+## Exam traps
+
+- Saying volcanoes form at collision or conservative boundaries.
+- Confusing focus and epicentre.
+- Primary and secondary effects mixed up: a tsunami is secondary.
+- Explaining impacts by magnitude alone, without wealth, building quality and preparation.
+- Case studies with no date, place or magnitude.
 
 ## Self-test
 
@@ -117,10 +161,20 @@ stone. People also stay because of family, land and infrequent eruptions.
 4. Define the epicentre of an earthquake.
 5. Give two opportunities that volcanoes offer people.
 6. Why are volcanic eruptions easier to forecast than earthquakes?
+7. Name the plate boundary type that caused the 2005 Kashmir earthquake.
+8. Why were so many children killed in the 2005 Kashmir earthquake?
+9. Give two reasons why Haiti's 2010 earthquake killed more people than Tōhoku's in 2011.
+10. Why does viscous lava give explosive eruptions?
+11. Give one secondary effect of an earthquake and explain why it happens.
 
 **Answers:** 1. It is denser than continental crust. 2. Conservative or collision. 3. Any two:
 shield has gentle slopes, runny lava and gentle eruptions; strato-volcano is steep with layers
 of ash and lava, viscous lava and explosive eruptions. 4. The point on the surface directly
 above the focus. 5. Any two of: fertile soils, geothermal energy, tourism, minerals. 6. Magma
 rising beneath a volcano gives warning signs (small earthquakes, ground swelling, gas changes);
-stress on a fault gives no reliable advance signal.
+stress on a fault gives no reliable advance signal. 7. A collision zone between the Indian and
+Eurasian plates. 8. It struck on a school morning and many poorly built school buildings
+collapsed. 9. Any two: poorly constructed buildings; little preparation; a weak, under-funded
+response; shallow focus close to a crowded city. 10. Gas cannot escape easily from thick, sticky
+lava, so pressure builds until it is released violently. 11. For example, fires, because gas pipes
+and electricity cables break; or a tsunami, because the sea bed is suddenly displaced.
