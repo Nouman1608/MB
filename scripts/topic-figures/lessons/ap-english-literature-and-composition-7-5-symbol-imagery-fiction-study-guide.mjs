@@ -188,7 +188,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 {
   let b = '';
   b += panel(30, 110, 840, 230);
-  const dots = [[80, 170, 'light'], [170, 250, 'cold'], [110, 300, 'water'], [230, 190, 'birds'], [250, 290, 'locks'], [150, 210, 'light'], [210, 240, 'cold']];
+  const dots = [[90, 175, 'light'], [215, 180, 'birds'], [150, 228, 'cold'], [265, 240, 'light'], [90, 280, 'water'], [210, 300, 'cold'], [140, 175 + 150, 'locks']];
   dots.forEach(([x, y, s]) => { b += chip(x - 36, y - 16, 72, 32, s, { size: 15, weight: 600, fill: ['light', 'cold'].includes(s) ? C.cream : '#ffffff', edge: ['light', 'cold'].includes(s) ? C.olive : C.panelEdge, rx: 16 }); });
   b += T(165, 140, 'scattered images', { size: 16, anchor: 'middle', fill: C.muted, weight: 600 });
   b += arrow(310, 225, 380, 225, { w: 4 });
@@ -211,7 +211,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 // 04 Usher and Goodman Brown
 {
   let b = '';
-  const yP = 110, H = 380;
+  const yP = 110, H = 400;
   b += panel(30, yP, 411, H) + T(50, yP + 36, 'The Fall of the House of Usher', { size: 19, weight: 700 });
   // house drawing
   const hx = 120, hy = yP + 90;
@@ -219,8 +219,8 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   [0, 1, 2].forEach((i) => { b += `<rect x="${hx + 22 + i * 60}" y="${hy + 24}" width="34" height="40" fill="${C.ink}" opacity="0.7"/>`; });
   b += `<rect x="${hx - 60}" y="${hy + 128}" width="320" height="36" rx="18" fill="${C.teal}" stroke="${C.tealDark}" stroke-width="2"/>` + T(hx + 100, hy + 152, 'the tarn', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 });
   b += path(`M${hx + 150},${hy - 22} l-8,22 l10,20 l-12,24 l9,22 l-10,26 l8,24 l-6,30`, { stroke: C.rust, w: 3.5 });
-  b += T(hx + 168, hy + 100, 'fissure', { size: 15, fill: C.rust, weight: 700 });
-  const yt = yP + 270;
+  b += `<line x1="${hx + 160}" y1="${hy + 70}" x2="${hx + 232}" y2="${hy + 50}" stroke="${C.rust}" stroke-width="2"/>` + T(hx + 236, hy + 55, 'fissure', { size: 15, fill: C.rust, weight: 700 });
+  const yt = yP + 284;
   b += para(50, yt, '"the House of Usher" is both the building and the family line', 370, { size: 16 }).s;
   b += para(50, yt + 50, 'A crack runs down the wall to the tarn: decay in the family. The house falls into the tarn, and building and family end together.', 370, { size: 16, fill: C.muted }).s;
   // Goodman Brown
@@ -283,7 +283,8 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   const yM = 110, H = 260;
   b += `<rect x="30" y="${yM}" width="300" height="${H}" rx="14" fill="#e3e8d6" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
   b += `<rect x="330" y="${yM}" width="540" height="${H}" rx="14" fill="${C.teal}" opacity="0.55"/>`;
-  for (let i = 0; i < 26; i++) { const x = 360 + (i * 37) % 500, y = yM + 40 + ((i * 53) % 190); b += path(`M${x},${y + 24} l-4,-24 M${x},${y + 24} l5,-20`, { stroke: C.grass, w: 2.5 }); }
+  const reeds = [[360, 60], [400, 40], [360, 160], [395, 190], [740, 70], [790, 90], [830, 120], [760, 140], [820, 175], [370, 250], [430, 252], [500, 250], [560, 252], [620, 250], [690, 252], [750, 250], [810, 252]];
+  for (const [x, y0] of reeds) { const y = yM + y0 - 20; b += path(`M${x},${y + 24} l-4,-24 M${x},${y + 24} l5,-20`, { stroke: C.grass, w: 2.5 }); }
   [0, 1, 2].forEach((i) => { const x = 70 + i * 80; b += `<rect x="${x}" y="${yM + 60}" width="54" height="40" fill="#ffffff" stroke="${C.ink}" stroke-width="2.5"/><path d="M${x - 4},${yM + 60} L${x + 27},${yM + 38} L${x + 58},${yM + 60} Z" fill="${C.rust}" stroke="${C.ink}" stroke-width="2"/>`; });
   b += T(180, yM + 140, 'SALTBY', { size: 20, weight: 700, anchor: 'middle' });
   b += T(180, yM + 168, 'nobody speaks of the marsh,', { size: 15, anchor: 'middle', italic: true }) + T(180, yM + 188, 'everybody knows its depth', { size: 15, anchor: 'middle', italic: true });

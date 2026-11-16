@@ -195,7 +195,7 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
   segs.forEach(([n, m, f]) => { const w = m * unit; b += `<rect x="${x}" y="115" width="${w}" height="84" fill="${f}" stroke="${C.ink}" stroke-width="3"/>` + T(x + w / 2, 152, m + ' min', { size: 20, weight: 700, anchor: 'middle' }) + T(x + w / 2, 180, n, { size: 16, anchor: 'middle' }); x += w; });
   b += T(60, 226, '2 hours for 60 marks is about two minutes a mark: roughly 30 minutes for 16 marks', { size: 16, fill: C.muted });
   const P = [['1', 'Introduce the subject; show format and purpose', 'about 30 words', 30], ['2', 'First main point, developed', 'about 60-70', 65], ['3', 'Second main point or the other side, developed', 'about 60-70', 65], ['4', 'Conclusion: opinion, recommendation or final thought', 'about 30-40', 35]];
-  let y = 256;
+  let y = 282;
   b += T(450, y + 4, 'A four-paragraph shape for about 200 words', { size: 20, weight: 700, anchor: 'middle' });
   y += 22;
   P.forEach(([n, d, w, v], i) => {

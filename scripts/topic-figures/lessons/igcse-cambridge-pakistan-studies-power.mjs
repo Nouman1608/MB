@@ -102,18 +102,18 @@ const COAL = '#2b2f3a';
     b += T(x + 246, g - 38, 'spoil', { size: 15, anchor: 'middle', fill: C.muted });
     b += arrow(x + 135, g + 62, x + 135, g - 30, { w: 4, color: C.olive, marker: 'ahO' });
     b += T(x + 16, g + 135, 'seam near the surface', { size: 16, weight: 700, fill: '#ffffff' }).replace(`y="${g + 135}"`, `y="${g + 98}"`);
-    b += T(x + 16, g + 40, 'overburden', { size: 15, weight: 700 }) + T(x + 16, g + 56, 'stripped', { size: 15 });
+    b += T(x + 16, g - 30, 'overburden', { size: 15, weight: 700 }) + T(x + 16, g - 12, 'stripped', { size: 15 });
     b += T(x + 16, y + 34, 'Open cast', { size: 21, weight: 700 }) + T(x + 16, y + 58, 'dug from the surface', { size: 15, fill: C.muted });
   }
   // adit
   {
     const x = px[1];
-    b += sky(x) + `<path d="M${x},${y + 300} L${x + 70},${y + 300} L${x + 130},${y + 120} L${x + w},${y + 90} L${x + w},${y + h} L${x},${y + h} Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
-    b += `<path d="M${x + 103},${y + 200} L${x + w},${y + 200} L${x + w},${y + 230} L${x + 93},${y + 230} Z" fill="${COAL}"/>`;
-    b += `<rect x="${x + 98}" y="${y + 206}" width="140" height="18" fill="#e6eef0" stroke="${C.ink}" stroke-width="2"/>`;
-    b += arrow(x + 200, y + 215, x + 70, y + 215, { w: 4, color: C.olive, marker: 'ahO' });
-    b += T(x + 140, y + 260, 'seam exposed on', { size: 15, weight: 700 }) + T(x + 140, y + 278, 'the valley side', { size: 15, weight: 700 });
-    b += T(x + 150, y + 180, 'horizontal tunnel', { size: 15, weight: 700 });
+    b += sky(x) + `<path d="M${x},${y + 300} L${x + 40},${y + 300} L${x + 170},${y + 120} L${x + w},${y + 120} L${x + w},${y + h} L${x},${y + h} Z" fill="${C.sand}" stroke="${C.ink}" stroke-width="2.5" stroke-linejoin="round"/>`;
+    b += `<path d="M${x + 112},${y + 200} L${x + w},${y + 200} L${x + w},${y + 230} L${x + 90},${y + 230} Z" fill="${COAL}"/>`;
+    b += `<rect x="${x + 104}" y="${y + 206}" width="140" height="18" fill="#e6eef0" stroke="${C.ink}" stroke-width="2"/>`;
+    b += arrow(x + 210, y + 215, x + 50, y + 215, { w: 4, color: C.olive, marker: 'ahO' });
+    b += T(x + 16, y + 150, 'seam exposed', { size: 15, weight: 700 }) + T(x + 16, y + 168, 'on the valley', { size: 15, weight: 700 }) + T(x + 16, y + 186, 'side', { size: 15, weight: 700 });
+    b += T(x + 120, y + 262, 'horizontal tunnel', { size: 15, weight: 700 });
     b += T(x + 16, y + 34, 'Adit', { size: 21, weight: 700 }) + T(x + 16, y + 58, 'into a hillside', { size: 15, fill: C.muted });
   }
   // shaft
@@ -150,20 +150,20 @@ const COAL = '#2b2f3a';
   let b = `<rect x="30" y="${y}" width="840" height="430" rx="14" fill="#e6eef0"/>`;
   b += `<rect x="30" y="${g}" width="840" height="${y + 430 - g}" fill="${C.sand}"/>` + `<line x1="30" y1="${g}" x2="870" y2="${g}" stroke="${C.ink}" stroke-width="2.5"/>`;
   b += path(`M30,${g + 80} Q450,${g + 40} 870,${g + 80}`, { stroke: C.rockDark, w: 2 });
-  b += `<path d="M30,${g + 210} Q450,${g + 90} 870,${g + 210} L870,${g + 245} Q450,${g + 125} 30,${g + 245} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>`;
-  b += `<path d="M190,${g + 205} Q450,${g + 112} 710,${g + 205} Q450,${g + 175} 190,${g + 205} Z" fill="${COAL}" opacity="0.85"/>`;
-  b += `<path d="M30,${g + 245} Q450,${g + 125} 870,${g + 245} L870,${y + 430} L30,${y + 430} Z" fill="${C.rock}" opacity="0.6"/>`;
+  b += `<path d="M30,${g + 245} Q450,${g + 95} 870,${g + 245} L870,${y + 430} L30,${y + 430} Z" fill="${C.rock}"/>`;
+  b += `<path d="M30,${g + 210} Q450,${g + 60} 870,${g + 210} L870,${g + 245} Q450,${g + 95} 30,${g + 245} Z" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>`;
+  b += `<path d="M230,${g + 191} Q450,${g + 149} 670,${g + 191} Q450,${g + 215} 230,${g + 191} Z" fill="${COAL}"/>`;
   // rig
   b += path(`M430,${g} L450,${g - 100} L470,${g}`, { stroke: C.ink, w: 4 }) + path(`M436,${g - 30} L464,${g - 30} M441,${g - 60} L459,${g - 60}`, { stroke: C.ink, w: 3 });
-  b += `<line x1="450" y1="${g}" x2="450" y2="${g + 152}" stroke="${C.ink}" stroke-width="5"/>`;
-  b += arrow(462, g + 140, 462, g + 10, { w: 4, color: C.olive, marker: 'ahO' });
+  b += `<line x1="450" y1="${g}" x2="450" y2="${g + 182}" stroke="${C.ink}" stroke-width="5"/>`;
+  b += arrow(462, g + 120, 462, g + 10, { w: 4, color: C.olive, marker: 'ahO' });
   // seismic
   b += `<rect x="110" y="${g - 26}" width="50" height="26" fill="${C.cream}" stroke="${C.ink}" stroke-width="2"/>` + [30, 55, 80].map((r) => `<path d="M${135 - r},${g + 4} A${r},${r} 0 0 0 ${135 + r},${g + 4}" fill="none" stroke="${C.tealDark}" stroke-width="2.5"/>`).join('');
-  b += T(135, g - 40, 'seismic survey', { size: 16, weight: 700, fill: C.tealDark, anchor: 'middle' }) + T(135, g - 60, 'locates trapped deposits', { size: 15, fill: C.tealDark, anchor: 'middle' });
+  b += T(135, g - 60, 'seismic survey', { size: 16, weight: 700, fill: C.tealDark, anchor: 'middle' }) + T(135, g - 40, 'locates trapped deposits', { size: 15, fill: C.tealDark, anchor: 'middle' });
   b += T(480, g - 70, 'rig drills a well', { size: 17, weight: 700 });
   b += T(480, g + 60, 'oil or gas rises under', { size: 16, weight: 700, fill: C.olive }) + T(480, g + 80, 'pressure or is pumped', { size: 16, weight: 700, fill: C.olive });
-  b += T(860, g + 196, 'cap rock seals it in', { size: 16, weight: 700, anchor: 'end' });
-  b += T(450, g + 192, 'oil or gas trapped in the reservoir', { size: 16, weight: 700, fill: '#ffffff', anchor: 'middle' });
+  b += T(860, g + 176, 'cap rock seals it in', { size: 16, weight: 700, anchor: 'end' });
+  b += T(450, g + 252, 'oil or gas trapped in the reservoir (black)', { size: 16, weight: 700, anchor: 'middle' });
   const n = note(30, y + 450, 840, 'Found in sedimentary basins such as the Potwar Plateau and Sindh. A labelled diagram should show the reservoir, the cap rock and the route to the surface.');
   add('02-drilling-oil-gas',
     svg(900, y + 450 + n.h + 30, 'Drilling for oil and gas', b + n.s, 'simple cross-section, not to scale'),
