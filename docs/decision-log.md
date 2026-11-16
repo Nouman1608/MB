@@ -16198,3 +16198,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Flags.** 165 `reviewNeeded` flags are cleared on the owner's word; each page's original note is kept inside its `reviewNote` after "Earlier review flag resolved per owner, 2026-11-16". 292 `specCheck` lines were removed from pages now credited, because rule [11] forbids a spec-check line on a reviewed page; their repository-side verification records are unchanged.
 - **Tests.** Two negative-suite fixtures depended on a review-pending page carrying a `specCheck`. The specCheck fixture now targets the page's `reviewed` line (the [12] "no verification record" error still fires). The wrong-board record fixture now restores the page's `specCheck` together with the corrupted record, using a new `withMutations` helper that changes several files and restores them all.
 - **Not changed.** No `teacher-verifications.json` record was added (D-448: those need documented evidence, none is inferred). AP library pages are a separate collection and were not touched.
+
+## D-479 - Footer link columns side by side on phones (16 Nov 2026)
+
+- Owner, 16 Nov 2026: "continue filling rest of the gaps". Measured on 15 Nov (D-458 workstream): the site-wide footer was 2,018 px of a 14,672 px phone homepage.
+- **Fix.** Below `sm` the footer's link columns (Explore, Resources, Marlbridge, Language) sit two to a row; the logo and tagline span both. Measured in Chrome on /pricing/ at 390 px: 2,044 px to 1,419 px, no sideways overflow. Every link stays visible. No change from `sm` up.
+- **Not changed.** Footer links, labels and the social row.
