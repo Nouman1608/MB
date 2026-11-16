@@ -42,7 +42,7 @@ export const RESOURCES_ONLY_SUFFIX = ' (free resources only, no classes at the m
 
 export type MarketSlug =
   | 'pakistan' | 'uk' | 'uae' | 'qatar' | 'malaysia' | 'singapore'
-  | 'saudi-arabia' | 'kuwait' | 'bahrain' | 'oman' | 'europe';
+  | 'oman' | 'europe';
 
 export interface MarketHubLink {
   /** Path of an existing board hub page. */
@@ -328,119 +328,14 @@ export const MARKETS: readonly Market[] = [
   },
   /**
    * D-460 (owner, 15 Nov 2026) -- Saudi Arabia, Kuwait, Bahrain and Oman.
+   * D-483 (owner, 16 Nov 2026): Saudi Arabia, Kuwait and Bahrain folded back
+   * into /gulf/ (301) -- too close to each other to stand alone. Oman stays.
    * D-303 kept these on /gulf/ for lack of search demand; the owner has now
    * asked for a page each. No local search evidence is held, so there are no
    * `searchedHubs` and no cities. Group fees are the owner-set rows in
    * pricing.ts (D-012/D-043/D-149); one-to-one and IB are its conversions.
    * UTC offsets are the ones /gulf/ already publishes.
    */
-  {
-    slug: 'saudi-arabia',
-    cities: [],
-    pageDescription:
-      'Live online IGCSE, A Level and IB tutors for students in Saudi Arabia: Cambridge and Pearson Edexcel, fees in SAR, class times in local time, first class free.',
-    path: '/saudi-arabia/',
-    name: 'Saudi Arabia',
-    pricingRegion: 'Saudi Arabia',
-    utcOffsetHours: 3,
-    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
-    focusBoards: ALL_TAUGHT_BOARDS,
-    searchedHubs: [],
-    notOffered:
-      'Marlbridge does not teach the Saudi national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
-    faqs: [
-      {
-        question: 'Does Marlbridge have a centre in Saudi Arabia?',
-        answer:
-          'No. Marlbridge has no office, branch or teacher based in Saudi Arabia. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
-      },
-      {
-        question: 'What time would classes be in Saudi Arabia?',
-        answer:
-          'Saudi Arabia is two hours behind Lahore all year, so a 5:00 pm class in Saudi Arabia is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
-      },
-      {
-        question: 'What does tuition cost from Saudi Arabia?',
-        answer:
-          'Group classes have a set Saudi Arabia fee per subject per month, shown on this page in SAR. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
-      },
-      {
-        question: 'How do I pay from Saudi Arabia?',
-        answer:
-          'Fees are paid by bank transfer or international wire transfer. They are billed monthly, starting once the free trial class has taken place, and there is no separate registration or enrolment fee.',
-      },
-    ],
-  },
-  {
-    slug: 'kuwait',
-    cities: [],
-    path: '/kuwait/',
-    name: 'Kuwait',
-    pricingRegion: 'Kuwait',
-    utcOffsetHours: 3,
-    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
-    focusBoards: ALL_TAUGHT_BOARDS,
-    searchedHubs: [],
-    notOffered:
-      'Marlbridge does not teach the Kuwaiti national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
-    faqs: [
-      {
-        question: 'Does Marlbridge have a centre in Kuwait?',
-        answer:
-          'No. Marlbridge has no office, branch or teacher based in Kuwait. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
-      },
-      {
-        question: 'What time would classes be in Kuwait?',
-        answer:
-          'Kuwait is two hours behind Lahore all year, so a 5:00 pm class in Kuwait is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
-      },
-      {
-        question: 'What does tuition cost from Kuwait?',
-        answer:
-          'Group classes have a set Kuwait fee per subject per month, shown on this page in KWD. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
-      },
-      {
-        question: 'Why are the Kuwait fees written to three decimal places?',
-        answer:
-          'The Kuwaiti dinar is divided into 1,000 fils, so prices in KWD are normally written to three decimal places. The fees on this page follow that convention.',
-      },
-    ],
-  },
-  {
-    slug: 'bahrain',
-    cities: [],
-    path: '/bahrain/',
-    name: 'Bahrain',
-    pricingRegion: 'Bahrain',
-    utcOffsetHours: 3,
-    timeZoneLabel: 'UTC+3 (Arabia Standard Time, no daylight saving)',
-    focusBoards: ALL_TAUGHT_BOARDS,
-    searchedHubs: [],
-    notOffered:
-      'Marlbridge does not teach the Bahraini national curriculum or the Indian CBSE or ICSE curricula. It teaches the British qualifications listed on this page (GCSE, IGCSE, O Level and A Level), and the IB one-to-one.',
-    faqs: [
-      {
-        question: 'Does Marlbridge have a centre in Bahrain?',
-        answer:
-          'No. Marlbridge has no office, branch or teacher based in Bahrain. Every class is taught live online by a named subject teacher from our academy in Lahore, Pakistan.',
-      },
-      {
-        question: 'What time would classes be in Bahrain?',
-        answer:
-          'Bahrain is two hours behind Lahore all year, so a 5:00 pm class in Bahrain is 7:00 pm in Lahore. Group class times are agreed with the families in each group and confirmed before the trial; one-to-one classes can be arranged at any time, because teachers are available 24 hours a day, 7 days a week.',
-      },
-      {
-        question: 'What does tuition cost from Bahrain?',
-        answer:
-          'Group classes have a set Bahrain fee per subject per month, shown on this page in BHD. One-to-one and IB prices are shown as indicative conversions of the Pakistan rate, and the exact fee is confirmed in writing before any payment.',
-      },
-      {
-        question: 'Why are the Bahrain fees written to three decimal places?',
-        answer:
-          'The Bahraini dinar is divided into 1,000 fils, so prices in BHD are normally written to three decimal places. The fees on this page follow that convention.',
-      },
-    ],
-  },
   {
     slug: 'oman',
     cities: [],
