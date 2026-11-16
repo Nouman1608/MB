@@ -31,25 +31,18 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
 
 // 01 Section 5 in Paper 2
 {
-  const L = [['Sections 2 and 4', 'Raw materials: limestone, gypsum, cotton, cane, natural gas'], ['Section 3', 'Power supply'], ['Section 7', 'Transport links']];
-  const R = [['Section 6', 'Exports'], ['Section 8', 'Jobs']];
+  const box2 = (x, y, w, h, head, body, fill, edge, hc) => rect(x, y, w, h, fill, edge, 2.5, 12) + t(x + 18, y + 34, head, { size: 20, weight: 700, fill: hc }) + para(x + 18, y + 62, body, w - 36, { size: 18 }, 23);
   let b = '';
-  const cy = 340;
+  const cy = 320;
   b += rect(345, cy - 80, 210, 160, C.mustard, C.ink, 3, 16) + t(450, cy - 12, 'Section 5', { size: 24, weight: 700, anchor: 'middle' }) + t(450, cy + 20, 'Industry', { size: 21, anchor: 'middle' });
-  L.forEach(([h, s], i) => {
-    const y = 120 + i * 150; const hh = 120;
-    b += tbox(30, y, 260, h, s, { h: hh, fill: C.tealLight, edge: C.tealDark, headColor: C.tealDark });
-    b += arrow(292, y + hh / 2, 340, cy - 40 + i * 40, { w: 3.5 });
-  });
-  b += t(160, 112 - 6, 'Industry depends on', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
-  R.forEach(([h, s], i) => {
-    const y = 180 + i * 190; const hh = 100;
-    b += tbox(610, y, 260, h, s, { h: hh, fill: C.cream, edge: C.olive, headColor: C.olive });
-    b += arrow(558, cy - 20 + i * 40, 604, y + hh / 2, { w: 3.5 });
-  });
-  b += t(740, 172 - 6, 'Industry feeds', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
+  const L = [[130, 140, 'Sections 2 and 4', 'Raw materials: limestone, gypsum, cotton, cane, natural gas'], [290, 86, 'Section 3', 'Power supply'], [396, 86, 'Section 7', 'Transport links']];
+  L.forEach(([y, h, hd, s], i) => { b += box2(30, y, 270, h, hd, s, C.tealLight, C.tealDark, C.tealDark) + arrow(302, y + h / 2, 340, cy - 40 + i * 40, { w: 3.5 }); });
+  b += t(165, 118, 'Industry depends on', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
+  const R = [[214, 'Section 6', 'Exports'], [340, 'Section 8', 'Jobs']];
+  R.forEach(([y, hd, s], i) => { b += box2(600, y, 270, 86, hd, s, C.cream, C.olive, C.olive) + arrow(558, cy - 20 + i * 40, 594, y + 43, { w: 3.5 }); });
+  b += t(735, 202, 'Industry feeds', { size: 17, weight: 700, anchor: 'middle', fill: C.muted });
   add('01-section-5-links',
-    svg(900, 570, 'Industry links the whole of Paper 2', b),
+    svg(900, 512, 'Industry links the whole of Paper 2', b),
     'Industry sits at the centre. Raw materials from Sections 2 and 4, power from Section 3 and transport from Section 7 flow in; exports for Section 6 and jobs for Section 8 flow out.',
     'Industry draws on four other sections and feeds two more.',
     '## How does Section 5 connect to the rest of Paper 2?');
@@ -68,12 +61,12 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
     const y = 120 + i * (rh + 26);
     b += panel(30, y, 840, rh) + badge(78, y + rh / 2, 24, String(n), i === 2 ? C.mustard : C.cream);
     b += t(124, y + 44, h, { size: 22, weight: 700 }) + t(124, y + 44 + 0, '', {}) + para(124, y + 74, s, 440, { size: 17, fill: C.muted }, 22);
-    b += rect(590, y + 22, 92, 30, i === 0 ? C.grass : C.blue, 'none', 0, 15) + t(636, y + 43, sec, { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
+    b += rect(570, y + 22, 124, 30, i === 0 ? C.grass : C.blue, 'none', 0, 15) + t(632, y + 43, sec, { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
     const vw = [40, 95, 160][i];
     b += rect(700, y + 70, vw, 30, C.mustard, C.ink, 2, 6);
     if (i < 2) b += arrow(78, y + rh + 2, 78, y + rh + 24, { w: 3.5 });
   });
-  b += t(700, 112, 'value', { size: 16, weight: 700, fill: C.olive });
+  b += t(700, 112, 'value of the product', { size: 16, weight: 700, fill: C.olive });
   const by = 120 + 3 * (rh + 26);
   b += panel(30, by, 840, 96, C.cream, C.olive) + t(60, by + 38, 'Value-added', { size: 20, weight: 700 }) +
     t(60, by + 68, 'Each stage raises the price: a kilogram of garments earns far more than a kilogram of raw lint.', { size: 17 });
@@ -90,7 +83,7 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
 // 03 Scale of industry
 {
   const cols = [
-    ['Large-scale', 'Factories registered under the Factories Act and covered by the census of manufacturing; generally ten or more workers using power-driven machinery.', 'e.g. textile mills, cement plants'],
+    ['Large-scale', 'Factories registered under the Factories Act and covered by the census of manufacturing; generally ten or more workers using power-driven machinery.', ''],
     ['Small-scale', 'Smaller workshops with a few hired workers.', 'e.g. a Gujranwala metal workshop'],
     ['Cottage', 'Carried out at home by family members with simple tools.', 'e.g. embroidery or rilli quilt-making in rural Sindh'],
   ];
@@ -118,17 +111,17 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
 {
   const groups = [
     ['Near the raw material', 'bulky, heavy or perishable inputs', C.tealDark, C.tealLight, [
-      ['Cement', 'heavy limestone and gypsum quarried nearby'],
-      ['Cotton ginning', 'seed cotton is bulky: the cotton belt'],
-      ['Sugar refining', 'cane loses sugar within a day or two'],
-      ['Brick', 'river-plain clay; bricks heavy and cheap']]],
+      ['Cement', 'heavy limestone and gypsum quarried nearby: e.g. Dera Ghazi Khan, Chakwal, Rohri'],
+      ['Cotton ginning', 'seed cotton is bulky, so ginneries sit in the cotton belt: e.g. Rahim Yar Khan, Sanghar'],
+      ['Sugar refining', 'cane loses sugar within a day or two of cutting: e.g. Jhang, Mardan, Badin'],
+      ['Brick', 'river-plain clay; bricks are heavy and cheap, so kilns ring every city']]],
     ['On the gas supply', 'fuel and feedstock in one', C.olive, C.cream, [
       ['Fertiliser (urea)', 'natural gas is both feedstock and fuel: Daharki, Mirpur Mathelo, Sadiqabad']]],
     ['At the coast', 'imported inputs land at the port', C.blue, '#dfe7f2', [
       ['Iron and steel', 'imported ore and coking coal at Port Qasim; scrap from Gadani'],
       ['Oil refining', 'coastal sites for imported crude; Potwar sites for local crude']]],
     ['Labour, skills and links', 'people and transport matter most', C.rust, '#f6e4d8', [
-      ['Spinning to clothing', 'labour, capital, power; port for exports'],
+      ['Spinning to clothing', 'Faisalabad, Lahore, Karachi: labour, capital, power, port'],
       ['Crafts', 'inherited skills, local materials, tourists'],
       ['Sports and surgical goods', 'Sialkot: skilled workers, dry port, airport']]],
   ];
@@ -149,10 +142,10 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
   const y3 = 110 + h0 + 20;
   // last group wide
   const g = groups[3];
-  b += panel(30, y3, 840, 190, g[3], g[2]) + t(50, y3 + 36, g[0], { size: 21, weight: 700, fill: g[2] }) + t(50, y3 + 60, g[1], { size: 16, fill: C.muted, italic: true });
+  b += panel(30, y3, 840, 172, g[3], g[2]) + t(50, y3 + 36, g[0], { size: 21, weight: 700, fill: g[2] }) + t(50, y3 + 60, g[1], { size: 16, fill: C.muted, italic: true });
   g[4].forEach(([n, d], i) => { const x = 50 + i * 275; b += t(x, y3 + 100, n, { size: 18, weight: 700 }) + para(x, y3 + 124, d, 250, { size: 16, fill: C.muted }, 20); });
   add('04-location-factors',
-    svg(900, y3 + 210, 'Why industries are where they are', b),
+    svg(900, y3 + 192, 'Why industries are where they are', b),
     'The ten industries grouped by their decisive location factor: cement, ginning, sugar and brick sit near bulky or perishable raw materials; fertiliser sits on the gas supply; iron and steel and oil refining use coastal sites for imports; textiles, crafts and Sialkot sports and surgical goods depend on labour, skills and transport links.',
     'Name the decisive factor: raw material, gas, the port, or skilled labour.',
     '## Where are the ten industries and why?');
@@ -161,19 +154,19 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
 // 05 Formal and informal sectors
 {
   let b = '';
-  b += tbox(30, 110, 330, 'Formal sector', 'Registered, taxed, inspected. Contracts, regular wages, some benefits. Capital from banks, shareholders, foreign investors.', { h: 190, fill: C.tealLight, edge: C.tealDark, headColor: C.tealDark });
-  b += tbox(540, 110, 330, 'Informal sector', 'Unregistered, untaxed. Casual work, irregular pay, no protection. Capital from family savings and moneylenders.', { h: 190, fill: C.cream, edge: C.olive, headColor: C.olive });
+  b += tbox(30, 110, 330, 'Formal sector', 'Registered, taxed, inspected. Contracts, regular wages, some benefits. Capital from banks, shareholders, foreign investors.', { h: 166, fill: C.tealLight, edge: C.tealDark, headColor: C.tealDark });
+  b += tbox(540, 110, 330, 'Informal sector', 'Unregistered, untaxed. Casual work, irregular pay, no protection. Capital from family savings and moneylenders.', { h: 166, fill: C.cream, edge: C.olive, headColor: C.olive });
   b += arrow(366, 170, 532, 170, { w: 4 }) + t(450, 158, 'subcontracts', { size: 16, weight: 700, anchor: 'middle' }) + t(450, 200, 'e.g. Sialkot exporters', { size: 15, anchor: 'middle', fill: C.muted });
-  b += arrow(534, 246, 368, 246, { w: 4 }) + t(450, 236, 'home stitching', { size: 16, weight: 700, anchor: 'middle' }) + t(450, 272, 'cheap, flexible labour', { size: 15, anchor: 'middle', fill: C.muted });
-  b += panel(30, 320, 840, 90) + t(50, 354, 'Services the informal sector provides', { size: 18, weight: 700 }) +
-    t(50, 384, 'Cheap repairs, transport, recycling of scrap, small retail and domestic work', { size: 17, fill: C.muted });
-  const adv = blist(54, 480, ['Jobs for people without formal qualifications', 'Low start-up cost', 'Cheap goods and services', 'Flexible subcontracting for exporters'], 370, { dot: C.tealDark });
-  const dis = blist(484, 480, ['Low pay', 'Child labour (a long-standing concern in brick kilns)', 'Unsafe conditions', 'No tax revenue'], 370, { dot: C.rust });
-  const hh = Math.max(adv.h, dis.h) + 80;
-  b += panel(30, 430, 410, hh) + t(54, 462, 'Advantages', { size: 20, weight: 700, fill: C.tealDark }) + adv.svg;
-  b += panel(460, 430, 410, hh) + t(484, 462, 'Disadvantages', { size: 20, weight: 700, fill: C.rust }) + dis.svg;
+  b += arrow(534, 246, 368, 246, { w: 4 }) + t(450, 236, 'home stitching', { size: 16, weight: 700, anchor: 'middle' }) + t(450, 272, 'flexible for exporters', { size: 15, anchor: 'middle', fill: C.muted });
+  b += panel(30, 296, 840, 90) + t(50, 330, 'Services the informal sector provides', { size: 18, weight: 700 }) +
+    t(50, 360, 'Cheap repairs, transport, recycling of scrap, small retail and domestic work', { size: 17, fill: C.muted });
+  const adv = blist(54, 474, ['Jobs for people without formal qualifications', 'Low start-up cost', 'Cheap goods and services', 'Flexible subcontracting for exporters'], 370, { dot: C.tealDark });
+  const dis = blist(484, 474, ['Low pay', 'Child labour (a long-standing concern in brick kilns)', 'Unsafe conditions', 'No tax revenue'], 370, { dot: C.rust });
+  const hh = Math.max(adv.h, dis.h) + 60;
+  b += panel(30, 406, 410, hh) + t(54, 440, 'Advantages', { size: 20, weight: 700, fill: C.tealDark }) + adv.svg;
+  b += panel(460, 406, 410, hh) + t(484, 440, 'Disadvantages', { size: 20, weight: 700, fill: C.rust }) + dis.svg;
   add('05-formal-informal',
-    svg(900, 430 + hh + 20, 'Formal and informal sectors depend on each other', b),
+    svg(900, 406 + hh + 20, 'Formal and informal sectors depend on each other', b),
     'The formal sector (registered, taxed, regular wages) and the informal sector (unregistered, casual, irregular pay) are linked by subcontracting, as when Sialkot exporters send stitching to home workers. Below are the informal sector’s services, advantages and disadvantages.',
     'The two sectors are linked: exporters rely on informal home workers.',
     '## Formal and informal sectors: what is the difference and why do both matter?');
@@ -184,7 +177,7 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
   let b = '';
   const c1 = blist(54, 236, ['Karachi EPZ (the first, set up in the 1980s)', 'Sialkot, Risalpur, Gujranwala', 'Mineral EPZs at Saindak and Duddar in Balochistan'], 370, { dot: C.tealDark });
   const c2 = blist(484, 236, ['SITE in Karachi and Hyderabad', 'Sundar Industrial Estate near Lahore', 'Hattar and Gadoon Amazai (KP); Hub (Balochistan)', 'CPEC zones: Rashakai, Allama Iqbal Industrial City'], 370, { dot: C.blue });
-  const hh = Math.max(c1.h, c2.h) + 140;
+  const hh = Math.max(c1.h, c2.h) + 136;
   b += panel(30, 110, 410, hh, C.tealLight, C.tealDark) + t(54, 146, 'Export processing zone', { size: 21, weight: 700, fill: C.tealDark }) +
     para(54, 176, 'Duty-free imports and tax concessions, on condition that most output is exported', 370, { size: 17, weight: 600 }, 22) + c1.svg;
   b += panel(460, 110, 410, hh, '#dfe7f2', C.blue) + t(484, 146, 'Industrial estate or SEZ', { size: 21, weight: 700, fill: C.blue }) +
@@ -207,14 +200,14 @@ const blist = (x, y, items, width, { size = 17, color = C.ink, dot = C.tealDark,
   let b = '';
   const n = blist(54, 190, ['Fairy Meadows below Nanga Parbat', 'Deosai Plains', 'Lake Saiful Muluk, Kaghan valley', 'Hingol National Park', 'Kund Malir beach, Makran coast'], 370, { dot: C.grass, gap: 6 });
   const c = blist(484, 190, ['Makli necropolis near Thatta', 'Rohtas Fort; Takht-i-Bahi', 'Kalash valleys', 'Sufi shrines at Sehwan and Multan', 'Kartarpur Corridor (opened 2019)'], 370, { dot: C.rust, gap: 6 });
-  const h1 = Math.max(n.h, c.h) + 90;
+  const h1 = Math.max(n.h, c.h) + 82;
   b += panel(30, 110, 410, h1) + t(54, 150, 'Natural attractions', { size: 21, weight: 700, fill: '#3d5f2a' }) + n.svg;
   b += panel(460, 110, 410, h1) + t(484, 150, 'Cultural attractions', { size: 21, weight: 700, fill: C.rust }) + c.svg;
   const y = 110 + h1 + 20;
   b += arrow(450, y - 16, 450, y + 14, { w: 3.5 });
-  const p = blist(54, y + 84, ['Jobs: guides, drivers, hotel and restaurant staff, craft sellers', 'Earns foreign exchange', 'Adds to GDP and GNP'], 370, { dot: C.tealDark });
-  const q = blist(484, y + 84, ['Poor road access and landslides', 'Seasonal demand', 'Security perceptions', 'Limited hotels', 'Litter and unplanned building damage mountain areas'], 370, { dot: C.rust });
-  const h2 = Math.max(p.h, q.h) + 80;
+  const p = blist(54, y + 94, ['Jobs: guides, drivers, hotel and restaurant staff, craft sellers', 'Earns foreign exchange', 'Adds to GDP and GNP'], 370, { dot: C.tealDark });
+  const q = blist(484, y + 94, ['Poor road access and landslides', 'Seasonal demand', 'Security perceptions', 'Limited hotels', 'Litter and unplanned building damage mountain areas'], 370, { dot: C.rust });
+  const h2 = Math.max(p.h, q.h) + 76;
   b += panel(30, y + 20, 410, h2, C.tealLight, C.tealDark) + t(54, y + 58, 'Benefits', { size: 21, weight: 700, fill: C.tealDark }) + p.svg;
   b += panel(460, y + 20, 410, h2, '#f6e4d8', C.rust) + t(484, y + 58, 'Constraints', { size: 21, weight: 700, fill: C.rust }) + q.svg;
   add('07-tourism-feasibility',

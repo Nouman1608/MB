@@ -276,7 +276,7 @@ add('04-violent-media',
   let s = `<circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${C.panelEdge}" stroke-width="2"/>`;
   // curved arrows between nodes
   for (let i = 0; i < 4; i++) {
-    const a1 = ang[i] + 0.42, a2 = ang[(i + 1) % 4] - 0.42 + (i === 3 ? 2 * Math.PI : 0);
+    const g = [0.62, 0.3, 0.62, 0.3], a1 = ang[i] + g[i], a2 = ang[(i + 1) % 4] - g[(i + 1) % 4] - 0.06 + (i === 3 ? 2 * Math.PI : 0);
     const x1 = cx + R * Math.cos(a1), y1 = cy + R * Math.sin(a1), x2 = cx + R * Math.cos(a2), y2 = cy + R * Math.sin(a2);
     s += `<path d="M${x1},${y1} A${R},${R} 0 0 1 ${x2},${y2}" fill="none" stroke="${C.rust}" stroke-width="${3 + i}" marker-end="url(#ahR)"/>`;
   }

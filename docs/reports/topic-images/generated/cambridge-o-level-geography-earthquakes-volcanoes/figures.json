@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--01-earth-structure-crust.webp",
+  "width": 900,
+  "height": 850,
+  "after": "## The Earth's structure and plates",
+  "alt": "A cross-section of the Earth: a solid inner core, liquid outer core, thick mantle of slowly flowing hot rock and a thin rigid crust; the crust and top of the mantle form the plates. Below, oceanic crust is drawn thin and dense and can be subducted, while continental crust is thicker, less dense and too buoyant to sink.",
+  "caption": "Denser oceanic crust can sink; lighter continental crust cannot.",
+  "bytes": 93162
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--02-plate-boundaries.webp",
+  "width": 900,
+  "height": 912,
+  "after": "## Plate boundaries and what happens at each",
+  "alt": "Four cross-sections. Constructive: plates move apart and magma rises to form a ridge (Mid-Atlantic Ridge). Destructive: denser oceanic crust is subducted under continental crust at a trench, melts and feeds a volcano (Nazca and South American Plates). Collision: two continental plates crumple into fold mountains with no volcanoes (Indian and Eurasian Plates). Conservative: plates slide past each other along a fault (San Andreas).",
+  "caption": "Volcanoes need magma: none at collision or conservative boundaries.",
+  "bytes": 136296
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--03-volcano-types.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Types and features of volcanoes",
+  "alt": "Two cross-sections. A strato-volcano is a tall, steep cone of alternating ash and lava layers with a magma chamber, main vent, secondary vent, crater and ash cloud; its thick lava erupts explosively at destructive boundaries (Mount Fuji, Mount St Helens). A shield volcano is a wide, gentle dome of runny lava layers that flows far in gentle eruptions at constructive boundaries or hotspots (Mauna Loa).",
+  "caption": "Thick lava builds steep, explosive cones; runny lava builds wide, gentle shields.",
+  "bytes": 110198
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--04-earthquake-features.webp",
+  "width": 900,
+  "height": 985,
+  "after": "## Features of earthquakes",
+  "alt": "A cross-section with the focus underground, seismic waves spreading out from it, and the epicentre on the surface directly above. Two smaller sections compare a shallow focus, which causes more surface damage, with a deep focus of the same magnitude. A final strip shows that each whole step of magnitude means about ten times the ground movement and roughly 32 times the energy.",
+  "caption": "Focus below, epicentre above; shallow quakes and each extra magnitude step do far more damage.",
+  "bytes": 136786
+ },
+ {
+  "file": "cambridge-o-level-geography-earthquakes-volcanoes--05-primary-secondary-effects.webp",
+  "width": 900,
+  "height": 850,
+  "after": "## Effects on people and the environment",
+  "alt": "Two panels. Earthquakes: primary effects are collapsing buildings and bridges, deaths and injuries, and broken roads and pipes; secondary effects are fires, tsunamis, landslides, disease, homelessness and economic loss. Volcanoes: primary effects are lava flows, pyroclastic flows, ash fall and gases; secondary effects are lahars, crop and livestock loss, air travel disruption and climate cooling. Eight factors that change the impact are listed below.",
+  "caption": "Primary effects come from the event; secondary effects follow from them.",
+  "bytes": 133034
+ }
+]
