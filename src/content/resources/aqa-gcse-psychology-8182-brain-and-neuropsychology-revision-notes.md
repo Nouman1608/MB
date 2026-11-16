@@ -49,8 +49,9 @@ parasympathetic branch restores rest.
 ## James-Lange theory of emotion
 
 Event → **bodily change** → brain interprets the change → **emotion**. "We feel afraid because our
-heart races." *Against:* many emotions share the same arousal; people with spinal cord injuries
-still report emotions.
+heart races." *Against:* many emotions share the same arousal. Evidence from people with spinal
+cord injuries is mixed: some studies found weaker emotions after injury (which would support the
+theory), while others found emotions were still felt strongly (which would not).
 
 *For:* the theory explains why emotions feel physical, and why noticing a racing heart can make anxiety grow. *Further against:* the same bodily arousal (a pounding heart) occurs in fear, anger and excitement, so arousal alone cannot tell us which emotion we feel; emotions can also be felt very quickly, before bodily changes have time to develop. In an exam, name the order (event, physiological arousal, interpretation, emotion) before evaluating.
 

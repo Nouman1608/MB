@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -48,6 +49,50 @@ processes.
 - The global financial crisis that began in 2007 to 2008 is a standard example of a shock spreading
   through connected financial systems.
 
+Two further risks that cut across both columns:
+
+- **Cyber risk:** attacks on networks and infrastructure. The WannaCry ransomware attack (2017)
+  disrupted computers in many countries, including parts of the UK's National Health Service.
+- **Supply-chain concentration:** when one place dominates production of something essential. Taiwan,
+  for example, makes most of the world's most advanced semiconductors, so tension in that region is
+  a global economic risk.
+
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Interdependence | Places relying on each other through trade, finance and supply chains |
+| Contagion | A shock spreading from one market or country to others |
+| Systemic risk | The risk that failure of one part brings down a whole system |
+| Chokepoint | A narrow route through which a large share of trade must pass |
+| Sovereign debt | Money owed by a national government |
+| Commodity dependence | Reliance on one or a few raw-material exports for income |
+
+## Case studies to know
+
+- **Global financial crisis, 2007 to 2009.** Risky US mortgage lending was packaged into securities
+  sold to banks worldwide. When house prices fell, losses spread through the banking system; the
+  collapse of Lehman Brothers in September 2008 triggered panic and a global recession. Iceland's
+  banking system collapsed. Responses included bank rescues, interest-rate cuts, stimulus spending
+  and tighter banking rules. Exposure differed: export-dependent economies were hit by falling
+  demand, while some with little connection to global finance were less directly affected.
+- **Eurozone debt crisis, from 2010.** Greece and other countries could not borrow affordably and
+  received rescue loans conditional on austerity, leading to deep recession and very high
+  unemployment, particularly among young people.
+- **Russia's full-scale invasion of Ukraine, 2022.** Ukraine is a major grain exporter, so blocked
+  Black Sea shipping raised food prices for import-dependent countries in North Africa and the
+  Middle East. The Black Sea Grain Initiative (July 2022 to July 2023) temporarily reopened exports.
+  Europe's reliance on Russian gas led to sharp energy price rises and a rapid shift to imported
+  liquefied natural gas.
+- **Shipping chokepoints.** The container ship *Ever Given* blocked the Suez Canal for about six days
+  in March 2021, holding up hundreds of ships. From late 2023, attacks on ships in the Red Sea led
+  many shipping lines to divert around the Cape of Good Hope, adding time and cost. The Strait of
+  Hormuz carries a large share of the world's seaborne oil.
+- **Commodity dependence.** Venezuela's economy relied overwhelmingly on oil exports; when oil prices
+  fell sharply from 2014, combined with poor economic management, the country suffered
+  hyperinflation, shortages and large-scale emigration. Zambia's dependence on copper creates
+  similar exposure.
+
 ## Transmission and exposure
 
 - **Interdependence** is the transmission mechanism: heavy reliance on a single supplier, market or
@@ -55,10 +100,29 @@ processes.
 - **Unequal exposure:** states with weak institutions, narrow export bases or heavy debt tend to be
   more vulnerable and less able to recover.
 
+Efficiency versus resilience: **just-in-time** supply chains keep little stock to cut costs, so a
+single disruption spreads quickly. Many firms and governments now favour **just-in-case** stocks,
+diversified suppliers and moving production closer to home, which costs more but reduces risk.
+
 ## Analysing a risk
 
 For each risk identify the **source**, the **groups affected**, the **scale** at which it operates and
 the **responses** available, from diplomacy and peacekeeping to financial regulation and debt relief.
+
+| Step | Applied to the 2022 grain shock |
+|---|---|
+| Source | War and blocked Black Sea ports |
+| Groups affected | Poorer households in grain-importing countries, Ukrainian farmers |
+| Scale | Local (farms), national (Ukraine's economy), global (food prices) |
+| Responses | Diplomatic grain corridor, food aid, alternative overland export routes |
+
+## Model paragraph (to what extent)
+
+*"Interdependence spread the 2008 financial crisis from US housing to banks worldwide, showing that
+connection can amplify risk. Yet the same connections allowed coordinated responses, as central
+banks cut interest rates together and the G20 agreed stimulus measures. Interdependence therefore
+transmits shocks but also creates the means to respond, and the balance depends on whether
+institutions cooperate."*
 
 ## Exam traps
 
@@ -66,6 +130,7 @@ the **responses** available, from diplomacy and peacekeeping to financial regula
 - Treating a risk as only local when it travels through connected systems.
 - Describing the financial crisis with invented figures.
 - Ignoring that exposure differs between states.
+- Assuming interdependence only increases risk; it can also deter conflict and enable responses.
 
 ## Self-test
 
@@ -74,12 +139,24 @@ the **responses** available, from diplomacy and peacekeeping to financial regula
 3. How does interdependence transmit shocks?
 4. Which states are more vulnerable?
 5. What four things should you identify for each risk?
+6. What is a chokepoint? Give an example.
+7. Why did the war in Ukraine affect food prices far away?
+8. What event in September 2008 deepened the financial crisis?
+9. Why is commodity dependence risky?
+10. Distinguish just-in-time from just-in-case supply chains.
+11. What is contagion?
 
 **Answers:** 1. The probability of a harmful event combined with its likely consequences. 2. For
 example conflict and sanctions; financial crises and commodity price volatility. 3. Reliance on one
 supplier, market or route spreads a failure through the system. 4. Those with weak institutions, narrow
-export bases or heavy debt. 5. Source, groups affected, scale and available responses.
+export bases or heavy debt. 5. Source, groups affected, scale and available responses. 6. A narrow
+route through which much trade passes, such as the Suez Canal or Strait of Hormuz. 7. Ukraine is a
+major grain exporter and shipping was blocked, so import-dependent countries faced higher prices.
+8. The collapse of Lehman Brothers. 9. Income collapses when the price of that one commodity falls.
+10. Just-in-time keeps minimal stock for efficiency; just-in-case holds reserves and diversifies
+suppliers for resilience. 11. A shock spreading from one market or country to others.
 
 ## Related resources
 
 - [Global risks and resilience study guide](/resources/ib-ib-dp-geography-global-risks-resilience-study-guide/)
+- [Environmental risks revision notes](/resources/ib-ib-dp-geography-environmental-risks-revision-notes/)

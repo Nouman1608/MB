@@ -65,7 +65,7 @@ Condensed for the final weeks. For the full explanation, use the [market study g
 | Fit for particular purpose | 10 | Reasonable time | 52 |
 | Matches description | 11 | | |
 
-Goods remedies: **s 20** short-term reject (generally 30 days) → **s 23** repair or replace → **s 24** price reduction or final reject. Services remedies: **s 55** repeat performance → **s 56** price reduction.
+Goods remedies: **s 20** short-term right to reject (time limit in **s 22**, generally 30 days) → **s 23** repair or replace → **s 24** price reduction or final reject. Services remedies: **s 55** repeat performance → **s 56** price reduction.
 
 - **Satisfactory quality (s 9)**: judged by what a reasonable person would consider satisfactory, taking account of the description, price and other circumstances. Aspects include fitness for the usual purposes, appearance and finish, freedom from minor defects, safety and durability.
 - **Particular purpose (s 10)**: applies where the consumer makes known a specific purpose, such as asking for walking boots suitable for winter mountain hiking.
