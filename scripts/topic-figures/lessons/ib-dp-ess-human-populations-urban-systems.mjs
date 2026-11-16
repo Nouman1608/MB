@@ -127,9 +127,9 @@ export const slug = 'ib-dp-ess-human-populations-urban-systems';
   // causes
   const cause = (n, x, y, l1, l2) => badge(x, y, 15, n, C.cream) + t(x + 22, y - 2, l1, { size: 15, weight: 700 }) + t(x + 22, y + 16, l2, { size: 15, fill: C.muted });
   b += cause('1', 60, 340, 'Dark surfaces absorb', 'sun, release heat slowly');
-  b += cause('2', 664, 340, 'Waste heat: vehicles,', 'buildings, air conditioning');
+  b += cause('2', 648, 336, 'Waste heat: vehicles,', 'buildings, air conditioning');
   b += cause('3', 60, 400, 'Less vegetation, so', 'less evapotranspiration');
-  b += cause('4', 664, 400, 'Tall buildings trap', 'heat, reduce wind');
+  b += cause('4', 648, 392, 'Tall buildings trap', 'heat, reduce wind');
   b += tl(60, 590, ['Cities are warmer than the surrounding countryside, especially at night.', 'Impermeable surfaces also speed runoff and raise flood risk.', 'Green roofs, street trees and parks help cool the city.'], { size: 16, fill: C.muted }, 24);
   add('04-urban-heat-island',
     svg(900, 690, 'The urban heat island', b),

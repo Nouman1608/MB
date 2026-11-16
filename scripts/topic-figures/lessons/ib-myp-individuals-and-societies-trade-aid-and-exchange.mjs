@@ -204,9 +204,9 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 
 // 03 Gains from specialisation and trade
 {
-  const sc = 4.4;
+  const sc = 3.2;
   const pair = (x, y, lab, c, t2, hl) => {
-    let s = tx(x + 95, y - 12, lab, { size: 17, weight: 700, anchor: 'middle', fill: hl ? C.tealDark : C.muted });
+    let s = tx(x + 90, y + 10, lab, { size: 17, weight: 700, anchor: 'middle', fill: hl ? C.tealDark : C.muted });
     s += rect(x, y + 230 - c * sc, 80, c * sc, '#c79a62', C.olive, 4, 2) + tx(x + 40, y + 222 - c * sc, String(c), { size: 17, weight: 700, anchor: 'middle' });
     s += rect(x + 100, y + 230 - t2 * sc, 80, t2 * sc, C.teal, C.tealDark, 4, 2) + tx(x + 140, y + 222 - t2 * sc, String(t2), { size: 17, weight: 700, anchor: 'middle' });
     return s;
@@ -217,9 +217,9 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
   b += pair(480, 200, 'before trade', 20, 20) + pair(680, 200, 'after trade', 24, 24, 1);
   [[50, 430], [480, 430]].forEach(([x]) => { b += line(x, 430, x + 380, 430, { w: 2 }); });
   b += `<rect x="190" y="470" width="20" height="18" fill="#c79a62" stroke="${C.olive}" stroke-width="2"/>` + tx(218, 485, 'coffee (sacks)', { size: 16 }) + `<rect x="560" y="470" width="20" height="18" fill="${C.teal}" stroke="${C.tealDark}" stroke-width="2"/>` + tx(588, 485, 'textiles (rolls)', { size: 16 });
-  b += tx(450, 525, 'Belmar swaps 16 rolls for 24 sacks: 1 roll = 1.5 sacks, between the opportunity costs of 1 and 2', { size: 15, anchor: 'middle', fill: C.muted });
-  const n = note(30, 570, 840, 'Total output rises from 80 coffee and 50 textiles to 84 and 58. Both countries end up with more.', { size: 17 });
-  fig('03-gains-from-trade', 'Specialise, then trade: both gain', b + n.s, 570 + n.h + 30,
+  b += tx(450, 580, 'Belmar swaps 16 rolls for 24 sacks: 1 roll = 1.5 sacks, between the opportunity costs of 1 and 2', { size: 16, anchor: 'middle', fill: C.ink, weight: 600 });
+  const n = note(30, 605, 840, 'Total output rises from 80 coffee and 50 textiles to 84 and 58. Both countries end up with more.', { size: 17 });
+  fig('03-gains-from-trade', 'Specialise, then trade: both gain', b + n.s, 605 + n.h + 30,
     'Before trade Arlen has 60 coffee and 30 textiles and Belmar 20 and 20. After specialising and swapping 16 rolls for 24 sacks, Arlen has 60 coffee and 34 textiles and Belmar 24 and 24. Total output rises from 80 coffee and 50 textiles to 84 and 58.',
     'Specialising by comparative advantage raises total output, and trade shares the gain.',
     '## Why countries trade: absolute and comparative advantage');
@@ -291,9 +291,9 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 {
   let b = '';
   b += box(330, 115, 240, 64, { title: 'Aid', fill: C.mustard, edge: C.ink, align: 'middle', tsize: 22 });
-  const who = [['Bilateral', 'government to government', 'a donor funds a road abroad'], ['Multilateral', 'donors pay an international body', 'World Bank; UN agencies'], ['Voluntary (NGO)', 'charities spend public donations', 'a charity digs village wells']];
-  who.forEach(([h, d, e], i) => { const x = 30 + i * 285; b += arrow(450, 183, x + 135, 226, { w: 2.5 }) + box(x, 232, 270, 120, { title: h, body: d + '\ne.g. ' + e, fill: '#eaf3f1', edge: C.tealDark, tsize: 19, bsize: 15, align: 'middle' }); });
-  b += label(30, 392, 'Also classified by time, conditions and approach');
+  const who = [['Bilateral', 'government to government', 'a donor funds a road abroad'], ['Multilateral', 'donors pay an international body', 'World Bank; UN agencies'], ['Voluntary (NGO)', 'charities spend public donations', 'village wells']];
+  who.forEach(([h, d, e], i) => { const x = 30 + i * 285; b += arrow(450, 183, x + 135, 226, { w: 2.5 }) + box(x, 232, 270, 130, { title: h, body: d + '\ne.g. ' + e, fill: '#eaf3f1', edge: C.tealDark, tsize: 19, bsize: 15, align: 'middle' }); });
+  b += label(30, 396, 'Also classified by time, conditions and approach');
   const pairs = [['Short-term (emergency)', 'relief after the Indian Ocean tsunami, 2004', 'Long-term (development)', 'schools, clinics, farm training'], ['Tied aid', 'must be spent on the donor’s goods or services', 'Untied', ''], ['Top-down', 'large government projects, such as a dam', 'Bottom-up', 'small projects run with local people']];
   const rows = [pairs[0], pairs[2]];
   rows.forEach(([a, ad, c, cd], i) => {

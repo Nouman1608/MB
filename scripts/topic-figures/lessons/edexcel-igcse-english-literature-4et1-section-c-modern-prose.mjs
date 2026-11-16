@@ -280,10 +280,10 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
   }
   s += path(d, { stroke: C.tealDark, w: 4, extra: 'marker-end="url(#ahT)"' });
   s += `<line x1="40" y1="${Y + 290}" x2="860" y2="${Y + 290}" stroke="${C.ink}" stroke-width="3"/>`;
-  const labels = [['Opening position', 'how the focus is first established'], ['Turning point', 'an event that changes or tests it'], ['Development', 'how the change plays out'], ['Ending', 'where the novel leaves it']];
+  const labels = [['Opening position', 'how it is first established'], ['Turning point', 'an event that changes or tests it'], ['Development', 'how the change plays out'], ['Ending', 'where the novel leaves it']];
   P.slice(1, 5).forEach(([x, y], i) => {
     s += `<line x1="${x}" y1="${y + 20}" x2="${x}" y2="${Y + 290}" stroke="${C.panelEdge}" stroke-width="2.5" stroke-dasharray="5 5"/>` + badge(x, y, 20, String(i + 1), i === 3 ? C.mustard : C.cream);
-    s += T(x, Y + 318, labels[i][0], { size: 18, weight: 700, anchor: 'middle' }) + para(x, Y + 342, labels[i][1], 190, { size: 15, anchor: 'middle', fill: C.muted }).s;
+    s += T(x, Y + 318, labels[i][0], { size: 18, weight: 700, anchor: 'middle' }) + para(x, Y + 342, labels[i][1], 210, { size: 15, anchor: 'middle', fill: C.muted }).s;
   });
   const r = row(Y + 390, [
     { kicker: 'WEAKER', kfill: C.rust, body: 'Opens each paragraph with a plot event.', edge: C.rust, bfill: C.ink },
@@ -364,7 +364,7 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
 {
   const Y = 146;
   let s = '';
-  const ov = card(30, Y, 840, { kicker: 'OVERVIEW', kfill: C.olive, body: 'Loneliness is the normal condition of the ranch, created by economic insecurity and prejudice; George and Lennie’s friendship shows both the hope and the fragility of escaping it.', fill: C.cream, edge: C.olive, bfill: C.ink, size: 17 });
+  const ov = card(30, Y, 840, { kicker: 'OVERVIEW', kfill: C.olive, body: 'Loneliness is the normal condition of the ranch, created by economic insecurity and prejudice; George and Lennie’s friendship shows the hope and the fragility of escaping it.', fill: C.cream, edge: C.olive, bfill: C.ink, size: 17 });
   s += ov.s;
   let cy = Y + ov.h + 44;
   s += T(260, cy - 12, 'Claim and moment (AO1)', { size: 16, weight: 700, anchor: 'middle', fill: C.tealDark }) + T(700, cy - 12, 'Context (AO4)', { size: 16, weight: 700, anchor: 'middle', fill: C.olive });
@@ -409,9 +409,9 @@ const cross = (cx, cy, r = 15) => `<circle cx="${cx}" cy="${cy}" r="${r}" fill="
     s += `<circle cx="80" cy="${cy + c.h / 2}" r="10" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/>`;
     cy += c.h + 14;
   });
-  s += T(450, cy + 10, 'Paraphrase counts as precise reference in a closed-book exam.', { size: 16, anchor: 'middle', fill: C.muted, weight: 600 });
+  s += T(450, cy + 16, 'Paraphrase counts as precise reference in a closed-book exam.', { size: 16, anchor: 'middle', fill: C.muted, weight: 600 });
   add('05-crooks-paragraph',
-    svg(900, Math.round(cy + 36), 'Building a Section C paragraph', s, 'Of Mice and Men: Crooks'),
+    svg(900, Math.round(cy + 42), 'Building a Section C paragraph', s, 'Of Mice and Men: Crooks'),
     'The sample paragraph on Crooks broken into steps: a claim that loneliness is imposed by prejudice, a precise reference to the harness room and his hostility, his admission that a person needs someone near, the context of 1930s segregation, and the conclusion that the reader sees that society as cruel.',
     'Claim, reference, development, context, and why it matters.',
     '## Worked example: planning a theme question');

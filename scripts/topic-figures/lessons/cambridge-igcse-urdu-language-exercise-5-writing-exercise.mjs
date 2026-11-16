@@ -169,13 +169,13 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
 // 04 Keeping the register: verb forms
 {
   let b = '';
-  b += card(30, 110, 410, 230, 'With تم'.replace(' تم', ''), [], { fill: C.tealLight, edge: C.tealDark });
+  b += card(30, 110, 410, 230, '', [], { fill: C.tealLight, edge: C.tealDark });
   b += card(460, 110, 410, 230, '', [], { fill: C.cream, edge: C.mustard });
-  b += T(50, 146, 'Informal', { size: 20, weight: 700 }) + U(420, 152, 'تم', { size: 30 });
-  b += T(480, 146, 'Formal', { size: 20, weight: 700 }) + U(850, 152, 'آپ', { size: 30 });
+  b += T(50, 146, 'Informal', { size: 20, weight: 700 }) + U(420, 162, 'تم', { size: 30 });
+  b += T(480, 146, 'Formal', { size: 20, weight: 700 }) + U(850, 162, 'آپ', { size: 30 });
   const fi = ['ہو', 'کرو', 'آؤ', 'تمہارا'], ff = ['ہیں', 'کیجیے', 'آئیے', 'آپ کا'];
-  fi.forEach((u, k) => { b += chip(50 + k * 95, 200, 85, u, '', { h: 110, ub: 66, us: 26 }); });
-  ff.forEach((u, k) => { b += chip(480 + k * 95, 200, 85, u, '', { h: 110, ub: 66, us: 26 }); });
+  fi.forEach((u, k) => { b += chip(335 - k * 95, 200, 85, u, '', { h: 110, ub: 66, us: 26 }); });
+  ff.forEach((u, k) => { b += chip(765 - k * 95, 200, 85, u, '', { h: 110, ub: 66, us: 26 }); });
   b += T(450, 390, 'The most common error: mixing the two', { size: 20, weight: 700, anchor: 'middle' });
   b += `<rect x="30" y="410" width="410" height="96" rx="12" fill="#fbf1ea" stroke="${C.rust}" stroke-width="2.5"/>` + tick(66, 466, false) + U(420, 470, 'آپ آؤ', { size: 28 }) + T(96, 464, 'آپ with a تم verb'.replace(/.*/, 'formal pronoun, informal verb'), { size: 16, fill: C.rust, weight: 600 });
   b += `<rect x="460" y="410" width="410" height="96" rx="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + tick(496, 466, true) + U(850, 470, 'آپ آئیے', { size: 28 }) + T(526, 464, 'pronoun and verb agree', { size: 16, fill: C.tealDark, weight: 600 });
@@ -186,4 +186,84 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
     'Informal تم takes forms such as ہو، کرو، آؤ، تمہارا; formal آپ takes ہیں، کیجیے، آئیے، آپ کا. Mixing them, as in آپ آؤ, is the commonest error; آپ آئیے is correct. A boy writes لکھ رہا ہوں and a girl لکھ رہی ہوں.',
     'Choose تم or آپ once, then check every verb against it.',
     '## Register: تم or آپ, and keeping to it');
+}
+
+// 05 Planning 120 words
+{
+  let b = '';
+  const parts = [['Opening and greeting', '10-15', 13, C.cream], ['Prompt 1', 'about 30', 30, C.tealLight], ['Prompt 2', 'about 30', 30, C.tealLight], ['Prompt 3', 'about 30', 30, C.tealLight], ['Closing and sign-off', '10-15', 13, C.cream]];
+  let y = 110;
+  parts.forEach(([n, w, v, f]) => {
+    const h = v * 3.2 + 20;
+    b += `<rect x="30" y="${y}" width="380" height="${h}" rx="10" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/>` + T(50, y + h / 2 + 6, n, { size: 18, weight: 700 }) + T(390, y + h / 2 + 6, w + ' words', { size: 16, fill: C.muted, anchor: 'end' });
+    y += h + 8;
+  });
+  const yEnd = y;
+  // per-prompt recipe
+  b += panel(440, 110, 430, 250) + T(460, 146, 'Inside each prompt paragraph', { size: 19, weight: 700 });
+  [['statement', C.tealLight], ['detail or reason', C.teal], ['feeling or comment', C.cream]].forEach(([s, f], i) => {
+    b += `<rect x="460" y="${166 + i * 62}" width="390" height="50" rx="10" fill="${f}" stroke="${C.panelEdge}" stroke-width="2"/>` + T(480, 197 + i * 62, (i ? '+ ' : '') + s, { size: 17, weight: 600 });
+  });
+  b += panel(440, 380, 430, yEnd - 388) + T(460, 416, 'Tense range comes from the prompts', { size: 19, weight: 700 });
+  [['what happened', 'past'], ['what you do now', 'present'], ['invite or plan', 'future or conditional']].forEach(([a, c], i) => {
+    b += T(460, 452 + i * 30, a, { size: 16, fill: C.muted }) + T(640, 452 + i * 30, '→ ' + c, { size: 16, weight: 700, fill: C.tealDark });
+  });
+  b += U(850, 580, 'اگر… تو…', { size: 26 }) + T(460, 574, 'for example the conditional', { size: 16, fill: C.muted });
+  add('05-planning-120-words',
+    SV(yEnd + 22, 'Planning 120 words', b),
+    'A word budget for about 120 words: 10-15 for the opening and greeting, about 30 for each of three prompts, and 10-15 for the closing and sign-off. Each prompt paragraph gives a statement, a detail or reason, and a feeling or comment, and the prompts invite past, present and future or conditional (اگر… تو…).',
+    'About 30 words per prompt, each with a statement, a reason and a comment.',
+    '## Planning 120 words');
+}
+
+// 06 Email layout from the worked example
+{
+  let b = '';
+  const L = (y, en, sub) => T(54, y, en, { size: 17, weight: 700, fill: C.tealDark }) + (sub ? T(54, y + 22, sub, { size: 15, fill: C.muted }) : '');
+  b += panel(30, 110, 840, 920);
+  b += `<line x1="330" y1="130" x2="330" y2="1010" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="6 6"/>`;
+  b += L(162, 'Opening', 'informal: friend') + U(846, 168, 'پیارے سلمان،', { size: 27 });
+  b += L(240, 'Greeting', '') + U(846, 246, 'السلام علیکم! امید ہے تم نئے شہر میں خوش ہو گے۔', { size: 23 });
+  const para3 = [['Prompt 1: the new club', 'present habit', 'فوٹوگرافی کلب میں داخلہ لے لیا ہے', 'ملتے ہیں، سکھاتے ہیں'],
+    ['Prompt 2: last week', 'past', 'پچھلے ہفتے ہم پرانا قلعہ دیکھنے گئے تھے۔', 'مجھے خود یقین نہیں آیا'],
+    ['Prompt 3: the invitation', 'future and conditional', 'کلب کی ایک نمائش ہو گی', 'اگر تم ان دنوں چھٹیوں پر یہاں آؤ تو ضرور آنا']];
+  para3.forEach(([h, s, u1, u2], i) => {
+    const y = 290 + i * 190;
+    b += `<rect x="345" y="${y}" width="510" height="170" rx="10" fill="${C.tealLight}"/>`;
+    b += L(y + 40, h, s) + U(840, y + 58, u1, { size: 24 }) + T(840, y + 92, '…', { size: 18, fill: C.muted, anchor: 'end' }) + U(840, y + 142, u2, { size: 24, fill: C.tealDark });
+  });
+  b += L(890, 'Closing line', 'a request') + U(846, 896, 'جلدی جواب دینا۔', { size: 27 });
+  b += L(966, 'Sign-off', '') + U(846, 960, 'تمہارا دوست،', { size: 27 }) + U(846, 1010, 'بلال', { size: 27 });
+  add('06-email-layout',
+    SV(1060, 'The model email, part by part', b),
+    'The model email to Salman laid out part by part: opening پیارے سلمان، and a greeting, three short paragraphs for the three prompts (the photography club, last week\'s trip to the old fort, and the invitation to the exhibition), a closing request جلدی جواب دینا۔ and the sign-off تمہارا دوست، بلال.',
+    'Greeting, one paragraph per prompt, closing line, sign-off: all in the تم register.',
+    '## Worked example');
+}
+
+// 07 Timing and final check
+{
+  let b = '';
+  const segs = [['Plan', 2, C.tealLight, 'purpose, format, audience, a word per prompt'], ['Write', 10, C.teal, ''], ['Check', 3, C.cream, '']];
+  let x = 60; const unit = 780 / 15;
+  segs.forEach(([n, m, f]) => { const w = m * unit; b += `<rect x="${x}" y="115" width="${w}" height="84" fill="${f}" stroke="${C.ink}" stroke-width="3"/>` + T(x + w / 2, 152, m + ' min', { size: 20, weight: 700, anchor: 'middle' }) + T(x + w / 2, 180, n, { size: 16, anchor: 'middle' }); x += w; });
+  b += T(60, 226, 'about 15 minutes in all; keep more time for Exercise 6, worth twice as much', { size: 16, fill: C.muted });
+  const checks = ['Every prompt covered?', 'One register throughout?', 'Greeting, opening line, closing line, sign-off?', 'Your own verbs agree with your gender?', 'نے with every transitive verb in a completed past tense?', 'Adjectives and verbs agree with their nouns?'];
+  b += panel(30, 250, 840, 330) + T(54, 288, 'The two-minute final check', { size: 20, weight: 700 });
+  checks.forEach((c, i) => {
+    const y = 330 + i * 41;
+    b += `<rect x="54" y="${y - 20}" width="26" height="26" rx="5" fill="${C.panel}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(67, y + 1, '✓', { size: 18, weight: 700, fill: C.tealDark, anchor: 'middle' });
+    if (i === 4) b += U(146, y + 4, 'نے', { size: 24 }) + T(156, y, 'with every transitive verb in a completed past tense?', { size: 17 });
+    else b += T(96, y, c, { size: 17 });
+  });
+  b += T(450, 626, 'Agreement in practice', { size: 20, weight: 700, anchor: 'middle' });
+  const pair = (x, bad, good) => `<rect x="${x}" y="646" width="410" height="90" rx="12" fill="#fbf1ea" stroke="${C.rust}" stroke-width="2"/>` + tick(x + 30, 700, false) + U(x + 390, 704, bad, { size: 26 }) +
+    `<rect x="${x}" y="748" width="410" height="90" rx="12" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + tick(x + 30, 802, true) + U(x + 390, 806, good, { size: 26 });
+  b += pair(30, 'نیا کتاب', 'نئی کتاب') + pair(460, 'میں نے کتاب خریدا', 'میں نے کتاب خریدی');
+  b += T(80, 698, 'wrong adjective form', { size: 15, fill: C.rust }) + T(510, 698, 'wrong verb form', { size: 15, fill: C.rust }) + T(80, 800, 'adjective agrees', { size: 15, fill: C.tealDark }) + T(510, 800, 'verb agrees', { size: 15, fill: C.tealDark });
+  add('07-timing-and-check',
+    SV(866, 'Fifteen minutes, then a final check', b),
+    'A 15-minute plan: 2 minutes to plan, 10 to write and 3 to check, followed by a six-point checklist on prompts, register, format, gender agreement, نے and noun agreement. Below, نیا کتاب is corrected to نئی کتاب and میں نے کتاب خریدا to میں نے کتاب خریدی.',
+    'Plan briefly, write, then check prompts, register and agreement.',
+    '## Exam technique and timing');
 }

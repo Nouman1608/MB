@@ -136,24 +136,24 @@ const GC = ['Identities and relationships', 'Orientation in space and time', 'Pe
     ['Globalization and sustainability', 'plate waste'],
     ['Fairness and development', 'counter too high for wheelchair users'],
   ];
-  const cx = 450, cy = 420;
+  const cx = 450, cy = 375;
   let b = '';
   // layout: three left, three right; centre situation
   probs.forEach(([g, p], i) => {
     const left = i % 2 === 0, row = Math.floor(i / 2);
-    const x = left ? 30 : 600, y = 120 + row * 200, w = 270;
+    const x = left ? 30 : 600, y = 120 + row * 170, w = 270;
     const hi = i === 3, nw = i === 5;
-    b += panel(x, y, w, 170, hi ? C.cream : nw ? '#fbeee6' : C.panel, hi ? C.olive : nw ? C.rust : C.panelEdge);
+    b += panel(x, y, w, 145, hi ? C.cream : nw ? '#fbeee6' : C.panel, hi ? C.olive : nw ? C.rust : C.panelEdge);
     b += tl(x + 18, y + 34, wrap(g, 24), { size: 17, weight: 700, fill: hi ? C.olive : C.tealDark }, 22);
     b += tl(x + 18, y + 90, wrap(p, 27), { size: 16 }, 22);
-    const ax = left ? x + w + 4 : x - 4, ay = y + 85;
+    const ax = left ? x + w + 4 : x - 4, ay = y + 72;
     b += arrow(left ? cx - 112 : cx + 112, cy + (row - 1) * 100, ax, ay, { w: hi ? 4 : 2.5, color: hi ? C.olive : C.ink, marker: hi ? 'ahO' : 'ah' });
   });
   b += box(cx - 110, cy - 120, 220, 240, C.tealLight, C.ink, 2.5, 18) + t(cx, cy - 78, 'Design situation', { size: 18, weight: 700, anchor: 'middle' }) +
     tl(cx, cy - 40, ['Kestrel Hill', 'canteen: crowded', 'at lunch, long', 'queues, food', 'thrown away'], { size: 16, anchor: 'middle' }, 22);
-  b += t(450, 745, 'Chosen lens highlighted. The access problem needs new evidence: the survey never asked about it.', { size: 15.5, anchor: 'middle', fill: C.rust, weight: 600 });
+  b += t(450, 655, 'Chosen lens highlighted. The access problem needs new evidence: the survey never asked about it.', { size: 15.5, anchor: 'middle', fill: C.rust, weight: 600 });
   add('06-one-situation-six-lenses',
-    svg(900, 770, 'One situation, six different problems', b),
+    svg(900, 680, 'One situation, six different problems', b),
     'The crowded Kestrel Hill canteen sits in the centre, with six global contexts around it, each picking out a different problem: friends split up, crossing routes at one door, missing food cultures on the menu, slow ordering (the chosen lens), plate waste, and a counter too high for wheelchair users, which needs new evidence.',
     'Change the lens and you change the problem; a context can send you back for new evidence.',
     '## From design situation to problem statement');
