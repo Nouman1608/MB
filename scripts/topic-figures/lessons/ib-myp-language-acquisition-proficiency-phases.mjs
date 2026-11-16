@@ -39,17 +39,17 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   const cr = [['A', 'Listening', 'spoken multimodal text'], ['B', 'Reading', 'written, spatial and visual text'], ['C', 'Speaking', 'interacting on personal, local, global topics'], ['D', 'Writing', 'language for audience and purpose']];
   let b = chip(250, 110, 290, 52, 'Classroom: levels 0–8', C.tealLight, { size: 17 }) + chip(560, 110, 310, 52, 'eAssessment: raw marks', C.cream, { size: 17, edge: C.olive });
   cr.forEach(([L, n, d], i) => {
-    const y = 176 + i * 96;
-    b += panel(30, y, 210, 84) + badge(66, y + 42, 22, L, i === 2 ? C.mustard : C.cream) + t(100, y + 36, n, { size: 18, weight: 700 }) + tl(100, y + 58, wrap(d, 18), { size: 14.5, fill: C.muted }, 17);
-    b += box(250, y, 290, 84, '#eaf3f1', C.tealDark, 2, 10);
-    for (let k = 0; k <= 8; k++) b += `<rect x="${262 + k * 30}" y="${y + 26}" width="24" height="32" rx="4" fill="${k === 0 ? '#e6e8ea' : C.teal}" stroke="${C.ink}" stroke-width="1.2"/>` + t(274 + k * 30, y + 48, String(k), { size: 14.5, anchor: 'middle', weight: 600 });
-    b += box(560, y, 310, 84, i === 2 ? C.mustard : C.cream, C.olive, 2, 10) + t(715, y + 40, '24 marks', { size: 22, weight: 700, anchor: 'middle' }) + t(715, y + 66, i === 2 ? 'separate speaking exam' : 'on-screen paper', { size: 15, anchor: 'middle' });
+    const y = 176 + i * 112;
+    b += panel(30, y, 210, 100) + badge(66, y + 50, 22, L, i === 2 ? C.mustard : C.cream) + t(100, y + 30, n, { size: 18, weight: 700 }) + tl(100, y + 52, wrap(d, 17), { size: 15, fill: C.muted }, 17);
+    b += box(250, y + 8, 290, 84, '#eaf3f1', C.tealDark, 2, 10);
+    for (let k = 0; k <= 8; k++) b += `<rect x="${262 + k * 30}" y="${y + 34}" width="24" height="32" rx="4" fill="${k === 0 ? '#e6e8ea' : C.teal}" stroke="${C.ink}" stroke-width="1.2"/>` + t(274 + k * 30, y + 56, String(k), { size: 15, anchor: 'middle', weight: 600 });
+    b += box(560, y + 8, 310, 84, i === 2 ? C.mustard : C.cream, C.olive, 2, 10) + t(715, y + 48, '24 marks', { size: 22, weight: 700, anchor: 'middle' }) + t(715, y + 74, i === 2 ? 'separate speaking exam' : 'on-screen paper', { size: 15, anchor: 'middle' });
   });
-  b += box(250, 566, 290, 60, C.tealLight, C.tealDark, 2.5, 10) + t(395, 603, 'total 0–32', { size: 20, weight: 700, anchor: 'middle' });
-  b += box(560, 566, 310, 60, C.cream, C.olive, 2.5, 10) + t(715, 603, 'equal weight: 24 each', { size: 18, weight: 700, anchor: 'middle' });
-  b += t(450, 660, 'Level 0: work that does not reach any descriptor band. The two scales are separate.', { size: 15.5, anchor: 'middle', fill: C.muted });
+  b += box(250, 630, 290, 60, C.tealLight, C.tealDark, 2.5, 10) + t(395, 667, 'total 0–32', { size: 20, weight: 700, anchor: 'middle' });
+  b += box(560, 630, 310, 60, C.cream, C.olive, 2.5, 10) + t(715, 667, 'equal weight: 24 each', { size: 18, weight: 700, anchor: 'middle' });
+  b += t(450, 724, 'Level 0: work that does not reach any descriptor band. The two scales are separate.', { size: 15.5, anchor: 'middle', fill: C.muted });
   add('02-two-marking-scales',
-    svg(900, 685, 'Two scales: classroom levels and eAssessment marks', b),
+    svg(900, 750, 'Two scales: classroom levels and eAssessment marks', b),
     'Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination.',
     'Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.',
     '## The four criteria are independently weighted');
