@@ -16161,3 +16161,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - Owner, 15 Nov 2026: re-sent Ammar Bilal's photograph; said Farhat ul Ain Sehgal's pixelated photograph "was deliberate".
 - **Fix.** `docs/image-source-manifest.md` gains rows for both files. Ammar Bilal's site photo was compared with the re-sent original: it is a square crop of the same photograph, so the file was not changed. Farhat ul Ain Sehgal's row records that the pixelation is intended.
 - **Not changed.** No image file. Every teacher photograph on the site now has a row in the record.
+
+## D-472 - Editorial policy: past-paper library documents described (16 Nov 2026)
+
+- Owner, 16 Nov 2026: "yes update the editorial policy", after deciding that only papers an exam board has made publicly available are to be hosted, under the owner's responsibility (D-463, D-469).
+- **Fix.** The "Copyright and original questions" paragraph on /legal/editorial-policy/ no longer says Marlbridge does not reproduce past-exam questions or mark schemes. It now says the past-paper library may hold board-published question papers, mark schemes and examiner reports that the board has made publicly available, each unaltered, labelled with its board and never presented as Marlbridge's work; that they are hosted under the owner's responsibility; and that a board can ask for removal at the site's contact address. Practice questions are still stated to be wholly original, and resources still do not reproduce specification text. This clears the policy half of rule [8] in `scripts/validate-past-papers.mjs`.
+- **Not changed.** The ar/ur/bn editorial policies (`src/i18n/pages/legal.ts`, "Copyright" sections) need a translator before the first paper is listed. Each course's past-paper guide still says papers are not hosted; it is updated when that course gets files.

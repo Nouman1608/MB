@@ -161,12 +161,16 @@ const reviewedSummary = reviewedResources === 0 && reviewedArticles === 0
 
         <h2 id="copyright-and-original-content">Copyright and original questions</h2>
         <p>
-          Marlbridge does not reproduce awarding-body specification text, past-exam questions, or mark schemes.
+          Marlbridge does not reproduce awarding-body specification text in its own resources.
           Syllabus summaries on this site are original explanations of what a specification covers, written from
           the official document rather than copied from it. Practice questions published on Marlbridge are
-          wholly original and written for the relevant syllabus — they are not drawn from, or a rewording of, any board's past papers. Where a resource discusses or links to a
-          board's own past papers, it directs readers to the board's own official source rather than
-          reproducing the material itself. Each practice-question resource is credited like any other resource:
+          wholly original and written for the relevant syllabus — they are not drawn from, or a rewording of, any board's past papers.
+          Separately, Marlbridge's past-paper library may hold copies of question papers, mark schemes and examiner reports
+          that an exam board has made publicly available. Each one is the board's own document, unaltered, labelled with
+          the board that published it and never presented as Marlbridge's work; Marlbridge hosts them under its owner's
+          responsibility (owner's decision of 15 November 2026). An exam board that wants a document removed can write to
+          {' '}<a href={`mailto:${FALLBACK_EMAIL}`}>{FALLBACK_EMAIL}</a> and it will be taken down. Where a resource discusses
+          a board's past papers, it links to the board's own official source or to the copy in the library. Each practice-question resource is credited like any other resource:
           {' '}{namedPractice.toLocaleString('en-US')} of the {practice.length.toLocaleString('en-US')} name a teacher, and the rest carry the Marlbridge
           Academic Team byline.
         </p>
