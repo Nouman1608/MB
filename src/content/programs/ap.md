@@ -34,6 +34,6 @@ Teaching follows the College Board course frameworks for the 2026–27 school ye
 
 Marlbridge is an independent tuition provider, not an AP school or an exam centre. Students take the AP Exams through their school or an authorized test centre. For the AP science courses, tuition supports the hands-on laboratory work the courses require in school; it does not replace it.
 
-AP tuition is **one-to-one only**: Rs 6,000 per class in Pakistan, with indicative conversions for other currencies on the [pricing page](/pricing/#one-to-one-only). The multi-subject and sibling discounts do not apply. The first class is a free trial. AP courses are taught by the same Marlbridge subject teachers who teach Chemistry, Biology, Physics, Mathematics, Statistics, Computer Science, English Literature and Economics at other levels.
+AP tuition is **one-to-one only**: Rs 6,000 per class in Pakistan, with indicative conversions for other currencies on the [pricing page](/pricing/#one-to-one-only). The multi-subject and sibling discounts do not apply. The first class is a free trial. AP courses are taught by the same Marlbridge subject teachers who teach Chemistry, Biology, Physics, Mathematics, Statistics, Computer Science, English and Economics at other levels.
 
 AP® and Advanced Placement® are trademarks registered by the College Board, which is not affiliated with, and does not endorse, this website.
