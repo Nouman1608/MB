@@ -187,7 +187,6 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
     if (dense) {
       for (let i = 0; i < 6; i++) s += path(`M${x + 30},${y + 90 + i * 32} L${x + 380},${y + 100 + i * 30}`, { stroke: C.ink, w: 2.5 });
       for (let i = 0; i < 7; i++) s += path(`M${x + 50 + i * 52},${y + 78} L${x + 40 + i * 54},${y + 262}`, { stroke: C.ink, w: 2.5 });
-      s += path(`M${x + 30},${y + 250} L${x + 380},${y + 90}`, { stroke: C.rust, w: 5, extra: 'stroke-dasharray="12 6"' });
       [[90, 120], [200, 170], [300, 130], [140, 230], [330, 220]].forEach(([a, c]) => { s += `<circle cx="${x + a}" cy="${y + c}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>`; });
     } else {
       s += path(`M${x + 30},${y + 220} Q${x + 200},${y + 160} ${x + 380},${y + 120}`, { stroke: C.ink, w: 2.5 }) + path(`M${x + 160},${y + 262} L${x + 200},${y + 180}`, { stroke: C.ink, w: 2.5 });
@@ -254,7 +253,7 @@ const note = (x, y, w, s, o = {}) => card(x, y, w, { body: s, fill: C.cream, edg
   let b = '';
   st.forEach(([a, c, f, e], i) => { const x = 30 + i * 216.7; b += card(x, y, w, { title: a, body: c, bs: 15, ts: 18, h, fill: f, edge: e, bfill: C.ink }).s; if (i < 3) b += arrow(x + w + 3, y + h / 2, x + 214, y + h / 2, { w: 3.5 }); });
   b += T(450, y - 10, 'exports (imports follow the same route in reverse)', { size: 16, anchor: 'middle', fill: C.muted });
-  const by = y + h + 30;
+  const by = y + h + 46;
   const ben = ['Saves time', 'Reduces congestion at Karachi', 'Helps exporters in inland industrial cities'];
   ben.forEach((s, i) => { const x = 30 + i * 285; b += R(x, by, 270, 64, C.cream, C.olive) + para(x + 135, by + 28, s, 240, { size: 16, weight: 700, anchor: 'middle' }).s; });
   b += T(30, by - 10, 'WHY THEY HAVE BEEN DEVELOPED', { size: 15, weight: 700, fill: C.olive });

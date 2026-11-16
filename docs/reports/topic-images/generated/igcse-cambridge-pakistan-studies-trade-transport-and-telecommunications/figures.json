@@ -42,7 +42,7 @@
   "after": "## How do transport networks vary across Pakistan?",
   "alt": "Two schematic panels. The Indus Plain of Punjab and Sindh has a dense web of roads and railways because the land is flat and there are many people, farms and industries. Balochistan, the mountainous north and the deserts have few routes because of steep slopes, landslides, floods, snow, sand and sparse population. A note lists recent improvements such as the M-2 motorway.",
   "caption": "Flat, crowded land gets dense networks; mountains and deserts get few routes.",
-  "bytes": 131488
+  "bytes": 127112
  },
  {
   "file": "igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--06-international-routes.webp",
@@ -56,10 +56,10 @@
  {
   "file": "igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications--07-dry-port.webp",
   "width": 900,
-  "height": 389,
+  "height": 405,
   "after": "## Which international routes and ports must you know?",
   "alt": "A chain from an inland factory to a dry port such as Lahore or Faisalabad, where goods are cleared through customs and loaded into containers, then travel sealed by rail or road to the seaport. Dry ports save time, reduce congestion at Karachi and help exporters in inland industrial cities.",
   "caption": "A dry port brings customs clearance to inland cities.",
-  "bytes": 68220
+  "bytes": 68310
  }
 ]

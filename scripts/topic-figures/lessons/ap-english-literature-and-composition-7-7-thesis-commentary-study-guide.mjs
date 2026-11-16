@@ -266,7 +266,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     b += T(zx[i], y + 70 + 6, a, { size: 17, weight: 700, anchor: 'middle' }) + T(zx[i], y + 70 + r + 26, c2, { size: 15, anchor: 'middle', fill: C.muted });
     if (i < 2) b += arrow(zx[i] + r + 10, y + 70, zx[i + 1] - (48 + (i + 1) * 12) - 10, y + 70, { w: 4 });
   });
-  y += 70 + 66 + 40;
+  y += 70 + 66 + 58;
   const fin = card(30, y, 840, { kicker: 'CONNECT TO THE THESIS', body: 'The ending condemns marriage as a structure, not Brently Mallard as an individual.', size: 17, bfill: C.ink, bweight: 600 });
   b += fin.s;
   add('05-alternative-and-context',

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--01-actors-stakeholders.webp",
+  "width": 900,
+  "height": 638,
+  "after": "## 1. Stakeholders and actors",
+  "alt": "A large set of stakeholders, anyone affected by an issue, contains a smaller set of actors, those with the agency and means to exercise power. A child downstream of a dam is a stakeholder; the ministry that approved it is an actor. Residents who organise and go to court move from stakeholder to actor.",
+  "caption": "All actors are stakeholders; stakeholders become actors when they gain the means to act.",
+  "bytes": 96398
+ },
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--02-actor-types.webp",
+  "width": 900,
+  "height": 730,
+  "after": "## 1. Stakeholders and actors",
+  "alt": "A grid of the actor types in the guide, each with an example: states, subnational and local governments, IGOs, organised civil society, companies, social movements, resistance movements, political parties, interest and pressure groups, political leaders, formal and informal forums, the media, and other individual and collective actors.",
+  "caption": "Know each type with one example, but judge power case by case.",
+  "bytes": 148080
+ },
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--03-structure-dynamics.webp",
+  "width": 900,
+  "height": 693,
+  "after": "## 2. Systems -- structures and dynamics",
+  "alt": "Seven scales at which a political system can be studied, from global to community. Structure is the stable arrangement: authority, decision rules, distribution of power and whether anything sits above. Dynamics are how interactions change: cooperation, competition, alliances, new actors, rule changes and crises.",
+  "caption": "Structure sets the rules of the game; dynamics are how the game changes.",
+  "bytes": 109976
+ },
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--04-structure-limits-action.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## 2. Systems -- structures and dynamics",
+  "alt": "Two examples. In the UN Security Council, five permanent members hold a veto, so a resolution can fail despite wide support and actors turn to the General Assembly or regional bodies. In WTO dispute settlement, only governments can be parties, so a harmed company must persuade its government to bring the case.",
+  "caption": "The rules of a system decide which routes are open, and actors route around the closed ones.",
+  "bytes": 75434
+ },
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--05-law-norms-institutions.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## 3. Legal frameworks, norms and institutions",
+  "alt": "A scale from binding to non-binding: hard law such as the UN Charter, soft law such as the Universal Declaration of Human Rights, and norms such as the taboo on chemical weapons. Institutions are both formal organisations and social structures of rules. Together they shape, limit or even cause political issues.",
+  "caption": "Binding or not, rules and norms shape options, rule some out, and can cause issues themselves.",
+  "bytes": 119230
+ },
+ {
+  "file": "ib-dp-global-politics-core-stakeholders-and-systems--06-paris-actor-map.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Worked example: mapping a real case",
+  "alt": "An actor map around the 2015 Paris Agreement: states, the UN climate secretariat, the Conference of the Parties, NGOs, cities and regions, companies and the media, with stakeholders who had little voice such as low-lying coastal communities, future generations and fossil-fuel workers. Consensus decision-making led to self-set national targets: wide participation, weak enforcement.",
+  "caption": "Name the actors, the voiceless stakeholders, then link the structure to the outcome.",
+  "bytes": 120032
+ }
+]

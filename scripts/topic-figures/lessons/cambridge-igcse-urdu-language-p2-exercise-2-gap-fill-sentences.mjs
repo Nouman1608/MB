@@ -163,3 +163,87 @@ const tick = (x, y, ok) => T(x, y, ok ? '✓' : '✗', { size: 26, weight: 700, 
     'Gender, number and postpositions tell you what kind of word is missing.',
     '## Using Urdu grammar to predict the gap');
 }
+
+// 04 Notes versus sentences
+{
+  let b = '';
+  b += panel(30, 110, 410, 300) + T(50, 146, 'Notes', { size: 21, weight: 700 }) + T(50, 174, 'heading, colon, gap', { size: 16, fill: C.muted });
+  b += `<rect x="50" y="196" width="370" height="80" rx="10" fill="${C.cream}"/>` + U(400, 246, 'کتابوں کی تعداد: ______', { size: 26 });
+  b += para(50, 312, 'Write just the content: a number, a noun or a short list.', 370, { size: 17, fill: C.ink }).s;
+  b += panel(460, 110, 410, 300) + T(480, 146, 'Sentences', { size: 21, weight: 700 }) + T(480, 174, 'your answer must read as part of it', { size: 16, fill: C.muted });
+  b += `<rect x="480" y="196" width="370" height="80" rx="10" fill="${C.cream}"/>` + U(830, 246, 'شادی کے ______ پر', { size: 26 });
+  b += para(480, 312, 'Use the form that fits: the oblique plural after a postposition, the feminine form where needed.', 370, { size: 17, fill: C.ink }).s;
+  b += panel(30, 430, 840, 70, C.tealLight, C.tealDark) + T(54, 473, 'Either way: write only what goes in the gap, not the whole sentence.', { size: 17, weight: 600 });
+  add('04-notes-versus-sentences',
+    SV(528, 'Gaps in notes and gaps in sentences', b),
+    'In notes such as کتابوں کی تعداد: ______ write just the content. In sentences such as شادی کے ______ پر the answer must fit the grammar, for example the oblique plural after a postposition. In both, write only the gap.',
+    'Notes take bare content; sentences take the grammatically fitting form.',
+    '## Notes versus sentences');
+}
+
+// 05 Two possible answers
+{
+  let b = '';
+  const card2 = (y, title, ur1, en1, oldv, newv, newl) => {
+    let s = panel(30, y, 840, 196) + T(54, y + 38, title, { size: 19, weight: 700 });
+    s += U(846, y + 46, ur1, { size: 25 }) + T(54, y + 66, en1, { size: 15, fill: C.muted, italic: true });
+    s += `<rect x="50" y="${y + 90}" width="370" height="86" rx="10" fill="#fbf1ea" stroke="${C.rust}" stroke-width="2"/>` + tick(78, y + 140, false) + U(400, y + 144, oldv[0], { size: 26 }) + T(100, y + 138, oldv[1], { size: 15, fill: C.rust, weight: 600 });
+    s += `<rect x="480" y="${y + 90}" width="370" height="86" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + tick(508, y + 140, true) + U(830, y + 144, newv, { size: 26 }) + T(530, y + 138, newl, { size: 15, fill: C.tealDark, weight: 600 });
+    return s;
+  };
+  b += card2(110, 'Then and now', 'شروع میں چھ طالب علم تھے، اب ہم پچیس ہیں۔', 'At first six students; now 25.', ['چھ', 'then, not now'], 'پچیس', 'gap about now');
+  b += card2(320, 'A list and an exception', 'ہم سبزیاں اگاتے ہیں ... سردیوں میں گاجریں بھی۔', 'We grow vegetables ... carrots too in winter.', ['سبزیاں', 'the general list'], 'گاجریں', 'gap about winter');
+  b += panel(30, 530, 840, 80) + T(54, 566, 'A reason and a result:', { size: 19, weight: 700 }) + T(270, 566, 'the gap before', { size: 17, fill: C.muted }) + U(500, 572, 'کی وجہ سے', { size: 25 }) + T(520, 566, 'wants the cause, not the effect.', { size: 17, fill: C.muted });
+  b += T(450, 650, 'Underline the word in the printed sentence that says which detail is asked for', { size: 17, weight: 700, anchor: 'middle' });
+  ['اب', 'شروع میں', 'سردیوں میں', 'اصل میں'].forEach((u, i) => { b += chip(690 - i * 170, 668, 150, u, ['now', 'at first', 'in winter', 'originally'][i], { h: 104, ub: 50, fill: C.cream, edge: C.mustard }); });
+  add('05-two-possible-answers',
+    SV(800, 'When the text gives two possible answers', b),
+    'Two examples. In شروع میں چھ طالب علم تھے، اب ہم پچیس ہیں۔ a gap about now needs پچیس, not چھ. In a list of vegetables with سردیوں میں گاجریں بھی, a gap about winter needs گاجریں. A gap before کی وجہ سے wants the cause. Words such as اب، شروع میں، سردیوں میں، اصل میں show which detail is asked for.',
+    'The time or condition word in the printed sentence picks between two details.',
+    '## When the text gives two possible answers');
+}
+
+// 06 Routine
+{
+  const st = steps(110, [
+    ['In the pause', 'Read every gap; underline time words and grammar clues; pencil the kind of answer beside each gap.'],
+    ['First hearing', 'Follow the sentences in order and jot what you catch. Missed one? Move on: the next topic will come.'],
+    ['Second hearing', 'Fill the gaps you missed and confirm the then-and-now details.'],
+    ['After', 'Read each completed sentence: does the grammar fit?'],
+  ], { minH: 96, gap: 12 });
+  let b = st.s, y = 110 + st.h + 22;
+  b += panel(30, y, 840, 100, C.cream, C.mustard) + T(54, y + 36, 'Time words to underline in the pause', { size: 18, weight: 700 });
+  [['اب', 'now'], ['پہلے', 'before'], ['شروع میں', 'at first']].forEach(([u, g], i) => { b += U(840 - i * 150, y + 80, u, { size: 26 }) + T(840 - i * 150 - uw(u, 26) - 10, y + 74, g, { size: 15, fill: C.muted, anchor: 'end', italic: true }); });
+  add('06-two-hearings',
+    SV(y + 128, 'A routine for the two hearings', b),
+    'Four stages: in the pause read every gap, underline time words such as اب، پہلے، شروع میں and grammar clues, and note the kind of answer; follow the order on the first hearing; fill and confirm on the second; then check each sentence\'s grammar.',
+    'Predict in the pause, follow in order, then check the grammar fits.',
+    '## A routine for the two hearings');
+}
+
+// 07 Worked example
+{
+  let b = '';
+  b += panel(30, 110, 840, 80, C.tealLight, C.tealDark) + T(54, 146, 'The extract: a calligrapher talks about learning and his favourite work', { size: 18, weight: 700 }) + T(54, 172, 'heard twice; three gaps follow its order', { size: 15, fill: C.muted });
+  const G = [
+    ['(a)', 'اس نے خطاطی اپنے ______ سے سیکھی۔', 'after اپنے, before سے: a person, probably a relative', 'دادا', 'grandfather', 'بارہ سال کی عمر میں', 'in that sentence, but does not fit'],
+    ['(b)', 'آج کل وہ روزانہ تقریباً ______ مشق کرتا ہے۔', 'an amount of time; آج کل means now'.replace('; آج کل means now', ', and the gap is about now'), 'دو گھنٹے', 'two hours', 'آدھا گھنٹہ', 'what he did at first'],
+    ['(c)', 'اسے شادی کے ______ پر نام لکھنا سب سے زیادہ پسند ہے۔', 'between کے and پر: an oblique noun'.replace('between کے and پر', 'a postposition either side'), 'دعوت ناموں', 'wedding invitations', '', ''],
+  ];
+  let y = 210;
+  G.forEach(([L, q, pred, ans, ag, trap, tn]) => {
+    b += panel(30, y, 840, 214);
+    b += T(54, y + 44, L, { size: 19, weight: 700 }) + U(846, y + 50, q, { size: 25 });
+    b += T(54, y + 82, 'Predict: ' + pred, { size: 15, fill: C.olive, weight: 600 });
+    const w = trap ? 410 : 820;
+    b += `<rect x="${trap ? 450 : 40}" y="${y + 102}" width="${w}" height="94" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + tick(trap ? 476 : 66, y + 154, true) + U(850, y + 156, ans, { size: 27 }) + T(trap ? 500 : 90, y + 152, ag, { size: 15, fill: C.tealDark, weight: 600 });
+    if (trap) b += `<rect x="40" y="${y + 102}" width="396" height="94" rx="10" fill="#fbf1ea" stroke="${C.rust}" stroke-width="2"/>` + tick(66, y + 140, false) + T(90, y + 138, tn, { size: 15, fill: C.rust, weight: 600 }) + U(420, y + 178, trap, { size: 25 });
+    y += 228;
+  });
+  b += panel(30, y, 840, 80, C.cream, C.mustard) + T(54, y + 34, 'L2 too: his reason, a feeling of sharing in people\'s happiness, could also be a gap.', { size: 16 }) + T(54, y + 60, 'Some gaps are about how a speaker feels or thinks, not only facts.', { size: 16, fill: C.muted });
+  add('07-worked-example',
+    SV(y + 108, 'Worked example: three gaps on a calligrapher', b),
+    'Three gaps on the calligraphy extract: (a) the gap before سے سیکھی takes a person, دادا, not بارہ سال کی عمر میں; (b) the gap about now takes دو گھنٹے, not آدھا گھنٹہ from the start; (c) the gap between کے and پر takes the oblique noun دعوت ناموں.',
+    'Predict the kind of word, then choose the detail that fits the time and grammar.',
+    '## Worked example');
+}
