@@ -116,7 +116,7 @@ Reminder: resistance at a point on a curve is V/I, not the slope.
 
 **Resistance from a point on a graph.** A diode has 0.30 A at 0.80 V. R = 0.80/0.30 = 2.7 Ω. That is its resistance at that point only.
 
-**Resistivity.** Copper cable of length 25 m and cross-sectional area 1.0 mm² (1.0 × 10⁻⁶ m²), with ρ = 1.7 × 10⁻⁸ Ω m (data supplied): R = 1.7 × 10⁻⁸ × 25 / 1.0 × 10⁻⁶ = 0.425 Ω.
+**Resistivity.** Copper cable of length 25 m and cross-sectional area 1.0 mm² (1.0 × 10⁻⁶ m²), with ρ = 1.7 × 10⁻⁸ Ω m (data supplied): R = 1.7 × 10⁻⁸ × 25 / (1.0 × 10⁻⁶) = 0.425 Ω.
 
 **Scaling.** If L doubles and d halves, A falls to a quarter, so R rises by 2 × 4 = 8 times.
 
@@ -174,7 +174,7 @@ Reminder: resistance at a point on a curve is V/I, not the slope.
 1. R = 12 / 0.040 = **300 Ω**.
 2. The current through a conductor is directly proportional to the p.d. across it, provided the temperature (and other physical conditions) stay constant.
 3. The current heats the filament; the metal ions vibrate more, collide more often with electrons, so resistance rises as p.d. increases and the graph flattens.
-4. A = π(0.5 × 10⁻³)² = 7.85 × 10⁻⁷ m². R = ρL/A = 5.5 × 10⁻⁷ × 1.0 / 7.85 × 10⁻⁷ = **0.70 Ω**.
+4. A = π(0.5 × 10⁻³)² = 7.85 × 10⁻⁷ m². R = ρL/A = 5.5 × 10⁻⁷ × 1.0 / (7.85 × 10⁻⁷) = **0.70 Ω**.
 5. The line averages out random error across several readings and a non-zero intercept (for example contact resistance) does not affect the gradient.
 6. The resistivity of a metal increases because of more lattice collisions. The resistivity of a semiconductor decreases because many more charge carriers are released.
 7. P = I²R = 2.5² × 8.0 = **50 W**.

@@ -70,7 +70,7 @@ The atom is a small nucleus of protons and neutrons (nucleons) with electrons ar
 ```
 charge = 3 × 1.60 × 10⁻¹⁹ = 4.80 × 10⁻¹⁹ C
 mass   = 27 × 1.67 × 10⁻²⁷ = 4.509 × 10⁻²⁶ kg
-specific charge = 4.80 × 10⁻¹⁹ / 4.509 × 10⁻²⁶ = 1.06 × 10⁷ C kg⁻¹
+specific charge = 4.80 × 10⁻¹⁹ / (4.509 × 10⁻²⁶) = 1.06 × 10⁷ C kg⁻¹
 ```
 
 <figure class="topic-figure">
@@ -115,7 +115,7 @@ Electromagnetic radiation travels as **photons**, each with energy E = hf = hc/�
 
 ```
 E = 0.511 MeV = 0.511 × 10⁶ × 1.60 × 10⁻¹⁹ = 8.18 × 10⁻¹⁴ J
-f = E/h = 8.18 × 10⁻¹⁴ / 6.63 × 10⁻³⁴ = 1.23 × 10²⁰ Hz
+f = E/h = 8.18 × 10⁻¹⁴ / (6.63 × 10⁻³⁴) = 1.23 × 10²⁰ Hz
 λ = c/f = 2.43 × 10⁻¹² m
 ```
 
@@ -210,10 +210,10 @@ Electromagnetic radiation above a **threshold frequency** f₀ releases electron
 **Worked example.** Light of wavelength 250 nm falls on a metal with ϕ = 4.30 eV. Find Ek(max), Vs and f₀.
 
 ```
-E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / 250 × 10⁻⁹ = 7.96 × 10⁻¹⁹ J = 4.97 eV
+E = hc/λ = (6.63 × 10⁻³⁴ × 3.00 × 10⁸) / (250 × 10⁻⁹) = 7.96 × 10⁻¹⁹ J = 4.97 eV
 Ek(max) = 4.97 − 4.30 = 0.67 eV = 1.08 × 10⁻¹⁹ J
 Vs = 0.67 V
-f₀ = ϕ/h = (4.30 × 1.60 × 10⁻¹⁹) / 6.63 × 10⁻³⁴ = 1.04 × 10¹⁵ Hz
+f₀ = ϕ/h = (4.30 × 1.60 × 10⁻¹⁹) / (6.63 × 10⁻³⁴) = 1.04 × 10¹⁵ Hz
 ```
 
 <figure class="topic-figure">
@@ -238,7 +238,7 @@ One **electronvolt** is the energy transferred when an electron moves through a 
 
 ```
 ΔE = 3.40 − 1.51 = 1.89 eV = 1.89 × 1.60 × 10⁻¹⁹ = 3.024 × 10⁻¹⁹ J
-λ = hc/ΔE = 1.989 × 10⁻²⁵ / 3.024 × 10⁻¹⁹ = 6.58 × 10⁻⁷ m (658 nm, red)
+λ = hc/ΔE = 1.989 × 10⁻²⁵ / (3.024 × 10⁻¹⁹) = 6.58 × 10⁻⁷ m (658 nm, red)
 ```
 
 <figure class="topic-figure">
@@ -255,7 +255,7 @@ The photoelectric effect shows electromagnetic waves have a particle nature. **E
 
 ```
 Ek = 150 eV = 2.40 × 10⁻¹⁷ J
-v = √(2Ek/m) = √(2 × 2.40 × 10⁻¹⁷ / 9.11 × 10⁻³¹) = 7.26 × 10⁶ m s⁻¹
+v = √(2Ek/m) = √(2 × 2.40 × 10⁻¹⁷ / (9.11 × 10⁻³¹)) = 7.26 × 10⁶ m s⁻¹
 λ = h/mv = 6.63 × 10⁻³⁴ / (9.11 × 10⁻³¹ × 7.26 × 10⁶) = 1.00 × 10⁻¹⁰ m
 ```
 

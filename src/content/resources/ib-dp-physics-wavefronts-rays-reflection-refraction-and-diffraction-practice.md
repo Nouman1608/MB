@@ -105,7 +105,7 @@ These questions cover the first half of sub-topic C.3 (Wave phenomena) in the IB
 **(b)** In water, sin C = 1.33 / 1.55 = 0.8581, so C = 59.1° [1]. Since 45° < 59.1°, there is no total internal reflection and part of the ray refracts out [1]. **[5]**
 *Examiner insight:* A "show that" question needs the critical angle value and the comparison written out. Quoting only the result of the comparison leaves a gap in the argument.
 
-**8.** The wavelength of the radio wave is λ = c / f = 3.00 × 10⁸ / 9.00 × 10⁵ = 333 m [1]. This is comparable to the size of the hill, so the wave diffracts strongly round it and the wavefronts bend into the shadow [1]. Visible light has a wavelength of about 5 × 10⁻⁷ m, far smaller than the hill [1], so it diffracts negligibly and the hill casts a sharp shadow [1]. **[4]**
+**8.** The wavelength of the radio wave is λ = c / f = 3.00 × 10⁸ / (9.00 × 10⁵) = 333 m [1]. This is comparable to the size of the hill, so the wave diffracts strongly round it and the wavefronts bend into the shadow [1]. Visible light has a wavelength of about 5 × 10⁻⁷ m, far smaller than the hill [1], so it diffracts negligibly and the hill casts a sharp shadow [1]. **[4]**
 *Examiner insight:* Compare the wavelength with the size of the obstacle using numbers. "Radio has a longer wavelength" alone does not say why the hill matters.
 
 **9.** Transmitted power = 8.0 − 0.32 − 0.28 [1] = **7.4 mW** [1]. The frequency is unchanged [1]. **[3]**

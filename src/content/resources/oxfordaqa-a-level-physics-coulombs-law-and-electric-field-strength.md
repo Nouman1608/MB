@@ -157,7 +157,7 @@ E = F / Q
 
 E is a vector that points the way a positive charge would be pushed. Its unit is N C⁻¹, which is equivalent to V m⁻¹. For a negative charge the force is opposite to E, so the force on −Q is −QE.
 
-Example: a +2.0 nC test charge feels 6.0 × 10⁻⁵ N, so E = 6.0 × 10⁻⁵ / 2.0 × 10⁻⁹ = **3.0 × 10⁴ N C⁻¹**.
+Example: a +2.0 nC test charge feels 6.0 × 10⁻⁵ N, so E = 6.0 × 10⁻⁵ / (2.0 × 10⁻⁹) = **3.0 × 10⁴ N C⁻¹**.
 
 ## Uniform field: E = V/d
 
@@ -185,7 +185,7 @@ E = V/d = 480 / 0.015 = 3.2 × 10⁴ V m⁻¹.
 
 For equilibrium, the electric force equals the weight: QE = mg.
 
-Q = mg/E = (1.6 × 10⁻¹⁵ × 9.81) / 3.2 × 10⁴ = **4.9 × 10⁻¹⁹ C**.
+Q = mg/E = (1.6 × 10⁻¹⁵ × 9.81) / (3.2 × 10⁴) = **4.9 × 10⁻¹⁹ C**.
 
 This is about 3.1 times e, so the droplet carries about three excess electrons. The force acts upwards, so the upper plate is positive and the droplet is negative.
 
@@ -219,8 +219,8 @@ A proton enters the gap between two horizontal plates at 6.0 × 10⁵ m s⁻¹, 
 
 1. E = 450 / 0.024 = 1.875 × 10⁴ V m⁻¹.
 2. F = eE = 1.60 × 10⁻¹⁹ × 1.875 × 10⁴ = 3.0 × 10⁻¹⁵ N, towards the negative plate.
-3. a = F/m = 3.0 × 10⁻¹⁵ / 1.67 × 10⁻²⁷ = 1.8 × 10¹² m s⁻².
-4. t = 0.045 / 6.0 × 10⁵ = 7.5 × 10⁻⁸ s.
+3. a = F/m = 3.0 × 10⁻¹⁵ / (1.67 × 10⁻²⁷) = 1.8 × 10¹² m s⁻².
+4. t = 0.045 / (6.0 × 10⁵) = 7.5 × 10⁻⁸ s.
 5. y = ½ × 1.796 × 10¹² × (7.5 × 10⁻⁸)² = **5.1 mm** towards the negative plate.
 6. v_y = at = 1.3 × 10⁵ m s⁻¹, so the angle is tan⁻¹(1.347 × 10⁵ / 6.0 × 10⁵) = **13°** to the original direction.
 

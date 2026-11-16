@@ -71,7 +71,7 @@ Mass lost per event: 0.0287 × 1.66 × 10⁻²⁷ = 4.76 × 10⁻²⁹ kg.
 
 Energy per event: E = mc² = 4.76 × 10⁻²⁹ × (3.00 × 10⁸)² = 4.29 × 10⁻¹² J.
 
-Events per second: 2.0 × 10²⁷ / 4.29 × 10⁻¹² = **4.7 × 10³⁸ s⁻¹**.
+Events per second: 2.0 × 10²⁷ / (4.29 × 10⁻¹²) = **4.7 × 10³⁸ s⁻¹**.
 
 Hydrogen used per second: 4 × 1.67 × 10⁻²⁷ × 4.66 × 10³⁸ = **3.1 × 10¹² kg s⁻¹**.
 
@@ -105,7 +105,7 @@ M = 0.60 × 1.99 × 10³⁰ = 1.19 × 10³⁰ kg.
 
 V = (4/3)πr³ = (4/3)π(8.7 × 10⁶)³ = 2.76 × 10²¹ m³.
 
-ρ = M/V = 1.19 × 10³⁰ / 2.76 × 10²¹ = **4.3 × 10⁸ kg m⁻³**.
+ρ = M/V = 1.19 × 10³⁰ / (2.76 × 10²¹) = **4.3 × 10⁸ kg m⁻³**.
 
 A 1.9 solar mass core (3.8 × 10³⁰ kg) is above the limit of 2.8 × 10³⁰ kg, so electron degeneracy pressure could not support it. It could not settle as a white dwarf.
 

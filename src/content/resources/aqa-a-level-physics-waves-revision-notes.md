@@ -214,14 +214,14 @@ Central maximum **wider** if λ increases or slit width decreases.
 ### Answers
 
 1. f = 1/0.020 = **50 Hz**.
-2. λ = 3.00 × 10⁸ / 98 × 10⁶ = **3.06 m**.
+2. λ = 3.00 × 10⁸ / (98 × 10⁶) = **3.06 m**.
 3. ⅓ cycle = **120°** = **2π/3 rad** (2.09 rad).
 4. **Light** and **a wave on a string** (transverse). Sound is longitudinal.
 5. λ/2 = **0.30 m**.
 6. f ∝ √T, √2.25 = 1.5, so f = **180 Hz**.
 7. λ = 2l/5 = 2.40/5 = **0.48 m**.
 8. w = (480 × 10⁻⁹ × 1.50)/(0.40 × 10⁻³) = **1.8 × 10⁻³ m** (1.8 mm).
-9. d/λ = 1.6 × 10⁻⁶ / 650 × 10⁻⁹ = 2.46, so **n = 2**.
+9. d/λ = 1.6 × 10⁻⁶ / (650 × 10⁻⁹) = 2.46, so **n = 2**.
 10. sin θ₂ = sin 50°/1.33 = 0.576, θ₂ = **35.2°**.
 11. sin θc = 1/1.60 = 0.625, θc = **38.7°**.
 12. Total internal reflection only happens when light meets a boundary with a medium of **lower** refractive index.

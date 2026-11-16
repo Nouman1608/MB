@@ -190,7 +190,7 @@ The SI unit is kg m⁻³. Remember 1 g cm⁻³ = 1000 kg m⁻³.
 **Worked example.** A cylinder has diameter 2.4 cm, length 5.0 cm and mass 0.0612 kg. Find its density.
 
 V = π × (0.012)² × 0.050 = 2.26 × 10⁻⁵ m³.
-ρ = 0.0612 / 2.26 × 10⁻⁵ = 2710 kg m⁻³ (3 s.f.).
+ρ = 0.0612 / (2.26 × 10⁻⁵) = 2710 kg m⁻³ (3 s.f.).
 
 For an irregular solid, find the volume from the rise in water level in a measuring cylinder.
 
@@ -240,7 +240,7 @@ When an object is wholly or partly immersed in a fluid, the upthrust equals the 
 
 Upthrust = 7.8 − 6.8 = 1.0 N.
 V = U / (ρg) = 1.0 / (1000 × 9.81) = 1.02 × 10⁻⁴ m³.
-Mass = 7.8 / 9.81 = 0.795 kg, so ρ = 0.795 / 1.02 × 10⁻⁴ = 7800 kg m⁻³.
+Mass = 7.8 / 9.81 = 0.795 kg, so ρ = 0.795 / (1.02 × 10⁻⁴) = 7800 kg m⁻³.
 
 **Worked example 2.** A wooden block of density 650 kg m⁻³ floats upright in water. What fraction of its height is below the surface?
 

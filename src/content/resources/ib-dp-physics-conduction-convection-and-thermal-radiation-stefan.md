@@ -199,7 +199,7 @@ Wien's displacement law links the peak wavelength to the temperature:
 
 **Worked example 7.** A star's spectrum peaks at 725 nm. Find its surface temperature.
 
-T = 2.9 × 10⁻³ / 725 × 10⁻⁹ = 4.0 × 10³ K
+T = 2.9 × 10⁻³ / (725 × 10⁻⁹) = 4.0 × 10³ K
 
 **Worked example 8 (combined).** The star in example 7 has a luminosity of 2.0 × 10²⁸ W. Find its radius and its luminosity in solar units.
 
@@ -207,7 +207,7 @@ A = L / σT⁴ = 2.0 × 10²⁸ / (5.67 × 10⁻⁸ × (4000)⁴) = 1.378 × 10�
 
 r = √(A / 4π) = 1.05 × 10¹⁰ m
 
-L/L⊙ = 2.0 × 10²⁸ / 3.83 × 10²⁶ = 52
+L/L⊙ = 2.0 × 10²⁸ / (3.83 × 10²⁶) = 52
 
 Wien's law supplies T from the spectrum, Stefan-Boltzmann turns T and L into an area, and the sphere formula turns the area into a radius. This chain, and the same chain run with b and d, is the usual pattern for extended questions.
 

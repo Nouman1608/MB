@@ -126,13 +126,13 @@ A best-fit line passes close to (7.0, 0.24) and (11.0, 1.88).
 **(c)** Incoming electrons eject inner-shell electrons from target atoms [1]. Outer electrons drop into the vacancies, emitting photons of fixed energy equal to the level difference, which depends on the metal [1]. **[5]**
 *Examiner insight:* the minimum wavelength is linked to the full energy of one electron; show that link before substituting.
 
-**5.** Photon energy = hc/λ = 1.989 × 10⁻²⁵/633 × 10⁻⁹ = 3.14 × 10⁻¹⁹ J [1]. Photons per second = P/E = 1.5 × 10⁻³/3.14 × 10⁻¹⁹ [1] = **4.8 × 10¹⁵ s⁻¹** [1] **[3]**
+**5.** Photon energy = hc/λ = 1.989 × 10⁻²⁵/(633 × 10⁻⁹) = 3.14 × 10⁻¹⁹ J [1]. Photons per second = P/E = 1.5 × 10⁻³/3.14 × 10⁻¹⁹ [1] = **4.8 × 10¹⁵ s⁻¹** [1] **[3]**
 *Examiner insight:* convert nanometres to metres and milliwatts to watts at the start; a slip of a factor of a thousand is easy to make.
 
-**6. (a)** ϕ = hc/λ₀ = 1.989 × 10⁻²⁵/520 × 10⁻⁹ = **3.83 × 10⁻¹⁹ J** [1] = 3.83 × 10⁻¹⁹/1.60 × 10⁻¹⁹ = **2.39 eV** [1]
+**6. (a)** ϕ = hc/λ₀ = 1.989 × 10⁻²⁵/(520 × 10⁻⁹) = **3.83 × 10⁻¹⁹ J** [1] = 3.83 × 10⁻¹⁹/(1.60 × 10⁻¹⁹) = **2.39 eV** [1]
 **(b)** Photon energy at 400 nm = 4.97 × 10⁻¹⁹ J [1]. Ek(max) = 4.97 × 10⁻¹⁹ - 3.83 × 10⁻¹⁹ = **1.15 × 10⁻¹⁹ J** [1]
-**(c)** V(s) = 1.15 × 10⁻¹⁹/1.60 × 10⁻¹⁹ = **0.72 V** [1]
-**(d)** v = √(2Ek/m) = √(2 × 1.15 × 10⁻¹⁹/9.11 × 10⁻³¹) = **5.0 × 10⁵ m s⁻¹** [1] **[6]**
+**(c)** V(s) = 1.15 × 10⁻¹⁹/(1.60 × 10⁻¹⁹) = **0.72 V** [1]
+**(d)** v = √(2Ek/m) = √(2 × 1.15 × 10⁻¹⁹/(9.11 × 10⁻³¹)) = **5.0 × 10⁵ m s⁻¹** [1] **[6]**
 *Examiner insight:* to avoid rounding drift in a chain of steps, carry an extra digit and round only the final answer.
 
 **7. (a)** The photocurrent increases (four times) because four times as many photons arrive per second, so more electrons are released per second [1]. Ek(max) is unchanged because each photon has the same energy, depending on frequency only [1].
@@ -155,8 +155,8 @@ A best-fit line passes close to (7.0, 0.24) and (11.0, 1.88).
 **(c)** Its wavelength is far too small compared with any gap, so no diffraction is observable [1] **[5]**
 *Examiner insight:* chain the reasoning in order: momentum, wavelength, angle. Saying the rings "change" without direction gains little.
 
-**11. (a)** E = hc/λ = 1.989 × 10⁻²⁵/0.20 × 10⁻⁹ = 9.9 × 10⁻¹⁶ J [1] = **6.2 keV** [1]
-**(b)** p = h/λ = 6.63 × 10⁻³⁴/0.20 × 10⁻⁹ = 3.3 × 10⁻²⁴ kg m s⁻¹ [1]. Ek = p²/2m = 6.0 × 10⁻¹⁸ J [1] = **38 eV** [1]
+**11. (a)** E = hc/λ = 1.989 × 10⁻²⁵/(0.20 × 10⁻⁹) = 9.9 × 10⁻¹⁶ J [1] = **6.2 keV** [1]
+**(b)** p = h/λ = 6.63 × 10⁻³⁴/(0.20 × 10⁻⁹) = 3.3 × 10⁻²⁴ kg m s⁻¹ [1]. Ek = p²/2m = 6.0 × 10⁻¹⁸ J [1] = **38 eV** [1]
 **(c)** For the same wavelength, the photon has much more energy than the electron, because photon energy is proportional to 1/λ while electron energy is proportional to 1/λ² [1].
 **(d)** Ek = 0.025 × 1.60 × 10⁻¹⁹ = 4.0 × 10⁻²¹ J, p = √(2 × 1.675 × 10⁻²⁷ × 4.0 × 10⁻²¹) = 3.66 × 10⁻²⁴ [1], λ = **1.8 × 10⁻¹⁰ m** [1] **[8]**
 *Examiner insight:* a comment usually earns credit when it uses numbers from parts (a) and (b), not a general statement about duality.

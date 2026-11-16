@@ -55,7 +55,7 @@ In text and tables, a slash separates rows: (0 −1 / 1 0) has top row 0, −1 a
 
 **Row times column.** Each entry of the answer is a row of the left matrix multiplied entry by entry with a column of the right matrix, then added.
 
-```
+```text
 ( a  b ) ( x )  =  ( ax + by )
 ( c  d ) ( y )     ( cx + dy )
 
@@ -81,7 +81,7 @@ Rules to remember:
 
 ## G24: Identity matrix
 
-```
+```text
 I = ( 1  0 )        MI = IM = M        I (x / y) = (x / y)
     ( 0  1 )
 ```
@@ -140,7 +140,7 @@ Rotations in this unit are about the origin. A 270° anticlockwise turn is the s
 
 **Worked reminder.** Matrix (0 −1 / −1 0) applied to the point (4, 5):
 
-```
+```text
 0×4 + (−1)×5   = −5
 (−1)×4 + 0×5   = −4        image (−5, −4)
 ```
@@ -184,7 +184,7 @@ The last two rows use the same two transformations in different orders and give 
 
 **Worked reminder.** Enlargement scale factor 2, then rotation 180°. Combined matrix:
 
-```
+```text
 ( −1   0 ) ( 2  0 )  =  ( −2   0 )
 (  0  −1 ) ( 0  2 )     (  0  −2 )
 ```

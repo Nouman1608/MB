@@ -210,9 +210,9 @@ Answer: **17.7%**. Cross-check: 20 days is 2.5 half-lives, and (½)^2.5 gives th
 ```
 (a) T½ = 6.0 × 3600 = 21 600 s
     λ = ln2 / 21 600 = 3.21 × 10⁻⁵ s⁻¹
-    N = A / λ = 3.0 × 10⁶ / 3.21 × 10⁻⁵ = 9.35 × 10¹⁰ nuclei
+    N = A / λ = 3.0 × 10⁶ / (3.21 × 10⁻⁵) = 9.35 × 10¹⁰ nuclei
 (b) A / A₀ = 0.10 = e^(−λt)
-    t = ln(10) / λ = 2.303 / 3.21 × 10⁻⁵ = 7.18 × 10⁴ s = 19.9 h
+    t = ln(10) / λ = 2.303 / (3.21 × 10⁻⁵) = 7.18 × 10⁴ s = 19.9 h
 ```
 
 Answers: **9.35 × 10¹⁰ nuclei** and **19.9 h**. That is 3.32 half-lives, so the integer method cannot give it.

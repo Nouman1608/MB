@@ -68,14 +68,14 @@ Properties you must know:
 
 Let
 
-```
+```text
 A = | 2  -1 |      B = | 1   5 |
     | 3   4 |          | 0  -2 |
 ```
 
 Find 2A − B, AB and BA.
 
-```
+```text
 2A − B = | 4-1   -2-5 |  = | 3  -7 |
          | 6-0    8+2 |    | 6  10 |
 
@@ -92,7 +92,7 @@ AB ≠ BA, which shows non-commutativity.
 
 A café records sales of coffee, tea and cake over two weeks. Prices are 2.50, 1.80 and 3.20 dollars.
 
-```
+```text
           coffee tea cake            | 2.50 |
 Q = wk1 |  120   80   45 |      p =  | 1.80 |
     wk2 |  150   60   50 |           | 3.20 |
@@ -115,7 +115,7 @@ Always check that the labels line up: the columns of Q (products) must match the
 
 For a 2 × 2 matrix
 
-```
+```text
 A = | a  b |      det A = |A| = ad − bc
     | c  d |
 
@@ -133,7 +133,7 @@ Find the inverse of C, where the first row is (4, −2) and the second row is (3
 
 det C = 4(1) − (−2)(3) = 4 + 6 = 10
 
-```
+```text
 C⁻¹ = (1/10) | 1   2 |  = | 0.1   0.2 |
              | -3  4 |    | -0.3  0.4 |
 ```
@@ -166,7 +166,7 @@ A cinema charges one price for an adult, one for a child and one for a senior. T
 
 Let a, c and s be the prices.
 
-```
+```text
 | 2  3  1 | | a |   | 54 |
 | 1  2  2 | | c | = | 44 |
 | 3  1  1 | | s |   | 52 |
@@ -190,7 +190,7 @@ Encode "MATH" with E, where E has rows (3, 1) and (5, 2).
 
 M = 13, A = 1, T = 20, H = 8, so the columns are (13, 1) and (20, 8).
 
-```
+```text
 E | 13 | = | 3(13)+1(1) | = | 40 |      E | 20 | = | 68  |
   |  1 |   | 5(13)+2(1) |   | 67 |        |  8 |   | 116 |
 ```
@@ -262,12 +262,12 @@ and Dⁿ just raises each diagonal element to the power n. The syllabus restrict
 
 Using worked example 6, find an expression for Mⁿ.
 
-```
+```text
 P = | 1   1 |     D = | 5  0 |     P⁻¹ = (1/−3) | -2  -1 |  = (1/3) | 2   1 |
     | 1  -2 |         | 0  2 |                  | -1   1 |          | 1  -1 |
 ```
 
-```
+```text
 Mⁿ = PDⁿP⁻¹ = (1/3) | 2·5ⁿ + 2ⁿ      5ⁿ − 2ⁿ   |
                     | 2·5ⁿ − 2·2ⁿ    5ⁿ + 2·2ⁿ |
 ```
@@ -280,7 +280,7 @@ Each year 10% of the people in Aville move to Bton and 20% of the people in Bton
 
 Write the populations as a column (a, b). Then xₙ₊₁ = Txₙ, where
 
-```
+```text
 T = | 0.9  0.2 |      (column 1: from Aville, column 2: from Bton)
     | 0.1  0.8 |
 ```

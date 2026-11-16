@@ -126,11 +126,11 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 **(b)** **Kc = [C₂H₄][H₂] / [C₂H₆]** [1]
 *Examiner insight:* Every power must match the balancing number; [HCl] written without the power 4 makes the expression wrong and loses the mark.
 
-**7.** Kc = [NO]²[Br₂] / [NOBr]² = (0.0180² × 0.00900) / 0.0640² [1] = 2.916 × 10⁻⁶ / 4.096 × 10⁻³ = **7.12 × 10⁻⁴** [1]. **[2]**
+**7.** Kc = [NO]²[Br₂] / [NOBr]² = (0.0180² × 0.00900) / 0.0640² [1] = 2.916 × 10⁻⁶ / (4.096 × 10⁻³) = **7.12 × 10⁻⁴** [1]. **[2]**
 *Examiner insight:* Show the substituted expression first, so your method is visible to the examiner even if the arithmetic slips.
 
 **8.** [Cl₂]² = Kc × [HCl]⁴[O₂] / [H₂O]² [1]
-= 0.400 × 0.200⁴ × 0.100 / 0.0500² = 0.400 × 1.60 × 10⁻⁴ / 2.50 × 10⁻³ = 0.0256 [1]
+= 0.400 × 0.200⁴ × 0.100 / 0.0500² = 0.400 × 1.60 × 10⁻⁴ / (2.50 × 10⁻³) = 0.0256 [1]
 [Cl₂] = √0.0256 = **0.160 mol dm⁻³** [1] **[3]**
 *Examiner insight:* Stopping at 0.0256 gives [Cl₂]², not [Cl₂]; the final mark needs the square root and the unit of concentration.
 
@@ -140,7 +140,7 @@ CH₃CH₂CH₂CH₃(g) ⇌ (CH₃)₃CH(g)
 **10. (a)** The forward reaction is exothermic, so the equilibrium yield of ethanol is greater at low temperature [1]. But at a low temperature the rate would be too slow [1]. A moderate temperature is a compromise that gives an acceptable yield at an acceptable rate; a very high temperature would cut the yield too much [1].
 **(b)** There are 2 gas moles on the left and 1 on the right, so a higher pressure shifts the position right and raises the yield (it also increases the rate) [1]. Very high pressures need expensive, thick-walled plant and use a lot of energy for compression [1]. They also increase the safety risk, so a compromise pressure is chosen [1].
 **(c)** Unreacted ethene (and steam) is separated from the ethanol and recycled through the reactor [1].
-**(d)** Kc = [C₂H₅OH] / ([C₂H₄][H₂O]) = 0.0120 / (0.0800 × 0.0950) [1] = 0.0120 / 7.60 × 10⁻³ = **1.58** [1]
+**(d)** Kc = [C₂H₅OH] / ([C₂H₄][H₂O]) = 0.0120 / (0.0800 × 0.0950) [1] = 0.0120 / (7.60 × 10⁻³) = **1.58** [1]
 **(e)** Kc is close to 1, so neither side is strongly favoured; reactants and product are present in comparable amounts [1].
 *Examiner insight:* In compromise answers, the yield argument and the rate (or cost and safety) argument are separate marking points, so state both explicitly rather than writing "it is a compromise" alone.
 

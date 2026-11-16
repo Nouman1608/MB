@@ -119,7 +119,7 @@ Data: ε₀ = 8.85 × 10⁻¹² F m⁻¹, so 1/(4πε₀) = 8.99 × 10⁹ N m² 
 **(d)** Area = ½(9.0 × 10³ + 1.44 × 10³) × 0.30 = **1.6 × 10³ V** [1]. Too large, because the curve lies below the straight line joining its end points [1]. **[7]**
 *Examiner insight:* Link the curve's shape to the direction of the error; "the graph is curved" alone is weaker.
 
-**7. (a)** A = 0.12² = 0.0144 m² [1]. C = ε₀A/d = 8.85 × 10⁻¹² × 0.0144 / 0.80 × 10⁻³ = **1.6 × 10⁻¹⁰ F** [1]
+**7. (a)** A = 0.12² = 0.0144 m² [1]. C = ε₀A/d = 8.85 × 10⁻¹² × 0.0144 / (0.80 × 10⁻³) = **1.6 × 10⁻¹⁰ F** [1]
 **(b)** C = 2.3 × 1.593 × 10⁻¹⁰ = **3.7 × 10⁻¹⁰ F** [1]. Q = CV = 3.66 × 10⁻¹⁰ × 15 [1] = **5.5 × 10⁻⁹ C** [1]
 **(c)** The ratio of the material's permittivity to ε₀, equal to the factor by which the capacitance rises when the material fills the gap [1]. **[6]**
 *Examiner insight:* Convert 0.80 mm to metres before substituting.
@@ -128,19 +128,19 @@ Data: ε₀ = 8.85 × 10⁻¹² F m⁻¹, so 1/(4πε₀) = 8.99 × 10⁹ N m² 
 *Examiner insight:* Keep the order: rotation, opposing field, smaller pd, larger C.
 
 **9. (a)** E = ½CV² = ½ × 2200 × 10⁻⁶ × 12² [1] = **0.16 J** (0.158 J) [1]
-**(b)** V = Q/C = 1.5 × 10⁻³ / 680 × 10⁻⁶ = **2.2 V** [1]. E = ½QV = ½ × 1.5 × 10⁻³ × 2.21 = **1.7 × 10⁻³ J** [1]
+**(b)** V = Q/C = 1.5 × 10⁻³ / (680 × 10⁻⁶) = **2.2 V** [1]. E = ½QV = ½ × 1.5 × 10⁻³ × 2.21 = **1.7 × 10⁻³ J** [1]
 **(c)** The energy is the area under the Q against V line (a triangle, ½QV) [1]. **[5]**
 *Examiner insight:* Choose the energy form that uses the data given.
 
 **10. (a)** Q = CV = 150 × 10⁻¹² × 50 = **7.5 × 10⁻⁹ C** [1]. E = ½CV² = ½ × 150 × 10⁻¹² × 50² = **1.9 × 10⁻⁷ J** [1]
-**(b)** C = 4.0 × 150 = **600 pF** [1]. V = Q/C = 7.5 × 10⁻⁹ / 600 × 10⁻¹² = **12.5 V** [1]. E = Q²/2C = (7.5 × 10⁻⁹)² / (2 × 600 × 10⁻¹²) = **4.7 × 10⁻⁸ J** [1]
+**(b)** C = 4.0 × 150 = **600 pF** [1]. V = Q/C = 7.5 × 10⁻⁹ / (600 × 10⁻¹²) = **12.5 V** [1]. E = Q²/2C = (7.5 × 10⁻⁹)² / (2 × 600 × 10⁻¹²) = **4.7 × 10⁻⁸ J** [1]
 **(c)** The stored energy falls by a factor of 4.0 (1.4 × 10⁻⁷ J lost); the capacitor does work pulling the slab into the gap [1]
 **(d)** V stays 50 V, so Q = 600 × 10⁻¹² × 50 = **3.0 × 10⁻⁸ C** [1]. E = ½ × 600 × 10⁻¹² × 50² = **7.5 × 10⁻⁷ J** [1]. The supply moves the extra charge (2.25 × 10⁻⁸ C) onto the plates [1]. **[9]**
 *Examiner insight:* Say which quantity is held fixed: Q when isolated, V when connected.
 
 **11. (a)** C = ε₀A/d = 8.85 × 10⁻¹² × 0.015 / 6.0 × 10⁻³ [1] = **2.2 × 10⁻¹¹ F** [1]
 **(b)** Q = CV = 2.21 × 10⁻¹¹ × 900 = **2.0 × 10⁻⁸ C** [1]. E = ½CV² = ½ × 2.21 × 10⁻¹¹ × 900² [1] = **9.0 × 10⁻⁶ J** [1]
-**(c)** E = V/d = 900 / 6.0 × 10⁻³ = **1.5 × 10⁵ V m⁻¹** [1]
+**(c)** E = V/d = 900 / (6.0 × 10⁻³) = **1.5 × 10⁵ V m⁻¹** [1]
 **(d)** ΔV = Ex = 1.5 × 10⁵ × 2.0 × 10⁻³ = 300 V, so KE = eΔV = **4.8 × 10⁻¹⁷ J** [1]. v = √(2 × 4.8 × 10⁻¹⁷ / 9.11 × 10⁻³¹) [1] = **1.0 × 10⁷ m s⁻¹** [1]. **[9]**
 *Examiner insight:* Linking (c) and (d) through ΔV = Ex avoids finding force and acceleration.
 

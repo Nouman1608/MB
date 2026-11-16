@@ -116,7 +116,7 @@ Course pages: [OCR A Level Physics hub](/boards/ocr/a-level/physics/) | [checkli
 
 **6. (a)** Mass of nucleus ≈ A × u [1]. Volume = (4/3)πR³ = (4/3)π r₀³A [1]. A cancels in mass/volume, giving 3u / (4π r₀³), which is constant [1] **[3]**
 **(b)** ρ = 3 × 1.66 × 10⁻²⁷ / (4π × (1.25 × 10⁻¹⁵)³) [1] = **2.0 × 10¹⁷ kg m⁻³** [1] **[2]**
-**(c)** Hydrogen atom density = 1.67 × 10⁻²⁷ / ((4/3)π(5.3 × 10⁻¹¹)³) = 2.7 × 10³ kg m⁻³ [1]. Ratio = 2.0 × 10¹⁷ / 2.7 × 10³ = **7.6 × 10¹³** [1] **[2]**
+**(c)** Hydrogen atom density = 1.67 × 10⁻²⁷ / ((4/3)π(5.3 × 10⁻¹¹)³) = 2.7 × 10³ kg m⁻³ [1]. Ratio = 2.0 × 10¹⁷ / (2.7 × 10³) = **7.6 × 10¹³** [1] **[2]**
 *Examiner insight:* A "show that" answer needs the cancellation written out. Stating that density is constant without the algebra is a conclusion rather than a demonstration.
 
 **7. (a)** The positron [1]. Same mass [1]. Opposite charge, +e rather than −e [1] **[3]**

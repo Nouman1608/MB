@@ -169,8 +169,8 @@ Malus's law is not expected, so you do not need to calculate transmitted intensi
 3. 0.45/0.60 = 0.75 cycle: **270°, or 3π/2 rad (4.71 rad)**.
 4. 6.0/16 = 0.375 cycle: **135°, or 3π/4 rad (2.36 rad)**.
 5. d = 1540 × 68 × 10⁻⁶ / 2 = **0.052 m (5.2 cm)**.
-6. λ = c/f = 3.00 × 10⁸ / 2.4 × 10⁹ = **0.125 m**.
-7. t = d/c = 3.9 × 10⁸ / 3.00 × 10⁸ = **1.3 s**.
+6. λ = c/f = 3.00 × 10⁸ / (2.4 × 10⁹) = **0.125 m**.
+7. t = d/c = 3.9 × 10⁸ / (3.00 × 10⁸) = **1.3 s**.
 8. **Microwaves and X-rays** (transverse). Sound and ultrasound are longitudinal.
 9. **Parallel** to the direction of travel (along the same line).
 10. **Horizontal**, parallel to the transmitter. At 90° the signal is close to zero, because the rod is at right angles to the electric field oscillation.

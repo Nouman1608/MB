@@ -125,7 +125,7 @@ Determine the half-life of the source, using at least two different intervals, a
 *Examiner insight:* Include the background measurement and repeated halving times. Number the steps.
 
 **9.** **(a)** λ = ln2 / T½ = 0.693 / 15 = **0.0462 h⁻¹** [1]. In seconds: 0.0462 / 3600 = **1.28 × 10⁻⁵ s⁻¹** [1].
-**(b)** N = A / λ [1] = 5.0 × 10⁸ / 1.28 × 10⁻⁵ = **3.9 × 10¹³** [1].
+**(b)** N = A / λ [1] = 5.0 × 10⁸ / (1.28 × 10⁻⁵) = **3.9 × 10¹³** [1].
 **(c)** A = A₀ e^(−λt) = 5.0 × 10⁸ × e^(−0.0462 × 40) [1] = **7.9 × 10⁷ Bq** [1]. **[6]**
 *Examiner insight:* Use λ in s⁻¹ when A is in Bq and N is needed. Check part (c): 40 h is 2.7 half-lives, so about 16% remains.
 
@@ -140,7 +140,7 @@ Determine the half-life of the source, using at least two different intervals, a
 **(d)** 0.050 = e^(−λt), so t = ln(20) / λ [1] = 3.00 / 0.0783 = **38 h** [1]. **[7]**
 *Examiner insight:* Here 20 h is 2.3 half-lives, so the whole-number method fails. Keep extra figures in λ until the end.
 
-**12.** **(a)** λ = ln2 / 5730 = 1.21 × 10⁻⁴ year⁻¹ [1]. t = ln(1/0.37) / λ [1] = 0.994 / 1.21 × 10⁻⁴ = **8.2 × 10³ years** [1].
+**12.** **(a)** λ = ln2 / 5730 = 1.21 × 10⁻⁴ year⁻¹ [1]. t = ln(1/0.37) / λ [1] = 0.994 / (1.21 × 10⁻⁴) = **8.2 × 10³ years** [1].
 **(b)** λt = 1.21 × 10⁻⁴ × 1.0 × 10⁶ = 121, so the fraction is e^(−121) [1], about 10⁻⁵³, which is effectively none, so nothing measurable remains [1].
 **(c)** Its half-life must be comparable to the age of the rock (millions of years or longer) [1]. **[6]**
 *Examiner insight:* Write the fraction in (b) as a power of ten, and give the age in years.

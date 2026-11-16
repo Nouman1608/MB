@@ -143,8 +143,8 @@ Glass to air does the reverse, and the ray turns away from the normal.
 Light of frequency 5.50 × 10¹⁴ Hz travels in air at 3.00 × 10⁸ m/s. Its speed in a glass is 2.00 × 10⁸ m/s. Find its wavelength in each.
 
 ```
-In air:   λ = v / f = 3.00 × 10⁸ / 5.50 × 10¹⁴ = 5.45 × 10⁻⁷ m (545 nm)
-In glass: λ = 2.00 × 10⁸ / 5.50 × 10¹⁴ = 3.64 × 10⁻⁷ m (364 nm)
+In air:   λ = v / f = 3.00 × 10⁸ / (5.50 × 10¹⁴) = 5.45 × 10⁻⁷ m (545 nm)
+In glass: λ = 2.00 × 10⁸ / (5.50 × 10¹⁴) = 3.64 × 10⁻⁷ m (364 nm)
 ```
 
 The frequency is the same in both. The wavelength fell to two-thirds because the speed did.
@@ -190,7 +190,7 @@ v = c / n = 3.00 × 10⁸ / 1.55 = 1.94 × 10⁸ m/s
 Light travels at 2.05 × 10⁸ m/s in a clear oil.
 
 ```
-n = c / v = 3.00 × 10⁸ / 2.05 × 10⁸ = 1.46
+n = c / v = 3.00 × 10⁸ / (2.05 × 10⁸) = 1.46
 ```
 
 ## 3.3.5 e: Snell's relationship and the required practical
@@ -298,7 +298,7 @@ A fibre has n = 1.48 and length 2.0 km.
 
 ```
 v = c / n = 3.00 × 10⁸ / 1.48 = 2.03 × 10⁸ m/s
-t = s / v = 2000 / 2.03 × 10⁸ = 9.9 × 10⁻⁶ s
+t = s / v = 2000 / (2.03 × 10⁸) = 9.9 × 10⁻⁶ s
 ```
 
 <figure class="topic-figure">

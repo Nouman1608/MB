@@ -178,7 +178,7 @@ A white dwarf with L = 1.2 × 10⁻³ L☉ and T = 12 000 K: L = 4.60 × 10²³ 
 5. White dwarf: the luminosity is far below the Sun's (about 10⁻³ L☉) while the temperature is higher than the Sun's, so the star must be small.
 6. Δm = 3 × 4.002603 − 12.000000 = 0.007809 u; E = 0.007809 × 931.5 = 7.27 MeV.
 7. R ∝ 1/T² at fixed L, so the radius becomes 4 times larger.
-8. T = 2.9 × 10⁻³ / 4.8 × 10⁻⁷ = 6.0 × 10³ K.
+8. T = 2.9 × 10⁻³ / (4.8 × 10⁻⁷) = 6.0 × 10³ K.
 9. A larger mass means a hotter core and a much higher luminosity, so fuel is used up far faster.
 10. Fusing iron would absorb energy instead of releasing it, so the core cannot be held up by fusion.
 11. Upper right, in the red giant or super giant region.

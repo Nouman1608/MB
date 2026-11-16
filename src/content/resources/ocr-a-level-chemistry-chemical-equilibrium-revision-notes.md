@@ -230,8 +230,8 @@ Only a qualitative estimate is required.
 6. Yellow to orange.
 7. Cooling shifts it left, so the reverse is exothermic and the forward reaction is **endothermic**.
 8. Kc = [CO₂]² / ([CO]²[O₂]).
-9. Kc = 0.120 / (0.0200 × 0.0150) = 0.120 / 3.00 × 10⁻⁴ = **400**.
-10. [S₂] = Kc × [H₂S]² / [H₂]² = 2.00 × 10⁻⁴ × 0.0100 / 1.00 × 10⁻⁴ = **0.0200 mol dm⁻³**.
+9. Kc = 0.120 / (0.0200 × 0.0150) = 0.120 / (3.00 × 10⁻⁴) = **400**.
+10. [S₂] = Kc × [H₂S]² / [H₂]² = 2.00 × 10⁻⁴ × 0.0100 / (1.00 × 10⁻⁴) = **0.0200 mol dm⁻³**.
 11. Far to the right: almost all products.
 12. The rate would be too slow, so too little ammonia would be made per hour.
 

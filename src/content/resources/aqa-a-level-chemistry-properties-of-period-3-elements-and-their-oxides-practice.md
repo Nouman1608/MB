@@ -215,7 +215,7 @@ mass = 0.0600 × 40.0 = **2.40 g** [1]
 
 **12. (a)** 60.0 / 1000 × 0.100 = 6.00 × 10⁻³ mol [1]
 **(b)** 6.00 × 10⁻³ / 2 = 3.00 × 10⁻³ mol [1]
-**(c)** Mr = 0.240 / 3.00 × 10⁻³ = 80.0 [1]; this matches SO₃ (Mr 80.1), not SO₂ (Mr 64.1), so the oxide is
+**(c)** Mr = 0.240 / (3.00 × 10⁻³) = 80.0 [1]; this matches SO₃ (Mr 80.1), not SO₂ (Mr 64.1), so the oxide is
 **SO₃** [1]
 **(d)** `H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O` [1]
 **(e)** H₂SO₃ (from SO₂) has the higher pH [1]; it is a weak acid that only partly dissociates, so it releases

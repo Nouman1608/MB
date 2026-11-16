@@ -164,7 +164,7 @@ Data: c = 3.00 × 10⁸ m s⁻¹; G = 6.67 × 10⁻¹¹ N m² kg⁻²; σ = 5.67
 **11. (a)** z = (410.9 − 393.4)/393.4 = **0.0445** [1]
 **(b)** v = zc = **1.33 × 10⁷ m s⁻¹** [1]
 **(c)** d = v/H = 13 300 km s⁻¹/68 km s⁻¹ Mpc⁻¹ [1] = **196 Mpc** [1]
-**(d)** H = 68 × 10³/3.08 × 10²² = 2.21 × 10⁻¹⁸ s⁻¹ [1]; 1/H = 4.53 × 10¹⁷ s [1] = **1.4 × 10¹⁰ years** [1]
+**(d)** H = 68 × 10³/(3.08 × 10²²) = 2.21 × 10⁻¹⁸ s⁻¹ [1]; 1/H = 4.53 × 10¹⁷ s [1] = **1.4 × 10¹⁰ years** [1]
 **(e)** Cosmological microwave background radiation [1]; relative abundance of hydrogen and helium [1].
 *Examiner insight:* In (c), match units: v in km s⁻¹ with H in km s⁻¹ Mpc⁻¹ gives Mpc directly.
 

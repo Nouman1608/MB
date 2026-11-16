@@ -181,7 +181,7 @@ Evolution tracks: Sun-like star, main sequence to red giant region to white dwar
 7. Equal to the speed of light, 3.00 × 10⁸ m s⁻¹.
 8. Bottom left (white dwarfs).
 9. Upper right, in the red giant region. Its surface is cool, so it is luminous because its surface area is very large.
-10. V = (4/3)π(1.3 × 10⁴)³ = 9.20 × 10¹² m³; ρ = 2.8 × 10³⁰ / 9.20 × 10¹² = **3.0 × 10¹⁷ kg m⁻³**.
+10. V = (4/3)π(1.3 × 10⁴)³ = 9.20 × 10¹² m³; ρ = 2.8 × 10³⁰ / (9.20 × 10¹²) = **3.0 × 10¹⁷ kg m⁻³**.
 
 ## Where marks are usually lost
 

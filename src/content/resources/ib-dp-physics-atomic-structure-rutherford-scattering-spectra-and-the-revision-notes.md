@@ -199,11 +199,11 @@ Method in steps:
 1. N = 127 − 53 = **74** neutrons.
 2. The positive charge is concentrated in a very small, massive region; a spread-out charge could not reverse the particle.
 3. The gas absorbs photons whose energies match its own level gaps, which are the same gaps that give its emission lines.
-4. E = 2.5 × 1.60 × 10⁻¹⁹ = 4.0 × 10⁻¹⁹ J. f = 4.0 × 10⁻¹⁹ / 6.63 × 10⁻³⁴ = **6.03 × 10¹⁴ Hz**. λ = 3.00 × 10⁸ / 6.03 × 10¹⁴ = **4.97 × 10⁻⁷ m**.
+4. E = 2.5 × 1.60 × 10⁻¹⁹ = 4.0 × 10⁻¹⁹ J. f = 4.0 × 10⁻¹⁹ / (6.63 × 10⁻³⁴) = **6.03 × 10¹⁴ Hz**. λ = 3.00 × 10⁸ / (6.03 × 10¹⁴) = **4.97 × 10⁻⁷ m**.
 5. R = 1.2 × 343^(1/3) = 1.2 × 7 = **8.4 fm**.
 6. A = (7.2 / 1.2)³ = 6³ = **216**.
 7. d = 2 × 50 × 1.44 / 4.0 = **36 fm** (3.6 × 10⁻¹⁴ m).
-8. ΔE = 13.6 (1/4 − 1/36) = 3.02 eV = 4.84 × 10⁻¹⁹ J. λ = hc / ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 4.84 × 10⁻¹⁹ = **4.11 × 10⁻⁷ m** (411 nm).
+8. ΔE = 13.6 (1/4 − 1/36) = 3.02 eV = 4.84 × 10⁻¹⁹ J. λ = hc / ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (4.84 × 10⁻¹⁹) = **4.11 × 10⁻⁷ m** (411 nm).
 9. n² = 13.6 / 0.85 = 16, so **n = 4**.
 10. L = nh / 2π = 3 × 6.63 × 10⁻³⁴ / 2π = **3.17 × 10⁻³⁴ J s**.
 

@@ -109,7 +109,7 @@ Scaling shortcuts:
 - r × 3 and T × 0.5: L × 9 × 1/16 = 0.5625.
 - A cool star can still be very luminous if its radius is very large.
 
-Worked reminder: peak at 910 nm gives T = 2.90 × 10⁻³ / 910 × 10⁻⁹ = 3190 K (keep the unrounded value until the last step). With L = 3.0 × 10²⁹ W, 4πσT⁴ = 7.35 × 10⁷ W m⁻², so r² = 4.08 × 10²¹ m² and r = 6.39 × 10¹⁰ m.
+Worked reminder: peak at 910 nm gives T = 2.90 × 10⁻³ / (910 × 10⁻⁹) = 3190 K (keep the unrounded value until the last step). With L = 3.0 × 10²⁹ W, 4πσT⁴ = 7.35 × 10⁷ W m⁻², so r² = 4.08 × 10²¹ m² and r = 6.39 × 10¹⁰ m.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/a-physics-astronomy-and-cosmology--03-aphy-astro-blackbody.webp" width="900" height="980" alt="Planck curves for 4800 K, 5800 K and 7000 K. Hotter stars are higher at every wavelength and peak at shorter wavelengths (604, 500, 414 nm from Wien). Area under each curve scales as T^4 (Stefan)." loading="lazy">
@@ -119,7 +119,7 @@ Worked reminder: peak at 910 nm gives T = 2.90 × 10⁻³ / 910 × 10⁻⁹ = 31
 
 ## More worked reminders
 
-Photon from a transition: levels −5.4 eV and −2.0 eV. ΔE = 3.4 eV = 5.44 × 10⁻¹⁹ J. λ = hc/ΔE = 1.989 × 10⁻²⁵ / 5.44 × 10⁻¹⁹ = 3.66 × 10⁻⁷ m, which is 366 nm. The frequency is f = ΔE/h = 8.2 × 10¹⁴ Hz.
+Photon from a transition: levels −5.4 eV and −2.0 eV. ΔE = 3.4 eV = 5.44 × 10⁻¹⁹ J. λ = hc/ΔE = 1.989 × 10⁻²⁵ / (5.44 × 10⁻¹⁹) = 3.66 × 10⁻⁷ m, which is 366 nm. The frequency is f = ΔE/h = 8.2 × 10¹⁴ Hz.
 
 Unknown wavelength from a grating: 200 lines per mm, first order at 7.0°. d = 5.00 × 10⁻⁶ m, so λ = 5.00 × 10⁻⁶ × sin 7.0° = 6.09 × 10⁻⁷ m, which is 609 nm.
 
@@ -161,10 +161,10 @@ Temperature ratio: star P peaks at 400 nm and star Q at 1200 nm. Q is three time
 ### Answers
 
 1. Zero.
-2. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / 4.1 × 10⁻¹⁹ = 4.85 × 10⁻⁷ m, which is 485 nm. f = ΔE/h = 6.2 × 10¹⁴ Hz.
+2. λ = hc/ΔE = 6.63 × 10⁻³⁴ × 3.00 × 10⁸ / (4.1 × 10⁻¹⁹) = 4.85 × 10⁻⁷ m, which is 485 nm. f = ΔE/h = 6.2 × 10¹⁴ Hz.
 3. 4 + 3 + 2 + 1 = 10.
-4. d = 2.00 × 10⁻⁶ m. sin θ = 450 × 10⁻⁹ / 2.00 × 10⁻⁶ = 0.225, so θ = 13.0°.
-5. T = 2.90 × 10⁻³ / 1.0 × 10⁻⁶ = 2900 K.
+4. d = 2.00 × 10⁻⁶ m. sin θ = 450 × 10⁻⁹ / (2.00 × 10⁻⁶) = 0.225, so θ = 13.0°.
+5. T = 2.90 × 10⁻³ / (1.0 × 10⁻⁶) = 2900 K.
 6. λmax = 2.90 × 10⁻³ / 9000 = 3.2 × 10⁻⁷ m, which is 322 nm (ultraviolet).
 7. L ∝ T⁴, so L increases by 2⁴ = 16.
 8. L ∝ r², so the larger star is 9 times more luminous.

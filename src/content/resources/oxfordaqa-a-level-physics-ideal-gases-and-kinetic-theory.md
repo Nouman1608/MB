@@ -204,7 +204,7 @@ c_rms = √(2.166 × 10⁵) = **465 m s⁻¹**, which is larger than the mean sp
 
 **Worked example 6.** A 0.040 m³ container holds 1.5 × 10²⁴ nitrogen molecules at 1.5 × 10⁵ Pa. The molar mass of nitrogen is 0.0280 kg mol⁻¹. Find c_rms and the temperature.
 
-m = 0.0280 / 6.02 × 10²³ = 4.65 × 10⁻²⁶ kg, so (c_rms)² = 3pV / Nm = (3 × 1.5 × 10⁵ × 0.040) / (1.5 × 10²⁴ × 4.65 × 10⁻²⁶) = 18 000 / 0.0698 = 2.58 × 10⁵ m² s⁻².
+m = 0.0280 / (6.02 × 10²³) = 4.65 × 10⁻²⁶ kg, so (c_rms)² = 3pV / Nm = (3 × 1.5 × 10⁵ × 0.040) / (1.5 × 10²⁴ × 4.65 × 10⁻²⁶) = 18 000 / 0.0698 = 2.58 × 10⁵ m² s⁻².
 
 c_rms = **508 m s⁻¹**.
 
@@ -230,7 +230,7 @@ An ideal gas has no intermolecular forces except during collisions, so it has no
 
 Kinetic energy = 3kT/2 = 1.5 × 1.38 × 10⁻²³ × 450 = **9.32 × 10⁻²¹ J**.
 
-With m = 0.0200 / 6.02 × 10²³ = 3.32 × 10⁻²⁶ kg, c_rms = √(2 × 9.315 × 10⁻²¹ / 3.32 × 10⁻²⁶) = **7.49 × 10² m s⁻¹**.
+With m = 0.0200 / (6.02 × 10²³) = 3.32 × 10⁻²⁶ kg, c_rms = √(2 × 9.315 × 10⁻²¹ / (3.32 × 10⁻²⁶)) = **7.49 × 10² m s⁻¹**.
 
 For 2.0 mol at 350 K, U = 1.5 × 2.0 × 8.31 × 350 = 8.7 × 10³ J. Because c_rms varies as √(T/M), a fourfold rise in T doubles c_rms, and at one temperature the lighter molecules are quicker.
 

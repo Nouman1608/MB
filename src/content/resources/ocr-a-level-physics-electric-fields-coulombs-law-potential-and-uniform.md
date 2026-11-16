@@ -81,7 +81,7 @@ Spheres carry +7.2 nC and −1.8 nC, with centres 4.5 cm apart in air. Treat the
 
 F = Qq/(4πε₀r²) = (7.2 × 10⁻⁹ × 1.8 × 10⁻⁹) / (4π × 8.85 × 10⁻¹² × 0.045²)
 
-= 1.296 × 10⁻¹⁷ / 2.252 × 10⁻¹³ = **5.8 × 10⁻⁵ N**, attractive (unlike charges).
+= 1.296 × 10⁻¹⁷ / (2.252 × 10⁻¹³) = **5.8 × 10⁻⁵ N**, attractive (unlike charges).
 
 ### Worked example 2: field of a charged sphere
 
@@ -169,7 +169,7 @@ With an insulating material between the plates, C = εA/d, where ε is the **per
 
 Square plates of side 12 cm are 0.50 mm apart.
 
-A = 0.12² = 1.44 × 10⁻² m². In air: C = 8.85 × 10⁻¹² × 1.44 × 10⁻² / 5.0 × 10⁻⁴ = **2.5 × 10⁻¹⁰ F**.
+A = 0.12² = 1.44 × 10⁻² m². In air: C = 8.85 × 10⁻¹² × 1.44 × 10⁻² / (5.0 × 10⁻⁴) = **2.5 × 10⁻¹⁰ F**.
 
 A material with εᵣ = 4.5 fills the gap: ε = 4.5 × 8.85 × 10⁻¹² = 3.98 × 10⁻¹¹ F m⁻¹, and C = εA/d = **1.1 × 10⁻⁹ F**. At 24 V the charge stored is Q = VC = **2.8 × 10⁻⁸ C**.
 
@@ -181,7 +181,7 @@ A material with εᵣ = 4.5 fills the gap: ε = 4.5 × 8.85 × 10⁻¹² = 3.98 
 
 An electron starts from rest at one plate. The plates are 2.4 cm apart with a p.d. of 900 V.
 
-E = 900/0.024 = 3.75 × 10⁴ V m⁻¹, F = eE = 6.0 × 10⁻¹⁵ N and a = F/m = 6.59 × 10¹⁵ m s⁻². From energy: ½mv² = eV, so v = √(2eV/m) = √(2 × 1.60 × 10⁻¹⁹ × 900 / 9.11 × 10⁻³¹) = **1.8 × 10⁷ m s⁻¹**.
+E = 900/0.024 = 3.75 × 10⁴ V m⁻¹, F = eE = 6.0 × 10⁻¹⁵ N and a = F/m = 6.59 × 10¹⁵ m s⁻². From energy: ½mv² = eV, so v = √(2eV/m) = √(2 × 1.60 × 10⁻¹⁹ × 900 / (9.11 × 10⁻³¹)) = **1.8 × 10⁷ m s⁻¹**.
 
 
 
@@ -191,7 +191,7 @@ E = 900/0.024 = 3.75 × 10⁴ V m⁻¹, F = eE = 6.0 × 10⁻¹⁵ N and a = F/m
 
 An electron enters midway between plates at 1.5 × 10⁷ m s⁻¹, parallel to them. The plates are 4.0 cm long, 1.2 cm apart, with a p.d. of 80 V.
 
-t = 0.040 / 1.5 × 10⁷ = 2.67 × 10⁻⁹ s. a = eV/(md) = 1.17 × 10¹⁵ m s⁻². Sideways displacement y = ½at² = **4.2 mm** towards the positive plate.
+t = 0.040 / (1.5 × 10⁷) = 2.67 × 10⁻⁹ s. a = eV/(md) = 1.17 × 10¹⁵ m s⁻². Sideways displacement y = ½at² = **4.2 mm** towards the positive plate.
 
 This is less than 6.0 mm, so the electron emerges. Its sideways speed on leaving is at = 3.1 × 10⁶ m s⁻¹, so it leaves at tan⁻¹(3.12 × 10⁶ / 1.5 × 10⁷) = 11.8° to its original path.
 

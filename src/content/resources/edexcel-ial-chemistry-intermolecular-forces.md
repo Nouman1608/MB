@@ -155,7 +155,7 @@ volume of one mole (18.0 g) of each, and the extra volume per molecule in ice (L
 
 - Ice: 18.0 / 0.917 = **19.6 cm³**
 - Liquid: 18.0 / 1.00 = **18.0 cm³**
-- Extra per molecule: (19.63 − 18.00) / 6.02 × 10²³ = **2.71 × 10⁻²⁴ cm³**.
+- Extra per molecule: (19.63 − 18.00) / (6.02 × 10²³) = **2.71 × 10⁻²⁴ cm³**.
 
 This extra volume is empty space in the framework.
 

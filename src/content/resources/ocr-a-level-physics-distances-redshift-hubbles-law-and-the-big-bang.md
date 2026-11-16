@@ -54,7 +54,7 @@ Useful links: 1 pc is about 3.26 ly, and 1 Mpc is 10⁶ pc. The light-year is a 
 **Worked example 1.** A star is 4.2 ly away. Give its distance in metres and in parsec.
 
 Distance = 4.2 × 9.46 × 10¹⁵ = 3.97 × 10¹⁶ m.
-In parsec: 3.97 × 10¹⁶ / 3.09 × 10¹⁶ = 1.29 pc.
+In parsec: 3.97 × 10¹⁶ / (3.09 × 10¹⁶) = 1.29 pc.
 
 The specification links this statement to small-angle work (M4.6). One second of arc is 1/3600 of a degree, which is 4.85 × 10⁻⁶ rad. If 1 AU subtends this angle, the distance is 1.496 × 10¹¹ / 4.85 × 10⁻⁶ = 3.09 × 10¹⁶ m. That is where the parsec comes from.
 
@@ -71,7 +71,7 @@ so a star with a parallax of 0.5 seconds of arc is 2 pc away. The smaller the an
 **Worked example 2.** A star has a parallax of 0.0625 seconds of arc. Find its distance in pc, ly and m.
 
 d = 1/p = 1/0.0625 = 16.0 pc.
-In ly: 16.0 × 3.09 × 10¹⁶ / 9.46 × 10¹⁵ = 52.3 ly.
+In ly: 16.0 × 3.09 × 10¹⁶ / (9.46 × 10¹⁵) = 52.3 ly.
 In m: 16.0 × 3.09 × 10¹⁶ = 4.94 × 10¹⁷ m.
 
 Parallax angles are tiny, so the method works only for relatively nearby stars. For very distant stars the angle falls below what can be measured.
@@ -142,7 +142,7 @@ H0 is quoted in km s⁻¹ Mpc⁻¹. This guide uses 70 km s⁻¹ Mpc⁻¹ unless
 
 **Converting H0 to s⁻¹.** Kilometres and megaparsecs are both lengths, so H0 reduces to a rate. Convert Mpc to km: 1 Mpc = 3.09 × 10²² m = 3.09 × 10¹⁹ km.
 
-H0 = 70 / 3.09 × 10¹⁹ = 2.27 × 10⁻¹⁸ s⁻¹.
+H0 = 70 / (3.09 × 10¹⁹) = 2.27 × 10⁻¹⁸ s⁻¹.
 
 **Worked example 5 (using data).** Five galaxies give these results.
 
@@ -184,7 +184,7 @@ t ≈ 1/H0
 
 with H0 in s⁻¹ (an order-of-magnitude estimate, as the specification's M1.4 reference suggests).
 
-**Worked example 6.** For H0 = 70 km s⁻¹ Mpc⁻¹: 1/H0 = 1 / 2.27 × 10⁻¹⁸ = 4.41 × 10¹⁷ s. With 1 year = 3.16 × 10⁷ s, t = 1.40 × 10¹⁰ years, about 14 billion years. A larger H0 gives a younger universe. The estimate ignores any change in expansion rate, so it is an estimate only.
+**Worked example 6.** For H0 = 70 km s⁻¹ Mpc⁻¹: 1/H0 = 1 / (2.27 × 10⁻¹⁸) = 4.41 × 10¹⁷ s. With 1 year = 3.16 × 10⁷ s, t = 1.40 × 10¹⁰ years, about 14 billion years. A larger H0 gives a younger universe. The estimate ignores any change in expansion rate, so it is an estimate only.
 
 ## Evolution of the universe, and what it is made of (5.5.3(n), (o))
 

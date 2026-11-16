@@ -187,7 +187,7 @@ Only ntc thermistors are on the specification. A thermistor with a fixed resisto
 6. Its temperature rises with current, so its resistance is not constant. Current is not proportional to p.d.
 7. Almost no current flows. The resistance is very large.
 8. Ions vibrate with greater amplitude, so electrons collide with them more often. The number of free electrons barely changes, so resistivity rises.
-9. N = I/e = 1.0 × 10⁻³ / 1.60 × 10⁻¹⁹ = **6.3 × 10¹⁵ per second**.
+9. N = I/e = 1.0 × 10⁻³ / (1.60 × 10⁻¹⁹) = **6.3 × 10¹⁵ per second**.
 10. The temperature at and below which the material has zero resistivity.
 11. For example, strong magnetic fields and low-loss power transmission cables.
 12. R = V/I is the ratio of the coordinates (6.0/0.30 = 20 Ω). The gradient of a curve is not that ratio.

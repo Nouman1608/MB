@@ -192,13 +192,13 @@ Mars: v = √(2 × 4.282 × 10¹³ / 3.39 × 10⁶) = √(2.526 × 10⁷) = 5.03
 
 Earth, using g: v = √(2 × 9.81 × 6.37 × 10⁶) = 1.12 × 10⁴ m s⁻¹. Using GM gives the same value.
 
-Earth, from a point 2000 km above the surface: r = 6.37 × 10⁶ + 2.0 × 10⁶ = 8.37 × 10⁶ m, so v = √(2 × 3.982 × 10¹⁴ / 8.37 × 10⁶) = 9.75 × 10³ m s⁻¹. Escape is easier from higher up.
+Earth, from a point 2000 km above the surface: r = 6.37 × 10⁶ + 2.0 × 10⁶ = 8.37 × 10⁶ m, so v = √(2 × 3.982 × 10¹⁴ / (8.37 × 10⁶)) = 9.75 × 10³ m s⁻¹. Escape is easier from higher up.
 
 ### Predicting whether atoms escape from an atmosphere
 
 Escape velocity can be used to judge whether a planet keeps a gas. Compare the escape speed with the speeds of the gas atoms or molecules in the upper atmosphere. If typical speeds are well below the escape speed, the planet keeps the gas. If they are close to or above it, atoms escape over time.
 
-Worked example 6: the Moon has an escape speed of v = √(2 × 4.902 × 10¹² / 1.74 × 10⁶) = 2.37 × 10³ m s⁻¹. A light gas whose atoms have a mean speed of 1.9 × 10³ m s⁻¹ at the surface has a mean speed of about 80% of the escape speed. Atoms move at a range of speeds, so a significant fraction exceed the mean and can escape. This is one reason the Moon has almost no atmosphere.
+Worked example 6: the Moon has an escape speed of v = √(2 × 4.902 × 10¹² / (1.74 × 10⁶)) = 2.37 × 10³ m s⁻¹. A light gas whose atoms have a mean speed of 1.9 × 10³ m s⁻¹ at the surface has a mean speed of about 80% of the escape speed. Atoms move at a range of speeds, so a significant fraction exceed the mean and can escape. This is one reason the Moon has almost no atmosphere.
 
 ## Common errors
 

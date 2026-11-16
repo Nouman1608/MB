@@ -121,7 +121,7 @@ These questions cover section 5.1.4 (Ideal gases) of the OCR Advanced GCE in Phy
 *Examiner insight:* Square first, then average, then take the root; taking the root before averaging is the usual error.
 
 **8.** **(a)** ⅓Nm<c²> = NkT [1], so m<c²> = 3kT [1], so **½m<c²> = 3/2 kT**, the mean kinetic energy of a molecule [1]
-**(b)** k = 8.31 / 6.02 × 10²³ = **1.38 × 10⁻²³ J K⁻¹** [1]
+**(b)** k = 8.31 / (6.02 × 10²³) = **1.38 × 10⁻²³ J K⁻¹** [1]
 *Examiner insight:* On a "show that" question, every line of the algebra is needed, including the cancelling of N.
 
 **9.** **(a)** The curve starts at the origin, [1] rises to a peak and falls with a long tail at high speed, so it is not symmetrical. [1]
@@ -130,7 +130,7 @@ These questions cover section 5.1.4 (Ideal gases) of the OCR Advanced GCE in Phy
 
 **10.** **(a)** c_rms = √(3kT / m) = √(3 × 1.38 × 10⁻²³ × 450 / 3.35 × 10⁻²⁶) [1] = √(5.56 × 10⁵) [1] = **7.46 × 10² m s⁻¹** [1]
 **(b)** They are **equal**, because mean kinetic energy is 3/2 kT. [1]
-**(c)** ratio = √(3.35 × 10⁻²⁶ / 6.64 × 10⁻²⁷) = **2.25** [1]
+**(c)** ratio = √(3.35 × 10⁻²⁶ / (6.64 × 10⁻²⁷)) = **2.25** [1]
 *Examiner insight:* Part (b) is a reasoning mark, so state that mean kinetic energy depends only on temperature.
 
 **11.** **(a)** There are negligible forces between the molecules except in collisions, so there is no potential energy. [1]
@@ -142,7 +142,7 @@ These questions cover section 5.1.4 (Ideal gases) of the OCR Advanced GCE in Phy
 **(b)** N = 0.15 × 6.02 × 10²³ = **9.0 × 10²² atoms** [1]
 **(c)** 3/2 kT = 1.5 × 1.38 × 10⁻²³ × 330 [1] = **6.83 × 10⁻²¹ J** [1]
 **(d)** U = 3/2 nRT = 1.5 × 0.15 × 8.31 × 330 [1] = **6.2 × 10² J** [1]
-**(e)** m = 0.040 / 6.02 × 10²³ = 6.64 × 10⁻²⁶ kg; c_rms = √(3kT / m) [1] = **4.5 × 10² m s⁻¹** [1]
+**(e)** m = 0.040 / (6.02 × 10²³) = 6.64 × 10⁻²⁶ kg; c_rms = √(3kT / m) [1] = **4.5 × 10² m s⁻¹** [1]
 *Examiner insight:* A good check is that N times the mean kinetic energy per atom gives the same internal energy as 3/2 nRT.
 
 ## Where marks are usually lost

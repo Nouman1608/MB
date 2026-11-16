@@ -210,8 +210,8 @@ Total = 240 500 J = 2.4 × 10⁵ J. The melting stage is the largest, even thoug
 ### Answers
 
 1. E = 0.75 × 4200 × 60 = **189 000 J** (1.9 × 10⁵ J).
-2. m = 1.0 × 10⁵ / 3.34 × 10⁵ = **0.30 kg**.
-3. m = 6.8 × 10⁵ / 2.26 × 10⁶ = **0.30 kg**.
+2. m = 1.0 × 10⁵ / (3.34 × 10⁵) = **0.30 kg**.
+3. m = 6.8 × 10⁵ / (2.26 × 10⁶) = **0.30 kg**.
 4. Δθ = 9600 / (0.40 × 480) = **50 °C**.
 5. E = 0.12 × 2.1 × 10⁵ = 25 200 J, t = 25 200 / 80 = **315 s**.
 6. The energy supplied separates the particles instead of speeding them up, so the average kinetic energy does not change.

@@ -76,7 +76,7 @@ Method in steps:
 3. Add equal masses gradually until the fibre breaks. Record the total.
 4. Repeat for several fibres. Ignore breaks at the clamp.
 
-*Reminder:* diameter 0.20 mm, breaks at 1.9 kg. F = 1.9 × 9.81 = 18.6 N. A = π × (1.0 × 10⁻⁴)² = 3.14 × 10⁻⁸ m². Strength = 18.6 / 3.14 × 10⁻⁸ = **5.9 × 10⁸ Pa**.
+*Reminder:* diameter 0.20 mm, breaks at 1.9 kg. F = 1.9 × 9.81 = 18.6 N. A = π × (1.0 × 10⁻⁴)² = 3.14 × 10⁻⁸ m². Strength = 18.6 / (3.14 × 10⁻⁸) = **5.9 × 10⁸ Pa**.
 
 Link to structure: cellulose microfibrils run along the fibre and are held by hydrogen bonds. Secondary thickening adds layers of wall. Lignin adds stiffness.
 

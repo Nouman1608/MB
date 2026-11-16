@@ -105,7 +105,7 @@ L is in J/kg. For freezing or condensing, the same amount of energy is released.
 **Worked example 3.** Energy to melt 0.35 kg of ice already at 0 °C:
 E = 0.35 × 3.34 × 10⁵ = 116 900 J = 1.2 × 10⁵ J (2 s.f.)
 
-Reverse it: 5.0 × 10⁴ J melts m = E / L = 5.0 × 10⁴ / 3.34 × 10⁵ = 0.15 kg.
+Reverse it: 5.0 × 10⁴ J melts m = E / L = 5.0 × 10⁴ / (3.34 × 10⁵) = 0.15 kg.
 
 **Worked example 4.** A 2.5 kW kettle element boils away 0.25 kg of water already at 100 °C. Ignoring losses, how long does it take?
 E = 0.25 × 2.26 × 10⁶ = 565 000 J

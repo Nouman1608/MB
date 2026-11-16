@@ -140,14 +140,14 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 ## Quick worked reminders
 
 - Glass with n = 1.60: c = sin⁻¹(1 / 1.60) = 38.7°.
-- Light travels at 1.80 × 10⁸ m/s in a plastic: n = 3.00 × 10⁸ / 1.80 × 10⁸ = 1.67.
+- Light travels at 1.80 × 10⁸ m/s in a plastic: n = 3.00 × 10⁸ / (1.80 × 10⁸) = 1.67.
 - Air into n = 1.60 at 30°: sin r = 0.5 / 1.60 = 0.3125, so r = 18.2°.
 
 ## Worked reminders for the practical and dispersion
 
 - Practical result: a plastic gave r = 16° for i = 25°. n = sin 25° / sin 16° = 0.423 / 0.276 = 1.53, and the graph gradient should agree.
 - Dispersion: if violet light has n = 1.53, its speed is 3.00 × 10⁸ / 1.53 = 1.96 × 10⁸ m/s, a little slower than red (n = 1.51 gives 1.99 × 10⁸ m/s), so violet bends more.
-- Wavelength in a medium: with f = 5.50 × 10¹⁴ Hz and v = 2.00 × 10⁸ m/s, λ = 2.00 × 10⁸ / 5.50 × 10¹⁴ = 3.64 × 10⁻⁷ m.
+- Wavelength in a medium: with f = 5.50 × 10¹⁴ Hz and v = 2.00 × 10⁸ m/s, λ = 2.00 × 10⁸ / (5.50 × 10¹⁴) = 3.64 × 10⁻⁷ m.
 - Fibre transit time: v = 3.00 × 10⁸ / 1.48 = 2.03 × 10⁸ m/s, so 2.0 km takes 9.9 × 10⁻⁶ s.
 
 <figure class="topic-figure">
@@ -197,7 +197,7 @@ Rearrangements: v = c / n, sin r = sin i / n, sin c = 1 / n.
 2. Angle of incidence = 90° - 25° = 65°, so the angle of reflection is **65°**.
 3. **Virtual, upright, laterally inverted.**
 4. **Towards the normal.** Light slows down in the denser medium.
-5. n = 3.00 × 10⁸ / 1.80 × 10⁸ = **1.67**.
+5. n = 3.00 × 10⁸ / (1.80 × 10⁸) = **1.67**.
 6. sin r = sin 30° / 1.60 = 0.3125, so r = **18.2°**.
 7. n = 1 / sin 40.0° = 1 / 0.6428 = **1.56**.
 8. c = sin⁻¹(1 / 1.45) = 43.6°. The angle 40° is less than c, so **no TIR**. Light refracts out.

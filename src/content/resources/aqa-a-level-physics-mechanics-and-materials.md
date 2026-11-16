@@ -272,7 +272,7 @@ E is the gradient of the linear part of a stress–strain graph. Unit: Pa.
 
 ```
 A = π(0.25 × 10⁻³)² = 1.96 × 10⁻⁷ m²
-stress = 40/1.96 × 10⁻⁷ = 2.04 × 10⁸ Pa
+stress = 40/(1.96 × 10⁻⁷) = 2.04 × 10⁸ Pa
 strain = 2.0 × 10⁻³/2.0 = 1.0 × 10⁻³
 E = 2.04 × 10¹¹ Pa
 ```

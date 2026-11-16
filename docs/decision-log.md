@@ -16199,6 +16199,13 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Tests.** Two negative-suite fixtures depended on a review-pending page carrying a `specCheck`. The specCheck fixture now targets the page's `reviewed` line (the [12] "no verification record" error still fires). The wrong-board record fixture now restores the page's `specCheck` together with the corrupted record, using a new `withMutations` helper that changes several files and restores them all.
 - **Not changed.** No `teacher-verifications.json` record was added (D-448: those need documented evidence, none is inferred). AP library pages are a separate collection and were not touched.
 
+## D-478 - Standard-form divisions bracketed; drawn layouts shown in a fixed-width font (16 Nov 2026)
+
+- Owner, 16 Nov 2026: "continue filling rest of the gaps". Source: `docs/reports/maths-display-audit-2026-11-15.md` (D-464), items D7 and D9.
+- **Standard-form divisions.** 398 places in 176 resource files divided by a number in standard form without brackets ("2.0 × 10⁻³ / 1.0 × 10⁻³"), which read strictly gives the wrong value. A script evaluated each whole expression both ways against the result printed on the same line and added brackets ("/ (1.0 × 10⁻³)") only where the grouped reading matched that result and the strict reading did not. One line meant the strict reading ("(4.0 + 2.0)/2 × 10⁵ = 3.0 × 10⁵") and now says so with brackets. The 177 lines the script could not settle (no stated result, or units inside the expression) are listed in `docs/reports/standard-form-divisions-to-check-2026-11-16.md` for a teacher; they are unchanged.
+- **Drawn layouts.** 109 fenced blocks in 29 files only line up in a fixed-width font: matrices and column vectors, long division, aligned working, stem-and-leaf diagrams, accounting statements, merge-sort traces. They are labelled ```text, and `global.css` shows that label in the device's own monospace font (the site has none since D-397), without wrapping, scrolling sideways when wider than the screen. Checked in Chrome on the OxfordAQA IGCSE matrices page. The practice engine's small Markdown converter drops fence labels so the word never appears in a practice question. No block's content changed.
+- **Not changed.** The 177 listed divisions; the mixed integral-limit conventions; the translated pages.
+
 ## D-479 - Footer link columns side by side on phones (16 Nov 2026)
 
 - Owner, 16 Nov 2026: "continue filling rest of the gaps". Measured on 15 Nov (D-458 workstream): the site-wide footer was 2,018 px of a 14,672 px phone homepage.

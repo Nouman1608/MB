@@ -205,7 +205,7 @@ and efficiently employed. The syllabus requires the definition,
 drawing and interpretation of this diagram, so being able to sketch
 one — not just describe it — is examinable in its own right:
 
-```
+```text
 Good A
 (units)
    ^

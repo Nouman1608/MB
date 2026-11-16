@@ -98,13 +98,13 @@ The ½kΔL² form only works when F = kΔL holds. For a non-linear graph, use th
 
 ## Worked reminders
 
-**Reminder 1.** Stress 4.5 × 10⁸ Pa with strain 2.5 × 10⁻³ gives E = 4.5 × 10⁸ / 2.5 × 10⁻³ = 1.8 × 10¹¹ Pa.
+**Reminder 1.** Stress 4.5 × 10⁸ Pa with strain 2.5 × 10⁻³ gives E = 4.5 × 10⁸ / (2.5 × 10⁻³) = 1.8 × 10¹¹ Pa.
 
 **Reminder 2.** A spring stretched by 0.050 m by a force of 8.0 N has k = 8.0 / 0.050 = 160 N m⁻¹ and stores ½ × 8.0 × 0.050 = 0.20 J.
 
 **Reminder 3.** Replace a wire by one of the same material and length but twice the diameter. The area is four times larger, so for the same force the stress and the extension are four times smaller.
 
-**Reminder 4.** A rod of cross-sectional area 4.0 × 10⁻⁶ m² breaks at a force of 2.4 kN. Breaking stress = 2.4 × 10³ / 4.0 × 10⁻⁶ = 6.0 × 10⁸ Pa. A rod of the same material with area 1.0 × 10⁻⁵ m² breaks at 6.0 × 10⁸ × 1.0 × 10⁻⁵ = 6.0 kN.
+**Reminder 4.** A rod of cross-sectional area 4.0 × 10⁻⁶ m² breaks at a force of 2.4 kN. Breaking stress = 2.4 × 10³ / (4.0 × 10⁻⁶) = 6.0 × 10⁸ Pa. A rod of the same material with area 1.0 × 10⁻⁵ m² breaks at 6.0 × 10⁸ × 1.0 × 10⁻⁵ = 6.0 kN.
 
 **Reminder 5.** A 0.20 kg trolley is pushed back against a spring of k = 500 N m⁻¹ by 0.030 m, on a smooth slope rising at 30°. The stored energy is ½ × 500 × 0.030² = 0.225 J. Written as a gain in height, 0.225 = 0.20 × 9.81 × h, so the trolley rises 0.115 m vertically from release.
 
@@ -168,13 +168,13 @@ For a metal such as copper, describe the curve in order. The line is straight an
 
 ### Answers
 
-1. ρ = 0.88 / 3.2 × 10⁻⁴ = 2.75 × 10³ kg m⁻³.
+1. ρ = 0.88 / (3.2 × 10⁻⁴) = 2.75 × 10³ kg m⁻³.
 2. F = kΔL = 180 × 0.035 = 6.3 N.
-3. A = π × (0.60 × 10⁻³)² = 1.13 × 10⁻⁶ m²; stress = 540 / 1.13 × 10⁻⁶ = 4.8 × 10⁸ Pa.
+3. A = π × (0.60 × 10⁻³)² = 1.13 × 10⁻⁶ m²; stress = 540 / (1.13 × 10⁻⁶) = 4.8 × 10⁸ Pa.
 4. Strain = 2.4 × 10⁻³ / 3.20 = 7.5 × 10⁻⁴.
 5. k = 14 / 0.035 = 400 N m⁻¹; energy = ½ × 14 × 0.035 = 0.245 J.
 6. Four times larger.
-7. E = 160 × 10⁶ / 8.0 × 10⁻⁴ = 2.0 × 10¹¹ Pa.
+7. E = 160 × 10⁶ / (8.0 × 10⁻⁴) = 2.0 × 10¹¹ Pa.
 8. E = FL/(AΔL) = 60 × 0.90 / (3.0 × 10⁻⁷ × 1.8 × 10⁻³) = 1.0 × 10¹¹ Pa.
 9. ½ × 300 × 0.040² = 0.24 J; v = √(2 × 0.24 / 0.050) = 3.1 m s⁻¹.
 10. Energy that is not recovered: it is transferred to internal energy of the material.

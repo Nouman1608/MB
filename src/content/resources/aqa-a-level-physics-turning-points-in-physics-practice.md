@@ -109,7 +109,7 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 *Examiner insight:* "Electrons come off the cathode" alone does not say why, so scores only one mark.
 
 **2. (a)** Ek = eV = **7.2 × 10⁻¹⁶ J** [1]
-**(b)** v = √(2Ek/m) [1] = √(2 × 7.2 × 10⁻¹⁶ / 9.11 × 10⁻³¹) = **3.98 × 10⁷ m s⁻¹** [1]
+**(b)** v = √(2Ek/m) [1] = √(2 × 7.2 × 10⁻¹⁶ / (9.11 × 10⁻³¹)) = **3.98 × 10⁷ m s⁻¹** [1]
 **(c)** Heating gives conduction electrons enough energy to leave the metal (thermionic emission) [1].
 *Examiner insight:* A wrong (a) carried into a correct method in (b) is usually allowed as error carried forward.
 
@@ -143,7 +143,7 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 **(d)** EM radiation has a particle (photon) nature [1].
 *Examiner insight:* Each mark in (c) needs the observation, not just "wave theory is wrong".
 
-**9. (a)** p = h/λ = 6.63 × 10⁻³⁴ / 1.2 × 10⁻¹⁰ = 5.53 × 10⁻²⁴ kg m s⁻¹ [1]; eV = p²/(2m) [1]; V = (5.53 × 10⁻²⁴)² / (2 × 9.11 × 10⁻³¹ × 1.60 × 10⁻¹⁹) = **105 V** [1]
+**9. (a)** p = h/λ = 6.63 × 10⁻³⁴ / (1.2 × 10⁻¹⁰) = 5.53 × 10⁻²⁴ kg m s⁻¹ [1]; eV = p²/(2m) [1]; V = (5.53 × 10⁻²⁴)² / (2 × 9.11 × 10⁻³¹ × 1.60 × 10⁻¹⁹) = **105 V** [1]
 **(b)** Electrons go faster, so momentum rises and wavelength falls [1]; less diffraction, so the rings get smaller [1].
 **(c)** Electrons must pass through it [1]; a thick sample slows them, changing their wavelength and blurring the image [1].
 *Examiner insight:* "Estimate" still needs the working; a bare 105 V gets only the final mark.
@@ -160,7 +160,7 @@ Use e = 1.60 × 10⁻¹⁹ C, mₑ = 9.11 × 10⁻³¹ kg, mass of hydrogen ion 
 
 **12. (a)** m₀c² = 9.11 × 10⁻³¹ × (3.00 × 10⁸)² = 8.20 × 10⁻¹⁴ J [1]; E = 4.80 × 10⁻¹³ + 8.20 × 10⁻¹⁴ = 5.62 × 10⁻¹³ J, γ = 6.85 [1]; v = c√(1 − 1/γ²) = **0.989c = 2.97 × 10⁸ m s⁻¹** [1]
 **(b)** m = γm₀ = **6.24 × 10⁻³⁰ kg** [1]
-**(c)** v = √(2Ek/m₀) = √(2 × 4.80 × 10⁻¹³ / 9.11 × 10⁻³¹) = 1.03 × 10⁹ m s⁻¹ [1], which exceeds c [1].
+**(c)** v = √(2Ek/m₀) = √(2 × 4.80 × 10⁻¹³ / (9.11 × 10⁻³¹)) = 1.03 × 10⁹ m s⁻¹ [1], which exceeds c [1].
 **(d)** Electrons of increasing known energy were timed over a known distance [1]; speed approached but never exceeded c, matching the relativistic graph [1].
 *Examiner insight:* Convert MeV to joules (× 1.60 × 10⁻¹³) before combining with m₀c²; mixing units loses the method mark.
 

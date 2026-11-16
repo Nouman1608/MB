@@ -243,7 +243,7 @@ The small piston has area 4.0 × 10⁻⁴ m² and the large piston has area 6.0 
 
 1. Pressure in the liquid = 120 / (4.0 × 10⁻⁴) = 3.0 × 10⁵ Pa.
 2. Force on the large piston = 3.0 × 10⁵ × 6.0 × 10⁻³ = **1800 N**.
-3. Area ratio = 6.0 × 10⁻³ / 4.0 × 10⁻⁴ = 15, so the force is 15 times bigger.
+3. Area ratio = 6.0 × 10⁻³ / (4.0 × 10⁻⁴) = 15, so the force is 15 times bigger.
 4. The large piston moves 0.30 / 15 = **0.020 m**.
 5. Check: work in = 120 × 0.30 = 36 J; work out = 1800 × 0.020 = 36 J.
 

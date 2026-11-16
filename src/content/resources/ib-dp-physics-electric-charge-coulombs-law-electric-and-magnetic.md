@@ -64,7 +64,7 @@ A small sphere carries +3.6 nC and another carries −8.0 nC. Their centres are 
 
 1. Convert: q₁ = 3.6 × 10⁻⁹ C, q₂ = 8.0 × 10⁻⁹ C, r = 0.025 m.
 2. F = (8.99 × 10⁹ × 3.6 × 10⁻⁹ × 8.0 × 10⁻⁹) / 0.025²
-3. F = 2.589 × 10⁻⁷ / 6.25 × 10⁻⁴ = 4.14 × 10⁻⁴ N
+3. F = 2.589 × 10⁻⁷ / (6.25 × 10⁻⁴) = 4.14 × 10⁻⁴ N
 
 The charges have opposite signs, so each sphere is pulled towards the other with this force.
 
@@ -124,8 +124,8 @@ Repeating this for many drops, he found that every measured charge was a whole-n
 An oil drop of mass 1.96 × 10⁻¹⁵ kg is held stationary between plates 1.5 cm apart with 600 V across them. Find its charge in terms of e.
 
 1. E = V/d = 600 / 0.015 = 4.0 × 10⁴ V m⁻¹
-2. q = mg/E = (1.96 × 10⁻¹⁵ × 9.81) / 4.0 × 10⁴ = 4.81 × 10⁻¹⁹ C
-3. q/e = 4.81 × 10⁻¹⁹ / 1.60 × 10⁻¹⁹ ≈ 3.0
+2. q = mg/E = (1.96 × 10⁻¹⁵ × 9.81) / (4.0 × 10⁴) = 4.81 × 10⁻¹⁹ C
+3. q/e = 4.81 × 10⁻¹⁹ / (1.60 × 10⁻¹⁹) ≈ 3.0
 
 The drop carries three elementary charges.
 
@@ -178,7 +178,7 @@ For a point charge Q, combining E = F/q with Coulomb's law gives E = kQ/r², poi
 
 ### Worked example 7: field from a point charge and from a pair
 
-(a) A test charge of +1.8 nC feels 7.2 µN. E = F/q = 7.2 × 10⁻⁶ / 1.8 × 10⁻⁹ = 4.0 × 10³ N C⁻¹.
+(a) A test charge of +1.8 nC feels 7.2 µN. E = F/q = 7.2 × 10⁻⁶ / (1.8 × 10⁻⁹) = 4.0 × 10³ N C⁻¹.
 
 (b) For Q = +7.5 nC at r = 0.30 m: E = (8.99 × 10⁹ × 7.5 × 10⁻⁹) / 0.30² = 7.49 × 10² N C⁻¹, pointing outwards.
 
@@ -219,9 +219,9 @@ Lines are straight, parallel and evenly spaced, from the positive plate to the n
 
 Plates 5.0 mm apart have 1.35 kV across them. Find E, the force on an electron, and its acceleration.
 
-1. E = 1350 / 5.0 × 10⁻³ = 2.7 × 10⁵ V m⁻¹
+1. E = 1350 / (5.0 × 10⁻³) = 2.7 × 10⁵ V m⁻¹
 2. F = eE = 1.60 × 10⁻¹⁹ × 2.7 × 10⁵ = 4.3 × 10⁻¹⁴ N, towards the positive plate
-3. a = F/m = 4.32 × 10⁻¹⁴ / 9.11 × 10⁻³¹ = 4.7 × 10¹⁶ m s⁻²
+3. a = F/m = 4.32 × 10⁻¹⁴ / (9.11 × 10⁻³¹) = 4.7 × 10¹⁶ m s⁻²
 
 The weight of an electron is negligible by comparison.
 

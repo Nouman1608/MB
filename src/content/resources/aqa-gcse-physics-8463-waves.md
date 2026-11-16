@@ -204,7 +204,7 @@ Your eyes detect only visible light. Sunlight warming your skin is energy transf
 **Worked example 5.** A microwave oven uses 2.5 GHz. Taking the speed of EM waves as 3.0 × 10⁸ m/s:
 
 ```
-λ = v / f = 3.0 × 10⁸ / 2.5 × 10⁹ = 0.12 m
+λ = v / f = 3.0 × 10⁸ / (2.5 × 10⁹) = 0.12 m
 ```
 
 **Refraction.** A wave crossing a boundary at an angle changes direction. Light entering glass bends **towards** the normal; leaving glass it bends **away** from the normal. A ray along the normal does not change direction.

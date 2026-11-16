@@ -124,7 +124,7 @@ A fractional power means a root:
 
 **Worked example 2 (Higher).** Work out (a) 32^(3/5) (b) (8/27)^(−2/3). (c) Simplify (16x⁸)^(3/4).
 
-```
+```text
 (a) fifth root of 32 = 2,  then 2^3 = 8
 (b) negative power: flip the fraction  (27/8)^(2/3)
     cube root of 27/8 = 3/2,  then (3/2)^2 = 9/4
@@ -277,7 +277,7 @@ The rules are the rules of ordinary fractions. To **simplify**, factorise top an
 
 **Worked example 7.** Simplify (x² − 9)/(x² + x − 6).
 
-```
+```text
 x^2 - 9     = (x - 3)(x + 3)
 x^2 + x - 6 = (x + 3)(x - 2)
 cancel (x + 3):  (x - 3)/(x - 2)

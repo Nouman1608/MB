@@ -109,7 +109,7 @@ Course page: [IB DP Physics](/boards/ib/ib-dp/physics/). Printable list: [IB DP 
 
 ## Worked reminders
 
-**Density.** A 2.0 litre container (2.0 × 10⁻³ m³) holds 5.4 kg of a liquid: ρ = 5.4 / 2.0 × 10⁻³ = 2.7 × 10³ kg m⁻³.
+**Density.** A 2.0 litre container (2.0 × 10⁻³ m³) holds 5.4 kg of a liquid: ρ = 5.4 / (2.0 × 10⁻³) = 2.7 × 10³ kg m⁻³.
 
 **Average kinetic energy.** At 620 K, Ek = 3/2 × 1.38 × 10⁻²³ × 620 = 1.28 × 10⁻²⁰ J. At 1500 K it is 3.11 × 10⁻²⁰ J.
 
@@ -178,7 +178,7 @@ Answers score best when they name the correct energy store. Use these sentence f
 
 1. 293 K; 227 °C.
 2. 40 °C (a change of 40 K is 40 °C).
-3. ρ = 0.75 / 3.0 × 10⁻⁴ = 2.5 × 10³ kg m⁻³.
+3. ρ = 0.75 / (3.0 × 10⁻⁴) = 2.5 × 10³ kg m⁻³.
 4. Ek = 1.5 × 1.38 × 10⁻²³ × 750 = 1.55 × 10⁻²⁰ J.
 5. It triples (450/150 = 3).
 6. No. In kelvin the temperature goes from 283 K to 293 K, a rise of under 4 percent.

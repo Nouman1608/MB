@@ -106,8 +106,8 @@ These questions cover section 6.4.3 (Radioactivity), statements (a) to (h), of t
 *Examiner insight:* A description is easier to credit when it names what is kept constant and what is varied; "measure the count" alone leaves the method incomplete.
 
 **5. (a)** Moles = 2.0 × 10⁻³ / 90 = 2.22 × 10⁻⁵ mol [1]; N = 2.22 × 10⁻⁵ × 6.02 × 10²³ = **1.3 × 10¹⁹** [1].
-**(b)** λ = A/N = 1.0 × 10¹⁰ / 1.34 × 10¹⁹ = **7.5 × 10⁻¹⁰ s⁻¹** [1].
-**(c)** t½ = 0.693 / 7.48 × 10⁻¹⁰ = 9.27 × 10⁸ s [1]; dividing by 3.16 × 10⁷ gives **29 years** [1]. **[5]**
+**(b)** λ = A/N = 1.0 × 10¹⁰ / (1.34 × 10¹⁹) = **7.5 × 10⁻¹⁰ s⁻¹** [1].
+**(c)** t½ = 0.693 / (7.48 × 10⁻¹⁰) = 9.27 × 10⁸ s [1]; dividing by 3.16 × 10⁷ gives **29 years** [1]. **[5]**
 *Examiner insight:* Carry unrounded values between parts, and convert the mass to grams or the molar mass to kilograms consistently.
 
 **6. (a)** λ = ln 2 / 4.0 = **0.173 year⁻¹** [1].
@@ -138,7 +138,7 @@ These questions cover section 6.4.3 (Radioactivity), statements (a) to (h), of t
 *Examiner insight:* Give the age to the precision supported by the data, which here is two significant figures.
 
 **11. (a)** λ = ln(4.8 × 10⁵ / 1.5 × 10⁵) / 6.0 [1] = **0.194 h⁻¹** [1]; t½ = 0.693 / 0.194 = **3.6 h** [1].
-**(b)** λ = 0.194 / 3600 = 5.38 × 10⁻⁵ s⁻¹ [1]; N = A/λ [1] = 4.8 × 10⁵ / 5.38 × 10⁻⁵ = **8.9 × 10⁹** [1].
+**(b)** λ = 0.194 / 3600 = 5.38 × 10⁻⁵ s⁻¹ [1]; N = A/λ [1] = 4.8 × 10⁵ / (5.38 × 10⁻⁵) = **8.9 × 10⁹** [1].
 **(c)** t = ln(4.8 × 10⁵ / 1.0 × 10⁴) / 0.194 = ln 48 / 0.194 [1] = **20 h**, which is about 05:00 the next day [1].
 **(d)** Heating would not help: decay is spontaneous, so temperature does not change the decay rate [1]. **[9]**
 *Examiner insight:* When a calculation moves between hours and seconds, stating the unit of λ at each step makes slips easy to spot.

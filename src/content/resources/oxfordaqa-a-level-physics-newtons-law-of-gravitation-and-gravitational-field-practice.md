@@ -115,7 +115,7 @@ Use G = 6.67 × 10⁻¹¹ N m² kg⁻². Other data is given in each question. G
 **(c)** The region is tiny compared with the planet's radius, so the field strength and direction hardly change over it [1] **[1]**
 *Examiner insight:* A sketch or description earns credit only with arrowheads and a clear statement that lines point towards the centre. Linking spacing to field strength is a separate point.
 
-**5. (a)** M = gR²/G [1] = 2.5 × (3.0 × 10⁶)² / 6.67 × 10⁻¹¹ = **3.4 × 10²³ kg** [1] **[2]**
+**5. (a)** M = gR²/G [1] = 2.5 × (3.0 × 10⁶)² / (6.67 × 10⁻¹¹) = **3.4 × 10²³ kg** [1] **[2]**
 **(b)** g ∝ 1/r², so g = 2.5 × (3.0 / 4.5)² [1] = **1.1 N kg⁻¹** [1] **[2]**
 *Examiner insight:* A ratio method using the given data avoids carrying a rounded mass into part (b). Using the rounded mass gives the same answer to two significant figures.
 

@@ -114,7 +114,7 @@ Assume 298 K and Kw = 1.00 × 10⁻¹⁴ mol² dm⁻⁶. Use the data given in e
 **(c)** **Phenolphthalein** for the first [1]; **methyl orange** for the second [1].
 *Examiner insight:* use the first end point (1 : 1) for the carbonate moles; using the second without halving doubles the answer.
 
-**7. (a)** [H⁺] = 10^-4.60 = 2.51 × 10⁻⁵ mol dm⁻³ [1]. [R⁻] = Ka × [HR]/[H⁺] [1] = 4.5 × 10⁻⁵ × 0.125/2.51 × 10⁻⁵ = 0.224 mol dm⁻³ [1]. Moles = 0.224 × 0.200 = 0.0448 mol [1]; mass = 0.0448 × 110.0 = **4.93 g**, assuming the volume does not change on dissolving [1].
+**7. (a)** [H⁺] = 10^-4.60 = 2.51 × 10⁻⁵ mol dm⁻³ [1]. [R⁻] = Ka × [HR]/[H⁺] [1] = 4.5 × 10⁻⁵ × 0.125/(2.51 × 10⁻⁵) = 0.224 mol dm⁻³ [1]. Moles = 0.224 × 0.200 = 0.0448 mol [1]; mass = 0.0448 × 110.0 = **4.93 g**, assuming the volume does not change on dissolving [1].
 **(b)** Ratio [R⁻]/[HR] = Ka/[H⁺] = 1.79, unchanged by mixing equal volumes [1]; [NaR] = 1.79 × 0.150 = **0.269 mol dm⁻³** [1].
 *Examiner insight:* in (b), halving only one concentration gives a wrong ratio.
 
