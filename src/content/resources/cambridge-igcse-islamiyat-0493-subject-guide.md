@@ -10,7 +10,10 @@ syllabusSeries: "2026-2027"
 order: 0
 description: "An overview of Cambridge IGCSE Islamiyat 0493: what Paper 1 and Paper 2 cover, how the two equal papers are assessed and how to plan study across both."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

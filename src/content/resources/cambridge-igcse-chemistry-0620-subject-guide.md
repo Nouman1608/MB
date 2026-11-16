@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "An overview of Cambridge IGCSE Chemistry (0620): the 12 topics, Core and Extended papers, the Paper 5 or Paper 6 practical choice, and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

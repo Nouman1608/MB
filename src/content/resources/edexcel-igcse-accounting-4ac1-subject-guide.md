@@ -10,7 +10,10 @@ syllabusSeries: "Issue 1, October 2016"
 order: 0
 description: "What Pearson Edexcel International GCSE Accounting 4AC1 covers, how its five content areas are organised and how the two written papers are weighted."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

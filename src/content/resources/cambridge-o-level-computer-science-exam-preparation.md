@@ -11,7 +11,10 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for the two Cambridge O Level Computer Science 2210 papers: Computer Systems and Algorithms, Programming and Logic, with timing and a trace-table example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

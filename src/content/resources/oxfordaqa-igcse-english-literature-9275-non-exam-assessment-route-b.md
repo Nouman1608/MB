@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-route-b-9275"
 description: "Choosing a text, framing a task, planning and drafting the Route B non-exam assessment for OxfordAQA International GCSE English Literature 9275, with a worked plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
 ---
 
 This guide covers **3.3.3 Non-exam assessment** (NEA) in OxfordAQA International GCSE English

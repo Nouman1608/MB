@@ -10,7 +10,10 @@ syllabusSeries: "2027-2029"
 order: 0
 description: "How Cambridge IGCSE Accounting (0452) is organised for 2027-2029: seven topic areas, a multiple-choice paper and a structured written paper."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "Issue 2, July 2022"
 order: 0
 description: "How Pearson Edexcel GCSE Business 1BS0 is organised into two themes and ten topic areas, how its two equally weighted papers work and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

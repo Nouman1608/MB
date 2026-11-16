@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "unseen-poetry-route-b-9275"
 description: "Condensed notes on the unseen poetry question for OxfordAQA 9275 on Route A and Route B: a five-step method, key terms, timing and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm that the unseen poetry question on both Paper 2a and Paper 2b is a single 30-mark question on one poem."
 ---
 
 Condensed for the final weeks. For the worked poem, use the

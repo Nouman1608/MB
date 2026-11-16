@@ -10,7 +10,10 @@ syllabusSeries: "Issue 3"
 order: 0
 description: "How Pearson Edexcel International A Level Physics YPH11 is structured: six units across AS and A2, two written practical skills papers, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hassan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-a-modern-drama-4et1"
 description: "Condensed notes for the 4ET1 Component 3 Assignment A modern drama essay: AO1 and AO2 balance, stagecraft terms, word budget, process rules and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

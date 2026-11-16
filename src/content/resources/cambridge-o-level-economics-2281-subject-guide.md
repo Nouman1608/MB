@@ -10,7 +10,10 @@ syllabusSeries: "2026"
 order: 0
 description: "Cambridge O Level Economics (2281) explained: the six syllabus topics, how the two papers are weighted, how the ideas connect, and a sensible order of study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

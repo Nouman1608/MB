@@ -10,7 +10,10 @@ syllabusSeries: "first teaching 2017"
 order: 0
 description: "How AQA GCSE Sociology (8192) works: families, education, crime and deviance and stratification, plus the theory and methods that run through both papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

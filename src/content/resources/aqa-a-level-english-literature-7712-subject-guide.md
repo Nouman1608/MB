@@ -10,11 +10,12 @@ syllabusSeries: "English Literature B, for first teaching 2025 (AS 7716; code ma
 order: 0
 description: "An overview of AQA A-Level English Literature B (7717), first taught in 2025: genre-based papers, the Theory and independence NEA, and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The course code is given as '7712 / 7717' to match this site's existing overview record, but every assessment fact here is from the English Literature B (7717) record; confirm whether 7712 belongs on this page."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The course code is given as '7712 / 7717' to match this site's existing overview record, but every assessment fact here is from the English Literature B (7717) record; confirm whether 7712 belongs on this page."
 ---
 
 AQA A-Level English Literature B (7717) studies literature through genre: how tragedy and comedy work, and how

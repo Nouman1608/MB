@@ -11,9 +11,10 @@ syllabusSeries: "2027-2029"
 order: 3
 description: "How to prepare for the four Cambridge A Level World History 9489 papers: Historical Sources, Outline Study, Historical Interpretations and Depth Study, with timing and a worked plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the question styles and option-specific wording on each paper against the 2027-2029 syllabus; only the record's titles, durations, marks and weightings were treated as certain."
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the question styles and option-specific wording on each paper against the 2027-2029 syllabus; only the record's titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

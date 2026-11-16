@@ -11,7 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for Cambridge IGCSE Mathematics 0580: Core Papers 1 and 3, Extended Papers 2 and 4, non-calculator and calculator timing, and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

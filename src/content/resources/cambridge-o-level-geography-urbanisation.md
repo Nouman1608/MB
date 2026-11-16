@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "urbanisation-2217"
 description: "Cambridge O Level Geography 2217 sub-topic 1.7: reasons for rapid urban growth, its impacts on rural and urban areas, squatter settlements and management strategies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

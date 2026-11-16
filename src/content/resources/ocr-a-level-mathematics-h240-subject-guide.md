@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.1 (August 2026), for first assessment in 2018"
 order: 0
 description: "How OCR A Level Mathematics A (H240) fits together: pure maths, statistics and mechanics, three equally weighted papers, and a sensible study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

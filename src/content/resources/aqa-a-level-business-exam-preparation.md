@@ -11,7 +11,10 @@ syllabusSeries: "For first teaching from September 2023"
 order: 3
 description: "How to prepare for the three two-hour papers of AQA A-Level Business 7132, and the replacement 7138: paper structure, timing per mark and a worked break-even answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

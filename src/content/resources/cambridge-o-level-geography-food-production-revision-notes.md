@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "food-production-2217"
 description: "Condensed recall for Cambridge O Level Geography 2217 subtopic 3.2: farm systems, farming types, causes, effects and solutions of food shortages, case study outlines."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

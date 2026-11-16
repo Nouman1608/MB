@@ -10,7 +10,10 @@ syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 0
 description: "An overview of OCR GCSE Chemistry A Gateway (J248): topics C1 to C6, the Foundation and Higher papers, and how the second paper builds on C1 to C3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

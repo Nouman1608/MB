@@ -10,7 +10,10 @@ syllabusSeries: "First teaching September 2020, first AS exams May/June 2021, fi
 order: 0
 description: "How OxfordAQA International AS and A-level Economics (9640) fits together: four content areas, quantitative skills, four modular papers and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

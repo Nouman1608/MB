@@ -11,7 +11,10 @@ syllabusCodes: ["7357"]
 order: 1
 description: "AQA A Level Mathematics 7357 past papers guide: grade thresholds for June 2024 to June 2026 and our notes on the 2024 and 2025 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

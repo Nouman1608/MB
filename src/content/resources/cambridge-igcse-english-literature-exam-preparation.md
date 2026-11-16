@@ -11,7 +11,10 @@ syllabusSeries: "2026"
 order: 3
 description: "How to prepare for Cambridge IGCSE English Literature 0475: Paper 1 plus one of three routes (drama, unseen, or coursework), with timing and a worked unseen example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

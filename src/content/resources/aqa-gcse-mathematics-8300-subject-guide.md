@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2015"
 order: 0
 description: "An overview of AQA GCSE Mathematics (8300): six content areas, Foundation and Higher tiers, one non-calculator and two calculator papers, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 0
 description: "How Cambridge International AS & A Level Economics (9708) works: eleven topics across AS and A Level, four papers, the staged route and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

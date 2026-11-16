@@ -10,7 +10,10 @@ syllabusSeries: "2027-2029"
 order: 0
 description: "Cambridge O Level Environmental Management (5014), 2027-2029: what the seven topics cover, how the two papers and objectives are weighted, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

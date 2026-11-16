@@ -10,7 +10,10 @@ syllabusSeries: "Version 2.0 (June 2026), for first assessment in 2019"
 order: 0
 description: "How OCR GCSE Economics (J205) is organised: four topics from markets to the global economy, two equal 80-mark papers, and both components synoptic."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

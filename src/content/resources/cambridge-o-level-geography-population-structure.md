@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-structure-2217"
 description: "Sub-topic 1.3 of Cambridge O Level Geography 2217: reading population pyramids, explaining their shapes, dependency ratios and the impacts of a dependent population."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

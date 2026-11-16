@@ -10,7 +10,10 @@ syllabusSeries: "Version 2.1 (August 2026), for first assessment in 2017"
 order: 0
 description: "An overview of OCR GCSE Mathematics (J560): its twelve content areas, Foundation and Higher tiers, three papers per tier, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

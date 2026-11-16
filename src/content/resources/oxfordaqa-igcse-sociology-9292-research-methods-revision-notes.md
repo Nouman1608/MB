@@ -18,7 +18,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9292"
 description: "Condensed recall notes on 3.1.3 Research methods for OxfordAQA IGCSE Sociology 9292, for both papers: approaches, methods, samples, bias, ethics and data."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "Condensed recall notes on YLA1 section 1.2: Parliament Acts, law reform, interpretation aids, equity, EU law, civil courts, ADR, legal personnel and funding."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the EU law summary after the UK's exit from the EU and the civil track limits, which have changed since the Issue 4 specification was published."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the EU law summary after the UK's exit from the EU and the civil track limits, which have changed since the Issue 4 specification was published."
 ---
 
 Condensed for the final weeks. For the full explanation, use the [sources of English law study guide](/resources/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration/). The legislative stages, delegated legislation controls and precedent basics are in the [underlying principles revision notes](/resources/a-law-underlying-principles-revision-notes/).

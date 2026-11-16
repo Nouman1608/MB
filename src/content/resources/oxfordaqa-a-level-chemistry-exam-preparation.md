@@ -11,9 +11,10 @@ syllabusSeries: "For teaching from September 2019 (exams from May/June 2020) onw
 order: 3
 description: "Plan your OxfordAQA A-Level Chemistry 9620 revision across five modular papers, from AS Units 1 and 2 to the Practical and Synoptic paper, with a worked pH calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Question styles within each paper (for example how the ten required practicals are examined in Paper 3) are kept general; check the specification and sample assessments for the exact layout and mark splits."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Question styles within each paper (for example how the ten required practicals are examined in Paper 3) are kept general; check the specification and sample assessments for the exact layout and mark splits."
 publishedDate: 2026-11-15
 featured: false
 ---

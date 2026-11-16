@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "migration-2217"
 description: "Sub-topic 1.2 of Cambridge O Level Geography 2217: types of migration, push and pull factors, and the impacts on source and receiving areas, with case studies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

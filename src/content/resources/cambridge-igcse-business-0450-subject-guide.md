@@ -10,7 +10,10 @@ syllabusSeries: "2027-2029"
 order: 0
 description: "An overview of Cambridge IGCSE Business, explaining the change from code 0450 to 0264, the six topics, the two papers and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

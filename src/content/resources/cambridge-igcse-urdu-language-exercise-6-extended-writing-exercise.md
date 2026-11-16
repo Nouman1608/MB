@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "exercise-6-extended-writing-exercise-0539"
 description: "How to plan and write the 200-word extended writing task in Paper 1 of Cambridge IGCSE Urdu 0539: purpose, format, audience, prompts, register and accuracy."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text, including the model report sentences, linking-device tables and the rubric verbs."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text, including the model report sentences, linking-device tables and the rubric verbs."
 publishedDate: 2026-11-15
 featured: false
 ---

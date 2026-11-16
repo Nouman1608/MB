@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "non-exam-assessment-route-b-9275"
 description: "Condensed notes on the Route B non-exam assessment for OxfordAQA 9275: text rules, marking levels, task and thesis checklist, key terms and a quick self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
 ---
 
 A quick-reference summary. For the full method and a worked plan, use the

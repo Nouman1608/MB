@@ -11,7 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for the two Cambridge O Level Mathematics 4024 papers: non-calculator Paper 1 and calculator Paper 2, with timing and a histogram worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

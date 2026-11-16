@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching from September 2017"
 order: 0
 description: "An overview of AQA GCSE Economics (8136): how markets work, how the economy works, two 80-mark papers that draw on the whole course and how to plan study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "Issue 2, February 2026"
 order: 0
 description: "An overview of Pearson Edexcel International GCSE Business 4BS1: five content areas, two papers set on small and large businesses, and how to plan study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to asif-iqbal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

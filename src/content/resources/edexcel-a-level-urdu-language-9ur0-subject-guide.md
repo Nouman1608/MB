@@ -10,11 +10,12 @@ syllabusSeries: "2018"
 order: 0
 description: "An overview of Pearson Edexcel A Level Urdu 9UR0: four themes, prescribed works, three linear papers in listening, reading and writing, and how to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: An Urdu specialist should check the Urdu theme and work titles as reproduced from the job data (the Theme 3 title's bracket placement looks garbled) and the English glosses given for each theme."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "An Urdu specialist should check the Urdu theme and work titles as reproduced from the job data (the Theme 3 title's bracket placement looks garbled) and the English glosses given for each theme."
 ---
 
 Pearson Edexcel A Level Urdu (9UR0) is a UK A Level for students who want

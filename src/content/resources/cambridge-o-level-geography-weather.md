@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "weather-2217"
 description: "Cambridge O Level Geography 2217 subtopic 2.4: the Stevenson Screen, each weather instrument, cloud observation, calculations from readings and reading weather graphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

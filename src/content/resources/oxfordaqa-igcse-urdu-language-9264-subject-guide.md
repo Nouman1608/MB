@@ -10,7 +10,10 @@ syllabusSeries: "Version 1.1"
 order: 0
 description: "What OxfordAQA International GCSE Urdu (9264) involves: three themes, a Reading paper with translation and a Writing paper, assessment details and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

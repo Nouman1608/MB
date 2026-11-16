@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "the-sources-of-english-law-its-enforcement-and-administration-yla1"
 description: "A deep dive into YLA1 section 1.2: the Parliament Acts, law reform, interpretation, EU law, civil courts and ADR, legal personnel, and the cost and funding of law."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the treatment of EU law (1.2.10 to 1.2.12) after the UK's exit from the EU, and the civil track limits, which have changed since the Issue 4 specification was published."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the treatment of EU law (1.2.10 to 1.2.12) after the UK's exit from the EU, and the civil track limits, which have changed since the Issue 4 specification was published."
 ---
 
 This guide covers **section 1.2, The sources of English law, its enforcement and administration**, the larger of the two sections of Paper 1 in Pearson Edexcel International Advanced Level Law, Issue 4. It has twenty-four content areas, so this page does not repeat the outline in the [Paper 1 Underlying Principles guide](/resources/a-level-edexcel-law-underlying-principles/) or the law-making detail in the [underlying principles revision notes](/resources/a-law-underlying-principles-revision-notes/). Instead it fills in the parts those pages treat briefly.

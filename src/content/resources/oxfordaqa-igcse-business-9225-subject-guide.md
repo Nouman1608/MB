@@ -10,7 +10,10 @@ syllabusSeries: "First teaching September 2020, first examined May/June 2022"
 order: 0
 description: "An overview of OxfordAQA International GCSE Business (9225): six topic areas, two equally weighted papers, how the topics link up and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

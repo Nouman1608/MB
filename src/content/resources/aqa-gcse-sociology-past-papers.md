@@ -11,9 +11,10 @@ syllabusCodes: ["8192"]
 order: 1
 description: "AQA GCSE Sociology (8192) past papers guide with June 2026, 2025 and 2024 grade thresholds and our notes on the June 2025 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Examiner report notes cover June 2025 only: no June 2026 or June 2024 report on the examination was available for 8192."
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Examiner report notes cover June 2025 only: no June 2026 or June 2024 report on the examination was available for 8192."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.0 (June 2026), for first assessment in 2021"
 order: 0
 description: "How OCR A Level Economics (H460) is structured: microeconomics, macroeconomics and a synoptic Themes paper, three equal 80-mark exams of 2 hours each."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

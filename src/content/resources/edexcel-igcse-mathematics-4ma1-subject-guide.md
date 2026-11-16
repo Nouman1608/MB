@@ -10,7 +10,10 @@ syllabusSeries: "Specification Issue 2, November 2017"
 order: 0
 description: "An overview of Pearson Edexcel IGCSE Mathematics A 4MA1: six content areas, Foundation and Higher tiers, two calculator papers per tier and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

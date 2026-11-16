@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-c-modern-prose-4et1"
 description: "How to plan and write the 40-mark closed-book modern prose essay in Edexcel IGCSE English Literature 4ET1 Paper 1 Section C, with AO1 and AO4 worked examples."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

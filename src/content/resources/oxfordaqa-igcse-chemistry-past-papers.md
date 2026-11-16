@@ -11,9 +11,10 @@ syllabusCodes: ["9202"]
 order: 1
 description: "9202 International GCSE Chemistry past papers guide: examiner report notes for November 2022 and a series index for June 2023 and June 2024."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Grade thresholds could not be retrieved for any series and only the November 2022 examiner reports were available, so the page needs a second pass once the board's boundary documents and later reports are sourced."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Grade thresholds could not be retrieved for any series and only the November 2022 examiner reports were available, so the page needs a second pass once the board's boundary documents and later reports are sourced."
 publishedDate: 2026-11-15
 featured: false
 ---

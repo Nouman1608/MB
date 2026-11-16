@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-dynamics-2217"
 description: "Original practice questions with mark-scheme answers on population change calculations, growth, over- and under-population and population policies (2217, 1.1)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

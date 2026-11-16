@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "social-issues-9264"
 description: "Original practice on volunteering and healthy living for OxfordAQA International GCSE Urdu 9264: advice, purpose clauses, translation, reading and writing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The passages, questions, translations and model answer are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The passages, questions, translations and model answer are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

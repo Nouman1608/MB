@@ -11,7 +11,10 @@ syllabusSeries: "Issue 3"
 order: 3
 description: "How to prepare for Pearson Edexcel International GCSE Biology 4BI1: Paper 1 (core content, 61.1%) and Paper 2 (all content, 38.9%), timing and a worked percentage-change example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

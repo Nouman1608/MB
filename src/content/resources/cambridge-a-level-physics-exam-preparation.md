@@ -11,9 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for the five Cambridge A Level Physics 9702 papers, from multiple choice to advanced practical skills, with timing per mark and a worked capacitor calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the content split of each paper, the number of questions on Paper 1 and the format of the practical papers against the 2025-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "hassan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hassan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the content split of each paper, the number of questions on Paper 1 and the format of the practical papers against the 2025-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

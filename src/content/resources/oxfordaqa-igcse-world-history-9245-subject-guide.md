@@ -10,7 +10,10 @@ syllabusSeries: "Version 1.1"
 order: 0
 description: "OxfordAQA International GCSE History (9245), new from 2026: two papers of depth and change studies, the optional sections, assessment and a two-year study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

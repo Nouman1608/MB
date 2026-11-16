@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "the-individual-yla1"
 description: "A deep dive into YLA1 section 2.3 The individual: defamation, Articles 10 and 11, the European Court of Human Rights, privacy, occupiers' liability and trespass."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the summary of the Data Protection Act 2018 sections named in 2.3.5 (ss 1 to 7, 43, 45 and 170), which is kept general here."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the summary of the Data Protection Act 2018 sections named in 2.3.5 (ss 1 to 7, 43, 45 and 170), which is kept general here."
 ---
 
 This guide covers **section 2.3, The individual**, the last of the three sections of Paper 2 (The Law in Action) in Pearson Edexcel International Advanced Level Law, Issue 4. The [Law in Action guide](/resources/a-level-edexcel-law-the-law-in-action/) sets out the statutes. This page adds the cases, explains how the rights and torts interact, and shows how to apply them to a scenario.

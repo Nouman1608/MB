@@ -11,9 +11,10 @@ syllabusCodes: ["H432"]
 order: 1
 description: "H432 A Level Chemistry A past papers guide: grade thresholds for June 2023 to June 2026 and examiner report notes for June 2023, 2024 and 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Examiner notes are drawn from the series-overview sections of each OCR examiners' report, not from every question-level comment; June 2026 has thresholds only because no report was available to us."
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Examiner notes are drawn from the series-overview sections of each OCR examiners' report, not from every question-level comment; June 2026 has thresholds only because no report was available to us."
 publishedDate: 2026-11-15
 featured: false
 ---

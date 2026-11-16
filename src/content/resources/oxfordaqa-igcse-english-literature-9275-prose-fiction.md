@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "prose-fiction-9275"
 description: "How to analyse narrative voice, structure, character and setting in your set novel for Paper 1 Section A of OxfordAQA International GCSE English Literature 9275."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

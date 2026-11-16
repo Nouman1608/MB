@@ -11,11 +11,12 @@ syllabusCodes: ["H420"]
 order: 1
 description: "OCR A Level Biology A (H420) past papers guide: grade thresholds for June 2023 to June 2026 and our notes on the examiner reports for 2023 to 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The June 2026 examiner report was not available when this page was written, so that series has thresholds only."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The June 2026 examiner report was not available when this page was written, so that series has thresholds only."
 ---
 
 This page is a guide to OCR A Level Biology A (H420) past papers from June 2023 to June 2026. For each series you get the grade thresholds, copied from OCR's grade-boundary documents, and, for June 2023 to June 2025, a short account of what examiners reported, written by us from OCR's own examiners' reports. We do not host any papers. Every paper, mark scheme and report is on OCR's site, linked below.

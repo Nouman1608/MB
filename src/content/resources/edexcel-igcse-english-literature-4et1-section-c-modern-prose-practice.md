@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-c-modern-prose-4et1"
 description: "Original planning drills and 40-mark essay questions for any 4ET1 modern prose set novel, with mark-scheme-style answers covering AO1 argument and AO4 context."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

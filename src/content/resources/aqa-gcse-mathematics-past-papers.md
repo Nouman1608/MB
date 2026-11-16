@@ -11,7 +11,10 @@ syllabusCodes: ["8300"]
 order: 1
 description: "AQA GCSE Mathematics 8300 past papers guide: grade thresholds for June 2024 to June 2026 and our notes on the examiner reports for 2024 and 2025."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

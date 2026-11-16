@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-1-short-answer-questions-0539"
 description: "Two original Urdu texts, a leaflet and a news report, with short answer questions in the style of 0539 Paper 1 Exercise 1, plus answers and notes on accepted forms."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The two passages, the questions and the answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The two passages, the questions and the answers are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

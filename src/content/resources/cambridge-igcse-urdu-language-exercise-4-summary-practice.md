@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-4-summary-0539"
 description: "Original summary practice for 0539 Paper 1 Exercise 4: Urdu paraphrase and cutting drills, then a 100-word summary of an article on traditional games, with a model."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The article, drills, weak sample and model summary are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The article, drills, weak sample and model summary are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

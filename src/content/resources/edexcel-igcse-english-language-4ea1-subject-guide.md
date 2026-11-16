@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2016 (Issue 7, August 2025)"
 order: 0
 description: "How Pearson Edexcel IGCSE English Language 4EA1 works: a compulsory 60% exam, a choice between an exam and coursework for the other 40%, and how to plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

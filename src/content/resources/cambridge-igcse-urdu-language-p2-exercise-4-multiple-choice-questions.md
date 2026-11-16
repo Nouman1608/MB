@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "p2-exercise-4-multiple-choice-questions-0539"
 description: "How to answer multiple-choice questions on a two-speaker discussion in Paper 2 of Cambridge IGCSE Urdu 0539: tracking speakers, distractors, agreement and feelings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text; the syllabus does not state the number of questions or options, so the guide leaves both open."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text; the syllabus does not state the number of questions or options, so the guide leaves both open."
 publishedDate: 2026-11-15
 featured: false
 ---

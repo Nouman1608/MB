@@ -10,11 +10,12 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "An overview of Cambridge International AS & A Level Sociology (9699): four papers from socialisation and the family to education, globalisation, media and religion."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "naqiya-yousaf"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to naqiya-yousaf (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: This page describes the 2024-2026 syllabus edition, whose final examination year is 2026; check whether the page should move to the following 9699 edition."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "This page describes the 2024-2026 syllabus edition, whose final examination year is 2026; check whether the page should move to the following 9699 edition."
 ---
 
 Cambridge International AS & A Level Sociology (9699) studies how

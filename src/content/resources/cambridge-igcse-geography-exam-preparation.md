@@ -11,7 +11,10 @@ syllabusSeries: "2025-2026"
 order: 3
 description: "How to prepare for Cambridge IGCSE Geography 0460: Geographical Themes, Geographical Skills and the coursework or Paper 4 alternative, with timing and a worked calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

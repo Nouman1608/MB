@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-unseen-poetry-4et1"
 description: "Original unseen poems with short skills questions and full 20-mark essay tasks for 4ET1 Paper 1 Section A, each with mark-scheme-style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

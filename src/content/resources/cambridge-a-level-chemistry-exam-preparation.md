@@ -11,7 +11,10 @@ syllabusSeries: "2025-2027"
 order: 3
 description: "How to prepare for Cambridge A-Level Chemistry 9701: the AS route (Papers 1 to 3), the full A Level (Papers 4 and 5), weightings, timing and a Kc worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farhat-ul-ain-sehgal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farhat-ul-ain-sehgal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,9 +11,10 @@ syllabusSeries: "2027-2029"
 order: 3
 description: "How to prepare for Cambridge IGCSE Business 0264 (previously 0450): Short Answer and Data Response, a Case Study paper, timing per mark and a worked margin calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the question styles on each paper and the case-study insert rules against the 0264 syllabus; only record titles, durations, marks, weightings and the code change were treated as certain."
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the question styles on each paper and the case-study insert rules against the 0264 syllabus; only record titles, durations, marks, weightings and the code change were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

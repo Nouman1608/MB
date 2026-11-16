@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.2, for exams May/June 2018 onwards"
 order: 0
 description: "An overview of OxfordAQA International GCSE Biology (9201): six content areas, two equally weighted papers that can each assess anything, and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

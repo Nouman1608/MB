@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.3, for International AS exams from May/June 2018, A-l
 order: 0
 description: "How OxfordAQA International AS and A-level English Literature (9675) is built: tragedy, place, crime and mystery, literary representations and the Route A/B choice."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

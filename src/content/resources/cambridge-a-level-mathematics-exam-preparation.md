@@ -11,9 +11,10 @@ syllabusSeries: "2026-2027"
 order: 3
 description: "How to prepare for Cambridge A Level Mathematics 9709: the six papers, the AS and A Level routes, timing per mark, and a worked tangent problem with full working."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the question styles and calculator or formula-booklet rules for each paper against the 2026-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
+reviewer: "sajawal-zahid"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to sajawal-zahid (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the question styles and calculator or formula-booklet rules for each paper against the 2026-2027 syllabus; only record titles, durations, marks and weightings were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

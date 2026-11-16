@@ -11,9 +11,10 @@ syllabusSeries: "2024-2026"
 order: 3
 description: "Prepare for the four Cambridge A-Level English Language 9093 papers: Reading, Writing, Language Analysis and Language Topics, with timing per mark and a worked analysis."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Syllabus edition 2024-2026 has 2026 as its final examination year; check whether a successor syllabus applies to your candidates. Paper content beyond the titles is described only in general terms; check the syllabus for task types."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Syllabus edition 2024-2026 has 2026 as its final examination year; check whether a successor syllabus applies to your candidates. Paper content beyond the titles is described only in general terms; check the syllabus for task types."
 publishedDate: 2026-11-15
 featured: false
 ---

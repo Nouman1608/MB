@@ -11,9 +11,10 @@ syllabusSeries: "Version 1.1"
 order: 3
 description: "How to prepare for OxfordAQA International GCSE Urdu 9264: Reading and Writing papers of 1 hour 45 minutes and 70 marks each, with timing and a worked writing plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The verified record gives only paper titles, timing, marks, the English-to-Urdu translation in Paper 1 and the absence of coursework. Question types, word counts and mark schemes are kept general; a subject specialist should check them against the specification and sample assessments."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The verified record gives only paper titles, timing, marks, the English-to-Urdu translation in Paper 1 and the absence of coursework. Question types, word counts and mark schemes are kept general; a subject specialist should check them against the specification and sample assessments."
 publishedDate: 2026-11-15
 featured: false
 ---

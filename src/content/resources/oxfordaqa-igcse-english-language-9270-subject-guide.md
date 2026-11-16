@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.1, for exams May/June 2018 onwards"
 order: 0
 description: "An overview of OxfordAQA International GCSE English Language (9270): the compulsory Paper 1, the Route A exam or Route B NEA, and the optional speaking endorsement."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

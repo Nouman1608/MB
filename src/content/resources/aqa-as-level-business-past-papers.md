@@ -11,7 +11,10 @@ syllabusCodes: ["7137"]
 order: 1
 description: "AQA AS-Level Business past papers guide: 7131 grade thresholds for June 2024 to June 2026, examiner report notes for 2024 and 2025, and how 7137 differs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

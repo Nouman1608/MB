@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "population-structure-2217"
 description: "Original practice questions with mark-scheme answers on population pyramids, dependency ratios and the impacts of youthful and ageing populations (2217, 1.3)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

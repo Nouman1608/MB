@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "coasts-2217"
 description: "Original exam-style questions with mark-scheme answers on waves, coastal landforms, coral reefs, mangroves and coastal management for Cambridge O Level Geography 2217."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

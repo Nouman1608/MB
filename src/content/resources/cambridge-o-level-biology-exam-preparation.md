@@ -11,7 +11,10 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for Cambridge O Level Biology 5090: multiple choice, theory, and the Paper 3 practical or Paper 4 alternative, with timing and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

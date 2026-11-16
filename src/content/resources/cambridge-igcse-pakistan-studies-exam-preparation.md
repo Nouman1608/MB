@@ -11,7 +11,10 @@ syllabusSeries: "2026"
 order: 3
 description: "How to prepare for Cambridge IGCSE Pakistan Studies 0448: Paper 1 history and culture, Paper 2 environment, timing per mark and a worked source question."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

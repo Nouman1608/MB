@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.2, for International AS exams from May/June 2018, A-l
 order: 0
 description: "How OxfordAQA International AS and A-level English Language (9670) works: four units, two AS papers, a compulsory A2 paper and a Route A exam or Route B NEA."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

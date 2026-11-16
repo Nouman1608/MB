@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2015"
 order: 0
 description: "How AQA GCSE English Literature (8702) is organised and assessed: two closed-book papers, the texts each one covers, and how to plan your study time."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-anthology-poetry-4et1"
 description: "Original comparison skills questions and 30-mark anthology essay tasks for 4ET1 Paper 1 Section B, with indicative content and level guidance in the answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

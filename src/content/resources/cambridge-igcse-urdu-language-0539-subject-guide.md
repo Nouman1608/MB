@@ -10,7 +10,10 @@ syllabusSeries: "2025-2027"
 order: 0
 description: "How Cambridge IGCSE Urdu as a Second Language (0539) is assessed: a reading and writing paper, a listening paper and the optional, separately endorsed speaking test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

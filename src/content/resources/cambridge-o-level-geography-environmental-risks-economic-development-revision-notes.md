@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "environmental-risks-economic-development-2217"
 description: "Quick-recall notes for Cambridge O Level Geography 2217 subtopic 3.7: soil erosion, desertification, global warming, pollution, sustainability and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

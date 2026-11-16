@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "settlements-service-provision-2217"
 description: "Sub-topic 1.5 of Cambridge O Level Geography 2217: settlement patterns, site and growth factors, functions, and the hierarchy of settlements and services."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

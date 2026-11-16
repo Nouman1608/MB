@@ -11,9 +11,10 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for the two Cambridge IGCSE Computer Science 0478 papers: Computer Systems and Algorithms, Programming and Logic, with timing per mark and a worked binary and trace example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Check the pseudocode conventions, the scenario-based question style and any pre-release or practical-skills material against the 2026-2028 syllabus; only record titles, durations, marks, weightings and topic ranges were treated as certain."
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check the pseudocode conventions, the scenario-based question style and any pre-release or practical-skills material against the 2026-2028 syllabus; only record titles, durations, marks, weightings and topic ranges were treated as certain."
 publishedDate: 2026-11-15
 featured: false
 ---

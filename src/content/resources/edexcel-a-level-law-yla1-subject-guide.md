@@ -10,7 +10,10 @@ syllabusSeries: "Issue 4, November 2021"
 order: 0
 description: "An overview of Pearson Edexcel International A Level Law YLA1: legal principles and the English legal system, the law in action, and two three-hour papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

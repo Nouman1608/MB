@@ -10,7 +10,10 @@ syllabusSeries: "9725 Version 1.1 (first teaching September 2026; first AS exams
 order: 0
 description: "OxfordAQA International AS and A-level Business explained: the revised 9725 course, the legacy 9625 teach-out, sixteen topics and four modular papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

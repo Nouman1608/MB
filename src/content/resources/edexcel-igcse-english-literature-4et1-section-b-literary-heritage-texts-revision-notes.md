@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-literary-heritage-texts-4et1"
 description: "Quick-recall notes for the 4ET1 Paper 2 Section B literary heritage essay: AO split, context types, a per-text context bank, timing and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

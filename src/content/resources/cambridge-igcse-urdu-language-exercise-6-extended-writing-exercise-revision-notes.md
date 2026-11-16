@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "exercise-6-extended-writing-exercise-0539"
 description: "Quick-recall notes for the 16-mark extended writing task in Cambridge IGCSE Urdu 0539 Paper 1: formats, plan, linking words, structures and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please ask an Urdu specialist to check all Urdu text, including the key-terms table, the linking-device bank and the error watchlist."
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please ask an Urdu specialist to check all Urdu text, including the key-terms table, the linking-device bank and the error watchlist."
 publishedDate: 2026-11-15
 featured: false
 ---

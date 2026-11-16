@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "Condensed notes on the People and Places anthology question for OxfordAQA 9275, Route A Paper 2a and Route B Paper 2b: comparison method, key terms and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate)."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate)."
 ---
 
 Condensed for the final weeks. For the worked comparison, use the

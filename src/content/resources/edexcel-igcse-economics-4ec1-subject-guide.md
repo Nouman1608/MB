@@ -10,7 +10,10 @@ syllabusSeries: "Issue 3, February 2026"
 order: 0
 description: "What Pearson Edexcel IGCSE Economics 4EC1 covers, how its two equally weighted papers split micro and macro content, and how to plan the two-year course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

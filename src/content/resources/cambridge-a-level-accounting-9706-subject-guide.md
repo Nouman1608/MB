@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "An overview of Cambridge International AS & A Level Accounting (9706): AS and A Level content, four papers, the staged route and how to plan study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "zain-ud-din-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to zain-ud-din-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

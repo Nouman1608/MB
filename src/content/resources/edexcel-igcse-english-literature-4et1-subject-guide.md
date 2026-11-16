@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2016"
 order: 0
 description: "How Pearson Edexcel IGCSE English Literature 4ET1 is built: a closed-book poetry and prose exam, then a drama and heritage text exam or coursework option."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

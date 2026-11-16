@@ -10,7 +10,10 @@ syllabusSeries: "First assessment 2022"
 order: 0
 description: "An overview of IB DP Economics: the four syllabus units, HL extension content, Papers 1 to 3, the commentary portfolio and how SL and HL weightings differ."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

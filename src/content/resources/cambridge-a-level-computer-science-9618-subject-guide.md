@@ -10,7 +10,10 @@ syllabusSeries: "2026"
 order: 0
 description: "An overview of Cambridge International AS & A Level Computer Science (9618): 20 topics, four equally weighted papers, the staged AS route and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

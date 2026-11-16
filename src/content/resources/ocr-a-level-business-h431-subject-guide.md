@@ -10,7 +10,10 @@ syllabusSeries: "Version 2.1 (January 2026), for first assessment in 2017; final
 order: 0
 description: "How OCR A Level Business (H431) works: seven content areas, three equal synoptic papers, and its teach-out with a final exam in 2027 before H436."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

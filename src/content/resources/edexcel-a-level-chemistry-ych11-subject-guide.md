@@ -10,7 +10,10 @@ syllabusSeries: "Issue 1, September 2017"
 order: 0
 description: "How Pearson Edexcel International A Level Chemistry YCH11 is organised into six units across two stages, with weightings, practical papers and maths demand."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

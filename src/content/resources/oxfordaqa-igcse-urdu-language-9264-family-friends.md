@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "family-friends-9264"
 description: "Family and friendship vocabulary, honorific agreement, describing people and getting on with others in Urdu, for OxfordAQA International GCSE Urdu 9264 Theme 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains original Urdu text (vocabulary, example sentences, translations and a model paragraph); an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains original Urdu text (vocabulary, example sentences, translations and a model paragraph); an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 This guide goes deeper on the first topic of **Theme 1 Identity and Culture** in OxfordAQA

@@ -10,7 +10,10 @@ syllabusSeries: "For examination in 2026, 2027 and 2028"
 order: 0
 description: "How Cambridge International AS & A Level Business (9609) works: five functional areas at AS and A Level, four papers, the staged route and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

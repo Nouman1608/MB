@@ -10,7 +10,10 @@ syllabusSeries: "2026-2027"
 order: 0
 description: "How Cambridge O Level Islamiyat 2058 is set out: eight content areas across two equal papers, the question choice on each paper and a plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

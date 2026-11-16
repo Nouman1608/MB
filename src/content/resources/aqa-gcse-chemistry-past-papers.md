@@ -11,7 +11,10 @@ syllabusCodes: ["8462"]
 order: 1
 description: "AQA GCSE Chemistry 8462 past papers guide: grade thresholds and examiner report notes for the June 2023, June 2024 and June 2025 series."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

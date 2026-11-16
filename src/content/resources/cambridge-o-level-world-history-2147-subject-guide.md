@@ -10,7 +10,10 @@ syllabusSeries: "2024-2026"
 order: 0
 description: "An overview of Cambridge O Level History 2147: its two core options, five depth studies, two written papers and a practical way to plan the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

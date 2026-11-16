@@ -10,7 +10,10 @@ syllabusSeries: "For teaching from September 2019 (exams from May/June 2020) onw
 order: 0
 description: "How OxfordAQA International AS and A-level Chemistry (9620) is built: physical, inorganic and organic topics, five modular papers and ten required practicals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

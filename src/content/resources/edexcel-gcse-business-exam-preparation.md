@@ -11,9 +11,10 @@ syllabusSeries: "Issue 2, July 2022"
 order: 3
 description: "A plan for Pearson Edexcel GCSE Business 1BS0: two 1 hour 45 minute, 90-mark papers in three sections each, with timing, command words and a worked cash flow."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Which of the ten specification topics sit under Theme 1 and Theme 2 is not in the verified record, so the page stays general on that; check the specification for the topic-to-theme mapping."
+reviewer: "asif-iqbal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to asif-iqbal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Which of the ten specification topics sit under Theme 1 and Theme 2 is not in the verified record, so the page stays general on that; check the specification for the topic-to-theme mapping."
 publishedDate: 2026-11-15
 featured: false
 ---

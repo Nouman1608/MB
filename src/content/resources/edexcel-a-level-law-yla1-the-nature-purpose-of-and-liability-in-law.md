@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-nature-purpose-of-and-liability-in-law-yla1"
 description: "A deep dive into section 1.1 of Edexcel IAL Law YLA1: rules and law, legal personality, civil and criminal liability, punishment, legal theory and morality."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

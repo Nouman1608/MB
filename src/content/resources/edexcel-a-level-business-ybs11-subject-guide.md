@@ -10,7 +10,10 @@ syllabusSeries: "Issue 1, September 2017"
 order: 0
 description: "How Pearson Edexcel International A Level Business YBS11 is structured across four equally weighted units, with section formats and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

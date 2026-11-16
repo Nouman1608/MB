@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "How Cambridge O Level Commerce (7100) is put together: six topics from production to sustainability, a multiple-choice and a written paper, and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-criminal-offender-yla1"
 description: "Condensed recall notes on YLA1 section 2.2: causation, omissions, intention, recklessness, strict liability, property offences, defences and sentencing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

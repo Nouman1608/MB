@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching from September 2015"
 order: 0
 description: "How AQA AS Level Economics (7135) is set up: two content areas, two 70-mark papers, how micro and macro connect and how to plan a one-year AS course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

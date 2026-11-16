@@ -11,7 +11,10 @@ syllabusSeries: "For first teaching from September 2026"
 order: 3
 description: "Prepare for the two AQA AS Level Business 7137 papers of 1 hour 45 minutes: case-study format, timing per mark, the outgoing 7131 and a worked turnover calculation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

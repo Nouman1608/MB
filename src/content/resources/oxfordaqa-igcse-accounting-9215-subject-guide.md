@@ -10,7 +10,10 @@ syllabusSeries: "2024-onwards"
 order: 0
 description: "An overview of OxfordAQA International GCSE Accounting (9215): five content areas, two equally weighted 75-mark papers and a sensible plan for the course."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "javaid-iqbal-sabri"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to javaid-iqbal-sabri (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

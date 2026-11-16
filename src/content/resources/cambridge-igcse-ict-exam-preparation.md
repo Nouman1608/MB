@@ -11,11 +11,12 @@ syllabusSeries: "2026-2028"
 order: 3
 description: "How to prepare for the three Cambridge IGCSE ICT 0417 components: the 90-minute theory paper and the two 135-minute practical tests, with timing and a worked example."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "harris-khan"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to harris-khan (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Check which 0417 topic sections map to which papers: the page infers sections 11 to 16 (file management, images, layout, styles, proofing, graphs and charts) from the topic order."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Check which 0417 topic sections map to which papers: the page infers sections 11 to 16 (file management, images, layout, styles, proofing, graphs and charts) from the topic order."
 ---
 
 Cambridge IGCSE ICT (0417) is not tiered, and every candidate sits all three components: Paper 1 Theory (1 hour 30 minutes, 80 marks, 40%), Paper 2 Document Production, Databases and Presentations (2 hours 15 minutes, 70 marks, 30%) and Component 3 Spreadsheets and Website Authoring (2 hours 15 minutes, 70 marks, 30%). All three are externally assessed. This page turns that structure into a plan, and works best alongside the topic pages on [Document Production](/resources/cambridge-igcse-ict-document-production-study-guide/), [Databases](/resources/cambridge-igcse-ict-databases-study-guide/) and [File Management](/resources/cambridge-igcse-ict-file-management-study-guide/).

@@ -10,11 +10,12 @@ syllabusSeries: "Version 5.1, for International A-level exams May/June 2018 onwa
 order: 0
 description: "How OxfordAQA International AS and A-level Biology (9610) works: four content units, five equally weighted papers, ten required practicals and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The job data lists subtopics only for Unit 2, so the short descriptions of Units 1, 3 and 4 are general and should be checked against the 9610 specification."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The job data lists subtopics only for Unit 2, so the short descriptions of Units 1, 3 and 4 are general and should be checked against the 9610 specification."
 ---
 
 OxfordAQA International AS and A-level Biology (9610) is a modular course for students who want to

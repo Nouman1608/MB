@@ -10,7 +10,10 @@ syllabusSeries: "Version 4.0 (August 2026), for first assessment in 2018"
 order: 0
 description: "How OCR GCSE Biology A Gateway (J247) is organised: seven topics, Foundation and Higher tiers, and which topics each 90-mark paper tests."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

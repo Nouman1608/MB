@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-5-writing-exercise-0539"
 description: "Original practice for 0539 Paper 1 Exercise 5: register and accuracy drills, then an informal and a formal 120-word Urdu email, with model answers and mark guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The tasks, drill sentences and two model emails are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The tasks, drill sentences and two model emails are original Urdu written for this page; an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this content. They are **not** reproduced past-paper questions,

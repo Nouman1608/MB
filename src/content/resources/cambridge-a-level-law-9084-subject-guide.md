@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "An overview of Cambridge A Level Law 9084: the English legal system and criminal law at AS, contract and tort at A Level, four papers and study planning."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

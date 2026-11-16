@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "the-criminal-offender-yla1"
 description: "A deep dive into YLA1 section 2.2 The criminal offender: actus reus, mens rea, strict liability, property offences, duress, intoxication and sentencing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

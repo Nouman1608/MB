@@ -10,7 +10,10 @@ syllabusSeries: "Issue 5, February 2026"
 order: 0
 description: "How Pearson Edexcel International GCSE History (4HI1) is built: eight depth studies, five investigations, eight breadth studies and two equal papers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

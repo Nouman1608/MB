@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-modern-drama-4et1"
 description: "How to write the 30-mark modern drama essay in Edexcel IGCSE English Literature 4ET1 Paper 2 Section A: AO1 and AO2, dramatic methods and open-book technique."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

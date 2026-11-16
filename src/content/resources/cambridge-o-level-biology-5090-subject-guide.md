@@ -10,7 +10,10 @@ syllabusSeries: "2026-2028"
 order: 0
 description: "What Cambridge O Level Biology (5090) covers, how its 19 topics are grouped, how the three papers are weighted, and which Marlbridge pages to use at each stage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

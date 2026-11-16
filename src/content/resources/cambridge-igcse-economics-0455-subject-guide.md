@@ -10,7 +10,10 @@ syllabusSeries: "For examination in 2026"
 order: 0
 description: "A guide to Cambridge IGCSE Economics (0455) for 2026: its six topics, the multiple-choice and structured question papers, and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "salman-ahmad"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to salman-ahmad (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

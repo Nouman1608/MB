@@ -10,7 +10,10 @@ syllabusSeries: "Version 3.0 (March 2026), for first assessment in 2017"
 order: 0
 description: "How OCR A Level Physics A (H556) is built: six modules, three written papers totalling 270 marks, a separate Practical Endorsement and a study plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "iftikhar-azeemi"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to iftikhar-azeemi (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

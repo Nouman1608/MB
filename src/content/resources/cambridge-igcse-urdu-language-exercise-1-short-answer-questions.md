@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-1-short-answer-questions-0539"
 description: "How Exercise 1 of Cambridge IGCSE Urdu 0539 Paper 1 works: text types, Urdu question words, one-word answers, gist questions and the distractors that cost marks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains original Urdu text (a sample leaflet, questions and answers); an Urdu specialist should check that every Urdu sentence is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains original Urdu text (a sample leaflet, questions and answers); an Urdu specialist should check that every Urdu sentence is correct and natural."
 ---
 
 Exercise 1 is the opening task of **Paper 1 Reading and Writing** in Cambridge IGCSE Urdu as a Second

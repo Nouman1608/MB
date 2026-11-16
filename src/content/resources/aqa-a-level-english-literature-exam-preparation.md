@@ -11,9 +11,10 @@ syllabusSeries: "English Literature B, for first teaching 2025 (AS 7716; code ma
 order: 3
 description: "How to prepare for AQA A-Level English Literature B 7717: two closed- and open-book papers, the non-exam assessment, timing per mark and a worked essay plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The job lists the code as 7712 / 7717 while the verified record is for 7717 (A-level) only; confirm that 7712 is the intended overview code. Also check that the worked scenario's illustrative Shakespeare reference is acceptable given set texts are chosen by each centre."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The job lists the code as 7712 / 7717 while the verified record is for 7717 (A-level) only; confirm that 7712 is the intended overview code. Also check that the worked scenario's illustrative Shakespeare reference is acceptable given set texts are chosen by each centre."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -11,9 +11,10 @@ syllabusCodes: ["8702"]
 order: 1
 description: "AQA GCSE English Literature 8702 past papers guide with June 2026, 2025 and 2024 grade thresholds and our notes on the June 2025 and 2024 examiner reports."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "No June 2026 examiner report was available, and only the June series from 2024 to 2026 are covered."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: No June 2026 examiner report was available, and only the June series from 2024 to 2026 are covered."
 publishedDate: 2026-11-15
 featured: false
 ---

@@ -10,7 +10,10 @@ syllabusSeries: "Version 5.1, for exams May/June 2018 onwards (final May/June ex
 order: 0
 description: "An overview of OxfordAQA International GCSE English Literature (9275): Prose and Drama for all, then Route A's open-book exam or Route B's poetry paper and NEA."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

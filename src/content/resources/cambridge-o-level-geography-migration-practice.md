@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "migration-2217"
 description: "Original practice questions with mark-scheme answers on migration types, push and pull factors, net migration and impacts on source and receiving areas (2217, 1.2)."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

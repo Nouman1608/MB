@@ -18,11 +18,12 @@ syllabusTopics:
     subtopic: "poetry-route-b-9275"
 description: "Comparing poems from the People and Places anthology for OxfordAQA International GCSE English Literature 9275, on Route A Paper 2a and Route B Paper 2b."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate) and whether the anthology supplied in the exam is a clean copy."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current wording pattern of the anthology question (whether one poem is named and a second chosen by the candidate) and whether the anthology supplied in the exam is a clean copy."
 ---
 
 This guide covers the studied anthology poetry in OxfordAQA International GCSE English Literature

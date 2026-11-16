@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-anthology-poetry-4et1"
 description: "How to compare two anthology poems for the 30-mark Section B essay in Edexcel IGCSE English Literature 4ET1 Paper 1, with theme clusters and a worked plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

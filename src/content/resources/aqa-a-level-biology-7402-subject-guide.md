@@ -10,7 +10,10 @@ syllabusSeries: "For first teaching 2015"
 order: 0
 description: "An overview of AQA A-Level Biology (7402): the eight topics, three two-hour papers, how practical skills and the essay fit in, and how to plan your study."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "hina-mogul"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to hina-mogul (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

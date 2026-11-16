@@ -10,7 +10,10 @@ syllabusSeries: "For teaching from September 2016"
 order: 0
 description: "How AQA GCSE Chemistry (8462) is structured: ten topics plus key ideas, Foundation and Higher tiers, two 100-mark papers and a practical plan for two years."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to nouman-ahmed (accountable teacher, D-379)."
 publishedDate: 2026-11-15
 featured: false
 ---

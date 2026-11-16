@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "exercise-3-note-making-0539"
 description: "Quick recall for 0539 Paper 1 Exercise 3 note-making: the nine-mark task, how to shorten Urdu sentences into notes, heading discipline and a self-test with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "farheen-zehra"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
+reviewNote: "2026-11-16: credited to farheen-zehra (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: The page contains Urdu sentences and reduced notes; an Urdu specialist should check that every Urdu item is correct and natural."
 publishedDate: 2026-11-15
 featured: false
-reviewNeeded: true
-reviewNote: "The page contains Urdu sentences and reduced notes; an Urdu specialist should check that every Urdu item is correct and natural."
 ---
 
 Condensed for the final weeks. For the full explanation and a worked example, use the
