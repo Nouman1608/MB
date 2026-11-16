@@ -47,7 +47,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'o-level',
   subjectSlug: 'computer-science',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: '2210',
   syllabusSeries: '2026-2028',

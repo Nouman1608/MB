@@ -34,7 +34,7 @@ export const DECK_AQA_GCSE_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'gcse',
   subjectSlug: 'psychology',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-16' },
   syllabusCode: '8182',
   syllabusSeries: 'first teaching 2017',

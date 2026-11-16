@@ -45,7 +45,7 @@ export const DECK_IB_IB_MYP_SCIENCES: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-myp',
   subjectSlug: 'myp-sciences',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-16' },
   syllabusCode: 'MYP Sciences',
   syllabusSeries: 'From 2014',

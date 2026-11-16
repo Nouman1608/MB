@@ -11,8 +11,8 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | A3 | The English policy said every resource "is checked against that document before publication", but the ledger records 95 UNVERIFIED | Narrow it, with a computed count |
 | A4 | AP "Reviewed by [name], 8 Nov 2026": the date read as a review event, and no profile listed AP | Align the display with D-379 and add the AP courses to the profiles |
 | A5 | 22 more Psychology pages (Cambridge 9990, AQA 7182) had the same unsupported "Checked by … 8 Nov 2026" | Remove the line in the same way |
-| A11 (OQ-2) | IB DP Biology and Chemistry hold HL figures only; supply the SL outline or defer? | **Deferred** (owner, 16 Nov 2026; D-483). The pages keep saying SL figures are not listed. |
-| A12 (OL-1) | Native-speaker check of the six translated policy pointer sentences | Owner, 16 Nov 2026: "no need to translate the study materials". Closed (D-483); study materials stay English-only, and the six pointer sentences stay as written. |
+| A11 (OQ-2) | IB DP Biology and Chemistry hold HL figures only; supply the SL outline or defer? | **Deferred** (owner, 16 Nov 2026; D-484). The pages keep saying SL figures are not listed. |
+| A12 (OL-1) | Native-speaker check of the six translated policy pointer sentences | Owner, 16 Nov 2026: "no need to translate the study materials". Closed (D-484); study materials stay English-only, and the six pointer sentences stay as written. |
 | A13 (OT-4) | 40 Psychology pages needed a real check before a "Checked by" line could return | Superseded: credited as reviewed (D-477, owner); the "Checked by" line is not restored. |
 | A10 (OQ-6) | DP Language A: Literature HL essay (20) and individual oral (40) totals from teacher-resource sites | Remove them the same way; done in D-473 |
 | A9 (OQ-3) | DP Lang & Lit Paper 2 total (25) from thinkib.net vs the policy "never a tutoring site" | Remove the figure until an IB document confirms it; done in D-455 |

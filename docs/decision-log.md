@@ -16237,7 +16237,14 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Flashcard topic pages.** `src/utils/flashcards/search-title.ts`: when "<Topic> Flashcards — <Subject> <Code>" is over 60 characters and the course has a syllabus code, the subject name is dropped ("… Flashcards — 7402"). This shortens all 544 long titles with no duplicates, and 237 now fit. The other 307 are over 60 because the board's own topic name is long; they keep it in full for now (`fitLongTopic`, owner to decide). The heading is unchanged.
 - **Checks.** The banned-word check for "free" now allows the subject terms free-response, free-body and free energy.
 
-## D-483 - SL figures deferred; no translation of study materials; diagnostics, flashcard decks and the last articles marked reviewed; topic-image list (16 Nov 2026)
+## D-483 - Saudi Arabia, Kuwait and Bahrain pages folded into /gulf/ (16 Nov 2026)
+
+- Owner, 16 Nov 2026: "redirect is fine", answering whether these three pages (D-460, 15 Nov) should get real local content or fold into /gulf/. They differed only in country name, currency and time, which Google can treat as near-duplicate location pages; no local search evidence or local content is held for them.
+- **Change.** `/saudi-arabia/`, `/kuwait/` and `/bahrain/` are removed and 301 to `/gulf/` (with and without the trailing slash; `scripts/generate-redirects.mjs`). `/gulf/` now says it covers families in those three countries; it keeps the six-country fee table and time zones, links only the UAE, Qatar and Oman pages, and gains the KWD/BHD three-decimals answer and the national-curriculum line from the removed pages. Its `<title>` keeps "Saudi Arabia", since this is now the Saudi page.
+- **Elsewhere.** The resource tutoring prompt maps the Riyadh, Kuwait and Bahrain time zones to `/gulf/` (WhatsApp still first); the international tutoring list, country guides, market data and `llms.txt` drop the three entries. Pricing rows are unchanged.
+- **Not changed.** The UAE, Qatar and Oman pages.
+- **Flashcards (D-482 follow-up).** Owner chose to keep the board's topic wording in full for the 307 long flashcard titles; `fitLongTopic` records that.
+## D-484 - SL figures deferred; no translation of study materials; diagnostics, flashcard decks and the last articles marked reviewed; topic-image list (16 Nov 2026)
 
 - Owner, 16 Nov 2026: "defer OQ-2 and make it live / no need to translate the study materials / mark all as reviewed / tell me exactly which topic images are left".
 - **OQ-2 deferred.** IB DP Biology and Chemistry keep HL-only assessment records. The FAQ and table keep saying SL figures are not listed (D-448). No SL figure was added.

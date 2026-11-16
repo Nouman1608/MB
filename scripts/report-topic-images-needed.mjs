@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * D-483 -- which study pages still have no topic figure, so the owner can
+ * D-484 -- which study pages still have no topic figure, so the owner can
  * commission them. Lessons (study guides) are where topic images are made;
  * revision notes normally reuse their lesson's figures, so they are listed
  * separately. A page "has a figure" if its body contains <figure>, <img> or a

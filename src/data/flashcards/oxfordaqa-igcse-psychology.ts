@@ -41,7 +41,7 @@ export const DECK_OXFORDAQA_IGCSE_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
   subjectSlug: 'psychology',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-16' },
   syllabusCode: '9218',
   syllabusSeries: 'Version 1.1',

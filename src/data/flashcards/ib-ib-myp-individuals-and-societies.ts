@@ -44,7 +44,7 @@ export const DECK_IB_IB_MYP_INDIVIDUALS_AND_SOCIETIES: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-myp',
   subjectSlug: 'myp-individuals-and-societies',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'naqiya-yousaf', reviewedOn: '2026-11-16' },
   syllabusCode: 'MYP Individuals and Societies',
   syllabusSeries: 'From 2014',

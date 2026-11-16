@@ -42,7 +42,7 @@ export const DECK_EDEXCEL_IGCSE_ENGLISH_LITERATURE: FlashcardDeck = {
   boardSlug: 'edexcel',
   qualificationSlug: 'igcse',
   subjectSlug: 'english-literature',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '4ET1',
   syllabusSeries: 'For first teaching 2016',

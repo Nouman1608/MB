@@ -39,7 +39,7 @@ export const DECK_OXFORDAQA_IGCSE_WORLD_HISTORY: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
   subjectSlug: 'world-history',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '9245',
   syllabusSeries: 'Version 1.1',

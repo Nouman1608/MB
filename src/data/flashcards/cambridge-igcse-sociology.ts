@@ -35,7 +35,7 @@ export const DECK_CAMBRIDGE_IGCSE_SOCIOLOGY: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'sociology',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'naqiya-yousaf', reviewedOn: '2026-11-16' },
   syllabusCode: '0495',
   syllabusSeries: '2025-2027',

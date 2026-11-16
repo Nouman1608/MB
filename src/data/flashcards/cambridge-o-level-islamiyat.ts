@@ -40,7 +40,7 @@ export const DECK_CAMBRIDGE_O_LEVEL_ISLAMIYAT: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'o-level',
   subjectSlug: 'islamiyat',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '2058',
   syllabusSeries: '2026-2027',

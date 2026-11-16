@@ -47,7 +47,7 @@ export const DECK_OXFORDAQA_A_LEVEL_PSYCHOLOGY: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'psychology',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'kanwal-aslam', reviewedOn: '2026-11-16' },
   syllabusCode: '9685',
   syllabusSeries: 'Version 3.1',

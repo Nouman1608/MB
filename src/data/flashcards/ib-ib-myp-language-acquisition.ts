@@ -43,7 +43,7 @@ export const DECK_IB_IB_MYP_LANGUAGE_ACQUISITION: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-myp',
   subjectSlug: 'myp-language-acquisition',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: 'MYP Language Acquisition',
   syllabusSeries: 'From 2020 (first eAssessment May 2023/November 2023)',

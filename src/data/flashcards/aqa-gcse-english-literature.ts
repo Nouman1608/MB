@@ -39,7 +39,7 @@ export const DECK_AQA_GCSE_ENGLISH_LITERATURE: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'gcse',
   subjectSlug: 'english-literature',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '8702',
   syllabusSeries: 'For first teaching 2015',

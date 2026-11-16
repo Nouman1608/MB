@@ -36,7 +36,7 @@ export const DECK_CAMBRIDGE_IGCSE_WORLD_HISTORY: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'world-history',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '0470',
   syllabusSeries: '2024-2026',

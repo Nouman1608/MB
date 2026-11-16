@@ -33,9 +33,10 @@ const path = '/gulf/';
 // D-303: the UAE and Qatar have their own country pages (owner choice,
 // 23 Sep 2026). D-460 (owner, 15 Nov 2026): so do Saudi Arabia, Kuwait,
 // Bahrain and Oman; this page stays as the side-by-side overview.
+// D-483 (owner, 16 Nov 2026): Saudi Arabia, Kuwait and Bahrain fold back into
+// this page (their URLs redirect here); the UAE, Qatar and Oman keep theirs.
 const COUNTRY_PAGES: Record<string, string> = {
-  'Saudi Arabia': '/saudi-arabia/', 'United Arab Emirates': '/uae/', 'Qatar': '/qatar/',
-  'Kuwait': '/kuwait/', 'Bahrain': '/bahrain/', 'Oman': '/oman/',
+  'United Arab Emirates': '/uae/', 'Qatar': '/qatar/', 'Oman': '/oman/',
 };
 const GULF_REGIONS = ['Saudi Arabia', 'United Arab Emirates', 'Qatar', 'Kuwait', 'Bahrain', 'Oman'];
 const gulfGroup = REGION_PRICING.filter((r) => GULF_REGIONS.includes(r.region));
@@ -65,8 +66,12 @@ const faqs = [
     answer: `Group fees are set in each country's own currency, as in the table on this page (for example ${formatFee(uae.igcse, uae.currency)} ${uae.currency} per subject per month for IGCSE in the UAE). One-to-one rates are currency conversions of the Pakistan rate. Payment is by ${PRICING_TERMS.paymentMethods.join(' or ')}. ${PRICING_TERMS.billing}`,
   },
   {
+    question: 'Why are the Kuwait and Bahrain fees written to three decimal places?',
+    answer: 'The Kuwaiti and Bahraini dinars are each divided into 1,000 fils, so prices in KWD and BHD are normally written to three decimal places. The fees on this page follow that convention.',
+  },
+  {
     question: 'Do you teach the curriculum my school follows?',
-    answer: `Marlbridge publishes ${published} board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB) and offers classes in ${taught} of them; the others have free study resources only, and each syllabus page says which. Choose your board on the trial form, or "Not sure" and we will check with you.`,
+    answer: `Marlbridge publishes ${published} board, qualification and subject combinations (Cambridge, Pearson Edexcel, AQA, OxfordAQA, OCR and IB) and offers classes in ${taught} of them; the others have free study resources only, and each syllabus page says which. Choose your board on the trial form, or "Not sure" and we will check with you. Gulf national curricula and the Indian CBSE and ICSE curricula are not taught.`,
   },
   {
     question: 'How quickly will you reply?',
@@ -103,9 +108,9 @@ const TIME_ZONES: Record<string, string> = {
   <Section surface="ivory">
     <Container>
       <p class="m-0 max-w-[70ch] text-[14.5px] leading-[1.65] text-ink">
-        Each of the six countries also has its own page, with its fees, local class times and what Marlbridge does not teach:
-        {GULF_REGIONS.map((r, i) => (
-          <>{' '}<a href={COUNTRY_PAGES[r]} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r === 'United Arab Emirates' ? 'the UAE' : r}</a>{i < GULF_REGIONS.length - 1 ? ',' : '.'}</>
+        This page covers families in Saudi Arabia, Kuwait and Bahrain. The UAE, Qatar and Oman also have their own pages:
+        {Object.entries(COUNTRY_PAGES).map(([r, href], i, all) => (
+          <>{' '}<a href={href} class="font-semibold text-navy-800 underline decoration-teal-500 underline-offset-2 hover:text-teal-700">{r === 'United Arab Emirates' ? 'the UAE' : r}</a>{i < all.length - 1 ? ',' : '.'}</>
         ))}
         {' '}The UAE and Qatar pages also list the syllabus pages searched most from each country.
         Other countries are covered on the

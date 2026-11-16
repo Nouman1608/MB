@@ -48,7 +48,7 @@ export const DECK_CAMBRIDGE_IGCSE_COMMERCE: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'commerce',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
   syllabusCode: '0715',
   syllabusSeries: '2028',

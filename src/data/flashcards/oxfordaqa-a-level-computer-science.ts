@@ -49,7 +49,7 @@ export const DECK_OXFORDAQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'computer-science',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: '9645',
   syllabusSeries: '2024-onwards',

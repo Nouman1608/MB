@@ -49,7 +49,7 @@ export const DECK_OXFORDAQA_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'english-literature',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '9675',
   syllabusSeries: 'Version 5.3, for International AS exams from May/June 2018, A-level from May/June 2019',

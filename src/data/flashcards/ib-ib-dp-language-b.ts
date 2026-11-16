@@ -42,7 +42,7 @@ export const DECK_IB_IB_DP_LANGUAGE_B: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'language-b',
-  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  // D-484: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
   deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: 'DP Language B',
   syllabusSeries: 'First assessment 2020',

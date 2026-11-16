@@ -91,7 +91,7 @@ for (const deck of FLASHCARD_DECKS) {
       const boards = list('boardsTaught');
       const subjects = [...list('subjectsTaught'), ...list('subjectsReviewed')];
       if (!boards.includes(deck.boardSlug)) problems.push(`${at}: deckReview names '${deck.deckReview.reviewerSlug}', whose profile does not list the board '${deck.boardSlug}'`);
-      // D-483: map the deck's matrix subject to the content subject the pages use
+      // D-484: map the deck's matrix subject to the content subject the pages use
       // (subjects.ts hubId, e.g. english-language -> english), exactly as rule [10] does for pages.
       const hub = SUBJECTS.find((x) => x.slug === deck.subjectSlug)?.hubId;
       const subj = deck.subjectSlug.startsWith('mathematics') ? 'mathematics' : (hub ?? deck.subjectSlug);
