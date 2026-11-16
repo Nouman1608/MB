@@ -313,7 +313,7 @@ const lines = [
   `- [Tutoring](${SITE_URL}/tutoring/): the teachers and how classes work; each teacher's profile is listed under "Teachers" below.`,
   `- [Pricing](${SITE_URL}/pricing/): group fees per subject per month by region, one-to-one and IB fees per class, discounts and the free trial class.`,
   `- [International online tutoring](${SITE_URL}/international-tutoring/): all classes are taught live online from Lahore, Pakistan (in person in Lahore too); class times by time zone and fees by country. Marlbridge has no office outside Pakistan.`,
-  `- Country pages: [Pakistan](${SITE_URL}/pakistan/), [United Kingdom](${SITE_URL}/uk/), [United Arab Emirates](${SITE_URL}/uae/), [Qatar](${SITE_URL}/qatar/), [Malaysia](${SITE_URL}/malaysia/), [Singapore](${SITE_URL}/singapore/), [Saudi Arabia](${SITE_URL}/saudi-arabia/), [Kuwait](${SITE_URL}/kuwait/), [Bahrain](${SITE_URL}/bahrain/), [Oman](${SITE_URL}/oman/), [Gulf](${SITE_URL}/gulf/), [Europe](${SITE_URL}/europe/).`,
+  `- Country pages: [Pakistan](${SITE_URL}/pakistan/), [United Kingdom](${SITE_URL}/uk/), [United Arab Emirates](${SITE_URL}/uae/), [Qatar](${SITE_URL}/qatar/), [Malaysia](${SITE_URL}/malaysia/), [Singapore](${SITE_URL}/singapore/), [Oman](${SITE_URL}/oman/), [Gulf: Saudi Arabia, Kuwait, Bahrain and overview](${SITE_URL}/gulf/), [Europe](${SITE_URL}/europe/).`,
   `- [For Schools](${SITE_URL}/schools/)`,
   `- [About Marlbridge](${SITE_URL}/about/): Marlbridge is the international branch of Learners Academy (https://learnersacademy.com.pk), which operates it; its teachers teach under the Marlbridge name.`,
   `- [Contact](${SITE_URL}/contact/)`,

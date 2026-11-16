@@ -8,7 +8,7 @@
  * characters and the course has a syllabus code, drop the subject name.
  * The code (e.g. 7402) still identifies the course.
  *
- * Step 2 (fitLongTopic): about 300 topics are still over 60 characters
+ * Step 2 (fitLongTopic): 307 topics are still over 60 characters
  * because the board's own topic name is long, for example
  * "Organisms respond to changes in their internal and external environments".
  */
@@ -36,12 +36,10 @@ export function flashcardSearchTitle(p: FlashcardTitleParts): string {
 
 /**
  * Called only when even the code-only title is over 60 characters.
- * `codeOnly` is that title; return the title to use instead.
- *
- * TODO(owner): choose how to treat long official topic names.
+ * D-482 (owner, 16 Nov 2026): keep the board's official topic wording in
+ * full -- it is what students copy from the syllabus -- and let search
+ * results cut the end. The topic still reads first.
  */
-function fitLongTopic(p: FlashcardTitleParts, codeOnly: string): string {
-  // Default until decided: keep the official wording in full and let Google
-  // cut the end off in results (the topic still reads first).
+function fitLongTopic(_p: FlashcardTitleParts, codeOnly: string): string {
   return codeOnly;
 }

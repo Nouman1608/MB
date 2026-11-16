@@ -44,21 +44,6 @@ export const COUNTRY_GUIDES: Readonly<Record<string, readonly string[]>> = {
   ],
   // D-460 (15 Nov 2026) -- no article has been written for these markets,
   // so they list only the guides that are not about one country.
-  'saudi-arabia': [
-    'igcse-or-o-level-which-should-my-child-take',
-    'when-to-start-a-level-tuition-before-the-summer-exams',
-    'group-classes-or-one-to-one-tuition',
-  ],
-  kuwait: [
-    'igcse-or-o-level-which-should-my-child-take',
-    'when-to-start-a-level-tuition-before-the-summer-exams',
-    'group-classes-or-one-to-one-tuition',
-  ],
-  bahrain: [
-    'igcse-or-o-level-which-should-my-child-take',
-    'when-to-start-a-level-tuition-before-the-summer-exams',
-    'group-classes-or-one-to-one-tuition',
-  ],
   oman: [
     'igcse-or-o-level-which-should-my-child-take',
     'when-to-start-a-level-tuition-before-the-summer-exams',

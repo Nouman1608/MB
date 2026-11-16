@@ -58,12 +58,9 @@ const MARKET_LINKS = [
   { slug: 'pakistan', href: '/pakistan/', name: 'Pakistan', local: onlineOnly ? 'In Pakistan, this course is taught live online, with fees in rupees.' : 'In Pakistan, classes are in person at our Lahore academy or live online, with fees in rupees.' },
   { slug: 'uae', href: '/uae/', name: 'UAE', local: 'For families in the UAE: live online classes, fees and class times in UAE time.' },
   { slug: 'qatar', href: '/qatar/', name: 'Qatar', local: 'For families in Qatar: live online classes, fees and class times in Qatar time.' },
-  { slug: 'saudi-arabia', href: '/saudi-arabia/', name: 'Saudi Arabia', local: 'For families in Saudi Arabia: live online classes, fees and class times in Saudi Arabia time.' },
-  { slug: 'kuwait', href: '/kuwait/', name: 'Kuwait', local: 'For families in Kuwait: live online classes, fees and class times in Kuwait time.' },
-  { slug: 'bahrain', href: '/bahrain/', name: 'Bahrain', local: 'For families in Bahrain: live online classes, fees and class times in Bahrain time.' },
   { slug: 'oman', href: '/oman/', name: 'Oman', local: 'For families in Oman: live online classes, fees and class times in Oman time.' },
-  // Overview page: listed below, but no time zone maps to it any more, so it has no local line.
-  { slug: 'gulf', href: '/gulf/', name: 'Gulf', local: '' },
+  // D-483 -- Saudi Arabia, Kuwait and Bahrain zones map here (their pages redirect to /gulf/).
+  { slug: 'gulf', href: '/gulf/', name: 'Gulf', local: 'For families in Saudi Arabia, Kuwait and Bahrain: live online classes, fees in your own currency and class times in Gulf time.' },
   { slug: 'malaysia', href: '/malaysia/', name: 'Malaysia', local: 'For families in Malaysia: live online classes, fees and class times in Malaysia time.' },
   { slug: 'singapore', href: '/singapore/', name: 'Singapore', local: 'For families in Singapore: live online classes for international-school students, fees in Singapore dollars and class times in Singapore time.' },
   { slug: 'uk', href: '/uk/', name: 'UK', local: ukLocal },
@@ -99,7 +96,7 @@ const MARKET_LINKS = [
     'Asia/Karachi': 'pakistan',
     'Asia/Dubai': 'uae',
     'Asia/Qatar': 'qatar',
-    'Asia/Riyadh': 'saudi-arabia', 'Asia/Kuwait': 'kuwait', 'Asia/Bahrain': 'bahrain', 'Asia/Muscat': 'oman',
+    'Asia/Riyadh': 'gulf', 'Asia/Kuwait': 'gulf', 'Asia/Bahrain': 'gulf', 'Asia/Muscat': 'oman',
     'Asia/Kuala_Lumpur': 'malaysia', 'Asia/Kuching': 'malaysia',
     'Asia/Singapore': 'singapore',
     'Europe/London': 'uk',
@@ -109,7 +106,7 @@ const MARKET_LINKS = [
   const EUROPE_EXTRA = new Set(['Asia/Nicosia', 'Asia/Famagusta', 'Atlantic/Canary', 'Atlantic/Madeira', 'Atlantic/Azores', 'Atlantic/Reykjavik', 'Atlantic/Faroe']);
   const marketForZone = (z: string): string | undefined =>
     ZONE_MARKET[z] ?? ((z.startsWith('Europe/') && !POUND_ZONES.has(z)) || EUROPE_EXTRA.has(z) ? 'europe' : undefined);
-  const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'saudi-arabia', 'kuwait', 'bahrain', 'oman']);
+  const WHATSAPP_FIRST = new Set(['pakistan', 'uae', 'qatar', 'gulf', 'oman']);
   const PRIMARY = 'bg-navy-800 text-ivory hover:bg-navy-700'.split(' ');
   const SECONDARY = 'border border-navy-800 text-navy-800 hover:bg-white'.split(' ');
 
