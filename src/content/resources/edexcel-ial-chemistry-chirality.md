@@ -74,7 +74,7 @@ Outcome 15.2 says chiral centre(s), so you should be able to spot more than one.
 - C2 carries H, Cl, CH₃ and CHClCH₂CH₃. Four different groups, so C2 is chiral.
 - C3 carries H, Cl, C₂H₅ and CHClCH₃. Four different groups, so C3 is chiral.
 
-The molecule has **two** chiral centres: CH₃C*HClC*HClCH₂CH₃. The "rest of the molecule" counts as one whole group.
+The molecule has **two** chiral centres: CH₃C\*HClC\*HClCH₂CH₃. The "rest of the molecule" counts as one whole group.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/aqa-a-level-chemistry-optical-isomerism--01-chiral-centre.webp" width="900" height="720" alt="Two ball-and-stick tetrahedral carbons. In 2-hydroxypropanoic acid the central carbon carries four different groups (H, CH3, OH, COOH, four colours), so it is a chiral centre C*. In propan-2-ol the central carbon has two identical CH3 groups, so it is not. Bonds are tetrahedral, 109.5 degrees." loading="lazy">

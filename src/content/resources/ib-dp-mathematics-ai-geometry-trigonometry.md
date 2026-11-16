@@ -88,15 +88,14 @@ most common technique errors in this strand.
 
 ## Worked example: bearings and the cosine rule
 
-A ship sails from port A on a bearing of $070°$ for 40 km to point B,
-then changes course to a bearing of $150°$ and sails a further 25 km
-to point C. Find the distance AC. The bearing changes from $070°$ to
-$150°$, so the interior angle at B -- found correctly from the
+A ship sails from port A on a bearing of 070° for 40 km to point B,
+then changes course to a bearing of 150° and sails a further 25 km
+to point C. Find the distance AC. The bearing changes from 070° to
+150°, so the interior angle at B -- found correctly from the
 bearings, allowing for the reverse bearing at B -- is the step most
 students lose marks on, and is worth establishing carefully with a
 diagram before any calculation begins. Once the angle at B is known,
-the cosine rule applies directly: $AC^2 = AB^2 + BC^2 - 2(AB)(BC)\cos(\angle
-ABC) = 40^2 + 25^2 - 2(40)(25)\cos(\angle ABC)$, and taking the square
+the cosine rule applies directly: AC² = AB² + BC² − 2(AB)(BC) cos(∠ABC) = 40² + 25² − 2(40)(25) cos(∠ABC), and taking the square
 root gives AC in km. The mathematics itself is routine once the angle
 is correctly identified -- the applied skill this course specifically
 tests is converting bearings into an interior angle correctly, which
@@ -152,7 +151,7 @@ verification is both permitted and expected.
 
 Converting a bearing into an interior triangle angle incorrectly,
 especially when the bearing at the vertex is a "reverse" bearing (add
-or subtract $180°$) rather than the forward one. Choosing the sine
+or subtract 180°) rather than the forward one. Choosing the sine
 rule for an SAS or SSS triangle where the cosine rule is required.
 Forgetting that HL vector questions on lines and intersection require
 setting the parametric forms of two lines equal and solving

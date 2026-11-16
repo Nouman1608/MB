@@ -158,13 +158,13 @@ At 0: 3 + 4 = 7
 Answer: 27 + 4/3 - 7 = 64/3
 ```
 
-**Worked example 9.** Evaluate ∫₀^(π/3) cos²x dx, and ∫_(-6)^(-2) (3/x) dx.
+**Worked example 9.** Evaluate ∫₀^(π/3) cos²x dx, and ∫ from −6 to −2 of (3/x) dx.
 
 ```
 cos²x = (1 + cos 2x)/2, so ∫ = [x/2 + (sin 2x)/4]₀^(π/3)
 = π/6 + (√3/2)/4 = π/6 + √3/8
 
-∫_(-6)^(-2) 3/x dx = [3 ln|x|]_(-6)^(-2) = 3 ln 2 - 3 ln 6 = -3 ln 3
+∫ from −6 to −2 of (3/x) dx = [3 ln|x|] from −6 to −2 = 3 ln 2 − 3 ln 6 = −3 ln 3
 ```
 
 The second answer is negative because 1/x is negative between -6 and -2. Writing ln(-2) would be undefined, which is why the modulus is needed.

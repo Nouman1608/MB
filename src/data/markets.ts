@@ -158,7 +158,7 @@ export const MARKETS: readonly Market[] = [
       { path: '/boards/cambridge/a-level/accounting/', label: 'Cambridge A Level Accounting' },
     ],
     notOffered:
-      'Marlbridge does not teach the UAE Ministry of Education curriculum, the Indian CBSE or ICSE curricula, the American curriculum or Advanced Placement (AP), or the French Baccalauréat. It teaches the British-style international qualifications listed on this page, and the IB one-to-one.',
+      'Marlbridge does not teach the UAE Ministry of Education curriculum, the Indian CBSE or ICSE curricula, the American high-school curriculum, or the French Baccalauréat. It teaches the British-style international qualifications listed on this page, and the IB and Advanced Placement (AP) one-to-one.',
     faqs: [
       {
         question: 'Does Marlbridge have a centre in the UAE?',
@@ -200,7 +200,7 @@ export const MARKETS: readonly Market[] = [
       { path: '/boards/aqa/a-level/english-language/', label: 'AQA A Level English Language' },
     ],
     notOffered:
-      'Marlbridge does not teach the Qatari national curriculum, the Indian CBSE or ICSE curricula, or the American curriculum and Advanced Placement (AP). It teaches the British-style international qualifications listed on this page, and the IB one-to-one.',
+      'Marlbridge does not teach the Qatari national curriculum, the Indian CBSE or ICSE curricula, or the American high-school curriculum. It teaches the British-style international qualifications listed on this page, and the IB and Advanced Placement (AP) one-to-one.',
     faqs: [
       {
         question: 'Does Marlbridge have a centre in Qatar?',
@@ -297,7 +297,7 @@ export const MARKETS: readonly Market[] = [
     searchedHubsNote:
       "From Marlbridge's own Google Analytics data for visits from Singapore that stayed at least five seconds (July to October 2026, automated traffic excluded), grouped by course. Each page gives the official syllabus or specification, how it is assessed, and free study material.",
     notOffered:
-      'Marlbridge does not teach the Singapore national curriculum or its national examinations, including the PSLE, the Singapore-Cambridge GCE O-Level, N-Level and A-Level, and the Singapore-Cambridge Secondary Education Certificate (SEC). These are different examinations from Cambridge International IGCSE, O Level and AS & A Level, which are taught. It also does not teach the American curriculum or Advanced Placement (AP), or the Indian CBSE or ICSE curricula.',
+      'Marlbridge does not teach the Singapore national curriculum or its national examinations, including the PSLE, the Singapore-Cambridge GCE O-Level, N-Level and A-Level, and the Singapore-Cambridge Secondary Education Certificate (SEC). These are different examinations from Cambridge International IGCSE, O Level and AS & A Level, which are taught. It also does not teach the American high-school curriculum or the Indian CBSE or ICSE curricula; Advanced Placement (AP) courses are taught one-to-one.',
     faqs: [
       {
         question: 'Does Marlbridge have a centre in Singapore?',
