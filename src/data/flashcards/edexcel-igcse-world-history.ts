@@ -39,6 +39,8 @@ export const DECK_EDEXCEL_IGCSE_WORLD_HISTORY: FlashcardDeck = {
   boardSlug: 'edexcel',
   qualificationSlug: 'igcse',
   subjectSlug: 'world-history',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '4HI1',
   syllabusSeries: 'Issue 5, February 2026',
   author: 'marlbridge-academic-team',

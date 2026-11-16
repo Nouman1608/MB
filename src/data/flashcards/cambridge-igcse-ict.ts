@@ -61,6 +61,8 @@ export const DECK_CAMBRIDGE_IGCSE_ICT: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'ict',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: '0417',
   syllabusSeries: '2026-2028',
   author: 'marlbridge-academic-team',

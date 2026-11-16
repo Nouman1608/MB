@@ -38,6 +38,8 @@ export const DECK_CAMBRIDGE_O_LEVEL_SOCIOLOGY: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'o-level',
   subjectSlug: 'sociology',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'naqiya-yousaf', reviewedOn: '2026-11-16' },
   syllabusCode: '2251',
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',

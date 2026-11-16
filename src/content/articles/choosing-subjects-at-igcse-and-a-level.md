@@ -2,6 +2,9 @@
 title: "Choosing subjects at IGCSE and A Level"
 excerpt: "How subject choices at 14 and 16 affect university options later, and how to keep pathways open without overloading a timetable."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-07-28
 category: "curriculum-guides"
 subjects: []

@@ -49,6 +49,8 @@ export const DECK_CAMBRIDGE_A_LEVEL_ENGLISH_LANGUAGE: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'a-level',
   subjectSlug: 'english-language',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '9093',
   syllabusSeries: '2024-2026',
   author: 'marlbridge-academic-team',

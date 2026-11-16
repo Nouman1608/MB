@@ -46,6 +46,8 @@ export const DECK_IB_IB_DP_LANGUAGE_A_LANGUAGE_AND_LITERATURE: FlashcardDeck = {
   boardSlug: 'ib',
   qualificationSlug: 'ib-dp',
   subjectSlug: 'language-a-language-and-literature',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: 'DP Language A: Language and Literature',
   syllabusSeries: 'First assessments for SL and HL 2021',
   author: 'marlbridge-academic-team',

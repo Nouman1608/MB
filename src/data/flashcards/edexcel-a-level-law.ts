@@ -40,6 +40,8 @@ export const DECK_EDEXCEL_A_LEVEL_LAW: FlashcardDeck = {
   boardSlug: 'edexcel',
   qualificationSlug: 'a-level',
   subjectSlug: 'law',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'aizaz-raoof-ali', reviewedOn: '2026-11-16' },
   syllabusCode: 'YLA1',
   syllabusSeries: 'Issue 4, November 2021',
   author: 'marlbridge-academic-team',

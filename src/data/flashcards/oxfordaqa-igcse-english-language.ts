@@ -43,6 +43,8 @@ export const DECK_OXFORDAQA_IGCSE_ENGLISH_LANGUAGE: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
   subjectSlug: 'english-language',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '9270',
   syllabusSeries: 'Version 5.1, for exams May/June 2018 onwards',
   author: 'marlbridge-academic-team',

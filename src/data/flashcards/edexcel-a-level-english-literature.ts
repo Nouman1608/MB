@@ -36,6 +36,8 @@ export const DECK_EDEXCEL_A_LEVEL_ENGLISH_LITERATURE: FlashcardDeck = {
   boardSlug: 'edexcel',
   qualificationSlug: 'a-level',
   subjectSlug: 'english-literature',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: 'YET01',
   syllabusSeries: 'For first teaching 2015 (units WET01–WET04)',
   author: 'marlbridge-academic-team',

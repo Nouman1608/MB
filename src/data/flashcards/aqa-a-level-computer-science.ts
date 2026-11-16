@@ -48,6 +48,8 @@ export const DECK_AQA_A_LEVEL_COMPUTER_SCIENCE: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'a-level',
   subjectSlug: 'computer-science',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
   syllabusCode: '7517',
   syllabusSeries: '2015-onwards',
   author: 'marlbridge-academic-team',

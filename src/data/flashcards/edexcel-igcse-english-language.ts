@@ -54,6 +54,8 @@ export const DECK_EDEXCEL_IGCSE_ENGLISH_LANGUAGE: FlashcardDeck = {
   boardSlug: 'edexcel',
   qualificationSlug: 'igcse',
   subjectSlug: 'english-language',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '4EA1',
   syllabusSeries: 'For first teaching 2016 (Issue 7, August 2025)',
   author: 'marlbridge-academic-team',

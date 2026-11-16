@@ -60,6 +60,8 @@ export const DECK_CAMBRIDGE_IGCSE_GLOBAL_PERSPECTIVES: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'global-perspectives',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'ammar-bilal', reviewedOn: '2026-11-16' },
   syllabusCode: '0457',
   syllabusSeries: '2025-2027',
   author: 'marlbridge-academic-team',

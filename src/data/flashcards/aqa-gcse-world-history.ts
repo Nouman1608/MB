@@ -47,6 +47,8 @@ export const DECK_AQA_GCSE_WORLD_HISTORY: FlashcardDeck = {
   boardSlug: 'aqa',
   qualificationSlug: 'gcse',
   subjectSlug: 'world-history',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '8145',
   syllabusSeries: 'first teaching 2016',
   author: 'marlbridge-academic-team',

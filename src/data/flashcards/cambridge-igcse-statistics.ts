@@ -35,6 +35,8 @@ export const DECK_CAMBRIDGE_IGCSE_STATISTICS: FlashcardDeck = {
   boardSlug: 'cambridge',
   qualificationSlug: 'igcse',
   subjectSlug: 'statistics',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
   syllabusCode: '0479',
   syllabusSeries: '2027',
   author: 'marlbridge-academic-team',

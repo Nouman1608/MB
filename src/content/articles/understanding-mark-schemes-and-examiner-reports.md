@@ -2,6 +2,9 @@
 title: "Understanding mark schemes and examiner reports"
 excerpt: "Mark schemes explain how marks are awarded; examiner reports explain why they were lost. Reading both changes how a student answers a question."
 author: "marlbridge-academic-team"
+reviewer: "nouman-ahmed"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-16
 publishedDate: 2026-07-21
 category: "exam-preparation"
 subjects: []

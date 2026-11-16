@@ -86,6 +86,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'core',
     code: '0620',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'chemistry',
@@ -109,6 +111,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'extended',
     code: '0620',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'chemistry',
@@ -131,6 +135,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9701',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'chemistry',
@@ -152,6 +158,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9701',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'chemistry',
@@ -173,6 +181,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9702',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'physics',
@@ -194,6 +204,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9702',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'physics',
@@ -215,6 +227,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'core',
     code: '0580',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'mathematics',
@@ -235,6 +249,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'core',
     code: '0625',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'physics',
@@ -258,6 +274,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '4CH1',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'nouman-ahmed', reviewedOn: '2026-11-16' },
     boardSlug: 'edexcel',
     qualificationSlug: 'igcse',
     subjectSlug: 'chemistry',
@@ -278,6 +296,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '4PH1',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-16' },
     boardSlug: 'edexcel',
     qualificationSlug: 'igcse',
     subjectSlug: 'physics',
@@ -298,6 +318,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9708',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'economics',
@@ -317,6 +339,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9609',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'business',
@@ -336,6 +360,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9618',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'computer-science',
@@ -355,6 +381,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '5070',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'farhat-ul-ain-sehgal', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'chemistry',
@@ -375,6 +403,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9709',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'mathematics',
@@ -394,6 +424,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '4024',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'mathematics',
@@ -414,6 +446,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'core',
     code: '0610',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'biology',
@@ -432,6 +466,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'as',
     code: '9700',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'biology',
@@ -451,6 +487,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '5054',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hassan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'physics',
@@ -470,6 +508,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '2281',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'economics',
@@ -489,6 +529,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '7115',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'business',
@@ -507,6 +549,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'all-topics',
     code: '2210',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'computer-science',
@@ -526,6 +570,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'extended',
     code: '0610',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'biology',
@@ -550,6 +596,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'extended',
     code: '0580',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'mathematics',
@@ -575,6 +623,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'extended',
     code: '0625',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'iftikhar-azeemi', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'igcse',
     subjectSlug: 'physics',
@@ -594,6 +644,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9700',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'hina-mogul', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'biology',
@@ -613,6 +665,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9708',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'economics',
@@ -632,6 +686,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9609',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'salman-ahmad', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'business',
@@ -651,6 +707,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9618',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'computer-science',
@@ -670,6 +728,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'a-level',
     code: '9709',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'sajawal-zahid', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'a-level',
     subjectSlug: 'mathematics',
@@ -696,6 +756,8 @@ export const DIAGNOSTIC_SETS: readonly DiagnosticSet[] = [
   {
     slug: 'paper-2',
     code: '2210',
+    // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+    setReview: { reviewerSlug: 'harris-khan', reviewedOn: '2026-11-16' },
     boardSlug: 'cambridge',
     qualificationSlug: 'o-level',
     subjectSlug: 'computer-science',

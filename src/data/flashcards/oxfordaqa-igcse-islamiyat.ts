@@ -41,6 +41,8 @@ export const DECK_OXFORDAQA_IGCSE_ISLAMIYAT: FlashcardDeck = {
   boardSlug: 'oxfordaqa',
   qualificationSlug: 'igcse',
   subjectSlug: 'islamiyat',
+  // D-483: recorded on the owner's word (16 Nov 2026), accountable teacher for this course.
+  deckReview: { reviewerSlug: 'azam-siddique', reviewedOn: '2026-11-16' },
   syllabusCode: '9237',
   syllabusSeries: 'Version 1.1',
   author: 'marlbridge-academic-team',
