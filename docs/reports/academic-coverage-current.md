@@ -29,8 +29,8 @@ written, so an unchanged repository regenerates identical files).
 
 | Completeness | Combinations |
 | --- | --- |
-| VERIFIED_COMPLETE | 165 |
-| VERIFIED_PARTIAL | 1 |
+| VERIFIED_COMPLETE | 164 |
+| VERIFIED_PARTIAL | 2 |
 | NO_ASSESSMENT_RECORD | 0 |
 
 A combination is `VERIFIED_COMPLETE` when every assessment record for it has an official
@@ -78,7 +78,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | AQA | 26 | 26 | 26 | 1381 | 0 | 26 | 1246 | 135 |
 | Cambridge | 55 | 55 | 55 | 2722 | 0 | 55 | 2431 | 291 |
 | Pearson Edexcel | 21 | 21 | 21 | 1099 | 0 | 21 | 1035 | 64 |
-| International Baccalaureate | 21 | 21 | 21 | 1066 | 0 | 20 | 928 | 138 |
+| International Baccalaureate | 21 | 21 | 21 | 1066 | 0 | 19 | 928 | 138 |
 | OCR | 13 | 13 | 13 | 1289 | 0 | 13 | 1259 | 30 |
 | OxfordAQA | 30 | 30 | 30 | 1480 | 0 | 30 | 1347 | 133 |
 
@@ -99,7 +99,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Risk | Combinations |
 | --- | --- |
 | evidence-is-blanket-authorization-not-subject-specific-confirmation | 80 |
-| assessment-verified_partial | 1 |
+| assessment-verified_partial | 2 |
 
 ## Zero-resource combinations
 
@@ -276,8 +276,8 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 | Next action | Combinations |
 | --- | --- |
 | Named-reviewer sign-off of review-pending resources. | 151 |
-| None. | 14 |
-| Complete the assessment record from the official specification. | 1 |
+| None. | 13 |
+| Complete the assessment record from the official specification. | 2 |
 
 Overall: the largest outstanding item is human sign-off: 779 review-pending resources need a named, authorised reviewer (queue: [academic-review/signoff-queue.md](academic-review/signoff-queue.md)).
 
@@ -389,7 +389,7 @@ Overall: the largest outstanding item is human sign-off: 779 review-pending reso
 | Pearson Edexcel | A Level | English Literature | YET01 | 14 | 13 / 1 | VERIFIED_COMPLETE (modular) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Business | DP Business Management | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
-| International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
 | International Baccalaureate | IB Diploma Programme | Computer Science | DP Computer Science (2014) / DP Computer Science (2027) | 19 | 19 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Psychology | DP Psychology (2019) / DP Psychology (2027) | 28 | 0 / 28 | VERIFIED_COMPLETE (component-based) | 0 | Named-reviewer sign-off of review-pending resources. |
 | International Baccalaureate | IB Diploma Programme | Biology | DP Biology | 127 | 127 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |

@@ -16159,3 +16159,15 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - Owner, 16 Nov 2026: "yes update the editorial policy", after deciding that only papers an exam board has made publicly available are to be hosted, under the owner's responsibility (D-463, D-469).
 - **Fix.** The "Copyright and original questions" paragraph on /legal/editorial-policy/ no longer says Marlbridge does not reproduce past-exam questions or mark schemes. It now says the past-paper library may hold board-published question papers, mark schemes and examiner reports that the board has made publicly available, each unaltered, labelled with its board and never presented as Marlbridge's work; that they are hosted under the owner's responsibility; and that a board can ask for removal at the site's contact address. Practice questions are still stated to be wholly original, and resources still do not reproduce specification text. This clears the policy half of rule [8] in `scripts/validate-past-papers.mjs`.
 - **Not changed.** The ar/ur/bn editorial policies (`src/i18n/pages/legal.ts`, "Copyright" sections) need a translator before the first paper is listed. Each course's past-paper guide still says papers are not hosted; it is updated when that course gets files.
+## D-473 - DP Language A: Literature HL essay and individual oral totals removed until an IB document confirms them (OQ-6, 16 Nov 2026)
+
+- Owner, 16 Nov 2026: "do OQ-6 option a". This is the same conflict as OQ-3 / D-455, on the sister subject.
+- **Problem.** The record showed the HL Essay as 20 marks and the Individual Oral as 40 (SL and HL). Neither component is in the IB specimen papers, and both totals were corroborated only against a third-party IB revision resource. The editorial policy says sources are never a tutoring site.
+- **Fix** (`src/data/academic/assessments.ts`):
+  - `marks` is `null` for the HL Essay and both Individual Oral rows, shown as "Not confirmed" and "mark total not confirmed".
+  - The reader-facing `marksSourceNote` and the public `notes` say why.
+  - Paper 1 (20 / 40) and Paper 2 (25) are kept: they come from IB specimen papers. Durations and weightings are from the IB brief and unchanged.
+  - The hub's disclosure prefix now reads "Some figures are not shown:" whenever a total is withheld and no third-party mirror is in use. The condition was generalised from D-455's `official-host` check.
+- **Two resource pages.** `ib-dp-language-a-literature-individual-oral-global-issues` and its revision notes said the oral "is marked out of 40 on four criteria (A to D, 10 marks each)", attributed to the IB guide. That clause now says the mark total and criteria are not given until an IB document confirms them. The rest of each page is unchanged.
+- **Guards.** `validate-assessments` [8] (from D-455) passes. A new unit test asserts no 20 or 40 total is printed for these components.
+- **To restore the figures.** An IB document: the subject guide, or a published assessment-criteria document.

@@ -841,7 +841,7 @@ const jsonLd = [
                 )}
                 {a.marksSourceNote && (
                   <p class="m-0 mt-3 rounded-sm border-l-2 border-gold-500 pl-3 text-[13.5px] leading-[1.6] text-ink-mute" data-marks-source-note>
-                    <span class="font-medium text-navy-800">{a.sourceConfidence === 'official-host' && a.components.some((comp) => comp.marks === null) ? 'Some figures are not shown:' : `Not all of these figures come from ${c.board} documents:`}</span> {a.marksSourceNote}
+                    <span class="font-medium text-navy-800">{!a.mirrorSourceUrl && a.components.some((comp) => comp.marks === null) ? 'Some figures are not shown:' : `Not all of these figures come from ${c.board} documents:`}</span> {a.marksSourceNote}
                   </p>
                 )}
                 <p class="m-0 mt-3 text-[13px] text-ink-mute">
