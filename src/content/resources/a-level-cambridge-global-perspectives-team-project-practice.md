@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives: The Team Project — Practice Questions"
+seoTitle: "Cambridge A Level Global Perspectives Team Project Practice"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["a-levels"]

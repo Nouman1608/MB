@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: The Family — Revision Notes (9699)"
+seoTitle: "Cambridge A Level Sociology The Family Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

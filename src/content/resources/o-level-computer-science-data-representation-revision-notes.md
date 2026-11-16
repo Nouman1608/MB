@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Data Representation — Revision Notes"
+seoTitle: "Cambridge O Level Computer Science Data Representation Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

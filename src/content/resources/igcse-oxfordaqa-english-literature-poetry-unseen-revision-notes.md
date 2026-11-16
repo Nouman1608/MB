@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Literature: Poetry and Unseen Texts — Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Poetry and Unseen Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

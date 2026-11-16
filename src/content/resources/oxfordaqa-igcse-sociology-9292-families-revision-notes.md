@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Families -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Sociology Families Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

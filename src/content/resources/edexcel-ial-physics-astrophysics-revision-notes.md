@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Astrophysics and Cosmology — Revision Notes"
+seoTitle: "Edexcel IAL Physics Astrophysics and Cosmology Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

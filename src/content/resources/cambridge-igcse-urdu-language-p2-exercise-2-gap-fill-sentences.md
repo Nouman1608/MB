@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Paper 2 Exercise 2 – Gap-fill sentences"
+seoTitle: "Cambridge IGCSE Urdu Paper 2 Gap-fill Sentences Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Urdu: Local, National, International and Global Areas of Interest — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Areas of Interest Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

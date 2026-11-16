@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Biology A (Gateway): Tier Choice and Which Topics Sit on Which Paper"
+seoTitle: "OCR GCSE Biology A Gateway Exam Prep: Tiers and Papers"
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Solids, Liquids and Gases — Revision Notes"
+seoTitle: "Edexcel IGCSE Physics Solids, Liquids and Gases Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Unseen Poetry -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature Unseen Poetry Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

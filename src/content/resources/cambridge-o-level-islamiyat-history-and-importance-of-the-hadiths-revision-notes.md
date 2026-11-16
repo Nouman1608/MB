@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: History and Importance of the Hadiths — Revision Notes (2058)"
+seoTitle: "O Level Islamiyat History and Importance of Hadiths Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]

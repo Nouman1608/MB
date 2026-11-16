@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 4.1 Natural increase as a component of population change -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Natural Increase Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Accounting: Sources and Recording of Data — Practice Questions"
+seoTitle: "Cambridge IGCSE 0452 Sources and Recording of Data Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse","o-levels"]

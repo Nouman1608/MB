@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Cell membranes and transport — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Membranes and Transport Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

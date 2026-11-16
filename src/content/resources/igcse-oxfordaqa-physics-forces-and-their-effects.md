@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Physics: Forces and Their Effects (9203)"
+seoTitle: "OxfordAQA IGCSE Physics Forces and Their Effects Study Guide"
 resourceType: "study-guides"
 subject: "physics"
 level: ["igcse"]

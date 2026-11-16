@@ -1,5 +1,6 @@
 ---
 title: "IB DP Chemistry Structure 1: Models of the Particulate Nature of Matter"
+seoTitle: "IB Chemistry Structure 1 Particulate Nature of Matter Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["ib"]

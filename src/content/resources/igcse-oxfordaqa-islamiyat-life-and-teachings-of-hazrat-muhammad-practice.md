@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Life and Teachings of Hazrat Muhammad (pbuh) — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Islamiyat Life of Hazrat Muhammad Practice"
 resourceType: "practice-questions"
 subject: "islamiyat"
 level: ["igcse"]

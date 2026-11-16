@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Attitudes Towards Immigration -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Attitudes Towards Immigration Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

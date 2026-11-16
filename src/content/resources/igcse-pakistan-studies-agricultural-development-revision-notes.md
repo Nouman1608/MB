@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Agricultural Development — Revision Notes"
+seoTitle: "Cambridge IGCSE Pak Studies Agricultural Development Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

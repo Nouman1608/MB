@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Physics: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Physics Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["igcse"]

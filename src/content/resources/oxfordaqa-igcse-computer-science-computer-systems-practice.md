@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Computer Systems — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Computer Systems Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Mathematics: Graphs of Functions and Sketching Curves — Revision Notes"
+seoTitle: "Cambridge O Level Maths Graphs and Sketching Curves Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["o-levels"]

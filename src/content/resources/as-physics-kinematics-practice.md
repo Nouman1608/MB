@@ -1,5 +1,6 @@
 ---
 title: "AS Physics: Kinematics and Equations of Motion — Practice Questions"
+seoTitle: "Cambridge AS Physics Kinematics Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

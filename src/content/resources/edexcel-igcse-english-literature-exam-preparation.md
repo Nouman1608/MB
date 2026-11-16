@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Closed Book, Open Book and the Coursework Alternative"
+seoTitle: "Edexcel IGCSE English Lit Closed and Open Book Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["igcse"]

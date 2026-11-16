@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Monitoring and Control — Revision Notes"
+seoTitle: "Cambridge A Level ICT 9626 Monitoring and Control Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Option E: Leisure, tourism and sport -- Study Guide"
+seoTitle: "IB DP Geography Option E Leisure, Tourism and Sport Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

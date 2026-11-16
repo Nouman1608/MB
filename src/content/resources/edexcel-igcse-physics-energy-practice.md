@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Energy Resources and Energy Transfers — Practice Questions"
+seoTitle: "Edexcel IGCSE Physics Energy Resources & Transfers Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

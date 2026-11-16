@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Geography: Physical Geography 1 — Revision Notes"
+seoTitle: "OxfordAQA A Level Physical Geography 1 Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

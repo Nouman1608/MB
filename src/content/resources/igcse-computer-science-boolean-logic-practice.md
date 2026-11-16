@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: Boolean Logic — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE Computer Science Boolean Logic Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

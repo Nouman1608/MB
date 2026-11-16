@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Living with the Physical Environment — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Geography Physical Environment Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["igcse"]

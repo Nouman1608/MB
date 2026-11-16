@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Economics: Interest Rates and Government Income and Expenditure — Revision Notes"
+seoTitle: "AQA GCSE Economics Interest Rates & Government Income Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History (8145): Paper 1 Section B Wider World Depth Studies — Revision Notes"
+seoTitle: "AQA GCSE History Wider World Depth Studies Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["gcse"]

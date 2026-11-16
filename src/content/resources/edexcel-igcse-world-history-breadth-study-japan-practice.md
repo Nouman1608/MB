@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Japan in Transformation, 1853–1945 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Japan in Transformation Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Coordination and response — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Coordination and Response Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

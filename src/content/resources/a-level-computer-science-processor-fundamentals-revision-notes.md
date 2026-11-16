@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Processor Fundamentals — Revision Notes"
+seoTitle: "Cambridge 9618 Processor Fundamentals Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

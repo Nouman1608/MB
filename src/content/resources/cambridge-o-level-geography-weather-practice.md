@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Weather -- Practice Questions"
+seoTitle: "Cambridge O Level Geography Weather Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

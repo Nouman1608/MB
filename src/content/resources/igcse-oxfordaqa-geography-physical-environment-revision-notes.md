@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Living with the Physical Environment — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Geography Physical Environment Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

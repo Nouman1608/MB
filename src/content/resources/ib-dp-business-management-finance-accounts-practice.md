@@ -1,5 +1,6 @@
 ---
 title: "IB DP Business Management Unit 3: Finance and Accounts -- Practice Questions"
+seoTitle: "IB DP Business Management Finance and Accounts Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["ib"]

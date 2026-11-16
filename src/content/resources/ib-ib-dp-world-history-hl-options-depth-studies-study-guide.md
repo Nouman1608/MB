@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): HL options: Depth studies -- Study Guide"
+seoTitle: "IB DP History HL Options Depth Studies Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["ib"]

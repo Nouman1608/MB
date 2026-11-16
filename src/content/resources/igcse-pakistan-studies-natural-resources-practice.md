@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Natural Resources — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Natural Resources Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

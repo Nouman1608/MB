@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Listening, Reading and Writing (9UR0 Paper 3)"
+seoTitle: "Edexcel A-Level Urdu Listening, Reading and Writing Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

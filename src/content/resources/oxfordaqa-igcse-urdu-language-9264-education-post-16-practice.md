@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Education Post-16 -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Education Post-16 Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

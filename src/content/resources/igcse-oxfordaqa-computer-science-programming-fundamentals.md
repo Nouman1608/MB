@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Programming Fundamentals (9210)"
+seoTitle: "OxfordAQA IGCSE CS Programming Fundamentals Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Sociocultural approach to understanding behaviour -- Study Guide"
+seoTitle: "IB DP Psychology Sociocultural Approach Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

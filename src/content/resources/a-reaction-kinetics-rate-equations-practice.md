@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Rate Equations and Catalysis — Practice Questions"
+seoTitle: "Cambridge A Level Rate Equations and Catalysis Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Chemistry: Equilibria and Le Chatelier Principle — Revision Notes"
+seoTitle: "OxfordAQA A Level Chemistry Equilibria Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

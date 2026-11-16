@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Assignment A Modern Drama -- Revision Notes"
+seoTitle: "Edexcel IGCSE English Lit Assignment A Modern Drama Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

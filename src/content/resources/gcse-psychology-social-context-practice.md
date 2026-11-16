@@ -1,5 +1,6 @@
 ---
 title: "GCSE Psychology: Social Context and Behaviour — Practice Questions"
+seoTitle: "AQA GCSE Psychology Social Context and Behaviour Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

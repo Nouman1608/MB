@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Organisation of the Organism — Practice Questions"
+seoTitle: "Cambridge IGCSE Biology Organisation of Organism Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: The Rightly Guided Caliphs — Revision Notes (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Rightly Guided Caliphs Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

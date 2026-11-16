@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Sociology: Crime, Deviance and Social Stratification (8192)"
+seoTitle: "AQA GCSE Sociology Crime, Deviance & Stratification Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["gcse"]

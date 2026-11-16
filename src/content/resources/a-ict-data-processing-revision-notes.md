@@ -1,5 +1,6 @@
 ---
 title: "A Level Information Technology (ICT): Data Processing and Information — Revision Notes"
+seoTitle: "Cambridge A Level ICT Data Processing and Information Notes"
 resourceType: "revision-notes"
 subject: "ict"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Software Development -- Study Guide"
+seoTitle: "Cambridge A Level CS Software Development Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

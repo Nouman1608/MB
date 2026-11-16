@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Infrared and Mass Spectrometry — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Infrared & Mass Spectrometry Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

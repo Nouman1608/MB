@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Sociology: Crime, Deviance and Social Stratification — Revision Notes"
+seoTitle: "AQA GCSE Sociology Crime, Deviance and Stratification Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["gcse"]

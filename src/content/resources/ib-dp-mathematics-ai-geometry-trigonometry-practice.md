@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Geometry and Trigonometry Strand Practice Questions"
+seoTitle: "IB DP Maths AI Geometry and Trigonometry Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

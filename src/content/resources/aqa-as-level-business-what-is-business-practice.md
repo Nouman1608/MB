@@ -1,5 +1,6 @@
 ---
 title: "AQA AS-Level Business: What Is Business? — Practice Questions"
+seoTitle: "AQA AS Business What Is Business Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

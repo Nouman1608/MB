@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Geography: Coastal Environments, Paper 3 Option (9696)"
+seoTitle: "Cambridge A Level Geography Coastal Environments Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["a-levels"]

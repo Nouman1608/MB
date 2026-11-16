@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Physics: Conservation and Dissipation of Energy — Revision Notes"
+seoTitle: "AQA GCSE Physics Conservation & Dissipation of Energy Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["gcse"]

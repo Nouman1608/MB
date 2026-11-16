@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Sociology: Crime, Deviance and Social Stratification — Practice Questions"
+seoTitle: "AQA GCSE Sociology Crime, Deviance & Stratification Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["gcse"]

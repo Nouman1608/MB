@@ -1,5 +1,6 @@
 ---
 title: "O Level Business Studies: People in Business — Revision Notes"
+seoTitle: "Cambridge O Level Business People in Business Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["o-levels"]

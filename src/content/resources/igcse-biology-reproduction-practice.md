@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Reproduction — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Reproduction Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

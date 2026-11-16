@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: Language and Society — Practice Questions"
+seoTitle: "OxfordAQA A-Level English Language and Society Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

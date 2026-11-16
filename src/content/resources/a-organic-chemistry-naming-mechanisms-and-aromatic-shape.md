@@ -1,5 +1,6 @@
 ---
 title: "A Level Organic Chemistry: Naming, Mechanisms and Aromatic Shape"
+seoTitle: "Cambridge A Level Organic Naming and Mechanisms Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

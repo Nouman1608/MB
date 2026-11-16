@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Physics: Development of Practical Skills — Practice Questions"
+seoTitle: "OCR A Level Physics Practical Skills Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

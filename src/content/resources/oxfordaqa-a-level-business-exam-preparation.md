@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Business: Are You Sitting 9625 or 9725? (Exam Preparation)"
+seoTitle: "OxfordAQA A-Level Business Exam Prep: 9625 or 9725"
 resourceType: "exam-preparation"
 subject: "business"
 level: ["a-levels"]

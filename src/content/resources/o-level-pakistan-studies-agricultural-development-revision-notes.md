@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Agricultural Development — Revision Notes"
+seoTitle: "Cambridge O Level Pak Studies Agricultural Development Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

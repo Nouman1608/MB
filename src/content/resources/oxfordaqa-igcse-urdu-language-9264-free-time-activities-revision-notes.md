@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Free-Time Activities -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Free-Time Activities Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

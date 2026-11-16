@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Atomic Structure — Particles, Radius and Isotopes — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Atomic Structure & Isotopes Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

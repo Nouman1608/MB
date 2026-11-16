@@ -1,5 +1,6 @@
 ---
 title: "Arenes and Halogenoarenes: Electrophilic Substitution and Reactivity"
+seoTitle: "Cambridge A Level Chemistry Arenes and Halogenoarenes Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

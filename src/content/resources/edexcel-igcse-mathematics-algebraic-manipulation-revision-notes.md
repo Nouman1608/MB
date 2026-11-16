@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Mathematics: Use of Symbols and Algebraic Manipulation — Revision Notes"
+seoTitle: "Edexcel IGCSE Maths Algebraic Manipulation Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Consumer Psychology (Specialist Option 2)"
+seoTitle: "Cambridge A Level Psychology Consumer Psychology Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

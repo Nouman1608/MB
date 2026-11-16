@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 10.2 Impacts of changing trends in resource consumption -- Revision Notes"
+seoTitle: "IB DP Geography Changing Resource Consumption Impacts Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

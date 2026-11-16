@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Unit 5: Human development and diversity -- Study Guide"
+seoTitle: "IB DP Geography Human Development and Diversity Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

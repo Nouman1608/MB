@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Basic Economic Ideas and Resource Allocation (Cambridge 9708)"
+seoTitle: "Cambridge A Level Economics Basic Economic Ideas Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

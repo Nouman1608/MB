@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Cell Structure and Biological Molecules — Practice Questions (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Cell Structure and Molecules Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

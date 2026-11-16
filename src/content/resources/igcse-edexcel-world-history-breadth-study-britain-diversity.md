@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Diversity, Rights and Equality in Britain, 1914–2010 (4HI1)"
+seoTitle: "Edexcel IGCSE History Rights in Britain 1914–2010 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Alcohols and Carboxylic Acids — Practice Questions"
+seoTitle: "Cambridge IGCSE Alcohols and Carboxylic Acids Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

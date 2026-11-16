@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Developmental psychology -- Study Guide"
+seoTitle: "IB DP Psychology Developmental Psychology Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["ib"]

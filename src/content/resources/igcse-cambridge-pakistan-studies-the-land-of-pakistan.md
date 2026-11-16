@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: The Land of Pakistan (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Land of Pakistan Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

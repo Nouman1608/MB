@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Psychology: Biopsychology, Development and Research Methods 1 — Practice Questions"
+seoTitle: "OxfordAQA A-Level Psychology Biopsychology Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

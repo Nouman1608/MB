@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: External Influences Facing Businesses (H431)"
+seoTitle: "OCR A Level Business External Influences Study Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Business: Technology and Ethical/Environmental Considerations — Practice Questions"
+seoTitle: "AQA GCSE Business Technology and Ethics Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["gcse"]

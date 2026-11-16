@@ -1,5 +1,6 @@
 ---
 title: "Transition Elements: Colour, Stereoisomerism and Stability Constants"
+seoTitle: "Cambridge A Level Transition Elements Colour Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

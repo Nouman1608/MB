@@ -1,5 +1,6 @@
 ---
 title: "Energetics: Enthalpy Change, Calorimetry, Hess's Law and Bond Enthalpies"
+seoTitle: "OxfordAQA A Level Chemistry Energetics and Hess's Law Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

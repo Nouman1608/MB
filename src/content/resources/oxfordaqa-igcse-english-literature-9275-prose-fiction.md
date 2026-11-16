@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Prose Fiction"
+seoTitle: "OxfordAQA IGCSE English Literature Prose Fiction Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

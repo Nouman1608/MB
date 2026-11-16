@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 1.1 The drainage basin system -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Drainage Basin System Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

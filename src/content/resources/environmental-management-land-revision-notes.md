@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Land — Revision Notes"
+seoTitle: "Cambridge IGCSE Environmental Management Land Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

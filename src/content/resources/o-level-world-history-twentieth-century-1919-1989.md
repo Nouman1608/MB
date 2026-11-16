@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: International Relations since 1919 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History International Relations Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

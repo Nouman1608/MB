@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 5.3 Tourism and sport at the international scale -- Revision Notes"
+seoTitle: "IB DP Geography Tourism and Sport International Scale Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

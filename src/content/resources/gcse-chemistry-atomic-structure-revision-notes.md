@@ -1,5 +1,6 @@
 ---
 title: "GCSE Chemistry: Atomic Structure and the Periodic Table — Revision Notes"
+seoTitle: "OCR GCSE Chemistry Atomic Structure and Periodic Table Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["gcse"]

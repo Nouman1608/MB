@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section C Modern Prose"
+seoTitle: "Edexcel IGCSE English Literature Modern Prose Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

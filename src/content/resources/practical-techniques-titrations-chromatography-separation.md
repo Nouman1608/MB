@@ -1,5 +1,6 @@
 ---
 title: "Practical Techniques: Experimental Design, Titrations, Chromatography and Separation"
+seoTitle: "Cambridge IGCSE Chemistry Practical Techniques Study Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["igcse","o-levels"]

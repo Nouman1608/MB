@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Plant nutrition — Practice Questions (Cambridge 0610)"
+seoTitle: "Cambridge IGCSE Biology Plant Nutrition Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Transport and Telecommunications (2059)"
+seoTitle: "Cambridge O Level Pakistan Studies Transport Study Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

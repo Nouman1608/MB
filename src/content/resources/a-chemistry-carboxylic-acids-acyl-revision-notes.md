@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Carboxylic Acids and Acyl Chlorides — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Carboxylic Acids & Acyl Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

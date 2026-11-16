@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Business Activity, Marketing and People — Revision Notes"
+seoTitle: "OCR GCSE Business Activity, Marketing and People Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["gcse"]

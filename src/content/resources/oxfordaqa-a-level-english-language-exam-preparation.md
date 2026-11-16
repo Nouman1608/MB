@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: The Route A/Route B Choice for Your Final Unit (9670)"
+seoTitle: "OxfordAQA A-Level English Language 9670 Route A/B Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Sociology: Research Methods, Identity and Inequality (Cambridge 0495)"
+seoTitle: "Cambridge IGCSE Sociology Research Methods Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["igcse"]

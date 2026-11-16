@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Liberalism and Nationalism in Germany, 1815-71 -- Study Guide"
+seoTitle: "Cambridge A Level History Germany 1815-71 Nationalism Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: The Mughal Empire, c1526–c1850s (9236)"
+seoTitle: "OxfordAQA IGCSE Pak Studies Mughal Empire c1526–c1850s Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Information Technology (9626): Subject Overview"
+seoTitle: "Cambridge A Level Information Technology 9626 Subject Guide"
 resourceType: "subject-guides"
 subject: "ict"
 level: ["a-levels"]

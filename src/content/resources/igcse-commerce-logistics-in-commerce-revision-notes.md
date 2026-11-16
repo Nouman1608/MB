@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Logistics in Commerce — Revision Notes"
+seoTitle: "Cambridge IGCSE Commerce Logistics in Commerce Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["igcse"]

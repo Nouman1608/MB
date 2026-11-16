@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology: Preparing for a New Specification's Two Papers"
+seoTitle: "OxfordAQA IGCSE Sociology Exam Prep: New Specification"
 resourceType: "exam-preparation"
 subject: "sociology"
 level: ["igcse"]

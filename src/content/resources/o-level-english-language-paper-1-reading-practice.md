@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level English Language: Paper 1 Reading — Practice Questions"
+seoTitle: "Cambridge O Level English Language Paper 1 Reading Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["o-levels"]

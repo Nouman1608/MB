@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Living With the Physical Environment (9230)"
+seoTitle: "OxfordAQA IGCSE Geography Physical Environment Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

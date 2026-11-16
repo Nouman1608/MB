@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Information Representation — Practice Questions"
+seoTitle: "Cambridge 9618 Information Representation Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Sociology: Research Methods, Identity and Inequality (Cambridge 2251)"
+seoTitle: "Cambridge O Level Sociology Research Methods Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["o-levels"]

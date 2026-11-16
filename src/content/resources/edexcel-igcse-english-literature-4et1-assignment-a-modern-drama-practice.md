@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Assignment A Modern Drama -- Practice Questions"
+seoTitle: "Edexcel IGCSE English Lit Assignment A Modern Drama Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

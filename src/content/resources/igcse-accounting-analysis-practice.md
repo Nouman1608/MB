@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Analysis and Interpretation — Practice Questions"
+seoTitle: "Cambridge IGCSE 0452 Analysis and Interpretation Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse","o-levels"]

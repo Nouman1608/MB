@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Imperialism and the Emergence of World Powers -- Practice Questions"
+seoTitle: "Cambridge 9489 Imperialism and World Powers Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

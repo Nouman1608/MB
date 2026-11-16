@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Component 2 – Individual Report — Revision Notes"
+seoTitle: "Cambridge IGCSE Global Perspectives Individual Report Notes"
 resourceType: "revision-notes"
 subject: "global-perspectives"
 level: ["igcse"]

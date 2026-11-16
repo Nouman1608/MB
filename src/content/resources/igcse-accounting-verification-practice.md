@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Verification of Accounting Records — Practice Questions"
+seoTitle: "Cambridge IGCSE Accounting Verification of Records Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse","o-levels"]

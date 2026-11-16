@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Pure Mathematics 3 Trigonometry, Vectors and Complex Numbers — Practice Questions (Cambridge 9709)"
+seoTitle: "Cambridge A Level Maths Pure 3 Trig and Vectors Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

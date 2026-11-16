@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Physics: Motion Along a Straight Line and Newton's Laws — Practice Questions"
+seoTitle: "OxfordAQA A Level Physics Motion and Newton's Laws Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

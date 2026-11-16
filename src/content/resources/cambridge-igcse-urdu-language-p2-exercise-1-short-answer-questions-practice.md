@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Paper 2 Exercise 1 – Short answer questions -- Practice Questions"
+seoTitle: "Cambridge IGCSE Urdu Paper 2 Short Answer Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

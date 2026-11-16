@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Data Structures and Arrays (7517)"
+seoTitle: "AQA A-Level CS Data Structures and Arrays Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

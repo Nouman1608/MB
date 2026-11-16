@@ -1,5 +1,6 @@
 ---
 title: "IB Middle Years Programme Language Acquisition: Syllabus Guide"
+seoTitle: "IB MYP Language Acquisition Syllabus Guide"
 resourceType: "study-guides"
 subject: "myp-language-acquisition"
 level: ["ib"]

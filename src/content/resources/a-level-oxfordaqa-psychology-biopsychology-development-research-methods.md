@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Psychology: Biopsychology, Development and Research Methods 1 (9685)"
+seoTitle: "OxfordAQA A-Level Psychology Biopsychology and Development"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

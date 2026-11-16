@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Electromagnetic Spectrum — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Electromagnetic Spectrum Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

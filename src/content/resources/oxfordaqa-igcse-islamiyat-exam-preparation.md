@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Islamiyat: Working With the Set Qur'an and Hadith Passages"
+seoTitle: "OxfordAQA IGCSE Islamiyat Exam Prep: Qur'an and Hadith"
 resourceType: "exam-preparation"
 subject: "islamiyat"
 level: ["igcse"]

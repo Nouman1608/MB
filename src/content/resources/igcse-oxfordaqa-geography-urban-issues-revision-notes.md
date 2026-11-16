@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Urban Issues and Challenges — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Geography Urban Issues and Challenges Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

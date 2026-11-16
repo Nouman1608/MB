@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 1 – Short answer questions"
+seoTitle: "Cambridge IGCSE Urdu Exercise 1 Short Answer Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

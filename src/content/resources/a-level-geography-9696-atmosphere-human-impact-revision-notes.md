@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 2.4 The human impact -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Atmosphere Human Impact Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

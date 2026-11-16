@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Density and Distribution -- Revision Notes"
+seoTitle: "O Level Geography Population Density & Distribution Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Economics: The Role of Markets and Money — Practice Questions"
+seoTitle: "OCR GCSE Economics Markets and Money Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["gcse"]

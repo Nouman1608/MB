@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): The Creation of Pakistan, 1947 (قیامِ پاکستان) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Creation of Pakistan 1947 Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

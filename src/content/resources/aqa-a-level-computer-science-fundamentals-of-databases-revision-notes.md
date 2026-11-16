@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Databases — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Fundamentals of Databases Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

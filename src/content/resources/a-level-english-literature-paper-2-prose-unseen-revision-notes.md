@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 2 - Prose and Unseen — Revision Notes (Cambridge 9695)"
+seoTitle: "Cambridge A Level English Lit Prose and Unseen Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "How DP Mathematics: Applications and Interpretation Is Assessed: Revision Notes"
+seoTitle: "IB DP Maths Applications and Interpretation Assessment Notes"
 resourceType: "revision-notes"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Energy and the Environment (5014)"
+seoTitle: "Cambridge O Level 5014 Energy and the Environment Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

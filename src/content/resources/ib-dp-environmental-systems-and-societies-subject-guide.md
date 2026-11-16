@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Environmental Systems and Societies: Subject Overview"
+seoTitle: "IB DP Environmental Systems and Societies Subject Guide"
 resourceType: "subject-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

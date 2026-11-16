@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Chemistry: Atomic Structure and Mass Spectrometry — Revision Notes"
+seoTitle: "Edexcel IAL Chemistry Atomic Structure Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

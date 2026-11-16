@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Procedural Programming — Practice Questions"
+seoTitle: "OxfordAQA A-Level CS Procedural Programming Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Utility Software and User Interfaces (9626)"
+seoTitle: "Cambridge A Level ICT 9626 Utility Software Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Applications and Interpretation -- Statistics and Probability Revision Notes"
+seoTitle: "IB DP Maths AI Statistics and Probability Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: Nationhood, 1947–99 (Cambridge 2059)"
+seoTitle: "Cambridge O Level Pakistan Studies Nationhood 1947–99 Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

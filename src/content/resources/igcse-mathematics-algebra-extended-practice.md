@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Algebra and Graphs (Extended) — Practice Questions (Cambridge 0580)"
+seoTitle: "Cambridge IGCSE Maths Extended Algebra and Graphs Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Chemistry: Atomic Structure and Mass Spectrometry — Practice Questions"
+seoTitle: "Edexcel IAL Chemistry Atomic Structure Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

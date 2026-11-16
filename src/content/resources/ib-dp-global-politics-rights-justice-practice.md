@@ -1,5 +1,6 @@
 ---
 title: "IB DP Global Politics: Rights and Justice -- Practice Questions"
+seoTitle: "IB DP Global Politics Rights and Justice Practice Questions"
 resourceType: "practice-questions"
 subject: "global-politics"
 level: ["ib"]

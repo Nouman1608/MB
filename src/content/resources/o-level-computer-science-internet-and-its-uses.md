@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: The Internet and Its Uses (Cambridge 2210)"
+seoTitle: "Cambridge O Level CS Internet and Its Uses Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

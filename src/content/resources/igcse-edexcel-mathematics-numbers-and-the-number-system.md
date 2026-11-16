@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Mathematics: Numbers and the Number System (4MA1)"
+seoTitle: "Edexcel IGCSE Maths Numbers and the Number System Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["igcse"]

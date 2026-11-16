@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Physics: Development of Practical Skills — Revision Notes"
+seoTitle: "OCR A Level Physics Practical Skills Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

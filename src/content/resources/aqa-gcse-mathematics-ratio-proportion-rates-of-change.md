@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Mathematics: Ratio, Proportion and Rates of Change (8300)"
+seoTitle: "AQA GCSE Maths Ratio, Proportion & Rates of Change Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["gcse"]

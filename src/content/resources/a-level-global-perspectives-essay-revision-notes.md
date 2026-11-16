@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives & Research: The Essay — Revision Notes (9239)"
+seoTitle: "Cambridge A Level Global Perspectives Essay Revision Notes"
 resourceType: "revision-notes"
 subject: "global-perspectives"
 level: ["a-levels"]

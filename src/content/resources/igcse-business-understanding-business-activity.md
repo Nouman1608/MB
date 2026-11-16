@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Business Studies: Understanding Business Activity (Cambridge 0450)"
+seoTitle: "Cambridge IGCSE 0450 Understanding Business Activity Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Data Representation (A Level) — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 A Level Data Representation Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

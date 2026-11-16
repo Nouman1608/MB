@@ -1,5 +1,6 @@
 ---
 title: "AS & A Level Accounting: Reconciliation and Verification — Revision Notes"
+seoTitle: "Cambridge A Level Accounting Reconciliation Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

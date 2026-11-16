@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Business Studies: Understanding Business Activity — Practice Questions"
+seoTitle: "Cambridge IGCSE 0450 Business Activity Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["igcse"]

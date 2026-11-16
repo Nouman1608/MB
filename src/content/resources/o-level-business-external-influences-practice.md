@@ -1,5 +1,6 @@
 ---
 title: "O Level Business: External influences on business activity — Practice Questions (Cambridge 7115)"
+seoTitle: "Cambridge O Level Business External Influences Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

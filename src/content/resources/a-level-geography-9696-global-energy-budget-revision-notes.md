@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 2.2 The global energy budget -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Global Energy Budget Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

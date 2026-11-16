@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Life at School/College -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Life at School/College Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

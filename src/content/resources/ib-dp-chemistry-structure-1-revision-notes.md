@@ -1,5 +1,6 @@
 ---
 title: "Structure 1 -- Models of the Particulate Nature of Matter: Revision Notes"
+seoTitle: "IB Chemistry Structure 1 Particulate Nature of Matter Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["ib"]

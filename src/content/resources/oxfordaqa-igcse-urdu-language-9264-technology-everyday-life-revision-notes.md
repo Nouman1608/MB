@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Technology in Everyday Life -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Technology in Everyday Life Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

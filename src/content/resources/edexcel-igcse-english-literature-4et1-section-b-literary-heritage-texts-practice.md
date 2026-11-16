@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section B Literary Heritage Texts -- Practice Questions"
+seoTitle: "Edexcel IGCSE English Lit Literary Heritage Texts Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

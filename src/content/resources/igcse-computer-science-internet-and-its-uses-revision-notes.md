@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: The Internet and Its Uses — Revision Notes"
+seoTitle: "Cambridge IGCSE Computer Science Internet and Its Uses Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

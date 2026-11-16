@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Urdu Language: Paper-by-Paper Exam Preparation"
+seoTitle: "OxfordAQA IGCSE Urdu Language Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "urdu-language"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Accounting: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Accounting Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["o-levels"]

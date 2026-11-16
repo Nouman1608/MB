@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Mathematics: Bernoulli and Binomial Distributions (9660)"
+seoTitle: "OxfordAQA A-Level Maths Bernoulli and Binomial Distributions"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

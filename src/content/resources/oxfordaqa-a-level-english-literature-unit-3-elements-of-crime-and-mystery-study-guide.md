@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level English Literature (9675): Unit 3 Elements of Crime and Mystery -- Study Guide"
+seoTitle: "OxfordAQA A Level English Literature Crime and Mystery Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 3.4 The human impact -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Slopes Human Impact Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

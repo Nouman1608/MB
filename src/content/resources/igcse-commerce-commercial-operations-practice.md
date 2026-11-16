@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Commercial Operations — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Commercial Operations Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

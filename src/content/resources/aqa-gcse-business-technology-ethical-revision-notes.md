@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Business: Technology and Ethical/Environmental Considerations — Revision Notes"
+seoTitle: "AQA GCSE Business Technology & Ethical Considerations Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["gcse"]

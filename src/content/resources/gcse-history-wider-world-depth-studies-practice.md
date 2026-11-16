@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History (8145): Paper 1 Section B Wider World Depth Studies — Practice Questions"
+seoTitle: "AQA GCSE History Wider World Depth Studies Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["gcse"]

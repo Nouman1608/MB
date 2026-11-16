@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Law: Criminal Law — Practice Questions (9084)"
+seoTitle: "Cambridge A Level Law 9084 Criminal Law Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

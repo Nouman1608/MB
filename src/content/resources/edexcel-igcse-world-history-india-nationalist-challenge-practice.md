@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Colonial Rule and the Nationalist Challenge in India, 1919–47 — Practice Questions"
+seoTitle: "Edexcel IGCSE History India 1919–47 Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

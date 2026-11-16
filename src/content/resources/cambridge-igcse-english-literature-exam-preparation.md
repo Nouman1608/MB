@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE English Literature: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge IGCSE English Literature Exam Prep"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["igcse"]

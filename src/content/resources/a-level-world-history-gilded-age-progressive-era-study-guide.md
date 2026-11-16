@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): The Gilded Age and the Progressive Era, 1870-1920 -- Study Guide"
+seoTitle: "Cambridge A Level History Gilded Age 1870-1920 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

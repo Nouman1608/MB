@@ -1,5 +1,6 @@
 ---
 title: "Network Issues and Communication: Security, Authentication and Electronic Conferencing"
+seoTitle: "Cambridge IGCSE ICT Network Issues and Communication Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Data Representation — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Data Representation Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

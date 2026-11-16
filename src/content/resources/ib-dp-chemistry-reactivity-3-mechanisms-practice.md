@@ -1,5 +1,6 @@
 ---
 title: "IB DP Chemistry Reactivity 3: Mechanisms of Chemical Change -- Practice Questions"
+seoTitle: "IB DP Chemistry Reactivity 3 Mechanisms Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["ib"]

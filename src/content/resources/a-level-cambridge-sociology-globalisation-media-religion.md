@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Sociology: Globalisation, Media and Religion (9699)"
+seoTitle: "Cambridge A Level Sociology Globalisation and Media Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["a-levels"]

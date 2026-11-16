@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Psychology: Communication and Mental Health — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Psychology Communication Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["igcse"]

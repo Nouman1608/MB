@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level English Language: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level English Language Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["o-levels"]

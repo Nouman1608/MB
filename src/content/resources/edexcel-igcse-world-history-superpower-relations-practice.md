@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A World Divided, Superpower Relations, 1943–72 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Superpower Relations 1943–72 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

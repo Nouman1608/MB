@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Aids to Trade that Support Commerce — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Aids to Trade Practice Questions"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

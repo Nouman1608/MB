@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Characteristics and Classification of Living Organisms — Practice Questions"
+seoTitle: "Cambridge IGCSE 0610 Classification of Organisms Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

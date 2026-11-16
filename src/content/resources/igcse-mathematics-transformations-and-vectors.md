@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Transformations and Vectors (Cambridge 0580)"
+seoTitle: "Cambridge IGCSE Maths Transformations and Vectors Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["igcse"]

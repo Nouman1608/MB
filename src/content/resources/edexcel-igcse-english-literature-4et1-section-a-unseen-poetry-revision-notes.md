@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section A Unseen Poetry -- Revision Notes"
+seoTitle: "Edexcel IGCSE English Literature Unseen Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

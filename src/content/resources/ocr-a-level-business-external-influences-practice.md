@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: External Influences Facing Businesses — Practice Questions"
+seoTitle: "OCR A Level Business External Influences Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

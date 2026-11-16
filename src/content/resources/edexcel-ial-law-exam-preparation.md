@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law: Preparing Two Three-Hour Papers in a Single Series"
+seoTitle: "Edexcel IAL Law Two Three-Hour Papers Exam Prep"
 resourceType: "exam-preparation"
 subject: "law"
 level: ["a-levels"]

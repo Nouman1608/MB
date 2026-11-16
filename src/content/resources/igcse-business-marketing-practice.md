@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Business Studies: Marketing — Practice Questions (Cambridge 0450)"
+seoTitle: "Cambridge IGCSE Business Marketing Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["igcse"]

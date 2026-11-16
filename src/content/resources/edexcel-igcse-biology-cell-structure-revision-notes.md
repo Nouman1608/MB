@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Cell Structure and Biological Molecules — Revision Notes (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Cell Structure and Molecules Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["igcse"]

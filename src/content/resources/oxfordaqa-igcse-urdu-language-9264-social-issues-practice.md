@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Social Issues -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE Urdu Social Issues Practice Questions"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

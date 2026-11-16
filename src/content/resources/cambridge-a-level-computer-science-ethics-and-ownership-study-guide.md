@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Ethics and Ownership -- Study Guide"
+seoTitle: "Cambridge A Level Computer Science Ethics & Ownership Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

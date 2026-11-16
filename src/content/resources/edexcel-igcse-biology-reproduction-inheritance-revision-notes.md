@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Reproduction and Inheritance — Revision Notes (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Reproduction and Inheritance Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["igcse"]

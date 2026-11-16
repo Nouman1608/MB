@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Sociology: Introducing Sociology — Revision Notes"
+seoTitle: "OxfordAQA A Level Sociology Introducing Sociology Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

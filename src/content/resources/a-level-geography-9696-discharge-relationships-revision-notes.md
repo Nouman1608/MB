@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 1.2 Discharge relationships within drainage basins -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Discharge Relationships Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

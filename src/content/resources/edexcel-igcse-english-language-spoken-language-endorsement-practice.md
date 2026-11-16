@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Spoken Language Endorsement — Practice Questions (4EA1)"
+seoTitle: "Edexcel IGCSE English Spoken Language Endorsement Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

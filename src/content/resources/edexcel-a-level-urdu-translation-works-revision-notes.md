@@ -1,5 +1,6 @@
 ---
 title: "A Level Urdu: Translation into Urdu and Written Response to Works — Revision Notes"
+seoTitle: "Edexcel A Level Urdu Translation and Written Response Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

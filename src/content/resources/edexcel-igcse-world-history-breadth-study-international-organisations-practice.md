@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The League and the UN, 1919–c2011 — Practice Questions"
+seoTitle: "Edexcel IGCSE History League and the UN 1919–c2011 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

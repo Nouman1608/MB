@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Atomic Structure and Ionisation Energy — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Ionisation Energy Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

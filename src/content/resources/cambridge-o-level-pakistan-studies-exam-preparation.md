@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Pakistan Studies Exam Prep"
 resourceType: "exam-preparation"
 subject: "pakistan-studies"
 level: ["o-levels"]

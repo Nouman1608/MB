@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level English Language: Paper 4 Language Topics (9093)"
+seoTitle: "Cambridge A Level English Language Paper 4 Topics Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

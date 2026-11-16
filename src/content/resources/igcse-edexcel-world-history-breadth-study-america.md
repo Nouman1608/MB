@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: America, From New Nation to Divided Union, 1783–1877 (4HI1)"
+seoTitle: "Edexcel IGCSE History America 1783–1877 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

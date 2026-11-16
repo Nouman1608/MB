@@ -1,5 +1,6 @@
 ---
 title: "Elastic Deformation, Moments and Centre of Gravity: Revision Notes"
+seoTitle: "Cambridge 5054 Physics Elastic Deformation and Moments Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["o-levels"]

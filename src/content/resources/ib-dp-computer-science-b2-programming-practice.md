@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.2: Programming -- Practice Questions"
+seoTitle: "IB DP Computer Science B.2 Programming Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Algorithm Design and Problem-Solving (Cambridge 2210)"
+seoTitle: "Cambridge O Level Computer Science Algorithm Design Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

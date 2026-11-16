@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Logistics in Commerce — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Logistics in Commerce Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

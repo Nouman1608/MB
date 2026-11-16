@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Carboxylic Acids and Esters — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Carboxylic Acids & Esters Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

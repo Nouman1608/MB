@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Physics: Use of SI Units and Their Prefixes — Practice Questions"
+seoTitle: "AQA A-Level Physics SI Units and Prefixes Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

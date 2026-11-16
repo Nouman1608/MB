@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Global Perspectives & Research: The Team Project (9239)"
+seoTitle: "Cambridge A Level Global Perspectives Team Project Guide"
 resourceType: "study-guides"
 subject: "global-perspectives"
 level: ["a-levels"]

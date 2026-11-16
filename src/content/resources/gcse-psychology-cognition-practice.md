@@ -1,5 +1,6 @@
 ---
 title: "GCSE Psychology: Cognition and Behaviour — Practice Questions"
+seoTitle: "AQA GCSE Psychology Cognition and Behaviour Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

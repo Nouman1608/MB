@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Geography: Urban Issues and Challenges — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Geography Urban Issues Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["igcse"]

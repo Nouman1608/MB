@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management (0680): Subject Overview"
+seoTitle: "Cambridge IGCSE Environmental Management 0680 Subject Guide"
 resourceType: "subject-guides"
 subject: "environmental-management"
 level: ["igcse"]

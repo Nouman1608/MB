@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Language Discourses, Methods and Writing Skills (7702)"
+seoTitle: "AQA A-Level English Language Discourses and Writing Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

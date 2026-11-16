@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Health Psychology — Practice Questions"
+seoTitle: "Cambridge A Level Psychology Health Psychology Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

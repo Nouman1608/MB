@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 12.3 Local responses to global interactions -- Revision Notes"
+seoTitle: "IB DP Geography Local Responses to Global Interactions Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

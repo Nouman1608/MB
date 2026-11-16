@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: The People and Economy of Pakistan (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies People and Economy Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

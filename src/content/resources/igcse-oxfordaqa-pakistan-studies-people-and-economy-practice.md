@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: The People and Economy of Pakistan — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies People and Economy Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

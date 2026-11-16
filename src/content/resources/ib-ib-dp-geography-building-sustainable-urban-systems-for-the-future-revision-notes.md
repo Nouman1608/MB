@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 7.4 Building sustainable urban systems for the future -- Revision Notes"
+seoTitle: "IB DP Geography Building Sustainable Urban Systems Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

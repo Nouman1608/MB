@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Statistics: Summary Representation of Data — Practice Questions (4040)"
+seoTitle: "Cambridge O Level Statistics Summary Representation Practice"
 resourceType: "practice-questions"
 subject: "statistics"
 level: ["o-levels"]

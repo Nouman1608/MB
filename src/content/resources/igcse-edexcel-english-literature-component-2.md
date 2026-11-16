@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Modern Drama and Literary Heritage Texts (4ET1)"
+seoTitle: "Edexcel IGCSE English Literature Component 2 Drama Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

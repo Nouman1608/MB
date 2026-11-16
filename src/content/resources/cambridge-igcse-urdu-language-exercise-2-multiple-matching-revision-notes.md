@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 2 – Multiple matching -- Revision Notes"
+seoTitle: "Cambridge IGCSE Urdu Exercise 2 Multiple Matching Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

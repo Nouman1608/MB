@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Data Structures, Subroutines and Translators — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Data Structures and Subroutines Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

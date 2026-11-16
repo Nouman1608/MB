@@ -1,5 +1,6 @@
 ---
 title: "IGCSE World History: Depth Studies A-E (Cambridge 0470) — Revision Notes"
+seoTitle: "Cambridge IGCSE World History Depth Studies A-E Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Section A Modern Drama"
+seoTitle: "Edexcel IGCSE English Literature Modern Drama Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

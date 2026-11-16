@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Accounting: Verification of Accounting Records — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Accounting Verification of Records Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse"]

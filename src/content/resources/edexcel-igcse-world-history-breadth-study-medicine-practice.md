@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Changes in Medicine, c1848–c1948 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Medicine c1848–c1948 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

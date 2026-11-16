@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language (4EA1): Subject Overview"
+seoTitle: "Edexcel IGCSE English Language 4EA1 Subject Guide"
 resourceType: "subject-guides"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: Language and Society (9670)"
+seoTitle: "OxfordAQA A-Level English Language and Society Study Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

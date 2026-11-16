@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Working a Two-Unit, 200-Mark Structure"
+seoTitle: "Edexcel IAL Accounting Two-Unit 200-Mark Exam Prep"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["a-levels"]

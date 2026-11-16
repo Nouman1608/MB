@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Computer Networks — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Computer Networks Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

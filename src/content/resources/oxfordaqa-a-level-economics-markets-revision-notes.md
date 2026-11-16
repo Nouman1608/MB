@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Economics: The Operation of Markets — Revision Notes"
+seoTitle: "OxfordAQA A Level Economics Operation of Markets Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Industrial Development — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pak Studies Industrial Development Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

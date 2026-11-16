@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Identification of Ions and Gases — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Identifying Ions & Gases Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Mechanics Practice Questions (Cambridge 9709 Paper 4)"
+seoTitle: "Cambridge A Level Maths Mechanics Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Computer Science: Static vs Dynamic Data Structures and Arrays (9645)"
+seoTitle: "OxfordAQA A-Level CS Static vs Dynamic Data Structures Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

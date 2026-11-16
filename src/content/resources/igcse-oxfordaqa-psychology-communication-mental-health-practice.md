@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Psychology: Communication and Mental Health — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Psychology Communication Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["igcse"]

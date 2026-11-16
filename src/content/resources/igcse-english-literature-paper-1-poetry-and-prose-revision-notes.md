@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 1 - Poetry and Prose — Revision Notes (Cambridge 0475)"
+seoTitle: "Cambridge IGCSE English Literature Poetry and Prose Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

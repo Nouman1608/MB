@@ -1,5 +1,6 @@
 ---
 title: "IGCSE World History: International Relations since 1919 — Revision Notes"
+seoTitle: "Cambridge IGCSE World History International Relations Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

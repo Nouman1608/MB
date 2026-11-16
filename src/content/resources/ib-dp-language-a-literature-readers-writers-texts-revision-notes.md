@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Literature -- Readers, Writers and Texts: Revision Notes"
+seoTitle: "IB DP Literature Readers, Writers and Texts Revision Notes"
 resourceType: "revision-notes"
 subject: "language-a-literature"
 level: ["ib"]

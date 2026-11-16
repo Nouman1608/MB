@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Mathematics: Quadratics, Simultaneous Equations and Inequalities — Revision Notes"
+seoTitle: "AQA A-Level Maths Quadratics & Simultaneous Equations Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["a-levels"]

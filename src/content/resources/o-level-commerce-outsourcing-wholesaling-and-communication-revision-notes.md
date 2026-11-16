@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Outsourcing, Wholesaling and Communication — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Outsourcing and Wholesaling Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

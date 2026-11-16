@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): Prescribed subjects -- Revision Notes"
+seoTitle: "IB DP History Prescribed Subjects Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["ib"]

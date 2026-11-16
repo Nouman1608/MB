@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Algorithm Design and Problem-solving -- Study Guide"
+seoTitle: "Cambridge A Level Computer Science Algorithm Design Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

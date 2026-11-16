@@ -1,5 +1,6 @@
 ---
 title: "Chemical Bonding: Electronegativity, Ionic and Metallic Bonds"
+seoTitle: "Cambridge A Level Chemistry Ionic & Metallic Bonding Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

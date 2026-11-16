@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 11.2 Global networks and flows -- Revision Notes"
+seoTitle: "IB DP Geography Global Networks and Flows Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

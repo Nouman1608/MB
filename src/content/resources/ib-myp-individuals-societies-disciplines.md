@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Individuals and Societies: Discipline Options and eAssessment Subjects"
+seoTitle: "IB MYP Individuals & Societies Discipline Options Guide"
 resourceType: "study-guides"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

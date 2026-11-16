@@ -1,5 +1,6 @@
 ---
 title: "IB DP History: The Historical Investigation (Internal Assessment) -- Practice Questions"
+seoTitle: "IB DP History Historical Investigation IA Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["ib"]

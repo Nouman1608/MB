@@ -1,5 +1,6 @@
 ---
 title: "How DP Language A: Language and Literature Is Assessed: Revision Notes"
+seoTitle: "IB DP Language and Literature Assessment Revision Notes"
 resourceType: "revision-notes"
 subject: "language-a-language-and-literature"
 level: ["ib"]

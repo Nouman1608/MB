@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Statistics: Formation of Frequency Distributions (4040)"
+seoTitle: "Cambridge O Level Statistics Frequency Distributions Guide"
 resourceType: "study-guides"
 subject: "statistics"
 level: ["o-levels"]

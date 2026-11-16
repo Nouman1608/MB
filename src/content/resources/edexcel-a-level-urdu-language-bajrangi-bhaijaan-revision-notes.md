@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Bajrangi Bhaijaan (بجرنگی بھائی جان) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Bajrangi Bhaijaan Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

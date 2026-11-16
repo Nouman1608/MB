@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Analysis and Approaches -- Functions Strand Revision Notes"
+seoTitle: "IB DP Maths AA Functions Strand Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

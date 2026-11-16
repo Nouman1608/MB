@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Approaches to researching behaviour -- Practice Questions"
+seoTitle: "IB Psychology Approaches to Researching Behaviour Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

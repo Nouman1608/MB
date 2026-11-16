@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Statistics and Probability (Extended) — Practice Questions (Cambridge 0580)"
+seoTitle: "Cambridge IGCSE Maths Statistics and Probability Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

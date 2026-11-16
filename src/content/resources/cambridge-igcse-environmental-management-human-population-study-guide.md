@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management (0680): Human population -- Study Guide"
+seoTitle: "IGCSE Environmental Management Human Population Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

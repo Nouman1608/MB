@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Transport and Telecommunications — Practice Questions"
+seoTitle: "Cambridge O Level Pakistan Studies Transport Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

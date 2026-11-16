@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Nuclear physics — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Nuclear Physics Practice Questions"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

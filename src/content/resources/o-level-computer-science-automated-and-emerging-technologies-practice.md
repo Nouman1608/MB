@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Automated and Emerging Technologies — Practice Questions (Cambridge 2210)"
+seoTitle: "Cambridge 2210 Automated and Emerging Technologies Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

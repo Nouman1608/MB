@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Information Representation (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Information Representation Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

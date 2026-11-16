@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Environmental Management Exam Prep"
 resourceType: "exam-preparation"
 subject: "environmental-management"
 level: ["o-levels"]

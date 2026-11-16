@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Law: General Elements of Criminal Liability — Practice Questions"
+seoTitle: "AQA A-Level Law Criminal Liability Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

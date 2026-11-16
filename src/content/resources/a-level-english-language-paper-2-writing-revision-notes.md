@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level English Language 9093: Paper 2 — Revision Notes"
+seoTitle: "Cambridge A Level English Language Paper 2 Writing Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

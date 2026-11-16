@@ -1,5 +1,6 @@
 ---
 title: "A Level Psychology: Approaches, Issues and Debates — Revision Notes"
+seoTitle: "Cambridge 9990 Approaches, Issues and Debates Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

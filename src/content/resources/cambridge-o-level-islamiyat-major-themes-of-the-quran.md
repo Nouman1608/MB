@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Major Themes of the Qur'an, Subtopic 1.1 (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Themes of the Qur'an Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["o-levels"]

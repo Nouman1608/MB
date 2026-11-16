@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Chemistry: Principles of Chemistry — Practice Questions"
+seoTitle: "Edexcel IGCSE Chemistry Principles of Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History (9245): Paper 2 Section A, Societies in Change — Study Guide"
+seoTitle: "OxfordAQA IGCSE History Societies in Change Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

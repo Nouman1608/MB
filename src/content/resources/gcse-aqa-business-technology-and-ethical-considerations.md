@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Business: Technology and Ethical/Environmental Considerations (8132)"
+seoTitle: "AQA GCSE Business Technology & Ethical Considerations Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["gcse"]

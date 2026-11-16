@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Marketing and People — Revision Notes"
+seoTitle: "Edexcel IAL Business Marketing and People Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: Articles of Faith and Pillars of Islam — Revision Notes (0493)"
+seoTitle: "IGCSE Islamiyat Articles of Faith and Pillars of Islam Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

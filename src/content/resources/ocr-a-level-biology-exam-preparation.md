@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Biology A: Preparing for Two 100-Mark Papers and a Synoptic Third"
+seoTitle: "OCR A Level Biology A Exam Prep: Papers and Synoptic"
 resourceType: "exam-preparation"
 subject: "biology"
 level: ["a-levels"]

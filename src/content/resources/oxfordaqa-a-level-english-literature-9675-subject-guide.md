@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level English Literature (9675): Subject Overview"
+seoTitle: "OxfordAQA A-Level English Literature 9675 Subject Guide"
 resourceType: "subject-guides"
 subject: "english-literature"
 level: ["a-levels"]

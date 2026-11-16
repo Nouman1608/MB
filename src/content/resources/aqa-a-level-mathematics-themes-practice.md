@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Mathematics: Overarching Themes — Practice Questions"
+seoTitle: "AQA A-Level Maths Overarching Themes Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

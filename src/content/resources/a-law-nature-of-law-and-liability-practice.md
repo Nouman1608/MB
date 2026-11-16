@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law: Nature of Law, Liability and Morality — Practice Questions"
+seoTitle: "Edexcel IAL Law Nature of Law and Liability Practice"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

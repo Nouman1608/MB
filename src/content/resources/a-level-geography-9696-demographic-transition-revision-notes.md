@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 4.2 Demographic transition -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Demographic Transition Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language 7702: Language in Action (NEA) — Practice Questions"
+seoTitle: "AQA A-Level English Language NEA Language in Action Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

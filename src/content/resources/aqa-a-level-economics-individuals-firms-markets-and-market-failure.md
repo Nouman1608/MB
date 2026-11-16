@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Economics: Individuals, Firms, Markets and Market Failure (7136)"
+seoTitle: "AQA A-Level Economics Individuals, Firms & Markets Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

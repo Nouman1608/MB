@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: East Germany, 1958–90 — Practice Questions"
+seoTitle: "Edexcel IGCSE History East Germany 1958–90 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

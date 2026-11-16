@@ -1,5 +1,6 @@
 ---
 title: "A Level Literature in English: Paper 3 - Shakespeare and Drama (Cambridge 9695)"
+seoTitle: "Cambridge A Level Literature Shakespeare and Drama Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

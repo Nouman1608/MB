@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History (9245): Paper 2 Section B, Technology or Medicine and Change — Practice Questions"
+seoTitle: "OxfordAQA IGCSE History Technology or Medicine Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IAL Physics: Nuclear and Particle Physics — Revision Notes"
+seoTitle: "Edexcel IAL Physics Nuclear and Particle Physics Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

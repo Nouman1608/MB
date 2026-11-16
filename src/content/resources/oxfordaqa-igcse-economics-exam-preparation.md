@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Economics: Mixing Multiple Choice and Essays in One Paper"
+seoTitle: "OxfordAQA IGCSE Economics Exam Prep: MCQs and Essays"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["igcse"]

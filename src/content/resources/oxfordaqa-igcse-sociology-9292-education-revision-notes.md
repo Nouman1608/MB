@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Education -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Sociology Education Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["igcse"]

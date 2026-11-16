@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): HL options: Depth studies -- Practice Questions"
+seoTitle: "IB DP History HL Options Depth Studies Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["ib"]

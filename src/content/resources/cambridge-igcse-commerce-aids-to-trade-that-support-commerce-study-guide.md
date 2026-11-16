@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce (0715): Aids to trade that support commerce -- Study Guide"
+seoTitle: "Cambridge IGCSE Commerce Aids to Trade Study Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["igcse"]

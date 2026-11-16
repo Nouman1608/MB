@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 4.3 Population-resource relationships -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Population-Resource Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

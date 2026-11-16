@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Globalisation, Transport and Communication — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Globalisation Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

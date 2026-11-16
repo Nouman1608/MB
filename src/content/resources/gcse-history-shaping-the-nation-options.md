@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History: Paper 2 Shaping the Nation — Thematic Study and Depth Study Options"
+seoTitle: "AQA GCSE History Shaping the Nation Options Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["gcse"]

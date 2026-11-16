@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: A Divided Union, Civil Rights in the USA, 1945–74 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Civil Rights USA 1945–74 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

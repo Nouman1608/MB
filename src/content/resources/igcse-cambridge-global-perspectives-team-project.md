@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Component 3 – Team Project (0457)"
+seoTitle: "Cambridge IGCSE Global Perspectives Team Project Guide"
 resourceType: "study-guides"
 subject: "global-perspectives"
 level: ["igcse"]

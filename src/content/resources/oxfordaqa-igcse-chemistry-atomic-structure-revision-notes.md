@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Chemistry: Atomic Structure and the Periodic Table — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Chemistry Atomic Structure Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse"]

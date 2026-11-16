@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History (8145): Paper 1 Section B, the Five Wider World Depth Studies — Study Guide"
+seoTitle: "AQA GCSE History Wider World Depth Studies Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["gcse"]

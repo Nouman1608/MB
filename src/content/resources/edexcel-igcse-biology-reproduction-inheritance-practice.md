@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Biology: Reproduction and Inheritance — Practice Questions (4BI1)"
+seoTitle: "Edexcel IGCSE Biology Reproduction and Inheritance Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

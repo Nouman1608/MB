@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Life and Teachings of Hazrat Muhammad (pbuh) — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Islamiyat Life of Hazrat Muhammad Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

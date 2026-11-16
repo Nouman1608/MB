@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management (0680): Ecosystems, biodiversity and fieldwork -- Study Guide"
+seoTitle: "Cambridge IGCSE Environmental Management Ecosystems Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

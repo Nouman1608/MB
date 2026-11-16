@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: Creating a Sustainable Future for Pakistan (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Sustainable Future Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

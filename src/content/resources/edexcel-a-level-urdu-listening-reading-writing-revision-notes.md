@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Listening, Reading and Writing — Revision Notes"
+seoTitle: "Edexcel A Level Urdu Listening Reading and Writing Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

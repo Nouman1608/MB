@@ -1,5 +1,6 @@
 ---
 title: "IB DP Language A: Language and Literature -- Readers, Writers and Texts: Practice Questions"
+seoTitle: "IB DP Lang and Lit Readers, Writers and Texts Practice"
 resourceType: "practice-questions"
 subject: "language-a-language-and-literature"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors — Practice Questions"
+seoTitle: "Edexcel IAL Accounting Control Accounts and Errors Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

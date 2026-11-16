@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Computer Science: Data Representation (2210)"
+seoTitle: "Cambridge O Level Computer Science Data Representation Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["o-levels"]

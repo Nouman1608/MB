@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level English Language (9670): Unit 4 – Language Exploration -- Study Guide"
+seoTitle: "OxfordAQA A Level English Language Exploration Study Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

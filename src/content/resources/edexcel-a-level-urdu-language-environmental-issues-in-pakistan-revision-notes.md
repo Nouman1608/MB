@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Environmental Issues in Pakistan -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Environmental Issues in Pakistan Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

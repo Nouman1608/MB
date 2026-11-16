@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Accounting (YAC11): Subject Overview"
+seoTitle: "Edexcel International A Level Accounting Subject Guide"
 resourceType: "subject-guides"
 subject: "accounting"
 level: ["a-levels"]

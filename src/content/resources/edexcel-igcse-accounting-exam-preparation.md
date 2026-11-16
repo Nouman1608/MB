@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Accounting: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IGCSE Accounting 4AC1 Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Mathematics: Three Papers Per Tier and the One Non-Calculator Paper"
+seoTitle: "OCR GCSE Maths Exam Prep: Three Papers and Non-Calculator"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["gcse"]

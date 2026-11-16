@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Islamiat: Islam — Beliefs and Teachings (9237)"
+seoTitle: "OxfordAQA IGCSE Islamiyat Beliefs and Teachings Study Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

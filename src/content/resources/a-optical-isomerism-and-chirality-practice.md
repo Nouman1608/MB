@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Optical Isomerism and Chirality — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Optical Isomerism Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

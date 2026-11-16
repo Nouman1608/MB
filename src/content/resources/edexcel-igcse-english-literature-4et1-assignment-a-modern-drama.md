@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Assignment A Modern Drama"
+seoTitle: "Edexcel IGCSE English Lit Assignment A Modern Drama Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

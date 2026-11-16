@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Mathematics: Fractions, Decimals and Percentages — Revision Notes"
+seoTitle: "OCR GCSE Maths Fractions, Decimals and Percentages Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["gcse"]

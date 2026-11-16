@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 4 – Pre- and Post-1900 Poetry and Prose — Practice Questions"
+seoTitle: "Cambridge A Level English Lit Pre/Post-1900 Poetry Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: The Land of Pakistan (Cambridge 2059)"
+seoTitle: "Cambridge O Level Pakistan Studies Land of Pakistan Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Accounting: The Role of the Accountant — Practice Questions"
+seoTitle: "AQA A-Level Accounting Role of the Accountant Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

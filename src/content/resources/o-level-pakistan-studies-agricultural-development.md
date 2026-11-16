@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Agricultural Development (2059)"
+seoTitle: "Cambridge O Level Pak Studies Agricultural Development Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

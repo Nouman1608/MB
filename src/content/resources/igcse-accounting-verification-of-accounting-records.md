@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Verification of Accounting Records (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE Accounting Verification of Records Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

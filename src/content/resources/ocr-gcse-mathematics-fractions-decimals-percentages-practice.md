@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Mathematics: Fractions, Decimals and Percentages — Practice Questions"
+seoTitle: "OCR GCSE Maths Fractions, Decimals and Percentages Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["gcse"]

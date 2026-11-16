@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Source-Based Reading and Directed Writing (9270)"
+seoTitle: "OxfordAQA IGCSE English Language Source-Based Reading Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

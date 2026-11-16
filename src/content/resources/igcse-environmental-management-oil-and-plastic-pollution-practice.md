@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Oil and Plastic Pollution — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Oil and Plastic Pollution Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

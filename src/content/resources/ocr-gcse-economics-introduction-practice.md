@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Economics: Introduction to Economics — Practice Questions"
+seoTitle: "OCR GCSE Economics Introduction Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["gcse"]

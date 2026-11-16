@@ -1,5 +1,6 @@
 ---
 title: "A Level Accounting: The Role of the Accountant and Financial Statements — Revision Notes"
+seoTitle: "OxfordAQA A-Level Accounting Role of the Accountant Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

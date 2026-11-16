@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): European option: European history, 1919-41 -- Revision Notes"
+seoTitle: "Cambridge A Level History European History 1919-41 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]

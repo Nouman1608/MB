@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Pure Mathematics 1 - Functions (Cambridge 9709)"
+seoTitle: "Cambridge A Level Maths Pure 1 Functions Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

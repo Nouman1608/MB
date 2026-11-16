@@ -1,5 +1,6 @@
 ---
 title: "IB DP Environmental Systems and Societies Topic 1: Foundations -- Revision Notes"
+seoTitle: "IB DP ESS Topic 1 Foundations Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

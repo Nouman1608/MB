@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Information Representation — Revision Notes"
+seoTitle: "Cambridge 9618 Information Representation Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Energy Resources — Revision Notes (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Energy Resources Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["o-levels"]

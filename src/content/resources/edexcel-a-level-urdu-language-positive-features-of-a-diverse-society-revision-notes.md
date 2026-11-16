@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Positive Features of a Diverse Society -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Diverse Society Positive Features Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

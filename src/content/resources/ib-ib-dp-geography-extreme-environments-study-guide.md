@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Option C: Extreme environments -- Study Guide"
+seoTitle: "IB DP Geography Option C Extreme Environments Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

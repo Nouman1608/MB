@@ -1,5 +1,6 @@
 ---
 title: "Transition Elements: Properties, Complexes and Redox Chemistry"
+seoTitle: "Cambridge A Level Transition Element Complexes & Redox Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

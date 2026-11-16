@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 6.1 Measuring food and health -- Revision Notes"
+seoTitle: "IB DP Geography Measuring Food and Health Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

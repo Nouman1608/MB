@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Research Methods -- Revision Notes"
+seoTitle: "AQA GCSE Psychology Research Methods Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Law: The Nature of Law and the English Legal System — Practice Questions"
+seoTitle: "AQA A-Level Law Nature of Law & Legal System Practice"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

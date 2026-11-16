@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Natural Hazards — Revision Notes"
+seoTitle: "Cambridge IGCSE 0680 Natural Hazards Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

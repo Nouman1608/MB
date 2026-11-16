@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Mathematics: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Maths 4024 Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "mathematics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Psychology: Introductory Topics — Practice Questions"
+seoTitle: "OxfordAQA A Level Psychology Introductory Topics Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

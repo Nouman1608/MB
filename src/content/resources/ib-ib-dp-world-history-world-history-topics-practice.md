@@ -1,5 +1,6 @@
 ---
 title: "IB DP History (DP History): World history topics -- Practice Questions"
+seoTitle: "IB DP History World History Topics Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["ib"]

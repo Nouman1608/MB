@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Commercial Operations — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Commercial Operations Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

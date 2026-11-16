@@ -1,5 +1,6 @@
 ---
 title: "OCR A-Level Business: Objectives and Strategic Decisions (H431)"
+seoTitle: "OCR A Level Business Objectives and Strategic Decisions"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

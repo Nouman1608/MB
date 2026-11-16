@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Business: Managers, Leadership and Decision Making — Revision Notes (7132)"
+seoTitle: "AQA A-Level Business Managers, Leadership & Decisions Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: Globalisation, Transport and Communication (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Globalisation Study Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

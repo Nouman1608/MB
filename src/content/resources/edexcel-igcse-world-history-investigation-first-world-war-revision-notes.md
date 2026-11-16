@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Origins and Course of the First World War, 1905–18 — Revision Notes"
+seoTitle: "Edexcel IGCSE History First World War 1905–18 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

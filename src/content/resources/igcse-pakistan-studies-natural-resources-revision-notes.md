@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Natural Resources — Revision Notes"
+seoTitle: "Cambridge IGCSE Pakistan Studies Natural Resources Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

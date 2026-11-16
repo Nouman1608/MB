@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Food Production -- Practice Questions"
+seoTitle: "Cambridge O Level Geography Food Production Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

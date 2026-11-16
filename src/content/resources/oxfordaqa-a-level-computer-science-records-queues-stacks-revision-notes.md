@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Computer Science: Records, Queues and Stacks — Revision Notes"
+seoTitle: "OxfordAQA A Level CS Records, Queues and Stacks Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

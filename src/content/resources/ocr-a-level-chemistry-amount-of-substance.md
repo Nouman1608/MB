@@ -1,5 +1,6 @@
 ---
 title: "Amount of Substance: The Mole, Empirical Formulae and Gas Calculations"
+seoTitle: "OCR A Level Chemistry Amount of Substance and the Mole Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

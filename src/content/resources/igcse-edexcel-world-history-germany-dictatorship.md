@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Germany, Development of Dictatorship, 1918–45 (4HI1)"
+seoTitle: "Edexcel IGCSE History Germany Dictatorship 1918–45 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

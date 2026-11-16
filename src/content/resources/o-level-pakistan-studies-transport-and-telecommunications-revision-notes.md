@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Transport and Telecommunications — Revision Notes"
+seoTitle: "Cambridge O Level Pakistan Studies Transport Revision Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

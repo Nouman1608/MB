@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: How Secure Was the USSR's Control Over Eastern Europe, 1948-c.1989? (Cambridge 2147)"
+seoTitle: "O Level History USSR Control of Eastern Europe Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

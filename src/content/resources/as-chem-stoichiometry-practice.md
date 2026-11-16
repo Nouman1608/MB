@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Atoms, Molecules and Stoichiometry — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Stoichiometry Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

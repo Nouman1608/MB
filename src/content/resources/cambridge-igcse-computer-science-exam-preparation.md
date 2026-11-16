@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge IGCSE Computer Science Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "computer-science"
 level: ["igcse"]

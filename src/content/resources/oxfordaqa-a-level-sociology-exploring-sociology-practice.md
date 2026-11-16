@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Sociology: Exploring Sociology — Practice Questions"
+seoTitle: "OxfordAQA A-Level Sociology Exploring Sociology Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["a-levels"]

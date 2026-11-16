@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: Preparing for Three Papers That Share a Common Core"
+seoTitle: "AQA A-Level Law 7162 Three Papers Exam Prep"
 resourceType: "exam-preparation"
 subject: "law"
 level: ["a-levels"]

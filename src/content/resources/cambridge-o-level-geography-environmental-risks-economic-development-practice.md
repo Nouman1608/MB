@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Environmental Risks of Economic Development -- Practice Questions"
+seoTitle: "O Level Geography Environmental Risks Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

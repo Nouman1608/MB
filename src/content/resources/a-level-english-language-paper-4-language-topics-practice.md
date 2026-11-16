@@ -1,5 +1,6 @@
 ---
 title: "A Level English Language: Paper 4 Language Topics — Practice Questions"
+seoTitle: "Cambridge A Level English Language Paper 4 Topics Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

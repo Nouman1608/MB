@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Poetry -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature Poetry Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Industrial Development (0448)"
+seoTitle: "Cambridge IGCSE 0448 Industrial Development Study Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

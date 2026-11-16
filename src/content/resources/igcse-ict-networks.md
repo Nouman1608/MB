@@ -1,5 +1,6 @@
 ---
 title: "Networks: Routers, Wi-Fi and Bluetooth, Cloud Computing and Network Types"
+seoTitle: "Cambridge IGCSE ICT Networks, Routers and Wi-Fi Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Computer Science: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level Computer Science Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "computer-science"
 level: ["a-levels"]

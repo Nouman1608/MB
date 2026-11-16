@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Operations, Finance and Influences on Business (J204)"
+seoTitle: "OCR GCSE Business Operations, Finance and Influences"
 resourceType: "study-guides"
 subject: "business"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Physics: Measurements and Their Errors — Practice Questions"
+seoTitle: "AQA A-Level Physics Measurements and Errors Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Climate and Natural Vegetation -- Revision Notes"
+seoTitle: "Cambridge IGCSE 0460 Climate and Natural Vegetation Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

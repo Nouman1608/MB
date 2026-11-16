@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Computer Science: On-Screen Programming Papers vs Written Theory Papers (9645)"
+seoTitle: "OxfordAQA A-Level Computer Science 9645 Exam Prep"
 resourceType: "exam-preparation"
 subject: "computer-science"
 level: ["a-levels"]

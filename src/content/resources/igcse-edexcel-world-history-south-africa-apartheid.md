@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: South Africa, From Union to the End of Apartheid, 1948–94 (4HI1)"
+seoTitle: "Edexcel IGCSE History South Africa 1948–94 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

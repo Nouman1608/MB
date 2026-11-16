@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Chemistry of the Environment — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry of the Environment Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

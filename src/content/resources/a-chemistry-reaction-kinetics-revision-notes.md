@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Rate Equations and Catalysis — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Rate Equations & Catalysis Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 9.3 Responding to global climate change -- Revision Notes"
+seoTitle: "IB DP Geography Responding to Global Climate Change Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

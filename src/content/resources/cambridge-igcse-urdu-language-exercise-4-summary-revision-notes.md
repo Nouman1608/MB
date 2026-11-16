@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 4 – Summary -- Revision Notes"
+seoTitle: "Cambridge IGCSE Urdu Exercise 4 Summary Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

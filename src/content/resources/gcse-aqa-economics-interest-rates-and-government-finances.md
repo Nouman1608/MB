@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Economics: Interest Rates and Government Income and Expenditure (8136)"
+seoTitle: "AQA GCSE Economics Interest Rates & Govt Finances Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["gcse"]

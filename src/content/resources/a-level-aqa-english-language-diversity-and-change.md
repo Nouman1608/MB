@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Language Diversity and Change (7702)"
+seoTitle: "AQA A-Level English Language Diversity and Change Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

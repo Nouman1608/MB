@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Automated and Emerging Technologies — Revision Notes"
+seoTitle: "Cambridge O Level CS Automated & Emerging Technologies Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Criminal Offender -- Practice Questions"
+seoTitle: "Edexcel IAL Law Criminal Offender Practice Questions"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

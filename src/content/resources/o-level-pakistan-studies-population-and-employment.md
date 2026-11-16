@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Population and Employment (2059)"
+seoTitle: "Cambridge O Level Pak Studies Population & Employment Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

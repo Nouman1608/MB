@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Russia from Autocracy to Revolution, 1881-1924 -- Study Guide"
+seoTitle: "Cambridge A Level History Russia 1881-1924 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

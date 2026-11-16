@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Approaches to researching behaviour -- Revision Notes"
+seoTitle: "IB DP Psychology Approaches to Researching Behaviour Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

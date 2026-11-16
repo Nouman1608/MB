@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Analysis and Approaches -- Calculus Strand"
+seoTitle: "IB DP Maths AA Calculus Strand Study Guide"
 resourceType: "study-guides"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Programming — Practice Questions (Cambridge 2210)"
+seoTitle: "Cambridge O Level Computer Science Programming Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

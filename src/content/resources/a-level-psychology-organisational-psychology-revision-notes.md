@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology 9990: Organisational Psychology — Revision Notes"
+seoTitle: "Cambridge A Level Psychology Organisational Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

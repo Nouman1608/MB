@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Sources of English Law, Its Enforcement and Administration -- Revision Notes"
+seoTitle: "Edexcel IAL Law Sources of English Law Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

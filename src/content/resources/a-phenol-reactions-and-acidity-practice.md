@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Phenol — Reactions and Acidity Practice Questions"
+seoTitle: "Cambridge A Level Phenol Reactions and Acidity Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

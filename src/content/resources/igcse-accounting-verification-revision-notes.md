@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Verification of Accounting Records — Revision Notes"
+seoTitle: "Cambridge IGCSE Accounting Verification of Records Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse","o-levels"]

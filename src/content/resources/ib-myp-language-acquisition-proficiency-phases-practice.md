@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Language Acquisition: Proficiency Phases and Assessment Criteria -- Practice Questions"
+seoTitle: "IB MYP Language Acquisition Proficiency Phases Practice"
 resourceType: "practice-questions"
 subject: "myp-language-acquisition"
 level: ["ib"]

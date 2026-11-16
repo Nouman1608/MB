@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Biology: Eukaryotic and Prokaryotic Cell Structure — Revision Notes"
+seoTitle: "AQA A-Level Biology Eukaryotic & Prokaryotic Cells Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

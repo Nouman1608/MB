@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature (7712 / 7717): Subject Overview"
+seoTitle: "AQA A-Level English Literature 7712 and 7717 Subject Guide"
 resourceType: "subject-guides"
 subject: "english-literature"
 level: ["a-levels"]

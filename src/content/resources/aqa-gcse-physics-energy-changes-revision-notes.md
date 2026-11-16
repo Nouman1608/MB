@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Physics: Energy Changes in a System — Revision Notes"
+seoTitle: "AQA GCSE Physics Energy Changes in a System Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["gcse"]

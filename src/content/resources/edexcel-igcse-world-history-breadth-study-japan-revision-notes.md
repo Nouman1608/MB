@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Japan in Transformation, 1853–1945 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Japan in Transformation Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

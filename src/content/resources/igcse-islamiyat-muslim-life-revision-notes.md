@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiat: Living the Muslim Life — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Islamiat Living the Muslim Life Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

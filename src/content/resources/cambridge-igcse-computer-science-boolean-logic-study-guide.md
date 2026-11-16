@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): Boolean logic -- Study Guide"
+seoTitle: "Cambridge IGCSE Computer Science Boolean Logic Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "O Level History: USSR Control of Eastern Europe, 1948-c.1989 — Practice Questions (Cambridge 2147)"
+seoTitle: "O Level History USSR Control of Eastern Europe Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

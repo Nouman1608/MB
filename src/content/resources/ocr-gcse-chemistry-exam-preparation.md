@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Chemistry A (Gateway): Equation Work, Calculations and the Two-Paper Split"
+seoTitle: "OCR GCSE Chemistry A Gateway Exam Prep: Equations and Papers"
 resourceType: "exam-preparation"
 subject: "chemistry"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 2.1 Ocean-atmosphere interactions -- Revision Notes"
+seoTitle: "IB DP Geography Ocean-Atmosphere Interactions Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

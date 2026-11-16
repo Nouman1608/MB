@@ -1,5 +1,6 @@
 ---
 title: "IB DP History: The Historical Investigation (Internal Assessment) -- Revision Notes"
+seoTitle: "IB DP History Historical Investigation IA Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["ib"]

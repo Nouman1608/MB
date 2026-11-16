@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The French Revolution, c1780–99 (4HI1)"
+seoTitle: "Edexcel IGCSE History French Revolution c1780–99 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

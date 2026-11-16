@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Sociocultural approach to understanding behaviour -- Revision Notes"
+seoTitle: "IB DP Psychology Sociocultural Approach Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["ib"]

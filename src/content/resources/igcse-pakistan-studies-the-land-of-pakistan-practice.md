@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: The Land of Pakistan — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Land of Pakistan Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

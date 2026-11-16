@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level English Language 1123: Paper 1 Reading Study Guide"
+seoTitle: "Cambridge O Level English Language Paper 1 Reading Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["o-levels"]

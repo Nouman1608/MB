@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Unit 6: Global risks and resilience -- Study Guide"
+seoTitle: "IB DP Geography Global Risks and Resilience Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: Government Microeconomic Intervention (Cambridge 9708)"
+seoTitle: "Cambridge A Level Economics Microeconomic Intervention Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

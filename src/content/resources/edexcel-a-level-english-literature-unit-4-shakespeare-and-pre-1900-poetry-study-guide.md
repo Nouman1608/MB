@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel A Level English Literature (YET01): Unit 4 Shakespeare and Pre-1900 Poetry -- Study Guide"
+seoTitle: "Edexcel IAL English Lit Unit 4 Shakespeare Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

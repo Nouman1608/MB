@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Population and Employment — Revision Notes"
+seoTitle: "Cambridge IGCSE Pak Studies Population and Employment Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

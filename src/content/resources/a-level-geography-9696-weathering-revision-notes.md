@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 3.2 Weathering -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Weathering Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

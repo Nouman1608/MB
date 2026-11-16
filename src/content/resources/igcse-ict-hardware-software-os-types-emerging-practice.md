@@ -1,5 +1,6 @@
 ---
 title: "ICT: Hardware, Software, Operating Systems and Types of Computer — Practice Questions (0417)"
+seoTitle: "Cambridge IGCSE ICT Hardware and Software Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["igcse"]

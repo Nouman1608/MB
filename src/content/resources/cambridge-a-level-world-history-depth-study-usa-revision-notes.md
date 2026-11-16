@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): American option: The USA, 1945-93 -- Revision Notes"
+seoTitle: "Cambridge A Level History The USA 1945-93 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]

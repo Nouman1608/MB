@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Team Project — Practice Questions"
+seoTitle: "Cambridge IGCSE Global Perspectives Team Project Practice"
 resourceType: "practice-questions"
 subject: "global-perspectives"
 level: ["igcse"]

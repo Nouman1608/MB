@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Solids, Liquids and Gases — Practice Questions"
+seoTitle: "Edexcel IGCSE Physics Solids, Liquids and Gases Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

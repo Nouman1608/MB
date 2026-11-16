@@ -1,5 +1,6 @@
 ---
 title: "O Level History: 1848 Revolutions, German Unification and the Causes of WWI — Practice Questions (Cambridge 2147)"
+seoTitle: "Cambridge O Level History 1848 Revolutions and WWI Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

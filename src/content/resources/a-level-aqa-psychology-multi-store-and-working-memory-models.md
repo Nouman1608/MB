@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Psychology: The Multi-Store and Working Memory Models (7182)"
+seoTitle: "AQA A-Level Psychology Multi-Store and Working Memory Models"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

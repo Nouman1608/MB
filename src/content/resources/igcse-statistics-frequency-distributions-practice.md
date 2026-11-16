@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Statistics: Frequency Distributions — Practice Questions (0479)"
+seoTitle: "Cambridge IGCSE Statistics Frequency Distributions Practice"
 resourceType: "practice-questions"
 subject: "statistics"
 level: ["igcse"]

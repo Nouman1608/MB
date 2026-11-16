@@ -1,5 +1,6 @@
 ---
 title: "A Level Literature in English: Paper 3 - Shakespeare and Drama — Practice Questions"
+seoTitle: "Cambridge A Level Literature Shakespeare and Drama Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["a-levels"]

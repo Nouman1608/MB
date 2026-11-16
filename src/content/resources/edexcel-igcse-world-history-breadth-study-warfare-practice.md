@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Changing Nature of Warfare and International Conflict, 1919–2011 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Warfare & Conflict 1919–2011 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Component 3 Non-Examined Assessment — Revision Notes"
+seoTitle: "Edexcel IGCSE English Language Component 3 Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

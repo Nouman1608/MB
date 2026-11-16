@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Sources and Recording of Data — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Accounting Recording of Data Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

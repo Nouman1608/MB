@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Mathematics: Algebra Notation and Manipulation — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Maths Algebraic Manipulation Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics"
 level: ["igcse"]

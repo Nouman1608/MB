@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Option B: Oceans and coastal margins -- Study Guide"
+seoTitle: "IB DP Geography Option B Oceans and Coastal Margins Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

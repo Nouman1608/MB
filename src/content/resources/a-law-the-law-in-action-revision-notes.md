@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law: The Law in Action — Revision Notes"
+seoTitle: "Edexcel IAL Law The Law in Action Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

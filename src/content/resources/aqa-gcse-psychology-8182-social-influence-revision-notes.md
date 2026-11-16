@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Social Influence -- Revision Notes"
+seoTitle: "AQA GCSE Psychology Social Influence Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

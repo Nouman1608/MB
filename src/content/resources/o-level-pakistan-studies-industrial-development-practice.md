@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Industrial Development — Practice Questions"
+seoTitle: "Cambridge O Level Pakistan Studies Industry Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

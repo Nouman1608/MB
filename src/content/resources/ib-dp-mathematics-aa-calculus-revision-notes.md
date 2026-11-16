@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Analysis and Approaches -- Calculus Strand Revision Notes"
+seoTitle: "IB DP Maths AA Calculus Strand Revision Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

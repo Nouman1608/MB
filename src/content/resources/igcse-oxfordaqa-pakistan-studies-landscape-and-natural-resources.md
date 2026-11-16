@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Landscape and Natural Resources (9236)"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Landscape Study Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

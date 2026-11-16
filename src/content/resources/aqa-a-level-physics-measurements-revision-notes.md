@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Physics: Measurements and Their Errors — Revision Notes"
+seoTitle: "AQA A-Level Physics Measurements and Errors Revision Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

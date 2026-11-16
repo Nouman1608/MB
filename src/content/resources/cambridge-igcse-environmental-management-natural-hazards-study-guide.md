@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management (0680): Natural hazards -- Study Guide"
+seoTitle: "IGCSE Environmental Management Natural Hazards Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["igcse"]

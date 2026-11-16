@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Psychology: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level Psychology Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "psychology"
 level: ["a-levels"]

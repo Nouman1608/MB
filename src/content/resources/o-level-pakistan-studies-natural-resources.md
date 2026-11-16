@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Natural Resources – An Issue of Sustainability (2059)"
+seoTitle: "Cambridge O Level Pakistan Studies Natural Resources Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["o-levels"]

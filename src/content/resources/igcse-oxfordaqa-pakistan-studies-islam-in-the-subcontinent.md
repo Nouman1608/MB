@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: Islam in the Subcontinent, c700–c1831 (9236)"
+seoTitle: "OxfordAQA IGCSE Pak Studies Islam in the Subcontinent Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

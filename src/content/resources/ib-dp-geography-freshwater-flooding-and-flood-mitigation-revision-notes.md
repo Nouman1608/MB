@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 1.2 Flooding and flood mitigation -- Revision Notes"
+seoTitle: "IB DP Geography Flooding and Flood Mitigation Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

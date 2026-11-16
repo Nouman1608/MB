@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 6.2 Food systems and spread of diseases -- Revision Notes"
+seoTitle: "IB DP Geography Food Systems and Spread of Diseases Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

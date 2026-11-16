@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: Criminal Offences and Defences — Revision Notes"
+seoTitle: "AQA A-Level Law Criminal Offences and Defences Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

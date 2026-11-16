@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): International option: International history, 1909-94 -- Practice Questions"
+seoTitle: "Cambridge A Level History International 1909-94 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["a-levels"]

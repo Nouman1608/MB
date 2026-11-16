@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Processor Fundamentals (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Processor Fundamentals Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Multimedia (Graphics and Sound) — Practice Questions (Cambridge 9618)"
+seoTitle: "Cambridge 9618 Multimedia Graphics and Sound Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

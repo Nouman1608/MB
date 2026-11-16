@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Home, Town, Neighbourhood and Region -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Home, Town and Neighbourhood Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

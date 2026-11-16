@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-level Geography (9635): 3.1.3 Coastal systems and landscapes -- Revision Notes"
+seoTitle: "OxfordAQA A-level Geography Coastal Systems Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

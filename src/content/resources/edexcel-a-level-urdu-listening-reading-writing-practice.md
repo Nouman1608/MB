@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Listening, Reading and Writing — Practice Questions"
+seoTitle: "Edexcel A Level Urdu Listening Reading and Writing Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["a-levels"]

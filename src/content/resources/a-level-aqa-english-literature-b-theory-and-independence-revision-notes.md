@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Theory and Independence NEA — Revision Notes"
+seoTitle: "AQA A-Level English Lit B Theory and Independence Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

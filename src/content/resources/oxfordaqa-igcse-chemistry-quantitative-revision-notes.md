@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Chemistry: Quantitative Chemistry — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Chemistry Quantitative Chemistry Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse"]

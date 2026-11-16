@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Consequences of Uses of Computing — Revision Notes"
+seoTitle: "AQA A-Level Computer Science Consequences of Computing Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

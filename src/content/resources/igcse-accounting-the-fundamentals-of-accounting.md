@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: The Fundamentals of Accounting (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE Accounting Fundamentals Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

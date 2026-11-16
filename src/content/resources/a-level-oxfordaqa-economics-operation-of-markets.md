@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Economics: The Operation of Markets, Market Failure and the Role of Government (9640)"
+seoTitle: "OxfordAQA A-Level Economics Operation of Markets Study Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

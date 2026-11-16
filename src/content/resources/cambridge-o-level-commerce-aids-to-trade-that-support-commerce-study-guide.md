@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce (7100): Aids to trade that support commerce -- Study Guide"
+seoTitle: "Cambridge O Level Commerce Aids to Trade Study Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["o-levels"]

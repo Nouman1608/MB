@@ -1,5 +1,6 @@
 ---
 title: "A Level Physics: Astronomy and Cosmology — Practice Questions"
+seoTitle: "Cambridge A Level Physics Astronomy and Cosmology Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

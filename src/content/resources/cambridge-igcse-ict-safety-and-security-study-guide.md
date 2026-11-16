@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE ICT (0417): Safety and security -- Study Guide"
+seoTitle: "Cambridge IGCSE ICT Safety and Security Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

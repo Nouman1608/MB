@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Subject Overview"
+seoTitle: "Edexcel IGCSE English Literature 4ET1 Subject Guide"
 resourceType: "subject-guides"
 subject: "english-literature"
 level: ["igcse"]

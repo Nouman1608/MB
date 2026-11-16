@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Biology: Movement Into and Out of Cells — Revision Notes"
+seoTitle: "Cambridge IGCSE Biology Movement Into and Out of Cells Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["igcse"]

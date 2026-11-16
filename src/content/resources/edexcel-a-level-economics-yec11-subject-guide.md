@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Economics (YEC11): Subject Overview"
+seoTitle: "Edexcel International A Level Economics Subject Guide"
 resourceType: "subject-guides"
 subject: "economics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Chemistry: Reactivity and Group Trends — Revision Notes"
+seoTitle: "Edexcel IGCSE Chemistry Reactivity and Group Trends Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse"]

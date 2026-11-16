@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors — Revision Notes"
+seoTitle: "Edexcel IAL Accounting Control Accounts and Errors Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

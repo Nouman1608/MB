@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Sociology: Exploring Sociology (9690)"
+seoTitle: "OxfordAQA A-Level Sociology Exploring Sociology Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["a-levels"]

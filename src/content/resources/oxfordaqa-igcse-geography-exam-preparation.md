@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Geography: Preparing for Three Unequal Papers"
+seoTitle: "OxfordAQA IGCSE Geography Exam Prep: Three Unequal Papers"
 resourceType: "exam-preparation"
 subject: "geography"
 level: ["igcse"]

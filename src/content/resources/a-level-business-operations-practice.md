@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Operations Management — Practice Questions (Cambridge 9609)"
+seoTitle: "Cambridge A Level Business Operations Management Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

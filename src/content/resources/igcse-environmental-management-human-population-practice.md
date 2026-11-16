@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Human Population — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Human Population Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

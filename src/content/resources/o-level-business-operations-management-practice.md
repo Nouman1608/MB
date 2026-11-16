@@ -1,5 +1,6 @@
 ---
 title: "O Level Business: Operations management — Practice Questions (Cambridge 7115)"
+seoTitle: "Cambridge O Level Business Operations Management Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

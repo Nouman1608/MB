@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 3 – Drama (Open Text) — Practice Questions"
+seoTitle: "Cambridge IGCSE English Literature Open Text Drama Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

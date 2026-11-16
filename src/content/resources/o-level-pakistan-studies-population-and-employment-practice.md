@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Population and Employment — Practice Questions"
+seoTitle: "Cambridge O Level Pakistan Studies Population Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

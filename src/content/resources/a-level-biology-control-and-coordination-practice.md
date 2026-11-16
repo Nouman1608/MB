@@ -1,5 +1,6 @@
 ---
 title: "A Level Biology: Control and coordination — Practice Questions (Cambridge 9700)"
+seoTitle: "Cambridge A Level Biology Control and Coordination Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

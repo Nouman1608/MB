@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level English Literature (9675): Unit 4 Literary Representations -- Study Guide"
+seoTitle: "OxfordAQA A Level English Literature Representations Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

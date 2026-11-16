@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level World History: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level World History Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "world-history"
 level: ["o-levels"]

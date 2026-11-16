@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Life at School/College"
+seoTitle: "OxfordAQA IGCSE Urdu Life at School/College Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

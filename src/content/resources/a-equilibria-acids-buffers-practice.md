@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Acids, Bases, Buffers and Partition Coefficients — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Acids, Bases & Buffers Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

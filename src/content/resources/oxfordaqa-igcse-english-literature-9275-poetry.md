@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Poetry"
+seoTitle: "OxfordAQA IGCSE English Literature 9275 Poetry Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

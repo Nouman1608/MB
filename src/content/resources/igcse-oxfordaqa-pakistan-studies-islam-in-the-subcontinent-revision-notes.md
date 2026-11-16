@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Islam in the Subcontinent — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pak Studies Islam in the Subcontinent Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

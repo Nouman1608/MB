@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Computer Science (0478): Automated and emerging technologies -- Study Guide"
+seoTitle: "Cambridge IGCSE Computer Science Emerging Technologies Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

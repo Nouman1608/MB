@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Sociology: The Role of Education and Differential Achievement (7192)"
+seoTitle: "AQA A-Level Sociology Education and Achievement Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: Language Exploration (Unit 4) — Practice Questions"
+seoTitle: "OxfordAQA A-Level English Language Exploration Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language (8700): Spoken language -- Study Guide"
+seoTitle: "AQA GCSE English Language Spoken Language Study Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["gcse"]

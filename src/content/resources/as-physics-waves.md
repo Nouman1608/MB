@@ -1,5 +1,6 @@
 ---
 title: "Waves: Progressive Waves, the Doppler Effect and Polarisation"
+seoTitle: "Cambridge A Level Physics Waves and Doppler Effect Guide"
 resourceType: "study-guides"
 subject: "physics"
 level: ["a-levels"]

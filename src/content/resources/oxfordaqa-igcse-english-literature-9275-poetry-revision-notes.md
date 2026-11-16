@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Poetry -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Poetry Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

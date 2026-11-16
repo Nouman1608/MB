@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Exercise 4 – Summary"
+seoTitle: "Cambridge IGCSE Urdu Exercise 4 Summary Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

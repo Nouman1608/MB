@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Language, Thought and Communication -- Revision Notes"
+seoTitle: "AQA GCSE Psychology Language, Thought & Communication Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

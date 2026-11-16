@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Landscape and Natural Resources — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Landscape Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Route B Poetry and Non-Exam Assessment (9275): Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Literature Route B Poetry Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

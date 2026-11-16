@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Global Perspectives: Team Project — Revision Notes"
+seoTitle: "Cambridge IGCSE Global Perspectives Team Project Notes"
 resourceType: "revision-notes"
 subject: "global-perspectives"
 level: ["igcse"]

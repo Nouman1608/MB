@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 11.1 Global interactions and global power -- Revision Notes"
+seoTitle: "IB DP Geography Global Interactions and Global Power Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

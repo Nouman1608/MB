@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Changing Nature of Warfare and International Conflict, 1919–2011 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Warfare and Conflict 1919–2011 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

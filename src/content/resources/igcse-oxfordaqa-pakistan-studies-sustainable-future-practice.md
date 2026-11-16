@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Creating a Sustainable Future — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Sustainable Future Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

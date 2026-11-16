@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Technology in Everyday Life"
+seoTitle: "OxfordAQA IGCSE Urdu Technology in Everyday Life Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

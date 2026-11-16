@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Accounting Concepts and Modern Practice — Practice Questions"
+seoTitle: "Cambridge IGCSE Accounting Concepts Practice Questions"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse","o-levels"]

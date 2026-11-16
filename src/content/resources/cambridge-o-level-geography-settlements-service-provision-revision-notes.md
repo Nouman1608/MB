@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Settlements (Rural and Urban) and Service Provision -- Revision Notes"
+seoTitle: "O Level Geography Settlements and Service Provision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

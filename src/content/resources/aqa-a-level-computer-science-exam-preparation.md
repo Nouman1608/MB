@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Preparing for an On-Screen Paper, a Written Paper and the NEA"
+seoTitle: "AQA A-Level Computer Science Papers and NEA Exam Prep"
 resourceType: "exam-preparation"
 subject: "computer-science"
 level: ["a-levels"]

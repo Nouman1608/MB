@@ -1,5 +1,6 @@
 ---
 title: "O Level Commerce: Sustainability and Ethics — Practice Questions"
+seoTitle: "Cambridge O Level Commerce Sustainability & Ethics Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["o-levels"]

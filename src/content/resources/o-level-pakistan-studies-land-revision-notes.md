@@ -1,5 +1,6 @@
 ---
 title: "O Level Pakistan Studies: The Land of Pakistan — Revision Notes"
+seoTitle: "Cambridge O Level Pakistan Studies Land of Pakistan Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["o-levels"]

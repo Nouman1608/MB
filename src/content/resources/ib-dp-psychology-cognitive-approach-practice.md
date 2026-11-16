@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Cognitive Approach to Understanding Behaviour -- Practice Questions"
+seoTitle: "IB DP Psychology Cognitive Approach Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

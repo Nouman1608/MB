@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Economics: Measuring Economic Growth — Practice Questions"
+seoTitle: "Edexcel IAL Economics Measuring Economic Growth Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

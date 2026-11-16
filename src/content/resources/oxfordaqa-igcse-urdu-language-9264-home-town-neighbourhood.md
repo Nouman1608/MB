@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Home, Town, Neighbourhood and Region"
+seoTitle: "OxfordAQA IGCSE Urdu Home, Town and Neighbourhood Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

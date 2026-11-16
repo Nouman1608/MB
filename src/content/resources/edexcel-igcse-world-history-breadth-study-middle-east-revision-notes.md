@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Middle East, Conflict, Crisis and Change, 1917–2012 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Middle East 1917–2012 Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

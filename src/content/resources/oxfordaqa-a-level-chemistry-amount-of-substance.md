@@ -1,5 +1,6 @@
 ---
 title: "Amount of Substance: Moles, the Ideal Gas Equation and Atom Economy"
+seoTitle: "OxfordAQA A Level Chemistry Amount of Substance Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

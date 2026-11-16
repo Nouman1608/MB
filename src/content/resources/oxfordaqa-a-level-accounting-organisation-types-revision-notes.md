@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Accounting: Types of Business Organisation — Revision Notes"
+seoTitle: "OxfordAQA A Level Accounting Business Organisation Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

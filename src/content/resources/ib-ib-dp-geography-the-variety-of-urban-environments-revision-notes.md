@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 7.1 The variety of urban environments -- Revision Notes"
+seoTitle: "IB DP Geography Variety of Urban Environments Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

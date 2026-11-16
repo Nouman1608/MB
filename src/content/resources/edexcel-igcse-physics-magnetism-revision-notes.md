@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Magnetism and Electromagnetism — Revision Notes"
+seoTitle: "Edexcel IGCSE Physics Magnetism and Electromagnetism Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["igcse"]

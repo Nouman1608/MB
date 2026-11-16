@@ -1,5 +1,6 @@
 ---
 title: "O Level Mathematics: Coordinate Geometry Practice Questions (Cambridge 4024)"
+seoTitle: "Cambridge O Level Maths Coordinate Geometry Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Geography (9230): World cities – London and New York"
+seoTitle: "OxfordAQA IGCSE Geography London and New York Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["igcse"]

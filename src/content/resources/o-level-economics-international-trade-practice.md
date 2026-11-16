@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: International trade and globalisation — Practice Questions (Cambridge 2281)"
+seoTitle: "Cambridge O Level Economics International Trade Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

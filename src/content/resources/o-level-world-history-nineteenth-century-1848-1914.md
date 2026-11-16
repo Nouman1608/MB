@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: The Nineteenth Century, 1848-1914 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History 19th Century 1848-1914 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

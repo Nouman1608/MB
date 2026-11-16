@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Mathematics: Use of Symbols and Algebraic Manipulation (4MA1)"
+seoTitle: "Edexcel IGCSE Maths Symbols and Algebraic Manipulation Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["igcse"]

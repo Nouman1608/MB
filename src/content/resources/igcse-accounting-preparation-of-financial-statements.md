@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Preparation of Financial Statements (Cambridge 0452)"
+seoTitle: "Cambridge IGCSE Accounting Financial Statements Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse","o-levels"]

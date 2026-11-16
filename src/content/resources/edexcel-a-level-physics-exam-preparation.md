@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel A-Level Physics: Paper-by-Paper Exam Preparation"
+seoTitle: "Edexcel IAL Physics Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["a-levels"]

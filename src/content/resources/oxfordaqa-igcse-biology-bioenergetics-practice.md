@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Biology: Bioenergetics — Practice Questions (9201)"
+seoTitle: "OxfordAQA IGCSE Biology Bioenergetics Practice Questions"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Natural Hazards — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Natural Hazards Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

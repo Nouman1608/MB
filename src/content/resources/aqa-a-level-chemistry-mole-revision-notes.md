@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Chemistry: Relative Mass, the Mole and the Avogadro Constant — Revision Notes"
+seoTitle: "AQA A-Level Chemistry Relative Mass and the Mole Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

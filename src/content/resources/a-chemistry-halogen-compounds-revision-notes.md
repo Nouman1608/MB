@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Halogen Compounds (Halogenoarenes) — Revision Notes"
+seoTitle: "Cambridge A Level Chemistry Halogen Compounds Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

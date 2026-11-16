@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE World History: International Relations Depth Studies (9245)"
+seoTitle: "OxfordAQA IGCSE World History International Relations Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

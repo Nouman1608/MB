@@ -1,5 +1,6 @@
 ---
 title: "Accounting: Business Entities and the Accounting System — Revision Notes"
+seoTitle: "Cambridge A Level Accounting Business Entities Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

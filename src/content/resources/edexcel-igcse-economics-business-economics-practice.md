@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Economics: Business Economics — Practice Questions (4EC1)"
+seoTitle: "Edexcel IGCSE Economics Business Economics Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["igcse"]

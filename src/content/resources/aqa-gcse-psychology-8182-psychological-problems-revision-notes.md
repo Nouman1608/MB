@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Psychological Problems -- Revision Notes"
+seoTitle: "AQA GCSE Psychology Psychological Problems Revision Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["gcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 2.2 Interactions between oceans and coastal places -- Revision Notes"
+seoTitle: "IB DP Geography Interactions Between Oceans and Coasts Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

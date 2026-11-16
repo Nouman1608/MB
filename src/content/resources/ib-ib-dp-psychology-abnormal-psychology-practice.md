@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Option: Abnormal psychology -- Practice Questions"
+seoTitle: "IB DP Psychology Abnormal Psychology Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

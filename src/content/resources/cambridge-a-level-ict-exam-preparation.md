@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge A Level Information Technology 9626 Exam Prep"
 resourceType: "exam-preparation"
 subject: "ict"
 level: ["a-levels"]

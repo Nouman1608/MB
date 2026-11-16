@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Queues, Stacks, Graphs, Trees, Hash Tables and Vectors — Practice Questions"
+seoTitle: "AQA A-Level CS Queues, Stacks, Graphs and Trees Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

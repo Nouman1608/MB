@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science: Theme A -- Concepts of Computer Science"
+seoTitle: "IB DP Computer Science Theme A Concepts Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 6.1 Changes in rural settlements -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Rural Settlement Change Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

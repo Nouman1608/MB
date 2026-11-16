@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The Changing Nature of Warfare and International Conflict, 1919–2011 (4HI1)"
+seoTitle: "Edexcel IGCSE History Warfare and Conflict 1919–2011 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Arenes and Halogenoarenes — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Arenes & Halogenoarenes Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

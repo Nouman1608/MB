@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Business and Its Environment — Practice Questions"
+seoTitle: "Cambridge A Level Business and Its Environment Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

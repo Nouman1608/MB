@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Sociology: How the Question-Choice Structure Differs Between Papers (0495)"
+seoTitle: "Cambridge IGCSE Sociology 0495 Question Choice Exam Prep"
 resourceType: "exam-preparation"
 subject: "sociology"
 level: ["igcse"]

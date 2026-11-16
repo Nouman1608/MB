@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Biology: The Causes of Disease — Practice Questions"
+seoTitle: "OxfordAQA A-Level Biology Causes of Disease Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

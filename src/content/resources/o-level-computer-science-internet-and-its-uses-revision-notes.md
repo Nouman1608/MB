@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: The Internet and Its Uses — Revision Notes"
+seoTitle: "Cambridge O Level CS Internet and Its Uses Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["o-levels"]

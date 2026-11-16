@@ -1,5 +1,6 @@
 ---
 title: "IB DP Mathematics: Analysis and Approaches -- Functions Strand Practice Questions"
+seoTitle: "IB DP Maths AA Functions Strand Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

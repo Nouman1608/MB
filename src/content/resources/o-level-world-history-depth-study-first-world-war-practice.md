@@ -1,5 +1,6 @@
 ---
 title: "O Level History: Depth Study A, The First World War — Practice Questions (Cambridge 2147)"
+seoTitle: "Cambridge O Level History First World War Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

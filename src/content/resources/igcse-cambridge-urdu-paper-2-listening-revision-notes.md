@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Paper 2 Listening — Revision Notes (0539)"
+seoTitle: "Cambridge IGCSE Urdu 0539 Listening Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

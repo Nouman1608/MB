@@ -1,5 +1,6 @@
 ---
 title: "How MYP Individuals and Societies Is Assessed: Revision Notes"
+seoTitle: "IB MYP Individuals and Societies Assessment Revision Notes"
 resourceType: "revision-notes"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

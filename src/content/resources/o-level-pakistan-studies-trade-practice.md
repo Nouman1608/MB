@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Pakistan Studies: Trade — Practice Questions"
+seoTitle: "Cambridge O Level Pakistan Studies Trade Practice Questions"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["o-levels"]

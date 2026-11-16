@@ -1,5 +1,6 @@
 ---
 title: "IB Middle Years Programme Language Acquisition: Subject Overview"
+seoTitle: "IB MYP Language Acquisition Subject Guide"
 resourceType: "subject-guides"
 subject: "myp-language-acquisition"
 level: ["ib"]

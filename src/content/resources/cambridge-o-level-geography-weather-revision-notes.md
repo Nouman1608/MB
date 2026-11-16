@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Weather -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Weather Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

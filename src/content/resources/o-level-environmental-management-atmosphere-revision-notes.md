@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: The Atmosphere and Human Activities — Revision Notes (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Atmosphere and Human Activities Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["o-levels"]

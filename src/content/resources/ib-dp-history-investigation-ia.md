@@ -1,5 +1,6 @@
 ---
 title: "IB DP History: The Historical Investigation (Internal Assessment)"
+seoTitle: "IB DP History Historical Investigation IA Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["ib"]

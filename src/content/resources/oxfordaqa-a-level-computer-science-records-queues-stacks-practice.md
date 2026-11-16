@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Computer Science: Records, Queues and Stacks — Practice Questions"
+seoTitle: "OxfordAQA A Level CS Records, Queues and Stacks Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Statistics: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge O Level Statistics Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "statistics"
 level: ["o-levels"]

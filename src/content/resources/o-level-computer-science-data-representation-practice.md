@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: Data Representation — Practice Questions"
+seoTitle: "Cambridge O Level CS Data Representation Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Translation, Reading Comprehension and Writing (9UR0)"
+seoTitle: "Edexcel A-Level Urdu Translation and Reading Comprehension"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

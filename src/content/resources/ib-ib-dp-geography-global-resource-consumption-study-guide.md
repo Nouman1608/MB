@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: Unit 3: Global resource consumption and security -- Study Guide"
+seoTitle: "IB Geography Global Resource Consumption and Security Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

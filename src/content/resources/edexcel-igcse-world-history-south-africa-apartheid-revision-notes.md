@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: South Africa, From Union to the End of Apartheid, 1948–94 — Revision Notes"
+seoTitle: "Edexcel IGCSE History South Africa Apartheid 1948–94 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: Criminal Offences and Defences — Practice Questions"
+seoTitle: "AQA A-Level Law Criminal Offences and Defences Practice"
 resourceType: "practice-questions"
 subject: "law"
 level: ["a-levels"]

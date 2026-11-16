@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Commerce: Outsourcing, Wholesaling and Communication (7100)"
+seoTitle: "Cambridge O Level Commerce Outsourcing and Wholesaling Guide"
 resourceType: "study-guides"
 subject: "commerce"
 level: ["o-levels"]

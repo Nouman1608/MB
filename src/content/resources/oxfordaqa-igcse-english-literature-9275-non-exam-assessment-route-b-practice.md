@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature (9275): Non-Exam Assessment (Route B) -- Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature NEA Route B Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

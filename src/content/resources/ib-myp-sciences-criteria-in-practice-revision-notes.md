@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Sciences: The Four Assessment Criteria in Practice -- Revision Notes"
+seoTitle: "IB MYP Sciences Four Assessment Criteria Revision Notes"
 resourceType: "revision-notes"
 subject: "myp-sciences"
 level: ["ib"]

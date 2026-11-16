@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language A: Preparing for Component 1 and Your Component 2 or 3 Route"
+seoTitle: "Edexcel IGCSE English Language A 4EA1 Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["igcse"]

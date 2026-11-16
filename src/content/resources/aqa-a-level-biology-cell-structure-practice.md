@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Biology: Eukaryotic and Prokaryotic Cell Structure — Practice Questions"
+seoTitle: "AQA A-Level Biology Eukaryotic & Prokaryotic Cells Practice"
 resourceType: "practice-questions"
 subject: "biology"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE ICT: Applications — Modelling to Satellite Systems — Practice Questions"
+seoTitle: "Cambridge IGCSE ICT Applications Practice Questions"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["igcse"]

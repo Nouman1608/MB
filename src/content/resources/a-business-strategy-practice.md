@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: Objectives and Strategic Decisions — Practice Questions"
+seoTitle: "OCR A Level Business Objectives and Strategy Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): Water -- Study Guide"
+seoTitle: "O Level Environmental Management Water Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

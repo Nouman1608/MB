@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Accounting: Two 75-Mark Papers and How to Work Them"
+seoTitle: "OxfordAQA IGCSE Accounting Exam Prep: Two 75-Mark Papers"
 resourceType: "exam-preparation"
 subject: "accounting"
 level: ["igcse"]

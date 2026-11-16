@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Theme 1, Evolving Pakistani Society (9UR0)"
+seoTitle: "Edexcel A Level Urdu Evolving Pakistani Society Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

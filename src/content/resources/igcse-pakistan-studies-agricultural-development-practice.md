@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Agricultural Development — Practice Questions (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Agriculture Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

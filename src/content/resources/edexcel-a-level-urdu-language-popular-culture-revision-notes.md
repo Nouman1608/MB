@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Urdu (9UR0): Popular Culture (مقبول کلچر) -- Revision Notes"
+seoTitle: "Edexcel A Level Urdu Popular Culture Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["a-levels"]

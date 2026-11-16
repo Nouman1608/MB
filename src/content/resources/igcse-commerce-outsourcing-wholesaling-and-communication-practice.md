@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Commerce: Outsourcing, Wholesaling and Communication — Practice Questions (0715)"
+seoTitle: "Cambridge IGCSE Commerce Outsourcing & Wholesaling Practice"
 resourceType: "practice-questions"
 subject: "commerce"
 level: ["igcse"]

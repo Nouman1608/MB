@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Hardware and Virtual Machines -- Study Guide"
+seoTitle: "Cambridge A Level CS Hardware and Virtual Machines Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

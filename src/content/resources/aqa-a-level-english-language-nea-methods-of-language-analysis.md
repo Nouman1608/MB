@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Methods of Language Analysis in the NEA (7702)"
+seoTitle: "AQA A-Level English Language NEA Methods of Analysis Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

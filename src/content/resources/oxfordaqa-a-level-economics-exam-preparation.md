@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Economics: Why A2 Papers Are Worth More Than AS Papers"
+seoTitle: "OxfordAQA A-Level Economics Exam Prep: AS and A2 Weighting"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["a-levels"]

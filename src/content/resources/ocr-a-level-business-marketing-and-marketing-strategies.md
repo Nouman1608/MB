@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Business: Marketing and Marketing Strategies (H431)"
+seoTitle: "OCR A Level Business Marketing Strategies Study Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

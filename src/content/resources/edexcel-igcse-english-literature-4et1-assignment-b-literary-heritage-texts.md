@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature (4ET1): Assignment B Literary Heritage Texts"
+seoTitle: "Edexcel IGCSE Eng Lit Assignment B Literary Heritage Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

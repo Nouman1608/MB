@@ -1,5 +1,6 @@
 ---
 title: "A Level Geography: Core Physical Geography — Practice Questions"
+seoTitle: "Cambridge A Level Geography Core Physical Geography Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["a-levels"]

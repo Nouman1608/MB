@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE History: Choosing and Preparing Your Depth, Investigation and Breadth Options"
+seoTitle: "Edexcel IGCSE History Depth and Breadth Options Exam Prep"
 resourceType: "exam-preparation"
 subject: "world-history"
 level: ["igcse"]

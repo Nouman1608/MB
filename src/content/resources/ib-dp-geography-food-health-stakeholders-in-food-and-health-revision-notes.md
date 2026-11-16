@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 6.3 Stakeholders in food and health -- Revision Notes"
+seoTitle: "IB DP Geography Stakeholders in Food and Health Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

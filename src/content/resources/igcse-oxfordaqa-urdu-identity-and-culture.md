@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu: Identity and Culture (9264)"
+seoTitle: "OxfordAQA IGCSE Urdu Identity and Culture Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

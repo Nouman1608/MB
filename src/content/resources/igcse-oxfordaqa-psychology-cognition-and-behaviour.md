@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Psychology: Cognition and Behaviour (9218)"
+seoTitle: "OxfordAQA IGCSE Psychology Cognition and Behaviour Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["igcse"]

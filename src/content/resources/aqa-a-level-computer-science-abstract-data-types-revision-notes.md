@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Queues, Stacks, Graphs, Trees, Hash Tables and Vectors — Revision Notes"
+seoTitle: "AQA A-Level CS Queues, Stacks, Graphs and Trees Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

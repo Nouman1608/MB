@@ -1,5 +1,6 @@
 ---
 title: "O Level Computer Science: The Internet and Its Uses — Practice Questions (Cambridge 2210)"
+seoTitle: "Cambridge O Level CS Internet and Its Uses Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["o-levels"]

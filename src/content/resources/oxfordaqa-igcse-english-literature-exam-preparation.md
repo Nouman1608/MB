@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE English Literature: One Exam Route, One Coursework Route"
+seoTitle: "OxfordAQA IGCSE English Literature Exam Prep: Two Routes"
 resourceType: "exam-preparation"
 subject: "english-literature"
 level: ["igcse"]

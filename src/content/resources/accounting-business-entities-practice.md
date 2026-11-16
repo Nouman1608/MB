@@ -1,5 +1,6 @@
 ---
 title: "Accounting: Business Entities and the Accounting System — Practice Questions"
+seoTitle: "Cambridge A Level Accounting Business Entities Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["a-levels"]

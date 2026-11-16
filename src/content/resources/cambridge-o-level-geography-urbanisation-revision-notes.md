@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Urbanisation -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Urbanisation Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

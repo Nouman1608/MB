@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: Major Teachings in the Hadiths, Subtopic 2.1 (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Major Teachings in Hadiths Guide"
 resourceType: "study-guides"
 subject: "islamiyat"
 level: ["igcse"]

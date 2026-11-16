@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Chemistry: Reactivity and Group Trends (4CH1)"
+seoTitle: "Edexcel IGCSE Chemistry Reactivity and Group Trends Guide"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Number (Extended) — Practice Questions (Cambridge 0580)"
+seoTitle: "Cambridge IGCSE Maths Extended Number Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

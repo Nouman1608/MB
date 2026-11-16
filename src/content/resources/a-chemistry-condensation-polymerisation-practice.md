@@ -1,5 +1,6 @@
 ---
 title: "A Level Chemistry: Condensation Polymerisation — Practice Questions"
+seoTitle: "Cambridge A Level Chemistry Condensation Polymers Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

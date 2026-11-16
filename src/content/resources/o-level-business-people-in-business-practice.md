@@ -1,5 +1,6 @@
 ---
 title: "O Level Business Studies: People in Business — Practice Questions"
+seoTitle: "Cambridge O Level Business People in Business Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

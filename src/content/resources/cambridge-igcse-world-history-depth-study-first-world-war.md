@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE World History: Depth Study A, The First World War 1914-18 (0470)"
+seoTitle: "Cambridge IGCSE World History First World War 1914-18 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

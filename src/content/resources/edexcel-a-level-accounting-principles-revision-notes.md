@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Principles and Double Entry Bookkeeping — Revision Notes"
+seoTitle: "Edexcel IAL Accounting Double Entry Bookkeeping Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Changes in Medicine, c1848–c1948 (4HI1)"
+seoTitle: "Edexcel IGCSE History Medicine c1848–c1948 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

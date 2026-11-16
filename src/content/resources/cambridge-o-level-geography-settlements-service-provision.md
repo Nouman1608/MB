@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Settlements (Rural and Urban) and Service Provision"
+seoTitle: "O Level Geography Settlements and Service Provision Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

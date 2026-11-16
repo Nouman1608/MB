@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Law (7162): Rule of Law, Parliament, Morality and Justice -- Study Guide"
+seoTitle: "AQA A-Level Law Rule of Law, Parliament & Morality Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

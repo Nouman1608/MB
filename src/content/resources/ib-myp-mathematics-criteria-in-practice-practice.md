@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Mathematics: The Four Assessment Criteria in Practice -- Practice Questions"
+seoTitle: "IB MYP Maths Four Assessment Criteria Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["ib"]

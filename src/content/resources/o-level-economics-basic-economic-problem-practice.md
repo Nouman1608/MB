@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: The Basic Economic Problem — Practice Questions"
+seoTitle: "Cambridge O Level Economics Basic Economic Problem Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

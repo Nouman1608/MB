@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Physics: Motion and Newton's Laws — Revision Notes"
+seoTitle: "OxfordAQA A Level Physics Motion and Newton's Laws Notes"
 resourceType: "revision-notes"
 subject: "physics"
 level: ["a-levels"]

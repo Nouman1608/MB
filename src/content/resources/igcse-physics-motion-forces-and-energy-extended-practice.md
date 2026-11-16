@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Physics: Motion, Forces and Energy (Extended) — Practice Questions (Cambridge 0625)"
+seoTitle: "Cambridge 0625 Motion, Forces and Energy Extended Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

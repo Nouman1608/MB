@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Biology: Diversity of Living Organisms — Revision Notes"
+seoTitle: "OxfordAQA A Level Biology Diversity of Organisms Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

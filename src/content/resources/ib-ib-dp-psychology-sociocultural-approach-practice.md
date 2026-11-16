@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology: Sociocultural approach to understanding behaviour -- Practice Questions"
+seoTitle: "IB DP Psychology Sociocultural Approach Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

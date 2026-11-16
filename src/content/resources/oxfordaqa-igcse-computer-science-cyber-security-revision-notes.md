@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Cyber Security — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Cyber Security Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

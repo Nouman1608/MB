@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-level Geography (9635): 3.1.1 Living with hazards -- Revision Notes"
+seoTitle: "OxfordAQA A-level Geography Living with Hazards Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

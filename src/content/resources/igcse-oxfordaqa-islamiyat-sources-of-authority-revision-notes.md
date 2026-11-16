@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Islamiyat: Sources of Authority in Islam — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Islamiyat Sources of Authority Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "How DP Mathematics: Analysis and Approaches Is Assessed: Revision Notes"
+seoTitle: "IB DP Maths Analysis and Approaches Assessment Notes"
 resourceType: "revision-notes"
 subject: "mathematics-analysis-and-approaches"
 level: ["ib"]

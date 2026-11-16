@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): International option: International history, 1909-94 -- Revision Notes"
+seoTitle: "Cambridge A Level History International 1909-94 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]

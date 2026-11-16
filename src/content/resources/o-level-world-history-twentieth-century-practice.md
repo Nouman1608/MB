@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: International Relations since 1919 — Practice Questions"
+seoTitle: "Cambridge O Level History International Relations Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["o-levels"]

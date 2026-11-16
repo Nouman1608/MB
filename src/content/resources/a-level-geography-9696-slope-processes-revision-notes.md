@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 3.3 Slope processes -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Slope Processes Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

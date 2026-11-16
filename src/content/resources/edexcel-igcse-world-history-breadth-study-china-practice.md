@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: China, Conflict, Crisis and Change, 1900–89 — Practice Questions"
+seoTitle: "Edexcel IGCSE History China 1900–89 Practice Questions"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

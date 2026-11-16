@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Earthquakes and Volcanoes"
+seoTitle: "O Level Geography Earthquakes and Volcanoes Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

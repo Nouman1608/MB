@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Geography: Preparing for the Staged Four-Paper Route"
+seoTitle: "Cambridge A Level Geography Four-Paper Route Exam Prep"
 resourceType: "exam-preparation"
 subject: "geography"
 level: ["a-levels"]

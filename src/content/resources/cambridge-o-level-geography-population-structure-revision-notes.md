@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Structure -- Revision Notes"
+seoTitle: "Cambridge O Level Geography Population Structure Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["o-levels"]

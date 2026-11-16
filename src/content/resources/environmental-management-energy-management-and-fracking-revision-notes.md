@@ -1,5 +1,6 @@
 ---
 title: "Energy Management, New Energy Resources and Fracking: Revision Notes"
+seoTitle: "Cambridge IGCSE 0680 Energy Management and Fracking Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["igcse"]

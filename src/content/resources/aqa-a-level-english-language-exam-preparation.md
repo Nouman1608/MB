@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language: Section-by-Section Exam Preparation"
+seoTitle: "AQA A-Level English Language Section-by-Section Exam Prep"
 resourceType: "exam-preparation"
 subject: "english"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Chemistry: Principles of Chemistry — Revision Notes"
+seoTitle: "Edexcel IGCSE Chemistry Principles of Chemistry Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["igcse"]

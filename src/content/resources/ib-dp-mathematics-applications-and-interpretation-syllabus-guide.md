@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Mathematics: Applications and Interpretation: Syllabus Guide"
+seoTitle: "IB DP Maths Applications and Interpretation Syllabus Guide"
 resourceType: "study-guides"
 subject: "mathematics-applications-and-interpretation"
 level: ["ib"]

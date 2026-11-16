@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 14 Fieldwork (internal assessment) -- Revision Notes"
+seoTitle: "IB DP Geography Fieldwork Internal Assessment Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

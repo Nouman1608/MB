@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level World History (9489): Historical interpretations -- Revision Notes"
+seoTitle: "Cambridge A Level History Historical Interpretations Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["a-levels"]

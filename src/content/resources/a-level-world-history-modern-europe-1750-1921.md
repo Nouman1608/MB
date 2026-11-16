@@ -1,5 +1,6 @@
 ---
 title: "A Level World History: Modern Europe, 1774-1924 (Cambridge 9489)"
+seoTitle: "Cambridge A Level History Modern Europe 1774-1924 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["a-levels"]

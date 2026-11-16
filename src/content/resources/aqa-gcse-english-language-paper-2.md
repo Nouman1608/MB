@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language: Paper 2 — Writers' Viewpoints and Perspectives (8700)"
+seoTitle: "AQA GCSE English Language Paper 2 Writers' Viewpoints Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["gcse"]

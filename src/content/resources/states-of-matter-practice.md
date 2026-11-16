@@ -1,5 +1,6 @@
 ---
 title: "States of Matter and Kinetic Particle Theory: Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry States of Matter Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

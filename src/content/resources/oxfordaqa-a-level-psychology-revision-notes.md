@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Psychology: Introductory Topics — Revision Notes"
+seoTitle: "OxfordAQA A Level Psychology Introductory Topics Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Fundamentals of Computer Systems — Practice Questions"
+seoTitle: "AQA A-Level Computer Science Computer Systems Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

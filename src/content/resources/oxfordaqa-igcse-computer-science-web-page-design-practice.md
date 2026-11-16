@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Web Page Design — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Web Page Design Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

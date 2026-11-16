@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 9.1 Causes of global climate change -- Revision Notes"
+seoTitle: "IB DP Geography Causes of Global Climate Change Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

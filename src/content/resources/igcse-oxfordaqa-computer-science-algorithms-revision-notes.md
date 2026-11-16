@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Algorithms — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Computer Science Algorithms Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

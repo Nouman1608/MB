@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Physics: Forces and Their Effects — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Physics Forces and Their Effects Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

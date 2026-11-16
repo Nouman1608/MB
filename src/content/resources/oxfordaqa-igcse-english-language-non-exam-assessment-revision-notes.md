@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Non-Exam Assessment Project — Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Language NEA Project Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level English Language 9093: Paper 4 — Revision Notes"
+seoTitle: "Cambridge A Level English Language Paper 4 Topics Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

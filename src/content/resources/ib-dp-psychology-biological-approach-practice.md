@@ -1,5 +1,6 @@
 ---
 title: "IB DP Psychology Core: The Biological Approach to Understanding Behaviour -- Practice Questions"
+seoTitle: "IB DP Psychology Biological Approach Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["ib"]

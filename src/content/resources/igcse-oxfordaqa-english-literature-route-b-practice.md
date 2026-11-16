@@ -1,5 +1,6 @@
 ---
 title: "Route B Poetry and Non-Exam Assessment (9275): Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Literature Route B Poetry Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE Chemistry: Organic Chemistry — Practice Questions (4CH1)"
+seoTitle: "Edexcel IGCSE Chemistry 4CH1 Organic Chemistry Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse"]

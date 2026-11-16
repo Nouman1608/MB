@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Accounting: Types of Business Organisation (7127)"
+seoTitle: "AQA A-Level Accounting Types of Business Organisation Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Theory of computation -- Study Guide"
+seoTitle: "AQA A-Level Computer Science Theory of Computation Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

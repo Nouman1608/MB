@@ -1,5 +1,6 @@
 ---
 title: "A Level Business: Business and its Environment (Cambridge 9609)"
+seoTitle: "Cambridge A Level Business and its Environment Study Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

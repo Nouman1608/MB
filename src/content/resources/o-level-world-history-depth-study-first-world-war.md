@@ -1,5 +1,6 @@
 ---
 title: "O Level World History: Depth Study A, The First World War 1914-18 (Cambridge 2147)"
+seoTitle: "Cambridge O Level History First World War 1914-18 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["o-levels"]

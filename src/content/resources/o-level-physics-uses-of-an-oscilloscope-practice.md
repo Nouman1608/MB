@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Uses of an Oscilloscope — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Uses of an Oscilloscope Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

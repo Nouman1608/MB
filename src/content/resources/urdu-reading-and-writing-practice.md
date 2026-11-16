@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Paper 1 Reading and Writing — Practice Questions (0539)"
+seoTitle: "Cambridge IGCSE Urdu 0539 Reading and Writing Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

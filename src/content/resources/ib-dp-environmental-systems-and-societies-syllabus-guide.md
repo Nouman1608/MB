@@ -1,5 +1,6 @@
 ---
 title: "IB Diploma Programme Environmental Systems and Societies: Syllabus Guide"
+seoTitle: "IB DP Environmental Systems and Societies Syllabus Guide"
 resourceType: "study-guides"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

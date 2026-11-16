@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level English Literature: Unit 2 Drama — Revision Notes"
+seoTitle: "Edexcel IAL English Literature Unit 2 Drama Revision Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Monitoring and Control — Practice Questions"
+seoTitle: "Cambridge A Level ICT 9626 Monitoring and Control Practice"
 resourceType: "practice-questions"
 subject: "ict"
 level: ["a-levels"]

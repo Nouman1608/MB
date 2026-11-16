@@ -1,5 +1,6 @@
 ---
 title: "Shakespeare and the 19th-Century Novel (8702): Practice Questions"
+seoTitle: "AQA GCSE Shakespeare & 19th-Century Novel Practice Questions"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["gcse"]

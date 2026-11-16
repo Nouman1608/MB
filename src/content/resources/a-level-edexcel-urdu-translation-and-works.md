@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Translation into Urdu and Written Response to Works (9UR0)"
+seoTitle: "Edexcel A-Level Urdu Translation and Response to Works"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

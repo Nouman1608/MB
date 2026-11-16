@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Biology: The Causes of Disease — Revision Notes"
+seoTitle: "OxfordAQA A Level Biology Causes of Disease Revision Notes"
 resourceType: "revision-notes"
 subject: "biology"
 level: ["a-levels"]

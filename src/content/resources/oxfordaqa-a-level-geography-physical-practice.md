@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A Level Geography: Physical Geography 1 — Practice Questions"
+seoTitle: "OxfordAQA A Level Physical Geography 1 Practice Questions"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["a-levels"]

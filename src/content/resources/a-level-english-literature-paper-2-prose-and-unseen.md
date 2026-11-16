@@ -1,5 +1,6 @@
 ---
 title: "A Level English Literature: Paper 2 - Prose and Unseen (Cambridge 9695)"
+seoTitle: "Cambridge A Level English Lit Prose and Unseen Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

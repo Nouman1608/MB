@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Urdu (9264): Me, My Family, Friends and People I Know -- Revision Notes"
+seoTitle: "OxfordAQA IGCSE Urdu Family and Friends Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Landscape and Natural Resources — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Landscape Revision Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

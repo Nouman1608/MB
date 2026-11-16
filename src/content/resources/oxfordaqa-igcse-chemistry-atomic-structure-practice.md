@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Chemistry: Atomic Structure and the Periodic Table — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Chemistry Atomic Structure Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse"]

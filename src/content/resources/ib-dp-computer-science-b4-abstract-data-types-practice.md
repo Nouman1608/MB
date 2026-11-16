@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.4: Abstract Data Types -- Practice Questions"
+seoTitle: "IB DP Computer Science Abstract Data Types Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["ib"]

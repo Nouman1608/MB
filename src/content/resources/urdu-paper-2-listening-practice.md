@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Paper 2 Listening — Practice Questions (0539)"
+seoTitle: "Cambridge IGCSE Urdu 0539 Paper 2 Listening Practice"
 resourceType: "practice-questions"
 subject: "urdu-language"
 level: ["igcse"]

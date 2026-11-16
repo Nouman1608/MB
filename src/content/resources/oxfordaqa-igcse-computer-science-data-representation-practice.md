@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Data Representation — Practice Questions (9210)"
+seoTitle: "OxfordAQA IGCSE CS Data Representation Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

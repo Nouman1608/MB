@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level English Language: Language Variation (Unit 3) — Practice Questions"
+seoTitle: "OxfordAQA A-Level English Language Variation Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

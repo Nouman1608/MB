@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level English Literature (YET01): Subject Overview"
+seoTitle: "Edexcel IAL English Literature YET01 Subject Guide"
 resourceType: "subject-guides"
 subject: "english-literature"
 level: ["a-levels"]

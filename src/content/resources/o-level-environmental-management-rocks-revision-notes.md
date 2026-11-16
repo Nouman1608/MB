@@ -1,5 +1,6 @@
 ---
 title: "O Level Environmental Management: Rocks and Minerals — Revision Notes"
+seoTitle: "Cambridge O Level 5014 Rocks and Minerals Revision Notes"
 resourceType: "revision-notes"
 subject: "environmental-management"
 level: ["o-levels"]

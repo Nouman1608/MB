@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: The People and Economy of Pakistan — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies People and Economy Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

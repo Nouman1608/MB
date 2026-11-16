@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Commerce: Sustainability and Ethics — Revision Notes (7100)"
+seoTitle: "Cambridge O Level Commerce Sustainability and Ethics Notes"
 resourceType: "revision-notes"
 subject: "commerce"
 level: ["o-levels"]

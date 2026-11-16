@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Computer Science: The Internet and Its Uses — Practice Questions (Cambridge 0478)"
+seoTitle: "Cambridge IGCSE 0478 Internet and Its Uses Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["igcse"]

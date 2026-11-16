@@ -1,5 +1,6 @@
 ---
 title: "IB DP Environmental Systems and Societies Topic 1: Foundations -- Practice Questions"
+seoTitle: "IB DP ESS Topic 1 Foundations Practice Questions"
 resourceType: "practice-questions"
 subject: "environmental-systems-and-societies"
 level: ["ib"]

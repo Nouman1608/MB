@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge IGCSE Environmental Management Exam Prep"
 resourceType: "exam-preparation"
 subject: "environmental-management"
 level: ["igcse"]

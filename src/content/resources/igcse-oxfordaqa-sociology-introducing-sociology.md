@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology: Introducing Sociology (9292)"
+seoTitle: "OxfordAQA IGCSE Sociology Introducing Sociology Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["igcse"]

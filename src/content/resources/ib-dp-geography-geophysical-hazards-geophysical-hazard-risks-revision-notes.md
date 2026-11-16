@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 4.2 Geophysical hazard risks -- Revision Notes"
+seoTitle: "IB DP Geography Geophysical Hazard Risks Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

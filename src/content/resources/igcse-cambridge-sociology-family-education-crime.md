@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Sociology: Family, Education and Crime (0495)"
+seoTitle: "Cambridge IGCSE Sociology Family, Education and Crime Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["igcse"]

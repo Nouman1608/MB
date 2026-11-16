@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Operations, Finance and Influences — Revision Notes"
+seoTitle: "OCR GCSE Business Operations and Finance Revision Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["gcse"]

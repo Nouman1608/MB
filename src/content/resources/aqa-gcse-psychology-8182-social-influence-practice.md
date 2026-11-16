@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Social Influence -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Social Influence Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

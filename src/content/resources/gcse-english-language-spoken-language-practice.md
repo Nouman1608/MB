@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE English Language Spoken Language Endorsement: Practice Questions"
+seoTitle: "AQA GCSE English Spoken Language Endorsement Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["gcse"]

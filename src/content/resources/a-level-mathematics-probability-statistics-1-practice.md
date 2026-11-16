@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Probability & Statistics 1 Practice Questions (Cambridge 9709 Paper 5)"
+seoTitle: "Cambridge A Level Maths Probability & Statistics 1 Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

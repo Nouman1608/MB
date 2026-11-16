@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Urdu: Theme 2, Art and Culture in the Urdu-Speaking World (9UR0)"
+seoTitle: "Edexcel A Level Urdu Theme 2 Art and Culture Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["a-levels"]

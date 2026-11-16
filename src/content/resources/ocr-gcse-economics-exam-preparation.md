@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Economics: Both Components Are Synoptic -- What That Means for Revision"
+seoTitle: "OCR GCSE Economics Exam Prep: Synoptic Components"
 resourceType: "exam-preparation"
 subject: "economics"
 level: ["gcse"]

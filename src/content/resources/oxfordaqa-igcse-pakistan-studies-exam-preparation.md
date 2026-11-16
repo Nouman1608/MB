@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Pakistan Studies: Working the Compulsory-Plus-Choice Structure"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Exam Preparation"
 resourceType: "exam-preparation"
 subject: "pakistan-studies"
 level: ["igcse"]

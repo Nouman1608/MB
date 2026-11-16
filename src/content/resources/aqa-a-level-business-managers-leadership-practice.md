@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Business: Managers, Leadership and Decision Making — Practice Questions (7132)"
+seoTitle: "AQA A-Level Business Managers & Leadership Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["a-levels"]

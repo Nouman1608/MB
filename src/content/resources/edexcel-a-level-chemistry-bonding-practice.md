@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A Level Chemistry: Structure, Bonding and Introductory Organic Chemistry — Practice Questions"
+seoTitle: "Edexcel IAL Chemistry Structure and Bonding Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

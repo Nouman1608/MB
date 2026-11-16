@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Data Structures and Arrays — Practice Questions"
+seoTitle: "AQA A-Level CS Data Structures and Arrays Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

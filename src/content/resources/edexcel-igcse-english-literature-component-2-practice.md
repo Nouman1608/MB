@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Modern Drama and Literary Heritage Texts — Practice Questions (4ET1)"
+seoTitle: "Edexcel IGCSE Eng Lit Drama and Literary Heritage Practice"
 resourceType: "practice-questions"
 subject: "english-literature"
 level: ["igcse"]

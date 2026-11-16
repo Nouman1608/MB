@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Design ePortfolio: A Preparation Checklist for Every Design Cycle Stage"
+seoTitle: "IB MYP Design ePortfolio Design Cycle Checklist Exam Prep"
 resourceType: "exam-preparation"
 subject: "myp-design"
 level: ["ib"]

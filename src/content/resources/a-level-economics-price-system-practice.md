@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: The Price System and the Microeconomy — Practice Questions (Cambridge 9708)"
+seoTitle: "Cambridge A Level Economics Price System Practice Questions"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["a-levels"]

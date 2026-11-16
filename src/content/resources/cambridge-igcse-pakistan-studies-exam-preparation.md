@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Paper-by-Paper Exam Preparation"
+seoTitle: "Cambridge IGCSE Pakistan Studies Paper-by-Paper Exam Prep"
 resourceType: "exam-preparation"
 subject: "pakistan-studies"
 level: ["igcse"]

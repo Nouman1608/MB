@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Business: Managing Business Activities (WBS12)"
+seoTitle: "Edexcel IAL Business Managing Business Activities Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

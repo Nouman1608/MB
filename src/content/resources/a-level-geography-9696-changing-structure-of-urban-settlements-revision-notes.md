@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 6.3 The changing structure of urban settlements -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Changing Urban Structure Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

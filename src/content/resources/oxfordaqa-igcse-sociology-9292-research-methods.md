@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Sociology (9292): Research Methods"
+seoTitle: "OxfordAQA IGCSE Sociology 9292 Research Methods Study Guide"
 resourceType: "study-guides"
 subject: "sociology"
 level: ["igcse"]

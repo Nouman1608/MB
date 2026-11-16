@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Research Methods -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Research Methods Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

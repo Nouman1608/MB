@@ -1,5 +1,6 @@
 ---
 title: "Edexcel A-Level Chemistry: Atomic Structure and Mass Spectrometry (YCH11)"
+seoTitle: "Edexcel IAL Chemistry Atomic Structure and Mass Spectrometry"
 resourceType: "study-guides"
 subject: "chemistry"
 level: ["a-levels"]

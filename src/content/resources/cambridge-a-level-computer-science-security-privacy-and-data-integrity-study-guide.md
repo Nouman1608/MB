@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Computer Science (9618): Security, privacy and data integrity -- Study Guide"
+seoTitle: "Cambridge A Level CS Security, Privacy & Integrity Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

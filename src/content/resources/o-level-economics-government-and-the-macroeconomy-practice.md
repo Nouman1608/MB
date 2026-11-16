@@ -1,5 +1,6 @@
 ---
 title: "O Level Economics: Government and the macroeconomy — Practice Questions (Cambridge 2281)"
+seoTitle: "Cambridge 2281 Economics Government & Macroeconomy Practice"
 resourceType: "practice-questions"
 subject: "economics"
 level: ["o-levels"]

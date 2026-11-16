@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Poetry and Prose Texts and Imaginative Writing — Practice Questions (4EA1)"
+seoTitle: "Edexcel IGCSE English Language Poetry and Prose Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

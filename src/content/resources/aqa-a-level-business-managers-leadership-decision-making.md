@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Business: Managers, Leadership and Decision Making (7132)"
+seoTitle: "AQA A-Level Business Managers, Leadership & Decisions Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["a-levels"]

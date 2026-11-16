@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Population Density and Distribution -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Population Density Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

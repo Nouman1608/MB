@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Principles and Double Entry Bookkeeping (YAC11)"
+seoTitle: "Edexcel IAL Accounting Double Entry Bookkeeping Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

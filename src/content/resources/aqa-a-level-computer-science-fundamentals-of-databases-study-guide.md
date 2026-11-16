@@ -1,5 +1,6 @@
 ---
 title: "AQA A Level Computer Science (7517): Fundamentals of databases -- Study Guide"
+seoTitle: "AQA A-Level Computer Science Fundamentals of Databases Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

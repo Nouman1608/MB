@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management: Agriculture and the Environment (5014)"
+seoTitle: "O Level Environmental Management Agriculture Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

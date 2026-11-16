@@ -1,5 +1,6 @@
 ---
 title: "IB Middle Years Programme Individuals and Societies: Subject Overview"
+seoTitle: "IB MYP Individuals and Societies Subject Guide"
 resourceType: "subject-guides"
 subject: "myp-individuals-and-societies"
 level: ["ib"]

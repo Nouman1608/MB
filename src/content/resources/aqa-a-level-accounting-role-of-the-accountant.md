@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Accounting: The Role of the Accountant in Business (7127)"
+seoTitle: "AQA A-Level Accounting Role of the Accountant Study Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

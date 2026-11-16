@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Environmental Management (5014): The atmosphere and human activities -- Study Guide"
+seoTitle: "O Level Environmental Management Atmosphere Study Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

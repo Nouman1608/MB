@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Formulae, Equations and the Mole — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Formulae and the Mole Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

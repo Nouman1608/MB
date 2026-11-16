@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Psychology (8182): Language, Thought and Communication -- Practice Questions"
+seoTitle: "AQA GCSE Psychology Language and Thought Practice Questions"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["gcse"]

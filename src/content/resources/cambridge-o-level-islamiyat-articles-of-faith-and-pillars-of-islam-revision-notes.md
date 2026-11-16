@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Articles of Faith and Pillars of Islam — Revision Notes (2058)"
+seoTitle: "O Level Islamiyat Articles of Faith & Pillars of Islam Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]

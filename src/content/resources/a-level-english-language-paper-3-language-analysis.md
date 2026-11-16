@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level English Language: Paper 3 Language Analysis (9093)"
+seoTitle: "Cambridge A Level English Language Paper 3 Analysis Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["a-levels"]

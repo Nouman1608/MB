@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Sources of English Law, Its Enforcement and Administration"
+seoTitle: "Edexcel IAL Law Sources of English Law Study Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Ionic, Covalent and Metallic Bonding — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Chemical Bonding Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

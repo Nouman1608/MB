@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: The Atmosphere and Human Activities — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE 0680 Atmosphere & Human Activities Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

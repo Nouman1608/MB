@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Accounting: Verification of Accounting Records — Practice Questions (9215)"
+seoTitle: "OxfordAQA IGCSE Accounting Verification of Records Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse"]

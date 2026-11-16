@@ -1,5 +1,6 @@
 ---
 title: "A Level Economics: The Price System and the Microeconomy — Revision Notes (Cambridge 9708)"
+seoTitle: "Cambridge A Level Economics Price System Revision Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["a-levels"]

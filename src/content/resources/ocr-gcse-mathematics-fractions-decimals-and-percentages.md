@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Mathematics: Fractions, Decimals and Percentages (J560)"
+seoTitle: "OCR GCSE Maths Fractions, Decimals and Percentages Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["gcse"]

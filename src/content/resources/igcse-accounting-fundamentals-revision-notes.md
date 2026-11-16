@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: The Fundamentals of Accounting — Revision Notes"
+seoTitle: "Cambridge IGCSE Accounting Fundamentals Revision Notes"
 resourceType: "revision-notes"
 subject: "accounting"
 level: ["igcse","o-levels"]

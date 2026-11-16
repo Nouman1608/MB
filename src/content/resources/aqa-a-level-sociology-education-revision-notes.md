@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Sociology: The Role of Education and Differential Achievement — Revision Notes"
+seoTitle: "AQA A-Level Sociology Education & Achievement Revision Notes"
 resourceType: "revision-notes"
 subject: "sociology"
 level: ["a-levels"]

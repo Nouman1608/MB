@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level English Literature (9695): Paper 4 Pre- and Post-1900 Poetry and Prose -- Study Guide"
+seoTitle: "Cambridge 9695 Pre- and Post-1900 Poetry and Prose Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

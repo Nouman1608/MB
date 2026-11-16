@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Law: The Nature of Law and the English Legal System (7162)"
+seoTitle: "AQA A-Level Law Nature of Law and English Legal System Guide"
 resourceType: "study-guides"
 subject: "law"
 level: ["a-levels"]

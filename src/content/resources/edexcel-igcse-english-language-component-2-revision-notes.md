@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Language: Poetry and Prose Texts and Imaginative Writing — Revision Notes"
+seoTitle: "Edexcel IGCSE English Language Poetry and Prose Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

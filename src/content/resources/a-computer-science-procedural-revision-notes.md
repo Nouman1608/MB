@@ -1,5 +1,6 @@
 ---
 title: "A Level Computer Science: Procedural Programming — Revision Notes"
+seoTitle: "OxfordAQA A-Level CS Procedural Programming Revision Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE Chemistry: Atomic Structure and the Periodic Table — Practice Questions"
+seoTitle: "AQA GCSE Chemistry Atomic Structure Practice Questions"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["gcse"]

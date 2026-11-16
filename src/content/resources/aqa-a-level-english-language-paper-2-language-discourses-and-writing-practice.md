@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language 7702: Language Discourses and Writing Skills — Practice Questions"
+seoTitle: "AQA A-Level English Language Discourses and Writing Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "AQA GCSE History: Paper 1 Understanding the Modern World — Period and Depth Study Options"
+seoTitle: "AQA GCSE History Understanding the Modern World Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["gcse"]

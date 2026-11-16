@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Density and Distribution -- Practice Questions"
+seoTitle: "O Level Geography Population Density & Distribution Practice"
 resourceType: "practice-questions"
 subject: "geography"
 level: ["o-levels"]

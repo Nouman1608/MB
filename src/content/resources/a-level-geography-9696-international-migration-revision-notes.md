@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 5.3 International migration -- Revision Notes"
+seoTitle: "Cambridge A Level Geography International Migration Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

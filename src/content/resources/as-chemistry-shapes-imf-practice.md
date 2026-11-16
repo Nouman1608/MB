@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Shapes of Molecules and Intermolecular Forces — Practice Questions"
+seoTitle: "Cambridge AS Chemistry Molecular Shapes & IMF Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["a-levels"]

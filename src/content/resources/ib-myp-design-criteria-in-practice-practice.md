@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Design: The Four Assessment Criteria in Practice -- Practice Questions"
+seoTitle: "IB MYP Design Four Assessment Criteria Practice Questions"
 resourceType: "practice-questions"
 subject: "myp-design"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 5.4 The management of international migration -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Managing International Migration"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

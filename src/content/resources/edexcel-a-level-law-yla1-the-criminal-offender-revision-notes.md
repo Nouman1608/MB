@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Criminal Offender -- Revision Notes"
+seoTitle: "Edexcel IAL Law Criminal Offender Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

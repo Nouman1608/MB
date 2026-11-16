@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Statistics: Summary Representation of Data (4040)"
+seoTitle: "Cambridge O Level Statistics Summary Representation Guide"
 resourceType: "study-guides"
 subject: "statistics"
 level: ["o-levels"]

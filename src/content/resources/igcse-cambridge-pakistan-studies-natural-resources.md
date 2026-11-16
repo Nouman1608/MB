@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Pakistan Studies: Natural Resources – An Issue of Sustainability (0448)"
+seoTitle: "Cambridge IGCSE Pakistan Studies Natural Resources Guide"
 resourceType: "study-guides"
 subject: "pakistan-studies"
 level: ["igcse"]

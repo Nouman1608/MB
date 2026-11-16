@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel IGCSE English Literature: Modern Drama and Literary Heritage Texts — Revision Notes"
+seoTitle: "Edexcel IGCSE English Lit Drama and Literary Heritage Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

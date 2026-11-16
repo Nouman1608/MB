@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Urdu Language (3247 / 3248): Subject Overview"
+seoTitle: "Cambridge O Level Urdu Language 3247 Subject Guide"
 resourceType: "subject-guides"
 subject: "urdu-language"
 level: ["o-levels"]

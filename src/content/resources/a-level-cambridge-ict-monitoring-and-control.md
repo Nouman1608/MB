@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A Level Information Technology (ICT): Monitoring and Control (9626)"
+seoTitle: "Cambridge A Level ICT 9626 Monitoring and Control Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["a-levels"]

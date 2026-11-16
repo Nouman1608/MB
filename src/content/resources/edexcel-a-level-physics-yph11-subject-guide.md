@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Physics (YPH11): Subject Overview"
+seoTitle: "Edexcel International A Level Physics Subject Guide"
 resourceType: "subject-guides"
 subject: "physics"
 level: ["a-levels"]

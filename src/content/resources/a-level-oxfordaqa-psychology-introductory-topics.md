@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Psychology: Introductory Topics (9685)"
+seoTitle: "OxfordAQA A-Level Psychology Introductory Topics Study Guide"
 resourceType: "study-guides"
 subject: "psychology"
 level: ["a-levels"]

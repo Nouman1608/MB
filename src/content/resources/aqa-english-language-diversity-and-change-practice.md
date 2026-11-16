@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Language 7702: Paper 2 – Language Diversity and Change — Practice Questions"
+seoTitle: "AQA A-Level English Language Diversity and Change Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["a-levels"]

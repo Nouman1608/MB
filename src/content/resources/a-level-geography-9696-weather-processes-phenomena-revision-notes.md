@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 2.3 Weather processes and phenomena -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Weather Processes and Phenomena"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

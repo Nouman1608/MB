@@ -1,5 +1,6 @@
 ---
 title: "OCR GCSE Business: Business Activity, Marketing and People (J204)"
+seoTitle: "OCR GCSE Business Activity, Marketing and People Guide"
 resourceType: "study-guides"
 subject: "business"
 level: ["gcse"]

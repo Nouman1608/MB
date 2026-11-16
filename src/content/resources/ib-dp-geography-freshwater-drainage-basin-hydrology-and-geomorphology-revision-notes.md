@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 1.1 Drainage basin hydrology and geomorphology -- Revision Notes"
+seoTitle: "IB DP Geography Drainage Basin Hydrology Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language (0539): Paper 2 Exercise 1 – Short answer questions -- Revision Notes"
+seoTitle: "Cambridge IGCSE Urdu Paper 2 Short Answer Revision Notes"
 resourceType: "revision-notes"
 subject: "urdu-language"
 level: ["igcse"]

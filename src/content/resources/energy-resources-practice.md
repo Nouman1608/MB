@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Energy Resources and Efficiency — Practice Questions"
+seoTitle: "Cambridge O Level Physics Energy and Efficiency Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE English Literature: Paper 3 – Drama (Open Text) — Revision Notes"
+seoTitle: "Cambridge IGCSE English Literature Open Text Drama Notes"
 resourceType: "revision-notes"
 subject: "english-literature"
 level: ["igcse"]

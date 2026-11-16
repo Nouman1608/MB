@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Computer Science: Procedural Programming (9645)"
+seoTitle: "OxfordAQA A-Level CS Procedural Programming Study Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["a-levels"]

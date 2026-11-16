@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O-Level Environmental Management: Energy Resources, Conservation and Fracking (5014, 2027-2029)"
+seoTitle: "Cambridge O Level 5014 Energy Resources and Fracking Guide"
 resourceType: "study-guides"
 subject: "environmental-management"
 level: ["o-levels"]

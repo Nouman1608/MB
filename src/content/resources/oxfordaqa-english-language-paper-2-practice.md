@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Source-Based Reading and Directed Writing — Practice Questions"
+seoTitle: "OxfordAQA IGCSE English Source-Based Reading Practice"
 resourceType: "practice-questions"
 subject: "english"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Sociology: Introducing Sociology — Practice Questions"
+seoTitle: "OxfordAQA IGCSE Sociology Introducing Sociology Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["igcse"]

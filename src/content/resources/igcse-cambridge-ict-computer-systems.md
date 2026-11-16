@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE ICT: Types and Components of Computer Systems (0417)"
+seoTitle: "Cambridge IGCSE ICT Types of Computer Systems Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

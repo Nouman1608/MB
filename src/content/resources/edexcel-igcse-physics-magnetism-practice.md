@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE Physics: Magnetism and Electromagnetism — Practice Questions"
+seoTitle: "Edexcel IGCSE Physics Magnetism & Electromagnetism Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["igcse"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language (9270): Speaking and listening (optional endorsement) -- Study Guide"
+seoTitle: "OxfordAQA IGCSE English 9270 Speaking and Listening Guide"
 resourceType: "study-guides"
 subject: "english"
 level: ["igcse"]

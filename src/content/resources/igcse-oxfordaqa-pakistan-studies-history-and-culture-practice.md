@@ -1,5 +1,6 @@
 ---
 title: "The History and Culture of Pakistan (9236): Practice Questions"
+seoTitle: "OxfordAQA IGCSE Pak Studies History and Culture Practice"
 resourceType: "practice-questions"
 subject: "pakistan-studies"
 level: ["igcse"]

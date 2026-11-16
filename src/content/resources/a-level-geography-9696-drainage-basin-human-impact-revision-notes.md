@@ -1,5 +1,6 @@
 ---
 title: "Cambridge International AS & A Level Geography (9696): 1.4 The human impact -- Revision Notes"
+seoTitle: "Cambridge A Level Geography Drainage Basin Human Impact"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["a-levels"]

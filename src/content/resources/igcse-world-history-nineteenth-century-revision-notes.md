@@ -1,5 +1,6 @@
 ---
 title: "IGCSE History: The Nineteenth Century 1848-1914 — Revision Notes"
+seoTitle: "Cambridge IGCSE History Nineteenth Century 1848-1914 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

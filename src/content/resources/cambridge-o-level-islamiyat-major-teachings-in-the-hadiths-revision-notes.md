@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Islamiyat: Major Teachings in the Hadiths — Revision Notes (2058)"
+seoTitle: "Cambridge O Level Islamiyat Major Teachings in Hadiths Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["o-levels"]

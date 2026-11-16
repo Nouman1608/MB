@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A-Level English Literature: Unit 2 Drama (YET01)"
+seoTitle: "Edexcel IAL English Literature Unit 2 Drama Study Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Economics: The Allocation of Resources — Revision Notes"
+seoTitle: "Cambridge IGCSE Economics Allocation of Resources Notes"
 resourceType: "revision-notes"
 subject: "economics"
 level: ["igcse"]

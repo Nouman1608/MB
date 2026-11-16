@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Accounting: Preparation of Financial Statements — Practice Questions"
+seoTitle: "Cambridge IGCSE Accounting Financial Statements Practice"
 resourceType: "practice-questions"
 subject: "accounting"
 level: ["igcse","o-levels"]

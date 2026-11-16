@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Language: Source-Based Reading and Directed Writing — Revision Notes"
+seoTitle: "OxfordAQA IGCSE English Language Source-Based Reading Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["igcse"]

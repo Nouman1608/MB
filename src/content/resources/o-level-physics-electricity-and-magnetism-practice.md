@@ -1,5 +1,6 @@
 ---
 title: "O Level Physics: Electricity and magnetism — Practice Questions (Cambridge 5054)"
+seoTitle: "Cambridge O Level Physics Electricity and Magnetism Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["o-levels"]

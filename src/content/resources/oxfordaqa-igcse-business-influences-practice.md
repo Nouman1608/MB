@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Business: Influences on Business — Practice Questions (9225)"
+seoTitle: "OxfordAQA IGCSE Business Influences on Business Practice"
 resourceType: "practice-questions"
 subject: "business"
 level: ["igcse"]

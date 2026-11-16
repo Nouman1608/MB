@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Physics: Foundations of Physics — Practice Questions"
+seoTitle: "OCR A Level Physics Foundations of Physics Practice"
 resourceType: "practice-questions"
 subject: "physics"
 level: ["a-levels"]

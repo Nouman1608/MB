@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science (9210): Relational databases and SQL -- Study Guide"
+seoTitle: "OxfordAQA IGCSE CS 9210 Relational Databases and SQL Guide"
 resourceType: "study-guides"
 subject: "computer-science"
 level: ["igcse"]

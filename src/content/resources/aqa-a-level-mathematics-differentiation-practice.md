@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Mathematics: Differentiation — Practice Questions"
+seoTitle: "AQA A-Level Maths Differentiation Practice Questions"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

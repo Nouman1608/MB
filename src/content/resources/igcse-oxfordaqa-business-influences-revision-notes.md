@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Business: Influences on Business — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Business Influences on Business Notes"
 resourceType: "revision-notes"
 subject: "business"
 level: ["igcse"]

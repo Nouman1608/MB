@@ -1,5 +1,6 @@
 ---
 title: "OCR A Level Physics A: Modelling, Exploring and Unified -- What Each Paper Wants"
+seoTitle: "OCR A Level Physics A Exam Prep: What Each Paper Wants"
 resourceType: "exam-preparation"
 subject: "physics"
 level: ["a-levels"]

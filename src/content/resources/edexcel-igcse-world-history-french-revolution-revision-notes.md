@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The French Revolution, c1780–99 — Revision Notes"
+seoTitle: "Edexcel IGCSE History French Revolution c1780–99 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

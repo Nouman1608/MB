@@ -1,5 +1,6 @@
 ---
 title: "Pearson Edexcel International A-Level Biology (YBI11): Subject Overview"
+seoTitle: "Edexcel International A Level Biology Subject Guide"
 resourceType: "subject-guides"
 subject: "biology"
 level: ["a-levels"]

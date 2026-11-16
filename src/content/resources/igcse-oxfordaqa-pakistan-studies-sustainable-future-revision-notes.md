@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Pakistan Studies: Creating a Sustainable Future — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Pakistan Studies Sustainable Future Notes"
 resourceType: "revision-notes"
 subject: "pakistan-studies"
 level: ["igcse"]

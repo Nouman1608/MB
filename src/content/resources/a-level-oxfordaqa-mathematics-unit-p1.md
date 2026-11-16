@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Mathematics: Unit P1 Pure Maths (9660)"
+seoTitle: "OxfordAQA A-Level Maths Unit P1 Pure Maths Study Guide"
 resourceType: "study-guides"
 subject: "mathematics"
 level: ["a-levels"]

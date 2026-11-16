@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography Core: Global Climate -- Vulnerability and Resilience"
+seoTitle: "IB Geography Global Climate Vulnerability & Resilience Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["ib"]

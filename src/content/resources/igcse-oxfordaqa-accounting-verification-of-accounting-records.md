@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Accounting: Verification of Accounting Records (9215)"
+seoTitle: "OxfordAQA IGCSE Accounting Verification of Records Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["igcse"]

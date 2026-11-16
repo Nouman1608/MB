@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International A-Level Psychology: Why You Can Resit Every Paper, and How to Use That (9685)"
+seoTitle: "OxfordAQA A-Level Psychology 9685 Resits Exam Prep"
 resourceType: "exam-preparation"
 subject: "psychology"
 level: ["a-levels"]

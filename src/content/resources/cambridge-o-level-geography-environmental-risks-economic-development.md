@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Environmental Risks of Economic Development"
+seoTitle: "O Level Geography 2217 Environmental Risks Study Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

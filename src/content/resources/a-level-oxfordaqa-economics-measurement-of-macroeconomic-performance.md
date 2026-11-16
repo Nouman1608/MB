@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA A-Level Economics: The Measurement of Macroeconomic Performance (9640)"
+seoTitle: "OxfordAQA A-Level Economics Macroeconomic Performance Guide"
 resourceType: "study-guides"
 subject: "economics"
 level: ["a-levels"]

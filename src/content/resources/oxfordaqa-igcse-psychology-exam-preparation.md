@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE Psychology: Two Papers, No Individual Resits"
+seoTitle: "OxfordAQA IGCSE Psychology Exam Prep: Two Papers, No Resits"
 resourceType: "exam-preparation"
 subject: "psychology"
 level: ["igcse"]

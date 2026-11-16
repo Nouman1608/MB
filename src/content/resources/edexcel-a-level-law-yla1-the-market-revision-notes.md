@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Law (YLA1): The Market -- Revision Notes"
+seoTitle: "Edexcel IAL Law YLA1 The Market Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]

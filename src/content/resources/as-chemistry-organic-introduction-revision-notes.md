@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Introduction to Organic Chemistry — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Intro to Organic Chemistry Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

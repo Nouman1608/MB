@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Urdu as a Second Language: Component 5 Speaking (0539)"
+seoTitle: "Cambridge IGCSE Urdu Component 5 Speaking Study Guide"
 resourceType: "study-guides"
 subject: "urdu-language"
 level: ["igcse"]

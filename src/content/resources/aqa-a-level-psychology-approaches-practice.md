@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Psychology: Approaches in Psychology — Practice Questions"
+seoTitle: "AQA A-Level Psychology Approaches in Psychology Practice"
 resourceType: "practice-questions"
 subject: "psychology"
 level: ["a-levels"]

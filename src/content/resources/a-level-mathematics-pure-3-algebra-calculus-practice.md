@@ -1,5 +1,6 @@
 ---
 title: "A Level Mathematics: Pure Mathematics 3 Algebra and Calculus — Practice Questions (Cambridge 9709)"
+seoTitle: "Cambridge A Level Maths Pure 3 Algebra and Calculus Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Islamiyat: Major Themes of the Qur'an — Revision Notes (0493)"
+seoTitle: "Cambridge IGCSE Islamiyat Major Themes of the Qur'an Notes"
 resourceType: "revision-notes"
 subject: "islamiyat"
 level: ["igcse"]

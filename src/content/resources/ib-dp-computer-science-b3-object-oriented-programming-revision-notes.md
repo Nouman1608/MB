@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.3: Object Oriented Programming -- Revision Notes"
+seoTitle: "IB DP Computer Science Object Oriented Programming Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["ib"]

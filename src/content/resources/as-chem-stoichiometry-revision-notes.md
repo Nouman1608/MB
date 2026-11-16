@@ -1,5 +1,6 @@
 ---
 title: "AS Chemistry: Atoms, Molecules and Stoichiometry — Revision Notes"
+seoTitle: "Cambridge AS Chemistry Stoichiometry Revision Notes"
 resourceType: "revision-notes"
 subject: "chemistry"
 level: ["a-levels"]

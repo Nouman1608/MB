@@ -1,5 +1,6 @@
 ---
 title: "IB DP Computer Science B.1: Computational Thinking -- Practice Questions"
+seoTitle: "IB DP Computer Science Computational Thinking Practice"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["ib"]

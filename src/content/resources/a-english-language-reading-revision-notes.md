@@ -1,5 +1,6 @@
 ---
 title: "A Level English Language: Reading and Analysis — Revision Notes"
+seoTitle: "Cambridge A Level English Language Reading Revision Notes"
 resourceType: "revision-notes"
 subject: "english"
 level: ["a-levels"]

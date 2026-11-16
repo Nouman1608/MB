@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Psychology: Conformity and Obedience — Revision Notes"
+seoTitle: "OxfordAQA IGCSE Psychology Conformity and Obedience Notes"
 resourceType: "revision-notes"
 subject: "psychology"
 level: ["igcse"]

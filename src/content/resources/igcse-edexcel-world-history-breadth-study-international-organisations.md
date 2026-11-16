@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: The League and the UN, 1919–c2011 (4HI1)"
+seoTitle: "Edexcel IGCSE History League and the UN 1919–c2011 Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

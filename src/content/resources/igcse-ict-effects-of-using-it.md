@@ -1,5 +1,6 @@
 ---
 title: "The Effects of Using IT: Smart Devices, Autonomous Vehicles and Health Risks"
+seoTitle: "Cambridge IGCSE ICT Effects of Using IT Study Guide"
 resourceType: "study-guides"
 subject: "ict"
 level: ["igcse"]

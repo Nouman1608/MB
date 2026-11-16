@@ -1,5 +1,6 @@
 ---
 title: "Structure 1 -- Models of the Particulate Nature of Matter: Practice Questions"
+seoTitle: "IB Chem Structure 1 Particulate Nature of Matter Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["ib"]

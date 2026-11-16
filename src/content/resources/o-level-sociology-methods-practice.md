@@ -1,5 +1,6 @@
 ---
 title: "O Level Sociology: Research Methods, Identity and Inequality — Practice Questions"
+seoTitle: "Cambridge O Level Sociology Research Methods Practice"
 resourceType: "practice-questions"
 subject: "sociology"
 level: ["o-levels"]

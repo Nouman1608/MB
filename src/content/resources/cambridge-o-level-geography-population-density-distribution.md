@@ -1,5 +1,6 @@
 ---
 title: "Cambridge O Level Geography (2217): Population Density and Distribution"
+seoTitle: "O Level Geography Population Density & Distribution Guide"
 resourceType: "study-guides"
 subject: "geography"
 level: ["o-levels"]

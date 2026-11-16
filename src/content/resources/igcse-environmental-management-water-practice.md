@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Environmental Management: Water — Practice Questions (0680)"
+seoTitle: "Cambridge IGCSE Environmental Management Water Practice"
 resourceType: "practice-questions"
 subject: "environmental-management"
 level: ["igcse"]

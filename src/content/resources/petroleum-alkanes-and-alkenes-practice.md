@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Chemistry: Petroleum, Alkanes and Alkenes — Practice Questions"
+seoTitle: "Cambridge IGCSE Chemistry Alkanes and Alkenes Practice"
 resourceType: "practice-questions"
 subject: "chemistry"
 level: ["igcse","o-levels"]

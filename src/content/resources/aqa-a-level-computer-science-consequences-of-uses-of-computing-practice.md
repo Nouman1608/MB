@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level Computer Science: Consequences of Uses of Computing — Practice Questions"
+seoTitle: "AQA A-Level CS Consequences of Computing Practice Questions"
 resourceType: "practice-questions"
 subject: "computer-science"
 level: ["a-levels"]

@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Computer Science: Relational Databases and SQL — Revision Notes"
+seoTitle: "OxfordAQA IGCSE CS Relational Databases and SQL Notes"
 resourceType: "revision-notes"
 subject: "computer-science"
 level: ["igcse"]

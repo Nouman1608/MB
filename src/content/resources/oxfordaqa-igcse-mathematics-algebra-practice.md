@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE Mathematics: Algebra – Notation and Manipulation — Practice Questions (9260)"
+seoTitle: "OxfordAQA IGCSE Maths 9260 Algebraic Manipulation Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

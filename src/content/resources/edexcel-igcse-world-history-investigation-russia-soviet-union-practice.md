@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Russia and the Soviet Union, 1905–24 — Practice Questions"
+seoTitle: "Edexcel IGCSE History Russia & Soviet Union 1905–24 Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

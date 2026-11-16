@@ -1,5 +1,6 @@
 ---
 title: "O Level Business: Marketing — Practice Questions (Cambridge 7115)"
+seoTitle: "Cambridge O Level Business Marketing Practice Questions"
 resourceType: "practice-questions"
 subject: "business"
 level: ["o-levels"]

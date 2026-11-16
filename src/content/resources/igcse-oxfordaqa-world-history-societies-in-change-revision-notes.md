@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA International GCSE History (9245): Paper 2 Section A, Societies in Change — Revision Notes"
+seoTitle: "OxfordAQA IGCSE History Societies in Change Revision Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

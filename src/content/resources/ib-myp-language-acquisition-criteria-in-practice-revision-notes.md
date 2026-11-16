@@ -1,5 +1,6 @@
 ---
 title: "IB MYP Language Acquisition: The Four Assessment Criteria in Practice -- Revision Notes"
+seoTitle: "IB MYP Language Acquisition Four Criteria Revision Notes"
 resourceType: "revision-notes"
 subject: "myp-language-acquisition"
 level: ["ib"]

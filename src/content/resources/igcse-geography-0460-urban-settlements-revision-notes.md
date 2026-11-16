@@ -1,5 +1,6 @@
 ---
 title: "Cambridge IGCSE Geography (0460): Urban Settlements -- Revision Notes"
+seoTitle: "Cambridge IGCSE Geography Urban Settlements Revision Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["igcse"]

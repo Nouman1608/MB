@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE English Literature: Poetry and Unseen Texts (9275)"
+seoTitle: "OxfordAQA IGCSE English Literature Poetry and Unseen Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["igcse"]

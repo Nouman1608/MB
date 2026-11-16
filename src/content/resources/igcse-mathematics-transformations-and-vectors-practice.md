@@ -1,5 +1,6 @@
 ---
 title: "IGCSE Mathematics: Transformations and Vectors — Practice Questions"
+seoTitle: "Cambridge IGCSE Maths Transformations and Vectors Practice"
 resourceType: "practice-questions"
 subject: "mathematics"
 level: ["igcse"]

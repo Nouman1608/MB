@@ -1,5 +1,6 @@
 ---
 title: "AQA A-Level English Literature B: Theory and Independence NEA (7717)"
+seoTitle: "AQA A-Level English Lit B Theory & Independence NEA Guide"
 resourceType: "study-guides"
 subject: "english-literature"
 level: ["a-levels"]

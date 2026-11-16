@@ -1,5 +1,6 @@
 ---
 title: "Edexcel International A Level Accounting: Control Accounts and Correction of Errors (YAC11)"
+seoTitle: "Edexcel IAL Accounting Control Accounts and Errors Guide"
 resourceType: "study-guides"
 subject: "accounting"
 level: ["a-levels"]

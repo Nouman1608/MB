@@ -1,5 +1,6 @@
 ---
 title: "OxfordAQA IGCSE World History: Studies in Change — Practice Questions"
+seoTitle: "OxfordAQA IGCSE World History Studies in Change Practice"
 resourceType: "practice-questions"
 subject: "world-history"
 level: ["igcse"]

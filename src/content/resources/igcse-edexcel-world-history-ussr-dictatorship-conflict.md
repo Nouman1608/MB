@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Dictatorship and Conflict in the USSR, 1924–53 (4HI1)"
+seoTitle: "Edexcel IGCSE History USSR 1924–53 Study Guide"
 resourceType: "study-guides"
 subject: "world-history"
 level: ["igcse"]

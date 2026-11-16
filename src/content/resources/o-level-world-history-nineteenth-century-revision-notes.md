@@ -1,5 +1,6 @@
 ---
 title: "O Level History: The Nineteenth Century 1848-1914 — Revision Notes"
+seoTitle: "Cambridge O Level History 19th Century 1848-1914 Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["o-levels"]

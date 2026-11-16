@@ -1,5 +1,6 @@
 ---
 title: "IB DP Geography: 1.3 Water scarcity and water quality -- Revision Notes"
+seoTitle: "IB DP Geography Water Scarcity and Water Quality Notes"
 resourceType: "revision-notes"
 subject: "geography"
 level: ["ib"]

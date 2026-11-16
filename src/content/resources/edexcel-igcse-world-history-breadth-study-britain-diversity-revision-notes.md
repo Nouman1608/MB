@@ -1,5 +1,6 @@
 ---
 title: "Edexcel IGCSE History: Diversity, Rights and Equality in Britain, 1914–2010 — Revision Notes"
+seoTitle: "Edexcel IGCSE History Diversity and Rights in Britain Notes"
 resourceType: "revision-notes"
 subject: "world-history"
 level: ["igcse"]

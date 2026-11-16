@@ -1,5 +1,6 @@
 ---
 title: "Cambridge A-Level Law: Law of Contract — Revision Notes (9084)"
+seoTitle: "Cambridge A Level Law of Contract Revision Notes"
 resourceType: "revision-notes"
 subject: "law"
 level: ["a-levels"]
