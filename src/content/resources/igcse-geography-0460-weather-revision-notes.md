@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -41,6 +42,28 @@ explanation, read the [Weather study guide](/resources/igcse-geography-weather/)
 
 Cloud type and amount are also observed. Simple digital instruments may be used.
 
+## How each instrument works
+
+- **Rain gauge:** a funnel collects rain into a measuring cylinder or container below. The narrow
+  funnel cuts evaporation. Read it at the same time each day, at eye level, from the bottom of the
+  curved water surface, and empty it after reading. Units: millimetres.
+- **Maximum-minimum (Six's) thermometer:** a U-shaped tube. As temperature changes, the liquid pushes
+  small metal **indices** (markers) that stay at the highest and lowest points reached. Read the
+  bottom of each index, then reset them with a magnet (or a button) so the next day starts fresh.
+- **Wet-and-dry bulb thermometer:** two thermometers side by side; one bulb is wrapped in damp
+  muslin. Evaporation from the muslin cools the wet bulb. In dry air more water evaporates, so the
+  **difference** between the two readings is **larger**; in saturated air there is no difference.
+  Relative humidity is then read from a table.
+- **Sunshine recorder:** a glass sphere focuses the sun's rays onto a card, which is burnt when the
+  sun is shining. The length of the burnt trace gives hours of sunshine.
+- **Barometer:** an aneroid barometer contains a sealed metal box with most air removed; it squeezes
+  in as pressure rises and expands as it falls, moving a pointer. A **barograph** records pressure
+  continuously on a rotating drum.
+- **Anemometer:** cups on arms catch the wind and spin; the faster they turn, the higher the wind
+  speed, shown on a dial (kilometres per hour, metres per second or knots).
+- **Wind vane:** an arrow on a pivot points **into** the wind, so it shows where the wind is coming
+  from, against fixed compass points.
+
 ## The Stevenson screen
 
 A white, louvred wooden box raised on legs in an open site that houses the thermometers.
@@ -49,9 +72,30 @@ A white, louvred wooden box raised on legs in an open site that houses the therm
 - **Louvred sides** -- let air flow through but shade the instruments from direct sun and rain.
 - **Raised and in an open site** -- readings reflect the air temperature, not the ground or nearby
   buildings or trees.
+- **Wooden** -- wood is a poor conductor, so the box itself does not heat the instruments.
+- **Door often faces away from the sun** so that sunlight does not fall on the thermometers when
+  readings are taken.
+
+It houses the maximum-minimum thermometer and the wet-and-dry bulb thermometer. The rain gauge,
+anemometer, wind vane and sunshine recorder are kept outside it, because they need direct exposure
+to rain, wind or sun.
 
 **Siting a rain gauge:** open space, rim above the ground, away from trees and buildings that would
-shelter it.
+shelter it. The rim sits a little above the ground so rain splashing off the surface does not enter,
+and the gauge is often sunk partly into the ground so it is not blown over. An **anemometer and
+wind vane** are mounted high on a mast, clear of buildings that would block or channel the wind.
+
+## Clouds
+
+| Cloud | Description | Weather |
+|---|---|---|
+| **Cirrus** | High, thin, wispy, made of ice crystals | Usually fair; can show an approaching front |
+| **Cumulus** | Separate, white, heaped clouds with flat bases | Fair weather, sometimes showers |
+| **Stratus** | Low, grey, flat sheet | Dull, sometimes drizzle |
+| **Cumulonimbus** | Very tall, towering storm cloud, often with an anvil top | Heavy rain, hail, thunder and lightning |
+
+**Cloud cover** is estimated in **oktas** -- eighths of the sky covered: 0 oktas is a clear sky and
+8 oktas is completely overcast.
 
 ## Calculations
 
@@ -65,6 +109,10 @@ Worked example: maximum temperatures 28, 30, 27, 31, 29 degrees Celsius. Mean = 
 Minimums 18, 19, 17, 20, 18 give a mean of 92 / 5 = **18.4**. The range between the means is
 29 - 18.4 = **10.6**. Daily rainfall of 0, 5, 12, 3, 0 mm totals **20 mm**.
 
+**Further worked example (humidity reasoning):** dry bulb 25 degrees Celsius, wet bulb 20 degrees
+Celsius, so the difference is 5 degrees. On another day the readings are 25 and 24, a difference of
+1 degree. The second day is **more humid**, because less evaporation took place from the wet bulb.
+
 ## Rainfall and pressure
 
 - **Convectional:** heated ground, rising air.
@@ -73,11 +121,24 @@ Minimums 18, 19, 17, 20, 18 give a mean of 92 / 5 = **18.4**. The range between 
 - **Low pressure:** air rises, cools and condenses; cloud, rain, often wind; unsettled.
 - **High pressure:** air sinks and warms; clear skies; dry, settled, light winds.
 
+**The rainfall chain, step by step:** air rises → it expands and cools → it cools to its **dew
+point** → water vapour condenses into droplets around tiny particles, forming cloud → droplets join
+until they are heavy enough to fall as rain. In every rainfall type, the only difference is **what
+makes the air rise**.
+
+**High pressure in winter and summer:** clear skies let heat escape at night, so winter high
+pressure can bring frost and fog, while summer high pressure brings hot, sunny days.
+
 ## Reading climate graphs
 
 A climate graph pairs a temperature line with a rainfall bar chart. Describe both: highest and lowest
 temperature and when, the range, the wettest and driest months and any seasonal pattern. Quote
 values read from the graph.
+
+Other weather diagrams you may meet: **wind roses** (bars showing how often the wind blew from each
+direction), **line graphs** of temperature and pressure over a week, and **bar charts** of daily
+rainfall. When reading any of them, give the highest and lowest values with units and dates, then
+describe the trend.
 
 ## Exam traps
 
@@ -86,6 +147,8 @@ values read from the graph.
 - Calculating a range from the wrong values, or forgetting units.
 - Reading only the temperature or only the rainfall on a climate graph.
 - Describing the Stevenson screen's features without saying why.
+- Saying a large wet-and-dry bulb difference means high humidity -- it means the air is dry.
+- Putting the rain gauge or anemometer inside the Stevenson screen.
 
 ## Self-test
 
@@ -94,10 +157,22 @@ values read from the graph.
 3. A wind blows from the west. What does the wind vane show?
 4. Calculate the range if the maximum is 31 and the minimum is 20.
 5. Describe the weather of an area of high pressure.
+6. How is a maximum-minimum thermometer reset?
+7. Why is the rim of a rain gauge kept above ground level?
+8. What does 8 oktas mean?
+9. Which cloud type brings thunderstorms?
+10. Dry bulb 22, wet bulb 16 degrees Celsius. Is the air humid or dry? Explain.
+11. Why should an anemometer be mounted high, away from buildings?
+12. Outline how rising air produces rain.
 
 **Answers:** 1. A wet-and-dry bulb thermometer; humidity comes from the difference between the two
 readings. 2. White reflects sunlight; louvres let air flow but block sun and rain. 3. West. 4. 11
 degrees Celsius. 5. Air sinks and warms, giving clear skies, dry settled weather and light winds.
+6. The indices are pulled back down to the liquid with a magnet or reset button. 7. To stop rain
+splashing in from the ground. 8. The sky is completely covered by cloud. 9. Cumulonimbus. 10.
+Fairly dry: the 6-degree difference shows a lot of evaporation from the wet bulb. 11. So buildings
+and trees do not block or channel the wind and give false readings. 12. Rising air expands and
+cools to its dew point, water vapour condenses into cloud droplets, and these grow until they fall.
 
 ## Related resources
 
