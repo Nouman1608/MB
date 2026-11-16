@@ -415,9 +415,8 @@ F('06-piliavin-cost-reward', 'Piliavin: weighing the costs of helping', 'Field e
     let s = `<line x1="215" y1="${by - tilt}" x2="685" y2="${by + tilt}" stroke="${C.ink}" stroke-width="7" stroke-linecap="round"/><path d="M450,${by} L420,${by + 92} L480,${by + 92} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/><circle cx="450" cy="${by}" r="10" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
     const pan = (x, yy, f) => `<line x1="${x}" y1="${yy}" x2="${x - 60}" y2="${yy + 50}" stroke="${C.ink}" stroke-width="2.5"/><line x1="${x}" y1="${yy}" x2="${x + 60}" y2="${yy + 50}" stroke="${C.ink}" stroke-width="2.5"/><path d="M${x - 90},${yy + 50} L${x + 90},${yy + 50} Q${x + 72},${yy + 80} ${x},${yy + 80} Q${x - 72},${yy + 80} ${x - 90},${yy + 50} Z" fill="${f}" stroke="${C.ink}" stroke-width="3"/>`;
     s += pan(215, by - tilt, C.teal) + pan(685, by + tilt, C.cream);
-    s += T(215, by - tilt + 72, 'cost of not helping', { size: 15, weight: 700, anchor: 'middle' }) + T(685, by + tilt + 72, 'cost of helping', { size: 15, weight: 700, anchor: 'middle' });
-    const a = card(30, by + 110, 380, { body: 'guilt, blame', size: 17, align: 'middle', bfill: C.ink, pad: 14 });
-    const b = card(490, by + 110, 380, { body: 'effort, danger, embarrassment, disgust', size: 17, align: 'middle', bfill: C.ink, pad: 14 });
+    const a = card(30, by + 110, 380, { title: 'Cost of not helping', body: 'guilt, blame', size: 17, tsize: 18, align: 'middle', bfill: C.ink, pad: 14, fill: C.tealLight, edge: C.tealDark });
+    const b = card(490, by + 110, 380, { title: 'Cost of helping', body: 'effort, danger, embarrassment, disgust', size: 17, tsize: 18, align: 'middle', bfill: C.ink, pad: 14, fill: C.cream, edge: C.olive });
     return { s: s + a.s + b.s, h: 110 + 40 + a.h };
   },
   (y) => P('Helping a drunk person seems **more costly**, so people helped less. More bystanders did **not** lead to less helping here.', { anchor: 'middle', size: 17, fill: C.ink })(y),

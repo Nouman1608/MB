@@ -358,8 +358,8 @@ const codePanel = (x, y, w, lines, o = {}) => {
     const px = xs[pos] - 3;
     b += `<line x1="${px}" y1="${sy - 8}" x2="${px}" y2="${sy + 52}" stroke="${C.rust}" stroke-width="4"/>` + `<path d="M${px - 8},${sy + 62} L${px + 8},${sy + 62} L${px},${sy + 52} Z" fill="${C.rust}"/>`;
     b += T(px, sy + 82, 'read position', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 });
-    b += para(500, y + 92, d, 200, { size: 16, fill: C.muted }).s;
-    b += `<rect x="712" y="${y + 70}" width="142" height="44" rx="10" fill="#ffffff" stroke="${C.olive}" stroke-width="2.5"/>` + code(783, y + 98, res, { size: 16, weight: 700, anchor: 'middle' });
+    b += para(470, y + 92, d, 205, { size: 16, fill: C.muted }).s;
+    b += `<rect x="690" y="${y + 70}" width="168" height="44" rx="10" fill="#ffffff" stroke="${C.olive}" stroke-width="2.5"/>` + code(774, y + 98, res, { size: 16, weight: 700, anchor: 'middle' });
     y += h + 12;
   });
   b += T(30, y + 22, 'Output:', { size: 17, weight: 700 }) + code(110, y + 22, '[]', { size: 18, weight: 700 }) + T(150, y + 22, 'then', { size: 17, fill: C.muted }) + code(196, y + 22, '[hello]', { size: 18, weight: 700 });

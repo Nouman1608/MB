@@ -113,7 +113,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
 
 // 05 4-3-2 drill and fluency
 {
-  const rounds = [[4, 'same content', C.tealLight], [3, 'smoother', C.teal], [2, 'smoothest', C.mustard]];
+  const rounds = [[4, 'round 1', C.tealLight], [3, 'round 2: same ideas', C.teal], [2, 'round 3: same', C.mustard]];
   let b = panel(30, 110, 840, 250) + t(55, 146, 'The 4-3-2 drill: one stimulus, 9 minutes in all', { size: 19, weight: 700 });
   let x = 60;
   rounds.forEach(([m, d, f], i) => {

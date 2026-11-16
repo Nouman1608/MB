@@ -1,0 +1,47 @@
+[
+ {
+  "file": "igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--01-hazard-cause-impact.webp",
+  "width": 900,
+  "height": 432,
+  "after": "## How to approach it",
+  "alt": "A three-part chain: physical causes (tectonic setting, monsoon rainfall, glacial melt) lead to a named hazard such as an earthquake, flood or glacial process, which leads to human impacts (settlement damage, displacement, economic loss).",
+  "caption": "Link a named hazard’s causes to its human impacts.",
+  "bytes": 84808
+ },
+ {
+  "file": "igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--02-monsoon-western-disturbances.webp",
+  "width": 900,
+  "height": 794,
+  "after": "## How to approach it",
+  "alt": "A schematic with two arrows reaching Pakistan: the summer monsoon from the south-west and winter western disturbances from the Mediterranean and Caspian regions. A table compares them: the monsoon brings the bulk of summer rainfall; western disturbances bring winter rain and snow to northern and western Pakistan.",
+  "caption": "Summer monsoon and winter western disturbances are separate systems.",
+  "bytes": 104296
+ },
+ {
+  "file": "igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--03-resource-answer-chain.webp",
+  "width": 900,
+  "height": 396,
+  "after": "## How to approach it",
+  "alt": "Three linked steps: a named resource such as natural gas or hydel power, its distribution in Pakistan, and its importance for economic development. A short line shows that stopping at distribution earns lower marks; going on to importance scores higher.",
+  "caption": "Say where a resource is, then why that matters for development.",
+  "bytes": 63630
+ },
+ {
+  "file": "igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--04-energy-comparison.webp",
+  "width": 900,
+  "height": 468,
+  "after": "## Worked example: renewable vs non-renewable energy",
+  "alt": "A two-row table. Natural gas: established infrastructure and reliable supply, but finite reserves, import dependency and environmental impact. Hydel power: abundant potential from rivers and glacial meltwater and low running costs, but high building costs, seasonal flow and disruption from dams.",
+  "caption": "Every energy source has a real advantage and a real disadvantage.",
+  "bytes": 109338
+ },
+ {
+  "file": "igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--05-flood-plain.webp",
+  "width": 900,
+  "height": 537,
+  "after": "## Key terms to define precisely",
+  "alt": "A cross-section of a river channel with low, flat land on each side. A dashed line shows the water level in a flood covering this land, and a layer of fertile deposited soil lies on the flood plain.",
+  "caption": "A flood plain is the low land beside a river that floods and gains fertile soil.",
+  "bytes": 66782
+ }
+]

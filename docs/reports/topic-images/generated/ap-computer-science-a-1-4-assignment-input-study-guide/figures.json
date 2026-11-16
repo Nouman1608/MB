@@ -51,7 +51,7 @@
   "after": "### The `nextLine` pitfall",
   "alt": "The input 5, end-of-line, hello, end-of-line, with a read position marker. nextInt() reads 5 and stops before the end-of-line. The first nextLine() reads the empty rest of that line, so rest is the empty string. The second nextLine() reads hello. The program prints [] then [hello].",
   "caption": "nextInt() leaves the end-of-line behind, so the next nextLine() returns an empty string.",
-  "bytes": 74330
+  "bytes": 74430
  },
  {
   "file": "ap-computer-science-a-1-4-assignment-input-study-guide--07-tracing-mixed-types.webp",
