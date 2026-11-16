@@ -26,8 +26,8 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   rows.forEach(([L, n, d], i) => {
     const y = 110 + i * 120;
     b += panel(30, y, 840, 106) + badge(88, y + 53, 32, L, i % 2 ? C.cream : C.mustard);
-    b += t(145, y + 44, n, { size: 23, weight: 700 }) + t(145, y + 70, 'top-band evidence:', { size: 16, weight: 600, fill: C.tealDark });
-    b += t(300, y + 70, d, { size: 16, fill: C.muted }).replace('x="300"', 'x="300"');
+    b += t(145, y + 38, n, { size: 23, weight: 700 }) + t(145, y + 64, 'top-band evidence:', { size: 16, weight: 600, fill: C.tealDark });
+    b += t(145, y + 88, d, { size: 17, fill: C.muted });
   });
   b += panel(30, 600, 840, 70, C.cream, C.olive) + t(450, 642, 'All four are judged against your own proficiency level.', { size: 19, weight: 700, anchor: 'middle' });
   add('01-four-criteria',
@@ -87,7 +87,7 @@ const lowTop = (x, y, w, h, kind, title, lines, lh = 22) => {
   b += `<rect x="90" y="480" width="280" height="12" rx="6" fill="${C.panelEdge}"/><rect x="90" y="510" width="200" height="12" rx="6" fill="${C.panelEdge}"/>`;
   b += arrow(440, 196, 470, 196, { w: 2.5, color: C.rust, marker: 'ahR' }) + arrow(440, 390, 470, 390, { w: 2.5 }) + arrow(440, 270, 470, 270, { w: 2.5 });
   const notes = [[150, 'Colour and icon', 'a red icon signals urgency or warning', '#fbeee6', C.rust], [236, 'Written text', 'comprehended correctly', C.tealLight, C.tealDark], [340, 'Icons and colour coding', 'what each one communicates in its own right', C.cream, C.olive]];
-  notes.forEach(([y, h, d, f, e]) => { b += box(475, y, 395, 92, f, e, 2.2, 12) + t(495, y + 36, h, { size: 18, weight: 700 }) + tl(495, y + 62, wrap(d, 40), { size: 15 }, 20); });
+  notes.forEach(([y, h, d, f, e]) => { b += box(475, y, 395, 92, f, e, 2.2, 12) + t(495, y + 36, h, { size: 18, weight: 700 }) + tl(495, y + 62, wrap(d, 46), { size: 15 }, 20); });
   b += lowTop(475, 452, 395, 128, 'low', 'Not top band', ['reads the words but treats the', 'visuals as irrelevant decoration']);
   add('04-criterion-b-reading-visuals',
     svg(900, 605, 'Criterion B: layout and visuals carry meaning', b),

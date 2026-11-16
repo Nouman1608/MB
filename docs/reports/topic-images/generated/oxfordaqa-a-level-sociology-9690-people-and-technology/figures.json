@@ -11,11 +11,11 @@
  {
   "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--02-determinism-construction.webp",
   "width": 900,
-  "height": 611,
+  "height": 617,
   "after": "## 3.2.3.1 Machines, mobilities and consumption",
   "alt": "Technological determinism, from Marx and McLuhan, says technology drives social change; social constructionism, from Pinch and Bijker, says social groups shape technology. Latour’s actor-network theory treats humans and machines as actants in one network.",
   "caption": "Determinists start from the machine; constructionists start from the people.",
-  "bytes": 128102
+  "bytes": 130398
  },
  {
   "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--03-false-content.webp",
@@ -42,7 +42,7 @@
   "after": "## 3.2.3.4 Digital technologies",
   "alt": "Left: the panopticon, one watcher at the centre observing many people around, from Foucault and Bentham. Right: the synopticon, many people all watching one figure, from Mathiesen. CCTV, facial recognition and data tracking extend both.",
   "caption": "Surveillance can run from the few to the many, or the many to the few.",
-  "bytes": 87666
+  "bytes": 86746
  },
  {
   "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--06-cybercrime.webp",
@@ -60,6 +60,6 @@
   "after": "## 3.2.3.5 Artificial intelligence and cyborgs",
   "alt": "Bars compare facial analysis error rates in the Gender Shades study: as high as 34.7% for darker-skinned women against under 1% for lighter-skinned men. Noble, O’Neil and Eubanks show other ways algorithms reproduce inequality.",
   "caption": "Technology that appears neutral can build in inequality.",
-  "bytes": 93460
+  "bytes": 93232
  }
 ]

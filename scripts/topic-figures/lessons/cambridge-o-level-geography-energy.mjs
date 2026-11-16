@@ -189,9 +189,9 @@ const MAG = '#d9772f';
   s += tag(700, 318, 'aluminium smelter', { size: 14.5, fill: C.ink }) + tag(700, 300, 'Reyðarfjörður', { size: 16 });
   s += t(450, 548, 'Schematic, not to scale: west on the left, east on the right', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
   const c = [['HEP', 'supplies the larger share of electricity', C.teal], ['Geothermal', 'most of the rest; heats most homes', MAG], ['Drawbacks', 'flooded wilderness opposed; plants release gases such as hydrogen sulphide', C.rust], ['Still imports oil', 'for cars, aircraft and the fishing fleet', C.rockDark]];
-  c.forEach(([a, b, col], i) => { const x = 30 + i * 213; s += panel(x, 570, 201, 150) + `<rect x="${x}" y="570" width="201" height="10" rx="5" fill="${col}"/>` + t(x + 16, 608, a, { size: 18, weight: 700 }) + para(x + 16, 634, b, 172, { size: 15.5, fill: C.muted, lh: 20 }).svg; });
+  c.forEach(([a, b, col], i) => { const x = 30 + i * 213; s += panel(x, 570, 201, 172) + `<rect x="${x}" y="570" width="201" height="10" rx="5" fill="${col}"/>` + t(x + 16, 608, a, { size: 18, weight: 700 }) + para(x + 16, 634, b, 172, { size: 15.5, fill: C.muted, lh: 20 }).svg; });
   add('04-iceland-energy',
-    svg(900, 740, 'Case study: energy supply in Iceland', s),
+    svg(900, 762, 'Case study: energy supply in Iceland', s),
     'A schematic west-to-east section of Iceland. In the west, hot rocks near the surface at the Mid-Atlantic Ridge feed boreholes at the Hellisheiði geothermal station, which pipes hot water to homes in Reykjavík. In the east, glaciers and steep valleys feed the Kárahnjúkar HEP dams, which power an aluminium smelter at Reyðarfjörður. Below: HEP gives the larger share, geothermal most of the rest; drawbacks include flooded wilderness and hydrogen sulphide; oil is still imported for transport and fishing.',
     'Iceland’s geology and climate give it almost all-renewable electricity; few countries can copy it.',
     '## Case study: energy supply in Iceland');

@@ -25,15 +25,15 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
 {
   let b = '';
   const col = (x, head, words, fill, edge) => {
-    let s = box(x, 110, 410, 500, fill, edge, 2.5, 14) + t(x + 205, 148, head, { size: 22, weight: 700, anchor: 'middle' });
+    let s = box(x, 110, 410, 522, fill, edge, 2.5, 14) + t(x + 205, 148, head, { size: 22, weight: 700, anchor: 'middle' });
     words.forEach(([ur, en], i) => { s += vchip(x + 18 + (i % 2) * 190, 170 + Math.floor(i / 2) * 114, 180, ur, en); });
     return s;
   };
   b += col(30, 'Masculine', [['موبائل فون', 'mobile phone'], ['انٹرنیٹ', 'internet'], ['سوشل میڈیا', 'social media (usually)'], ['پیغام', 'message'], ['فائدہ', 'advantage'], ['نقصان', 'disadvantage, harm'], ['رابطہ', 'contact'], ['', '']].slice(0, 7), C.tealLight, C.tealDark);
   b += col(460, 'Feminine', [['ایپ', 'app (usually)'], ['ویڈیو', 'video (usually)'], ['تصویر', 'photo, picture'], ['ٹیکنالوجی', 'technology'], ['سہولت', 'convenience'], ['عادت', 'habit'], ['معلومات', 'information (f pl)'], ['لت', 'addiction']], C.cream, C.olive);
-  b += box(30, 626, 840, 70, '#f6ece4', C.rust, 2.5, 12) + t(54, 668, 'Easy to recognise, but each loanword still needs its gender: that is where marks are lost', { size: 17, weight: 600 });
+  b += box(30, 648, 840, 70, '#f6ece4', C.rust, 2.5, 12) + t(54, 690, 'Easy to recognise, but each loanword still needs its gender: that is where marks are lost', { size: 17, weight: 600 });
   add('01-loanword-genders',
-    svg(900, 720, 'Loanwords still have a gender', b),
+    svg(900, 742, 'Loanwords still have a gender', b),
     'Masculine technology words: موبائل فون, انٹرنیٹ, سوشل میڈیا, پیغام, فائدہ, نقصان, رابطہ. Feminine: ایپ, ویڈیو, تصویر, ٹیکنالوجی, سہولت, عادت, معلومات (feminine plural) and لت.',
     'Borrowed words are easy to recognise, but each has a gender that verbs must follow.',
     '## Vocabulary');
@@ -72,4 +72,70 @@ const cross = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f6ece4" strok
     'Translating "I use my phone every day to talk to my relatives in Pakistan": use اپنا فون, not میرا فون, because the subject owns the phone; put the purpose as بات کرنے کے لیے; and put استعمال کرتا ہوں at the end.',
     'اپنا when the subject is the owner, and the verb at the end.',
     '## Worked example 1: translation into Urdu');
+}
+
+// 04 A balanced paragraph, move by move
+{
+  let b = t(450, 128, 'Task: is mobile technology good or bad for young people?', { size: 17, italic: true, anchor: 'middle', fill: C.muted });
+  const rows = [
+    ['Advantage frame', 'اس کا سب سے بڑا فائدہ یہ ہے کہ', 'its biggest advantage is that ...', C.panel, C.panelEdge],
+    ['Contrast', 'دوسری طرف،', 'on the other hand, ...', C.panel, C.panelEdge],
+    ['Cause and effect', 'جس کی وجہ سے ان کی نیند پوری نہیں ہوتی', 'because of which they do not get enough sleep', C.panel, C.panelEdge],
+    ['Personal experience (past)', 'پچھلے مہینے میں نے سونے سے پہلے فون بند کرنا شروع کیا', 'last month I started switching my phone off before sleeping', C.panel, C.panelEdge],
+    ['Conditional opinion', 'میرے خیال میں ٹیکنالوجی اچھی ہے، بشرطیکہ ہم اسے سمجھ داری سے استعمال کریں۔', 'technology is good, provided that we use it sensibly', C.cream, C.olive],
+  ];
+  rows.forEach(([l, ur, g, fill, edge], i) => { b += srow(148 + i * 146, (i + 1) + '. ' + l, ur, g, { fill, edge, h: 136, size: 24 }); });
+  b += box(30, 888, 840, 64, '#f6ece4', C.rust, 2.5, 12) + t(54, 926, 'Weak: a list of apps in the present tense, with no evaluation, does not answer "good or bad?"', { size: 16, weight: 600 });
+  add('04-balanced-paragraph',
+    svg(900, 976, 'Building a balanced view', b),
+    'Five moves from the model answer with their Urdu: an advantage frame, a contrast with دوسری طرف, cause and effect with جس کی وجہ سے, a personal experience in the past, and a conditional opinion with بشرطیکہ. A list of apps with no evaluation is weak.',
+    'Advantage, contrast, effect, experience, then a conditional view.',
+    '## Worked example 2: a balanced paragraph');
+}
+
+// 05 Exam technique: signposts and a four-part plan
+{
+  let b = t(54, 138, 'Reading: a disadvantage usually follows a signpost', { size: 20, weight: 700 });
+  [['لیکن', 'but'], ['مگر', 'but'], ['دوسری طرف', 'on the other hand'], ['اس کے برعکس', 'on the contrary']].forEach(([ur, en], i) => { b += vchip(30 + i * 213, 156, 200, ur, en, C.cream, C.olive); });
+  b += t(54, 292, 'and a why-question wants the reason after', { size: 17, fill: C.muted });
+  [['کیونکہ', 'because'], ['اس لیے', 'so, therefore'], ['کی وجہ سے', 'because of']].forEach(([ur, en], i) => { b += vchip(30 + i * 213, 306, 200, ur, en); });
+  b += t(54, 450, 'Writing: a four-part plan', { size: 20, weight: 700 });
+  const steps = [['How you use', 'technology now'], ['One', 'advantage'], ['One', 'disadvantage'], ['A justified', 'overall view']];
+  steps.forEach(([a, c], i) => {
+    const x = 30 + i * 213;
+    b += box(x, 470, 196, 108, i === 3 ? C.tealLight : C.panel, i === 3 ? C.tealDark : C.panelEdge, 2.5, 12) + badge(x + 28, 498, 17, String(i + 1), C.cream) +
+      t(x + 98, 540, a, { size: 17, weight: 700, anchor: 'middle' }) + t(x + 98, 562, c, { size: 17, weight: 700, anchor: 'middle' });
+    if (i < 3) b += arrow(x + 198, 524, x + 211, 524, { w: 3 });
+  });
+  b += box(30, 594, 840, 70, C.panel, C.panelEdge, 2.5, 12) + t(54, 636, '+ one past or future sentence:', { size: 17, weight: 600 }) +
+    u(520, 640, 'پہلے ... تھا', { size: 25, anchor: 'middle', fill: C.tealDark }) + t(610, 636, 'or', { size: 17, anchor: 'middle' }) + u(740, 640, 'مستقبل میں ... ہو گا', { size: 25, anchor: 'middle', fill: C.tealDark });
+  add('05-signposts-and-plan',
+    svg(900, 690, 'Exam technique for technology', b),
+    'Reading signposts that introduce a disadvantage (لیکن, مگر, دوسری طرف, اس کے برعکس) and the reason-markers کیونکہ, اس لیے and کی وجہ سے. A four-part writing plan: how you use technology now, one advantage, one disadvantage and a justified view, plus a sentence with پہلے ... تھا or مستقبل میں ... ہو گا.',
+    'Find the signpost in reading; plan four parts in writing and add another tense.',
+    '## Exam technique');
+}
+
+// 06 Technology across the course
+{
+  let b = '';
+  const rows = [
+    ['Theme 2: charity', 'by means of', 'کے ذریعے', ['سوشل میڈیا کے ذریعے ہم نے سیلاب زدگان کے لیے چندہ جمع کیا۔'], 'Through social media we raised money for flood victims.', C.panel, C.panelEdge],
+    ['Theme 3: study', 'then-and-now contrast', 'لیکن', ['آن لائن کلاسوں سے پڑھائی آسان ہو گئی ہے،', 'لیکن اساتذہ سے براہِ راست سوال پوچھنا مشکل ہو گیا ہے۔'], 'Online classes have made studying easier, but asking teachers directly has become harder.', C.cream, C.olive],
+    ['Theme 2: environment', 'instead of', 'کے بجائے', ['پرانے فون پھینکنے کے بجائے انہیں ری سائیکل کرنا چاہیے۔'], 'Instead of throwing old phones away, we should recycle them.', C.tealLight, C.tealDark],
+  ];
+  let y = 110;
+  rows.forEach(([h, s, key, lines, g, fill, edge]) => {
+    const hgt = 100 + lines.length * 52;
+    b += box(30, y, 840, hgt, fill, edge, 2.5, 14) + t(52, y + 38, h, { size: 20, weight: 700 }) + t(52, y + 64, s, { size: 16, fill: C.muted }) +
+      u(380, y + 44, key, { size: 24, anchor: 'middle', fill: C.tealDark });
+    lines.forEach((ln, j) => { b += u(846, y + 102 + j * 52, ln, { size: 25 }); });
+    b += t(846, y + hgt - 16, g, { size: 16, anchor: 'end', italic: true, fill: C.muted });
+    y += hgt + 16;
+  });
+  add('06-technology-across-themes',
+    svg(900, y + 14, 'Technology beyond Theme 1', b),
+    'Three linking sentences that reuse technology vocabulary in other themes: raising money for flood victims through social media (کے ذریعے), online classes making study easier but questions harder (لیکن), and recycling old phones instead of throwing them away (کے بجائے).',
+    'Technology words return in charity, study and environment topics.',
+    '## How this topic connects to the rest of the course');
 }

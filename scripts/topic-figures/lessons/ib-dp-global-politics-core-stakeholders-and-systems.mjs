@@ -170,15 +170,15 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 // 01 Actor vs stakeholder
 {
   let b = `<ellipse cx="450" cy="330" rx="400" ry="200" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="3"/>`;
-  b += tx(450, 175, 'Stakeholders: anyone affected by the issue', { size: 20, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += tx(400, 200, 'Stakeholders: anyone affected by the issue', { size: 20, weight: 700, anchor: 'middle', fill: C.tealDark });
   b += `<ellipse cx="560" cy="350" rx="210" ry="120" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
   b += tx(560, 320, 'Actors', { size: 22, weight: 700, anchor: 'middle' }) + tx(560, 348, 'agency and means to', { size: 16, anchor: 'middle' }) + tx(560, 370, 'exercise power', { size: 16, anchor: 'middle' });
   b += tx(560, 410, 'e.g. the ministry that', { size: 15, anchor: 'middle', italic: true }) + tx(560, 430, 'approved the dam', { size: 15, anchor: 'middle', italic: true });
   b += tx(205, 320, 'e.g. a child living', { size: 15, anchor: 'middle', italic: true }) + tx(205, 340, 'downstream of a new dam', { size: 15, anchor: 'middle', italic: true });
   b += parrow('M230,370 C260,440 330,460 380,430', { color: C.rust, marker: 'ahR', w: 4 });
-  b += tx(250, 470, 'residents organise, raise money,', { size: 15, fill: C.rust, weight: 600, anchor: 'middle' }) + tx(250, 490, 'go to court: become actors', { size: 15, fill: C.rust, weight: 600, anchor: 'middle' });
-  const n = note(30, 555, 840, 'Every actor is a stakeholder on the issues it acts on; not every stakeholder is an actor.', { size: 17 });
-  fig('01-actors-stakeholders', 'Stakeholders and actors', b + n.s, 555 + n.h + 30,
+  b += tx(250, 555, 'residents organise, raise money, go to court:', { size: 15, fill: C.rust, weight: 600, anchor: 'middle' }) + tx(250, 575, 'stakeholders become actors', { size: 15, fill: C.rust, weight: 600, anchor: 'middle' });
+  const n = note(30, 600, 840, 'Every actor is a stakeholder on the issues it acts on; not every stakeholder is an actor.', { size: 17 });
+  fig('01-actors-stakeholders', 'Stakeholders and actors', b + n.s, 600 + n.h + 30,
     'A large set of stakeholders, anyone affected by an issue, contains a smaller set of actors, those with the agency and means to exercise power. A child downstream of a dam is a stakeholder; the ministry that approved it is an actor. Residents who organise and go to court move from stakeholder to actor.',
     'All actors are stakeholders; stakeholders become actors when they gain the means to act.',
     '## 1. Stakeholders and actors');
@@ -193,10 +193,10 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
     ['Political leaders', 'heads of state; party, religious, movement leaders'], ['Formal and informal forums', 'UN General Assembly; G7, G20'], ['The media', 'news organisations, social media platforms'],
   ];
   let b = '';
-  a.forEach(([h, e], i) => { const x = 30 + (i % 3) * 285, y = 115 + Math.floor(i / 3) * 112; b += box(x, y, 270, 100, { title: h, body: e, tsize: 17, bsize: 15, align: 'middle', pad: 12, fill: i % 2 ? C.panel : '#eaf3f1', edge: C.tealDark }); });
-  b += box(30, 565, 840, 64, { title: 'Other individual and collective actors', body: 'diasporas, activists, whistleblowers, expert networks, hacker collectives', tsize: 17, bsize: 15, align: 'middle', pad: 10, fill: C.cream, edge: C.olive });
-  const n = note(30, 648, 840, 'Same type, different power: ask what this actor can actually do in this system, and who accepts it.', { size: 16, weight: 600 });
-  fig('02-actor-types', 'The actor types the guide lists', b + n.s, 648 + n.h + 30,
+  a.forEach(([h, e], i) => { const x = 30 + (i % 3) * 285, y = 115 + Math.floor(i / 3) * 118; b += box(x, y, 270, 108, { title: h, body: e, tsize: 17, bsize: 15, align: 'middle', pad: 12, fill: i % 2 ? C.panel : '#eaf3f1', edge: C.tealDark }); });
+  b += box(30, 589, 840, 64, { title: 'Other individual and collective actors', body: 'diasporas, activists, whistleblowers, expert networks, hacker collectives', tsize: 17, bsize: 15, align: 'middle', pad: 10, fill: C.cream, edge: C.olive });
+  const n = note(30, 672, 840, 'Same type, different power: ask what this actor can actually do in this system, and who accepts it.', { size: 16, weight: 600 });
+  fig('02-actor-types', 'The actor types the guide lists', b + n.s, 672 + n.h + 30,
     'A grid of the actor types in the guide, each with an example: states, subnational and local governments, IGOs, organised civil society, companies, social movements, resistance movements, political parties, interest and pressure groups, political leaders, formal and informal forums, the media, and other individual and collective actors.',
     'Know each type with one example, but judge power case by case.',
     '## 1. Stakeholders and actors');
@@ -206,11 +206,11 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 {
   const sc = ['global', 'international', 'regional', 'national', 'subnational', 'local', 'community'];
   let b = label(150, 136, 'Scales of a system', { anchor: 'middle' });
-  sc.forEach((s, i) => { const w = 240 - i * 22; b += box(150 - w / 2, 150 + i * 62, w, 52, { title: s, tsize: 17, align: 'middle', pad: 8, fill: i % 2 ? C.tealLight : C.panel, edge: C.tealDark }); });
-  b += box(300, 150, 570, 220, { title: 'Structure: the stable arrangement', body: '• who holds formal authority, at what level\n• how decisions are made: majority, consensus, veto\n• how power is distributed\n• is there any authority above? (no world government)', fill: C.cream, edge: C.olive, valign: 'top', tsize: 19, bsize: 16 });
-  b += box(300, 390, 570, 192, { title: 'Dynamics: how interactions change', body: 'cooperation and competition; alliances form and break; new actors enter; rules tested or reformed; crises shift power', fill: '#eaf3f1', edge: C.tealDark, valign: 'top', tsize: 19, bsize: 16 });
-  const n = note(30, 610, 840, 'Structures and dynamics regulate interactions and limit the courses of action open to actors.', { size: 17 });
-  fig('03-structure-dynamics', 'Systems: scale, structure and dynamics', b + n.s, 610 + n.h + 30,
+  sc.forEach((s, i) => { const w = 240 - i * 22; b += box(150 - w / 2, 150 + i * 52, w, 44, { title: s, tsize: 17, align: 'middle', pad: 8, fill: i % 2 ? C.tealLight : C.panel, edge: C.tealDark }); });
+  b += box(300, 150, 570, 190, { title: 'Structure: the stable arrangement', body: '• who holds formal authority, at what level\n• how decisions are made: majority, consensus, veto\n• how power is distributed\n• is there any authority above? (no world government)', fill: C.cream, edge: C.olive, valign: 'top', tsize: 19, bsize: 16 });
+  b += box(300, 356, 570, 150, { title: 'Dynamics: how interactions change', body: 'cooperation and competition; alliances form and break; new actors enter; rules tested or reformed; crises shift power', fill: '#eaf3f1', edge: C.tealDark, valign: 'top', tsize: 19, bsize: 16 });
+  const n = note(30, 530, 840, 'Structures and dynamics regulate interactions and limit the courses of action open to actors.', { size: 17 });
+  fig('03-structure-dynamics', 'Systems: scale, structure and dynamics', b + n.s, 530 + n.h + 30,
     'Seven scales at which a political system can be studied, from global to community. Structure is the stable arrangement: authority, decision rules, distribution of power and whether anything sits above. Dynamics are how interactions change: cooperation, competition, alliances, new actors, rule changes and crises.',
     'Structure sets the rules of the game; dynamics are how the game changes.',
     '## 2. Systems -- structures and dynamics');

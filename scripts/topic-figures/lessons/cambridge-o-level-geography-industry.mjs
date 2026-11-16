@@ -185,7 +185,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   let s = panel(30, 110, 480, 620) + `<rect x="45" y="125" width="450" height="590" rx="10" fill="#d8e3c6"/>`;
   s += `<path d="M150,125 L250,125 Q300,250 330,330 Q360,400 400,430 Q370,445 340,420 Q290,370 250,300 Q200,220 150,125 Z" fill="${C.teal}" stroke="${C.tealDark}" stroke-width="2"/>`;
   s += tag(250, 215, 'San Francisco Bay', { size: 15, fill: C.tealDark, anchor: 'middle', bg: C.teal, op: 1 });
-  const pl = [[120, 160, 'San Francisco', 'airport'], [210, 360, 'Palo Alto', 'Stanford; HP 1939'], [270, 440, 'Mountain View', 'Google'], [170, 520, 'Cupertino', 'Apple'], [330, 520, 'Santa Clara', 'Intel'], [420, 470, 'San Jose', 'airport']];
+  const pl = [[120, 160, 'San Francisco', 'airport'], [210, 360, 'Palo Alto', 'Stanford; HP 1939'], [270, 440, 'Mountain View', 'Google'], [170, 520, 'Cupertino', 'Apple'], [330, 520, 'Santa Clara', 'Intel'], [390, 470, 'San Jose', 'airport']];
   pl.forEach(([x, y, a, b]) => { s += circ(x, y, 7, C.rust, C.ink, 2) + tag(x + 12, y - 4, a, { size: 15.5 }) + tag(x + 12, y + 15, b, { size: 14, weight: 400, fill: C.muted }); });
   s += t(270, 700, 'Schematic, not to scale', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
   const fac = [['Labour and research', 'Stanford graduates; skilled workers from around the world'], ['Capital', 'venture-capital firms fund start-ups'], ['Agglomeration', 'ideas and staff move easily between firms'], ['Transport', 'two international airports, motorways; light, high-value goods'], ['Environment', 'pleasant climate attracts workers']];

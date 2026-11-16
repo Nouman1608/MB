@@ -210,18 +210,13 @@ function cardRow(y, cards, o = {}) {
 // 02 Determinism vs social construction
 {
   let s = '', y = 110;
-  const c = hchain(y, [
-    { head: 'Technology', fill: C.mustard },
-    { head: 'Social change', fill: C.panel },
-  ], { ag: 140, size: 17, arrows: false });
-  const half = (840 - 140) / 2;
-  s += label(450, y - 4, '', {});
-  s += `<rect x="30" y="${y - 2}" width="840" height="${c.h + 4}" rx="14" fill="none"/>`;
-  s += c.svg;
-  s += arrow(30 + half + 6, y + c.h / 2 - 12, 30 + half + 134, y + c.h / 2 - 12, { w: 4 });
-  s += arrow(30 + half + 134, y + c.h / 2 + 14, 30 + half + 6, y + c.h / 2 + 14, { w: 4, color: C.tealDark, marker: 'ahT' });
-  s += label(450, y + c.h / 2 - 22, 'determinism', { size: 15, weight: 700, anchor: 'middle' });
-  s += label(450, y + c.h / 2 + 40, 'construction', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
+  const c = { h: 70 };
+  s += `<rect x="30" y="${y}" width="320" height="70" rx="14" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + t(190, y + 43, 'Technology', { size: 21, weight: 700, anchor: 'middle' });
+  s += `<rect x="550" y="${y}" width="320" height="70" rx="14" fill="${C.panel}" stroke="${C.ink}" stroke-width="2.5"/>` + t(710, y + 43, 'Social change', { size: 21, weight: 700, anchor: 'middle' });
+  s += arrow(358, y + 24, 542, y + 24, { w: 4 });
+  s += arrow(542, y + 50, 358, y + 50, { w: 4, color: C.tealDark, marker: 'ahT' });
+  s += label(450, y + 14, 'determinism', { size: 15, weight: 700, anchor: 'middle' });
+  s += label(450, y + 72, 'construction', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
   y += c.h + 30;
   const r = cardRow(y, [
     { head: 'Technological determinism', body: ['Technology drives social change', '**Marx (1847):** "the hand-mill gives you society with the feudal lord; the steam-mill society with the industrial capitalist"', '**McLuhan:** "the medium is the message"', 'Explains big shifts but ignores choice and power'], fill: C.cream },
@@ -275,14 +270,14 @@ function cardRow(y, cards, o = {}) {
   const drawEye = (x, y, r, f) => `<circle cx="${x}" cy="${y}" r="${r}" fill="${f}" stroke="${C.ink}" stroke-width="2.5"/>`;
   s += panel(30, 104, 410, 360) + panel(460, 104, 410, 360);
   s += t(235, 142, 'Panopticon', { size: 22, weight: 700, anchor: 'middle' }) + t(235, 166, 'the few watch the many', { size: 16, anchor: 'middle', fill: C.muted });
-  const cx = 235, cy = 300;
+  const cx = 235, cy = 285;
   s += drawEye(cx, cy, 26, C.mustard);
-  for (let i = 0; i < 8; i++) { const a = (i * Math.PI) / 4, px = cx + 100 * Math.cos(a), py = cy + 90 * Math.sin(a); s += drawEye(px, py, 14, C.tealLight); s += arrow(cx + 30 * Math.cos(a), cy + 30 * Math.sin(a), px - 18 * Math.cos(a), py - 18 * Math.sin(a), { w: 2.5 }); }
+  for (let i = 0; i < 8; i++) { const a = (i * Math.PI) / 4, px = cx + 100 * Math.cos(a), py = cy + 78 * Math.sin(a); s += drawEye(px, py, 14, C.tealLight); s += arrow(cx + 30 * Math.cos(a), cy + 30 * Math.sin(a), px - 18 * Math.cos(a), py - 18 * Math.sin(a), { w: 2.5 }); }
   s += tl(235, 420, ['Foucault (1975), from Bentham: people', 'discipline themselves when they might be watched'], { size: 15, anchor: 'middle' }, 20);
   s += t(665, 142, 'Synopticon', { size: 22, weight: 700, anchor: 'middle' }) + t(665, 166, 'the many watch the few', { size: 16, anchor: 'middle', fill: C.muted });
-  const sx = 665, sy = 300;
+  const sx = 665, sy = 285;
   s += drawEye(sx, sy, 26, C.mustard);
-  for (let i = 0; i < 8; i++) { const a = (i * Math.PI) / 4, px = sx + 100 * Math.cos(a), py = sy + 90 * Math.sin(a); s += drawEye(px, py, 14, C.tealLight); s += arrow(px - 18 * Math.cos(a), py - 18 * Math.sin(a), sx + 30 * Math.cos(a), sy + 30 * Math.sin(a), { w: 2.5, color: C.tealDark, marker: 'ahT' }); }
+  for (let i = 0; i < 8; i++) { const a = (i * Math.PI) / 4, px = sx + 100 * Math.cos(a), py = sy + 78 * Math.sin(a); s += drawEye(px, py, 14, C.tealLight); s += arrow(px - 18 * Math.cos(a), py - 18 * Math.sin(a), sx + 30 * Math.cos(a), sy + 30 * Math.sin(a), { w: 2.5, color: C.tealDark, marker: 'ahT' }); }
   s += tl(665, 420, ['Mathiesen (1997): the many watching', 'the few, as in celebrity culture'], { size: 15, anchor: 'middle' }, 20);
   let y = 484;
   const n = note(y, 'Digital surveillance', 'CCTV, facial recognition and data tracking extend both.');
@@ -314,7 +309,7 @@ function cardRow(y, cards, o = {}) {
   let s = '', y = 116;
   s += label(30, y, 'Gender Shades (Buolamwini and Gebru, 2018): error rates of commercial facial analysis', { size: 17, weight: 700, fill: C.tealDark });
   y += 30;
-  const bx = 250, scale = 560 / 40;
+  const bx = 250, scale = 460 / 40;
   [['Darker-skinned women', 34.7, C.rust, 'as high as 34.7%'], ['Lighter-skinned men', 1, C.teal, 'under 1%']].forEach(([n, v, f, lab], i) => {
     const yy = y + i * 80;
     s += t(30, yy + 36, n, { size: 18, weight: 700 });

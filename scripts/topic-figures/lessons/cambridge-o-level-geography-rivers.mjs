@@ -182,11 +182,11 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   s += `<rect x="300" y="420" width="40" height="30" fill="#ffffff" stroke="${C.ink}" stroke-width="2"/><path d="M305,425 L335,425 L320,447 Z" fill="${C.mustard}" stroke="${C.ink}" stroke-width="1.5"/>` + line(320, 450, 320, 470, { w: 3 });
   const lab = (x, y, a, b, col) => tag(x, y, a, { size: 15.5, fill: col }) + tag(x, y + 19, b, { size: 13.5, weight: 400 });
   s += lab(255, 150, 'Dam and reservoir', 'stores water, releases it slowly', C.rust);
-  s += lab(55, 470, 'Afforestation', 'more interception, slower runoff', C.tealDark);
+  s += lab(55, 470, 'Afforestation', 'slows runoff', C.tealDark);
   s += lab(430, 222, 'Flood relief channel', 'diverts excess water', C.rust);
   s += lab(470, 470, 'Embankments', 'more channel capacity', C.rust);
   s += lab(700, 368, 'Wetland restored', 'stores floodwater', C.tealDark);
-  s += lab(668, 244, 'Zoning', 'homes on higher, safer land', C.tealDark);
+  s += lab(640, 244, 'Zoning', 'homes on safer land', C.tealDark);
   s += lab(260, 500, 'Warning systems', 'and flood shelters', C.tealDark);
   s += card(30, 570, 410, 130, 'Hard engineering', 'Dams, embankments, straightening and dredging, relief channels: expensive; can move the problem downstream.', { fill: '#f6e6dc', edge: C.rust, ts: 18.5, bs: 15.5, tfill: C.rust });
   s += card(460, 570, 410, 130, 'Soft and other measures', 'Afforestation, zoning, wetlands, warnings: cheaper, more sustainable, less protection from the largest floods.', { fill: C.tealLight, edge: C.tealDark, ts: 18.5, bs: 15.5, tfill: C.tealDark });

@@ -125,8 +125,8 @@ const bullets = (x, y, items, w, o = {}) => {
     });
     y += 175;
   });
-  s += card(640, 212, 230, 86, 'P is 30 times R', '45,000 vs 1,500 US$', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
-  s += card(640, 382, 230, 86, '82 vs 62 years', 'P lives 20 years longer than R', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
+  s += card(640, 212, 230, 86, 'P is 30 times R', '45,000 vs 1,500', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
+  s += card(640, 374, 230, 86, '82 vs 62 years', 'P lives 20 years longer', { fill: C.cream, edge: C.olive, ts: 18.5, bs: 16 });
   s += panel(30, 650, 840, 112, C.tealLight, C.tealDark) + t(55, 688, 'Q earns about a quarter of P’s income …', { size: 19, weight: 700 }) +
     t(55, 718, '… yet its life expectancy is only 6 years lower. Health care can improve', { size: 17, fill: C.ink }) + t(55, 742, 'faster than income at middle levels of development.', { size: 17, fill: C.ink });
   add('02-comparing-countries',

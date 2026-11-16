@@ -295,7 +295,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
     svg(900, Y + 2 * H + 16 + 24, 'Narrative voice and viewpoint', s),
     'Four panels. First person places the reader inside one character’s mind. Third person limited stays close to one character. Third person omniscient moves between many characters. An unreliable narrator says one thing while the reader sees another, and that gap is a method.',
     'Ask who tells the story, how much they know, and whether to trust them.',
-    '## The writer’s methods: a toolkit for prose');
+    '## The writer\'s methods: a toolkit for prose');
 }
 
 // 02 Structure: shapes and links
@@ -320,7 +320,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
     svg(900, Math.round(y4 + 186 + n.h + 24), 'Structure: the order and shape of the story', s + n.s),
     'Timelines show three ways time can move in a novel: chronologically, with a flashback that jumps back, and within a frame narrative. A fourth timeline links two points with foreshadowing and with parallel scenes, so one paragraph can connect them.',
     'Foreshadowing and parallel scenes let one paragraph span the whole novel.',
-    '## The writer’s methods: a toolkit for prose');
+    '## The writer\'s methods: a toolkit for prose');
 }
 
 // 03 Worked example 1: annotated extract

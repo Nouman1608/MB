@@ -2,11 +2,11 @@
  {
   "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--01-loanword-genders.webp",
   "width": 900,
-  "height": 720,
+  "height": 742,
   "after": "## Vocabulary",
   "alt": "Masculine technology words: موبائل فون, انٹرنیٹ, سوشل میڈیا, پیغام, فائدہ, نقصان, رابطہ. Feminine: ایپ, ویڈیو, تصویر, ٹیکنالوجی, سہولت, عادت, معلومات (feminine plural) and لت.",
   "caption": "Borrowed words are easy to recognise, but each has a gender that verbs must follow.",
-  "bytes": 89144
+  "bytes": 89230
  },
  {
   "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--02-ne-agrees-with-object.webp",
@@ -25,5 +25,32 @@
   "alt": "Translating \"I use my phone every day to talk to my relatives in Pakistan\": use اپنا فون, not میرا فون, because the subject owns the phone; put the purpose as بات کرنے کے لیے; and put استعمال کرتا ہوں at the end.",
   "caption": "اپنا when the subject is the owner, and the verb at the end.",
   "bytes": 84138
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--04-balanced-paragraph.webp",
+  "width": 900,
+  "height": 976,
+  "after": "## Worked example 2: a balanced paragraph",
+  "alt": "Five moves from the model answer with their Urdu: an advantage frame, a contrast with دوسری طرف, cause and effect with جس کی وجہ سے, a personal experience in the past, and a conditional opinion with بشرطیکہ. A list of apps with no evaluation is weak.",
+  "caption": "Advantage, contrast, effect, experience, then a conditional view.",
+  "bytes": 143022
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--05-signposts-and-plan.webp",
+  "width": 900,
+  "height": 690,
+  "after": "## Exam technique",
+  "alt": "Reading signposts that introduce a disadvantage (لیکن, مگر, دوسری طرف, اس کے برعکس) and the reason-markers کیونکہ, اس لیے and کی وجہ سے. A four-part writing plan: how you use technology now, one advantage, one disadvantage and a justified view, plus a sentence with پہلے ... تھا or مستقبل میں ... ہو گا.",
+  "caption": "Find the signpost in reading; plan four parts in writing and add another tense.",
+  "bytes": 96836
+ },
+ {
+  "file": "oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--06-technology-across-themes.webp",
+  "width": 900,
+  "height": 680,
+  "after": "## How this topic connects to the rest of the course",
+  "alt": "Three linking sentences that reuse technology vocabulary in other themes: raising money for flood victims through social media (کے ذریعے), online classes making study easier but questions harder (لیکن), and recycling old phones instead of throwing them away (کے بجائے).",
+  "caption": "Technology words return in charity, study and environment topics.",
+  "bytes": 120806
  }
 ]

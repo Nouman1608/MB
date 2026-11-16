@@ -342,7 +342,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
     svg(900, Math.round(cy + n.h + 24), 'The playwright’s toolkit', s + n.s),
     'Eight dramatic methods grouped by what the audience sees (stage directions, props and set, entrances and exits), hears (dialogue, soliloquy and aside, verse and prose) and knows (dramatic irony, structure). Each has what to look for and its typical effect.',
     'Every method is a way of shaping what the audience sees, hears or knows.',
-    '## The playwright’s toolkit');
+    '## The playwright\'s toolkit');
 }
 
 // 03 Reading a short scene as performance

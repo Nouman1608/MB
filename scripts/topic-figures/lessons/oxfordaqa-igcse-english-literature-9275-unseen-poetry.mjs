@@ -315,7 +315,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
 
 // 03 Worked example: annotated poem
 {
-  const Y = 120, lh = 30, px = 52;
+  const Y = 146, lh = 30, px = 52;
   const L = [
     [['Each night my father climbed the stairs', '']],
     [['to tell the dark where it should end', 'hl'], ['.', '']],
@@ -335,7 +335,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
   ];
   let body = T(px, Y + 8, 'The Lighthouse Keeper’s Daughter', { size: 18, weight: 700 }), y = Y + 44; const ly = [];
   L.forEach((l) => { if (!l) { y += 14; return; } body += rich(px, y, l, { size: 17 }); ly.push(y - 6); y += lh; });
-  const tags = { 1: [1, 2], 2: [6, 7, 8], 3: [10, 11], 4: [13, 14] };
+  const tags = { 1: [1, 2], 2: [5, 6, 7], 3: [8, 9], 4: [11, 12] };
   const cols = { 1: [C.cream, C.olive], 2: [C.tealLight, C.tealDark], 3: ['#f6e3d6', C.rust], 4: [C.mustard, C.ink] };
   let bdg = '';
   Object.entries(tags).forEach(([n, arr]) => { const [f, e] = cols[n]; bdg += `<line x1="458" y1="${ly[arr[0]] - 10}" x2="458" y2="${ly[arr[arr.length - 1]] + 10}" stroke="${e}" stroke-width="4" stroke-linecap="round"/>` + badge(482, (ly[arr[0]] + ly[arr[arr.length - 1]]) / 2, 14, n, f); });

@@ -187,9 +187,9 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   let s = col(30, 'Activities', [['Cattle ranching', 'largest single cause'], ['Soya farming', 'much exported as animal feed'], ['Logging', 'roads open forest to settlers'], ['Mining', 'Carajás iron ore; gold with mercury'], ['Roads and HEP', 'Trans-Amazonian Highway; Belo Monte']], '#ffffff', C.panelEdge, C.muted);
   s += col(315, 'Risks', [['Soil erosion, leaching', 'thin soils lose nutrients fast'], ['Global warming', 'carbon released; fewer trees absorb it'], ['Water pollution', 'mercury builds up in fish people eat'], ['Biodiversity loss', 'habitats destroyed'], ['Threats to people', 'indigenous land lost; land conflicts']], '#f6e6dc', C.rust, C.rust);
   s += col(600, 'Management', [['Protected areas', 'and indigenous territories'], ['Forest Code', 'landowners keep much land as forest'], ['Satellite monitoring', 'INPE detects clearance quickly'], ['Soy Moratorium (2006)', 'traders refuse soya from newly cleared land']], C.tealLight, C.tealDark, C.tealDark);
-  s += rrect(600, 584, 270, 104, C.cream, C.olive, 2.5, 14) + tl(616, 612, wrap('Evaluation: clearance fell in the late 2000s with strong enforcement, then rose again in some years.', 240, 15), { size: 15 }, 19);
+  s += rrect(600, 584, 270, 122, C.cream, C.olive, 2.5, 14) + tl(616, 612, wrap('Evaluation: clearance fell in the late 2000s with strong enforcement, then rose again in some years.', 240, 15), { size: 15 }, 19);
   add('05-amazon-case-study',
-    svg(900, 710, 'Case study: the Amazon rainforest in Brazil', s),
+    svg(900, 728, 'Case study: the Amazon rainforest in Brazil', s),
     'Three columns. Activities: cattle ranching, soya farming, logging, mining at Carajás and gold mining with mercury, and roads and HEP such as the Trans-Amazonian Highway and Belo Monte dam. Risks: soil erosion and leaching, enhanced global warming, mercury pollution in fish, biodiversity loss, and loss of indigenous land. Management: protected areas, the Forest Code, INPE satellite monitoring and the 2006 Soy Moratorium; clearance fell when enforcement was strong but later rose again.',
     'Management works only when laws are enforced.',
     '## Case study: the Amazon rainforest in Brazil');

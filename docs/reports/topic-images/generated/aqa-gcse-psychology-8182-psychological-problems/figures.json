@@ -1,0 +1,65 @@
+[
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--01-why-rates-change.webp",
+  "width": 900,
+  "height": 613,
+  "after": "## Mental health and why rates change",
+  "alt": "Three reasons recorded rates change: increased recognition, less stigma and the challenges of modern living. The first two increase recorded cases without necessarily meaning more people are unwell; modern living suggests a real increase. A note defines good mental health.",
+  "caption": "Recognition and less stigma raise recorded cases; modern living may mean a real rise.",
+  "bytes": 119064
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--02-mood-patterns.webp",
+  "width": 900,
+  "height": 724,
+  "after": "## Clinical depression",
+  "alt": "Three schematic mood lines. Sadness dips briefly below usual mood and recovers. Unipolar depression drops and stays low. Bipolar depression swings between depression and mania. A card lists the ICD symptoms used to classify depressive episodes as mild, moderate or severe.",
+  "caption": "Sadness passes; unipolar depression persists; bipolar adds periods of mania.",
+  "bytes": 97354
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--03-depressive-attributions.webp",
+  "width": 900,
+  "height": 574,
+  "after": "## Clinical depression",
+  "alt": "Three cards show a depressive attributional style: internal (it's my fault), stable (it will always be like this) and global (it ruins everything). Negative schemas lead to CBT, which challenges negative thoughts. An evaluation note follows.",
+  "caption": "Internal, stable, global: the depressive way of explaining bad events, which CBT targets.",
+  "bytes": 114768
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--04-wiles-cbt-trial.webp",
+  "width": 900,
+  "height": 766,
+  "after": "## Clinical depression",
+  "alt": "Patients whose depression had not responded to antidepressants were randomly allocated to usual care or usual care plus CBT. Symptoms were measured with the Beck Depression Inventory. The CBT group improved more at six months, and the benefit lasted to twelve months. Strength and weakness cards follow.",
+  "caption": "Adding CBT to usual care reduced symptoms more, and the benefit lasted a year.",
+  "bytes": 117174
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--05-icd-dependence.webp",
+  "width": 900,
+  "height": 562,
+  "after": "## Addiction",
+  "alt": "Six ICD features of dependence surround a central circle: strong desire, difficulty controlling use, withdrawal, tolerance, neglect of other pleasures and persistent use despite harm. Below, substance misuse, substance abuse and addiction or dependence are distinguished.",
+  "caption": "Six ICD features mark dependence; misuse and abuse are not the same thing.",
+  "bytes": 110286
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--06-kaij-twin-study.webp",
+  "width": 900,
+  "height": 703,
+  "after": "## Addiction",
+  "alt": "Two pairs of twins: identical twins, who share all their genes, and non-identical twins. Kaij found higher concordance for alcohol abuse in identical than non-identical twins, shown as a longer bar with no figures. Evaluation: it supports a genetic contribution, but concordance was not 100 percent and twin environments may differ.",
+  "caption": "Higher concordance in identical twins suggests genes matter, but not 100% means environment does too.",
+  "bytes": 106498
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-psychological-problems--07-aversion-therapy.webp",
+  "width": 900,
+  "height": 492,
+  "after": "## Addiction",
+  "alt": "During therapy alcohol is paired with a drug that causes nausea, producing feeling ill. After conditioning, alcohol alone is associated with feeling ill. Cards evaluate aversion therapy and self-management programmes such as twelve-step groups.",
+  "caption": "Pairing alcohol with nausea teaches an association that puts the person off drinking.",
+  "bytes": 78142
+ }
+]

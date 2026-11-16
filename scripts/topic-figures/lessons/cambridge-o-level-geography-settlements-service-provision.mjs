@@ -124,7 +124,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   s += house(250, 270, 0.75) + house(225, 290, 0.75);
   const n = (x, y, k) => badge(x, y, 15, String(k), C.mustard);
   s += n(160, 445, 1) + n(585, 395, 2) + n(320, 410, 3) + n(700, 305, 4) + n(420, 190, 5) + n(210, 268, 6);
-  const L = [['Dry point', 'above a floodplain or marsh'], ['Defence', 'in a meander loop, e.g. Durham'], ['Bridging point', 'lowest river crossing'], ['Wet point', 'spring or well, vital in dry areas'], ['Gap', 'natural route through hills'], ['Shelter and aspect', 'out of the wind, facing the sun']];
+  const L = [['Dry point', 'above a floodplain or marsh'], ['Defence', 'meander loop, e.g. Durham'], ['Bridging point', 'lowest river crossing'], ['Wet point', 'spring or well (dry areas)'], ['Gap', 'route through hills'], ['Shelter and aspect', 'sheltered, facing the sun']];
   L.forEach(([a, b], i) => { const x = 30 + (i % 3) * 283, y = 600 + Math.floor(i / 3) * 74; s += rrect(x, y, 272, 64, '#ffffff', C.panelEdge, 2, 10) + badge(x + 26, y + 32, 14, String(i + 1), C.mustard) + t(x + 50, y + 27, a, { size: 16.5, weight: 700 }) + t(x + 50, y + 49, b, { size: 13.5, fill: C.muted }); });
   add('02-site-factors',
     svg(900, 765, 'Choosing a site', s, 'Schematic landscape, not to scale'),

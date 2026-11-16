@@ -1,0 +1,38 @@
+[
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-poetry--01-unseen-poetry-on-each-route.webp",
+  "width": 900,
+  "height": 520,
+  "after": "## What the specification asks",
+  "alt": "On Route A, unseen poetry is Section B of Paper 2a, between the anthology and unseen prose, so the poem must be finished on time. On Route B it is Section B of Paper 2b, after the anthology. On both it is 30 marks and about 45 minutes.",
+  "caption": "The unseen poem question is the same on both routes; Route A has unseen prose to follow.",
+  "bytes": 73868
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-poetry--02-five-step-method.webp",
+  "width": 900,
+  "height": 826,
+  "after": "## A method that works under pressure",
+  "alt": "A 45-minute bar: 3 minutes reading for sense, 3 for shape, 4 for detail, 3 to 5 planning and about 30 writing. Five numbered steps explain each, with reading for shape and marking the turn highlighted.",
+  "caption": "Grasp the surface meaning first, then the shape, then the details.",
+  "bytes": 116588
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-poetry--03-lighthouse-poem-annotated.webp",
+  "width": 900,
+  "height": 776,
+  "after": "## Worked example",
+  "alt": "The guide’s original poem The Lighthouse Keeper’s Daughter with four groups of lines marked and explained in order: the father as a heroic figure, tenderness and fragility in the second stanza, loss through the blunt final-stanza sentences, and the isolated last line “and counts.” that brings the poem full circle.",
+  "caption": "Four points that move through the poem from beginning to end.",
+  "bytes": 201632
+ },
+ {
+  "file": "oxfordaqa-igcse-english-literature-9275-unseen-poetry--04-lighthouse-poem-movement.webp",
+  "width": 900,
+  "height": 494,
+  "after": "## Worked example",
+  "alt": "Three stanzas of The Lighthouse Keeper’s Daughter shown as a sequence: a heroic first stanza, a domestic and tender second stanza, and a final stanza of loss. A dashed arrow links the father’s counting at the end back to the child counting his steps at the start.",
+  "caption": "Follow the poem’s shift from heroic to tender to loss, and comment on the ending.",
+  "bytes": 78292
+ }
+]

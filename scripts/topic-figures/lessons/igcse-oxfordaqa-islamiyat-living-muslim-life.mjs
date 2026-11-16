@@ -47,11 +47,11 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
     const x = 30 + i * 426;
     b += rect(x, 112, 414, 300, C.panel, e, 2.5, 14) + rect(x, 112, 414, 84, f, e, 2.5, 14) + t(x + 22, 146, s, { size: 22, weight: 700 }) + t(x + 392, 146, '25 marks', { size: 19, weight: 700, anchor: 'end', fill: e === C.mustard ? C.olive : C.tealDark }) +
       t(x + 22, 178, n, { size: 17, fill: C.ink }) + t(x + 22, 234, d, { size: 17, weight: 700, fill: C.muted });
-    const c = chain.filter(Boolean), cw = c.length === 3 ? 116 : 175;
+    const c = chain.filter(Boolean), cw = c.length === 3 ? 114 : 175;
     c.forEach((k, j) => {
-      const cx = x + 22 + j * (cw + 14);
-      b += rect(cx, 258, cw, 64, f, e, 2, 12) + ctext(cx + cw / 2, 290, k, cw - 12, { size: 16, weight: 700 }, 19);
-      if (j < c.length - 1) b += arrow(cx + cw + 1, 290, cx + cw + 12, 290, { w: 3 });
+      const cx = x + 22 + j * (cw + 13);
+      b += rect(cx, 258, cw, 64, f, e, 2, 12) + ctext(cx + cw / 2, 290, k, cw - 10, { size: 15, weight: 700 }, 19);
+      if (j < c.length - 1) b += arrow(cx + cw + 1, 290, cx + cw + 11, 290, { w: 3 });
     });
     b += para(x + 22, 356, i === 0 ? 'Refer to the Qur\'an or Hadith as evidence.' : 'Give concrete, specific detail of how it is done.', 370, { size: 16, fill: C.muted }, 21);
   });
@@ -96,21 +96,21 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   const st = [['Ihram', 'state of purity; simple white garments'], ['Tawaf', 'seven circuits of the Ka\'bah'], ['Sa\'i', 'between the hills of Safa and Marwah'], ['Arafat', 'standing: the essential rite'], ['Mina', 'stone the pillars'], ['Sacrifice', '']];
   let b = '';
   st.forEach(([h, d], i) => {
-    const x = 30 + (i % 3) * 290, y = 112 + Math.floor(i / 3) * 140, key = i === 3;
+    const x = 30 + (i % 3) * 290, y = 112 + Math.floor(i / 3) * 160, key = i === 3;
     b += rect(x, y, 260, 118, key ? C.cream : C.panel, key ? C.mustard : C.panelEdge, key ? 3.5 : 2.5, 14) + badge(x + 32, y + 34, 18, String(i + 1), key ? C.mustard : C.cream) +
       t(x + 62, y + 41, h, { size: 21, weight: 700 }) + (d ? para(x + 20, y + 80, d, 226, { size: 16, fill: C.muted }, 20) : '');
     if (i % 3 < 2) b += arrow(x + 262, y + 59, x + 286, y + 59, { w: 3 });
   });
-  b += pline('M810,232 L810,242 L160,242 L160,250', { w: 3 });
-  b += panel(30, 408, 840, 170) + t(56, 444, 'The meaning behind every rite', { size: 20, weight: 700 });
+  b += pline('M810,232 L810,252 L160,252 L160,268', { w: 3 });
+  b += panel(30, 428, 840, 170) + t(56, 464, 'The meaning behind every rite', { size: 20, weight: 700 });
   const m = ['Identical white garments', 'Wealth and status become invisible', 'All stand equal before God'];
   m.forEach((s, i) => {
     const x = 56 + i * 274;
-    b += rect(x, 466, 240, 86, i === 2 ? C.teal : C.tealLight, C.tealDark, 2.5, 12) + ctext(x + 120, 509, s, 214, { size: 17, weight: 700 }, 21);
-    if (i < 2) b += arrow(x + 242, 509, x + 270, 509, { w: 3 });
+    b += rect(x, 486, 240, 86, i === 2 ? C.teal : C.tealLight, C.tealDark, 2.5, 12) + ctext(x + 120, 529, s, 214, { size: 17, weight: 700 }, 21);
+    if (i < 2) b += arrow(x + 242, 529, x + 270, 529, { w: 3 });
   });
   add('03-hajj-rites',
-    svg(900, 602, 'The rites of Hajj and their meaning', b),
+    svg(900, 622, 'The rites of Hajj and their meaning', b),
     'Six rites in order: ihram, tawaf (seven circuits of the Ka\'bah), sa\'i between Safa and Marwah, standing at Arafat (highlighted as the essential rite), stoning the pillars at Mina and the sacrifice. Below, the chain of meaning: identical white garments make wealth and status invisible, so all stand equal before God.',
     'Name the rites, then explain the equality the white garments symbolise.',
     '## The Five Pillars');
@@ -139,13 +139,14 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
   const pr = [['Fajr', 'dawn', 0.04], ['Zuhr', 'midday', 0.5], ['Asr', 'afternoon', 0.72], ['Maghrib', 'sunset', 0.96], ['Isha', 'night', 1.18]];
   const X = (f) => 90 + f * 600, Y = (f) => 330 - Math.sin(Math.max(0, Math.min(1, f)) * Math.PI) * 170;
   let b = `<rect x="30" y="110" width="840" height="270" rx="14" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2.5"/>`;
-  b += `<line x1="50" y1="330" x2="850" y2="330" stroke="${C.ink}" stroke-width="3"/>` + t(846, 352, 'horizon', { size: 15, anchor: 'end', fill: C.muted, italic: true });
+  b += `<line x1="50" y1="330" x2="850" y2="330" stroke="${C.ink}" stroke-width="3"/>`;
   let d = ''; for (let k = 0; k <= 40; k++) { const f = k / 40; d += (k ? ' L' : 'M') + X(f).toFixed(1) + ',' + Y(f).toFixed(1); }
   b += path(d, { stroke: C.mustard, w: 3, extra: 'stroke-dasharray="8 7"' });
   pr.forEach(([n, w, f]) => {
     const x = X(f), y = f > 1 ? 300 : Y(f);
     b += `<circle cx="${x}" cy="${y}" r="13" fill="${f > 1 ? C.ink : C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>`;
-    b += t(x, y - 24, n, { size: 19, weight: 700, anchor: 'middle' }) + t(x, 362, w, { size: 16, anchor: 'middle', fill: C.muted });
+    const side = n === 'Fajr' ? -1 : n === 'Maghrib' ? 1 : 0;
+    b += (side ? t(x + side * 20, y - 14, n, { size: 19, weight: 700, anchor: side < 0 ? 'end' : 'start' }) : t(x, y - 24, n, { size: 19, weight: 700, anchor: 'middle' })) + t(x, 362, w, { size: 16, anchor: 'middle', fill: C.muted });
   });
   const facts = [['Qiblah', 'face the direction of the Ka\'bah in Makkah'], ['Rak\'ahs', 'sequences of movements and recitations'], ['Wudu', 'required before Salah']];
   facts.forEach(([h, s], i) => { const x = 30 + i * 284; b += card(x, 400, 272, 96, { head: h, body: s, headSize: 19, size: 16, fill: C.tealLight, edge: C.tealDark, bodyFill: C.ink }); });
@@ -160,19 +161,15 @@ const chip = (x, y, w, h, label, { fill = C.tealLight, edge = C.tealDark, size =
 
 // 06 The two Eids
 {
-  const col = (x, h, when, items, f, e) => {
-    let s = rect(x, 112, 410, 290, C.panel, e, 3, 14) + rect(x, 112, 410, 84, f, e, 3, 14) + t(x + 205, 148, h, { size: 25, weight: 700, anchor: 'middle' }) + t(x + 205, 178, when, { size: 17, anchor: 'middle', fill: e === C.mustard ? C.olive : C.tealDark, weight: 600 });
-    let y = 234;
-    items.forEach((it) => { s += `<circle cx="${x + 28}" cy="${y - 6}" r="5" fill="${e}"/>` + para(x + 42, y, it, 350, { size: 17 }, 22); y += nl(it, 17, 350) * 22 + 14; });
-    return s;
-  };
-  let b = col(30, 'Eid-ul-Fitr', 'marks the end of Ramadan', ['Zakat-ul-fitr is given before the prayer'], C.cream, C.mustard) +
-    col(460, 'Eid-ul-Adha', 'falls during Hajj', ['Commemorates Ibrahim\'s willingness to sacrifice his son', 'Qurbani meat traditionally shared in three parts'], C.tealLight, C.tealDark);
-  const parts = ['family', 'relatives', 'the poor'];
-  parts.forEach((p2, i) => { b += rect(484 + i * 122, 336, 114, 46, C.tealLight, C.tealDark, 2, 10) + t(541 + i * 122, 365, p2, { size: 16, weight: 700, anchor: 'middle' }); });
-  b += rect(30, 422, 840, 60, C.panel, C.panelEdge, 2.5, 14) + t(450, 459, 'A common mistake is confusing the two Eids: link each to its occasion.', { size: 18, weight: 600, anchor: 'middle' });
+  let b = rect(30, 112, 840, 110, C.cream, C.mustard, 3, 14) + t(56, 152, 'Eid-ul-Fitr', { size: 25, weight: 700 }) + t(56, 184, 'marks the end of Ramadan', { size: 17, fill: C.olive, weight: 600 }) +
+    rect(390, 136, 456, 62, C.panel, C.mustard, 2, 12) + t(618, 174, 'Zakat-ul-fitr is given before the prayer', { size: 17, anchor: 'middle', weight: 600 });
+  b += rect(30, 242, 840, 210, C.tealLight, C.tealDark, 3, 14) + t(56, 282, 'Eid-ul-Adha', { size: 25, weight: 700 }) + t(56, 314, 'falls during Hajj', { size: 17, fill: C.tealDark, weight: 600 }) +
+    rect(390, 266, 456, 62, C.panel, C.tealDark, 2, 12) + ctext(618, 297, 'Commemorates Ibrahim\'s willingness to sacrifice his son', 430, { size: 17, weight: 600 }, 21) +
+    t(390, 362, 'Qurbani meat traditionally shared in three parts:', { size: 16, fill: C.ink });
+  ['family', 'relatives', 'the poor'].forEach((p2, i) => { b += rect(390 + i * 156, 378, 144, 52, C.panel, C.tealDark, 2, 10) + t(462 + i * 156, 410, p2, { size: 17, weight: 700, anchor: 'middle' }); });
+  b += rect(30, 472, 840, 60, C.panel, C.panelEdge, 2.5, 14) + t(450, 509, 'A common mistake is confusing the two Eids: link each to its occasion.', { size: 18, weight: 600, anchor: 'middle' });
   add('06-the-two-eids',
-    svg(900, 506, 'The two Eids', b),
+    svg(900, 556, 'The two Eids', b),
     'Eid-ul-Fitr marks the end of Ramadan, with zakat-ul-fitr given before the prayer. Eid-ul-Adha falls during Hajj, commemorates Ibrahim\'s willingness to sacrifice his son, and its qurbani meat is shared in three parts: family, relatives and the poor.',
     'Fitr ends Ramadan; Adha falls during Hajj and recalls Ibrahim.',
     '## Worship, festivals and daily life');

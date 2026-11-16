@@ -113,7 +113,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
     ['Nomadic herding, semi-arid region', ['Extensive', 'Subsistence', 'Pastoral']],
   ];
   const fill = { Intensive: C.tealDark, Extensive: C.tealLight, Commercial: C.mustard, Subsistence: C.cream, Arable: '#a9c48f', Pastoral: C.rock };
-  const heads = [['Intensive or extensive?', 'inputs and output per hectare'], ['Commercial or subsistence?', 'sold, or feeds the family'], ['Arable, pastoral or mixed?', 'crops, animals or both']];
+  const heads = [['Intensive or extensive?', 'inputs per hectare'], ['Commercial or subsistence?', 'sold, or fed to family'], ['Arable, pastoral or mixed?', 'crops, animals, both']];
   let s = '';
   heads.forEach(([a, b], i) => { const x = 315 + i * 182; s += t(x + 80, 128, a.split(' or ')[0] + ' or', { size: 15.5, weight: 700, anchor: 'middle' }) + t(x + 80, 148, a.split(' or ').slice(1).join(' or '), { size: 15.5, weight: 700, anchor: 'middle' }) + t(x + 80, 170, b, { size: 14, anchor: 'middle', fill: C.muted }); });
   farms.forEach(([f, tags], j) => {
@@ -160,7 +160,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   let s = card(30, 115, 410, 380, 'Natural', null, { fill: C.tealLight, edge: C.tealDark, ts: 21, tfill: C.tealDark });
   [['Drought', 'crops fail; animals die'], ['Floods and tropical storms', 'crops destroyed, soil washed away'], ['Pests and diseases', 'e.g. desert locusts strip crops']].forEach(([a, b], i) => { s += card(50, 170 + i * 104, 370, 90, a, b, { ts: 17.5, bs: 15.5 }); });
   s += card(460, 115, 410, 380, 'Economic and political', null, { fill: '#f6e6dc', edge: C.rust, ts: 21, tfill: C.rust });
-  [['Low capital investment', 'no fertiliser, seed, irrigation, storage'], ['Poor transport, distribution', 'food cannot reach areas of need'], ['Conflict', 'farmers flee; markets close; aid blocked'], ['Other human factors', 'rising population, degraded land, cash crops']].forEach(([a, b], i) => { s += card(480, 165 + i * 80, 370, 72, a, b, { ts: 16.5, bs: 15, pad: 14 }); });
+  [['Low capital investment', 'no fertiliser, seed, irrigation, storage'], ['Poor transport, distribution', 'food cannot reach areas of need'], ['Conflict', 'farmers flee; markets close; aid blocked'], ['Other human factors', 'more people, degraded land, cash crops']].forEach(([a, b], i) => { s += card(480, 165 + i * 80, 370, 72, a, b, { ts: 16.5, bs: 15, pad: 14 }); });
   s += arrow(235, 500, 360, 540, { w: 4 }) + arrow(665, 500, 540, 540, { w: 4 });
   s += rrect(250, 545, 400, 60, C.ink, C.ink, 2.5, 14) + t(450, 584, 'FOOD SHORTAGE', { size: 22, weight: 700, anchor: 'middle', fill: '#ffffff' });
   s += t(450, 640, '“Lack of food” is the result, not a cause.', { size: 17, anchor: 'middle', fill: C.muted, italic: true });
