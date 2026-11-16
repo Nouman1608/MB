@@ -67,6 +67,11 @@ research*:
 Quantitative data suits measuring patterns and testing hypotheses; qualitative data suits
 understanding meanings. Many studies combine both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--01-types-of-data.webp" width="900" height="646" alt="A two-by-two grid. Primary quantitative: questionnaires, structured interviews, experiments. Primary qualitative: unstructured interviews, participant observation. Secondary quantitative: official statistics, existing survey data. Secondary qualitative: diaries, letters, social media posts, news articles." loading="lazy">
+  <figcaption>Any data is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
 ## How useful are secondary sources?
 
 - **Official statistics** are cheap, large-scale and allow comparison over time, but they reflect
@@ -81,6 +86,11 @@ understanding meanings. Many studies combine both.
 - **Media sources** reveal how issues are framed but tell you about the media's agenda as much as
   about the event; the Glasgow University Media Group's *Bad News* (1976) used content analysis of
   television news to show this.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--02-secondary-sources.webp" width="900" height="576" alt="Four secondary sources with a strength and a limitation each: official statistics are cheap and comparable but socially constructed; personal documents are rich but unrepresentative; digital content is plentiful but raises authenticity and consent issues; media sources show framing but reflect the media’s agenda." loading="lazy">
+  <figcaption>Every secondary source trades convenience against questions of construction and representativeness.</figcaption>
+</figure>
 
 ## What are the strengths and limitations of quantitative methods?
 
@@ -109,6 +119,16 @@ understanding meanings. Many studies combine both.
 - **Group interviews** — reveal how views are formed in interaction, but dominant voices and peer
   pressure can distort answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--03-observation-types.webp" width="900" height="476" alt="Three types of observation along a line of increasing involvement: non-participant observation has less risk of going native but less insight; overt participant observation is ethical but people may change their behaviour; covert participant observation gives access and natural behaviour but involves deception and risk." loading="lazy">
+  <figcaption>More involvement brings more insight, and more ethical risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--04-interview-continuum.webp" width="900" height="585" alt="Interviews on a continuum from structured, which are more comparable and reliable, through semi-structured, to unstructured, which give more depth and validity but take time and use small samples. Group interviews show views forming in interaction." loading="lazy">
+  <figcaption>The less structured the interview, the more depth it gains and the less comparable it becomes.</figcaption>
+</figure>
+
 ## What are the stages of research design?
 
 1. **Research strategy** — deciding the overall approach (survey, case study, ethnography).
@@ -125,6 +145,11 @@ understanding meanings. Many studies combine both.
 In an exam, linking each stage to a concept from 2.3 (a pilot study improves validity; a
 stratified sample improves representativeness) is what lifts a description into analysis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--05-research-design-stages.webp" width="900" height="745" alt="Eight stages in order: research strategy, research questions and hypotheses, operationalisation, sampling frame, sampling technique, pilot study, conducting research and interpreting results." loading="lazy">
+  <figcaption>Research design runs from choosing a strategy to interpreting results.</figcaption>
+</figure>
+
 ## What influences a sociologist's choice of topic and method?
 
 **Theoretical factors** — positivists prefer reliable, quantitative methods; interpretivists prefer
@@ -132,6 +157,11 @@ valid, qualitative ones. **Practical factors** — time, cost, access, the resea
 personal characteristics. **Ethical factors** — informed consent, confidentiality, avoiding harm,
 deception and the vulnerability of participants (children, prisoners). Choice of *topic* is also
 shaped by values, funding and what is fashionable or newsworthy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--06-tpe-factors.webp" width="900" height="599" alt="Theoretical factors (positivist or interpretivist preferences), practical factors (time, cost, access, skills) and ethical factors (consent, confidentiality, harm, vulnerable participants) all feed into the choice of topic and method." loading="lazy">
+  <figcaption>Theory, practicalities and ethics together shape how research is done.</figcaption>
+</figure>
 
 ## How can research be biased?
 
@@ -155,6 +185,11 @@ design and conduct**:
 | **Objectivity** | Freedom from the researcher's own values | Standardised methods (though contested) |
 | **Representativeness** | Is the sample typical of the wider population? | Large, randomly or stratified-sampled surveys |
 | **Ethics** | Is the research morally acceptable? | Overt methods with informed consent |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--07-reliability-validity.webp" width="900" height="651" alt="Quantitative methods such as questionnaires, structured interviews, official statistics and large sampled surveys score higher on reliability and representativeness; qualitative methods such as unstructured interviews and participant observation score higher on validity. Objectivity and ethics are noted below." loading="lazy">
+  <figcaption>Methods tend to gain reliability or validity, rarely both.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

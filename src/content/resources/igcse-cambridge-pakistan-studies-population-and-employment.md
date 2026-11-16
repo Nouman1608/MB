@@ -77,6 +77,16 @@ the middle widens as large younger groups grow up.
 health care and food, and a fast-growing labour force that needs jobs. If those jobs are created, a
 large working-age population can boost output; if not, unemployment rises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--01-population-pyramid.webp" width="900" height="682" alt="A schematic population pyramid with a wide base and narrow top: a large share of people under 15 and a small share over 65. A dashed outline of an earlier shape shows the base beginning to narrow as birth rates fall while the middle widens." loading="lazy">
+  <figcaption>A wide base means a high birth rate; a slightly narrowing base shows birth rates starting to fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--02-young-population-futures.webp" width="900" height="416" alt="A young population brings high dependency and a fast-growing labour force. The chart splits: if jobs are created, the large working-age population can boost output; if not, unemployment rises." loading="lazy">
+  <figcaption>A young population is an opportunity only if enough jobs are created.</figcaption>
+</figure>
+
 ## Why is Pakistan's population growing quickly?
 
 The 2023 census recorded about 241 million people, among the largest populations in the world, with
@@ -93,6 +103,11 @@ a rapid growth rate. Natural increase is the birth rate minus the death rate.
 **Problems:** pressure on food, water, housing, schools, hospitals and jobs; growth of slums;
 environmental damage. **Solutions:** female education, family planning services, better health
 care to reduce infant deaths, and economic development that reduces the need for large families.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--03-growth-factors.webp" width="900" height="697" alt="Natural increase is the birth rate minus the death rate. Five factors (social, educational, economic, political and health) feed rapid population growth, which leads to problems such as pressure on services and slums, and to solutions such as female education, family planning and better health care." loading="lazy">
+  <figcaption>High birth rates and a falling death rate together drive rapid growth.</figcaption>
+</figure>
 
 ## Why do people migrate, and what are the effects?
 
@@ -115,6 +130,16 @@ as the Orangi Pilot Project in Karachi; provision of standpipes, clean water and
 upgrading katchi abadis rather than demolishing them. Evaluate them: upgrading can encourage more
 migration, and poorly planned schemes may still leave bad housing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--04-push-pull-migration.webp" width="900" height="651" alt="Rural push factors (few jobs, low wages, landlessness, poor services, floods) and urban pull factors (jobs, schools, hospitals, bright lights) send migrants from the countryside to the city, while remittances flow back. A table gives push and pull factors for seasonal migration, emigration and immigration including refugees." loading="lazy">
+  <figcaption>Migration happens when push factors at home meet pull factors elsewhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--05-migration-effects-solutions.webp" width="900" height="634" alt="Effects in cities include katchi abadis with poor housing and little clean water, congestion, pollution and tent cities; effects in rural areas include depopulation and loss of young workers but income from remittances. Solutions are self-help schemes such as the Orangi Pilot Project in Karachi, standpipes and services, and upgrading katchi abadis, with a warning that upgrading can attract more migrants." loading="lazy">
+  <figcaption>Upgrading and self-help improve katchi abadis but can attract further migration.</figcaption>
+</figure>
+
 ## What is the difference between distribution and density?
 
 **Distribution** is the pattern of where people live. **Density** is the number of people per
@@ -127,6 +152,11 @@ and Lahore and in fertile river valleys, and low in mountains and deserts.
 extreme cold); economic (jobs, industry, irrigation, trade); social (services, family ties);
 political (capital city functions, government investment, security).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--06-distribution-density.webp" width="900" height="801" alt="Distribution is the pattern of where people live; density is people per square kilometre. A schematic compares Punjab, with the largest share of population and high density, with Balochistan, the largest province by area with very low density. A table lists physical, economic, social and political factors." loading="lazy">
+  <figcaption>Balochistan has the most land but the fewest people; Punjab the reverse.</figcaption>
+</figure>
+
 ## How is the workforce employed?
 
 - **Primary** occupations (farming, fishing, mining) still employ the largest single share of workers, though the share is falling.
@@ -138,6 +168,11 @@ farm labourers idle outside the planting and harvest seasons, or street vendors 
 little. Both reduce GNP and GDP because people produce less than they could. Pakistan has plenty
 of **manual labour** but a shortage of **skilled labour**, so raising literacy, technical training
 and female education is central to development.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-population-and-employment--07-workforce.webp" width="900" height="658" alt="Three cards: primary occupations still employ the largest share but it is falling; secondary occupations have grown with industry; tertiary occupations are growing fastest in the cities. Below, unemployment (no job) is compared with underemployment (not enough work), both of which reduce GNP and GDP." loading="lazy">
+  <figcaption>Work is shifting from farming to services, but too little work holds back GNP and GDP.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -44,6 +44,11 @@ understanding exactly what is assessed here (and what carries the
 individual mark versus the team mark) important for planning when to
 sit each component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--01-weighting-and-evidence.webp" width="900" height="501" alt="A bar shows the three components: Written Exam 35%, Individual Report 30%, Team Project 35%. Below, the Team Project produces two shared pieces of evidence, the Explanation of Research and Planning and the Evidence of Action, and one individual Reflective Paper per candidate." loading="lazy">
+  <figcaption>The Team Project is joint-largest with the Written Exam and mixes team and individual evidence.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE GLOBAL PERSPECTIVES 0457 — COMPONENT 3: TEAM PROJECT (70 marks)**
@@ -74,6 +79,11 @@ worth should read it as 25 marks across four tables, not as the 15
 marks (Explanation of Research and Planning + Evidence of Action)
 those two documents carry on their own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--02-mark-structure.webp" width="900" height="718" alt="A tree splits the 70 marks into the Team Element (25: Explanation of Research and Planning 10, Evidence of Action 5, collaboration 5 for the whole team and 5 individual) and the Personal Element (45: evaluation of action and teamwork 10, reflection on learning 15, reflection on teamwork 10, communication 10)." loading="lazy">
+  <figcaption>Only 25 marks are shared; 50 of the 70 marks are individual.</figcaption>
+</figure>
+
 ## How the Team Project actually runs
 
 The team selects a topic from the syllabus topic list and identifies a
@@ -92,6 +102,16 @@ minutes maximum), presentations or event photographs. Evidence of
 Action must show what the team actually *did*, not evidence of research
 or planning meetings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--03-project-process.webp" width="900" height="783" alt="Five numbered steps: choose a topic and local issue, research different aspects, decide on a course of action, carry out the action, and measure its success. Below, the Explanation of Research and Planning grows in three stages: topic and issue, plan and roles, then a review of changes." loading="lazy">
+  <figcaption>Research is shared out, the action is agreed together, and the planning document grows as the project runs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--04-evidence-of-action.webp" width="900" height="538" alt="Ticked list of acceptable forms of Evidence of Action: posters, leaflets, web pages, videos of up to 10 minutes, presentations and event photographs. A separate panel marks evidence of research or planning meetings as not counting." loading="lazy">
+  <figcaption>Evidence of Action must show the action itself, in any suitable form.</figcaption>
+</figure>
+
 ## Word and time limits that cost marks if ignored
 
 - The **Explanation of Research and Planning** is 300–400 words; if a
@@ -105,6 +125,11 @@ or planning meetings.
 
 These are hard caps, not guidance — a strong Reflective Paper that runs
 to 1400 words will only ever be marked on its first 1000.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--05-hard-caps.webp" width="900" height="752" alt="Three length scales. Explanation of Research and Planning: 300 to 400 words, nothing after 400 marked. Evidence of Action video: nothing after 10 minutes marked. Reflective Paper: 750 to 1000 words, nothing after 1000 marked, so a 1400-word paper is marked only on its first 1000." loading="lazy">
+  <figcaption>Anything past the cap earns nothing.</figcaption>
+</figure>
 
 ## The Reflective Paper (Personal Element, 45 marks)
 
@@ -121,6 +146,11 @@ Paper is where an individual candidate's grade is most directly
 determined, and it is worth nearly two-thirds of the component's total
 marks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--06-reflective-paper.webp" width="900" height="525" alt="Three parts of the Reflective Paper: summarise your research findings and how the team used them; reflect on what you learned about the issue, teamwork and yourself; evaluate the action and your own collaboration. Facts: 750 to 1000 words of continuous text, usually first person, sub-headings allowed, worth 45 of the 70 marks." loading="lazy">
+  <figcaption>The Reflective Paper is where an individual grade is mostly decided.</figcaption>
+</figure>
+
 ## Collaboration (10 marks, part of the Team Element)
 
 Collaboration is one sub-strand of the 25-mark Team Element, not a
@@ -135,6 +165,11 @@ collaboration mark, but individual collaboration marks can — and often
 do — vary within the same team, so a candidate who contributes little
 to the actual collaborative process can lose marks here even if the
 team's overall project is strong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-team-project--07-collaboration.webp" width="900" height="543" alt="Seven observed behaviours around a central Collaboration hub: clear communication, sharing ideas, agreeing targets and deadlines, solving problems, flexibility, dividing tasks and recognising contributions, and giving and asking for support. Collaboration is 10 marks: 5 for the whole team and 5 individual." loading="lazy">
+  <figcaption>Collaboration is observed, not automatic, and half of it is marked individually.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -72,6 +72,16 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 
 **Worked paragraph.** *Knowledge*: Augé argued that supermodern societies create non-places, spaces people pass through without forming bonds. *Application*: in a fast-growing city such as Dubai, a large share of daily life happens in malls, metro stations and the airport. *Analysis*: this suggests urbanisation can weaken community, because shared memory is replaced by contractual, anonymous contact. *Evaluation*: however, workers who spend every day in an airport or mall may form strong relationships there, so a "non-place" for a traveller can be a place for staff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--01-urban-forms.webp" width="900" height="568" alt="Six features of city life: slums and informal housing, suburbia, segregation, gated communities, megacities of over 10 million people, and Augé’s non-places such as airports and malls." loading="lazy">
+  <figcaption>Cities divide space by wealth, group and function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--02-demographic-transition.webp" width="900" height="745" alt="A schematic of four stages: high birth and death rates; falling death rates with high birth rates, giving rapid growth; falling birth rates; and low birth and death rates. Criticisms are listed beneath." loading="lazy">
+  <figcaption>The gap between falling death rates and falling birth rates drives population growth.</figcaption>
+</figure>
+
 ## 3.2.2.2 Ideas about nature, time and consumption
 
 **Views of people and the natural world:**
@@ -91,6 +101,11 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 
 **Worked paragraph.** *Knowledge*: romanticism treats nature as a pure space to be experienced. *Application*: in Pakistan's northern valleys, images of untouched mountains on social media draw large numbers of domestic tourists. *Analysis*: this shows how a romantic view can produce the damage it values, through traffic, litter and hotel building. *Evaluation*: on the other hand, tourism income can fund protection, so the outcome depends on regulation rather than on the view of nature alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--03-views-of-nature.webp" width="900" height="581" alt="Four views of the natural world: exploitation for human use, romanticism, conservation and media representations, with the Brundtland definition of sustainable development beneath." loading="lazy">
+  <figcaption>How people see nature shapes how they use it.</figcaption>
+</figure>
+
 ## 3.2.2.2 Environmental problems and the climate crisis
 
 **Pollution**: air (traffic, industry, crop burning), land (landfill, toxic dumping) and water (sewage, chemicals). **Plastics** persist for centuries and break into microplastics. **E-waste** is often shipped to poorer countries for informal recycling, exposing workers to toxic fumes.
@@ -109,6 +124,11 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 
 **Worked paragraph.** *Knowledge*: Hannigan argues an issue needs scientific authority, media attention and an institutional sponsor. *Application*: a campaign about smog in a city can use air-quality readings, images of children in masks and support from a court or ministry. *Analysis*: this explains why smog becomes a seasonal headline, while slower problems such as soil loss stay hidden. *Evaluation*: but construction is not the whole story, because smog is physically visible and harms health whether or not it is claimed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--04-hannigan-claims.webp" width="900" height="583" alt="Hannigan’s six factors that turn a real environmental problem into a public issue: scientific authority, popularisers, media attention, dramatic symbols, economic incentives and an institutional sponsor." loading="lazy">
+  <figcaption>Environmental problems are real, but they must be claimed to become public issues.</figcaption>
+</figure>
+
 ## 3.2.2.2 Sociological views and environmental justice
 
 **Ecological modernisation theory (EMT)**, associated with Arthur Mol and Gert Spaargaren, argues that capitalism can become greener through technology, regulation and market incentives, so growth and environmental protection can go together. *Strength*: falling renewable energy costs support it. *Limitation*: efficiency gains are often outweighed by rising total consumption, and dirty production may simply move to poorer countries.
@@ -120,6 +140,16 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 **Environmental and climate justice.** Robert Bullard, called the "father of environmental justice", was an expert witness in the 1979 Houston lawsuit *Bean v. Southwestern Waste Management*; his research showed that the city's waste sites were placed mainly in Black neighbourhoods. His book *Dumping in Dixie* (1990) linked race, class and environmental harm. **Climate justice** asks who caused climate change, who pays and who suffers; the loss and damage fund agreed at COP27 (2022) is one response.
 
 **Worked paragraph.** *Knowledge*: Bullard showed that hazardous sites cluster where people have least political power. *Application*: in many South Asian cities, tanneries and brick kilns sit beside informal settlements rather than wealthy suburbs. *Analysis*: this supports green Marxist views that costs are pushed onto those with least power. *Evaluation*: however, EMT supporters would note that stricter regulation can relocate or clean such industries, so the pattern is not fixed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--05-emt-green-marxism.webp" width="900" height="580" alt="Ecological modernisation theory argues capitalism can become greener through technology and regulation; green Marxism argues profit and growth drive damage, through Foster’s metabolic rift and Schnaiberg’s treadmill of production." loading="lazy">
+  <figcaption>The two theories disagree on whether capitalism can be sustainable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--06-environmental-justice.webp" width="900" height="496" alt="Richer countries and people produce far more emissions per head, while poorer countries and people suffer first and worst. Bullard’s Houston research and Dumping in Dixie lead to the idea of climate justice and the COP27 loss and damage fund." loading="lazy">
+  <figcaption>Those who cause least environmental harm often bear most of its costs.</figcaption>
+</figure>
 
 ## 3.2.2.3 People and animals
 
@@ -140,6 +170,16 @@ The specification prints: exam 1 hour 30 minutes; 50 marks; 20% of the Internati
 **Biotechnology and genomics** include genetically modified animals and gene editing. **Animal experimentation** is defended for medical progress and challenged by rights theorists; the "3Rs" (replace, reduce, refine) guide much regulation.
 
 **Worked paragraph.** *Knowledge*: rewilding returns land to natural processes and may reintroduce lost species. *Application*: the return of wolves to Yellowstone changed grazing patterns. *Analysis*: this shows biodiversity loss can be partly reversed when land is set aside. *Evaluation*: but farmers often bear the costs through lost livestock, so rewilding raises justice questions about whose land and livelihoods pay for conservation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--07-columbian-exchange.webp" width="900" height="503" alt="Two-way arrows between Afro-Eurasia and the Americas after 1492: horses, cattle and smallpox travelled to the Americas; maize, potatoes and turkeys travelled to Afro-Eurasia." loading="lazy">
+  <figcaption>After 1492 plants, animals and diseases crossed the Atlantic in both directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--08-welfare-rights.webp" width="900" height="506" alt="Animal welfare accepts human use but seeks to reduce suffering, as with the 3Rs; animal rights, from Regan, rejects use itself. Singer argued animal suffering counts morally, against anthropocentrism." loading="lazy">
+  <figcaption>Welfare reduces suffering; rights end use.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -38,6 +38,11 @@ This guide covers **Theme 1, Evolving Pakistani society (پاکستانی معا
 
 Theme 1 is one of the content themes that run across the qualification. As the [Paper 1 study guide](/resources/a-level-edexcel-urdu-translation-and-reading/) explains, the independent research task is based on one research subject, and for Themes 1, 3 and 4 your research must concern Pakistan. Theme 1 material also feeds reading, listening and speaking-style practice, and the [Paper 3 study guide](/resources/a-level-edexcel-urdu-listening-reading-writing/) shows how sources on a sub-theme are summarised and evaluated. Learning the theme in Urdu, not through English notes alone, is what makes the vocabulary available when you need it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--01-theme-1-map.webp" width="900" height="550" alt="Theme 1, پاکستانی معاشرے کا ارتقا (Evolving Pakistani society), has three sub-themes: family (خاندان), work (کام) and equal access to education (تعلیم), the last being the research subject, which must concern Pakistan." loading="lazy">
+  <figcaption>Three sub-themes; equal access to education is the research subject.</figcaption>
+</figure>
+
 ## Sub-theme 1.1: family (خاندان)
 
 Key ideas to be able to discuss in Urdu:
@@ -62,6 +67,11 @@ Useful vocabulary:
 
 A balanced position is usually the strongest: joint families offer support and shared costs, while smaller households offer privacy and independence. You can argue that society is changing without presenting either form as simply right or wrong.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--02-family-structures.webp" width="900" height="630" alt="The joint family system (مشترکہ خاندانی نظام) offers support and shared costs; the separate or smaller household (الگ گھرانا / چھوٹا خاندان) offers privacy and independence. A balanced position is strongest. Key words: بزرگ, رشتے دار, شادی, ذمہ داری, روایت, نسل, دیکھ بھال." loading="lazy">
+  <figcaption>Weigh both family forms rather than calling either simply right.</figcaption>
+</figure>
+
 ## Sub-theme 1.2: work (کام)
 
 Ideas to cover:
@@ -81,6 +91,11 @@ Ideas to cover:
 | دفتر | office |
 | کاروبار | business |
 | ترقی | progress, promotion |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--03-work-strands.webp" width="900" height="630" alt="Four strands of the work sub-theme: types of work, women’s employment (خواتین کی ملازمت), unemployment (بے روزگاری) and the role of skills, and technology and freelancing. Key words include روزگار, ملازمت, تنخواہ, مزدور, ہنر, دفتر, کاروبار and ترقی." loading="lazy">
+  <figcaption>Types of work, women’s employment, unemployment and technology.</figcaption>
+</figure>
 
 ## Sub-theme 1.3: equal access to education (تعلیم)
 
@@ -105,6 +120,11 @@ Keep a research file with named sources, dates and figures you have checked for 
 | دیہی / شہری | rural / urban |
 | نصاب | curriculum |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--04-education-research-map.webp" width="900" height="744" alt="Six lines of enquiry around equal access to education (مساوی مواقع) in Pakistan: girls and boys (صنفی امتیاز), rural and urban (دیہی / شہری), public and private schools (سرکاری / نجی), language of instruction, barriers such as poverty and distance, and Article 25A, added in 2010." loading="lazy">
+  <figcaption>Compare access across gender, place, school type and language, with checked sources.</figcaption>
+</figure>
+
 ## Worked example: a model paragraph, with annotation
 
 Task: write a short opinion on how family life in Pakistan is changing.
@@ -117,6 +137,11 @@ What makes it work:
 - **Ergative construction**: جوڑوں نے الگ گھر بنا لیے ہیں uses نے with a transitive perfective verb, and the verb agrees with the object (گھر, masculine plural here), not with the subject.
 - **Connectives**: لیکن, مگر, اس تبدیلی کا, میری رائے میں give the paragraph a clear line of argument.
 - **Agreement**: مشکل ہو گئی ہے agrees with the feminine noun دیکھ بھال.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--05-model-paragraph-anatomy.webp" width="900" height="866" alt="The four sentences of the model paragraph on changing family life: a statement of the change, a then-and-now contrast with an ergative verb agreeing with گھر, a benefit and a cost with feminine agreement for دیکھ بھال, and a reasoned opinion." loading="lazy">
+  <figcaption>Change, contrast, benefit and cost, then a reasoned opinion.</figcaption>
+</figure>
 
 ## Useful connectives and phrases
 
@@ -132,6 +157,11 @@ Learn these as ready-made building blocks and practise using each in a sentence 
 | آخر میں | finally |
 
 Build each paragraph around one of these links so that your argument can be followed from the first sentence to the last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-1-study-guide--06-connectives.webp" width="900" height="512" alt="Six Urdu connectives with meanings: اس کے برعکس in contrast, اس کے علاوہ in addition, نتیجتاً as a result, میرے خیال میں in my opinion, ایک طرف ... دوسری طرف on one hand ... on the other, and آخر میں finally." loading="lazy">
+  <figcaption>Learn connectives as building blocks and use each in a sentence of your own.</figcaption>
+</figure>
 
 ## Common mistakes
 

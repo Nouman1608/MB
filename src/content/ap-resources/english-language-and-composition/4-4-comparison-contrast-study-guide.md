@@ -80,6 +80,11 @@ In the last row the comparison fails because one object is measured by reliabili
 
 The categories should also be **relevant to the claim**. A comparison of two schools' building colours says nothing about teaching quality. A good comparison sets up a category that does real work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--01-like-categories.webp" width="900" height="482" alt="A table comparing a bus and a bicycle. Cost per journey and time for a 5 km journey use like categories and are ticked. The reliability row is crossed because the bus is measured on reliability and the bicycle on fun." loading="lazy">
+  <figcaption>Every object must be measured on the same, relevant category.</figcaption>
+</figure>
+
 ## Two ways to organise
 
 **Point-by-point (alternating).** The writer takes one category at a time and shows both objects: "On cost... A is..., B is...; on time... A is..., B is..." The reader sees the objects side by side and the structure makes the like categories obvious.
@@ -91,6 +96,11 @@ The categories should also be **relevant to the claim**. A comparison of two sch
 | Best for | Close comparison on a few categories | Complex objects needing description before comparison |
 | Risk | Can feel choppy if there are many categories | Reader forgets the first block; categories may drift |
 | Tip | Use transitions that name the category | Repeat the same categories in the same order in both blocks |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--02-point-by-point-vs-block.webp" width="900" height="478" alt="Two layouts. Point-by-point alternates A and B within each category (cost, time, safety). Block covers all of A, then all of B, in the same categories and order. Below, what each suits, its risk and a tip." loading="lazy">
+  <figcaption>Alternate for close comparison; use blocks for complex objects, keeping the categories in the same order.</figcaption>
+</figure>
 
 ## Comparison must lead to a claim
 
@@ -105,6 +115,11 @@ Frederick Douglass, speaking at Rochester on 5 July 1852, builds a contrast out 
 (Frederick Douglass, "What to the Slave Is the Fourth of July?", 1852)
 
 The objects of comparison are "you" (his white audience) and "me" (the enslaved). The category is **the effect of the nation's freedom on each**. The contrast is made sharper by the parallel structure: "life and healing" is set against "stripes and death", so each side of the comparison corresponds in grammar and in the kind of thing compared (effects on bodies).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--03-douglass-contrast.webp" width="900" height="562" alt="Douglass’s sentence sets one category, the effect of the nation’s freedom, against two objects: for “you”, his white audience, life and healing; for “me”, the enslaved, stripes and death. Parallel structure makes the two sides match." loading="lazy">
+  <figcaption>A single like category, in parallel grammar, makes the contrast sharp.</figcaption>
+</figure>
 
 ## Worked example 1: building a comparison with like categories
 
@@ -132,6 +147,11 @@ The objects of comparison are "you" (his white audience) and "me" (the enslaved)
 
 **Step 7: Check that the comparison leads to a claim.** The paragraph ends on what the comparison proves, not on a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--04-bus-lane-vs-cycle-track.webp" width="900" height="616" alt="Paired bars compare a bus lane and a cycle track on three like categories using the lesson’s invented figures: cost per km (£2.0 million against £0.6 million), peak capacity (4,000 against 5,000 people an hour) and injuries a year (6 against 2). A commentary sentence turns the comparison into a claim." loading="lazy">
+  <figcaption>A comparison is evidence; commentary still has to say what it proves.</figcaption>
+</figure>
+
 ## Worked example 2: describing what a comparison does in a text
 
 Read this passage (Marlbridge passage).
@@ -147,6 +167,11 @@ Read this passage (Marlbridge passage).
 **Step 4: Write the analysis sentence.** *The writer compares letters and text messages on a single category, the timing of revision, so that a difference in style that might look like a matter of technology is explained as a consequence of how each medium allows a writer to correct mistakes.*
 
 **Step 5: Check for like categories.** Both objects are compared on the same feature. The writer does not slip from timing to length or from timing to formality, which would blur the point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--05-letter-vs-text.webp" width="900" height="572" alt="A flow: a letter and a text message share a feature (both carry news), differ on one category (the letter is edited in advance, the text afterwards), and the difference explains a conclusion about style: letters read like speeches, texts like conversations." loading="lazy">
+  <figcaption>Shared feature, one difference, one conclusion: the comparison explains style.</figcaption>
+</figure>
 
 ## Common misconceptions
 
@@ -165,6 +190,11 @@ Read this passage (Marlbridge passage).
 | Like categories | Objects measured on different features | Mostly the same feature, with a slip | Every object measured on the same feature throughout |
 | Organisation | Mixed order; reader must hunt for the pairs | Mostly point by point or block, with drift | A consistent pattern with transitions that name the category |
 | Claim | The comparison ends as a list | A claim appears but is not tied to the evidence | The ending states what the comparison proves |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-4-comparison-contrast-study-guide--06-comparison-rubric.webp" width="900" height="434" alt="A self-assessment grid with four criteria, category, like categories, organisation and claim, each described at three levels: not yet, getting there and secure." loading="lazy">
+  <figcaption>Secure comparisons name a relevant category, keep it like for like, and end on a claim.</figcaption>
+</figure>
 
 ## Try it yourself
 

@@ -60,6 +60,11 @@ policy mattered -- for instance, not just that Abu Bakr fought the Wars of Apost
 holding the early Muslim community together mattered for the survival of Islam as a unified faith and
 political community after the Prophet's death.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--01-narrate-vs-explain.webp" width="900" height="434" alt="Two panels. Narrating states only that Abu Bakr fought the Ridda wars. Explaining adds why it mattered: he held the early community together, so Islam survived as a unified faith and political community after the Prophet's death." loading="lazy">
+  <figcaption>Marks come from saying why an event mattered, not just that it happened.</figcaption>
+</figure>
+
 ## Official syllabus
 
 Cambridge IGCSE Islamiyat (0493) syllabus, for examination in 2026-2027 --
@@ -79,6 +84,11 @@ culminated in his assassination. Ali ibn Abi Talib (ruled 656-661 CE) faced sign
 including the Battle of the Camel and the Battle of Siffin, during a period of civil strife (the First
 Fitna) that ultimately shaped the later Sunni-Shi'a division within Islam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
+  <figcaption>Four Caliphs in order, each with the events that define his rule.</figcaption>
+</figure>
+
 ## Achievements and difficulties: a comparative approach
 
 Exam questions on this subtopic often ask candidates to compare Caliphs or to weigh achievements against
@@ -93,6 +103,16 @@ consultation (shura), and the relationship between a ruler and the community -- 
 this subtopic to broader discussions of leadership found elsewhere in the syllabus, and one that
 candidates can draw on when asked to explain why this period continues to be regarded as significant
 today, not only in the seventh century.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--03-revision-triad.webp" width="900" height="594" alt="A three-slot revision card filled in for Abu Bakr: achievement, holding the community together; difficulty, the Ridda wars; and a linking sentence, that his firmness was critical to Islam's survival as a unified community. A note says to repeat it for the other three Caliphs." loading="lazy">
+  <figcaption>Prepare the same three slots for each Caliph so comparisons come easily.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--04-caliphs-as-models.webp" width="900" height="690" alt="The Rightly Guided Caliphate sits at the centre as a reference point for four themes: just governance, consultation (shura), the relationship between ruler and community, and relations with other states." loading="lazy">
+  <figcaption>Islamic political thought looks back to this period as a model of leadership.</figcaption>
+</figure>
 
 ## Worked example: structuring a significance answer
 
@@ -121,6 +141,11 @@ e.g. this reflects Umar's reputation for justice and practical
 governance, qualities Islamic tradition holds up as exemplary
 for leaders generally.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--05-significance-answer-steps.webp" width="900" height="612" alt="Four numbered steps with a worked example on Umar: state the action (the diwan and administrative systems), explain the problem it solved (governing a larger, more diverse state), explain its lasting significance (a model for later Islamic states) and connect it to leadership qualities (justice and practical governance)." loading="lazy">
+  <figcaption>Action, problem solved, lasting significance, leadership quality.</figcaption>
+</figure>
 
 ## Common mistakes
 

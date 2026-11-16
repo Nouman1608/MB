@@ -65,6 +65,11 @@ For a reader, the skill is to explain what a piece of evidence is *doing*. For a
 
 One piece of evidence can do more than one job. The skill is to say which job matters most **in context**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--01-six-jobs-of-evidence.webp" width="900" height="512" alt="Six cards name the jobs evidence can do, each with the lesson’s example: illustrate (the full bus shelter), clarify (compound interest as a snowball), set a mood (the high street’s hush), exemplify (the Corner Café), associate (closing a school or church) and amplify (not one shop but twelve)." loading="lazy">
+  <figcaption>Illustrate, clarify, set a mood, exemplify, associate, amplify: name the job in context.</figcaption>
+</figure>
+
 ## Strategy: match the evidence to the argument, the audience and the purpose
 
 A writer making a strategic choice usually weighs four things.
@@ -83,13 +88,28 @@ A writer making a strategic choice usually weighs four things.
 | Specialist readers; persuade them a method is flawed. | A controlled study and a named authority. | Experts trust methods and citations (credibility). |
 | Young readers; explain a complex idea. | A vivid analogy. | Clarifies without jargon. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--02-matching-evidence.webp" width="900" height="577" alt="Four audiences matched to evidence: a sceptical budget committee gets a costed comparison, neighbours at a meeting get a named local resident’s story, specialist readers get a controlled study and a named authority, and young readers get a vivid analogy. The writer weighs the claim, the audience, credibility and the purpose." loading="lazy">
+  <figcaption>The same claim calls for different evidence for different audiences and purposes.</figcaption>
+</figure>
+
 ## Credibility of the source
 
 Evidence is only as strong as its source. A writer who selects evidence strategically also chooses **reliable, relevant and recent sources**, and explains them where needed. "A study by the university's transport department found..." carries more weight than "I read somewhere that...". Credibility is not only the source's fame. Ask whether the source is **qualified** to speak on this question, **independent** of those who would gain from the conclusion, and **current**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--03-source-credibility.webp" width="900" height="430" alt="A named study by a university transport department is set against “I read somewhere that...”. Three questions test any source: is it qualified to speak on this question, independent of those who would gain, and current?" loading="lazy">
+  <figcaption>Choose reliable, relevant, recent sources and explain them where needed.</figcaption>
+</figure>
+
 ## Strategic selection versus cherry-picking
 
 Choosing evidence to support a claim is natural. Choosing **only** the evidence that suits, and hiding what does not, can mislead. A writer who is fair acknowledges evidence that cuts the other way and explains why it does not change the conclusion. That fairness builds credibility. On the exam, you may be asked whether a writer's selection is representative, or what effect an omission might have.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--04-cherry-picking.webp" width="900" height="476" alt="A pool of evidence holds items that support the claim and items that cut the other way. Cherry-picking shows only the supporting items and can mislead; fair selection acknowledges the counter-evidence and explains why it does not change the conclusion, which builds credibility." loading="lazy">
+  <figcaption>Fairness about inconvenient evidence makes a writer more credible, not less.</figcaption>
+</figure>
 
 ## A public-domain example: Lincoln's "house divided" (1858)
 
@@ -102,6 +122,11 @@ The first sentence is **evidence by analogy**. The image of a divided house is f
 - **Amplify:** the phrase "cannot stand" suggests total collapse, raising the stakes of the claim.
 
 Notice that the analogy comes first and the explicit claim follows. The familiar image prepares the audience to accept the statement that the Union cannot endure half slave and half free.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--05-house-divided-analogy.webp" width="900" height="589" alt="Lincoln’s analogy, “A house divided against itself cannot stand”, comes before his explicit claim that the government cannot endure half slave and half free. The analogy clarifies an abstract problem, associates the claim with the Gospels, and amplifies the stakes with “cannot stand”." loading="lazy">
+  <figcaption>A familiar image does several jobs and prepares the audience for the claim.</figcaption>
+</figure>
 
 ## Worked example 1: choosing evidence for an audience and purpose
 
@@ -128,6 +153,11 @@ Notice that the analogy comes first and the explicit claim follows. The familiar
 
 **Check.** The choice is linked to the audience's needs and values, and each piece has a named job. Choosing the photograph first because it is charming would ignore the audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--06-minibus-evidence-roles.webp" width="900" height="628" alt="For governors who value careful spending, the taxi cost comparison and the usage table are the main proof. A parent’s story works as an illustration placed after the figures, and a photograph of pupils laughing contributes little because it says nothing about need or cost." loading="lazy">
+  <figcaption>Lead with the evidence the audience needs; place the rest where it can still help.</figcaption>
+</figure>
+
 ## Worked example 2: explaining what evidence does
 
 **Task.** Read this passage, written by Marlbridge. Explain what the second sentence does for the argument.
@@ -142,6 +172,11 @@ Notice that the analogy comes first and the explicit claim follows. The familiar
 4. **Supports the claim's scope.** The mix of people (pensioners, job-seekers, a student) supports "every part of the town" by showing variety.
 
 **Check.** A weaker answer would say "it gives an example". A stronger answer names several jobs and links each to the claim and the audience. Note that the example is specific and counted, which also builds credibility: it sounds like someone who was there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-4-choosing-evidence-study-guide--07-library-sentence-jobs.webp" width="900" height="614" alt="The reading-room sentence sits in the centre with four jobs around it: it exemplifies who the library serves, illustrates and sets a mood through “within sight of the radiator”, appeals to care and community, and supports the claim that the cuts hurt every part of the town." loading="lazy">
+  <figcaption>A strong answer names several jobs and links each to the claim and audience.</figcaption>
+</figure>
 
 ## How the exam asks about strategic evidence
 

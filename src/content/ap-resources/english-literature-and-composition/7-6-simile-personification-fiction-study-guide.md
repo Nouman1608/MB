@@ -59,6 +59,11 @@ Writers use comparison to make a reader see something new. A plain statement say
 
 The course puts it carefully: **the function of a simile relies on the selection of the objects being compared as well as the traits of the objects**. In other words, the effect is not in "like" but in the **pair** and in **the particular trait that links them**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--01-pair-and-trait.webp" width="900" height="667" alt="Two overlapping circles: a voice and a cart on a gravel drive. The overlap holds the traits that link them: repetition, grinding and no arrival. The effect of a simile lies in the pair and the linking trait, not in the word &quot;like&quot;, and in what the comparison leaves out." loading="lazy">
+  <figcaption>The effect of a simile lies in the pair chosen and the trait that links them.</figcaption>
+</figure>
+
 ## Analysing a simile
 
 A **simile** compares two unlike things, usually with "like" or "as". Analyse it in five steps.
@@ -73,6 +78,11 @@ A **simile** compares two unlike things, usually with "like" or "as". Analyse it
 
 Pay attention to **what the comparison leaves out**. A "wafer" is not hot or bright, and that absence is part of the effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--02-five-steps-wafer.webp" width="900" height="708" alt="Crane's simile &quot;the red sun was pasted in the sky like a wafer&quot; analysed in five steps: the parts are the sun and a wafer; the traits are thinness, flatness, redness and being stuck on; the connotations are of a small mass-produced object; the attitude is detached and ironic; the function empties the scene of grandeur." loading="lazy">
+  <figcaption>Parts, trait, connotations, attitude, function: and notice what the comparison leaves out.</figcaption>
+</figure>
+
 ## Personification: two directions
 
 Personification works across the boundary between the human and the non-human. Two directions are worth knowing.
@@ -84,11 +94,21 @@ Personification works across the boundary between the human and the non-human. T
 
 The course's own wording for this skill stresses the second kind: **assigning the qualities of a nonhuman object, entity or idea to a person or character lets the narrator, character or speaker communicate an attitude about that person or character**. Both directions rest on the same question: what attitude does the writer reveal by crossing the line?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--03-personification-two-ways.webp" width="900" height="672" alt="A dashed line separates human and non-human. One arrow gives human qualities to things, as in &quot;the house sulked&quot; or &quot;the fog crept&quot;, giving them mood or will. The other gives non-human qualities to people, as in a man &quot;loaded to the muzzle with facts&quot;, which communicates an attitude about the person." loading="lazy">
+  <figcaption>Crossing the line between human and non-human reveals the writer's attitude.</figcaption>
+</figure>
+
 ## Public-domain examples to learn from
 
 **The Red Badge of Courage (Stephen Crane, 1895).** "The red sun was pasted in the sky like a wafer." The simile reduces the sun to a flat, mass-produced object. In a battle scene the diminished sun suggests a world stripped of grandeur and glory, and the detached tone shapes how the reader sees the war.
 
 **Hard Times (Charles Dickens, 1854).** In the description of Coketown, the steam-engine's piston "worked monotonously up and down, like the head of an elephant in a state of melancholy madness". The simile gives a machine the sadness of an animal, and the surprising pairing of "melancholy" with "madness" suggests a human cost in the industrial town. In the schoolroom scene, Mr Gradgrind is described as "a kind of cannon loaded to the muzzle with facts", and the children as "little vessels" ready to be filled. These comparisons give a person the qualities of a weapon and children the qualities of containers, which communicates the narrator's attitude to a system that treats minds as things.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--04-classic-comparisons.webp" width="900" height="483" alt="Table of four comparisons. Crane's sun &quot;pasted in the sky like a wafer&quot; strips a battle of grandeur. In Hard Times a piston is like a melancholy, mad elephant's head, Mr Gradgrind is a cannon loaded with facts, and the children are little vessels, showing a system that treats minds as things." loading="lazy">
+  <figcaption>Each comparison carries an attitude to what it describes.</figcaption>
+</figure>
 
 ## Worked example 1: analysing similes
 
@@ -117,6 +137,11 @@ The course's own wording for this skill stresses the second kind: **assigning th
 
 **A model sentence.** "By comparing Mr Fenn's voice to a cart on gravel that is 'always about to arrive' and his congregation to stones aware of each other 'only as a weight', the narrator reduces the service to noise without movement and conveys a weary, satirical view of both preacher and flock."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--05-fenn-two-similes.webp" width="900" height="713" alt="Two pairs of overlapping circles. Mr Fenn's voice and a cart on gravel share steadiness, loudness and grinding, and the cart is &quot;always about to arrive&quot;. The congregation and stones in a field share inertness and passivity. Together they show a loud, lifeless service and a weary, satirical narrator." loading="lazy">
+  <figcaption>The chosen traits, monotony and inertness, carry the narrator's amusement.</figcaption>
+</figure>
+
 ## Worked example 2: personification in both directions
 
 **Original passage written by Marlbridge for practice.**
@@ -133,6 +158,11 @@ The course's own wording for this skill stresses the second kind: **assigning th
 
 **A model sentence.** "By letting the house sulk like a person while Mrs Quill ticks down the passage like a clock, the narrator inverts the usual order of the household, and so conveys an affectionate but ironic view of a world governed by routine."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--06-house-and-mrs-quill.webp" width="900" height="643" alt="A frowning house in the rain beside a clock face. The house &quot;sulked&quot; and &quot;refused to notice the rain&quot;, given a human mood and will. Mrs Quill &quot;had been a handsome clock in her day&quot; and &quot;ticked down the passage&quot;, given a clock's regularity. Together they make an inverted household of moody objects and mechanical people." loading="lazy">
+  <figcaption>Personification in both directions turns the household upside down.</figcaption>
+</figure>
+
 ## Weak and strong comments side by side
 
 | Weak | Why it is weak | Strong |
@@ -140,6 +170,11 @@ The course's own wording for this skill stresses the second kind: **assigning th
 | "The simile paints a picture of the sun." | Vague; names no trait or effect | "Comparing the sun to a pasted wafer makes it flat, small and manufactured, so the scene loses its grandeur." |
 | "The house is personified." | Names a technique only | "By letting the house 'refuse' to notice the rain, the narrator gives it a stubborn will and sets a wry, gloomy mood." |
 | "The narrator compares the clerk to a stamp, which shows he is a clerk." | Restates the obvious and misses the attitude | "Describing the clerk as a rubber stamp reduces him to repetition and impersonality, which conveys the narrator's weary contempt for routine." |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-6-simile-personification-fiction-study-guide--07-weak-to-strong-comments.webp" width="900" height="624" alt="Three weak comments rebuilt into strong ones. Each strong comment names the pair (sun and wafer, house and a person who refuses, clerk and rubber stamp), the trait that links them, and the effect or attitude, such as lost grandeur, a wry gloomy mood or weary contempt for routine." loading="lazy">
+  <figcaption>A strong comment names the pair, the trait and the effect.</figcaption>
+</figure>
 
 ## Extended comparisons and related tools
 

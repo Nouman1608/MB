@@ -58,6 +58,11 @@ Students are expected to be familiar with sociological explanations of:
   justice system and other agencies** -- how society responds to crime once it has been defined and
   identified.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--01-paper-3-content-areas.webp" width="900" height="759" alt="Crime and Deviance (3.3.1) and Theory and Methods (3.3.2) combine into Paper 3, a single examination. The four content areas are social order and control, the social distribution of crime, crime at a global and institutional scale, and responses to crime." loading="lazy">
+  <figcaption>Paper 3 examines Crime and Deviance together with Theory and Methods.</figcaption>
+</figure>
+
 ## Applying the two core themes
 
 Because the specification explicitly frames this content through socialisation/culture/identity and
@@ -68,6 +73,11 @@ processed as criminal in the first place), while explanations emphasising subcul
 socialisation and culture (how group norms are learned and transmitted). Revising crime theories purely
 as a list of named perspectives, without this thematic connection, misses what the specification is
 actually built to test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--02-two-core-themes.webp" width="900" height="559" alt="An explanation of crime links to two core themes: socialisation, culture and identity (for example, subcultural values and how group norms are learned) and social differentiation, power and stratification (for example, whose behaviour is defined as criminal)." loading="lazy">
+  <figcaption>A strong answer connects each theory of crime to one or both core themes.</figcaption>
+</figure>
 
 ## Building a theory-to-explanation map
 
@@ -82,6 +92,11 @@ explaining, for instance, why working-class or ethnic-minority offending might b
 different rates than it actually occurs, using a labelling or conflict lens rather than assuming
 official statistics simply describe reality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--03-theory-map.webp" width="900" height="629" alt="A grid comparing consensus, conflict and interactionist or labelling explanations. Each column shows what crime is in that view and how it would explain class differences in crime." loading="lazy">
+  <figcaption>Consensus, conflict and labelling give three different answers to why crime varies by class.</figcaption>
+</figure>
+
 ## Connecting content areas together
 
 The four bulleted content areas above are not four separate topics to revise in isolation. Globalisation
@@ -91,6 +106,16 @@ crime is defined and by whom apply just as much to a multinational corporation's
 (green crime) or a state's own human rights violations (state crime) as to an individual offender.
 Similarly, the media's role in constructing public understanding of crime connects directly to how
 crime statistics and their social distribution are popularly (mis)understood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--04-scales-of-crime.webp" width="900" height="526" alt="The question of how harmful behaviour is defined and by whom applies to individual offenders, to corporations through green crime, and to states through state crime and human rights violations." loading="lazy">
+  <figcaption>Green crime and state crime extend the same theoretical debate beyond the individual offender.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--05-media-and-statistics.webp" width="900" height="413" alt="A chain from media representation of crime to public perception of who commits crime, to policing priorities, to the official statistics that are recorded." loading="lazy">
+  <figcaption>Media images of crime can feed through perception and policing into the statistics.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -103,6 +128,11 @@ directly on Theory and Methods content. Because official statistics and self-rep
 give genuinely different pictures of "the social distribution of crime," build the habit of naming a
 specific data source when discussing patterns and trends, and stating what that source can and cannot
 reliably show, rather than citing a bare statistic as if it were an uncontested fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-crime-and-deviance--06-data-sources.webp" width="900" height="519" alt="Official statistics capture only reported and recorded crime and are shaped by policing practices, while self-report and victim studies capture crime that may never appear in official records." loading="lazy">
+  <figcaption>Different data sources give different pictures of the social distribution of crime.</figcaption>
+</figure>
 
 ## Self-test
 

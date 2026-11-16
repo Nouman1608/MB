@@ -60,6 +60,11 @@ Three rules from the guide matter for you:
 
 The guide does not give a set list of I&S topics for each context; the plain-language descriptions below are ours. The guide's own examples come from its table of example statements of inquiry, and each of the six contexts appears in that table once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--01-six-global-contexts.webp" width="900" height="746" alt="Six cards, one per global context, each with a plain-language summary. Orientation in space and time is highlighted as the context many Individuals and Societies inquiries use. Every unit has one global context, which shows why the inquiry matters." loading="lazy">
+  <figcaption>Six real-world angles; every unit uses one to show why it matters.</figcaption>
+</figure>
+
 ## The six contexts, one at a time
 
 ### Identities and relationships
@@ -140,6 +145,11 @@ The [industrialization and technology](/resources/ib-myp-individuals-and-societi
 
 For a full unit in this context, see [rights and social protest](/resources/ib-myp-individuals-and-societies-rights-and-social-protest/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--02-guide-example-pairings.webp" width="900" height="630" alt="A table pairing each global context with the key concept and related concepts used in the guide’s example statement of inquiry, for example identities and relationships with systems, conflict and cooperation, and fairness and development with time, place and space, scale and disparity." loading="lazy">
+  <figcaption>Each context appears once in the guide’s examples, each with its own key and related concepts.</figcaption>
+</figure>
+
 ## How a global context frames a unit
 
 The same topic can sit in different contexts. The context changes the questions you ask.
@@ -164,6 +174,16 @@ Topic: the Wall Street Crash and the depression that followed.
 
 Step 4 matters. A good statement is transferable: it could guide a unit on a different crisis too. If your sentence only makes sense for 1929, it is a fact, not a statement of inquiry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--03-one-topic-four-contexts.webp" width="900" height="724" alt="A coastal city after a major flood sits at the centre. Four contexts each pose a different question: orientation in space and time asks how the response changed over decades; fairness and development asks which neighbourhoods were hit hardest; scientific and technical innovation asks whether defences reduced damage; globalization and sustainability asks how rising sea levels link the city to choices elsewhere." loading="lazy">
+  <figcaption>Changing the context changes the question, not the topic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--04-statement-of-inquiry.webp" width="900" height="660" alt="Three cards for the Wall Street Crash, key concept change, related concepts causality and interdependence, and global context orientation in space and time, feed one sentence: a crisis in one economy can spread across borders and change ordinary lives for years. A statement that only fits 1929 is a fact; one that could guide a unit on another crisis passes." loading="lazy">
+  <figcaption>A good statement of inquiry links the concepts and context without naming the topic.</figcaption>
+</figure>
+
 ## Global contexts and Criterion B (Investigating)
 
 By year 5, Criterion B has four strands. In our words, you:
@@ -182,6 +202,16 @@ The global context does most of its work in **strand i**. The guide's wording is
 - Relevance, justified through the context: the question tests whether location affects access to a basic need -- a fairness issue. Census tables and a short survey can answer it in the time allowed.
 
 The context also guides **strand iii**. A fairness question needs data that compares groups. An orientation-in-space-and-time question needs evidence across dates. An identities question may need interviews. The [criteria in practice](/resources/ib-myp-individuals-and-societies-criteria-in-practice/) guide shows what each criterion level looks like in full.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--05-criterion-b-strands.webp" width="900" height="661" alt="The four year-5 strands of Criterion B: i research question and relevance, ii plan, iii gather information, iv evaluate. Strands i and iii are highlighted: the context justifies relevance and decides what kind of evidence is needed." loading="lazy">
+  <figcaption>The global context justifies the question in strand i and shapes the evidence in strand iii.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--06-research-question.webp" width="900" height="560" alt="A weak research question, is water access fair, is too broad. The better version compares piped-water access between two districts and asks what explains the gap. Its relevance is justified through fairness and development, and census tables and a short survey make it manageable." loading="lazy">
+  <figcaption>A focused question plus a context-based reason why it matters earns strand i.</figcaption>
+</figure>
 
 ## Common errors
 

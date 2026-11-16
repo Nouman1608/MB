@@ -38,6 +38,11 @@ feed Section 6 and its jobs feed Section 8. A 25-mark Paper 2 question often sta
 industrial locations or a photograph of a workshop, then moves to a part (d) judgement such as
 whether tourism or export zones can create jobs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--01-section-5-links.webp" width="900" height="512" alt="Industry sits at the centre. Raw materials from Sections 2 and 4, power from Section 3 and transport from Section 7 flow in; exports for Section 6 and jobs for Section 8 flow out." loading="lazy">
+  <figcaption>Industry draws on four other sections and feeds two more.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL PAKISTAN STUDIES 2059, 2026 — PAPER 2, SECTION 5: INDUSTRIAL DEVELOPMENT**
@@ -81,6 +86,16 @@ or more workers using power-driven machinery. **Small-scale** units are smaller 
 few hired workers, such as a Gujranwala metal workshop. **Cottage** industry is carried out at home
 by family members with simple tools, such as embroidery or rilli quilt-making in rural Sindh.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--02-cotton-value-chain.webp" width="900" height="804" alt="Cotton moves through three stages: raw seed cotton (primary), ginning and spinning (processed) and weaving, cutting and sewing (manufactured), with a value bar that grows at each stage. Boxes below define refined and tertiary industry." loading="lazy">
+  <figcaption>Every stage of processing adds value to the same raw cotton.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--03-scale-of-industry.webp" width="900" height="636" alt="Three columns compare industry by scale: large-scale factories registered under the Factories Act with ten or more workers using powered machinery; small-scale workshops with a few hired workers; and cottage industry done at home by family members with simple tools." loading="lazy">
+  <figcaption>Pakistan’s three scales of industry differ in size, machinery and where the work is done.</figcaption>
+</figure>
+
 ## Where are the ten industries and why?
 
 | Industry | Example locations | Decisive location factors | Market |
@@ -101,6 +116,11 @@ largely idle since about 2015, so private re-rolling mills using imported billet
 now supply much of the steel. Sialkot footballs have been used at FIFA World Cups, a good example
 of export-led small-scale industry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--04-location-factors.webp" width="900" height="730" alt="The ten industries grouped by their decisive location factor: cement, ginning, sugar and brick sit near bulky or perishable raw materials; fertiliser sits on the gas supply; iron and steel and oil refining use coastal sites for imports; textiles, crafts and Sialkot sports and surgical goods depend on labour, skills and transport links." loading="lazy">
+  <figcaption>Name the decisive factor: raw material, gas, the port, or skilled labour.</figcaption>
+</figure>
+
 ## Formal and informal sectors: what is the difference and why do both matter?
 
 | | Formal sector | Informal sector |
@@ -117,6 +137,11 @@ child labour (a long-standing concern in brick kilns), unsafe conditions, no tax
 Sialkot exporters subcontract stitching to informal home workers, so the two sectors depend on
 each other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--05-formal-informal.webp" width="900" height="637" alt="The formal sector (registered, taxed, regular wages) and the informal sector (unregistered, casual, irregular pay) are linked by subcontracting, as when Sialkot exporters send stitching to home workers. Below are the informal sector’s services, advantages and disadvantages." loading="lazy">
+  <figcaption>The two sectors are linked: exporters rely on informal home workers.</figcaption>
+</figure>
+
 ## How does government promote industry?
 
 - **Export processing zones (EPZs):** fenced, serviced estates where firms import raw materials and
@@ -130,6 +155,11 @@ each other.
 
 **Why build them?** To attract foreign investment and technology, earn foreign exchange, create
 jobs and spread industry beyond Karachi and Lahore.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--06-epz-industrial-estates.webp" width="900" height="665" alt="Export processing zones, such as Karachi EPZ, offer duty-free imports if most output is exported; industrial estates and special economic zones, such as SITE and Sundar, offer serviced plots without that condition. Four aims sit below: investment and technology, foreign exchange, jobs and spreading industry beyond Karachi and Lahore." loading="lazy">
+  <figcaption>The difference between an EPZ and an industrial estate is the export condition.</figcaption>
+</figure>
 
 ## Can global communications create service jobs?
 
@@ -149,6 +179,11 @@ Tourism employs guides, drivers, hotel and restaurant staff and craft sellers, e
 exchange and adds to GDP and GNP. **Constraints:** poor road access and landslides, seasonal
 demand, security perceptions, limited hotels, and damage to fragile mountain environments from
 litter and unplanned building.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-industrial-development--07-tourism-feasibility.webp" width="900" height="651" alt="Natural attractions such as Fairy Meadows and the Deosai Plains and cultural attractions such as the Makli necropolis and Rohtas Fort lead to benefits (jobs, foreign exchange, GDP and GNP) weighed against constraints (poor roads, seasonal demand, security perceptions, limited hotels, environmental damage)." loading="lazy">
+  <figcaption>Tourism can create jobs and income, but access, seasons and security limit it.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

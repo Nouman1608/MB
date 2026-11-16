@@ -69,6 +69,11 @@ Topic 5.2 showed that coherence depends on links between ideas. This topic exami
 | **Pronoun reference** | A pronoun (it, they, this, which) that stands for an earlier noun | Avoids clumsy repetition and ties sentences together |
 | **Parallel structure** | Matching grammatical form for ideas of equal status | Shows equality or contrast; creates rhythm |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--01-four-linking-devices.webp" width="900" height="880" alt="The “library is a promise” paragraph with each device labelled: “promise” repeated, “It” referring to the library, three parallel “it promises that...” clauses, “this promise” referring back, and a final shift to “something more than a building”. A table summarises repetition, synonyms, pronoun reference and parallel structure." loading="lazy">
+  <figcaption>Repetition, synonyms, pronouns and parallelism tell readers which ideas belong together.</figcaption>
+</figure>
+
 ## Repetition
 
 Repeating a key word tells the reader, "This is what the paragraph is about." In an argument, a repeated term holds the thread of the line of reasoning. If a writer changes terms midway, from "cost" to "price" to "expense", the reader may wonder whether three ideas are being discussed.
@@ -87,6 +92,11 @@ A **synonym** lets the writer vary expression while keeping the same idea. It ca
 
 Be careful: no two words are exactly the same. A change of word is also a change of connotation (Topic 5.5). "The council *decided*", "the council *ruled*" and "the council *dictated*" refer to the same event but make different suggestions about how it was done. In technical or argumentative writing, if you change the word you may change the claim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--02-synonyms-shift-meaning.webp" width="900" height="500" alt="Lincoln’s near-synonyms dedicate, consecrate and hallow rise like steps in sacredness. Below, “the council decided”, “ruled” and “dictated” describe one event with different suggestions about how it was done." loading="lazy">
+  <figcaption>A synonym varies the word but also shifts the meaning: use that on purpose.</figcaption>
+</figure>
+
 ## Pronoun references
 
 A pronoun stands for a noun mentioned earlier, called its **antecedent**. Pronouns are useful because they let writers avoid repeating a noun, and they link a sentence to the one before. But they only work if the reader can tell what they refer to.
@@ -99,6 +109,11 @@ A pronoun stands for a noun mentioned earlier, called its **antecedent**. Pronou
 | Distant antecedent | A pronoun appears three sentences after its noun | Repeat the noun or restructure |
 
 A reliable habit is to follow **this**, **that** and **it** with a noun when the reference could be unclear: "This decision...", "That change...".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--03-pronoun-problems.webp" width="900" height="559" alt="Four pronoun problems with repairs: an ambiguous “he” (the mayor or the engineer), a missing antecedent for “they”, a vague “This”, and a distant antecedent. A habit box recommends following “this”, “that” and “it” with a noun." loading="lazy">
+  <figcaption>If the reader cannot tell what a pronoun stands for, name the noun.</figcaption>
+</figure>
 
 ## Parallel structure
 
@@ -115,6 +130,11 @@ A reliable habit is to follow **this**, **that** and **it** with a noun when the
 **Deliberate parallelism** can do more than correct grammar. In the Declaration of Independence (1776), the signers list the Creator's gifts: "Life, Liberty and the pursuit of Happiness". The sequence of nouns signals items of a kind. In Lincoln's phrase "of the people, by the people, for the people", the matching phrases build a rhythm and make three relationships between a government and its citizens appear equal in importance.
 
 Parallelism may also show **contrast**: Pope's line "To err is human, to forgive, divine" (*An Essay on Criticism*, 1711) sets two matched clauses against each other. In Paine's "the harder the conflict, the more glorious the triumph", the matching "the... the..." pattern makes cause and effect feel inevitable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--04-faulty-vs-parallel.webp" width="900" height="658" alt="Two faulty lists (“hiking, to swim and bicycles”; “save money, improving safety and to reduce delays”) beside their parallel repairs. Below, deliberate parallelism showing equality (Life, Liberty and the pursuit of Happiness), rhythm (of the people, by the people, for the people), contrast (To err is human, to forgive, divine) and inevitability (Paine)." loading="lazy">
+  <figcaption>Parallelism means the same grammatical form, not the same words.</figcaption>
+</figure>
 
 ## Using the devices together
 
@@ -150,6 +170,11 @@ These four devices often work together. Consider this passage (Marlbridge exampl
 
 **Step 5: Check.** Each pronoun has a clear antecedent ("who" refers to the principal; "the change" names the noun). The repeated "policy" is reduced. The list now has three matching infinitive phrases.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--05-repairing-the-passage.webp" width="900" height="499" alt="Three repairs to the committee passage. Pronouns: vague “they”, “It”, “which” and “They” become “who”, “The change” and “a speed that”. Repetition: “The new policy is a policy that sets new rules” becomes “The new policy sets limits on phones.” Parallelism: a mixed list becomes three matching infinitives." loading="lazy">
+  <figcaption>Give every pronoun a clear antecedent, cut empty repetition, match list forms.</figcaption>
+</figure>
+
 ## Worked example 2: analysing a passage
 
 Lincoln, Gettysburg Address (1863):
@@ -167,6 +192,11 @@ Lincoln, Gettysburg Address (1863):
 **Step 5: Say what the devices do.** The repetition and parallelism create a rhythm of solemn denial that mirrors the weight of the ground. The synonyms escalate and prepare for the turn: what the living cannot do, the dead already did. The return of "consecrated" ties the second sentence to the first and shows the contrast between "we" and "the brave men".
 
 **Step 6: Write the analysis sentence.** *Lincoln repeats "we can not" and escalates through three near-synonyms so that the audience feels the limits of their own power, which makes the soldiers' earlier consecration seem all the greater.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-3-repetition-synonyms-parallelism-study-guide--06-gettysburg-devices.webp" width="900" height="608" alt="The Gettysburg passage with devices labelled: “we can not” repeated three times, the escalating synonyms dedicate, consecrate and hallow, “it” referring to “this ground”, “consecrated” returning in the second sentence, and the paired opposites “add or detract”." loading="lazy">
+  <figcaption>Repetition and escalation build denial; the returning word makes the turn.</figcaption>
+</figure>
 
 ## Common misconceptions
 

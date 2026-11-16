@@ -48,6 +48,16 @@ adapted by Simon Stephens), *Kindertransport* (Diane Samuels) and *Death and the
 Context (AO4) is **not** assessed in Assignment A. A sentence of background can help an argument, but
 it earns no separate marks, so it should be short and should serve a point about the play.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--13-c3-assignment-marks.webp" width="900" height="700" alt="Two equal bars of 30 marks. Assignment A is split 15 marks for AO1 and 15 for AO2. Assignment B is split 10 marks each for AO1, AO2 and AO4, and AO4 appears only in Assignment B." loading="lazy">
+  <figcaption>Assignment A uses AO1 and AO2 equally; Assignment B adds AO4 for context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--15-c3-word-count.webp" width="900" height="640" alt="A ruler from 0 to 1000 words has the 650 to 800 word range shaded and labelled target range. A note says the range is a target, not a ceiling or floor, and that going past 800 carries no stated penalty but focus can drift." loading="lazy">
+  <figcaption>Aim for a tightly argued answer of about 650 to 800 words.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### 1. A play is a script for performance
@@ -89,6 +99,16 @@ Fifteen marks each means every paragraph needs both: a point that answers the ta
 of how the playwright makes it. A paragraph of plot earns AO1 only at a low level; a list of devices
 without an argument does not reach the higher AO2 levels either.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--01-stage-methods.webp" width="900" height="986" alt="A stage seen from the audience, marked with seven dramatic methods: stage directions such as a pause, an exit through a door, the set, an ensemble of actors, a clock for time, dialogue between two characters, and the audience’s own position. Cards below give the question to ask about each method." loading="lazy">
+  <figcaption>For a play, AO2 “form” includes everything the audience sees and hears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--16-c3-pair-every-point.webp" width="900" height="900" alt="Three balance scales show an essay that only narrates tipping towards AO1, an essay that pairs technique with evidence staying balanced, and an essay that only lists techniques tipping towards AO2. Below, techniques such as stage directions are paired with the evidence they rest on." loading="lazy">
+  <figcaption>Pair every technique (AO2) with its evidence (AO1) to keep the two equally weighted objectives in balance.</figcaption>
+</figure>
+
 ## Worked example 1: analysing stagecraft in a short original scene
 
 This short scene was written for this guide to practise the skill.
@@ -114,6 +134,11 @@ has frozen around the father's absence, and that neither sibling can see it. An 
 that the scene presents grief as a refusal to let the past move on, and support that with these three
 methods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--02-stagecraft-worked-example.webp" width="900" height="664" alt="Three stage directions from the guide’s short scene are each linked to a method and an effect: the loud clock makes time press on Mara, her hand on the letter shows she guards her father’s place, and the clock stopping unnoticed shows time frozen around his absence. Together they support the argument that the scene presents grief as a refusal to let the past move on." loading="lazy">
+  <figcaption>Each method is tied to an effect, and all three serve one argument.</figcaption>
+</figure>
+
 ## Worked example 2: planning a 750-word essay
 
 **Task:** Explore the ways in which Soyinka presents duty in *Death and the King's Horseman*. You must
@@ -131,6 +156,11 @@ consider language, form and structure.
 Total: 750 words. The plan uses the beginning, middle and end of the play, and each paragraph names
 a method (song and verse, structure, setting, reversal) as well as a moment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--03-essay-plan-750.webp" width="900" height="750" alt="A bar splits 750 words into an introduction of 60, four paragraphs of 160 and a conclusion of 50. The four paragraphs move from the beginning to the end of the play, each with a moment and a method: song and verse in the market, structure in the bride request, setting at the Residency, and reversal at the climax." loading="lazy">
+  <figcaption>Each paragraph pairs a moment with a method, moving through the whole play.</figcaption>
+</figure>
+
 ## The coursework process
 
 1. **Understand the task.** Underline the focus and the command words.
@@ -143,11 +173,21 @@ a method (song and verse, structure, setting, reversal) as well as a moment.
 6. **Authenticate.** You and your teacher sign to confirm the work is your own. Acknowledge any
    sources you used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--04-coursework-process.webp" width="900" height="781" alt="Six numbered steps: understand the task, gather evidence from across the play, plan an argument, draft with only general feedback from your teacher, revise and submit with no rewriting after marking, and authenticate the work as your own." loading="lazy">
+  <figcaption>Feedback is general only, and marked work cannot be rewritten.</figcaption>
+</figure>
+
 ## Command words in Component 3 tasks
 
 - **Explore the ways in which...** asks for range: several methods and several parts of the play.
 - **How does [playwright] present...** keeps the playwright's choices at the centre.
 - **To what extent...** asks you to weigh a view, agreeing in part, and to reach a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--05-command-words.webp" width="900" height="678" alt="Three command phrases with what each asks for. Explore the ways in which asks for range across several methods and parts of the play; How does the playwright present keeps the playwright’s choices at the centre; To what extent asks you to weigh a view and reach a judgement." loading="lazy">
+  <figcaption>Read the command words to know whether the task wants range, method or a judgement.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -46,6 +46,11 @@ every act of worship is directed to Allah alone, tawhid gives meaning to the oth
 all five Pillars. Its opposite, shirk, is the one sin the Qur'an says Allah will not forgive if a
 person dies upon it without repenting (4.48).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--01-articles-to-pillars.webp" width="900" height="750" alt="Tawhid, the oneness of Allah, sits at the top and gives meaning to the six Articles of Faith (Allah, angels, books, prophets, predestination and the Last Day). An arrow labelled &quot;put into action&quot; leads down to the Five Pillars: shahada, salat, zakat, sawm and hajj." loading="lazy">
+  <figcaption>Articles are beliefs; Pillars are the actions that express those beliefs.</figcaption>
+</figure>
+
 ## What is the nature and work of angels?
 
 Angels are created from light, do not eat or sleep, and obey Allah without free will. Jibril
@@ -54,12 +59,22 @@ Angel of Death takes souls; the Kiraman Katibin record deeds; Munkar and Nakir q
 *Significance:* Muslims know they are never unobserved, which encourages honesty and good conduct
 even in private.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--02-angels-and-duties.webp" width="900" height="640" alt="Six cards name the key angels and their work: Jibril delivered revelation, Mika'il oversees provision and rain, Israfil will sound the trumpet, the Angel of Death takes souls, the Kiraman Katibin record deeds, and Munkar and Nakir question the dead." loading="lazy">
+  <figcaption>Each angel has a fixed duty; knowing they are never unobserved encourages good conduct.</figcaption>
+</figure>
+
 ## What are the holy books, and why is the Qur'an different?
 
 The Suhuf were given to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the
 Qur'an to Muhammad (pbuh). All taught tawhid and right conduct. Muslims believe the Qur'an is the
 last revelation, preserved unchanged in its original Arabic and memorised by millions, so it is the
 final guide for life and law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--03-revealed-books.webp" width="900" height="512" alt="Five books with the prophet each was given to: the Suhuf (scrolls) to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the Qur'an to Muhammad (pbuh). A line under all five notes that they taught tawhid and right conduct, and the Qur'an is marked as the last revelation, preserved unchanged in Arabic." loading="lazy">
+  <figcaption>Every book taught tawhid; the Qur'an is the last and preserved guide.</figcaption>
+</figure>
 
 ## What makes a prophet, and why is Muhammad (pbuh) the last?
 
@@ -75,6 +90,11 @@ it. At the same time humans make real choices and are judged on them. Muslims ho
 together. *Significance:* patience in hardship ("this was written"), humility in success, and
 continued effort, because the Prophet (pbuh) taught "tie your camel and trust in Allah".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--08-qadr-and-free-will.webp" width="900" height="518" alt="Two panels held together: al-qadr, that Allah knows, records, wills and creates everything, and human free will, that people make real choices and are judged on them. Below are its effects: patience in hardship, humility in success and continued effort, as in &quot;tie your camel and trust in Allah&quot;." loading="lazy">
+  <figcaption>Muslims hold both beliefs at once, which brings patience, humility and effort.</figcaption>
+</figure>
+
 ## What are the main events of the Last Day?
 
 The trumpet is blown and creation ends; all are resurrected; people gather for judgement; each
@@ -82,12 +102,22 @@ receives a book of deeds; deeds are weighed; people cross the sirat; the righteo
 the wicked hell. *Significance:* accountability gives life purpose and encourages good deeds and
 repentance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--04-events-of-the-last-day.webp" width="900" height="880" alt="A numbered sequence: the trumpet is blown, creation ends, all are resurrected, people gather for judgement, each receives a book of deeds, deeds are weighed and people cross the sirat. The path then splits: the righteous enter paradise and the wicked enter hell." loading="lazy">
+  <figcaption>Every stage of the Last Day leads to accountability for one's deeds.</figcaption>
+</figure>
+
 ## What does jihad really mean?
 
 Jihad means striving. The **greater jihad** is the inner struggle to control desires and live
 rightly. Muslims also strive through speech, study, teaching and wealth. **Physical jihad** is
 permitted only for defence or to end oppression, under legitimate authority, and never against
 civilians, women, children, the elderly, crops or places of worship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--05-meanings-of-jihad.webp" width="900" height="610" alt="Jihad, meaning striving, branches into three forms: the greater jihad, the inner struggle to control desires and live rightly; striving through speech, study, teaching and wealth; and physical jihad, permitted only for defence or to end oppression, under legitimate authority, and never against civilians, women, children, the elderly, crops or places of worship." loading="lazy">
+  <figcaption>Jihad is striving in every area of life; physical jihad has strict limits.</figcaption>
+</figure>
 
 ## How and why do Muslims perform the Five Pillars?
 
@@ -117,6 +147,16 @@ financially able. Pilgrims enter ihram at the miqat, perform tawaf and sa'y, sta
 the night at Muzdalifa, stone the jamarat at Mina, offer sacrifice, cut their hair and perform
 further tawaf. *Significance:* equality of all believers, remembrance of Ibrahim, Hajar and Isma'il,
 forgiveness of sins and preparation for meeting Allah.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--06-five-pillars-practice-significance.webp" width="900" height="738" alt="A table of the Five Pillars. For each of shahada, salat, zakat, sawm and hajj it gives what Muslims do (for example 2.5 per cent a year on savings above the nisab for zakat) beside why it matters for the individual and the community." loading="lazy">
+  <figcaption>For each Pillar, pair what is done with why it matters: that is the two-part essay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--07-hajj-observances.webp" width="900" height="755" alt="Nine numbered stages snake across the page: entering ihram at the miqat (highlighted), tawaf, sa'y, standing at Arafat, the night at Muzdalifa, stoning the jamarat at Mina, sacrifice, cutting the hair and further tawaf." loading="lazy">
+  <figcaption>Hajj follows a fixed order, and ihram makes every pilgrim equal.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

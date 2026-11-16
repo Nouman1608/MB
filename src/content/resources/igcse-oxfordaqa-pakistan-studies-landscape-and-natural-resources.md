@@ -85,6 +85,21 @@ development, since purely descriptive answers about where a resource is
 found score lower than answers that also explain why its location and
 use matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--01-hazard-cause-impact.webp" width="900" height="432" alt="A three-part chain: physical causes (tectonic setting, monsoon rainfall, glacial melt) lead to a named hazard such as an earthquake, flood or glacial process, which leads to human impacts (settlement damage, displacement, economic loss)." loading="lazy">
+  <figcaption>Link a named hazard’s causes to its human impacts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--02-monsoon-western-disturbances.webp" width="900" height="774" alt="A schematic with two arrows reaching Pakistan: the summer monsoon from the south-west and winter western disturbances from the Mediterranean and Caspian regions. A table compares them: the monsoon brings the bulk of summer rainfall; western disturbances bring winter rain and snow to northern and western Pakistan." loading="lazy">
+  <figcaption>Summer monsoon and winter western disturbances are separate systems.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--03-resource-answer-chain.webp" width="900" height="396" alt="Three linked steps: a named resource such as natural gas or hydel power, its distribution in Pakistan, and its importance for economic development. A short line shows that stopping at distribution earns lower marks; going on to importance scores higher." loading="lazy">
+  <figcaption>Say where a resource is, then why that matters for development.</figcaption>
+</figure>
+
 ## Worked example: renewable vs non-renewable energy
 
 A question asks candidates to compare the advantages and disadvantages
@@ -108,6 +123,11 @@ Renewable (e.g. hydel power):
 Structuring the answer resource-by-resource with a clear advantage and
 disadvantage for each, rather than making general claims about
 "renewables are better," matches how this content is assessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--04-energy-comparison.webp" width="900" height="468" alt="A two-row table. Natural gas: established infrastructure and reliable supply, but finite reserves, import dependency and environmental impact. Hydel power: abundant potential from rivers and glacial meltwater and low running costs, but high building costs, seasonal flow and disruption from dams." loading="lazy">
+  <figcaption>Every energy source has a real advantage and a real disadvantage.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -136,6 +156,11 @@ replenished and does not run out with use). Confusing a flood plain
 with a delta, or describing all of Pakistan's rainfall as monsoon-driven
 without acknowledging the separate contribution of western
 disturbances in winter, are both common inaccuracies that cost marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--05-flood-plain.webp" width="900" height="537" alt="A cross-section of a river channel with low, flat land on each side. A dashed line shows the water level in a flood covering this land, and a layer of fertile deposited soil lies on the flood plain." loading="lazy">
+  <figcaption>A flood plain is the low land beside a river that floods and gains fertile soil.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

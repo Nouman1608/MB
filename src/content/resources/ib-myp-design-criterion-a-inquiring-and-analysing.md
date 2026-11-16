@@ -41,6 +41,11 @@ Quick links: [revision notes](/resources/ib-myp-design-criterion-a-inquiring-and
 
 From the brief: the four assessment criteria are weighted equally, each with eight achievement levels (1-8) in four bands. The ePortfolio is a design project presented as a complete design folder containing a design brief and specification, marked by your teacher, with a sample from each school moderated by the IB. Your Criterion A brief is a required part of that folder.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--01-criterion-a-workflow.webp" width="900" height="680" alt="Six steps run downwards: design situation, narrowing to a problem with a client and target audience, explaining and justifying the need, planning research, analysing existing products, and writing the design brief, which leads on to Criterion B." loading="lazy">
+  <figcaption>Criterion A ends with a design brief, not a product idea.</figcaption>
+</figure>
+
 ## 1. From design situation to problem
 
 A **design situation** is the starting scenario, for example "Volunteers at a community event struggle to organise equipment." It is not yet a problem you can solve. Your first job is to narrow it to one **problem** faced by one **client** or **target audience**.
@@ -49,6 +54,11 @@ A **design situation** is the starting scenario, for example "Volunteers at a co
 - **Target audience**: the wider group who will use the solution (all volunteer coaches in a league, all visitors to an event).
 
 You can have both. Name them precisely: "everyone" gives you nobody to research.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--02-situation-to-problem.webp" width="900" height="680" alt="A broad design situation about volunteers organising equipment is narrowed down to one problem. That problem belongs to a client, a specific person or organisation you can talk to, and a target audience, the wider group who will use the solution." loading="lazy">
+  <figcaption>Narrow a situation to one problem for precisely named people.</figcaption>
+</figure>
 
 ## 2. Explaining and justifying the need
 
@@ -63,6 +73,11 @@ A strong justification usually covers:
 5. **Gap**: why existing solutions do not already solve it for this client.
 
 Always give sample sizes with survey results. "75% of coaches" means little; "9 of the 12 coaches surveyed (75%)" tells the reader how much weight to give it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--03-justifying-the-need.webp" width="900" height="720" alt="Five parts of a strong justification: who has the problem, what it is and when and where it happens, evidence that it is real, consequences if nothing changes, and the gap left by existing solutions. Below, “75% of coaches” is contrasted with “9 of the 12 coaches surveyed (75%)”." loading="lazy">
+  <figcaption>Evidence, with sample sizes, is what turns a claim into a justification.</figcaption>
+</figure>
 
 ## 3. Planning primary and secondary research
 
@@ -80,6 +95,11 @@ Research planning means deciding **what you need to know** before you decide **h
 
 A good research plan is a table: research question, primary or secondary, method or source, and what it will decide. Judge secondary sources for reliability: who wrote it, when, and whether they are selling something.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--04-planning-research.webp" width="900" height="710" alt="Primary research is collected first-hand, by interview, survey, observation, measuring or testing; secondary research has already been published, such as articles, reviews, data and guidance. A research plan table lists each research question, whether it is primary or secondary, the method or source, and what it will decide, with the questions that most change the design first." loading="lazy">
+  <figcaption>Questions first, methods second, and the questions that change the design most go first.</figcaption>
+</figure>
+
 ## 4. Analysing existing products
 
 Existing products show you what has already been tried. **Analysis** means more than describing them. For each product, say what it does well, what it does badly for **your** client, and what idea you could adapt.
@@ -87,6 +107,11 @@ Existing products show you what has already been tried. **Analysis** means more 
 A common prompt is ACCESS FM: aesthetics, cost, customer, environment, size, safety, function, materials. It is not an IB requirement; use only the headings that matter.
 
 Finish with a short **conclusion**: which features inspire your solution, and which weaknesses it must avoid. Three products analysed in depth beat ten listed with a photo each.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--05-analysing-existing-products.webp" width="900" height="725" alt="Three existing products from the kit-carrier example are judged on what each does well, what it does badly for the client and what idea could be adapted: a mesh ball bag, a folding cart and a large holdall. The conclusion is to adapt the cart’s single-trip capacity and the mesh bag’s ventilation and avoid small wheels on grass." loading="lazy">
+  <figcaption>Analysis says what each product means for your design, then draws a conclusion.</figcaption>
+</figure>
 
 ## 5. Writing the design brief
 
@@ -99,6 +124,11 @@ The **design brief** summarises your analysis of the research. It is short, usua
 - known limits found so far, such as budget or where it will be used
 
 The brief says **what** is needed and **why**. It does not list measurable requirements; that is the specification, which belongs to Criterion B.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--06-brief-vs-specification.webp" width="900" height="560" alt="The design brief is short and states the client or audience, the problem and its evidence, key research findings, the design goal and known limits: what is needed and why. Measurable requirements and tests belong in the specification in Criterion B, not in the brief." loading="lazy">
+  <figcaption>The brief says what and why; measurements and tests wait for the specification.</figcaption>
+</figure>
 
 ## Worked example 1: product design
 
@@ -127,6 +157,11 @@ The brief says **what** is needed and **why**. It does not list measurable requi
 
 > Design a product that lets Coach Daniel carry all Riverside Juniors session kit (9.6 kg: cones, balls, bibs and two pop-up goals) 150 m over a gravel path and grass in one trip. Observation showed set-up takes a mean of 12 minutes over three or four trips; 75% of coaches surveyed face the same problem. Existing bags each hold only part of the kit, and the folding cart tested sticks on grass. The solution should cut set-up time, keep wet and dry items apart, and be light enough to lift into a car.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--07-worked-example-kit-carrier.webp" width="900" height="690" alt="Bar chart of set-up times over three observed sessions: 12, 10 and 14 minutes with 3, 3 and 4 trips, mean 12 minutes. Fact cards: a 150 m walk, 9.6 kg of kit, 9 of 12 coaches make more than one trip and 8 of 12 would use a single carrier." loading="lazy">
+  <figcaption>Observation, measurement and a survey with sample sizes together justify the need.</figcaption>
+</figure>
+
 ## Worked example 2: digital design
 
 **Design situation**: a fictional volunteer group, Hillside Repair Café, fixes broken household items once a month. Visitors queue without knowing if a volunteer with the right skill is there.
@@ -144,6 +179,11 @@ The brief says **what** is needed and **why**. It does not list measurable requi
 **Design brief.**
 
 > Create a digital booking solution for Hillside Repair Café so visitors can choose a time slot and say what item they are bringing. Evidence: a mean 45-minute wait and 25% of items unrepaired due to skill mismatch at the session studied; 75% of 40 visitors surveyed would book online. It must work on a smartphone and suit older visitors (30% of those surveyed were over 65), and let the organiser see bookings by item type.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-a-inquiring-and-analysing--08-worked-example-repair-cafe.webp" width="900" height="710" alt="Dot plot of ten visitor waiting times from 20 to 70 minutes, with a mean of 45 minutes and a range of 50 minutes. Fact cards: 7 of 28 items (25%) went home unrepaired, 30 of 40 visitors (75%) would book online, and 12 of 40 (30%) were over 65, of whom 9 used a smartphone." loading="lazy">
+  <figcaption>Waiting times, unrepaired items and survey demand together justify a booking solution.</figcaption>
+</figure>
 
 ## Common errors
 

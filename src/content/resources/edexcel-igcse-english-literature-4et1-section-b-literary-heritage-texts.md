@@ -48,6 +48,11 @@ The 30 marks divide equally:
 The important difference from Section A is AO4. A drama essay can score full marks without a word of
 context; a heritage essay cannot.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-2--08-c2-paper-layout.webp" width="900" height="780" alt="A clock shows 1 hour 30 minutes for 60 marks. Two equal cards show Section A, Modern drama, 30 marks, assessed on AO1 and AO2, and Section B, Literary heritage, 30 marks, assessed on AO1, AO2 and AO4. Each section asks for one essay chosen from two." loading="lazy">
+  <figcaption>Two 30-mark essays: drama is marked on AO1 and AO2, the heritage text also on AO4.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### 1. Context is a lens, not a topic
@@ -83,6 +88,16 @@ Your prescribed edition must be completely unmarked, but you can open it. That m
 be accurate and well chosen, and the examiner will expect them to be. What you cannot look up in the
 exam is context, so that is what you must carry in your head.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--01-context-deletion-test.webp" width="900" height="492" alt="A flowchart: delete the context sentence and ask whether your reading of the quotation is weaker. If yes, the context is a lens that explains the writer’s choice or changes a moment’s meaning, so keep it. If no, it is decoration, so cut it." loading="lazy">
+  <figcaption>Context earns AO4 only when it changes how a moment reads.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--02-three-time-frames.webp" width="900" height="674" alt="Two timelines. The Scarlet Letter is set in seventeenth-century Boston, published in 1850 and read now. Great Expectations was published in 1860–61 but looks back to the earlier part of the century. Dashed arrows show each writer looking backwards." loading="lazy">
+  <figcaption>The gap between setting and writing is often the best AO4 question to ask.</figcaption>
+</figure>
+
 ## Worked example 1: one paragraph, three objectives
 
 **Question:** Explore how Austen presents attitudes to marriage in *Pride and Prejudice*.
@@ -102,6 +117,11 @@ A paragraph built on Charlotte Lucas's decision to marry Mr Collins:
 Notice that the context sentence explains *why* Charlotte's speech is so measured. It does not start a
 new paragraph about the Regency period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--03-one-paragraph-three-aos.webp" width="900" height="644" alt="A paragraph on Charlotte Lucas’s decision to marry Mr Collins split into three parts: an AO1 point that marriage could be a practical bargain, an AO2 method of calm statements and structural contrast with Elizabeth, and AO4 context about a woman of Charlotte’s class. An arrow shows the context explaining the method." loading="lazy">
+  <figcaption>The context explains the method, inside the same paragraph.</figcaption>
+</figure>
+
 ## Worked example 2: improving a bolt-on sentence
 
 A student writing on *Macbeth* produces this:
@@ -119,6 +139,11 @@ The two sentences sit next to each other but never meet. A stronger version:
 The context now explains the imagery (AO2) and supports an argument about Macbeth's awareness of
 guilt (AO1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--04-bolt-on-to-integrated.webp" width="900" height="606" alt="Top: a bolt-on version puts a sentence on dark imagery next to a sentence on the divine right of kings, with no link. Bottom: the integrated version runs from Macbeth asking the stars to hide their light, through an audience who believed a king was chosen by God, to the argument that he knows the murder is sacrilege." loading="lazy">
+  <figcaption>Context should explain the imagery and drive the argument.</figcaption>
+</figure>
+
 ## Planning a Section B answer in about 45 minutes
 
 | Stage | Time | What to do |
@@ -130,6 +155,11 @@ guilt (AO1).
 | Check | 3 minutes | Make sure every paragraph contains at least one context link |
 
 If Section A overran, shorten the plan rather than drop the context. AO4 is a third of this essay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--05-plan-45-minutes.webp" width="900" height="827" alt="A 45-minute bar: 2 minutes to choose, 5 to plan, 3 to locate passages, 32 to write at roughly eight minutes per paragraph, and 3 to check. Steps below explain each stage; the check is that every paragraph has a context link." loading="lazy">
+  <figcaption>Plan moments and contexts together, and check every paragraph has context.</figcaption>
+</figure>
 
 ## Exam technique for the command words
 
@@ -153,6 +183,11 @@ awareness. Weaker answers stay in the two or three scenes the student knows best
 Build a short navigation sheet in your study copy: for each act or group of chapters, note two key
 moments and one context they connect to. Practise finding each moment in a clean copy in under a
 minute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts--06-whole-text-navigation.webp" width="900" height="770" alt="Two timelines of a text. Stronger answers take evidence from the beginning, a turning point and the ending; weaker answers cluster in two or three familiar scenes. Below, a navigation sheet lists two key moments and one context for each act or group of chapters." loading="lazy">
+  <figcaption>Draw evidence from across the text and know where to find it fast.</figcaption>
+</figure>
 
 ## Common mistakes
 

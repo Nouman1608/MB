@@ -83,6 +83,26 @@ socio-economic-divisions and institutional-arrangements causes are the
 two most directly linked to the syllabus's separate concept of
 **structural violence**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--01-four-types.webp" width="900" height="734" alt="Four schematics. Interstate: two states in conflict. Intrastate: a state against a group inside its own borders, as in civil war. Non-state: two non-state groups with no state directly involved. Extra-state: a state against a non-state actor operating beyond that state’s borders." loading="lazy">
+  <figcaption>Name the type of conflict before analysing it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--02-core-concepts.webp" width="900" height="672" alt="Peace and conflict at the centre linked to the four core concepts: power (who holds it and how the balance shapes the outcome), sovereignty (challenged or reasserted, for example by secessionist movements), legitimacy (claimed or denied for the use of force) and interdependence (refugee flows and disruption crossing borders)." loading="lazy">
+  <figcaption>Use the four concepts as lenses, and say which one each point uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--03-six-causes.webp" width="900" height="730" alt="Six causes of conflict around a central circle: identity, ideology, interests, resources, socio-economic divisions and institutional arrangements. The last two are highlighted as the causes most directly linked to structural violence." loading="lazy">
+  <figcaption>Connect several causes rather than giving a conflict a single label.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--04-peace-approaches.webp" width="900" height="515" alt="Three approaches to resolving conflict: peacemaking through negotiations and treaties, peacekeeping that maintains a ceasefire such as UN missions, and peacebuilding after conflict through institutions, transitional justice and reconciliation, including truth and reconciliation commissions in the Gambia, Canada and Tunisia and the International Criminal Court." loading="lazy">
+  <figcaption>End the violence, hold the ceasefire, then build so it does not return.</figcaption>
+</figure>
+
 ## How to approach it
 
 Before analysing any described conflict scenario, name which type it
@@ -101,6 +121,11 @@ resolution or peacebuilding process, each with genuine dates, actors
 and outcomes — a current example discussed with genuine up-to-date
 detail tends to carry more weight than a well-known but dated case the
 whole cohort is also using.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--05-analysis-routine.webp" width="900" height="582" alt="Four steps: classify the conflict by type, pick the core concept it foregrounds, connect more than one cause, and support it with a current case log of an interstate conflict, an intrastate conflict and a resolution or peacebuilding process." loading="lazy">
+  <figcaption>Classify, choose a concept, connect causes, and use current, dated cases.</figcaption>
+</figure>
 
 ## Worked example: applying legitimacy to explain differing international responses
 
@@ -132,6 +157,11 @@ Conclusion:    legitimacy is partly a matter of perception and
 Naming legitimacy explicitly and explaining how perception shapes
 response, rather than only describing what other states did, is the
 skill this thematic study rewards.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--06-legitimacy-responses.webp" width="900" height="565" alt="Two militarily similar conflicts. In A, force is seen as defensive or authorised, legitimacy is recognised, and responses are measured or supportive. In B, force is seen as unprovoked or unauthorised, legitimacy is denied, and responses include condemnation, sanctions or intervention." loading="lazy">
+  <figcaption>Perceived legitimacy, not military scale, drives the international response.</figcaption>
+</figure>
 
 ## Common mistakes
 

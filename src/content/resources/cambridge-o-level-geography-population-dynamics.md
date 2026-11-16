@@ -63,6 +63,11 @@ Note the trap in the last two rows: infant mortality is measured per 1,000 **liv
 per 1,000 people. Also remember that natural change can be negative (natural decrease), as it is
 in several European and East Asian countries today.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--01-components-of-change.webp" width="900" height="755" alt="A population box with births and immigrants flowing in and deaths and emigrants flowing out. Below, three equations: natural change equals birth rate minus death rate and can be negative; net migration equals immigrants minus emigrants; total change equals natural change plus net migration. A warning notes that infant mortality is per 1,000 live births." loading="lazy">
+  <figcaption>Births, deaths and migration: the only three ways a population changes.</figcaption>
+</figure>
+
 ## Key idea 2: why the world's population grew so fast
 
 For most of human history the population grew very slowly because high birth rates were
@@ -84,6 +89,11 @@ The gap between the two rates is what produces rapid growth. Today most growth i
 countries, especially in sub-Saharan Africa, while many high-income countries are growing slowly
 or shrinking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--02-death-rate-gap.webp" width="900" height="640" alt="A schematic graph: the death rate falls first while the birth rate stays high, and falls only later; the shaded gap between them is rapid growth. Reasons deaths fell: better food supply, clean water and sewage disposal, vaccination and antibiotics, hygiene knowledge. Births lag because family decisions change over a generation. A timeline marks about 1 billion people around 1800, 7 billion in 2011 and 8 billion in November 2022." loading="lazy">
+  <figcaption>Death rates fell before birth rates did; the gap drove the boom.</figcaption>
+</figure>
+
 ## Key idea 3: contrasting rates of natural change
 
 An explain question on this sub-topic usually wants factors grouped clearly. Use categories:
@@ -102,6 +112,11 @@ in parts of southern Africa, mainly among young adults, which also affects the s
 population (see [1.3 Population Structure](/resources/cambridge-o-level-geography-population-structure/)).
 A useful refinement: a high-income country with an ageing population can have a *higher* crude
 death rate than a low-income country, simply because a larger share of its people are elderly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--03-birth-rate-factors.webp" width="900" height="775" alt="Five factor groups, each with what pushes the birth rate up and down. Economic: children as farm workers and old-age support versus the cost of children in cities. Social: early marriage and low status of women versus women in education and work. Health: high versus low infant mortality and contraception. Cultural and religious: valuing large families versus smaller family norms. Political: pro-natalist versus anti-natalist policy." loading="lazy">
+  <figcaption>Group the factors, then say which way each pushes the rate.</figcaption>
+</figure>
 
 ## Key idea 4: over-population and under-population
 
@@ -123,6 +138,11 @@ and frequent flooding that limits what the land can support. **Australia** is of
 example of under-population: a very large country rich in minerals and farmland with a
 relatively small population, which is one reason it has long run planned immigration
 programmes to attract skilled workers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--04-over-under-population.webp" width="900" height="705" alt="Three balances of people against resources. Over-population: the people side is heavier, with food shortages, unemployment and overcrowding; Bangladesh is often used as an example. Optimum: balanced, giving the highest standard of living. Under-population: the resources side is heavier, with labour shortages and unused land or minerals; Australia is often used. A note says density alone is not over-population, as the Netherlands shows." loading="lazy">
+  <figcaption>Over- and under-population compare people with resources, not with area.</figcaption>
+</figure>
 
 ## Key idea 5: population policies
 
@@ -149,6 +169,11 @@ To **evaluate** a policy, judge it against its aims and then weigh its side effe
 4. Overall judgement: effective at slowing growth, but at a social and demographic cost that
    later forced the government to reverse it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--05-china-one-child.webp" width="900" height="620" alt="A timeline: the one-child policy around 1979 to 1980, relaxed to two children from 2016 and three in 2021. Four evaluation steps: growth slowed but the birth rate was already falling; unintended consequences of more boys than girls, rapid ageing and the 4-2-1 family; human rights concerns over coercion; and an overall judgement of effective but costly. A diagram shows four grandparents, two parents and one adult child who may have to support all six." loading="lazy">
+  <figcaption>Judge a policy against its aims, its side effects and its acceptability.</figcaption>
+</figure>
+
 ## Worked example: calculating change
 
 A country has a birth rate of 32 per 1,000, a death rate of 9 per 1,000 and net migration of
@@ -161,6 +186,11 @@ A country has a birth rate of 32 per 1,000, a death rate of 9 per 1,000 and net 
 
 An answer that stops at the natural change has missed the migration step. Figures in this example
 are illustrative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--06-calculating-change.webp" width="900" height="545" alt="A birth rate of 32 per 1,000 minus a death rate of 9 gives natural change of 23 per 1,000, or 2.3 per cent. Adding net migration of minus 2 gives total change of 21 per 1,000, or 2.1 per cent. Multiplying by a population of 40 million and dividing by 1,000 gives a yearly increase of 840,000 people." loading="lazy">
+  <figcaption>Natural change, then add migration, then scale up to the population.</figcaption>
+</figure>
 
 ## Common mistakes
 

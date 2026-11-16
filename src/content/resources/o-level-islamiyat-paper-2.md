@@ -47,6 +47,11 @@ but the syllabus also prescribes named passages for close study in
 should cover those set passages directly rather than relying on the
 sub-topic list alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="506" alt="Questions 1 (8 marks) and 2 (14 marks) are compulsory; candidates then choose two of Questions 3 to 5, worth 14 marks each. The paper lasts 1 hour 30 minutes and carries 50 marks, half the O Level." loading="lazy">
+  <figcaption>Two compulsory questions plus two from three: revise all four topics evenly.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL ISLAMIYAT 2058 — PAPER 2**
@@ -99,6 +104,11 @@ rigorous methods to assess the reliability of each chain -- this
 process of authentication is central to why the Hadiths are treated
 as a trustworthy record.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--02-quran-and-hadith.webp" width="900" height="448" alt="Two linked boxes: the Qur'an sets out core principles, and the Hadiths, a second source of guidance, give the practical detail of how they were lived out. A note defines Hadiths as the Prophet's sayings, actions and approvals, preserved through the isnad, distinct from the Qur'an but complementary." loading="lazy">
+  <figcaption>Principles from the Qur'an, practical detail from the Hadiths.</figcaption>
+</figure>
+
 ## The Rightly Guided Caliphs
 
 Following the death of the Prophet Muhammad (pbuh), the Muslim
@@ -117,6 +127,11 @@ Each reign is examined both for its specific achievements and for
 the qualities of leadership it demonstrated, which the syllabus
 frames as a model for the early Muslim community.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--03-caliphs-in-order.webp" width="900" height="460" alt="Four numbered cards in succession: Abu Bakr, consolidating the community; Umar, expansion and administration; Uthman, standardising the Qur'an; and Ali, leadership during internal division. A bracket underneath says to compare them across the period." loading="lazy">
+  <figcaption>Know the order and one defining feature of each reign.</figcaption>
+</figure>
+
 ## The Articles of Faith and Pillars of Islam
 
 The six Articles of Faith are the core beliefs of Islam: belief in
@@ -126,6 +141,11 @@ the framework of practice built on that belief: the declaration of
 faith (Shahada), prayer (Salah), almsgiving (Zakat), fasting during
 Ramadan (Sawm), and pilgrimage to Makkah (Hajj, for those who are
 able).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--04-articles-and-pillars.webp" width="900" height="654" alt="The six Articles of Faith (Allah, angels, revealed books, prophets, the Day of Judgement and divine decree) lead to the five Pillars as the framework of practice: Shahada, Salah, Zakat, Sawm and Hajj. A warning reminds candidates to explain each, not just name it." loading="lazy">
+  <figcaption>Articles are what Muslims believe; Pillars are the practice built on them.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -139,6 +159,11 @@ than others -- linking the *mechanism* of preservation to *why* it
 matters is what separates a strong answer from a purely descriptive
 one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--05-isnad-worked-example.webp" width="900" height="584" alt="A chain runs from the Prophet (pbuh) through narrators to the person recording the Hadith. Below, three steps: scholars checked each narrator's character and memory; so some Hadiths are classified as more reliable than others; and this scrutiny is why the Hadiths are treated as trustworthy." loading="lazy">
+  <figcaption>Mechanism, then result, then why it matters.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Listing the Articles of Faith or Pillars of Islam without explaining
@@ -148,6 +173,11 @@ than comparing their leadership across the period. Treating the
 Hadiths as identical in status to the Qur'an rather than explaining
 their distinct but complementary role. Under-revising 2.4 because it
 feels more familiar than the historical sub-topics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-2--06-common-mistakes.webp" width="900" height="542" alt="Four mistakes with their fixes: listing the Articles or Pillars instead of explaining them; describing Caliphs in isolation instead of comparing them; treating Hadiths as equal to the Qur'an instead of complementary; and under-revising 2.4 instead of giving it equal rigour." loading="lazy">
+  <figcaption>Each common mistake has a simple fix: explain, compare, distinguish, revise evenly.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

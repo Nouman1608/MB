@@ -64,6 +64,11 @@ This topic revisits thesis and commentary for short-story analysis and adds the 
 
 These are not decorative extras. Each one deepens the argument by connecting it to something beyond a single sentence of evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--01-basics-and-sophistication.webp" width="900" height="740" alt="A core of thesis, line of reasoning and commentary sits inside a wider ring. Three arrows reach out to sophistication moves: broader context, an alternative interpretation, and an analogy, each connecting the argument to something beyond a single sentence of evidence." loading="lazy">
+  <figcaption>Sophistication builds outward from a sound thesis, line of reasoning and commentary.</figcaption>
+</figure>
+
 ## The thesis for a short-fiction essay
 
 A strong thesis about a short story:
@@ -79,6 +84,11 @@ Revise it as you work. If the evidence in your notes does not support the claim,
 
 Remember the four moves: **interpret**, **explain how**, **connect to the claim**, **connect to the thesis**. Strong commentary in short fiction usually adds one more habit: **look for a pattern**. Because the text is short, the same element often appears more than once, and tracing it gives the commentary weight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--02-commentary-chain-pattern.webp" width="900" height="511" alt="The four commentary moves in a row: interpret, explain how, connect to the claim, connect to the thesis. Below, an extra habit for short fiction: trace the same element as it returns at the opening, middle and ending, which gives the commentary weight." loading="lazy">
+  <figcaption>In a short story, trace an element across its appearances to give commentary weight.</figcaption>
+</figure>
+
 ## Sophistication moves at a glance
 
 | Move | What it does | Sentence starters | Risk |
@@ -86,6 +96,11 @@ Remember the four moves: **interpret**, **explain how**, **connect to the claim*
 | **Broader context** | Explains why the interpretation matters beyond the single text: for a society, an idea, human experience | "The story thereby extends beyond one marriage to ...", "This matters because ..." | Making a grand claim without evidence |
 | **Alternative interpretation** | States a different reading and answers it | "A reader might see ... However, ...", "Although it is tempting to read ... as ..., the detail of ... suggests ..." | Listing readings without choosing between them |
 | **Analogy** | Uses a parallel to clarify the interpretation | "Like a prisoner who mourns a kind jailer yet rejoices at an open gate, ..." | An analogy that distracts or doesn't fit |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--03-sophistication-moves.webp" width="900" height="591" alt="Three columns. Broader context explains why an interpretation matters beyond the text; its risk is a grand claim without evidence. An alternative interpretation states another reading and answers it; its risk is listing readings without choosing. An analogy clarifies through a parallel; its risk is one that distracts or does not fit." loading="lazy">
+  <figcaption>Each sophistication move has a use, a way to begin and a risk to avoid.</figcaption>
+</figure>
 
 ## Worked example 1: building a thesis
 
@@ -104,6 +119,11 @@ Use Kate Chopin's The Story of an Hour (1894). Mrs Mallard, who has "a heart tro
 **Why Draft 4 works.** It states a defensible interpretation (the freedom is natural and suppressed). It previews a line of reasoning (a move from conventional grief to the window, then the ending's irony). It also looks beyond the single moment, to what the ending condemns. It does not list evidence or devices.
 
 **A line of reasoning for the essay.** (1) The conventional grief shows what Mrs Mallard is expected to feel. (2) The window and the language of spring present her new feeling as natural. (3) The marriage is shown as kind but constraining, so that her freedom is not an accusation of her husband. (4) The ending's irony shows that society leaves no space for such freedom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--04-chopin-thesis-drafts.webp" width="900" height="751" alt="Three weak drafts about Mrs Mallard are rejected: a summary of emotions, a list of elements, and a claim nearly everyone would accept. The strong fourth draft presents her joy as natural and suppressed and the ending as a condemnation of marriage, and sets up four rising claims from conventional grief to the ironic ending." loading="lazy">
+  <figcaption>The strong thesis is defensible and previews a line of four building claims.</figcaption>
+</figure>
 
 ## Worked example 2: commentary with an alternative interpretation and a broader context
 
@@ -124,6 +144,11 @@ Use Kate Chopin's The Story of an Hour (1894). Mrs Mallard, who has "a heart tro
 
 **An analogy (optional).** "Her situation resembles that of a prisoner who grieves for a kind jailer yet rejoices at an open gate." Use an analogy only if it clarifies the point, and keep it brief.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--05-alternative-and-context.webp" width="900" height="764" alt="Evidence about the husband's loving face and the &quot;powerful will&quot; of marriage leads to an alternative reading, that the husband was a tyrant, which the loving face rules out. Three widening circles show the blame moving from one man to a custom of men and women to marriage as an institution, which connects to the thesis." loading="lazy">
+  <figcaption>Answer the alternative reading with evidence, then widen the claim to the institution.</figcaption>
+</figure>
+
 ## A short model introduction
 
 An introduction does not need a long preamble. It needs a clear route to the thesis. For the Chopin prompt, a compact version might read:
@@ -131,6 +156,11 @@ An introduction does not need a long preamble. It needs a clear route to the the
 "Kate Chopin's The Story of an Hour compresses a marriage, a bereavement and a death into a few pages, and it is in that compression that its argument lies. By moving Mrs Mallard from a conventional outburst of grief to a private room where spring presses in, Chopin presents her joy as natural and long suppressed, so that the ending's irony condemns not a cruel husband but a marriage that leaves no space for the self."
 
 Notice that the first sentence orients the reader without summarising the plot, and the second is the thesis. The rest of the essay then has a line of reasoning to follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--06-model-introduction.webp" width="900" height="552" alt="Two sentences of a model introduction. The first orients the reader to Chopin's compressed story without summarising the plot. The second is the thesis, and it previews a route from conventional grief, to spring pressing in, to the ending's irony." loading="lazy">
+  <figcaption>One orienting sentence, then the thesis: the rest of the essay follows its route.</figcaption>
+</figure>
 
 ## Self-assessment table (suggested Marlbridge rubric)
 
@@ -143,6 +173,11 @@ Rate a draft from 1 (not yet) to 3 (secure).
 | Commentary | Restates evidence | Interprets | Interprets, explains how and connects to claim and thesis |
 | Sophistication | None | A move that sits apart from the argument | A move that is integrated and supported by evidence |
 | Control of the text | A few details | Several details | Details chosen precisely, with patterns traced |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-7-thesis-commentary-study-guide--07-self-assessment-rubric.webp" width="900" height="646" alt="A grid rating five features from 1 (not yet) to 3 (secure): thesis, line of reasoning, commentary, sophistication and control of the text. Level 3 describes a specific, defensible thesis, building claims, commentary that connects to claim and thesis, an integrated sophistication move and precisely chosen details." loading="lazy">
+  <figcaption>Secure work integrates its sophistication move and traces patterns in the text.</figcaption>
+</figure>
 
 ## Common misconceptions
 

@@ -74,6 +74,11 @@ Davis and Moore, writing in 1945, called stratification a "universal necessity".
 
 **Worked paragraph.** *Davis and Moore argue that high rewards attract the most able people into the most important roles (knowledge). In a hospital, surgeons earn more than porters because their training is long and their mistakes are costly (application). This suggests unequal pay motivates people to train (analysis). However, care workers keep patients safe yet earn little, which suggests pay follows bargaining power more than functional importance, as Marxists argue (evaluation).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--01-davis-moore-role-allocation.webp" width="900" height="667" alt="Four needs (roles must be filled, by the most able, with training, and performed conscientiously) lead to unequal rewards for functionally important roles, which make people compete so the most talented win. Below, criticisms including Tumin, and Marxist and feminist views." loading="lazy">
+  <figcaption>Davis and Moore see unequal rewards as the way society gets the right people into key roles.</figcaption>
+</figure>
+
 ## 3.6.2 Socio-economic class
 
 **Socio-economic class** groups people by occupation, income and wealth. Common divisions in the UK are the upper class (including the **aristocracy**), the **middle class** and the working class.
@@ -102,6 +107,11 @@ Weber gives a more complex picture.
 
 **Worked paragraph.** *Weber argued that class depends on market situation, not only ownership (knowledge). An employed electrician and a hospital doctor are both non-owners, yet the doctor's scarce skills bring a much higher income (application). This shows the non-owning class is divided, which Marx's two-class model misses (analysis). However, Marxists reply that both still depend on selling their labour, so the basic owner-worker divide remains (evaluation).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--02-marx-weber-class.webp" width="900" height="634" alt="A comparison table. Marx defines class by relationship to the means of production, splits society into bourgeoisie and proletariat, predicts polarisation and revolution, and explains acceptance through ruling class ideology. Weber defines class by market situation, sees professionals earning more, rejects polarisation and inevitable revolution, and adds status and party." loading="lazy">
+  <figcaption>Marx sees two classes heading for conflict; Weber sees a more complex, layered picture.</figcaption>
+</figure>
+
 ## 3.6.3 Life chances
 
 **Life chances** are a person's chances of achieving positive outcomes, such as good health, a long life, education, a good job and housing. The term comes from Weber. The specification lists the factors: social class, gender, race and ethnicity, sexuality, age, disability, and religion and belief.
@@ -128,6 +138,16 @@ Goldthorpe and Lockwood studied affluent manual workers in Luton in the 1960s. L
 **Evaluation:** one workplace in one town limits how far you can generalise, although interviews gave rich detail.
 
 **Worked paragraph.** *Devine found that affluent Luton workers still resented inherited wealth (knowledge). A well-paid factory worker who owns a car and a house may still see a director's inherited fortune as unfair (application). This suggests rising living standards do not erase class identity (analysis). However, her sample came from one plant, so the finding may not hold for service workers today (evaluation).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--03-life-chances.webp" width="900" height="712" alt="Seven factors surround life chances: class, gender, race and ethnicity, sexuality, age, disability, and religion and belief, each with an example of how it affects a person’s chances of good health, education, a good job and housing." loading="lazy">
+  <figcaption>Seven factors in the specification shape a person’s chances of a good life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--04-devine-affluent-worker.webp" width="900" height="597" alt="Left: what was predicted in the 1960s, privatised instrumentalism and affluent workers becoming middle class. Right: what Devine found in Luton in the late 1980s: lifestyles not as home-centred as predicted, no embourgeoisement, resentment of inherited wealth, and lost faith in the Labour Party." loading="lazy">
+  <figcaption>Devine found affluent workers kept a working-class sense of injustice: no embourgeoisement.</figcaption>
+</figure>
 
 ## 3.6.4 Poverty as a social issue
 
@@ -161,6 +181,16 @@ Murray (*Losing Ground*, 1984) argued that the USA had a growing **underclass**.
 
 **Worked paragraph.** *Townsend defined poverty as lacking what is widely available in society (knowledge). A teenager who cannot afford a school trip that classmates take is deprived even if fed and housed (application). This shows poverty is about exclusion from normal life, not survival (analysis). However, critics say his index can confuse choice with poverty, so the size of poverty he measured may be overstated (evaluation).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--05-townsend-three-measures.webp" width="900" height="636" alt="Three measures of poverty for 1968–69. The state standard, based on benefit entitlement, gave just over 6%. Relative income gave a little over 9%. Townsend’s preferred relative deprivation measure gave more than 22%. Below, his questionnaire method and the criticism that his index may measure choice." loading="lazy">
+  <figcaption>Townsend’s relative deprivation measure found far more poverty than the official ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--06-poverty-explanations.webp" width="900" height="618" alt="Two sides. Cultural explanations: the culture of poverty and Murray’s New Right idea of an underclass created by welfare dependency. Material explanations: low wages, unemployment, poor housing, globalisation and the poverty trap. Below, functionalist, Marxist and feminist views of poverty." loading="lazy">
+  <figcaption>Is poverty caused by the values of the poor, or by lack of money and jobs?</figcaption>
+</figure>
+
 ## 3.6.5 Power and authority
 
 **Power** is the ability to get your own way, even when others resist. **Authority** is power that people accept as legitimate. Weber described three types:
@@ -176,6 +206,11 @@ Murray (*Losing Ground*, 1984) argued that the USA had a growing **underclass**.
 **Evaluation:** real leaders often mix Weber's types. A prime minister holds rational-legal authority but may also rely on charisma.
 
 **Worked paragraph.** *Weber described rational-legal authority as obedience to impersonal rules (knowledge). Pupils obey a new supply teacher they have never met because the school's rules give her the role (application). This shows authority can attach to a position, not a person (analysis). However, Marxists argue such rules reflect ruling class interests, so legitimacy may come from ideology (evaluation).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--07-weber-authority.webp" width="900" height="766" alt="Three cards. Traditional authority rests on custom and inherited status, as in a monarchy. Charismatic authority rests on devotion to an exceptional leader. Rational-legal authority rests on shared impersonal rules, as in a bureaucracy or elected government. Below, formal and informal sources of power." loading="lazy">
+  <figcaption>Authority is accepted power, based on tradition, charisma or rules.</figcaption>
+</figure>
 
 ## 3.6.6 Power relationships
 
@@ -197,6 +232,11 @@ Walby argued patriarchy has moved from **private patriarchy** (direct control by
 **Perspectives.** Marxists see class as the main power relationship. Functionalists see different roles as complementary. **Evaluation:** Walby shows patriarchy takes many forms, but critics argue she gives less weight to differences between women by class and ethnicity.
 
 **Worked paragraph.** *Walby argued that public patriarchy keeps women in low-status jobs (knowledge). In a supermarket chain where most checkout staff are women and most regional managers are men (application), women are present in paid work but held below the glass ceiling (analysis). However, rising female entry into professions suggests the structure is weakening, though unevenly by class (evaluation).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--08-walby-patriarchy.webp" width="900" height="610" alt="Six numbered cards show Walby’s patriarchal structures: paid work, patriarchal relations of production, culture, sexuality, male violence and the state. Below, an arrow shows the shift from private patriarchy, direct control by fathers or husbands, to public patriarchy, where women are in public life but in low-paid, low-status jobs." loading="lazy">
+  <figcaption>Patriarchy works through six structures and has shifted from private to public.</figcaption>
+</figure>
 
 ## Common errors
 

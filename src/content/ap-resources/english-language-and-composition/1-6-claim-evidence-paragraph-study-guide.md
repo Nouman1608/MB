@@ -65,6 +65,11 @@ Many strong paragraphs follow this sequence. It is not a formula to apply blindl
 
 In a short timed essay you may compress steps 2 and 3 into one sentence and give most of your space to step 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-6-claim-evidence-paragraph-study-guide--01-paragraph-pattern.webp" width="900" height="558" alt="Five numbered steps of a body paragraph: claim, lead-in, evidence, commentary and link. Beside them a bar shows a timed-essay paragraph in which lead-in and evidence share one sentence and commentary takes about half the space." loading="lazy">
+  <figcaption>Claim, lead-in, evidence, commentary, link: a starting point, not a formula.</figcaption>
+</figure>
+
 ## Three ways to use a source
 
 | Method | What you do | When to use it | Danger |
@@ -74,6 +79,11 @@ In a short timed essay you may compress steps 2 and 3 into one sentence and give
 | **Summary** | Condense a longer passage into a shorter statement of the main point. | When you need the gist of a long section. | Distorting the author's meaning or adding your opinion. |
 
 Whichever you use, you must give the source credit (Topic 3.2 treats attribution), and you must connect it to your claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-6-claim-evidence-paragraph-study-guide--02-quote-paraphrase-summary.webp" width="900" height="582" alt="Bars compare a source passage with three ways of using it: a quotation copies exact words, a paraphrase restates the idea in new words at about the same length, and a summary condenses it to the main point. Each has a use and a danger, and all must credit the source and connect to the claim." loading="lazy">
+  <figcaption>Quote for wording, paraphrase for the idea, summarise for the gist.</figcaption>
+</figure>
 
 ## Embedding: weaving a quotation into your own sentence
 
@@ -94,6 +104,11 @@ Techniques for embedding:
 
 Punctuation notes: a full-sentence quotation after a signal phrase takes a comma or colon; a phrase worked into your own sentence needs no extra punctuation; a short quotation ends with your sentence's end punctuation unless the original's own mark (a question mark, for example) must remain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-6-claim-evidence-paragraph-study-guide--03-dropped-vs-embedded.webp" width="900" height="722" alt="A dropped quotation, “With malice toward none, with charity for all”, sits alone between a claim and a vague comment. In the embedded version the phrases “malice toward none” and “charity for all” sit inside the writer’s own sentence about shifting from vengeance to reconciliation. Four embedding techniques are listed below." loading="lazy">
+  <figcaption>An embedded quotation reads as part of your argument, grammatically and logically.</figcaption>
+</figure>
+
 ## Signal verbs and what they tell the reader
 
 The verb you choose to introduce evidence carries meaning. "Says" is neutral; "urges", "warns", "concedes" and "insists" show the writer's stance and purpose. Choose a verb that is accurate. Do not use "proves" for a statement that only suggests, or "shows" for an opinion.
@@ -105,6 +120,11 @@ The verb you choose to introduce evidence carries meaning. "Says" is neutral; "u
 | warns, cautions | A threat or risk |
 | concedes, admits | The writer grants a point to an opponent |
 | insists, asserts, maintains | A strongly held claim |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-6-claim-evidence-paragraph-study-guide--04-signal-verbs.webp" width="900" height="582" alt="Five groups of signal verbs and what they suggest: states, notes and observes for a neutral report; urges and calls on for action; warns and cautions for a risk; concedes and admits for granting a point; insists and maintains for a strongly held claim. Notes warn against “proves” and “shows” when the source only suggests or opines." loading="lazy">
+  <figcaption>“Says” is neutral; verbs like “urges” or “concedes” show the writer’s stance.</figcaption>
+</figure>
 
 ## Worked example 1: from dropped quotation to embedded evidence
 
@@ -129,6 +149,11 @@ The verb you choose to introduce evidence carries meaning. "Says" is neutral; "u
 5. No evidence is left unexplained.
 
 **Check.** Cover the quotations. Do you still have a readable paragraph? Yes. That tells you the quotations are serving the argument, not replacing it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-6-claim-evidence-paragraph-study-guide--05-lincoln-paragraph-anatomy.webp" width="900" height="601" alt="The strong paragraph about Lincoln’s Second Inaugural split into four parts: a claim in the writer’s own words, a quotation embedded as the object of “proceed”, a second quotation introduced after a colon, and commentary on the words “work” and “strive”. A note suggests covering the quotations to test the paragraph." loading="lazy">
+  <figcaption>Claim, embedded evidence and commentary on single words: no evidence left unexplained.</figcaption>
+</figure>
 
 ## Worked example 2: quotation, paraphrase and summary
 

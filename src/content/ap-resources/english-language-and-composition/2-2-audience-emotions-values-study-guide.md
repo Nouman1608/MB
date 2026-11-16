@@ -52,6 +52,11 @@ Many students are taught that a good argument is "logical" and that emotion is a
 
 A helpful way to think: **evidence tells an audience that a claim is true; emotion and values tell them that it matters to them.** An argument that does only the first can be correct and still be ignored. An argument that does only the second can move people and still be unsound. Strong arguments connect the two.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--01-true-and-matters.webp" width="900" height="597" alt="Two overlapping circles. Evidence tells the audience a claim is true; emotion and values tell the audience it matters to them; the overlap is where strong arguments connect the two. Below, evidence alone can be ignored and emotion alone can be unsound." loading="lazy">
+  <figcaption>Evidence shows a claim is true; emotion and values show why it matters.</figcaption>
+</figure>
+
 ## Where emotion comes from in a text
 
 Writers cannot simply announce an emotion. They build it from language and content. Look for these sources:
@@ -68,6 +73,11 @@ Writers cannot simply announce an emotion. They build it from language and conte
 
 An emotion in a text rarely comes from one device alone. Several often work together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--02-sources-of-emotion.webp" width="900" height="631" alt="Seven sources of emotion with the lesson’s examples: connotation, imagery, narrative and anecdote, shared experience, values language, rhythm and repetition, and direct address." loading="lazy">
+  <figcaption>Emotion is built from words and content, usually several devices at once.</figcaption>
+</figure>
+
 ## Relating to values
 
 A **value** is something an audience treats as important or right: fairness, loyalty, freedom, family, safety, tradition, progress, thrift. Writers relate to values in three common ways.
@@ -77,6 +87,11 @@ A **value** is something an audience treats as important or right: fairness, loy
 3. **Linking a feeling to a value.** A story about a pensioner left in the cold touches both pity and the value of care for the elderly.
 
 The same facts can be framed in very different ways, and the choice of frame tells you which audience the writer has in mind.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--03-framing-a-proposal.webp" width="900" height="555" alt="A plan to charge for parking branches into two frames: fairness, because those who use the road should pay for it, and thrift, for a different audience. Below, three ways writers relate to values: naming the value, framing a proposal in its terms, and linking a feeling to a value." loading="lazy">
+  <figcaption>The same facts can be framed differently; the frame reveals the intended audience.</figcaption>
+</figure>
 
 ## When emotion is persuasive and when it is not
 
@@ -88,6 +103,11 @@ Emotion can be a strong ally, but it can also weaken an argument if misused. Tes
 - **Respectful?** Does it treat the audience as capable of judgement? Appeals that play on fear without evidence, or mock opponents, can alienate thoughtful readers.
 
 On the exam you are not asked to judge the writer's morals, but you should be able to explain what an appeal does and whether it suits the audience and purpose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--04-four-tests-of-emotion.webp" width="900" height="550" alt="Four tests for an emotional appeal, each with a persuasive and a backfiring version: relevant (not an unrelated tearful story), proportionate (not extreme language about a minor matter), supported (story plus verifiable fact) and respectful (not fear without evidence or mockery)." loading="lazy">
+  <figcaption>Emotion helps when it is relevant, proportionate, supported and respectful.</figcaption>
+</figure>
 
 ## A public-domain example: Chief Joseph's surrender speech (1877)
 
@@ -101,6 +121,11 @@ The audience included his own people and the army officers, and the account was 
 - **The finality of "no more forever"** closes a long struggle with a sense of dignity, not of triumph or defeat alone.
 
 The emotional effect is restrained and the speaker's authority never slips. That combination of restraint and feeling is often more powerful than extravagant language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--05-chief-joseph-annotated.webp" width="900" height="517" alt="Chief Joseph’s words split into four parts with labels: “Hear me, my chiefs!” is direct address; “I am tired; my heart is sick and sad” is a plain statement of feeling; “From where the sun now stands” is imagery; “I will fight no more forever” gives finality and dignity." loading="lazy">
+  <figcaption>Plain, restrained statements of feeling can move more than extravagant language.</figcaption>
+</figure>
 
 ## Worked example 1: explaining an emotional appeal
 
@@ -120,6 +145,11 @@ The audience is likely residents who value **care for the elderly** and **fairne
 
 **Check.** The answer names devices, ties each to a feeling and a value, and says what the appeal does to the argument. It does not say simply "this is emotional".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--06-okafor-appeal-chain.webp" width="900" height="590" alt="Three devices in the Mrs Okafor passage, narrative detail, imagery and a contrast of voices, feed into sympathy and indignation, which connect to the residents’ values of fairness in public services and care for the elderly. The effect is to make a budget decision feel like a human cost." loading="lazy">
+  <figcaption>Name the device, tie it to a feeling and a value, then say what it does to the argument.</figcaption>
+</figure>
+
 ## Worked example 2: adding emotion and values to a flat paragraph
 
 **Task.** Improve this flat draft, written by Marlbridge, so that it relates better to an audience of local residents: "The playing field is being sold to developers. This will reduce green space. People will have fewer places to exercise."
@@ -135,6 +165,11 @@ The audience is likely residents who value **care for the elderly** and **fairne
 > The Marsh Lane field, where Saturday football has been played for sixty years, is being sold to developers. If it goes, the nearest open space for the 300 children at Marsh Lane Primary will be a car-park-sized lawn two miles away. A community that cares for its children does not trade their playing field for a row of houses.
 
 **Check.** The revision keeps the facts (the sale, sixty years, 300 children) and adds a concrete place, a human group, and an appeal to a shared value ("a community that cares for its children"). The emotion is **earned by detail**, not asserted by adjectives such as "terrible" or "shocking".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-2-audience-emotions-values-study-guide--07-flat-to-earned.webp" width="900" height="575" alt="A flat draft about the playing field sale is revised. The revision keeps the facts (the sale, sixty years, 300 children), adds a concrete place and a human group (Marsh Lane field, Saturday football, Marsh Lane Primary) and appeals to a shared value: a community that cares for its children." loading="lazy">
+  <figcaption>The emotion is earned by concrete detail, not asserted by adjectives.</figcaption>
+</figure>
 
 ## How the exam asks about this
 

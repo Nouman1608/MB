@@ -70,6 +70,16 @@ statistics depend on how officials interpret deaths.
 **Correlation** means two things vary together; **causation** means one produces the other. A
 correlation between poverty and low exam results does not on its own prove poverty causes them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--01-positivism-vs-interpretivism.webp" width="900" height="770" alt="Positivist and interpretivist approaches compared on view, aim, model, data, what they value and their weakness. Durkheim’s Suicide (1897) is the classic positivist study; interpretivists reply that suicide statistics depend on how officials interpret deaths." loading="lazy">
+  <figcaption>Positivists seek reliable patterns and causes; interpretivists seek valid meanings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--02-correlation-causation.webp" width="900" height="500" alt="Two panels. Correlation: poverty and low exam results are found together, shown with a dashed link. Causation: an arrow from poverty to low exam results with a question mark, because a correlation alone does not prove one causes the other." loading="lazy">
+  <figcaption>Finding two things together does not prove one causes the other.</figcaption>
+</figure>
+
 ## Can researchers combine approaches? (1.1.3)
 
 - **Triangulation** — using more than one method or source to cross-check findings, for example a
@@ -78,6 +88,11 @@ correlation between poverty and low exam results does not on its own prove pover
   birth cohort studies, which have followed people born in a single week (in 1958 and 1970, for
   example) through their lives, are well-known examples. Strength: shows change and sequence.
   Limitations: expensive and people drop out (**attrition**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--03-triangulation-longitudinal.webp" width="900" height="500" alt="Left: triangulation, a questionnaire followed by interviews with some respondents to cross-check findings. Right: a longitudinal study following the same group over time, as in the British birth cohort studies; it shows change but is expensive and people drop out (attrition)." loading="lazy">
+  <figcaption>Triangulation cross-checks findings; longitudinal studies follow the same people over time.</figcaption>
+</figure>
 
 ## How do you evaluate a research choice? (1.1.4)
 
@@ -128,6 +143,11 @@ definition or missing groups.
    "social class" by occupation).
 7. **Pilot study** — a small trial to test questions and procedures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--04-research-design-stages.webp" width="900" height="810" alt="Seven numbered stages: selection of topic, aims, hypothesis, target population, methods, operationalisation (such as measuring social class by occupation) and a pilot study to test questions and procedures." loading="lazy">
+  <figcaption>Research design runs from choosing a topic to piloting the questions.</figcaption>
+</figure>
+
 ## How do sociologists choose a sample? (1.3.2)
 
 A **sampling frame** is the list of the target population (school register, electoral roll).
@@ -140,6 +160,11 @@ A **sampling frame** is the list of the target population (school register, elec
 | **Snowball** | Participants recruit others | Reaches hidden groups | Unrepresentative |
 | **Quota** | Interviewer fills set numbers of each type | Quick | Interviewer chooses who, so bias |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--05-sampling-techniques.webp" width="900" height="970" alt="A sampling frame is the list; a technique is how people are picked from it. Five rows of twenty dots show each technique: random picks by chance, systematic picks every fourth, stratified keeps the same mix of groups as the population, snowball follows a chain of recruits, and quota fills set numbers with the first people found." loading="lazy">
+  <figcaption>Each technique picks people from the list in a different way, with different risks of bias.</figcaption>
+</figure>
+
 ## Which primary methods can be used? (1.3.3 and 1.3.4)
 
 - **Surveys and questionnaires** — reach many people; types of question: **open**, **closed**,
@@ -149,6 +174,11 @@ A **sampling frame** is the list of the target population (school register, elec
   unstructured conversation and observation can bring.
 - **Observations** — **participant** or **non-participant**, **overt** or **covert**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--06-primary-methods.webp" width="900" height="666" alt="Questionnaires use open, closed, multiple-choice and scaled questions. Interviews range from structured with fixed questions to unstructured and conversational, plus group interviews. Observations are participant or non-participant and overt or covert, giving four combinations." loading="lazy">
+  <figcaption>Each primary method comes in types: know which type you would use and why.</figcaption>
+</figure>
+
 ## What issues affect research? (1.3.5 and 1.3.6)
 
 **Theoretical and practical:** researcher perspective (positivist or interpretivist), access to the
@@ -157,6 +187,11 @@ sample, response rate, funding and cost, time.
 **Ethical:** informed consent, privacy and confidentiality, deception, prevention of harm, legality.
 Covert observation raises deception and consent issues; researching young people needs parental
 consent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--07-research-issues.webp" width="900" height="476" alt="Three groups of issues. Theoretical: the researcher’s positivist or interpretivist perspective. Practical: access, response rate, funding and time. Ethical: informed consent, privacy and confidentiality, deception, prevention of harm and legality. Covert observation raises deception and consent issues; young people need parental consent." loading="lazy">
+  <figcaption>Check every research plan for theoretical, practical and ethical issues.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

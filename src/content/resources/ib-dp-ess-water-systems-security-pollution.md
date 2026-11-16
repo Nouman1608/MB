@@ -92,6 +92,16 @@ A pollutant entering the lake takes years to flush out, so lakes recover more sl
 
 Ocean currents move heat around the planet. Wind drives surface currents. In the **thermohaline circulation**, cold, salty, dense water sinks near the poles and flows slowly through the deep ocean. Where deep water rises to the surface (**upwelling**), it brings nutrients that support high primary productivity and rich fisheries. Warm currents raise the temperature of nearby coasts; cold currents lower it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--01-hydrological-cycle.webp" width="900" height="770" alt="Cross-section from a glaciated mountain to the ocean. Storages: oceans (about 97% of water, salt), ice caps and glaciers (most freshwater), groundwater (the largest liquid freshwater store), soil, rivers and the atmosphere. Transformations such as evaporation, condensation, transpiration and melting are shown in red; transfers such as advection, interception, runoff, infiltration, throughflow, percolation, groundwater flow and river flow in green." loading="lazy">
+  <figcaption>Transformations change the state of water; transfers only move it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--02-urban-hydrograph.webp" width="900" height="690" alt="Schematic flood hydrograph after a rainstorm. The urban river peaks sooner and higher than the rural one: impermeable surfaces cut infiltration, so more fast runoff reaches the river, shortening lag time and raising peak discharge and flood risk." loading="lazy">
+  <figcaption>Urban surfaces shorten lag time and raise peak discharge.</figcaption>
+</figure>
+
 ## 4.2 Water access, use and security
 
 ### Uneven supply and rising demand
@@ -143,6 +153,11 @@ A **water footprint** is the freshwater used to produce everything a person or c
 
 Evaluate each one. Desalination is reliable but energy-hungry and returns salty brine to the sea. Dams flood land, displace people and trap sediment. Coastal aquifer pumping can cause **saltwater intrusion**. Shared rivers can cause tension between upstream and downstream users.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--03-water-per-person.webp" width="900" height="675" alt="A scale of renewable freshwater per person: below 500 cubic metres a year is absolute scarcity, 500 to 999 water scarcity, 1000 to 1699 water stress and 1700 or more no stress. Fictional Veloria has 42 cubic kilometres for 24 million people (1750, no stress) now, but 1400 (water stress) for 30 million in 2040." loading="lazy">
+  <figcaption>Population growth alone moves Veloria from no stress into water stress.</figcaption>
+</figure>
+
 ## 4.3 Aquatic food production systems
 
 ### Fisheries and maximum sustainable yield
@@ -191,6 +206,11 @@ Aquaculture is the farming of fish, shellfish and seaweed. It can reduce pressur
 - Carnivorous species eating feed made from wild-caught fish.
 
 **Feed conversion ratio (FCR)** = mass of feed ÷ increase in mass of the farmed animals. Lower is better. Farming filter feeders such as mussels needs no feed at all.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--04-catch-per-unit-effort.webp" width="900" height="690" alt="Three bar pairs for a fictional fishery in 2016 and 2024. Catch fell only slightly, from 48 000 to 45 000 t (−6.25%), while effort rose from 12 000 to 18 000 boat-days. Catch per unit effort fell from 4.0 to 2.5 t per boat-day (−37.5%), so the stock is very likely shrinking." loading="lazy">
+  <figcaption>Rising effort can hide a shrinking stock: judge a fishery by CPUE, not total catch.</figcaption>
+</figure>
 
 ## 4.4 Water pollution
 
@@ -245,6 +265,21 @@ Top predators receive the highest doses.
 3. **Clean up and restore**: dredge nutrient-rich sediment, pump air into lakes, remove plastic from beaches.
 
 Level 1 deals with the cause and is usually cheapest in the long run. Level 3 treats symptoms and often has to be repeated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--05-sewage-outfall-oxygen.webp" width="900" height="690" alt="Schematic graph along a river below a sewage outfall. BOD rises sharply below the outfall while dissolved oxygen falls as bacteria break down organic matter; further downstream BOD falls and oxygen recovers. Indicator species: stonefly and mayfly larvae in clean water, sludge worms in the low-oxygen zone." loading="lazy">
+  <figcaption>Organic pollution raises BOD and drains oxygen until it is broken down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--06-eutrophication-loop.webp" width="900" height="755" alt="Five steps: nitrates and phosphates enter the water; an algal bloom grows; plants below are shaded and die; decomposers use up dissolved oxygen; fish and invertebrates die and their decay releases more nutrients, which feeds the bloom again in a positive feedback loop." loading="lazy">
+  <figcaption>Decay releases more nutrients, so eutrophication feeds itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-water-systems-security-pollution--07-biomagnification.webp" width="900" height="690" alt="Pesticide concentration in a fictional estuary food chain on a log scale: 0.04 ppm in zooplankton, 0.3 ppm in small fish, 2.4 ppm in large fish and 18 ppm in fish-eating birds, 450 times the zooplankton level." loading="lazy">
+  <figcaption>Persistent pollutants concentrate at each trophic level, so top predators get the highest dose.</figcaption>
+</figure>
 
 ## HL: applying the lenses to water
 

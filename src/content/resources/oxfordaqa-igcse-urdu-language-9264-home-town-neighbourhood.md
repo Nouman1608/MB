@@ -107,6 +107,11 @@ field were built here, it would be very good). For an imagined ideal home: اگ�
 پانچ منٹ کا پیدل راستہ ہے (it is five minutes' walk). To ask: معاف کیجیے، ریلوے اسٹیشن کہاں ہے؟
 یہاں سے کتنی دور ہے؟
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--01-location-postpositions.webp" width="900" height="760" alt="Seven pictograms of a dot placed relative to a building: کے سامنے opposite or in front of, کے پیچھے behind, کے پاس / کے قریب near, کے ساتھ next to, کے درمیان between, کے اندر / کے باہر inside or outside, and سے دور far from, which takes سے rather than کے." loading="lazy">
+  <figcaption>Compound postpositions with کے place things; دور is the exception and takes سے.</figcaption>
+</figure>
+
 ## Worked example 1: directions in translation
 
 English: *Go straight on, then take the second street on the left. The library is opposite the
@@ -122,6 +127,11 @@ Imperatives     polite form: جائیے، مڑ جائیے
 
 Answer: سیدھے جائیے، پھر بائیں طرف دوسری گلی میں مڑ جائیے۔ لائبریری مسجد کے سامنے ہے، یہاں سے
 تقریباً دس منٹ کا پیدل راستہ ہے۔
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--03-directions-plan.webp" width="900" height="840" alt="A street plan of the worked example: go straight on (سیدھے جائیے), turn left into the second street (بائیں طرف دوسری گلی میں مڑ جائیے), and the library is opposite the mosque (لائبریری مسجد کے سامنے ہے), about ten minutes’ walk from here." loading="lazy">
+  <figcaption>Sketch directions as you read: each turn and each کے سامنے on a rough plan.</figcaption>
+</figure>
 
 ## Worked example 2: describing your area
 
@@ -143,6 +153,11 @@ What it shows:
 - **A conditional suggestion** that points forward to the problem-and-solution language of the
   rest of Theme 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--04-describing-your-area.webp" width="900" height="912" alt="Five lines from the model answer: where you live (میں ایک چھوٹے قصبے میں رہتی ہوں), what there is, how it has changed with پہلے ... لیکن اب, an opinion with کیونکہ, and one improvement as a condition (اگر یہاں ایک کھیل کا میدان بن جائے تو ...)." loading="lazy">
+  <figcaption>Place, amenities, change, opinion, improvement: a strong structure for this topic.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - محلہ میں, کمرہ میں instead of the oblique محلے میں, کمرے میں.
@@ -152,6 +167,11 @@ What it shows:
   friend جاؤ is fine, but be consistent within one task.
 - Describing only the home and never the town, or vice versa, when the task mentions both.
 - A list of amenities with no opinion, comparison or change over time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--02-there-is-and-oblique.webp" width="900" height="866" alt="Saying what there is uses a place phrase with ہے or ہیں, as in ہمارے محلے میں ایک بڑا پارک ہے and یہاں دو اسکول ہیں. Before a postposition, masculine nouns ending in ہ change: محلہ becomes محلے میں, کمرہ becomes کمرے میں, قصبہ becomes قصبے سے." loading="lazy">
+  <figcaption>Match ہے or ہیں to the number of things, and use the oblique before میں and سے.</figcaption>
+</figure>
 
 ## Exam technique
 
@@ -186,6 +206,11 @@ heat and cold; a word-for-word "it is hot" (یہ گرم ہے) sounds unnatural a
 lifts a description above a list of amenities. Keep such details to things you know well,
 such as a local crop, a festival or a landmark; you do not need facts or figures about the region
 to write an accurate, developed answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood--05-region-weather-detail.webp" width="900" height="712" alt="Landscape words (پہاڑی علاقہ, میدانی علاقہ, ساحلی شہر, صحرا, دریا), the weather idiom گرمی / سردی پڑنا as in گرمیوں میں یہاں بہت گرمی پڑتی ہے rather than یہ گرم ہے, and ... کے لیے مشہور ہے for one specific detail such as mangoes." loading="lazy">
+  <figcaption>Use گرمی پڑنا for the weather and کے لیے مشہور ہے for one memorable detail.</figcaption>
+</figure>
 
 ## Practise next
 

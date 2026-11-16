@@ -76,6 +76,11 @@ effectively in a range of contexts and for a variety of purposes" and "Understan
 appropriate to a range of interpersonal and/or intercultural contexts and audiences". Paper 1
 rewards language that **fits**, not only language that is correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--01-paper-1-at-a-glance.webp" width="900" height="735" alt="Three task cards with the middle one chosen: you write one task from three, worth 25 percent and 30 marks. A word-range scale shows SL at 250 to 400 words and HL at 450 to 600 words. A note says HL tasks require more complex language and higher-order thinking." loading="lazy">
+  <figcaption>One task from three, 30 marks; HL writes more, with more complex language.</figcaption>
+</figure>
+
 ## Five questions before you write
 
 The brief names five conceptual understandings for the course: **context, audience, purpose,
@@ -90,6 +95,11 @@ meaning and variation**. Turn them into five questions and answer each one in yo
    sentence, your text will drift.
 5. **Variation.** Which form of the language suits this reader? Languages vary by region, age
    group and situation. Choose forms that suit the reader and stay consistent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--02-five-questions.webp" width="900" height="594" alt="Five numbered rows turn the conceptual understandings into planning questions: context (where and why the text exists) sets the format; audience sets the register; purpose may have a second purpose; meaning should fit in one sentence; variation means choosing a suitable form of the language and staying consistent." loading="lazy">
+  <figcaption>Context sets the format, audience sets the register; answer all five before writing.</figcaption>
+</figure>
 
 ## Register: the scale you write on
 
@@ -131,6 +141,11 @@ What changes, step by step:
 4. **Request.** "Let me know!" becomes "would be grateful if you could confirm". Conditional and
    polite forms carry formality in most languages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--03-register-scale.webp" width="900" height="833" alt="A scale runs from informal through neutral to formal. The same message about a quiz night moved to Monday is shown as a message to a friend, a school newsletter notice and a letter to a guest speaker, with the opening, vocabulary, structure and request highlighted. A table summarises how each changes." loading="lazy">
+  <figcaption>The message stays the same; opening, vocabulary, structure and request move up the scale.</figcaption>
+</figure>
+
 ## Three families of text types
 
 This page sorts text types into three families by audience: **personal**, **professional** and
@@ -168,6 +183,11 @@ freundlichen Grüßen"; Spanish uses "Estimado/a" and "Atentamente". Check yours
 | Leaflet or brochure | Title, short sections under subheadings | Neutral, direct | Bullet points, imperatives, contact details | Call to action |
 | Review | Title, what is being reviewed | Neutral, evaluative | Brief summary, strengths, weaknesses, rating or verdict | Recommendation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--04-three-families.webp" width="900" height="538" alt="Three columns of text types sorted by audience: personal (diary, personal email or letter, personal blog post), professional (formal letter, formal email, report, proposal) and mass media (article, opinion piece, speech, leaflet, review). A note lists the conventions to check: layout and opening, register, typical moves and closing." loading="lazy">
+  <figcaption>Sort text types by audience: personal, professional, mass media.</figcaption>
+</figure>
+
 ## Choosing one task from three
 
 You get three tasks and write one. Spend the first minutes choosing well.
@@ -179,6 +199,11 @@ You get three tasks and write one. Spend the first minutes choosing well.
    vocabulary in my target language?
 4. **Choose the task where both answers are yes.**
 5. **Commit.** Changing task halfway wastes time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--05-choosing-a-task.webp" width="900" height="560" alt="Five numbered steps: read all three tasks to the end; underline role, reader, purpose, text type and content points; ask whether you control the conventions and have the vocabulary; choose the task where both answers are yes; and commit." loading="lazy">
+  <figcaption>Choose the task whose conventions and vocabulary you control, then commit.</figcaption>
+</figure>
 
 ## Worked example: decoding and planning a professional task
 
@@ -222,6 +247,11 @@ An original task written for Marlbridge (theme: Social organization, topic: the 
 
 The opening names the purpose, then gives a concrete reason. The close gives availability, thanks
 the reader and uses a fixed formula.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--06-letter-plan.webp" width="900" height="746" alt="Role, reader and purpose cards sit above a letter outline. Five paragraphs are labelled: salutation and purpose; what you bring, with two examples; an idea for the reading club; practical questions about hours, training and references; and a closing with availability, thanks and a formal formula." loading="lazy">
+  <figcaption>Purpose first, specific strengths, a sign of initiative, practical questions, a formal close.</figcaption>
+</figure>
 
 ## SL and HL
 

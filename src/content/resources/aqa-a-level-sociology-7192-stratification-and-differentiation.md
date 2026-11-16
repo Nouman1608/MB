@@ -52,6 +52,11 @@ You must know "both the evidence of and the sociological explanations for" this 
 
 So this topic sits beside Beliefs in Society, Global Development and The Media. The specification does not print how the 40 marks are split into questions; your teacher will confirm the format and the command words used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## 1. Stratification and differentiation by class, gender, ethnicity and age
 
 **Stratification** is the ranking of groups in a lasting hierarchy of unequal rewards. **Differentiation** is the process by which groups are treated as different, for example by gender or age.
@@ -84,6 +89,16 @@ Elaine Cumming and William Henry, *Growing Old* (1961), proposed **disengagement
 
 **Worked paragraph.** *Davis and Moore argue that higher rewards attract talent to important roles [knowledge]. Applied to the UK, this might explain why surgeons earn more than shop assistants [application]. However, it cannot explain why a person who inherits a large estate is rewarded without filling any role, which suggests rewards reflect power as well as function [analysis]. Tumin's point that stratification limits the discovery of talent strengthens the Marxist case [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--02-class-theories.webp" width="900" height="588" alt="A grid comparing functionalist, Marxist and Weberian theories of class: what class is based on, each theory’s key claim, and the main challenge to or development of it." loading="lazy">
+  <figcaption>Functionalists see class as functional; Marxists as exploitation; Weberians as market position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--03-walby-patriarchy.webp" width="900" height="539" alt="Walby’s six structures of patriarchy: paid work, the household, the state, violence, sexuality and culture, with a shift from private patriarchy in the home to public patriarchy in work and the state. Hakim’s preference theory offers a contrasting view." loading="lazy">
+  <figcaption>Walby sees patriarchy moving from the home into work and the state.</figcaption>
+</figure>
+
 ## 2. Dimensions of inequality and life chances
 
 **Life chances** is Weber's term for the opportunities a person has to gain things valued in a society: good health, education, housing, income and long life. Weber's three dimensions explain why groups differ.
@@ -102,6 +117,11 @@ Elaine Cumming and William Henry, *Growing Old* (1961), proposed **disengagement
 
 **Worked paragraph.** *Weber's concept of status helps explain disability inequality [knowledge]. A wheelchair user with a degree may hold strong market skills but still be turned down for jobs in offices without step-free access [application]. This shows the barrier is social, not only economic, which supports Oliver's social model [analysis]. Shakespeare would add that pain or fatigue can limit work even where barriers are removed [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--04-weber-life-chances.webp" width="900" height="622" alt="Class, status and power each feed into life chances: the opportunities to gain good health, education, housing, income and long life. Disability shows status barriers at work." loading="lazy">
+  <figcaption>Life chances depend on status and power as well as economic class.</figcaption>
+</figure>
+
 ## 3. Defining and measuring social class
 
 Sociologists usually measure class by **occupation**, which is linked to life chances.
@@ -118,6 +138,11 @@ Sociologists usually measure class by **occupation**, which is linked to life ch
 **Occupation, gender and social class.** The **conventional approach** classified a household by the "head of household", usually the male earner. John Goldthorpe defended this in "Women and Class Analysis: In Defence of the Conventional View" (1983). He argued that women's paid work was often interrupted and that the male wage shaped the household's life chances. Joan Acker, "Women and Social Stratification: A Case of Intellectual Sexism" (1973), had already criticised this approach. Michelle Stanworth (1984) replied that women's class position should not be merged with their husbands'. The **individual approach** classifies each adult by their own occupation, which can place a couple in two classes.
 
 **Worked paragraph.** *NS-SEC measures class through employment relations [knowledge]. In a household where one partner is a nurse and the other a delivery driver, the conventional approach would classify the household by one earner and ignore the other [application]. This hides the resources both bring and the inequality within the household [analysis]. Stanworth's individual approach fixes this, although Goldthorpe would say the household, not the person, shares life chances [evaluation].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--05-measuring-class.webp" width="900" height="623" alt="Three ways of measuring class: the Registrar General’s scale, NS-SEC with eight classes based on employment relations, and the Great British Class Survey’s seven classes based on three capitals. Below, the conventional household approach is compared with the individual approach." loading="lazy">
+  <figcaption>Each scale measures something different, and gender changes the picture.</figcaption>
+</figure>
 
 ## 4. Changes in structures of inequality
 
@@ -136,6 +161,11 @@ Sociologists usually measure class by **occupation**, which is linked to life ch
 
 **Worked paragraph.** *Sklair argues that a transnational capitalist class pursues profit across borders [knowledge]. When a firm moves its call centre from a UK town to another country, local workers lose jobs while shareholders gain [application]. This suggests class relations now operate globally, which supports a Marxist reading of change [analysis]. However, Pakulski and Waters would argue that class is dissolving, so the workers' position may be better read as a status difference [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--06-changing-class.webp" width="900" height="671" alt="Six views of how class has changed: embourgeoisement, proletarianisation, the underclass, the precariat, the death of class, and Sklair’s transnational capitalist class, each with its evidence or criticism." loading="lazy">
+  <figcaption>Sociologists disagree on whether class is fading, splitting or going global.</figcaption>
+</figure>
+
 ## 5. Social mobility
 
 **Social mobility** is movement between strata. **Intergenerational** mobility compares people with their parents; **intragenerational** mobility tracks a person over their own career. **Absolute** mobility is the total amount of movement. **Relative** mobility compares the chances of people from different backgrounds. **Short-range** mobility is a move to an adjacent class; **long-range** mobility crosses several. **Elite self-recruitment** is when top positions are filled from the same group.
@@ -151,6 +181,11 @@ Sociologists usually measure class by **occupation**, which is linked to life ch
 **Significance.** High mobility may make inequality look fair. Low relative mobility suggests advantage is passed on through economic, cultural and social capital. Studies that compared only men with their fathers missed women's mobility.
 
 **Worked paragraph.** *The Oxford Mobility Study found that absolute upward mobility rose [knowledge]. In a town where new office and professional jobs open up, many children of manual workers move up, but children of professionals keep their advantage [application]. So rising mobility does not prove the system is fair [analysis]. Saunders would reply that ability, not just class, explains who rises [evaluation].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-stratification-and-differentiation--07-social-mobility.webp" width="900" height="659" alt="Three pairs of mobility terms: intergenerational and intragenerational, absolute and relative, short-range and long-range. A timeline of studies runs from Glass (1954) and the Oxford Mobility Study (1972) to Saunders (1996), Breen and Goldthorpe (1999) and Blanden, Gregg and Machin (2005)." loading="lazy">
+  <figcaption>Absolute mobility rose, but relative chances stayed unequal.</figcaption>
+</figure>
 
 ## Common errors
 

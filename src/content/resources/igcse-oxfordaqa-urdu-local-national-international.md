@@ -54,6 +54,11 @@ vocabulary and structures for discussing issues affecting the wider world
 - Topic 4: Travel and tourism — vocabulary and structures for discussing
 holidays, transport and travel experiences
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--01-theme-2-map.webp" width="900" height="680" alt="Theme 2 has four topics: home, town, neighbourhood and region; social issues (charity and voluntary work, healthy and unhealthy living); global issues (the environment, poverty); and travel and tourism." loading="lazy">
+  <figcaption>Four topics; sub-topics are set under Social issues and Global issues only.</figcaption>
+</figure>
+
 ## Vocabulary you need in place
 
 This theme demands a wider and more opinion-heavy vocabulary than
@@ -78,6 +83,11 @@ language -- the issue is..., a possible solution would be..., this
 would help because... -- as core vocabulary in its own right, not an
 optional extra.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--02-problem-solution-frame.webp" width="900" height="650" alt="Four linked steps for issue-based writing: name the problem (the issue is), link cause and effect (because of this, as a result, this leads to), propose a solution (a possible solution would be, if we ... would) and justify it (this would help because)." loading="lazy">
+  <figcaption>Treat problem-and-solution phrases as core vocabulary for this theme.</figcaption>
+</figure>
+
 ## Structures that raise the grade
 
 The structures that mattered for Theme 1 remain essential, but Theme 2
@@ -101,6 +111,11 @@ Because this theme mixes description (home, travel) with argument
 single piece of writing -- describing a place factually, then
 evaluating a problem affecting it opinion-led.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--03-describe-then-evaluate.webp" width="900" height="520" alt="Two halves of one piece of writing. Describing a place uses the present tense, comparatives and past narrative; evaluating a problem uses impersonal constructions, cause-and-effect connectives and conditionals." loading="lazy">
+  <figcaption>Theme 2 mixes description and argument, so practise switching between them.</figcaption>
+</figure>
+
 ## Approaching the tasks
 
 For **reading**, questions on social and global issues
@@ -112,6 +127,11 @@ travel and tourism tasks frequently ask for a past-tense recount
 alongside a present-tense evaluation (what you did, and what you think
 of it now), so practise moving between tenses within the same
 response rather than defaulting to one throughout.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--04-approaching-the-tasks.webp" width="900" height="630" alt="In reading, sort each part of an issues text into describing a problem, proposing a solution or evaluating how well a solution worked. In travel writing, move from a past-tense recount of what you did to a present-tense evaluation of what you think now." loading="lazy">
+  <figcaption>Separate problem, solution and evaluation in reading; switch tenses in travel writing.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -135,6 +155,11 @@ Strong: describes the specific problem (present tense) -- traffic
 Naming a specific local problem, giving its cause, proposing a
 conditional solution, and closing with a justified opinion is a
 reliable structure for the strongest responses in this theme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--05-problem-cause-solution-opinion.webp" width="900" height="710" alt="A weak answer only says there is a lot of pollution. A strong answer names a specific local problem, gives its cause, proposes a conditional solution and closes with an opinion and a reason." loading="lazy">
+  <figcaption>Problem, cause, conditional solution, justified opinion: a reliable structure for this theme.</figcaption>
+</figure>
 
 ## Common mistakes
 

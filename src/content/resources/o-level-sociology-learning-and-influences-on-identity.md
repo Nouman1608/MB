@@ -71,6 +71,11 @@ Social life feels natural, but it is made by people and learned. Its building bl
 These shape identity because people judge themselves by the roles and statuses they hold and by
 how others respond to them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--01-building-blocks-of-culture.webp" width="900" height="751" alt="Culture contains values, which become norms, which settle into customs, each with an example. Roles, status (ascribed or achieved) and stereotypes also shape behaviour. Together they feed identity, because people judge themselves by their roles and statuses and by how others respond." loading="lazy">
+  <figcaption>Social life feels natural, but every building block of it is made by people and learned.</figcaption>
+</figure>
+
 ## Is behaviour caused by nature or nurture?
 
 **Nature** says behaviour is inborn; **nurture** says it is learned. Sociologists stress nurture:
@@ -79,6 +84,11 @@ how others respond to them.
   showed dog-like behaviour and limited speech — suggesting human behaviour depends on socialisation.
 - **Relativity of culture:** what is polite, beautiful or moral varies between societies and over
   time, which would not happen if behaviour were fixed by biology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--02-nature-nurture.webp" width="900" height="647" alt="A balance tipped towards nurture. Nature says behaviour is inborn. On the nurture side are the case of Oxana Malaya, who showed dog-like behaviour after years living among dogs, and the relativity of culture, since manners and morals vary between societies." loading="lazy">
+  <figcaption>Isolated children and cultural variation both point to nurture.</figcaption>
+</figure>
 
 ## What are primary and secondary socialisation?
 
@@ -95,6 +105,11 @@ socialisation** continues throughout life through **education**, the **peer grou
 | Religion | **Religious teachings** on morality and family | Strong in religious communities |
 | Workplace | **Workplace training** — induction, codes of conduct | Shapes adult occupational identity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--03-socialisation-across-life.webp" width="900" height="778" alt="A chart of six agencies of socialisation across early childhood, childhood, teenage years and adulthood. The family is strongest in the early years (primary socialisation); education spans childhood; peer pressure peaks in the teenage years; the media is constant; religion varies by community; workplace training shapes adults." loading="lazy">
+  <figcaption>Primary socialisation starts in the family; secondary agencies take over and continue for life.</figcaption>
+</figure>
+
 ## How do sociological theories explain socialisation?
 
 - **Consensus (functionalism):** socialisation passes on shared values, creating **value consensus**
@@ -107,6 +122,11 @@ socialisation** continues throughout life through **education**, the **peer grou
   that keep women subordinate. Sue Sharpe's *Just Like a Girl* (1976) found working-class girls in
   London prioritised marriage and children; when she repeated the study in the 1990s, girls'
   priorities had shifted towards jobs and careers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--04-theories-of-socialisation.webp" width="900" height="704" alt="A tree splitting socialisation into a consensus view and conflict views. Functionalism says it passes on shared values and creates cohesion. Marxism says it teaches capitalist ideology and reproduces class (Bowles and Gintis, 1976). Feminism says gender role socialisation keeps women subordinate. Sharpe found girls’ priorities shifted from marriage and children in 1976 to jobs and careers in the 1990s." loading="lazy">
+  <figcaption>Functionalists see socialisation as sharing values; Marxists and feminists see it as reproducing inequality.</figcaption>
+</figure>
 
 ## What influences social identity?
 
@@ -134,6 +154,16 @@ tension; **global culture** can connect people while weakening local traditions.
 **Postmodernism (2.3.4)** — identities are chosen, not given: people "pick and mix" through
 consumption, lifestyle and digital identities. Critics reply that money, family expectations,
 religion and class still limit choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--05-globalisation-and-identity.webp" width="900" height="563" alt="Global media, brands and mixing cultures lead to three outcomes: homogenisation, where identities become more alike; hybrid identities, such as young people of South Asian heritage combining traditions; and cultural defence, where groups reinforce language, dress or religion." loading="lazy">
+  <figcaption>Globalisation can make identities more alike, mix them, or make people defend them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-learning-and-influences-on-identity--06-chosen-or-limited-identity.webp" width="900" height="632" alt="Postmodernists say people pick and mix identities through consumption, lifestyle and digital identities. Critics reply that money, family expectations, religion and class still limit choice. The digital self brings expression, connection and support, but also cyberbullying, pressure to look perfect and privacy risks." loading="lazy">
+  <figcaption>Identity may feel chosen, but money, family, religion and class still set limits.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

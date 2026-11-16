@@ -93,6 +93,26 @@ people and environment*.
 rain can cross national borders; greenhouse gas emissions are global.
 Questions often ask you to distinguish these scales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--01-threat-chains.webp" width="900" height="730" alt="Four chains from activity to effect. Clearing, ploughing slopes and overgrazing remove plant cover so rain and wind strip topsoil: soil erosion, lower yields and silted rivers. Overgrazing, over-cultivation and fuelwood cutting cause desertification, as in the Sahel, leading to food shortages and migration. Burning fossil fuels, clearing forest, cattle, rice and landfill add gases that cause enhanced global warming. Sewage, factory waste, run-off and spills cause water pollution, disease and fish deaths." loading="lazy">
+  <figcaption>Activity → process → threat → effect on people and the environment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--02-enhanced-global-warming.webp" width="900" height="645" alt="Sunlight reaches the ground; heat rises, but extra greenhouse gas in the atmosphere sends more of it back. Sources drawn on the ground: power stations and factories, forest burning and vehicles giving carbon dioxide, and methane from cattle, rice and landfill. Global effects: rising temperatures, melting ice, sea-level rise, more extreme weather and changing crop zones." loading="lazy">
+  <figcaption>Extra gases from human activity make the natural greenhouse effect stronger.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--03-pollution-scales.webp" width="900" height="565" alt="Three nested boxes. Local: quarry noise and dust, noise from airports and motorways, and visual pollution from quarries, power lines and litter. Crossing borders: acid rain from sulphur and nitrogen gases. Global: greenhouse gas emissions." loading="lazy">
+  <figcaption>Some threats stay local, acid rain crosses borders, greenhouse gases are global.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-0460-environmental-risks-of-economic-development--09-soil-erosion.webp" width="900" height="980" alt="Top: a bare slope with trees removed; runoff carries soil to the river as silt; plan view shows furrows running downhill. Bottom: terraces with tree belts and crop cover slow runoff; plan view shows furrows along the slope." loading="lazy">
+  <figcaption>Bare slopes lose soil; terraces, contour ploughing and tree belts slow it.</figcaption>
+</figure>
+
 ## Sustainable development and management
 
 **Sustainable development** is development that meets the needs of
@@ -112,6 +132,11 @@ Management strategies you can use:
 - Monitoring: satellite images to detect illegal clearance.
 - International agreements: countries agreeing targets to reduce
   greenhouse gas emissions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--04-sustainable-development.webp" width="900" height="620" alt="A definition: development that meets today’s needs without reducing the ability of future generations to meet theirs. Three overlapping circles show economic growth, people’s well-being and environmental protection in balance. Six strategies: laws and regulation, cleaner technology, better farming, restoring damaged land, satellite monitoring and international agreements." loading="lazy">
+  <figcaption>Growth, people and environment in balance, today and for the future.</figcaption>
+</figure>
 
 ## Resource conservation
 
@@ -179,6 +204,11 @@ enforcement was strong, but it has risen again in some later years,
 which shows that management depends on political will and enforcement,
 not only on laws.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--05-amazon-case-study.webp" width="900" height="728" alt="Three columns. Activities: cattle ranching, soya farming, logging, mining at Carajás and gold mining with mercury, and roads and HEP such as the Trans-Amazonian Highway and Belo Monte dam. Risks: soil erosion and leaching, enhanced global warming, mercury pollution in fish, biodiversity loss, and loss of indigenous land. Management: protected areas, the Forest Code, INPE satellite monitoring and the 2006 Soy Moratorium; clearance fell when enforcement was strong but later rose again." loading="lazy">
+  <figcaption>Management works only when laws are enforced.</figcaption>
+</figure>
+
 ## Worked example: data and explanation
 
 **Illustrative data**: forest cover in a fictional district fell from
@@ -194,6 +224,11 @@ A follow-up "explain" question might ask how this loss could increase
 flood risk downstream: fewer trees intercept rain, more water runs
 quickly over the surface, and eroded soil fills river channels, so
 rivers overflow more easily.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-environmental-risks-economic-development--06-forest-loss-calculation.webp" width="900" height="550" alt="Two bars for a fictional district: forest cover of 8,400 square kilometres in 2005 and 6,300 in 2025. Calculations: a loss of 2,100 square kilometres, 25 per cent, or 105 square kilometres a year over 20 years. Below, a chain explains the flood risk: fewer trees intercept rain, more water runs off quickly, eroded soil fills channels and rivers overflow more easily." loading="lazy">
+  <figcaption>Loss, percentage and rate: then link the numbers to a process.</figcaption>
+</figure>
 
 ## Common mistakes
 

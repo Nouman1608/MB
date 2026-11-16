@@ -101,7 +101,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
       `<line x1="80" y1="735" x2="140" y2="735" stroke="${C.rust}" stroke-width="5" marker-end="url(#ahR)"/>` + t(152, 742, 'backwash: straight down the slope under gravity', { size: 17 })),
     'Plan view of a beach. Waves approach at an angle driven by the prevailing wind. A pebble is carried up the beach diagonally by the swash and dragged straight back down by the backwash, so it zig-zags along the coast.',
     'Swash at an angle, backwash straight down: the zig-zag that moves sediment along the coast.',
-    '## The work of the wind');
+    '## The work of the sea');
 }
 
 // 04 Headland erosion sequence
@@ -137,7 +137,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
     svg(900, 820, 'Crack, cave, arch, stack, stump', body),
     'Five front views of a headland. 1: a crack at the base. 2: the crack widens into a cave. 3: caves meet to form an arch. 4: the arch roof collapses, leaving a stack. 5: the stack is eroded into a stump covered at high tide.',
     'Erosion of a headland follows one sequence from crack to stump.',
-    '## Depositional landforms in more detail');
+    '## The work of the sea');
 }
 
 // 05 Spit formation (plan view)
@@ -168,7 +168,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
       arrow(860, 610, 815, 300, { w: 4, dash: '10 7' }) + t(860, 640, 'a change in wind or wave', { size: 17, anchor: 'end', weight: 600 }) + t(860, 660, 'direction curves the end', { size: 17, anchor: 'end', weight: 600 })),
     'Plan view of a coastline that bends inland at a river mouth. Longshore drift carries sediment east past the bend, where it is deposited as a long narrow spit. A change in wind direction curves the end into a hook. Salt marsh forms in the sheltered water behind the spit.',
     'A spit grows where longshore drift meets a bend in the coast; its end can curve into a hook.',
-    '## Coral reefs and mangrove swamps');
+    '## Depositional landforms in more detail');
 }
 
 // 06 Sand dune succession
@@ -191,7 +191,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
       t(270, 603, 'older, further inland, more vegetation and humus; marram grass binds the sand', { size: 16, fill: C.tealDark, weight: 600 })),
     'Cross-section from the sea inland. Small embryo dunes form near the beach, then taller fore dunes and yellow dunes with marram grass, then lower, older grey dunes with dense vegetation. An onshore wind blows from the sea.',
     'Dunes get older, more vegetated and richer in humus with distance from the beach.',
-    '## Coral reefs and mangrove swamps');
+    '## The work of the wind');
 }
 
 // 07 Coral reef types
@@ -222,7 +222,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
       chip(669, y0 + 3 * (ph + 16) + 56, 201, 'Oxygenated', 'from wave action')),
     'Three cross-sections. A fringing reef is attached to the coast of an island. A barrier reef is separated from the shore by a lagoon. An atoll is a ring of coral around a lagoon where the island has sunk. Below: coral needs warm water above about 18 °C, shallow clear water, salt water and well-oxygenated water.',
     'Fringing, barrier and atoll reefs differ in how far the coral is from the shore.',
-    '## Hazards and opportunities');
+    '## Coral reefs and mangrove swamps');
 }
 
 // 08 Managing coastal erosion (plan view, cost-benefit)
@@ -257,5 +257,5 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
       t(60, 736, 'so erosion can speed up downdrift.', { size: 17, fill: C.muted })),
     'Plan view of a coast with farmland, a town and a gas terminal. The town is protected by a sea wall, groynes that trap sand and an offshore breakwater; the gas terminal by rock armour. The farmland is left to erode by managed retreat, shown by former cliff lines. Longshore drift moves sediment along the coast.',
     'Hard engineering protects high-value places; low-value land may be left to retreat.',
-    '## Worked example 1: rate of cliff retreat');
+    '## Managing coastal erosion');
 }

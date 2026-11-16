@@ -47,6 +47,11 @@ printed extract. The same three assessment objectives apply as for prose:
 The difference is what counts as a "method". In a play, methods include everything that happens on
 stage, not only the words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--01-p1-glance.webp" width="900" height="710" alt="Paper 1 lasts 1 hour 30 minutes, is worth 60 marks and counts for 40 percent of the International GCSE. A bar splits it into two equal sections: Section A Prose Fiction, 30 marks, and Section B Drama, 30 marks. Each section needs one question on your chosen set text. The exam is closed book, shown by a crossed-out book." loading="lazy">
+  <figcaption>Paper 1 is two equal 30-mark sections in a closed-book exam.</figcaption>
+</figure>
+
 ## Thinking like an audience
 
 A novel is read alone, at the reader's own pace. A play is watched, by an audience together, in real
@@ -62,6 +67,11 @@ time. That changes how meaning works:
 Writing "the audience" rather than "the reader" is a small habit that signals you understand the
 form. Better still, explain **what an audience would experience** at a particular moment.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--01-reader-vs-audience.webp" width="900" height="742" alt="A lone reader with a book is set beside an audience watching two actors on stage. Four rows explain how this changes meaning: the audience sees silent characters, often knows more than a character, experiences timing controlled by the playwright and performers, and must infer motives without a narrator." loading="lazy">
+  <figcaption>A play’s meaning is made for an audience watching together in real time.</figcaption>
+</figure>
+
 ## The playwright's toolkit
 
 | Method | What to look for | Typical effect |
@@ -76,6 +86,11 @@ form. Better still, explain **what an audience would experience** at a particula
 | Verse and prose (where used) | Changes in form of speech | Can mark status, emotion or a breakdown of control |
 
 Not every play uses every method. Choose the ones your set play relies on most.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--02-playwrights-toolkit.webp" width="900" height="870" alt="Eight dramatic methods grouped by what the audience sees (stage directions, props and set, entrances and exits), hears (dialogue, soliloquy and aside, verse and prose) and knows (dramatic irony, structure). Each has what to look for and its typical effect." loading="lazy">
+  <figcaption>Every method is a way of shaping what the audience sees, hears or knows.</figcaption>
+</figure>
 
 ## Worked example 1: reading a short scene as performance
 
@@ -107,6 +122,11 @@ An analytical paragraph aiming for the higher levels:
 Look at what makes it strong: it names staging methods (prop, stage direction, pause), analyses short
 quotations, and keeps the audience's experience at the centre.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--03-scene-as-performance.webp" width="900" height="688" alt="The guide’s invented kitchen scene with five details marked: the third plate as a prop, Daniel’s coat removed slowly but not hung up, the pause after “He won’t”, Mara straightening the fork instead of arguing, and her final line, which the audience hears as a refusal to give up." loading="lazy">
+  <figcaption>Props, stage directions and pauses carry the meaning, not just the words.</figcaption>
+</figure>
+
 ## Worked example 2: building an essay on the whole play
 
 Question: *How does the playwright present the relationship between a parent and child in your
@@ -125,6 +145,11 @@ studied play?*
 
 For each point, prepare one quotation with a **staging note**: how it might be delivered, what the
 other character is doing, or what the stage directions require.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-drama--04-whole-play-essay.webp" width="900" height="877" alt="Five numbered stages for an essay on a parent and child relationship: an argument, the relationship’s first appearance on stage, a turning point or climax, the ending, and one precise context link. Below, each point pairs a quotation with a staging note." loading="lazy">
+  <figcaption>Move from first appearance to ending, and give every quotation a staging note.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -154,6 +179,11 @@ wording carefully: if it asks you to refer to the play as a whole as well, move 
 the extract with earlier or later moments. On an **essay-style** question, range across the whole
 play from memory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--02-essay-or-passage.webp" width="900" height="950" alt="In both Section A and Section B you choose between two question types. A passage-based question gives a printed extract to anchor close, line-by-line analysis; it suits candidates who read closely but are less sure recalling the whole text. An essay-style question needs evidence selected from across the whole text, from memory; it rewards a good quotation bank. Practise both under timed conditions." loading="lazy">
+  <figcaption>Each section offers a choice: a printed extract to analyse, or an essay that relies on memory of the whole text.</figcaption>
+</figure>
+
 ## Revising a closed-book play
 
 - Learn short quotations for each major character, each with a staging note.
@@ -162,6 +192,11 @@ play from memory.
 - Practise "director's notes": take a short exchange and write three sentences on how it could be
   staged and why.
 - Rehearse one timed paragraph from memory every few days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-prose-and-drama--03-quotation-bank.webp" width="900" height="960" alt="Because Paper 1 is closed book, quotations must come from memory. A compact bank has two parts. For the prose text: two or three major characters, each with a short quotation showing development or central trait, and two or three central themes with evidence from more than one point in the text. For the play: at least one quotation per major character that carries a clear staging note. A small bank beats memorising a whole text." loading="lazy">
+  <figcaption>A compact bank of short quotations beats trying to memorise a whole text.</figcaption>
+</figure>
 
 ## Related resources
 

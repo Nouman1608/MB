@@ -58,6 +58,11 @@ For eAssessment, the facts printed in the brief are:
 
 The brief does not break Criterion C into named strands. The four skills below -- responding to the text, interacting, fluency and accuracy, pronunciation -- are what any spoken judgement rests on. Check the exact descriptors for your level with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--01-speaking-task-overview.webp" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination; criterion C, speaking, is a separate interactive examination worth 24 marks that responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
+  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 24 marks.</figcaption>
+</figure>
+
 ## Responding to a multimodal text
 
 A multimodal text combines more than one mode of meaning: words, images, layout, colour, sometimes sound. A poster, a web page, an advert or an infographic all count. In a speaking task the stimulus gives you something to talk about. What you say should show you have read both the words and the visuals.
@@ -90,6 +95,11 @@ What this shows:
 
 **Applying it in your target language:** before you practise, write one sentence frame for each step. For example: a frame for "In the photo there is/are…", one for "The headline means…", one for "I think the aim is to…", one for "In my community…". Learn the frames, not whole answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--02-see-read-think-relate.webp" width="900" height="730" alt="Four steps applied to a Repair Café poster: see (a teenager and an older man fixing a bike wheel, smiling), read (the headline “Don’t bin it – fix it!” and the icons), think (repair rather than throw away; two generations learning from each other) and relate (things thrown away locally, with a counter-view). Steps 1 and 2 are safe ground; 3 and 4 show range and thinking." loading="lazy">
+  <figcaption>Describe, read, interpret, then relate it to your world with a view.</figcaption>
+</figure>
+
 ## Interaction strategies
 
 The brief calls the task interactive, so how you handle the other speaker matters as much as what you know. These strategies keep a conversation alive.
@@ -116,6 +126,11 @@ Extended answer, built with the **answer → reason → example → consequence*
 
 That answer uses present, past and conditional forms naturally, and leaves two new threads to follow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--03-extending-an-answer.webp" width="900" height="715" alt="Asked whether they would volunteer at a Repair Café, a flat answer is “Yes, I would.” The extended answer adds a reason, a past example (fixing a grandmother’s radio) and a conditional consequence (practising more and teaching younger children), using present, past and conditional forms." loading="lazy">
+  <figcaption>Answer, reason, example, consequence: one line becomes four.</figcaption>
+</figure>
+
 ### Handling the unexpected question
 
 You will be asked things you did not plan for. Use a three-move recovery:
@@ -125,6 +140,11 @@ You will be asked things you did not plan for. Use a three-move recovery:
 3. **Link back** to vocabulary you know well from the stimulus.
 
 Never switch to a memorised paragraph that does not answer the question. The [criteria in practice guide](/resources/ib-myp-language-acquisition-criteria-in-practice/) explains why recitation cannot show interactive skill.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--04-interaction-strategies.webp" width="900" height="755" alt="Six interaction strategies with English models: ask for repetition, check meaning, paraphrase a missing word, give a view and invite one, self-correct, and hold the turn. For an unexpected question: buy time, narrow it to something you can answer, and link back to vocabulary from the stimulus." loading="lazy">
+  <figcaption>Never switch to a memorised paragraph that does not answer the question.</figcaption>
+</figure>
 
 ## Fluency
 
@@ -136,6 +156,11 @@ How to build it:
 - **Pause at phrase boundaries.** A pause after "In my opinion," sounds natural. A pause in the middle of a verb does not.
 - **Use fillers from the target language**, not "um" or your home language. Two or three are enough.
 - **The 4-3-2 drill.** Talk about one stimulus for 4 minutes, then the same content for 3, then for 2 -- 9 minutes in all. Each round forces you to say the same ideas more smoothly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--05-fluency-drill.webp" width="900" height="635" alt="Three bars of 4, 3 and 2 minutes for the same stimulus, nine minutes in all, so the same ideas come out more smoothly each round. Tips: learn chunks, pause at phrase boundaries and use target-language fillers. For accuracy, open with a safe structure, then stretch to one more complex form." loading="lazy">
+  <figcaption>Say the same ideas in less time to make them flow.</figcaption>
+</figure>
 
 ## Accuracy
 
@@ -180,6 +205,11 @@ A weekly routine for the last term:
 6. **Refresh your phrase bank** -- the interaction strategies table, rebuilt in your target language.
 
 For the on-screen examination, see the [eAssessment preparation page](/resources/ib-myp-language-acquisition-eassessment-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--06-weekly-routine.webp" width="900" height="700" alt="A six-step weekly cycle for the last term: collect stimuli linked to the global contexts, a two-minute read listing words for the image and text, speak with a partner who asks follow-ups, record and review, do the 4-3-2 drill, and refresh the phrase bank in the target language." loading="lazy">
+  <figcaption>Train spontaneous speaking every week, not recitation.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -85,6 +85,11 @@ Crisis* (1978) linked a moral panic about "mugging" to the racialisation of crim
 hegemony. Moral panics can target class (welfare claimants), gender (single mothers), ethnicity
 (migrants) and age (youth subcultures, online gaming).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--01-moral-panic.webp" width="900" height="961" alt="Five steps of a moral panic from Cohen’s study of Mods and Rockers: an event, exaggerated sensational reporting, the group becomes folk devils, public concern spreads and harsher control follows. Panics can target class, gender, ethnic and age groups." loading="lazy">
+  <figcaption>Sensational reporting turns a group into folk devils and triggers harsher control.</figcaption>
+</figure>
+
 ## How do media and popular culture relate?
 
 Popular culture is the culture consumed by the majority — music, film, sport, social media.
@@ -106,6 +111,16 @@ Stuart Hall's **encoding/decoding** model (1973) and David Morley's *The Nationw
 (1980) showed audiences reading the same programme in dominant, negotiated or oppositional ways,
 supporting active-audience views.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--02-effects-models.webp" width="900" height="905" alt="Four schematics. Hypodermic syringe: media inject messages straight into a passive audience. Two-step flow: messages pass through an opinion leader to others. Uses and gratifications: an active user chooses media for diversion, relationships, identity and surveillance. Cultural effects: repeated messages over time shape attitudes. The normative model is noted below." loading="lazy">
+  <figcaption>Models differ on whether the audience is passive, guided, active or slowly shaped.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--03-encoding-decoding.webp" width="900" height="663" alt="Producers encode a meaning in a programme; audiences then decode it in a dominant reading that accepts the meaning, a negotiated reading that accepts it in part, or an oppositional reading that rejects it." loading="lazy">
+  <figcaption>The same programme can be read in dominant, negotiated or oppositional ways.</figcaption>
+</figure>
+
 ## Does violent media cause violent behaviour?
 
 **Arguments for:** Bandura's experiments; the Newson Report (1994), written after the murder of
@@ -119,6 +134,11 @@ James Bulger, argued that violent videos could harm children; repeated exposure 
 - David Buckingham (1993) found children were media-literate and distinguished fiction from
   reality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--04-violent-media.webp" width="900" height="434" alt="Arguments that violent media cause violence (Bandura’s experiments, the Newson Report, desensitisation) set against arguments that they do not (Charlton’s St Helena study, Gauntlett’s critique of effects research, Buckingham’s media-literate children)." loading="lazy">
+  <figcaption>Laboratory evidence of imitation is challenged by natural studies and active-audience research.</figcaption>
+</figure>
+
 ## How does the media affect crime?
 
 - **Deviance amplification** — Leslie Wilkins (1964) and Jock Young's *The Drugtakers* (1971):
@@ -126,6 +146,11 @@ James Bulger, argued that violent videos could harm children; repeated exposure 
 - **Moral panics** — Cohen (1972); Hall et al. (1978).
 - **Copycat crime** and the glamorising of offending.
 - **Fear of crime** — Gerbner found heavy viewers overestimated their risk of victimisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--05-deviance-amplification.webp" width="900" height="765" alt="A cycle: deviance attracts media attention, which prompts police reaction, which produces more deviance and more media attention, with each turn bigger. Below, three further media effects on crime: moral panics, copycat crime and fear of crime." loading="lazy">
+  <figcaption>Media attention and police reaction can increase the deviance they report.</figcaption>
+</figure>
 
 ## Can the media have a positive impact?
 

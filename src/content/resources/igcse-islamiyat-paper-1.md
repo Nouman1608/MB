@@ -100,23 +100,53 @@ specific example of its teaching, rather than listing themes as
 abstract labels — vague, unsupported statements are a common way marks
 are lost even when the underlying knowledge is correct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 on the major themes of the Qur'an (8 marks, set from the fifteen appendix passages) and Question 2 on its history and importance (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet and the first Islamic community, at 14 marks each." loading="lazy">
+  <figcaption>1.1 and 1.2 cannot be avoided; the only choice is between 1.3 and 1.4 questions.</figcaption>
+</figure>
+
 ## The major themes of the Qur'an
 
 The Qur'an's central theme is **tawhid**, the absolute oneness of God, which underlies every other teaching in the text. Alongside this sits **prophethood**: the Qur'an presents Muhammad (pbuh) as the last in a succession of prophets sent by God to different peoples, each carrying essentially the same message, and it retells the stories of earlier prophets and communities as lessons and warnings for its own audience. A third major theme is **the Day of Judgement and the afterlife** — the teaching that every person is accountable for their deeds and will be rewarded or punished accordingly, which gives the Qur'an's ethical teaching its urgency. Finally, the Qur'an provides **guidance for individual and social conduct**, covering worship, family law, trade, justice and the treatment of the poor. These themes are not evenly spread through the text: **Makkan surahs**, revealed during the Prophet's time in Makkah, are generally shorter and more rhythmic in style, and concentrate on belief — tawhid, prophethood and the Day of Judgement. **Madinan surahs**, revealed after the move to Madinah, are generally longer and more detailed, addressing legislation and the organisation of the community, including worship, inheritance, marriage, treaties and warfare.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--02-major-themes.webp" width="900" height="470" alt="Tawhid, the oneness of God, sits on top as the central theme. Beneath it are three further themes: prophethood, with Muhammad (pbuh) as the last prophet; the Day of Judgement and accountability; and guidance for individual and social conduct." loading="lazy">
+  <figcaption>Tawhid underlies the other three themes: prophethood, judgement and guidance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--03-makkan-and-madinan-surahs.webp" width="900" height="620" alt="A comparison. Makkan surahs are generally shorter and more rhythmic and focus on belief: tawhid, prophethood and the Day of Judgement. Madinan surahs are generally longer and more detailed and deal with legislation and the organisation of the community, including worship, inheritance, marriage, treaties and warfare." loading="lazy">
+  <figcaption>The themes are not evenly spread: belief in Makkah, legislation in Madinah.</figcaption>
+</figure>
 
 ## The history and compilation of the Qur'an
 
 The Qur'an was revealed to the Prophet Muhammad (pbuh) over a period of **23 years**, beginning with the first revelation in the Cave of Hira in 610 CE, delivered through the angel Jibril. It comprises **114 surahs** of varying length. During the Prophet's lifetime, the revelation was preserved both by memorisation — by *huffaz*, those who had memorised the whole text — and by writing on available materials, but it did not yet exist as a single bound volume. This changed after the Prophet's death, when the Battle of Yamama, fought during the Ridda wars, killed a large number of huffaz and exposed the risk of the Qur'an being lost if reliance continued on memory alone. The first Caliph, **Abu Bakr**, therefore ordered the Qur'an's collection into a single written text, a task entrusted to Zayd ibn Thabit. As Islam spread further under the third Caliph, **Uthman**, Muslims in different regions began reciting the text in different dialects, and disputes arose during military campaigns; Hudhayfah warned Uthman of the danger this posed to the unity of the faith. Uthman responded by having the sheets held by Hafsah copied by a committee under Zayd ibn Thabit, standardising the dialect used, sending official copies to the main centres of the Muslim world, and having other variant copies destroyed. This distinction — Abu Bakr **compiled** the Qur'an, Uthman **standardised** it — is a frequent source of confusion and worth holding clearly in mind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--04-compiled-vs-standardised.webp" width="900" height="684" alt="After a strip on the Qur'an in the Prophet's lifetime (memorised and written, not yet one volume), two columns compare the caliphs. Abu Bakr compiled it after many huffaz died at Yamama, entrusting the work to Zayd ibn Thabit. Uthman standardised it after dialect disputes: Hafsah's sheets were copied by Zayd's committee, copies sent to the main centres and variants destroyed." loading="lazy">
+  <figcaption>Abu Bakr compiled the Qur'an; Uthman standardised it.</figcaption>
+</figure>
+
 ## The life of the Prophet Muhammad (pbuh)
 
 Born in Makkah in 570 CE, the Prophet received his first revelation in 610 CE in the Cave of Hira and began preaching publicly around 613 CE, attracting increasing persecution from the Quraysh. Following the deaths of his wife Khadijah and his uncle Abu Talib in 619 CE — a period known as the Year of Sorrow — his position in Makkah grew more precarious, and in 622 CE he undertook the **Hijra**, the migration to Madinah that marks the start of the Islamic calendar. There he agreed the Constitution of Madinah, establishing a framework for the new community. The following years saw major confrontations with the Quraysh: victory at the **Battle of Badr** in 624 CE, a setback at the **Battle of Uhud** in 625 CE when archers left their position to collect spoils, and a successful defence at the **Battle of the Trench** in 627 CE. The **Treaty of Hudaybiyyah** in 628 CE eased tensions with the Quraysh, and in 630 CE the Prophet led the largely peaceful **Conquest of Makkah**, granting a general amnesty to its inhabitants. He delivered his **Farewell Sermon** in 632 CE shortly before his death, setting out principles of equality, the sanctity of life and property, and the rights of women.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--05-life-of-the-prophet-timeline.webp" width="900" height="694" alt="A vertical timeline split into the Makkah and Madinah periods: birth in 570, first revelation in 610, public preaching from 613, the Year of Sorrow in 619, the Hijra in 622, Badr in 624, Uhud in 625, the Trench in 627, Hudaybiyyah in 628, the Conquest of Makkah in 630 and the Farewell Sermon in 632." loading="lazy">
+  <figcaption>The Hijra of 622 divides his life into the Makkah and Madinah periods.</figcaption>
+</figure>
 
 ## The first Islamic community
 
 This sub-topic is organised around the people of the first community, not only its events, though the syllabus does ask for the significant facts of their lives and the importance of their actions and experiences. The Prophet's **wives** (including Khadijah, his first wife and first believer, and Aisha) and his **descendants** — his children, his grandchildren, and the line recognised among Shia Muslims as the Imams — sit alongside his leading **Companions**: the **Ten Blessed Companions** given the promise of Paradise in their lifetimes, his **Scribes** who recorded revelation as it came, and the other major figures of his ministry. The **Emigrants (Muhajirun)**, who left Makkah for Madinah, and the **Helpers (Ansar)**, the Muslims of Madinah who received them, were formally paired on arrival — an arrangement that met the migrants' immediate material needs and became a model of brotherhood within the early community. The **four Rightly Guided Caliphs** — Abu Bakr, Umar, Uthman and Ali — are studied here for their lives and roles during the Prophet's own lifetime; their period of rule after his death is Paper 2 content.
 
 On arriving in Madinah, the Prophet established the **Constitution of Madinah**, a document defining the rights and duties of Muslims, Jews and other groups living in the city, and establishing Madinah as a single community with the Prophet as its arbiter — part of the wider account of his life and importance (1.3). Abu Bakr was chosen as the first Caliph, at a meeting known as **Saqifah**, immediately after the Prophet's death in 632 CE; his period of rule after that point — including the **Ridda (apostasy) wars** against false prophets such as Musaylimah and tribes refusing zakat — is Paper 2 content (2.3), not this topic. The one link back to Paper 1: the heavy losses among Qur'an memorisers at the Battle of Yamama, fought during those wars, is why Abu Bakr ordered the Qur'an's compilation, which belongs to 1.2 and is covered above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-islamiyat-paper-1--06-first-community-people.webp" width="900" height="674" alt="Five groups studied in 1.4: the Prophet's wives, including Khadijah and Aisha; his descendants, including the line of Imams recognised among Shia Muslims; his leading Companions, the Ten Blessed, his Scribes and other major figures; the four Rightly Guided Caliphs in his lifetime; and the Emigrants and Helpers, formally paired on arrival in Madinah." loading="lazy">
+  <figcaption>Topic 1.4 is organised around people, not only events.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -66,6 +66,11 @@ On both routes the anthology question is one of several 30-mark sections, so the
 same: about 45 minutes. Route A candidates have a longer paper to manage, which makes it easier to
 overrun on the familiar anthology question and leave too little time for unseen prose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--01-route-a-route-b.webp" width="900" height="564" alt="Two paper bars drawn to the same time scale. Route A’s Paper 2a (2 h 15 min, 90 marks, 60%) has anthology poetry, unseen poetry and unseen prose; Route B’s Paper 2b (1 h 30 min, 60 marks, 40%) has anthology poetry and unseen poetry. On both, the anthology question is 30 marks and about 45 minutes." loading="lazy">
+  <figcaption>The anthology question is identical on both routes; only the paper around it changes.</figcaption>
+</figure>
+
 ## Assessment objectives
 
 - **AO1**: understanding of, and engagement with, themes, ideas and contexts. Here that means
@@ -103,6 +108,21 @@ treat the same idea in very different ways give you more to say than two near-id
 each poet's choices of voice, imagery, form and structure lead to a different view of the shared
 idea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--02-theme-strands.webp" width="900" height="398" alt="The People and Places anthology at the centre of typical theme strands: identity, belonging and displacement, memory, a person and a landscape, and change over time. For each strand, know which poems belong to it and how they differ." loading="lazy">
+  <figcaption>Group the poems by strand so any theme question has ready-made pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--08-poem-profile.webp" width="900" height="1028" alt="A single poem page at the top connects to six cards. 1 Situation: who speaks, to whom, what happens. 2 Theme and attitude: what the poem is about and what the speaker feels. 3 Form and structure: stanza pattern, rhyme, rhythm, line length, and shifts in tone. 4 Language: images, word choices, sounds, repeated words. 5 Context: the writer, setting or period, if needed. 6 Links: other poems in the group that share or contrast with it." loading="lazy">
+  <figcaption>A six-part profile helps you prepare each set poem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--10-poem-compare-by-idea.webp" width="900" height="1128" alt="Three steps. 1 Choose the poem that fits the question best, not just the one you prefer: three poem pages with the middle one ticked. 2 Compare around ideas: two poems either side, joined to idea boxes in the middle, such as memory, and a second shared idea. 3 Explain why the methods differ, in language, form and structure." loading="lazy">
+  <figcaption>Choose the best-fitting poem, compare around ideas and explain why methods differ.</figcaption>
+</figure>
+
 ## Worked example: an integrated comparison
 
 The two extracts below are original lines written for this guide, not anthology poems. Imagine they
@@ -127,6 +147,11 @@ Notice that the paragraph moves between both poems within a single point, uses c
 connectives ("but", "by contrast", "whereas"), quotes briefly and analyses structure (line break,
 sentence construction) as well as language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--03-integrated-comparison.webp" width="900" height="755" alt="Two original extracts about leaving, Poem X and Poem Y, share one idea: leaving is a loss the speaker cannot fully control. Three contrasts follow: the loss is external and visual in X but inside the speaker in Y; X repeats “roofs” across a line break while Y uses a negative construction; and X’s image ends when the roofs run out while Y’s weight never does." loading="lazy">
+  <figcaption>Find the shared idea, then compare where and how each poem places it.</figcaption>
+</figure>
+
 ## Planning a 30-mark answer
 
 Spend about five minutes planning:
@@ -140,6 +165,11 @@ Spend about five minutes planning:
 
 Then write a short introduction, three developed comparative paragraphs and a brief conclusion that
 returns to your argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--04-planning-30-marks.webp" width="900" height="731" alt="Five planning steps: underline the theme and command words, choose poems with the best contrast, write a one-sentence argument covering both, plan three comparative points that each cover both poems, and add context only if it explains a choice. The answer then runs: introduction, three comparative paragraphs and a brief conclusion." loading="lazy">
+  <figcaption>Every planned point covers both poems.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -66,6 +66,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
 - **Other measures** include quotas for disadvantaged groups in education or government jobs and
   subsidies on basic foods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--01-redistribution-and-laws.webp" width="900" height="642" alt="Progressive taxation takes a larger share of higher incomes; the state uses it to fund services for everyone and cash benefits for poorer households, such as Pakistan’s Benazir Income Support Programme (2008). Other legal tools are a minimum wage, equal opportunities laws such as the UK Equal Pay Act (1970), quotas and food subsidies." loading="lazy">
+  <figcaption>Taxing more from the rich and giving more to the poor narrows the gap.</figcaption>
+</figure>
+
 ## What does a welfare state provide?
 
 | Provision | How it improves life chances | Example |
@@ -77,6 +82,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
 | Free healthcare | Treatment regardless of income | Britain's NHS (1948) |
 | Universal basic income | Unconditional income for all | Debated and trialled in several countries |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--02-welfare-state-across-life.webp" width="900" height="591" alt="A life line from childhood to old age. Free education supports childhood, unemployment benefits support working age, and pensions support old age. Free healthcare, low-cost housing and universal basic income apply throughout life." loading="lazy">
+  <figcaption>Welfare provision supports life chances at every stage of life.</figcaption>
+</figure>
+
 ## What do NGOs do?
 
 - **Reducing poverty:** the Edhi Foundation, founded by Abdul Sattar Edhi in Pakistan in 1951, runs
@@ -87,6 +97,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
   poor families can start businesses.
 - **Improving education:** NGOs run low-cost schools, teacher training and literacy programmes,
   especially for girls.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--03-ngos-roles-and-limits.webp" width="900" height="630" alt="Four roles of NGOs with examples: reducing poverty (Edhi Foundation, 1951), promoting business (Akhuwat’s interest-free loans, 2001), medical assistance and improving education. Criticisms: they may depend on foreign donors, lack local accountability, duplicate state services and cannot tackle structural causes." loading="lazy">
+  <figcaption>NGOs help directly, but cannot fix the structural causes of poverty.</figcaption>
+</figure>
 
 ## Have these attempts worked? Sociological views
 
@@ -103,6 +118,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
 - **Feminist:** equality laws exist, but women still earn less, do most unpaid work and are
   under-represented in power; laws do not change patriarchal attitudes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--04-views-on-welfare.webp" width="900" height="643" alt="The welfare state sits between two critics. The New Right say it does too much and creates a dependent underclass. Marxists say it does too little, acting as a safety valve that leaves wealth ownership unchanged. Oscar Lewis’s culture of poverty and feminist criticisms of equality laws are shown below." loading="lazy">
+  <figcaption>The New Right say welfare does too much; Marxists say it does too little.</figcaption>
+</figure>
+
 ## How does migration affect inequality between societies?
 
 - **Push factors:** unemployment, low wages, conflict, natural disasters. **Pull factors:** jobs,
@@ -115,6 +135,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
 - **Negative perceptions** of migrants include stereotyping and blame for unemployment or crime;
   migrant workers may face poor conditions and limited rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--05-migration-push-pull.webp" width="900" height="520" alt="A sending country, such as in South Asia, and a receiving country, such as the Gulf states. Push factors are unemployment, low wages, conflict and natural disasters; pull factors are jobs, higher wages, education and family abroad. Migrants move one way for construction and service work; remittances flow back. The sending country may lose skilled workers; the receiving country gains labour and diversity, but migrants may face stereotyping and poor conditions." loading="lazy">
+  <figcaption>Workers flow one way and remittances flow back, with gains and losses on both sides.</figcaption>
+</figure>
+
 ## How do global ecological issues affect inequality?
 
 - **Transnational companies** may move factories to countries with lower wages and weaker safety
@@ -126,6 +151,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
 - **Urbanisation:** rapid migration to cities such as Karachi and Dhaka has created large informal
   settlements with poor sanitation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--06-ecological-issues.webp" width="900" height="440" alt="Four cards. Transnational companies move factories to places with lower wages and weaker safety rules, as in the Rana Plaza collapse in Bangladesh (2013). Poorer countries suffer most from climate change, as in Pakistan’s 2022 floods. Pollution is worst in poorer communities, and rapid urbanisation has created informal settlements in Karachi and Dhaka." loading="lazy">
+  <figcaption>The costs of global production and climate change fall mostly on poorer societies.</figcaption>
+</figure>
+
 ## Why are some societies richer than others?
 
 - **Marxist views:** global capitalism allows rich countries and companies to profit from cheap labour
@@ -134,6 +164,11 @@ Cambridge O Level Sociology 2251 (2025–2027):
   effects continue in trade patterns and institutions.
 - **Feminist ideas of patriarchy:** women's unequal access to land, education and paid work holds
   back whole societies, and globalisation often relies on women's low-paid labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-reducing-inequality-and-globalisation--07-explaining-global-inequality.webp" width="900" height="572" alt="Arrows run from poorer societies to richer countries and companies carrying cheap labour and raw materials (the Marxist view) and women’s low-paid labour (the feminist view). Colonialism reshaped economies to export raw materials and drained wealth, with effects that continue in trade and institutions." loading="lazy">
+  <figcaption>Marxist, colonial and feminist explanations all show wealth flowing from poorer to richer societies.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

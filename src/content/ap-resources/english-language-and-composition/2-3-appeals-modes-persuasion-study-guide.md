@@ -58,6 +58,11 @@ If you had to move someone to act, you could try three things. You could show th
 
 A fourth idea is sometimes added: **kairos**, the sense of the right moment. A call to act is stronger when it is made when action is possible. You do not need the term, but the idea matters, and it connects to context (Topic 1.3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--01-three-appeals.webp" width="900" height="712" alt="A triangle with three appeals at its corners: logos, the appeal to reason (“Does this make sense and is it backed up?”); ethos, the appeal to credibility (“Why should I believe this person?”); and pathos, the appeal to emotion and values (“Does this matter to me?”). Kairos, the right moment, sits in the centre." loading="lazy">
+  <figcaption>Reason, credibility, emotion: three routes to persuasion, strongest at the right moment.</figcaption>
+</figure>
+
 ## Logos: the appeal to reason
 
 Logos persuades by appearing, and being, reasonable. It uses:
@@ -82,6 +87,11 @@ Ethos is the audience's sense of whether the writer is trustworthy. Writers buil
 
 Ethos can be established before the argument begins (a speaker's title or reputation), within the text (an account of experience) or through the style of the writing (precision and courtesy). It can also be damaged by exaggeration or errors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--02-where-ethos-is-built.webp" width="900" height="498" alt="Ethos can be built before the argument (a title or reputation), within the text (an account of experience) and through the style (precision and courtesy). Six things build trust: knowledge, fairness, shared values, good will, reliable sources and careful language. Exaggeration and errors damage it." loading="lazy">
+  <figcaption>Ethos is the audience’s trust, built before, within and through the writing.</figcaption>
+</figure>
+
 ## Pathos: the appeal to emotion and values
 
 Pathos engages feelings and values: sympathy, anger, pride, fear, hope, belonging. Topic 2.2 treats its sources in detail: connotation, imagery, narrative, shared experience and values language. A writer who describes an elderly woman struggling to reach a clinic after a bus cut is using pathos.
@@ -104,6 +114,11 @@ Because one sentence can do two jobs, avoid forcing a sentence into only one box
 | "Ethos is the speaker's fame." | It is the audience's belief in the speaker's trustworthiness, however built. | Look for what in the text builds trust. |
 | "An appeal is either good or bad." | Appeals are tools; their quality depends on fit and use. | Judge by relevance, accuracy and audience. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--04-decide-the-job.webp" width="900" height="564" alt="A statistic can serve logos by supporting a claim, pathos by arousing fear, or ethos when quoted from a credible institution. Quoting an expert usually builds ethos through authority, but the expert’s reasoning, if explained, can also be logos." loading="lazy">
+  <figcaption>Ask what job the material does in this text, then name the appeal.</figcaption>
+</figure>
+
 ## A public-domain example: Anthony's argument from the Constitution
 
 In her 1873 speech defending her vote, Susan B. Anthony argued that the Constitution's opening words could not be read to exclude women. She declared: "It was we, the people; not we, the white male citizens; nor yet we, the male citizens; but we, the whole people, who formed the Union."
@@ -113,6 +128,11 @@ In her 1873 speech defending her vote, Susan B. Anthony argued that the Constitu
 - **Ethos:** the writer places herself within the nation's founding words, appealing to a constitutional text her audience revered and presenting herself as faithful to it.
 
 You can see that a single sentence is built to do all three, and that the logic is not separate from the rhythm.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--05-anthony-we-the-people.webp" width="900" height="554" alt="Three bars of growing width: “we, the white male citizens” and “we, the male citizens” are struck through, and “we, the whole people” spans the full width. Below, the sentence works as logos (an argument from the founding text), pathos (a rising rhythm of justice) and ethos (faithfulness to the Constitution)." loading="lazy">
+  <figcaption>One sentence can do all three jobs: the logic is not separate from the rhythm.</figcaption>
+</figure>
 
 ## Worked example 1: classifying the appeals in a passage
 
@@ -131,6 +151,11 @@ Read this passage, written by Marlbridge with invented figures.
 
 **Check.** Note that the third sentence also builds ethos, since it shows first-hand experience. Naming a **primary** appeal and acknowledging a secondary effect shows control. A strong answer never stops at the label: it adds what the appeal does for the **purpose** of persuading villagers and councillors to fund defibrillators.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--03-paramedic-appeals.webp" width="900" height="677" alt="The four sentences of the paramedic passage with their primary appeal: twenty-two years’ experience is ethos; the cardiac-arrest statistic is logos; kneeling beside a father is pathos and also ethos; the cost comparison with an ambulance is logos." loading="lazy">
+  <figcaption>Name the primary appeal, acknowledge a secondary one, and link both to the purpose.</figcaption>
+</figure>
+
 ## Worked example 2: strengthening a missing appeal
 
 **Task.** A student wrote a paragraph urging a school to introduce a quiet study room. It reads: "A quiet room would help pupils concentrate. Noisy corridors cause stress. Every pupil needs somewhere calm." Evaluate its use of appeals and revise to add the one that is weakest.
@@ -148,6 +173,11 @@ Read this passage, written by Marlbridge with invented figures.
 > A quiet study room would help pupils concentrate. In a survey of 120 pupils in Years 10 and 11, 87 said they could not find a quiet place to work during lunch (invented figures for practice). In our last mock exam week, the library was full by 12.40 and the corridors were too loud to revise in. The cost of one room and a supervisor for an hour a day is small next to the benefit for pupils preparing for exams.
 
 **Step 4: Check.** The revision adds a survey statistic (logos), a specific local example (adding both pathos and credibility, since the writer shows they know the school), and a measured argument about cost (reasonableness, supporting ethos). It still makes a single claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-2-3-appeals-modes-persuasion-study-guide--06-strengthening-missing-appeal.webp" width="900" height="490" alt="Before and after for the quiet-room paragraph. Before, logos is a claim with no evidence, ethos is absent and pathos is mild. After, a survey statistic and a cost argument add logos, local detail adds credibility, and the mock exam week adds a concrete picture." loading="lazy">
+  <figcaption>Diagnose which appeal is weakest, then add it without losing the single claim.</figcaption>
+</figure>
 
 ## How the exam asks about appeals
 

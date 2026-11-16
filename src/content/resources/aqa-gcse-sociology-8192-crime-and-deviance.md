@@ -65,6 +65,11 @@ Killing is murder in peacetime but may be honoured in war; behaviours once legal
 criminalised and others decriminalised. Laws are made by people with power, so crime is a social
 definition rather than a fixed quality of an act.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--01-crime-deviance-social-construction.webp" width="900" height="833" alt="Two overlapping circles: crime breaks the law, deviance breaks social norms, and some acts are both. Below, three cards show that what counts as crime or deviance varies between societies, over time and by situation, such as killing in peacetime versus war." loading="lazy">
+  <figcaption>Crime and deviance are defined by people with power, so they change with society, time and situation.</figcaption>
+</figure>
+
 ## What did Merton argue about the causes of crime?
 
 Robert K. Merton ("Social Structure and Anomie", 1938), writing as a functionalist, argued that
@@ -84,6 +89,11 @@ achieving them. People in lower positions in the social structure lack those mea
 explain why only some people experiencing anomie turn to crime; exaggerates working-class crime and
 underplays white-collar crime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--02-merton-strain-adaptations.webp" width="900" height="946" alt="A tilted balance shows American society stressing success goals (wealth) more than legitimate means, which produces anomie for people lacking the means. A table shows the five adaptations: conformity accepts goals and means; innovation accepts goals but rejects means; ritualism rejects goals but accepts means; retreatism rejects both; rebellion replaces both." loading="lazy">
+  <figcaption>Innovation, accepting the goal but not the means, is Merton’s main explanation of crime.</figcaption>
+</figure>
+
 ## What did Becker argue?
 
 Howard Becker (*Outsiders*, 1963), an interactionist, argued that an act only becomes deviant when
@@ -93,6 +103,11 @@ the power to make labels stick. The label becomes a **master status**, others tr
 accordingly, and the person may come to see themselves that way — a **self-fulfilling prophecy**.
 Rejection by others may encourage further deviance, beginning a **deviant career**, completed when
 the person joins an organised deviant group with its own subculture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--03-becker-labelling.webp" width="900" height="838" alt="Five linked steps: an act is labelled deviant by others; whether the label sticks depends on who, when, where and who sees it, with police and courts holding power; the label becomes a master status; the person accepts it as a self-fulfilling prophecy; rejection leads to a deviant career and joining an organised deviant group." loading="lazy">
+  <figcaption>For Becker, deviance is created by the label, not by the act itself.</figcaption>
+</figure>
 
 ## How does social control work?
 
@@ -105,6 +120,11 @@ the person joins an organised deviant group with its own subculture.
 **Perspectives:** functionalists see control maintaining value consensus; Marxists see control
 protecting the ruling class; feminists see control maintaining patriarchy; interactionists focus on
 how agents of control label people.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--04-formal-informal-control.webp" width="900" height="601" alt="A comparison table. Formal control uses written laws, police, courts, prisons and government, with sanctions such as arrest, fines and prison. Informal control uses unwritten rules, family, peers, school, workplace, religion and media, with sanctions such as praise, disapproval, gossip and exclusion. Below, four perspectives on whose interests control serves." loading="lazy">
+  <figcaption>Formal control is written and enforced by the state; informal control works through everyday relationships.</figcaption>
+</figure>
 
 ## Why do women commit less crime? Heidensohn
 
@@ -120,6 +140,11 @@ male-dominated, patriarchal societies control women more effectively than men:
 
 **Criticisms:** generalises about all women; claims are not always backed by strong research
 evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--05-heidensohn-control.webp" width="900" height="671" alt="Heidensohn argues patriarchal societies control women more than men. Three cards show how: at home through housework, childcare, risk of male violence and closer supervision of daughters; in public through fear of sexual violence and of losing reputation; at work through male-dominated hierarchies and sexual harassment." loading="lazy">
+  <figcaption>Women are controlled at home, in public and at work, which Heidensohn links to lower female crime.</figcaption>
+</figure>
 
 ## Which factors affect criminal behaviour? (3.5.3)
 
@@ -141,6 +166,11 @@ and poor job prospects, cannot reach them. They suffer **status frustration** an
 brings prestige among peers. *Criticism:* some argue working-class youths do not accept mainstream
 goals in the first place, but act out of resentment towards those whose values they reject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--06-cohen-status-frustration.webp" width="900" height="570" alt="A chain: working-class boys share mainstream goals, are blocked by educational failure linked to cultural deprivation and poor job prospects, suffer status frustration, and form a delinquent subculture. The subculture values stealing, vandalism and truancy, and success in it brings prestige among peers." loading="lazy">
+  <figcaption>Blocked success leads to status frustration, and the subculture offers another route to status.</figcaption>
+</figure>
+
 ## What did Carlen find?
 
 Pat Carlen (*Women, Crime and Poverty*, 1988), a feminist, carried out unstructured interviews with
@@ -150,6 +180,11 @@ rewards from two "deals": the **class deal** (consumer goods in return for wage 
 **gender deal** (material and emotional rewards from a male breadwinner in return for love and
 domestic labour). When these rewards fail, crime becomes a viable alternative. *Criticism:* a small
 sample, although it supports the view that crime rises when social control breaks down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--07-carlen-class-gender-deals.webp" width="900" height="735" alt="Carlen interviewed 39 convicted women. In the class deal, women give wage labour and are promised consumer goods; in the gender deal, they give love and domestic labour and are promised material and emotional rewards from a male breadwinner. When either set of rewards fails, crime becomes a viable alternative." loading="lazy">
+  <figcaption>Women conform for the rewards of two deals; when the rewards fail, control breaks down.</figcaption>
+</figure>
 
 ## What public debates surround crime?
 
@@ -175,6 +210,11 @@ offence.
 commits crime; Marxists argue statistics reflect policing of the working class while crimes of the
 powerful go unrecorded; feminists point out that domestic and sexual violence against women are
 heavily under-reported.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--08-dark-figure.webp" width="900" height="843" alt="An iceberg: only the tip, crime recorded by police, appears in official statistics. Below the waterline is the dark figure: crime reported but not recorded, and crime never reported. Victim surveys and self-report studies reach parts of the hidden crime. Below, functionalist, Marxist and feminist views of crime statistics." loading="lazy">
+  <figcaption>Official statistics show only the tip of crime; the dark figure lies below.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

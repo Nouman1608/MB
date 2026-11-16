@@ -91,6 +91,16 @@ together — know that Isnad checks the chain of narrators back to the
 Prophet (pbuh) while Matn checks the content of the text itself, since
 conflating the two is a common error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--01-how-the-sources-relate.webp" width="900" height="616" alt="Three nested levels: the Qur'an as the primary, directly revealed source; the Hadith and Sunnah, recording the Prophet's words and practice to explain and apply it; and Ijma and Qiyas as secondary sources used where the Qur'an and Hadith give no explicit guidance. A note says this is a common scholarly account, not a required ranking." loading="lazy">
+  <figcaption>Primary, explanatory, then secondary: one common way to relate the four sources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--02-testing-and-grading-hadith.webp" width="900" height="500" alt="Two tests feed the grading: the isnad checks the chain of narrators back to the Prophet (pbuh), and the matn checks the content of the text. The four categories run from more to less reliable: Sahih, Hasan, Daeef and Maudu." loading="lazy">
+  <figcaption>Isnad tests the chain, matn tests the text; together they set the category.</figcaption>
+</figure>
+
 ## Worked example: explaining why Hadith is needed alongside the Qur'an
 
 A question asks candidates to explain the importance of Hadith as a
@@ -113,6 +123,11 @@ Link:       This is why the Hadith is described as the second source of
 This point-evidence-explain-link structure works for most "explain the
 importance of" questions across this section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--03-peel-hadith-importance.webp" width="900" height="532" alt="A four-row worked answer on why Hadith is needed: point (the Qur'an gives principles without always the method), evidence (Salah and Zakah are detailed by the Sunnah), explain (Hadith is the practical explanation) and link (so it is the second source of Shariah)." loading="lazy">
+  <figcaption>Use point, evidence, explain, link for &quot;importance&quot; questions.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Treating Ijma and Qiyas as equal in authority to the Qur'an and Hadith,
@@ -124,6 +139,11 @@ Describing the Qur'an's compilation without distinguishing revelation
 and compilation (how it was assembled into a single text) as three
 distinct stages. Naming Sahih Bukhari and Sahih Muslim without being
 able to say anything about what makes them significant as collections.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-sources-of-authority--04-revelation-preservation-compilation.webp" width="900" height="384" alt="Three separate stages: revelation, how the Qur'an was received; preservation, how it was memorised and recorded; and compilation, how it was assembled into a single text." loading="lazy">
+  <figcaption>Revelation, preservation and compilation are distinct stages.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

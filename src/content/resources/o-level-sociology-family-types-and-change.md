@@ -71,6 +71,11 @@ may be taught where appropriate locally but are not assessed.
 In much of South Asia the **joint family** — several brothers, their wives and children living with
 their parents — has been a traditional form of extended family.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--01-family-structures.webp" width="900" height="714" alt="Eight small family diagrams: nuclear (two parents and children), horizontal extended (two couples of the same generation with their children), beanpole (four generations with few members each), modified extended (relatives in separate homes keeping contact), reconstituted (a step-family), lone parent, empty nest (children have left) and childless." loading="lazy">
+  <figcaption>Family structures differ in how many generations and how many members per generation they hold.</figcaption>
+</figure>
+
 ## How do families vary?
 
 The Rapoports (1982) identified dimensions of family diversity. Three are named in 2251:
@@ -89,6 +94,11 @@ The Rapoports (1982) identified dimensions of family diversity. Three are named 
   Stacey (*Brave New Families*, 1990) described women creating new family forms after divorce.
 - **How dominant is the nuclear family?** Robert Chester (1985) argued most people still spend part
   of their lives in a nuclear family, often a "neo-conventional" one where both partners work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--03-diversity-debate.webp" width="900" height="497" alt="The New Right argue the married two-parent nuclear family is best and link non-traditional families to poor socialisation. Postmodernists such as Judith Stacey see diversity as positive. Robert Chester adds that most people still spend part of their lives in a nuclear family, often a neo-conventional one." loading="lazy">
+  <figcaption>The New Right fear diversity, postmodernists welcome it, and Chester says the nuclear family is still common.</figcaption>
+</figure>
 
 ## What are the alternatives to the family and types of marriage?
 
@@ -111,6 +121,11 @@ workers); friends as family.
   beanpole families.
 - **Having children later** — longer education and careers delay parenthood.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--02-demographic-change-beanpole.webp" width="900" height="691" alt="Two family trees. A wide, short family has many children and fewer generations alive; a long, thin beanpole family has four generations with few members each. Below, three causes: falling birth rates make families smaller, longer life expectancy adds generations, and parenthood comes later." loading="lazy">
+  <figcaption>Fewer births and longer lives turn wide families into tall, thin beanpoles.</figcaption>
+</figure>
+
 ## Did industrialisation create the nuclear family? (4.3.2)
 
 Talcott Parsons argued the isolated nuclear family "fits" industrial society because it is
@@ -119,6 +134,11 @@ already common in pre-industrial England, and Michael Anderson's study of the 18
 (1971) found working-class families sharing homes with relatives to cope with industrial hardship.
 **Urbanisation** has also moved families from villages to cities, weakening some kin ties while
 others continue through visits and phones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--04-parsons-and-critics.webp" width="900" height="640" alt="Parsons claimed the mobile nuclear family fits industrial society. On a timeline, Laslett (1972) found nuclear households were already common in pre-industrial England, and Anderson (1971) found working-class families in 1851 Preston sharing homes with relatives to cope with industrial hardship." loading="lazy">
+  <figcaption>Historians found nuclear families before industry and extended living during it.</figcaption>
+</figure>
 
 ## Why are marriage, divorce and cohabitation changing? (4.3.3 and 4.3.4)
 
@@ -134,6 +154,11 @@ others continue through visits and phones.
 **Alternatives to marriage:** cohabitation, singlehood, lone parenthood and, where legal, civil
 partnerships.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--05-marriage-divorce-forces.webp" width="900" height="579" alt="Factors loosening the pressure to marry or stay married: easier divorce laws, less stigma, secularisation, female empowerment and the internet widening partner choice. Cultural expectations of early, arranged marriage hold traditions in place. Alternatives to marriage include cohabitation, singlehood, lone parenthood and civil partnerships." loading="lazy">
+  <figcaption>Most forces loosen marriage; cultural expectations can still hold it in place.</figcaption>
+</figure>
+
 ## How are family roles changing? (4.3.5)
 
 - **Conjugal roles** — a move from **segregated** to more **joint** roles. Peter Willmott and Michael
@@ -145,6 +170,11 @@ partnerships.
   unemployment.
 - **Grandparents** — provide **childcare**, **economic support** and **wisdom and advice**; some
   become **dependent** and need care.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-types-and-change--06-changing-family-roles.webp" width="900" height="575" alt="Three changes in roles: partners moving from segregated to more joint roles, though feminists find women still do most domestic work; children changing from an economic asset to a cost; grandparents giving childcare and support but sometimes needing care. The sandwich generation cares for both elderly parents and children." loading="lazy">
+  <figcaption>Roles are shifting for partners, children and grandparents, and the middle generation is squeezed.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

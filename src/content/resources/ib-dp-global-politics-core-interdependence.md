@@ -51,6 +51,16 @@ The guide describes interdependence as mutual reliance between groups, organisat
 
 The guide adds that globalisation has increased interdependence and often changed power relationships. Interdependence is rarely equal: when one side relies on the other more than the reverse, the less dependent side gains leverage. Keohane and Nye's distinction helps here. **Sensitivity** is how badly an actor is hit by a change elsewhere; **vulnerability** is how costly it is to adjust, for example by finding another supplier. Vulnerability is where power lies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--01-three-dimensions.webp" width="900" height="648" alt="Interdependence, mutual reliance on access to the resources that sustain ways of life, has three dimensions: economic (trade, investment, supply chains, energy), security (defence arrangements, alliances, arms control) and sustainability (environmental treaties and shared resources)." loading="lazy">
+  <figcaption>Economic, security and sustainability links make actors rely on each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--02-sensitivity-vulnerability.webp" width="900" height="605" alt="Actor A relies heavily on actor B, shown by a thick arrow, while B relies only a little on A, so B gains leverage. Below, Keohane and Nye’s distinction: sensitivity is how badly an actor is hit by a change elsewhere; vulnerability is how costly it is to adjust, and that is where power lies." loading="lazy">
+  <figcaption>The less dependent side gains leverage; vulnerability, not sensitivity, is where power lies.</figcaption>
+</figure>
+
 ## Global governance and international law
 
 ### Government and governance
@@ -92,6 +102,16 @@ The guide lists five sources:
 
 The first three create law. Court decisions and scholarly writings are mainly used to identify what the law is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--03-government-governance.webp" width="900" height="740" alt="Left: government, a single authority over parliament, police and courts that makes and enforces binding rules in a territory. Right: global governance, a network of states, IGOs, companies, NGOs and experts linked by rules and norms with no single authority. Examples include Security Council resolutions, the Paris Agreement, the Basel Accords, WTO agreements and regional bodies." loading="lazy">
+  <figcaption>There is no world government, only overlapping global governance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--04-sources-of-international-law.webp" width="900" height="725" alt="Five sources: treaties, international custom, general principles of law, decisions of courts and scholarly writings. The first three, highlighted, create law; court decisions and scholarly writings are mainly used to identify what the law is." loading="lazy">
+  <figcaption>Three sources make international law; two help identify it.</figcaption>
+</figure>
+
 ## The United Nations
 
 ### Structure, roles and functions
@@ -127,6 +147,11 @@ The guide asks you to examine agencies and programmes through each thematic stud
 - **UN Human Rights Council (rights and justice).** Created in 2006; 47 members elected by the GA. Its Universal Periodic Review examines every UN member state's record. *Limitation:* states with poor records can be elected, and its findings are not binding.
 - **International Court of Justice (peace and conflict).** Settles disputes between states and gives advisory opinions. In 2019, The Gambia brought a case against Myanmar under the Genocide Convention; in 2023, the GA requested an opinion on states' climate obligations. *Limitation:* it needs the states' consent to hear a dispute, and advisory opinions are not binding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--05-security-council-vote.webp" width="900" height="670" alt="Fifteen seats: five permanent members with a veto and ten elected members. A substantive decision needs nine votes and no permanent-member veto; an abstention is not a veto. In 2011 China and Russia abstained and Resolution 1973 on Libya passed. In February 2022 Russia vetoed action on Ukraine, and the General Assembly passed a non-binding resolution under Uniting for Peace." loading="lazy">
+  <figcaption>Nine votes and no veto: the Council acts only when permanent members’ interests do not clash.</figcaption>
+</figure>
+
 ## IGOs and non-state actors in global governance
 
 **Regional organisations** manage interdependence among neighbours:
@@ -159,6 +184,16 @@ Actors cooperate when the gains from coordination outweigh the cost of lost free
 **Montreal Protocol -- cooperation driven by interdependence.** Every UN member state has ratified it, and it has sharply cut the use of ozone-depleting chemicals. No state can protect the ozone layer alone.
 
 **NPT -- competition inside cooperation.** It recognises five nuclear-weapon states and asks the rest to forgo nuclear weapons. India, Pakistan and Israel never joined, North Korea announced its withdrawal in 2003, and non-nuclear states argue the nuclear states have not disarmed as the treaty requires.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--06-forms-of-cooperation.webp" width="900" height="672" alt="A table of five forms of cooperation with examples: treaties such as the NPT and Montreal Protocol, collective security such as NATO and the OAS, strategic alliances, economic cooperation such as the WTO and AfCFTA, and informal cooperation. Below, the Montreal Protocol shows cooperation driven by interdependence and the NPT shows competition inside cooperation." loading="lazy">
+  <figcaption>Cooperation takes many forms, and most relationships mix it with competition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-interdependence--07-collective-security-defence.webp" width="900" height="705" alt="Left: collective security, where all members of a system act against any member that commits aggression, the UN model. Right: collective defence, where allies defend each other against an outside threat, as in NATO’s Article 5." loading="lazy">
+  <figcaption>Security acts against an aggressor inside the system; defence acts against a threat outside it.</figcaption>
+</figure>
 
 ## Global interactions and networks
 

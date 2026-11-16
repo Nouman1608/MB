@@ -62,6 +62,11 @@ Topic 6.5 introduced symbols as objects that stand for ideas. Short fiction adds
 
 The course also notes that **over time some settings have developed associations such that they almost universally symbolise particular concepts**. A desert may suggest emptiness or testing; a garden may suggest innocence or retreat; a storm may suggest upheaval. These associations give you a starting point, but each text uses them in its own way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--01-image-motif-setting.webp" width="900" height="675" alt="Three related tools: an image is a sensory detail; a motif is a pattern of recurring images that emphasises an idea; a symbolic setting is a place associated with emotions, ideologies or beliefs. Below, some settings carry near-universal associations: desert with emptiness or testing, garden with innocence or retreat, storm with upheaval." loading="lazy">
+  <figcaption>Images recur into motifs, and places can gather symbolic meaning.</figcaption>
+</figure>
+
 ## What images do
 
 | Function | What the image does | Example of a comment |
@@ -73,6 +78,11 @@ The course also notes that **over time some settings have developed associations
 
 Always ask: **what does this sensory detail suggest, and why this one and not another?**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--02-what-images-do.webp" width="900" height="622" alt="Four functions of imagery, each with a sample comment: create mood, as dripping water builds neglect; make the abstract concrete, as cold light makes loneliness visible; characterise, as she notices only the stains; and link scenes, as the smell of smoke connects each warning." loading="lazy">
+  <figcaption>Imagery creates mood, makes ideas concrete, characterises and links scenes.</figcaption>
+</figure>
+
 ## From image to motif
 
 A single image is a detail. A **motif** appears when images recur and **converge on an idea**. A method:
@@ -83,11 +93,21 @@ A single image is a detail. A **motif** appears when images recur and **converge
 4. **Track change**: do they intensify, shift or reverse?
 5. **Explain function**: what does the pattern contribute across the work?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--03-image-to-motif.webp" width="900" height="519" alt="Scattered images such as light, cold, water, birds and locks are sorted; the recurring light and cold images are grouped, and the group converges on one idea, the motif. Five steps: collect, group, state the idea, track change and explain function." loading="lazy">
+  <figcaption>A motif appears when recurring images converge on one idea.</figcaption>
+</figure>
+
 ## Public-domain examples to learn from
 
 **The Fall of the House of Usher (Edgar Allan Poe, 1839).** The story begins with an atmosphere of oppression: "During the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, on horseback, through a singularly dreary tract of country". The setting becomes symbolic: "the House of Usher" is both a building and the family line, and the narrator notes "a barely perceptible fissure" that runs down the front of the wall to the tarn. The crack suggests decay in the family, and when the house finally collapses into the tarn, the building and the family end together.
 
 **Young Goodman Brown (Nathaniel Hawthorne, 1835).** The village of Salem and the forest are set against each other as places of faith and doubt. Brown's wife Faith wears pink ribbons on her cap, and a pink ribbon later falls from the sky in the forest, so that the ribbon becomes a recurring image tied to her innocence. When he sees it, Brown cries, "My Faith is gone!" The name and the ribbon work together as a symbol.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--04-usher-and-brown.webp" width="900" height="540" alt="Left: the House of Usher, with a fissure running down the wall to the tarn; the house is both building and family line, and both end when it collapses. Right: Salem, a place of faith, set against the forest of doubt, with Faith's pink ribbon appearing first on her cap and then falling in the forest." loading="lazy">
+  <figcaption>A crack in a wall and a pink ribbon carry each story's central idea.</figcaption>
+</figure>
 
 ## Worked example 1: a motif built from images
 
@@ -106,6 +126,11 @@ A single image is a detail. A **motif** appears when images recur and **converge
 **Function.** The motif makes an emotional state visible. The children's silence and the ice-like light suggest a classroom where warmth is not expressed, and the final image reveals Mr Alder's own deprivation. The imagery therefore characterises the setting and the man, and prepares the reader for a story about loneliness.
 
 **A model sentence.** "By returning to thin, cold light through the morning, the noon and the dismissal, and ending on 'a last warm coin', the narrator builds a motif of absent warmth that turns a schoolroom into a figure for Mr Alder's isolation."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--05-alder-light-motif.webp" width="900" height="570" alt="Four moments in the schoolroom. Morning light is thin and white like milk; at noon it lies like ice; by three it has thinned further; at dismissal Mr Alder lets go of &quot;a last warm coin&quot;, reversing the feeling. The motif is absent warmth, and it makes his isolation visible." loading="lazy">
+  <figcaption>Thin, cold light recurs until the last image shows what warmth Mr Alder had.</figcaption>
+</figure>
 
 ## Worked example 2: a setting that becomes symbolic
 
@@ -127,6 +152,11 @@ A single image is a detail. A **motif** appears when images recur and **converge
 
 **A model sentence.** "By making the marsh both unspoken and universally known, and by having Joss cross the fence barefoot as the reeds close like an exhaled breath, the narrator turns a landscape into a boundary around what the village cannot say."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--06-marsh-symbolic-setting.webp" width="900" height="686" alt="A map of Saltby, a fence, and the marsh beyond. The villagers never speak of the marsh yet know its depth, and mothers call it patient. Joss crosses the fence barefoot, carrying his good boots, and the reeds close like an exhaled breath. The marsh can be read as what the village will not name." loading="lazy">
+  <figcaption>The fence turns Joss's walk into a crossing of what the village cannot say.</figcaption>
+</figure>
+
 ## Weak and strong claims side by side
 
 | Weak | Why it is weak | Strong |
@@ -136,6 +166,11 @@ A single image is a detail. A **motif** appears when images recur and **converge
 | "The house symbolises the family." | True of one famous story, but unsupported here | "Because the crack in the wall runs down towards the tarn, the building's decay is tied to the family's end." |
 
 Notice that each strong version includes evidence (the repeated images, the village's silence, the crack in the wall), an idea (lack of warmth, the unsaid, decay) and a function (making something visible, marking a boundary, linking building to family).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-5-symbol-imagery-fiction-study-guide--07-evidence-idea-function.webp" width="900" height="524" alt="Three weak claims about imagery, the marsh and the house, each rebuilt from three parts: evidence such as the repeated cold light, the village's silence or the crack in the wall; an idea such as lack of warmth, the unsaid or decay; and a function such as making something visible or marking a boundary." loading="lazy">
+  <figcaption>Every strong claim combines evidence, an idea and a function.</figcaption>
+</figure>
 
 ## Common misconceptions
 

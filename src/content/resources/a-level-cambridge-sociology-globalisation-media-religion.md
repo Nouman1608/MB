@@ -49,6 +49,11 @@ section**. Every essay is worth 35 marks and requires an extended
 response demonstrating AO1, AO2 and AO3, exploring contrasting views
 or evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--01-where-paper-4-fits.webp" width="900" height="631" alt="AS Level is Papers 1 and 2; the full A Level adds Papers 3 and 4. Paper 4 lasts 1 hour 45 minutes, is worth 70 marks (two 35-mark essays) and 29% of the A Level, and candidates answer two essays from different sections." loading="lazy">
+  <figcaption>Paper 4 is the A Level-only finale: two 35-mark essays from two different sections.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE A LEVEL SOCIOLOGY (9699) — PAPER 4: GLOBALISATION, MEDIA
@@ -79,6 +84,11 @@ post-modernity)
 The lettered sections (A/B/C) are how the paper itself is structured;
 the heading numbers (7-12) are how the syllabus numbers its content —
 the two are separate systems and should not be conflated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--02-sections-and-headings.webp" width="900" height="606" alt="Section A Globalisation covers syllabus headings 7 and 8, Section B Media covers headings 9 and 10, and Section C Religion covers headings 11 and 12." loading="lazy">
+  <figcaption>Each lettered section draws on two numbered syllabus headings.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -124,6 +134,11 @@ content examined in Paper 1 and demonstrates the kind of joined-up
 sociological thinking this qualification rewards at its highest
 level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--03-competing-explanations.webp" width="900" height="673" alt="For globalisation, global influence is weighed against the revival of local identities; for media, direct effects against active audiences; for religion, cohesion against change and conflict; and secularisation is weighed as a debated question." loading="lazy">
+  <figcaption>High marks come from weighing two competing explanations, not describing one.</figcaption>
+</figure>
+
 ## Worked example: applying methods to a media question
 
 A typical Paper 4 question might ask candidates to discuss the
@@ -140,6 +155,11 @@ social media use. Linking a theoretical claim to a research method in
 this way, even briefly, signals the joined-up understanding this paper
 rewards, rather than treating Paper 4's content as disconnected from
 Paper 1's methods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--04-theory-to-method.webp" width="900" height="484" alt="A strong answer selects a named perspective on media influence, applies it to young people’s identities, suggests a research method and notes a limitation of that method. A weak answer only describes social media and asserts it has a big influence." loading="lazy">
+  <figcaption>Strong Paper 4 answers link a theoretical claim to how it could be researched.</figcaption>
+</figure>
 
 ## Common mistakes to avoid
 
@@ -160,6 +180,11 @@ supporting an answer with a specific, plausible contemporary example
 (rather than only textbook cases from decades past) tends to make an
 argument feel more genuinely engaged with the sociological debate
 being assessed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-media-religion--05-common-mistakes.webp" width="900" height="546" alt="Five common Paper 4 mistakes paired with fixes: treating globalisation as only economic, presenting one media theory as true, treating secularisation as settled, ignoring research methods and using only old examples." loading="lazy">
+  <figcaption>Each common mistake has a simple fix: widen, weigh, debate, link to methods, update.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

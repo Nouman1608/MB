@@ -56,6 +56,11 @@ Topic 3.6 introduced the typical methods of development. Here we look closely at
 
 Each description holds two parts. Narration needs **story plus significance**. Cause-effect needs **links plus reasoning**. A passage that offers only half of either is incomplete.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--01-two-promises.webp" width="900" height="512" alt="Two equations. Narration equals story (details about a real-life experience) plus significance (reflection on what it means). Cause-effect equals links (a cause and effects, a chain, or several causes) plus reasoning (evidence of how one leads to another). Notes warn what happens with only half." loading="lazy">
+  <figcaption>Narration needs story plus significance; cause-effect needs links plus reasoning.</figcaption>
+</figure>
+
 ## Narration in an argument
 
 ### What it is
@@ -85,6 +90,11 @@ Without reflection, an anecdote is an illustration the reader must interpret alo
 
 Narrative gives pathos and ethos (the writer was there), but must not replace evidence for a general claim. A sceptical audience usually wants a story **and** data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--02-narration-in-argument.webp" width="900" height="654" alt="Five features of effective narration with the Harbour Road bus-stop examples: specific detail, selection, sequence, perspective and reflection. A bar shows narration working best to open an argument, illustrate a claim midway, or close by returning to the opening story." loading="lazy">
+  <figcaption>Specific, selected, ordered detail, then reflection that states the significance.</figcaption>
+</figure>
+
 ## Cause-effect in an argument
 
 ### What it is
@@ -110,9 +120,24 @@ Cause-effect is only as strong as its **links**. Ask of each link:
 
 *because, since, as a result, therefore, consequently, so, thus, led to, resulted in, gave rise to, contributed to, owing to, if... then.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--03-three-causal-shapes.webp" width="900" height="814" alt="Three diagrams. One cause with several effects: a bridge closure leads to longer bus routes and fewer clinic visits. A chain: later closing times reduce the homework club, then coursework marks, then the number who qualify. Several causes, one effect: rising rents, falling footfall and the loss of the market together empty the high street." loading="lazy">
+  <figcaption>One cause with effects, a chain of consequences, or many causes behind one effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--04-testing-causal-links.webp" width="900" height="555" alt="An arrow from A to B with a question mark, and four questions for any causal link: is there evidence of the connection, could something else explain it, is the effect proportionate, and is the writer clear about strength? Below, “may have led to”, “contributed to” and “caused” form a scale of certainty." loading="lazy">
+  <figcaption>A causal claim is only as strong as its weakest link; match your verbs to the evidence.</figcaption>
+</figure>
+
 ## Narration and cause-effect together
 
 The two methods combine well. A story can show a causal chain at work: "I missed the interview because the bus was late; because I missed the interview, the job went to someone else; and that is how a timetable decided my year." The reflection then states the general claim the story supports: "Unreliable buses do not only waste time; they change the course of people's lives."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--05-story-as-causal-chain.webp" width="900" height="442" alt="A chain of four events from a story: the bus was late, so I missed the interview, so the job went to someone else, so a timetable decided my year. Below, the reflection states the general claim: unreliable buses change the course of people’s lives." loading="lazy">
+  <figcaption>The story shows the chain at work; the reflection states the claim it supports.</figcaption>
+</figure>
 
 ## A public-domain example of narration with reflection: Thoreau (1854)
 
@@ -125,6 +150,11 @@ The sentence is a compact narrative of an experience (he went to the woods) join
 Mary Wollstonecraft, in *A Vindication of the Rights of Woman*, writes: "Strengthen the female mind by enlarging it, and there will be an end to blind obedience."
 
 This is a clear **cause-effect** sentence: the cause is the strengthening and enlarging of women's minds (education), and the effect is the end of "blind obedience". The structure is a condition and consequence ("and there will be"). She then adds a reason for resistance to the change, that "blind obedience is ever sought for by power", which gives a second causal claim: those with power oppose education because it would undermine obedience. The method lets her present reform not as a favour but as the natural consequence of a cause readers can bring about.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--06-wollstonecraft-cause-effect.webp" width="900" height="544" alt="Wollstonecraft’s sentence is split into a cause, strengthening and enlarging women’s minds, and an effect, an end to blind obedience. A second causal claim follows: because power seeks blind obedience, those with power oppose education." loading="lazy">
+  <figcaption>Condition and consequence present reform as something readers can cause.</figcaption>
+</figure>
 
 ## Worked example 1: building a narrative paragraph with reflection
 
@@ -173,6 +203,11 @@ This is a clear **cause-effect** sentence: the cause is the strengthening and en
 **Step 3: Judge.** The chain is plausible and the first link is well supported, but the later links rely on assumptions, and the conclusion outruns the evidence. The writer should either add evidence for the later links or soften the language ("may well cost").
 
 **Check.** The analysis names each link, evaluates the support for it, and links the weakness to the sufficiency of the evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-7-narration-cause-effect-study-guide--07-testing-the-chain.webp" width="900" height="670" alt="The evening-bus chain as six linked steps from the cut in March to the claim that it cost the town far more. Notes rate each link: the first is supported by a reason and data, the next two rest on assumptions or unquantified claims, and the final conclusion is overstated." loading="lazy">
+  <figcaption>Test every link: a chain is only as strong as its weakest, least-evidenced step.</figcaption>
+</figure>
 
 ## How the exam asks about narration and cause-effect
 

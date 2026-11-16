@@ -53,6 +53,11 @@ The guide wants these links spotted while you cover the common syllabus, not sav
 - **Expanding a prescribed topic** -- for example treating environmental rights as part of human rights.
 - **Integrating thematic-study elements into a topic area** -- for example treating identity as a right of individuals and groups, a marker of political development, and a potential source of conflict.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--01-three-emphases.webp" width="900" height="618" alt="The HL extension has three emphases: interconnection, complexity and tension, and solutions. Links to the common syllabus come from explicit mention in prescribed content, expanding a prescribed topic, or integrating thematic-study elements. It takes 80 of the 240 HL hours with no extra prescribed content." loading="lazy">
+  <figcaption>Spot connections, weigh tensions, then look for solutions.</figcaption>
+</figure>
+
 ## The eight HL topic areas
 
 The guide lists eight areas: **borders, environment, equality, health, identity, poverty, security and technology**. It stresses that they overlap, so study what connects them.
@@ -67,6 +72,11 @@ The guide lists eight areas: **borders, environment, equality, health, identity,
 | Poverty | Globalisation and poverty; cooperation between state and non-state actors; human rights perspective; poverty's role in some conflicts | Development and sustainability (inequality) |
 | Security | Military power, war, arms and non-state actors, but also food, water and energy security; rights violations as attacks on personal security | Peace and conflict; sovereignty |
 | Technology | Internet and social media change how actors organise; new forms of power such as cyber capabilities; need for norms in cyberspace | Power; interdependence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--02-eight-topic-areas.webp" width="900" height="762" alt="Eight topic areas arranged in a ring and all linked to each other: borders, environment, equality, health, identity, poverty, security and technology." loading="lazy">
+  <figcaption>Eight overlapping areas: the connections matter as much as the areas.</figcaption>
+</figure>
 
 ## Choosing and building case studies
 
@@ -107,6 +117,16 @@ The 2016--2018 drought in Cape Town, South Africa, is one of the guide's own sug
 
 **Step 6 -- Second case.** Pair it with a case from another area, such as the 2014--2015 Ebola outbreak in Liberia (another guide example), so you can compare how states handle crises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--03-case-file.webp" width="900" height="747" alt="Three groups of research questions for each case: background, data and issues; causes, impact and responses; and reflection. A case can be chosen topic-area first or case first. The minimum is two case studies across two topic areas." loading="lazy">
+  <figcaption>Three groups of questions turn a case into usable Paper 3 evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--04-cape-town-case.webp" width="900" height="798" alt="The 2016 to 2018 Cape Town drought mapped onto topic areas: environment, security and equality and poverty, where wealthier households could buy boreholes and tanks and poorer ones could not, plus the concepts legitimacy, power and interdependence. A Day Zero warning led to a 50-litre daily limit from February 2018; taps were never shut off." loading="lazy">
+  <figcaption>One case touches several topic areas; a second case adds comparison.</figcaption>
+</figure>
+
 ## The six guiding lines of inquiry
 
 The guide expects every HL inquiry to consider six lines of inquiry. In short:
@@ -119,6 +139,11 @@ The guide expects every HL inquiry to consider six lines of inquiry. In short:
 6. How looking at **cases from different topic areas** changes how a challenge is seen or addressed.
 
 Paper 3 question 3 is based on these, so prepare evidence for each one from each case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--05-lines-of-inquiry.webp" width="900" height="538" alt="Six lines of inquiry: links to the core topics, links to the thematic studies, how far challenges are interconnected, how they are perceived and addressed in different contexts, which frameworks and mechanisms address them, and how cases from different areas change the view." loading="lazy">
+  <figcaption>Gather evidence for all six lines from every case.</figcaption>
+</figure>
 
 ## Paper 3 exactly as the guide describes it
 
@@ -167,6 +192,16 @@ With 90 minutes for 28 marks you have about 3.2 minutes per mark. A sensible spl
 **Question 2b approach (6 marks).** Use this frame: *action -- actor -- evidence -- challenge -- mitigation.* For example, a legally binding heat-stoppage rule enforced by labour inspectors, supported by evidence from your case, with the risk that employers shift work to unregulated sites, and a way to reduce that risk.
 
 **Question 3 approach (15 marks).** State a clear claim, compare at least two cases from different topic areas, weigh counter-arguments and reach a justified judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--06-paper-3.webp" width="900" height="685" alt="Paper 3 lasts 90 minutes for 28 marks. Question 1 (3 marks, AO2) about 10 minutes; 2a (4 marks, AO2) about 13; 2b (6 marks, AO3) about 19; question 3 (15 marks, AO3) about 48 minutes. Question 3 is about 16% of the HL grade." loading="lazy">
+  <figcaption>Spend time where the marks are: question 3 deserves about half the paper.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-hl-global-political-challenges--07-recommendation-frame.webp" width="900" height="581" alt="A five-step frame for question 2b: action, actor, evidence, challenge and mitigation, illustrated with a heat-stoppage rule for the fictional Port Salem. Markbands: a vague recommendation scores 1 to 2; one that ignores difficulties 3 to 4; a well-supported one that considers challenges and consequences 5 to 6." loading="lazy">
+  <figcaption>Recommend, support, name the difficulty, then reduce it: that reaches the top band.</figcaption>
+</figure>
 
 ## Common errors
 

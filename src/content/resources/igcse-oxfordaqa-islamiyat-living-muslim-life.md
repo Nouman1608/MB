@@ -67,6 +67,11 @@ recall relevant, specific content quickly when answering a focused
 exam question under time pressure, and makes revision more manageable
 in the run-up to the exam.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--01-paper-1-structure.webp" width="900" height="608" alt="Two equally weighted sections of 25 marks. Section A, Beliefs and Teachings, rewards belief, evidence and significance. Section B, Practices, rewards connecting belief to specific daily practice. In each, short questions build to a 12-mark response on a set passage; the paper lasts 1 hour 30 minutes for 50 marks." loading="lazy">
+  <figcaption>Two equal sections: revise beliefs and practices evenly.</figcaption>
+</figure>
+
 ## Official syllabus
 
 OxfordAQA International GCSE Islamiyat (9237) specification, Version
@@ -89,11 +94,26 @@ Conditions and exemptions matter: Salah has prescribed times and requires wudu; 
 
 **Hajj is made up of specific rites, and questions often ask for these by name rather than for a general description.** Pilgrims enter **Ihram** — a state of purity marked by simple white garments — before performing **Tawaf** (seven circuits of the Ka'bah) and **Sa'i** (walking between the hills of Safa and Marwah). Standing at **Arafat** is the essential rite, commemorating the Prophet's Farewell Sermon; pilgrims then stone the pillars at Mina and make the sacrifice. The white ihram garments carry the central meaning behind the whole pilgrimage: because every pilgrim dresses identically, wealth and status become invisible, so all stand equal before God -- that symbolism, not just the list of rites, is what a full-mark "explain the significance of Hajj" answer needs to reach.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--02-pillars-conditions-significance.webp" width="900" height="618" alt="A table of the Five Pillars with their practice, conditions and significance: salah has prescribed times and needs wudu; zakat applies only above the nisab; sawm exempts the ill, travelling, pregnant, nursing and elderly; hajj is only for those physically and financially able." loading="lazy">
+  <figcaption>Conditions and significance are where marks are won or lost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--03-hajj-rites.webp" width="900" height="622" alt="Six rites in order: ihram, tawaf (seven circuits of the Ka'bah), sa'i between Safa and Marwah, standing at Arafat (highlighted as the essential rite), stoning the pillars at Mina and the sacrifice. Below, the chain of meaning: identical white garments make wealth and status invisible, so all stand equal before God." loading="lazy">
+  <figcaption>Name the rites, then explain the equality the white garments symbolise.</figcaption>
+</figure>
+
 ## Articles of faith
 
 Six beliefs shape the Muslim worldview: **tawhid** (the oneness of God), belief in the **angels**, the revealed **books**, the **prophets**, the **Day of Judgement**, and **al-qadr** (divine decree).
 
 Tawhid is the foundation, and its opposite — **shirk**, associating partners with God — is the gravest sin. Its practical consequences run through everything: worship directed to God alone, no intermediaries, and the equality of all believers before Him.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--04-tawhid-consequences.webp" width="900" height="522" alt="Tawhid, the oneness of God, branches into three practical consequences: worship directed to God alone, no intermediaries, and the equality of all believers. Below, its opposite, shirk, is marked as the gravest sin." loading="lazy">
+  <figcaption>Tawhid is a belief with practical consequences for worship and equality.</figcaption>
+</figure>
 
 ## Worship, festivals and daily life
 
@@ -102,6 +122,16 @@ Beyond the Pillars: the mosque as a place of prayer, learning and community; **J
 **Eid-ul-Fitr** marks the end of Ramadan, with zakat-ul-fitr given before the prayer. **Eid-ul-Adha** falls during Hajj and commemorates Ibrahim's willingness to sacrifice his son, the qurbani meat traditionally shared in three parts — family, relatives and the poor.
 
 Daily conduct is shaped by **halal** and **haram**: dietary rules, honesty in trade, the prohibition of interest, and duties to parents, neighbours and the needy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--05-daily-prayers.webp" width="900" height="640" alt="A schematic arc of the sun's path marks the five prayers: Fajr at dawn, Zuhr at midday, Asr in the afternoon, Maghrib at sunset and Isha at night. Cards add facing the Qiblah, rak'ahs and wudu, and contrast Salah with du'a and private prayer with Jummah." loading="lazy">
+  <figcaption>Five prescribed times from dawn to night, all facing the Qiblah.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--06-the-two-eids.webp" width="900" height="556" alt="Eid-ul-Fitr marks the end of Ramadan, with zakat-ul-fitr given before the prayer. Eid-ul-Adha falls during Hajj, commemorates Ibrahim's willingness to sacrifice his son, and its qurbani meat is shared in three parts: family, relatives and the poor." loading="lazy">
+  <figcaption>Fitr ends Ramadan; Adha falls during Hajj and recalls Ibrahim.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -120,6 +150,11 @@ Key point   zakat is an obligatory act of worship, not optional charity
 ```
 
 That final distinction is often the difference between a good answer and a full-mark one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-islamiyat-living-muslim-life--07-zakat-significance.webp" width="900" height="498" alt="A worked answer in three layers. For the individual, zakat purifies wealth and treats it as a trust from God. For the community, it redistributes to the poor, orphans, travellers and the indebted, reduces inequality and strengthens mutual responsibility. The key point: it is obligatory worship, unlike voluntary sadaqah." loading="lazy">
+  <figcaption>Individual, community, then the zakat–sadaqah distinction.</figcaption>
+</figure>
 
 ## Common mistakes
 

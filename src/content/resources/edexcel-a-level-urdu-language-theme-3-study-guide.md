@@ -38,6 +38,11 @@ This guide covers **Theme 3, Immigration and the multicultural society (ہجرت
 
 Theme 3 is one of the content themes of the qualification. As the [Paper 1 study guide](/resources/a-level-edexcel-urdu-translation-and-reading/) explains, research for Themes 1, 3 and 4 must be based on Pakistan, which suits the emigration sub-theme. Sources on this theme also appear in the listening and reading work covered in the [Paper 3 study guide](/resources/a-level-edexcel-urdu-listening-reading-writing/), where you summarise viewpoints and evaluate them. Practise stating a position and acknowledging a different one, since that skill serves every part of this theme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--01-theme-3-map.webp" width="900" height="640" alt="Theme 3, ہجرت ترکِ وطن اور کثیر الثقافتی معاشرہ (Immigration and the multicultural society), has three sub-themes: positive features of a diverse society, attitudes towards immigration, and emigration from Pakistan (پاکستان سے ہجرت), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; emigration from Pakistan is the research subject.</figcaption>
+</figure>
+
 ## Sub-theme 3.1: positive features of a diverse society
 
 Ideas to discuss in Urdu:
@@ -57,6 +62,11 @@ Ideas to discuss in Urdu:
 | زبان | language |
 | تہوار | festival |
 | شہریت | citizenship |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--02-diverse-society-positives.webp" width="900" height="666" alt="Diversity (تنوع) at the centre of four positives: cultural variety, economic contribution, learning and understanding, and shared citizenship. Key words: کثیر الثقافتی, رواداری, باہمی احترام, ثقافت, زبان, تہوار, شہریت." loading="lazy">
+  <figcaption>Variety, contribution, understanding and shared citizenship.</figcaption>
+</figure>
 
 ## Sub-theme 3.2: attitudes towards immigration
 
@@ -81,6 +91,11 @@ Ideas to discuss:
 
 You can discuss attitudes without claiming that one view is the only reasonable one. State what people on each side say, give the reasons they offer, and then say which you find more convincing and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--03-attitudes-two-sides.webp" width="900" height="614" alt="Welcoming attitudes see migrants as contributors and neighbours; worries concern jobs, housing, services and local identity. Related issues are prejudice and discrimination (تعصب, امتیازی سلوک), integration and identity (انضمام, شناخت) and the media. Answer by stating each side, its reasons, then your judgement." loading="lazy">
+  <figcaption>Give both sides with their reasons, then say which convinces you and why.</figcaption>
+</figure>
+
 ## Sub-theme 3.3: emigration from Pakistan
 
 This is the research subject. Your research must cover the aspects set by the specification, be based on Pakistan, and be written in Urdu. Points to research:
@@ -92,6 +107,11 @@ This is the research subject. Your research must cover the aspects set by the sp
 - **Effects on families** left behind and on communities abroad.
 
 Keep a file of named sources, dates and figures that you have checked yourself, and never quote a statistic you cannot trace. Prepare points for and against emigration so you can write a balanced response on any statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--04-emigration-from-pakistan.webp" width="900" height="776" alt="Push factors in Pakistan (limited jobs, lower wages, insecurity, study) and pull factors (higher pay, family links, services) lead to the Gulf region and to Europe and North America. Remittances (ترسیلاتِ زر) flow back; skilled emigration raises brain drain (ذہین افراد کا انخلا) and there are effects on families." loading="lazy">
+  <figcaption>Push, pull, remittances and brain drain: the core of the research subject.</figcaption>
+</figure>
 
 ## Worked example: a model paragraph, with annotation
 
@@ -105,6 +125,11 @@ What makes it work:
 - **Agreement**: ہجرت کرنے والے لوگ takes a masculine plural verb, لے جاتے ہیں; معاشرہ is masculine singular, so بن جاتا ہے.
 - **Connectives**: تاہم, کیونکہ and میرے خیال میں mark contrast, reason and opinion.
 - **Postposition**: انھیں ... فکر ہوتی ہے expresses concern with a dative construction, a feature to practise because it differs from English.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-3-study-guide--05-model-paragraph-anatomy.webp" width="900" height="816" alt="The four moves of the model paragraph on migration: a contribution (لے جاتے ہیں, masculine plural), its result (معاشرہ ... بن جاتا ہے), a counter-view introduced by تاہم with a reason after کیونکہ, and a reasoned conclusion with میرے خیال میں." loading="lazy">
+  <figcaption>Point, result, counter-view with تاہم, then a reasoned conclusion.</figcaption>
+</figure>
 
 ## Useful connectives and phrases
 

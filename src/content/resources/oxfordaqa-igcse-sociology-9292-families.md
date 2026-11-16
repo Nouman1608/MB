@@ -48,6 +48,11 @@ The specification names **Engels, Oakley, Parsons, Smart, Stacey and Therborn**,
 
 **Therborn** compared family systems across the world's regions, such as European, East Asian, South Asian, West Asian and North African, and sub-Saharan African systems, and traced how patriarchy declined unevenly in each during the twentieth century. His key point is that no single family form is "normal" worldwide. **Patriarchal** families give authority to the father or eldest male; **matriarchal** families give authority to the mother.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--01-family-types.webp" width="900" height="581" alt="Five family diagrams. Nuclear: parents and children. Vertically extended: three generations stacked. Horizontally extended: two brothers and their wives side by side. Single parent: one parent and children. Reconstituted: a couple with a child from a previous relationship. Below, alternatives such as communes, living alone, foster care and children’s homes." loading="lazy">
+  <figcaption>Vertical extension adds generations; horizontal extension adds relatives of the same generation.</figcaption>
+</figure>
+
 ## Perspectives on families
 
 **Functionalism (Parsons).** The family performs functions society needs. Parsons argued that the modern family has two essential functions: **primary socialisation** of children and the **stabilisation of adult personalities**. The isolated **nuclear family** "fits" industrial society because it is small and geographically mobile, able to move where work is, and because status at work is achieved rather than inherited from kin.
@@ -61,6 +66,11 @@ The specification names **Engels, Oakley, Parsons, Smart, Stacey and Therborn**,
 **Feminisms (Oakley).** Feminists argue that families shape the unequal position of men and women. **Oakley's** research on housework, based on interviews with London housewives, found that women carried most of the burden and that men's "help" was limited. Liberal feminists see gradual progress; radical feminists see families as a key site of patriarchy.
 
 *Criticisms*: may understate change and the variety of women's experiences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--02-family-perspectives.webp" width="900" height="566" alt="A table comparing three perspectives. Parsons: primary socialisation and stabilising adult personalities, with the nuclear family fitting industrial society; criticised by Laslett. Engels: monogamy arose with private property and families act as agents of social control. Oakley: women did most housework. Each column ends with a criticism." loading="lazy">
+  <figcaption>Each perspective has a named sociologist, a key argument and a criticism.</figcaption>
+</figure>
 
 ## Social change and changing families
 
@@ -79,6 +89,16 @@ The specification names **Engels, Oakley, Parsons, Smart, Stacey and Therborn**,
 
 **Laws and social policies** shape families. China's one-child policy (introduced in 1980) reduced family size and contributed to an ageing population; it was replaced by a two-child policy in 2016 and a three-child policy in 2021. Divorce laws, welfare benefits and childcare provision all affect family forms in other societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--03-demographic-change.webp" width="900" height="675" alt="Four cause-and-effect rows. Contraception, women’s education and work, and the cost of children lead to falling birth rates. Better nutrition, water, sanitation, vaccination and healthcare lead to falling death rates. Longer lives and fewer births lead to ageing populations such as Japan’s. Moving for work leads to internal and international migration." loading="lazy">
+  <figcaption>Each demographic change has causes you must be able to explain.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--04-china-family-policy.webp" width="900" height="500" alt="A timeline of China’s population policy: a one-child policy from 1980, replaced by a two-child policy in 2016 and a three-child policy in 2021. The one-child policy reduced family size and contributed to an ageing population. Divorce laws, welfare benefits and childcare also shape families." loading="lazy">
+  <figcaption>Government policy can change family size, as China’s policies show.</figcaption>
+</figure>
+
 ## Gender, age and family life
 
 - **Traditional roles**: Parsons' **instrumental** (male breadwinner) and **expressive** (female, emotional and caring) roles.
@@ -89,6 +109,11 @@ The specification names **Engels, Oakley, Parsons, Smart, Stacey and Therborn**,
 - **Adult children**: **boomerang** families, where adult children return home, often because of housing costs.
 - **Older people and grandparents**: status varies; in some societies elders hold authority, while in others they may be marginalised. Grandparents often provide childcare.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--05-roles-triple-shift.webp" width="900" height="593" alt="Left: Parsons’ traditional roles, the instrumental male breadwinner and the expressive, caring female. Right: the triple shift of paid work, domestic work and emotional work carried by many women. Below, men often make the biggest financial decisions, and Dobash and Dobash link domestic violence to male power." loading="lazy">
+  <figcaption>Many women now carry three loads: paid work, domestic work and emotional work.</figcaption>
+</figure>
+
 ## Worked example 1: a short-answer question
 
 *Explain one way in which families act as agents of social control. [3 marks]*
@@ -96,6 +121,11 @@ The specification names **Engels, Oakley, Parsons, Smart, Stacey and Therborn**,
 > Marxists argue that families teach children to obey parental authority (1). This prepares them to accept the authority of employers and the state without questioning it (1), which helps keep an unequal capitalist society stable (1).
 
 One point, **developed** in three linked steps, earns all three marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--06-social-control-three-marks.webp" width="900" height="548" alt="A three-mark answer as three linked steps: families teach children to obey parental authority; this prepares them to accept employers and the state; this keeps an unequal capitalist society stable." loading="lazy">
+  <figcaption>One point, developed in three linked steps, earns all three marks.</figcaption>
+</figure>
 
 ## Worked example 2: planning an extended answer
 
@@ -128,6 +158,11 @@ JUDGEMENT the nuclear family remains important, but one type among
 - **Discuss** or **evaluate**: present arguments on more than one side and reach a judgement.
 
 Check your teacher's copy of the OxfordAQA command word list for 9292, as the specification is new.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-sociology-9292-families--07-command-words.webp" width="900" height="506" alt="Four steps rising from left to right: identify or name needs a brief point; describe gives features with detail; explain gives a developed reason; discuss or evaluate weighs more than one side and reaches a judgement." loading="lazy">
+  <figcaption>The command word tells you how far to develop your answer.</figcaption>
+</figure>
 
 ## Next steps
 

@@ -64,6 +64,11 @@ Four points from the course framework organise this topic.
 - Change can be **gradual**, over the course of a narrative, or **sudden**, as the result of an **epiphany**, a moment of realisation.
 - A character who **remains unchanged** also has a function: the story shows what pressure could not move them, or what they refuse to see.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--01-sources-and-shapes-of-change.webp" width="900" height="597" alt="A conflict of values or a change of circumstances puts pressure on a character. Three small graphs show the possible results: gradual change over the narrative, sudden change at an epiphany, and no change at all, which shows what pressure could not move." loading="lazy">
+  <figcaption>Change grows out of conflict or circumstance, and it can be gradual, sudden or refused.</figcaption>
+</figure>
+
 ## Tracking change: a before-and-after frame
 
 | Step | Question | Evidence to find |
@@ -74,17 +79,32 @@ Four points from the course framework organise this topic.
 | 4. After | What do they now believe, want or see? Or what refuses to change? | Later thoughts, speech, action |
 | 5. Function | What does the change, or its absence, mean for the story? | Link to the central conflict and to the ending |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--02-before-after-frame.webp" width="900" height="485" alt="Five steps in a row: before, pressure, turn, after and function. Each has a question, such as whether the turn is gradual or sudden, and the kind of evidence to look for, from early habits to later actions and the link to the ending." loading="lazy">
+  <figcaption>Track the character from before, through pressure and a turn, to after, then say what it means.</figcaption>
+</figure>
+
 ## Epiphany
 
 An **epiphany** is a moment of realisation that allows a character to **see things in a new light**. In short fiction it is often **directly related to a central conflict** of the story, and it **may affect the plot** by leading the character to act on the new understanding.
 
 Look for signs that a moment is an epiphany: the perception changes suddenly ("she saw", "it came to her"), earlier details gain new meaning, the language of the narrator shifts in tone or rhythm, and the character's next action follows from the new view. Sometimes the epiphany is **ironic**: the insight arrives too late, or leads somewhere the character did not expect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--03-epiphany-signs.webp" width="900" height="744" alt="An epiphany, seeing things in a new light, sits at the centre of four signs: perception changes suddenly, earlier details gain new meaning, the narrator's tone shifts, and the next action follows from the new view. Below: it is tied to the central conflict, may affect the plot, and can be ironic." loading="lazy">
+  <figcaption>A true epiphany changes what the character sees and often what they do next.</figcaption>
+</figure>
+
 ## Relationships: individuals, groups and forces
 
 The course adds that **a group or force can function as a character**, and that when you consider a character you should look at how they interact with **other characters, groups or forces**, and **what those interactions may indicate**. The relationship between a character and a group, including the **inclusion or exclusion** of that character, reveals the **collective attitude** of the group towards that character and possibly the character's attitude towards the group.
 
 Ask three things about any such relationship: **What does the group do?** (speaks, falls silent, watches, excludes), **How does the character respond?** (defiance, acceptance, pretence), and **what does the contrast show?**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--04-character-and-group.webp" width="900" height="657" alt="A group of figures, which can act as one character, includes or excludes an individual, who responds. Three questions follow: what does the group do, how does the character respond, and what does the contrast show about the group's collective attitude and the character's own." loading="lazy">
+  <figcaption>Inclusion or exclusion reveals the group's collective attitude, and the response reveals the character.</figcaption>
+</figure>
 
 ## Public-domain examples to learn from
 
@@ -108,6 +128,11 @@ Use Chopin's story, quoted briefly above.
 
 **A model sentence.** "By building Mrs Mallard's realisation out of a conflict between marriage and selfhood, and by sending her downstairs transformed only to meet the husband she believed dead, Chopin makes the epiphany both the most truthful moment of her life and the cause of its end."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--05-story-of-an-hour-arc.webp" width="900" height="681" alt="A line runs from grief towards joy across Chopin's story. Mrs Mallard weeps at the news, senses &quot;something coming to her&quot;, rises sharply at &quot;free, free, free!&quot;, descends &quot;like a goddess of Victory&quot;, then falls when her husband walks in and she dies &quot;of the joy that kills&quot;." loading="lazy">
+  <figcaption>A sudden epiphany lifts Mrs Mallard, and the ironic ending takes it away.</figcaption>
+</figure>
+
 ## Worked example 2: a character and a group
 
 **Original passage written by Marlbridge for practice.**
@@ -126,6 +151,11 @@ Use Chopin's story, quoted briefly above.
 
 **A model sentence.** "By presenting the villagers as a single hushing, resuming tide and Nell as a woman who walks as though the lane were hers at a visible cost, the narrator shows exclusion as something the community performs and the individual endures."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--06-nell-and-the-village.webp" width="900" height="629" alt="Two columns. The villagers act as one character: the women fall quiet and resume louder, and the men find business with their hats. Nell resists: she does not look at them and walks as though the lane were hers, at a cost. Only the sexton holds the door, and her thanks are not returned." loading="lazy">
+  <figcaption>The group performs exclusion; Nell endures it with a defiance that costs her.</figcaption>
+</figure>
+
 ## Writing about change: sentence frames
 
 Strong sentences about change name the before, the pressure and the meaning together. Useful frames are:
@@ -135,6 +165,11 @@ Strong sentences about change name the before, the pressure and the meaning toge
 - "The [group] acts as a single character, [verb], and so reveals a collective attitude of [attitude] towards [individual]."
 
 Check each sentence for evidence (a quoted word or detail) and for function (what the change or its absence means for the story).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-1-character-change-complex-relationships-study-guide--07-sentence-frames.webp" width="900" height="795" alt="Three fill-in sentence frames with gold slots: one for change from start to end because of a conflict or circumstance, one for an epiphany tied to the central conflict that leads to an action, and one for a group acting as a single character with a collective attitude. Each sentence needs evidence and function." loading="lazy">
+  <figcaption>Name the before, the pressure and the meaning in one sentence, with evidence.</figcaption>
+</figure>
 
 ## Common misconceptions
 

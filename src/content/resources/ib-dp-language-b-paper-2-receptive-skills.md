@@ -77,6 +77,11 @@ your school holds. The five conceptual understandings in the brief (context, aud
 meaning and variation) make good reading lenses: before answering, ask who wrote this, for whom, and
 why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--01-paper-2-weighting.webp" width="900" height="545" alt="Bars compare raw marks, 25 for listening and 40 for reading, with a circle showing each section worth 25 percent of the final grade, 50 percent in total. Cards note the outline is identical at SL and HL and that timings, number of texts and formats come from your teacher." loading="lazy">
+  <figcaption>Reading has more marks, but listening and reading each count for 25% of the grade.</figcaption>
+</figure>
+
 ## Question formats to practise
 
 These are common comprehension formats. Your teacher will show you which ones appear in your
@@ -124,6 +129,11 @@ The dropped tray is in the same paragraph but answers a different question.
 **Target language:** make a list of the time words in your language that match *by the end*,
 *finally*, *at first*. They are the signposts you scan for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--02-locating-evidence.webp" width="900" height="860" alt="A short passage about a first week at a harbour café with By Friday highlighted as the scanned key phrase, letting me close up on my own highlighted as the answer, and dropped a tray of glasses struck through as a distractor. Four steps: underline key words, think of synonyms, scan, and read the whole sentence." loading="lazy">
+  <figcaption>Scan for a synonym of the key words, then read one clause further for the answer.</figcaption>
+</figure>
+
 ## Synonyms and paraphrase
 
 A **synonym** swaps one word for another with the same meaning (*purchase* for *buy*). A
@@ -155,6 +165,11 @@ the line; restating shows you understood it.
 **Target language:** keep a two-column synonym bank for each theme. For social organization, pairs
 might be *rule / regulation*, *resident / inhabitant*, *complain / object*, written in your target
 language.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--03-find-the-word.webp" width="900" height="597" alt="A passage about postponed parking rules with postpone highlighted and decided struck through. Three checks: match the word class, match the form, and test the word in the sentence. Below, copying the line introduced without consultation is contrasted with the paraphrase nobody asked them before the plan was made." loading="lazy">
+  <figcaption>Match class and form, test it in the sentence, and restate ideas in your own words.</figcaption>
+</figure>
 
 ## Inference
 
@@ -190,6 +205,11 @@ official systems.
 **Watch for tone words.** *Still*, *even*, *only*, *finally* and *supposedly* change attitude. "My
 grandmother still calls me" shows loyalty to the old name; remove *still* and the loyalty goes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--04-inference-chain.webp" width="900" height="627" alt="A three-link chain: quotation, what it says literally, what it implies. A worked example about Sami and Samuel links quotations such as no form has ever had room for to a literal reading and then to the inference that official systems leave no space for his real name and he has given up resisting." loading="lazy">
+  <figcaption>Quotation, literal meaning, implication: if you cannot point to the words, you have invented it.</figcaption>
+</figure>
+
 ## Reference words
 
 Writers avoid repetition with words such as *it*, *this*, *they*, *these*, *such* and *the latter*. A
@@ -202,6 +222,11 @@ reference question asks what one of them points back to.
 In the Social organization text above, *they* in "they would lose customers" refers to **several
 shopkeepers**, not the residents. In many target languages, gender and number agreement make this
 easier: use the endings to rule candidates out.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--05-reference-words.webp" width="900" height="538" alt="In the sentence several shopkeepers feared they would lose customers, an arrow links they back to several shopkeepers, while a dashed line to residents is marked wrong. Three steps: look before the word, find what agrees, then replace and reread." loading="lazy">
+  <figcaption>Look back, find a match that agrees, and test it by substitution.</figcaption>
+</figure>
 
 ## Listening tactics
 
@@ -232,6 +257,11 @@ thought" and "but" signal that March was a plan, not a result. **Answer: May.**
 **Target language:** collect the words that signal correction in your language (the equivalents of
 *actually*, *in fact*, *no, sorry*, *rather*) and listen for them in every recording you practise with.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--06-listening-distractors.webp" width="900" height="583" alt="Three cards: before the recording, read and predict; during it, take notes with symbols; and watch for distractors such as self-corrections. In a worked example, March is mentioned first but marked as only a plan by we thought, and the words but and actually lead to the answer, May." loading="lazy">
+  <figcaption>The first thing you hear may be a distractor: listen for the words that signal a correction.</figcaption>
+</figure>
+
 ## Managing time
 
 Marks tell you how much each question is worth. Budget time in proportion.
@@ -253,6 +283,11 @@ Use your teacher's real timings for your level once you have them. Three rules h
 - **Do not stall.** If an answer will not come after twice its budget, mark it and move on.
 - **Read the questions before the text.** You then read with a purpose.
 - **Leave nothing blank.** A reasoned attempt can earn a mark; a blank cannot.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-2-receptive-skills--07-time-budget.webp" width="900" height="551" alt="A 50-minute bar is split into 45 minutes answering and 5 minutes checking. The formula minutes per mark equals time allowed minus checking time, divided by marks, gives 45 divided by 40, or 1.125 minutes per mark, so a 4-mark question gets 4.5 minutes." loading="lazy">
+  <figcaption>Minutes per mark = (time − checking) ÷ marks; then spend time in proportion.</figcaption>
+</figure>
 
 ## Practising in your target language
 

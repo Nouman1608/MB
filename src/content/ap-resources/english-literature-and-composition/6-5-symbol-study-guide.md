@@ -67,6 +67,16 @@ Three points about how symbols work:
 
 A **character** can become symbolic too, when they come to represent or stand for an idea or concept. (The exam does not require you to identify or label archetypes.) A **setting** can become symbolic when it is associated with emotions, ideologies or beliefs. Topic 7.5 returns to settings and to motifs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--01-literal-to-figurative.webp" width="900" height="551" alt="A key at the top splits into two levels. Literal: it opens a lock. Figurative: it stands for access, trust, a secret or a past that can be reopened. A banner says a good symbol lives on both levels at once." loading="lazy">
+  <figcaption>An object becomes a symbol when it comes to stand for an idea, without ceasing to be itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--02-common-and-contextual.webp" width="900" height="566" alt="Two kinds of symbol: common, recurrent ones such as a dove for peace or winter for death, and contextualised ones whose meaning is built inside one text. Below, objects, characters and settings can all become symbolic." loading="lazy">
+  <figcaption>Some symbols arrive with meaning; others earn it inside a single text.</figcaption>
+</figure>
+
 ## How to recognise a symbol
 
 Writers signal symbolic weight in several ways. Look for these.
@@ -80,6 +90,11 @@ Writers signal symbolic weight in several ways. Look for these.
 | **Linked language** | It is described with words that belong to a different realm, such as grief, power or time |
 | **Change** | Its condition changes as the story's situation changes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--03-six-signals.webp" width="900" height="594" alt="Six signals of symbolic weight: repetition, prominence, character reaction, placement at a turning point, opening or ending, language linked to another realm such as grief or time, and change in the object as the situation changes." loading="lazy">
+  <figcaption>Repetition, emphasis, reaction and placement tell you an object is carrying meaning.</figcaption>
+</figure>
+
 ## A four-step method
 
 1. **Notice.** What is the object, and what signals weight (repetition, attention, reaction)?
@@ -88,6 +103,11 @@ Writers signal symbolic weight in several ways. Look for these.
 4. **Function.** What does this do in the work? Does it make an internal feeling visible, mark a stage of change, connect scenes, deepen a conflict or invite a particular interpretation?
 
 If the meaning changes in the text, add a fifth step: **trace the shift** and explain what the change shows.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--04-four-step-method.webp" width="900" height="578" alt="Four steps in a row: notice the object and its signals, associate it with ideas, state the idea it represents in a short phrase, and explain its function. Five possible functions are listed, and a dashed fifth step, trace the shift, applies when the meaning changes." loading="lazy">
+  <figcaption>Notice, associate, state, function; trace the shift if the meaning moves.</figcaption>
+</figure>
 
 ## Public-domain examples to learn from
 
@@ -98,6 +118,11 @@ If the meaning changes in the text, add a fifth step: **trace the shift** and ex
 **The Scarlet Letter (Nathaniel Hawthorne, 1850).** The letter that Hester is made to wear begins as a public mark of shame. In the course of the novel, other characters read it differently, and the meaning shifts. The symbol is powerful because its meaning is contested.
 
 **Great Expectations (Charles Dickens, 1861).** Miss Havisham, who has stopped the clocks at the moment she was jilted, can be read as embodying a refusal to let time move, a character who has come to represent an idea as well as being a person.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--05-classic-symbols.webp" width="900" height="514" alt="Table of four examples. In Macbeth, blood comes to stand for guilt. In Jane Eyre, the chestnut tree split by lightning suggests the union is threatened. In The Scarlet Letter, the letter begins as a mark of shame and its meaning shifts. In Great Expectations, Miss Havisham embodies a refusal to let time move." loading="lazy">
+  <figcaption>Each symbol starts as something literal and gathers an idea through the text.</figcaption>
+</figure>
 
 ## Worked example 1: recognising and explaining a symbol
 
@@ -118,6 +143,11 @@ If the meaning changes in the text, add a fifth step: **trace the shift** and ex
 **Function.** The symbol turns a private emotion, which a narrator could simply have told us, into something that can be seen, walked round and finally approached. It marks stages in Eleanor's change over time and prepares the reader for the scene when the gate is opened.
 
 **A model sentence.** "By keeping the padlocked orchard gate in view across several springs, and by making Eleanor detour to avoid it, the narrator turns a physical barrier into a figure for her unmourned grief, so that the moment she takes the key reads as the first step in facing her loss."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--06-gate-evidence-to-idea.webp" width="900" height="765" alt="Five rows link quotations from the practice passage to what they show. The dated, avoided gate and the overflowing blossom lead to the statement that the gate stands for Eleanor's sealed-off grief; the key that &quot;might wake&quot; marks her first step towards confrontation." loading="lazy">
+  <figcaption>Each claim about the gate rests on a specific detail from the passage.</figcaption>
+</figure>
 
 ## Worked example 2: a symbol whose meaning shifts
 
@@ -143,6 +173,11 @@ If the meaning changes in the text, add a fifth step: **trace the shift** and ex
 
 **A model sentence.** "When the storm leaves the gate face-down in the windfalls, the narrator converts a barrier into an opening, and Eleanor's relief shows that the grief the gate once enclosed is no longer something she can or wants to keep out."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--07-gate-meaning-shifts.webp" width="900" height="711" alt="Timeline of the gate. Autumn: padlocked since Papa died, a barrier sealing off grief. Midsummer: Eleanor asks for the key. November: the storm leaves the gate face-down and she feels relief. The meaning moves from enclosure to release, where a common symbol, the storm, meets a contextual one, the gate." loading="lazy">
+  <figcaption>The gate moves from enclosure to release, and the storm brings the change.</figcaption>
+</figure>
+
 ## Common misconceptions
 
 - **"Every object is a symbol."** Most objects in a story are just objects. A symbol earns the name through repetition, emphasis, reaction or placement.
@@ -150,6 +185,11 @@ If the meaning changes in the text, add a fifth step: **trace the shift** and ex
 - **"Saying 'symbolizes' is the analysis."** The analysis is the evidence, the idea and the function.
 - **"A symbol is just a decoration."** It does work: it makes an abstract idea visible, marks change and links scenes.
 - **"I need to know what the object means in all literature."** Common symbols give you a starting point. Contextual symbols must be read from the text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-5-symbol-study-guide--08-weak-to-strong-claims.webp" width="900" height="577" alt="Three claims about the gate get stronger in steps. The first only names a technique. The second states a meaning tied to the evidence. The third explains the function: the storm marks Eleanor's release as unbidden, so her relief seems surprising and earned." loading="lazy">
+  <figcaption>Saying something &quot;symbolizes&quot; is a start; the analysis is the evidence, the idea and the function.</figcaption>
+</figure>
 
 ## Where this leads
 

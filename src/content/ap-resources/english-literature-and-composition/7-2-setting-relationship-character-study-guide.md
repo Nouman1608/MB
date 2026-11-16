@@ -63,6 +63,11 @@ Three kinds of work are worth separating.
 2. **Setting as marker of change**: when a setting changes, it may suggest other **movements, changes or shifts in the narrative**.
 3. **Setting in relation to character**: **the way characters interact with their surroundings provides insights about those characters and the settings they inhabit**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--01-three-jobs-of-setting.webp" width="900" height="504" alt="Setting depicts a time and place and conveys values. Three branches: it conveys values, as a crowded boarding house suggests thrift and lost privacy; it marks change when the setting shifts; and the way characters interact with it reveals both them and the place." loading="lazy">
+  <figcaption>A setting conveys values, marks change and reveals character.</figcaption>
+</figure>
+
 ## Reading a setting: a four-column grid
 
 | Detail | What it depicts | What it suggests or values | How the character relates to it |
@@ -72,9 +77,19 @@ Three kinds of work are worth separating.
 | The temporal details (season, hour, era) | The time | Mood, stage of life, pressure of time | Rushed, delayed, out of step |
 | The changes in the details | The movement of the story | A turning point or a shift of attitude | A change in the character's perception |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--02-setting-grid.webp" width="900" height="619" alt="A four-column grid read left to right. Sensory, social and temporal details, and changes in the details, each lead to what they depict, what they suggest or value, and how the character relates to them, for example fitting, resisting, being excluded or feeling rushed." loading="lazy">
+  <figcaption>Move from each kind of detail to what it depicts, what it values and how the character relates to it.</figcaption>
+</figure>
+
 ## Contrasted settings
 
 Writers often place **two settings** against each other: city and country, house and street, home and exile, a garden and the lane below. Such contrasts can **establish a conflict of values or ideas** associated with those settings: security against freedom, comfort against conscience, privacy against belonging. A character caught between them is a character in conflict.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--03-contrasted-settings.webp" width="900" height="550" alt="A character stands between two contrasted settings, pulled towards each: city and country, house and street, home and exile, a garden and the lane below. Such contrasts can set up conflicts of values: security against freedom, comfort against conscience, privacy against belonging." loading="lazy">
+  <figcaption>A character caught between two settings is a character in conflict.</figcaption>
+</figure>
 
 ## How characters behave in a setting
 
@@ -85,6 +100,11 @@ The course notes that **the way characters behave in or describe their surroundi
 - **What do they call it?** (the words they choose for the place)
 - **What changes about them as the setting changes?**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--04-behaviour-in-a-setting.webp" width="900" height="544" alt="Four questions to ask: what do characters notice, such as a dripping tap; what do they do, such as smoothing a dress or propping a window open; what do they call the place; and what changes about them as the setting changes." loading="lazy">
+  <figcaption>What a character notices, does and calls a place reveals an attitude to it.</figcaption>
+</figure>
+
 ## Public-domain examples to learn from
 
 **The Open Boat (Stephen Crane, 1897).** The first sentence is "None of them knew the colour of the sky." The sentence establishes the setting, the sea and a dinghy, and suggests that the men are absorbed in survival, looking at the waves and not at the heavens. The setting is indifferent to their effort, and the values it conveys are about the smallness of the men against nature.
@@ -92,6 +112,11 @@ The course notes that **the way characters behave in or describe their surroundi
 **To Build a Fire (Jack London, 1908).** The story opens on a bitterly cold, grey Yukon morning, and the setting dominates before the man has done anything. The cold is a place that does not allow error. The man's behaviour in it, confident and unwilling to heed warning, reveals his attitude to the place and shapes what happens to him.
 
 **The Garden Party (Katherine Mansfield, 1922).** The story opens, "And after all the weather was ideal." The sunny, prepared garden is contrasted with the poor cottages in the lane below, which set up a conflict between comfort and compassion for a young woman who passes between them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--05-classic-openings.webp" width="900" height="457" alt="Table of three stories. In The Open Boat the indifferent sea makes the men small; in To Build a Fire the Yukon cold allows no error and the man ignores warnings; in The Garden Party a sunny garden is set against poor cottages, a conflict between comfort and compassion." loading="lazy">
+  <figcaption>Each opening uses setting to convey values before the character acts.</figcaption>
+</figure>
 
 ## Worked example 1: setting that conveys values and tests a character
 
@@ -115,6 +140,11 @@ The course notes that **the way characters behave in or describe their surroundi
 
 **A model sentence.** "By pairing the brick wall a yard from her window with her memory of a whole afternoon spent counting swallows, the narrator makes Rosa's lodging a setting of confinement and measures her loss through contrast, while her careful smoothing of each dress shows a dignity that the room cannot take."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--06-rosa-lodging-and-field.webp" width="900" height="617" alt="Left: Rosa's lodging, with a window onto a brick wall a yard off, a narrow hall, thin walls and the smell of boiled cabbage. Right: her memory of her father's field, where she counted swallows. Below: she holds her breath and smooths each dress, and the contrast sets freedom against confinement." loading="lazy">
+  <figcaption>The brick wall and the remembered field measure what Rosa has lost.</figcaption>
+</figure>
+
 ## Worked example 2: a change of setting that marks a shift
 
 **Original passage written by Marlbridge for practice.**
@@ -136,6 +166,11 @@ The course notes that **the way characters behave in or describe their surroundi
 **Function.** The move from kitchen to shore marks a turn from outward duty to inward reflection, and it prepares the reader for a decision or a realisation.
 
 **A model sentence.** "By moving Tomas from a kitchen of overlapping noise to a shore where the tide has stranded the boats, the narrator shifts the story from obligation to exposure, and the silence gives him, and the reader, room to see what the busyness had hidden."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-2-setting-relationship-character-study-guide--07-tomas-kitchen-to-shore.webp" width="900" height="627" alt="Two scenes joined by an arrow. The kitchen is a roar of pans, gossip and the kettle's argument with the fire. Tomas slips out to a quiet shore where the tide is far out, boats lean on their sides and a gull calls one note. He moves from a week of obligation to not knowing what to do next." loading="lazy">
+  <figcaption>Moving from kitchen to shore marks Tomas's turn from duty to reflection.</figcaption>
+</figure>
 
 ## Common misconceptions
 

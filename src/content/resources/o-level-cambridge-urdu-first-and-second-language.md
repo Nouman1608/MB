@@ -53,6 +53,11 @@ drawn from prescribed set texts, while 3248 pairs Paper 1 with Paper
 2 Grammar, Writing and Translation, reflecting its focus on Urdu as an
 additional rather than first language.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--01-two-syllabuses.webp" width="900" height="638" alt="Side by side: 3247 First Language Urdu, for candidates whose main language is Urdu, pairs Paper 1 Reading and Writing (50%) with Paper 2 Texts (50%); 3248 Second Language Urdu, for learners, pairs Paper 1 (50%) with Paper 2 Grammar, Writing and Translation (50%)." loading="lazy">
+  <figcaption>Same Paper 1 title and weighting, different second papers and different candidates.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O-LEVEL URDU — PAPER 1 READING AND WRITING**
@@ -62,6 +67,11 @@ with Paper 2 Texts: Unseen Passage, Poetry and Prose (50%), drawn from
 prescribed set texts
 - 3248 Second Language Urdu — Paper 1 Reading and Writing (50%),
 paired with Paper 2 Grammar, Writing and Translation (50%)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--02-two-paper-1s.webp" width="900" height="668" alt="3247 Paper 1 lasts 1 hour 30 minutes in two parts, Reading 25 marks and Writing 25 marks. 3248 Paper 1 lasts 1 hour 45 minutes in five exercises worth 8, 9, 9, 10 and 14 marks, including a summary exercise." loading="lazy">
+  <figcaption>Same title, different duration, structure and tasks.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -94,6 +104,11 @@ The **Second Language** syllabus is for candidates who have learned Urdu in addi
 
 Choosing the wrong route is a real risk: a fluent speaker entered for Second Language is capped, while a learner entered for First Language faces literary demands they have not been taught.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--03-choosing-the-route.webp" width="900" height="610" alt="A decision: if Urdu is the main language, 3247 First Language, which assumes fluency and includes literary texts; if Urdu was learned in addition, 3248 Second Language, which tests practical communication, grammar and translation. A fluent speaker on 3248 is capped; a learner on 3247 faces untaught literary demands." loading="lazy">
+  <figcaption>Confirm your route with your centre before revising.</figcaption>
+</figure>
+
 ## Reading and comprehension
 
 Both routes test comprehension, at different depths.
@@ -104,6 +119,11 @@ Distinguish question types. *What* asks for located detail. *Why* asks for infer
 
 **3248** sets an explicit summary exercise, marked on identifying the relevant points and on concision — include every required point, exclude examples and repetition, and respect the word limit. **3247 names no summary task** — its Paper 1 reading is comprehension questions of varying length rather than a discrete summary — though its aims do include synthesising ideas, so a comprehension question can still ask a candidate to draw points together without that making summary a distinct, separately marked exercise on this route.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--04-question-types.webp" width="900" height="654" alt="Four question types: what asks for located detail, why for inference, the writer's attitude for evidence from word choice and tone, and in your own words for rephrasing. 3248 sets an explicit summary exercise; 3247 has no separate summary task." loading="lazy">
+  <figcaption>Each question type needs a different kind of answer.</figcaption>
+</figure>
+
 ## Writing
 
 Directed writing covers letters, speeches, reports, articles and dialogues; 3247's Part 2 composition offers a choice of title from **argumentative, discursive, descriptive and narrative** types, each drawn from a different topic or sub-topic.
@@ -111,6 +131,11 @@ Directed writing covers letters, speeches, reports, articles and dialogues; 3247
 **Register** is heavily credited and often mishandled. A formal letter needs formal address forms and vocabulary; a message to a friend needs the opposite. Getting this wrong costs marks even where the grammar is faultless.
 
 Plan first. For a discursive piece, decide the line of argument and the two or three supporting points before writing; for a narrative, decide the ending. Unplanned writing drifts, and organisation marks go with it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--05-writing.webp" width="900" height="598" alt="Directed writing covers letters, speeches, reports, articles and dialogues; the 3247 composition offers a choice of argumentative, discursive, descriptive and narrative titles. Plan the argument or the ending first, and match the register to the task." loading="lazy">
+  <figcaption>Know the format, plan before writing, and keep the register right.</figcaption>
+</figure>
 
 ## Accuracy — where marks are lost
 
@@ -122,6 +147,11 @@ Urdu writing marks concentrate on a small, predictable set of features:
 - **Izafat** and compound constructions in formal writing.
 - **Script accuracy** — dots and diacritics, since a misplaced dot changes the word entirely.
 - **Punctuation** appropriate to Urdu conventions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--06-accuracy.webp" width="900" height="584" alt="Six accuracy features: gender agreement, verb forms and consistent respect levels (tu, tum, aap), postpositions including the ergative ne, izafat and compounds, script accuracy with dots and diacritics, and Urdu punctuation." loading="lazy">
+  <figcaption>A small, predictable set of features: check every one before you finish.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -140,6 +170,11 @@ Common error: drifting into informal address partway through,
 which breaks consistency and costs marks even if every
 sentence is grammatically correct on its own.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-urdu-first-and-second-language--07-worked-example.webp" width="900" height="726" alt="For a letter to the head teacher asking permission for a trip: respectful address and closing, aap throughout and never tum, formal vocabulary, and a clear request with reasons. The common error is slipping into informal address partway through." loading="lazy">
+  <figcaption>Choose the register once and hold it to the last line.</figcaption>
+</figure>
 
 ## Common mistakes
 

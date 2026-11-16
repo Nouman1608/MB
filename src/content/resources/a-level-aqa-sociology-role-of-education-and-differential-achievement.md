@@ -40,6 +40,11 @@ theoretical and empirical foundation the other two build on;
 in-school relationships/processes and educational policy are left for
 a separate resource.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--01-four-strands.webp" width="900" height="530" alt="Four strands of 3.1.1 Education: role and functions of education, differential achievement by class, gender and ethnicity, relationships and processes within schools, and educational policies. The first two are covered here as the foundation for the others." loading="lazy">
+  <figcaption>Role and functions, and differential achievement, are the foundation the other two strands build on.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **AQA AS AND A-LEVEL SOCIOLOGY (7191/7192) — 3.1.1 EDUCATION (ROLE AND FUNCTIONS; DIFFERENTIAL ACHIEVEMENT)**
@@ -81,6 +86,16 @@ improvement. For ethnicity, weigh
 explanations rooted in material deprivation against those rooted in
 in-school processes such as teacher labelling and setting/streaming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--02-functionalist-marxist.webp" width="900" height="505" alt="Functionalists see education performing positive functions: secondary socialisation, social solidarity and role allocation. Marxists see it reproducing class inequality and preparing a compliant workforce through the correspondence principle." loading="lazy">
+  <figcaption>Functionalists and Marxists give opposing accounts of what education does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--03-achievement-variables.webp" width="900" height="523" alt="Three columns for class, gender and ethnicity. Class weighs material explanations against cultural ones; gender covers boys’ underachievement and girls’ improvement; ethnicity weighs material deprivation against labelling and setting." loading="lazy">
+  <figcaption>Each social variable has its own body of explanations to weigh.</figcaption>
+</figure>
+
 ## Worked example: comparing functionalist and Marxist views of role allocation
 
 A question asks candidates to compare the functionalist and Marxist
@@ -108,6 +123,11 @@ Contrast:       functionalism presents the allocation process as
 This claim-claim-contrast structure is the assessed skill behind most
 "compare two perspectives" questions in this content.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--04-claim-claim-contrast.webp" width="900" height="636" alt="Three steps of a comparison answer: the functionalist claim that role allocation is fair and meritocratic, the Marxist claim that it reproduces class inequality, and a contrast between the two." loading="lazy">
+  <figcaption>Two claims about the same function, then an explicit contrast.</figcaption>
+</figure>
+
 ## Key terms to define precisely
 
 **Correspondence principle** — Bowles and Gintis's concept that the
@@ -131,6 +151,21 @@ name the specific theorist or concept behind each explanation — not
 just describe the idea in general terms — strengthens an answer:
 named theorists appear in AQA's mark schemes as indicative content,
 though citing one is not itself a requirement for full marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--05-correspondence-principle.webp" width="900" height="554" alt="Hierarchy, discipline and extrinsic reward in schooling mirror the same features of the capitalist workplace, preparing students for their future roles as workers." loading="lazy">
+  <figcaption>For Bowles and Gintis, school mirrors the capitalist workplace.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--06-material-cultural.webp" width="900" height="505" alt="Material deprivation means lacking resources such as books, a quiet study space or nutritious food. Cultural capital is the knowledge, tastes and ways of speaking that higher-class families pass on, which the education system implicitly values." loading="lazy">
+  <figcaption>Material and cultural explanations are separate types, not alternatives to blur together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--07-labelling.webp" width="900" height="406" alt="A teacher or the education system attaches a label such as able or disruptive, which sets expectations, influences the student’s behaviour and shapes outcomes, sometimes through a self-fulfilling prophecy." loading="lazy">
+  <figcaption>A label can shape the behaviour and results it predicts.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -70,6 +70,16 @@ The guide names eleven thinkers who might be useful. You need not know them all;
 
 Lukes' first dimension is Robert Dahl's 1957 idea: A has power over B if A gets B to do what B would not otherwise do. His second draws on Peter Bachrach and Morton Baratz, who pointed to "non-decisions" that keep issues off the agenda.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--01-capacity-relational.webp" width="900" height="615" alt="Left: the capacity view counts what an actor has, such as troops, money, votes and ideas. Right: the relational view sees power only between actors. Below: US troops in Afghanistan for almost 20 years did not prevent the Taliban taking Kabul on 15 August 2021, so resources did not become the outcome sought." loading="lazy">
+  <figcaption>Holding resources is not the same as getting the outcome you want.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--02-lukes-dimensions.webp" width="900" height="600" alt="Three layers from Steven Lukes’ Power: A Radical View (1974). First, winning open decisions, Dahl’s idea that A gets B to do what B would not otherwise do. Second, keeping issues off the agenda through non-decisions. Third, shaping what people want so conflict never appears, the most hidden form." loading="lazy">
+  <figcaption>The deeper the dimension, the less visible the power.</figcaption>
+</figure>
+
 ## Hard, soft and smart power
 
 **Hard power** is **coercion**: using force, threats or penalties to make others act. The guide's examples are military interventions and economic sanctions.
@@ -95,6 +105,16 @@ Lukes' first dimension is Robert Dahl's 1957 idea: A has power over B if A gets 
 3. **Test for coercion.** Critics argue that debt can become leverage. They cite Sri Lanka's 2017 lease of Hambantota port to a Chinese company for 99 years. Other researchers dispute the "debt-trap" label and say borrowing governments made their own choices.
 4. **Conclude.** The same aid can be soft or hard depending on how it is used and seen. That is a limit of the hard/soft split, and it is worth saying so in an answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--03-hard-smart-soft.webp" width="900" height="530" alt="A scale from coercion to attraction. Hard power uses force and penalties, such as Russia’s 2022 invasion of Ukraine and the sanctions imposed in response. Smart power mixes tools to fit an aim, such as the 2015 JCPOA or EU climate diplomacy with its carbon border charge. Soft power attracts, such as South Korea’s cultural reach." loading="lazy">
+  <figcaption>Hard coerces, soft attracts, and smart combines them for a stated aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--04-classify-bri.webp" width="900" height="604" alt="Four steps for classifying the Belt and Road Initiative, launched in 2013: identify the economic resources; ask whether partners join because they want the projects, which is soft power; test for coercion, where critics cite Hambantota port and others dispute the debt-trap label; and conclude that the same aid can be soft or hard." loading="lazy">
+  <figcaption>Classify by how a tool works and is seen, and say where the categories blur.</figcaption>
+</figure>
+
 ## Structural and relational power
 
 **Structural power** comes from an actor's **position** in a system of rules or institutions. The guide's examples are UN Security Council membership and heads of state.
@@ -110,6 +130,11 @@ Lukes' first dimension is Robert Dahl's 1957 idea: A has power over B if A gets 
 
 Structures and relations interact. After Russia's veto, 141 states voted in the General Assembly on 2 March 2022 to demand Russian withdrawal. That was relational pressure working around a structural block. In April 2022 the Assembly also agreed that it will meet after any veto is cast.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--05-structural-relational.webp" width="900" height="645" alt="Structural power comes from position, such as a permanent Security Council seat with a veto or a head of state’s office. Relational power comes from ties, such as NATO membership or the Fridays for Future network. In 2022 Russia’s veto was a structural block; 141 states voting in the General Assembly applied relational pressure, and the Assembly agreed to meet after any veto." loading="lazy">
+  <figcaption>Position can block; networks can work around the block.</figcaption>
+</figure>
+
 ## Economic, political, social and cultural power
 
 | Type | Rests on | Real example |
@@ -121,11 +146,21 @@ Structures and relations interact. After Russia's veto, 141 states voted in the 
 
 These overlap: sanctions are economic *and* hard, and cultural power often feeds soft power. Say which type dominates in your case, and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--06-four-types.webp" width="900" height="603" alt="Four types of power with what each rests on and an example: economic (chip and mineral export controls), political (Security Council resolutions, EU rules), social (the International Campaign to Abolish Nuclear Weapons) and cultural (Hollywood, Bollywood, the Korean Wave)." loading="lazy">
+  <figcaption>Classify by what the power rests on, noting where types overlap.</figcaption>
+</figure>
+
 ## Power to, power over, power with
 
 - **Power over** is control of others: getting them to do what they would not choose. Sanctions and military threats fit here. This is Dahl's and Lukes' focus.
 - **Power to** is the capacity to act or achieve something: a state's ability to vaccinate its population, or citizens' ability to vote. Pitkin separates it from power over.
 - **Power with** is collective power built through cooperation. The term is usually traced to Mary Parker Follett in the 1920s, and it echoes Arendt. The Alliance of Small Island States (formed 1990) pushed for the 1.5°C goal. The Paris Agreement (2015) commits parties to pursue efforts to limit warming to 1.5°C.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-power--07-over-to-with.webp" width="900" height="610" alt="Power over: A pushes B to do what B would not choose, as with sanctions or threats. Power to: A has the capacity to achieve something, such as vaccinating a population. Power with: several actors act together, as when the Alliance of Small Island States pushed for the 1.5 degree goal." loading="lazy">
+  <figcaption>Control of others, capacity to act, or strength built together.</figcaption>
+</figure>
 
 ## Using the classifications as tools
 

@@ -60,6 +60,11 @@ People and the Environment, and People and Technology), which apply
 the sociological perspectives and methodological skills built across
 Units 1 and 2 to more applied, contemporary topics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--01-where-unit-2-fits.webp" width="900" height="645" alt="Units 1 and 2 make up the International AS; the full A-level adds Units 3 to 5 on development, environment and technology. Unit 2 has 60 marks: Section A on socialisation and social control (40 marks) and Section B on research methods and theory (20 marks)." loading="lazy">
+  <figcaption>Unit 2 completes the International AS and is split 40:20 between two sections.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL A-LEVEL SOCIOLOGY (9690) — UNIT 2 EXPLORING SOCIOLOGY**
@@ -87,6 +92,11 @@ a full sub-section in its own right. Research Methods and Theory
 practise writing one sustained, theoretically-justified argument about
 method choice rather than a list of practical strengths and
 weaknesses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--02-five-subsections.webp" width="900" height="629" alt="Five numbered sub-sections of 3.1.2: individuals and society, socialisation, social identities and social change, social control, and deviance, harm and crime, plus the six named sociologists for Unit 2." loading="lazy">
+  <figcaption>Deviance, harm and crime is a full sub-section, not a footnote.</figcaption>
+</figure>
 
 ## Individuals and society, and socialisation (3.1.2.1-3.1.2.2)
 
@@ -125,6 +135,11 @@ consent of the governed to ruling-class ideas). The specification asks
 for social control to be read through functionalist, Marxist, feminist
 and social action/interactionist perspectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--04-social-control.webp" width="900" height="736" alt="Formal social control through government, police and courts is compared with informal control through families, schools, peers, media, religion and work. Key concepts are stigma and othering, Althusser’s state apparatuses and interpellation, and Gramsci’s hegemony." loading="lazy">
+  <figcaption>Control can be formal or informal, and every agency uses sanctions.</figcaption>
+</figure>
+
 ## Deviance, harm and crime (3.1.2.5)
 
 The **social construction of crime and deviance**; named crime types
@@ -136,6 +151,11 @@ gender, social class, age and ethnicity.
 
 **Named sociologists for Unit 2:** Stanley Cohen, Fanon, Goffman, Mead,
 Mills, Zuboff.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--05-crime-types-measurement.webp" width="900" height="546" alt="The content of 3.1.2.5: the social construction of crime and deviance, eight named crime types, social harms that are not crimes, three ways of measuring crime, and patterns by gender, class, age and ethnicity." loading="lazy">
+  <figcaption>Crime is socially constructed, measured in several ways and unevenly distributed.</figcaption>
+</figure>
 
 ## Research methods and theory, revisited
 
@@ -153,6 +173,11 @@ strongest Unit 2 answers acknowledge this by discussing
 **triangulation** -- combining quantitative and qualitative methods to
 offset the weaknesses of each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--06-positivism-interpretivism.webp" width="900" height="506" alt="Positivists favour quantifiable methods such as questionnaires and official statistics to find patterns; interpretivists favour unstructured interviews and participant observation to capture meaning. Triangulation combines the two." loading="lazy">
+  <figcaption>Strong answers recognise that triangulation can combine both traditions.</figcaption>
+</figure>
+
 ## Worked example: applying theory to method choice
 
 Consider the research question "Why do some working-class students
@@ -169,6 +194,11 @@ explains that the choice between them reflects a genuine theoretical
 disagreement about what counts as valid sociological knowledge, and
 may propose triangulating both approaches to capture pattern and
 meaning together.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-exploring-sociology--07-worked-example.webp" width="900" height="581" alt="Positivist and interpretivist approaches to working-class underachievement compared: official statistics show broad patterns but not causes, while interviews and observation reveal experience but are hard to generalise." loading="lazy">
+  <figcaption>Justify the method choice theoretically, not only practically.</figcaption>
+</figure>
 
 ## Common mistakes
 

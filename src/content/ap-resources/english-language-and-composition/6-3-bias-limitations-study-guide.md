@@ -82,6 +82,11 @@ The framework offers a useful measure: **the degree to which a source does or do
 
 Bias also depends on **purpose**. The Declaration of Independence (1776) lists grievances against the King and says: "To prove this, let Facts be submitted to a candid world." The list is deliberately one-sided because the document is an indictment, and it does not pretend to weigh the King's side. A reader should judge a one-sided source in the light of what it is for, and should not treat it as a neutral report.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-3-bias-limitations-study-guide--01-bias-scale.webp" width="900" height="676" alt="A scale from low to high bias with six paired signs: fair treatment of opposing views or caricature, measured or loaded language, complicating or only favourable evidence, disclosed or hidden method, admitted uncertainty or overclaimed certainty, and disclosed or undisclosed interest. A note covers vested interest and purpose." loading="lazy">
+  <figcaption>The more fairly a source considers other positions, the less biased it is.</figcaption>
+</figure>
+
 ## Limitations
 
 A **limitation** is a feature of the evidence that restricts what it can prove. Even an unbiased source has limits. Common ones:
@@ -98,6 +103,11 @@ A **limitation** is a feature of the evidence that restricts what it can prove. 
 
 A limitation does not make evidence worthless; it tells you how far it goes. A small survey can suggest a trend without proving it. An anecdote can illustrate a point but cannot prove that the point is common.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-3-bias-limitations-study-guide--02-seven-limitations.webp" width="900" height="610" alt="A numbered checklist of seven limitations with the question to ask and an example: sample size, sample selection, scope, date, method, type of evidence and correlation." loading="lazy">
+  <figcaption>Limited evidence still counts: it just proves less than a sweeping claim needs.</figcaption>
+</figure>
+
 ## Acknowledging and accounting for limitations
 
 Recognising a bias or limitation is the first step. The second is to **account for it** in your reasoning. You can do this in three ways:
@@ -113,6 +123,11 @@ Compare:
 > **Strong:** A filter company reports that 45 of 50 visitors to its own stand preferred the filtered water, but a company's own visitors are a self-selected and interested group; the claim is better tested by the consumer group's blind taste tests, where the difference was small.
 
 The strong version names the source's interest, describes the limitation of the sample and brings in independent evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-3-bias-limitations-study-guide--03-account-for-limitations.webp" width="900" height="651" alt="Three ways to account for a limitation: qualify the claim, name the limitation, and add other evidence. Below, a weak sentence treats a 9-in-10 survey as proof; the strong version names the filter company’s interest, notes that its visitors are self-selected, and turns to the consumer group’s blind tests." loading="lazy">
+  <figcaption>Say what a source can show and what it cannot, and cover its gaps.</figcaption>
+</figure>
 
 ## Worked example 1: evaluating and using a source
 
@@ -144,6 +159,11 @@ The strong version names the source's interest, describes the limitation of the 
 
 **Step 6: Check.** The sentence names the source, states the claim accurately (45 of 50 is 9 in 10), identifies the interest and limitations and states what the evidence cannot show.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-3-bias-limitations-study-guide--04-source-g-audit.webp" width="900" height="685" alt="Source G’s brochure text labelled phrase by phrase: the survey of 50 stand visitors is small and self-selected, measures taste only, and “full of impurities”, “only our filter” and “Isn’t it time your family drank clean water?” show loaded language, no other positions and an appeal to fear. Below, a summary of position, bias, limitations and responsible use." loading="lazy">
+  <figcaption>Use a biased source as evidence of what it claims, not as proof of more.</figcaption>
+</figure>
+
 ## Worked example 2: comparing sources by degree of bias
 
 Two more fictional sources on the same issue.
@@ -161,6 +181,11 @@ Two more fictional sources on the same issue.
 **Step 4: Judge the degree of bias.** Source H shows the least bias of the three: it presents evidence that cuts against a simple claim and gives its method. Source I shows more, with an interest and no evidence. Source G shows the most.
 
 **Step 5: Write the analysis sentence.** *Source H is the most reliable because it reports findings that complicate any simple conclusion and states its method, whereas Source I rests on an assertion from an interested party and Source G on a small, self-selected survey from a company that sells the product.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-3-bias-limitations-study-guide--05-ranking-three-sources.webp" width="900" height="560" alt="Three fictional sources ranked by bias. Source H, an independent consumer group that tested 120 homes and reports the filters’ small benefit with its method, shows the least. Source I, the water company asserting its water is fine without data, shows more. Source G, the filter company’s small, self-selected taste survey, shows the most." loading="lazy">
+  <figcaption>Rank sources by interest, fairness to other views and method, then by their limits.</figcaption>
+</figure>
 
 ## Common misconceptions
 

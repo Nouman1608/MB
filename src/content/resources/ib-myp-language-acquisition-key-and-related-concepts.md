@@ -73,6 +73,16 @@ A good statement of inquiry:
 4. is a general claim, not a question and not a task instruction;
 5. would still be true in a different language or unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--01-concept-layers.webp" width="900" height="715" alt="The four key concepts for language acquisition are communication, connections, creativity and culture; the brief’s related-concept examples are word choice, conventions and idiom. Both are explored through the six global contexts. A topic such as food is not a concept; culture is a concept that applies to food, festivals and slang alike." loading="lazy">
+  <figcaption>Key concepts frame, related concepts ground, contexts give the setting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--06-inquiry-question-types.webp" width="900" height="625" alt="Three question types in language acquisition: factual (how do you open a formal letter in Spanish?), conceptual (why do languages have different levels of politeness?) and debatable (should young people use slang in a job interview?). A question such as “How do people make friends online?” is an inquiry question, not a statement of inquiry." loading="lazy">
+  <figcaption>The curriculum explores all three kinds of question.</figcaption>
+</figure>
+
 ## The four key concepts
 
 ### Communication
@@ -82,6 +92,11 @@ In plain terms, communication is the exchange of meaning between people. In a la
 **Classroom task:** leave a voicemail for a friend cancelling a meeting, then write an email to a teacher cancelling a meeting. Same message, two audiences.
 
 **Statement of inquiry:** "The way we adapt our words to an audience shapes whether a message is understood and accepted." (Communication; word choice; identities and relationships.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--02-communication-audience-purpose-mode.webp" width="900" height="645" alt="Communication has three checkable parts: audience, purpose and mode. The same cancellation becomes an informal spoken voicemail to a friend and a formal written email to a teacher. Statement of inquiry: the way we adapt our words to an audience shapes whether a message is understood and accepted." loading="lazy">
+  <figcaption>Same message, different audience: the language has to change.</figcaption>
+</figure>
 
 ### Connections
 
@@ -139,6 +154,11 @@ Watch for **false friends** -- words that look alike but differ in meaning. Fren
 
 In your target language, repeat the steps, and add the formal form of "you" if your language has one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--03-word-choice-complaint.webp" width="900" height="720" alt="An informal complaint to a hotel, “Hey! Your room was rubbish and I want my cash back”, is rewritten for a formal audience: “Hey!” becomes “Dear Sir or Madam”, “rubbish” becomes “not of the standard advertised”, “cash back” becomes “a refund”, and a precise detail about the broken shower is added." loading="lazy">
+  <figcaption>Match words to the audience, then add precision.</figcaption>
+</figure>
+
 ### Conventions
 
 Conventions are the expected rules of a type of text or exchange. Readers notice when they are broken. Examples:
@@ -164,6 +184,11 @@ An idiom is a fixed expression whose meaning is not the sum of its words. "It's 
 
 Use idioms sparingly and only when you are sure of them. One correct idiom in a speaking task shows range. A wrong or literally translated one confuses your listener.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--04-decoding-an-idiom.webp" width="900" height="730" alt="Four steps for an idiom met in a French blog: notice the literal meaning (“he put a rabbit on me”) makes no sense; use the context (the writer waited an hour at a café); infer the meaning (“he stood me up”); and record the idiom with its meaning and an example, not a literal translation." loading="lazy">
+  <figcaption>Idioms are decoded from context and learned as whole expressions.</figcaption>
+</figure>
+
 ## Worked example: building a statement of inquiry
 
 Your class is starting a unit on social media and friendship.
@@ -174,6 +199,11 @@ Your class is starting a unit on social media and friendship.
 4. **Write a general claim.** "The conventions of online communication shape how we build and keep friendships."
 5. **Test it.** Does it work for another language? Yes. Is it a claim, not a question? Yes. Does it avoid naming one app? Yes.
 6. **Add inquiry questions.** Factual: "What abbreviations are common in text messages in the target language?" Conceptual: "How does a short message change the tone of a conversation?" Debatable: "Is online friendship as real as face-to-face friendship?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--05-statement-of-inquiry.webp" width="900" height="760" alt="For a unit on social media and friendship: choose the key concept communication, the related concepts conventions and word choice, and the global context identities and relationships; write the claim “The conventions of online communication shape how we build and keep friendships”; test that it transfers, is a claim and names no app; then add factual, conceptual and debatable questions." loading="lazy">
+  <figcaption>Concept + related concepts + context = one general, transferable claim.</figcaption>
+</figure>
 
 ## Common errors
 

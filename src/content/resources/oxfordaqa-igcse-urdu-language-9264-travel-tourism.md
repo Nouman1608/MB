@@ -42,6 +42,11 @@ practice it asks you to understand and produce Urdu about:
 - **Tourism as an issue** -- what tourism brings to a place and what problems it can cause, which
   links this topic to Topic 3 (Global issues).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--01-topic-map.webp" width="900" height="820" alt="Five strands with Urdu words: holidays and trips (چھٹیاں, سیر کرنا, ٹھہرنا), transport (ہوائی جہاز, ٹرین, ہوائی اڈا), planning and booking (ٹکٹ, ہوٹل, پاسپورٹ), destinations (ساحلِ سمندر, پہاڑ, عجائب گھر), and tourism as an issue, which brings work but also pollution." loading="lazy">
+  <figcaption>Holidays, transport, booking and destinations, plus tourism as an issue.</figcaption>
+</figure>
+
 ## Where this fits in 9264
 
 Like every topic in the specification, Travel and tourism has no paper of its own. It can appear in
@@ -68,6 +73,11 @@ Learn these actively, so that you can write them from memory, not only recognise
 
 Gender matters for agreement: سفر is masculine (لمبا سفر, a long journey), while چھٹی is
 feminine (اچھی چھٹی, a good holiday).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--02-safar-and-chhutti.webp" width="900" height="526" alt="سفر (journey) is masculine, so لمبا سفر is right and لمبی سفر wrong; چھٹی (holiday) is feminine, so اچھی چھٹی is right and اچھا چھٹی wrong. سفر is the journey itself; سیر is sightseeing or an outing." loading="lazy">
+  <figcaption>Check each travel noun’s gender before choosing the adjective ending.</figcaption>
+</figure>
 
 ## Structures that carry this topic
 
@@ -110,6 +120,11 @@ family was together.) For tourism as an issue, a balanced sentence works well:
 سیاحت سے مقامی لوگوں کو روزگار ملتا ہے، لیکن اس سے آلودگی بھی بڑھتی ہے۔ (Tourism gives
 local people work, but it also increases pollution.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--03-past-tense-ne.webp" width="900" height="700" alt="A decision for past-tense verbs. Intransitive and habitual verbs take no نے and agree with the subject (ہم ٹرین سے لاہور گئے, ہر روز ہم ساحل پر جاتے تھے). Transitive simple-past verbs take نے and agree with the object (ہم نے بادشاہی مسجد دیکھی). ہم نے لاہور گئے and ہم نے مسجد دیکھا are wrong." loading="lazy">
+  <figcaption>Go and come take no نے; see and do take نے and agree with the object.</figcaption>
+</figure>
+
 ## Worked example 1: a holiday recount
 
 Task (original): *Write a short blog post about a memorable trip. Say where you went, how you
@@ -139,6 +154,11 @@ future wish                  اگلے سال ... سیر کرنا چاہتا ہو
 
 Every part of the task is answered, and the paragraph shows three time frames: past events,
 an evaluation, and a plan. A girl would write چاہتی ہوں in the last sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--04-recount-anatomy.webp" width="900" height="690" alt="Five moves in the model blog post with their Urdu: past events without نے (کراچی گئے), past events with نے (سفر کیا, اونٹ کی سواری کی), a description (سفر بہت آرام دہ تھا), an opinion with کیونکہ, and a future wish (سیر کرنا چاہتا ہوں)." loading="lazy">
+  <figcaption>Past events, description, opinion and a plan: a recount that also judges.</figcaption>
+</figure>
 
 ## Worked example 2: translating into Urdu
 
@@ -181,6 +201,11 @@ verb at the end.
   10-mark task deserves about 15 minutes, including checking.
 - **Check نے and agreement last.** A two-minute check of every past-tense verb catches the errors
   that are most frequent in this topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-travel-tourism--05-plan-the-time-frames.webp" width="900" height="716" alt="Five Urdu sentences across time frames: past events (ہم ٹرین سے لاہور گئے), past description (موسم بہت گرم تھا), a superlative judgement (یہ میری سب سے یادگار چھٹی تھی), a future plan (اگلے سال ہم مری جائیں گے) and an unreal condition (اگر میرے پاس پیسے ہوتے تو میں ترکی جاتا)." loading="lazy">
+  <figcaption>Travel tasks invite past, present and future: plan which point needs which.</figcaption>
+</figure>
 
 ## Linked resources
 

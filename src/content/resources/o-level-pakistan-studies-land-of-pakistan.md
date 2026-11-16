@@ -39,6 +39,11 @@ location, administrative geography, topography and climate all
 recur as context in later Paper 2 sections on natural resources,
 agriculture, industry and population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--01-section-1-foundation.webp" width="900" height="454" alt="Section 1, The Land of Pakistan, is drawn as the base supporting the other seven sections of Paper 2, from natural resources to population and employment. Its location, administrative areas, topography and climate recur as context throughout." loading="lazy">
+  <figcaption>Location, topography and climate recur as context in every later Paper 2 section.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL PAKISTAN STUDIES (2059) — PAPER 2, SECTION 1: THE
@@ -85,6 +90,11 @@ explicitly *not* required -- only their identification and influence
 -- so don't spend revision time on geological processes this section
 does not ask for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--02-paper-2-format.webp" width="900" height="560" alt="Paper 2 lasts 1 hour 30 minutes for 75 marks, half the qualification. Candidates answer three of five questions, each worth 25 marks in parts (a) to (d) based on resources; part (d) tests analysis." loading="lazy">
+  <figcaption>Three 25-mark questions, each ending in an analysis part (d).</figcaption>
+</figure>
+
 ## Official syllabus
 
 Cambridge O Level Pakistan Studies (2059) syllabus for examination in
@@ -101,6 +111,11 @@ the Tropic of Cancer and the latitudes 30°N and 36°N, and the
 longitudes 64°E, 70°E and 76°E -- which together frame Pakistan's
 position and help explain its range of climates from tropical in the
 south to temperate and alpine in the northern mountains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--03-reference-lines.webp" width="900" height="640" alt="A schematic grid of the reference lines candidates must place on a map: latitudes 36°N and 30°N, the Tropic of Cancer further south, and longitudes 64°E, 70°E and 76°E, with the Arabian Sea to the south. Below, a bar shows climate ranging from tropical in the south to temperate and alpine in the northern mountains." loading="lazy">
+  <figcaption>Learn the five reference lines and the Tropic of Cancer before placing any feature.</figcaption>
+</figure>
 
 ## Topography: mountains, plains, deserts
 
@@ -123,6 +138,16 @@ steep mountain terrain limits road and rail construction and
 concentrates settlement in valleys, while flatter land in the plains
 supports denser transport networks and agriculture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--04-relief-and-rivers.webp" width="900" height="770" alt="Three panels group the named landforms: mountain ranges of the north and west (Hindu Kush, Karakoram, Himalaya, Sulaiman Range, Safed Koh), plateaux (Balochistan, Potwar, Salt Range) and deserts (Thar, Thal, Kharan). Below, the Jhelum, Chenab, Ravi and Sutlej feed the Indus; the Kabul, Hab and Dasht are also named." loading="lazy">
+  <figcaption>Every named feature belongs to one of four families: learn them by family, then locate them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--05-topography-and-people.webp" width="900" height="540" alt="Two sketches compare relief. In steep mountains, settlement sits in a valley and a route winds along the valley floor because road and rail are hard and costly to build. On the flat plains, farmland, straight routes and evenly spread houses cover the land." loading="lazy">
+  <figcaption>Steep land funnels routes into valleys; flat plains allow dense networks and farming.</figcaption>
+</figure>
+
 ## Climate zones and their human impact
 
 Pakistan spans several climate zones -- arid, semi-arid, humid and
@@ -138,6 +163,11 @@ climate answer in this section should end by tying the physical
 pattern to its effect on people -- on farming, industry or daily
 life -- since that link is what the syllabus tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--06-climate-and-people.webp" width="900" height="700" alt="The monsoon, caused by a seasonal reversal of winds and pressure, brings most of the rainfall. Below are the arid, semi-arid, humid and highland zones, then the hazards of the highland north (low temperatures, ice and snow) and the lowlands (drought, water shortage and flooding), all leading to effects on farming, industry, water supply and daily life." loading="lazy">
+  <figcaption>Every climate answer should end with the effect on people.</figcaption>
+</figure>
+
 ## Worked example
 
 A question asks candidates to explain how the natural topography of
@@ -149,6 +179,11 @@ concludes that this has historically concentrated transport routes
 along valleys and passes rather than allowing a dense, evenly spread
 network -- moving from named feature, to physical constraint, to
 human consequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-land-of-pakistan--07-answer-chain.webp" width="900" height="514" alt="Three linked boxes show the structure of a strong answer: a named feature (the Karakoram and Himalaya), the physical constraint (steep, high terrain makes road and rail hard and costly) and the human consequence (routes concentrated along valleys and passes)." loading="lazy">
+  <figcaption>Move from a named feature to a physical constraint to a human consequence.</figcaption>
+</figure>
 
 ## Common mistakes
 

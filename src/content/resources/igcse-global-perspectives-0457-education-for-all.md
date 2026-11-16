@@ -74,6 +74,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 
 **Evaluating these as evidence.** These documents are strong evidence of what governments have **agreed** or **promised**. They are weak evidence of what actually **happens** in classrooms. A law that makes education free does not prove every child attends. To judge progress you need data, such as enrolment and completion figures, and you should check how recent and how reliable that data is.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--01-promises-timeline.webp" width="900" height="688" alt="A timeline of commitments: the Universal Declaration of Human Rights Article 26 (1948), the World Conference on Education for All in Jomtien (1990), Pakistan’s Article 25-A (2010) and Sustainable Development Goal 4 (2015). These are strong evidence of promises but weak evidence of what happens in classrooms; enrolment and completion data are needed." loading="lazy">
+  <figcaption>A law or goal shows what was promised, not what happens.</figcaption>
+</figure>
+
 ## Perspectives on education issues
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". A perspective is more than an opinion: it has reasons behind it.
@@ -88,6 +93,11 @@ Take one national issue: **should governments rely on low-fee private schools to
 The syllabus asks you to consider perspectives "objectively and with empathy" (AO2). That means explaining **why** each group holds its view: their values, their experience, and what they stand to gain or lose. You do not need to agree. In the Individual Report, the syllabus says perspectives "do not have to be opposing perspectives but they must be clearly different".
 
 Another useful issue is **language of instruction**. Some argue children learn best in their home language in early years; others argue that a national or international language gives wider opportunities later. Families, governments and teachers can all hold reasoned views here. Present both fairly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--02-low-fee-private-schools.webp" width="900" height="724" alt="A balance weighs low-fee private schools. Supporters: they open quickly where the state lacks schools, give choice, and some parents judge the teaching better. Critics: fees exclude the poorest, quality varies, and education is a right the state should provide. A parent weighs cost against the local state school; a teacher focuses on pay, class size and training." loading="lazy">
+  <figcaption>Beyond for and against, parents and teachers judge the issue from their own position.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -108,6 +118,16 @@ AO1 asks you to research global issues, "their causes and consequences". For any
 - **Global** — slower progress on shared goals such as SDG 4.
 
 **Building a chain.** Strong analysis links steps: *the nearest secondary school is far away → transport costs money → families with less money keep children at home → those children leave with fewer qualifications*. Each arrow is a claim you should support with evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--03-out-of-school-causes.webp" width="900" height="664" alt="Six possible causes surround a child out of school: cost, distance and safety, supply of schools and teachers, conflict or disaster, social expectations and disability. Below, a chain: a distant secondary school means transport costs, so poorer families keep children home and they leave with fewer qualifications." loading="lazy">
+  <figcaption>Each cause is a line of analysis to test with evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--04-consequences-by-level.webp" width="900" height="538" alt="Four rings show consequences of missing education: personally, fewer choices of work and study; locally, fewer trained teachers and nurses; nationally, effects on the economy and informed citizens; globally, slower progress on SDG 4." loading="lazy">
+  <figcaption>Missing school affects one person, a community, a country and shared global goals.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -132,6 +152,16 @@ The syllabus also says you should "analyse and evaluate use of evidence and lang
 
 Notice the order: the claim, the evidence, what the evidence does support, then specific weaknesses, then a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--05-percentage-points.webp" width="900" height="614" alt="Two bars rise from 68% to 83%. The absolute change is 15 percentage points; the relative change is about a 22% rise, because 15 divided by 68 is about 0.22. Mixing the two can be careless or exaggerated." loading="lazy">
+  <figcaption>A rise from 68% to 83% is 15 percentage points but about 22% in relative terms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--06-marrowby-survey.webp" width="900" height="656" alt="A fictional campaign group asked 300 parents in Marrowby why a child left school; 45% (135 parents) named fees and 55% gave other reasons. The evaluation moves from the claim, to what the evidence supports locally, to its weaknesses (one town, generalisation, under half, vested interest), to a judgement that it cannot support a national claim." loading="lazy">
+  <figcaption>Claim, evidence, what it supports, weaknesses, judgement: in that order.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 The syllabus aims include suggesting "evidence-based courses of action" and considering "the concept of sustainability". When you judge an action, ask:
@@ -150,6 +180,11 @@ Possible actions on education issues include removing school fees, providing sch
 > Removing school fees tackles the cost barrier directly, so it is likely to raise enrolment among families with the least money. However, if the government does not also pay for more teachers and classrooms, class sizes may rise, and quality could fall, so more children might attend without learning more. Fees are also only one cost: uniforms, transport and lost family income remain. Removing fees is therefore likely to work best as part of a package with funding for teachers, and its success should be judged by learning results as well as enrolment.
 
 This paragraph moves from effect, to limitation, to judgement. That is what "assess actions" questions reward.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--07-removing-fees.webp" width="900" height="733" alt="Removing school fees tackles the cost barrier and is likely to raise enrolment among the poorest families. Two limits follow: without more teachers and classrooms, class sizes rise and quality may fall; and uniforms, transport and lost income remain. Judgement: it works best in a package with teacher funding, judged by learning as well as enrolment." loading="lazy">
+  <figcaption>An action is judged by its effect, its limits, and what it needs alongside it.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

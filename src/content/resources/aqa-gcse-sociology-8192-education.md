@@ -100,6 +100,16 @@ The **tripartite system** set up after the Education Act 1944 used the eleven pl
 
 > Durkheim argued that education fosters social cohesion by passing on shared norms and values. For example, when a school teaches British history to pupils from many backgrounds, they come to see themselves as part of one larger society. This matters because, for Durkheim, without shared values a society of separate individuals would fall apart. However, Marxists would reply that the values taught are those of the ruling class, so what looks like cohesion is really acceptance of inequality.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--01-functions-of-education.webp" width="900" height="588" alt="Three cards show the functions in the specification: serving the economy, facilitating social mobility and fostering social cohesion. Below, functionalists say education serves society as a whole, Marxists say it serves capitalism, and feminists say it has reproduced gender inequality." loading="lazy">
+  <figcaption>The specification lists three functions; the perspectives disagree about whom they really serve.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--02-parsons-bridge.webp" width="900" height="917" alt="A bridge labelled school joins the family on one side to wider society on the other. In the family children are judged by particularistic standards; in society everyone is judged by universalistic standards. School is meritocratic, builds a value consensus and selects people for future roles." loading="lazy">
+  <figcaption>School moves children from particularistic family rules to the universalistic rules of society.</figcaption>
+</figure>
+
 ## 3.4.2 The relationship between education and capitalism
 
 ### Bowles and Gintis
@@ -130,6 +140,11 @@ Bowles and Gintis (*Schooling in Capitalist America*, 1976) wrote from a Marxist
 ### Worked paragraph
 
 > Bowles and Gintis argue that school corresponds to work: pupils work for grades just as workers work for wages. A pupil who revises only because a test score is published is learning to value rewards outside the task itself, which is what a factory or office needs. This suggests schools reproduce labour power rather than develop individual talent. However, Willis found that some working-class boys rejected the school's values, so school does not always produce docile workers, even if the outcome for those boys was still manual work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--03-correspondence-principle.webp" width="900" height="927" alt="Four matched pairs link school to work: obeying teachers and obeying managers; working for grades and working for wages; separate lessons and narrow tasks; competing for rank and competing for promotion. The result is a docile, obedient workforce too divided to challenge management. Below, alternative views from Willis, functionalists, feminists and interactionists." loading="lazy">
+  <figcaption>Social relationships at school mirror those at work, so school reproduces labour power.</figcaption>
+</figure>
 
 ## 3.4.3 Educational achievement
 
@@ -178,6 +193,21 @@ Class, gender and ethnicity overlap. A good answer asks how much of an "ethnic" 
 
 > Halsey, Heath and Ridge found that a service-class boy was eleven times as likely as a working-class boy to attend university. If a school today sees most of its sixth form coming from professional families, this pattern would suggest class still shapes who stays in education. It challenges the functionalist claim that schools are meritocratic, because ability is unlikely to differ that much between classes. However, the sample excluded females and covered men born before 1953, so it may not describe education today.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--04-halsey-class-chances.webp" width="900" height="809" alt="Bar chart: compared with a working-class boy, a service-class boy was four times as likely to be at school at 16, eight times at 17, ten times at 18 and eleven times as likely to attend university. Below, the three classes by father’s occupation and the all-male sample of over 8,000." loading="lazy">
+  <figcaption>The longer education goes on, the wider the class gap becomes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--05-achievement-factors.webp" width="900" height="570" alt="Three columns of explanations. Class: material deprivation, cultural deprivation and cultural capital. Gender: girls now outperform boys because of feminism, equal opportunities policies and fewer manual jobs for boys, though subject choice stays gendered. Ethnicity: material factors, language, an ethnocentric curriculum and institutional racism." loading="lazy">
+  <figcaption>Class, gender and ethnicity each have their own explanations, and they overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--06-ball-marketisation.webp" width="900" height="646" alt="Parental choice and league tables make schools compete. Schools reintroduce streaming and setting and focus on the more able, while middle-class parents are better placed to use choice, so the market can widen class inequality." loading="lazy">
+  <figcaption>Competition between schools can help the middle class more than the working class.</figcaption>
+</figure>
+
 ## 3.4.4 Processes within schools
 
 ### Key terms
@@ -216,6 +246,16 @@ Willis (*Learning to Labour*, 1977) studied twelve working-class boys, "the lads
 ### Worked paragraph
 
 > Ball found that at Beachside middle-class pupils were more likely to be placed in band 1, which received higher expectations. In a school that sets Year 9 maths by a test, a working-class pupil placed in a low set may be given easier work and come to see themselves as weak at maths, which is a self-fulfilling prophecy. This shows how an internal process can turn a label into lower achievement. However, Beachside was a single school, and factors outside school, such as material deprivation, also shape achievement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--07-streaming-setting-mixed.webp" width="900" height="650" alt="Three panels follow one highlighted pupil across maths, English and science. With streaming the pupil is in the lower group for every subject. With setting the pupil is in the top set for maths and science but a lower set for English. With mixed ability everyone is taught together." loading="lazy">
+  <figcaption>Streaming fixes one group for all subjects; setting can differ subject by subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--08-ball-and-willis.webp" width="900" height="902" alt="Two step-by-step columns. Ball at Beachside: middle-class pupils were more often placed in band 1 with higher teacher expectations, while band 2 was steered to easier exams and developed anti-school attitudes. Willis: twelve working-class lads formed a counter school culture, rejected school, and this suited them to manual work." loading="lazy">
+  <figcaption>Ball shows labelling through banding; Willis shows resistance that still led to manual work.</figcaption>
+</figure>
 
 ## Common errors
 

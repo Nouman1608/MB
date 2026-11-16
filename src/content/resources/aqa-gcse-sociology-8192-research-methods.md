@@ -108,6 +108,16 @@ The specification's text summaries show these choices in real research:
 > *How might a sociologist design a study of whether school setting affects pupils' self-image?*
 > The researcher could set the hypothesis that pupils in bottom sets have lower self-esteem than pupils in top sets (**knowledge**). In a school with 1,200 pupils, a systematic sample of every 12th name on the roll would give 100 pupils from all sets (**application**). A pilot with a few pupils would show whether questions about self-esteem are understood and not upsetting, which matters with young respondents (**analysis**). However, one school cannot represent all schools, and pupils may give answers they think teachers want, which lowers validity (**evaluation**).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--01-research-design-stages.webp" width="900" height="679" alt="Four numbered stages in a row: aims and hypotheses, pilot study, sampling, analysis of data. Below, an aim is a general statement such as investigating how couples divide housework, while a hypothesis is a narrower, testable prediction such as dual-career couples sharing housework more equally." loading="lazy">
+  <figcaption>Plan the aim, test the method, choose the sample, then analyse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--02-sampling-methods.webp" width="900" height="970" alt="Four panels. Random: scattered people chosen, each with an equal chance. Systematic: every nth name on a list. Quota: set numbers filled for each group, such as 78 women and 72 men in a sample of 150 from a town that is 52% female. Snowball: one participant introduces the next in a chain. Each has a strength and a weakness." loading="lazy">
+  <figcaption>Each sampling method trades fairness, speed and reach against representativeness.</figcaption>
+</figure>
+
 ## Qualitative and quantitative methods
 
 **Quantitative methods** produce numbers. **Qualitative methods** produce words, meanings and descriptions. The specification names three main methods.
@@ -147,6 +157,16 @@ A **case study** looks in depth at one setting, such as Ball's school. A **longi
 - *Usefulness:* combines reliability and validity; numbers show the pattern, words explain it; allows triangulation.
 - *Limitations:* costs more time and money; results from different methods may clash and be hard to combine; the researcher needs skills in both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--03-methods-spectrum.webp" width="900" height="744" alt="A line runs from quantitative methods, which are more reliable and easy to compare, to qualitative methods, which give more depth and validity. Questionnaires, structured interviews, unstructured interviews and participant observation are placed along it with a strength and a weakness each. Below, mixed methods combine both." loading="lazy">
+  <figcaption>Quantitative methods favour reliability; qualitative methods favour validity; mixed methods combine them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--04-observation-types.webp" width="900" height="671" alt="A two-by-two grid. Columns: participant observation, where the researcher joins the group, and non-participant, where they only watch. Rows: overt, where the group knows, and covert, where it is secret. Overt observation may change behaviour; covert observation breaks informed consent." loading="lazy">
+  <figcaption>Joining or watching, openly or in secret: each choice trades validity against ethics.</figcaption>
+</figure>
+
 ## Different types of data
 
 **Quantitative data** are numerical: they show patterns and trends but can hide meaning (a divorce rate tells you how many, not why). **Qualitative data** are descriptive: they give depth and the participant's view but are harder to compare.
@@ -160,6 +180,11 @@ A **case study** looks in depth at one setting, such as Ball's school. A **longi
 
 Townsend's work shows how definitions change the numbers. He believed more than 22% of the population was in poverty in 1968-69 on his relative deprivation measure, compared with just over 6% on the state standard and a little over 9% on relative income. One society, three figures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--06-townsend-definitions.webp" width="900" height="689" alt="Three bars for the same society in 1968–69: just over 6% in poverty on the state standard, a little over 9% on relative income, and more than 22% on Townsend’s relative deprivation measure." loading="lazy">
+  <figcaption>The same society can show 6%, 9% or 22% in poverty, depending on the definition.</figcaption>
+</figure>
+
 ## Primary and secondary sources
 
 **Primary data** are collected first-hand by the researcher for their own study: their questionnaires, interviews and observations. **Secondary data** already exist, produced by someone else: official statistics, earlier studies, diaries, letters, school records, websites and media content.
@@ -168,6 +193,11 @@ Townsend's work shows how definitions change the numbers. He believed more than 
 - Secondary data are quick and cheap and may cover the past or a whole country, but were made for another purpose.
 
 Devine is a useful example of combining the two: by returning to Luton, she compared her new primary data with Goldthorpe and Lockwood's 1960s research, which was by then secondary data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--05-data-sources-grid.webp" width="900" height="734" alt="A two-by-two grid. Primary quantitative: your own closed questionnaire or structured interviews. Primary qualitative: your own unstructured interviews or observations. Secondary quantitative: official and non-official statistics. Secondary qualitative: diaries, letters, media content, websites and earlier studies. Below, primary data fit the aim but cost more; secondary data are cheap but made for another purpose." loading="lazy">
+  <figcaption>Any source can be sorted two ways: who collected it, and whether it is numbers or words.</figcaption>
+</figure>
 
 ## Interpretation of data
 
@@ -181,6 +211,11 @@ For any data item: read the title, units, dates and source; describe the overall
 - As a proportion of the starting figure, 14 / 28 x 100 = a **50% increase**.
 
 "It rose by 14%" would be wrong. Then evaluate: "said they shared" is self-reported, and two years cannot show what happened in between.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--07-percentage-points.webp" width="900" height="663" alt="Two bars for a fictional town: 28% of couples said they shared housework equally in 2005 and 42% in 2025. The rise is 14 percentage points, which is a 50% increase on the starting figure. Saying it rose by 14% would be wrong." loading="lazy">
+  <figcaption>A rise from 28% to 42% is 14 percentage points, or a 50% increase.</figcaption>
+</figure>
 
 ## Practical issues
 
@@ -201,6 +236,11 @@ The specification names three issues and asks how each "can be addressed". UK so
 | Harm to participants | Research must not damage people physically, emotionally or socially | Avoid distressing questions; allow people to stop; offer support contacts; debrief after the study |
 
 Covert observation is the classic dilemma. It may give the most valid picture of a deviant group, but it breaks informed consent. Some sociologists argue it is justified when no other method could reach the group and identities are protected; others say deception is never acceptable. Present both views.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--08-ethical-issues.webp" width="900" height="597" alt="Three cards: consent, addressed by explaining aims, written and parental consent and the right to withdraw; confidentiality, addressed by anonymising and storing data securely; harm, addressed by avoiding distressing questions, allowing people to stop and debriefing. Below, the case for and against covert observation." loading="lazy">
+  <figcaption>Consent, confidentiality and harm each have practical fixes; covert observation tests them all.</figcaption>
+</figure>
 
 ## Common errors
 

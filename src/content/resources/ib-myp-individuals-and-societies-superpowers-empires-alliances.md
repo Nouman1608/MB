@@ -51,6 +51,11 @@ The brief gives **causality**, **globalization**, **culture** and **sustainabili
 - **Polarity** -- how power is spread in the world system: **unipolar** (one dominant power), **bipolar** (two), **multipolar** (several).
 - **Sovereignty** -- a state's authority to govern itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--01-hard-soft-power.webp" width="900" height="520" alt="Hard power works through force or payment: armed forces, sanctions, trade deals and aid. Soft power works through attraction: culture, values, education and media, a term linked to Joseph Nye. Both are ways for a state to get the outcomes it wants." loading="lazy">
+  <figcaption>States get what they want by pushing and paying, or by attracting.</figcaption>
+</figure>
+
 ## What makes a superpower?
 
 No single measure decides it. A superpower scores highly on most of these indicators.
@@ -93,6 +98,21 @@ Kestria: 24 ÷ 1,200 × 100 = 2.0%
 ```
 
 **Step 3 -- interpret.** Arvenia has the larger economy and spends more on defence, in total and as a share of GDP, so it has more **hard power**. Kestria's people are richer on average. Total size matters most for global reach, but a judgement also needs political and cultural evidence the table does not give.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--02-superpower-indicators.webp" width="900" height="708" alt="A superpower at the centre linked to five groups of indicators: economic, military, political, cultural, and demographic and resources, each with examples such as a permanent UN Security Council seat or a widely used currency." loading="lazy">
+  <figcaption>Superpower status needs high scores on most indicators, not just one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--03-polarity.webp" width="900" height="683" alt="Three panels. Bipolar: the United States and the Soviet Union lead rival blocs in the Cold War. Unipolar: the United States dominates after the Soviet break-up in December 1991. Multipolar, debated today: the United States, China, the EU, India, Russia and groupings such as BRICS all hold weight." loading="lazy">
+  <figcaption>From two blocs, to one dominant power, to a debated multipolar world.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--04-indicator-worked-example.webp" width="900" height="545" alt="A table for two fictional states. Arvenia: GDP 3,000 billion dollars, 120 million people, 25,000 dollars per head, defence 3.0% of GDP. Kestria: GDP 1,200 billion, 20 million people, 60,000 dollars per head, defence 2.0% of GDP. Arvenia has more hard power; Kestria’s people are richer on average." loading="lazy">
+  <figcaption>A bigger economy and defence budget mean more hard power, even if people elsewhere are richer.</figcaption>
+</figure>
 
 ## Empires
 
@@ -143,6 +163,16 @@ Percentage change = (new − old) ÷ old × 100.
 
 A strong description uses the numbers and the shape: growth was fastest in the 1600s, peaked around 1800, fell slowly to 1850 (−11.4%) and then fast to 1900 (−54.8%). The data shows **when** decline happened, not **why**; for that you need other evidence, such as records of wars or revolts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--05-empires-rise-decline.webp" width="900" height="793" alt="Two columns. Empires rise through economic wealth, military and technological advantage, political systems, ideology and weak rivals. They decline through imperial overstretch, internal problems, external defeat and pressure from the governed, such as decolonisation after 1945." loading="lazy">
+  <figcaption>Rise and decline both have several interacting causes; rank them rather than list them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--06-valdoria-territory.webp" width="900" height="683" alt="A line graph of fictional Valdoria’s territory: 0.8 million square kilometres in 1600, 2.0 in 1700, a peak of 3.5 in 1800, 3.1 in 1850 and 1.4 in 1900. Growth was +150% then +75%; decline was −11.4% to 1850 and −54.8% to 1900." loading="lazy">
+  <figcaption>Use the numbers and the shape, but remember the data shows when, not why.</figcaption>
+</figure>
+
 ## Supra-national alliances and organisations
 
 ### Two ways of working together
@@ -168,6 +198,11 @@ States join for **security** (collective defence), **economic gain** (larger mar
 
 A good comparison uses a **shared criterion**. On sovereignty, EU members give up more than ASEAN members: EU law can override national law, while ASEAN decides by consensus. On effectiveness, the UN Security Council can act quickly when the permanent members agree, but one veto can block action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--07-intergovernmental-supranational.webp" width="900" height="660" alt="A scale from intergovernmental, where states keep full sovereignty and decisions need every member, to supranational, where states pool sovereignty. The UN, NATO, ASEAN and the AU sit at the intergovernmental end; the EU has strong supranational features. Below: states join for security, economic gain, influence and shared values, at the cost of freedom of action." loading="lazy">
+  <figcaption>Most organisations are intergovernmental; the EU stands out for pooling sovereignty.</figcaption>
+</figure>
+
 ## Criterion D: evaluating sources on power and empire
 
 This topic produces sources with strong viewpoints: speeches, treaties, propaganda posters, imperial maps and official statistics. Use **origin, purpose, value and limitation**, and tie each point to the research question. For the full method, see the [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/).
@@ -179,6 +214,11 @@ This topic produces sources with strong viewpoints: speeches, treaties, propagan
 - **Limitation**: he has a reason to show success, and he does not record local people's own views, so it is weak evidence of whether they were "grateful".
 
 Notice that value and limitation both come from the same fact about origin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-superpowers-empires-alliances--08-opvl-source-x.webp" width="900" height="690" alt="A fictional colonial governor’s report praising a railway leads to its origin and purpose: written by the official in charge for superiors judging his success. From that one fact come its value, the official view, and its limitation, a motive to show success and no local voices." loading="lazy">
+  <figcaption>Tie value and limitation to the source’s origin and purpose, not to generic points.</figcaption>
+</figure>
 
 ## Common errors
 

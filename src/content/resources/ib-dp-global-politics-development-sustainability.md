@@ -61,6 +61,11 @@ Sustainability has environmental, social and economic dimensions. The guide also
 
 Inequality can be economic (income and wealth), political (unequal voice and access to decision-makers) and social (unequal status by gender, ethnicity, caste or location). The guide links inequality to **power asymmetries**: groups with less wealth usually have less say over the rules that keep them poor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--01-contested-meanings.webp" width="900" height="588" alt="Four contested terms. Development as growth, human development or institutional change; sustainability in three dimensions, with the Brundtland definition; poverty as lack of resources (absolute) or opportunities (relative); inequality as economic, political and social, linked to power asymmetries." loading="lazy">
+  <figcaption>Each key term has several meanings, and actors choose the one that suits them.</figcaption>
+</figure>
+
 ## Interactions of political stakeholders and actors
 
 | Actor | Typical goals and power | Contemporary example |
@@ -78,6 +83,11 @@ Points to use in analysis:
 - **Partnerships between developing countries.** South-South cooperation and newer lenders, such as the New Development Bank set up by the BRICS states, offer alternatives to Western-led institutions.
 - **Global trade networks** link producers in one country with consumers in another, so a decision in one place (a tariff, a boycott, a supplier code) changes livelihoods elsewhere. This is **interdependence**.
 - **Civil society** ranges from large NGOs to grassroots cooperatives. Grameen Bank's microcredit model (Muhammad Yunus, Nobel Peace Prize 2006) is a well-known, and debated, grassroots pathway.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--02-actors.webp" width="900" height="708" alt="Five kinds of actor around development and sustainability: states and governments, such as Brazil’s Bolsa Família; IGOs and financial institutions such as the World Bank, IMF and WTO; civil society such as the Green Belt Movement; TNCs, as in garment supply chains after Rana Plaza; and marginalised groups who are often excluded." loading="lazy">
+  <figcaption>Each actor wants different things and holds different power over the rules.</figcaption>
+</figure>
 
 ## Nature, practice and study of development and sustainability
 
@@ -135,6 +145,31 @@ Factors interact. Take the **resource curse**: oil or mineral wealth (environmen
 - **Climate justice.** States that emitted least often suffer most. The loss and damage fund agreed at COP27 (2022) reflects this claim.
 - **Synergies.** Clean energy, secure land rights and girls' education can advance development and sustainability together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--03-measures.webp" width="900" height="562" alt="A table of development measures with what each combines and its main limitation: the HDI, the Multidimensional Poverty Index, the Happy Planet Index, the Gini index, corruption and trust indices, and sustainability and governance indices." loading="lazy">
+  <figcaption>Every index captures something and misses something; say which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--04-mpi-example.webp" width="900" height="594" alt="Two fictional districts each with 1,000 people, 340 of them multidimensionally poor, so H is 0.34. In district 1 the average intensity A is 0.50, giving an MPI of 0.17; in district 2 A is 0.40, giving 0.136." loading="lazy">
+  <figcaption>Same headcount, lower intensity, lower MPI.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--05-hdi-geometric-mean.webp" width="900" height="633" alt="Country A scores 0.90 for health, 0.50 for education and 0.85 for income; country B scores 0.75 in all three. Both have an arithmetic mean of 0.75, but the geometric mean gives A an HDI of about 0.726 and B 0.75." loading="lazy">
+  <figcaption>The geometric mean penalises uneven development.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--06-pathways.webp" width="900" height="541" alt="Six pathways with their core idea and main criticism: modernization, market-led, state-led, dependency and world-systems, human development, and community-led sustainable development." loading="lazy">
+  <figcaption>Every pathway carries a theory of why states are poor, and a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--07-resource-curse.webp" width="900" height="465" alt="Oil or mineral wealth, an environmental and economic factor, can feed corruption and conflict, a political factor, so some resource-rich states develop more slowly than resource-poor ones. Below, the five sets of factors: political, economic, social, institutional and environmental." loading="lazy">
+  <figcaption>One factor can trigger another: resource wealth can slow development through politics.</figcaption>
+</figure>
+
 ## Debates on development and sustainability
 
 **Globalization and development.** Supporters point to export-led growth and the fall in extreme poverty in East Asia. Critics point to rising inequality within states, a "race to the bottom" in labour and environmental standards, and loss of policy space under WTO rules and investment treaties.
@@ -142,6 +177,11 @@ Factors interact. Take the **resource curse**: oil or mineral wealth (environmen
 **Sustainable development and the SDGs.** The UN adopted 17 Sustainable Development Goals in 2015, running to 2030, after the eight Millennium Development Goals (2000-2015). Supporters value a shared framework that covers rich and poor states alike. Critics argue the goals still assume endless growth, some targets pull against each other, and nothing binds states to meet them.
 
 **Alternative views.** The guide names **de-growth** and **regenerative approaches**. De-growth argues that rich states should shrink material production and consumption and aim for wellbeing instead. Regenerative approaches aim to restore ecosystems and communities, not merely to slow damage. Related ideas you can use: Kate Raworth's "doughnut" of social floors and ecological ceilings; *buen vivir* and the rights of nature in Ecuador's 2008 constitution; Bhutan's Gross National Happiness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-development-sustainability--08-debates.webp" width="900" height="620" alt="Arguments for globalization, such as export-led growth and falling extreme poverty in East Asia, against arguments such as rising inequality and loss of policy space. The 17 SDGs offer a shared framework but are criticised as growth-based and non-binding. Alternatives include de-growth, regenerative approaches, the doughnut, buen vivir and Gross National Happiness." loading="lazy">
+  <figcaption>Argue both sides of globalization and the SDGs, then weigh the alternatives.</figcaption>
+</figure>
 
 ## Using the key concepts
 

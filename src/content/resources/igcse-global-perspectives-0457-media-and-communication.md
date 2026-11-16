@@ -70,6 +70,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 - **Public service broadcasting**: broadcasting meant to serve the public, not mainly to make a profit.
 - **Media literacy**: the ability to find, judge and create media messages. UNESCO calls this media and information literacy and holds a Global Media and Information Literacy Week each October.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--01-media-issues-levels.webp" width="900" height="677" alt="Rings show media issues locally (local papers closing, rumours in messaging groups), nationally (funding public service broadcasters, minority languages on air) and globally (false information crossing borders, journalists’ safety). Below, definitions of misinformation, disinformation and media literacy." loading="lazy">
+  <figcaption>Media issues can be found at every level, from a local paper to global press freedom.</figcaption>
+</figure>
+
 ## Perspectives on media issues
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". A perspective is more than an opinion. You need to show the reasoning behind it and explain *why* the person or group holds it.
@@ -88,6 +93,11 @@ For a media issue, ask who gains, who loses and who decides.
 
 Remember Article 19 of the Universal Declaration of Human Rights (1948). It says everyone has the right "to seek, receive and impart information and ideas through any media and regardless of frontiers". People use this in arguments both for less regulation and for more support for independent media. That is a good example of one source backing different perspectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--02-media-stakeholders.webp" width="900" height="728" alt="Seven groups around a media issue, each with its concern and reason: journalists, media owners, governments, advertisers, technology platforms, audiences and minority-language communities. Below, Article 19 of the Universal Declaration of Human Rights is used to support both less regulation and more support for independent media." loading="lazy">
+  <figcaption>Ask who gains, who loses and who decides; the same source can back opposite views.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 AO1 asks you to research issues "their causes and consequences". Use a simple chain: cause, issue, consequence.
@@ -99,6 +109,16 @@ AO1 asks you to research issues "their causes and consequences". Use a simple ch
 Show the links between steps. "Advertising moved online, so papers had less income, so they cut reporters, so fewer meetings were reported" is analysis. A list of unconnected points is not.
 
 **A theory you can use: agenda-setting.** McCombs and Shaw (1972) studied undecided voters in Chapel Hill, North Carolina, during the 1968 US presidential campaign. They found that the issues voters rated most important closely matched the issues the media covered most. *Evaluation*: the study shows a strong link, but a link is not proof that the media caused the voters' views. The sample came from one town. It was also done long before online news, so you would need newer evidence before applying it today. Use it as a reason why media coverage matters, not as proof.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--03-local-news-chain.webp" width="900" height="473" alt="A chain: advertising money moves online, so papers have less income, so reporters are cut, so fewer council meetings and courts are reported. Other causes are falling print sales and merged titles; further consequences are less checking of local decisions and more reliance on unverified posts." loading="lazy">
+  <figcaption>Linked steps show how one change leads to the next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--04-agenda-setting.webp" width="900" height="642" alt="McCombs and Shaw (1972) found that the issues undecided voters in Chapel Hill rated most important during the 1968 US presidential campaign closely matched the issues the media covered most. Three limitations: a link is not cause, the sample was one town, and it predates online news." loading="lazy">
+  <figcaption>A strong link is still not proof of cause.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -125,6 +145,11 @@ The syllabus says you "will benefit from an understanding of" eight terms and sh
 
 Notice that each point uses details from the source. "It is biased" on its own earns little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--05-vnb-trust-survey.webp" width="900" height="716" alt="A fictional broadcaster, VNB, claims 9 in 10 viewers trust it and that it is the country’s most trusted source. The evidence covers only its own viewers, so the claim jumps to a national comparison it never makes. Four steps evaluate it: vested interest, a sample that favours VNB, overstated wording, and the need for a random national sample." loading="lazy">
+  <figcaption>Use details from the source; “it is biased” on its own earns little.</figcaption>
+</figure>
+
 ## Courses of action
 
 Component 1 Question 4 asks you to "assess actions in response to the global issue". The Individual Report asks you to propose "a single course of action to change, improve or resolve the issue". Judge each action by how well it would work, what it would cost, who gains, who loses and whether it could be done.
@@ -138,6 +163,16 @@ Component 1 Question 4 asks you to "assess actions in response to the global iss
 **4. Public funding for public service or local media.** This can keep reporting going where the market will not pay for it. Critics worry that funding could weaken independence from government, and that it costs taxpayers money.
 
 **5. Community action.** Examples include volunteer newsletters, community radio and translated notices. These are cheap and local, but they depend on volunteers and may not last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--06-platforms-pay-for-news.webp" width="900" height="678" alt="Two columns. Australia passed its News Media Bargaining Code in 2021; Facebook briefly blocked news in February 2021, then signed deals, and in 2024 Meta said it would not renew them. Canada’s Online News Act received Royal Assent on 22 June 2023; Meta ended news on its platforms there in August 2023, while Google agreed C$100 million a year. Results: new money for some news organisations, but reduced access to news on one platform." loading="lazy">
+  <figcaption>A law can bring money to news and also cut access to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--07-media-actions.webp" width="900" height="590" alt="A table of four actions with a strength and a weakness: media literacy teaching, independent fact-checking, public funding for public service or local media, and community action. Below, five questions to judge any action: how well it would work, cost, who gains, who loses and whether it could be done." loading="lazy">
+  <figcaption>Each action trades speed, reach, cost and independence differently.</figcaption>
+</figure>
 
 ## Individual Report and Team Project ideas
 
@@ -155,6 +190,11 @@ Narrow the topic into a question you can answer. "The media" is a topic, not a q
 - Rumours spread in a community messaging group. Action: a short "check before you share" session. Measure: a quiz before and after the session.
 
 For the structure of these components, see the [Individual Report guide](/resources/igcse-cambridge-global-perspectives-individual-report/) and the [Team Project guide](/resources/igcse-cambridge-global-perspectives-team-project/). For how the exam is set up, see the [Written Exam guide](/resources/igcse-cambridge-global-perspectives-written-exam/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-media-and-communication--08-media-team-projects.webp" width="900" height="450" alt="Three rows link a local media issue to an action and a measure: a printed notice sheet for residents who miss online council news, measured by a survey; a translated message board for families, measured by replies to school events; and a check-before-you-share session, measured by a quiz." loading="lazy">
+  <figcaption>Each project pairs a local communication gap with a measurable fix.</figcaption>
+</figure>
 
 ## Common errors
 

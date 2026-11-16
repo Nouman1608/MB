@@ -60,6 +60,11 @@ individually assessed work from the shared research process:
 - a **presentation** (30 marks) on their own research and preferred solution
 - a **reflective paper** (10 marks, maximum 800 words) on the team's collaboration and their own learning
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--01-shared-individual.webp" width="900" height="643" alt="A team of two to five agrees one problem statement, a local problem with global relevance, and each member researches a distinct angle. Each candidate then submits individually: a presentation worth 30 marks and a reflective paper worth 10." loading="lazy">
+  <figcaption>Research the problem together; argue and get marked on your own.</figcaption>
+</figure>
+
 ## Forming the team and the problem statement
 
 Teachers take an active role in creating teams -- candidates do not
@@ -79,6 +84,11 @@ Once the problem statement is agreed, each team member is allocated
 expected to argue from that distinct perspective towards an effective,
 workable solution -- not to summarise the team's collective findings,
 but to build and defend an individual position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--02-problem-statement.webp" width="900" height="530" alt="One problem statement, a local problem with global relevance, supports several members whose angles range from more local to more global, each arguing a distinct perspective towards a workable solution. A strong statement names a real place, group or situation rather than a general issue." loading="lazy">
+  <figcaption>Make it concrete enough to be local and broad enough for every member’s angle.</figcaption>
+</figure>
 
 ## The presentation (30 marks)
 
@@ -112,6 +122,11 @@ Alongside the recording itself, candidates must submit the supporting
 audio/visual materials and a **verbatim transcript** of the
 presentation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--03-presentation.webp" width="900" height="658" alt="The presentation can be a live recording to at least three people including the teacher, or slides with a recorded voiceover, and lasts at most 10 minutes. AO1 rewards individual analysis, range of research, source evaluation and justification of the solution; AO3 rewards organisation, visual information and language suited to the audience." loading="lazy">
+  <figcaption>AO1 research and evaluation carry most weight; polish matters, but less.</figcaption>
+</figure>
+
 ## The reflective paper (10 marks)
 
 The reflective paper is a maximum of 800 words and is assessed
@@ -125,6 +140,11 @@ assessing genuine, specific reflection on process and collaboration,
 not a restatement of the problem or solution already covered in the
 presentation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--04-reflective-paper.webp" width="900" height="535" alt="The reflective paper is up to 800 words and assessed on AO2. It should reflect on how well the team worked and what could improve, and on the candidate’s own learning. It should not re-present findings or restate the problem and solution." loading="lazy">
+  <figcaption>Reflect on process and learning, specifically, and write it last.</figcaption>
+</figure>
+
 ## What must be submitted
 
 For each candidate, four pieces of work go to Cambridge International:
@@ -137,6 +157,11 @@ For each candidate, four pieces of work go to Cambridge International:
 A statement of originality is required for each candidate, and all
 materials must be submitted electronically by the deadlines set out in
 the Administrative Guide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--05-submission.webp" width="900" height="533" alt="A checklist of four items per candidate: the recording, the supporting audio or visual materials, a verbatim transcript of the presentation, and the reflective paper, plus a statement of originality, all submitted electronically." loading="lazy">
+  <figcaption>Four pieces per candidate, plus a statement of originality.</figcaption>
+</figure>
 
 ## The teacher's role and its limits
 
@@ -152,6 +177,11 @@ presentation or reflective paper. Advice must stay general enough that
 candidates lead their own decisions -- which matters for candidates to
 understand up front, since it shapes how much support they can
 realistically expect once the project is under way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--06-teacher-role.webp" width="900" height="395" alt="Teachers may form teams, explain the task, help formulate the problem statement, and build skills in exploring perspectives, organisation, referencing and oral argument. Once research begins they must not give detailed guidance, research, write or correct notes, prepare the presentation or transcript, or suggest amendments." loading="lazy">
+  <figcaption>Support stays general once research starts; the decisions must be yours.</figcaption>
+</figure>
 
 ## How to approach it
 

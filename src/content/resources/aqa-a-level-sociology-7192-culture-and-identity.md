@@ -47,6 +47,11 @@ The specification prints Paper 2: Topics in Sociology as a 2 hour written exam w
 
 The specification asks you to study each topic through the two core themes: socialisation, culture and identity; and social differentiation, power and stratification. It also asks for both the evidence and the sociological explanations, and for links to other topics. The assessment objectives are AO1 (knowledge and understanding), AO2 (application) and AO3 (analysis and evaluation). The exact question styles are set by AQA; your teacher will confirm them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## Conceptions of culture
 
 **Culture** is the shared way of life of a group: its norms, values, beliefs, language, knowledge and material objects. Sociologists disagree about how to divide it up.
@@ -65,6 +70,16 @@ The Birmingham Centre for Contemporary Cultural Studies saw youth subcultures as
 
 **Worked paragraph.** *Knowledge:* mass culture theorists argue that commercial culture makes audiences passive. *Application:* a streaming service that recommends near-identical series to millions of viewers seems to fit this view. *Analysis:* this would mean shared culture is shaped by profit, not by the people who use it. *Evaluation:* however, Strinati's criticism applies, because viewers also make fan videos, debate plots online and reject shows, which suggests an active audience. Postmodernists would add that the same viewer may watch opera and reality television in the same week.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--02-conceptions-of-culture.webp" width="900" height="662" alt="Seven conceptions of culture in three groups: high and low culture, judged by artistic value; folk, mass and popular culture, by who makes them and for whom; and subculture and global culture, by group and scale." loading="lazy">
+  <figcaption>Each conception of culture carries its own assumptions about value and audiences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--03-mass-culture-debate.webp" width="900" height="550" alt="Mass culture theorists, Adorno, Horkheimer and Leavis, see commercial culture as making audiences passive. Critics Strinati, Gans and postmodernists argue audiences are active and that the boundary between high and popular culture has broken down." loading="lazy">
+  <figcaption>The debate turns on whether audiences are passive or active.</figcaption>
+</figure>
+
 ## Socialisation and its agencies
 
 **Socialisation** is the lifelong process of learning the culture of a society. **Primary socialisation** happens in early childhood, mainly in the family. **Secondary socialisation** continues through education, peer groups, the media, religion and the workplace. Agencies use rewards and sanctions to encourage conformity.
@@ -77,6 +92,11 @@ The Birmingham Centre for Contemporary Cultural Studies saw youth subcultures as
 
 **Worked paragraph.** *Knowledge:* canalisation channels children into gendered activities. *Application:* a toy shop that places science kits in a "boys" aisle is an example. *Analysis:* this may help explain why some girls later see science as "not for them", linking socialisation to differentiation. *Evaluation:* however, interactionists would argue children can resist such cues, and Sharpe's later findings show gendered expectations do shift.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--04-socialisation.webp" width="900" height="719" alt="Primary socialisation in the family leads to secondary socialisation through education, peers, media, religion and work. Functionalists, Marxists, feminists and interactionists each explain the process differently." loading="lazy">
+  <figcaption>Perspectives differ on what socialisation passes on and how active people are in it.</figcaption>
+</figure>
+
 ## The self, identity and difference: socially caused or socially constructed?
 
 **Identity** is how individuals see themselves and how others see them. **Difference** is how identity is defined against others: being "us" depends on there being a "them".
@@ -87,6 +107,11 @@ The Birmingham Centre for Contemporary Cultural Studies saw youth subcultures as
 Erving Goffman (1959) used a **dramaturgical** analogy: people perform roles "front stage" and relax "backstage", managing the impressions they give. In *Stigma* (1963) he showed how people with a "spoiled identity" manage information about themselves. Anthony Giddens (1991) described identity in late modernity as a **reflexive project**: people constantly rework their own life story. Stuart Hall (1990) argued that cultural identity is a matter of "becoming" as well as "being". Richard Jenkins argued that identity has an internal side (how we see ourselves) and an external side (how others label us), and that the two shape each other.
 
 **Evaluation.** Structural views explain patterns, such as why class still predicts life chances, but can make people seem passive. Action views capture choice and change, but can ignore the constraints of money, discrimination and power. Many sociologists combine both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--05-caused-constructed.webp" width="900" height="579" alt="The structural view sees identity caused by structures such as class and the family; the action view, from Goffman, Giddens and Hall, sees it constructed through interaction. Jenkins links internal and external sides of identity." loading="lazy">
+  <figcaption>Many sociologists combine structure and action when explaining identity.</figcaption>
+</figure>
 
 ## Identity and age, disability, ethnicity, gender, nationality, sexuality and class
 
@@ -106,6 +131,11 @@ Erving Goffman (1959) used a **dramaturgical** analogy: people perform roles "fr
 
 **Worked paragraph.** *Knowledge:* the social model locates disability in social barriers. *Application:* a wheelchair user who cannot enter a local cinema is "disabled" by a missing ramp, not by the impairment itself. *Analysis:* this shifts the focus from individual treatment to changing society, and supports collective identities in disability rights movements. *Evaluation:* however, Shakespeare argues that pain or fatigue may limit people even where barriers are removed, so both social and bodily factors matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--06-sources-of-identity.webp" width="900" height="757" alt="Cards for age, disability, ethnicity, gender, nationality, sexuality and class, each with its key concepts and sociologists, and a tip to answer on the source the question names." loading="lazy">
+  <figcaption>Each source of identity has its own key concepts and sociologists.</figcaption>
+</figure>
+
 ## Identity, production, consumption and globalisation
 
 **Production.** In industrial societies, identity was often tied to work and community. *Coal is Our Life* (Dennis, Henriques and Slaughter, 1956) described a mining town where work shaped family life, leisure and solidarity. De-industrialisation weakened such identities.
@@ -115,6 +145,16 @@ Erving Goffman (1959) used a **dramaturgical** analogy: people perform roles "fr
 **Globalisation.** Hall (1992) suggested three possible outcomes for national identities: erosion through cultural homogenisation; strengthening as a form of resistance; and the rise of new, hybrid identities. George Ritzer's **McDonaldisation** thesis (1993) points to homogenisation. **Glocalisation** describes global products adapted to local tastes. Global media and migration can create diasporic identities that cross borders.
 
 **Worked paragraph.** *Knowledge:* postmodernists argue identity is now built through consumption. *Application:* a young person who curates a "vintage" style from charity shops and online resale apps is choosing an identity. *Analysis:* this fits the view that identity is fluid and self-made. *Evaluation:* however, Bauman's idea of flawed consumers shows that choice depends on money, and Skeggs's work suggests others still judge styles through class.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--07-production-consumption.webp" width="900" height="482" alt="A chain from identity based on work and community, through de-industrialisation, to identity built through consumption. Veblen and Pakulski and Waters support the shift; Bauman’s flawed consumers and the role of income show its limits." loading="lazy">
+  <figcaption>Consumer identities are chosen, but choice depends on money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-culture-and-identity--08-hall-globalisation.webp" width="900" height="547" alt="Globalisation leads to three possible outcomes for national identities according to Hall: erosion through homogenisation, strengthening as resistance, and new hybrid identities." loading="lazy">
+  <figcaption>Hall saw globalisation eroding, strengthening or hybridising national identity.</figcaption>
+</figure>
 
 ## Common errors
 

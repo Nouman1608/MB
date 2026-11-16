@@ -66,6 +66,11 @@ Historians usually date the first Industrial Revolution to roughly 1760–1840, 
 - **Transport**: navigable rivers, a long coastline and, from the 1760s, canals.
 - **Political stability**: no invasion, and a Parliament that protected property and patents.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--01-why-britain.webp" width="900" height="748" alt="Six factors surround the Industrial Revolution in Britain, about 1760 to 1840: resources, agricultural change, capital from trade, markets and empire, transport, and political stability." loading="lazy">
+  <figcaption>Several factors worked together; strong answers show how they link.</figcaption>
+</figure>
+
 ## Key inventions, with dates
 
 Learn these accurately. A wrong date weakens a criterion A answer.
@@ -86,6 +91,16 @@ Learn these accurately. A wrong date weakens a criterion A answer.
 
 Notice the pattern of **challenge and response**: faster weaving created demand for yarn, so spinning was mechanised, which then required faster weaving. Machines needed power, so water gave way to steam, which needed coal, which needed better transport. Using this chain shows causality, which scores better than a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--02-inventions-timeline.webp" width="900" height="848" alt="A vertical timeline: Darby smelts iron with coke (1709), Newcomen’s steam engine (1712), Kay’s flying shuttle (1733), the Bridgewater Canal (1761), the spinning jenny (about 1764), Arkwright’s water frame and Watt’s separate condenser (1769), Crompton’s mule (1779), Cartwright’s power loom (1785), the Stockton and Darlington Railway (1825) and the Liverpool and Manchester Railway (1830), colour-coded as power, textiles or transport." loading="lazy">
+  <figcaption>Get the dates right: Newcomen’s engine (1712) came long before Watt’s condenser (1769).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--03-challenge-response.webp" width="900" height="724" alt="Left: a loop in which faster weaving raises demand for yarn, spinning is mechanised, and faster weaving is needed again. Right: a chain in which machines need power, water gives way to steam, steam needs coal, and coal needs better transport." loading="lazy">
+  <figcaption>Each invention created the problem the next one solved.</figcaption>
+</figure>
+
 ## Later industrialisation
 
 A **second industrial revolution**, from about 1870 to 1914, was driven by steel (the Bessemer process, 1856), electricity (Edison's Pearl Street power station in New York, 1882), chemicals, the telephone (Bell's patent, 1876) and the internal combustion engine (Karl Benz's motor car, patented 1886). Henry Ford's moving assembly line (1913) made the Model T cheap enough for mass ownership.
@@ -101,6 +116,11 @@ A **second industrial revolution**, from about 1870 to 1914, was driven by steel
 
 The key comparison: later industrialisers could **borrow technology** and often relied on **the state** far more than Britain did, so they changed faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--04-later-industrialisers.webp" width="900" height="787" alt="A timeline of when industrialisation took off: Britain about 1760, the USA after the Civil War, Japan after the Meiji Restoration in 1868, Germany after unification in 1871, the USSR with Five-Year Plans from 1928, the East Asian economies from the 1960s and China with reforms from 1978." loading="lazy">
+  <figcaption>Later starters borrowed technology and relied on the state, so they moved faster.</figcaption>
+</figure>
+
 ## Impacts on work
 
 Before industrialisation much textile work was **domestic** (the putting-out system): families spun and wove at home. Factories changed this.
@@ -111,6 +131,11 @@ Before industrialisation much textile work was **domestic** (the putting-out sys
 - Workers organised. Trade unions grew, and the **Chartists** (1838–1848) demanded the vote for working men.
 
 Reform came slowly. The **Factory Act of 1833** banned children under nine from textile mills, limited hours for older children and appointed factory inspectors. The **Mines Act of 1842** banned women and girls, and boys under ten, from working underground.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--05-work-and-reform.webp" width="900" height="670" alt="Work moved from the domestic putting-out system to factories run by clock and machine for 12 to 14 hours a day. Responses included the Luddites, growing trade unions and the Chartists. Reform followed slowly with the Factory Act of 1833 and the Mines Act of 1842." loading="lazy">
+  <figcaption>Factory work provoked protest and organisation before reform slowly followed.</figcaption>
+</figure>
 
 ## Impacts on cities
 
@@ -129,6 +154,11 @@ Change 1801–1861 = (96,000 − 12,000) ÷ 12,000 × 100 = 700%
 The population grew eightfold in 60 years. The percentage growth was smaller after 1831, but the number of extra people was larger (57,000 against 27,000). Always say which measure you mean.
 
 Growth this fast brought overcrowded **back-to-back housing**, shared privies and polluted water. Cholera struck British cities repeatedly. In 1854 John Snow traced a London outbreak to the Broad Street water pump, which helped show that cholera spread through water. The **Public Health Act of 1848** let towns set up boards of health; later sewers and clean water supplies cut death rates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--06-harrowby-growth.webp" width="900" height="700" alt="Bars for fictional Harrowby: 12,000 people in 1801, 39,000 in 1831 and 96,000 in 1861. Growth was 225% (27,000 people) from 1801 to 1831 and 146.2% (57,000 people) from 1831 to 1861; overall it was 700%, an eightfold rise." loading="lazy">
+  <figcaption>Percentage growth fell after 1831 while the number of extra people rose: say which measure you mean.</figcaption>
+</figure>
 
 ## Impacts on the environment
 
@@ -158,6 +188,11 @@ Some writers call this a "fourth industrial revolution". Whether it is truly new
 
 From 1800 to 1900 secondary employment rose by 24 **percentage points** as Norland industrialised. From 1900 to 2020 it fell by 29 percentage points (deindustrialisation), while tertiary employment rose by 45 points. Use "percentage points" for the difference between two percentages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--07-employment-sectors.webp" width="900" height="733" alt="Stacked bars for fictional Norland. In 1800 jobs were 62% primary, 22% secondary and 16% tertiary; in 1900, 18%, 46% and 36%; in 2020, 2%, 17% and 81%. Secondary rose 24 percentage points then fell 29, while tertiary rose 45 points after 1900." loading="lazy">
+  <figcaption>Manufacturing rose then fell as services took over: measure the change in percentage points.</figcaption>
+</figure>
+
 ## Planning an investigation (criterion B)
 
 The brief says criterion B develops systematic research skills. For a plan, work through these steps.
@@ -170,6 +205,11 @@ The brief says criterion B develops systematic research skills. For a plan, work
 6. **Evaluation**: judge the source range, what went well and what you would change.
 
 For judging sources by origin, purpose, value and limitation, read [source-evaluation exam preparation](/resources/ib-myp-individuals-societies-source-evaluation-exam-preparation/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-industrialization-and-technology--08-investigation-plan.webp" width="900" height="782" alt="Six steps for a criterion B plan: a focused research question such as how far the 1833 Factory Act improved conditions for child workers, a justification, a method using primary and secondary sources, a dated action plan, consistent recording and referencing, and an evaluation." loading="lazy">
+  <figcaption>Six steps take a plan from a focused question to an honest evaluation.</figcaption>
+</figure>
 
 ## Common errors
 

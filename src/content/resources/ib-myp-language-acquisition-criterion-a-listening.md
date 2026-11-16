@@ -60,6 +60,11 @@ A spoken multimodal text combines speech with at least one other mode. The other
 
 Common examples are a video advert, a podcast extract, a short news report, an interview, a vlog, a public announcement, a voicemail and a documentary clip. The listening is only half of the task. The other modes carry meaning too.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--01-spoken-multimodal-text.webp" width="900" height="725" alt="Speech sits at the centre, linked to five other modes that also carry meaning: images, words on screen, sound, the speaker’s delivery and body language. Examples include video adverts, podcasts, news reports, interviews, vlogs, announcements and voicemails." loading="lazy">
+  <figcaption>Listening is only half the task: every other mode carries meaning too.</figcaption>
+</figure>
+
 ## Skill 1: explicit information
 
 Explicit information is said directly. Questions ask you to identify, list or state it.
@@ -75,6 +80,11 @@ Explicit information is said directly. Questions ask you to identify, list or st
 - **Self-correction.** "We meet on Tuesday -- no, sorry, Wednesday." The last version is the answer.
 - **Distractors.** A speaker mentions two times or two prices. Only one answers the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--02-explicit-information.webp" width="900" height="550" alt="Before listening, read the questions, underline key words and predict the answer type; on the first listen take notes in order; on the second, check anything marked with a question mark. Three traps: paraphrase (the speaker says “you’ll pay” for “cost”), self-correction (Tuesday, then Wednesday) and distractors (two times or prices)." loading="lazy">
+  <figcaption>Expect paraphrase, corrections and distractors, not the question’s exact words.</figcaption>
+</figure>
+
 ## Skill 2: implicit information
 
 Implicit information is suggested, not stated. You infer it from evidence. Questions use words such as *infer*, *suggest*, *interpret* or *what does the speaker think*.
@@ -86,6 +96,11 @@ Evidence for an inference can come from:
 - **the visuals**: a smiling crowd tells you the speaker wants you to feel the event is popular
 
 An inference always needs a quoted or described piece of evidence. "The speaker is worried" earns little. "The speaker is worried because she repeats 'I really hope' and her voice drops" earns much more.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--03-implicit-information.webp" width="900" height="590" alt="Inferences rest on evidence from word choice, tone, what is left out and the visuals. “The speaker is worried” earns little; “she is worried because she repeats ‘I really hope’ and her voice drops” earns much more because it quotes words and describes tone." loading="lazy">
+  <figcaption>Every inference needs a quoted or described piece of evidence.</figcaption>
+</figure>
 
 ## Skill 3: conventions
 
@@ -123,6 +138,11 @@ This is the part the brief stresses. For visuals in general, see [multimodal tex
 
 In an answer, name the relationship, give the specific image and the specific words, and explain the effect on the audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--04-reinforce-add-contrast.webp" width="900" height="655" alt="Three relationships between speech and image. Reinforce: the speaker says the park is quiet and footage shows an empty path. Add: a caption shows a date the speaker never says. Contrast: the speaker says “relaxing holiday” while footage shows a queue in the rain." loading="lazy">
+  <figcaption>Name the relationship, cite the image and words, explain the effect.</figcaption>
+</figure>
+
 ## Worked example
 
 > **Source A -- original transcript written for Marlbridge.** A 40-second video advert for a fictional town's bike-share scheme. Visual notes are in square brackets.
@@ -153,6 +173,11 @@ The slow music and the traffic queue reinforce "the same wait" and create frustr
 
 **(f) Personal response.** A strong answer compares the text with your own context: "In my town, most students are driven to school, so an advert like this would need safe cycle lanes to be convincing." It links to the text and gives a reason.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--05-worked-example-bike-advert.webp" width="900" height="785" alt="A storyboard of a 40-second bike-share advert in five frames: a traffic queue with slow music, a green bike with fast music and the scheme’s facts, on-screen prices that add information, a teenager riding past the queue implying cycling is faster, and the logo with the web address read twice as a call to action." loading="lazy">
+  <figcaption>Track speech, visuals and music frame by frame to see how the advert persuades.</figcaption>
+</figure>
+
 ## Across the three proficiency levels
 
 The brief names three levels for eAssessment but does not describe the listening texts at each level. In general, as you move from emergent towards proficient, expect:
@@ -162,6 +187,11 @@ The brief names three levels for eAssessment but does not describe the listening
 - **Proficient**: less familiar topics, natural speed, opinions and humour; more inference, contrast between modes and questions on attitudes and values.
 
 Check your own level with your teacher. The [proficiency phases guide](/resources/ib-myp-language-acquisition-proficiency-phases/) explains how levels and phases relate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--06-listening-across-levels.webp" width="900" height="510" alt="Three columns. Emergent: short, clear texts on familiar topics, mostly explicit questions and strongly supporting visuals. Capable: longer texts with more than one speaker, some inference and visuals that add information. Proficient: less familiar topics at natural speed with opinions and humour, more inference, contrast between modes and questions on attitudes." loading="lazy">
+  <figcaption>As levels rise, texts get harder and questions lean more on inference and contrast.</figcaption>
+</figure>
 
 ## Applying this in your target language
 

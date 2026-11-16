@@ -69,6 +69,11 @@ sense of time.
 [Sharing the planet](/resources/ib-dp-language-b-sharing-the-planet/) asks what problems communities
 face. Experiences asks **what happened, how it changed someone, and what it means now**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--01-experiences-theme-map.webp" width="900" height="624" alt="The guiding principle of Experiences sits above a central circle surrounded by its six optional recommended topics: leisure activities, holidays and travel, life stories, rites of passage, customs and traditions, and migration. Below, the two possible questions are shown as lenses." loading="lazy">
+  <figcaption>A prescribed theme, six optional topics and two questions to read any text through.</figcaption>
+</figure>
+
 ## The six recommended topics
 
 | Topic | Vocabulary areas to build | Angle that links to a possible question |
@@ -83,6 +88,11 @@ face. Experiences asks **what happened, how it changed someone, and what it mean
 Build vocabulary in three layers for each topic: **nouns** (a ceremony, a suitcase), **verbs**
 (to celebrate, to settle) and **evaluative language** (unforgettable, bittersweet). The third layer
 is the one most often missing, and it turns a list of events into an experience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--02-three-vocabulary-layers.webp" width="900" height="565" alt="Three stacked layers of vocabulary: nouns such as a ceremony or a suitcase, verbs such as to celebrate or to settle, and evaluative language such as unforgettable or bittersweet, marked as the layer most often missing. An arrow shows that adding evaluative language turns a list of events into an experience." loading="lazy">
+  <figcaption>The third layer, evaluative language, turns a list of events into an experience.</figcaption>
+</figure>
 
 ## The language of experience: telling a story well
 
@@ -145,6 +155,16 @@ What changed, step by step:
 5. **Cultural meaning** — the last line explains why the moment mattered to this family, which
    answers the second possible question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--03-story-timeline.webp" width="900" height="741" alt="A timeline runs from the earlier past (had left) through the past, where completed events (arrived, ate) are dots set against a band of background or habit (was raining, used to spend), to now and the future. A bridge arrow labelled since then links past to present. Cards list past, bridge and present or future time markers, and a note shows reflective and hypothetical structures." loading="lazy">
+  <figcaption>Mark completed events against background, then build a bridge from the past to now.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--04-list-to-story.webp" width="900" height="652" alt="A flat account of a cousin's graduation in five short sentences is turned into a story by five steps: two kinds of past, an earlier past, evaluative detail, a bridge to the present and cultural meaning. The last two are highlighted because they answer the theme's two possible questions." loading="lazy">
+  <figcaption>Same content, five changes: the last two answer the theme's possible questions.</figcaption>
+</figure>
+
 
 ## Text types that suit this theme
 
@@ -190,6 +210,11 @@ quotations from the family member.
 demand higher-order thinking skills", with a higher word range. For this prompt, HL writers might
 weigh gains and losses of the move, or compare two generations' views, rather than only recounting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--05-paper-1-plan.webp" width="900" height="761" alt="Step 1 sets context, audience and purpose; step 2 chooses a magazine article in a neutral but warm register. Step 3 plans six parts in time order: opening, before, the move, settling, now and close, with the last two highlighted as the bridge to the present. A note says HL answers weigh gains and losses or compare generations." loading="lazy">
+  <figcaption>Tell it in time order, then bridge to now and reflect.</figcaption>
+</figure>
+
 ## Reading and listening on Experiences texts
 
 Paper 2 tests receptive skills in separate listening and reading sections, each worth 25% (listening
@@ -215,6 +240,11 @@ At **HL** the stimulus is an excerpt from one of the two literary works you stud
 in the target language. Early in the course, note where your works show turning points,
 departures or ceremonies that shape a character's life, so you can link an excerpt to Experiences
 where it fits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-experiences--06-oral-past-present-future.webp" width="900" height="625" alt="A framed image of a festival, station platform or graduation sits between two cards: what came before it, and what it will lead to, with the image labelled what event is this. Below, the SL stimulus is a visual image and the HL stimulus an excerpt from a literary work, where turning points, departures and ceremonies link to the theme." loading="lazy">
+  <figcaption>Give the image the theme's past–present–future shape.</figcaption>
+</figure>
 
 ## Comparing cultures without stereotyping
 

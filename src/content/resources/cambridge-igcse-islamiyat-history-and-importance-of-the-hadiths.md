@@ -48,6 +48,11 @@ the **isnad**, the chain of people who passed it on ("A told me that B said that
 Prophet say…"), and the **matn**, the text itself. The **Sunnah** is the Prophet's way of life,
 known mainly through Hadiths.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
+</figure>
+
 ## How were the Hadiths collected?
 
 **In the Prophet's lifetime.** Companions memorised his words and observed his practice. At first
@@ -72,6 +77,16 @@ main types of book:
 | Musannaf | By subject, such as prayer, fasting or trade, so useful for law | Imam Malik's *al-Muwatta*; the *Musannaf* of Abd al-Razzaq |
 | Musnad | By the companion who narrated each Hadith | The *Musnad* of Ahmad ibn Hanbal |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
+  <figcaption>From memory to notebooks to official collection to the great compilations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--03-musannaf-and-musnad.webp" width="900" height="618" alt="Side-by-side comparison. A musannaf groups Hadiths by subject, such as prayer, fasting or trade (al-Muwatta of Imam Malik, the Musannaf of Abd al-Razzaq). A musnad groups them by the companion who narrated them (the Musnad of Ahmad ibn Hanbal)." loading="lazy">
+  <figcaption>Musannaf: by subject. Musnad: by narrator.</figcaption>
+</figure>
+
 ## How did scholars test whether a Hadith was reliable?
 
 **Isnad criticism.** Scholars studied the biographies of narrators (*ilm al-rijal*). A reliable chain
@@ -84,6 +99,11 @@ and should fit what was known of the Prophet's character and language.
 
 On this basis Hadiths were graded, for example as **sahih** (sound), **hasan** (good) or **da'if**
 (weak). Fabricated reports were identified and rejected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
+  <figcaption>Both the chain and the text are tested before a Hadith is graded.</figcaption>
+</figure>
 
 ## What are the six Sunni collections?
 
@@ -107,12 +127,22 @@ Imams. Their four main books are *al-Kafi* by al-Kulayni; *Man la yahduruhu al-f
 Babawayh (al-Shaykh al-Saduq); and *Tahdhib al-ahkam* and *al-Istibsar*, both by al-Shaykh al-Tusi.
 *Al-Kafi* covers belief as well as law; the other three focus mainly on law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--05-four-shia-collections.webp" width="900" height="620" alt="Three compilers and their four books: al-Kulayni compiled al-Kafi, covering belief as well as law; Ibn Babawayh (al-Shaykh al-Saduq) compiled Man la yahduruhu al-faqih; al-Shaykh al-Tusi compiled Tahdhib al-ahkam and al-Istibsar. The last three focus mainly on law." loading="lazy">
+  <figcaption>Three compilers, four books; only al-Kafi covers belief as well as law.</figcaption>
+</figure>
+
 ## How are the Hadiths used in Islamic law?
 
 - **The Qur'an** is the first source of law.
 - **Hadiths and the Sunnah** come second: they explain the Qur'an (for example, how to pray, which the Qur'an commands but does not describe in detail), add detail to its rulings (such as the amounts of zakat), and give guidance where the Qur'an is silent.
 - **Ijma'** (consensus of scholars) is used when the community's scholars agree on a ruling, often based on Qur'an and Hadith.
 - **Qiyas** (analogy) extends an existing ruling to a new case with the same cause, for example applying the ban on wine to other intoxicants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--06-sources-of-law.webp" width="900" height="607" alt="Four stepped levels: the Qur'an as the first source; Hadiths and the Sunnah second, explaining, detailing and filling gaps; ijma', the consensus of scholars; and qiyas, analogy, illustrated by extending the ban on wine to other intoxicants." loading="lazy">
+  <figcaption>Hadiths are the second source of law, after the Qur'an and before ijma' and qiyas.</figcaption>
+</figure>
 
 ## Why are the Hadiths important in thought and action?
 

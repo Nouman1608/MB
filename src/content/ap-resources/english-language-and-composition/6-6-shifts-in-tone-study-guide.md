@@ -71,6 +71,11 @@ The framework adds that such shifts **may suggest the writer's qualification, re
 
 A shift is often where the argument's **turning point** lies. Finding it helps you describe how the writer's thought develops.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-6-shifts-in-tone-study-guide--01-three-kinds-of-shift.webp" width="900" height="496" alt="Three cards, each with a line diagram: qualification (a level line that steps down at “but”: praise, then a reservation), refinement (a general line that narrows to a sharper one) and reconsideration (a line that loops back: a confident claim, then a changed position)." loading="lazy">
+  <figcaption>Qualify, refine or reconsider: a shift shows how the writer’s view develops.</figcaption>
+</figure>
+
 ## Markers of a shift
 
 Look for these signals.
@@ -87,6 +92,11 @@ Look for these signals.
 | **A paragraph break** | A new paragraph may signal a new attitude |
 
 A single marker is not always enough. The best evidence is a **cluster**: a turning word, a change in the words around it and a change in the effect.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-6-shifts-in-tone-study-guide--02-markers-of-a-shift.webp" width="900" height="556" alt="Eight markers of a tone shift: turning transitions, a change of diction, a change in connotation, a change in sentence structure, a change in punctuation, a change of address or pronoun, new imagery and a paragraph break. Below, four steps for describing a shift: locate, name the tone before and after, quote, explain." loading="lazy">
+  <figcaption>Look for a cluster: a turning word plus a change in the words and effect around it.</figcaption>
+</figure>
 
 ## Describing a shift
 
@@ -111,6 +121,11 @@ The words "Prudence", "dictate", "long established" and "light and transient cau
 
 "But" marks the shift. The diction moves from caution to resolve: "abuses", "usurpations" and "Despotism" are accusatory, and "right" and "duty" are strong, moral terms. The tone moves from **measured and cautious** to **resolute and accusatory**. The shift **qualifies** the earlier caution: yes, change should not be light, but it is justified when abuses are long and systematic. It prepares for the list of grievances that follows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-6-shifts-in-tone-study-guide--03-declaration-tone-line.webp" width="900" height="562" alt="The Declaration’s two passages side by side: measured and cautious (“Prudence... light and transient causes”), then, after “But”, resolute and accusatory (“abuses and usurpations”, “Despotism”, “right”, “duty”). A line rises sharply at the turn, and a note explains that the shift qualifies the early caution." loading="lazy">
+  <figcaption>“But” turns calm legal language into charged moral language and justifies the break.</figcaption>
+</figure>
+
 ## Worked example 1: analysing a shift in a Marlbridge passage
 
 Read this passage (Marlbridge passage).
@@ -128,6 +143,11 @@ Read this passage (Marlbridge passage).
 **Step 5: Explain the effect.** The shift **qualifies** the writer's praise. The writer does not deny the beauty but shows that it fails the people who use it, which makes the criticism harder to dismiss as grumbling. "Postcard" also gains a second meaning: a place that looks good but is not made to be used.
 
 **Step 6: Write the analysis sentence.** *The tone moves from admiring, in the honeyed description of the harbour, to wry and critical with "Yet I could not find a single place to sit down", a shift that qualifies the writer's praise by showing that the design serves appearance more than visitors.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-6-shifts-in-tone-study-guide--04-harbour-front-shift.webp" width="900" height="498" alt="The harbour-front passage split at “Yet”: an admiring description of honey-coloured paving, lantern-shaped lamps and a postcard bay, then the short, blunt “I could not find a single place to sit down”. Notes name the markers and explain that the shift qualifies the praise." loading="lazy">
+  <figcaption>A short, blunt sentence after “Yet” turns admiration into wry criticism.</figcaption>
+</figure>
 
 ## Worked example 2: analysing a shift in published prose
 
@@ -154,6 +174,11 @@ A shift in your own writing should be deliberate. Common uses:
 - **Humour then seriousness:** open lightly to engage the audience, then turn serious to show the stakes.
 
 Mark the turn (a transition, a short sentence, a paragraph break) and change the diction so that the shift is clear. Avoid accidental shifts, such as drifting from formal to casual without meaning to.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-6-shifts-in-tone-study-guide--05-writing-a-shift.webp" width="900" height="504" alt="Three deliberate shifts, each with a marked turn: concession then claim (respectful to firmer), problem then hope (grave to hopeful), and humour then seriousness (light to serious). A note advises marking the turn and avoiding accidental shifts." loading="lazy">
+  <figcaption>A deliberate, clearly marked shift makes writing subtler and more persuasive.</figcaption>
+</figure>
 
 ## Common misconceptions
 

@@ -40,6 +40,11 @@ the translation section. For the qualification's structure as a whole
 and Paper 1 detail, see the
 [Paper 1 study guide](/resources/a-level-edexcel-urdu-translation-and-reading/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **PEARSON EDEXCEL A-LEVEL URDU (9UR0) — PAPER 2 (2 HOURS 40 MINUTES, 110 MARKS, 30% OF A-LEVEL)**
@@ -98,6 +103,11 @@ grammatical structures and vocabulary (AO3), and accuracy of language
 AO3 (accuracy and range, 20%) and AO4 (critical/cultural response, 10%)
 -- Paper 2 carries no AO1 or AO2 marks at all, unlike Papers 1 and 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
 ## How to approach it
 
 Because Section A is marked chunk by chunk, the same discipline that
@@ -117,6 +127,11 @@ recall -- examiners reward responses that place a text or film within
 its wider social or historical context, not only ones that summarise
 what happens in it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
+
 ## Worked example: structuring a works response
 
 A strong Section B or C response does not move through a work
@@ -135,6 +150,11 @@ precise, accurate language while discussing the text) and AO4 (through
 the explicit link to social and cultural context), rather than treating
 the two objectives as separate paragraphs bolted together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Attempting three extended responses, or answering on two films, instead
@@ -148,6 +168,11 @@ qualification's cultural and social themes, which weakens the AO4
 component of the mark. Confusing Section A's translation direction with
 Paper 1's -- Paper 1 translates into English, Paper 2 translates into
 Urdu.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

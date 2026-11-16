@@ -67,6 +67,21 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 
 **Worked paragraph (analysing the level of an issue).** *"The source shows that the planned battery factory in the fictional town of Arnholt is a local issue, because residents are arguing about its water use. It is also national, as the government is offering a grant to attract it. It links to a global issue, the growth of electric vehicles. This matters because the town council can set conditions on water, but it cannot change world demand for batteries, so local actions can only shape how the factory operates, not whether such factories are built somewhere."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--01-invention-to-innovation.webp" width="900" height="600" alt="A flow from invention, through research and development and innovation, to technology transfer. Below, terms for who controls technology (patents, intellectual property, subsidies) and two further terms: industrialisation, and planned obsolescence, the claim that products are designed to date early." loading="lazy">
+  <figcaption>The topic follows ideas from invention to use, and asks who controls them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--02-wto-vaccine-waiver.webp" width="900" height="792" alt="In October 2020 India and South Africa proposed waiving some IP rules for COVID-19 products at the WTO; in June 2022 a narrower decision let eligible members authorise vaccine production without the patent holder’s consent for five years. Supporters said patents slowed supply; many firms and some rich governments said patents fund research and that factories, materials and skills were the real limit." loading="lazy">
+  <figcaption>An issue that divides opinion: explain why each side holds its view.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--03-arnholt-factory.webp" width="900" height="750" alt="Rings for the fictional town of Arnholt: locally, residents argue about a battery factory’s water use; nationally, the government offers a grant; globally, electric vehicle growth drives demand. A young resident supports it for jobs; a farmer opposes it over river water. The proposed action is approval with a binding water limit in dry months, enforced by independent monitoring." loading="lazy">
+  <figcaption>Local action can shape how a factory operates, not whether such factories are built.</figcaption>
+</figure>
+
 ## Perspectives: who thinks what, and why
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". The Individual Report asks you to show that you understand *why* people hold their perspectives.
@@ -87,6 +102,11 @@ The syllabus defines a **perspective** as "a viewpoint on an issue based on evid
 
 **Worked paragraph (explaining why perspectives differ).** *"The young resident in the source supports the factory because it offers skilled jobs close to home, while the farmer opposes it because he relies on the same river for irrigation. Their perspectives differ because each carries a different risk: the young resident risks having to move away for work, while the farmer risks a poorer harvest. Both views are reasonable, which suggests that a condition limiting water use in dry months may gain wider support than either full approval or rejection."*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--04-chips-act.webp" width="900" height="516" alt="The US CHIPS and Science Act, signed on 9 August 2022, provides $52.7 billion for semiconductor research, manufacturing and training. Supporters predict jobs and less reliance on imported chips, valuing security; critics say it gives taxpayers’ money to profitable firms, valuing fairness and competition. Both sides rest on predictions and values." loading="lazy">
+  <figcaption>When values differ, more data may not end the argument.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The Individual Report must analyse "the reasons for conflict or disagreement/causes of problems and the consequences/impacts of the issue". A chain helps you show links, not just a list.
@@ -104,6 +124,16 @@ Example chain: why a region struggles to attract new industry.
 **Evaluation.** Early reports came from the company and its partners, who have a **vested interest** in showing success. Strong evidence would come from independent comparisons of delivery times and patient outcomes before and after. Also ask whether the model would transfer to a country with different geography, funding or regulations.
 
 **Analysis tip.** Separate *intended* from *unintended* consequences. A new factory is intended to create jobs; an unintended result may be higher house prices that push out existing residents. Present such effects as possible, not certain, unless a source gives evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--05-industry-chain.webp" width="900" height="584" alt="Two causes, few technically trained workers and weak roads, power or internet, lead to consequences at three levels: young people leave, the country imports goods and earns less tax, and industry clusters in a few places. Below, an intended consequence of a factory (jobs) and a possible unintended one (higher house prices)." loading="lazy">
+  <figcaption>Separate intended from unintended consequences, and present the latter as possible.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--06-rwanda-drones.webp" width="900" height="565" alt="Rwanda launched national drone delivery with Zipline on 14 October 2016, backed by Gavi and the UPS Foundation, first flying blood to remote clinics. Evaluation questions: early results came from parties with a vested interest; independent before-and-after comparisons would be stronger; and the model may not transfer to other countries." loading="lazy">
+  <figcaption>Innovation success stories need independent evidence and a transfer test.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -126,6 +156,11 @@ For Component 1, the syllabus says you will benefit from understanding **bias, c
 
 Notice the steps: state the evidence, interpret it, find the weakness, suggest a better test. Component 1 Question 2 asks you to "evaluate the research or evidence and suggest ways to research or test a claim".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--07-talen-grants.webp" width="900" height="652" alt="Bars show 75% of 60 start-ups funded by the fictional region of Talen (45 firms) still trading after three years, against 50% nationally. The weakness: the panel picked the most promising firms, which might have survived anyway, and the study’s author is not given. A fairer test compares funded firms with similar applicants who just missed out." loading="lazy">
+  <figcaption>A comparison is only fair if the groups were alike to begin with.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 The Written Exam asks you to "assess actions in response to the global issue". The Individual Report must consider several courses of action and propose one, explaining how it would be implemented and what its impact would be. Judge each action against clear criteria: does it tackle a cause; is it feasible; who gains and who loses; is it sustainable; is there evidence it has worked?
@@ -142,6 +177,11 @@ The Written Exam asks you to "assess actions in response to the global issue". T
 **A real example of a course of action.** The European Union adopted a right-to-repair directive (Directive (EU) 2024/1799) on 13 June 2024. Member states must apply it by 31 July 2026. It requires manufacturers to offer repair for certain products. Supporters say it will cut waste and save consumers money. Some manufacturers have raised concerns about cost and safety. Because it is new, evidence on its effects is still limited.
 
 **Worked paragraph.** *"The best action for Arnholt is to approve the factory only with a binding limit on water use in dry months. It tackles the main cause of opposition in the sources, competition for river water, while keeping most of the jobs. It is feasible because the company itself says recycling could cut water use. Its weakness is enforcement: the council would need independent monitoring, or the limit may not be kept."*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-technology-industry-and-innovation--08-tech-actions.webp" width="900" height="673" alt="A table of six actions with a benefit and drawback each: voluntary patent licensing, subsidies for new industry, conditions on new factories, right-to-repair rules, public research funding and training schemes with local colleges. The EU right-to-repair directive, adopted 13 June 2024 and due by 31 July 2026, is too new to judge its effects." loading="lazy">
+  <figcaption>Judge each action on cause, feasibility, winners and losers, sustainability and evidence.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

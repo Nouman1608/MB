@@ -57,6 +57,11 @@ The guide's table lists sixteen key concepts, explored across the whole MYP. The
 | Named by the guide as often important in I&S | culture; development; communities |
 | The other MYP key concepts | aesthetics; communication; connections; creativity; form; identity; logic; perspective; relationships |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--01-sixteen-key-concepts.webp" width="900" height="780" alt="The sixteen MYP key concepts in three groups. Four are contributed by individuals and societies: change, global interactions, systems, and time, place and space. Culture, development and communities are named as often important in the subject. Nine others complete the set." loading="lazy">
+  <figcaption>Four key concepts belong to I&amp;S, three more often help, and nine complete the MYP set.</figcaption>
+</figure>
+
 ## Change
 
 **Meaning.** Change is a move from one form, state or value to another. Inquiry into change looks at three things: **causes**, **processes** and **consequences**. In this subject, the guide stresses the forces that shape the world in the past, present and future. Causes and effects can be natural or human-made, intended or unintended, and positive, negative or neutral.
@@ -72,6 +77,11 @@ Inflation = (54 − 50) ÷ 50 × 100 = 8%
 
 The concept question is "who gains and who loses?" -- savers lose; borrowers repay with money worth less.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--02-change-cause-process-consequence.webp" width="900" height="525" alt="Three linked boxes. Cause: defeat in the Crimean War exposed Russia’s backwardness. Process: reform from above by decree, the 1861 Emancipation Manifesto. Consequences: about 23 million serfs freed in law, but too little land and 49 years of redemption payments fed unrest, an unintended result." loading="lazy">
+  <figcaption>Describe change through all three: causes, process and consequences.</figcaption>
+</figure>
+
 ## Global interactions
 
 **Meaning.** Global interactions looks at connections between people and communities, and between people and their built and natural environments, seen from the scale of the whole world. In I&S the guide focuses on interdependence: how people conflict and cooperate while sharing finite resources.
@@ -79,6 +89,11 @@ The concept question is "who gains and who loses?" -- savers lose; borrowers rep
 - **History.** The Panama Canal opened on 15 August 1914, linking the Atlantic (via the Caribbean) and the Pacific, so ships no longer had to sail round the southern tip of South America. It grew from conflict as well as cooperation: in 1903 US warships blocked Colombian troops while Panama declared independence, and the United States controlled the canal zone until the end of 1999.
 - **Geography.** Ethiopia built the Grand Ethiopian Renaissance Dam on the Blue Nile, starting in 2011 and inaugurating it in September 2025. Egypt and Sudan, downstream, raised concerns about how much water would reach them. A shared river makes three states interdependent: one country's decision affects the others.
 - **Economics.** In October 1973 the Organization of Arab Petroleum Exporting Countries (OAPEC) placed an oil embargo on several states, including the United States and the Netherlands. The world price of oil rose from about 3 dollars to nearly 12 dollars a barrel by 1974. Countries far from the dispute still paid more for fuel: energy markets are linked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--03-shared-river.webp" width="900" height="683" alt="A schematic of the Blue Nile flowing from Ethiopia, where the Grand Ethiopian Renaissance Dam was built from 2011 and inaugurated in September 2025, downstream to Sudan and Egypt, which raised concerns about how much water would reach them." loading="lazy">
+  <figcaption>Interdependence: an upstream decision changes what downstream states receive.</figcaption>
+</figure>
 
 ## Systems
 
@@ -88,6 +103,11 @@ The concept question is "who gains and who loses?" -- savers lose; borrowers rep
 - **Geography.** A drainage basin is an open system: **inputs** (precipitation), **stores** (soil water, groundwater, lakes), **flows** (infiltration, throughflow, surface runoff) and **outputs** (river discharge, evaporation). Deforestation cuts interception, so runoff is faster and flood peaks higher.
 - **Economics.** A market is a system linking buyers and sellers through price. At the **equilibrium price**, the quantity buyers want equals the quantity sellers offer. An external shock, such as a poor harvest, cuts supply; the price rises until a new equilibrium is reached, and the effect spreads to linked markets as buyers switch to substitutes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--04-drainage-basin-system.webp" width="900" height="640" alt="A drainage basin as an open system. Precipitation is the input; soil water, groundwater and lakes are stores; infiltration, throughflow and surface runoff are flows; river discharge and evaporation are outputs. Deforestation cuts interception, so runoff is faster and flood peaks higher." loading="lazy">
+  <figcaption>Name the parts of a system and show how a change to one affects the rest.</figcaption>
+</figure>
+
 ## Time, place and space
 
 **Meaning.** This single concept covers the absolute or relative position of people, objects and ideas -- the "when" and the "where". In I&S the guide treats time as a continuum of significant events, not just a count of years. **Place** is socially constructed: people give places value and meaning, and a location brings constraints and opportunities. **Space** is about where and why places are located, and about the flows that cross space, such as migration and trade. You can study it at local, regional, national and global scales.
@@ -95,6 +115,11 @@ The concept question is "who gains and who loses?" -- savers lose; borrowers rep
 - **History.** Ottoman forces under Mehmed II captured Constantinople on 29 May 1453. Its position on the Bosphorus, between Europe and Asia, is why it mattered: it controlled the sea route from the Black Sea towards the Mediterranean. Whose timeline you use matters: an ending for Byzantium, a new capital for the Ottomans.
 - **Geography.** **Absolute location** is a fixed position, such as Singapore's latitude of about 1° N. **Relative location** is position in relation to other places: Singapore sits off the southern tip of the Malay Peninsula, beside the Strait of Malacca, one of the world's busiest shipping lanes between the Indian and Pacific Oceans. Relative location explains far more of its growth.
 - **Economics.** Firms often cluster in space. Technology firms in California's Silicon Valley gather near universities and each other to share skilled workers, suppliers and ideas: location is an economic advantage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--05-absolute-relative-location.webp" width="900" height="644" alt="Left: Singapore’s absolute location as a point on a grid at a latitude of about 1 degree north. Right: its relative location, off the southern tip of the Malay Peninsula beside the Strait of Malacca, a busy shipping lane between the Indian and Pacific Oceans." loading="lazy">
+  <figcaption>Where a place is in relation to others often matters more than its coordinates.</figcaption>
+</figure>
 
 ## Other key concepts in I&S
 
@@ -127,6 +152,11 @@ A unit's **statement of inquiry** puts conceptual understanding into a global co
 
 Check it: no named place or date (it transfers to Lake Chad, an aquifer or a fishery); it uses the key concept (system) and both related concepts (taking more than can be replaced = scarcity and sustainability); it links to a global issue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--06-statement-of-inquiry.webp" width="900" height="624" alt="Three ingredients, key concept systems, related concepts scarcity and sustainability, and global context globalization and sustainability, combine into one statement: when people take more from a natural system than it can replace, the system and dependent communities can be damaged. Checks: no named place or date, uses all the concepts, links to a global issue." loading="lazy">
+  <figcaption>One key concept, related concepts and a global context make one transferable sentence.</figcaption>
+</figure>
+
 ## Inquiry questions
 
 The guide asks teachers and students to draw three kinds of question from the statement of inquiry.
@@ -138,6 +168,11 @@ The guide asks teachers and students to draw three kinds of question from the st
 | **Debatable** | Weighs perspectives; reasonable people disagree | Should a government put farm exports ahead of a local fishing industry? |
 
 Tests: if a textbook settles it, it is factual. If it works for a different place unchanged, it is conceptual. If informed people could argue opposite answers with evidence, it is debatable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-key-concepts--07-question-types.webp" width="900" height="643" alt="Three tests in sequence. If a textbook settles it, the question is factual, such as which countries border Lake Chad. If it works for a different place unchanged, it is conceptual. If informed people could argue opposite answers with evidence, it is debatable, such as whether a government should put farm exports ahead of a local fishing industry." loading="lazy">
+  <figcaption>Three quick tests sort any inquiry question.</figcaption>
+</figure>
 
 ## How this is assessed
 

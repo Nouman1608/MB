@@ -60,6 +60,11 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 - **Censorship:** stopping people from making, showing or seeing a work.
 - **Access:** whether people can take part in the arts, which depends on cost, distance, time and confidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--01-arts-funding-levels.webp" width="900" height="521" alt="Concentric rings for local, national and global levels of the issue of public funding for the arts: a council deciding whether to keep a community arts centre; government budgets for theatres and galleries; and countries funding culture in very different ways." loading="lazy">
+  <figcaption>A good issue can be traced from a local decision up to a global pattern.</figcaption>
+</figure>
+
 ## Perspectives: who thinks what, and why
 
 A perspective rests on evidence and reasoning. Strong answers say **who** holds a view and **why**: their values, their experience and any vested interest.
@@ -80,6 +85,11 @@ Perspectives do not have to be opposite. A director and a community leader might
 
 > A museum director argues that objects should stay because more people can see them in a large international museum [knowledge]. This reflects a value placed on wide public access, and it suits the museum's vested interest in visitors [application]. However, it assumes that seeing an object means the same to every visitor; for the community it came from, it may have a meaning lost in a glass case far away [analysis]. The visitor figures may be accurate, but they answer a different question from the community's, which is about ownership and justice, so this is a weak reply to their case [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--02-restitution-perspectives.webp" width="900" height="910" alt="Two overlapping circles: a community or government of origin wants objects returned for identity, history and justice; a museum director wants to keep or loan them for access, conservation and legal duties. The overlap shows both might accept a loan. Below, a young person wants to see the objects without travelling, and three statements are labelled a checkable historical claim, a claim needing evidence, and a value." loading="lazy">
+  <figcaption>Perspectives can overlap, and each type of statement is judged in a different way.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The Individual Report must analyse causes and consequences, and the Written Exam asks you to analyse information and arguments. In this topic they often run in chains.
@@ -91,6 +101,16 @@ The Individual Report must analyse causes and consequences, and the Written Exam
 **Worked example (cause and consequence).**
 
 > One cause of fewer young people taking part in local arts activities is cost [knowledge]. If a council cuts its grant to an arts centre, the centre may raise prices to cover its costs [application]. Young people from lower-income families then take part less, so access becomes more unequal, which may reduce the number who choose creative careers later [analysis]. However, lack of time, transport or confidence may matter as much, so a survey asking non-attenders why they stay away is needed before deciding that price is the main problem [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--03-arts-centre-chain.webp" width="900" height="650" alt="A vertical chain: a council cuts an arts centre grant, the centre raises prices, young people from lower-income families take part less, access becomes more unequal, and fewer may later choose creative careers. A side panel asks whether price is really the main barrier, since time, transport or confidence may matter, and suggests surveying non-attenders." loading="lazy">
+  <figcaption>Follow the chain link by link, then test whether the first cause is really the main one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--04-bilbao-effect.webp" width="900" height="610" alt="Three possible causes point to the box The city changes: a new cultural building such as the Guggenheim Museum Bilbao (a dashed arrow with a question mark), new transport and other investment. Below, correlation means two things happening together; causation means one caused the other." loading="lazy">
+  <figcaption>A city changes for many reasons at once, so one building cannot be assumed to cause it all.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -115,6 +135,11 @@ Article 27 of the Universal Declaration of Human Rights (1948) states: "Everyone
 
 > A leaflet from an imaginary theatre company claims that "every pound spent on theatre returns four to the local economy" [identifying the claim]. The company has a vested interest in continued funding, and the leaflet does not say who calculated the figure or how [application]. It may count spending that would have happened anyway, such as people eating out in town on another night, so the real gain could be smaller [analysis]. On its own the claim is weak; it would be stronger if an independent researcher had produced it and explained the method [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--05-theatre-impact-claim.webp" width="900" height="639" alt="A leaflet claims every pound spent on theatre returns four to the local economy. Three checks fail: the company has a vested interest, the method is not given, and the figure may count spending that would have happened anyway. The claim is weak on its own and would be stronger from an independent researcher who explains the method." loading="lazy">
+  <figcaption>Ask who produced a figure, how, and what it quietly counts.</figcaption>
+</figure>
+
 ## Courses of action and their effects
 
 The Individual Report proposes one course of action; the Team Project carries one out; Component 1 asks you to assess actions. Judge each against clear criteria: **effectiveness** (does it tackle the cause?), **cost** and who pays, **feasibility**, **who benefits and who loses**, **sustainability** (the syllabus encourages you to consider it) and **unintended effects**.
@@ -124,6 +149,11 @@ Example actions on local access: free museum days; a discounted youth arts pass;
 **Worked example (assessing an action).**
 
 > One course of action is for the council to fund artists to run workshops in every secondary school [knowledge]. This reaches students who would never visit an arts centre, tackling cost and confidence directly [application]. It may be more effective than a one-day festival, because it builds skills over time rather than offering a single event [analysis]. However, it needs schools to give up timetable time and would stop if funding ended, so it is the stronger option only if funded for several years and measured, for example by tracking how many students join arts clubs afterwards [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--06-access-actions.webp" width="900" height="642" alt="Six criteria for judging actions (effectiveness, cost, feasibility, who benefits and loses, sustainability, unintended effects) above a table comparing free museum days, a discounted youth arts pass and artists’ workshops in schools, each with a strength and a limitation." loading="lazy">
+  <figcaption>Every action has a weakness; the judgement says when it would still be the best choice.</figcaption>
+</figure>
 
 ## Ideas for the Individual Report
 
@@ -148,6 +178,11 @@ The Team Project starts from a **local** issue. The team plans and carries out a
 | A traditional craft fading locally | A workshop where an older craftsperson teaches students | Students who complete an item and want to continue |
 
 The syllabus lists posters, leaflets, web pages, videos (10 minutes maximum), presentations or photographs of an event as possible Evidence of Action, and says it should not include evidence of research or initial meetings. See the [Team Project guide](/resources/igcse-cambridge-global-perspectives-team-project/) and the [Team Project revision notes](/resources/igcse-global-perspectives-team-project-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-arts-in-society--07-team-project-ideas.webp" width="900" height="578" alt="Three rows link a local issue to an action and a way to measure success: arts sessions for older residents measured by attendance and a survey; a mural on a graffiti wall measured by participation and new graffiti; a craft workshop measured by students who finish an item and want to continue." loading="lazy">
+  <figcaption>Every Team Project action needs a measure of success planned from the start.</figcaption>
+</figure>
 
 ## Common errors
 

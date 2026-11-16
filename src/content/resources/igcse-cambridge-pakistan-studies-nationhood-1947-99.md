@@ -41,6 +41,11 @@ simply narrating events.
 - **Key Question 15:** How effective were governments 1988–99? Benazir Bhutto 1988–90 and 1993–96; Nawaz Sharif 1990–93 and 1997–99; Musharraf's takeover in 1999
 - **Key Question 16:** How important has Pakistan's role been in world affairs since 1947? Nuclear status; relations with Bangladesh, India, Afghanistan, Iran, China, the USSR/Russia, the USA, the UK and the Commonwealth, and the United Nations
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--01-leaders-1947-99.webp" width="900" height="724" alt="A bar chart of leaders from 1947 to 1999. Civilian leaders Jinnah, Liaquat Ali Khan, Khwaja Nazimuddin, Zulfikar Ali Bhutto, Benazir Bhutto and Nawaz Sharif alternate with military rulers Ayub Khan, Yahya Khan, Zia-ul-Haq and, from October 1999, Pervez Musharraf. Markers show the constitutions of 1956, 1962 and 1973 and the creation of Bangladesh in 1971." loading="lazy">
+  <figcaption>Periods of civilian government were repeatedly ended by military rule.</figcaption>
+</figure>
+
 ## What problems did Pakistan face in 1947–48? (Key Question 11)
 
 - **Radcliffe Award:** the boundary was announced on 17 August 1947. Pakistan objected especially to the award of most of Gurdaspur district to India, which gave India a land route into Kashmir.
@@ -53,6 +58,16 @@ simply narrating events.
 
 **Jinnah's role:** as Governor-General he set up the government, organised refugee relief and
 founded the State Bank. He died on 11 September 1948, before the constitution was written.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--02-problems-1947-48.webp" width="900" height="667" alt="Seven numbered cards: the Radcliffe Award and Gurdaspur, the canal water cut-off of 1948, the unfair division of assets, the princely states of Junagadh, Hyderabad and Kashmir, millions of refugees, building an administration and economy from nothing, and the 1948 language decision. A final card summarises Jinnah’s work as Governor-General before his death on 11 September 1948." loading="lazy">
+  <figcaption>The new state had to solve border, water, money, refugee and language problems at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--03-indus-waters-treaty.webp" width="900" height="588" alt="Six rivers in two groups. The western rivers, Indus, Jhelum and Chenab, went to Pakistan and the eastern rivers, Ravi, Beas and Sutlej, to India. Below, a chain: key headworks left in India in 1947, water cut off in 1948, and the Indus Waters Treaty of 1960 mediated by the World Bank." loading="lazy">
+  <figcaption>The 1960 treaty gave Pakistan the three western rivers and India the three eastern ones.</figcaption>
+</figure>
 
 ## How far did Pakistan achieve stability, 1948–71? (Key Question 12)
 
@@ -72,6 +87,11 @@ Constitution** was presidential; "Islamic" was restored to the country's name by
 Declaration. Mass protests forced him out in 1969, and **Yahya Khan** imposed martial law, ended
 One Unit and held the 1970 general election.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--04-constitutions-compared.webp" width="900" height="517" alt="A table comparing the Objectives Resolution of 1949, the 1956, 1962 and 1973 Constitutions and the Eighth Amendment: who introduced each, the system of government where the lesson gives it, and its key provisions, from sovereignty belonging to Allah to Islam as the state religion in 1973." loading="lazy">
+  <figcaption>Each constitution kept or strengthened Islamic provisions while the system of government changed.</figcaption>
+</figure>
+
 ## Why did East Pakistan become Bangladesh? (Key Question 13)
 
 East Pakistan had the majority of the population but felt dominated by the West in government,
@@ -84,6 +104,11 @@ election** the Awami League won almost every East Pakistan seat and an overall m
 **Zulfikar Ali Bhutto's** Pakistan People's Party won most seats in the West. Talks failed, the
 army launched operations in March 1971, and civil war followed. **India intervened militarily in
 December 1971**, and Pakistani forces in the East surrendered on 16 December 1971.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--05-road-to-bangladesh.webp" width="900" height="816" alt="Four long-term causes (political domination by the West, the language protests of 1952, economic disparity and neglect after the 1970 cyclone) lead into a timeline: the Six Points of 1966, the 1970 election won by the Awami League, army operations from March 1971, and Indian military intervention in December 1971 ending in surrender on 16 December." loading="lazy">
+  <figcaption>Long-standing grievances turned into crisis when the 1970 election result was not accepted.</figcaption>
+</figure>
 
 ## How successful were Bhutto and Zia? (Key Question 14)
 
@@ -101,6 +126,11 @@ and non-party elections in 1985, and the **Eighth Amendment** gave the president
 the national assembly. The **Soviet invasion of Afghanistan (1979)** brought millions of refugees
 but also large US aid. Zia died in an air crash in August 1988.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--06-bhutto-and-zia.webp" width="900" height="576" alt="Two columns. Bhutto (1971–77) made the Simla Agreement, introduced the 1973 Constitution, nationalised industries, banks and schools, carried out reforms and began the nuclear programme; he was overthrown by Zia in July 1977. Zia (1977–88) introduced Islamisation, ruled under martial law, passed the Eighth Amendment and gained US aid after the Soviet invasion of Afghanistan; he died in August 1988." loading="lazy">
+  <figcaption>Bhutto reshaped the state and economy; Zia reshaped its laws and its place in the Cold War.</figcaption>
+</figure>
+
 ## How effective were governments in the 1990s? (Key Question 15)
 
 **Benazir Bhutto** (1988–90 and 1993–96) faced opposition from Nawaz Sharif's government in Punjab,
@@ -111,6 +141,11 @@ deregulation, faced the loss of US aid and economic difficulties, removed the pr
 dismissal in 1997, and ordered nuclear tests in May 1998. Tension with the army after the Kargil
 conflict of 1999 led to **General Pervez Musharraf** taking power in October 1999.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--07-governments-1988-99.webp" width="900" height="601" alt="Four governments in sequence: Benazir Bhutto 1988–90, dismissed in 1990 under the Eighth Amendment; Nawaz Sharif 1990–93; Benazir Bhutto 1993–96, dismissed again in 1996; and Nawaz Sharif 1997–99, ended when Musharraf took power in October 1999. Cards below list the problems and policies of each leader." loading="lazy">
+  <figcaption>Benazir Bhutto and Nawaz Sharif alternated in power until the army took over in 1999.</figcaption>
+</figure>
+
 ## What role has Pakistan played in world affairs? (Key Question 16)
 
 - **Nuclear status:** programme begun in 1972; India tested in 1974; Pakistan tested at Chagai in May 1998, following India's tests; Pakistan has not signed the Nuclear Non-Proliferation Treaty.
@@ -120,6 +155,11 @@ conflict of 1999 led to **General Pervez Musharraf** taking power in October 199
 - **China:** a close partner since the 1960s; the Karakoram Highway.
 - **USA and UK:** membership of SEATO and CENTO; Pakistan left SEATO in 1972 and CENTO in 1979; left the Commonwealth in 1972 and rejoined in 1989.
 - **Bangladesh:** recognised in 1974; issues of repatriation and division of assets remained.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--08-world-affairs.webp" width="900" height="684" alt="Pakistan at the centre, linked to eight cards: India, Afghanistan, Iran, Bangladesh, China, the USA and UK, the Commonwealth, and nuclear status. Each card gives the key events from the lesson, such as leaving SEATO in 1972 and CENTO in 1979, rejoining the Commonwealth in 1989 and the Chagai tests of May 1998." loading="lazy">
+  <figcaption>Each relationship can be summed up in a few dated events.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

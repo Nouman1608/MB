@@ -82,6 +82,16 @@ Fernand Braudel's idea of the *longue durée* adds a time scale: slow changes in
 **Worked paragraph.** *Assess one explanation of why Europe industrialised first.*
 > Weber argued that Calvinist Protestantism produced a "spirit of capitalism": believers worked hard and reinvested profit as a sign they were saved (knowledge). This fits Britain, a largely Protestant country and the first to industrialise (application). It suggests ideas, not only resources, shaped economic change (analysis). However, Pomeranz shows coal and colonial land gave Britain a material advantage, and Williams links industrial capital to slavery, so Weber's account leaves out exploitation (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--01-why-europe.webp" width="900" height="788" alt="A grid of four explanations for why Europe industrialised first: Rostow’s modernisation stages, Weber’s Protestant work ethic, dependency theory from Frank and Rodney, and Williams on slavery, each with a criticism. Pomeranz stresses coal and colonial resources." loading="lazy">
+  <figcaption>Values, exploitation and resources offer competing accounts of the Great Divergence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--02-imperialism.webp" width="900" height="383" alt="A sequence from European exploration and trade, through the Atlantic trade in enslaved Africans and colonial rule with extraction of raw materials, to neocolonial control through debt, trade terms and investment after independence." loading="lazy">
+  <figcaption>Control shifted from direct rule to debt, trade and investment.</figcaption>
+</figure>
+
 ## 3.2.1.2 What is meant by globalisation?
 
 **Types.**
@@ -108,6 +118,11 @@ Karl Polanyi's *The Great Transformation* (1944) is useful for negative globalis
 **Worked paragraph.** *Evaluate the view that globalisation is cultural imperialism.*
 > Cultural imperialism suggests American media and brands replace local cultures (knowledge). In [your society], global streaming platforms and fast-food chains are widespread among urban young people (application). Yet these products are often glocalised, and local music or film industries export abroad too (analysis). Transformationalists argue the result is hybrid culture, not simple replacement, which weakens the imperialism claim (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--03-globalisation-views.webp" width="900" height="510" alt="Neo-liberals such as Ohmae see globalisation spreading prosperity; negative globalists Bello and Polanyi see it deepening inequality; transformationalists such as Held see real but mixed change, including glocalisation." loading="lazy">
+  <figcaption>Each view links globalisation to different winners and losers.</figcaption>
+</figure>
+
 ## 3.2.1.3 Who is involved in globalisation?
 
 - **Nation states.** More developed states shape trade rules and lead lending bodies. Less developed states may compete for investment by lowering taxes or labour standards, though some (China, Vietnam) direct development strongly.
@@ -123,6 +138,16 @@ Karl Polanyi's *The Great Transformation* (1944) is useful for negative globalis
 
 **Worked paragraph.** *Assess the argument that aid helps development.*
 > Sachs argues aid can break a poverty trap by funding bed nets, fertiliser and clinics (knowledge). In a rural region with high malaria rates, such spending raises health and work capacity (application). Yet Moyo argues long-term aid lets governments avoid accountability to citizens (analysis). The type of aid matters: targeted health aid has stronger support than large budget transfers (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--04-actors.webp" width="900" height="531" alt="Six groups involved in globalisation: nation states, TNCs, transnational and UN agencies, NGOs, grassroots movements and indigenous peoples, each with its role and an example or criticism." loading="lazy">
+  <figcaption>Power in globalisation runs from top-down agencies to grassroots action.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--05-aid-debate.webp" width="900" height="497" alt="Sachs argues a targeted big push of aid can break a poverty trap; Moyo, Easterly and Marxists argue aid breeds dependency, ignores local knowledge or serves donors." loading="lazy">
+  <figcaption>The debate turns on what kind of aid, not aid in general.</figcaption>
+</figure>
 
 ## 3.2.1.4 Migration and diasporas
 
@@ -146,6 +171,11 @@ Views on migration are contested. Some stress labour shortages, remittances and 
 **Worked paragraph.** *Evaluate push-pull explanations.*
 > Lee explains migration through push factors such as unemployment and pull factors such as higher wages (knowledge). This fits young workers moving from [your country] to Gulf states (application). But networks matter: people follow relatives, so flows run along existing diaspora links (analysis). Push-pull also ignores state recruitment schemes and visa rules, which structure who can move (evaluation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--06-push-pull.webp" width="900" height="597" alt="Lee’s model: push factors at the origin such as poverty, conflict, persecution and climate change; intervening obstacles such as distance, cost and border law; and pull factors at the destination such as jobs, safety and family." loading="lazy">
+  <figcaption>Push, pull and intervening obstacles, but structures and networks also matter.</figcaption>
+</figure>
+
 ## 3.2.1.5 Obstacles to progress
 
 - **Modernisation view.** The obstacle is the persistence of traditional values and practices: fatalism, extended kinship obligations, ascribed status. Criticism: blames poor societies for their own poverty.
@@ -157,6 +187,11 @@ Views on migration are contested. Some stress labour shortages, remittances and 
 
 **Worked paragraph.** *Assess feminist views of obstacles to progress.*
 > Mies argues global capitalism relies on women's undervalued labour (knowledge). Export garment factories in [your region] employ mainly young women on low wages (application). This keeps household incomes and women's status low, so growth does not mean progress for women (analysis). However, some studies find factory wages increase women's bargaining power at home, so effects vary by context (evaluation).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-development--07-obstacles.webp" width="900" height="707" alt="A grid comparing modernisation, Marxist and feminist views of obstacles to development: the main obstacle each identifies, key thinkers such as Frank, Wallerstein, Mies and Hochschild, and a criticism of each." loading="lazy">
+  <figcaption>Each perspective places the obstacle somewhere different: values, capitalism or patriarchy.</figcaption>
+</figure>
 
 ## The recommended sociologists at a glance
 

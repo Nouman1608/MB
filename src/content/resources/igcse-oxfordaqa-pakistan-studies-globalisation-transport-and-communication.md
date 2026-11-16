@@ -64,6 +64,11 @@ technology and culture. For Pakistan:
 | People | Remittances from workers abroad; access to information, education and global products | Widening gap between connected cities and rural areas; cultural change seen by some as a threat to local traditions |
 | Environment | Access to cleaner technologies and renewable energy equipment | Pollution from factories producing for export; more imported packaging and waste |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--01-globalisation-links.webp" width="900" height="717" alt="Pakistan at the centre linked to five strands of globalisation: trade (textile export markets), investment (foreign investment and TNCs), migration (remittances), technology (IT outsourcing and cleaner technologies) and culture (global brands and products)." loading="lazy">
+  <figcaption>Globalisation links Pakistan to the world through trade, investment, migration, technology and culture.</figcaption>
+</figure>
+
 ## What are TNCs and what is their role in Pakistan?
 
 A **transnational corporation** has its headquarters in one country and operations in several. TNCs
@@ -78,6 +83,11 @@ better products for consumers; investment in local suppliers.
 **Negative impacts:** profits sent back to the home country; competition that pushes small local
 firms out of business; pressure on labour standards in supply chains; water use, waste and
 pollution; dependence on decisions made abroad.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--02-how-a-tnc-works.webp" width="900" height="651" alt="A TNC’s headquarters in one country sends investment, brands and technology to operations in Pakistan and elsewhere, while profits flow back home. Examples include Unilever, Nestlé, Pak Suzuki and Indus Motor. Cards list positive impacts such as jobs, tax and technology, and negative impacts such as profit outflow, loss of local firms and pollution." loading="lazy">
+  <figcaption>TNCs bring investment and skills, but profits and key decisions stay abroad.</figcaption>
+</figure>
 
 ## How are consumer cultures changing?
 
@@ -94,6 +104,11 @@ combine retail, food courts and entertainment.
 - **Air** links the major cities and serves remote northern towns such as Gilgit and Skardu, where roads are slow.
 - **River** transport is very limited, because flow varies greatly between seasons and barrages block navigation.
 - **Sea** trade passes through Karachi Port, Port Qasim and Gwadar.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--03-transport-modes.webp" width="900" height="455" alt="A table of transport modes. Road and rail are densest on the Indus Plain and sparse in Balochistan and the north because of relief, hazards and low population. Air links major cities and remote towns such as Gilgit and Skardu. River transport is very limited by seasonal flow and barrages. Sea trade uses Karachi Port, Port Qasim and Gwadar." loading="lazy">
+  <figcaption>Relief and population decide where land transport goes; rivers carry almost nothing.</figcaption>
+</figure>
 
 ## What are the opportunities and challenges for transport development?
 
@@ -116,6 +131,16 @@ Gwadar port and special economic zones. Supporters say it fills infrastructure a
 creates jobs; critics point to debt, the share of contracts and jobs going to Chinese firms, and the
 need for benefits to reach local communities, especially in Balochistan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--04-indus-plain-corridor.webp" width="900" height="525" alt="A line diagram of the main road and rail corridor across the Indus Plain, linking Karachi, Hyderabad, Multan, Lahore, Islamabad and Peshawar, with sea trade at Karachi. The main railway line (ML-1) is planned for upgrading." loading="lazy">
+  <figcaption>Pakistan’s busiest routes follow the Indus Plain from Karachi to Peshawar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--05-cpec.webp" width="900" height="541" alt="CPEC, launched in 2015, is Chinese investment in roads, railways including ML-1, power stations, Gwadar port and special economic zones. Supporters say it fills infrastructure and energy gaps and creates jobs; critics point to debt, contracts and jobs going to Chinese firms, and the need for local benefits, especially in Balochistan." loading="lazy">
+  <figcaption>CPEC fills infrastructure gaps but raises questions of debt and who benefits.</figcaption>
+</figure>
+
 ## How are communication networks expanding?
 
 Radio and television reach most of the population; private TV channels expanded rapidly from the
@@ -125,6 +150,11 @@ telemedicine, freelancing and IT exports, and access to market prices for farmer
 mountain and desert terrain raises the cost of masts and fibre; power cuts; low digital literacy
 and a gender gap in phone ownership; cyber-security and internet shutdowns.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--06-communication-networks.webp" width="900" height="659" alt="A short timeline: private TV channels expanded from the 2000s, the 2014 auction of 3G and 4G licences brought mobile internet to millions, and today radio and television reach most people and mobile phones far outnumber landlines. Below, opportunities such as e-commerce and telemedicine are set against challenges such as terrain, power cuts and a gender gap in phone ownership." loading="lazy">
+  <figcaption>Mobile internet opened new opportunities, but terrain, power and access still limit them.</figcaption>
+</figure>
+
 ## Why do financial systems matter for development?
 
 Banks, microfinance institutions, Islamic banking, the stock exchange and mobile money channel
@@ -132,6 +162,11 @@ savings into investment. The **State Bank of Pakistan** regulates banks and runs
 system **Raast** (launched 2021). Mobile wallets such as JazzCash and Easypaisa let people without
 bank accounts send money, pay bills and receive government cash transfers, which supports
 **financial inclusion**, especially for women and rural households.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication--07-financial-inclusion.webp" width="900" height="518" alt="Savings pass through banks, microfinance, Islamic banking, the stock exchange and mobile money into investment. The State Bank of Pakistan regulates banks and runs the Raast payment system (2021). Mobile wallets such as JazzCash and Easypaisa let people without bank accounts send money, pay bills and receive cash transfers, supporting financial inclusion for women and rural households." loading="lazy">
+  <figcaption>Financial systems turn savings into investment; mobile money brings in people without bank accounts.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

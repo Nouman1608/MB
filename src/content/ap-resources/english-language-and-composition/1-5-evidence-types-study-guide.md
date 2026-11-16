@@ -51,6 +51,11 @@ A claim that nobody supports is just an assertion. **Evidence** is the material 
 
 Think of a court. The prosecutor claims the defendant took the money. The evidence is the CCTV footage, the bank record and the witness. The reasoning is the lawyer's explanation of why that footage and that record, together, make the claim true. A writer needs both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--01-evidence-and-reasoning.webp" width="900" height="552" alt="A claim, “the defendant took the money”, is supported from below by evidence (CCTV footage, a bank record, a witness) and by reasoning, the lawyer’s explanation of why the evidence together makes the claim true." loading="lazy">
+  <figcaption>Evidence supplies the raw material; reasoning explains why it supports the claim.</figcaption>
+</figure>
+
 ## The types of evidence
 
 The CED lists many kinds. Here they are in groups, with what each does well and where it is weak. The invented examples below were written by Marlbridge for practice.
@@ -70,6 +75,11 @@ The CED lists many kinds. Here they are in groups, with what each does well and 
 
 You do not have to memorise labels, but you must be able to **recognise** the kind of evidence in a passage and **explain what it does** for the claim. Two quick signals: a number summarising many cases is a statistic; a short story about one event is an anecdote or example.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--02-types-of-evidence.webp" width="900" height="756" alt="Ten cards, one per type of evidence: fact, statistic, example, anecdote, personal experience, testimony, expert opinion, experiment or study, analogy and illustration. Each lists a strength, a weakness and the ferry example from the lesson." loading="lazy">
+  <figcaption>Recognise the kind of evidence, then explain what it does for the claim.</figcaption>
+</figure>
+
 ## Evidence is not the same as the claim
 
 A common mix-up is to treat a statement of position as evidence. Compare:
@@ -88,11 +98,21 @@ Evidence is not all equal. Ask four questions.
 3. **Representative?** Is it typical, or a rare case chosen for effect?
 4. **Appropriate for the audience?** Statistics may suit sceptical officials; an anecdote may suit a general readership. Topic 2.4 builds on this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--03-four-questions-filter.webp" width="900" height="621" alt="A narrowing funnel of four questions: is the evidence relevant, accurate and credible, representative, and appropriate for the audience? Evidence that passes all four is useful." loading="lazy">
+  <figcaption>Relevant, credible, representative evidence that suits the audience beats a pile of weak items.</figcaption>
+</figure>
+
 ## A public-domain example of evidence: Stanton's Declaration (1848)
 
 At Seneca Falls, New York, in 1848, the Declaration of Sentiments, drafted by Elizabeth Cady Stanton, modelled itself on the Declaration of Independence. Its claim is that women have been denied rights. Its method of defence is a long list of specific complaints. Two of them read: "He has never permitted her to exercise her inalienable right to the elective franchise" and "He has compelled her to submit to laws, in the formation of which she had no voice."
 
 Each item is a **particular fact or example** about the law and custom of the time, set out in a pattern ("He has...") that accumulates. The evidence is not statistics or testimony but a catalogue of concrete restrictions, and its power comes from the sheer number of them. That pattern is a choice shaped by the document's audience and purpose: it imitates a famous precedent so that readers recognise the form of the charge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--04-stanton-catalogue.webp" width="900" height="638" alt="A stack of grievances beginning “He has...”, two quoted from the Declaration of Sentiments, bracketed together to support the claim that women have been denied rights. Notes explain that the evidence is a catalogue of concrete restrictions whose power comes from accumulation and from imitating a famous precedent." loading="lazy">
+  <figcaption>A catalogue of concrete examples persuades by accumulation.</figcaption>
+</figure>
 
 ## Worked example 1: naming the evidence in an invented paragraph
 
@@ -112,6 +132,11 @@ Read this short paragraph, written by Marlbridge with invented data.
 
 **Check.** Each item is **checkable or illustrative**, and none is a statement of position. The first sentence is the only one that takes a stance. If you list "the ferry is failing" as evidence, you have confused claim and evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--05-ferry-paragraph-annotated.webp" width="900" height="636" alt="The invented ferry paragraph split into sentences. The first is the claim. The others are labelled as a statistic (late sailings rose from 12 to 68 percent), an example (the nurse who missed her shift), expert opinion (the chief engineer) and an analogy (a bicycle with a flat tyre)." loading="lazy">
+  <figcaption>Only the first sentence argues a position; the rest can be checked or pictured.</figcaption>
+</figure>
+
 ## Worked example 2: matching evidence to a claim
 
 **Task.** A student argues: "A four-day school week would not reduce learning." Which one of the following pieces of evidence best supports the claim, and why are the others weaker?
@@ -129,6 +154,11 @@ Read this short paragraph, written by Marlbridge with invented data.
 - (iv) is a **fact** about practice that does not show the outcome. Being common is not the same as working.
 
 **Check.** The best evidence matches the **exact thing the claim says**. The claim is about learning; only (ii) measures learning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-5-evidence-types-study-guide--06-match-evidence-to-claim.webp" width="900" height="586" alt="Four pieces of evidence are aimed at a target labelled learning. Only (ii), a study of eight schools whose test scores were unchanged after two years, hits it. Popularity (i), one cousin’s testimony (iii) and a fact about where four-day weeks are used (iv) miss." loading="lazy">
+  <figcaption>The best evidence matches the exact thing the claim says.</figcaption>
+</figure>
 
 ## How the exam asks about evidence
 

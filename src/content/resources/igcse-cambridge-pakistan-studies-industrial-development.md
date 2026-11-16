@@ -38,6 +38,11 @@ transport (Section 7), and its jobs link to employment (Section 8). Questions of
 connect these sections, for example explaining why cotton textile mills cluster near both
 cotton-growing areas and the port of Karachi.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--01-section-5-links.webp" width="900" height="743" alt="Industry sits at the centre. Raw materials from Sections 2 and 4 and power from Section 3 feed in; industry links out to trade (Section 6), transport and location (Section 7) and jobs (Section 8). A note gives the example of cotton mills near cotton-growing areas and the port of Karachi." loading="lazy">
+  <figcaption>Industry questions often reward linking raw materials, power, transport, trade and jobs.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE PAKISTAN STUDIES (0448), 2026 — PAPER 2, SECTION 5: INDUSTRIAL DEVELOPMENT**
@@ -76,6 +81,16 @@ cotton-growing areas and the port of Karachi.
 **Small-scale** industry uses fewer workers in small units. **Cottage** industry is carried out in
 homes, often by family members using simple tools.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--02-cotton-value-chain.webp" width="900" height="687" alt="Four stages from raw cotton (a primary raw material) to yarn and cloth (processed) and then shirts (manufactured). Rising bars show value added at each stage. A note says tertiary industry provides services and that exporting cloth or garments earns more than raw cotton." loading="lazy">
+  <figcaption>Each processing stage adds value, so exporting finished goods earns more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--03-scale-of-industry.webp" width="900" height="498" alt="Three panels. Large-scale industry uses many workers, heavy machinery and large capital in factories. Small-scale industry uses fewer workers in small units. Cottage industry is carried out in homes, often by family members with simple tools." loading="lazy">
+  <figcaption>Scale is about workers, machinery and capital, and where the work happens.</figcaption>
+</figure>
+
 ## Where are the listed industries and why?
 
 | Industry | Main locations | Key location factors | Market |
@@ -91,6 +106,11 @@ homes, often by family members using simple tools.
 | Brick | On the edge of most towns | Clay soils, cheap labour, local demand | Domestic |
 | Crafts | Throughout, e.g. carpets, pottery, embroidery | Traditional skills, cottage production | Domestic and export |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--04-location-factors.webp" width="900" height="780" alt="A matrix of ten industries against five location factors. Sugar, cement, fertiliser and brick are pulled to raw materials; iron and steel and oil refining to the coast for imported inputs; sports goods, surgical instruments and crafts to skilled labour. A final column shows whether each mainly serves the domestic or export market." loading="lazy">
+  <figcaption>Bulky or perishable raw materials pull industry to them; imports pull it to the coast; skills pull it to Sialkot.</figcaption>
+</figure>
+
 ## What is the difference between the formal and informal sectors?
 
 The **formal sector** is registered with government, pays taxes, keeps accounts and offers regular
@@ -100,6 +120,11 @@ services and many jobs for people without qualifications, needs little capital, 
 materials. Its disadvantages are low and irregular pay, no job security, poor working conditions,
 use of child labour, and lost tax revenue. Both sectors matter: many cotton garments and sports
 goods pass through small informal workshops before reaching formal-sector exporters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--05-formal-informal.webp" width="900" height="636" alt="Two columns compare the registered formal sector, which pays taxes and offers regular wages, with the unregistered informal sector of street vendors, mechanics and small workshops. The informal sector’s advantages and disadvantages are listed, and a chain shows goods passing from informal workshops to formal exporters and on to export markets." loading="lazy">
+  <figcaption>The informal sector gives jobs and cheap services but low pay and no security.</figcaption>
+</figure>
 
 ## How does government promote industrial growth?
 
@@ -112,12 +137,22 @@ goods pass through small informal workshops before reaching formal-sector export
 new technology. Their characteristics: secure fenced sites, good infrastructure, duty-free import
 of raw materials and machinery, and production mainly for export.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--06-export-processing-zone.webp" width="900" height="622" alt="A fenced zone of factories. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports go to buyers overseas. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates." loading="lazy">
+  <figcaption>EPZs trade tax and customs concessions for investment, jobs and exports.</figcaption>
+</figure>
+
 ## Can global communications create service jobs?
 
 Call centres and IT services need fast internet links, reliable power and English-speaking,
 computer-literate workers. Pakistan's large young workforce and lower wage costs are advantages.
 Barriers include power cuts, uneven broadband outside big cities, and competition from other
 countries. Assess feasibility by weighing these.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--07-call-centre-feasibility.webp" width="900" height="517" alt="Call centres need fast internet, reliable power and English-speaking, computer-literate workers. A balance weighs Pakistan’s advantages, a large young workforce and lower wages, against barriers: power cuts, uneven broadband outside big cities and competition from other countries." loading="lazy">
+  <figcaption>A feasibility answer weighs advantages against barriers before judging.</figcaption>
+</figure>
 
 ## Is tourism a feasible route to development?
 
@@ -126,6 +161,11 @@ Karakoram including K2; coastal beaches. **Cultural attractions:** Mohenjo-daro,
 Lahore Fort and Badshahi Mosque, Sufi shrines. Tourism creates jobs in hotels, transport and
 guiding, earns foreign exchange and adds to GNP and GDP. It is limited by poor access to remote
 areas, concerns about security, seasonal demand, and the risk of environmental damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--08-tourism-feasibility.webp" width="900" height="544" alt="Natural attractions such as Hunza, Swat, Naran–Kaghan, K2 and coastal beaches sit beside cultural attractions such as Mohenjo-daro, Taxila, the Lahore Fort, Badshahi Mosque and Sufi shrines. A balance weighs benefits (jobs, foreign exchange, GNP and GDP) against limits (poor access, security concerns, seasonal demand and environmental damage)." loading="lazy">
+  <figcaption>Pakistan has the attractions; access, security and seasons limit what tourism can do.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

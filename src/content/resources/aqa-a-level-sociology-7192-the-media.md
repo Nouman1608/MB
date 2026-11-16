@@ -62,6 +62,11 @@ The specification also asks you to understand "conflict and consensus, social st
 
 **Worked paragraph.** *Cultural optimists such as Jenkins argue that new media give audiences power to produce content (K). For example, a teenager can upload a video that reaches more viewers than a local TV news bulletin (Ap). This suggests that the gatekeeping power of traditional editors has weakened (An). However, Marxists reply that the platforms are owned by a few corporations whose algorithms decide what is seen, so control has moved rather than disappeared (Ev).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--01-new-media-debate.webp" width="900" height="588" alt="Cultural optimists Jenkins and Castells see new media as participatory and democratic. Pessimists Keen, Morozov, Zuboff, Pariser and Marxists argue quality falls, activism weakens and a few platforms hold control." loading="lazy">
+  <figcaption>New media widen participation, but unequally and on platforms owned by a few.</figcaption>
+</figure>
+
 ## Ownership and control of the media
 
 **Key terms**
@@ -81,6 +86,16 @@ The specification also asks you to understand "conflict and consensus, social st
 
 **Worked paragraph.** *Instrumentalist Marxists argue that owners directly control content (K). If a single conglomerate owns a national paper and a TV channel, it could promote the same favourable view of a takeover across both (Ap). This would narrow the range of views audiences meet (An). Pluralists counter that if readers disliked the coverage they would switch titles, so owners' influence is limited by the market (Ev).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--02-ownership-control.webp" width="900" height="709" alt="A grid comparing instrumentalist Marxism, neo-Marxism and pluralism on who controls media content, how control works, and the evidence each uses." loading="lazy">
+  <figcaption>Owners, dominant ideas or audiences: three answers to who controls the media.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--03-propaganda-model.webp" width="900" height="682" alt="A funnel in which all possible stories pass through five filters: ownership, advertising, reliance on official sources, flak and anti-communism, leaving the news that is published." loading="lazy">
+  <figcaption>Five filters narrow all possible stories down to the news that fits elite interests.</figcaption>
+</figure>
+
 ## The media, globalisation and popular culture
 
 **Key terms**
@@ -95,6 +110,11 @@ The specification also asks you to understand "conflict and consensus, social st
 **Evaluation.** Cultural imperialism fits the global reach of US film and streaming. But it assumes audiences absorb foreign values passively, which reception studies challenge. Contra-flows and hybrid forms suggest a more complex picture. Neo-Marxists reply that hybrid culture is still sold by transnational corporations.
 
 **Worked paragraph.** *Schiller argued that global media spread American consumer values (K). A streaming service that offers mostly US-made series in a new market would fit this view (Ap), as local producers struggle to compete (An). However, the global success of non-Western music and drama suggests that flows now go in more than one direction, which weakens a simple imperialism argument (Ev).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--03-global-culture.webp" width="900" height="558" alt="Cultural imperialism, from Adorno and Horkheimer and Schiller, sees Western media spreading one way. Thussu’s contra-flows, glocalisation and postmodern views show flows in several directions and active audiences." loading="lazy">
+  <figcaption>Global media flows are more complex than a one-way spread of Western culture.</figcaption>
+</figure>
 
 ## Selection and presentation of the news
 
@@ -112,6 +132,11 @@ The specification also asks you to understand "conflict and consensus, social st
 **Worked paragraph.** *Galtung and Ruge argue that negativity is a key news value (K). A story about a hospital closure is more likely to lead a bulletin than a report that waiting times have fallen slightly (Ap). This means the news can give a more negative picture of public services than the evidence supports (An). However, pluralists would argue this reflects what audiences choose to watch, not a hidden ideology (Ev).*
 
 Media and crime, including moral panics, is also part of Paper 3: see the [crime and deviance study guide](/resources/a-level-aqa-sociology-crime-and-deviance/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--04-news-selection.webp" width="900" height="1018" alt="Five steps in making news: gatekeeping, news values, practical factors such as deadlines and press releases, framing, and agenda setting, which shapes the issues the public thinks about." loading="lazy">
+  <figcaption>Each stage filters and shapes what reaches the audience as news.</figcaption>
+</figure>
 
 ## Media representations
 
@@ -137,6 +162,11 @@ The specification names six groups: age, social class, ethnicity, gender, sexual
 
 **Worked paragraph.** *Barnes argues that disabled people are often shown through stereotypes such as the pitiable victim (K). A charity appeal that shows a disabled child only as an object of sympathy would fit this (Ap), and it may teach audiences to see disability as tragedy rather than as social exclusion (An). However, as more disabled presenters and actors appear in mainstream roles, the pattern may be weakening (Ev).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--05-representations.webp" width="900" height="724" alt="Key studies of media representation for gender, ethnicity, social class, age, sexuality and disability, from Tuchman and Mulvey to van Dijk, Jones, Cohen and Barnes." loading="lazy">
+  <figcaption>Each group has its own body of evidence on stereotyping and absence.</figcaption>
+</figure>
+
 ## The media and audiences
 
 **Models of effects**
@@ -151,6 +181,16 @@ The specification names six groups: age, social class, ethnicity, gender, sexual
 **Evaluation.** Effects models are linked to methods: laboratory experiments lack ecological validity, while focus groups and interviews give rich, but less generalisable, data. The overall trend in the field has moved from passive to active views of the audience, but cultural effects researchers argue long-term influence still exists. See the [methods in context study guide](/resources/a-level-sociology-methods-in-context/) for method evaluation skills.
 
 **Worked paragraph.** *Hall argues audiences can decode the same text in different ways (K). Union members watching a report on a strike may take an oppositional reading if it blames the workers (Ap). This suggests media power depends on the audience's social position (An). However, cultural effects researchers such as Philo argue that, where people lack direct experience, repeated media framing can still shape belief (Ev).*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-the-media--06-effects-models.webp" width="900" height="650" alt="Six models of media effects arranged from passive to active audiences: hypodermic syringe, cultivation, cultural effects, two-step flow, uses and gratifications, and reception and postmodern views." loading="lazy">
+  <figcaption>Effects models range from a passive audience to one that actively makes meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-representation-and-effects--03-encoding-decoding.webp" width="900" height="663" alt="Producers encode a meaning in a programme; audiences then decode it in a dominant reading that accepts the meaning, a negotiated reading that accepts it in part, or an oppositional reading that rejects it." loading="lazy">
+  <figcaption>The same programme can be read in dominant, negotiated or oppositional ways.</figcaption>
+</figure>
 
 ## Common errors
 

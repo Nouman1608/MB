@@ -36,6 +36,11 @@ separately-timed skill, Paper 3 integrates listening with reading and writing wi
 than testing them as fully separate components -- a structural difference worth understanding before
 you plan your exam-day timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--01-paper-3-structure.webp" width="900" height="710" alt="Paper 3 lasts 2 hours 15 minutes for 60 marks. Section A, Listening Comprehension, has 30 marks and a recommended 45 minutes; Section B, Listening, Reading and Writing, has 30 marks and a recommended 1 hour 30 minutes. The time bar is drawn to scale." loading="lazy">
+  <figcaption>Two sections with equal marks, but Section B gets twice the recommended time.</figcaption>
+</figure>
+
 ## Section A: Listening Comprehension
 
 Tests the ability to understand spoken Urdu and respond to questions based on what has been heard,
@@ -68,6 +73,11 @@ translation (Papers 1 and 2) is not automatically strong at understanding spoken
 default entirely toward translation practice on the assumption it transfers directly to listening
 performance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--02-three-papers-skills.webp" width="900" height="556" alt="Paper 1 tests translation into English, reading comprehension and research-question writing; Paper 2 tests translation into Urdu and written response to works; Paper 3 combines listening, reading and writing without translation. Strength at translation does not transfer automatically to listening." loading="lazy">
+  <figcaption>Paper 3 completes the four skills; translation practice alone will not prepare you for it.</figcaption>
+</figure>
+
 ## Building listening stamina and technique
 
 Because Section A is entirely listening-based with no translation buffer to fall back on, practise
@@ -76,6 +86,11 @@ conversational spoken Urdu) rather than only the single register your course mat
 A reliable technique for listening comprehension questions is to read the question before the audio
 plays wherever the exam format allows it, so you know what specific information to listen for rather
 than trying to process and retain everything you hear before knowing what will be asked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--03-listening-registers.webp" width="900" height="470" alt="A scale from formal, news-style Urdu to conversational spoken Urdu, with news broadcasts, interviews and spoken narrative along it. Practise across speed and register, and read each question before the audio plays where the format allows." loading="lazy">
+  <figcaption>Listen across registers, and read the question first so you know what to listen for.</figcaption>
+</figure>
 
 ## Approaching Section B's combined tasks
 
@@ -86,6 +101,11 @@ carry equal marks (30 each), but Section B has the longer recommended time (1 ho
 45 minutes) and combines three skills, so give it practice time to match -- a revision plan that
 spends most of its time on Section A's shorter listening-only component and treats Section B as an
 afterthought leaves half the paper's marks under-practised in its longest and most demanding section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--04-section-b-notes-to-writing.webp" width="900" height="494" alt="Four linked steps for Section B: listen to or read the source, take accurate notes, use those notes to build the answer, and write the response. Treating Section B as an afterthought leaves half the marks under-practised." loading="lazy">
+  <figcaption>Practise note-taking and writing as one skill, under the same timing.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -98,6 +118,11 @@ uses time from the recommended 45 minutes. Build the habit of noting roughly whe
 fell, finishing the passage, then going back to replay just that section, rather than replaying whole
 passages from the start; practise with audio you can pause and replay yourself, inside a 45-minute
 limit, so that this control becomes routine.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-listening-reading-writing--05-replay-control.webp" width="900" height="516" alt="For Section A: when a detail is missed, note roughly where it fell, finish the passage, then replay just that section, rather than replaying whole passages. Rehearse with pausable audio inside 45 minutes, then practise full timed sittings." loading="lazy">
+  <figcaption>Replay just the section you missed, and keep inside the 45 minutes.</figcaption>
+</figure>
 
 ## Self-test
 

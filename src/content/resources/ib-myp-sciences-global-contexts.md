@@ -53,6 +53,11 @@ The guide describes global contexts as steering inquiry towards our shared human
 
 Each global context is broad. An **exploration** is a narrower angle on it, chosen for one unit. Think of it as a zoom: global context (wide) → exploration (focused) → your unit's specific issue (sharp).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--02-exploration-zoom.webp" width="900" height="620" alt="Three nested bars narrowing downwards: the global context globalization and sustainability; the exploration consumption, conservation, natural resources and public goods; and the unit issue, fuels and their environmental impact." loading="lazy">
+  <figcaption>An exploration zooms a broad global context in on one unit.</figcaption>
+</figure>
+
 ## Statements of inquiry
 
 A **statement of inquiry** is one sentence that sets the unit's purpose. It joins three things:
@@ -70,6 +75,16 @@ From the statement of inquiry, you and your teacher build **inquiry questions** 
 - **debatable** -- with more than one defensible answer ("Should cities ban petrol cars?")
 
 Debatable questions are where the global context and criterion D meet most clearly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--03-statement-of-inquiry.webp" width="900" height="625" alt="A key concept (relationships) plus related concepts (conditions, interaction) plus a global context (identities and relationships) make the guide’s statement of inquiry “Health is a function of interactions between individuals and societies.” A transferable statement names no topic; “Batteries store energy” is too narrow." loading="lazy">
+  <figcaption>Key concept + related concepts + global context = one transferable sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--04-inquiry-questions.webp" width="900" height="670" alt="Three stepped bands. Factual: answered by recall or measurement, such as “What gases are produced when fuel burns?” Conceptual: about transferable big ideas, such as “How does a change in one part of a system affect the rest?” Debatable: more than one defensible answer, such as “Should cities ban petrol cars?”" loading="lazy">
+  <figcaption>Factual, conceptual, debatable: debatable questions lead into criterion D.</figcaption>
+</figure>
 
 ## The six global contexts, with science units
 
@@ -147,6 +162,11 @@ For each context: what it means in science, how the guide uses it, and one extra
 - Factual question: Why does heat damage protein-based medicines?
 - Debatable question: Who should pay for the refrigeration needed to deliver vaccines to remote areas?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--01-six-global-contexts.webp" width="900" height="820" alt="Six cards: identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation, highlighted as the natural favourite for science; globalization and sustainability; and fairness and development. Each gives what it asks about in science and an example unit." loading="lazy">
+  <figcaption>Every unit needs a global context, and all six should appear across the course.</figcaption>
+</figure>
+
 ## How the global context links to criterion D
 
 Criterion D is *Reflecting on the impacts of science*. By the end of year 5 the guide expects you to:
@@ -184,6 +204,16 @@ Unit: polymers and plastic waste. Context: globalization and sustainability. Iss
 3. **Evaluate.** Weigh both sides and reach a conditional judgement: the switch helps only if the city also builds collection and composting.
 4. **Scientific language (strand 3).** Use terms such as polymer, monomer, decomposer and biodegradable correctly.
 5. **Document sources (strand 4).** Cite any data you use.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--05-context-vs-factor.webp" width="900" height="800" alt="The global context is the frame around the whole unit; a factor (moral, ethical, social, economic, political, cultural or environmental) is the lens used inside a criterion D answer. A table pairs each global context with factors that often fit, such as globalization and sustainability with environmental and political." loading="lazy">
+  <figcaption>Name a factor, not a global context, in a criterion D answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--06-criterion-d-command-terms.webp" width="900" height="710" alt="Four rising steps for bands 1–2 to 7–8. Strand 1 climbs from outline to summarize, describe and explain; strand 2 from outline to describe, discuss, and discuss and evaluate. Strands 3 and 4 cover scientific language and documenting sources." loading="lazy">
+  <figcaption>Higher bands need stronger command terms: explain, then discuss and evaluate.</figcaption>
+</figure>
 
 ## Common errors
 

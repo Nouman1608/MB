@@ -78,6 +78,11 @@ Take the phrase "a *so-called* solution". The adjective "so-called" modifies "so
 
 A reader should therefore **read modifiers for attitude**, and a writer should **choose them for attitude**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--01-modifier-two-jobs.webp" width="900" height="649" alt="“So-called solution”: the modifier both qualifies the noun and conveys the writer’s doubt. A table shows six more modifiers, from “a modest proposal” to “the regrettably necessary cuts”, with what each modifies and the attitude it conveys." loading="lazy">
+  <figcaption>Read modifiers for attitude, and choose them for attitude.</figcaption>
+</figure>
+
 ## Precision
 
 **Precise word choice** means using the word that says exactly what you mean and rules out other things. The framework notes that precise word choice **reduces confusion** and may help the audience perceive the writer's perspective.
@@ -104,6 +109,16 @@ Precise language does **not** mean fancy language. The aim is the exact word, an
 
 Precision also affects how the reader sees the writer's stance. A writer who says "the policy failed" has given a verdict; one who says "the policy reduced waiting times by a minute but raised costs by a tenth" has given information and trusts the reader to judge. In argument, each can be right in its place, but readers should know which they are getting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--02-vague-to-precise.webp" width="900" height="663" alt="Five vague sentences replaced by precise ones, such as “The meeting was bad” becoming “The meeting ran two hours and ended without a decision”. Below, three habits: replace vague words, prefer strong verbs to verb plus adverb, and use concrete nouns and numbers." loading="lazy">
+  <figcaption>Precision reduces confusion; the exact word is often a plain one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--03-verdict-or-information.webp" width="900" height="374" alt="Two boxes: a verdict, “The policy failed”, in which the writer has judged; and information, “The policy reduced waiting times by a minute but raised costs by a tenth”, which trusts the reader to judge." loading="lazy">
+  <figcaption>A verdict tells readers what to think; precise information lets them judge.</figcaption>
+</figure>
+
 ## Modifiers in published prose
 
 Abraham Lincoln's Second Inaugural Address (1865) contains this sentence:
@@ -113,6 +128,11 @@ Abraham Lincoln's Second Inaugural Address (1865) contains this sentence:
 The adverbs "fondly" and "fervently" modify "hope" and "pray" and convey the intensity and affection of the wish; "speedily" says how soon. The adjective "mighty" and the noun "scourge" (a whip, a cause of suffering) together present the war as an immense force of punishment. The inverted word order ("Fondly do we hope") puts the modifiers first, so the reader meets the feeling before the thing hoped for.
 
 In Thomas Paine's *The American Crisis* (1776) the phrase "the summer soldier and the sunshine patriot" uses nouns as modifiers: "summer" and "sunshine" describe a soldier and a patriot who serve only in fair weather. The two short modifiers carry an entire judgement, and a whole argument about loyalty, in one image.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--04-modifiers-in-published-prose.webp" width="900" height="587" alt="Lincoln’s sentence with its modifiers labelled: the adverbs “fondly”, “fervently” and “speedily”, and “mighty scourge” presenting war as a force of punishment. Below, Paine’s “summer soldier and the sunshine patriot”, where two nouns used as modifiers carry a judgement about fair-weather loyalty." loading="lazy">
+  <figcaption>Short, well-placed modifiers can carry feeling, judgement and argument.</figcaption>
+</figure>
 
 ## Worked example 1: making a draft precise
 
@@ -136,6 +156,11 @@ In Thomas Paine's *The American Crisis* (1776) the phrase "the summer soldier an
 
 **Step 5: Check for support.** "Falling apart" is a judgement, so the precise details that follow must earn it, and they do.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--05-pool-draft-precise.webp" width="900" height="530" alt="Five vague phrases from the pool draft mapped to precise details: “bad state” to “falling apart”, “not nice” to cracked floor tiles, “a lot of things broken” to two of six showers not working, “problems” to a fallen ceiling tile, and “very unpleasant” to a swimmer slipping on the dangerously wet floor." loading="lazy">
+  <figcaption>Replace vague words with what you actually know, then add a modifier only where it helps.</figcaption>
+</figure>
+
 ## Worked example 2: analysing modifiers and precise words
 
 Read this passage (Marlbridge passage).
@@ -156,6 +181,11 @@ Read this passage (Marlbridge passage).
 **Step 4: Link to purpose.** The writer's perspective is sceptical. The adverbs and adjectives tell the reader how to take the brochure, and the precise details give that scepticism a basis.
 
 **Step 5: Write the analysis sentence.** *The writer pairs sceptical modifiers such as "sleek", "blandly" and "Quietly" with exact details like "40 new jobs" and "page nine", so that the reader both senses the writer's distrust and is given the facts to share it.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-6-precise-word-choice-study-guide--06-brochure-modifiers.webp" width="900" height="562" alt="The brochure passage with modifiers highlighted in cream (sleek, bold, blandly, Quietly) and exact details in teal (40 new jobs, page nine, the fishermen’s slipway). Notes explain that the modifiers signal distrust and the details give that distrust a basis." loading="lazy">
+  <figcaption>Sceptical modifiers signal the attitude; exact details let the reader share it.</figcaption>
+</figure>
 
 ## Common misconceptions
 

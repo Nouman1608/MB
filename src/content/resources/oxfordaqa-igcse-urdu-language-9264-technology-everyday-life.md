@@ -74,6 +74,11 @@ Verbs are often formed with an English word plus کرنا: پوسٹ کرنا (to
 share), ڈاؤن لوڈ کرنا (to download), چیک کرنا (to check). Native Urdu verbs are also valuable for
 range: بھیجنا (to send), استعمال کرنا (to use), تلاش کرنا (to search), محفوظ رکھنا (to keep safe).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--01-loanword-genders.webp" width="900" height="742" alt="Masculine technology words: موبائل فون, انٹرنیٹ, سوشل میڈیا, پیغام, فائدہ, نقصان, رابطہ. Feminine: ایپ, ویڈیو, تصویر, ٹیکنالوجی, سہولت, عادت, معلومات (feminine plural) and لت." loading="lazy">
+  <figcaption>Borrowed words are easy to recognise, but each has a gender that verbs must follow.</figcaption>
+</figure>
+
 ## Structures that carry this topic
 
 **1. Advantage and disadvantage frames.**
@@ -106,6 +111,11 @@ agrees (کرنی).
 **7. Conditions.** اگر ہم سونے سے پہلے فون بند کر دیں تو نیند بہتر ہو گی (if we switch the phone
 off before sleeping, sleep will be better).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--02-ne-agrees-with-object.webp" width="900" height="660" alt="With میں نے the past verb agrees with the object: میں نے دوست کو پیغام بھیجا (masculine پیغام), میں نے ایک تصویر پوسٹ کی (feminine تصویر). میں نے ویڈیو دیکھا is wrong; it should be میں نے ویڈیو دیکھی." loading="lazy">
+  <figcaption>Know each loanword’s gender: with نے, the verb agrees with it.</figcaption>
+</figure>
+
 ## Worked example 1: translation into Urdu
 
 English: *I use my phone every day to talk to my relatives in Pakistan. Social media can be
@@ -126,6 +136,11 @@ Sentence 2
 
 The two traps here are using میرا فون instead of اپنا فون, and putting استعمال کرتا ہوں straight
 after the subject as English would.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--03-translation-traps.webp" width="900" height="610" alt="Translating &quot;I use my phone every day to talk to my relatives in Pakistan&quot;: use اپنا فون, not میرا فون, because the subject owns the phone; put the purpose as بات کرنے کے لیے; and put استعمال کرتا ہوں at the end." loading="lazy">
+  <figcaption>اپنا when the subject is the owner, and the verb at the end.</figcaption>
+</figure>
 
 ## Worked example 2: a balanced paragraph
 
@@ -148,6 +163,11 @@ Why this works:
 
 A weak answer on the same task lists apps (I use this app, I use that app) in the present tense
 with no evaluation. It may be accurate, but it does not answer the question "good or bad?".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--04-balanced-paragraph.webp" width="900" height="976" alt="Five moves from the model answer with their Urdu: an advantage frame, a contrast with دوسری طرف, cause and effect with جس کی وجہ سے, a personal experience in the past, and a conditional opinion with بشرطیکہ. A list of apps with no evaluation is weak." loading="lazy">
+  <figcaption>Advantage, contrast, effect, experience, then a conditional view.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -175,6 +195,11 @@ or against the object if the sentence uses نے.
 one disadvantage, and a justified overall view. Add one sentence about the past (پہلے ... تھا)
 or the future (مستقبل میں ... ہو گا) to widen your range of tenses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--05-signposts-and-plan.webp" width="900" height="690" alt="Reading signposts that introduce a disadvantage (لیکن, مگر, دوسری طرف, اس کے برعکس) and the reason-markers کیونکہ, اس لیے and کی وجہ سے. A four-part writing plan: how you use technology now, one advantage, one disadvantage and a justified view, plus a sentence with پہلے ... تھا or مستقبل میں ... ہو گا." loading="lazy">
+  <figcaption>Find the signpost in reading; plan four parts in writing and add another tense.</figcaption>
+</figure>
+
 ## How this topic connects to the rest of the course
 
 Technology vocabulary reappears well beyond Theme 1. In Theme 3, online learning and using
@@ -192,6 +217,11 @@ you in several topics:
 
 Each sentence also practises a structure from this guide: کے ذریعے (by means of), a then-and-now
 contrast and ... کے بجائے (instead of).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-technology-everyday-life--06-technology-across-themes.webp" width="900" height="680" alt="Three linking sentences that reuse technology vocabulary in other themes: raising money for flood victims through social media (کے ذریعے), online classes making study easier but questions harder (لیکن), and recycling old phones instead of throwing them away (کے بجائے)." loading="lazy">
+  <figcaption>Technology words return in charity, study and environment topics.</figcaption>
+</figure>
 
 ## Practise next
 
