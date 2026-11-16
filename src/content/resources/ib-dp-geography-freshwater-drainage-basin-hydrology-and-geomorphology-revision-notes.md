@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-16
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -36,6 +37,14 @@ A **drainage basin** is the area drained by a river and its tributaries, bounded
 | Flows (transfers) | Stemflow, infiltration, overland flow, throughflow, percolation, baseflow |
 | Outputs | Evaporation, transpiration, discharge to the sea |
 
+### How water moves through the system
+
+- **Infiltration** is water soaking into the soil; **infiltration capacity** is the maximum rate at which a soil can absorb it. Sandy soils and vegetated ground have high capacity; compacted, clay or frozen ground has low capacity.
+- When rainfall intensity exceeds infiltration capacity, **infiltration-excess (Hortonian) overland flow** occurs, typical of intense storms on bare or urban surfaces.
+- When the soil is already full of water, even gentle rain runs off as **saturation-excess overland flow**, common on valley floors after prolonged rain.
+- **Throughflow** moves laterally through the soil towards the channel; **percolation** carries water down into rock to recharge groundwater, which feeds the river slowly as **baseflow**.
+- Quick flow (overland flow and fast throughflow) produces flood peaks; slow flow (baseflow) keeps rivers running in dry periods.
+
 ## Water balance
 
 **P = Q + E +/- change in storage** (precipitation = runoff/discharge + evapotranspiration +/- storage).
@@ -43,6 +52,16 @@ A **drainage basin** is the area drained by a river and its tributaries, bounded
 - Over a long period in a stable basin, storage change is close to zero.
 - Wet year: soils and aquifers fill (positive). Drought: stores fall (negative).
 - Worked check: P = 920 mm, Q = 410 mm, E = 480 mm gives storage +30 mm; runoff ratio Q/P = 0.446.
+
+A seasonal water budget graph shows a **soil moisture surplus** when precipitation exceeds evapotranspiration (often winter in mid-latitudes), **utilisation** when plants draw on stored moisture, a **deficit** when the store is used up, and **recharge** when rain returns.
+
+## Discharge
+
+**Discharge (Q) = cross-sectional area (A) x mean velocity (V)**, measured in cubic metres per second (cumecs).
+
+Worked check: a channel 8 m wide with a mean depth of 0.5 m has A = 4 m squared. With a velocity of 0.6 m per second, Q = 4 x 0.6 = 2.4 cumecs.
+
+A **river regime** is the pattern of discharge over a year (for example a summer peak in a snowmelt-fed river); a **storm hydrograph** shows the response to a single rainfall event.
 
 ## Storm hydrographs
 
@@ -56,6 +75,8 @@ Know the labelled parts: **baseflow, rising limb, peak discharge, falling limb, 
 
 Example from the study guide: rainfall peak 06:00, discharge peak 10:30 gives lag time 4.5 hours; after woodland clearance and drains the peak at 08:00 gives 2 hours.
 
+Why the factors matter: a **circular basin** delivers water from all tributaries to the main channel at about the same time, while an **elongated basin** staggers arrival. **High drainage density** (many channels per square kilometre) shortens the distance water travels over land. **Interception** by forest delays and reduces the water reaching the ground.
+
 ## River processes and landforms
 
 - **Erosion:** hydraulic action, abrasion, attrition, solution.
@@ -64,12 +85,30 @@ Example from the study guide: rainfall peak 06:00, discharge peak 10:30 gives la
 - **Bradshaw model:** downstream, discharge, width, depth and velocity tend to **increase**; particle size and channel roughness **decrease**. Real rivers depart from it, for example where a tributary joins or a rock outcrop interrupts the pattern.
 - Landforms to explain by process: waterfalls, meanders, oxbow lakes, levees, floodplains, deltas.
 
+### Reading the Hjulstrom curve
+
+The upper line is the **critical erosion velocity**: the speed needed to pick up a particle. The lower line is the **settling (fall) velocity**: below it, particles are deposited. Between the two, a particle already moving stays in transport. Clay needs a high velocity to erode but, once moving, stays suspended at very low velocity, which is why rivers stay muddy long after a flood.
+
+### Landform sequences
+
+- **Meander:** flow swings to the outer bank, where the fastest, deepest flow (the **thalweg**) erodes a **river cliff**; a corkscrew-like **helicoidal flow** carries sediment to the slower inner bank, where it builds a **point bar**. The bend migrates sideways and downstream.
+- **Oxbow lake:** erosion on two outer banks narrows the meander neck; during a flood the river cuts through; deposition seals off the old loop, which becomes a lake.
+- **Levee:** when a river overtops its banks, velocity drops sharply at the channel edge, so the coarsest sediment is deposited first, building raised banks; finer silt is spread across the floodplain.
+- **Waterfall:** a river crosses resistant rock overlying weaker rock; the weaker rock is undercut, a plunge pool forms, the overhang collapses and the fall retreats upstream, leaving a **gorge**. Niagara Falls is a well-known example of retreat.
+- **Delta:** where a river enters the sea or a lake, velocity falls and sediment is deposited faster than waves and tides remove it; in salt water fine clays clump together (**flocculation**) and settle. Shapes include arcuate (the Nile) and bird's foot (the Mississippi).
+
+## Model paragraph
+
+*Explain why urbanisation produces a flashier storm hydrograph.* "Urban surfaces such as roads and roofs are impermeable, so infiltration falls and rainfall becomes infiltration-excess overland flow. Drains and gutters then carry water rapidly to the channel, effectively raising drainage density. As a result, water reaches the river sooner and in a larger volume, shortening lag time and raising peak discharge. Because less water enters soil and groundwater stores, baseflow between storms may also be lower."
+
 ## Exam traps
 
 - Describing a hydrograph without quoting values, units and times.
 - Saying velocity falls downstream: in the Bradshaw model it tends to rise because the channel is more efficient.
 - Naming a landform without giving the process sequence.
 - Forgetting that the water balance is an equation about the whole basin, not one point.
+- Confusing infiltration (into the soil) with percolation (down into rock).
+- Mixing up a river regime (a year) with a storm hydrograph (one event).
 
 ## Self-test
 
@@ -79,8 +118,14 @@ Example from the study guide: rainfall peak 06:00, discharge peak 10:30 gives la
 4. Give two features of a flashy hydrograph.
 5. What does the Hjulstrom curve show?
 6. How do particle size and channel roughness change downstream in the Bradshaw model?
+7. Distinguish infiltration-excess from saturation-excess overland flow.
+8. A channel is 12 m wide, 0.75 m deep on average, and flows at 0.5 m per second. Calculate discharge.
+9. Why does a circular basin tend to flood more quickly than an elongated one?
+10. Why do clays stay in suspension at low velocities?
+11. Explain why levees are made of coarser material than the rest of the floodplain.
+12. What is flocculation and where does it occur?
 
-**Answers:** 1. Stores: soil moisture, groundwater (also interception, channel storage); outputs: evaporation, transpiration, discharge. 2. P = Q + E +/- change in storage. 3. 1,100 - 520 - 540 = +40 mm. 4. Short lag time and steep rising limb with high peak. 5. How velocity relates to erosion, transport and deposition for different particle sizes. 6. Both decrease.
+**Answers:** 1. Stores: soil moisture, groundwater (also interception, channel storage); outputs: evaporation, transpiration, discharge. 2. P = Q + E +/- change in storage. 3. 1,100 - 520 - 540 = +40 mm. 4. Short lag time and steep rising limb with high peak. 5. How velocity relates to erosion, transport and deposition for different particle sizes. 6. Both decrease. 7. Infiltration-excess happens when rain falls faster than the soil can absorb it; saturation-excess happens when the soil is already full. 8. A = 12 x 0.75 = 9 m squared; Q = 9 x 0.5 = 4.5 cumecs. 9. Water from all tributaries reaches the main channel at about the same time. 10. Their settling velocity is very low, so once lifted they sink only in very slow water. 11. Velocity drops sharply at the channel edge in a flood, so the heaviest particles are dropped there first. 12. The clumping of fine clay particles in salt water, so they settle, mainly where rivers enter the sea.
 
 ## Related resources
 

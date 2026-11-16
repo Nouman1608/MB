@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please check the summary of the Data Protection Act 2018 sections named in 2.3.5, which is kept general here."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -34,11 +35,23 @@ Condensed for the final weeks. For the full explanation, use the [individual stu
 - **s 15**: definitions, including "publish" and "statement".
 - **Remedies**: damages, injunction, court-ordered summary of judgment.
 
+**The three defences, condition by condition:**
+
+| Defence | What D must show | When it fails |
+|---|---|---|
+| s 2 Truth | The imputation conveyed is **substantially true** | If an imputation that is not shown to be true seriously harms C's reputation (s 2(3) deals with statements containing several imputations) |
+| s 3 Honest opinion | (1) a statement of **opinion**, not fact; (2) it indicates, generally or specifically, the **basis** of the opinion; (3) an **honest person** could have held it on a fact that existed when it was published | If C shows that D did not actually hold the opinion |
+| s 4 Public interest | The statement was, or formed part of, a statement on a matter of **public interest**, and D **reasonably believed** publishing it was in the public interest | If D's belief was not reasonable in all the circumstances; the court allows for editorial judgement |
+
+**Serious harm on the facts:** after *Lachaux*, courts look at evidence such as the gravity of the allegation, how widely it was published and who read it. In *Monroe v Hopkins* tweets that wrongly implied the claimant approved of vandalising a war memorial were held to have caused serious harm.
+
 ## Human rights (2.3.2 to 2.3.4)
 
 - **Art 10** expression and **Art 11** peaceful assembly: **qualified**. Restriction must be prescribed by law, for a legitimate aim, necessary in a democratic society (proportionate).
 - Cases: *Handyside* [1976] (offend, shock or disturb); *Sunday Times* [1979]; *DPP v Jones* [1999]; *DPP v Ziegler* [2021].
 - **HRA 1998**: s 3 compatible interpretation, s 4 declaration of incompatibility, s 6 public authorities.
+- **More HRA sections**: s 2 courts must **take into account** Strasbourg case law (not bound by it); s 7 a victim may bring proceedings against a public authority; s 8 courts may grant just and appropriate remedies; s 10 remedial orders to amend legislation after a declaration; s 19 a minister must make a statement of compatibility for a new Bill.
+- **s 3 and s 4 in action**: *Ghaidan v Godin-Mendoza* [2004] read "as his or her wife or husband" to include a same-sex partner (s 3); in *Bellinger v Bellinger* [2003] the House of Lords issued a declaration of incompatibility (s 4) instead, leaving change to Parliament. A declaration does not affect the validity of the Act.
 - **ECtHR**: Strasbourg, Council of Europe. Exhaust domestic remedies → apply within four months → admissibility → judgment → just satisfaction → Committee of Ministers supervises.
 - **Effect on government**: binding in international law, not automatically in UK law. *Malone* [1984] → Interception of Communications Act 1985; *Sunday Times* → Contempt of Court Act 1981; *Goodwin* [2002] → Gender Recognition Act 2004; *Hirst (No 2)* [2005]: slow, limited response.
 
@@ -60,9 +73,30 @@ Condensed for the final weeks. For the full explanation, use the [individual stu
 
 Occupier = person in control (*Wheat v Lacon* [1966]).
 
+**Further cases worth knowing:**
+
+- *Jolley v Sutton LBC* [2000] (1957 Act): a council left an abandoned boat on its land; a boy was injured when it fell on him while he tried to repair it. The council was liable because some injury to children meddling with the boat was foreseeable, even if the exact way it happened was not.
+- *Darby v National Trust* [2001] (1957 Act): no duty to warn of the obvious risk of drowning when swimming in a pond.
+- *Keown v Coventry Healthcare NHS Trust* [2006] (1984 Act): a boy of 11 fell while climbing the outside of a fire escape. He failed because the danger arose from what he chose to do, not from the state of the premises.
+
+**Visitor or trespasser?** A lawful visitor who goes beyond the area or purpose of their permission can become a trespasser for that part of the visit, so the 1984 Act then applies. Identify the claimant's status first: everything else follows from it.
+
+**Exclusion:** under the 1957 Act an occupier may restrict or exclude the duty by notice (s 2(1)), subject to consumer and unfair terms legislation for business occupiers. Volenti (willing acceptance of risk) is a defence under both Acts (s 2(5) of the 1957 Act; s 1(6) of the 1984 Act).
+
 ## Trespass to land (2.3.9) and remedies (2.3.10)
 
 Direct, intentional interference with land in another's possession; **actionable per se**. Airspace: *Kelsen* [1957] v *Bernstein v Skyviews* [1978]. Continuing trespass = fresh claim daily. Remedies: damages, injunction, possession order, reasonable self-help; declarations.
+
+**Defences to trespass**: **licence** (express or implied permission, such as a path to the front door), **lawful authority** (for example police powers of entry under statute) and **necessity** (entering to prevent a greater harm, such as a fire spreading).
+
+## Answering a problem question
+
+1. **Identify** the area of law and the claimant's status (visitor or trespasser; public figure or private individual; public authority or private body).
+2. **Define** the legal rule with its section number.
+3. **Apply** the rule to each fact in the scenario, using a case with similar facts.
+4. **Conclude** on likely liability, then the most suitable **remedy**.
+
+*Mini example:* a plumber, called to fix a boiler, is burned by a faulty boiler flue he was warned about. **Identify**: lawful visitor, OLA 1957. **Define**: common duty of care, s 2(2); skilled visitors are expected to guard against risks of their trade, s 2(3)(b). **Apply**: as in *Roles v Nathan*, the risk was one incidental to his calling and he was warned, s 2(4)(a). **Conclude**: the occupier has probably discharged the duty.
 
 ## Key terms
 
@@ -74,6 +108,21 @@ Direct, intentional interference with land in another's possession; **actionable
 | Common duty of care | The 1957 Act duty to keep visitors reasonably safe |
 | Actionable per se | Actionable without proof of damage |
 | Continuing trespass | A trespass that persists, giving a new cause of action each day |
+| Declaration of incompatibility | A s 4 HRA statement that an Act conflicts with a Convention right; it does not invalidate the Act |
+| Misuse of private information | The tort protecting a reasonable expectation of privacy |
+| Licence | Permission to be on land; without it, entry is a trespass |
+| Volenti | Willing acceptance of a risk, a defence to liability |
+| Imputation | The meaning a statement conveys about the claimant |
+
+## Common mistakes and exam traps
+
+- Leaving out serious harm, or presuming it: it must be proved on the facts.
+- Running honest opinion on a statement of **fact**; truth is the right defence for factual statements.
+- Calling Articles 10 and 11 absolute, or forgetting the three-part test for restrictions.
+- Saying a declaration of incompatibility strikes down an Act; only Parliament can change it.
+- Using OLA 1984 for property damage (s 1(8)), or OLA 1957 for a trespasser.
+- Forgetting that a visitor exceeding permission may become a trespasser.
+- Saying trespass needs damage: it is actionable per se.
 
 ## Self-test
 
@@ -84,5 +133,10 @@ Direct, intentional interference with land in another's possession; **actionable
 5. What does s 170 of the DPA 2018 make an offence?
 6. When does a duty arise under the OLA 1984?
 7. Why did the claimant fail in *Tomlinson*?
+8. State the three conditions of the s 3 honest opinion defence.
+9. What is the difference between ss 3 and 4 of the HRA 1998?
+10. Under which section of the OLA 1957 can a skilled visitor be expected to guard against risks of their trade?
+11. Why did the claimant fail in *Keown*?
+12. Name two defences to trespass to land.
 
-**Answers:** 1. That serious harm must be proved on the facts, not presumed. 2. Truth (s 2), honest opinion (s 3), public interest (s 4). 3. Prescribed by law, a legitimate aim, necessary in a democratic society. 4. Exhaust domestic remedies, then apply within four months. 5. Knowingly or recklessly obtaining or disclosing personal data without the controller's consent. 6. Where the occupier knows or has reasonable grounds to believe of the danger and that someone may come near it, and it is a risk they can reasonably be expected to guard against. 7. The danger of diving into shallow water was obvious, so there was no duty to protect him from it.
+**Answers:** 1. That serious harm must be proved on the facts, not presumed. 2. Truth (s 2), honest opinion (s 3), public interest (s 4). 3. Prescribed by law, a legitimate aim, necessary in a democratic society. 4. Exhaust domestic remedies, then apply within four months. 5. Knowingly or recklessly obtaining or disclosing personal data without the controller's consent. 6. Where the occupier knows or has reasonable grounds to believe of the danger and that someone may come near it, and it is a risk they can reasonably be expected to guard against. 7. The danger of diving into shallow water was obvious, so there was no duty to protect him from it. 8. A statement of opinion; it indicates the basis of the opinion; an honest person could have held it on a fact that existed at the time. 9. Section 3 requires courts to read legislation compatibly where possible; s 4 lets higher courts declare an Act incompatible where it cannot be read compatibly. 10. Section 2(3)(b). 11. The danger came from his own activity of climbing, not from the state of the premises. 12. Any two: licence, lawful authority, necessity.

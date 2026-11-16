@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -50,6 +51,15 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 
 **Memory hook:** "bi" = two eyes, and both binocular cues compare or move the two eyes.
 
+**One-line definitions for the monocular cues:**
+
+- **Height in plane**: objects higher up in the visual field, nearer the horizon, are seen as further away.
+- **Relative size**: of two objects assumed to be the same size, the one with the smaller image is seen as further away.
+- **Occlusion**: an object that blocks part of another is seen as nearer.
+- **Linear perspective**: parallel lines appear to converge as they recede, so the point where they meet is read as far away.
+
+**Size constancy** links the cues to the illusions: the brain scales up an object it believes is far away, so that a friend walking off does not appear to shrink. When a drawing fools the brain into thinking one part is further away, constancy makes that part look bigger.
+
 ## Illusions: name it, explain it
 
 | Illusion | Explanation |
@@ -60,6 +70,8 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 | Ponzo | Misinterpreted depth cues + size constancy |
 | Müller-Lyer | Misinterpreted depth cues + size constancy (fins read as corners) |
 | Ames Room | Misinterpreted depth cues (room assumed rectangular) |
+
+**Which theory explains illusions best?** Gregory's: each illusion is the brain applying a rule learned in a three-dimensional world (perspective, constancy, rooms being rectangular) to an image where the rule does not fit. Gibson's supporters reply that illusions are flat, still drawings with far less information than a real, moving scene.
 
 ## The two theories side by side
 
@@ -78,7 +90,36 @@ Condensed recall for **section 3.1.2 Perception** of Paper 1. For full explanati
 - **Emotion:** feelings such as anxiety can change what we notice.
 - **Culture:** experience of the environment (for example, straight-edged buildings) can affect how strongly illusions such as Müller-Lyer work.
 
+**The two named studies in more detail:**
+
+| | Bruner and Minturn (1955) | Gilchrist and Nesberg (1952) |
+|---|---|---|
+| Factor | Expectation (perceptual set) | Motivation |
+| Procedure | Participants were briefly shown an ambiguous figure that could be read as a B or a 13, after a sequence of either letters or numbers, and then drew what they saw | Participants went without food for different lengths of time and judged the brightness of pictures, including pictures of food |
+| Finding | Those who had seen letters tended to draw a B; those who had seen numbers tended to draw a 13 | The longer they had gone without food, the brighter they rated the food pictures |
+| Conclusion | Context creates an expectation that shapes what we perceive | Needs make relevant objects stand out |
+| Evaluation | Well controlled and replicable; but artificial, brief exposures not like everyday perception | Clear link between need and perception; but artificial task, and food deprivation raises ethical concerns about discomfort |
+
 Both studies are controlled laboratory tasks: easy to replicate, but low in ecological validity.
+
+**Both support Gregory**: perception is shaped by what is in the perceiver's mind (expectation, need), which is top-down processing.
+
+**Culture in more detail:** the "carpentered world" idea is that people raised among straight-edged buildings learn to read angles as corners, so the Müller-Lyer illusion fools them more strongly. Research has also found that people with little experience of pictures may read depth cues in drawings differently, for example not reading relative size as distance. Both points suggest perceptual inferences are **learned**, supporting nurture.
+
+## Applying it to a scenario
+
+*Scenario: Priya is very hungry on her way home. Walking down a busy street, she notices every café sign, but her friend notices the shoe shops.*
+
+- **Name** the factor: **motivation** creating a perceptual set.
+- **Explain**: a need makes stimuli relevant to that need stand out.
+- **Link** to the evidence: this matches Gilchrist and Nesberg, where hungrier participants rated food pictures as brighter.
+- **Theory**: this is top-down processing, supporting Gregory rather than Gibson.
+
+## Model evaluation paragraph
+
+*Topic: evaluate Gibson's direct theory of perception.*
+
+> One strength of Gibson's theory is that it explains how perception can be fast and accurate in real, moving environments. Motion parallax, for example, gives direct information about distance when we move, so a driver can judge how close other cars are without needing to work it out. However, the theory struggles to explain visual illusions such as the Müller-Lyer: if perception were direct, we should not be fooled. It also cannot explain perceptual set, where Bruner and Minturn showed that expectation changes what is seen from the same stimulus. Gibson's theory may therefore explain perception in rich, real-world conditions, while Gregory's explains what happens when information is limited or ambiguous.
 
 ## Exam traps
 
@@ -86,6 +127,10 @@ Both studies are controlled laboratory tasks: easy to replicate, but low in ecol
 - Retinal disparity and convergence are **binocular**.
 - An illusion is a **perception** error, not a sensation error: the retinal image is accurate.
 - Name the factor **and** the study that shows it.
+- Bruner and Minturn = **expectation**; Gilchrist and Nesberg = **motivation**. Do not swap them.
+- Rubin's vase and the Necker cube are **ambiguity**, not fiction.
+- Motion parallax is part of **Gibson's** theory; it is the classic example of information in the optic array.
+- "Evaluate" needs a strength **and** a weakness, each developed, and a judgement.
 
 ## Self-test
 
@@ -96,6 +141,11 @@ Both studies are controlled laboratory tasks: easy to replicate, but low in ecol
 5. Why does Gibson's theory struggle with illusions?
 6. What did Gilchrist and Nesberg's study show?
 7. In Bruner and Minturn's study, what caused participants to see a B rather than 13?
+8. What is size constancy, and how does it help explain the Ponzo illusion?
+9. Which explanation accounts for the Kanizsa triangle, and why?
+10. Give one weakness of Gilchrist and Nesberg's study.
+11. Why does the "carpentered world" research support Gregory?
+12. Explain one difference between bottom-up and top-down processing.
 
 **Answers:**
 1. Sensation is detecting physical energy with the senses; perception is the brain's interpretation of that information.
@@ -105,6 +155,11 @@ Both studies are controlled laboratory tasks: easy to replicate, but low in ecol
 5. If perception were direct and accurate, we should not be fooled; illusions suggest the brain is making inferences.
 6. That motivation (hunger) affects perception: hungrier participants judged pictures of food to be brighter.
 7. Seeing it among letters created an expectation (perceptual set) that it was a letter.
+8. Seeing an object as the same size even when its retinal image changes; in the Ponzo illusion the upper bar is read as further away, so constancy scales it up and it looks longer.
+9. Fiction: the brain fills in edges that are not drawn, so a triangle is perceived.
+10. Any one: artificial task (judging brightness of pictures), low ecological validity, ethical concerns about food deprivation.
+11. People's susceptibility to the Müller-Lyer illusion seems to depend on their environment, so perceptual inferences are learned (nurture).
+12. Bottom-up processing starts from the sensory information itself (Gibson), whereas top-down processing uses knowledge and expectation to interpret it (Gregory).
 
 ## Frequently asked questions
 

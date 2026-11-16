@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -39,6 +40,39 @@ Condensed for the final weeks. For the full method and worked examples, use the
 **Set plays:** *A View from the Bridge*, *An Inspector Calls*, *The Curious Incident of the Dog in the
 Night-time* (adapted by Simon Stephens), *Kindertransport*, *Death and the King's Horseman*. Set texts
 change with the specification issue, so confirm yours.
+
+## What the two objectives look like in a paragraph
+
+- **AO1 (15 marks):** a clear argument that answers the question from the first sentence, an informed
+  personal response, and precise reference to moments across the whole play.
+- **AO2 (15 marks):** analysis of language, form and structure. In a play, form and structure include
+  the dramatic choices: stage directions, entrances, act endings, staging and who is silent.
+
+The two objectives carry equal weight, so a paragraph that argues well but never names a method, or
+lists methods without an argument, is only half-built.
+
+## The set plays: key moments, methods and themes
+
+Use this as a map of where to look in your prescribed edition. Context can sharpen an
+interpretation, but it earns no separate marks here.
+
+| Play | Structure and key moments | Methods worth analysing | Central themes |
+|---|---|---|---|
+| *A View from the Bridge* (Arthur Miller) | Two acts. Alfieri opens and closes the play; Act One ends with Marco lifting the chair above Eddie; Act Two brings Eddie's call to the Immigration Bureau, Marco's public accusation and the final fight | Narrator as chorus figure; physical contests replacing words; foreseen tragic ending | Justice and the law, honour, masculinity, obsession, betrayal |
+| *An Inspector Calls* (J B Priestley) | Three acts in one evening in the Birlings' dining room, set in 1912. Each act ends on a cliffhanger; the Inspector questions one character at a time; a final telephone call reverses the family's relief | Lighting change at the Inspector's entrance; timed entrances; dramatic irony from the 1912 setting | Social responsibility, class, gender, the gap between generations |
+| *The Curious Incident of the Dog in the Night-time* (adapted by Simon Stephens) | Two parts. Siobhan reads aloud from Christopher's account; Ed's confession about Wellington; the journey to London; the second part presented as the staging of Christopher's book | Non-naturalistic staging; ensemble playing objects and crowds; narration from Christopher's writing | Truth and lies, independence, family, how the world is perceived |
+| *Kindertransport* (Diane Samuels) | Two acts. Faith finds the boxes of papers in the storage room; the child Eva and the adult Evelyn share the stage; Helga's return after the war; the Ratcatcher appears at moments of threat | Past and present overlapping; objects carrying memory; one actor doubling the Ratcatcher with the officials | Identity, memory, mothers and daughters, loss and survival |
+| *Death and the King's Horseman* (Wole Soyinka) | Elesin's joyful market scenes and his marriage on the day of his duty; Pilkings's intervention; Olunde's return from medical studies in England; the reversal between father and son; Iyaloja's judgement at the end | Song, drumming, dance and verse; contrasting settings of market and Residency; ritual language | Duty and honour, the world of the dead and the living, colonial power, failure of will |
+
+## Planning in five minutes
+
+1. Underline the focus of the question (a character, a relationship, a theme, or how tension is
+   created).
+2. Write a one-sentence argument.
+3. Choose three or four moments from different parts of the play: an opening, a turning point, a
+   climax, the ending.
+4. Beside each, note one dramatic method and its effect on the audience.
+5. Only then open the prescribed edition to find two or three short quotations or stage directions.
 
 ## Dramatic methods checklist
 
@@ -67,6 +101,24 @@ change with the specification issue, so confirm yours.
 | Cliffhanger | An act or play ending that leaves tension unresolved |
 | Prescribed edition | The edition of the play specified for the exam |
 
+## Annotated model paragraph
+
+Question: *How does Priestley use the ending of* An Inspector Calls *to present responsibility?*
+
+> Priestley uses the structure of the ending to show that responsibility cannot be escaped by
+> proving a technicality. **[AO1: argument answers the question]** Once Gerald and Birling establish
+> that the Inspector may not have been a real police officer, the older Birlings relax, and their
+> relief suggests they cared about scandal rather than about the girl. **[AO1: precise reference to
+> Act Three]** Sheila and Eric refuse to join in, so the stage is split between two generations who
+> have learned different lessons. **[AO2: staging and grouping]** The final telephone call, announcing
+> that a girl has just died and an inspector is on his way, then reverses the mood in a moment.
+> **[AO2: structure, reversal]** Because the curtain falls before anyone answers the charge, the
+> audience is left with the question the family tried to avoid, which makes the play's argument
+> about shared responsibility feel directed at them. **[AO2: effect on the audience; AO1 personal
+> response]**
+
+The paragraph contains no history lesson: it earns its marks from argument and method.
+
 ## Open-book habits
 
 - Learn where key scenes sit by act and scene; annotate a separate study copy only.
@@ -81,6 +133,11 @@ change with the specification issue, so confirm yours.
 - Retelling the plot.
 - Long context paragraphs (no AO4 here).
 - Overrunning and squeezing the Section B essay, where AO4 is assessed.
+- Describing a film or stage production you have seen instead of the playwright's choices.
+- Ignoring characters who are on stage but silent: reactions are evidence too.
+- Treating a narrator such as Alfieri, or the reading voice of Siobhan, as neutral rather than as a
+  device that shapes how the audience responds.
+- Writing only about the extract of the play you know best instead of ranging across it.
 
 ## Self-test
 
@@ -90,12 +147,26 @@ change with the specification issue, so confirm yours.
 4. What condition applies to the copy of the play you take into the exam?
 5. What is dramatic irony, and why does it create tension?
 6. Roughly how long should you spend on Section A?
+7. Which moment ends Act One of *A View from the Bridge*, and what does it show without words?
+8. How does the final telephone call in *An Inspector Calls* affect the audience?
+9. Name one method in *Kindertransport* that lets past and present be seen together.
+10. What happens to Olunde in *Death and the King's Horseman*, and why is it a reversal?
+11. In what order should you plan and look up evidence in an open-book essay?
+12. Why does a paragraph need both AO1 and AO2 to score well?
 
 **Answers:** 1. AO1 15, AO2 15. 2. AO4 is not assessed in Section A; marks come from argument and
 analysis of methods. 3. Any three: stage directions, entrances and exits, lighting and sound,
 structure (act endings, time shifts), staging and set, a narrator or framing device. 4. It must be the
 prescribed edition and completely unmarked. 5. The audience knows something a character does not, so
 they watch anxiously for the moment the character discovers it, or judge the character for not
-seeing it. 6. About 45 minutes, half of the 90-minute paper.
+seeing it. 6. About 45 minutes, half of the 90-minute paper. 7. Marco lifts a chair above Eddie's
+head, a silent display of strength that warns Eddie and shifts power between them. 8. It reverses the
+older Birlings' relief and leaves the question of responsibility unresolved as the curtain falls, so
+the audience must answer it. 9. For example: the child Eva and the adult Evelyn on stage at the same
+time; objects in the boxes that carry memory; the Ratcatcher appearing across time. 10. He returns
+from England and dies in his father's place, so the son fulfils the duty the father has failed,
+reversing the expected order. 11. Decide your argument and moments first, then look up short
+quotations or stage directions. 12. The marks are split equally, 15 each, so argument without method
+or method without argument leaves half the credit unearned.
 
 Next: the [Section A Modern Drama practice questions](/resources/edexcel-igcse-english-literature-4et1-section-a-modern-drama-practice/).

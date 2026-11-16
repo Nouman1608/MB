@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -39,6 +40,15 @@ Paper 2). For full explanations and evaluation, read the
 - **Strong version** (determinism): language **determines** thought.
 - **Weak version** (relativity): language **influences** thought. Better supported.
 
+**How the evidence works:**
+
+- **Piaget's view in detail**: children form concepts through acting on the world (for example, object permanence) before they have words for them, so language **reflects** existing thinking. **Sinclair-de-Zwart (1969)** taught non-conserving children the comparative words used by conservers ("longer", "shorter"); most still failed conservation tasks, so words alone did not bring the understanding.
+- **Colour recognition across cultures**: Berinmo speakers in Papua New Guinea, whose language divides colours differently from English, found colours easier to tell apart and remember when they fell either side of a boundary in their own language. English speakers showed the same advantage for English boundaries. This supports the **weak** version.
+- **Recall of events and images**: in **Carmichael and colleagues (1932)**, the same ambiguous drawing labelled "eyeglasses" or "dumbbells" was later drawn to look more like its label, so words shaped memory.
+- **Vocabulary and attention**: the often-repeated claim that Inuit languages have very many words for snow is used to argue that a group's vocabulary reflects what matters in its environment. The claim has been disputed, and a counter-argument is that the words may follow from the thinking rather than cause it, which fits Piaget.
+
+**Evaluation points to learn:** we can perceive and think about things we cannot name, so the strong version fails; new words are invented for new ideas, suggesting thought can come first; the weak version is consistent with the colour and recall evidence.
+
 ## Human vs animal communication
 
 **Animal communication functions:** survival (alarm calls), reproduction (courtship), territory
@@ -52,6 +62,10 @@ Paper 2). For full explanations and evaluation, read the
 **Human language is different because of:** displacement (past, future, absent, imaginary),
 creativity/productivity (unlimited new sentences), abstract ideas and plans.
 
+**Evaluating Von Frisch:** he marked individual bees and moved feeding stations to different distances and directions, so his conclusions came from careful, repeated observation in a natural setting, and later research supported them. However, the findings apply to honeybees only, and they show how limited animal communication is: the dance carries information about the location of resources and nothing else.
+
+**Displacement subtlety:** the bee dance refers to food that is not present, so it shows a very limited form of displacement. Human displacement is unlimited: we can discuss last year, next week, distant countries and imaginary worlds, and use this to **plan ahead**.
+
 ## Non-verbal communication (NVC)
 
 | Type | What it does |
@@ -62,6 +76,14 @@ creativity/productivity (unlimited new sentences), abstract ideas and plans.
 | Postural echo | Mirroring someone's posture; signals rapport, increases liking |
 | Touch | Shows support, affection or status |
 | Personal space | Our "own" zone; varies by culture, status and gender (Hall's zones) |
+
+**Verbal** communication uses words, spoken or written. **Non-verbal** communication is any message sent without words: expressions, gestures, posture, touch and use of space. In conversation the two usually work together, and NVC can contradict the words (a "fine" said with folded arms and no eye contact).
+
+**Personal space differences:**
+
+- **Culture**: people from some cultures habitually stand closer when talking than people from others, which can make one speaker feel crowded and the other feel the conversation is cold.
+- **Status**: people tend to keep more distance from those of higher status; higher-status people take more space and initiate touch more freely.
+- **Gender**: research has often reported that pairs of women sit or stand closer to one another than pairs of men; treat this as a general tendency, not a rule.
 
 ## Explanations of NVC
 
@@ -74,6 +96,13 @@ Ekman found basic expressions recognised in an isolated culture.
 Americans more from the **mouth**, in emoticons and faces, reflecting cultural norms about
 controlling expression. Cultural differences in gestures and personal space also suggest learning.
 
+**More evidence that NVC is innate:**
+
+- **Neonates' imitation**: Meltzoff and Moore (1977) reported that newborn and very young babies imitated adult facial gestures such as sticking out the tongue, too early for this to have been learned by long experience.
+- **Sensory-deprived individuals**: people who have been blind from birth produce the same basic facial expressions as sighted people, although they have never seen them. Matsumoto and Willingham (2009) found that judo athletes born blind showed the same spontaneous expressions of winning and losing as sighted athletes.
+
+**Evaluating Yuki:** a clever, controlled design, because only the eyes or mouth changed in each emoticon or face, so differences in ratings could be traced to that feature. But the participants were university students, the stimuli were simple and artificial, and the study shows how expressions are **read**, not how they are produced.
+
 **Best conclusion:** basic expressions may be innate; culture shapes how they are shown and read.
 
 ## Applying it to a scenario
@@ -84,12 +113,35 @@ stands close to a new classmate may be following the personal-space norms of the
 so the classmate steps back to restore their own comfortable distance. A correct term with no link to
 the scenario usually earns only part of the marks.
 
+## Model evaluation paragraph
+
+*Topic: evaluate Darwin's theory that NVC is innate.*
+
+> One strength of Darwin's theory is evidence from people blind from birth, who show the same basic facial expressions as sighted people even though they could not have learned them by watching others. This suggests expressions such as smiling are innate. However, Yuki found that Japanese participants relied more on the eyes and American participants more on the mouth when judging emotion in emoticons, which suggests the way expressions are interpreted is learned through culture. Darwin's theory may therefore explain the production of basic expressions better than how they are read, and an interactionist view, with innate expressions shaped by culture, fits the evidence best.
+
+## Key terms
+
+| Term | Meaning |
+|---|---|
+| Linguistic determinism | Strong Sapir-Whorf claim that language determines thought |
+| Linguistic relativity | Weak claim that language influences thought |
+| Displacement | Communicating about things not present in time or place |
+| Productivity (creativity) | Combining words to make unlimited new sentences |
+| Postural echo | Unconsciously mirroring another's posture |
+| Personal space | The area around a person that they treat as their own |
+| Innate | Present from birth, not learned |
+| Adaptive | Helping survival and reproduction, so passed on through evolution |
+
 ## Exam traps
 
 - Swapping Piaget and Sapir-Whorf.
 - Angle of the waggle = **direction**, not distance.
 - Yuki supports **learning**, not Darwin.
 - Postural echo is mirroring, not "open posture".
+- Neonate imitation and blind-born expressions support **innate**; cultural differences support **learned**.
+- Saying the bee dance has "no displacement": it has a very limited form, about food location only.
+- Treating the colour studies as support for the **strong** version; they support the weak version.
+- Describing personal space "differences" without saying whether you mean culture, status or gender.
 
 ## Self-test
 
@@ -100,6 +152,11 @@ the scenario usually earns only part of the marks.
 5. What is postural echo?
 6. State one piece of evidence that NVC is innate.
 7. What did Yuki find?
+8. What did Carmichael and colleagues' study show?
+9. Give two functions of eye contact.
+10. What does the round dance tell other bees?
+11. What is displacement, and why is it important for planning?
+12. Give one limitation of Yuki's study.
 
 **Answers:** 1. Language influences (but does not determine) the way we think. 2. That thought comes
 first: teaching words did not give children the understanding of conservation, supporting Piaget.
@@ -107,7 +164,7 @@ first: teaching words did not give children the understanding of conservation, s
 mirroring another person's posture, which signals rapport. 6. Any one: babies show expressions very
 early; blind-born children show similar expressions; basic expressions are recognised across
 cultures. 7. Japanese participants used the eyes more, and American participants the mouth more, to
-judge emotion in emoticons, suggesting NVC interpretation is learned through culture.
+judge emotion in emoticons, suggesting NVC interpretation is learned through culture. 8. That a verbal label changed how an ambiguous drawing was remembered and redrawn, so language can affect recall. 9. Any two: regulating turn-taking in conversation, signalling interest or attraction, expressing emotion. 10. That food is close to the hive, so they search nearby. 11. Talking about things not present in time or place; it lets humans discuss the future and make plans. 12. Any one: participants were students; the emoticons and faces were artificial; it measured interpretation, not production, of expressions.
 
 ## Related resources
 

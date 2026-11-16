@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -39,6 +40,36 @@ Condensed for the final weeks. For worked examples, use the
 A play is written to be **performed**. Every answer should show that you understand it as something
 an audience watches, not just a script on a page. Write "the audience", and explain what they see,
 hear and feel at a given moment.
+
+## What the marks reward
+
+| AO | In Section B | What it looks like |
+|---|---|---|
+| AO1 | Understanding of, and engagement with, themes, ideas and contexts | An argument about what the play suggests, with context used to explain a dramatic choice |
+| AO2 | Analysis of how the playwright creates meanings and effects | Dialogue, stage directions, staging and structure, each tied to an effect on the audience |
+| AO3 | An informed personal response, with appropriate terminology and accurate writing | A clear line of argument, correct dramatic terms, alternative readings weighed |
+
+## Where to look in any play
+
+Whatever your set play, the same structural landmarks give an essay its spine:
+
+| Landmark | What to ask |
+|---|---|
+| Opening scene (exposition) | What situation and conflict are set up, and what does the audience notice first? |
+| First major entrance | How does the arrival of a key character change the stage? |
+| End of each act | What tension is left hanging, and what does the audience expect next? |
+| Climax | Where does the conflict peak, and how is it staged? |
+| Final scene | How is the conflict resolved, or left open, and what final image remains? |
+
+Learn your play by **act and scene**, so that you can place each quotation in this structure from
+memory: Paper 1 is closed book.
+
+## Context in a drama answer
+
+Use one precise link to the attitudes of the play's time or setting, placed where it explains a
+dramatic choice. For example, an audience in a period with rigid ideas about marriage or class would
+feel a character's defiance more sharply, which may explain why the playwright stages that defiance
+publicly rather than in private.
 
 ## Key terms
 
@@ -73,6 +104,37 @@ For every key quotation in your bank, add one line on performance:
 | Do what the wording asks: extract only, or extract and the wider play | Build the answer around development and structure |
 | Comment on staging in the extract | Use staging notes from your quotation bank |
 
+## Worked mini-example
+
+The scene below is original, written for these notes; it is not from any set text.
+
+> *A flat roof at night. JONAH sits close to the edge, his back to the door. The door bangs open.
+> RUTH stands in the doorway, breathing hard. She does not step out.*
+>
+> RUTH: Mum's made tea.
+>
+> JONAH: I'm not hungry.
+>
+> RUTH: She's made it anyway.
+>
+> *Pause. RUTH sits down on the step, exactly where she is. She does not look at him.*
+>
+> RUTH: I'll wait, then.
+
+**Annotated model paragraph** (passage-based question: how does the playwright create tension?):
+
+> The playwright creates tension by letting the setting carry a danger that the dialogue refuses
+> to name. **[AO1: argument answers the question]** The opening image of Jonah close to the edge,
+> with his back to the door, tells the audience before a word is spoken that he has turned away
+> from home, and the edge of the roof becomes a visible threat. **[AO2: setting and staging,
+> effect on the audience]** Ruth's choice not to step out of the doorway suggests she fears that
+> any sudden move might push him further, so her stillness is as tense as action. **[AO2: stage
+> direction and movement]** Their talk of tea is deliberately ordinary; the subtext of the line
+> "She's made it anyway" is that someone is still waiting for him. **[AO2: dialogue and subtext;
+> AO3: personal reading]** The "Pause" and Ruth's decision to sit without looking at him turn
+> patience into a kind of power, leaving the audience to hold its breath until he responds.
+> **[AO2: pause, structure of the exchange; effect on the audience]**
+
 ## Paragraph pattern
 
 **Claim → short quotation or stage direction → dramatic method → effect on the audience → link to
@@ -86,6 +148,10 @@ the question or the play's structure.**
 - Quoting long speeches instead of the key words.
 - Running out of time because Section A overran.
 - Context with no link to a dramatic choice.
+- Misremembered quotations: in a closed-book paper, a precise paraphrase of a moment is safer.
+- On a passage-based question, ignoring part of the wording, such as "and elsewhere in the play".
+- Treating stage directions as decoration instead of the playwright's deliberate choices.
+- Ending without a comment on the final scene or the play's structure.
 
 ## Self-test
 
@@ -95,6 +161,12 @@ the question or the play's structure.**
 4. Why is dramatic irony useful for analysing tension?
 5. Why should you write "the audience" rather than "the reader"?
 6. What should you do first in a passage-based question?
+7. Which assessment objective covers context, and how should context be used?
+8. Name four structural landmarks you should be able to locate in your play.
+9. What is subtext? Give an example from the worked scene.
+10. Why does Ruth's choice not to step out of the doorway create tension?
+11. Is Paper 1 open or closed book, and how should that affect your revision?
+12. What is exposition, and why might a question focus on it?
 
 **Answers:** 1. 30 marks, half of Paper 1. 2. A soliloquy is spoken alone on stage; an aside is a
 remark heard by the audience but not by the other characters present. 3. Any two: tone or pace of
@@ -102,7 +174,14 @@ delivery; who else is on stage and their reaction; what the stage directions req
 audience knows more than a character, so they anticipate consequences and feel tension or dread.
 5. It shows you understand the text as a play written for performance, which is part of analysing
 the playwright's methods. 6. Read the wording carefully, then analyse the printed extract closely
-before moving outward, if the question asks you to refer to the rest of the play.
+before moving outward, if the question asks you to refer to the rest of the play. 7. AO1 (themes,
+ideas and contexts); one precise link placed where it explains a dramatic choice. 8. Any four of: the
+opening scene, the first major entrance, the end of each act, the climax, the final scene. 9. The
+meaning beneath the words; "She's made it anyway" is about tea on the surface but means that someone
+is still waiting for him. 10. Her stillness suggests she fears any sudden move could push him
+further, so the audience senses the danger. 11. Closed book; learn the play by act and scene, with a
+bank of short quotations and staging notes. 12. Information given early to set up the situation; it
+shows how the playwright establishes conflict and what the audience is led to expect.
 
 ## Related resources
 

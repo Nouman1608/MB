@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -45,6 +46,18 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 | Retroactive interference | New learning disrupts recall of old learning |
 | False memory | Recalling something that did not happen, or not in that way |
 
+## Processes and types of memory
+
+**Encoding, storage, retrieval** are the three processes: getting information in, keeping it, getting it out. Information can be encoded **acoustically** (by sound), **visually** (by image) or **semantically** (by meaning). Forgetting can happen at any stage: something never encoded cannot be recalled, and something stored may still fail to be retrieved without the right cue.
+
+| Type of LTM | Example | Can you say it in words? |
+|---|---|---|
+| Episodic | Your last birthday party: who was there, where, how it felt | Yes, and it is tied to a time and place |
+| Semantic | Paris is the capital of France; the meaning of "photosynthesis" | Yes, but usually without remembering when you learned it |
+| Procedural | Riding a bike, typing, tying shoelaces | Hard; it is shown through doing |
+
+Episodic memories can become semantic over time: the details of a lesson fade, but the fact you learned stays.
+
 ## Multi-store model at a glance
 
 | Store | Coding | Capacity | Duration | Moves on by |
@@ -53,8 +66,12 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 | Short-term | Mainly acoustic | About 5-9 items | About 18-30 seconds | Rehearsal |
 | Long-term | Mainly semantic | Potentially unlimited | Potentially a lifetime | Retrieval back to STM |
 
+**How information flows:** stimulus → **sensory store** → (attention) → **STM** → (rehearsal) → **LTM**. Information not attended to decays from the sensory store; information in STM is lost by **displacement** (pushed out by new items) or **decay** if not rehearsed; information in LTM is retrieved back into STM when it is needed.
+
 **For:** clear and testable; the serial position curve fits it; HM's case suggests STM and LTM are separate.
 **Against:** stores treated as single units (Clive Wearing kept procedural but lost episodic memory); rehearsal is not the only route to LTM; evidence mostly from artificial word lists.
+
+**Case studies in one line:** **HM** (Henry Molaison) had brain surgery for epilepsy and afterwards could hold information briefly but not form new long-term memories, supporting separate STM and LTM. **Clive Wearing**, after a brain infection, lost much of his episodic memory but could still play the piano, suggesting LTM has separate types. Case studies give rich evidence, but each concerns one unusual person, and it is not always clear what the brain was like before the damage.
 
 ## Key studies
 
@@ -63,12 +80,14 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 - *Results:* U-shaped curve; start and end recalled best, middle worst.
 - *Conclusion:* primacy = rehearsed into LTM; recency = still in STM. Supports separate stores.
 - *Evaluation:* controlled and replicable, but word lists lack ecological validity.
+- *Why the effects change:* a delay before recall, filled with another task, removes the recency effect (the last items are displaced from STM) but leaves the primacy effect, which is what the multi-store model predicts.
 
 **Bartlett (War of the Ghosts)**
 - *Method:* English participants read an unfamiliar Native American folk tale and reproduced it several times.
 - *Results:* the story got shorter; unfamiliar details were left out or changed into familiar ones.
 - *Conclusion:* memory is reconstructive and shaped by schemas and effort after meaning.
 - *Evaluation:* explains everyday distortions and eyewitness errors; but no standardised instructions or tight control, and qualitative data were scored subjectively.
+- *Typical changes:* **omission** (details that did not make sense were left out), **transformation** (unfamiliar items replaced by familiar ones, such as a canoe becoming a boat), and **familiarisation** (the story became more like a conventional English story).
 
 ## Accuracy of memory: three factors
 
@@ -78,12 +97,36 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 
 **Memory hook:** *pro* = forwards, so old interferes forwards with new; *retro* = backwards, so new interferes backwards with old.
 
+**More detail on each factor:**
+
+- **Interference** is most likely when the two sets of information are **similar**, such as two languages or two phone numbers. It explains forgetting from LTM as a retrieval problem: the memory is there, but the competing one gets in the way.
+- **Context**: Godden and Baddeley's divers learned word lists either on land or underwater, then recalled them in the same or the other setting. Recall was better when the settings matched. The setting acted as a **cue**. Applied to revision: mentally picturing the classroom where you learned something may help recall in an exam hall.
+- **False memories**: research led by Elizabeth Loftus showed that when family members' accounts included a made-up childhood event, some participants came to "remember" it, and even added details. This fits Bartlett: if memory is reconstructed each time, suggested information can be built in. It matters for eyewitness testimony, where leading questions could alter what a witness recalls.
+
+## Applying it to a scenario
+
+*Scenario: Leo hears a list of twelve shopping items once. He remembers milk and bread (the first two) and eggs and rice (the last two), but not the middle items.*
+
+- **Name**: the serial position effect.
+- **Explain**: the first items had more rehearsal, so they reached LTM (**primacy**); the last items were still in STM when he recalled them (**recency**); the middle items were displaced from STM before being rehearsed.
+- **Link**: refer to "milk and bread" and "eggs and rice" from the stem.
+
+## Model evaluation paragraph
+
+*Topic: evaluate Bartlett's theory of reconstructive memory.*
+
+> A strength of Bartlett's theory is that it explains everyday memory errors, such as two people remembering the same event differently, because each reconstructs it using their own schemas. Research on false memories supports this, showing that suggested details can be built into memories. However, Bartlett's War of the Ghosts study lacked control: participants were not given standardised instructions and were not asked to be accurate, so some changes may have been deliberate guesses rather than memory errors. The story was also deliberately strange to his participants, so it may exaggerate how much memory is distorted for familiar material. Overall, the theory is well supported, but the original study is a weak test of it.
+
 ## Exam traps
 
 - STM is acoustic and LTM is semantic, not the other way round.
 - The recency effect is explained by **short-term** memory.
 - "Memory is like a recording" contradicts Bartlett: recall is rebuilt.
 - Name the type of interference **and** apply it to the scenario.
+- Primacy is explained by **rehearsal into LTM**, not by STM.
+- Procedural memories are hard to put into words; do not call riding a bike "semantic".
+- Context-dependent recall is about **cues** at retrieval matching those at encoding.
+- Bartlett's participants were **English**, reading a Native American story; the cultural mismatch is what produced the schema-driven changes.
 
 ## Self-test
 
@@ -94,6 +137,11 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 5. Give **one** weakness of Bartlett's War of the Ghosts study.
 6. A student revises French then Spanish, and in the French test keeps writing Spanish words. Which type of interference is this?
 7. Why might a student remember more if tested in the room where they learned?
+8. Name the three processes of memory.
+9. Which type of memory holds the fact that water boils at 100°C?
+10. What happens to the recency effect if recall is delayed by another task, and why?
+11. Give one example of a transformation in War of the Ghosts recall.
+12. How do false memories support Bartlett's theory?
 
 **Answers:**
 1. Mainly acoustic; about 5-9 items; about 18-30 seconds without rehearsal.
@@ -103,6 +151,11 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 5. Participants were not given standardised instructions or asked to be accurate, so some changes may have been guesses (or: qualitative data were judged subjectively).
 6. Retroactive interference: the newer learning (Spanish) disrupts the older (French).
 7. The room provides context cues present at encoding, which help retrieval.
+8. Encoding, storage and retrieval.
+9. Semantic memory.
+10. It disappears, because the last items are displaced from STM by the task before they can be recalled.
+11. Unfamiliar items were replaced by familiar ones, such as a canoe becoming a boat.
+12. They show that memories are rebuilt, so suggested information can become part of what is recalled.
 
 ## Frequently asked questions
 

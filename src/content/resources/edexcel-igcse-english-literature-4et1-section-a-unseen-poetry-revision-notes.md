@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -37,6 +38,17 @@ Condensed for the final weeks. For the full method and a worked example, use the
 | Recommended time | 35 minutes |
 | What you need to know beforehand | Nothing about the poem: only the method |
 
+## AO2 in three strands
+
+| Strand | What to look at | Question to ask |
+|---|---|---|
+| Language | Word choice, imagery, sound, tone, and grammar (questions, commands, pronouns, tense) | What does this word or image make the reader see or feel? |
+| Form | Stanza and line length, rhyme or its absence, rhythm, a recognisable form such as a sonnet | Does the shape support or strain against what is being said? |
+| Structure | How the poem moves: the turn, what changes from first to last stanza, a line held back | Why does the change come here, and where does the poem leave us? |
+
+"Meanings and effects" is the part of AO2 that earns the credit. Since AO2 is the only objective, a
+top answer weaves all three strands into one argument rather than giving each its own paragraph.
+
 ## The five-step method
 
 1. **Sense:** who speaks, to whom, about what; mood at start and end; read the title.
@@ -45,6 +57,13 @@ Condensed for the final weeks. For the full method and a worked example, use the
 4. **Overview:** one sentence answering the question and naming the poem's movement.
 5. **Plan and write:** three or four paragraphs in the poem's order, each mixing language, form and
    structure; leave two or three minutes to reread.
+
+A workable split of the 35 minutes: about 3 minutes for the first read, 5 for annotating, a few for
+the turn and the overview, about 22 for writing and 2 or 3 to reread.
+
+Questions usually invite you to **explore how the poet presents** a feeling, relationship, place or
+experience. "How" signals methods and effects, so every paragraph needs at least one named choice and
+what it does.
 
 ## Key terms
 
@@ -66,6 +85,45 @@ Condensed for the final weeks. For the full method and a worked example, use the
 **Method + short quotation + effect + link to the question.** For example: "The single-line final
 stanza leaves the speaker's decision hanging, so the reader feels her uncertainty."
 
+## Worked mini-example
+
+The poem below is original, written for these notes; it is not by a published poet.
+
+> **Power Cut**
+>
+> *The fridge stops first, then the television*
+> *swallows its blue light mid-sentence.*
+> *For a moment none of us knows*
+> *where our hands are.*
+>
+> *My father finds the candles by memory.*
+> *Faces arrive one at a time, half-gold.*
+> *We talk the way people talk in old films,*
+> *leaning in, as if the dark might listen.*
+>
+> *When the lights come back we blink like strangers,*
+> *and somebody laughs, and nobody blows the candles out.*
+
+Question: *Explore how the poet presents a family's experience of the power cut.*
+
+**Annotated model paragraph:**
+
+> The poet presents the power cut as an interruption that unexpectedly draws the family closer.
+> **[overview: answers the question and names the movement]** The personified television that
+> "swallows its blue light mid-sentence" suggests that the usual voice in the room has been cut
+> off, leaving a silence the family must fill themselves. **[language: personification and its
+> effect]** The enjambment that carries "none of us knows" on to the short line "where our hands
+> are" makes the reader pause in the same confusion, so the form enacts the disorientation of the
+> dark. **[form and structure: enjambment, line length]** In the second stanza the faces that
+> "arrive one at a time, half-gold" are rebuilt slowly by candlelight, and the simile of talking as
+> in "old films" hints at an intimacy the family has lost. **[language: imagery, simile]** The
+> shorter final stanza turns the poem: the light makes them "blink like strangers", yet no one blows
+> out the candles, so the ending suggests they want to keep what the dark gave them. **[structure:
+> the turn and the ending; effect on the reader]**
+
+Every sentence names a method and its effect, and the paragraph follows the poem's movement to its
+final line.
+
 ## Traps
 
 - Paraphrasing the poem rather than analysing it.
@@ -74,6 +132,10 @@ stanza leaves the speaker's decision hanging, so the reader feels her uncertaint
 - Guessing about the poet's life or period: AO2 credits analysis of the text in front of you.
 - Running out of time before the ending, which often changes the meaning.
 - Overrunning 35 minutes and squeezing Section C, which is worth twice as much.
+- Separate paragraphs on "language", "form" and "structure" that never join into an argument.
+- Calling every repeated sound "alliteration" without saying what mood it creates.
+- Ignoring the title, which often frames the whole poem.
+- Assuming the speaker is the poet.
 
 ## How Section A helps the rest of Paper 1
 
@@ -89,13 +151,25 @@ practice improves both sections. See the
 4. Why is "the poet uses alliteration" a weak sentence on its own?
 5. Where in a poem should you look first for the "turn"?
 6. Why is speculating about the poet's life unhelpful here?
+7. What are the three strands of AO2, and what does "structure" cover?
+8. In *Power Cut*, what does the short final line of the first stanza contribute?
+9. What is a paradox, and why might a poet use one?
+10. Roughly how should the 35 minutes be divided?
+11. What does the command word "explore" invite?
+12. Why is a separate paragraph for each AO2 strand a weaker structure?
 
 **Answers:** 1. AO2: language, form and structure, and the meanings and effects they create.
 2. 20 marks; 35 minutes. 3. Enjambment runs a sentence over a line break; caesura is a pause within
 a line. 4. It names a feature without quoting precisely or explaining the effect on meaning or the
 reader. 5. At connectives such as "but" or "yet", changes of tense or pronoun, stanza changes and the
 final lines. 6. The poem is unseen and marks are for analysing the text on the page, so guesswork adds
-nothing and can mislead you.
+nothing and can mislead you. 7. Language, form and structure; structure covers how the poem moves
+from beginning to end, including the turn, changes between stanzas, enjambment and caesura. 8. It
+makes the reader pause in the same confusion as the family, so the form enacts the disorientation. 9. A statement that
+seems to contradict itself; it can capture a complicated or mixed feeling. 10. About 3 minutes first
+read, 5 annotating, a few for the turn and overview, about 22 writing, 2 or 3 rereading. 11. More
+than one interpretation, and close attention to how methods create meaning. 12. It separates what
+should work together, so the answer lists features instead of building one argument about the poem.
 
 Next: try the
 [Section A Unseen Poetry practice questions](/resources/edexcel-igcse-english-literature-4et1-section-a-unseen-poetry-practice/).

@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-16: Please confirm against the current specification and NEA instructions who selects the text and task, what feedback teachers may give on drafts, and whether any word guidance applies."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -63,6 +64,27 @@ A quick-reference summary. For the full method and a worked plan, use the
 
 From Level 3 upwards the descriptors refer to the **whole text**.
 
+## What the objectives ask of a coursework essay
+
+- **AO1 (themes, ideas, contexts):** an argument about what the novel means, with context used to
+  explain why the writer shapes an idea in a particular way.
+- **AO2 (methods and effects):** analysis of narrative voice, structure, setting, symbolism and
+  language, each tied to an effect on the reader.
+- **AO3 (personal response and expression):** a sustained, personal argument, accurate terminology,
+  and controlled, accurate writing. With time to redraft, slips in spelling, quotation and
+  terminology are harder to excuse than in an exam.
+
+## Moving up the levels
+
+| From... | To... | What changes in the writing |
+|---|---|---|
+| Level 3: explained comments | Level 4: clear understanding | Each point explains its effect, and the essay answers the task throughout |
+| Level 4: clear | Level 5: thoughtful, developed | Points build on each other; quotations are analysed in detail; context explains choices |
+| Level 5: developed | Level 6: convincing, critical | A single controlling argument; patterns traced across the whole novel; alternative readings weighed |
+
+The jump to the top levels is rarely about knowing more of the plot. It comes from **shaping** what
+you know into an argument and showing how the writer's choices create it.
+
 ## Key terms
 
 | Term | Meaning |
@@ -82,6 +104,36 @@ From Level 3 upwards the descriptors refer to the **whole text**.
 - Can your thesis be disagreed with?
 - Will the plan use evidence from **across the whole novel**?
 
+## A whole-text evidence grid
+
+Before drafting, fill a grid with three rows (beginning, middle, end) and three columns (moment,
+method, how it supports the thesis). Any empty row shows where the essay will narrow. Add a fourth
+column for context only where it explains a choice.
+
+## Annotated model paragraph
+
+This paragraph uses *Frankenstein* (Mary Shelley, first published 1818) as an example of a
+substantial novel outside the set list. Task: *How does Shelley present responsibility?*
+
+> Shelley presents Victor's failure of responsibility as beginning at the very moment of his
+> success. **[AO3: argued, personal thesis point]** On the night the creature first opens its eyes,
+> Victor does not tend to it but flees the room and tries to sleep, so the act of creation is
+> followed immediately by abandonment. **[AO1: precise reference to the creation scene, Chapter 5
+> in most editions]** Because this happens inside Victor's own retrospective narrative, the reader
+> hears him condemn himself while still excusing his flight, and that gap between telling and
+> judging invites us to hold him more responsible than he holds himself. **[AO2: narrative
+> perspective and its effect]** The structure confirms the point: when the creature tells his own
+> story at the centre of the novel, his account of being rejected answers Victor's, so Shelley lets
+> the abandoned creation speak for himself. **[AO2: frame structure; AO1: whole-text pattern]**
+> Writing when experiments with electricity on the body were widely discussed, Shelley turns
+> scientific ambition into a question of duty to what one has made. **[AO1: integrated context]**
+
+## Using a critical view well
+
+Paraphrase the view, name its source in your bibliography or a footnote as your centre requires,
+then test it against a moment in the text: agree, qualify or disagree. A critic's opinion that you
+simply repeat adds nothing to AO3.
+
 ## Drafting order
 
 1. Reread the novel with the task in mind.
@@ -99,6 +151,10 @@ From Level 3 upwards the descriptors refer to the **whole text**.
 - An unfocused task.
 - Context or criticism replacing your own analysis.
 - Submitting anything that is not your own work.
+- Quotations left unchecked against the text, when the coursework conditions let you check them.
+- A conclusion that only summarises, instead of returning to the thesis with a judgement.
+- Choosing a novel because a summary online makes it look easy rather than because it rewards
+  rereading.
 
 ## Self-test
 
@@ -108,12 +164,24 @@ From Level 3 upwards the descriptors refer to the **whole text**.
 4. Which AO carries the smallest share of the NEA?
 5. What does "whole text" mean for planning?
 6. What should you revise first in a draft: accuracy or argument?
+7. Which three things does AO3 cover in the NEA?
+8. What usually separates a Level 5 essay from a Level 6 one?
+9. What does a whole-text evidence grid help you spot?
+10. In the model paragraph, which method shows that Victor's narration is not neutral?
+11. How should you use a critic's view?
+12. Rewrite this task to make it focused: "Write about the ending."
 
 **Answers:** 1. Route B; it is taken instead of Route A's unseen prose section. 2. 30 marks, 20%.
 3. Any three of: prose fiction; substantial and whole; not a prescribed set text; similar in challenge
 to the set texts; from the British Isles canon or seminal world literature. 4. AO3 (4%). 5. Evidence
 and analysis from the beginning, middle and end of the novel. 6. Argument first, then analysis, then
-accuracy.
+accuracy. 7. An informed personal response, appropriate terminology, and coherent, accurate writing.
+8. A single controlling argument that traces patterns across the whole novel and weighs alternative
+readings, rather than a series of developed but separate points. 9. Parts of the novel your evidence
+does not yet reach. 10. Retrospective first-person narration: Victor tells the story after the
+events, so the reader can judge the gap between his account and his actions. 11. Paraphrase it,
+acknowledge the source, then test it against a moment in the text and give your own judgement.
+12. For example: "How far does the ending resolve the novel's conflict between ambition and duty?"
 
 ## Related resources
 

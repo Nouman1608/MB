@@ -20,6 +20,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-15
+updatedDate: 2026-11-16
 featured: false
 ---
 
@@ -78,6 +79,43 @@ wider text.**
 Keep quotations to two to six words. Write "the writer presents..." so that the writer's choices stay
 in view.
 
+## Worked mini-example: a passage-based paragraph
+
+The extract below is original, written for these notes; it is not from any set text.
+
+> *The classroom was smaller than Daniel remembered, as classrooms always are. Someone had painted
+> over the crack above the board, but he could still see where it ran, the way you can still see a
+> scar once you know it is there. He set his bag on the teacher's desk. Thirty chairs faced him.
+> Twenty years ago he had sat in the third row, by the window, and been told he would never amount
+> to much. He straightened the register. Outside, a bell rang, and the corridor began to fill with
+> voices that did not yet know his name.*
+
+**Annotated model paragraph** (question: how does the writer present Daniel's feelings about
+returning?):
+
+> The writer presents Daniel's return as a quiet triumph still shadowed by an old hurt. **[AO1:
+> interpretation answers the question]** The simile comparing the painted-over crack to a scar that
+> remains visible "once you know it is there" suggests that the past has been covered but not
+> healed, at least for him. **[AO2: simile and its effect]** The writer withholds the cause of the
+> scar until the sentence about being told he would "never amount to much", so the reader
+> understands his feelings at the same moment the memory surfaces. **[AO2: structure, withholding]**
+> His small, controlled actions, setting down his bag and straightening the register, may show a
+> man steadying himself, while the final image of voices that "did not yet know his name" turns
+> the ending outward to a future he can shape. **[AO2: characterisation through action and ending;
+> AO3: tentative personal reading]**
+
+In the exam, if the question also asks about the wider text, follow a paragraph like this with one
+that links the extract to an earlier or later moment.
+
+## Planning an essay-style answer
+
+| Part of the novel | What to bring | Why it matters |
+|---|---|---|
+| Opening chapters | How the focus is first established, and the narrative voice | Sets up the starting point the essay measures change from |
+| A turning point | The moment the focus is tested or changed | Shows development, not just description |
+| The climax | Where the conflict peaks | Lets you analyse structure and pace |
+| The final chapter | Where the writer leaves the focus | Gives the conclusion a judgement about the writer's purpose |
+
 ## Context: use it, do not bolt it on
 
 One precise contextual point placed where it explains a choice in the text is worth more than a
@@ -98,6 +136,9 @@ question or challenge it?
 - Long, misremembered quotations.
 - Context with no link to the text.
 - Mixing in details from a film adaptation or a different edition.
+- Answering a passage-based question as if it were essay-style, or the reverse.
+- Treating a first-person narrator's judgements as the writer's own.
+- A conclusion that summarises instead of saying what the writer wants the reader to think.
 
 ## Self-test
 
@@ -108,13 +149,23 @@ question or challenge it?
 5. Which assessment objective covers the writer's methods?
 6. What should every analytical paragraph contain after the quotation?
 7. How long should you spend on Section A?
+8. What is retrospective narration, and what gap can it create?
+9. In the worked extract, why does the writer delay the memory of what Daniel was told?
+10. Name four parts of a novel an essay-style plan should draw on.
+11. What should you do after analysing the extract if the question mentions the wider text?
+12. Rewrite as a stronger AO2 comment: "The writer uses a simile."
 
 **Answers:** 1. 30 marks; closed book. 2. An essay-style question on the whole text or a
 passage-based question with a printed extract. 3. Limited stays close to one character's perceptions;
 omniscient moves between many minds and can comment freely. 4. It recurs, so tracing it gives you
 evidence from several points and a line of argument across the novel. 5. AO2. 6. The method, its
 effect on the reader and a link back to the question. 7. About 45 minutes, including about five
-minutes of planning.
+minutes of planning. 8. An older narrator looking back on events; it creates a gap between the younger
+self's view and the older self's judgement. 9. Withholding it means the reader understands his
+feelings at the same moment the memory surfaces, which gives the moment more force. 10. The opening
+chapters, a turning point, the climax and the final chapter. 11. Link the extract to an earlier or
+later moment, so the answer does both parts of the task. 12. For example: "Comparing the hidden
+crack to a scar shows that the hurt has been covered, not healed."
 
 ## Related resources
 

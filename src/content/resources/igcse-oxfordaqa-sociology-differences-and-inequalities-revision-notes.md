@@ -19,6 +19,7 @@ reviewer: "naqiya-yousaf"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-16
 featured: false
 reviewNote: "2026-11-08: credited to naqiya-yousaf (accountable teacher, D-379)."
 ---
@@ -49,6 +50,11 @@ Ten ways of classifying people: social class; status; caste; slavery; sex and ge
 ethnicity; age and generation/cohort; religion; ability/disability; nationality. Identities can be
 **individual** (how I see myself) or **collective** (a shared group belonging).
 
+- **Ascribed** positions are given at birth (sex, caste, ethnicity); **achieved** positions are gained through effort or choice (occupation, qualifications).
+- **Closed** systems allow almost no movement: caste fixes position by birth, and slavery treats people as property. **Open** systems, such as class, allow mobility, at least in principle.
+- **Age and cohort**: a cohort shares experiences (for example growing up with the internet), which can shape attitudes and opportunities; **ageism** is prejudice or discrimination based on age.
+- **Religion, disability and nationality** also bring differences in status, rights and access, for example citizenship rules that limit migrants' rights to work or vote.
+
 ## 3.2.1.2 Inequalities
 
 Inequalities in power and life chances: **employment, education, health, life expectancy, social
@@ -70,6 +76,13 @@ opportunities) and **society** (wasted talent, conflict).
 - **Mobility:** upward or downward; **intergenerational** (versus parents) or **intragenerational**
   (within a career). Factors: education, family background, gender, ethnicity, the job structure.
 
+**More evaluation for extended answers**
+
+- *Marxism*: explains why inequality persists across generations, but the predicted revolution did not happen in advanced capitalist societies, and the growth of a large middle class complicates the two-class model.
+- *Functionalism*: a doctor's training may justify high pay, but many vital, low-paid jobs (care work, cleaning) suggest rewards reflect power and market position, not importance; inherited wealth lets some people reach the top without merit.
+- *Weberianism*: more flexible because a person can rank differently on class, status and party (a wealthy person with low status, for example), but critics say it describes inequality without fully explaining why it is so persistent.
+- *Measuring class*: occupation-based scales miss those outside paid work and the very wealthy who live on assets, so the measure chosen changes the picture.
+
 ## 3.2.1.4 Gender
 
 - **Walby:** six structures of patriarchy — paid work, household production, culture, sexuality, male
@@ -77,6 +90,8 @@ opportunities) and **society** (wasted talent, conflict).
 - **Connell:** **hegemonic masculinity** — the dominant ideal of manhood.
 - Roles, status and power vary between societies, so gender is socially constructed.
 - **Sexism** (prejudice), **sex discrimination** (unequal treatment), the **glass ceiling**.
+- **Private patriarchy**: women's lives controlled within the household, by a husband or father. **Public patriarchy**: women are in paid work and public life but meet disadvantage there, such as lower-paid, part-time or less senior roles.
+- **Evaluate**: Walby's model shows patriarchy taking new forms rather than disappearing; intersectional critics add that class and ethnicity shape how different women experience it.
 
 ## 3.2.1.5 Ethnicity
 
@@ -86,6 +101,9 @@ opportunities) and **society** (wasted talent, conflict).
 - **Du Bois:** the "colour line" and **double consciousness**.
 - **Assimilation** (adopting the majority culture) versus **multiculturalism** (coexistence with equal
   respect).
+- **Racism** works at individual level (prejudice, abuse) and at **institutional** level, where an organisation's routines disadvantage a group even without individual intent, for example in recruitment or policing.
+- **Diasporas** (such as communities with origins in South Asia or the Caribbean living in other countries) keep links with a homeland, and young people in them may develop **hybrid identities** that combine cultures.
+- **Double consciousness**: du Bois's idea that Black Americans saw themselves both as they were and through the eyes of a society that looked down on them.
 
 ## 3.2.1.6 Reducing inequality
 
@@ -108,12 +126,31 @@ necessary to motivate the most able to fill the most important
 roles, so inequality reflects merit. (2)
 ```
 
+## Model paragraph: reducing inequality
+
+*Topic: how far can social democratic welfare states reduce inequality?*
+
+> Social democratic welfare states use progressive taxation, where higher earners pay a larger share of their income, to fund universal services such as healthcare and education. This narrows gaps in life chances, because access to a doctor or a school no longer depends on ability to pay. However, Marxists argue that welfare only softens capitalism: the means of production stay in private hands, so the basic division between owners and workers remains. Wealth, which is far more unequal than income, is also hard to reduce through income tax alone. Overall, welfare states can reduce some inequalities in life chances but are unlikely to eliminate class inequality.
+
+Why it works: explains how the policy works, links it to a life chance, gives a theoretical counter-argument, uses the wealth and income distinction, and ends with a judgement.
+
+## Command words
+
+- **Identify**: name a point briefly.
+- **Describe**: give its features in detail.
+- **Explain**: give the reason or process, developed with a consequence or example.
+- **Discuss how far**: arguments on both sides, linked to sociologists, and a reasoned conclusion.
+
 ## Exam traps
 
 - Mixing up wealth and income.
 - Treating race and ethnicity as identical.
 - Calling Weber a Marxist.
 - Naming a sociologist without stating their idea.
+- Writing that caste allows mobility: it is a closed, ascribed system.
+- Using "racism" for every inequality between ethnic groups without explaining whether it is individual or institutional.
+- Saying feminism claims "nothing has changed": Walby describes a change in form, from private to public patriarchy.
+- Describing intersectionality as just "lots of inequality"; it is about how differences combine in one person's experience.
 
 ## Frequently asked questions
 
@@ -133,11 +170,18 @@ The specification lists employment, education, health, life expectancy and socia
 3. Distinguish intergenerational from intragenerational mobility.
 4. Who identified six structures of patriarchy?
 5. Give one criticism of development aid.
+6. What is the difference between an ascribed and an achieved position?
+7. Why is caste called a closed system?
+8. What did Connell mean by hegemonic masculinity?
+9. What is the difference between private and public patriarchy?
+10. What is a hybrid identity?
+11. Give one criticism of Davis and Moore's theory.
+12. Why can occupation be a limited measure of class?
 
 **Answers:** 1. Class, status and party. 2. The Marxist idea that workers accept ruling-class beliefs
 that make inequality seem fair. 3. Intergenerational compares a person with their parents;
 intragenerational is movement within one person's working life. 4. Sylvia Walby. 5. It can create
-dependency, or serve the interests of donor countries.
+dependency, or serve the interests of donor countries. 6. Ascribed positions are given at birth; achieved positions are gained through effort or choice. 7. Position is fixed by birth and movement between castes is not allowed. 8. The dominant ideal of manhood, which ranks some men above other men and above women. 9. Private patriarchy is control of women within the household; public patriarchy is disadvantage in paid work and public life. 10. An identity that blends more than one culture, often among young people in diaspora communities. 11. Rewards may reflect power rather than importance, and inherited wealth means positions are not allocated purely on merit. 12. It misses people outside paid work and the very wealthy who live on assets rather than wages.
 
 ## Related resources
 
