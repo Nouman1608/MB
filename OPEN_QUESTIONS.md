@@ -11,7 +11,7 @@ Every item below is unresolved and needs the owner, a qualified subject teacher 
 | A3 | The English policy said every resource "is checked against that document before publication", but the ledger records 95 UNVERIFIED | Narrow it, with a computed count |
 | A4 | AP "Reviewed by [name], 8 Nov 2026": the date read as a review event, and no profile listed AP | Align the display with D-379 and add the AP courses to the profiles |
 | A5 | 22 more Psychology pages (Cambridge 9990, AQA 7182) had the same unsupported "Checked by … 8 Nov 2026" | Remove the line in the same way |
-| A10 (OQ-6) | DP Language A: Literature HL essay (20) and individual oral (40) totals from teacher-resource sites | Remove them the same way; done in D-472 |
+| A10 (OQ-6) | DP Language A: Literature HL essay (20) and individual oral (40) totals from teacher-resource sites | Remove them the same way; done in D-473 |
 | A9 (OQ-3) | DP Lang & Lit Paper 2 total (25) from thinkib.net vs the policy "never a tutoring site" | Remove the figure until an IB document confirms it; done in D-455 |
 | A8 (OQ-1) | Internal reviewNotes "<date>: reviewed by X." contradict D-379 | Reword mechanically, keeping the date; done in D-453 (7,606 notes) |
 | A7 (OQ-5) | "23 named subject specialists" (home) vs "8 named teachers" (policy): same kind of label, two definitions | Name the unit on both; done in D-451 |

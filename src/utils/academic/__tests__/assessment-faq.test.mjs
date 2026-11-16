@@ -69,7 +69,7 @@ test('DP Language A: Language and Literature Paper 2 says "mark total not confir
   assert.match(s, /Paper 1 \(Paper 1 -- Guided Textual Analysis\) — 1h 15m, 20 marks/);
 });
 
-// D-472 (OQ-6): Language A: Literature HL essay and individual oral totals are not shown.
+// D-473 (OQ-6): Language A: Literature HL essay and individual oral totals are not shown.
 test('DP Language A: Literature never prints the HL Essay or Individual Oral totals', () => {
   const s = answer(find('DP Language A: Literature'));
   const parts = s.split(/; |\. (?=[A-Z]{2} candidates take)/).filter((x) => /HL Essay|Individual Oral/.test(x));
