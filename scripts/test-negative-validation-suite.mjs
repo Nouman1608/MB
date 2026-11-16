@@ -72,8 +72,13 @@ function run(cmd) {
   }
 }
 
-function withMutation(file, mutate, { validatorCmd, expectSubstring, label }) {
-  const original = readFileSync(file, 'utf8');
+function withMutation(file, mutate, opts) {
+  withMutations([{ file, mutate }], opts);
+}
+
+// Several files broken together (e.g. a page and the record that verifies
+// it), each restored afterwards. Same line-ending handling as withMutation.
+function withMutations(mutations, { validatorCmd, expectSubstring, label }) {
   // Each mutate() callback matches against a literal '\n'-joined search
   // string. On a checkout with core.autocrlf=true (the Windows default),
   // readFileSync returns real '\r\n' line endings, so those literal
@@ -82,13 +87,17 @@ function withMutation(file, mutate, { validatorCmd, expectSubstring, label }) {
   // on write-back only if the file actually had it, so this never changes
   // the file's line-ending style on disk (the finally-block restore below
   // still writes back the untouched `original` bytes either way).
-  const hadCRLF = original.includes('\r\n');
-  const normalized = hadCRLF ? original.replace(/\r\n/g, '\n') : original;
+  const originals = mutations.map(({ file }) => [file, readFileSync(file, 'utf8')]);
   try {
-    let mutated = mutate(normalized);
-    if (mutated === normalized) throw new Error(`${label}: mutation did not change the file — check the search string still matches`);
-    if (hadCRLF) mutated = mutated.replace(/\n/g, '\r\n');
-    writeFileSync(file, mutated);
+    for (const [i, { file, mutate }] of mutations.entries()) {
+      const original = originals[i][1];
+      const hadCRLF = original.includes('\r\n');
+      const normalized = hadCRLF ? original.replace(/\r\n/g, '\n') : original;
+      let mutated = mutate(normalized);
+      if (mutated === normalized) throw new Error(`${label}: mutation did not change ${file} — check the search string still matches`);
+      if (hadCRLF) mutated = mutated.replace(/\n/g, '\r\n');
+      writeFileSync(file, mutated);
+    }
     const { code, out } = run(validatorCmd);
     if (code === 0) {
       console.log(`  ✗ ${label}: validator PASSED on broken input (expected it to fail) — this validator has a gap`);
@@ -103,10 +112,10 @@ function withMutation(file, mutate, { validatorCmd, expectSubstring, label }) {
     console.log(`  ✓ ${label}: validator correctly failed with the expected message`);
     passed++;
   } finally {
-    writeFileSync(file, original);
+    for (const [file, original] of originals) writeFileSync(file, original);
     const { code } = run(validatorCmd);
     if (code !== 0) {
-      console.log(`  ✗✗ ${label}: RESTORE FAILED — ${file} did not return to a validator-clean state. Manual check required.`);
+      console.log(`  ✗✗ ${label}: RESTORE FAILED — ${originals.map(([f]) => f).join(', ')} did not return to a validator-clean state. Manual check required.`);
       failed++;
     }
   }
@@ -937,7 +946,7 @@ withMutation(
 console.log('\n[AR] D-448 -- a "Checked by" line with no verification record is rejected');
 withMutation(
   'src/content/resources/aqa-a-level-business-exam-preparation.md',
-  (text) => text.replace('reviewStatus: "review-pending"', 'specCheck:\n  by: "marlbridge-academic-team"\n  date: 2026-11-15\n  scope: "official-specification"\nreviewStatus: "review-pending"'),
+  (text) => text.replace('reviewStatus: "reviewed"', 'specCheck:\n  by: "marlbridge-academic-team"\n  date: 2026-11-15\n  scope: "official-specification"\nreviewStatus: "reviewed"'),
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'has no verification record',
@@ -946,9 +955,20 @@ withMutation(
 );
 
 console.log('\n[AS] D-448 -- a verification record citing another board\'s specification is rejected');
-withMutation(
-  'docs/reports/academic-review/pending-review-2026-10-04.json',
-  (text) => text.replace('"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.cambridgeinternational.org/Images/697359-2026-2028-syllabus.pdf"', '"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.aqa.org.uk/subjects/x/specification.pdf"'),
+// No live page carries a specCheck any more (every page has a teacher
+// credit), so the page's "Checked by" line is put back alongside the bad
+// record -- the record is only read for a page that shows that line.
+withMutations(
+  [
+    {
+      file: 'src/content/resources/a-level-cambridge-global-perspectives-essay.md',
+      mutate: (text) => text.replace('author: "marlbridge-academic-team"\n', 'author: "marlbridge-academic-team"\nspecCheck:\n  by: "marlbridge-academic-team"\n  date: 2026-10-04\n  scope: "official-specification"\n'),
+    },
+    {
+      file: 'docs/reports/academic-review/pending-review-2026-10-04.json',
+      mutate: (text) => text.replace('"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.cambridgeinternational.org/Images/697359-2026-2028-syllabus.pdf"', '"slug": "a-level-cambridge-global-perspectives-essay",\n      "specSourceUsed": "https://www.aqa.org.uk/subjects/x/specification.pdf"'),
+    },
+  ],
   {
     validatorCmd: 'node scripts/validate-review-integrity.mjs',
     expectSubstring: 'an official aqa source, not one for its own board(s) cambridge',
