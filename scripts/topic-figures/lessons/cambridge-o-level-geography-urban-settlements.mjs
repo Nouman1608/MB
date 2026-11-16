@@ -172,7 +172,7 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
 // 04 Urban sprawl: effects and responses
 {
   const cx = 300, cy = 400;
-  let s = panel(30, 110, 540, 580) + `<rect x="45" y="125" width="510" height="550" rx="10" fill="#d8e3c6"/>`;
+  let s = panel(30, 110, 540, 600) + `<rect x="45" y="125" width="510" height="570" rx="10" fill="#d8e3c6"/>`;
   s += `<circle cx="${cx}" cy="${cy}" r="230" fill="#a9c48f" opacity="0.5" stroke="${C.grass}" stroke-width="3" stroke-dasharray="10 7"/>`;
   s += `<path d="M${cx - 120},${cy - 30} Q${cx - 130},${cy - 120} ${cx - 40},${cy - 130} Q${cx + 60},${cy - 160} ${cx + 120},${cy - 90} Q${cx + 170},${cy - 20} ${cx + 110},${cy + 70} Q${cx + 60},${cy + 140} ${cx - 30},${cy + 120} Q${cx - 130},${cy + 100} ${cx - 120},${cy - 30} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2.5"/>`;
   s += `<path d="M${cx + 110},${cy + 70} Q${cx + 170},${cy + 110} ${cx + 175},${cy + 150} L${cx + 140},${cy + 170} Q${cx + 90},${cy + 140} ${cx + 60},${cy + 120} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="2" stroke-dasharray="6 4"/>`;
@@ -183,10 +183,10 @@ const steam = (x, y, n = 2, gap = 18, col = C.muted) => { let s = ''; for (let i
   s += `<circle cx="470" cy="600" r="34" fill="${C.rock}" stroke="${C.ink}" stroke-width="2"/>` + tag(470, 655, 'new town', { size: 14, anchor: 'middle' });
   const E = [['Environment', 'loss of farmland, woodland, habitats; faster runoff, flood risk'], ['Transport', 'longer journeys, car dependence, congestion, air pollution'], ['Rural settlements', 'commuter villages; house prices rise; village services close'], ['The city', 'cost of extending water, sewers, power and roads']];
   s += t(590, 140, 'Effects of sprawl', { size: 19, weight: 700, fill: C.rust });
-  E.forEach(([a, b], i) => { const y = 156 + i * 94; s += rrect(590, y, 280, 86, '#f6e6dc', C.rust, 2, 10) + t(606, y + 26, a, { size: 16, weight: 700 }) + tl(606, y + 48, wrap(b, 250, 14), { size: 14 }, 17); });
-  s += rrect(590, 536, 280, 154, C.tealLight, C.tealDark, 2.5, 12) + t(606, 564, 'Responses', { size: 17, weight: 700, fill: C.tealDark }) + bullets(606, 592, ['Green belts', 'Brownfield sites first', 'Higher-density housing', 'New towns, e.g. Navi Mumbai'], 250, { size: 14.5, gap: 4 }).svg;
+  E.forEach(([a, b], i) => { const y = 156 + i * 98; s += rrect(590, y, 280, 92, '#f6e6dc', C.rust, 2, 10) + t(606, y + 26, a, { size: 16, weight: 700 }) + tl(606, y + 48, wrap(b, 250, 14), { size: 14 }, 17); });
+  s += rrect(590, 556, 280, 154, C.tealLight, C.tealDark, 2.5, 12) + t(606, 584, 'Responses', { size: 17, weight: 700, fill: C.tealDark }) + bullets(606, 612, ['Green belts', 'Brownfield sites first', 'Higher-density housing', 'New towns, e.g. Navi Mumbai'], 250, { size: 14.5, gap: 4 }).svg;
   add('04-urban-sprawl',
-    svg(900, 710, 'Urban sprawl: effects and responses', s, 'Schematic plan, not to scale'),
+    svg(900, 730, 'Urban sprawl: effects and responses', s, 'Schematic plan, not to scale'),
     'A schematic plan of a city spreading outwards into a surrounding green belt, with a commuter village and a planned new town beyond. Effects of sprawl: loss of farmland and habitats and faster runoff; longer journeys and car dependence; commuter villages with rising house prices and closing services; and the cost of extending utilities. Responses: green belts, brownfield first, higher-density housing and new towns such as Navi Mumbai.',
     'Sprawl eats greenfield land; planners push growth onto brownfield sites and new towns.',
     '## Changes in land use and urban sprawl');

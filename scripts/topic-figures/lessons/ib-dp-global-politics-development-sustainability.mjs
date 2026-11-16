@@ -176,9 +176,9 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
     ['Inequality', 'economic, political and social\nlinked to power asymmetries: less wealth, less say over the rules', C.tealLight, C.tealDark],
   ];
   let b = '';
-  q.forEach(([h, d, f, e], i) => { b += box(30 + (i % 2) * 430, 115 + Math.floor(i / 2) * 225, 410, 210, { title: h, body: d, fill: f, edge: e, tsize: 22, bsize: 15.5, valign: 'top' }); });
-  const n = note(30, 575, 840, 'Define each term in more than one way and explain why actors disagree.', { size: 17 });
-  fig('01-contested-meanings', 'Four contested meanings', b + n.s, 575 + n.h + 30,
+  q.forEach(([h, d, f, e], i) => { b += box(30 + (i % 2) * 430, 115 + Math.floor(i / 2) * 190, 410, 175, { title: h, body: d, fill: f, edge: e, tsize: 22, bsize: 15.5, valign: 'top' }); });
+  const n = note(30, 505, 840, 'Define each term in more than one way and explain why actors disagree.', { size: 17 });
+  fig('01-contested-meanings', 'Four contested meanings', b + n.s, 505 + n.h + 30,
     'Four contested terms. Development as growth, human development or institutional change; sustainability in three dimensions, with the Brundtland definition; poverty as lack of resources (absolute) or opportunities (relative); inequality as economic, political and social, linked to power asymmetries.',
     'Each key term has several meanings, and actors choose the one that suits them.',
     '## Contested meanings');
@@ -278,15 +278,15 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 
 // 07 Resource curse chain
 {
-  const c = chainH(30, 150, 840, [
+  const c = chainH(30, 120, 840, [
     { title: 'Oil or mineral wealth', body: 'environmental and economic factor', fill: C.cream, edge: C.olive },
     { title: 'Feeds corruption and conflict', body: 'political factor', fill: '#fbeee6', edge: C.rust },
     { title: 'Slower development', body: 'than some resource-poor states', fill: C.mustard, edge: C.ink },
   ], { h: 140, gap: 40, tsize: 20, bsize: 16 });
-  let b = label(450, 136, 'Factors interact: the resource curse', { anchor: 'middle' }) + c.s;
-  b += label(30, 340, 'Five sets of factors');
-  [['Political', 'stability, accountability, conflict'], ['Economic', 'debt, trade, FDI, aid'], ['Social', 'culture, gender, migration'], ['Institutional', 'UN, IMF, World Bank, WTO'], ['Environmental', 'geography, resources, climate']].forEach(([h, d], i) => { b += box(30 + i * 170, 355, 160, 110, { title: h, body: d, tsize: 17, bsize: 14.5, align: 'middle', pad: 10, fill: i % 2 ? C.panel : '#eaf3f1', edge: C.tealDark }); });
-  fig('07-resource-curse', 'Factors interact: the resource curse', b, 495,
+  let b = c.s;
+  b += label(30, 310, 'Five sets of factors');
+  [['Political', 'stability, accountability, conflict'], ['Economic', 'debt, trade, FDI, aid'], ['Social', 'culture, gender, migration'], ['Institutional', 'UN, IMF, World Bank, WTO'], ['Environmental', 'geography, resources, climate']].forEach(([h, d], i) => { b += box(30 + i * 170, 325, 160, 110, { title: h, body: d, tsize: 17, bsize: 14.5, align: 'middle', pad: 10, fill: i % 2 ? C.panel : '#eaf3f1', edge: C.tealDark }); });
+  fig('07-resource-curse', 'Factors interact: the resource curse', b, 465,
     'Oil or mineral wealth, an environmental and economic factor, can feed corruption and conflict, a political factor, so some resource-rich states develop more slowly than resource-poor ones. Below, the five sets of factors: political, economic, social, institutional and environmental.',
     'One factor can trigger another: resource wealth can slow development through politics.',
     '## Nature, practice and study of development and sustainability');
@@ -295,12 +295,12 @@ const fig = (name, title, body, h, alt, caption, after, subtitle) => add(name, s
 // 08 Debates: growth to alternatives
 {
   let b = '';
-  b += box(30, 115, 410, 200, { title: 'Globalization: for', body: 'export-led growth; fall in extreme poverty in East Asia', fill: '#eaf3f1', edge: C.tealDark, valign: 'top', tsize: 20 });
-  b += box(460, 115, 410, 200, { title: 'Globalization: against', body: 'rising inequality within states; “race to the bottom” in standards; loss of policy space under WTO rules and investment treaties', fill: '#fbeee6', edge: C.rust, valign: 'top', tsize: 20 });
-  b += box(30, 335, 840, 120, { title: 'SDGs (2015–2030): 17 goals after the 8 MDGs (2000–2015)', body: 'shared framework for rich and poor alike — but critics say they assume endless growth, some targets clash, and nothing binds states', fill: C.cream, edge: C.olive, align: 'middle', bsize: 16 });
-  b += label(30, 495, 'Alternative views');
-  [['De-growth', 'rich states shrink material production and consumption; aim for wellbeing'], ['Regenerative', 'restore ecosystems and communities, not just slow damage'], ['Related ideas', 'Raworth’s doughnut; buen vivir (Ecuador, 2008); Bhutan’s Gross National Happiness']].forEach(([h, d], i) => { b += box(30 + i * 285, 510, 270, 140, { title: h, body: d, tsize: 19, bsize: 15, valign: 'top', fill: C.panel, edge: C.tealDark }); });
-  fig('08-debates', 'Debating development and sustainability', b, 680,
+  b += box(30, 115, 410, 140, { title: 'Globalization: for', body: 'export-led growth; fall in extreme poverty in East Asia', fill: '#eaf3f1', edge: C.tealDark, valign: 'top', tsize: 20 });
+  b += box(460, 115, 410, 140, { title: 'Globalization: against', body: 'rising inequality within states; “race to the bottom” in standards; loss of policy space under WTO rules and investment treaties', fill: '#fbeee6', edge: C.rust, valign: 'top', tsize: 20 });
+  b += box(30, 275, 840, 120, { title: 'SDGs (2015–2030): 17 goals after the 8 MDGs (2000–2015)', body: 'shared framework for rich and poor alike — but critics say they assume endless growth, some targets clash, and nothing binds states', fill: C.cream, edge: C.olive, align: 'middle', bsize: 16 });
+  b += label(30, 435, 'Alternative views');
+  [['De-growth', 'rich states shrink material production and consumption; aim for wellbeing'], ['Regenerative', 'restore ecosystems and communities, not just slow damage'], ['Related ideas', 'Raworth’s doughnut; buen vivir (Ecuador, 2008); Bhutan’s Gross National Happiness']].forEach(([h, d], i) => { b += box(30 + i * 285, 450, 270, 140, { title: h, body: d, tsize: 19, bsize: 15, valign: 'top', fill: C.panel, edge: C.tealDark }); });
+  fig('08-debates', 'Debating development and sustainability', b, 620,
     'Arguments for globalization, such as export-led growth and falling extreme poverty in East Asia, against arguments such as rising inequality and loss of policy space. The 17 SDGs offer a shared framework but are criticised as growth-based and non-binding. Alternatives include de-growth, regenerative approaches, the doughnut, buen vivir and Gross National Happiness.',
     'Argue both sides of globalization and the SDGs, then weigh the alternatives.',
     '## Debates on development and sustainability');

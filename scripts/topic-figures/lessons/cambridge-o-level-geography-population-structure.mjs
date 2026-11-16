@@ -107,7 +107,7 @@ const pyr = (cx, yBase, bh, m, f = m, o = {}) => {
   s += call(yb - bh / 2, 520, 'Width of the base', 'birth rate in recent years', C.tealDark, cx + 118);
   s += call(yb - 6.5 * bh, 330, 'How fast the sides narrow', 'death rate and life expectancy', C.ink, cx + 70);
   s += call(yb - 9.5 * bh, 180, 'Width of the top', 'share of elderly; more women than men', C.olive, cx + 30);
-  s += call(yb - 4.5 * bh, 425, 'Bulges and notches', 'past baby booms, wars, epidemics, migration', C.rust, cx + 72);
+  s += call(yb - 4.5 * bh, 425, 'Bulges and notches', 'baby booms, wars, epidemics, migration', C.rust, cx + 72);
   add('01-reading-a-pyramid',
     svg(900, 650, 'What each part of a pyramid tells you', s, 'Schematic pyramid, males left and females right'),
     'A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first.',

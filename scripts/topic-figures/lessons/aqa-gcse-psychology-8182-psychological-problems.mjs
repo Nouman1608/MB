@@ -320,7 +320,7 @@ F('02-mood-patterns', 'Sadness, unipolar and bipolar depression', 'Schematic moo
     };
     let s = plot(y, 'Sadness', 'a normal, short-lived response to events such as a loss', (m) => `M300,${m} L430,${m} C460,${m} 470,${m + 40} 500,${m + 40} C530,${m + 40} 540,${m} 570,${m} L850,${m}`);
     s += plot(y + panelH + 12, 'Unipolar depression', 'persistent low mood, no mania', (m) => `M300,${m} L360,${m} C390,${m} 400,${m + 45} 430,${m + 45} L850,${m + 45}`);
-    s += plot(y + 2 * (panelH + 12), 'Bipolar depression', 'depression alternating with mania', (m) => `M300,${m} C340,${m} 350,${m + 45} 390,${m + 45} C440,${m + 45} 450,${m - 36} 500,${m - 36} C550,${m - 36} 560,${m + 45} 610,${m + 45} C660,${m + 45} 670,${m - 36} 720,${m - 36} C770,${m - 36} 780,${m} 850,${m}`, T(560, y + 2 * (panelH + 12) + 36, 'mania', { size: 15, weight: 700, anchor: 'middle', fill: C.rust }));
+    s += plot(y + 2 * (panelH + 12), 'Bipolar depression', 'depression alternating with mania', (m) => `M300,${m} C340,${m} 350,${m + 45} 390,${m + 45} C440,${m + 45} 450,${m - 30} 500,${m - 30} C550,${m - 30} 560,${m + 45} 610,${m + 45} C660,${m + 45} 670,${m - 30} 720,${m - 30} C770,${m - 30} 780,${m} 850,${m}`, T(500, y + 2 * (panelH + 12) + 22, 'mania', { size: 15, weight: 700, anchor: 'middle', fill: C.rust }));
     return { s, h: 3 * panelH + 24 };
   },
   (y) => card(30, y, 840, { kicker: 'ICD DIAGNOSIS', title: 'Mild, moderate or severe, by the number and severity of symptoms', body: 'low mood · loss of interest and enjoyment · reduced energy · changes in sleep and appetite · decreased self-confidence', size: 16, tsize: 18, fill: C.cream, edge: C.olive }),
@@ -392,7 +392,7 @@ F('06-kaij-twin-study', 'Kaij (1960): a twin study of alcohol abuse', 'Male twin
       g += p(x + 150, f1) + p(x + 250, f2) + T(x + 200, y + 186, lab, { size: 19, weight: 700, anchor: 'middle' }) + T(x + 200, y + 208, sub, { size: 15, anchor: 'middle', fill: C.muted });
       return g;
     };
-    s += pair(30, 'Identical (monozygotic)', 'share all their genes', C.teal, C.teal) + pair(470, 'Non-identical (dizygotic)', 'share about half their genes', C.teal, C.cream);
+    s += pair(30, 'Identical (monozygotic)', '', C.teal, C.teal) + pair(470, 'Non-identical (dizygotic)', '', C.teal, C.cream);
     return { s, h: 220 };
   },
   (y) => {
@@ -407,7 +407,7 @@ F('06-kaij-twin-study', 'Kaij (1960): a twin study of alcohol abuse', 'Male twin
     { kicker: '− OTHER ISSUES', kfill: C.rust, body: 'Identical twins may share a more similar environment; older ways of judging twin type were less reliable.' },
   ], { gap: 12, vcenter: false, card: { size: 16, bfill: C.ink, pad: 16 } }),
 ],
-'Two pairs of twins: identical twins, who share all their genes, and non-identical twins. Kaij found higher concordance for alcohol abuse in identical than non-identical twins, shown as a longer bar with no figures. Evaluation: it supports a genetic contribution, but concordance was not 100 percent and twin environments may differ.',
+'Two pairs of twins: identical (monozygotic) and non-identical (dizygotic). Kaij found higher concordance for alcohol abuse in identical than non-identical twins, shown as a longer bar with no figures. Evaluation: it supports a genetic contribution, but concordance was not 100 percent and twin environments may differ.',
 'Higher concordance in identical twins suggests genes matter, but not 100% means environment does too.', H2.add);
 
 // 07 Aversion therapy
