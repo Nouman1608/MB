@@ -204,8 +204,8 @@ const chip = (x, y, w, h, s, fill, { size = 17, weight = 700, edge = C.ink } = {
   const i = (45 * Math.PI) / 180, r = Math.asin(Math.sin(i) / 1.5);
   const p1x = 650, p1y = gy, p2x = p1x + gh * Math.tan(r), p2y = gy + gh;
   b += `<line x1="${p1x}" y1="${gy - 80}" x2="${p1x}" y2="${gy + 80}" stroke="${C.muted}" stroke-width="2" stroke-dasharray="7 6"/>` + `<line x1="${p2x}" y1="${p2y - 80}" x2="${p2x}" y2="${p2y + 80}" stroke="${C.muted}" stroke-width="2" stroke-dasharray="7 6"/>`;
-  b += arrow(p1x - 100 * Math.tan(i), gy - 100, p1x - 3, gy - 3, { w: 3.5, color: C.rust, marker: 'ahR' }) + `<line x1="${p1x}" y1="${p1y}" x2="${p2x}" y2="${p2y}" stroke="${C.rust}" stroke-width="3.5"/>` + head((p1x + p2x) / 2, (p1y + p2y) / 2, 90 - (r * 180) / Math.PI, C.rust, 9);
-  b += arrow(p2x, p2y, p2x + 100 * Math.tan(i), p2y + 100, { w: 3.5, color: C.rust, marker: 'ahR' });
+  b += arrow(p1x - 70 * Math.tan(i), gy - 70, p1x - 3, gy - 3, { w: 3.5, color: C.rust, marker: 'ahR' }) + `<line x1="${p1x}" y1="${p1y}" x2="${p2x}" y2="${p2y}" stroke="${C.rust}" stroke-width="3.5"/>` + head((p1x + p2x) / 2, (p1y + p2y) / 2, 90 - (r * 180) / Math.PI, C.rust, 9);
+  b += arrow(p2x, p2y, p2x + 70 * Math.tan(i), p2y + 70, { w: 3.5, color: C.rust, marker: 'ahR' });
   b += t(p1x - 14, gy + 70, 'slows down:', { size: 15, weight: 700, anchor: 'end' }) + t(p1x - 14, gy + 90, 'bends towards', { size: 15, anchor: 'end' }) + t(p1x - 14, gy + 110, 'the normal', { size: 15, anchor: 'end' });
   b += t(p2x - 14, p2y + 30, 'speeds up: bends', { size: 15, weight: 700, anchor: 'end' }) + t(p2x - 14, p2y + 50, 'away from the normal', { size: 15, anchor: 'end' });
   b += panel(30, 600, 840, 120, C.cream, C.olive) + t(60, 638, 'Frequency stays the same; speed and wavelength change (λ = v ÷ f).', { size: 17, weight: 700 }) +

@@ -257,10 +257,10 @@ fig('04-anthony-position-perspective', 'Position and perspective in one speech',
 fig('05-perspective-shapes-evidence', 'What a perspective lights up, and leaves out', 'Worked example 2: Source D, the teacher', (y0) => {
   let s = '';
   s += `<path d="M120,${y0 + 30} L560,${y0 + 30} L560,${y0 + 290} L120,${y0 + 290} Z" fill="${C.panel}" stroke="${C.panelEdge}" stroke-width="2"/>`;
-  s += `<path d="M60,${y0 + 160} L340,${y0 + 40} L340,${y0 + 280} Z" fill="${C.cream}" opacity="0.9"/>`;
+  s += `<path d="M60,${y0 + 160} L410,${y0 + 34} L410,${y0 + 286} Z" fill="${C.cream}" opacity="0.9"/>`;
   s += circ(60, y0 + 160, 24, C.mustard, C.ink, 3) + T(60, y0 + 210, 'teacher', { size: 15, weight: 700, anchor: 'middle' });
-  s += box(180, y0 + 70, 220, { body: '“a phone on the desk costs ten minutes of attention”', size: 15, align: 'middle', h: 80, vc: true, fill: C.panel, edge: C.olive }).s;
-  s += box(180, y0 + 170, 220, { body: '“students concentrate better when the temptation is out of sight”', size: 15, align: 'middle', h: 80, vc: true, fill: C.panel, edge: C.olive }).s;
+  s += box(170, y0 + 50, 230, { body: '“a phone on the desk costs ten minutes of attention”', size: 15, align: 'middle', h: 96, vc: true, fill: C.panel, edge: C.olive }).s;
+  s += box(170, y0 + 168, 230, { body: '“students concentrate better when the temptation is out of sight”', size: 15, align: 'middle', h: 96, vc: true, fill: C.panel, edge: C.olive }).s;
   s += box(420, y0 + 70, 130, { body: 'translation', size: 15, align: 'middle', h: 50, vc: true, edge: C.panelEdge, dash: '5 4' }).s.replace(/fill="#ffffff"/, `fill="${C.bg}"`);
   s += box(420, y0 + 140, 130, { body: 'medical monitoring', size: 15, align: 'middle', h: 60, vc: true, edge: C.panelEdge, dash: '5 4' }).s;
   s += box(420, y0 + 220, 130, { body: 'home life', size: 15, align: 'middle', h: 50, vc: true, edge: C.panelEdge, dash: '5 4' }).s;

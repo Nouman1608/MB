@@ -94,7 +94,7 @@ function cardsFig(title, { sub, cards, ncol = 2, size = 16, foot, y0, headSize =
     const row = cards.slice(r, r + ncol);
     const hhs = row.map((c) => headH(cw - (badges ? 50 : 0), c.head, headSize));
     const hh = Math.max(...hhs);
-    const bodies = row.map((c) => (c.sub ? para(0, 0, cw - 32, c.sub, { size: size, italic: true }).h + 8 : 0) + block(0, 0, cw - 32, c.body, { size }).h);
+    const bodies = row.map((c) => (c.sub ? para(0, 0, cw - 32, c.sub, { size, weight: 600 }).h + 8 : 0) + block(0, 0, cw - 32, c.body, { size }).h);
     const ch = hh + Math.max(...bodies) + 36;
     row.forEach((c, i) => {
       const x = 30 + i * (cw + gap);

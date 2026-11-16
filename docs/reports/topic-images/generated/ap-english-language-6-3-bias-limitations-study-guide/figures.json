@@ -1,0 +1,47 @@
+[
+ {
+  "file": "ap-english-language-6-3-bias-limitations-study-guide--01-bias-scale.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Bias",
+  "alt": "A scale from low to high bias with six paired signs: fair treatment of opposing views or caricature, measured or loaded language, complicating or only favourable evidence, disclosed or hidden method, admitted uncertainty or overclaimed certainty, and disclosed or undisclosed interest. A note covers vested interest and purpose.",
+  "caption": "The more fairly a source considers other positions, the less biased it is.",
+  "bytes": 137194
+ },
+ {
+  "file": "ap-english-language-6-3-bias-limitations-study-guide--02-seven-limitations.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Limitations",
+  "alt": "A numbered checklist of seven limitations with the question to ask and an example: sample size, sample selection, scope, date, method, type of evidence and correlation.",
+  "caption": "Limited evidence still counts: it just proves less than a sweeping claim needs.",
+  "bytes": 115378
+ },
+ {
+  "file": "ap-english-language-6-3-bias-limitations-study-guide--03-account-for-limitations.webp",
+  "width": 900,
+  "height": 651,
+  "after": "## Acknowledging and accounting for limitations",
+  "alt": "Three ways to account for a limitation: qualify the claim, name the limitation, and add other evidence. Below, a weak sentence treats a 9-in-10 survey as proof; the strong version names the filter company’s interest, notes that its visitors are self-selected, and turns to the consumer group’s blind tests.",
+  "caption": "Say what a source can show and what it cannot, and cover its gaps.",
+  "bytes": 120698
+ },
+ {
+  "file": "ap-english-language-6-3-bias-limitations-study-guide--04-source-g-audit.webp",
+  "width": 900,
+  "height": 685,
+  "after": "## Worked example 1: evaluating and using a source",
+  "alt": "Source G’s brochure text labelled phrase by phrase: the survey of 50 stand visitors is small and self-selected, measures taste only, and “full of impurities”, “only our filter” and “Isn’t it time your family drank clean water?” show loaded language, no other positions and an appeal to fear. Below, a summary of position, bias, limitations and responsible use.",
+  "caption": "Use a biased source as evidence of what it claims, not as proof of more.",
+  "bytes": 129914
+ },
+ {
+  "file": "ap-english-language-6-3-bias-limitations-study-guide--05-ranking-three-sources.webp",
+  "width": 900,
+  "height": 560,
+  "after": "## Worked example 2: comparing sources by degree of bias",
+  "alt": "Three fictional sources ranked by bias. Source H, an independent consumer group that tested 120 homes and reports the filters’ small benefit with its method, shows the least. Source I, the water company asserting its water is fine without data, shows more. Source G, the filter company’s small, self-selected taste survey, shows the most.",
+  "caption": "Rank sources by interest, fairness to other views and method, then by their limits.",
+  "bytes": 121128
+ }
+]
