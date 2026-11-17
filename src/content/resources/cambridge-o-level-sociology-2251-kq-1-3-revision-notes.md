@@ -39,8 +39,8 @@ and qualitative primary methods; 1.3.4 types of question; 1.3.5 theoretical and 
 | Term | Definition |
 |---|---|
 | **Aim** | What the research sets out to find out |
-| **Hypothesis** | A testable prediction about a relationship between variables |
-| **Target population** | The whole group the research is about |
+| **Hypothesis** | A prediction, stated so it can be tested, that two variables are linked |
+| **Target population** | Everyone the findings are meant to apply to |
 | **Operationalisation** | Turning a concept into measurable indicators |
 | **Pilot study** | Small trial run to test and improve a method |
 | **Sampling frame** | A list of the target population from which a sample is drawn |

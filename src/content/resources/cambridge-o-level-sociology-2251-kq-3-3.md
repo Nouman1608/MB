@@ -46,7 +46,8 @@ greatly increased its speed and reach.
 
 ## Migration
 
-**Immigration** is moving into a country to live; **emigration** is leaving one's own country. The
+**Immigration** means arriving in a country to settle; **emigration** means departing from one's
+own country to settle elsewhere. The
 same person is an emigrant from one society and an immigrant to another, so every movement affects two
 societies at once.
 
@@ -107,8 +108,9 @@ communities with the least power to resist.
 ### Climate change
 
 The countries that have emitted the most greenhouse gases over time are mainly industrialised ones,
-yet the worst effects often fall on poorer societies, which have fewer resources to adapt. Low-lying
-island states such as Tuvalu and the Maldives face rising sea levels; farming communities face drought,
+yet the worst effects often fall on poorer societies, which can least afford sea walls, irrigation
+or relocation. Rising seas threaten the existence of Tuvalu and the Maldives, both barely above sea
+level; farming communities face drought,
 floods and failed harvests. This is sometimes described as a question of **climate justice**. Climate
 change can also act as a push factor for migration.
 
@@ -131,7 +133,8 @@ settlements such as Dharavi in Mumbai, with crowded housing and limited sanitati
 
 ### Marxist views of capitalist exploitation
 
-Marxists see global inequality as the outcome of capitalism operating on a world scale. Andre Gunder
+For Marxists, the gap between rich and poor nations is what capitalism produces once it spreads
+across the whole world. Andre Gunder
 Frank's **dependency theory** argued that rich "metropolis" nations developed by exploiting poor
 "satellite" nations, a process he called the "development of underdevelopment". Immanuel
 Wallerstein's **world-systems theory** divided the world economy into a **core** of wealthy states, a
@@ -140,8 +143,9 @@ flows towards the core through trade and the profits of TNCs.
 
 ### Colonialism
 
-Between the sixteenth and twentieth centuries, European powers colonised much of Africa, Asia and the
-Americas; at the Berlin Conference of 1884–1885 they agreed rules for dividing Africa among themselves.
+From the sixteenth century to the twentieth, European states seized large parts of the world as
+colonies, and in 1884–1885 their representatives met in Berlin to settle the terms on which Africa
+would be carved up between them.
 Colonial economies were organised to export raw materials and cash crops to the colonising country,
 local industries were often undermined, and borders were drawn with little regard for the people living
 within them. Sociologists argue that these patterns, along with debts and trade relationships formed
@@ -149,7 +153,8 @@ in that period, continue to shape inequality after independence.
 
 ### Feminist ideas of patriarchy
 
-Feminists argue that global inequality cannot be understood without gender. Women do much of the
+Feminists add gender to the picture: in their view, inequality between societies is also
+inequality between men and women. Women do much of the
 world's unpaid farming and domestic work, yet own a small share of land and property. Global factories
 in export industries such as clothing and electronics often employ young women at low wages because
 they are seen as cheap and compliant. Arlie Hochschild (2000) described **global care chains**:

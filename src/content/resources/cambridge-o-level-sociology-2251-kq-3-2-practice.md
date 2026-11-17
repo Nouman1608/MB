@@ -66,8 +66,8 @@ describes for Paper 1 Question 3. Section B gives extra practice on benefits, we
 
 ## Answers
 
-**(a)(i) [2]** A tax system in which people with higher incomes pay a higher percentage of their
-income in tax (1), so the tax helps to narrow the gap between rich and poor (1).
+**(a)(i) [2]** Taxation in which the rate rises as income rises, so that the better-off hand over a
+larger share of what they earn (1), which narrows the gap between rich and poor (1).
 
 **(a)(ii) [2]** A regular payment made by the state to every individual (1) without conditions, whether
 or not they are in work (1).

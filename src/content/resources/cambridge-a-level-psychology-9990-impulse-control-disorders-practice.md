@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-specialist-options-1-9990"
     subtopic: "impulse-control-disorders-9990"
-description: "Original Paper 3 and Paper 4 style questions with answers on 9990 topic 1.3 impulse control disorders: diagnosis, K-SAS, explanations, Grant et al. and therapies."
+description: "Original Paper 3 and Paper 4 style questions with answers on 9990 topic 1.3 impulse control disorders: diagnosis, K-SAS, Grant et al. and therapies."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

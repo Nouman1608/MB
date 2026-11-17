@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-3-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 3.3: migration, remittances, TNCs, climate and explanations of global inequality, with answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 3.3: migration, remittances, TNCs, climate and theories of global inequality, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

@@ -21,9 +21,9 @@ featured: false
 ---
 
 These notes condense key question 3.2 of Cambridge O Level Sociology (2251), *What attempts have been
-made to reduce social inequalities?* Governments use legislation and welfare states; NGOs work
-locally and globally on poverty, health, business and education. Sociologists disagree about success:
-the New Right says welfare creates dependency, Marxists say it protects capitalism, feminists say
+made to reduce social inequalities?* States act through laws and welfare provision, while NGOs
+tackle poverty, ill health, lack of enterprise and lack of schooling. Views of their success divide
+sharply: the New Right says welfare creates dependency, Marxists say it protects capitalism, feminists say
 equality laws leave patriarchy intact, and critics question whose interests NGOs serve.
 
 Fuller explanations: [key question 3.2 study guide](/resources/cambridge-o-level-sociology-2251-kq-3-2/).

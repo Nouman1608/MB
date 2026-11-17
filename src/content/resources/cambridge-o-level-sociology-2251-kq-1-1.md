@@ -108,8 +108,8 @@ fact. To understand suicide statistics, you have to study how people construct t
 Most sociologists today use whatever fits the aim, and the syllabus names two ways of combining
 methods and evidence.
 
-**Triangulation** uses more than one method or source to study the same question, so that the weakness
-of one is checked by the strength of another. Paul Willis's *Learning to Labour* (1977) studied twelve
+**Triangulation** means approaching one research question with two or more methods or sources and
+comparing the results, so that where one method is weak another can confirm or challenge it. Paul Willis's *Learning to Labour* (1977) studied twelve
 working-class boys in an English school by observing them in lessons, interviewing them and holding
 group discussions, which let him check what the boys said against what they did.
 
@@ -127,10 +127,11 @@ concept and then say exactly how it affects the research in front of you.
 - **Bias:** have the researcher's views shaped the questions, the sample or the interpretation?
 - **Interviewer effect:** does something about the interviewer, such as age, gender, ethnicity or
   status, change the answers given?
-- **Hawthorne / observer effect:** do people behave differently because they know they are being
-  studied? The name comes from studies by Elton Mayo at the Hawthorne factory of the Western Electric
-  Company in the United States in the 1920s and 1930s, where workers' output seemed to rise whatever
-  conditions were changed, apparently because they were receiving attention.
+- **Hawthorne / observer effect:** does awareness of being watched change what people do? The term
+  refers to research led by Elton Mayo at the Western Electric Company's Hawthorne works near Chicago
+  between the 1920s and early 1930s. Productivity appeared to improve almost regardless of which
+  working conditions the researchers altered, which was put down to the attention the workers were
+  getting.
 - **Validity:** does the data give a true picture of what it claims to measure?
 - **Reliability:** would the method give the same results if repeated?
 - **Representativeness:** is the sample typical of the population being studied?

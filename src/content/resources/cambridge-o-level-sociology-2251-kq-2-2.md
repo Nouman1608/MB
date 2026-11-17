@@ -78,10 +78,10 @@ societies that rely on it heavily are often less stable, because people conform 
 than agreement.
 
 **Digital surveillance** extends formal control: CCTV, facial recognition, number-plate cameras,
-phone location data and monitoring of online activity. Michel Foucault's *Discipline and Punish*
-(1975) used the image of the **panopticon**, a prison design in which inmates could always be seen
-without knowing whether they were being watched at that moment, so they learned to control
-themselves. Surveillance works in the same way: knowing you might be watched changes behaviour.
+phone location data and monitoring of online activity. In *Discipline and Punish* (1975),
+Michel Foucault drew on the **panopticon**, a design for a prison with a central watchtower: because
+prisoners could never tell when a guard was looking, they behaved as though they were always
+observed. Surveillance works in the same way: knowing you might be watched changes behaviour.
 Critics point to privacy, the risk of misuse by governments and the fact that some groups are
 watched more closely than others.
 

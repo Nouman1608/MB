@@ -99,8 +99,8 @@ answers and avoided wasting the full sample on poor questions (1).
 - Closed and scaled questions show how much housework is done but not why girls do more (2).
 
 **(b) [4]** Sampling frame: a list of all members of the target population from which a sample is
-selected (1), such as a school register or electoral roll (1). Operationalisation: turning an abstract
-concept into something that can be measured (1), for example measuring social class by occupation
+selected (1), such as a school register or electoral roll (1). Operationalisation: deciding how an abstract
+idea will be measured in practice (1), for example measuring social class by occupation
 (1).
 
 **(c) [6]** Three problems, 2 marks each:

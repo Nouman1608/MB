@@ -45,19 +45,19 @@ wider range of examples.
 
 ## Legislation: how each measure is meant to work
 
-**Progressive taxation** takes a higher *percentage* of higher incomes. An invented illustration: if
-income up to 20,000 is taxed at 10% and income above that at 30%, a person earning 15,000 pays 1,500
-(10% of their income), while a person earning 60,000 pays 2,000 plus 12,000, which is 14,000 (about
-23% of their income). The revenue can fund services used by everyone, so the gap in living standards
+**Progressive taxation** takes a higher *percentage* of higher incomes. An invented illustration: suppose
+the first 25,000 of income is taxed at 10% and everything above it at 40%. Someone earning 15,000 pays
+1,500, which is 10% of their income. Someone earning 60,000 pays 2,500 on the first 25,000 and 14,000
+on the remaining 35,000, a total of 16,500, which is 27.5% of their income. The revenue can fund services used by everyone, so the gap in living standards
 narrows. Taxes on spending, by contrast, often take a larger share of poorer people's income, because
 they spend more of what they earn.
 
 **Redistribution through benefits** transfers resources to those in need. **Means-tested** benefits go
 only to people below an income limit, which targets help but can stigmatise claimants and discourage
 take-up. **Universal** benefits go to everyone in a category, such as all pensioners, which avoids
-stigma but is more expensive. Some schemes are **conditional**: Brazil's Bolsa Família, launched in
-2003, paid poor families on condition that children attended school and had health check-ups, linking
-immediate relief to longer-term life chances.
+stigma but is more expensive. Some schemes are **conditional**: under Brazil's Bolsa Família, begun in
+2003, low-income families received payments only if their children went to school and kept up health
+check-ups, tying short-term relief to longer-term life chances.
 
 **A minimum wage** sets a legal floor under pay, such as the National Minimum Wage introduced in the
 United Kingdom in 1999. It raises the incomes of the lowest paid, many of whom are women, young people

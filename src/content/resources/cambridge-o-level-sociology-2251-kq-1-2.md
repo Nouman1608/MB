@@ -117,9 +117,9 @@ published online.
 ### Media content
 
 Newspapers, television, films, advertisements, music and online video. Sociologists often use
-**content analysis**, counting and categorising how often something appears. The Glasgow University
-Media Group's *Bad News* (1976) analysed television news coverage of industrial disputes and argued
-that it tended to present events from the point of view of management. Gaye Tuchman (1978) used the
+**content analysis**, counting and categorising how often something appears. In *Bad News* (1976), the
+Glasgow University Media Group studied how British television news reported strikes and industrial
+conflict, concluding that coverage tended to favour management's account of events. Gaye Tuchman (1978) used the
 phrase "symbolic annihilation" for the way women were under-represented and trivialised in the mass
 media.
 

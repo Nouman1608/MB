@@ -20,9 +20,9 @@ publishedDate: 2026-11-17
 featured: false
 ---
 
-Key question 2.1 of Cambridge O Level Sociology (2251) asks *How do we learn our identity?* The
-sociological answer is that identity is learned, not inherited: we become who we are through
-socialisation into a culture. In Paper 1 this content is tested in Question 2, which you can choose
+Key question 2.1 of Cambridge O Level Sociology (2251) asks *How do we learn our identity?* For
+sociologists, who we are is acquired rather than inherited: identity comes from being socialised into
+a culture. In Paper 1 this content is tested in Question 2, which you can choose
 instead of Question 3. Strong answers do three things: they use the syllabus concepts precisely, they
 explain *how* each agency socialises (the process, not just the name), and they judge how effective
 agencies are and which theory explains socialisation best.
@@ -70,16 +70,17 @@ The **nature** side argues that behaviour is largely inborn, shaped by genes and
 **nurture** side argues that it is mainly learned through socialisation. Sociologists emphasise
 nurture, using two kinds of evidence.
 
-**Cases of extreme isolation.** "Genie", discovered in Los Angeles in 1970 at the age of 13 after being
-kept almost entirely isolated by her father, could barely speak. Despite years of later teaching she
+**Cases of extreme isolation.** The girl known as "Genie" had been shut away from almost all human
+contact by her father until the authorities in Los Angeles found her, aged 13, in 1970; at that point
+she could barely speak. Despite years of later teaching she
 never fully acquired the grammar of a first language. Such cases suggest that language and social
 behaviour depend on contact with others at the right stage of life. They must be used carefully: they
 are rare, often involve abuse, and the child may have had other difficulties from birth.
 
 **The relativity of culture.** If behaviour were fixed by biology, it would be similar everywhere. In
 fact what counts as polite, modest, attractive or adult varies between societies and over time.
-Margaret Mead's *Sex and Temperament in Three Primitive Societies* (1935) described three groups in
-New Guinea: among the Arapesh both men and women were expected to be gentle and cooperative, among the
+In *Sex and Temperament in Three Primitive Societies* (1935), the anthropologist Margaret Mead
+compared three New Guinea peoples: among the Arapesh both men and women were expected to be gentle and cooperative, among the
 Mundugumor both were expected to be aggressive, and among the Tchambuli women were the more dominant
 and practical sex. Mead concluded that masculine and feminine temperaments are largely cultural. Later
 researchers questioned some of her findings, so present the study as influential evidence rather than

@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "paper-3-specialist-options-1-9990"
     subtopic: "schizophrenia-9990"
-description: "Revision notes for 9990 topic 1.1 Schizophrenia: ICD-11 criteria, delusion types, Freeman et al., explanations, treatments, key terms and a 12-question self-test."
+description: "Revision notes for 9990 topic 1.1 Schizophrenia: ICD-11 criteria, delusion types, Freeman et al., explanations, treatments, key terms and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

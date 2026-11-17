@@ -21,9 +21,9 @@ featured: false
 ---
 
 These notes condense key question 2.2 of Cambridge O Level Sociology (2251), *How does society control
-us?* Conformity is produced by internalised norms backed by formal agencies of the state and informal
-agencies in everyday life, each using positive and negative sanctions. Functionalists see control as
-protecting shared values; Marxists and feminists see it as protecting the powerful. Some people resist
+us?* Most conformity comes from norms people have internalised, reinforced by rewards and punishments
+from state agencies and from the people around them. For functionalists this protects values everyone
+shares; for Marxists it protects the ruling class, and for feminists it protects men's power. Some people resist
 through protest groups and subcultures.
 
 Fuller explanations: [key question 2.2 study guide](/resources/cambridge-o-level-sociology-2251-kq-2-2/).
