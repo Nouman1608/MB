@@ -61,7 +61,7 @@ nipt my toe and I cryd and then my dad got me a ice creem.
 
 ```
 AMIR:  bro that test was actually long 😭
-JOSH:  fr i didnt even finish q4
+JOSH:  fr i didnt even finish the last page
 AMIR:  same. lowkey think i failed
 JOSH:  nah ur good ur always saying that 😂
 ```
@@ -99,7 +99,7 @@ LEARNER:  yes I have letter (.) from school (.) is okay he say
 
 **5.** Interlanguage is the learner's **developing, rule-governed language system** [1] that lies **between the first language and the target language** and changes as learning proceeds [1].
 
-**6.** **"and... and... and then"**: a long chain of coordinated clauses mirrors speech, typical of **consolidation** [1] [1]. **Chronological recount** without paragraphing or a crafted opening shows writing that has not yet **differentiated** from spoken narrative [1] [1]. **Mostly controlled sentence boundaries** and the past tense narrative show the **preparation** stage has been passed [1] [1]. Alternatively, the absence of a closing reflection or audience awareness.
+**6.** **"and... and... and then"**: a long chain of coordinated clauses mirrors speech, typical of **consolidation** [1] [1]. **Chronological recount** without paragraphing or a crafted opening shows writing that has not yet **differentiated** from spoken narrative [1] [1]. **A capital at the start, a full stop at the end and a consistent past-tense narrative** show basic control, so the **preparation** stage has been passed [1] [1]. Alternatively, the absence of a closing reflection or audience awareness.
 
 **7.** **"Wen" and "beech"** show the child represents sounds accurately but has not learned the conventional spelling patterns ("wh", "ea") [1] [1]. **"nipt" and "cryd"** represent the past tense ending as it sounds (/t/, /d/), showing **phonological awareness** of the ending but not yet the morphological spelling "-ed" [1] [1]. **"creem"** uses a plausible pattern for the vowel, showing knowledge that "ee" spells /iː/ [1].
 
