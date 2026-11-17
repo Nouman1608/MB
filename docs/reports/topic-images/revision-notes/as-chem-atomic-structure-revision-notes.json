@@ -1,0 +1,29 @@
+{
+ "page": "as-chem-atomic-structure-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--01-atom-mass-and-space.webp",
+   "after": "### Particle properties"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--02-beams-in-electric-field.webp",
+   "after": "## Beams in an electric field (1.1)"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--03-radius-across-period.webp",
+   "after": "## Atomic radius and ionic radius (1.1)"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--04-radius-down-group.webp",
+   "after": "## Atomic radius and ionic radius (1.1)"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--05-ion-radius-na-cl.webp",
+   "after": "## Atomic radius and ionic radius (1.1)"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-atomic-structure-particles-radius-and-isotopes--06-isotopes-chlorine.webp",
+   "after": "## Isotopes (1.2)"
+  }
+ ]
+}

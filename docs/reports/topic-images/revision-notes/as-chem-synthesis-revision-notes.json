@@ -1,0 +1,21 @@
+{
+ "page": "as-chem-synthesis-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--13-synthesis-reaction-map.webp",
+   "after": "## What does the AS reaction map look like?"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--14-identification-tests.webp",
+   "after": "## Using reactions as identification tests"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--17-analyse-a-route.webp",
+   "after": "## Analysing a given route — spotting by-products"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-organic-synthesis-planning-multi-step-routes--16-ethene-to-ethyl-ethanoate.webp",
+   "after": "## How do you plan a multi-step route?"
+  }
+ ]
+}

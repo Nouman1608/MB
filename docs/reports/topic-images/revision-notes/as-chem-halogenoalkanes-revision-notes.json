@@ -1,0 +1,33 @@
+{
+ "page": "as-chem-halogenoalkanes-revision-notes",
+ "placements": [
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--09-hal-classification.webp",
+   "after": "## Classification"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--08-hal-three-routes.webp",
+   "after": "## Three routes to make a halogenoalkane"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--12-hal-sn2-mechanism.webp",
+   "after": "## The two mechanisms"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--13-hal-sn1-mechanism.webp",
+   "after": "## The two mechanisms"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--10-hal-nucleophile-products.webp",
+   "after": "## The reactions to know"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--11-hal-solvent-decides.webp",
+   "after": "## The reactions to know"
+  },
+  {
+   "src": "https://img.marlbridge.com/as-halogenoalkanes--14-hal-silver-nitrate-test.webp",
+   "after": "## Reactivity trend — C–X bond enthalpy"
+  }
+ ]
+}

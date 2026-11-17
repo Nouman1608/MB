@@ -155,11 +155,12 @@ function mapRows(rows, { y = 150, lx = 30, lw = 380, rx = 520, rw = 350, gap = 1
     const fillL = r.hlOnly ? '#fbf6e2' : C.panel, edgeL = r.hlOnly ? C.olive : C.panelEdge;
     b += box(lx, yy, lw, h, { fill: fillL, edge: edgeL, rx: 12, dash: r.hlOnly ? '7 5' : '' });
     b += box(rx, yy, rw, h, { fill: r.r.fill || C.cream, edge: C.olive, rx: 12 });
-    let ty = yy + 28;
+    const lH = lt.length * 23 + ll.length * 21, rH = rt.length * 23 + rl.length * 21;
+    let ty = yy + (h - lH) / 2 + 19;
     lt.forEach((s) => { b += t(lx + 18, ty, s, { size: 19, weight: 700 }); ty += 23; });
     if (r.hlOnly) b += hlTag(lx + lw - hlTagW() - 12, yy + 10);
     ll.forEach((s) => { b += t(lx + 18, ty, s, { size: 16, fill: C.muted }); ty += 21; });
-    ty = yy + 28;
+    ty = yy + (h - rH) / 2 + 19;
     rt.forEach((s) => { b += t(rx + 18, ty, s, { size: 19, weight: 700 }); ty += 23; });
     rl.forEach((s) => { b += t(rx + 18, ty, s, { size: 16, fill: C.muted }); ty += 21; });
     b += arrow(lx + lw + 6, yy + h / 2, rx - 8, yy + h / 2, { w: 3.5, color: C.olive, marker: 'ahO' });
@@ -230,6 +231,20 @@ function hlKey(x, y, onlyText = 'HL-only sub-topic (not examined at SL)', partTe
     b += t(x2 + hlTagW('+HL') + 10, y + 1, partText, { size: 16, weight: 600 });
   }
   return b;
+}
+// Standard "how the hours are split" figure body: comps [{label, sl, hl, fill, color}], totals text
+function hoursSplit(comps, { y = 130, slTotal, hlTotal, note } = {}) {
+  const segs = (k) => comps.map((c) => ({ v: c[k], fill: c.fill, text: c[k] ? String(c[k]) : '', color: c.color }));
+  const s = stackBars([
+    { label: 'SL', segs: segs('sl'), total: slTotal },
+    { label: 'HL', segs: segs('hl'), total: hlTotal },
+  ], { y: y + 24, max: 240, x0: 50, labelW: 60, bw: 680, h: 60, gap: 30 });
+  let b = box(26, y, 848, s.bottom - y + 24, { rx: 14 }) + s.body;
+  const lg = swatches(comps.map((c) => ({ fill: c.fill, label: c.label })), 50, s.bottom + 66, { size: 16 });
+  b += lg.body;
+  let bottom = lg.bottom;
+  if (note) { b += footNote(bottom + 44, note); bottom += 44 + (wrap(note, 820, 17).length - 1) * 23; }
+  return { body: b, bottom };
 }
 
 // 01 Teaching hours by topic

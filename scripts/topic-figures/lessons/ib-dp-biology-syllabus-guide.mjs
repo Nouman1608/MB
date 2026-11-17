@@ -6,7 +6,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
 
 // ---- IB syllabus-guide kit: the same helpers are inlined in every IB "Syllabus Guide" figure file so the set looks alike ----
 const SL = C.teal, HL = C.mustard, HLONLY = C.cream;
-const cw = (size, weight = 400) => size * (weight >= 600 ? 0.585 : 0.54);
+const cw = (size, weight = 400) => size * (weight >= 600 ? 0.585 : weight >= 500 ? 0.565 : 0.54);
 const tw = (s, size = 17, weight = 400) => String(s).length * cw(size, weight);
 function wrap(s, maxW, size = 17, weight = 400) {
   const lim = maxW / cw(size, weight);
@@ -33,7 +33,7 @@ function legendSLHL(x, y, { sl = 'Standard Level (SL)', hl = 'Higher Level (HL)'
     box(x + 70 + tw(sl, 17, 600), y - 15, 30, 18, { fill: HL, edge: C.olive, sw: 2, rx: 4 }) + t(x + 110 + tw(sl, 17, 600), y, hl, { size: 17, weight: 600 });
 }
 // Paired SL/HL horizontal bars. rows: {label, sub, sl, hl, slText, hlText, note, noteColor, hlOnly}
-function pairedBars(rows, { y = 150, max, x0 = 40, labelW = 290, bx = 350, bw = 440, unit = ' h', rowGap = 10 } = {}) {
+function pairedBars(rows, { y = 150, max, x0 = 40, labelW = 290, bx = 350, bw = 440, unit = ' h', rowGap = 10, minH = 70 } = {}) {
   const sc = bw / max;
   let b = '', yy = y;
   for (const r of rows) {
@@ -41,7 +41,7 @@ function pairedBars(rows, { y = 150, max, x0 = 40, labelW = 290, bx = 350, bw = 
     const subLines = r.sub ? wrap(r.sub, labelW, 15) : [];
     const noteLines = r.note ? wrap(r.note, labelW, 15, 600) : [];
     const textH = labLines.length * 22 + subLines.length * 19 + noteLines.length * 19;
-    const h = Math.max(70, textH + 22);
+    const h = Math.max(minH, textH + 22);
     b += box(x0 - 14, yy, 900 - 2 * (x0 - 14), h, { fill: r.hlOnly ? '#fbf6e2' : C.panel, edge: r.hlOnly ? C.olive : C.panelEdge, sw: 2, dash: r.hlOnly ? '7 5' : '' });
     let ty = yy + (h - textH) / 2 + 16;
     labLines.forEach((l) => { b += t(x0, ty, l, { size: 18, weight: 700 }); ty += 22; });
@@ -133,7 +133,7 @@ function flowSteps(steps, { x = 30, y = 120, w = 840, gap = 22, fills = [] } = {
     const h = Math.max(78, 46 + lines.length * 23 + 10);
     b += box(x, yy, w, h, { fill: fills[i] || C.panel, edge: C.panelEdge, rx: 14 });
     b += badge(x + 46, yy + h / 2, 22, String(i + 1), i === steps.length - 1 ? C.mustard : C.cream);
-    b += t(x + 90, yy + 34, s.title, { size: 20, weight: 700 });
+    b += t(x + 90, lines.length ? yy + 34 : yy + h / 2 + 7, s.title, { size: 20, weight: 700 });
     b += tl(x + 90, yy + 60, lines, { size: 17, fill: C.muted }, 23);
     if (i < steps.length - 1) b += arrow(x + 46, yy + h + 1, x + 46, yy + h + gap - 1, { w: 3 });
     yy += h + gap;
@@ -155,11 +155,12 @@ function mapRows(rows, { y = 150, lx = 30, lw = 380, rx = 520, rw = 350, gap = 1
     const fillL = r.hlOnly ? '#fbf6e2' : C.panel, edgeL = r.hlOnly ? C.olive : C.panelEdge;
     b += box(lx, yy, lw, h, { fill: fillL, edge: edgeL, rx: 12, dash: r.hlOnly ? '7 5' : '' });
     b += box(rx, yy, rw, h, { fill: r.r.fill || C.cream, edge: C.olive, rx: 12 });
-    let ty = yy + 28;
+    const lH = lt.length * 23 + ll.length * 21, rH = rt.length * 23 + rl.length * 21;
+    let ty = yy + (h - lH) / 2 + 19;
     lt.forEach((s) => { b += t(lx + 18, ty, s, { size: 19, weight: 700 }); ty += 23; });
     if (r.hlOnly) b += hlTag(lx + lw - hlTagW() - 12, yy + 10);
     ll.forEach((s) => { b += t(lx + 18, ty, s, { size: 16, fill: C.muted }); ty += 21; });
-    ty = yy + 28;
+    ty = yy + (h - rH) / 2 + 19;
     rt.forEach((s) => { b += t(rx + 18, ty, s, { size: 19, weight: 700 }); ty += 23; });
     rl.forEach((s) => { b += t(rx + 18, ty, s, { size: 16, fill: C.muted }); ty += 21; });
     b += arrow(lx + lw + 6, yy + h / 2, rx - 8, yy + h / 2, { w: 3.5, color: C.olive, marker: 'ahO' });
@@ -179,7 +180,7 @@ function themeChips(panels, { x = 30, y = 120, w = 840, cols = 2, gap = 16, size
     let cx = 0, rowsN = 1; const pos = [];
     for (const it of p.items) {
       const pill = it.hl ? hlTagW(it.hl === 'only' ? 'HL' : '+HL') + 6 : 0;
-      let cwid = tw(it.t, size, 500) + 26 + pill;
+      let cwid = tw(it.t, size, 500) + 30 + pill;
       const maxc = pw - 32;
       let lines = [it.t];
       if (cwid > maxc) { lines = wrap(it.t, maxc - 26 - pill, size, 500); cwid = maxc; }
@@ -230,6 +231,20 @@ function hlKey(x, y, onlyText = 'HL-only sub-topic (not examined at SL)', partTe
     b += t(x2 + hlTagW('+HL') + 10, y + 1, partText, { size: 16, weight: 600 });
   }
   return b;
+}
+// Standard "how the hours are split" figure body: comps [{label, sl, hl, fill, color}], totals text
+function hoursSplit(comps, { y = 130, slTotal, hlTotal, note } = {}) {
+  const segs = (k) => comps.map((c) => ({ v: c[k], fill: c.fill, text: c[k] ? String(c[k]) : '', color: c.color }));
+  const s = stackBars([
+    { label: 'SL', segs: segs('sl'), total: slTotal },
+    { label: 'HL', segs: segs('hl'), total: hlTotal },
+  ], { y: y + 24, max: 240, x0: 50, labelW: 60, bw: 680, h: 60, gap: 30 });
+  let b = box(26, y, 848, s.bottom - y + 24, { rx: 14 }) + s.body;
+  const lg = swatches(comps.map((c) => ({ fill: c.fill, label: c.label })), 50, s.bottom + 66, { size: 16 });
+  b += lg.body;
+  let bottom = lg.bottom;
+  if (note) { b += footNote(bottom + 44, note); bottom += 44 + (wrap(note, 820, 17).length - 1) * 23; }
+  return { body: b, bottom };
 }
 
 // 01 Teaching hours by theme

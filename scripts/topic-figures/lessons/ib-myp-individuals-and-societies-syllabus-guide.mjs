@@ -277,7 +277,7 @@ function mypFramework({ key, related, relatedNote, criteria, totalText = 'total 
   // scale strip
   b += box(30, 754, 840, 76, { fill: C.tealLight, edge: C.tealDark, rx: 14 });
   for (let n = 0; n <= 8; n++) { const x = 52 + n * 34; b += box(x, 772, 28, 38, { fill: n === 0 ? '#fff' : [C.tealLight, C.teal, C.cream, C.mustard][Math.floor((n - 1) / 2)], edge: C.ink, sw: 1.5, rx: 5 }) + t(x + 14, 797, String(n), { size: 15, weight: 700, anchor: 'middle' }); }
-  b += t(376, 788, 'each criterion: levels 0 to 8', { size: 17, weight: 700 }) + t(376, 812, '1 to 8 in four bands; 0 below level 1', { size: 15, fill: C.muted });
+  b += t(366, 788, 'each criterion 0 to 8', { size: 17, weight: 700 }) + t(366, 812, '1 to 8 in four bands; 0 below 1', { size: 15, fill: C.muted });
   { const tw2 = tw(totalText, 18, 700) + 30; b += box(852 - tw2, 770, tw2, 44, { fill: C.mustard, edge: C.olive, rx: 10 }) + t(852 - tw2 / 2, 798, totalText, { size: 18, weight: 700, anchor: 'middle' }); }
   return b;
 }
