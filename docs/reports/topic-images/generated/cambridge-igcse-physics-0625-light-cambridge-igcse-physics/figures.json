@@ -15,7 +15,7 @@
   "after": "## Refraction and refractive index",
   "alt": "A ray in air meets a plastic block of refractive index 1.60 at 50° to the normal, bends towards the normal to 28.6° inside, and leaves parallel to its original direction, shifted sideways. Calculations give r = 28.6°, a speed of 1.9 × 10⁸ m/s in the plastic and a critical angle of 38.7°.",
   "caption": "Light bends towards the normal entering a slower material and away from it leaving.",
-  "bytes": 74620
+  "bytes": 74744
  },
  {
   "file": "cambridge-igcse-physics-0625-light-cambridge-igcse-physics--03-critical-angle-tir.webp",
@@ -33,7 +33,7 @@
   "after": "## Thin lenses",
   "alt": "Scale ray diagram: a 2.0 cm object 15 cm from a converging lens of focal length 5.0 cm. A ray parallel to the axis refracts through the far principal focus and a ray through the centre goes straight on; they cross 7.5 cm beyond the lens, 1.0 cm below the axis, giving a real, inverted, diminished image.",
   "caption": "Two construction rays fix the image: here real, inverted and diminished.",
-  "bytes": 75514
+  "bytes": 75486
  },
  {
   "file": "cambridge-igcse-physics-0625-light-cambridge-igcse-physics--05-magnifying-glass.webp",

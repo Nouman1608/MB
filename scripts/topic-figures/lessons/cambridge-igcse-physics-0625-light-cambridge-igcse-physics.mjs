@@ -128,7 +128,7 @@ const hatchV = (x, y1, y2) => { let s = W(x, y1, x, y2, C.ink, 5); for (let y = 
   const S = [P[0] - 135 * Math.sin(i), top - 135 * Math.cos(i)], E = [Q[0] + 135 * Math.sin(i), bot + 135 * Math.cos(i)];
   s += ray(S[0], S[1], (S[0] + P[0]) / 2, (S[1] + P[1]) / 2) + seg((S[0] + P[0]) / 2, (S[1] + P[1]) / 2, P[0], P[1]) + ray(P[0], P[1], (P[0] + Q[0]) / 2, (P[1] + Q[1]) / 2) + seg((P[0] + Q[0]) / 2, (P[1] + Q[1]) / 2, Q[0], Q[1]) + ray(Q[0], Q[1], E[0], E[1]);
   s += seg(P[0], P[1], P[0] + 200 * Math.sin(i), P[1] + 200 * Math.cos(i), C.muted, 1.5, '4 5');
-  s += ang(P[0], P[1], 55, -Math.PI / 2 - i, -Math.PI / 2, 'i = 50°', P[0] - 62, P[1] - 62) + ang(P[0], P[1], 50, Math.PI / 2 - r, Math.PI / 2, '', 0, 0) + t(P[0] + 40, P[1] + 40, 'r = 28.6°', { size: 17, weight: 700 });
+  s += ang(P[0], P[1], 55, -Math.PI / 2 - i, -Math.PI / 2, '', 0, 0) + t(P[0] - 8, P[1] - 80, 'i = 50°', { size: 17, weight: 700, anchor: 'end' }) + ang(P[0], P[1], 50, Math.PI / 2 - r, Math.PI / 2, '', 0, 0) + t(P[0] + 40, P[1] + 40, 'r = 28.6°', { size: 17, weight: 700 });
   s += t(240, 560, 'towards the normal going in, away coming out;', { size: 16, anchor: 'middle', fill: C.muted }) + t(240, 582, 'the ray leaves parallel to the way it entered', { size: 16, anchor: 'middle', fill: C.muted });
   const k = calc(460, 130, 410, 'Worked example 1', ['sin r = sin 50° / 1.60', '= 0.766 / 1.60 = 0.479', ['r = 28.6°  (29°)', 700, C.rust], 'speed = 3.0 × 10⁸ / 1.60', ['= 1.9 × 10⁸ m/s', 700, C.rust], 'sin c = 1 / 1.60 = 0.625', ['c = 38.7°', 700, C.rust]], { lh: 32, size: 18 });
   add('02-refraction-block',
@@ -181,7 +181,7 @@ const hatchV = (x, y1, y2) => { let s = W(x, y1, x, y2, C.ink, 5); for (let y = 
   g += arrow(X(-15), ay, X(-15), Y(2) + 4, { w: 4, color: C.tealDark, marker: 'ahT' }) + t(X(-15) - 8, Y(2) - 14, 'object 2.0 cm', { size: 16, weight: 700, fill: C.tealDark });
   g += ray(X(-15), Y(2), X(-6), Y(2)) + seg(X(-6), Y(2), lx, Y(2)) + ray(lx, Y(2), X(10), Y(2) + (10 * sc) * 0.4) + seg(X(10), Y(2) + 4 * sc, X(13), Y(2) + 0.4 * 13 * sc);
   g += ray(X(-15), Y(2), X(-5), Y(2) + (10 / 15) * 2 * sc) + seg(X(-5), Y(2) + (20 / 15) * sc, X(13), Y(2) + (28 / 15) * 2 * sc);
-  g += arrow(X(7.5), ay, X(7.5), Y(-1) - 4, { w: 4, color: C.rust, marker: 'ahR' }) + t(X(7.5) + 8, ay - 16, 'image 1.0 cm tall,', { size: 16, weight: 700, fill: C.rust }) + t(X(7.5) + 8, ay - 38, '7.5 cm from the lens', { size: 16, weight: 700, fill: C.rust });
+  g += arrow(X(7.5), ay, X(7.5), Y(-1) - 4, { w: 4, color: C.rust, marker: 'ahR' }) + t(X(7.5) + 8, ay - 38, 'image 1.0 cm tall,', { size: 16, weight: 700, fill: C.rust }) + t(X(7.5) + 8, ay - 16, '7.5 cm from the lens', { size: 16, weight: 700, fill: C.rust });
   g += t(X(-15) + 0, ay + 52, '← 15 cm from the lens', { size: 15, fill: C.muted });
   add('04-lens-real-image',
     svg(900, 600, 'Converging lens: object beyond 2F',

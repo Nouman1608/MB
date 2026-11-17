@@ -6,7 +6,7 @@
   "after": "## Charge, current and energy: the picture",
   "alt": "A 6.0 V battery and a lamp in a loop. Conventional current runs from + to −, electrons drift the other way. Each coulomb gains 6.0 J in the battery and transfers it in the lamp. Side notes: Q = I × t, voltage is energy per unit charge, E = Q × V.",
   "caption": "Charge is not used up: each coulomb picks up energy at the supply and transfers it in the components.",
-  "bytes": 63036
+  "bytes": 63438
  },
  {
   "file": "edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--02-junction-and-voltage-rules.webp",

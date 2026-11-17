@@ -256,11 +256,11 @@ function answerFig(title, q, steps, o = {}) {
   s += `<rect x="300" y="${y}" width="300" height="64" rx="14" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + label(450, y + 40, 'Any actor in globalisation', { size: 19, weight: 700, anchor: 'middle' });
   for (const x of [170, 450, 730]) s += arrow(450 + (x - 450) * 0.3, y + 68, x, y + 112, { w: 3.5 });
   y += 118;
-  const r = cardRow(y, [
+  const r = hchain(y, [
     { head: 'What resources does it have?', body: 'money, law, votes, people, knowledge', fill: C.teal },
-    { head: 'Whose interests does it serve?', body: '', fill: C.cream },
-    { head: 'Who holds it to account?', body: '', fill: C.tealLight },
-  ].map((c) => ({ ...c, body: c.body || ' ' })), { size: 16, headSize: 18 });
+    { head: 'Whose interests does it serve?', fill: C.cream },
+    { head: 'Who holds it to account?', fill: C.tealLight },
+  ], { arrows: false, ag: 16, size: 16 });
   s += r.svg; y += r.h + 18;
   const n = note(y, 'Why it works', 'Answers that use these questions analyse power rather than list organisations.');
   s += n.svg; y += n.h;

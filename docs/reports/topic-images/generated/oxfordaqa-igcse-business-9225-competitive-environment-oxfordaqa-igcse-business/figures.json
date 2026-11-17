@@ -24,7 +24,7 @@
   "after": "## Worked example 1: competition arrives",
   "alt": "Bars show Hartwell Fitness monthly revenue: $28,000 now (800 × $35), $19,000 if it matches the $25 price and keeps 760 members, and $19,600 if it keeps $35 and loses 30% of members, leaving 560. Option 2 is $600 higher, but both fall by more than $8,000.",
   "caption": "Competition costs Hartwell over $8,000 a month whichever price it chooses.",
-  "bytes": 125300
+  "bytes": 125428
  },
  {
   "file": "oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--04-minimal-competition.webp",
@@ -33,7 +33,7 @@
   "after": "## Minimal or no competition",
   "alt": "Five situations lead to little or no competition: a remote location, a new invention, high start-up costs, government licences and a dominant business. The benefits are higher prices, profits and less promotion; the drawbacks are complacency and high profits that attract new rivals, bringing competition back.",
   "caption": "Little competition allows higher prices, but high profits invite rivals in.",
-  "bytes": 113446
+  "bytes": 113622
  },
  {
   "file": "oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--05-sources-of-uncertainty.webp",
@@ -42,7 +42,7 @@
   "after": "## Risk and uncertainty",
   "alt": "Risk is the chance that something goes wrong and causes a loss; uncertainty means the future cannot be known. Five sources feed uncertainty: changing customer tastes, unpredictable competitors, a changing economy, changing laws and unexpected events such as floods or fires.",
   "caption": "Customers, rivals, the economy, the law and the unexpected all make the future unknowable.",
-  "bytes": 95306
+  "bytes": 95180
  },
  {
   "file": "oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--06-reason-effect-answer.webp",
@@ -51,7 +51,7 @@
   "after": "## Risk and uncertainty",
   "alt": "Two rows of an answer about a new café. Changing customer tastes leads to sales that are hard to predict; a rival café opening leads to lost customers, price cuts and uncertain profit. Reason plus effect makes an explanation.",
   "caption": "Follow every reason with its effect on the business.",
-  "bytes": 91030
+  "bytes": 91372
  },
  {
   "file": "oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--07-risk-and-reward.webp",
@@ -60,7 +60,7 @@
   "after": "## Activities that minimise risk",
   "alt": "A balance with risk, a chance of a loss, on one side and five rewards on the other: profit, independence, an idea or passion, flexibility and helping others. Seven activities from market research to supplier agreements make the risk smaller but never remove it.",
   "caption": "Entrepreneurs accept risk for the reward, and reduce it where they can.",
-  "bytes": 133760
+  "bytes": 133778
  },
  {
   "file": "oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business--08-lower-cost-advantage.webp",
@@ -69,6 +69,6 @@
   "after": "## How developing countries compete with developed countries",
   "alt": "Lower wages, cheaper land and lower rents give lower production costs and lower prices, so businesses win orders on price for goods such as clothing, furniture and food. They also specialise, improve quality and use e-commerce, but face higher transport costs, less known brands and even cheaper rivals.",
   "caption": "Lower cost advantage wins orders on price, but it is not the only route or a guarantee.",
-  "bytes": 95502
+  "bytes": 95432
  }
 ]

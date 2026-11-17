@@ -188,7 +188,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   const st = (x, head, v, f, e) => rect(x, 630, 270, 100, f, e) + tx(x + 135, 664, head, { size: 16, anchor: 'middle', fill: C.muted }) + tx(x + 135, 704, v, { size: 22, weight: 700, anchor: 'middle', fill: e });
   b += st(30, 'Meals', '−15%', C.panel, C.olive);
   b += st(315, 'Average spend', '£24 → £22', C.panel, C.olive);
-  b += st(600, 'Revenue: 3,180 ÷ 14,400', '−22.1%', '#fbf3ee', C.rust);
+  b += st(600, 'Revenue: 3,180 ÷ 14,400', '−22.1%', C.panel, C.rust);
   b += takeaway(750, 'Revenue falls further than meals, because quantity and spend both fall.', 'Larkspur could respond with a cheaper set menu, mid-week offers or fewer opening hours.');
   add('06-larkspur-bistro',
     svg(900, 750 + takeH('Larkspur could respond with a cheaper set menu, mid-week offers or fewer opening hours.') + 30, 'Larkspur Bistro: a squeeze on two sides', b),

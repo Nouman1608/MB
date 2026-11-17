@@ -344,7 +344,7 @@ F('06-correspondence', 'Correspondence: does the mens rea match the harm?', '', 
     R.forEach(([o, m, a, ok], i) => {
       const yy = y0 + i * (h + gap);
       const oh = para(0, 0, o, 130, { size: 17, weight: 700, lh: 20 }).h;
-      s += `<rect x="30" y="${yy}" width="150" height="${h}" rx="10" fill="${ok ? C.tealDark : C.panel}" stroke="${C.ink}" stroke-width="2.5"/>` + para(105, yy + h / 2 - oh / 2 + 15, o, 130, { size: 17, weight: 700, anchor: 'middle', fill: ok ? '#ffffff' : C.ink, lh: 20 }).s;
+      s += `<rect x="30" y="${yy}" width="150" height="${h}" rx="10" fill="${ok ? C.tealDark : C.panel}" stroke="${C.ink}" stroke-width="2.5"/>` + para(105, yy + h / 2 - oh / 2 + 15, o, 130, { size: 17, weight: 700, anchor: 'middle', fill: ok ? C.panel : C.ink, lh: 20 }).s;
       s += `<rect x="195" y="${yy}" width="335" height="${h}" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2"/>` + para(210, yy + (para(0, 0, m, 305, { size: 16 }).h > 25 ? 26 : 38), m, 305, { size: 16, fill: C.ink, lh: 20 }).s;
       s += `<rect x="590" y="${yy}" width="220" height="${h}" rx="10" fill="${C.cream}" stroke="${C.olive}" stroke-width="2"/>` + T(700, yy + 39, a, { size: 18, weight: 700, anchor: 'middle' });
       s += ok ? T(560, yy + 42, '=', { size: 30, weight: 700, anchor: 'middle', fill: C.tealDark }) : T(560, yy + 42, '<', { size: 30, weight: 700, anchor: 'middle', fill: C.rust });

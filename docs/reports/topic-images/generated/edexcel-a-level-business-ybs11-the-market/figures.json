@@ -51,7 +51,7 @@
   "after": "## Price elasticity of demand: beyond the formula",
   "alt": "A PED scale from 0 to above 1. A price rise raises revenue when demand is perfectly inelastic or inelastic, leaves it unchanged at 1 and reduces it when demand is elastic. Demand is more elastic with close substitutes, non-necessities, a large share of income, little loyalty and more time. Pricing decisions are about profit, not just revenue.",
   "caption": "PED predicts what a price change does to revenue; profit also depends on costs.",
-  "bytes": 113072
+  "bytes": 112816
  },
  {
   "file": "edexcel-a-level-business-ybs11-the-market--07-brockley-price-rise.webp",
@@ -69,6 +69,6 @@
   "after": "## Income elasticity of demand",
   "alt": "A YED scale: below 0 inferior, 0 to +1 normal and income inelastic, above +1 normal and income elastic. Brockley’s off-peak budget membership falls 2% when incomes rise 5% (YED −0.4, inferior); its premium personal training rises 9% (YED +1.8, income elastic).",
   "caption": "Positive YED means a normal good, negative an inferior one; the size shows how strongly demand follows income.",
-  "bytes": 110102
+  "bytes": 110072
  }
 ]

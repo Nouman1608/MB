@@ -64,7 +64,7 @@ const flowArrow = (x, y, dir, col = C.rust, mk = 'ahR') => { const d = { r: [1, 
     t(323, y2 - 32, '+', { size: 20, weight: 700, anchor: 'middle' }) + t(358, y2 - 32, '−', { size: 20, weight: 700, anchor: 'middle' }) + t(340, y2 + 42, '6.0 V battery', { size: 16, anchor: 'middle', weight: 600 }) +
     flowArrow(x1, 300, 'u') + flowArrow(450, y1, 'r') + flowArrow(x2, 300, 'd') + flowArrow(220, y2, 'l') +
     flowArrow(x1 + 30, 300, 'd', C.tealDark, 'ahT') + flowArrow(450, y1 + 30, 'l', C.tealDark, 'ahT') + flowArrow(x2 - 30, 300, 'u', C.tealDark, 'ahT') + flowArrow(220, y2 - 30, 'r', C.tealDark, 'ahT') +
-    rect(380, 395, 92, 48, { fill: C.cream, stroke: C.olive, sw: 2, rx: 24 }) + t(426, 416, '1 C', { size: 15, weight: 700, anchor: 'middle' }) + t(426, 434, 'gains 6.0 J', { size: 13.5, anchor: 'middle' }) +
+    rect(378, 392, 112, 54, { fill: C.cream, stroke: C.olive, sw: 2, rx: 26 }) + t(434, 414, '1 C', { size: 15, weight: 700, anchor: 'middle' }) + t(434, 434, 'gains 6.0 J', { size: 15, anchor: 'middle' }) +
     t(340, 130 + 0, '', {}) + t(140, y1 - 30, 'each coulomb transfers', { size: 15, fill: C.olive, weight: 600 }) + t(140, y1 - 12, '6.0 J in the lamp', { size: 15, fill: C.olive, weight: 600 }) +
     arrow(55, 482, 85, 482, { w: 3, color: C.rust, marker: 'ahR' }) + t(95, 487, 'conventional current: + to −', { size: 15 }) +
     arrow(55, 505, 85, 505, { w: 3, color: C.tealDark, marker: 'ahT' }) + t(95, 510, 'electron flow: − to +', { size: 15 }) +

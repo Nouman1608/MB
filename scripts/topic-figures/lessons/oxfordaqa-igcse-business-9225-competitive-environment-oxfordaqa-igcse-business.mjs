@@ -9,7 +9,7 @@ const esc = (s) => String(s).replace(/&(?!amp;|lt;|gt;|#)/g, '&amp;').replace(/<
 const tx = (x, y, s, o = {}) => t(x, y, esc(s), o);
 // rough Inter width: ~0.54 x font size per character (bold a little wider)
 const wrap = (s, px, size = 17, bold = false) => {
-  const n = Math.max(4, Math.floor(px / (size * (bold ? 0.58 : 0.54))));
+  const n = Math.max(4, Math.floor(px / (size * (bold ? 0.56 : 0.51))));
   const out = [];
   for (const para of String(s).split('\n')) {
     let cur = '';

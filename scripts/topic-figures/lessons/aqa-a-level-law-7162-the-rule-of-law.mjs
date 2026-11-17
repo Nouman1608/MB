@@ -335,7 +335,7 @@ F('04-three-areas', 'Applying the doctrine to each area', '', [
     ['Law making', 'Statutes published and generally prospective; HRA 1998 s19 statement of compatibility', 'Retrospective legislation; Henry VIII powers; wide ouster clauses'],
     ['The legal system', 'Independent judges; open courts; appeals; judicial review; jury trial', 'Cost of litigation; reduced legal aid; delay'],
     ['Substantive law', 'Offences defined in advance; presumption of mens rea; Article 7', 'Vague common law offences (conspiracy to corrupt public morals); strict liability; retrospective judicial change'],
-  ], { size: 16, hsize: 18, cellFill: (ri, ci) => (ci === 2 ? '#fbf6e2' : null) }),
+  ], { size: 16, hsize: 18, cellFill: (ri, ci) => (ci === 2 ? C.cream : null) }),
   (y) => note(y, '', '**Common mistake:** describing the elements without applying them to law making, the legal system **and** substantive law.', { size: 16, align: 'middle', fill: C.panel, edge: C.panelEdge }),
 ],
 'A table for the three areas. Law making: published, prospective statutes and section 19 HRA statements, against retrospective legislation, Henry VIII powers and ouster clauses. The legal system: independent judges, open courts, appeals and juries, against cost, reduced legal aid and delay. Substantive law: offences defined in advance and the presumption of mens rea, against vague common law offences, strict liability and retrospective judicial change.',

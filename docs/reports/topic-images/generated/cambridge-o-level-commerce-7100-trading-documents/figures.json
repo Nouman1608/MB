@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--01-invoice-calculation.webp",
+  "width": 900,
+  "height": 695,
+  "after": "## Worked example 1: the invoice",
+  "alt": "An invoice for 40 shirts at $15: $600 less a 20% trade discount of $120 gives $480 due. If Lakeview pays within 14 days it deducts a 5% cash discount of $24 and pays $456; otherwise it pays $480.",
+  "caption": "Trade discount comes off first; cash discount is taken only if the buyer pays in time (invented figures).",
+  "bytes": 87316
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--02-credit-note-statement.webp",
+  "width": 900,
+  "height": 765,
+  "after": "## Worked example 2: credit note and statement",
+  "alt": "A credit note for 4 damaged shirts is worth 4 × $15 = $60 less $12 trade discount = $48. A waterfall then shows the statement: $200 brought forward, plus the $480 invoice, less the $48 credit note, less a $200 payment, leaving $432 due.",
+  "caption": "On a statement, invoices push the balance up and credit notes and payments bring it down (invented figures).",
+  "bytes": 93452
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--03-international-documents.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Documents of international trade",
+  "alt": "Four cards: the certificate of origin, issued in the exporting country, states where goods were made; the bill of lading, from the shipping company, is a document of title; the air waybill, from the airline, is not; and documentary credit is the importer’s bank’s promise to pay once documents are presented.",
+  "caption": "Only the bill of lading is a document of title; documentary credit is a bank’s promise to pay.",
+  "bytes": 116128
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--04-documentary-credit.webp",
+  "width": 900,
+  "height": 625,
+  "after": "## Documents of international trade",
+  "alt": "Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships and gets a bill of lading; it presents the documents and the bank pays; the documents prove to the importer that goods were shipped as agreed.",
+  "caption": "The exporter is sure of payment and the importer pays only against proof of shipment.",
+  "bytes": 77790
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--05-online-ordering.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Online ordering: from browsing to receiving",
+  "alt": "Eight numbered stages: browse, add to basket, checkout with delivery details, choose delivery option, pay securely, receive an order confirmation, dispatch with a tracking link, and receive the order. The basket replaces the written order, the confirmation the receipt and tracking the delivery note.",
+  "caption": "Online ordering follows the paper sequence with digital equivalents.",
+  "bytes": 102044
+ },
+ {
+  "file": "cambridge-o-level-commerce-7100-trading-documents--06-digital-technology.webp",
+  "width": 900,
+  "height": 685,
+  "after": "## Digital technology in trading documents",
+  "alt": "Five technologies with what each does and its benefit: digital signatures, secure access, cloud-based storage, electronic receipts and etickets. Below, the drawbacks: hacking, dependence on internet and power, system and training costs, and customers without smartphones.",
+  "caption": "Digital documents are faster and harder to lose, but bring security and access risks.",
+  "bytes": 117322
+ }
+]

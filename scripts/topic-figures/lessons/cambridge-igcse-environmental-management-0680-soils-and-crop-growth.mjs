@@ -220,12 +220,12 @@ const leaf = (x, y, rx, ry, rot, fill, edge = C.ink) => `<ellipse cx="${x}" cy="
     s += notes(gx, gy, gw, gh);
     return s;
   };
-  b += graph(30, 'Light intensity', 'light intensity →', (gx, gy, gw, gh) => `M${gx},${gy} Q${gx + 90},${gy - gh * 0.95} ${gx + 170},${gy - gh * 0.8} L${gx + gw},${gy - gh * 0.8}`,
+  b += graph(30, 'Light intensity', 'light intensity →', (gx, gy, gw, gh) => `M${gx},${gy} C${gx + 60},${gy - gh * 0.65} ${gx + 110},${gy - gh * 0.8} ${gx + 180},${gy - gh * 0.8} L${gx + gw},${gy - gh * 0.8}`,
     (gx, gy, gw, gh) => tag(gx + 85, gy - 60, 'rises steeply', { size: 15.5, fill: C.tealDark }) + tl(gx + 180, gy - gh * 0.8 + 30, ['levels off: another', 'factor (temperature', 'or CO2) now limits'], { size: 15.5, fill: C.ink }, 19));
-  b += graph(460, 'Temperature', 'temperature →', (gx, gy, gw, gh) => `M${gx},${gy - 10} Q${gx + 120},${gy - 40} ${gx + 190},${gy - gh * 0.85} Q${gx + 230},${gy - gh * 0.9} ${gx + 270},${gy - 30}`,
-    (gx, gy, gw, gh) => line(gx + 205, gy - gh * 0.86, gx + 205, gy, { dash: '6 5', w: 2, color: C.muted }) + t(gx + 205, gy - gh * 0.92, 'optimum', { size: 16, weight: 700, anchor: 'middle', fill: C.olive }) + tl(gx + 10, gy - gh * 0.75, ['below: slow'], { size: 15.5 }, 19) + tl(gx + 250, gy - gh * 0.45, ['above:', 'enzymes', 'work less', 'well'], { size: 15.5 }, 19));
+  b += graph(460, 'Temperature', 'temperature →', (gx, gy, gw, gh) => `M${gx},${gy - 10} Q${gx + 110},${gy - 40} ${gx + 160},${gy - gh * 0.82} Q${gx + 185},${gy - gh * 0.95} ${gx + 230},${gy - 30}`,
+    (gx, gy, gw, gh) => line(gx + 166, gy - gh * 0.88, gx + 166, gy, { dash: '6 5', w: 2, color: C.muted }) + t(gx + 166, gy - gh * 0.94, 'optimum', { size: 16, weight: 700, anchor: 'middle', fill: C.olive }) + tl(gx + 10, gy - gh * 0.75, ['below: slow'], { size: 15.5 }, 19) + tl(gx + 240, gy - gh * 0.5, ['above:', 'enzymes', 'work less', 'well'], { size: 15.5 }, 19));
   b += t(450, 612, 'Three conditions set the rate and how long it lasts:', { size: 17, weight: 700, anchor: 'middle' });
-  [['length of growing season', 250], ['optimum weather conditions', 270], ['daylight hours', 180]].reduce((x, [s, w]) => { b += pill(x, 630, w, 44, s, { fill: '#eef5f4', edge: C.tealDark, size: 16 }); return x + w + 20; }, 60);
+  [['length of growing season', 250], ['optimum weather conditions', 270], ['daylight hours', 180]].reduce((x, [s, w]) => { b += pill(x, 630, w, 44, s, { fill: '#eef5f4', edge: C.tealDark, size: 16 }); return x + w + 20; }, 80);
   b += t(860, 610 - 400 + 30 + 0, '', {});
   add('05-photosynthesis-graphs',
     svg(900, 700, 'Reading photosynthesis graphs', b),
@@ -263,31 +263,31 @@ const leaf = (x, y, rx, ry, rot, fill, edge = C.ink) => `<ellipse cx="${x}" cy="
 
 // 07 Growing season
 {
-  let b = panel(30, 110, 840, 470);
+  let b = panel(30, 110, 840, 490);
   const months = ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'], T = [7, 11, 15, 19, 21, 20, 16, 9], R = [60, 55, 40, 70, 85, 75, 65, 80];
   const x0 = 110, cw = 90;
   // temperature panel
-  const ty0 = 290, tk = 6;
-  b += t(60, 140, 'Mean temperature (°C)', { size: 17, weight: 700 }) + t(840, 140, 'invented data', { size: 15, anchor: 'end', fill: C.muted, italic: true });
+  const ty0 = 300, tk = 6;
+  b += t(840, 140, 'invented data', { size: 15, anchor: 'end', fill: C.muted, italic: true });
   b += line(x0, ty0, x0 + cw * 8, ty0, { w: 2.5 });
-  b += line(x0, ty0 - 10 * tk, x0 + cw * 8, ty0 - 10 * tk, { dash: '8 6', color: C.rust, w: 2.5 }) + tag(x0 + cw * 8 - 4, ty0 - 10 * tk - 8, 'needs ≥ 10 °C', { size: 15, anchor: 'end', fill: C.rust });
-  // rainfall panel
-  const ry0 = 520, rk = 1.9;
-  b += t(60, 336, 'Rainfall (mm)', { size: 17, weight: 700 });
-  b += line(x0, ry0, x0 + cw * 8, ry0, { w: 2.5 });
-  b += line(x0, ry0 - 50 * rk, x0 + cw * 8, ry0 - 50 * rk, { dash: '8 6', color: C.rust, w: 2.5 }) + tag(x0 + cw * 8 - 4, ry0 - 50 * rk + 22, 'needs ≥ 50 mm', { size: 15, anchor: 'end', fill: C.rust });
-  months.forEach((m, i) => {
+    // rainfall panel
+  const ry0 = 545, rk = 1.9;
+    b += line(x0, ry0, x0 + cw * 8, ry0, { w: 2.5 });
+    months.forEach((m, i) => {
     const ok = T[i] >= 10 && R[i] >= 50, x = x0 + i * cw;
     if (ok) b += `<rect x="${x + 4}" y="150" width="${cw - 8}" height="${ry0 - 150 + 34}" rx="8" fill="${C.tealLight}" opacity="0.8"/>`;
     b += `<rect x="${x + 22}" y="${ty0 - T[i] * tk}" width="46" height="${T[i] * tk}" fill="${T[i] >= 10 ? C.mustard : '#e3e0d2'}" stroke="${C.ink}" stroke-width="2"/>` + t(x + 45, ty0 - T[i] * tk - 8, String(T[i]), { size: 15.5, weight: 700, anchor: 'middle' });
     b += `<rect x="${x + 22}" y="${ry0 - R[i] * rk}" width="46" height="${R[i] * rk}" fill="${R[i] >= 50 ? C.blue : '#d6dedd'}" stroke="${C.ink}" stroke-width="2"/>` + t(x + 45, ry0 - R[i] * rk - 8, String(R[i]), { size: 15.5, weight: 700, anchor: 'middle' });
     b += t(x + 45, ry0 + 26, m, { size: 16, weight: 700, anchor: 'middle' });
   });
-  b += panel(30, 600, 840, 100, C.cream, C.olive);
-  b += t(60, 638, 'Growing season: April, then June to September = five months', { size: 19, weight: 700 });
-  b += t(60, 668, 'May is warm enough but too dry (40 mm): may need irrigation. October is too cold.', { size: 16.5 });
+  b += t(60, 140, 'Mean temperature (°C)', { size: 17, weight: 700}) + t(262, 140, 'crop needs at least 10 °C (dashed)', { size: 16, weight: 600, fill: C.rust});
+  b += t(60, 346, 'Rainfall (mm)', { size: 17, weight: 700}) + t(186, 346, 'crop needs at least 50 mm (dashed)', { size: 16, weight: 600, fill: C.rust});
+  b += line(x0, ty0 - 10 * tk, x0 + cw * 8, ty0 - 10 * tk, { dash: '8 6', color: C.rust, w: 3 }) + line(x0, ry0 - 50 * rk, x0 + cw * 8, ry0 - 50 * rk, { dash: '8 6', color: C.rust, w: 3 });
+  b += panel(30, 620, 840, 100, C.cream, C.olive);
+  b += t(60, 658, 'Growing season: April, then June to September = five months', { size: 19, weight: 700 });
+  b += t(60, 688, 'May is warm enough but too dry (40 mm): may need irrigation. October is too cold.', { size: 16.5 });
   add('07-growing-season',
-    svg(900, 725, 'Worked example: finding the growing season', b),
+    svg(900, 745, 'Worked example: finding the growing season', b),
     'Monthly bar charts from March to October with thresholds of 10 °C and 50 mm. April and June to September meet both and are shaded. May is warm enough but has only 40 mm of rain; March and October are too cold. The growing season is five months.',
     'Only months that meet both thresholds count: April and June to September, five months.',
     H2.we2);

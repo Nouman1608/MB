@@ -109,7 +109,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   b += rect(460, 280, 410, 400, C.panel, C.tealDark) + tx(486, 318, 'Benefits: later, less certain', { size: 20, weight: 700, fill: C.tealDark });
   const dr = ['Higher costs, such as fairer prices to suppliers', 'Lower profit margins if prices cannot rise', 'Rivals who do not act ethically may undercut on price', 'Benefits are hard to measure and may take years'];
   const be = ['Better reputation and customer loyalty', 'Can justify a higher price', 'Easier to recruit and keep staff', 'Less risk of boycotts or bad publicity'];
-  dr.forEach((s, i) => { b += rect(50, 340 + i * 82, 370, 70, '#fbf3ee', C.rust, 10, 2) + para(68, 340 + i * 82 + (paraN(s, 330, 17) > 1 ? 29 : 41), s, 330, { size: 17 }); });
+  dr.forEach((s, i) => { b += rect(50, 340 + i * 82, 370, 70, C.panel, C.rust, 10, 2) + para(68, 340 + i * 82 + (paraN(s, 330, 17) > 1 ? 29 : 41), s, 330, { size: 17 }); });
   be.forEach((s, i) => { b += rect(480, 340 + i * 82, 370, 70, C.tealLight, C.tealDark, 10, 2) + para(498, 340 + i * 82 + (paraN(s, 330, 17) > 1 ? 29 : 41), s, 330, { size: 17 }); });
   add('03-ethics-profit-tradeoff',
     svg(900, 710, 'The trade-off between ethics and profit', b),

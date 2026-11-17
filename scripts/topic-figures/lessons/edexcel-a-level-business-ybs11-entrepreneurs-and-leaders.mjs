@@ -82,7 +82,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
 {
   let b = rect(30, 110, 400, 560, C.panel, C.rust) + tx(56, 148, 'Barriers to entrepreneurship', { size: 20, weight: 700, fill: C.rust });
   ['Raising finance without a track record', 'Lack of experience or business skills', 'Regulations and paperwork', 'Established rivals with brand loyalty and economies of scale', 'Personal risk: losing savings and a secure income'].forEach((s, i) => {
-    b += rect(50, 170 + i * 98, 360, 84, '#fbf3ee', C.rust, 10, 2) + para(68, 170 + i * 98 + (paraN(s, 324, 17) > 1 ? 34 : 48), s, 324, { size: 17 });
+    b += rect(50, 170 + i * 98, 360, 84, C.panel, C.rust, 10, 2) + para(68, 170 + i * 98 + (paraN(s, 324, 17) > 1 ? 34 : 48), s, 324, { size: 17 });
   });
   b += rect(450, 110, 420, 290, C.tealLight, C.tealDark) + tx(474, 148, 'Reduce risk', { size: 20, weight: 700, fill: C.tealDark });
   ['Research the market', 'Write a business plan', 'Start small', 'Test before committing large sums'].forEach((s, i) => {

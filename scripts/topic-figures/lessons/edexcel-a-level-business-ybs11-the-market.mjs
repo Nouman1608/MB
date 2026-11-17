@@ -198,7 +198,7 @@ const curve = (x1, y1, x2, y2, color, w = 4, dash = '') => line(x1, y1, x2, y2, 
 {
   const L = 80, R = 820, y = 230, sx = (v) => L + (v / 2.5) * (R - L);
   let b = rect(30, 110, 840, 70, C.cream, C.olive) + tx(450, 153, 'PED = % change in quantity demanded ÷ % change in price', { size: 20, weight: 700, anchor: 'middle' });
-  b += `<rect x="${sx(0)}" y="${y - 14}" width="${sx(1) - sx(0)}" height="28" fill="${C.tealLight}" stroke="none"/><rect x="${sx(1)}" y="${y - 14}" width="${sx(2.5) - sx(1)}" height="28" fill="#f3dccd" stroke="none"/>`;
+  b += `<rect x="${sx(0)}" y="${y - 14}" width="${sx(1) - sx(0)}" height="28" fill="${C.tealLight}" stroke="none"/><rect x="${sx(1)}" y="${y - 14}" width="${sx(2.5) - sx(1)}" height="28" fill="${C.sand}" stroke="none"/>`;
   b += arrow(L, y, R + 20, y, { w: 3 });
   [0, 1].forEach((v) => { b += line(sx(v), y - 22, sx(v), y + 22, { w: 3 }) + tx(sx(v), y + 48, String(v), { size: 18, weight: 700, anchor: 'middle' }); });
   b += tx(sx(2.2), y + 48, 'ignore the minus sign', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
@@ -246,7 +246,7 @@ const curve = (x1, y1, x2, y2, color, w = 4, dash = '') => line(x1, y1, x2, y2, 
 {
   const L = 80, R = 830, y = 300, sx = (v) => L + ((v + 1) / 3.2) * (R - L);
   let b = rect(30, 110, 840, 70, C.cream, C.olive) + tx(450, 153, 'YED = % change in quantity demanded ÷ % change in income', { size: 20, weight: 700, anchor: 'middle' });
-  b += `<rect x="${L}" y="${y - 16}" width="${sx(0) - L}" height="32" fill="#f3dccd"/><rect x="${sx(0)}" y="${y - 16}" width="${sx(1) - sx(0)}" height="32" fill="${C.tealLight}"/><rect x="${sx(1)}" y="${y - 16}" width="${R - sx(1)}" height="32" fill="${C.teal}"/>`;
+  b += `<rect x="${L}" y="${y - 16}" width="${sx(0) - L}" height="32" fill="${C.sand}"/><rect x="${sx(0)}" y="${y - 16}" width="${sx(1) - sx(0)}" height="32" fill="${C.tealLight}"/><rect x="${sx(1)}" y="${y - 16}" width="${R - sx(1)}" height="32" fill="${C.teal}"/>`;
   b += arrow(L - 10, y, R + 20, y, { w: 3 });
   [-1, 0, 1, 2].forEach((v) => { b += line(sx(v), y - 22, sx(v), y + 22, { w: v === 0 || v === 1 ? 3 : 1.5 }) + tx(sx(v), y + 46, (v > 0 ? '+' : '') + v, { size: 17, weight: 700, anchor: 'middle' }); });
   b += tx((L + sx(0)) / 2, 236, 'Inferior good', { size: 18, weight: 700, anchor: 'middle', fill: C.rust }) + tx((L + sx(0)) / 2, 258, 'bought less as incomes rise', { size: 15, anchor: 'middle', fill: C.muted });

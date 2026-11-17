@@ -57,7 +57,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   const side = (x, head, edge, tf, what, why, ex) =>
     rect(x, 110, 410, 470, C.panel, edge) + tx(x + 205, 150, head, { size: 23, weight: 700, anchor: 'middle', fill: tf }) +
     tx(x + 22, 192, 'The business…', { size: 16, weight: 700, fill: C.muted }) +
-    what.map((s, i) => rect(x + 20, 206 + i * 54, 370, 44, x < 400 ? C.tealLight : '#fbf3ee', edge, 10, 2) + tx(x + 38, 234 + i * 54, s, { size: 17 })).join('') +
+    what.map((s, i) => rect(x + 20, 206 + i * 54, 370, 44, x < 400 ? C.tealLight : C.panel, edge, 10, 2) + tx(x + 38, 234 + i * 54, s, { size: 17 })).join('') +
     tx(x + 22, 384, 'Because…', { size: 16, weight: 700, fill: C.muted }) + para(x + 22, 410, why, 366, { size: 17 }) +
     rect(x + 20, 476, 370, 88, C.cream, C.olive, 10, 2) + tx(x + 38, 504, 'Fits, e.g.', { size: 15, weight: 700, fill: C.olive }) + para(x + 38, 530, ex, 336, { size: 17 });
   b += side(30, 'Staff as an asset', C.tealDark, C.tealDark, ['Invests in training', 'Consults employees', 'Aims to keep them'], 'Skills and loyalty raise productivity and quality over time', 'A premium hotel relying on experienced staff');

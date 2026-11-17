@@ -313,7 +313,7 @@ F('03-employment-tests', 'Testing employment status', 'No single test is decisiv
 F('04-akin-to-employment', 'Relationships akin to employment', 'Stage 1 extended since 2012, and then limited', [
   (y) => {
     const H = 110; let s = panel(30, y, 840, H);
-    s += `<defs><linearGradient id="ak" x1="0" x2="1"><stop offset="0" stop-color="${C.teal}"/><stop offset="0.65" stop-color="${C.cream}"/><stop offset="1" stop-color="#f3d9c9"/></linearGradient></defs>`;
+    s += `<defs><linearGradient id="ak" x1="0" x2="1"><stop offset="0" stop-color="${C.teal}"/><stop offset="0.65" stop-color="${C.cream}"/><stop offset="1" stop-color="${C.panel}"/></linearGradient></defs>`;
     s += `<rect x="60" y="${y + 30}" width="780" height="48" rx="24" fill="url(#ak)" stroke="${C.ink}" stroke-width="2.5"/>`;
     s += T(80, y + 61, 'Employee', { size: 18, weight: 700 }) + T(450, y + 61, 'Akin to employment', { size: 18, weight: 700, anchor: 'middle' }) + T(820, y + 61, 'Independent contractor', { size: 18, weight: 700, anchor: 'end' });
     s += T(260, y + 100, 'vicariously liable', { size: 15, weight: 600, anchor: 'middle', fill: C.tealDark }) + T(740, y + 100, 'not liable', { size: 15, weight: 600, anchor: 'middle', fill: C.rust });

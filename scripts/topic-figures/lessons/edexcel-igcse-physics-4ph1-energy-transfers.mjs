@@ -48,31 +48,31 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
   }).join('');
 // ---- end helpers ----
 
-const chip = (x, y, w, a, b, fill, edge) => rect(x, y, w, 48, { fill, stroke: edge, sw: 1.8, rx: 8 }) + t(x + w / 2, y + (b ? 21 : 30), a, { size: 15, weight: 700, anchor: 'middle' }) + (b ? t(x + w / 2, y + 39, b, { size: 13.5, anchor: 'middle', fill: C.muted }) : '');
-const way = (x, y, s) => arrow(x, y + 24, x + 70, y + 24, { w: 2.5, color: C.olive, marker: 'ahO' }) + t(x + 35, y + 14, s, { size: 13.5, anchor: 'middle', fill: C.olive, weight: 700 });
+const chip = (x, y, w, a, b, fill, edge) => rect(x, y, w, 54, { fill, stroke: edge, sw: 1.8, rx: 8 }) + t(x + w / 2, y + (b ? 23 : 33), a, { size: 15, weight: 700, anchor: 'middle' }) + (b ? t(x + w / 2, y + 44, b, { size: 15, anchor: 'middle', fill: C.muted }) : '');
+const way = (x, y, w, s) => { const L = s.split('|'); return arrow(x + 4, y + 27, x + w - 4, y + 27, { w: 2.5, color: C.olive, marker: 'ahO' }) + L.map((q, k) => t(x + w / 2, y + 18 - (L.length - 1 - k) * 17, q, { size: 15, anchor: 'middle', fill: C.olive, weight: 700 })).join(''); };
 const P = (x, y, r = 9, fill = C.teal) => circ(x, y, r, { fill, stroke: C.tealDark, sw: 2 });
 const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s},${cy - 8 * s} ${cx + 14 * s},${cy + 10 * s} ${cx},${cy + 12 * s} C${cx - 14 * s},${cy + 10 * s} ${cx - 18 * s},${cy - 8 * s} ${cx},${cy - 30 * s} Z" fill="${C.mustard}" stroke="${C.olive}" stroke-width="2"/>`;
 
 // 01 Describing transfers
 {
   const rows = [
-    ['Torch on', ['chemical store', 'battery'], 'electrically', ['lamp', ''], 'radiation + heating', ['surroundings', 'light; thermal store']],
+    ['Torch on', ['chemical store', 'battery'], 'electrically', ['lamp', ''], 'radiation + heating', ['surroundings', 'light; thermal']],
     ['Ball rising', ['kinetic store', 'ball'], 'mechanically', ['gravitational store', 'ball'], null, null],
-    ['Electric kettle', ['heating element', 'electrically'], 'by heating', ['thermal store', 'water (some: kettle, air)'], null, null],
+    ['Electric kettle', ['heating element', 'electrically'], 'by heating', ['thermal store', 'water (+ kettle, air)'], null, null],
     ['Bow and arrow', ['elastic store', 'bow'], 'mechanically', ['kinetic store', 'arrow'], null, null],
     ['Car braking', ['kinetic store', 'car'], 'mechanically', ['thermal store', 'brakes, surroundings'], 'friction', null],
     ['Magnets snap', ['magnetic store', ''], 'mechanically', ['kinetic store', 'magnets'], 'heating, sound', ['surroundings', 'when they hit']],
   ];
   let body = '';
   rows.forEach(([name, a, w1, b, w2, c], i) => {
-    const y = 110 + i * 78;
-    body += panel(30, y, 840, 68) + t(48, y + 40, name, { size: 16, weight: 700 }) +
-      chip(185, y + 10, 165, a[0], a[1], C.cream, C.olive) + way(355, y + 10, w1) + chip(430, y + 10, 175, b[0], b[1], C.tealLight, C.tealDark);
-    if (w2 && c) body += way(610, y + 10, w2.split(' + ')[0] === 'radiation' ? 'radiation, heating' : w2) + chip(685, y + 10, 170, c[0], c[1], '#f6e3d6', C.rust);
-    else if (w2) body += t(620, y + 40, '(' + w2 + ' in the brakes)', { size: 15, fill: C.muted });
+    const y = 110 + i * 90;
+    body += panel(30, y, 840, 82) + t(45, y + 47, name, { size: 16, weight: 700 }) +
+      chip(165, y + 18, 150, a[0], a[1], C.cream, C.olive) + way(315, y + 18, 120, w1) + chip(435, y + 18, 175, b[0], b[1], C.tealLight, C.tealDark);
+    if (w2 && c) body += way(610, y + 18, 90, w2 === 'radiation + heating' ? 'radiation|+ heating' : 'heating|+ sound') + chip(700, y + 18, 160, c[0], c[1], '#f6e3d6', C.rust);
+    else if (w2) body += t(625, y + 52, '(' + w2 + ' in the brakes)', { size: 15, fill: C.muted });
   });
-  body += panel(30, 585, 840, 60, C.cream, C.olive) + t(450, 622, '"Heat", "light" and "sound" are never stores: they are the ways energy moves.', { size: 17, weight: 600, anchor: 'middle' });
-  add('01-store-pathway-store-examples', svg(900, 665, 'Store → pathway → store', body),
+  body += panel(30, 660, 840, 60, C.cream, C.olive) + t(450, 697, '"Heat", "light" and "sound" are never stores: they are the ways energy moves.', { size: 17, weight: 600, anchor: 'middle' });
+  add('01-store-pathway-store-examples', svg(900, 740, 'Store → pathway → store', body),
     'Six energy transfers written as chains. A torch: chemical store of the battery, electrically to the lamp, then by radiation and heating to the surroundings. A rising ball: kinetic to gravitational store. A kettle, a bow, braking and snapping magnets follow the same pattern.',
     'Name the store energy leaves, the pathway, and the store it ends up in.',
     '## Describing a transfer: store, pathway, store');
@@ -125,19 +125,19 @@ const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s}
 {
   const cond = panel(30, 110, 270, 400) + t(165, 146, 'Conduction', { size: 20, weight: 700, anchor: 'middle' }) +
     flame(60, 300, 1.1) + rect(80, 255, 200, 70, { fill: C.rock, sw: 2.5 }) +
-    [0, 1, 2, 3, 4, 5].map((i) => P(98 + i * 33, 273, 8) + P(98 + i * 33, 307, 8) + path(`M${98 + i * 33 - 13},${265} l-4,8 l4,8`, { stroke: C.rust, w: 1.5 })).join('') +
+    [0, 1, 2, 3, 4, 5].map((i) => P(98 + i * 33, 273, 8) + P(98 + i * 33, 307, 8)).join('') +
     arrow(110, 345, 260, 345, { w: 3, color: C.rust, marker: 'ahR' }) +
     para(50, 385, 'Faster-vibrating particles pass energy to neighbours by collisions. In metals free electrons also carry energy. Needs particles in contact.', 230, { size: 15, fill: C.ink }, 19);
   const conv = panel(315, 110, 270, 400) + t(450, 146, 'Convection', { size: 20, weight: 700, anchor: 'middle' }) +
     rect(345, 175, 210, 180, { fill: C.tealLight, stroke: C.ink, sw: 2.5 }) + flame(400, 380, 0.9) +
     path('M400,330 L400,205 L500,205 L500,330 L400,330', { stroke: C.rust, w: 3, extra: 'stroke-dasharray="1 0"' }) +
     arrow(400, 300, 400, 230, { w: 3.5, color: C.rust, marker: 'ahR' }) + arrow(430, 205, 480, 205, { w: 3.5, color: C.rust, marker: 'ahR' }) + arrow(500, 230, 500, 300, { w: 3.5, color: C.blue, marker: 'ah' }) + arrow(480, 330, 420, 330, { w: 3.5, color: C.blue, marker: 'ah' }) +
-    t(410, 270, 'warm', { size: 14, fill: C.rust, weight: 700 }) + t(490, 270, 'cool', { size: 14, fill: C.blue, weight: 700, anchor: 'end' }) +
+    t(410, 270, 'warm', { size: 15, fill: C.rust, weight: 700 }) + t(490, 270, 'cool', { size: 15, fill: C.blue, weight: 700, anchor: 'end' }) +
     para(335, 420, 'Warm fluid expands, becomes less dense and rises; cooler, denser fluid sinks. Not in solids.', 230, { size: 15, fill: C.ink }, 19);
   const rad = panel(600, 110, 270, 400) + t(735, 146, 'Radiation', { size: 20, weight: 700, anchor: 'middle' }) +
-    circ(650, 265, 26, { fill: C.rust }) + t(650, 312, 'hot object', { size: 14, anchor: 'middle', fill: C.muted }) +
+    circ(650, 265, 26, { fill: C.rust }) + t(650, 312, 'hot object', { size: 15, anchor: 'middle', fill: C.muted }) +
     path((() => { let d = 'M682,265'; for (let i = 1; i <= 150; i += 2) d += ` L${682 + i},${(265 - 12 * Math.sin((2 * Math.PI * i) / 30)).toFixed(1)}`; return d; })(), { stroke: C.rust, w: 3 }) + arrow(830, 265, 850, 265, { w: 3, color: C.rust, marker: 'ahR' }) +
-    t(760, 230, 'infrared waves', { size: 14, anchor: 'middle', fill: C.rust, weight: 600 }) +
+    t(760, 230, 'infrared waves', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 }) +
     para(620, 385, 'Energy carried by infrared electromagnetic waves. Needs no particles: it can cross a vacuum.', 230, { size: 15, fill: C.ink }, 19);
   add('04-conduction-convection-radiation', svg(900, 530, 'Three ways of transferring thermal energy', cond + conv + rad),
     'Conduction: particles in a heated bar vibrate and pass energy along by collisions. Convection: warm fluid rises above a flame and cooler fluid sinks, making a loop. Radiation: a hot object sends infrared waves that can cross a vacuum.',
@@ -148,18 +148,18 @@ const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s}
 // 05 Convection in everyday life
 {
   const room = panel(30, 110, 410, 360) + t(235, 146, 'Room heater', { size: 19, weight: 700, anchor: 'middle' }) +
-    rect(60, 170, 350, 230, { fill: '#ffffff', stroke: C.ink, sw: 3 }) + rect(62, 330, 30, 68, { fill: C.rust, sw: 2 }) + t(77, 420, 'heater', { size: 14, anchor: 'middle', fill: C.rust, weight: 600 }) +
+    rect(60, 170, 350, 230, { fill: '#ffffff', stroke: C.ink, sw: 3 }) + rect(62, 330, 30, 68, { fill: C.rust, sw: 2 }) + t(77, 420, 'heater', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 }) +
     arrow(110, 340, 110, 200, { w: 4, color: C.rust, marker: 'ahR' }) + arrow(130, 190, 350, 190, { w: 4, color: C.rust, marker: 'ahR' }) +
     arrow(385, 205, 385, 370, { w: 4, color: C.blue }) + arrow(360, 385, 120, 385, { w: 4, color: C.blue }) +
-    t(118, 280, 'warm air rises', { size: 14, fill: C.rust, weight: 600 }) + t(375, 300, 'cools,', { size: 14, fill: C.blue, weight: 600, anchor: 'end' }) + t(375, 318, 'sinks', { size: 14, fill: C.blue, weight: 600, anchor: 'end' }) +
+    t(118, 280, 'warm air rises', { size: 15, fill: C.rust, weight: 600 }) + t(375, 300, 'cools,', { size: 15, fill: C.blue, weight: 600, anchor: 'end' }) + t(375, 318, 'sinks', { size: 15, fill: C.blue, weight: 600, anchor: 'end' }) +
     t(235, 448, 'flows back along the floor to the heater', { size: 15, anchor: 'middle', fill: C.muted });
   const sx = 460;
   const sea = panel(sx, 110, 410, 360) + t(sx + 205, 146, 'Sea breeze on a sunny day', { size: 19, weight: 700, anchor: 'middle' }) +
     rect(sx + 30, 340, 170, 60, { fill: '#d8e3c6', stroke: C.ink, sw: 2.5 }) + rect(sx + 200, 352, 180, 48, { fill: C.teal, stroke: C.ink, sw: 2.5 }) +
-    t(sx + 115, 378, 'land warms faster', { size: 14, anchor: 'middle', weight: 600 }) + t(sx + 290, 382, 'sea', { size: 14, anchor: 'middle', weight: 600, fill: C.tealDark }) +
+    t(sx + 115, 378, 'land warms faster', { size: 15, anchor: 'middle', weight: 600 }) + t(sx + 290, 382, 'sea', { size: 15, anchor: 'middle', weight: 600, fill: C.tealDark }) +
     arrow(sx + 110, 320, sx + 110, 205, { w: 4, color: C.rust, marker: 'ahR' }) + arrow(sx + 135, 195, sx + 290, 195, { w: 3, color: C.muted }) +
     arrow(sx + 310, 210, sx + 310, 320, { w: 4, color: C.blue }) + arrow(sx + 290, 332, sx + 140, 332, { w: 5, color: C.blue }) +
-    t(sx + 122, 260, 'warm air rises', { size: 14, fill: C.rust, weight: 600 }) + t(sx + 300, 260, 'cool air', { size: 14, fill: C.blue, weight: 600, anchor: 'end' }) + t(sx + 300, 278, 'sinks', { size: 14, fill: C.blue, weight: 600, anchor: 'end' }) +
+    t(sx + 122, 260, 'warm air rises', { size: 15, fill: C.rust, weight: 600 }) + t(sx + 300, 260, 'cool air', { size: 15, fill: C.blue, weight: 600, anchor: 'end' }) + t(sx + 300, 278, 'sinks', { size: 15, fill: C.blue, weight: 600, anchor: 'end' }) +
     circ(sx + 360, 190, 16, { fill: C.mustard, stroke: C.olive, sw: 2 }) +
     t(sx + 205, 448, 'breeze blows from sea to land', { size: 15, anchor: 'middle', fill: C.blue, weight: 600 });
   const body = room + sea + panel(30, 485, 840, 105, C.cream, C.olive) +
@@ -174,21 +174,21 @@ const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s}
 
 // 06 The three practicals
 {
-  const rods = panel(30, 110, 270, 420) + t(165, 146, 'Conduction', { size: 19, weight: 700, anchor: 'middle' }) + t(165, 168, 'rods of different metals', { size: 14, anchor: 'middle', fill: C.muted }) +
+  const rods = panel(30, 110, 270, 420) + t(165, 146, 'Conduction', { size: 19, weight: 700, anchor: 'middle' }) + t(165, 168, 'rods of different metals', { size: 15, anchor: 'middle', fill: C.muted }) +
     flame(70, 320, 1) + [0, 1, 2].map((i) => { const y = 215 + i * 55; return rect(70, y, 180, 18, { fill: [C.rust, C.rockDark, C.rock][i], sw: 2 }) + `<ellipse cx="252" cy="${y + 9}" rx="6" ry="9" fill="${C.cream}" stroke="${C.olive}" stroke-width="1.5"/>` + (i === 0 ? ln(262, y + 30, 262, y + 48, { w: 3 }) + circ(262, y + 30, 4, { fill: C.muted, sw: 1 }) : ln(258, y + 9, 276, y + 9, { w: 3 }) + circ(278, y + 9, 4, { fill: C.muted, sw: 1 })); }).join('') +
     ln(70, 205, 70, 395, { c: C.panelEdge, w: 2 }) +
     para(48, 420, 'Same length, thickness and heating. The pin falls first from the best conductor.', 230, { size: 15 }, 19);
   const bx = 315;
-  const dye = panel(bx, 110, 270, 420) + t(bx + 135, 146, 'Convection', { size: 19, weight: 700, anchor: 'middle' }) + t(bx + 135, 168, 'dye crystal in water', { size: 14, anchor: 'middle', fill: C.muted }) +
+  const dye = panel(bx, 110, 270, 420) + t(bx + 135, 146, 'Convection', { size: 19, weight: 700, anchor: 'middle' }) + t(bx + 135, 168, 'dye crystal in water', { size: 15, anchor: 'middle', fill: C.muted }) +
     rect(bx + 35, 205, 200, 160, { fill: C.tealLight, stroke: C.ink, sw: 2.5 }) + circ(bx + 55, 352, 7, { fill: '#7b3f8c', sw: 1.5 }) + flame(bx + 60, 392, 0.8) +
     path(`M${bx + 60},340 C${bx + 55},270 ${bx + 70},225 ${bx + 130},222 C${bx + 200},220 ${bx + 215},260 ${bx + 212},340`, { stroke: '#7b3f8c', w: 4, extra: 'marker-end="url(#ah)"' }) +
     para(bx + 18, 420, 'Heat beneath the crystal: the coloured streak rises, crosses the top and sinks on the far side.', 235, { size: 15 }, 19);
   const cx = 600;
-  const cube = panel(cx, 110, 270, 420) + t(cx + 135, 146, 'Radiation', { size: 19, weight: 700, anchor: 'middle' }) + t(cx + 135, 168, 'cube of hot water', { size: 14, anchor: 'middle', fill: C.muted }) +
+  const cube = panel(cx, 110, 270, 420) + t(cx + 135, 146, 'Radiation', { size: 19, weight: 700, anchor: 'middle' }) + t(cx + 135, 168, 'cube of hot water', { size: 15, anchor: 'middle', fill: C.muted }) +
     rect(cx + 95, 215, 80, 80, { fill: C.tealLight, sw: 2 }) + ln(cx + 95, 215, cx + 95, 295, { w: 8, cap: 'butt' }) + ln(cx + 175, 215, cx + 175, 295, { c: '#c9d0d0', w: 8, cap: 'butt' }) +
     [235, 255, 275].map((y) => arrow(cx + 90, y, cx + 40, y, { w: 3, color: C.rust, marker: 'ahR' }) + arrow(cx + 180, y, cx + 198, y, { w: 2, color: C.rust, marker: 'ahR' })).join('') +
-    t(cx + 60, 320, 'matt black', { size: 14, anchor: 'middle', weight: 700 }) + t(cx + 210, 320, 'shiny silver', { size: 14, anchor: 'middle', weight: 700 }) +
-    t(cx + 60, 340, 'most', { size: 14, anchor: 'middle', fill: C.rust, weight: 600 }) + t(cx + 210, 340, 'least', { size: 14, anchor: 'middle', fill: C.rust, weight: 600 }) +
+    t(cx + 60, 320, 'matt black', { size: 15, anchor: 'middle', weight: 700 }) + t(cx + 210, 320, 'shiny silver', { size: 15, anchor: 'middle', weight: 700 }) +
+    t(cx + 60, 340, 'most', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 }) + t(cx + 210, 340, 'least', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 }) +
     para(cx + 18, 420, 'Detector at the same distance from each face: the matt black face gives the highest reading.', 235, { size: 15 }, 19);
   const body = rods + dye + cube + panel(30, 545, 840, 70, C.cream, C.olive) +
     t(450, 576, 'Dark, matt surfaces are good emitters and absorbers;', { size: 16, weight: 600, anchor: 'middle' }) + t(450, 600, 'light, shiny surfaces are poor emitters and absorbers.', { size: 16, weight: 600, anchor: 'middle' });

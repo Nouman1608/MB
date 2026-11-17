@@ -82,7 +82,7 @@ const fan = (cx, cy, r = 34) => circ(cx, cy, r, { fill: C.panel }) + [0, 1, 2, 3
     ['Hydroelectric', [['gravitational store', 'water held high'], ['kinetic store', 'falling water'], ['turbine', '→ generator']]],
     ['Tides and waves', [['kinetic store', 'moving sea water'], ['turbine', '→ generator'], null]],
     ['Geothermal', [['thermal store', 'hot rocks'], ['steam', 'water pumped down'], ['turbine', '→ generator']]],
-    ['Solar heating', [['radiation', 'from the Sun'], ['thermal store', 'water or fluid'], ['steam (large scale)', '→ turbine → generator']]],
+    ['Solar heating', [['radiation', 'from the Sun'], ['thermal store', 'water or fluid'], ['steam (large scale)', '→ turbine, generator']]],
     ['Solar cells', [['radiation', 'light from the Sun'], ['solar cell', 'no turbine'], null]],
     ['Fossil fuels', [['chemical store', 'coal, oil, gas'], ['thermal store', 'water and steam'], ['turbine', '→ generator']]],
     ['Nuclear', [['nuclear store', 'uranium or plutonium'], ['thermal store', 'coolant, then water'], ['steam → turbine', '→ generator']]],
@@ -90,18 +90,18 @@ const fan = (cx, cy, r = 34) => circ(cx, cy, r, { fill: C.panel }) + [0, 1, 2, 3
   const fills = [C.cream, C.tealLight, '#f6e3d6'];
   let body = '';
   rows.forEach(([name, steps3], r) => {
-    const y = 110 + r * 72;
-    body += panel(30, y, 840, 64) + t(50, y + 38, name, { size: 17, weight: 700 });
+    const y = 110 + r * 74;
+    body += panel(30, y, 840, 68) + t(50, y + 40, name, { size: 17, weight: 700 });
     let x = 200;
     steps3.forEach((st, i) => {
       if (!st) return;
-      body += rect(x, y + 8, 165, 48, { fill: fills[i], stroke: C.panelEdge, sw: 1.5, rx: 8 }) + t(x + 82, y + 28, st[0], { size: 15, weight: 700, anchor: 'middle' }) + (st[1] ? t(x + 82, y + 47, st[1], { size: 13.5, anchor: 'middle', fill: C.muted }) : '');
-      x += 165; body += arrow(x + 2, y + 32, x + 22, y + 32, { w: 2.5 }); x += 26;
+      body += rect(x, y + 7, 165, 54, { fill: fills[i], stroke: C.panelEdge, sw: 1.5, rx: 8 }) + t(x + 82, y + (st[1] ? 29 : 40), st[0], { size: 15, weight: 700, anchor: 'middle' }) + (st[1] ? t(x + 82, y + 50, st[1], { size: 15, anchor: 'middle', fill: C.muted }) : '');
+      x += 165; body += arrow(x + 2, y + 34, x + 22, y + 34, { w: 2.5 }); x += 26;
     });
-    body += rect(x, y + 8, 100, 48, { fill: C.olive, stroke: C.olive, sw: 1.5, rx: 8 }) + t(x + 50, y + 38, 'electrically', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
+    body += rect(x, y + 7, 94, 54, { fill: C.olive, stroke: C.olive, sw: 1.5, rx: 8 }) + t(x + 47, y + 40, 'electrically', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
   });
-  body += t(450, 705, 'At every stage some energy is dissipated, mainly by heating the surroundings.', { size: 16, anchor: 'middle', fill: C.muted });
-  add('02-energy-transfer-chains', svg(900, 725, 'Energy transfers, resource by resource', body),
+  body += t(450, 720, 'At every stage some energy is dissipated, mainly by heating the surroundings.', { size: 16, anchor: 'middle', fill: C.muted });
+  add('02-energy-transfer-chains', svg(900, 740, 'Energy transfers, resource by resource', body),
     'Eight chains, each ending electrically: wind from the kinetic store of moving air; hydroelectric from the gravitational store of high water; tides and waves from moving sea water; geothermal from hot rocks; solar heating and solar cells from radiation; fossil fuels from a chemical store; nuclear from a nuclear store.',
     'Start at the original store, name each stage, and finish with "electrically".',
     '## The energy transfers, resource by resource (4.18P)');

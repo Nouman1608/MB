@@ -244,14 +244,14 @@ export const slug = 'edexcel-a-level-law-yla1-discharge-of-contract-and-frustrat
   items.forEach(([n, d, e, f], i) => {
     const x = 30 + i * (w + g), cx = x + w / 2;
     b += path(`M450,${210} C450,230 ${cx},226 ${cx},${246}`, { extra: 'marker-end="url(#ah)"' });
-    b += lbox(x, 252, w, 210, { fill: f, edge: e, rx: 14 });
+    b += lbox(x, 252, w, 190, { fill: f, edge: e, rx: 14 });
     b += T(cx, 290, n, { size: 20, weight: 700, anchor: 'middle', fill: e });
     b += rpara(x + 16, 322, d, w - 32, { size: 16, fill: C.ink }).s;
   });
-  b += path('M30,486 L30,496 L440,496 L440,486', { stroke: C.tealDark, w: 3 }) + T(235, 524, 'the normal, peaceful ending', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += path('M460,486 L460,496 L870,496 L870,486', { stroke: C.rust, w: 3 }) + T(665, 524, 'where disputes arise: Paper 2 focus', { size: 17, weight: 700, anchor: 'middle', fill: C.rust });
+  b += path('M30,466 L30,476 L440,476 L440,466', { stroke: C.tealDark, w: 3 }) + T(235, 504, 'the normal, peaceful ending', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark });
+  b += path('M460,466 L460,476 L870,476 L870,466', { stroke: C.rust, w: 3 }) + T(665, 504, 'where disputes arise: Paper 2 focus', { size: 17, weight: 700, anchor: 'middle', fill: C.rust });
   add('01-four-ways-to-discharge',
-    svg(900, 556, 'How a contract is discharged', b),
+    svg(900, 536, 'How a contract is discharged', b),
     'A contract is discharged when the parties’ obligations end, by performance, agreement, breach or frustration. Performance and agreement are the normal, peaceful endings; breach and frustration are where disputes arise and where Paper 2 questions concentrate.',
     'Performance and agreement end a contract peacefully; breach and frustration produce the disputes.',
     '## What "discharge" means');
@@ -326,7 +326,7 @@ export const slug = 'edexcel-a-level-law-yla1-discharge-of-contract-and-frustrat
 // 04 Breach: which breaches allow termination
 {
   let b = '';
-  b += lbox(250, 110, 400, 70, { fill: C.ink, edge: C.ink, rx: 14 }) + T(450, 140, 'Breach', { size: 20, weight: 700, anchor: 'middle', fill: '#ffffff' }) + T(450, 164, 'fails to perform, performs defectively, or will not perform', { size: 15, anchor: 'middle', fill: C.teal });
+  b += lbox(160, 110, 580, 70, { fill: C.ink, edge: C.ink, rx: 14 }) + T(450, 140, 'Breach', { size: 20, weight: 700, anchor: 'middle', fill: '#ffffff' }) + T(450, 164, 'fails to perform, performs defectively, or will not perform', { size: 15, anchor: 'middle', fill: C.teal });
   b += arrow(330, 182, 220, 226) + arrow(570, 182, 680, 226);
   const left = lcard(30, 232, 380, { kicker: 'EVERY BREACH', title: 'Right to damages', body: 'e.g. breach of a warranty: *Bettini v Gye* [1876]; a non-serious breach of an innominate term', minH: 210 });
   b += left.s;
@@ -351,7 +351,7 @@ export const slug = 'edexcel-a-level-law-yla1-discharge-of-contract-and-frustrat
 // 05 Anticipatory breach: the choices
 {
   let b = '';
-  b += lbox(200, 110, 500, 72, { fill: C.ink, edge: C.ink, rx: 14 }) + T(450, 141, 'Anticipatory breach', { size: 20, weight: 700, anchor: 'middle', fill: '#ffffff' }) + T(450, 166, 'a party announces, before performance is due, that they will not perform', { size: 15, anchor: 'middle', fill: C.teal });
+  b += lbox(80, 110, 740, 72, { fill: C.ink, edge: C.ink, rx: 14 }) + T(450, 141, 'Anticipatory breach', { size: 20, weight: 700, anchor: 'middle', fill: '#ffffff' }) + T(450, 166, 'a party announces, before performance is due, that they will not perform', { size: 15, anchor: 'middle', fill: C.teal });
   b += arrow(320, 184, 235, 230) + arrow(580, 184, 665, 230);
   const l = lcard(30, 236, 411, { kicker: 'OPTION 1', title: 'Sue immediately', body: '*Hochster v De La Tour* (1853): a courier dismissed before his job began could sue at once.', fill: C.tealLight, edge: C.tealDark, minH: 190 });
   b += l.s;

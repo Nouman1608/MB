@@ -42,7 +42,7 @@
   "after": "## Conditions for the optimum rate of photosynthesis and crop growth",
   "alt": "Two schematic graphs. Photosynthesis rate against light intensity rises steeply then levels off, showing another factor such as temperature or carbon dioxide now limits it. Rate against temperature rises to a peak at the optimum and then falls as enzymes work less well. Length of growing season, optimum weather and daylight hours set the rate and how long it lasts.",
   "caption": "Light: rises then levels off. Temperature: rises to an optimum, then falls.",
-  "bytes": 97908
+  "bytes": 98190
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--06-drainage-experiment.webp",
@@ -56,10 +56,10 @@
  {
   "file": "cambridge-igcse-environmental-management-0680-soils-and-crop-growth--07-growing-season.webp",
   "width": 900,
-  "height": 725,
+  "height": 745,
   "after": "## Worked example 2: finding the growing season",
   "alt": "Monthly bar charts from March to October with thresholds of 10 °C and 50 mm. April and June to September meet both and are shaded. May is warm enough but has only 40 mm of rain; March and October are too cold. The growing season is five months.",
   "caption": "Only months that meet both thresholds count: April and June to September, five months.",
-  "bytes": 77660
+  "bytes": 90504
  }
 ]

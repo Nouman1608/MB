@@ -15,7 +15,7 @@
   "after": "## Sales forecasting",
   "alt": "Consumer trends, economic variables and competitors’ actions shape a sales forecast, which is used to plan production and inventory, staffing, cash-flow forecasts and budgets, and finance applications. Difficulties include no sales history, changing tastes, unpredictable economies and rivals, and owner optimism.",
   "caption": "Every plan built on a forecast inherits its errors.",
-  "bytes": 125966
+  "bytes": 124794
  },
  {
   "file": "edexcel-a-level-business-ybs11-financial-planning--03-pennant-break-even.webp",
@@ -24,7 +24,7 @@
   "after": "## Break-even analysis",
   "alt": "A break-even chart for Pennant Print with fixed costs of $18,000, total cost rising at $2.50 a unit and total revenue at $8.50 a unit. The lines cross at 3,000 units and $25,500. With expected sales of 4,200 units the margin of safety is 1,200 units.",
   "caption": "Pennant breaks even at 3,000 units and expects a 1,200-unit margin of safety.",
-  "bytes": 110196
+  "bytes": 110542
  },
  {
   "file": "edexcel-a-level-business-ybs11-financial-planning--04-ink-cost-break-even.webp",
@@ -33,7 +33,7 @@
   "after": "## Break-even analysis",
   "alt": "When Pennant’s variable cost rises from $2.50 to $3.50, the total cost line becomes steeper and break-even moves from 3,000 to 3,600 units. Against forecast sales of 4,200, the margin of safety halves from 1,200 to 600 units.",
   "caption": "A $1 rise in unit cost halves Pennant’s margin of safety.",
-  "bytes": 93930
+  "bytes": 93710
  },
  {
   "file": "edexcel-a-level-business-ybs11-financial-planning--05-break-even-chart-changes.webp",
@@ -42,7 +42,7 @@
   "after": "## Break-even analysis",
   "alt": "Two simple break-even charts. A price rise makes the total revenue line steeper, so break-even moves left. A rise in fixed costs shifts the total cost line up, so break-even moves right. Limitations: all output sold, constant price and unit cost, fixed costs at every output, many products and an uncertain forecast.",
   "caption": "A steeper revenue line pulls break-even left; higher fixed costs push it right.",
-  "bytes": 104404
+  "bytes": 104070
  },
  {
   "file": "edexcel-a-level-business-ybs11-financial-planning--06-holloway-cash-flow.webp",

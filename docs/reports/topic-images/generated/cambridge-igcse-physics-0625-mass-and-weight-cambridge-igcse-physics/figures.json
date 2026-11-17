@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--01-rover-earth-mars.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Gravitational field strength, g",
+  "alt": "A 900 kg rover on the Earth (g = 9.8 N/kg) has a weight of 8820 N, about 8800 N; on Mars (g = 3.7 N/kg) its weight is 3330 N, about 3300 N. The weight arrows are drawn to scale; the mass is 900 kg in both places.",
+  "caption": "Mass stays the same; weight depends on the gravitational field strength.",
+  "bytes": 59708
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--02-finding-g-on-a-moon.webp",
+  "width": 900,
+  "height": 500,
+  "after": "## Gravitational field strength, g",
+  "alt": "A 2.5 kg mass hangs from a newton meter reading 4.0 N on a newly explored moon, so g = 4.0 / 2.5 = 1.6 N/kg and a 70 kg astronaut there weighs 70 × 1.6 = 112 N, about 110 N. Near the Earth g = 9.8 N/kg, equivalent to a free-fall acceleration of 9.8 m/s².",
+  "caption": "g = W/m: a force divided by a mass, in N/kg.",
+  "bytes": 48996
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--03-beam-and-spring-balance.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Measuring and comparing: balances",
+  "alt": "A beam balance with an unknown object in one pan and standard masses in the other is level when their weights are equal; because both pans are in the same field, the masses are equal too, even on the Moon. A spring balance reads weight directly, so the same object gives a smaller reading on the Moon than on the Earth.",
+  "caption": "A beam balance compares weights and so masses; a spring balance reads weight.",
+  "bytes": 71710
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--04-finding-g-graph.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Measuring and comparing: balances",
+  "alt": "Weight plotted against mass for 0.10 to 0.50 kg gives a straight line through the origin. A gradient triangle from the origin to 0.50 kg rises 4.9 N, so g = 4.9 ÷ 0.50 = 9.8 N/kg.",
+  "caption": "Plot weight against mass in kilograms; the gradient is g.",
+  "bytes": 60648
+ },
+ {
+  "file": "cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics--05-gravitational-field.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Weight as the effect of a gravitational field (Extended only)",
+  "alt": "Field lines point inwards from all directions to the centre of a planet. Objects on opposite sides have weight arrows pointing in opposite directions, each towards the centre. A satellite further away has a smaller weight, but not zero.",
+  "caption": "Any mass in a gravitational field is pulled along the field with force W = mg.",
+  "bytes": 99928
+ }
+]

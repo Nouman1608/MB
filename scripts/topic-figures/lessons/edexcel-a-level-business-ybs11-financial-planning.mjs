@@ -99,7 +99,7 @@ const beChart = (X0, Y0, W, H, qMax, vMax, opts) => {
   b += rect(30, 580, 840, 190, C.panel, C.rust) + tx(56, 616, 'Difficulties', { size: 19, weight: 700, fill: C.rust });
   ['No sales history for new businesses or products', 'Tastes can change quickly', 'Economic conditions are hard to predict', 'Rivals’ actions are unknown in advance', 'An over-optimistic owner may bias the figures'].forEach((s, i) => {
     const x = 56 + (i % 3) * 272, y = 632 + Math.floor(i / 3) * 64;
-    b += rect(x, y, 252, 54, '#fbf3ee', C.rust, 10, 2) + para(x + 14, y + (paraN(s, 226, 15) > 1 ? 22 : 33), s, 226, { size: 15 });
+    b += rect(x, y, 252, 54, C.panel, C.rust, 10, 2) + para(x + 14, y + (paraN(s, 226, 15) > 1 ? 22 : 33), s, 226, { size: 15 });
   });
   b += tx(450, 806, 'A wrong forecast feeds errors into every plan built on it.', { size: 17, anchor: 'middle', weight: 600 });
   add('02-sales-forecasting',
@@ -115,7 +115,7 @@ const beChart = (X0, Y0, W, H, qMax, vMax, opts) => {
   const { s, qx, vy } = beChart(140, 620, 480, 440, 5000, 45000, { yt: [0, 15000, 30000, 45000], xt: [0, 1000, 2000, 3000, 4000, 5000] });
   b += s + tx(56, 146, 'Costs and revenue', { size: 15, weight: 700 }) + tx(620, 676, 'Units a month', { size: 16, weight: 700, anchor: 'end' });
   // loss/profit shading
-  b += `<path d="M${qx(0)},${vy(18000)} L${qx(3000)},${vy(25500)} L${qx(0)},${vy(0)} Z" fill="#f3dccd" opacity="0.8"/>`;
+  b += `<path d="M${qx(0)},${vy(18000)} L${qx(3000)},${vy(25500)} L${qx(0)},${vy(0)} Z" fill="${C.sand}" opacity="0.8"/>`;
   b += `<path d="M${qx(3000)},${vy(25500)} L${qx(5000)},${vy(42500)} L${qx(5000)},${vy(30500)} Z" fill="${C.tealLight}" opacity="0.9"/>`;
   b += line(qx(0), vy(18000), qx(5000), vy(18000), { color: C.muted, w: 3, dash: '9 6' }) + tx(qx(5000) - 4, vy(18000) + 22, 'Fixed costs $18,000', { size: 15, anchor: 'end', fill: C.muted, weight: 600 });
   b += line(qx(0), vy(18000), qx(5000), vy(30500), { color: C.rust, w: 4 }) + tx(qx(5000) + 4, vy(30500) + 5, 'TC', { size: 17, weight: 700, fill: C.rust });
@@ -155,7 +155,7 @@ const beChart = (X0, Y0, W, H, qMax, vMax, opts) => {
   const row = (y, head, c, be, mos, fill, edge) => rect(30, y, 840, 70, fill, edge) + tx(56, y + 42, head, { size: 18, weight: 700 }) + tx(380, y + 42, c, { size: 17 }) + tx(590, y + 42, be, { size: 17 }) + tx(846, y + 42, mos, { size: 18, weight: 700, anchor: 'end', fill: edge === C.rust ? C.rust : C.tealDark });
   b += tx(380, 612, 'Contribution', { size: 15, weight: 700, fill: C.muted }) + tx(590, 612, 'Break-even', { size: 15, weight: 700, fill: C.muted }) + tx(846, 612, 'Margin of safety', { size: 15, weight: 700, fill: C.muted, anchor: 'end' });
   b += row(624, 'Variable cost $2.50', '$6.00', '3,000 units', '1,200 units', C.panel, C.tealDark);
-  b += row(704, 'Variable cost $3.50', '$5.00', '18,000 ÷ 5 = 3,600', '600 units', '#fbf3ee', C.rust);
+  b += row(704, 'Variable cost $3.50', '$5.00', '18,000 ÷ 5 = 3,600', '600 units', C.panel, C.rust);
   b += tx(450, 810, 'A $1 rise in unit cost halves the margin of safety.', { size: 18, weight: 700, anchor: 'middle' });
   add('04-ink-cost-break-even',
     svg(900, 840, 'A small cost change, a big safety change', b),
@@ -194,7 +194,7 @@ const beChart = (X0, Y0, W, H, qMax, vMax, opts) => {
   b += rect(30, 550, 840, 210, C.panel, C.rust) + tx(56, 586, 'Limitations of break-even', { size: 19, weight: 700, fill: C.rust });
   ['Assumes all output is sold', 'Assumes price and unit variable cost stay constant', 'Treats fixed costs as fixed at every output', 'Hard to use with many products', 'Only as reliable as the sales forecast'].forEach((s2, i) => {
     const x = 56 + (i % 3) * 272, y = 604 + Math.floor(i / 3) * 74;
-    b += rect(x, y, 252, 62, '#fbf3ee', C.rust, 10, 2) + para(x + 14, y + (paraN(s2, 226, 16) > 1 ? 26 : 37), s2, 226, { size: 16 });
+    b += rect(x, y, 252, 62, C.panel, C.rust, 10, 2) + para(x + 14, y + (paraN(s2, 226, 16) > 1 ? 26 : 37), s2, 226, { size: 16 });
   });
   add('05-break-even-chart-changes',
     svg(900, 790, 'Reading changes on a break-even chart', b),
