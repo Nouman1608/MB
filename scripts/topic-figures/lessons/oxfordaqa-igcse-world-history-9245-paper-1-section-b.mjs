@@ -393,8 +393,7 @@ F('06-detente-to-collapse', 'Détente, renewed tension and collapse, c1969-1991'
       ['Second détente', 'Gorbachev, from 1985', ['Reykjavik Summit (1986)', 'START treaty (1991)'], C.tealLight, C.tealDark],
       ['Collapse of communism', 'To December 1991', ['Afghanistan withdrawal complete (1989)', 'Solidarity wins elections (1989)', 'Berlin Wall opened (Nov 1989)', 'USSR collapses (Dec 1991)'], C.cream, C.olive],
     ];
-    const r = row(y, ph.map(([t1, sub, list, f, e]) => ({ title: t1, body: ['*' + sub + '*', ...list], fill: f, edge: e })), { arrows: true, gap: 26, vcenter: false, card: { size: 15, tsize: 18, pad: 13, gap: 6 } });
-    return r;
+    return stack(y, ph.map(([t1, sub, list, f, e]) => ({ kicker: sub, title: t1, body: list.join('  ·  '), fill: f, edge: e })), { arrows: true, gap: 34, card: { size: 16, tsize: 20, bfill: C.ink, kfill: C.muted } });
   },
   (y) => note(y, 'Also part of the collapse', 'Glasnost and perestroika; the Velvet Revolution in Czechoslovakia; the end of communist rule in East Germany and Hungary.', { size: 16, fill: C.panel, edge: C.olive }),
 ],
@@ -405,13 +404,13 @@ F('06-detente-to-collapse', 'Détente, renewed tension and collapse, c1969-1991'
 F('07-nine-mark-structure', 'Structure of a 9-mark answer', 'Two reasons why tension increased, 1945-49: keep them separate', [
   (y) => {
     const col = (x, n, name, detail, link, f, e) => {
-      let s = panel(x, y, 405, 380, f, e) + T(x + 22, y + 36, 'REASON ' + n, { size: 15, weight: 700, fill: C.muted }) + para(x + 22, y + 64, name, 360, { size: 19, weight: 700 }).s;
-      const d = card(x + 18, y + 120, 369, { kicker: 'PRECISE DETAIL', body: detail, size: 15, bfill: C.ink, pad: 12 });
-      const l = card(x + 18, y + 136 + d.h, 369, { kicker: 'LINK: WHY TENSION ROSE', kfill: C.rust, body: link, size: 15, bfill: C.ink, pad: 12, fill: C.cream, edge: C.olive });
-      return s + d.s + arrow(x + 202, y + 120 + d.h + 2, x + 202, y + 134 + d.h, { w: 3 }) + l.s;
+      let s = panel(x, y, 405, 370, f, e) + T(x + 22, y + 36, 'REASON ' + n, { size: 15, weight: 700, fill: C.muted }) + para(x + 22, y + 64, name, 360, { size: 19, weight: 700 }).s;
+      const d = card(x + 18, y + 120, 369, { kicker: 'PRECISE DETAIL', body: detail, size: 16, bfill: C.ink, pad: 12, minH: 112 });
+      const l = card(x + 18, y + 120 + d.h + 30, 369, { kicker: 'LINK: WHY TENSION ROSE', kfill: C.rust, body: link, size: 16, bfill: C.ink, pad: 12, fill: C.cream, edge: C.olive, minH: 90 });
+      return s + d.s + arrow(x + 202, y + 120 + d.h + 3, x + 202, y + 120 + d.h + 27, { w: 3 }) + l.s;
     };
     return { s: col(30, 1, 'The division of Germany and the Berlin Blockade', 'New Western currency (1948); Stalin blockaded West Berlin; supplied by air until 1949', 'Germany became a test of strength; led to NATO (1949) and two German states', C.panel, C.panelEdge) +
-      col(465, 2, 'The Truman Doctrine and Marshall Aid', 'Support for Greece and Turkey (1947); aid to rebuild Europe; Stalin refused it and set up Cominform and Comecon', 'Europe divided economically as well as politically', C.panel, C.panelEdge), h: 380 };
+      col(465, 2, 'The Truman Doctrine and Marshall Aid', 'Support for Greece and Turkey (1947); aid to rebuild Europe; Stalin refused it and set up Cominform and Comecon', 'Europe divided economically as well as politically', C.panel, C.panelEdge), h: 370 };
   },
 ],
 'Two panels, one per reason. Reason 1: the division of Germany and the Berlin Blockade, with precise detail (the 1948 currency, the blockade and airlift) and a link (Germany as a test of strength, leading to NATO and two German states). Reason 2: the Truman Doctrine and Marshall Aid, with detail and a link (Europe divided economically as well as politically).',

@@ -275,12 +275,12 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
 {
   const Y = 110;
   let s = '';
-  const ly = Y + 70;
+  const ly = Y + 56;
   s += `<line x1="60" y1="${ly}" x2="840" y2="${ly}" stroke="${C.ink}" stroke-width="4" marker-end="url(#ah)"/>`;
   s += `<rect x="60" y="${ly - 22}" width="380" height="44" rx="10" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(250, ly + 6, 'before the genre: e.g. Hamlet, the Mariner', { size: 16, anchor: 'middle' });
   s += `<circle cx="470" cy="${ly}" r="13" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
   s += T(470, ly - 34, 'mid-19th century:', { size: 16, weight: 700, anchor: 'middle' }) + T(470, ly + 46, 'crime fiction emerges as a genre', { size: 16, weight: 700, anchor: 'middle', fill: C.olive });
-  const y2 = ly + 80;
+  const y2 = ly + 104;
   s += T(450, y2, 'What every set text shares', { size: 20, weight: 700, anchor: 'middle' });
   const r = row(y2 + 18, [
     { title: 'A significant crime', body: 'drives the narrative' },
@@ -306,7 +306,7 @@ const rich = (x, y, segs, o = {}) => `<text x="${x}" y="${y}" font-size="${o.siz
   const Y = 110;
   let s = '';
   const cols = [
-    ['Post-2000 prose', C.tealLight, C.tealDark, [['When Will There Be Good News?', 'Kate Atkinson'], ['Atonement', 'Ian McEwan'], ['Kala', 'Colin Walsh · first assessment 2027']]],
+    ['Post-2000 prose', C.tealLight, C.tealDark, [['When Will There Be Good News?', 'Kate Atkinson'], ['Atonement', 'Ian McEwan'], ['Kala', 'Colin Walsh · assessed from 2027']]],
     ['Pre-1900 poetry', C.cream, C.olive, [['The Rime of the Ancient Mariner', 'Coleridge'], ['Five poems', 'Crabbe, Browning and Wilde']]],
     ['Further text', C.panel, C.ink, [['Oliver Twist', 'Dickens · pre-1900'], ['Hamlet', 'Shakespeare · pre-1900'], ['The Murder of Roger Ackroyd', 'Agatha Christie'], ['Brighton Rock', 'Graham Greene']]],
   ];

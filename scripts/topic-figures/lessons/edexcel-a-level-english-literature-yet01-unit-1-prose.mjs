@@ -396,7 +396,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
   s += badge(P(0.55), ly - 66, 15, '1', C.mustard) + badge(P(0.18), ly - 66, 15, '2', C.mustard) + badge(P(0.9), ly - 66, 15, '3', C.mustard);
   s += path(`M${P(0.55) - 18},${ly - 66} L${P(0.18) + 18},${ly - 66}`, { stroke: C.tealDark, w: 3, extra: 'marker-end="url(#ahT)"' });
   s += path(`M${P(0.18) + 6},${ly - 50} Q${P(0.54)},${ly - 20} ${P(0.9) - 18},${ly - 62}`, { stroke: C.tealDark, w: 3, extra: 'stroke-dasharray="7 5" marker-end="url(#ahT)"' });
-  s += T(P(0.37), ly - 78, 'opens, then moves back', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 }) + T(P(0.6), ly - 14, 'then forward', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 });
+  s += T(P(0.37), ly - 78, 'opens, then moves back', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 }) + T(P(0.74), ly - 70, 'then forward', { size: 15, anchor: 'middle', fill: C.tealDark, weight: 600 });
   const y2 = ly + 70;
   s += `<text x="30" y="${y2 + 6}" font-size="20" font-weight="700" fill="${C.ink}"><tspan font-style="italic">Life of Pi</tspan>: a frame narrative</text>`;
   const fy = y2 + 24;
@@ -419,7 +419,7 @@ function venn(Y, leftYear, rightYear, cols, o = {}) {
   s += card(30, Y, 840, { kicker: 'EXAMPLE STATEMENT (ORIGINAL)', title: '“Balram is more a product of his society than a villain.”', fill: C.tealLight, edge: C.tealDark, tsize: 20 }).s;
   s += T(450, Y + 118, 'You are not asked to agree; you are asked to test it.', { size: 17, weight: 700, anchor: 'middle', fill: C.olive });
   const st = steps(Y + 140, [
-    { title: 'Define the key terms', body: 'What does “a victim”, or “a product of his society”, mean in this novel?' },
+    { title: 'Define the key terms', body: 'If the statement says a character is “a victim”, decide what victimhood means in this novel.' },
     { title: 'Take a position', body: 'It can be partial: “largely true, but…”.' },
     { title: 'Build evidence from across the novel', body: 'The opening, a turning point, the ending.' },
     { title: 'Show how methods shape the issue', body: 'The reader’s view depends on how the story is told.' },
