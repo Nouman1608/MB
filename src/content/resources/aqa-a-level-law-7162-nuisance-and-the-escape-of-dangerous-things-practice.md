@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"
     subtopic: "nuisance-and-the-escape-of-dangerous-things-7162"
-description: "Original practice questions with mark-scheme answers on private nuisance and the rule in Rylands v Fletcher, including problem scenarios, for AQA A Level Law 7162."
+description: "Original practice questions with mark-scheme answers on private nuisance and the rule in Rylands v Fletcher, with problem scenarios, for AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

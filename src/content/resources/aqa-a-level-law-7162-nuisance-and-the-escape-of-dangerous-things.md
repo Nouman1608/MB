@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "tort-7162"
     subtopic: "nuisance-and-the-escape-of-dangerous-things-7162"
-description: "Private nuisance and the rule in Rylands v Fletcher: who can sue and be sued, unreasonable use, each Rylands element and worked problems, for AQA A Level Law 7162."
+description: "Private nuisance and the rule in Rylands v Fletcher: who can sue and be sued, unreasonable use, each Rylands element and a worked problem, AQA Law 7162."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17

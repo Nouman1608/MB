@@ -80,6 +80,13 @@ Unlawful interference with a person's use or enjoyment of land, or some right ov
 | Claimant | Interest in land | Interest in land |
 | Personal injury | Not recoverable | Not recoverable |
 
+## Evaluation points
+
+- **Balancing rights:** nuisance asks neighbours to "give and take", but outcomes depend heavily on locality and judicial impression.
+- **Who can sue:** *Hunter* keeps nuisance tied to land, but leaves family members without a claim for the same disturbance.
+- **Rylands narrowed:** after *Transco* few claims succeed, and personal injury is excluded, so negligence often does the real work.
+- **Planning:** letting public planning decisions change a locality can remove private rights without compensation.
+
 ## Key terms
 
 | Term | Meaning |
