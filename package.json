@@ -33,6 +33,7 @@
     "validate:academic-qa": "node --experimental-strip-types scripts/validate-academic-qa.mjs",
     "report:academic-qa": "node --experimental-strip-types scripts/academic-qa-scorecard.mjs",
     "check:academic-qa": "node --experimental-strip-types scripts/academic-qa-scorecard.mjs --check",
+    "test:academic-qa": "node --experimental-strip-types scripts/test-academic-qa-lifecycle.mjs",
     "qa:review-pack": "node --experimental-strip-types scripts/academic-qa-review-pack.mjs",
     "qa:source-manifest": "node scripts/academic-qa-source-manifest.mjs",
     "test:reports": "node scripts/test-academic-reports.mjs",

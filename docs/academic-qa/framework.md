@@ -168,6 +168,19 @@ All four pilot assessments were done by an AI system reading each page against t
 | QA-0003 | Cambridge 9990 Clinical psychology practice | 85.5 | REVISION_REQUIRED | Accurate content; the series ends with November 2026 and the page says nothing about 2027; the Paper 4-style section does not match the paper format |
 | QA-0004 → QA-0005 | 0620/5070 Atomic structure practice | 79.5 → 82.5 | REVISION_REQUIRED | Major: Q4's second part is 0620 Supplement 2.3 outcome 3, but the page told Core candidates they could answer it. **Corrected** on 15 Nov 2026; QA-0004 became stale and QA-0005 records the fix. Minor findings remain |
 
+### Pilot closure (17 Nov 2026, D-496)
+
+The four pages were corrected and reassessed. The records above are kept as history; these are the current ones. All are AI-assisted and none is a teacher review.
+
+| Record | Replaces | Score | State | What is left |
+|---|---|---:|---|---|
+| QA-0006 | QA-0001 | 95.5 | ACADEMIC_REVIEW_PENDING | Teacher verification; one image label |
+| QA-0007 | QA-0002 | 91.5 | ACADEMIC_REVIEW_PENDING | Teacher verification; one image rounds an intermediate value |
+| QA-0008 | QA-0003 | 88.0 | REVISION_REQUIRED | Level descriptors for the 10-mark answer; one study procedure unchecked; the 9990 series ends at 2026 |
+| QA-0009 | QA-0005 | 92.0 | ACADEMIC_REVIEW_PENDING | Teacher verification |
+
+Details: `docs/reports/academic-qa/pilot-closure-report.md`. Assessment dates use the UTC date, the one the validator compares against.
+
 ## 12. Commands
 
 ```bash
@@ -177,6 +190,7 @@ npm run validate:academic-qa                                     # integrity gat
 npm run qa:review-pack -- <slug> [<slug> ...]                    # teacher review packs
 QA_RESOURCE_DIR="<resource check folder>" npm run qa:source-manifest -- --verify
 node --experimental-strip-types scripts/test-negative-validation-suite.mjs   # cases AW-BC cover this framework
+npm run test:academic-qa                                         # lifecycle tests on the real register (add -- --dist after a build)
 ```
 
 ## 13. Changing the rubric

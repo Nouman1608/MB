@@ -1027,8 +1027,11 @@ const QA_CMD = 'node --experimental-strip-types scripts/validate-academic-qa.mjs
 console.log('\n[AX] D-465 -- an open hard-stop on current content blocks the build, whatever the score');
 withMutation(
   QA_REG,
-  (text) => text.replace('"severity": "minor",\n          "hardStop": null,\n          "location": "Table \'What these sub-topics cover\'', '"severity": "critical",\n          "hardStop": "MATERIAL_FACTUAL_ERROR",\n          "location": "Table \'What these sub-topics cover\''),
-  { validatorCmd: QA_CMD, expectSubstring: 'open hard-stop MATERIAL_FACTUAL_ERROR', label: '93.5/100 page with an open critical factual error is rejected' },
+  // The gate acts on the newest record for the page's current content. Since the pilot closure
+  // (D-496) that is QA-0006, not QA-0001: a hard-stop planted in a replaced record is history
+  // and blocks nothing, so the fixture targets an open finding of the current record.
+  (text) => text.replace('"severity": "advisory",\n          "hardStop": null,\n          "location": "Figure \\"Relative atomic mass from abundances', '"severity": "critical",\n          "hardStop": "MATERIAL_FACTUAL_ERROR",\n          "location": "Figure \\"Relative atomic mass from abundances'),
+  { validatorCmd: QA_CMD, expectSubstring: 'open hard-stop MATERIAL_FACTUAL_ERROR', label: '95.5/100 page with an open critical factual error is rejected' },
 );
 
 console.log('\n[AY] D-465 -- a stored total is rejected (totals are computed)');

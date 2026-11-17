@@ -36,6 +36,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-16
 reviewNote: "2026-11-16: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 ---
 
@@ -43,7 +44,9 @@ featured: false
 > A Level Psychology (9990) assessment objectives. They are not taken from any
 > past paper and are not endorsed by Cambridge International.
 
-**This practice set covers all five topics of Specialist Option 1, Clinical Psychology, in Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** Section A uses Paper 3 style short-answer questions and a structured essay (6 marks describe, 10 marks evaluate). Section B uses Paper 4 style application and research-methods questions. All scenarios and people are fictional.
+**This practice set has at least one question on each of the five topics of Specialist Option 1, Clinical Psychology, in Cambridge International A Level Psychology 9990 (syllabus for 2024 to 2026).** It is a sample of the option, not full coverage: items such as bipolar disorder, kleptomania, pyromania and several of the treatments and measures in the syllabus are not tested here. Section A uses Paper 3 style short-answer questions and a structured essay (6 marks describe, 10 marks evaluate). Section B uses Paper 4 style application and research-methods questions. All scenarios and people are fictional.
+
+**Sitting the exam in 2027?** Cambridge publishes a separate 9990 syllabus for exams in 2027. Its Clinical Psychology content and its Paper 3 and Paper 4 format are the same as in the 2024 to 2026 syllabus, so this set can be used for 2027 exams too. A new syllabus applies to exams in 2028, 2029 and 2030; check that document if you sit the exam then.
 
 Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clinical-psychology-revision-notes/) · [Clinical Psychology study guide](/resources/a-level-psychology-clinical-psychology/)
 
@@ -64,6 +67,8 @@ Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clin
 **4. (b)** Evaluate systematic desensitisation as a treatment for fear-related disorders, including a discussion of idiographic versus nomothetic approaches. **[10]**
 
 ## Section B: Paper 4 style questions
+
+In the exam, Paper 4 Section A has two structured questions on each option, worth 18 marks for the option. This section has four questions (22 marks) to give more practice, so it is longer than the real paper. It also returns to two topics used in Section A; in the exam, the topic areas on Paper 4 are different from those on Paper 3.
 
 **5.** Maya is a clinical psychologist. Her client, Tomasz, washes his hands up to 40 times a day because he believes he will spread germs to his family. When he is stopped from washing, he becomes very anxious.
 
@@ -91,7 +96,7 @@ Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clin
 
 **1. (a)** One mark each for any two, briefly outlined: avolition (lack of motivation to start or keep up activities); alogia or poverty of speech (very little speech or empty replies); flat or blunted affect (reduced emotional expression); social withdrawal or asociality; anhedonia (loss of pleasure).
 
-**1. (b)** Up to 4 marks. Twenty-four non-clinical participants (1). They entered a virtual reality library scene containing computer-generated characters that behaved neutrally (1). Before or after the VR experience they completed dimensional assessments of psychiatric symptoms such as anxiety and interpersonal sensitivity (1). They then reported their thoughts about the virtual characters, which were assessed for persecutory content (1). Credit any accurate detail of the standardised environment.
+**1. (b)** Up to 4 marks. Twenty-four non-clinical participants (1). They entered a virtual reality library scene containing computer-generated characters that behaved neutrally (1). They also completed questionnaire assessments of psychiatric symptoms such as anxiety and interpersonal sensitivity (1). They then reported their thoughts about the virtual characters, which were assessed for persecutory content (1). Credit any accurate detail of the standardised environment.
 
 **2. (a)** Up to 3 marks. Beck proposed that depressed people hold negative views of three things (1): the **self** (e.g. "I am worthless") (1), the **world** or their experiences (e.g. "nobody cares about me") and the **future** (e.g. "things will never improve") (1). These are automatic and maintained by cognitive errors.
 
@@ -101,7 +106,7 @@ Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clin
 
 **4. (a)** Up to 6 marks for a clear, detailed description. Based on classical conditioning and reciprocal inhibition: relaxation and fear cannot occur at the same time (1). The client is taught relaxation techniques such as deep breathing or progressive muscle relaxation (1). Client and therapist build an anxiety hierarchy from least to most feared situations (1). The client is exposed to each step while relaxed, starting at the bottom (1). They move up only when calm at the current step (1). Exposure can be imagined (in vitro) or real (in vivo), and the end point is the most feared situation with no fear response (1).
 
-**4. (b)** Level-based: 9–10 marks for detailed, balanced evaluation with an issue developed and a conclusion. Indicative content:
+**4. (b)** Marked by levels of response. An answer at the top of the range (9–10 marks) gives detailed, balanced evaluation, develops the named issue and reaches a conclusion; an answer that lists points without developing them, or leaves out the named issue, earns fewer marks. This page does not reproduce Cambridge's level descriptors: use a published Cambridge mark scheme to place an answer in a lower level. Indicative content:
 
 - *Effectiveness*: well supported for specific phobias, and the client controls the pace, so dropout is low compared with flooding.
 - *Limits*: less useful where a disorder has no clear trigger, such as generalised anxiety disorder; for blood-injection-injury phobia, relaxation can lower blood pressure further, which is why applied tension is preferred (Chapman and DeLapp, 2013).
@@ -120,7 +125,7 @@ Related: [Clinical Psychology revision notes](/resources/a-level-psychology-clin
 
 **6. (b)** Up to 2 marks. For example: participants were patients referred to two UK outpatient departments (1), so they may differ from people with OCD in other cultures or who never seek help (1). Or: people willing to accept telephone therapy may be more motivated than others.
 
-**7. (a)** Up to 3 marks. Independent measures design (1), because a patient cannot take both drugs in sequence without carry-over effects or risk to health (1); patients should be randomly allocated to the two drug conditions to reduce participant variables (1). A matched-pairs design, matched on symptom severity, can also earn full credit if justified.
+**7. (a)** Up to 3 marks. Independent measures design (1), because giving one patient both drugs in sequence risks carry-over effects from the first drug and would mean changing an ill patient's medication for the sake of the study (1); patients should be randomly allocated to the two drug conditions to reduce participant variables (1). A matched-pairs design, matched on symptom severity, can also earn full credit if justified.
 
 **7. (b)** Up to 3 marks. For example: protection from harm (1), because one group might receive a less effective drug or suffer side effects (1); the psychologist should monitor side effects closely and allow patients to switch or withdraw at any time without affecting their care (1). Informed consent and capacity to consent are also creditworthy if explained.
 
@@ -151,4 +156,4 @@ Check weak areas against the [Clinical Psychology study guide](/resources/a-leve
 
 ## Official syllabus
 
-Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1: Clinical Psychology, and section 4 Details of the assessment (Papers 3 and 4) — [cambridgeinternational.org](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf).
+Cambridge International AS & A Level Psychology 9990 syllabus for 2024, 2025 and 2026, Specialist Option 1: Clinical Psychology, and section 4 Details of the assessment (Papers 3 and 4) — [9990 syllabus for 2024 to 2026 (PDF on cambridgeinternational.org)](https://www.cambridgeinternational.org/Images/634461-2024-2026-syllabus.pdf). For exams in 2027, see the [9990 syllabus for 2027 (PDF on cambridgeinternational.org)](https://www.cambridgeinternational.org/Images/721433-2027-syllabus.pdf).
