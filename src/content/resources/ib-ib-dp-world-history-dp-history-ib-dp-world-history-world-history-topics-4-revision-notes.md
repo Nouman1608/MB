@@ -89,6 +89,12 @@ Related: [Societies in transition study guide](/resources/ib-ib-dp-world-history
 - **Contact and disease**: epidemics made conquest easier and transformed American societies; new crops later supported population growth in Asia and Europe.
 - **Religion and politics**: princes adopted reform partly for control over church lands and appointments; rulers such as Akbar used toleration to bind diverse elites.
 
+## Judgement lines for conclusions
+
+- "Change was rapid among elites and in cities, but slow in the countryside where most people lived."
+- "Religious reform changed who controlled the church more than it changed the social order."
+- "Global contact transformed the Americas but was absorbed by strong states such as Ming China."
+
 ## Exam traps
 
 - **Everything changed.** Always give continuity, especially in social hierarchy and rural life.

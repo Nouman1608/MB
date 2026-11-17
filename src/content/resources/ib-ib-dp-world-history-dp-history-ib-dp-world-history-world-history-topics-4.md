@@ -77,6 +77,10 @@ Between 1405 and 1433 the Ming admiral Zheng He led seven great voyages into the
 
 **Conclusion:** the same silver had opposite effects: it strengthened Chinese commerce while it masked Spanish weakness.
 
+## A second region: Tokugawa Japan
+
+Japan shows transition shaped by deliberate state policy. After Tokugawa Ieyasu's victory at Sekigahara (1600) and his appointment as shogun (1603), the regime first tolerated, then banned Christianity, and in the 1630s restricted foreign contact: Japanese were forbidden to travel abroad, and European trade was confined to the Dutch, who from 1641 were restricted to the island of Dejima at Nagasaki. Peace brought rapid urban growth: Edo, Osaka and Kyoto became great cities, merchants grew rich, and a lively urban culture of printed books, theatre and woodblock prints developed. Yet the official status order placed warriors above peasants, artisans and merchants, and the regime tried to freeze it. Japan therefore lets you argue that economic and cultural change could run ahead of, and in tension with, a deliberately conservative political order.
+
 ## Interpretations
 
 The idea of a "Renaissance" as a sharp break with the Middle Ages was popularised in the nineteenth century, notably by Jacob Burckhardt's study of Renaissance Italy (1860); many historians now stress continuity with medieval learning. On the Reformation, some historians emphasise Luther's theology, others the political interests of princes and towns, and others the role of print. Use such debates to frame your judgement on the extent of change.

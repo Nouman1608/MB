@@ -83,6 +83,10 @@ Most refugees returned quickly, but many Serbs and Roma then fled reprisals. The
 
 Note how every point is tied to the stated topic, the failure of intervention.
 
+## Interpretations
+
+Samantha Power's *A Problem from Hell* (2002) argued that US officials had enough information to recognise genocide in Rwanda and chose not to act, partly because there was little domestic pressure to do so. Debate continues over France's role, both before 1994 and in Operation Turquoise. For Kosovo, the central argument is between those who saw NATO's action as a humanitarian rescue that set a valuable precedent and those who saw it as a breach of international law that weakened the UN. Use these positions to frame Question 4 judgements, and treat a historian's extract in the sources as an interpretation to evaluate.
+
 ## Common mistakes
 
 - Treating the genocide as "ancient tribal hatred"; the case study requires the colonial and political causes.

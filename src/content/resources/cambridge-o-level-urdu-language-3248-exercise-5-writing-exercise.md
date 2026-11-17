@@ -139,6 +139,8 @@ is similar; vocabulary, verb forms and tone are entirely different.
 - Spend two minutes on purpose, format, audience and a one-line plan per prompt.
 - Write the greeting and closing first so the register is fixed from the start.
 - Count paragraphs against prompts before you finish.
+- Protect about 25 minutes for this exercise: it carries 14 of the paper's 50 marks, more than any
+  other, so do not let the reading exercises run over.
 - Leave three or four minutes to check gender and number agreement, *نے*, and punctuation.
 
 ## Related resources
