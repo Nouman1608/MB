@@ -15,13 +15,13 @@ const gm = (x, y) => box(x, y - 23, 150, 46, C.panel, C.ink, 22, 3) + box(x, y -
 {
   let b = panel(30, 110, 840, 420);
   const sx = 230, sy = 320;
-  for (let k = 0; k < 16; k++) { const a = (k * Math.PI) / 8 + 0.1; b += arrow(sx + 24 * Math.cos(a), sy + 24 * Math.sin(a), sx + 120 * Math.cos(a), sy + 120 * Math.sin(a), { color: C.rust, marker: 'ahR', w: 2.5 }); }
+  for (let k = 0; k < 16; k++) { const a = (k * Math.PI) / 8 + 0.1; b += arrow(sx + 24 * Math.cos(a), sy + 24 * Math.sin(a), sx + 95 * Math.cos(a), sy + 95 * Math.sin(a), { color: C.rust, marker: 'ahR', w: 2.5 }); }
   b += circ(sx, sy, 20, C.mustard, C.ink, 3);
   b += t(sx, sy + 160, 'source: emits in all directions', { size: 16, weight: 700, anchor: 'middle' });
   b += gm(560, 320) + t(635, 280, 'G-M tube', { size: 16, weight: 700, anchor: 'middle' });
-  b += path('M710,320 Q760,320 770,300', { w: 2.5 }) + box(760, 250, 90, 60, C.ink, C.ink, 6, 0) + box(768, 258, 74, 32, '#e9f5ec', C.ink, 3, 1) + t(805, 281, '0420', { size: 17, weight: 700, anchor: 'middle' });
+  b += path('M710,320 Q760,320 770,300', { w: 2.5 }) + box(760, 250, 90, 60, C.ink, C.ink, 6, 0) + box(768, 258, 74, 32, '#e9f5ec', C.ink, 3, 1) + t(805, 335, 'counter', { size: 15, weight: 700, anchor: 'middle' });
   b += ln(sx + 22, sy - 8, 556, 312, { color: C.rust, w: 2, dash: '5 5' }) + ln(sx + 22, sy + 8, 556, 328, { color: C.rust, w: 2, dash: '5 5' });
-  b += t(430, 290, 'only a small fraction', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 }).replace('y="290"', 'y="300"');
+  b += t(440, 300, 'only a small fraction reaches it', { size: 15, anchor: 'middle', fill: C.rust, weight: 600 });
   b += t(640, 390, '+ background radiation', { size: 15, anchor: 'middle', fill: C.muted, weight: 600 }) + arrow(640, 372, 640, 352, { w: 2.5 });
   b += panel(30, 550, 410, 220, C.cream, C.olive) + t(60, 590, 'Activity', { size: 21, weight: 700 });
   b += tl(60, 626, ['decays per second in the source', '1 Bq = 1 decay per second', '1 kBq = 1000 Bq', '1 MBq = 1 000 000 Bq'], { size: 17 }, 30);
@@ -64,11 +64,10 @@ const gm = (x, y) => box(x, y - 23, 150, 46, C.panel, C.ink, 22, 3) + box(x, y -
 {
   let b = panel(30, 110, 840, 270);
   b += circ(100, 230, 18, C.mustard, C.ink, 3) + t(100, 275, 'alpha source', { size: 15, weight: 700, anchor: 'middle' });
-  for (let k = 0; k < 3; k++) b += arrow(122, 222 + k * 8, 230 + k * 10, 222 + k * 8, { color: C.rust, marker: 'ahR', w: 2.5 });
-  b += t(190, 200, 'a few cm', { size: 15, weight: 700, anchor: 'middle', fill: C.rust });
+  b += arrow(122, 230, 240, 230, { color: C.rust, marker: 'ahR', w: 4 });
+  b += t(180, 215, 'a few cm', { size: 15, weight: 700, anchor: 'middle', fill: C.rust });
   [320, 470, 620].forEach((x, i) => (b += `<g opacity="${i === 0 ? 1 : 0.45}">` + gm(x, 230) + '</g>'));
   b += arrow(330, 290, 760, 290, { w: 3 }) + t(545, 318, 'G-M tube moved away in centimetre steps', { size: 16, weight: 600, anchor: 'middle' });
-  b += ln(100, 340, 330, 340, { w: 2 }) + t(215, 362, 'distance / cm', { size: 15, anchor: 'middle', fill: C.muted });
   // qualitative graph
   b += panel(30, 400, 840, 330);
   const ox = 130, oy = 660, W = 640, H = 210;

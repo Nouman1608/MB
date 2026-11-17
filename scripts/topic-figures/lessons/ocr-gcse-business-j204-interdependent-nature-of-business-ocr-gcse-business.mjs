@@ -117,7 +117,7 @@ const FN = { Marketing: [C.cream, C.olive], Operations: [C.tealLight, C.tealDark
   let b = panel(30, 110, 400, 330) + line(80, 400, 80, 150, { w: 3 }) + line(80, 400, 400, 400, { w: 3 });
   b += tx(70, 160, 'Reward', { size: 16, weight: 700, anchor: 'end' }) + tx(400, 428, 'Risk', { size: 16, weight: 700, anchor: 'end' });
   b += arrow(100, 380, 380, 170, { color: C.olive, marker: 'ahO', w: 4 });
-  b += tx(250, 230, 'higher reward usually', { size: 16, anchor: 'end', fill: C.olive, weight: 600 }) + tx(250, 250, 'means higher risk', { size: 16, anchor: 'end', fill: C.olive, weight: 600 });
+  b += tx(410, 340, 'higher reward usually', { size: 16, anchor: 'end', fill: C.olive, weight: 600 }) + tx(410, 360, 'means higher risk', { size: 16, anchor: 'end', fill: C.olive, weight: 600 });
   b += rect(450, 110, 420, 330, C.panel) + tx(470, 146, 'Risk exists in every function', { size: 19, weight: 700 });
   [['Marketing', 'Demand lower than forecast'], ['Operations', 'Equipment fails'], ['Finance', 'Costs rise or cash runs short'], ['Human resources', 'Key staff leave']].forEach(([fn, s], i) => {
     const [f, e] = FN[fn], y = 166 + i * 66;
@@ -164,22 +164,22 @@ const FN = { Marketing: [C.cream, C.olive], Operations: [C.tealLight, C.tealDark
 // 05 Harbour Lane cash flow
 {
   const x0 = 130, yb = 520, top = 200, max = 10000, sc = (v) => ((yb - top) * v) / max;
-  let b = panel(30, 110, 840, 480) + tx(56, 146, 'Bank balance: first three months of the new shop', { size: 18, weight: 700 });
+  let b = panel(30, 110, 840, 540) + tx(56, 146, 'Bank balance: first three months of the new shop', { size: 18, weight: 700 });
   [0, 2500, 5000, 7500, 10000].forEach((v) => { const y = yb - sc(v); b += line(x0, y, 850, y, { color: C.panelEdge, w: 1.5 }) + tx(x0 - 10, y + 6, money(v, '£'), { size: 15, anchor: 'end', fill: C.muted }); });
-  const bars = [['Opening', 8000, ''], ['Month 1', 4300, '7,500 − 11,200 = −3,700'], ['Month 2', 3600, '8,400 − 9,100 = −700'], ['Month 3', 4200, '9,600 − 9,000 = +600']];
+  const bars = [['Opening', 8000, ''], ['Month 1', 4300, 'in 7,500, out 11,200: net −3,700'], ['Month 2', 3600, 'in 8,400, out 9,100: net −700'], ['Month 3', 4200, 'in 9,600, out 9,000: net +600']];
   bars.forEach(([m, v, n], i) => {
     const x = x0 + 40 + i * 175, w = 120;
     b += `<rect x="${x}" y="${yb - sc(v)}" width="${w}" height="${sc(v)}" fill="${i === 0 ? C.panel : i === 2 ? C.rust : C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
     b += tx(x + w / 2, yb - sc(v) - 10, money(v, '£'), { size: 17, weight: 700, anchor: 'middle' });
     b += tx(x + w / 2, yb + 26, m, { size: 16, weight: 700, anchor: 'middle' });
-    if (n) b += tx(x + w / 2, yb + 50, n, { size: 14, anchor: 'middle', fill: n.includes('+') ? C.tealDark : C.rust, weight: 600 });
+    if (n) b += para(x + w / 2, yb + 50, n, 150, { size: 15, anchor: 'middle', fill: n.includes('+') ? C.tealDark : C.rust, weight: 600 });
   });
   b += tx(x0 + 40 + 2 * 175 + 60, yb - sc(3600) + 30, 'low point', { size: 15, weight: 700, anchor: 'middle', fill: '#ffffff' });
   b += line(x0, yb, 850, yb, { w: 2.5 });
-  b += tx(56, 578, 'Net cash flow = inflows − outflows; closing balance = opening balance + net cash flow.', { size: 15, fill: C.muted });
-  b += takeaway(610, 'Little room for a surprise cost in month 2.', 'Training new staff before opening adds outflows before any inflows arrive. An overdraft would protect the thin balance.');
+  b += tx(56, 630, 'Net cash flow = inflows − outflows; closing balance = opening balance + net cash flow.', { size: 15, fill: C.muted });
+  b += takeaway(670, 'Little room for a surprise cost in month 2.', 'Training new staff before opening adds outflows before any inflows arrive. An overdraft would protect the thin balance.');
   add('05-harbour-lane-cash-flow',
-    svg(900, 610 + takeH('Training new staff before opening adds outflows before any inflows arrive. An overdraft would protect the thin balance.') + 30, 'Harbour Lane Bakery: the cash squeeze', b),
+    svg(900, 670 + takeH('Training new staff before opening adds outflows before any inflows arrive. An overdraft would protect the thin balance.') + 30, 'Harbour Lane Bakery: the cash squeeze', b),
     'The bank balance starts at £8,000, falls to £4,300 after month 1 (net −£3,700) and £3,600 after month 2 (net −£700), then rises to £4,200 in month 3 (net +£600). The month 2 low point leaves little room for a surprise cost.',
     'A profitable plan can still squeeze cash in the first months.',
     '## Worked example: a second shop');
