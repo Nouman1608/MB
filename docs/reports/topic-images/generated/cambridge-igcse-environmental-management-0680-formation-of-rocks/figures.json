@@ -6,7 +6,7 @@
   "after": "## Igneous rocks: crystallisation from molten rock",
   "alt": "Cross-section of a volcano. Magma deep underground cools slowly and forms granite; lava flowing over the surface cools quickly and forms basalt. Close-ups show granite with large, pale interlocking crystals and basalt with tiny dark crystals.",
   "caption": "Slow cooling underground gives coarse granite; fast cooling at the surface gives fine basalt.",
-  "bytes": 85962
+  "bytes": 86718
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-formation-of-rocks--02-sedimentary-sequence.webp",
@@ -15,7 +15,7 @@
   "after": "## Sedimentary rocks: particles laid down in layers",
   "alt": "Five panels in order: weathering breaks rock down in place; erosion and transportation carry fragments away; deposition and sedimentation build layers; compaction squeezes out water; cementation glues the particles together. Below, limestone forms from shells in warm shallow seas, sandstone from sand grains, and shale from fine mud in calm water.",
   "caption": "Weathering, erosion, transport, deposition, sedimentation, compaction, cementation: in that order.",
-  "bytes": 115674
+  "bytes": 115106
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-formation-of-rocks--03-metamorphic-pairs.webp",
@@ -33,16 +33,16 @@
   "after": "## The rock cycle as a set of links",
   "alt": "Rock cycle diagram. Magma or lava crystallises into igneous rock. Igneous and metamorphic rock are weathered, eroded and transported to form sediment, which becomes sedimentary rock through deposition, sedimentation, compaction and cementation. Heat and pressure change sedimentary rock into metamorphic rock, which can melt back into magma.",
   "caption": "Read each arrow: out of magma is crystallisation; surface rock to sediment is weathering and erosion.",
-  "bytes": 87234
+  "bytes": 87364
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-formation-of-rocks--05-permeability.webp",
   "width": 900,
-  "height": 646,
+  "height": 596,
   "after": "## Permeability and why it matters",
   "alt": "Three magnified rock textures. Sandstone has rounded grains with connected pore spaces, so water passes through. Shale has tiny unconnected pores and granite has interlocking crystals, so water cannot pass. Below are the definition of permeability and the classification of the seven named rocks.",
   "caption": "Permeable rock needs pore spaces that connect; shale is the sedimentary exception.",
-  "bytes": 146270
+  "bytes": 147982
  },
  {
   "file": "cambridge-igcse-environmental-management-0680-formation-of-rocks--06-permeability-test.webp",

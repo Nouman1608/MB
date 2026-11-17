@@ -332,17 +332,17 @@ F('02-hazard-perception', 'Perception sits behind every response', null, [
     let s = panel(30, y, 840, 430);
     const x0 = 100, x1 = 840, top = y + 40, base = y + 360, norm = y + 140;
     s += arrow(x0, base, x1, base, { w: 2.5 }) + arrow(x0, base, x0, top - 10, { w: 2.5 });
-    s += T(x1, base + 26, 'time', { size: 16, anchor: 'end', fill: C.muted }) + `<text transform="translate(66,${(top + base) / 2}) rotate(-90)" text-anchor="middle" font-size="16" fill="${C.muted}">quality of life / normality</text>`;
+    s += T(x1, base - 10, 'time', { size: 16, anchor: 'end', fill: C.muted }) + `<text transform="translate(66,${(top + base) / 2}) rotate(-90)" text-anchor="middle" font-size="16" fill="${C.muted}">quality of life / normality</text>`;
     s += `<line x1="${x0}" y1="${norm}" x2="${x1}" y2="${norm}" stroke="${C.panelEdge}" stroke-width="2" stroke-dasharray="8 6"/>` + T(x0 + 6, norm - 8, 'pre-event level', { size: 15, fill: C.muted });
     const ev = 240;
     const curve = `M${x0},${norm} L${ev - 50},${norm} C${ev - 30},${norm} ${ev - 25},${norm + 18} ${ev - 12},${norm + 18} L${ev},${norm + 14} L${ev + 4},${y + 320} C${ev + 40},${y + 330} ${ev + 80},${y + 330} ${ev + 110},${y + 318} C${ev + 220},${y + 250} ${ev + 330},${norm + 10} ${ev + 430},${norm - 26} L${x1 - 10},${norm - 34}`;
     s += path(curve, { stroke: C.tealDark, w: 5 });
     s += `<line x1="${ev + 2}" y1="${top}" x2="${ev + 2}" y2="${base}" stroke="${C.rust}" stroke-width="2.5"/>` + T(ev + 8, top + 6, 'hazard event', { size: 15, weight: 700, fill: C.rust });
     // phase brackets
-    const br = (a, b, lab) => `<path d="M${a},${base - 14} L${a},${base - 6} L${b},${base - 6} L${b},${base - 14}" fill="none" stroke="${C.olive}" stroke-width="2.5"/>` + T((a + b) / 2, base - 20, lab, { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
+    const br = (a, b, lab) => `<path d="M${a},${base + 8} L${a},${base + 16} L${b},${base + 16} L${b},${base + 8}" fill="none" stroke="${C.olive}" stroke-width="2.5"/>` + T((a + b) / 2, base + 38, lab, { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
     s += br(ev + 4, ev + 120, 'relief') + br(ev + 124, ev + 330, 'rehabilitation') + br(ev + 334, x1 - 10, 'reconstruction');
     // numbered annotations
-    s += badge(ev - 30, norm - 24, 14, '5', C.mustard) + badge(ev + 30, y + 240, 14, '1', C.mustard) + badge(ev + 60, y + 300, 14, '2', C.mustard) + badge(ev + 225, y + 238, 14, '3', C.mustard) + badge(x1 - 50, norm - 58, 14, '4', C.mustard);
+    s += badge(ev - 30, norm + 44, 14, '5', C.mustard) + badge(ev + 30, y + 240, 14, '1', C.mustard) + badge(ev + 60, y + 300, 14, '2', C.mustard) + badge(ev + 225, y + 238, 14, '3', C.mustard) + badge(x1 - 50, norm - 58, 14, '4', C.mustard);
     s += T(850, y + 420, 'Illustrative shape', { size: 15, anchor: 'end', fill: C.muted, italic: true });
     return { s, h: 430 };
   },
@@ -361,15 +361,15 @@ F('02-hazard-perception', 'Perception sits behind every response', null, [
 // 04 Management cycle
 {
   const blocks = [(y) => {
-    const cx = 300, cy = y + 190, R = 140;
+    const cx = 270, cy = y + 190, R = 160;
     let s = `<circle cx="${cx}" cy="${cy}" r="${R}" fill="none" stroke="${C.panelEdge}" stroke-width="10"/>`;
     const st = [['Preparedness', -90, C.tealLight, C.tealDark], ['Response', 0, C.cream, C.olive], ['Recovery', 90, C.cream, C.olive], ['Mitigation', 180, C.tealLight, C.tealDark]];
     for (let i = 0; i < 4; i++) {
-      const a0 = (-90 + i * 90 + 22) * Math.PI / 180, a1 = (-90 + i * 90 + 68) * Math.PI / 180;
+      const a0 = (-90 + i * 90 + 30) * Math.PI / 180, a1 = (-90 + i * 90 + 62) * Math.PI / 180;
       s += path(`M${cx + R * Math.cos(a0)},${cy + R * Math.sin(a0)} A${R},${R} 0 0 1 ${cx + R * Math.cos(a1)},${cy + R * Math.sin(a1)}`, { w: 4, extra: 'marker-end="url(#ah)"' });
     }
-    st.forEach(([lab, deg, f, e]) => { const a = deg * Math.PI / 180, x = cx + R * Math.cos(a), yy = cy + R * Math.sin(a); s += `<rect x="${x - 82}" y="${yy - 24}" width="164" height="48" rx="24" fill="${f}" stroke="${e}" stroke-width="3"/>` + T(x, yy + 7, lab, { size: 18, weight: 700, anchor: 'middle' }); });
-    s += T(cx, cy - 6, 'lessons from one event', { size: 15, anchor: 'middle', fill: C.muted }) + T(cx, cy + 14, 'shape the next', { size: 15, anchor: 'middle', fill: C.muted });
+    st.forEach(([lab, deg, f, e]) => { const a = deg * Math.PI / 180, x = cx + R * Math.cos(a), yy = cy + R * Math.sin(a); s += `<rect x="${x - 75}" y="${yy - 24}" width="150" height="48" rx="24" fill="${f}" stroke="${e}" stroke-width="3"/>` + T(x, yy + 7, lab, { size: 18, weight: 700, anchor: 'middle' }); });
+    s += T(cx, cy - 14, 'lessons from', { size: 15, anchor: 'middle', fill: C.muted }) + T(cx, cy + 6, 'one event shape', { size: 15, anchor: 'middle', fill: C.muted }) + T(cx, cy + 26, 'the next', { size: 15, anchor: 'middle', fill: C.muted });
     s += card(520, y + 10, 350, { title: 'Park model', body: 'What happens to one community after one event.', size: 16, tsize: 18, fill: C.panel }).s;
     s += card(520, y + 130, 350, { title: 'Management cycle', body: 'How management should improve between events.', size: 16, tsize: 18, fill: C.panel }).s;
     s += card(520, y + 250, 350, { title: '"Moved round the cycle"', body: 'E.g. rebuilding with new building codes is mitigation for the next event.', size: 16, tsize: 18, fill: C.cream, edge: C.olive }).s;

@@ -77,7 +77,7 @@ const blob = (cx, cy, r, n, seed = 1) => { let s = ''; let k = seed; for (let i 
 {
   const y = 260;
   const body = panel(30, 110, 840, 330) +
-    badge(70, 150, 17, '1', C.cream) + badge(300, 150, 17, '2', C.cream) + badge(490, 150, 17, '3', C.mustard) + badge(720, 150, 17, '4', C.cream) +
+    badge(70, 150, 17, '1', C.cream) + badge(300, 150, 17, '2', C.cream) + badge(415, 150, 17, '3', C.mustard) + badge(720, 150, 17, '4', C.cream) +
     neutron(70, y) + arrow(84, y, 130, y, { w: 3 }) + t(70, y + 40, 'slow', { size: 15, anchor: 'middle', fill: C.muted }) + t(70, y + 58, 'neutron', { size: 15, anchor: 'middle', fill: C.muted }) +
     blob(185, y, 50, 16, 11) + t(185, y + 80, 'U-235', { size: 17, weight: 700, anchor: 'middle' }) +
     arrow(242, y, 282, y, { w: 3 }) + `<ellipse cx="335" cy="${y}" rx="48" ry="62" fill="${C.cream}" stroke="${C.rust}" stroke-width="3" stroke-dasharray="7 5"/>` + t(335, y + 6, 'U-236', { size: 17, weight: 700, anchor: 'middle' }) + t(335, y + 92, 'very unstable', { size: 15, anchor: 'middle', fill: C.rust }) +
@@ -108,7 +108,7 @@ const blob = (cx, cy, r, n, seed = 1) => { let s = ''; let k = seed; for (let i 
     t(235, 415, 'more fissions likely', { size: 18, weight: 700, anchor: 'middle', fill: C.tealDark });
   const R = panel(460, 110, 410, 330, '#f6e3d6', C.rust) + t(665, 148, 'Control rods', { size: 21, weight: 700, anchor: 'middle', fill: C.rust }) + t(665, 172, 'boron or cadmium', { size: 15, anchor: 'middle', fill: C.muted }) +
     rect(720, 190, 34, 110, { fill: C.ink, sw: 0, rx: 3 }) + neutron(520, 240) + arrow(534, 240, 712, 240, { w: 3 }) + t(620, 225, 'neutron absorbed', { size: 15, anchor: 'middle', fill: C.muted }) +
-    arrow(800, 290, 800, 210, { w: 3, color: C.muted }) + arrow(830, 210, 830, 290, { w: 3, color: C.muted }) + t(815, 318, 'raise / lower', { size: 15, anchor: 'middle', fill: C.muted }) +
+    arrow(800, 270, 800, 195, { w: 3, color: C.muted }) + arrow(830, 195, 830, 270, { w: 3, color: C.muted }) + t(815, 292, 'raise / lower', { size: 15, anchor: 'middle', fill: C.muted }) +
     para(485, 330, 'ABSORB neutrons: lower them to slow the reaction, raise them to speed it up, fully in to shut down.', 360, { size: 16 }, 22) +
     t(665, 415, 'fewer fissions happen', { size: 18, weight: 700, anchor: 'middle', fill: C.rust });
   const body = L + R + panel(30, 460, 840, 112) + t(55, 495, 'Shielding (thick steel and concrete)', { size: 18, weight: 700 }) +
@@ -122,13 +122,13 @@ const blob = (cx, cy, r, n, seed = 1) => { let s = ''; let k = seed; for (let i 
 // 04 Control rods keep power steady: explain chain
 {
   const box = (x, y, w, h, s, fill = C.panel, edge = C.panelEdge) => panel(x, y, w, h, fill, edge) + para(x + 20, y + 34, s, w - 40, { size: 17, weight: 600 }, 23);
-  const body = box(30, 115, 260, 110, 'Rate of fission rises') + arrow(292, 170, 318, 170, { w: 4 }) +
-    box(320, 115, 260, 110, 'Control rods lowered further into the core') + arrow(582, 170, 608, 170, { w: 4 }) +
-    box(610, 115, 260, 110, 'More neutrons absorbed: fewer fissions') + arrow(740, 228, 740, 258, { w: 4 }) +
-    box(320, 262, 550, 100, 'Adjusted so on average ONE neutron from each fission causes another fission', C.tealLight, C.tealDark) + arrow(318, 312, 292, 312, { w: 4 }) +
-    box(30, 262, 260, 100, 'Rate of fission and power output stay steady', C.cream, C.olive) +
-    t(450, 400, 'Average of 1: steady.   More than 1: the number of fissions grows rapidly (1, 2 or 3, perhaps 9, 27 ...).', { size: 16, anchor: 'middle', fill: C.muted });
-  add('04-control-rods-steady-output', svg(900, 425, 'How control rods keep the power steady', body),
+  const body = box(30, 115, 260, 90, 'Rate of fission rises') + arrow(292, 160, 318, 160, { w: 4 }) +
+    box(320, 115, 260, 90, 'Control rods lowered further into the core') + arrow(582, 160, 608, 160, { w: 4 }) +
+    box(610, 115, 260, 90, 'More neutrons absorbed: fewer fissions') + arrow(740, 208, 740, 238, { w: 4 }) +
+    box(320, 242, 550, 95, 'Adjusted so on average ONE neutron from each fission causes another fission', C.tealLight, C.tealDark) + arrow(318, 290, 292, 290, { w: 4 }) +
+    box(30, 242, 260, 95, 'Rate of fission and power output stay steady', C.cream, C.olive) +
+    t(450, 375, 'Average of 1: steady.   More than 1: the number of fissions grows rapidly (1, 2 or 3, perhaps 9, 27 ...).', { size: 16, anchor: 'middle', fill: C.muted });
+  add('04-control-rods-steady-output', svg(900, 400, 'How control rods keep the power steady', body),
     'A chain of boxes: if the rate of fission rises, the control rods are lowered further in, more neutrons are absorbed and fewer fissions occur. They are adjusted so that on average one neutron from each fission causes another, keeping the power output steady.',
     'Control rods hold the chain reaction at one further fission per fission.',
     '## Worked example: an "explain" answer');

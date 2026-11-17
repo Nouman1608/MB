@@ -73,7 +73,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
     svg(900, 146 + 5 * 110 + 14, 'How ICT changes each part of a business', b),
     'Five business areas, each with how ICT changes it and the likely effect: operations (automatic reordering, fewer stock-outs), marketing (targeted online promotion), human resources (online adverts and home working, wider applicant pool), finance (faster payments) and customer service (help outside opening hours).',
     'Name the activity that changes, then its effect on costs, revenue, customers or staff.',
-    '## How ICT changes what a business does');
+    '## How changing ICT changes what a business does');
 }
 
 // 02 Keeping up with changing ICT
@@ -91,7 +91,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
     svg(900, 520, 'Changing ICT: keeping up', b),
     'A line from too slow to too fast. A business that does not keep up with changing ICT may lose customers to rivals with faster ordering; one that adopts new ICT too quickly may pay for systems customers do not yet use.',
     'ICT needs steady investment: too slow loses customers, too fast wastes money.',
-    '## How ICT changes what a business does');
+    '## How changing ICT changes what a business does');
 }
 
 // 03 B2C and B2B

@@ -153,12 +153,12 @@ const H2 = {
 {
   let b = '';
   const c = [['Accessibility', 'collection points close by, or collection from homes and businesses'], ['Ease', 'simple sorting, clearly labelled bins, products easy to separate'], ['Education', 'people know what can be recycled, how to prepare it and why it matters']];
-  c.forEach(([h, d], i) => { const x = 30 + i * 285; b += card(x, 110, 270, 160, h, d, { fill: '#eef5f4', edge: C.tealDark, tfill: C.tealDark, ts: 20, bs: 16.5, bfill: C.ink }); b += arrow(x + 135, 274, 450 + (i - 1) * 60, 318, { w: 3.5 }); });
-  b += pill(250, 324, 400, 56, 'more material recycled', { fill: C.tealDark, edge: C.tealDark, color: '#ffffff', size: 19 });
-  b += card(30, 404, 410, 220, 'Benefits', ['• less demand for new ore: less mining,', '   habitat loss and mining waste', '• usually less energy than new ore', '• less waste to landfill'], { fill: '#ffffff', edge: C.tealDark, tfill: C.tealDark, ts: 19, bs: 16.5, bfill: C.ink });
-  b += card(460, 404, 410, 220, 'Limitations', ['• collection, transport and sorting cost', '   money and use energy', '• mixed materials (phones) hard to separate', '• contamination lowers quality', '• can only supply what is thrown away'], { fill: '#ffffff', edge: C.rust, tfill: C.rust, ts: 19, bs: 16.5, bfill: C.ink });
+  c.forEach(([h, d], i) => { const x = 30 + i * 285; b += card(x, 110, 270, 130, h, d, { fill: '#eef5f4', edge: C.tealDark, tfill: C.tealDark, ts: 20, bs: 16.5, bfill: C.ink }); b += arrow(x + 135, 244, 450 + (i - 1) * 60, 288, { w: 3.5 }); });
+  b += pill(250, 294, 400, 56, 'more material recycled', { fill: C.tealDark, edge: C.tealDark, color: '#ffffff', size: 19 });
+  b += panel(30, 374, 410, 214, '#ffffff', C.tealDark) + t(54, 410, 'Benefits', { size: 19, weight: 700, fill: C.tealDark }) + bullets(54, 442, ['less demand for new ore: less mining, habitat loss and mining waste', 'usually less energy than new ore', 'less waste to landfill'], 370, { size: 16.5, gap: 5 }).svg;
+  b += panel(460, 374, 410, 214, '#ffffff', C.rust) + t(484, 410, 'Limitations', { size: 19, weight: 700, fill: C.rust }) + bullets(484, 442, ['collection, transport and sorting cost money and use energy', 'mixed materials (phones) hard to separate', 'contamination lowers quality', 'can only supply what is thrown away'], 370, { size: 16.5, gap: 5 }).svg;
   add('03-recycling-conditions',
-    svg(900, 650, 'What makes people recycle?', b),
+    svg(900, 612, 'What makes people recycle?', b),
     'Accessibility (nearby collection), ease (simple sorting and labelled bins) and education (knowing what, how and why) all lead to more material being recycled. Recycling reduces demand for new ore, usually saves energy and cuts landfill, but costs money and energy, struggles with mixed materials and contamination, and can only supply what is thrown away.',
     'Accessibility, ease and education decide how much is actually recycled.',
     H2.seven);
@@ -202,10 +202,10 @@ const H2 = {
     b += arrow(416, y + 36, 484, y + 36, { w: 5 });
     b += rrect(490, y, 380, 72, '#eef5f4', C.tealDark, 2.5, 12) + t(680, y + 44, z, { size: 18, weight: 700, anchor: 'middle' });
   });
-  b += card(30, 440, 410, 170, 'Benefits', ['• less demand for a scarce mineral', '• may be lighter, cheaper or better'], { fill: '#ffffff', edge: C.tealDark, tfill: C.tealDark, ts: 19, bs: 16.5, bfill: C.ink });
-  b += card(460, 440, 410, 170, 'Limitations', ['• may itself be finite or harmful:', '  plastics are made from petroleum', '• may cost more or perform less well', '• switching may need new equipment'], { fill: '#ffffff', edge: C.rust, tfill: C.rust, ts: 19, bs: 16.5, bfill: C.ink });
+  b += panel(30, 440, 410, 160, '#ffffff', C.tealDark) + t(54, 476, 'Benefits', { size: 19, weight: 700, fill: C.tealDark }) + bullets(54, 508, ['less demand for a scarce mineral', 'may be lighter, cheaper or better'], 370, { size: 16.5, gap: 5 }).svg;
+  b += panel(460, 440, 410, 160, '#ffffff', C.rust) + t(484, 476, 'Limitations', { size: 19, weight: 700, fill: C.rust }) + bullets(484, 508, ['may itself be finite or harmful: plastics are made from petroleum', 'may cost more or perform less well', 'switching may need new equipment'], 370, { size: 16.5, gap: 5 }).svg;
   add('05-alternative-materials',
-    svg(900, 635, 'Alternative materials', b),
+    svg(900, 625, 'Alternative materials', b),
     'Three swaps: fibre-optic glass cables replace copper telecom cables, plastic pipes replace copper pipes, and recycled crushed concrete replaces newly quarried rock. Alternatives cut demand for scarce minerals and may be lighter or cheaper, but may themselves be finite or harmful, cost more or need new equipment.',
     'Swapping materials eases demand for scarce minerals, but the substitute has its own costs.',
     H2.seven);
@@ -222,7 +222,7 @@ const H2 = {
   b += `<text x="58" y="${y0 - 180}" font-size="16" fill="${C.muted}" text-anchor="middle" transform="rotate(-90 58 ${y0 - 180})">reserve left (million tonnes)</text>`;
   b += path(`M${x0},${y0 - 600 * yk} L${x0 + 30 * xk},${y0}`, { stroke: C.rust, w: 4.5 }) + path(`M${x0},${y0 - 600 * yk} L${x0 + 40 * xk},${y0}`, { stroke: C.tealDark, w: 4.5 });
   b += circ(x0 + 30 * xk, y0, 7, C.rust) + circ(x0 + 40 * xk, y0, 7, C.tealDark);
-  b += tag(x0 + 150, y0 - 330, '20 Mt a year: 30 years', { size: 16, fill: C.rust }) + tag(x0 + 250, y0 - 190, '15 Mt a year: 40 years', { size: 16, fill: C.tealDark });
+  b += tag(x0 + 22, y0 - 60, '20 Mt a year: 30 years', { size: 16, fill: C.rust }) + tag(x0 + 250, y0 - 190, '15 Mt a year: 40 years', { size: 16, fill: C.tealDark });
   b += t(580, 140, 'invented figures', { size: 15, anchor: 'end', fill: C.muted, italic: true });
   b += panel(610, 110, 260, 520);
   b += t(632, 148, 'Current rate', { size: 18, weight: 700, fill: C.rust }) + t(632, 176, '600 ÷ 20 = 30 years', { size: 16.5 });
@@ -245,10 +245,10 @@ const H2 = {
   b += bar(176, 4500, 'Before', '25%') + bar(256, 7200, 'After', '40%');
   b += t(x0 + 7200 * k + 16, 290, 'not recycled: 60%', { size: 16.5, weight: 600, fill: C.muted });
   b += t(60, 372, 'Kerbside collection made recycling more accessible and easier.', { size: 17 });
-  b += panel(30, 430, 410, 140, C.cream, C.olive) + t(54, 468, 'Mass recycled rose by', { size: 18, weight: 700 }) + t(54, 498, '(7,200 − 4,500) ÷ 4,500', { size: 17 }) + t(54, 524, '× 100 = 60%', { size: 17 });
-  b += panel(460, 430, 410, 140, '#eef5f4', C.tealDark) + tl(484, 468, wrap('60% of the metal is still not recycled, so education is needed as well.', 360, 17), { size: 17, weight: 600 }, 23);
+  b += panel(30, 430, 410, 115, C.cream, C.olive) + t(54, 468, 'Mass recycled rose by', { size: 18, weight: 700 }) + t(54, 498, '(7,200 − 4,500) ÷ 4,500', { size: 17 }) + t(54, 524, '× 100 = 60%', { size: 17 });
+  b += panel(460, 430, 410, 115, '#eef5f4', C.tealDark) + tl(484, 468, wrap('60% of the metal is still not recycled, so education is needed as well.', 360, 17), { size: 17, weight: 600 }, 23);
   add('07-recycling-scheme',
-    svg(900, 595, 'Worked example: does easier recycling work?', b),
+    svg(900, 570, 'Worked example: does easier recycling work?', b),
     'Two bars out of 18,000 tonnes of metal waste. Before a kerbside scheme 4,500 tonnes (25%) were recycled; after it, 7,200 tonnes (40%). The mass recycled rose by 60%, but 60% of the metal is still not recycled, suggesting education is also needed.',
     'Recycling rose from 25% to 40%, a 60% increase in mass, but most metal is still not recycled.',
     H2.we2);

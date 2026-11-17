@@ -94,7 +94,7 @@ const grains = (x, y, w, h, r, seed, fill, gapFill) => { let o = `<clipPath id="
   s += `<path d="M500,192 Q560,250 640,${G - 4} L800,${G - 4} L800,${G}" fill="none" stroke="${C.rust}" stroke-width="10" stroke-linecap="round"/>`;
   s += `<ellipse cx="300" cy="440" rx="170" ry="48" fill="${C.rust}" stroke="${C.ink}" stroke-width="2.5"/>` + path(`M440,420 L480,200`, { stroke: C.rust, w: 12 });
   s += t(300, 446, 'magma cools slowly, deep underground', { size: 16, weight: 700, anchor: 'middle', fill: C.panel });
-  s += t(700, G - 24, 'lava cools quickly at the surface', { size: 16, weight: 700, anchor: 'middle', fill: C.rust });
+  s += t(858, G - 50, 'lava cools quickly', { size: 16, weight: 700, fill: C.rust, anchor: 'end' }) + t(858, G - 30, 'at the surface', { size: 16, weight: 700, fill: C.rust, anchor: 'end' });
   s += notToScale(858, 500);
   s += crystals(30, 530, 140, 120, 14, 7, [C.cream, '#ece4d4', C.rock, '#d9c4c0', C.panel]) + t(190, 562, 'Granite', { size: 21, weight: 700 }) + tl(190, 588, ['coarse-grained: large', 'crystals you can see;', 'pale, speckled'], { size: 16 }, 21);
   s += crystals(460, 530, 140, 120, 140, 3, [C.ink, '#3a4256', C.muted, '#2b3346']) + t(620, 562, 'Basalt', { size: 21, weight: 700 }) + tl(620, 588, ['fine-grained: crystals', 'too small to see;', 'dark grey to black'], { size: 16 }, 21);
@@ -121,7 +121,7 @@ const grains = (x, y, w, h, r, seed, fill, gapFill) => { let o = `<clipPath id="
     if (i === 3) s += [C.sand, C.rock, C.sand, C.rock, C.sand].map((f, k) => rect(x + 10, ay + 40 + k * 14, 140, 14, f, { stroke: C.ink, sw: 1.2 })).join('') + arrow(x + 50, ay + 4, x + 50, ay + 34, { w: 3.5 }) + arrow(x + 110, ay + 4, x + 110, ay + 34, { w: 3.5 });
     if (i === 4) s += grains(x + 15, ay + 20, 130, 90, 12, 11 + i, C.sand, C.olive);
     s += badge(x + 26, y + 175, 15, String(i + 1), C.mustard) + tl(x + 48, y + 181, wrap(a, 16, bw - 56, 700), { size: 16, weight: 700 }, 20);
-    s += para(x + 14, y + 240, b, bw - 28, { size: 15, fill: C.muted });
+    s += para(x + 14, y + 254, b, bw - 28, { size: 15, fill: C.muted });
     if (i < 4) s += arrow(x + bw + 0, y + 90, x + bw + gx + 0.5, y + 90, { w: 2.5 });
   });
   const tbl = [['Limestone', 'shells and skeletons (calcium carbonate)', 'warm, shallow seas'], ['Sandstone', 'sand grains, mostly quartz', 'rivers, beaches, deserts'], ['Shale', 'very fine clay and silt (mud)', 'calm water: lake beds, deep sea floor']];
@@ -174,7 +174,7 @@ const grains = (x, y, w, h, r, seed, fill, gapFill) => { let o = `<clipPath id="
   s += t(450, 270, 'weathering, erosion,', { size: 16, weight: 700, anchor: 'middle' }) + t(450, 292, 'transportation', { size: 16, weight: 700, anchor: 'middle' });
   s += arrow(450, 404, 450, 524, { w: 4, color: C.olive, marker: 'ahO' });
   s += tl(464, 440, ['deposition, sedimentation,', 'compaction, cementation'], { size: 16, weight: 700, fill: C.olive }, 22);
-  s += carrow(574, 585, 860, 600, 800, 388, { w: 4, color: C.tealDark, marker: 'ahT' }) + t(860, 640, 'heat and pressure', { size: 17, weight: 700, fill: C.tealDark, anchor: 'end' });
+  s += carrow(574, 585, 860, 600, 800, 388, { w: 4, color: C.tealDark, marker: 'ahT' }) + t(700, 634, 'heat and pressure', { size: 17, weight: 700, fill: C.tealDark, anchor: 'middle' });
   s += t(40, 440, 'Any rock at the surface can', { size: 15, fill: C.muted }) + t(40, 460, 'be weathered; any rock buried', { size: 15, fill: C.muted }) + t(40, 480, 'deeply can be changed by heat', { size: 15, fill: C.muted }) + t(40, 500, 'and pressure.', { size: 15, fill: C.muted });
   add('04-rock-cycle',
     svg(900, 665, 'The rock cycle', s),
@@ -193,15 +193,15 @@ const grains = (x, y, w, h, r, seed, fill, gapFill) => { let o = `<clipPath id="
   ];
   cards.forEach(([n, k, why, tex, perm], i) => {
     const x = 30 + i * 290;
-    s += panel(x, 110, 260, 380) + t(x + 130, 150, n, { size: 21, weight: 700, anchor: 'middle' }) + tex;
+    s += panel(x, 110, 260, 330) + t(x + 130, 150, n, { size: 21, weight: 700, anchor: 'middle' }) + tex;
     s += perm ? [80, 130, 180].map((dx) => arrow(x + dx, 182, x + dx, 320, { w: 3.5, color: C.blue, dash: '8 6' })).join('') : [90, 170].map((dx) => path(`M${x + dx},165 l0,16 m-8,-8 l8,8 8,-8`, { stroke: C.blue, w: 3 })).join('') + line(x + 70, 175, x + 190, 175, C.rust, 5);
     s += t(x + 130, 362, k, { size: 20, weight: 700, anchor: 'middle', fill: perm ? C.tealDark : C.rust }) + para(x + 20, 392, why, 220, { size: 16 });
   });
   const def = 'Permeability: the ability of water to pass through the pore spaces of rock and soil.';
-  s += card(30, 510, 840, { body: def, bsize: 18, bweight: 700, fill: C.cream, edge: C.olive, center: true });
-  s += t(450, 510 + cardH(840, { body: def, bsize: 18, bweight: 700 }) + 30, 'Permeable: limestone, sandstone. Impermeable: granite, basalt, marble, slate, shale.', { size: 16, anchor: 'middle', weight: 600 });
+  s += card(30, 460, 840, { body: def, bsize: 18, bweight: 700, fill: C.cream, edge: C.olive, center: true });
+  s += t(450, 460 + cardH(840, { body: def, bsize: 18, bweight: 700 }) + 30, 'Permeable: limestone, sandstone. Impermeable: granite, basalt, marble, slate, shale.', { size: 16, anchor: 'middle', weight: 600 });
   add('05-permeability',
-    svg(900, 510 + cardH(840, { body: def, bsize: 18, bweight: 700 }) + 56, 'Why some rocks let water through', s),
+    svg(900, 460 + cardH(840, { body: def, bsize: 18, bweight: 700 }) + 56, 'Why some rocks let water through', s),
     'Three magnified rock textures. Sandstone has rounded grains with connected pore spaces, so water passes through. Shale has tiny unconnected pores and granite has interlocking crystals, so water cannot pass. Below are the definition of permeability and the classification of the seven named rocks.',
     'Permeable rock needs pore spaces that connect; shale is the sedimentary exception.',
     '## Permeability and why it matters');

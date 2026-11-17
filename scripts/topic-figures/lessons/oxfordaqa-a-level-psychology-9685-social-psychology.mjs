@@ -322,10 +322,10 @@ F('01-normative-informational', 'Why people conform', 'Deutsch and Gerard (1955)
 // 02 Asch variables
 F('02-asch-variables', 'Asch: how much people conformed', 'Line-judgement task; confederates gave a unanimous wrong answer on critical trials', [
   (y) => {
-    let s = panel(30, y, 840, 120) + T(54, y + 34, 'BASELINE', { size: 16, weight: 700, fill: C.tealDark });
+    let s = panel(30, y, 840, 140) + T(54, y + 34, 'BASELINE', { size: 16, weight: 700, fill: C.tealDark });
     const st = [['about 37%', 'of critical trials: conformed'], ['about 75%', 'conformed at least once'], ['about 25%', 'never conformed'], ['almost 0', 'errors when judging alone']];
-    st.forEach(([a, b], i) => { const x = 54 + i * 204; s += T(x, y + 74, a, { size: 24, weight: 700, fill: i === 3 ? C.muted : C.ink }) + para(x, y + 100, b, 190, { size: 15, fill: C.muted }).s; });
-    return { s, h: 120 };
+    st.forEach(([a, b], i) => { const x = 54 + i * 204; s += T(x, y + 74, a, { size: 24, weight: 700, fill: i === 3 ? C.muted : C.ink }) + para(x, y + 100, b, 180, { size: 15, fill: C.muted }).s; });
+    return { s, h: 140 };
   },
   (y) => {
     let s = panel(30, y, 840, 290) + T(54, y + 34, 'GROUP SIZE: CONFORMITY ON CRITICAL TRIALS', { size: 16, weight: 700, fill: C.tealDark });
@@ -357,10 +357,10 @@ F('03-agentic-state', 'Explaining obedience', 'Obedience: following a direct ord
     const b = card(570, y, 300, { kicker: 'AGENTIC STATE', kfill: C.rust, title: 'I act for another person, who is responsible', align: 'middle', size: 16, tsize: 18, minH: 100, vcenter: true, fill: '#f6e3d8', edge: C.rust });
     s += a.s + b.s + arrow(336, y + 50, 564, y + 50, { w: 4.5 }) + T(450, y + 38, 'agentic shift', { size: 17, weight: 700, anchor: 'middle' });
     const m = row(y + 130, [
-      { kicker: 'MORAL STRAIN', title: 'Distress at what they are doing' },
+      { kicker: 'MORAL STRAIN', title: 'Participants may feel distress at what they are doing' },
       { kicker: 'BINDING FACTORS', title: 'Keep them obeying', body: 'not wanting to break an agreement or appear rude', fill: C.cream, edge: C.olive },
-    ], { x: 450, w: 420, gap: 12, vcenter: false, card: { size: 15, tsize: 17, gap: 4, pad: 14 } });
-    s += m.s + T(30, y + 160, 'Milgram (1974)', { size: 16, weight: 700, fill: C.muted });
+    ], { gap: 14, vcenter: false, card: { size: 16, tsize: 17, gap: 4 } });
+    s += m.s + T(450, y + 80, 'Milgram (1974)', { size: 15, anchor: 'middle', fill: C.muted });
     return { s, h: 130 + m.h };
   },
   10,
@@ -398,8 +398,8 @@ F('04-milgram-variations', 'Milgram: situational variables', 'Percentage obeying
     return { s: s + r.s, h: r.h };
   },
   (y) => {
-    const items = [['proximity', C.mustard], ['location', C.teal], ['social support', C.tealDark]];
-    let s = '', x = 300;
+    const items = [['baseline', C.rust], ['proximity', C.mustard], ['location', C.teal], ['social support', C.tealDark]];
+    let s = '', x = 200;
     items.forEach(([l, c]) => { s += `<rect x="${x}" y="${y}" width="18" height="18" fill="${c}" stroke="${C.ink}" stroke-width="1.5"/>` + T(x + 26, y + 15, l, { size: 16 }); x += 40 + tw(l, 16) + 20; });
     return { s, h: 20 };
   },
@@ -419,10 +419,9 @@ F('04-milgram-variations', 'Milgram: situational variables', 'Percentage obeying
 // 05 Resistance
 F('05-resistance', 'Resistance to social influence', '', [
   (y) => {
-    let s = panel(30, y, 840, 170) + T(54, y + 34, 'SOCIAL SUPPORT: AN ALLY BREAKS THE PRESSURE', { size: 16, weight: 700, fill: C.tealDark });
-    const r = hbars(y + 54, [['Asch: unanimous', 37, C.panelEdge, 'about 37%'], ['Asch: one dissenter', 5.5, C.teal, 'about 5.5%']], 70, { x0: 270, x1: 560, bh: 32, gap: 10 });
-    const r2 = hbars(y + 54, [['Milgram baseline', 65, C.panelEdge, '65%'], ['Two peers refuse', 10, C.teal, '10%']], 70, { x0: 690, x1: 840, bh: 32, gap: 10 });
-    return { s: s + r.s + r2.s, h: 170 };
+    const r = hbars(y + 54, [['Asch: unanimous majority', 37, C.panelEdge, 'about 37%'], ['Asch: one dissenter', 5.5, C.teal, 'about 5.5%'], ['Milgram: baseline', 65, C.panelEdge, '65%'], ['Milgram: two peers refuse', 10, C.teal, '10%']], 70, { x0: 290, x1: 740, bh: 32, gap: 10 });
+    const s = panel(30, y, 840, r.h + 78) + T(54, y + 34, 'SOCIAL SUPPORT: AN ALLY BREAKS THE PRESSURE', { size: 16, weight: 700, fill: C.tealDark }) + T(846, y + 34, 'Asch: conformity; Milgram: obeyed to 450 V', { size: 15, anchor: 'end', fill: C.muted }) + r.s;
+    return { s, h: r.h + 78 };
   },
   (y) => P('A dissenter shows resistance is **possible** and **shares the social cost** of disobeying.', { anchor: 'middle', size: 17, fill: C.ink })(y),
   (y) => {
