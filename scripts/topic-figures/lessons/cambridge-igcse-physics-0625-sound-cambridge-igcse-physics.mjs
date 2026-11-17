@@ -95,7 +95,7 @@ const add = (name, svgText, alt, caption, after) => figures.push({ name, svg: sv
   [320, 480, 640, 800].forEach((r) => { s += t(r, 190, 'R', { size: 18, weight: 700, anchor: 'middle', fill: C.blue }); });
   s += dim(400, 390, 560, 390, 'wavelength', { ly: 418 });
   s += arrow(600, 450, 800, 450, { w: 4 }) + t(590, 456, 'direction of travel', { size: 16, weight: 600, anchor: 'end' });
-  s += t(160, 455, 'particles vibrate back and forth along this line', { size: 15, fill: C.muted });
+
   add('01-compressions-rarefactions',
     svg(900, 600, 'Sound: a longitudinal wave',
       panel(30, 110, 840, 370) + s +

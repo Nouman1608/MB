@@ -549,7 +549,7 @@ F('04-india-1857', 'Why Indians resisted in 1857', 'Different groups, different 
 'Separate the grievances by group, then the effects on British rule.', H2.ind);
 
 // 05 USA 1898
-F('05-usa-1898', 'The USA and Spain\'s colonies, 1895-1906', 'Drawn to scale: a war for Cuba that ended in empire', [
+F('05-usa-1898', 'The USA and Spain\'s colonies, 1895-1907', 'Drawn to scale: a war for Cuba that ended in empire', [
   (y) => htl(y, 1895, 1908, {
     step: 1, x0: 60, x1: 840, lg: 50,
     spans: [{ a: 1898.5, b: 1902, label: 'US military government in Cuba', fill: C.cream, edge: C.olive }, { a: 1899.1, b: 1902, label: 'Philippine-American War', fill: C.panel, edge: C.rust }],
@@ -571,7 +571,7 @@ F('05-usa-1898', 'The USA and Spain\'s colonies, 1895-1906', 'Drawn to scale: a 
 // 06 Cuba vs Philippines effects
 F('06-cuba-philippines', 'Effects on Cuba and the Philippines', 'Independence in form, American control in practice', [
   (y) => row(y, [
-    { kicker: 'CUBA', title: 'A protectorate', body: ['Teller Amendment: no annexation', 'US military government (1898-1902)', 'Platt Amendment (1901): right to intervene; Guantánamo Bay', 'US troops back after the 1906 revolt'], bullets: true, fill: C.tealLight, edge: C.tealDark },
+    { kicker: 'CUBA', title: 'Limited independence', body: ['Teller Amendment: no annexation', 'US military government (1898-1902)', 'Platt Amendment (1901): right to intervene; Guantánamo Bay', 'US troops back after the 1906 revolt'], bullets: true, fill: C.tealLight, edge: C.tealDark },
     { kicker: 'THE PHILIPPINES', title: 'A colony', body: ['Kept by McKinley: "benevolent assimilation"', 'Aguinaldo excluded from Manila; war from February 1899', 'War declared over in 1902', 'Taft: schools, roads, an assembly from 1907, under US control'], bullets: true, fill: C.cream, edge: C.olive },
   ], { gap: 18, card: { size: 16, tsize: 19, gap: 5 } }),
   (y) => note(y, 'Watch out', ['The Teller Amendment concerned **Cuba only**, not the Philippines.'], { size: 17, align: 'middle' }),
