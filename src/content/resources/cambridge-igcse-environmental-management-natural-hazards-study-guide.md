@@ -31,6 +31,7 @@ reviewer: "azam-siddique"
 reviewStatus: "reviewed"
 reviewedDate: 2026-11-08
 publishedDate: 2026-11-08
+updatedDate: 2026-11-17
 featured: false
 reviewNote: "2026-11-08: credited to azam-siddique (accountable teacher, D-379)."
 ---
@@ -80,7 +81,7 @@ Earthquakes cannot be reliably predicted, so measures concentrate on preparation
 
 ## Tropical cyclones
 
-Tropical cyclones, also called hurricanes or typhoons depending on the region, form over warm oceans, typically where sea-surface temperature is at least about 26.5 degrees Celsius, away from the equator itself so that the Earth's rotation can make the system spin. Warm moist air rises, condenses and releases heat, which drives the storm. When the cyclone moves over land or colder water it loses its energy supply and weakens.
+Tropical cyclones, also called hurricanes or typhoons depending on the region, form over warm oceans where the sea is at least 27 °C (the figure the 0680 syllabus gives; many textbooks quote about 26.5 °C) and at least 60 m deep, between about 5° and 30° from the equator, away from the equator itself so that the Earth's rotation can make the system spin. Warm moist air rises, condenses and releases heat, which drives the storm. When the cyclone moves over land or colder water it loses its energy supply and weakens.
 
 ### Effects
 
@@ -94,7 +95,7 @@ Tropical cyclones, also called hurricanes or typhoons depending on the region, f
 Satellites and radar track storms, giving days of warning. Preparation includes evacuation plans, cyclone shelters, strengthened buildings, mangrove protection and coastal defences, and education so that people respond to warnings. Wealthier countries can invest in forecasting and sturdier infrastructure, while poorer countries often rely on community preparedness.
 
 <figure class="topic-figure">
-  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from sea at least about 26.5 degrees Celsius rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--17-h-cyclone-formation.webp" width="900" height="760" alt="A side view of a tropical cyclone over warm sea with a calm eye. Warm moist air from the sea (labelled at least 26.5 degrees Celsius, the textbook figure; the 0680 syllabus gives at least 27 degrees Celsius) rises, cools and condenses, releasing heat that drives the storm. A spiral from above shows the spin that needs distance from the equator. Over land the storm loses its energy supply and weakens." loading="lazy">
   <figcaption>A cyclone feeds on warm sea water and weakens over land or colder water.</figcaption>
 </figure>
 
@@ -164,7 +165,7 @@ Learn at least one named example for each hazard so that you can add place, date
 
 1. Distinguish focus from epicentre. (The focus is where the quake begins underground; the epicentre is the point on the surface directly above.)
 2. Why do volcanoes occur at destructive boundaries? (One plate is forced down and melts, producing magma that rises.)
-3. State two conditions needed for a tropical cyclone to form. (Warm sea surface, at least about 26.5 degrees Celsius, and sufficient distance from the equator for rotation.)
+3. State two conditions needed for a tropical cyclone to form. (Any two: ocean temperature of at least 27 °C; ocean depth of at least 60 m; a position between 5° and 30° north or south of the Equator, far enough from it for the storm to spin.)
 4. Why can a storm surge cause more deaths than the wind? (It floods low-lying coasts rapidly with sea water.)
 5. Give one hard and one soft engineering flood response. (Embankment or dam; floodplain zoning or afforestation.)
 6. How much larger is the ground motion in a magnitude 8.0 quake than in a magnitude 6.0 quake? (100 times.)
@@ -180,7 +181,7 @@ A natural hazard becomes a disaster when it meets vulnerable people. The same ev
 No. Earthquakes cannot be reliably predicted, so management concentrates on preparation, such as earthquake-resistant buildings, strict building codes, public drills, emergency supplies and land-use planning. Volcanoes, by contrast, can often be monitored.
 
 **What conditions are needed for a tropical cyclone to form?**
-Tropical cyclones form over warm oceans, typically where sea-surface temperature is at least about 26.5 degrees Celsius, and away from the equator itself so that the Earth's rotation can make the system spin. They weaken over land or colder water.
+Tropical cyclones form over oceans at least 27 °C and 60 m deep, between 5° and 30° north or south of the Equator, and away from the equator itself so that the Earth's rotation can make the system spin. They weaken over land or colder water.
 
 **What is the difference between hard and soft engineering for floods?**
 Hard engineering, such as dams, embankments and flood walls, is effective but costly and can move the problem downstream. Soft engineering, such as floodplain zoning, afforestation, wetland restoration and warning systems, is cheaper and more sustainable but may take time or land.
