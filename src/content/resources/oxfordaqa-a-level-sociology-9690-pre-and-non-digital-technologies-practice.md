@@ -109,7 +109,7 @@ Extended answers (Questions 10, 11 and 12) are shown as indicative creditworthy 
 - Air travel supports diaspora visits and migration [1].
 - Benefits are unequal: a minority of people take most flights [1].
 - Aviation emits greenhouse gases that affect everyone [1].
-- Airports bring noise and take land, often near poorer areas [1].
+- Airports bring noise and take land, affecting nearby communities who may rarely fly [1].
 - Responses such as "flight shame" show cultural change [1].
 - Analysis: benefits concentrated, costs dispersed, a pattern of environmental inequality [1].
 **[8]**
