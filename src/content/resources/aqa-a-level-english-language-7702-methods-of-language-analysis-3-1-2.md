@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-1-2-7702"
 description: "How to identify and describe salient features at all six language levels in unseen Paper 1 texts: 3.1.2 Methods of language analysis for AQA A-level 7702."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

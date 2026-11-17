@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "section-a-poetry-and-prose-texts-4ea1"
 description: "Quick-recall notes for 4EA1 Paper 2 Section A: the ten Anthology Part 2 texts, AO1 and AO2, poetry and prose terms, essay shape, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the one-line situation summaries against the current Anthology Part 2 extracts, especially the Hill and Tremain extracts."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the one-line situation summaries against the current Anthology Part 2 extracts, especially the Hill and Tremain extracts."
 ---
 
 Condensed notes for the reading essay in Component 2 of Pearson Edexcel International GCSE English

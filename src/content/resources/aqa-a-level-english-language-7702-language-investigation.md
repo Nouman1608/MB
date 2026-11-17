@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "language-investigation-7702"
 description: "Designing, collecting data for and writing up the 2,000-word NEA language investigation, with evaluative methodology examples: AQA A-level English 7702 3.3.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

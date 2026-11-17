@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "contents-of-a-contract-9084"
 description: "Express terms, the parol evidence rule, Consumer Rights Act 2015 implied terms, status of terms and exemption clauses for Cambridge A Level Law 9084, 3.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

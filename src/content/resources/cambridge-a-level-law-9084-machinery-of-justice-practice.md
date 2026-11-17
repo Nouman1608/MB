@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "machinery-of-justice-9084"
 description: "Original questions with mark-scheme answers on the Woolf reforms, arbitration, criminal appeals, bail and PACE police powers for Cambridge Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

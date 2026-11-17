@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-quran-2058"
 description: "Study guide to the revelation, compilation, legal use and significance of the Qur'an for Cambridge O Level Islamiyat 2058 Paper 1, with a model answer."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details of revelation and compilation and the Qur'an references cited."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the historical details of revelation and compilation and the Qur'an references cited."
 ---
 
 **The History and Importance of the Qur'an is Paper 1 Question 2 in Cambridge O Level Islamiyat 2058,

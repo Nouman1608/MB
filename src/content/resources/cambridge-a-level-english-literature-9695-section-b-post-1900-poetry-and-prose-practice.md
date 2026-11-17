@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-post-1900-poetry-and-prose-9695"
 description: "Original practice for Cambridge 9695 Paper 4 Section B Post-1900: modern narration, poetic sequences and AO5 approaches on new passages, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

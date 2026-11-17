@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "communication-9218"
 description: "Original communication questions with full answers for OxfordAQA IGCSE Psychology 9218: language and thought, animal signals, body language, Darwin and Yuki."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

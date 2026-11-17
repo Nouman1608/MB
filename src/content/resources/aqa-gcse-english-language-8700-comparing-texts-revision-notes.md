@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "comparing-texts-8700"
 description: "AQA GCSE English Language 8700 comparing texts recall: AO3, perspective and method, comparing across centuries, planning grids, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

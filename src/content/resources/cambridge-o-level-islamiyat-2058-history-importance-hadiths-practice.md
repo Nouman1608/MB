@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-hadiths-2058"
 description: "Eleven original questions on Hadith compilation, isnad and matn, musnad and musannaf works and Shi'a collections, for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the compilers, collections and methods named and the credit given in each answer."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the compilers, collections and methods named and the credit given in each answer."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this subtopic. They are **not** reproduced past-paper questions —

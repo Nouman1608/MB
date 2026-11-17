@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-understanding-texts-9670"
 description: "Recall notes for OxfordAQA 9670 Unit 1 Section A: audience, purpose, genre and mode, constructed readers, interdiscursivity, hybrid modes and comparing texts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

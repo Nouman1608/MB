@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "major-teachings-hadiths-2058"
 description: "Twelve original questions on the 20 set Hadiths for Cambridge O Level Islamiyat 2058 Paper 2 Question 1, with teachings, modern applications and marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the explanation of each set Hadith, the transliterated Arabic words and the supporting Qur'an references."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the explanation of each set Hadith, the transliterated Arabic words and the supporting Qur'an references."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on the set Hadiths for Paper 2 Question 1. They are **not**

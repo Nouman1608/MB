@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-b-9245"
 description: "Twelve original 9245 Paper 1 Section B questions across all four depth-study options, from 3-mark knowledge to 12-mark judgements, with marking guides."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

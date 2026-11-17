@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-hadiths-2058"
 description: "Study guide to compiling and testing the Hadiths, the Sunni and Shi'a collections and their legal role, for Cambridge O Level Islamiyat 2058 Paper 2 Question 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the stages of compilation, the compilers and collections named, and the examples of Hadith criticism."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the stages of compilation, the compilers and collections named, and the examples of Hadith criticism."
 ---
 
 **The History and Importance of the Hadiths is Paper 2 Question 2 in Cambridge O Level Islamiyat

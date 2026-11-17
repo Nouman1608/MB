@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "remedies-for-breach-of-a-contract-9084"
 description: "Condensed notes on contract damages, remoteness, mitigation, specific performance, rescission and injunctions for Cambridge A Level Law 9084, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

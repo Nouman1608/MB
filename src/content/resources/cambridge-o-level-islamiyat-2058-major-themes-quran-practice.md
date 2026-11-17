@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "major-themes-quran-2058"
 description: "Twelve original questions on the set Qur'an passages for Cambridge O Level Islamiyat 2058 Paper 1 Question 1, with themes, key Arabic words and marked answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the themes, transliterated Arabic words and background details given for each set passage."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the themes, transliterated Arabic words and background details given for each set passage."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on the set passages for Paper 1 Question 1. They are **not**

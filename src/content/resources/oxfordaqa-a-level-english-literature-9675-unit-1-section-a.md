@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-a-9675"
 description: "How to answer the passage-based Section A question on Elizabethan and Jacobean tragedy in OxfordAQA 9675 Unit 1, with a method, model paragraph and pitfalls."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

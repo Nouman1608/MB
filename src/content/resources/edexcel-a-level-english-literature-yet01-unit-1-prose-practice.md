@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-prose-yet01"
 description: "Narrative-method drills on an original extract and 25-mark statement essays on each post-2000 novel for YET01 Unit 1 Section B, with indicative content by AO."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

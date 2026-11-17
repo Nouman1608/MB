@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "critical-reading-and-comprehension-8700"
 description: "Original AQA GCSE English Language 8700 critical reading practice on short invented passages: inference, true statements, bias and evaluating a view."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-imaginative-writing-4ea1"
 description: "Narrative and descriptive craft for the 30-mark imaginative writing task in 4EA1 Paper 2 Section B: AO4, AO5, structure, voice and an annotated model opening."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

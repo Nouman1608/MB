@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-4-poetry-yet01"
 description: "Quick-recall notes for YET01 Unit 4 Section B: the three pre-1900 movements, key poems and forms, literary context, critical views, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

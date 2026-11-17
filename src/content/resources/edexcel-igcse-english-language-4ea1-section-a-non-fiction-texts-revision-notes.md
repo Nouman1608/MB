@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-non-fiction-texts-4ea1"
 description: "Quick-recall notes for 4EA1 Paper 1 Section A: the AO1, AO2 and AO3 reading skills, non-fiction key terms, exam traps and a twelve-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

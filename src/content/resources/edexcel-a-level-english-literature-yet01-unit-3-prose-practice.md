@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-3-prose-yet01"
 description: "Comparison drills on two original openings and 30-mark comparative essays for every YET01 Unit 3 prose theme, with indicative content mapped to AO1 to AO4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

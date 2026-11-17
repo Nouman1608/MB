@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "summary-and-synthesis-8700"
 description: "Original AQA GCSE English Language 8700 summary and synthesis practice: themes, compressing a text, true statements and synthesised paragraphs with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

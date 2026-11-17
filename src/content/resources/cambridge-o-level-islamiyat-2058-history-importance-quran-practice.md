@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-quran-2058"
 description: "Eleven original questions on revelation, compilation, legal use and significance of the Qur'an for Cambridge O Level Islamiyat 2058, with mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the historical details and the credit given in each answer."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the historical details and the credit given in each answer."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this subtopic. They are **not** reproduced past-paper questions —

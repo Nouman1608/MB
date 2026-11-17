@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "presenting-information-and-ideas-8700"
 description: "AQA GCSE English Language 8700 presenting recall notes: presentation requirements, AO7 criteria by grade, topic choice, spoken structure and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

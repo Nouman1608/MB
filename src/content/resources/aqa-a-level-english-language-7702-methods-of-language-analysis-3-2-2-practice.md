@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-2-2-7702"
 description: "Original practice describing dialect and older forms, reading corpus evidence and analysing a text about language, for AQA A-level English 7702 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-4-shakespeare-yet01"
 description: "Short dramatic-method and AO5 drills plus 25-mark statement essays on all four YET01 Unit 4 Shakespeare plays, with indicative content mapped to the AOs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

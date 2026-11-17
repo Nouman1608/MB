@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "mental-health-9218"
 description: "Original mental health questions with full answers for OxfordAQA IGCSE Psychology 9218: incidence, effects, OCD and PTSD diagnosis, explanations and therapies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "No question asks for the details of Kearns's study because they could not be confirmed; please check the Eftekhari answer and consider adding a Kearns question from the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: No question asks for the details of Kearns's study because they could not be confirmed; please check the Eftekhari answer and consider adding a Kearns question from the course textbook."
 publishedDate: 2026-11-17
 featured: false
 ---

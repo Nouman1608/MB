@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-drama-9695"
 description: "Original practice for Cambridge 9695 Paper 1 Section A Drama: dramatic terms, staging analysis and structured work on new extracts, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

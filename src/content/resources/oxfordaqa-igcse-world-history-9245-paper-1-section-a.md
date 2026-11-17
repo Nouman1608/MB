@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "paper-1-section-a-9245"
 description: "Paper 1 Section A of OxfordAQA International GCSE History 9245: the four source questions, pre-release method, and key knowledge for both depth-study options."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

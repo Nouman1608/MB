@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "assignment-a-poetry-and-prose-texts-4ea1"
 description: "Original task-setting, planning and paragraph-improvement questions plus full 30-mark three-text tasks for 4EA1 Component 3 Assignment A, with marking guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the indicative content for Questions 9 and 10, especially the points on Munro's \"
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the indicative content for Questions 9 and 10, especially the points on Munro's \"Night\", against the current Anthology Part 2 texts."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on this

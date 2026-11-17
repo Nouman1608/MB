@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "formation-of-a-valid-contract-9084"
 description: "Case tables on offer, acceptance, tenders, auctions, intention, consideration, estoppel and minors' contracts, with a self-test, for Cambridge Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-prose-yet01"
 description: "Quick-recall notes for YET01 Unit 1 Section B: the five post-2000 novels, narrative methods, AO1 to AO3, statement questions, context, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

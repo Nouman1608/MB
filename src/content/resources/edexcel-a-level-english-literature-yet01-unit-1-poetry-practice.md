@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "unit-1-poetry-yet01"
 description: "Short comparison drills on two original poems and 25-mark comparative essays in the Unit 1 Section A format for YET01, with indicative content and guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the second-poem suggestions and comparison points for Questions 11 and 12 against the prescribed poems."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the second-poem suggestions and comparison points for Questions 11 and 12 against the prescribed poems."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on this

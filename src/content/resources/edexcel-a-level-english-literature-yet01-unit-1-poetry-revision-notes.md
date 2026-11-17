@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "unit-1-poetry-yet01"
 description: "Quick-recall notes for YET01 Unit 1 Section A: the 21 prescribed poems by theme, key poetic features, AO1, AO2 and AO4, comparison structure and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the one-line poem summaries in the recall table against the anthology."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the one-line poem summaries in the recall table against the anthology."
 ---
 
 Condensed notes for the poetry section of Unit 1 (WET01) in Pearson Edexcel International A Level

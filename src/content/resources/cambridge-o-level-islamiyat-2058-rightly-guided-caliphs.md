@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "rightly-guided-caliphs-2058"
 description: "Study guide to the rules of Abu Bakr, Umar, Uthman and Ali, their difficulties and their lessons for government, for Cambridge O Level Islamiyat 2058 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, dates, names and leadership lessons for each of the four caliphs."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the events, dates, names and leadership lessons for each of the four caliphs."
 ---
 
 **The period of rule of the Rightly Guided Caliphs is one of the two optional topics of Paper 2 in

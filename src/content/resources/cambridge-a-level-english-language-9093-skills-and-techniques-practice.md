@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "skills-and-techniques-9093"
 description: "Original practice for Cambridge 9093 Paper 1 skills: embedding quotations, judging style, imitating a style and comparing your own writing, with model answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

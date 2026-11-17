@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "writing-skills-7702"
 description: "The three Paper 2 writing skills: academic essay, analytical writing and directed writing for non-specialists, with worked examples. AQA 7702 3.2.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

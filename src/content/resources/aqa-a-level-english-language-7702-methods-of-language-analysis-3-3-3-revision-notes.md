@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-3-3-7702"
 description: "Recall notes on applying the six language levels in the AQA A-level English Language 7702 NEA: transcription, coding, frameworks and analysing your own writing."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

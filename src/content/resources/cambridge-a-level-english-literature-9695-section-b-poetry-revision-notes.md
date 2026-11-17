@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-poetry-9695"
 description: "Quick-recall notes for Cambridge 9695 Paper 1 Section B Poetry: metre, form and imagery terms, (a) and (b) answer shapes, traps and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

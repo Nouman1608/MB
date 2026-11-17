@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-non-fiction-texts-4ea1"
 description: "How to read, analyse and compare an anthology text and an unseen extract in 4EA1 Paper 1 Section A, with an annotated worked example on an original passage."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "principles-and-sources-of-english-law-9084"
 description: "Legal systems, the rule of law, Parliament and its influences, delegated legislation, interpretation and precedent for Cambridge Law 9084 subtopic 1.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

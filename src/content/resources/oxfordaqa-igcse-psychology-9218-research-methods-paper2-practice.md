@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "research-methods-paper2-9218"
 description: "Original Paper 2 research methods questions with answers for OxfordAQA IGCSE Psychology 9218: correlation data, calculations, observation and self-report."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

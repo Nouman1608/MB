@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "unit-1-poetry-yet01"
 description: "How to write the comparative Poems of the Decade essay in YET01 Unit 1 Section A: AO1, AO2 and AO4, choosing a second poem, and a worked comparison."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the thematic groupings of the prescribed poems in the pairing table against the anthology."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the thematic groupings of the prescribed poems in the pairing table against the anthology."
 ---
 
 Section A of Unit 1 (WET01) is a comparative essay on poems from the prescribed selection of *Poems of

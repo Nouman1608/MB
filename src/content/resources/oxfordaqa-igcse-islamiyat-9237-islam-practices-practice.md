@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "islam-practices-9237"
 description: "Twelve original questions on topic 3.1.2 Practices for OxfordAQA International GCSE Islamiat 9237 Paper 1: Salah, Sawm, Zakah, Hajj, Jihad, festivals."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the rulings on practices, the Qur'an and Hadith references, transliterations and mark guidance before sign-off."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the rulings on practices, the Qur'an and Hadith references, transliterations and mark guidance before sign-off."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on topic 3.1.2.

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "perception-9218"
 description: "Original perception questions with full answers for OxfordAQA IGCSE Psychology 9218: depth cues, illusions, Gibson and Gregory, and perceptual set studies."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the answer on Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the answer on Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways."
 publishedDate: 2026-11-17
 featured: false
 ---

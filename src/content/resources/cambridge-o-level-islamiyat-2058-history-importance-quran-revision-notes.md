@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "history-importance-quran-2058"
 description: "Recall notes on revelation, compilation, standardisation and the legal role of the Qur'an for Cambridge O Level Islamiyat 2058, with a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the sequence of events, names and Qur'an references in these condensed notes."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the sequence of events, names and Qur'an references in these condensed notes."
 ---
 
 **These notes condense Paper 1 Question 2 of Cambridge O Level Islamiyat 2058, The History and

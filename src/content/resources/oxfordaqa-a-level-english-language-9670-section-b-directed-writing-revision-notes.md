@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-directed-writing-9670"
 description: "Recall notes for OxfordAQA 9670 Unit 1 Section B: decoding a brief, transforming source material, genre conventions by form and sustaining one style."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

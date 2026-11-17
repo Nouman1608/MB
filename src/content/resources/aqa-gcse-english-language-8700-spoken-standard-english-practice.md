@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "spoken-standard-english-8700"
 description: "Original AQA GCSE English Language 8700 spoken Standard English practice: correcting non-standard forms, hypercorrection, register and transcripts."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "life-prophet-2058"
 description: "Recall notes on the Prophet's life in Makka and Madina, his battles and treaties and his example today, for Cambridge O Level Islamiyat 2058 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the condensed events, names and lessons in these notes."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the condensed events, names and lessons in these notes."
 ---
 
 **These notes condense the Paper 1 topic The Life and Importance of the Prophet Muhammad (pbuh) for

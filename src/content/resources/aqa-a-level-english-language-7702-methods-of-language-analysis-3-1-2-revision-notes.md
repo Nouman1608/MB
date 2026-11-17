@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "methods-of-language-analysis-3-1-2-7702"
 description: "Condensed terminology for the six language levels in AQA A-level English Language 7702 Paper 1, with exam traps and a self-test on precise feature description."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

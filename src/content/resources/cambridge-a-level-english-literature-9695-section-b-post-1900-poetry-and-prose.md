@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-post-1900-poetry-and-prose-9695"
 description: "Reading post-1900 set texts for Cambridge 9695 Paper 4 Section B: fragmented narration, sequences and voices, allegory, and AO5 from modern critical approaches."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-4-shakespeare-yet01"
 description: "How to answer the statement-based Shakespeare essay in YET01 Unit 4 Section A: dramatic methods, AO3 context, AO5 interpretations and a worked Hamlet plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

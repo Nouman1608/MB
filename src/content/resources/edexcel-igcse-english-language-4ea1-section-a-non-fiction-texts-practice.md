@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-non-fiction-texts-4ea1"
 description: "Original non-fiction extracts with short AO1 questions, AO2 analysis and an AO3 comparison task for 4EA1 Paper 1 Section A, with mark-scheme-style answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-drama-9695"
 description: "How to read a set play as theatre for Cambridge 9695 Paper 1 Section A, with methods for (a) essays and (b) passage questions and an annotated model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

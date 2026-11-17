@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-a-9675"
 description: "Recall notes for the 9675 Unit 2 Section A prose essay: six novels and their places, narrative methods, key terms, open-book traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-the-19th-century-novel-8702"
 description: "Condensed notes on the 19th-century novel question in AQA GCSE English Literature 8702 Paper 1: narrative terms, marks, context prompts, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

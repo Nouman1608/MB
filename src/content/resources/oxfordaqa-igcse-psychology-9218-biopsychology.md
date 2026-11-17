@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "biopsychology-9218"
 description: "Nervous system, fight or flight, James-Lange, neurons, synapses, Hebb, brain localisation, Penfield, scans and Tulving for OxfordAQA IGCSE Psychology 9218."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the procedural details given for Tulving's gold memory study and Penfield's study against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the procedural details given for Tulving's gold memory study and Penfield's study against the course textbook."
 publishedDate: 2026-11-17
 featured: false
 ---

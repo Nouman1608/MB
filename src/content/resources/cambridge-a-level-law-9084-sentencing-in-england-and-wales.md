@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "sentencing-in-england-and-wales-9084"
 description: "Adult and youth sentences, sentencing factors, parental responsibility and the aims of sentencing, with a worked example, for Cambridge Law 9084 subtopic 2.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check whether sentencing legislation following the 2025 Independent Sentencing Review has changed suspended sentence limits or other rules stated here."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check whether sentencing legislation following the 2025 Independent Sentencing Review has changed suspended sentence limits or other rules stated here."
 ---
 
 Subtopic 2.3 deals with what happens after conviction. The syllabus has three strands: sentences for **adult offenders** and the factors in sentencing them (2.3.1), sentences for **young offenders**, including parental responsibility, and the factors in sentencing them (2.3.2), and the **aims of sentencing** for each group (2.3.3). The [Topic 2 overview](/resources/a-level-cambridge-law-criminal-law/) introduces these strands; this guide sets out the detail and the evaluation you need for Paper 2. Since 2020 most sentencing law has been consolidated in the **Sentencing Act 2020**, known as the Sentencing Code.

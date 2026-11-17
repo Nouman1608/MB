@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "islam-beliefs-teachings-9237"
 description: "Twelve original questions on topic 3.1.1 Beliefs and Teachings for OxfordAQA International GCSE Islamiat 9237 Paper 1 Section A, with full mark guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the beliefs, Qur'an and Hadith references, transliterations and mark guidance before sign-off."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the beliefs, Qur'an and Hadith references, transliterations and mark guidance before sign-off."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on topic 3.1.1.

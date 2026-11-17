@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-poetry-9695"
 description: "Close reading for Cambridge 9695 Paper 1 Section B Poetry: voice, form, metre and imagery, (a) essays across a selection and (b) answers on a printed poem."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

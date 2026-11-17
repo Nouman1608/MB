@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "torts-affecting-land-9084"
 description: "Occupiers' liability under the 1957 and 1984 Acts, private nuisance, Rylands v Fletcher and trespass to land for Cambridge A Level Law 9084, sub-topic 4.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

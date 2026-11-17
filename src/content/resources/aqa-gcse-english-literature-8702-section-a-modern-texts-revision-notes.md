@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-modern-texts-8702"
 description: "Condensed notes on Paper 2 Section A modern texts for AQA GCSE English Literature 8702: choosing a question, key terms, context, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "biopsychology-9218"
 description: "Biopsychology recall notes for OxfordAQA IGCSE Psychology 9218: nervous system, hormones, neurons, synapses, brain areas, scans, named studies and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the summaries of Tulving's gold memory study and Penfield's study against the course textbook."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the summaries of Tulving's gold memory study and Penfield's study against the course textbook."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-composition-9270"
 description: "Eleven original composition tasks with model plans, openings and endings for OxfordAQA International GCSE English Language 9270 Paper 1 Section B, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

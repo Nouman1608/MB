@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "producing-clear-and-coherent-text-8700"
 description: "AQA GCSE English Language 8700 recall notes on clear, coherent writing: six purposes, register, form conventions, cohesion devices and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

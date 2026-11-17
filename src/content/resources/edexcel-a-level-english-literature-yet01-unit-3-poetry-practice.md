@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-3-poetry-yet01"
 description: "Three original unseen poems with short AO2 questions and 20-mark essay tasks in the YET01 Unit 3 Section A format, with mark-scheme-style answers and guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

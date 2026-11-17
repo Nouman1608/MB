@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-shakespeare-8702"
 description: "Original Shakespeare practice for AQA GCSE English Literature 8702 Paper 1 Section A: dramatic terms, an original verse scene and full essay tasks with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

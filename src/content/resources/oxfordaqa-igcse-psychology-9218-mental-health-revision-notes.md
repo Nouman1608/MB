@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "mental-health-9218"
 description: "Mental health recall notes for OxfordAQA IGCSE Psychology 9218: incidence, effects, OCD and PTSD diagnosis, explanations, therapies, evaluation and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Kearns's study is named but not summarised because its details could not be confirmed; please add its aim, method and findings from the course textbook and check the Eftekhari summary."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Kearns's study is named but not summarised because its details could not be confirmed; please add its aim, method and findings from the course textbook and check the Eftekhari summary."
 publishedDate: 2026-11-17
 featured: false
 ---

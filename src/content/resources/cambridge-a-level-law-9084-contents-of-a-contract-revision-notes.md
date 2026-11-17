@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "contents-of-a-contract-9084"
 description: "Condensed notes on terms and representations, CRA 2015 implied terms and remedies, status of terms and exemption clauses for Cambridge A Level Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

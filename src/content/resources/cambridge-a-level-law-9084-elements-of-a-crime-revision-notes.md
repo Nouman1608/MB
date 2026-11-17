@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "elements-of-a-crime-9084"
 description: "Condensed notes on actus reus, omissions, causation, intention and recklessness, with case tables and a self-test, for Cambridge Law 9084 subtopic 2.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

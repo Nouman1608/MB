@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-language-and-social-groups-writing-9670"
 description: "OxfordAQA 9670 Unit 2 Section B: writing an academic essay on language and social groups, using Section A data and research as evidence, with a model plan."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

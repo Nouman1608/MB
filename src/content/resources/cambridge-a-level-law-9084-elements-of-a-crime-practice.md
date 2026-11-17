@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "elements-of-a-crime-9084"
 description: "Original scenario and short-answer questions with mark-scheme answers on omissions, causation, intention and recklessness for Cambridge Law 9084 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

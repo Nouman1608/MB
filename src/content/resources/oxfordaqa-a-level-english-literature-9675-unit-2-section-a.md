@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-2-section-a-9675"
 description: "How to write the 9675 Unit 2 Section A prose essay on place: the six novels, how narration builds place, open-book technique, a plan and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

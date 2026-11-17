@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "section-a-language-change-9093"
 description: "Cambridge 9093 Paper 3 Section A: features of English from Early Modern to today, change processes, theories, and reading n-gram graphs and corpus tables."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the working definitions of telescoping, coalescence, random fluctuation and cultural transmission against Cambridge's 9093 teacher support glossary."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the working definitions of telescoping, coalescence, random fluctuation and cultural transmission against Cambridge's 9093 teacher support glossary."
 publishedDate: 2026-11-17
 featured: false
 ---

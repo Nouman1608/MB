@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-b-imaginative-writing-4ea1"
 description: "Crafting the 700-word 4EA1 Component 3 Assignment B coursework piece: task types, AO4 and AO5 levels, drafting within the rules and a worked redraft."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

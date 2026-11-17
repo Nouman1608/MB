@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "discharge-of-a-contract-9084"
 description: "Twelve original questions with mark-scheme answers on performance, anticipatory breach, frustration and the 1943 Act for Cambridge A Level Law 9084, 3.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

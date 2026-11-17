@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-pre-1900-poetry-and-prose-9695"
 description: "Reading pre-1900 set texts for Cambridge 9695 Paper 4 Section A: older language, period conventions, narrators and verse forms, and AO5 from critical history."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

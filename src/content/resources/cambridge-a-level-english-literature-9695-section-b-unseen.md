@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-unseen-9695"
 description: "A timed method for Cambridge 9695 Paper 2 Section B Unseen: choosing the passage, reading prose, poetry or drama cold, and planning a critical essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

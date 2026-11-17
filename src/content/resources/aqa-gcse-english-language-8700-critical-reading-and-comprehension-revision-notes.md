@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "critical-reading-and-comprehension-8700"
 description: "Condensed AQA GCSE English Language 8700 notes on critical reading: inference chains, AO1 and AO4, evaluating statements, bias and a 12-question self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

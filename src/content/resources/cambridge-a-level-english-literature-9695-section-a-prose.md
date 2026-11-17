@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-prose-9695"
 description: "Narrative voice, time and structure for Cambridge 9695 Paper 2 Section A Prose, with methods for (a) essays and (b) passage answers and an annotated paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

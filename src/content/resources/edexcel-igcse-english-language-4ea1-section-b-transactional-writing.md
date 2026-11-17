@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-transactional-writing-4ea1"
 description: "The six transactional forms, AO4 and AO5, planning and an annotated model opening for 4EA1 Paper 1 Section B, with the mistakes that cost writing marks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

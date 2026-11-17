@@ -15,9 +15,10 @@ syllabusTopics:
     subtopic: "perception-9218"
 description: "Depth cues, Gibson and Gregory, six visual illusions and perceptual set with four named studies, explained for OxfordAQA International GCSE Psychology 9218."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "Please check the description of Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways."
+reviewer: "kanwal-aslam"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to kanwal-aslam (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the description of Nisbett and Miyamoto against the course textbook, as sources present this cultural research in slightly different ways."
 publishedDate: 2026-11-17
 featured: false
 ---

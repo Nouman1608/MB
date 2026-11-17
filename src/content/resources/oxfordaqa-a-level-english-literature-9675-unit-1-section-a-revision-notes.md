@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-a-9675"
 description: "Condensed notes for the OxfordAQA 9675 Unit 1 Section A passage question: the five plays, tragic aspects, dramatic terms, exam traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

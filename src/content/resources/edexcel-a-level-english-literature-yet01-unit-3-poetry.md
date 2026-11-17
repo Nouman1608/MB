@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-3-poetry-yet01"
 description: "How to read and write about the unseen post-1900 poem in YET01 Unit 3 Section A: AO1 and AO2, a reading sequence, ambiguity, and an annotated original poem."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

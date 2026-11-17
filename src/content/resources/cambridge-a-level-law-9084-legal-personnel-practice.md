@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "legal-personnel-9084"
 description: "Original questions with mark-scheme answers on judicial appointment, legal professions and regulation, magistrates and juries for Cambridge Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and

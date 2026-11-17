@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "reading-comprehension-and-reading-critically-8702"
 description: "Condensed notes on reading skills for AQA GCSE English Literature 8702: inference, explicit and implied meaning, weighing readings and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

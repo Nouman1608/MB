@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "sentencing-in-england-and-wales-9084"
 description: "Condensed notes on adult and youth sentences, sentencing factors, parental responsibility and the aims of sentencing, with a self-test, for Cambridge Law 9084."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check whether sentencing legislation following the 2025 Independent Sentencing Review has changed suspended sentence limits or other rules stated here."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check whether sentencing legislation following the 2025 Independent Sentencing Review has changed suspended sentence limits or other rules stated here."
 ---
 
 Recall notes for subtopic 2.3 of Cambridge International AS & A Level Law (9084). The [sentencing study guide](/resources/cambridge-a-level-law-9084-sentencing-in-england-and-wales/) explains each sentence and works through a full sentencing problem.

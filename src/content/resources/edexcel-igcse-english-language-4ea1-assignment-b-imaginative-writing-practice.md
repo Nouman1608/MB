@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-b-imaginative-writing-4ea1"
 description: "Original redrafting drills and full 30-mark coursework-style tasks for 4EA1 Component 3 Assignment B imaginative writing, with AO4 and AO5 marking guidance."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

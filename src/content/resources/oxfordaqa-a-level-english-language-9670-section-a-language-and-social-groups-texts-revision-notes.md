@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-language-and-social-groups-texts-9670"
 description: "Recall notes for OxfordAQA 9670 Unit 2 Section A: features signalling rapport, power, identity and play, with face, accommodation and power frameworks."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

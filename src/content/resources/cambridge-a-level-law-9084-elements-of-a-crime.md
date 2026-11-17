@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "elements-of-a-crime-9084"
 description: "Actus reus, omissions, causation, direct and oblique intention and recklessness, with leading cases and a worked problem, for Cambridge Law 9084 subtopic 2.1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

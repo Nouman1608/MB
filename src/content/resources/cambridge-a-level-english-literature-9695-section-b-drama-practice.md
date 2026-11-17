@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-drama-9695"
 description: "Original practice for Cambridge 9695 Paper 3 Section B Drama: modern stagecraft, non-linear structure and AO5 evaluation on new extracts, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

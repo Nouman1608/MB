@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-transactional-writing-4ea1"
 description: "Quick-recall notes on 4EA1 Paper 1 transactional writing: the six forms and their conventions, AO4 and AO5, register, planning, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

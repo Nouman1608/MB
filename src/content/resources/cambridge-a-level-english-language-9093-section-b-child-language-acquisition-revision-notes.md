@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-child-language-acquisition-9093"
 description: "Recall notes for Cambridge 9093 Paper 3 Child Language Acquisition: stages to age 8, phonology, Halliday's functions, five theories and transcript notation."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

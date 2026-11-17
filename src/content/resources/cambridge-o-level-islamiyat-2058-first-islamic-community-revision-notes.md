@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "first-islamic-community-2058"
 description: "Person-by-person notes on the Prophet's wives, family, Imams and Companions before 632, for Cambridge O Level Islamiyat 2058 Paper 1, with a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and facts given for each person in these notes."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the names, relationships and facts given for each person in these notes."
 ---
 
 **These notes condense the Paper 1 topic The First Islamic Community for Cambridge O Level Islamiyat

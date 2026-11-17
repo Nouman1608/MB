@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-reading-9270"
 description: "How to read five or six modern-world sources, including visual texts, and compare pairs in OxfordAQA International GCSE English Language 9270 Paper 2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

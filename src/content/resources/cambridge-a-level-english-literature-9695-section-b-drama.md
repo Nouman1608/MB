@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-drama-9695"
 description: "Writing on modern set plays for Cambridge 9695 Paper 3 Section B Drama: naturalism, stagecraft, time and ritual, with AO5 drawn from productions and readings."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

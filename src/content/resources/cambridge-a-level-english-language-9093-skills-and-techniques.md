@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "skills-and-techniques-9093"
 description: "Cambridge 9093 Paper 1 skills and techniques: selecting evidence, judging style, building a cohesive argument and writing in the same or a different style."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

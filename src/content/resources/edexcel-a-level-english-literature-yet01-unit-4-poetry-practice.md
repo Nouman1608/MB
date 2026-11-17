@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-4-poetry-yet01"
 description: "Short close-reading questions on prescribed pre-1900 poems and 25-mark statement essays for each YET01 Unit 4 movement, with indicative content by AO."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

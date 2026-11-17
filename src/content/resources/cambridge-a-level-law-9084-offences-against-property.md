@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "offences-against-property-9084"
 description: "Theft, robbery, burglary, blackmail, handling, making off, criminal damage and fraud: elements, cases and maximum sentences for Cambridge Law 9084 subtopic 2.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

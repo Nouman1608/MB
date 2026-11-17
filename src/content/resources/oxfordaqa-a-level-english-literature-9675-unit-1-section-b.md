@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-section-b-9675"
 description: "How to write the 9675 Unit 1 Section B essay on a later dramatic tragedy: the five plays, modern tragic ideas, an essay plan and a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

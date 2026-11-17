@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "first-islamic-community-2058"
 description: "Study guide to the Prophet's wives, descendants, Companions, Emigrants, Helpers and the caliphs before 632, for Cambridge O Level Islamiyat 2058 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the names, relationships and life details of the people covered, including the Shi'a Imams list."
 ---
 
 **The First Islamic Community is the second optional topic of Paper 1 in Cambridge O Level Islamiyat

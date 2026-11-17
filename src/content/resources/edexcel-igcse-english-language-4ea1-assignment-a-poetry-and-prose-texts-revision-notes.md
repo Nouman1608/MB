@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "assignment-a-poetry-and-prose-texts-4ea1"
 description: "Checklist notes for the 4EA1 Component 3 Assignment A three-text essay: rules, focus choice, AO1 and AO2 level wording, essay structures, traps and a self-test."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

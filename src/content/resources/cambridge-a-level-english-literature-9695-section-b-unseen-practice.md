@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-b-unseen-9695"
 description: "Original unseen practice for Cambridge 9695 Paper 2 Section B: new prose, poetry and drama passages with structured questions and mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

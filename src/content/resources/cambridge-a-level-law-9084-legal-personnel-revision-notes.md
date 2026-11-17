@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "legal-personnel-9084"
 description: "Condensed notes on judges, lawyers and their regulators, magistrates and juries, with key cases and a self-test, for Cambridge Law 9084 subtopic 1.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 ---
 
 Recall notes for subtopic 1.3 of Cambridge International AS & A Level Law (9084). The [legal personnel study guide](/resources/cambridge-a-level-law-9084-legal-personnel/) has the full explanations and an annotated answer.

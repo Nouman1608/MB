@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "assignment-a-poetry-and-prose-texts-4ea1"
 description: "Planning and drafting the three-text 4EA1 Component 3 Assignment A essay: choosing a focus, AO1 and AO2 levels, and a worked plan with a model paragraph."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the worked example's claims about how the Harrison, Tremain and Alvi texts end against the current Anthology Part 2 versions."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the worked example's claims about how the Harrison, Tremain and Alvi texts end against the current Anthology Part 2 versions."
 ---
 
 Assignment A is the reading half of the coursework route in Pearson Edexcel International GCSE English

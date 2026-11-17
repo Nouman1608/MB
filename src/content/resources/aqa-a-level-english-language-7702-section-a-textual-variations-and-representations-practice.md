@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-textual-variations-and-representations-7702"
 description: "Original practice on representation, positioning, relationships and comparing a contemporary and an older text, for AQA A-level English Language 7702 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

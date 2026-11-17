@@ -16,11 +16,12 @@ syllabusTopics:
     subtopic: "legal-personnel-9084"
 description: "Judges, barristers, solicitors, legal executives, magistrates and juries: qualifications, selection, training and regulation for Cambridge Law 9084 1.3."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please confirm the current status of jury-trial reforms following the 2025 Independent Review of the Criminal Courts, and current magistrate appointment arrangements."
 ---
 
 Subtopic 1.3 covers the judiciary (1.3.1), legal professionals (1.3.2) and lay personnel (1.3.3). Questions usually ask you to describe qualifications, selection or training, then assess effectiveness, independence or representativeness. The [Topic 1 overview](/resources/a-level-cambridge-law-english-legal-system/) introduces each group; this guide adds detail and evaluation.

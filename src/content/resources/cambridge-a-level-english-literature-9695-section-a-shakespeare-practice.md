@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-shakespeare-9695"
 description: "Original practice for Cambridge 9695 Paper 3 Section A Shakespeare: verse and prose, soliloquy, AO5 evaluation and new verse extracts, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

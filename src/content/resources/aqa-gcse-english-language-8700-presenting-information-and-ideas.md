@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "presenting-information-and-ideas-8700"
 description: "AQA GCSE English Language 8700 spoken language guide to presenting: choosing a topic, selecting and organising ideas, spoken style and the AO7 criteria."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "section-a-english-in-the-world-9093"
 description: "Original practice for Cambridge 9093 Paper 4 English in the World: models of spread, creoles, policies, ethics and stimulus-based essay planning, with answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

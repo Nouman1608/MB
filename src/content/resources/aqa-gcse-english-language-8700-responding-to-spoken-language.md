@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "responding-to-spoken-language-8700"
 description: "AQA GCSE English Language 8700 guide to responding to questions and feedback after a presentation: active listening, answer shapes and the AO8 grade criteria."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

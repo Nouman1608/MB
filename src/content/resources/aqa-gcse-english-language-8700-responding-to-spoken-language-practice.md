@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "responding-to-spoken-language-8700"
 description: "Original AQA GCSE English Language 8700 practice on answering questions and feedback after a talk: question types, model replies and the AO8 criteria."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-literary-non-fiction-9270"
 description: "Original travel-writing text with 11 questions on selection, language, structure and perspective for OxfordAQA International GCSE English Language 9270 Paper 1."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

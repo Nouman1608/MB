@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-a-poetry-and-prose-texts-4ea1"
 description: "How to write the 30-mark Anthology Part 2 essay in 4EA1 Paper 2 Section A: AO1 and AO2, reading poems and stories, a worked plan and model paragraphs."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

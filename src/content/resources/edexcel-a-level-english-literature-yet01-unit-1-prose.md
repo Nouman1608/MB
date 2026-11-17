@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "unit-1-prose-yet01"
 description: "How to answer the statement-based post-2000 novel essay in YET01 Unit 1 Section B: narrative methods, AO3 context and a worked plan on The White Tiger."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

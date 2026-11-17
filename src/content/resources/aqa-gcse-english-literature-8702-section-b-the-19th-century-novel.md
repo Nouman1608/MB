@@ -15,7 +15,10 @@ syllabusTopics:
     subtopic: "section-b-the-19th-century-novel-8702"
 description: "How to write about your 19th-century novel for AQA GCSE English Literature 8702 Paper 1 Section B: narrative methods, context and the extract essay."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

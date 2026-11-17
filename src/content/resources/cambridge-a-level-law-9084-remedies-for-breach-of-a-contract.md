@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "remedies-for-breach-of-a-contract-9084"
 description: "Expectation, reliance and non-pecuniary damages, causation, remoteness, mitigation and equitable remedies for Cambridge A Level Law 9084, sub-topic 3.4."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

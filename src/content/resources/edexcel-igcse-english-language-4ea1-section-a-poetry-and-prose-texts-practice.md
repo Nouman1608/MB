@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "section-a-poetry-and-prose-texts-4ea1"
 description: "Short AO2 skills questions on an original poem and story, plus 30-mark Anthology Part 2 essay tasks with indicative content, for 4EA1 Paper 2 Section A."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check the indicative content for Questions 9 to 12 against the current Anthology Part 2 extracts, especially the Hill extract."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "Please check the indicative content for Questions 9 to 12 against the current Anthology Part 2 extracts, especially the Hill extract."
 ---
 
 > **These are original questions written for Marlbridge**, for revision and practice on this

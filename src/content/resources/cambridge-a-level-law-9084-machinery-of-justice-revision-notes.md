@@ -16,7 +16,10 @@ syllabusTopics:
     subtopic: "machinery-of-justice-9084"
 description: "Condensed notes on civil courts, Woolf, tracks, ADR, criminal pre-trial process, appeals, bail and PACE police powers for Cambridge Law 9084 subtopic 1.2."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "aizaz-raoof-ali"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to aizaz-raoof-ali (accountable teacher, D-379)."
 publishedDate: 2026-11-17
 featured: false
 ---

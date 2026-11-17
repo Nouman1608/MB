@@ -16,9 +16,10 @@ syllabusTopics:
     subtopic: "section-a-learning-language-9670"
 description: "Original practice for OxfordAQA 9670 Unit 3 Learning Language: child, teenage and EAL data, writing development and theory evaluation, with full answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
-reviewNeeded: true
-reviewNote: "The specification names no theories or theorists for Learning language; please confirm the selection here (Kroll, Gentry, Selinker, Krashen, Cummins, Cheshire and Kerswill) suits the unit."
+reviewer: "ammar-bilal"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to ammar-bilal (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: The specification names no theories or theorists for Learning language; please confirm the selection here (Kroll, Gentry, Selinker, Krashen, Cummins, Cheshire and Kerswill) suits the unit."
 publishedDate: 2026-11-17
 featured: false
 ---

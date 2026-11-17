@@ -15,11 +15,12 @@ syllabusTopics:
     subtopic: "life-prophet-2058"
 description: "Twelve original questions on the Prophet's life, battles, treaties and example for Cambridge O Level Islamiyat 2058 Paper 1, with full mark-scheme answers."
 author: "marlbridge-academic-team"
-reviewStatus: "review-pending"
+reviewer: "azam-siddique"
+reviewStatus: "reviewed"
+reviewedDate: 2026-11-17
+reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers."
 publishedDate: 2026-11-17
 featured: false
-reviewNeeded: true
-reviewNote: "New page: please ask an Islamiyat teacher to check the events, names and credit given in the answers."
 ---
 > **These are original questions written for Marlbridge**, for revision and
 > practice on this subtopic. They are **not** reproduced past-paper questions —
