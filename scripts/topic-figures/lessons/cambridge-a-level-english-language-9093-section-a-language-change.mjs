@@ -56,16 +56,16 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
     const by = up ? 130 : 330;
     b += `<circle cx="${x}" cy="300" r="11" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` +
       `<line x1="${x}" y1="${up ? 250 : 311}" x2="${x}" y2="${up ? 289 : 330}" stroke="${C.ink}" stroke-width="2"/>` +
-      rect(x - 95, by, 190, 120, fill, C.ink, 2.5, 10) + t(x, by + 30, d, { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) +
-      tl(x, by + 56, wrap(h, 20), { size: 16, weight: 700, anchor: 'middle' }, 20) + tl(x, by + 56 + wrap(h, 20).length * 20 + 4, wrap(s, 22), { size: 14.5 + 0.5, anchor: 'middle', fill: C.muted }, 18);
+      rect(x - 95, by, 190, 132, fill, C.ink, 2.5, 10) + t(x, by + 30, d, { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) +
+      tl(x, by + 56, wrap(h, 20), { size: 16, weight: 700, anchor: 'middle' }, 20) + tl(x, by + 56 + wrap(h, 20).length * 20 + 4, wrap(s, 22), { size: 15, anchor: 'middle', fill: C.muted }, 18);
   });
   b += t(845, 285, 'today', { size: 16, weight: 700, anchor: 'end', fill: C.muted });
-  b += panel(40, 475, 400, 120, C.cream, C.mustard) + t(64, 508, 'Probably early', { size: 18, weight: 700 }) +
-    tl(64, 538, ['variable spelling ("musick", "shew")', 'and "-eth" endings (hath, doth)'], { size: 16 }, 22);
-  b += panel(460, 475, 400, 120, C.tealLight, C.tealDark) + t(484, 508, 'Perhaps 18th or 19th century', { size: 18, weight: 700 }) +
-    tl(484, 538, ['standardised spelling, but very formal', 'syntax and politeness formulas'], { size: 16 }, 22);
+  b += panel(40, 485, 400, 120, C.cream, C.mustard) + t(64, 518, 'Probably early', { size: 18, weight: 700 }) +
+    tl(64, 548, ['variable spelling ("musick", "shew")', 'and "-eth" endings (hath, doth)'], { size: 16 }, 22);
+  b += panel(460, 485, 400, 120, C.tealLight, C.tealDark) + t(484, 518, 'Perhaps 18th or 19th century', { size: 18, weight: 700 }) +
+    tl(484, 548, ['standardised spelling, but very formal', 'syntax and politeness formulas'], { size: 16 }, 22);
   add('02-dating-landmarks',
-    svg(900, 620, 'Three landmarks for dating a text', b),
+    svg(900, 630, 'Three landmarks for dating a text', b),
     'A timeline from the start of Early Modern English around 1500, through the spread of printing from the late fifteenth century, Johnson\'s Dictionary in 1755 and Lowth\'s prescriptive grammar in 1762, to today. Below, variable spelling and -eth endings suggest an early text, while standard spelling with very formal syntax and politeness formulas suggests the eighteenth or nineteenth century.',
     'Printing, Johnson and the prescriptive grammars help you place an unseen text.',
     '## Knowing the period: features by language level');
@@ -104,32 +104,26 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
 // 04 Semantic change
 {
   const sc = [
-    ['Broadening', 'meaning widens', 'holiday', 'a holy day', 'any day off', 'broad'],
-    ['Narrowing', 'meaning becomes more specific', 'meat', 'food in general', 'meat', 'narrow'],
-    ['Amelioration', 'meaning becomes more positive', 'nice', 'foolish', 'pleasant', 'up'],
-    ['Pejoration', 'meaning becomes more negative', 'villain', 'a farm labourer', 'a wrongdoer', 'down'],
+    ['Broadening', 'meaning widens', 'holiday', 'once: a holy day', 'now: any day off', 'broad'],
+    ['Narrowing', 'meaning becomes more specific', 'meat', 'once: food in general', '', 'narrow'],
+    ['Amelioration', 'meaning becomes more positive', 'nice', 'once: foolish', '', 'up'],
+    ['Pejoration', 'meaning becomes more negative', 'villain', 'once: a farm labourer', '', 'down'],
   ];
   let b = '';
   sc.forEach(([h, d, w, then, now, kind], i) => {
-    const x = 40 + (i % 2) * 420, y = 115 + Math.floor(i / 2) * 235;
-    b += panel(x, y, 400, 215) + t(x + 24, y + 36, h, { size: 21, weight: 700 }) + t(x + 24, y + 60, d, { size: 15, fill: C.muted }) +
-      t(x + 200, y + 100, `"${w}"`, { size: 20, weight: 700, italic: true, anchor: 'middle' });
-    if (kind === 'broad') b += `<circle cx="${x + 110}" cy="${y + 160}" r="16" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>` + arrow(x + 132, y + 160, x + 220, y + 160, { w: 3 }) + `<circle cx="${x + 280}" cy="${y + 160}" r="38" fill="${C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
-    if (kind === 'narrow') b += `<circle cx="${x + 110}" cy="${y + 160}" r="38" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>` + arrow(x + 152, y + 160, x + 240, y + 160, { w: 3 }) + `<circle cx="${x + 280}" cy="${y + 160}" r="16" fill="${C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
-    if (kind === 'up') b += arrow(x + 200, y + 195, x + 200, y + 120, { w: 6, color: C.tealDark, marker: 'ahT' });
-    if (kind === 'down') b += arrow(x + 200, y + 120, x + 200, y + 195, { w: 6, color: C.rust, marker: 'ahR' });
-    const lx = kind === 'up' || kind === 'down' ? [x + 110, x + 290] : [x + 110, x + 280];
-    b += t(lx[0], y + (kind === 'broad' || kind === 'narrow' ? 120 + (kind === 'narrow' ? -0 : 0) : 160), 'once', { size: 14.5 + 0.5, anchor: 'middle', fill: C.muted, weight: 700 }) +
-      t(lx[1], y + (kind === 'broad' || kind === 'narrow' ? 120 : 160), 'now', { size: 15, anchor: 'middle', fill: C.muted, weight: 700 });
-    if (kind === 'broad' || kind === 'narrow') {
-      b += t(x + 200, y + 205, `${then} → ${now}`, { size: 15, anchor: 'middle' });
-    } else {
-      b += t(lx[0], y + 182, then, { size: 15, anchor: 'middle' }) + t(lx[1], y + 182, now === 'pleasant' ? '' : '', { size: 15, anchor: 'middle' });
-    }
+    const x = 40 + (i % 2) * 420, y = 115 + Math.floor(i / 2) * 220;
+    b += panel(x, y, 400, 200) + t(x + 24, y + 38, h, { size: 21, weight: 700 }) + t(x + 24, y + 62, d, { size: 15, fill: C.muted }) +
+      t(x + 24, y + 120, `"${w}"`, { size: 22, weight: 700, italic: true }) +
+      t(x + 24, y + 152, then, { size: 16 }) + (now ? t(x + 24, y + 176, now, { size: 16 }) : '');
+    const cx = x + 300, cy = y + 125;
+    if (kind === 'broad') b += `<circle cx="${cx - 50}" cy="${cy}" r="14" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>` + arrow(cx - 32, cy, cx + 2, cy, { w: 3 }) + `<circle cx="${cx + 40}" cy="${cy}" r="36" fill="${C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
+    if (kind === 'narrow') b += `<circle cx="${cx - 40}" cy="${cy}" r="36" fill="${C.cream}" stroke="${C.ink}" stroke-width="2.5"/>` + arrow(cx - 2, cy, cx + 32, cy, { w: 3 }) + `<circle cx="${cx + 50}" cy="${cy}" r="14" fill="${C.teal}" stroke="${C.ink}" stroke-width="2.5"/>`;
+    if (kind === 'up') b += arrow(cx, cy + 50, cx, cy - 40, { w: 7, color: C.tealDark, marker: 'ahT' });
+    if (kind === 'down') b += arrow(cx, cy - 40, cx, cy + 50, { w: 7, color: C.rust, marker: 'ahR' });
   });
   add('04-semantic-change',
-    svg(900, 600, 'Four directions of semantic change', b),
-    'Four panels: broadening, as "holiday" widens from a holy day to any day off; narrowing, as "meat" narrows from food in general; amelioration, as "nice" moves up from meaning foolish; and pejoration, as "villain" moves down from meaning a farm labourer.',
+    svg(900, 560, 'Four directions of semantic change', b),
+    'Four panels: broadening, as "holiday" widens from a holy day to any day off; narrowing, as "meat" once meant food in general; amelioration, as "nice" once meant foolish; and pejoration, as "villain" once meant a farm labourer.',
     'Meanings widen, narrow, improve or worsen: name the direction.',
     '## Processes of change: the concept vocabulary');
 }
@@ -145,25 +139,25 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   ];
   let b = t(240, 130, 'Why did it change?', { size: 19, weight: 700, anchor: 'middle' });
   causes.forEach(([h, d], i) => {
-    const y = 145 + i * 84;
-    b += panel(40, y, 400, 72) + t(60, y + 30, h, { size: 18, weight: 700, fill: C.tealDark }) + tl(60, y + 54, wrap(d, 44), { size: 15 }, 18);
+    const y = 145 + i * 88;
+    b += panel(40, y, 400, 80) + t(60, y + 28, h, { size: 18, weight: 700, fill: C.tealDark }) + tl(60, y + 50, wrap(d, 46), { size: 15 }, 18);
   });
   b += t(660, 130, 'How do languages relate?', { size: 19, weight: 700, anchor: 'middle' });
   // tree model
-  b += panel(460, 145, 400, 200) + t(484, 175, 'Tree model', { size: 18, weight: 700 }) + t(484, 197, 'August Schleicher', { size: 15, fill: C.muted });
+  b += panel(460, 145, 400, 210) + t(484, 175, 'Tree model', { size: 18, weight: 700 }) + t(484, 197, 'August Schleicher', { size: 15, fill: C.muted });
   b += path('M760,175 L760,215 M760,215 L700,260 M760,215 L820,260 M700,260 L670,305 M700,260 L730,305', { stroke: C.tealDark, w: 3 });
   [[760, 175], [700, 260], [820, 260], [670, 305], [730, 305]].forEach(([x, y]) => { b += `<circle cx="${x}" cy="${y}" r="9" fill="${C.teal}" stroke="${C.ink}" stroke-width="2"/>`; });
   b += tl(484, 240, ['branches descend', 'from common', 'ancestors'], { size: 15 }, 19);
   // wave model
-  b += panel(460, 360, 400, 200) + t(484, 390, 'Wave model', { size: 18, weight: 700 }) + t(484, 412, 'Johannes Schmidt', { size: 15, fill: C.muted });
-  [24, 48, 72].forEach((r) => { b += `<circle cx="760" cy="465" r="${r}" fill="none" stroke="${C.olive}" stroke-width="2.5" stroke-dasharray="${r === 24 ? '' : '6 5'}"/>`; });
-  b += `<circle cx="760" cy="465" r="8" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>`;
-  b += tl(484, 455, ['changes ripple out', 'from a centre across', 'neighbouring varieties'], { size: 15 }, 19);
-  b += panel(40, 580, 820, 92, C.cream, C.mustard) +
-    t(64, 614, 'Attitudes: prescriptivism treats change as decline; descriptivism records it.', { size: 17, weight: 700 }) +
-    t(64, 646, 'Aitchison\'s "crumbling castle" names a prescriptive fear that she challenges.', { size: 16, fill: C.muted });
+  b += panel(460, 370, 400, 215) + t(484, 400, 'Wave model', { size: 18, weight: 700 }) + t(484, 422, 'Johannes Schmidt', { size: 15, fill: C.muted });
+  [24, 48, 72].forEach((r) => { b += `<circle cx="760" cy="478" r="${r}" fill="none" stroke="${C.olive}" stroke-width="2.5" stroke-dasharray="${r === 24 ? '' : '6 5'}"/>`; });
+  b += `<circle cx="760" cy="478" r="8" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>`;
+  b += tl(484, 465, ['changes ripple out', 'from a centre across', 'neighbouring varieties'], { size: 15 }, 19);
+  b += panel(40, 600, 820, 92, C.cream, C.mustard) +
+    t(64, 634, 'Attitudes: prescriptivism treats change as decline; descriptivism records it.', { size: 17, weight: 700 }) +
+    t(64, 666, 'Aitchison\'s "crumbling castle" names a prescriptive fear that she challenges.', { size: 16, fill: C.muted });
   add('05-theories-of-change',
-    svg(900, 695, 'Theories of change', b),
+    svg(900, 715, 'Theories of change', b),
     'Five theories that explain why change happens: random fluctuation, cultural transmission, lexical gaps, substratum and functional theory. Beside them, two models of how languages relate: Schleicher\'s tree model of branches from common ancestors and Schmidt\'s wave model of changes rippling out from a centre. A note contrasts prescriptivism and descriptivism.',
     'Use a theory to explain why a change happened, not just to label it.',
     '## Theories and theorists');
@@ -171,26 +165,26 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
 
 // 06 Reading an n-gram graph
 {
-  const gx = 90, gy = 130, gw = 430, gh = 300;
-  let b = panel(40, 112, 520, 400);
+  const gx = 90, gy = 135, gw = 430, gh = 320;
+  let b = panel(40, 112, 520, 434);
   b += `<line x1="${gx}" y1="${gy + gh}" x2="${gx + gw}" y2="${gy + gh}" stroke="${C.ink}" stroke-width="3" marker-end="url(#ah)"/>` +
     `<line x1="${gx}" y1="${gy + gh}" x2="${gx}" y2="${gy}" stroke="${C.ink}" stroke-width="3" marker-end="url(#ah)"/>`;
   b += t(gx + gw / 2, gy + gh + 34, 'time (years)', { size: 15, anchor: 'middle', fill: C.muted });
   b += `<text x="0" y="0" font-size="15" fill="${C.muted}" text-anchor="middle" transform="translate(${gx - 18} ${gy + gh / 2}) rotate(-90)">relative frequency</text>`;
   b += path(`M${gx + 10},${gy + 60} C${gx + 150},${gy + 70} ${gx + 220},${gy + 220} ${gx + 400},${gy + 270}`, { stroke: C.rust, w: 4 });
   b += path(`M${gx + 10},${gy + 270} C${gx + 150},${gy + 260} ${gx + 220},${gy + 90} ${gx + 400},${gy + 50}`, { stroke: C.tealDark, w: 4 });
-  b += `<circle cx="${gx + 205}" cy="${gy + 162}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + t(gx + 222, gy + 190, 'crossover', { size: 15, weight: 700 });
+  b += `<circle cx="${gx + 205}" cy="${gy + 162}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2.5"/>` + `<line x1="${gx + 212}" y1="${gy + 170}" x2="${gx + 318}" y2="${gy + 290}" stroke="${C.ink}" stroke-width="1.5" stroke-dasharray="4 4"/>` + t(gx + 322, gy + 306, 'crossover', { size: 15, weight: 700 });
   b += t(gx + 30, gy + 45, 'older form', { size: 16, weight: 700, fill: C.rust }) + t(gx + 300, gy + 40, 'newer form', { size: 16, weight: 700, fill: C.tealDark });
-  b += t(300, 500, 'Illustrative shape only, no real data', { size: 14.5 + 0.5, anchor: 'middle', fill: C.muted, italic: true });
+  b += t(300, 532, 'Illustrative shape only, no real data', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
   const steps = [['State', 'what is plotted and the time span'], ['Describe', 'each trend: rise, fall, crossover, plateau'], ['Date', 'approximate dates, comparative language'], ['Interpret', 'link to a process and a theory'], ['Qualify', 'printed texts only; long s misread as "f"; frequency is not meaning']];
   steps.forEach(([h, d], i) => {
-    const y = 112 + i * 80;
-    b += rect(580, y, 280, 70, i === 4 ? C.cream : C.tealLight, i === 4 ? C.mustard : C.tealDark, 2, 10) + badge(606, y + 35, 15, String(i + 1), C.panel) +
-      t(630, y + 28, h, { size: 17, weight: 700 }) + tl(630, y + 49, wrap(d, 27), { size: 14.5 + 0.5, fill: C.ink }, 17);
+    const y = 112 + i * 90;
+    b += rect(580, y, 280, 84, i === 4 ? C.cream : C.tealLight, i === 4 ? C.mustard : C.tealDark, 2, 10) + badge(606, y + 41, 15, String(i + 1), C.panel) +
+      t(630, y + 26, h, { size: 17, weight: 700 }) + tl(630, y + 46, wrap(d, 28), { size: 15, fill: C.ink }, 17);
   });
-  b += t(450, 545, 'Comparisons to look for: variant spellings, synonyms, parts of speech, inflections ("hath" against "has"), collocations', { size: 14.5 + 0.5, anchor: 'middle', fill: C.muted });
+  b += t(450, 590, 'Comparisons to look for: variant spellings, synonyms, parts of speech, inflections ("hath" against "has"), collocations', { size: 15, anchor: 'middle', fill: C.muted });
   add('06-reading-n-gram',
-    svg(900, 570, 'Reading an n-gram graph', b),
+    svg(900, 615, 'Reading an n-gram graph', b),
     'A schematic n-gram graph with relative frequency against time, where an older form falls and a newer form rises until they cross. Beside it, five steps: state what is plotted, describe each trend, give approximate dates, interpret through a process and theory, and qualify the evidence, since the corpus contains only printed texts.',
     'Describe the trend, then interpret it, then qualify what the data can show.',
     '## Reading the data');
@@ -206,7 +200,7 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   ['weather', 'mistake'].forEach((w, i) => { b += rect(530 + i * 150, 270, 130, 46, C.panel, C.tealDark, 2, 23) + t(595 + i * 150, 300, w, { size: 18, italic: true, anchor: 'middle' }); });
   b += t(670, 360, 'meaning:', { size: 15, anchor: 'middle', fill: C.muted }) + t(670, 392, '"very bad"', { size: 20, weight: 700, anchor: 'middle' });
   b += arrow(422, 325, 476, 325, { w: 5 });
-  b += path('M400,170 L230,205', { w: 2.5 }) + path('M500,170 L670,205', { w: 2.5 });
+  b += path('M400,186 L230,209', { w: 2.5 }) + path('M500,186 L670,209', { w: 2.5 });
   b += panel(40, 460, 820, 90) + t(64, 495, 'Collocates are evidence of meaning', { size: 18, weight: 700 }) +
     t(64, 526, 'Here: pejoration, and weakening into an intensifier.', { size: 17, fill: C.muted });
   add('07-collocates-awful',
@@ -219,7 +213,7 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
 // 08 Synthesising three sources
 {
   let b = panel(40, 112, 820, 95, C.cream, C.mustard) +
-    tl(64, 145, ['"Sir, I have receiv\'d your Letter, and do most heartily thank you for the Care you shew\'d my Son.', 'He hath been sicke these three Daies, yet the Physick worketh well, and I doubt not he shall be', 'recover\'d ere Sunday."'], { size: 15.5 + 0.5, italic: true }, 22);
+    tl(64, 145, ['"Sir, I have receiv\'d your Letter, and do most heartily thank you for the Care you shew\'d my Son.', 'He hath been sicke these three Daies, yet the Physick worketh well, and I doubt not he shall be', 'recover\'d ere Sunday."'], { size: 16, italic: true }, 22);
   const rows = [
     ['Orthography', '"shew\'d", "sicke", "Daies"', 'n-gram: "shew" falls, "show" rises; crossover in the 18th century', 'cultural transmission, not random fluctuation'],
     ['Grammar', '"hath", "worketh"; "I doubt not"', 'the "-eth" inflection later replaced by "-s"; negation without "do"', 'the syntax now sounds archaic'],
@@ -227,16 +221,16 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
   ];
   b += t(160, 240, 'Prose text', { size: 15, weight: 700, anchor: 'middle', fill: C.olive }) + t(470, 240, 'Data', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark }) + t(745, 240, 'Concept', { size: 15, weight: 700, anchor: 'middle', fill: C.ink });
   rows.forEach(([lvl, txt, data, con], i) => {
-    const y = 255 + i * 120;
+    const y = 255 + i * 128;
     b += t(40, y + 20, lvl, { size: 17, weight: 700 }) +
-      rect(40, y + 32, 240, 74, C.cream, C.mustard, 2, 9) + tl(56, y + 64 - (wrap(txt, 25).length - 1) * 10, wrap(txt, 25), { size: 15, italic: true }, 20) +
-      rect(300, y + 32, 340, 74, C.tealLight, C.tealDark, 2, 9) + tl(316, y + 64 - (wrap(data, 36).length - 1) * 10, wrap(data, 36), { size: 15 }, 20) +
-      rect(660, y + 32, 200, 74, C.panel, C.ink, 2, 9) + tl(674, y + 64 - (wrap(con, 22).length - 1) * 10, wrap(con, 22), { size: 15 }, 20) +
-      t(290, y + 74, '+', { size: 20, weight: 700, anchor: 'middle' }) + t(650, y + 74, '+', { size: 20, weight: 700, anchor: 'middle' });
+      rect(40, y + 32, 240, 86, C.cream, C.mustard, 2, 9) + tl(56, y + 80 - (wrap(txt, 25).length - 1) * 10, wrap(txt, 25), { size: 15, italic: true }, 20) +
+      rect(300, y + 32, 340, 86, C.tealLight, C.tealDark, 2, 9) + tl(316, y + 80 - (wrap(data, 36).length - 1) * 10, wrap(data, 36), { size: 15 }, 20) +
+      rect(660, y + 32, 200, 86, C.panel, C.ink, 2, 9) + tl(674, y + 80 - (wrap(con, 22).length - 1) * 10, wrap(con, 22), { size: 15 }, 20) +
+      t(290, y + 82, '+', { size: 20, weight: 700, anchor: 'middle' }) + t(650, y + 82, '+', { size: 20, weight: 700, anchor: 'middle' });
   });
-  b += t(450, 625, 'Each paragraph combines text, data and a concept. The data here are invented for the example.', { size: 15, anchor: 'middle', fill: C.muted });
+  b += t(450, 655, 'Each paragraph combines text, data and a concept. The data here are invented for the example.', { size: 15, anchor: 'middle', fill: C.muted });
   add('08-synthesis',
-    svg(900, 650, 'Synthesising the three sources', b),
+    svg(900, 680, 'Synthesising the three sources', b),
     'The lesson\'s seventeenth-century-style letter, then three paragraphs mapped as text plus data plus concept: orthography ("shew\'d") with an n-gram crossover and cultural transmission; grammar ("hath", "I doubt not") with the loss of -eth and of negation without do; and lexis ("Physick") with collocates moving to "medicine".',
     'Each paragraph moves between the prose text, the data and a concept.',
     '## Worked example: synthesising three sources');

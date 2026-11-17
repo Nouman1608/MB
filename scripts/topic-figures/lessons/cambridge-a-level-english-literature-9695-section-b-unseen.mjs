@@ -440,10 +440,10 @@ const formIcon = (cx, cy, kind, k = 1) => {
   const H = Math.max(...hs) + 22;
   notes.forEach(([a, b], i) => {
     const x = 30 + i * (w + 12);
-    s += card(x, y2 + 16, w, { title: a, body: b, size: 16, tsize: 17, pad: 12, minH: H - 16, fill: i === 4 ? C.cream : C.panel, edge: i === 4 ? C.olive : C.panelEdge }).s + badge(x + w / 2, y2 + 14, 15, i === 4 ? '?' : String(i + 1), i === 4 ? C.cream : C.mustard);
+    s += card(x, y2 + 16, w, { title: a, body: b, size: 16, tsize: 17, pad: 12, kicker: ' ', minH: H + 8, fill: i === 4 ? C.cream : C.panel, edge: i === 4 ? C.olive : C.panelEdge }).s + badge(x + w / 2, y2 + 16, 15, i === 4 ? '?' : String(i + 1), i === 4 ? C.cream : C.mustard);
   });
   add('05-worked-example-annotation',
-    svg(900, Math.round(y2 + H + 24), 'From passage to annotation', s),
+    svg(900, Math.round(y2 + H + 48), 'From passage to annotation', s),
     'The guide’s original passage about Asha and an unopened letter, with numbered notes. 1: Tuesday as the day for bills suggests routine. 2: the letter buried under bills suggests avoidance. 3: a long sentence of repeated “and” suggests delay and ritual. 4: the short final sentence suggests return and decision. A further note: the contents are never stated, creating suspense.',
     'Short annotations name the feature and its effect.',
     '## Worked example: from annotation to paragraph');

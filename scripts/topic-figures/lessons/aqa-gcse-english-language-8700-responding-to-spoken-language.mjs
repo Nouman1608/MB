@@ -107,12 +107,13 @@ function table(y, cols, rows, o = {}) {
   }
   rows.forEach((r, ri) => {
     const cells = r.map((c) => (typeof c === 'string' ? { text: c } : c));
+    let ci = 0; const cwid = cells.map((c) => { let w = 0; for (let k = 0; k < (c.span || 1); k++) w += cols[ci++].w; return w; });
     const IG = 8; // gap between items in one cell
     const lines = cells.map((c, i) => {
       const out = []; let dy = 0;
       [].concat(c.text).forEach((p, j) => {
         if (j > 0) dy += IG;
-        wrap(p, cols[i].w - 2 * pad, c.size ?? size, c.weight ?? (i === 0 && o.firstBold !== false ? 700 : 400)).forEach((l) => { out.push({ l, dy }); dy += lh; });
+        wrap(p, cwid[i] - 2 * pad, c.size ?? size, c.weight ?? (i === 0 && o.firstBold !== false ? 700 : 400)).forEach((l) => { out.push({ l, dy }); dy += lh; });
       });
       out.H = dy; return out;
     });
@@ -120,11 +121,11 @@ function table(y, cols, rows, o = {}) {
     let cx = x0;
     cells.forEach((c, i) => {
       const fill = c.fill || (i === 0 && o.firstFill !== false ? C.tealLight : C.panel);
-      s += `<rect x="${cx}" y="${cy}" width="${cols[i].w}" height="${rh}" fill="${fill}" stroke="${C.panelEdge}" stroke-width="2"/>`;
+      s += `<rect x="${cx}" y="${cy}" width="${cwid[i]}" height="${rh}" fill="${fill}" stroke="${C.panelEdge}" stroke-width="2"/>`;
       const ty = cy + (rh - lines[i].H) / 2 + (c.size ?? size) * 0.82;
-      const ax = c.anchor === 'middle' ? cx + cols[i].w / 2 : cx + pad;
+      const ax = c.anchor === 'middle' ? cx + cwid[i] / 2 : cx + pad;
       s += lines[i].map(({ l, dy }) => T(ax, ty + dy, l, { size: c.size ?? size, weight: c.weight ?? (i === 0 && o.firstBold !== false ? 700 : 400), fill: c.ink || C.ink, italic: c.italic, anchor: c.anchor || 'start' })).join('');
-      cx += cols[i].w;
+      cx += cwid[i];
     });
     cy += rh;
   });
