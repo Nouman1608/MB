@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-2-1-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 2.1: culture, nature and nurture, agencies of socialisation and theories, with full answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 2.1: customs, roles, agencies of socialisation and three theories, with full answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -47,7 +47,7 @@ Section B gives extra practice on concepts, agencies and theories.
 **(d)** Explain **three** reasons why the family may be the most effective agency of socialisation.
 **[6]**
 
-**(e)** Discuss the evidence that human behaviour is learned rather than inborn. **[8]**
+**(e)** Discuss the functionalist view of socialisation. **[8]**
 
 **(f)** Evaluate the Marxist view that socialisation reproduces social class. **[14]**
 
@@ -57,7 +57,7 @@ Section B gives extra practice on concepts, agencies and theories.
 
 **(h)** Explain the difference between consensus and conflict views of socialisation. **[4]**
 
-**(i)** Explain **two** ways religion acts as an agency of socialisation. **[4]**
+**(i)** Explain **two** ways the hidden curriculum socialises pupils. **[4]**
 
 **(j)** Explain **two** ways the workplace socialises adults. **[4]**
 
@@ -93,19 +93,21 @@ religious teachings; role modelling; workplace training; manipulation.
   modelling (2).
 - Processes such as canalisation and manipulation (Oakley) shape gender identity from birth (2).
 
-**(e) [8]** Levels: 7–8 developed points with evidence and some evaluation; 4–6 some development;
-1–3 basic points.
-- **Isolated children:** Genie, discovered in Los Angeles in 1970 aged 13 after extreme isolation,
-  never fully acquired language, suggesting that language depends on social contact at the right
-  stage.
-- **Relativity of culture:** norms of politeness, dress, food and family life vary between
-  societies; if behaviour were inborn it would be similar everywhere.
-- **Gender:** Mead (1935) described very different male and female temperaments among the Arapesh,
-  Mundugumor and Tchambuli, suggesting gender is cultural.
-- **Change over time:** norms such as attitudes to women's paid work change within a generation,
-  faster than biology could change.
-- **Evaluation:** isolation cases are rare and may involve abuse or disability; Mead's findings were
-  questioned; biology may set some limits, so the debate is about how much is learned.
+**(e) [8]** Levels: 7–8 developed points with evidence and evaluation; 4–6 some development; 1–3
+basic points.
+- Functionalism is a consensus theory: society works best when its members share the same norms and
+  values.
+- Socialisation passes these shared values from one generation to the next, producing **value
+  consensus** and **social cohesion**.
+- Talcott Parsons argued the family's basic functions are the primary socialisation of children and
+  the stabilisation of adult personalities.
+- Education continues the process, teaching shared culture and preparing young people for adult
+  roles.
+- **Inadequate socialisation** explains deviance: when families or schools fail to teach norms,
+  individuals do not conform.
+- **Evaluation:** explains why most people conform without force; but assumes everyone shares the
+  same values; ignores whose values are taught (Marxists say ruling-class ideology, feminists say
+  patriarchal gender roles); sees people as passive rather than able to reject what they are taught.
 
 **(f) [14]** Levels: 11–14 balanced, developed, evaluated with a supported conclusion; 7–10 developed
 but less balanced; 4–6 limited; 1–3 basic.
@@ -142,11 +144,12 @@ feminism, see socialisation as serving the interests of powerful groups, such as
 men, and teaching others to accept their position (2).
 
 **(i) [4]** Two ways, 2 marks each:
-- **Religious teachings** set out moral rules, such as honesty or modesty, which believers follow (2).
-- **Rituals and festivals** bring people together and strengthen a shared identity and sense of
-  belonging (2).
-- **Religious rewards and sanctions**, such as respect in the community or disapproval, encourage
-  conformity (2).
+- School rules on punctuality, attendance and uniform teach the discipline and routines expected in
+  adult work (2).
+- Hierarchies of head teacher, teachers and prefects teach pupils to accept authority and their place
+  in a hierarchy, which Marxists link to preparing an obedient workforce (2).
+- Rewards for individual achievement teach competition and the idea that success depends on effort
+  (2).
 
 **(j) [4]** Two ways, 2 marks each:
 - **Workplace training and induction** teach the skills, rules and routines of the job (2).

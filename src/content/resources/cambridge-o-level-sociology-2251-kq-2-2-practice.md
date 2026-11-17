@@ -37,7 +37,7 @@ Question 2. Section B gives extra practice on agencies, theories and resistance.
 ## Section A — Social control question
 
 **(a)** Define the terms:
-- (i) *positive sanction* **[2]**
+- (i) *informal social control* **[2]**
 - (ii) *coercion* **[2]**
 
 **(b)** Give **two** examples of informal negative sanctions. **[2]**
@@ -53,14 +53,14 @@ Question 2. Section B gives extra practice on agencies, theories and resistance.
 
 ## Section B — Agencies, theories and resistance
 
-**(g)** Explain the difference between deviant and non-conformist behaviour, giving an example of
-each. **[4]**
+**(g)** Explain the difference between formal and informal sanctions, giving an example of each.
+**[4]**
 
 **(h)** Explain **two** ways social media acts as an agency of informal social control. **[4]**
 
 **(i)** Explain **two** ways the armed forces may be used as an agency of social control. **[4]**
 
-**(j)** Explain the feminist view of social control. **[4]**
+**(j)** Explain **two** ways the courts may help to produce social conformity. **[4]**
 
 **(k)** Explain **two** reasons why formal social control may be less effective in some societies.
 **[4]**
@@ -69,8 +69,8 @@ each. **[4]**
 
 ## Answers
 
-**(a)(i) [2]** A reward given for conforming to norms or rules (1), such as praise from a parent, a
-school prize or a promotion at work (1).
+**(a)(i) [2]** Unofficial control exercised by people around us through everyday approval and
+disapproval (1), such as parents, friends or colleagues praising or criticising behaviour (1).
 
 **(a)(ii) [2]** The use of force or the threat of force to make people conform (1), such as police
 using physical restraint or the army enforcing a curfew (1).
@@ -134,10 +134,10 @@ but less balanced; 4–6 limited; 1–3 basic.
 risks and cost mean it is not the most effective method overall; it works best combined with other
 methods.
 
-**(g) [4]** Deviant behaviour breaks a norm and attracts negative sanctions (1), e.g. shoplifting or
-cheating in an examination (1). Non-conformist behaviour rejects mainstream expectations without
-necessarily breaking rules or laws (1), e.g. adopting an unusual style of dress or choosing not to
-marry (1).
+**(g) [4]** Formal sanctions are official rewards or punishments given by state agencies according to
+written rules (1), e.g. a fine or prison sentence imposed by a court (1). Informal sanctions are
+unofficial reactions from people around us (1), e.g. praise from parents or being ignored by friends
+(1).
 
 **(h) [4]** Two ways, 2 marks each:
 - **"Likes", shares and followers** reward content and behaviour that fits group norms, encouraging
@@ -151,10 +151,13 @@ marry (1).
 - Protecting the state and its borders; in some societies, used against political opposition, which
   conflict theorists see as protecting those in power (2).
 
-**(j) [4]** Feminists argue that social control maintains patriarchy, keeping women subordinate to men
-(1). Heidensohn (1985) argued women are controlled more tightly than men (1): at home by domestic and
-childcare responsibilities, in public by fear of male violence and concern for their reputation (1),
-and at work by male supervisors and harassment (1).
+**(j) [4]** Two ways, 2 marks each:
+- **Sentencing:** punishments such as fines and imprisonment deter the offender and others from
+  breaking the law (2).
+- **Public trials** show society's disapproval and reinforce the boundaries of acceptable behaviour,
+  which functionalists such as Durkheim see as uniting society (2).
+- **Court orders**, such as restraining orders or probation conditions, control the behaviour of
+  individuals in the community (2).
 
 **(k) [4]** Two reasons, 2 marks each:
 - **Low trust or legitimacy:** where police or courts are seen as corrupt or unfair, people do not

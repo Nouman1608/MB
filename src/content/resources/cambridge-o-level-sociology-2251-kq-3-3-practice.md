@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "o-level"
     topic: "paper-1-research-methods-identity-inequality-2251"
     subtopic: "kq-3-3-2251"
-description: "Original Cambridge O Level Sociology 2251 practice on key question 3.3: migration, TNCs, pollution, climate and explanations of global inequality, with answers."
+description: "Original Cambridge O Level Sociology 2251 practice on key question 3.3: migration, remittances, TNCs, climate and explanations of global inequality, with answers."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -38,10 +38,10 @@ issues and explanations.
 ## Section A — Global inequality question
 
 **(a)** Define the terms:
-- (i) *brain drain* **[2]**
+- (i) *urbanisation* **[2]**
 - (ii) *transnational company* **[2]**
 
-**(b)** Give **two** pull factors that encourage migration. **[2]**
+**(b)** Give **two** examples of global ecological issues. **[2]**
 
 **(c)** Explain **three** ways migration may benefit receiving societies. **[6]**
 
@@ -56,7 +56,7 @@ issues and explanations.
 
 **(g)** Explain the difference between immigration and emigration, using an example. **[4]**
 
-**(h)** Explain **two** ways pollution may increase inequalities between societies. **[4]**
+**(h)** Explain **two** ways remittances may affect sending societies. **[4]**
 
 **(i)** Explain the feminist explanation of global inequality. **[4]**
 
@@ -68,14 +68,14 @@ issues and explanations.
 
 ## Answers
 
-**(a)(i) [2]** The emigration of highly skilled and educated workers, such as doctors, nurses and
-engineers (1), which weakens services and the economy in the society they leave (1).
+**(a)(i) [2]** The growth in the proportion of a country's population living in towns and cities (1),
+often driven by migration from rural areas in search of work (1).
 
 **(a)(ii) [2]** A business that owns or controls production or services in more than one country (1),
 often with headquarters in a richer country and factories or suppliers in poorer ones (1).
 
-**(b) [2]** Any two (1 each): jobs; higher wages; safety and political freedom; better education;
-better healthcare; family or community already settled there.
+**(b) [2]** Any two (1 each): climate change; pollution; rapid urbanisation; environmental damage by
+transnational companies; deforestation; rising sea levels.
 
 **(c) [6]** Three ways, 2 marks each:
 - Migrants fill labour shortages in sectors such as health, care, construction and agriculture,
@@ -136,11 +136,10 @@ country to live elsewhere (1). Example: a nurse who leaves the Philippines to wo
 emigrant from the Philippines (1) and an immigrant to Britain (1).
 
 **(h) [4]** Two ways, 2 marks each:
-- Polluting industries and waste, such as electronic waste burned at Agbogbloshie in Accra, are moved
-  to poorer countries with weaker regulation, damaging health there (2).
-- Pollution of land and water harms farming and fishing, the main livelihoods in many poorer
-  societies (2).
-- Poorer societies have fewer resources for clean-up and healthcare, so the effects last longer (2).
+- Remittances raise family incomes, paying for food, housing, school fees and healthcare (2).
+- They bring foreign currency into the national economy and may fund small businesses (2).
+- Families may become dependent on remittances, and households that receive them can pull ahead of
+  those that do not, widening inequality within the sending society (2).
 
 **(i) [4]** Feminists argue global inequality is shaped by patriarchy as well as class (1). Women do
 much unpaid farming and domestic work but own a small share of land and property (1). Export factories
