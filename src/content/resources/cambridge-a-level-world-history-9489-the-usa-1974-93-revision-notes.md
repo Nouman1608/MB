@@ -14,7 +14,7 @@ syllabusTopics:
   - qualification: "a-level"
     topic: "depth-study-usa-9489"
     subtopic: "the-usa-1974-93-9489"
-description: "Revision notes for Cambridge 9489 Paper 4, the USA 1974-93: key terms, a timeline, Ford to Bush condensed, Carter abroad, détente to Gorbachev, traps and a self-test."
+description: "Revision notes for Cambridge 9489 Paper 4, the USA 1974-93: key terms, a timeline, Ford to Bush, Carter abroad, détente to Gorbachev, exam traps and a self-test."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
@@ -59,7 +59,7 @@ featured: false
 | 1975 | Helsinki Accords; Energy Policy and Conservation Act |
 | Nov 1976 | Carter defeats Ford |
 | 1977 | Department of Energy; Sadat visits Jerusalem (Nov) |
-| Sept 1978 | Camp David Accords; Proposition 13 earlier that year |
+| 1978 | Proposition 13 (June); Camp David Accords (Sept) |
 | 1979 | Egypt-Israel treaty (March); SALT II signed (June); "crisis of confidence" speech (July); Somoza falls (July); hostages seized (Nov); Afghanistan invaded (Dec) |
 | April 1980 | Failed hostage rescue; Energy Security Act (June) |
 | Nov 1980 | Reagan defeats Carter |

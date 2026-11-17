@@ -77,7 +77,7 @@ Related: [1974-93 revision notes](/resources/cambridge-a-level-world-history-948
 
 **5.** Two reasons, 2 marks each: the 1990-91 recession and rising unemployment, which Clinton's campaign made the central issue ("the economy") (2); breaking his "no new taxes" pledge in the 1990 budget deal lost conservative support (2); Ross Perot's independent candidacy took about 19 per cent of the vote and focused attention on the deficit (2); Clinton's appeal as a young centrist, and doubts about Quayle (2). **[4]**
 
-**6.** Any three, 1 mark each: cutting military aid to the Argentine junta (1); reducing support for Pinochet's regime in Chile (1); criticism that led Brazil to reject US military aid (1); withdrawing support from the Somoza dictatorship in Nicaragua (1); signing the Panama Canal treaties (1977), returning the canal zone by 1999 (1). **[3]**
+**6.** Any three, 1 mark each: cutting military aid to the Argentine junta (1); reducing support for Pinochet's regime in Chile (1); criticism that led Brazil to reject US military aid (1); withdrawing support from the Somoza dictatorship in Nicaragua (1); public criticism of abuses by allied military governments, linking aid to their human rights record (1). **[3]**
 
 **7.** Any three, 1 mark each: it lasted 444 days, dominating the news (1); the failed rescue mission of April 1980 killed eight servicemen and looked incompetent (1); Secretary of State Vance resigned (1); it made the USA appear weak and Carter indecisive in the election year (1); the hostages were released only after his defeat, minutes after Reagan took office (1). **[3]**
 
