@@ -35,6 +35,11 @@ The essay is 1750-2000 words on a question you choose. Your perspectives are bui
 
 Assessment and justification are related but different. Assessment asks "how good is this source?" Justification asks "why have I used it here?" A source can be limited and still be justified, for example because it is the clearest statement of a perspective you need to examine.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--01-three-jobs.webp" width="900" height="509" alt="Range: sources from more than one place, type and standpoint. Assessment: an informed judgement of how far each source can be trusted, answering “how good is this source?”. Justification: why each key source belongs, answering “why have I used it here?”." loading="lazy">
+  <figcaption>Assessing asks how good a source is; justifying asks why it is in your essay.</figcaption>
+</figure>
+
 ## What a "range" of sources looks like
 
 The syllabus describes the responsible learner as "selecting suitable material from a globally diverse range of sources". For a global question, check your list against three kinds of range.
@@ -47,6 +52,11 @@ The syllabus describes the responsible learner as "selecting suitable material f
 
 Range is not the same as quantity. Six well-chosen sources that you use and evaluate are worth more than fifteen you mention once.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--02-kinds-of-range.webp" width="900" height="635" alt="Geographical range means sources from more than one region; type range means a mix of academic research, official data, organisational reports and quality journalism; standpoint range means each perspective has a source arguing for it in its own terms. Six sources used and evaluated beat fifteen mentioned once." loading="lazy">
+  <figcaption>Check your list for place, type and standpoint, not just length.</figcaption>
+</figure>
+
 ## Choosing sources that "offer firmly supported judgements"
 
 The syllabus phrase "firmly supported judgements or conclusions" gives a useful selection test. Prefer sources that reach their conclusions through evidence and reasoning you can see. A short opinion column may state a perspective clearly, but if it gives no reasons you can examine, it is weak material for building that perspective. Ask of each candidate source:
@@ -55,6 +65,11 @@ The syllabus phrase "firmly supported judgements or conclusions" gives a useful 
 - Can I trace where its evidence comes from?
 - Is the writer qualified to make this judgement?
 - Does it address the issue my question asks about, or a neighbouring one?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--03-selection-test.webp" width="900" height="549" alt="Each candidate source passes four checks: does it give reasons and evidence or only assertions, can its evidence be traced, is the writer qualified to judge, and does it address the question rather than a neighbouring one. Sources that pass reach firmly supported judgements through visible evidence." loading="lazy">
+  <figcaption>Prefer sources whose reasoning and evidence you can see and check.</figcaption>
+</figure>
 
 ## Keeping a source audit while you research
 
@@ -72,6 +87,11 @@ Write the evaluation as you read, not from memory at the end. A simple audit tab
 
 The final column is your justification. If you cannot fill it in, the source probably does not belong in the essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--04-source-audit.webp" width="900" height="662" alt="An audit table with seven columns for each source: reference, perspective, provenance, basis, strength, limitation and use. The final Use column, what the source will do in the essay, is highlighted as the justification." loading="lazy">
+  <figcaption>Write the evaluation as you read; the Use column is your justification.</figcaption>
+</figure>
+
 ## Assessing a source inside your argument
 
 Evaluation should appear where you use the source, not in a separate list at the end. Three techniques make this efficient within the word limit.
@@ -81,6 +101,11 @@ Evaluation should appear where you use the source, not in a separate list at the
 **2. The comparison of credibility.** When two sources disagree, assess them against each other: "The ministry's figures are more recent, but the university study explains its method in full, so where the two conflict on rural access, the study is the safer guide." This turns source evaluation into evaluation of perspectives, which is what the essay is assessed on.
 
 **3. The limit that changes the weight.** Name a limitation and say what it does to your argument: "Because the campaign group funded the report, its finding that tolls cut congestion by a third needs independent confirmation; the essay therefore treats it as the upper end of the likely effect." A limitation that changes nothing is not worth the words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--05-in-argument-techniques.webp" width="900" height="680" alt="Three techniques with example wording: an evaluative clause attached to the citation, a comparison of credibility when two sources disagree, and a limit that changes how much weight a finding gets." loading="lazy">
+  <figcaption>Put the judgement where the source is used, and make it change something.</figcaption>
+</figure>
 
 ## Worked example: weak and strong use of the same sources
 
@@ -94,9 +119,19 @@ The paragraph cites sources but does not assess or justify any of them. "Reliabl
 
 The strong paragraph does all three jobs. It **assesses** (an interest, offset by checkable data), it **justifies** (the clearest statement of the perspective; then the reason for leaning on the second source) and it **uses range** (a single-city official review and an independent multi-continent study).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--06-worked-example.webp" width="900" height="620" alt="For a question on congestion charges, the weak paragraph cites sources but assesses none and calls them all reliable. The strong paragraph assesses the transport authority’s interest against its checkable data, justifies relying more on an independent three-continent study, and uses range across both." loading="lazy">
+  <figcaption>A strong paragraph assesses, justifies and shows range in the same few sentences.</figcaption>
+</figure>
+
 ## Referencing and the word limit
 
 The syllabus requires that "Quotations must be fully referenced" and that the essay "include a list of sources used". The word count "excludes the title, references and citations", so full references do not cost you words, but evaluative clauses do. Plan for them: in a 1750-2000-word essay, a sentence or two of evaluation for each key source is realistic; a paragraph for every source is not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-sources--07-word-limit.webp" width="900" height="549" alt="The title, references and citations are not counted in the word limit, but the argument and evaluative sentences about sources are. A sentence or two of evaluation per key source is realistic; a paragraph for every source is not." loading="lazy">
+  <figcaption>References are free; evaluation costs words, so ration it to key sources.</figcaption>
+</figure>
 
 ## Common mistakes
 

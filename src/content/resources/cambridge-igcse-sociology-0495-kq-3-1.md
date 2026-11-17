@@ -107,6 +107,26 @@ inherited wealth, unequal schooling, discrimination and social networks mean man
 earned on merit, and that pay often reflects power rather than importance. (The word "meritocracy" was
 popularised by Michael Young's satirical book *The Rise of the Meritocracy*, 1958.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--01-open-and-closed.webp" width="900" height="766" alt="Closed societies such as caste, slavery and apartheid rest on ascribed status with little movement, justified by religion, tradition or law. Open societies such as modern class systems rest on achieved status with movement up and down. Real class societies sit between the two." loading="lazy">
+  <figcaption>Ascribed status closes a society; achieved status opens it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--02-caste-system.webp" width="900" height="625" alt="Four varnas ranked from Brahmins (priests and scholars) through Kshatriyas, Vaishyas and Shudras, with Dalits outside and below them. Position is ascribed at birth, justified by purity and pollution and kept closed by occupation and endogamy; since 1950 the constitution and reservations have aimed to reduce caste inequality, but its effects continue." loading="lazy">
+  <figcaption>Caste is a closed system: ascribed at birth and kept closed by endogamy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--03-poverty-wealth-power.webp" width="900" height="654" alt="Wealth (what people own, more unequal and inheritable) compared with income (money received over time); absolute poverty (lacking basic needs, Rowntree) compared with relative poverty (below the normal standard, Townsend); and Weber’s definition of power in economic, political and social forms." loading="lazy">
+  <figcaption>Wealth is not income, and absolute poverty is not relative poverty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--04-social-mobility.webp" width="900" height="670" alt="Intergenerational mobility compares a child’s position with a parent’s; intragenerational mobility is movement up or down within one person’s life. Below, the meritocracy argument of Davis and Moore set against critics who point to inherited wealth, unequal schooling, discrimination and networks." loading="lazy">
+  <figcaption>Mobility can be measured across generations or within one life.</figcaption>
+</figure>
+
 ## Life chances (3.1.2)
 
 **Life chances** are a person's chances of gaining the things valued in their society. The syllabus
@@ -132,6 +152,11 @@ experience cannot be understood by looking at one in isolation. An older, workin
 ethnic minority may face disadvantages in employment that are different from — not just the sum of —
 those faced by a middle-class minority man or a working-class white woman. Intersectionality warns
 against generalising about "women" or "the working class" as if each group shared one experience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--05-intersectionality.webp" width="900" height="760" alt="Four overlapping circles for social class, gender, ethnicity and age, with one person at the centre where they all meet. Crenshaw’s idea is that these inequalities interact rather than simply add up." loading="lazy">
+  <figcaption>Class, gender, ethnicity and age interact; they do not just add up.</figcaption>
+</figure>
 
 ## Theories of inequality (3.1.4)
 
@@ -169,6 +194,16 @@ the structural causes — money, ownership, law — that produce the labels in t
 **Weakness:** gives less attention to gender, ethnicity and age; some workers have gained
 considerable mobility and living standards under capitalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--06-self-fulfilling-prophecy.webp" width="900" height="696" alt="A cycle: a label or prediction, teachers acting on it, the pupil responding, and the prophecy coming true, as in Rosenthal and Jacobson’s Pygmalion in the Classroom. Below: master status, stereotypes, and the weakness that labelling can ignore structural causes." loading="lazy">
+  <figcaption>A label can come true because people act on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--07-marxism-inequality.webp" width="900" height="739" alt="The proletariat produce value that flows up to the bourgeoisie, who pay wages lower than that value and keep the difference as profit. Ideological control makes this seem fair; the poverty trap and the reserve army of labour keep workers poor and obedient." loading="lazy">
+  <figcaption>Profit comes from paying workers less than the value they produce.</figcaption>
+</figure>
+
 ## Worked example: Question 3(e)-style "discuss"
 
 *Discuss how far modern societies are meritocracies.*
@@ -186,6 +221,11 @@ considerable mobility and living standards under capitalism.
 >
 > **Judgement:** most modern societies are more open than caste or slave systems, but position still
 > depends partly on ascribed characteristics, so they are only partly meritocratic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-1--08-how-meritocratic.webp" width="900" height="728" alt="A balance weighing evidence for meritocracy (free education, upward mobility, Davis and Moore) against evidence against (class gaps from the start of school, inherited wealth, labelling, ideology, intersectionality). Judgement: modern societies are only partly meritocratic." loading="lazy">
+  <figcaption>More open than caste, but still partly decided at birth.</figcaption>
+</figure>
 
 ## Common mistakes
 

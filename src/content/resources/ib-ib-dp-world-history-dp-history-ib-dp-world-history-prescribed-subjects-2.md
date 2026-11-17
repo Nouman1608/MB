@@ -35,6 +35,11 @@ For both case studies the content falls under three headings:
 
 The two cases connect. Ferdinand and Isabella entered Granada in January 1492; in April they agreed terms with Columbus at their camp at Santa Fe. Many conquistadors grew up in a Castile shaped by the war against Granada, and Spanish justifications of conquest in the Americas drew on the language of crusade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--01-two-conquests-one-lifetime.webp" width="900" height="769" alt="A time scale from 1460 to 1560 with two bands: Granada (1482-1492) and Mexico and Peru (1519-1551). Dated events below run from the marriage of Isabella and Ferdinand in 1469 and the Inquisition in 1478 to 1492, when Granada was entered in January and terms were agreed with Columbus in April, then Cortés in 1519, Tenochtitlan in 1521, Atahualpa's capture in 1532, the New Laws of 1542 and the Valladolid debate of 1550-51." loading="lazy">
+  <figcaption>1492 links the two case studies: Granada in January, Columbus in April.</figcaption>
+</figure>
+
 ## Case study 1: The final stages of Muslim rule in Spain
 
 ### Context and motives
@@ -42,6 +47,11 @@ The two cases connect. Ferdinand and Isabella entered Granada in January 1492; i
 By the 1480s the Nasrid emirate of Granada was the last Muslim state in the peninsula. It had survived for two centuries partly by paying tribute to Castile and partly because Castile was often divided. Two changes ended that balance. The marriage of Isabella of Castile and Ferdinand of Aragon (1469) and their success in the Castilian succession war (1475-1479) united the two largest Christian kingdoms under joint rulers. Meanwhile Granada itself was split by a dynastic struggle among the emir Abu'l-Hasan Ali, his son Muhammad XII (Boabdil) and his brother Muhammad al-Zaghal.
 
 The Catholic Monarchs' motives combined religious crusade, backed by papal crusade taxes, with the wish to strengthen royal authority by directing the nobility against an external enemy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--02-granada-balance-breaks.webp" width="900" height="648" alt="Before the 1480s Granada survived by paying tribute to a Castile that was often divided. Two changes broke the balance: the Christian kingdoms were united by the marriage of Isabella and Ferdinand (1469) and the succession war (1475-1479), and Granada was divided by a dynastic struggle among Abu'l-Hasan Ali, Boabdil and al-Zaghal. Both lead to the war of 1482-1492, driven by crusade and royal authority." loading="lazy">
+  <figcaption>Christian unity and Granadan division ended two centuries of balance.</figcaption>
+</figure>
 
 ### Key events
 
@@ -52,9 +62,19 @@ The Catholic Monarchs' motives combined religious crusade, backed by papal crusa
 - **1490-1491**: Granada is besieged from the fortified camp of Santa Fe.
 - **November 1491**: the Treaty (Capitulations) of Granada; the city surrenders on 2 January 1492.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--03-granada-war-events.webp" width="900" height="625" alt="A vertical timeline: Alhama seized in 1482, Boabdil captured at Lucena in 1483 and released as a vassal, Ronda and Málaga taken in 1485-1487 with artillery, Baza and al-Zaghal's surrender in 1489, the siege from Santa Fe in 1490-1491, the Capitulations in November 1491 and the city's surrender on 2 January 1492." loading="lazy">
+  <figcaption>Artillery sieges and Granada's civil war brought the city down in ten years.</figcaption>
+</figure>
+
 ### Impact
 
 The Capitulations promised Muslims their religion, mosques, property and law. The first archbishop, Hernando de Talavera, sought conversion by persuasion. From 1499 Cardinal Cisneros pressed mass baptisms, provoking revolts in the Albaicín and the Alpujarras (1499-1501). In 1502 Muslims in Castile were ordered to convert or leave; those who stayed became *moriscos*. In March 1492 the Alhambra Decree expelled Jews who would not convert, and the Inquisition, established in Castile from 1478, policed converts. The conquest also freed Castilian resources and confidence for expansion overseas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--04-granada-promises-eroded.webp" width="900" height="688" alt="A downward chain: the Capitulations of November 1491 promise Muslims their religion, mosques, property and law; Archbishop Talavera seeks conversion by persuasion; from 1499 Cisneros presses mass baptisms, provoking revolts in 1499-1501; in 1502 Muslims in Castile must convert or leave. A side column adds the Inquisition in Castile from 1478 and the Alhambra Decree of March 1492 expelling Jews who would not convert." loading="lazy">
+  <figcaption>Persuasion gave way to compulsion within ten years of the Capitulations.</figcaption>
+</figure>
 
 ## Case study 2: The conquest of Mexico and Peru
 
@@ -65,6 +85,16 @@ The Mexica (Aztec) state ruled from Tenochtitlan over tribute-paying peoples, se
 ### Key events: Mexico
 
 Hernán Cortés sailed from Cuba in 1519 against the governor's orders. With the help of Malinche (Doña Marina), who interpreted between Nahuatl and Maya, and Jerónimo de Aguilar, he allied with the Totonacs and, after fighting, with Tlaxcala. He entered Tenochtitlan in November 1519 and took Moctezuma II hostage. After Pedro de Alvarado's massacre of nobles at a festival in 1520, the city rose; Moctezuma died and the Spanish fled with heavy losses on the *Noche Triste*. Smallpox then struck the city. Rebuilt with Tlaxcalan support and a fleet of brigantines on the lake, the besiegers took Tenochtitlan in August 1521.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--05-why-conquests-succeeded.webp" width="900" height="731" alt="A central circle, the Spanish conquest, linked to five factors: indigenous allies such as the Totonacs and Tlaxcalans, epidemics including smallpox, the interpreters Malinche and Aguilar, the Inca civil war between Huáscar and Atahualpa, and Spanish actions such as seizing rulers and building brigantines. A note summarises Restall's argument that indigenous allies, disease and politics shaped the outcome." loading="lazy">
+  <figcaption>Allies, disease and indigenous politics matter as much as Spanish arms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--06-mexico-peru-events.webp" width="900" height="753" alt="Two columns of events. Mexico: Cortés sails from Cuba in 1519, enters Tenochtitlan in November 1519 and takes Moctezuma hostage; after Alvarado's massacre in 1520 the city rises and the Spanish flee; smallpox strikes; Tenochtitlan is taken in August 1521. Peru: the Inca civil war; Atahualpa captured at Cajamarca in November 1532 and executed in 1533; Manco Inca rebels in 1536; Almagro is executed in 1538 and Pizarro assassinated in 1541." loading="lazy">
+  <figcaption>Mexico fell in two years; Peru was taken quickly but fought over for a decade.</figcaption>
+</figure>
 
 ### Key events: Peru
 
@@ -84,6 +114,11 @@ A weak answer summarises each in turn. A strong answer is built point by point:
 
 Each sentence links the two sources directly. Aim for two or three similarities and three or four differences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--07-q3-point-by-point.webp" width="900" height="702" alt="Two sources on the fall of Tenochtitlan, a letter from Cortés to Charles V and a later indigenous account, are compared row by row with two-way arrows. Similarity: both say the siege destroyed the city. Differences: the letter credits Spanish courage and divine favour while the indigenous account stresses disease and hunger; the letter treats allies as auxiliaries while the indigenous account names them as fighting their old overlords." loading="lazy">
+  <figcaption>Link the two sources in every sentence: similarities and differences side by side.</figcaption>
+</figure>
+
 ## Interpretations
 
 Matthew Restall's *Seven Myths of the Spanish Conquest* (2003) argues that the image of a few hundred Spaniards conquering empires is a myth: indigenous allies supplied most of the fighting forces, and disease and indigenous politics shaped the outcome. Sources often reflect the "Black Legend" of Spanish cruelty, which drew heavily on Las Casas, or, from the other side, celebratory accounts such as Bernal Díaz del Castillo's history, written decades later by a veteran.
@@ -100,3 +135,8 @@ Matthew Restall's *Seven Myths of the Spanish Conquest* (2003) argues that the i
 **Discuss** asks for a balanced review of factors; **examine** asks you to test a claim; **compare and contrast** needs both likenesses and differences. When a Question 4 asks "why" a conquest succeeded, rank your factors and explain how they interacted.
 
 Revise with the [Conquest and its impact revision notes](/resources/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2-revision-notes/) and test yourself with the [Conquest and its impact practice questions](/resources/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2-practice/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--03-p1-question-inputs.webp" width="900" height="794" alt="Four rows show Question 1 to 4 with marks, the task, how many sources are used and whether own knowledge is allowed. Only Question 4 allows own knowledge; Question 4 uses four sources, A to D." loading="lazy">
+  <figcaption>Questions 1 to 3 use the sources only; Question 4 uses the sources and own knowledge.</figcaption>
+</figure>

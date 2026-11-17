@@ -68,6 +68,11 @@ good as the data it learns from.
 | Adapting to change | Rewrite the rules | Retrain on new data |
 | Suits | Clear, stable rules (tax calculation) | Complex patterns (image recognition) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--01-rules-vs-learning.webp" width="900" height="778" alt="In rule-based programming, rules written by a person and data go into a program that produces answers. In machine learning, examples and a learning method go into a learning system that produces a model, which makes predictions. A table compares where the rules come from, what each needs, how easily decisions are explained, how each adapts to change and what each suits." loading="lazy">
+  <figcaption>A programmer writes the rules, or the system finds them in the data.</figcaption>
+</figure>
+
 ## Training data, features and labels
 
 - **Training data:** the examples a model learns from. It must be large enough, accurate and
@@ -79,6 +84,11 @@ good as the data it learns from.
   "spam" or "not spam".
 - **Testing:** a model is checked on data it has not seen during training, to find out whether it
   works on new cases and has not simply memorised its examples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--02-training-data-features-labels.webp" width="900" height="592" alt="The eight training emails from the worked example, each with one feature (number of suspicious words: 9, 1, 7, 2, 8, 0, 6, 3) and a label (spam or not). Training on features and labels produces a model, the threshold 4.5, which classifies a new email with 5 words as spam and one with 4 as not. Training data must be representative, and testing uses data not seen in training." loading="lazy">
+  <figcaption>Features are the inputs, labels the correct answers; testing uses examples the model has not seen.</figcaption>
+</figure>
 
 ## Supervised and unsupervised learning
 
@@ -94,6 +104,11 @@ without telling the system in advance what the groups are.
 **How to tell them apart in a question:** if the scenario says the training data includes the correct
 outcome for each example, it is supervised; if the system must find groupings or patterns without
 being told the answers, it is unsupervised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--03-supervised-unsupervised.webp" width="900" height="906" alt="Supervised learning uses labelled data: classification separates two labelled categories with a boundary and places a new point in one, and regression fits a line to predict a number such as a house price from its size. Unsupervised learning uses unlabelled points and finds clusters, such as groups of customers with similar buying habits." loading="lazy">
+  <figcaption>Labelled data means supervised; finding groups without answers means unsupervised.</figcaption>
+</figure>
 
 ## Worked example: learning a rule from data
 
@@ -138,6 +153,16 @@ no programmer chose 4.5: it came from the labelled data, and it would change if 
 retrained on different emails. Real systems use many features and far more sophisticated methods,
 but the principle is the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--04-threshold-trace.webp" width="900" height="939" alt="The lesson’s pseudocode loops over eight emails, adding each word count to spamTotal or notTotal and counting each class. The trace table shows spamTotal reaching 30 over 4 spam emails and notTotal reaching 6 over 4 others. The averages are 7.5 and 1.5, so the output threshold is (7.5 + 1.5) ÷ 2 = 4.5." loading="lazy">
+  <figcaption>The loop totals each class; halfway between the two averages gives the threshold 4.5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--05-threshold-number-line.webp" width="900" height="576" alt="A number line of suspicious words. The four not-spam training emails (0 to 3 words) average 1.5 and the four spam emails (6 to 9 words) average 7.5; the threshold 4.5 lies halfway. A new email with 5 suspicious words is classified as spam and one with 4 is not." loading="lazy">
+  <figcaption>The threshold comes from the data, so retraining on new emails would move it.</figcaption>
+</figure>
+
 ## Where is machine learning used?
 
 - **Health care:** spotting signs of disease in medical images.
@@ -164,6 +189,11 @@ model against this cost.
 
 In an evaluation question, balance benefits (speed, accuracy at scale, finding patterns humans miss)
 against these risks, and reach a judgement about the specific application in the scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--06-ethical-issues.webp" width="900" height="812" alt="Three ethical issues traced from cause to effect to response: biased training data leads a model to repeat unfairness, answered by balanced data, testing across groups and human review; hard-to-explain models leave people unable to challenge decisions, raising accountability; and training large models costs energy, hardware and cooling, to be weighed against the benefit." loading="lazy">
+  <figcaption>Link each ethical issue to the scenario’s data and users, then weigh it against the benefits.</figcaption>
+</figure>
 
 ## Common mistakes
 

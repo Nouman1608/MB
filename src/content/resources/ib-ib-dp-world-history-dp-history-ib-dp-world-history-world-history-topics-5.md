@@ -36,9 +36,24 @@ The content can be organised into four themes:
 
 Typical examples include Louis XIV's France, Peter the Great's Russia, the Ottoman empire under Mehmed II and Suleiman, Akbar's Mughal empire, Tokugawa Japan, the Qing under Kangxi, Prussia under Frederick II, and Stuart England, where royal power was limited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--01-four-themes.webp" width="900" height="477" alt="Four theme cards: emergence and expansion, rulers and legitimacy, methods of government, and challenges and limits. Chips list the marks of a stronger state: larger armies, more officials, higher taxes and tighter control of elites and religion." loading="lazy">
+  <figcaption>Measure state-building, then measure its limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--02-rulers-timeline.webp" width="900" height="726" alt="A timeline from 1450 to 1800 shows Suleiman (1520-1566), Akbar (1556-1605), Stuart England from civil war to the Bill of Rights (1642-1689), Kangxi (1661-1722), Peter the Great (1682-1725) and Frederick II (1740-1786)." loading="lazy">
+  <figcaption>Several example states overlap in time across different regions.</figcaption>
+</figure>
+
 ## Absolutism and its limits
 
 "Absolutism" describes rulers who claimed sovereign authority not shared with any assembly, often justified by divine right. Historians now stress that even "absolute" monarchs ruled through bargains with elites: they rewarded nobles with office, honours and protection of their privileges in return for cooperation. When you use the term, explain what it meant in practice for your example.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--03-absolutist-bargain.webp" width="900" height="529" alt="The ruler, claiming sovereign authority often justified by divine right, gives nobles office, honours and protection of their privileges; the nobles give cooperation in return. A note says to explain what absolutism meant in practice." loading="lazy">
+  <figcaption>Absolute in theory, negotiated in practice.</figcaption>
+</figure>
 
 ## Peter the Great's Russia (r. 1682-1725)
 
@@ -52,6 +67,11 @@ Peter shared the throne at first and ruled alone from 1696. After the Grand Emba
 
 **Limits**: reforms rested on serfdom and coercion; the nobility's service obligations were later relaxed; the succession was left uncertain after the death of his son Alexei in 1718.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--04-peter-reforms.webp" width="900" height="568" alt="Peter the Great's reforms around a central circle: army and navy (conscription, Poltava 1709, Nystad 1721), administration (Senate 1711, Table of Ranks 1722), taxation (poll tax), church (Holy Synod 1721) and culture (St Petersburg, western dress). A sixth card gives the limits: serfdom and coercion, relaxed noble service and an uncertain succession." loading="lazy">
+  <figcaption>Sweeping reforms in every area, resting on serfdom and coercion.</figcaption>
+</figure>
+
 ## The Ottoman empire under Suleiman (r. 1520-1566)
 
 The Ottoman state recruited Christian boys through the *devshirme*, converted them and trained them as Janissary infantry or palace officials, creating a service elite loyal only to the sultan. Cavalrymen held *timars*, grants of revenue from land, in return for military service. Suleiman, known in Turkish as *Kanuni* ("the Lawgiver"), issued legal codes harmonising sultanic law with Islamic law. Victories at Mohács (1526) and the siege of Vienna (1529) marked the furthest reach of Ottoman power in central Europe. Religious communities were allowed to run many of their own affairs under their leaders.
@@ -64,9 +84,19 @@ Akbar ranked his nobles in the *mansabdari* system: each *mansab* (rank) set the
 
 England offers a contrast. Disputes between Charles I and Parliament over taxation, religion and royal authority led to civil war (from 1642) and the king's execution (1649). After the restoration of the monarchy (1660), James II's Catholicism and his use of royal power provoked the Glorious Revolution (1688). The Bill of Rights (1689) required parliamentary consent for taxation and a standing army in peacetime, establishing a limited monarchy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--05-stuart-england.webp" width="900" height="624" alt="A vertical timeline: disputes between Charles I and Parliament lead to civil war (1642) and the king's execution (1649); the monarchy is restored (1660); James II's Catholicism and use of power provoke the Glorious Revolution (1688); the Bill of Rights (1689) requires parliamentary consent for taxation and a peacetime standing army." loading="lazy">
+  <figcaption>Disputes over tax, religion and authority ended in a limited monarchy.</figcaption>
+</figure>
+
 ## Enlightened absolutism: Prussia under Frederick II (r. 1740-1786)
 
 Frederick II inherited from his father an efficient administration and a large army, and used them at once, seizing Silesia from Austria in 1740. He kept it through the War of the Austrian Succession and the Seven Years' War (1756-1763). He described himself as the "first servant of the state", reformed the law, restricted judicial torture, tolerated religious minorities and corresponded with Voltaire. Yet his state rested on the Junker nobility, who supplied the officer corps and kept their serfs, and on a military system that drew conscripts from rural districts. Frederick shows that Enlightenment ideas could change the language and some methods of rule while leaving the social foundations of absolutism intact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--06-frederick-ii.webp" width="900" height="512" alt="Two columns for Frederick II. Changed: the language and some methods of rule (first servant of the state, legal reform, restricted torture, religious toleration, correspondence with Voltaire). Unchanged: the social foundations (the Junker officer corps and their serfs, rural conscription, the inherited administration and army). Below: Silesia seized in 1740 and kept through the Seven Years' War." loading="lazy">
+  <figcaption>New language and methods, the same social foundations.</figcaption>
+</figure>
 
 ## The Qing under Kangxi (r. 1661-1722)
 
@@ -88,6 +118,11 @@ The Kangxi Emperor consolidated a Manchu conquest dynasty over a vast Han Chines
 
 **Conclusion:** both created durable systems of control, but Akbar's rested more on consent and Peter's more on force, which reflected the different elites and resources each ruler faced.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--07-peter-akbar.webp" width="900" height="688" alt="A grid compares Peter the Great and Akbar on ranks tied to service, rewards, inclusion or coercion, and culture. Below, a scale from force to consent places Peter nearer force and Akbar nearer consent." loading="lazy">
+  <figcaption>Both built service elites: Peter by compulsion, Akbar by incentive.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Assuming "absolute" meant unlimited power.
@@ -95,6 +130,11 @@ The Kangxi Emperor consolidated a Manchu conquest dynasty over a vast Han Chines
 - Using Louis XIV for everything; prepare at least one example from another region.
 - Confusing institutions: the Table of Ranks is Russian, the *mansabdari* Mughal, the *devshirme* Ottoman.
 - Running past 1789 into the French Revolution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5--08-institutions.webp" width="900" height="362" alt="Three cards match institutions to states. Russia: the Table of Ranks (1722), with the Senate and Holy Synod. Mughal empire: the mansabdari system of ranks, with jagirs. Ottoman empire: the devshirme, which trained converted Christian boys as Janissaries or officials, with timars." loading="lazy">
+  <figcaption>Table of Ranks: Russia. Mansabdari: Mughal. Devshirme: Ottoman.</figcaption>
+</figure>
 
 ## Exam technique
 

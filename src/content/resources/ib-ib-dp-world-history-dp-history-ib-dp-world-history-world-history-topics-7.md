@@ -35,6 +35,11 @@ The topic title gives the three strands that organise the content, and Paper 2 q
 
 Check the precise sub-headings your teacher uses against the IB History guide; the strands above are the framework the topic is examined on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--01-three-strands.webp" width="900" height="547" alt="Three linked columns: origins (agriculture, population, coal and iron, capital, technology, labour, markets, government), development (new power sources, transport and communications, steel and chemicals, entrepreneurs and the state) and impact (social and economic, political and environmental)." loading="lazy">
+  <figcaption>Origins, development and impact: know which strand a question targets.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### Why Britain first?
@@ -69,6 +74,31 @@ Environmental impact is part of the topic and is often neglected. Britain's Alka
 
 The **standard of living debate** is a classic perspective: "optimists" stress rising real wages over the long run, while "pessimists" such as E. P. Thompson in *The Making of the English Working Class* (1963) stress the loss of independence, discipline of the factory and worsening urban conditions in the early decades.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--02-why-britain-first.webp" width="900" height="547" alt="Factors around Britain industrializing first: agricultural change, coal and iron (with Allen's high-wage, cheap-coal argument), capital and markets, technology (spinning jenny, water frame, Cromford Mill, Watt's engine) and the enabling state. Pomeranz's comparison with the Yangzi delta stresses coal and the resources of the Americas." loading="lazy">
+  <figcaption>Weigh the factors; use the historians to evaluate, not to name-drop.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--03-start-points.webp" width="900" height="660" alt="A timeline from 1740 to 1940 marks start points: Britain from the 1750s, Germany with the Zollverein (1834) and unification (1871), Meiji Japan from 1868 with its first railway in 1872, Tsarist Russia with the Trans-Siberian Railway (1891) and gold standard (1897), and the Soviet Union's First Five-Year Plan (1928)." loading="lazy">
+  <figcaption>The later the start, the more the state stepped in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--04-gerschenkron.webp" width="900" height="519" alt="A spectrum from private enterprise to state direction: Britain (entrepreneurs, enabling state), Germany (investment banks and cartels), Meiji Japan (state enterprises later sold to zaibatsu), Tsarist Russia (state and foreign loans) and the Soviet Union (total planning)." loading="lazy">
+  <figcaption>Late industrializers leaned more on banks and the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--05-britain-impact.webp" width="900" height="974" alt="A vertical timeline of British responses to industrialization: repeal of the Combination Acts (1824), the Factory Act (1833), Chartism (1838-48), Chadwick's report (1842), the Ten Hours Act (1847), the Public Health Act (1848), the Alkali Act (1863) and the Clean Air Act (1956). A note adds Bismarck's insurance laws of 1883, 1884 and 1889." loading="lazy">
+  <figcaption>Name the decade and the law: impact came with specific responses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--06-standard-of-living.webp" width="900" height="531" alt="A scale from better off to worse off. Optimists stress rising real wages over the long run; pessimists such as E. P. Thompson (1963) stress lost independence, factory discipline and worse urban conditions in the early decades. Three questions sharpen a judgement: who, when and which measure." loading="lazy">
+  <figcaption>The answer depends on who, when and what you measure.</figcaption>
+</figure>
+
 ## Worked example: planning a Paper 2 essay
 
 **Question:** "To what extent was the availability of natural resources the main reason why industrialization took place in **two** countries, each chosen from a different region?"
@@ -87,6 +117,11 @@ The **standard of living debate** is a classic perspective: "optimists" stress r
 **Conclusion:** Weigh the factors: resources were necessary for the British model of steam-powered industry, but the Japanese case shows that a determined state could substitute for them.
 
 **Annotation.** This plan earns the higher markbands because every paragraph treats both countries, ends with a judgement on the question's factor, and uses specific dates and policies.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--07-essay-plan.webp" width="900" height="641" alt="A planning grid for Britain and Japan with four factors: resources (decisive for Britain, a constraint for Japan), government (enabling against directing: the key difference), capital and labour, and technology and markets. The conclusion: resources mattered for Britain, but Japan's state substituted for them." loading="lazy">
+  <figcaption>Both countries in every paragraph, with a mini-judgement on the factor.</figcaption>
+</figure>
 
 ## Common mistakes
 

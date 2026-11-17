@@ -47,6 +47,11 @@ The skill tested throughout is linking a **cause** to an **effect on family life
 
 The trends are not universal. Many lower-income countries still have relatively high birth rates and young populations, where children may contribute to family income and support parents in old age. Comparing societies earns credit in "explain" and "discuss" parts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--01-demographic-change.webp" width="900" height="733" alt="Falling birth rates and rising life expectancy create an ageing population, which produces beanpole families and more care for elderly relatives; later parenthood makes the sandwich generation more likely. Below, a wide two-generation family tree contrasts with a long, thin four-generation beanpole." loading="lazy">
+  <figcaption>Birth and death trends are causes; the beanpole family is the effect.</figcaption>
+</figure>
+
 ## Industrialisation and urbanisation (4.3.2)
 
 **The functionalist account.** Parsons argued that pre-industrial societies relied on the extended family as a unit of production, while industrial society needed a geographically mobile workforce. The **isolated nuclear family** fitted that need, so industrialisation produced a shift from extended to nuclear families.
@@ -56,6 +61,11 @@ The trends are not universal. Many lower-income countries still have relatively 
 **Young and Willmott's stages.** They described a move from the pre-industrial family working together, through the early industrial family where men and women's lives were separate, to the **symmetrical family**, in which partners share paid work, domestic tasks and leisure.
 
 **Urbanisation today.** In rapidly urbanising societies, migrants moving to cities may leave extended kin in rural areas, form nuclear households in the city and send money home. Extended families often continue as modified extended networks rather than disappearing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--02-industrialisation-debate.webp" width="900" height="642" alt="Three accounts across pre-industrial, early industrial and later industrial times. Parsons: extended family gives way to the isolated nuclear family. Laslett: pre-industrial households were already mostly nuclear; Anderson: extended households were common in Preston in 1851. Young and Willmott: from a family working together, to separate lives, to the symmetrical family." loading="lazy">
+  <figcaption>The shift from extended to nuclear was not as simple as Parsons claimed.</figcaption>
+</figure>
 
 ## Explaining trends in marriage, divorce and cohabitation (4.3.3)
 
@@ -67,6 +77,11 @@ In many industrial societies marriage rates have fallen, people marry later, div
 - **Secularisation**: the declining influence of religion weakens the belief that marriage is sacred and lifelong, and fewer weddings are religious.
 - **Cultural expectations**: expectations of marriage differ between and within societies. Where family honour and community pressure remain strong, divorce rates tend to stay lower; migrant and second-generation families may blend expectations.
 - **Female empowerment**: education, paid work and welfare rights mean women no longer depend financially on a husband, so they can leave unhappy marriages and delay or avoid marriage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--03-why-marriage-and-divorce-changed.webp" width="900" height="525" alt="Six explanations around the trends of fewer and later marriages and more divorce and cohabitation: legislation, changing attitudes, the internet, secularisation, cultural expectations, and the changing status and power of women." loading="lazy">
+  <figcaption>Name the factor, then explain how it changes behaviour.</figcaption>
+</figure>
 
 ## Alternatives to marriage (4.3.4)
 
@@ -83,6 +98,16 @@ In many industrial societies marriage rates have fallen, people marry later, div
 
 **Grandparents.** Healthier, longer-lived grandparents often provide **childcare**, enabling both parents to work; **economic support**, such as help with housing deposits; and **wisdom and advice**, passing on culture and experience. In very old age they may become **dependent**, which some families experience as a **burden**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--04-sandwich-generation.webp" width="900" height="616" alt="Three generations stacked: middle-aged adults in the middle care for their ageing parents above and their own children below at the same time." loading="lazy">
+  <figcaption>Longer lives and later parenthood squeeze the middle generation from both sides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--05-children-and-grandparents.webp" width="900" height="633" alt="Children have moved from economic asset to burden, families are more child-centred, and boomerang children return home. Grandparents provide childcare, economic support and advice but may become dependent. Conjugal roles have become more joint, though feminists point to the dual burden." loading="lazy">
+  <figcaption>Roles have changed for every generation in the family.</figcaption>
+</figure>
+
 ## Worked example: an annotated part (e) answer extract
 
 *Discuss the reasons why divorce rates have increased in many societies.*
@@ -90,6 +115,11 @@ In many industrial societies marriage rates have fallen, people marry later, div
 > *"One reason is the changing status of women [identifies a syllabus explanation]. Because more women are educated and in paid work, they are no longer financially dependent on a husband [mechanism], so leaving an unhappy marriage is a realistic option [effect on divorce]. However, this explanation fits societies where women have equal employment rights better than those where they do not [evaluation]."*
 
 Two more points of the same shape, such as legislation and secularisation, would give the three developed points the part requires.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-3--06-discuss-paragraph.webp" width="900" height="833" alt="A four-step paragraph on divorce: identify the changing status of women, explain the mechanism of financial independence, state the effect that leaving becomes realistic, and evaluate where the explanation fits best." loading="lazy">
+  <figcaption>Identify, mechanism, effect, evaluate: then repeat twice more.</figcaption>
+</figure>
 
 ## Common mistakes
 

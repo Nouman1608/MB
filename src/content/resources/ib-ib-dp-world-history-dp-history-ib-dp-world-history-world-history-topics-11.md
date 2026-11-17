@@ -35,6 +35,11 @@ The IB History guide divides the content into three parts.
 
 The middle part is the one students most often neglect. "Practices of war and their impact on the outcome" means you must explain **why one side won**, not only describe how fighting took place.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--01-three-parts.webp" width="900" height="518" alt="Three linked cards: causes of war (by type and timescale), practices of war and their impact on the outcome (types of war, technology and theatres, mobilization, foreign powers) and effects of war (peacemaking, territory, politics, economy and society, women). A note stresses that Part 2 means explaining why one side won." loading="lazy">
+  <figcaption>Causes, practices, effects: and Part 2 asks why one side won.</figcaption>
+</figure>
+
 ## Key ideas
 
 ### Causes: categorize, then rank
@@ -67,6 +72,31 @@ Link each practice to the outcome.
 - **Economic, social and demographic impact:** debts, inflation, mass casualties and refugees.
 - **Women:** wartime work in munitions and services; in Britain, the Representation of the People Act (1918) gave the vote to women over 30 who met a property qualification. Ask how far change lasted after demobilization.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--02-four-wars-timeline.webp" width="900" height="727" alt="A timeline from 1910 to 1990 with four bars: the First World War (1914-18), the Spanish Civil War (1936-39), the Iran-Iraq War (1980-88) and the Falklands War (1982), each labelled with its trigger. A note warns that the first two are both European." loading="lazy">
+  <figcaption>Four wars across the century; pick essay pairs from different regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--03-falklands-causes.webp" width="900" height="569" alt="The causes of the Falklands War sorted into long-term (the Argentine claim to the islands, tagged territorial; British reluctance to fund their defence), short-term (the junta's need for a popular cause amid economic crisis, tagged political and economic) and the trigger (the Argentine invasion of 2 April 1982). An arrow shows the territorial claim served a political need. Below: sort, rank, link." loading="lazy">
+  <figcaption>Sort by type and timescale, rank, then show how the categories overlap.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--04-total-limited.webp" width="900" height="538" alt="Four chips name the types of war in the guide: civil, guerrilla, limited and total. A table compares the First World War as a total war (conscription in Britain from 1916, the Defence of the Realm Act of 1914, economies turned to war production) with the Falklands as a limited war (confined to the islands and sea, limited aims on both sides)." loading="lazy">
+  <figcaption>Total war mobilizes whole societies; a limited war has limited area and aims.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--05-practices-outcome.webp" width="900" height="779" alt="First World War: machine guns and artillery cause trench deadlock; unrestricted submarine warfare from February 1917 helps bring the USA in by April 1917; the Allies' greater resources wear down the Central Powers by 1918. Falklands: a British submarine sinks the General Belgrano on 2 May 1982 and the Argentine navy then stays in port." loading="lazy">
+  <figcaption>Describe a practice only to explain why the winner won.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--06-effects-of-war.webp" width="900" height="523" alt="Five effects of war around a central circle: peacemaking (the Paris settlement and the League), territorial change (the break-up of three empires), economic, social and demographic impact, political repercussions (Russia 1917, Argentina 1983, Franco after 1939) and the changing role of women." loading="lazy">
+  <figcaption>Effects cover peacemaking, territory, politics, society and women.</figcaption>
+</figure>
+
 ## Worked example: an annotated paragraph on outcome
 
 **Question:** "Examine the reasons for the Nationalist victory in the Spanish Civil War."
@@ -74,6 +104,16 @@ Link each practice to the outcome.
 > "Foreign intervention was the most important reason for the Nationalist victory because it determined the balance of military resources at each stage of the war. German and Italian transport aircraft carried Franco's Army of Africa across the Strait of Gibraltar in the first weeks of the war, when the Republican navy blocked the sea route, giving the Nationalists their most effective troops on the mainland. Thereafter, the Condor Legion and tens of thousands of Italian troops supplied air power and equipment that the Republic could not match, since Britain and France's policy of non-intervention denied it legal arms purchases from the democracies. Soviet aid, paid for with the Spanish gold reserves, was significant in the defence of Madrid but diminished after 1937. Yet foreign aid alone does not explain the outcome: Franco's unified command contrasted with the Republic's divisions, which erupted in fighting between Republican factions in Barcelona in May 1937. Foreign intervention gave the Nationalists the means to win; their unity allowed them to use those means effectively."
 
 **Why it works:** the opening sentence answers the question and ranks a factor; the evidence is precise and chronological where the argument needs it; a counter-factor is introduced and weighed; the final sentence connects the two factors in a judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--07-paragraph-anatomy.webp" width="900" height="620" alt="Four numbered steps of the model paragraph: answer the question and rank a factor; give precise, ordered evidence; introduce and weigh a counter-factor; end with a judgement linking the two factors." loading="lazy">
+  <figcaption>Answer, evidence, counter-factor, linked judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--08-spain-balance.webp" width="900" height="657" alt="A balance tips towards the Nationalists. Their side lists the airlift of the Army of Africa by German and Italian aircraft, the Condor Legion and Italian troops, and Franco's unified command. The Republic's side lists Soviet aid that fell after 1937, non-intervention by Britain and France, and divisions shown in Barcelona in May 1937." loading="lazy">
+  <figcaption>Foreign aid gave the means; unity let the Nationalists use them.</figcaption>
+</figure>
 
 ## Common mistakes
 

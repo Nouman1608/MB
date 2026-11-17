@@ -31,6 +31,11 @@ The reflective paper is worth 10 of the component's 40 marks and is assessed ent
 
 So the paper is not a summary of your research or your solution. Its subject is the **process**: how the team worked, what you learned, and how the experience changed your thinking.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--01-paper-purpose.webp" width="900" height="570" alt="The reflective paper is worth 10 of the Team Project’s 40 marks, beside 30 for the presentation, with a maximum of 800 words assessed entirely on AO2. Its two strands are the effectiveness of the collaboration and the candidate’s learning, including changed personal views." loading="lazy">
+  <figcaption>Reflect on the process, not the findings: teamwork is assessed only here.</figcaption>
+</figure>
+
 ## Strand 1: evaluating the collaboration
 
 The Critical Path gives the core questions: "How effective was our work together? Identify the strengths and weaknesses of your teamwork. Consider what made the collaboration effective or ineffective in relation to the team's goal. Make suggestions for improving teamwork in the future."
@@ -59,6 +64,16 @@ Strong reflection refers to specific moments, not general impressions. Keep a sh
 
 "What could be improved" needs suggestions that follow from a weakness you have identified, and that someone could act on: "Before researching, we should have written a one-line list of who covers which sources, shared in our group chat, and checked it at each meeting." A vague wish such as "communicate better" does not show reflection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--02-collaboration-aspects.webp" width="900" height="754" alt="Seven aspects to evaluate, each with guiding questions: agreeing the problem, allocating perspectives, communication, decision-making, handling disagreement, organisation and your own role. All are judged against the team’s goal rather than how pleasant the work felt." loading="lazy">
+  <figcaption>Effectiveness means progress towards the team’s goal, not a pleasant time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--03-evidence-improvement.webp" width="900" height="643" alt="General claims such as “communication was sometimes a problem” and “communicate better” set against specific ones: two members researched the same council report in week three because sources were not allocated, so the team should have kept a shared list of who covers which sources." loading="lazy">
+  <figcaption>Name a specific moment, then an improvement someone could act on.</figcaption>
+</figure>
+
 ## Strand 2: reflecting on your learning
 
 The syllabus says learning "may be about the problem itself, the research skills they have developed, and/or presentation skills". The paper should also address "any changes to their personal views shaped by the collaborative experience".
@@ -69,6 +84,11 @@ The syllabus says learning "may be about the problem itself, the research skills
 - **Changes to personal views**: the collaborative part matters here. Hearing a teammate argue from a different perspective is exactly the experience the paper asks you to reflect on.
 
 Depth beats coverage. Two areas of learning explored with examples and their significance are stronger than four listed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--04-learning.webp" width="900" height="495" alt="Four areas of learning: the problem itself, research skills, presentation skills, and changes to personal views shaped by teammates’ perspectives. Two areas explored in depth with examples beat four that are only listed." loading="lazy">
+  <figcaption>Choose two areas of learning and explore them, rather than listing four.</figcaption>
+</figure>
 
 ## A reflective writing pattern
 
@@ -81,6 +101,11 @@ A simple pattern keeps each paragraph reflective rather than descriptive:
 
 Description is necessary but should be the smallest part of each paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--05-writing-pattern.webp" width="900" height="466" alt="Four moves in each paragraph: what happened, what it shows about the team or you, how effective it was against the team’s goal or your learning, and what you would do differently. A bar shows description as the smallest share of the paragraph." loading="lazy">
+  <figcaption>Keep description short; most words go on meaning, effect and change.</figcaption>
+</figure>
+
 ## Planning 800 words
 
 The syllabus sets a maximum of 800 words and names two assessed strands. One reasonable plan (not a syllabus rule):
@@ -92,6 +117,11 @@ The syllabus sets a maximum of 800 words and names two assessed strands. One rea
 | Improvements linked to weaknesses | 100-120 |
 | Learning and changes to personal views | 200-250 |
 | Closing judgement on the collaboration and your learning | 40-60 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--06-word-plan.webp" width="900" height="513" alt="An 800-word plan: context 60 to 80 words, effectiveness of collaboration 300 to 350, improvements 100 to 120, learning and changed views 200 to 250, and a closing judgement 40 to 60." loading="lazy">
+  <figcaption>Spend the words on the two assessed strands.</figcaption>
+</figure>
 
 ## Worked example: weak and strong paragraphs
 
@@ -106,6 +136,11 @@ Every sentence is a general claim. There is no evidence, no evaluation against t
 **Strong (learning).** "The most important change in my thinking came from Tomas's economic perspective. I began the project assuming that stallholders who left waste behind simply did not care. His interviews showed that many paid by the hour for their pitch and had to leave quickly, which made me see the problem as one of time and cost rather than attitude. That changed my own solution: instead of fines, I proposed collection points at the market's exits. I also learned to check who produced a source before using it; in my first draft I relied on a figure from a waste company's advertising, which I replaced with the council's own data."
 
 The strong paragraphs follow the pattern: specific event, what it shows, effect on the goal or on learning, and what would change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-reflective-paper--07-worked-example.webp" width="900" height="627" alt="The weak paragraph makes only general claims about teamwork and learning. The strong learning paragraph moves from a specific event, a teammate’s interviews about stallholders paying by the hour, to what it shows, how it changed the writer’s solution, and a new habit of checking who produced a source." loading="lazy">
+  <figcaption>Specific event, what it shows, its effect, what changes: in every paragraph.</figcaption>
+</figure>
 
 ## Writing fairly about teammates
 

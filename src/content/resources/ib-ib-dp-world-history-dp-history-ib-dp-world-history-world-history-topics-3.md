@@ -36,6 +36,16 @@ The content can be grouped into four themes:
 
 Common examples include Charlemagne and the Carolingians, the Abbasid caliphs, Song Taizu and the Song dynasty, William I of England, Mansa Musa of Mali, the Hongwu Emperor of the Ming, and Mehmed II of the Ottomans.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--01-four-themes.webp" width="900" height="570" alt="Four numbered themes form a cycle: legitimacy, gaining and consolidating power, rulers and religion, and expansion, succession and decline, with a dashed arrow from decline back to legitimacy." loading="lazy">
+  <figcaption>Gain, justify, use and lose power: the four themes of the topic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--02-rulers-timeline.webp" width="900" height="660" alt="A timeline from 750 to 1500 shows the reigns of Charlemagne (768-814), Song Taizu (960-976), William I (1066-1087) and the Hongwu Emperor (1368-1398), and marks Mansa Musa's pilgrimage of 1324-1325." loading="lazy">
+  <figcaption>The example rulers span the whole period and several regions.</figcaption>
+</figure>
+
 ## Legitimacy
 
 Rulers drew on different sources of authority, often several at once.
@@ -44,6 +54,11 @@ Rulers drew on different sources of authority, often several at once.
 - **Inheritance.** Hereditary succession was the norm, but rules differed: Frankish custom divided lands among sons, while other systems favoured a single heir.
 - **Conquest.** William I claimed the English throne by promise and kinship, but secured it by victory at Hastings (1066).
 - **Election or acclamation.** Steppe rulers needed confirmation by an assembly; Holy Roman emperors were elected by princes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--03-legitimacy.webp" width="900" height="623" alt="Four cards: religious sanction (the Mandate of Heaven, Charlemagne's coronation in 800, Abbasid descent from al-Abbas), inheritance (Frankish division among sons or a single heir), conquest (William I at Hastings in 1066) and election or acclamation (steppe assemblies, Holy Roman emperors elected by princes). Below, the Mandate of Heaven chain: misrule, mandate lost, successful rebellion, justified afterwards." loading="lazy">
+  <figcaption>Legitimacy came from God, birth, victory or choice, and had to be kept.</figcaption>
+</figure>
 
 ## Gaining and consolidating power
 
@@ -59,9 +74,19 @@ Rulers drew on different sources of authority, often several at once.
 
 Religion could strengthen or limit rulers. Charlemagne protected the papacy and promoted church reform, and religious uniformity supported his rule. In the Investiture Contest, Pope Gregory VII challenged the emperor Henry IV's right to appoint bishops; Henry's penance at Canossa (1077) showed that a ruler could be humbled by religious authority. Mansa Musa's pilgrimage to Mecca (1324-1325) and his patronage of mosques and scholars in Timbuktu linked his rule to the wider Islamic world, strengthening his prestige at home and abroad. Under the Abbasids, the caliphs' religious authority survived long after their political power was taken over by military dynasties.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--04-rulers-religion.webp" width="900" height="429" alt="A spectrum from religion strengthening the ruler to religion limiting the ruler. Mansa Musa and Charlemagne sit at the strengthening end, the Abbasid caliphs in between, and Henry IV, humbled at Canossa in 1077, at the limiting end." loading="lazy">
+  <figcaption>Religion could raise a ruler's prestige or humble an emperor.</figcaption>
+</figure>
+
 ## Expansion, succession and decline
 
 Succession was the most dangerous moment for any dynasty. Charlemagne's empire passed intact to Louis the Pious, but Louis's sons fought each other and divided it by the Treaty of Verdun (843). The Abbasids' dependence on Turkish slave soldiers allowed military commanders to dominate the caliphs, and in 945 the Buyids took control of Baghdad, leaving the caliph a religious figurehead. Overexpansion, fiscal strain, rebellion and foreign invasion appear repeatedly, but you should explain which mattered most in each case.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--05-succession-decline.webp" width="900" height="575" alt="Two chains. Carolingians: Charlemagne's empire passes intact to Louis the Pious, whose sons fight and divide it by the Treaty of Verdun in 843. Abbasids: dependence on Turkish slave soldiers lets commanders dominate the caliphs; in 945 the Buyids take Baghdad and the caliph becomes a religious figurehead. Chips list recurring causes of decline." loading="lazy">
+  <figcaption>Succession disputes and military dependence both broke dynasties apart.</figcaption>
+</figure>
 
 ## Worked example: a comparative essay plan
 
@@ -79,6 +104,11 @@ Succession was the most dangerous moment for any dynasty. Charlemagne's empire p
 
 **Conclusion:** both consolidated power successfully, but their methods reflected the threats they faced: William feared English rebellion, Taizu feared his own generals.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--06-william-taizu.webp" width="900" height="646" alt="A grid compares William I and Song Taizu on rivals, military control, administration and legitimacy. Below, the conclusion: William feared English rebellion and relied on a new military aristocracy; Taizu feared his own generals and put the military under civilian officials." loading="lazy">
+  <figcaption>Their methods reflected the threats each ruler faced.</figcaption>
+</figure>
+
 ## Criteria for judging a ruler
 
 Paper 2 questions on rulers are often evaluative, so decide your criteria before you write. Four work for most examples:
@@ -89,6 +119,11 @@ Paper 2 questions on rulers are often evaluative, so decide your criteria before
 - **Durability**: did the system survive the ruler's death and pass to an heir intact?
 
 Applied consistently, these criteria let you compare very different rulers. Charlemagne scores highly on acceptance and reach in his lifetime but less on durability; the Hongwu Emperor's institutions outlasted him, although his chosen heir, his grandson, was overthrown by an uncle within four years, and his reliance on terror left officials fearful and the throne isolated. Historians often contrast personal rule, which depended on the ruler's energy and presence, with institutional rule, which could survive a weak successor. That distinction is a strong organising idea for a conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--07-criteria.webp" width="900" height="624" alt="Four criteria cards: security, reach, acceptance and durability. Applied to Charlemagne, they show strong acceptance and reach in his lifetime but weak durability; applied to the Hongwu Emperor, institutions that outlasted him despite his heir's overthrow and an isolated throne. A note contrasts personal and institutional rule." loading="lazy">
+  <figcaption>Security, reach, acceptance, durability: the same tests for every ruler.</figcaption>
+</figure>
 
 ## Common mistakes
 

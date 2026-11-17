@@ -86,6 +86,21 @@ housing shortages that have wider causes. Media coverage can amplify fear, and p
 may use migration as an issue. Negative perceptions feed **discrimination** in jobs and housing, which
 keeps many migrants in low-paid work and reinforces inequality inside the receiving society.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--01-push-pull-model.webp" width="900" height="595" alt="Lee’s model: push factors at the origin drive people out, pull factors at the destination attract them, and intervening obstacles such as cost, distance and border controls lie between. Globalisation creates push factors, lowers obstacles and makes pull factors visible." loading="lazy">
+  <figcaption>Globalisation changes push factors, obstacles and pull factors at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--02-migration-gains-losses.webp" width="900" height="701" alt="Three columns. Sending societies gain remittances but lose trained workers through brain drain. Migrants gain wages, safety and education but face exploitation, separation and discrimination. Receiving societies gain workers and taxes but may face pressure on housing and services. The kafala system shows how migrants can lack power." loading="lazy">
+  <figcaption>Migration brings gains and losses to sending societies, receiving societies and migrants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--03-scapegoating-chain.webp" width="900" height="614" alt="A chain: migrants are stereotyped and scapegoated, media and political campaigns amplify fear, this feeds discrimination in jobs and housing, and many migrants are kept in low-paid work, reinforcing inequality." loading="lazy">
+  <figcaption>Scapegoating feeds discrimination, which keeps migrants in low-paid work.</figcaption>
+</figure>
+
 ## Global ecological issues (3.3.2)
 
 ### Transnational companies (TNCs)
@@ -127,6 +142,16 @@ Nairobi are well-known examples — often without secure tenure, clean water or 
 growth can bring opportunity and higher incomes, but also concentrates poverty and exposure to
 pollution and flooding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--04-ecological-costs.webp" width="900" height="730" alt="Profits from TNC production and products from mining flow up to richer societies, while costs flow down to poorer ones: factory disasters such as Bhopal and Rana Plaza, climate effects, hazardous e-waste and polluted land and water." loading="lazy">
+  <figcaption>The costs of global production often fall on poorer societies; the profits flow elsewhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--05-urbanisation.webp" width="900" height="452" alt="Globalisation speeds the move from countryside to city; where housing and infrastructure cannot keep up, informal settlements such as Dharavi and Kibera grow. Cities bring work and higher incomes but also insecure tenure, poor water and sanitation, concentrated poverty, pollution and flooding." loading="lazy">
+  <figcaption>Fast urban growth brings both opportunity and concentrated poverty.</figcaption>
+</figure>
+
 ## Explaining global inequality (3.3.3)
 
 ### Marxist views of capitalist exploitation
@@ -164,6 +189,16 @@ Feminists argue that global inequality is also gendered:
 - **Ownership** — women's limited access to land, credit and property in many societies keeps them
   poorer than men.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--06-world-systems.webp" width="900" height="681" alt="Concentric rings show Wallerstein’s core, semi-periphery and periphery, with surplus flowing to the core. Frank’s dependency theory says rich metropolis countries developed by draining surplus from poor satellites. Today’s examples are TNC profits, unequal trade and debt repayments." loading="lazy">
+  <figcaption>For Marxists, poor countries are poor because of the global system, not despite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--07-colonial-and-feminist.webp" width="900" height="635" alt="Colonialism: after the Berlin Conference of 1884–85, colonial rule extracted resources, built transport to ports, drew borders that ignored communities and limited education, leaving dependence on raw-material exports and neo-colonialism. Feminist explanations: women’s low-paid assembly work, migration as carers, extra environmental burden and limited ownership." loading="lazy">
+  <figcaption>Colonial rule left economies dependent; patriarchy makes global inequality gendered.</figcaption>
+</figure>
+
 ## Worked example: Question 3(e)-style "discuss"
 
 *Discuss the impact of transnational companies on inequalities between societies.*
@@ -179,6 +214,11 @@ Feminists argue that global inequality is also gendered:
 >
 > Overall, TNCs bring real opportunities but on unequal terms; their effect depends on how strongly
 > host governments regulate wages, safety and pollution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--08-tncs-discuss.webp" width="900" height="657" alt="A balance weighing ways TNCs reduce inequality (investment, jobs, technology, taxes, income for women) against ways they increase it (low-wage locations, profits flowing to core shareholders, disasters, reliance on young women’s low pay). The judgement depends on host-government regulation." loading="lazy">
+  <figcaption>TNCs bring opportunity on unequal terms.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -35,6 +35,11 @@ This guide covers the second strand of geographical enquiry in section 3.3.2 of 
 
 The specification also accepts alternative methods where practical fieldwork is not possible, but they "must go beyond the students being presented with pre-processed data that is ready for analysis": for example, selecting data from internet sources, working with raw data provided by the teacher, or interviewing people in school or at home.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--01-data-types.webp" width="900" height="619" alt="Two ways to classify data. Primary data are collected first-hand, such as measurements and questionnaires; secondary data are collected by others, such as census data, maps and GIS layers. Quantitative data are numerical, such as river width; qualitative data are descriptive, such as interviews and photographs." loading="lazy">
+  <figcaption>Data are primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
 ## Physical data: common methods
 
 | Variable | Equipment | Method |
@@ -49,6 +54,16 @@ The specification also accepts alternative methods where practical fieldwork is 
 | Microclimate | Thermometer, anemometer | Record temperature and wind speed at the same height at each site |
 
 **Using the numbers.** Width and mean depth give the channel's cross-sectional area (width × mean depth). Multiplied by velocity, this gives discharge, the volume of water passing a point each second. This is the kind of quantitative relationship the specification's numerical skills cover.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--02-river-measurements.webp" width="900" height="698" alt="A river cross-section: width is measured with a tape across the water surface from bank to bank, and depth with a metre rule at ten equal intervals to give a mean. In plan view, a float is timed three times over a measured 10 m. Width times mean depth gives cross-sectional area; area times velocity gives discharge." loading="lazy">
+  <figcaption>Width, mean depth and velocity combine to give discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--03-beach-quadrat.webp" width="900" height="674" alt="A beach profile cross-section from the sea to the back of the beach, with ranging poles at each change of slope and a clinometer measuring the angle between them. Below, a quadrat used to estimate percentage plant cover, pebbles measured on their longest axis and compared with a roundness chart, and temperature and wind measured at the same height at each site." loading="lazy">
+  <figcaption>Match the equipment to the variable your hypothesis names.</figcaption>
+</figure>
 
 ## Human data: common methods
 
@@ -80,6 +95,11 @@ You cannot measure everything, so you take a **sample**. The specification asks 
 
 **Sample size.** A larger sample is usually more reliable, because one unusual reading has less effect on the results. But time and safety limit what is possible. A sensible plan states the number of sites, the number of readings at each, and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--04-sampling.webp" width="900" height="720" alt="Three plan views of ten quadrats. Random: scattered by random coordinates. Systematic: at regular intervals. Stratified: a field that is 70% grass and 30% woodland gets seven quadrats on grass and three in woodland. Below, a place can be sampled at points, along lines or transects, or within areas." loading="lazy">
+  <figcaption>Random avoids bias, systematic gives even coverage, stratified represents every group.</figcaption>
+</figure>
+
 ## Designing a data collection sheet
 
 A good recording sheet makes data collection quick, accurate and consistent. It should include:
@@ -97,6 +117,11 @@ A good recording sheet makes data collection quick, accurate and consistent. It 
 | 1 | 0.5 | | | | | | |
 | 2 | 1.5 | | | | | | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--05-recording-sheet.webp" width="900" height="684" alt="A river-study recording sheet with a title, date, time and weather line, then columns for site, distance from source, width, depth readings, mean depth, three float times over 10 m, mean time and notes. Labels mark the five features a good sheet needs." loading="lazy">
+  <figcaption>Units, repeats and a notes column make the data quick, accurate and consistent.</figcaption>
+</figure>
+
 ## Accuracy, reliability, procedures and control groups
 
 | Term | Meaning | How to improve it |
@@ -109,6 +134,11 @@ A good recording sheet makes data collection quick, accurate and consistent. It 
 
 Results can be reliable without being accurate: a faulty thermometer that always reads 2 °C too high gives consistent but wrong readings.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--06-accuracy-reliability.webp" width="900" height="771" alt="Three targets: readings clustered on the true value are accurate and reliable; readings clustered away from it are reliable but not accurate, like a thermometer that always reads 2 °C too high; scattered readings are neither. Below, how to improve accuracy, reliability, procedures and use a control group such as grass beside tarmac." loading="lazy">
+  <figcaption>Results can be consistent and still wrong: reliability is not accuracy.</figcaption>
+</figure>
+
 ## Describing and justifying methods
 
 The specification asks for "description and justification of data collection methods". In an exam, a **description** says exactly what was done, so that someone else could repeat it. A **justification** says why it was a good choice for the enquiry.
@@ -120,6 +150,11 @@ The specification asks for "description and justification of data collection met
 **Model answer:** "To test whether river velocity increased downstream, I timed an orange float over a measured 10 m stretch in the centre of the channel at each of six sites, three times per site, and calculated the mean. I used a float because it was cheap and quick, so we could measure all six sites in one day. Repeating the reading three times reduced the effect of the float catching on a rock, which made the results more reliable. Measuring in the centre of the channel at every site kept the procedure the same, so the sites could be fairly compared."
 
 The answer describes equipment, distance, position, repeats and sites, then gives three justifications linked to the hypothesis, time, reliability and fairness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--07-describe-justify.webp" width="900" height="630" alt="The model answer on timing a float split into description, equipment, a measured 10 m, the centre of the channel, three repeats and six sites, and justification: it was quick enough for all sites in one day, repeats improved reliability, and the same position kept the test fair." loading="lazy">
+  <figcaption>Describe so it can be repeated; justify by linking to the enquiry.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -50,6 +50,11 @@ The syllabus does not publish how the 25 marks are split between questions. The 
 page and on the linked practice set are practice values, chosen to show how the length of an answer
 should follow its tariff.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--01-part-1-at-a-glance.webp" width="900" height="600" alt="Part 1 is worth 25 marks, half of Paper 1: one non-literary text of about 400 words, no choice of questions, and all answers in Urdu. The text is an article, report or opinion piece, not a story or poem, drawn from four topic areas." loading="lazy">
+  <figcaption>A factual text, compulsory questions, and every answer in Urdu.</figcaption>
+</figure>
+
 ## The four reading objectives in practice
 
 Part 1 is marked against four objectives. Each one points to a different kind of question.
@@ -75,6 +80,16 @@ worried". You infer the attitude from word choice and tone. *افسوس کی ب�
 *بدقسمتی سے*، *آخرکار* each carry a judgement. A good R4 answer names the attitude and points to
 the words that show it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--02-four-objectives.webp" width="900" height="640" alt="R1 asks you to find and convey a fact, as in مضمون کے مطابق ... کب شروع ہوا؟; R2 to order ideas and tell fact from opinion; R3 to select only what fits the question's key word, such as وجوہات or نقصانات; R4 to infer the writer's attitude from word choice and tone." loading="lazy">
+  <figcaption>Each objective points to a different kind of question and answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--03-fact-opinion-attitude.webp" width="900" height="934" alt="فنی اداروں میں داخلے بڑھ رہے ہیں is presented as fact, while ہر محنت قابلِ احترام ہے is a judgement. Opinions are signalled by خیال ہے، رائے میں، چاہیے and یوں لگتا ہے; attitude by words such as افسوس کی بات یہ ہے، خوش آئند، بدقسمتی سے and آخرکار." loading="lazy">
+  <figcaption>Signal words separate opinion from fact and reveal the writer's attitude.</figcaption>
+</figure>
+
 ## Matching answer length to the question
 
 "Answers of differing lengths" is a deliberate part of the design. Let the tariff decide:
@@ -87,6 +102,11 @@ the words that show it.
 
 Writing four lines for a one-mark question wastes time you need for the composition in Part 2.
 Writing one line for a four-mark question gives away marks you could have earned.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--04-answer-length.webp" width="900" height="654" alt="Three answer sizes: one mark needs a phrase or short sentence with one point; two marks need two points or a point and its reason, linked by کیونکہ or اس لیے کہ; three or more marks need a short paragraph with a clause per mark." loading="lazy">
+  <figcaption>One mark, one point: count your points against the marks.</figcaption>
+</figure>
 
 ## Putting answers into your own words
 
@@ -102,6 +122,11 @@ that you can locate it, not that you understood it. Three methods work well in U
 
 Key technical words with no simple equivalent (for example *فنی تعلیم*) can stay. The test is
 whether your sentence is built by you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--05-own-words.webp" width="900" height="800" alt="Three rewording methods with the guide's examples: change the word (کم تر سمجھا جاتا تھا becomes اسے حقیر جانا جاتا تھا), change the grammar (داخلوں میں اضافہ becomes زیادہ طلبہ داخلہ لے رہے ہیں) and change the angle (روزگار جلد مل جاتا ہے becomes انھیں نوکری کے لیے زیادہ انتظار نہیں کرنا پڑتا)." loading="lazy">
+  <figcaption>Rebuild the sentence yourself; technical terms such as فنی تعلیم can stay.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -138,6 +163,11 @@ weaker answer stops after the first clause and earns one mark.
 *Commentary:* an R4 answer. It names the attitude (approval, relief) and supports it with one word
 from the text. Saying only "the writer is positive" with no evidence would earn at most one mark.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--06-worked-answers.webp" width="900" height="984" alt="Three answers to the worked passage. (a) [1] gives one reworded point. (b) [2] gives the teachers' suggestion and its purpose, joined by تاکہ. (c) [2] names the writer's attitude, pleasure at the change, and supports it with the word آخرکار." loading="lazy">
+  <figcaption>Each mark is a visible point: a suggestion and its purpose, an attitude and its evidence.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Answering from general knowledge.** Every answer comes from the passage. A true statement about
@@ -163,6 +193,11 @@ from the text. Saying only "the writer is positive" with no evidence would earn 
 6. Paper 1 is 1 hour 30 minutes for 50 marks, split equally between reading and writing, so do not
    let Part 1 take much more than half the paper. Leave the last few minutes to check agreement and
    spelling in both parts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension--07-exam-technique.webp" width="900" height="769" alt="Five steps: read the questions first, read the passage through, find the lines and read around them, mark the question word and tariff, and keep Part 1 to about half of the 1 hour 30 minutes. کیوں asks for a reason, کیسے for a method and کیا فرق ہے for both sides of a comparison." loading="lazy">
+  <figcaption>Questions first, then the passage, then one point per mark.</figcaption>
+</figure>
 
 ## Related resources
 

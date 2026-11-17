@@ -37,6 +37,11 @@ So your report needs three layers, not one:
 
 Most weak methods sections stop at layer 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--01-three-layers.webp" width="900" height="619" alt="Three layers of a methods section: methods, what you did; procedure, how you did it; and methodology, why those methods suit this kind of question in this subject and what they allow you to conclude. Most weak methods sections stop at the first layer." loading="lazy">
+  <figcaption>Say what you did, how, and why it suits the question; most weak answers stop at what.</figcaption>
+</figure>
+
 ## Step 1: work out what kind of question you have asked
 
 The fastest route to appropriate methods is to recognise what your question needs as evidence. Many research questions combine more than one of these.
@@ -49,6 +54,11 @@ The fastest route to appropriate methods is to recognise what your question need
 | Explanatory: why does X happen? | "Why has X declined?" | Evidence that tests competing explanations | Literature review plus data that can separate the explanations |
 
 The syllabus's own suggested title, "Is industrialisation a good thing?", is normative. A normative question cannot be answered by data alone: data can tell you what industrialisation has done, but a judgement about whether that is "good" needs arguments about which outcomes matter most. Your methodology should say so.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--02-question-type-methods.webp" width="900" height="788" alt="Four question types matched to evidence and methods. Empirical questions need measurement and suit data analysis, surveys or experiments; interpretive questions need close reading and suit text analysis or interviews; normative questions need arguments about values plus evidence of consequences; explanatory questions need evidence that tests competing explanations." loading="lazy">
+  <figcaption>The kind of question decides the evidence, and the evidence decides the method.</figcaption>
+</figure>
 
 ## Step 2: check the conventions of the subject area
 
@@ -72,9 +82,19 @@ Choosing a method is not enough; the syllabus asks you to explain "how they carr
 
 **Experiments.** Decide what you will vary, what you will measure and what you will hold constant. Consider safety; the syllabus says teachers "should be satisfied that the research does not raise safety issues for the candidates".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--03-design-decisions.webp" width="900" height="624" alt="Six methods with their design decisions: a literature review needs a search strategy, inclusion rules and organisation by perspective; text analysis needs chosen passages and an alternative reading; interviews need participants, open questions and theme analysis; surveys need sampling and piloting; data need checked definitions; experiments need controlled variables and safety." loading="lazy">
+  <figcaption>Choosing a method is not enough; explain how you carried it out.</figcaption>
+</figure>
+
 ## Step 4: combine methods where one is not enough
 
 The syllabus allows "a mixture of the methods above". Mixing works when each method answers a part of the question the other cannot, or when one checks the other. For example, national data can show that a change happened, and interviews can show how people experienced it. If both point the same way, your conclusion is more secure; if they conflict, the conflict is itself a finding to discuss. Within 5000 words, two well-designed methods are usually more manageable than four thin ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--04-mixing-methods.webp" width="900" height="603" alt="National data shows that a change happened; interviews show how people experienced it. Comparing them gives two outcomes: if both point the same way the conclusion is more secure, and if they conflict the conflict is a finding to discuss. Two well-designed methods are usually more manageable than four thin ones." loading="lazy">
+  <figcaption>Mix methods so each answers what the other cannot, or checks it.</figcaption>
+</figure>
 
 ## Step 5: research ethics
 
@@ -87,6 +107,11 @@ The syllabus asks teachers to help candidates "consider research ethics and conv
 
 Mention in your methods section how you met these conventions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--05-research-ethics.webp" width="900" height="545" alt="Four ethical conventions for research involving people: informed consent, anonymity and confidentiality, the right to withdraw at any point, and sensitivity and safety for participants and the researcher." loading="lazy">
+  <figcaption>Show in the methods section how each convention was met.</figcaption>
+</figure>
+
 ## Step 6: write the methods section
 
 A strong methods section answers five questions in order: What did I do? How exactly? Why does this suit my question and subject? What are the limits of this approach? How do those limits affect what I can conclude?
@@ -96,6 +121,11 @@ A strong methods section answers five questions in order: What did I do? How exa
 > "This question has an empirical part (what league tables measure) and a normative part (whether that is a fair basis for judgement), so I used two methods. First, I analysed five years of published exam results for 40 schools in one region alongside the share of pupils eligible for free meals, to test whether rankings mainly reflected intake rather than teaching. I chose published data because it is the information league tables are actually built from. Second, I reviewed academic and policy literature on school accountability, found through a university library search and the reference lists of two key reviews, and grouped it into perspectives that defend and criticise league tables. Education research usually combines outcome data with argument about what schools are for, because data alone cannot settle what 'quality' means. The limit of this approach is that my data come from one region, so my finding about intake may not hold nationally, and it does not include pupils' or parents' views, so my conclusion is about measurement rather than about how league tables are experienced."
 
 The paragraph names the methods, explains the procedure briefly, justifies the choice by the question's two parts and by subject conventions, and states limits with their consequences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--06-methods-section.webp" width="900" height="695" alt="Five questions in order, each answered from the league-tables example: what was done, how exactly, why it suits the question and subject, what the limits are, and how those limits affect the conclusion." loading="lazy">
+  <figcaption>Name, describe, justify, limit, then apply the limit to the conclusion.</figcaption>
+</figure>
 
 ## How methodology shapes your conclusion
 
@@ -107,6 +137,11 @@ Your methods set the boundary of what you can claim. Some common boundaries:
 - A normative judgement needs explicit reasoning about values, not only evidence of outcomes.
 
 The syllabus asks you to "reflect on their conclusions (AO2)" and to "reflect on and justify the scope, nature and limitations" of your report. Linking the limits of your methods to the strength of your conclusion meets both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--07-boundary-of-claims.webp" width="900" height="629" alt="Four kinds of evidence with what each can and cannot support: qualitative evidence from a few people shows how and why but not how common; data from one place supports conclusions about that place first; correlation does not establish cause alone; outcome evidence needs explicit reasoning about values to support a normative judgement." loading="lazy">
+  <figcaption>State the boundary your methods set, and keep your conclusion inside it.</figcaption>
+</figure>
 
 ## Common mistakes
 

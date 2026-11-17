@@ -38,6 +38,11 @@ The sections run broadly from the medieval period to the end of the twentieth ce
 
 Paper 3 questions often name a specific country, leader or period, so your notes must be precise on chronology and detail within each section.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## Content area 1: imperialism and resistance
 
 **Why Europeans partitioned Africa.** Explanations combine economic motives (raw materials, markets, investment), strategic rivalry (Britain's concern for the route to India through Egypt and the Suez Canal), nationalism and prestige, and technology that made conquest cheaper: quinine against malaria, steamships and the machine gun. The Berlin Conference (1884-85) set rules for claims, including "effective occupation". By 1914 only Ethiopia and Liberia remained independent.
@@ -54,6 +59,16 @@ Paper 3 questions often name a specific country, leader or period, so your notes
 
 **Depth question to prepare:** why did some resistance succeed while most failed? Weigh firepower, African unity or division, leadership, terrain and the resources of the European power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--01-partition-motives.webp" width="900" height="549" alt="Four explanations surround the partition of Africa: economic motives, strategic rivalry over the route to India, nationalism and prestige, and technology such as quinine, steamships and the machine gun. They lead to the Berlin Conference of 1884-85, which set the rule of effective occupation; by 1914 only Ethiopia and Liberia were independent." loading="lazy">
+  <figcaption>Explanations combine motive and means; the Berlin Conference set the rules for claims.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--02-african-responses.webp" width="900" height="846" alt="Five cases of African response on a time scale from 1880 to 1910. The Mahdist state lasted from 1885 until defeat at Omdurman in 1898; Samori Touré resisted France until captured in 1898; the Herero and Nama were destroyed in 1904-08; Maji Maji in 1905-07 was suppressed. Only Ethiopia, after victory at Adwa on 1 March 1896, preserved its independence." loading="lazy">
+  <figcaption>Most resistance was crushed; Ethiopia at Adwa is the exception to explain.</figcaption>
+</figure>
+
 ## Content area 2: South Africa, 1880s to 1994
 
 | Period | Key developments |
@@ -66,6 +81,16 @@ Paper 3 questions often name a specific country, leader or period, so your notes
 
 **Depth question to prepare:** why did apartheid end? Balance internal resistance (township uprisings, unions, the UDF), economic pressure (sanctions, disinvestment, recession), the end of the Cold War (which removed the "communist threat" argument), and the decisions of de Klerk and Mandela.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--03-south-africa-phases.webp" width="900" height="852" alt="A bar from 1899 to 1994 split to scale into the five periods 1899-1910, 1910-48, 1948-60, 1960-76 and 1976-94. Key dates hang below, from the Natives Land Act of 1913 and the National Party victory of 1948 to Sharpeville in 1960, Soweto in 1976, Mandela's release in 1990 and the elections of 27 April 1994." loading="lazy">
+  <figcaption>Apartheid had phases: learn which laws and protests belong to which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--04-why-apartheid-ended.webp" width="900" height="479" alt="Four factor cards, internal resistance, economic pressure, the end of the Cold War and the decisions of de Klerk and Mandela, each with an arrow into one box: apartheid ends, from Mandela's release on 11 February 1990 to the elections of 27 April 1994." loading="lazy">
+  <figcaption>No single factor ended apartheid: weigh all four.</figcaption>
+</figure>
+
 ## Content area 3: the Middle East after 1945
 
 **Egypt under Nasser.** The Free Officers' coup (July 1952) overthrew the monarchy; Nasser became the dominant figure. Domestic policy: land reform, nationalization, the Aswan High Dam, one-party rule. Foreign policy: nationalization of the Suez Canal Company (July 1956) and political victory in the Suez crisis that followed; the United Arab Republic with Syria (1958-61); defeat in the Six-Day War (June 1967).
@@ -73,6 +98,16 @@ Paper 3 questions often name a specific country, leader or period, so your notes
 **The Arab-Israeli conflict.** The British mandate in Palestine ended with the declaration of Israel (14 May 1948) and the war of 1948-49, in which several hundred thousand Palestinians became refugees. Later wars came in 1956, 1967 and 1973; the October 1973 war was followed by the Arab oil embargo. Sadat's diplomacy led to the Camp David Accords (1978) and the Egypt-Israel peace treaty (1979); he was assassinated in October 1981.
 
 **Iran.** Mosaddegh nationalized the oil industry (1951) and was overthrown in a coup backed by Britain and the USA (1953). The Shah's White Revolution (from 1963) brought land reform and modernization alongside repression by the SAVAK secret police. Mass protest in 1978 forced the Shah to leave in January 1979; Khomeini returned on 1 February, and the Islamic Republic was established after a referendum that spring.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--05-egypt-arab-israeli-wars.webp" width="900" height="751" alt="A vertical timeline from 1948 to 1981. Gold dots mark the four wars: 1948 (after Israel was declared on 14 May), 1956 (the Suez crisis after Nasser nationalized the canal company), the Six-Day War of June 1967 and the October 1973 war followed by the oil embargo. Other entries: the Free Officers' coup of 1952, the United Arab Republic of 1958-61, Camp David in 1978, the peace treaty of 1979 and Sadat's assassination in 1981." loading="lazy">
+  <figcaption>Four wars, four sets of causes and results: 1948, 1956, 1967, 1973.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--06-iran-road-to-1979.webp" width="900" height="725" alt="A vertical timeline of Iran: Mosaddegh nationalizes oil in 1951 and is overthrown in a coup backed by Britain and the USA in 1953; the White Revolution from 1963; the single-party Rastakhiz system of 1975; economic crisis after 1975; mass protest in 1978; the Shah leaves in January 1979, Khomeini returns on 1 February and the Islamic Republic is established after a referendum that spring." loading="lazy">
+  <figcaption>Modernization, repression and economic crisis came before the revolution of 1978-79.</figcaption>
+</figure>
 
 ## Worked example: a Paper 3 plan
 
@@ -88,6 +123,11 @@ Paper 3 questions often name a specific country, leader or period, so your notes
 **Conclusion:** return to "necessary but not sufficient", and identify the coalition of opposition groups as the factor that made 1978-79 different from earlier protests.
 
 Annotation: each paragraph tests the question's named factor, the evidence is dated and specific, and the conclusion uses the language of causation. That is what moves an essay from the middle markbands to the top.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--07-iran-essay-plan.webp" width="900" height="791" alt="An essay plan. A thesis banner says modernization was a necessary but not sufficient cause. Four numbered paragraphs of about 10 minutes each follow: modernization's effects (the named factor), then repression and exclusion, economic crisis, and leadership and ideology. The conclusion returns to the thesis and names the coalition of opposition groups as what made 1978-79 different." loading="lazy">
+  <figcaption>Test the named factor first, then weigh the alternatives against it.</figcaption>
+</figure>
 
 ## Common mistakes
 

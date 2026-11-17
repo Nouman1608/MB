@@ -41,6 +41,11 @@ The syllabus lists seven skills, four under AO1 and three under AO3:
 
 The presentation should also "be engaging to a non-specialist audience", "include audio and visual elements in an effective way" and "use appropriate terms and cite references clearly and accurately".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-team-project--03-presentation.webp" width="900" height="658" alt="The presentation can be a live recording to at least three people including the teacher, or slides with a recorded voiceover, and lasts at most 10 minutes. AO1 rewards individual analysis, range of research, source evaluation and justification of the solution; AO3 rewards organisation, visual information and language suited to the audience." loading="lazy">
+  <figcaption>AO1 research and evaluation carry most weight; polish matters, but less.</figcaption>
+</figure>
+
 ## Step 1: your individual analysis of the problem
 
 Your team agreed one problem statement. Your analysis is your own reading of it through your perspective. A strong analysis answers four questions:
@@ -49,6 +54,11 @@ Your team agreed one problem statement. Your analysis is your own reading of it 
 2. **What causes it?** Causes are what a solution must act on; a solution that ignores the cause will not be effective.
 3. **How is it globally relevant?** The syllabus asks teams to explore the problem "from local and global perspectives". Show the same problem, or the same cause, elsewhere.
 4. **What does your perspective highlight?** An economic perspective asks about costs and incentives; an environmental one about harm and sustainability; a social one about who gains and loses. Your perspective should shape which causes you emphasise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--01-individual-analysis.webp" width="900" height="674" alt="From the team’s shared problem statement, each member’s analysis answers four questions: what the problem is locally, what causes it, how it is globally relevant, and what their perspective highlights. Economic perspectives ask about costs and incentives, environmental ones about harm and sustainability, social ones about who gains and loses." loading="lazy">
+  <figcaption>Your perspective decides which causes you emphasise, and the causes decide the solution.</figcaption>
+</figure>
 
 ## Step 2: range of research
 
@@ -60,6 +70,11 @@ Aim for research that covers both scales and more than one type of evidence:
 
 The most useful global research for your solution is evidence about **what happened when someone tried it**. A solution you can show working in a comparable place is much easier to justify.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--02-range-of-research.webp" width="900" height="543" alt="Research should cover local evidence, such as local data, observations and interviews, and global evidence on the same problem and solutions tried elsewhere, using data for scale, expert analysis for explanation and case studies for what has worked." loading="lazy">
+  <figcaption>Look hardest for evidence of what happened when your solution was tried.</figcaption>
+</figure>
+
 ## Step 3: evaluating sources out loud
 
 In a presentation, evaluation must be short enough to say in a sentence and clear enough to follow by ear:
@@ -68,6 +83,11 @@ In a presentation, evaluation must be short enough to say in a sentence and clea
 - "This study is from a much larger city, so its results may overstate what we could achieve here."
 
 Put the full reference on the slide and the evaluative point in what you say. Both appear in the transcript.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--03-evaluating-out-loud.webp" width="900" height="498" alt="The slide carries the evidence and its full reference; the spoken sentence carries the evaluative point, for example that a figure comes from the council’s survey of every household and so is the most complete local data. Both appear in the transcript." loading="lazy">
+  <figcaption>Reference on the slide, evaluation in one spoken sentence.</figcaption>
+</figure>
 
 ## Step 4: building a solution that is "effective and workable"
 
@@ -89,6 +109,16 @@ The syllabus pairs two words, and they are different tests:
 
 Your teammates will propose different solutions from their perspectives. You do not need to agree with them, but acknowledging a teammate's alternative and explaining why you still prefer yours can strengthen your justification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--04-effective-workable.webp" width="900" height="454" alt="Two separate tests for a solution. Effective: does it act on the identified causes, and what evidence shows it would reduce the problem and by how much. Workable: who would carry it out, what it would cost and who pays, how long it would take, and whether the people affected would accept it." loading="lazy">
+  <figcaption>A justified solution passes both tests better than the alternatives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--05-justification-structure.webp" width="900" height="663" alt="Six steps to justify a solution: state it precisely, link it to the cause, give the evidence that it works with its limits, show it is workable, compare it briefly with an alternative, and answer the strongest objection." loading="lazy">
+  <figcaption>Evidence and workability, steps 3 and 4, carry the justification.</figcaption>
+</figure>
+
 ## Step 5: organising ten minutes
 
 The syllabus sets a maximum of 10 minutes, and "Work beyond the maximum running time will not be included in the assessment." The timing below is one sensible plan, not a syllabus requirement:
@@ -102,6 +132,11 @@ The syllabus sets a maximum of 10 minutes, and "Work beyond the maximum running 
 | Conclusion: why this solution, what next | 1 minute |
 
 The solution and its justification deserve the largest share, because that is where your research becomes an argument.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--06-ten-minutes.webp" width="900" height="513" alt="A ten-minute timeline: the problem locally and globally 1.5 to 2 minutes, perspective and causes 2, research with source evaluation 2 to 2.5, solution and justification 3, and conclusion 1. Anything beyond 10 minutes is not assessed." loading="lazy">
+  <figcaption>Give the solution the biggest slice, and stop at 10 minutes.</figcaption>
+</figure>
 
 ## Visual information and language (AO3)
 
@@ -118,6 +153,11 @@ Team problem statement: "Food from school canteens in our town is thrown away wh
 > "My solution is for the town's six secondary schools to give their unsold canteen food each day to the community food bank, collected by its volunteers on an agreed route. This tackles the cause I identified: schools pay to dispose of food because there is no simple way to pass it on. The food bank's own records show that it already collects from two supermarkets on the same streets, so the route exists; that is a local source, but it is the only record of the bank's capacity, and I checked it with the bank's coordinator. A study of a similar scheme in a city of comparable size found that most surplus school food could be redistributed this way, although that city had paid drivers, so our volunteer-based version may collect less. The cost to schools is lower than disposal, which is why I think headteachers will accept it. A teammate argued instead for reducing waste at source by changing menus; that is better for the environment, but it does nothing for families in need this year, and on my economic criteria the redistribution scheme gives more benefit for less cost."
 
 The passage states the solution, links it to a cause, evaluates two sources in passing, tests workability, compares with an alternative and reaches a reasoned preference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-team-project-presentation--07-worked-example.webp" width="900" height="645" alt="The canteen-food example broken into its moves: it states the solution precisely, links it to the cause, evaluates the food bank’s records and a comparable city’s study, tests workability through cost, compares a teammate’s menu-change alternative, and reaches a reasoned preference on economic criteria." loading="lazy">
+  <figcaption>Each sentence of a strong justification does a distinct job.</figcaption>
+</figure>
 
 ## Common mistakes
 

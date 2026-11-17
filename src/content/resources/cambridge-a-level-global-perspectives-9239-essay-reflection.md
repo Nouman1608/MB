@@ -38,6 +38,11 @@ The Critical Path breaks the first of these into a sequence of questions: "What 
 
 Those five questions give you a structure for every piece of reflection in the essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--01-ao2-weight.webp" width="900" height="626" alt="AO2 Reflection is weighted at 22% of Component 2, the Essay, against 0% in the Written Exam. Below, the five Critical Path questions: viewpoint before research, how it relates to the perspectives, the impact of the research, why it had that effect, and what further research might help." loading="lazy">
+  <figcaption>Reflection is a fifth of the Essay mark, so it needs more than a closing sentence.</figcaption>
+</figure>
+
 ## The reflection sequence
 
 | Step | Critical Path question | What to write |
@@ -50,6 +55,11 @@ Those five questions give you a structure for every piece of reflection in the e
 
 The step that earns most credit is **step 4**. "My view changed" is a claim; "my view changed because the comparison of three countries showed that ..." is reflection, because it shows the reasoning that moved you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--02-reflection-sequence.webp" width="900" height="750" alt="Five steps: state your starting point, name the perspective that challenged or confirmed it, say whether your view was strengthened, qualified or reversed, give the specific argument or evidence that caused this, and suggest what would test your new view. Step 4, the reason, is highlighted as earning most credit." loading="lazy">
+  <figcaption>The reason your view moved, step 4, is where most of the credit lies.</figcaption>
+</figure>
+
 ## Three ways a view can move
 
 Reflection does not require a dramatic change of mind. The syllabus asks you to *evaluate the impact* of alternative perspectives, and the impact can take three forms:
@@ -60,6 +70,11 @@ Reflection does not require a dramatic change of mind. The syllabus asks you to 
 
 Do not invent a change of mind to look reflective. An honest account of a strengthened or qualified view, with reasons, is stronger than a reversal with no explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--03-three-movements.webp" width="900" height="591" alt="A starting view meets the strongest opposing case and ends up strengthened, qualified or reversed. Strengthened means explaining why the opposing argument did not persuade; qualified means the view holds only in some conditions; reversed means naming the argument or evidence that changed it." loading="lazy">
+  <figcaption>Any of the three outcomes counts as reflection, provided you give the reason.</figcaption>
+</figure>
+
 ## Where reflection goes in the essay
 
 Reflection can be woven through the essay or concentrated near the end, but it should not appear only in the last sentence.
@@ -69,6 +84,11 @@ Reflection can be woven through the essay or concentrated near the end, but it s
 - **Conclusion**: your personal, supported view, with the main reason your view moved or held, and the limits of your research.
 
 Reflection uses the first person. That is appropriate here: the syllabus asks about the impact on "the learner's own standpoint".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--04-where-reflection-goes.webp" width="900" height="596" alt="An essay strip from introduction to conclusion with reflective moments marked: one in the introduction stating the starting view, several within the evaluation as each perspective is weighed, and one in the conclusion giving the personal supported view, the reason it moved or held, and the limits of the research." loading="lazy">
+  <figcaption>Reflection is woven through the essay, not saved for the final sentence.</figcaption>
+</figure>
 
 ## Reflecting on the limits of your research
 
@@ -81,6 +101,11 @@ The second AO2 objective asks you to "consider the extent and limits of the lear
 
 Each limit should end with its consequence: "so my conclusion applies more confidently to ... than to ..."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--05-limits-of-research.webp" width="900" height="673" alt="Four kinds of limit, coverage, type of evidence, your own standpoint and unresolved disagreement between credible sources, each lead to a consequence statement: so my conclusion applies more confidently to one case than to another." loading="lazy">
+  <figcaption>Name a limit, then say what it does to your conclusion.</figcaption>
+</figure>
+
 ## Suggesting further relevant research
 
 The word **relevant** matters. A suggestion is relevant when it would help answer your essay question more securely, usually by filling one of the limits you have just identified. A strong suggestion has three parts:
@@ -91,6 +116,11 @@ The word **relevant** matters. A suggestion is relevant when it would help answe
 
 "More research is needed" or "I would like to interview experts" fails all three parts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--06-further-research.webp" width="900" height="584" alt="A strong suggestion has three parts, each with an example: what (household surveys from rural areas of countries that have introduced the policy), why (my sources are mostly from cities), and how it could change the judgement (the conclusion might need to be limited to cities). “More research is needed” fails all three." loading="lazy">
+  <figcaption>Say what to research, why, and how the result could change your judgement.</figcaption>
+</figure>
+
 ## Worked example
 
 Essay question: "Should countries make voting compulsory?"
@@ -100,6 +130,11 @@ Essay question: "Should countries make voting compulsory?"
 **Strong reflection.** "I began this essay convinced that compulsory voting was simply a way of making democracy more representative. The perspective that most challenged me was the liberty-based argument that a right includes the right not to use it; I had assumed that the only cost of compulsion was a small fine, and this argument showed me that the deeper question is what the state may demand of citizens. My view has therefore been qualified rather than reversed: the evidence that compulsion raises turnout among groups who usually vote least still persuades me that it improves representation, but I now think this only justifies compulsion where a genuine 'none of the above' option exists. My research relied mainly on studies of a small number of countries that already use compulsory voting, so I cannot say how it would work where trust in government is low. Comparative research on countries that introduced and later abolished compulsory voting would test whether the benefits I found last, and would show whether my conditional support is justified."
 
 The strong version includes all five steps of the sequence, names the argument that moved the writer, states the kind of movement (qualified), gives a limit with its consequence, and makes a specific, relevant suggestion for further research.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-essay-reflection--07-worked-example.webp" width="900" height="759" alt="For the question on compulsory voting, the weak reflection only says the writer can see both sides. The strong reflection covers every step: a starting view, the liberty-based argument that challenged it, a qualified view, the reason (turnout evidence, but only with a none-of-the-above option), a limit in the countries studied, and specific comparative research." loading="lazy">
+  <figcaption>The strong version names what moved the writer and how far.</figcaption>
+</figure>
 
 ## Common mistakes
 

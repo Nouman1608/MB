@@ -16313,3 +16313,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **Figures.** 605 new house-style figures plus 50 reused existing ones across 90 lessons in 15 courses (Cambridge 9084 Law; English Language and Literature for AQA, Cambridge, Edexcel and OxfordAQA; OxfordAQA 9218 Psychology; Cambridge 2058 Islamiyat; OxfordAQA 9245 World History), placed at the end of the section each illustrates. The topic-images report again lists 0 lessons and 0 AP guides without a figure.
 - **Correction.** `cambridge-a-level-law-9084-general-defences-and-remedies` listed aggravated damages under "Non-compensatory damages" while describing them as compensation; the heading is now "Other kinds of damages", and figure 04 matches.
 - Reuse was declined wherever an existing figure carried facts the new lesson does not state. Reviewer credits unchanged.
+
+## D-490 - Topic figures for the 79 newer lessons (17 Nov 2026)
+
+- Owner, 17 Nov 2026: "make figures for the 79 new lessons" (the D-488 pages that had no figure).
+- **Figures.** 554 new house-style figures plus 19 reused existing ones across 79 lessons in 11 courses (IB DP History and Computer Science; Cambridge IGCSE Sociology 0495, Islamiyat 0493 and Literature 0475; Cambridge 9239 Global Perspectives; Cambridge O Level English 1123 and Urdu 3247/3248; OxfordAQA 9230 Geography and 9292 Sociology), placed at the end of the section each illustrates. The topic-images report again lists 0 lessons and 0 AP guides without a figure.
+- No lesson-text errors were found. Figures with invented shapes or values say "illustrative" or "schematic" on the figure; history figures carry no maps beyond labelled schematics and draw no people; Islamiyat figures are text and diagrams only. Reviewer credits unchanged.

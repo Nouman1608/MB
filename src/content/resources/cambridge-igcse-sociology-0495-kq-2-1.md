@@ -71,6 +71,11 @@ The link between them matters: values underpin norms; norms define roles; roles 
 and stereotypes can push people into roles regardless of their own abilities. Together they shape
 how people behave and how they see themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--01-building-blocks.webp" width="900" height="752" alt="Culture contains a chain: values underpin norms, norms define roles, and roles attach to statuses, which are ascribed or achieved. Stereotypes can push people into roles regardless of ability, and customs are traditions passed between generations. Together they shape behaviour and social identity." loading="lazy">
+  <figcaption>Values underpin norms, norms define roles, roles attach to statuses.</figcaption>
+</figure>
+
 ## Nature or nurture? (2.1.2)
 
 The **nature** view says behaviour is mainly inborn — genes, instincts, hormones. The **nurture** view,
@@ -93,6 +98,11 @@ evidence support nurture.
 A balanced answer accepts that biology sets some limits (for example, physical maturation) but
 argues that the meaning attached to biology is learned.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--02-nature-or-nurture.webp" width="900" height="692" alt="A balance with nature (genes, instincts, hormones) on one side and nurture on the heavier side, supported by the case of Genie, Mead’s study of three New Guinea groups and rapid change within one society. A balanced answer accepts biological limits but says their meaning is learned." loading="lazy">
+  <figcaption>Sociologists stress nurture while accepting that biology sets some limits.</figcaption>
+</figure>
+
 ## Primary and secondary socialisation (2.1.3)
 
 **Primary socialisation** takes place in early childhood, mainly within the **family**, and teaches
@@ -113,6 +123,11 @@ through later childhood and adult life through **education**, the **peer group**
 
 Effectiveness is always relative: an agency may be strong for one group or at one life stage and weak
 for another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--03-primary-secondary.webp" width="900" height="638" alt="Primary socialisation in early childhood, mainly in the family, teaches language, basic norms, emotional ties and early gender identity. Secondary socialisation continues through education, peer group, media, religion and the workplace, each with its own process." loading="lazy">
+  <figcaption>The family comes first; five more agencies continue socialisation through life.</figcaption>
+</figure>
 
 ## How do agencies socialise us? (2.1.4)
 
@@ -135,6 +150,11 @@ works.
   teachers, celebrities or older siblings.
 - **Workplace training** (workplace) — induction, rules and supervision teach the norms of a job,
   from dress codes to customer manners.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--04-processes-of-socialisation.webp" width="900" height="778" alt="Seven processes matched to agencies: canalisation and manipulation in the family, hidden curriculum in education, media representations, peer pressure in the peer group, religious teachings, workplace training, and role modelling across all agencies." loading="lazy">
+  <figcaption>Name the agency, then the process, then how it works.</figcaption>
+</figure>
 
 ## Theories of socialisation (2.1.5)
 
@@ -166,6 +186,16 @@ Marxism can make people seem passive — Willis's "lads" rejected school values 
 them. Feminism has shown that gender socialisation changes, as Sharpe's repeat study suggests, and
 some critics say it underplays individual choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--05-theories-of-socialisation.webp" width="900" height="588" alt="Functionalism (consensus) says socialisation passes on shared values and creates cohesion; Marxism (conflict) says it spreads capitalist ideology and reproduces class; feminism (conflict) says gender role socialisation maintains patriarchy. Below each is a criticism." loading="lazy">
+  <figcaption>One consensus view and two conflict views, each with a criticism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--06-sharpe-repeat-study.webp" width="900" height="448" alt="Sue Sharpe’s Just Like a Girl found that in 1976 girls’ priorities were love, marriage, husbands and children; when repeated in the early 1990s, their priorities were jobs, careers and independence." loading="lazy">
+  <figcaption>Sharpe’s repeat study shows gender socialisation can change.</figcaption>
+</figure>
+
 ## Worked example: a Question 2(e)-style "discuss"
 
 *Discuss the role of the media as an agency of socialisation.*
@@ -184,6 +214,11 @@ some critics say it underplays individual choice.
 > stereotypes online. The media's influence is therefore strong but filtered through other agencies.
 
 **Why it works:** it names processes from the syllabus, applies two perspectives, and evaluates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-1--07-discuss-answer-media.webp" width="900" height="539" alt="A discuss answer on the media in four steps: media representations, role models, Marxist and feminist perspectives, and an evaluation that audiences are active and filter messages through other agencies." loading="lazy">
+  <figcaption>Name processes, apply perspectives, then evaluate.</figcaption>
+</figure>
 
 ## Common mistakes
 

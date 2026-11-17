@@ -35,6 +35,11 @@ The content can be organised under three headings, the same pattern used for the
 
 Typical examples include the First Crusade (1095-1099), the Hundred Years' War (1337-1453), the Mongol invasions of Japan (1274 and 1281), the Mongol conquest of the Song (completed 1279), the Wars of the Roses (1455-1487) and the Ottoman conquest of Constantinople (1453).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--01-example-wars.webp" width="900" height="750" alt="A timeline from 1050 to 1500 places six example wars: the First Crusade (1095-1099), the Mongol invasions of Japan (1274 and 1281), the Mongol conquest of the Song (completed 1279), the Hundred Years' War (1337-1453), the Ottoman conquest of Constantinople (1453) and the Wars of the Roses (1455-1487)." loading="lazy">
+  <figcaption>The example wars spread across four and a half centuries and several regions.</figcaption>
+</figure>
+
 ## Causes of medieval wars
 
 ### Religious causes
@@ -53,6 +58,16 @@ The Mongol invasions of Japan followed Kublai Khan's demand that Japan submit as
 
 Distinguish underlying causes from the event that turned tension into war: Philip VI's confiscation of Gascony (1337), or the Japanese refusal of Mongol demands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--02-hundred-years-causes.webp" width="900" height="611" alt="Four long-term causes of the Hundred Years' War: friction over Gascony, which Edward III held as a vassal of the French king; the disputed succession of 1328; French support for Scotland; and English interests in Flanders. An arrow leads to the 1337 trigger: Philip VI confiscates Gascony and Edward claims the French crown." loading="lazy">
+  <figcaption>Several long-term disputes; one confiscation in 1337 turned them into war.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--03-crusade-motives.webp" width="900" height="617" alt="Urban II's appeal at Clermont in November 1095, answering Alexios I's request for help against the Seljuk Turks, leads to three groups of motives: religion (spiritual rewards, freeing eastern Christians, recovering Jerusalem), material gain (land for younger sons, trade for Italian cities) and papal leadership over Christendom." loading="lazy">
+  <figcaption>Religion mobilised the crusade, but land, trade and papal power mattered too.</figcaption>
+</figure>
+
 ## Practices of war and their impact on the outcome
 
 **Tactics and technology.** In the Hundred Years' War, English armies combined dismounted men-at-arms with massed longbowmen, winning at Crécy (1346), Poitiers (1356, where the French king John II was captured) and Agincourt (1415). By the 1440s and 1450s French artillery and better organisation turned the tide: at Formigny (1450) and Castillon (1453) French forces won decisively, and Castillon is often cited as a battle won by field artillery.
@@ -64,6 +79,16 @@ Distinguish underlying causes from the event that turned tension into war: Phili
 **Environment and logistics.** In 1274 and 1281 Mongol fleets carrying Mongol, Chinese and Korean troops landed in northern Kyushu. Japanese warriors fought from behind a defensive wall built along Hakata Bay after 1274. On both occasions storms destroyed much of the invasion fleet; the Japanese called them *kamikaze*, divine winds. Hastily built ships and the difficulty of supplying an army by sea weakened the invaders.
 
 **Leadership and morale.** Joan of Arc's role in the relief of Orléans and the coronation of Charles VII at Reims (1429) restored French morale and legitimacy at a critical moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--04-tide-turns.webp" width="900" height="738" alt="A vertical timeline of the Hundred Years' War. English victories at Crécy (1346), Poitiers (1356) and Agincourt (1415) came from longbowmen with dismounted men-at-arms. Joan of Arc's role at Orléans and Reims (1429) restored French morale. French artillery and organisation won at Formigny (1450) and Castillon (1453)." loading="lazy">
+  <figcaption>Tactics won England its battles; artillery and organisation won France the war.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--05-japan-won-without-gain.webp" width="900" height="634" alt="Three reasons the Mongol invasions failed: storms destroyed much of the fleet, a defensive wall along Hakata Bay, and hastily built ships that were hard to supply. A chain follows: the invasions were defeated but brought no conquered land, so warriors went unrewarded, the shogunate lost support and the Kamakura regime fell in 1333." loading="lazy">
+  <figcaption>Japan won, but with no spoils the Kamakura shogunate could not reward its warriors.</figcaption>
+</figure>
 
 ## Effects of war
 
@@ -90,9 +115,19 @@ Distinguish underlying causes from the event that turned tension into war: Phili
 
 **Conclusion:** the decisive difference lay in the outcome: a victorious monarchy could convert war into lasting institutions, while a regime that won without gain could not pay for its victory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--06-compare-effects.webp" width="900" height="631" alt="A four-row comparison grid. Government: French royal power grew while the Kamakura regime fell in 1333. Territory: England kept only Calais; Japan's territory was unchanged. Identity: national feeling in France and England; belief in divine winds in Japan. Economy and society: devastation then recovery in France; an unrewarded warrior class in Japan." loading="lazy">
+  <figcaption>Same theme in each row, both wars in each paragraph.</figcaption>
+</figure>
+
 ## Interpretations
 
 Two debates are especially useful. On the crusades, Jonathan Riley-Smith argued that most crusaders were driven by piety rather than greed, pointing out that crusading was ruinously expensive for families who sold or mortgaged land to go; older accounts stressed land hunger and adventure. On the Hundred Years' War, Clifford Rogers argued that the war saw an "infantry revolution", as archers and dismounted men-at-arms defeated mounted knights, followed by an "artillery revolution" in which cannon made sieges faster. Both debates help you weigh causes and practices: if you argue that religion caused the First Crusade, show how you answer the material explanation; if you argue that technology decided the Hundred Years' War, explain why England, the early innovator, still lost.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2--07-interpretations.webp" width="900" height="554" alt="Two debates. On crusading motives, a scale runs from piety (Riley-Smith, who notes how costly crusading was for families) to land hunger and adventure (older accounts). On the Hundred Years' War, Rogers' infantry revolution is followed by an artillery revolution, with the test question of why England, the early innovator, still lost." loading="lazy">
+  <figcaption>Use each debate to weigh a cause or a practice, not as a list of names.</figcaption>
+</figure>
 
 ## Common mistakes
 

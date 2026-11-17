@@ -39,6 +39,11 @@ This guide covers section 3.1.1.4, Climate change, in Section A (The challenge o
 
 The **Quaternary** is the most recent period of geological time. It began about 2.6 million years ago and continues today. It is marked by repeated swings between **glacial periods**, when ice sheets spread across large parts of the northern continents, and warmer **interglacial periods**. We are living in an interglacial, which began about 11,700 years ago, after the end of the last glacial period.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--01-quaternary-swings.webp" width="900" height="572" alt="A schematic curve of climate across the Quaternary, from about 2.6 million years ago to today, swinging repeatedly between cold glacial periods and warmer interglacials. The present interglacial began about 11,700 years ago." loading="lazy">
+  <figcaption>The Quaternary is a story of repeated swings between glacial and interglacial periods.</figcaption>
+</figure>
+
 ## Evidence for climate change
 
 Different kinds of evidence cover different lengths of time. A strong answer names the evidence, explains how it works, and says what period it covers.
@@ -57,6 +62,16 @@ Different kinds of evidence cover different lengths of time. A strong answer nam
 
 **Evaluating the evidence.** Older evidence is indirect: ice and pollen are "proxies" that stand in for temperature, so they need careful interpretation. Historical records are often local and descriptive. Instrumental records are precise but short. Confidence comes from the fact that different types of evidence point the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--02-evidence-timescales.webp" width="900" height="679" alt="Bars on a logarithmic time scale show the reach of each type of evidence: ocean sediment cores cover the whole Quaternary and beyond, Antarctic ice cores about 800,000 years, pollen thousands of years, tree rings hundreds to several thousand, historical records hundreds, instrumental records about 170 years and satellites since the 1970s." loading="lazy">
+  <figcaption>Each type of evidence covers a different span; together they reach back through the Quaternary.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--03-ice-cores-recent-evidence.webp" width="900" height="518" alt="Left: an ice core with older layers deeper down; air bubbles record carbon dioxide and the ice chemistry records the temperature when the snow fell. Right: carbon dioxide has risen from about 280 parts per million before the industrial era to more than 420 today, and 2011–2020 was about 1.1 °C warmer than 1850–1900." loading="lazy">
+  <figcaption>Ice cores reach back hundreds of thousands of years; instruments show the recent rise.</figcaption>
+</figure>
+
 ## Natural causes
 
 **Orbital changes.** The Earth's orbit and tilt change in regular cycles, often called Milankovitch cycles. The shape of the orbit changes from more circular to more oval over about 100,000 years; the tilt of the axis varies over about 41,000 years; and the axis wobbles over about 26,000 years. These cycles change how much solar energy reaches different parts of the Earth in different seasons, and they are linked to the timing of glacial and interglacial periods. They work over thousands of years, so they cannot explain change over decades.
@@ -64,6 +79,11 @@ Different kinds of evidence cover different lengths of time. A strong answer nam
 **Volcanic activity.** Large eruptions throw ash and sulphur dioxide high into the atmosphere. Sulphur dioxide forms tiny droplets that reflect sunlight, cooling the Earth. The 1991 eruption of Mount Pinatubo in the Philippines cooled global temperatures by about 0.5 °C for a year or two. Volcanic cooling is short-lived because the droplets fall out of the atmosphere.
 
 **Solar output.** The energy given out by the Sun varies slightly, partly in a cycle of about 11 years linked to sunspots. A period with very few sunspots between about 1645 and 1715, the Maunder Minimum, coincided with part of the Little Ice Age.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--04-natural-causes.webp" width="900" height="603" alt="Three natural causes. Orbital changes: the orbit’s shape varies over about 100,000 years, the tilt over about 41,000 and the wobble over about 26,000. Volcanic activity: sulphur dioxide droplets reflect sunlight, as when Pinatubo in 1991 cooled the Earth by about 0.5 °C for a year or two. Solar output: an 11-year sunspot cycle, and the Maunder Minimum during the Little Ice Age." loading="lazy">
+  <figcaption>Natural causes act either very slowly or only briefly.</figcaption>
+</figure>
 
 ## Human causes
 
@@ -74,6 +94,11 @@ Human activities add greenhouse gases, which trap heat that would otherwise esca
 - **Deforestation.** Trees store carbon. Clearing forests, especially by burning, releases that carbon as carbon dioxide and removes a carbon store that would otherwise keep absorbing it.
 
 **Why recent warming is linked to human causes.** Orbital changes are far too slow to explain warming over a century, and volcanic and solar changes are too small and short-term. The rise in temperature since about 1850 matches the rise in greenhouse gases from human activity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--05-human-causes.webp" width="900" height="627" alt="Burning fossil fuels releases carbon dioxide; agriculture releases methane from livestock and rice fields and nitrous oxide from fertilisers; deforestation releases carbon dioxide and removes a carbon store. Together they strengthen the greenhouse effect. Orbital change is too slow and volcanic and solar change too small to explain warming since 1850." loading="lazy">
+  <figcaption>Activity, gas, trapped heat: the chain that turns a list into an explanation.</figcaption>
+</figure>
 
 ## Effects on people and the environment
 
@@ -103,6 +128,11 @@ Mitigation reduces the causes, mainly by cutting greenhouse gas emissions or rem
 - **Planting trees.** Growing new forests absorbs carbon dioxide as the trees grow. Limitations: it takes decades, needs land that may be wanted for farming, and the carbon returns if the forest burns.
 - **International agreements.** Countries agree to cut emissions together, because no single country can solve the problem. The Kyoto Protocol (1997) set targets for richer countries; the Paris Agreement (2015) aims to keep warming well below 2 °C and to pursue efforts to limit it to 1.5 °C, with each country setting its own plan. Limitation: targets depend on countries keeping their promises.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--06-mitigation-adaptation.webp" width="900" height="702" alt="A chain from human activities to emissions, climate change and effects. Mitigation acts on the causes through alternative energy, carbon capture, planting trees and international agreements such as Kyoto and Paris, each with a limitation. Adaptation responds to the effects through changed farming, water management and protection from rising seas." loading="lazy">
+  <figcaption>Mitigation cuts the causes; adaptation copes with the effects.</figcaption>
+</figure>
+
 ## Managing climate change: adaptation
 
 Adaptation helps people live with the changes that are already happening.
@@ -110,6 +140,11 @@ Adaptation helps people live with the changes that are already happening.
 - **Change in agricultural systems.** Planting drought-resistant or heat-tolerant crops, changing planting dates, using irrigation more efficiently, or switching to crops suited to the new climate.
 - **Managing water supply.** Storing water in reservoirs, transferring water between regions, desalination in dry coastal areas, collecting rainwater, and reducing waste through water meters and repairs to leaking pipes.
 - **Reducing risk from rising sea levels.** Building sea walls and flood barriers, raising buildings on stilts, restoring mangroves that absorb wave energy, and moving people and buildings away from the most at-risk coasts. The Netherlands, much of which lies below sea level, protects its coast with large engineering schemes such as the Delta Works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-climate-change--07-sea-level-adaptation.webp" width="900" height="593" alt="A schematic coastal cross-section with present and higher sea levels. Mangroves are restored offshore to absorb wave energy, a sea wall protects the shore, a house is raised on stilts, and people and buildings are moved inland away from the most at-risk coast." loading="lazy">
+  <figcaption>Defend, raise, restore or retreat: four ways to reduce the risk from rising seas.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark answer
 

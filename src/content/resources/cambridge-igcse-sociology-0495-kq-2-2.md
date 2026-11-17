@@ -77,6 +77,16 @@ threatened, when the rule is seen as **legitimate** (fair and rightful), and whe
 to be noticed. They work poorly when people expect not to be caught, when a group rewards the very
 behaviour society punishes, or when people have little left to lose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A grid of formal and informal control against positive and negative sanctions. Formal positive: reduced sentences, honours, tax relief. Formal negative: fines, arrest, prison. Informal positive: praise, likes, a pay rise. Informal negative: gossip, ostracism, detention." loading="lazy">
+  <figcaption>Formal control rewards as well as punishes; informal control can punish harshly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--02-when-sanctions-work.webp" width="900" height="414" alt="Two panels. Sanctions work best when people value the reward or fear the punishment, see the rule as legitimate and expect to be noticed. They work poorly when people expect not to be caught, when a group rewards the behaviour, or when people have little to lose." loading="lazy">
+  <figcaption>Legitimacy and the chance of being noticed decide whether sanctions work.</figcaption>
+</figure>
+
 ## Consensus and conflict views (2.2.2)
 
 **Functionalism (consensus).** Social control protects the **shared values** that hold society
@@ -100,6 +110,11 @@ how much law serves only the powerful, since many laws (on murder or road safety
 feminism shows that informal control is gendered but women's lives and freedoms have changed in many
 societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--03-perspectives-on-control.webp" width="900" height="517" alt="Functionalism sees control as protecting shared values for everyone; Marxism sees it serving the ruling class through laws and the repressive state apparatus; feminism sees it maintaining patriarchy at home, in public and at work. A criticism sits under each." loading="lazy">
+  <figcaption>One consensus view, two conflict views, each with a weakness.</figcaption>
+</figure>
+
 ## Formal agencies and their methods (2.2.3 and 2.2.4)
 
 | Agency | Methods | Signs of effectiveness | Limits |
@@ -116,6 +131,16 @@ a prison design in which inmates can always be seen but never know when they are
 argue that modern control works by making people watch and discipline themselves. Surveillance
 cameras in streets and shops can be seen as a modern version. Critics raise concerns about privacy
 and about some groups being watched more than others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--04-formal-agencies.webp" width="900" height="722" alt="Formal agencies in sequence with a method and a limit: government makes laws, police arrest and use digital surveillance, courts sentence, and the penal system imprisons, though reoffending is common. The armed forces use coercion in emergencies but risk losing legitimacy." loading="lazy">
+  <figcaption>Each formal agency has its own method and its own limit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--05-panopticon.webp" width="900" height="634" alt="Plan of a panopticon prison: cells in a ring around a central watchtower. Because inmates can always be seen but never know when, they discipline themselves; CCTV, facial recognition and data monitoring are modern versions, though critics raise privacy concerns." loading="lazy">
+  <figcaption>Not knowing when you are watched makes you watch yourself.</figcaption>
+</figure>
 
 ## Informal agencies and their sanctions (2.2.5 and 2.2.6)
 
@@ -162,6 +187,16 @@ Resistance shows that control is never complete. Interactionists and conflict th
 which groups are labelled deviant depends on who has power — yesterday's protesters can become
 today's heroes, as the suffragettes did.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--06-why-join-resistance.webp" width="900" height="590" alt="Six reasons for joining resistance arranged around a centre: grievance, belonging, status, excitement, friends or family already involved, and feeling ignored by formal politics. Below, deviant behaviour breaks norms while non-conformist behaviour rejects expectations without necessarily breaking rules." loading="lazy">
+  <figcaption>Resistance can be deviant or simply non-conformist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--07-types-of-resistance.webp" width="900" height="670" alt="Examples of resistance: protest groups such as the suffragettes and Extinction Rebellion; youth sub-cultures such as mods, rockers and punks; online sub-cultures such as gamers, fandoms and hackers; and the Amish as a religious sub-culture." loading="lazy">
+  <figcaption>Control is never complete: resistance takes protest, youth, online and religious forms.</figcaption>
+</figure>
+
 ## Worked example: Question 2(f)-style evaluation
 
 *Evaluate the view that formal agencies are more effective than informal agencies in producing
@@ -180,6 +215,11 @@ conformity.*
 >
 > **Judgement:** informal agencies are more effective for everyday conformity, while formal agencies
 > are a necessary backstop for serious deviance and where informal ties are weak.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-2-2--08-evaluate-formal-vs-informal.webp" width="900" height="652" alt="A balance weighing formal agencies (coercion, laws for everyone, surveillance) against informal agencies (everyday conformity, constant sanctions, failures of formal control), tipping towards informal. The judgement: informal works for everyday conformity, formal is a backstop." loading="lazy">
+  <figcaption>Informal control does most of the work; formal control is the backstop.</figcaption>
+</figure>
 
 ## Common mistakes
 

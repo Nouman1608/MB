@@ -62,6 +62,11 @@ A relational database stores each fact once and links tables through keys. A dat
 system can then enforce rules (such as validation and referential integrity) and give different users
 different access rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--01-flat-file-problems.webp" width="900" height="612" alt="A flat file built from the school example repeats each student’s surname and house on every result row; one of Khan’s rows shows a different house (illustrative), so the data contradicts itself. The problems are redundancy, inconsistency and weak access control, which a relational database solves by storing each fact once and linking tables with keys." loading="lazy">
+  <figcaption>Repeated data wastes space and lets copies disagree; related tables store each fact once.</figcaption>
+</figure>
+
 ## What is the relational model?
 
 | Term | Meaning |
@@ -102,6 +107,11 @@ The flat file is split into two tables:
 
 StudentID is the primary key of Students and a foreign key in Results. One student can have many
 results: a **one-to-many** relationship. A change of house is now made in one place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--02-two-related-tables.webp" width="900" height="654" alt="The Students table (StudentID, FirstName, Surname, House) holds four students with StudentID as primary key. The Results table (ResultID, StudentID, Subject, Score) holds six results, with StudentID as a foreign key. One student can have many results, every foreign key must match an existing student, and a change of house is made in one place." loading="lazy">
+  <figcaption>The primary key in Students becomes a foreign key in Results, linking one student to many results.</figcaption>
+</figure>
 
 ## DDL and DML
 
@@ -154,6 +164,16 @@ WHERE Results.Subject = 'Physics' AND NOT Students.House = 'Blue';
 
 Result: Mills.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--03-query-step-by-step.webp" width="900" height="664" alt="Query 1 run step by step on the worked tables. JOIN on StudentID gives six rows of surname, house, subject and score. WHERE keeps Maths scores between 70 and 100, leaving Khan 82 and Wu 91. ORDER BY Score DESC gives the result Wu 91, then Khan 82." loading="lazy">
+  <figcaption>JOIN, then WHERE, then ORDER BY: the result is Wu 91 and Khan 82.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--04-more-queries.webp" width="900" height="738" alt="Three further queries on the worked tables. LIKE ’M%’ OR House = ’Red’ returns Ben Lee and Dara Mills. SELECT DISTINCT Subject returns Maths and Physics. A join keeping Physics results where the house is NOT Blue returns Mills, since Khan and Wu are in Blue house." loading="lazy">
+  <figcaption>Each condition narrows the rows: LIKE with %, DISTINCT, and NOT.</figcaption>
+</figure>
+
 ## Updating data
 
 ```
@@ -164,6 +184,11 @@ WHERE ResultID = 3;
 
 The WHERE clause matters: without it, every score in the table would become 68. Records are added
 with `INSERT INTO ... VALUES (...)` and removed with `DELETE FROM ... WHERE ...`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--05-update-where.webp" width="900" height="636" alt="Two runs of UPDATE Results SET Score = 68. With WHERE ResultID = 3, only that row changes, from 65 to 68. Without a WHERE clause, every score in the table becomes 68. INSERT INTO adds records and DELETE FROM ... WHERE removes them." loading="lazy">
+  <figcaption>Without WHERE, UPDATE changes every row in the table.</figcaption>
+</figure>
 
 ## HL: aggregate functions with GROUP BY and HAVING
 
@@ -181,6 +206,11 @@ Result: Blue 76.25. GROUP BY forms one group per house; HAVING filters groups af
 whereas WHERE filters individual rows before it. (The average function is written AVG in most
 systems.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--06-group-by-having.webp" width="900" height="758" alt="The joined rows are grouped by house. Blue has four results (82, 74, 91 and 58), so COUNT(*) is 4 and it passes HAVING COUNT(*) >= 2, giving an average of 305 ÷ 4 = 76.25. Red and Green each have one result and are removed by HAVING. WHERE filters rows before grouping; HAVING filters groups after." loading="lazy">
+  <figcaption>Only Blue has at least two results, so the query returns Blue 76.25.</figcaption>
+</figure>
+
 ## HL: views
 
 A **view** is a saved query that users can treat like a table. A **virtual view** is recalculated each
@@ -188,6 +218,11 @@ time it is used, so it is always current; a **materialised (snapshot) view** sto
 is faster to read but must be refreshed. Views hide complexity, simplify repeated queries, improve
 security by showing users only certain fields, and keep applications working if the underlying
 tables change. Some views are read-only; others allow updates.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3--07-views.webp" width="900" height="584" alt="A virtual view reruns its query against the tables every time it is used, so it is always current. A materialised, or snapshot, view stores the result, so it is faster to read but must be refreshed. Views hide complexity, simplify repeated queries, limit which fields users see and keep applications working when tables change." loading="lazy">
+  <figcaption>A virtual view is always current; a materialised view is faster but must be refreshed.</figcaption>
+</figure>
 
 ## HL: transactions and ACID
 
@@ -204,6 +239,11 @@ something goes wrong.
 
 Alternative databases and data warehouses are also HL content; use the full guide for the detail
 required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--20-transaction-commit-rollback.webp" width="900" height="940" alt="A flowchart for an HL-only topic. BEGIN TRANSACTION starts, then two statements run: A = A − 30 and B = B + 30. If everything succeeded the transaction is committed and the changes are kept, giving A = 70 and B = 80 from a start of A = 100 and B = 50 (illustrative numbers). If a statement failed the transaction is rolled back and the changes are undone, leaving A = 100 and B = 50. Transactions maintain data integrity through atomicity, consistency, isolation and durability, known as ACID." loading="lazy">
+  <figcaption>A transaction either commits or rolls back; integrity rests on atomicity, consistency, isolation and durability.</figcaption>
+</figure>
 
 ## Common mistakes
 

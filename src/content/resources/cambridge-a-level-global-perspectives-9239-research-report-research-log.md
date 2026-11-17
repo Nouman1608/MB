@@ -37,6 +37,11 @@ This guide covers the "Research log" section of Component 4, the Cambridge Resea
 
 The syllabus also points to the Teacher Guide and further guidance on the School Support Hub for the log's length and format, so your teacher will confirm the expectations your centre follows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--01-log-rules.webp" width="900" height="653" alt="The research log carries 10 of Component 4’s 85 marks, beside 75 for the report. It is a separate document, may be notes or prose, sits outside the 5000-word limit without extending it, records decisions rather than everything, and is monitored by the teacher through discussion." loading="lazy">
+  <figcaption>A separate, 10-mark document for decisions and reflection, not extra report words.</figcaption>
+</figure>
+
 ## Three verbs: record, plan, reflect
 
 The first assessment point names three activities. A log entry that does only one of them is weaker than one that links all three.
@@ -48,6 +53,11 @@ The first assessment point names three activities. A log entry that does only on
 | Reflect | What a finding or decision means for your question, your methods or your argument |
 
 The second assessment point, "reflect on research findings and decisions", makes reflection the heart of the log. Recording without reflection is a diary; reflection is what turns it into evidence of a researcher at work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--02-record-plan-reflect.webp" width="900" height="474" alt="Three linked activities in each entry: record what you found, reflect on what it means for your question, methods or argument, and plan what to do next and why. A log that only records dates and tasks is a diary; linking all three, with reflection at the heart, shows a researcher at work." loading="lazy">
+  <figcaption>An entry that only records is a diary; reflection turns it into evidence.</figcaption>
+</figure>
 
 ## What to log at each stage
 
@@ -95,11 +105,31 @@ Reflect on how your thinking and your question changed overall. This links direc
 
 > **Entry.** Started fairly sure mining should be banned. The demand forecasts made me take the economic case seriously, but the uncertainty in the biology review still seems decisive. Final view: permit only after independent baseline surveys. Biggest limit: I relied on English-language sources, mostly from Europe and North America.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--03-seven-stages.webp" width="900" height="692" alt="Seven stages with what to log at each: topics considered and rejected; teacher feedback and your decision; sources evaluated as you go; method options and reasons; surprising or conflicting findings; drafting decisions and word-limit problems; and a final reflection on how your thinking and question changed." loading="lazy">
+  <figcaption>Every stage produces decisions worth a short, dated entry.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--04-question-development.webp" width="900" height="780" alt="Log entries trace a question’s development: three topics considered, a draft question on whether deep-sea mining is necessary for a low-carbon future, teacher feedback that “necessary” needs technical expertise, and a revised policy question on whether countries should permit deep-sea mining in international waters." loading="lazy">
+  <figcaption>Record the feedback and the decision, so the report can explain how the question developed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--05-one-entry.webp" width="900" height="532" alt="A model log entry split into three parts: it records two demand forecasts that disagree because of different battery assumptions, reflects that the economic case depends on a technology assumption, and decides to make that assumption a central point of comparison." loading="lazy">
+  <figcaption>A short entry can do all three jobs in three sentences.</figcaption>
+</figure>
+
 ## How the log supports the report
 
 The report itself must explain "how and why the question was developed", and the syllabus's assessment points include "reflect on how alternative perspectives have influenced their argument" and "reflect on their conclusions". A good log makes each of these easy to write, because the evidence is already recorded with dates and reasons. When you draft the introduction, the conclusion or the methods section, go back to the log.
 
 The log must not become a second report. It is assessed on recording, planning and reflecting, not on argument, and the syllabus warns against using it to extend the word limit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-research-log--06-log-feeds-report.webp" width="900" height="642" alt="Dated log entries on feedback, decisions, methods, sources, findings and final reflection feed four parts of the report: the introduction on how the question developed, the methods section, the evaluation of how perspectives influenced the argument, and the conclusion." loading="lazy">
+  <figcaption>Go back to the log when you draft the introduction, methods and conclusion.</figcaption>
+</figure>
 
 ## Practical habits
 

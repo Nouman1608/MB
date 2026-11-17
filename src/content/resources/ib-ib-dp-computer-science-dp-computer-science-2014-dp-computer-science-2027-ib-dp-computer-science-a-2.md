@@ -58,6 +58,11 @@ A **LAN** covers a small geographical area, such as a school or office, and the 
 owns its infrastructure. A **WAN** connects LANs over large distances, often through infrastructure
 leased from telecommunications providers; the internet is the largest WAN.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--01-lan-wan-client-server.webp" width="900" height="690" alt="Two LANs, a school and an office, each with a server and client computers, joined by a WAN that spans large distances over infrastructure often leased from telecoms providers. Below, a client requests a service and a server provides it, such as files, web pages or addresses." loading="lazy">
+  <figcaption>A LAN covers one site; a WAN links LANs over distance, and the internet is the largest WAN.</figcaption>
+</figure>
+
 ## What does each device do?
 
 | Device | Function | TCP/IP layer it typically works at |
@@ -73,6 +78,11 @@ leased from telecommunications providers; the internet is the largest WAN.
 The reason for the mapping is what each device reads: a switch reads MAC addresses (network
 interface layer); a router reads IP addresses (internet layer); a firewall that filters by port reads
 transport-layer information.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--02-devices-and-layers.webp" width="900" height="732" alt="Devices placed in TCP/IP layers by what they read. In the network interface layer, which reads MAC addresses: NIC, switch, wireless access point and modem. In the internet layer, which reads IP addresses: the router, and often the gateway, which may span several layers. The hardware firewall spans the internet and transport layers, filtering by IP addresses and port numbers." loading="lazy">
+  <figcaption>A device’s layer follows from what it reads: MAC addresses, IP addresses or port numbers.</figcaption>
+</figure>
 
 ## Which protocols must you know?
 
@@ -91,6 +101,11 @@ A **protocol** is an agreed set of rules for communication.
 - **DHCP (Dynamic Host Configuration Protocol):** automatically gives a device joining a network an
   IP address and other settings, such as the default gateway, for a period of time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--03-protocols.webp" width="900" height="684" alt="TCP sets up a connection, numbers and acknowledges segments and resends a lost one, so data arrives complete and in order; it suits web pages, email and file transfer. UDP sends datagrams without acknowledgements or resending, so it is faster but may lose data; it suits live calls, games and streaming. HTTP fetches web pages, HTTPS adds TLS encryption and certificates, and DHCP hands out IP addresses." loading="lazy">
+  <figcaption>TCP trades speed for completeness; UDP trades completeness for speed.</figcaption>
+</figure>
+
 ## The TCP/IP model (layer functions are HL only)
 
 | Layer | Role | Examples |
@@ -105,6 +120,16 @@ the receiver, each layer reads and removes its header as data moves up. Reliabil
 layers working together: the internet layer delivers packets on a best-effort basis, and TCP at the
 transport layer detects missing or damaged segments and requests them again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--04-encapsulation.webp" width="900" height="838" alt="An HL diagram of the four TCP/IP layers with their roles. Going down, data gains a transport header to become a segment, an IP header to become a packet and a frame header to become a frame; the receiver removes the headers on the way up. Reliability comes from TCP re-requesting segments that the best-effort internet layer loses or damages." loading="lazy">
+  <figcaption>Each layer adds its own header going down and strips it going up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--17-tcpip-layers.webp" width="900" height="780" alt="The four layers of the TCP/IP model stacked from top to bottom: application, transport, internet and network interface, with two-way arrows between neighbouring layers showing that they interact to ensure reliable data transmission. Knowing the function of the layers is HL only. Beside the application layer sit the protocols HTTP, HTTPS and DHCP, and beside the transport layer sit TCP and UDP; knowing these protocols is required at SL and HL." loading="lazy">
+  <figcaption>The four TCP/IP layers (layer roles are HL only) with the protocols named in the syllabus.</figcaption>
+</figure>
+
 ## How does packet switching work?
 
 Data is split into **packets**, each with a header containing the source and destination addresses
@@ -114,6 +139,11 @@ reassembled using the sequence numbers; with TCP, missing packets are requested 
 
 **Why it is used:** lines are shared efficiently rather than reserved for one conversation; traffic
 can be routed around a broken link or a busy router; and it scales to very large networks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--05-packet-switching.webp" width="900" height="728" alt="Each packet carries a header with source and destination addresses and a sequence number. Packets of one message travel independently through routers, each choosing the best available path, so they take different routes and arrive out of order (3, 1, 4, 2); the destination reassembles them as 1, 2, 3, 4 using the sequence numbers. Packet numbers are illustrative." loading="lazy">
+  <figcaption>Packets travel independently and are put back in order by sequence number.</figcaption>
+</figure>
 
 ## Bandwidth and transmission errors
 
@@ -129,12 +159,22 @@ cables or distance from a wireless access point (attenuation); physical damage t
 which causes routers to drop packets; and collisions or interference between wireless signals.
 Protocols respond with error detection, such as checksums, and retransmission.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--06-bandwidth-and-errors.webp" width="900" height="732" alt="A 50 MB file is 50 × 8 = 400 megabits; at a bandwidth of 20 Mbps it takes 400 ÷ 20 = 20 seconds at best, since congestion and overheads lower real speed. Common causes of errors are interference, attenuation, cable damage, congestion and wireless collisions; protocols respond with checksums and retransmission." loading="lazy">
+  <figcaption>Convert bytes to bits before dividing by the bandwidth.</figcaption>
+</figure>
+
 ## Why is the internet decentralised?
 
 No single computer or organisation controls the internet. It is a network of networks, run by many
 independent organisations that agree to use common protocols. Because routers can send packets around
 failures, there is no single point whose failure stops the whole system. This makes the internet
 resilient and able to grow, but also harder to regulate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--07-decentralised-internet.webp" width="900" height="704" alt="Seven networks linked in a mesh; when one central network fails, packets are routed around it through the others. No single organisation controls the internet, there is no single point of failure, and the result is resilient and able to grow but harder to regulate." loading="lazy">
+  <figcaption>With no centre to fail, traffic finds another way round.</figcaption>
+</figure>
 
 ## Worked example: loading a web page
 
@@ -145,6 +185,11 @@ resilient and able to grow, but also harder to regulate.
    towards the internet through the **modem**.
 5. Routers across the internet forward packets by IP address; the server's reply returns the same way.
 6. TCP reassembles the response in order and the browser displays the page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--08-loading-a-web-page.webp" width="900" height="726" alt="A laptop on the school Wi-Fi reaches a web server through a wireless access point, firewall, router and modem, then routers across the internet. Six steps: DHCP gives the laptop an IP address, the browser sends an HTTPS request, TCP splits it into segments, the firewall checks it and the router forwards it through the modem, internet routers forward packets by IP address, and TCP reassembles the reply." loading="lazy">
+  <figcaption>Every device and protocol in A.2 plays a part in one page request.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -66,6 +66,16 @@ A pond is a common small-scale example because its parts are easy to see and its
 
 **Energy.** Energy enters the ecosystem as sunlight captured by producers. At each step along a food chain, much of the energy is used for movement and life processes or lost as heat, so less is available to the next level. That is why there are far fewer herons than water fleas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--01-pond-ecosystem.webp" width="900" height="566" alt="Cross-section of a freshwater pond. Abiotic parts: sunlight, water, dissolved oxygen, temperature, mud and dissolved nutrients. Biotic parts: reeds, water lilies and pondweed as producers, a snail and fish as consumers, a heron as top predator, and bacteria and fungi in the mud as decomposers." loading="lazy">
+  <figcaption>An ecosystem is living things and the non-living environment they interact with.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--02-pond-food-web.webp" width="900" height="650" alt="A pond food web in four levels: algae and pondweed as producers; water fleas, snails and insect larvae as primary consumers; frogs, small fish and dragonfly larvae as secondary consumers; herons and pike as top predators. The chain algae, water flea, small fish, heron is highlighted, with arrows pointing from eaten to eater." loading="lazy">
+  <figcaption>Most organisms depend on several others, so a change to one spreads through the web.</figcaption>
+</figure>
+
 ## Nutrient cycling in the pond
 
 1. Producers take up nutrients, such as nitrates, from the water and mud.
@@ -76,9 +86,19 @@ A pond is a common small-scale example because its parts are easy to see and its
 
 Without decomposers, nutrients would stay locked in dead material and producers would run short.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--03-nutrient-cycle.webp" width="900" height="763" alt="A five-stage cycle: producers take up nutrients such as nitrates from water and mud, consumers gain them by eating, dead material and waste sink to the bed, decomposers break it down, and nutrients are released back into the water and mud for producers to take up again." loading="lazy">
+  <figcaption>Decomposers close the loop that keeps nutrients available to producers.</figcaption>
+</figure>
+
 ## Balance between components
 
 A stable ecosystem is in **balance**: populations rise and fall but stay within limits because they are linked. If water fleas become more numerous, they eat more algae; with less food, their numbers fall again, and the algae recover. Predators help keep consumer numbers in check. Balance depends on abiotic conditions too: enough light, oxygen and nutrients, and a suitable temperature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--04-balance.webp" width="900" height="718" alt="A loop: more water fleas eat more algae, so with less food their numbers fall and the algae recover. Balance is also kept by predators limiting consumer numbers and depends on enough light, oxygen, nutrients and a suitable temperature." loading="lazy">
+  <figcaption>Linked populations keep each other within limits.</figcaption>
+</figure>
 
 ## The impact of changing one component
 
@@ -96,6 +116,11 @@ One change to an abiotic component has affected every level of the food web.
 **Example 2: removing a predator.** If the pike are removed, small fish increase. They eat more water fleas, so algae increase because fewer are being grazed. The pond may become green and murky.
 
 **Example 3: drought.** Lower water levels concentrate nutrients and raise water temperature, reducing dissolved oxygen; marginal plants dry out, and animals that depend on them lose habitat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--05-changing-one-component.webp" width="900" height="584" alt="Eutrophication in six steps: fertiliser adds nitrates and phosphates, algae bloom, plants below die from lack of light, decomposers use up oxygen, fish die, and herons leave. Below, removing pike lets small fish increase, water fleas decrease, algae increase and the pond turns green and murky." loading="lazy">
+  <figcaption>Follow the chain of effects through the whole web, not just the first step.</figcaption>
+</figure>
 
 ## Global ecosystems: distribution and characteristics
 
@@ -115,6 +140,11 @@ At the largest scale, ecosystems are called **biomes**. Their distribution is co
 **Describing the pattern.** A good description uses latitude and named examples: "Tropical rainforests lie in a belt close to the equator, for example in the Amazon and Congo Basins, while hot deserts lie further from the equator, around 15-30° north and south, such as the Sahara."
 
 **Explaining the pattern.** Link climate to vegetation: high temperatures and rainfall all year allow continuous growth in rainforests; a long dry season limits trees in savanna; low rainfall limits plants in deserts; low temperatures and a short growing season limit growth in tundra.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-ecosystems--06-biomes-latitude.webp" width="900" height="637" alt="A schematic north–south strip of biome belts: tropical rainforest at the equator, savanna either side, hot deserts around 15 to 30 degrees north and south, then Mediterranean, temperate forest and grassland, boreal forest and tundra towards the pole. Rising air at the equator brings heavy rain; sinking air around 30 degrees brings dry conditions." loading="lazy">
+  <figcaption>Latitude controls climate, and climate controls where each biome is found.</figcaption>
+</figure>
 
 ## Worked example: a 4-mark answer
 

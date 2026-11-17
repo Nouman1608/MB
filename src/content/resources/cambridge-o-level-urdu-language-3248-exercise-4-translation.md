@@ -39,6 +39,11 @@ This page is about the specific changes English sentences need on their way into
 | W4 control of punctuation and spelling | Urdu punctuation; correct spelling, including names |
 | W5 appropriate register and style/format | the English tone (friendly, formal) carried into Urdu |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--01-objectives.webp" width="900" height="680" alt="Exercise 4 is a translation of about 150 words from English into Urdu for 15 marks, testing W1 to W5: every idea present, links kept as Urdu connectives, accurate grammar and word order, Urdu punctuation and spelling, and the original tone." loading="lazy">
+  <figcaption>Every idea, accurately, in natural Urdu and the right tone.</figcaption>
+</figure>
+
 ## Six changes English needs
 
 **1. Word order.** English is subject–verb–object; Urdu is subject–object–verb, with the verb at the
@@ -75,6 +80,26 @@ stranger *آپ*. Third-person respect matters too: *My grandfather says...* → 
 ہو رہی تھی*. *I am over the moon* → *میں بے حد خوش ہوں*. *He kept his word* → *اس نے اپنا وعدہ پورا
 کیا*. A word-for-word version of an idiom is the clearest sign of literal translation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--02-word-order.webp" width="900" height="622" alt="The English sentence &quot;She gave the book to her brother&quot; (subject, verb, object) becomes اس نے کتاب اپنے بھائی کو دی۔ (subject, object, verb), with the verb moved to the end and کو after the noun. میں گیا بازار کل keeps English order and is wrong." loading="lazy">
+  <figcaption>Subject, object, verb: move the verb to the end of the Urdu sentence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--03-tense-and-aspect.webp" width="900" height="851" alt="Six English tenses with their Urdu equivalents, from the habitual جاتا ہوں and continuous جا رہا ہوں to the perfect کر لیا ہے or کر چکا ہوں, the pluperfect جا چکا تھا and the habitual past کھیلا کرتا تھا. &quot;I have been learning Urdu for two years&quot; becomes میں دو سال سے اردو سیکھ رہا ہوں۔" loading="lazy">
+  <figcaption>Translate what the tense means; &quot;for two years&quot; becomes دو سال سے with a continuous present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--04-articles-gender-register.webp" width="900" height="842" alt="Three changes. &quot;The&quot; is not translated and &quot;a&quot; becomes ایک only for something new (ایک آدمی نے دروازہ کھٹکھٹایا، دروازہ کھلا تھا). Gender must be chosen: پرانا مکان but پرانی عمارت. Register: تم to a friend, آپ to a teacher, and میرے دادا کہتے ہیں rather than کہتا ہے." loading="lazy">
+  <figcaption>English gives no help with gender or respect: decide both, then keep them consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--05-idioms.webp" width="900" height="604" alt="Three English idioms rendered by meaning: &quot;It was raining cats and dogs&quot; as موسلا دھار بارش ہو رہی تھی, &quot;I am over the moon&quot; as میں بے حد خوش ہوں, and &quot;He kept his word&quot; as اس نے اپنا وعدہ پورا کیا." loading="lazy">
+  <figcaption>Translate what the idiom means, never its words.</figcaption>
+</figure>
+
 ## A process for the exam
 
 1. **Read the whole English passage** for meaning, tone and who is speaking to whom.
@@ -85,6 +110,11 @@ stranger *آپ*. Third-person respect matters too: *My grandfather says...* → 
    close paraphrase keeps the meaning, a blank loses it.
 5. **Read the Urdu alone**, as if there were no English. Does it sound like Urdu? Does every verb agree?
 6. **Check names, numbers and punctuation.**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--06-exam-process.webp" width="900" height="758" alt="Six steps: read the whole passage for meaning and tone, mark difficulties, translate sentence by sentence, never leave a gap, read the Urdu on its own to check it sounds natural and agrees, and finally check names, numbers and punctuation." loading="lazy">
+  <figcaption>A paraphrase keeps the meaning; a blank loses it.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -123,6 +153,11 @@ feminine *چائے*.
 *I have been to many places since then* uses *جا چکا ہوں*; the future negative *کبھی نہیں بھولوں گا*
 keeps the promise-like tone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--07-worked-example.webp" width="900" height="1146" alt="Five English sentences and their Urdu translations, for example &quot;Last summer my family visited Murree for the first time&quot; as پچھلی گرمیوں میں میرے گھر والے پہلی بار مری گئے۔, with notes on plural agreement, expanding &quot;crowded&quot;, keeping the relative clause, the oblique ڈھابے پر, and the future negative." loading="lazy">
+  <figcaption>Each sentence keeps its meaning and its links, and reads as natural Urdu.</figcaption>
+</figure>
+
 ## Numbers, names, dates and punctuation
 
 - **Numbers**: write them in figures or in words, but consistently; ordinals become *پہلا*، *دوسرا*،
@@ -132,6 +167,11 @@ keeps the promise-like tone.
 - **Dates and times**: *on Monday* → *پیر کو*; *at five o'clock* → *پانچ بجے*; *in 2025* → *2025 میں*.
 - **Punctuation**: change English full stops to *۔*, commas to *،*, question marks to *؟*. Quotation
   marks and exclamation marks stay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--08-punctuation-and-structures.webp" width="900" height="668" alt="English full stops, commas and question marks become ۔، and ؟. Days and times: پیر کو، پانچ بجے، 2025 میں. &quot;There is a park near my house&quot; becomes میرے گھر کے قریب ایک پارک ہے۔: place, then the thing, then ہے." loading="lazy">
+  <figcaption>Swap the punctuation, and build &quot;there is&quot; as place, thing, ہے.</figcaption>
+</figure>
 
 ## Two structures English uses more than Urdu
 
