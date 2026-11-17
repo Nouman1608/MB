@@ -37,6 +37,11 @@ featured: false
 
 All three test AO4. Together they are 16 of Section A's 40 marks, so spend roughly 20-25 minutes on them, with about ten minutes on question 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--07-interpretation-timing.webp" width="900" height="568" alt="Bar showing marks for questions 1 to 3 (4, 4 and 8). Question 1 uses content, question 2 provenance, and question 3 the student's own knowledge. A note says to read both ascriptions first and open with the command phrase." loading="lazy">
+  <figcaption>Content for question 1, provenance for question 2, knowledge for question 3.</figcaption>
+</figure>
+
 ## Reading an ascription in thirty seconds
 
 Underline four things before you read the interpretation itself:
@@ -48,6 +53,11 @@ Underline four things before you read the interpretation itself:
 
 Then ask: *what would this person have seen, wanted or known?*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--01-reading-the-ascription.webp" width="900" height="604" alt="An interpretation, formed afterwards with hindsight, is contrasted with a contemporary source. Below, four details in an ascription: who wrote it, when, what kind of work, and where or for whom." loading="lazy">
+  <figcaption>Treat the ascription as evidence: who, when, what kind of work, and for whom.</figcaption>
+</figure>
+
 ## Question 1 recall
 
 - One clear sentence of difference: "A argues..., whereas B argues...".
@@ -55,6 +65,11 @@ Then ask: *what would this person have seen, wanted or known?*
 - Choose the **overall** difference, not a minor detail.
 - Content only: no provenance, no own knowledge needed.
 - A difference of **emphasis** counts ("A stresses success; B stresses limits").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--02-question-1-frame.webp" width="900" height="611" alt="Three steps for question 1: state the main difference in one sentence, then support A and B with short quotations. Two notes: aim for the overall view rather than small details, and leave provenance for question 2." loading="lazy">
+  <figcaption>One clear sentence stating the difference, supported from both interpretations.</figcaption>
+</figure>
 
 ## Question 2 recall
 
@@ -70,6 +85,11 @@ Explain the difference you found in question 1 using **provenance**:
 
 Always tie the reason to *what the author says*. "B is biased" with no explanation earns little.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--03-question-2-reasons.webp" width="900" height="601" alt="Four reasons authors differ: experience, hindsight, purpose and audience, and focus. Below, weak answers that just say &quot;biased&quot; are contrasted with strong answers that connect provenance to the particular difference." loading="lazy">
+  <figcaption>Explain the difference through each author's experience, date, purpose and audience.</figcaption>
+</figure>
+
 ## Question 3 recall
 
 - **Paragraph 1 (A):** main claim + supporting knowledge + limiting knowledge.
@@ -77,6 +97,11 @@ Always tie the reason to *what the author says*. "B is biased" with no explanati
 - **Judgement:** which is more convincing for the issue in the question, and why.
 - Every paragraph needs **precise** facts: dates, names, laws, numbers you are sure of.
 - Provenance may support the judgement but the deciding test is knowledge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--04-question-3-structure.webp" width="900" height="599" alt="Each interpretation is tested against knowledge that supports and challenges its main claim, leading to a judgement based on the weight of evidence. A note defines convincing as supported by accurate historical knowledge." loading="lazy">
+  <figcaption>Test both interpretations against your knowledge, then commit to a judgement.</figcaption>
+</figure>
 
 ## Key terms
 

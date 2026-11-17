@@ -43,6 +43,11 @@ that technology and human ingenuity can solve environmental problems). A strong 
 an EVS category to a specific described scenario or stakeholder, rather than only defining the three
 terms in the abstract.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--02-environmental-value-systems.webp" width="900" height="660" alt="Cultural, religious, economic and socio-political context shape an environmental value system. Three categories follow: ecocentrism values nature for its own sake, anthropocentrism manages the environment for human benefit, and technocentrism trusts technology and ingenuity to solve problems." loading="lazy">
+  <figcaption>Name the EVS only with evidence from the scenario.</figcaption>
+</figure>
+
 ## 1.2 Systems (5 hours)
 
 Systems theory as a tool for understanding environmental structures and processes. Key vocabulary to
@@ -55,6 +60,16 @@ two is one of the most common ESS exam errors, since "negative" here means stabi
 Also revise the distinction between **open systems** (exchange both energy and matter with their
 surroundings), **closed systems** (exchange only energy, not matter) and **isolated systems**
 (exchange neither) -- most ecosystems are treated as open systems in this course.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--03-negative-positive-feedback.webp" width="900" height="770" alt="Two feedback loops in which a system’s output affects its own input. Negative feedback is stabilising: a graph shows a disturbance followed by a return to equilibrium. Positive feedback is amplifying: a graph shows the system moving further and further from its original state." loading="lazy">
+  <figcaption>Negative and positive describe the direction of the effect, not whether it is good or bad.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--04-open-closed-isolated.webp" width="900" height="580" alt="Three systems with dashed boundaries. An open system exchanges both energy and matter across its boundary; a closed system exchanges only energy; an isolated system exchanges neither." loading="lazy">
+  <figcaption>What crosses the boundary defines the type of system.</figcaption>
+</figure>
 
 ## 1.3 Sustainability (8 hours)
 
@@ -70,6 +85,11 @@ to measure sustainability, such as the **ecological footprint** -- the area of l
 required to sustainably provide all resources at the rate they are being consumed, and to
 assimilate the associated waste.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--05-sustainability-threshold.webp" width="900" height="740" alt="Graph of rate of use over time against a flat line for natural income. While consumption stays below natural income, use is sustainable; when consumption rises above it, the threshold is crossed and natural capital is depleted. Boxes define natural capital as the stock and natural income as the sustainable yield." loading="lazy">
+  <figcaption>The same resource can move from sustainable to unsustainable use as consumption grows.</figcaption>
+</figure>
+
 ## Why Topic 1 gets disproportionate revision value
 
 Because the specification explicitly revisits perspectives, systems and sustainability throughout
@@ -81,6 +101,16 @@ process as a system with named inputs/outputs/feedback loops, or evaluate whethe
 resource-use pattern is within its natural income. Treating Topic 1 as a short warm-up rather than a
 recurring toolkit is the single most common reason for descriptive, rather than analytical, ESS exam
 answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--01-three-lenses.webp" width="900" height="740" alt="A scenario from any later topic sits at the centre, examined through three lenses: perspectives (which environmental value system lies behind a position), systems (inputs, outputs and feedback loops) and sustainability (whether use stays within natural income)." loading="lazy">
+  <figcaption>Apply perspectives, systems and sustainability together to any later topic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-1-foundations--06-aquifer-three-lenses.webp" width="900" height="650" alt="An aquifer system with rainfall recharge as input (natural income) and extraction for irrigation as a larger output; the stored water is natural capital. A possible positive feedback loop: the water table falls, farmers drill deeper and extract even faster. Side panels judge the use unsustainable and link irrigation-first policy to anthropocentrism and capping extraction to a more ecocentric stance." loading="lazy">
+  <figcaption>One scenario, three lenses: systems, sustainability and perspectives.</figcaption>
+</figure>
 
 ## Common exam pitfalls
 

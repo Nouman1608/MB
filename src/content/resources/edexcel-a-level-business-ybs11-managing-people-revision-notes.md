@@ -34,6 +34,11 @@ Condensed recall for section 1.3.4 of Unit 1. For explanations and worked exampl
 - **Dismissal:** the employee's conduct or capability ends the contract. **Redundancy:** the job disappears.
 - **Individual approach:** terms agreed person by person. **Collective bargaining:** terms agreed with representatives for a group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--01-staff-asset-or-cost.webp" width="900" height="646" alt="Seeing staff as an asset means investing in training, consulting and keeping employees, because skills and loyalty raise productivity and quality, as in a premium hotel. Seeing staff as a cost means keeping wages low and flexible, as in a warehouse with seasonal swings." loading="lazy">
+  <figcaption>Whether staff are treated as an asset or a cost depends on the business.</figcaption>
+</figure>
+
 ## Recruitment and training
 
 | | Internal | External |
@@ -54,6 +59,21 @@ Condensed recall for section 1.3.4 of Unit 1. For explanations and worked exampl
 - **Flat:** wide spans, faster communication, more autonomy, overstretched managers, fewer promotion steps.
 - **Matrix:** project teams across functions; two bosses; flexible but conflict-prone.
 - **Centralised:** consistent, controlled, slow to respond locally. **Decentralised:** responsive and motivating, risk of inconsistency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--02-corlan-span-of-control.webp" width="900" height="890" alt="With a span of 5, Corlan’s 625 operatives need 125 team leaders, 25 supervisors, 5 managers and a director: 4 levels and 156 managers. With a span of 25 they need 25 managers and a director: 2 levels and 26 managers, 130 fewer posts, but each manager supervises 25 people and there are fewer promotion steps." loading="lazy">
+  <figcaption>A wider span means fewer levels and managers, but needs more self-reliant staff.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-ial-business-managing-people-and-entrepreneurs-and-leaders--06-matrix-structure.webp" width="900" height="760" alt="A grid of three departments and two projects with six workers. One highlighted worker reports to both a department head and a project manager." loading="lazy">
+  <figcaption>In a matrix structure a worker can have two line managers, one for the department and one for the project.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--03-centralised-decentralised.webp" width="900" height="680" alt="Two organisation trees. Centralised: decisions stay at head office, giving consistency and fast crisis decisions but ignoring local knowledge. Decentralised: decisions are delegated to branches, motivating managers and speeding local responses but risking inconsistency." loading="lazy">
+  <figcaption>Centralise for control and consistency; decentralise for speed and local knowledge.</figcaption>
+</figure>
 
 ## Motivation
 
@@ -78,11 +98,31 @@ Condensed recall for section 1.3.4 of Unit 1. For explanations and worked exampl
 | Output too low on simple tasks | Little incentive per unit | Piecework or bonus (Taylor) |
 | Skilled staff frustrated by slow approvals | Too little authority | Delegation, empowerment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--04-maslow-hierarchy.webp" width="900" height="640" alt="A five-level pyramid from physiological at the base through safety, social and esteem to self-actualisation at the top. A satisfied need stops motivating, so managers find the level staff have reached and offer the next; the levels are hard to measure and may differ between people." loading="lazy">
+  <figcaption>Each satisfied need stops motivating; the next level up takes over.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--07-herzberg-call-centre.webp" width="900" height="790" alt="Hygiene factors such as pay move staff from dissatisfied to neutral; motivators such as responsibility move them from neutral to satisfied. For a call centre: pay below rivals makes staff leave, so match local pay; scripted calls give no achievement, so empower experienced staff to resolve complaints." loading="lazy">
+  <figcaption>Fix hygiene factors to stop people leaving; add motivators to give them a reason to stay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--05-enrichment-enlargement-rotation.webp" width="900" height="646" alt="Three grids of tasks. Job enrichment adds a task at a higher level: more responsibility and challenge. Job enlargement adds more tasks at the same level. Job rotation moves the worker between tasks for variety." loading="lazy">
+  <figcaption>Enrichment goes up, enlargement goes across, rotation moves around.</figcaption>
+</figure>
+
 ## Leadership
 
 - **Management** plans, organises and controls; **leadership** sets direction and inspires.
 - **Autocratic:** leader decides alone. **Paternalistic:** leader decides in staff's interests and explains. **Democratic:** staff take part. **Laissez-faire:** staff decide within broad aims.
 - **Entrepreneur to leader:** the founder must delegate and trust others; failure to do so creates bottlenecks and loses talent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-business-ybs11-managing-people--06-leadership-styles.webp" width="900" height="755" alt="Four styles from the leader deciding alone to staff deciding: autocratic (fast, suits emergencies, can demotivate skilled staff), paternalistic (leader decides but considers welfare and explains), democratic (motivating but slower) and laissez-faire (suits skilled teams, risks drift). A growing founder must learn to delegate." loading="lazy">
+  <figcaption>Match the style to the staff and situation in the source.</figcaption>
+</figure>
 
 ## Key terms
 

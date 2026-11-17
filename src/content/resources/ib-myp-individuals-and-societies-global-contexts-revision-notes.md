@@ -50,6 +50,11 @@ Links: [course hub](/boards/ib/ib-myp/myp-individuals-and-societies/) · [printa
 
 The descriptions are ours. The guide lists the six contexts but gives no fixed list of topics for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--01-six-global-contexts.webp" width="900" height="746" alt="Six cards, one per global context, each with a plain-language summary. Orientation in space and time is highlighted as the context many Individuals and Societies inquiries use. Every unit has one global context, which shows why the inquiry matters." loading="lazy">
+  <figcaption>Six real-world angles; every unit uses one to show why it matters.</figcaption>
+</figure>
+
 ## What the guide requires
 
 - Teachers **must** identify a global context for each unit, or develop an additional context, to show the relevance of the inquiry.
@@ -68,6 +73,11 @@ The guide's table of example statements uses each global context once. Learn whi
 - **Orientation in space and time:** people and governments develop strategies to live with hazards over time (key concept global interactions; management and intervention).
 - **Personal and cultural expression:** societies adopt, adapt or resist significant ideas (key concept change; power, significance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--02-guide-example-pairings.webp" width="900" height="630" alt="A table pairing each global context with the key concept and related concepts used in the guide’s example statement of inquiry, for example identities and relationships with systems, conflict and cooperation, and fairness and development with time, place and space, scale and disparity." loading="lazy">
+  <figcaption>Each context appears once in the guide’s examples, each with its own key and related concepts.</figcaption>
+</figure>
+
 ## Method in steps: writing a statement of inquiry
 
 ```
@@ -81,6 +91,11 @@ The guide's table of example statements uses each global context once. Learn whi
 **Worked reminder.** Topic: the Dust Bowl, 1930s. Key concept: change. Related: causality, sustainability. Context: globalization and sustainability.
 Statement: "Farming choices that ignore the limits of the land can damage environments and livelihoods for a generation."
 Transferable? Yes -- it also fits overgrazing or rainforest cleared for plantations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--04-statement-of-inquiry.webp" width="900" height="660" alt="Three cards for the Wall Street Crash, key concept change, related concepts causality and interdependence, and global context orientation in space and time, feed one sentence: a crisis in one economy can spread across borders and change ordinary lives for years. A statement that only fits 1929 is a fact; one that could guide a unit on another crisis passes." loading="lazy">
+  <figcaption>A good statement of inquiry links the concepts and context without naming the topic.</figcaption>
+</figure>
 
 ## Method in steps: using the context in Criterion B
 
@@ -98,6 +113,16 @@ Transferable? Yes -- it also fits overgrazing or rainforest cleared for plantati
 Context: scientific and technical innovation (economics).
 Question: "How has self-checkout changed the number of staff on a shift at three local supermarkets since they were installed?"
 Relevance: it tests who gains and loses from a new technology. Data: manager interviews and staff rotas, if shared, plus observation counts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--05-criterion-b-strands.webp" width="900" height="661" alt="The four year-5 strands of Criterion B: i research question and relevance, ii plan, iii gather information, iv evaluate. Strands i and iii are highlighted: the context justifies relevance and decides what kind of evidence is needed." loading="lazy">
+  <figcaption>The global context justifies the question in strand i and shapes the evidence in strand iii.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--06-research-question.webp" width="900" height="560" alt="A weak research question, is water access fair, is too broad. The better version compares piped-water access between two districts and asks what explains the gap. Its relevance is justified through fairness and development, and census tables and a short survey make it manageable." loading="lazy">
+  <figcaption>A focused question plus a context-based reason why it matters earns strand i.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -117,6 +142,11 @@ Topic: Britain's Slave Trade Act of 1807 and Slavery Abolition Act of 1833.
 | Orientation in space and time | Why did abolition take decades, and how did the Atlantic world change? |
 | Personal and cultural expression | How did pamphlets, petitions and boycotts persuade the public? |
 | Globalization and sustainability | How did a global trade system depend on enslaved labour? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-global-contexts--03-one-topic-four-contexts.webp" width="900" height="724" alt="A coastal city after a major flood sits at the centre. Four contexts each pose a different question: orientation in space and time asks how the response changed over decades; fairness and development asks which neighbourhoods were hit hardest; scientific and technical innovation asks whether defences reduced damage; globalization and sustainability asks how rising sea levels link the city to choices elsewhere." loading="lazy">
+  <figcaption>Changing the context changes the question, not the topic.</figcaption>
+</figure>
 
 ## Quick self-test
 

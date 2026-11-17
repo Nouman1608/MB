@@ -35,6 +35,11 @@ use the [Paper 3 Section A Shakespeare study guide](/resources/cambridge-a-level
 - Closed book; no dictionaries.
 - A Level only: not part of the AS Level.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--01-section-a-at-a-glance.webp" width="900" height="768" alt="Paper 3 is worth 50 marks: Section A Shakespeare is 25 marks for one essay and Section B Drama the other 25. Section A is assessed on all five objectives at 20% each, including AO5, the discussion and evaluation of varying opinions and interpretations. You choose an (a) essay on the whole play or a (b) printed passage. The set plays are Hamlet and The Taming of the Shrew for 2026, and Henry IV, Part 1 and The Taming of the Shrew for 2027." loading="lazy">
+  <figcaption>One Shakespeare essay worth 25 marks, assessed on all five objectives including AO5.</figcaption>
+</figure>
+
 ## What AO5 adds
 
 | AO3 | AO5 |
@@ -44,6 +49,11 @@ use the [Paper 3 Section A Shakespeare study guide](/resources/cambridge-a-level
 
 AO5 needs **evaluation**, not a list of names. Sources: staging choices, critical approaches, audiences
 across time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-english-literature-paper-3-shakespeare-and-drama--04-p3-ao5-spread.webp" width="900" height="740" alt="Two essay bars are each split into five equal parts. The first bar has a single AO5 marker in the last part, labelled as saving all evaluation for one closing paragraph. The second bar has three AO5 markers spread across the essay, labelled as repeating the pattern two or three times, which tends to score more highly." loading="lazy">
+  <figcaption>AO5 repeated two or three times across an essay beats a single closing paragraph.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -62,6 +72,16 @@ across time.
 | Hamartia | A tragic error or flaw | Debated, especially in readings of Hamlet's delay |
 | Metatheatre | Drama aware of itself as drama | Plays within plays, characters performing roles |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--02-verse-prose-rhyme.webp" width="900" height="830" alt="Three modes of Shakespeare’s language. Blank verse, unrhymed iambic pentameter, is the usual voice of high-status characters and serious feeling. Prose is used for comedy, low-status characters, letters and disorder, so a high-status character dropping into prose has changed something. Rhyming couplets close scenes or mark quotable conclusions. Below, a shared line split between two speakers suggests intimacy, haste or conflict, and a short line leaves a pause." loading="lazy">
+  <figcaption>Movement between verse, prose and rhyme is meaningful, and so are broken lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--03-soliloquy.webp" width="900" height="754" alt="A lone character speaks reasoning to the audience, who may be positioned as confidant, judge or accomplice. In Henry IV, Part 1, Hal’s early soliloquy reframes every later tavern scene as calculated performance. In Hamlet, soliloquies placed between public scenes contrast private thought with public action." loading="lazy">
+  <figcaption>A soliloquy shapes how the audience judges what follows.</figcaption>
+</figure>
+
 ## Answer shapes
 
 **(b) passage**
@@ -77,6 +97,11 @@ across time.
 3. AO5 woven into two or three paragraphs.
 4. Brief, precise quotation from memory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--07-whole-play-essay.webp" width="900" height="721" alt="For the question “How far does the play present Hal as a calculating politician?”, a weak opening agrees and lists examples, while a stronger thesis takes a measured position: Hal’s soliloquy suggests calculation, but his warmth with Falstaff suggests enjoyment, so the play presents calculation and pleasure as hard to separate. This answers “How far”, prepares an AO5 debate and gives direction." loading="lazy">
+  <figcaption>A measured, arguable thesis answers “How far” and sets up AO5.</figcaption>
+</figure>
+
 ## AO5 sentence patterns
 
 - **Staging**: "A director could play this moment as…, which would make the audience…; but the line
@@ -84,6 +109,11 @@ across time.
 - **Approach**: "A feminist reading sees… as…; this is persuasive in…, though it underplays…"
 - **Audiences**: "An early audience might have heard… as…, whereas a modern audience is likely to…"
 - **Judgement**: always end with which reading the text supports more strongly, and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--06-making-ao5-work.webp" width="900" height="877" alt="Three sources of alternative readings, namely performance choices, critical approaches and audiences across time, lead to weighing each reading against the text and judging. Worked example: Katherina’s closing speech played sincerely completes the taming, played with irony shows independence. It is her longest speech, but delivered in public at Petruchio’s command; the Induction tips the judgement towards a performance of submission." loading="lazy">
+  <figcaption>Set out readings, test them against the text, then judge.</figcaption>
+</figure>
 
 ## Set-play reminders
 
@@ -93,6 +123,16 @@ across time.
   contrast; falconry language of taming; the staging of Katherina's final speech.
 - ***Henry IV, Part 1*** (2027): tavern and court alternating; Hal's early soliloquy revealing a
   calculated plan; Hotspur as foil; honour debated across the play.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--04-imagery-patterns.webp" width="900" height="566" alt="Two plays drawn as strips with recurring image points joined by a dashed line. In Hamlet, images of disease, rot and poison run through the language of the Danish court; in The Taming of the Shrew, Petruchio describes his treatment of Katherina as taming a hawk. Connecting one image in a passage to its wider pattern shows knowledge of the whole play." loading="lazy">
+  <figcaption>Link one image to its pattern across the play to show whole-text knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-shakespeare--05-structure-and-genre.webp" width="900" height="918" alt="A five-act curve rising from exposition through complication to a crisis, then falling action and resolution, with a marker showing where to locate a passage. Tragedy, comedy and history set expectations about endings. Parallel plots: the tavern and the court in Henry IV, Part 1; Bianca’s suitors and Katherina and Petruchio; the sons seeking to avenge fathers in Hamlet. The Shrew’s Induction frames the main story as a play performed for Christopher Sly." loading="lazy">
+  <figcaption>Place a passage in the arc, its parallel plots and, in the Shrew, its frame.</figcaption>
+</figure>
 
 ## Quick metre check for (b) passages
 

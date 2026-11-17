@@ -72,6 +72,21 @@ Full explanations and examples are in the
 | **Ethnicity** | Language, religion, food and festivals give a sense of belonging | Minority groups may strengthen identity in response to discrimination; identity may be hyphenated (for example "British-Indian") |
 | **Social class** | Influences accent, tastes, leisure, aspirations | Class may be marked by cultural capital (Bourdieu); some argue class identity is weakening as traditional industries close |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--01-age-socially-constructed.webp" width="900" height="501" alt="Two life-course bars. Where young people take on adult work and marriage early, youth is short; where education is long, youth extends into the twenties. Old age is respected in some cultures and stereotyped as dependent in others. Pilcher (1995) sees age as a source of identity and inequality." loading="lazy">
+  <figcaption>Childhood, youth, adulthood and old age mean different things in different societies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--02-sex-and-gender.webp" width="900" height="473" alt="Sex is biological; gender, socially learned masculinity and femininity, comes through socialisation. Ann Oakley (1972) described families shaping gender identity through manipulation and canalisation. Gender identities are changing as women enter education and work, though domestic expectations change more slowly." loading="lazy">
+  <figcaption>Gender is learned, so it differs between societies and changes over time.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--03-class-cultural-capital.webp" width="900" height="444" alt="A chain: economic position (occupation, income and wealth) shapes accent, tastes, leisure, values and aspirations; Bourdieu’s cultural capital is passed on in families; and class is reproduced. Below, some sociologists say class identity is weakening as traditional industries decline, while others say class still shapes life chances." loading="lazy">
+  <figcaption>Cultural capital passed on in families helps reproduce class identity.</figcaption>
+</figure>
+
 ## The digital self: quick balance
 
 **Positive:** freedom to express and explore identity; support networks for minorities and people with
@@ -82,6 +97,11 @@ privacy risks; algorithms that narrow what users see.
 
 **Evidence to name:** boyd (2014) — teenagers use social media to extend their social lives; Turkle
 (2011) — constant connection may weaken face-to-face relationships.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--04-digital-self.webp" width="900" height="678" alt="A level balance weighing positive impacts of the digital self (freedom of expression, virtual communities, ties with distant family, activism) against negative impacts (pressure to look perfect, cyberbullying, filter bubbles, privacy risks). boyd (2014) says social media extends social life; Turkle (2011) warns it may weaken face-to-face relationships." loading="lazy">
+  <figcaption>Online identity brings freedom and connection, but also pressure and risk.</figcaption>
+</figure>
 
 ## Globalisation: three influences, three impacts
 
@@ -101,6 +121,11 @@ privacy risks; algorithms that narrow what users see.
 | Multiculturalism | Recognition of minority identities | Critics argue it can weaken a shared national identity |
 | Global culture | Global connections and shared youth culture | Local languages and traditions may decline |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--05-globalisation-and-identity.webp" width="900" height="637" alt="Globalisation leads to three possible influences: homogenisation, where young people share similar fashions and values; hybrid identities, such as children of migrants mixing two cultures; and cultural defence, where people strengthen traditional or religious identity. South Korean pop culture shows global culture is not only Western." loading="lazy">
+  <figcaption>Globalisation can make identities more alike, mix them, or make people defend them.</figcaption>
+</figure>
+
 ## Postmodernism (2.3.4)
 
 - Identity is **chosen**, not given: people "pick and mix" from brands, music, fashion, sport,
@@ -110,6 +135,11 @@ privacy risks; algorithms that narrow what users see.
 - **Criticisms:** choice depends on money; class, gender, ethnicity and age still constrain people;
   many keep strong inherited religious and family identities; the view fits affluent young urban
   people best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--06-chosen-or-given.webp" width="900" height="679" alt="A level balance. On one side, postmodernists say identity is chosen in a pick-and-mix society of consumption and lifestyle, with Bauman’s liquid identities and multiple digital selves. On the other, critics say money, class, gender, ethnicity, family and religion still limit choice. The exam asks for a judgement." loading="lazy">
+  <figcaption>Weigh the pick-and-mix view against the limits of class, gender, ethnicity and money.</figcaption>
+</figure>
 
 ## Exam traps
 

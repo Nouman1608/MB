@@ -48,12 +48,22 @@ Condensed notes for sub-topic 1.3 of Cambridge O Level Geography (2217), 2026 se
 | "Waist" of young adults | Emigration from a source area |
 | More elderly women than men | Women's longer life expectancy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--01-reading-a-pyramid.webp" width="900" height="650" alt="A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first." loading="lazy">
+  <figcaption>Base, sides, top and irregularities each tell a different story.</figcaption>
+</figure>
+
 ## Structures by development level
 
 - **Low income**: wide base, concave sides. Example: **Niger**, very young population.
 - **Middle income**: narrowing base, bulge of young adults (possible demographic dividend).
 - **High income**: straight sides, wide top. Example: **Japan**, more than a quarter aged 65+,
   population shrinking.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--02-four-structures.webp" width="900" height="945" alt="Four schematic pyramids. Youthful (low income, such as Niger): wide base and concave sides. Transitional (middle income): the base is narrowing and there is a bulge of young adults. Ageing (high income, such as Japan): narrow base, near-vertical sides and a wide top with more older women. Migration-shaped (a receiving country such as the UAE): far more men than women aged 20 to 49 because most migrant workers are men." loading="lazy">
+  <figcaption>The shape records birth rates, death rates and migration.</figcaption>
+</figure>
 
 ## Formulas
 
@@ -64,6 +74,11 @@ old-age dependency = (65+) / (15-64) x 100
 ```
 
 Divide by the **15–64 group**, not the whole population.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--03-dependency-ratio.webp" width="900" height="780" alt="The dependency ratio formula, with youth and old-age versions. Country A has 43 per cent aged 0 to 14, 54 per cent aged 15 to 64 and 3 per cent aged 65 and over: a dependency ratio of 85.2, youth 79.6 and old-age 5.6. Country B has 12, 59 and 29 per cent: a ratio of 69.5, youth 20.3 and old-age 49.2." loading="lazy">
+  <figcaption>A’s dependants are children; B’s are elderly. Same idea, opposite consequences.</figcaption>
+</figure>
 
 ## Impacts
 
@@ -79,6 +94,11 @@ Divide by the **15–64 group**, not the whole population.
 
 **Responses to ageing:** raise retirement age, more women and older people in work, pro-natalist
 incentives, immigration (Japan's new skilled-worker visa, 2019), technology and robotics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--04-implications.webp" width="900" height="630" alt="Youthful populations need schools, teachers and child health care, then jobs and housing, and keep growing through population momentum. Ageing populations face rising pension and care costs, labour shortages and fewer pupils, but older people also provide childcare, volunteering and spending. Responses: education, family planning and job creation for youth; later retirement, more workers, pro-natalist incentives, immigration and technology for ageing, as in Japan." loading="lazy">
+  <figcaption>Name the type of dependency before giving consequences and responses.</figcaption>
+</figure>
 
 ## Worked example: describe, then explain
 
@@ -132,6 +152,11 @@ care costs rise; responses are listed above.
 - **Suggest**: a sensible reason for unfamiliar data; use tentative language such as "may" or
   "probably".
 - **Implications**: consequences for people and government, ideally positive and negative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--05-describe-explain-implication.webp" width="900" height="500" alt="Three columns: describe the shape, explain it, say what it means. A wide base means a high birth rate and demand for schools and child health care. A wide top with near-vertical sides means low births and long lives, bringing pension and care costs and labour shortages. A bulge of young adults above a narrowing base means births were high and are now falling, giving a possible demographic dividend if there are jobs." loading="lazy">
+  <figcaption>Describe the shape, explain it, then give the implication.</figcaption>
+</figure>
 
 ## Key terms
 

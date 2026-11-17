@@ -40,6 +40,11 @@ state as a direct party), and extra-state (between a state and a non-state actor
 that state's own borders) -- since a strong answer names which
 type of conflict a described scenario actually is before analysing it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--01-four-types.webp" width="900" height="734" alt="Four schematics. Interstate: two states in conflict. Intrastate: a state against a group inside its own borders, as in civil war. Non-state: two non-state groups with no state directly involved. Extra-state: a state against a non-state actor operating beyond that state’s borders." loading="lazy">
+  <figcaption>Name the type of conflict before analysing it.</figcaption>
+</figure>
+
 ## Applying the four core concepts to conflict
 
 Every thematic study is meant to be examined through the core concepts introduced in "Understanding
@@ -55,6 +60,16 @@ political content rather than recalled as a separate list. For Peace and conflic
 - **Interdependence** -- how conflicts in one state or region create effects (refugee flows, economic
   disruption, security concerns) that spread beyond that conflict's own borders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--02-core-concepts.webp" width="900" height="672" alt="Peace and conflict at the centre linked to the four core concepts: power (who holds it and how the balance shapes the outcome), sovereignty (challenged or reasserted, for example by secessionist movements), legitimacy (claimed or denied for the use of force) and interdependence (refugee flows and disruption crossing borders)." loading="lazy">
+  <figcaption>Use the four concepts as lenses, and say which one each point uses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--06-legitimacy-responses.webp" width="900" height="565" alt="Two militarily similar conflicts. In A, force is seen as defensive or authorised, legitimacy is recognised, and responses are measured or supportive. In B, force is seen as unprovoked or unauthorised, legitimacy is denied, and responses include condemnation, sanctions or intervention." loading="lazy">
+  <figcaption>Perceived legitimacy, not military scale, drives the international response.</figcaption>
+</figure>
+
 ## Causes of conflict
 
 Revise being able to distinguish and name the syllabus's six named causes -- identity, ideology,
@@ -64,6 +79,11 @@ institutional-arrangements causes are the two most directly linked to the syllab
 of structural violence, and are easy to under-revise since they are less intuitively "causes" than
 identity or resources. A strong essay identifies more than one contributing cause and explains how they
 interact, rather than reducing a conflict to one label.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--03-six-causes.webp" width="900" height="730" alt="Six causes of conflict around a central circle: identity, ideology, interests, resources, socio-economic divisions and institutional arrangements. The last two are highlighted as the causes most directly linked to structural violence." loading="lazy">
+  <figcaption>Connect several causes rather than giving a conflict a single label.</figcaption>
+</figure>
 
 ## Approaches to resolving conflict
 
@@ -75,6 +95,11 @@ for peacekeeping, ceasefire monitoring and peacekeeping forces; for peacebuildin
 justice mechanisms and institution rebuilding -- for example truth and reconciliation commissions (as
 used in the Gambia, Canada and Tunisia) or justice institutions such as the International Criminal
 Court.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--04-peace-approaches.webp" width="900" height="515" alt="Three approaches to resolving conflict: peacemaking through negotiations and treaties, peacekeeping that maintains a ceasefire such as UN missions, and peacebuilding after conflict through institutions, transitional justice and reconciliation, including truth and reconciliation commissions in the Gambia, Canada and Tunisia and the International Criminal Court." loading="lazy">
+  <figcaption>End the violence, hold the ceasefire, then build so it does not return.</figcaption>
+</figure>
 
 ## Case studies to build
 
@@ -102,6 +127,11 @@ questions can draw on any of the three. Practise naming which of the four core c
 sovereignty, legitimacy, interdependence) a given conflict scenario actually foregrounds before
 writing an extended answer, since this concept-application skill, not just conflict-specific factual
 recall, is what the syllabus is built to test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-peace-conflict--05-analysis-routine.webp" width="900" height="582" alt="Four steps: classify the conflict by type, pick the core concept it foregrounds, connect more than one cause, and support it with a current case log of an interstate conflict, an intrastate conflict and a resolution or peacebuilding process." loading="lazy">
+  <figcaption>Classify, choose a concept, connect causes, and use current, dated cases.</figcaption>
+</figure>
 
 ## Self-test
 

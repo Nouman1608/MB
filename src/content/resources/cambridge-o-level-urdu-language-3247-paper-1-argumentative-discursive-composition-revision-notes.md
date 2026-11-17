@@ -48,6 +48,16 @@ model paragraphs and full explanation see the
 
 *کیا آپ متفق ہیں ...؟* allows either shape; the answer to the question must be clear by the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--01-argumentative-vs-discursive.webp" width="900" height="502" alt="A comparison of the two title types. An argumentative essay aims to persuade, states its position at the start, raises the other side only to answer it and ends by strengthening its case. A discursive essay explores more than one side, settles its position at the end, gives the other side fair space and ends with a balanced judgement." loading="lazy">
+  <figcaption>An argument holds one view throughout; a discussion weighs the sides and judges at the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--02-reading-the-title.webp" width="900" height="806" alt="Three titles from the guide. One ending اس کے حق میں دلائل دیجیے is argumentative, one ending بحث کیجیے is discursive, and کیا آپ اس بات سے متفق ہیں کہ ...؟ allows either, as long as the answer is clear by the end." loading="lazy">
+  <figcaption>The wording of the instruction, not the topic, tells you which essay to write.</figcaption>
+</figure>
+
 ## The marking strands in plain words
 
 | Strand | Top-level wording | What that means for an argument |
@@ -60,6 +70,11 @@ Level 3 descriptors to avoid: content that is "a mechanical response to the subj
 structure with "some linked ideas" but an attempt "not entirely successful"; language that "tends to
 be simple and repetitive".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--03-three-strands.webp" width="900" height="828" alt="Part 2 is marked out of 25: content 10 marks (W1 to W3), structure 5 marks (W4) and language 10 marks (W5, W6), with the top-level descriptors for each. Conditional (اگر ... تو), concessive (اگرچہ ... پھر بھی) and relative (وہ لوگ جو ...) sentences show range in an argument." loading="lazy">
+  <figcaption>Language carries as many marks as content; structure rewards ordered, linked ideas.</figcaption>
+</figure>
+
 ## Five-paragraph frame (practice shape)
 
 1. **Introduction** – a hook (scene, question, striking comparison) and the thesis.
@@ -69,6 +84,16 @@ be simple and repetitive".
 5. **Conclusion** – restate or judge; do not add a new argument.
 
 About 60–80 words per paragraph keeps the whole within 300–400 words.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--04-five-minute-plan.webp" width="900" height="819" alt="Five planning steps: decide your thesis (دعویٰ), choose three main points, give each point evidence, note one objection, and write the last sentence first. Below, a 300-400-word essay as five paragraphs of 60 to 80 words: introduction, three body paragraphs and a conclusion." loading="lazy">
+  <figcaption>Thesis, three evidenced points, one objection, and the ending decided before you start.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--07-answering-an-objection.webp" width="900" height="890" alt="The model paragraph broken into five moves: it states the objection fairly (یہ اعتراض کیا جاتا ہے کہ ...), concedes in part (یہ شکایت بے بنیاد نہیں), turns it as a fault of the present system, uses a conditional sentence (جب ... تو), and returns to the thesis with گویا." loading="lazy">
+  <figcaption>State, concede, turn, then bring the paragraph back to your thesis.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -92,6 +117,11 @@ About 60–80 words per paragraph keeps the whole within 300–400 words.
 - **Contrast**: اس کے برعکس، دوسری طرف، تاہم
 - **Cause/result**: چنانچہ، اسی لیے، نتیجتاً
 - **Conclude**: لہٰذا، مختصر یہ کہ، ان تمام باتوں کے پیشِ نظر
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition--05-connectives.webp" width="900" height="744" alt="Urdu connectives grouped by purpose: ordering (اوّل تو، دوسرے یہ کہ، آخر میں), adding (علاوہ ازیں، مزید برآں), conceding (یہ درست ہے کہ ... لیکن، اگرچہ ... پھر بھی), contrasting (اس کے برعکس، تاہم) and concluding (لہٰذا، نتیجتاً). Repeating علاوہ ازیں at every paragraph signals a list." loading="lazy">
+  <figcaption>Choose each connective for the relationship it shows between two ideas.</figcaption>
+</figure>
 
 ## Sentence patterns that show range
 

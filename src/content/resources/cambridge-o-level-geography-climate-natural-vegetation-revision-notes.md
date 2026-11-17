@@ -43,6 +43,11 @@ questions](/resources/cambridge-o-level-geography-climate-natural-vegetation-pra
 | Pressure | Low: air rises | High: air sinks |
 | Main rain type | Convection, afternoon storms | Rare, short storms |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--01-rising-and-sinking-air.webp" width="900" height="630" alt="Side view from one Tropic to the other. At the Equator heated air rises in a low-pressure belt where the trade winds converge, cools and forms cumulonimbus cloud and heavy rain. Near the Tropics the air sinks in high-pressure belts, warms and holds its moisture, so skies stay clear over the hot deserts." loading="lazy">
+  <figcaption>Rising air at the Equator brings daily rain; the same air sinks near the Tropics and keeps deserts dry.</figcaption>
+</figure>
+
 ## Factors: one line each
 
 - **Latitude**: high Sun angle at the Equator all year → intense heating.
@@ -56,6 +61,16 @@ questions](/resources/cambridge-o-level-geography-climate-natural-vegetation-pra
 - **Relief**: moist air forced up → relief rain on windward slopes;
   rain shadow on the leeward side.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--02-convection-rainfall-day.webp" width="900" height="760" alt="Four panels of one equatorial day. Clear morning sky; the high Sun heats the ground; warm air rises, cools and condenses into towering clouds; heavy afternoon thunderstorms fall from cumulonimbus clouds." loading="lazy">
+  <figcaption>Heating, rising, cooling, condensing: convection gives rain almost every afternoon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--03-atacama-cross-section.webp" width="900" height="680" alt="West to east cross-section from the Pacific to the Andes. Sinking air under high pressure warms over the desert; a cold current offshore cools the air so it gives fog, not rain; moist air from the east rises and rains on the far side of the Andes, so the Atacama lies in a rain shadow. Below, five factors: sinking air, dry trade winds, distance from the sea, cold currents and rain shadow." loading="lazy">
+  <figcaption>Several factors usually combine to make a hot desert; the Atacama has three at once.</figcaption>
+</figure>
+
 ## Worked example: describing a climate graph
 
 *A climate graph for an equatorial station shows monthly means between 26 °C and 28 °C and rain
@@ -67,6 +82,11 @@ every month, from 120 mm in the driest month to 300 mm in the wettest, so there 
   months, any dry season) separately.
 - Quote figures with units; do the arithmetic for the range.
 - Leave out reasons unless the question says "explain".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--04-describing-climatic-graph.webp" width="900" height="799" alt="Four numbered steps for describing a climatic graph, each with wording from the equatorial example: an overall statement, the maximum and minimum with months, the range or total, and the seasonal pattern. A final box shows how to explain: high Sun angle for high temperatures, low pressure and convection for rain every month." loading="lazy">
+  <figcaption>Overall picture, extremes with months, range or total, then the seasonal pattern.</figcaption>
+</figure>
 
 ## Model explanation: why hot deserts are dry
 
@@ -92,6 +112,21 @@ from below, so it forms fog rather than rain."
 - Soil: thin, sandy or stony, low organic matter, salts near surface.
 - Animals: nocturnal, burrowing, heat-losing ears (fennec fox), camel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--05-rainforest-layers.webp" width="900" height="870" alt="Cross-section of a rainforest with four layers: emergent trees up to about 50 m, a dense continuous canopy, an understorey of young trees and shrubs, and a dark forest floor. Buttress roots, a liana and an epiphyte are labelled. Below, four adaptations: drip tips, buttress roots, lianas and epiphytes, and thin smooth bark." loading="lazy">
+  <figcaption>Four layers, each with plants adapted to how much light reaches it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--06-nutrient-cycle.webp" width="900" height="720" alt="Two nutrient-cycle diagrams. In intact forest the biomass store is large and litter and soil stores are small; leaves fall, decay within weeks and are taken back up by shallow roots, while some nutrients are leached. After clearance the biomass store is gone and heavy rain erodes and leaches the soil, which becomes infertile within a few years." loading="lazy">
+  <figcaption>The nutrients live in the trees, so removing the trees removes the fertility.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--07-desert-adaptations.webp" width="900" height="870" alt="A desert succulent with a water-storing stem, spines or small waxy leaves, wide shallow roots near the surface and a long tap root down to groundwater. Beside it, the ephemeral cycle: seeds lie in the soil, rain falls, they germinate and flower, and set seed within weeks. A strip notes animals that are nocturnal or burrow, the fennec fox and the camel." loading="lazy">
+  <figcaption>Desert plants either reach water, catch it fast, store it or wait for it.</figcaption>
+</figure>
+
 ## Deforestation (Amazon)
 
 **Causes**: cattle ranching (largest), soya farming, logging, mining
@@ -107,6 +142,11 @@ the hot desert belt. Summers are extremely hot (Jacobabad is one of the hottest 
 and rain is low and unreliable, falling mainly in short monsoon bursts. Plants such as acacias
 have deep roots and small leaves; people and their livestock depend on wells and ponds that
 collect monsoon rain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-climate-natural-vegetation--08-deforestation-chain.webp" width="900" height="830" alt="Six causes of Amazon deforestation (cattle ranching, soya farming, logging, mining, roads and hydroelectric dams) lead to clearance of the canopy. Effects follow: soil is exposed, eroded and leached and becomes infertile within a few years; rivers silt and flood risk rises; habitats are lost; less transpiration can reduce rainfall; carbon dioxide is released; indigenous peoples lose land; but jobs, export income and roads are gained." loading="lazy">
+  <figcaption>Give effects as a chain, and weigh the costs against the gains.</figcaption>
+</figure>
 
 ## Why climate and vegetation are linked
 

@@ -41,6 +41,11 @@ Assesses   W1-W5     Time to give it: about 30 minutes
 16 marks is more than a quarter of Paper 1 and twice Exercise 5 (about 120 words, 8 marks). The extra
 marks reward **development and organisation**, not only correct sentences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--01-exercise-5-versus-6.webp" width="900" height="662" alt="Side by side: Exercise 5 is 8 marks for about 120 words of functional writing from prompts or pictures; Exercise 6 is 16 marks, just over a quarter of the paper, for about 200 words of continuous prose from short prompts. The difference is development." loading="lazy">
+  <figcaption>Twice the marks for developed, linked ideas, not just more words.</figcaption>
+</figure>
+
 ## The five writing objectives
 
 - **W1** communicate ideas and opinions clearly, accurately and effectively
@@ -63,6 +68,11 @@ marks reward **development and organisation**, not only correct sentences.
 | review | تبصرہ | describe, evaluate, recommend |
 | opinion | رائے | give it with a reason |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--03-rubric-verbs.webp" width="900" height="850" alt="A table of rubric verbs and the language each calls for: بیان کیجیے (describe), وضاحت کیجیے (explain: کیونکہ), اپنی رائے دیجیے (opinion: میرے خیال میں), مشورہ دیجیے (advise: چاہیے) and قائل کیجیے (persuade). For a formal reader, prefer مدعو کرنا to بلانا and تقریب to فنکشن." loading="lazy">
+  <figcaption>Match your language to the verb in the rubric and the register to the reader.</figcaption>
+</figure>
+
 ## Format checklist
 
 - **Article (مضمون):** headline, an opening that hooks the reader, a closing thought.
@@ -70,6 +80,11 @@ marks reward **development and organisation**, not only correct sentences.
 - **Report (رپورٹ):** title, purpose in the first sentence, factual paragraphs, سفارشات.
 - **Review (تبصرہ):** name what is reviewed, its good and weak points, recommend or not.
 - **Letter (خط):** greeting and closing that suit the reader.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--02-formats.webp" width="900" height="764" alt="A table of five formats with their Urdu names, conventions and usual register: article (مضمون), blog post (بلاگ), report (رپورٹ), review (تبصرہ) and letter (خط). A report needs a title, a purpose statement and recommendations (سفارشات)." loading="lazy">
+  <figcaption>Each format has conventions; showing them earns W5.</figcaption>
+</figure>
 
 ## The 200-word plan
 
@@ -82,6 +97,11 @@ marks reward **development and organisation**, not only correct sentences.
 
 Plan 3 minutes, write 22, check 5.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--05-planning-200-words.webp" width="900" height="808" alt="A 30-minute plan of 3 minutes planning, 22 writing and 5 checking, and a four-paragraph shape: an introduction of about 30 words, two developed main points of about 60-70 words each, and a conclusion of about 30-40 words." loading="lazy">
+  <figcaption>Two developed middle paragraphs carry most of the 200 words.</figcaption>
+</figure>
+
 ## Linking-device bank
 
 - **Adding:** اس کے علاوہ، مزید یہ کہ، نیز
@@ -89,6 +109,11 @@ Plan 3 minutes, write 22, check 5.
 - **Cause and result:** کیونکہ، اس لیے، اس کی وجہ سے، چنانچہ
 - **Order:** سب سے پہلے، پھر، آخر میں
 - **Concluding:** مختصر یہ کہ
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--06-linking-devices.webp" width="900" height="735" alt="A table of Urdu linking devices by function: adding (اس کے علاوہ، مزید یہ کہ), contrasting (لیکن، تاہم، دوسری طرف), cause and result (کیونکہ، اس لیے، چنانچہ), sequencing (سب سے پہلے، پھر، آخر میں) and concluding (مختصر یہ کہ)." loading="lazy">
+  <figcaption>A range of linking words, not the same one every time, shows W2.</figcaption>
+</figure>
 
 ## Structure bank
 
@@ -100,6 +125,11 @@ Plan 3 minutes, write 22, check 5.
 | suggestion | بہتر ہوگا کہ ہر پروگرام مختصر رکھا جائے۔ |
 | comparison | یہ ناول پہلے والے سے زیادہ دلچسپ ہے۔ |
 | contrast in one sentence | اگرچہ ٹکٹ مہنگے تھے، لیکن شو بہت اچھا تھا۔ |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--07-structures-and-accuracy.webp" width="900" height="1042" alt="Five Urdu structures with glosses: a condition with اگر… تو, a relative clause with جو, a passive, a suggestion with میری تجویز ہے کہ, and a comparison with کے مقابلے میں. Below, the Urdu full stop, comma and question mark, and spellings such as ضروری (not ظروری) and ذریعے (not زریعے)." loading="lazy">
+  <figcaption>Plan a few structures in deliberately, then check punctuation and spelling.</figcaption>
+</figure>
 
 ## Register in one line
 
@@ -170,6 +200,11 @@ The model is about 200 words including the headline.
    linking devices you have not used yet.
 4. **Write** paragraph by paragraph, keeping to the plan's word guide.
 5. **Check** in three sweeps: agreement and نے; spelling of common words; punctuation ۔ ، ؟.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--04-developing-a-prompt.webp" width="900" height="742" alt="The prompt کچھ پروگرام بہت لمبے تھے۔ is copied almost unchanged in the undeveloped version, while the developed version names the three-hour speech contest and adds a consequence with جس کی وجہ سے: younger pupils became restless and many people left before the prizes." loading="lazy">
+  <figcaption>Name something specific, then say what followed from it.</figcaption>
+</figure>
 
 ## Error-correction drill
 

@@ -57,6 +57,11 @@ Written exams for 9210 **always** present code in OxfordAQA's own pseudocode, re
 
 Note the specification's own general names are used in exams even when a language uses a different term (e.g. `float` for real).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--07-five-data-types.webp" width="900" height="880" alt="Five cards show the data types integer, real, Boolean, character and string, each with an example value and a small picture. A note says some languages call real float." loading="lazy">
+  <figcaption>The five data types and their general names used in the exam.</figcaption>
+</figure>
+
 ## Programming concepts (3.2.2)
 
 **Three combining principles — basic to every imperative language:**
@@ -77,6 +82,11 @@ Nearly every algorithm question is really asking you to identify or write some c
 
 Also: variable/constant declaration, assignment, subroutine (procedure/function) statements, **nested** selection/iteration, and **meaningful identifier names** (the specification explicitly asks candidates to avoid vague names like `x`, `temp1`).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--08-three-constructs.webp" width="900" height="810" alt="Three small flow diagrams: sequence runs steps in order, selection branches to path A or path B, iteration loops a step back to a test. FOR is for a known count and WHILE for an unknown count." loading="lazy">
+  <figcaption>Sequence, selection and iteration are the building blocks of every algorithm.</figcaption>
+</figure>
+
 ## Arithmetic operations (3.2.3)
 
 ```
@@ -88,6 +98,11 @@ MOD  -- returns the remainder
 ```
 
 **Practise both together** — treating them as one combined operation, or mixing up which gives which value, is one of the most frequent errors in this section.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--09-div-mod-groups.webp" width="900" height="680" alt="Eleven counters form five pairs and one single counter. DIV counts the five whole groups, MOD gives the one left over, so 11 = 2 x 5 + 1." loading="lazy">
+  <figcaption>DIV gives the whole-number quotient and MOD gives the remainder.</figcaption>
+</figure>
 
 ## Relational operations (3.2.4)
 
@@ -102,6 +117,11 @@ MOD  -- returns the remainder
 
 These are the symbols the specification's own assessment material uses; a language you code in day to day may use different ones (e.g. `!=` for not equal), and languages differ, so candidates may answer in whichever suitable format their own language uses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp" width="900" height="652" alt="A grid of the six relational operators applied to 7 and 7, 5 and 9, and 9 and 5. For equal values only =, ≤ and ≥ are True. For 5 and 9, ≠, &lt; and ≤ are True; for 9 and 5, ≠, > and ≥ are True." loading="lazy">
+  <figcaption>Each comparison gives True or False; the equal case is where the operators differ most.</figcaption>
+</figure>
+
 ## Boolean operations (3.2.5)
 
 **NOT, AND, OR** — used to build compound conditions, most often **within** an iterative or selection structure's condition, not as a standalone topic:
@@ -111,6 +131,11 @@ WHILE score < 100 AND livesLeft > 0
 ```
 
 **AND** requires **every** part true; **OR** requires **only one** part true — treating them as interchangeable silently changes what the algorithm does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--11-and-or-truth.webp" width="900" height="800" alt="A table evaluates the condition score &lt; 100 AND livesLeft &gt; 0 for four example cases, showing each part and the AND and OR results. AND is True only when both parts are True; OR is True when at least one is." loading="lazy">
+  <figcaption>AND requires every part true; OR requires only one.</figcaption>
+</figure>
 
 ## Worked example: nested iteration and selection
 
@@ -131,6 +156,11 @@ ENDWHILE
 
 This combines **all three constructs at once**: an indefinite loop with condition at the start (`WHILE`), a nested definite loop (`FOR`), and a nested selection (`IF`) inside that. **Read from the outside in** — first the WHILE, then what's inside it, then what's inside that — rather than tracing line by line on a first read.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-fundamentals--10-nested-while-for-if.webp" width="900" height="920" alt="The worked example is drawn as nested coloured boxes: a WHILE loop box containing a FOR loop box containing an IF box. Example inputs 3, 9, 4, 7, 2 give a HighScore of 9." loading="lazy">
+  <figcaption>Read nested code from the outside in: WHILE, then FOR, then IF.</figcaption>
+</figure>
+
 ## Worked example: writing a compound condition
 
 Write a pseudocode condition that is true only when a player's score is at least 50 AND they have more than zero lives remaining.
@@ -150,6 +180,11 @@ ENDIF
 ```
 
 Practising this kind of translation -- from an English requirement into a precise compound condition using the correct relational and Boolean operators -- is a more exam-realistic skill than memorising the operator symbols alone, since exam questions are usually phrased as a requirement to translate, not a bare symbol to define.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp" width="900" height="710" alt="Six phrases and their conditions on a number line around 50. &quot;At least 50&quot; is mark ≥ 50 and &quot;no more than 50&quot; is mark ≤ 50, both including 50. &quot;More than 50&quot; is mark > 50 and &quot;less than 50&quot; is mark &lt; 50, both excluding 50. &quot;Exactly 50&quot; is mark = 50 and &quot;anything except 50&quot; is mark ≠ 50." loading="lazy">
+  <figcaption>The boundary words decide whether 50 itself is included.</figcaption>
+</figure>
 
 ## Key terms
 

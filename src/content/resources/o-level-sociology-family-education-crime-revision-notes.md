@@ -67,6 +67,16 @@ and content in the final stretch of revision.
   way (assessing AO1, AO2, AO3), and part (f), a short essay requiring
   reasoned arguments on both sides of a debate (also AO1, AO2, AO3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--01-paper-2-at-a-glance.webp" width="900" height="590" alt="Paper 2 lasts 1 hour 45 minutes, is worth 80 marks and is 50% of the qualification. Candidates answer two structured questions from a choice of three topics: 4 Family, 5 Education and 6 Crime, Deviance and Social Control. Paper 1’s research methods must be applied to the two chosen topics." loading="lazy">
+  <figcaption>Two topics from three, with Paper 1’s research methods applied to both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--02-paper-2-topic-map.webp" width="900" height="547" alt="Three columns for Paper 2’s topics. Topic 4 Family asks about types of family, the role of the family and how family life is changing. Topic 5 Education asks what education is, its roles and functions, and what explains differences in achievement. Topic 6 Crime asks what crime and deviance are, their patterns and explanations, and how crime is dealt with." loading="lazy">
+  <figcaption>Each topic has three key questions, numbered on from Paper 1.</figcaption>
+</figure>
+
 ## Topic 4: Family — key recall points
 
 - **Family structures**: nuclear, extended (modified, horizontal,
@@ -88,6 +98,11 @@ and content in the final stretch of revision.
   conjugal, child and grandparent roles (e.g. sandwich generation,
   boomerang children).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--05-perspectives-matrix.webp" width="900" height="533" alt="A table of three perspectives against two topics. Functionalism sees the family’s functions and warm bath theory, and education’s socialisation, role allocation and meritocracy. Marxism sees the family as a unit of consumption and education as reproducing class inequality. Feminism sees the domestic division of labour and the patriarchal culture of schools." loading="lazy">
+  <figcaption>The same three perspectives run through Family and Education.</figcaption>
+</figure>
+
 ## Topic 5: Education — key recall points
 
 - **Formal vs informal education**, and the **hidden curriculum**
@@ -105,6 +120,11 @@ and content in the final stretch of revision.
   pro-/anti-school subcultures), ethnicity, gender, and global
   differences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--06-achievement-answer-ladder.webp" width="900" height="540" alt="Four rungs of an answer on educational achievement. A weak answer says some students work harder. Better answers name a sociological factor such as cultural capital, explain how it affects achievement, and then weigh two factors to judge which matters more." loading="lazy">
+  <figcaption>Name a factor, explain its mechanism, then weigh it against another.</figcaption>
+</figure>
+
 ## Topic 6: Crime, deviance and social control — key recall points
 
 - **Crime vs deviance**: crime breaks the law, deviance breaks social
@@ -119,6 +139,11 @@ and content in the final stretch of revision.
 - Effectiveness of control agencies is assessed comparatively — be
   ready to weigh a formal method against an informal one for a given
   scenario.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--04-social-control-and-crime-types.webp" width="900" height="456" alt="Formal social control (police, courts and laws) is set beside informal social control (family disapproval, peer pressure and community norms). Below are the eleven named crime types, with organised/global, cyber, hate and domestic crime highlighted as the most likely in contemporary stimulus material." loading="lazy">
+  <figcaption>Know formal from informal control, and all eleven crime types, not just the first seven.</figcaption>
+</figure>
 
 ## Command word reminders
 
@@ -178,6 +203,11 @@ carry the heaviest marks and require a structured, evidenced discussion
 or a genuinely two-sided essay, not a one-sided description, so timed
 practice on these two part-types pays off more than further factual
 recall once the basic content above is secure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--03-revision-strategy.webp" width="900" height="595" alt="A timeline. Early in the course, prepare all three topics to a reasonable standard. Closer to the exam, revise two in depth. Dropping a topic too early is risky if the questions on the other two turn out to be less comfortable." loading="lazy">
+  <figcaption>Keep all three topics open until late, then go deep on two.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

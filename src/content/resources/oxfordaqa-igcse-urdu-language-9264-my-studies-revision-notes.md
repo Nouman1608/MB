@@ -54,6 +54,11 @@ with English-to-Urdu translation) and Paper 2 (Writing).
 | دلچسپ / مفید | interesting / useful | |
 | استاد / استانی | teacher (m / f) | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--01-gender-of-subjects.webp" width="900" height="776" alt="مضمون is masculine (یہ مضمون اچھا لگتا ہے), subjects such as ریاضی are feminine (مجھے ریاضی اچھی لگتی ہے), and a plural thing liked takes ہیں (مجھے سائنس کے تجربات پسند ہیں). مجھے ریاضی اچھا لگتا ہے is wrong; the plural of مضمون is مضامین." loading="lazy">
+  <figcaption>The verb and adjective agree with the subject being described, not with you.</figcaption>
+</figure>
+
 ## Opinion patterns
 
 | Pattern | Example | Meaning |
@@ -65,6 +70,11 @@ with English-to-Urdu translation) and Paper 2 (Writing).
 | ... پسند نہیں | مجھے جغرافیہ پسند نہیں۔ | I don't like geography. |
 
 With مجھے, the verb agrees with the thing liked, never with "I".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--02-opinion-patterns.webp" width="900" height="770" alt="Two correct patterns: مجھے ریاضی پسند ہے and میں ریاضی پسند کرتا ہوں; mixing them (میں ریاضی پسند ہے) is wrong. لگنا works like پسند (مجھے تاریخ دلچسپ لگتی ہے), and every opinion needs a reason with کیونکہ." loading="lazy">
+  <figcaption>Pick one pattern and keep it; then give the reason.</figcaption>
+</figure>
 
 ## Comparing and ranking
 
@@ -83,6 +93,11 @@ With مجھے, the verb agrees with the thing liked, never with "I".
 - Past view: پہلے مجھے ریاضی مشکل لگتی تھی۔ (Maths used to seem hard to me.)
 - Present view: اب یہ آسان لگتی ہے۔ (Now it seems easy.)
 - Future: اگلے سال میں حیاتیات پڑھوں گا / پڑھوں گی۔ (Next year I will study biology.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--05-then-now-next-year.webp" width="900" height="630" alt="A vertical timeline: before (پہلے مجھے ریاضی مشکل لگتی تھی), now (لیکن اب یہ آسان لگتی ہے) and next year (اگلے سال میں حیاتیات پڑھوں گا), with English glosses." loading="lazy">
+  <figcaption>A change of view or a plan adds past or future to a present-tense topic.</figcaption>
+</figure>
 
 ## Topic 1 or Topic 2?
 

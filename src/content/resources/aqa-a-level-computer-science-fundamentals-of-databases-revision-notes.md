@@ -59,6 +59,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section 4.10, assessed on Pa
 entity identifier **underlined** in the exam. In these notes key attributes are shown in bold:
 Student (**StudentID**, FirstName, Surname, TutorGroup).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--08-primary-foreign-keys.webp" width="900" height="840" alt="OrderHeader and Product each have one primary key. OrderLine has a composite primary key of OrderID and ProductID, and each of those is also a foreign key. Arrows run from each foreign key to the primary key it refers to." loading="lazy">
+  <figcaption>Foreign keys link tables to primary keys; OrderLine has a composite primary key.</figcaption>
+</figure>
+
 ## Entity relationship diagrams
 
 Relationships are **one-to-one**, **one-to-many** or **many-to-many**, drawn with crow's-foot ends on the
@@ -71,6 +76,11 @@ Student (StudentID, Name)
 Course (CourseID, Title)
 Enrolment (StudentID, CourseID, StartDate)   composite key: StudentID + CourseID
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--07-many-to-many-link-table.webp" width="900" height="740" alt="Order and Product have a many-to-many relationship, which cannot be stored directly. A link table, OrderLine, carries both foreign keys and makes two one-to-many relationships. A crow’s foot marks the many end and a bar the one end." loading="lazy">
+  <figcaption>A link table turns a many-to-many relationship into two one-to-many relationships.</figcaption>
+</figure>
 
 ## Normalisation to third normal form
 
@@ -104,6 +114,11 @@ Price, Quantity.
      Order (OrderID, OrderDate, CustomerID)      CustomerID is now a foreign key
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--09-normal-form-dependencies.webp" width="900" height="900" alt="The order table has composite key OrderID plus ProductID. Attributes that depend on only one part of the key break 2NF, Quantity depends on the whole key, and CustomerName and Town depend on CustomerID, a transitive dependency that breaks 3NF. Splitting gives Customer, OrderHeader, Product and OrderLine." loading="lazy">
+  <figcaption>Partial dependencies break 2NF and transitive dependencies break 3NF.</figcaption>
+</figure>
+
 ## SQL you must write by hand
 
 ```sql
@@ -132,6 +147,11 @@ DELETE FROM Product WHERE ProductID = 17;
 (The table is named `Orders` in SQL because `ORDER` is a reserved word.) A join can also be written with
 `JOIN ... ON`. Always qualify column names with the table name when two tables share a column.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--10-join-total-spend.webp" width="900" height="800" alt="Aldous Wren has orders 100 (14.00) and 102 (23.00), total 37.00. Bina Sethi has order 101 (18.00). Corin Hale has no orders, so the inner join does not return him. Highest first gives Aldous Wren then Bina Sethi." loading="lazy">
+  <figcaption>An inner join returns only customers who have orders; totals are sorted highest first.</figcaption>
+</figure>
+
 ## Client server databases and concurrency
 
 A client server database gives **simultaneous access** to many clients. The danger is the **lost update**:
@@ -143,6 +163,11 @@ two clients read the same record, both change it, and the second save overwrites
 | **Serialisation** | Transactions are executed one after another (or as if they were), so they cannot overlap on the same data |
 | **Timestamp ordering** | Each transaction gets a timestamp; each record stores the timestamps of its last read and write. A transaction that would conflict with a later one is rejected and restarted |
 | **Commitment ordering** | Transactions are ordered by when they commit, according to their dependencies, so conflicting transactions are committed in a safe order |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-databases-study-guide--11-lost-update.webp" width="900" height="1300" alt="Without a lock, A and B both read 10, A writes 9, then B writes 9 and overwrites A’s change. With a record lock, B waits until A writes 9 and unlocks, then B reads 9 and writes 8. Numbers are illustrative." loading="lazy">
+  <figcaption>A record lock stops the second save from overwriting the first.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

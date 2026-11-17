@@ -34,6 +34,11 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 - **2.4.2** Customer-, competitor- and product-focused selling. Disrupt-then-reframe and need for cognitive closure, e.g. Kardes et al. (2007). Cialdini's six ways to close a sale.
 - **2.4.3** Engel Kollat Blackwell model. Store choice by age and gender, e.g. Sinha et al. (2002). Post-purchase dissonance, e.g. Nordvall (2014).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--01-gift-wrapping.webp" width="900" height="768" alt="Wrapping hides a gift, marks it as a gift and signals the giver's effort. Rixom et al. (2020) found a neatly wrapped gift from a friend raised expectations so the gift was liked less, while sloppy wrapping set low expectations that the gift exceeded. Givers believe elaborate wrapping increases appreciation; Howard (1992) proposed wrapping creates a positive mood. Types range from none to boxes, neat to untidy." loading="lazy">
+  <figcaption>Neat wrapping can backfire by raising expectations the gift must meet.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -53,6 +58,11 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 | Scarcity | Valuing something more when it seems rare or limited |
 | Post-purchase dissonance | Discomfort after buying when doubts conflict with the decision |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--03-central-gaze-cascade.webp" width="900" height="804" alt="An illustrative shelf display with an attention hot spot over the horizontal centre. Centre products get more visual attention, attention to the centre rises just before the choice, and central products are chosen more often. Planograms fix where products sit; a limitation is that looking is not buying." loading="lazy">
+  <figcaption>Attention drifts to the horizontal centre just before people choose.</figcaption>
+</figure>
+
 ## Key study grid: Becker et al. (2011)
 
 | Feature | Detail |
@@ -66,6 +76,11 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 | Debates | Reductionism (single features isolated); determinism (taste shaped without awareness) |
 | Methods | Controlled experiment; subjective rating scales; one product type |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--02-becker-packaging.webp" width="900" height="883" alt="A two-by-two schematic of yoghurt pots: angular or rounded, high or low colour saturation, with angular and highly saturated giving the strongest expected taste. Study card: participants rated expectations, tasted yoghurt and rated intensity; angular shapes and saturated colours led to stronger taste ratings, most for those who value visual design." loading="lazy">
+  <figcaption>Angular, strongly coloured pots made the yoghurt seem more intense.</figcaption>
+</figure>
+
 ## Cialdini's six ways to close a sale, applied
 
 | Principle | Sales example |
@@ -77,6 +92,16 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 | Authority | A dentist recommending a toothbrush |
 | Scarcity | "Only two left at this price" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--05-cialdini-six.webp" width="900" height="540" alt="Six cards: reciprocity (a free sample creates obligation), commitment and consistency (a small agreement leads to a larger one), social proof (others are buying it), liking (we agree with people we like), authority (an expert recommends it) and scarcity (only a few left)." loading="lazy">
+  <figcaption>Six principles, each a different reason to say yes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--04-disrupt-then-reframe.webp" width="900" height="628" alt="Disrupt-then-reframe: an odd price of 300 pennies briefly confuses, the reframe &quot;that's $3, it's a bargain&quot; resolves it, and sales increased. Kardes et al. (2007) linked it to need for cognitive closure: time pressure, fatigue and noise raise the need, and people high in it grab the reframe because it ends the confusion." loading="lazy">
+  <figcaption>Confuse, then offer an easy answer: it works best on tired, hurried buyers.</figcaption>
+</figure>
+
 ## Post-purchase dissonance: increase and reduce
 
 | Increases dissonance | Reduces dissonance |
@@ -85,6 +110,11 @@ The [product study guide](/resources/cambridge-a-level-psychology-9990-the-produ
 | Purchase hard to reverse | Focusing on the item's strengths |
 | Attractive rejected alternatives | Playing down the rejected alternatives |
 | Little information before buying | Returning or exchanging the item |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-product--06-ekb-dissonance.webp" width="900" height="697" alt="The Engel Kollat Blackwell model runs through problem recognition, information search (internal or external), evaluation of alternatives, purchase and post-purchase outcomes. Post-purchase dissonance is the conflict between &quot;I chose this&quot; and &quot;the rejected option had good features&quot;; it is greater for expensive, important, hard-to-reverse purchases and attractive alternatives, and reduced by seeking supporting information, playing down the rejected option or returning the item." loading="lazy">
+  <figcaption>Dissonance follows the purchase and is worst for costly, hard-to-reverse choices.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

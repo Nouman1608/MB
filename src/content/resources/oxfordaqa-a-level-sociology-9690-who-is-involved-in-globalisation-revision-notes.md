@@ -50,6 +50,26 @@ The roles in globalisation of nation states (more and less developed), transnati
 - Declining: Ohmae (1995), *The End of the Nation State*; Strange (1996), *The Retreat of the State*: power shifting to markets.
 - Still strong: states control borders, armies, taxes and citizenship; China used globalisation to grow its power.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--02-states.webp" width="900" height="588" alt="More developed states write global rules and, Chang argues, kicked away the ladder; less developed states either compete for investment or act as developmental states like South Korea and Taiwan. A note weighs Ohmae and Strange against continuing state power." loading="lazy">
+  <figcaption>States still shape globalisation, though unequally.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--03-tncs.webp" width="900" height="579" alt="Benefits of TNCs (investment, jobs, technology, markets, tax) set against costs (profits flowing out, footloose production, blurred responsibility), with Bhopal, Rana Plaza and Sklair’s transnational capitalist class." loading="lazy">
+  <figcaption>TNC power is real but can be contested, as the Rana Plaza accord shows.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--04-agencies.webp" width="900" height="702" alt="A grid contrasting the IMF, World Bank and WTO, which use loan conditions and trade rules, with UN agencies such as UNDP, WHO, UNICEF, UNHCR and the ILO, which set norms and deliver services but cannot enforce most targets." loading="lazy">
+  <figcaption>Lenders have leverage; UN agencies mostly set norms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--05-from-below.webp" width="900" height="557" alt="NGOs with their strengths and weaknesses, grassroots movements such as the Zapatistas, La Via Campesina and Narmada Bachao Andolan, and indigenous peoples with free, prior and informed consent and Standing Rock." loading="lazy">
+  <figcaption>Movements from below use the same global tools as those above.</figcaption>
+</figure>
+
 ## Core recall: aid
 
 **Types**: bilateral or multilateral; humanitarian or development; grant or loan; tied (spent on donor goods) or untied. UN target (1970): 0.7 per cent of gross national income; few donors meet it.
@@ -59,6 +79,11 @@ The roles in globalisation of nation states (more and less developed), transnati
 | Modernisation: aid provides capital for take-off | Moyo: dependency and corruption | Hayter (1971): aid as imperialism |
 | Sachs: "big push" out of the poverty trap | Easterly (2006): top-down "planners" fail; local "searchers" succeed | Tied aid and loan conditions serve donors |
 | Emergency aid saves lives; health aid supports vaccination | Aid can weaken accountability to taxpayers | Aid can sustain dependency on the core |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation--06-aid.webp" width="900" height="536" alt="Four distinctions between types of aid, including tied aid, and the 0.7% target, then arguments for aid (modernisation, Sachs, humanitarian and health aid) and against from the right (Moyo, Easterly) and the left (Hayter)." loading="lazy">
+  <figcaption>Distinguish the type of aid before judging whether it helps.</figcaption>
+</figure>
 
 ## Key terms
 

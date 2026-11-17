@@ -80,6 +80,16 @@ Use them with the [practice questions](/resources/ib-dp-ess-atmosphere-climate-c
 - Stratosphere: ozone layer; warms with height.
 - Energy balance: short-wave in → some reflected (albedo) → rest absorbed → long-wave out → greenhouse gases absorb and re-emit some towards the surface.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--01-atmosphere-layers-composition.webp" width="900" height="930" alt="Altitude profile of the atmosphere. In the troposphere, from the surface to about 12 km, temperature falls with height; in the stratosphere, up to about 50 km, it rises because ozone absorbs UV. Below, a bar shows dry air is 78% nitrogen, 21% oxygen, 0.93% argon and about 0.04% carbon dioxide." loading="lazy">
+  <figcaption>Weather happens in the troposphere; ozone warms the stratosphere by absorbing UV.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--02-energy-balance-greenhouse.webp" width="900" height="830" alt="Of 340 W per square metre of incoming short-wave solar radiation, 102 is reflected (albedo 0.30) and 238 is absorbed, warming the surface. The surface emits long-wave infrared; some escapes to space and some is absorbed by greenhouse gases and re-emitted in all directions, including back to the surface. This keeps the average near 15 °C rather than −18 °C." loading="lazy">
+  <figcaption>Greenhouse gases absorb and re-emit infrared; they do not trap UV or reflect heat.</figcaption>
+</figure>
+
 ## 6.2 Causes, evidence, feedback, impacts
 
 **Sources:** CO₂ (fossil fuels, deforestation, cement); CH₄ (livestock, rice, landfill, fossil-fuel leaks); N₂O (fertilisers); halocarbons (refrigerants, foams).
@@ -103,6 +113,11 @@ Use them with the [practice questions](/resources/ib-dp-ess-atmosphere-climate-c
 
 *Worked reminder:* 4 t of CH₄ with GWP 28 = 4 × 28 = **112 t CO₂e**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--03-co2-equivalent.webp" width="900" height="710" alt="Worked example for one farm. By mass it emits 500 t of CO₂, 12 t of methane and 1.5 t of nitrous oxide. Multiplied by GWPs of 28 and 265, these become 500, 336 and 397.5 t CO₂e, a total of 1233.5 t, so methane is about 2% of the mass but 27.2% of the warming." loading="lazy">
+  <figcaption>Convert every gas to CO₂e before adding: small masses of potent gases can dominate.</figcaption>
+</figure>
+
 ### Method in steps: albedo
 
 ```
@@ -111,6 +126,11 @@ Reflected = incoming × albedo
 ```
 
 *Worked reminder:* 300 W m⁻² on fresh snow of albedo 0.8 → absorbed = 300 × 0.2 = **60 W m⁻²**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--04-feedback-loops.webp" width="900" height="760" alt="Two loops. Positive ice–albedo feedback: warming melts sea ice, albedo falls from 0.60 to 0.06, absorbed energy rises from 100 to 235 W per square metre, causing more warming. Negative feedback: warming increases evaporation and low cloud, which reflects sunlight and reduces warming. A tipping point is where positive feedback shifts a system to a new state." loading="lazy">
+  <figcaption>Positive feedback amplifies a change; negative feedback dampens it.</figcaption>
+</figure>
 
 ## 6.3 Mitigation and adaptation
 
@@ -136,6 +156,11 @@ Reflected = incoming × albedo
 5. End with a clear, conditional judgement.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--05-mitigation-adaptation.webp" width="900" height="700" alt="A chain runs from greenhouse gas emissions to more gases in the atmosphere, an enhanced greenhouse effect and harmful impacts. Mitigation acts on the first two links by cutting emissions or removing gases; adaptation acts on the last by reducing harm. Example lists sit below each." loading="lazy">
+  <figcaption>Mitigation tackles the cause; adaptation reduces the harm.</figcaption>
+</figure>
+
 ## 6.4 Stratospheric ozone
 
 ```
@@ -150,6 +175,11 @@ Destruction:   Cl + O₃ → ClO + O₂     ClO + O → Cl + O₂
 - Management: Vienna Convention (1985) → Montreal Protocol (1987), ratified by every UN member state, with later amendments → HCFCs then HFCs as substitutes → Kigali Amendment (2016) phases down HFCs because they are strong greenhouse gases.
 - Recovery: the 2022 WMO/UNEP assessment expects the Antarctic ozone layer to return to 1980 levels around the 2060s. ODS last decades in the atmosphere, so recovery lags behind the ban.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--06-ozone-chemistry.webp" width="900" height="830" alt="Left: UV splits oxygen; oxygen atoms join O₂ to form ozone, and UV splits ozone back to O₂ and O, so the concentration is steady and UV is absorbed. Right: UV frees chlorine from CFCs; Cl reacts with ozone to form ClO and O₂, then ClO reacts with O to give back Cl. Below, a Dobson scale marks 300 DU as typical and below 220 DU as an ozone hole." loading="lazy">
+  <figcaption>Chlorine is regenerated each cycle, so one atom destroys many thousands of ozone molecules.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Natural vs enhanced greenhouse effect** — the first is essential; the second is the problem.
@@ -159,6 +189,11 @@ Destruction:   Cl + O₃ → ClO + O₂     ClO + O → Cl + O₂
 - **Positive vs negative feedback** — amplifies vs dampens; neither word means good or bad.
 - **Weather vs climate** — one hot summer is weather.
 - **Short-wave vs long-wave** — in from the Sun vs out from Earth.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-atmosphere-climate-change-ozone--07-ozone-vs-climate.webp" width="900" height="836" alt="Two cause-and-effect chains side by side. Ozone depletion: CFCs and halons release chlorine, which thins the ozone layer and lets more UV-B reach the surface. Climate change: CO₂, methane and nitrous oxide absorb infrared and cause warming. A timeline shows ozone agreements (Vienna 1985, Montreal 1987, Kigali 2016) and climate agreements (UNFCCC 1992, Kyoto 1997, Paris 2015)." loading="lazy">
+  <figcaption>The ozone hole lets in more UV; it does not cause global warming.</figcaption>
+</figure>
 
 ## Quick self-test
 

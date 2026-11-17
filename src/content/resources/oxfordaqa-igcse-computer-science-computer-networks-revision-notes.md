@@ -62,6 +62,11 @@ share resources.
 | Ownership | Often owned and managed by a single person or organisation | Often under collective or distributed ownership |
 | Example | A school network | **The Internet -- the biggest WAN** |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--15-net-lan-wan.webp" width="900" height="870" alt="Two LANs, each with devices joined to a router, connect through a cloud labelled WAN. The LAN covers a small area with one owner; the WAN covers a large area using infrastructure leased from telecommunications companies." loading="lazy">
+  <figcaption>A LAN is local and owned by one organisation; a WAN links distant sites.</figcaption>
+</figure>
+
 ## Wired and wireless
 
 - **Copper cable**: cheap and easy to install; suitable for shorter distances, e.g. within a building.
@@ -91,6 +96,11 @@ STAR                                BUS
 | Performance | Good -- the switch sends data only to the destination | Slows with heavy traffic; data collisions on the shared cable |
 | Cost | More cable and a switch | Less cable, cheaper to set up |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--17-net-topologies.webp" width="900" height="900" alt="A star network of five devices around a switch shows one cable failing so one device is cut off, while a switch failure cuts off all five. A bus network with five devices shows a backbone break splitting devices into three and two." loading="lazy">
+  <figcaption>In a star a cable fault affects one device; in a bus a backbone break splits the network.</figcaption>
+</figure>
+
 ## Protocols
 
 A **protocol** is a set of rules that govern how data is transmitted and received by devices.
@@ -111,6 +121,11 @@ A **protocol** is a set of rules that govern how data is transmitted and receive
 You do not need to name the individual protocols in the Ethernet or Wi-Fi families. The specification states the
 layer for HTTP, HTTPS, SMTP, IMAP, FTP, TCP, UDP and IP; Ethernet and Wi-Fi are shown at the link layer because
 they govern the network hardware that sits there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-computer-networks-study-guide--19-net-packets.webp" width="900" height="1040" alt="A packet has a header with from, to and number, then the data. Six numbered packets take three routes and packet 4 is lost. They arrive out of order as 2, 1, 3, 6, 5; TCP orders them, spots the gap and asks for packet 4 to be resent, giving the complete message." loading="lazy">
+  <figcaption>TCP numbers packets so the receiver can reorder them and request missing ones.</figcaption>
+</figure>
 
 ## Network security
 

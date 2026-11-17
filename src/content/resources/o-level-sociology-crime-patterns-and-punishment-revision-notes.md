@@ -58,6 +58,11 @@ gender, class; 6.2.6 theories; 6.2.7 evaluation) and **6.3** (6.3.1 aims; 6.3.2 
 | **Restraining order** | Court order forbidding contact with a person |
 | **Probation** | Supervision in the community instead of or after prison |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--01-recorded-crime-funnel.webp" width="900" height="658" alt="A funnel narrowing from all crime committed, to crime reported, to crime recorded, to arrests and convictions. At each step crime drops out: much is never reported, some reports are not recorded, and policing decides who is targeted and caught." loading="lazy">
+  <figcaption>Official statistics show who gets caught, which is not the same as who offends.</figcaption>
+</figure>
+
 ## 6.2 Explanations summary
 
 | Group | Syllabus explanations | Named evidence |
@@ -66,6 +71,16 @@ gender, class; 6.2.6 theories; 6.2.7 evaluation) and **6.3** (6.3.1 aims; 6.3.2 
 | Ethnicity | Institutional racism; discrimination; targeting; deprivation; stereotyping; gangs; status frustration | Lea and Young (1984); Gilroy (1982) |
 | Gender | Chivalry thesis; masculinity; control; misogyny; stereotyping; gangs; opportunity | Pollak (1950); Miller (1958); Carlen (1988); Heidensohn (1985) |
 | Class | Exclusion; deprivation; inadequate socialisation; opportunity; status frustration; power; targeting | Box (1983); Murray (New Right) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--02-why-young-people-appear-criminal.webp" width="900" height="602" alt="Six explanations around the fact that young people are over-represented in recorded crime: police targeting, stereotyping and the self-fulfilling prophecy, gang culture, weaker social control, lack of opportunity, and status frustration (Albert Cohen, 1955)." loading="lazy">
+  <figcaption>Some explanations concern how youth are policed; others concern why some young people offend.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--03-gender-and-crime.webp" width="900" height="498" alt="Two columns. Factors pushing men’s crime up: a culture of masculinity, Miller’s focal concerns and misogyny. Factors keeping women’s recorded crime down: closer supervision of girls, Pollak’s chivalry thesis, and Carlen’s finding that women offended when the rewards of conformity failed." loading="lazy">
+  <figcaption>The gender gap comes from what drives men’s offending and what restrains or hides women’s.</figcaption>
+</figure>
 
 ## 6.2.6 Theories — one line each
 
@@ -77,6 +92,16 @@ gender, class; 6.2.6 theories; 6.2.7 evaluation) and **6.3** (6.3.1 aims; 6.3.2 
 - **Marxism:** law protects capitalism; crimes of the powerful under-punished (Box, 1983).
 - **Feminism:** patriarchal control (Heidensohn); class and gender deals (Carlen).
 - **Postmodernism:** thrill, identity and consumerism (Katz, 1988); diverse, individual crime.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--04-labelling-and-moral-panic.webp" width="900" height="566" alt="Two chains of three steps. Labelling (Becker, 1963): an act is labelled deviant, others react to the person as deviant, and a deviant career can follow. Moral panic (Stanley Cohen, 1972): the media exaggerate a group’s behaviour, the group become folk devils, and tougher control follows." loading="lazy">
+  <figcaption>Interactionists focus on how reactions to deviance can create more of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--05-theory-strengths-limits.webp" width="900" height="586" alt="A table of five theories. Strain and subculture fit property crime by young working-class men but not corporate crime; labelling fits how reactions shape careers but not the first act; Marxism fits crimes of the powerful but can neglect victims; feminism fits gender patterns but may treat women as one group; postmodernism fits new crimes but offers no single cause." loading="lazy">
+  <figcaption>Each theory fits some crimes well and others poorly.</figcaption>
+</figure>
 
 ## 6.3 Punishment and policing
 
@@ -96,6 +121,16 @@ gender, class; 6.2.6 theories; 6.2.7 evaluation) and **6.3** (6.3.1 aims; 6.3.2 
 
 **Policing:** stop and search; surveillance and digital surveillance; crime prevention; community vs
 military-style policing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--06-aims-of-punishment.webp" width="900" height="540" alt="Five cards for the aims of punishment: protection, deterrence (individual and general), retribution, incapacitation and rehabilitation. Below, prison is shown as incapacitating and seen as just but with high reoffending, while Norway’s Halden prison stresses rehabilitation." loading="lazy">
+  <figcaption>Judge a punishment by which aims it meets and which it misses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-crime-patterns-and-punishment--07-policing-effectiveness.webp" width="900" height="538" alt="Cards weighing policing strategies. Stop and search detects weapons and drugs but may damage trust; surveillance helps detection but raises privacy concerns and may displace crime; community policing builds trust; military-style policing may restore order quickly but can alienate communities. Crime prevention includes street lighting, housing design and youth programmes." loading="lazy">
+  <figcaption>Every policing strategy trades effectiveness against trust, privacy or consent.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark "explain" answer
 

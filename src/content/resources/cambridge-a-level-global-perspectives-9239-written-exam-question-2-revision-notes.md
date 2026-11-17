@@ -39,6 +39,11 @@ These notes cover Question 2 of Component 1 in Cambridge International AS & A Le
 2. **Support**: if it is true, does it back the claim it is attached to?
 3. **Gaps**: what specific evidence would confirm or overturn the claim?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--01-three-jobs.webp" width="900" height="502" alt="Question 2 asks how strong the evidence is, in three jobs: reliability, whether it can be trusted; support, whether it backs the claim it is used for; and gaps, what other evidence would confirm or overturn the claim. Most weak answers stop at reliability. Worth 15 of 45 marks, about 30 minutes." loading="lazy">
+  <figcaption>Trustworthy evidence can still give weak support; test the link and the gaps too.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning in Question 2 |
@@ -55,6 +60,11 @@ These notes cover Question 2 of Component 1 in Cambridge International AS & A Le
 | Substantiate | Provide evidence that confirms a claim |
 | Refute | Provide evidence that shows a claim is false |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--02-evidence-map.webp" width="900" height="584" alt="A two-column margin note pairs each piece of evidence with the claim it supports: a survey percentage with “most people want this policy”, a named doctor’s quotation with “the policy improves health”, and one family’s story with “costs fall hardest on the poor”. Mapping first avoids treating opinions as evidence and missing buried evidence." loading="lazy">
+  <figcaption>List every piece of evidence beside the claim it is meant to support.</figcaption>
+</figure>
+
 ## Testing evidence by type
 
 | Type | Strongest when | Weakest when |
@@ -66,6 +76,11 @@ These notes cover Question 2 of Component 1 in Cambridge International AS & A Le
 | Case study | Closely similar to the case the claim is about | Chosen because it fits; different context |
 | Research study | Method stated, comparison group, repeated | Old, unrepeated, method unknown |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--03-test-by-type.webp" width="900" height="638" alt="Six evidence types with the questions that expose strengths and weaknesses: statistics, surveys or polls, expert testimony, personal accounts, case studies and research studies. Strengths count as evaluation as well as weaknesses." loading="lazy">
+  <figcaption>Different kinds of evidence fail in different ways, so change the questions you ask.</figcaption>
+</figure>
+
 ## The five evidence-claim gaps
 
 | Gap | The evidence ... | The claim ... |
@@ -76,9 +91,24 @@ These notes cover Question 2 of Component 1 in Cambridge International AS & A Le
 | Selection | gives examples that fit | ignores ones that do not |
 | Strength | shows a small or uncertain effect | says "clearly" or "proves" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--04-link-gaps.webp" width="900" height="727" alt="Evidence can be accurate yet give weak support because the step to the claim is unsafe. Five gaps: scope, from one place or group to everyone; measure, from something nearby to something else; cause, from correlation to causation; selection, only examples that fit; and strength, from a small effect to “proves”." loading="lazy">
+  <figcaption>This step separates the top band: check the bridge, not just the evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--07-worked-example.webp" width="900" height="658" alt="A fictional column claims a sugar tax is working. Its evidence gives some support to the claim that sugary drink sales fell, weak support to the claim that health improved because sales measure purchases not health, and very weak support to the recommendation that other countries copy it." loading="lazy">
+  <figcaption>The same evidence can support a narrow claim and fail a broad one.</figcaption>
+</figure>
+
 ## Suggesting other evidence: the what-why-result test
 
 A good suggestion says **what** evidence (specific type, place and period), **why** (which gap it fills) and **what result** would substantiate or refute the claim. "More research is needed" passes none of these tests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--05-suggest-evidence.webp" width="900" height="574" alt="A useful suggestion states what evidence (children’s dental or hospital records before and after the tax, compared with a similar country), why it is needed (to test whether lower sales changed health), and what result would strengthen or weaken the claim." loading="lazy">
+  <figcaption>Say what evidence, why, and what result would change the verdict.</figcaption>
+</figure>
 
 ## 15-mark plan
 
@@ -86,6 +116,11 @@ A good suggestion says **what** evidence (specific type, place and period), **wh
 2. Two or three paragraphs, one per key piece or type of evidence: strength, weakness, link to claim.
 3. Gaps: one or two specific missing pieces of evidence.
 4. Weighed conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-2--06-answer-plan.webp" width="900" height="673" alt="A 15-mark plan: an opening judgement of the main claim and your verdict, two or three evidence paragraphs each with a strength, a weakness and the link to the claim, a gaps paragraph on specific missing evidence, and a weighed concluding verdict." loading="lazy">
+  <figcaption>Open and close with a verdict; go deep on the evidence that matters most.</figcaption>
+</figure>
 
 ## Exam traps
 

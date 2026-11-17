@@ -41,6 +41,16 @@ Quick-recall notes for Breadth Study B1 of Pearson Edexcel International GCSE Hi
 | 4. Civil War, 1861–65 | Union victory, generals, blockade, Lincoln and Davis, Emancipation, Gettysburg, Vicksburg, Sherman |
 | 5. A More Perfect Union? 1865–77 | Johnson, Reconstruction Act, Freedmen's Bureau, Black Codes, Amendments, Grant's Peace Policy, Custer |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--11-am-key-topics.webp" width="900" height="936" alt="Five bars to scale show the key topics 1783 to 1877. A bracket shows 25 years, the minimum span of the (c) essay, and five themes are listed." loading="lazy">
+  <figcaption>The five key topics on a scale timeline, with the 25-year minimum for the (c) essay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--12-am-connecticut.webp" width="900" height="790" alt="Large states wanted seats by population and small states wanted equality. The House is based on population and the Senate has two members per state. Dots show illustrative seats for a large, medium and small state." loading="lazy">
+  <figcaption>The Connecticut Compromise created a House by population and a Senate with two members per state.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -78,6 +88,16 @@ Quick-recall notes for Breadth Study B1 of Pearson Edexcel International GCSE Hi
 | 1876 | Little Bighorn (Custer's Last Stand) |
 | 1877 | End of Reconstruction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--13-am-expansion.webp" width="900" height="868" alt="Nine events in order from the Louisiana Purchase in 1803 to the California Gold Rush in 1848, coloured for land and settlers, slavery and Native Americans." loading="lazy">
+  <figcaption>Expansion west 1803 to 1849 in order, with the slavery and Native American strands marked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--15-am-union-win.webp" width="900" height="894" alt="A balance tips towards the Union (more people, industry, railways and a naval blockade) against the Confederacy (skilled generals such as Lee, home ground). Four turning points follow: Gettysburg and Vicksburg, Emancipation Proclamation, March through Georgia, Lee surrenders." loading="lazy">
+  <figcaption>The Union outweighed the Confederacy, with 1863 the turning point.</figcaption>
+</figure>
+
 ## The five themes traced across the period
 
 | Theme | Early | Middle | Late |
@@ -87,6 +107,11 @@ Quick-recall notes for Breadth Study B1 of Pearson Edexcel International GCSE Hi
 | Expansion | Louisiana Purchase | Texas, Oregon, Mexico, Gold Rush | Plains wars; Little Bighorn |
 | Government policy | Hamilton v Jefferson | Indian Removal; Fugitive Slave Act | Reconstruction Acts; Amendments |
 | Economy | Debt behind Shays' Rebellion | Cotton South v industrial North | Southern economy destroyed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--17-am-slavery-thread.webp" width="900" height="1155" alt="A vertical axis to scale from 1787 to 1865 with seven events on the slavery question linked to labels, from the three-fifths clause to the 13th Amendment." loading="lazy">
+  <figcaption>Following one theme, slavery, across the whole period.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -112,6 +137,11 @@ Quick-recall notes for Breadth Study B1 of Pearson Edexcel International GCSE Hi
 2. **Rights:** in 1850 black people had no citizenship (confirmed by Dred Scott in 1857); by 1870 the 14th
    and 15th Amendments gave citizenship and banned racial discrimination in voting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--16-am-reconstruction.webp" width="900" height="1199" alt="A ladder of events: federal action on the left (13th, 14th and 15th Amendments, Freedmen’s Bureau, Civil Rights Acts, Reconstruction Act) and resistance on the right (Black Codes, poor enforcement, the Ku Klux Klan)." loading="lazy">
+  <figcaption>Federal gains in Reconstruction were met by resistance that reversed many of them.</figcaption>
+</figure>
+
 ## Essay plan in outline
 
 *"Westward expansion was the main cause of conflict between North and South in the years 1803–61."
@@ -122,6 +152,11 @@ How far do you agree?*
 - **Against:** slavery itself and the moral campaign against it; states' rights; economic differences
   between the industrial North and the cotton South; Dred Scott and John Brown; Lincoln's election.
 - **Judgement:** expansion was the arena in which the slavery conflict was fought; slavery was the issue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-america--14-am-secession.webp" width="900" height="1101" alt="The North and South economies are contrasted, then a chain of events: Compromise of 1850, Kansas-Nebraska Act, Dred Scott, John Brown, Lincoln elected, secession and the Confederacy, and Fort Sumter in April 1861." loading="lazy">
+  <figcaption>A chain of events from 1850 led to secession and war in 1861.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -51,6 +51,11 @@ features of each foreign relationship, and the key people and laws on women's em
 | CPEC | China–Pakistan Economic Corridor, launched 2015 |
 | IMF | International Monetary Fund, which lends to countries with balance-of-payments problems |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--04-democracy-and-parties.webp" width="900" height="513" alt="Three democratic concepts: transparency, the rule of law and accountability. Below, three major parties: the Pakistan Muslim League factions, descended from the All-India Muslim League; the Pakistan People’s Party, founded in 1967 by Zulfikar Ali Bhutto; and Pakistan Tehreek-e-Insaf, founded in 1996 by Imran Khan." loading="lazy">
+  <figcaption>Democracy rests on openness, law and accountability, delivered through competing parties.</figcaption>
+</figure>
+
 ## Constitutional timeline
 
 - **1949** Objectives Resolution: sovereignty belongs to Allah; democracy; minority rights.
@@ -60,6 +65,16 @@ features of each foreign relationship, and the key people and laws on women's em
 - **2010** 18th Amendment: President's dissolution power removed; provincial devolution; NWFP renamed Khyber Pakhtunkhwa; right to education aged 5–16.
 - **2010–11** 19th Amendment: revised process for judicial appointments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--02-constitutions.webp" width="900" height="560" alt="A timeline: the Objectives Resolution of 1949; the 1956 Constitution, an Islamic Republic with a parliamentary system and a Muslim President; the 1962 presidential Constitution under Ayub Khan with indirect elections; and the 1973 federal parliamentary Constitution, still in force with amendments." loading="lazy">
+  <figcaption>Pakistan moved between parliamentary and presidential systems before settling on 1973.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--03-federal-parliamentary-system.webp" width="900" height="552" alt="The President is head of state and the Prime Minister leads the government; amendments have shifted power between them. The Prime Minister answers to the National Assembly, one of two houses of parliament; the Senate gives each province equal representation. Power is shared between the federal government and the provinces." loading="lazy">
+  <figcaption>The Prime Minister governs, answerable to parliament; the provinces share power.</figcaption>
+</figure>
+
 ## Governments 1999–2022
 
 | Years | Leader | Remember |
@@ -68,6 +83,11 @@ features of each foreign relationship, and the key people and laws on women's em
 | 2008–13 | Asif Ali Zardari (President), PPP government | 18th and 19th Amendments; first full parliamentary term completed |
 | 2013–18 | Nawaz Sharif, then Shahid Khaqan Abbasi (PML-N) | First democratic transfer of power; CPEC; energy projects; anti-militancy operations; Sharif disqualified 2017 |
 | 2018–22 | Imran Khan (PTI) | Ehsaas; health cards; tree planting; IMF programme 2019; Covid-19 response; removed by no-confidence vote April 2022 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--05-politics-1999-2022.webp" width="900" height="784" alt="A time axis from 1999 to 2022 with four periods: Musharraf 1999–2008, Zardari as President 2008–13, the PML-N government 2013–18 and the PTI government under Imran Khan 2018–22. Markers show the Lawyers’ Movement in 2007, the 18th Amendment in 2010, the first elected handover in 2013, Sharif’s disqualification in 2017 and the no-confidence vote in April 2022. Cards summarise each period." loading="lazy">
+  <figcaption>Military rule gave way to elected governments, and in 2013 one elected government handed over to another for the first time.</figcaption>
+</figure>
 
 ## Covid-19 response
 
@@ -89,6 +109,11 @@ features of each foreign relationship, and the key people and laws on women's em
 | IMF | Support after the 2008 crisis and in later programmes, with conditions |
 | UN | Pakistan a major contributor of peacekeeping troops |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--06-international-relations.webp" width="900" height="645" alt="Pakistan linked to five sets of relations: India (Kashmir, the 2019 tensions and the Kartarpur Corridor), China (an all-weather partner, the JF-17 and CPEC), the Muslim world (Turkey, Saudi Arabia and the UAE), the USA (alliance and aid after 2001 but tension over drone strikes and Abbottabad), and the IMF and UN (financial support and peacekeeping troops)." loading="lazy">
+  <figcaption>China is the steadiest partner; relations with India and the USA swing between cooperation and crisis.</figcaption>
+</figure>
+
 ## Women's empowerment
 
 - **Benazir Bhutto:** Prime Minister 1988–90 and 1993–96; first woman elected to lead a Muslim-majority country.
@@ -96,6 +121,11 @@ features of each foreign relationship, and the key people and laws on women's em
 - **Laws:** Protection of Women Act 2006; workplace harassment law 2010; anti-honour-killing law 2016.
 - **Representation:** reserved seats for women in the national and provincial assemblies.
 - **By 2022:** progress in schooling and politics; gaps remain in literacy, jobs and rural access.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century--07-women-empowerment.webp" width="900" height="693" alt="A timeline from Benazir Bhutto becoming Prime Minister in 1988 through the Protection of Women Act 2006, the workplace harassment law of 2010 and the 2016 law against honour killings, to Dr Sania Nishtar’s Ehsaas programme paying cash to women. By 2022 girls’ enrolment and political representation had risen, but literacy, work and legal protection lagged." loading="lazy">
+  <figcaption>Laws and leaders have advanced women’s position, but gaps remain, especially in rural areas.</figcaption>
+</figure>
 
 ## Culture
 

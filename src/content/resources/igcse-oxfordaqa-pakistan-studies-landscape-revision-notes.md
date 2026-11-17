@@ -53,6 +53,11 @@ loss).
 A one-hazard answer prepared in real depth outperforms a superficial
 sweep across several.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--01-hazard-cause-impact.webp" width="900" height="432" alt="A three-part chain: physical causes (tectonic setting, monsoon rainfall, glacial melt) lead to a named hazard such as an earthquake, flood or glacial process, which leads to human impacts (settlement damage, displacement, economic loss)." loading="lazy">
+  <figcaption>Link a named hazard’s causes to its human impacts.</figcaption>
+</figure>
+
 ## Climate: two systems, not one
 
 Keep these strictly separate — conflating them is the single most
@@ -66,6 +71,11 @@ common error in this sub-topic:
 If a question asks about regional rainfall variation, both systems are
 usually relevant — naming only the monsoon is an incomplete answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--02-monsoon-western-disturbances.webp" width="900" height="774" alt="A schematic with two arrows reaching Pakistan: the summer monsoon from the south-west and winter western disturbances from the Mediterranean and Caspian regions. A table compares them: the monsoon brings the bulk of summer rainfall; western disturbances bring winter rain and snow to northern and western Pakistan." loading="lazy">
+  <figcaption>Summer monsoon and winter western disturbances are separate systems.</figcaption>
+</figure>
+
 ## Natural resources: location plus importance, not location alone
 
 The specification explicitly asks for **importance to economic
@@ -74,6 +84,11 @@ mineral, forest or water resource, pair its distribution with a
 sentence on why it matters economically (export earnings, industrial
 input, employment) — a purely locational answer scores lower even if
 geographically accurate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--03-resource-answer-chain.webp" width="900" height="396" alt="Three linked steps: a named resource such as natural gas or hydel power, its distribution in Pakistan, and its importance for economic development. A short line shows that stopping at distribution earns lower marks; going on to importance scores higher." loading="lazy">
+  <figcaption>Say where a resource is, then why that matters for development.</figcaption>
+</figure>
 
 ## Energy: a balanced comparison, every time
 
@@ -91,12 +106,22 @@ Renewable:     abundant potential, lower running cost
 A one-sided answer praising renewables without a real disadvantage (or
 vice versa) does not match how this content is assessed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--04-energy-comparison.webp" width="900" height="468" alt="A two-row table. Natural gas: established infrastructure and reliable supply, but finite reserves, import dependency and environmental impact. Hydel power: abundant potential from rivers and glacial meltwater and low running costs, but high building costs, seasonal flow and disruption from dams." loading="lazy">
+  <figcaption>Every energy source has a real advantage and a real disadvantage.</figcaption>
+</figure>
+
 ## Key term precision
 
 Define these in your own words, not vaguely: **biome**, **flood plain**,
 **western disturbance**, **non-renewable resource**, **renewable
 resource**. A flood plain is not a delta; western disturbances are not
 the monsoon — both are frequent, avoidable confusions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources--05-flood-plain.webp" width="900" height="537" alt="A cross-section of a river channel with low, flat land on each side. A dashed line shows the water level in a flood covering this land, and a layer of fertile deposited soil lies on the flood plain." loading="lazy">
+  <figcaption>A flood plain is the low land beside a river that floods and gains fertile soil.</figcaption>
+</figure>
 
 ## Building one hazard case in full detail
 

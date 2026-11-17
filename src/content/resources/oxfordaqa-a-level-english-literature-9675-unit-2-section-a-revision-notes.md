@@ -47,6 +47,11 @@ use the [Unit 2 Section A study guide](/resources/oxfordaqa-a-level-english-lite
 
 Check your text with your teacher: a revised 9675 for teaching from 2027 has a refreshed list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--01-six-novels.webp" width="900" height="680" alt="Six rows list each novel with the places it moves between: Heart of Darkness (the Thames, Brussels, the Congo), The Great Gatsby (West Egg, East Egg, the valley of ashes, New York, the Midwest), Americanah (Lagos, Nsukka, American cities, London), Small Island (Jamaica, London, India), Last Man in Tower (a Mumbai housing society and the city) and Remains of the Day (Darlington Hall and the West Country)." loading="lazy">
+  <figcaption>Every set novel moves between places, so the order of places is itself a method.</figcaption>
+</figure>
+
 ## The specification's place angles
 
 Geographical locations (houses to countries) · where and when stories take place · the natural
@@ -55,6 +60,11 @@ social class · relationships · place as political space · home and homeland �
 representation of place.
 
 There is no exhaustive list: choose the angles that make your novel most interesting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--13-pl-angles.webp" width="900" height="810" alt="A hub labelled Place connects to seven angles drawn from the specification: geography, the natural world, social identity and class, relationships, politics, home and homeland, and language of place. The specification gives no exhaustive list, so the angles are a starting bank for evidence." loading="lazy">
+  <figcaption>Seven angles from the specification for building a bank of evidence about place.</figcaption>
+</figure>
 
 ## Methods that build place in prose
 
@@ -67,6 +77,16 @@ There is no exhaustive list: choose the angles that make your novel most interes
 - **Lexis of place**: names, dialect, foreign words and registers that make a place sound
   particular.
 - **Pathetic fallacy and atmosphere**: weather and light reflecting mood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--02-whose-view.webp" width="900" height="744" alt="Three narrators and how their position filters place: Marlow tells of the Congo from a boat on the Thames, Nick Carraway describes the Eggs as a Midwestern outsider, and Stevens’s restraint makes him an unreliable guide to the West Country. Below, structure means the order of places is a method, and representation means every place is someone’s view. A note cites Achebe’s 1975 lecture." loading="lazy">
+  <figcaption>A novel’s places always reach us through a narrator’s eyes and words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--03-how-novels-build-place.webp" width="900" height="636" alt="Three paired places show contrast: East and West Egg, the England Hortense imagines and Gilbert’s cramped room, and the old tower and the promised luxury development. Four cards follow: journeys, home and homeland, place as political space, and time." loading="lazy">
+  <figcaption>Journeys, contrasts, home, power and time all turn setting into meaning.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -90,6 +110,16 @@ There is no exhaustive list: choose the angles that make your novel most interes
 3. For each, the method that creates place and the meaning it carries.
 4. One context and one alternative interpretation, used where they explain a passage.
 5. A conclusion on what place finally means in the novel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--04-open-book-prep.webp" width="900" height="590" alt="A bar maps a novel’s sections by place from opening to ending, with pins marking five or six key passages. Two cards add marking key passages and practising short quotations, and a note says to allow about five minutes in the exam to choose three or four passages." loading="lazy">
+  <figcaption>Map the novel by place before the exam, so the open book saves time instead of costing it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--05-worked-example.webp" width="900" height="940" alt="A road runs from Darlington Hall through the West Country to the sea. Dashed arrows from each stop loop back to the house, showing each place prompting a memory of the 1930s. Below, the plan’s four points: the journey itself, the greatness of the English landscape, places as memory, and the final evening by the sea." loading="lazy">
+  <figcaption>The open road keeps pulling Stevens back into the house and the past.</figcaption>
+</figure>
 
 ## Context worth linking to place
 

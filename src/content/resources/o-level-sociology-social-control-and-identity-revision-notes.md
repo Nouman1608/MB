@@ -66,6 +66,11 @@ Fuller explanation of identity: [O Level how we learn our identity guide](/resou
 | **Multiculturalism** | Different cultures living together with equal respect |
 | **Global culture** | Shared media, brands and styles across the world |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--01-sanctions-grid.webp" width="900" height="664" alt="A two-by-two grid of formal and informal control against positive and negative sanctions: a bravery award is formal positive, a court sentence formal negative, a parent’s praise informal positive and being ignored by friends informal negative. A note explains that internalised control is the strongest." loading="lazy">
+  <figcaption>Sanctions can be formal or informal, positive or negative.</figcaption>
+</figure>
+
 ## 2.2 Social control at a glance
 
 **Formal agencies** — government (passes laws), police (arrest, patrol, digital surveillance such as
@@ -97,6 +102,26 @@ trust, unreported crime and limited resources.
 identity, excitement, rejection of mainstream values, influence of friends. Examples: student and
 environmental protest groups; youth subcultures; online communities; religious subcultures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--02-formal-agencies.webp" width="900" height="608" alt="A table of five formal agencies, government, police, courts, penal system and armed forces, with their main methods and when they are more or less effective. A note explains that coercion is a last resort and that conformity through fear is less stable." loading="lazy">
+  <figcaption>Formal control works best when people see the rules and penalties as legitimate.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--04-informal-agencies.webp" width="900" height="565" alt="A table of six informal agencies with their positive and negative sanctions, from parental treats and grounding to promotion and dismissal. Below: informal control is usually more effective because it is constant, but weaker in anonymous cities and among people who do not care about approval." loading="lazy">
+  <figcaption>Informal control draws its power from relationships people value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--05-theories-of-control.webp" width="900" height="626" alt="Functionalism sees control protecting shared values, with Durkheim’s idea that punishment unites society. Marxism sees it serving the ruling class; Althusser separates repressive state apparatuses that use force from ideological ones that persuade. Feminism, through Heidensohn, sees control maintaining patriarchy at home, in public and at work." loading="lazy">
+  <figcaption>One consensus view and two conflict views of who benefits from control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-2--06-resistance.webp" width="900" height="665" alt="Deviant behaviour breaks norms; non-conformist behaviour rejects expectations without breaking the law. Four kinds of resistance: protest groups such as the school climate strikes, youth subcultures such as punk, online subcultures and religious subcultures. Reasons for joining include belonging, grievances, status, excitement and friends." loading="lazy">
+  <figcaption>Subcultures resist mainstream control but usually impose strong control of their own.</figcaption>
+</figure>
+
 ## 2.3 Influences on identity — quick list
 
 - **Age:** social meaning of childhood, youth, old age differs between societies.
@@ -107,6 +132,21 @@ environmental protest groups; youth subcultures; online communities; religious s
 - **Globalisation:** homogenisation, hybridity, cultural defence.
 - **Postmodernism:** "pick and mix" identities through consumption; criticised for overstating
   choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--01-four-aspects-of-identity.webp" width="900" height="562" alt="Four cards: age, with Ariès’s argument that medieval children were treated like small adults; gender, with Connell’s hegemonic masculinity; ethnicity, which becomes more visible for minorities; and social class, with Bourdieu’s cultural capital. Each card gives the aspect’s impact." loading="lazy">
+  <figcaption>Age, gender, ethnicity and class are all given meaning by society, not just biology.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--02-digital-self.webp" width="900" height="599" alt="Goffman’s idea of impression management applied to online profiles, followed by four positive impacts of social media on identity, such as support and connection with diaspora, and four negative impacts, such as pressure to look perfect, cyberbullying, privacy risks and echo chambers." loading="lazy">
+  <figcaption>Online identity brings real benefits and real harms: the syllabus asks for both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-2-3--03-globalisation-three-directions.webp" width="900" height="482" alt="Globalisation leads in three directions: homogenisation, where identities become alike, as in Ritzer’s McDonaldization; hybrid identities, where young people of migrant heritage mix cultures; and cultural defence, where groups strengthen traditional identities, as Bruce showed for religion in communist Poland." loading="lazy">
+  <figcaption>Hybrid means mixing cultures; homogenisation means cultures becoming alike.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark answer
 

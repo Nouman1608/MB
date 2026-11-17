@@ -38,6 +38,11 @@ A civil wrong, other than breach of contract, for which the claimant sues the de
 | Result | Liable; damages or injunction | Guilty; sentence |
 | Vocabulary | Sue, liable, claimant, damages | Prosecute, guilty, defendant, sentence |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--01-tort-and-crime.webp" width="900" height="705" alt="The same incident, a driver killing a pedestrian, can lead to a negligence claim and a criminal charge, which are separate. A table compares them: the claimant sues in tort but the CPS usually prosecutes; tort uses the balance of probabilities and crime beyond reasonable doubt; tort gives liability and a remedy, crime a conviction and sentence; tort aims at compensation, crime at punishment." loading="lazy">
+  <figcaption>Tort compensates the claimant; crime punishes on behalf of society.</figcaption>
+</figure>
+
 ## Sources
 
 | Rule | Source |
@@ -53,6 +58,11 @@ A civil wrong, other than breach of contract, for which the claimant sues the de
 
 **Using the source:** for statute-based torts, quote the section first (OLA 1957 s2(2) common duty of care; OLA 1984 s1(3) conditions). For common law torts, state the test from the leading case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--02-sources-of-tort.webp" width="900" height="541" alt="Common law torts built case by case: negligence (Donoghue, Caparo, Robinson), private nuisance (Hunter v Canary Wharf), Rylands v Fletcher (Transco), vicarious liability (Various Claimants, Lister) and consent (Smith v Baker, ICI v Shatwell). Statutory rules: the Occupiers’ Liability Acts 1957 and 1984 and the Contributory Negligence Act 1945. In negligence, established precedent comes first and Caparo is only for novel situations." loading="lazy">
+  <figcaption>Negligence grows case by case; occupiers’ liability starts from the Acts’ wording.</figcaption>
+</figure>
+
 ## Burden and proof
 
 - **Claimant proves every element** on the balance of probabilities.
@@ -60,6 +70,11 @@ A civil wrong, other than breach of contract, for which the claimant sues the de
 - **Res ipsa loquitur:** inference of negligence where the thing was under D's control and the accident would not normally happen without negligence (*Scott v London and St Katherine Docks*, 1865).
 - **Criminal conviction** can be used as evidence (s11 Civil Evidence Act 1968).
 - **Defendant proves defences** on the balance of probabilities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--03-who-proves-what.webp" width="900" height="608" alt="The claimant proves each element of the tort on the balance of probabilities, and the defendant proves any defence. Barnett v Chelsea and Kensington shows a claim failing on causation. Res ipsa loquitur (Scott v London and St Katherine Docks) and a criminal conviction used as evidence under s11 Civil Evidence Act 1968 can help the claimant." loading="lazy">
+  <figcaption>The claimant proves the tort; the defendant proves the defence.</figcaption>
+</figure>
 
 ## The fault spectrum
 
@@ -74,6 +89,11 @@ Negligence      Occupiers' liability    Private nuisance     Rylands      Vicari
 
 **Fault authorities:** *Vaughan v Menlove* (1837) reasonable person; *Bolton v Stone* (1951) probability; *Paris v Stepney* (1951) seriousness; *Christie v Davey* (1893) malice in nuisance; *Cambridge Water* (1994) foreseeability in *Rylands*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--04-fault-spectrum.webp" width="900" height="715" alt="A spectrum from personal fault needed to no personal fault. Negligence is fault-based (Vaughan v Menlove; Bolton v Stone; Paris v Stepney). Occupiers’ liability is a fault-based statutory duty. Private nuisance asks whether use of land was unreasonable (Christie v Davey on malice). Rylands v Fletcher is strict but requires foreseeable damage (Cambridge Water). Vicarious liability requires no personal fault by the employer." loading="lazy">
+  <figcaption>From negligence to vicarious liability, the need for personal fault falls away.</figcaption>
+</figure>
+
 ## Defences at a glance
 
 | Defence | Effect | Authority |
@@ -83,6 +103,11 @@ Negligence      Occupiers' liability    Private nuisance     Rylands      Vicari
 | Rescuers | Not consenting | *Haynes v Harwood* (1935) |
 | Nuisance-specific | Prescription; statutory authority | — |
 | Rylands-specific | Act of God; act of a stranger; consent; statutory authority | — |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-rules-of-tort-law--05-defences.webp" width="900" height="669" alt="Illustrative bars show full damages with no defence, reduced damages with contributory negligence and nothing with consent. Contributory negligence under the 1945 Act reduces damages by a just share, for example 25% or 15% for not wearing a seat belt (Froom v Butcher). Consent is complete where the claimant knew of and freely agreed to the risk (Smith v Baker; Morris v Murray), but rescuers do not consent (Haynes v Harwood). Nuisance and Rylands have specific defences." loading="lazy">
+  <figcaption>Contributory negligence reduces damages; consent defeats the claim.</figcaption>
+</figure>
 
 ## Remedies at a glance
 

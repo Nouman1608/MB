@@ -34,6 +34,11 @@ for exam-style questions, the [practice questions](/resources/edexcel-igcse-phys
 Statement 4.18P names: **wind, water, geothermal resources, solar heating systems, solar cells, fossil fuels and
 nuclear power**. Learn one transfer chain for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--01-thermal-power-station-chain.webp" width="900" height="710" alt="Fossil fuels, nuclear fuel, geothermal heat and large-scale solar heating all heat water into high-pressure steam. The steam spins a turbine, the turbine turns a generator, and energy goes to the grid electrically, with much wasted heating cooling water and air." loading="lazy">
+  <figcaption>Thermal stations make steam to spin the turbine; the generator does the final step.</figcaption>
+</figure>
+
 ## Transfer chains
 
 ```
@@ -52,6 +57,11 @@ Nuclear:     nuclear store → fission → thermal store of steam → turbine �
 - The **generator** works by electromagnetic induction: a magnet rotating in coils (or coils in a field) induces a
   voltage.
 - Energy is dissipated at each stage, mostly by heating the surroundings and cooling water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--02-energy-transfer-chains.webp" width="900" height="740" alt="Eight chains, each ending electrically: wind from the kinetic store of moving air; hydroelectric from the gravitational store of high water; tides and waves from moving sea water; geothermal from hot rocks; solar heating and solar cells from radiation; fossil fuels from a chemical store; nuclear from a nuclear store." loading="lazy">
+  <figcaption>Start at the original store, name each stage, and finish with &quot;electrically&quot;.</figcaption>
+</figure>
 
 ## Renewable or non-renewable
 
@@ -74,6 +84,11 @@ Nuclear is **non-renewable** and is **not** a fossil fuel.
 | Fossil fuels | Reliable, controllable, large output | Carbon dioxide (climate change); sulfur dioxide from coal (acid rain); will run out |
 | Nuclear | Large reliable output from little fuel; no carbon dioxide while generating | Long-lived radioactive waste; accident risk; high build and decommissioning costs; slow start-up |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--05-wind-vs-nuclear-discussion.webp" width="900" height="650" alt="A comparison table of a wind farm and a nuclear power station on the same criteria: renewable or not, carbon dioxide, reliability, scale, fuel and waste, and cost, followed by a judgement that nuclear is better for a reliable supply while wind needs controllable backup." loading="lazy">
+  <figcaption>A strong &quot;discuss&quot; answer compares both on the same criteria and ends with a judgement.</figcaption>
+</figure>
+
 ## Six criteria for any comparison
 
 1. Reliability (weather and time of day).
@@ -84,6 +99,11 @@ Nuclear is **non-renewable** and is **not** a fossil fuel.
 6. Renewable or non-renewable.
 
 Judge both resources on the **same** criteria, then reach a conclusion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation--03-reliability-and-control.webp" width="900" height="560" alt="Resources sorted by how their output can be matched to demand. Variable: wind, solar, waves and tidal (predictable but varying). Steady: nuclear, geothermal and coal. Controllable and quick to start: hydroelectric and gas-fired stations." loading="lazy">
+  <figcaption>Variable renewables need backup from resources that can be controlled.</figcaption>
+</figure>
 
 ## Key terms
 

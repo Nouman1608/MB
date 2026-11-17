@@ -40,11 +40,21 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-input-output-and-file-ha
 - Input is a **string**: convert before arithmetic, `qty ← STRING_TO_INT(USERINPUT)`.
 - Python: `qty = int(input("Enter the quantity: "))`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--01-keyboard-input.webp" width="900" height="586" alt="The display shows the prompt &quot;Enter your age&quot; and the user types 16. USERINPUT arrives as the string &quot;16&quot;, which STRING_TO_INT converts to the integer 16, ready for arithmetic. The pseudocode is OUTPUT &quot;Enter your age&quot; followed by age ← STRING_TO_INT(USERINPUT); in Python, age = int(input(&quot;Enter your age: &quot;))." loading="lazy">
+  <figcaption>Prompt the user, then convert the string that arrives before doing arithmetic.</figcaption>
+</figure>
+
 ## Display output
 
 - `OUTPUT` sends text or values to the screen.
 - Label values so the output is **information**, not just data: `OUTPUT "Average: " + REAL_TO_STRING(avg)`.
 - Joining with `+` needs strings on both sides; convert numbers first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--02-output-data-information.webp" width="900" height="544" alt="Two displays: 14.5 on its own is just data, while &quot;Total cost: 14.5&quot; is information because the user knows what the number means. The statement OUTPUT &quot;Total cost: &quot; + REAL_TO_STRING(total) joins fixed text to the number after converting it to a string." loading="lazy">
+  <figcaption>Label every value you output so it becomes information.</figcaption>
+</figure>
 
 ## Why text files
 
@@ -54,12 +64,22 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-input-output-and-file-ha
 | Only available to this run of the program | Can be reused next time and shared with other programs |
 | Hold any data type | Hold lines of characters (numbers must be converted) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--03-why-text-files.webp" width="900" height="624" alt="Variables in a running program lose their values when it ends, but data saved to a text file on secondary storage is still there next time and can be shared with other programs. Typical uses are high scores, event logs, settings and lists of words or questions. Numbers read from a file are strings until converted." loading="lazy">
+  <figcaption>A text file makes data persist after the program ends.</figcaption>
+</figure>
+
 ## Reading a text file: four steps
 
 1. **Open** for reading.
 2. **Loop until end of file** (`WHILE NOT END_OF_FILE(file)`), so an empty file gives zero reads.
 3. **Read a line** and **process** it (convert if numeric).
 4. **Close** the file.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp" width="900" height="700" alt="A flowchart: open the file for reading, test for the end of the file, and while it is not reached read a line, process it and test again; at the end, close the file. Beside it, pseudocode that totals and counts the numbers in scores.txt and outputs total / count, with a note to check count > 0 so an empty file does not divide by zero." loading="lazy">
+  <figcaption>Open, loop until end of file reading one line at a time, then close.</figcaption>
+</figure>
 
 ## Writing a text file
 
@@ -70,6 +90,16 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-input-output-and-file-ha
 
 Steps: **open** (choose mode) → **write** each line (convert numbers to strings) → **close**.
 Python modes: `"r"` read, `"w"` write, `"a"` append. Add `"\n"` at the end of each line when using `write`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--05-write-versus-append.webp" width="900" height="766" alt="A log file holds two existing lines. Opened in write mode, it is replaced and holds only the new line. Opened in append mode, the new line is added after the two existing lines. The pseudocode opens log.txt for appending, writes &quot;Login by &quot; + username and closes the file." loading="lazy">
+  <figcaption>Write mode replaces the file; append mode adds to the end.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--07-open-once-outside-loop.webp" width="900" height="760" alt="Pseudocode opens seven.txt in write mode, writes i x 7 = i * 7 for i from 1 to 12, then closes the file, giving 12 lines from 1 x 7 = 7 to 12 x 7 = 84. If the file were opened in write mode inside the loop, each pass would wipe it and only 12 x 7 = 84 would remain." loading="lazy">
+  <figcaption>Open once before the loop and close once after it.</figcaption>
+</figure>
 
 ## Why close a file
 
@@ -93,6 +123,11 @@ OUTPUT "Words starting with s: " + INT_TO_STRING(count)
 
 (File command names are illustrative; any suitable names are accepted if the logic is clear. `SUBSTRING(0, 0,
 word)` is the first character, counting from 0.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--06-high-score-sequence.webp" width="900" height="758" alt="The high-score pseudocode in four stages: input the score and convert it to an integer; open highscores.txt in append mode, write the score as a string and close; open the file for reading and loop to the end, converting each line and keeping the best; close the file and output &quot;Best score: &quot; with the result." loading="lazy">
+  <figcaption>Convert, append, close, read every line, close, output: each step earns a mark.</figcaption>
+</figure>
 
 ## Python equivalents
 

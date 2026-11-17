@@ -34,6 +34,11 @@ featured: false
 3. **Grain**: feed the cities and export grain to pay for machinery after the 1927-28 grain crisis.
 4. **Power**: strengthen Stalin and the party, especially in the countryside.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--01-why-stalin-modernised.webp" width="900" height="571" alt="Background: the USSR was mainly a peasant country and peasants held back grain in 1927-28. Four aims of modernisation: defence against the capitalist powers, communist ideology, reliable grain for cities and exports, and Stalin's power." loading="lazy">
+  <figcaption>Defence, ideology, grain and power all pushed Stalin towards rapid change.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -59,6 +64,16 @@ featured: false
 - **Famine 1932-33**: millions died; grain still exported.
 - **By the end of the 1930s** almost all farms were collectivised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--02-how-collectivisation-worked.webp" width="900" height="498" alt="Peasants' land, animals and tools are merged into a collective farm, which delivers fixed grain quotas to the state. A Machine Tractor Station supplies machinery and lets the party watch the villages; on state farms peasants worked for wages." loading="lazy">
+  <figcaption>Collective farms delivered fixed quotas to the state, watched through the tractor stations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--03-collectivisation-timeline.webp" width="900" height="693" alt="Vertical timeline of collectivisation: the 1929 campaign and call to liquidate the kulaks, peasant resistance that halved livestock, &quot;Dizzy with Success&quot; in March 1930, the August 1932 law, the famine of 1932-33, internal passports, and near-total collectivisation by the end of the 1930s." loading="lazy">
+  <figcaption>Collectivisation was completed at the cost of famine and millions of deaths.</figcaption>
+</figure>
+
 ## Five-Year Plans in brief
 
 - Set by **Gosplan**; targets for each industry and factory.
@@ -67,6 +82,11 @@ featured: false
 - **Third** (1938-41): rearmament; industry in the Urals and Siberia.
 - Official claim: steel from about 4 million tonnes (1928) to about 18 million (1940), figures that may be exaggerated.
 - Consumer goods and housing neglected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--04-five-year-plans.webp" width="900" height="674" alt="Three linked cards for the Five-Year Plans: heavy industry (1928-32), heavy industry plus transport (1933-37) and rearmament (1938-41). Below, a bar chart of official steel output, about 4 million tonnes in 1928 and about 18 million in 1940, with a warning that figures may be exaggerated." loading="lazy">
+  <figcaption>Heavy industry grew fast, at least on paper; consumer goods were neglected.</figcaption>
+</figure>
 
 ## Consequences by group
 
@@ -79,12 +99,27 @@ featured: false
 | Professional workers | Fast promotion for Soviet-trained engineers | Distrust of older specialists (Shakhty); arrest if targets failed |
 | Women | Paid work, training, crèches | Double burden; 1936 abortion ban; divorce harder |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--05-consequences-for-groups.webp" width="900" height="566" alt="Table of gains and losses for kulaks, city dwellers, industrial workers, professional workers and women under Stalin's modernisation, from deportation of kulaks to new opportunities and a double burden for women." loading="lazy">
+  <figcaption>Modernisation brought opportunity to some groups and suffering to many.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--07-question-5-women.webp" width="900" height="547" alt="Two ways women were affected: new opportunities in paid work with crèches, and tighter state control of family life through the 1936 Family Code. Together these produced a double burden of work and motherhood." loading="lazy">
+  <figcaption>Work and family policy together created the double burden.</figcaption>
+</figure>
+
 ## Extent of modernisation: for and against
 
 **Modernised:** heavy industry; new cities and power stations; education and literacy; industrial base for victory in 1941-45.
 **Not modernised or at great cost:** agriculture damaged; consumer goods and housing lagged; forced labour and terror; exaggerated statistics; famine.
 
 **Judgement line to adapt:** "Stalin modernised heavy industry and defence to a remarkable extent, which mattered in 1941, but the countryside and living standards were not modernised in the same way, and the methods relied on famine, deportation and forced labour." Decide which half matters more for the exact question asked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--06-extent-of-modernisation.webp" width="900" height="553" alt="Two columns weighing the extent of modernisation: heavy industry, cities, education and eastern industry were transformed, but agriculture, consumer goods and housing lagged, and the costs in forced labour, terror and famine were enormous." loading="lazy">
+  <figcaption>Industry and defence modernised; the countryside and living standards did not.</figcaption>
+</figure>
 
 ## Key terms
 

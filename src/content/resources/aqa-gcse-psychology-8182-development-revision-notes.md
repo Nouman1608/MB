@@ -43,6 +43,11 @@ Condensed recall for **section 3.1.3 Development** of Paper 1. For full explanat
 | Verbaliser | Someone who prefers to learn through words |
 | Visualiser | Someone who prefers to learn through images |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--02-assimilation-accommodation.webp" width="900" height="496" alt="New information meets an existing schema. If it fits, the child assimilates it into the schema. If it does not fit, the child feels uncertain and accommodates, changing the schema or creating a new one." loading="lazy">
+  <figcaption>Assimilate when it fits; accommodate when it does not.</figcaption>
+</figure>
+
 ## Brain development: structure to function
 
 ```
@@ -57,6 +62,11 @@ cortex      -> cognition (thinking, language, planning)       last; matures into
 **Why the order matters:** a newborn must breathe, keep its heart beating and feed from birth, so the brain stem is well developed first. The thalamus relays information from the senses to the cortex, so sensory processing develops early. The cerebellum's control of balance and co-ordination develops as the infant learns to sit, crawl and walk. The **cortex**, responsible for higher thinking, develops gradually through childhood and adolescence, which fits Piaget's idea that abstract reasoning comes last.
 
 **Evaluating nature and nurture:** genes direct the timetable of brain growth, but the environment affects how well it unfolds. Poor nutrition, alcohol or drugs in pregnancy can harm development, while a stimulating, responsive environment after birth supports it. A full answer says how the two **interact** rather than choosing one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--01-brain-develops-bottom-up.webp" width="900" height="824" alt="Four levels numbered from the bottom: the brain stem (autonomic functions such as breathing), the thalamus (sensory processing), the cerebellum (movement such as crawling and walking) and the cortex (cognition, with front parts maturing into adolescence). Genes set the order; nurture affects how well the brain develops." loading="lazy">
+  <figcaption>Brain stem, thalamus, cerebellum, cortex: genes set the order, nurture shapes how well.</figcaption>
+</figure>
 
 ## Piaget's stages
 
@@ -75,6 +85,16 @@ cortex      -> cognition (thinking, language, planning)       last; matures into
 
 **Evaluating Piaget:** a strength is that his theory changed education, encouraging active, discovery-based learning matched to the child's level. Weaknesses: his tasks may have confused children, so he underestimated what they could do (see the two studies below); the stage ages are not fixed; and his theory gives little weight to the role of other people and language in learning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--05-c-piaget-stages.webp" width="900" height="1010" alt="A four-step staircase rising from left to right: sensorimotor, pre-operational, concrete operational, formal operational. A note says schemas change through assimilation and accommodation, and arrows show egocentrism reducing and conservation developing as the child moves up." loading="lazy">
+  <figcaption>Thinking changes in a fixed order of four stages as schemas are modified.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--06-conservation-of-liquid.webp" width="900" height="693" alt="Juice is poured from a short, wide glass into a tall, thin glass and five-year-old Ava says there is more juice now. Three points explain it: she is in the pre-operational stage, she cannot conserve, and she focuses on height and ignores width." loading="lazy">
+  <figcaption>Same amount, different look: a pre-operational child judges by height alone.</figcaption>
+</figure>
+
 ## Studies that challenge Piaget
 
 **McGarrigle and Donaldson (naughty teddy)** -- number conservation with two rows of counters; more young children conserved when "naughty teddy" messed up a row by accident than when an adult changed it on purpose. **Shows:** children conserve earlier than Piaget claimed. **But:** teddy may have distracted children from the change.
@@ -84,6 +104,16 @@ cortex      -> cognition (thinking, language, planning)       last; matures into
 **Why the studies matter:** in Piaget's version of conservation, an adult asks the same question twice, before and after deliberately changing the row, so a child may think a different answer is expected. In the naughty teddy version the change looks accidental, so the second question no longer hints that something important has changed. In the mountains task, children are asked about an unfamiliar adult problem; hiding from a policeman is a game they understand. Both studies suggest that **task design**, not just stage, explains some of Piaget's results.
 
 **Evaluating the studies:** both used controlled conditions with young children, so they are easy to repeat. But they used artificial tasks with toys, and children's eagerness to please an adult may still have affected answers. They criticise the **age** at which abilities appear more than the order of Piaget's stages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--06-c-conservation-teddy.webp" width="900" height="1000" alt="Three steps. Step 1: two rows of five counters are equal. Step 2: a teddy accidentally messes up one row so it is spread out, but there are still five counters in each row. Step 3: more young children said the rows were still equal, showing they could conserve number, so Piaget underestimated young children." loading="lazy">
+  <figcaption>When the change looked accidental, more young children conserved number than Piaget predicted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--03-policeman-doll.webp" width="900" height="654" alt="A view from above of two crossing walls making four sections, with two policemen outside whose views cover three sections; the boy doll is hidden in the one section neither can see. Cards give the procedure, the finding that most children hid the boy correctly, the conclusion, and a strength and weakness." loading="lazy">
+  <figcaption>A task that made human sense showed young children are less egocentric than Piaget claimed.</figcaption>
+</figure>
 
 ## Learning and development
 
@@ -96,6 +126,16 @@ cortex      -> cognition (thinking, language, planning)       last; matures into
 **Willingham in more detail:** he argues that everyone learns best when the method suits what is being learned (a map visually, a foreign-language accent by listening), that we remember what we have thought about in terms of **meaning**, and that becoming skilled at any physical or mental task needs extended **practice**. For teaching, this means planning lessons around the content and making pupils think hard about it, not sorting them into "visual" or "verbal" learners.
 
 **Applying both to a scenario:** a pupil who says "I'm just not a maths person, and I'm a visual learner so I can't learn from worked examples" shows a **fixed mindset** (Dweck) and a belief in learning styles that Willingham would challenge. A teacher could praise the strategies the pupil uses and present maths in the way the content requires, with practice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--04-fixed-growth-mindset.webp" width="900" height="715" alt="Two columns contrast a fixed mindset (ability is set; avoids challenge, gives up after failure) with a growth mindset (ability can be developed; mistakes are part of learning). Praising ability can encourage a fixed mindset; praising effort and strategy encourages a growth mindset. Self-efficacy and an evaluation follow." loading="lazy">
+  <figcaption>Praise effort and strategy, not ability, to encourage a growth mindset.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-development--05-learning-styles-willingham.webp" width="900" height="440" alt="Learning styles theory claims teaching should match a preferred style, verbaliser or visualiser. Willingham's criticism: there is little evidence this improves learning; the method should suit the content, such as learning a map visually; and much of what we remember is stored as meaning." loading="lazy">
+  <figcaption>Willingham: suit the method to the content and help pupils think about meaning.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -59,12 +59,27 @@ featured: false
 | Strict food rationing | Millions homeless; many orphans |
 | Lend-Lease aid from the USA and Britain | Whole nationalities deported |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--01-war-economy.webp" width="900" height="683" alt="After the German invasion of June 1941 captured Ukraine and besieged Leningrad, the USSR responded by moving over 1,500 factories east, mobilising the whole economy, rationing food strictly and receiving Lend-Lease aid from the USA and Britain." loading="lazy">
+  <figcaption>Moving industry east and total mobilisation kept the war effort going.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--02-human-cost.webp" width="900" height="525" alt="Around 27 million Soviet citizens died. Four further effects: civilian deaths in the siege of Leningrad, killings and deportations under occupation, millions of homes destroyed and children orphaned, and the deportation of whole nationalities in 1941 and 1944." loading="lazy">
+  <figcaption>No country lost more people in the war than the USSR.</figcaption>
+</figure>
+
 ## Stalin as war leader
 
 - **Failures:** ignored warnings; purged officers; early encirclements such as Kiev.
 - **Successes:** State Defence Committee; stayed in Moscow; 7 November parade; patriotic appeals; trusted commanders such as Zhukov after 1942; Stalingrad and Kursk.
 - **Methods:** Order No. 227; penal battalions; NKVD behind the lines.
 - **Tone:** patriotism and Russian history over communism; concessions to the Church.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--03-stalin-war-leader.webp" width="900" height="540" alt="Balance of Stalin's war leadership: weaknesses (ignored warnings, purged officers, encirclements in 1941) against strengths (State Defence Committee, staying in Moscow, patriotic appeals, reliance on Zhukov). Below, the harsh Order No. 227 and a changed propaganda tone." loading="lazy">
+  <figcaption>Stalin's leadership was neither wholly good nor wholly bad.</figcaption>
+</figure>
 
 ## Women's contribution
 
@@ -73,11 +88,21 @@ featured: false
 - **Propaganda:** *The Motherland Calls!* (1941); **Lyudmila Pavlichenko**, sniper credited with 309 kills, toured Allied countries in 1942, meeting Eleanor Roosevelt.
 - **After 1945:** demobilisation; return to stress on motherhood; veterans' service little recognised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--04-women-in-the-war.webp" width="900" height="528" alt="Three stages for women: replacing men on the home front, serving in the armed forces (over 800,000 by common estimates, including the Night Witches), and demobilisation after the war. Below, women in propaganda: The Motherland Calls! poster and the tour of the sniper Lyudmila Pavlichenko." loading="lazy">
+  <figcaption>Women were vital to the war effort and to its propaganda, but little recognised afterwards.</figcaption>
+</figure>
+
 ## Reconstruction to 1953
 
 - **Industry:** Fourth Five-Year Plan; heavy industry first; Dnieper dam rebuilt; official claim of beating pre-war output by 1950; atomic bomb 1949.
 - **Agriculture:** famine 1946-47; taxes on private plots; low pay on collective farms; stagnation.
 - **Living standards:** rationing ended December 1947 with a currency reform that wiped out savings; severe housing shortage; few consumer goods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--05-post-war-reconstruction.webp" width="900" height="507" alt="Three columns on reconstruction to 1953: industry was rebuilt under the Fourth Five-Year Plan and the atomic bomb tested in 1949; agriculture stagnated, with famine in 1946-47; and living standards were little better than in 1940." loading="lazy">
+  <figcaption>Heavy industry recovered; farming and living standards did not.</figcaption>
+</figure>
 
 ## High Stalinism
 
@@ -86,6 +111,11 @@ featured: false
 - **Terror:** returning prisoners of war sent to the Gulag; Leningrad Affair; Doctors' Plot; Gulag at its peak in the early 1950s.
 - **Beria:** NKVD chief from 1938; security and the atomic project after 1945; executed December 1953.
 - **Death:** stroke 1 March, death 5 March 1953; mass mourning; crushes at the lying-in-state.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism--06-high-stalinism.webp" width="900" height="778" alt="Timeline of High Stalinism: Zhdanov's attacks on culture from 1946, the anti-cosmopolitan campaign from 1948, the Leningrad Affair, Stalin's seventieth birthday in 1949, the Gulag peak, the Doctors' Plot in January 1953, Stalin's death on 5 March 1953 and Beria's arrest and execution." loading="lazy">
+  <figcaption>Terror and the cult grew again after 1945, until Stalin's death in March 1953.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -58,6 +58,11 @@ Course links: [Language B hub](/boards/ib/ib-dp/language-b/) ·
 Not in the brief: word ranges, the list of text types and the marking criteria. The full subject guide sets the Paper 1 word ranges: 250 to 400 words at SL and 450 to 600 words at HL.
 Get the text-type list and criteria from your teacher, who has the full guide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--01-paper-1-at-a-glance.webp" width="900" height="735" alt="Three task cards with the middle one chosen: you write one task from three, worth 25 percent and 30 marks. A word-range scale shows SL at 250 to 400 words and HL at 450 to 600 words. A note says HL tasks require more complex language and higher-order thinking." loading="lazy">
+  <figcaption>One task from three, 30 marks; HL writes more, with more complex language.</figcaption>
+</figure>
+
 ## Definitions
 
 | Term | Meaning for Paper 1 |
@@ -87,6 +92,11 @@ names for the course.
 
 Neutral register sits between the two: clear, standard language for a wide public.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--03-register-scale.webp" width="900" height="833" alt="A scale runs from informal through neutral to formal. The same message about a quiz night moved to Monday is shown as a message to a friend, a school newsletter notice and a letter to a guest speaker, with the opening, vocabulary, structure and request highlighted. A table summarises how each changes." loading="lazy">
+  <figcaption>The message stays the same; opening, vocabulary, structure and request move up the scale.</figcaption>
+</figure>
+
 ## Text-type families
 
 This page groups text types by audience. Learn the list your teacher gives you.
@@ -97,12 +107,27 @@ This page groups text types by audience. Learn the list your teacher gives you.
 | Professional | An organisation, or you in a working role | Formal letter, formal email, report, proposal | Purpose stated early; one point per paragraph; formal formulas; headings in reports |
 | Mass media | A wide public | Article, opinion piece, speech, leaflet, review | Headline or greeting to audience; neutral register; devices that engage many readers |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--04-three-families.webp" width="900" height="538" alt="Three columns of text types sorted by audience: personal (diary, personal email or letter, personal blog post), professional (formal letter, formal email, report, proposal) and mass media (article, opinion piece, speech, leaflet, review). A note lists the conventions to check: layout and opening, register, typical moves and closing." loading="lazy">
+  <figcaption>Sort text types by audience: personal, professional, mass media.</figcaption>
+</figure>
+
 ## Method in steps: decoding a task
 
 1. Read all three tasks to the end.
 2. For each, underline: **role**, **reader**, **purpose**, **text type**, **content points**.
 3. Ask: do I control this text type? Do I have the topic vocabulary?
 4. Choose the task where both answers are yes, and commit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--05-choosing-a-task.webp" width="900" height="560" alt="Five numbered steps: read all three tasks to the end; underline role, reader, purpose, text type and content points; ask whether you control the conventions and have the vocabulary; choose the task where both answers are yes; and commit." loading="lazy">
+  <figcaption>Choose the task whose conventions and vocabulary you control, then commit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--02-five-questions.webp" width="900" height="594" alt="Five numbered rows turn the conceptual understandings into planning questions: context (where and why the text exists) sets the format; audience sets the register; purpose may have a second purpose; meaning should fit in one sentence; variation means choosing a suitable form of the language and staying consistent." loading="lazy">
+  <figcaption>Context sets the format, audience sets the register; answer all five before writing.</figcaption>
+</figure>
 
 ## Method in steps: planning and checking
 
@@ -113,6 +138,11 @@ This page groups text types by audience. Learn the list your teacher gives you.
 5. Write, then check: every content point covered; register held to the end; conventions visible
    throughout, not only at the start.
 6. HL: check that you weigh, evaluate or answer an objection, not only describe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-paper-1-writing-text-types--06-letter-plan.webp" width="900" height="746" alt="Role, reader and purpose cards sit above a letter outline. Five paragraphs are labelled: salutation and purpose; what you bring, with two examples; an idea for the reading club; practical questions about hours, training and references; and a closing with availability, thanks and a formal formula." loading="lazy">
+  <figcaption>Purpose first, specific strengths, a sign of initiative, practical questions, a formal close.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

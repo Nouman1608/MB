@@ -67,6 +67,16 @@ Limits: not every destination follows Butler's curve, and management can alter i
 - **Plog:** **allocentric** (venturer) travellers seek new, unspoilt places; **psychocentric** (dependable) travellers prefer familiar, safe, developed ones; most people are **mid-centric**. As a destination develops, its visitors shift from allocentric towards psychocentric, which links Plog to Butler.
 - **Doxey:** useful for explaining resident protests against overcrowding in popular cities, but attitudes vary within a community: residents who earn from tourism may stay positive while others become hostile.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--02-butler-cycle.webp" width="900" height="820" alt="A smooth rising S-shaped curve of visitor numbers over time, split into five numbered stages: exploration, involvement, development, consolidation and stagnation. After stagnation the line splits into two possible futures: rejuvenation (visitor numbers rise again) or decline (they fall). Not to scale." loading="lazy">
+  <figcaption>Butler’s tourism area life cycle: visitor numbers rise through stages and then either decline or are rejuvenated.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--03-doxey-index.webp" width="900" height="780" alt="Four steps rising from left to right as visitor numbers increase. Each step has a face showing local attitude: euphoria (smiling), apathy (neutral), annoyance (frowning) and antagonism (frowning with angry brows)." loading="lazy">
+  <figcaption>Doxey’s index: host attitudes sour as visitor numbers rise.</figcaption>
+</figure>
+
 ## Carrying capacity
 
 | Type | Meaning |
@@ -88,6 +98,11 @@ Perceptual capacity is often reached first in wilderness areas, where visitors e
 Always say **for whom** an impact is positive or negative.
 
 **Multiplier effect:** tourist spending in a hotel pays wages and buys supplies from local businesses, whose owners and workers then spend their income locally, so the total effect on the economy is larger than the first spending. Leakage weakens the multiplier.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-leisure-tourism-sport-study-guide--04-impacts-grid.webp" width="900" height="800" alt="A grid with three rows, economic, social and cultural, and environmental, and two columns, benefits and costs. Economic: jobs, income, multiplier effect and foreign exchange against seasonal work, low wages, leakage and price rises. Social and cultural: cultural exchange and kept traditions against commodification, crowding and displacement. Environmental: money for conservation against pressure on habitats, water and waste, erosion and emissions. A banner says always say for whom." loading="lazy">
+  <figcaption>Impacts of tourism and sport sorted into benefits and costs, with the reminder to say for whom.</figcaption>
+</figure>
 
 ## Sport at local and national scale
 

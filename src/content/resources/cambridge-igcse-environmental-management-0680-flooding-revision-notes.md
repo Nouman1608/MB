@@ -34,6 +34,11 @@ Floods happen when **water arrives faster than the channel or the ground can tak
 
 Label each cause with 1, 2 or 3 and the explanation follows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--01-water-to-river.webp" width="900" height="706" alt="Cross-section of a slope down to a river. Rain is intercepted by trees, infiltrates into the soil and moves slowly through it, or flows quickly over the surface as run-off into the river channel." loading="lazy">
+  <figcaption>Run-off reaches rivers quickly; infiltrated water moves slowly.</figcaption>
+</figure>
+
 ## Causes (6.3.1)
 
 | Cause | Mechanism | Type |
@@ -50,6 +55,11 @@ Label each cause with 1, 2 or 3 and the explanation follows.
 | Climate change: more extreme weather | More intense rainstorms | 1 |
 | Storm surges and tsunamis | Sea water pushed or thrown onto land | 3 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--02-causes-by-mechanism.webp" width="900" height="558" alt="Causes of flooding sorted by how they work. More and faster run-off: steep slopes, saturated or compacted soil, deforestation, farming practices, urbanisation and more intense rainstorms. Less channel space: soil erosion. Water collecting: low-lying flat land. Coastal flooding by sea water: sea-level rise, storm surges and tsunamis." loading="lazy">
+  <figcaption>Link each cause to run-off, channel capacity or the sea.</figcaption>
+</figure>
+
 ## Impacts (6.3.2): nine
 
 Damage to buildings and infrastructure · loss of crops · livestock and habitats · evacuation of people and livestock · landslides · contamination of drinking-water supplies · water-related disease · financial losses · human health.
@@ -63,6 +73,11 @@ Damage to buildings and infrastructure · loss of crops · livestock and habitat
 | Structure of buildings | | |
 | Disaster preparation (plans, drills, emergency supplies, rescue teams) | | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--03-management-stages.webp" width="900" height="628" alt="Strategies arranged before, during and after a flood. Before: monitoring and warning, land use zoning, the structure of buildings and disaster preparation. During: evacuation. During and after: shelters. After: rebuilding and international aid." loading="lazy">
+  <figcaption>Eight strategies, sorted by when they act.</figcaption>
+</figure>
+
 ## Benefit and limitation pairs (6.3.4)
 
 - **Monitoring and warning**: time to move people and goods / flash floods give little warning; equipment upkeep.
@@ -74,10 +89,20 @@ Damage to buildings and infrastructure · loss of crops · livestock and habitat
 - **Rebuilding**: chance to build flood-resistant / slow, costly, may rebuild in same risky place.
 - **International aid**: food, water, medical teams / late, uneven, dependency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--04-land-use-zoning.webp" width="900" height="680" alt="Cross-section of a river valley. The floodplain below flood level is used for parks and playing fields, while homes, schools and hospitals are placed on higher ground. Cards give the benefit and the limitation of zoning." loading="lazy">
+  <figcaption>Zoning controls what is built where; it is cheap but hard where land is scarce.</figcaption>
+</figure>
+
 ## Opportunities (6.3.5): two
 
 1. **Nutrient-rich silt deposited on farmland**: water slows on the floodplain and drops fine silt, so soils are fertile.
 2. **Recharge of surface water and ground water stores**: lakes, wetlands and reservoirs refill; water soaks down to aquifers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--05-opportunities.webp" width="900" height="680" alt="Cross-section of a floodplain under floodwater. As the water spreads and slows it drops a layer of nutrient-rich silt on the farmland, and water soaks down to refill an aquifer. Cards summarise silt deposition and recharge of water stores." loading="lazy">
+  <figcaption>Floods fertilise floodplains and refill water stores for the dry season.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -98,6 +123,11 @@ Damage to buildings and infrastructure · loss of crops · livestock and habitat
 ## Quick calculation pattern
 
 Volume of rain (m³) = rainfall (m) × area (m²). Convert first: 1 mm = 0.001 m; 1 km² = 1,000,000 m². Then multiply by the fraction that runs off. Example: 20 mm on 0.5 km² = 0.020 × 500,000 = 10,000 m³; if 60% runs off, 6,000 m³ reaches the river.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-flooding--06-urban-run-off.webp" width="900" height="615" alt="Bar chart of run-off from 45,000 m³ of rain: 9,000 m³ from woodland where 20% runs off, and 38,250 m³ from a built-over area where 85% runs off. The working shows an extra 29,250 m³ reaches the river." loading="lazy">
+  <figcaption>Impermeable surfaces send over four times as much water to the river.</figcaption>
+</figure>
 
 ## Exam traps
 

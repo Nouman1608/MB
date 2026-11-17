@@ -52,6 +52,11 @@ These notes cover strand 2 of geographical enquiry, "Selecting, measuring and re
 | Cross-sectional area | Width × mean depth |
 | Discharge | Cross-sectional area × velocity |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--01-data-types.webp" width="900" height="619" alt="Two ways to classify data. Primary data are collected first-hand, such as measurements and questionnaires; secondary data are collected by others, such as census data, maps and GIS layers. Quantitative data are numerical, such as river width; qualitative data are descriptive, such as interviews and photographs." loading="lazy">
+  <figcaption>Data are primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
 ## Physical methods
 
 | Variable | Equipment | Key point |
@@ -64,6 +69,16 @@ These notes cover strand 2 of geographical enquiry, "Selecting, measuring and re
 | Beach profile | Ranging poles, clinometer, tape | Angle at each break of slope |
 | Vegetation | Quadrat | Percentage cover or species count |
 | Microclimate | Thermometer, anemometer | Same height at every site |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--02-river-measurements.webp" width="900" height="698" alt="A river cross-section: width is measured with a tape across the water surface from bank to bank, and depth with a metre rule at ten equal intervals to give a mean. In plan view, a float is timed three times over a measured 10 m. Width times mean depth gives cross-sectional area; area times velocity gives discharge." loading="lazy">
+  <figcaption>Width, mean depth and velocity combine to give discharge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--03-beach-quadrat.webp" width="900" height="674" alt="A beach profile cross-section from the sea to the back of the beach, with ranging poles at each change of slope and a clinometer measuring the angle between them. Below, a quadrat used to estimate percentage plant cover, pebbles measured on their longest axis and compared with a roundness chart, and temperature and wind measured at the same height at each site." loading="lazy">
+  <figcaption>Match the equipment to the variable your hypothesis names.</figcaption>
+</figure>
 
 ## Human methods
 
@@ -85,9 +100,19 @@ These notes cover strand 2 of geographical enquiry, "Selecting, measuring and re
 | Systematic | Every 500 m along a river | Even coverage, repeatable | May miss features between sites |
 | Stratified | 7 quadrats on grass, 3 in woodland for a 70:30 park | Every group represented | Needs prior information |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--04-sampling.webp" width="900" height="720" alt="Three plan views of ten quadrats. Random: scattered by random coordinates. Systematic: at regular intervals. Stratified: a field that is 70% grass and 30% woodland gets seven quadrats on grass and three in woodland. Below, a place can be sampled at points, along lines or transects, or within areas." loading="lazy">
+  <figcaption>Random avoids bias, systematic gives even coverage, stratified represents every group.</figcaption>
+</figure>
+
 ## Recording sheet must-haves
 
 Title, date, time, weather; site and location; one column per variable **with units**; space for repeats and means; notes column.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--05-recording-sheet.webp" width="900" height="684" alt="A river-study recording sheet with a title, date, time and weather line, then columns for site, distance from source, width, depth readings, mean depth, three float times over 10 m, mean time and notes. Labels mark the five features a good sheet needs." loading="lazy">
+  <figcaption>Units, repeats and a notes column make the data quick, accurate and consistent.</figcaption>
+</figure>
 
 ## Improving data quality
 
@@ -99,10 +124,20 @@ Title, date, time, weather; site and location; one column per variable **with un
 
 Consistent but wrong readings are **reliable but not accurate**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--06-accuracy-reliability.webp" width="900" height="771" alt="Three targets: readings clustered on the true value are accurate and reliable; readings clustered away from it are reliable but not accurate, like a thermometer that always reads 2 °C too high; scattered readings are neither. Below, how to improve accuracy, reliability, procedures and use a control group such as grass beside tarmac." loading="lazy">
+  <figcaption>Results can be consistent and still wrong: reliability is not accuracy.</figcaption>
+</figure>
+
 ## Describe versus justify
 
 - **Describe:** what, with what equipment, where, how many, how often, so it could be repeated.
 - **Justify:** why it suited the hypothesis, and how it improved reliability, accuracy or fairness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-9230-fieldwork-data-collection--07-describe-justify.webp" width="900" height="630" alt="The model answer on timing a float split into description, equipment, a measured 10 m, the centre of the channel, three repeats and six sites, and justification: it was quick enough for all sites in one day, repeats improved reliability, and the same position kept the test fair." loading="lazy">
+  <figcaption>Describe so it can be repeated; justify by linking to the enquiry.</figcaption>
+</figure>
 
 ## Condensed example
 

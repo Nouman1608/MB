@@ -41,6 +41,11 @@ person: assault, battery and false imprisonment.
 
 **Alternative action:** where intention cannot be shown, sue in negligence and prove damage.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--01-trespass-or-negligence.webp" width="900" height="584" alt="A flow chart: if the harm followed directly from an intentional or reckless act, the claim is trespass to the person, actionable without proof of damage. If the act was unintentional, the claim lies in negligence and damage must be proved (Letang v Cooper). All are proved on the balance of probabilities." loading="lazy">
+  <figcaption>Direct and intentional: trespass, no damage needed. Unintentional: negligence, damage needed.</figcaption>
+</figure>
+
 ## 4.3.1 Assault
 
 **Definition:** an act causing the claimant reasonably to apprehend immediate unlawful force.
@@ -51,6 +56,11 @@ person: assault, battery and false imprisonment.
 - Threat with ability to carry it out: Read v Coker (1853).
 - Words can negate: Tuberville v Savage (1669).
 - Words and silence can amount to assault: R v Ireland (1998), silent calls (criminal case).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--02-assault.webp" width="900" height="542" alt="Assault requires the claimant to apprehend immediate unlawful force, not to feel fear. Stephens v Myers and Thomas v NUM show immediacy and means; Read v Coker shows reasonableness. Words can create an assault or negate one (Tuberville v Savage), and silence can be enough (R v Ireland)." loading="lazy">
+  <figcaption>The test is reasonable apprehension of immediate force; words can make or unmake it.</figcaption>
+</figure>
 
 ## 4.3.2 Battery
 
@@ -73,6 +83,16 @@ person: assault, battery and false imprisonment.
 | Self-defence | Honest and reasonable belief; reasonable, proportionate force | Lane v Holloway (1968); Ashley v Chief Constable of Sussex (2008) |
 | Necessity | Force to prevent greater harm or in the best interests of a patient unable to consent | Leigh v Gladstone (1909), now doubted; F v West Berkshire HA (1989) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--03-battery-force.webp" width="900" height="636" alt="Battery covers any touching (Cole v Turner), force through an object and continuing acts (Fagan). Everyday contact is not a battery (Collins v Wilcock), though holding a woman’s arm without arrest was. On hostility, Wilson v Pringle required it but F v West Berkshire said it is not needed; the better view asks whether the touching is outside generally accepted everyday conduct." loading="lazy">
+  <figcaption>The least unwanted touching can be a battery; everyday contact is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--04-battery-defences.webp" width="900" height="436" alt="Three defences to battery. Consent, express or implied: in medical treatment if informed in broad terms (Chatterton v Gerson), with a right to refuse (Re T), and in sport for contact within the rules. Self-defence needs an honest and reasonable belief and proportionate force (Lane v Holloway; Ashley). Necessity covers preventing greater harm (Leigh v Gladstone, now doubted; F v West Berkshire)." loading="lazy">
+  <figcaption>Consent, self-defence and necessity, each with its limit.</figcaption>
+</figure>
+
 ## 4.3.3 False imprisonment
 
 **Definition:** unlawful total restraint of a person's liberty, for any length of time.
@@ -86,6 +106,11 @@ person: assault, battery and false imprisonment.
 - **Authority ending:** R v Governor of Brockhill Prison, ex p Evans (2001), detention beyond release
   date unlawful despite good faith.
 - **Crowd containment:** Austin v Commissioner of Police (2009), no breach of Article 5.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--05-false-imprisonment.webp" width="900" height="667" alt="Two pictures: a person in a locked room is totally restrained, while in Bird v Jones a claimant blocked on part of a bridge could go back the other way, so was not imprisoned. Four panels: escape routes must be reasonable; reasonable conditions on leaving are allowed (Robinson v Balmain; Herd v Weardale); knowledge is not needed (Meering; Murray); and restraint must be lawful (PACE; ex parte Evans; Austin)." loading="lazy">
+  <figcaption>Restraint must be total; partial obstruction is not false imprisonment.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -66,6 +66,16 @@ then used an older calendar, so many books call them the February and October re
 joined the crowds; the Duma set up a Provisional Government; the Petrograd Soviet was formed; generals advised the
 Tsar to go, and he abdicated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--01-russia-1905-survival.webp" width="900" height="869" alt="Five pressures on Nicholas II in 1905 are shown on the left: defeat by Japan, Bloody Sunday, strikes and peasant risings, the Potemkin mutiny and the St Petersburg Soviet. The Tsar then made two moves. The October Manifesto promised a Duma and civil rights and satisfied many liberals. Loyal troops crushed the Soviet and the remaining risings. Opponents were divided, so the Tsar survived, but reform stayed limited." loading="lazy">
+  <figcaption>Nicholas II survived 1905 by dividing his opponents: concessions for liberals, force for rebels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--02-russia-war-to-abdication.webp" width="900" height="1081" alt="A chain of events: heavy defeats and shortages damage the army and the Tsar; in September 1915 Nicholas takes personal command and is blamed; the Tsarina and Rasputin discredit the monarchy; inflation and shortages hit workers. In March 1917 strikes and bread queues in Petrograd become mass demonstrations; the Petrograd garrison refuses to fire and joins the crowds; Nicholas abdicates on 15 March 1917. Power is shared between the Provisional Government and the Petrograd Soviet." loading="lazy">
+  <figcaption>War defeats and shortages weakened the Tsar; when the Petrograd garrison joined the crowds in March 1917, he abdicated.</figcaption>
+</figure>
+
 ## Key question 2: How did the Bolsheviks gain power and consolidate their rule?
 
 - **Dual power:** the Provisional Government shared authority with the Petrograd Soviet, whose **Order No. 1**
@@ -90,6 +100,16 @@ Tsar to go, and he abdicated.
   **New Economic Policy**: private trade and small businesses allowed, a tax in kind replaced requisitioning. Food
   production recovered, but "NEPmen" were resented by many communists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--03-russia-november-1917.webp" width="900" height="936" alt="Four factors point at the Winter Palace in Petrograd. The Provisional Government continued the war and delayed land reform. Lenin returned with the April Theses and the slogans Peace, Bread, Land and All power to the Soviets. After the Kornilov affair in September, Kerensky armed the Bolshevik Red Guards. Trotsky led the Military Revolutionary Committee, which took key points in Petrograd and the Winter Palace on 6 to 7 November 1917." loading="lazy">
+  <figcaption>Government mistakes, Lenin’s slogans, the Kornilov affair and Trotsky’s organisation combined in November 1917.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--04-russia-civil-war-to-nep.webp" width="900" height="901" alt="A schematic, not a map. The Reds hold the central industrial heartland and railways, with a disciplined Red Army built by Trotsky. The Whites, under Kolchak, Denikin and Yudenich, are divided, spread around the edges and tainted by foreign intervention. The Reds won the Civil War of 1918 to 1921. War Communism, which took grain for the army, then caused famine and the Kronstadt Rising of March 1921, so Lenin replaced grain requisitioning with a tax and allowed small private trade: the New Economic Policy." loading="lazy">
+  <figcaption>The Reds held the centre and the Whites were scattered round the edges; War Communism then forced Lenin into the NEP.</figcaption>
+</figure>
+
 ## Key question 3: How did Stalin gain and hold on to power?
 
 - **Positions:** General Secretary from 1922, controlling appointments; he placed loyal supporters in the party.
@@ -103,6 +123,16 @@ Tsar to go, and he abdicated.
 - **Propaganda and culture:** cult of personality; history rewritten; **socialist realism** in art and literature.
 - **The 1936 Constitution** promised rights that were not honoured.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--05-russia-stalin-rise.webp" width="900" height="937" alt="After Lenin died in January 1924, Stalin used his post as General Secretary to appoint loyal officials. In the first stage he allied with Zinoviev and Kamenev against Trotsky. In the second stage he allied with Bukharin against Zinoviev and Kamenev. Trotsky, seen as arrogant, missed Lenin’s funeral, was expelled from the party in 1927 and exiled in 1929. By 1928 Stalin was dominant." loading="lazy">
+  <figcaption>Stalin beat his rivals one at a time by changing allies; Trotsky was expelled in 1927 and exiled in 1929.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--06-russia-terror-and-control.webp" width="900" height="850" alt="Two pillars support Stalin’s control by 1941. The pillar of terror: Kirov murdered in December 1934; the NKVD arrests millions; show trials of old Bolsheviks in 1936 to 1938; the purge of Red Army commanders including Marshal Tukhachevsky in 1937; execution or Gulag labour camps. The pillar of persuasion: cult of personality, censorship, rewritten history and socialist realism in the arts. By 1941 opposition had been eliminated, but the purges had weakened the army and economy." loading="lazy">
+  <figcaption>Stalin combined terror (the NKVD and show trials) with propaganda to remove opposition by 1941.</figcaption>
+</figure>
+
 ## Key question 4: What was the impact of Stalin's economic policies?
 
 - **Five-Year Plans** (from 1928), set by Gosplan: heavy industry, coal, steel, oil, electricity; projects such as
@@ -112,6 +142,11 @@ Tsar to go, and he abdicated.
 - **Social groups:** skilled workers and party officials gained; peasants lost most; women entered industry in large
   numbers but kept domestic burdens; divorce was made harder and abortion banned in 1936; minorities faced
   Russification and deportation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-russia-1905-41--07-russia-plans-and-collectivisation.webp" width="900" height="797" alt="Two panels compare gains and costs. Five-Year Plans from 1928, set by Gosplan: heavy industry (coal, steel, oil, electricity) rose very fast, with new centres such as Magnitogorsk and the Dnieper dam; costs were scarce consumer goods, false figures and harsh discipline for workers. Collectivisation from 1929: peasants forced into collective farms to supply grain; costs were kulaks deported or killed, peasants slaughtering livestock, and the 1932 to 1933 famine, worst in Ukraine, which killed millions." loading="lazy">
+  <figcaption>Both policies delivered what Stalin wanted for industry and grain, at a very high human cost.</figcaption>
+</figure>
 
 ## Key terms
 

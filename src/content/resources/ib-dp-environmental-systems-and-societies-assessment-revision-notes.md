@@ -39,6 +39,11 @@ The individual investigation carries a larger share of the final grade at SL (25
 These figures come from the IB's ESS subject brief for first assessment 2026. External assessment
 totals 3 hours at SL and 4 hours 30 minutes at HL.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-assessment-revision-notes--01-sl-hl-weightings.webp" width="900" height="740" alt="Two stacked bars. SL: Paper 1 25% (1 hour), Paper 2 50% (2 hours), internal assessment 25%, so 75% external and 25% internal. HL: Paper 1 30% (2 hours), Paper 2 50% (2 hours 30 minutes), internal assessment 20%, so 80% external and 20% internal." loading="lazy">
+  <figcaption>Paper 2 is 50% at both levels; HL shifts weight from the IA to a longer Paper 1.</figcaption>
+</figure>
+
 ## The internal assessment
 
 - An **open-ended individual investigation**: each student formulates their own research question,
@@ -58,13 +63,28 @@ questions; both draw on the scientific **and** societal strands.
 
 The individual investigation is graded against criteria covering the whole research process: formulating a focused research question suited to the issue; justifying and applying an appropriate methodology capable of generating reliable data; processing and presenting that data (including basic statistical treatment where relevant); and reaching evidence-based conclusions that are then evaluated for strengths and limitations, with specific, feasible suggestions for improving the investigation. Because ESS draws on both scientific and societal methods, a strong IA typically integrates both dimensions explicitly -- for example, connecting a measured environmental change to its social, economic or policy implications -- rather than treating the investigation as a purely scientific exercise that stops at the data. Your teacher holds the full criteria from the subject guide; ask for them before you plan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-assessment-revision-notes--02-ia-research-process.webp" width="900" height="640" alt="Five steps the investigation is graded across: a focused research question, a justified methodology giving reliable data, processing and presenting data, evidence-based conclusions, and evaluation with feasible improvements. Side notes: up to 3,000 words, about 10 hours, open-ended, and integrating scientific and societal dimensions." loading="lazy">
+  <figcaption>The IA is graded across the whole research process, and strong ones link science to society.</figcaption>
+</figure>
+
 ## Command terms across the papers
 
 Both written papers use the same command-term glossary as the other DP sciences and individuals-and-societies subjects: **state**, **identify** and **outline** at the lower end; **explain**, **compare** and **suggest** in the middle; **evaluate**, **discuss** and **to what extent** at the top, where a reasoned judgement weighing multiple perspectives or pieces of evidence is required. Because ESS explicitly combines scientific and societal content, a strong "evaluate" or "discuss" answer in this subject often needs to weigh evidence from both strands together -- for example, evaluating an environmental policy requires considering both its scientific effectiveness and its social/economic feasibility, not just one dimension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-assessment-revision-notes--03-command-term-levels.webp" width="900" height="725" alt="A three-step staircase of command terms. Lower: state, identify, outline. Middle: explain, compare, suggest. Top: evaluate, discuss, to what extent, which need a reasoned judgement weighing perspectives or evidence." loading="lazy">
+  <figcaption>The higher the command term, the more an ESS answer must weigh science and society together.</figcaption>
+</figure>
+
 ## Why ESS's dual nature shapes its assessment structure
 
 Because ESS can be counted toward either the sciences group or the individuals-and-societies group of the Diploma's six subject groups (or toward both, which frees up an additional subject choice elsewhere in the Diploma), its assessment is deliberately built to be defensible as either a science or a humanities subject. This is why both written papers draw on scientific methodology (measurement, data analysis, experimental design) and societal analysis (policy, ethics, economics, human systems) side by side, rather than separating the two strands into different papers -- a structural choice that reflects the subject's own stated aim of examining environmental issues through the combined lens of natural science and human society.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-assessment-revision-notes--04-dual-nature.webp" width="900" height="730" alt="Overlapping circles: sciences (measurement, data analysis, experimental design) and individuals and societies (policy, ethics, economics, human systems). ESS sits in the overlap, with Paper 1, Paper 2 and the IA drawing on both." loading="lazy">
+  <figcaption>ESS papers mix scientific and societal analysis rather than splitting them into separate papers.</figcaption>
+</figure>
 
 ## How this compares to a single-group science
 

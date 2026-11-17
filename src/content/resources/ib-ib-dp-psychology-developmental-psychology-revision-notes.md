@@ -48,6 +48,21 @@ Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-d
 | Bowlby's attachment theory | Infants have an innate need to attach to a caregiver; an internal working model guides later relationships | Supported by animal and human research; critics question monotropy and the critical period |
 | Social learning / gender schema | Gender roles are learned by observation and reinforcement (Bandura); children build gender schemas that organise information (Martin and Halverson, 1981) | Explains cultural variation; biological factors also play a part |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--14-dev-piaget-stages.webp" width="900" height="960" alt="Four rows for the sensorimotor, preoperational, concrete operational and formal operational stages with the lesson’s approximate ages and key features, with icons for object permanence, a conservation task and abstract thinking." loading="lazy">
+  <figcaption>Piaget’s four stages in order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--15-dev-schema-cycle.webp" width="900" height="860" alt="New information either fits an existing schema (assimilation, a round piece in a round slot) or does not (accommodation, the slot changes to take a square piece). Both lead to equilibrium, the balance that drives learning." loading="lazy">
+  <figcaption>Assimilation fits information to a schema; accommodation changes the schema.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--16-dev-zpd.webp" width="900" height="850" alt="A more knowledgeable other supports a child with scaffolding that is reduced as the child improves. In the fictional example the child solves 6 of 10 problems alone (60 per cent) and 9 of 10 with help (90 per cent): a gap of 3 problems or 30 percentage points." loading="lazy">
+  <figcaption>The ZPD is the gap between independent and assisted performance.</figcaption>
+</figure>
+
 ## Key studies
 
 | Study | Finding | Content point |
@@ -63,6 +78,11 @@ Related: [Developmental psychology study guide](/resources/ib-ib-dp-psychology-d
 | Baron-Cohen, Leslie and Frith (1985) | Most autistic children failed the Sally-Anne false-belief task, unlike most children with Down syndrome and typically developing children | Theory of mind |
 | Wimmer and Perner (1983) | Children typically pass false-belief tasks around age four | Theory of mind |
 | Smith and Lloyd (1978) | Mothers chose gender-typed toys for infants according to the sex they were told the baby was | Gender identity and social roles |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-developmental-psychology-study-guide--19-dev-attachment.webp" width="900" height="930" alt="Harlow: infant rhesus monkeys preferred a cloth surrogate to a wire one that gave milk (contact comfort). Ainsworth: the Strange Situation uses brief separations and reunions to classify attachment as secure, insecure-avoidant or insecure-resistant." loading="lazy">
+  <figcaption>Harlow’s surrogates and Ainsworth’s three attachment types.</figcaption>
+</figure>
 
 ## Worked example: linking a study to resilience
 

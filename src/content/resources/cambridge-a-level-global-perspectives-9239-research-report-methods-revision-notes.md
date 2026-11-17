@@ -40,6 +40,11 @@ These notes cover the "Research methods and methodology" section of Component 4,
 2. **Procedure**: how exactly.
 3. **Methodology**: why it suits the question and subject, and what it allows you to conclude.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--01-three-layers.webp" width="900" height="619" alt="Three layers of a methods section: methods, what you did; procedure, how you did it; and methodology, why those methods suit this kind of question in this subject and what they allow you to conclude. Most weak methods sections stop at the first layer." loading="lazy">
+  <figcaption>Say what you did, how, and why it suits the question; most weak answers stop at what.</figcaption>
+</figure>
+
 ## Question types and fitting methods
 
 | Type | Asks | Usual methods |
@@ -51,6 +56,11 @@ These notes cover the "Research methods and methodology" section of Component 4,
 
 Normative questions need reasoning about values; data alone cannot answer them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--02-question-type-methods.webp" width="900" height="788" alt="Four question types matched to evidence and methods. Empirical questions need measurement and suit data analysis, surveys or experiments; interpretive questions need close reading and suit text analysis or interviews; normative questions need arguments about values plus evidence of consequences; explanatory questions need evidence that tests competing explanations." loading="lazy">
+  <figcaption>The kind of question decides the evidence, and the evidence decides the method.</figcaption>
+</figure>
+
 ## Design decisions for each method
 
 | Method | Decisions to state |
@@ -61,6 +71,16 @@ Normative questions need reasoning about values; data alone cannot answer them.
 | Survey | Population; sampling; piloted, neutral questions; says versus does |
 | Statistical data | Definitions; period; producer and collection method; the comparison that answers the question |
 | Experiment | What is varied, measured, held constant; safety |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--03-design-decisions.webp" width="900" height="624" alt="Six methods with their design decisions: a literature review needs a search strategy, inclusion rules and organisation by perspective; text analysis needs chosen passages and an alternative reading; interviews need participants, open questions and theme analysis; surveys need sampling and piloting; data need checked definitions; experiments need controlled variables and safety." loading="lazy">
+  <figcaption>Choosing a method is not enough; explain how you carried it out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--04-mixing-methods.webp" width="900" height="603" alt="National data shows that a change happened; interviews show how people experienced it. Comparing them gives two outcomes: if both point the same way the conclusion is more secure, and if they conflict the conflict is a finding to discuss. Two well-designed methods are usually more manageable than four thin ones." loading="lazy">
+  <figcaption>Mix methods so each answers what the other cannot, or checks it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -80,9 +100,19 @@ Normative questions need reasoning about values; data alone cannot answer them.
 
 Informed consent; anonymity and confidentiality; right to withdraw; sensitivity and safety. The syllabus asks teachers to help candidates "consider research ethics and conventions" and to be satisfied the research "does not raise safety issues".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--05-research-ethics.webp" width="900" height="545" alt="Four ethical conventions for research involving people: informed consent, anonymity and confidentiality, the right to withdraw at any point, and sensitivity and safety for participants and the researcher." loading="lazy">
+  <figcaption>Show in the methods section how each convention was met.</figcaption>
+</figure>
+
 ## The five questions a methods section answers
 
 What did I do? How exactly? Why does it suit my question and subject? What are its limits? How do the limits affect what I can conclude?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--06-methods-section.webp" width="900" height="695" alt="Five questions in order, each answered from the league-tables example: what was done, how exactly, why it suits the question and subject, what the limits are, and how those limits affect the conclusion." loading="lazy">
+  <figcaption>Name, describe, justify, limit, then apply the limit to the conclusion.</figcaption>
+</figure>
 
 ## Boundaries methods set on conclusions
 
@@ -90,6 +120,11 @@ What did I do? How exactly? Why does it suit my question and subject? What are i
 - One place or period: conclusions about that place or period first.
 - Correlation: not cause without further evidence.
 - Normative question: needs explicit value reasoning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-research-report-methods--07-boundary-of-claims.webp" width="900" height="629" alt="Four kinds of evidence with what each can and cannot support: qualitative evidence from a few people shows how and why but not how common; data from one place supports conclusions about that place first; correlation does not establish cause alone; outcome evidence needs explicit reasoning about values to support a normative judgement." loading="lazy">
+  <figcaption>State the boundary your methods set, and keep your conclusion inside it.</figcaption>
+</figure>
 
 ## Exam traps
 

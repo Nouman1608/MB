@@ -45,6 +45,16 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 - **Expansion:** campaigns began into Iraq and Syria.
 - **Significance:** preserved the unity of the community and the obligation of zakat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--01-narrate-vs-explain.webp" width="900" height="434" alt="Two panels. Narrating states only that Abu Bakr fought the Ridda wars. Explaining adds why it mattered: he held the early community together, so Islam survived as a unified faith and political community after the Prophet's death." loading="lazy">
+  <figcaption>Marks come from saying why an event mattered, not just that it happened.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--03-abu-bakr-revision-triad.webp" width="900" height="594" alt="A three-slot revision card filled in for Abu Bakr: achievement, holding the community together; difficulty, the Ridda wars; and a linking sentence, that his firmness was critical to Islam's survival as a unified community. A note says to repeat it for the other three Caliphs." loading="lazy">
+  <figcaption>Prepare the same three slots for each Caliph so comparisons come easily.</figcaption>
+</figure>
+
 ## Umar ibn al-Khattab (634–644)
 
 - **Appointment:** nominated by Abu Bakr after consultation.
@@ -53,6 +63,11 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 - **Religious measures:** congregational tarawih prayers in Ramadan.
 - **Character:** simple lifestyle; patrolled at night to see people's needs; held governors accountable.
 - **Death:** stabbed by Abu Lu'lu'a while leading prayer; appointed a council (shura) of six to choose his successor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--05-significance-answer-steps.webp" width="900" height="612" alt="Four numbered steps with a worked example on Umar: state the action (the diwan and administrative systems), explain the problem it solved (governing a larger, more diverse state), explain its lasting significance (a model for later Islamic states) and connect it to leadership qualities (justice and practical governance)." loading="lazy">
+  <figcaption>Action, problem solved, lasting significance, leadership quality.</figcaption>
+</figure>
 
 ## Uthman ibn Affan (644–656)
 
@@ -83,6 +98,11 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 | Protecting the faith | Abu Bakr and Uthman preserving the Qur'an |
 | Relations with other states | Treaties granting security to conquered peoples in return for jizya |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--04-caliphs-as-models.webp" width="900" height="690" alt="The Rightly Guided Caliphate sits at the centre as a reference point for four themes: just governance, consultation (shura), the relationship between ruler and community, and relations with other states." loading="lazy">
+  <figcaption>Islamic political thought looks back to this period as a model of leadership.</figcaption>
+</figure>
+
 ## Quick timeline
 
 | Year (CE) | Event |
@@ -96,6 +116,11 @@ for relations with other states. (The caliphs' lives during the Prophet's lifeti
 | 656 | Uthman martyred; Ali becomes caliph; Battle of the Camel |
 | 657 | Battle of Siffin and arbitration |
 | 661 | Ali martyred in Kufa |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-rightly-guided-caliphs--02-rightly-guided-caliphs-timeline.webp" width="900" height="578" alt="A scaled timeline from 632 to 661 CE divided into Abu Bakr (632–634), Umar (634–644), Uthman (644–656) and Ali (656–661), with a card of main events for each: the Ridda wars; expansion and the diwan; the standardised Qur'an and Uthman's assassination; and the First Fitna with the Battles of the Camel and Siffin." loading="lazy">
+  <figcaption>Four Caliphs in order, each with the events that define his rule.</figcaption>
+</figure>
 
 ## Worked example
 

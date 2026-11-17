@@ -34,6 +34,11 @@ These notes condense section 3.2 Light of the Cambridge IGCSE Physics 0625 sylla
 - Distance from object to its image = 2 × distance from object to mirror.
 - **Extended only:** construct the image by drawing a perpendicular from the object to the mirror and marking the image the same distance behind; join image to eye with a dashed line behind the mirror and a solid line in front.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--01-plane-mirror.webp" width="900" height="620" alt="Left: a ray strikes a plane mirror at 25° to its surface, so the angle of incidence measured from the normal is 65° and the angle of reflection is also 65°. Right (Extended): the image I of a point O is on the perpendicular line, the same distance d behind the mirror; a dashed line from I to the eye fixes where the real ray reflects." loading="lazy">
+  <figcaption>Measure angles from the normal; the image is as far behind the mirror as the object is in front.</figcaption>
+</figure>
+
 ## Refraction (3.2.2)
 
 - Refraction is caused by a **change of speed** at a boundary.
@@ -58,6 +63,16 @@ These notes condense section 3.2 Light of the Cambridge IGCSE Physics 0625 sylla
 - n is greater than 1 for light entering a material from air. Larger n: more bending, smaller c, slower light.
 - Optical fibres: light hits the fibre wall at more than c and is totally internally reflected along it; used to carry telecommunications signals as light pulses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--02-refraction-block.webp" width="900" height="640" alt="A ray in air meets a plastic block of refractive index 1.60 at 50° to the normal, bends towards the normal to 28.6° inside, and leaves parallel to its original direction, shifted sideways. Calculations give r = 28.6°, a speed of 1.9 × 10⁸ m/s in the plastic and a critical angle of 38.7°." loading="lazy">
+  <figcaption>Light bends towards the normal entering a slower material and away from it leaving.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--03-critical-angle-tir.webp" width="900" height="700" alt="Three semicircular plastic blocks with n = 1.60. A ray inside meeting the flat surface at 25° partly refracts out and partly reflects. At the critical angle, 38.7°, the refracted ray runs along the surface. At 55° there is no refracted ray: total internal reflection. Below, light zigzags along an optical fibre by repeated total internal reflection." loading="lazy">
+  <figcaption>Total internal reflection needs light inside the denser material and an angle above the critical angle.</figcaption>
+</figure>
+
 ## Thin lenses (3.2.3)
 
 - Converging lens: parallel beam meets at the **principal focus** F.
@@ -78,12 +93,32 @@ These notes condense section 3.2 Light of the Cambridge IGCSE Physics 0625 sylla
 - **Extended only:** magnifying glass = converging lens with the object inside F.
 - **Extended only:** short sight (focus in front of retina) → diverging lens; long sight (focus behind retina) → converging lens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-waves--05-lens-focus.webp" width="900" height="890" alt="Parallel rays meet at the principal focus after a converging lens. After a diverging lens they spread out and appear to come from a principal focus on the incoming side." loading="lazy">
+  <figcaption>A converging lens brings parallel rays to a focus; a diverging lens spreads them as if from a focus.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--04-lens-real-image.webp" width="900" height="600" alt="Scale ray diagram: a 2.0 cm object 15 cm from a converging lens of focal length 5.0 cm. A ray parallel to the axis refracts through the far principal focus and a ray through the centre goes straight on; they cross 7.5 cm beyond the lens, 1.0 cm below the axis, giving a real, inverted, diminished image." loading="lazy">
+  <figcaption>Two construction rays fix the image: here real, inverted and diminished.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--05-magnifying-glass.webp" width="900" height="640" alt="An object between a converging lens and its principal focus. The ray parallel to the axis refracts through the far focus and the ray through the centre goes straight on; the two rays diverge, and traced back as dashed lines they meet behind the object, giving a virtual, upright, enlarged image. Short sight is corrected with a diverging lens and long sight with a converging lens." loading="lazy">
+  <figcaption>Object closer than F: the image is virtual, upright and enlarged.</figcaption>
+</figure>
+
 ## Dispersion (3.2.4)
 
 - A prism splits white light because each colour refracts by a different amount.
 - Order: **red, orange, yellow, green, blue, indigo, violet**.
 - Red → violet: frequency increases, wavelength decreases; violet refracts most.
 - **Extended only:** monochromatic light has a single frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-light-cambridge-igcse-physics--06-dispersion.webp" width="900" height="700" alt="White light enters a glass prism and leaves as a spectrum: red bends least and violet most, giving red, orange, yellow, green, blue, indigo and violet. From red to violet the frequency increases and the wavelength decreases." loading="lazy">
+  <figcaption>Each colour refracts by a different amount, so white light splits into a spectrum.</figcaption>
+</figure>
 
 ## Key terms
 

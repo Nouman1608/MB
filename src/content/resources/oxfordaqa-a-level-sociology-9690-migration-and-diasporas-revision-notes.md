@@ -84,6 +84,41 @@ These notes condense content point **3.2.1.4 Demographic changes - migration and
 - **Trapped populations** (UK Foresight report, 2011): the poorest may be unable to move.
 - Teitiota case (UN Human Rights Committee, views published 2020): deportation from New Zealand to Kiribati not found unlawful, but future climate effects could bar returns. "Climate refugee" is not a legal category.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--01-migration-theories.webp" width="900" height="740" alt="A grid of four approaches beyond push and pull: household strategy, networks, structural and world-systems views, and Castles and Miller’s migration systems, each with its core argument and what it explains well." loading="lazy">
+  <figcaption>Families, networks and global structures explain flows that individual choice cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--02-internal-international.webp" width="900" height="502" alt="The same push factors, poverty and conflict, lead most people to move within their country and a minority with money, contacts or documents to cross borders. China’s hukou system makes internal migrants almost like foreigners." loading="lazy">
+  <figcaption>Most migration is internal; crossing a border needs resources.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--03-tourists-vagabonds.webp" width="900" height="557" alt="Bauman’s tourists travel freely by choice while vagabonds move because they must and face checkpoints. Notes cover Torpey on state control of movement, the Schengen Area and the kafala system." loading="lazy">
+  <figcaption>Who may move freely depends on which passport they hold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--04-forced-migration.webp" width="900" height="567" alt="Four categories of forced migration: refugees under the 1951 Convention with non-refoulement, asylum seekers, internally displaced persons and development-induced displacement, with Syria and the Rohingya as cases." loading="lazy">
+  <figcaption>Legal labels decide what protection forced migrants receive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--05-state-labels.webp" width="900" height="547" alt="Economic migrants, undocumented workers and digital nomads compared by who they are, how states respond, and the effects, from brain drain to vulnerability to exploitation to passport privilege." loading="lazy">
+  <figcaption>The same movement means very different lives under different labels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--06-transnationalism.webp" width="900" height="742" alt="Two-way links of family, business, religion and politics join a country of origin and a country of settlement, showing transmigrants’ social fields. Cards summarise Hall, Gilroy and Vertovec." loading="lazy">
+  <figcaption>Diasporas keep origin and settlement connected rather than cutting ties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-migration-and-diasporas--07-climate-migration.webp" width="900" height="444" alt="Sudden-onset events cause short, temporary displacement; slow-onset change works through livelihoods; and the poorest may be trapped. The Teitiota case shows “climate refugee” is not a legal category." loading="lazy">
+  <figcaption>Climate change can cause, blur or even prevent migration.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

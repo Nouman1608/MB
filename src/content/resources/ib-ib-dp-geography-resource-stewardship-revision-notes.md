@@ -60,6 +60,11 @@ places such as Punjab it also depleted groundwater and increased fertiliser and 
 
 The **linear** model is take-make-dispose; the circular economy contrasts with it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--06-res-linear-circular.webp" width="900" height="950" alt="Schematic comparing a linear take, make, use, dispose chain with a circular loop of reuse, repair, remanufacture and recycle that keeps materials in use and designs out waste." loading="lazy">
+  <figcaption>A circular economy keeps materials in use instead of ending in waste.</figcaption>
+</figure>
+
 ## Stewardship in practice
 
 - **Sustainable Development Goals (2015):** the 17 goals include clean water and sanitation (Goal 6),
@@ -92,6 +97,11 @@ Ask whether the strategy is **effective, affordable, fair and enforceable**.
 
 The rebound effect was first described by William Stanley Jevons in 1865, who observed that more
 efficient steam engines increased total coal use in Britain (the **Jevons paradox**).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--07-res-rebound-effect.webp" width="900" height="870" alt="A loop showing efficiency gain, lower cost, more use and part of the saving lost, with an illustrative bar chart where an expected saving of 100 units becomes an actual saving of 60 after 40 units are lost to rebound." loading="lazy">
+  <figcaption>Cheaper efficiency can lead to more use, which offsets part of the saving.</figcaption>
+</figure>
 
 ## Worked example: the rebound effect (invented figures)
 

@@ -55,6 +55,11 @@ Related: [Prescribed subjects study guide](/resources/ib-ib-dp-world-history-pre
 
 Sources in the exam are set on one case study per prescribed subject, so revise both case studies of your subject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--02-p1-five-subjects.webp" width="900" height="1124" alt="Five cards list the prescribed subjects with their two case studies each, joined by plus signs. A row of five dots with one filled shows that a student studies only one subject." loading="lazy">
+  <figcaption>There are five prescribed subjects, each with two case studies, and you study one.</figcaption>
+</figure>
+
 ## The four Paper 1 questions
 
 | Question | Marks | Skill | Key rule |
@@ -67,6 +72,21 @@ Sources in the exam are set on one case study per prescribed subject, so revise 
 
 Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--01-p1-marks-minutes.webp" width="900" height="630" alt="Two aligned bars show Paper 1 marks (1a 3, 1b 2, Q2 4, Q3 6, Q4 9, total 24) above minutes (Q1 12.5, Q2 10, Q3 15, Q4 22.5, total 60). Dashed lines show each segment lines up because the rate is 2.5 minutes per mark." loading="lazy">
+  <figcaption>Paper 1 gives 2.5 minutes for every mark, so the minutes bar matches the marks bar.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--03-p1-question-inputs.webp" width="900" height="794" alt="Four rows show Question 1 to 4 with marks, the task, how many sources are used and whether own knowledge is allowed. Only Question 4 allows own knowledge; Question 4 uses four sources, A to D." loading="lazy">
+  <figcaption>Questions 1 to 3 use the sources only; Question 4 uses the sources and own knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--04-p1-q3-compare.webp" width="900" height="770" alt="Two panels contrast comparing Source A then Source B separately, with no links, against comparing them point by point with two-way arrows. The second approach earns more." loading="lazy">
+  <figcaption>Compare point by point, referring to both sources in every point.</figcaption>
+</figure>
+
 ## PS1 Military leaders
 
 | Genghis Khan (c.1200-1227) | Richard I (1173-1199) |
@@ -77,6 +97,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 | Rule: the *Yassa* law code, merit-based appointment, religious tolerance, a courier system | Treaty of Jaffa with Saladin (1192); Jerusalem not retaken |
 | Debate: brilliant organiser or destroyer? Sources are often written by enemies or much later | Captured on his return, ransomed (1194); wars with Philip II; died at Châlus (1199) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1--01-two-leaders-three-headings.webp" width="900" height="652" alt="A grid with Genghis Khan and Richard I as columns and four rows: starting point, leadership, campaigns and impact. Genghis Khan built an empire from steppe peoples and campaigned against Western Xia, Jin China and Khwarazm; Richard I inherited the Angevin lands, led the Third Crusade and fought Philip II. A note asks how far success depended on personal qualities or on society and resources." loading="lazy">
+  <figcaption>Organise both case studies under the same three headings.</figcaption>
+</figure>
+
 ## PS2 Conquest and its impact
 
 | Muslim Spain (1482-1492) | Mexico and Peru (1519-1551) |
@@ -85,6 +110,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 | Ferdinand and Isabella's war from 1482: Alhama (1482), Málaga (1487) | Role of Malinche, disease (smallpox), indigenous allies and steel weapons |
 | Treaty of Granada (1491) promises religious tolerance; surrender January 1492 | Pizarro captures Atahualpa at Cajamarca (1532), executes him (1533); Inca civil war aided the Spanish |
 | Impact: expulsion of the Jews (1492); forced conversions of Muslims from 1499-1502; the Inquisition | Impact: *encomienda*, the New Laws (1542), conquistador civil wars, the Valladolid debate (1550-51) between Las Casas and Sepúlveda |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2--01-two-conquests-one-lifetime.webp" width="900" height="769" alt="A time scale from 1460 to 1560 with two bands: Granada (1482-1492) and Mexico and Peru (1519-1551). Dated events below run from the marriage of Isabella and Ferdinand in 1469 and the Inquisition in 1478 to 1492, when Granada was entered in January and terms were agreed with Columbus in April, then Cortés in 1519, Tenochtitlan in 1521, Atahualpa's capture in 1532, the New Laws of 1542 and the Valladolid debate of 1550-51." loading="lazy">
+  <figcaption>1492 links the two case studies: Granada in January, Columbus in April.</figcaption>
+</figure>
 
 ## PS3 The move to global war
 
@@ -96,6 +126,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 | Sino-Japanese War from 1937 (Marco Polo Bridge); Nanjing; the Second United Front in China | Sudetenland and Munich (1938); Czechoslovakia (March 1939); Pact of Steel; Nazi-Soviet Pact; Poland |
 | Tripartite Pact (1940); US embargoes; Pearl Harbor (December 1941) | Responses: Stresa, Hoare-Laval, appeasement, the guarantee to Poland; Italy enters the war (June 1940) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3--02-japan-action-response.webp" width="900" height="762" alt="Paired rows from 1931 to December 1941, actions on the left and responses on the right. Manchuria in 1931 and Manchukuo in 1932 met the Lytton Report and Japan's exit from the League without sanctions; pressure on north China met the Xi'an Incident and the United Front; war with China from 1937; the Tripartite Pact and Indochina met US economic pressure, ending in the oil embargo of 1941 and the attack on Pearl Harbor in December 1941." loading="lazy">
+  <figcaption>The League condemned but did not act; US pressure came late and helped trigger war.</figcaption>
+</figure>
+
 ## PS4 Rights and protest
 
 | US civil rights (1954-1965) | Apartheid South Africa (1948-1964) |
@@ -105,6 +140,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 | Sit-ins (1960), Freedom Rides (1961), Birmingham and the March on Washington (1963), Freedom Summer (1964), Selma (1965) | Sharpeville (1960); bans on the ANC and PAC; turn to armed struggle |
 | Actors: King, Malcolm X, Johnson; NAACP, SCLC, SNCC | Actors: Mandela, Luthuli; ANC, SACP, Umkhonto we Sizwe |
 | Civil Rights Act (1964); Voting Rights Act (1965) | Rivonia Trial (1963-64): leaders imprisoned |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--01-two-struggles-two-endings.webp" width="900" height="667" alt="Two bars on a shared time scale: South Africa from 1948 to 1964 with the 1950 Acts, the Defiance Campaign, the Freedom Charter and Sharpeville, and the United States from 1954 to 1965 with Brown, Montgomery, the sit-ins and Birmingham. Below, the endings: the Rivonia Trial of 1963-1964 imprisoned the South African leaders, while the US case closes with the Voting Rights Act of 1965." loading="lazy">
+  <figcaption>Judge &quot;success&quot; against each case study's own end date.</figcaption>
+</figure>
 
 ## PS5 Conflict and intervention
 
@@ -116,6 +156,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 | Limited UN response; French Operation Turquoise; RPF victory (July 1994) | NATO bombing (March-June 1999) without UN Security Council authorisation; mass flight of Kosovo Albanians |
 | Impact: refugee crisis, wars in Zaire/DRC from 1996; International Criminal Tribunal for Rwanda; *gacaca* courts | Resolution 1244; KFOR and UNMIK; Milošević handed to The Hague (2001), trial opens 2002 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--01-intervention-contrast.webp" width="900" height="447" alt="Two panels. Rwanda: UNAMIR was present with a limited mandate, was reduced on 21 April 1994, and the genocide was ended by the RPF's victory in July 1994. Kosovo: NATO bombed from 24 March to 10 June 1999 without Security Council authorisation, followed by UN administration with KFOR. Below, four criteria for evaluating an intervention: lives saved, conflict ended, international law respected, justice delivered." loading="lazy">
+  <figcaption>Judge both cases by the same criteria.</figcaption>
+</figure>
+
 ## Worked example: a Question 2 paragraph
 
 *Source: a speech by a civil rights leader to a church congregation, 1963, on the value of non-violence.*
@@ -123,6 +168,11 @@ Timing at 2.5 minutes per mark: Q1 about 12 minutes, Q2 10, Q3 15, Q4 about 23.
 "The origin -- a leading campaigner speaking in 1963 at the height of the Birmingham protests -- gives the source value for a historian studying the methods of the movement, as it shows how leaders justified non-violence to supporters. Its purpose, to persuade and inspire a sympathetic audience, limits it: it presents an idealised picture and does not show how far ordinary participants shared the commitment or how opponents responded."
 
 The paragraph links origin, purpose and content to the named topic -- the requirement of the top markband for Question 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-prescribed-subjects-study-guide--05-p1-q2-worked.webp" width="900" height="751" alt="A practice source, a 1936 government newspaper editorial, leads to origin and purpose boxes. Origin and purpose lead to value (shows how the government wanted the law understood) and limitations (propaganda, unlikely to show costs or opposition). A banner gives 4 marks times 2.5 minutes as 10 minutes." loading="lazy">
+  <figcaption>Origin and purpose lead to value and limitations, each linked to the topic.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

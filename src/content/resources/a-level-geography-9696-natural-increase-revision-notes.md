@@ -92,6 +92,16 @@ Health care, clean water and sanitation, nutrition, conflict, disease (including
 
 Youthful populations have high **youth dependency**; ageing populations have high **old-age dependency**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--12-pd-pyramids.webp" width="900" height="790" alt="Two illustrative pyramids with the oldest group at the top. The young population has a wide base (high birth rates) and a sharply narrowing top (high death rates, lower life expectancy). The ageing population has a narrow base (low birth rate) and a relatively wide top (high life expectancy)." loading="lazy">
+  <figcaption>A pyramid shape shows birth rates, death rates and life expectancy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--13-pd-pyramid-event.webp" width="900" height="810" alt="An illustrative pyramid has one unusually narrow band and a wide band beside it. Such a band can indicate a historical event that affected that age group: war, a baby boom or mass migration." loading="lazy">
+  <figcaption>An unusually narrow or wide age band can mark a historical event.</figcaption>
+</figure>
+
 ## Population structure and its consequences
 
 | Structure | Opportunities | Challenges |

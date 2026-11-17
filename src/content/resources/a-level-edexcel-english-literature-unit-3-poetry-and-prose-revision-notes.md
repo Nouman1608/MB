@@ -52,6 +52,11 @@ AS.
 **Timing tip:** split the time roughly in proportion to the marks: about 45–50 minutes for Section A and
 70–75 minutes for Section B.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-3-poetry-and-prose-study-guide--02-unit-3-marks.webp" width="900" height="760" alt="A bar drawn to scale shows 50 marks split into Section A Poetry at 20 marks (AO1 and AO2) and Section B Prose at 30 marks (AO1, AO2, AO3 and AO4). A second bar shows 120 minutes shared in the same proportion, 48 minutes and 72 minutes, as an illustration of giving each section time in proportion to its marks." loading="lazy">
+  <figcaption>Poetry is worth 20 marks and prose 30, so time can be shared in the same proportion.</figcaption>
+</figure>
+
 ## Prose themes and texts
 
 You study **two** of the three texts in **one** theme.
@@ -62,6 +67,11 @@ You study **two** of the three texts in **one** theme.
 | 2 Colonisation and After | *Heart of Darkness* (Conrad); *The Lonely Londoners* (Selvon); *A Passage to India* (Forster) |
 | 3 Science and Society | *Frankenstein* (Shelley); *The Handmaid's Tale* (Atwood); *Never Let Me Go* (Ishiguro) |
 | 4 Women and Society | *Beloved* (Morrison); *Mrs Dalloway* (Woolf); *Wuthering Heights* (Brontë) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--02-themes-and-texts-timeline.webp" width="900" height="802" alt="Four timelines from 1800 to 2010, one per theme. Growing Up: Great Expectations (1860–61), What Maisie Knew (1897), The Color Purple (1982). Colonisation and After: Heart of Darkness (1899), A Passage to India (1924), The Lonely Londoners (1956). Science and Society: Frankenstein (1818), The Handmaid’s Tale (1985), Never Let Me Go (2005). Women and Society: Wuthering Heights (1847), Mrs Dalloway (1925), Beloved (1987)." loading="lazy">
+  <figcaption>Pairings often span a century, which gives context and comparison something to explain.</figcaption>
+</figure>
 
 ## The assessment objectives in Unit 3
 
@@ -74,6 +84,11 @@ You study **two** of the three texts in **one** theme.
 
 Across the full International A Level, Unit 3 contributes AO1 7.5%, AO2 7.5%, AO3 5% and AO4 5%. AO5
 (different interpretations) is **not** assessed in Unit 3.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--03-four-aos-one-paragraph.webp" width="900" height="586" alt="Four stacked layers of a single paragraph: AO1, a point about the question in a coherent personal argument; AO2, analysis of a method in both novels; AO4, the comparison itself; and AO3, context of writing and reception explaining the difference." loading="lazy">
+  <figcaption>Aim for a point, method in both novels, comparison and context in every paragraph.</figcaption>
+</figure>
 
 ## Section A: approaching the unseen poem
 
@@ -92,6 +107,16 @@ A reliable sequence (about 10 minutes of reading and planning):
 
 Context and comparison are not rewarded in Section A, so stay with the poem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--02-two-key-phrases.webp" width="900" height="522" alt="“Function of key features” means explaining what a feature does in this poem, not that it exists: “there is enjambment in line 6” is crossed out. “Attitudes and values” means the poem’s stance: what it seems to admire, fear, mourn or question. A note explains that a personal and creative response is a reading of your own argued from evidence." loading="lazy">
+  <figcaption>Explain what features do, and find what the poem admires, fears, mourns or questions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-poetry--03-reading-sequence.webp" width="900" height="652" alt="Eight numbered steps for about ten minutes of planning: situation and voice, a one-sentence first impression, shape, movement and the turn, language clusters, sound and rhythm, the ending, and a thesis that ideally includes an ambiguity. Then plan four or five paragraphs following the poem’s movement or main methods." loading="lazy">
+  <figcaption>Eight quick reads, from situation and voice to a thesis with an ambiguity.</figcaption>
+</figure>
+
 ## Section B: writing the comparative prose essay
 
 The questions "require learners to compare the two prose texts and consider relevant contextual
@@ -108,6 +133,21 @@ connect it to context.
 
 *Whereas*, *similarly*, *by contrast*, *both writers*, *where Shelley… Ishiguro instead…*, *this
 difference reflects…*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--04-comparison-framework.webp" width="900" height="656" alt="A grid with columns for Text A and Text B and eight rows: narrative voice, structure and time, setting and its symbolism, central relationships, treatment of the theme’s core idea, endings, context of production and context of reception. Four rows are marked as an example of choosing the three or four that best answer the question." loading="lazy">
+  <figcaption>Fill the grid in revision; pick three or four rows on the day.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-unit-3-poetry-and-prose-study-guide--06-compare-by-point.webp" width="900" height="940" alt="Two layouts for a comparison. Crossed out: one paragraph wholly about Text A and then one wholly about Text B. Recommended: each paragraph is built around a point of comparison, such as how each writer presents loss or uses viewpoint, and moves between Text A and Text B within the paragraph. Words like whereas, similarly, in contrast and both writers help only if you also explain why the similarity or difference matters." loading="lazy">
+  <figcaption>Build each paragraph around a point of comparison and move between the texts, rather than writing about one text then the other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--05-production-and-reception.webp" width="900" height="520" alt="Two columns from the specification’s guidance. Production: the writer’s life where relevant, the historical setting, social and cultural contexts, and literary movements and genres. Reception: how the text has been reviewed, used, edited and adapted, and how readers have reached alternative interpretations. Reception explains why modern readers respond differently and how a later novel answers an earlier tradition." loading="lazy">
+  <figcaption>Reception context is often the most useful for explaining a difference.</figcaption>
+</figure>
 
 ## Worked example: a Theme 3 comparative paragraph
 

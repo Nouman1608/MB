@@ -71,6 +71,11 @@ practise with the [ecosystems practice questions](/resources/igcse-environmental
 **Biotic interactions (5.1.3)**: native vs invasive species; competition (for food, light, space);
 predation; pollination.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--01-components.webp" width="900" height="686" alt="Nested boxes for a savannah. The habitat is open grassland with scattered trees. Inside it the community includes grasses, trees, lions, termites, birds and zebras. Inside the community the population is all the zebras in one reserve. Below, habitat is defined as where an organism lives and niche as its role." loading="lazy">
+  <figcaption>A population is one species; a community is all of them; a niche is a role, not a place.</figcaption>
+</figure>
+
 ## How do pollination, photosynthesis and respiration fit together?
 
 - **Pollination**: transfer of pollen from an anther to a stigma, by insects or wind; leads to
@@ -80,6 +85,11 @@ predation; pollination.
 - **Aerobic respiration**: glucose + oxygen → carbon dioxide + water, releasing energy.
 
 Notice that the two word equations are reverses of each other: an easy check in the exam.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--03-photosynthesis-respiration.webp" width="900" height="620" alt="Two curved arrows link carbon dioxide and water with glucose and oxygen. Photosynthesis goes one way using sunlight energy captured by chlorophyll; aerobic respiration goes the other way and releases energy. Photosynthesis happens only in producers in light; respiration happens in all organisms day and night." loading="lazy">
+  <figcaption>Respiration reverses the reactants and products of photosynthesis.</figcaption>
+</figure>
 
 ## How does energy flow through an ecosystem? (5.1.6-5.1.7)
 
@@ -92,6 +102,16 @@ Notice that the two word equations are reverses of each other: an easy check in 
 grasshoppers 2 000 kJ → frogs 200 kJ → snakes 20 kJ. The tertiary consumer receives 0.1% of the
 producer's energy, which is why food chains rarely have more than four or five levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--04-energy-flow.webp" width="900" height="670" alt="Food chain of algae, water flea, small fish and heron. The energy at each level falls from 60,000 to 6,000, 600 and 60 kJ per square metre per year, because only 10% passes on; the rest is lost through respiration, movement, digestion and excretion. From algae to water fleas, 54,000 kJ is lost." loading="lazy">
+  <figcaption>Only about 10% passes to the next level, so food chains are short.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--05-pyramids.webp" width="900" height="630" alt="Left: a woodland pyramid of numbers with 1 oak tree, 2,000 caterpillars, 40 small birds and 2 hawks; the producer bar is narrower than the caterpillar bar, so the pyramid is inverted at the base. Right: a pyramid of energy where each level is smaller than the one below." loading="lazy">
+  <figcaption>Numbers can be inverted by one large producer; energy never can.</figcaption>
+</figure>
+
 ## The carbon cycle (5.1.9)
 
 | Process | Carbon moves |
@@ -102,6 +122,11 @@ producer's energy, which is why food chains rarely have more than four or five l
 | Decomposition | Dead matter → atmosphere and soil |
 | Fossil fuel formation | Dead organisms → coal, oil, gas (over millions of years) |
 | Combustion | Fuels and wood → atmosphere |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-ecosystems--06-carbon-cycle.webp" width="900" height="720" alt="Carbon dioxide in air or water is taken in by producers in photosynthesis and passed to consumers by feeding. Respiration by producers and consumers returns carbon dioxide; dead organisms and waste are decomposed and decomposers respire it back. Organisms buried without decomposition form fossil fuels, and combustion returns their carbon to the air." loading="lazy">
+  <figcaption>Name the store and the process: carbon cycles, while energy flows through and is lost.</figcaption>
+</figure>
 
 ## Why are forests cleared, and why does it matter? (5.2)
 
@@ -119,6 +144,11 @@ while conserving forests for future generations. It is needed because forests:
 - are a genetic resource and supply food, medicine and raw materials;
 - offer recreation, ecotourism and education.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--02-impact-chains.webp" width="900" height="630" alt="Four chains from deforestation. Habitat loss leads to loss of biodiversity and genetic depletion. Less interception and bare soil lead to soil erosion and desertification, then silting and flooding. Less transpiration means less water vapour recycled and changes to rainfall. Burning or rotting trees release carbon dioxide, causing global warming." loading="lazy">
+  <figcaption>Explain each impact as a chain, not as a single word.</figcaption>
+</figure>
+
 ## How can biodiversity be conserved? (5.3)
 
 | Strategy | Benefit | Limitation |
@@ -132,6 +162,11 @@ while conserving forests for future generations. It is needed because forests:
 | Ecotourism | Funds conservation and local jobs | Visitors can disturb wildlife |
 | International cooperation against animal trade; regulation of trade | Reduces poaching demand | Illegal trade continues |
 | Threat classification (threatened, endangered, extinct) | Targets effort at the species most at risk | Data for many species is incomplete |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--02-ten-strategies.webp" width="900" height="718" alt="The ten syllabus strategies sorted by how they work. Earning from wildlife without using it up: sustainable harvesting, sustainable forestry, ecotourism. Protecting habitats in situ: national parks and reserves, wildlife corridors. Keeping species away from the wild: seed banks, zoos and captive breeding. Controlling trade: international cooperation, regulation through CITES. Setting priorities: classifying species by threat level." loading="lazy">
+  <figcaption>The ten strategies work in five ways: earn sustainably, protect habitats, store ex situ, control trade, set priorities.</figcaption>
+</figure>
 
 ## How do you plan a reliable fieldwork investigation? (5.4)
 
@@ -153,6 +188,16 @@ and replicates → record → analyse → identify and process anomalies → con
 | Transect | Change across an area, with quadrats along a line |
 | Aerial photography and drones | Large or inaccessible areas, such as forest cover |
 | Automated sampling | Camera traps or sensors collecting data continuously |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--01-scientific-method.webp" width="900" height="520" alt="A snaking flow of nine numbered stages: aims and hypotheses, plan methods, measured and control variables, independent and dependent variables, repeats and replicates, record data, analyse data, identify anomalies, and form conclusions." loading="lazy">
+  <figcaption>Each stage of the scientific method feeds the next, from hypothesis to conclusion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--03-random-systematic.webp" width="900" height="706" alt="Left: a grid laid out with two tape measures, with quadrats at randomly chosen coordinates. Right: a transect at right angles to a footpath with a 0.5 m quadrat every 2 m, sampling the gradient away from the path." loading="lazy">
+  <figcaption>Random for comparing similar areas; systematic for change along a gradient.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

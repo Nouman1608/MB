@@ -40,6 +40,11 @@ Quick-recall notes for section 1.1 of Cambridge IGCSE Commerce (0715). For full 
 
 Memory hook: *all trade is commerce, but not all commerce is trade.* A bank paying a supplier is commerce; the bank is not buying or selling the goods.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--01-commerce-tree.webp" width="900" height="655" alt="A tree. Commerce splits into trade and aids to trade. Trade divides into home trade (retail and wholesale) and international trade (exports and imports). The six aids to trade are communications, transport, warehousing, advertising, banking and insurance." loading="lazy">
+  <figcaption>Trade is only one part of commerce; commerce adds the services that make trade possible.</figcaption>
+</figure>
+
 ## Home trade and international trade
 
 | Term | Meaning | Direction of money |
@@ -52,6 +57,11 @@ Memory hook: *all trade is commerce, but not all commerce is trade.* A bank payi
 | Import | Goods or services bought from another country | Flows **out** |
 
 One international sale is always an export for the seller's country and an import for the buyer's country.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--02-home-and-international-trade.webp" width="900" height="630" alt="Inside Country A, a producer sells in bulk to a wholesaler (wholesale trade) and a retailer sells small quantities to consumers (retail trade). Goods sold to a buyer in Country B are exports, bringing money in; goods bought from Country B are imports, sending money out." loading="lazy">
+  <figcaption>Ask where the buyer and seller are: same country is home trade, different countries is international trade.</figcaption>
+</figure>
 
 ## The six aids to trade and the barrier each removes
 
@@ -66,6 +76,11 @@ One international sale is always an export for the seller's country and an impor
 
 Mnemonic for the list: **C**an **T**raders **W**ork **A**part **B**y **I**nternet? (Communications, Transport, Warehousing, Advertising, Banking, Insurance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: lack of information by communications, distance by transport, time by warehousing, lack of knowledge by advertising, payment and finance by banking, and risk by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
 ## Logistics
 
 **Logistics**: planning and managing the movement and storage of goods through the supply chain so the right goods reach the right place at the right time and quantity, at the lowest reasonable cost.
@@ -75,6 +90,11 @@ Three elements named in the syllabus:
 - **Transport**: moves the goods.
 - **Freight forwarders**: arrange transport for other firms; book space with carriers, combine small loads into larger shipments, help with export documents.
 - **Warehousing**: stores goods until needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--04-logistics.webp" width="900" height="650" alt="Top: goods move by transport from supplier to producer, warehouse, retailer and consumer. Middle: a freight forwarder combines small loads from several customers into one shipment, booking space and helping prepare documents. Bottom: the aim of logistics." loading="lazy">
+  <figcaption>Logistics manages transport, freight forwarding and warehousing as one flow.</figcaption>
+</figure>
 
 ## Types of commerce: defined by the channel
 
@@ -87,6 +107,16 @@ Three elements named in the syllabus:
 
 Mcommerce and scommerce are both kinds of ecommerce. Choose the most specific label the scenario supports.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--05-four-types-of-commerce.webp" width="900" height="605" alt="Traditional commerce happens at a physical location. Ecommerce happens via the internet and contains two forms: mcommerce via a mobile device and scommerce via social media channels, each with an example." loading="lazy">
+  <figcaption>The channel decides the type: a place, a website, a mobile device or social media.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--07-classifying-transactions.webp" width="900" height="570" alt="Four transactions for Country X: a supermarket selling bread is home retail trade by traditional commerce; chairs sold abroad via a website are an export by ecommerce; juice bought from a wholesaler’s app is home wholesale trade by mcommerce; a dress bought from an overseas social media shop is an import by scommerce." loading="lazy">
+  <figcaption>Classify the trade by where buyer and seller are, and the commerce by the channel used.</figcaption>
+</figure>
+
 ## Interdependence in four links
 
 1. Production needs **trade**: goods are made to be sold.
@@ -95,6 +125,11 @@ Mcommerce and scommerce are both kinds of ecommerce. Choose the most specific la
 4. Commerce needs **production and trade**: carriers, banks, insurers and advertisers earn income from them.
 
 A four-mark "explain" answer: one link per mark, each applied to the business in the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--06-interdependence.webp" width="900" height="725" alt="Four links: production needs trade to sell its goods; trade needs production for something to sell; trade needs commerce because buyers and sellers are far apart and exposed to risk; and commerce needs production and trade for its income." loading="lazy">
+  <figcaption>Show the dependence running in more than one direction.</figcaption>
+</figure>
 
 ## Key terms
 

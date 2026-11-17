@@ -62,6 +62,11 @@ Component 1 is 100% AO1. AO2 carries no marks in the Written Exam, so save perso
 | Remittances | Money migrants send home |
 | Brain drain | Loss of skilled workers through emigration |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--02-push-pull-terms.webp" width="900" height="470" alt="Push factors drive people away from a place of origin and pull factors attract them to a destination; people move one way and remittances flow back. Migration can be internal or international. Below, definitions of urbanisation, informal settlement and brain drain." loading="lazy">
+  <figcaption>People flow one way, money often flows back.</figcaption>
+</figure>
+
 ## Real-world reference points at a glance
 
 You do not need these for marks. They are accurate anchors to reason with in coursework, where you must cite your sources.
@@ -76,6 +81,16 @@ You do not need these for marks. They are accurate anchors to reason with in cou
 | China's *hukou* household registration | Has linked access to some public services to a person's registered place | Shows how national policy shapes the experience of internal migrants |
 | WHO Global Code of Practice on the International Recruitment of Health Personnel (2010) | Voluntary principles for recruiting health workers from other countries | Voluntary codes depend on governments and employers choosing to follow them |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--01-migration-levels.webp" width="900" height="756" alt="Four rings from personal to global: a family member who moved for work; local rents, schools and languages; national rules on entry and city planning, such as China’s hukou system; and global figures of 55% urban in 2018, projected 68% by 2050, and about 304 million international migrants in mid-2024." loading="lazy">
+  <figcaption>Link levels: a national rule becomes a local issue when it changes something on the ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--03-migration-perspectives.webp" width="900" height="694" alt="A table of six groups with a perspective and a reason: a rural family, long-standing city residents, employers, origin-country governments, destination-country governments and international bodies, noting that some states voted against or abstained on the 2018 Global Compact. Empathy does not require agreement." loading="lazy">
+  <figcaption>Even at the global level there is no single perspective on migration.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Topic vs issue.** "Migration and urbanisation" is a topic. "Should a city clear an informal settlement?" is an issue.
@@ -88,6 +103,11 @@ You do not need these for marks. They are accurate anchors to reason with in cou
 - **Local vs national vs global.** A school buddy scheme is local; a work-permit rule is national; an international compact is global.
 - **Action vs aim.** "Reduce overcrowding" is an aim. "Fit water points and drains in the settlement" is an action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--05-corvanna-housing.webp" width="900" height="802" alt="Evidence for the fictional city of Corvanna: a street survey where 288 of 400 residents (72%) agreed newcomers make housing harder to find, which shows opinion from one district; and official data showing 21,000 new households but only 9,000 new homes in five years, a gap of 12,000 that slow building could explain. Testing needs the migrant share of new households and earlier building rates." loading="lazy">
+  <figcaption>The evidence shows housing is scarce, not that newcomers are the main cause.</figcaption>
+</figure>
+
 ## Cause and consequence chains
 
 Write chains, not lists:
@@ -97,6 +117,11 @@ Write chains, not lists:
 - New arrivals fill service jobs -> some businesses expand -> demand for housing near work rises -> rents increase for everyone.
 
 Always ask: **who gains, who loses, and at which level?**
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--04-drought-remittance-chains.webp" width="900" height="600" alt="A cause chain: drought reduces harvests, farm incomes fall, young adults move to the city, population grows faster than housing, and informal settlements expand. A consequence chain: remittances rise, families pay school fees, more children stay in school, but villages may lose working-age adults." loading="lazy">
+  <figcaption>Chains, not lists, and say who gains and who loses at each step.</figcaption>
+</figure>
 
 ## Using the topic in each component
 
@@ -113,6 +138,11 @@ Always ask: **who gains, who loses, and at which level?**
 | Sustainability | Will it last, financially and environmentally? |
 | Fairness | Who benefits, and does anyone lose out? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--07-migration-actions.webp" width="900" height="422" alt="A table of three actions with benefits and drawbacks: investing in rural jobs and services, language and job-skills programmes for new arrivals, and ethical recruitment rules such as the non-binding 2010 WHO Global Code of Practice on recruiting health personnel." loading="lazy">
+  <figcaption>Every migration action has a trade-off to weigh.</figcaption>
+</figure>
+
 ## Mini essay plan: assessing actions
 
 *Typical question style:* using the sources, which of two or three proposed actions would be most effective in responding to rapid city growth?
@@ -124,6 +154,11 @@ Always ask: **who gains, who loses, and at which level?**
 5. **Action 3 compared (if given).** Briefly, using the same criteria.
 6. **Weigh them.** Which criterion matters most here, and why?
 7. **Conditional conclusion.** "Action 1 is most effective, provided that..." Say what evidence would change your judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-migration-and-urbanisation--06-upgrade-vs-relocate.webp" width="900" height="559" alt="Two options for an informal settlement. Upgrading in place tackles unsafe water and flooding and keeps residents near jobs but can be slow and face landowner objections. Relocating gives safer homes but may be far from work and break social ties, so the problem may move. Judgement: upgrading is stronger only if land rights are secured first." loading="lazy">
+  <figcaption>A strong judgement names the condition under which it holds.</figcaption>
+</figure>
 
 ## Quick self-test
 

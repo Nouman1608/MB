@@ -45,6 +45,11 @@ explanation, read the
 
 Take care: a city can grow in numbers without the proportion living in cities rising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--01-urbanisation-terms.webp" width="900" height="640" alt="Two pairs of bars split into urban and rural shares. Left: the whole bar grows but the urban share stays the same, which is urban growth without urbanisation. Right: the bar stays the same size but the urban share rises, which is urbanisation. A note defines rural depopulation and says more than half the world’s people have lived in urban areas since around 2007." loading="lazy">
+  <figcaption>Urbanisation is about the proportion; urban growth is about size.</figcaption>
+</figure>
+
 ## Where urbanisation is happening
 
 In most high-income countries the large majority of people already live in towns, so the urban
@@ -53,6 +58,11 @@ in **low- and middle-income countries in Africa and Asia**, where many people st
 areas and migration to cities is strong. As a result, most of the world's newest and fastest-growing
 megacities are in these regions, while older megacities such as New York and Tokyo are growing
 slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--05-percentage-points.webp" width="900" height="600" alt="A bar chart of the urban share of population: 25 per cent in 1980, 33 per cent in 2000 and 44 per cent in 2020. Annotations show rises of 8 and then 11 percentage points, so growth was faster after 2000. The overall change is 44 minus 25, which is 19 percentage points, not 19 per cent." loading="lazy">
+  <figcaption>A change in a percentage is measured in percentage points.</figcaption>
+</figure>
 
 ## Causes (especially in low-income countries)
 
@@ -81,6 +91,11 @@ Two linked causes:
 - Friends and relatives who have already moved send back news and money, and offer a first place to
   stay. This **chain migration** keeps the flow going.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--02-why-cities-grow.webp" width="900" height="765" alt="Rapid urban growth has two causes: rural–urban migration and natural increase within the city, because migrants are mostly young adults. Push and pull factors are grouped as physical, economic and social, from drought and low farm incomes to city jobs and services. Chain migration: earlier migrants send news and money home and help relatives, so more people follow from the same village." loading="lazy">
+  <figcaption>Migration and natural increase together drive rapid urban growth.</figcaption>
+</figure>
+
 ## Consequences
 
 | | Problems | Benefits |
@@ -92,6 +107,11 @@ Two linked causes:
 **Effects on the rural areas left behind:** the young and the most able leave, so the rural
 population becomes older and more female; farms may be short of labour; but remittances can pay for
 school fees, better seed or new homes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--03-squatter-settlement.webp" width="900" height="770" alt="A schematic hillside squatter settlement: densely packed self-built homes of scrap wood, corrugated iron and plastic, some improved with brick, on steep marginal land, with more homes beside a railway, a stream and a rubbish dump below. Labels note very high density and narrow unpaved alleys. Cards add insecure tenure, few services, an active informal economy and local names: favelas, katchi abadis and bustees." loading="lazy">
+  <figcaption>Describe the full range: tenure, materials, location, density, services and economy.</figcaption>
+</figure>
 
 ## Management strategies
 
@@ -107,6 +127,11 @@ school fees, better seed or new homes.
 
 Evaluate each: cost, how many people it reaches, and whether it tackles causes or only symptoms.
 Rural development tackles the cause but works slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--04-urban-strategies.webp" width="900" height="745" alt="Left: rural development (irrigation, electrification, clinics, schools) reduces the causes of migration but is slow. Right: strategies that manage effects in the city, each with a limitation: self-help schemes, site-and-service schemes, in-situ upgrading such as Rio’s Favela-Bairro, community sanitation such as Karachi’s Orangi Pilot Project, mass transit such as the Lagos BRT, and new towns. A note says demolition usually moves the problem elsewhere." loading="lazy">
+  <figcaption>Separating causes from effects makes an evaluation stronger.</figcaption>
+</figure>
 
 ## Case study card: Mumbai, India
 

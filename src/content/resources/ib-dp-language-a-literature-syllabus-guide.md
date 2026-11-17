@@ -60,6 +60,11 @@ moderated** by the IB, but schools may be required to submit it to
 help establish the authenticity of a student's work -- "not assessed"
 does not mean "never seen" or "irrelevant."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-syllabus-guide--01-areas-of-exploration.webp" width="900" height="664" alt="Three areas of exploration, readers, writers and texts; time and space; and intertextuality: connecting texts, each 50 hours at SL and 80 at HL and each built from literary works only. Seven central concepts run across all three, and the learner portfolio underpins them." loading="lazy">
+  <figcaption>The same three areas as Language and Literature, filled only with literary works.</figcaption>
+</figure>
+
 ## Works studied
 
 SL students must study a minimum of **9 works** across the three areas
@@ -71,6 +76,11 @@ course description webpage currently states lower figures (7 works at
 SL, 10 at HL); the guide's 9/13 is the more detailed, itemised and
 internally consistent source, but this discrepancy with the course page
 is worth knowing about rather than silently resolving.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-syllabus-guide--02-works-studied.webp" width="900" height="502" alt="SL students study at least 9 works: at least 4 originally written in the language studied, at least 3 in translation and 2 freely chosen. HL students study at least 13: 5, 4 and 4. A note records that the IB course webpage states 7 and 10." loading="lazy">
+  <figcaption>SL: at least 9 works; HL: at least 13, with works in translation at both levels.</figcaption>
+</figure>
 
 ## Readers, writers and texts (50 hours SL / 80 hours HL)
 
@@ -167,6 +177,11 @@ student's language A teacher, based on where a student's genuine
 interest and reading strength lie, rather than on any perceived
 difficulty difference between them -- both are assessed to the same
 standard and carry equal recognition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-literature-syllabus-guide--03-assessment-materials.webp" width="900" height="585" alt="Paper 1, guided analysis, sets two unseen literary passages: SL students analyse one and HL students both. Paper 2 is a comparative essay on studied literary works. The individual oral pairs a work originally written in the language studied with a work studied in translation around a global issue. HL students also write an essay." loading="lazy">
+  <figcaption>Every component works from literary texts; Paper 1 tests close reading of unseen ones.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

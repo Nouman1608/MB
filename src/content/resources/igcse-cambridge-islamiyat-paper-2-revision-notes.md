@@ -64,6 +64,11 @@ for quick recall in the final stretch of revision.
 - Exam question: usually set in more than one part, essay-length
   answer required. [14 marks]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadiths) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
+  <figcaption>Links between topics make recall and &quot;explain the importance&quot; answers easier.</figcaption>
+</figure>
+
 ## 3. The period of rule of the Rightly Guided Caliphs and their importance as leaders
 
 - The **main events** of the rule of each of the four Caliphs.
@@ -87,6 +92,11 @@ for quick recall in the final stretch of revision.
   back under the authority of Madinah, holding the community together.
   (Only the link to Yamama and the Qur'an's compilation belongs to
   Paper 1.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--04-caliphs-timeframe.webp" width="900" height="340" alt="A time arrow split at the death of the Prophet (pbuh). Before it, the Caliphs' lives during his lifetime belong to Paper 1; after it, their period of rule belongs to Paper 2 topic 2.3." loading="lazy">
+  <figcaption>Keep the two timeframes separate when revising.</figcaption>
+</figure>
 
 ## 4. The Articles of Faith and the Pillars of Islam
 
@@ -144,6 +154,16 @@ to compare or evaluate rather than just narrate. For the Articles of
 Faith and Pillars (topic 4), practise explaining *significance* in one
 sentence for each item on the list; "describe" answers that stop short
 of significance are the most common way marks are lost on this topic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadiths (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
+  <figcaption>Two compulsory questions, then two chosen from three: 8 + 14 + 14 + 14 = 50 marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
+</figure>
 
 ## Related resources
 

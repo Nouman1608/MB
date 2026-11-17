@@ -52,12 +52,22 @@ and an assessment of call centres and tourism as routes to development.
 | EPZ | Export processing zone: an area with tax and customs concessions for export production |
 | GNP / GDP | Value of output of a country's people, including income from abroad (GNP), or produced within the country (GDP) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--03-scale-of-industry.webp" width="900" height="498" alt="Three panels. Large-scale industry uses many workers, heavy machinery and large capital in factories. Small-scale industry uses fewer workers in small units. Cottage industry is carried out in homes, often by family members with simple tools." loading="lazy">
+  <figcaption>Scale is about workers, machinery and capital, and where the work happens.</figcaption>
+</figure>
+
 ## The cotton chain (ginning to clothing)
 
 Raw cotton → **ginning** (separating lint from seed) → **spinning** (yarn) → **weaving** (grey
 cloth) → **dyeing and printing** → **garments, towels and bed linen**. Value is added at every
 stage. Ginning takes place close to the cotton fields; spinning and weaving cluster in Faisalabad,
 Karachi, Lahore and Multan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--02-cotton-value-chain.webp" width="900" height="687" alt="Four stages from raw cotton (a primary raw material) to yarn and cloth (processed) and then shirts (manufactured). Rising bars show value added at each stage. A note says tertiary industry provides services and that exporting cloth or garments earns more than raw cotton." loading="lazy">
+  <figcaption>Each processing stage adds value, so exporting finished goods earns more.</figcaption>
+</figure>
 
 ## Location factors checklist
 
@@ -78,6 +88,11 @@ explaining any location.
 | Brick | Edges of towns | Clay and local demand |
 | Textiles | Faisalabad, Karachi, Lahore, Multan | Cotton supply, labour, port |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--04-location-factors.webp" width="900" height="780" alt="A matrix of ten industries against five location factors. Sugar, cement, fertiliser and brick are pulled to raw materials; iron and steel and oil refining to the coast for imported inputs; sports goods, surgical instruments and crafts to skilled labour. A final column shows whether each mainly serves the domestic or export market." loading="lazy">
+  <figcaption>Bulky or perishable raw materials pull industry to them; imports pull it to the coast; skills pull it to Sialkot.</figcaption>
+</figure>
+
 ## Informal sector: pros and cons
 
 **Advantages:** many jobs for unskilled workers; little capital needed; cheap goods and services;
@@ -85,11 +100,21 @@ flexible; recycles materials.
 **Disadvantages:** low, irregular pay; no job security or safety rules; child labour; no tax
 revenue; poor quality control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--05-formal-informal.webp" width="900" height="636" alt="Two columns compare the registered formal sector, which pays taxes and offers regular wages, with the unregistered informal sector of street vendors, mechanics and small workshops. The informal sector’s advantages and disadvantages are listed, and a chain shows goods passing from informal workshops to formal exporters and on to export markets." loading="lazy">
+  <figcaption>The informal sector gives jobs and cheap services but low pay and no security.</figcaption>
+</figure>
+
 ## Government promotion
 
 - Infrastructure and industrial estates (SITE Karachi, Hattar).
 - EPZs (Karachi EPZ; also Sialkot, Gwadar) with duty-free imports and tax concessions.
 - Loans and credit for small industries; training; incentives for foreign investment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--06-export-processing-zone.webp" width="900" height="622" alt="A fenced zone of factories. Raw materials and machinery come in duty-free, factories with good infrastructure make goods mainly for export, and exports go to buyers overseas. Cards list why EPZs are built and name Karachi, Sialkot and Gwadar EPZs and the SITE and Hattar industrial estates." loading="lazy">
+  <figcaption>EPZs trade tax and customs concessions for investment, jobs and exports.</figcaption>
+</figure>
 
 ## Tourism and call centres
 
@@ -97,6 +122,16 @@ revenue; poor quality control.
 - **Benefits:** jobs, foreign exchange, rises in GNP and GDP, improved roads.
 - **Limits:** access, security concerns, seasonality, environmental damage, lack of hotels in remote areas.
 - **Call centres:** need fast internet, stable power, English skills; held back by power cuts and patchy broadband.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--08-tourism-feasibility.webp" width="900" height="544" alt="Natural attractions such as Hunza, Swat, Naran–Kaghan, K2 and coastal beaches sit beside cultural attractions such as Mohenjo-daro, Taxila, the Lahore Fort, Badshahi Mosque and Sufi shrines. A balance weighs benefits (jobs, foreign exchange, GNP and GDP) against limits (poor access, security concerns, seasonal demand and environmental damage)." loading="lazy">
+  <figcaption>Pakistan has the attractions; access, security and seasons limit what tourism can do.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-industrial-development--07-call-centre-feasibility.webp" width="900" height="517" alt="Call centres need fast internet, reliable power and English-speaking, computer-literate workers. A balance weighs Pakistan’s advantages, a large young workforce and lower wages, against barriers: power cuts, uneven broadband outside big cities and competition from other countries." loading="lazy">
+  <figcaption>A feasibility answer weighs advantages against barriers before judging.</figcaption>
+</figure>
 
 ## Sources of capital and labour
 

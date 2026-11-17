@@ -55,6 +55,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Defences:** *volenti non fit injuria* (full defence — free, informed consent to the risk); contributory negligence (Law Reform (Contributory Negligence) Act 1945 — reduces damages, doesn't defeat the claim).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--08-contract-formation.webp" width="900" height="934" alt="Five bricks, numbered one to five, support a roof labelled &quot;Contract formed&quot;: offer, acceptance, consideration, intention to create legal relations and capacity, each with a short note, such as silence is not acceptance and consideration need not be adequate." loading="lazy">
+  <figcaption>A contract is formed only when all five elements are present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--09-consumer-rights-act.webp" width="900" height="836" alt="Two rows showing Consumer Rights Act 2015 implied terms on the left and remedies on the right. For goods: satisfactory quality, fit for a stated purpose and matching description lead to short-term right to reject, repair or replacement, then price reduction or final right to reject. For services: reasonable care and skill and reasonable time lead to repeat performance and price reduction." loading="lazy">
+  <figcaption>The Act implies terms into supply contracts and attaches a set of remedies to their breach.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--10-negligence-chain.webp" width="900" height="852" alt="Three linked boxes show duty of care, breach and damage caused, leading to the remedy of damages. Below, two defences: volenti non fit injuria is a complete defence, while contributory negligence reduces the damages." loading="lazy">
+  <figcaption>All three links must hold for negligence; defences can end or shrink the claim.</figcaption>
+</figure>
+
 ## 2.2 The criminal offender
 
 **Actus reus + mens rea** normally both needed; **strict liability** = no mens rea for at least one element (mostly regulatory offences).
@@ -80,6 +95,21 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Sentencing (Criminal Justice Act 2003):** custodial sentences, community orders, fines, discharges — reflects seriousness, aggravating/mitigating factors, and the statutory purposes of sentencing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--11-criminal-liability.webp" width="900" height="1000" alt="A Venn-style picture: actus reus (guilty act) on the left, mens rea (guilty mind) on the right, and criminal liability where they coincide. Notes list causation and omissions under actus reus, and intention and subjective recklessness under mens rea. A strip explains strict liability offences need no mens rea for at least one element." loading="lazy">
+  <figcaption>Criminal liability usually needs a guilty act and a guilty mind together.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--12-property-offences.webp" width="900" height="1108" alt="A table of seven property offences colour-grouped by statute. Theft Act 1968 covers theft (ss 1-6), robbery (s 8), burglary (s 9) and blackmail (ss 21, 34). Fraud Act 2006 covers fraud (ss 2, 5, 11). Theft Act 1978 covers making off without payment (s 3). Criminal Damage Act 1971 covers criminal damage (s 1)." loading="lazy">
+  <figcaption>Each property offence belongs to a named Act and section; do not mix up the 1968 and 1978 Theft Acts.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-criminal-offender--04-duress-intoxication.webp" width="900" height="683" alt="Duress of threats: a threat of death or serious injury, then the two-stage Graham test, subjective then objective. It is not available for murder (Howe) or attempted murder (Gotts) and is lost on voluntary association with criminals (Hasan); duress of circumstances uses the same test. Intoxication: voluntary is no defence to basic intent (Majewski); involuntary helps only if mens rea was not formed (Kingston, Hardie)." loading="lazy">
+  <figcaption>Duress needs both Graham stages and never covers murder; intoxication rarely helps if intent was formed.</figcaption>
+</figure>
+
 ## 2.3 The individual
 
 **Defamation Act 2013 (ss 1, 2, 3, 4, 15):** libel (permanent form) vs slander (transient form). Requires **serious harm** to reputation (s 1). Defences: truth (s 2), honest opinion (s 3), public interest publication (s 4).
@@ -91,6 +121,21 @@ Condensed for the final weeks. For the full explanation, use the
 **Occupiers' liability:** OLA 1957 = common duty of care to **lawful visitors**. OLA 1984 = narrower duty regarding known dangers to **non-visitors** (trespassers) — only where the occupier knows/has reasonable grounds to believe a danger exists and someone may be near it.
 
 **Trespass to land:** unlawful, intentional, direct interference with possession of land. Can be **continuing** (fresh cause of action each day). Remedies: damages, injunction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--14-defamation-claim.webp" width="900" height="960" alt="An untrue statement is either libel (permanent form) or slander (transient form). It must pass the serious harm test in section 1 of the Defamation Act 2013 to give a claim. Three defences stand against the claim: truth (s 2), honest opinion (s 3) and public interest (s 4)." loading="lazy">
+  <figcaption>A defamation claim needs serious harm to reputation; truth, honest opinion and public interest are the main defences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--13-occupiers-liability.webp" width="900" height="1029" alt="A plot of land with a house and fence. A lawful visitor walks in through the gate and is owed the common duty of care under the 1957 Act. A trespasser climbing the fence is owed a narrower duty about known dangers under the 1984 Act, which applies only if the occupier knows or has reasonable grounds to believe a danger exists and someone may come near it." loading="lazy">
+  <figcaption>The 1957 Act protects lawful visitors; the 1984 Act gives a narrower duty to non-visitors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--05-trespass-to-land.webp" width="900" height="637" alt="A neighbour's sign overhangs the claimant's land at a low height, marked as trespass (Kelsen v Imperial Tobacco), while an aircraft flies high above, marked as not trespass (Bernstein v Skyviews). Cards note that trespass is actionable without proof of damage, that a continuing trespass gives a fresh cause of action each day, and the defences of permission and lawful authority." loading="lazy">
+  <figcaption>Trespass needs no damage and reaches the airspace needed for ordinary use, but not high-flying aircraft.</figcaption>
+</figure>
 
 ## Exam traps
 

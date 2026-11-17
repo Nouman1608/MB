@@ -53,6 +53,11 @@ practise with the [Germany practice questions](/resources/cambridge-igcse-world-
 | 18 January 1871 | German Empire proclaimed at Versailles |
 | May 1871 | Treaty of Frankfurt: Alsace and part of Lorraine to Germany |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--01-zollverein.webp" width="900" height="589" alt="A schematic: Prussia at the centre of a customs union of German states with no tariffs inside, and Austria outside. Notes list why it mattered: Prussian economic leadership, railways and trade, and coal and iron to pay for an army. Below, its limits: Bavaria, Saxony and Hanover were members but fought for Austria in 1866." loading="lazy">
+  <figcaption>The Zollverein made Prussia the economic leader, but not the political one.</figcaption>
+</figure>
+
 ## Bismarck's method in three wars
 
 | | Denmark, 1864 | Austria, 1866 | France, 1870-71 |
@@ -61,6 +66,21 @@ practise with the [Germany practice questions](/resources/cambridge-igcse-world-
 | Diplomacy | Allied with Austria | Russia friendly, France neutral (Biarritz), Italy allied | France isolated; southern states join Prussia |
 | Military key | Joint Austro-Prussian forces | Railways, needle gun, Moltke at Königgrätz | Rapid mobilisation; Sedan; siege of Paris |
 | Result | Duchies taken from Denmark | Austria excluded; North German Confederation | German Empire; Alsace-Lorraine |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--03-three-wars.webp" width="900" height="627" alt="A timeline from 1862 to 1871 drawn to scale with three wars: Denmark (1864), Austria (summer 1866) and France (July 1870 to January 1871). Events: Bismarck appointed (September 1862), Gastein and Biarritz (1865), Königgrätz (3 July 1866), the North German Confederation (1867), the Ems Telegram, Sedan (September 1870) and the proclamation of the Empire (18 January 1871)." loading="lazy">
+  <figcaption>Three short wars in seven years, each isolating the next enemy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--04-isolating-austria.webp" width="900" height="571" alt="A hub with Austria isolated at the centre. Russia was friendly after the Polish rising of 1863; France was neutral after Biarritz (1865); Italy was an ally for three months from April 1866 in return for Venetia; and the pretext came over Holstein. A note on the lenient Treaty of Prague." loading="lazy">
+  <figcaption>Bismarck isolated Austria first, then made a lenient peace.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--05-ems-chain.webp" width="900" height="699" alt="Five steps: the Luxembourg purchase blocked (1867); Leopold's candidacy for the Spanish throne and its withdrawal (1870); the French demand at Ems, refused by William I; Bismarck's edited telegram (highlighted); and France's declaration of war on 19 July 1870, which brought the southern states to Prussia's side." loading="lazy">
+  <figcaption>By editing a real report, Bismarck made France look like the aggressor.</figcaption>
+</figure>
 
 ## Key people
 
@@ -96,6 +116,11 @@ practise with the [Germany practice questions](/resources/cambridge-igcse-world-
 | Frederick William IV hesitant | William I backing a determined Bismarck |
 | Liberal methods: debates and constitutions | War and diplomacy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--02-why-not-1848.webp" width="900" height="561" alt="Four reasons the Frankfurt Parliament failed: no army or taxes, disagreement over borders, the princes' recovery and Frederick William IV's refusal of the crown in April 1849. Below, a chain: the Erfurt Union (1849-50), the humiliation of Olmütz (November 1850), and the lesson that Austria had to be defeated first." loading="lazy">
+  <figcaption>1848-50 showed that Austria would block unification under Prussia.</figcaption>
+</figure>
+
 ## One-line answers to the focus points
 
 - **Why was Germany not unified in 1848-50?** Frankfurt had no army, Frederick William IV refused its crown, and
@@ -106,6 +131,11 @@ practise with the [Germany practice questions](/resources/cambridge-igcse-world-
   declare war alone, bringing the southern states in on Prussia's side.
 - **How far was he responsible?** He chose the timing and methods; Prussia's economy and army and his enemies'
   mistakes made success possible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-unification-germany--06-bismarck-responsible.webp" width="900" height="561" alt="A balance between Bismarck's role (isolating enemies, choosing timing, a lenient peace, the Ems Telegram, winning over liberals) and other factors (Prussian economic strength, Roon and Moltke, William I, Austria's weakness after 1859 and Napoleon III's mistakes)." loading="lazy">
+  <figcaption>Bismarck's skill worked because Prussia was already strong.</figcaption>
+</figure>
 
 ## Exam traps
 

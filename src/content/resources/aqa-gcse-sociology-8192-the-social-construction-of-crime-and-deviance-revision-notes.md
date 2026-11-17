@@ -53,6 +53,11 @@ For full explanations, read [the social construction of crime and deviance study
 | White collar crime | Crime committed by people in higher-status jobs, often in the course of work |
 | Corporate crime | Crime committed by or for a company |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--01-crime-deviance-social-construction.webp" width="900" height="833" alt="Two overlapping circles: crime breaks the law, deviance breaks social norms, and some acts are both. Below, three cards show that what counts as crime or deviance varies between societies, over time and by situation, such as killing in peacetime versus war." loading="lazy">
+  <figcaption>Crime and deviance are defined by people with power, so they change with society, time and situation.</figcaption>
+</figure>
+
 ## Examples of social construction
 
 | Type of variation | Example |
@@ -60,6 +65,11 @@ For full explanations, read [the social construction of crime and deviance study
 | Over time | Sexual Offences Act 1967 partly decriminalised sex between men in private in England and Wales; smoking in enclosed public places banned in England in 2007; rape in marriage recognised as a crime by the House of Lords in 1991 |
 | Between societies | Different legal drinking ages and drug laws between countries |
 | By situation | Killing in war versus peacetime; shouting at a football match versus in a library |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--01-changing-laws.webp" width="900" height="709" alt="A timeline of legal change in England and Wales: 1967, the breathalyser and drink-drive limit, and the partial decriminalisation of sex between men in private; 1983, seat belts; 1991, the ruling that a husband can be guilty of raping his wife; 2007, the smoking ban in enclosed public places." loading="lazy">
+  <figcaption>New definitions, not new acts, create or remove crimes.</figcaption>
+</figure>
 
 ## Merton (functionalist) in brief
 
@@ -77,6 +87,11 @@ For full explanations, read [the social construction of crime and deviance study
 
 **Criticisms:** ignores power and who makes laws; assumes consensus; deterministic; exaggerates working-class crime and underestimates white collar crime.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--03-merton.webp" width="900" height="957" alt="Everyone shares the goal of success but class limits access to legitimate means; American society stressed success over means, producing anomie. A table shows five responses: conformity accepts both; innovation accepts goals but not means and is most likely lower down society; ritualism rejects goals but keeps the rules; retreatism rejects both; rebellion replaces both. Below, criticisms." loading="lazy">
+  <figcaption>Innovation, accepting the goal but rejecting the means, is Merton’s main explanation of crime.</figcaption>
+</figure>
+
 ## Becker (interactionist) in brief
 
 - An act becomes deviant only when **others define it** as deviant.
@@ -87,12 +102,27 @@ For full explanations, read [the social construction of crime and deviance study
 
 **Criticisms:** does not explain the first act; may treat offenders as victims; ignores people who resist labels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-crime-and-deviance--03-becker-labelling.webp" width="900" height="838" alt="Five linked steps: an act is labelled deviant by others; whether the label sticks depends on who, when, where and who sees it, with police and courts holding power; the label becomes a master status; the person accepts it as a self-fulfilling prophecy; rejection leads to a deviant career and joining an organised deviant group." loading="lazy">
+  <figcaption>For Becker, deviance is created by the label, not by the act itself.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--04-moral-entrepreneurs.webp" width="900" height="446" alt="A chain: moral entrepreneurs campaign for a new rule; the rule is created; rule-breakers are then labelled by agents of social control. Below, criticisms of labelling: it does not explain the first act, may treat offenders as victims, and ignores people who resist labels." loading="lazy">
+  <figcaption>Deviance needs a rule-maker before it needs a rule-breaker.</figcaption>
+</figure>
+
 ## Perspectives in one line each
 
 - **Functionalist:** rules reflect consensus; some crime is normal and reinforces boundaries (Durkheim); strain causes crime (Merton).
 - **Marxist:** laws protect ruling-class interests; working-class crime is targeted; crimes of the powerful are under-defined.
 - **Feminist:** definitions reflect male power; some harms to women were long not treated as crimes.
 - **Interactionist:** deviance is created by reactions and labels (Becker).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance--05-four-perspectives.webp" width="900" height="556" alt="Four cards. Functionalists: rules reflect consensus, Durkheim saw some crime as useful, Merton explains crime by strain. Marxists: laws serve the ruling class and corporate crime is rarely prosecuted. Feminists: definitions reflected men’s power, as the 1991 marital rape ruling shows. Interactionists: deviance is created by the reaction to an act." loading="lazy">
+  <figcaption>Each perspective answers who has the power to define crime differently.</figcaption>
+</figure>
 
 ## Exam traps
 

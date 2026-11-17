@@ -55,6 +55,16 @@ All assessments are **closed book**; any stimulus material is printed on the pap
 | Producing clear and coherent text | Writing to describe, explain, summarise, argue, analyse and evaluate; maintaining a point of view; selecting key points; relevant quotation and detailed references | A sustained argument with embedded quotation |
 | Accurate Standard English | Accurate spelling, punctuation and grammar | AO4 marks |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--01-reading-skills-map.webp" width="900" height="714" alt="Four cards show the reading skill groups: literal and inferential comprehension, critical reading, evaluating a writer’s choices, and comparing texts. Below, AO1 is linked mostly to comprehension and personal response, AO2 to analysis and evaluation of methods, and AO3 to context-informed evaluation." loading="lazy">
+  <figcaption>Four groups of reading skills sit behind every question; each feeds the assessment objectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--03-three-lenses.webp" width="900" height="829" alt="Three rows list what to look at: language (word choice, imagery, sound, tone, sentence types), form (play, sonnet, novel conventions) and structure (order, shifts, openings and endings, contrasts, stanza pattern). All lead to explaining the effect on the reader." loading="lazy">
+  <figcaption>Look through three lenses, then always ask so what.</figcaption>
+</figure>
+
 ## The four assessment objectives
 
 | AO | Wording (summarised) | Overall weighting | Paper 1 | Paper 2 |
@@ -67,6 +77,11 @@ All assessments are **closed book**; any stimulus material is printed on the pap
 AO2 is the largest single objective, so analysis of methods earns more than knowledge of plot. In AQA's
 mark schemes the AO4 marks are attached to the Shakespeare question on Paper 1 and the modern-text
 question on Paper 2, so accuracy matters most there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--01-ao-map.webp" width="900" height="793" alt="Four stacked cards list AO1 (respond with evidence), AO2 (analyse the writer’s choices), AO3 (use context) and AO4 (write accurately). A note says not every question tests every objective." loading="lazy">
+  <figcaption>The four assessment objectives are the four skills the marks reward.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -81,6 +96,11 @@ question on Paper 2, so accuracy matters most there.
 | Structure | How the text is ordered and shaped: openings, endings, shifts, repetition |
 | Context | Social, historical and cultural circumstances that inform a reading |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--02-words-in-context.webp" width="900" height="670" alt="The word cold branches into three meanings: the weather, a character’s manner and a dead body, with three questions to ask about any word. Below, explicit meaning (stated directly) leads to implied meaning (inferred from details), with a test: can you point to the words that support the inference?" loading="lazy">
+  <figcaption>Pin down what a word means here, then infer only what the words can support.</figcaption>
+</figure>
+
 ## Worked example: from comprehension to evaluation
 
 Extract (Dickens, *A Christmas Carol*, Stave One): Scrooge is "a squeezing, wrenching, grasping, scraping,
@@ -94,6 +114,11 @@ clutching, covetous, old sinner!"
    poor were current; Scrooge's attitudes echo views the novella sets out to challenge.
 5. **Evaluation and personal response (AO1):** the exaggeration makes Scrooge almost comic, which allows
    readers to enjoy disliking him and makes his later change believable as a story of redemption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-skills-study-guide--02-summary-ladder.webp" width="900" height="674" alt="A three-step ladder rises from summary (what happens) to interpretation (what it suggests, testable against the text) to a second possible reading with tentative words such as may suggest." loading="lazy">
+  <figcaption>Move from retelling to a testable interpretation, then offer a second reading.</figcaption>
+</figure>
 
 ## Using context well
 

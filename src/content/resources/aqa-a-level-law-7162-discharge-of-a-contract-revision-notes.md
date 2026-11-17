@@ -52,6 +52,16 @@ radically different, not excluded) → **consequences** (damages, or the 1943 Ac
 | Prevented performance | Planché v Colburn (1831) | Quantum meruit for work done before the other party abandoned the contract |
 | Tender of performance | Startup v Macdonald (1843) | Valid offer to perform, wrongly refused, counts as performance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--01-performance-strict-rule.webp" width="900" height="538" alt="Two strict-rule cases: Cutter v Powell, where a sailor’s widow recovered nothing because the voyage was not completed, and Re Moore and Landauer, where wrongly packed tins could be rejected. Below, bars show Hoenig v Isaacs, where the price was payable less the cost of defects of about £56 on a £750 contract, and Bolton v Mahadeva, where serious defects meant nothing was payable." loading="lazy">
+  <figcaption>The strict rule is harsh; substantial performance earns the price less the cost of repairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--02-ways-round-strict-rule.webp" width="900" height="437" alt="Four further exceptions. Severable contracts: payment for each completed stage. Acceptance of partial performance: only with a genuine choice to accept (Sumpter v Hedges). Prevented performance: a reasonable sum on a quantum meruit (Planché v Colburn). Tender of performance: a wrongly refused offer to perform counts (Startup v Macdonald)." loading="lazy">
+  <figcaption>Stages, genuine acceptance, prevention and tender can all earn payment.</figcaption>
+</figure>
+
 ## Breach
 
 - **Actual breach**: failure to perform when due, defective performance, or making performance
@@ -66,6 +76,16 @@ radically different, not excluded) → **consequences** (damages, or the 1943 Ac
 | Frost v Knight (1872) | Engagement broken off before the agreed condition occurred; immediate claim |
 | White and Carter v McGregor (1962) | Innocent party may affirm, perform and claim the price |
 | Avery v Bowden (1855) | Affirming keeps the contract alive; later frustration by war removed the claim |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--03-breach-choices.webp" width="900" height="612" alt="Actual breach happens when performance is due; anticipatory breach before it is due. A repudiatory breach, meaning breach of a condition, a serious breach of an innominate term or a refusal to perform, lets the innocent party choose to terminate and claim damages or affirm and continue. A minor breach gives damages only." loading="lazy">
+  <figcaption>A repudiatory breach gives a choice: terminate or affirm. A minor one gives damages only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--04-anticipatory-breach.webp" width="900" height="477" alt="A timeline from contract to repudiation to the date performance is due. In Hochster v De la Tour the courier was told in May he would not be needed from 1 June. Option 1: accept the repudiation and sue at once, with damages assessed by reference to the performance date and a duty to mitigate (Hochster; Frost v Knight). Option 2: affirm and wait, as in White and Carter v McGregor, but at the risk shown in Avery v Bowden, where war frustrated the contract and the claim was lost." loading="lazy">
+  <figcaption>Accepting lets you sue at once; affirming keeps the contract alive for both sides.</figcaption>
+</figure>
 
 ## Frustration
 
@@ -95,6 +115,21 @@ Act 1943**:
   to the sum paid or payable before frustration.
 - **s1(3)**: just sum for a **valuable benefit** (other than money) received before frustration (BP
   Exploration v Hunt (No 2)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--05-frustration-categories.webp" width="900" height="481" alt="Five categories of frustration with cases: destruction of the subject matter (Taylor v Caldwell), death or incapacity in a personal contract (Robinson v Davison; Condor v Baron Knights), supervening illegality (Metropolitan Water Board v Dick Kerr), purpose defeated (Krell v Henry) and long interruption (Jackson v Union Marine Insurance). The test from Davis Contractors is performance radically different from what was undertaken." loading="lazy">
+  <figcaption>An event after formation, without fault, that makes performance radically different.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--06-frustration-limits.webp" width="900" height="572" alt="Bars show Davis Contractors, where a job planned for 8 months took 22 and cost more but was not frustrated. Four further limits: harder or dearer is not enough (Tsakiroglou); the purpose must be wholly defeated (Herne Bay Steam Boat v Hutton, contrasted with Krell v Henry); self-induced frustration does not count (Maritime National Fish; The Super Servant Two); and an express clause such as force majeure governs instead." loading="lazy">
+  <figcaption>More time, more cost or a partly defeated purpose is not frustration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-discharge-of-a-contract--07-frustrated-contracts-act.webp" width="900" height="337" alt="The Law Reform (Frustrated Contracts) Act 1943. Section 1(2): money paid before frustration is recoverable and money payable ceases to be payable, but the court may allow the payee expenses up to that amount. Section 1(3): a party who received a valuable non-money benefit may be ordered to pay a just sum (BP Exploration v Hunt)." loading="lazy">
+  <figcaption>Money comes back, less allowed expenses; other benefits are paid for with a just sum.</figcaption>
+</figure>
 
 ## Key terms
 

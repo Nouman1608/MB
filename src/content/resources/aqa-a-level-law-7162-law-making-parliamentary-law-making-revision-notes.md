@@ -32,6 +32,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 - **Draft Bill:** may receive pre-legislative scrutiny by a committee.
 - **Evaluation:** consultation improves quality and legitimacy, but government controls whether and how it consults.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--01-green-white-papers.webp" width="900" height="469" alt="A Green Paper sets out options and invites comment from anyone; a White Paper sets out the government’s settled proposals and is often followed by a Bill; a draft Bill may be published for pre-legislative scrutiny by a committee. Consultation improves quality and legitimacy, but government controls whether and how it consults." loading="lazy">
+  <figcaption>Green means options, White means settled proposals.</figcaption>
+</figure>
+
 ## Types of Bill
 
 | Type | Key point | Example |
@@ -42,6 +47,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 | Hybrid Bill | Public Bill affecting particular private interests | High Speed Rail (London - West Midlands) Act 2017 |
 
 **Private members' Bills rarely pass without government support.** The Voyeurism (Offences) Act 2019 was adopted by government after a private member's Bill was blocked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--02-private-members-bills.webp" width="900" height="534" alt="Private members’ Bills enter the Commons by the ballot, which gives most debating time, the Ten Minute Rule, a short speech mainly raising an issue, or presentation with no speech. The upskirting Bill was blocked by one objection and then adopted by the government, becoming the Voyeurism (Offences) Act 2019. The Murder (Abolition of Death Penalty) Act 1965 was a private member’s Bill by Sydney Silverman." loading="lazy">
+  <figcaption>Backbench Bills usually need government time to become law.</figcaption>
+</figure>
 
 ## The stages and what happens at each
 
@@ -54,6 +64,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 7. **Royal Assent:** notified under the Royal Assent Act 1967; not refused since 1708.
 8. **Commencement:** on assent, on a stated date, or by a commencement order (a statutory instrument).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--03-legislative-process.webp" width="900" height="878" alt="Five stages in the first House: first reading (formal), second reading (main debate and vote), committee stage (a Public Bill Committee of about 16 to 50 MPs or a Committee of the whole House), report stage and third reading; then the same five in the other House. Ping-pong resolves amendments, Royal Assent is notified under the 1967 Act, and commencement may be on assent, on a stated date or by commencement order." loading="lazy">
+  <figcaption>Debate on principle, detailed scrutiny, agreement of both Houses, assent, then commencement.</figcaption>
+</figure>
+
 ## Lords and Commons in conflict
 
 | Measure | Effect |
@@ -62,6 +77,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 | Parliament Act 1949 | Delay for non-money Bills cut to one year |
 | Uses | War Crimes Act 1991; European Parliamentary Elections Act 1999; Sexual Offences (Amendment) Act 2000; Hunting Act 2004 |
 | Salisbury Convention | Lords do not block manifesto Bills at second reading |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--04-parliament-acts.webp" width="900" height="559" alt="The Parliament Act 1911 removed the Lords’ veto over most public Bills, allowing a delay of one month for money Bills and two years for others; the Parliament Act 1949 cut the delay for non-money Bills to one year. The Acts were used for the War Crimes Act 1991, European Parliamentary Elections Act 1999, Sexual Offences (Amendment) Act 2000 and Hunting Act 2004. Under the Salisbury Convention the Lords do not usually block manifesto Bills at second reading." loading="lazy">
+  <figcaption>The Lords can delay, not veto, most public Bills.</figcaption>
+</figure>
 
 ## Influences: how, example, for, against
 
@@ -72,6 +92,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 | Political parties | Manifesto; King's Speech | Democratic mandate | Large majorities weaken scrutiny; manifesto bundles policies |
 | Law Commission | Fraud Act 2006 | Independent, expert | Dependent on government time |
 | Public opinion | Petitions, constituents | Keeps law in step with society | Volatile; may disregard minorities |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--05-influences-evaluated.webp" width="900" height="546" alt="A table of five influences, each with how it works, an advantage and a disadvantage: pressure groups (insider and outsider, Gina Martin, Finn’s Law), the media, political parties and manifestos, the Law Commission (Fraud Act 2006) and public opinion." loading="lazy">
+  <figcaption>Each influence needs an example plus its own advantage and disadvantage.</figcaption>
+</figure>
 
 ## Parliamentary supremacy
 
@@ -88,6 +113,11 @@ Condensed notes on **Law making: parliamentary law making** in AQA A-level Law (
 - Devolution: Sewel Convention now in statute, but not legally enforceable: *R (Miller) v Secretary of State for Exiting the EU* (2017).
 - EU membership (historical): *Factortame*.
 - Political: electorate, opinion, international obligations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-law-making-parliamentary-law-making--06-supremacy-limits.webp" width="900" height="615" alt="The doctrine has three parts: Parliament can make or unmake any law; it cannot bind its successors (Vauxhall Estates; Ellen Street Estates); and no court can set aside an Act (Pickin). Limits: constitutional statutes (Thoburn), the Human Rights Act sections 3, 4 and 19, devolution and the unenforceable Sewel Convention (Miller), historical EU membership (Factortame), and practical and political limits." loading="lazy">
+  <figcaption>Legally supreme, but constrained by constitutional statutes, the HRA, devolution and politics.</figcaption>
+</figure>
 
 ## Key terms
 

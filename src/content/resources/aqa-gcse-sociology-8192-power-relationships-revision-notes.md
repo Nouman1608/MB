@@ -35,6 +35,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.6 Power relationships, a
 
 A power relationship is one in which a person or group can shape the choices, opportunities or behaviour of another: in families, workplaces, schools, politics and the criminal justice system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--01-power-relationships.webp" width="900" height="670" alt="Five settings for power relationships: families, workplaces, schools, politics and criminal justice, with the pairs involved in each. Below, the difference between 3.6.5, which asks what kinds of power exist, and 3.6.6, which asks which social factors make some groups more powerful." loading="lazy">
+  <figcaption>Power relationships run through families, work, school, politics and justice.</figcaption>
+</figure>
+
 ## Factors: who holds more power, and how
 
 | Factor | Who tends to hold more power | How it works |
@@ -46,6 +51,11 @@ A power relationship is one in which a person or group can shape the choices, op
 | Age | Adults of working age | Children have little formal power; ageism against older workers; young workers on insecure contracts |
 | Disability | Non-disabled people | Barriers to work and public life; decisions made for disabled people |
 | Religion and beliefs | Majority or established faiths | Moral authority over members; minorities may face discrimination |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--02-seven-factors.webp" width="900" height="742" alt="A table of seven factors: social class, gender, sexuality, race, age, disability, and religion and beliefs. For each it shows how power is unequal, such as owners deciding pay or institutional racism, and what has balanced it, such as trade unions, voting or equality laws." loading="lazy">
+  <figcaption>Each factor shifts who holds power, and each has forces pushing back.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -80,6 +90,16 @@ A power relationship is one in which a person or group can shape the choices, op
 
 **Evaluation:** shows many connected structures; explains persistence as women enter work; but gives less weight to differences between women by class and ethnicity; women's gains may suggest faster change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--08-walby-patriarchy.webp" width="900" height="610" alt="Six numbered cards show Walby’s patriarchal structures: paid work, patriarchal relations of production, culture, sexuality, male violence and the state. Below, an arrow shows the shift from private patriarchy, direct control by fathers or husbands, to public patriarchy, where women are in public life but in low-paid, low-status jobs." loading="lazy">
+  <figcaption>Patriarchy works through six structures and has shifted from private to public.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--04-evaluating-walby.webp" width="900" height="535" alt="Two panels. Strengths of Walby: several connected structures, a private to public shift that explains persisting inequality, and links across the course. Limitations: less attention to differences between women by class and ethnicity, possible underestimation of women’s gains, and a focus on Western society." loading="lazy">
+  <figcaption>Walby explains why inequality persists, but may underplay differences between women.</figcaption>
+</figure>
+
 ## Laws to name accurately
 
 - Equal Pay Act 1970
@@ -90,11 +110,21 @@ A power relationship is one in which a person or group can shape the choices, op
 - Equality Act 2010
 - Marriage (Same Sex Couples) Act 2013
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--03-equality-laws.webp" width="900" height="639" alt="Four laws, the Equal Pay Act 1970, Sex Discrimination Act 1975, Race Relations Act 1976 and Disability Discrimination Act 1995, feed into the Equality Act 2010, which protects several characteristics. Below, laws change formal power but Walby argues they are seldom enforced." loading="lazy">
+  <figcaption>Laws shift formal power, but they do not end inequality on their own.</figcaption>
+</figure>
+
 ## Perspectives
 
 - **Feminist:** gender is the key power relationship; Walby's structures.
 - **Marxist:** class is the key power relationship; racism and sexism divide workers and benefit the ruling class.
 - **Functionalist:** roles are complementary (Parsons' instrumental and expressive roles); power used for shared goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-relationships--06-perspectives.webp" width="900" height="516" alt="Three cards. Feminists see gender as the key power relationship, shown by Walby’s structures. Marxists see class, rooted in ownership, with racism and sexism dividing workers. Functionalists see complementary roles, such as Parsons’ instrumental and expressive roles, and legitimate power." loading="lazy">
+  <figcaption>Feminists and Marxists both see conflict but disagree on whether gender or class comes first.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -39,11 +39,21 @@ recognise a **level of 0** for work that does not reach any band descriptor, so 
 attainable range is 0-8 and the four-criterion classroom total is 0-32, not 4-32. This is a separate scale from the eAssessment blueprint below, which allocates 24 raw marks
 per criterion (96 total), not 32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--02-two-marking-scales.webp" width="900" height="750" alt="Each criterion, A listening, B reading, C speaking and D writing, is scored 0 to 8 for classroom assessment, giving a total of 0 to 32. Separately, the eAssessment blueprint gives each criterion 24 raw marks: A, B and D in the on-screen paper and C in a separate, internally marked, IB-moderated speaking examination." loading="lazy">
+  <figcaption>Levels 0–8 in class; 24 raw marks each in eAssessment. Do not mix the scales.</figcaption>
+</figure>
+
 ## Proficiency phases, not year groups
 
 Teaching is organised into **six proficiency phases** forming a continuum. Students start at
 whatever phase matches their prior experience and progress **at their own pace** — two students
 in the same class can legitimately sit in different phases.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--01-phases-and-levels.webp" width="900" height="650" alt="Two separate scales. Six teaching phases form a continuum that each student moves through individually and that does not match age groups or MYP years. Three reporting levels, emergent, capable and proficient, give a summative course result where a school offers eAssessment. They serve different purposes and are not the same scale." loading="lazy">
+  <figcaption>Phases track learning in class; levels report the result. Do not treat them as one scale.</figcaption>
+</figure>
 
 ## If your school offers MYP eAssessment
 
@@ -56,14 +66,29 @@ Assessed at one of three overall levels — **emergent, capable, proficient**:
   public sources go -- confirm the exact session length with your school.
 - Speaking assessed **separately**, internally, then **externally moderated** by the IB (criterion C).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--04-revision-balance.webp" width="900" height="640" alt="Listening, reading and writing share one on-screen paper and can be revised together; speaking is a separate strand. Each is worth 24 marks. Speaking needs its own routine of spontaneous, interactive conversation under time pressure, and over-investing in writing can hide a gap in speaking." loading="lazy">
+  <figcaption>Equal weights mean no single skill should dominate revision.</figcaption>
+</figure>
+
 ## The four key concepts framing the curriculum
 
 **Communication, connections, creativity, culture** — explored through related concepts like word
 choice, convention and idiom.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--01-concept-layers.webp" width="900" height="715" alt="The four key concepts for language acquisition are communication, connections, creativity and culture; the brief’s related-concept examples are word choice, conventions and idiom. Both are explored through the six global contexts. A topic such as food is not a concept; culture is a concept that applies to food, festivals and slang alike." loading="lazy">
+  <figcaption>Key concepts frame, related concepts ground, contexts give the setting.</figcaption>
+</figure>
+
 ## The four criteria in more depth
 
 Each of the four skill criteria (A listening, B reading, C speaking, D writing) is assessed against level descriptors organised in bands, with higher bands rewarding increasingly sophisticated understanding, response and production appropriate to the student's proficiency phase -- crucially, the *standard expected* within each band is calibrated to the phase a student is working in, not to a fixed absolute standard, so a phase 2 student and a phase 5 student are both assessed against "what a strong response looks like at this phase," not against the same benchmark. This is why comparing scores directly across students in different phases is not meaningful -- the criteria measure progress appropriate to each phase, not a single universal scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criteria-in-practice--01-four-criteria.webp" width="900" height="695" alt="Four rows: A listening (interpret what images add to spoken text), B reading (treat layout, images and formatting as meaning), C speaking (interact spontaneously and answer what was asked) and D writing (match register, vocabulary and structure to audience and purpose). All are judged against the student’s own proficiency level." loading="lazy">
+  <figcaption>Each criterion rewards a skill beyond literal comprehension or rehearsed language.</figcaption>
+</figure>
 
 ## Why the six proficiency phases exist
 
@@ -73,9 +98,19 @@ The six-phase continuum exists because language acquisition genuinely does not m
 
 Under eAssessment, the on-screen exam assesses listening, reading and writing (criteria A, B and D) together, each carrying 24 of the 72 available marks for those three components combined, calibrated to one of three overall proficiency levels -- emergent, capable or proficient -- rather than to the full six-phase continuum used in ongoing classroom assessment. Speaking (criterion C) is deliberately assessed separately because it requires live interaction rather than a written or listened response; it is recorded and marked by the student's own teacher first, then externally moderated by the IB to ensure consistency with the same overall standard applied to the other three skills.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-proficiency-phases--03-matching-preparation-to-level.webp" width="900" height="615" alt="Writing expectations by level: emergent, simple sentences, basic vocabulary and formulaic expressions; capable, a range of structures, more precise vocabulary and register awareness; proficient, complex nuanced structures, idiom and sophisticated audience awareness. A capable student should target the capable column rather than under- or over-reaching." loading="lazy">
+  <figcaption>Neither under-reach nor over-reach: practise what your own level expects.</figcaption>
+</figure>
+
 ## How the four key concepts shape task design
 
 Communication, connections, creativity and culture are not abstract theory but the actual lens through which tasks are designed and marked -- a strong response typically demonstrates awareness of how the target language connects to its cultural context (for example, using an idiom appropriately rather than translating literally from the student's first language), and creatively adapts language to a specific communicative purpose rather than reproducing memorised phrases. Preparing around these four concepts explicitly, rather than only drilling vocabulary and grammar in isolation, better matches how MYP Language Acquisition tasks are actually constructed and marked.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-key-and-related-concepts--02-communication-audience-purpose-mode.webp" width="900" height="645" alt="Communication has three checkable parts: audience, purpose and mode. The same cancellation becomes an informal spoken voicemail to a friend and a formal written email to a teacher. Statement of inquiry: the way we adapt our words to an audience shapes whether a message is understood and accepted." loading="lazy">
+  <figcaption>Same message, different audience: the language has to change.</figcaption>
+</figure>
 
 ## Exam traps
 

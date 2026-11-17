@@ -51,6 +51,11 @@ Related: [HL options study guide](/resources/ib-ib-dp-world-history-hl-options-d
 
 The guide's sections run roughly chronologically from the medieval period to the end of the twentieth century; most schools choose three connected modern sections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--16-hl-regions.webp" width="900" height="1108" alt="Four cards, one for each regional option, each with theme chips taken from the study guide. Africa and the Middle East: external powers, nationalism, state formation, economic change, religion and trade. The Americas: colonial and national development, reform and political change, economic growth and inequality, social movements, relations between states. Asia and Oceania: imperial influence, modernisation, nationalism, revolution, ideology, effects of war. Europe: revolution and reform, nationalism and creation of states, industrial change, ideologies, conflict." loading="lazy">
+  <figcaption>Typical themes by region; follow your teacher’s list.</figcaption>
+</figure>
+
 ## Paper 3 at a glance
 
 | Feature | Detail |
@@ -63,6 +68,11 @@ The guide's sections run roughly chronologically from the medieval period to the
 | Weighting | 35% of the HL grade (Paper 1 20%, Paper 2 25%, internal assessment 20%) |
 | Time per essay | 50 minutes, including about 5 minutes planning |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## How Paper 3 differs from Paper 2
 
 | Paper 2 | Paper 3 |
@@ -73,6 +83,11 @@ The guide's sections run roughly chronologically from the medieval period to the
 | Breadth of examples | Precise detail, chronology and historiography for a narrower area |
 
 The same five 15-mark markbands (13-15, 10-12, 7-9, 4-6, 1-3) are used for both essay papers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--17-hl-selection.webp" width="900" height="710" alt="Two essay pages side by side. The left page is filled with many thin lines, a long list of facts, marked with a cross: description. The right page has five thick, developed examples, each a heading with supporting lines, marked with a tick: analysis and argument. The guide says a deliberate selection of five or six well-developed examples is stronger than a long list. The number of lines is illustrative." loading="lazy">
+  <figcaption>A few developed examples beat a long list.</figcaption>
+</figure>
 
 ## Building a revision grid for each section
 
@@ -110,6 +125,16 @@ You studied three Europe sections: Russia to 1924, Europe and the First World Wa
 2. **Three or four analytical paragraphs (35 minutes):** one factor or argument each, with precise evidence and a mini-judgement.
 3. **Counter-argument (included in the body):** the strongest case against your thesis, and why it is weaker.
 4. **Conclusion (5 minutes):** answer the question directly, weighing the factors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--15-hl-argument.webp" width="900" height="870" alt="A temple-shaped plan for the question: to what extent was external pressure the main cause of political change? The roof is the thesis: external pressure triggered change, but internal factors determined its form. Three pillars are the body paragraphs: external pressure such as wars, trade and foreign influence; internal weakness or reform movements; and economic and social change. The base is the conclusion, which weighs the three and justifies the main cause." loading="lazy">
+  <figcaption>A thesis, three themed paragraphs and a weighing conclusion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--18-hl-necessary.webp" width="900" height="880" alt="Two Venn-style pictures. Necessary: the result sits inside the circle of cause X being present, because the cause had to be present. Sufficient: the circle of cause Y sits inside the circle of the result, because the cause was enough on its own to produce it. Distinguishing causes by importance, and saying which were necessary and which sufficient, strengthens evaluation." loading="lazy">
+  <figcaption>Necessary: had to be present. Sufficient: enough on its own.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

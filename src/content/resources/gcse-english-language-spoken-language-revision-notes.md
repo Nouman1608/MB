@@ -47,6 +47,11 @@ full skills guide, use the
 | **Responding to spoken language** | Listening to and responding appropriately to any questions and feedback |
 | **Spoken Standard English** | Expressing ideas using Standard English whenever and wherever appropriate |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--01-strands-and-grade.webp" width="900" height="820" alt="Spoken language is assessed in school, has 0% weighting, and is reported as Pass, Merit, Distinction or Not Classified, separately from the grade from Paper 1 and Paper 2. The three strands are presenting information and ideas, responding to spoken language, and spoken Standard English. As a guide the presentation lasts no more than ten minutes including questions." loading="lazy">
+  <figcaption>Spoken language is reported separately from the grade and has three strands.</figcaption>
+</figure>
+
 ## The three spoken-language assessment objectives
 
 | AO | Wording |
@@ -69,6 +74,11 @@ AO1–AO6 belong to the two written papers; AO7–AO9 belong only to the endorse
 - **Teacher-only audience:** allowed, but the presentation must be designed for a potentially wider
   audience, for example replicating a television interview.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-spoken-language-study-guide--03-delivery-speaker.webp" width="900" height="810" alt="A speaker stands at a podium facing an audience. Labels point to eye contact, volume, posture and gesture, and two boxes note that a steady pace shows control and that pauses help the audience absorb ideas." loading="lazy">
+  <figcaption>Six things the audience sees and hears when you deliver a talk.</figcaption>
+</figure>
+
 ## How grading works: the competency rule
 
 No marks are given. The grade is holistic and on a **competency basis**: you must meet **every** criterion
@@ -80,6 +90,11 @@ in a grade before you can move to the next. Students who do not reach Pass are r
 - Use **spoken Standard English**: be intelligible and generally use language appropriate to the formal
   setting.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--01-general-criteria-gate.webp" width="900" height="669" alt="Two general criteria, being intelligible and generally using language appropriate to the formal setting, must both be met before any of Pass, Merit or Distinction can be awarded. AO9 assesses using spoken Standard English effectively in speeches and presentations." loading="lazy">
+  <figcaption>Intelligibility and generally appropriate language are needed for any grade.</figcaption>
+</figure>
+
 ### Grade criteria compared
 
 | | Pass | Merit | Distinction |
@@ -89,6 +104,16 @@ in a grade before you can move to the next. Students who do not reach Pass are r
 | Audience | Attempts to meet the needs of the audience | (within structure, above) | (within structure, above) |
 | Purpose | — | Achieves the purpose | Achieves the purpose |
 | Questions | Appropriate response in a straightforward manner | Responds formally and in some detail | Responds perceptively and, if appropriate, elaborates with further ideas and information |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--01-presenting-grade-ladder.webp" width="900" height="568" alt="A table of the three grades for presenting. Pass: straightforward ideas, an attempt to organise, an attempt to meet the audience’s needs. Merit: challenging ideas with a range of vocabulary, clear structure, achieves the purpose. Distinction: sophisticated ideas and vocabulary, an effective range of engagement strategies, achieves the purpose. Every grade needs audibility and spoken Standard English." loading="lazy">
+  <figcaption>Every criterion for a grade must be met; challenging and sophisticated ideas need depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-responding-to-spoken-language--01-responding-grade-ladder.webp" width="900" height="784" alt="Three rising steps. Pass: listens and responds appropriately in a straightforward manner. Merit: responds formally and in some detail. Distinction: responds perceptively and elaborates with further ideas and information. A table explains formally, in some detail, perceptively and elaborates." loading="lazy">
+  <figcaption>Four words separate the grades: formally, in some detail, perceptively, elaborates.</figcaption>
+</figure>
 
 ## Moderation and recording
 
@@ -112,6 +137,16 @@ in a grade before you can move to the next. Students who do not reach Pass are r
 | Questions | Predict likely questions; prepare evidence and examples |
 | Rehearsal | Time it to stay within about ten minutes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--02-flat-topic-to-depth.webp" width="900" height="619" alt="Four flat topics become topics with depth: my favourite football club becomes “Should football clubs be owned by their fans?”; climate change becomes what one town can realistically do; social media becomes whether it makes teenagers more or less lonely; a holiday in Italy becomes what living elsewhere taught me about my own town." loading="lazy">
+  <figcaption>A question or claim gives a topic room for challenging ideas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--04-organising-for-listeners.webp" width="900" height="706" alt="Five shapes for a talk: problem and solution; claim, reasons and counter-argument; past, present and future; two options compared; and myth-busting. Then three ways to keep listeners on track: signpost aloud, such as “That brings me to the second”, repeat key ideas, and summarise before concluding." loading="lazy">
+  <figcaption>Listeners cannot reread, so choose a shape and signpost it aloud.</figcaption>
+</figure>
+
 ## Worked example: Standard English in speech
 
 | Non-standard / informal | Spoken Standard English |
@@ -122,6 +157,11 @@ in a grade before you can move to the next. Students who do not reach Pass are r
 
 Standard English is not the same as using long words: it means grammatically standard forms (for
 example "we were", not "we was") and a register suited to a formal setting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--03-non-standard-to-standard.webp" width="900" height="705" alt="A table of nine areas with non-standard examples and Standard English equivalents, for example “we was” to “we were”, “I was sat” to “I was sitting”, “them results” to “those results”, “the man what helped us” to “the man who helped us” and “innit” to “isn’t it”." loading="lazy">
+  <figcaption>In a formal presentation, use the Standard English form.</figcaption>
+</figure>
 
 ## Common mistakes / traps
 

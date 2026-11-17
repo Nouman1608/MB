@@ -40,12 +40,22 @@ Heard      twice, with pauses to read and answer
 
 The syllabus does not fix the number of questions or options.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--01-exercise-at-a-glance.webp" width="900" height="516" alt="Paper 2 Exercise 4 is worth 8 marks: multiple-choice questions on one discussion between two speakers, heard twice. It is the only exercise that assesses all four listening objectives, L1 to L4." loading="lazy">
+  <figcaption>One two-speaker discussion, every listening objective.</figcaption>
+</figure>
+
 ## Question types by objective
 
 - **L1 detail:** کب؟ کہاں؟ کتنے؟ One stated fact.
 - **L2 opinion or objection:** ... کی کیا رائے ہے؟ / ... کو کس بات پر اعتراض ہے؟
 - **L3 connection:** دونوں کس بات پر متفق ہوتے ہیں؟ / آخر میں کیا طے پاتا ہے؟
 - **L4 implied:** "..." سے کیا مراد ہے؟ / ... کیسا محسوس کرتا ہے؟ / گفتگو کا مقصد کیا ہے؟
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--02-question-types.webp" width="900" height="895" alt="A table of Exercise 4 question types with typical Urdu stems: L1 detail (کس دن، کہاں), L2 opinion (کی کیا رائے ہے؟) and objection (اعتراض), L3 connection (دونوں کس بات پر متفق ہوتے ہیں؟), and L4 meaning, feeling (کیسا محسوس کرتا ہے؟) and purpose (اس گفتگو کا مقصد کیا ہے؟)." loading="lazy">
+  <figcaption>Read the stem to know whether you need a fact, a view, a link or an implication.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -67,6 +77,11 @@ The syllabus does not fix the number of questions or options.
 - **Hesitate:** ہمم ...، پتا نہیں ...
 - **Surprise / admiration / annoyance:** ارے! واقعی؟ / واہ! بہت خوب / اُف!
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--03-turn-openers.webp" width="900" height="958" alt="A table of Urdu turn-openers by reaction: full agreement (بالکل ٹھیک), partial agreement (یہ خیال برا نہیں، مگر ...), disagreement (میں ایسا نہیں سمجھتا), hesitation (ہمم، پتا نہیں), surprise (ارے!), admiration (واہ!) and annoyance (اُف!). Partial agreement signals a reservation." loading="lazy">
+  <figcaption>Track who says what: the reply after a suggestion shows the reaction.</figcaption>
+</figure>
+
 ## Feeling words in options
 
 | Urdu | English |
@@ -81,6 +96,11 @@ The syllabus does not fix the number of questions or options.
 
 The feeling is often **shown, not named**: an exclamation, a complaint, a change of tone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--04-feeling-words.webp" width="900" height="868" alt="A table of feeling words that appear in options, with what a speaker might say instead: پُرجوش (excited), مایوس (disappointed), پریشان (worried), حیران (surprised), متاثر (impressed), مطمئن (satisfied) and ناراض (annoyed). Tone also carries meaning." loading="lazy">
+  <figcaption>The option names the feeling; the speaker only shows it.</figcaption>
+</figure>
+
 ## The four wrong-option types
 
 1. **Right words, wrong speaker.**
@@ -89,6 +109,16 @@ The feeling is often **shown, not named**: an exclamation, a complaint, a change
 4. **Reported view** that the other speaker corrects (سنا ہے ... / لوگ کہتے ہیں ...).
 
 If you can say why each other option is wrong, your choice is safe.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--05-wrong-option-types.webp" width="900" height="634" alt="Four types of distractor: right words but the wrong speaker, an idea suggested then rejected, a true statement that answers a different question, and a reported view that is then corrected." loading="lazy">
+  <figcaption>Eliminate by type: explain why each other option is wrong.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--07-worked-example.webp" width="900" height="1170" alt="A four-line exchange in which Nadia has heard Bilal gave up guitar and Bilal explains his teacher moved away and online classes failed because of slow internet. Question (a) answer B: his teacher moved, while A is the reported view he corrects. Question (b) answer C: online classes were not useful, which is implied." loading="lazy">
+  <figcaption>Reject the reported view and the contradicted option; choose what the speaker means.</figcaption>
+</figure>
 
 ## Mini-example
 
@@ -160,6 +190,11 @@ it.
 2. **First hearing:** provisional choices; note who suggests, objects, agrees, changes mind.
 3. **Second hearing:** confirm; listen to replies after suggestions and to the final lines.
 4. **After:** one answer per question; change only with clear evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions--06-two-hearings.webp" width="900" height="616" alt="Four stages: in the pause read the stems and note both speakers' initials; on the first hearing mark provisional choices and who said what; on the second confirm, listening to replies and the final lines; then check one answer per question." loading="lazy">
+  <figcaption>Know who said what: initials in the margin, notes on every turn.</figcaption>
+</figure>
 
 ## Exam traps
 

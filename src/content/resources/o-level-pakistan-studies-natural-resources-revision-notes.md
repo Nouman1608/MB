@@ -35,6 +35,11 @@ and fish as one table with columns: **location → use →
 sustainability issue** — this transfers directly to how questions are
 actually structured, better than four isolated fact-lists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--06-revision-grid.webp" width="900" height="554" alt="A revision grid with columns for location, use and sustainability issue, filled in for water, forests, minerals and fish from this guide: for example, water from Mangla, Tarbela and Warsak serves agricultural, industrial and domestic users but faces pollution, over-extraction and conflict." loading="lazy">
+  <figcaption>Every Section 2 resource can be revised the same way: where, what for, and how sustainable.</figcaption>
+</figure>
+
 ## 2(a) Water — the most exam-heavy sub-section
 
 | Fact | Detail |
@@ -48,6 +53,11 @@ actually structured, better than four isolated fact-lists.
 (e.g. industrial pollution, over-extraction) paired with a **specific
 solution** — not a generic statement that water problems exist.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--01-water-users.webp" width="900" height="730" alt="A water supply controlled by dams such as Mangla, Tarbela and Warsak, plus barrages, feeds agricultural, industrial and domestic users, who compete for the same supply. Below, three steps build an answer: name a specific cause, pair it with a specific solution, then explain the conflict between regions or user groups." loading="lazy">
+  <figcaption>Because every user draws on the same supply, water problems can turn into conflict.</figcaption>
+</figure>
+
 ## 2(b) Forests — don't blur this distinction
 
 | Term | Meaning |
@@ -60,6 +70,16 @@ physical factors (climate, terrain) **and** human factors
 (deforestation for agriculture/fuel) — one side alone is incomplete.
 **Deforestation effects**: soil erosion, silting, flooding.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--02-plantation-afforestation.webp" width="900" height="624" alt="Two panels compare forest planting. Plantations are planted in rows on the Indus Plain for commercial or resource use. Afforestation on mountain slopes and plateaux aims to prevent soil erosion and manage water flow." loading="lazy">
+  <figcaption>The two are the detail candidates most often blur: one is for use, the other for protection.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--03-deforestation-chain.webp" width="900" height="630" alt="A four-step chain: deforestation for agriculture or fuel leads to soil erosion, then silting, then flooding. A side panel lists solutions: afforestation on slopes and plateaux and sustainable use of forests." loading="lazy">
+  <figcaption>Deforestation sets off a chain from soil erosion to silting to flooding.</figcaption>
+</figure>
+
 ## 2(c) Mineral resources — precision over generality
 
 - Know **specific locations**: limestone, gypsum, rock salt extraction
@@ -71,6 +91,11 @@ cost** — not benefits listed in isolation.
 - Also know Pakistan's main **imported** minerals, sources and
 quantities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--04-minerals-benefit-cost.webp" width="900" height="606" alt="A balance weighs a named benefit of mineral extraction (export revenue or an input for industry) against a named environmental cost tied to a specific resource. Below, limestone, gypsum and rock salt are highlighted as the minerals whose extraction sites must be known." loading="lazy">
+  <figcaption>Pair each named benefit with a named environmental cost to judge sustainability.</figcaption>
+</figure>
+
 ## 2(d) Fish — marine vs inland, improvements paired with problems
 
 | | Marine | Inland |
@@ -81,6 +106,11 @@ The syllabus **explicitly pairs** "improvements in fishing
 methods/processing" with "problems facing the industry" — an answer
 describing improvements without addressing ongoing sustainability
 problems is incomplete by the syllabus's own structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-natural-resources--05-fishing.webp" width="900" height="666" alt="Marine fishing on the Balochistan and Sindh coasts is set beside inland fishing in rivers, lakes and fish farms. Below, improvements in methods and processing are paired with the problems facing the industry, leading to its sustainability and future development." loading="lazy">
+  <figcaption>Never describe improvements without the sustainability problems they are meant to address.</figcaption>
+</figure>
 
 ## Worked example: a balanced water-problem answer
 

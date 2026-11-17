@@ -69,6 +69,21 @@ Foreign policy sits inside key question .2 for all three regimes.
 
 **Society (1.4):** Battle for Births (from 1927) with a bachelor tax and incentives, but the birth rate kept falling; Gentile reform (1923); ONB (1926) youth organisation; OND leisure organisation (1925); Reform of Customs (1938). Opposition included the underground Communist Party, Justice and Liberty (founded 1929) and assassination attempts in 1925-26.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--01-liberal-italy-vulnerable.webp" width="900" height="471" alt="Four pressures converge: the war (around 600,000 dead and Caporetto), the peace (the &quot;mutilated victory&quot; and d'Annunzio at Fiume), the economy (inflation and the Biennio Rosso) and parliament (Socialists and Popolari as the largest parties and four prime ministers by 1922). Together they left a weak state facing both left and right." loading="lazy">
+  <figcaption>War, peace, economic crisis and deadlock left the liberal state exposed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--08-it-steps.webp" width="900" height="968" alt="A six-step staircase rising to the right. Step 1, October 1922: the March on Rome ends with the king inviting Mussolini to form a government, legal in form but obtained under threat of force. Step 2, 1923: the Acerbo Law gives a large majority of seats to the party with the biggest vote. Step 3, 1924: an election marked by intimidation. Step 4, 1924: the murder of Matteotti creates a crisis that Mussolini survives. Step 5, January 1925: he declares he takes responsibility. Step 6: opposition parties are suppressed and the press is controlled." loading="lazy">
+  <figcaption>Mussolini’s rise from the March on Rome to a one-party state, step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-mussolinis-italy--05-economic-battles.webp" width="900" height="610" alt="A table of four battles. Grain (1925) raised wheat output but displaced olives and fruit and raised bread prices. Lira (1927) fixed Quota 90, hurting exporters and causing deflation. Land drained the Pontine Marshes but reclaimed far less than planned. Births (from 1927) used loans and taxes, but the birth rate kept falling." loading="lazy">
+  <figcaption>Each battle won headlines and lost money.</figcaption>
+</figure>
+
 ## 2 Stalin's Russia, 1924-41: key facts
 
 | Date | Event | Why it matters |
@@ -89,6 +104,21 @@ Foreign policy sits inside key question .2 for all three regimes.
 
 **Society (2.4):** the "Great Retreat" restored traditional family values and school discipline; women entered industry in large numbers but kept domestic burdens; Cultural Revolution (1928-31) gave way to Socialist Realism (1934 Writers' Congress); religion was repressed, though the 1937 census -- suppressed -- recorded a majority of respondents as believers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--09-st-rivals.webp" width="900" height="990" alt="A sequence. At the top, Stalin as General Secretary controls appointments and uses the ban on factions. Three rounds follow, each showing defeated rivals crossed out: first Trotsky, then Zinoviev and Kamenev, then Bukharin. The result is Stalin supreme by 1929." loading="lazy">
+  <figcaption>Stalin used his party posts to defeat Trotsky, then Zinoviev and Kamenev, then Bukharin.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--10-st-economy-terror.webp" width="900" height="608" alt="A timeline of Stalin’s Russia. Economic change: the First Five-Year Plan from 1928 prioritises heavy industry; collectivisation from 1929 with a campaign against so-called kulaks; severe famine in 1932-33. Terror and control: the murder of Kirov in December 1934 is followed by wider arrests; the 1936 constitution looks democratic but the state stays one-party; show trials and purges of 1936-38 lead to mass arrests, executions and a larger Gulag." loading="lazy">
+  <figcaption>The shift from economic transformation to terror, 1928-38.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--07-transformation-retreat.webp" width="900" height="514" alt="A table of five areas. Women entered industry, but the 1936 law banned abortion; national cultures gave way to Russification; literacy rose but schooling became formal, with fees from 1940; Socialist Realism was imposed; religion was attacked, yet the 1937 census recorded a majority of believers." loading="lazy">
+  <figcaption>Change was real, but in family, school and nationality the 1930s also brought a &quot;Great Retreat&quot;.</figcaption>
+</figure>
+
 ## 3 Hitler's Germany, 1929-41: key facts
 
 | Date | Event | Why it matters |
@@ -107,6 +137,21 @@ Foreign policy sits inside key question .2 for all three regimes.
 
 **Society (3.4):** *Kinder, Küche, Kirche*; marriage loans (1933) and the Mother's Cross (1938); women recalled to work from 1937 as labour ran short. Hitler Youth and BDM, made compulsory by law in 1936 and 1939. Concordat (1933), Reich Church under Bishop Müller, German Faith Movement; Confessing Church resistance; Galen's 1941 sermon against euthanasia. Persecution: April 1933 boycott, Nuremberg Laws, Kristallnacht; sterilisation law (1933) and persecution of Roma, homosexuals, Jehovah's Witnesses and disabled people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--01-nazi-seats.webp" width="900" height="711" alt="A bar chart of Nazi Reichstag seats: 12 in 1928, 107 in September 1930, 230 in July 1932 (37.3 per cent of the vote, the largest party) and 196 in November 1932, when votes and money were falling away." loading="lazy">
+  <figcaption>Nazi support rose steeply to July 1932, then began to fall.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--11-ge-52-days.webp" width="900" height="924" alt="A to-scale bar of 52 days. It starts on 30 January 1933 when Hitler becomes Chancellor, passes the Reichstag fire and suspension of civil rights on 27 February after 28 days, and ends on 23 March with the Enabling Act, 24 days later, letting the government make laws without the Reichstag. Below, a chain: trade unions and other parties banned, the Night of the Long Knives on 30 June 1934, and in August 1934 Hitler combines the offices of Chancellor and President." loading="lazy">
+  <figcaption>It took 52 days from Chancellor to the Enabling Act; by August 1934 Hitler held both top offices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-hitlers-germany--06-economy-phases.webp" width="900" height="765" alt="Two phases: recovery from 1933 to 1936 under Schacht, with deficit financing, Mefo bills and public works; rearmament and autarky, building on the New Plan (1934), from 1936 to 1939 under Göring's Four Year Plan, with Schacht resigning in 1937. A guns-or-butter box notes the competition for foreign currency. A balance weighs jobs and leisure schemes against frozen wages, longer hours and the loss of unions." loading="lazy">
+  <figcaption>Jobs returned, but rearmament came before living standards.</figcaption>
+</figure>
+
 ## Comparison grid for synoptic judgement
 
 | Criterion | Italy | USSR | Germany |
@@ -115,6 +160,16 @@ Foreign policy sits inside key question .2 for all three regimes.
 | Terror | Limited (OVRA, *confino*) | Mass (NKVD, Gulag, 1937-38) | Extensive and racial (SS, Gestapo, camps) |
 | Economic model | Corporatism, then autarky | Command economy | Private industry directed for rearmament |
 | Social transformation | Shallow; Church compromise | Deep upheaval, partial retreat after 1934 | Significant for youth and minorities; limited for women |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--13-regimes-compared.webp" width="900" height="700" alt="Three columns compare Italy, the Soviet Union and Germany on three questions. Route to power: Mussolini was appointed by the king after pressure; Stalin won a party struggle after Lenin; Hitler was appointed Chancellor, then seized control. Main tool: propaganda and partial coercion in Italy; mass terror and party control in the Soviet Union; terror, propaganda and popular support in Germany. Economic aim: self-sufficiency in Italy, rapid industrialisation in the Soviet Union, rearmament in Germany." loading="lazy">
+  <figcaption>The three regimes compared on route to power, main tool and economic aim.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-depth-study-european-interwar-study-guide--12-road-to-war.webp" width="900" height="966" alt="One timeline from 1934 to 1941 with a marker shape for each regime. Soviet Union: joins the League in 1934; Munich leaves Moscow isolated in 1938; the Nazi-Soviet Pact in August 1939; Operation Barbarossa on 22 June 1941. Italy: invades Ethiopia in 1935 and faces sanctions; Rome-Berlin Axis in 1936; anti-Jewish laws in 1938; Pact of Steel in 1939; enters the war in June 1940. Germany: Rhineland remilitarised in 1936; Anschluss in March 1938; Munich in September 1938; Czechoslovakia occupied in March 1939; Nazi-Soviet Pact; invasion of Poland on 1 September 1939." loading="lazy">
+  <figcaption>Foreign-policy steps of Italy, the Soviet Union and Germany on one timeline, 1934-41.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

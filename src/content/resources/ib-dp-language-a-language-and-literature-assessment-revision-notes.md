@@ -41,6 +41,11 @@ Paper 1 stays at 35% for both levels, but Paper 2 drops from 35% at SL to 25% at
 | HL essay (independent coursework, 1,200-1,500 words) | — | 20% |
 | Individual oral | 30% | 20% |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-2-comparative-essay--12-p2-format.webp" width="900" height="910" alt="Four question cards, with one chosen: you choose one of four questions. Two books represent the two literary works the essay compares. A clock shows 1 hour 45 minutes (105 minutes). Two bars show the share of the final grade: 35 percent at SL and 25 percent at HL. A note says only literary works count; advertisements and speeches belong to Paper 1." loading="lazy">
+  <figcaption>Paper 2: one of four questions, two literary works, 1 h 45 min, 35% (SL) or 25% (HL).</figcaption>
+</figure>
+
 ## What distinguishes HL
 
 Not simply a longer exam overall -- HL differs from SL in three linked ways: **Paper 1 is longer**
@@ -50,6 +55,11 @@ individual oral from 30% to 20%; and HL students complete an **extra piece of in
 coursework** (the HL essay, 20%), on a literary work or a non-literary body of work studied in
 class. Paper 2 itself is the same length (1 hour 45 minutes) and format at both levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-paper-1-guided-textual-analysis--11-p1-time-split.webp" width="900" height="832" alt="Two bar charts. For one analysis in 75 minutes: guiding question and three readings 15 minutes, thesis and plan 5, introduction 5, three body paragraphs 40, conclusion 5, check 5. For HL with two passages in 135 minutes: 65 minutes for each passage and 5 minutes spare, finishing the first passage with a conclusion before starting the second." loading="lazy">
+  <figcaption>A workable 75-minute split, and the 135-minute HL split for two passages.</figcaption>
+</figure>
+
 ## The individual oral
 
 - Common to both levels.
@@ -57,13 +67,28 @@ class. Paper 2 itself is the same length (1 hour 45 minutes) and format at both 
   presented through the content and form of one studied **literary work** and one studied
   **non-literary body of work**, supported by an extract from each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--01-oral-what.webp" width="900" height="960" alt="The individual oral is a prepared oral response on how one literary work and one non-literary body of work, both studied on the course, approach a common global issue. The task is to analyse how each text approaches the issue, not to give a speech about the issue. It is internally assessed and carries 30% of the final grade at SL and 20% at HL, shown as two bars." loading="lazy">
+  <figcaption>What the individual oral compares.</figcaption>
+</figure>
+
 ## The individual oral in more depth
 
 The oral is graded against criteria covering: **knowledge and understanding** of both the literary work and the non-literary body of work, including their context; the quality of the **analysis** connecting the chosen global issue to how it is presented across both; the **focus and organisation** of the response within the fixed preparation and speaking time; and **language** (register, clarity and appropriate terminology). A common weakness is choosing a global issue too broadly stated to analyse precisely within the time available -- a tightly framed issue, clearly evidenced in specific details from both, consistently scores more highly than a broad theme gestured at only in general terms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-individual-oral-global-issues--03-oral-structure.webp" width="900" height="1040" alt="Six steps in order: 1 Introduction (name the issue as an angle, both texts, a one-sentence thesis, preview the route). 2 Literary extract (two or three focused points, each with a quotation and its effect). 3 Link to the whole literary work (one or two precise references). 4 Non-literary extract (two or three focused points). 5 Link to the whole body of work. 6 Comparison and conclusion (bring the two methods together and answer the thesis). An alternative is to weave the comparison through each section." loading="lazy">
+  <figcaption>One workable structure for the oral.</figcaption>
+</figure>
+
 ## The HL essay in more depth
 
 The HL essay is independent coursework on one non-literary text (or a collection of non-literary texts by the same author), or one literary text or work, studied during the course. Teachers give regular formative feedback throughout but must not edit or correct the student's writing directly. Only near the end of the writing process may a teacher give written advice on one complete draft -- typically by annotating it with comments in the margin -- and under no circumstances may a teacher edit or rewrite that draft; the next version the student submits must be the final one. The essay is assessed against criteria covering: the clarity and sustained development of the essay's central line of inquiry; the quality of analysis of the chosen text or work; and organisation and language appropriate to a formal, extended piece of academic writing. Because it is completed independently and outside exam conditions, examiners expect a higher standard of structured argument and textual evidence than an in-class timed essay -- an HL essay that reads like an expanded exam response, rather than a genuinely independent piece of extended writing, typically underperforms against the criteria's higher bands.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-a-language-literature-hl-essay--14-hl-facts.webp" width="900" height="800" alt="The HL essay is a written, externally assessed coursework component, worth 20 percent of the final grade at HL, on one work studied in the course. A donut chart shows the 20 percent share. A word-count bar marks the required range of 1,200 to 1,500 words, with the region above 1,500 shown as over the limit. SL students do not write it." loading="lazy">
+  <figcaption>The HL essay is written coursework of 1,200–1,500 words, worth 20% of the final grade at HL.</figcaption>
+</figure>
 
 ## Command terms across the papers
 

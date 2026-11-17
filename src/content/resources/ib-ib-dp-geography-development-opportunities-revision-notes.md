@@ -56,6 +56,16 @@ More measures to know:
 **Gini coefficient:** 0 means perfect equality and 1 means one person has all the income. South
 Africa has one of the highest recorded values; Nordic countries are among the lowest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--16-dev-hdi-dimensions.webp" width="900" height="810" alt="Life expectancy, years of schooling and income are each scaled to an index from 0 to 1 and combined with a geometric mean to give the HDI." loading="lazy">
+  <figcaption>The HDI combines health, knowledge and standard of living.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--15-dev-average-income.webp" width="900" height="950" alt="Two bar charts of five people with the same average income of 20: equal incomes (low Gini) and incomes 5, 5, 10, 20 and 60 (high Gini)." loading="lazy">
+  <figcaption>A country can rise on average income while inequality widens.</figcaption>
+</figure>
+
 ## HDI method in outline
 
 Each dimension is converted to an index between 0 and 1 using fixed minimum and maximum values,
@@ -64,6 +74,16 @@ regions or groups sit far below it.
 
 The geometric mean is used so that a very low score in one dimension cannot be fully offset by a
 high score in another.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--17-dev-hdi-worked.webp" width="900" height="920" alt="Bars for life expectancy index 0.831, education index 0.628 and income index 0.723, with the geometric mean about 0.72." loading="lazy">
+  <figcaption>The three indices combine into an HDI-style value of about 0.72.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--18-dev-geometric-mean.webp" width="900" height="910" alt="Country P scores 0.70 in all three dimensions (both means 0.70). Country Q scores 0.95, 0.95 and 0.20: simple average 0.70, geometric mean 0.57." loading="lazy">
+  <figcaption>A low score in one dimension cannot be fully offset by high scores in others.</figcaption>
+</figure>
 
 ## Development goals
 
@@ -86,6 +106,11 @@ slower, and the COVID-19 pandemic set back several goals.
 
 **Spatial inequality:** opportunity is often concentrated in cities and coastal regions. Gender,
 ethnicity and age also affect who can take opportunities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--19-dev-opportunities-costs.webp" width="900" height="850" alt="Foreign investment: jobs versus profit outflows. Remittances: household support versus loss of skilled workers. Aid: help versus dependence. Opportunity is often concentrated in cities and coastal regions." loading="lazy">
+  <figcaption>Opportunities for development each bring costs as well as benefits.</figcaption>
+</figure>
 
 ## Examples of each route
 

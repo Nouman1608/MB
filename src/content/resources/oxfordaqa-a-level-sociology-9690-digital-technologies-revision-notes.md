@@ -81,6 +81,36 @@ These notes condense content point **3.2.3.4 Digital technologies** of OxfordAQA
 - Patterns: income, age, rural/urban, disability, gender (women less likely to own mobiles in many low- and middle-income countries).
 - COVID-19 school closures exposed the divide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--01-magic-circle.webp" width="900" height="799" alt="Huizinga’s magic circle of play, with friendships, money, identity and work crossing between online games and everyday life. A note lists themes: community, Gamergate, loot boxes and moral panics after Columbine." loading="lazy">
+  <figcaption>In online games, friendships, money, identity and work cross the boundary of play.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--02-media-adapt.webp" width="900" height="596" alt="Four adaptations: convergence across platforms, Anderson’s long tail, the move from schedules to on-demand viewing in 2007, and newspapers shifting from advertising to subscriptions and paywalls." loading="lazy">
+  <figcaption>Adaptation keeps big brands strong while local news shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--03-healthism.webp" width="900" height="583" alt="A chain from fitness tracking to healthism, blaming ill or inactive people, and ignoring social causes such as poverty. Cards add Foucault’s biopower and gamification at work." loading="lazy">
+  <figcaption>Self-tracking can turn health into a personal duty and hide its social causes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--04-surveillance.webp" width="900" height="813" alt="Scattered data from cards, phones, cameras and online activity combine into a data double that is sorted into categories such as risky or safe. Cards show state surveillance, sousveillance and everyday surveillance." loading="lazy">
+  <figcaption>Surveillance now combines scattered data into data doubles that sort people.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--05-routine-activity.webp" width="900" height="680" alt="Routine activity theory: a motivated offender, a suitable target and no capable guardian produce crime; online, targets are plentiful and guardians scarce. Cases: WannaCry, Estonia 2007 and types of hacking." loading="lazy">
+  <figcaption>Online, suitable targets are many and capable guardians few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-digital-technologies--06-digital-divide.webp" width="900" height="725" alt="Three rising steps: first-level access, second-level skills and use (Hargittai), and third-level unequal outcomes. Cards add van Dijk’s four types of access, patterns by income, age, location, disability and gender, and the COVID-19 school closures." loading="lazy">
+  <figcaption>The divide is about skills and outcomes, not only access.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

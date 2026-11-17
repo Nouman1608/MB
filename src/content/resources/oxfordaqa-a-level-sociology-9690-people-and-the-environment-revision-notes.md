@@ -74,6 +74,16 @@ When you finish, test yourself with the [practice questions](/resources/oxfordaq
 | Rewilding | Restoring land to natural processes, sometimes with reintroduced species |
 | De-extinction | Attempts to recreate extinct species using genetic technology |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--01-urban-forms.webp" width="900" height="568" alt="Six features of city life: slums and informal housing, suburbia, segregation, gated communities, megacities of over 10 million people, and Augé’s non-places such as airports and malls." loading="lazy">
+  <figcaption>Cities divide space by wealth, group and function.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--07-columbian-exchange.webp" width="900" height="503" alt="Two-way arrows between Afro-Eurasia and the Americas after 1492: horses, cattle and smallpox travelled to the Americas; maize, potatoes and turkeys travelled to Afro-Eurasia." loading="lazy">
+  <figcaption>After 1492 plants, animals and diseases crossed the Atlantic in both directions.</figcaption>
+</figure>
+
 ## Theorists and studies at a glance
 
 | Who | What | Key idea or finding | One evaluation point |
@@ -95,6 +105,21 @@ When you finish, test yourself with the [practice questions](/resources/oxfordaq
 | Regan | *The Case for Animal Rights* (1983) | Animals have rights that cannot be traded | Hard to apply to pest control or disease |
 | Crosby | *The Columbian Exchange* (1972) | Biological exchange reshaped both hemispheres | Focuses on biology; colonial power did the damage too |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--02-demographic-transition.webp" width="900" height="745" alt="A schematic of four stages: high birth and death rates; falling death rates with high birth rates, giving rapid growth; falling birth rates; and low birth and death rates. Criticisms are listed beneath." loading="lazy">
+  <figcaption>The gap between falling death rates and falling birth rates drives population growth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--04-hannigan-claims.webp" width="900" height="583" alt="Hannigan’s six factors that turn a real environmental problem into a public issue: scientific authority, popularisers, media attention, dramatic symbols, economic incentives and an institutional sponsor." loading="lazy">
+  <figcaption>Environmental problems are real, but they must be claimed to become public issues.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--06-environmental-justice.webp" width="900" height="496" alt="Richer countries and people produce far more emissions per head, while poorer countries and people suffer first and worst. Bullard’s Houston research and Dumping in Dixie lead to the idea of climate justice and the COP27 loss and damage fund." loading="lazy">
+  <figcaption>Those who cause least environmental harm often bear most of its costs.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Ecological modernisation vs green Marxism.** EMT says reform capitalism; green Marxism says capitalism's growth drive is the cause.
@@ -104,6 +129,16 @@ When you finish, test yourself with the [practice questions](/resources/oxfordaq
 - **Between vs within countries.** Climate injustice exists both globally (rich and poor nations) and locally (rich and poor districts).
 - **Urbanisation vs urban growth.** Urbanisation is a rising urban share; a city can grow while the urban share stays flat.
 - **Strong vs soft constructionism.** Hannigan takes the soft view: problems are real but must be claimed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--03-views-of-nature.webp" width="900" height="581" alt="Four views of the natural world: exploitation for human use, romanticism, conservation and media representations, with the Brundtland definition of sustainable development beneath." loading="lazy">
+  <figcaption>How people see nature shapes how they use it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--08-welfare-rights.webp" width="900" height="506" alt="Animal welfare accepts human use but seeks to reduce suffering, as with the 3Rs; animal rights, from Regan, rejects use itself. Singer argued animal suffering counts morally, against anthropocentrism." loading="lazy">
+  <figcaption>Welfare reduces suffering; rights end use.</figcaption>
+</figure>
 
 ## Mini essay plan
 
@@ -116,6 +151,11 @@ When you finish, test yourself with the [practice questions](/resources/oxfordaq
 5. **Evaluate**: state socialist pollution suggests industrialism is the issue; capitalist states have still cut some pollutants.
 6. **Justice angle**: Bullard; poor communities bear costs whichever system operates.
 7. **Conclusion**: a judgement tied to your examples, for instance that capitalism can reduce some local harms but has not reduced global consumption.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-the-environment--05-emt-green-marxism.webp" width="900" height="580" alt="Ecological modernisation theory argues capitalism can become greener through technology and regulation; green Marxism argues profit and growth drive damage, through Foster’s metabolic rift and Schnaiberg’s treadmill of production." loading="lazy">
+  <figcaption>The two theories disagree on whether capitalism can be sustainable.</figcaption>
+</figure>
 
 ## Quick self-test
 

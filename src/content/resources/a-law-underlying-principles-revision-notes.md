@@ -50,6 +50,11 @@ Condensed for the final weeks. For the full explanation, use the
 **Advantages:** democratic, made by elected representatives, thoroughly scrutinised, can reform whole areas at once.
 **Disadvantages:** slow, dominated by government, time-limited, and drafting can be obscure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--21-supremacy-limits.webp" width="900" height="912" alt="Two columns. On the left, three legal points showing supremacy: any subject, courts cannot strike down an Act, no Parliament binds its successor. On the right, practical limits: devolution, declaration of incompatibility under the Human Rights Act, international obligations, and Acts that are politically impossible to repeal. A banner concludes that legal supremacy survives but practical constraints are real." loading="lazy">
+  <figcaption>Parliament keeps its legal supremacy, but practical constraints are real.</figcaption>
+</figure>
+
 ## Delegated legislation
 
 Law made by a body other than Parliament under authority given by an **enabling** (parent) Act.
@@ -79,17 +84,47 @@ The core criticism is that delegated legislation is made by **unelected** people
 
 **The trade-off:** the literal rule respects parliamentary supremacy but can defeat Parliament's obvious intention; the purposive approach delivers sensible outcomes but risks judges legislating. Every evaluation question here is a version of that tension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-rules-of-statutory-interpretation--02-spectrum-of-approaches.webp" width="900" height="518" alt="The four approaches on a line from the words to the purpose: the literal rule gives the plain meaning even if absurd (Whiteley v Chappell); the golden rule starts literally but departs to avoid absurdity (R v Allen; Re Sigsworth); the mischief rule from Heydon’s Case looks at the defect the Act cures (Smith v Hughes); the purposive approach looks at the purpose of the whole Act (Jones v Tower Boot)." loading="lazy">
+  <figcaption>Each approach sits further from the bare words and closer to Parliament’s purpose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--03-interpretation-aids.webp" width="900" height="684" alt="Ejusdem generis: in Powell v Kempton Park, the words house, office, room or other place were read as indoor places only, so an outdoor enclosure was not covered. Cards cover presumptions, intrinsic and extrinsic aids and the Interpretation Act 1978. Under the HRA, s 3 requires a compatible reading where possible (Ghaidan); if impossible, a s 4 declaration does not invalidate the Act." loading="lazy">
+  <figcaption>General words take their meaning from the list; s 3 reads compatibly, s 4 declares.</figcaption>
+</figure>
+
 ## Judicial precedent
 
 ***Stare decisis*** — the **ratio decidendi** binds, the ***obiter dicta*** persuade only.
 
 Avoiding precedent: **distinguishing** (material facts differ), **overruling** (a higher court declares an earlier decision wrong), **reversing** (a higher court changes the outcome of the *same* case on appeal). The **Practice Statement 1966** lets the Supreme Court depart from its own decisions when it appears right to do so, used sparingly to preserve certainty.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--01-ratio-and-obiter.webp" width="900" height="748" alt="A judgment contains the ratio decidendi, the binding legal principle behind the decision, which later judges identify, and obiter dicta, things said by the way, which are only persuasive. Obiter can become law: the obiter in R v Howe on attempted murder was followed in R v Gotts, and Denning J’s obiter in High Trees founded promissory estoppel." loading="lazy">
+  <figcaption>Only the ratio binds; obiter persuades, and can later become law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--06-distinguish-overrule-reverse.webp" width="900" height="610" alt="Distinguishing: any court finds the material facts differ, so the earlier ratio does not apply (Balfour v Balfour distinguished in Merritt v Merritt). Overruling: a higher court, or the same court with a power to depart, decides the rule in an earlier, different case was wrong (R v G overruled Caldwell). Reversing: a higher court changes the decision in the same case on appeal." loading="lazy">
+  <figcaption>Distinguish on the facts, overrule a different earlier case, reverse the same case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--05-practice-statement-timeline.webp" width="900" height="852" alt="A timeline: from London Street Tramways (1898) the House of Lords was bound by its own decisions until the 1966 Practice Statement allowed departure &quot;when it appears right to do so&quot;; Austin v Southwark (2010) applied it to the Supreme Court. It was used in Conway v Rimmer (1968), Herrington (1972), Miliangos (1976), R v Shivpuri (1986), Pepper v Hart (1993) and R v G (2003), and refused in Jones (1972) and Knuller (1973). A table gives the case each overruled and the point." loading="lazy">
+  <figcaption>The power to depart exists but is used sparingly: name the case overruled and why.</figcaption>
+</figure>
+
 ## Law reform
 
 Bodies: the **Law Commission** (full-time, independent, systematic review, though many reports go unimplemented for lack of parliamentary time), Royal Commissions, public inquiries, and pressure groups.
 
 Pressure for reform also comes from judicial decisions exposing gaps, media campaigns, and European or international obligations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--02-law-reform-influences.webp" width="900" height="569" alt="A table of five influences on law reform with an example, advantage and disadvantage for each: political parties, pressure groups (Snowdrop campaign and the Firearms (Amendment) Act 1997), the Law Commission (Fraud Act 2006), judges (R v R) and the media (Sarah's Law)." loading="lazy">
+  <figcaption>Each influence has a lesson example, a strength and a weakness.</figcaption>
+</figure>
 
 ## Law and morality
 
@@ -104,6 +139,16 @@ Pressure for reform also comes from judicial decisions exposing gaps, media camp
 The Wolfenden Report and the subsequent decriminalisation legislation followed Hart's position. A strong answer applies the debate to a current example rather than merely recounting it.
 
 **Justice** — distributive (fair allocation of resources), corrective (putting right a wrong), procedural (fair process). Rawls's "veil of ignorance" and Nozick's entitlement theory are the standard contrast.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-underlying-principles--20-law-and-morality.webp" width="900" height="710" alt="Two Venn pictures of law and morality. For homicide the circles overlap a lot; for regulatory offences they overlap only a little. A note says morality changes over time and varies between groups, but law is enforced uniformly by the state." loading="lazy">
+  <figcaption>The overlap between law and morality is substantial for homicide and thin for regulatory offences.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--06-hart-devlin-cases.webp" width="900" height="600" alt="Devlin says a shared morality holds society together so law may enforce it; Hart, following Mill, says only harm to others justifies intervention. Cases are grouped: enforcing morality (Shaw, Brown), respecting private choice (Wilson), changing with social attitudes (R v R, Gillick) and life and death (Bland, Re A)." loading="lazy">
+  <figcaption>Devlin versus Hart, tested against cases that point each way.</figcaption>
+</figure>
 
 ## Exam traps
 

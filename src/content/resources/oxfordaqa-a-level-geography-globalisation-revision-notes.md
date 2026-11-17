@@ -35,9 +35,24 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Flows**: capital, labour, products, services, information. **Drivers**: technology, financial/transport/security/communications/management/information systems, trade agreements. Practise naming a **real example** for each flow type — a specific FDI flow, a specific migration pattern, a specific supply chain — rather than listing categories abstractly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-global-systems-and-governance--01-dimensions-of-globalisation.webp" width="900" height="1010" alt="Two places are linked by pairs of arrows running in both directions. On the arrows sit five labelled pictures: capital, labour, products, services and information. Together these are the five dimensions of globalisation named in the lesson." loading="lazy">
+  <figcaption>Globalisation is the increasing flow of capital, labour, products, services and information between places.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-global-systems-and-governance--02-drivers-of-globalisation.webp" width="900" height="780" alt="A central circle labelled Globalisation has seven arrows pointing into it. The arrows come from financial systems, transport systems, security systems, communications, management systems, information systems and trade agreements. These are the factors the specification lists as driving globalisation." loading="lazy">
+  <figcaption>The specification lists developments in these systems, and trade agreements, as the drivers of globalisation.</figcaption>
+</figure>
+
 ## Interdependence — a double-edged phenomenon (3.2.1.2)
 
 Unequal flows of people, money, ideas and technology can **promote stability, growth and development** — but also cause **inequalities, conflicts and injustices**. Unequal power relations let some states drive global systems to their own advantage; others can only respond or resist in a more constrained way. Avoid one-sided answers — show **both** outcomes for the same flow or system.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-global-systems-and-governance--04-interdependence-both-ways.webp" width="900" height="960" alt="Unequal flows of people, money, ideas and technology all feed into the middle of a level balance. The left pan lists stability, growth and development. The right pan lists inequalities, conflicts and injustices. The picture shows that the same flows can produce both kinds of result." loading="lazy">
+  <figcaption>The same unequal flows can promote stability, growth and development and also cause inequalities, conflicts and injustices.</figcaption>
+</figure>
 
 ## Worked example: unequal power relations
 
@@ -56,6 +71,11 @@ Balance:    acknowledge genuine opportunities global systems create for
 ```
 
 This **claim–example–consequence–balance** structure is the evaluative depth this sub-topic is assessed against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-global-systems-and-governance--05-unequal-power-relations.webp" width="900" height="860" alt="A large circle for a more powerful state has a thick arrow into a box called global system, which names trade agreements and financial institutions. A smaller circle for a less powerful state has a thin dashed arrow, labelled responds or resists. A row of four steps gives the answer shape: claim, example, consequence, balance." loading="lazy">
+  <figcaption>More powerful states can drive a global system to their advantage; less powerful states mainly respond or resist.</figcaption>
+</figure>
 
 ## Worked example: two-part exam question
 
@@ -89,6 +109,11 @@ Beyond the five named flows, this sub-topic also covers global marketing and pat
 ## Vocabulary precision
 
 Distinguishing "globalisation" (the process and its drivers) from "global systems" (the structures and networks that result) avoids one of the more common conceptual blurs in this section, since exam questions sometimes hinge on which of the two is actually being asked about -- read the command word and the noun it attaches to carefully before deciding which sub-topic's content to draw on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-geography-global-systems-and-governance--03-process-system-interdependence.webp" width="900" height="1180" alt="Three boxes joined by arrows read: globalisation is the process, a global system is the structure it creates, and interdependence is the result. Below them a network of dots shows a decision at one dot sending ripples to others. Four labels name the forms of interdependence: economic, political, social and environmental." loading="lazy">
+  <figcaption>Globalisation is the process, global systems are the structures it creates, and interdependence is the relationship between places that results.</figcaption>
+</figure>
 
 ## Common mistakes
 

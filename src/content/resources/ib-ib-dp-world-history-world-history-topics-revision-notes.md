@@ -83,6 +83,11 @@ Related: [World history topics study guide](/resources/ib-ib-dp-world-history-wo
 
 The pairings are illustrations; your teacher chooses the examples. IB regions are Africa and the Middle East, the Americas, Asia and Oceania, and Europe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--06-wh-twelve-topics.webp" width="900" height="1112" alt="Twelve bars drawn to scale on a timeline from 750 to 2005, grouped into a 750 to 1700 block and a 1750 onwards block. Three topics are labelled only as 20th century because the lesson gives no exact dates." loading="lazy">
+  <figcaption>The twelve topics laid out in time, to scale where the lesson gives dates.</figcaption>
+</figure>
+
 ## Paper 2 at a glance
 
 | Feature | Detail |
@@ -93,6 +98,16 @@ The pairings are illustrations; your teacher chooses the examples. IB regions ar
 | Marks | 15 per essay, 30 in total |
 | Weighting | 45% at SL; 25% at HL |
 | Typical demand | "with reference to two ... each chosen from a different region"; "compare and contrast"; "to what extent"; "evaluate"; "discuss" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--07-wh-paper2-shape.webp" width="900" height="850" alt="Twelve circles show your school chooses two topics. Each topic has two questions (24 in all). You write one essay from each of two different topics, 15 marks and about 45 minutes each, 30 marks in 90 minutes." loading="lazy">
+  <figcaption>You answer two essays on two different topics, 30 marks in 90 minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--08-wh-essay-clock.webp" width="900" height="955" alt="A vertical bar shows 45 minutes: plan 5, introduction 5, four paragraphs of 7 minutes, conclusion and final read 5, spare 2. Running totals are 5, 10, 17, 24, 31, 38, 43 and 45." loading="lazy">
+  <figcaption>A 45-minute essay: 5 + 5 + 4 x 7 + 5 = 43 minutes, with 2 spare.</figcaption>
+</figure>
 
 ## Key concepts for each modern topic
 
@@ -105,6 +120,11 @@ The pairings are illustrations; your teacher chooses the examples. IB regions ar
 | 11 20th-century wars | Causes (long- and short-term, economic, ideological, territorial); practices (technology, strategy, home front); effects | Total war, limited war, civil war, guerrilla war |
 | 12 Cold War | Rivalry, mistrust and accord; leaders and nations; Cold War crises | Containment, brinkmanship, détente, proxy war |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--10-wh-causes-consequences.webp" width="900" height="950" alt="Five boxes down the page: long-term causes, short-term causes, the event, immediate consequences and lasting consequences, with an arrow for time. Brackets ask which cause mattered most and whether consequences were immediate or lasting." loading="lazy">
+  <figcaption>Separate long-term from short-term causes and immediate from lasting consequences.</figcaption>
+</figure>
+
 ## Key concepts for each pre-modern topic
 
 | Topic | Themes | Useful evidence |
@@ -115,6 +135,11 @@ The pairings are illustrations; your teacher chooses the examples. IB regions ar
 | 4 Societies in transition | Religious, intellectual and economic change; contact between societies | Luther's 95 Theses (1517); the Columbian exchange |
 | 5 Early Modern states | Rise and consolidation of states, centralisation and limits on rulers | Versailles and the intendants; the Tokugawa *sankin-kōtai* system |
 | 6 Early Modern wars | Causes (dynastic, religious), military change, effects on states | Peace of Westphalia (1648); Korean resistance in the Imjin War |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4--03-columbian-exchange.webp" width="900" height="606" alt="A schematic, not to scale. Maize and potatoes flow from the Americas to Europe, Africa and Asia; horses, cattle and wheat flow to the Americas; smallpox flows to the Americas and devastates populations; and the Atlantic slave trade forcibly transports millions of Africans to the Americas." loading="lazy">
+  <figcaption>Crops, animals, diseases and enslaved people crossed the Atlantic in both directions.</figcaption>
+</figure>
 
 ## The Paper 2 markbands (summarised)
 
@@ -132,6 +157,11 @@ The pairings are illustrations; your teacher chooses the examples. IB regions ar
 
 - **Weak:** two halves -- Hitler's methods, then Mao's.
 - **Strong:** paragraph by theme. *Terror*: both used it (Gestapo and SS; the anti-rightist campaign and *laogai* camps), but Mao relied more on mass mobilisation against "class enemies". *Propaganda*: both built personality cults (Goebbels' ministry; the "Little Red Book"). *Economic policy as control*: Nazi recovery bought consent; the Great Leap Forward (1958-62) weakened Mao's position until the Cultural Revolution. Each paragraph ends with a comparative judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-world-history-topics-study-guide--09-wh-compare-grid.webp" width="900" height="876" alt="A thesis banner sits above a grid. Each row is a point of comparison (force, propaganda and ideology, economic policy, control of institutions) with Leader A and Leader B boxes joined by a two-way arrow." loading="lazy">
+  <figcaption>Each paragraph deals with both leaders on one point of comparison.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

@@ -42,6 +42,11 @@ explanation, read the [Weather study guide](/resources/igcse-geography-weather/)
 
 Cloud type and amount are also observed. Simple digital instruments may be used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--17-wx-instruments.webp" width="900" height="1000" alt="Eight cards, each with a drawing. Rain gauge: precipitation amount. Maximum-minimum thermometer: highest and lowest temperature. Wet-and-dry bulb thermometer: humidity. Sunshine recorder: duration of bright sunshine. Barometer: atmospheric pressure. Anemometer: wind speed. Wind vane: wind direction. Observation by eye: cloud type and amount. Schematic, not to scale." loading="lazy">
+  <figcaption>Each weather instrument paired with the one thing it measures.</figcaption>
+</figure>
+
 ## How each instrument works
 
 - **Rain gauge:** a funnel collects rain into a measuring cylinder or container below. The narrow
@@ -85,6 +90,16 @@ shelter it. The rim sits a little above the ground so rain splashing off the sur
 and the gauge is often sunk partly into the ground so it is not blown over. An **anemometer and
 wind vane** are mounted high on a mast, clear of buildings that would block or channel the wind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--15-wx-stevenson-screen.webp" width="900" height="780" alt="A white wooden box with louvred (slatted) sides on legs, standing above the ground. The white paint reflects sunlight. The louvres let air flow through while keeping direct sunlight and rain off the instruments. The box stands at a standard height above the ground. An inset shows thermometers inside. All of this ensures readings reflect the actual air temperature. Schematic, not to scale." loading="lazy">
+  <figcaption>A Stevenson screen is a white, louvred box at a standard height that houses thermometers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--16-wx-screen-siting.webp" width="900" height="840" alt="Two pictures. Top, a good site, marked with a tick: the screen stands on open ground with no buildings or trees nearby. Bottom, a poor site, marked with a cross: the screen stands beside a wall and a tree, which create a local microclimate, with heat arrows from the wall, so readings would not be representative. Schematic, not to scale." loading="lazy">
+  <figcaption>Siting the screen away from buildings and trees avoids unrepresentative local microclimates.</figcaption>
+</figure>
+
 ## Clouds
 
 | Cloud | Description | Weather |
@@ -113,6 +128,11 @@ Minimums 18, 19, 17, 20, 18 give a mean of 92 / 5 = **18.4**. The range between 
 Celsius, so the difference is 5 degrees. On another day the readings are 25 and 24, a difference of
 1 degree. The second day is **more humid**, because less evaporation took place from the wet bulb.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--18-wx-mean-range.webp" width="900" height="880" alt="A chart of five days of maximum and minimum temperatures from the lesson: maxima 28, 30, 27, 31, 29 and minima 18, 19, 17, 20, 18 degrees Celsius, drawn as bars from minimum to maximum. A dashed line marks the mean maximum, 29 degrees, and another the mean minimum, 18.4 degrees. The range between the means is 29 minus 18.4, which is 10.6 degrees. For day 4 alone the range is 31 minus 20, which is 11 degrees." loading="lazy">
+  <figcaption>The lesson’s five-day example: mean maximum 29 °C, mean minimum 18.4 °C and a range of 10.6 °C.</figcaption>
+</figure>
+
 ## Rainfall and pressure
 
 - **Convectional:** heated ground, rising air.
@@ -139,6 +159,11 @@ Other weather diagrams you may meet: **wind roses** (bars showing how often the 
 direction), **line graphs** of temperature and pressure over a week, and **bar charts** of daily
 rainfall. When reading any of them, give the highest and lowest values with units and dates, then
 describe the trend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--19-wx-climate-graph.webp" width="900" height="860" alt="A climate graph for an illustrative place, combining a temperature line (left axis, degrees Celsius) with rainfall bars (right axis, millimetres) for each month from January to December. Marker 1 circles the wettest month, October, at 80 millimetres. Marker 2 circles the driest month, February, at 40 millimetres. Marker 3 shows the temperature range: the highest monthly temperature, 20 degrees in July, minus the lowest, 3 degrees in January, is 17 degrees. The data are illustrative, not a real place." loading="lazy">
+  <figcaption>Reading a paired climate graph: wettest month, driest month and temperature range (illustrative data).</figcaption>
+</figure>
 
 ## Exam traps
 

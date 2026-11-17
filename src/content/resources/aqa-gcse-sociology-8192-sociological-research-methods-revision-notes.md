@@ -41,6 +41,11 @@ For the whole of section 3.7, read the [research methods study guide](/resources
 
 **Memory hook:** *Topic, Theory, Target, Tool, Trial, Take a sample, Talk to people, Tally, Tell.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--01-research-design-stages.webp" width="900" height="679" alt="Four numbered stages in a row: aims and hypotheses, pilot study, sampling, analysis of data. Below, an aim is a general statement such as investigating how couples divide housework, while a hypothesis is a narrower, testable prediction such as dual-career couples sharing housework more equally." loading="lazy">
+  <figcaption>Plan the aim, test the method, choose the sample, then analyse.</figcaption>
+</figure>
+
 ## Aims and hypotheses
 
 | | Aim | Hypothesis |
@@ -67,6 +72,11 @@ A **pilot study** is a small trial run of the research on a few people similar t
 
 **Why it matters:** problems found early save time and money and improve validity and reliability. **Limitation:** it adds time and cost, and a pilot group may not reveal every problem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--03-pilot-and-four-samples.webp" width="900" height="736" alt="A pilot study comes first to fix problems cheaply. Then four sampling methods: random, where everyone has an equal chance; systematic, taking every nth name from a list; quota, filling set numbers for each group to match the population; and snowball, where participants recruit others from their networks." loading="lazy">
+  <figcaption>How you sample decides how far you can generalise.</figcaption>
+</figure>
+
 ## Sampling
 
 - **Population:** the whole group the researcher wants to study.
@@ -88,12 +98,27 @@ A **pilot study** is a small trial run of the research on a few people similar t
 
 **Sample size:** larger samples reduce the effect of chance but cost more. A large sample is not automatically representative: Halsey, Heath and Ridge studied over 8,000 males but no females.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--02-sampling-methods.webp" width="900" height="970" alt="Four panels. Random: scattered people chosen, each with an equal chance. Systematic: every nth name on a list. Quota: set numbers filled for each group, such as 78 women and 72 men in a sample of 150 from a town that is 52% female. Snowball: one participant introduces the next in a chain. Each has a strength and a weakness." loading="lazy">
+  <figcaption>Each sampling method trades fairness, speed and reach against representativeness.</figcaption>
+</figure>
+
 ## Analysis of data
 
 - **Quantitative data** (numbers): counted, turned into percentages, averages and tables or charts, then examined for **patterns**, **trends** and differences between groups.
 - **Qualitative data** (words, observations): transcribed, read closely, sorted into **themes**, and illustrated with quotations.
 - **Good practice:** report data that do not fit, not only supporting evidence. **Selective use of data** is bias.
 - **Triangulation:** checking findings with a second method or source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--01-quantitative-qualitative.webp" width="900" height="676" alt="Two columns. Quantitative data are numerical, allow statistical comparison across large samples and come from structured questionnaires, official statistics and tally counts. Qualitative data are descriptive, capture depth and meaning and come from unstructured interviews, open answers and participant observation. Both feed into mixed methods." loading="lazy">
+  <figcaption>Numbers give comparison; words give depth; mixed methods combine them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--07-percentage-points.webp" width="900" height="663" alt="Two bars for a fictional town: 28% of couples said they shared housework equally in 2005 and 42% in 2025. The rise is 14 percentage points, which is a 50% increase on the starting figure. Saying it rose by 14% would be wrong." loading="lazy">
+  <figcaption>A rise from 28% to 42% is 14 percentage points, or a 50% increase.</figcaption>
+</figure>
 
 ## Designing for a specific area: worked plan
 

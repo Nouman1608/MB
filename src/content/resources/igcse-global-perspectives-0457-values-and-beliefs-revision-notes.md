@@ -52,6 +52,11 @@ With this topic, AO2 is the hardest test. You must write fairly about beliefs yo
 | Universalism | Some values, such as basic human rights, apply to everyone everywhere |
 | Cultural relativism | Values should be understood within each culture, not judged only from outside |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--01-belief-to-perspective.webp" width="900" height="830" alt="A belief held by faith or habit becomes a perspective once reasons and evidence are set out. A spectrum runs from universalism, where some values apply everywhere, to cultural relativism, where values are understood within each culture, with the 1993 Vienna Declaration holding both ideas in the middle. Definitions of value, secular and tolerance follow." loading="lazy">
+  <figcaption>Present universalism and relativism as perspectives with reasons, not as right and wrong.</figcaption>
+</figure>
+
 ## Source-analysis terms at a glance
 
 Section 4 lists these for Component 1. Learn one values-and-beliefs example of each.
@@ -67,6 +72,11 @@ Section 4 lists these for Component 1. Learn one values-and-beliefs example of e
 | Vested interest | Writer gains if you agree | A retailer arguing for longer opening hours |
 | Bias | One-sided; leaves out evidence | An article quoting only one faith group |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--05-ardley-volunteering.webp" width="900" height="696" alt="Eighty dots, 28 shaded, show that 28 of 80 members of a fictional Ardley youth club (35%) volunteered in the past year. Tested against the claim that young people don’t care about their community, the evidence fails: there is no comparison with older people, the sample is only club members, and informal help may be missed." loading="lazy">
+  <figcaption>Without a comparison group, one figure cannot support a generalisation.</figcaption>
+</figure>
+
 ## Real reference points at a glance
 
 You do not need these for Component 1. They are useful in coursework, but only if you evaluate them.
@@ -80,6 +90,21 @@ You do not need these for Component 1. They are useful in coursework, but only i
 | World Values Survey (first wave 1981) | Repeated surveys of values in many countries | Used by Ronald Inglehart to argue that economic security shifts values towards self-expression | Self-reported; shows links, not proof of cause |
 | Sunday Trading Act 1994 (England and Wales) | Law on shop opening | Large shops limited to six hours on Sundays | A compromise; tests whether both sides' values are met |
 | Danish law (December 2023) | Ban on improper treatment of religious texts | Passed 94 to 77; fine or up to two years in prison | Contested: security and respect versus freedom of expression |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--06-rights-documents.webp" width="900" height="668" alt="UDHR Articles 18 (freedom of religion) and 19 (freedom of expression) can pull against each other. A table evaluates the UDHR, the ICCPR and a June 2025 Pew report. Using Pew’s global estimate of about 24.2% religiously unaffiliated to argue one country’s rest-day law is outdated is reliable evidence used with weak reasoning." loading="lazy">
+  <figcaption>Check that a reliable figure actually connects to the conclusion drawn from it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--04-inglehart-theory.webp" width="900" height="424" alt="An arrow from survival priorities to self-expression shows Ronald Inglehart’s argument that, as societies become more economically secure, priorities shift towards personal freedom and tolerance, drawing on the World Values Survey first carried out in 1981. Strength: decades of repeated surveys. Limitations: links not cause, and critics say it treats one path as normal for all." loading="lazy">
+  <figcaption>A well-evidenced theory can still show correlation rather than cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--02-rest-day-perspectives.webp" width="900" height="598" alt="Three groups on whether large shops should open on the day of rest: religious groups and some non-religious families favour closure; small shop owners prefer it; shop workers are divided; free-choice supporters and large retailers favour opening. The Sunday Trading Act 1994 lets large shops open for six hours, balancing values." loading="lazy">
+  <figcaption>Perspectives on one issue come from faith, family, money and freedom, not just religion.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -96,6 +121,11 @@ You do not need these for Component 1. They are useful in coursework, but only i
 - Online shopping grows → shops lose trade on the rest day → retailers push to open → religious groups and some workers object → a national debate about the law.
 - Generational change → younger people hold different views from their grandparents → disagreement within families and communities, but also new ideas and new forms of volunteering.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--03-why-values-differ.webp" width="900" height="572" alt="Six sources of a person’s values surround a central hub: upbringing and family, religion or belief, culture and history, economic position, personal experience and generation. Below, causes of value disagreements: different teachings, generational change, migration, economic change and media, and laws written when beliefs were more shared." loading="lazy">
+  <figcaption>Explain why someone holds a value before judging it.</figcaption>
+</figure>
+
 ## Mini essay plan
 
 **Question (Individual Report style):** "Should freedom of expression include the freedom to offend religious beliefs?"
@@ -107,6 +137,11 @@ You do not need these for Component 1. They are useful in coursework, but only i
 5. **Causes and consequences:** why the issue arises (diverse societies, social media spreading acts of offence quickly) and its impacts (protest, security fears, fears of censorship).
 6. **Courses of action:** compare two or three options, such as laws, dialogue projects or education. Choose one and explain how it would work.
 7. **Conclusion and reflection:** answer your question, explain how your view developed, and acknowledge the strongest point against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-values-and-beliefs--07-values-actions.webp" width="900" height="673" alt="Denmark passed a law in December 2023, by 94 votes to 77, protecting religious objects from public destruction with a fine or up to two years in prison; the government cited security and critics cited freedom of expression. Other actions: compromise laws, dialogue groups and flexible policies such as menu choices or festival time off." loading="lazy">
+  <figcaption>Contested actions should be presented with both sides’ reasons.</figcaption>
+</figure>
 
 ## Individual Report and Team Project in one line each
 

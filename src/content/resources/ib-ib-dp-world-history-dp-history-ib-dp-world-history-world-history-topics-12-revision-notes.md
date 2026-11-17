@@ -33,6 +33,16 @@ These notes condense world history topic 12 for Paper 2: the origins, developmen
 | Leaders and nations | Two leaders from different regions; two countries affected by Cold War tensions (not the USA or USSR) |
 | Cold War crises | Two crises from different regions: causes, impact, significance, compared |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--01-three-parts.webp" width="900" height="646" alt="A timeline from 1940 to 1995 shows the three periods of Part 1: the breakdown of the grand alliance (1943-49), relations between the USA, USSR and China (1947-79), and confrontation and the end of the Cold War (1980-91). Two cards show Part 2 (two leaders and two countries) and Part 3 (two crises), each chosen from different regions." loading="lazy">
+  <figcaption>Part 1 is chronological; Parts 2 and 3 ask for pairs from different regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--08-choosing-pairs.webp" width="900" height="699" alt="Five rows marked with ticks or crosses. Berlin and Hungary are both in Europe, so they fail; Berlin and Cuba pass. The USA and USSR cannot be the two countries; Korea, Vietnam, Cuba, Germany or Afghanistan can. Two leaders must come from different regions." loading="lazy">
+  <figcaption>Different regions, and never the USA or USSR as your two countries.</figcaption>
+</figure>
+
 ## Chronology
 
 ### 1943-1949: breakdown of the grand alliance
@@ -45,6 +55,16 @@ These notes condense world history topic 12 for Paper 2: the origins, developmen
 - February 1948: communist takeover in Czechoslovakia.
 - June 1948-May 1949: Berlin Blockade and airlift.
 - 1949: NATO (April); two German states; Soviet atomic bomb (August); People's Republic of China (October).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--03-origins-timeline.webp" width="900" height="517" alt="A vertical timeline: 1945 Yalta and Potsdam; 1946 the Long Telegram and the iron curtain speech; 1947 the Truman Doctrine and Marshall Plan make containment US policy; 1948-49 the Berlin Blockade and airlift, with NATO formed in April 1949; 1949 the Soviet atomic test and the People's Republic of China." loading="lazy">
+  <figcaption>Five years turned wartime allies into nuclear-armed rivals in Europe and Asia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--02-origins-grid.webp" width="900" height="526" alt="A grid of three factors. Ideology: capitalist democracies against a communist one-party state. Fear and aggression: Western fear of Soviet expansion in Eastern Europe against Soviet security fears after the 1941 invasion. Economic interests: open markets and a recovered Europe against reparations and a buffer zone." loading="lazy">
+  <figcaption>Ideology, fear and economics each had a Western and a Soviet side.</figcaption>
+</figure>
 
 ### 1947-1979: superpowers and China
 
@@ -63,6 +83,11 @@ These notes condense world history topic 12 for Paper 2: the origins, developmen
 - 1975: Helsinki Accords; fall of Saigon (April).
 - December 1979: Soviet invasion of Afghanistan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--04-superpowers-and-china.webp" width="900" height="820" alt="Two lanes of events from 1950 to 1979. Superpower lane: the Korean War, peaceful co-existence and Hungary (1956), the Berlin Wall (1961), Cuba (1962), SALT I (1972), Helsinki (1975) and the Soviet invasion of Afghanistan (December 1979). China lane: the Sino-Soviet alliance (1950), the split by the early 1960s, border clashes (1969) and Nixon's visit to Beijing (1972)." loading="lazy">
+  <figcaption>China changed the balance: from Soviet ally in 1950 to opening with the USA in 1972.</figcaption>
+</figure>
+
 ### 1980-1991: confrontation, reconciliation and the end
 
 - 1980: Solidarity in Poland.
@@ -74,6 +99,11 @@ These notes condense world history topic 12 for Paper 2: the origins, developmen
 - 9 November 1989: Berlin Wall opened.
 - October 1990: German reunification.
 - December 1991: USSR dissolved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--05-end-of-cold-war.webp" width="900" height="672" alt="Three factor cards converge on the end of the Cold War: economic problems (stagnation and the costs of Afghanistan and the arms race), the arms race (Reagan's build-up, SDI in 1983, then the INF Treaty in 1987) and ideological challenges and dissent (Solidarity from 1980, glasnost and perestroika, the end of the Brezhnev Doctrine). The end is marked by the fall of the Berlin Wall in 1989 and the dissolution of the USSR in 1991." loading="lazy">
+  <figcaption>Three pressures converged; decide how far Gorbachev's choices were decisive.</figcaption>
+</figure>
 
 ## Leaders: impact in one line
 
@@ -119,6 +149,11 @@ These notes condense world history topic 12 for Paper 2: the origins, developmen
 | Orthodox | Soviet expansion caused the Cold War; the West responded |
 | Revisionist | US economic and political expansion provoked Soviet reactions (William Appleman Williams) |
 | Post-revisionist | Mutual misperception and shared responsibility (John Lewis Gaddis, in his earlier work) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12--06-historians-debate.webp" width="900" height="541" alt="A spectrum runs from mainly the USSR responsible to mainly the USA responsible. Orthodox accounts sit at the Soviet end (Soviet expansionism), revisionist accounts such as Williams (1959) at the US end (US economic expansion), and post-revisionist accounts such as the earlier Gaddis in the middle (mutual misperception, shared responsibility)." loading="lazy">
+  <figcaption>Orthodox, post-revisionist, revisionist: a spectrum of blame.</figcaption>
+</figure>
 
 ## Exam traps
 

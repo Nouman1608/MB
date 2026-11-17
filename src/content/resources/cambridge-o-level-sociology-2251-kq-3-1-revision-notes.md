@@ -81,6 +81,11 @@ trafficking, domestic servitude and forced marriage. Kevin Bales's *Disposable P
 described "new slavery", in which people are controlled cheaply for profit rather than legally owned.
 The United Kingdom passed a Modern Slavery Act in 2015.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--03-meritocracy-critique.webp" width="900" height="860" alt="Two running tracks. In the meritocratic claim all three runners start on the same line. In the sociological critique two runners start ahead because of family wealth, social networks and education access, so finishing positions are not purely down to merit." loading="lazy">
+  <figcaption>Unequal starting points mean outcomes do not purely reflect ability and effort.</figcaption>
+</figure>
+
 ## Life chances
 
 | Area | How class, gender, ethnicity and age can affect it |
@@ -91,11 +96,21 @@ The United Kingdom passed a Modern Slavery Act in 2015.
 | **Housing** | Low income means overcrowding, poor sanitation or insecure tenancy; discrimination in renting |
 | **Life expectancy** | Generally lower for poorer groups; women generally live longer than men |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--02-life-chances.webp" width="900" height="768" alt="Someone born into a higher social class has statistically better access to good education, secure employment, healthcare and material security than someone born into a lower class, shown as longer bars for the higher class." loading="lazy">
+  <figcaption>Life chances show that stratification has real, measurable consequences.</figcaption>
+</figure>
+
 ## Intersectionality
 
 Term coined by Kimberlé Crenshaw (1989). Inequalities combine rather than simply add up: a poor,
 elderly woman from an ethnic minority may face disadvantages that none of these factors alone would
 explain. Use it to criticise answers that treat class, gender, ethnicity and age separately.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--04-intersectionality.webp" width="900" height="742" alt="Three overlapping circles for social class, gender and ethnicity meet in the centre at life chances, with age as a further factor. Class covers family wealth and resources, gender covers careers, pay and domestic roles, and ethnicity covers discrimination and unequal access." loading="lazy">
+  <figcaption>Class, gender, ethnicity and age combine to shape one person’s life chances.</figcaption>
+</figure>
 
 ## Theories
 
@@ -117,6 +132,11 @@ explain. Use it to criticise answers that treat class, gender, ethnicity and age
   low because they can replace existing workers.
 - *Criticism:* ignores gender and ethnicity as sources of inequality; mobility exists; class is not
   the only basis of power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-social-stratification-and-inequality--05-marxist-four-steps.webp" width="900" height="746" alt="A scenario about two children from different social classes, followed by four numbered steps: name the Marxist concept that education reproduces class inequality, explain the mechanism of tutoring, resources and cultural capital, link it to life chances in adulthood, and add a limitation." loading="lazy">
+  <figcaption>Concept, mechanism, life chances, limitation: use the mechanism, not just the label.</figcaption>
+</figure>
 
 ## Exam traps
 

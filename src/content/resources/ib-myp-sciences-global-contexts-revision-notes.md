@@ -39,6 +39,11 @@ Links: [MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printable checkli
 - **Inquiry questions** -- factual, conceptual and debatable questions built from the statement of inquiry.
 - **Factor** (criterion D) -- the lens you use when discussing implications: moral, ethical, social, economic, political, cultural or environmental.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--02-exploration-zoom.webp" width="900" height="620" alt="Three nested bars narrowing downwards: the global context globalization and sustainability; the exploration consumption, conservation, natural resources and public goods; and the unit issue, fuels and their environmental impact." loading="lazy">
+  <figcaption>An exploration zooms a broad global context in on one unit.</figcaption>
+</figure>
+
 ## Three rules from the guide
 
 1. Teachers must identify a global context for each unit, or develop an additional one, so you can see why the inquiry matters.
@@ -58,6 +63,11 @@ Links: [MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printable checkli
 
 The right-hand column is our own; the guide's examples are in the [study guide](/resources/ib-myp-sciences-global-contexts/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--01-six-global-contexts.webp" width="900" height="820" alt="Six cards: identities and relationships; orientation in space and time; personal and cultural expression; scientific and technical innovation, highlighted as the natural favourite for science; globalization and sustainability; and fairness and development. Each gives what it asks about in science and an example unit." loading="lazy">
+  <figcaption>Every unit needs a global context, and all six should appear across the course.</figcaption>
+</figure>
+
 ## Method: writing a statement of inquiry
 
 1. Pick the **key concept** (change, relationships or systems are the usual choices in sciences).
@@ -70,6 +80,11 @@ Worked reminder (overfishing unit):
 - Key concept: systems. Related concepts: balance, consequences. Context: globalization and sustainability.
 - Statement: *When people remove resources faster than a system can replace them, the balance of that system changes for everyone who depends on it.*
 - Check: it also works for groundwater or forests, so it transfers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--03-statement-of-inquiry.webp" width="900" height="625" alt="A key concept (relationships) plus related concepts (conditions, interaction) plus a global context (identities and relationships) make the guide’s statement of inquiry “Health is a function of interactions between individuals and societies.” A transferable statement names no topic; “Batteries store energy” is too narrow." loading="lazy">
+  <figcaption>Key concept + related concepts + global context = one transferable sentence.</figcaption>
+</figure>
 
 ## Weak vs strong statements of inquiry
 
@@ -112,6 +127,11 @@ In an answer, name the context, then justify it in one sentence that mentions th
 
 Reaching 7–8 needs an explanation of the science plus a two-sided discussion that ends in a judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--06-criterion-d-command-terms.webp" width="900" height="710" alt="Four rising steps for bands 1–2 to 7–8. Strand 1 climbs from outline to summarize, describe and explain; strand 2 from outline to describe, discuss, and discuss and evaluate. Strands 3 and 4 cover scientific language and documenting sources." loading="lazy">
+  <figcaption>Higher bands need stronger command terms: explain, then discuss and evaluate.</figcaption>
+</figure>
+
 ## Inquiry question types
 
 | Type | Purpose | Example (sleep unit) |
@@ -120,6 +140,11 @@ Reaching 7–8 needs an explanation of the science plus a two-sided discussion t
 | Conceptual | big idea that transfers | How do internal clocks keep body systems in step with the environment? |
 | Debatable | more than one defensible answer | Should secondary schools start later in the morning? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--04-inquiry-questions.webp" width="900" height="670" alt="Three stepped bands. Factual: answered by recall or measurement, such as “What gases are produced when fuel burns?” Conceptual: about transferable big ideas, such as “How does a change in one part of a system affect the rest?” Debatable: more than one defensible answer, such as “Should cities ban petrol cars?”" loading="lazy">
+  <figcaption>Factual, conceptual, debatable: debatable questions lead into criterion D.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Global context vs factor.** The context frames the whole unit; the factor is the lens inside your criterion D answer. "Fairness and development" is a context; "economic" is a factor.
@@ -127,6 +152,11 @@ Reaching 7–8 needs an explanation of the science plus a two-sided discussion t
 - **Statement of inquiry vs inquiry question.** A statement is one sentence that declares; questions are what you investigate.
 - **Global context vs topic.** "Electromagnetism" is a topic. "Fairness and development" is a context that could frame it.
 - **Debatable vs factual.** If the question has one correct answer you can look up, it is not debatable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-global-contexts--05-context-vs-factor.webp" width="900" height="800" alt="The global context is the frame around the whole unit; a factor (moral, ethical, social, economic, political, cultural or environmental) is the lens used inside a criterion D answer. A table pairs each global context with factors that often fit, such as globalization and sustainability with environmental and political." loading="lazy">
+  <figcaption>Name a factor, not a global context, in a criterion D answer.</figcaption>
+</figure>
 
 ## Quick self-test
 

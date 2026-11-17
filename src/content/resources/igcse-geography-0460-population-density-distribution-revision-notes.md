@@ -51,6 +51,11 @@ An average hides variation: a country can have a crowded capital and an empty in
 are the same, but A is ten times more densely populated. This is why density, not total population,
 is used to compare places of different sizes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--01-density-vs-distribution.webp" width="900" height="715" alt="Two countries with the same area and the same number of people, so the same average density. In country X the dots are spread evenly; in country Y almost all are clustered along a river valley. Below, six small dot maps illustrate the words uneven, clustered, linear, dispersed, sparse and dense." loading="lazy">
+  <figcaption>The same average density can hide very different distributions.</figcaption>
+</figure>
+
 ## The world pattern
 
 Most of the world's people live in a few dense clusters: **East Asia** (eastern China, Japan,
@@ -83,6 +88,11 @@ soil and water support farming and food supply.
 - **Natural hazards** such as frequent flooding or volcanic eruptions can discourage settlement --
   though fertile volcanic or floodplain soils can also attract dense farming populations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--02-population-factors.webp" width="900" height="856" alt="A schematic landscape: sparse settlement on high, steep, cold mountains with people only in valleys; dense settlement on a flat, fertile, well-watered river lowland; and a dense port city with industry and trade. Below, physical factors (relief, climate, water and soils, vegetation) and human factors (economic, transport, political, historical). A note adds that technology and resources create exceptions." loading="lazy">
+  <figcaption>Separate physical from human factors, and say how each affects where people live.</figcaption>
+</figure>
+
 ## Human and economic factors
 
 - **Jobs and industry** attract workers and their families.
@@ -112,6 +122,11 @@ over 500 people per km2, are along the coast and in the river valley in the sout
 inland, and the mountains in the west have fewer than 10 people per km2. One exception is a mining
 town in the north, where density is higher than the surrounding area."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--05-district-densities.webp" width="900" height="565" alt="Two stacked bars compare shares of land and people. Riverside has about 5 per cent of the land but about 86 per cent of the people; the Dry Plateau has most of the land but few people. Densities: Riverside 1,200, Hill Country 30 and Dry Plateau 3 people per square kilometre, while the regional average of about 75 describes none of them well." loading="lazy">
+  <figcaption>A regional average of 75 hides densities of 1,200, 30 and 3.</figcaption>
+</figure>
+
 ## Case study: the population distribution of a country
 
 The syllabus asks for a case study of the population distribution of a country. Two well-documented
@@ -136,6 +151,11 @@ people to move inland, with partial success.
 
 For your chosen country, learn: where people are concentrated, where they are sparse, two physical
 and two human reasons for each, and any government attempt to change the pattern.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--04-egypt-brazil.webp" width="900" height="715" alt="Two schematic diagrams. Egypt: dots crowd the Nile valley and delta, while the desert on either side is almost empty. Brazil: dots line the Atlantic coast, especially the south-east, while the Amazon interior is sparse; a star marks Brasília, the capital inaugurated in 1960 partly to draw people inland." loading="lazy">
+  <figcaption>Water controls Egypt’s pattern; Brazil built a capital to change its pattern.</figcaption>
+</figure>
 
 ## Exam traps
 

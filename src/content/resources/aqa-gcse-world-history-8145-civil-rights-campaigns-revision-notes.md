@@ -50,6 +50,11 @@ featured: false
 - **De jure** (by law) in the South: Jim Crow laws in schools, transport, public places; voting blocked by literacy tests, poll taxes, intimidation; enforced by violence.
 - **De facto** (in practice) in the North: housing and job discrimination; poor city districts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--01-two-kinds-of-segregation.webp" width="900" height="595" alt="Two columns. In the South, Jim Crow laws separated Black and white Americans, backed by Plessy v Ferguson (1896), voting barriers and Klan violence. In the North there were no such laws, but housing and job discrimination kept many Black Americans in poor districts." loading="lazy">
+  <figcaption>Segregation was written into law in the South and enforced by discrimination in the North.</figcaption>
+</figure>
+
 ## Peaceful protest: methods and examples
 
 | Method | Example | Why it worked |
@@ -62,6 +67,21 @@ featured: false
 
 Reasons for success: moral contrast with violent opponents; television; Cold War pressure on presidents; church organisation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--02-brown-to-little-rock.webp" width="900" height="691" alt="Four numbered steps: the NAACP and Thurgood Marshall challenge segregation; the Supreme Court rules segregated schools unconstitutional in Brown v Board (1954); Arkansas resists at Little Rock in 1957; Eisenhower sends federal troops." loading="lazy">
+  <figcaption>Brown won the legal argument; Little Rock showed that rulings needed federal force behind them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--03-peaceful-protest-timeline.webp" width="900" height="783" alt="Vertical timeline: Montgomery Bus Boycott 1955-56, SCLC 1957, Greensboro sit-in 1960 and SNCC, Freedom Rides 1961, Birmingham 1963, March on Washington August 1963, and Selma 1965 leading to the Voting Rights Act." loading="lazy">
+  <figcaption>Each campaign built pressure on the federal government for new laws.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--04-why-peaceful-protest-worked.webp" width="900" height="388" alt="Four factors around a central circle: winning the moral argument, television coverage, pressure on presidents and Congress during the Cold War, and the organisation of the Black churches." loading="lazy">
+  <figcaption>Non-violence won sympathy because television showed the violence it met.</figcaption>
+</figure>
+
 ## Malcolm X and Black Power
 
 - **Malcolm X**: Nation of Islam; separation not integration; self-defence "by any means necessary"; left the Nation in 1964; killed February 1965.
@@ -70,6 +90,11 @@ Reasons for success: moral contrast with violent opponents; television; Cold War
 - **Causes of the shift**: slow progress; northern poverty; continuing violence; impatience among the young.
 - **Riots**: Watts 1965; after King's death in 1968.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--05-king-malcolm-black-power.webp" width="900" height="651" alt="Comparison table of King, Malcolm X and Black Power by organisation, aim, method and key moment: King sought integration by non-violence, Malcolm X separation and self-defence, Black Power pride and community control." loading="lazy">
+  <figcaption>The movement divided over aims and methods by the mid-1960s.</figcaption>
+</figure>
+
 ## The two Acts
 
 | Act | Main terms | Limits |
@@ -77,11 +102,21 @@ Reasons for success: moral contrast with violent opponents; television; Cold War
 | 1964 Civil Rights Act | Banned segregation in public places; banned job discrimination (race, colour, religion, sex, national origin); Equal Employment Opportunity Commission; funds withheld from segregated schools | Did not deal with voting (1965 Act did) or housing |
 | 1968 Civil Rights Act | Banned discrimination in selling and renting housing (Fair Housing Act) | Weakly enforced at first; poverty and segregated districts remained |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--06-civil-rights-acts.webp" width="900" height="667" alt="Three cards: the 1964 Civil Rights Act on public places and jobs, the 1965 Voting Rights Act, and the 1968 Fair Housing Act. Below, legal equality was largely won by 1968, but social and economic equality was not." loading="lazy">
+  <figcaption>Separate legal equality, largely won, from social and economic equality, which was not.</figcaption>
+</figure>
+
 ## Linking the strands for a judgement
 
 - **Protest and presidents worked together:** Birmingham (1963) led Kennedy to propose the bill; Johnson steered it through Congress in 1964; Selma (1965) preceded the Voting Rights Act.
 - **Law and practice differed:** Brown (1954) needed troops at Little Rock (1957) to be enforced.
 - **South and North differed:** non-violent campaigns ended legal segregation in the South but did little for northern poverty, which helps explain the rise of Black Power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--07-question-6-plan.webp" width="900" height="547" alt="Two reason cards, King's peaceful protests and the actions of Kennedy and Johnson, each with supporting points, feed into a judgement box asking which was the necessary condition for the 1964 Act." loading="lazy">
+  <figcaption>Explain both reasons, then judge which was the necessary condition.</figcaption>
+</figure>
 
 ## Key terms
 

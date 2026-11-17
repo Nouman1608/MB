@@ -29,6 +29,11 @@ These notes condense three widely taught content areas from the HL History of Eu
 
 Three essays from 36 questions in 2 hours 30 minutes; 15 marks each; about 50 minutes per essay, with five minutes of planning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## The French Revolution and Napoleon, 1774-1815
 
 ### Chronology
@@ -56,6 +61,21 @@ Three essays from 36 questions in 2 hours 30 minutes; 15 marks each; about 50 mi
 - 1808-14: Peninsular War; 1812: invasion of Russia; 1813: Leipzig.
 - April 1814: first abdication; 18 June 1815: Waterloo.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--02-reform-to-revolution.webp" width="900" height="771" alt="A vertical timeline from June 1789 to September 1792. The 1789 steps, the National Assembly, the Bastille, the August Decrees and the Declaration of the Rights of Man, set up a new order. Four later steps radicalized it: the Civil Constitution of the Clergy (July 1790), the flight to Varennes (June 1791), war with Austria (April 1792) and the Republic (September 1792), with Louis executed in January 1793." loading="lazy">
+  <figcaption>The Church, the king's flight and war turned reform into revolution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--03-terror-pressures-responses.webp" width="900" height="743" alt="Three pressures, foreign war, the Vendée rising and economic crisis, point to the Committee of Public Safety, dominated by Robespierre from July 1793. It points to three responses: the levée en masse of August 1793, price controls and the Law of Suspects. Robespierre falls on 9 Thermidor (27 July 1794). A note asks whether the Terror was a response to circumstances or a product of ideology." loading="lazy">
+  <figcaption>Map the pressures and responses, then weigh circumstance against ideology.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--04-napoleon-preserve-betray.webp" width="900" height="436" alt="A timeline of Napoleon's career: the coup of 18 Brumaire in November 1799, emperor in 1804, Austerlitz in 1805, the invasion of Russia in 1812, Leipzig in 1813 and Waterloo on 18 June 1815. Below, two columns: reforms (the Concordat of 1801, the Civil Code of 1804, the prefects, the Bank of France) against authoritarian rule (censorship, police, plebiscites)." loading="lazy">
+  <figcaption>Reform and authoritarian rule: the evidence for both sides of the question.</figcaption>
+</figure>
+
 ### Causes of the Revolution, sorted
 
 | Type | Factors |
@@ -65,6 +85,11 @@ Three essays from 36 questions in 2 hours 30 minutes; 15 marks each; about 50 mi
 | Intellectual | Enlightenment ideas of rights, sovereignty and reason |
 | Economic | Poor harvest of 1788; bread prices; unemployment |
 | Political | Weak leadership of Louis XVI; the deadlock over voting in the Estates-General |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--01-french-revolution-causes.webp" width="900" height="664" alt="Five long-term causes surround the crisis of 1789: royal debt worsened by the American War of Independence, a tax system that exempted much of the nobility and clergy, Enlightenment criticism of absolute monarchy, the frustrated bourgeoisie, and bad harvests and high bread prices in 1788-89. Below, the Estates-General meets on 5 May 1789 for the first time since 1614." loading="lazy">
+  <figcaption>Debt, privilege, ideas, social frustration and hunger met in 1789.</figcaption>
+</figure>
 
 ## Italian and German unification
 
@@ -79,6 +104,16 @@ Three essays from 36 questions in 2 hours 30 minutes; 15 marks each; about 50 mi
 | Popular involvement | Garibaldi's volunteers; plebiscites | Limited; unification from above |
 
 **Key people:** Mazzini (republican nationalist), Garibaldi, Cavour, Victor Emmanuel II, Napoleon III; Bismarck, William I, Roon, Moltke.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--05-unification-parallel.webp" width="900" height="938" alt="A two-column timeline with years down the centre. Italy, left: revolutions fail in 1848-49, Cavour in 1852, the Crimean War in 1855, Plombières in 1858, war with Austria in 1859, Garibaldi in 1860, the Kingdom of Italy in March 1861, Venetia in 1866 and Rome in 1870. Germany, right: the Zollverein in 1834, the Frankfurt Parliament in 1848-49, Bismarck in 1862, war with Denmark in 1864, Königgrätz in 1866, the North German Confederation in 1867, the Franco-Prussian War in 1870 and the German Empire on 18 January 1871." loading="lazy">
+  <figcaption>Italy was proclaimed in 1861 and completed in 1870; Germany followed in three wars, 1864-71.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--07-bismarck-responsibility.webp" width="900" height="660" alt="A two-level diagram. The upper level is Bismarck's diplomacy: isolating Austria in 1866 and France in 1870 and securing unification under Prussian leadership without liberal control. It rests on a foundation of underlying causes outside his control: the Zollverein, industrial and railway growth, the army reforms of Roon and Moltke, and Russia and Britain standing aside. The thesis separates form and timing from underlying causes." loading="lazy">
+  <figcaption>Distinguish kinds of responsibility: form and timing versus underlying causes.</figcaption>
+</figure>
 
 ## Central and Eastern Europe, 1945-1991
 
@@ -99,6 +134,11 @@ Three essays from 36 questions in 2 hours 30 minutes; 15 marks each; about 50 mi
 - 1989: Polish Round Table and elections (June); Hungary opens the border; Berlin Wall opens (9 November); Velvet Revolution; Romanian revolution.
 - 1990: German reunification (October).
 - 1991: Comecon and the Warsaw Pact dissolved; Yugoslav wars begin; USSR dissolved (December).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4--06-eastern-europe-1989.webp" width="900" height="764" alt="Four earlier revolts in which Soviet control survived: East Germany in June 1953, Hungary crushed in November 1956, Poland in 1956 with concessions but no invasion, and the Prague Spring ended by invasion on 20-21 August 1968. Poland forms a bridge: Solidarity in August 1980, martial law in December 1981 and partly free elections in June 1989. Then the collapse of 1989 and the factors to weigh: Gorbachev's refusal to use force, economic failure, debt, the Church in Poland and the example of each revolution to the next." loading="lazy">
+  <figcaption>Gorbachev's refusal to use force is central, but not the only factor.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -58,6 +58,11 @@ Two further risks that cut across both columns:
   for example, makes most of the world's most advanced semiconductors, so tension in that region is
   a global economic risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--08-risk-three-families.webp" width="900" height="950" alt="Risk is the probability of harm combined with likely consequences. Geopolitical risks (armed conflict, sanctions, state fragility), economic risks (financial crisis, sovereign debt, price volatility) and environmental risks (climate change, pandemics, natural hazards) are shown as three columns." loading="lazy">
+  <figcaption>Risk comes in geopolitical, economic and environmental forms.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -104,6 +109,11 @@ Two further risks that cut across both columns:
 Efficiency versus resilience: **just-in-time** supply chains keep little stock to cut costs, so a
 single disruption spreads quickly. Many firms and governments now favour **just-in-case** stocks,
 diversified suppliers and moving production closer to home, which costs more but reduces risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-risks-resilience-study-guide--09-risk-interdependence.webp" width="900" height="1040" alt="Six customers rely on one supplier and all are cut off when it is hit; with three suppliers serving the customers two each, none is cut off completely, four get less supply and two are unaffected." loading="lazy">
+  <figcaption>Relying on a single supplier makes a system efficient but fragile.</figcaption>
+</figure>
 
 ## Analysing a risk
 

@@ -48,6 +48,11 @@ intelligence and extended reality on everyday life.
 The operating system (OS) manages the hardware and software and provides the **user interface**.
 It handles memory, files, input and output, security (log-ins) and running applications.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--15-cs-hw-sw.webp" width="900" height="980" alt="Hardware is physical (CPU, RAM, storage). Software splits into system (OS, utilities, drivers, compilers) and application (word processor, spreadsheet, browser, database); the OS manages memory, files, processes, input and output and the user interface." loading="lazy">
+  <figcaption>Hardware is physical; software is system or application.</figcaption>
+</figure>
+
 ## Interface types compared
 
 | Interface | How the user interacts | Advantages | Disadvantages |
@@ -59,6 +64,11 @@ It handles memory, files, input and output, security (log-ins) and running appli
 
 **Key difference:** a CLI gives the most direct control but is the hardest to learn; a GUI is the
 easiest for most users but uses the most resources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--18-cs-interfaces.webp" width="900" height="940" alt="Command line (efficient for experts, commands to memorise), graphical (intuitive, uses more memory and power), dialogue and gesture (hands/eyes busy, less reliable when noisy)." loading="lazy">
+  <figcaption>Each interface has strengths and weaknesses.</figcaption>
+</figure>
 
 ## 1.4 Desktop computers
 
@@ -98,6 +108,11 @@ cameras or drones through an app.
 
 **Portability vs expandability** is the key trade-off: the more portable the device, the less it can
 usually be upgraded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-ict-computer-systems--21-cs-types.webp" width="900" height="840" alt="Five rows: desktop, laptop, tablet, phablet, smartphone, with strengths and arrows for power and portability." loading="lazy">
+  <figcaption>Choose a device by matching strengths to the scenario.</figcaption>
+</figure>
 
 ## 1.5 Emerging technologies: impact on everyday life
 

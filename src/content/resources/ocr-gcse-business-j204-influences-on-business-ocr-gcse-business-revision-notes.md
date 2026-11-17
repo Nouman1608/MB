@@ -47,6 +47,11 @@ cover both sections more briefly.
 | Multinational company | A business that operates in more than one country |
 | International branding | Using a brand across many countries, kept the same or adapted locally |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--01-points-to-include.webp" width="900" height="919" alt="A checklist of the specification’s points to include: ethical (treatment of workers, suppliers and customers, sourcing of materials, marketing decisions), environmental (sustainability, waste disposal, pollution, climate change), economic climate (consumer income, unemployment) and globalisation (multinationals, location, international branding, competing internationally)." loading="lazy">
+  <figcaption>Learn the points to include as a checklist: questions are built around them.</figcaption>
+</figure>
+
 ## 6.1 Ethics in one line each
 
 - **Workers**: fair pay and safe conditions cost more, but cut staff turnover and help recruitment.
@@ -59,6 +64,16 @@ cover both sections more briefly.
 **The formula for any ethics answer**: cost now + possible benefit later + "depends on whether
 customers value it".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--02-ethics-cost-benefit.webp" width="900" height="760" alt="Five ethical areas, each with a possible cost and benefit: treating workers well (higher wages, but lower turnover), suppliers (fair prices, but reliable supply), customers (honest labelling, but trust), sourcing (certified inputs cost more, but a selling point) and marketing (no misleading claims, but a lasting reputation)." loading="lazy">
+  <figcaption>Ethics has a cost and a possible benefit; the balance depends on the business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--03-kestrel-ethical-sourcing.webp" width="900" height="939" alt="Kestrel sells 4,000 packs at £6.00. With tea at £2.10 gross profit is £15,600, a 65.0% margin. Certified tea at £2.55 cuts gross profit to £13,800 (57.5%). Raising the price to £6.50 with sales of 3,800 gives £15,010 on revenue of £24,700, a 60.8% margin." loading="lazy">
+  <figcaption>Fair-trade tea costs 7.5 margin points unless customers accept a higher price.</figcaption>
+</figure>
+
 ## 6.1 The environment in one line each
 
 - **Sustainability**: protects future supply; may raise input costs.
@@ -68,6 +83,11 @@ customers value it".
 
 Responses: redesign products and packaging, change suppliers, invest in efficient equipment, use
 the record in marketing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--04-environmental-considerations.webp" width="900" height="820" alt="Four environmental points and their impact: sustainability raises costs now but protects supply; cutting waste lowers costs; pollution harms the community and image; climate change disrupts supply, shifts customers to lower-carbon products and raises the importance of energy costs. Responses include redesigning products, changing suppliers, efficient equipment and green marketing." loading="lazy">
+  <figcaption>Each environmental point affects the business differently, and each response crosses functions.</figcaption>
+</figure>
 
 ## 6.2 The economic climate
 
@@ -83,6 +103,16 @@ Budget sellers that customers trade down to.
 than either. Example (invented): 800 customers at £15 = £12,000; 720 customers at £14 = £10,080, a
 fall of 16%, although customers fell by only 10%.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--05-economic-climate.webp" width="900" height="650" alt="Rising unemployment lowers total household income, and people in work spend more cautiously. Non-essential businesses such as restaurants lose sales first, essentials and budget versions lose less or gain, and employers find recruitment easier. An analysis chain runs from unemployment to fewer meals out, falling revenue and fixed costs that are harder to cover." loading="lazy">
+  <figcaption>A downturn hits non-essentials hardest, and can help budget sellers and employers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--06-larkspur-bistro.webp" width="900" height="866" alt="Two revenue rectangles: 600 meals at an average £24 gives £14,400 a week; after unemployment rises, 510 meals at £22 gives £11,220. Meals fall 15% but revenue falls 22.1%, because both the number of meals and the spend per customer fall." loading="lazy">
+  <figcaption>Fewer customers spending less each: revenue falls faster than meals.</figcaption>
+</figure>
+
 ## 6.3 Globalisation
 
 - **Multinationals**: threat (scale, brands, low prices) or opportunity (customer, supplier).
@@ -93,6 +123,16 @@ fall of 16%, although customers fell by only 10%.
 
 **Analysis chain example**: multinational opens nearby → customers compare prices → local firm loses
 sales → it must cut costs or find a point of difference, such as service.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--07-globalisation-four-points.webp" width="900" height="800" alt="Globalisation’s four points: multinationals can be a threat (strong brands, low prices) or an opportunity (a customer or supplier); location choices now include sites abroad, where low wages are only one factor; branding ranges from one global brand to local adaptation; and businesses compete internationally on price, quality, brand, service and e-commerce." loading="lazy">
+  <figcaption>Apply each globalisation point to the business in the case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ocr-gcse-business-j204-influences-on-business-ocr-gcse-business--08-pennant-cycles-options.webp" width="900" height="789" alt="Pennant Cycles sells UK-built bikes at £410 against imported bikes at £320. Cutting price keeps price-sensitive buyers but may wipe out margins; competing on quality and service keeps loyal customers in a smaller market; selling online abroad opens new markets with delivery costs. The recommended option is quality and service." loading="lazy">
+  <figcaption>A small business rarely wins on price against a multinational’s scale.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -73,6 +73,16 @@ Full overview: [Exploring Sociology study guide](/resources/a-level-oxfordaqa-so
 - Moral panics (Stanley Cohen, *Folk Devils and Moral Panics*, 1972) show how media and public
   reaction help define deviance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--01-crime-deviance.webp" width="900" height="759" alt="Two overlapping circles: deviance breaks social norms and crime breaks the criminal law. Rudeness is deviant but not criminal; minor speeding in many places is criminal but not seen as deviant." loading="lazy">
+  <figcaption>Not all deviance is crime, and not all crime is seen as deviant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--02-social-construction.webp" width="900" height="536" alt="Three arguments: Becker’s labelling and moral entrepreneurs; Cohen’s and Hall’s moral panics; and the Marxist view that law reflects ruling-class interests. Durkheim adds that deviance is normal and functional." loading="lazy">
+  <figcaption>Labels, panics and power all shape what counts as crime.</figcaption>
+</figure>
+
 ## Types of crime — examples to learn
 
 | Type | Example |
@@ -86,6 +96,11 @@ Full overview: [Exploring Sociology study guide](/resources/a-level-oxfordaqa-so
 | "Victimless" | Personal drug use, some gambling offences |
 | Cyber | Hacking, online fraud, ransomware |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--03-crime-types.webp" width="900" height="542" alt="Cards for violent and property, white-collar, corporate, state, green, “victimless” and cyber crime, each with what makes it sociologically interesting, and a reminder separating white-collar from corporate crime." loading="lazy">
+  <figcaption>Crimes of the powerful are less visible than violent and property crime.</figcaption>
+</figure>
+
 ## Social harm
 
 The **social harm** (zemiology) approach — associated with Paddy Hillyard and Steve Tombs, *Beyond
@@ -94,6 +109,11 @@ many of the most serious harms. Examples of harmful but often legal acts: deaths
 unsafe but legal working conditions, pollution within legal limits, poverty caused by policy, and
 aggressive marketing of harmful products. Stanley Cohen's *States of Denial* (2001) explored how
 states and societies deny atrocities and suffering.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--04-states-of-denial.webp" width="900" height="420" alt="Three types of denial from Cohen’s States of Denial: literal denial that it happened, interpretive denial that it was something else, and implicatory denial that accepts the facts but denies their moral implications." loading="lazy">
+  <figcaption>State crime is hidden by literal, interpretive and implicatory denial.</figcaption>
+</figure>
 
 ## Measuring and researching crime
 
@@ -105,6 +125,16 @@ states and societies deny atrocities and suffering.
 
 Researching powerful offenders is especially difficult: access is limited and corporate and state
 crimes are often hidden.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--05-crime-funnel.webp" width="900" height="677" alt="A funnel narrowing from an act taking place, through being noticed, recognised as a crime, reported and recorded, to arrest, charge and conviction. Crime drops out at each stage, creating the dark figure." loading="lazy">
+  <figcaption>Recorded crime is only the narrow end of the funnel.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--06-crime-sources.webp" width="900" height="567" alt="Official statistics, victim surveys and self-report studies compared by what each is best used for and its main problem." loading="lazy">
+  <figcaption>Each source catches a different part of the dark figure.</figcaption>
+</figure>
 
 ## Patterns of offending and victimisation
 
@@ -119,6 +149,11 @@ crimes are often hidden.
   suffer hate crime.
 
 Always note that **patterns depend on the data**: official statistics reflect reporting and policing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime--07-patterns.webp" width="900" height="729" alt="A grid of offending and victimisation patterns by gender, social class, age and ethnicity, each with explanations such as Pollak’s chivalry thesis, Messerschmidt, Box, Lea and Young, and Hall." loading="lazy">
+  <figcaption>Every pattern needs an explanation, and every explanation has a rival.</figcaption>
+</figure>
 
 ## Worked example: an 8-mark answer outline
 

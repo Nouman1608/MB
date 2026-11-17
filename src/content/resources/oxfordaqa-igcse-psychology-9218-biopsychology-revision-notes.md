@@ -56,12 +56,27 @@ breathing rate up, pupils dilate, muscles tense, digestion slows. Afterwards the
 **James-Lange:** event, then arousal, then interpretation, then emotion. Criticism (Cannon): arousal is
 too slow to explain how fast emotions appear, and similar arousal occurs in different emotions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--02-endocrine-fight-or-flight.webp" width="900" height="797" alt="The nervous system sends electrical messages along nerves; the endocrine system releases hormones into the blood, which is slower but longer lasting. The pituitary gland controls many glands and the adrenal glands release adrenaline. In fight or flight, a perceived threat activates the autonomic nervous system and adrenaline is released, raising heart and breathing rate, widening pupils, tensing muscles, increasing sweating and slowing digestion, until the threat passes." loading="lazy">
+  <figcaption>Adrenaline and the autonomic nervous system ready the body to fight or run.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--03-james-lange.webp" width="900" height="517" alt="Three steps in order: an event, then physiological arousal, then the brain's interpretation of that arousal, which is the emotion. Evaluation cards: panic after noticing a racing heart supports the theory; Cannon argued that bodily changes are too slow and that the same arousal occurs in different emotions such as fear and excitement." loading="lazy">
+  <figcaption>James-Lange: the body reacts first, and the emotion is our interpretation of that reaction.</figcaption>
+</figure>
+
 ## Neurons
 
 | Sensory | Relay | Motor |
 |---|---|---|
 | Receptors to central nervous system | Inside central nervous system | Central nervous system to muscles and glands |
 | Long dendrites, short axon | Short dendrites, short axon | Short dendrites, long axon |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--04-sensory-relay-motor.webp" width="900" height="594" alt="A message passes from heat receptors in the hand along a sensory neuron to the spinal cord, through a relay neuron, and along a motor neuron to the arm muscles, which contract. Cards give each neuron's location, job and structure: sensory has long dendrites and a short axon, relay has both short, motor has short dendrites and a long axon." loading="lazy">
+  <figcaption>Sensory neurons carry messages in, relay neurons connect, motor neurons carry messages out to act.</figcaption>
+</figure>
 
 ## Synaptic transmission in five steps
 
@@ -76,6 +91,11 @@ too slow to explain how fast emotions appear, and similar arousal occurs in diff
 **Hebb:** neurons that repeatedly fire together form stronger connections and **cell assemblies**;
 learning physically changes the brain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--05-synaptic-transmission.webp" width="900" height="866" alt="A sending neuron's axon terminal holds vesicles of neurotransmitter. Five steps: the impulse arrives, neurotransmitters are released into the gap, they bind to receptors on the next neuron, the effect is excitatory or inhibitory, and leftover neurotransmitter is taken back by reuptake or broken down. The next neuron fires only if excitation outweighs inhibition overall." loading="lazy">
+  <figcaption>Electrical along the neuron, chemical across the gap; reuptake by the sending neuron ends the signal.</figcaption>
+</figure>
+
 ## Brain map
 
 | Structure | Function | Area to name |
@@ -86,12 +106,22 @@ learning physically changes the brain.
 | Occipital lobe | Vision | Visual area |
 | Cerebellum | Balance and coordination | — |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--07-localisation-of-function.webp" width="900" height="730" alt="A schematic side view of the brain showing the frontal, parietal, temporal and occipital lobes and the cerebellum. The motor area is at the back of the frontal lobe with Broca's area lower in the frontal lobe; the somatosensory area is at the front of the parietal lobe; the auditory area and Wernicke's area are in the temporal lobe; the visual area is in the occipital lobe." loading="lazy">
+  <figcaption>Specific areas carry out specific functions: Broca's is frontal, Wernicke's is temporal.</figcaption>
+</figure>
+
 ## Named studies
 
 | Study | What happened | Shows | Limitation |
 |---|---|---|---|
 | **Penfield** | Awake epilepsy patients had areas of cortex electrically stimulated; temporal lobe stimulation sometimes triggered vivid memories and sensations | Localisation; the temporal lobe's role in memory | Unusual sample; only a minority reported experiences |
 | **Tulving ('gold')** | Participants injected with radioactive gold thought about episodic or semantic memories while activity was measured | Episodic linked to the front of the cortex, semantic to the back | Very small sample; pattern not clear for everyone |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--08-penfield-and-tulving.webp" width="900" height="764" alt="Two study cards. Penfield stimulated the brain surface of awake epilepsy patients with a weak current; stimulating parts of the temporal lobe sometimes produced vivid experiences, though the patients were not typical. Tulving's small group was injected with radioactive gold; episodic thinking was linked to the front of the cortex and semantic thinking to the back, though the sample was tiny." loading="lazy">
+  <figcaption>Both studies support localisation, but both used small or unusual samples.</figcaption>
+</figure>
 
 ## Scans
 
@@ -111,6 +141,11 @@ learning physically changes the brain.
 | Cerebellum | Clumsy movement, poor balance |
 | Frontal lobe | Changes in personality, planning and self-control |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--09-neurological-damage.webp" width="900" height="518" alt="Four rows linking damaged areas to effects: the motor area on one side causes weakness or paralysis on the opposite side; Broca's area causes slow, effortful speech with understanding intact; Wernicke's area causes fluent but meaningless speech and poor understanding; the frontal lobe can change personality and self-control." loading="lazy">
+  <figcaption>Damage effects follow localisation: the area hit predicts the ability lost.</figcaption>
+</figure>
+
 ## Evaluating the scanning techniques
 
 | Question | CT | PET | fMRI |
@@ -126,6 +161,11 @@ learning physically changes the brain.
 - **Perception:** the visual area in the occipital lobe processes sensation before interpretation.
 - **Research methods:** Penfield and Tulving both used very small, unusual samples, so generalisation
   is a standard evaluation point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-biopsychology--06-hebb-cell-assemblies.webp" width="900" height="532" alt="Two pairs of neurons: before, a thin weak connection; after one repeatedly helps to fire the other, a thick, stronger and more efficient connection. Cards explain cell assemblies that represent a memory or skill, that practice makes pathways quicker to activate, and that rehearsal strengthens synaptic connections." loading="lazy">
+  <figcaption>Learning physically changes the brain: repeated firing strengthens connections.</figcaption>
+</figure>
 
 ## Exam traps
 

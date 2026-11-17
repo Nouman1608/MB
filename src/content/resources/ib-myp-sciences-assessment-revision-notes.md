@@ -39,6 +39,11 @@ This "1-8" describes the four descriptor bands; the MYP subject-group guide addi
 **level of 0** below the lowest band, so a single criterion's actual attainable range is 0-8, and the
 four-criterion subject total is 0-32, not 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--01-four-criteria.webp" width="900" height="815" alt="Four rows: A knowing and understanding (apply knowledge to unfamiliar contexts), B inquiring and designing (own testable question, variables and justified method), C processing and evaluating (accurate data work, specific limitation and improvement) and D reflecting on the impacts of science (two-sided, cited, reasoned judgement). The descriptors are the same for every course model." loading="lazy">
+  <figcaption>Each criterion rewards using a skill, not naming it, and none changes with the course model.</figcaption>
+</figure>
+
 ## If your school offers MYP eAssessment
 
 Available in biology, chemistry, physics **or** integrated sciences — three tasks:
@@ -51,17 +56,42 @@ Available in biology, chemistry, physics **or** integrated sciences — three ta
 
 The investigation-skills task is worth **half the total marks** — the single biggest component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--02-scope-set-by-option.webp" width="900" height="855" alt="The course model (discrete, modular or integrated) does not set the examination scope. The eAssessment option (biology, chemistry, physics or integrated sciences) sets which topics the examination draws on, from a list spanning atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves." loading="lazy">
+  <figcaption>Your eAssessment option, not your school’s course model, sets what the exam can examine.</figcaption>
+</figure>
+
 ## The four criteria in more depth
 
 Each criterion is assessed against level descriptors organised in bands: criterion A rewards accurate recall and increasingly nuanced application of scientific understanding to unfamiliar contexts; criterion B rewards formulating a testable hypothesis or research question and designing a method capable of investigating it fairly; criterion C rewards accurate data collection and processing, appropriate presentation (tables, graphs), and drawing conclusions genuinely supported by the data obtained; criterion D rewards discussing the real-life applications and implications of scientific knowledge, including its social, ethical or environmental dimensions, rather than describing the science alone. A common weakness across criteria B and C is designing an investigation without a genuinely fair-test variable structure (identifying and controlling variables explicitly) -- since this underpins how strongly a conclusion drawn from the data can actually be trusted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-criteria-in-practice--06-one-investigation-four-criteria.webp" width="900" height="820" alt="A single practical investigation in the centre sends evidence to all four criteria: A, the scientific concept behind it; B, its design; C, processing and evaluating the data; and, where relevant, D, its wider scientific or real-world significance." loading="lazy">
+  <figcaption>One well-designed investigation usually produces evidence for all four criteria.</figcaption>
+</figure>
 
 ## Why investigation skills carry half the eAssessment marks
 
 The 50 marks allocated to inquiring, designing, processing and evaluating (criteria B and C combined) reflect that MYP Sciences is built around developing genuine scientific method, not primarily content recall -- a student who has memorised facts thoroughly but never practised designing a fair investigation, processing raw data into a meaningful graph, or evaluating a method's reliability will underperform relative to their content knowledge. Revision that includes hands-on or past-investigation practice, not only reading and recall, is proportionally more valuable given this weighting than for many other MYP subjects.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--04-weighting-revision-time.webp" width="900" height="470" alt="A bar of 100 marks split in half: the investigation-skills task, criteria B and C, carries 50 marks and the other tasks the remaining 50. Revision time should match, with practice at hypotheses and interpreting imperfect data, not only recall." loading="lazy">
+  <figcaption>Investigation skills carry half the marks, so they deserve half the revision time.</figcaption>
+</figure>
+
 ## How discrete and integrated science courses align
 
 Whether a school teaches Biology, Chemistry and Physics as separate discrete subjects or combines them into an integrated science course, the same four criteria and the same eAssessment structure apply -- the underlying scientific method being assessed (formulating a question, investigating it, processing data, evaluating results, and considering real-world implications) is identical regardless of how the content is organised into courses. This means revision strategies that work for a discrete-science MYP student (practising investigation design, data processing, evaluation) transfer directly to an integrated-science student, and vice versa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--01-three-course-models.webp" width="900" height="790" alt="Discrete: biology, chemistry and physics run side by side all year as separate subjects. Modular: the sciences are taught one after another in rotation across the year. Integrated: the disciplines are blended into one course." loading="lazy">
+  <figcaption>The same sciences can be packaged as discrete, modular or integrated courses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--05-concepts-across-models.webp" width="900" height="660" alt="Discrete, modular and integrated courses all feed into the same framework: the key concepts change, relationships and systems; related concepts such as energy, movement, transformation and models; the six global contexts; and one investigation-skills task." loading="lazy">
+  <figcaption>Whatever the course model, the concepts and the skills task are the same.</figcaption>
+</figure>
 
 ## How MYP Sciences connects forward to DP sciences
 

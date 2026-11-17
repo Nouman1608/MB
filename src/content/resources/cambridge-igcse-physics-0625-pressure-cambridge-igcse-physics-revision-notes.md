@@ -46,6 +46,11 @@ Rearranged: F = pA; A = F/p; Δh = Δp/(ρg); ρ = Δp/(gΔh).
 
 Prefixes: 1 kPa = 1000 Pa; 1 MPa = 10⁶ Pa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--01-area-conversion.webp" width="900" height="600" alt="A one-metre square is 100 cm along each side, so it contains 100 × 100 = 10 000 square centimetres; similarly 1 m² = 1 000 000 mm². So 25 cm² = 25 ÷ 10 000 = 0.0025 m²." loading="lazy">
+  <figcaption>A square metre holds 10 000 square centimetres, not 100.</figcaption>
+</figure>
+
 ## Force, area and pressure (Core)
 
 - Same area, larger force → larger pressure.
@@ -58,12 +63,32 @@ Prefixes: 1 kPa = 1000 Pa; 1 MPa = 10⁶ Pa.
 
 **Describing an example:** "The [object] has a [large/small] area, so for the same force the pressure is [low/high], so it [does not sink / cuts easily]."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--02-shoe-and-heel-pressure.webp" width="900" height="624" alt="A 600 N person in flat shoes (300 cm² = 0.030 m²) exerts 20 000 Pa on the floor. Balanced on one stiletto heel of 1.0 cm² (0.000 10 m²) the same force gives 6 000 000 Pa, 300 times more." loading="lazy">
+  <figcaption>Same force on 1/300 of the area gives 300 times the pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--03-brick-faces.webp" width="900" height="520" alt="A 2.4 kg brick measuring 20 cm × 10 cm × 5.0 cm weighs 23.5 N. Standing on its 10 cm × 5.0 cm end (0.0050 m²) it exerts 4700 Pa; lying on its 20 cm × 10 cm face (0.020 m²) it exerts about 1200 Pa." loading="lazy">
+  <figcaption>The weight stays the same; the face in contact sets the pressure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--04-drawing-pin-and-examples.webp" width="900" height="660" alt="A thumb pushes a drawing pin into a board. The same force acts on the large head, giving a low pressure on the thumb, and on the tiny point, giving a high pressure that drives the pin in. Large areas such as snowshoes and tractor tyres lower the pressure; small areas such as knife blades and needles raise it." loading="lazy">
+  <figcaption>For the same force, a smaller area gives a larger pressure.</figcaption>
+</figure>
+
 ## Pressure in liquids (Core)
 
 - Increases with **depth**.
 - Increases with the liquid's **density**.
 - Same depth, same liquid → same pressure, whatever the container shape.
 - Applications: dams thicker at the base; water spurts faster from lower holes; water towers placed high; ears hurt deeper underwater.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--05-liquid-pressure-depth.webp" width="900" height="660" alt="Water squirts furthest from the lowest of three holes in a tall container, because pressure increases with depth. A dam is thicker at the bottom where the water pressure is greatest. At a point in a liquid the pressure acts in all directions." loading="lazy">
+  <figcaption>Deeper or denser liquid means more pressure; shape does not matter.</figcaption>
+</figure>
 
 ## Δp = ρgΔh (Extended only)
 
@@ -80,6 +105,11 @@ Prefixes: 1 kPa = 1000 Pa; 1 MPa = 10⁶ Pa.
 4. Give the unit Pa (or kPa).
 
 **Worked reminder.** Mercury has a density of 13.6 g/cm³ = 13 600 kg/m³. At 0.20 m below its surface: Δp = 13 600 × 9.8 × 0.20 = 26 656 Pa ≈ **27 kPa**, over thirteen times the value at the same depth in water. Leaving the density as 13.6 would give 26.7 Pa, a thousand times too small.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics--06-delta-p-rho-g-h.webp" width="900" height="540" alt="A diver 25 m below the surface of sea water of density 1030 kg/m³ experiences an extra pressure of 1030 × 9.8 × 25 = 252 350 Pa, about 2.5 × 10⁵ Pa, on top of atmospheric pressure. At 0.40 m the pressure due to oil (800 kg/m³) is about 3100 Pa and due to water about 3900 Pa; 49 000 Pa in water is reached at 5.0 m." loading="lazy">
+  <figcaption>Use the vertical depth below the surface and density in kg/m³.</figcaption>
+</figure>
 
 ## Key terms
 

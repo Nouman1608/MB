@@ -50,6 +50,11 @@ MYP has no prescribed content list: schools design their own units, and this pag
 | Brownfield site | Land used before, often derelict, available for redevelopment |
 | Sustainable city | A city that meets present needs without harming future residents' ability to meet theirs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
+
 ## Site factors to name
 
 - Water supply (river, spring, well)
@@ -66,6 +71,11 @@ Rule of thumb: **site explains the start, situation explains the growth**.
 Isolated dwelling → hamlet → village → town → city → conurbation → megacity.
 
 Going up the hierarchy: fewer settlements, further apart, bigger populations, more high-order services, larger spheres of influence. The idea comes from Christaller's central place theory (1933).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--01-settlement-hierarchy.webp" width="900" height="785" alt="A stepped pyramid from isolated dwelling at the base through hamlet, village, town, city and conurbation to megacity at the top. Going up, there are fewer settlements, further apart, with more high-order services and larger spheres of influence. Threshold, range and sphere of influence are defined below with examples." loading="lazy">
+  <figcaption>Bigger places need bigger thresholds, draw people from further and serve wider areas.</figcaption>
+</figure>
 
 ## Formulas and calculations
 
@@ -85,6 +95,21 @@ Going up the hierarchy: fewer settlements, further apart, bigger populations, mo
 3. Find P₁ ÷ P₂. Well above 2 suggests a primate city.
 4. Explain it: capital city role, port, investment, migration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--02-rank-size-norland.webp" width="900" height="714" alt="Paired bars for fictional Norland’s five largest cities: actual sizes 3.6, 1.2, 1.0, 0.6 and 0.5 million against rank-size predictions of 3.6, 1.8, 1.2, 0.9 and 0.72 million. Every lower-ranked city falls short, and the primacy index is 3.0 against 2.0 expected." loading="lazy">
+  <figcaption>When the largest city dwarfs the rest, the country has a primate city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--05-urbanisation-vs-growth.webp" width="900" height="640" alt="Stacked bars for fictional Norland: in 2000, 4.2 million urban and 7.8 million rural (35.0% urban); in 2020, 9.1 million urban and 6.5 million rural (58.3% urban). Urbanisation rose 23.3 percentage points while the urban population grew 116.7%." loading="lazy">
+  <figcaption>Urbanisation measures the share living in towns; urban growth measures the number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--04-transect-test.webp" width="900" height="703" alt="A bar chart of the share of plots in commercial use along one road: 85% at the centre, 55% at 0.5 km, 30% at 1 km, 15% at 2 km and 5% at 3 km. The steady fall supports the Burgess idea of a CBD with falling bid rent, but one transect cannot test Hoyt’s sectors." loading="lazy">
+  <figcaption>A steady fall with distance supports Burgess; testing sectors needs several directions.</figcaption>
+</figure>
+
 ## Urban land-use models at a glance
 
 | Model | Year, city | Main idea | Main weakness |
@@ -95,6 +120,16 @@ Going up the hierarchy: fewer settlements, further apart, bigger populations, mo
 | Griffin and Ford | 1980, Latin America | CBD and commercial spine with elite sector; squatter settlements at the edge; disamenity sector | Based on one region; cities change fast |
 
 **Bid rent** underlies the Burgess rings: the most accessible land is the most expensive, so shops and offices outbid housing at the centre.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--01-urban-models.webp" width="900" height="1100" alt="Three plan views. Burgess: concentric rings around a central business district. Hoyt: wedge-shaped sectors spreading from the centre, with dashed lines for transport routes. Harris and Ullman: several separate nuclei besides the central business district." loading="lazy">
+  <figcaption>Three classic models of how land use is arranged in a city.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--03-burgess-vs-griffin-ford.webp" width="900" height="755" alt="Two strips from city centre to edge. Burgess, based on Chicago in 1925: CBD, zone in transition, working-class homes, residential zone, commuter zone. Griffin and Ford, Latin American cities in 1980: CBD and commercial spine with an elite sector, housing declining in quality outwards, and peripheral squatter settlements at the edge." loading="lazy">
+  <figcaption>Burgess puts the better-off at the edge; Griffin and Ford put the poorest there.</figcaption>
+</figure>
 
 ## Worked reminders
 
@@ -121,6 +156,11 @@ Migration in general (types, Lee's model, impacts) is covered in the [demographi
 | Self-help (e.g. Orangi Pilot Project, Karachi, 1980) | Low cost; residents own and maintain it | Needs organisation and technical support |
 | Site-and-service | Cheap for government; families build at their pace | Plots are often at the city edge |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--06-informal-settlement-responses.webp" width="900" height="620" alt="Four responses: clearance and relocation, often far from work; site-and-service plots where families build; self-help schemes such as the Orangi Pilot Project in Karachi; and upgrading in place such as Rio’s Favela-Bairro programme. Informal settlements also have workshops, markets and community networks, as in Dharavi, Mumbai." loading="lazy">
+  <figcaption>Responses range from moving people out to improving homes where they stand.</figcaption>
+</figure>
+
 ## Sustainable city checklist
 
 Use three headings in any judgement:
@@ -130,6 +170,11 @@ Use three headings in any judgement:
 - **Social:** affordable housing, access for the poorest, safety, a say for residents.
 
 Curitiba (Brazil) is the standard case: a bus rapid transit system from the 1970s, parks on flood-prone land and a scheme swapping recyclable waste for food. The UN's Sustainable Development Goal 11 (2015) covers sustainable cities and communities.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--07-sustainable-city.webp" width="900" height="751" alt="Three overlapping circles, environment, economy and social fairness, meet in a central balance. Features to look for include public transport, cycling and walking routes, green space, recycling, efficient buildings, affordable housing and brownfield building. Curitiba’s bus rapid transit, flood-land parks and waste-for-food scheme are a common case study." loading="lazy">
+  <figcaption>A sustainable city balances environment, economy and fairness, now and for later residents.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

@@ -41,6 +41,11 @@ These notes condense section 6.2 Stars and the Universe of the Cambridge IGCSE P
 - Radiates most energy as **infrared, visible light and ultraviolet**.
 - **Extended only:** powered by nuclear reactions; in stable stars, **fusion of hydrogen into helium**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--01-the-sun-and-stability.webp" width="900" height="800" alt="The Sun is a medium-sized star made mostly of hydrogen and helium, radiating mostly infrared, visible light and ultraviolet. For Extended, in a stable star the inward gravitational attraction is balanced by an outward force due to the high temperature at the centre, kept hot by fusion of hydrogen into helium." loading="lazy">
+  <figcaption>Infrared, visible and ultraviolet: the Sun's three main outputs.</figcaption>
+</figure>
+
 ## 6.2.2 Stars
 
 - A **galaxy** is many billions of stars.
@@ -59,6 +64,16 @@ These notes condense section 6.2 Stars and the Universe of the Cambridge IGCSE P
 | Red giant (most stars) | → planetary nebula + **white dwarf** |
 | Red supergiant (more massive stars) | → **supernova** → nebula with hydrogen and new heavier elements + **neutron star** or **black hole** |
 | New generation | Supernova nebula may form new stars with orbiting planets |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--02-galaxies-and-light-years.webp" width="900" height="668" alt="The Sun is one of many billions of stars in the Milky Way galaxy, which is about 100 000 light-years across; the Milky Way is one of many billions of galaxies. A light-year is the distance light travels in a year, 9.5 × 10¹⁵ m (Extended), so Sirius at 8.6 light-years is 8.2 × 10¹⁶ m away." loading="lazy">
+  <figcaption>A light-year measures distance: about 9.5 × 10¹⁵ m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-physics-0625-space-physics--05-star-life-cycle.webp" width="900" height="1110" alt="A cloud of gas and dust collapses into a protostar and becomes a stable star. Less massive stars become red giants, then a planetary nebula with a white dwarf. More massive stars become red supergiants, explode as supernovae and leave a neutron star or black hole. The nebula may form new stars." loading="lazy">
+  <figcaption>A star's mass decides whether it ends as a white dwarf, a neutron star or a black hole.</figcaption>
+</figure>
 
 ## 6.2.3 The Universe
 
@@ -81,6 +96,16 @@ These notes condense section 6.2 Stars and the Universe of the Cambridge IGCSE P
 2. Use v = H₀ × d or d = v / H₀.
 3. For age: 1 / H₀ in seconds, then ÷ (365 × 86 400) for years.
 4. Give answers to 2 significant figures, matching the data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--03-redshift-and-cmbr.webp" width="900" height="680" alt="Absorption lines in light from an Earth source and from a distant galaxy: the galaxy's lines are shifted towards longer wavelengths, showing that it is receding. For Extended, the cosmic microwave background radiation was produced shortly after the Universe formed and has been stretched into the microwave region by expansion. Both support the Big Bang Theory." loading="lazy">
+  <figcaption>Redshift means a longer observed wavelength from a receding galaxy.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics--04-hubble-constant.webp" width="900" height="640" alt="Recession speed against distance is a straight line through the origin with gradient H₀ = 2.2 × 10⁻¹⁸ per second. A galaxy receding at 4.4 × 10⁶ m/s is 2.0 × 10²⁴ m away, about 2.1 × 10⁸ light-years. 1/H₀ = 4.5 × 10¹⁷ s, about 1.4 × 10¹⁰ years, estimates the age of the Universe." loading="lazy">
+  <figcaption>v is proportional to d; 1/H₀ estimates the age of the Universe.</figcaption>
+</figure>
 
 ## Key terms
 

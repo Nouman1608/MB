@@ -56,12 +56,22 @@ ethnicity; age and generation/cohort; religion; ability/disability; nationality.
 - **Age and cohort**: a cohort shares experiences (for example growing up with the internet), which can shape attitudes and opportunities; **ageism** is prejudice or discrimination based on age.
 - **Religion, disability and nationality** also bring differences in status, rights and access, for example citizenship rules that limit migrants' rights to work or vote.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--01-classifying-differences.webp" width="900" height="718" alt="Ten tiles: social class, status, caste, slavery, sex and gender, race and ethnicity, age and cohort, religion, ability or disability, and nationality. Some positions are ascribed at birth, such as caste; others are achieved. Below, individual identity is how a person sees themselves; collective identity is a shared sense of belonging." loading="lazy">
+  <figcaption>People are grouped in many ways; some positions are fixed at birth, others achieved.</figcaption>
+</figure>
+
 ## 3.2.1.2 Inequalities
 
 Inequalities in power and life chances: **employment, education, health, life expectancy, social
 mobility**. **Intersectionality** means a working-class ethnic-minority woman's position is not simply
 the sum of class, ethnicity and gender. Effects fall on **individuals** (poorer health, fewer
 opportunities) and **society** (wasted talent, conflict).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--02-intersectionality.webp" width="900" height="725" alt="Three overlapping circles for class, gender and ethnicity, with one person at the centre where they meet. A note explains Crenshaw’s 1989 point that Black women could face discrimination that neither a race nor a sex claim alone recognised." loading="lazy">
+  <figcaption>Class, gender and ethnicity combine, so no one difference explains a person’s experience.</figcaption>
+</figure>
 
 ## 3.2.1.3 Social class — three theories
 
@@ -84,6 +94,21 @@ opportunities) and **society** (wasted talent, conflict).
 - *Weberianism*: more flexible because a person can rank differently on class, status and party (a wealthy person with low status, for example), but critics say it describes inequality without fully explaining why it is so persistent.
 - *Measuring class*: occupation-based scales miss those outside paid work and the very wealthy who live on assets, so the measure chosen changes the picture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--03-three-views-of-class.webp" width="900" height="549" alt="Three cards. Marx: the bourgeoisie exploit the proletariat, who accept it through false consciousness. Davis and Moore: class inequality is a functional necessity in a meritocracy. Weber: class, status and party are separate dimensions, and a person can rank differently on each. Each card ends with an evaluation point." loading="lazy">
+  <figcaption>Marx sees conflict, functionalists see necessity, Weber sees three dimensions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--04-income-wealth.webp" width="900" height="622" alt="Left: income is a flow of money, like water from a tap: wages, benefits and interest. Right: wealth is a stock of assets, like a full tank: property, savings and shares. Wealth is usually distributed far more unequally than income." loading="lazy">
+  <figcaption>Income flows in; wealth is what you hold. Wealth is the more unequal of the two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--05-social-mobility.webp" width="900" height="703" alt="Two panels with class levels. Intergenerational mobility compares a child with a parent, here moving upward from a lower class. Intragenerational mobility follows one person over their working life, here moving downward. Below, factors affecting mobility." loading="lazy">
+  <figcaption>Compare with parents for intergenerational mobility; with your own past for intragenerational.</figcaption>
+</figure>
+
 ## 3.2.1.4 Gender
 
 - **Walby:** six structures of patriarchy — paid work, household production, culture, sexuality, male
@@ -93,6 +118,11 @@ opportunities) and **society** (wasted talent, conflict).
 - **Sexism** (prejudice), **sex discrimination** (unequal treatment), the **glass ceiling**.
 - **Private patriarchy**: women's lives controlled within the household, by a husband or father. **Public patriarchy**: women are in paid work and public life but meet disadvantage there, such as lower-paid, part-time or less senior roles.
 - **Evaluate**: Walby's model shows patriarchy taking new forms rather than disappearing; intersectional critics add that class and ethnicity shape how different women experience it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--06-walby-connell.webp" width="900" height="630" alt="Top: Walby’s shift from private patriarchy, based in the home, to public patriarchy, where women are in paid work and public life but still disadvantaged, with her six structures. Bottom: Connell’s hegemonic masculinity as the top of a pyramid, ranked above other men and above women." loading="lazy">
+  <figcaption>Walby shows patriarchy moving into public life; Connell shows a ranking of masculinities.</figcaption>
+</figure>
 
 ## 3.2.1.5 Ethnicity
 
@@ -106,6 +136,11 @@ opportunities) and **society** (wasted talent, conflict).
 - **Diasporas** (such as communities with origins in South Asia or the Caribbean living in other countries) keep links with a homeland, and young people in them may develop **hybrid identities** that combine cultures.
 - **Double consciousness**: du Bois's idea that Black Americans saw themselves both as they were and through the eyes of a society that looked down on them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--07-ethnicity-key-terms.webp" width="900" height="805" alt="Four panels. Assimilation: a small group merges into the majority culture. Multiculturalism: different cultures sit side by side with equal respect. Diaspora: communities spread from a homeland keep links to it. Hybrid identity: two cultures blend. Below, the difference between race and ethnicity." loading="lazy">
+  <figcaption>Assimilation, multiculturalism, diasporas and hybrid identities are different ways cultures meet.</figcaption>
+</figure>
+
 ## 3.2.1.6 Reducing inequality
 
 | Approach | Method | Criticism |
@@ -113,6 +148,11 @@ opportunities) and **society** (wasted talent, conflict).
 | **Marxism** | Abolish capitalism; common ownership | Inequality and lack of freedom in states claiming this route |
 | **Social democratic welfare state** | Progressive tax, universal services | Costly; wealth inequality remains |
 | **Development aid** | Transfers from richer to poorer countries | Dependency; may serve donors' interests |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-differences-and-inequalities--08-reducing-inequality.webp" width="900" height="436" alt="Three cards. Marxists would abolish capitalism for common ownership, though critics point to unfree societies that tried. Social democratic welfare states use progressive tax and universal services, narrowing gaps at high cost. Development aid transfers resources to poorer countries but can create dependency." loading="lazy">
+  <figcaption>From revolution to welfare to aid: each attempt has supporters and critics.</figcaption>
+</figure>
 
 ## Worked example
 

@@ -48,6 +48,11 @@ cross-sectional area = width x mean depth
 Worked example (illustrative): a channel 8 m wide with a mean depth of 0.5 m has a cross-sectional
 area of 4 m2. If the water flows at 1.5 m/s, discharge = 4 x 1.5 = **6 cumecs**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--08-riv-basin.webp" width="900" height="940" alt="A schematic plan of one drainage basin. A dashed line around the basin is the watershed, the boundary that separates it from neighbouring basins. A main river runs from its source at the top to its mouth at the sea. Two smaller rivers, tributaries, join the main river at points called confluences, which are circled. Not to scale." loading="lazy">
+  <figcaption>A drainage basin with its watershed, tributaries and confluences labelled.</figcaption>
+</figure>
+
 ## How rivers change downstream
 
 | | Upper course | Middle course | Lower course |
@@ -61,6 +66,11 @@ area of 4 m2. If the water flows at 1.5 m/s, discharge = 4 x 1.5 = **6 cumecs**.
 Velocity often **increases** downstream even though the gradient falls, because the deeper, smoother
 channel loses less energy to friction. Load becomes smaller and rounder through attrition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--12-riv-long-profile.webp" width="900" height="1060" alt="A side view of a river from source to mouth, drawn from a curve that falls steeply at first and then more gently, ending at the sea. The profile is split into upper, middle and lower course. In the upper course erosion dominates and the profile has a waterfall (1, a step where the river drops) and potholes (2, circular hollows in the bed). In the middle and lower course transport and deposition increase: meanders (3), oxbow lakes (4), levées (5) and a flood plain (6), and a delta (7) where the river enters the sea. Schematic, not to scale." loading="lazy">
+  <figcaption>Where the named landforms typically occur along a river from source to mouth.</figcaption>
+</figure>
+
 ## Water routes (alternatives, not a sequence)
 
 **Interception** (caught by vegetation), **infiltration** (into the soil), **throughflow** (sideways
@@ -71,6 +81,11 @@ with **evaporation** as a loss. Mostly overland flow means fast response and hig
 intense rain; frozen ground; impermeable rock such as granite or clay; steep slopes; little
 vegetation; urban surfaces such as tarmac and concrete, with drains that carry water quickly to the
 river.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--09-riv-pathways.webp" width="900" height="1010" alt="A hillside cross-section running down to a river. Numbered arrows show alternative routes for rainfall. 1 Interception: rain caught by a tree. 2 Infiltration: water soaking into the soil. 3 Overland flow: water running across the surface. 4 Throughflow: water moving sideways through the soil. 5 Groundwater flow: water moving through the underlying rock. 6 Evaporation: water lost to the air from the river and the ground. Water that infiltrates has not travelled as overland flow, so these are competing routes. Schematic, not to scale." loading="lazy">
+  <figcaption>Rainfall can take several alternative routes to the river channel; they are competing routes, not consecutive steps.</figcaption>
+</figure>
 
 ## Erosion, transport, deposition
 
@@ -87,6 +102,16 @@ Erosion removes material; **weathering** breaks rock where it stands, with no mo
 
 The **largest particles are deposited first** as the river slows, and the finest silt last, which
 is why floodplains and deltas are made of fine material.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--10-riv-erosion.webp" width="900" height="890" alt="Four panels. Hydraulic action: moving water forces air into a crack in the bank until material breaks loose. Abrasion: sediment carried by the river scrapes the bed and banks. Attrition: carried stones collide and become smaller and more rounded. Solution: soluble rock such as limestone is dissolved by the water. Schematic, not to scale." loading="lazy">
+  <figcaption>The four erosion processes: hydraulic action, abrasion, attrition and solution.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--11-riv-transport.webp" width="900" height="870" alt="A side view of a river flowing left to right. 1 Traction: large heavy pieces are rolled along the bed. 2 Saltation: smaller pieces bounce along the bed. 3 Suspension: fine material is carried within the water. 4 Solution: dissolved material is carried invisibly in the water. Schematic, not to scale." loading="lazy">
+  <figcaption>The four ways a river transports its load, from large pieces rolled along the bed to dissolved material.</figcaption>
+</figure>
 
 ## Landforms
 
@@ -113,6 +138,11 @@ is why floodplains and deltas are made of fine material.
   the sediment, and a river that slows sharply. The river splits into many channels called
   **distributaries**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--13-riv-meander-oxbow.webp" width="900" height="890" alt="Four plan views of a river bend drawn from a computed meander curve. 1: the river erodes the outside of each bend, where water flows fastest and deepest, and deposits on the inside, where it is slowest and shallowest. 2: the bend grows and the neck of land between two bends narrows. 3: during a flood the river breaks through the neck and takes a shorter, straighter course. 4: deposition seals the ends of the abandoned loop, leaving an isolated curved oxbow lake. Schematic, not to scale." loading="lazy">
+  <figcaption>How erosion and deposition at a bend lead to a cut-off neck and an isolated oxbow lake.</figcaption>
+</figure>
+
 ## Hazards, opportunities, management
 
 - **Hazards:** flooding and river erosion.
@@ -138,6 +168,11 @@ river.
 | **Afforestation** | Trees intercept rain and slow run-off | Cheap and natural, but slow to take effect |
 | **Floodplain zoning** | Restricts building on high-risk land | Cheap, but hard where land is already built on |
 | **Warnings** | Forecasts let people move belongings and evacuate | Saves lives, but does not stop damage to property |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-rivers--14-riv-flood-management.webp" width="900" height="880" alt="Four small pictures in two columns. Hard engineering: embankments, raised banks that keep the river in its channel and protect a house, and dams, a wall that holds water back in a reservoir so less flows downstream. Soft approaches: flood warnings, a siren and a phone alert that warn a house, and floodplain zoning, where building is not allowed on the highest-risk land beside the river. Schematic, not to scale." loading="lazy">
+  <figcaption>Hard engineering (embankments, dams) and soft approaches (flood warnings, floodplain zoning) for managing river floods.</figcaption>
+</figure>
 
 ## Case study
 

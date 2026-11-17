@@ -74,6 +74,11 @@ each doubles as a *benefit*; be ready to pair each with a documented
 *limitation* (e.g. HEP vs disrupted river ecosystems/downstream
 communities) for "discuss" questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--07-wa-water-cycle.webp" width="900" height="1020" alt="A landscape cross-section, not to scale. Five stores are shown as navy labels: atmosphere, oceans of salt water, glaciers and ice sheets, lakes and rivers, and ground water. Arrows show transfers: evaporation, condensation, precipitation, interception, transpiration, surface run-off, infiltration, through-flow and ground water flow." loading="lazy">
+  <figcaption>The water cycle is a set of stores linked by transfers.</figcaption>
+</figure>
+
 ## 3.2 Water pollution — cause-and-effect pairs
 
 | Source | Linked impact |
@@ -94,6 +99,16 @@ a food chain, prey to predator.
 "explain" marks): nutrient enrichment → algal bloom → light blocked →
 oxygen depleted as algae decompose → aquatic life harmed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--01-five-sources.webp" width="900" height="855" alt="A schematic catchment, not to scale, with five numbered sources draining to one river: domestic waste from houses, sewage from a pipe, plastic litter, industrial wastewater from a factory, and fertiliser, manure and pesticides from farmland, reaching the river by runoff over the surface and by leaching through the soil." loading="lazy">
+  <figcaption>Domestic waste, sewage, plastic, industry and farming all drain to the same river.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-pollution--02-eutrophication-steps.webp" width="900" height="805" alt="Six linked steps: nitrate and phosphate ions arrive; algae grow rapidly into a bloom; the bloom blocks light so plants below die; the algae die; bacteria decompose the dead material and their respiration uses up dissolved oxygen; fish die or leave. A side arrow shows that organic content such as sewage feeds bacteria directly, so oxygen can fall before a bloom forms." loading="lazy">
+  <figcaption>Nutrients, bloom, light blocked, algae die, bacteria use the oxygen, fish die.</figcaption>
+</figure>
+
 ## 3.3 Water-related diseases — don't mix the two mechanisms
 
 | | Malaria | Cholera |
@@ -104,6 +119,11 @@ oxygen depleted as algae decompose → aquatic life harmed.
 For "benefits and limitations" questions, name a **specific**
 limitation — insecticide resistance limiting spraying, or vaccination
 access gaps — rather than a generic "it's expensive."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-related-diseases--01-two-diseases.webp" width="900" height="685" alt="A comparison of malaria and cholera. Malaria is caused by the Plasmodium parasite, reaches people through the bite of an infected female Anopheles mosquito, and is linked to water because larvae develop in still water. Cholera is caused by a bacterium, spreads through water or food contaminated with faeces, and is linked to untreated sewage." loading="lazy">
+  <figcaption>Malaria travels by mosquito; cholera travels in water contaminated with faeces.</figcaption>
+</figure>
 
 ## 3.4 Marine aquaculture — five outcomes, not the shortest sub-topic
 
@@ -123,6 +143,16 @@ international agreements). With five outcomes against 3.2's three and
 3.3's four, this is one of the larger sub-topics in the topic, not the
 shortest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--01-overfishing-collapse.webp" width="900" height="645" alt="Rising demand, larger boats, sonar and huge nets let fishers catch fish faster than the population replaces itself. Too many breeding adults are removed, fewer young are produced, catches fall year after year and the stock can collapse." loading="lazy">
+  <figcaption>Remove too many breeding adults and fewer young replace them, until the stock collapses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-marine-aquaculture--04-three-forms.webp" width="900" height="705" alt="A coastal cross-section, not to scale. Crustaceans such as shrimps or prawns are raised in coastal ponds; fish are kept in floating net cages in a sheltered bay; seaweeds are grown on ropes or lines in the sea. In captivity the organisms are contained, fed if necessary, protected from predators and harvested at market size." loading="lazy">
+  <figcaption>Marine aquaculture farms fish, crustaceans and seaweeds in captivity.</figcaption>
+</figure>
+
 ## 3.5 Oil pollution
 
 **Causes**: off-shore/on-shore extraction, pipelines, shipping, tank
@@ -135,6 +165,16 @@ improved navigation, booms and sorbents, detergent sprays, skimmers,
 controlled burning. Keep prevention and impact-minimising as two
 separate lists — a question can ask for either alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-oil-pollution--02-five-causes.webp" width="900" height="905" alt="A coastal scene, not to scale, with five numbered sources: oil extraction at a sea platform and at a land oilfield that drains into a river; a leaking pipeline on the sea bed; a tanker aground on rocks; a ship pumping oily tank-washing water overboard; and a coastal refinery. Frequent small releases add a great deal of oil over time." loading="lazy">
+  <figcaption>Oil reaches the sea from extraction, pipelines, shipping, tank cleaning and refineries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--13-wa-oil-prevent-minimise.webp" width="900" height="900" alt="A sea scene shows a double-hulled tanker, an oil slick held by a floating boom, and a skimmer boat. Two lists give the lesson strategies: prevention (MARPOL, double-hulled tankers, risk assessments, regular maintenance) and minimising impact (improved navigation, booms and sorbents, detergent sprays, skimmers, controlled burning)." loading="lazy">
+  <figcaption>Prevention strategies are separate from strategies for minimising the impact of a spill.</figcaption>
+</figure>
+
 ## 3.6 Plastic pollution — new for this cycle
 
 Conventional plastics: fossil-fuel-derived, generally non-biodegradable.
@@ -145,6 +185,16 @@ down. Impacts on marine ecosystems: visual pollution, entanglement,
 being mistaken for food, bioaccumulation and biomagnification.
 Management: alternative packaging, avoiding single-use plastics, safe
 disposal, recycling, legislation and enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--01-made-from-vs-end-of-life.webp" width="900" height="650" alt="A two-by-two grid. Rows ask what a plastic is made from: fossil fuels or biological materials. Columns ask what happens at end of life: biodegradable or non-biodegradable. Conventional plastics are made from fossil fuels and are generally non-biodegradable. Bioplastics, made from biological materials, fill both columns: they can be biodegradable or non-biodegradable." loading="lazy">
+  <figcaption>Raw material and end of life are separate questions: a bioplastic can be non-biodegradable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-plastic-pollution--04-four-impacts.webp" width="900" height="695" alt="Four panels. Visual pollution: litter on a beach spoils coasts and tourism. Entanglement: nets, ropes and loops trap turtles, seals, seabirds, fish and whales. Mistaken for food: a floating bag looks like a jellyfish to a turtle. Bioaccumulation and biomagnification: plastic and its chemicals build up from plankton to fish to predators and people." loading="lazy">
+  <figcaption>Plastic harms marine life by looks, by trapping, by being eaten and by building up in food chains.</figcaption>
+</figure>
 
 ## Worked example: desalination trade-off
 
@@ -173,6 +223,11 @@ benefit weighed against a genuine energy/maintenance cost — transfers
 directly to "discuss the benefits and limitations" questions on
 multipurpose dams too, since both sub-topics reward the same
 evaluative structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--09-wa-desalination.webp" width="900" height="1100" alt="Two panels. Distillation: salt water is heated, vapour passes into a cooled pipe where it condenses, and fresh water collects while salt stays behind. Reverse osmosis: high pressure pushes salty water against a membrane so that water passes to the fresh side and salt stays. A note says to weigh cost and energy use against water security." loading="lazy">
+  <figcaption>Distillation boils and condenses; reverse osmosis uses pressure and a membrane.</figcaption>
+</figure>
 
 ## Command words for this topic
 
@@ -212,6 +267,11 @@ Learning the four-stage sequence in strict order, rather than as an
 unordered list, is what makes "which stage comes before/after X"
 questions and diagram-labelling questions straightforward rather than
 a guessing exercise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--08-wa-treatment.webp" width="900" height="1100" alt="Four rows in order: screening (bars hold back debris), sedimentation (particles settle in a tank), filtration (water passes down through sand and gravel) and chlorination (chlorine added), ending with potable water from a tap." loading="lazy">
+  <figcaption>Water is treated in four stages: screening, sedimentation, filtration and chlorination.</figcaption>
+</figure>
 
 ## Exam traps
 

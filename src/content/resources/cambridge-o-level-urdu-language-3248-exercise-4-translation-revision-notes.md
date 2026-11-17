@@ -43,10 +43,20 @@ the full method and an annotated translation are in the
 - **W4**: Urdu punctuation and spelling.
 - **W5**: the tone and register of the original.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--01-objectives.webp" width="900" height="680" alt="Exercise 4 is a translation of about 150 words from English into Urdu for 15 marks, testing W1 to W5: every idea present, links kept as Urdu connectives, accurate grammar and word order, Urdu punctuation and spelling, and the original tone." loading="lazy">
+  <figcaption>Every idea, accurately, in natural Urdu and the right tone.</figcaption>
+</figure>
+
 ## Word order
 
 English **S V O** → Urdu **S O V**. Postpositions follow nouns. Time and place usually come early:
 *We met him at the station yesterday* → *ہم کل اسٹیشن پر اس سے ملے۔*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--02-word-order.webp" width="900" height="622" alt="The English sentence &quot;She gave the book to her brother&quot; (subject, verb, object) becomes اس نے کتاب اپنے بھائی کو دی۔ (subject, object, verb), with the verb moved to the end and کو after the noun. میں گیا بازار کل keeps English order and is wrong." loading="lazy">
+  <figcaption>Subject, object, verb: move the verb to the end of the Urdu sentence.</figcaption>
+</figure>
 
 ## Tense map
 
@@ -63,6 +73,11 @@ English **S V O** → Urdu **S O V**. Postpositions follow nouns. Time and place
 | future | کرے گا |
 | would (conditional) | کرتا / کرے گا (with اگر ... تو) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--03-tense-and-aspect.webp" width="900" height="851" alt="Six English tenses with their Urdu equivalents, from the habitual جاتا ہوں and continuous جا رہا ہوں to the perfect کر لیا ہے or کر چکا ہوں, the pluperfect جا چکا تھا and the habitual past کھیلا کرتا تھا. &quot;I have been learning Urdu for two years&quot; becomes میں دو سال سے اردو سیکھ رہا ہوں۔" loading="lazy">
+  <figcaption>Translate what the tense means; &quot;for two years&quot; becomes دو سال سے with a continuous present.</figcaption>
+</figure>
+
 ## Articles
 
 | English | Urdu |
@@ -71,6 +86,11 @@ English **S V O** → Urdu **S O V**. Postpositions follow nouns. Time and place
 | a / an (new, one) | ایک |
 | some | کچھ |
 | any (questions, negatives) | کوئی |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--04-articles-gender-register.webp" width="900" height="842" alt="Three changes. &quot;The&quot; is not translated and &quot;a&quot; becomes ایک only for something new (ایک آدمی نے دروازہ کھٹکھٹایا، دروازہ کھلا تھا). Gender must be chosen: پرانا مکان but پرانی عمارت. Register: تم to a friend, آپ to a teacher, and میرے دادا کہتے ہیں rather than کہتا ہے." loading="lazy">
+  <figcaption>English gives no help with gender or respect: decide both, then keep them consistent.</figcaption>
+</figure>
 
 ## Gender check
 
@@ -97,6 +117,11 @@ Pick the noun, know its gender, then make every adjective, *کا/کی/کے* and 
 | at the last minute | عین وقت پر |
 | to make up one's mind | فیصلہ کرنا |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--05-idioms.webp" width="900" height="604" alt="Three English idioms rendered by meaning: &quot;It was raining cats and dogs&quot; as موسلا دھار بارش ہو رہی تھی, &quot;I am over the moon&quot; as میں بے حد خوش ہوں, and &quot;He kept his word&quot; as اس نے اپنا وعدہ پورا کیا." loading="lazy">
+  <figcaption>Translate what the idiom means, never its words.</figcaption>
+</figure>
+
 ## Six-step process
 
 Read all → mark difficulties → translate sentence by sentence → no gaps (paraphrase unknown words) →
@@ -104,6 +129,11 @@ read the Urdu alone → check names, numbers, punctuation.
 
 Ordinals agree in gender (*دوسری بار*، *پہلا دن*); days take *کو* (*پیر کو*); clock times take *بجے*
 (*پانچ بجے*). Names of people and places are written in Urdu script, never translated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--06-exam-process.webp" width="900" height="758" alt="Six steps: read the whole passage for meaning and tone, mark difficulties, translate sentence by sentence, never leave a gap, read the Urdu on its own to check it sounds natural and agrees, and finally check names, numbers and punctuation." loading="lazy">
+  <figcaption>A paraphrase keeps the meaning; a blank loses it.</figcaption>
+</figure>
 
 ## Literal versus natural
 
@@ -124,6 +154,11 @@ Notice how often natural Urdu uses *مجھے ... ہے / لگ رہا ہے* where 
 - **passive** → keep only if natural (*منسوخ کر دیا گیا*); otherwise make active.
 - **long English sentences** → split into two Urdu sentences if the verb would come too late to be
   clear.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-4-translation--08-punctuation-and-structures.webp" width="900" height="668" alt="English full stops, commas and question marks become ۔، and ؟. Days and times: پیر کو، پانچ بجے، 2025 میں. &quot;There is a park near my house&quot; becomes میرے گھر کے قریب ایک پارک ہے۔: place, then the thing, then ہے." loading="lazy">
+  <figcaption>Swap the punctuation, and build &quot;there is&quot; as place, thing, ہے.</figcaption>
+</figure>
 
 ## Key terms
 

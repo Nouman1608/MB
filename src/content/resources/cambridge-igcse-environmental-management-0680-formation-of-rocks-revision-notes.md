@@ -45,6 +45,16 @@ These notes condense sub-topic 1.1 for final revision. For full explanations and
 
 Memory pairs: **limestone → marble** and **shale → slate**. Granite and basalt differ only in **where** and **how fast** they cooled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--01-granite-basalt.webp" width="900" height="715" alt="Cross-section of a volcano. Magma deep underground cools slowly and forms granite; lava flowing over the surface cools quickly and forms basalt. Close-ups show granite with large, pale interlocking crystals and basalt with tiny dark crystals." loading="lazy">
+  <figcaption>Slow cooling underground gives coarse granite; fast cooling at the surface gives fine basalt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--03-metamorphic-pairs.webp" width="900" height="630" alt="Two rows. Limestone, with grains and a fossil, is changed by heat into marble with interlocking crystals. Shale, in fine layers, is changed by pressure into slate, whose minerals line up so it splits into thin sheets. Neither melts." loading="lazy">
+  <figcaption>Heat turns limestone into marble; pressure turns shale into slate.</figcaption>
+</figure>
+
 ## The eight rock cycle processes, in the order they usually act
 
 1. **Weathering**: rock breaks down in place (physical, chemical or biological).
@@ -64,6 +74,11 @@ Memory pairs: **limestone → marble** and **shale → slate**. Granite and basa
 
 Steps 1 to 7 make sedimentary rock. Step 8 makes igneous rock. Heat and pressure (no melting) make metamorphic rock; full melting returns rock to magma.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--02-sedimentary-sequence.webp" width="900" height="636" alt="Five panels in order: weathering breaks rock down in place; erosion and transportation carry fragments away; deposition and sedimentation build layers; compaction squeezes out water; cementation glues the particles together. Below, limestone forms from shells in warm shallow seas, sandstone from sand grains, and shale from fine mud in calm water." loading="lazy">
+  <figcaption>Weathering, erosion, transport, deposition, sedimentation, compaction, cementation: in that order.</figcaption>
+</figure>
+
 ## Reading a rock cycle diagram
 
 - Arrow **from magma or lava to a rock**: crystallisation (igneous).
@@ -72,6 +87,11 @@ Steps 1 to 7 make sedimentary rock. Step 8 makes igneous rock. Heat and pressure
 - Arrow **from rock deep underground to metamorphic rock**: heat and pressure.
 - Arrow **from any rock back to magma**: melting.
 - The cycle branches: igneous rock can be weathered straight to sediment without becoming metamorphic first.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--04-rock-cycle.webp" width="900" height="665" alt="Rock cycle diagram. Magma or lava crystallises into igneous rock. Igneous and metamorphic rock are weathered, eroded and transported to form sediment, which becomes sedimentary rock through deposition, sedimentation, compaction and cementation. Heat and pressure change sedimentary rock into metamorphic rock, which can melt back into magma." loading="lazy">
+  <figcaption>Read each arrow: out of magma is crystallisation; surface rock to sediment is weathering and erosion.</figcaption>
+</figure>
 
 ## Permeability
 
@@ -85,6 +105,16 @@ Steps 1 to 7 make sedimentary rock. Step 8 makes igneous rock. Heat and pressure
 | | Reason: interlocking crystals, or tiny unconnected pores |
 
 **Why it matters later in the course:** permeable rocks store ground water (aquifers, 3.1); oil and gas move up through permeable rock until trapped beneath impermeable rock (1.4); gas locked inside impermeable shale needs fracking to release it (1.6).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--05-permeability.webp" width="900" height="596" alt="Three magnified rock textures. Sandstone has rounded grains with connected pore spaces, so water passes through. Shale has tiny unconnected pores and granite has interlocking crystals, so water cannot pass. Below are the definition of permeability and the classification of the seven named rocks." loading="lazy">
+  <figcaption>Permeable rock needs pore spaces that connect; shale is the sedimentary exception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-formation-of-rocks--06-permeability-test.webp" width="900" height="605" alt="Bar chart of water drained through four rock blocks in 5 minutes: sandstone 42 cm³ (8.4 cm³ per minute), limestone 30 cm³ (6.0 cm³ per minute), shale 2 cm³ and granite 0 cm³. A side note lists how to make the test fair." loading="lazy">
+  <figcaption>Rate = volume ÷ time; connected pores make sandstone the most permeable.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -43,6 +43,11 @@ For the full explanation, use the
 Closed book means you cannot take the texts into the exam, so learn short quotations and precise
 references.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--15-crime-unit-3-exam.webp" width="900" height="752" alt="The Unit 3 paper lasts 2 hours and is closed book. You write two essays of 25 marks each, one on each of your two texts chosen from the set list, so the time is about an hour for each essay. The paper is 30% of the International A-level and AO1, AO2 and AO3 are weighted equally in every question." loading="lazy">
+  <figcaption>Unit 3 is a closed-book, two-hour paper with one 25-mark essay on each of your two texts.</figcaption>
+</figure>
+
 ## Set texts
 
 | Author | Text |
@@ -81,6 +86,21 @@ religious or moral laws. Elements to explore, depending on the text:
 | Language of the created world | What register or idiom defines it? |
 | Crime writing as social comment | What does it say about its society and period? |
 | Effects on readers | Suspense, repugnance, excitement, relief |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--17-two-stories.webp" width="900" height="830" alt="Two rows of five numbered boxes. The top row is the crime story in the order it happened, boxes 1 to 5, with box 2 highlighted as the key fact. The bottom row is the investigation as the reader meets it, in the order 3, 1, 4, 5, 2. Lines join each event to the place where the reader learns it, crossing because the writer controls the order of information, so the key fact is revealed last. The order is illustrative." loading="lazy">
+  <figcaption>The writer controls the order in which the reader meets the events of the past crime.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--18-puzzle-or-irony.webp" width="900" height="830" alt="Top panel: with delayed revelation the culprit or key fact is withheld, shown as a closed box with a question mark, so the reader is kept guessing and the effect is a puzzle. Bottom panel: with dramatic irony the reader can see the danger in an open box while a character walks toward it unaware, so the reader knows more than the character, which creates tension rather than puzzle." loading="lazy">
+  <figcaption>Delayed revelation keeps the reader guessing, while dramatic irony gives the reader more knowledge than a character, which creates tension.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide--19-setting-suspects.webp" width="900" height="910" alt="Top: a closed setting, drawn as a house with six people inside, limits the pool of suspects and increases tension. Bottom: a busy city, drawn as tall buildings above a crowd of many people, suggests anonymity and moral decay. The numbers of people are illustrative." loading="lazy">
+  <figcaption>Closed settings limit the pool of suspects and increase tension; busy cities suggest anonymity and moral decay.</figcaption>
+</figure>
 
 ## Assessment objectives (equal weighting)
 

@@ -49,6 +49,11 @@ Related: [Health psychology study guide](/resources/ib-ib-dp-psychology-health-p
 | Dispositional factors | Optimism, hardiness (Kobasa, 1979), Type A behaviour (Friedman and Rosenman) | Western Collaborative Group Study linked Type A to coronary heart disease; later work points to hostility |
 | Risk and protective factors | Risk: poverty, chronic stress, smoking. Protection: social support, self-efficacy | Cohen et al. (1997): people with more diverse social networks were less susceptible to a cold virus |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--04-hp-hbm.webp" width="900" height="880" alt="Five boxes on the left feed into a circle labelled will the person act. Perceived susceptibility, perceived severity and perceived benefits each have a plus sign. Perceived barriers has a minus sign. Cues to action has an exclamation mark, meaning it prompts action." loading="lazy">
+  <figcaption>Five factors feed into whether a person acts on their health.</figcaption>
+</figure>
+
 ## Stress: explanations
 
 | Explanation | Key idea | Research |
@@ -58,6 +63,16 @@ Related: [Health psychology study guide](/resources/ib-ib-dp-psychology-health-p
 | Sociocultural | Social status and work conditions | Marmot et al. (Whitehall II): lower-grade civil servants had higher rates of ill health, linked to low job control |
 
 **Prevalence:** national surveys (for example the American Psychological Association's *Stress in America* surveys) report how commonly people experience stress, with differences by age, income and gender. Measurement relies on self-report, so cultural and response biases matter.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--02-hp-gas.webp" width="900" height="840" alt="Three boxes in order, each with a simple icon: stage 1 alarm (warning triangle), stage 2 resistance (shield), stage 3 exhaustion (nearly empty battery). Below, a short bar labelled short burst, adaptive, and a long bar labelled prolonged activation, linked with raised illness risk. A box notes that students sampled around exams showed lowered immune activity (Kiecolt-Glaser and colleagues)." loading="lazy">
+  <figcaption>Selye describes alarm, resistance and exhaustion; prolonged activation is linked with raised illness risk.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--03-hp-appraisal.webp" width="900" height="930" alt="A flow chart. One event leads to two people. Person A judges it a challenge in primary appraisal and has the resources to cope in secondary appraisal, so less stress. Person B judges it a threat and lacks the resources to cope, so more stress. This is an illustrative example of Lazarus and Folkman transactional model: stress depends on appraisal." loading="lazy">
+  <figcaption>Primary and secondary appraisal explain why two people react differently to the same event.</figcaption>
+</figure>
 
 ## If your school teaches addiction or obesity instead
 
@@ -77,6 +92,11 @@ The same three questions -- what explains it, how common is it and how can it be
 | Mass media and community | Anti-smoking "truth" campaign in the USA | Farrelly et al. (2005) associated it with part of the fall in youth smoking |
 
 Assessing effectiveness: controlled trials, follow-up periods, attrition, self-report outcomes, cost and whether effects last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-health-psychology-study-guide--06-hp-quit-rates.webp" width="900" height="800" alt="Bar chart from the lesson fictional data. Programme group: 56 of 400 smokers quit, 14 percent. Comparison group: 28 of 400, 7 percent. The difference is 7 percentage points, so the programme rate is 2 times the comparison rate. Three limits are shown: quitting was self-reported, groups were not randomly assigned, and follow-up was only six months." loading="lazy">
+  <figcaption>Quit rates of 14% and 7% give a 7 percentage point difference, but three limits stop us claiming cause.</figcaption>
+</figure>
 
 ## Worked example: applying the HBM
 

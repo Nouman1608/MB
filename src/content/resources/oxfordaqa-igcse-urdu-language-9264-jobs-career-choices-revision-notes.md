@@ -54,6 +54,11 @@ English-to-Urdu translation) and Paper 2 (Writing).
 | صبر | patience | |
 | ہنر / مہارت | skill | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--01-topic-map.webp" width="900" height="776" alt="Four strands of the topic, each with Urdu words: part-time work and work experience (جز وقتی ملازمت, کام کا تجربہ, گاہک), professions (ڈاکٹر, وکیل, صحافی), career choices (تنخواہ, ذمہ داری, محنتی) and ambitions (پیشہ, ہنر / مہارت, کاروبار)." loading="lazy">
+  <figcaption>Work now, professions, what matters in a job, and ambitions; study routes belong to Topic 3.</figcaption>
+</figure>
+
 ## Ambition: the core pattern
 
 Build it in this order, right to left on the page:
@@ -69,6 +74,11 @@ lawyer because I want to work for justice.)
 
 بننا = to become; بنانا = to make.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--02-banna-vs-banana.webp" width="900" height="716" alt="بننا means to become and بنانا means to make. میں ڈاکٹر بننا چاہتا ہوں and میں صحافی بننا چاہتی ہوں are correct; میں ڈاکٹر بنانا چاہتا ہوں means &quot;I want to make a doctor&quot;. An ambition then needs a reason with کیونکہ." loading="lazy">
+  <figcaption>بننا چاہنا for an ambition, with چاہتا or چاہتی to match the speaker, plus a reason.</figcaption>
+</figure>
+
 ## Work now and work then
 
 | Time | Example | Note |
@@ -77,6 +87,11 @@ lawyer because I want to work for justice.)
 | past habit | وہاں میں فون سنتی تھی۔ | no نے |
 | completed past | میں نے ایک دفتر میں کام کا تجربہ حاصل کیا۔ | نے; verb agrees with تجربہ |
 | what you learned | اس کام سے میں نے سیکھا ہے کہ ... | present perfect |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--03-work-time-frames.webp" width="900" height="800" alt="Four Urdu sentences: a present routine in an uncle’s shop, one past work-experience event with میں نے, repeated past tasks in the habitual past without نے (وہاں میں فون سنتی تھی), and a condition about becoming a doctor. میں نے فون سنتی تھی is wrong." loading="lazy">
+  <figcaption>Use نے for one completed transitive event, never for the habitual past.</figcaption>
+</figure>
 
 ## What matters in a job
 
@@ -97,6 +112,11 @@ lawyer because I want to work for justice.)
 2. What you learned from it.
 3. Your ambition with a reason.
 4. What matters to you in a job, or a condition for your plan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-jobs-career-choices--04-model-paragraph-anatomy.webp" width="900" height="664" alt="Four moves in the model answer, each with its Urdu frame: a present routine with جہاں, what was learned (اس کام سے میں نے سیکھا ہے کہ), an ambition with a reason (صحافی بننا چاہتا ہوں کیونکہ), and a priority comparison (سے زیادہ اہم یہ ہے کہ)." loading="lazy">
+  <figcaption>Routine, lesson learned, justified ambition, considered priority.</figcaption>
+</figure>
 
 ## Translation drill
 

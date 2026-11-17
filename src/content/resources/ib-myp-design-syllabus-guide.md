@@ -48,6 +48,11 @@ developed by the student. This cycle is not a one-off sequence followed
 once per year; it is the repeated structure every design project in the
 course is built around.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-design-cycle--01-design-cycle-and-criteria.webp" width="900" height="840" alt="A clockwise cycle of four stages, each assessed by one criterion: the problem stage (A, inquiring and analysing), the specification stage (B, developing ideas), the build stage (C, creating the solution) and the test stage (D, evaluating). The cycle is used for every project." loading="lazy">
+  <figcaption>Each criterion is one stage of the design cycle made assessable.</figcaption>
+</figure>
+
 ## Key and related concepts
 
 The framework is organised around key concepts of **communication,
@@ -90,6 +95,11 @@ not reach the standard described by level 1 -- so a single criterion's
 actual attainable range is 0-8, and the four-criterion subject total is
 0-32, not 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-syllabus-guide--02-framework-and-criteria.webp" width="900" height="854" alt="Key concepts communication, communities, development and systems, with related concepts such as adaptation, ergonomics, sustainability and innovation, explored through six global contexts. Work is assessed on four criteria: A inquiring and analysing, B developing ideas, C creating the solution and D evaluating, each scored 0 to 8 for a total of 0 to 32." loading="lazy">
+  <figcaption>Concepts and contexts frame the work; four criteria, each 0 to 8, assess it.</figcaption>
+</figure>
+
 ## MYP eAssessment: the ePortfolio
 
 Students seeking IB-validated design course results demonstrate their
@@ -110,6 +120,11 @@ standards -- so classroom marking is not the final word on a student's
 result. This moderation process is what makes an MYP-validated design
 result comparable across different schools and countries, despite the
 subject's inherently open-ended, project-based nature.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-syllabus-guide--03-eportfolio-route.webp" width="900" height="683" alt="Four steps: start from a design situation and work through to an evaluated solution; submit a complete design folder with brief and specification, assessed as product, digital or combined design; the classroom teacher marks it against the year 5 criteria; and the IB moderates a sample from every school, adjusting grades as needed." loading="lazy">
+  <figcaption>Classroom marking is not the final word: the IB moderates a sample.</figcaption>
+</figure>
 
 ## How to approach it
 

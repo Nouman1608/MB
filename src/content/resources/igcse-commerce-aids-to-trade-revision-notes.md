@@ -68,6 +68,11 @@ music, celebrity and influencer endorsement.
 sponsorship, displays, competitions, coupons, sales periods, loss leaders, free gifts, free samples.
 Choice depends on business type, competitors, cost, nature of product, new or old product, and timing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--01-ad-purposes-types.webp" width="900" height="880" alt="A megaphone next to the four purposes of advertising: inform, persuade, remind, build brand image. Below, four cards show the types: informative, persuasive, collective and competitive, each with its main risk." loading="lazy">
+  <figcaption>Advertising has four purposes and comes in four types, each with a risk.</figcaption>
+</figure>
+
 ## 5.2 Banking
 
 | Category | Services |
@@ -82,6 +87,11 @@ fraud and hacking, need for devices and internet, and exclusion of some older or
 **Impact**: bank branch closures; more digital-only banks; less use of cash (a move towards a cashless
 society).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--02-standing-order-vs-direct-debit.webp" width="900" height="910" alt="Two panels. In the standing order panel, a payer sends money to a business, and three monthly bars are all the same height. In the direct debit panel, the receiver collects the money and the three monthly bars have different heights." loading="lazy">
+  <figcaption>A standing order is a fixed amount set by the payer; a direct debit is collected by the receiver and can vary.</figcaption>
+</figure>
+
 ## 5.3 Insurance
 
 - **Purposes**: risk reduction; compensation; financial protection; business confidence; investment.
@@ -95,6 +105,21 @@ society).
 
 **Premium calculation.** Premium = value insured x rate. A shop insures stock worth $80 000 at $1.50 per
 $100: 80 000 / 100 x 1.50 = **$1 200** a year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--03-insurance-pooling.webp" width="900" height="810" alt="Twenty people each pay a premium into a common fund of 2,000 dollars. Two of them, marked with a warning badge, have a loss. The fund pays their two claims of 900 dollars each, 1,800 dollars in total, and 200 dollars remains for the insurer’s costs." loading="lazy">
+  <figcaption>Pooling of risk: many small premiums pay for the few who lose (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--04-insurance-documents.webp" width="900" height="880" alt="Three document icons in order: the proposal form (the application), the cover note (temporary proof of insurance) and the policy (the full contract). Below, a customer talks to a broker, who compares several insurers; the broker is paid commission by the insurer." loading="lazy">
+  <figcaption>Proposal form, then cover note, then policy; a broker compares insurers for the customer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--05-premium-example.webp" width="900" height="680" alt="A chain of three boxes: 64,000 dollars of stock divided by 100 gives 640 units, multiplied by 1.25 dollars per 100 gives a premium of 800 dollars. A bar chart compares the 800 dollar premium with the 640 dollar premium after sprinklers are fitted, a saving of 160 dollars." loading="lazy">
+  <figcaption>Premium = (value insured / 100) x rate per $100: $800 falls to $640 when the rate drops to $1.00.</figcaption>
+</figure>
 
 ## 5.4 Finance and commercial performance
 
@@ -124,6 +149,16 @@ $1 100. Mark-up = (12 - 8) / 8 x 100 = 50%.
 
 **Improving performance**: reduce expenses; increase mark-up; change prices; improve advertising; introduce
 new products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--06-profit-waterfall.webp" width="900" height="780" alt="A step chart. A tall bar for revenue of 9,600 dollars drops by cost of sales of 6,000 dollars to gross profit of 3,600 dollars, which drops by expenses of 1,500 dollars to net profit of 2,100 dollars. Two boxes below show gross profit margin 37.5 percent and working capital 3,500 dollars." loading="lazy">
+  <figcaption>Revenue falls to gross profit after cost of sales, then to net profit after expenses.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide--07-markup-vs-margin.webp" width="900" height="790" alt="A bar showing a $24 selling price split into $15 cost and $9 profit. Below it, the $9 profit fills 60 percent of a bar the length of the cost, and 37.5 percent of a bar the length of the selling price." loading="lazy">
+  <figcaption>Mark-up is measured on cost, margin on selling price, so mark-up is the larger percentage.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -40,6 +40,11 @@ practise with the [Cultural and historical background practice questions](/resou
 - **Key Question 4:** How important was the work of Sir Syed Ahmad Khan to the development of the Pakistan Movement during the 19th century?
 - **Key Question 5:** To what extent have Urdu and regional languages contributed to the cultural development of Pakistan since 1947?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--01-pk-three-sections.webp" width="900" height="580" alt="A horizontal timeline from before 1906 to 1999 with three blocks. Section 1.1, the cultural and historical background, comes before 1906. Section 1.2, the emergence of Pakistan, runs from the 1906 founding of the All-India Muslim League to independence in 1947, a span of 41 years. Section 1.3, nationhood, runs from 1947 to 1999, 52 years. A reminder says to tie every event back to the cultural roots in section 1.1." loading="lazy">
+  <figcaption>Paper 1 moves in time order from the background before 1906 to nationhood from 1947 to 1999.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -65,6 +70,11 @@ practise with the [Cultural and historical background practice questions](/resou
 
 **Judgement pattern:** each succeeded more in reviving Muslim religious identity than in achieving
 political goals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--02-pk-roots.webp" width="900" height="1190" alt="Panel A shows religious revival before 1906: Shah Waliullah’s Persian translation of the Qur’an made scripture accessible to a wider audience, and Syed Ahmad Barelvi built on this with a more organised movement, so Muslim identity did not begin with the Muslim League in 1906. Panel B shows a chain: Mughal authority declines, creating a political vacuum, then British expansion, then British colonial rule. The decline and the British consolidation are connected facts." loading="lazy">
+  <figcaption>Religious revival and the Mughal decline both predate 1906 and form the roots of the movement.</figcaption>
+</figure>
 
 ## Key Question 2: why the Mughal Empire declined
 

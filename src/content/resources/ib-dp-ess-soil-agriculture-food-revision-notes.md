@@ -60,6 +60,11 @@ Links: [ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) �
 
 **Soil formation factors:** parent material, climate, organisms, relief, time. Formation is very slow, so soil is effectively non-renewable on a human timescale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--01-soil-profile-system.webp" width="900" height="770" alt="A soil profile with O, A, B and C horizons over bedrock. Inputs of leaf litter, rain, sunlight, gases and weathered rock enter; outputs of evaporation, respiration gases, plant uptake, erosion and leaching leave. A key separates transfers such as percolation and leaching from transformations such as decomposition, humification and weathering." loading="lazy">
+  <figcaption>Leaching moves nutrients without changing them: it is a transfer, not a transformation.</figcaption>
+</figure>
+
 ## Texture — must-know table
 
 | | Sand | Clay | Loam |
@@ -71,6 +76,11 @@ Links: [ESS course hub](/boards/ib/ib-dp/environmental-systems-and-societies/) �
 | Primary productivity | Low | Medium (drainage limits) | Highest |
 
 Use a soil texture triangle to turn three percentages into a class. The three percentages must add up to 100.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--02-soil-texture.webp" width="900" height="700" alt="Close-ups of sandy soil with large particles and pores, clay soil with tiny packed particles, and loam with a mix. Rows compare them: sand drains fast but holds little water or nutrients; clay holds water and nutrients but drains slowly and waterlogs; loam combines good drainage with medium to high retention and usually has the highest productivity." loading="lazy">
+  <figcaption>Loam combines the drainage of sand with the retention of clay.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -97,6 +107,11 @@ Use a soil texture triangle to turn three percentages into a class. The three pe
 
 Small reminder: a field losing 24.0 t/ha/yr of soil with bulk density 1.2 t/m³ loses 24.0 ÷ 10 000 ÷ 1.2 = 0.002 m, or 2.0 mm, each year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--03-soil-sample-water-organic.webp" width="900" height="610" alt="A 32.0 g fresh soil sample weighs 25.0 g after oven drying (7.0 g of water lost) and 23.6 g after ignition (1.4 g of organic matter lost). Water content is 7.0 ÷ 32.0 × 100 = 21.9% of fresh mass; organic matter is 1.4 ÷ 25.0 × 100 = 5.6% of dry mass." loading="lazy">
+  <figcaption>Divide water by fresh mass but organic matter by dry mass, and say which you used.</figcaption>
+</figure>
+
 ## Degradation and conservation — cause → fix
 
 | Problem | Main causes | Matching conservation methods |
@@ -109,6 +124,16 @@ Small reminder: a field losing 24.0 t/ha/yr of soil with bulk density 1.2 t/m³ 
 | Acidification | Some fertilisers, acid deposition | Lime |
 
 Every conservation method should be linked to a mechanism: slows water, slows wind, covers the surface, or restores organic matter and nutrients.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--04-soil-degradation.webp" width="900" height="755" alt="Left: salinization, where irrigation water evaporates in a hot, dry climate and leaves salts at the surface until crops cannot take up water. Right: a loss of 24.0 t per hectare per year at a bulk density of 1.2 t per cubic metre equals 2.0 mm of soil a year, or 50 mm over 25 years. Below: the six main forms of degradation." loading="lazy">
+  <figcaption>Soil is lost far faster than it forms, so degradation is hard to reverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--05-soil-conservation.webp" width="900" height="620" alt="Three groups of methods. Slowing water or wind: contour ploughing, terracing and windbreaks. Keeping the surface covered: cover crops and mulching, reduced or no-till, controlled grazing. Maintaining organic matter and nutrients: crop rotation with legumes, compost and manure, plus lime for acidity and drip irrigation against salinization." loading="lazy">
+  <figcaption>Each method slows water or wind, covers the soil, or keeps organic matter and nutrients.</figcaption>
+</figure>
 
 ## Agriculture and food
 
@@ -127,6 +152,16 @@ Every conservation method should be linked to a mechanism: slows water, slows wi
 **Impacts of intensive farming:** habitat loss and biodiversity decline; eutrophication from fertiliser runoff; pesticide harm to non-target species; methane (cattle, rice paddies), nitrous oxide (fertilised soils) and carbon dioxide (machinery, clearance); water depletion; soil degradation.
 
 **Sustainable strategies:** cut waste; plant-rich diets; crop rotation and polyculture; integrated pest management; agroforestry; precision farming; soil conservation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--06-people-fed-per-hectare.webp" width="900" height="725" alt="One hectare of cereal gives 40 150 MJ of food energy a year. Eaten directly it feeds 10 people at 4015 MJ each a year. Fed to livestock, only about 10% (4015 MJ) passes on, feeding 1 person; the rest is lost as heat." loading="lazy">
+  <figcaption>Adding a trophic level loses about 90% of the energy, so plant-rich diets need less land.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-soil-agriculture-food--07-food-waste-supply-chain.webp" width="900" height="675" alt="Two rows along a supply chain from field to storage, transport, shops and homes. In lower-income countries the largest losses are early, in the field, storage and transport, because of pests, poor storage and weak cold chains. In higher-income countries most waste is late, in shops and homes, because of cosmetic standards, large portions and over-buying." loading="lazy">
+  <figcaption>Poorer countries lose food early in the chain; richer countries waste it late.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

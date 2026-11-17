@@ -105,6 +105,11 @@ your content, which is why every section you study must be revised
 fully. See the
 [HL options study guide](/resources/ib-ib-dp-world-history-hl-options-depth-studies-study-guide/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-syllabus-guide--01-paper-3-funnel.webp" width="900" height="774" alt="HL students study one of four regional options and three of its eighteen sections. Paper 3 sets two questions on each section, 36 in all; about six fall on the three sections studied, and students answer three. Paper 3 is worth 35% at HL." loading="lazy">
+  <figcaption>Only about six questions will be on your sections, so revise all three fully.</figcaption>
+</figure>
+
 ## What is the internal assessment? (20 hours, SL and HL)
 
 The **historical investigation** is a written piece of up to 2,200
@@ -121,6 +126,11 @@ It is marked out of 25 by the teacher and moderated by the IB, and is
 worth 25% at SL and 20% at HL. See the
 [historical investigation study guide](/resources/ib-dp-history-investigation-ia/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-syllabus-guide--02-investigation-sections.webp" width="900" height="626" alt="A bar of 25 marks split into three sections: identification and evaluation of sources, 6 marks; investigation, 15 marks; reflection, 4 marks. The investigation is up to 2,200 words on a topic of the student’s choice, marked by the teacher and moderated by the IB, and worth 25% at SL and 20% at HL." loading="lazy">
+  <figcaption>The investigation section carries 15 of the 25 marks.</figcaption>
+</figure>
+
 ## How should you use this syllabus?
 
 Start by writing down your own prescribed subject, your two world
@@ -130,6 +140,11 @@ Paper 2 (world history topics, 45% SL / 25% HL), Paper 3 (HL options,
 35% HL). At HL, Paper 3 carries more weight than any other single
 component, so give your three regional sections at least as much
 revision time as your two world history topics.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-syllabus-guide--03-components-and-weightings.webp" width="900" height="750" alt="The prescribed subject (one of five, 40 hours) is assessed in Paper 1, worth 30% at SL and 20% at HL; two world history topics (90 hours) in Paper 2, 45% and 25%; the HL regional option (90 hours) in Paper 3, 35% at HL; and the historical investigation (20 hours) as internal assessment, 25% and 20%." loading="lazy">
+  <figcaption>At HL, Paper 3 carries more weight than any other single component.</figcaption>
+</figure>
 
 ## What changes for first exams in 2028?
 
@@ -155,6 +170,11 @@ contexts:
 The new course also uses four paired concepts (cause and consequence,
 continuity and change, perspectives, significance) instead of the six
 key concepts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-history-syllabus-guide--04-current-vs-2028.webp" width="900" height="670" alt="Side-by-side rows compare the course examined until 2027 with the course first assessed in May 2028: the prescribed subject becomes a 50-hour focused study, the world history topics become an 80-hour thematic study, the 90-hour HL regional option becomes a 90-hour regional study, the 20-hour investigation loses its separate reflection, and six key concepts become four paired concepts." loading="lazy">
+  <figcaption>The 2028 course reshapes every component; it does not affect exams in 2027 or earlier.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -37,6 +37,11 @@ the [19th-century novel study guide](/resources/aqa-gcse-english-literature-8702
 | Split in AQA mark schemes | AO1 12, AO2 12, AO3 6 |
 | Book | Closed: references to the rest of the novel come from memory |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--01-marks-and-time.webp" width="900" height="530" alt="A bar splits the 30 marks into AO1 12, AO2 12 and AO3 6, with no separate AO4 marks. Two linked cards show the two bullets: the printed extract, then the novel as a whole. A second bar shows Paper 1’s 64 marks: 34 for Section A and 30 for Section B, so Section B needs close to half the time." loading="lazy">
+  <figcaption>Thirty marks for one extract-to-whole-novel answer, worth close to half of Paper 1.</figcaption>
+</figure>
+
 ## Core recall
 
 - **Narrator first.** Every sentence in a novel comes through a voice. Identify who narrates, how much
@@ -51,6 +56,16 @@ the [19th-century novel study guide](/resources/aqa-gcse-english-literature-8702
   meaning for the novel's first readers or for us.
 - **Name the writer.** Write "the writer presents..." or use the author's surname, not "the book
   says".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--02-play-vs-novel.webp" width="900" height="468" alt="Two panels. In a play, the text reaches the audience through actors. In a novel, it reaches the reader through a narrator. Below, four chips say the narrator’s voice selects, describes, judges and withholds." loading="lazy">
+  <figcaption>A novel is mediated by a narrator, which gives you methods drama does not have.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--13-p1-novel-trace.webp" width="900" height="910" alt="A rising line connects five quotation tokens numbered in the order they appear in the novel, from start to end, to show a theme or character developing. One token is ringed with a cross as analysing a single scene in isolation. A note advises ordering the quotation bank in novel order, not by theme alone." loading="lazy">
+  <figcaption>Tracking development across the whole novel outperforms analysing a single scene.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -69,6 +84,11 @@ the [19th-century novel study guide](/resources/aqa-gcse-english-literature-8702
 | Serialisation | Publication in instalments | Cliffhangers, episodic structure |
 | Epistolary | Told through letters or documents | Multiple viewpoints, gaps in knowledge |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--03-narrative-voice.webp" width="900" height="617" alt="Four cards give questions for first-person narrators, third-person narrators, free indirect style, and multiple narrators or documents. Below, a younger self who experiences events and an older narrator who tells them are separated by a gap in which the narrator can foreshadow, regret or correct." loading="lazy">
+  <figcaption>Ask who tells the story, what they know and how far to trust them.</figcaption>
+</figure>
+
 ## Planning in five minutes
 
 1. Underline the focus word in the question and read the extract's introductory line.
@@ -84,6 +104,16 @@ the [19th-century novel study guide](/resources/aqa-gcse-english-literature-8702
 - Analysis of a method: narrative voice, word choice, imagery, sentence shape, structure.
 - The effect on the reader, with an alternative reading if one is credible.
 - Development: how this moment connects to another point in the novel.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--04-sentence-level.webp" width="900" height="700" alt="A long sentence drawn as a chain of clauses ends in a short gold block labelled lands with force. Below, a table lists features to analyse: semantic fields, pathetic fallacy, contrasts, dialogue and narratorial comment." loading="lazy">
+  <figcaption>Long sentences can overwhelm; a short one after them lands with force.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-b-the-19th-century-novel--05-novel-structure.webp" width="900" height="634" alt="Three effects of publication in instalments: suspenseful chapter endings, parallel scenes and characters who reappear with situations reversed. Below, four structural patterns are sketched: a journey, a rise and fall, a secret slowly revealed, and an ending that mirrors the beginning." loading="lazy">
+  <figcaption>Look for the novel’s overall shape and where your extract sits in it.</figcaption>
+</figure>
 
 ## Exam traps
 

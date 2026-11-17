@@ -71,6 +71,11 @@ From the **bottom to the top** of the column, the fractions have:
 | Boiling point | lower |
 | Viscosity | lower |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--01-fractional-distillation.webp" width="900" height="1000" alt="A fractionating column is hotter at the bottom and cooler at the top, with crude oil entering near the bottom. Eight fractions leave at different heights: refinery gas, gasoline, naphtha, kerosene, diesel oil, fuel oil, lubricating oil and bitumen, each with its use. Going up, chains get shorter, boiling points lower, fractions more volatile and less viscous." loading="lazy">
+  <figcaption>Fractions leave the column at different heights; shorter chains with lower boiling points rise higher.</figcaption>
+</figure>
+
 ### Fractions and their uses (learn the syllabus list)
 
 | Fraction | Use |
@@ -107,6 +112,16 @@ the activation energy, Eₐ. At this level, only **monosubstitution** is needed:
 The products are **chloromethane** and **hydrogen chloride**. In the displayed formula of CH₃Cl, one of the
 four H atoms around the carbon is replaced by Cl.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--02-alkane-alkene-structure.webp" width="900" height="830" alt="Displayed formulae of ethane and ethene. Ethane has only single bonds, so it is saturated, general formula CnH2n+2 (C2H6). Ethene has a C=C double bond, so it is unsaturated, general formula CnH2n (C2H4). Every carbon makes four bonds." loading="lazy">
+  <figcaption>Ethane has only single bonds; ethene has a C=C double bond.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--04-chlorine-substitution.webp" width="900" height="950" alt="Methane reacts with chlorine in UV light. One hydrogen atom of methane is replaced by one chlorine atom, giving chloromethane and hydrogen chloride. Only one hydrogen is replaced (monosubstitution). It is substitution because nothing adds across a bond." loading="lazy">
+  <figcaption>In UV light one H of methane is swapped for one Cl: CH4 + Cl2 gives CH3Cl + HCl.</figcaption>
+</figure>
+
 ## Alkenes (11.5)
 
 - General formula **CₙH₂ₙ** (ethene C₂H₄, propene C₃H₆).
@@ -126,6 +141,11 @@ four H atoms around the carbon is replaced by Cl.
   and less demand for the longer ones. Cracking converts the surplus.
 - It makes **alkenes**, which are used to make polymers and other chemicals, and **hydrogen**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--03-cracking.webp" width="900" height="1050" alt="A ten-bead chain, decane C10H22, passes into a cracking vessel that needs high temperature and a catalyst. Out come octane C8H18, a shorter alkane, and ethene C2H4, an alkene. Atoms balance: 10 C and 22 H on both sides. Cracking is done because short chains and alkenes are in higher demand than distillation supplies." loading="lazy">
+  <figcaption>Heat and a catalyst crack decane into octane and ethene.</figcaption>
+</figure>
+
 ### Test for unsaturation
 
 Shake the hydrocarbon with **aqueous bromine** (bromine water, orange):
@@ -134,6 +154,11 @@ Shake the hydrocarbon with **aqueous bromine** (bromine water, orange):
 |---|---|
 | Alkene (unsaturated) | **decolourises**: orange to colourless |
 | Alkane (saturated) | **no change**: stays orange |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--05-bromine-water-test.webp" width="900" height="1030" alt="Two rows of test tubes. Orange bromine water shaken with an alkane (ethane) stays orange. Shaken with an alkene (ethene) it turns colourless, because bromine adds across the C=C double bond." loading="lazy">
+  <figcaption>Alkane: stays orange. Alkene: orange to colourless.</figcaption>
+</figure>
 
 ### Addition reactions *(0620 Extended, 5070 required)*
 
@@ -152,6 +177,11 @@ join the two carbon atoms.
 
 In displayed formulae, the product has **single bonds only**: each carbon keeps its hydrogens and gains one
 of the added atoms or groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/petroleum-alkanes-and-alkenes--06-alkene-addition.webp" width="900" height="1060" alt="Ethene reacts by addition three ways. With bromine it gives 1,2-dibromoethane, with hydrogen (nickel catalyst) it gives ethane, and with steam (acid catalyst) it gives ethanol. The C=C bond becomes single and the added atoms, highlighted, attach to the two carbons. Only one product forms each time." loading="lazy">
+  <figcaption>Ethene adds Br2, H2 or H2O across C=C to give one product each.</figcaption>
+</figure>
 
 ## Exam traps
 

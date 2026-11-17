@@ -48,6 +48,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 | Attenuation | Weakening of a signal over distance |
 | Checksum | Value calculated from data to detect errors |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--01-lan-wan-client-server.webp" width="900" height="690" alt="Two LANs, a school and an office, each with a server and client computers, joined by a WAN that spans large distances over infrastructure often leased from telecoms providers. Below, a client requests a service and a server provides it, such as files, web pages or addresses." loading="lazy">
+  <figcaption>A LAN covers one site; a WAN links LANs over distance, and the internet is the largest WAN.</figcaption>
+</figure>
+
 ## Devices: what they read and where they sit
 
 | Device | Reads or handles | Layer (typical) | One-line role |
@@ -60,6 +65,16 @@ The exact learning outcomes are in the full DP guide held by your school.
 | Gateway | Different protocols | Internet (often several) | Connects networks that use different protocols |
 | Hardware firewall | IP addresses, ports, sometimes content | Internet / transport | Allows or blocks traffic by rules |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--02-devices-and-layers.webp" width="900" height="732" alt="Devices placed in TCP/IP layers by what they read. In the network interface layer, which reads MAC addresses: NIC, switch, wireless access point and modem. In the internet layer, which reads IP addresses: the router, and often the gateway, which may span several layers. The hardware firewall spans the internet and transport layers, filtering by IP addresses and port numbers." loading="lazy">
+  <figcaption>A device’s layer follows from what it reads: MAC addresses, IP addresses or port numbers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--08-loading-a-web-page.webp" width="900" height="726" alt="A laptop on the school Wi-Fi reaches a web server through a wireless access point, firewall, router and modem, then routers across the internet. Six steps: DHCP gives the laptop an IP address, the browser sends an HTTPS request, TCP splits it into segments, the firewall checks it and the router forwards it through the modem, internet routers forward packets by IP address, and TCP reassembles the reply." loading="lazy">
+  <figcaption>Every device and protocol in A.2 plays a part in one page request.</figcaption>
+</figure>
+
 ## Protocols compared
 
 | Protocol | Layer | Key feature | Typical use |
@@ -69,6 +84,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 | HTTP | Application | Request and response for web resources | Web browsing |
 | HTTPS | Application | HTTP with TLS encryption and certificates | Logins, payments, any private data |
 | DHCP | Application | Assigns IP address and settings automatically | Joining a network |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--03-protocols.webp" width="900" height="684" alt="TCP sets up a connection, numbers and acknowledges segments and resends a lost one, so data arrives complete and in order; it suits web pages, email and file transfer. UDP sends datagrams without acknowledgements or resending, so it is faster but may lose data; it suits live calls, games and streaming. HTTP fetches web pages, HTTPS adds TLS encryption and certificates, and DHCP hands out IP addresses." loading="lazy">
+  <figcaption>TCP trades speed for completeness; UDP trades completeness for speed.</figcaption>
+</figure>
 
 ## TCP/IP model (layer functions: HL only)
 
@@ -80,6 +100,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 **Reliability in one sentence:** IP delivers packets on a best-effort basis; TCP detects loss or damage
 and resends, so the application receives complete, ordered data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--04-encapsulation.webp" width="900" height="838" alt="An HL diagram of the four TCP/IP layers with their roles. Going down, data gains a transport header to become a segment, an IP header to become a packet and a frame header to become a frame; the receiver removes the headers on the way up. Reliability comes from TCP re-requesting segments that the best-effort internet layer loses or damages." loading="lazy">
+  <figcaption>Each layer adds its own header going down and strips it going up.</figcaption>
+</figure>
+
 ## Packet switching in five steps
 
 1. Data is split into packets.
@@ -90,11 +115,21 @@ and resends, so the application receives complete, ordered data.
 
 **Advantages:** efficient sharing of lines; rerouting around failures; scales to huge networks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--05-packet-switching.webp" width="900" height="728" alt="Each packet carries a header with source and destination addresses and a sequence number. Packets of one message travel independently through routers, each choosing the best available path, so they take different routes and arrive out of order (3, 1, 4, 2); the destination reassembles them as 1, 2, 3, 4 using the sequence numbers. Packet numbers are illustrative." loading="lazy">
+  <figcaption>Packets travel independently and are put back in order by sequence number.</figcaption>
+</figure>
+
 ## Bandwidth calculations
 
 - Convert bytes to bits: × 8.
 - Time (s) = data (bits) ÷ bandwidth (bits per second).
 - Example: 600 MB over 100 Mbps → 4,800 Mb ÷ 100 = 48 s at best.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--06-bandwidth-and-errors.webp" width="900" height="732" alt="A 50 MB file is 50 × 8 = 400 megabits; at a bandwidth of 20 Mbps it takes 400 ÷ 20 = 20 seconds at best, since congestion and overheads lower real speed. Common causes of errors are interference, attenuation, cable damage, congestion and wireless collisions; protocols respond with checksums and retransmission." loading="lazy">
+  <figcaption>Convert bytes to bits before dividing by the bandwidth.</figcaption>
+</figure>
 
 ## Causes of transmission error
 
@@ -105,6 +140,11 @@ wireless collisions. Responses: checksums to detect errors; acknowledgements and
 
 No central control; many independent networks agree on common protocols; routing around failures
 removes single points of failure, making the internet resilient and scalable but hard to regulate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2--07-decentralised-internet.webp" width="900" height="704" alt="Seven networks linked in a mesh; when one central network fails, packets are routed around it through the others. No single organisation controls the internet, there is no single point of failure, and the result is resilient and able to grow but harder to regulate." loading="lazy">
+  <figcaption>With no centre to fail, traffic finds another way round.</figcaption>
+</figure>
 
 ## Exam traps
 

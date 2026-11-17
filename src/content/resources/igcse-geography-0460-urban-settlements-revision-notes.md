@@ -79,6 +79,16 @@ migrants build **squatter settlements on the edge**, on steep slopes, floodplain
 railways and industry -- land that nobody else wanted. Industry often follows main roads out of the
 city rather than forming a ring. Be ready to say which type of city a land-use model fits, and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urban-settlements--02-city-models.webp" width="900" height="745" alt="Two schematic city models. High-income city: a central CBD ringed by inner city, suburbs and rural–urban fringe, with old industry by the river and railway and a modern estate on the edge; the wealthiest often live furthest out. Lower-income city: a CBD with high-income housing in a sector near it and along a main road, industry along main roads, and squatter settlements around the edge on land nobody else wants." loading="lazy">
+  <figcaption>In many lower-income cities the poorest live on the edge, not the wealthiest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--07-pop-land-use.webp" width="900" height="1010" alt="Concentric rings around a city centre, not to scale. 1: the central business district, accessible and high-value. 2: the inner city of older housing and former industry. 3: lower-density suburbs. 4: the rural-urban fringe where the city meets the countryside." loading="lazy">
+  <figcaption>A typical pattern of land use in a city, from the CBD out to the rural-urban fringe.</figcaption>
+</figure>
+
 ## Bid rent: a worked explanation
 
 Land values (and the rent users are willing to bid) **fall with distance from the CBD**.
@@ -90,6 +100,11 @@ Land values (and the rent users are willing to bid) **fall with distance from th
    shopping parade.
 
 A good answer links each zone to **who can afford the land and why they need that location**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urban-settlements--01-land-value-zones.webp" width="900" height="670" alt="A graph of land value falling steeply from the city centre, where routes meet and accessibility is highest, then more gently outwards. Bands below show the zones in order: CBD, inner city, suburbs, rural–urban fringe. High-profit users such as shops, offices and banks pay most and build upwards in the centre; users needing lots of space locate further out." loading="lazy">
+  <figcaption>Accessibility and land value sort land uses from the centre outwards.</figcaption>
+</figure>
 
 ## Problems by zone
 
@@ -106,6 +121,11 @@ A good answer links each zone to **who can afford the land and why they need tha
 (improving existing buildings); pedestrianised streets, park-and-ride and congestion charges in the
 CBD; **green belts** that restrict building at the city edge; new towns to take growth away from an
 overcrowded city.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urban-settlements--04-urban-sprawl.webp" width="900" height="730" alt="A schematic plan of a city spreading outwards into a surrounding green belt, with a commuter village and a planned new town beyond. Effects of sprawl: loss of farmland and habitats and faster runoff; longer journeys and car dependence; commuter villages with rising house prices and closing services; and the cost of extending utilities. Responses: green belts, brownfield first, higher-density housing and new towns such as Navi Mumbai." loading="lazy">
+  <figcaption>Sprawl eats greenfield land; planners push growth onto brownfield sites and new towns.</figcaption>
+</figure>
 
 ## Brownfield and greenfield
 
@@ -137,6 +157,11 @@ improving services and transport.
 together, but they do not create jobs, and they cannot keep pace if migration continues faster than
 upgrading. Giving residents **legal title** to their land encourages them to invest in their homes.
 Large clearance and rehousing schemes can move people far from their work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--03-squatter-settlement.webp" width="900" height="770" alt="A schematic hillside squatter settlement: densely packed self-built homes of scrap wood, corrugated iron and plastic, some improved with brick, on steep marginal land, with more homes beside a railway, a stream and a rubbish dump below. Labels note very high density and narrow unpaved alleys. Cards add insecure tenure, few services, an active informal economy and local names: favelas, katchi abadis and bustees." loading="lazy">
+  <figcaption>Describe the full range: tenure, materials, location, density, services and economy.</figcaption>
+</figure>
 
 ## Case study card: Rio de Janeiro, Brazil
 

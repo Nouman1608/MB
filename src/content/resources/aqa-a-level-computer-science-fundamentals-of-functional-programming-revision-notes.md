@@ -89,6 +89,11 @@ first**, then g is applied to f's result.
 Specification example: f(x) = x + 2, g(y) = y³, so g ∘ f = (x + 2)³.
 In Haskell: `(g . f) 1` = g(f(1)) = g(3) = **27**. Note that f ∘ g would give 1³ + 2 = 3 -- order matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--14-composition-order.webp" width="900" height="720" alt="Starting from 4, double after add3 runs add3 to get 7, then double to get 14. Add3 after double runs double to get 8, then add3 to get 11. In g after f, f runs first." loading="lazy">
+  <figcaption>Composition order changes the answer: 14 for double after add3, 11 for add3 after double.</figcaption>
+</figure>
+
 ## Map, filter and fold
 
 | Function | What it does | Example | Result |
@@ -115,6 +120,21 @@ foldl (+) 0 (map (^2) (filter odd [1,2,3,4,5]))
 combines from the right, `foldr (-) 10 [1,2,3]` = 1 - (2 - (3 - 10)) = **-8**. For + and × the answers are the
 same; for - and / they are not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--15-filter-map-fold-pipeline.webp" width="900" height="900" alt="From [3, 8, 5, 12, 7], filter keeping numbers above 4 gives [8, 5, 12, 7], map square gives [64, 25, 144, 49], and fold with plus from 0 gives 282. The original list is unchanged." loading="lazy">
+  <figcaption>Filter, map and fold chain to give 282, leaving the original list unchanged.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--12-map-filter-fold.webp" width="900" height="1010" alt="The list [3, 8, 5, 12, 7] goes through three functions. Map with double gives [6, 16, 10, 24, 14]. Filter for even numbers keeps 8 and 12. Fold with plus from 0 builds the running total 3, 11, 16, 28, 35 and returns 35." loading="lazy">
+  <figcaption>Map keeps the length, filter shortens the list, fold combines it into one value.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--13-fold-direction.webp" width="900" height="920" alt="Folding subtraction over [10, 3, 2] from 0: a left fold gives -10, -13, -15; a right fold gives 2, 1, 9. Subtraction is not commutative, so direction matters." loading="lazy">
+  <figcaption>A left fold gives -15 and a right fold gives 9 for the same list and operation.</figcaption>
+</figure>
+
 ## Lists: head and tail
 
 A list is a **head** (its first **element**) joined to a **tail** (the **list** of the rest):
@@ -138,6 +158,11 @@ total :: [Int] -> Int
 total []     = 0
 total (x:xs) = x + total xs     -- total [4,3,5] = 4 + (3 + (5 + 0)) = 12
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide--16-recursive-map-trace.webp" width="900" height="800" alt="Going down, map calls itself on the tail until the empty list, the base case. Coming back up, cons(10, []) = [10], cons(16, [10]) = [16, 10] and cons(6, [16, 10]) = [6, 16, 10]." loading="lazy">
+  <figcaption>A recursive map works down to the empty list then builds the answer back up.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

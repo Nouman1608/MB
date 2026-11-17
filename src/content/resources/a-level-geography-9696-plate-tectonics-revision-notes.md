@@ -62,6 +62,11 @@ Crust, mantle, liquid outer core, solid inner core. Plates move a few centimetre
 | Convergent: continent-continent (collision) | Neither subducts easily | Crust folded and uplifted into fold mountains; earthquakes |
 | Conservative | Plates slide past each other | Friction builds then releases as earthquakes; no volcanoes; landforms are offset along the fault |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-physical-geography--13-phys-plate-boundaries.webp" width="900" height="1172" alt="Four cross-sections. Divergent (constructive) boundary: plates move apart, magma rises and an ocean ridge forms by sea floor spreading. Conservative boundary: plates slide past each other along a fault. Convergent (destructive) boundary with subduction: an oceanic plate sinks beneath another, making an ocean trench and a volcanic island arc. Convergent collision: two continental plates push together and rock folds into fold mountains. Schematic, not to scale." loading="lazy">
+  <figcaption>The three boundary types and the landforms the lesson names: ocean ridges, trenches, volcanic island arcs and fold mountains.</figcaption>
+</figure>
+
 ## Named examples
 
 | Boundary | Example |

@@ -73,6 +73,16 @@ issues (transnational companies, climate change, pollution, urbanisation); 3.3.3
 - **Who migrates:** the poorest often cannot afford to, so migration may widen inequality within
   sending societies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--01-push-pull-obstacles.webp" width="900" height="524" alt="Everett Lee’s model: push factors in the place of origin, such as unemployment, conflict and environmental disaster, and pull factors in the destination, such as jobs, safety and family, are filtered by intervening obstacles: cost, distance, visas and family ties." loading="lazy">
+  <figcaption>Migration needs money and contacts, so the poorest often cannot move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--02-migration-two-societies.webp" width="900" height="518" alt="Two columns. For receiving societies, migration fills labour shortages, adds taxes, businesses and diversity, but migrants may be in low-paid work and face negative perceptions. For sending societies, remittances support families, but the brain drain of doctors, nurses and engineers weakens services." loading="lazy">
+  <figcaption>Show both effects, for both societies.</figcaption>
+</figure>
+
 ## 3.3.2 Ecological issues
 
 | Issue | How it affects inequality | Example |
@@ -82,6 +92,16 @@ issues (transnational companies, climate change, pollution, urbanisation); 3.3.3
 | Pollution | Concentrated where regulation is weakest | E-waste burning at Agbogbloshie, Accra |
 | Urbanisation | Growth outpaces housing and services | Informal settlements such as Dharavi, Mumbai |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--03-tnc-profits-and-risks.webp" width="900" height="522" alt="A transnational company sends profits to shareholders in richer countries while environmental and human costs fall on communities in poorer countries with low wages and weak regulation. It also brings jobs, investment and technology. Examples: the Bhopal gas leak in India (1984) and oil spills in the Niger Delta." loading="lazy">
+  <figcaption>Profits flow to the powerful; risks fall on those least able to resist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--04-ecological-issues.webp" width="900" height="632" alt="Three ecological issues with why they fall unequally and an example: climate change hits poorer countries hardest, as rising seas threaten Tuvalu and the Maldives; pollution concentrates where regulation is weak, as at Agbogbloshie in Ghana; urbanisation outpaces housing, as in Dharavi, Mumbai." loading="lazy">
+  <figcaption>Each issue hurts most where people have least power and money to respond.</figcaption>
+</figure>
+
 ## 3.3.3 Explanations
 
 - **Marxist:** global capitalism transfers wealth from periphery to core. Frank: "development of
@@ -90,6 +110,16 @@ issues (transnational companies, climate change, pollution, urbanisation); 3.3.3
   by colonial powers (Berlin Conference, 1884–1885); effects continue after independence.
 - **Feminist:** women do much unpaid work but own little land; export factories rely on low-paid young
   women; global care chains (Hochschild).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--05-world-systems.webp" width="900" height="600" alt="Wallerstein’s world-systems theory shown as rings: a wealthy core, a semi-periphery and a periphery supplying cheap labour and raw materials, with wealth flowing inwards. Frank’s dependency theory says rich metropolis nations developed by exploiting poor satellite nations." loading="lazy">
+  <figcaption>For Marxists, global inequality is what capitalism produces when it spreads worldwide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-3--06-colonialism-and-feminism.webp" width="900" height="438" alt="Colonialism: European colonies, including the carving up of Africa agreed in Berlin in 1884–1885, were organised to export raw materials, undermining local industry, and debts and trade patterns continue. Feminism: women do unpaid work but own little land, export factories rely on low-paid young women, and Hochschild describes global care chains." loading="lazy">
+  <figcaption>Name the explanation, then explain its lasting mechanism.</figcaption>
+</figure>
 
 ## Exam traps
 

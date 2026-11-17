@@ -69,6 +69,26 @@ individuals and communities.
 - *Reference:* Sura 99.
 - *Matters because:* accountability gives purpose and motivates good deeds.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--01-articles-to-pillars.webp" width="900" height="750" alt="Tawhid, the oneness of Allah, sits at the top and gives meaning to the six Articles of Faith (Allah, angels, books, prophets, predestination and the Last Day). An arrow labelled &quot;put into action&quot; leads down to the Five Pillars: shahada, salat, zakat, sawm and hajj." loading="lazy">
+  <figcaption>Articles are beliefs; Pillars are the actions that express those beliefs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--02-angels-and-duties.webp" width="900" height="640" alt="Six cards name the key angels and their work: Jibril delivered revelation, Mika'il oversees provision and rain, Israfil will sound the trumpet, the Angel of Death takes souls, the Kiraman Katibin record deeds, and Munkar and Nakir question the dead." loading="lazy">
+  <figcaption>Each angel has a fixed duty; knowing they are never unobserved encourages good conduct.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--03-revealed-books.webp" width="900" height="512" alt="Five books with the prophet each was given to: the Suhuf (scrolls) to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the Qur'an to Muhammad (pbuh). A line under all five notes that they taught tawhid and right conduct, and the Qur'an is marked as the last revelation, preserved unchanged in Arabic." loading="lazy">
+  <figcaption>Every book taught tawhid; the Qur'an is the last and preserved guide.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--04-events-of-the-last-day.webp" width="900" height="880" alt="A numbered sequence: the trumpet is blown, creation ends, all are resurrected, people gather for judgement, each receives a book of deeds, deeds are weighed and people cross the sirat. The path then splits: the righteous enter paradise and the wicked enter hell." loading="lazy">
+  <figcaption>Every stage of the Last Day leads to accountability for one's deeds.</figcaption>
+</figure>
+
 ## Jihad
 
 | Type | Meaning | Example |
@@ -77,6 +97,11 @@ individuals and communities.
 | Mental / through knowledge and speech | Striving to learn, teach and speak truth | Studying Islam; speaking against injustice |
 | Through wealth | Spending for Allah's cause | Supporting the poor and good projects |
 | Physical | Defence under strict rules | No harm to civilians, crops or places of worship |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--05-meanings-of-jihad.webp" width="900" height="610" alt="Jihad, meaning striving, branches into three forms: the greater jihad, the inner struggle to control desires and live rightly; striving through speech, study, teaching and wealth; and physical jihad, permitted only for defence or to end oppression, under legitimate authority, and never against civilians, women, children, the elderly, crops or places of worship." loading="lazy">
+  <figcaption>Jihad is striving in every area of life; physical jihad has strict limits.</figcaption>
+</figure>
 
 ## Five Pillars
 
@@ -107,6 +132,16 @@ individuals and communities.
 - Once in a lifetime if able; 8–13 Dhu al-Hijja.
 - Ihram at miqat → tawaf → sa'y → Mina → Arafat (9th) → Muzdalifa → stoning → sacrifice → hair cut → tawaf al-ifada → farewell tawaf.
 - *Matters because:* equality, unity of the Ummah, remembrance of Ibrahim's family, forgiveness.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--06-five-pillars-practice-significance.webp" width="900" height="738" alt="A table of the Five Pillars. For each of shahada, salat, zakat, sawm and hajj it gives what Muslims do (for example 2.5 per cent a year on savings above the nisab for zakat) beside why it matters for the individual and the community." loading="lazy">
+  <figcaption>For each Pillar, pair what is done with why it matters: that is the two-part essay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam--07-hajj-observances.webp" width="900" height="755" alt="Nine numbered stages snake across the page: entering ihram at the miqat (highlighted), tawaf, sa'y, standing at Arafat, the night at Muzdalifa, stoning the jamarat at Mina, sacrifice, cutting the hair and further tawaf." loading="lazy">
+  <figcaption>Hajj follows a fixed order, and ihram makes every pilgrim equal.</figcaption>
+</figure>
 
 ## Individual and community significance
 

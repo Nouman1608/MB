@@ -40,6 +40,16 @@ Context facts:
 - pH is logarithmic: one unit lower = ten times more acidic; two units = 100 times.
 - Wind carries gases far from their source, so acid rain crosses borders.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--01-formation.webp" width="900" height="763" alt="Cross-section from a volcano, a power station with a tall chimney and vehicles on the left to a forest, lake and building downwind. Sulfur dioxide and oxides of nitrogen are carried by the wind to a cloud, react with oxygen and water vapour, and fall as acid rain." loading="lazy">
+  <figcaption>Two gases, three sources, one reaction: and the wind can carry the result to another country.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--02-ph-scale.webp" width="900" height="610" alt="A pH scale from 3 to 7 with normal rain marked at about pH 5.6 and acid rain covering everything below it. Curved arrows between each whole number show that every fall of one unit is ten times more acidic." loading="lazy">
+  <figcaption>Each fall of one pH unit is a tenfold rise in acidity.</figcaption>
+</figure>
+
 ## Impacts (4.3.2): six to learn
 
 1. **Acidification of bodies of water**: lakes and rivers fall in pH.
@@ -49,11 +59,26 @@ Context facts:
 5. **Damage to crops and vegetation**: plant defoliation and reduced crop yields; less leaf area → less photosynthesis.
 6. **Damage to buildings**: limestone and marble (calcium carbonate) dissolve; metals corrode.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--03-impacts-water.webp" width="900" height="698" alt="Flow chart. Acidified lakes and rivers lead down two paths: aluminium released from soils damages fish gills so fish populations fall; and invertebrates die out, so fish lose food and the birds and mammals that eat fish decline." loading="lazy">
+  <figcaption>Acid harms fish directly and starves the rest of the food web from below.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--04-impacts-land.webp" width="900" height="651" alt="Three columns of cause and effect. Soils: calcium and magnesium are washed out and aluminium damages roots, so plants struggle to take up water and nutrients. Leaves: acid damage and defoliation reduce photosynthesis and crop yields. Buildings: limestone, marble and metals are worn away or corroded." loading="lazy">
+  <figcaption>Each impact is a short chain: give the impact and the reason for it.</figcaption>
+</figure>
+
 ## Strategies (4.3.3)
 
 - **Flue-gas desulfurisation**: removes sulfur dioxide from power station waste gases by reacting it with calcium carbonate or calcium oxide; solid by-product can make plasterboard.
 - **Catalytic converters**: remove oxides of nitrogen from vehicle exhausts, converting them to nitrogen and oxygen.
 - **Transport policies**: public transport, congestion charges, low-emission zones, park and ride, cycle lanes, electric vehicles.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--05-management-strategies.webp" width="900" height="760" alt="Top: flue gas containing sulfur dioxide passes from a boiler into a scrubber, where a slurry of calcium carbonate or calcium oxide reacts with it; cleaner gas leaves the chimney and a solid calcium compound is produced for plasterboard. Bottom left: a catalytic converter turns oxides of nitrogen into nitrogen and oxygen. Bottom right: six transport policies that cut vehicle journeys." loading="lazy">
+  <figcaption>Desulfurisation removes sulfur dioxide; converters and transport policies tackle oxides of nitrogen.</figcaption>
+</figure>
 
 ## Benefits and limitations (4.3.4)
 
@@ -64,6 +89,11 @@ Context facts:
 | Transport policies | Cut several pollutants and congestion | Unpopular; need alternatives; slow; weaker in rural areas |
 
 All three prevent new acid rain. None repairs already acidified lakes and soils, which recover slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--06-match-strategy-to-source.webp" width="900" height="758" alt="Arrows link power stations and factories (sulfur dioxide) to flue-gas desulfurisation, and vehicles (oxides of nitrogen) to catalytic converters and transport policies. Each strategy lists its main benefit and limitations. A note says all three act at source and do not repair lakes and soils already acidified." loading="lazy">
+  <figcaption>In a discuss answer, pair each strategy with the source in the scenario, then weigh it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -86,6 +116,11 @@ All three prevent new acid rain. None repairs already acidified lakes and soils,
 - Describe distance patterns: rain is usually most acidic close to, and downwind of, the source.
 - Convert pH differences into acidity factors: 5.6 to 3.6 is two units, so 100 times more acidic.
 - When asked to explain a pH change after a strategy, name the gas the strategy removes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-acid-rain--07-ph-downwind-graph.webp" width="900" height="700" alt="Line graph of rainwater pH against distance downwind (10, 50 and 200 km). Before desulfurisation pH rises from 4.2 to 4.8 with distance; after, from 5.0 to 5.3. Both lines stay below the dashed normal-rain line at about pH 5.6." loading="lazy">
+  <figcaption>Rain is most acidic near the source; desulfurisation raised pH everywhere but not to normal.</figcaption>
+</figure>
 
 ## Exam traps
 

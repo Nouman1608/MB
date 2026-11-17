@@ -52,6 +52,11 @@ QUALITATIVE   QUANTITATIVE
 - **Discrete quantitative** — takes only certain, separate values (number of siblings, goals scored). Usually countable, but "counted" is a usual rule of thumb, not the deciding test.
 - **Continuous quantitative** — takes any value in a range (height, time, mass). Usually measured, but again that is a heuristic, not the definition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--07-dc-data-types.webp" width="900" height="820" alt="A tree: data is qualitative (category, not measured: hair colour, town of birth) or quantitative (numerical), and quantitative is discrete (counted: siblings, goals scored) or continuous (measured: height, mass, time)." loading="lazy">
+  <figcaption>Data is qualitative or quantitative, and quantitative data is discrete or continuous.</figcaption>
+</figure>
+
 ## Primary vs secondary data
 
 | | Primary | Secondary |
@@ -69,6 +74,11 @@ QUALITATIVE   QUANTITATIVE
 | Accuracy | No sampling error | Sampling error possible |
 | Cost/time | Very high | Lower |
 | Practicality | Used when the population is small and accuracy is vital | Used for large populations |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--09-dc-census-sample.webp" width="900" height="840" alt="An illustrative population of 24 people. A census asks all 24. A sample picks 6 from the sampling frame; 4 people are missing from the frame and can never be picked, so gaps in the frame cause bias." loading="lazy">
+  <figcaption>A census asks everyone, while a sample draws part of the population from a frame whose gaps cause bias.</figcaption>
+</figure>
 
 ## Sampling methods
 
@@ -99,6 +109,16 @@ Each stratum's share is then chosen **randomly within itself** — a
 stratified sample is still a random sample, just one taken separately
 within each group so the proportions match the population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--10-dc-sampling-methods.webp" width="900" height="1104" alt="Six panels show the same 30 people with sample members filled in: simple random, systematic (every 5th from a random start), stratified, quota, cluster and opportunity, each with its limitation from the lesson." loading="lazy">
+  <figcaption>Each sampling method selects people differently and has its own limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--11-dc-stratified.webp" width="900" height="700" alt="A bar of 360 workers split 240 production, 90 sales and 30 admin. Dividing each by 10 (the sampling fraction 36/360 = 1/10) gives 24, 9 and 3 in the sample of 36, picked randomly within each group." loading="lazy">
+  <figcaption>A stratified sample takes proportional numbers from each group.</figcaption>
+</figure>
+
 ## Continuous data and class boundaries (previewing Topic 3)
 
 Class boundaries are covered in full under Topic 3, but the idea is needed as soon as continuous data is
@@ -110,6 +130,11 @@ recorded values, not at the recorded values themselves. Class
 intervals must not overlap (writing 10–20 followed by 20–30 leaves it
 ambiguous which class 20 itself belongs to) and should normally have
 equal width so frequencies can be compared fairly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--08-dc-class-boundaries.webp" width="900" height="640" alt="A number line from 12.30 to 12.50. A time recorded as 12.4 s sits in the band from 12.35 (included, solid dot) to 12.45 (not included, open dot), written 12.35 &lt;= t &lt; 12.45." loading="lazy">
+  <figcaption>A continuous value recorded to 1 decimal place stands for a range of possible true values.</figcaption>
+</figure>
 
 ## Designing a questionnaire
 
@@ -127,6 +152,16 @@ missing response options before they affect the real results.
 - **Unrepresentative sample** — e.g. surveying only one location or age group.
 - **Non-response bias** — those who don't respond may differ systematically from those who do.
 - **Interviewer bias** — presence or tone of the interviewer affects answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--12-dc-bookshop-bias.webp" width="900" height="960" alt="All adults in a town as a large box. Only people near the bookshop who are also free on Saturday morning can be asked, so results are too high for reading and working adults are missed. The fix is a new frame across several places, days and times." loading="lazy">
+  <figcaption>Two filters, location and time, make the bookshop sample unrepresentative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-statistics-data-and-its-collection--13-dc-sample-size-bias.webp" width="900" height="880" alt="Four strips of dots (illustrative simulation) around a true value. A larger sample has less scatter with or without bias, but a biased frame stays off to one side however large the sample." loading="lazy">
+  <figcaption>A bigger sample reduces scatter but does not remove bias.</figcaption>
+</figure>
 
 ## Exam traps
 

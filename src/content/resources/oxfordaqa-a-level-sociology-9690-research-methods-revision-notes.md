@@ -68,6 +68,11 @@ Full explanation: [research methods (Unit 1) study guide](/resources/oxfordaqa-a
 | **Correlation** | Two variables change together |
 | **Causation** | One variable produces change in another |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--04-measurement-problems.webp" width="900" height="729" alt="Religiosity can be operationalised as worship, prayer or belief, each giving a different result. Two variables that move together may both be caused by a third factor. Notes list interviewer bias, the Hawthorne effect and social desirability." loading="lazy">
+  <figcaption>How you measure, and what else might explain a link, shape every finding.</figcaption>
+</figure>
+
 ## Samples in one line each
 
 - **Random**: every member has an equal chance; needs a full sampling frame.
@@ -76,6 +81,11 @@ Full explanation: [research methods (Unit 1) study guide](/resources/oxfordaqa-a
 - **Quota**: fill set numbers per category; not random, interviewer chooses.
 - **Multistage**: sample in stages, such as regions, districts, households.
 - **Snowball**: participants recruit others; for hidden or hard-to-reach groups.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--03-sampling.webp" width="900" height="617" alt="A chain from population to sampling frame to sample, then six types of sample: random, systematic and stratified random; quota, multistage and snowball." loading="lazy">
+  <figcaption>The sample can only be as good as the frame it is drawn from.</figcaption>
+</figure>
 
 ## Methods: one strength, one limitation
 
@@ -96,6 +106,16 @@ Full explanation: [research methods (Unit 1) study guide](/resources/oxfordaqa-a
 | Personal documents | Meanings; historical insight | Unrepresentative; may be written for an audience |
 | Official statistics | Cheap; trends | Socially constructed; definitions change |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--01-asking-questions.webp" width="900" height="830" alt="A grid of surveys and interviews (postal and telephone, online, self-completion, structured, unstructured and group) with a strength and a limitation of each, and types of survey question." loading="lazy">
+  <figcaption>More structure brings reliability; less structure brings depth.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--02-other-methods.webp" width="900" height="993" alt="A grid of observation types, laboratory and field experiments, longitudinal studies and qualitative and quantitative secondary sources, each with a strength and a limitation, plus classic examples." loading="lazy">
+  <figcaption>Natural settings gain validity; controlled settings gain cause and effect.</figcaption>
+</figure>
+
 ## Examples to cite
 
 - Rosenthal and Jacobson (1968): field experiment on teacher expectations.
@@ -110,6 +130,16 @@ Full explanation: [research methods (Unit 1) study guide](/resources/oxfordaqa-a
 - Ask: sample size? who collected it? how was the concept operationalised? what is missing?
 - Correlation in a table is not proof of causation.
 - For field notes: what is said and done, likely meanings, researcher effect, limited generalisability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--05-trend.webp" width="900" height="923" alt="The TREND routine for quantitative data: title and units, read extremes, examine change and comparison, note percentage points versus relative change, and doubt the source. A note gives the routine for qualitative extracts." loading="lazy">
+  <figcaption>TREND turns an unseen table into marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-research-methods--06-tarnia-chart.webp" width="900" height="747" alt="A bar chart of fictional data: urban households using mobile money rose from 30% in 2015 to 74% in 2025, rural from 12% to 51%. The gap widened in percentage points while rural use grew faster in relative terms." loading="lazy">
+  <figcaption>Percentage points and relative change can tell different stories.</figcaption>
+</figure>
 
 ## Choosing a method for an unseen issue
 

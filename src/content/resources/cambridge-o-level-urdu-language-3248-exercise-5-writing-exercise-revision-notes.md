@@ -38,6 +38,11 @@ full method and a model email are in the
 - Objectives **W1–W5**; how the marks divide is not published.
 - Answer in Urdu; no dictionaries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--01-what-is-assessed.webp" width="900" height="670" alt="Exercise 5 is a piece of functional prose of about 150 words, such as an email, worth 14 marks, the most on the paper. It tests W1 to W5: every prompt answered, linked paragraphs, accurate grammar, Urdu punctuation and spelling, and the right register and format." loading="lazy">
+  <figcaption>Answer every prompt, in linked paragraphs, in the right register.</figcaption>
+</figure>
+
 ## The objectives as a checklist
 
 - **W1** every prompt covered, clearly
@@ -53,6 +58,11 @@ full method and a model email are in the
 | Purpose (*مقصد*) | invite, thank, apologise, inform, request, describe, recommend |
 | Format (*طرزِ تحریر*) | email, letter, blog post, short article |
 | Audience (*مخاطب*) | friend, relative, teacher, principal, website readers |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--02-purpose-format-audience.webp" width="900" height="610" alt="Three questions before writing: purpose (مقصد), such as inviting, thanking or informing; format (طرزِ تحریر), such as an email with a subject line or a blog with a title; and audience (مخاطب), such as a friend or a principal, which decides the register." loading="lazy">
+  <figcaption>Purpose, format, audience: the audience decides the register.</figcaption>
+</figure>
 
 ## Register tables
 
@@ -78,6 +88,11 @@ full method and a model email are in the
 
 Respectful verbs: *فرمانا*، *تشریف لانا*، *عنایت کرنا*. Use them with *آپ*, never with *تم*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--04-register.webp" width="900" height="807" alt="Informal and formal forms side by side: greetings (پیاری سارہ، against محترمہ پرنسپل صاحبہ،), opening lines, address (تم against آپ), verb forms (آؤ، بتاؤ against تشریف لائیے، بتائیے) and closings (تمھاری دوست against والسلام، آپ کا شاگرد)." loading="lazy">
+  <figcaption>Pick the register for your audience and keep it from greeting to closing.</figcaption>
+</figure>
+
 ## Functional phrases by purpose
 
 | Purpose | Informal | Formal |
@@ -88,6 +103,11 @@ Respectful verbs: *فرمانا*، *تشریف لانا*، *عنایت کرنا*
 | request | کیا تم ... کر دو گے؟ | گزارش ہے کہ ... |
 | recommend | تمھیں ضرور ... کرنا چاہیے۔ | میری تجویز ہے کہ ... |
 | give news | ایک خوش خبری سنو! | آپ کو یہ بتاتے ہوئے خوشی ہے کہ ... |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--07-formal-version.webp" width="900" height="814" alt="The informal invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟ rewritten for the principal: ہماری خواہش ہے کہ آپ ہفتے کی شام تشریف لا کر ہمارے اسٹال کا افتتاح فرمائیں۔ آپ کی آمد ہمارے لیے باعثِ عزت ہوگی۔ Exam tips: write the greeting and closing first, count paragraphs against prompts, and protect about 25 minutes." loading="lazy">
+  <figcaption>Change the audience and the whole register changes with it.</figcaption>
+</figure>
 
 ## Timing
 
@@ -104,6 +124,11 @@ on the paper.
 - **Review**: what is being reviewed, what was good, what was weak, and a recommendation, usually
   in a semi-formal tone for readers who have not yet seen or tried it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--06-worked-email.webp" width="900" height="900" alt="The model email laid out with annotations: a subject line (موضوع: اگلے ہفتے میلہ — ساتھ چلو گی؟), the greeting پیاری مریم،, a friendly opening, one paragraph per prompt (the festival, the invitation کیا تم ہفتے کی شام میرے ساتھ چلو گی؟, and plans linked by سب سے پہلے، اس کے بعد، کیونکہ، آخر میں), and the closing تمھاری دوست، ثنا." loading="lazy">
+  <figcaption>Format features, one paragraph per prompt, and one register throughout.</figcaption>
+</figure>
+
 ## Connectives for a short piece
 
 | Job | Urdu |
@@ -114,10 +139,20 @@ on the paper.
 | sequence | سب سے پہلے، اس کے بعد، آخر میں |
 | conclude | امید ہے، بس یہی کہنا تھا |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--05-linking-devices.webp" width="900" height="642" alt="Connectives grouped by job: adding (اس کے علاوہ، ساتھ ہی), explaining (کیونکہ، اس لیے کہ), contrasting (لیکن، البتہ، تاہم), sequencing (سب سے پہلے، اس کے بعد، آخر میں) and concluding (بس یہی کہنا تھا، امید ہے)." loading="lazy">
+  <figcaption>A few varied connectives are enough: use them for real links.</figcaption>
+</figure>
+
 ## Shape of 150 words (practice guide)
 
 Opening line (10–15 words) · prompt 1 (about 40) · prompt 2 (about 40) · prompt 3 (about 40) · closing
 (10–15).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise--03-word-budget.webp" width="900" height="520" alt="A 150-word plan: a short opening, about 40 words for each of three prompts, and a short closing. Each prompt becomes a paragraph, pictures supply content to describe or comment on, and writing far beyond the length adds errors." loading="lazy">
+  <figcaption>About 40 words per prompt, each in its own paragraph.</figcaption>
+</figure>
 
 ## Punctuation reminders
 

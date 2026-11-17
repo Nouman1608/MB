@@ -67,6 +67,16 @@ foot, shell shock; units rotated in and out of the line.
   about 57,000 British casualties on 1 July; the Allies advanced only a few miles. Debate on **Haig**: "butcher" who
   wasted lives, or a commander who wore down the German army and learned lessons used in 1918.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--03-ww1-schlieffen-failure.webp" width="900" height="1210" alt="A schematic shows Germany advancing through a gate labelled Belgium towards France, with bars showing the aim of beating France before Russia fully mobilises. Four steps follow: Belgian resistance slows the advance, Britain enters under treaty commitments, the army is halted at the First Battle of the Marne in September 1914, and a long entrenched war results." loading="lazy">
+  <figcaption>The plan to win quickly in the west failed at Belgium and the Marne.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--04-ww1-stalemate-defence.webp" width="900" height="1170" alt="A not-to-scale cross-section shows attackers crossing open ground towards a defended trench. Numbered labels mark open ground, barbed wire, a machine gun and pre-registered artillery. A gold box says defenders held the advantage, giving huge casualties for little territorial gain. Three tiles show tanks, aircraft and creeping barrages as attempts to restore movement, none decisive alone." loading="lazy">
+  <figcaption>Machine guns, wire and artillery favoured defenders; new weapons only worked when combined.</figcaption>
+</figure>
+
 ## Key question 2: To what extent was it a world war?
 
 - **Indian troops** reached the Western Front in autumn 1914, fought at Ypres and Neuve Chapelle (1915) and earned
@@ -105,6 +115,11 @@ foot, shell shock; units rotated in and out of the line.
   new government under Prince Max of Baden asked for terms in October.
 - **Revolution:** sailors at **Kiel** mutinied rather than sail on a final mission; councils spread; the Kaiser
   abdicated on 9 November; the **Armistice** was signed at Compiègne on 11 November 1918.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-depth-study-first-world-war--05-ww1-armistice-answer.webp" width="900" height="1010" alt="Four steps for answering a why question. Three factors (US entry 1917, failed Spring Offensive 1918, exhaustion of the Central Powers) are each explained, then weighed on scales to reach a judgement, with a tick for precise events such as the 1918 Spring Offensive and a cross for vague phrases such as later in the war." loading="lazy">
+  <figcaption>Name several factors, explain each, weigh them, and keep dates precise.</figcaption>
+</figure>
 
 ## Key terms
 

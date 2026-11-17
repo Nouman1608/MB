@@ -48,6 +48,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 **The treaty's real problem** was that it was **harsh enough to embitter Germany but not harsh enough to keep her weak**. That single sentence answers most evaluation questions on Versailles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--04-peace-settlement.webp" width="900" height="719" alt="Three cards give the aims of the Big Three: Clemenceau wanted security and a weaker Germany; Lloyd George wanted to punish Germany but let trade recover; Wilson's Fourteen Points included self-determination and a League. Germany called Versailles a Diktat. The wider settlement: Saint-Germain and Neuilly (1919), Trianon and Sèvres (1920), with Sèvres replaced by Lausanne (1923)." loading="lazy">
+  <figcaption>Different aims among the Big Three, and five treaties beyond Versailles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--09-ir-versailles.webp" width="900" height="1060" alt="Five term tiles: Article 231 war guilt clause; reparations of 6.6 billion pounds; an army capped at 100,000 with no air force, submarines or tanks; demilitarised Rhineland; and land lost, Alsace-Lorraine, the Polish Corridor and all colonies. Below, three person cards: Clemenceau wanted security and revenge, Lloyd George a balance that kept trade, Wilson his Fourteen Points and self-determination. A banner says the treaty satisfied none of them fully." loading="lazy">
+  <figcaption>What Versailles imposed on Germany, and why the Big Three were not all satisfied.</figcaption>
+</figure>
+
 ## The League of Nations
 
 **Aims:** prevent war through collective security, encourage disarmament, improve living and working conditions, enforce the treaties.
@@ -67,6 +77,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Manchuria and Abyssinia are the decisive pair:** they demonstrated that a determined aggressor faced no real consequence, which directly encouraged Hitler.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--05-league-record.webp" width="900" height="995" alt="A timeline of the League: Vilna (1920) a failure; the Aaland Islands and Upper Silesia (1921) settled; Corfu (1923) bypassed by the Conference of Ambassadors; Bulgaria (1925) settled; Locarno and Kellogg-Briand outside the League; Germany joins (1926); Japan invades Manchuria (1931); Germany and Japan leave (1933); the USSR joins (1934); Italy invades Abyssinia (1935); Italy leaves (1937)." loading="lazy">
+  <figcaption>Some successes in the 1920s; great powers bypassed or defied the League, above all in the 1930s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--10-ir-league.webp" width="900" height="980" alt="A timeline from 1919 to 1936 marks the 1920s as a teal bar with successes: Aaland Islands, Upper Silesia and humanitarian work, and two red markers for failures: Manchuria in 1931 and Abyssinia in 1935. Below, a temple labelled League of Nations stands on four cracked pillars, each labelled with a weakness: no USA, needed unanimity, no army, slow procedures." loading="lazy">
+  <figcaption>The League won small disputes in the 1920s but failed over Manchuria and Abyssinia; four structural weaknesses explain why.</figcaption>
+</figure>
+
 ## The road to war
 
 Hitler's aims: overturn Versailles, *Lebensraum*, unite German-speaking peoples, destroy communism.
@@ -80,6 +100,16 @@ Sequence: rearmament (1935) → Rhineland remilitarisation (1936) → Rome-Berli
 
 **The Nazi–Soviet Pact is the immediate enabler.** It removed the risk of a two-front war and gave Hitler a free hand in Poland — which is why war followed within days.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--11-ir-road-to-war.webp" width="900" height="942" alt="Three aims of Hitler are shown above a vertical timeline: overturn Versailles, Lebensraum and union with Austria. The timeline runs 1933 Germany leaves the League and the Disarmament Conference; 1935 conscription and the Anglo-German Naval Agreement; 1936 Rhineland remilitarised with no Allied response; 1938 Anschluss; 1938 Munich Agreement and the Sudetenland; 1939 rest of Czechoslovakia occupied and appeasement abandoned; 1939 Nazi-Soviet Pact, invasion of Poland and war." loading="lazy">
+  <figcaption>Hitler’s aims met appeasement from 1933 until the occupation of Czechoslovakia in 1939.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--13-ir-appeasement-balance.webp" width="900" height="930" alt="A balance scale. The left pan holds appeasement, concessions cost Hitler nothing. The right pan, which sits lower, holds five other factors: Hitler’s own aims, British rearmament, public opinion, Versailles resentment and the Nazi-Soviet Pact. A panel gives the judgement: appeasement enabled each step but Hitler’s own aims were the underlying driver; the judgement, not the list, carries the top band." loading="lazy">
+  <figcaption>A top-band Section B answer weighs the claim against other factors and reaches a judgement.</figcaption>
+</figure>
+
 ## The Cold War
 
 **Causes:** ideological opposition between capitalism and communism, wartime suspicion, the atomic bomb, disagreement at Yalta and Potsdam over Poland and Germany, and Soviet expansion into Eastern Europe.
@@ -89,6 +119,16 @@ Sequence: rearmament (1935) → Rhineland remilitarisation (1936) → Rome-Berli
 Key developments: **Truman Doctrine** and **Marshall Plan** (1947), Cominform, **Berlin Blockade and Airlift** (1948–49), NATO (1949), Warsaw Pact (1955), Hungary (1956), Berlin Wall (1961), **Cuban Missile Crisis** (1962), Czechoslovakia (1968), détente, Afghanistan (1979), and the collapse of 1989–91.
 
 The Cuban Missile Crisis is the standard case study: causes (Bay of Pigs, US missiles in Turkey, Soviet desire for parity), the thirteen days, and consequences (the hotline, the Test Ban Treaty, and a shift towards managed coexistence).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--12-ir-cold-war.webp" width="900" height="1206" alt="Three origin boxes (ideological opposition, Yalta and Potsdam, mistrust and the atomic bomb) lead to a vertical timeline: 1947 Truman Doctrine and Marshall Plan; 1948 to 49 Berlin Blockade and Airlift; 1949 NATO; 1955 Warsaw Pact; 1961 Berlin Wall; 1962 Cuban Missile Crisis, the closest approach to nuclear war. A final panel shows the USSR removing missiles from Cuba in exchange for a US pledge not to invade Cuba, and US missiles quietly leaving Turkey." loading="lazy">
+  <figcaption>Six developments from 1947 to 1962, and the exchange that ended the Cuban Missile Crisis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--06-cuban-missile-crisis.webp" width="900" height="545" alt="A timeline: Castro takes power in 1959; the Bay of Pigs invasion fails in April 1961; in October 1962 U2 photographs reveal Soviet missile sites and Kennedy announces a quarantine; after thirteen days Khrushchev removes the missiles in return for a no-invasion pledge and the secret removal of US missiles from Turkey; a hotline and the Partial Test Ban Treaty follow in 1963." loading="lazy">
+  <figcaption>Thirteen days of crisis ended in a trade, then new steps to manage the risk.</figcaption>
+</figure>
 
 ## Your Section A source booklet
 
@@ -100,6 +140,11 @@ the exam itself. **No notes or annotations may be brought in**; you
 are given a clean copy of all five sources on the day, so your
 preparation should build the contextual knowledge and familiarity you
 need to use them cold, not annotations you can't actually bring in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-world-history-international-relations-depth-studies--08-ir-section-a-sources.webp" width="900" height="1072" alt="Five source cards: three teal cards for the pre-released booklet, released 1 February for May/June or 1 July for October/November, and two dashed gold cards for unseen sources. Four bars scaled to marks show Q1 4 marks, Q2 6, Q3 8 and Q4 12, all source skills, totalling 30 marks. A warning says no notes may be taken into the exam; a clean copy of all five sources is provided." loading="lazy">
+  <figcaption>Three sources are known in advance, two are not; four questions use them for 4, 6, 8 and 12 marks.</figcaption>
+</figure>
 
 ## Answering the questions
 
@@ -118,6 +163,16 @@ type on this paper**, and evaluating a source's limitations (how it is
 *not* useful) is explicitly not required.
 
 **Essay questions:** examiners reward **weighing**, not listing. Give the factors, explain how each contributed, then judge which mattered most and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-a--03-method-per-question.webp" width="900" height="552" alt="Four rows. Question 1: a supporting detail from the source plus one piece of contextual knowledge. Question 2: state the difference, show it from both sources, explain why they differ. Question 3: what the content shows, confirmed by knowledge, and how provenance makes it useful; limitations are not required. Question 4: plan both sides, link several sources with own knowledge and reach a judgement." loading="lazy">
+  <figcaption>Each question has its own job: support, difference, usefulness, then a judgement.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question--02-line-of-reasoning.webp" width="900" height="645" alt="Five-part structure for the 12-mark answer: an introduction stating the answer, the given factor, one or two other factors, a comparison of how they connect, and a conclusion that follows from the comparison." loading="lazy">
+  <figcaption>State the answer first, explain the factors, compare them, then conclude.</figcaption>
+</figure>
 
 ## Exam traps
 

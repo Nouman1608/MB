@@ -49,6 +49,11 @@ Topsoil holds most of the organic matter, nutrients and soil organisms, so losin
 
 **Common condition:** soil without vegetation to shield the surface and roots to bind it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--01-water-and-wind-erosion.webp" width="900" height="735" alt="Left: on a bare slope, raindrops knock soil loose, run-off carries the particles downhill faster on steeper ground, and channels deepen into gullies. Right: on flat, open land with dry, loose, fine soil, strong wind lifts the finest particles, including much of the organic matter, leaving coarser, less fertile soil. Both happen where soil is unprotected by plants." loading="lazy">
+  <figcaption>Water erodes by raindrop impact, run-off and gullies; wind lifts the finest, most fertile particles.</figcaption>
+</figure>
+
 ## Causes (2.3.1)
 
 | Cause | Key link |
@@ -58,6 +63,11 @@ Topsoil holds most of the organic matter, nutrients and soil organisms, so losin
 | Farming on steep slopes | Gravity speeds run-off |
 | Bare soil | No protection from raindrops or wind |
 | Wind and water erosion | The processes that remove loosened soil |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--12-land-ol-erosion-causes-impacts.webp" width="900" height="1140" alt="Five causes of soil erosion lead to erosion of topsoil, shown as soil washed down a slope into a river: unsustainable farming, deforestation, farming on steep slopes, bare soil, and wind and water erosion. Seven impacts follow: silted rivers, desertification, mass movement such as landslides and mudslides, loss of habitats and biodiversity, lower crop yield, malnutrition and famine, and displacement of people." loading="lazy">
+  <figcaption>Five causes lead to soil erosion, which has seven impacts.</figcaption>
+</figure>
 
 ## Impacts (2.3.2)
 
@@ -73,6 +83,16 @@ Topsoil holds most of the organic matter, nutrients and soil organisms, so losin
 
 **Human chain:** erosion → lower yield → malnutrition or famine → displacement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--02-silting-of-rivers.webp" width="900" height="620" alt="Two river cross-sections. Before: a deep channel with clear water. After eroded soil arrives: silt fills the bottom of the channel, making it shallower and the water cloudy. As a result the river holds less water, so flooding is more likely; reservoirs store less water; and cloudy water blocks light, harming aquatic life." loading="lazy">
+  <figcaption>Silt makes channels shallower and water cloudier: more flooding, less storage, harm to aquatic life.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--03-field-to-community.webp" width="900" height="645" alt="A chain of impacts: soil erosion removes fertile topsoil, so crop yields fall; where people rely on local harvests this causes malnutrition and famine; people are then displaced to towns or other farmland, spreading the pressure elsewhere." loading="lazy">
+  <figcaption>Erosion → lower yield → malnutrition → displacement.</figcaption>
+</figure>
+
 ## Strategies (2.3.3): learn the mechanism wording
 
 | Strategy | Syllabus mechanism | Best for |
@@ -84,6 +104,16 @@ Topsoil holds most of the organic matter, nutrients and soil organisms, so losin
 | Maintaining vegetation cover | Roots bind the soil; vegetation reduces surface run-off and absorbs water | Anywhere, especially after harvest |
 | Addition of organic matter | Improves soil structure | Soils weakened by monoculture or overcultivation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--04-match-strategy-to-cause.webp" width="900" height="685" alt="Four problems matched to strategies. Steep slopes and water erosion: terracing, contour ploughing, bunds. Flat, dry, windy land: wind breaks, bunds, vegetation cover. Bare soil after harvest: maintain vegetation cover, mulch or crop residue. Weak soil structure after monoculture: add organic matter." loading="lazy">
+  <figcaption>Choose strategies that fit the slope, wind, cover and soil structure in the question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--13-land-ol-erosion-strategies.webp" width="900" height="1060" alt="Six small cross-sections, each with the syllabus wording for how it works. Terracing reduces movement of soil and surface run-off. Contour ploughing reduces surface run-off. Bunds reduce surface run-off, wind speed and wind erosion. Wind breaks protect crops and reduce wind speed and wind erosion. Maintaining vegetation cover: roots bind the soil and vegetation slows run-off and absorbs water. Adding organic matter improves soil structure." loading="lazy">
+  <figcaption>Each strategy with the syllabus wording for how it reduces erosion.</figcaption>
+</figure>
+
 ## One limitation each
 
 - Terracing: heavy labour to build and maintain; walls can collapse.
@@ -93,11 +123,21 @@ Topsoil holds most of the organic matter, nutrients and soil organisms, so losin
 - Vegetation cover: cover crops may compete with the main crop for water.
 - Organic matter: bulky; needs a supply of manure, compost or residue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--05-benefits-limitations.webp" width="900" height="650" alt="Benefits and limitations of five strategies. Terracing works on steep slopes but needs much labour and can collapse. Contour ploughing is cheap but weaker on very steep slopes or in heavy rain. Wind breaks give wood and habitat but take land and years to grow. Vegetation cover is cheap and effective but may compete for water. Organic matter improves fertility but is bulky and needs a supply." loading="lazy">
+  <figcaption>Each strategy has a cost: labour, land, water or supply.</figcaption>
+</figure>
+
 ## Data skills
 
 - **Percentage reduction** = (original − new) ÷ original × 100.
 - **How many times greater** = larger ÷ smaller.
 - Quick check: soil loss falls from 8.0 to 2.0 kg per m² → (8.0 − 2.0) ÷ 8.0 × 100 = 75% reduction; 8.0 ÷ 2.0 = 4 times less.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soil-erosion--06-erosion-plot-data.webp" width="900" height="655" alt="A bar chart of soil lost in one year from four plots on the same slope: bare soil ploughed up and down slope 12.0 kg per square metre, contour ploughed 5.4, terraced 1.8 and permanent grass 0.6. Contour ploughing cuts loss by 55% and grass by 95%; bare soil loses 20 times as much as grass." loading="lazy">
+  <figcaption>Grass cover cut soil loss by 95%, terracing came next, contour ploughing by 55%.</figcaption>
+</figure>
 
 ## Key terms
 

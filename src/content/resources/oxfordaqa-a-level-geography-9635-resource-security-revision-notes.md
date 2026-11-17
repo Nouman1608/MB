@@ -52,6 +52,11 @@ energy**; you may concentrate on one of them in your case studies.
 | Primary / secondary energy | Energy in its natural form (coal, crude oil, wind) / energy converted into a usable carrier (electricity, petrol) |
 | Virtual water | The water used to produce a good, traded invisibly when the good is traded |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--01-stock-and-flow.webp" width="900" height="685" alt="Two panels: stock resources such as fossil fuels, uranium and fossil groundwater are finite on human timescales, like a tank with no refill; flow resources such as sunlight, wind and river flow are renewed continuously. A note says an over-pumped aquifer becomes stock-like." loading="lazy">
+  <figcaption>Stock resources run down; flow resources renew, unless used faster than they recharge.</figcaption>
+</figure>
+
 ## Resource development
 
 **Stock resource evaluation** -- from most to least certain:
@@ -71,6 +76,21 @@ reaches its maximum before declining, as in the idea of "peak oil".
 **Environmental impact assessment (EIA)** evaluates the likely effects of a project -- on
 ecosystems, water, air, communities -- before approval, and proposes mitigation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--02-mckelvey-box.webp" width="900" height="588" alt="A McKelvey box with geological certainty across the top (measured, indicated, inferred, possible) and economic feasibility down the side. Only well-known, economic material in the top-left is a reserve. An arrow shows material crossing the dashed economic boundary when prices rise or technology improves." loading="lazy">
+  <figcaption>Reserves are only what is both well known and economic; the boundary moves with price and technology.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--03-reserves-to-production.webp" width="900" height="832" alt="Worked ratio: 2,400 million barrels of reserves divided by 120 million barrels a year gives 20 years, but reserves are revised and production changes, so it is only a snapshot. Notes cover development over time and the moving resource frontier, and an illustrative curve shows output rising to a resource peak, then declining." loading="lazy">
+  <figcaption>Twenty years of reserves at today's output is not twenty years until the oil runs out.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--04-eia-stages.webp" width="900" height="791" alt="Seven numbered stages of an environmental impact assessment in sequence: screening, scoping, baseline study, prediction, mitigation, consultation and decision, and monitoring. A note says it only improves decisions if independent, inclusive and enforced." loading="lazy">
+  <figcaption>Seven stages from screening to monitoring; its value depends on independence and enforcement.</figcaption>
+</figure>
+
 ## Why supply and demand differ between places
 
 Resources are **unevenly distributed physically**, while demand varies with **population, income and
@@ -81,6 +101,11 @@ large consumers include China, the USA, the EU, India and Japan, so energy moves
 shipping routes. Water availability is high in humid tropical and temperate regions and low in arid
 regions such as the Middle East and North Africa, where demand from irrigation and growing cities
 causes stress.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--05-physical-controls.webp" width="900" height="812" alt="Schematic cross-section, not to scale: rain and sun above, a steep mountain river with hydro-electric potential, a permeable aquifer beneath a plain, a sedimentary basin holding oil, gas and coal, and a volcano with heat near the surface for geothermal energy. A table summarises climate, geology and drainage controls on water and energy supply." loading="lazy">
+  <figcaption>The same physical controls, climate, geology and drainage, set both water and energy supply.</figcaption>
+</figure>
 
 ## Water, energy, minerals
 
@@ -121,6 +146,11 @@ national (upstream and downstream states within a country) and international -- 
 **Grand Ethiopian Renaissance Dam** on the Blue Nile, which has caused long-running tension between
 Ethiopia, Sudan and Egypt over how quickly the reservoir is filled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--06-aswan-high-dam.webp" width="900" height="526" alt="Schematic, not to scale: the Nile flows into Lake Nasser behind the Aswan High Dam, where sediment is trapped, so less reaches the delta. Below, benefits (water stored across years, irrigation, hydro-electricity) and costs (delta and coastal erosion, more fertiliser, displaced Nubian communities)." loading="lazy">
+  <figcaption>The dam secures water and power but starves the delta of sediment.</figcaption>
+</figure>
+
 ## Energy security
 
 - **Energy mixes differ:** France relies heavily on nuclear power for electricity; Norway on
@@ -147,6 +177,11 @@ Ethiopia, Sudan and Egypt over how quickly the reservoir is filled.
 Competition for scarce or shared resources, dependence on imports and control by a few producers can
 create tension between and within states. Evaluate with **named examples**; do not assume scarcity
 always causes conflict, since cooperation and trade can also follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-resource-security--07-scarcity-and-conflict.webp" width="900" height="828" alt="Five steps of the model answer: evidence for (the Grand Ethiopian Renaissance Dam dispute), counter-evidence (the Indus Waters Treaty since 1960), scale (local disputes resolved by rules), alternative outcomes (desalination, virtual water) and a judgement that institutions and technology decide whether risk becomes conflict." loading="lazy">
+  <figcaption>Weigh evidence both ways, consider scale and alternatives, then judge.</figcaption>
+</figure>
 
 ## Managing resources sustainably
 

@@ -37,6 +37,11 @@ for the full method and a model paragraph see the
   Sarhadi's *Qitaat*). Check the syllabus for your year: set texts can change.
 - Marked on a **five-level** scheme shared with the Prose essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--01-set-poems.webp" width="900" height="730" alt="Ten ghazals (غزلیں), two each by Khwaja Haider Ali Ahtish, Parveen Shakir, Momin Khan Momin, Allama Iqbal and Ahmed Faraz, and three nazms (نظمیں): Hali's Musadas Hali in seventeen stanzas, Syed Zameer Jafree's Admee and Mirza Mahmood Sarhadi's Qitaat in six short pieces." loading="lazy">
+  <figcaption>Thirteen poems, none allowed in the exam room: quotations must be memorised.</figcaption>
+</figure>
+
 ## The five levels in key phrases
 
 | Level | Marks | Key phrase |
@@ -48,6 +53,11 @@ for the full method and a model paragraph see the
 | 1 | 1–3 | a few straightforward comments; little relevance |
 
 Notice that **"focus of the question"** appears at every level.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--02-mark-scheme-focus.webp" width="900" height="768" alt="The four top-level descriptors for the 15-mark essay: clear understanding of deeper implications, developed exploration of the writer's effects, careful reference to the text, and full attention to the focus. The focus strand drops from &quot;fully addresses&quot; at the top to &quot;partly addresses&quot; at Level 3 and &quot;little relevance&quot; at Level 1." loading="lazy">
+  <figcaption>Knowing the poem is not enough: the answer must stay on the question's focus.</figcaption>
+</figure>
 
 ## Form terms
 
@@ -64,6 +74,16 @@ Notice that **"focus of the question"** appears at every level.
 | مسدس | six-line stanza form | the closing couplet of each stanza turns or sharpens |
 | قطعہ | short poem of connected couplets | one point, often a turn at the end |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--04-ghazal-anatomy.webp" width="900" height="936" alt="A schematic ghazal of independent couplets. In the opening couplet (مطلع) both lines end in the rhyme (قافیہ) and refrain (ردیف); in later couplets only the second line does. The closing couplet (مقطع) usually carries the poet's pen name (تخلص)." loading="lazy">
+  <figcaption>Independent couplets: choose the ones that fit the question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--05-nazm-forms.webp" width="900" height="712" alt="Three forms side by side. A nazm develops one subject as it opens, builds and closes. A musaddas has six-line stanzas: four rhyming lines then a couplet on a new rhyme that often turns the idea. A qita joins short couplets into one point, often with a turn at the end." loading="lazy">
+  <figcaption>Follow a nazm's movement; watch the final couplet of a stanza or qita for the turn.</figcaption>
+</figure>
+
 ## Technique terms (with effect)
 
 *تشبیہ* simile, *استعارہ* metaphor, *تلمیح* allusion, *تضاد* contrast, *تکرار* repetition, *مبالغہ*
@@ -77,10 +97,20 @@ feel or think?
 - By implication: *... کن طریقوں سے ...* / *کس طرح* ("Explore the ways in which ...")
 - Mark: the **text**, the **focus**, the **method word**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--03-reading-the-question.webp" width="900" height="934" alt="An illustrative question, شاعر نے امید اور ناامیدی کی کشمکش کو کس طرح پیش کیا ہے؟, with three things to mark: the text, the focus (امید اور ناامیدی کی کشمکش) and the method word (کس طرح). Personal response is asked for directly (آپ کی کیا رائے ہے، آپ کیا محسوس کرتے ہیں) or by implication (کن طریقوں سے، کس طرح)." loading="lazy">
+  <figcaption>Text, focus, method word: mark all three before planning.</figcaption>
+</figure>
+
 ## Paragraph method
 
 **Point** (on the focus) – **short quotation** – **literal meaning** – **deeper meaning** – **method and
 effect** – **link back**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--07-worked-paragraph.webp" width="900" height="884" alt="Two illustrative lines, دیا جلا کے رکھا ہے ہوا کے رستے میں and یہ ضد ہے دل کی کہ شاید وہ لوٹ آئے کبھی, analysed in five moves: the image of a lamp in the wind's path, its deeper meaning, the word &quot;ضد&quot;, the uncertain words &quot;شاید&quot; and &quot;کبھی&quot;, and a link back to the focus, کشمکش." loading="lazy">
+  <figcaption>Short quotations, each analysed, every sentence serving the focus.</figcaption>
+</figure>
 
 ## Ghazal vs nazm essay plan
 
@@ -90,9 +120,19 @@ effect** – **link back**.
 | each couplet one paragraph | each stage one paragraph |
 | comment on refrain if it carries the focus | comment on stanza endings and turns |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--06-essay-structure.webp" width="900" height="724" alt="An essay plan: a short introduction that answers the question and names methods; three or four body paragraphs, each on one couplet or stanza, moving through point, quotation, meaning, deeper meaning, method and link; and a conclusion giving a personal response grown from the analysis." loading="lazy">
+  <figcaption>Each body paragraph: point, quotation, meaning, deeper meaning, method, link.</figcaption>
+</figure>
+
 ## Poem card (one per poem)
 
 Central idea · tone · 4–6 memorised phrases with techniques · likely focuses · one judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-urdu-language-3247-paper-2-poetry-essay--08-poem-card.webp" width="900" height="688" alt="A one-page card per poem with its central idea and tone, four to six memorised phrases with techniques, couplets matched to likely focuses or the nazm's movement, and one personal judgement. Quotations should be short phrases; if memory fails, close reference is credited but a garbled quotation is not." loading="lazy">
+  <figcaption>Learn short, exact phrases you can analyse.</figcaption>
+</figure>
 
 ## Coverage
 

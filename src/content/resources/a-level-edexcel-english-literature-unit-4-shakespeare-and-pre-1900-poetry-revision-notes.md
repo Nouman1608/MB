@@ -49,6 +49,11 @@ context and different interpretations matter in every answer. For the full metho
 **Exam:** 2 hours, open book, available January and June; first assessed January 2017. Unit 4 is an IA2
 unit for the full International A Level only. Give each section about an hour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--01-section-a-at-a-glance.webp" width="900" height="558" alt="Section A is worth 25 of Unit 4’s 50 marks: one open-book essay, from a choice of two, on one play from Hamlet, King Lear, Measure for Measure and The Taming of the Shrew. The question is a statement to respond to, considering context and different interpretations, assessed on AO1, AO2, AO3 and AO5." loading="lazy">
+  <figcaption>One essay testing a statement about one of four Shakespeare plays.</figcaption>
+</figure>
+
 ## Set texts
 
 | Section A: one Shakespeare play | Section B: one pre-1900 movement (prescribed poems) |
@@ -62,6 +67,16 @@ Only the prescribed poems listed in Appendix 5 of the specification are set, for
 Flea" and Marvell's "To His Coy Mistress" (Metaphysical); Robert Browning's "My Last Duchess" and Hardy's
 "The Darkling Thrush" (Victorian); Blake's "London" and Keats's "Ode to a Nightingale" (Romantic).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--04-four-plays-debates.webp" width="900" height="547" alt="A table of the four set plays. Hamlet: soliloquies, the play-within-the-play and revenge conventions; debates on delay, Ophelia and Gertrude, and the Ghost. King Lear: the double plot, storm and Fool; redemption or nihilism and Tate’s adapted ending. Measure for Measure: the disguised Duke, bed-trick and uneasy comic ending; justice and mercy and Isabella’s silence. The Taming of the Shrew: the Sly Induction and wager; Katherina’s final speech and farce or criticism." loading="lazy">
+  <figcaption>Each play has dramatic features to analyse and debates to weigh.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--01-section-b-at-a-glance.webp" width="900" height="736" alt="Section B is worth 25 of Unit 4’s 50 marks: one open-book essay, from a choice of two, responding to a statement about one movement, considering context and different interpretations. The movements and collections are the Metaphysical Poets (ed. Colin Burrow), the Victorians (ed. Christopher Ricks) and the Romantics (ed. David Wright). It is assessed on AO1, AO2, AO3 and AO5." loading="lazy">
+  <figcaption>One essay testing a statement about a whole poetic movement.</figcaption>
+</figure>
+
 ## The four assessment objectives in Unit 4
 
 | AO | Wording | Unit 4 weighting in the IAL |
@@ -74,6 +89,11 @@ Flea" and Marvell's "To His Coy Mistress" (Metaphysical); Robert Browning's "My 
 AO4 (connections across texts) is **not** assessed in Unit 4, so you do not need to compare two works,
 although strong poetry answers range across several prescribed poems.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--02-four-aos-and-audiences.webp" width="900" height="693" alt="The statement, described by the specification as an invitation, sits at the centre of four objectives: AO1, a personal argument with dramatic terminology; AO2, dramatic methods; AO3, contexts of writing and reception; and AO5, interpretations from critics, productions, audiences and class debate. Below, the word audiences: treat the play as performed and received." loading="lazy">
+  <figcaption>The statement invites different readings; treat the play as performed and received.</figcaption>
+</figure>
+
 ## AO3: which contexts count?
 
 The specification's guidance lists:
@@ -84,6 +104,11 @@ The specification's guidance lists:
 - literary context: movements and genres (central in Section B)
 - **contexts of reception**: reviews, editing, staging history, film adaptation, and how readers and
   critics have reached alternative interpretations
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--04-context-and-debates.webp" width="900" height="665" alt="A table for each movement. Metaphysical: the label applied later by Johnson, new science and coterie manuscripts; debate between Johnson’s complaint of ideas “yoked by violence together” and Eliot’s praise of fused thought and feeling. Romantic: the French Revolution, industrial cities and Wordsworth’s Preface; debate between escape and political engagement. Victorian: doubt, empire, mourning and constraints on women; debate over consolation and the dramatic monologue." loading="lazy">
+  <figcaption>Literary context comes first, and each movement has a debate to test.</figcaption>
+</figure>
 
 ## AO5: what "different interpretations" means
 
@@ -96,6 +121,11 @@ seen**. AO5 is met by weighing views, not by naming critics:
 3. Offer an alternative reading (a critic, a production, a different audience).
 4. Reach your own judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-shakespeare--05-responding-to-statement.webp" width="900" height="730" alt="Six steps: unpack the statement’s key terms and assumptions, take a position, test it across the play, analyse dramatic methods in each piece of evidence, introduce alternative readings and contexts where they explain the evidence, and reach a judgement. A bar of the whole play marks an early scene, a turning point and the ending as test points." loading="lazy">
+  <figcaption>Unpack, take a position, test across the play, then judge.</figcaption>
+</figure>
+
 ## Movement features worth knowing
 
 | Movement | Typical features to analyse |
@@ -103,6 +133,11 @@ seen**. AO5 is met by weighing views, not by naming critics:
 | Metaphysical | Conceits ("The Flea"), argument and wit, colloquial openings, sacred and profane love, the sonnet in Donne's Holy Sonnets |
 | Romantic | Nature and the imagination, the individual voice, the ode form, social protest (Blake), the sublime |
 | Victorian | Dramatic monologue (Browning), elegy and doubt (*In Memoriam*), faith and science, women's voices (Barrett Browning, Rossetti), Hardy's bleak irony |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--03-movement-profiles.webp" width="900" height="755" alt="Three columns. Metaphysical: love, sex, death and God, argument and the soul and body, through conceits, dialectical argument, dramatic openings and wit, in poems by Donne, Marvell and Bradstreet. Romantic: nature, imagination, the self, childhood and social protest, through the ode, lyric first person, blank-verse meditation, the sublime and Blake’s ballad simplicity. Victorian: faith and doubt, grief, love’s constraints and social change, through dramatic monologue, elegy, sequences and irony." loading="lazy">
+  <figcaption>Each movement has its own concerns, methods and key poems.</figcaption>
+</figure>
 
 ## Worked example: an AO5 paragraph on *King Lear*
 

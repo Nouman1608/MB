@@ -47,6 +47,11 @@ Condensed recall for **6.4 Future health and food security and sustainability** 
 - **Antimicrobial resistance (AMR):** bacteria evolve resistance when antibiotics are overused or misused in people and livestock, so common infections may become harder to treat.
 - **Ageing:** longer lives raise the burden of chronic conditions such as dementia, heart disease and diabetes, with growing care costs, as seen in Japan and much of Europe.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes--01-how-pressures-work.webp" width="900" height="830" alt="Six cause-and-effect chains. Meat needs more land, water and feed per calorie; climate change lowers staple yields unevenly; biofuels compete with food; the 2022 invasion of Ukraine disrupted Black Sea exports and raised world prices; antibiotic overuse drives resistance; longer lives raise chronic disease and care costs." loading="lazy">
+  <figcaption>Each pressure works through a different chain, but all squeeze food or health systems.</figcaption>
+</figure>
+
 ## Sustainable options
 
 - Sustainable intensification
@@ -69,11 +74,21 @@ Condensed recall for **6.4 Future health and food security and sustainability** 
 
 An FAO study from 2011 estimated that roughly a third of food produced for people is lost or wasted. In lower-income countries most is lost after harvest through poor storage and transport; in higher-income countries more is wasted by retailers and consumers. The response differs: storage and cold chains in one case, labelling, redistribution and behaviour change in the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes--02-food-loss-and-waste.webp" width="900" height="680" alt="A food supply chain from farm to consumer. Food loss happens between harvest and retail through poor storage and pests; food waste happens at retail and consumer level. In lower-income countries most is lost after harvest, needing storage and cold chains; in higher-income countries more is wasted, needing labelling, redistribution and behaviour change." loading="lazy">
+  <figcaption>Where food goes missing in the chain decides the right response.</figcaption>
+</figure>
+
 ### Technology options to evaluate
 
 - **Precision agriculture** (satellite data, sensors, targeted fertiliser) can cut waste of inputs but is costly for small farmers.
 - **Drought- or flood-tolerant varieties** improve resilience but must reach farmers at affordable prices.
 - **Vertical farming** uses little land and water but has high energy costs and suits high-value crops rather than staples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes--03-technology-options.webp" width="900" height="710" alt="Three technology options with a benefit and a catch each. Precision agriculture cuts waste of inputs but is costly for small farmers. Drought- or flood-tolerant varieties improve resilience but must reach farmers at affordable prices. Vertical farming uses little land and water but has high energy costs and suits high-value crops rather than staples." loading="lazy">
+  <figcaption>Every technology fix has a catch, often about cost and who can use it.</figcaption>
+</figure>
 
 ## Resilience and governance
 
@@ -85,6 +100,11 @@ The **Sustainable Development Goals** include Goal 2 (zero hunger) and Goal 3 (g
 ### Case study: Ethiopia's Productive Safety Net Programme
 
 Launched in 2005, the programme gives food or cash to chronically food-insecure rural households, mostly in return for work on community projects such as soil and water conservation, terracing and roads. It aims to replace repeated emergency appeals with predictable support, protecting household assets during drought. Evaluation: it is often cited as a large-scale example of building resilience, but it depends on donor funding and cannot by itself overcome conflict or extreme drought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes--04-ethiopia-safety-net.webp" width="900" height="650" alt="Flow of the programme: chronically food-insecure rural households work on community projects such as soil and water conservation, terracing and roads, and receive food or cash. Predictable support replaces emergency appeals and protects assets in drought, building resilience. Limits: it depends on donor funding and cannot overcome conflict or extreme drought alone." loading="lazy">
+  <figcaption>Predictable food or cash for work builds resilience, but relies on donors.</figcaption>
+</figure>
 
 ## Evaluating futures
 

@@ -42,12 +42,22 @@ already on the site.
 This is a **school-level choice**, not a fixed feature of the subject — confirm which model your own
 school actually uses before assuming a description written for a different structure applies to you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--01-three-course-models.webp" width="900" height="790" alt="Discrete: biology, chemistry and physics run side by side all year as separate subjects. Modular: the sciences are taught one after another in rotation across the year. Integrated: the disciplines are blended into one course." loading="lazy">
+  <figcaption>The same sciences can be packaged as discrete, modular or integrated courses.</figcaption>
+</figure>
+
 ## Why the model matters for revision organisation
 
 A student on a modular timetable organising revision as if their course were fully integrated (or vice
 versa) risks structuring study time around the wrong unit boundaries — the underlying content overlaps
 substantially, but how it was sequenced and taught differs by model, which affects how efficiently you
 can organise a revision timetable around it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--06-revision-plan-steps.webp" width="900" height="620" alt="Three steps: confirm your course model and your eAssessment option; schedule revision that revisits every module in the option’s scope; and give investigation skills about half the time, matching their 50% share of marks." loading="lazy">
+  <figcaption>Confirm model and option, cover every module, and weight the skills task.</figcaption>
+</figure>
 
 ## eAssessment scope is set by the option, not the course model
 
@@ -57,6 +67,11 @@ electromagnetism, evolution, interactions between organisms, forces, states and 
 metabolism, organisms, and waves — spanning all three underlying disciplines. Which of those topics
 your own examination draws on depends on the option you are entered for, not on how your school's
 timetable was structured.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--02-scope-set-by-option.webp" width="900" height="855" alt="The course model (discrete, modular or integrated) does not set the examination scope. The eAssessment option (biology, chemistry, physics or integrated sciences) sets which topics the examination draws on, from a list spanning atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves." loading="lazy">
+  <figcaption>Your eAssessment option, not your school’s course model, sets what the exam can examine.</figcaption>
+</figure>
 
 ## Worked example: organising revision across a modular timetable
 
@@ -76,6 +91,11 @@ Practical step:  create one summary sheet per module taught, reviewed
                  examination, rather than a single pass through
                  content in teaching order
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--03-modular-revision.webp" width="900" height="710" alt="A modular year taught biology in term 1, chemistry in term 2 and physics in term 3. Revising only physics is risky because the exam can draw on any content in the option’s scope. The better plan keeps one summary sheet per module and reviews them in rotation before the exam." loading="lazy">
+  <figcaption>Revisit every module in your option’s scope, not just the most recent one.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -113,6 +133,11 @@ but has not practised formulating a testable hypothesis and interpreting imperfe
 exam conditions is under-prepared for where most of the marks actually sit, regardless of which course
 model they were taught under.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--04-weighting-revision-time.webp" width="900" height="470" alt="A bar of 100 marks split in half: the investigation-skills task, criteria B and C, carries 50 marks and the other tasks the remaining 50. Revision time should match, with practice at hypotheses and interpreting imperfect data, not only recall." loading="lazy">
+  <figcaption>Investigation skills carry half the marks, so they deserve half the revision time.</figcaption>
+</figure>
+
 ## Key and related concepts still apply across all models
 
 Regardless of course model, MYP Sciences is organised around the key concepts of change, relationships
@@ -120,6 +145,11 @@ and systems, explored through related concepts such as energy, movement, transfo
 These concepts, and the six MYP global contexts, provide a consistent conceptual thread across
 whatever specific content your school's model happens to cover — useful to keep in mind when
 connecting content from different modules or disciplines during revision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--05-concepts-across-models.webp" width="900" height="660" alt="Discrete, modular and integrated courses all feed into the same framework: the key concepts change, relationships and systems; related concepts such as energy, movement, transformation and models; the six global contexts; and one investigation-skills task." loading="lazy">
+  <figcaption>Whatever the course model, the concepts and the skills task are the same.</figcaption>
+</figure>
 
 ## Self-test
 

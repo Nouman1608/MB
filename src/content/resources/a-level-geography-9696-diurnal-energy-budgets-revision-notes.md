@@ -63,6 +63,11 @@ The surface is in balance when inputs equal all the uses and losses. Learn each 
 
 **Why the warmest time is after midday:** insolation peaks around noon, but net radiation stays positive into the early afternoon, so the surface and air keep gaining energy until incoming and outgoing flows balance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-diurnal-energy-budgets-revision-notes--01-daytime-energy-budget.webp" width="900" height="790" alt="Cross-section of a ground surface by day. Incoming shortwave solar radiation arrives; some is reflected according to albedo, some is conducted into the ground, and the rest leaves as sensible heat to the air, emitted longwave radiation and latent heat used in evaporation. A box gives the six-component equation." loading="lazy">
+  <figcaption>By day the surface gains more than it loses, so net radiation is positive and it warms.</figcaption>
+</figure>
+
 ## Night-time budget
 
 There is no solar input. The surface loses energy by longwave radiation, and cools. Offsetting gains: heat conducted up from the subsurface, sensible heat from the air, and latent heat released if dew or fog forms. Net radiation is negative.
@@ -72,6 +77,11 @@ There is no solar input. The surface loses energy by longwave radiation, and coo
 > Energy available at the surface = - longwave radiation + subsurface supply + sensible heat transfer + latent heat transfer (condensation)
 
 The coldest time is usually just before dawn, after a whole night of longwave loss.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-diurnal-energy-budgets-revision-notes--02-night-time-energy-budget.webp" width="900" height="790" alt="Cross-section of a ground surface at night with no sun. The surface loses longwave radiation to the sky and cools, partly offset by heat conducted up from the ground, sensible heat from the air and latent heat released when dew or fog forms. A box gives the night-time equation." loading="lazy">
+  <figcaption>With no solar input, longwave loss wins: net radiation is negative and the surface cools until dawn.</figcaption>
+</figure>
 
 ## Albedo values (approximate)
 
@@ -85,6 +95,11 @@ The coldest time is usually just before dawn, after a whole night of longwave lo
 | Water | Low when the sun is high; much higher at low sun angles |
 
 These are typical ranges; use the figures given in a question if they differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-diurnal-energy-budgets-revision-notes--03-albedo-ranges.webp" width="900" height="800" alt="Bar chart of approximate albedo ranges: fresh snow 80 to 90 per cent, desert sand 30 to 40, grass and crops 20 to 25, forest 10 to 20 and asphalt under 10. Water is low when the sun is high and much higher at low sun angles." loading="lazy">
+  <figcaption>Albedo is the reflected share: snow reflects most radiation, asphalt and forest very little.</figcaption>
+</figure>
 
 ## What changes the budget
 
@@ -112,6 +127,11 @@ These are typical ranges; use the figures given in a question if they differ.
 - **Radiation fog:** if the air is moist and there is a light breeze, cooling spreads through a shallow layer and droplets form in the air.
 - **Temperature inversion:** air near the cold ground becomes colder than the air above it. Pollution and fog are trapped beneath the inversion until the morning sun warms the surface.
 - **Frost hollows:** cold, dense air drains downhill at night and collects in valley floors, which are colder than the slopes above.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-diurnal-energy-budgets-revision-notes--04-night-time-phenomena.webp" width="900" height="800" alt="A valley cross-section on a clear, calm night. Dew forms on grass on the slopes, cold dense air drains downhill and collects on the valley floor as a frost hollow, and radiation fog fills the valley bottom. A side graph shows temperature rising with height near the ground in an inversion." loading="lazy">
+  <figcaption>Clear, calm nights bring dew or frost, radiation fog, inversions and frost hollows.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

@@ -37,6 +37,11 @@ Test yourself afterwards with the [Criterion A practice questions](/resources/ib
 - Speaking (Criterion C, 24 marks) is a separate, teacher-marked, IB-moderated examination.
 - Three proficiency levels for eAssessment: **emergent, capable, proficient**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--06-listening-across-levels.webp" width="900" height="510" alt="Three columns. Emergent: short, clear texts on familiar topics, mostly explicit questions and strongly supporting visuals. Capable: longer texts with more than one speaker, some inference and visuals that add information. Proficient: less familiar topics at natural speed with opinions and humour, more inference, contrast between modes and questions on attitudes." loading="lazy">
+  <figcaption>As levels rise, texts get harder and questions lean more on inference and contrast.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -51,6 +56,11 @@ Test yourself afterwards with the [Criterion A practice questions](/resources/ib
 | Attitude | The speaker's feeling or opinion towards the topic |
 | Paraphrase | The same idea in different words |
 | Distractor | Information that sounds like an answer but is not the right one |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--01-spoken-multimodal-text.webp" width="900" height="725" alt="Speech sits at the centre, linked to five other modes that also carry meaning: images, words on screen, sound, the speaker’s delivery and body language. Examples include video adverts, podcasts, news reports, interviews, vlogs, announcements and voicemails." loading="lazy">
+  <figcaption>Listening is only half the task: every other mode carries meaning too.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -72,6 +82,11 @@ Test yourself afterwards with the [Criterion A practice questions](/resources/ib
 9. Answer explicit questions briefly and precisely.
 10. For inference, audience, purpose and speech-image questions, use **point -- evidence -- explanation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--02-explicit-information.webp" width="900" height="550" alt="Before listening, read the questions, underline key words and predict the answer type; on the first listen take notes in order; on the second, check anything marked with a question mark. Three traps: paraphrase (the speaker says “you’ll pay” for “cost”), self-correction (Tuesday, then Wednesday) and distractors (two times or prices)." loading="lazy">
+  <figcaption>Expect paraphrase, corrections and distractors, not the question’s exact words.</figcaption>
+</figure>
+
 ## Speech and images: three links
 
 | Link | Test question | Sentence frame |
@@ -81,6 +96,11 @@ Test yourself afterwards with the [Criterion A practice questions](/resources/ib
 | Contrast | Do image and speech seem to disagree? | "The words '...' contrast with the shot of ..., which creates humour/criticism because ..." |
 
 Sound counts too. Music can reinforce a mood, add a sense of place, or contrast with the words for irony.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--04-reinforce-add-contrast.webp" width="900" height="655" alt="Three relationships between speech and image. Reinforce: the speaker says the park is quiet and footage shows an empty path. Add: a caption shows a date the speaker never says. Contrast: the speaker says “relaxing holiday” while footage shows a queue in the rain." loading="lazy">
+  <figcaption>Name the relationship, cite the image and words, explain the effect.</figcaption>
+</figure>
 
 ## Conventions of spoken text types
 
@@ -107,6 +127,11 @@ Always add **why**: "The chime gets attention before key information."
 - **Speech and image**: the circled map **reinforces** "north gate" and **adds** its location.
 - **Audience**: students and parents ("everyone", "Parents, please..."). **Purpose**: to inform and instruct.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--05-worked-example-bike-advert.webp" width="900" height="785" alt="A storyboard of a 40-second bike-share advert in five frames: a traffic queue with slow music, a green bike with fast music and the scheme’s facts, on-screen prices that add information, a teenager riding past the queue implying cycling is faster, and the logo with the web address read twice as a call to action." loading="lazy">
+  <figcaption>Track speech, visuals and music frame by frame to see how the advert persuades.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Explicit vs implicit.** Explicit: "The tickets are free." Implicit: "Bring your own chair" suggests there is no seating.
@@ -115,6 +140,11 @@ Always add **why**: "The chime gets attention before key information."
 - **Tone vs content.** A speaker can say something positive in a sarcastic tone. The tone changes the meaning.
 - **Reinforce vs add.** Reinforce repeats the message; add gives new facts.
 - **Quoting vs paraphrasing.** If the task says "quote", copy the exact words. Otherwise, your own words are fine and often clearer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-a-listening--03-implicit-information.webp" width="900" height="590" alt="Inferences rest on evidence from word choice, tone, what is left out and the visuals. “The speaker is worried” earns little; “she is worried because she repeats ‘I really hope’ and her voice drops” earns much more because it quotes words and describes tone." loading="lazy">
+  <figcaption>Every inference needs a quoted or described piece of evidence.</figcaption>
+</figure>
 
 ## What the question word asks for
 

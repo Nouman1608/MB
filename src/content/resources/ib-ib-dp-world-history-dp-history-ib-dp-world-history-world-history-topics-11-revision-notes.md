@@ -33,6 +33,11 @@ These notes condense world history topic 11 for Paper 2: the causes of twentieth
 | Practices and impact on outcome | Types of war (civil, guerrilla, limited, total); technology; theatres of war (air, land, sea); mobilization of human and economic resources; influence or involvement of foreign powers |
 | Effects | Peacemaking; territorial changes; political repercussions; economic, social and demographic impact; role and status of women |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--01-three-parts.webp" width="900" height="518" alt="Three linked cards: causes of war (by type and timescale), practices of war and their impact on the outcome (types of war, technology and theatres, mobilization, foreign powers) and effects of war (peacemaking, territory, politics, economy and society, women). A note stresses that Part 2 means explaining why one side won." loading="lazy">
+  <figcaption>Causes, practices, effects: and Part 2 asks why one side won.</figcaption>
+</figure>
+
 ## Four types of war
 
 | Type | Definition | Example |
@@ -44,6 +49,11 @@ These notes condense world history topic 11 for Paper 2: the causes of twentieth
 
 A single conflict can combine types: the Chinese Civil War began with guerrilla methods and ended with large conventional battles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--04-total-limited.webp" width="900" height="538" alt="Four chips name the types of war in the guide: civil, guerrilla, limited and total. A table compares the First World War as a total war (conscription in Britain from 1916, the Defence of the Realm Act of 1914, economies turned to war production) with the Falklands as a limited war (confined to the islands and sea, limited aims on both sides)." loading="lazy">
+  <figcaption>Total war mobilizes whole societies; a limited war has limited area and aims.</figcaption>
+</figure>
+
 ## Case notes
 
 ### First World War (1914-1918)
@@ -54,6 +64,11 @@ A single conflict can combine types: the Chinese Civil War began with guerrilla 
 - **Outcome:** US entry (April 1917); failure of the German spring offensive (1918); Allied advance; armistice 11 November 1918.
 - **Effects:** Versailles (28 June 1919) and the other Paris treaties; the League of Nations; collapse of four empires (German, Austro-Hungarian, Russian, Ottoman); revolution in Russia; women's suffrage in several countries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--05-practices-outcome.webp" width="900" height="779" alt="First World War: machine guns and artillery cause trench deadlock; unrestricted submarine warfare from February 1917 helps bring the USA in by April 1917; the Allies' greater resources wear down the Central Powers by 1918. Falklands: a British submarine sinks the General Belgrano on 2 May 1982 and the Argentine navy then stays in port." loading="lazy">
+  <figcaption>Describe a practice only to explain why the winner won.</figcaption>
+</figure>
+
 ### Spanish Civil War (1936-1939)
 
 - **Causes:** land inequality; Church and army against reformers; regional nationalism; polarization after the Popular Front victory (February 1936).
@@ -62,6 +77,11 @@ A single conflict can combine types: the Chinese Civil War began with guerrilla 
 - **Outcome:** Nationalist victory, 1 April 1939: foreign aid, unified command under Franco, Republican divisions (May Days, Barcelona, 1937).
 - **Effects:** Franco's dictatorship; repression and exile of Republicans; economic ruin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--08-spain-balance.webp" width="900" height="657" alt="A balance tips towards the Nationalists. Their side lists the airlift of the Army of Africa by German and Italian aircraft, the Condor Legion and Italian troops, and Franco's unified command. The Republic's side lists Soviet aid that fell after 1937, non-intervention by Britain and France, and divisions shown in Barcelona in May 1937." loading="lazy">
+  <figcaption>Foreign aid gave the means; unity let the Nationalists use them.</figcaption>
+</figure>
+
 ### Falklands War (1982)
 
 - **Causes:** Argentine sovereignty claim; the junta's economic and political crisis; British signals of reduced commitment.
@@ -69,12 +89,22 @@ A single conflict can combine types: the Chinese Civil War began with guerrilla 
 - **Practices:** British naval task force; sinking of the *General Belgrano* (2 May); Argentine air attacks on British ships; landings at San Carlos; Argentine surrender at Stanley (14 June).
 - **Effects:** fall of the junta and return to civilian rule in Argentina (1983); boost to Thatcher's government.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--03-falklands-causes.webp" width="900" height="569" alt="The causes of the Falklands War sorted into long-term (the Argentine claim to the islands, tagged territorial; British reluctance to fund their defence), short-term (the junta's need for a popular cause amid economic crisis, tagged political and economic) and the trigger (the Argentine invasion of 2 April 1982). An arrow shows the territorial claim served a political need. Below: sort, rank, link." loading="lazy">
+  <figcaption>Sort by type and timescale, rank, then show how the categories overlap.</figcaption>
+</figure>
+
 ### Iran-Iraq War (1980-1988)
 
 - **Causes:** dispute over the Shatt al-Arab; Saddam Hussein's ambition for regional leadership; fear of revolutionary Iran.
 - **Practices:** trench warfare and mass infantry offensives; Iraqi use of chemical weapons; attacks on cities and on oil tankers in the Gulf; foreign arms supplies to both sides.
 - **Outcome:** stalemate; ceasefire under UN Security Council Resolution 598, accepted by Iran in 1988.
 - **Effects:** huge casualties and economic damage with no territorial gain; Iraqi debts that formed part of the background to the invasion of Kuwait (1990).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11--02-four-wars-timeline.webp" width="900" height="727" alt="A timeline from 1910 to 1990 with four bars: the First World War (1914-18), the Spanish Civil War (1936-39), the Iran-Iraq War (1980-88) and the Falklands War (1982), each labelled with its trigger. A note warns that the first two are both European." loading="lazy">
+  <figcaption>Four wars across the century; pick essay pairs from different regions.</figcaption>
+</figure>
 
 ## Key terms
 

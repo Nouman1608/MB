@@ -37,6 +37,11 @@ They apply to any prose set text; the list changes by year, so check it for your
 - The question is worth **25 marks** and tests **AO1–AO4**, with personal response asked for directly
   or by implication.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--01-section-b-and-aos.webp" width="900" height="722" alt="Section B is worth 25 of Paper 1’s 50 marks: one question on one prose set text, a novel or short stories, from a choice of two, with passages printed. AO2 understanding often leads in prose, but AO3, the writer’s methods, lifts answers above the middle levels." loading="lazy">
+  <figcaption>Questions often start from character (AO2); higher marks need the writer’s methods (AO3).</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning | Why it matters in an answer |
@@ -56,6 +61,11 @@ They apply to any prose set text; the list changes by year, so check it for your
 | Pace | Speed of narration | Slowing down marks importance |
 | Climax / resolution | Point of highest tension / how it settles | Structure and meaning of the ending |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--02-prose-methods.webp" width="900" height="714" alt="Seven prose methods arranged around the reader’s response, each with a question to ask: narrative voice, characterisation, dialogue, setting and atmosphere, structure and pace, imagery and symbol, and tone and irony." loading="lazy">
+  <figcaption>Every method is a way the writer shapes the reader’s response; ask what each one does.</figcaption>
+</figure>
+
 ## Approach 1: the printed passage
 
 1. **Place it:** one or two sentences on what has just happened and why the moment matters.
@@ -65,6 +75,11 @@ They apply to any prose set text; the list changes by year, so check it for your
 5. **Select:** four or five moments across the whole passage, including the end.
 6. **Write:** point, short quotation, analysis of method, effect on the reader, link to the question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--03-printed-passage.webp" width="900" height="822" alt="Three stages for a printed passage: place it between what happens just before and what follows; annotate for the impression it gives, changes within it, specific language, narrative choices and dialogue; then write in order if it develops or by aspect if not, covering the whole passage including its ending." loading="lazy">
+  <figcaption>Place the passage, annotate it for the question, and cover it to the end.</figcaption>
+</figure>
+
 ## Approach 2: the text more widely
 
 - Choose **five or six key moments** per major character or theme, spread across the text.
@@ -72,6 +87,11 @@ They apply to any prose set text; the list changes by year, so check it for your
 - Know **how and why** characters and relationships change.
 - Organise the answer as an **argument**, not a plot summary in order.
 - For **short stories**, revise each story separately: narrator, central change, ending, key images.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--04-wider-text.webp" width="900" height="738" alt="For each major character and theme, choose five or six key moments from the beginning, middle and end of the text, each with two or three short quotations learned by heart. Know how a character changes and why the writer includes each moment. For short stories, know each story’s narrator, central change, ending and key images." loading="lazy">
+  <figcaption>Spread your key moments across the whole text, with short quotations for each.</figcaption>
+</figure>
 
 ## Building a paragraph
 
@@ -81,10 +101,25 @@ They apply to any prose set text; the list changes by year, so check it for your
 - **Effect:** what it makes the reader think or feel.
 - **Link:** back to the question, often with a personal judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--06-answer-structure.webp" width="900" height="706" alt="An answer structure: a two- or three-sentence introduction that answers the question and places the passage, four or five analytical paragraphs each moving from point to quotation to method to effect, a paragraph on structure or the ending, and a conclusion judging the key word." loading="lazy">
+  <figcaption>Keep each paragraph focused: point, quotation, method, effect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--05-worked-example.webp" width="900" height="776" alt="Five methods in the original “Last Bus” passage point to Amira’s feelings: the suitcase “like a small, stubborn animal”, her pressing the clasp “every few minutes”, the ironic comment that the things inside might leave without her, the hurrying evening around her stillness, and her denial that she is looking at her feet." loading="lazy">
+  <figcaption>Imagery, narrative comment, setting and dialogue all point to the question’s focus.</figcaption>
+</figure>
+
 ## Context in one rule
 
 Use context only when it explains something in the passage or text you are discussing. A detached
 paragraph of background earns little.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-english-literature-0475-section-b-prose--07-context-test.webp" width="900" height="652" alt="A test for context: delete the sentence about context and ask whether your reading of the passage loses anything. If it does, keep it, because it explains something in the words in front of you; if not, it is a separate block of history and should be left out." loading="lazy">
+  <figcaption>Context earns its place only when it explains the words in front of you.</figcaption>
+</figure>
 
 ## What higher-level answers do
 

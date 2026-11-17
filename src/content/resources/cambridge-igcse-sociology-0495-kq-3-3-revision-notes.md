@@ -63,6 +63,11 @@ Full explanations and case studies are in the
 | **Core and periphery** | Rich industrial states versus poorer suppliers of raw materials and labour (Wallerstein) |
 | **Neo-colonialism** | Continued economic control of former colonies through trade and debt |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--01-push-pull-model.webp" width="900" height="595" alt="Lee’s model: push factors at the origin drive people out, pull factors at the destination attract them, and intervening obstacles such as cost, distance and border controls lie between. Globalisation creates push factors, lowers obstacles and makes pull factors visible." loading="lazy">
+  <figcaption>Globalisation changes push factors, obstacles and pull factors at once.</figcaption>
+</figure>
+
 ## Migration: gains and losses
 
 - **Receiving society:** + workers for shortages, taxes, new businesses, cultural diversity; − claimed
@@ -75,6 +80,16 @@ Full explanations and case studies are in the
   concentrated in low-paid work.
 - **Example of diversity:** *Empire Windrush*, 1948, symbol of post-war Caribbean migration to Britain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--02-migration-gains-losses.webp" width="900" height="701" alt="Three columns. Sending societies gain remittances but lose trained workers through brain drain. Migrants gain wages, safety and education but face exploitation, separation and discrimination. Receiving societies gain workers and taxes but may face pressure on housing and services. The kafala system shows how migrants can lack power." loading="lazy">
+  <figcaption>Migration brings gains and losses to sending societies, receiving societies and migrants.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--03-scapegoating-chain.webp" width="900" height="614" alt="A chain: migrants are stereotyped and scapegoated, media and political campaigns amplify fear, this feeds discrimination in jobs and housing, and many migrants are kept in low-paid work, reinforcing inequality." loading="lazy">
+  <figcaption>Scapegoating feeds discrimination, which keeps migrants in low-paid work.</figcaption>
+</figure>
+
 ## Ecological issues: case studies
 
 | Issue | Case or example | Inequality point |
@@ -86,6 +101,16 @@ Full explanations and case studies are in the
 | Pollution | Hazardous and electronic waste shipped to poorer countries | Health costs moved down the global hierarchy |
 | Urbanisation | Dharavi (Mumbai), Kibera (Nairobi) | Rapid city growth outpaces housing, water and sanitation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--04-ecological-costs.webp" width="900" height="730" alt="Profits from TNC production and products from mining flow up to richer societies, while costs flow down to poorer ones: factory disasters such as Bhopal and Rana Plaza, climate effects, hazardous e-waste and polluted land and water." loading="lazy">
+  <figcaption>The costs of global production often fall on poorer societies; the profits flow elsewhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--05-urbanisation.webp" width="900" height="452" alt="Globalisation speeds the move from countryside to city; where housing and infrastructure cannot keep up, informal settlements such as Dharavi and Kibera grow. Cities bring work and higher incomes but also insecure tenure, poor water and sanitation, concentrated poverty, pollution and flooding." loading="lazy">
+  <figcaption>Fast urban growth brings both opportunity and concentrated poverty.</figcaption>
+</figure>
+
 ## Explanations recall
 
 - **Marxist:** global capitalism moves surplus from poor to rich. Frank — metropolis and satellite;
@@ -95,6 +120,16 @@ Full explanations and case studies are in the
   Conference, 1884–85), limited education; continued as neo-colonialism.
 - **Feminist:** women's low-paid work on global assembly lines; migrant women as domestic and care
   workers; extra unpaid work from environmental damage; limited ownership of land and credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--06-world-systems.webp" width="900" height="681" alt="Concentric rings show Wallerstein’s core, semi-periphery and periphery, with surplus flowing to the core. Frank’s dependency theory says rich metropolis countries developed by draining surplus from poor satellites. Today’s examples are TNC profits, unequal trade and debt repayments." loading="lazy">
+  <figcaption>For Marxists, poor countries are poor because of the global system, not despite it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-3-3--07-colonial-and-feminist.webp" width="900" height="635" alt="Colonialism: after the Berlin Conference of 1884–85, colonial rule extracted resources, built transport to ports, drew borders that ignored communities and limited education, leaving dependence on raw-material exports and neo-colonialism. Feminist explanations: women’s low-paid assembly work, migration as carers, extra environmental burden and limited ownership." loading="lazy">
+  <figcaption>Colonial rule left economies dependent; patriarchy makes global inequality gendered.</figcaption>
+</figure>
 
 ## Exam traps
 

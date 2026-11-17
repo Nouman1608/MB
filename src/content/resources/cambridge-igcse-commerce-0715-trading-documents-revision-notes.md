@@ -42,6 +42,11 @@ Steps 4 and 5 can swap or arrive together. Memory line: **ask, offer, buy, deliv
 
 Only **two** documents come from the buyer: the enquiry and the order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--19-co-documents.webp" width="900" height="900" alt="Eight documents between buyer and seller: enquiry, quotation, order, delivery note, invoice after delivery, credit note if goods are returned, statement of account and receipt." loading="lazy">
+  <figcaption>The eight home-trade documents in a typical order.</figcaption>
+</figure>
+
 ## Discounts on documents
 
 - **Trade discount**: given to businesses buying for resale or business use; deducted on the quotation and invoice.
@@ -52,6 +57,11 @@ Mini example (invented figures): 50 lamps at $16 = $800; trade discount 25% = $2
 
 Credit notes must use the **same trade discount**: one returned lamp = 16 - 25% = $12 credit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--01-dalia-money-trail.webp" width="900" height="790" alt="Four document cards. Invoice: 20 chairs at $45 = $900, less 20% trade discount of $180, total $720. Credit note: 2 chairs = $90 less $18, value $72. Statement: 720 − 72 leaves $648 owed. Paying within 14 days: 5% cash discount of $32.40, so Dalia pays $615.60." loading="lazy">
+  <figcaption>Take off trade discount first, then cash discount only if payment is made in time (invented figures).</figcaption>
+</figure>
+
 ## International trade documents
 
 | Document | Issued by | Function |
@@ -60,6 +70,16 @@ Credit notes must use the **same trade discount**: one returned lamp = 16 - 25% 
 | Bill of lading | Shipping company | Receipt, contract of carriage, **document of title** (sea) |
 | Air waybill | Airline | Receipt and contract of carriage (air); **not** a document of title |
 | Documentary credit (letter of credit) | Importer's bank | Promise to pay exporter on presenting agreed documents; reduces non-payment risk |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--02-international-documents.webp" width="900" height="705" alt="Four cards: the certificate of origin states where goods were made for customs; the bill of lading is a receipt, contract evidence and document of title for sea freight; the air waybill is a receipt and contract evidence for air freight but not a document of title; documentary credit is a bank’s promise to pay the exporter." loading="lazy">
+  <figcaption>Both carriage documents prove the goods were received, but only the bill of lading is a document of title.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--03-documentary-credit.webp" width="900" height="700" alt="Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships the goods and receives a bill of lading; the exporter presents the documents and the bank pays; the bill of lading passes to the buyer, who claims the goods at the port." loading="lazy">
+  <figcaption>Payment depends on presenting the agreed documents, so the risk of non-payment falls.</figcaption>
+</figure>
 
 ## Online ordering: eight stages
 
@@ -73,6 +93,11 @@ Credit notes must use the **same trade discount**: one returned lamp = 16 - 25% 
 8. Receive order
 
 Paper equivalents: basket and checkout = order; confirmation = receipt; tracking and electronic proof = delivery note.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--04-online-ordering.webp" width="900" height="665" alt="Eight numbered stages: browse, select into a basket, log in or check out as a guest, enter delivery details, pay securely, receive an order confirmation, receive dispatch notification with tracking, and receive the order. The basket replaces the paper order, the confirmation replaces the receipt and tracking replaces the delivery note." loading="lazy">
+  <figcaption>Online ordering follows the same steps as paper trading, with electronic records instead of documents.</figcaption>
+</figure>
 
 ## Digital technology in trading documents
 

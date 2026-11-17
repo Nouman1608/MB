@@ -35,6 +35,11 @@ Condensed recall for Paper 3 Section A. For full explanations and a worked synth
 - Analyse how the prose text exemplifies change, supported by both data sources and wider study.
 - AO2 (writing), AO4 (linguistic concepts and issues), AO5 (analysing and synthesising data).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--01-three-sources.webp" width="900" height="610" alt="Three sources feed one essay: a prose text of about 300 to 400 words from any time since Early Modern English (c.1500), an n-gram graph of word frequency in printed texts, and a corpus word table of collocates or synonyms. The compulsory question is worth 25 marks, half of Paper 3, and assesses AO2, AO4 and AO5; dictionaries are not allowed." loading="lazy">
+  <figcaption>The essay must combine the prose text, the n-gram graph and the word table.</figcaption>
+</figure>
+
 ## Dating a text: quick features list
 
 **Likely Early Modern (c.1500 to late 1600s)**
@@ -57,6 +62,11 @@ Condensed recall for Paper 3 Section A. For full explanations and a worked synth
 - Recent borrowings and coinages; acronyms and initialisms; conversion ("to google").
 - Graphology of digital or mass-market print.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--02-dating-landmarks.webp" width="900" height="630" alt="A timeline from the start of Early Modern English around 1500, through the spread of printing from the late fifteenth century, Johnson's Dictionary in 1755 and Lowth's prescriptive grammar in 1762, to today. Below, variable spelling and -eth endings suggest an early text, while standard spelling with very formal syntax and politeness formulas suggests the eighteenth or nineteenth century." loading="lazy">
+  <figcaption>Printing, Johnson and the prescriptive grammars help you place an unseen text.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition | Example |
@@ -77,6 +87,16 @@ Condensed recall for Paper 3 Section A. For full explanations and a worked synth
 | Amelioration | Meaning becomes more positive | "nice", "knight" |
 | Pejoration | Meaning becomes more negative | "villain", "silly" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--03-word-formation.webp" width="900" height="724" alt="Nine word-formation processes with the lesson's examples: derivation (kindness), compounding (smartphone), blending (smog), conversion (text as a verb), backformation (edit from editor), borrowing (bungalow, tsunami, algebra), telescoping (goodbye from God be with you), coalescence (today, anyone) and acronyms (scuba, laser)." loading="lazy">
+  <figcaption>Have a definition and one example ready for every process.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--04-semantic-change.webp" width="900" height="560" alt="Four panels: broadening, as &quot;holiday&quot; widens from a holy day to any day off; narrowing, as &quot;meat&quot; once meant food in general; amelioration, as &quot;nice&quot; once meant foolish; and pejoration, as &quot;villain&quot; once meant a farm labourer." loading="lazy">
+  <figcaption>Meanings widen, narrow, improve or worsen: name the direction.</figcaption>
+</figure>
+
 ## The named theories in one line each
 
 - **Random fluctuation**: some change has no single cause; forms drift like fashion.
@@ -89,6 +109,11 @@ Condensed recall for Paper 3 Section A. For full explanations and a worked synth
 
 Attitudes: **prescriptivism** (change as decline) versus **descriptivism** (change recorded without judgement).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--05-theories-of-change.webp" width="900" height="715" alt="Five theories that explain why change happens: random fluctuation, cultural transmission, lexical gaps, substratum and functional theory. Beside them, two models of how languages relate: Schleicher's tree model of branches from common ancestors and Schmidt's wave model of changes rippling out from a centre. A note contrasts prescriptivism and descriptivism." loading="lazy">
+  <figcaption>Use a theory to explain why a change happened, not just to label it.</figcaption>
+</figure>
+
 ## Reading an n-gram graph: five steps
 
 1. **What**: which words or forms, which years.
@@ -97,16 +122,31 @@ Attitudes: **prescriptivism** (change as decline) versus **descriptivism** (chan
 4. **Why**: process (standardisation, borrowing, semantic shift) plus theory.
 5. **Limits**: printed-book corpus; formal bias; scanning errors (long s read as "f"); frequency is not meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--06-reading-n-gram.webp" width="900" height="615" alt="A schematic n-gram graph with relative frequency against time, where an older form falls and a newer form rises until they cross. Beside it, five steps: state what is plotted, describe each trend, give approximate dates, interpret through a process and theory, and qualify the evidence, since the corpus contains only printed texts." loading="lazy">
+  <figcaption>Describe the trend, then interpret it, then qualify what the data can show.</figcaption>
+</figure>
+
 ## Reading a corpus word table
 
 - **Collocates** reveal meaning: compare collocates of one word across periods to show semantic change.
 - **Synonym lists** show competition: which word wins a semantic space, and when.
 - Always quote two or three items from the table rather than describing it vaguely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--07-collocates-awful.webp" width="900" height="575" alt="In older corpus data &quot;awful&quot; collocates with &quot;majesty&quot; and &quot;power&quot;, meaning awe-inspiring; in recent data it collocates with &quot;weather&quot; and &quot;mistake&quot;, meaning very bad. The shift shows pejoration and weakening into an intensifier." loading="lazy">
+  <figcaption>Changing collocates show a word's meaning shifting over time.</figcaption>
+</figure>
+
 ## Paragraph formula
 
 **Feature in the prose text** (quoted, named) + **data that confirm or complicate it** (graph or table, with dates) +
 **process** + **theory or concept** that explains it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-language-9093-section-a-language-change--08-synthesis.webp" width="900" height="680" alt="The lesson's seventeenth-century-style letter, then three paragraphs mapped as text plus data plus concept: orthography (&quot;shew'd&quot;) with an n-gram crossover and cultural transmission; grammar (&quot;hath&quot;, &quot;I doubt not&quot;) with the loss of -eth and of negation without do; and lexis (&quot;Physick&quot;) with collocates moving to &quot;medicine&quot;." loading="lazy">
+  <figcaption>Each paragraph moves between the prose text, the data and a concept.</figcaption>
+</figure>
 
 ## Exam traps
 

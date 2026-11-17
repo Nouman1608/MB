@@ -49,6 +49,11 @@ Wave size depends on **wind speed**, **wind duration** and **fetch** (the distan
 
 **Wave refraction:** waves slow and bend as they enter shallower water off a headland, concentrating energy on the headland and spreading it out in bays. This is why headlands erode and bays become sites of deposition.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--11-longshore-drift.webp" width="900" height="790" alt="A plan view of a coast with the sea above and land below. Waves arrive at an angle. Each swash carries sediment up the beach at an angle, and each backwash returns it straight down, so sediment zigzags along the coast in the direction the waves approach, left to right. A groyne built across the beach traps sediment on the updrift side, where the beach builds up, and the beach on the downdrift side is starved. Schematic, not to scale." loading="lazy">
+  <figcaption>Longshore drift moves sediment along the coast; a groyne builds the beach updrift and starves it downdrift.</figcaption>
+</figure>
+
 ## Landforms
 
 | Erosion | Deposition |
@@ -65,6 +70,11 @@ Explain each as a sequence of steps, not just a name.
 - **Spit:** longshore drift carries sediment along the coast; where the coastline changes direction, as at an estuary mouth, deposition continues out into open water; changes in wind and wave direction curve the end into a **recurved tip**; sheltered water behind allows salt marsh to form. Spurn Head at the mouth of the Humber is a classic example.
 - **Tombolo:** a ridge of deposited sediment that joins an island to the mainland, such as the link formed by Chesil Beach to the Isle of Portland.
 - **Bar:** a spit that grows across a bay, closing it off to form a lagoon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--10-erosion-landforms.webp" width="900" height="850" alt="Top: a cross-section of a cliff beside the sea with a notch cut at its base by waves and a gently sloping wave-cut platform at its foot. Bottom: three side views of a headland in sequence. A cave forms at the waterline, the cave is worn right through to make an arch, and when the arch collapses a separate stack is left standing in the sea. Schematic, not to scale." loading="lazy">
+  <figcaption>Landforms of erosion: cliff, wave-cut platform, then cave, arch and stack.</figcaption>
+</figure>
 
 ### Geology matters
 
@@ -109,6 +119,11 @@ People change coastal systems directly and indirectly: ports, land reclamation, 
 ## Worked check
 
 A cliff top retreats 3.6 m in 8 years: 3.6 / 8 = 0.45 m per year. Retreat is episodic (most happens in storms), so extrapolating a mean rate is risky.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--13-cliff-retreat.webp" width="900" height="910" alt="A graph of cliff-top retreat in metres against years from 0 to 8. A dashed straight line shows the mean rate of 0.45 metres a year, reaching 3.6 metres at 8 years. A stepped copper line shows illustrative yearly retreat that is mostly small with two large storm-year steps, ending at the same 3.6 metres. A strip above shows 3.6 divided by 8 is 0.45 m a year and 0.45 times 40 years is 18 m. A warning says the mean hides storm steps so do not extrapolate blindly." loading="lazy">
+  <figcaption>Worked example: 3.6 m in 8 years is 0.45 m a year, but erosion is episodic so a mean hides storm steps.</figcaption>
+</figure>
 
 ## Model paragraph
 

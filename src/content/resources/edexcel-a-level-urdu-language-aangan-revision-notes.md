@@ -35,6 +35,11 @@ Revision notes for **5.1** in the prescribed literary texts and films of Pearson
 
 1999 is the year printed in the specification's list. The novel itself was first published in 1962, so do not describe it as a novel written in the 1990s. Khadija Mastur was one of the leading women fiction writers in Urdu, and she settled in Pakistan after independence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--02-prescribed-works.webp" width="900" height="716" alt="Three literary texts (Aangan آنگن, novel, Khadija Mastur, 1999; Patras Ke Mazameen پطرس کے مضامین, essays, 2011, five essays prescribed; Bisaat بساط, play, Baseer Kazmi, 1987) and three films (Bin Roye بن روئے, 2015; Baaghban باغبان, 2003; Bajrangi Bhaijaan بجرنگی بھائی جان, 2015)." loading="lazy">
+  <figcaption>Three texts and three films; the films are given by name and year only.</figcaption>
+</figure>
+
 ## What the novel is about
 
 *Aangan* is set in a Muslim household in north India in the years before Partition, and ends after the creation of Pakistan. The story is seen largely through the experience of a young woman, **عالیہ** (Aliya), who grows up in her extended family's home. The great political conflict of the period, between supporters of the Congress and of the Muslim League, enters the house itself: members of the same family take opposite sides, and political arguments affect marriages, loyalties and futures.
@@ -64,6 +69,16 @@ Use this summary only as orientation. In the exam you need your own detailed ref
 - You write exactly **two** extended responses: two literary texts, or one literary text and one film. Two films is never allowed.
 - Marking criteria: critical and analytical response with cultural or social insight (AO4), range of grammatical structures and vocabulary (AO3), and accuracy of language (AO3). There are no AO1 or AO2 marks on Paper 2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--01-paper-2-structure.webp" width="900" height="626" alt="Paper 2 lasts 2 hours 40 minutes for 110 marks (30% of the A-level). Section A, translation into Urdu, has 20 marks and 30 minutes; each of the two works responses has 45 marks and about 1 hour 5 minutes. Section A is marked in 20 one-mark chunks, and verb and adjective endings must be correct." loading="lazy">
+  <figcaption>Translation first, then two 45-mark essays; endings are never treated as spelling.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--05-allowed-combinations.webp" width="900" height="528" alt="The two allowed combinations of works essays: two literary-text essays (Section B twice), or one literary-text essay and one film essay (Sections B and C). Two film essays, or three extended responses, are not allowed." loading="lazy">
+  <figcaption>Two texts, or a text and a film: never two films, never three essays.</figcaption>
+</figure>
+
 ## Approach and skills
 
 - Prepare against five angles: **form and technique, key themes and issues, characterisation, plot structure, social and cultural setting**.
@@ -72,6 +87,11 @@ Use this summary only as orientation. In the exam you need your own detailed ref
 - Use your own prepared references from the work; this page does not replace studying it.
 
 The novel links naturally to Theme 4: see the notes on [the creation of Pakistan in 1947](/resources/edexcel-a-level-urdu-language-creation-of-pakistan-1947-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--03-five-angles.webp" width="900" height="664" alt="Each studied work is prepared from five angles: form and technique, key themes and issues, characterisation, plot structure, and social and cultural setting, then connected to the qualification’s four themes for AO4." loading="lazy">
+  <figcaption>Revise each work from all five angles and link it to the wider themes.</figcaption>
+</figure>
 
 ## Vocabulary for writing about the novel
 
@@ -112,6 +132,11 @@ Task: how does the novel show the effect of politics on family life?
 **Translation:** In Khadija Mastur's novel *Aangan*, politics is not confined to rallies and newspapers but enters the courtyard of the home. In the novel, members of a single family are divided in their support for the Congress and the Muslim League, and this disagreement creates bitterness in their relationships. Aliya watches these quarrels closely, which is why the reader too sees the political atmosphere before Partition through the eyes of one household. In my view the author's method is very effective, because it shows how the great events of history affect the lives of ordinary people, especially women.
 
 **Why it works:** position, then evidence, then a cultural connection. In a real answer, add two or three specific scenes from your own reading after the second sentence; the frame alone would not reach the top of the AO4 range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-works--04-works-response-structure.webp" width="900" height="710" alt="A works essay states a position, supports it with two or three specific scenes or lines, and closes by connecting the issue to its wider social theme, earning AO3 through precise language and AO4 through cultural context. Chronological retelling is the trap." loading="lazy">
+  <figcaption>Position, evidence, cultural connection: argue, do not retell.</figcaption>
+</figure>
 
 ## Essay prompts to prepare
 

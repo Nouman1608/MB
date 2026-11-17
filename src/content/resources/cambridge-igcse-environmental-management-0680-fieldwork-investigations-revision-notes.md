@@ -39,6 +39,16 @@ Condensed recall for sub-topic 5.4 of Cambridge IGCSE Environmental Management (
 
 Mnemonic: **A P V V R R A A C**, read as "Aim, Plan, Variables twice, Repeats, Record, Analyse, Anomalies, Conclude".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--01-scientific-method.webp" width="900" height="520" alt="A snaking flow of nine numbered stages: aims and hypotheses, plan methods, measured and control variables, independent and dependent variables, repeats and replicates, record data, analyse data, identify anomalies, and form conclusions." loading="lazy">
+  <figcaption>Each stage of the scientific method feeds the next, from hypothesis to conclusion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--02-variables.webp" width="900" height="646" alt="Habitat type, the independent variable, affects the number of beetles, the dependent variable. Trap size, time left out and time of day are control variables kept the same. Below, repeats are measurements taken again; replicates are extra samples at different places." loading="lazy">
+  <figcaption>Change one variable, measure one, and keep the rest the same.</figcaption>
+</figure>
+
 ## Strategy versus technique
 
 - **Strategy** = where you sample: random or systematic (5.4.2).
@@ -55,6 +65,11 @@ Exam questions often ask for one and not the other; read carefully.
 | Benefit | Avoids observer bias | Shows change with distance; even coverage; quick |
 | Limitation | May miss rare species or patches; needs many samples | May miss organisms between points; bias if interval matches a pattern |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--03-random-systematic.webp" width="900" height="706" alt="Left: a grid laid out with two tape measures, with quadrats at randomly chosen coordinates. Right: a transect at right angles to a footpath with a 0.5 m quadrat every 2 m, sampling the gradient away from the path." loading="lazy">
+  <figcaption>Random for comparing similar areas; systematic for change along a gradient.</figcaption>
+</figure>
+
 ## The seven techniques (5.4.4, 5.4.5)
 
 - **Pitfall trap**: sunk container, lid against rain. Ground invertebrates. Cheap, unattended. Only active ground animals; predation in trap; check often.
@@ -64,6 +79,11 @@ Exam questions often ask for one and not the other; read carefully.
 - **Transect**: line with samples along it. Gradients and zonation. Shows change clearly. Slow; one line may be untypical.
 - **Aerial photography and drones**: images from above. Herds, colonies, vegetation. Large or unsafe areas fast. Cost, permits, canopy hides animals, disturbance.
 - **Automated sampling**: camera traps, sound recorders, data loggers. Shy or nocturnal animals; long periods. No observer disturbance, works continuously. Cost, theft, batteries, huge data sets.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--04-sampling-techniques.webp" width="900" height="574" alt="Seven cards with simple drawings: a pitfall trap for ground beetles, a pooter for very small invertebrates, a sweep net for insects in long grass, a quadrat for plants, a transect for gradients, a drone for herds and vegetation cover, and a camera trap for shy or night-active animals." loading="lazy">
+  <figcaption>Pick the technique that fits the organism and where it lives.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -87,6 +107,11 @@ Exam questions often ask for one and not the other; read carefully.
 1. **Spot** it: a value well outside the others.
 2. **Check** for a cause: misreading, a disturbed trap, an untypical spot.
 3. **Process** it: leave it out of the mean (and say so) or repeat the sample.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-fieldwork-investigations--05-anomaly-mean.webp" width="900" height="625" alt="Bar chart of beetles in five pitfall traps: 4, 6, 5, 21 and 5. The value 21 is marked as an anomaly. A dashed line shows the mean including it, 8.2; a solid line shows the mean excluding it, 5.0." loading="lazy">
+  <figcaption>One anomaly can drag a mean far from the typical value.</figcaption>
+</figure>
 
 ## Exam traps
 

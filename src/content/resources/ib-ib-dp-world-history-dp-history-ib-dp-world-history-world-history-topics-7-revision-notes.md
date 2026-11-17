@@ -33,6 +33,11 @@ These notes condense world history topic 7 for Paper 2: why industrialization be
 | Development | Spread of power, transport and new industries; roles of entrepreneurs and the state | Steam, railways, Bessemer steel (1856), electricity, the assembly line |
 | Impact | Social, economic, political and environmental effects | Factory Acts, trade unions, Chartism, Bismarck's insurance laws, urban public health, smog |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--01-three-strands.webp" width="900" height="547" alt="Three linked columns: origins (agriculture, population, coal and iron, capital, technology, labour, markets, government), development (new power sources, transport and communications, steel and chemicals, entrepreneurs and the state) and impact (social and economic, political and environmental)." loading="lazy">
+  <figcaption>Origins, development and impact: know which strand a question targets.</figcaption>
+</figure>
+
 ## Origins: causes to rank
 
 - **Agricultural change:** higher yields, enclosure, labour released for industry. Treat as gradual.
@@ -44,6 +49,11 @@ These notes condense world history topic 7 for Paper 2: why industrialization be
 - **Government:** from enabling (property rights, patents, tariffs, infrastructure) to directing (Meiji Japan, Witte's Russia, Stalin's Five-Year Plans).
 
 **Ranking tip:** decide whether a factor was *necessary* (industrialization could not happen without it) or *decisive* (it explains why it happened then and there).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--02-why-britain-first.webp" width="900" height="547" alt="Factors around Britain industrializing first: agricultural change, coal and iron (with Allen's high-wage, cheap-coal argument), capital and markets, technology (spinning jenny, water frame, Cromford Mill, Watt's engine) and the enabling state. Pomeranz's comparison with the Yangzi delta stresses coal and the resources of the Americas." loading="lazy">
+  <figcaption>Weigh the factors; use the historians to evaluate, not to name-drop.</figcaption>
+</figure>
 
 ## Development: stages and technologies
 
@@ -63,6 +73,21 @@ These notes condense world history topic 7 for Paper 2: why industrialization be
 | Leading sectors | Cotton, coal, iron | Steel, chemicals, electricals | Silk, cotton, then heavy industry | Railways, coal, steel |
 | Political response | Reform Acts, Factory Acts | Social insurance (1883-89) to weaken the SPD | Oligarchic control; Meiji Constitution (1889) | Repression; 1905 Revolution |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--03-start-points.webp" width="900" height="660" alt="A timeline from 1740 to 1940 marks start points: Britain from the 1750s, Germany with the Zollverein (1834) and unification (1871), Meiji Japan from 1868 with its first railway in 1872, Tsarist Russia with the Trans-Siberian Railway (1891) and gold standard (1897), and the Soviet Union's First Five-Year Plan (1928)." loading="lazy">
+  <figcaption>The later the start, the more the state stepped in.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--04-gerschenkron.webp" width="900" height="519" alt="A spectrum from private enterprise to state direction: Britain (entrepreneurs, enabling state), Germany (investment banks and cartels), Meiji Japan (state enterprises later sold to zaibatsu), Tsarist Russia (state and foreign loans) and the Soviet Union (total planning)." loading="lazy">
+  <figcaption>Late industrializers leaned more on banks and the state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--07-essay-plan.webp" width="900" height="641" alt="A planning grid for Britain and Japan with four factors: resources (decisive for Britain, a constraint for Japan), government (enabling against directing: the key difference), capital and labour, and technology and markets. The conclusion: resources mattered for Britain, but Japan's state substituted for them." loading="lazy">
+  <figcaption>Both countries in every paragraph, with a mini-judgement on the factor.</figcaption>
+</figure>
+
 ## Impact: key evidence
 
 - **Urbanization:** rapid growth of industrial towns; overcrowding, cholera, poor sanitation.
@@ -72,6 +97,11 @@ These notes condense world history topic 7 for Paper 2: why industrialization be
 - **Political change:** Chartism (1838-48); new socialist and labour parties; state welfare.
 - **Women:** paid factory work (especially textiles), but lower pay and legal limits on hours.
 - **Environment:** Alkali Act 1863; London smog (1952) and the Clean Air Act (1956).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--05-britain-impact.webp" width="900" height="974" alt="A vertical timeline of British responses to industrialization: repeal of the Combination Acts (1824), the Factory Act (1833), Chartism (1838-48), Chadwick's report (1842), the Ten Hours Act (1847), the Public Health Act (1848), the Alkali Act (1863) and the Clean Air Act (1956). A note adds Bismarck's insurance laws of 1883, 1884 and 1889." loading="lazy">
+  <figcaption>Name the decade and the law: impact came with specific responses.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -93,6 +123,11 @@ These notes condense world history topic 7 for Paper 2: why industrialization be
 - **Kenneth Pomeranz:** coal and the resources of the Americas explain why Britain diverged from advanced regions of China.
 - **E. P. Thompson:** a "pessimist" on working-class experience in early industrial England.
 - **Alexander Gerschenkron:** the state and banks substitute for missing prerequisites in late industrializers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7--06-standard-of-living.webp" width="900" height="531" alt="A scale from better off to worse off. Optimists stress rising real wages over the long run; pessimists such as E. P. Thompson (1963) stress lost independence, factory discipline and worse urban conditions in the early decades. Three questions sharpen a judgement: who, when and which measure." loading="lazy">
+  <figcaption>The answer depends on who, when and what you measure.</figcaption>
+</figure>
 
 ## Exam traps
 

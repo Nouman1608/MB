@@ -66,6 +66,11 @@ Tokyo usually ranked highest. A growing number are in **newly emerging economies
 Shanghai, Mumbai and São Paulo -- as economic power spreads. When describing a map, name the
 continents with clusters, give named examples and note the regions with few, such as much of Africa.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--01-what-makes-a-world-city.webp" width="900" height="689" alt="A world city at the centre links to four traits: a centre of finance and business, headquarters of transnational corporations, an international transport hub, and global cultural and political importance. A table shows world cities are mostly in North America, Europe and East Asia, led by London, New York and Tokyo, with more in emerging economies such as Shanghai, Mumbai and São Paulo." loading="lazy">
+  <figcaption>A world city’s influence reaches far beyond its own country.</figcaption>
+</figure>
+
 ## London fact file
 
 - Capital of the UK, River Thames, south-east England; about 8.8 million
@@ -90,6 +95,16 @@ show how international migration shaped its culture, food and language. National
 young graduates and workers in, while some families and older people move out to towns in the South
 East -- so London's population is younger than the UK average.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--02-london-time-zone.webp" width="900" height="501" alt="A schematic of one London working day. In the morning it overlaps with Asian markets, which are still open; in the afternoon it overlaps with North American markets. A note adds that London lies on the Greenwich Meridian and is linked by Heathrow and Eurostar." loading="lazy">
+  <figcaption>On 0° longitude, London can trade with Asia in the morning and North America in the afternoon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--04-migration-waves.webp" width="900" height="673" alt="Two lanes. London: the Windrush generation from the Caribbean after 1948, then South Asia and Africa, then Eastern Europe after 2004, plus national movement of young adults in and some families out. New York: millions of Europeans through Ellis Island from 1892 to 1954, later Caribbean, Latin American and Asian migrants, and the Great Migration of African Americans that made Harlem a cultural centre." loading="lazy">
+  <figcaption>Successive waves of migrants gave both cities their diverse character.</figcaption>
+</figure>
+
 ## New York fact file
 
 - Largest US city; Atlantic coast at the mouth of the Hudson River;
@@ -108,6 +123,11 @@ East -- so London's population is younger than the UK average.
 **How migration changed New York's character:** Chinatown and Little Italy in Manhattan reflect
 waves of arrivals, and Harlem became a centre of African American culture after the Great Migration.
 The five boroughs are among the most linguistically diverse places in the world.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--03-london-new-york-compared.webp" width="900" height="599" alt="A comparison table of London and New York: location, population of about 8.8 million each, share born abroad, finance districts, trade gateways, cultural institutions and political roles, from Westminster and the Commonwealth Secretariat in London to the United Nations headquarters in New York." loading="lazy">
+  <figcaption>Two cities of similar size with different routes to global importance.</figcaption>
+</figure>
 
 ## Opportunities in more detail
 
@@ -146,6 +166,11 @@ The five boroughs are among the most linguistically diverse places in the world.
   appliances, insulation and renewable energy on buildings. After Hurricane Sandy, New York began
   investing in coastal flood defences around lower Manhattan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--05-challenges.webp" width="900" height="662" alt="A table matching each challenge to examples in both cities: inequality in Tower Hamlets, Newham and the Bronx; housing costs and gentrification in Hackney and Harlem; London’s Green Belt and New York’s sprawl; traffic charges in 2003, 2019 and 2025; sewage, water and waste schemes; Hurricane Sandy in 2012; and imported food through major wholesale markets." loading="lazy">
+  <figcaption>Both cities share the same challenges but answer them in different ways.</figcaption>
+</figure>
+
 ## Flagship regeneration: London Docklands
 
 | Stage | Detail |
@@ -165,6 +190,11 @@ led by developers and the government with too little say for local people.
 **New York alternative:** the **High Line**, a disused elevated freight railway on Manhattan's West
 Side reopened as a park from 2009. It brought visitors and investment to a run-down area, but raised
 property values and rents nearby.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--06-docklands-regeneration.webp" width="900" height="782" alt="Why: the docks closed between the late 1960s and 1981 as ships grew too large and trade moved to Tilbury, leaving dereliction and unemployment. Features: the London Docklands Development Corporation from 1981 to 1998, the DLR and City Airport in 1987, the Jubilee line extension in 1999 and Canary Wharf. Impacts: new jobs, transport and cleaner land, but jobs went to commuters and housing was too expensive for locals." loading="lazy">
+  <figcaption>Docklands was transformed economically, but its original community gained least.</figcaption>
+</figure>
 
 ## Model paragraph (judging regeneration)
 

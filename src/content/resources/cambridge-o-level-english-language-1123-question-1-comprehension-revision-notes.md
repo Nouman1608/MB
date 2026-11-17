@@ -40,6 +40,11 @@ and a worked extract see the
 | Same text as | Question 2 Use of Language (9 marks) |
 | Paper | 2 hours, 50 marks; texts in a separate insert; no dictionaries |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--01-question-1-at-a-glance.webp" width="900" height="656" alt="Text A is a narrative of about 900 words from the twentieth or twenty-first century. Section A carries 25 marks on it: Question 1, a series of short answers, is worth 16 and Question 2 is worth 9. Question 1 tests R1, explicit meanings, and R2, implicit meanings and attitudes." loading="lazy">
+  <figcaption>Question 1 is 16 of Section A’s 25 marks, split between explicit and implicit meaning.</figcaption>
+</figure>
+
 ## Explicit versus implicit
 
 | | Explicit (R1) | Implicit (R2) |
@@ -48,6 +53,11 @@ and a worked extract see the
 | Your job | locate and state precisely | infer and anchor |
 | Typical wording | "What...", "Give...", "Identify..." | "What does ... suggest...", "Why might...", "What impression..." |
 | Weak answer | copying too much | a guess with no link to the text |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--02-explicit-implicit.webp" width="900" height="644" alt="Above the surface line, explicit (R1) answers are stated in the text, as in asking what two things Amira noticed. Below it, implicit (R2) answers are inferred: what Amira does, what she avoids and how the narrator describes her lead to the conclusion that she is afraid of her uncle." loading="lazy">
+  <figcaption>Explicit answers are found; implicit answers are inferred and anchored in a detail.</figcaption>
+</figure>
 
 ## Wording decoder
 
@@ -63,10 +73,20 @@ and a worked extract see the
 Syllabus command words: **Identify** = name/select/recognise; **Give** = produce an answer from a
 given source; **Explain** = set out reasons, make relationships clear, support with evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--03-question-wording.webp" width="900" height="682" alt="Command words rise from identify (pick out a detail) and give (state it from the text) to explain (give reasons with evidence). Five common wordings each ask for something different: own-words meaning, an explanation in context, an inference, exactly two points, or an exact short quotation." loading="lazy">
+  <figcaption>The wording of the sub-question tells you what kind of answer earns the mark.</figcaption>
+</figure>
+
 ## Marks to points (working rule)
 
 1 mark = one point · 2 marks = two points or point plus explanation · 3 marks = three points or a
 developed inference.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--04-marks-to-points.webp" width="900" height="650" alt="One mark needs one point, a phrase or short sentence; two marks need two separate points or a point and its explanation, made visible; three marks need three points or an inference with developed support. Writing more does not add marks." loading="lazy">
+  <figcaption>Count the marks, then give that many distinct points.</figcaption>
+</figure>
 
 ## Own-words methods
 
@@ -75,6 +95,11 @@ developed inference.
 3. **Re-shape**: *his hesitation* → *he paused because he was unsure*.
 
 Keep simple words; change the key ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-1-comprehension--05-own-words.webp" width="900" height="640" alt="Three methods for own-words answers: replace key words (reluctant becomes unwilling), unpack the phrase (her voice was brittle becomes she sounded tense, as if she might break down) and change the grammar (his hesitation becomes he paused because he was unsure)." loading="lazy">
+  <figcaption>Re-express the key words; leave the everyday ones alone.</figcaption>
+</figure>
 
 ## Inference: the two-part answer
 

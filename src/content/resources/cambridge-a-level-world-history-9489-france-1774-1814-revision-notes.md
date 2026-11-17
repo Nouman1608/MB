@@ -60,6 +60,16 @@ featured: false
 | 1812 | Russian campaign | Grande Armée destroyed |
 | Apr 1814 | Abdication | End of the topic |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--02-fr-finance-failures.webp" width="900" height="902" alt="Vertical timeline of five stages. Turgot (1774-76) tried free grain trade and abolishing guilds and forced labour but was dismissed. Necker (1777-81) borrowed to pay for the American war and published a misleadingly healthy Compte rendu. Calonne in 1787 proposed a universal land tax that the Assembly of Notables refused. Brienne met resistance from the Parlement of Paris, which said only the Estates-General could approve new taxes. In August 1788 the crown suspended payments, agreed to call the Estates-General and recalled Necker." loading="lazy">
+  <figcaption>Each financial minister was blocked or ran out of options, until the crown had to call the Estates-General.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--03-fr-1789-sequence.webp" width="900" height="1047" alt="Vertical timeline of 1789. 5 May: Estates-General meets at Versailles and is deadlocked over voting by order or by head. 17 June: the Third Estate declares itself the National Assembly. 20 June: Tennis Court Oath. 14 July: the Bastille is stormed after Necker is dismissed and troops gather near Paris. Then the Great Fear in the countryside, the August Decrees abolishing feudal privileges, the Declaration of the Rights of Man and of the Citizen on 26 August, and in October the March of the Women forcing the royal family to Paris." loading="lazy">
+  <figcaption>The order of events in 1789, from the Estates-General to the royal family moving to Paris.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -79,6 +89,11 @@ featured: false
 | Two-Thirds Decree | 1795 rule that two-thirds of the new councils must be former Convention members |
 | Prefect | Centrally appointed head of a department under Napoleon |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--01-fr-estates-taille.webp" width="900" height="850" alt="Schematic of the three Estates beneath the Crown. The clergy (First Estate) and nobility (Second Estate) are largely exempt from the taille, shown as blocked dashed lines. The Third Estate, made up of peasants and a wealthy bourgeoisie, pays it, shown as a thick arrow. A note says French support for the American War of Independence added enormously to royal debt." loading="lazy">
+  <figcaption>The main direct tax, the taille, fell on the Third Estate because the clergy and nobility were largely exempt.</figcaption>
+</figure>
+
 ## The three assemblies -- do not mix them up
 
 | Assembly | Dates | Achievement | Weakness |
@@ -86,6 +101,11 @@ featured: false
 | National (Constituent) Assembly | 1789-91 | August Decrees, Declaration, departments, Civil Constitution, 1791 constitution | Left a King who did not accept the settlement |
 | Legislative Assembly | Oct 1791-Sept 1792 | Declared war; faced royal vetoes | Swept away on 10 August |
 | National Convention | Sept 1792-Oct 1795 | Republic, regicide, Terror, Thermidor, Year III constitution | Purges and coups replaced consent |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--04-fr-road-to-republic.webp" width="900" height="1076" alt="A chain of six boxes joined by down arrows. 1790: the Civil Constitution of the Clergy splits the Church. June 1791: the flight to Varennes destroys trust in Louis. July 1791: at the Champ de Mars the National Guard fires on the crowd and the Feuillants split from the Jacobins. April 1792: Girondins press for war and France declares war on Austria. August 1792: the monarchy is overthrown after defeats, invasion fears and royal vetoes, and the September Massacres follow. September 1792: the National Convention abolishes the monarchy." loading="lazy">
+  <figcaption>Each step weakened the constitutional monarchy until the Convention abolished it in September 1792.</figcaption>
+</figure>
 
 ## Key question summaries
 
@@ -96,6 +116,16 @@ featured: false
 **1.3 Government.** Judge by criteria: did it keep France secure, solvent and stable? The Terror saved the Republic militarily but at a cost of liberty and lives; the Directory ended terror but depended on coups (Fructidor 1797, Floréal 1798) and the army.
 
 **1.4 Napoleon.** Rise: reputation, the weakness of the Directory, Sieyès's plot. Control: prefects, police, censorship, plebiscites. Reforms: Code, lycées, Bank of France, Concordat. Fall: conscription, economic strain from the Continental System, the Spanish "ulcer", nationalism, Russia, Leipzig.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--05-fr-terror-vs-directory.webp" width="900" height="995" alt="Two panels side by side. The Terror, 1793-94: a guillotine icon; Committee of Public Safety with Robespierre prominent; Law of Suspects, revolutionary tribunals and the guillotine; price controls (the Maximum) and mass conscription; ended when Robespierre was overthrown and executed in July 1794. The Directory, 1795-99: five directors and two councils; property qualifications; it ended the assignats and wrote off much debt, won victories in Italy, but relied on coups such as Fructidor 1797 and on the army. A footer suggests judging each on stability, finance and defence." loading="lazy">
+  <figcaption>How each regime governed and how it ended, so you can judge them on stability, finance and defence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-france-1774-1814-study-guide--06-fr-napoleon-rise-fall.webp" width="900" height="1164" alt="A line chart with years 1795 to 1815 along the bottom. The line climbs through eight numbered points: 1795 crushing the Paris rising, 1796-97 Italian campaign, November 1799 Brumaire coup and First Consul, 1802 Consul for life, 1804 Emperor, then a peak in 1812 when the Empire was at its greatest extent but the Russian campaign destroyed the Grande Armee. It falls with defeat at Leipzig in 1813 and abdication in April 1814. Height is schematic: higher means more power, not measured data." loading="lazy">
+  <figcaption>Napoleon climbed from army reputation to Emperor in nine years, and lost everything between 1812 and 1814.</figcaption>
+</figure>
 
 ## Exam traps
 

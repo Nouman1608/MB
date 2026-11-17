@@ -46,6 +46,11 @@ of about 2,500–3,000 words, based on data you collect yourself. For the full m
 The unit is **synoptic**: both routes test critical thinking, planning and organisation, analysis,
 knowledge of linguistic methods and concepts, data handling, and academic argument and report-writing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--08-u4-routes.webp" width="900" height="870" alt="Two cards compare Unit 4a, a written exam of 2 hours 30 minutes with one question from two and no more than three texts on the paper, with Unit 4b, a teacher-assessed and moderated investigation of your own data written up in about 2,500 words excluding data. Both are worth 50 marks and 30% of the International A-level." loading="lazy">
+  <figcaption>Unit 4a and 4b compared.</figcaption>
+</figure>
+
 ## Report structures
 
 | Unit 4a (suggested) | Unit 4b (required sections) |
@@ -85,6 +90,21 @@ switching; occupations; historical change.
 
 The same four question types apply: **genre-based**, **function/use-based**, **attitudes-based** and
 **user-based**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--09-u4-stages.webp" width="900" height="750" alt="Five numbered stages: choose a focused question, collect suitable data with ethics considered, choose methods, analyse closely by counting then interpreting, and evaluate and conclude." loading="lazy">
+  <figcaption>Five stages of an investigation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--10-u4-question.webp" width="900" height="966" alt="A narrowing funnel runs from the topic Language and gender, to recorded team meetings, to interruptions and questions, to the question of whether they differ with the speaker's role. A good question is specific, answerable and linked to a language concept; How has English changed? is too broad." loading="lazy">
+  <figcaption>Narrowing a topic into a question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide--12-u4-ethics.webp" width="900" height="800" alt="A microphone feeds a transcript where speakers are labelled Speaker A and Speaker B with names changed. Five checks: get permission to record, tell participants how the data will be used, change names, avoid private information, and note when, where, who and context." loading="lazy">
+  <figcaption>Ethical checks for collecting spoken data.</figcaption>
+</figure>
 
 ## Worked example: writing a 4a aim from data
 

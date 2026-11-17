@@ -33,6 +33,16 @@ Identify and describe the **salient** features of language in the texts, so that
 meanings and representations. Salient means prominent and significant: patterns and marked choices, not every
 feature you can find.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--02-salience-test.webp" width="900" height="710" alt="A decision flow: ask whether changing a feature would change the representation or relationship. If yes, it is salient and worth analysing; if no, leave it out. Repeated patterns and marked choices are usually more salient than isolated features." loading="lazy">
+  <figcaption>Salient means prominent and significant: the features that do most to create the text's meanings.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--01-six-levels.webp" width="900" height="760" alt="A table of the six levels in the specification: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar including morphology; pragmatics; and discourse. Each is shown with its specification wording and what it gives you when analysing Paper 1 texts." loading="lazy">
+  <figcaption>Six levels, each giving you a different kind of evidence about a text.</figcaption>
+</figure>
+
 ## Phonetics, phonology and prosodics
 
 | Term | Meaning |
@@ -78,6 +88,16 @@ feature you can find.
 | Sentence structures | Simple, compound, complex, compound-complex, minor |
 | Morpheme | Smallest unit of meaning; free (book) or bound (-s, un-) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--03-grammar-ranks.webp" width="900" height="543" alt="Four ranks of grammar from word up to sentence. Word: word classes and morphology. Phrase: noun phrase structure and verb phrase tense, aspect, modality and voice. Clause: clause elements, main and subordinate clauses and fronted adverbials. Sentence: the four functions and five structures." loading="lazy">
+  <figcaption>Describe grammar at word, phrase, clause and sentence level, working upwards.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--05-parsing-a-sentence.webp" width="900" height="750" alt="The sentence &quot;The tired volunteers who had worked all night finally closed the doors&quot; is split into chips. The noun phrase is labelled determiner, pre-modifier, head and post-modifying relative clause; &quot;finally&quot; is an adverbial and &quot;closed&quot; a simple past main verb, with &quot;had worked&quot; in the past perfect. A note replaces &quot;a long sentence&quot; with a precise description." loading="lazy">
+  <figcaption>Accurate grammatical description lets you make a confident claim about meaning.</figcaption>
+</figure>
+
 ## Pragmatics
 
 | Term | Meaning |
@@ -106,6 +126,11 @@ feature you can find.
 - Not "the word 'we'" but "first-person plural pronoun, used inclusively / exclusively".
 - Not "a question" but "interrogative" (and only "rhetorical" if no answer is expected).
 - Not "makes it sound informal" but "colloquial lexis and contractions create an informal tenor".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--07-identify-describe-analyse.webp" width="900" height="650" alt="Three stepped stages using the lesson's grammar example: identify names the feature (a relative clause), describe says how it is formed (a post-modifying relative clause in the noun phrase), and analyse explains its meaning (it delays the verb so effort is foregrounded). A note advises planning by meaning before choosing levels." loading="lazy">
+  <figcaption>Paper 1 analysis needs all three steps, not just a feature name.</figcaption>
+</figure>
 
 ## Exam traps
 

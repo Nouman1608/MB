@@ -48,6 +48,11 @@ observation, calculations and graphs.
   shelter, shade or stored heat; readings are representative.
 - Holds: maximum-minimum thermometer and wet-and-dry bulb thermometer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-weather--01-stevenson-screen.webp" width="900" height="710" alt="A white Stevenson Screen with louvred sides and a double roof stands on legs about 1.2 metres above grass, in the open, with a crossed-out building and tree showing it must be away from them. Labels give each reason: white reflects the Sun’s radiation, louvres let air through but keep sun and rain out, the double roof reduces heating, the height avoids ground heat and the door opens away from the Sun. Below, which instruments go inside and outside." loading="lazy">
+  <figcaption>Every feature exists so the thermometers read shade air temperature fairly.</figcaption>
+</figure>
+
 ## Instruments
 
 | Instrument | Measures | Unit | Key point |
@@ -61,12 +66,27 @@ observation, calculations and graphs.
 | Wind vane | Wind direction | compass point | Points to where wind comes **from** |
 | Digital station / data logger | Several variables | various | Automatic and continuous, but needs power and checking |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-weather--17-wx-instruments.webp" width="900" height="1000" alt="Eight cards, each with a drawing. Rain gauge: precipitation amount. Maximum-minimum thermometer: highest and lowest temperature. Wet-and-dry bulb thermometer: humidity. Sunshine recorder: duration of bright sunshine. Barometer: atmospheric pressure. Anemometer: wind speed. Wind vane: wind direction. Observation by eye: cloud type and amount. Schematic, not to scale." loading="lazy">
+  <figcaption>Each weather instrument paired with the one thing it measures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-weather--02-three-instruments.webp" width="900" height="620" alt="Three panels. A U-shaped maximum-minimum thermometer with metal markers left at the highest and lowest temperatures, reset with a magnet. A wet-and-dry bulb thermometer: evaporation cools the muslin-wrapped wet bulb; equal readings of 28 and 28 °C mean saturated air, while 28 and 20 °C mean much drier air. A wind vane whose arrow points into the wind, towards the south-west for a south-westerly." loading="lazy">
+  <figcaption>Markers record extremes; the bulb difference gives humidity; the vane points where the wind comes from.</figcaption>
+</figure>
+
 ## Cloud
 
 - Amount in **oktas** (eighths of the sky): 0 = clear, 8 = overcast.
 - **Cirrus**: high, wispy. **Cumulus**: heaped, flat base, fair
   weather. **Cumulonimbus**: towering, thunderstorms and heavy rain.
   **Stratus**: low, grey, even sheet.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-weather--03-cloud-amount-type.webp" width="900" height="730" alt="Top: five sky circles shaded to show 0, 2, 4, 6 and 8 oktas, from clear to overcast. Bottom: cloud types by shape and height: high, thin, wispy cirrus; heaped, white, flat-based cumulus; towering cumulonimbus with heavy rain and thunder; and a low, grey, even layer of stratus." loading="lazy">
+  <figcaption>Amount in oktas; type by shape and height.</figcaption>
+</figure>
 
 ## Calculations to know
 
@@ -79,6 +99,11 @@ observation, calculations and graphs.
 | Total rainfall | Add all values |
 
 Always show working and write the unit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-weather--04-week-of-readings.webp" width="900" height="615" alt="A graph of one week: maximum temperatures from 27 to 34 °C, minimums from 19 to 24 °C, and rainfall bars of 12, 25, 3 and 6 mm on four days. Calculations: Tuesday’s range 33 − 23 = 10 °C; Wednesday’s mean (29 + 21) ÷ 2 = 25 °C; total rain 46 mm; mean daily rain 46 ÷ 7 = 6.6 mm, which hides three dry days; the week’s range 34 − 19 = 15 °C." loading="lazy">
+  <figcaption>Range = max − min; mean = (max + min) ÷ 2; always show working and units.</figcaption>
+</figure>
 
 ## Worked example: a week of readings
 
@@ -121,6 +146,11 @@ evaporation, so the difference is larger and humidity lower.
 - **Wind rose**: the longest arm shows the **prevailing wind**; count days or percentages from
   the scale.
 - **Climate graph**: temperature as a line, rainfall as bars; read each axis carefully.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-weather--05-wind-rose-describing.webp" width="900" height="650" alt="Left: an illustrative wind rose with eight arms; the longest, from the south-west, shows the prevailing wind. Right: four steps for describing any weather graph: give the overall pattern first, quote the highest and lowest values with units and when they occurred, use data for any change, and point out anomalies such as a single very wet day." loading="lazy">
+  <figcaption>The longest arm is the prevailing wind; describe graphs pattern first, then data.</figcaption>
+</figure>
 
 ## Model answer: relating readings
 

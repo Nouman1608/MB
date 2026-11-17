@@ -41,6 +41,11 @@ featured: false
 | 1 / 3 August | Germany declares war on Russia / France | Those stressing German war plans |
 | 4 August | Germany invades Belgium; Britain declares war | Ferguson and debates on Britain |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--03-july-crisis.webp" width="900" height="551" alt="A day-scale timeline from 1 July to 5 August 1914: the German blank cheque (5-6 July), the Austrian ultimatum to Serbia (23 July), Russian general mobilisation (30 July), German declarations of war on Russia (1 August) and France (3 August), and the invasion of Belgium that brought in Britain (4 August)." loading="lazy">
+  <figcaption>A slow start, then a general war within days of Russian mobilisation.</figcaption>
+</figure>
+
 ## Longer-term context
 
 | Date | Event |
@@ -54,6 +59,11 @@ featured: false
 | 1912-13 | Balkan Wars; London conference of ambassadors |
 | 1913 | German army law; Russian "Great Programme" of rearmament |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--02-structure-or-decisions.webp" width="900" height="676" alt="Two columns. Structural explanations: the alliances of 1882, 1894, 1904 and 1907, the naval race and army laws, Lenin, Joll's unspoken assumptions and Taylor's timetables. Decision-centred explanations: the leaders in Berlin, Vienna, St Petersburg, Paris and London. Below, the critics' question: if war was inevitable, why did the system hold until 1914?" loading="lazy">
+  <figcaption>Which an extract favours, structure or choice, is often the key to its approach.</figcaption>
+</figure>
+
 ## How the debate developed
 
 | Stage | Key idea | Names and works to recognise |
@@ -65,6 +75,21 @@ featured: false
 | 1960s reaction | Fischer reads war aims backwards; "calculated risk" | Ritter; Hillgruber |
 | 1990s-2000s | Other states' choices; doubts about war plans | Williamson (1991); Ferguson (1998); Zuber (2002); Mombauer (2001); Röhl |
 | 2011-14 | Multi-national, contingent decisions | McMeekin (2011); Clark (2012); MacMillan (2013); Hastings (2013) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--04-debate-timeline.webp" width="900" height="1201" alt="A vertical timeline from 1915 to 2015 drawn to scale. Left, views stressing German responsibility: Article 231 (1919), Fischer (1961, 1969) and Hastings (2013). Right, wider blame: the German document collections (1922-27), Barnes and Fay (1926-28), the 1951 Franco-German agreement, the 1964 controversy, Ferguson (1998), McMeekin and Clark (2011-12) and MacMillan (2013)." loading="lazy">
+  <figcaption>The debate swung from German guilt to shared blame, back to Germany, then outwards again.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--05-fischer-evidence.webp" width="900" height="542" alt="Two columns. Fischer's evidence: government files, the September Programme (1914), the War Council of December 1912 and domestic pressure from the Social Democrats. Objections: aims written after war began, a narrow German focus, no plan from the War Council, and Zuber's doubts about the Schlieffen Plan. Below, Hillgruber's calculated risk and Röhl and Mombauer's reinforcement." loading="lazy">
+  <figcaption>Fischer's case rests on aims and archives; critics question what they prove about July.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--06-where-blame-falls.webp" width="900" height="484" alt="A hub with the question &quot;Who or what was to blame?&quot; at the centre. Left: Germany (Fischer, Röhl, Mombauer, Hastings), Austria-Hungary (Williamson) and Russia (McMeekin; Barnes, with France). Right: Britain (Ferguson), shared responsibility (Fay, Lloyd George, Clark) and the system or chance (Lenin, Joll, Taylor, Lebow)." loading="lazy">
+  <figcaption>Since the 1990s historians have looked at every capital, not only Berlin.</figcaption>
+</figure>
 
 ## Why historians differ on this topic
 
@@ -91,6 +116,11 @@ featured: false
 | Calculated risk | Hillgruber's view that Berlin hoped for a local war but accepted a wider one |
 | Contingency | Outcomes shaped by chance and unforeseen decisions |
 | Structural explanation | Causes rooted in alliances, arms and ideologies rather than individuals |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-first-world-war--01-interpretation-approach.webp" width="900" height="620" alt="Two cards define interpretation (the claims and conclusions inferred from the extract as a whole) and approach (the historian's interests, questions, ideology and beliefs). A bar splits the 40 marks equally between AO4 and AO1. Below, the c.1890-1914 context to test extracts against." loading="lazy">
+  <figcaption>Find the claim and what the historian brings to it; marks are split evenly.</figcaption>
+</figure>
 
 ## Exam traps
 

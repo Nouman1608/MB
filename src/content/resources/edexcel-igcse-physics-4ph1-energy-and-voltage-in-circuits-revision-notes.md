@@ -62,6 +62,11 @@ series: R_total = R₁ + R₂     V_supply = V₁ + V₂     same I throughout
 | more lamps added | each dimmer, current falls | each as bright, total current rises |
 | use | switches, fuses, simple strings of lamps | domestic lighting and sockets |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--03-series-vs-parallel-lighting.webp" width="900" height="565" alt="Left: three lamps in series with one broken; all go out. Right: three lamps in parallel, each with its own switch; one lamp is broken but the other two stay lit." loading="lazy">
+  <figcaption>In parallel each lamp gets the full voltage, has its own switch and keeps working if another fails.</figcaption>
+</figure>
+
 ## I−V graph shapes
 
 - **Wire or fixed resistor (constant temperature):** straight line through
@@ -71,11 +76,26 @@ series: R_total = R₁ + R₂     V_supply = V₁ + V₂     same I throughout
 - **Diode:** almost no current in reverse; current rises sharply once a
   small forward voltage is passed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--06-iv-characteristics.webp" width="900" height="555" alt="Current against voltage for three components. A wire or resistor gives a straight line through the origin. A filament lamp gives a curve that flattens in both directions. A diode passes almost no current in reverse and a steeply rising current once a small forward voltage is exceeded." loading="lazy">
+  <figcaption>Straight line: constant resistance. Flattening curve: resistance rising. Diode: one direction only.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--08-lamp-resistance-two-points.webp" width="900" height="590" alt="A filament lamp I–V curve with two marked points: 2.0 V at 0.20 A gives 10 Ω, and 6.0 V at 0.30 A gives 20 Ω." loading="lazy">
+  <figcaption>On a curve, find R = V ÷ I at each point: here 10 Ω rises to 20 Ω.</figcaption>
+</figure>
+
 ## I−V investigation in brief
 
 Ammeter in series, voltmeter across the component, variable resistor to
 change the voltage; at least six readings; reverse the component for
 negative values; plot I against V.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--05-iv-investigation-circuit.webp" width="900" height="550" alt="Circuit with a supply, an ammeter and a variable resistor in series with the component under test, and a voltmeter connected across the component. Steps: take at least six readings, reverse the component, and plot current against voltage." loading="lazy">
+  <figcaption>Vary the resistor, read V and I, reverse the component, and plot I against V.</figcaption>
+</figure>
 
 ## Charge and energy ideas
 
@@ -85,6 +105,16 @@ negative values; plot I against V.
   connected across the same two points.
 - In series, the larger resistance takes the larger share of the
   voltage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--01-charge-current-energy.webp" width="900" height="545" alt="A 6.0 V battery and a lamp in a loop. Conventional current runs from + to −, electrons drift the other way. Each coulomb gains 6.0 J in the battery and transfers it in the lamp. Side notes: Q = I × t, voltage is energy per unit charge, E = Q × V." loading="lazy">
+  <figcaption>Charge is not used up: each coulomb picks up energy at the supply and transfers it in the components.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--02-junction-and-voltage-rules.webp" width="900" height="545" alt="Left: 0.80 A enters a junction and splits into 0.30 A and 0.50 A. Middle: in series the supply voltage is shared, V supply = V₁ + V₂. Right: in parallel each branch has the full supply voltage." loading="lazy">
+  <figcaption>Current in equals current out at a junction; series shares the voltage, parallel branches each get all of it.</figcaption>
+</figure>
 
 ## Series calculation routine
 
@@ -98,6 +128,11 @@ For two resistors in series (2.19), work in this order:
 Example: 4.5 V across 10 Ω and 20 Ω. R_total = 30 Ω; I = 0.15 A;
 V₁ = 1.5 V, V₂ = 3.0 V; 1.5 + 3.0 = 4.5 V.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--04-series-worked-example.webp" width="900" height="500" alt="A 9.0 V battery with 120 Ω and 60 Ω resistors in series. Total 180 Ω gives 0.050 A, so the resistors have 6.0 V and 3.0 V across them. In 2.0 minutes 6.0 C flows and the battery transfers 54 J." loading="lazy">
+  <figcaption>Total resistance first, then current, then each voltage; check they add to the supply.</figcaption>
+</figure>
+
 ## Sensor circuits
 
 LDR or thermistor in series with a fixed resistor:
@@ -108,6 +143,11 @@ LDR or thermistor in series with a fixed resistor:
 - darker, or colder → the reverse
 
 State the resistance change first, then the effect on the current.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--07-ldr-thermistor-circuits.webp" width="900" height="615" alt="An LDR and, separately, a thermistor each in series with a fixed resistor, an ammeter and a battery. More light or a higher temperature lowers the sensor resistance, so the current and the voltage across the fixed resistor rise while the voltage across the sensor falls." loading="lazy">
+  <figcaption>More light or more warmth: lower sensor resistance, larger current.</figcaption>
+</figure>
 
 ## Exam traps
 

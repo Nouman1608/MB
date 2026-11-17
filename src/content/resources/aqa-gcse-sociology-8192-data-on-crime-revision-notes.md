@@ -53,6 +53,11 @@ For full explanations, read the [data on crime study guide](/resources/aqa-gcse-
 | **Crime Survey for England and Wales** | Large random sample of households interviewed about crimes experienced in the past twelve months; began 1982 as the British Crime Survey, renamed 2012 | Captures unreported crime; unaffected by police recording; long-term trend data | Misses crimes with no direct victim, homicide and crimes against businesses; relies on memory; sensitive crimes may still be hidden |
 | **Self-report studies** | Anonymous questionnaires or interviews asking about one's own offending | Reveal hidden offending and offenders never caught; test who really offends | Lying, forgetting or exaggerating; mainly minor offences; mostly young samples |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--01-three-sources.webp" width="900" height="646" alt="A table comparing three sources. Police recorded crime counts crimes reported and recorded under counting rules; it shows national trends but misses the dark figure. Victim surveys ask a random sample about crimes they suffered; they reveal unreported crime but miss corporate crime and homicide. Self-report studies ask people what offences they committed; they reveal hidden offending but miss serious and white collar crime." loading="lazy">
+  <figcaption>Each source sees a different part of crime, and each has its own blind spots.</figcaption>
+</figure>
+
 ## The dark figure: two filters
 
 1. **Committed → reported?** Lost if the victim is unaware, sees it as trivial or private, fears reprisal, or distrusts the police.
@@ -60,11 +65,26 @@ For full explanations, read the [data on crime study guide](/resources/aqa-gcse-
 
 Victim surveys reach some of filter 1; self-report studies reach undetected offending; nothing measures the whole dark figure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--03-two-filters.webp" width="900" height="662" alt="A flow from offence committed, through filter 1 (is it reported?) and filter 2 (is it recorded?), to the official statistics. Crime is lost at filter 1 if the victim does not know, care, feels afraid or distrusts the police, and at filter 2 through police discretion, lack of evidence or recording rules. Victim surveys and self-report studies each reach some of the lost crime." loading="lazy">
+  <figcaption>The dark figure is crime lost at reporting or at recording, not unsolved crime.</figcaption>
+</figure>
+
 ## Trends to know in outline (England and Wales)
 
 - CSEW estimates **peaked in the mid-1990s** and then **fell substantially** for many crimes, such as burglary and vehicle crime.
 - Police recorded crime **rose in the later 2010s**, partly because of **improved recording** and greater willingness to report some offences.
 - **Fraud and computer misuse** have been included in the CSEW since the mid-2010s and are among the most commonly experienced crimes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--04-trends-timeline.webp" width="900" height="540" alt="A timeline. 1982: the British Crime Survey begins. Mid-1990s: CSEW estimates of crime peak, then fall over two decades for crimes such as burglary. 2012: renamed the Crime Survey for England and Wales. Mid-2010s: fraud and computer misuse added. Later 2010s: police recorded crime rises, partly because of better recording." loading="lazy">
+  <figcaption>Survey crime fell from the mid-1990s; recorded crime’s later rise partly reflects better recording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-data-on-crime--02-recording-not-behaviour.webp" width="900" height="615" alt="Four boxes, changes in counting rules, recording practice, police priorities and the law, all point to a change in recorded crime figures even when behaviour has not changed. Below, the 2014 withdrawal of National Statistics status and the later-2010s rise linked partly to better recording." loading="lazy">
+  <figcaption>Always ask whether a change reflects behaviour or recording.</figcaption>
+</figure>
 
 ## Describing data: a four-step routine
 

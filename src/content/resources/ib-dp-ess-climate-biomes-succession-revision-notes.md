@@ -60,6 +60,11 @@ See where the unit sits on the [IB DP ESS course hub](/boards/ib/ib-dp/environme
 | Annual temperature range | Warmest month mean − coldest month mean | Large range = continental or high latitude; small = equatorial |
 | Percentage change | (new − old) ÷ old × 100 | Used for transect and succession data |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--06-productivity-succession.webp" width="900" height="770" alt="Paired bars of GPP and respiration for four stages (fictional data). Pioneer 3000 and 1200, early 9000 and 4500, mid 15000 and 10000, climax 20000 and 19000 kJ per square metre per year. NPP is 1800, 4500, 5000 and 1000, and P:R falls from 2.5 to 1.05." loading="lazy">
+  <figcaption>GPP is highest at climax, but NPP peaks mid-succession.</figcaption>
+</figure>
+
 ## Climate controls in one box
 
 ```
@@ -77,6 +82,16 @@ Ocean currents: warm → milder, wetter coasts
                 cold → cooler, drier coasts (coastal deserts)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--01-insolation-latitude.webp" width="900" height="800" alt="Two equal beams of sunlight hit the Earth. Near the equator the beam strikes at a high angle onto a small area after a short path through the atmosphere. At high latitude the same beam strikes at a low angle, spreads over a larger area and passes through more atmosphere. Ice near the pole reflects more." loading="lazy">
+  <figcaption>Curvature spreads the same energy over more ground, and the longer path loses more.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--02-tricellular-model.webp" width="900" height="770" alt="Cross-section from the equator to the pole showing three circulation cells. In the Hadley cell air rises at the equator (low pressure, heavy rain, ITCZ) and sinks at about 30° (high pressure, deserts). In the Ferrel cell surface air flows poleward to about 60°, where it rises at the polar front with frequent rain. In the polar cell cold air sinks over the pole." loading="lazy">
+  <figcaption>Rising air brings low pressure and rain; sinking air brings high pressure and drought.</figcaption>
+</figure>
+
 ## Biome recall grid
 
 | Biome | Temperature | Precipitation | NPP |
@@ -91,6 +106,11 @@ Ocean currents: warm → milder, wetter coasts
 
 **Climate change:** biomes shift **poleward and upslope**; tundra and mountain-top habitats shrink; thawing permafrost releases CO₂ and CH₄ (positive feedback).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--03-biomes-temperature-precipitation.webp" width="900" height="770" alt="Schematic graph of annual precipitation against mean annual temperature. Tundra sits where it is cold and dry, boreal forest cold and moderately wet, temperate grassland and deciduous forest in mild conditions, hot desert hot and dry, savanna hot with seasonal rain, and tropical rainforest hot and wet with the highest NPP." loading="lazy">
+  <figcaption>Temperature and precipitation together decide which biome can grow.</figcaption>
+</figure>
+
 ## Method in steps: identifying a biome from a climate graph
 
 1. Add the monthly precipitation to get the annual total.
@@ -99,6 +119,11 @@ Ocean currents: warm → milder, wetter coasts
 4. Match to a biome and **quote at least two figures** from the data as evidence.
 5. Link the pattern to its cause (ITCZ, sinking air at 30°, latitude).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--04-climate-graph-station-k.webp" width="900" height="850" alt="Climate graph for fictional station K. Monthly rainfall bars range from 180 to 310 mm and the temperature line stays between 26.4 and 27.3 °C. Totals: 3020 mm a year, mean 26.8 °C, range 0.9 °C, driest month 180 mm, matching tropical rainforest." loading="lazy">
+  <figcaption>High temperature, a tiny range and rain in every month point to tropical rainforest.</figcaption>
+</figure>
+
 ## Method in steps: describing a succession
 
 1. Say whether it is **primary** (no soil) or **secondary** (soil present).
@@ -106,6 +131,11 @@ Ocean currents: warm → milder, wetter coasts
 3. Describe the seral stages and replacement by competition.
 4. Name the climax and the factor that sets it (climate, soil).
 5. Describe changes in soil, biomass, diversity, P:R and species strategy (r → K).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--05-succession-sere.webp" width="900" height="910" alt="Five stages of primary succession: bare rock, pioneer lichens and mosses, then seral stages with more and larger plants, ending in a climax community. Soil gets deeper at each stage. Secondary succession enters part-way along, where soil already exists. Wedges show soil depth, biomass and food-web complexity increasing." loading="lazy">
+  <figcaption>Each seral stage changes conditions so the next species can establish.</figcaption>
+</figure>
 
 ## Zonation in three settings
 
@@ -127,6 +157,11 @@ Worked reminder: marram grass cover falls from 60% to 15% between two quadrats. 
 - **r vs K strategists** — r: many small offspring, fast growth, good dispersal (pioneers). K: few large offspring, long-lived, strong competitors (climax).
 - **Climax vs plagioclimax** — natural end point vs human-maintained stage (grazing, burning, mowing).
 - **Weather vs climate** — short-term state vs long-term average.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-climate-biomes-succession--07-disturbance-plagioclimax.webp" width="900" height="715" alt="Two schematic graphs of biomass over time. Left: succession reaches climax, a disturbance removes biomass, and faster secondary succession returns it to climax. Right: grazing or burning holds the community at a plagioclimax below climax; when it stops, secondary succession resumes towards climax." loading="lazy">
+  <figcaption>Disturbance resets succession; human activity can hold it below climax.</figcaption>
+</figure>
 
 ## Small worked reminders
 

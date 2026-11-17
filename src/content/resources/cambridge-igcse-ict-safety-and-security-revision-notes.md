@@ -56,6 +56,11 @@ Every answer needs the **hazard**, its **cause** and a matching **prevention**.
 | Tripping | Trailing cables across the floor | Use cable ducts or covers; route cables along walls; use wireless connections |
 | Injury from falling equipment | Heavy equipment on weak desks or near edges | Use strong, stable desks; place equipment away from edges |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--13-physical-hazards.webp" width="900" height="870" alt="Four cards give a physical hazard, its cause and its prevention: electrocution, fire, tripping and heavy equipment falling." loading="lazy">
+  <figcaption>Name the hazard, its cause and a way to prevent it.</figcaption>
+</figure>
+
 ## 8.2 What does eSafety cover?
 
 ### Data protection
@@ -71,9 +76,19 @@ Data protection legislation is needed because organisations hold large amounts o
 7. Kept secure.
 8. Not transferred to another country without adequate protection.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--14-data-principles.webp" width="900" height="770" alt="An organisation sits at the centre of eight numbered principles from a typical data protection act. They are duties on the organisation that holds the data." loading="lazy">
+  <figcaption>The principles are duties of the organisation, not rules for the user.</figcaption>
+</figure>
+
 ### Personal and sensitive data
 
 Personal data identifies a living person: name, address, date of birth, a photograph in school uniform. Sensitive data such as **medical history** could cause more harm if disclosed. Both must be kept confidential to avoid inappropriate disclosure, which could lead to identity theft, fraud or someone being located.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--15-personal-sensitive.webp" width="900" height="870" alt="A circle of personal data (name, address, date of birth, photo in school uniform) contains a smaller circle of sensitive data such as medical history. A list shows harms if data is disclosed." loading="lazy">
+  <figcaption>Sensitive data is personal data that could cause greater harm if disclosed.</figcaption>
+</figure>
 
 ### Minimising danger online
 
@@ -97,6 +112,16 @@ Personal data identifies a living person: name, address, date of birth, a photog
 | Malware | Any malicious software (viruses, spyware, ransomware and so on) | Anti-malware; only download from trusted sites; keep software updated |
 | Card fraud | Shoulder surfing (watching a PIN being entered), card cloning (copying card data with a skimmer), key logging (recording keystrokes) | Shield the keypad; check card readers; contactless or chip cards; anti-spyware; on-screen keyboards or drop-down menus for passwords |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--16-phishing-pharming.webp" width="900" height="1044" alt="Phishing tricks the user into clicking a link in a fake email; pharming redirects the user to a fake website even when the correct address is typed. Smishing and vishing use text messages and voice calls." loading="lazy">
+  <figcaption>In phishing the user is tricked into acting; in pharming the user is redirected silently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--17-card-fraud.webp" width="900" height="950" alt="Shoulder surfing watches a PIN being entered, card cloning copies card data with a skimmer, and key logging records keystrokes. Each has a matching prevention." loading="lazy">
+  <figcaption>Three card-fraud methods and how to stop each.</figcaption>
+</figure>
+
 ## How is data protected?
 
 | Method | Purpose |
@@ -110,6 +135,16 @@ Personal data identifies a living person: name, address, date of birth, a photog
 | User ID and password | User ID identifies the user; the password authenticates them. Strong passwords mix upper and lower case, digits and symbols and are changed regularly |
 
 Key point: encryption does not stop data being intercepted or stolen; it makes the stolen data unreadable.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--18-defences.webp" width="900" height="1050" alt="A person logs in with biometrics, user ID and password, or two-factor authentication. Data then passes a firewall and an SSL encrypted link to a server with a digital certificate and encrypted stored data." loading="lazy">
+  <figcaption>Each protection method guards a different point between user and data.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-safety-and-security-study-guide--19-password-strength.webp" width="900" height="890" alt="Two rows of eight slots show 26 choices against 62 choices per slot. The mixed set gives 218 340 105 584 896 combinations against 208 827 064 576, about 1 045 times more." loading="lazy">
+  <figcaption>Mixing character types gives about 1 045 times more combinations at 8 characters.</figcaption>
+</figure>
 
 ## Worked example: matching threat to defence
 

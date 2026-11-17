@@ -64,6 +64,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section 4.7, assessed on Pap
 **Stored program concept** (specification wording): machine code instructions stored in main memory are
 **fetched and executed serially** by a processor that performs arithmetic and logical operations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--08-von-neumann-harvard.webp" width="900" height="1010" alt="Von Neumann has one memory and one set of buses for instructions and data, so they cannot be transferred together. Harvard has separate instruction and data memories with their own buses, so both can be accessed at once." loading="lazy">
+  <figcaption>Von Neumann shares one memory and bus set; Harvard separates instructions and data.</figcaption>
+</figure>
+
 ## Registers and the fetch-execute cycle
 
 | Register | Holds |
@@ -122,6 +127,11 @@ store: STR R0, 102
 **Shifts:** a logical shift left by 1 multiplies an unsigned value by 2; a logical shift right by 1
 divides by 2 (discarding the remainder).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--12-multiply-trace.webp" width="900" height="1010" alt="The loop CMP, BEQ, ADD, SUB, B repeats. R1 falls 4 to 0 while R2 grows 0, 7, 14, 21, 28 in blocks of 7. STR stores 28 in location 102 after 27 instructions." loading="lazy">
+  <figcaption>The loop adds 7 four times, leaving 28.</figcaption>
+</figure>
+
 ## Interrupts
 
 An **interrupt** is a signal to the processor that a device or program needs attention. The processor
@@ -154,6 +164,11 @@ saved values are restored and the original program continues exactly where it le
   **SSD**: NAND flash memory plus a controller; floating gate transistors trap charge; a page cannot be
   overwritten -- the whole **block** must be erased first. **Lower latency and faster transfer** than a
   magnetic disk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide--13-storage-devices.webp" width="900" height="1000" alt="Hard disk: magnetised regions on spinning platters read by a head. Optical disc: pits and lands read by a laser. SSD: flash cells with no moving parts." loading="lazy">
+  <figcaption>How the hard disk, optical disc and solid-state drive each hold data.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

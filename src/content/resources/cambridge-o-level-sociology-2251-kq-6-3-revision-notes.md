@@ -65,6 +65,11 @@ judge the **effectiveness**, and use examples from more than one society.
 - **Incapacitation:** stop offending while the sentence lasts.
 - **Rehabilitation:** change the offender for the future.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--01-aims-of-punishment.webp" width="900" height="643" alt="Retribution looks backward to the crime and asks whether a punishment is deserved. Four aims look forward to preventing crime: protection of citizens, deterrence (individual and general), incapacitation and rehabilitation, each with the question it asks." loading="lazy">
+  <figcaption>Retribution looks back at the crime; the other four aims look ahead.</figcaption>
+</figure>
+
 ## Perspectives on punishment
 
 - **Durkheim:** punishment reinforces shared values; retributive justice in simpler societies,
@@ -74,6 +79,11 @@ judge the **effectiveness**, and use examples from more than one society.
   (surveillance and self-control).
 - **Braithwaite (1989):** reintegrative versus disintegrative shaming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--02-views-of-punishment.webp" width="900" height="458" alt="Four views of punishment: Durkheim sees it expressing shared values, moving from retributive to restitutive justice; Marxists see it controlling the working class; Foucault describes a shift from sovereign to disciplinary power and the panopticon; Braithwaite contrasts disintegrative and reintegrative shaming." loading="lazy">
+  <figcaption>Each view asks what punishment does for society, not just for the offender.</figcaption>
+</figure>
+
 ## Punishments sorted by main aim
 
 - **Incapacitation / protection:** prison; capital punishment; exile; tagging; curfews; restraining
@@ -81,6 +91,11 @@ judge the **effectiveness**, and use examples from more than one society.
 - **Retribution:** prison; fines; capital and corporal punishment; ostracism; social media shaming.
 - **Deterrence:** fines; corporal punishment; cautions (individual); publicised sentences (general).
 - **Rehabilitation:** rehabilitation programmes; probation; community sentences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--03-punishments-and-aims.webp" width="900" height="858" alt="A grid of twelve punishments against the five aims, with the main doubt about each. For example, prison serves protection, retribution and incapacitation but has high reoffending; probation serves rehabilitation; financial penalties serve retribution and deterrence but hurt the poor more; tagging partly incapacitates." loading="lazy">
+  <figcaption>Never call a punishment effective without saying which aim it is effective at.</figcaption>
+</figure>
 
 ## Effectiveness: one strength, one doubt
 
@@ -106,6 +121,11 @@ judge the **effectiveness**, and use examples from more than one society.
 - Singapore: corporal punishment by caning.
 - Historical exile: Napoleon to Elba and St Helena.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--04-examples-different-societies.webp" width="900" height="604" alt="Five examples from different societies: exile, from Napoleon to modern deportation; Amish shunning as ostracism; Norway’s Bastøy prison as rehabilitation; New Zealand’s 1989 family group conferences as restorative justice; and the wrong naming of innocent people online after the 2013 Boston Marathon bombing." loading="lazy">
+  <figcaption>Use examples from more than one society.</figcaption>
+</figure>
+
 ## Policing (6.3.3)
 
 - **Targeting / stop and search:** finds weapons and drugs; damages trust if unfair (Scarman Report,
@@ -117,6 +137,16 @@ judge the **effectiveness**, and use examples from more than one society.
   schemes, jobs).
 - **Community vs military style:** Kinsey, Lea and Young (1986): losing public cooperation pushes
   police towards military style, a vicious circle.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--05-policing-styles.webp" width="900" height="695" alt="Policing styles from community policing, which relies on cooperation, through targeting and stop and search, to military-style policing that relies on force. Below, Kinsey, Lea and Young’s vicious circle: losing cooperation leads to military-style policing, which alienates communities and brings even less information." loading="lazy">
+  <figcaption>Policing that loses public trust tends to lose information too.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-6-3--06-prevention-surveillance.webp" width="900" height="561" alt="Three approaches to prevention: situational crime prevention reduces opportunities, including Newman’s defensible space; social crime prevention tackles causes; zero tolerance follows broken windows theory, with doubts about its effect. Below, surveillance aids detection and may deter, but raises displacement, privacy and bias." loading="lazy">
+  <figcaption>Prevention can reduce crime without punishment, but each method has costs.</figcaption>
+</figure>
 
 ## Exam traps
 

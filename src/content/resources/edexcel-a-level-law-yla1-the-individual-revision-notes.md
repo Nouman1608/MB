@@ -46,6 +46,11 @@ Condensed for the final weeks. For the full explanation, use the [individual stu
 
 **Serious harm on the facts:** after *Lachaux*, courts look at evidence such as the gravity of the allegation, how widely it was published and who read it. In *Monroe v Hopkins* tweets that wrongly implied the claimant approved of vandalising a war memorial were held to have caused serious harm.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--14-defamation-claim.webp" width="900" height="960" alt="An untrue statement is either libel (permanent form) or slander (transient form). It must pass the serious harm test in section 1 of the Defamation Act 2013 to give a claim. Three defences stand against the claim: truth (s 2), honest opinion (s 3) and public interest (s 4)." loading="lazy">
+  <figcaption>A defamation claim needs serious harm to reputation; truth, honest opinion and public interest are the main defences.</figcaption>
+</figure>
+
 ## Human rights (2.3.2 to 2.3.4)
 
 - **Art 10** expression and **Art 11** peaceful assembly: **qualified**. Restriction must be prescribed by law, for a legitimate aim, necessary in a democratic society (proportionate).
@@ -56,11 +61,26 @@ Condensed for the final weeks. For the full explanation, use the [individual stu
 - **ECtHR**: Strasbourg, Council of Europe. Exhaust domestic remedies → apply within four months → admissibility → judgment → just satisfaction → Committee of Ministers supervises.
 - **Effect on government**: binding in international law, not automatically in UK law. *Malone* [1984] → Interception of Communications Act 1985; *Sunday Times* → Contempt of Court Act 1981; *Goodwin* [2002] → Gender Recognition Act 2004; *Hirst (No 2)* [2005]: slow, limited response.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--01-qualified-rights-test.webp" width="900" height="664" alt="Three tests a restriction on Article 10 or 11 must pass: prescribed by law, a legitimate aim such as public safety or protecting others' rights, and necessary in a democratic society, meaning proportionate. Cards give the Article 10 cases (Handyside, Sunday Times) and Article 11 cases (DPP v Jones, DPP v Ziegler) and the Human Rights Act sections 6, 3 and 4." loading="lazy">
+  <figcaption>Expression and assembly can be restricted only by law, for a legitimate aim, and proportionately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--02-ecthr-route.webp" width="900" height="647" alt="Five steps to Strasbourg: exhaust domestic remedies, apply within four months, admissibility then merits, just satisfaction, and supervision by the Committee of Ministers. A judgment binds the UK internationally but does not change UK law. A table shows government responses: Malone led to the 1985 Act, Sunday Times to the 1981 Act, Goodwin to the 2004 Act, while Hirst brought only a limited change." loading="lazy">
+  <figcaption>Strasbourg judgments do not change UK law themselves, but governments usually legislate in response.</figcaption>
+</figure>
+
 ## Privacy (2.3.5, 2.3.6)
 
 - **Art 8**: private and family life, home, correspondence. Misuse of private information: reasonable expectation of privacy, balanced against Art 10 (*Campbell v MGN* [2004]; *Mosley* [2008]; *PJS* [2016]).
 - **DPA 2018** with UK GDPR: rules on processing personal data; data subject rights including access; **s 170** offence of knowingly or recklessly obtaining or disclosing personal data without the controller's consent.
 - **FOIA 2000**: right to request information from public authorities; response generally within 20 working days; exemptions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--03-privacy-balance.webp" width="900" height="588" alt="Two questions for misuse of private information: did the claimant have a reasonable expectation of privacy, and was publication justified, balancing Article 8 against Article 10. Cases: Campbell v MGN, Mosley and PJS. Cards summarise the Data Protection Act 2018, including the s 170 offence, and the Freedom of Information Act 2000 with its 20 working day response." loading="lazy">
+  <figcaption>Expectation of privacy first, then whether publication was justified.</figcaption>
+</figure>
 
 ## Occupiers' liability (2.3.7, 2.3.8)
 
@@ -84,11 +104,26 @@ Occupier = person in control (*Wheat v Lacon* [1966]).
 
 **Exclusion:** under the 1957 Act an occupier may restrict or exclude the duty by notice (s 2(1)), subject to consumer and unfair terms legislation for business occupiers. Volenti (willing acceptance of risk) is a defence under both Acts (s 2(5) of the 1957 Act; s 1(6) of the 1984 Act).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--13-occupiers-liability.webp" width="900" height="1029" alt="A plot of land with a house and fence. A lawful visitor walks in through the gate and is owed the common duty of care under the 1957 Act. A trespasser climbing the fence is owed a narrower duty about known dangers under the 1984 Act, which applies only if the occupier knows or has reasonable grounds to believe a danger exists and someone may come near it." loading="lazy">
+  <figcaption>The 1957 Act protects lawful visitors; the 1984 Act gives a narrower duty to non-visitors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--04-ola-1957-special-cases.webp" width="900" height="586" alt="Four cards adjust the common duty of care under the Occupiers' Liability Act 1957: children (s 2(3)(a), Glasgow Corporation v Taylor, with parents expected to supervise, Phipps), skilled visitors (s 2(3)(b), Roles v Nathan), warnings (s 2(4)(a)) and independent contractors (s 2(4)(b), Haseldine v Daw). The occupier is whoever has control (Wheat v Lacon)." loading="lazy">
+  <figcaption>The duty rises for children, falls for skilled visitors, and can be met by warnings or a well-chosen contractor.</figcaption>
+</figure>
+
 ## Trespass to land (2.3.9) and remedies (2.3.10)
 
 Direct, intentional interference with land in another's possession; **actionable per se**. Airspace: *Kelsen* [1957] v *Bernstein v Skyviews* [1978]. Continuing trespass = fresh claim daily. Remedies: damages, injunction, possession order, reasonable self-help; declarations.
 
 **Defences to trespass**: **licence** (express or implied permission, such as a path to the front door), **lawful authority** (for example police powers of entry under statute) and **necessity** (entering to prevent a greater harm, such as a fire spreading).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-individual--05-trespass-to-land.webp" width="900" height="637" alt="A neighbour's sign overhangs the claimant's land at a low height, marked as trespass (Kelsen v Imperial Tobacco), while an aircraft flies high above, marked as not trespass (Bernstein v Skyviews). Cards note that trespass is actionable without proof of damage, that a continuing trespass gives a fresh cause of action each day, and the defences of permission and lawful authority." loading="lazy">
+  <figcaption>Trespass needs no damage and reaches the airspace needed for ordinary use, but not high-flying aircraft.</figcaption>
+</figure>
 
 ## Answering a problem question
 

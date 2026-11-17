@@ -61,6 +61,11 @@ Full explanation: [social identities and social change study guide](/resources/o
 | **Impression management** | Controlling how others see us (Goffman, 1959) |
 | **Surveillance capitalism** | Profiting from data on users' behaviour (Zuboff, 2019) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--01-identity.webp" width="900" height="454" alt="Individual identity, what makes a person distinctive, set against collective identity, belonging to a group, with three features: identities are socially constructed, relational, and multiple and changing." loading="lazy">
+  <figcaption>Identities are built socially, defined against others and always shifting.</figcaption>
+</figure>
+
 ## Bases of identity: one line and one name each
 
 | Basis | Point | Name |
@@ -73,6 +78,11 @@ Full explanation: [social identities and social change study guide](/resources/o
 | Ability/disability | Social barriers create disability; stigma management | Oliver; Goffman (1963) |
 | Nationality | Nations imagined and reproduced daily | Anderson (1983); Billig (1995) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--02-seven-bases.webp" width="900" height="891" alt="A grid of the seven bases of identity, age, gender, ethnicity, class, religion, disability and nationality, each with its key idea and useful sociology such as Mannheim, Butler, Fanon, Savage, Oliver, Anderson and Billig." loading="lazy">
+  <figcaption>For each basis, say how it is constructed and how it changes.</figcaption>
+</figure>
+
 ## Social change
 
 - **Gender**: Connell's hegemonic masculinity; Mac an Ghaill's crisis of masculinity as manual jobs
@@ -84,6 +94,21 @@ Full explanation: [social identities and social change study guide](/resources/o
 - **Consumption and globalisation**: Bauman: identity through consumption; Giddens: reflexive
   project of the self; global youth cultures, glocal blends, defensive local identities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--03-gender-identities.webp" width="900" height="485" alt="Connell’s hegemonic masculinity, Mac an Ghaill’s crisis of masculinity among young working-class men, and diversifying femininities with persisting pressures over appearance and care." loading="lazy">
+  <figcaption>Gender identities have widened, but dominant ideals and pressures persist.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--04-hybrid-identity.webp" width="900" height="653" alt="Two overlapping circles, heritage culture and culture of settlement, with hybrid identity in the overlap. Cards summarise Hall’s view of diaspora identity as becoming and Robin Cohen’s types of diaspora." loading="lazy">
+  <figcaption>Hybrid identities combine cultures and keep being reworked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--05-online-identity.webp" width="900" height="399" alt="Goffman’s impression management, with users performing a front-stage self and finding support in online communities, set against Zuboff’s argument that platforms harvest data and shape identities for profit." loading="lazy">
+  <figcaption>Users perform identities online, but inside systems built for profit.</figcaption>
+</figure>
+
 ## Choice vs constraint
 
 | Choice view | Constraint view |
@@ -92,6 +117,11 @@ Full explanation: [social identities and social change study guide](/resources/o
 | Online spaces allow experimentation | Platforms and algorithms shape what is visible |
 | Consumption expresses self | Consumption depends on income |
 | Hybridity shows creativity | Racism and othering still impose labels |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-identities-social-change--06-choice-structure.webp" width="900" height="631" alt="Bauman, Giddens and postmodernists see identity becoming chosen through consumption and globalisation; structural sociologists argue class, gender, ethnicity, disability and money still constrain it. A plan applies this to whether class still matters." loading="lazy">
+  <figcaption>Identities feel chosen, but structures and money limit the choices.</figcaption>
+</figure>
 
 ## Perspectives on identity
 

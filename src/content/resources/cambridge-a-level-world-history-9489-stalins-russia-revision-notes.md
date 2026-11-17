@@ -77,6 +77,11 @@ featured: false
 | 23 Aug 1939 | Nazi-Soviet Pact |
 | 22 June 1941 | German invasion |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--02-shifting-alliances.webp" width="900" height="577" alt="A timeline from 1923 to 1929 drawn to scale with three alliance bars: with Zinoviev and Kamenev (1923-25), with the Right (1925-27) and against the Right (1928-29). Events include Lenin's death (21 January 1924), the Testament suppressed (May 1924), Trotsky's fall (January 1925), the New Opposition defeated (December 1925), expulsions (1927), the grain crisis, Trotsky's deportation (1929) and Bukharin's removal (November 1929)." loading="lazy">
+  <figcaption>Stalin beat the Left with the Right, then turned on the Right.</figcaption>
+</figure>
+
 ## 2.1 Power struggle -- four reasons in brief
 
 1. **Office:** General Secretary, Orgburo, appointments, the Lenin enrolment.
@@ -84,12 +89,32 @@ featured: false
 3. **Rivals' errors:** Trotsky's arrogance and absence from the funeral; Zinoviev and Kamenev's opposition to the October 1917 rising; Bukharin's late resistance.
 4. **Alliances:** with Zinoviev-Kamenev (1923-25), with the Right (1925-27), against the Right (1928-29).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--01-left-right-stalin.webp" width="900" height="571" alt="A spectrum from Left to Right. On the Left, Trotsky and later Zinoviev and Kamenev: rapid industrialisation and Permanent Revolution. In the middle, Stalin's Socialism in One Country (1924). On the Right, Bukharin, Rykov and Tomsky defending NEP. Below, Stalin's advantage as General Secretary controlling appointments." loading="lazy">
+  <figcaption>Stalin held the centre ground in ideas and the party machine in practice.</figcaption>
+</figure>
+
 ## 2.2 Governing -- tools and results
 
 - **Terror:** Kirov's murder as trigger; NKVD; show trials 1936-38; mass operations with quotas; gulags; the 1937 purge of the high command.
 - **Cult:** fiftieth birthday (1929), the *Short Course* (1938), posters and statues, "Father of the Peoples".
 - **Constitution 1936:** rights on paper; one-party reality.
 - **Foreign policy:** Treaty of Berlin (1926) -- collective security from 1934 -- Spain (1936-39) -- clashes with Japan (1938-39) -- Nazi-Soviet Pact (1939). Neutrality Pact with Japan, April 1941.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--03-why-terror.webp" width="900" height="501" alt="Three groups of explanation converge on the Terror's 1936-38 peak: Stalin's aims and personality; the political crisis of the Ryutin Platform (1932) and Kirov's murder (1 December 1934); and momentum from NKVD quotas, denunciations and scapegoating. NKVD records show about 680,000 executions in 1937-38." loading="lazy">
+  <figcaption>Weigh Stalin's intent against crisis and momentum from below.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--04-terror-timeline.webp" width="900" height="641" alt="A timeline from late 1934 to 1938 drawn to scale. Kirov is murdered on 1 December 1934. Three show trials follow: August 1936 (Zinoviev, Kamenev), January 1937 (Pyatakov, Radek) and March 1938 (Bukharin, Rykov, Yagoda). Below, the 1936 Constitution and the 1937 army purge. Bars mark Yezhov at the NKVD and the mass operations from July 1937." loading="lazy">
+  <figcaption>The Terror peaked in 1937-38, as a constitution promised rights.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--05-foreign-policy.webp" width="900" height="442" alt="Three phases linked by arrows: co-operation with Germany until Hitler's rise; collective security from 1934, with the League, pacts, Popular Fronts and aid to Spain and China; and the Nazi-Soviet Pact of 23 August 1939 after exclusion from Munich. Below, the cost: the pact bought time but was followed by the disaster of June 1941." loading="lazy">
+  <figcaption>Stalin switched to collective security against Hitler, then to a deal with him.</figcaption>
+</figure>
 
 ## 2.3 Economy -- balance sheet
 
@@ -100,6 +125,11 @@ featured: false
 | Plan 3 | Armaments production expanded | Consumer goods squeezed |
 | Labour | Stakhanovite incentives, technical training | Labour books, harsh discipline laws (1938-40), forced labour |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--06-five-year-plans.webp" width="900" height="792" alt="Reasons for the Great Turn sit above two columns. Collectivisation: collective and state farms, a pause after &quot;Dizzy with Success&quot;, dekulakisation, livestock halved, famine in 1932-33 and over 90 per cent collectivised by the late 1930s. Industrialisation: the first Plan (1928-32) for heavy industry, the second (1933-37) adding transport, and the third (from 1938) for armaments. A note on Stakhanov's 1935 record." loading="lazy">
+  <figcaption>The countryside paid for the Plans; heavy industry, then arms, came first.</figcaption>
+</figure>
+
 ## 2.4 Society -- change and retreat
 
 - **Women:** mass entry into industry; double burden; 1936 abortion ban and harder divorce.
@@ -107,6 +137,11 @@ featured: false
 - **Education:** from progressive experiment to traditional schooling; fees from 1940; literacy and technical training expanded.
 - **Culture:** Cultural Revolution (1928-31), then Socialist Realism; artists under pressure.
 - **Religion:** 1929 law, League of the Militant Godless, church closures and arrests; belief persisted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-stalins-russia--07-transformation-retreat.webp" width="900" height="514" alt="A table of five areas. Women entered industry, but the 1936 law banned abortion; national cultures gave way to Russification; literacy rose but schooling became formal, with fees from 1940; Socialist Realism was imposed; religion was attacked, yet the 1937 census recorded a majority of believers." loading="lazy">
+  <figcaption>Change was real, but in family, school and nationality the 1930s also brought a &quot;Great Retreat&quot;.</figcaption>
+</figure>
 
 ## Exam traps
 

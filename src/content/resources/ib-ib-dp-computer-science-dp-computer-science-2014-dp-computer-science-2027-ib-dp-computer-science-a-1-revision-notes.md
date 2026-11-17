@@ -51,6 +51,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 | Sample rate / bit depth | Samples per second / bits per sample |
 | Operating system | Software that manages hardware and provides services to applications |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--01-cpu-registers-buses.webp" width="900" height="660" alt="The CPU contains the control unit, which decodes instructions and sends control signals, the ALU for arithmetic and logic, and registers: the PC (address of the next instruction), MAR (address being read or written), MDR (data just read or to be written) and the accumulator (ALU results). The control bus carries read and write signals, the address bus carries addresses from the CPU and the data bus carries data both ways." loading="lazy">
+  <figcaption>The CU coordinates, the ALU calculates, registers hold what is in use, and buses link the CPU to memory.</figcaption>
+</figure>
+
 ## Fetch-execute in one line per step
 
 1. **PC → MAR**; read signal; instruction from memory → **MDR**; **PC + 1**.
@@ -58,6 +63,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 3. CU **executes**: data may be fetched via MAR/MDR; **ALU** calculates; result stored (e.g. in the
    accumulator or memory).
 4. Repeat. A jump instruction **changes the PC**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--02-fetch-execute.webp" width="900" height="810" alt="Fetch: the address in the PC is copied to the MAR, the CU sends a read signal on the control bus, the instruction travels on the data bus into the MDR, and the PC is incremented. Decode: the instruction passes from the MDR to the CU. Execute: any data address goes to the MAR and the data to the MDR, the ALU calculates, and the result is stored in the accumulator or memory. A jump or branch changes the PC." loading="lazy">
+  <figcaption>Say what happens to the PC, MAR and MDR at each stage, not just the stage names.</figcaption>
+</figure>
 
 ## Storage at a glance
 
@@ -67,6 +77,11 @@ The exact learning outcomes are in the full DP guide held by your school.
 - **Why both?** Primary is fast but limited and mostly volatile; secondary is large and permanent but
   slower.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--03-storage.webp" width="900" height="714" alt="Primary storage (cache, RAM and ROM) is accessed directly by the CPU; cache is fastest, and cache and RAM are volatile while ROM is not. Secondary storage (hard disk, SSD, optical disc, USB flash drive) is non-volatile and reached through input/output, so data must be loaded into RAM. When RAM is full, part of secondary storage is used as virtual memory: more programs run, but swapping slows the system." loading="lazy">
+  <figcaption>Primary storage serves the CPU directly; virtual memory borrows slower secondary storage when RAM is full.</figcaption>
+</figure>
+
 ## Data representation: formulas and facts
 
 - Unsigned n-bit range: **0 to 2ⁿ − 1** (8 bits: 0–255).
@@ -75,6 +90,21 @@ The exact learning outcomes are in the full DP guide held by your school.
 - Sound size (bits) = **sample rate × bit depth × channels × seconds**.
 - Bytes = bits ÷ **8**.
 - ASCII: 7-bit codes (often stored in 8); Unicode: more bits, characters from many languages.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--04-binary-hex-text.webp" width="900" height="714" alt="Place values 8, 4, 2 and 1 show that 1101 in binary is 8 + 4 + 0 + 1 = 13. Eight bits make a byte and hold 256 values, 0 to 255 unsigned. The byte 1011 0110 splits into two groups of four bits, 11 and 6, written in hexadecimal as B6. Text uses numeric codes: ASCII with 7 bits, Unicode with more." loading="lazy">
+  <figcaption>Binary places double from right to left; each group of four bits is one hex digit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--05-images-and-sound.webp" width="900" height="604" alt="A bitmap image is a grid of pixels, each colour stored as a binary number; colour depth is bits per pixel, so 24 bits give about 16.7 million colours, and file size is width × height × colour depth. Sound is sampled: its amplitude is measured at regular intervals, the sample rate is samples per second and the bit depth is bits per sample." loading="lazy">
+  <figcaption>More bits per pixel or per sample means a truer copy and a bigger file.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--06-file-size-calculations.webp" width="900" height="788" alt="Image: 1920 × 1080 × 24 = 49,766,400 bits, divided by 8 = 6,220,800 bytes, about 6.2 MB. Sound: 44,100 samples per second × 16 bits × 2 channels × 60 seconds = 84,672,000 bits, divided by 8 = 10,584,000 bytes, about 10.6 MB." loading="lazy">
+  <figcaption>Multiply to get bits, then divide by 8 for bytes.</figcaption>
+</figure>
 
 ## Quick conversions
 
@@ -89,11 +119,21 @@ The exact learning outcomes are in the full DP guide held by your school.
 **Method, binary to hex:** split into groups of four from the right, convert each group.
 **Method, denary to binary:** repeatedly divide by 2 and read the remainders from last to first.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--07-denary-to-binary-trace.webp" width="900" height="796" alt="A flowchart of the algorithm: set n to 13 and result to empty; while n is greater than 0, find the remainder of n MOD 2, join it to the front of result and set n to n DIV 2; then output result. The trace table shows n going 13, 6, 3, 1, 0 with remainders 1, 0, 1, 1 and result building to &quot;1101&quot;." loading="lazy">
+  <figcaption>Remainders joined to the front build 1101, which checks back to 13.</figcaption>
+</figure>
+
 ## The operating system's jobs
 
 Memory management · process scheduling · device management with drivers · file management ·
 security and access rights · user interface. Applications use OS services instead of controlling
 hardware directly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-computer-science-theme-a--16-operating-system-layer.webp" width="900" height="740" alt="A three-layer stack. Applications sit at the top, hardware (the CPU, primary storage and secondary storage) at the bottom, and the operating system in the middle, joined to both by two-way arrows. The operating system manages hardware resources and mediates between applications and the machine." loading="lazy">
+  <figcaption>The operating system manages hardware resources and mediates between applications and the machine.</figcaption>
+</figure>
 
 ## Applying A.1 to scenarios
 
@@ -104,6 +144,11 @@ hardware directly.
 | A photo library is filling a phone's storage | Colour depth, resolution | Fewer pixels or lower colour depth reduce file size, at a cost in quality |
 | A music app offers "high quality" downloads | Sample rate, bit depth | Higher values copy the sound more closely but make larger files |
 | A field laptop is dropped often | SSD vs HDD | No moving parts makes an SSD more robust |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1--08-case-study-chain.webp" width="900" height="706" alt="A chain of reasoning for slow school laptops with many browser tabs open: RAM is full, so the operating system moves pages to virtual memory on the SSD; secondary storage is much slower than RAM, so the CPU waits. Adding RAM would reduce swapping." loading="lazy">
+  <figcaption>Marks come from linking each concept to the scenario’s details in a chain.</figcaption>
+</figure>
 
 ## Exam traps
 

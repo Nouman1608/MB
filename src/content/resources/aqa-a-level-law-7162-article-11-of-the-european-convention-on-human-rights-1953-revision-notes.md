@@ -36,6 +36,11 @@ expression.
 Answer order: **which freedom** (assembly or association) → **is it peaceful / is it an association** →
 **interference or failure of positive duty** → **11.2** → **conclusion**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953--01-two-rights.webp" width="900" height="607" alt="Article 11.1, a qualified right, splits into peaceful assembly (meeting in public or private: marches, static protests, rallies, sit-ins) and association with others (formal or lasting groups, including trade unions, political parties and campaign groups). A note explains that a protest usually expresses an opinion, so Article 11 is read in the light of Article 10." loading="lazy">
+  <figcaption>Assembly and association: two linked freedoms, both read alongside Article 10.</figcaption>
+</figure>
+
 ## Peaceful assembly: core rules
 
 | Rule | Authority |
@@ -45,6 +50,16 @@ Answer order: **which freedom** (assembly or association) → **is it peaceful /
 | Disruption alone does not make an assembly non-peaceful, but deliberate serious disruption is not at the core | Kudrevičius: road blockades by farmers; convictions justified |
 | No general right to protest on private land where alternatives exist | Appleby v UK (2003): shopping centre; no breach |
 | States must take reasonable and appropriate measures to protect lawful demonstrations | Plattform "Ärzte für das Leben" v Austria (1988) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953--02-peaceful-test.webp" width="900" height="498" alt="Three situations. If organisers or participants intend violence the assembly falls outside Article 11. A person who stays peaceful while others are violent is still protected (Ezelin v France, breach). A disruptive protest is still peaceful (Kudrevičius v Lithuania), though deliberate serious disruption is not at the core of the freedom and the convictions were justified." loading="lazy">
+  <figcaption>Violent intention removes protection; disruption or other people’s violence does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953--04-policing-protest.webp" width="900" height="534" alt="Three points. Plattform Ärzte für das Leben v Austria: states must take reasonable and appropriate measures to protect lawful demonstrations, a duty of means not results. Laporte: turning back protesters’ coaches was unlawful because a breach of the peace was not imminent and the action was disproportionate. Kay: section 11 of the Public Order Act 1986 exempts processions commonly or customarily held, such as Critical Mass." loading="lazy">
+  <figcaption>The state must protect peaceful protest and needs clear, proportionate grounds to stop it.</figcaption>
+</figure>
 
 ## English cases on protest
 
@@ -57,6 +72,11 @@ Answer order: **which freedom** (assembly or association) → **is it peaceful /
 
 - **Kay v MPC (2008)**: Critical Mass cycle ride with no fixed route was "commonly or customarily held",
   so no advance notice was needed under the Public Order Act 1986 s11.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953--03-where-to-assemble.webp" width="900" height="399" alt="Two panels. Private land: Appleby v UK found no breach when campaigners were stopped in a privately owned shopping centre because they had other ways to reach the public. Public highway: DPP v Jones held a peaceful, non-obstructive assembly can be a reasonable use, and DPP v Ziegler required a proportionality assessment of lawful excuse, restoring the protesters’ acquittals." loading="lazy">
+  <figcaption>No right to use private land where alternatives exist; the highway can be used peacefully.</figcaption>
+</figure>
 
 ## Linking Article 11 with Article 10
 
@@ -75,6 +95,11 @@ leaflets, banners or speeches rather than the gathering itself, Article 10 may b
 | Redfearn v UK (2012) | Dismissal for BNP membership with no unfair dismissal remedy: breach of positive obligation |
 | United Communist Party of Turkey v Turkey (1998) | Dissolution of a party: breach |
 | Refah Partisi v Turkey (2003) | Dissolution justified; aims incompatible with democracy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953--05-association-cases.webp" width="900" height="744" alt="A table of six association cases. Trade unions: Young, James and Webster (a negative freedom not to be forced to join), ASLEF (breach, a union may choose its members), the rail union case (no breach, wide margin). Political association: Redfearn (UK failed its positive obligation), United Communist Party of Turkey (dissolution a breach) and Refah Partisi (dissolution justified)." loading="lazy">
+  <figcaption>Association covers the freedom not to join and a union’s freedom to choose its members.</figcaption>
+</figure>
 
 ## Key terms
 

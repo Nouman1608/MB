@@ -35,6 +35,11 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
 | Setting by ability | Efficient teaching matched to ability | Sorts working-class pupils into lower sets | Can steer girls and boys into gendered tiers and subjects |
 | Hidden curriculum | Teaches shared values | Teaches obedience for work | Teaches gender roles |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--01-one-practice-two-readings.webp" width="900" height="566" alt="Three school practices read two ways. Setting: efficient teaching for functionalists, class sorting for Marxists. Hidden curriculum: conformity to shared norms versus the correspondence principle. Testing: a fair common measure versus the myth of meritocracy." loading="lazy">
+  <figcaption>The same practice means different things to each perspective.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -62,6 +67,16 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
 - Also: social mobility; value consensus; equal opportunities; standardised testing; setting by ability; vocationalism.
 - **Strength**: explains the link between qualifications and jobs. **Limitation**: achievement gaps by class, ethnicity and gender suggest it is not a meritocracy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--02-functionalist-roles.webp" width="900" height="515" alt="Parsons saw school as the bridge from the family, where children are judged by particularistic standards, to wider society, where universalistic standards apply and status is achieved. Below, the four roles: socialisation, social control, economic and selective." loading="lazy">
+  <figcaption>School moves children from family standards to the same standards for everyone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--03-meritocracy-or-myth.webp" width="900" height="616" alt="Two chains. Functionalist: ability and effort, measured by standardised tests and setting, lead to role allocation and social mobility. Marxist: class background predicts outcomes, belief in merit disguises this, those who fail blame themselves, and inequality looks fair." loading="lazy">
+  <figcaption>Functionalists see a meritocracy; Marxists see a myth that legitimates inequality.</figcaption>
+</figure>
+
 ## Marxist checklist (5.2.2)
 
 - Socialisation and social control as **ideological control** (Althusser).
@@ -72,6 +87,16 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
 - **Setting**: working-class pupils over-represented in lower sets.
 - **Strength**: explains persistent class gaps. **Limitation**: Willis (1977) showed resistance, not passive acceptance; neglects gender and ethnicity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--04-correspondence-principle.webp" width="900" height="538" alt="School mirrors the workplace: obeying teachers corresponds to obeying bosses, and working for grades rather than interest corresponds to working for wages. Bowles and Gintis call this the correspondence principle; Willis’s lads, who resisted school, challenge it." loading="lazy">
+  <figcaption>For Marxists, school rehearses the obedience that work demands.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--05-cultural-capital.webp" width="900" height="496" alt="Middle-class cultural capital learned at home is rewarded at school, so success looks like merit and class advantage is disguised. Poorer families also have less digital technology, study space, tutoring and educational trips, and working-class pupils are more often placed in lower sets." loading="lazy">
+  <figcaption>Cultural and material advantages from home are turned into school success.</figcaption>
+</figure>
+
 ## Feminist checklist (5.2.3)
 
 - **Patriarchal culture** and **male power**: men often over-represented in senior posts.
@@ -81,6 +106,16 @@ Condensed notes for key question **5.2 What are the roles and functions of educa
 - **Teacher expectations**: Spender found boys dominated classroom talk and attention.
 - **Peer groups and social control**: teasing and labels police gender norms.
 - **Strength**: exposes inequalities others ignore. **Limitation**: girls now outperform boys at school level in many countries; may overlook class and ethnicity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--06-feminist-view.webp" width="900" height="628" alt="A staffroom where senior leaders are more likely to be men and most teachers, especially in primary schools, are women, teaching pupils that men lead and women care. Six mechanisms follow: role models, subject choice, teacher expectations (Spender), peer groups, access to education and a gendered curriculum." loading="lazy">
+  <figcaption>Who leads, who teaches and what is expected all carry gender messages.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--07-evaluating-the-views.webp" width="900" height="426" alt="Each view with one strength and three limitations. Functionalism explains investment in schooling but ignores persistent gaps and resistance. Marxism explains lasting class gaps but neglects resistance, gender, ethnicity and mobility. Feminism exposes gender inequality but faces girls now outperforming boys." loading="lazy">
+  <figcaption>The syllabus asks for strengths and limitations of every view.</figcaption>
+</figure>
 
 ## Exam traps
 

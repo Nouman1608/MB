@@ -40,6 +40,16 @@ Language A (4EA1). For the full method and a worked plan, use the
 | Feedback | General suggestions at draft stage only; you make the corrections |
 | After marking | No rewriting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--01-assignment-a-at-a-glance.webp" width="900" height="556" alt="Assignment A is 30 marks: 12 for AO1 and 18 for AO2, which is 60%. It uses three Anthology Part 2 texts including at least one poem and one prose text, one focus such as setting, character, event or theme, and about 1200 words. The suggested task asks how the writers use language and structure to present the focus in the three texts." loading="lazy">
+  <figcaption>Three texts, one focus, about 1200 words; AO2 carries 60% of the marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--04-c3-mix.webp" width="900" height="960" alt="Four possible three-text selections drawn as icons with allowed or not-allowed marks." loading="lazy">
+  <figcaption>Assignment A needs at least one poetry and one prose text, so two poems + one prose or one poem + two prose are allowed; all poems or all prose are not.</figcaption>
+</figure>
+
 ## Part 2 texts by form
 
 | Poetry | Prose |
@@ -58,6 +68,11 @@ Language A (4EA1). For the full method and a worked plan, use the
 
 If the answer to any is no, change a text or narrow the focus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--02-choosing-a-focus.webp" width="900" height="742" alt="Three tests for a focus: is it central in each text, do the writers present it differently, and do the texts use different methods? Weak focuses are improved: “Feelings” becomes “Moments of private realisation”, “War” becomes “Violence and its aftermath”, and “Women” becomes “The pressure of other people’s expectations”." loading="lazy">
+  <figcaption>A good focus is narrow enough to argue and broad enough for all three texts.</figcaption>
+</figure>
+
 ## Level wording to aim for
 
 | AO | Level | Key phrases from the grid |
@@ -70,12 +85,22 @@ If the answer to any is no, change a text or narrow the focus.
 
 Marks are awarded on a **best fit** basis across the whole essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--03-mark-levels.webp" width="900" height="703" alt="A table of levels 3 to 5. AO1 runs from “clear and relevant selection” at Level 3 (7–9) to “perceptive interpretation” at Level 4 (10–12), its top level. AO2 runs from “clear explanations” at Level 3 (7–10) through “detailed exploration” at Level 4 (11–14) to “perceptive analysis” at Level 5 (15–18)." loading="lazy">
+  <figcaption>The top levels reward perceptive interpretation and analysis.</figcaption>
+</figure>
+
 ## Two essay structures
 
 | Structure | How | Best for |
 |---|---|---|
 | Integrated | Each paragraph on one aspect of the focus, discussing two or three texts | Trios with clear similarities and contrasts |
 | Sequenced with links | A section per text, each opening with a link to the last | Trios with very different methods |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--04-one-essay-two-structures.webp" width="900" height="618" alt="Two essay structures. Integrated by idea: each paragraph takes one aspect and discusses two or three texts within it. Sequenced with links: one section per text, each linking back to the previous one and pointing forward. Either opens with a thesis and closes with a judgement about what the three texts suggest together." loading="lazy">
+  <figcaption>Integrated or sequenced, the essay needs a thesis and links throughout.</figcaption>
+</figure>
 
 ## Paragraph recipe
 
@@ -110,6 +135,11 @@ Each step adds a reason, then a connection to another text.
 - No paragraph is mostly plot.
 - Quotations are short and embedded in your sentences.
 - Conclusion makes a judgement, not a summary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--06-drafting-within-rules.webp" width="900" height="626" alt="Four stages: you write the draft independently, the teacher may suggest general improvements, you make the corrections, and once marked the work must not be rewritten. The draft stage has three jobs: check every paragraph answers the focus, replace retelling with analysis, and include close reading in each text." loading="lazy">
+  <figcaption>The teacher may advise; you make every change, before marking.</figcaption>
+</figure>
 
 ## Key terms
 

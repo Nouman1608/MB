@@ -31,6 +31,11 @@ For full explanations and annotated answers, read the [education and capitalism 
 
 Capitalism needs obedient, motivated workers who accept inequality → school organises pupils' daily life to mirror work (the correspondence principle) → the hidden curriculum teaches the habits work requires → pupils who fail blame themselves (myth of meritocracy) → class inequality is reproduced and looks fair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism--01-marxist-starting-point.webp" width="900" height="586" alt="The bourgeoisie own the means of production and the proletariat must sell their labour, an unequal and exploitative relationship. Capitalism therefore needs workers with the right skills and attitudes, and workers who accept their position. Marxists argue education supplies both." loading="lazy">
+  <figcaption>For Marxists, education serves capitalism by supplying willing workers.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -59,6 +64,16 @@ Capitalism needs obedient, motivated workers who accept inequality → school or
 
 Source: *Schooling in Capitalist America* (1976), a Marxist study of American schooling. They also reported that higher grades tended to go to pupils showing perseverance, dependability and punctuality rather than creativity or independence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism--02-five-key-ideas.webp" width="900" height="826" alt="Five numbered ideas: education reproduces labour power; the correspondence principle makes school a rehearsal for work; it produces a docile, obedient workforce too divided to challenge management; class background, not merit, drives attainment; and the myth of meritocracy makes inequality look fair." loading="lazy">
+  <figcaption>The correspondence principle sits inside a wider argument about reproduction and legitimation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism--03-hidden-curriculum.webp" width="900" height="735" alt="Bowles and Gintis found pupils with higher grades showed perseverance, dependability and punctuality rather than creativity or independence. Below, a chain: ranking and competition make pupils rivals, so as adults they are less likely to act collectively, which protects owners’ authority." loading="lazy">
+  <figcaption>School rewards the traits of a good subordinate and keeps workers divided.</figcaption>
+</figure>
+
 ## Five correspondences to learn
 
 | School | Work |
@@ -68,6 +83,11 @@ Source: *Schooling in Capitalist America* (1976), a Marxist study of American sc
 | Separate subjects in fixed lessons | Narrow, fragmented tasks |
 | Ranking and competition between pupils | Competition between workers for jobs and promotion |
 | Bells, timetables, punctuality rules | Clocking in, shifts, fixed hours |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--03-correspondence-principle.webp" width="900" height="927" alt="Four matched pairs link school to work: obeying teachers and obeying managers; working for grades and working for wages; separate lessons and narrow tasks; competing for rank and competing for promotion. The result is a docile, obedient workforce too divided to challenge management. Below, alternative views from Willis, functionalists, feminists and interactionists." loading="lazy">
+  <figcaption>Social relationships at school mirror those at work, so school reproduces labour power.</figcaption>
+</figure>
 
 ## Alternative views: compare and contrast
 
@@ -79,6 +99,16 @@ Source: *Schooling in Capitalist America* (1976), a Marxist study of American sc
 | Interactionist | Partly | Pupils actively interpret and resist; they are not passive receivers of the hidden curriculum |
 
 **Same side, different mechanism:** Bowles and Gintis say capitalism is served through *successful* socialisation into obedience. Willis says it is served through pupils' *resistance*, which still leads them into manual work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism--04-alternative-views.webp" width="900" height="769" alt="Five views ordered from acceptance to challenge. Bowles and Gintis: school directly produces obedient workers. Willis, also Marxist: resistance, not obedience, led to manual work. Functionalists: schools prepare for work but fairly. Feminists: schools also correspond to patriarchy. Interactionists: pupils are active, not passive. Below, change since the 1970s." loading="lazy">
+  <figcaption>Organise alternative views by how far each accepts the principle.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism--05-willis-two-routes.webp" width="900" height="699" alt="Two routes to the same outcome. Bowles and Gintis: school trains obedience, producing docile workers. Willis: the lads resisted school and were neither obedient nor docile, yet still ended up suited to manual work. Willis, also a Marxist, challenges how the correspondence works, not whether schooling serves capitalism." loading="lazy">
+  <figcaption>Capitalism still got its workers, but through resistance rather than obedience.</figcaption>
+</figure>
 
 ## Evaluation points
 

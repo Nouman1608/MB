@@ -34,6 +34,11 @@ Condensed notes for sub-topic 2.1. For full explanations and two worked examples
 
 Percentage composition is not required.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--01-soil-components.webp" width="900" height="765" alt="Four components of soil: mineral particles from weathered rock; organic content, both living organisms and decomposed organic matter (humus); gases such as oxygen and carbon dioxide; and water in pore spaces. Below, sand, silt and clay particles compared: sand is largest with large pores that drain quickly; silt is medium; clay is smallest with tiny pores that hold water and nutrients." loading="lazy">
+  <figcaption>Soil is mineral particles, organic content, gases and water; particle size sets drainage and nutrients.</figcaption>
+</figure>
+
 ## Sand, silt and clay compared
 
 | | Sand | Silt | Clay |
@@ -46,6 +51,11 @@ Percentage composition is not required.
 | Nutrient retention | Low (leaching) | Moderate | High |
 | Cultivation | Easy, light | Can compact | Heavy when wet, hard when dry |
 | Main risk | Drying out, nutrient loss | Packing down | Waterlogging |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--06-drainage-experiment.webp" width="900" height="635" alt="Stacked bars for 100 cm³ of water poured through 100 g of soil for 10 minutes. Sandy soil drains 78 and retains 22; loam drains 52 and retains 48; clay drains 15 and retains 85. Loam drains the excess but keeps nearly half, which suits crops." loading="lazy">
+  <figcaption>Sand drains most, clay retains most, loam sits in between.</figcaption>
+</figure>
 
 ## Why composition matters (2.1.2)
 
@@ -60,6 +70,21 @@ Percentage composition is not required.
 - **Water content and drainage**: water for photosynthesis and ion transport; excess must drain to avoid waterlogging.
 - **Ease of cultivation**: how easily soil can be ploughed and planted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--02-three-ions.webp" width="900" height="725" alt="Three panels. Nitrate (NO3−) supplies nitrogen for proteins and leaf growth; without it plants are stunted with yellowing leaves. Phosphate (PO4 3−) supplies phosphorus for healthy roots; deficiency gives poor roots and purple-tinged leaves. Potassium (K+) is needed for healthy flowers and fruit; deficiency gives yellow leaf edges and poor fruit." loading="lazy">
+  <figcaption>Nitrate for leaves, phosphate for roots, potassium for flowers and fruit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--03-pore-spaces.webp" width="900" height="715" alt="Two close-ups of soil. In well-drained soil the pore spaces between particles hold air and some water, so roots get oxygen to respire. In waterlogged soil the pores are full of water, oxygen runs out and roots can die. The ideal soil holds enough water but lets the excess drain." loading="lazy">
+  <figcaption>Roots need both water and oxygen, so pore spaces must not stay full of water.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-land--08-land-ol-crop-needs-soil.webp" width="900" height="1000" alt="A cross-section shows a plant with roots in soil. Roots take in water and air (oxygen) from the gaps between particles, and mineral ions: nitrate NO3-, phosphate PO4 3- and potassium K+. Below, a pH strip runs from acidic through neutral to alkaline: most crops grow best close to neutral, and very acidic or alkaline soil limits growth." loading="lazy">
+  <figcaption>Roots take water, air and the ions nitrate, phosphate and potassium from soil; most crops grow best near neutral pH.</figcaption>
+</figure>
+
 ## Loam (2.1.3): five reasons, each with its benefit
 
 | Reason | Benefit to the crop |
@@ -70,10 +95,20 @@ Percentage composition is not required.
 | Allows excess water to drain | No waterlogging; roots get oxygen |
 | Easy to cultivate | Less time, fuel and labour to plough and plant |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-land--17-land-ig-loam.webp" width="900" height="930" alt="A soil cross-section shows the four parts of soil: mineral particles (sand, silt and clay), organic content, air and water in the pore spaces. Loam is a good medium for crop growth because it has the right mix of particles and pore spaces, retains moisture, contains organic content and inorganic ions, drains excess water and is easy to cultivate." loading="lazy">
+  <figcaption>Loam combines the soil parts in a mix that holds moisture, drains and is easy to work.</figcaption>
+</figure>
+
 ## Weather and seasons (2.1.4 and 2.1.5)
 
 - **Weather**: the day-to-day conditions of the atmosphere in a location. (Climate is the long-term average.)
 - **Wet and dry seasons**: some areas have them; crops are planted at the start of the wet season; dry-season growing needs irrigation; a failed wet season reduces harvests.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--04-wet-dry-seasons.webp" width="900" height="665" alt="Weather is the day-to-day state of the atmosphere in a place; climate is the average over many years. In places with wet and dry seasons, crops are planted at the start of the wet season and harvested as the dry season begins; growing in the dry season needs irrigation, and a late or failed wet season can ruin a harvest." loading="lazy">
+  <figcaption>Plant at the start of the wet season; a failed wet season can ruin the harvest.</figcaption>
+</figure>
 
 ## Optimum photosynthesis and crop growth (2.1.6)
 
@@ -87,6 +122,11 @@ Percentage composition is not required.
 
 - Rate against light intensity: rises, then levels off (another factor now limiting).
 - Rate against temperature: rises to an optimum, then falls (enzymes work less well).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-soils-and-crop-growth--05-photosynthesis-graphs.webp" width="900" height="700" alt="Two schematic graphs. Photosynthesis rate against light intensity rises steeply then levels off, showing another factor such as temperature or carbon dioxide now limits it. Rate against temperature rises to a peak at the optimum and then falls as enzymes work less well. Length of growing season, optimum weather and daylight hours set the rate and how long it lasts." loading="lazy">
+  <figcaption>Light: rises then levels off. Temperature: rises to an optimum, then falls.</figcaption>
+</figure>
 
 ## Key terms
 

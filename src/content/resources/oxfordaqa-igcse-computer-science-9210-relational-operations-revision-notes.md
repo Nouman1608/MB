@@ -40,6 +40,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-relational-operations/).
 - The result drives **selection** (`IF`) and **iteration** (`WHILE`, `REPEAT...UNTIL`).
 - When the two values are **equal**, only `=`, `≤`, `≥` are True.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--01-relational-truth-grid.webp" width="900" height="652" alt="A grid of the six relational operators applied to 7 and 7, 5 and 9, and 9 and 5. For equal values only =, ≤ and ≥ are True. For 5 and 9, ≠, &lt; and ≤ are True; for 9 and 5, ≠, > and ≥ are True." loading="lazy">
+  <figcaption>Each comparison gives True or False; the equal case is where the operators differ most.</figcaption>
+</figure>
+
 ## Symbol table
 
 | Meaning | Exam | Python / C# | Visual Basic |
@@ -64,6 +69,11 @@ Pseudocode uses `←` for assignment, so `=` always means comparison.
 | exactly, matches | `=` |
 | different from, except | `≠` |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--02-words-to-operators.webp" width="900" height="710" alt="Six phrases and their conditions on a number line around 50. &quot;At least 50&quot; is mark ≥ 50 and &quot;no more than 50&quot; is mark ≤ 50, both including 50. &quot;More than 50&quot; is mark > 50 and &quot;less than 50&quot; is mark &lt; 50, both excluding 50. &quot;Exactly 50&quot; is mark = 50 and &quot;anything except 50&quot; is mark ≠ 50." loading="lazy">
+  <figcaption>The boundary words decide whether 50 itself is included.</figcaption>
+</figure>
+
 ## Opposites (for converting loops and negating conditions)
 
 | Condition | Opposite |
@@ -74,6 +84,11 @@ Pseudocode uses `←` for assignment, so `=` always means comparison.
 
 `WHILE x < 10` stops at the same point as `UNTIL x ≥ 10`.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--03-opposite-operators.webp" width="900" height="656" alt="Number lines split at 10. count &lt; 10 covers everything below 10 and its opposite count ≥ 10 covers 10 and above; count ≤ 10 and count > 10 split the line the other way. count = 10 is the opposite of count ≠ 10. So WHILE count &lt; 10 becomes UNTIL count ≥ 10, not UNTIL count > 10." loading="lazy">
+  <figcaption>Opposites split the line with no gap: &lt; with ≥, > with ≤, = with ≠.</figcaption>
+</figure>
+
 ## Loop counts depend on the operator
 
 | Loop | Values of `i` used | Passes |
@@ -83,15 +98,30 @@ Pseudocode uses `←` for assignment, so `=` always means comparison.
 | `i ← 1`, `WHILE i < 5`, `i ← i + 1` | 1 to 4 | 4 |
 | `i ← 10`, `WHILE i > 0`, `i ← i - 2` | 10, 8, 6, 4, 2 | 5 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--06-loop-boundary.webp" width="900" height="640" alt="Two WHILE loops start count at 0 and output it before adding 1. With WHILE count &lt; 5 the output is 0, 1, 2, 3, 4: five values. With WHILE count ≤ 5 the output is 0, 1, 2, 3, 4, 5: six values." loading="lazy">
+  <figcaption>Changing &lt; to ≤ adds one more pass of the loop.</figcaption>
+</figure>
+
 ## Selection chains
 
 In `IF ... ELSE IF ... ELSE` chains, tests are checked **in order** and the first True one wins. Later tests can
 assume earlier ones were False, so `ELSE IF score ≥ 40` after `IF score ≥ 70` means "40 to 69".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--05-band-boundaries.webp" width="900" height="788" alt="An IF … ELSE IF chain puts times under 20 in Fast, times from 20 up to under 30 in Steady, and 30 or more in Starter. On a number line the boundaries are at 20 and 30. A trace of 18, 20, 29 and 30 gives Fast, Steady, Steady and Starter; 20 and 30 are the boundary values." loading="lazy">
+  <figcaption>Tests run in order, and boundary values reveal whether &lt; or ≤ was the right choice.</figcaption>
+</figure>
+
 ## Strings
 
 - `=` and `≠` compare strings character by character; **case matters** (`"Paris" ≠ "paris"`).
 - Compare like with like: convert `"25"` to an integer before comparing it with `25`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-relational-operations--04-string-comparison-case.webp" width="900" height="651" alt="The strings &quot;yes&quot; and &quot;Yes&quot; are compared character by character; the first characters differ in case, so &quot;yes&quot; = &quot;Yes&quot; is False, while &quot;yes&quot; = &quot;yes&quot; is True. A menu expecting &quot;Y&quot; will not accept &quot;y&quot; unless the condition allows both, and &quot;12&quot; must be converted before it is compared with the integer 12." loading="lazy">
+  <figcaption>String comparison checks every character, including case.</figcaption>
+</figure>
 
 ## Worked mini-trace
 

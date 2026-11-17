@@ -54,6 +54,16 @@ Condensed notes for **sub-topic 1.2 Production** in Cambridge O Level Commerce (
 | Inventory cost | The cost of buying and holding stock |
 | Utilities | Electricity, gas and water |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--04-global-supply-chain.webp" width="900" height="615" alt="A domestic supply chain has every stage in one country. A global one, such as a bicycle, has the frame welded in one country and the gears made in another, both sent to a third country for final assembly." loading="lazy">
+  <figcaption>A supply chain is global when at least some stages take place in other countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--05-agent-and-factor.webp" width="900" height="665" alt="Home trade runs producer, wholesaler, retailer, consumer. In international trade an agent finds buyers or sellers and arranges deals without holding the goods; a factor takes possession of the goods and sells them for the owner. Neither owns the goods; both earn commission." loading="lazy">
+  <figcaption>The factor holds the goods and the agent does not; neither owns them.</figcaption>
+</figure>
+
 ## Sector sorting rules
 
 - Ask what the **activity** is, not what the company sells.
@@ -62,11 +72,21 @@ Condensed notes for **sub-topic 1.2 Production** in Cambridge O Level Commerce (
 - App development, data analysis and cloud services are **quaternary**.
 - Construction is **secondary**, even though nothing is "manufactured".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--01-sectors-of-production.webp" width="900" height="715" alt="Four rows give the feature and examples of the primary, secondary, tertiary and quaternary sectors. Below, a reminder to place the activity: in a mining company a geologist is primary but an office cashier is tertiary, and a delivery driver is tertiary." loading="lazy">
+  <figcaption>Ask what the worker actually does to place the activity in a sector.</figcaption>
+</figure>
+
 ## Specialisation: advantage and disadvantage per context
 
 - **Individual**: greater skill and speed / boredom and narrow skills.
 - **Factory**: higher output per worker and consistent quality / one stoppage halts the whole line.
 - **Country**: uses natural advantages and earns exports / depends on imports and on world demand for its main product.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--02-specialisation-contexts.webp" width="900" height="705" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as becoming skilled against boring work, higher output per worker against the whole line stopping, and export income against dependence on other countries." loading="lazy">
+  <figcaption>Each context has its own advantages and disadvantages; use the one the question names.</figcaption>
+</figure>
 
 ## In-house versus outsourced: the syllabus examples
 
@@ -76,12 +96,22 @@ Condensed notes for **sub-topic 1.2 Production** in Cambridge O Level Commerce (
 | Control on information (designs, data) | Cost savings (no machinery or extra staff) |
 | Reliability of timing | Freedom to focus on core activities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--03-in-house-vs-outsourced.webp" width="900" height="525" alt="Two panels. In-house production gives control on quality, control of information and fewer supplier delays. Outsourced production gives access to expertise, cost savings and lets managers focus on what the business does best." loading="lazy">
+  <figcaption>In-house means control; outsourcing means expertise and cost savings.</figcaption>
+</figure>
+
 ## Digital technology effects
 
 | Technology | Positive effects | Negative effects |
 |---|---|---|
 | Automation (robotics) | Faster, consistent output; 24-hour working; safer for staff | High purchase and repair costs; job losses; retraining needed |
 | EDI with suppliers | Automatic re-ordering; less paperwork; fewer errors | Both firms need compatible systems; a failure stops orders |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--06-automation-and-edi.webp" width="900" height="600" alt="Top: with EDI, a supermarket’s system sends an order to the supplier automatically when stock falls to a set level, and documents such as invoices come back electronically. Below, the gains and drawbacks of automation and of EDI." loading="lazy">
+  <figcaption>Both technologies speed up production and ordering but bring set-up costs and new risks.</figcaption>
+</figure>
 
 ## The ten named costs
 
@@ -93,6 +123,11 @@ Advertising, bank charges, commission, customs duties, inventory, labour, packag
 - Multiply quantity by unit cost for items like packaging (for example 300 boxes x $1.20 = $360).
 - Add every line and show the addition.
 - If asked for cost per unit, divide the total by the number of units.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-production--07-export-consignment-costs.webp" width="900" height="690" alt="A cost table for 500 exported jackets worth $20,000: transport 1,800, packaging 300, customs duties 1,000 (5%), agent’s commission 600 (3%), warehousing 300 and bank charges 45. Total $4,045, or $8.09 per jacket." loading="lazy">
+  <figcaption>Convert each percentage to dollars, add every line, then divide: $4,045 is $8.09 a jacket.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -31,6 +31,11 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 - Tort damages look **back** to the pre-tort position; contract damages look **forward** to performance.
 - Usually a **lump sum**, once and for all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--01-tort-looks-backwards.webp" width="900" height="651" alt="A timeline with three points: before the tort, the tort, and the position if a contract had been performed. Tort damages look back to the claimant’s position before the tort (Livingstone v Rawyards Coal Co); contract damages look forward to the position if the contract had been performed. Damages are usually one lump sum." loading="lazy">
+  <figcaption>Tort damages restore the position before the wrong; contract damages look forward.</figcaption>
+</figure>
+
 ## Personal injury
 
 | Head | Type | Proof |
@@ -47,6 +52,16 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 - **Provisional damages:** s32A Senior Courts Act 1981, return to court on a specified serious deterioration.
 - **Periodical payments:** Damages Act 1996, future losses paid over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--02-personal-injury-heads.webp" width="900" height="670" alt="Personal injury damages split two ways. By type: pecuniary losses (earnings before trial, future earnings, medical and care costs, adapting a home) and non-pecuniary losses (pain and suffering, loss of amenity). By proof: special damages, calculated precisely to trial and pleaded, and general damages, assessed by the court (Heil v Rankin). Future losses are the annual loss multiplied by the years it will continue, adjusted because a lump sum can be invested." loading="lazy">
+  <figcaption>Every head of damages is both a type of loss and either special or general.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--03-lump-sum-alternatives.webp" width="900" height="418" alt="Three ways to pay for future loss. A lump sum is paid once and for all. Provisional damages under s32A Senior Courts Act 1981 let the claimant return if a specified serious deterioration such as epilepsy develops. Periodical payments under the Damages Act 1996 spread future losses over time." loading="lazy">
+  <figcaption>Provisional damages and periodical payments soften the once-and-for-all lump sum.</figcaption>
+</figure>
+
 ## Property damage
 
 | Situation | Measure |
@@ -55,6 +70,11 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 | Destroyed or uneconomic to repair | Market value of replacement / diminution in value |
 | Loss of use | Consequential losses, such as hire of a replacement |
 | Impecunious claimant | Higher credit hire costs recoverable: *Lagden v O'Connor* (2003) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--04-property-damage.webp" width="900" height="548" alt="If repair is reasonable the measure is the cost of repair; if the item is destroyed or repair is uneconomic, the measure is the diminution in value or the market value of a replacement. Consequential losses such as hire charges or lost profit are added; in Lagden v O’Connor a claimant who could not afford ordinary hire recovered credit hire costs." loading="lazy">
+  <figcaption>Repair or replacement value, plus consequential losses.</figcaption>
+</figure>
 
 ## Economic loss
 
@@ -69,6 +89,11 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 - *Darbishire v Warran* (1963): repair cost above market value; only market value recoverable.
 - **Burden** on the defendant: *Geest plc v Lansiquot* (2002).
 - Standard is not demanding: the claimant need only act reasonably.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--05-mitigation-ria.webp" width="900" height="681" alt="Bar chart of Ria’s claim: repairs £3,000 are recoverable; the £2,000 of lost earnings is struck out because hiring a van at £80 a day for 10 days (£800) would have avoided it; the total recoverable is £3,800. Below: the mitigation rule, Darbishire v Warran (only market value recovered) and Geest v Lansiquot (burden on the defendant)." loading="lazy">
+  <figcaption>Failing to mitigate loses only the avoidable part, not the whole claim.</figcaption>
+</figure>
 
 ## Injunctions
 
@@ -91,6 +116,16 @@ Condensed notes for the section 3.3 row **Remedies**: "compensatory damages for 
 **Damages in lieu:** s50 Senior Courts Act 1981 (originally Lord Cairns' Act 1858).
 - *Shelfer* (1895) working rule: injury small; estimable in money; adequately compensated by small payment; injunction oppressive.
 - *Coventry v Lawrence* (2014): not to be applied mechanically; wide discretion; public benefit and planning permission may be considered.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--06-injunction-types.webp" width="900" height="539" alt="Injunctions sorted two ways. By what they order: prohibitory (stop, the usual form in nuisance) and mandatory (do something). By timing: quia timet before a threatened wrong occurs, interim before trial on the balance of convenience (American Cyanamid v Ethicon), and final after trial." loading="lazy">
+  <figcaption>Prohibitory or mandatory in content; quia timet, interim or final in timing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-remedies-tort--07-injunction-or-damages.webp" width="900" height="720" alt="The court may refuse an injunction where damages are adequate, the claimant delayed or acted unfairly, or it would be oppressive. Kennaway v Thompson limited powerboat racing; Miller v Jackson refused an injunction for cricket; Dennis v MoD gave damages for jet noise. Damages in lieu (s50 Senior Courts Act 1981) followed the four Shelfer conditions, but Coventry v Lawrence says they must not be applied mechanically." loading="lazy">
+  <figcaption>An injunction is discretionary: it can be limited, refused, or replaced by damages.</figcaption>
+</figure>
 
 ## Interaction with defences
 

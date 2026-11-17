@@ -54,12 +54,27 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 
 **Designs:** independent samples (different participants per condition; risk of participant variables), repeated measures (same participants; risk of order effects, controlled by counterbalancing), matched pairs (participants matched on key variables).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--07-res-experiments.webp" width="900" height="900" alt="Four rows: true laboratory experiment (random allocation, controlled setting), field (natural setting, less control), natural (IV changes naturally) and quasi (IV is an existing characteristic, no random allocation)." loading="lazy">
+  <figcaption>Four kinds of experiment differ in how the IV and allocation work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--08-res-designs.webp" width="900" height="1030" alt="Three designs drawn with conditions A and B: independent samples (different people), repeated measures (the same people) and matched pairs (pairs split across conditions), and a panel showing counterbalancing, half doing A then B and half B then A." loading="lazy">
+  <figcaption>Each design has a different trade-off; counterbalancing reduces order effects.</figcaption>
+</figure>
+
 ## Correlational studies and hypotheses
 
 - A **correlational study** measures two co-variables without manipulating either. A positive correlation means both rise together; a negative correlation means one falls as the other rises.
 - **Correlation is not causation:** a third variable may cause both, or the direction may be the reverse of what is assumed (bidirectional ambiguity).
 - An **alternative hypothesis** predicts a difference or relationship; the **null hypothesis** predicts none. Both must name operationalised variables, e.g. "hours of sleep" rather than "tiredness".
 - A **confounding variable** varies with the IV and offers another explanation of the result.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--09-res-correlation.webp" width="900" height="950" alt="Three scatter graphs show a positive correlation, a negative correlation and no relationship. Below, a third variable C causing both A and B, and the reversed direction where B causes A." loading="lazy">
+  <figcaption>Correlation does not show cause.</figcaption>
+</figure>
 
 ## Qualitative research quality
 
@@ -71,6 +86,11 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 | Triangulation | Using several methods, data sources, researchers or theories | Method, data, researcher and theory triangulation |
 | Transferability | How far findings apply to other settings | Rich, thick description of the context and sample |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--12-res-credibility.webp" width="900" height="960" alt="Validity maps to credibility and generalisation maps to transferability. Triangulation uses several methods, researchers or data sources to strengthen a finding. Reflexivity, rich description and checking findings with participants also help." loading="lazy">
+  <figcaption>Qualitative research has its own words for validity and generalisation.</figcaption>
+</figure>
+
 ## Sampling quick table
 
 | Method | How | Generalisation |
@@ -81,6 +101,11 @@ Related: [Approaches to researching behaviour study guide](/resources/ib-ib-dp-p
 | Self-selected | Volunteers respond to an advert | Volunteer bias |
 | Purposive | Chosen because they have a characteristic of interest | Qualitative; theoretical generalisation |
 | Snowball | Participants recruit others | Hard-to-reach populations; not representative |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide--10-res-sampling.webp" width="900" height="1220" alt="Six dot grids of 60 people with 12 chosen in each: random, stratified (6, 4 and 2 from three subgroups), opportunity (a nearby cluster), volunteer (people respond to an advert), purposive (all from one subgroup) and snowball (a chain of linked recruits)." loading="lazy">
+  <figcaption>How each sampling technique picks people from a population.</figcaption>
+</figure>
 
 ## Worked example: identifying a method
 

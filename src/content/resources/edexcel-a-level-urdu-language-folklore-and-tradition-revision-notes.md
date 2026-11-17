@@ -35,6 +35,16 @@ Revision notes for **sub-theme 2.1** of Theme 2 in Pearson Edexcel A Level Urdu 
 - **Performance traditions**: qawwali, folk music, storytelling and the mushaira (poetry gathering).
 - **Preservation and change**: how traditions are recorded, taught, adapted and sometimes lost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--01-theme-2-map.webp" width="900" height="550" alt="Theme 2, اردو بولنے والی دُنیا میں تمدن اور فنونِ لطیفہ (Art and culture in the Urdu-speaking world), has three sub-themes: folklore and tradition (لوک رسوم و روایت), popular culture (مقبول کلچر) and the media (میڈیا), the research subject." loading="lazy">
+  <figcaption>Three sub-themes; the media is the research subject.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--03-folklore-web.webp" width="900" height="666" alt="Heritage (وراثت) at the centre of four strands: oral tradition (زبانی روایت), folk tales and poetry such as Heer and Ranjha (لوک کہانی), festivals and customs such as melas (میلہ), and performance traditions including the mushaira (مشاعرہ), plus preservation and change." loading="lazy">
+  <figcaption>Oral tradition, tales, festivals and performance, and how they survive or change.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 **What counts as folklore.** **لوک** means 'folk' or 'of the people', so folklore covers the culture ordinary people create and pass on, often without a known author: tales, songs, proverbs (**کہاوتیں**), riddles (**پہیلیاں**), lullabies (**لوریاں**), games, crafts and customs. Its main channel has traditionally been **زبانی روایت**, from grandparents to children and from performers to audiences, which is why versions of the same story differ from place to place.

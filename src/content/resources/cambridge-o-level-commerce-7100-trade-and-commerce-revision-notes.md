@@ -32,6 +32,11 @@ Fast-recall notes for **sub-topic 1.1 Trade and commerce** in Cambridge O Level 
 3. **1.1.3 Types of commerce**: traditional, ecommerce, mcommerce, scommerce.
 4. **1.1.4 Interdependence**: how production, trade and commerce rely on one another.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--02-exports-imports.webp" width="900" height="585" alt="A textile firm in Pakistan sells towels to a buyer in Germany. Towels go one way and money comes back, so the sale is an export for Pakistan and an import for Germany. A foreign tourist paying for a hotel stay is buying an exported service." loading="lazy">
+  <figcaption>One transaction is an export for the seller’s country and an import for the buyer’s.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning to learn |
@@ -56,6 +61,11 @@ Fast-recall notes for **sub-topic 1.1 Trade and commerce** in Cambridge O Level 
 
 **Commerce = trade + aids to trade.** Every act of trade is commerce; a service such as insurance is commerce but is not trade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--01-commerce-tree.webp" width="900" height="665" alt="A tree. Commerce splits into trade and aids to trade. Trade divides into home trade (wholesale and retail) and international trade (exports and imports). The six aids to trade are communications, transport, warehousing, advertising, banking and insurance." loading="lazy">
+  <figcaption>Commerce is wider than trade: it adds the services that make trade possible.</figcaption>
+</figure>
+
 ## The six aids to trade and the problem each solves
 
 - **Communications**: buyer and seller can contact each other (orders, enquiries, complaints).
@@ -67,6 +77,11 @@ Fast-recall notes for **sub-topic 1.1 Trade and commerce** in Cambridge O Level 
 
 Memory hook: **C-T-W-A-B-I**, "Can Traders Win Any Big Investments?"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: no contact by communications, distance by transport, timing by warehousing, lack of awareness by advertising, payment and finance by banking, and fear of loss by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
 ## Logistics: three named elements
 
 | Element | What it contributes |
@@ -77,6 +92,11 @@ Memory hook: **C-T-W-A-B-I**, "Can Traders Win Any Big Investments?"
 
 Transport and warehousing appear twice in 1.1: as aids to trade and as elements of logistics. Freight forwarders appear only under logistics.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--04-logistics-elements.webp" width="900" height="645" alt="The three elements of logistics: transport, freight forwarders and warehousing. A freight forwarder books space with carriers, combines small loads, prepares shipping documents and arranges customs clearance, often using other firms’ vehicles." loading="lazy">
+  <figcaption>Logistics manages transport, freight forwarding and warehousing together.</figcaption>
+</figure>
+
 ## Choosing the right type of commerce
 
 - Evidence of a **shop, market, showroom or stall**: traditional commerce.
@@ -85,9 +105,19 @@ Transport and warehousing appear twice in 1.1: as aids to trade and as elements 
 - Evidence of a **social media page, post, live stream or message**: scommerce.
 - Mcommerce and scommerce are kinds of ecommerce; use the most specific term the evidence allows.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--05-types-of-commerce.webp" width="900" height="690" alt="Four checks on the evidence: a physical location means traditional commerce; buying through social media posts or messages means scommerce; using a mobile device such as the store’s own app means mcommerce; only “placed online” means ecommerce. Each has an example." loading="lazy">
+  <figcaption>Choose the most specific term that the evidence in the case supports.</figcaption>
+</figure>
+
 ## Interdependence chain
 
 Production creates goods → trade exchanges them → aids to trade make the exchange possible → sales revenue pays for further production. Remove any link and the others suffer: a port strike (transport) stops exports, and producers then cut output. Specialisation strengthens the chain, because specialists must trade for everything they do not make.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trade-and-commerce--06-mango-farm-interdependence.webp" width="900" height="600" alt="Four linked steps, one mark each: the farm produces mangoes; it needs trade to sell them through wholesalers and retailers; trade needs aids such as refrigerated transport and insurance; and traders depend on the farm, so a failed harvest hits trade and commercial services." loading="lazy">
+  <figcaption>Each sentence makes a separate link, applied to the mango farm.</figcaption>
+</figure>
 
 ## Exam traps
 

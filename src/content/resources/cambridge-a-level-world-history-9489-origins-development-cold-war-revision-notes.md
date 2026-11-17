@@ -73,6 +73,11 @@ featured: false
 | June 1948-May 1949 | Berlin Blockade and Airlift | Both sides' security; personalities |
 | April 1949 | NATO founded | Defensive alliance or bloc-building |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--01-context-1941-49.webp" width="900" height="1181" alt="A vertical timeline from 1943 to 1949 drawn to scale. Western actions on the right include Tehran, the second front (June 1944), Bretton Woods, Truman meeting Molotov (April 1945), the end of Lend-Lease, the Long Telegram, Fulton (March 1946) and the Marshall Plan (1947). Soviet actions on the left include Yalta, communist-led governments in Poland and Romania, the Novikov telegram, the Paris walk-out, Cominform, the Czech coup and the Berlin Blockade." loading="lazy">
+  <figcaption>Know the sequence: every interpretation argues about which action answered which.</figcaption>
+</figure>
+
 ## The schools in one table
 
 | School | Historians and works | Core argument | Approach and context |
@@ -84,12 +89,37 @@ featured: false
 | Archive-era | Zubok and Pleshakov, 1996; Mastny, 1996; Roberts, 2006 | Ideology plus security; Stalin's insecurity; or Stalin's wish for co-operation | Soviet and East European archives |
 | Post-post-revisionist | Gaddis, *We Now Know*, 1997; Westad, 2005 | Stalin and ideology central; global, multi-archival view | Post-1991 archives, international history |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--03-blame-spectrum.webp" width="900" height="547" alt="A spectrum from &quot;the USSR to blame&quot; to &quot;the USA to blame&quot;. From left to right: traditionalists (Feis, Schlesinger) with Gaddis's We Now Know (1997), post-revisionists (Gaddis 1972, Yergin, Leffler) in the middle, Roberts (2006), revisionists (Williams, Alperovitz, Kolko) and the Soviet official line." loading="lazy">
+  <figcaption>Place an extract on the line, then explain how its approach puts it there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--04-historiography-timeline.webp" width="900" height="714" alt="Five lanes on a time scale from 1945 to 2010. Traditionalism, written in the late 1940s and 1950s, with Schlesinger in 1967. Revisionism: Williams (1959), Alperovitz (1965), Kolko (1968). Post-revisionism: Gaddis (1972), Yergin (1977), Leffler (1992). After the 1991 opening of archives: Zubok and Pleshakov and Mastny (1996), Roberts (2006). The &quot;New&quot; Cold War history: Gaddis (1997), Westad (2005)." loading="lazy">
+  <figcaption>Each school reflects when it wrote and which archives it could read.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--05-yalta-riga-axioms.webp" width="900" height="445" alt="Two linked cards: the Yalta axioms, seeing the USSR as a traditional great power to deal with, and the Riga axioms, seeing it as an ideologically driven revolutionary state; Yergin argued Truman's administration moved from the first to the second. Below, Gaddis (1972) on domestic constraints and Leffler (1992) on a preponderance of power." loading="lazy">
+  <figcaption>Post-revisionists explain the Cold War through perception and constraint, not blame.</figcaption>
+</figure>
+
 ## How to identify an extract's position
 
 1. **Who acts, who reacts?** If the USSR acts and the West reacts, it leans traditionalist; the reverse leans revisionist.
 2. **Which cause dominates?** Ideology, security, economics or personality.
 3. **What evidence is cited?** Soviet archival material suggests post-1991 work.
 4. **What tone towards blame?** Moral language ("aggression") or structural language ("dilemma", "vacuum").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--02-three-questions.webp" width="900" height="710" alt="Two scales and a set of three cards. Inherent tensions: bound to resurface, or real wartime co-operation that broke down. Personalities: decisive or secondary. Factors: ideology, security (Soviet losses of about 27 million) or economics (Bretton Woods, the end of Lend-Lease, the Marshall Plan)." loading="lazy">
+  <figcaption>An extract's weighting of these three is often the quickest way to its school.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-origins-development-cold-war--06-extract-frame.webp" width="900" height="570" alt="Four numbered steps applied to an extract arguing Stalin never intended a breach: state the interpretation (Soviet policy was reactive); explain the approach (Soviet archives, contingency; closest to Roberts); test it (the Paris walk-out and Cominform followed the Marshall Plan, but communists dominated Poland and Romania in 1945-46); and conclude on interpretation and approach together." loading="lazy">
+  <figcaption>Interpretation, approach, test, conclude: never stop at the label.</figcaption>
+</figure>
 
 ## Exam traps
 

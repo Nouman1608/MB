@@ -40,6 +40,11 @@ on Paper 2P. Full explanations are in the
 
 **Direction reverses when:** the motion reverses; the magnet's pole is swapped.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--01-coil-and-meter-induction.webp" width="900" height="760" alt="A magnet and a coil joined to a centre-zero meter in five cases: pushing the N pole in deflects the needle one way, holding still gives zero, pulling out deflects it the other way, pushing the S pole in reverses it, and moving faster gives a larger deflection." loading="lazy">
+  <figcaption>A voltage is induced only while the field through the coil is changing.</figcaption>
+</figure>
+
 ## Generators
 
 | Type | What moves | Output |
@@ -50,6 +55,16 @@ on Paper 2P. Full explanations are in the
 - Voltage is maximum when the coil's sides cut across the field at right angles; zero at the instant they move along it.
 - Faster rotation → larger peak voltage **and** higher frequency.
 - Stronger field or more turns → larger peak voltage, same frequency.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--02-two-kinds-of-generator.webp" width="900" height="600" alt="Left: a bar magnet rotates inside a coil connected to a voltmeter. Right: a coil rotating between N and S poles, seen end-on; when the coil is horizontal its sides move at right angles to the field and the voltage is greatest, and when vertical they move along the field and the voltage is zero." loading="lazy">
+  <figcaption>Rotation keeps the field through the coil changing, so an alternating voltage is induced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--03-generator-output-and-factors.webp" width="900" height="745" alt="Voltage against time for a rotating coil: a wave that is greatest when the coil is horizontal, zero when it is vertical, and reverses every half turn. Small graphs: faster rotation gives a bigger peak and more cycles; a stronger field or more turns gives a bigger peak at the same frequency." loading="lazy">
+  <figcaption>Faster rotation raises both peak voltage and frequency; a stronger field or more turns raises only the peak.</figcaption>
+</figure>
 
 ## Transformers (P)
 
@@ -74,6 +89,11 @@ Vp × Ip = Vs × Is      (100% efficient)
 
 Voltage up by a factor → current down by the same factor.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--04-transformer-structure.webp" width="900" height="780" alt="A soft iron core with a primary coil on one side connected to an a.c. supply and a secondary coil with more turns on the other side connected to a load. Step-up transformers have more secondary turns; step-down have fewer." loading="lazy">
+  <figcaption>Alternating current in the primary makes a changing field that induces a voltage in the secondary.</figcaption>
+</figure>
+
 ## Transmission (P)
 
 - Step-up transformer at the power station → very high voltage in the cables.
@@ -81,12 +101,22 @@ Voltage up by a factor → current down by the same factor.
 - Lower current → **less heating** of the cables → less energy wasted.
 - Step-down transformers near users → safer voltage for homes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--06-transmission-step-up-step-down.webp" width="900" height="660" alt="A power station generates at tens of kilovolts; a step-up transformer raises this to hundreds of kilovolts for the lines; a step-down transformer lowers it for homes. Sending 100 MW at 25 kV needs 4000 A, but at 400 kV only 250 A." loading="lazy">
+  <figcaption>Same power at a higher voltage means a smaller current and less heating in the cables.</figcaption>
+</figure>
+
 ## Quick calculation pattern
 
 *Illustrative figures.* A transformer has 500 primary turns, 25 secondary turns and a 240 V primary.
 
 - Vs = 240 × 25 / 500 = **12 V** (step-down by a factor of 20).
 - If Is = 3.0 A and it is 100% efficient: Ip = (12 × 3.0) / 240 = **0.15 A**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetic-induction--05-transformer-worked-examples.webp" width="900" height="520" alt="Example 1: with 2000 primary turns, 230 V in and 11.5 V out, Ns = 2000 × 11.5 / 230 = 100 turns. Example 2: 12 V at 2.0 A is 24 W, so the primary current from 230 V is 24 / 230 = 0.10 A." loading="lazy">
+  <figcaption>Use the turns ratio for voltages and power in = power out for currents.</figcaption>
+</figure>
 
 ## Key terms
 

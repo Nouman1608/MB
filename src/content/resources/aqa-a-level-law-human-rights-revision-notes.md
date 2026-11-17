@@ -101,6 +101,11 @@ and practise with the [Human Rights practice questions](/resources/aqa-a-level-l
 - Scope: **absolute** (Article 3), **limited** (Articles 2 and 5, exceptions listed in the Article) and
   **qualified** (Articles 8, 10, 11, restricted under the second paragraph).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-human-rights--03-hohfeld.webp" width="900" height="655" alt="Hohfeld’s four positions and their correlatives: claim-right and duty (a right to be paid, a duty to pay); liberty and no-right (free to walk on public land, no right to stop it); power and liability (making a will); immunity and disability (the state lacks power to remove a protected status). A claim-right imposes a duty on another; a liberty does not." loading="lazy">
+  <figcaption>A right puts a duty on someone else; a liberty does not.</figcaption>
+</figure>
+
 ## How did international human rights law develop?
 
 | Date | Event |
@@ -110,6 +115,11 @@ and practise with the [Human Rights practice questions](/resources/aqa-a-level-l
 | 1949 | Council of Europe set up |
 | 1950-1953 | ECHR signed 1950, in force 1953; UK ratified in 1951 |
 | 1966 | UK accepts the right of individual petition to Strasbourg |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--08-hr-timeline.webp" width="900" height="1038" alt="A vertical timeline. 1215 Magna Carta and 1689 Bill of Rights are UK sources. 1765 Entick v Carrington held that the state needs legal authority to enter private property. 1948 Universal Declaration of Human Rights is not a binding treaty. 1950 European Convention agreed by the Council of Europe, in force 1953. 1966 two binding Covenants. October 2000 Human Rights Act 1998 came into force, bringing Convention rights into UK courts." loading="lazy">
+  <figcaption>A timeline of UK and international human rights milestones.</figcaption>
+</figure>
 
 ## How were rights protected before the HRA 1998?
 
@@ -121,6 +131,16 @@ and practise with the [Human Rights practice questions](/resources/aqa-a-level-l
 - Strasbourg decisions against the UK drove change: Malone v UK (1984) led to the Interception of
   Communications Act 1985; Sunday Times v UK (1979) led to the Contempt of Court Act 1981; Golder v UK
   (1975) on prisoners' access to a lawyer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--01-dualism.webp" width="900" height="644" alt="The government made the treaty under the royal prerogative, so it bound the UK in international law but created no rights in English courts unless Parliament incorporated it by statute; otherwise the executive could make law without Parliament. Consequences: no claim for breach of a Convention right, and a clearly conflicting statute had to be applied because of parliamentary sovereignty." loading="lazy">
+  <figcaption>Binding on the UK internationally, but not part of English law until 2000.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998--04-strasbourg-impact.webp" width="900" height="604" alt="Eight judgments against the UK and the responses: Golder (prison rules changed), Tyrer (birching ended), Sunday Times (Contempt of Court Act 1981), Dudgeon (Homosexual Offences (Northern Ireland) Order 1982), Campbell and Cosans (Education (No 2) Act 1986), Malone (Interception of Communications Act 1985), Brogan (derogation instead of change) and Halford (Regulation of Investigatory Powers Act 2000)." loading="lazy">
+  <figcaption>Most losses led to new law; after Brogan the UK derogated instead.</figcaption>
+</figure>
 
 ## How does the Human Rights Act 1998 work?
 
@@ -141,6 +161,11 @@ and practise with the [Human Rights practice questions](/resources/aqa-a-level-l
   deeply entrenched there.
 - **Criticisms**: judges reading words into statutes under s3; conflict over prisoner voting (Hirst v UK
   (No 2), 2005); deportation cases (Chahal v UK, 1996); limited protection of economic and social rights.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--09-hr-s3-s4-route.webp" width="900" height="906" alt="A flow chart. When legislation clashes with a Convention right, the court first reads it compatibly under section 3 so far as possible; in Ghaidan the word spouse was read to include a same-sex partner. If that is impossible, a higher court may make a declaration of incompatibility under section 4. The Act is not struck down and stays valid; Parliament decides, or a minister may amend it by remedial order under section 10." loading="lazy">
+  <figcaption>Section 3 reading and section 4 declaration of incompatibility.</figcaption>
+</figure>
 
 ## What do Articles 2, 5, 8, 10 and 11 protect?
 
@@ -167,6 +192,11 @@ after publication abroad breached Article 10.
 (1988): positive duty to take reasonable steps to protect lawful demonstrations. Association includes
 joining a trade union; ASLEF v UK (2007), a union may expel members of a political party.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--11-hr-rights-tiers.webp" width="900" height="972" alt="Three rows. Absolute rights, such as Article 3 on torture, cannot be limited. Limited rights, Article 2 right to life and Article 5 liberty and security, are subject to exceptions listed in the Article. Qualified rights, Article 8 private and family life, Article 10 freedom of expression and Article 11 assembly and association, can be restricted if the interference is lawful, has a legitimate aim and is necessary in a democratic society. Under Article 15 a state may derogate in war or public emergency, but not from Article 3." loading="lazy">
+  <figcaption>Three kinds of right and which Articles belong to each.</figcaption>
+</figure>
+
 ## When can a qualified right be restricted?
 
 1. **Prescribed by law / in accordance with law** - accessible and foreseeable (Sunday Times v UK, 1979;
@@ -176,6 +206,11 @@ joining a trade union; ASLEF v UK (2007), a union may expel members of a politic
 3. **Necessary in a democratic society** - a pressing social need and proportionality (Handyside; R (Daly) v
    SSHD, 2001; Bank Mellat v HM Treasury (No 2), 2013).
 4. **Margin of appreciation** for national authorities, wider on moral issues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-restrictions--01-three-requirements.webp" width="900" height="703" alt="A flow chart. An interference with a right under Article 8.1, 10.1 or 11.1 must pass three requirements in turn: in accordance with or prescribed by law, a legitimate aim from the listed aims, and necessary in a democratic society. Failing any one means the right is breached; passing all three means the interference is justified." loading="lazy">
+  <figcaption>All three requirements must be met, and the burden of showing them is on the state.</figcaption>
+</figure>
 
 ## How are rights enforced?
 
@@ -187,6 +222,11 @@ joining a trade union; ASLEF v UK (2007), a union may expel members of a politic
   (Council of Civil Service Unions v Minister for the Civil Service, 1985), plus proportionality where
   Convention rights are engaged; remedies are quashing, prohibiting and mandatory orders, declarations and
   injunctions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-human-rights-study-guide--10-hr-enforcement-route.webp" width="900" height="997" alt="Five steps. A public authority such as the police acts incompatibly with a Convention right under section 6. The victim claims in the domestic courts under section 7, normally within one year. The court may give a just and appropriate remedy including damages under section 8. If domestic remedies are exhausted, the victim may apply to the European Court of Human Rights within four months. If a violation is found the Court may award just satisfaction and the Committee of Ministers supervises execution." loading="lazy">
+  <figcaption>Five steps of enforcement with the one-year and four-month limits.</figcaption>
+</figure>
 
 ## How does English law protect or restrict each right?
 
@@ -204,6 +244,11 @@ joining a trade union; ASLEF v UK (2007), a union may expel members of a politic
 - The Bill of Rights Bill was introduced in 2022 and withdrawn in 2023.
 - Arguments: more parliamentary control and less Strasbourg influence versus weaker protection and
   devolution complications. Some argue for adding economic and social rights.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-reform--03-proposals-timeline.webp" width="900" height="748" alt="A timeline: the Commission on a Bill of Rights (2011 to 2012) found majority support in principle but no agreed content; the 2015 manifesto pledged to scrap the HRA; the Independent Human Rights Act Review (2020 to 2021) found it working broadly well; the Bill of Rights Bill was introduced in June 2022 and dropped in June 2023; the Safety of Rwanda Act 2024 disapplied parts of the HRA before the policy was abandoned." loading="lazy">
+  <figcaption>Repeal has been proposed repeatedly, but the HRA remains in force.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

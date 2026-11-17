@@ -43,6 +43,11 @@ Condensed recall for sub-topic 5.2 of Cambridge IGCSE Environmental Management (
 
 Exam point: one cause often triggers another. Mine → road → settlers → farms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--01-causes-map.webp" width="900" height="754" alt="Schematic map of a forest. A road brings a settlement and a fishbone of farm clearings; a logging track, a commercial plantation, a small subsistence plot, a mine with waste tips and a reservoir behind an HEP dam each remove forest. A note adds climate change through drought and wildfire." loading="lazy">
+  <figcaption>Causes link up: a road opens the forest to logging, farming and settlement.</figcaption>
+</figure>
+
 ## 5.2.2 Impacts of deforestation: seven
 
 - **Habitat loss**: food, shelter and breeding sites gone; remaining forest fragmented into patches.
@@ -53,11 +58,21 @@ Exam point: one cause often triggers another. Mine → road → settlers → far
 - **Changes to rainfall patterns**: less transpiration, so less water vapour for clouds; rainfall falls inland, dry seasons lengthen.
 - **Genetic depletion**: genetic variety lost as populations and species disappear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--02-impact-chains.webp" width="900" height="630" alt="Four chains from deforestation. Habitat loss leads to loss of biodiversity and genetic depletion. Less interception and bare soil lead to soil erosion and desertification, then silting and flooding. Less transpiration means less water vapour recycled and changes to rainfall. Burning or rotting trees release carbon dioxide, causing global warming." loading="lazy">
+  <figcaption>Explain each impact as a chain, not as a single word.</figcaption>
+</figure>
+
 ## 5.2.3 The definition (learn exactly)
 
 Sustainable management of forests = **balancing the needs of the environment, wildlife and humans while conserving forests for future generations.**
 
 Check your definition contains four parts: environment, wildlife, humans, future generations.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--03-sustainable-management.webp" width="900" height="670" alt="Three circles, environment, wildlife and humans, joined in a triangle labelled balance, with an arrow towards future generations. Below is the syllabus definition of sustainable management of forests." loading="lazy">
+  <figcaption>All three groups, plus future generations: leave one out and the definition fails.</figcaption>
+</figure>
 
 ## 5.2.4 Why forests need sustainable management: seven
 
@@ -68,6 +83,11 @@ Check your definition contains four parts: environment, wildlife, humans, future
 5. **Genetic resource**: genes for crop breeding and new medicines.
 6. **Food, medicine and raw materials**: fruit, nuts, medicinal plants, timber, rubber, fibre.
 7. **Recreation, ecotourism and education**: visitor income, local jobs, ecological study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-forest-ecosystems--04-forest-water-cycle.webp" width="900" height="706" alt="Two slopes side by side. In the forest, leaves intercept rain, roots take up water, trees transpire and water soaks into the soil, so there is little run-off. On cleared land with only stumps, rain hits bare soil and much more runs off quickly to rivers, washing topsoil away." loading="lazy">
+  <figcaption>Interception, uptake, transpiration and less run-off: the forest services that clearance removes.</figcaption>
+</figure>
 
 ## Key terms
 

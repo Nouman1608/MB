@@ -80,6 +80,11 @@ CASE OF Grade
 ENDCASE
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--02-prog-while-repeat.webp" width="900" height="810" alt="Two flowcharts. In a WHILE loop the condition is tested before the statements, so the statements may run zero times. In a REPEAT...UNTIL loop the statements run first and the condition is tested after, so they run at least once. If the stopping condition is already met at the start, WHILE runs 0 times and REPEAT runs 1 time." loading="lazy">
+  <figcaption>A WHILE loop tests before each pass and may never run; a REPEAT...UNTIL loop tests after each pass and always runs at least once.</figcaption>
+</figure>
+
 ## Operators
 
 | Type | Operators |
@@ -87,6 +92,16 @@ ENDCASE
 | Arithmetic | `+  -  /  *  ^` (power), `MOD`, `DIV` |
 | Relational | `=  <  <=  >  >=  <>` (not equal) |
 | Logical | `AND  OR  NOT` |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--01-prog-div-mod.webp" width="900" height="660" alt="Seventeen dots are shared into groups of five. There are three full groups of five dots and two dots left over. So 17 DIV 5 is 3 and 17 MOD 5 is 2, while 17 / 5 gives 3.4." loading="lazy">
+  <figcaption>DIV counts the full groups and MOD is what is left over: 17 DIV 5 = 3 and 17 MOD 5 = 2, whereas 17 / 5 = 3.4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--06-prog-range-check.webp" width="900" height="900" alt="Two number lines with the values 14, 0 and 7 marked. With UNTIL Value &gt;= 1 AND Value &lt;= 10 only the part from 1 to 10 is accepted, so 14 and 0 are rejected and 7 is accepted. With OR the whole number line is accepted, so 14, 0 and 7 are all accepted and nothing is validated." loading="lazy">
+  <figcaption>AND accepts only 1 to 10, so 14 and 0 are rejected and 7 gets through. OR accepts every number, so the validation never rejects anything.</figcaption>
+</figure>
 
 ## String handling
 
@@ -98,6 +113,11 @@ ENDCASE
 | `LCASE(S)` | Lower case | `LCASE('W')` → 'w' |
 
 The syllabus allows the first character to be position 0 or 1; in Cambridge pseudocode it is generally 1. State which you are using if it matters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--03-prog-string-positions.webp" width="900" height="800" alt="The word Cambridge is shown as nine boxes, one per letter. Cambridge pseudocode numbers them 1 to 9; Python numbers them 0 to 8. LENGTH of the word is 9. SUBSTRING(Word, 1, 4) takes four characters starting at position 1 and returns Camb." loading="lazy">
+  <figcaption>Cambridge pseudocode counts string positions from 1 (Python counts from 0); SUBSTRING(&quot;Cambridge&quot;, 1, 4) returns &quot;Camb&quot;.</figcaption>
+</figure>
 
 ## Library routines
 
@@ -132,6 +152,11 @@ CALL Stars(5)
 Floor ← Area(4.5, 3.0)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--05-prog-subroutines-scope.webp" width="900" height="1000" alt="Left: the function AreaOfRectangle takes Width and Length and returns Width * Length; with 4 and 3 (example values) it returns 12 to the calling code. Right: the procedure ShowGreeting takes Name and displays Welcome, Name but returns nothing. Bottom: a global variable can be used anywhere in the program, while a local variable exists only inside its own procedure or function." loading="lazy">
+  <figcaption>A function returns a value; a procedure does not. A local variable exists only inside its subroutine, a global variable anywhere.</figcaption>
+</figure>
+
 ## Maintainable programs
 
 Use meaningful identifiers (for variables, constants, arrays, procedures and functions), comments (`//` in pseudocode) that explain what sections do, and procedures and functions so code is reused rather than repeated.
@@ -152,6 +177,11 @@ FOR Row ← 1 TO 10
     NEXT Col
 NEXT Row
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-programming-study-guide--04-prog-arrays.webp" width="900" height="900" alt="Top: a one-dimensional array Marks with five cells numbered 1 to 5 holding 62, 48, 75, 50 and 39; Marks[3] is the third cell, 75. Bottom: a two-dimensional array Grid with 3 rows and 4 columns, 12 cells; Grid[2, 4] is row 2, column 4." loading="lazy">
+  <figcaption>An array stores same-type items under one name. Marks[3] picks one cell; Grid[2, 4] picks row 2, column 4 of a table.</figcaption>
+</figure>
 
 ## 8.3 File handling
 

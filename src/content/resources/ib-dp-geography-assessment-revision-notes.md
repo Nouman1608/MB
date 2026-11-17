@@ -64,6 +64,11 @@ as much as the more variable Paper 1.
   technique in data collection, accurate analysis of that data, and a conclusion that is genuinely
   supported by the evidence gathered — not a conclusion the student decided on beforehand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-fieldwork-study-guide--15-fw-report-order.webp" width="900" height="1028" alt="Nine numbered sections coloured as plan, data and judge stages. The common order of a fieldwork report from title and question to references and appendix." loading="lazy">
+  <figcaption>The common order of a fieldwork report from title and question to references and appendix.</figcaption>
+</figure>
+
 ## Why Paper 1's structure differs by level
 
 Paper 1 keeps the **same 35% weighting** at both SL and HL, but HL students study one extra

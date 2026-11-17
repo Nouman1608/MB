@@ -72,6 +72,11 @@ statement you are given, and allow for a second reading before settling on your 
 | Paper 2, Question 1 | 4 | Identify true statements about one source |
 | Paper 2, Question 2 | 8 | Infer from both sources to summarise (AO1) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--01-where-tested.webp" width="900" height="769" alt="A table of the four questions that test critical reading: Paper 1 Question 1 (4 marks), Paper 1 Question 4 (20 marks), Paper 2 Question 1 (4 marks) and Paper 2 Question 2 (8 marks). A bar shows that Paper 1 Question 4 equals the other three Paper 1 reading questions together. AO1 and AO4 carry most of the skill." loading="lazy">
+  <figcaption>Paper 1 Question 4 is the heaviest single test of critical reading.</figcaption>
+</figure>
+
 ## The inference chain
 
 ```
@@ -82,6 +87,11 @@ quotation (2-6 words) -> "this suggests..." -> link to the question's focus
 - Tentative verbs for inferences: *suggests*, *implies*, *perhaps*, *could indicate*.
 - Two inferences from one detail show interpretation, not just comprehension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--02-inference-chain.webp" width="900" height="769" alt="Explicit information is stated, as in “The kitchen was empty.” Implicit information is suggested: a kettle “still ticking as it cooled” implies someone left in a hurry. An inference chain runs from a detail, to what it suggests, to why it matters to the question. Tentative verbs such as suggests and implies suit weaker evidence; shows and proves are for what is stated." loading="lazy">
+  <figcaption>Detail, then what it suggests, then why it matters, with verbs matched to the evidence.</figcaption>
+</figure>
+
 ## Three kinds of reading
 
 | Kind | When | What you do |
@@ -90,6 +100,11 @@ quotation (2-6 words) -> "this suggests..." -> link to the question's focus
 | Scan | Short, line-limited questions | Find exactly the information asked for, inside the lines given |
 | Close read | Evaluation | Weigh individual choices against the statement's focus |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--03-three-ways-of-reading.webp" width="900" height="597" alt="Three panels. Scanning stays inside the named lines to pick out exactly what is asked. Skimming gives the overall shape of the text on a first read. Close reading gives slow, line-by-line attention to one section for evaluation." loading="lazy">
+  <figcaption>Scan for short questions, skim for shape, read closely to evaluate.</figcaption>
+</figure>
+
 ## Evaluating a statement: five moves
 
 1. **Judge first:** say how far you agree in your opening sentence.
@@ -97,6 +112,11 @@ quotation (2-6 words) -> "this suggests..." -> link to the question's focus
 3. **Evidence each point** with short, embedded quotations.
 4. **Evaluate the method:** how successfully does a choice create the effect named?
 5. **Close with an earned judgement** that may be qualified ("largely", "only at first").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--04-split-the-statement.webp" width="900" height="667" alt="Analysis asks how a method creates an effect; evaluation asks how well the writer achieves what a statement claims. The statement “lonely and frightened” is split into two claims: strong evidence for loneliness, weaker evidence for fear, and a hint of defiance, giving the judgement “mostly agree, with a qualification”." loading="lazy">
+  <figcaption>Split the statement into its claims and weigh the evidence for each.</figcaption>
+</figure>
 
 ## Spotting misuse of evidence
 
@@ -110,6 +130,16 @@ quotation (2-6 words) -> "this suggests..." -> link to the question's focus
 
 A **supported** statement names a source, gives a checkable fact or offers a reason. An **unsupported** statement asks
 the reader simply to trust the writer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--05-unsupported-claims.webp" width="900" height="612" alt="Five warning signs: generalisation from one example, such as “every teenager I meet is glued to a screen”; anecdote presented as proof; loaded language such as “so-called experts”; selective evidence; and opinion stated as fact with no source or reason." loading="lazy">
+  <figcaption>Ask of every claim what supports it, then explain why it is slanted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-critical-reading-and-comprehension--07-supported-or-unsupported.webp" width="900" height="479" alt="Four claims from the town-centre extract are sorted. The closed shops and the council survey are supported, by checkable fact and a named source. “Nobody under thirty shops locally any more” is an unsupported generalisation, and “Our town centre is dying” is a metaphor that sounds more certain than the evidence allows." loading="lazy">
+  <figcaption>Facts and named sources support a claim; generalisations and metaphors may not.</figcaption>
+</figure>
 
 ## Using context well
 

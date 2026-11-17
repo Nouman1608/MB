@@ -66,6 +66,11 @@ should plan for this.
 **blue infrastructure** is the water network (rivers, canals, ponds, wetlands) managed for flood
 control and amenity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--07-sustainable-city.webp" width="900" height="1190" alt="Venn diagram of economic, social and environmental goals with Balance in the centre, eight features of a sustainable city, and a trade-off note about dense development." loading="lazy">
+  <figcaption>A sustainable city balances economic, social and environmental goals.</figcaption>
+</figure>
+
 ## Ideas to compare
 
 | Idea | Core point |

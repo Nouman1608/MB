@@ -64,6 +64,11 @@ Fuller explanation is in the
 | **Longitudinal study** | Research on the same group at intervals over time |
 | **Generalisability** | How far findings apply to the wider population |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--03-correlation-can-mislead.webp" width="900" height="616" alt="Three panels. A third factor: parental income or education may cause both owning more books and higher grades. Reverse direction: unemployment and poor mental health are linked, but poor health might cause job loss. Chance or a small sample: a pattern found in one school may disappear in a larger study." loading="lazy">
+  <figcaption>Two things moving together does not prove that one causes the other.</figcaption>
+</figure>
+
 ## Positivism versus interpretivism at a glance
 
 | Feature | Positivism | Interpretivism |
@@ -76,6 +81,16 @@ Fuller explanation is in the
 | Classic example | Durkheim's *Suicide* (1897) | Interviews exploring why people feel as they do |
 | Main criticism | Ignores meaning; researcher imposes categories | Subjective, small samples, hard to repeat |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--01-two-approaches.webp" width="900" height="680" alt="Positivism and interpretivism compared. Positivism, linked to Comte and Durkheim, takes a macro view, uses the scientific method and quantitative data, and tends to be reliable but may lack validity. Interpretivism, linked to Weber, takes a micro view, seeks verstehen through qualitative data, and tends to be valid but may lack reliability." loading="lazy">
+  <figcaption>Each approach starts from a different view of people, which leads to a different idea of good evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--02-reliability-validity-tradeoff.webp" width="900" height="710" alt="The topic of early school leaving seen through two lenses. The positivist lens finds patterns, trends and correlations objectively and tends to be reliable but may lack validity. The interpretivist lens explores meanings with some subjectivity and tends to be valid but may lack reliability." loading="lazy">
+  <figcaption>Positivist research tends to be reliable; interpretivist research tends to be valid.</figcaption>
+</figure>
+
 ## Combining approaches
 
 - **Triangulation:** for example, a questionnaire to find how many students feel stressed, followed
@@ -84,6 +99,11 @@ Fuller explanation is in the
 - **Longitudinal studies:** for example, birth cohort studies following people from birth into
   adulthood. Strength: show change and cause over time. Limitations: cost, attrition (people
   dropping out), and findings can date.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-research-approaches-data-and-investigation--03-triangulation-longitudinal.webp" width="900" height="500" alt="Left: triangulation, a questionnaire followed by interviews with some respondents to cross-check findings. Right: a longitudinal study following the same group over time, as in the British birth cohort studies; it shows change but is expensive and people drop out (attrition)." loading="lazy">
+  <figcaption>Triangulation cross-checks findings; longitudinal studies follow the same people over time.</figcaption>
+</figure>
 
 ## Evaluating research choices
 
@@ -96,6 +116,11 @@ Fuller explanation is in the
 | Low reliability | Results differ if repeated | Standardised questions and procedures |
 | Unrepresentative sample | Some groups missing | Stratified or random sampling |
 | Low generalisability | Findings only fit the group studied | Larger, representative samples |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-1-1--06-evaluation-toolkit.webp" width="900" height="757" alt="Seven evaluation concepts with a meaning and an example of a cause in the design: bias, interviewer effect, Hawthorne or observer effect, validity and reliability, plus representativeness, which is needed for generalisability." loading="lazy">
+  <figcaption>Name the concept, then link it to a cause in the design.</figcaption>
+</figure>
 
 ## Worked example: a 6-mark "explain" answer
 

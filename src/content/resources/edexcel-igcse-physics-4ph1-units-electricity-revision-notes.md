@@ -45,12 +45,27 @@ volt (V), watt (W).
 | volt, V | voltage (V) | E = Q × V | J/C |
 | watt, W | power (P) | P = I × V | J/s, or A × V |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--01-seven-units.webp" width="900" height="770" alt="A table of the seven units: ampere (A) for current, Q = I × t; coulomb (C) for charge; joule (J) for energy, E = I × V × t and E = Q × V; ohm (Ω) for resistance, V = I × R; second (s) for time; volt (V) for voltage; watt (W) for power, P = I × V. V is both the quantity and the unit." loading="lazy">
+  <figcaption>Seven units, each tied to a quantity and an equation.</figcaption>
+</figure>
+
 ## Must-know statements
 
 - Current is the rate of flow of charge: 1 A = 1 C/s.
 - The volt is a joule per coulomb: 1 V = 1 J/C (statement 2.20).
 - 1 W = 1 J/s, and 1 W = 1 A × 1 V.
 - 1 Ω = 1 V/A: a 1 Ω resistor needs 1 V to drive 1 A through it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--02-unit-definitions.webp" width="900" height="770" alt="Five definitions: 1 A = 1 C/s; 1 V = 1 J/C; 1 Ω = 1 V/A; 1 W = 1 J/s; 1 J = 1 A × 1 V × 1 s. A watt is an ampere times a volt because (1 C/s) × (1 J/C) = 1 J/s, with the coulombs cancelling." loading="lazy">
+  <figcaption>Ampere, volt, ohm and watt are each a ratio of other units.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--03-volt-meaning.webp" width="900" height="720" alt="A 9 V battery gives 9 J to every coulomb of charge that passes through it, and a 1.5 V cell gives 1.5 J to each coulomb. One volt means one joule transferred per coulomb." loading="lazy">
+  <figcaption>Voltage is energy per coulomb: a 9 V battery gives each coulomb 9 J.</figcaption>
+</figure>
 
 ## Prefixes and conversions
 
@@ -66,6 +81,16 @@ volt (V), watt (W).
 | minutes | × 60 to s | 4 min = 240 s |
 | hours | × 3600 to s | 3 h = 10 800 s |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--04-prefixes.webp" width="900" height="760" alt="A ladder of prefixes: mega (M, × 10⁶), as in 1.5 MJ = 1 500 000 J; kilo (k, × 10³), as in 2.2 kΩ = 2200 Ω and 3.0 kW = 3000 W; the base unit; milli (m, × 10⁻³), as in 250 mA = 0.250 A; micro (μ, × 10⁻⁶), as in 40 μA = 4.0 × 10⁻⁵ A. Times convert to seconds: 5 minutes = 300 s, 2 hours = 7200 s." loading="lazy">
+  <figcaption>Big prefixes multiply up, small ones divide down; case matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--06-sensor-example.webp" width="900" height="690" alt="A sensor draws 20 mA from a 5.0 V supply. Converting, I = 0.020 A and 1 hour = 3600 s. R = 5.0 / 0.020 = 250 Ω and Q = 0.020 × 3600 = 72 C. Using 20 instead of 0.020 gives 0.25 Ω, a thousand times too small." loading="lazy">
+  <figcaption>Convert mA to A before dividing, or the answer is a thousand times out.</figcaption>
+</figure>
+
 ## Unit checks
 
 ```
@@ -77,6 +102,11 @@ R = V / I        V / A             = Ω
 
 If an answer's unit does not match the quantity, the rearrangement is
 wrong.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--07-unit-checks.webp" width="900" height="660" alt="Unit checks: E = Q × V gives C × J/C = J; E = I × V × t gives (C/s) × (J/C) × s = J; P = I × V gives (C/s) × (J/C) = J/s = W. A &quot;resistance&quot; calculated as V × I has the unit W, not Ω, so it was rearranged wrongly." loading="lazy">
+  <figcaption>Work the units through the equation: they must give the unit of the answer.</figcaption>
+</figure>
 
 ## One circuit, every unit
 
@@ -92,6 +122,11 @@ check       E = P × t = 0.45 × 240   = 108 J
 
 Each line gives a different unit from the same three data values. The
 final check uses 1 W = 1 J/s.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-electricity--05-kettle-example.webp" width="900" height="710" alt="A kettle heater on 230 V mains with an ammeter reading 9.0 A and a voltmeter across the heater, switched on for 2.5 minutes. Power P = 9.0 × 230 = 2070 W ≈ 2.1 kW. With t = 150 s, energy E = 9.0 × 230 × 150 = 310 500 J ≈ 310 kJ." loading="lazy">
+  <figcaption>Convert minutes to seconds first, and W to kW and J to kJ at the end.</figcaption>
+</figure>
 
 ## Symbols that double up
 

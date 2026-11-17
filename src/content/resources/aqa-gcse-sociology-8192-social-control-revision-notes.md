@@ -44,6 +44,11 @@ For full explanations, read the [social control study guide](/resources/aqa-gcse
 | Patriarchy | A society dominated by men |
 | Separate spheres | The idea that women belong in the home and men in public life |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--02-why-people-conform.webp" width="900" height="564" alt="Three narrowing layers: socialisation, through which norms are internalised; informal control by family, peers, colleagues, religion and media, which keeps most people in line; and formal control, needed only when informal control fails." loading="lazy">
+  <figcaption>Formal control is the back-up: most conformity comes from socialisation and informal control.</figcaption>
+</figure>
+
 ## Formal versus informal
 
 | | Formal | Informal |
@@ -51,6 +56,11 @@ For full explanations, read the [social control study guide](/resources/aqa-gcse
 | Rules | Written: laws, school rules, contracts | Unwritten: norms and expectations |
 | Agents | Police, courts, prisons, probation, government, schools and employers through official procedures | Family, peers, colleagues, religion, media |
 | Typical sanctions | Arrest, fine, prison, caution, exclusion | Praise, disapproval, gossip, ridicule, being ignored |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--01-formal-informal.webp" width="900" height="623" alt="A comparison. Formal social control rests on written rules such as laws and school rules, enforced by police, courts, prisons, government, schools and employers. Informal control rests on unwritten norms, enforced by family, peers, colleagues, religion and the media through grounding, teasing or exclusion." loading="lazy">
+  <figcaption>Formal control is written and officially enforced; informal control works through everyday relationships.</figcaption>
+</figure>
 
 ## The sanctions grid
 
@@ -61,12 +71,22 @@ For full explanations, read the [social control study guide](/resources/aqa-gcse
 
 **Remember:** sanctions work by **anticipation** as well as after the event; most conformity comes from **internalised** norms and informal control.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--03-sanctions.webp" width="900" height="735" alt="A two-by-two grid. Formal positive sanctions: medals, awards, promotions, certificates. Formal negative: fines, prison, exclusion, police cautions. Informal positive: praise, a smile, being included. Informal negative: a frown, gossip, ridicule, being ignored. Below, sanctions work through anticipation, and one agent can use both kinds." loading="lazy">
+  <figcaption>Sanctions are rewards as well as punishments, formal or informal.</figcaption>
+</figure>
+
 ## Perspectives in one line each
 
 - **Functionalist:** control maintains value consensus and social order for the benefit of all.
 - **Marxist:** formal control protects ruling-class property; informal control through media and education encourages acceptance of inequality.
 - **Feminist:** patriarchal societies control women more than men (Heidensohn).
 - **Interactionist:** agents of control use discretion and label some groups more than others, which can create further deviance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--04-perspectives.webp" width="900" height="432" alt="Four cards. Functionalists say control serves society by maintaining consensus and order. Marxists say it serves the ruling class by protecting property. Feminists say it serves men through heavier control of women. Interactionists look at face-to-face decisions by agents who label some groups, which can create more deviance." loading="lazy">
+  <figcaption>Structural views ask whom control serves; interactionists ask how it is applied face to face.</figcaption>
+</figure>
 
 ## Heidensohn (*Women and Crime*, 1985)
 
@@ -81,6 +101,11 @@ Feminist; uses **control theory** to explain why women commit fewer crimes than 
 **Evaluation:** generalises to all women; claims not always backed by strong research evidence; gender roles have changed since the 1980s, though harassment and domestic violence persist.
 
 **Contrast with Carlen (3.5.3):** both use control theory; Heidensohn explains women's **conformity**, Carlen explains why control **breaks down** for some working-class women.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-control--05-heidensohn.webp" width="900" height="685" alt="Heidensohn argues patriarchal societies control women more effectively than men. At home through housework, the threat of violence, breadwinners’ financial power and closer control of daughters; in public through fear of sexual violence, reputation and separate spheres; at work through male hierarchies and harassment. Below, criticisms." loading="lazy">
+  <figcaption>Heidensohn explains women’s lower offending by control, not by nature.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

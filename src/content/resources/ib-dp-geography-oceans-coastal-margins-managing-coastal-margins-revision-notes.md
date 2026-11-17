@@ -51,6 +51,11 @@ Condensed recall for **2.3 Managing coastal margins** (IB DP Geography, Option B
 
 Wide, healthy beaches and dunes are themselves the most effective natural defence, which is why many strategies aim to keep sediment in the system.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--11-longshore-drift.webp" width="900" height="790" alt="A plan view of a coast with the sea above and land below. Waves arrive at an angle. Each swash carries sediment up the beach at an angle, and each backwash returns it straight down, so sediment zigzags along the coast in the direction the waves approach, left to right. A groyne built across the beach traps sediment on the updrift side, where the beach builds up, and the beach on the downdrift side is starved. Schematic, not to scale." loading="lazy">
+  <figcaption>Longshore drift moves sediment along the coast; a groyne builds the beach updrift and starves it downdrift.</figcaption>
+</figure>
+
 ## Shoreline management policy options
 
 - Hold the line
@@ -64,6 +69,11 @@ In England and Wales, **shoreline management plans** are drawn up for each sedim
 
 ICZM principles include a long-term view, managing the whole system across the land-sea boundary, involving all stakeholders, working with natural processes and adapting as conditions change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--12-smp-options.webp" width="900" height="900" alt="Four plan-view panels with the sea on the left, land on the right and homes inland. Hold the line keeps a defence wall at the coast as it is today. Advance the line builds the defence further out to sea. Managed realignment breaches the old defence so the sea floods the land behind it, forming a natural buffer in front of a new line further inland. No active intervention leaves the coast without defences so it moves inland naturally. Schematic." loading="lazy">
+  <figcaption>The four shoreline management plan policy options drawn against the coast today.</figcaption>
+</figure>
+
 ## Stakeholders and conflict
 
 Residents, local councils, national agencies, developers, businesses, conservation groups, insurers. Interests clash: a homeowner may want a wall while a conservation group favours a restored marsh.
@@ -73,6 +83,11 @@ Residents, local councils, national agencies, developers, businesses, conservati
 Compares the value of assets protected with the cost of defence. Worked check: benefits 9.0 million against cost 2.4 million gives a ratio of 9.0 / 2.4 = 3.75; above 1 suggests benefits exceed costs.
 
 **Limits:** it struggles to value habitats, heritage and community ties, and can omit effects on neighbouring coast. State this in evaluative answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-oceans-coastal-margins-study-guide--14-benefit-cost.webp" width="900" height="830" alt="Two horizontal bars. A sea wall costing 2.4 million fits into the 9.0 million of homes and businesses protected 3.75 times, so the benefit-cost ratio is 9.0 divided by 2.4, which is 3.75. A ratio above 1 suggests benefits exceed costs. The figure leaves out ecosystems, visual impact and the effect on the neighbouring coast. A fictional town, illustrative numbers." loading="lazy">
+  <figcaption>Worked example: benefit-cost ratio 9.0 ÷ 2.4 = 3.75, and what the sum leaves out.</figcaption>
+</figure>
 
 ## Case studies
 

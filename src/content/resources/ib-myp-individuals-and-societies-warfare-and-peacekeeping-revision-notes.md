@@ -48,6 +48,11 @@ For full explanations and worked examples, read the [warfare and peacekeeping st
 | DDR | Disarmament, demobilisation and reintegration of former fighters |
 | Negative / positive peace | Absence of fighting / causes of conflict also addressed (Johan Galtung) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--02-security-dilemma.webp" width="900" height="570" alt="A loop: state A arms to feel safe, so state B feels less safe and arms too, so state A feels less safe and arms again. Both end up less secure." loading="lazy">
+  <figcaption>Arming for safety can make everyone less safe.</figcaption>
+</figure>
+
 ## Types of war: one example each
 
 | Type | Example to quote |
@@ -91,6 +96,11 @@ One conflict can carry several labels. Name the feature that fits each label you
 | July 1995 | Srebrenica: more than 8,000 Bosniak men and boys killed in a UN "safe area" |
 | 2005 | UN Peacebuilding Commission set up |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--03-versailles-chain.webp" width="900" height="625" alt="A chain: the First World War ends; the Treaty of Versailles of 28 June 1919 limits the German army to 100,000 men and blames Germany in Article 231; resentment helps the Nazis win support; Germany invades Poland on 1 September 1939 and the Second World War in Europe begins." loading="lazy">
+  <figcaption>Versailles was a consequence of one war and a cause of the next.</figcaption>
+</figure>
+
 ## UN Charter and Security Council facts
 
 | Item | What it says or does |
@@ -101,6 +111,16 @@ One conflict can carry several labels. Name the feature that fits each label you
 | Chapter VII | Action against threats to peace: sanctions (Art. 41), force (Art. 42) |
 | Security Council | 15 members: 5 permanent with veto (China, France, Russia, UK, USA) + 10 elected for two years |
 | Peacekeeping principles | Consent of the parties; impartiality; non-use of force except self-defence and defence of the mandate |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--05-un-charter-chapters.webp" width="900" height="630" alt="The Security Council, with five veto-holding permanent members and ten elected members, can act under Chapter VI, peaceful settlement, or Chapter VII, sanctions and military force. Peacekeeping sits between them and needs consent. Korea in 1950 and Kuwait in 1990 were peace enforcement under Chapter VII." loading="lazy">
+  <figcaption>From persuasion to enforcement: peacekeeping sits in between, and the veto can block it all.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--06-peacekeeping-principles.webp" width="900" height="733" alt="Three principles: consent of the main parties, impartiality, and no use of force except in self-defence and defence of the mandate. Rwanda in 1994 and Srebrenica in 1995 show their limits when one side targets civilians." loading="lazy">
+  <figcaption>Consent, impartiality and minimal force keep a ceasefire, but cannot stop a side bent on killing.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -125,6 +145,11 @@ One conflict can carry several labels. Name the feature that fits each label you
 3. Value: what can it reliably show for this research question?
 4. Limitation: what can it not show, and why (use the same origin or purpose fact)?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--01-wwi-causes-timescale.webp" width="900" height="600" alt="Causes of the First World War in three columns. Long-term: the two alliance blocs, colonial rivalry, arms build-up and Balkan nationalism. Short-term: the July 1914 ultimatum, Austria-Hungary’s declaration of war on Serbia and mobilisation. Trigger: the assassination of Franz Ferdinand on 28 June 1914. The alliances link them into a general war." loading="lazy">
+  <figcaption>Sort causes by timescale, then explain how they connect: that shows causality.</figcaption>
+</figure>
+
 ## Worked reminder: percentage change
 
 A fictional mission's troop strength fell from 5,000 to 3,500.
@@ -144,6 +169,11 @@ Always divide by the **starting** value.
 - **League vs UN.** The League had no US membership and no armed forces. The UN has the Security Council with Chapter VII powers, but troops are still lent by members and the veto can block action.
 - **Civil war vs proxy war.** A civil war is fought inside a state; it becomes a proxy war when outside powers back the sides (Vietnam).
 - **Consequence vs cause.** Versailles (1919) was a consequence of the First World War and a cause of the Second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-warfare-and-peacekeeping--07-agenda-for-peace.webp" width="900" height="640" alt="Four stages from An Agenda for Peace (1992): preventive diplomacy, peacemaking, peacekeeping and post-conflict peacebuilding. Peacekeeping mainly secures negative peace, the absence of fighting; peacebuilding aims at positive peace, where causes are addressed, using tools such as DDR, rebuilt courts and police, elections and transitional justice." loading="lazy">
+  <figcaption>Stopping the fighting is negative peace; addressing its causes is positive peace.</figcaption>
+</figure>
 
 ## Linking to concepts
 

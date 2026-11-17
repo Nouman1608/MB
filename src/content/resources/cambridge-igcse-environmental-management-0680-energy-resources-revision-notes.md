@@ -43,6 +43,16 @@ Condensed notes for sub-topic 1.4. Step-by-step explanations and two worked exam
 
 **Common thread:** organisms → burial without oxygen → heat and pressure → millions of years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--01-coal-formation.webp" width="900" height="510" alt="Four stages. 1: large plants grow in a warm swampy forest. 2: dead plants fall into waterlogged ground with little oxygen and form partly decayed peat. 3: sediment buries the peat and pressure and heat drive out water and gases over millions of years. 4: a seam of coal lies between layers of sedimentary rock." loading="lazy">
+  <figcaption>Plants, waterlogged peat, burial, then heat and pressure over millions of years.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--02-oil-gas-trap.webp" width="900" height="610" alt="Cross-section of folded rock layers. Oil and gas formed from plankton in a source rock rise through permeable rock such as sandstone until they meet impermeable cap rock at the top of a dome. Natural gas collects at the top, oil beneath it and water below." loading="lazy">
+  <figcaption>Without an impermeable cap rock, the oil and gas would escape to the surface.</figcaption>
+</figure>
+
 ## Classification (learn the exact lists)
 
 - **Renewable (non-finite)**: biofuels (bioethanol, biomass, biogas, wood), geothermal, HEP, tidal, wave, solar, wind.
@@ -56,6 +66,11 @@ Condensed notes for sub-topic 1.4. Step-by-step explanations and two worked exam
 | Biomass | Plant or animal material burned directly, such as crop waste |
 | Biogas | Methane-rich gas from bacteria breaking down manure, food waste or sewage without oxygen |
 | Wood | Burned for heat and in some power stations |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--03-classification.webp" width="900" height="570" alt="Two columns. Renewable: the four biofuels (bioethanol, biomass, biogas and wood), geothermal, hydro-electric, tidal, wave, solar and wind power. Non-renewable: the fossil fuels coal, petroleum and natural gas, and nuclear power using uranium." loading="lazy">
+  <figcaption>Nuclear is non-renewable: uranium is finite, however low-carbon its electricity.</figcaption>
+</figure>
 
 ## Electricity generation chains
 
@@ -72,6 +87,11 @@ Condensed notes for sub-topic 1.4. Step-by-step explanations and two worked exam
 | Wind | Wind turns blades → shaft → generator |
 | Solar photovoltaic | Light → solar cells → electricity directly (no turbine) |
 | Solar thermal | Mirrors focus sunlight → heat fluid → steam → turbine → generator |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--04-turbine-generator.webp" width="900" height="630" alt="Three groups of resources turn a turbine, which turns a generator that produces electricity: those that make steam (fossil fuels, biofuels, nuclear, geothermal), those that use moving water (HEP, tidal, wave) and wind. Solar photovoltaic cells skip the turbine and convert light directly into electricity." loading="lazy">
+  <figcaption>Ask what turns the turbine; only solar cells skip the turbine altogether.</figcaption>
+</figure>
 
 ## One benefit and one limitation each
 
@@ -100,11 +120,21 @@ Condensed notes for sub-topic 1.4. Step-by-step explanations and two worked exam
 | Unreliable supply | Shifts | Power cuts push people to generators or their own solar panels |
 | Scarcity of resources | Lowers or shifts | Rising price cuts use and raises demand for alternatives |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--05-demand-factors.webp" width="900" height="606" alt="Eight cards: transport, wealth, climate, population size and industry, each explaining why demand rises; and disruption to supply, unreliable supply and scarcity, which make people cut use or switch resources." loading="lazy">
+  <figcaption>Name the factor, say what changes, then explain why energy use changes.</figcaption>
+</figure>
+
 ## Data skills
 
 - **Percentage share** = part ÷ total × 100.
 - Check every list in a data question for nuclear before calling something renewable.
 - Quick check: 45 TWh of wind and solar out of 180 TWh total = 45 ÷ 180 × 100 = 25%.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-energy-resources--06-electricity-mix.webp" width="900" height="540" alt="A bar of 250 TWh split into coal 100, natural gas 60, nuclear 30, HEP 35, wind 20 and solar 5. Brackets show fossil fuels 64%, all non-renewables 76% and renewables 24%." loading="lazy">
+  <figcaption>Share = part ÷ total × 100, and keep nuclear on the non-renewable side.</figcaption>
+</figure>
 
 ## Exam traps
 

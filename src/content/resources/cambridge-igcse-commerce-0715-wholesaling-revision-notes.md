@@ -33,6 +33,11 @@ Condensed notes for section 2.4 of Cambridge IGCSE Commerce (0715). For explanat
 2. The **importance** of the wholesaler to the **manufacturer** and to the **retailer**.
 3. Why the **independent wholesaler survives**: **cash and carry** and **voluntary chains**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--01-chain-of-distribution.webp" width="900" height="570" alt="The traditional chain of distribution runs manufacturer, wholesaler, retailer, consumer. The wholesaler buys lorry loads and sells cases or cartons, mostly to retailers but also to hotels, restaurants, schools and other businesses." loading="lazy">
+  <figcaption>The wholesaler is the link between manufacturers and retailers in home trade.</figcaption>
+</figure>
+
 ## Nine functions to recall
 
 Mnemonic **"Big Stores Buy Any Tin, Can Add Packaging Prices"**:
@@ -49,6 +54,11 @@ Mnemonic **"Big Stores Buy Any Tin, Can Add Packaging Prices"**:
 | P | Packing and labelling | Grades, packs or labels some goods |
 | P | Price stability | Stores in times of plenty, releases in times of shortage |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--02-wholesaler-functions.webp" width="900" height="570" alt="Nine tiles: breaking bulk, storage, bearing risk, assortment, transport and delivery, credit, advice and information, packing and labelling, and price stability, each with a one-line description." loading="lazy">
+  <figcaption>Breaking bulk is the core function; the other eight add services for both sides.</figcaption>
+</figure>
+
 ## Importance: say who benefits
 
 | To the manufacturer | To the retailer |
@@ -59,6 +69,11 @@ Mnemonic **"Big Stores Buy Any Tin, Can Add Packaging Prices"**:
 | Risk of unsold goods passes on | Credit helps cash flow |
 | Information on what is selling | Delivery and product advice |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--03-benefits-both-sides.webp" width="900" height="640" alt="The wholesaler in the centre helps two sides. The manufacturer gets fewer, larger orders, saved storage, continuous production, transferred risk and market information. The retailer gets small quantities, wide choice, less storage, credit, and delivery with advice." loading="lazy">
+  <figcaption>The same wholesaler gives different benefits to the manufacturer and the retailer.</figcaption>
+</figure>
+
 ## Why some bypass the wholesaler
 
 - Large chains and supermarkets buy direct and run central warehouses.
@@ -68,6 +83,11 @@ Mnemonic **"Big Stores Buy Any Tin, Can Add Packaging Prices"**:
 
 The functions remain; someone else performs them and bears the cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--04-bypassing-wholesaler.webp" width="900" height="665" alt="Four ways the wholesaler is bypassed: large retailers buying direct, manufacturers selling direct, ecommerce, and perishable or made-to-order goods. Below, breaking bulk, storing and delivering still have to be done by someone." loading="lazy">
+  <figcaption>Cutting out the wholesaler moves its functions and costs to someone else.</figcaption>
+</figure>
+
 ## Survival method 1: cash and carry
 
 - **Self service** by trade customers in a large warehouse.
@@ -75,6 +95,16 @@ The functions remain; someone else performs them and bears the cost.
 - **Collect** in own transport: no delivery.
 - Result: lower costs for the wholesaler, so **lower prices**; retailers buy when they choose and see goods first.
 - Retailer's drawbacks: collection time and cost; no credit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--06-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-wholesaling--05-cafe-cash-and-carry.webp" width="900" height="575" alt="Two options for 40 cases. Delivered: 40 × $18.00 = $720, paid in 30 days. Cash and carry: 40 × $16.50 = $660 plus $35 to collect = $695, paid today. Cash and carry saves $25 but loses the credit." loading="lazy">
+  <figcaption>Cash and carry is $25 cheaper, but the delivered wholesaler gives a month to pay (invented figures).</figcaption>
+</figure>
 
 ## Survival method 2: voluntary chain
 

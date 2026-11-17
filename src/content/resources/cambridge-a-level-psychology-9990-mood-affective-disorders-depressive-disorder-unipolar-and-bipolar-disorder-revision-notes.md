@@ -41,6 +41,16 @@ featured: false
 - Strengths: quick, standardised, quantitative, tracks change.
 - Weaknesses: self-report bias; depends on insight; may miss depression expressed through physical symptoms in some cultures.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--01-mood-patterns.webp" width="900" height="782" alt="Three schematic mood lines. Depressive disorder dips below usual mood for an episode of at least two weeks. Bipolar type I rises into mania lasting at least a week and usually falls into depression. Bipolar type II rises only into milder hypomania and falls into a depressive episode. A card lists signs of a manic episode." loading="lazy">
+  <figcaption>Unipolar moves one way; bipolar I includes mania; bipolar II hypomania and depression.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--02-bdi-scoring.webp" width="900" height="526" alt="Twenty-one item boxes, each scored 0 to 3, give a total of 0 to 63. A bar shows the usual BDI-II bands: 0 to 13 minimal, 14 to 19 mild, 20 to 28 moderate and 29 to 63 severe. Strengths and psychometric limits, including cultural differences, follow." loading="lazy">
+  <figcaption>Totals run 0 to 63; 29 or more is usually read as severe.</figcaption>
+</figure>
+
 ## 1.2.2 Explanations
 
 | Explanation | Core idea | Evaluation |
@@ -61,9 +71,29 @@ featured: false
 | Conclusion | Minor increase in susceptibility at most, possibly in women |
 | Evaluation | Objective, replicable; small sample; bipolar not unipolar; trend not significant |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--04-oruc-1997.webp" width="900" height="852" alt="Study card for Oruč et al. (1997): an association study of the 5-HT2C receptor and serotonin transporter genes in 42 bipolar I patients and 40 controls. No significant association overall, with trends in women. The conclusion and an evaluation grid follow." loading="lazy">
+  <figcaption>No significant link overall; only trends in women, suggesting a minor genetic effect.</figcaption>
+</figure>
+
 ### Beck's cognitive errors
 
 Overgeneralisation; selective abstraction; magnification and minimisation; personalisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--05-beck-model.webp" width="900" height="878" alt="A sequence: negative schemas form in childhood through criticism or loss, are triggered by a later stressful event and produce automatic negative thoughts. These form the negative triad of views of the self, the world and the future, kept in place by four cognitive errors: overgeneralisation, selective abstraction, magnification and minimisation, and personalisation." loading="lazy">
+  <figcaption>Schemas, triggered by stress, produce the triad; cognitive errors keep it going.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--03-monoamine-timing.webp" width="900" height="658" alt="An illustrative graph: after starting an antidepressant, monoamine levels rise within hours, but mood improves only after several weeks. Cards give the supporting evidence from antidepressants and the criticism that the delay means low monoamines cannot be the whole story." loading="lazy">
+  <figcaption>Drugs raise monoamines in hours but lift mood only after weeks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--06-helplessness-attributions.webp" width="900" height="592" alt="Dogs exposed to inescapable shocks later failed to escape when they could; applied to humans, uncontrollable bad events may lead to passivity and hopelessness. The reformulated theory adds an internal, stable and global attributional style. A note summarises Seligman et al. (1988)." loading="lazy">
+  <figcaption>Uncontrollable events teach helplessness; internal, stable, global explanations sustain it.</figcaption>
+</figure>
 
 ## 1.2.3 Treatments
 
@@ -74,6 +104,16 @@ Overgeneralisation; selective abstraction; magnification and minimisation; perso
 | SSRIs | Block serotonin reuptake | Weeks to work; nausea |
 | Beck's cognitive restructuring | Thought diary; test thoughts against evidence | Needs motivation and time |
 | Ellis's REBT | ABC, then Disputing and Effective new beliefs | Can feel confrontational |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--07-antidepressants.webp" width="900" height="765" alt="A schematic synapse shows monoamines released into the gap, a reuptake route back into the sending neuron marked as blocked, and the MAO enzyme that breaks monoamines down. Cards explain that tricyclics block reuptake of serotonin and noradrenaline, MAOIs inhibit monoamine oxidase, and SSRIs selectively block serotonin reuptake, with side effects." loading="lazy">
+  <figcaption>Tricyclics and SSRIs block reuptake; MAOIs stop the enzyme breaking monoamines down.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder--08-rebt-abcde.webp" width="900" height="797" alt="An activating event leads to a belief, such as &quot;I must be liked by everyone&quot;, which produces a consequence. Disputing challenges the belief logically, empirically or pragmatically, leading to effective new beliefs. A final row compares Beck's collaborative approach with Ellis's more direct one." loading="lazy">
+  <figcaption>Dispute the irrational belief to reach an effective new one.</figcaption>
+</figure>
 
 ## Key terms
 

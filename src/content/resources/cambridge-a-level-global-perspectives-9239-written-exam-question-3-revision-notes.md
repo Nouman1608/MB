@@ -33,12 +33,22 @@ These notes cover Question 3 of Component 1 in Cambridge International AS & A Le
 - Must end in a **reasoned judgement**. Phrases such as "To what extent ...?" and "Make an overall judgement" may be used.
 - Not assessed on knowledge of the issue itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--01-question-3-skills.webp" width="900" height="563" alt="Question 3 carries 25 of the paper’s 45 marks, about 50 of the 90 minutes. It combines three AO1 skills, comparing argument components, comparing perspectives and judging them, with the AO3 skill of communicating clearly and logically." loading="lazy">
+  <figcaption>The biggest question: a criteria-based comparison that ends in a judgement.</figcaption>
+</figure>
+
 ## Two levels of comparison
 
 | Level | Syllabus definition | What to compare |
 |---|---|---|
 | Argument | "one or more reasons that lead to a conclusion" | How well each source's reasons support its conclusion |
 | Perspective | "a coherent world view which is a response to an issue", made of "argument, evidence and assumptions", possibly "influenced by a particular context" | The values, assumptions and context behind each source |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--02-argument-perspective.webp" width="900" height="524" alt="At the argument level, ask how well each source’s reasons support its conclusion. At the perspective level, ask what world view lies behind each source: its values, assumptions and context. Strong answers move between the two levels." loading="lazy">
+  <figcaption>Judge the reasoning, then the world view behind it, and link the two.</figcaption>
+</figure>
 
 ## Comparison criteria
 
@@ -55,9 +65,19 @@ These notes cover Question 3 of Component 1 in Cambridge International AS & A Le
 
 The analogy, implications and context criteria all come from the Critical Path's deconstruction and reconstruction questions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--03-criteria-toolkit.webp" width="900" height="616" alt="Eight comparison criteria with the question each asks of both sources: logic and structure, use of evidence, assumptions, counter-arguments, use of language, use of analogy, implications, and context and provenance." loading="lazy">
+  <figcaption>Pick the three or four criteria where the sources differ most.</figcaption>
+</figure>
+
 ## Paragraph formula
 
 Criterion signpost → Source A on this criterion, with a short quotation → Source B on the same criterion, with a short quotation → why one is stronger here (mini-judgement).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--04-paragraph-organisation.webp" width="900" height="651" alt="A source-by-source answer gives all of Source A, then all of Source B, leaving comparison to the conclusion. A criterion-by-criterion answer puts both sources in every paragraph, “Source A does X, whereas Source B does Y”, and ends each with a mini-judgement." loading="lazy">
+  <figcaption>Both sources in each paragraph, and a mini-judgement at the end of it.</figcaption>
+</figure>
 
 ## Comparison sentence frames
 
@@ -71,12 +91,22 @@ Criterion signpost → Source A on this criterion, with a short quotation → So
 
 Suppose Source A (a fictional water company) argues for metered water pricing with clear national data but uses dismissive language about critics, while Source B (a fictional consumer group) uses calm language but bases its case on two household stories and assumes that metering would raise every bill. A weighed verdict might read: "Source A is more convincing. Its tone is a weakness, but tone affects persuasion, not validity; Source B's central assumption is unsupported, and that failure goes to the heart of its argument." The verdict names the deciding criterion (the soundness of the central assumption) and explains why it outweighs the other (tone).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--07-worked-example.webp" width="900" height="724" alt="Two fictional sources on recruiting nurses from abroad compared by conclusion, key assumption and perspective. The judgement: Source B is more convincing because it answers Source A’s main argument while A relies on an undefended assumption that everyone benefits, though B generalises from one hospital." loading="lazy">
+  <figcaption>Compare criterion by criterion, then let the decisive criterion settle the verdict.</figcaption>
+</figure>
+
 ## Judgement rules
 
 1. Answer the question asked (name the more convincing source if asked).
 2. Say which criterion decided it, and why it outweighs the others.
 3. Acknowledge the main limit of your verdict.
 4. Keep the verdict consistent with your paragraph mini-judgements.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--05-reasoned-judgement.webp" width="900" height="648" alt="Mini-judgements from each comparative paragraph feed a verdict that answers the question, weighs the criteria by saying which one decided it, and acknowledges a limit. Two weak endings: “both have strengths and weaknesses” and a personal view not drawn from the analysis." loading="lazy">
+  <figcaption>Name the winner, say which criterion decided it, and state its limit.</figcaption>
+</figure>
 
 ## AO3: communicating clearly and logically
 
@@ -85,6 +115,11 @@ Suppose Source A (a fictional water company) argues for metered water pricing wi
 - Precise terms: conclusion, reason, assumption, counter-argument, perspective, context.
 - Short embedded quotations.
 - A conclusion that follows from the paragraphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-global-perspectives-9239-written-exam-question-3--06-time-plan.webp" width="900" height="611" alt="Five stages: five minutes rereading and jotting criteria, an introduction with the issue, positions and verdict, three or four comparative paragraphs each ending in a mini-judgement, a perspective paragraph if needed, and a conclusion with a weighed verdict and its limit." loading="lazy">
+  <figcaption>Decide your criteria and verdict before you write the first paragraph.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -46,6 +46,16 @@ Learn each bullet attached to a concrete example — "lower cost of
 imports" needs a *why* (another country may have lower production
 costs for that good) to score full marks in a scenario answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--02-gt-benefits.webp" width="900" height="960" alt="Two countries exchange goods. Five benefit cards show a wider choice of goods, higher standard of living, lower cost of imports, more investment and creation of jobs." loading="lazy">
+  <figcaption>International trade brings five benefits to a country.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--03-gt-challenges.webp" width="900" height="1050" alt="An exporter and importer are joined by a route with hurdles. Eleven tiles name the challenges: distance, language, methods of payment, documentation, transport, customs duties, non-payment, currencies, foreign exchange rates, competition and different legal systems." loading="lazy">
+  <figcaption>Exporters and importers face eleven named challenges.</figcaption>
+</figure>
+
 ## 3.1.3 Balance of Trade vs Balance of Payments — the calculation trap
 
 | | Covers |
@@ -56,6 +66,16 @@ costs for that good) to score full marks in a scenario answer.
 Practise calculating each from a simple export/import figures table
 and stating whether the result is a **surplus** (exports > imports)
 or **deficit** (imports > exports).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--01-gt-bot-vs-bop.webp" width="900" height="1080" alt="Balance of Payments is drawn as a box holding goods, services and financial flows, with the goods part marked as the Balance of Trade. Below, bars show illustrative exports of 500 and imports of 420, giving +80, a surplus. Rules for surplus and deficit are shown." loading="lazy">
+  <figcaption>Balance of Trade covers goods only; Balance of Payments is the wider record.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-international-trade--04-bop-waterfall.webp" width="900" height="705" alt="A waterfall chart. The Balance of Trade is 540 − 610 = −70, a deficit. Services add 230 − 150 = +80, giving +10 on goods and services. A net investment inflow of +25 gives a Balance of Payments surplus of +35." loading="lazy">
+  <figcaption>A goods deficit of $70 million is more than covered by services and investment, giving +$35 million.</figcaption>
+</figure>
 
 ## 3.1.4 Free trade, trading blocs and trade restrictions
 
@@ -71,6 +91,16 @@ policy, exposure to the bloc's own economic problems).
 
 **Sources of support for exporters**: international trade fairs,
 cheaper bank loans, insurance guarantees.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--04-gt-trading-bloc.webp" width="900" height="990" alt="Three member countries sit inside a dashed bloc and trade without tariffs. A non-member outside meets a wall and may face a tariff, quota or embargo. Advantages and disadvantages of joining are listed." loading="lazy">
+  <figcaption>A bloc removes restrictions between members but an outsider may face them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--05-gt-restrictions.webp" width="900" height="760" alt="Three columns. Tariff: an illustrative 100 plus 20 gives 120. Quota: of 8 crates, 5 are let in and 3 turned back. Embargo: nothing gets in." loading="lazy">
+  <figcaption>A tariff raises price, a quota limits quantity and an embargo bans trade.</figcaption>
+</figure>
 
 ## 3.2.1 Global supply chains
 
@@ -88,6 +118,16 @@ Benefits of managing global supply chains: lower cost of production,
 lower labour costs, lower cost of purchasing, advances in logistics
 and communication.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--06-gt-supply-chains.webp" width="900" height="1060" alt="Two vertical chains. Simple: supplier (upstream), manufacturer (enterprise), consumer (downstream). Complex: supplier, agent, wholesaler, retailer, consumer." loading="lazy">
+  <figcaption>A complex chain adds agents, wholesalers and retailers to a simple one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-global-supply-chain-management--01-upstream-enterprise-downstream.webp" width="900" height="755" alt="Three columns viewed from the business. Upstream is everything flowing in, such as cocoa farmers, a sugar producer and shipping. The enterprise is the business’s own activities, such as roasting, moulding and packaging. Downstream is everything flowing out, through transport, wholesalers and supermarkets to consumers." loading="lazy">
+  <figcaption>Upstream flows in, the enterprise makes, downstream flows out to the consumer.</figcaption>
+</figure>
+
 ## 3.2.2 Global supply chain risks
 
 Six named categories — always name the *specific* type, not "risk"
@@ -103,6 +143,11 @@ generically:
 **Risk assessment** — identifying and planning for these in advance
 — is examined as important in its own right, not just a list to
 recall.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-globalisation-of-trade--07-gt-risks.webp" width="900" height="1000" alt="A chain from supplier to maker to seller above six risk cards: environmental (pollution, deforestation), natural disasters, financial, ethical, technological and political. Risk assessment is shown as spotting risks then planning in advance." loading="lazy">
+  <figcaption>Six named risk types threaten a supply chain, and risk assessment plans for them in advance.</figcaption>
+</figure>
 
 ## Worked example: Balance of Trade calculation
 

@@ -35,6 +35,11 @@ featured: false
 | Khaibar | 628 | Fortified oasis north of Madinah | Besieged the forts | Victory | Security |
 | Hunayn | 630 | Hawazin and Thaqif | About 12,000 | Near-rout, then victory | Reliance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--01-numbers-and-outcomes.webp" width="900" height="662" alt="Bars of the approximate traditional army sizes: about 313 Muslims against about 1,000 Makkans at Badr, which was a victory; about 700 against about 3,000 at Uhud, with heavy losses; about 10,000 confederates at the Trench, whose siege failed; and about 12,000 Muslims at Hunayn, who were ambushed before winning." loading="lazy">
+  <figcaption>The smallest army won at Badr and the largest nearly lost at Hunayn.</figcaption>
+</figure>
+
 ## Badr: five facts
 
 1. Cause: interception of Abu Sufyan's caravan; a Makkan army marched out.
@@ -44,6 +49,11 @@ featured: false
 5. Prisoners: ransom, or teach Muslim children to read.
 
 **Evidence:** "day of criterion" (8:41); "Allah had given you victory at Badr while you were weak" (3:123); angels (8:9).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--02-badr.webp" width="900" height="563" alt="Badr in three steps: the Muslims set out to intercept a Makkan caravan, which escaped, and a Makkan army came out; at the wells of Badr in Ramadhan the Muslims won decisively; prisoners were treated well and literate captives could earn freedom by teaching. Below, four points of importance." loading="lazy">
+  <figcaption>Badr is the “day of criterion”: victory came from Allah, not numbers.</figcaption>
+</figure>
 
 ## Uhud: five facts
 
@@ -55,6 +65,11 @@ featured: false
 
 **Evidence:** the prescribed passage 3:121-127 describes Uhud and calls for patience and taqwa (3:125).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--03-uhud-chain.webp" width="900" height="768" alt="Five numbered steps at Uhud: consultation and going out to the mountain, the withdrawal of Abdullah ibn Ubayy, the order to the archers, most archers leaving the hill for spoils, and Khalid ibn al-Walid’s cavalry attacking from behind. Below, the lessons: obedience, greed, hypocrisy exposed, shura and patience." loading="lazy">
+  <figcaption>Uhud was lost through disobedience, not because the Muslims were outnumbered.</figcaption>
+</figure>
+
 ## Trench: five facts
 
 1. Banu Nadir leaders built an alliance (al-Ahzab) of about 10,000.
@@ -63,12 +78,22 @@ featured: false
 4. Banu Qurayza broke their agreement; siege of several weeks.
 5. Distrust among the allies and a cold wind (33:9) made them withdraw.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--04-trench-schematic.webp" width="900" height="706" alt="A schematic, not to scale: a trench dug across the open northern side of Madinah stops the cavalry of about 10,000 confederates. Beside it: Salman al-Farsi’s idea, the Prophet (pbuh) digging with the companions, a siege of several weeks with the Banu Qurayza breaking their agreement, and a cold wind before the confederates withdrew." loading="lazy">
+  <figcaption>A Persian convert’s idea saved the city in the last great Makkan attack.</figcaption>
+</figure>
+
 ## Khaibar: four facts
 
 1. Oasis with forts north of Madinah, home of exiled Banu Nadir leaders.
 2. After the Treaty of Hudaibiyah.
 3. The flag given to Ali (RA), who took the fort (Bukhari).
 4. People stayed to farm the land for half of the produce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--05-khaibar.webp" width="900" height="465" alt="Khaibar in three steps: a fortified oasis that had supported the confederates was a threat from the north; soon after Hudaibiyah its forts were besieged and Hazrat Ali (RA) captured the one that held out; the people stayed and farmed, giving half the produce. Its importance: security, mercy and a stronger economy." loading="lazy">
+  <figcaption>Khaibar secured Madinah and showed mercy after victory.</figcaption>
+</figure>
 
 ## Hunayn: five facts
 
@@ -80,12 +105,22 @@ featured: false
 
 **Evidence:** "when your great number pleased you, but it did not avail you at all" (9:25).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--06-hunayn.webp" width="900" height="690" alt="Five steps at Hunayn: a large army of about 12,000 felt confident, was ambushed at dawn and many fled, the Prophet (pbuh) stood firm, Hazrat Abbas (RA) called the Ansar back and the Muslims won, then spoils were shared and captives returned. A note quotes 9:25." loading="lazy">
+  <figcaption>Reliance must be on Allah, not numbers: that is the lesson of Hunayn.</figcaption>
+</figure>
+
 ## Aam ul Wufood
 
 - The Year of Delegations, 630–631 CE.
 - Tribes across Arabia sent delegations to Madinah, including Thaqif of Ta'if, Banu Tamim, and Christians of Najran.
 - The Prophet (pbuh) hosted them, taught them and sent teachers, such as Mu'adh ibn Jabal (RA) to Yemen.
 - **Significance:** peaceful spread of Islam; unity of Arabia; fulfilment of Surah an-Nasr (110).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn--07-aam-ul-wufood.webp" width="900" height="595" alt="Delegations came to Madinah in 630–631 CE, including the Thaqif of Ta’if, the Banu Tamim and Christians from Najran. They were received with hospitality and taught Islam, and companions such as Mu’adh ibn Jabal (RA) were sent back as teachers and governors. Most of Arabia accepted Islam peacefully." loading="lazy">
+  <figcaption>Aam ul Wufood is about peaceful acceptance of Islam, not a battle.</figcaption>
+</figure>
 
 ## The prescribed passage: Qur'an 3:121-127
 

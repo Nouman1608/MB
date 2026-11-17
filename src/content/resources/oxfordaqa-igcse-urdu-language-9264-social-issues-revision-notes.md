@@ -33,6 +33,11 @@ Theme 2, Topic 2 has two sub-topics, **charity and voluntary work** and **health
 living**. Poverty belongs to Global issues, not here. Examined through Paper 1 (Reading,
 including English-to-Urdu translation) and Paper 2 (Writing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--01-two-sub-topics.webp" width="900" height="718" alt="Charity and voluntary work (رضاکار, فلاحی ادارہ, چندہ جمع کرنا, عطیہ دینا, ضرورت مند, یتیم خانہ) and healthy and unhealthy living (متوازن غذا, ورزش, نیند, ذہنی دباؤ, موٹاپا, تمباکو نوشی). Poverty belongs to Global issues." loading="lazy">
+  <figcaption>Volunteering and health, about individuals and communities; poverty is a global issue.</figcaption>
+</figure>
+
 ## Key terms
 
 | Urdu | Meaning | Note |
@@ -67,6 +72,11 @@ including English-to-Urdu translation) and Paper 2 (Writing).
 | Hypothetical | اگر ... -تے تو ... -تے | اگر ہم پیدل چلتے تو صحت بہتر ہوتی |
 | Personal change | پہلے ... تھا، اب ... | پہلے میں دیر سے سوتا تھا، اب جلدی سوتا ہوں |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--02-advice-purpose-cause-hypothesis.webp" width="900" height="730" alt="Four Urdu structures with glosses: advice with کو ... چاہیے (ہمیں روزانہ ورزش کرنی چاہیے), purpose with تاکہ, cause with کی وجہ سے about lack of sleep, and a hypothesis with اگر ... تو about young people sleeping more." loading="lazy">
+  <figcaption>Should, so that, because of, and if ... would: the core of a social-issues answer.</figcaption>
+</figure>
+
 ## Developing an answer
 
 Problem → cause → solution → justified opinion, plus a **personal action** for social issues:
@@ -76,6 +86,11 @@ Problem → cause → solution → justified opinion, plus a **personal action**
 3. اگر نوجوان ہفتے میں ایک بار ان سے ملنے جائیں تو ان کی تنہائی کم ہو سکتی ہے۔ (solution)
 4. پچھلے مہینے سے میں ہر اتوار اپنے بزرگ پڑوسی کے لیے سودا لاتا ہوں۔ (personal action)
 5. میرے خیال میں یہ چھوٹا سا کام بھی بہت اہم ہے کیونکہ اس سے معاشرہ مضبوط ہوتا ہے۔ (opinion)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--05-charity-developed-answer.webp" width="900" height="840" alt="A weak answer (میں خیرات دیتا ہوں۔ یہ اچھی بات ہے۔) against a developed one in four sentences: what was done last Ramadan, the writer’s own part, the difference it made, and a wider view that every student should volunteer." loading="lazy">
+  <figcaption>Say what you did, your part, the difference it made, and a wider view.</figcaption>
+</figure>
 
 ## Charity and volunteering phrases
 
@@ -102,6 +117,11 @@ It moves from a personal situation (with a cause, اس لیے) to a change in at
 4. Feminine nouns: صحت, ورزش, نیند, غذا, خیرات.
 5. Oblique case before postpositions: فلاحی ادارے میں, معاشرے کی.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--03-matching-hypothetical.webp" width="900" height="654" alt="A correct hypothetical keeps both verbs in the same form: اگر نوجوان زیادہ سوتے تو وہ کم ذہنی دباؤ محسوس کرتے. Mixing forms (اگر نوجوان زیادہ سوئیں تو وہ ... محسوس کرتے) is a common error. Every Saturday is ہر ہفتے کے دن." loading="lazy">
+  <figcaption>In &quot;if ... would&quot;, both halves take the matching form.</figcaption>
+</figure>
+
 ## Opinion starters
 
 - اس میں کوئی شک نہیں کہ ... — there is no doubt that ...
@@ -111,6 +131,11 @@ It moves from a personal situation (with a cause, اس لیے) to a change in at
 
 Each starter ends in کہ, so the clause after it needs its own subject and verb. Using two or three
 different starters in one answer shows range without risking accuracy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-social-issues--06-opinion-starters.webp" width="900" height="696" alt="Five Urdu opinion starters with English meanings, from اس میں کوئی شک نہیں کہ to اگر ہم واقعی تبدیلی چاہتے ہیں تو, each followed by a full clause, plus وقت نکالنا ہو گا for a future obligation." loading="lazy">
+  <figcaption>Two or three different starters in one answer show range safely.</figcaption>
+</figure>
 
 ## Exam traps
 

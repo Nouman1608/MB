@@ -88,6 +88,16 @@ Test yourself: [Water practice questions](/resources/o-level-environmental-manag
 recreation, tourism, fish farming. Limitations include flooding of land and homes, loss of habitats,
 sediment trapped behind the dam and high construction cost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--14-water-sources.webp" width="900" height="810" alt="Four cards. A reservoir stores water for dry seasons but floods land and loses water to evaporation. Groundwater from wells and boreholes is clean and available all year but over-use lowers the water table. Rainwater harvesting from roofs is cheap and simple but depends on rain and needs tanks. Desalination gives a reliable supply from the sea but uses a lot of energy and makes salty waste water." loading="lazy">
+  <figcaption>Reservoirs, groundwater, rainwater harvesting and desalination each have one advantage and one disadvantage.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--20-rainwater-harvest.webp" width="900" height="960" alt="Worked example in four steps. A school roof of 120 square metres receives 650 millimetres, or 0.65 metres, of rain a year: 120 times 0.65 is 78 cubic metres. With 80 per cent collected, 78 times 0.80 is 62.4 cubic metres. One cubic metre is 1,000 litres, so that is 62,400 litres. Divided by 365 days, the average is 171 litres a day to the nearest litre." loading="lazy">
+  <figcaption>A 120 square metre roof with 650 mm of rain collects 62.4 cubic metres a year at 80 per cent, which is 62,400 litres or 171 litres a day.</figcaption>
+</figure>
+
 ## 3.2 Checklist: water pollution
 
 | Source | Impact |
@@ -104,6 +114,11 @@ sediment trapped behind the dam and high construction cost.
   using oxygen → fish die.
 - Improving quality: improved sanitation; sewage treatment; pollution control and legislation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--15-eutrophication.webp" width="900" height="1010" alt="Four lake cross-sections in order. One: fertiliser or sewage adds nutrients to the lake. Two: algae grow rapidly into a thick layer that blocks light, so plants below die. Three: bacteria decompose the dead material and use up the dissolved oxygen. Four: with too little oxygen, fish and other animals die." loading="lazy">
+  <figcaption>Nutrients cause an algae bloom that blocks light; plants and algae die, bacteria use up oxygen, and fish die.</figcaption>
+</figure>
+
 ## 3.3 Checklist: malaria and cholera
 
 **Malaria**: vector = **female Anopheles mosquito**; parasite = **Plasmodium**, passed to humans in a bite and
@@ -116,6 +131,11 @@ back to uninfected mosquitoes when they feed on infected blood.
 
 Malaria is spread by a vector; cholera is spread by contaminated water - so their controls differ.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--16-water-diseases.webp" width="900" height="800" alt="Two chains. Water-borne diseases such as cholera and typhoid: microorganisms from human waste contaminate drinking water, and people who use it become ill. Prevention is boiling or treating water and building latrines away from wells. Malaria is an insect-borne disease: mosquitoes breed in standing water and bite people, who become ill. Prevention is draining or covering standing water and using bed nets." loading="lazy">
+  <figcaption>Cholera and typhoid spread through water contaminated by human waste; malaria spreads by mosquitoes breeding in standing water.</figcaption>
+</figure>
+
 ## 3.4 Checklist: exploitation and marine aquaculture
 
 - **Exploitation impacts**: overfishing and overharvesting; effects on target and **bycatch** species;
@@ -127,6 +147,11 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
   quotas; closed seasons; limited fishing days; protected areas; conservation laws; international
   agreements with implementation and monitoring.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--17-fish-farm.webp" width="900" height="820" alt="Side view of floating net cages in the sea. Waste food and faeces fall to the water below and enrich it. Disease and parasites can spread from farmed fish to wild fish. Escaped fish can breed with wild populations. Siting farms where currents disperse waste is better practice." loading="lazy">
+  <figcaption>Floating cages release waste that enriches the water, disease and parasites can spread to wild fish, escapees can breed with wild fish, and siting where currents disperse waste helps.</figcaption>
+</figure>
+
 ## 3.5 Checklist: oil pollution
 
 - **Causes**: offshore and onshore extraction; pipelines; shipping; cleaning tanks at sea; refineries.
@@ -136,6 +161,11 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
   double-hulled tankers; risk assessments; regular maintenance.
 - **Minimising impacts**: improved navigation systems; booms and sorbents; detergent sprays; skimmers;
   controlled burning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--18-oil-spill.webp" width="900" height="820" alt="A tanker leaks oil that floats and spreads as a slick on the sea surface; an oiled seabird shows the harm. Booms contain the slick but are ineffective in rough seas. Skimmers collect oil from the surface. Dispersants break oil into small droplets but may harm marine life. The best strategy is prevention, using double-hulled tankers, strict regulation, navigation controls and regular maintenance." loading="lazy">
+  <figcaption>Booms contain a slick but fail in rough seas, skimmers collect oil, dispersants break it into droplets, and prevention is best.</figcaption>
+</figure>
 
 ## 3.6 Checklist: plastic pollution
 
@@ -150,6 +180,11 @@ Malaria is spread by a vector; cholera is spread by contaminated water - so thei
 **Impacts on marine ecosystems**: visual pollution; entanglement; mistaken for food; bioaccumulation and
 biomagnification. **Strategies**: alternative packaging; avoid single-use plastics; safe disposal;
 recycling; legislation and enforcement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-environmental-management-water-study-guide--19-plastic-journey.webp" width="900" height="960" alt="Four stages. One: plastic reaches the sea from litter, rivers, fishing gear and poor waste management. Two: sunlight and waves break it into microplastics. Three: microplastics enter food chains, eaten by small fish that are eaten by larger animals. Four: floating plastic gathers in ocean gyres and drifts on to beaches." loading="lazy">
+  <figcaption>Plastic reaches the sea, breaks into microplastics, enters food chains and gathers in gyres before drifting to beaches.</figcaption>
+</figure>
 
 ## Worked example: biomagnification
 

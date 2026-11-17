@@ -76,17 +76,37 @@ Faisalabad, Sialkot, Gwadar.
 
 **Dry ports (examples):** Lahore, Faisalabad, Sialkot, Multan, Peshawar, Quetta, Sost.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--04-border-crossings.webp" width="900" height="670" alt="Four cards list the road crossings, passes and rail links with each neighbour: China via the Khunjerab Pass with no railway; Afghanistan via Torkham and the Khyber Pass and via Chaman, with a line through the Khojak Tunnel; Iran via Taftan by road and rail; India via Wagah, with rail services suspended since 2019." loading="lazy">
+  <figcaption>Only some crossings have a railway, and the China route closes in winter.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--05-seaports.webp" width="900" height="460" alt="Three cards compare the seaports: Keamari, the original Karachi Port on a natural harbour; Port Qasim east of Karachi, built to relieve congestion and handle bulk cargo; and Gwadar, a deep-water port in Balochistan at the end of CPEC that still lacks road, rail, water and power links." loading="lazy">
+  <figcaption>Keamari is the original port, Qasim takes bulk, and Gwadar is the deep-water newcomer.</figcaption>
+</figure>
+
 ## Network pattern in three sentences
 
 Networks are **densest and grid-like** in northern and central Punjab. They run **linearly along
 the Indus** through Sindh and along valleys in the north. They are **sparse** across Balochistan,
 the Thar desert and the high mountains, where air links matter most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--01-network-patterns.webp" width="900" height="668" alt="Four sketches describe network patterns: a dense grid on the Indus Plain of Punjab, linear corridors along both banks of the Indus in Sindh, sparse long roads across Balochistan, and routes confined to narrow valleys in the northern mountains." loading="lazy">
+  <figcaption>Describe a network by its density and pattern: grid, linear, sparse or valley-bound.</figcaption>
+</figure>
+
 ## Mode comparison: one line each
 
 - **Road:** flexible, door-to-door, most freight; but accidents, congestion, overloaded trucks.
 - **Rail:** cheapest for bulk over distance; but slow, ageing, loss-making.
 - **Air:** fastest; vital for Gilgit, Skardu, Chitral; but costly, small loads, weather delays.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--03-road-rail-air.webp" width="900" height="724" alt="Three questions lead to a transport mode: perishable goods or village destinations suit road; bulky goods over long distances suit rail; small, valuable or urgent goods suit air. Each mode lists what it is best for and its drawbacks." loading="lazy">
+  <figcaption>Match the load to the mode: road for flexibility, rail for bulk, air for speed.</figcaption>
+</figure>
 
 ## Evaluating a motorway: model paragraph
 
@@ -98,12 +118,22 @@ the Thar desert and the high mountains, where air links matter most.
 
 The shape: benefit, benefit, cost, cost, judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--02-recent-improvements.webp" width="900" height="750" alt="A timeline of dated improvements: the M-2 Lahore–Islamabad motorway (1997), Karakoram Highway tunnels around Attabad Lake (2015), Islamabad International Airport (2018), the M-5 Multan–Sukkur motorway (2019), Lahore’s Orange Line (2020) and New Gwadar International Airport (2025). A box lists other motorways, bus rapid transit and the planned ML-1 rail upgrade." loading="lazy">
+  <figcaption>Motorways came first; airports, tunnels and urban transit followed.</figcaption>
+</figure>
+
 ## Why build dry ports? Four reasons
 
 1. Industry (textiles, sports goods, surgical instruments) is inland, far from Karachi.
 2. Customs clearance close to the factory saves time and reduces theft and damage.
 3. Less congestion and storage pressure at Keamari and Port Qasim.
 4. Sealed containers can travel by rail, which is cheaper for bulk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--06-dry-port.webp" width="900" height="556" alt="Four steps: goods leave an inland factory, are cleared through customs and sealed into containers at a dry port, travel by rail or road to the coast, and are loaded onto a ship. Examples include Lahore, Faisalabad, Sialkot and Sost. A box lists the benefits." loading="lazy">
+  <figcaption>A dry port brings customs clearance to the factory instead of the coast.</figcaption>
+</figure>
 
 ## Telecommunications: uses and problems
 
@@ -118,6 +148,11 @@ The shape: benefit, benefit, cost, cost, judgement.
 low literacy; disaster damage; occasional shutdowns. **Approximate scale (2024):** about 193
 million mobile subscriptions (PTA, December 2024) and about 142 million broadband subscriptions
 (PTA, September 2024).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-transport-and-telecommunications--07-telecommunications.webp" width="900" height="828" alt="Two figures show about 193 million mobile and 142 million broadband subscriptions in 2024. Four cards give uses in education, industry and trade, services and broadcasting; a panel lists problems such as the cost of masts in mountains and deserts, low revenue, power cuts and shutdowns." loading="lazy">
+  <figcaption>Phones and the internet widen access, but the benefits are uneven.</figcaption>
+</figure>
 
 ## Exam traps
 

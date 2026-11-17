@@ -66,6 +66,16 @@ What criterion D asks for, in brief: language that suits the **audience and purp
 > 5. **Write** -- topic sentence first in each paragraph; link with connectives.
 > 6. **Check** -- verbs, agreement, word order, spelling and accents, register.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--01-decode-the-task.webp" width="900" height="685" alt="The repair café email task decoded with four questions: the purpose is to persuade and request support; the audience is the head of school, so the register is formal; the text type is an email with a subject line, greeting, paragraphs, request and sign-off; the stimulus gives free repairs, volunteers, everyday objects, 40 items saved and images of shared work and less waste." loading="lazy">
+  <figcaption>Purpose, audience, text type and stimulus decide everything you write next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--02-plan-one-job-per-paragraph.webp" width="900" height="735" alt="An email plan in five parts: an opening that states why you are writing, paragraph 1 explaining the idea, paragraph 2 giving reasons, paragraph 3 answering an objection about cost and safety, and a close that makes the request. Answering an objection shows awareness of the reader." loading="lazy">
+  <figcaption>Give every paragraph one job; answer the reader’s likely doubt.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 **Decoding.** Prompt: "Your cousin is visiting your town for the first time. Write a message suggesting what to do at the weekend." Purpose: to suggest and describe. Audience: a relative of your age. Text type: a message. Register: **informal**, familiar form of address, short friendly sentences.
@@ -77,6 +87,11 @@ What criterion D asks for, in brief: language that suits the **audience and purp
 **Answering the reader's doubt.** "You might think this would be expensive. However, ..." This one move shows audience awareness and adds a contrast connective.
 
 For the layout of each text type, see [text types and conventions](/resources/ib-myp-language-acquisition-text-types-and-conventions-revision-notes/). For reading images and layout, see [multimodal texts and visuals](/resources/ib-myp-language-acquisition-multimodal-texts-and-visuals-revision-notes/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--06-model-email-annotated.webp" width="900" height="785" alt="Extracts from the model email to the head of school, each annotated: a subject line; a formal greeting with the purpose stated; a past-tense paragraph reusing ideas from the poster; sequencing connectives and a reference word using the poster image; a paragraph answering an objection with “however”; and a polite request with a formal sign-off." loading="lazy">
+  <figcaption>Each paragraph has one job, the ideas are linked, and the register stays formal.</figcaption>
+</figure>
 
 ## Connectives by function
 
@@ -93,6 +108,11 @@ Grammar flags: French *bien que* takes the subjunctive. German *weil* and *obwoh
 
 **Reference words** avoid repetition: *this*, *these*, *it*, *such a project*, *the idea*. Use them to point back to a noun you have just used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--03-cohesion.webp" width="900" height="655" alt="Four short separate sentences about the café are rewritten with the same ideas linked by “because”, “this”, “also”, “furthermore” and “so”. Below, connectives grouped by function: adding, contrasting, result, example and sequencing. A connective must match the logic of the ideas it joins." loading="lazy">
+  <figcaption>Connectives and reference words show how ideas relate.</figcaption>
+</figure>
+
 ## Register markers
 
 | Signal | Formal | Informal |
@@ -106,6 +126,11 @@ Grammar flags: French *bien que* takes the subjunctive. German *weil* and *obwoh
 | Punctuation | Few exclamation marks | Exclamations allowed |
 
 Register is a scale: informal → neutral → formal. Neutral suits a school newsletter or an article for a general audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--04-register-scale.webp" width="900" height="790" alt="One idea at three points on a scale from informal to formal: a message to a friend, a school newsletter line and a formal proposal to the head. A table contrasts informal and formal greetings, forms of address, contractions, vocabulary and sentences. Register drift, such as a formal email ending “Anyway, let me know, thanks!”, is the commonest error." loading="lazy">
+  <figcaption>Choose the register when you decode the task, then keep it in every paragraph.</figcaption>
+</figure>
 
 ## Range upgrades
 
@@ -126,6 +151,11 @@ Rule: use range you can control. An accurate simple sentence beats an inaccurate
 - **Proficient** -- precise word choice; varied structures; idiom used naturally; register fully controlled; ideas, values and opinions developed.
 
 Check these against the descriptors your teacher gives you.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-d-writing--05-range-and-checking.webp" width="900" height="715" alt="Rising columns show the range to aim for: emergent, short accurate sentences with basic connectives; capable, reasons, more than one time frame and some complex sentences; proficient, precise word choice, varied structures and natural idiom. Then a checking order: verbs, agreement, word order, spelling and accents, and register, plus a personal error list." loading="lazy">
+  <figcaption>Stretch your range only as far as you can keep it accurate.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

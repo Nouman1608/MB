@@ -35,6 +35,11 @@ two things every answer must contain.
 al-Bukhari and Muslim, in two groups (individual conduct; life in the community). Four are set; you
 answer on two (8 marks), explaining what they teach about belief and action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--01-theme-map-of-set-hadiths.webp" width="900" height="742" alt="Two lists of key phrases. Individual conduct has nine Hadiths, from &quot;Religion is sincerity&quot; to &quot;Allah looks at hearts and deeds&quot;. Life in the community has eleven, from wanting for your brother what you want for yourself to &quot;the believers are like a single man&quot;." loading="lazy">
+  <figcaption>Nine Hadiths on individual conduct and eleven on life in the community.</figcaption>
+</figure>
+
 ## Quick-reference table
 
 | Short label | Core teaching | Application today |
@@ -59,6 +64,26 @@ answer on two (8 marks), explaining what they teach about belief and action.
 | Mustard seed of faith or pride | Small faith saves; small pride condemns | Humility; respect for all |
 | World is the believer's prison | Life is a test; reward lies in the hereafter | Patience in hardship; self-control |
 | Allah looks at hearts and deeds | Intention and action matter, not looks or wealth | Judge others by character; check one's own intentions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--03-religion-is-sincerity.webp" width="900" height="680" alt="A hub labelled &quot;Religion is sincerity&quot; with five spokes: to Allah (worship Him alone with pure intention), to His Book (read and follow the Qur'an), to His Messenger (follow the Sunnah), to the leaders (honest advice and support) and to the common people (wish them well and treat them honestly)." loading="lazy">
+  <figcaption>Sincerity is loyalty in every relationship, not only in ritual.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--04-every-joint-a-charity.webp" width="900" height="622" alt="The Hadith &quot;Every joint must perform a charity every day&quot; branches into five examples of charity: judging fairly between two people, helping someone onto a mount or with luggage, a kind word, each step to prayer, and removing something harmful from the road." loading="lazy">
+  <figcaption>Sadaqa includes small daily acts of help, not only giving money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--06-mustard-seed.webp" width="900" height="478" alt="Two matching panels. Faith as small as a mustard seed saves from hell; pride as small as a mustard seed blocks paradise. The conclusion: be humble and never look down on others." loading="lazy">
+  <figcaption>A tiny amount of faith saves; a tiny amount of pride blocks paradise.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--05-changing-an-evil.webp" width="900" height="710" alt="A narrowing staircase of three responses to an evil: change it with the hand if able, speak out with the tongue if not, and at least hate it in the heart, which is the weakest level of faith." loading="lazy">
+  <figcaption>Act if you can, speak if you cannot act, and never accept the wrong inwardly.</figcaption>
+</figure>
 
 ## Supporting verses and links
 
@@ -92,6 +117,11 @@ teaching that the believers are one brotherhood (49.10).
 ## How is this topic examined?
 
 In Cambridge IGCSE 0493 Paper 2 (1 hour 30 minutes, 50 marks), the set Hadiths is examined by Question 1, which is compulsory: you choose two of the Hadiths printed and answer part (a) on their teaching (4 marks) and part (b) on how Muslims apply them (4 marks). Each answer has a knowledge part and a shorter part asking for understanding or significance, so revise every point with a reason why it matters to Muslims, not just the facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-major-teachings-in-the-hadiths--02-hadith-answer-structure.webp" width="900" height="700" alt="Four passages are printed and you choose two, writing two paragraphs on each. Paragraph one explains the teaching in your own words with its key phrase; paragraph two applies it today with a concrete example and a supporting verse or Hadith. A final box gives the test: could the example only apply to this Hadith?" loading="lazy">
+  <figcaption>Teaching, then application: two paragraphs per Hadith, with a specific example.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

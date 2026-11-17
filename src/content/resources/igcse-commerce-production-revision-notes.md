@@ -68,6 +68,16 @@ Commerce (trade plus aids to trade) sits within the tertiary sector, alongside d
 
 The syllabus gives this as a closed, four-sector list — there is no fifth sector, and no separate "genetic" category: farming, fishing and forestry sit inside primary (extractive), and construction sits inside secondary, not as standalone branches of their own.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--08-cp-sectors.webp" width="900" height="820" alt="Primary (extractive), secondary, tertiary (commercial and direct services) and quaternary (digital technology): a closed list of four." loading="lazy">
+  <figcaption>Four sectors of production, with the lesson examples.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--12-cp-commerce-tree.webp" width="900" height="790" alt="Commerce splits into trade and aids to trade; trade into home and foreign trade; six aids to trade listed." loading="lazy">
+  <figcaption>Commerce is trade plus aids to trade.</figcaption>
+</figure>
+
 ## Specialisation
 
 **Specialisation** means concentrating on producing one thing, or one part of a process, rather than a whole range. The syllabus asks for the advantages and disadvantages of specialisation in three specific contexts — **an individual, a factory and a country** (not region, town or worker/firm):
@@ -80,6 +90,11 @@ The syllabus gives this as a closed, four-sector list — there is no fifth sect
 
 Specialisation is the reason exchange — and therefore commerce — becomes necessary: a specialised individual, factory or country produces far more of one thing than it needs and far less of everything else.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-production--02-specialisation-grid.webp" width="900" height="730" alt="A grid of advantages and disadvantages of specialisation for an individual, a factory and a country, such as skill and speed against boring work, lower unit cost against dependence on one product, and export income against dependence on imports." loading="lazy">
+  <figcaption>Use the level the question names: individual, factory or country.</figcaption>
+</figure>
+
 ## The chain of production
 
 ```
@@ -87,6 +102,11 @@ extraction -> manufacture -> wholesale -> retail -> consumer
 ```
 
 Each stage **adds value**. Value can be added by processing, by branding, by breaking bulk, by transporting to where the good is wanted, and by storing it until it is wanted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--10-cp-intermediaries.webp" width="900" height="720" alt="Home trade chain manufacturer, wholesaler, retailer, consumer. International trade adds the agent, who does not own the goods, and the factor, who holds goods on consignment and earns a commission." loading="lazy">
+  <figcaption>Home trade has wholesaler and retailer; international trade adds agent and factor.</figcaption>
+</figure>
 
 ## Functions of the wholesaler
 
@@ -102,6 +122,11 @@ Six functions, and the marks are for saying **who benefits**:
 | **Granting credit** | Improves retailers' cash flow |
 
 **Elimination of the wholesaler** happens where manufacturers sell direct to large retailers or consumers — supermarkets buying in bulk, e-commerce, mail order, and perishable or bulky goods. The wholesaler survives where retailers are small and numerous.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--03-wholesaler-transactions.webp" width="900" height="1140" alt="Top panel: four factories each connected directly to six shops by 24 crossing lines, labelled 4 times 6 equals 24 deals. Bottom panel: the same four factories and six shops all connected through one wholesaler warehouse, giving 4 plus 6 equals 10 deals. The numbers are illustrative." loading="lazy">
+  <figcaption>With one wholesaler in the chain there are far fewer separate deals (illustrative numbers).</figcaption>
+</figure>
 
 ## Retailing
 
@@ -126,6 +151,11 @@ Confusing balance of trade with balance of payments is the most common error her
 
 **Barriers to trade (trade restrictions):** tariffs (taxes on imports), quotas (quantity limits) and embargoes (bans) — three types. Purposes: protecting infant industries, protecting employment, correcting a deficit, and retaliation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--02-home-and-international-trade.webp" width="900" height="630" alt="Inside Country A, a producer sells in bulk to a wholesaler (wholesale trade) and a retailer sells small quantities to consumers (retail trade). Goods sold to a buyer in Country B are exports, bringing money in; goods bought from Country B are imports, sending money out." loading="lazy">
+  <figcaption>Ask where the buyer and seller are: same country is home trade, different countries is international trade.</figcaption>
+</figure>
+
 ## Aids to trade
 
 | Aid | How it assists trade |
@@ -140,6 +170,16 @@ Confusing balance of trade with balance of payments is the most common error her
 **Insurance (Topic 5 content — noted here for reference only; not part of Topic 1).** The syllabus does not test the six classical "principles of insurance" or an insurable/uninsurable-risk distinction. What it actually requires is: (1) the **purposes** of insurance — risk reduction, compensation, financial protection, business confidence and investment; (2) the **named types of insurance risk** — consequential loss, employer's liability, fire, motor, premises, public liability and theft; (3) how enterprises **make use of** insurance — pooling of risk, calculation of premiums, the named insurance documents (proposal form, cover note, policy), and the role of an insurance broker.
 
 *Worked example (premium calculation):* if an insurer pools 1,000 similar risks and expects total claims of $150,000 in a year, the basic premium per policyholder is $150,000 ÷ 1,000 = **$150**, before the insurer adds its own costs and profit margin.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trade-and-commerce--03-aids-remove-barriers.webp" width="900" height="635" alt="Between producer and consumer stand six barriers, each removed by one aid to trade: lack of information by communications, distance by transport, time by warehousing, lack of knowledge by advertising, payment and finance by banking, and risk by insurance." loading="lazy">
+  <figcaption>Link each aid to the barrier it removes to turn a list into an explanation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commerce-and-production--13-cp-aids-ice-cream.webp" width="900" height="700" alt="Warehousing gives time utility, transport gives place utility, insurance covers spoilage and transit risk, banking provides working capital and payment." loading="lazy">
+  <figcaption>Four aids to trade for an ice cream maker.</figcaption>
+</figure>
 
 ## Exam traps
 

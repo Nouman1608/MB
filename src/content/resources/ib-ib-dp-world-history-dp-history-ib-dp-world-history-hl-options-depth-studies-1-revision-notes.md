@@ -34,6 +34,11 @@ These notes condense widely taught content areas in the HL History of Africa and
 | Time | 2 hours 30 minutes; about 50 minutes per essay |
 | Marks | 15 per essay, 45 in total |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-hl-options-depth-studies-study-guide--13-hl-funnel.webp" width="900" height="1073" alt="A funnel in four steps. The history of Africa and the Middle East, the Americas, Asia and Oceania, and Europe are the four regional options; your school picks one. Each option has 18 sections, shown as 18 numbered tiles, and each section has two questions, 36 questions in all. Your school chooses three sections to study, highlighted in gold; which three is only an example. On the paper you answer any three questions, each an essay marked out of 15." loading="lazy">
+  <figcaption>You study three of eighteen sections and answer any three of 36 questions.</figcaption>
+</figure>
+
 ## Imperialism and resistance (late nineteenth century)
 
 **Causes of the partition of Africa**
@@ -53,6 +58,16 @@ These notes condense widely taught content areas in the HL History of Africa and
 - 1900: Asante rising led by Yaa Asantewaa.
 - 1904-08: Herero and Nama rising and its destruction in German South West Africa.
 - 1905-07: Maji Maji rising in German East Africa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--01-partition-motives.webp" width="900" height="549" alt="Four explanations surround the partition of Africa: economic motives, strategic rivalry over the route to India, nationalism and prestige, and technology such as quinine, steamships and the machine gun. They lead to the Berlin Conference of 1884-85, which set the rule of effective occupation; by 1914 only Ethiopia and Liberia were independent." loading="lazy">
+  <figcaption>Explanations combine motive and means; the Berlin Conference set the rules for claims.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--02-african-responses.webp" width="900" height="846" alt="Five cases of African response on a time scale from 1880 to 1910. The Mahdist state lasted from 1885 until defeat at Omdurman in 1898; Samori Touré resisted France until captured in 1898; the Herero and Nama were destroyed in 1904-08; Maji Maji in 1905-07 was suppressed. Only Ethiopia, after victory at Adwa on 1 March 1896, preserved its independence." loading="lazy">
+  <figcaption>Most resistance was crushed; Ethiopia at Adwa is the exception to explain.</figcaption>
+</figure>
 
 ## South Africa, 1899-1994
 
@@ -75,6 +90,16 @@ These notes condense widely taught content areas in the HL History of Africa and
 - 2 February 1990: de Klerk unbans the ANC; 11 February: Mandela released.
 - 27 April 1994: first universal elections.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--03-south-africa-phases.webp" width="900" height="852" alt="A bar from 1899 to 1994 split to scale into the five periods 1899-1910, 1910-48, 1948-60, 1960-76 and 1976-94. Key dates hang below, from the Natives Land Act of 1913 and the National Party victory of 1948 to Sharpeville in 1960, Soweto in 1976, Mandela's release in 1990 and the elections of 27 April 1994." loading="lazy">
+  <figcaption>Apartheid had phases: learn which laws and protests belong to which.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--04-why-apartheid-ended.webp" width="900" height="479" alt="Four factor cards, internal resistance, economic pressure, the end of the Cold War and the decisions of de Klerk and Mandela, each with an arrow into one box: apartheid ends, from Mandela's release on 11 February 1990 to the elections of 27 April 1994." loading="lazy">
+  <figcaption>No single factor ended apartheid: weigh all four.</figcaption>
+</figure>
+
 ## Egypt and the Arab-Israeli conflict
 
 | Date | Event |
@@ -90,6 +115,11 @@ These notes condense widely taught content areas in the HL History of Africa and
 | 1978-79 | Camp David Accords; Egypt-Israel peace treaty |
 | October 1981 | Sadat assassinated |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--05-egypt-arab-israeli-wars.webp" width="900" height="751" alt="A vertical timeline from 1948 to 1981. Gold dots mark the four wars: 1948 (after Israel was declared on 14 May), 1956 (the Suez crisis after Nasser nationalized the canal company), the Six-Day War of June 1967 and the October 1973 war followed by the oil embargo. Other entries: the Free Officers' coup of 1952, the United Arab Republic of 1958-61, Camp David in 1978, the peace treaty of 1979 and Sadat's assassination in 1981." loading="lazy">
+  <figcaption>Four wars, four sets of causes and results: 1948, 1956, 1967, 1973.</figcaption>
+</figure>
+
 ## Iran, 1951-1979
 
 - 1951: Mosaddegh nationalizes oil.
@@ -99,6 +129,11 @@ These notes condense widely taught content areas in the HL History of Africa and
 - 1978: mass protests, strikes; martial law.
 - January 1979: the Shah leaves; 1 February: Khomeini returns.
 - 1979: Islamic Republic established; US embassy hostage crisis begins (November).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1--06-iran-road-to-1979.webp" width="900" height="725" alt="A vertical timeline of Iran: Mosaddegh nationalizes oil in 1951 and is overthrown in a coup backed by Britain and the USA in 1953; the White Revolution from 1963; the single-party Rastakhiz system of 1975; economic crisis after 1975; mass protest in 1978; the Shah leaves in January 1979, Khomeini returns on 1 February and the Islamic Republic is established after a referendum that spring." loading="lazy">
+  <figcaption>Modernization, repression and economic crisis came before the revolution of 1978-79.</figcaption>
+</figure>
 
 ## Key terms
 

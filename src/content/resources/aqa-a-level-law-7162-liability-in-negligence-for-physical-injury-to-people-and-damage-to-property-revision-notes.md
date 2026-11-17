@@ -34,6 +34,11 @@ DUTY  ->  BREACH  ->  CAUSATION (but for)  ->  REMOTENESS (foreseeable type)
 Burden: claimant, balance of probabilities
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--01-negligence-stages.webp" width="900" height="1120" alt="A flow of three stages: duty of care, breach, and damage, with damage split into factual cause and legal cause. A claim fails if any one stage is not met. If all three are made out the claim is established." loading="lazy">
+  <figcaption>Negligence runs duty, breach, damage in a fixed order, and failing any one stage defeats the claim.</figcaption>
+</figure>
+
 ## Duty of care
 
 - **Neighbour principle:** *Donoghue v Stevenson* (1932), Lord Atkin. Persons so closely and directly affected that you ought reasonably to have them in contemplation.
@@ -49,6 +54,16 @@ Burden: claimant, balance of probabilities
 | Police for positive acts | *Robinson* (2018) |
 
 **No duty:** claimant not foreseeable (*Bourhill v Young*, 1943); not fair, just and reasonable (*Hill*, 1989).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-tort--02-duty-route.webp" width="900" height="980" alt="A decision picture: if the duty situation is already established by precedent, the duty exists and Caparo need not be applied. If the situation is novel, the Caparo three-part test is applied. Either way the next question is breach." loading="lazy">
+  <figcaption>Check precedent first; use the Caparo test only for a novel duty situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--01-caparo-cases.webp" width="900" height="648" alt="Established categories such as road users, doctor and patient, employer and employee, and manufacturer and consumer need no fresh test; novel situations are decided incrementally. A table links each Caparo question to a case: Bourhill v Young (foreseeability), Kent v Griffiths (proximity), Hill (fair, just and reasonable) and Robinson (positive act)." loading="lazy">
+  <figcaption>Use Caparo’s questions for novel situations; established categories just need an authority.</figcaption>
+</figure>
 
 ## Breach of duty
 
@@ -71,6 +86,16 @@ Burden: claimant, balance of probabilities
 | High cost / impracticable precaution | Lowers | *Latimer v AEC* (1953) |
 | Social utility | Lowers | *Watt v Herts CC* (1954); *Daborn v Bath Tramways* (1946) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--02-standard-of-care.webp" width="900" height="601" alt="A table of special standards: learners are judged as competent practitioners (Nettleship v Weston); children against a reasonable child of the same age (Orchard v Lee); amateurs as reasonable amateurs (Wells v Cooper); professionals by a responsible, logical body of opinion (Bolam; Bolitho); and knowledge at the time (Roe)." loading="lazy">
+  <figcaption>The test is objective, but the reasonable person is matched to the defendant’s position.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--03-risk-balance.webp" width="900" height="668" alt="A balance: risk on one pan, precaution on the other, weighed as a question of proportion. Haley v London Electricity Board shows foreseeable vulnerability (a blind pedestrian) raising the precautions needed; Daborn v Bath Tramways shows social utility justifying a risk. A cheap precaution against a serious risk is expected; an extravagant one against a small risk is not." loading="lazy">
+  <figcaption>Breach is a balance: the greater the risk, the more precaution a reasonable person takes.</figcaption>
+</figure>
+
 ## Damage
 
 **Factual causation:** "but for" test.
@@ -90,6 +115,11 @@ Burden: claimant, balance of probabilities
 | Extent unforeseeable: thin skull rule | *Smith v Leech Brain* (1962) |
 
 **Property damage:** same stages; *The Wagon Mound* was a wharf-damage claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property--04-causation-remoteness.webp" width="900" height="808" alt="Three hurdles: factual causation by the but for test (McWilliams failed it); no intervening act breaking the chain (Knightley v Johns); and remoteness, where the type of damage must be foreseeable (Wagon Mound). Hughes, Jolley and Bradford show a foreseeable type is enough; Doughty shows a different type is too remote; the thin skull rule applies once some harm is foreseeable (Smith v Leech Brain)." loading="lazy">
+  <figcaption>But for, then no break in the chain, then a foreseeable type of damage.</figcaption>
+</figure>
 
 ## Evaluation points
 

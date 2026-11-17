@@ -49,6 +49,11 @@ The definition that scores is **context**. The syllabus wording is that data bec
 
 "May be in the wrong format" is an easy disadvantage of indirect data to forget.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--07-dp-data-information.webp" width="900" height="650" alt="The number 37 alone is data. Adding context and meaning, 37 degrees Celsius a patient’s temperature, makes it information. Information quality depends on accuracy, relevance, age, level of detail and completeness." loading="lazy">
+  <figcaption>Data plus context and meaning is information; five factors affect its quality.</figcaption>
+</figure>
+
 ## 1.2 Quality of information
 
 The syllabus gives five examples of factors that affect the quality of information; learn these first:
@@ -68,6 +73,11 @@ Poor-quality information leads to poor decisions — the practical reason valida
 - **Asymmetric** — a public key encrypts and only the matching private key decrypts. Solves key sharing, but slower. Systems often use asymmetric encryption to swap a symmetric key.
 - **Protocols:** **TLS/SSL** secures a client–server session (e.g. a browser and a bank's server); **IPsec** encrypts and authenticates all packets between two hosts or networks, as in a VPN. TLS/SSL is simple to deploy per application; IPsec covers all traffic but is harder to configure.
 - **Uses:** protection of data (in transit and stored) and **systems encryption** (a whole disk or device).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--12-dp-encryption.webp" width="900" height="1060" alt="Symmetric encryption uses one shared key to encrypt and decrypt; it is fast but the key must be shared securely. Asymmetric encryption uses a linked public and private key; the private key is never sent. Many systems use asymmetric encryption to share a symmetric key, then switch to symmetric." loading="lazy">
+  <figcaption>Symmetric uses one shared key; asymmetric uses a public and private pair.</figcaption>
+</figure>
 
 ## 1.4 Checking the accuracy of data
 
@@ -103,6 +113,16 @@ The syllabus names nine validation checks:
 
 **Advantages and disadvantages.** Validation is automatic and instant, but it only proves data is reasonable. Verification catches copying and transmission errors, but visual checking and double entry take extra time and staff, and a parity check misses an error that flips two bits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--08-dp-validation-verification.webp" width="900" height="920" alt="Validation (software, as data is entered) asks whether data is reasonable: range, type, length, presence, format, check digit, lookup, consistency, limit. Verification asks whether data was entered or transferred accurately: visual checking, double data entry, parity check, checksum, hash total, control total. Neither guarantees correct data." loading="lazy">
+  <figcaption>Validation checks reasonableness; verification checks accurate entry or transfer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--09-dp-parity-check.webp" width="900" height="740" alt="Seven data bits 1011001 have four 1s so an even-parity bit 0 is added. One flipped bit gives five 1s (odd) and is detected. Two flipped bits leave four 1s (even), so the error is missed." loading="lazy">
+  <figcaption>A parity check catches one wrong bit but misses two.</figcaption>
+</figure>
+
 ## 1.5 Data processing
 
 | Method | Description | Syllabus uses |
@@ -119,6 +139,16 @@ The syllabus names nine validation checks:
 
 > **Also in the syllabus (topic 10, Database and file concepts) — not part of topic 1.**
 > Databases are often revised alongside data processing, but in the 2025–2027 syllabus they belong to topic 10: flat-file versus relational databases, primary, foreign, compound and composite keys, **referential integrity** (every foreign key value must match an existing primary key, so records cannot be orphaned) and normalisation to 3NF. Revise them with topic 10, not with topic 1.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--11-dp-processing-methods.webp" width="900" height="1090" alt="Batch: transactions are collected and processed together with no user interaction, for example payroll. Online: each transaction is processed as it occurs, such as a booking, so the master file is always current. Real-time: sensors feed a processor that drives actuators and the changed conditions are measured again." loading="lazy">
+  <figcaption>Batch, online and real-time processing differ in when and how transactions are processed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-ict-data-processing-and-information--10-dp-master-update.webp" width="900" height="750" alt="Both files are in key order. If keys differ the master record is copied; if they match the transaction is applied. In the illustrative example 101 and 103 are copied, 102 becomes 10 and 104 becomes 20. The old master is kept as a backup." loading="lazy">
+  <figcaption>Sequential update copies unmatched master records and applies matching transactions.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -77,6 +77,16 @@ Maximum comparisons ≈ log₂ n, rounded up: 1000 items need at most 10 (2¹⁰
 
 Trace on 3, 8, 12, 17, 21, 26, 30, 35, 41 for 10: Mid 5 (21 > 10, Upper 4); Mid 2 (8 < 10, Lower 3); Mid 3 (12 > 10, Upper 2); Lower > Upper, so not found.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--08-ct-binary-search-found.webp" width="900" height="960" alt="Binary search for 46 in the sorted list of 11 values: mid 6 (31), mid 9 (58), mid 7 (40), mid 8 (46), found at position 8 after 4 comparisons." loading="lazy">
+  <figcaption>Binary search halves the range until 46 is found in 4 comparisons.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--09-ct-binary-search-missing.webp" width="900" height="1120" alt="Binary search for 30: mids 6, 3, 4, 5 move High to 5 then Low to 6; Low is greater than High, so 30 is not in the list after 4 comparisons." loading="lazy">
+  <figcaption>When Low passes High the item is not in the list.</figcaption>
+</figure>
+
 ## Sorting
 
 ```
@@ -100,6 +110,11 @@ NEXT Pointer
 | Nearly sorted data | Few passes with the flag | Very fast: few shifts |
 
 Performance depends on **the number of items** and **their initial order**. Keep the two algorithms distinct: an insertion sort shifts items along, it does not swap neighbours pass after pass (June 2024 to June 2025 examiner reports).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--10-ct-insertion-sort.webp" width="900" height="880" alt="Insertion sort on the illustrative list 6, 3, 8, 2, 5, one row per pass with the sorted section shaded and shifted items marked." loading="lazy">
+  <figcaption>Insertion sort shifts larger sorted items right and inserts each new item in the gap.</figcaption>
+</figure>
 
 ## ADT operations
 
@@ -134,6 +149,11 @@ Insert 50, 30, 70, 20, 40, 60, 80, 35 in that order.
 
 Root = 1. Finding 35: 50 (go left) → 30 (go right) → 40 (go left) → 35, four comparisons. Compare the data in the nodes, not the nodes themselves (June 2025).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--11-ct-tree-traversals.webp" width="900" height="1030" alt="A binary search tree of illustrative values with in-order, pre-order and post-order outputs listed and their lesson uses." loading="lazy">
+  <figcaption>The three traversals visit the same nodes in different orders.</figcaption>
+</figure>
+
 ## Graphs and implementing ADTs
 
 **Graph**: nodes joined by edges; edges may be weighted and/or directed; stored as an adjacency matrix or adjacency list. Justify a graph when the data is a network of connections (roads, computer networks, social links) and routes or relationships matter.
@@ -158,6 +178,11 @@ Root = 1. Finding 35: 50 (go left) → 30 (go right) → 40 (go left) → 35, fo
 
 **Space complexity** measures extra memory: bubble and insertion sorts are O(1) (they sort in place); a recursive algorithm uses O(depth) stack space.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--12-ct-big-o-growth.webp" width="900" height="960" alt="Growth curves for O(1), O(log n), O(n), O(n log n), O(n squared) and O(2 to the n) with a legend, and the effect of doubling n." loading="lazy">
+  <figcaption>Higher orders of growth need far more steps as n grows.</figcaption>
+</figure>
+
 ## Recursion
 
 Essential features:
@@ -181,6 +206,16 @@ ENDFUNCTION
 **What the compiler must do**: each call pushes a **stack frame** holding the return address, parameters and local variables; when a call returns, its frame is popped and execution continues at the return address with the returned value. Too many calls without reaching the base case cause a **stack overflow**.
 
 **When is recursion beneficial?** When the problem is defined in terms of smaller versions of itself (tree traversal, divide and conquer, factorial): the code is shorter and closer to the definition. **Drawbacks**: more memory and time for the stack frames, and the risk of stack overflow; an iterative version is often more efficient.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--13-ct-call-stack-factorial.webp" width="900" height="812" alt="Four stacked frames for Factorial(4) to Factorial(1); calls wind up, then returns 1, 2, 6, 24 unwind in reverse." loading="lazy">
+  <figcaption>Each recursive call adds a frame; the returns unwind in reverse order.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide--14-ct-fibonacci-calls.webp" width="900" height="930" alt="Call tree for Fib(5) with 15 calls; the two Fib(3) sub-trees are highlighted as repeated work. Fib(6) needs 25 calls." loading="lazy">
+  <figcaption>Recursive Fibonacci recalculates the same values many times.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

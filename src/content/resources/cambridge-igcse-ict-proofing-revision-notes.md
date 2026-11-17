@@ -52,6 +52,11 @@ Spell check compares words with a dictionary and suggests corrections, but:
 
 Grammar check finds some errors (for example subject–verb agreement) but can also suggest changes that alter the meaning. **Always read the suggestion before accepting it.**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--07-spell-check-sentence.webp" width="900" height="734" alt="The lesson sentence is shown before and after spell checking. Three misspellings are flagged; &quot;there&quot; for &quot;their&quot; and the non-existent date 31 February remain, giving five errors in total." loading="lazy">
+  <figcaption>A spell checker finds three of the five errors; a person must find the rest.</figcaption>
+</figure>
+
 ## Validation checks
 
 **Validation** is an automatic check by the computer that data entered is **reasonable and sensible** and follows set rules. It cannot tell whether the data is correct.
@@ -80,6 +85,16 @@ Grammar check finds some errors (for example subject–verb agreement) but can a
 - Verification can confirm data was copied accurately, even when the **source itself was unreasonable** — an impossible value copied faithfully would pass.
 - Used together they catch more errors: validation stops unreasonable data, verification stops copying mistakes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--09-valid-vs-verify.webp" width="900" height="914" alt="A mark of 68 on a form is typed four ways. Validation rejects 105 and &quot;eighty&quot; but accepts 86 because it is reasonable; only verification against the form shows 86 is wrong." loading="lazy">
+  <figcaption>Data can pass validation and still be wrong; verification catches copying errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--10-double-entry.webp" width="900" height="834" alt="Two typists enter the same marks and the computer compares them. One row differs, so the difference is checked against the paper form. The marks are illustrative." loading="lazy">
+  <figcaption>Double data entry has the computer report differences between two typed copies.</figcaption>
+</figure>
+
 ## Visual verification: errors to find
 
 | Error | Example |
@@ -97,12 +112,27 @@ Grammar check finds some errors (for example subject–verb agreement) but can a
 - **Inconsistent or incorrect application of styles** — every heading should use the heading style.
 - **Tables and lists split** across columns, pages or slides — keep them together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--11-layout-traps.webp" width="900" height="1040" alt="Two page outlines show a stranded heading at the foot of page 1 and a single line followed by blank lines at the top of page 2." loading="lazy">
+  <figcaption>Look for stranded headings, lone lines and extra blank lines.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--12-proof-stages.webp" width="900" height="830" alt="Four cards show proofing in order: content, then language, then layout and consistency, then a last check after any final change." loading="lazy">
+  <figcaption>Proof in stages, and check again after the final change.</figcaption>
+</figure>
+
 ## Worked example: validation or verification?
 
 *A clerk types a customer's phone number, 07700 900123, as 07700 900132.*
 
 - A **length** or **format** check will accept it: it still has the right number of digits.
 - Only **verification** (visual check against the form, or double entry) would find the transposed digits.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-proofing-study-guide--08-which-check.webp" width="900" height="992" alt="Six example errors are each matched to the check that catches them: spell checker, grammar checker, proofreading, range check, date or format check, or verification." loading="lazy">
+  <figcaption>Match each error to the software check or human check that can catch it.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

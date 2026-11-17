@@ -38,6 +38,11 @@ Condensed notes for **sub-topic 2.2 Outsourcing** in Cambridge O Level Commerce 
 | Fixed cost | A cost that does not change with output, such as warehouse rent |
 | Variable cost | A cost that rises and falls with output, such as a fee per order |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-cambridge-commerce-outsourcing-wholesaling-and-communication--08-o-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
 ## The two growth areas
 
 **Contract manufacturing**
@@ -51,6 +56,21 @@ Condensed notes for **sub-topic 2.2 Outsourcing** in Cambridge O Level Commerce 
 - What it is: a provider stores, packs, moves and delivers the client's goods, and may handle returns and export paperwork.
 - Why it has grown: the rise of **ecommerce** and parcel deliveries; customer expectations of fast delivery and tracking; complex cross-border trade; costs that rise and fall with sales.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--01-contract-manufacturing-examples.webp" width="900" height="585" alt="Three pairs: a juice brand and a bottling plant, a cosmetics company and a laboratory-equipped factory, and an electronics brand and a specialist assembler abroad. In each, the client sends the design and the contractor sends back the goods." loading="lazy">
+  <figcaption>The client designs, brands and sells; the contractor makes the goods to its specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--02-why-contract-manufacturing-grew.webp" width="900" height="620" alt="Six reasons each linked to its effect: lower start-up costs, specialist expertise and equipment, economies of scale, flexibility, focus on core activities, and global supply chains with digital communication." loading="lazy">
+  <figcaption>Explain why each reason makes contract manufacturing attractive to a client.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--03-contract-logistics.webp" width="900" height="625" alt="A provider receives and stores goods, picks and packs orders, delivers them and handles returns, and can arrange export documents and customs with freight forwarders. Four reasons for growth: ecommerce, customer expectations, global trade, and costs that move with sales." loading="lazy">
+  <figcaption>Contract logistics covers storage, packing, delivery, returns and documents, not just transport.</figcaption>
+</figure>
+
 ## Benefits versus risks
 
 | Benefits | Risks |
@@ -63,6 +83,11 @@ Condensed notes for **sub-topic 2.2 Outsourcing** in Cambridge O Level Commerce 
 
 **Link to 1.2.2:** in-house wins on *control on quality and information*; outsourcing wins on *accessing expertise and cost savings*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--04-benefits-and-risks.webp" width="900" height="580" alt="Five benefits of outsourcing, such as no need to buy factories and lower cost per unit, beside five risks, such as less control over quality, dependence on the contractor and reputation damage." loading="lazy">
+  <figcaption>A judgement weighs benefits against risks for the particular product.</figcaption>
+</figure>
+
 ## Calculation pattern
 
 When a question gives figures:
@@ -73,6 +98,11 @@ When a question gives figures:
 4. Comment: fixed in-house costs make outsourcing relatively cheaper when output is low.
 
 *Invented example:* in-house costs $6,000 for 1,500 orders = $4.00 per order; provider charges $3.20 per order = $4,800, so outsourcing saves $1,200.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-outsourcing--05-bloom-box-logistics.webp" width="900" height="665" alt="In-house logistics for 2,000 orders costs $8,000 ($4.00 per order) against $7,000 from a provider at $3.50 per order. At 800 orders in-house costs $7,520 ($9.40 per order) against $2,800 from the provider." loading="lazy">
+  <figcaption>Mostly fixed in-house costs make outsourcing even cheaper when sales are low.</figcaption>
+</figure>
 
 ## Exam traps
 

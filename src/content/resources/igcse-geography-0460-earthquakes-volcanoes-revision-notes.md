@@ -60,6 +60,11 @@ the upper plate crumples into **fold mountains**.
 the gap. The runny basalt lava erupts gently and builds new ocean floor, a mid-ocean ridge and, where
 the ridge rises above the sea as in **Iceland**, shield-type volcanoes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--14-ev-plate-boundaries.webp" width="900" height="1270" alt="Three diagrams. At a constructive boundary plates move apart and magma rises through the gap, giving volcanic activity. At a destructive boundary plates move together and one is subducted, giving both volcanoes and powerful earthquakes. At a conservative boundary plates slide past each other, giving earthquakes but no volcanoes because no magma is generated." loading="lazy">
+  <figcaption>Constructive: volcanic. Destructive: volcanic and seismic. Conservative: seismic only.</figcaption>
+</figure>
+
 ## Volcano and earthquake terms
 
 - **Volcano features:** crater, vent, magma chamber.
@@ -78,6 +83,16 @@ the ridge rises above the sea as in **Iceland**, shield-type volcanoes.
 so it does not flow far before cooling, building steep slopes of alternating ash and lava. Gas
 cannot escape easily, so pressure builds until it erupts violently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--15-ev-volcano-types.webp" width="900" height="1080" alt="Two cross-sections. A strato-volcano, also called a composite cone, has steep sides built in layers. A shield volcano is much wider and gently sloping. Both show the crater at the top, the vent running down the middle, and the magma chamber below the ground." loading="lazy">
+  <figcaption>Strato (composite) and shield volcanoes, with the crater, vent and magma chamber labelled.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--16-ev-focus-epicentre-magnitude.webp" width="900" height="1010" alt="A cross-section of the ground. The focus is the point underground where the earthquake starts, with rings of seismic waves spreading out from it. The epicentre is the point on the surface directly above the focus. Below, a trace with a large wiggle illustrates that magnitude is the measured size of the earthquake." loading="lazy">
+  <figcaption>The focus is underground; the epicentre is the surface point directly above it; magnitude is the measured size.</figcaption>
+</figure>
+
 ## Distribution: describe then explain
 
 Earthquake and volcano locations trace the plate boundaries, most clearly around the Pacific
@@ -91,6 +106,11 @@ Earthquake and volcano locations trace the plate boundaries, most clearly around
 **Describing a distribution map:** say they form **long, narrow belts**, give a named belt (the
 Ring of Fire, the mid-Atlantic ridge), and note exceptions such as volcanoes in mid-plate locations
 like **Hawaii**, which sit over a hot spot rather than a boundary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--17-ev-ring-of-fire-pairs.webp" width="900" height="1110" alt="Four small diagrams. Japan: the Pacific Plate is subducted beneath it. Chile: the Nazca Plate is subducted beneath the South American Plate. Indonesia: the Indo-Australian Plate is subducted beneath the Sunda Plate. All three give earthquakes and volcanoes. California: the Pacific and North American plates slide past each other at the San Andreas Fault, giving earthquakes only." loading="lazy">
+  <figcaption>Subduction gives earthquakes and volcanoes at different plate pairs around the Ring of Fire; sliding plates in California give earthquakes only.</figcaption>
+</figure>
 
 ## Hazards, opportunities and management
 
@@ -111,6 +131,11 @@ For volcanoes you must cover **both hazards and opportunities**; a one-sided ans
 - Family ties, a lack of alternative land, or a belief that the volcano will not erupt in their
   lifetime also keep people there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--18-ev-hazards-opportunities.webp" width="900" height="1040" alt="A volcano labelled with three hazards: lava flows down the slope, ash fall from an ash cloud, and pyroclastic flows rushing down the side. Below, three opportunities: fertile volcanic soils for farming, geothermal energy, and tourism. A strong answer weighs both hazards and opportunities." loading="lazy">
+  <figcaption>Volcanoes bring hazards (lava, ash, pyroclastic flows) and opportunities (fertile soil, geothermal energy, tourism).</figcaption>
+</figure>
+
 ### How earthquake damage is reduced
 
 - **Buildings:** deep foundations, steel frames that bend rather than snap, rubber shock absorbers in
@@ -122,6 +147,11 @@ For volcanoes you must cover **both hazards and opportunities**; a one-sided ans
 
 Earthquakes **cannot be predicted** precisely, but volcanoes often give warning signs: small
 earthquakes, swelling of the ground and changes in gas emissions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-earthquakes-and-volcanoes--19-ev-reduce-impacts.webp" width="900" height="880" alt="Three measures drawn as icons: hazard monitoring and warning systems (a recording trace), building design standards suited to earthquake-prone areas (a braced building), and evacuation planning (people moving away from a house)." loading="lazy">
+  <figcaption>Monitoring and warning, building design standards and evacuation planning reduce the impact of earthquakes and volcanoes.</figcaption>
+</figure>
 
 ### Primary and secondary effects
 

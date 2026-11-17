@@ -35,6 +35,11 @@ developed points; each 4-mark part (b) needs two explained reasons.
 Guided Caliphs; major themes in the set and similar passages; use in legal thinking with the Hadiths,
 ijma' and qiyas; significance as the basis of all thought and action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--01-question-2-strands.webp" width="900" height="466" alt="Question 2 is compulsory and worth 14 marks: a 10-mark knowledge part (a) and a 4-mark understanding part (b). It covers five strands: revelation from 610 to 632, compilation, major themes, use in legal thinking, and significance as the basis of thought and action." loading="lazy">
+  <figcaption>A compulsory question: no strand can be left unrevised.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -75,6 +80,26 @@ war and peace.
 to memorise and act upon (Sura 17.106); answered real situations; introduced laws step by step, as with
 the ban on intoxicants (Sura 5.90).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--02-how-revelation-began.webp" width="900" height="676" alt="A sequence from 610: retreat in the cave of Hira; Jibril commands &quot;Read!&quot; and recites the first five verses of Sura 96 on the Night of Power; Khadija reassures the Prophet (pbuh) and takes him to Waraqa ibn Nawfal, who recognises the angel; a pause in revelation; then Sura 74 commands him to &quot;arise and warn&quot;." loading="lazy">
+  <figcaption>From Hira to &quot;arise and warn&quot;: the start of revelation and of the mission.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--03-modes-of-revelation.webp" width="900" height="556" alt="Four modes of revelation: like the ringing of a bell, the hardest on him; Jibril in the form of a man; Jibril in his true form, seen rarely (Sura 53); and true dreams. All are wahy, distinct from the Prophet's (pbuh) own words, which are recorded as Hadiths." loading="lazy">
+  <figcaption>Name more than one mode; keep revelation distinct from Hadith.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--04-gradual-revelation.webp" width="900" height="678" alt="Revelation lasted about 23 years: some 13 in Makkah, with mostly short passages on belief, and 10 in Madinah, with longer passages including laws. Reasons: &quot;to strengthen your heart&quot; (Sura 25.32), recitation &quot;at intervals&quot; (Sura 17.106), answers to events, and rulings in steps, ending with the complete ban on intoxicants in Sura 5.90." loading="lazy">
+  <figcaption>Belief first in Makkah, law in Madinah, and rulings introduced step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--05-preservation.webp" width="900" height="648" alt="Four means of preservation: memorisation by huffaz, writing by scribes such as Zayd ibn Thabit on parchment, palm stalks, stones and bones, the order of passages set by the Prophet (pbuh), and an annual review with Jibril. By his death in 632 the Qur'an was complete in memory and writing, but not one bound volume." loading="lazy">
+  <figcaption>Complete in memory and writing by 632, but not in a single volume.</figcaption>
+</figure>
+
 ## Compilation: two stages
 
 | | Abu Bakr | Uthman |
@@ -92,6 +117,16 @@ the ban on intoxicants (Sura 5.90).
 moving a mountain would have been easier; the last verses of Sura 9 found written only with Abu
 Khuzayma al-Ansari; Hafsa's role as keeper of the sheets.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--06-compilation-journey.webp" width="900" height="754" alt="Two flows. Under Abu Bakr: huffaz die at Yamama, Umar urges Abu Bakr, Zayd ibn Thabit collects the written pieces confirmed by memory, and the sheets pass to Umar and then Hafsa. Under Uthman: Hudhayfa warns of disputes, Uthman borrows Hafsa's sheets, a committee of four copies them in the Quraysh dialect, and copies are sent out while other copies are burned." loading="lazy">
+  <figcaption>Hafsa's sheets link Abu Bakr's compilation to Uthman's standard copies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--07-compiled-vs-standardised.webp" width="900" height="624" alt="A comparison of the two stages: under Abu Bakr the problem was the loss of huffaz at Yamama and the result one written collection; under Uthman the problem was differing recitation and the result standard copies sent to the main centres. Uthman is called Jami' al-Qur'an, but he did not write it." loading="lazy">
+  <figcaption>Compilation saved the text; standardisation gave all Muslims the same text.</figcaption>
+</figure>
+
 ## The Qur'an in legal thinking
 
 - **Qur'an:** first source; nothing may contradict it.
@@ -102,6 +137,11 @@ Khuzayma al-Ansari; Hafsa's role as keeper of the sheets.
 
 **Order of use:** Qur'an first, then Hadith; if neither answers, ijma'; if there is no consensus,
 qiyas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-0493-history-importance-quran--08-legal-thinking.webp" width="900" height="772" alt="The Qur'an is the first source of law. The Hadith explains and details its commands, such as the times and units of salat; ijma' is scholars' agreement, such as the Companions' decision to compile the Qur'an; qiyas applies a ruling to a new case with the same cause, as with intoxicating drugs (Sura 5.90) or activities that keep people from Friday prayer (Sura 62.9)." loading="lazy">
+  <figcaption>Qur'an first; Hadith, ijma' and qiyas work from it and never against it.</figcaption>
+</figure>
 
 ## Why the Qur'an is the basis of thought and action
 

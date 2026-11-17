@@ -33,6 +33,11 @@ Revision notes for **sub-theme 4.3** of Theme 4 in Pearson Edexcel A Level Urdu 
 - Choose the responses to environmental issues that you can support with named, dated, checked sources.
 - Keep a research file of named sources, dates and figures you have checked yourself; never quote a statistic you cannot trace. Compare at least two viewpoints on each point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-urdu-language-theme-2-study-guide--02-research-place-rule.webp" width="900" height="536" alt="For Themes 1, 3 and 4 research must concern Pakistan; for Theme 2 it may concern Pakistan or one area of India where Urdu is an official language, but only one country or area." loading="lazy">
+  <figcaption>Theme 2 allows Pakistan or one Urdu-official area of India, never both.</figcaption>
+</figure>
+
 ## Issues and perspectives
 
 The wording of the sub-theme is about **اقدامات** (measures), so the problems are only the starting point. For each issue, be ready to say what has been done, by whom, and how well it has worked.
@@ -102,6 +107,11 @@ The wording of the sub-theme is about **اقدامات** (measures), so the prob
 Use both your research and the unseen Urdu text, and make clear which is which. Plan first, give each paragraph one main idea, and link paragraphs with connectives such as **اس کے علاوہ** and **نتیجتاً**. See the [Paper 1 study guide](/resources/a-level-edexcel-urdu-translation-and-reading/).
 
 Useful signposts: **میری تحقیق کے مطابق** (according to my research) for your own material, and **دیے گئے متن میں** (in the given text) for the source.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--04-section-c-grids.webp" width="900" height="630" alt="Section C is worth 40 marks for about 320 to 370 words: AO4 knowledge and understanding of society and culture via research (20), AO2 use of the unseen text (10) and AO3 accuracy and range of language (10). Research covers all three aspects of one subject in one country or area, and a planned structure prevents drift." loading="lazy">
+  <figcaption>Half the essay marks come from your research; plan before you write.</figcaption>
+</figure>
 
 ## Model paragraph
 

@@ -36,6 +36,11 @@ featured: false
 | Wilson (USA) | Fourteen Points; self-determination; League | Partly: League created -- but the Senate rejected the treaty |
 | Lloyd George (Britain) | Punish Germany but keep it as a trading partner; protect navy and empire | Largely: German fleet and colonies gone -- but soon thought the treaty too harsh |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--01-big-three-aims.webp" width="900" height="493" alt="Three cards. Clemenceau wanted security: reparations, disarmament and a Rhineland buffer. Lloyd George wanted Germany punished but able to trade, with British naval and imperial interests protected. Wilson wanted self-determination, open diplomacy and a League. Below: the defeated powers and Soviet Russia had no voice, and smaller allies little say." loading="lazy">
+  <figcaption>Three different aims produced compromises that satisfied no one fully.</figcaption>
+</figure>
+
 ## Reactions to the settlement
 
 | Power | Reaction |
@@ -47,6 +52,11 @@ featured: false
 | Japan | Gained Shandong and Pacific mandates; racial equality clause rejected |
 | Germany | *Diktat*; anger at Article 231, reparations and territorial loss |
 | Russia | Excluded; borders settled by war with Poland (Treaty of Riga, 1921) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--02-reactions.webp" width="900" height="517" alt="Eight cards. France thought the treaty too lenient and lost its guarantee; Britain had doubts, encouraged by Keynes; the USA refused to ratify; Italy spoke of a mutilated victory; Japan gained Shandong but had its racial equality clause rejected; Germany called it a Diktat; Russia was excluded. A final card notes that self-determination was applied inconsistently." loading="lazy">
+  <figcaption>Every power, winners included, found something to resent.</figcaption>
+</figure>
 
 ## Chronology
 
@@ -71,6 +81,11 @@ featured: false
 | 1926 | Germany joins the League |
 | Aug 1928 | Kellogg-Briand Pact |
 | 1929 | Young Plan; Hague Conference; Stresemann dies (October); Wall Street Crash |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--05-decade-timeline.webp" width="900" height="1054" alt="A vertical timeline from 1919 to 1930 drawn to scale. Before 1924 most events are crises: Fiume, the Little Entente, Rapallo, the Ruhr occupation (January 1923) and Corfu. From 1924 most are co-operation: the Dawes Plan, Locarno (1925), Germany joining the League (1926), Kellogg-Briand (1928) and the Young Plan (1929), until Stresemann's death and the Crash in October 1929." loading="lazy">
+  <figcaption>Crises cluster before 1924; agreements cluster after it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -99,6 +114,16 @@ featured: false
 
 **Pattern:** the League succeeded when the parties were small powers willing to accept its decisions; it failed when a great power or its ally was involved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--03-league-structure.webp" width="900" height="746" alt="An organisation chart: the Assembly of all members; the Council with permanent members Britain, France, Italy and Japan; the Secretariat in Geneva; and the Permanent Court at The Hague. Below, five agencies (refugees, ILO, slavery, disarmament, mandates) and the League's weaknesses: restricted membership, unanimous voting, no army and divided leadership." loading="lazy">
+  <figcaption>A full structure, but no army and decisions that needed unanimity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--04-league-disputes.webp" width="900" height="782" alt="Six disputes ranked from most to least effective: the Aaland Islands (ruling accepted), the Greco-Bulgarian border (success against a small power), Upper Silesia (a compromise), Teschen (decided by the Conference of Ambassadors), Memel (a fait accompli accepted) and Vilna (seized by Poland, which kept it)." loading="lazy">
+  <figcaption>The League worked when both sides accepted a ruling, or the aggressor was small.</figcaption>
+</figure>
+
 ## The treaties of conciliation
 
 | Agreement | Purpose | Limitation |
@@ -109,6 +134,16 @@ featured: false
 | Kellogg-Briand (1928) | Renounce war | No enforcement |
 | Young Plan (1929) | Lower total, longer schedule | Overtaken by the Depression |
 | Hague Conference (1929) | Young Plan accepted; Rhineland evacuation by 1930 | Creditor disputes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--06-locarno-borders.webp" width="900" height="672" alt="A labelled schematic, not a map. Germany sits between France and Belgium on one side and Poland and Czechoslovakia on the other. The western border is drawn as a solid line, accepted by Germany and guaranteed by Britain and Italy; the eastern border is a dashed line, covered only by arbitration treaties." loading="lazy">
+  <figcaption>Locarno settled Germany's western borders but left the eastern ones open.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-relations-1919-29--07-locarno-foundations.webp" width="900" height="695" alt="A pyramid of three layers. At the top, Locarno (1925), which made improvement visible. In the middle, the Dawes Plan (1924), the Stresemann-Briand partnership and exhaustion after the Ruhr, which made it possible. At the base, American loans, which were recalled after the Wall Street Crash." loading="lazy">
+  <figcaption>Locarno sat on the Dawes Plan, and both sat on American loans.</figcaption>
+</figure>
 
 ## Exam traps
 

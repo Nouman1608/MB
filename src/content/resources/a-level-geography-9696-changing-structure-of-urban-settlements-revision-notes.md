@@ -71,6 +71,11 @@ They describe cities generally; real cities depart from them, and models fit HIC
 
 In many LIC and MIC cities the pattern is reversed from Burgess: wealthier groups live near the centre, with its services and security, while poorer migrants settle on the edge, where land is cheaper or unclaimed. The Griffin and Ford model (1980) for Latin American cities shows a commercial spine with elite housing running out from the CBD, surrounded by zones of declining quality towards peripheral squatter settlements.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--01-urban-models.webp" width="900" height="1100" alt="Three plan views. Burgess: concentric rings around a central business district. Hoyt: wedge-shaped sectors spreading from the centre, with dashed lines for transport routes. Harris and Ullman: several separate nuclei besides the central business district." loading="lazy">
+  <figcaption>Three classic models of how land use is arranged in a city.</figcaption>
+</figure>
+
 ## Changing CBD
 
 Trends include decentralisation of shops and offices to out-of-town sites, online shopping, pedestrianisation, redevelopment of vacant sites, a shift to services and leisure, and renewal or regeneration. Some CBDs show decline in edge areas and growth in the core.

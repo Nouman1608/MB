@@ -38,6 +38,11 @@ to it**.
 - **Urban growth** = rising *size or population* of urban areas.
 - **Rural depopulation** = falling rural population, mainly through out-migration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--01-urbanisation-terms.webp" width="900" height="640" alt="Two pairs of bars split into urban and rural shares. Left: the whole bar grows but the urban share stays the same, which is urban growth without urbanisation. Right: the bar stays the same size but the urban share rises, which is urbanisation. A note defines rural depopulation and says more than half the world’s people have lived in urban areas since around 2007." loading="lazy">
+  <figcaption>Urbanisation is about the proportion; urban growth is about size.</figcaption>
+</figure>
+
 ## Why cities grow rapidly
 
 **Rural–urban migration + natural increase** (migrants are young adults, so city birth rates
@@ -51,6 +56,11 @@ are high). Learn push and pull factors in the syllabus's three groups:
 
 **Chain migration:** earlier migrants help relatives follow, so districts fill with people from
 the same region.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--02-why-cities-grow.webp" width="900" height="765" alt="Rapid urban growth has two causes: rural–urban migration and natural increase within the city, because migrants are mostly young adults. Push and pull factors are grouped as physical, economic and social, from drought and low farm incomes to city jobs and services. Chain migration: earlier migrants send news and money home and help relatives, so more people follow from the same village." loading="lazy">
+  <figcaption>Migration and natural increase together drive rapid urban growth.</figcaption>
+</figure>
 
 ## Impacts on rural areas
 
@@ -73,6 +83,11 @@ slopes, flood plains, beside railways, dumps, city edge) · very high density ·
 alleys · little piped water, sanitation, electricity or rubbish collection · active informal
 economy. Local names: favelas (Brazil), katchi abadis (Pakistan), bustees (India).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--03-squatter-settlement.webp" width="900" height="770" alt="A schematic hillside squatter settlement: densely packed self-built homes of scrap wood, corrugated iron and plastic, some improved with brick, on steep marginal land, with more homes beside a railway, a stream and a rubbish dump below. Labels note very high density and narrow unpaved alleys. Cards add insecure tenure, few services, an active informal economy and local names: favelas, katchi abadis and bustees." loading="lazy">
+  <figcaption>Describe the full range: tenure, materials, location, density, services and economy.</figcaption>
+</figure>
+
 ## Strategies and their limits
 
 | Strategy | Key limitation |
@@ -87,6 +102,11 @@ economy. Local names: favelas (Brazil), katchi abadis (Pakistan), bustees (India
 
 **Tackle causes vs manage effects:** rural development reduces push factors; upgrading and
 transport deal with the results. Demolition usually just moves the problem.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--04-urban-strategies.webp" width="900" height="745" alt="Left: rural development (irrigation, electrification, clinics, schools) reduces the causes of migration but is slow. Right: strategies that manage effects in the city, each with a limitation: self-help schemes, site-and-service schemes, in-situ upgrading such as Rio’s Favela-Bairro, community sanitation such as Karachi’s Orangi Pilot Project, mass transit such as the Lagos BRT, and new towns. A note says demolition usually moves the problem elsewhere." loading="lazy">
+  <figcaption>Separating causes from effects makes an evaluation stronger.</figcaption>
+</figure>
 
 ## Case study outline: Karachi, Pakistan
 
@@ -113,6 +133,11 @@ the change.* Model answer: "The share of people living in urban areas more than 
 although most people still lived in rural areas in 2020."
 
 Note: the change is in **percentage points**, not "25%". Quote the start, the end and the change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-urbanisation--05-percentage-points.webp" width="900" height="600" alt="A bar chart of the urban share of population: 25 per cent in 1980, 33 per cent in 2000 and 44 per cent in 2020. Annotations show rises of 8 and then 11 percentage points, so growth was faster after 2000. The overall change is 44 minus 25, which is 19 percentage points, not 19 per cent." loading="lazy">
+  <figcaption>A change in a percentage is measured in percentage points.</figcaption>
+</figure>
 
 ## Model paragraph: impacts on the urban area
 

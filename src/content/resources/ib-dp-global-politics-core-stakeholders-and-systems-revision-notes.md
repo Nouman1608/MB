@@ -38,6 +38,11 @@ For full explanations and a worked case, read the [study guide](/resources/ib-dp
 - **Norm** -- a shared expectation of appropriate behaviour, written into law or not.
 - **Institution** -- (1) a formal organisation or agency; (2) a social structure of rules and norms that shapes and constrains behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--01-actors-stakeholders.webp" width="900" height="683" alt="A large set of stakeholders, anyone affected by an issue, contains a smaller set of actors, those with the agency and means to exercise power. A child downstream of a dam is a stakeholder; the ministry that approved it is an actor. Residents who organise and go to court move from stakeholder to actor." loading="lazy">
+  <figcaption>All actors are stakeholders; stakeholders become actors when they gain the means to act.</figcaption>
+</figure>
+
 ## The actor types -- recall table
 
 The guide lists every type below. Learn the row, and have one contemporary example of your own for each.
@@ -57,6 +62,11 @@ The guide lists every type below. Learn the row, and have one contemporary examp
 | Formal and informal political forums | Settings where actors meet and decide | Agenda-setting, bargaining, statements | Formal: UN General Assembly. Informal: G7, G20 |
 | The media | News organisations and social platforms | Agenda-setting, framing, reach | Public broadcasters; social media platforms |
 | Other individual and collective actors | Everyone else who shapes an issue | Varies | Diasporas, whistleblowers, expert networks |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--02-actor-types.webp" width="900" height="754" alt="A grid of the actor types in the guide, each with an example: states, subnational and local governments, IGOs, organised civil society, companies, social movements, resistance movements, political parties, interest and pressure groups, political leaders, formal and informal forums, the media, and other individual and collective actors." loading="lazy">
+  <figcaption>Know each type with one example, but judge power case by case.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -88,6 +98,11 @@ Use this on any Paper 1 source.
                         and legitimacy in a different system?
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--06-paris-actor-map.webp" width="900" height="660" alt="An actor map around the 2015 Paris Agreement: states, the UN climate secretariat, the Conference of the Parties, NGOs, cities and regions, companies and the media, with stakeholders who had little voice such as low-lying coastal communities, future generations and fossil-fuel workers. Consensus decision-making led to self-set national targets: wide participation, weak enforcement." loading="lazy">
+  <figcaption>Name the actors, the voiceless stakeholders, then link the structure to the outcome.</figcaption>
+</figure>
+
 ## Systems in brief
 
 - **Scale** (the guide's list): global, international, regional, national, subnational, local, community.
@@ -100,6 +115,16 @@ Small reminders:
 - UN Security Council: five permanent members with a veto -- a structural reason a resolution can fail despite wide support.
 - WTO dispute settlement: only member governments are parties -- companies need their government to act.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--03-structure-dynamics.webp" width="900" height="613" alt="Seven scales at which a political system can be studied, from global to community. Structure is the stable arrangement: authority, decision rules, distribution of power and whether anything sits above. Dynamics are how interactions change: cooperation, competition, alliances, new actors, rule changes and crises." loading="lazy">
+  <figcaption>Structure sets the rules of the game; dynamics are how the game changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--04-structure-limits-action.webp" width="900" height="560" alt="Two examples. In the UN Security Council, five permanent members hold a veto, so a resolution can fail despite wide support and actors turn to the General Assembly or regional bodies. In WTO dispute settlement, only governments can be parties, so a harmed company must persuade its government to bring the case." loading="lazy">
+  <figcaption>The rules of a system decide which routes are open, and actors route around the closed ones.</figcaption>
+</figure>
+
 ## Legal frameworks, norms and institutions in brief
 
 - **UN Charter (1945):** Article 2(4) bans the threat or use of force against another state; Article 51 keeps the right of self-defence.
@@ -107,6 +132,11 @@ Small reminders:
 - **Universal Declaration of Human Rights (1948):** a General Assembly resolution, so soft law, yet highly influential.
 - **Paris Agreement (2015):** a treaty, but each party's contribution is self-set and meeting it is not legally binding.
 - Rules, norms and institutions can **shape**, **limit** or **cause** political issues. Name which one you mean.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-stakeholders-and-systems--05-law-norms-institutions.webp" width="900" height="710" alt="A scale from binding to non-binding: hard law such as the UN Charter, soft law such as the Universal Declaration of Human Rights, and norms such as the taboo on chemical weapons. Institutions are both formal organisations and social structures of rules. Together they shape, limit or even cause political issues." loading="lazy">
+  <figcaption>Binding or not, rules and norms shape options, rule some out, and can cause issues themselves.</figcaption>
+</figure>
 
 ## Command terms you will meet on this topic
 

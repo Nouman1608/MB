@@ -59,6 +59,16 @@ full explanations, see the
 | Salinity | Salt left in topsoil when groundwater evaporates |
 | Transhumance | Seasonal movement of herds between summer and winter pastures |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--01-farm-as-a-system.webp" width="900" height="868" alt="Three farm types set out as inputs, processes and outputs: a subsistence rice plot in Sindh, a cotton farm near Vehari and a buffalo dairy near Lahore. A feedback arrow runs from outputs back to inputs." loading="lazy">
+  <figcaption>Every farm type turns inputs into outputs, and each season’s results feed back into the next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--04-livestock-movement.webp" width="900" height="650" alt="A mountain profile shows transhumance: flocks move up to high summer pastures and back down to valleys or the plains in winter. Two cards below compare stall-fed buffalo and cattle on small farms with Cholistan herders moving between tobas and canal areas." loading="lazy">
+  <figcaption>Livestock is either stall-fed in one place or moved with the seasons and the water.</figcaption>
+</figure>
+
 ## The four main crops at a glance
 
 | Crop | Season | Climate need | Example districts | Leading use |
@@ -75,6 +85,11 @@ the sandy Thal and Thar margins; kinnow oranges cluster around Sargodha; tobacco
 on Mardan, Swabi and the Peshawar valley; vegetables ring the big cities because they spoil
 quickly.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--02-kharif-rabi-calendar.webp" width="900" height="724" alt="A twelve-month calendar. Kharif crops such as cotton and rice are sown in spring or early summer and harvested in autumn; rabi crops such as wheat are sown October to December and harvested March to May. November is highlighted where cotton picking and wheat sowing overlap." loading="lazy">
+  <figcaption>Two cropping seasons share the year, and they collide in November.</figcaption>
+</figure>
+
 ## Three subsistence case studies
 
 | Case | Natural factor | Human factor | Problem |
@@ -83,11 +98,21 @@ quickly.
 | Barani wheat (Potwar) | Variable winter rain; gullied land | Low inputs because of risk | Yields swing year to year |
 | Karez oasis (Balochistan) | Aquifer at hill foot; extreme heat | Community maintains tunnel | Tubewells lower water table |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--03-karez-oasis.webp" width="900" height="764" alt="Cross-section showing groundwater in the hills feeding a gently sloping underground tunnel that carries water by gravity to an oasis with date palms and vegetables. A dashed line shows how pumping by a tubewell lowers the water table below the tunnel." loading="lazy">
+  <figcaption>A karez moves groundwater by gravity with little evaporation, but falling water tables leave many dry.</figcaption>
+</figure>
+
 ## Irrigation in one chain
 
 River → **dam** stores water → **barrage** raises level → **link canal** shifts water between
 rivers → **distribution canal** → **watercourse** → **field channel** → field held by **bunds**.
 Lift irrigation (Persian wheel, tubewell) draws on groundwater instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--05-river-to-field.webp" width="900" height="812" alt="Five linked stages: dams such as Tarbela and Mangla store water; barrages such as Sukkur raise the river and divert it into canals; link canals move water from western to eastern rivers; distribution canals and watercourses carry it on; field channels and bunds hold it on each plot." loading="lazy">
+  <figcaption>Water passes through five stages of engineering before it reaches a field.</figcaption>
+</figure>
 
 ## Waterlogging and salinity cross-section (draw this)
 
@@ -98,6 +123,11 @@ removing saline water to show the solution.
 **Solutions:** SCARP tubewells; drains such as the Left Bank Outfall Drain; lining watercourses;
 laser levelling; gypsum for sodic soils; salt-tolerant crops; drip and sprinkler irrigation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--06-waterlogging-salinity.webp" width="900" height="780" alt="Cross-section of a field beside an unlined canal. Seepage and over-irrigation raise the water table; capillary action draws water up and evaporation leaves a salt crust. Below, restoration methods (SCARP tubewells, drains, flushing and gypsum) sit beside prevention methods (lining, laser levelling, measured allocation, sprinkler or drip)." loading="lazy">
+  <figcaption>Too much water raises the water table; evaporation then leaves salt on the surface.</figcaption>
+</figure>
+
 ## Government action: evaluate, do not list
 
 | Action | Gain | Limitation |
@@ -107,6 +137,11 @@ laser levelling; gypsum for sodic soils; salt-tolerant crops; drip and sprinkler
 | Credit (Zarai Taraqiati Bank) | Loans for inputs and machines | Collateral rules exclude tenants |
 | Research and extension | New varieties, pest advice | Too few extension workers reach small farmers |
 | Subsidised fertiliser and solar tubewells | Cheaper inputs | Overuse; falling water tables |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-agricultural-development--07-government-action.webp" width="900" height="802" alt="Five government measures (land reforms, improved seeds, research, training and credit, subsidies) lead to a balance of outcomes: yields rose, but benefits went mainly to larger farmers, much land stayed with large owners, chemicals raised costs and polluted water, and groundwater fell." loading="lazy">
+  <figcaption>Government action raised yields, but the gains were uneven and had environmental costs.</figcaption>
+</figure>
 
 ## Exam traps
 

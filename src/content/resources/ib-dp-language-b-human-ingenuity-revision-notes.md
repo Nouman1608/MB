@@ -41,6 +41,11 @@ Related pages: [practice questions](/resources/ib-dp-language-b-human-ingenuity-
 | Skills (whole course) | Receptive, productive, interactive |
 | Place in the list | Third of five: identities, experiences, human ingenuity, social organization, sharing the planet |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--01-human-ingenuity-theme-map.webp" width="900" height="634" alt="The guiding principle of Human ingenuity, explore the ways in which human creativity and innovation affect our world, sits above a central circle joined to five optional recommended topics: entertainment, artistic expressions, communication and media, technology and scientific innovation. Two possible questions sit below as lenses." loading="lazy">
+  <figcaption>Five optional topics and two possible questions: a starting map, not a fence.</figcaption>
+</figure>
+
 ## Where the theme can appear
 
 | Component | Weighting | Fact from the brief | Human ingenuity angle |
@@ -51,6 +56,11 @@ Related pages: [practice questions](/resources/ib-dp-language-b-human-ingenuity-
 | Individual oral (internal) | 25% | 30 marks; SL visual image, HL literary excerpt | An image of a mural or robot (SL); a passage about creation or discovery (HL) |
 
 HL Paper 1 tasks need more complex language, higher-order thinking and have a higher word range. Your teacher will share the criteria and formats.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--02-theme-in-every-component.webp" width="900" height="434" alt="A bar splits the course into four equal 25 percent parts: Paper 1 writing (30 marks), Paper 2 listening (25 marks), Paper 2 reading (40 marks) and the internally assessed individual oral (30 marks). Cards note that Human ingenuity can appear in any of them." loading="lazy">
+  <figcaption>Human ingenuity can feed Paper 1, both halves of Paper 2 and the oral.</figcaption>
+</figure>
 
 ## Vocabulary fields to build
 
@@ -74,6 +84,11 @@ Write each headword in your target language with gender or plural (if your langu
 | Speculation | "If ..., we would ..." | Conditional; hypothetical mood if your language has one |
 | Evaluation | "The benefits outweigh the costs because ..." | Hedging words, precise adjectives |
 | Interpretation | "This suggests that ..." | A set of reporting verbs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--05-point-example-effect-counterpoint.webp" width="900" height="467" alt="Four linked cards for one argument: point (messaging keeps families in daily contact across countries), example (a grandmother watches a school play on a video call), effect (closeness despite distance) and counterpoint (a screen is not a visit, and not every grandparent has a device). The model paragraph concludes that the media have changed what closeness means." loading="lazy">
+  <figcaption>Point, example, effect, counterpoint: one counterpoint makes the argument credible.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -103,12 +118,32 @@ Write each headword in your target language with gender or plural (if your langu
 
 Describe, interpret, connect (theme plus a target-language culture), judge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--03-act-of-creating.webp" width="900" height="546" alt="Three linked cards: the idea, how it was made, and what it changes, the last highlighted. A table shows that a text about a new vaccine also touches Identities and one about solar power touches Sharing the planet, but under Human ingenuity the questions are about the creation and its effects." loading="lazy">
+  <figcaption>The guiding principle is about effect: always reach what the creation changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--06-paper-1-review-plan.webp" width="900" height="511" alt="Chips set the context (school magazine), audience (other students), purpose (inform and persuade) and register (lively, semi-formal). Five linked boxes give the review's shape: title, an opening that puts the reader in the headset, what works, what is lost, and a clear recommendation." loading="lazy">
+  <figcaption>A review weighs what works against what is lost, then gives a verdict.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--07-oral-four-moves.webp" width="900" height="613" alt="Four linked cards for the SL oral: describe (who, what, where), interpret (why it was made), connect (to the theme and a target-language culture) and judge (your view with a reason). Example images include a mural and a robot in a hospital. At HL the stimulus is a literary excerpt." loading="lazy">
+  <figcaption>Describe, interpret, connect, judge: always reach an opinion.</figcaption>
+</figure>
+
 ## Worked reminders
 
 - *Weak:* "The picture shows a robot in a hospital." *Stronger:* "The robot carries medicine, which suggests that hospitals are using machines to free nurses for patient care, although some patients may find it cold."
 - *Weak:* "Social media is bad for friendship." *Stronger:* "Social media keeps friends in touch after they move away; however, a stream of likes can replace the longer conversations that friendship needs."
 
 - *Weak:* "The mural is colourful and big." *Stronger:* "The mural shows fishermen and factory workers side by side, which suggests the town is proud of both its old and its new ways of earning a living."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--04-culture-from-art.webp" width="900" height="674" alt="Four numbered steps: describe the jars and the blue fish precisely; infer that the community values continuity with room for individual creativity; answer the question with the quotation it is just a jar; then learn target-language frames for interpretation. Steps 2 and 3 are highlighted as where the marks sit." loading="lazy">
+  <figcaption>Description is only step 1: the marks are in inferring and answering.</figcaption>
+</figure>
 
 ## Where Human ingenuity meets the other themes
 

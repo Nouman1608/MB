@@ -45,6 +45,21 @@ measures within their powers which, judged reasonably, might have been expected 
 **Jordan features**: independent; effective (capable of identifying and punishing those responsible);
 prompt; open to public scrutiny; family involved.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--01-self-defence-test.webp" width="900" height="714" alt="The English self-defence test: judge the facts as the defendant genuinely believed them, then ask whether the force was reasonable; disproportionate force is not, except that in householder cases only grossly disproportionate force is excluded (Collins, compatible with Article 2). The English honest belief test sits against Article 2.2’s absolutely necessary standard; in Da Silva v UK the Grand Chamber found them not significantly different." loading="lazy">
+  <figcaption>Honest belief plus reasonable force: held close enough to “absolutely necessary”.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--02-article-2-vs-negligence.webp" width="900" height="542" alt="Two routes. Article 2: the Osman operational duty where police knew or ought to have known of a real and immediate risk to an identified person (no breach in Van Colle; extended in Rabone). Negligence: no general duty to protect the public from criminals (Hill), though a duty exists where police positive acts cause injury (Robinson). Michael v Chief Constable of South Wales: no negligence duty, but the Article 2 claim could proceed." loading="lazy">
+  <figcaption>Where negligence fails, an Article 2 claim may still succeed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--03-investigating-deaths.webp" width="900" height="664" alt="Three investigation mechanisms meeting the Jordan v UK requirements: inquests under the Coroners and Justice Act 2009, which after Middleton examine in what circumstances a person died; the Independent Office for Police Conduct; and public inquiries under the Inquiries Act 2005 (Amin). Below: McCann makes the state answer for planning, leading to a health and safety conviction after the de Menezes shooting, and homicide offences including corporate manslaughter protect life." loading="lazy">
+  <figcaption>Inquests, the IOPC and public inquiries carry out the Article 2 duty to investigate.</figcaption>
+</figure>
+
 ## Deprivation of liberty
 
 - **PACE s1 and Code A**: stop and search on reasonable grounds.
@@ -57,12 +72,22 @@ prompt; open to public scrutiny; family involved.
 - **Mental Health Act 1983**: s2 (assessment, up to 28 days); s3 (treatment).
 - **Remedies**: habeas corpus; false imprisonment, no fault needed (Evans (No 2), 2001).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--04-detention-limits.webp" width="900" height="685" alt="Bars to scale for pre-charge detention: 24 hours under PACE, 36 with a superintendent’s authority, 96 with magistrates’ warrants, and 14 days under the Terrorism Act 2000. Below: stop and search under PACE s1 and s60 CJPOA 1994; arrest under PACE s24 and s28; the right to a solicitor under s58; and remedies of habeas corpus and false imprisonment, actionable without fault (ex parte Evans)." loading="lazy">
+  <figcaption>PACE builds up from 24 to 96 hours; terrorism cases allow up to 14 days.</figcaption>
+</figure>
+
 ## Privacy and communication
 
 | | Protect | Restrict |
 |---|---|---|
 | Criminal | Investigatory Powers Act 2016 (unlawful interception); Computer Misuse Act 1990 s1; Protection from Harassment Act 1997; Data Protection Act 2018 (unlawfully obtaining personal data) | PACE entry, search and seizure (s8 warrants, s17, s18); stop and search |
 | Civil | Misuse of private information (Campbell; Vidal-Hall); breach of confidence; injunctions (PJS, 2016); damages (Mosley, 2008); harassment and data protection claims | Investigatory Powers Act 2016 warrants with Judicial Commissioner approval; RIPA 2000 surveillance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--05-privacy-protect-restrict.webp" width="900" height="575" alt="A grid of criminal and civil provisions. Protecting privacy: interception offences, the Computer Misuse Act, harassment and data protection offences; and misuse of private information, breach of confidence, damages and injunctions. Restricting privacy: PACE entry, search and seizure; Investigatory Powers Act warrants approved by a Judicial Commissioner and directed surveillance under RIPA 2000. PJS kept an injunction despite online availability." loading="lazy">
+  <figcaption>The same areas of law both protect privacy and give the state powers to intrude.</figcaption>
+</figure>
 
 ## Expression, assembly and association
 
@@ -77,6 +102,11 @@ proportionality); Police, Crime, Sentencing and Courts Act 2022; Public Order Ac
 
 **Association**: Terrorism Act 2000 proscription and membership offences; Public Order Act 1936
 (political uniforms, quasi-military organisations).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-and-english-law--06-public-order-controls.webp" width="900" height="785" alt="Provisions restricting expression: Public Order Act 1986 offences, section 127 Communications Act 2003 (Chambers v DPP), contempt, obscenity and the Official Secrets Act 1989 (Shayler). Provisions protecting it: section 12 HRA and the Defamation Act 2013 defences. A table of assembly powers: notice, conditions, bans and trespassory assemblies under the Public Order Act 1986, and highway obstruction subject to lawful excuse (Ziegler). Association: proscription and the 1936 Act." loading="lazy">
+  <figcaption>Most domestic provisions restrict these rights; s12 HRA and the Defamation Act protect expression.</figcaption>
+</figure>
 
 ## Key terms
 

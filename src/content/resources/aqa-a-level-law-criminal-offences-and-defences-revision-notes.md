@@ -57,6 +57,11 @@ These notes condense the offences and defences in AQA A-level Law (7162) section
 
 Use the principles to evaluate: s47 and unlawful act manslaughter break **correspondence**; the vague "dangerous" test and gross negligence's "so bad as to be criminal" test strain **maximum certainty**; the single label "murder" for a mercy killing and a contract killing raises **fair labelling**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-in-criminal-law--07-four-principles.webp" width="900" height="648" alt="Four principles with examples. Fair labelling (Ashworth): murder and manslaughter cover very different killings. Correspondence: broken by s47, s20, murder and unlawful act manslaughter. Maximum certainty: gross negligence (Adomako; Misra and Srivastava), dishonesty (Ivey; Barton and Booth) and attempt (Campbell; Tosti). No retrospective liability: R v R and SW v UK, and the War Crimes Act 1991." loading="lazy">
+  <figcaption>Each principle is a yardstick for judging a specific offence.</figcaption>
+</figure>
+
 ## Fatal offences
 
 | Offence | Elements | Cases |
@@ -68,6 +73,11 @@ Use the principles to evaluate: s47 and unlawful act manslaughter break **corres
 | **Gross negligence manslaughter** | Duty; breach; serious and obvious risk of death; causation; gross negligence | *Adomako* (1995); *Rose* (2017) |
 
 Loss of control and diminished responsibility are **partial defences** to murder only; success gives a manslaughter conviction with a discretionary sentence instead of mandatory life.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--01-cr-homicide-path.webp" width="900" height="1005" alt="Decision path for homicide. An unlawful killing with malice aforethought, meaning an intention to kill or to cause grievous bodily harm, is murder with a mandatory life sentence. If loss of control or diminished responsibility applies, murder is reduced to voluntary manslaughter. A killing without malice aforethought is involuntary manslaughter, through an unlawful and dangerous act or gross negligence." loading="lazy">
+  <figcaption>A decision path from an unlawful killing to murder, voluntary manslaughter or involuntary manslaughter.</figcaption>
+</figure>
 
 ## Non-fatal offences — the ladder
 
@@ -84,6 +94,11 @@ s18        wound or cause GBH                           INTEND GBH
 - Assault by words or silence (*Ireland*); words can cancel a threat (*Tuberville v Savage*). Battery can be indirect (*Haystead*).
 - Maximum sentences: s47 and s20 five years; s18 life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--02-cr-nonfatal-ladder.webp" width="900" height="882" alt="A table of five offences in rising seriousness: assault, battery, section 47 assault occasioning actual bodily harm, section 20 wounding or inflicting grievous bodily harm, and section 18 wounding or causing grievous bodily harm with intent. For each it gives the harm needed and the fault needed. Section 47 and section 20 carry a maximum of five years; section 18 carries life." loading="lazy">
+  <figcaption>Five non-fatal offences laid out by harm and fault.</figcaption>
+</figure>
+
 ## Property offences
 
 **Theft, s1:** dishonestly appropriates property belonging to another with intention to permanently deprive.
@@ -98,11 +113,21 @@ s18        wound or cause GBH                           INTEND GBH
 
 **Robbery, s8:** theft + force (or putting or seeking to put in fear of force) on any person, immediately before or at the time of stealing, in order to steal. No theft means no robbery (*Robinson*); slight force is enough (*Dawson and James*); force on a bag counts (*Clouden*); appropriation can continue (*Hale*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--03-cr-theft-robbery.webp" width="900" height="960" alt="Theft under section 1 of the Theft Act 1968 needs five elements together: dishonestly (s2), appropriates (s3), property (s4), belonging to another (s5) and intention to permanently deprive (s6). Robbery under section 8 is theft plus force, or putting a person in fear of force, used in order to steal. It needs a complete theft and carries a maximum of life." loading="lazy">
+  <figcaption>The five elements of theft and how robbery builds on theft.</figcaption>
+</figure>
+
 ## Attempt
 
 - **Actus reus:** an act more than merely preparatory (s1(1) CAA 1981) — "embarked on the crime proper" (*Gullefer*; *Jones*). Not enough: *Campbell*, *Geddes*. Enough: *Tosti*.
 - **Mens rea:** intention to commit the full offence; attempted murder needs intent to kill (*Whybrow*).
 - **Impossibility:** no defence (s1(2)); *Shivpuri* overruled *Anderton v Ryan* using the Practice Statement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--04-cr-attempt-line.webp" width="900" height="1050" alt="A vertical track runs from preparation, through a dashed line marked more than merely preparatory, to attempt and then the completed offence. Lurking near a post office and being in school toilets with a knife and tape were only preparation. Examining a padlock on a barn door was an attempt. The mens rea is intention to commit the full offence, and impossibility is no defence." loading="lazy">
+  <figcaption>Where preparation becomes an attempt under s1(1) Criminal Attempts Act 1981.</figcaption>
+</figure>
 
 ## Capacity defences
 
@@ -116,6 +141,16 @@ s18        wound or cause GBH                           INTEND GBH
 
 **The diabetes trap:** too much insulin (hypoglycaemia, external) is automatism (*Quick*); failing to take insulin (hyperglycaemia, internal) is insanity (*Hennessy*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--05-cr-insanity-automatism.webp" width="900" height="1088" alt="A question splits into two paths. An internal cause that is a disease of the mind, such as arteriosclerosis, epilepsy, untreated diabetes with high blood sugar or sleepwalking, is insanity under the M’Naghten Rules, with a verdict of not guilty by reason of insanity and a hospital order, supervision order or absolute discharge. An external factor, such as a blow to the head, a reflex action or low blood sugar after insulin, is non-insane automatism and leads to an acquittal. It needs a total loss of voluntary control." loading="lazy">
+  <figcaption>Internal cause leads to insanity; external factor leads to automatism.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--06-cr-intoxication-intent.webp" width="900" height="1038" alt="Two columns. For specific intent offences, murder, section 18, theft and robbery, voluntary intoxication may show that the mens rea was not formed. For basic intent offences, manslaughter, section 20, section 47, assault and battery, it is no defence because becoming intoxicated is itself reckless. A drunken intent is still an intent, and involuntary intoxication such as a spiked drink is a defence only if the defendant did not form the mens rea." loading="lazy">
+  <figcaption>Which offences voluntary intoxication can help with.</figcaption>
+</figure>
+
 ## Necessity defences
 
 **Self-defence / prevention of crime** (common law, s3 CLA 1967, s76 CJIA 2008):
@@ -128,6 +163,16 @@ s18        wound or cause GBH                           INTEND GBH
 **Duress by threats:** threat of death or serious injury (*Hasan*); *Graham* two-stage test — reasonable belief in the threat, and sober person of reasonable firmness sharing D's characteristics (*Bowen*); threat must relate to the offence committed (*Cole*); no defence to murder (*Howe*) or attempted murder (*Gotts*); lost through voluntary association with criminals (*Hasan*).
 
 **Duress of circumstances:** same test, threat from the situation — *Willer*, *Conway*, *Martin (Colin)*; available except for murder and attempted murder (*Pommell*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--07-cr-self-defence-tests.webp" width="900" height="1094" alt="A flow of two questions after the defendant has used force. First, was force necessary, judged on the facts as the defendant honestly believed them even if the belief was unreasonable, unless the mistake came from voluntary intoxication. Second, was the force reasonable on the facts as believed; disproportionate force is not reasonable, though in householder cases only grossly disproportionate force is excluded. If both answers are yes there is a complete defence. The defence is all or nothing, so excessive force in a killing leaves a murder conviction." loading="lazy">
+  <figcaption>The two questions in self-defence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-necessity-defences--03-duress-graham.webp" width="900" height="670" alt="The Graham test has a subjective stage, a reasonably believed threat of death or serious injury, and an objective stage, whether a sober person of reasonable firmness sharing the defendant’s characteristics would have responded the same way. The threat must be of death or serious injury, against the defendant or someone he is responsible for, aimed at the particular offence (Cole), and immediate with no evasive action (Hasan). Bowen sets out relevant characteristics." loading="lazy">
+  <figcaption>Two stages, plus strict requirements about the threat itself.</figcaption>
+</figure>
 
 ## Exam traps
 

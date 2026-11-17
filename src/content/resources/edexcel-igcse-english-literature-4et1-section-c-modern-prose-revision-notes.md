@@ -42,6 +42,11 @@ Condensed for the final weeks. For the full method and worked plans, use the
 *Things Fall Apart*, *Klara and the Sun*, *Western Lane*. Set texts change with the specification
 issue, so confirm yours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--02-e4-exam-room.webp" width="900" height="850" alt="Three rows for Sections A, B and C. The unseen poem is printed on the paper, the anthology poems come in a booklet, but the modern prose text is not available in the exam room. Marks and assessment objectives are shown for each section." loading="lazy">
+  <figcaption>Only the Section C prose text is unavailable, so only it needs exact quotations from memory.</figcaption>
+</figure>
+
 ## What the objectives mean here
 
 AO2 is not one of the objectives for this section. Comments on narrative voice, structure or imagery
@@ -60,6 +65,11 @@ time and place, made a choice (AO4). A list of techniques with no argument earns
 | *Klara and the Sun* (Kazuo Ishiguro) | Klara waiting in the shop window; her life with the sick child Josie; her bargain with the Sun; the plan for her to take Josie's place; the final scene in the yard | Published in 2021 amid debates about artificial intelligence and genetic enhancement ("lifted" children) | Love, loneliness, what makes a person, hope and faith |
 | *Western Lane* (Chetna Maroo) | Eleven-year-old Gopi narrates the months after her mother's death, as her father trains her at squash | A British Gujarati family, with grief carried through routine, sport and silence rather than speech | Grief, family, discipline, sisterhood, what goes unsaid |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-c-modern-prose--02-context-for-set-novels.webp" width="900" height="705" alt="Five kinds of context with a set novel for each. To Kill a Mockingbird is set in 1930s Alabama under segregation but was published in 1960 during the civil rights movement. Cards show historical setting in Of Mice and Men, culture and tradition in Things Fall Apart, identity and migration in The Joy Luck Club, and ideas and debates in Klara and the Sun." loading="lazy">
+  <figcaption>Context earns AO4 when it explains a specific choice in the novel.</figcaption>
+</figure>
+
 ## The four-moment plan
 
 | Moment | What to show | Context question to ask |
@@ -68,6 +78,11 @@ time and place, made a choice (AO4). A list of techniques with no argument earns
 | Turning point | The event that tests or changes it | What pressures make this happen? |
 | Development | Consequences and reactions | How do other characters reflect their society? |
 | Ending | Where the writer leaves it | What does the writer want readers of the time, or now, to think? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-c-modern-prose--01-four-moments-across-novel.webp" width="900" height="654" alt="A line runs from the start to the end of a novel through four numbered moments: the opening position, a turning point that changes or tests it, the development, and the ending. Below, paragraphs should open with a claim that answers the question, not a plot event." loading="lazy">
+  <figcaption>Track the focus through four moments, from opening position to ending.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -87,12 +102,22 @@ time and place, made a choice (AO4). A list of techniques with no argument earns
 - For each: where it appears, who says it, which themes and characters it can serve.
 - Practise writing them from memory; an accurate paraphrase beats a misquotation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-section-c-modern-prose--03-closed-book-quotation-bank.webp" width="900" height="702" alt="One short quotation card, noting where it appears and which themes it serves, links to three themes. Below, a bank of fifteen to twenty such cards, then a reminder that accurate paraphrase of a specific moment counts while an inaccurate quotation is worse than paraphrase." loading="lazy">
+  <figcaption>Short, flexible quotations you can attach to several themes beat long half-remembered ones.</figcaption>
+</figure>
+
 ## Context that works
 
 - Name the specific condition (segregation, economic depression, colonial rule, migration, a debate
   about technology), not "the time".
 - Link it to one moment in the text in the same sentence.
 - Use it to explain **why** the writer shows something.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-poetry-and-modern-prose--05-e4-section-c-track.webp" width="900" height="1030" alt="A novel timeline showing a single starred scene versus every point tracked by a rising development arrow. Two essay outlines compare context added as a final paragraph with context woven through every paragraph." loading="lazy">
+  <figcaption>Track a theme across the whole novel and weave context into the argument.</figcaption>
+</figure>
 
 ## Annotated model paragraph
 

@@ -45,6 +45,11 @@ Component 1 is 100% AO1, so the Written Exam is about using the sources well, no
 - **Component 2 Individual Report:** you choose a global issue that divides opinion, such as how best to reduce inequality, and research local and/or national and global perspectives before proposing one course of action.
 - **Component 3 Team Project:** your team picks a local issue, such as the cost of school uniform, then plans, carries out and measures an action.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--07-fuel-poverty-paragraph.webp" width="900" height="740" alt="Nested circles show 40 surveyed households inside community centre users inside all town households. The evidence supports a real problem for some households, but the small, skewed sample and the gap between cutting back on heating and fuel poverty mean it cannot support the claim about most families. A random town-wide survey with a clear definition would test it better." loading="lazy">
+  <figcaption>Answer “how far” with a judgement on what the evidence does and does not support.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition | Why it matters in a source |
@@ -60,6 +65,11 @@ Component 1 is 100% AO1, so the Written Exam is about using the sources well, no
 | Median | The middle value | Less pulled by very high earners than the mean |
 | Multidimensional poverty | Poverty measured by health, schooling and living standards as well as money | Gives a different picture from income alone |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--01-measuring-poverty.webp" width="900" height="720" alt="Absolute poverty (not meeting basic needs) is contrasted with relative poverty (much less than most people, such as below 60% of median income in the UK). Income, wealth and multidimensional measures are defined. A Gini scale runs from 0, everyone has the same, to 1, one person has everything. The World Bank line is $3.00 a day from June 2025." loading="lazy">
+  <figcaption>Sources using different measures can reach different conclusions and both be accurate.</figcaption>
+</figure>
+
 ## Real examples at a glance
 
 You do not need to learn these. They are here so you can evaluate them if they appear in a source, or use them as starting points for research.
@@ -74,6 +84,11 @@ You do not need to learn these. They are here so you can evaluate them if they a
 | Finland basic income experiment (2017–2018) | Unconditional monthly payment to unemployed people | Small employment effects; better reported wellbeing | Short, limited trial; may not scale to a whole country |
 | Grameen Bank and Muhammad Yunus (Nobel Peace Prize 2006) | Microfinance: small loans for people without bank access | Widely copied model | Randomised evaluations have generally found modest average effects on income |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--06-cash-programmes.webp" width="900" height="632" alt="A table of four actions: conditional cash through Brazil’s Bolsa Família from 2003; unconditional cash through Pakistan’s Benazir Income Support Programme from 2008; Finland’s 2017 to 2018 basic income trial; and microfinance, for which the Grameen Bank shared the 2006 Nobel Peace Prize. Each has a strength and limitation, judged by effectiveness, affordability, fairness and sustainability." loading="lazy">
+  <figcaption>Even well-known programmes need evaluating against the same four tests.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Poverty vs inequality.** Poverty is about having too little. Inequality is about the gap. One can fall while the other rises.
@@ -84,6 +99,21 @@ You do not need to learn these. They are here so you can evaluate them if they a
 - **Short-term relief vs long-term cause.** A food bank relieves hunger now; it does not raise incomes.
 - **Fact vs claim vs opinion.** "The scheme paid 200 families" (fact) / "the scheme cut hunger" (claim needing evidence) / "the scheme is wasteful" (opinion).
 - **Value vs vested interest.** A value is a belief about what matters ("fairness"). A vested interest is something a person stands to gain or lose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--05-numbers-in-poverty-sources.webp" width="900" height="676" alt="A bar chart shows one very high earner pulling the mean above the median. Two pie charts show the poorest group’s slice staying the same size while the economy grows, so its share falls. Further checks: 50% to 70% is 20 percentage points but a 40% increase; a food bank sample is not a whole town; and which measure is used. Loaded language carries values." loading="lazy">
+  <figcaption>Check the measure, the average, the share, the percentage and the sample before trusting a number.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--04-poverty-cycle.webp" width="900" height="697" alt="A five-step cycle: a child in a low-income family misses school because the family needs them to work, leaves with fewer qualifications, finds only low-paid work as an adult, and their own children face the same pressure. Below, a food bank meets a short-term consequence, hunger, but does not change a long-term cause, low income." loading="lazy">
+  <figcaption>Show each link in the cycle with “because” or “this leads to”.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-poverty-and-inequality--03-unconditional-cash-perspectives.webp" width="900" height="566" alt="Three reasons perspectives on poverty differ: values, interests, and evidence and experience. Applied to unconditional cash: a family values choice, a taxpayers’ group wants proof money is used well, a charity may back cash or services, and an international organisation compares programmes across countries." loading="lazy">
+  <figcaption>Judge each perspective by its evidence and whether its reasoning follows.</figcaption>
+</figure>
 
 ## Mini essay plan
 

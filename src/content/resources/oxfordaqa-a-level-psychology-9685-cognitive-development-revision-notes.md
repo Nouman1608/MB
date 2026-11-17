@@ -42,6 +42,11 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 | Accommodation | Changing or creating a schema to fit new information | Forming a separate "fox" schema |
 | Equilibration | Drive to restore balance after disequilibrium | Discomfort when the fox is not a dog motivates accommodation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--04-psy-piaget-adaptation.webp" width="900" height="880" alt="Two panels use a shape-fitting picture. Assimilation: a square block drops into a square hole in a frame that stands for a schema, so the schema stays the same. Accommodation: a triangular block does not fit a square hole, so the schema is reshaped with a triangular hole. Arrows from both panels lead to equilibration, balance restored." loading="lazy">
+  <figcaption>New experience is fitted into a schema (assimilation) or the schema is changed (accommodation), restoring equilibrium.</figcaption>
+</figure>
+
 ## Piaget's stages
 
 | Stage | Age | Key features | Classic task |
@@ -51,6 +56,11 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 | Concrete operational | 7-11 | Conservation; logic applied to concrete objects | Passes conservation tasks |
 | Formal operational | 11+ | Abstract and hypothetical reasoning | Systematic problem solving |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--01-piaget-stages-tasks.webp" width="900" height="770" alt="Four rising steps: sensorimotor (0-2), pre-operational (2-7), concrete operational (7-11) and formal operational (11+). Rows give the tasks: object permanence at about 8 months, the three mountains task for egocentrism, liquid conservation, class inclusion with beads, logical reasoning about concrete objects, and abstract reasoning in the formal stage." loading="lazy">
+  <figcaption>Each stage is defined by what children can and cannot do on Piaget’s tasks.</figcaption>
+</figure>
+
 ## Challenges to Piaget
 
 | Study | Finding | Implication |
@@ -59,6 +69,16 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 | McGarrigle and Donaldson (1974), naughty teddy | About 62% conserved with accidental change, 16% with deliberate change | Piaget's method may have misled children |
 | Baillargeon and DeVos (1991), carrots | Infants of about 3.5 months looked longer at the impossible event | Object permanence earlier than Piaget claimed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--02-challenges-to-piaget.webp" width="900" height="654" alt="Hughes (1975): about 90 percent of children aged three and a half to five hid a boy doll from policeman dolls. McGarrigle and Donaldson (1974): about 62 percent of four to six year olds conserved number when a naughty teddy disarranged the counters, against 16 percent when the experimenter did it. These support Piaget's sequence but challenge his ages." loading="lazy">
+  <figcaption>Tasks that make sense to children reveal abilities earlier than Piaget claimed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--03-baillargeon-carrots.webp" width="900" height="764" alt="Two schematic scenes: a short carrot slides behind a screen below its window and is never seen; a tall carrot should appear in the window but does not. Infants of about three and a half months looked longer at the impossible tall-carrot event, suggesting object permanence earlier than Piaget claimed, though longer looking may only reflect novelty." loading="lazy">
+  <figcaption>Longer looking at the impossible event suggests infants expected the carrot to exist.</figcaption>
+</figure>
+
 ## Vygotsky
 
 - **Elementary mental functions** develop into **higher mental functions** through social interaction and cultural tools, especially language.
@@ -66,6 +86,11 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 - **Zone of proximal development (ZPD):** the gap between what a child can do alone and with help.
 - **Scaffolding** (Wood, Bruner and Ross, 1976): support within the ZPD, gradually withdrawn.
 - **Speech:** social speech to private speech to inner speech.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--04-scaffolding-and-speech.webp" width="900" height="727" alt="Scaffolding from a more knowledgeable other fades from direct demonstration to hints to encouragement until the child works alone. Language moves from social speech to private speech to inner speech, a tool of thought. Vygotsky's ideas shaped guided group work and peer tutoring, but the ZPD is hard to measure." loading="lazy">
+  <figcaption>Support fades as competence grows; speech turns inward and becomes thought.</figcaption>
+</figure>
 
 ## Piaget versus Vygotsky
 
@@ -77,11 +102,26 @@ Condensed recall for **3.2.2 Cognitive development** (OxfordAQA International AS
 | Language | Product of thought | Tool that shapes thought |
 | Teaching implication | Discovery learning, readiness | Guided learning, scaffolding |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--05-psy-piaget-vs-vygotsky.webp" width="900" height="1200" alt="Top panel, Piaget: a staircase of four steps with a child standing alone on the second step and an upward arrow labelled stages, to show an internal, stage-based process. Bottom panel, Vygotsky: three concentric rings with a child in the centre. The inner ring is what the child can do alone, the middle ring is the zone of proximal development, what the child can do with help, and the outer ring is not yet possible. A helper outside the rings gives scaffolding by reaching into the middle ring." loading="lazy">
+  <figcaption>Piaget: an internal, stage-based process. Vygotsky: development driven socially and culturally, through scaffolding in the zone of proximal development.</figcaption>
+</figure>
+
 ## Social cognition
 
 - **Theory of mind:** understanding that others have beliefs and intentions that may differ from one's own and from reality. Most children pass false-belief tasks at around age four (Wimmer and Perner, 1983).
 - **Sally-Anne (Baron-Cohen, Leslie and Frith, 1985):** about 85% of typically developing children and 86% of children with Down syndrome passed; about 20% of autistic children passed.
 - **Mirror neurons:** fire both when acting and when observing the same action; first identified in macaque premotor cortex (Rizzolatti, Gallese and colleagues, 1990s); proposed to support understanding intentions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--05-sally-anne.webp" width="900" height="747" alt="Four steps: Sally puts a marble in her basket, leaves, Anne moves it to her box, and children are asked where Sally will look (correct answer: the basket). Bars: about 85 percent of typically developing children and 86 percent of children with Down syndrome answered correctly, against 20 percent of autistic children." loading="lazy">
+  <figcaption>Most autistic children failed the false-belief question that other groups passed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-cognitive-development--06-mirror-neurons.webp" width="900" height="700" alt="The same mirror neurons fire when performing an action and when watching someone else perform it. In humans a similar system is proposed to support understanding of actions and intentions, theory of mind and empathy. Brain imaging supports this, but most recordings come from monkeys and Hickok (2009) argues the role is overstated." loading="lazy">
+  <figcaption>Neurons that fire for doing and for watching may help us read others.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -69,6 +69,11 @@ Topic 17 has no numbered subtopics; the syllabus gives six content rows.
 | Columns | Number of columns, column width, spacing between columns |
 | Breaks | Page break, section break, column break — set and remove |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-document-production-study-guide--07-doc-page-layout.webp" width="900" height="1167" alt="An A4 portrait page drawn to scale with a ruler along the top in centimetres: 3 cm left margin, 1 cm gutter, 15 cm text block and 2 cm right margin, adding to 21 cm. The top and bottom margins are 2 cm each. A header sits in the top margin and a footer with a page number at bottom right sits in the bottom margin. The text therefore starts 3 + 1 = 4 cm from the left edge and is 21 - 4 - 2 = 15 cm wide." loading="lazy">
+  <figcaption>With a 3 cm left margin plus a 1 cm gutter the text starts 4 cm from the edge, leaving a 15 cm text block on A4.</figcaption>
+</figure>
+
 ## What is the purpose of page, section and column breaks?
 
 | Break | Purpose |
@@ -76,6 +81,11 @@ Topic 17 has no numbered subtopics; the syllabus gives six content rows.
 | Page break | Starts the following text on a new page, for example to begin a new chapter or keep a table together |
 | Section break | Divides the document into sections that can have different layouts — for example one column for the title, then two columns for the body, or a landscape page among portrait ones; different headers and footers per section |
 | Column break | Forces the following text to the top of the next column, for example to balance columns or start a new article |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-document-production-study-guide--12-doc-sections-pagination.webp" width="900" height="780" alt="Three pages in a row. The first is a cover page with no page number. A section break between it and the second page allows different settings, so the second page is numbered 1 and the third page, after a page break, is numbered 2 by an automatic page-number field at bottom right. A section break allows different settings such as numbering, columns or orientation; a page break only starts a new page." loading="lazy">
+  <figcaption>A section break lets a cover page have no number while later pages are numbered; a page break only starts a new page.</figcaption>
+</figure>
 
 ## Format text
 
@@ -109,15 +119,30 @@ Bulleted lists for items in no particular order; numbered lists for steps or ran
 - **Whole words only**: only finds the complete word (replacing *cat* will not change *category*).
 - Use **Replace All** only when you are sure every occurrence should change; check the count reported.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-document-production-study-guide--10-doc-find-replace.webp" width="900" height="1000" alt="Three small demonstrations. Searching for &quot;art&quot; without whole words only finds three matches (art, party and start); with whole words only it finds one. Replacing &quot;it&quot; with &quot;they&quot; across all text without whole-word matching turns &quot;with&quot; into &quot;wtheyh&quot; and &quot;little&quot; into &quot;ltheytle&quot;, while with whole words only both words are unchanged. Searching for &quot;Park&quot; with match case finds only &quot;Park&quot;; without it, both &quot;Park&quot; and &quot;park&quot; match." loading="lazy">
+  <figcaption>Whole-word and match-case options stop Find and Replace all from changing letters inside other words.</figcaption>
+</figure>
+
 ## Navigation: bookmarks and hyperlinks
 
 - A **bookmark** marks a location in a document by name.
 - A **hyperlink** can jump to a bookmark in the same document, another file, a web page or an email address.
 - You must be able to **add and delete** both.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-document-production-study-guide--11-doc-navigation.webp" width="900" height="950" alt="Top: a document with three headings built from heading styles produces a table of contents listing each heading with its page number, and the contents can be updated after any change. Bottom: a hyperlink on one page, with the words &quot;see Results&quot;, jumps to a bookmark flag placed at the Results heading on another page. Page numbers are illustrative." loading="lazy">
+  <figcaption>Heading styles feed an automatic table of contents; a hyperlink jumps to a bookmark.</figcaption>
+</figure>
+
 ## What is a gutter margin for?
 
 A **gutter margin** is extra margin space added to the inside edge of pages (left side, or top) for **binding**, so text is not hidden in the binding when the document is printed and bound or stapled. Mirrored margins with a gutter are used when pages are printed on both sides.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-document-production-study-guide--08-doc-gutter-mirrored.webp" width="900" height="1274" alt="Top: a strip across a single-sided page showing a 2.5 cm margin plus a 1 cm gutter, so the text starts 3.5 cm from the left edge. Bottom: two facing pages with mirrored margins, a left-hand and a right-hand page joined at the binding. The gutter is the hatched strip next to the binding on each page, on the right of the left-hand page and the left of the right-hand page, and the outer margins swap sides." loading="lazy">
+  <figcaption>The gutter is extra space on the binding edge, added on top of the normal margin; with mirrored margins it swaps sides on facing pages.</figcaption>
+</figure>
 
 ## Worked example: setting up a newsletter
 

@@ -39,6 +39,11 @@ These notes cover the "qualitative and quantitative methods" row of section 3.7 
 
 Add **practical** (time, cost, access) and **ethical** (consent, confidentiality, harm) points to complete an evaluation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-research-methods--03-methods-spectrum.webp" width="900" height="744" alt="A line runs from quantitative methods, which are more reliable and easy to compare, to qualitative methods, which give more depth and validity. Questionnaires, structured interviews, unstructured interviews and participant observation are placed along it with a strength and a weakness each. Below, mixed methods combine both." loading="lazy">
+  <figcaption>Quantitative methods favour reliability; qualitative methods favour validity; mixed methods combine them.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -67,6 +72,11 @@ Add **practical** (time, cost, access) and **ethical** (consent, confidentiality
 | Mixed methods research | Combining quantitative and qualitative methods in one study |
 | Triangulation | Checking findings with more than one method or source |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--01-questionnaire-design.webp" width="900" height="719" alt="Closed questions give quantitative data and open questions give qualitative data. Three wording traps: leading questions suggest an answer, loaded questions use emotive words, and double-barrelled questions ask two things at once. Below, delivery choices affect response rates." loading="lazy">
+  <figcaption>Every question type and every word choice affects the data a questionnaire produces.</figcaption>
+</figure>
+
 ## Evaluation grid
 
 | Method | Reliability | Validity | Representativeness | Practical | Ethical |
@@ -79,6 +89,16 @@ Add **practical** (time, cost, access) and **ethical** (consent, confidentiality
 | Covert participant observation | Low | High: natural behaviour | One group | Risky; hard to record | No informed consent; deception |
 | Non-participant observation | Moderate if a checklist is used | Observer effect if overt | One setting | Less time than joining | Depends on overt or covert |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--02-interview-types.webp" width="900" height="741" alt="A line from quantitative to qualitative. Structured interviews ask the same questions in the same order, as in Young and Willmott’s survey. Semi-structured interviews add freedom to probe. Unstructured interviews are guided conversations, as Carlen used. Focus groups discuss a topic together. Below, strengths and weaknesses." loading="lazy">
+  <figcaption>The less structured the interview, the more depth and the less comparability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--03-observation-types.webp" width="900" height="791" alt="A two-by-two grid. Overt participant: joining a staff room with permission. Overt non-participant: sitting at the back of a classroom. Covert participant: taking a job without revealing the research. Covert non-participant: watching a public place unnoticed. Overt observation risks the observer effect; covert observation raises consent and deception. Below, going native and ethnography." loading="lazy">
+  <figcaption>Joining or watching, openly or in secret: each choice trades validity against other problems.</figcaption>
+</figure>
+
 ## Choosing a method: quick rules
 
 - **"How many?"** → questionnaire or structured interview.
@@ -88,11 +108,21 @@ Add **practical** (time, cost, access) and **ethical** (consent, confidentiality
 - **Sensitive and private topic** → unstructured interview, with careful ethics.
 - **Hidden or deviant group** → participant observation, often with snowball access.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--04-matching-methods.webp" width="900" height="725" alt="Five research questions matched to methods: a closed-question questionnaire for how many couples share housework; participant observation for why pupils join anti-school groups; unstructured interviews for domestic violence; a focus group for parents’ views on school choice; and structured interviews for attitudes to crime across age groups." loading="lazy">
+  <figcaption>Choose the method that fits what the question asks: how many, why, or how people experience it.</figcaption>
+</figure>
+
 ## Mixed methods: for and against
 
 **For:** triangulation; numbers show scale and words explain it; one method can help design another; a fuller picture, as Willis's combination of methods shows.
 
 **Against:** more time and money; needs several skills; results may conflict; a small qualitative part does not make the whole study representative.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-qualitative-and-quantitative-methods--05-mixed-methods.webp" width="900" height="735" alt="Two sequences: interviews can help design a questionnaire, or a questionnaire can show the scale of a pattern and identify people to interview. Below, uses such as triangulation and Willis’s combined methods, and limits such as cost and conflicting results." loading="lazy">
+  <figcaption>Numbers show how big a pattern is; words explain why it happens.</figcaption>
+</figure>
 
 ## Named studies by method
 

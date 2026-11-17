@@ -35,10 +35,25 @@ use the [Paper 4 Section B Post-1900 study guide](/resources/cambridge-a-level-e
 - Closed book; no dictionaries.
 - **Form rule**: the opposite form to your Section A text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--01-section-b-at-a-glance.webp" width="900" height="562" alt="Paper 4 is worth 50 marks: Section A pre-1900 and Section B post-1900 at 25 marks each. Section B is one essay assessed on AO1 to AO5 at 20% each. You choose an (a) essay on the whole text or a (b) question on a printed passage or poem, and texts are not allowed in the exam room." loading="lazy">
+  <figcaption>One post-1900 essay worth 25 marks, assessed on all five objectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--02-form-rule-and-texts.webp" width="900" height="730" alt="The 2026 Section B texts sorted by form. Prose: Coetzee’s Waiting for the Barbarians, Mansfield’s Selected Stories and Morrison’s Beloved, which pair with pre-1900 poetry. Poetry: Glück’s The Wild Iris, Okara’s Collected Poems and Trethewey’s Native Guard, which pair with pre-1900 prose. For 2027, Bishop, Powers’s The Overstory and Vuong’s Night Sky with Exit Wounds replace Glück, Beloved and Native Guard." loading="lazy">
+  <figcaption>Section B must be the form you did not choose in Section A.</figcaption>
+</figure>
+
 ## The one principle
 
 Modern texts often **withhold** what older texts supply: order, a reliable narrator, a single voice, a
 settled meaning. Analyse **how** the text makes the reader assemble meaning, and why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--03-reader-does-the-work.webp" width="900" height="601" alt="Four dashed boxes show what modern texts often withhold: a reliable narrator, chronological order, a settled meaning and a single voice. Scattered pieces become an assembled square, showing the reader assembling meaning. Strong answers describe how the text makes the reader do this work. Filling the gaps is crossed out; analysing the withholding is ticked." loading="lazy">
+  <figcaption>Analyse how the text makes you assemble its meaning, not the gaps you could fill.</figcaption>
+</figure>
 
 ## Key terms: prose
 
@@ -53,6 +68,11 @@ settled meaning. Analyse **how** the text makes the reader assemble meaning, and
 | Open ending | Conflict left unresolved | Reader completes the meaning |
 | Epiphany | A sudden moment of insight | Short-story turning point |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--04-narrative-voice-and-tense.webp" width="900" height="690" alt="Three narrative methods. Coetzee: first-person present tense, so the Magistrate narrates without hindsight and his understanding grows and fails alongside ours. Mansfield: interior focalisation and free indirect discourse follow a character’s shifting perceptions, often within a single day. Morrison: Beloved moves between perspectives and merges voices, so no single account is complete." loading="lazy">
+  <figcaption>Present tense, close focalisation and merging voices all limit what we know.</figcaption>
+</figure>
+
 ## Key terms: poetry
 
 | Term | Meaning | What to say |
@@ -66,6 +86,11 @@ settled meaning. Analyse **how** the text makes the reader assemble meaning, and
 | White space | Gaps on the page | Pause, silence, isolation |
 | Lyric "I" | The speaking self of a short poem | Treat as constructed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--06-post-1900-poetry-methods.webp" width="900" height="655" alt="Two sequences: The Wild Iris gives voices to flowers, a gardener and a god that answer one another; Native Guard weaves personal elegy for the poet’s mother with the history of a regiment of Black Union soldiers, including linked sonnets in a soldier’s voice. Below: received forms used in new ways, as in Trethewey’s repeating forms; free verse shaped by line breaks; and Okara’s voice between African and European traditions." loading="lazy">
+  <figcaption>Read poems within their sequence and ask what each form brings with it.</figcaption>
+</figure>
+
 ## Text reminders (2026)
 
 - **Coetzee**: Magistrate narrates largely in the present tense; unnamed Empire; allegory of power and
@@ -78,6 +103,11 @@ settled meaning. Analyse **how** the text makes the reader assemble meaning, and
 
 For 2027, Bishop, Powers and Vuong replace Glück, Morrison and Trethewey.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--05-structure-and-allegory.webp" width="900" height="638" alt="Left: a spiral circling inward to a central point, showing how Beloved reveals its central event gradually by circling back through memory. Right: ask why the writer delays information and what the reader feels at the revelation. Below: Waiting for the Barbarians has an unnamed Empire, frontier town and date, so it works as allegory about power, torture and the making of an enemy, which AO5 can weigh." loading="lazy">
+  <figcaption>Delay and vagueness are choices to analyse and evaluate.</figcaption>
+</figure>
+
 ## Critical approaches for AO5
 
 | Approach | Key questions |
@@ -89,6 +119,11 @@ For 2027, Bishop, Powers and Vuong replace Glück, Morrison and Trethewey.
 | Historicist | How does the text engage with the history it represents? |
 
 **AO5 pattern**: name the reading → test it against specific evidence → judge which is more convincing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--07-critical-approaches-model.webp" width="900" height="835" alt="Four critical approaches: postcolonial (power, empire, the other), feminist (voice, the body, who is silenced), psychoanalytic (trauma, memory, repression) and ecocritical (people and nature). Below, the model paragraph on Coetzee’s Magistrate: present-tense narration; a sympathetic reading against a sceptical postcolonial one; the present tense supports the second; judgement that he is a liberal conscience unable to escape the system." loading="lazy">
+  <figcaption>Name an approach, then test it on the text before judging.</figcaption>
+</figure>
 
 ## Worked AO5 sentence
 
@@ -119,6 +154,11 @@ conventions; gender and family; environmental change. One sentence tied to one c
 AO5.
 
 **(a)**: positioned thesis → range across the text → method in every paragraph → AO5 woven through.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose--08-answer-shapes.webp" width="900" height="402" alt="Two flows. A (b) answer on a passage or poem: locate it in the text or sequence, state a thesis, analyse voice, structure, form and imagery, link outward, then evaluate AO5. An (a) whole-text essay: a positioned thesis, moments or poems from across the text, method in every paragraph, and AO5 woven through." loading="lazy">
+  <figcaption>Both answers end in evaluated AO5; the (a) essay weaves it through.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -34,6 +34,16 @@ For full explanations and an annotated answer, use the [leadership and managemen
 - **4.2.2**: Muczyk and Reimann's four styles; Scouller's public, private and personal levels; gender and style, key study Cuadrado et al. (2008).
 - **4.2.3**: Kouzes and Posner's LPI with five practices; Kelley's (1988) followership, two dimensions and five styles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--01-universalist-theories.webp" width="900" height="710" alt="Three universalist theories: great person (born with special traits), charismatic (personal appeal and vision) and transformational (followers put group goals first). The four components of transformational leadership are idealised influence, inspirational motivation, intellectual stimulation and individualised consideration, contrasted with transactional leadership. Evaluation points follow." loading="lazy">
+  <figcaption>Universalist theories say one set of qualities makes a leader everywhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--02-ohio-michigan.webp" width="900" height="656" alt="Left: the Ohio studies as two independent axes, initiating structure and consideration, with leaders high on both often seen as most effective. Right: the Michigan studies as one line from job-centred to employee-centred, with employee-centred leaders associated with more productive groups. A note evaluates both." loading="lazy">
+  <figcaption>Ohio: two separate dimensions. Michigan: originally one line with two ends.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -51,12 +61,22 @@ For full explanations and an annotated answer, use the [leadership and managemen
 | Followership | The role of actively supporting a leader and the group's goals |
 | Role congruity theory | Leaders are judged against gender role expectations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--04-scouller-levels.webp" width="900" height="620" alt="Nested circles: personal leadership at the core, inside private leadership, inside public leadership. Labels explain public (behaviour towards a group, such as setting a vision), private (one-to-one coaching and feedback) and personal (self-awareness, know-how and attitudes, which underpins the others)." loading="lazy">
+  <figcaption>Public is the group, private is one-to-one, personal is the inner self.</figcaption>
+</figure>
+
 ## Muczyk and Reimann's four styles
 
 | | Directive (close supervision) | Permissive (freedom in execution) |
 |---|---|---|
 | **Autocratic (leader decides)** | Directive autocrat | Permissive autocrat |
 | **Democratic (staff share decisions)** | Directive democrat | Permissive democrat |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--04-org-muczyk.webp" width="900" height="750" alt="A two by two grid: autocratic or democratic across the top (how far staff take part in decisions) and directive or permissive down the side (how closely staff are directed), giving four styles." loading="lazy">
+  <figcaption>Two dimensions give four leadership styles.</figcaption>
+</figure>
 
 ## Heifetz's six principles, applied to a school introducing a new timetable
 
@@ -68,6 +88,11 @@ For full explanations and an annotated answer, use the [leadership and managemen
 | Maintain disciplined attention | Keeps meetings focused on the difficult trade-offs |
 | Give the work back to the people | Lets departments design their own solutions |
 | Protect voices of leadership from below | Listens to junior teachers who raise problems |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--03-heifetz-adaptive.webp" width="900" height="697" alt="Technical problems are solved by experts with existing knowledge; adaptive challenges need people to change, so the leader mobilises them. Six numbered principles follow: get on the balcony, identify the adaptive challenge, regulate distress, maintain disciplined attention, give the work back, and protect voices of leadership from below." loading="lazy">
+  <figcaption>Adaptive leaders mobilise people to solve problems that need them to change.</figcaption>
+</figure>
 
 ## Key study grid: Cuadrado et al. (2008)
 
@@ -82,6 +107,11 @@ For full explanations and an annotated answer, use the [leadership and managemen
 | Results | Feminine styles rated more favourably for both sexes; no leader-sex or evaluator-sex differences |
 | Conclusion | Prediction not supported in this setting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-leadership-and-management--05-cuadrado-2008.webp" width="900" height="863" alt="A two by two design crossing leader sex with masculine or feminine style, in a hospital emergency story. Contrary to role congruity theory, leaders of both sexes were rated higher with the feminine, democratic and relationship-oriented style, with no differences by leader or evaluator sex." loading="lazy">
+  <figcaption>Feminine styles were rated higher for leaders of both sexes.</figcaption>
+</figure>
+
 ## Kelley's five followership styles
 
 | Style | Critical thinking | Engagement |
@@ -91,6 +121,11 @@ For full explanations and an annotated answer, use the [leadership and managemen
 | Conformist | Low | High |
 | Passive | Low | Low |
 | Pragmatist | Middle | Middle |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-organisational-psychology--05-org-kelley.webp" width="900" height="900" alt="A chart with active engagement across and independent critical thinking up. Exemplary is high on both, alienated is critical but passive, conformist is active but uncritical, passive is low on both and pragmatist is in the middle." loading="lazy">
+  <figcaption>Kelley’s five followership styles on two dimensions.</figcaption>
+</figure>
 
 ## LPI: five practices
 

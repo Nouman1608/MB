@@ -34,6 +34,11 @@ Related: [Conflict and intervention study guide](/resources/ib-ib-dp-world-histo
 - **Short-term**: RPF invasion (October 1990); Hutu Power propaganda and militias; the Arusha Accords (August 1993) feared by extremists; the assassination in Burundi of its first Hutu president (October 1993) heightened fear.
 - **Trigger**: the shooting down of Habyarimana's plane (6 April 1994).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--02-rwanda-causes.webp" width="900" height="675" alt="A vertical timeline: Belgian rule after 1918 hardened Hutu and Tutsi into racial categories on identity cards and favoured the Tutsi; Belgium later switched support to the Hutu; the Hutu revolution of 1959-1962 drove Tutsi into exile; the RPF invaded in October 1990; Hutu Power organised militias and radio propaganda; the Arusha Accords of August 1993 were seen as betrayal by extremists; and on 6 April 1994 the president's plane was shot down and killing began." loading="lazy">
+  <figcaption>Colonial categories, civil war and extremist organisation lay behind the genocide.</figcaption>
+</figure>
+
 ## Rwanda: the intervention record
 
 | Actor | Action | Assessment |
@@ -45,12 +50,22 @@ Related: [Conflict and intervention study guide](/resources/ib-ib-dp-world-histo
 | France | Close to the Habyarimana regime; Operation Turquoise (June-August 1994) | Saved some lives; accused of shielding génocidaires |
 | RPF | Military campaign; took Kigali (July 1994) | Ended the genocide; later accused of reprisal killings |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--03-rwanda-1994-response.webp" width="900" height="702" alt="Paired rows for 1994: Dallaire's January warning met an order not to raid arms caches; when killing began on 6-7 April, Belgium withdrew and Western states evacuated their nationals; on 21 April UNAMIR was reduced; as roughly 800,000 were killed in about a hundred days the US resisted the word genocide; France's Operation Turquoise began in June; and the RPF ended the genocide by taking Kigali in July." loading="lazy">
+  <figcaption>The outside world withdrew as the killing began; the RPF, not the UN, ended it.</figcaption>
+</figure>
+
 ## Kosovo: causes in layers
 
 - **Long-term**: competing Serbian and Albanian national claims; Kosovo's place in Serbian national memory; Albanian majority.
 - **Medium-term**: Milošević's removal of autonomy (1989); dismissals from public jobs; Albanian parallel institutions under Rugova.
 - **Short-term**: Dayton (1995) ignored Kosovo; the KLA's armed campaign; weapons from Albania after 1997; Serbian offensives in 1998.
 - **Trigger for NATO action**: Račak (January 1999) and the failure of Rambouillet (March 1999).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--05-kosovo-1989-2002.webp" width="900" height="801" alt="A vertical timeline: autonomy removed in 1989; non-violent resistance under Rugova; the Dayton Agreement of 1995 ignores Kosovo and the KLA begins attacks; Serbian offensives in 1998; Račak in January 1999; failed Rambouillet talks; NATO bombing from 24 March to 10 June 1999; Resolution 1244 placing Kosovo under UN administration; and Milošević indicted in May 1999, removed in 2000 and on trial from 2002." loading="lazy">
+  <figcaption>Non-violence, then insurgency, then NATO bombing and UN administration.</figcaption>
+</figure>
 
 ## Kosovo: the intervention record
 
@@ -72,6 +87,16 @@ Related: [Conflict and intervention study guide](/resources/ib-ib-dp-world-histo
 | Authorisation | Security Council acted, but weakly | Force used without Security Council authorisation |
 | Outcome | Ended by the RPF's victory | Ended by Yugoslav withdrawal under NATO pressure |
 | Justice | ICTR; Akayesu judgment (1998) | ICTY; Milošević trial (2002) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--01-intervention-contrast.webp" width="900" height="447" alt="Two panels. Rwanda: UNAMIR was present with a limited mandate, was reduced on 21 April 1994, and the genocide was ended by the RPF's victory in July 1994. Kosovo: NATO bombed from 24 March to 10 June 1999 without Security Council authorisation, followed by UN administration with KFOR. Below, four criteria for evaluating an intervention: lives saved, conflict ended, international law respected, justice delivered." loading="lazy">
+  <figcaption>Judge both cases by the same criteria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5--04-rwanda-impact.webp" width="900" height="539" alt="Two strands of impact. Refugees and regional war: around two million Hutu fled, many to camps in Zaire, and attacks from the camps contributed to the First Congo War of 1996-1997. International justice: the ICTR was created at Arusha in November 1994, and its 1998 Akayesu judgment was the first international conviction for genocide. In 1998 President Clinton acknowledged the international failure." loading="lazy">
+  <figcaption>The genocide spread war into Zaire and created new international justice.</figcaption>
+</figure>
 
 ## Key terms
 

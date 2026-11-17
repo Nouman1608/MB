@@ -91,6 +91,11 @@ assessment 2026 — the course examined in the May and November 2026, 2027 and 2
 4. Separate the share from the absolute amount — a rising share can hide a flat or rising fossil total.
 5. Link to energy security: imported fuels, dependence on one source, intermittency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--01-sustainable-yield-forest.webp" width="900" height="670" alt="Graph of a plantation stock over ten years. Felling 920 t a year, equal to the sustainable yield, keeps the stock at 18 400 t; felling 1150 t a year takes 230 t above the yield and cuts the stock to 16 100 t. Steps show SY = 19 320 − 18 400 = 920 t, 5.0% of the stock." loading="lazy">
+  <figcaption>Harvest no more than the sustainable yield, or natural capital shrinks.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 **Percentage points.** A renewable share rising from 17.9% to 30.6% is a rise of
@@ -100,6 +105,16 @@ assessment 2026 — the course examined in the May and November 2026, 2027 and 2
 **Landfill lifespan.** A site has 150,000 m³ of space left and receives 12,000 t of compacted waste a
 year at 0.8 t/m³. Volume per year = 12,000 ÷ 0.8 = 15,000 m³, so lifespan = 150,000 ÷ 15,000 =
 **10 years**. Divide mass by density, not the other way round.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--04-energy-mix.webp" width="900" height="635" alt="Stacked bars of electricity generation in a fictional country. 2015: 280 TWh with coal 140, gas 60, oil 10, nuclear 20, hydro 35, wind 10, solar 2, biomass 3. 2025: 310 TWh with coal 110, gas 80, oil 5, nuclear 20, hydro 38, wind 32, solar 20, biomass 5. The renewable share rose from 17.9% to 30.6%, but fossil generation fell by only 15 TWh." loading="lazy">
+  <figcaption>The renewable share rose, but growing demand kept fossil generation high.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--07-landfill-lifespan.webp" width="900" height="660" alt="Flow of calculations. Now: 30 400 t of waste a year, 22 800 t landfilled, 30 400 cubic metres a year at 0.75 t per cubic metre, so 380 000 cubic metres of space lasts 12.5 years. With food-waste collection and better recycling: 15 000 t landfilled, 20 000 cubic metres a year, 50.7% diverted, lasting 19 years." loading="lazy">
+  <figcaption>Diverting half the waste stretches the landfill from 12.5 to 19 years.</figcaption>
+</figure>
 
 ## 7.1 Natural resources in brief
 
@@ -112,6 +127,16 @@ year at 0.8 t/m³. Volume per year = 12,000 ÷ 0.8 = 15,000 m³, so lifespan = 1
   community rules, circular-economy design.
 - Commons can be managed well where boundaries are clear, rules are local and cheating is punished.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--02-maximum-sustainable-yield.webp" width="900" height="776" alt="Hump-shaped graph of yearly growth against stock size, from zero to the carrying capacity K. Growth is fastest at about half of K, where the maximum sustainable yield can be taken. MSY is risky because stock estimates are uncertain." loading="lazy">
+  <figcaption>Growth, and so the maximum sustainable yield, peaks at about half the carrying capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--03-tragedy-of-the-commons.webp" width="900" height="700" alt="A shared pasture used by several herders. One herder adds an animal and gets the full benefit, while the cost of overgrazing is shared by all. Each user acting rationally leads to overexploitation. A note says commons with clear boundaries, agreed rules and penalties have been managed sustainably." loading="lazy">
+  <figcaption>Private gain with shared cost drives overexploitation of a common-pool resource.</figcaption>
+</figure>
+
 ## 7.2 Energy in brief
 
 - **Non-renewable:** coal, oil, natural gas, nuclear fission (uranium is a finite ore).
@@ -121,6 +146,11 @@ year at 0.8 t/m³. Volume per year = 12,000 ÷ 0.8 = 15,000 m³, so lifespan = 1
 - **Intermittency** (wind, solar) is managed by storage, a mixed grid, interconnection and demand
   management.
 - Improve security by diversifying sources, developing local supply, storing energy and cutting demand.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--05-energy-choices-security.webp" width="900" height="790" alt="Seven factors point to a society’s energy mix: availability of local resources, technology and cost, economic factors, political factors, cultural and social attitudes, environmental concerns and energy security. Below, four ways to improve energy security: diversify sources, develop local renewables, store fuel or electricity, and reduce demand." loading="lazy">
+  <figcaption>Energy choices balance several factors; security depends on diversity and demand.</figcaption>
+</figure>
 
 ## 7.3 Solid waste in brief
 
@@ -136,6 +166,11 @@ year at 0.8 t/m³. Volume per year = 12,000 ÷ 0.8 = 15,000 m³, so lifespan = 1
 - Composting diverts the organic fraction and cuts landfill methane.
 - Recycling saves raw materials but depends on sorting, clean collection and a market.
 - E-waste is both hazardous (toxic metals) and valuable (recoverable metals).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-natural-resources-energy-waste--06-waste-hierarchy.webp" width="900" height="770" alt="An inverted pyramid of waste strategies from most to least preferred: reduce, reuse, recycle or compost, recover energy, dispose to landfill. Reduce and reuse match level 1 of the pollution management model (altering human activity); recycling, composting, incineration and landfill taxes match level 2 (controlling release); clean-up and restoration is level 3." loading="lazy">
+  <figcaption>Reduce and reuse come before recycling; disposal is the last resort.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

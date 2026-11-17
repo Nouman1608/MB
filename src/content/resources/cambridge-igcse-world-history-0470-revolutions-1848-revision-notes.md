@@ -38,6 +38,11 @@ liberalism and nationalism, and the reasons for failure. Full explanations are i
 | Repression under Metternich: Carlsbad Decrees (1819) | Example of Paris, February 1848, spread by newspapers and railways |
 | Growing, excluded middle class; threatened artisans | Weak or hesitant rulers who gave way at first |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-revolutions-1848--01-ideas-meet-crisis.webp" width="900" height="643" alt="Two cards define liberalism and nationalism, held down by Metternich's system (the Congress of Vienna, the Carlsbad Decrees, Austrian troops in Italy). Below, the economic trigger: potato blight from 1845, poor harvests in 1846 and a slump in 1847 led to dear bread and unemployment in 1848." loading="lazy">
+  <figcaption>Liberal and nationalist ideas met an economic crisis in 1848.</figcaption>
+</figure>
+
 ## Timeline to learn
 
 | Date | Event |
@@ -57,6 +62,11 @@ liberalism and nationalism, and the reasons for failure. Full explanations are i
 | July-August 1849 | French troops take Rome; Venice surrenders; Russians help crush Hungary |
 | December 1851 | Louis Napoleon's coup; Napoleon III emperor in 1852 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-revolutions-1848--02-four-revolutions.webp" width="900" height="755" alt="Four lanes on one time scale from January 1848 to August 1849. France: the king abdicates (February), the June Days, Louis Napoleon elected (December); his coup came only in 1851. Italy: Palermo (January), Milan's Five Days, Custoza, Novara and the fall of Venice (August 1849). Germany: the Berlin rising, the Frankfurt Parliament and the crown refused (April 1849). Austrian Empire: Vienna and Metternich's fall, Prague, Vienna retaken and Hungary crushed (August 1849)." loading="lazy">
+  <figcaption>Every revolution rose in early 1848 and was over by late 1849.</figcaption>
+</figure>
+
 ## Why most revolutions failed
 
 - **Armies stayed loyal to rulers**: Radetzky (Italy), Windischgrätz (Prague, Vienna), the Prussian army (Berlin).
@@ -65,6 +75,11 @@ liberalism and nationalism, and the reasons for failure. Full explanations are i
 - **Peasants satisfied** once labour services ended in 1848.
 - **Foreign intervention**: Russia in Hungary; France in Rome.
 - **Frankfurt's weakness**: no army, no tax income, long debates, dependence on Prussia over Schleswig-Holstein.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-revolutions-1848--04-why-failed.webp" width="900" height="505" alt="A hub with &quot;most revolutions fail&quot; at the centre and six reasons around it: rulers kept their armies (highlighted), revolutionaries were divided, nationalities clashed, peasants lost interest, foreign powers intervened, and leadership was weak." loading="lazy">
+  <figcaption>Division weakened the revolutions; loyal armies defeated them.</figcaption>
+</figure>
 
 ## What changed
 
@@ -75,6 +90,11 @@ liberalism and nationalism, and the reasons for failure. Full explanations are i
 | Piedmont's Statuto survives | The only Italian constitution to survive |
 | Prussia keeps a parliament | Elected on an unequal three-class system |
 | Nationalism now a mass issue | Unification would need war and diplomacy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-revolutions-1848--05-did-they-change.webp" width="900" height="492" alt="A balance. Little change: monarchs restored by 1849-50, Austria back in control, no united Germany, liberals jailed or exiled. Lasting change: the end of serfdom in Austria, French male suffrage, Piedmont's constitution, a Prussian parliament, and lessons learned by Cavour and Bismarck." loading="lazy">
+  <figcaption>Rulers returned, but serfdom, suffrage and Piedmont's constitution lasted.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -111,6 +131,11 @@ liberalism and nationalism, and the reasons for failure. Full explanations are i
 - **Why did most fail?** Loyal armies, divisions among revolutionaries and between nationalities, and foreign help
   for rulers.
 - **Did they change anything?** Some lasting reforms, and the lesson that unity would need force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-revolutions-1848--03-common-features.webp" width="900" height="635" alt="A table of five common features with examples: liberal demands, nationalist aims, an economic trigger, middle-class urban leaders and early success followed by collapse within about 18 months. Two differences: France was already a nation, and in the Austrian Empire nationalism split the revolution." loading="lazy">
+  <figcaption>Shared causes and pattern, but different aims in France and the Austrian Empire.</figcaption>
+</figure>
 
 ## Self-test
 

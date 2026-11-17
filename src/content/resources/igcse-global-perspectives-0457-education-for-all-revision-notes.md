@@ -70,6 +70,16 @@ The syllabus weights AO1 at 100% of Component 1. AO2 and AO3 carry marks only in
 
 Check up-to-date figures, such as numbers of children out of school, from the organisation that collects them, and note the year. Old data weakens an argument about the present.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--01-promises-timeline.webp" width="900" height="688" alt="A timeline of commitments: the Universal Declaration of Human Rights Article 26 (1948), the World Conference on Education for All in Jomtien (1990), Pakistan’s Article 25-A (2010) and Sustainable Development Goal 4 (2015). These are strong evidence of promises but weak evidence of what happens in classrooms; enrolment and completion data are needed." loading="lazy">
+  <figcaption>A law or goal shows what was promised, not what happens.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--02-low-fee-private-schools.webp" width="900" height="724" alt="A balance weighs low-fee private schools. Supporters: they open quickly where the state lacks schools, give choice, and some parents judge the teaching better. Critics: fees exclude the poorest, quality varies, and education is a right the state should provide. A parent weighs cost against the local state school; a teacher focuses on pay, class size and training." loading="lazy">
+  <figcaption>Beyond for and against, parents and teachers judge the issue from their own position.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Access vs quality.** Being enrolled in school is not the same as learning. A source that shows more children in school does not prove better education.
@@ -81,6 +91,11 @@ Check up-to-date figures, such as numbers of children out of school, from the or
 - **Cause vs consequence.** Cost is a cause of children leaving school; fewer job choices is a consequence. Keep them in separate paragraphs and link them.
 - **Local vs global issue.** The Team Project needs a local issue. The Individual Report needs a global issue with local and/or national and global perspectives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--05-percentage-points.webp" width="900" height="614" alt="Two bars rise from 68% to 83%. The absolute change is 15 percentage points; the relative change is about a 22% rise, because 15 divided by 68 is about 0.22. Mixing the two can be careless or exaggerated." loading="lazy">
+  <figcaption>A rise from 68% to 83% is 15 percentage points but about 22% in relative terms.</figcaption>
+</figure>
+
 ## Mini essay plan: an "assess actions" extended response
 
 Component 1 includes an extended response in which candidates "assess actions in response to the global issue and explain their judgements with reasons and evidence". A typical task on this topic might ask you to assess two actions a government could take to help more children finish secondary school, such as **free school transport** and **scholarships for pupils from low-income families**.
@@ -91,6 +106,16 @@ Component 1 includes an extended response in which candidates "assess actions in
 4. **Compare using criteria.** Which reaches more children? Which tackles the cause the sources show is biggest? Which is cheaper per child? Which lasts?
 5. **Weigh the evidence.** Is it from a source with a vested interest? Is the sample large and recent?
 6. **Final judgement.** Answer the question directly. A judgement that one action works best combined with another is fine if you explain why.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--03-out-of-school-causes.webp" width="900" height="664" alt="Six possible causes surround a child out of school: cost, distance and safety, supply of schools and teachers, conflict or disaster, social expectations and disability. Below, a chain: a distant secondary school means transport costs, so poorer families keep children home and they leave with fewer qualifications." loading="lazy">
+  <figcaption>Each cause is a line of analysis to test with evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-education-for-all--07-removing-fees.webp" width="900" height="733" alt="Removing school fees tackles the cost barrier and is likely to raise enrolment among the poorest families. Two limits follow: without more teachers and classrooms, class sizes rise and quality may fall; and uniforms, transport and lost income remain. Judgement: it works best in a package with teacher funding, judged by learning as well as enrolment." loading="lazy">
+  <figcaption>An action is judged by its effect, its limits, and what it needs alongside it.</figcaption>
+</figure>
 
 ## Quick self-test
 

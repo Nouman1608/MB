@@ -40,6 +40,11 @@ and test yourself with the [practice questions](/resources/as-chem-carbonyls-pra
 
 That last row explains every distinguishing test in the topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--14-carbonyl-polarity-vs-alkene.webp" width="900" height="1000" alt="In C=O oxygen is more electronegative so the carbon is delta plus and cyanide attacks it, giving nucleophilic addition. In C=C the pi electrons lie above and below the bond and attract electrophiles, giving electrophilic addition." loading="lazy">
+  <figcaption>C=O has a delta plus carbon; C=C is electron-rich: opposite polarity.</figcaption>
+</figure>
+
 ## Preparation
 
 ```
@@ -54,6 +59,11 @@ acid. For the ketone route, distillation isn't strictly needed to prevent
 over-oxidation (a ketone can't be oxidised further under these conditions
 either way) — but the syllabus specifies it regardless, so use distillation
 for both, not reflux.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--13-carbonyl-production-reduction.webp" width="900" height="950" alt="A primary alcohol is oxidised to an aldehyde, and further to a carboxylic acid if not distilled off. A secondary alcohol is oxidised to a ketone, which resists further oxidation. NaBH4 or LiAlH4 reverses these steps." loading="lazy">
+  <figcaption>Distillation traps the aldehyde; ketones do not oxidise further.</figcaption>
+</figure>
 
 ## Reduction
 
@@ -82,6 +92,11 @@ The product has **one more carbon** than the starting carbonyl — a chain-lengt
 
 If the carbonyl carbon has two different groups (e.g. ethanal, H and CH₃; not propanone, whose two CH₃ groups are identical, so its product has no chiral centre), the product is **chiral** and forms as a **racemic mixture** ("racemic mixture" and "optically active" are A Level terms — at AS it's enough to say equal amounts of both enantiomers form), because the planar carbonyl can be attacked equally from either face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--15-hcn-nucleophilic-addition.webp" width="900" height="1300" alt="Step 1: a curly arrow from the lone pair on the carbon of CN- to the delta plus carbonyl carbon, and one from the C=O pi bond to oxygen, forming an alkoxide. Step 2: O- takes H from HCN, giving 2-hydroxypropanenitrile and regenerating CN-." loading="lazy">
+  <figcaption>Both curly arrows start at an electron pair and end where those electrons go.</figcaption>
+</figure>
+
 ## The identifying tests
 
 | Test | Reagent | Aldehyde | Ketone |
@@ -107,11 +122,26 @@ fragment -- the aldehyde/ketone (Tollens'/Fehling's) test targets exactly
 the distinction asked for, while iodoform targets a different feature.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--16-carbonyl-test-tubes.webp" width="900" height="1110" alt="Three rows of test tubes: 2,4-DNPH gives an orange precipitate with both aldehyde and ketone; Fehling solution gives a brick-red precipitate with an aldehyde and stays blue with a ketone; Tollens reagent gives a silver mirror with an aldehyde and no change with a ketone." loading="lazy">
+  <figcaption>DNPH confirms C=O only; Fehling and Tollens separate aldehydes from ketones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--17-aldehyde-h-oxidation.webp" width="900" height="880" alt="An aldehyde has a hydrogen on the carbonyl carbon and is easily oxidised to a carboxylic acid. A ketone has no such hydrogen and resists oxidation under the same mild conditions." loading="lazy">
+  <figcaption>The hydrogen on the carbonyl carbon is what makes an aldehyde easy to oxidise.</figcaption>
+</figure>
+
 ## The iodoform test
 
 Warming with **alkaline I₂(aq)** gives a **yellow precipitate of CHI₃** with any compound containing a **CH₃CO–** group — that is, a **methyl group directly bonded to the carbonyl carbon** — in either an aldehyde or a ketone. Both ethanal (CH₃CHO) and propanone (CH₃COCH₃) test positive, since both have a methyl group directly on the carbonyl carbon.
 
 This is a **different** test from Tollens'/Fehling's: those two distinguish aldehyde from ketone by oxidation; the iodoform test identifies a specific **structural fragment**, regardless of which type of carbonyl it belongs to. Don't assume "ketone" automatically means a positive iodoform result — check the actual structure for a CH₃CO– group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/as-carbonyl-compounds-aldehydes-and-ketones--18-iodoform-ch3co.webp" width="900" height="1180" alt="Ethanal and propanone both contain a CH3CO group and give a yellow CHI3 precipitate with warm alkaline iodine. Propanal and pentan-3-one have a CH2 beside the carbonyl carbon, so they give no precipitate." loading="lazy">
+  <figcaption>Iodoform detects a CH3CO group, not aldehydes versus ketones.</figcaption>
+</figure>
 
 ## Exam traps
 

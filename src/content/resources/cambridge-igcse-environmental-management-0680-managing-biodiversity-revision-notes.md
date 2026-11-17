@@ -56,6 +56,21 @@ So for every strategy you need three things: what it is, one benefit with a reas
 | Regulation of trade in vulnerable and endangered species | Legal framework; permits; bans on the most threatened | Weak where unenforced; habitats not protected |
 | Classifying threat level | Directs money to the most urgent cases | Many species unsurveyed; a label protects nothing |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--03-captive-breeding.webp" width="900" height="705" alt="Three steps: capture the last wild individuals, breed them in zoos or breeding centres keeping records to avoid inbreeding, and release offspring. The California condor was saved this way after the last wild birds were captured in the 1980s. Release only works if safe habitat remains; the method is expensive and captive populations have limited genetic variety." loading="lazy">
+  <figcaption>Captive breeding can rescue a species, but only if safe habitat survives for release.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--05-strategy-comparison.webp" width="900" height="715" alt="A comparison grid. National parks protect habitat and genetic variety but need funding and enforcement. Corridors partly protect habitat and keep variety by linking populations but use land. Seed banks keep plant genes but give no wild protection. Zoos keep limited variety, cost a lot and need habitat for release. Trade regulation helps variety only indirectly and suffers from smuggling. A combined approach is shown: reserve, corridors, ecotourism funding and trade laws." loading="lazy">
+  <figcaption>Only habitat protection does both jobs; the best answers argue for a combination.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--06-corridor-worked-example.webp" width="900" height="630" alt="Plan view of farmland with two woodland patches holding 40 and 25 small mammals. Five years after a corridor of trees joins them, 91 are counted across both. The increase is 26 on 65, or 40%. A similar unlinked patch would show whether the corridor caused the rise or a mild winter did." loading="lazy">
+  <figcaption>From 65 to 91 is a 40% rise, but a comparison patch is needed to prove the corridor caused it.</figcaption>
+</figure>
+
 ## Threat levels (as named in the syllabus)
 
 - **Threatened**: declining, at risk of extinction if threats continue.
@@ -63,6 +78,11 @@ So for every strategy you need three things: what it is, one benefit with a reas
 - **Extinct**: no living individuals remain.
 
 The IUCN Red List is the international list that classifies species by extinction risk. CITES is the international agreement, from 1973, that regulates trade in listed species.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--04-threat-levels.webp" width="900" height="660" alt="An arrow of increasing extinction risk runs through three levels. Threatened: numbers or habitat are declining. Endangered: a very high risk of extinction in the near future, with few individuals or a small range. Extinct: no living individuals remain. The IUCN Red List uses this kind of classification to direct scarce money, but a label alone protects nothing." loading="lazy">
+  <figcaption>Threatened, endangered, extinct: the label directs action but does not protect anything by itself.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -80,6 +100,11 @@ The IUCN Red List is the international list that classifies species by extinctio
 | Ecotourism | Low-impact tourism that funds conservation and local people |
 | Inbreeding | Breeding between close relatives, which lowers genetic variety |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--01-in-situ-ex-situ.webp" width="900" height="640" alt="Biodiversity is the variety of species, of genes within them and of habitats. In situ conservation, such as a national park, protects the whole habitat where species live. Ex situ conservation, such as zoos and seed banks, keeps species or seeds away from the wild, but does not save the habitat." loading="lazy">
+  <figcaption>In situ protects the habitat; ex situ keeps species or seeds safe but leaves the habitat unprotected.</figcaption>
+</figure>
+
 ## Building a "discuss" answer in four lines
 
 1. **What it does**: one sentence.
@@ -92,6 +117,11 @@ Typical judgement lines:
 - Seed banks are insurance, not a replacement for protecting wild plants.
 - Reserves work best when linked by corridors and supported by local people through ecotourism income.
 - Trade laws need enforcement and reduced demand, or smuggling continues.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-managing-biodiversity--07-discuss-answer.webp" width="900" height="695" alt="Four steps: say what the strategy does, give a benefit with a reason, a limitation with a reason, and a judgement. The ecotourism model answer earns four marks from two benefits (money for rangers; local jobs) and two limitations (disturbance and erosion; dependence on tourism income), then ends with a judgement." loading="lazy">
+  <figcaption>Each benefit or limitation needs its reason to earn the mark; finish with a judgement.</figcaption>
+</figure>
 
 ## Exam traps
 

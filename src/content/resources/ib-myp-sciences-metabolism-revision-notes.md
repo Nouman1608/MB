@@ -47,6 +47,11 @@ Course links: [MYP Sciences hub](/boards/ib/ib-myp/myp-sciences/) · [printable 
 | Oxygen debt | Extra oxygen needed after exercise to break down lactic acid |
 | Emulsification | Bile breaking fat into small droplets to increase surface area |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--01-anabolic-catabolic.webp" width="900" height="620" alt="Left: anabolic reactions join small units into a large molecule and need energy in, as in photosynthesis, glucose to starch and amino acids to proteins. Right: catabolic reactions break a large molecule into small units and often release energy, as in respiration and digestion." loading="lazy">
+  <figcaption>Anabolic reactions build and need energy; catabolic reactions break down and often release it.</figcaption>
+</figure>
+
 ## Equations to know
 
 | Process | Word equation | Symbol equation |
@@ -65,12 +70,22 @@ Useful data relationships:
 | light intensity ∝ 1/d² | Lamp moved to distance d from a plant |
 | % change = (new − old)/old × 100 | Comparing two conditions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--04-aerobic-anaerobic.webp" width="900" height="640" alt="Three columns. Aerobic respiration uses oxygen: glucose + oxygen → carbon dioxide + water, mainly in mitochondria. Anaerobic respiration in muscles: glucose → lactic acid, leaving an oxygen debt. Anaerobic respiration in yeast (fermentation) and plants: glucose → ethanol + carbon dioxide. Anaerobic respiration releases much less energy per glucose." loading="lazy">
+  <figcaption>Without oxygen, glucose is only partly broken down, so much less energy is released.</figcaption>
+</figure>
+
 ## Enzymes in four lines
 
 1. Substrate fits active site (complementary shape) → enzyme–substrate complex → products released → enzyme reused.
 2. Temperature up to optimum: more kinetic energy, more collisions, more complexes per second.
 3. Above optimum: bonds in the protein break, active site changes shape, enzyme denatured, rate falls fast.
 4. pH away from optimum also changes the active site. Pepsin: acidic (about pH 2). Salivary amylase: near neutral.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--02-lock-and-key.webp" width="900" height="590" alt="An enzyme’s active site has a shape complementary to its substrate. The substrate fits to form an enzyme–substrate complex, the products leave and the enzyme is reused. A molecule of the wrong shape does not fit, which is why enzymes are specific." loading="lazy">
+  <figcaption>Only a substrate that matches the active site can react; the enzyme is not used up.</figcaption>
+</figure>
 
 ## Digestion summary
 
@@ -82,6 +97,11 @@ Useful data relationships:
 | Bile (not an enzyme) | Emulsifies fats; neutralises stomach acid | Made in liver, stored in gall bladder |
 
 Why digest? Large insoluble molecules → small soluble ones that can be absorbed through the villi of the small intestine into the blood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--07-digestive-enzymes.webp" width="900" height="750" alt="Amylase breaks starch into maltose and then glucose, made in the salivary glands and pancreas. Protease, such as pepsin, breaks proteins into amino acids, made in the stomach, pancreas and small intestine. Lipase breaks lipids into fatty acids and glycerol, made in the pancreas and small intestine. Bile is not an enzyme: it emulsifies fats and neutralises stomach acid." loading="lazy">
+  <figcaption>Each enzyme breaks one kind of large molecule into small, soluble ones.</figcaption>
+</figure>
 
 ## Must-know distinctions
 
@@ -113,6 +133,11 @@ Why digest? Large insoluble molecules → small soluble ones that can be absorbe
 
 Remember: only one factor limits the rate at any moment. Raising a factor that is *not* limiting has no effect.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--06-limiting-factors.webp" width="900" height="800" alt="Rate of photosynthesis against light intensity rises then levels off; at higher carbon dioxide the plateau is higher, so carbon dioxide was limiting there. Below, a plant at 10 cm from a lamp moved to 5 cm gets four times the light intensity, and moved to 20 cm gets a quarter, because intensity is proportional to 1/d²." loading="lazy">
+  <figcaption>On the rising part light limits the rate; on the plateau something else does.</figcaption>
+</figure>
+
 ## Linking to concepts and the eAssessment
 
 - The brief's example related concepts include **energy**, **transformation** and **models**. Energy: light energy stored as chemical energy in glucose, then released by respiration. Transformation: reactants become new products. Models: the lock-and-key picture of an enzyme, which you should be able to use and also criticise as simplified.
@@ -130,6 +155,11 @@ Remember: only one factor limits the rate at any moment. Raising a factor that i
 6. Plan at least five values of the independent variable and three repeats of each.
 7. Add a specific safety point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--08-catalase-investigation.webp" width="900" height="790" alt="A boiling tube in a water bath holds a buffer, hydrogen peroxide and a same-sized potato cylinder; oxygen bubbles pass along a delivery tube into a gas syringe read at 60 s. The independent variable is pH 4 to 9, the dependent variable is oxygen volume in 60 s, and potato size, peroxide volume and concentration, temperature and time are controlled." loading="lazy">
+  <figcaption>Change pH only, measure oxygen in 60 s, and control everything else.</figcaption>
+</figure>
+
 ## Method in steps: processing data (criterion C)
 
 1. Spot anomalies: a repeat far from the others. Leave it out of the mean and say why.
@@ -140,12 +170,22 @@ Remember: only one factor limits the rate at any moment. Raising a factor that i
 6. State whether the hypothesis is supported.
 7. Evaluate: one specific weakness in *your* method, and a specific fix.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--03-enzyme-temperature-data.webp" width="900" height="640" alt="Rate (1000/time) for amylase against temperature: 5.56 at 15 °C, 11.1 at 25 °C, a peak of 25.0 at 35 °C, 16.7 at 45 °C and 3.33 at 55 °C. The band from 25 to 45 °C is shaded because the true optimum could lie anywhere in it. Rate rises with more collisions, then falls as the active site changes shape and the enzyme is denatured." loading="lazy">
+  <figcaption>Peak at about 35 °C; with 10 °C steps the true optimum is only known to lie between 25 and 45 °C.</figcaption>
+</figure>
+
 ## Small worked reminders
 
 - Starch disappears in 25 s → rate = 1/25 = 0.04 s⁻¹.
 - 4.8 cm³ of oxygen in 2 min → 2.4 cm³ min⁻¹.
 - Lamp moved from 15 cm to 30 cm → intensity × (15/30)² = × 1/4.
 - Repeats 31, 29, 33 bubbles per minute → mean 31.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-metabolism--05-yeast-respiration-rate.webp" width="900" height="610" alt="A flask of yeast in sugar solution sits in a 30 °C water bath. Carbon dioxide passes along a delivery tube into a gas syringe, which collects 18 cm³ in 5 minutes. Rate = 18 ÷ 5 = 3.6 cm³ per minute." loading="lazy">
+  <figcaption>Rate = volume of gas ÷ time, always with its unit.</figcaption>
+</figure>
 
 ## Quick self-test
 

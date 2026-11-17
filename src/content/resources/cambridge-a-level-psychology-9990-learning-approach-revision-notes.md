@@ -39,6 +39,11 @@ featured: false
 | Fagen et al. (2014) | Operant conditioning: positive reinforcement | Primary and secondary reinforcers; shaping; behavioural chaining |
 | Saavedra and Silverman (2002) | Classical conditioning and evaluative learning | Operant conditioning through contingency management |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--01-processes-to-studies.webp" width="900" height="656" alt="Three learning processes, each linked to a core study: social learning to Bandura et al., operant conditioning to Fagen et al., and classical conditioning with evaluative learning to Saavedra and Silverman. A note explains that all three measure directly observable behaviour." loading="lazy">
+  <figcaption>Social learning, operant conditioning and association: one study for each.</figcaption>
+</figure>
+
 ## Core studies grid
 
 | Element | Bandura et al. | Fagen et al. | Saavedra and Silverman |
@@ -49,11 +54,31 @@ featured: false
 | Key result | Aggressive-model children imitated more aggression; boys more physical aggression | Most elephants learned the full trunk wash | Exposure alone gave a small reduction; adding disgust imagery gave a large, lasting reduction |
 | Conclusion | Aggression can be learned by observation alone | Reward-based training is a humane alternative | Disgust needs targeting in phobia treatment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--03-bandura-design.webp" width="900" height="780" alt="Seventy-two children: 24 in a control group with no model, and the other 48 split by aggressive or non-aggressive model and by same-sex or opposite-sex model, giving a two by two set of conditions. Children were matched on existing aggression rated by two raters." loading="lazy">
+  <figcaption>A control group plus four model conditions: aggressive or not, same sex or not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--05-fagen-trunk-wash.webp" width="900" height="683" alt="A bridge signal paired with food becomes a secondary reinforcer, with food as the primary reinforcer. The trunk wash is broken into steps (raise the trunk, hold it up while liquid is put in, lower it), each shaped and then chained into the full behaviour. Result and evaluation follow." loading="lazy">
+  <figcaption>A bridge signal, shaping and chaining built the trunk wash step by step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--06-saavedra-silverman.webp" width="900" height="779" alt="An illustrative line of the boy's distress: in phase 1, exposure with contingency management lowers it only a little; in phase 2, disgust-focused imagery (evaluative learning) with exposure produces a marked drop kept at follow-up. Background, method and evaluation cards follow." loading="lazy">
+  <figcaption>Exposure alone helped little; adding disgust imagery cut distress markedly.</figcaption>
+</figure>
+
 ## Bandura's three phases
 
 1. **Modelling** (10 minutes): child plays at a table; adult model behaves aggressively or not towards a large Bobo doll.
 2. **Mild aggression arousal**: child is shown attractive toys, then told they are for other children.
 3. **Test** (20 minutes): room with aggressive and non-aggressive toys; observed every 5 seconds.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--04-bandura-procedure.webp" width="900" height="674" alt="Three rooms in sequence: watching an adult model either assemble toys or attack a Bobo doll; a mild frustration phase; and 20 minutes in a room with aggressive and non-aggressive toys, observed through a one-way mirror every five seconds. Results and evaluation follow." loading="lazy">
+  <figcaption>Watch, be frustrated, then be observed: aggression was imitated without reward.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -72,6 +97,11 @@ featured: false
 | Social learning | Learning by observing and imitating a model |
 | Evaluative learning | Changing how much a stimulus is liked by pairing it with a positive or negative stimulus |
 | Contingency management | Giving rewards that depend on a target behaviour |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-learning-approach--02-reinforcement-terms.webp" width="900" height="660" alt="Pairs of definitions: positive reinforcement adds something pleasant and negative reinforcement removes something unpleasant, both making behaviour more likely; primary reinforcers meet a biological need while secondary reinforcers gain value by pairing; shaping reinforces approximations and chaining links steps." loading="lazy">
+  <figcaption>Positive adds, negative removes; secondary means learned value, not negative.</figcaption>
+</figure>
 
 ## Evaluation hooks
 

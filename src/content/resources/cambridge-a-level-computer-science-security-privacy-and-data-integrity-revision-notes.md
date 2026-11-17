@@ -58,6 +58,11 @@ Related: [Security, privacy and data integrity study guide](/resources/cambridge
 
 **Why secure the system as well as the data?** If the computer system itself is compromised (for example, malware gives a hacker control), every protection on the data can be bypassed, data can be changed without anyone noticing, and the system may stop working for its genuine users.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--07-si-three-terms.webp" width="900" height="740" alt="Three cards. Security (padlock): protection from loss, damage and unauthorised access. Privacy (person with key): personal data kept confidential and under the person’s control. Integrity (document with tick): accurate, complete, consistent and not changed in error." loading="lazy">
+  <figcaption>Security, privacy and integrity answer three different questions about data.</figcaption>
+</figure>
+
 ## Which threats does the syllabus name?
 
 | Threat | What it is | Main measures against it |
@@ -68,6 +73,11 @@ Related: [Security, privacy and data integrity study guide](/resources/cambridge
 | Phishing | An email or message that pretends to be from a genuine organisation to trick the user into giving personal details or following a link | User awareness; spam filters; check the sender and the link |
 | Pharming | Malicious code (on the PC or a DNS server) redirects the user to a fake website even when the correct address is typed | Anti-malware; check the site's certificate / padlock; keep software patched |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--08-si-phishing-pharming.webp" width="900" height="860" alt="Two rows. Phishing: a fake email reaches the user, who clicks the link and lands on a fake website. Pharming: the user types the correct address but a tampered DNS record or malicious code sends them to the fake website." loading="lazy">
+  <figcaption>Phishing tricks the user into a click; pharming redirects them even from the correct address.</figcaption>
+</figure>
+
 ## How do the security measures work?
 
 - **User accounts and passwords**: each user is identified and must authenticate before access; strong passwords that are changed regularly resist guessing.
@@ -77,6 +87,11 @@ Related: [Security, privacy and data integrity study guide](/resources/cambridge
 - **Firewall**: sits between the computer or network and the internet, checks incoming and outgoing traffic against rules, and blocks traffic that does not meet them.
 - **Anti-virus / anti-spyware**: scans files and memory for known malware signatures and suspicious behaviour, then quarantines or deletes it.
 - **Encryption**: scrambles data with a key so it is unreadable without the matching key. It does not stop data being accessed or stolen, it makes stolen data useless. June 2025 examiners penalised answers saying encryption blocks access.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--09-si-measures.webp" width="900" height="900" alt="Threats on the left are joined to measures on the right: a hacker to a firewall and to passwords and access rights; a virus to anti-virus; spyware to anti-spyware; a stolen laptop or intercepted message to encryption; fire or hardware failure to a backup in a different place." loading="lazy">
+  <figcaption>Name the threat, then the measure, then how it helps.</figcaption>
+</figure>
 
 ## What is the difference between validation and verification?
 
@@ -95,6 +110,11 @@ Related: [Security, privacy and data integrity study guide](/resources/cambridge
 | Existence | The value exists, e.g. in a file or list of allowed values | Product code exists in the stock table |
 | Check digit | A digit calculated from the other digits matches the one entered | Last digit of an ISBN or a barcode |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--10-si-validation-checks.webp" width="900" height="995" alt="Six entries are run through presence, type and range checks. The empty entry fails presence, A5 fails type, 13 and 0 fail range, and 7 and 12 are accepted. A note says 30 February passes a range check for day but is still wrong." loading="lazy">
+  <figcaption>Validation shows data is sensible, not that it is correct.</figcaption>
+</figure>
+
 ## Worked example: modulus 11 check digit
 
 Code 307521, weights 7, 6, 5, 4, 3, 2 from the left.
@@ -103,6 +123,11 @@ Code 307521, weights 7, 6, 5, 4, 3, 2 from the left.
 2. 84 ÷ 11 = 7 remainder 7.
 3. Check digit = 11 − 7 = 4 (in the common ISBN-style method a result of 10 is written as X and a remainder of 0 gives 0; a question will state its own rule). Full code: 3075214.
 4. If the operator types 3705214 (two digits swapped), the sum becomes 21 + 42 + 0 + 20 + 6 + 2 = 91, remainder 3, expected check digit 8. 8 ≠ 4, so the error is detected.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--11-si-check-digit.webp" width="900" height="1010" alt="Member number 4829163 with weights 8 to 2 gives products 32, 56, 12, 45, 4, 18, 6, sum 173, remainder 8, check digit 3 (48291633). A typed 42891633 gives products 32, 14, 48, 45, 4, 18, 6, sum 167, remainder 2, expected digit 9, so the typed 3 is rejected." loading="lazy">
+  <figcaption>The check digit 3 is computed from a weighted sum; a transposed entry fails the check.</figcaption>
+</figure>
 
 ## Verification methods
 
@@ -116,9 +141,19 @@ Code 307521, weights 7, 6, 5, 4, 3, 2 from the left.
 
 A parity bit is worked out **for each byte**, from the number of 1s in that byte. June 2024 candidates lost marks by treating parity as one bit for all the data. Byte parity cannot detect an even number of bit errors in one byte, because the count of 1s stays even (or odd).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--13-si-parity-block.webp" width="900" height="850" alt="An illustrative block of four bytes with row parity bits and a column parity row. One bit in the second row is flipped. Only that row and the fifth column fail their parity checks, and they cross at the wrong bit, which can be flipped back." loading="lazy">
+  <figcaption>A parity block check locates a single wrong bit at the crossing of the failing row and column.</figcaption>
+</figure>
+
 ## Worked example: even parity
 
 Seven data bits 0110101 have four 1s, so for even parity the parity bit is 0. If the byte received has five 1s, the parity is odd and the byte is rejected; the receiver requests retransmission.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide--12-si-parity.webp" width="900" height="810" alt="Data bits 1011001 contain four 1s so the even parity bit is 0 and the byte is 10110010. One flipped bit gives five 1s and is detected. Two flipped bits give four 1s and are missed." loading="lazy">
+  <figcaption>Parity detects an odd number of changed bits but not an even number.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

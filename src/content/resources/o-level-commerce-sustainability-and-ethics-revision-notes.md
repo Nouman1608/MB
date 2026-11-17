@@ -48,6 +48,11 @@ The syllabus defines its purpose as **making commercial processes eco-friendly a
 responsible for future generations**. Every stage of the supply chain - sourcing materials, making,
 moving, selling and disposing of goods - can be made more sustainable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--15-supply-chain-stages.webp" width="900" height="1050" alt="A cycle of six stages, extract raw materials, manufacture, package, transport, sell and dispose, surrounds future generations; every stage uses resources and creates waste." loading="lazy">
+  <figcaption>Sustainability means making every supply chain stage environmentally responsible for future generations.</figcaption>
+</figure>
+
 ## Nine sustainability actions, stage by stage
 
 | Supply chain stage | Action |
@@ -69,6 +74,16 @@ service.
 - Cost: certified timber is dearer; repair staff must be paid.
 - Judgement: worthwhile if customers will pay slightly more for durable, responsibly made furniture.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--16-nine-sustainability-actions.webp" width="900" height="1090" alt="Nine tiles show the syllabus actions with an example each, such as recycled cotton, electric vans, refill stations and reuse of offcuts." loading="lazy">
+  <figcaption>The syllabus names nine actions that improve sustainability.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--20-returns-example.webp" width="900" height="920" alt="A hundred order squares with thirty returned, each return another delivery journey, and three actions to cut returns: size guides and photos, a resale marketplace and reusable return packaging." loading="lazy">
+  <figcaption>Returns of 30 percent add journeys and waste, so the retailer acts to reduce them.</figcaption>
+</figure>
+
 ## What does ethics mean in commerce?
 
 **Ethics** are the moral principles that guide behaviour - doing what is right, not just what is legal or
@@ -86,6 +101,21 @@ profitable.
 |---|---|---|
 | Misleading advertising | False claims, hidden charges, edited images, fake "sale" prices | Consumers buy on false information; trust and reputation suffer |
 | Harmful disposal of products | Dumping waste, unsafe disposal of batteries, electronics or chemicals | Pollution, health risks, fines and boycotts |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--17-legal-vs-ethical.webp" width="900" height="840" alt="A two-circle diagram of Legal and Ethical: harmful disposal, sometimes legal, sits in the legal-only part; fair treatment of customers, workers and suppliers in the overlap; going further than the law in the ethical-only part." loading="lazy">
+  <figcaption>Something can be legal and still unethical, and ethics often goes further than the law.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--18-fair-trade.webp" width="900" height="880" alt="An illustrative world price swings up and down while the fair trade price is flat; the retailer pays the producer a fair price and a premium goes to community projects such as schools and clean water." loading="lazy">
+  <figcaption>Fair trade gives producers a fair and stable price, with a premium that funds community projects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--21-misleading-advert.webp" width="900" height="890" alt="An advert claiming a jacket is 100% waterproof does not match a product that lets in rain; the consequences are lost trust, complaints, and legal action and fines." loading="lazy">
+  <figcaption>Misleading advertising may win sales but damages trust and can lead to legal action.</figcaption>
+</figure>
 
 ## Why do consumers need protection?
 
@@ -109,6 +139,11 @@ profitable.
 2. Offer a refund, replacement or repair.
 3. Add goodwill (apology, voucher) to keep the customer.
 4. Investigate and correct the cause, such as a faulty batch or unclear product description.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-sustainability-and-ethics-study-guide--19-complaint-ladder.webp" width="900" height="840" alt="A staircase of five buyer actions: keep evidence, complain to the seller, escalate to a manager or head office, contact a consumer organisation or regulator, and take legal action as a last resort." loading="lazy">
+  <figcaption>A buyer escalates a complaint step by step, with legal action only as a last resort.</figcaption>
+</figure>
 
 ## How do sustainability, ethics and consumer protection connect?
 

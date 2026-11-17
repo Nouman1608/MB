@@ -48,6 +48,11 @@ extra:
 | **Topic 3: Global issues** (sub-topics: the environment; poverty) | Cause/effect language (climate, pollution, recycling) |
 | **Topic 4: Travel and tourism** | Transport, booking, holiday recount (past tense), comparison |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--01-theme-2-map.webp" width="900" height="680" alt="Theme 2 has four topics: home, town, neighbourhood and region; social issues (charity and voluntary work, healthy and unhealthy living); global issues (the environment, poverty); and travel and tourism." loading="lazy">
+  <figcaption>Four topics; sub-topics are set under Social issues and Global issues only.</figcaption>
+</figure>
+
 ## Core vocabulary by topic
 
 **Topic 1: Home, town, neighbourhood and region**
@@ -114,6 +119,16 @@ city*) and travel experiences (*the best holiday I have had*).
 travel tasks typically want both: what happened, and what you think of
 it now.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--02-problem-solution-frame.webp" width="900" height="650" alt="Four linked steps for issue-based writing: name the problem (the issue is), link cause and effect (because of this, as a result, this leads to), propose a solution (a possible solution would be, if we ... would) and justify it (this would help because)." loading="lazy">
+  <figcaption>Treat problem-and-solution phrases as core vocabulary for this theme.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--03-describe-then-evaluate.webp" width="900" height="520" alt="Two halves of one piece of writing. Describing a place uses the present tense, comparatives and past narrative; evaluating a problem uses impersonal constructions, cause-and-effect connectives and conditionals." loading="lazy">
+  <figcaption>Theme 2 mixes description and argument, so practise switching between them.</figcaption>
+</figure>
+
 ## The same structures in Urdu
 
 | Structure | Urdu example | English |
@@ -151,6 +166,11 @@ environmental issue, a social problem) looks the same. Answering the
 wrong task type, even with accurate vocabulary, does not answer the
 question asked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--04-approaching-the-tasks.webp" width="900" height="630" alt="In reading, sort each part of an issues text into describing a problem, proposing a solution or evaluating how well a solution worked. In travel writing, move from a past-tense recount of what you did to a present-tense evaluation of what you think now." loading="lazy">
+  <figcaption>Separate problem, solution and evaluation in reading; switch tenses in travel writing.</figcaption>
+</figure>
+
 ## Writing: the reliable four-step structure
 
 For a written task on a social or global issue:
@@ -163,6 +183,11 @@ because...*).
 
 This structure consistently outperforms a description-only response
 that never proposes a solution or gives an opinion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-local-national-international--05-problem-cause-solution-opinion.webp" width="900" height="710" alt="A weak answer only says there is a lot of pollution. A strong answer names a specific local problem, gives its cause, proposes a conditional solution and closes with an opinion and a reason." loading="lazy">
+  <figcaption>Problem, cause, conditional solution, justified opinion: a reliable structure for this theme.</figcaption>
+</figure>
 
 ## Worked example
 

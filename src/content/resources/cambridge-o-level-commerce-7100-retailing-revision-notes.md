@@ -32,6 +32,16 @@ Recall notes for **sub-topic 2.3 Retailing** in Cambridge O Level Commerce (7100
 3. **Digital retail trends (11)**: omnichannel retailing, cashless stores, EPoS, click and collect, self-service checkouts, subscription commerce, QR codes, VR showrooms, dropshipping, smartphone apps, multi-channel retailing.
 4. **Ecommerce effects**: positives (24/7 selling, more potential customers, increased revenue, targeted marketing, reduced operating store costs) and negatives (delivery, staff training and larger warehousing costs; website maintenance).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--01-ten-retailer-types.webp" width="900" height="615" alt="The ten retailer types in their usual grouping. Small-scale: itinerant retailer, vending machine, independent retailer, street market and speciality shop. Large-scale: online retailer, multiple chain store, supermarket, hypermarket and department store, each with its main feature." loading="lazy">
+  <figcaption>Learn one identifying feature for each type; judge an online retailer’s scale from the case.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--07-ecommerce-effects.webp" width="900" height="595" alt="Five positive impacts of ecommerce on traditional commerce, such as 24/7 selling and more customers, beside four negative impacts, such as delivery and website maintenance costs. A bookshop adding a website reaches readers nationwide but pays for packaging, couriers and site upkeep." loading="lazy">
+  <figcaption>The overall effect depends on the product and the customers, so weigh both sides.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -64,9 +74,19 @@ Recall notes for **sub-topic 2.3 Retailing** in Cambridge O Level Commerce (7100
 - **Hypermarket**: lowest prices, parking / needs a car, hurts town centres.
 - **Department store**: range and services / high prices.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--02-big-stores-compared.webp" width="900" height="530" alt="Three columns compare a supermarket (self-service, mainly food), a hypermarket (very large, out of town, food and non-food, car parks) and a department store (city centre, many departments), each with one advantage and one disadvantage." loading="lazy">
+  <figcaption>Use the distinguishing features, not just size, to tell the large stores apart.</figcaption>
+</figure>
+
 ## Why small shops survive
 
 Syllabus examples: **personal service**, **flexible opening hours**, **additional services**. Also: convenient local location, selling small quantities, informal credit to known customers, and membership of voluntary chains.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--03-small-retailer-survival.webp" width="900" height="630" alt="A small retailer survives through the three syllabus examples: personal service, flexible opening hours and additional services. Further reasons are a location close to homes, selling small quantities and joining a voluntary chain." loading="lazy">
+  <figcaption>Small shops survive by offering what large retailers find hard to copy.</figcaption>
+</figure>
 
 ## Technique-to-purpose links
 
@@ -77,12 +97,27 @@ Syllabus examples: **personal service**, **flexible opening hours**, **additiona
 - Higher margin: **own brands**.
 - Targeting chosen customers: **direct mail**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--04-selling-techniques.webp" width="900" height="680" alt="The eleven selling techniques grouped by how they raise sales: recognition (branding, logos, packaging), price and cost (own brands, self service), loyalty (loyalty programmes, direct mail, informal credit), confidence (after-sales service, cash on delivery) and speed (barcoding)." loading="lazy">
+  <figcaption>Explain a technique by saying how it raises sales or loyalty for the shop described.</figcaption>
+</figure>
+
 ## Digital trend pairs to separate
 
 - **Multi-channel vs omnichannel**: several channels versus joined-up channels.
 - **EPoS vs barcoding**: the till system versus the code it reads.
 - **Click and collect vs dropshipping**: customer collects from the store versus supplier delivers for a retailer that holds no stock.
 - **Self service vs self-service checkouts**: choosing goods from shelves (a technique) versus scanning and paying yourself (a digital trend).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--05-omnichannel-vs-multichannel.webp" width="900" height="630" alt="Left: multi-channel retailing sells through a shop, website and app that may run separately. Right: omnichannel retailing links the channels to one account, the same prices, stock information and loyalty points, so a customer can start on the app and finish in the shop." loading="lazy">
+  <figcaption>Omnichannel joins the channels into one experience; multi-channel channels may run separately.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-retailing--06-barcode-and-epos.webp" width="900" height="475" alt="A barcode on the product is scanned at an EPoS till, a computerised till that records each sale and updates stock records." loading="lazy">
+  <figcaption>Do not confuse the barcode on the product with the EPoS till that reads it.</figcaption>
+</figure>
 
 ## Exam traps
 

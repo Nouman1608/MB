@@ -42,6 +42,11 @@ Every learner takes Component 1, Poetry and Modern Prose (2-hour exam, 90 marks,
 **either** Component 2 (the open-book exam on the same two kinds of text) **or** Component 3. The
 qualification is linear: all components are taken at the end of the course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--12-c3-two-routes.webp" width="900" height="890" alt="A grid compares the exam route and the coursework route. Weight, marks and content are the same for both, shown as wide teal cells. Format and marking differ: a written exam marked externally, or two assignments marked by the centre and externally moderated." loading="lazy">
+  <figcaption>The two routes carry the same weight and content but are assessed differently.</figcaption>
+</figure>
+
 ## Format at a glance
 
 | Detail | Assignment A: Modern Drama | Assignment B: Literary Heritage Texts |
@@ -54,6 +59,16 @@ qualification is linear: all components are taken at the end of the course.
 | Must include | Language, form and structure | Language, form and structure **and context** |
 
 The word count is advisory: there is no prescribed length and no penalty for exceeding it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--13-c3-assignment-marks.webp" width="900" height="700" alt="Two equal bars of 30 marks. Assignment A is split 15 marks for AO1 and 15 for AO2. Assignment B is split 10 marks each for AO1, AO2 and AO4, and AO4 appears only in Assignment B." loading="lazy">
+  <figcaption>Assignment A uses AO1 and AO2 equally; Assignment B adds AO4 for context.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--15-c3-word-count.webp" width="900" height="640" alt="A ruler from 0 to 1000 words has the 650 to 800 word range shaded and labelled target range. A note says the range is a target, not a ceiling or floor, and that going past 800 carries no stated penalty but focus can drift." loading="lazy">
+  <figcaption>Aim for a tightly argued answer of about 650 to 800 words.</figcaption>
+</figure>
 
 ## Set texts for Component 3 (Issue 3)
 
@@ -83,6 +98,16 @@ The specification lists the kinds of context teaching should cover:
 - social and cultural contexts, such as attitudes in society
 - the literary context, such as movements or genres
 - how texts are received by different audiences at different times, for example a 21st-century reading
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts--03-kinds-of-context.webp" width="900" height="569" alt="The text and task sit at the centre of five kinds of context named by the specification: the writer’s situation, historical setting, social and cultural attitudes, literary context such as genre and tradition, and reception by different audiences. Literary context and reception are highlighted as kinds students often forget." loading="lazy">
+  <figcaption>Use more than one kind of context, and do not forget genre and reception.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--16-c3-pair-every-point.webp" width="900" height="900" alt="Three balance scales show an essay that only narrates tipping towards AO1, an essay that pairs technique with evidence staying balanced, and an essay that only lists techniques tipping towards AO2. Below, techniques such as stage directions are paired with the evidence they rest on." loading="lazy">
+  <figcaption>Pair every technique (AO2) with its evidence (AO1) to keep the two equally weighted objectives in balance.</figcaption>
+</figure>
 
 ## The levels (both assignments)
 
@@ -121,6 +146,11 @@ play's meaning shifts with its reception."
 The second version links context to a method (AO2) and an argument (AO1), and it uses two kinds of context
 from the specification's list: social and cultural belief, and reception by different audiences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--17-c3-context-link.webp" width="900" height="880" alt="A top panel shows a generic background paragraph disconnected from the analysis. A bottom panel shows one specific contextual detail linked both ways to one specific textual moment, earning AO4. A banner says to plan at least one precise link." loading="lazy">
+  <figcaption>In Assignment B, tie a specific contextual detail to a specific moment in the text.</figcaption>
+</figure>
+
 ## Drama-specific methods for Assignment A
 
 | Method | What to look for |
@@ -131,12 +161,22 @@ from the specification's list: social and cultural belief, and reception by diff
 | Form | Tragedy, the "well-made play", non-naturalistic staging in *Curious Incident* |
 | Dialogue | Who interrupts, who stays silent, shifts in register |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-literature-4et1-assignment-a-modern-drama--01-stage-methods.webp" width="900" height="986" alt="A stage seen from the audience, marked with seven dramatic methods: stage directions such as a pause, an exit through a door, the set, an ensemble of actors, a clock for time, dialogue between two characters, and the audience’s own position. Cards below give the question to ask about each method." loading="lazy">
+  <figcaption>For a play, AO2 “form” includes everything the audience sees and hears.</figcaption>
+</figure>
+
 ## Rules you must follow
 
 - Work independently; you and your teacher sign the authentication sheet.
 - Teachers may suggest general improvements at draft stage; corrections are your responsibility.
 - Work must not be rewritten after marking.
 - Acknowledge sources; teachers watch for essays derived from the internet or AI.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-literature-component-3--14-c3-conditions.webp" width="900" height="880" alt="Six tiles list assessment rules, with ticks for allowed actions (independent work, general guidance at draft stage, signed authentication, handwritten or typed work) and crosses for detailed correction and rewriting after marking. A flow shows the centre marks, external moderation follows, and the centre keeps the work for at least six months." loading="lazy">
+  <figcaption>Work must be independent, with general guidance only and no rewriting after marking.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

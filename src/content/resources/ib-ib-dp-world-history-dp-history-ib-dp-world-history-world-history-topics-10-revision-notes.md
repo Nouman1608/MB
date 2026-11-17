@@ -33,6 +33,16 @@ These notes condense world history topic 10 for Paper 2: how authoritarian state
 | Consolidation and maintenance | Legal methods; use of force; charismatic leadership; propaganda; nature, extent and treatment of opposition; impact of foreign policy success or failure |
 | Aims and results of policies | Economic, political, cultural and social policies; impact on women and minorities; extent to which control was achieved |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--01-three-parts.webp" width="900" height="699" alt="Three stacked parts. Emergence: conditions such as economic factors, social division, war and weak political systems, and methods such as persuasion, coercion, ideology, force and propaganda. Consolidation: legal methods, force, charisma, propaganda, treatment of opposition and foreign policy. Aims and results of policies, including women and minorities. A final box asks how far control was really achieved." loading="lazy">
+  <figcaption>Learn the topic by theme: emergence, consolidation, policies and results.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--02-conditions-vs-methods.webp" width="900" height="530" alt="Four rows, one per state, each with conditions on the left and methods on the right. Stalin: civil war legacy and single-party rule, then control of the party machine and alliances against rivals. Hitler: defeat, Versailles, hyperinflation and the Depression, then a mass party, SA violence and a deal with elites leading to the chancellorship on 30 January 1933. Mao: civil war, invasion and Guomindang corruption, then peasant mobilization and victory in 1949. Castro: Batista's dictatorship and rural poverty, then guerrilla war from 1956 to Batista's flight on 1 January 1959." loading="lazy">
+  <figcaption>Conditions explain why; methods explain how a particular leader took power.</figcaption>
+</figure>
+
 ## Case timelines
 
 ### Stalin's USSR (Europe)
@@ -58,6 +68,11 @@ These notes condense world history topic 10 for Paper 2: how authoritarian state
 - 1935: Nuremberg Laws.
 - 1936: Four-Year Plan under Göring.
 - November 1938: *Kristallnacht*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--04-hitler-consolidation.webp" width="900" height="669" alt="A vertical timeline: Hitler appointed chancellor on 30 January 1933; the Reichstag fire decree (28 February 1933) and the Enabling Act (23 March 1933); other parties banned and the Concordat in July 1933; the Night of the Long Knives on 30 June 1934; and foreign successes in the Rhineland (1936) and Austria and the Sudetenland (1938). Colours separate legal methods, force and foreign policy." loading="lazy">
+  <figcaption>Legal steps came first, force followed, and foreign success added popularity.</figcaption>
+</figure>
 
 ### Mao's China (Asia and Oceania)
 
@@ -92,6 +107,21 @@ These notes condense world history topic 10 for Paper 2: how authoritarian state
 | Propaganda | Personality cult, socialist realism | Goebbels' ministry, rallies, radio | Mass campaigns, Little Red Book | Speeches, mass rallies, revolutionary heroes |
 | Economic policy | Five-Year Plans, collectivization | Public works, rearmament, autarky | Five-Year Plan, Great Leap Forward | Land reform, nationalization, sugar and Soviet aid |
 | Women | Equal rights in law; "double burden" of work and home | Motherhood ideal; employment rose with rearmament | Marriage Law 1950; labour mobilization | Education and health gains; Family Code (1975) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--03-consolidation-toolkit.webp" width="900" height="598" alt="A central circle, holding power, linked to five methods: legal methods such as the Reichstag fire decree and Enabling Act; force such as the Night of the Long Knives and the Great Terror; charisma and propaganda in personality cults; treatment of opposition from co-option to exile and imprisonment; and foreign policy success such as Hitler's bloodless gains and Castro's Bay of Pigs victory." loading="lazy">
+  <figcaption>Weigh force against legal methods, propaganda and popularity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--05-policies-results.webp" width="900" height="612" alt="A table of six policies with results and limits. Stalin's Five-Year Plan brought rapid industrial growth but famine in 1932-33; the Great Leap Forward ended in catastrophic famine; Nazi rearmament cut unemployment but strained the economy; Nazi motherhood policy was undercut as women's employment rose; Mao's Marriage Law banned arranged marriages; Castro's regime made gains for women in education and health while traditional roles persisted." loading="lazy">
+  <figcaption>Measure results against aims, and look for the limits.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10--07-stalin-castro-grid.webp" width="900" height="794" alt="A thesis, then a grid comparing Stalin and Castro on four themes with a judgement for each: institutions (Stalin captured them, Castro created them), force (far greater scale under Stalin), persuasion (Castro relied more on popularity) and foreign policy (more important for Castro, after the Bay of Pigs). The conclusion: terror was central for Stalin, nationalism and mobilization for Castro." loading="lazy">
+  <figcaption>Organize by theme and end each row with a judgement.</figcaption>
+</figure>
 
 ## Key terms
 

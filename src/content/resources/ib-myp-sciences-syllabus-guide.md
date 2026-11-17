@@ -50,6 +50,11 @@ modular timetable revising as though their course were fully
 integrated (or vice versa) risks organising study time around the wrong
 unit boundaries.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--01-three-course-models.webp" width="900" height="790" alt="Discrete: biology, chemistry and physics run side by side all year as separate subjects. Modular: the sciences are taught one after another in rotation across the year. Integrated: the disciplines are blended into one course." loading="lazy">
+  <figcaption>The same sciences can be packaged as discrete, modular or integrated courses.</figcaption>
+</figure>
+
 ## Key and related concepts
 
 The framework is organised around key concepts of **change,
@@ -90,6 +95,11 @@ standard described by level 1 -- so a single criterion's actual
 attainable range is 0-8, and the four-criterion subject total is 0-32,
 not 4-32.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-syllabus-guide--01-framework-and-criteria.webp" width="900" height="854" alt="Key concepts change, relationships and systems, with related concepts such as energy, movement, transformation and models, explored through six global contexts. Work is assessed on four equally weighted criteria: A knowing and understanding, B inquiring and designing, C processing and evaluating and D reflecting on the impacts of science, each scored 0 to 8 for a total of 0 to 32." loading="lazy">
+  <figcaption>Concepts and contexts frame the work; four criteria, each 0 to 8, assess it.</figcaption>
+</figure>
+
 ## MYP eAssessment
 
 Students seeking IB MYP course results or the MYP certificate complete
@@ -116,6 +126,16 @@ drawing on the same underlying framework rather than four unrelated
 syllabuses. Which topics a student's own examination covers is set by
 the option they are entered for, not by the course model (discrete,
 modular or integrated) their school followed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-syllabus-guide--02-eassessment-tasks.webp" width="900" height="578" alt="A bar of 100 marks: knowing and understanding, criterion A, 25 marks; investigation skills, criteria B and C, 50 marks; applying science, criterion D, 25 marks. The on-screen examination is available in biology, chemistry, physics and integrated sciences." loading="lazy">
+  <figcaption>Investigation skills carry half of the 100 marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-course-models--02-scope-set-by-option.webp" width="900" height="855" alt="The course model (discrete, modular or integrated) does not set the examination scope. The eAssessment option (biology, chemistry, physics or integrated sciences) sets which topics the examination draws on, from a list spanning atomic structure and bonding, cells, cycles, electromagnetism, evolution, interactions between organisms, forces, states and properties of matter, metabolism, organisms and waves." loading="lazy">
+  <figcaption>Your eAssessment option, not your school’s course model, sets what the exam can examine.</figcaption>
+</figure>
 
 ## How to approach it
 

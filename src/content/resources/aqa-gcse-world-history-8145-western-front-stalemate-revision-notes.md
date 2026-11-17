@@ -53,6 +53,16 @@ featured: false
 - **Why it failed:** Belgian resistance; BEF at Mons; Russia mobilised faster; troops sent east; Moltke's changes; Germans turned east of Paris; Battle of the Marne.
 - **Link to stalemate:** Germans dug in on the Aisne; race to the sea; continuous trench line by end of 1914.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--01-schlieffen-plan.webp" width="900" height="758" alt="Schematic, not to scale: the main German force sweeps from Germany through neutral Belgium, avoiding the French border forts, and swings round Paris before turning east to face Russia. Two bars show the assumptions: Russia would take about six weeks to mobilise and France could be beaten in that time." loading="lazy">
+  <figcaption>Beat France in six weeks through Belgium, then turn to face Russia.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--02-plan-fails-stalemate.webp" width="900" height="691" alt="Four reasons the Schlieffen Plan failed (Belgian resistance, the BEF at Mons, faster Russian mobilisation and Moltke's changes) lead to the Battle of the Marne in September 1914, the race to the sea, and a line of trenches from the Channel to Switzerland by the end of 1914." loading="lazy">
+  <figcaption>Trenches were the result of the plan's failure, not its cause.</figcaption>
+</figure>
+
 ## Why defence beat attack
 
 | Factor | Effect |
@@ -63,6 +73,11 @@ featured: false
 | Railways | Defenders brought reserves faster than attackers advanced |
 | Trench design | Zigzags, dugouts, support and reserve lines |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--03-trench-system.webp" width="900" height="715" alt="Plan view, not to scale: zigzag front-line, support and reserve trenches run parallel, linked by communication trenches, facing no man's land and barbed wire. Notes explain that zigzags stopped an enemy firing along the whole line and list conditions such as mud, rats, lice and trench foot." loading="lazy">
+  <figcaption>Zigzag lines of front, support and reserve trenches faced each other across no man's land.</figcaption>
+</figure>
+
 ## New technology and tactics
 
 - **Gas** (chlorine 1915; later phosgene and mustard): frightening, but masks reduced its effect; wind could blow it back.
@@ -70,6 +85,11 @@ featured: false
 - **Aircraft**: reconnaissance, artillery spotting, then air combat.
 - **Creeping barrage**: infantry advanced behind a moving line of shellfire.
 - **Attrition**: wearing down the enemy's men and resources when breakthrough failed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--04-defence-and-new-technology.webp" width="900" height="848" alt="Four reasons defence beat attack: machine guns, barbed wire, artillery and railways. A table lists attempts to break the deadlock: gas from April 1915, tanks from September 1916, aircraft and the creeping barrage. A note defines attrition." loading="lazy">
+  <figcaption>Defence beat attack; new weapons were not instantly decisive, so commanders turned to attrition.</figcaption>
+</figure>
 
 ## Three battles compared
 
@@ -79,6 +99,21 @@ featured: false
 | Reasons | "Bleed France white" at a symbolic fortress | Relieve Verdun; break through; wear down Germany | Reach Belgian coast and U-boat bases; relieve French after mutinies |
 | Key events | Bombardment; forts lost; Pétain; *Voie Sacrée* | Week-long bombardment; 1 July disaster; first tanks | Messines mines; rain and mud; Canadians take the village |
 | Significance | France holds on; huge losses; led to timing of the Somme | Few miles gained; "butcher" debate; lessons learned; German army weakened | Symbol of futility; Germany also worn down |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--05-battles-timeline.webp" width="900" height="619" alt="Monthly time chart for 1916-17: Verdun from 21 February to December 1916, the Somme from 1 July to November 1916 overlapping with it, and Passchendaele from 31 July to November 1917 after Messines in June." loading="lazy">
+  <figcaption>The Somme was launched while Verdun was still being fought.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--07-three-battles-compared.webp" width="900" height="584" alt="Comparison table of Verdun (1916), the Somme (1916) and Passchendaele (1917) by commander, aim, key events, result and cost." loading="lazy">
+  <figcaption>All three battles brought huge losses for little ground: the war of attrition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-western-front-stalemate--06-somme-first-day.webp" width="900" height="584" alt="Chain: the week-long bombardment failed because of dud shells, uncut wire and deep dugouts, so troops advancing at walking pace on 1 July 1916 met machine-gun fire. A bar shows about 57,000 British casualties, nearly 20,000 killed. Below, critics and defenders of Haig." loading="lazy">
+  <figcaption>Dud shells and deep dugouts left the defences intact for the worst day in British army history.</figcaption>
+</figure>
 
 ## Key terms
 

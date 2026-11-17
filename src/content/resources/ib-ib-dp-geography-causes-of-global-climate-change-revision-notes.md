@@ -65,6 +65,11 @@ Carbon dioxide concentration was about 280 parts per million before industrialis
 risen to above 400 ppm in recent years, as shown by continuous measurement at Mauna Loa,
 Hawaii, since 1958 (the Keeling Curve).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--01-gc-energy-balance.webp" width="900" height="1040" alt="Shortwave radiation from the Sun passes through the atmosphere to the surface. The surface emits longwave radiation upwards. Greenhouse gases absorb some of it and re-emit it, warming the lower atmosphere, and the rest escapes to space." loading="lazy">
+  <figcaption>Greenhouse gases absorb some outgoing longwave radiation and re-emit it, warming the lower atmosphere.</figcaption>
+</figure>
+
 ## Natural and human factors
 
 | Factor | Effect |
@@ -86,6 +91,11 @@ Hawaii, since 1958 (the Keeling Curve).
 - **Albedo:** fresh snow and ice reflect most sunlight; open ocean and dark forest absorb most of
   it. Deforestation, desertification, urbanisation and melting ice all change albedo.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--02-gc-volcanic-dimming.webp" width="900" height="920" alt="A volcanic eruption puts aerosols into the atmosphere. Aerosols reflect some incoming sunlight back to space, so less reaches the surface. The surface cools temporarily (global dimming)." loading="lazy">
+  <figcaption>Volcanic aerosols reflect incoming sunlight, causing temporary cooling.</figcaption>
+</figure>
+
 ## Feedback loops
 
 - **Positive feedback** amplifies change. Example: warming melts ice, which lowers albedo, so the
@@ -102,6 +112,11 @@ Further positive feedbacks to know:
 A negative feedback example: higher carbon dioxide can boost plant growth, so vegetation absorbs
 some extra carbon. Feedbacks help explain **polar amplification**: the Arctic has warmed several
 times faster than the global average because ice loss feeds back on itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--03-gc-albedo-loop.webp" width="900" height="920" alt="Warming melts ice, which lowers albedo so less sunlight is reflected. The surface absorbs more energy, so warming increases further and the loop repeats. Each pass amplifies the warming, so it is a positive feedback loop." loading="lazy">
+  <figcaption>Melting ice lowers albedo, so more energy is absorbed and warming increases further.</figcaption>
+</figure>
 
 ## International variations in emissions
 

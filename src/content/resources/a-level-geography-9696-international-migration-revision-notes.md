@@ -51,6 +51,11 @@ Condensed recall for **5.3 International migration**: voluntary and forced movem
 
 The voluntary and forced labels are the ends of a **continuum** rather than two neat boxes. A farmer leaving after repeated droughts, or a family leaving an area of rising violence and collapsing jobs, has some choice but not much. In answers, explain where a flow sits and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--05-human-migration-types.webp" width="900" height="760" alt="A tree. Migration (movements shorter than one year excluded) splits into internal and international. Internal migration has four types: rural to urban, urban to rural, urban to urban, and intra-urban movement within a city. International migration is voluntary (for example economic migration) or forced (for example refugee flows)." loading="lazy">
+  <figcaption>Internal migration stays inside one country; international migration crosses borders and may be voluntary or forced.</figcaption>
+</figure>
+
 ## Examples of streams (illustrative)
 
 | Stream | Type | Main causes | Notes |

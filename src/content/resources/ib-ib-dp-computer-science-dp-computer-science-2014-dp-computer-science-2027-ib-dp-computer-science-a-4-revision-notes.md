@@ -55,6 +55,11 @@ school.
 3. Rule-based decisions are **easy to explain**; learned models can be **hard to explain**.
 4. Rule-based needs **expert knowledge**; learning needs **large, representative data**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--01-rules-vs-learning.webp" width="900" height="778" alt="In rule-based programming, rules written by a person and data go into a program that produces answers. In machine learning, examples and a learning method go into a learning system that produces a model, which makes predictions. A table compares where the rules come from, what each needs, how easily decisions are explained, how each adapts to change and what each suits." loading="lazy">
+  <figcaption>A programmer writes the rules, or the system finds them in the data.</figcaption>
+</figure>
+
 ## The learning process
 
 1. Collect data relevant to the task.
@@ -65,6 +70,16 @@ school.
 5. Test it on unseen data and evaluate its accuracy.
 6. Use it to make predictions; retrain when new data or new situations arise.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--02-training-data-features-labels.webp" width="900" height="592" alt="The eight training emails from the worked example, each with one feature (number of suspicious words: 9, 1, 7, 2, 8, 0, 6, 3) and a label (spam or not). Training on features and labels produces a model, the threshold 4.5, which classifies a new email with 5 words as spam and one with 4 as not. Training data must be representative, and testing uses data not seen in training." loading="lazy">
+  <figcaption>Features are the inputs, labels the correct answers; testing uses examples the model has not seen.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--05-threshold-number-line.webp" width="900" height="576" alt="A number line of suspicious words. The four not-spam training emails (0 to 3 words) average 1.5 and the four spam emails (6 to 9 words) average 7.5; the threshold 4.5 lies halfway. A new email with 5 suspicious words is classified as spam and one with 4 is not." loading="lazy">
+  <figcaption>The threshold comes from the data, so retraining on new emails would move it.</figcaption>
+</figure>
+
 ## Supervised or unsupervised?
 
 | Clue in the scenario | Type | Example |
@@ -72,6 +87,11 @@ school.
 | Each example has a known correct answer | Supervised (classification) | Emails labelled spam / not spam |
 | Each example has a known numerical outcome | Supervised (regression) | Past house sales with prices |
 | No answers given; find groups or patterns | Unsupervised (clustering) | Customers grouped by buying habits |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--03-supervised-unsupervised.webp" width="900" height="906" alt="Supervised learning uses labelled data: classification separates two labelled categories with a boundary and places a new point in one, and regression fits a line to predict a number such as a house price from its size. Unsupervised learning uses unlabelled points and finds clusters, such as groups of customers with similar buying habits." loading="lazy">
+  <figcaption>Labelled data means supervised; finding groups without answers means unsupervised.</figcaption>
+</figure>
 
 ## Applications to have ready
 
@@ -89,6 +109,11 @@ recognising road signs and obstacles.
 **Evaluation pattern:** benefit for the scenario → specific risk from the scenario's data or users →
 response → judgement.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--06-ethical-issues.webp" width="900" height="812" alt="Three ethical issues traced from cause to effect to response: biased training data leads a model to repeat unfairness, answered by balanced data, testing across groups and human review; hard-to-explain models leave people unable to challenge decisions, raising accountability; and training large models costs energy, hardware and cooling, to be weighed against the benefit." loading="lazy">
+  <figcaption>Link each ethical issue to the scenario’s data and users, then weigh it against the benefits.</figcaption>
+</figure>
+
 ## Applying A.4 to a scenario
 
 Suppose a council wants a model to decide which roads to repair first, trained on ten years of
@@ -97,6 +122,11 @@ urgency), the features (traffic volume, road age, number of complaints), a speci
 where fewer people complain could be under-represented, so their roads are repaired later), a
 response (add objective sensor data and review decisions by area), and a judgement on whether the
 benefit outweighs the risk.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4--04-threshold-trace.webp" width="900" height="939" alt="The lesson’s pseudocode loops over eight emails, adding each word count to spamTotal or notTotal and counting each class. The trace table shows spamTotal reaching 30 over 4 spam emails and notTotal reaching 6 over 4 others. The averages are 7.5 and 1.5, so the output threshold is (7.5 + 1.5) ÷ 2 = 4.5." loading="lazy">
+  <figcaption>The loop totals each class; halfway between the two averages gives the threshold 4.5.</figcaption>
+</figure>
 
 ## Exam traps
 

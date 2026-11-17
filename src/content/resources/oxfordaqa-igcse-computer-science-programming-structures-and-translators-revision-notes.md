@@ -77,11 +77,26 @@ notes](/resources/oxfordaqa-igcse-computer-science-programming-revision-notes/).
 - Array of records = a table of items, e.g. every book in a library.
 - Python lists are an accepted alternative to arrays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--01-cs-arrays-1d-2d.webp" width="900" height="960" alt="A one-dimensional array of six illustrative marks is reached with one index, so marks[2] is 88; a loop adds every item to give total 447 and average 74.5. A two-dimensional array is a table reached with student and test indices, so marks[2][1] is 83. Only one- and two-dimensional arrays are needed." loading="lazy">
+  <figcaption>An array item is reached by one index, or two for a table.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--02-cs-records.webp" width="900" height="910" alt="A record groups fields of different types: here title (string), pages (integer), price (real) and onLoan (Boolean). An array of records stores a table in which each row is one record. Arrays hold one type, records mixed types." loading="lazy">
+  <figcaption>A record holds mixed types; an array of records forms a table.</figcaption>
+</figure>
+
 ## Input/output and files (3.2.7)
 
 - Keyboard input arrives as text: **convert before calculating**.
 - Text file pattern: **open → read or write → close**.
 - Read inside a loop that stops at the end of the file.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling--04-reading-a-file.webp" width="900" height="700" alt="A flowchart: open the file for reading, test for the end of the file, and while it is not reached read a line, process it and test again; at the end, close the file. Beside it, pseudocode that totals and counts the numbers in scores.txt and outputs total / count, with a note to check count > 0 so an empty file does not divide by zero." loading="lazy">
+  <figcaption>Open, loop until end of file reading one line at a time, then close.</figcaption>
+</figure>
 
 ## String handling (3.2.8)
 
@@ -96,9 +111,19 @@ user <- part + INT_TO_STRING(7)                       -> "Men7"
 
 The integer must be converted to a string before concatenation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--03-cs-string-handling.webp" width="900" height="880" alt="Six string operations shown on the word Lagos: length 5, the position of g (2 when counting from 0), the substring Lag, joining Ada and Lovelace, character codes 65 and 97, and string conversion. The lesson tells students to check whether positions count from 0 or 1." loading="lazy">
+  <figcaption>Each string operation shown on a short example.</figcaption>
+</figure>
+
 ## Random numbers (3.2.9)
 
 Use them (dice rolls, random quiz questions, guessing games). How pseudo-random numbers are produced is **not** required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-random-number-generation--01-inclusive-ranges.webp" width="900" height="762" alt="RANDOM_INT(1, 6) in pseudocode and random.randint(1, 6) in Python can each return 1, 2, 3, 4, 5 or 6, with both ends included. In C#, rnd.Next(1, 7) excludes the upper value 7, so its maximum is 6." loading="lazy">
+  <figcaption>Pseudocode and Python include both ends; C# excludes the upper value.</figcaption>
+</figure>
 
 ## Subroutines and structured programming (3.2.10–3.2.11)
 
@@ -112,6 +137,11 @@ Use them (dice rolls, random quiz questions, guessing games). How pseudo-random 
 
 **Structured approach** = modularised program + clear, documented interfaces (parameters, return values) + local variables. Advantages: easier to understand, test, maintain and reuse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--04-cs-subroutine-parameters-return.webp" width="900" height="680" alt="The main program calls area(4, 3): the parameters 4 and 3 go into the function, whose local variables exist only inside it, and the value 12 is returned to roomArea. A second call area(5, 2) gives 10, showing reuse." loading="lazy">
+  <figcaption>Parameters pass data in and a return value passes data out.</figcaption>
+</figure>
+
 ## Robust and secure programming (3.2.12)
 
 Specification examples of validation: **minimum length**, **not empty**, **number in range**.
@@ -123,6 +153,11 @@ Specification examples of validation: **minimum length**, **not empty**, **numbe
 | Erroneous | -3, 50, "ten" |
 
 Authentication at this level compares plain-text username and password; no encryption needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--05-cs-rating-test-data.webp" width="900" height="820" alt="For a rating of 1 to 10, normal data 6 is accepted, boundary data 1 and 10 are accepted while 0 and 11 just outside are rejected, and erroneous data 25 and the word six are rejected." loading="lazy">
+  <figcaption>Test data for a range check covers normal, boundary and erroneous values.</figcaption>
+</figure>
 
 ## Languages and translators (3.2.13)
 
@@ -140,6 +175,11 @@ Authentication at this level compares plain-text username and password; no encry
 | **Assembler** | Assembly | Each line → one machine code instruction |
 
 When to use: interpreter while developing and testing; compiler to distribute a finished program; assembler for assembly-language code such as embedded systems.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators--06-cs-translators.webp" width="900" height="1120" alt="A compiler translates the whole high-level program into machine code before it runs. An interpreter translates and runs one statement at a time, makes no machine code file of its own and stops at the first error. An assembler converts each assembly line into one machine code instruction. The code shown is illustrative." loading="lazy">
+  <figcaption>Three translators: compiler (whole program), interpreter (one line at a time) and assembler (1:1).</figcaption>
+</figure>
 
 ## Exam traps
 

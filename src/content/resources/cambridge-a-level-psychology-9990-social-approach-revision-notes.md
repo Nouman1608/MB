@@ -37,6 +37,11 @@ featured: false
 | Implied | The learner, heard but not seen, in Milgram |
 | Imagined | The approaching figure or pictured person in Perry et al. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--01-assumptions-presence.webp" width="900" height="482" alt="Two assumptions: behaviour, cognitions and emotions are influenced by social contexts and groups, and by the actual, implied or imagined presence of others. Presence is actual in Piliavin et al. (other passengers), partly implied in Milgram (the learner known only from sounds) and imagined in Perry et al. (figures on a screen or in pictures)." loading="lazy">
+  <figcaption>Actual, implied and imagined presence: one core study for each.</figcaption>
+</figure>
+
 ## Core studies grid
 
 | Element | Milgram (1963) | Perry et al. (2015) | Piliavin et al. (1969) |
@@ -48,6 +53,11 @@ featured: false
 | Key result | All reached 300 V; 26 of 40 (65%) reached 450 V | Oxytocin: high empathy closer, low empathy further away | Cane victim helped on 62 of 65 trials; drunk on 19 of 38 |
 | Conclusion | Situational pressure from authority is powerful | Hormone effect depends on the individual | No diffusion of responsibility; arousal: cost–reward model |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--04-perry-oxytocin.webp" width="900" height="950" alt="Experiment 1 used a computerised Comfortable Interpersonal Distance Scale; Experiment 2 used pictures of rooms. An illustrative graph shows that under oxytocin, compared with placebo, high-empathy participants preferred to be closer and low-empathy participants preferred more distance. Conclusion: the effect depends on empathy." loading="lazy">
+  <figcaption>Oxytocin moved high-empathy people closer and low-empathy people further away.</figcaption>
+</figure>
+
 ## Milgram: numbers to know
 
 - 30 switches, 15 V to 450 V in 15 V steps.
@@ -57,12 +67,32 @@ featured: false
 - Payment: $4.50.
 - Prediction by students beforehand: about 1% would go to the end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--02-milgram-procedure.webp" width="900" height="730" alt="The experimenter gives prods to the teacher (the real participant), who gives shocks to the learner, a confederate in the next room. The generator has 30 switches from 15 to 450 volts labelled from Slight Shock to Danger: Severe Shock and XXX. At 300 volts the learner pounded on the wall and stopped answering; after 315 he pounded again and went silent." loading="lazy">
+  <figcaption>A rigged draw, a 30-switch generator and four standard prods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--03-milgram-results.webp" width="900" height="914" alt="Forty participant icons, 26 coloured for those who went to 450 volts. Bars show all 40 reached 300 volts, 26 of 40 (65 percent) reached 450 volts, against a prediction by psychology students of around 1 percent. Conclusion: the situation produced obedience. Evaluation covers replicability, sample limits, ethics and Milgram's defence." loading="lazy">
+  <figcaption>Every participant reached 300 volts and 65% went to 450, against a prediction of about 1%.</figcaption>
+</figure>
+
 ## Piliavin: set-up to know
 
 - Non-stop journey of about 7.5 minutes; weekdays, 11 a.m. to 3 p.m.
 - Teams of four: victim, model (both male), two female observers.
 - Collapse 70 seconds after leaving the station.
 - Victim conditions: cane (sober) or drunk (smell of alcohol, bottle in a paper bag); white or black victim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--05-piliavin-procedure.webp" width="900" height="588" alt="A schematic subway carriage: the male victim collapses in the critical area 70 seconds after the train leaves, a male model helps at a set time if no one else does, and two female observers record passengers' race, sex and location, time to help and comments. In the cane condition the victim appeared sober; in the drunk condition he smelled of alcohol and carried a bottle." loading="lazy">
+  <figcaption>Four researchers per trial: victim, model and two observers.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-social-approach--06-piliavin-results-model.webp" width="900" height="895" alt="Bars show spontaneous help on 62 of 65 cane trials and 19 of 38 drunk trials. Other findings: faster help for the cane victim, mostly male first helpers, slight same-race helping and no drop with larger groups, so no diffusion of responsibility. The arousal: cost-reward model runs from seeing an emergency to unpleasant arousal to the least costly response." loading="lazy">
+  <figcaption>The cane victim was helped on 62 of 65 trials; helping a drunk seemed more costly.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -50,6 +50,11 @@ They cover sections 6.3 (Ethnicity and educational attainment) and 6.4 (Gender a
 
 No studies are named in the syllabus for these sections. The studies below are well-established examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--04-gender-social-change.webp" width="900" height="751" alt="Three chains. Feminism and equal opportunities laws raised girls’ sense of what is possible and their career ambitions. Growth in service jobs and women’s work gave girls role models and reasons to gain qualifications. For boys, the decline of manual jobs led to an uncertain identity and less point in school, a debated crisis of masculinity." loading="lazy">
+  <figcaption>Social change raised girls’ ambitions, while the decline of manual work may have unsettled some boys.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -67,6 +72,11 @@ No studies are named in the syllabus for these sections. The studies below are w
 | Laddish culture | A peer culture where effort is "uncool" and status comes from defiance and humour |
 | Hegemonic masculinity | The dominant, most valued form of masculinity in a setting (Connell) |
 | Moral panic | An exaggerated public reaction to a group seen as a problem |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--01-educational-triage.webp" width="900" height="601" alt="League-table pressure creates an A-to-C economy. Pupils are sorted into those who will pass anyway, those who can be helped to pass, who receive most teaching effort, and those seen as hopeless, who are placed in lower sets and foundation tiers." loading="lazy">
+  <figcaption>Rationing teaching towards borderline pupils reproduces class, ethnic and gender inequality.</figcaption>
+</figure>
 
 ## Theories and studies at a glance
 
@@ -92,6 +102,21 @@ No studies are named in the syllabus for these sections. The studies below are w
 | Jackson (2002, 2006) | Laddishness; ladettes | Laddishness protects self-worth; some girls act "laddishly" | Shows subcultures are not only male |
 | French (1984) | One primary lesson transcribed | Boys got more teacher attention, partly by seeking it | One lesson only |
 | Spender (1978) | Classroom talk | Stereotypes kept many girls quiet in mixed classes | Older evidence; classrooms have changed |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--02-ethnic-subcultures.webp" width="900" height="567" alt="Sewell found African-Caribbean boys responded to school as conformists, innovators, retreators or rebels, and received disproportionate punishment. Mirza found young African-Caribbean women did well at school, but a labour market segregated by race and gender limited their jobs." loading="lazy">
+  <figcaption>Pupils of the same ethnicity respond differently, and success at school does not guarantee a fair outcome.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--03-intersectionality.webp" width="900" height="931" alt="Three overlapping circles for ethnicity, class and gender with studies placed in the overlaps: Vincent and colleagues between ethnicity and class, Connolly between ethnicity and gender, Willis between class and gender, and Gillborn and Mirza’s national review at the centre." loading="lazy">
+  <figcaption>Class, ethnicity and gender combine, so no single factor explains attainment.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--05-self-worth-protection.webp" width="900" height="776" alt="A loop: avoiding visible effort leads to failing, which can be blamed on not trying rather than lack of ability, which protects self-worth and status in laddish culture. Below, ladette cultures among girls, unequal teacher attention and hegemonic masculinity." loading="lazy">
+  <figcaption>If you never try, failure cannot be blamed on lack of ability.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

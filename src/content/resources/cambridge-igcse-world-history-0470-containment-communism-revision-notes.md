@@ -46,6 +46,11 @@ try the [containment practice questions](/resources/cambridge-igcse-world-histor
 
 **Verdict line:** the original aim succeeded; rollback failed; China became a lasting enemy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--02-korea-decisions.webp" width="900" height="852" alt="Five numbered decisions: intervene at once (June 1950), act through the UN, cross the 38th parallel (October 1950, highlighted as the turn to rollback that brought China in), dismiss MacArthur (April 1951) and accept an armistice (July 1953). Below, success against the original aim and failure against the aim of uniting Korea." loading="lazy">
+  <figcaption>Judged by the original aim Korea was a success; by the aim of October 1950, a failure.</figcaption>
+</figure>
+
 ## Cuba, 1959-62: decision timeline
 
 | Date | Event | Containment link |
@@ -62,6 +67,11 @@ try the [containment practice questions](/resources/cambridge-igcse-world-histor
 | 1963 | Hotline; Partial Test Ban Treaty; Jupiter missiles leave Turkey | Start of more cautious relations |
 
 **Verdict line:** failed to stop or remove communism in Cuba; succeeded in removing the missiles without war.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--03-cuba-options.webp" width="900" height="591" alt="Four rejected options, each crossed out with its drawback: do nothing, diplomacy alone, air strikes and invasion. The chosen option, a naval quarantine, stopped more weapons arriving and gave Khrushchev time. Below, Khrushchev's two letters of 26 and 27 October: the first publicly accepted, the second privately accepted." loading="lazy">
+  <figcaption>The quarantine showed firmness but left Khrushchev a way out.</figcaption>
+</figure>
 
 ## Vietnam, 1955-75: decision timeline
 
@@ -81,6 +91,11 @@ try the [containment practice questions](/resources/cambridge-igcse-world-histor
 
 **Verdict line:** clear failure by its own aim; huge cost in lives, money and reputation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--04-vietnam-in-out.webp" width="900" height="404" alt="Three linked columns. Why involved: the domino theory, SEATO, backing Diem and credibility after Korea. Why it failed: a war of attrition with body counts, firepower that killed civilians, resented strategic hamlets and the Ho Chi Minh Trail. Why withdrawal: Tet, casualties and protest, Vietnamisation and détente, then Paris (1973) and the fall of Saigon (1975)." loading="lazy">
+  <figcaption>Firepower could not beat guerrillas, and opinion at home turned against the war.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -99,6 +114,16 @@ try the [containment practice questions](/resources/cambridge-igcse-world-histor
 | Vietnamisation | Nixon's policy of handing the fighting to South Vietnamese forces |
 | Ho Chi Minh Trail | Supply route from North Vietnam through Laos and Cambodia |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--01-containment-widens.webp" width="900" height="388" alt="Four linked steps: the Truman Doctrine (1947), NSC-68 (April 1950), the Korean War (June 1950) and the domino theory (1954). A bar below shows containment growing from sending aid, to a willingness to fight, to defending every state." loading="lazy">
+  <figcaption>Containment grew from a promise of aid into a commitment to fight anywhere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-us-containment-korea-cuba-vietnam--15-containment-dominoes.webp" width="900" height="880" alt="Two rows of dominoes. In the domino theory row, one domino has fallen and the others topple in sequence, showing neighbours following. In the containment row a barrier stops the first fallen domino and the rest stand. A note says containment meant stopping communism spreading to new countries rather than overthrowing it where it already ruled." loading="lazy">
+  <figcaption>Containment (Truman Doctrine, 1947) set against the domino theory (Eisenhower, 1954).</figcaption>
+</figure>
+
 ## Comparing the three cases
 
 | | Korea | Cuba | Vietnam |
@@ -107,6 +132,11 @@ try the [containment practice questions](/resources/cambridge-igcse-world-histor
 | Main US method | UN war | Pressure, invasion attempt, blockade | Advisers, then full-scale war |
 | Allies | UN members | OAS support in 1962 | Few allies; little UN role |
 | Outcome | South saved | Castro stayed; missiles removed | Whole of Vietnam communist |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-containment-communism--05-effectiveness-grid.webp" width="900" height="579" alt="A grid of three criteria (aim achieved, cost, wider effects) against Korea, Cuba and Vietnam. Korea: the South survived, a limited success. Cuba: communism stayed but the missiles went, mixed. Vietnam: three states became communist in 1975, a failure, though wider dominoes did not fall." loading="lazy">
+  <figcaption>Define &quot;effective&quot;, then rank the cases: Korea, then Cuba, then Vietnam.</figcaption>
+</figure>
 
 ## Exam traps
 

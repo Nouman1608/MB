@@ -107,6 +107,11 @@ used in batteries, and China dominates rare-earth processing; around a fifth of 
 consumption passes through the Strait of Hormuz; export bans by grain producers during price spikes
 can worsen shortages elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--04-res-supply-risks.webp" width="900" height="940" alt="Schematic of an exporter, a narrowing transport route and an importer, with five numbered risks: concentrated production, transport chokepoint, political instability, extreme weather and depletion of reserves." loading="lazy">
+  <figcaption>Supply can be disrupted at the source, along the route or by depletion.</figcaption>
+</figure>
+
 ## Reserves and the R/P ratio
 
 - **Reserves** are the portion of a resource that can be extracted economically with present
@@ -120,6 +125,11 @@ can worsen shortages elsewhere.
 The difference between **resources** (everything that exists, including what cannot yet be extracted
 economically) and **reserves** explains why R/P ratios for oil have often risen over time: higher
 prices and new technology such as fracking turned resources into reserves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-global-resource-consumption-study-guide--03-res-reserves-production.webp" width="900" height="900" alt="Bar chart of an illustrative mineral. 360 Mt of reserves at 12 Mt a year lasts 30 years; adding 60 Mt of discoveries gives 35 years; production of 14 Mt gives 25.7 years. The ratio is a snapshot, not a forecast." loading="lazy">
+  <figcaption>The R/P ratio changes whenever reserves or production change, so it is not a forecast.</figcaption>
+</figure>
 
 ## Model paragraph (examine)
 

@@ -33,6 +33,16 @@ These notes condense world history topic 9 for Paper 2: how democratic states em
 | Challenges and responses | What political, economic and social threats arose? What did governments do, and did it work? |
 | Policies | What were the aims and results of economic, social and cultural policies, including for women and minorities? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--01-three-headings.webp" width="900" height="402" alt="Three linked columns: emergence (conditions and institutions), development and challenges (extremism, economic crisis, divided societies, weak institutions, and responses) and aims and results of policies (including their effect on women and minorities)." loading="lazy">
+  <figcaption>Why democracies emerged, how they coped and what their policies achieved.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--02-democracy-criteria.webp" width="900" height="645" alt="Five numbered criteria: free and regular elections with a wide franchise, a constitution limiting government and protecting rights, an independent judiciary and free press, peaceful transfer of power, and protection of minorities. Below, India had mass elections but suspended civil liberties in 1975-77; Weimar had a democratic constitution but hostile elites." loading="lazy">
+  <figcaption>Set criteria first, then test each state against them.</figcaption>
+</figure>
+
 ## Case 1: Weimar Germany, 1918-1933 (Europe)
 
 - 9 November 1918: Kaiser abdicates; republic proclaimed. 11 November: armistice.
@@ -49,6 +59,11 @@ These notes condense world history topic 9 for Paper 2: how democratic states em
 
 **Verdict to argue:** survived the early crises but collapsed when economic disaster met structural weakness and elite hostility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--05-weimar-fortunes.webp" width="900" height="765" alt="An illustrative line of Weimar's stability: low through the attacks of 1919-23, with hyperinflation in 1923 the lowest point; rising under Stresemann with the Rentenmark, Dawes Plan and Locarno; falling from the collapse of Müller's coalition in March 1930 to Hitler's appointment on 30 January 1933. Below, structure and circumstance are set side by side to be weighed." loading="lazy">
+  <figcaption>Weimar survived one crisis and recovered, then collapsed in the next: weigh structure against circumstance.</figcaption>
+</figure>
+
 ## Case 2: India, 1947-1977 (Asia and Oceania)
 
 - 1947: independence and partition.
@@ -60,6 +75,11 @@ These notes condense world history topic 9 for Paper 2: how democratic states em
 - 1977: Congress loses the election to the Janata Party.
 
 **Verdict to argue:** a durable democracy in a poor, diverse society; the 1977 election showed that voters could remove a government that had suspended liberties.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--06-legal-social-change.webp" width="900" height="514" alt="A grid separates legal from social change. India: untouchability outlawed, reserved seats and the Hindu Code Bills reforming family law. Weimar: women voted from 1919 and sat in the Reichstag, but attitudes changed slowly. South Africa: the RDP and GEAR sought growth and redistribution, yet inequality and unemployment remained severe." loading="lazy">
+  <figcaption>A law on paper is not the same as change in society.</figcaption>
+</figure>
 
 ## Case 3: South Africa, 1990-2000s (Africa and the Middle East)
 
@@ -73,6 +93,11 @@ These notes condense world history topic 9 for Paper 2: how democratic states em
 
 **Verdict to argue:** a peaceful political transition and strong constitution, but deep inequality and unemployment limited social and economic change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--07-south-africa.webp" width="900" height="652" alt="A vertical timeline of South Africa: Mandela's release (February 1990), the first universal elections and the RDP (1994), the Truth and Reconciliation Commission (1995), the 1996 constitution and GEAR, and the peaceful transfer to Mbeki (1999). A note adds that inequality and unemployment remained severe." loading="lazy">
+  <figcaption>South African democracy survived, but its economic promises were only partly met.</figcaption>
+</figure>
+
 ## Challenge types and examples
 
 | Challenge | Example | Response |
@@ -83,6 +108,11 @@ These notes condense world history topic 9 for Paper 2: how democratic states em
 | Religious or communal division | Partition and its aftermath in India | Secular constitution; protection of minority rights |
 | Legacy of racial discrimination | Apartheid in South Africa | TRC; Bill of Rights; affirmative action and Black Economic Empowerment |
 | Leaders undermining democracy | The Emergency (1975-77) in India | Elections of 1977 removed the government |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9--04-challenge-types.webp" width="900" height="517" alt="Three columns of challenges to democracies. Political: the Spartacist rising, Kapp Putsch and Munich Putsch, fragmented parliaments and communal conflict. Economic: Weimar hyperinflation in 1923, the Depression after 1929 and poverty in India and South Africa. Social: divisions of class, religion, caste or race." loading="lazy">
+  <figcaption>Political, economic and social challenges, and how they interacted.</figcaption>
+</figure>
 
 ## Key terms
 

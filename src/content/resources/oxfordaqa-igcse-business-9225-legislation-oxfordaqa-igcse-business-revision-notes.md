@@ -42,12 +42,27 @@ Laws differ between countries; apply general ideas to the business described.
 | Health and safety | Risk assessments, safe equipment, training, protective clothing, accident reports | Fit machine guards; run safety training; keep an accident log |
 | Consumer | Goods as described, acceptable quality, fit for purpose, safe; accurate labels; honest adverts; refunds or repairs | Test products; check labels; set up a returns desk |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--01-three-areas-of-law.webp" width="900" height="590" alt="Three columns. Employment law (contracts, minimum wage, hours, holiday, fair treatment and dismissal) protects employees. Health and safety law (risk assessment, safe equipment, training, protective clothing, accident reporting) protects employees and visitors. Consumer law (goods as described, safe products, accurate labels, honest adverts, refunds) protects customers." loading="lazy">
+  <figcaption>Each area of law sets minimum standards that protect a different group.</figcaption>
+</figure>
+
 ## Four headings for any "assess the impact" question
 
 1. **Cost:** wages, equipment, testing, inspections, records.
 2. **Training needs:** safe methods, fair recruitment, refund rules.
 3. **Recruitment:** non-discriminatory adverts and interviews, contracts, right-to-work checks.
 4. **Consequences of failure:** fines, compensation, closure orders, recalls, prosecution, reputation damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--02-four-impacts.webp" width="900" height="720" alt="A business law at the centre with four impacts: cost (wages, equipment, inspections, insurance), training needs (safe methods, fair recruitment, refund rights), recruitment (non-discriminatory adverts, contracts, right-to-work checks) and the consequences of failing to comply (fines, compensation, closure orders, recalls, prosecution, bad publicity)." loading="lazy">
+  <figcaption>Explain a law’s effect through cost, training, recruitment or the penalties for breaking it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--03-consequences-of-breaking-law.webp" width="900" height="566" alt="Legal consequences of breaking business law: fines, compensation, orders to stop using unsafe equipment or close premises, product recalls and, in serious cases, prosecution of managers. Bad publicity follows, losing the trust of customers and future employees, and often costs more than the fine." loading="lazy">
+  <figcaption>Penalties hurt, and lost trust can cost more than any fine.</figcaption>
+</figure>
 
 ## Safe working environment
 
@@ -69,12 +84,27 @@ Laws differ between countries; apply general ideas to the business described.
 
 **Calculation method:** extra cost = number of staff × hours each × weeks × increase per hour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--04-juniper-minimum-wage.webp" width="900" height="706" alt="Juniper Cafés pays 20 staff for 35,000 hours a year (20 × 35 × 50). A 60-cent rise from $7.20 to $7.80 adds $21,000 a year, which is $0.14 on each of 150,000 meals. Juniper can raise prices, accept lower profit or use fewer hours." loading="lazy">
+  <figcaption>A 60-cent wage rise costs Juniper $21,000 a year, or 14 cents a meal.</figcaption>
+</figure>
+
 ## Consumer protection
 
 - Product design and testing cost more, but returns fall.
 - Marketing claims and labels must be checked.
 - Faulty goods: repair, replace or refund, so a returns system is needed.
 - Breaking the law: recalls, fines, compensation, lost trust.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--05-consumer-law-effects.webp" width="900" height="540" alt="Three requirements and their effects: safe products that work as described mean more spending on design, testing and quality control; accurate packaging and adverts mean checking marketing claims; and repairs, replacements or refunds for faulty goods mean returns procedures and trained staff." loading="lazy">
+  <figcaption>Consumer law shapes what a business sells and how it sells it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business--06-brackwell-recall.webp" width="900" height="749" alt="Brackwell must recall 2,000 faulty kettles; 40% (800) are returned at $35 refund plus $5 handling, costing $32,000. Safety testing before sale would have cost about $6,000, so the recall costs over five times as much, before reputation damage." loading="lazy">
+  <figcaption>Testing first would have cost about $6,000; the recall costs $32,000.</figcaption>
+</figure>
 
 ## Which businesses feel a law most?
 

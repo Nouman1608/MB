@@ -36,6 +36,11 @@ featured: false
 | Ingredients | Range, linking, provenance where relevant, own knowledge, judgement |
 | Time | About 18 minutes of Section A's roughly 50 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--01-question-4-at-a-glance.webp" width="900" height="621" alt="Five sources, three pre-released (A to C) and two unseen (D and E), plus own knowledge, feed into a judgement on the issue. Question 4 rewards range, linking and judgement." loading="lazy">
+  <figcaption>Use the whole booklet: range, links and a judgement.</figcaption>
+</figure>
+
 ## How it differs from Questions 1-3
 
 - **Questions 1-3** each work with one or two specified sources.
@@ -49,6 +54,16 @@ featured: false
 3. **Write** -- paragraphs by argument; each uses two or more sources, provenance where useful, and own knowledge.
 4. **Judge** -- answer the question and say why one side carries more weight.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--03-four-step-method.webp" width="900" height="578" alt="Time bar for the four steps: about 1 minute reading the issue, 3 sorting the sources, 12 writing linked paragraphs and 2 judging. Cards explain each step." loading="lazy">
+  <figcaption>Spend most of the time writing paragraphs organised by argument.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--05-sorting-the-sources.webp" width="900" height="539" alt="Sorting grid for the worked example: Sources A and C support the view that the League kept the peace, B and E challenge it, and D can be used both ways. Below, provenance makes A strong, C in need of checking and D weighty." loading="lazy">
+  <figcaption>Sort first, then let provenance decide how much each source can bear.</figcaption>
+</figure>
+
 ## Five ways to link sources
 
 | Link | Signal phrases |
@@ -58,6 +73,11 @@ featured: false
 | Cause and effect | "shows the decision, while... shows its result" |
 | General and particular | "gives the policy; ... shows it in practice" |
 | Gap filled by knowledge | "none of the sources mentions..., but" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--04-ways-of-linking.webp" width="900" height="570" alt="Five link types, each with a small diagram: corroboration (two sources agree), contradiction explained by provenance, cause and effect, scale or detail (overall policy and one case), and context filling a gap the sources leave." loading="lazy">
+  <figcaption>Link sources by agreement, explained disagreement, cause, scale or a gap.</figcaption>
+</figure>
 
 ## Weighing provenance in Question 4
 
@@ -78,6 +98,11 @@ A source from the "losing" or opposing side that still supports a view is especi
 - Decide which side of likely debates each one supports.
 - Learn one or two facts to extend each source.
 - Rehearse links between the three pre-released sources.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-source-question-4--02-preparing-the-pre-release.webp" width="900" height="645" alt="Five preparation steps for the three pre-released sources: list the issues each could serve, decide which side of likely debates it supports, learn the provenance, rehearse links between sources, and learn one or two facts to extend each." loading="lazy">
+  <figcaption>Know each pre-released source well enough to use it quickly on any issue.</figcaption>
+</figure>
 
 ## Key terms
 

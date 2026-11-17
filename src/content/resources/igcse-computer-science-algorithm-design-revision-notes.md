@@ -56,6 +56,11 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 
 **Abstraction** = removing unnecessary detail so you focus on what matters. **Decomposition** = breaking the problem into smaller parts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--14-ad-break.webp" width="900" height="1070" alt="Abstraction turns a winding track with stations A to D into a straight route map showing only order. Decomposition splits a library system into searching, borrowing, returning and fines. Pattern recognition puts five identical repeated steps into one loop." loading="lazy">
+  <figcaption>Abstraction, decomposition and pattern recognition each shown with the lesson example.</figcaption>
+</figure>
+
 ## 7.2 Decomposition and design methods
 
 Every computer system is made of **sub-systems**, which are made of further sub-systems. Decompose a problem into:
@@ -66,6 +71,11 @@ Every computer system is made of **sub-systems**, which are made of further sub-
 - **storage** — data kept for later use
 
 A **structure diagram** shows the hierarchy: the whole system at the top, sub-systems underneath. A **flowchart** uses the standard symbols: terminator (start/stop), process, input/output, decision, subroutine and flow lines. **Pseudocode** uses the Cambridge format, for example `Total ← Total + Mark`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--15-ad-flow.webp" width="900" height="1100" alt="A flowchart finds the highest of five marks. Start, set Highest to 0, input Mark, ask whether Mark is greater than Highest, update Highest if so, repeat until five marks are done, then output Highest. The four symbol types are labelled." loading="lazy">
+  <figcaption>The four flowchart symbols used in a find-the-highest flowchart.</figcaption>
+</figure>
 
 ## 7.4 The standard methods of solution
 
@@ -96,6 +106,11 @@ Average ← Total / 30
 
 Key rules: totals and counts start at **0**; the starting maximum must be lower than any possible value, the starting minimum higher (or set both to the first item).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--16-ad-trace.webp" width="900" height="860" alt="Two trace tables use the marks 62, 48, 75, 50 and 39. With the wrong comparison Highest stays 0 and the output is 0. With the corrected comparison Highest becomes 62, then 75, and the output is 75." loading="lazy">
+  <figcaption>Trace tables for the faulty and corrected find-the-highest algorithm.</figcaption>
+</figure>
+
 ### Linear search
 
 ```
@@ -120,6 +135,11 @@ ENDIF
 
 Checks each item in turn from the start until the item is found or the end of the list is reached.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--18-ad-linear.webp" width="900" height="940" alt="Searching for 21 checks indexes 1, 2 and 3 and stops with Found TRUE after three comparisons. Searching for 50 checks all five items, Found stays FALSE, and a not found message is output." loading="lazy">
+  <figcaption>A linear search that succeeds after three comparisons and one that fails after five.</figcaption>
+</figure>
+
 ### Bubble sort
 
 ```
@@ -141,6 +161,11 @@ UNTIL Swapped = FALSE OR Last <= 1
 
 Compares each pair of neighbouring items and swaps them if they are in the wrong order. After each pass the largest remaining value is in its final place. It stops when a pass makes no swaps.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--17-ad-bubble.webp" width="900" height="970" alt="The list 14, 9, 21, 3, 17 is shown after each of four passes with swaps of 3, 1, 1 and 0. The largest unsorted value reaches the end each pass. A strip shows one swap using Temp in three steps." loading="lazy">
+  <figcaption>Bubble sort pass by pass, plus the three-step swap with a temporary variable.</figcaption>
+</figure>
+
 ## 7.5 Validation and verification
 
 **Validation** = an automatic check that data is reasonable and sensible. **Verification** = a check that data has been copied or entered accurately. Validation cannot prove data is correct: a valid age of 41 typed instead of 14 passes a range check.
@@ -156,6 +181,11 @@ Compares each pair of neighbouring items and swaps them if they are in the wrong
 | Visual check (verification) | User compares the entry with the original on screen | Reading back a delivery address |
 | Double entry (verification) | Data is entered twice and the two entries are compared | Setting a new password |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--19-ad-valver.webp" width="900" height="1050" alt="The form says 17 but 71 is typed. A range check from 0 to 120 accepts 71. Double entry compares 71 with a second entry of 17 and finds a mismatch. The validation checks named in the lesson are listed below." loading="lazy">
+  <figcaption>Why a value can pass validation yet fail verification.</figcaption>
+</figure>
+
 ## 7.6 Test data
 
 For "a whole number from 1 to 20 inclusive":
@@ -166,6 +196,11 @@ For "a whole number from 1 to 20 inclusive":
 | Abnormal | Should be rejected (out of range or wrong type) | 35, "seven" |
 | Extreme | The largest or smallest acceptable value | 1 or 20 |
 | Boundary | The largest/smallest acceptable value **and** the matching value just rejected | 0 and 1; 20 and 21 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide--20-ad-testdata.webp" width="900" height="760" alt="Circles for 0 to 11 show a rule accepting 1 to 10. 5 is normal, 1 and 10 are boundary values and accepted, 0 and 11 are the first values outside and are rejected, and the word ten is abnormal." loading="lazy">
+  <figcaption>Normal, boundary and abnormal test data for whole numbers 1 to 10.</figcaption>
+</figure>
 
 ## 7.7 Worked example: tracing a bubble sort
 

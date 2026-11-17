@@ -36,6 +36,11 @@ These notes condense section 4.4 Electrical safety of the Cambridge IGCSE Physic
 
 - Appliances on one extension lead are in parallel: **their currents add**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--03-overloading.webp" width="900" height="580" alt="A kettle (2.5 kW, 10.9 A), a heater (2.0 kW, 8.7 A) and an iron (1.2 kW, 5.2 A) plugged into one extension lead designed for 13 A on 230 V. The currents add to 24.8 A, so the cable overheats, its insulation can melt and a fire can start." loading="lazy">
+  <figcaption>Each appliance adds its own current; too many on one lead overheats the cable.</figcaption>
+</figure>
+
 ## The mains circuit
 
 - **Live (line) wire:** carries the high alternating p.d.; the dangerous wire.
@@ -44,6 +49,16 @@ These notes condense section 4.4 Electrical safety of the Cambridge IGCSE Physic
 - **Switch in the live wire:** "off" disconnects the appliance from the high p.d.
 - A switch in the neutral would leave the appliance's parts **live** even when off.
 - Fuses also go in the live wire, for the same reason.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--01-live-neutral-earth.webp" width="900" height="610" alt="A mains supply connected to an appliance with a metal case. The live wire, at a high p.d., runs through a fuse and a switch to the working parts; the neutral wire, close to 0 V, completes the circuit; the earth wire, at 0 V, connects to the metal case and carries current only when there is a fault." loading="lazy">
+  <figcaption>Fuse and switch sit in the live wire; the earth wire joins the metal case to the ground.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--02-switch-in-live-wire.webp" width="900" height="620" alt="Two circuits with the switch off. With the switch in the live wire, the lamp holder is cut off from the high p.d. and is safe. With the switch in the neutral wire, the lamp goes out but the holder is still connected to the live wire, so it can still give a shock." loading="lazy">
+  <figcaption>Both switch positions turn the lamp off, but only a live-wire switch makes it safe.</figcaption>
+</figure>
 
 ## Fuses
 
@@ -64,6 +79,11 @@ These notes condense section 4.4 Electrical safety of the Cambridge IGCSE Physic
 - Can be **reset** once the fault is fixed; nothing to replace.
 - Choose the setting just above the normal maximum current of the circuit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--05-fuse-vs-trip-switch.webp" width="900" height="600" alt="A fuse is a thin wire in the live wire that melts when the current exceeds its rating and must be replaced; a trip switch opens when the current exceeds its setting and is reset by hand. A 4.0 kW circuit on 230 V carries 17.4 A, so from 6 A, 20 A and 32 A the 20 A setting is chosen." loading="lazy">
+  <figcaption>Both cut off the live supply when the current is too large; a trip switch can be reset.</figcaption>
+</figure>
+
 ## Earthing and double insulation
 
 **Earthed metal case, in steps**
@@ -79,6 +99,16 @@ These notes condense section 4.4 Electrical safety of the Cambridge IGCSE Physic
 - **No earth wire** is needed.
 - Its fuse (with no earth wire) **protects the circuit and the cabling**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--06-earthing-chain.webp" width="900" height="610" alt="A loose live wire touches the metal case of an appliance. A large current flows from the live wire through the case and the earth wire to the ground, the fuse in the live wire melts, the appliance is disconnected and the case is safe to touch." loading="lazy">
+  <figcaption>Fault, large current to earth, fuse melts, live disconnected.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--07-double-insulation.webp" width="900" height="520" alt="A double-insulated appliance has a plastic, non-conducting case around insulated live parts and only live and neutral wires, with no earth wire. A fuse in the live wire remains to protect the circuit and the cabling." loading="lazy">
+  <figcaption>A non-conducting case cannot become live; the fuse protects the circuit and cabling.</figcaption>
+</figure>
+
 ## Fuse choices at 230 V (calculated)
 
 | Appliance power | Normal current | Fuse (from 3 A, 5 A, 13 A) |
@@ -88,6 +118,11 @@ These notes condense section 4.4 Electrical safety of the Cambridge IGCSE Physic
 | 800 W | 3.5 A | 5 A |
 | 1200 W | 5.2 A | 13 A |
 | 2500 W | 10.9 A | 13 A |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics--04-choosing-a-fuse.webp" width="900" height="684" alt="A current scale from 0 to 14 A with fuse ratings of 3 A, 5 A and 13 A. A 650 W drill draws 2.8 A, so the 3 A fuse is chosen; a 1.2 kW hair dryer draws 5.2 A, above 5 A, so it needs the 13 A fuse." loading="lazy">
+  <figcaption>Calculate I = P/V, then pick the smallest rating just above it.</figcaption>
+</figure>
 
 ## Key terms
 

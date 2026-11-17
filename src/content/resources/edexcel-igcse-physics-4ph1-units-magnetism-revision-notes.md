@@ -48,6 +48,16 @@ efficiency = useful power output / total power output × 100%    (from Topic 4, 
 Both transformer relationships are Physics-only, assessed on Paper 2. The turns-ratio equation is in the
 specification's list of relationships you must recall.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--01-a-v-w-link.webp" width="900" height="680" alt="Current in amperes multiplied by voltage in volts gives power in watts: 1 W = 1 A × 1 V, since (C/s) × (J/C) = J/s. In a transformer V_p × I_p = V_s × I_s, both sides in watts, for 100% efficiency. The turns ratio V_p / V_s = N_p / N_s has no unit, so both voltages need only the same unit." loading="lazy">
+  <figcaption>Amperes times volts gives watts; a turns ratio has no unit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--05-motor-and-efficiency.webp" width="900" height="490" alt="A d.c. motor on 6.0 V drawing 0.50 A has power 0.50 × 6.0 = 3.0 W and transfers 3.0 × 120 = 360 J in 2.0 minutes. A real transformer with input 12 W and output 10.8 W has efficiency 10.8 / 12 × 100% = 90%, because the coils and core heat up." loading="lazy">
+  <figcaption>P = I × V gives watts; a real transformer outputs a little less than it takes in.</figcaption>
+</figure>
+
 ## Where the units appear
 
 - **A:** current in a wire, coil or solenoid producing a field; current in an electromagnet; the current that affects
@@ -66,6 +76,11 @@ specification's list of relationships you must recall.
 | 1 kW | 1000 W |
 | 1 MW | 1 000 000 W (10⁶ W) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--02-prefixes.webp" width="900" height="670" alt="Prefix ladder: mega (M, × 10⁶) for power station output in MW; kilo (k, × 10³) for transmission voltages in kV and motors in kW; the base units A, V and W; milli (m, × 10⁻³) for small currents in mA and induced voltages in mV. m and M differ by a factor of a thousand million; 25 mV = 0.025 V." loading="lazy">
+  <figcaption>Convert mA, mV, kV, kW and MW to A, V and W before calculating.</figcaption>
+</figure>
+
 ## Transformer rules of thumb
 
 - Step-up: V_s > V_p, N_s > N_p, I_s < I_p.
@@ -73,6 +88,16 @@ specification's list of relationships you must recall.
 - For an ideal transformer, the current ratio is the **inverse** of the voltage ratio: I_s / I_p = V_p / V_s.
 - Voltages in the turns-ratio equation can both be in V or both in kV, because the unit cancels.
 - Transmission at high voltage → small current for the same power → less heating in cables.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--06-step-up-step-down.webp" width="900" height="690" alt="A step-up transformer has more turns on the output coil: the output voltage is bigger and the output current smaller than the input. A step-down transformer has fewer output turns: the output voltage is smaller and the current bigger. The current ratio is the inverse of the voltage ratio, and output power cannot exceed input power." loading="lazy">
+  <figcaption>Voltage up means current down, and the other way round.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--04-transmission-example.webp" width="900" height="700" alt="A generator delivers 400 MW at 25 kV; a step-up transformer raises it to 400 kV for the cables, and a step-down transformer reduces it near homes. At 25 kV the current is 400 × 10⁶ / 25 × 10³ = 16 000 A; at 400 kV it is 1000 A, sixteen times smaller, shown by bars to scale. The voltage ratio is 16, so less energy is wasted heating the cables." loading="lazy">
+  <figcaption>Step up the voltage and the same power needs a sixteen times smaller current.</figcaption>
+</figure>
 
 ## Two-step transformer pattern (P)
 
@@ -87,6 +112,11 @@ step 2:  I_p = V_s × I_s / V_p              (input power = output power)
 secondary supplies 1.5 A. Then `V_s = 230 × 60 / 1150 = 12 V`, output power `= 12 × 1.5 = 18 W`, and
 `I_p = 18 / 230 = 0.078 A = 78 mA`. The small primary current and the much larger secondary current are what you should
 expect from a step-down transformer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-magnetism--03-step-down-example.webp" width="900" height="895" alt="A transformer steps 230 V mains down to 5.0 V with an output current of 2.0 A. Output power = 5.0 × 2.0 = 10 W, which equals the input power for 100% efficiency, so the input current is 10 / 230 = 0.043 A = 43 mA. The turns ratio is 230 / 5.0 = 46, with no unit." loading="lazy">
+  <figcaption>Same power on both sides: low voltage, large current; high voltage, small current.</figcaption>
+</figure>
 
 ## Key terms
 

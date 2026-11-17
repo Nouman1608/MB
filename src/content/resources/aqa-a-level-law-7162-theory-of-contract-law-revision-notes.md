@@ -38,6 +38,11 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 - Contract obligations are chosen; tort obligations are imposed.
 - **Freedom of contract** and **sanctity of contract**: Jessel MR, *Printing and Numerical Registering Co v Sampson* (1875), "utmost liberty of contracting".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--01-voluntary-nature.webp" width="900" height="493" alt="Contract obligations are chosen by the parties, unlike tort duties imposed by law. Freedom of contract governs the decision whether, with whom and on what terms to contract; sanctity of contract means agreements must then be kept and enforced as made. Jessel MR in Printing and Numerical Registering Co v Sampson gave the classic statement." loading="lazy">
+  <figcaption>Freedom to choose the terms, then the duty to keep them.</figcaption>
+</figure>
+
 ## Issue 1
 
 | For freedom | Against / protection |
@@ -47,6 +52,11 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 | Parties allocate and price risk: *Photo Production v Securicor* (1980) | Atiyah, *The Rise and Fall of Freedom of Contract* (1979) |
 
 **Protection:** CRA 2015 ss9–11, 31 (implied terms not excludable), s62 (fairness), s65 (death or personal injury); UCTA 1977 reasonableness for business contracts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--02-freedom-v-protection.webp" width="900" height="653" alt="Arguments for freedom of contract (autonomy, certainty, risk allocation, Photo Production v Securicor) and against it (unequal bargaining power, standard terms, Atiyah). The law now gives near-complete freedom between businesses, controlled by UCTA’s reasonableness test, and strong protection for consumers under the Consumer Rights Act 2015. Small businesses can fall in the gap." loading="lazy">
+  <figcaption>Freedom between businesses, protection for consumers.</figcaption>
+</figure>
 
 ## Issue 2
 
@@ -63,6 +73,16 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 
 **Electronic communications:** sender can usually check delivery; most commentators favour a receipt rule; no binding appellate decision on email acceptance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--03-offer-or-invitation.webp" width="900" height="559" alt="A display or advert is an invitation to treat, the customer makes the offer, and the seller is free to accept, so the seller cannot be bound to sell more than it has (Lord Parker in Partridge v Crittenden; Boots). Carlill v Carbolic Smoke Ball is the exception: a unilateral offer to the world. The line can look artificial." loading="lazy">
+  <figcaption>Treating displays as invitations leaves the seller in control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--04-postal-rule.webp" width="900" height="582" alt="Two timelines. By post, the contract is formed when the acceptance is posted (Adams v Lindsell), even if lost (Household Fire Insurance v Grant). By instantaneous methods, it is formed on receipt (Entores; Brinkibon). The rationale: the offeror chose the post and can require receipt (Holwell v Hughes). For email, most commentators favour a receipt rule, but no binding appellate decision settles it." loading="lazy">
+  <figcaption>Posting completes a postal acceptance; receipt completes an instant one.</figcaption>
+</figure>
+
 ## Issue 3
 
 - **Rationale:** consideration distinguishes bargains from gifts; "the price for which the promise of the other is bought" (*Dunlop v Selfridge*, 1915); evidence of intention.
@@ -71,11 +91,21 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 - **Duress:** *Stilk v Myrick* (1809) v *Williams v Roffey* (1991): practical benefit is consideration if no duress or fraud; *Atlas Express v Kafco* (1989): duress and no consideration.
 - **Tension:** *Foakes v Beer* (1884) still governs part payment of debts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--05-consideration-links.webp" width="900" height="580" alt="Consideration, the price of the promise, links to privity on one side (Tweddle v Atkinson, Dunlop v Selfridge, Beswick v Beswick and the 1999 Act) and to economic duress on the other (Stilk v Myrick, Williams v Roffey’s practical benefit, Atlas Express v Kafco). Consideration separates bargains from gifts and need only be sufficient (Chappell v Nestlé); Roffey sits awkwardly with Foakes v Beer." loading="lazy">
+  <figcaption>Privity follows from consideration; duress now does much of its protective work.</figcaption>
+</figure>
+
 ## Issue 4
 
 - **Nature:** clauses that exclude or limit liability; allocate risk.
 - **Controls:** incorporation (*Olley*, 1949; *Thornton*, 1971: unusual clauses need clearer notice); construction (ambiguity against the party relying); statute (UCTA ss2–3; CRA ss31, 57, 65).
 - **Effectiveness:** strong control of death or personal injury exclusions; business clauses often upheld if reasonable; consumers may not know their rights.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--06-exemption-layers.webp" width="900" height="696" alt="Three layers of control: incorporation (Olley; Thornton, where unusual clauses need clearer notice), construction (ambiguity read against the party relying on it), and statute (UCTA 1977 and CRA 2015, which make exclusion of liability for death or injury by negligence ineffective). Clauses are often upheld between businesses, but consumers may be deterred by unenforceable clauses." loading="lazy">
+  <figcaption>Incorporation, construction, then statute.</figcaption>
+</figure>
 
 ## Issue 5
 
@@ -86,6 +116,11 @@ Condensed notes for the section 3.4 row **Theory of contract law**: "analysis an
 | Cost of cure v loss of amenity | *Ruxley v Forsyth* (1996) avoids waste | Claimant may not get what was promised |
 | Equitable remedies | Flexible | Discretionary, less certain |
 | CRA consumer remedies | Simple, usable without court: ss20, 23, 24, 55, 56 | Depend on awareness and trader compliance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-theory-of-contract-law--07-remedies-effectiveness.webp" width="900" height="712" alt="Damages put the claimant where performance would have, limited by remoteness and mitigation; disappointment damages are only for enjoyment contracts (Addis; Jarvis), and Ruxley v Forsyth gave modest loss of amenity. Consumer remedies under the CRA 2015 run from the short-term right to reject within 30 days, to repair or replacement, to a price reduction or final rejection; services get repeat performance or a price reduction." loading="lazy">
+  <figcaption>Consumer remedies work without court, if people know and use them.</figcaption>
+</figure>
 
 ## Key terms
 

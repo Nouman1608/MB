@@ -75,6 +75,16 @@ Full explanation: [the Great Divergence study guide](/resources/oxfordaqa-a-leve
 | After 1945 | Decolonisation; neocolonialism debates |
 | 1980s onwards | Structural adjustment programmes, criticised by Bello |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--02-imperialism-timeline.webp" width="900" height="630" alt="A timeline from voyages of exploration in 1492–1498 and the chartered East India Companies, through the Atlantic slave trade and nineteenth-century colonial rule, to neocolonial influence after 1945 through debt and loan conditions." loading="lazy">
+  <figcaption>European control moved from trade, to enslavement and rule, to debt.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--03-colonial-economy.webp" width="900" height="460" alt="A chain showing colonial economies built around mines and plantations, railways running to ports, raw materials exported and manufactured goods imported, with Indian deindustrialisation and Rodney on the slave trade’s effects on Africa." loading="lazy">
+  <figcaption>Colonies were organised to supply raw materials, not to develop.</figcaption>
+</figure>
+
 ## Named sociologists
 
 | Name | Idea for this section |
@@ -90,6 +100,11 @@ Other useful names: Weber (Protestant ethic, rationalisation); McClelland (1961,
 achievement); Wallerstein (world-systems); Williams and Drescher (slavery and industry debate);
 Acemoglu and Robinson (2012); Sen (1999).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--04-polanyi-braudel.webp" width="900" height="621" alt="Polanyi’s chain from market society and fictitious commodities to social dislocation and a protective double movement, and Braudel’s three layers of economic life: material life, the market economy and capitalism at the top." loading="lazy">
+  <figcaption>Polanyi and Braudel give the divergence long roots in market society and trade.</figcaption>
+</figure>
+
 ## Explanations compared
 
 | Explanation | Type | Strength | Weakness |
@@ -101,11 +116,26 @@ Acemoglu and Robinson (2012); Sen (1999).
 | Geography (Sachs) | Material | Explains persistent disadvantages | Can seem determinist |
 | Institutions | Mixed | Links colonial rule to later outcomes | Hard to measure |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--01-explanation-types.webp" width="900" height="482" alt="Three kinds of explanation for the Great Divergence: internal (modernisation theory, Weber), external or relational (dependency, enslavement, imperialism) and contingent or material (geography, energy), with the debate over when the gap opened." loading="lazy">
+  <figcaption>Ask whether Europe’s rise came from within, from others, or from circumstance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--05-four-explanations.webp" width="900" height="727" alt="A grid of modernisation theory, Weber’s Protestant work ethic, dependency theory and enslavement, each with its core claim and extra evaluation such as McClelland, rationalisation, Frank and Wallerstein, and Drescher. Sachs and Acemoglu and Robinson are also credited." loading="lazy">
+  <figcaption>Each explanation has a core claim and a point that complicates it.</figcaption>
+</figure>
+
 ## Legacies
 
 - Economic: primary-export dependence, extractive infrastructure, debt.
 - Political: colonial borders, inherited authoritarian structures.
 - Social: racism, colonial languages, diasporas.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-the-great-divide--06-legacies.webp" width="900" height="473" alt="Economic, political and social or cultural legacies of colonialism and enslavement, with the example of the indemnity France demanded from Haiti in 1825." loading="lazy">
+  <figcaption>Colonial legacies persist in economies, borders and cultures.</figcaption>
+</figure>
 
 ## Evaluation lines to reuse
 

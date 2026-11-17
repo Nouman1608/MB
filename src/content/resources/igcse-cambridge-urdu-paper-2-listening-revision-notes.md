@@ -43,6 +43,16 @@ of revision.
   recording to give candidates time to read the questions and write
   answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--01-paper-at-a-glance.webp" width="900" height="548" alt="Paper 2 Listening lasts about 35-45 minutes and is worth 30 marks, 33% of the qualification against Paper 1's 60 marks and 67%. Everything is heard twice. Practice relies on general Urdu listening material because exam audio is released only to centres." loading="lazy">
+  <figcaption>Half Paper 1's marks, but a full third of the grade.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--02-four-exercises.webp" width="900" height="578" alt="Paper 2's four exercises: 1 short answer questions on short texts (8 marks, L1 and L2), 2 gap-fill on one longer text (8 marks, L1 and L2), 3 multiple matching of six speakers (6 marks, L3 and L4), and 4 multiple-choice on a two-speaker discussion (8 marks, L1 to L4)." loading="lazy">
+  <figcaption>Short texts first, a two-speaker discussion last.</figcaption>
+</figure>
+
 ## Exercise 1 — Short answer questions (8 marks)
 
 - Candidates hear a series of **short spoken texts** — for example a
@@ -79,6 +89,11 @@ of revision.
 - Tests **L1, L2, L3 and L4 together** — the most demanding exercise
   on the paper, since it draws on every listening skill assessed
   across the whole component.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--03-objectives-grid.webp" width="900" height="646" alt="A grid of the four listening objectives against the four exercises: Exercises 1 and 2 test L1 and L2, Exercise 3 tests L3 and L4, and Exercise 4 tests all four, L1 to L4." loading="lazy">
+  <figcaption>Literal objectives early, inference later, everything in Exercise 4.</figcaption>
+</figure>
 
 ## What the material sounds like
 
@@ -120,6 +135,11 @@ phone messages.
   get overall gist and the second to fill in specific detail — do not
   try to write a complete answer on the first playing alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--05-two-hearings.webp" width="900" height="498" alt="Every exercise is heard twice: use the first hearing for gist, rough location of answers and notes, and the second to fill in and check precise details before writing. Speaking practice for Component 5 overlaps with these listening skills." loading="lazy">
+  <figcaption>Gist and location first time, precise details second time.</figcaption>
+</figure>
+
 ## Command word and instruction reminders
 
 Because every question and response on this paper is in Urdu, read the
@@ -155,6 +175,11 @@ multiple matching, the biggest single skill to drill is note-taking
 speed: since six speakers are heard in quick succession, practise
 jotting a one- or two-word cue for each speaker during the first
 playing, then matching against the answer options on the second.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--04-literal-to-inferential.webp" width="900" height="474" alt="A scale from stated facts to implied meaning. Exercises 1 and 2 test facts such as times, places and names; Exercise 3 asks you to tell speakers' views apart by tone and opinion words; Exercise 4 needs inference about sarcasm, hesitation and changes of mind." loading="lazy">
+  <figcaption>The paper moves from what is said towards what is meant.</figcaption>
+</figure>
 
 ## Related resources
 

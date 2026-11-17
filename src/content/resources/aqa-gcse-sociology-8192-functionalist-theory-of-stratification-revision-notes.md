@@ -31,6 +31,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.1 Functionalist theory o
 - Describe the key ideas of **Davis and Moore**.
 - Describe, compare and contrast the **feminist** and **Marxist** views of the theory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--01-functionalist-question.webp" width="900" height="662" alt="Because every known society ranks people unequally, functionalists ask what inequality does for society, not whether it is fair. Below, Parsons’ view that schools select people for roles links to Davis and Moore, for whom the reward system finishes the job schools start." loading="lazy">
+  <figcaption>Functionalists ask what inequality does for society, not whether it is fair.</figcaption>
+</figure>
+
 ## The argument in six lines
 
 1. Stratification is a "universal necessity" in every known society (Davis and Moore, 1945).
@@ -41,6 +46,16 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.1 Functionalist theory o
 6. Continued rewards keep post-holders working hard.
 
 **Memory hook:** *Fill, Fit, Train, Try.* Fill every role, fit the best person to it, train them, make them try hard.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--01-davis-moore-role-allocation.webp" width="900" height="667" alt="Four needs (roles must be filled, by the most able, with training, and performed conscientiously) lead to unequal rewards for functionally important roles, which make people compete so the most talented win. Below, criticisms including Tumin, and Marxist and feminist views." loading="lazy">
+  <figcaption>Davis and Moore see unequal rewards as the way society gets the right people into key roles.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--02-applying-the-theory.webp" width="900" height="533" alt="Two panels. An air traffic controller needs rare skills, carries responsibility for many lives and trains for a long time, so high pay and prestige attract and motivate able people. A role almost anyone could learn quickly can be filled with lower rewards." loading="lazy">
+  <figcaption>Higher rewards go where skills are rare and responsibility is high, according to Davis and Moore.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -69,6 +84,16 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.1 Functionalist theory o
 | Pool of talent is larger than assumed | Poor schooling and lack of money stop able people training |
 | Rewards and importance do not match | The Prime Minister earns far less than the chief executive of a typical major corporation |
 | Stratification can be dysfunctional (Tumin, 1953) | Inequality wastes talent and can create hostility between groups |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--03-five-criticisms.webp" width="900" height="641" alt="Five criticisms, each with an example: low-paid roles such as nursing can be vital; pay may reflect bargaining power, as with MPs; there is no proof exceptional talent is needed, since ministers need no formal qualifications; the pool of talent may be larger; and the Prime Minister is paid far less than a major chief executive." loading="lazy">
+  <figcaption>Each criticism needs its own example.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--04-tumin.webp" width="900" height="569" alt="A chain: unequal access to education and training means able people never get the chance to compete, so talent is wasted rather than discovered. Two more points: training may not be a sacrifice needing large rewards, and stratification can create hostility and distrust between groups." loading="lazy">
+  <figcaption>For Tumin, stratification can waste talent instead of finding it.</figcaption>
+</figure>
 
 ## Perspectives at a glance
 
@@ -105,6 +130,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.1 Functionalist theory o
 5. Feminist view: unpaid work, glass ceiling.
 6. Tumin: talent wasted, stratification dysfunctional.
 7. Judgement: rewards may encourage training in some roles, but class and gender shape outcomes, so "necessary" in its current form is hard to support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functionalist-theory-of-stratification--05-model-paragraph.webp" width="900" height="548" alt="Four rows build a paragraph. Point: Davis and Moore’s claim about unequal rewards. Application: a hospital consultant’s long training. Analysis: why the reward matters for the health service. Evaluation: feminists note nurses and care workers are essential but low paid and mostly women." loading="lazy">
+  <figcaption>Point, application, analysis, then evaluation from a named perspective.</figcaption>
+</figure>
 
 ## Quick self-test
 

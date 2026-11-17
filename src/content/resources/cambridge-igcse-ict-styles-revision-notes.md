@@ -87,12 +87,22 @@ Topic 14 has no numbered subtopics; the syllabus gives two content rows.
 
 Check against the instruction: each attribute present (font type, size, enhancement, alignment, spacing), the style applied to every matching paragraph and no other paragraph formatted by hand. If the task later says "change CompanyBody to 12 pt", modify the style once rather than reformatting each paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--08-st-create-style.webp" width="900" height="870" alt="Two style cards. Heading 1 is 18 pt Arial bold in dark blue with 12 pt before and 6 pt after, and its next style is Body Text. An arrow labelled Press Enter leads to Body Text, which is 11 pt Arial, left-aligned, with 1.15 line spacing and 6 pt after each paragraph. A small page shows a new body paragraph starting after the heading. Below, style names Caption and Warning are ticked because they describe purpose, and BigBlue is crossed because it describes appearance." loading="lazy">
+  <figcaption>A style has a name, formatting and a following style, and the name should describe purpose.</figcaption>
+</figure>
+
 ## Why use styles instead of formatting by hand?
 
 - **Consistency**: every heading or paragraph of the same type looks identical.
 - **Speed**: formatting is applied in one click and changes in one place.
 - **Fewer errors**: no paragraph is forgotten or formatted slightly differently.
 - **Structure**: heading styles can be used to build navigation features and contents lists.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--06-st-edit-once.webp" width="900" height="930" alt="Top: eighteen heading boxes, each needing its own edit when formatted by hand, so 18 separate edits. Bottom: a Heading 1 style set to 16 pt dark blue is linked to the same eighteen headings, so one edit to the style changes all of them identically. The saving is 18 minus 1, which is 17 fewer edits." loading="lazy">
+  <figcaption>One edit to a heading style replaces eighteen manual edits, saving 17.</figcaption>
+</figure>
 
 ## What is a corporate house style and why is it used?
 
@@ -105,6 +115,11 @@ Purposes and uses:
 - **Saves time**: staff use ready-made templates and styles instead of designing each document.
 - Documents produced by **different staff** still look the same.
 - Reduces the chance of errors in presentation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-styles-study-guide--11-st-house-style.webp" width="900" height="860" alt="A page with five numbered parts to check against a company house style. 1: the logo at the top right of the first page. 2: the heading in Arial 16 pt bold, dark blue. 3: body text in Arial 11 pt, left-aligned. 4: a confidential notice at the left of the footer. 5: an automatic page number centred in the footer. The finished layout is saved as a template to reuse." loading="lazy">
+  <figcaption>A house style lists exact attributes to check, and a template stores them for reuse.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -92,6 +92,46 @@ These notes condense content point **3.2.2.1 The built human environment** of Ox
 - Possible fifth stage: below-replacement fertility in Japan and South Korea.
 - Limits: European basis; timing varies; state and religion matter; ignores migration.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--01-ibn-khaldun-cycle.webp" width="900" height="695" alt="A cycle: desert nomads with strong group solidarity conquer settled peoples, settle in cities where comfort and luxury weaken their solidarity, and are replaced by a new group." loading="lazy">
+  <figcaption>For Ibn Khaldun, settling in cities slowly dissolves group solidarity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--02-rural-power.webp" width="900" height="523" alt="Peasants farm with household labour but lose a share of output to states and markets; landless labourers face sharecropping and debt bondage; Scott shows everyday resistance. A note covers rural depopulation and land grabs." loading="lazy">
+  <figcaption>Control of land and credit, not just productivity, shapes rural poverty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--03-urban-theories.webp" width="900" height="607" alt="A grid of Tönnies, Simmel and Wirth on city life, each with a limitation, and Gans’s finding of close-knit urban villages in Boston." loading="lazy">
+  <figcaption>Classic theories saw cities weakening community; Gans found villages inside them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--04-slums-debate.webp" width="900" height="617" alt="Perlman, Turner, de Soto and the Orangi Pilot Project offer four views of informal housing, set against Mike Davis’s bleaker Planet of Slums." loading="lazy">
+  <figcaption>Informal settlements can be seen as integrated, self-built and improvable, not only as failures.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--05-separation.webp" width="900" height="478" alt="Suburbia, segregation and gated communities compared: Levittown-style suburbs, legal and market-based segregation including the Group Areas Act and Wacquant, and Caldeira’s and Low’s studies of gated enclaves." loading="lazy">
+  <figcaption>Suburbs, segregation and gates separate people in different ways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--06-non-places.webp" width="900" height="509" alt="Augé contrasts an anthropological place, which is relational, historical and concerned with identity, with a non-place that is none of these. Evaluation notes digital transit and the freedom of anonymity." loading="lazy">
+  <figcaption>A non-place lacks relationships, memory and identity, which can also mean freedom.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--07-gentrification.webp" width="900" height="513" alt="Gentrification as a chain: middle-class newcomers renovate a working-class area, rents rise and original residents are displaced. Cards list sources of rural power and Lefebvre’s right to the city." loading="lazy">
+  <figcaption>Gentrification and evictions show who holds power over space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-built-human-environment--08-malthus-boserup.webp" width="900" height="527" alt="Malthus argued population outgrows food until famine and disease check it; Boserup argued population pressure drives innovation. A note evaluates demographic transition theory: urbanisation and fertility, a possible fifth stage and its limits." loading="lazy">
+  <figcaption>Malthus and Boserup disagree on whether population pressure is a threat or a spur.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

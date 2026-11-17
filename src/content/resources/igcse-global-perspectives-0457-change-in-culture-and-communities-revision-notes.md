@@ -66,6 +66,16 @@ Skills named in the syllabus: research, analysis and evaluation (AO1); reflectio
 - **National:** language of schooling; public funding for heritage, arts or festivals; how history is marked in public places.
 - **Local:** a market, meeting place or club closing; young people leaving; rising rents changing who lives in a neighbourhood; a festival becoming commercial.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--01-language-decline-levels.webp" width="900" height="636" alt="Four rings from personal to global for language change: a grandparent and grandchild who no longer share a first language; a local language class closing; national choices about which languages schools teach; and smaller languages declining globally as a few languages spread." loading="lazy">
+  <figcaption>One issue, such as language decline, can be traced from the global level down to a single family.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--04-rents-chain.webp" width="900" height="611" alt="Five common causes of cultural change (globalised media, movement of people, economic change, government policy, tourism) above a four-step chain: rents rise, long-standing families move out, fewer children attend the local language class, and the class closes. A list of separate points is contrasted with a linked chain." loading="lazy">
+  <figcaption>Linking each cause to the next consequence is what turns a list into analysis.</figcaption>
+</figure>
+
 ## Real-world examples at a glance
 
 Use these for research practice. They are context, not content you are tested on.
@@ -88,12 +98,22 @@ Use these for research practice. They are context, not content you are tested on
 - **Describing a change vs judging it.** Marks come from analysing who gains and who loses, not from saying change is good or bad.
 - **Emotive language vs evidence.** "The heart of our town is being destroyed" persuades but proves nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--02-market-closure-hub.webp" width="900" height="660" alt="Six groups around a market closure: long-standing residents, younger residents, traders, the local council, newcomers and heritage organisations, each with their view. Below, three drivers of perspectives: values, interests and experience." loading="lazy">
+  <figcaption>Cultural change has winners and losers, so perspectives on one change differ sharply.</figcaption>
+</figure>
+
 ## Source checks in four questions
 
 1. Who wrote it, and what do they gain? (vested interest, bias)
 2. How was the evidence gathered? (sample size, who, where, when)
 3. Does the conclusion follow, or does it generalise or predict too far?
 4. What does the language do? (emotive words, loaded questions)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--06-pop-music-survey.webp" width="900" height="715" alt="An invented source claims 80% of teenagers prefer global pop, so local music has no future. Four checks fail: unknown producer, unknown method and sample, a conclusion that does not follow, and emotive language. Four reasoning flaws are listed: appeal to tradition, appeal to novelty, false dilemma and generalisation." loading="lazy">
+  <figcaption>The conclusion goes far beyond what a preference survey can show.</figcaption>
+</figure>
 
 ## Mini answer plan: assessing actions
 
@@ -106,6 +126,11 @@ Use these for research practice. They are context, not content you are tested on
 5. **Judgement:** recommend one, say why it beats the other, and state one condition for success.
 
 Keep every point tied to a source. In Component 1 you are not credited for outside knowledge.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--07-dialect-classes.webp" width="900" height="744" alt="Five types of action (record, teach, share spaces, fund and protect, adapt) above an assessment of free dialect classes: the action targets the lack of chances to learn; if it works, children hear the dialect at home; the risk is that it only records the dialect; the judgement is that it works better combined with local signs and events." loading="lazy">
+  <figcaption>An action is judged by whether it tackles the cause and lasts once enthusiasm fades.</figcaption>
+</figure>
 
 ## Quick self-test
 

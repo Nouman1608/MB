@@ -64,6 +64,11 @@ Some places combine factors. Antarctica is cold and also very dry, so it counts 
 - Mountain soils are thin and stony on steep slopes because weathered material is removed before deep soil can form.
 - **Xerophytes** survive drought with water storage, spines or waxy surfaces; **ephemerals** complete their life cycle quickly after rare rain. Tundra and alpine plants are low-growing, often in cushions, which keeps them out of the wind and traps warmth near the ground.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--12-ee-periglacial.webp" width="900" height="1010" alt="Permafrost, the active layer, a pingo, solifluction arrows and patterned ground. Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground." loading="lazy">
+  <figcaption>Frozen ground below a summer-thawed active layer, with a pingo, solifluction and patterned ground.</figcaption>
+</figure>
+
 ## Two calculations
 
 - **Aridity index = precipitation / potential evapotranspiration.** Lower values mean drier. Example: 180 / 1,500 = 0.12. Quote the classification you use, as thresholds differ between sources.
@@ -72,6 +77,16 @@ Some places combine factors. Antarctica is cold and also very dry, so it counts 
 One widely used classification (the UNEP drylands scheme) treats values below 0.05 as hyper-arid, 0.05 to 0.20 as arid, 0.20 to 0.50 as semi-arid and 0.50 to 0.65 as dry sub-humid. On that scheme 0.12 is arid. If an exam source gives different thresholds, use the source's.
 
 **Worked check (lapse rate in reverse):** a weather station at 1,200 m records 18 degrees Celsius. A camp is at 5,200 m. Height difference = 4,000 m, so cooling is about 26 degrees and the camp is roughly 18 - 26 = -8 degrees Celsius. State that this is an estimate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--08-ee-lapse-rate.webp" width="900" height="1030" alt="A schematic mountain with five heights and their estimated temperatures. Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m." loading="lazy">
+  <figcaption>Worked example of the 6.5 degrees per 1,000 m lapse rate from 14 degrees at 500 m to minus 12 at 4,500 m.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-extreme-environments-study-guide--09-ee-aridity-index.webp" width="900" height="940" alt="Paired precipitation and PET bars, the division and a number line. Aridity index is precipitation divided by potential evapotranspiration: 0.12 and 0.05 in the lesson’s examples." loading="lazy">
+  <figcaption>Aridity index is precipitation divided by potential evapotranspiration: 0.12 and 0.05 in the lesson’s examples.</figcaption>
+</figure>
 
 ## Global distribution and why
 

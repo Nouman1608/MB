@@ -55,6 +55,11 @@ The [work conditions study guide](/resources/cambridge-a-level-psychology-9990-o
 | Token economy | Tokens for target behaviour, exchanged for rewards |
 | Housekeeping | Keeping work areas tidy, clear and well maintained |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--01-hawthorne-kompier.webp" width="900" height="794" alt="The Hawthorne studies seemed to show productivity rising whatever changed, leading to the popular conclusion that attention changes behaviour. Kompier (2006) points to small groups, many simultaneous changes, no controls and changes in pay and supervision. A note explains how researchers still guard against the effect." loading="lazy">
+  <figcaption>A famous finding can rest on weak methodology.</figcaption>
+</figure>
+
 ## Studies to name
 
 | Study | Sub-topic | Main point |
@@ -64,6 +69,16 @@ The [work conditions study guide](/resources/cambridge-a-level-psychology-9990-o
 | Gold et al. (1992) | 4.4.2 | Rotating-shift nurses reported poorer sleep and more sleepiness-related accidents and errors |
 | Fox et al. (1987) | 4.4.3 | Token economy cut days lost to accidents in two mines |
 | Swat (1997) | 4.4.3 | Housekeeping breaches in at least 45.8% of accidents; 95% of incidents unreported at one plant |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--02-oldham-brass.webp" width="900" height="602" alt="Newspaper employees moved from a conventional office to an open-plan office. Afterwards their satisfaction and internal motivation fell, with more distraction and interruptions, less privacy and difficulty concentrating. Strengths and weaknesses of the before-and-after quasi-experiment follow." loading="lazy">
+  <figcaption>After the move to open-plan, satisfaction and motivation fell.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--05-human-system-errors.webp" width="900" height="675" alt="Four human errors with examples: omission (forgetting to record a dose), commission (pressing delete instead of save), sequencing (starting a machine before fitting the guard) and timing (braking too late). Two system errors: poorly designed displays, as at Three Mile Island, and confusing controls, with design fixes." loading="lazy">
+  <figcaption>Human errors are the person's; system errors are built into the design.</figcaption>
+</figure>
 
 ## Key study grid: Swat (1997)
 
@@ -77,6 +92,11 @@ The [work conditions study guide](/resources/cambridge-a-level-psychology-9990-o
 | Conclusion | Record minor injuries and accident circumstances; include housekeeping in monitoring |
 | Methods | Objective records; longitudinal; limited by under-reporting |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--06-swat-1997.webp" width="900" height="847" alt="Swat analysed 83 accidents from 1993 in four plants employing 2,964 workers. Bars show that at least 45.8% of accidents involved breaches of basic housekeeping, and that a 1994 follow-up at the meat-processing plant estimated 95% of incidents were never reported. The conclusion and evaluation follow." loading="lazy">
+  <figcaption>Housekeeping breaches featured in at least 45.8% of accidents; most incidents went unreported.</figcaption>
+</figure>
+
 ## Shift patterns compared
 
 | | Rapid rotation | Slow rotation |
@@ -85,6 +105,16 @@ The [work conditions study guide](/resources/cambridge-a-level-psychology-9990-o
 | Body clock | Never fully adjusts | Partly adjusts, then is disrupted again |
 | Advantage | Fewer consecutive nights | Time to adapt to each shift |
 | Disadvantage | Constant mild disruption | Larger disruption at each change |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--03-shift-patterns.webp" width="900" height="671" alt="Four patterns: rapid rotation (two mornings, two afternoons, two nights, then days off), slow rotation (three weeks of nights then three weeks of days), flexitime (start between 7 and 10 a.m., everyone present 10 a.m. to 3 p.m.) and on-call (available at short notice, such as a doctor called in overnight)." loading="lazy">
+  <figcaption>Rotation speed, flexible starts and on-call each shape when people work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-organisational-work-conditions--04-shiftwork-health.webp" width="900" height="607" alt="Shiftwork disrupts circadian rhythms, so daytime sleep is shorter and poorer. Rapid rotation means the body clock never adjusts; slow rotation allows partial adjustment but longer disruption at each change; forward rotation is easier than backward. Gold et al. (1992) found rotating-shift nurses reported poorer sleep and more accidents and errors." loading="lazy">
+  <figcaption>Rotating shifts disrupt the body clock, worsening sleep and safety.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

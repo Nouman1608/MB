@@ -48,6 +48,11 @@ Link causes to the hydrograph: more quick flow gives a shorter lag time and high
 
 A **flash flood** rises within hours of intense rain, often in small, steep or urban catchments; a **riverine flood** builds over days in large basins after prolonged rain or snowmelt.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--09-w-hydrograph.webp" width="900" height="930" alt="A storm hydrograph plotting discharge against time, with a rainfall peak at 06:00 marked above. The first curve, before land-use change, rises slowly to a peak at 10:30, a lag time of 4.5 hours. The second curve, after woodland is cleared and drains are built, has a steeper rising limb and a higher peak at 08:00, a lag time of 2 hours, which is a flashy response. Baseflow, rising limb, peak discharge and falling limb are labelled." loading="lazy">
+  <figcaption>Clearing woodland and building drains shortens lag time and raises the peak, giving a flashy response.</figcaption>
+</figure>
+
 ## Flood frequency
 
 The **recurrence interval** estimates how often a flood of a given size is expected on average:
@@ -76,6 +81,11 @@ Impacts depend on **vulnerability** as well as flood size: poorer households wit
 Modern strategies often combine them in **integrated catchment management**.
 
 **Levee effect:** strong defences can encourage more building behind them, so when a flood exceeds the design standard the damage is greater than if no one had built there.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--11-w-flood-defences.webp" width="900" height="1020" alt="A schematic river valley showing three approaches to flood mitigation. Soft engineering: afforestation on the valley side (1) and a wetland or washland on the floodplain (2). Hard engineering: embankments or levees beside the river (3), a flood wall (4) and a dam with a reservoir (5). Adaptation and preparedness: a flood-proofed house (6)." loading="lazy">
+  <figcaption>Soft engineering works with natural processes, hard engineering builds structures, and adaptation prepares people and buildings.</figcaption>
+</figure>
 
 ## Case studies
 

@@ -35,6 +35,16 @@ Only **electrons** move. Gain electrons → negative. Lose electrons →
 positive. Rubbing **transfers** charge; it does not create it. The two
 rubbed objects end with equal and opposite charges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--01-polythene-and-acetate-charging.webp" width="900" height="700" alt="A polythene rod rubbed with a cloth gains electrons from the cloth, so the rod becomes negative and the cloth positive. An acetate rod rubbed with a cloth loses electrons to the cloth, so the rod becomes positive and the cloth negative." loading="lazy">
+  <figcaption>Gain electrons: negative. Lose electrons: positive. Only electrons move.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-electricity--11-charge-forces.webp" width="900" height="950" alt="Two positive charges and two negative charges are pushed apart; a positive and a negative charge are pulled together. Forces are equal and opposite." loading="lazy">
+  <figcaption>Like charges repel; unlike charges attract.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -58,6 +68,11 @@ rubbed objects end with equal and opposite charges.
   positive.
 - Keep everything dry; damp air lets charge leak away.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--02-charged-rods-practical.webp" width="900" height="600" alt="A rubbed polythene rod hangs in a paper stirrup. Bringing a second rubbed polythene rod near one end makes it turn away; bringing a rubbed acetate rod near makes it turn towards the acetate." loading="lazy">
+  <figcaption>Polythene repels polythene but attracts acetate, so the two gain opposite charges.</figcaption>
+</figure>
+
 ## Attraction of neutral objects
 
 Charged object near a neutral one → electrons in the neutral object move
@@ -65,6 +80,11 @@ slightly (towards a positive object, away from a negative one) → near side
 gets the opposite charge → attraction to the near side is stronger than
 repulsion from the far side → net attraction. Examples: balloon on a wall,
 paper scraps to a comb.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--03-balloon-attracts-neutral-wall.webp" width="900" height="700" alt="A negatively charged balloon near a neutral wall. Electrons in the wall surface are repelled slightly away, leaving the nearby surface slightly positive. The pull from the near positive region is bigger than the push from the further negative region." loading="lazy">
+  <figcaption>A charged object attracts a neutral one because the nearer opposite charge wins.</figcaption>
+</figure>
 
 ## Phenomena: three-step explanations
 
@@ -74,6 +94,11 @@ paper scraps to a comb.
 | shock from a door handle | person charged by shoes rubbing on carpet | electrons flow through the metal handle to or from earth: shock or spark |
 | clothes cling after drying | fabrics rub; electrons transfer | oppositely charged items attract |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--04-explaining-static-phenomena.webp" width="900" height="695" alt="Three examples set out in three steps. Brushing hair transfers electrons so strands gain the same charge and repel. Walking on a nylon carpet charges a person, and touching a metal handle lets electrons flow suddenly, giving a shock. Rubbing fabrics in a dryer gives opposite charges that attract." loading="lazy">
+  <figcaption>Rubbing transfers electrons; the charges produced cause attraction, repulsion or a discharge.</figcaption>
+</figure>
+
 ## Dangers and prevention
 
 - **Fuelling aircraft or tankers:** fuel rubbing along the pipe transfers
@@ -82,6 +107,11 @@ paper scraps to a comb.
 - **Prevention:** an earthing cable connects the vehicle to the ground
   before fuelling, and conducting hoses are used, so electrons flow
   steadily to or from earth and no large charge builds up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--05-fuelling-danger-and-earthing.webp" width="900" height="560" alt="Left: fuel flowing into an aircraft transfers electrons, charge builds up and a spark can ignite fuel vapour. Right: the aircraft is joined to earth by a conducting cable, so electrons flow continuously and no large charge builds up." loading="lazy">
+  <figcaption>Earthing lets electrons flow away continuously, so no spark can form near fuel vapour.</figcaption>
+</figure>
 
 ## Uses
 
@@ -93,6 +123,16 @@ paper scraps to a comb.
   where each drop lands.
 - **Spray painting:** charged droplets spread out (repel each other) and
   are attracted to an oppositely charged object, giving an even coat.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--06-photocopier-steps.webp" width="900" height="530" alt="Five steps. The drum is charged all over; light from white parts of the page removes charge there; oppositely charged toner sticks only to the charged areas; charged paper attracts the toner; heat melts the toner onto the paper." loading="lazy">
+  <figcaption>Toner sticks only where the drum is still charged, which is where the page was dark.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electric-charge--07-inkjet-printer.webp" width="900" height="620" alt="Charged ink drops leave a nozzle and pass between a positive and a negative deflecting plate. Negative drops curve towards the positive plate; drops with a bigger charge are deflected further before reaching the paper." loading="lazy">
+  <figcaption>Bigger charge, bigger deflection: the plates steer each drop to its place on the paper.</figcaption>
+</figure>
 
 ## Exam traps
 

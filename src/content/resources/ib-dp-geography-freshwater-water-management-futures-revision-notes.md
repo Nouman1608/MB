@@ -50,6 +50,11 @@ Principles agreed at an international water conference in Dublin in 1992 are oft
 
 **Integrated drainage basin management** applies these ideas to one river basin, balancing water supply, flood control, energy, farming, navigation and ecosystems rather than managing each separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-freshwater-study-guide--13-w-supply-demand.webp" width="900" height="920" alt="A water tank in the centre. On the supply side, arrows add water: dams and reservoirs, inter-basin transfers, desalination, rainwater harvesting and groundwater abstraction. On the demand side, arrows take water away through lower use: metering, pricing, efficient irrigation, leak repair and diet and crop change. A banner says integrated water resources management joins both sides with all stakeholders." loading="lazy">
+  <figcaption>Supply-side approaches add water, demand-side approaches reduce use, and integrated management joins both.</figcaption>
+</figure>
+
 ## Multipurpose schemes: weighing a large dam
 
 | Benefits | Costs |

@@ -54,6 +54,11 @@ Keep quotations **short**. A two-word quotation embedded in your own sentence sh
 
 **One of the two Section A texts is not unseen.** The section pairs one previously unseen extract with a non-fiction text from **Part 1 of the Pearson Edexcel International GCSE English Anthology**, supplied in the exam itself. The ten Part 1 texts are: *The Danger of a Single Story*, *A Passage to Africa*, *The Explorer's Daughter*, *Explorers, or boys messing about? Either way, taxpayer gets rescue bill*, *127 Hours: Between a Rock and a Hard Place*, *Young and Dyslexic? You've got it going on*, *A Game of Polo with a Headless Goat*, *Beyond the Sky and Earth: A Journey into Bhutan*, *H is for Hawk*, and *Chinese Cinderella*. Reading all ten in advance -- not just practising with unseen material -- is preparation this section specifically rewards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--09-section-a-two-texts.webp" width="900" height="800" alt="Two documents feed Section A: one non-fiction text from Part 1 of the anthology, supplied in the exam and knowable in advance, and one previously unseen extract. Three skills are tested on them: comprehension (AO1), analysis of language and structure (AO2), and links between the two texts (AO3). Either text can be the basis of any of the three questions." loading="lazy">
+  <figcaption>Section A pairs one anthology text with one unseen extract.</figcaption>
+</figure>
+
 ## Features worth commenting on
 
 - **Emotive and connotative word choice** — what associations does it carry?
@@ -66,6 +71,11 @@ Keep quotations **short**. A two-word quotation embedded in your own sentence sh
 
 **Structure matters too:** where does the writer place the strongest point? What does the opening do, and what does the ending leave the reader with?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--03-ao2-non-fiction-devices.webp" width="900" height="756" alt="A table of eight non-fiction devices and their typical effects, from anecdote and direct address to structural shifts and an ending that circles back to the opening image. Structural devices are highlighted because they are the ones most often left out." loading="lazy">
+  <figcaption>Cover structure as well as language in every AO2 answer.</figcaption>
+</figure>
+
 ## Comparison questions
 
 Compare **how** the writers achieve their effects, not just what they say.
@@ -73,6 +83,11 @@ Compare **how** the writers achieve their effects, not just what they say.
 Use a **point-by-point** structure rather than describing each text in turn — write about the same feature in both, then move on. That produces genuine comparison rather than two separate accounts.
 
 **Comparative connectives** do real work: *whereas*, *similarly*, *by contrast*, *in the same way*. Every paragraph should refer to both texts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts--05-ao3-perspectives.webp" width="900" height="816" alt="AO3 has two halves: links between ideas and perspectives, and how these are conveyed. Perspectives include insider or outsider, participant or observer, approving or critical, certain or uncertain. Morris’s article reports detachedly and invites judgement with its headline; the rescuer writes from inside the event with first-person honesty and ends with sympathy." loading="lazy">
+  <figcaption>Compare what the writers think and how they convey it, in every paragraph.</figcaption>
+</figure>
 
 ## Transactional writing
 
@@ -95,6 +110,16 @@ The six specified transactional forms are: article (for a magazine or newspaper)
 
 **A transactional writing task specifies purpose, audience and form in the question itself**, and strong answers reflect all three consistently throughout, not just in an opening line. A letter to a newspaper editor needs a different register and structure from a speech to a school assembly, even where both are persuasive in purpose — the audience and form change how that purpose should actually be expressed. Briefly noting the specified purpose, audience and form before writing, and checking the finished response against that note, catches the most common way marks are lost: drifting into a generic essay-like register regardless of what form was actually asked for.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-1--10-section-b-match.webp" width="900" height="900" alt="A triangle with purpose, audience and form at its corners and your response in the middle, showing that all three must be reflected throughout. Below, six possible forms: article, speech, letter, guide, review, leaflet. One 45-mark task is chosen from two prompts." loading="lazy">
+  <figcaption>A strong transactional answer matches purpose, audience and form throughout.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-transactional-writing--03-six-forms.webp" width="900" height="830" alt="Six cards, one per form: article, speech, letter, guide, review and text of a leaflet. Each lists the conventions examiners expect, such as a headline for an article, signposting for a speech and a requested action at the end of a letter, with a register note in teal." loading="lazy">
+  <figcaption>Use each form’s conventions, but only in service of the purpose.</figcaption>
+</figure>
+
 ## Technical accuracy
 
 Marks are available for accuracy, and the same errors recur:
@@ -106,6 +131,11 @@ Marks are available for accuracy, and the same errors recur:
 - Paragraphs that do not change with time, place, topic or speaker.
 
 **Plan for five minutes and check for three.** Both are worth more than the extra content those minutes would have bought.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-section-b-transactional-writing--06-ao5-under-pressure.webp" width="900" height="634" alt="Five AO5 habits: vary sentence lengths deliberately, choose precise rather than inflated vocabulary (“neglected” rather than “very bad”), paragraph for each new point, use colons, semicolons and dashes for their jobs, and keep three minutes to proofread for missing words, comma splices and homophones." loading="lazy">
+  <figcaption>Precise, accurate and deliberate beats long and showy.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -34,6 +34,11 @@ Condensed for the final weeks. For the full explanation, use the
 - **Arabian Sea** borders the south; know which countries border Pakistan on every other side.
 - Command word is almost always **"identify,"** not "explain" — this section is assessed on a map.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--02-reference-lines.webp" width="900" height="641" alt="A schematic grid of the reference lines for Section 1(a): latitudes 30°N and 36°N, the Tropic of Cancer further south, and longitudes 64°E, 70°E and 76°E, with the Arabian Sea to the south." loading="lazy">
+  <figcaption>Six lines frame Pakistan’s position: learn them before placing any feature.</figcaption>
+</figure>
+
 ## Administrative areas and cities — the 15 to place correctly
 
 Islamabad, Murree, Rawalpindi, Gujranwala, Lahore, Faisalabad, Multan, Sialkot, Peshawar, Chitral,
@@ -41,6 +46,11 @@ Gilgit, Hyderabad, Karachi, Quetta, Gwadar.
 
 **Most common mark loss**: placing Gilgit or Chitral (north) too far south, or confusing coastal
 Gwadar with inland Hyderabad. Drill relative position, not just individual location.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--03-named-cities.webp" width="900" height="552" alt="The fifteen named cities from Islamabad to Gwadar as a checklist. Gilgit, Chitral, Gwadar and Hyderabad are highlighted with the two common mistakes: placing Gilgit or Chitral too far south, and confusing coastal Gwadar with inland Hyderabad." loading="lazy">
+  <figcaption>Place cities relative to each other; watch the northern and coastal ones.</figcaption>
+</figure>
 
 ## Topography and drainage (1c) — no formation, only identification
 
@@ -61,6 +71,11 @@ Two influence points are the ones most likely tested as short "explain" answers,
 - How steep slopes versus flat land shape **land use**.
 - How mountains and deserts shape **road and rail networks**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--04-topography-families.webp" width="900" height="722" alt="A schematic, not a map. The Hindu Kush, Karakoram and Himalaya form an arc across the north to north-east; the Balochistan Plateau and Sulaiman Range lie to the west; the Potwar Plateau and Salt Range are in the north-centre. The Jhelum, Chenab, Ravi and Sutlej feed the Indus. Safed Koh, the Kabul, Hab and Dasht rivers and the Thar, Thal and Kharan deserts are also named." loading="lazy">
+  <figcaption>Learn landforms by position: northern arc, west, north-centre, then the Indus system.</figcaption>
+</figure>
+
 ## Climate (1d) — describe AND explain
 
 This is the most exam-heavy part of Section 1.
@@ -72,6 +87,11 @@ This is the most exam-heavy part of Section 1.
 - **Influence of climate**: always answer in **pairs** — a benefit and a problem. Monsoon rain supports
   agriculture but also causes flooding that disrupts industry and communications; cold mountain weather
   constrains people's lives but also feeds the glacial meltwater the Indus system depends on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--05-climate-benefit-problem.webp" width="900" height="540" alt="Three climate features with a benefit and a problem for each: monsoon rain supports agriculture but flooding disrupts industry and communications; cold in the mountains constrains lives but feeds the glacial meltwater that sustains the Indus; drought and water shortage harm agriculture and industry." loading="lazy">
+  <figcaption>Pair every climate benefit with a problem to reach the top marks.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -89,6 +109,11 @@ landforms and rivers, then a simple climate-zone overlay. Because Section 1 unde
 Paper 2, pull this map back out whenever a later topic (natural resources, power, agriculture) refers
 to a place introduced here, rather than filing Section 1 away as finished.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--06-layered-revision-map.webp" width="900" height="535" alt="Three stacked layers of one outline map: first administrative areas and cities, then landforms and rivers, then a simple climate-zone overlay. A note says to revisit the map whenever later Paper 2 topics mention a Section 1 place." loading="lazy">
+  <figcaption>Build one map in three layers and keep returning to it.</figcaption>
+</figure>
+
 ## Why Section 1 pays off twice
 
 Every later section of Paper 2 refers back to places, rivers and mountain ranges from Section 1
@@ -96,6 +121,11 @@ without re-explaining them. A candidate who has not secured the Indus tributarie
 plateaux here will lose time re-deriving context mid-answer in later sections — memorising this
 section thoroughly is one of the most efficient uses of Paper 2 revision time precisely because it is
 reused so often.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-the-land-of-pakistan--01-section-1-foundation.webp" width="900" height="550" alt="Pakistan Studies 0448 has two papers: Paper 1, History and Culture, and Paper 2, the Environment of Pakistan. In Paper 2, Section 1, the Land of Pakistan, sits at the base, supporting Section 2 on natural resources and the later sections, which use its places, ranges and rivers without re-explaining them." loading="lazy">
+  <figcaption>Learn Section 1 first: the rest of Paper 2 builds on it.</figcaption>
+</figure>
 
 ## Neighbouring countries and Pakistan's regional position
 

@@ -41,6 +41,11 @@ Condensed recall for **3.2.1 Biopsychology** (OxfordAQA International AS and A-l
 - **Autonomic:** involuntary control of organs and glands.
 - **Sympathetic** (arousal) and **parasympathetic** (rest and digest) branches act antagonistically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--01-nervous-system.webp" width="900" height="617" alt="A tree: the nervous system divides into the central nervous system (brain and spinal cord) and the peripheral nervous system; the peripheral divides into somatic (voluntary movement and sensory information) and autonomic (involuntary control of organs and glands); the autonomic divides into sympathetic (fight or flight) and parasympathetic (rest and digest), which work antagonistically." loading="lazy">
+  <figcaption>The autonomic system sits in the PNS and has two opposing branches.</figcaption>
+</figure>
+
 ## Neurons
 
 | Neuron | Carries impulses | Dendrites | Axon | Location |
@@ -50,6 +55,11 @@ Condensed recall for **3.2.1 Biopsychology** (OxfordAQA International AS and A-l
 | Motor | CNS to muscles and glands | Short | Long | Cell body in CNS, axon out to the body |
 
 Parts: dendrites, cell body (nucleus), axon, myelin sheath, nodes of Ranvier, axon terminals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--02-neurons-reflex-arc.webp" width="900" height="727" alt="Three schematic neurons: sensory (long dendrites, short axon, cell body to one side) carries impulses from receptors to the CNS; relay (short dendrites, short axon) connects neurons within the CNS; motor (short dendrites, long myelinated axon) carries impulses to muscles and glands. A reflex arc runs pain receptor, sensory, relay, motor, withdrawing the hand before the brain registers pain." loading="lazy">
+  <figcaption>Sensory, relay, motor: the order of a reflex arc.</figcaption>
+</figure>
 
 ## Synaptic transmission: six steps
 
@@ -61,6 +71,11 @@ Parts: dendrites, cell body (nucleus), axon, myelin sheath, nodes of Ranvier, ax
 6. Neurotransmitter is removed by reuptake or enzymes.
 
 **Summation:** the net effect of all excitatory and inhibitory inputs decides whether the threshold is reached. **One-way:** vesicles only in the presynaptic terminal, receptors only on the postsynaptic membrane.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--03-synaptic-transmission.webp" width="900" height="950" alt="A schematic synapse: vesicles in the presynaptic terminal release neurotransmitter into the synaptic cleft, it diffuses across and binds to receptor sites on the postsynaptic neuron, and transmission is one-way. Five numbered steps end with removal by reuptake or enzymes. Excitatory neurotransmitters make firing more likely, inhibitory ones less likely, and summation decides whether threshold is reached." loading="lazy">
+  <figcaption>Release, diffuse, bind, change charge, remove: in one direction only.</figcaption>
+</figure>
 
 ## Endocrine system
 
@@ -78,6 +93,11 @@ Parts: dendrites, cell body (nucleus), axon, myelin sheath, nodes of Ranvier, ax
 
 Amygdala detects threat -> hypothalamus -> sympathetic nervous system -> adrenal medulla -> adrenaline -> increased heart rate and blood pressure, faster breathing, dilated pupils, glucose released, blood to muscles, digestion inhibited -> parasympathetic restores rest.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--04-fight-or-flight.webp" width="900" height="700" alt="A chain from the amygdala detecting a threat, to the hypothalamus, to the sympathetic branch, to the adrenal medulla releasing adrenaline, which raises heart rate and blood pressure, speeds breathing, dilates pupils, releases glucose, diverts blood to muscles and inhibits digestion. The parasympathetic branch restores rest. Evaluation: mismatch with modern stressors, Gray's freeze response and Taylor et al.'s tend and befriend." loading="lazy">
+  <figcaption>Amygdala to hypothalamus to sympathetic nerves to adrenaline, then back to rest.</figcaption>
+</figure>
+
 ## Brain areas
 
 | Area | Lobe | Function |
@@ -88,6 +108,11 @@ Amygdala detects threat -> hypothalamus -> sympathetic nervous system -> adrenal
 | Auditory | Temporal | Hearing |
 | Broca's area | Left frontal (usually) | Speech production |
 | Wernicke's area | Left temporal (usually) | Language comprehension |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-psychology-biopsychology-development-research-methods--03-psy-brain-localisation.webp" width="900" height="920" alt="A side-view brain outline with the front on the left. Coloured regions mark the motor area and the somatosensory area as two vertical bands near the middle, the visual area at the back, the auditory area in the lower middle, Broca's area at the lower front and Wernicke's area at the lower back; Broca's and Wernicke's are the language centres. Schematic, not to scale." loading="lazy">
+  <figcaption>Localisation of function: different regions of the brain carry out different functions.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -116,6 +141,16 @@ Amygdala detects threat -> hypothalamus -> sympathetic nervous system -> adrenal
 | Maguire et al. (2000) | Larger posterior hippocampus in taxi drivers, linked to years driving | Plasticity |
 | Gray (1988) | Freeze often comes first | Evaluating fight or flight |
 | Taylor et al. (2000) | Tend and befriend in females | Evaluating fight or flight |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--05-split-brain.webp" width="900" height="708" alt="An image flashed to the right visual field goes to the left hemisphere and can be named; one flashed to the left visual field goes to the right hemisphere and cannot be named, though the left hand can pick it out by touch. The corpus callosum is cut, so the hemispheres cannot share the information. The procedure was controlled but samples were small and unusual." loading="lazy">
+  <figcaption>Right visual field to the left hemisphere: only that side can name what it saw.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-biopsychology--06-plasticity-recovery.webp" width="900" height="762" alt="Illustrative bars show the posterior hippocampus larger in London taxi drivers than controls, and larger still with more years in the job (Maguire et al., 2000). Four recovery mechanisms after trauma: axonal sprouting, recruitment of homologous areas, reformation of blood vessels and denervation supersensitivity; recovery is greater in younger people and with rehabilitation." loading="lazy">
+  <figcaption>The brain changes with experience and can reorganise after damage.</figcaption>
+</figure>
 
 ## Exam traps
 

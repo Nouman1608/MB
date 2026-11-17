@@ -75,6 +75,16 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 | 1986 | Student protests |
 | 4 June 1989 | Tiananmen Square crackdown |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--06-ch-timeline.webp" width="900" height="1055" alt="A year-scaled vertical timeline with five periods and twelve dated events from the Boxer Uprising to Tiananmen Square." loading="lazy">
+  <figcaption>The five key topics placed on one scaled timeline.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--08-ch-longMarch.webp" width="900" height="940" alt="A winding dashed route (schematic, not a map) through six numbered stops: Jiangxi base, Long March, Zunyi Conference, Yan’an, Xi’an Incident, war with Japan." loading="lazy">
+  <figcaption>Six stops from the Jiangxi base to the war with Japan.</figcaption>
+</figure>
+
 ## The five themes traced
 
 | Theme | 1900–49 | 1949–76 | 1976–89 |
@@ -85,6 +95,11 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 | Society | May Fourth; landlords dominate | Land reform; Marriage Law; Cultural Revolution | One-child policy; exams restored |
 | Leadership | Sun, Yuan, Chiang | Mao | Deng |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--07-ch-rails.webp" width="900" height="1156" alt="Two lines for the GMD and CCP merge in the United Front, split at the Shanghai Massacre, face the Extermination Campaigns and the Long March, merge again against Japan, then split into the Civil War ending in 1949." loading="lazy">
+  <figcaption>The two parties allied twice and split twice before 1949.</figcaption>
+</figure>
+
 ## Leaders compared
 
 | Leader | Aims | Methods | Outcome |
@@ -93,6 +108,11 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 | Chiang Kai-shek | Unite China under GMD | Northern Expedition, purge of CCP | Lost the Civil War |
 | Mao Zedong | Communist revolution | Peasant mobilisation, mass campaigns | Unity, but famine and chaos |
 | Deng Xiaoping | Economic modernisation | Market reforms, one-party rule | Growth; 1989 repression |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--12-ch-maoDeng.webp" width="900" height="890" alt="Rows compare Mao and Deng on farming, industry and schools, which changed, and politics, shown with a padlock and the words no change." loading="lazy">
+  <figcaption>Economic change under Deng was not matched by political reform.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -117,6 +137,11 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 2. **Organisation and targets:** in 1952 families decided what to grow; in 1958 communes followed state
    targets and peasants were diverted to backyard furnaces.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--10-ch-greatLeap.webp" width="900" height="938" alt="A chain from aim to method to problem to famine, then Mao giving up the head of state post to Liu Shaoqi and the 1960 Sino-Soviet split." loading="lazy">
+  <figcaption>Unrealistic targets and neglected farming led to famine.</figcaption>
+</figure>
+
 ## Essay plan in outline
 
 *"Mao's leadership was the main reason for change in China in the years 1934–76." How far do you agree?*
@@ -126,6 +151,16 @@ Quick-recall notes for Breadth Study B4 of Pearson Edexcel International GCSE Hi
 - **Against:** Japan's invasion weakened the GMD; GMD corruption; Soviet aid and then the split; other
   leaders such as Zhou Enlai, Liu Shaoqi and Deng.
 - **Judgement:** Mao drove most change, but often with results he did not intend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--09-ch-whyCcp.webp" width="900" height="840" alt="Four pillars (military, political, economic, social) hold up the People’s Republic of 1 October 1949, standing on GMD weakness." loading="lazy">
+  <figcaption>Military, political, economic and social reasons for CCP success.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-breadth-study-china--11-ch-cultRev.webp" width="900" height="738" alt="Three bands: why Mao launched it, what happened from 1966, and what it left behind." loading="lazy">
+  <figcaption>Motives, events and effects of the Cultural Revolution.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

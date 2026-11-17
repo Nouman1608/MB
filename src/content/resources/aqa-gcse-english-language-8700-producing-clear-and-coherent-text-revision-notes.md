@@ -43,6 +43,11 @@ sequence, signal that sequence with cohesive devices, and keep the same point of
 | Paper 1 | Narrative or descriptive writing (choice of scenario, written prompt or visual image) | 40: 24 content and organisation, 16 technical accuracy |
 | Paper 2 | Viewpoint writing to a specified audience, purpose and form | 40: 24 content and organisation, 16 technical accuracy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--01-section-b-both-papers.webp" width="900" height="592" alt="Paper 1 Section B is narrative or descriptive writing from a choice of scenario, prompt or image; Paper 2 Section B is a non-fiction viewpoint text with audience, purpose and form specified. On each paper, Section B gives 24 marks to content and organisation (AO5) and 16 to technical accuracy (AO6)." loading="lazy">
+  <figcaption>Both papers end with a 40-mark writing task: 24 for AO5, 16 for AO6.</figcaption>
+</figure>
+
 ## The six purposes in the specification
 
 | Purpose | Key feature to show |
@@ -53,6 +58,16 @@ sequence, signal that sequence with cohesive devices, and keep the same point of
 | Instruct | Ordered steps, imperatives |
 | Give and respond to information | Accurate, clearly signposted content |
 | Argue | Position, reasons, evidence, counter-argument and rebuttal |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--02-purpose-choices.webp" width="900" height="585" alt="A table of six purposes and their typical choices: describe (sensory detail, precise nouns and verbs), narrate (sequence, viewpoint character, pace), explain (logical order, causal connectives), instruct (imperatives, ordered steps), give and respond to information (accurate facts, measured register) and argue (position, evidence, counter-argument and rebuttal)." loading="lazy">
+  <figcaption>Each purpose pulls the writing towards different choices.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--03-controlling-purpose.webp" width="900" height="460" alt="A large box labelled “controlling purpose: argue” holds an article arguing for a later school day. Inside it, explaining research, describing a tired morning and narrating a short anecdote each feed the argument." loading="lazy">
+  <figcaption>A text can mix purposes, but one purpose stays in control.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -93,6 +108,11 @@ Layout features support content; they do not replace it.
 
 Match the move to the reader the task names.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--04-register-two-openings.webp" width="900" height="553" alt="A formality scale with two openings. To a head teacher, a formal letter: “I am writing to ask you to reconsider the decision to close the library at lunchtime.” To fellow students, an informal speech: “Raise your hand if the library has ever saved your lunchtime. Exactly.” Register also moves with sentence length, contractions, pronouns and humour." loading="lazy">
+  <figcaption>Match the register to the reader named in the task.</figcaption>
+</figure>
+
 ## Cohesion toolkit
 
 | Relationship | Discourse markers |
@@ -105,6 +125,11 @@ Match the move to the reader the task names.
 | Concession | admittedly, although, while it is true that |
 
 Other devices: clear pronoun reference, lexical chains, repetition of a key image, an ending that echoes the opening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-producing-clear-and-coherent-text--05-coherence-cohesion.webp" width="900" height="755" alt="Coherence is whether the whole text makes sense as a logical sequence; cohesion is the set of devices that bind it: topic sentences, discourse markers such as “however”, clear pronoun reference, lexical chains such as storm, thunder, drenched, and deliberate repetition. A text can be cohesive but incoherent." loading="lazy">
+  <figcaption>Plan the logic (coherence), then signal it (cohesion).</figcaption>
+</figure>
 
 ## Consistency checks
 

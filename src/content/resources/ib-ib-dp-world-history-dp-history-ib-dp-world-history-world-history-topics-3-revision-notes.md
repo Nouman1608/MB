@@ -59,6 +59,16 @@ Related: [Dynasties and rulers study guide](/resources/ib-ib-dp-world-history-dp
 - Legitimacy: Mandate of Heaven; restoration of Chinese rule after the Mongols.
 - Legacy: a highly centralised autocracy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--02-rulers-timeline.webp" width="900" height="660" alt="A timeline from 750 to 1500 shows the reigns of Charlemagne (768-814), Song Taizu (960-976), William I (1066-1087) and the Hongwu Emperor (1368-1398), and marks Mansa Musa's pilgrimage of 1324-1325." loading="lazy">
+  <figcaption>The example rulers span the whole period and several regions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--05-succession-decline.webp" width="900" height="575" alt="Two chains. Carolingians: Charlemagne's empire passes intact to Louis the Pious, whose sons fight and divide it by the Treaty of Verdun in 843. Abbasids: dependence on Turkish slave soldiers lets commanders dominate the caliphs; in 945 the Buyids take Baghdad and the caliph becomes a religious figurehead. Chips list recurring causes of decline." loading="lazy">
+  <figcaption>Succession disputes and military dependence both broke dynasties apart.</figcaption>
+</figure>
+
 ## Sources of legitimacy
 
 | Source | Explanation | Example |
@@ -68,6 +78,11 @@ Related: [Dynasties and rulers study guide](/resources/ib-ib-dp-world-history-dp
 | Designation | Named by a predecessor | William's claim through Edward the Confessor |
 | Conquest | Victory as proof of right | Hastings (1066) |
 | Election or acclamation | Chosen by an assembly or army | Song Taizu proclaimed by troops; Holy Roman Emperor chosen by princes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--03-legitimacy.webp" width="900" height="623" alt="Four cards: religious sanction (the Mandate of Heaven, Charlemagne's coronation in 800, Abbasid descent from al-Abbas), inheritance (Frankish division among sons or a single heir), conquest (William I at Hastings in 1066) and election or acclamation (steppe assemblies, Holy Roman emperors elected by princes). Below, the Mandate of Heaven chain: misrule, mandate lost, successful rebellion, justified afterwards." loading="lazy">
+  <figcaption>Legitimacy came from God, birth, victory or choice, and had to be kept.</figcaption>
+</figure>
 
 ## Methods of consolidation
 
@@ -79,6 +94,16 @@ Related: [Dynasties and rulers study guide](/resources/ib-ib-dp-world-history-dp
 | Law | Standardise rule and project justice | Capitularies; Ming legal code |
 | Religion | Win acceptance and divine backing | Coronation in 800; Mansa Musa's pilgrimage |
 | Terror and surveillance | Deter opposition | Hongwu purges |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--06-william-taizu.webp" width="900" height="646" alt="A grid compares William I and Song Taizu on rivals, military control, administration and legitimacy. Below, the conclusion: William feared English rebellion and relied on a new military aristocracy; Taizu feared his own generals and put the military under civilian officials." loading="lazy">
+  <figcaption>Their methods reflected the threats each ruler faced.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3--04-rulers-religion.webp" width="900" height="429" alt="A spectrum from religion strengthening the ruler to religion limiting the ruler. Mansa Musa and Charlemagne sit at the strengthening end, the Abbasid caliphs in between, and Henry IV, humbled at Canossa in 1077, at the limiting end." loading="lazy">
+  <figcaption>Religion could raise a ruler's prestige or humble an emperor.</figcaption>
+</figure>
 
 ## Key terms
 

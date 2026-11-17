@@ -75,6 +75,11 @@ Total ← Quantity * Price * (1 + VatRate)
 | Logical | `AND OR NOT` | Use brackets to show the order |
 | String | `&` | Concatenation: "Ali" & " " & "Khan" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--01-pg-div-mod.webp" width="900" height="700" alt="Seventeen dots are shared into three full groups of five with two left over. So 17 DIV 5 is 3 and 17 MOD 5 is 2, and 5 x 3 + 2 gives back 17." loading="lazy">
+  <figcaption>DIV counts whole groups; MOD is what is left over.</figcaption>
+</figure>
+
 ## Built-in functions (examples from the pseudocode guide)
 
 | Function | Returns | Example |
@@ -87,6 +92,11 @@ Total ← Quantity * Price * (1 + VatRate)
 | `RAND(x)` | Random REAL from 0 up to (not including) x | RAND(87) might give 35.43 |
 
 RAND takes **one** parameter; June 2025 examiners saw it given two. A random whole number from 1 to 6 is `INT(RAND(6)) + 1`.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--02-pg-string-positions.webp" width="900" height="800" alt="The word COMPUTER is drawn as eight boxes numbered 1 to 8. MID(s, 4, 3) highlights positions 4 to 6 giving PUT; LEFT(s, 3) gives COM and RIGHT(s, 3) gives TER." loading="lazy">
+  <figcaption>Positions start at 1, so MID(&quot;COMPUTER&quot;, 4, 3) returns &quot;PUT&quot;.</figcaption>
+</figure>
 
 ## Selection
 
@@ -121,6 +131,16 @@ Use **CASE** when one variable is compared with several fixed values or ranges; 
 
 A REPEAT loop stops when its condition becomes TRUE; a WHILE loop stops when its condition becomes FALSE.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--03-pg-loops.webp" width="900" height="1060" alt="Three flowcharts with n starting at 5. WHILE n &lt; 3 tests first and runs the body 0 times. REPEAT UNTIL n &gt;= 3 runs the body once before testing. FOR i from 1 to 3 runs the body exactly 3 times." loading="lazy">
+  <figcaption>WHILE tests first, REPEAT UNTIL runs at least once, FOR is used when the count is known.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--06-pg-validate-loop.webp" width="900" height="880" alt="Inputs 72, 140, 45, 50 and -1 are traced: 72 is counted (PassCount 1); 140 is out of range so the program asks again; 45 is not counted; 50 is counted (PassCount 2); -1 ends the loop. The output is 2." loading="lazy">
+  <figcaption>PassCount ends at 2 for the inputs 72, 140, 45, 50, -1.</figcaption>
+</figure>
+
 ## Procedures and functions
 
 | | Procedure | Function |
@@ -153,6 +173,16 @@ ENDFUNCTION
 | By reference (BYREF) | The address of the argument is passed; changes inside the module change the caller's variable |
 
 Parameters should not be passed by reference to a function.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--05-pg-byval-byref.webp" width="900" height="950" alt="Two rows with an illustrative variable X = 5 and a module that adds 1 to its parameter P. With BYVAL, P is a copy and X stays 5. With BYREF, P refers to X so X becomes 6." loading="lazy">
+  <figcaption>BYVAL passes a copy; BYREF lets the module change the caller’s variable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-programming-study-guide--04-pg-digitsum-trace.webp" width="900" height="915" alt="Four loops each take the last digit with MOD 10 and add it to Total (7, 9, 17, 21) while DIV 10 shrinks Number to 482, 48, 4 and 0. The function returns 21 and ShowResult outputs it." loading="lazy">
+  <figcaption>Each loop peels off the last digit and adds it to Total, giving 21.</figcaption>
+</figure>
 
 ## Worked example: choosing a loop and writing efficient code
 

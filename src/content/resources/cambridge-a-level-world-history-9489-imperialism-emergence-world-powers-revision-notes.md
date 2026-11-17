@@ -37,6 +37,11 @@ featured: false
 | National and strategic | Britain in Egypt (1882) to protect Suez; German colonies of 1884-85 for prestige; Italy in Eritrea and Somaliland |
 | Enabling factors | Quinine, steamships, railways, telegraph, the Maxim gun |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--01-motives.webp" width="900" height="544" alt="Three motive cards: economic (raw materials, gold and diamonds, Hobson's surplus capital), religious and cultural (missionaries and the civilising mission) and national and strategic (prestige for Germany and Italy). Below, Britain's strategic chain: the route to India through the Suez Canal led to buying the Khedive's shares (1875), occupying Egypt (1882), and concern for the Nile and the Sudan." loading="lazy">
+  <figcaption>Three kinds of motive; for Britain, strategy led from Suez to the Sudan.</figcaption>
+</figure>
+
 ## Explorers named in the syllabus
 
 | Explorer | Contribution |
@@ -54,6 +59,11 @@ featured: false
 | Adwa | 1896 | Italy | Ethiopian victory; independence kept | Modern rifles, unity under Menelik II, numbers |
 | Herero War | 1904-07 | Germany | Crushed; mass death of Herero and Nama | Land loss provoked it; von Trotha's extermination policy |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--03-african-resistance.webp" width="900" height="683" alt="A table of four cases: the Zulu won at Isandlwana but lost at Ulundi (1879); the Ndebele rebellion (1896-97) was crushed; Ethiopia defeated Italy at Adwa (March 1896); the Herero War (1904-07) ended with most Herero dead. Below, modern rifles, unity and numbers explain Ethiopia's success." loading="lazy">
+  <figcaption>Resistance usually failed; Adwa shows what success required.</figcaption>
+</figure>
+
 ## 7.2 Crises and settlements
 
 | Rivalry | Crisis | Settlement | Effect on alliances |
@@ -64,6 +74,16 @@ featured: false
 | France v Germany | Agadir (1911) | November 1911 convention: Morocco for part of the French Congo | British support for France confirmed |
 
 **Ending isolation:** Anglo-Japanese Treaty (1902); Entente Cordiale (1904); Anglo-Russian Convention (1907).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--04-rivalries-settlements.webp" width="900" height="1230" alt="After a note on Egypt (1882) and the Berlin Conference (1884-85), a vertical timeline from 1896 to 1912 drawn to scale. On the left, clashes: the Kruger Telegram (1896), Weltpolitik and the Navy Laws, Fashoda (1898), the Boer War, and the Moroccan crises of 1905-06 and 1911. On the right, agreements: the Anglo-Japanese Treaty (1902), the Entente Cordiale (1904), Algeciras (1906) and the November 1911 convention." loading="lazy">
+  <figcaption>Colonial disputes were settled by agreement, but the agreements built rival blocs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--07-anglo-japanese-reasons.webp" width="900" height="659" alt="Four reasons in two linked pairs. Isolation exposed by the Boer War and naval overstretch made an alliance necessary. Russia's advance into Manchuria and Japan's rise as a credible partner made Japan the obvious ally. Both lines lead to the Anglo-Japanese Treaty of 1902." loading="lazy">
+  <figcaption>Isolation plus overstretch made an alliance necessary; Russia made Japan the ally.</figcaption>
+</figure>
 
 ## 7.3 Japan -- the steps to great-power status
 
@@ -82,6 +102,11 @@ featured: false
 | 1911 | Tariff autonomy completes treaty revision |
 | 1914-18 | Qingdao and German Pacific islands taken; Twenty-One Demands (1915); Siberian intervention (from 1918) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--05-japan-rise.webp" width="900" height="1179" alt="A vertical timeline from 1850 to 1920 drawn to scale. On the left, reform and relations: Perry (1853-54), the unequal treaties, the Meiji Restoration (1868), conscription (1873), the constitution (1889), the Anglo-Japanese Treaty (1902) and treaty revision (1911). On the right, expansion: war with China (1894-95), victory over Russia (1904-05), Korea (1905, 1910), the First World War gains and Siberia (1918)." loading="lazy">
+  <figcaption>Decades of reform came before Japan's military victories.</figcaption>
+</figure>
+
 ## 7.4 USA -- the steps to world power
 
 | Date | Step |
@@ -98,6 +123,11 @@ featured: false
 | May 1915 | *Lusitania* |
 | Feb-April 1917 | Unrestricted U-boat warfare; Zimmermann Telegram; war declared |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--06-usa-rise.webp" width="900" height="995" alt="A vertical timeline from 1890 to 1918 drawn to scale. Ideas and triggers on the left: the closed frontier (1890), Turner and the Panic of 1893, the Cuban rising (1895), the Maine (February 1898), the Lusitania (May 1915), and U-boats and the Zimmermann Telegram (February-March 1917). Actions on the right: war with Spain (1898), the Philippine-American War, the Platt Amendment, Panama, the Great White Fleet, Nicaragua (1912), the canal (1914) and war (April 1917)." loading="lazy">
+  <figcaption>Two bursts of activity: 1898-1903 overseas expansion, and 1917 entry into world war.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -113,6 +143,11 @@ featured: false
 | Extraterritoriality | Foreigners tried by their own courts, not local ones |
 | Yellow journalism | Sensational newspaper reporting to build sales and opinion |
 | Dollar Diplomacy | Taft's use of investment and loans to extend US influence |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-imperialism-emergence-world-powers--02-direct-indirect-rule.webp" width="900" height="630" alt="Two chains of command. Direct rule, as in French assimilation or the Congo Free State: European officials replace local rulers. Indirect rule, associated with Lugard in Northern Nigeria: a few officials supervise existing chiefs and emirs. A note says indirect rule was cheaper but froze local hierarchies." loading="lazy">
+  <figcaption>Direct rule replaced local rulers; indirect rule worked through them.</figcaption>
+</figure>
 
 ## Exam traps
 

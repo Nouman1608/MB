@@ -46,6 +46,11 @@ version of Paper 1 takes effect from June 2028 and is not covered here.
 
 These matter because they show Muslim political consciousness **preceded** British policy rather than resulting from it, a point worth stating explicitly in any answer that traces the roots of the Pakistan Movement back before 1857.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-pakistan-studies-history-and-culture-of-pakistan--02-pk-roots.webp" width="900" height="1190" alt="Panel A shows religious revival before 1906: Shah Waliullah’s Persian translation of the Qur’an made scripture accessible to a wider audience, and Syed Ahmad Barelvi built on this with a more organised movement, so Muslim identity did not begin with the Muslim League in 1906. Panel B shows a chain: Mughal authority declines, creating a political vacuum, then British expansion, then British colonial rule. The decline and the British consolidation are connected facts." loading="lazy">
+  <figcaption>Religious revival and the Mughal decline both predate 1906 and form the roots of the movement.</figcaption>
+</figure>
+
 ## 1857 and its aftermath
 
 **Causes:** Doctrine of Lapse, annexations, greased cartridges, missionary activity, economic distress, loss of status.
@@ -77,11 +82,31 @@ His importance: Aligarh produced the educated professional class that later led 
 
 **Jinnah** moved from "ambassador of Hindu-Muslim unity" to leader of the demand for a separate state — the shift driven by Congress rule in the provinces and the failure of constitutional guarantees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--06-congress-rule-1937-39.webp" width="900" height="669" alt="A chain from the 1937 elections, where the League did poorly, to Congress rule from 1937 to 1939, which alienated Muslims through Bande Mataram, the Wardha and Vidya Mandir schemes and refusing to share power in the United Provinces. The ministries resigned in 1939, Jinnah called a Day of Deliverance on 22 December, and many Muslims became convinced they needed a separate homeland." loading="lazy">
+  <figcaption>A poor start in 1937 turned, through Congress rule, into support for a homeland.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--07-solutions-1940-47.webp" width="900" height="1010" alt="A vertical timeline from the Lahore Resolution of 23 March 1940 through the Cripps Mission and Quit India in 1942, the Gandhi–Jinnah talks of 1944, the Simla Conference of 1945, the 1945–46 elections, the Cabinet Mission and Direct Action Day in 1946 and the 3 June Plan to the Indian Independence Act of July 1947." loading="lazy">
+  <figcaption>Each failed solution after 1940 strengthened the case for partition.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--08-jinnah-iqbal-rahmat-ali.webp" width="900" height="633" alt="Three columns. Jinnah moved from Hindu–Muslim unity to leading the League and turning the 1940 Resolution into a state. Iqbal gave Muslim nationhood its philosophical basis and proposed a North-Western Muslim state in 1930 but died in 1938. Rahmat Ali coined the name in 1933 and demanded complete separation but had little influence on League policy." loading="lazy">
+  <figcaption>Iqbal supplied the idea, Rahmat Ali the name, and Jinnah the leadership that made the state.</figcaption>
+</figure>
+
 ## The Nehru Report and Jinnah's Fourteen Points
 
 **Nehru Report (1928)** — replaced separate electorates with **joint electorates**, and reserved seats for Muslims **only at the centre and in provinces where they were a minority**, refusing reservation in the two Muslim-majority provinces (Bengal and the Punjab); it also gave the central government the residuary powers and refused the Muslim demand for one-third of the seats in the central legislature. Muslim League opinion at the time read it as rejecting nearly every Muslim demand, and it convinced many Muslims that Congress would not protect their interests within a united India.
 
 **Jinnah's Fourteen Points (1929)** — Jinnah's **direct response** to the Nehru Report, restating the case for separate electorates, provincial autonomy and safeguards for Muslim political rights. The two documents are frequently confused: the Nehru Report is Congress's proposal that provoked the reaction, and the Fourteen Points are the Muslim League's reply to it — not the same document under two names.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47--05-nehru-report-14-points.webp" width="900" height="544" alt="A chain from the all-British Simon Commission of 1927 to the Nehru Report of 1928 and Jinnah’s 14 Points of 1929. A table compares them: the Nehru Report rejected separate electorates and one-third Muslim representation at the centre; the 14 Points kept both and asked for a federal constitution with provincial autonomy." loading="lazy">
+  <figcaption>The Nehru Report’s rejection of Muslim safeguards led directly to the 14 Points.</figcaption>
+</figure>
 
 ## Problems facing Pakistan after independence, 1947
 
@@ -91,6 +116,16 @@ Four problems dominate this part of Section 1.3:
 - **Division of assets** — Pakistan was allocated 17.5% of undivided India's financial assets but initially received only a fraction; India withheld Rs. 550 million, released following a Government of India decision in January 1948 — Gandhi's fast is the factor most commonly credited with prompting that decision, though historians debate how much weight it deserves.
 - **Absence of administrative machinery** — Pakistan had no capital infrastructure, few trained civil servants and almost no industry, since most industrial areas remained in India. Karachi became the capital while a new administration was improvised from scratch (it served as capital until 1959; describing it as "temporary" from the outset reads the later move backwards onto 1947).
 - **Princely states and Kashmir** — Junagadh, whose Muslim Nawab acceded to Pakistan, was occupied by Indian forces in November 1947 (a plebiscite followed in February 1948); Hyderabad, whose Nizam sought independence, was annexed after Indian military action (Operation Polo) in September 1948; Kashmir's disputed accession led to the first war between India and Pakistan in 1947–48. A UN-brokered ceasefire in January 1949 left the state divided and the dispute unresolved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--02-problems-1947-48.webp" width="900" height="667" alt="Seven numbered cards: the Radcliffe Award and Gurdaspur, the canal water cut-off of 1948, the unfair division of assets, the princely states of Junagadh, Hyderabad and Kashmir, millions of refugees, building an administration and economy from nothing, and the 1948 language decision. A final card summarises Jinnah’s work as Governor-General before his death on 11 September 1948." loading="lazy">
+  <figcaption>The new state had to solve border, water, money, refugee and language problems at once.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-nationhood-1947-99--03-indus-waters-treaty.webp" width="900" height="588" alt="Six rivers in two groups. The western rivers, Indus, Jhelum and Chenab, went to Pakistan and the eastern rivers, Ravi, Beas and Sutlej, to India. Below, a chain: key headworks left in India in 1947, water cut off in 1948, and the Indus Waters Treaty of 1960 mediated by the World Bank." loading="lazy">
+  <figcaption>The 1960 treaty gave Pakistan the three western rivers and India the three eastern ones.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -52,6 +52,11 @@ featured: false
 | Sinatra Doctrine | Gorbachev's policy of letting satellites choose their own path |
 | Solidarity | Polish independent trade union founded in 1980 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--01-satellite-control.webp" width="900" height="595" alt="A hub of one-party states surrounded by six tools of control: the Warsaw Pact (1955), COMECON (1949), Moscow's approval of leaders, censorship, security police such as the Stasi, and pressure on churches with restrictions on emigration. A note states the rule: variation tolerated, departure from the party monopoly or the Pact not." loading="lazy">
+  <figcaption>Moscow allowed variation, but not an end to party rule or Pact membership.</figcaption>
+</figure>
+
 ## Timeline to learn
 
 | Date | Event |
@@ -93,6 +98,11 @@ featured: false
 
 **Pattern:** reform tolerated within limits; leaving the Pact or ending the party's monopoly brought force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--02-challenges-1953-68.webp" width="900" height="664" alt="Five paired rows: East Germany (June 1953) crushed by tanks; Poland (October 1956) accepted under Gomułka; Hungary (October-November 1956) invaded after Nagy announced leaving the Pact; Berlin (August 1961) sealed by the Wall; Czechoslovakia (August 1968) invaded, followed by the Brezhnev Doctrine." loading="lazy">
+  <figcaption>Poland kept party rule and the Pact and was spared; Hungary and Czechoslovakia were not.</figcaption>
+</figure>
+
 ## 7.2 Stagnation -- five causes
 
 1. **Leadership:** stability of cadres, ageing leaders.
@@ -100,6 +110,11 @@ featured: false
 3. **Economy:** diluted reforms, missed 10th Plan targets, technology gap, grain imports.
 4. **Defence:** arms race costs; Afghanistan.
 5. **Satellites:** Western debt, Helsinki rights, the Church and dissidents.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--03-stagnation.webp" width="900" height="542" alt="Three columns of causes. Political: Brezhnev's stability of cadres, nomenklatura corruption and an ageing leadership. Economic: diluted Kosygin reforms, a 10th Five Year Plan that missed targets, grain imports and oil earnings masking problems. External: defence spending, Afghanistan from 1979 and the Second Cold War. Below, debt and dissent in the satellites." loading="lazy">
+  <figcaption>An ageing leadership, a slowing economy and costly commitments fed each other.</figcaption>
+</figure>
 
 ## 7.3 Gorbachev -- aims and outcomes
 
@@ -110,12 +125,27 @@ featured: false
 | Demokratizatsiya | Revitalise the party | Rivals such as Yeltsin gained a platform |
 | New thinking abroad | Cut defence costs | INF Treaty; end of the Second Cold War |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--04-gorbachev-reforms.webp" width="900" height="611" alt="Three reforms with their effects. Perestroika (1987-88 laws) disrupted planning without creating a market. Glasnost, widened after Chernobyl, let criticism reach the party. Demokratizatsiya brought contested elections in 1989 and ended the party's monopoly in 1990. Below, summits at Geneva, Reykjavik and Washington and withdrawal from Afghanistan." loading="lazy">
+  <figcaption>Each reform weakened the system it was meant to save.</figcaption>
+</figure>
+
 ## 7.4 Collapse -- the chain
 
 - **Poland first:** Solidarity (1980), martial law (1981), re-legalisation and elections (1989).
 - **Sinatra Doctrine:** no Soviet tanks in 1989.
 - **Domino of 1989:** Hungary, the GDR and the Wall, Czechoslovakia, Romania.
 - **USSR:** Baltic and other nationalisms, conservative resistance, the August 1991 coup, Yeltsin, independence of republics, resignation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--05-collapse-timeline.webp" width="900" height="1120" alt="Two cards set the background: Solidarity in Poland (1980-81) and Gorbachev's first years (1985-86). A vertical timeline from January 1989 to January 1992 drawn to scale follows. Eastern Europe on the left: Solidarity's return and election win, Hungary's open border, the fall of the Berlin Wall (9 November 1989) and December's revolutions. The USSR on the right: the Sinatra Doctrine, Lithuania (March 1990), Vilnius (January 1991), the failed coup (August 1991) and the end of the USSR (December 1991)." loading="lazy">
+  <figcaption>The satellites fell within months in 1989; the USSR followed two years later.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-soviet-empire-eastern-europe--06-economic-failure-judgement.webp" width="900" height="575" alt="A balance. Economic failure: debt and shortages behind Solidarity and the 1989 protests, and the cost of subsidies and intervention. Other causes: Gorbachev's choice not to use force, nationalism and the Church, and Western influence and Helsinki rights. The judgement: economics created the pressure, but Gorbachev's refusal to intervene was the difference from 1953, 1956 and 1968." loading="lazy">
+  <figcaption>Pressure had existed before; what changed in 1989 was Moscow's refusal to use force.</figcaption>
+</figure>
 
 ## Exam traps
 

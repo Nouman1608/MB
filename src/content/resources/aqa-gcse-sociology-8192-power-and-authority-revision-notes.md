@@ -38,6 +38,11 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.5 Power and authority, a
 - **Coercion:** power based on force or the threat of force.
 - **Legitimacy:** the belief that a person or rule has the right to be obeyed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--01-authority-coercion.webp" width="900" height="537" alt="Power, getting your own way even against resistance, takes two forms. Authority is accepted as legitimate, as when pupils accept a teacher’s right to ask for quiet, and is stable. Coercion rests on force or fear, as when a bully takes a phone, and is costly to maintain." loading="lazy">
+  <figcaption>Authority is power people accept as rightful; coercion is power based on fear.</figcaption>
+</figure>
+
 ## Weber's three types
 
 | Type | Why people obey | Example | Weakness |
@@ -52,9 +57,29 @@ These notes cover AQA GCSE Sociology (8192) section 3.6.5 Power and authority, a
 
 **Ideal types:** Weber's types are pure models; real leaders mix them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-social-stratification--07-weber-authority.webp" width="900" height="766" alt="Three cards. Traditional authority rests on custom and inherited status, as in a monarchy. Charismatic authority rests on devotion to an exceptional leader. Rational-legal authority rests on shared impersonal rules, as in a bureaucracy or elected government. Below, formal and informal sources of power." loading="lazy">
+  <figcaption>Authority is accepted power, based on tradition, charisma or rules.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--02-strengths-weaknesses.webp" width="900" height="705" alt="A table comparing traditional, charismatic and rational-legal authority: why people obey, examples, strengths and weaknesses. Traditional authority is stable but resists change; charismatic authority inspires but is unstable; rational-legal authority is predictable but can become rigid red tape." loading="lazy">
+  <figcaption>Each type of authority gains legitimacy in a different way, and can lose it in a different way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--03-routinisation.webp" width="900" height="428" alt="A chain: a charismatic leader with devoted followers faces a crisis when the leader fails or dies; followers set up an organisation, rules or a line of succession; the authority becomes lasting rules or traditions." loading="lazy">
+  <figcaption>Charisma is unstable, so followers turn it into rules or traditions.</figcaption>
+</figure>
+
 ## Bureaucracy in five features
 
 Hierarchy; written rules; specialisation; impersonality; appointment on qualifications and merit.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--04-bureaucracy.webp" width="900" height="533" alt="A pyramid of offices, each supervised by the one above, beside a list of features: hierarchy, written rules, specialisation, impersonality, and appointment on qualifications and merit. Bureaucracy is the organisational form of rational-legal authority, found in government departments, companies, hospitals and schools." loading="lazy">
+  <figcaption>Bureaucracy puts rational-legal authority into practice through rules and a hierarchy of offices.</figcaption>
+</figure>
 
 ## Formal and informal power
 
@@ -89,6 +114,11 @@ Hierarchy; written rules; specialisation; impersonality; appointment on qualific
 - **Pluralist:** power spread among parties, pressure groups, unions and businesses; elections allow change.
 
 **Weber versus Marx:** Weber rejected the view that political power derives only from economic power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-power-and-authority--05-who-holds-power.webp" width="900" height="606" alt="Four cards. Functionalists say power serves society through value consensus. Marxists say it serves the ruling class through ideology. Feminists say men dominate formal and informal power. Pluralists say power is spread among competing groups. Each card ends with a criticism." loading="lazy">
+  <figcaption>The perspectives disagree about whether authority in the UK is genuinely legitimate.</figcaption>
+</figure>
 
 ## Exam traps
 

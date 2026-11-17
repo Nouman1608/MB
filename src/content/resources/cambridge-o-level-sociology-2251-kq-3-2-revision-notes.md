@@ -66,6 +66,16 @@ NGOs; 3.2.4 sociological views of success.
 | Equality laws | Outlaw discrimination | UK Equality Act 2010 | Hard to enforce; attitudes persist |
 | Other measures | Quotas and reservations | India: reservations for Scheduled Castes and Tribes | Accused of benefiting better-off members most |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--01-progressive-tax.webp" width="900" height="584" alt="Two income bars using the lesson’s invented rates of 10% on the first 25,000 and 40% above. A person earning 15,000 pays 1,500, which is 10%. A person earning 60,000 pays 2,500 plus 14,000, a total of 16,500, which is 27.5% of their income." loading="lazy">
+  <figcaption>The richer person pays a higher percentage, not just a larger amount.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--02-legal-measures.webp" width="900" height="572" alt="A table of legal measures against inequality: means-tested, universal and conditional benefits such as Brazil’s Bolsa Família, the UK minimum wage of 1999, the Equality Act 2010 and India’s reservations for Scheduled Castes and Tribes, with how each works and a limitation where the lesson gives one." loading="lazy">
+  <figcaption>For each law, explain the mechanism and then judge its effect.</figcaption>
+</figure>
+
 ## 3.2.2 Welfare states
 
 - **Beveridge Report (1942):** five giants — Want, Disease, Ignorance, Squalor, Idleness.
@@ -73,6 +83,11 @@ NGOs; 3.2.4 sociological views of success.
   pensions tackle want; employment policy tackles idleness.
 - **UBI:** Finland's 2017–2018 trial paid 2,000 unemployed people unconditionally; wellbeing improved,
   employment effect small. Mostly trialled, not adopted.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--03-five-giants.webp" width="900" height="706" alt="The five giants of the Beveridge Report (1942) linked to welfare provisions and life chances: Want to benefits, pensions and basic income; Disease to free healthcare; Ignorance to free education; Squalor to low-cost housing; Idleness to unemployment benefits. A note describes Finland’s basic income trial." loading="lazy">
+  <figcaption>Each welfare provision targets a “giant” and improves a specific life chance.</figcaption>
+</figure>
 
 ## 3.2.3 NGOs
 
@@ -83,6 +98,11 @@ NGOs; 3.2.4 sociological views of success.
 | Promoting business | Grameen Bank's microcredit (Muhammad Yunus; Nobel Peace Prize 2006) |
 | Improving education | The Citizens Foundation (Pakistan, 1995) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--04-ngo-work.webp" width="900" height="614" alt="Four kinds of NGO work with examples: reducing poverty (BRAC, 1972), medical assistance (Médecins Sans Frontières, 1971), promoting business through microcredit (Grameen Bank) and improving education (The Citizens Foundation, 1995). A note lists criticisms of NGOs." loading="lazy">
+  <figcaption>NGOs fill gaps, but critics question their accountability and reach.</figcaption>
+</figure>
+
 ## 3.2.4 Views of success
 
 | View | Argument | Response |
@@ -92,6 +112,11 @@ NGOs; 3.2.4 sociological views of success.
 | **Marxist** | Welfare keeps workers productive and calms unrest; wealth untouched | Welfare has raised health and literacy |
 | **NGO critics** | Donor-led, unaccountable, small-scale, treat symptoms; microcredit debt | Reach groups states neglect |
 | **Feminist** | Laws ignore unpaid work, dual burden, glass ceiling; welfare built on male breadwinner model | Laws have widened women's education and work |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-3-2--05-views-of-success.webp" width="900" height="615" alt="The welfare state between two critics: the New Right, with Murray, say it does too much and creates an underclass; Marxists say it does too little and leaves wealth ownership unchanged. Below: the culture of poverty, feminist criticisms of equality laws and Beveridge, and criticisms of NGOs, with responses." loading="lazy">
+  <figcaption>Do not confuse the New Right (welfare does too much) with Marxists (welfare does too little).</figcaption>
+</figure>
 
 ## Exam traps
 

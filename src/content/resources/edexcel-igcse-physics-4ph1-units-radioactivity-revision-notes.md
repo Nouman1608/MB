@@ -56,6 +56,11 @@ examinable on both papers. Worked examples are in the
   - (the reading also includes background, which must be subtracted)
 - Count rate and activity both halve in one half-life.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--01-activity-count-rate.webp" width="900" height="820" alt="A source emits radiation in all directions and a Geiger-Müller tube intercepts only a small fraction, plus background radiation. Activity is decays per second in the source, measured in becquerels (1 Bq = 1 decay per second, 1 kBq = 1000 Bq, 1 MBq = 1 000 000 Bq). Count rate is what the detector records, in counts per second or per minute, and is normally much less. Both halve in one half-life." loading="lazy">
+  <figcaption>Activity is in Bq; a detector gives a count rate in counts per second or minute.</figcaption>
+</figure>
+
 ## Time conversions
 
 ```
@@ -81,6 +86,16 @@ number of half-lives = elapsed time ÷ half-life   (same units!)
 corrected count rate = measured count rate − background count rate   (same units!)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--02-time-conversions.webp" width="900" height="790" alt="1 h = 60 min = 3600 s. Counts per second × 60 gives counts per minute, and counts per minute ÷ 60 gives counts per second; per minute is the bigger number. Put elapsed time and half-life in the same unit before dividing, and reading and background per the same time unit before subtracting." loading="lazy">
+  <figcaption>Use 60, not 100, and match the time units before dividing or subtracting.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--05-background-correction.webp" width="900" height="630" alt="A G-M tube records 1260 counts in 3.0 minutes, a measured rate of 420 counts/min. The background of 0.40 counts per second is 24 counts/min. The corrected count rate is 420 − 24 = 396 counts/min, which is 6.6 counts/s." loading="lazy">
+  <figcaption>Put the background in the same time unit as the reading before subtracting.</figcaption>
+</figure>
+
 ## Centimetres
 
 - Alpha range in air: a few cm.
@@ -88,12 +103,27 @@ corrected count rate = measured count rate − background count rate   (same uni
 - 1 m = 100 cm; 1 cm = 10 mm.
 - Greater distance from a source = lower exposure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--03-alpha-range-cm.webp" width="900" height="750" alt="A Geiger-Müller tube is moved away from an alpha source in centimetre steps. A sketch graph of count rate against distance in cm stays high close to the source, then drops to the background level within a few centimetres, because alpha particles stop after a few cm of air." loading="lazy">
+  <figcaption>Alpha travels only a few centimetres in air, so the count falls to background.</figcaption>
+</figure>
+
 ## Mini worked example
 
 *Illustrative figures.* Half-life 40 min; activity 12 000 Bq; find the activity after 2.0 h.
 
 - 2.0 h = 120 min → 120 ÷ 40 = 3 half-lives.
 - 12 000 → 6000 → 3000 → **1500 Bq**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--04-mixed-time-units.webp" width="900" height="750" alt="A source of half-life 45 min has activity 3200 Bq. 3.0 h = 180 min, which is 180 ÷ 45 = 4 half-lives. Bars to scale show 3200, 1600, 800, 400 and 200 Bq at 0, 45, 90, 135 and 180 min, so the activity is 200 Bq." loading="lazy">
+  <figcaption>Convert 3.0 h to 180 min first: four half-lives take 3200 Bq to 200 Bq.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-units-radioactivity--06-half-life-three-units.webp" width="900" height="560" alt="Activity falls 6000 → 3000 → 1500 → 750 Bq, three half-lives in 15 h, so the half-life is 15 ÷ 3 = 5.0 h. This equals 5.0 × 60 = 300 min, and 300 × 60 = 18 000 s." loading="lazy">
+  <figcaption>Count the halvings, divide the time, then convert: 5.0 h = 300 min = 18 000 s.</figcaption>
+</figure>
 
 ## Key terms
 

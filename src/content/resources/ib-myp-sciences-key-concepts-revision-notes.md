@@ -38,6 +38,11 @@ MYP has no prescribed content list -- schools design their own units -- but the 
 - **Statement of inquiry**: one sentence that sets the conceptual understanding in a global context.
 - **Inquiry questions**: factual, conceptual and debatable questions drawn from the statement of inquiry.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--01-sixteen-key-concepts.webp" width="900" height="630" alt="All sixteen MYP key concepts in a grid. Change, relationships and systems are highlighted as the three that sciences contributes; creativity, development, and time, place and space are marked as also mattering in science." loading="lazy">
+  <figcaption>Sciences contributes change, relationships and systems out of sixteen key concepts.</figcaption>
+</figure>
+
 ## The three sciences key concepts at a glance
 
 | Key concept | What it means in sciences | Words to use |
@@ -57,6 +62,16 @@ MYP has no prescribed content list -- schools design their own units -- but the 
 - Irreversible: a cake bakes; an iron nail rusts.
 - Self-perpetuating: the change drives more of itself. A forest fire spreads because burning releases heat that ignites the next trees.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--02-kinds-of-change.webp" width="900" height="815" alt="A grid of reversible, irreversible and self-perpetuating changes in biology, chemistry and physics, such as ice melting and refreezing, methane burning, and a fission chain reaction. Below, qualitative change is a difference in kind, like a tadpole growing legs, and quantitative change is a number or rate, like a falling ball’s speed." loading="lazy">
+  <figcaption>Sort any change by type: reversible, irreversible or self-perpetuating, and qualitative or quantitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--03-describing-a-change.webp" width="900" height="670" alt="A cooling curve for a cup of tea falling from 80 °C to 52 °C over 10 minutes, flattening as it cools. Four labels describe the change: the system is the tea and its surroundings; it is quantitative and reversible; the cause is energy transfer to cooler air; the consequence is that cooling slows. The mean rate is 2.8 °C per minute." loading="lazy">
+  <figcaption>A full answer names the system, the type of change, its cause and its consequence.</figcaption>
+</figure>
+
 ### Relationships: three things to say
 
 1. **Name the variables** and describe the pattern (increases, decreases, proportional, levels off).
@@ -70,6 +85,16 @@ Form and function is a special relationship: link a feature (form) to what it do
 
 Modelling represents relationships that are too large, too slow or too data-heavy to observe directly: for example, how a disease spreads through a population, or how a star changes over millions of years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--04-relationship-in-data.webp" width="900" height="600" alt="Magnesium in acid: concentrations 0.5, 1.0 and 2.0 mol/dm³ take 80, 40 and 20 s, so 1/time is 0.0125, 0.025 and 0.050 per second. Plotted against concentration the points lie on a straight line through the origin: rate is directly proportional to concentration, explained by more frequent collisions." loading="lazy">
+  <figcaption>Doubling the concentration halves the time, so rate is proportional to concentration.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--05-surface-area-volume.webp" width="900" height="690" alt="Three cubes of side 1, 2 and 4 cm. Their surface areas are 6, 24 and 96 cm² and volumes 1, 8 and 64 cm³, giving SA:V ratios of 6 : 1, 3 : 1 and 1.5 : 1. Each doubling of side halves the ratio, which is why large animals need exchange surfaces." loading="lazy">
+  <figcaption>Bigger means less surface per unit volume: SA:V halves each time the side doubles.</figcaption>
+</figure>
+
 ### Systems: open or closed
 
 | | Guide's meaning | Example |
@@ -80,6 +105,11 @@ Modelling represents relationships that are too large, too slow or too data-heav
 Models often use closed systems to simplify or limit variables. Further examples of systems: the digestive system (organs depend on each other), the Earth--Moon system (gravity links the parts), a fuel cell (fuel, oxygen, electrodes and electrolyte interact).
 
 Remember: in later physics and chemistry, "closed" usually means no matter crosses the boundary, though energy can, and "isolated" means neither crosses. Say which meaning you are using.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--06-systems-open-closed.webp" width="900" height="770" alt="An electric circuit of cell, wires, switch and lamp: with the switch open the current stops everywhere. Below, a sealed bottle garden is close to a closed system for matter, recycling water and carbon while light enters; a pond is open, with water, nutrients and organisms entering and leaving." loading="lazy">
+  <figcaption>A system’s parts depend on each other; open systems exchange resources, closed ones do not.</figcaption>
+</figure>
 
 ## The other three key concepts
 
@@ -122,6 +152,11 @@ Many science units sit naturally in scientific and technical innovation, but cou
 5. Test it: would it still be true in a different unit?
 
 Example: *Interactions between substances and the body have consequences for health that depend on dose and exposure.* This fits units on medicines, alcohol or air pollution.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-key-concepts--07-statement-of-inquiry-acid-rain.webp" width="900" height="800" alt="The key concept change, related concepts conditions and consequences, and the global context globalization and sustainability combine for a unit on acid rain and limestone. “Acid rain damages limestone” is weak; the better statement says that conditions humans create can cause changes whose consequences reach far beyond their source. It generates factual, conceptual and debatable questions." loading="lazy">
+  <figcaption>A strong statement of inquiry uses the concepts and would transfer to another topic.</figcaption>
+</figure>
 
 ## Method in steps: sorting inquiry questions
 

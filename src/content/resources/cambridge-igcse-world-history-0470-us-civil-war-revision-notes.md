@@ -41,6 +41,11 @@ sectional differences and the crises of the 1850s, also use the
 | Leaders lost cross-sectional trust | Douglas's Freeport argument (1858) cost him Southern support |
 | Last deal rejected | Crittenden Compromise (December 1860) failed; Lincoln opposed slavery's extension |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--01-compromise-fails.webp" width="900" height="525" alt="Three changes converge: each compromise left one side cheated (the Fugitive Slave Act of 1850), the national parties broke apart (Whig collapse, a Northern Republican Party, the Democratic split of April 1860), and positions hardened (Dred Scott, Freeport). The result: the Crittenden Compromise failed in December 1860." loading="lazy">
+  <figcaption>After 1850 there was no party able to broker a deal between the sections.</figcaption>
+</figure>
+
 ## Lincoln's election: significance in four points
 
 1. **Sectional victory:** no Southern electoral votes; not on the ballot in most of the South.
@@ -51,6 +56,11 @@ sectional differences and the crises of the 1850s, also use the
    Arkansas seceded.
 
 **Trigger versus cause:** the election was the trigger; slavery's expansion was the underlying cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--02-trigger-cause.webp" width="900" height="621" alt="Slavery and its expansion are shown as the underlying cause, above a chain of triggers: Lincoln's election in November 1860, South Carolina's secession on 20 December 1860, the inaugural of 4 March 1861 and Fort Sumter on 12 April 1861, after which four more states seceded. A note explains what the election showed the South." loading="lazy">
+  <figcaption>The election triggered secession; slavery's expansion caused it.</figcaption>
+</figure>
 
 ## Turning points of the war
 
@@ -66,6 +76,11 @@ sectional differences and the crises of the 1850s, also use the
 | 9 April 1865 | Appomattox | Lee surrenders |
 | 14 April 1865 | Lincoln shot by John Wilkes Booth | Dies next day; Andrew Johnson president |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--03-turning-points.webp" width="900" height="740" alt="A timeline from 1861 to 1865 drawn to scale: Bull Run (July 1861), Antietam (September 1862), the Emancipation Proclamation (1 January 1863), Gettysburg and Vicksburg (July 1863), Atlanta (September 1864) and Appomattox (9 April 1865). A table explains why each mattered." loading="lazy">
+  <figcaption>Each turning point shifted the war towards the Union.</figcaption>
+</figure>
+
 ## Northern strengths and Southern weaknesses
 
 | North | South |
@@ -77,6 +92,16 @@ sectional differences and the crises of the 1850s, also use the
 | Lincoln's political skill | Davis clashed with state governors (Joseph Brown) |
 | Stable finance | Inflation; Richmond bread riots (1863); "rich man's war" |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--04-north-south.webp" width="900" height="600" alt="A balance tipped towards the Union. Union strengths: economic power, the naval blockade, emancipation and about 180,000 Black soldiers, and Grant and Sherman. Confederate weaknesses: failed cotton diplomacy, states' rights, inflation and bread riots, class resentment over conscription, and manpower." loading="lazy">
+  <figcaption>Northern strength told once generals like Grant and Sherman used it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--05-lincoln-role.webp" width="900" height="675" alt="Five steps of Lincoln's leadership: keeping the border states by first presenting the war as saving the Union, changing generals, the Emancipation Proclamation (1 January 1863), the Gettysburg Address (November 1863) and pushing the 13th Amendment through Congress (January 1865), before his assassination in April 1865." loading="lazy">
+  <figcaption>Lincoln moved carefully from saving the Union to ending slavery.</figcaption>
+</figure>
+
 ## Reconstruction's three phases
 
 | Phase | Key features |
@@ -85,6 +110,11 @@ sectional differences and the crises of the 1850s, also use the
 | Johnson, 1865-67 | Pardons for Confederates; Black Codes; vetoes of the Freedmen's Bureau extension and Civil Rights Act |
 | Radical (Congress), 1867-77 | Reconstruction Acts (1867): five military districts; Black male suffrage; 14th and 15th Amendments; Johnson impeached (1868) and acquitted by one vote |
 | End | Disputed election of 1876; Compromise of 1877; troops withdrawn |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-us-civil-war--06-reconstruction.webp" width="900" height="826" alt="A timeline from 1863 to 1877 with three phases: Lincoln's Ten Per Cent Plan, Johnson's presidential Reconstruction with Black Codes, and Radical Reconstruction from 1867 to the Compromise of 1877. Below, paired rows: the 13th, 14th and 15th Amendments and Freedmen's Bureau schools against sharecropping, narrowing courts, Klan violence and no land redistribution." loading="lazy">
+  <figcaption>Reconstruction succeeded in law but failed in enforcement by 1877.</figcaption>
+</figure>
 
 ## Key terms
 

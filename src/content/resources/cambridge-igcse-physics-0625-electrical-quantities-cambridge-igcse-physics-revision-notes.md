@@ -40,6 +40,11 @@ These notes condense section 4.2 Electrical quantities of the Cambridge IGCSE Ph
 - 1 kW h = 1000 W × 3600 s = 3.6 × 10⁶ J.
 - Convert: kΩ × 1000 → Ω; mA ÷ 1000 → A; minutes × 60 → s.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--01-quantities-connect.webp" width="900" height="600" alt="Current (charge per second, in amperes) times p.d. (energy per coulomb, in volts) gives power (energy per second, in watts), so P = IV; multiplying by time gives E = IVt. For Extended: I = Q/t, V = W/Q and one volt is one joule per coulomb." loading="lazy">
+  <figcaption>Charge per second × energy per coulomb = energy per second.</figcaption>
+</figure>
+
 ## 4.2.1 Charge
 
 - Two kinds: positive and negative. Like repel, unlike attract.
@@ -55,6 +60,16 @@ These notes condense section 4.2 Electrical quantities of the Cambridge IGCSE Ph
 - **Electric field:** region in which an electric charge experiences a force; direction = force on a **positive** charge.
 - Point charge or charged sphere: radial lines (outwards from +, inwards to −).
 - Parallel plates: parallel, evenly spaced lines from + plate to − plate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--02-charging-by-friction.webp" width="900" height="640" alt="Before rubbing, an insulating rod and a cloth each hold equal positive and negative charge. Rubbing moves electrons only: the material that gains electrons becomes negative and the one that loses them becomes positive. Below, like charges repel and unlike charges attract." loading="lazy">
+  <figcaption>Electrons move from one material to the other; positive charges stay put.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--03-electric-field-patterns.webp" width="900" height="790" alt="Field lines point radially outwards from a positive point charge and inwards to a negative one. A charged conducting sphere has radial lines starting at its surface, at right angles to it. Between oppositely charged parallel plates the lines are straight, parallel and evenly spaced, from the positive to the negative plate." loading="lazy">
+  <figcaption>Field direction is the direction of the force on a positive charge.</figcaption>
+</figure>
 
 ## 4.2.2 Current
 
@@ -84,11 +99,31 @@ These notes condense section 4.2 Electrical quantities of the Cambridge IGCSE Ph
 | Filament lamp | Curve, less steep at high p.d. | Filament heats up, R increases |
 | Diode | Zero in reverse; rises steeply forward after a small p.d. | Very high R reverse, low R forward |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--04-measuring-resistance.webp" width="900" height="560" alt="A battery, an ammeter in series and a lamp with a voltmeter connected across it. The ammeter reads 0.50 A and the voltmeter 6.0 V, so R = 6.0 / 0.50 = 12 Ω. Conventional current is drawn from + to −, while electrons move from − to +." loading="lazy">
+  <figcaption>Ammeter in series, voltmeter in parallel, then R = V/I.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--06-iv-graphs.webp" width="900" height="540" alt="Three sketch I–V graphs with current on the vertical axis. A resistor gives a straight line through the origin. A filament lamp gives a curve through the origin that gets less steep at higher p.d., in both directions. A diode passes almost no current in reverse and, forwards, almost none until a small threshold p.d., then the current rises steeply." loading="lazy">
+  <figcaption>With I on the vertical axis, steeper means lower resistance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--05-wire-resistance-scaling.webp" width="900" height="640" alt="A 2.0 m wire of area 0.50 mm² has resistance 3.4 Ω. Making it 5.0 m long multiplies R by 2.5 to 8.5 Ω; doubling the area to 1.0 mm² halves it to 4.25 Ω, about 4.3 Ω." loading="lazy">
+  <figcaption>Apply each change as its own scale factor: length directly, area inversely.</figcaption>
+</figure>
+
 ## 4.2.5 Energy and power
 
 - Energy goes source → components → surroundings (heating, light).
 - P = IV; E = IVt.
 - **Kilowatt-hour:** energy transferred by a 1 kW appliance in 1 hour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics--07-kettle-two-unit-routes.webp" width="900" height="514" alt="A 2.2 kW kettle on 230 V draws 2200 / 230 = 9.6 A. Over 3.0 minutes it transfers 2200 × 180 = 396 000 J; in kilowatt-hours that is 2.2 × 0.050 = 0.11 kW h, costing 0.11 × 28 = 3.1 cents at 28 cents per kW h." loading="lazy">
+  <figcaption>Use watts and seconds for joules; kilowatts and hours for kW h.</figcaption>
+</figure>
 
 ## Key terms
 

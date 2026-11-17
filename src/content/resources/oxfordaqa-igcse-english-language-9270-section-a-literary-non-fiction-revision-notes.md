@@ -41,6 +41,11 @@ reading one unseen literary non-fiction text.** For the full explanation and a m
 
 Paper 1 as a whole lasts 2 hours and carries 60% of the qualification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--03-reading-in-sections.webp" width="900" height="842" alt="An unseen text divided into three sections, each linked to its own question that needs only that section re-read, with a bracket under the whole text for the whole-text question. Four steps below: read the whole text quickly, re-read the named section, underline four or five pieces of evidence, and track how the attitude moves for the whole-text question." loading="lazy">
+  <figcaption>Answer each question from its own section; use the whole text only for the whole-text question.</figcaption>
+</figure>
+
 ## The four reading skills in one line each
 
 - **R1 — select:** pick details that fit the question and use them for its purpose.
@@ -48,6 +53,11 @@ Paper 1 as a whole lasts 2 hours and carries 60% of the qualification.
 - **R3 — interpret:** work out the writer's ideas and perspective, and sustain the reading.
 - **R4 — analyse and evaluate methods:** language, grammar, structure, presentation, and their
   effect on the reader.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--01-reading-skills.webp" width="900" height="660" alt="Four rows for the AO1 reading skills: R1 select and use details, R2 collate and synthesise details from across the text, R3 interpret the writer’s ideas and perspective, R4 explain and evaluate the writer’s methods and their effects." loading="lazy">
+  <figcaption>Every Section A question tests one or more of the four reading skills, R1 to R4.</figcaption>
+</figure>
 
 ## Recognising the forms
 
@@ -68,6 +78,11 @@ In memoir the **experiencing self** (the child or traveller at the time) and the
 - a change of tense from past narrative to present reflection.
 
 Comment on the gap: it often carries the writer's real perspective.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--02-literary-non-fiction-features.webp" width="900" height="740" alt="Three features of literary non-fiction. A first-person voice where an older writer looks back at a younger self, so phrases like “I was sure then that…” signal a change of view; a purpose beyond the facts, such as admiration, unease, amusement or nostalgia; and selection and arrangement of what comes first, is lingered on, left out or left to the end." loading="lazy">
+  <figcaption>The writer tells the truth but shapes it: voice, purpose and selection all reveal perspective.</figcaption>
+</figure>
 
 ## Language checklist
 
@@ -92,6 +107,11 @@ ENDING    return to opening? reflection? unresolved?
 
 Always finish the point with the effect: why here, and what does the reader feel or understand?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--05-structure-questions.webp" width="900" height="850" alt="The text from start to finish with four structural checkpoints: the opening (a scene, a reflection or dialogue), shifts in focus (outside to inside, past to present, wide view to detail), pace (lingering on detail or summarising long periods), and the ending (returning to the opening, reflecting or left unresolved)." loading="lazy">
+  <figcaption>Structure is the order and shape of the text; every structural point needs an effect.</figcaption>
+</figure>
+
 ## The analytical sentence
 
 ```
@@ -99,6 +119,11 @@ Method   +  short quotation  +  effect on reader  +  link to writer's perspectiv
 "The personification of the stove as 'black and patient' makes it seem
  alive in her care, suggesting how constant her work was."
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--04-worked-example-method-effect.webp" width="900" height="860" alt="The memoir passage about the grandmother’s kitchen, analysed in four rows: contrast (“not large”, “enormous”), personification (“black and patient”, “fed”), short sentences (“I was nine…”) and metaphor (“holding the whole house together with her hands”), each linked to its effect on the reader." loading="lazy">
+  <figcaption>Each point names a method, quotes briefly and explains the effect, and the last points follow the child-to-adult shift.</figcaption>
+</figure>
 
 ## Perspective: where to find it
 
@@ -109,6 +134,11 @@ Method   +  short quotation  +  effect on reader  +  link to writer's perspectiv
 - the closing reflection.
 
 Use tentative verbs for interpretation: *suggests, implies, may reveal, perhaps*.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--06-interpreting-perspective.webp" width="900" height="800" alt="Four clues to perspective (word choice with connotations, what is praised and mocked, how other people are presented, the reflective voice) feed one inference phrased tentatively. Below, a sustained interpretation develops one idea across three pieces of evidence, while a weak answer makes a new guess for each quotation." loading="lazy">
+  <figcaption>Perspective is inferred from evidence and developed as one idea, not one guess per quotation.</figcaption>
+</figure>
 
 ## Key terms
 

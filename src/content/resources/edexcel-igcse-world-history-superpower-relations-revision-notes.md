@@ -50,6 +50,11 @@ practise with the [superpower relations practice questions](/resources/edexcel-i
 | Disagreed | Little in public | Poland's government | Reparations; Poland; Soviet control of Eastern Europe |
 | Mood | Cooperative | Cooperative but wary | Suspicious; atomic bomb revealed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--15-sp-conferences.webp" width="900" height="809" alt="Three rows for Tehran, Yalta and Potsdam with what was agreed or argued and who led each side; Potsdam is shaded to show worsening relations." loading="lazy">
+  <figcaption>Cooperation at Tehran and Yalta gave way to tension at Potsdam.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -80,6 +85,21 @@ practise with the [superpower relations practice questions](/resources/edexcel-i
 | 1969 | SALT talks begin |
 | May 1972 | SALT I signed |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--16-sp-action-reaction.webp" width="900" height="751" alt="West and East columns: Truman Doctrine and communist governments, the Marshall Plan and Stalin’s response with Cominform and Comecon, and the two German states of 1949." loading="lazy">
+  <figcaption>Two blocs took shape in answer to each other.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--18-sp-hungary.webp" width="900" height="844" alt="Five steps from Rákosi’s rule to the Soviet invasion of November 1956 and the West’s failure to intervene." loading="lazy">
+  <figcaption>Hungary 1956 showed the USA would not challenge the Soviet sphere.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--21-sp-detente.webp" width="900" height="1043" alt="Four reasons for détente, five agreements from 1963 to 1972, and a note that détente was real but limited." loading="lazy">
+  <figcaption>Why relations thawed and what was agreed.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -107,6 +127,16 @@ practise with the [superpower relations practice questions](/resources/edexcel-i
   Hotline and Test Ban follow.
 - **Czechoslovakia 1968:** Prague Spring → invasion → Brezhnev Doctrine; Western protests only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--19-sp-three-crises.webp" width="900" height="792" alt="Three rows for Berlin, Cuba and Czechoslovakia, each with a trigger and an outcome." loading="lazy">
+  <figcaption>The trigger and outcome of each crisis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--20-sp-cuba-deal.webp" width="900" height="728" alt="Three steps to the crisis, then a deal: the USSR removes missiles from Cuba, the USA pledges not to invade Cuba, and secretly promises to remove its missiles from Turkey." loading="lazy">
+  <figcaption>Each side gave something; one promise was secret.</figcaption>
+</figure>
+
 ## Worked example: two effects
 
 *Explain two effects of the Berlin Crisis of 1948–49.*
@@ -115,6 +145,11 @@ practise with the [superpower relations practice questions](/resources/edexcel-i
    permanent military alliance, committing the USA to defending Western Europe.
 2. **The division of Germany:** the FRG and GDR were set up in 1949, making the partition of Germany
    formal and turning Berlin into a long-term flashpoint.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-superpower-relations--17-sp-berlin-blockade.webp" width="900" height="841" alt="Schematic: West Berlin as a circle inside the Soviet side, land routes crossed out, and a gold arrow for the airlift, followed by the sequence and the results." loading="lazy">
+  <figcaption>Stalin cut the land routes; the Allies supplied the city by air.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

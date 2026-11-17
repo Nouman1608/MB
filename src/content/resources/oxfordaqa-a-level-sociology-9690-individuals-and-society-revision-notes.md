@@ -71,6 +71,11 @@ Full explanation: [individuals and society study guide](/resources/oxfordaqa-a-l
 | Marxist | Dominant culture reflects ruling-class ideology |
 | Interactionist | Culture negotiated in everyday interaction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--01-culture.webp" width="900" height="569" alt="Culture divided into material and non-material forms, its three features (learned, shared, varies), and functionalist, Marxist and interactionist views of it." loading="lazy">
+  <figcaption>Culture is learned, shared and variable, and each perspective reads it differently.</figcaption>
+</figure>
+
 ## Norms, values, roles and status
 
 - Value → norm: respect for elders → stand when an older person enters.
@@ -80,12 +85,27 @@ Full explanation: [individuals and society study guide](/resources/oxfordaqa-a-l
   still limit achievement.
 - Multiple statuses produce role conflict and role strain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--02-values-norms.webp" width="900" height="542" alt="A value such as respect for elders is put into practice by norms such as standing when an older person enters. Sumner’s folkways, mores and laws rise in the strength of sanction, from mild disapproval to outrage to formal sanctions." loading="lazy">
+  <figcaption>Values are general; norms are specific rules enforced with sanctions of varying strength.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--03-status-role.webp" width="900" height="547" alt="Linton’s ascribed status, fixed at birth such as sex, caste or age, compared with achieved status earned through merit such as a qualification, with definitions of role conflict, role strain and master status." loading="lazy">
+  <figcaption>Statuses are ascribed or achieved, and holding many can create conflict.</figcaption>
+</figure>
+
 ## Stereotypes
 
 - "Pictures in our heads" (Lippmann).
 - Simplify; often negative; justify prejudice and discrimination.
 - Can be self-fulfilling.
 - Spread by media and other agencies; link to othering (3.1.2.4) and identity (3.1.2.3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--04-stereotypes.webp" width="900" height="456" alt="A chain from a stereotype, Lippmann’s pictures in our heads, to prejudiced attitudes, discriminatory actions and a self-fulfilling prophecy. A note explains why stereotypes persist." loading="lazy">
+  <figcaption>A simplified image can become attitudes, actions and finally a self-fulfilling prophecy.</figcaption>
+</figure>
 
 ## Ethnic subcultures in multicultural societies
 
@@ -95,6 +115,11 @@ Full explanation: [individuals and society study guide](/resources/oxfordaqa-a-l
 - Debates: shared values vs distinctiveness; generational blending into hybrid identities; dominant
   groups define the mainstream.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--05-subcultures.webp" width="900" height="576" alt="Examples of multicultural societies (Singapore, Canada), how ethnic subcultures are maintained, and three evaluation debates: integration versus distinctiveness, change through hybridity, and power." loading="lazy">
+  <figcaption>Subcultures survive through institutions but also blend and face marginalisation.</figcaption>
+</figure>
+
 ## Mills
 
 - **Troubles**: private, within a person's own milieu.
@@ -102,6 +127,11 @@ Full explanation: [individuals and society study guide](/resources/oxfordaqa-a-l
 - Example: one unemployed person is a trouble; mass unemployment is an issue.
 - Modern applications: graduate underemployment; care for ageing relatives; housing costs.
 - Evaluation: a perspective, not a testable theory; underplays agency; but inspires public sociology.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-individuals-and-society--06-mills.webp" width="900" height="643" alt="Mills’s personal troubles, located in individual character and relationships, set against public issues rooted in social institutions, illustrated by one unemployed person versus mass unemployment and by graduate underemployment and elder care." loading="lazy">
+  <figcaption>The same problem is a trouble for one person and an issue for a society.</figcaption>
+</figure>
 
 ## Applying Mills in three steps
 

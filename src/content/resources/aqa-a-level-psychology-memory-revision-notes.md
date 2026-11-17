@@ -31,6 +31,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Multi-store model** (Atkinson and Shiffrin) — a *sequence* of separate stores information passes through. **Working memory model** (Baddeley and Hitch) — a detailed account of what happens *inside* STM specifically. The second refines the first's STM box; they are not competing explanations of the same thing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--09-models-fit-together.webp" width="900" height="1040" alt="The multi-store model as a sequence with short-term memory highlighted, opened out into the working memory model." loading="lazy">
+  <figcaption>The working memory model refines the STM component of the multi-store model.</figcaption>
+</figure>
+
 ## Multi-store model — comparison table
 
 | Store | Coding | Capacity | Duration |
@@ -41,12 +46,27 @@ Condensed for the final weeks. For the full explanation, use the
 
 *Background, not specification content:* types of LTM (episodic, semantic, procedural) were removed from the Memory topic in specification version 1.4 (first teaching September 2025). They are not required for exams from June 2026 (AS) or June 2027 (A-level).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--06-multi-store-flow.webp" width="900" height="960" alt="Information passes from the sensory register to short-term memory to long-term memory." loading="lazy">
+  <figcaption>The multi-store model: a sequence of separate stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--07-store-features.webp" width="900" height="970" alt="Table of coding, capacity and duration for sensory register, short-term and long-term memory, as in the lesson." loading="lazy">
+  <figcaption>Features of the three stores.</figcaption>
+</figure>
+
 ## Working memory model — four components
 
 - **Central executive** — directs attention, coordinates the others; no storage of its own.
 - **Phonological loop** — auditory/verbal information (split into phonological store + articulatory process).
 - **Visuo-spatial sketchpad** — visual and spatial information.
 - **Episodic buffer** — integrates the other components, links to LTM. Easy to forget since it was added later than the other three.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--08-working-memory-model.webp" width="900" height="1090" alt="Central executive coordinates phonological loop (store and articulatory process), visuo-spatial sketchpad and episodic buffer; the buffer integrates information and links to long-term memory." loading="lazy">
+  <figcaption>The four components of the working memory model and their links.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -71,6 +91,11 @@ Contrast:           a purely visual task (tracing a route by eye)
 
 Identify which component handles which information type, then explain the resulting behaviour — that is the core applied skill this content is assessed against.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--10-dual-task-clash.webp" width="900" height="960" alt="The phone number and place names both need the phonological loop, the map layout uses the sketchpad, and route planning loads the central executive, so rehearsal of the number is displaced." loading="lazy">
+  <figcaption>Why a phone number and a map task interfere.</figcaption>
+</figure>
+
 ## Why the models needed refining
 
 The multi-store model's account of STM as a single, unitary store ran into a specific problem: if STM
@@ -81,6 +106,11 @@ phone number in mind while walking somewhere unfamiliar — provided the two tas
 types of information. This everyday observation is exactly what motivated Baddeley and Hitch to
 propose that STM itself is not a single box but several interacting components, each handling a
 different type of information and therefore each with its own limited capacity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-psychology-multi-store-and-working-memory-models--11-dual-task-no-clash.webp" width="900" height="810" alt="A phone number uses the phonological loop; tracing a route by eye uses the visuo-spatial sketchpad; separate components, so little interference." loading="lazy">
+  <figcaption>A purely visuo-spatial second task is predicted to interfere little.</figcaption>
+</figure>
 
 ## MSM and WMM side by side
 

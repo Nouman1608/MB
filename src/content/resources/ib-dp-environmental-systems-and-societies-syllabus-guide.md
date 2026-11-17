@@ -88,6 +88,11 @@ analytical answers on Papers 1 and 2, because they lack the vocabulary
 positive/negative feedback) that the specification expects to see
 threaded through answers on water, land, atmosphere or resources.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-syllabus-guide--02-foundations-threaded.webp" width="900" height="778" alt="The three Topic 1 concepts, perspectives (3 hours), systems (5 hours) and sustainability (8 hours), run as lines through Topics 2 to 8. Below, the vocabulary to use in every answer: carrying capacity, ecological footprint, environmental value systems and positive or negative feedback." loading="lazy">
+  <figcaption>Topic 1 is the framework for every later topic, not a warm-up.</figcaption>
+</figure>
+
 ## The HL-only lenses
 
 HL students study the same eight core topics as SL students, but with
@@ -110,6 +115,11 @@ ethical lens in turn -- they are best revised topic-by-topic alongside
 the core content they extend, rather than as a separate block at the
 end of the course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-syllabus-guide--03-three-hl-lenses.webp" width="900" height="680" alt="A core-topic issue such as water scarcity branches to three HL-only lenses: environmental law (5 hours), environmental and ecological economics (7 hours) and environmental ethics (5 hours), each asking a different question of the same issue." loading="lazy">
+  <figcaption>HL lenses re-read content you already know; revise them topic by topic.</figcaption>
+</figure>
+
 ## The experimental programme
 
 Fifty hours, shared by SL and HL, split into three separately timed
@@ -122,6 +132,11 @@ capped at 3,000 words. The collaborative sciences project is not
 itself separately graded, so its main value to a student's final grade
 is the data-handling and investigative skills it builds for the
 individual investigation, not marks of its own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-syllabus-guide--04-investigation-route.webp" width="900" height="720" alt="A 50-hour bar split into practical work (30 hours), the collaborative sciences project (10 hours, not separately graded) and scientific investigation (10 hours). It feeds the internally assessed individual investigation: draft a testable research question early and check it against the criteria, gather and analyse data, then write an evidence-based report of up to 3,000 words." loading="lazy">
+  <figcaption>A focused research question, set early, saves more marks than any rescue later.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -145,6 +160,11 @@ capped at 3,000 words, drafting a clear, testable research question
 early and checking it against the assessment criteria before
 collecting data saves far more marks than trying to rescue an
 unfocused question after the fact.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-environmental-systems-and-societies-syllabus-guide--01-teaching-hours-by-topic.webp" width="900" height="1239" alt="Paired SL and HL bars for each topic: Foundations 16 at both levels, Ecology 22 and 35, Biodiversity and conservation 13 and 26, Water 12 and 25, Land 8 and 15, Atmosphere and climate change 10 and 23, Natural resources 10 and 18, Human populations and urban systems 9 and 15, plus HL-only lenses of 5, 7 and 5 hours. Content totals 100 hours at SL and 190 at HL, with a 50-hour experimental programme at both levels." loading="lazy">
+  <figcaption>Topics 2, 3, 4 and 6 each gain 13 hours at HL: that is where HL depth sits.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

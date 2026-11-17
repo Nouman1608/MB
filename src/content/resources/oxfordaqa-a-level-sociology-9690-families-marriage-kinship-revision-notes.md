@@ -60,6 +60,11 @@ Fuller explanation: [Families, marriage and kinship study guide](/resources/oxfo
 | **Arranged marriage** | Families take a leading role in choosing or introducing partners |
 | **Love marriage** | Partners choose each other on the basis of romantic attraction |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--01-family-household.webp" width="900" height="697" alt="Overlapping circles for family and household inside a frame for kinship. A family split across two countries is a family but not a household; a student flat-share, living alone or a commune is a household but not a family." loading="lazy">
+  <figcaption>A family need not share a home, and a household need not be a family.</figcaption>
+</figure>
+
 ## Family types at a glance
 
 - **Nuclear**: Murdock (1949) claimed it was universal after comparing around 250 societies.
@@ -71,12 +76,22 @@ Fuller explanation: [Families, marriage and kinship study guide](/resources/oxfo
   mother-headed.
 - Young and Willmott (1957) found strong extended kin ties in working-class Bethnal Green.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--02-extended-families.webp" width="900" height="737" alt="Left: a vertically extended family of grandmother, son, daughter-in-law and grandchildren across three generations. Right: a horizontally extended family of two married brothers and their children sharing one compound." loading="lazy">
+  <figcaption>Vertical extension adds generations; horizontal extension adds same-generation kin.</figcaption>
+</figure>
+
 ## Alternatives to families
 
 - **Communes**: the kibbutz raised children collectively in children's houses; parents still kept
   relationships with children.
 - **Living alone**: Klinenberg (2012), *Going Solo*, sees it as often chosen and socially connected.
 - **Foster care/children's homes**: child-rearing organised by the state or agencies, outside kinship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--03-alternatives.webp" width="900" height="605" alt="Communes, living alone and foster care or children’s homes compared by what each involves and its sociological point, such as the kibbutz challenge to Murdock and Klinenberg’s Going Solo." loading="lazy">
+  <figcaption>Alternatives show child-rearing and living can be organised outside the family.</figcaption>
+</figure>
 
 ## Therborn's family systems
 
@@ -88,6 +103,11 @@ Fuller explanation: [Families, marriage and kinship study guide](/resources/oxfo
   widely; marriage patterns did not converge on one model.
 - Use: comparative evidence against one universal or "normal" family.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--04-therborn.webp" width="900" height="682" alt="Therborn compares family systems on patriarchy, marriage and fertility. He identifies five major systems and two interstitial ones, and finds patriarchy declining at different speeds, marriage diverging and fertility falling." loading="lazy">
+  <figcaption>Family systems change at different speeds, not towards one Western model.</figcaption>
+</figure>
+
 ## Matriarchy and patriarchy
 
 - Patriarchal families are often also patrilineal and patrilocal.
@@ -96,6 +116,11 @@ Fuller explanation: [Families, marriage and kinship study guide](/resources/oxfo
 - Evaluation: in some matrilineal groups a mother's brother holds authority, so matrilineal does not
   mean women rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--05-patriarchal-matrilineal.webp" width="900" height="579" alt="Patriarchal families give men authority, with patrilineal descent and patrilocal residence. Most so-called matriarchal examples, such as the Khasi, Minangkabau and Mosuo, are matrilineal, and mothers’ brothers may still hold authority." loading="lazy">
+  <figcaption>Matrilineal descent does not mean women rule.</figcaption>
+</figure>
+
 ## Marriage types
 
 | Type | Key features | Evaluation |
@@ -103,6 +128,11 @@ Fuller explanation: [Families, marriage and kinship study guide](/resources/oxfo
 | Arranged | Families choose or introduce; marriage links families | Not the same as forced marriage; many involve consent and veto |
 | Love | Couple chooses; romance before marriage | Choice still shaped by class, religion and ethnicity |
 | Monogamy | One spouse at a time | Serial monogamy common where divorce is easy |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-families-marriage-kinship--06-marriage-types.webp" width="900" height="621" alt="A scale from arranged marriage, where families lead the choice, through assisted marriage with the couple’s veto, to love marriage, where the couple choose. Forced marriage is shown apart as abuse. A note defines monogamy and serial monogamy." loading="lazy">
+  <figcaption>Arranged and love marriage differ in who chooses; forced marriage lacks consent.</figcaption>
+</figure>
 
 ## Exam traps
 

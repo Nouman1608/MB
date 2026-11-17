@@ -36,6 +36,11 @@ full explanation and worked examples are in the
 The six levels are the same as in Paper 1; lexis and semantics explicitly includes **social and historical
 variation**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--01-three-jobs.webp" width="900" height="660" alt="Three columns for the three jobs: identifying and describing features of diversity and change, researching diversity and change through dictionaries, corpora, surveys and research, and analysing how texts present ideas about language. Each shows what it looks like and where it pays off in Paper 2." loading="lazy">
+  <figcaption>The same six levels, used for three different jobs in Paper 2.</figcaption>
+</figure>
+
 ## Describing diversity: precise labels
 
 | Level | Feature | Example |
@@ -51,6 +56,21 @@ variation**.
 | Grammar | Second-person plural | "youse", "y'all" |
 | Lexis | Dialect lexis | "bairn", "ginnel" |
 | Pragmatics | Regional address terms | "love", "duck", "pet" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--02-accent-and-respelling.webp" width="900" height="560" alt="Left: accent features named by the sound involved, including h-dropping, TH-fronting, the glottal stop for /t/, and rhotic versus non-rhotic accents. Right: when accent is shown in spelling, a respelling that changes the pronunciation is phonetic respelling, while one that does not, such as &quot;wuz&quot; for &quot;was&quot;, is eye dialect." loading="lazy">
+  <figcaption>Name the sound, and distinguish phonetic respelling from eye dialect.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--03-grammar-labels.webp" width="900" height="634" alt="Six descriptive labels with the lesson's examples: multiple negation, levelled past tense of BE, non-standard past forms, zero plural after numbers, second-person plural pronouns, and older forms such as -eth endings, thou and thee, and the absence of do-support." loading="lazy">
+  <figcaption>Describe dialect and older grammar with labels, not as errors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--04-dialect-utterance.webp" width="900" height="706" alt="The lesson's constructed sentence &quot;We was sat there for ages and there weren't nobody about, so we come home&quot; with four features highlighted: levelled past tense of BE, &quot;sat&quot; for &quot;sitting&quot;, multiple negation with levelled &quot;weren't&quot;, and &quot;come&quot; as a past tense. Three steps below: describe the grammar, compare with Standard English, place it as a regular pattern." loading="lazy">
+  <figcaption>Each feature is a regular pattern of a variety, described precisely, not an error.</figcaption>
+</figure>
 
 ## Describing change: precise labels
 
@@ -89,6 +109,21 @@ variation**.
 - **Dialect surveys:** geography of forms; sample may be limited (for example older rural speakers).
 - **Research findings:** check sample size, method and what is measured before generalising.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--05-research-sources.webp" width="900" height="650" alt="Five research sources, each with what it tells you and a caution: historical dictionaries, corpora, frequency tools across books, dialect surveys such as the 1950s Survey of English Dialects, and research findings." loading="lazy">
+  <figcaption>Every source answers a different question, and each has a limit to state.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--06-normalised-frequency.webp" width="900" height="615" alt="The formula for normalised frequency, raw count divided by corpus size in words, multiplied by one million, with the lesson's hypothetical example: 50 occurrences in a 2-million-word corpus is 25 per million. Concordance lines show each occurrence in context and collocates show habitual word partners." loading="lazy">
+  <figcaption>Normalise counts per million words before comparing corpora of different sizes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--07-real-and-apparent-time.webp" width="900" height="660" alt="A real-time study compares the same community at two dates. An apparent-time study compares older, middle and younger speakers at one date, assuming older speakers preserve earlier usage. A caution notes that age-group differences may instead be age grading." loading="lazy">
+  <figcaption>Real time compares dates; apparent time compares age groups and risks confusing change with age grading.</figcaption>
+</figure>
+
 ## Analysing texts about language: stance signals
 
 | Signal | Prescriptive stance | Descriptive stance |
@@ -98,6 +133,11 @@ variation**.
 | Modality | "should", "must" | "may", "research suggests" |
 | Evidence | Anecdote, appeal to common sense | Studies, data, examples across time |
 | Graphology | "Errors" quoted in bold or capitals | Forms quoted neutrally, often italicised |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2--08-reading-stance.webp" width="900" height="675" alt="Modal verbs of obligation such as &quot;should&quot; and &quot;must&quot; signal prescriptive views, while hedged claims such as &quot;may&quot; and &quot;research suggests&quot; signal descriptive ones. Further clues are listed by level: evaluative lexis and metaphors, generic noun phrases, presuppositions and irony, the structure of the argument, and graphology that ridicules quoted errors." loading="lazy">
+  <figcaption>The language a writer uses about language reveals their stance.</figcaption>
+</figure>
 
 ## Exam traps
 

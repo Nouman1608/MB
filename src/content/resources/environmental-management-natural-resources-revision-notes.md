@@ -45,6 +45,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 **Sustainable use** = meeting present needs without preventing future generations from meeting theirs. This definition applies equally to a renewable resource, a non-renewable one, and to water — the concept is about the *rate and manner* of use, not the type of resource itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--01-nr-renewable-or-not.webp" width="900" height="940" alt="Two water tanks compare a renewable stock that refills at about the rate it is used with a non-renewable stock that has only a slow drip in and a larger outflow. Lists beside each tank name the renewable (biofuels, geothermal, hydro-electric, tidal, wave, solar, wind) and non-renewable (coal, oil, natural gas, mineral ores) resources from the lesson." loading="lazy">
+  <figcaption>Renewable resources refill within a human timescale; non-renewable ones are a fixed stock used faster than they form.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--02-nr-forest-sustainable.webp" width="900" height="910" alt="A graph with illustrative numbers. Forest stock stays at 100 when felling equals regrowth, but falls to zero after 34 years when felling exceeds regrowth by three units a year. The forest example shows that a renewable resource can be used unsustainably." loading="lazy">
+  <figcaption>A forest is renewable, but if felling outpaces regrowth the stock still collapses.</figcaption>
+</figure>
+
 ## Fossil fuels — balance sheet
 
 | Advantages | Disadvantages |
@@ -64,6 +74,11 @@ Condensed for the final weeks. For the full explanation, use the
 | HEP | Reliable, long-lived, flood control | Dam displaces people/habitat, silting, high cost |
 | Geothermal | Continuous, small footprint | Electricity generation only viable in tectonically active areas -- heat pumps for heating work anywhere |
 | Biofuels (bioethanol, biomass, biogas, wood) | Uses waste, can be carbon-neutral | Combustion pollutants, competes with food for land |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--05-nr-renewables-compared.webp" width="900" height="910" alt="Five rows, one per source, each with one strength and one limitation. Solar: no emissions in use, but intermittent and needs storage. Wind: land below stays usable, but intermittent with noise objections. Hydro-electric power: reliable with flood control, but the dam displaces people. Geothermal: continuous output, but electricity needs a tectonically active area. Biofuels: can be carbon-neutral, but compete with food for land." loading="lazy">
+  <figcaption>Each renewable source has a strength and a limitation.</figcaption>
+</figure>
 
 ## Rocks, ores and minerals (1.1–1.3)
 
@@ -88,11 +103,26 @@ alternative materials.
 *Water supply, demand and scarcity are Topic 3 (Water) content, not this topic — see the*
 *[Water revision notes](/resources/igcse-environmental-management-water-revision-notes/).*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--03-nr-rock-cycle.webp" width="900" height="1160" alt="Five boxes (magma or lava, igneous, sedimentary, metamorphic rock and sediment) are joined by numbered arrows. Cooling and crystallisation form igneous rock; any rock can be weathered to sediment; sediment becomes sedimentary rock; heat and pressure make metamorphic rock; melting returns rock to magma, and sedimentary rock can melt directly." loading="lazy">
+  <figcaption>The rock cycle branches: any rock can be weathered directly, and sedimentary rock can melt directly.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--04-nr-extraction-methods.webp" width="900" height="900" alt="Three ground cross-sections side by side. Surface extraction digs a terraced open pit to an ore body. Subsurface extraction uses a shaft and tunnel to a deep ore body. Biological extraction uses plants (phytomining) and microorganisms (bioleaching) on low-grade ore." loading="lazy">
+  <figcaption>Ores are extracted by surface, subsurface or biological methods.</figcaption>
+</figure>
+
 ## The management framework
 
 **Use less** (efficiency, conservation) · **Use again** (reuse, recycle) · **Substitute** (renewables) · **Restore** (replanting, rehabilitation, protected areas)
 
 Enabled by legislation, international agreements, education and pricing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-natural-resources--06-nr-four-strategies.webp" width="900" height="930" alt="Four cards: use less (efficiency and conservation), use again (reuse and recycling), substitute (renewable alternatives) and restore (replanting, land rehabilitation, protected areas). A banner says legislation, international agreements, education and appropriate pricing make these happen at scale." loading="lazy">
+  <figcaption>Sustainable management groups into use less, use again, substitute and restore.</figcaption>
+</figure>
 
 ## Why fossil fuel dependence persists
 

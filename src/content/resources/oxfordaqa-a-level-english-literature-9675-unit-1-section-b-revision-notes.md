@@ -36,6 +36,11 @@ essay plan and a model paragraph, use the
   response) are **weighted equally**.
 - About **an hour** in the 2-hour unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-aspects-of-dramatic-tragedy--09-dt-exam.webp" width="900" height="790" alt="The Unit 1 exam lasts 2 hours, is closed book and is worth 50 marks. Section A, 25 marks, is a passage-based question on the chosen Elizabethan or Jacobean tragedy. Section B, 25 marks, is an essay question on the chosen later tragedy. Because two plays are written on, the quotation bank for revision needs equal depth for both plays." loading="lazy">
+  <figcaption>Two plays, two question types, 25 marks each, no books in the room.</figcaption>
+</figure>
+
 ## The five plays at a glance
 
 | Play | Tragic figure | Opponent or pressure | Distinctive method |
@@ -48,6 +53,16 @@ essay plan and a model paragraph, use the
 
 Check your play against your centre's specification version: a revised 9675 is published for
 teaching from 2027.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--01-section-b-plays.webp" width="900" height="526" alt="A timeline from 1880 to 1990 marks the first staging of the five plays: Hedda Gabler by Ibsen in 1891, A Streetcar Named Desire by Williams in 1947, Death of a Salesman by Miller in 1949, Waiting for Godot by Beckett in 1953 in French, and Translations by Friel in 1980." loading="lazy">
+  <figcaption>Five later tragedies first staged between 1891 and 1980; you study one.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--03-aspects-by-play.webp" width="900" height="619" alt="A table gives the opponent, setting and structure named for each play: Stanley against Blanche, Brack over Hedda and Captain Lancey in Translations; the Brooklyn house, the Elysian Fields flat and Godot’s country road and tree; Miller’s memory scenes, Williams’s eleven scenes, Ibsen’s four compressed acts and Beckett’s two parallel acts." loading="lazy">
+  <figcaption>Pick the aspects your own play makes most interesting.</figcaption>
+</figure>
 
 ## How later tragedy bends the old aspects
 
@@ -63,6 +78,11 @@ teaching from 2027.
   unchanged, which is itself a statement.
 - **Absence**: the specification notes the absence of an aspect can be as significant as its
   presence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--02-four-shifts.webp" width="900" height="754" alt="Four shifts from older to later tragedy, each with examples: from public figures to ordinary people, from fate to society and psychology, from catastrophe to absence in Waiting for Godot, and from the individual to the community in Translations." loading="lazy">
+  <figcaption>Later tragedies move the source of suffering from fate and the great to society, the mind and ordinary lives.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -91,6 +111,11 @@ For whichever play you study, keep short quotations or precise references for:
 
 Five moments, each tagged to two aspects, give enough flexibility for any question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--04-staging-is-evidence.webp" width="900" height="494" alt="Five small stage sketches: Miller’s walls crossed in memory scenes, Williams’s Varsouviana polka and paper lantern over a bare bulb, Ibsen’s portrait of General Gabler and pistols, Beckett’s tree with a few leaves in Act 2, and Friel’s love scene in two languages, both performed in English." loading="lazy">
+  <figcaption>Stage directions in these plays are method, and earn AO2 credit.</figcaption>
+</figure>
+
 ## Essay shape
 
 1. One-sentence answer to the question.
@@ -98,6 +123,16 @@ Five moments, each tagged to two aspects, give enough flexibility for any questi
 3. Evidence from across the whole play.
 4. An alternative reading, weighed.
 5. A conclusion on the audience's response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--05-planning.webp" width="900" height="752" alt="Five numbered steps: decide your answer in one sentence, choose three or four aspects including one that complicates the view, select evidence from the opening, a turning point and the ending, place and weigh one alternative reading, and end on the audience." loading="lazy">
+  <figcaption>One answer, tested by several aspects and evidence from across the play.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-1-section-b--06-worked-example.webp" width="900" height="612" alt="A level balance weighs two sides of the view on Death of a Salesman. Victim of society: fired by Howard, and the hollow salesman’s dream. Tragic hero: pride and self-deception, refusing Charley’s job offer and lying to his family. The judgement is that Willy is both, with recognition and the memory scenes as further tests." loading="lazy">
+  <figcaption>The plan partly agrees: Willy’s flaw is shaped by the society he believes in.</figcaption>
+</figure>
 
 ## Exam traps
 

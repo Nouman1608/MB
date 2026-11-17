@@ -66,6 +66,11 @@ Brackets first, then indices (^), then multiplication and division, then additio
 
 *Worked example*: VAT rate 20% is in F1. Prices are in B2:B10. In C2: `=B2*$F$1`. Copying down gives `=B3*$F$1`, `=B4*$F$1` … — B changes (relative), F1 stays (absolute). Without the $ signs, the copied formula would refer to F2, F3 … which are empty, giving 0. Using a named cell, `=B2*VATRate` works the same way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--01-ss-relative-absolute.webp" width="900" height="896" alt="A spreadsheet column D holds line totals 10.00, 33.00, 36.00, 52.00 and 37.00 in rows 2 to 6 and the total 168.00 in D7, which is marked as locked. Column E copies the formula =D2/$D$7 down. The first part (D2, D3, D4 and so on) is a relative reference and moves down one row each time. The second part, $D$7, is an absolute reference: a gold line carries every formula back to the same cell D7. The results shown are 6.0 per cent, 19.6 per cent, 21.4 per cent, 31.0 per cent and 22.0 per cent." loading="lazy">
+  <figcaption>A formula copied down changes relative references but an absolute reference stays on one cell.</figcaption>
+</figure>
+
 ## Functions to know
 
 | Function | Purpose | Example |
@@ -92,10 +97,25 @@ Use **absolute references** (or a named range) for the lookup table so it does n
 
 A function can refer to data in another file or worksheet, for example a VLOOKUP whose table is in a separate workbook supplied in the exam. The reference includes the file and sheet name, so keep the file in the location stated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--02-ss-formula-chain.webp" width="900" height="972" alt="A table of five shop items with unit price and quantity. A formula in each row multiplies price by quantity to give line totals of 10.00, 33.00, 36.00, 52.00 and 37.00. Below, =SUM(D2:D6) gives 168.00. The formula =IF(D7&gt;150,D7*0.1,0) gives a 10 per cent discount of 16.80 because 168.00 is greater than 150. Finally =D7-D8 gives 151.20." loading="lazy">
+  <figcaption>Line totals feed =SUM, then the IF discount, then the final amount: 168.00, 16.80, 151.20.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--03-ss-countif.webp" width="900" height="830" alt="A column chart of the five line totals: Pencil 10.00, Notebook 33.00, Ruler 36.00, Stapler 52.00 and Marker 37.00, with a dashed gold line at 35. The three bars above the line (Ruler, Stapler and Marker) are shaded and ticked. The formula =COUNTIF(D2:D6,&quot;&gt;35&quot;) therefore returns 3." loading="lazy">
+  <figcaption>COUNTIF counts only the line totals above 35, giving 3.</figcaption>
+</figure>
+
 ## 20.2 Sorting and searching
 
 - **Sort** on one or more columns, ascending or descending; select the whole data range so rows stay together.
 - **Filter/search** using criteria with AND, OR, NOT, >, <, =, >=, <=, <>, and **wildcards**: `*` for any characters, `?` for a single character (for example `S*` finds entries starting with S).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-ict-spreadsheets-study-guide--04-ss-sort-whole-table.webp" width="900" height="1015" alt="A shop list of five items with line totals 10.00, 33.00, 36.00, 52.00 and 37.00. Selecting the whole table and sorting ascending by line total gives Pencil, Notebook, Ruler, Marker, Stapler, and every item keeps its own total. Sorting only the line total column moves the totals but not the items, so Stapler is shown with 37.00 and Marker with 52.00. Two rows are scrambled." loading="lazy">
+  <figcaption>Select the whole table before sorting or the rows no longer match.</figcaption>
+</figure>
 
 ## 20.3 Presenting the spreadsheet
 

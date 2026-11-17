@@ -49,6 +49,16 @@ Memory hook for the order: **E-Q-O-I-D-C-S-R**, "Every Quiet Owl Is Deep in Cool
 | Air waybill | Air freight; receipt and evidence of contract, **not** a document of title |
 | Documentary credit (letter of credit) | Importer's bank promises to pay the exporter when agreed documents are presented |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--03-international-documents.webp" width="900" height="650" alt="Four cards: the certificate of origin, issued in the exporting country, states where goods were made; the bill of lading, from the shipping company, is a document of title; the air waybill, from the airline, is not; and documentary credit is the importer’s bank’s promise to pay once documents are presented." loading="lazy">
+  <figcaption>Only the bill of lading is a document of title; documentary credit is a bank’s promise to pay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--04-documentary-credit.webp" width="900" height="625" alt="Four lanes: exporter, shipping company, importer’s bank and importer. The bank promises to pay; the exporter ships and gets a bill of lading; it presents the documents and the bank pays; the documents prove to the importer that goods were shipped as agreed." loading="lazy">
+  <figcaption>The exporter is sure of payment and the importer pays only against proof of shipment.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -72,14 +82,34 @@ Memory hook for the order: **E-Q-O-I-D-C-S-R**, "Every Quiet Owl Is Deep in Cool
 
 (All figures invented.)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--01-invoice-calculation.webp" width="900" height="695" alt="An invoice for 40 shirts at $15: $600 less a 20% trade discount of $120 gives $480 due. If Lakeview pays within 14 days it deducts a 5% cash discount of $24 and pays $456; otherwise it pays $480." loading="lazy">
+  <figcaption>Trade discount comes off first; cash discount is taken only if the buyer pays in time (invented figures).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--02-credit-note-statement.webp" width="900" height="765" alt="A credit note for 4 damaged shirts is worth 4 × $15 = $60 less $12 trade discount = $48. A waterfall then shows the statement: $200 brought forward, plus the $480 invoice, less the $48 credit note, less a $200 payment, leaving $432 due." loading="lazy">
+  <figcaption>On a statement, invoices push the balance up and credit notes and payments bring it down (invented figures).</figcaption>
+</figure>
+
 ## Online ordering stages
 
 Browse → select and add to basket → checkout and delivery details → choose delivery option → pay securely → order confirmation (often an electronic receipt) → dispatch and tracking → receive order (returns if needed).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--05-online-ordering.webp" width="900" height="660" alt="Eight numbered stages: browse, add to basket, checkout with delivery details, choose delivery option, pay securely, receive an order confirmation, dispatch with a tracking link, and receive the order. The basket replaces the written order, the confirmation the receipt and tracking the delivery note." loading="lazy">
+  <figcaption>Online ordering follows the paper sequence with digital equivalents.</figcaption>
+</figure>
 
 ## Digital technology: benefits and drawbacks
 
 - **Benefits**: speed, no paper or filing space, access from anywhere, fewer lost documents, instant tickets and receipts.
 - **Drawbacks**: hacking and data theft, reliance on internet and power, cost of secure systems and training, exclusion of customers without devices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-commerce-7100-trading-documents--06-digital-technology.webp" width="900" height="705" alt="Five technologies with what each does and its benefit: digital signatures, secure access, cloud-based storage, electronic receipts and etickets. Below, the drawbacks: hacking, dependence on internet and power, system and training costs, and customers without smartphones." loading="lazy">
+  <figcaption>Digital documents are faster and harder to lose, but bring security and access risks.</figcaption>
+</figure>
 
 ## Exam traps
 

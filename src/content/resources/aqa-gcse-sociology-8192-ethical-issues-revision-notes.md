@@ -49,6 +49,11 @@ These notes cover the "ethical issues" row of section 3.7 in the AQA GCSE Sociol
 | Covert observation | Studying a group without its knowledge |
 | Gatekeeper | Person controlling access, such as a head teacher |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--03-confidentiality-anonymity.webp" width="900" height="506" alt="Two panels. Confidentiality means not revealing information in a way that identifies people, for example by using pseudonyms. Anonymity means identity is not recorded at all, so not even the researcher can link answers to a person, as with anonymous questionnaires. Below, the limit for disclosures of abuse." loading="lazy">
+  <figcaption>Confidentiality hides what people said; anonymity means their identity is never recorded.</figcaption>
+</figure>
+
 ## The three issues at a glance
 
 | Issue | Hardest cases | How to address |
@@ -57,12 +62,22 @@ These notes cover the "ethical issues" row of section 3.7 in the AQA GCSE Sociol
 | Confidentiality | Small settings; focus groups; insecure data; disclosures of serious harm | Pseudonyms; change details; secure storage; anonymous questionnaires; explain limits |
 | Harm | Sensitive topics; deviant groups; labelling; covert research | Avoid distressing questions; allow stopping; debrief; support contacts; protect identities |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--02-three-issues.webp" width="900" height="583" alt="A grid of the three ethical issues in the specification. For consent, confidentiality and harm it shows what each means, where it is hardest to manage, and practical ways to address it, such as information sheets, pseudonyms and debriefing." loading="lazy">
+  <figcaption>For each issue, know where it is hard and what a researcher would actually do.</figcaption>
+</figure>
+
 ## Types of harm
 
 - **Physical:** injury or danger.
 - **Emotional:** distress, anxiety, reliving trauma.
 - **Social:** damage to relationships or reputation.
 - **Legal:** exposure to arrest or punishment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--04-four-harms.webp" width="900" height="518" alt="Four cards: physical harm, emotional harm from distressing topics, social harm to relationships or reputation, and legal harm such as exposure to arrest. Below, ways to reduce harm: piloting, letting people skip or stop, debriefing, support contacts and protecting identities." loading="lazy">
+  <figcaption>Harm can be physical, emotional, social or legal; each has practical safeguards.</figcaption>
+</figure>
 
 ## Children and young people
 
@@ -83,11 +98,21 @@ These notes cover the "ethical issues" row of section 3.7 in the AQA GCSE Sociol
 
 **Compromises:** protect identities; seek consent before publishing; use only when no open method works.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--05-covert-debate.webp" width="900" height="809" alt="A balance weighs the value of the knowledge against the ethical costs. For covert research: it may be the only way to study some groups, behaviour is natural and the knowledge may benefit society. Against: deception, illegal acts, harm and damage to research’s reputation. Below, compromises such as consent before publishing." loading="lazy">
+  <figcaption>Weigh the value of the knowledge against the ethical cost; never just say “unethical”.</figcaption>
+</figure>
+
 ## Guidance and oversight
 
 - The British Sociological Association's Statement of Ethical Practice.
 - University ethics committees approve research plans.
 - Data protection law governs how personal data are stored.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--01-why-ethics.webp" width="900" height="603" alt="Ethical guidelines protect three things: participants, the reputation of research so people keep taking part, and researchers themselves. Below, UK sociologists follow the British Sociological Association’s Statement of Ethical Practice, and ethics committees approve plans first." loading="lazy">
+  <figcaption>Ethics protect participants, the reputation of research and researchers.</figcaption>
+</figure>
 
 ## Applying ethics: quick examples
 
@@ -95,6 +120,11 @@ These notes cover the "ethical issues" row of section 3.7 in the AQA GCSE Sociol
 - **School setting study:** parental consent; avoid labelling pupils in reports.
 - **Young offenders:** anonymity; avoid recording details of unreported crimes.
 - **Family conflict:** interview members separately; never pass on what one member said.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-ethical-issues--06-explain-how-answer.webp" width="900" height="591" alt="Three rows map a model answer about interviewing teenagers on cyberbullying. Consent: information sheets, written consent from teenagers and parents and the right to withdraw. Confidentiality: pseudonyms, not naming the school and secure storage. Harm: skipping questions, debriefing and support contacts." loading="lazy">
+  <figcaption>Name each issue, then give a specific action that fits the topic.</figcaption>
+</figure>
 
 ## Mini plan for an extended answer
 

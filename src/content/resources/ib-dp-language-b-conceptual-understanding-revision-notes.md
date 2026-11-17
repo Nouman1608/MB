@@ -44,6 +44,11 @@ Related pages: [practice questions](/resources/ib-dp-language-b-conceptual-under
 | Skills | Receptive, productive and interactive |
 | HL Paper 1 | More complex language and structures; higher-order thinking; higher word range |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--07-concepts-in-components.webp" width="900" height="398" alt="Three cards. Paper 1: match register to audience, with more complex language and a higher word range at HL. Paper 2: reading carries 40 marks and listening 25, each 25 percent, and fixing text type, audience and purpose first speeds reading. Individual oral, 25 percent: treat the visual image (SL) or literary excerpt (HL) as a text with a maker, audience and purpose." loading="lazy">
+  <figcaption>The same five concepts are how every component judges your reading, writing and speaking.</figcaption>
+</figure>
+
 ## Definitions
 
 | Concept | One-line definition | Question to ask |
@@ -53,6 +58,16 @@ Related pages: [practice questions](/resources/ib-dp-language-b-conceptual-under
 | Purpose | Why the text exists: inform, persuade, instruct, request, complain, thank, entertain, reflect | What should the reader know, feel or do afterwards? |
 | Meaning | What the text communicates, stated (explicit) or suggested (implicit) | What is said, what is hinted, and which words hint it? |
 | Variation | How language changes with the other four: register, tone, medium, regional variety | Why is it written this way and not another? |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--01-five-concepts.webp" width="900" height="755" alt="Four cards around a central circle labelled Your text: context asks where, when and in what medium; audience asks who it is for; purpose asks what the reader should know, feel or do; meaning asks what is said and what is suggested. An arrow leads to variation, how register, tone, medium and regional variety change with the other four." loading="lazy">
+  <figcaption>Context, audience, purpose and meaning decide how the language varies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--02-explicit-implicit.webp" width="900" height="481" alt="The sentence Residents are reminded that bins must be inside by 8 p.m. with the word reminded highlighted. Explicitly it states a rule; implicitly the word reminded suggests that some people have been breaking it." loading="lazy">
+  <figcaption>One word can carry a meaning the sentence never states.</figcaption>
+</figure>
 
 ## Register at a glance
 
@@ -70,6 +85,16 @@ Related pages: [practice questions](/resources/ib-dp-language-b-conceptual-under
 - Tone: the writer's attitude.
 - Medium: spoken is looser than written; a message is shorter than a letter.
 - Regional variety: vocabulary, pronunciation and some grammar differ by country and region (for example, Spanish *vosotros* in most of Spain; *ustedes* for all plural "you" in Latin America).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--03-register-vs-tone.webp" width="900" height="783" alt="Two panels. Register, how formal a text is, runs from formal (officials, strangers, the public) through semi-formal (teachers, a school magazine, a club) to informal (friends, family, peers online). Tone, the attitude a text shows, includes urgent, reassuring, enthusiastic, critical, sympathetic, humorous, ironic and neutral, and comes from intensifiers, modal verbs, punctuation and the balance of facts and feelings." loading="lazy">
+  <figcaption>Register is how formal; tone is what attitude. Any register can carry many tones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--05-three-audiences.webp" width="900" height="648" alt="Three cards tell the same news about a charging bench. A formal email to the head of school makes a request with a formal greeting and polite conditionals; a semi-formal magazine article informs and interests with a hook question; a text message to a friend shares news in fragments and exclamations. A formality meter on each card falls from three to one." loading="lazy">
+  <figcaption>Same news, three audiences: the register, opening and sentences change to fit each reader.</figcaption>
+</figure>
 
 ## Method in steps
 
@@ -97,6 +122,11 @@ Related pages: [practice questions](/resources/ib-dp-language-b-conceptual-under
 4. Swap vocabulary (official to everyday, or the reverse).
 5. Check nothing from the old register is left behind.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--06-decoding-a-task.webp" width="900" height="857" alt="A writing task about replacing a street market with a supermarket is decoded in five numbered steps: context (a newspaper letters page), audience (local readers and the council), purpose (persuade and show the other side), text type (letter to the editor) and register and tone (formal, firm but polite). Only then are the points planned." loading="lazy">
+  <figcaption>Extract context, audience, purpose, text type and register before you plan content.</figcaption>
+</figure>
+
 ## Worked reminders
 
 *Original examples written for Marlbridge.*
@@ -105,6 +135,11 @@ Related pages: [practice questions](/resources/ib-dp-language-b-conceptual-under
 - *Weak:* "The purpose is to inform." *Stronger:* "It informs readers of the new bus times, but 'we apologise for any inconvenience' shows it also aims to calm complaints."
 - *Weak:* "The blogger is angry." *Stronger:* "The blogger's tone is sarcastic: 'Great news, another car park!' praises the plan on the surface while mocking it."
 - *Register shift:* "Participants are requested to arrive by 9 a.m." becomes, for a friend, "Get there by nine, OK?"
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--04-notice-five-concepts.webp" width="900" height="818" alt="Context and audience cards sit above five rows linking words in the notice to what they do. Will be closed informs; its aim is to reduce air pollution justifies; your views are welcome reassures; trial and before any permanent decision imply the closure may become permanent; passive and impersonal phrasing make the register formal." loading="lazy">
+  <figcaption>Point to the words: each purpose, implication and register choice is visible in the text.</figcaption>
+</figure>
 
 ## The concepts across three themes
 

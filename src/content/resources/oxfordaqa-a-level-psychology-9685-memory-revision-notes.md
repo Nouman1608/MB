@@ -45,6 +45,16 @@ Explanations of forgetting are not listed in this section.
 
 **Processes:** attention (sensory register to STM), maintenance rehearsal (keeps information in STM and transfers it to LTM), retrieval (LTM back to STM).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--01-multi-store-model.webp" width="900" height="486" alt="Three stores in a row. The sensory register is modality-specific, very large and very brief; attention moves information into short-term memory, which is mainly acoustic, holds about 7 plus or minus 2 items and lasts about 18 to 30 seconds without rehearsal; a rehearsal loop keeps it there and transfers it to long-term memory, which is mainly semantic, effectively unlimited and potentially lifelong; retrieval brings it back." loading="lazy">
+  <figcaption>Attention, rehearsal and retrieval move information between three stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--02-msm-evidence.webp" width="900" height="998" alt="Evidence cards: Jacobs found spans of about 9 digits and 7 letters, Miller proposed 7 plus or minus 2 chunks and Cowan about 4; Baddeley (1966) found acoustic coding in STM and semantic in LTM. Bars show Peterson and Peterson's recall falling from about 90 percent at 3 seconds to about 10 percent or less at 18 seconds, and Bahrick et al.'s recognition of classmates at about 90 percent within 15 years and 70 percent after 48. Evaluation uses HM, KF, levels of processing and artificial stimuli." loading="lazy">
+  <figcaption>Each store’s capacity, duration and coding rests on a named study.</figcaption>
+</figure>
+
 ## Working memory model in one table
 
 | Component | Role | Coding | Capacity |
@@ -53,6 +63,11 @@ Explanations of forgetting are not listed in this section.
 | Phonological loop | Speech-based information; phonological store and articulatory process | Acoustic | About two seconds of speech |
 | Visuo-spatial sketchpad | Visual and spatial information | Visual and spatial | A few objects |
 | Episodic buffer (added 2000) | Integrates information into episodes; links to LTM | Multi-modal | A few chunks |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--03-working-memory-model.webp" width="900" height="849" alt="The central executive directs attention, has very limited capacity and stores nothing. Below it: the phonological loop (acoustic; phonological store and articulatory process; about two seconds of speech), the episodic buffer (added in 2000; multi-modal; a few chunks) and the visuo-spatial sketchpad (visual and spatial; a few objects). The word length effect and dual-task studies support it; the central executive is poorly specified." loading="lazy">
+  <figcaption>Each component has its own coding and its own limited capacity.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -73,6 +88,11 @@ Explanations of forgetting are not listed in this section.
 | Response bias | Wording affects the answer given, not the memory itself |
 | Substitution | Misleading information replaces part of the original memory |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--04-types-of-ltm.webp" width="900" height="657" alt="Three cards: episodic memory (personal experiences, explicit), semantic (facts, explicit) and procedural (skills, implicit). A table shows Clive Wearing lost most episodic memories but kept facts and could play the piano, and HM learned mirror-drawing without remembering practising. The types seem partly separate, but case studies are hard to generalise." loading="lazy">
+  <figcaption>Amnesia can remove episodic memory while leaving skills intact.</figcaption>
+</figure>
+
 ## Studies at a glance
 
 | Study | Finding | Use it for |
@@ -89,6 +109,16 @@ Explanations of forgetting are not listed in this section.
 | Yuille and Cutshall (1986) | Real-crime witnesses accurate months later | Limitation of lab EWT research |
 | Köhnken et al. (1999) | Meta-analysis: more correct information, slight rise in errors | Effectiveness of the cognitive interview |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--05-loftus-palmer.webp" width="900" height="613" alt="Bars: mean speed estimates of 40.5 mph with the verb smashed against 31.8 mph with contacted. A week later, 32 percent of the smashed group falsely reported broken glass, against 14 percent for hit and 12 percent for controls. The broken-glass finding supports substitution, where the memory itself is altered, over response bias." loading="lazy">
+  <figcaption>“Smashed” raised speed estimates and created false memories of broken glass.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--06-post-event-discussion.webp" width="900" height="601" alt="Bars show 71 percent of participants who discussed the crime reported details only their partner could have seen, against 0 percent of controls: memory conformity. Laboratory films lack real emotional consequences; Yuille and Cutshall (1986) found witnesses to a real shooting stayed highly accurate months later, suggesting lab studies may overstate the problem." loading="lazy">
+  <figcaption>Discussion led 71% to report details they never saw.</figcaption>
+</figure>
+
 ## The cognitive interview
 
 | Technique | Why it helps |
@@ -98,6 +128,11 @@ Explanations of forgetting are not listed in this section.
 | Reverse the order | Disrupts schema-driven reconstruction |
 | Change perspective | Reduces the effect of the witness's own expectations |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--07-cognitive-interview.webp" width="900" height="629" alt="Four techniques with reasons: report everything (trivial details cue others), reinstate the context (cues from encoding), reverse the order (disrupts schemas that fill gaps) and change perspective (reduces the witness's own schemas). Köhnken et al. (1999) found more correct information, with a small rise in incorrect details, more time and a need for training." loading="lazy">
+  <figcaption>Four techniques, each explained by how it cues or protects memory.</figcaption>
+</figure>
+
 ## Evaluation points to use
 
 - **Multi-store model:** supported by coding and duration studies and by HM; challenged by KF and by learning without rehearsal; much evidence uses artificial stimuli.
@@ -105,6 +140,11 @@ Explanations of forgetting are not listed in this section.
 - **Types of LTM:** clinical evidence supports separation, but case studies are hard to generalise and may involve damage to several areas.
 - **EWT research:** high control and causal conclusions, but artificial films lack real consequences.
 - **Cognitive interview:** increases correct recall but takes time and training.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-psychology-9685-memory--08-amira-application.webp" width="900" height="630" alt="Four steps applying the multi-store model to Amira: attention moved the number into STM, maintenance rehearsal kept it there long enough to dial, STM's limited duration meant it decayed once rehearsal stopped, and brief rehearsal did not transfer it to LTM." loading="lazy">
+  <figcaption>Pair every feature of the model with a detail from the scenario.</figcaption>
+</figure>
 
 ## Exam traps
 

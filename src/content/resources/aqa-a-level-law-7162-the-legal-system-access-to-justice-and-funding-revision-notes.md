@@ -33,6 +33,16 @@ Condensed notes for the section 3.1 row **The legal system: access to justice an
 
 Answer them in that order, applying each to the person's problem and means.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--01-obstacles-answers.webp" width="900" height="527" alt="Two obstacles to access to justice, knowledge (not realising a problem is legal) and cost (fees and the risk of paying the other side’s costs), are answered by three routes: free advice from help lines, Citizens Advice, law centres and trade unions; private funding through own resources, insurance and conditional fee agreements; and civil and criminal state funding." loading="lazy">
+  <figcaption>Free advice tackles knowledge; private and state funding tackle cost.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--07-worked-example-ayo.webp" width="900" height="679" alt="Ayo’s options. Advice: his trade union (best first step), Citizens Advice or a law centre, and Acas. Funding: a union-funded solicitor is most realistic; civil legal aid is unlikely as most employment matters are out of scope; own resources or a CFA are possible; check for BTE cover. Conclusion: contact the union first." loading="lazy">
+  <figcaption>Match each source to the person’s actual problem and means.</figcaption>
+</figure>
+
 ## Alternative sources of advice
 
 | Source | Key features | Best for |
@@ -43,6 +53,11 @@ Answer them in that order, applying each to the person's problem and means.
 | Trade unions | Advice and representation for members, often union solicitors | Employment disputes, workplace injuries |
 
 **Weaknesses:** uneven provision and funding; volunteers are not lawyers; union help is for members only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--02-advice-sources.webp" width="900" height="659" alt="Four advice sources with who runs them, what they offer and their limits: help lines (advice only), Citizens Advice (free advice from trained volunteers, generally not lawyers), law centres (advice and representation in social welfare law, but unevenly spread) and trade unions (members only, work problems). Provision is uneven, leaving advice deserts." loading="lazy">
+  <figcaption>Free advice works best early, but its uneven funding leaves gaps.</figcaption>
+</figure>
 
 ## Private funding
 
@@ -64,6 +79,16 @@ Answer them in that order, applying each to the person's problem and means.
 | Since April 2013 | Not recoverable from the loser; paid from damages; capped at 25% of damages (excluding future loss) in personal injury (LASPO) |
 | Related | Damages-based agreements: lawyer takes a percentage of damages |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--03-bte-ate.webp" width="900" height="534" alt="A timeline split at the point a dispute arises. Before-the-event insurance is taken out before any dispute, often as a cheap add-on to home or motor cover. After-the-event insurance is bought once a dispute exists, mainly to cover the other side’s costs if the claim fails, and premiums can be high." loading="lazy">
+  <figcaption>BTE is bought before trouble; ATE once the dispute exists.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--04-cfa-no-win-no-fee.webp" width="900" height="648" alt="If a CFA case is lost the lawyer takes no fee or a reduced fee; if won, the normal fee plus a success fee of up to 100%. A timeline: CFAs were permitted by the Courts and Legal Services Act 1990 (not for criminal or family cases); under the Access to Justice Act 1999 the success fee and ATE premium were recoverable from the loser; from April 2013 under LASPO the success fee comes from the client’s damages, capped at 25% in personal injury. LASPO also allowed damages-based agreements." loading="lazy">
+  <figcaption>Since LASPO, a winning client pays the success fee out of their damages.</figcaption>
+</figure>
+
 ## Public funding
 
 **Administered by:** the Legal Aid Agency (replaced the Legal Services Commission under LASPO 2012).
@@ -79,6 +104,16 @@ Answer them in that order, applying each to the person's problem and means.
 - Court representation: **interests of justice** test (loss of liberty, livelihood or reputation; substantial point of law; inability to understand or present the case) plus a **means test**.
 - Crown Court: income contributions, and capital contributions if convicted.
 - Duty solicitor at the magistrates' court on the day.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--05-civil-legal-aid.webp" width="900" height="629" alt="Three questions in order for civil legal aid. Scope: care proceedings, domestic abuse protection, home at risk, asylum and mental health tribunal cases are in; most private family law, clinical negligence, employment, welfare benefits and debt are out, though exceptional case funding under LASPO section 10 is possible if refusal would breach human rights. Then a means test on disposable income and capital, then a merits test." loading="lazy">
+  <figcaption>Scope comes first: since LASPO, many civil matters are simply outside legal aid.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding--06-criminal-legal-aid.webp" width="900" height="431" alt="Two stages of criminal legal aid. At the police station, advice is free to anyone detained through the duty solicitor scheme, with the right to a solicitor under s58 PACE 1984. Representation in court needs the interests of justice test and a means test, with Crown Court contributions. A duty solicitor at the magistrates’ court helps unrepresented defendants." loading="lazy">
+  <figcaption>Police station advice is free to all; court representation is tested on justice and means.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -73,6 +73,16 @@ Full explanation: [social change and changing families study guide](/resources/o
 | Internal migration | Urban jobs | Split households; children left with grandparents |
 | International migration | Work, safety, family reunion | Transnational families; diasporas |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--01-demographic-changes.webp" width="900" height="797" alt="A grid of family size, birth rate, death rate, infant and child mortality and ageing, each with what has happened and its main explanations, plus internal and international migration." loading="lazy">
+  <figcaption>Each demographic change reshapes the structure of families.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--02-beanpole.webp" width="900" height="652" alt="Left: an earlier family shape with few generations and many members in each. Right: a beanpole family of four generations with one or two members each and a pivot generation in the middle. Falling fertility and rising life expectancy produce the change." loading="lazy">
+  <figcaption>Lower fertility and longer lives make families long and thin.</figcaption>
+</figure>
+
 ## Industrialisation and urbanisation
 
 - **Parsons**: nuclear family fits industrial need for mobility. **Goode (1963)**: conjugal family
@@ -84,6 +94,11 @@ Full explanation: [social change and changing families study guide](/resources/o
 - **Urbanisation**: smaller, costly housing and distance from kin shrink households, but rural-urban
   networks keep extended ties alive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--03-industrialisation.webp" width="900" height="508" alt="Three positions on families and industrialisation: Parsons and Goode’s functionalist fit, Laslett and Anderson’s historical challenge, and Young and Willmott’s stages ending in the symmetrical family, with a note on urbanisation." loading="lazy">
+  <figcaption>Households shrink in cities, but family networks often stay extended.</figcaption>
+</figure>
+
 ## Explaining diversity
 
 - **Demographic**: ageing (beanpole, pivot); lower fertility (child-free, small families).
@@ -92,6 +107,11 @@ Full explanation: [social change and changing families study guide](/resources/o
   policies.
 - **Economic**: women's employment; housing costs; career mobility (LAT).
 - **Cultural**: secularisation; less stigma; individualisation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--04-diversity-types.webp" width="900" height="808" alt="A grid of pivot generation, reconstituted, living apart together, child-free and beanpole families with definitions and links to social change, and a note on laws such as divorce reform and China’s one-child policy." loading="lazy">
+  <figcaption>Each newer family type has a demographic, legal or cultural driver.</figcaption>
+</figure>
 
 ## Theorists
 
@@ -107,6 +127,16 @@ Full explanation: [social change and changing families study guide](/resources/o
 | Weeks and colleagues | Families of choice |
 | Pahl and Spencer (2006) | Personal communities blending friends and kin |
 | Charles and Davies | Pets described as kin |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--05-individualisation-smart.webp" width="900" height="519" alt="Individualisation theorists Beck, Beck-Gernsheim and Giddens see relationships as freely chosen and fragile; Smart argues people stay embedded in webs of relationships and proposes personal life. Stacey’s divorce-extended family illustrates postmodern diversity." loading="lazy">
+  <figcaption>Smart: choices are real, but made within relationships and histories.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-social-change-changing-families--06-care-chains.webp" width="900" height="511" alt="A global care chain: a migrant woman cares for a richer family’s children abroad while her own children are cared for by relatives or paid help. Cards cover Parreñas on transnational families and families of choice, personal communities and pets." loading="lazy">
+  <figcaption>Care and family life now stretch across borders and beyond kin.</figcaption>
+</figure>
 
 ## Exam traps
 

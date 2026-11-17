@@ -62,6 +62,11 @@ AQA 7517 specification (Version 1.6, 31 July 2023), section 4.4, assessed on Pap
 | **Composition** | Combining procedures into compound procedures, or data objects into compound data (e.g. a tree) |
 | **Automation** | Putting models into action: create algorithms, implement them in code, implement the models in data structures, execute the code |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--09-data-abstraction.webp" width="900" height="900" alt="A programmer uses push and pop; behind the interface an array or a linked list is hidden." loading="lazy">
+  <figcaption>Data abstraction hides how a stack is stored.</figcaption>
+</figure>
+
 ## Sets you must be able to read
 
 - `A = {1, 2, 3}`; set comprehension `A = {x | x ∈ ℕ ∧ x ≥ 1}` ("x such that x is a natural number and x ≥ 1").
@@ -100,6 +105,11 @@ language is regular if a regular expression can represent it, or equally if an F
 `a(a|b)*` needs two states (plus an optional dead state): S0 (start) --a--> S1 (accepting); S1 --a--> S1;
 S1 --b--> S1. A `b` from S0 goes to a dead state, so "ba" is rejected and "abba" is accepted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--08-fsm-a-plus-b.webp" width="900" height="1020" alt="State diagram with start state S0, S1 and an accepting S2 plus a dead state, accepting one or more a followed by b, with traces of aab, ab, b and aba." loading="lazy">
+  <figcaption>A state transition diagram for a+b, with four inputs traced through it.</figcaption>
+</figure>
+
 ## BNF and why it is more powerful than regular expressions
 
 ```
@@ -111,6 +121,11 @@ S1 --b--> S1. A `b` from S0 goes to a dead state, so "ba" is rejected and "abba"
 The third rule defines {0ⁿ1ⁿ | n ≥ 1}. BNF can represent languages a regular expression cannot because its
 rules can be **recursive**, so it can describe nesting and matching counts (brackets, 0ⁿ1ⁿ); an FSM has a
 fixed, finite number of states and cannot remember an unbounded count.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--11-bnf-recursion.webp" width="900" height="1130" alt="A derivation tree for QRS from the recursive rule letters ::= letter | letter letters." loading="lazy">
+  <figcaption>A recursive BNF rule builds a string of any length.</figcaption>
+</figure>
 
 ## Big-O: order of complexity
 
@@ -128,6 +143,16 @@ compared by how time (or space) grows with **the size of the problem**.
 
 **Deriving complexity:** a single loop over n items -> O(n); two nested loops over n -> O(n²); halving the
 data each step -> O(log n). Drop constants and lower-order terms: 3n² + 5n + 2 is O(n²).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--12-big-o-growth.webp" width="900" height="870" alt="Graph of O(1), O(log n), O(n), O(n log n), O(n squared) and O(2^n) for n from 0 to 10; the last two climb off the chart." loading="lazy">
+  <figcaption>Higher orders grow far faster; polynomial or better is tractable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--13-n2-vs-nlogn.webp" width="900" height="760" alt="A grid of 100 squares for 1,000,000 steps beside one square for about 9,966 steps." loading="lazy">
+  <figcaption>For 1000 items, n log n needs about 100 times fewer steps.</figcaption>
+</figure>
 
 ## Limits of computation
 
@@ -151,6 +176,11 @@ Transition function notation: `δ(S0, 1) = (S1, 0, R)` -- in state S0 reading 1,
 **Importance:** Turing machines give a general, formal model of computation and **define what is
 computable**. A **Universal Turing machine** can simulate any other Turing machine by reading that machine's
 description from its tape -- the idea behind a stored-program computer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-computer-science-theory-of-computation-study-guide--14-turing-add-one.webp" width="900" height="1100" alt="Tape 01011 with the head moving left, writing 0, 0 and finally 1, ending as 01100." loading="lazy">
+  <figcaption>Three steps turn 01011 (11) into 01100 (12).</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

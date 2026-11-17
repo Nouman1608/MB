@@ -70,6 +70,16 @@ yourself with the [India practice questions](/resources/edexcel-igcse-world-hist
 | Mar 1947 | Mountbatten becomes Viceroy |
 | 14–15 Aug 1947 | Independence and partition |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--08-in-timeline.webp" width="900" height="1065" alt="A timeline of India from 1919 to 1947 drawn to scale, with bands for Gandhi and Congress, key developments, the Second World War and partition, and events from the Rowlatt Acts to independence." loading="lazy">
+  <figcaption>Indian nationalism from the Rowlatt Acts to independence and partition, drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--13-in-partition.webp" width="900" height="1060" alt="A staircase: Simla Conference fails, Attlee’s government set on leaving, Cabinet Mission breaks down, Direct Action Day, Britain to leave by June 1948, Mountbatten brings the date forward, and independence on 14–15 August 1947. Violence killed hundreds of thousands and displaced over ten million; over 500 Princely States had to choose." loading="lazy">
+  <figcaption>Partition followed failed plans and was accompanied by great violence.</figcaption>
+</figure>
+
 ## Key people compared
 
 | Person | Aims | Methods | Key moments |
@@ -79,6 +89,11 @@ yourself with the [India practice questions](/resources/edexcel-igcse-world-hist
 | Jinnah | Protect Muslim rights; later Pakistan | Constitutional politics; Direct Action (1946) | Fourteen Points (1929), Lahore (1940) |
 | Bose | Immediate independence by force | Indian National Army with Japan | INA trials (1945–46) |
 | Mountbatten | Rapid British withdrawal | Partition plan; earlier date | 3 June 1947 plan; August 1947 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--10-in-gandhi.webp" width="900" height="1028" alt="Swaraj is pursued through satyagraha and ahimsa. Four methods: non-cooperation, boycotts, swadeshi (with the spinning wheel) and civil disobedience. Congress became a mass movement. Chauri Chaura in February 1922 led Gandhi to call off the movement." loading="lazy">
+  <figcaption>Gandhi sought swaraj through non-violent methods that made Congress a mass movement.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -107,6 +122,16 @@ yourself with the [India practice questions](/resources/edexcel-igcse-world-hist
 Use this pattern in essays: British policy mixed reform with force, and each act of repression
 strengthened nationalism.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--09-in-dyarchy.webp" width="900" height="820" alt="The Viceroy keeps final power at the centre. In the provinces, Indian ministers run transferred subjects (education, health) and British governors keep reserved subjects (finance, law and order). Weaknesses: a small electorate, the Viceroy’s power, and separate electorates." loading="lazy">
+  <figcaption>Dyarchy split provincial power between Indian ministers and British governors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--11-in-roundtable.webp" width="900" height="857" alt="Three round tables with one seat for Congress: the first conference boycotted, the second attended by Gandhi after the Gandhi–Irwin Pact but failing over minority representation, the third without Congress." loading="lazy">
+  <figcaption>Congress’s changing attendance weakened the Round Table Conferences.</figcaption>
+</figure>
+
 ## Worked example: two effects
 
 *Explain two effects of the 1937 elections.*
@@ -116,6 +141,11 @@ strengthened nationalism.
 2. The Muslim League's poor result, and Congress's refusal to share power with it, persuaded
    Jinnah that Muslims would be a permanent minority in a Congress-run India — pushing the League
    towards the Lahore Resolution of 1940.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-india-nationalist-challenge--12-in-congress-league.webp" width="900" height="1179" alt="Two lanes: Congress formed provincial governments in 1937, resigned in 1939, rejected Cripps and launched Quit India in 1942. The League did poorly in 1937, passed the Lahore Resolution in 1940, cooperated with Britain and won most Muslim seats in 1945–46." loading="lazy">
+  <figcaption>Congress and the Muslim League took opposite paths between 1937 and 1946.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

@@ -34,6 +34,11 @@ The [group behaviour study guide](/resources/cambridge-a-level-psychology-9990-g
 - **4.3.2**: social facilitation and loafing; drive theory; evaluation apprehension; social impact theory; loafing across cultures (e.g. Earley, 1993); monitoring, key study Claypoole and Szalma (2019), experiment 1.
 - **4.3.3**: four levels of conflict and causes; Thomas–Kilmann's five modes; bullying types, phases and causes (e.g. Einarsen, 1999).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--01-tuckman-stages.webp" width="900" height="537" alt="Five stages in sequence: forming, storming, norming, performing and adjourning, each with what happens. A dashed arrow shows that groups may return from performing to storming when membership changes. A project-team example runs along the bottom." loading="lazy">
+  <figcaption>Groups form, storm, norm, perform and adjourn, but not always in order.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -55,16 +60,31 @@ The [group behaviour study guide](/resources/cambridge-a-level-psychology-9990-g
 | Predatory bullying | Target singled out without provoking it |
 | Dispute-related bullying | Bullying arising from an escalating conflict |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--08-bullying.webp" width="900" height="610" alt="Four types of bullying in two pairs: work-related and person-related, predatory and dispute-related, with examples. Four phases follow in sequence: aggressive behaviour, bullying, stigmatisation of the target and severe trauma. A note lists causes." loading="lazy">
+  <figcaption>Bullying escalates from aggressive acts to severe trauma.</figcaption>
+</figure>
+
 ## Belbin's nine roles by group
 
 - **Thinking**: plant, monitor evaluator, specialist.
 - **People**: co-ordinator, teamworker, resource investigator.
 - **Action**: shaper, implementer, completer finisher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--02-belbin-roles.webp" width="900" height="504" alt="Belbin's nine roles in three groups: thinking (plant, monitor evaluator, specialist), people (co-ordinator, teamworker, resource investigator) and action (shaper, implementer, completer finisher), each with its contribution. A strength and weaknesses follow." loading="lazy">
+  <figcaption>A balanced team covers thinking, people and action roles.</figcaption>
+</figure>
+
 ## Groupthink: eight features and five remedies
 
 - **Features**: illusion of invulnerability; collective rationalisation; belief in group morality; stereotyping outsiders; pressure on dissenters; self-censorship; illusion of unanimity; mindguards.
 - **Remedies**: impartial leader who speaks last; devil's advocate; outside experts; subgroups; second-chance meeting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--03-groupthink.webp" width="900" height="652" alt="Eight features of groupthink, each with a workplace example, from illusion of invulnerability to mindguards. An arrow leads to five strategies: an impartial leader who speaks last, a devil's advocate, outside experts, subgroups and a second-chance meeting." loading="lazy">
+  <figcaption>Eight warning signs of groupthink, and five ways to break it.</figcaption>
+</figure>
 
 ## Facilitation and loafing compared
 
@@ -74,6 +94,16 @@ The [group behaviour study guide](/resources/cambridge-a-level-psychology-9990-g
 | Effect | Better on easy tasks, worse on hard | Less effort per person |
 | Explanation | Drive theory; evaluation apprehension | Social impact theory; diffusion of responsibility |
 | Reduced when | Task is well practised | Contributions are identifiable; group is valued |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--04-drive-theory.webp" width="900" height="763" alt="A flow from the presence of others to raised arousal to a more likely dominant response. On simple or well-learned tasks the dominant response is correct and performance improves; on complex or new tasks it is often wrong and performance worsens. A note gives Cottrell's evaluation apprehension alternative." loading="lazy">
+  <figcaption>Others raise arousal: good for easy tasks, bad for hard ones.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--05-social-loafing.webp" width="900" height="661" alt="The three factors of social impact theory (strength, immediacy, number), and a picture of an instruction's impact divided among one, three and ten people. A table of Earley (1993) shows American managers performing best alone, while Chinese and Israeli managers performed best with an in-group and loafed with an out-group." loading="lazy">
+  <figcaption>Impact is divided among the group; culture changes who loafs.</figcaption>
+</figure>
 
 ## Key study grid: Claypoole and Szalma (2019), experiment 1
 
@@ -87,9 +117,19 @@ The [group behaviour study guide](/resources/cambridge-a-level-psychology-9990-g
 | Interpretation | Social facilitation can occur through monitoring, not only physical presence |
 | Evaluation | Good control; limited to one task and session; ethics of monitoring |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--06-claypoole-szalma.webp" width="900" height="763" alt="Study card for Claypoole and Szalma (2019), experiment 1: aim, vigilance task and measure; conditions such as working alone, with an observer or under electronic monitoring; the finding that monitoring affected vigilance compared with working unmonitored; strengths and weaknesses." loading="lazy">
+  <figcaption>Being watched electronically can act like being watched in person.</figcaption>
+</figure>
+
 ## Thomas–Kilmann's five modes
 
 Competing (assertive, uncooperative); collaborating (assertive, cooperative); compromising (middle on both); avoiding (unassertive, uncooperative); accommodating (unassertive, cooperative).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-group-behaviour-in-organisations--07-thomas-kilmann.webp" width="900" height="712" alt="A grid with cooperativeness across and assertiveness up. Competing is high assertive, low cooperative; collaborating is high on both; compromising sits in the middle; avoiding is low on both; accommodating is low assertive, high cooperative. Each mode lists when it is useful." loading="lazy">
+  <figcaption>Five modes set by how assertive and how cooperative you are.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

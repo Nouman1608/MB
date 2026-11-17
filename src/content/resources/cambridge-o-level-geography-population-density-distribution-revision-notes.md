@@ -45,6 +45,16 @@ population density = population / area      (people per km²)
 named places and compass directions; (3) where it is sparse; (4) a figure from the key or scale.
 Leave the reasons out unless the question says explain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--01-density-vs-distribution.webp" width="900" height="715" alt="Two countries with the same area and the same number of people, so the same average density. In country X the dots are spread evenly; in country Y almost all are clustered along a river valley. Below, six small dot maps illustrate the words uneven, clustered, linear, dispersed, sparse and dense." loading="lazy">
+  <figcaption>The same average density can hide very different distributions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--05-district-densities.webp" width="900" height="565" alt="Two stacked bars compare shares of land and people. Riverside has about 5 per cent of the land but about 86 per cent of the people; the Dry Plateau has most of the land but few people. Densities: Riverside 1,200, Hill Country 30 and Dry Plateau 3 people per square kilometre, while the regional average of about 75 describes none of them well." loading="lazy">
+  <figcaption>A regional average of 75 hides densities of 1,200, 30 and 3.</figcaption>
+</figure>
+
 ## World pattern
 
 - **Dense:** South Asia, East Asia, Western Europe, north-eastern USA, Nile valley, Java.
@@ -68,6 +78,11 @@ Leave the reasons out unless the question says explain.
 - Historical: long-settled farming regions and old cities.
 - **Technology** (irrigation, desalination, air conditioning) can overcome physical limits.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--02-population-factors.webp" width="900" height="856" alt="A schematic landscape: sparse settlement on high, steep, cold mountains with people only in valleys; dense settlement on a flat, fertile, well-watered river lowland; and a dense port city with industry and trade. Below, physical factors (relief, climate, water and soils, vegetation) and human factors (economic, transport, political, historical). A note adds that technology and resources create exceptions." loading="lazy">
+  <figcaption>Separate physical from human factors, and say how each affects where people live.</figcaption>
+</figure>
+
 ## Case studies
 
 **Pakistan**
@@ -84,6 +99,16 @@ almost empty.
 **Canada** (a cold-land contrast): most people live in a narrow band in the south, close to the
 border with the USA, around cities such as Toronto, Montreal and Vancouver; the vast north is very
 sparsely populated because of long, severe winters, permafrost and a short growing season.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--03-pakistan-distribution.webp" width="900" height="830" alt="A schematic diagram of Pakistan with one dot per group of people. Dots crowd the Punjab plains (about half the population, with Lahore and Faisalabad), line the Indus valley and cluster at Karachi on the coast. Balochistan, the largest province by area with well under a tenth of the people, and the northern mountains have very few dots. Below, reasons for dense and sparse areas." loading="lazy">
+  <figcaption>People crowd onto flat, watered, fertile land and the port; dry plateau and mountains stay sparse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-density-distribution--04-egypt-brazil.webp" width="900" height="715" alt="Two schematic diagrams. Egypt: dots crowd the Nile valley and delta, while the desert on either side is almost empty. Brazil: dots line the Atlantic coast, especially the south-east, while the Amazon interior is sparse; a star marks Brasília, the capital inaugurated in 1960 partly to draw people inland." loading="lazy">
+  <figcaption>Water controls Egypt’s pattern; Brazil built a capital to change its pattern.</figcaption>
+</figure>
 
 ## Factors work together
 

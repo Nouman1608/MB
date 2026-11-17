@@ -31,6 +31,11 @@ Condensed notes for key question **6.3 How is crime dealt with in different soci
 2. **Side effects**: cost, labelling, reoffending, damage to trust.
 3. **Fairness**: equal impact on rich and poor; human rights; risk of error.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--03-judging-punishments.webp" width="900" height="698" alt="Three tests for any punishment: does it meet its aim, what are its side effects, and is it fair? A table gives strengths and limitations of prison, community sentences and probation, fines, tagging and restraining orders, capital punishment, and social media and vigilante groups." loading="lazy">
+  <figcaption>Effective at what, for whom, and compared with what?</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -68,6 +73,11 @@ Condensed notes for key question **6.3 How is crime dealt with in different soci
 | Ostracism | Shaming; protection | Isolation; no due process |
 | Social media and vigilantes | Informal shaming | Wrong targets; harassment; no due process |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--01-aims-of-punishment.webp" width="900" height="653" alt="Retribution looks back to the crime as deserved payback; protection of citizens, deterrence (individual and general), incapacitation and rehabilitation look to the future. Each has an example. Aims can conflict, as a long sentence may undermine rehabilitation." loading="lazy">
+  <figcaption>Retribution looks back; the other four aims look forward.</figcaption>
+</figure>
+
 ## Different societies
 
 - **Capital punishment**: retained in some countries and some US states; abolished in many others, including all EU member states.
@@ -76,6 +86,16 @@ Condensed notes for key question **6.3 How is crime dealt with in different soci
 - **Exile in history**: Britain transported convicts to Australia between 1788 and 1868.
 - **Ostracism**: shunning in some close-knit religious communities.
 - **Theory**: Durkheim, retributive (simple societies) to restitutive (complex societies); Foucault, sovereign to disciplinary power.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--04-other-punishments.webp" width="900" height="499" alt="Exile, such as British transportation to Australia from 1788 to 1868, and ostracism, such as shunning, protect the group but remove rather than reform. Corporal punishment, such as caning in Singapore, deters but is widely seen as a rights violation. Police cautions avoid labelling but may signal leniency." loading="lazy">
+  <figcaption>Exile and ostracism remove offenders; cautions try to avoid labelling them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--02-theories-of-punishment.webp" width="900" height="501" alt="Durkheim: punishment shifts from retributive in simple societies to restitutive, repairing harm, in complex ones. Foucault: from public, bodily sovereign power such as execution to disciplinary power through prisons, records and surveillance. Marxists add that punishment falls most on the working class." loading="lazy">
+  <figcaption>Punishment has moved from the body and outrage towards repair and surveillance.</figcaption>
+</figure>
 
 ## Policing (6.3.3)
 
@@ -88,6 +108,16 @@ Condensed notes for key question **6.3 How is crime dealt with in different soci
 | Social prevention | Tackles causes | Slow and costly |
 | Community policing | Trust; local information | Slower response to serious disorder |
 | Military style policing | Rapid control of disorder | Alienation; escalation |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--05-policing-strategies.webp" width="900" height="715" alt="Policing strategies on a line from community style, which builds trust, through targeting and stop and search, which detects crime but risks stereotyping, to military style, which restores order quickly but alienates communities. Zero tolerance in 1990s New York is debated because crime also fell elsewhere." loading="lazy">
+  <figcaption>Trust and force pull policing in opposite directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-6-3--06-prevention-and-surveillance.webp" width="900" height="616" alt="Situational crime prevention reduces opportunities cheaply but displaces crime; social crime prevention tackles causes but takes longer. Surveillance deters and detects but raises privacy and bias concerns. A diagram shows displacement: crime falls in a watched area and moves to an unwatched one." loading="lazy">
+  <figcaption>Watching one place can simply move crime to another.</figcaption>
+</figure>
 
 ## Model evaluation sentence
 

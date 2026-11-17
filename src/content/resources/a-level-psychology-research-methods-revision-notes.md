@@ -48,6 +48,16 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Psychology (
 - For each method: **describe** its features, **evaluate** it (reliability/validity/ethics), **apply**
   it to a novel scenario — this describe-evaluate-apply pattern recurs across every method.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--12-six-methods.webp" width="900" height="850" alt="Six cards for experiments, self-reports, case studies, observations, correlations and longitudinal studies, then describe, evaluate, apply." loading="lazy">
+  <figcaption>The six methods and the describe-evaluate-apply pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--13-experimental-designs.webp" width="900" height="1060" alt="Independent measures: different people per condition. Matched pairs: pairs split across conditions. Repeated measures: same people in both conditions." loading="lazy">
+  <figcaption>Who takes part in which condition under each design.</figcaption>
+</figure>
+
 ## Methodological concepts
 
 - **Variables**: identify and operationalise IV and DV in a scenario, not just define the terms.
@@ -60,6 +70,16 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Psychology (
   commonly confused pair.
 - **Data analysis**: mode, median, mean, range, standard deviation, bar charts/histograms/scatter graphs.
   No calculations or statistical tests beyond this are required.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--02-caffeine-variables.webp" width="900" height="700" alt="The caffeine study's independent variable (200 ml of coffee or decaffeinated coffee 30 minutes before) and dependent variable (target letters crossed out in two minutes). Below, controls: the same time of day, no caffeine beforehand, and a standardised procedure. A note defines confounding." loading="lazy">
+  <figcaption>Define the IV and DV precisely, then hold everything else constant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-methodological-concepts-as--03-sampling.webp" width="900" height="737" alt="Three panels each show a population of 40 dots with 8 picked. Opportunity sampling picks a cluster of whoever is available (quick, but unrepresentative); random sampling picks scattered dots (more representative, needs a full list); volunteer sampling picks those who respond to an advert (easy, but volunteers differ). A note covers generalisation." loading="lazy">
+  <figcaption>Opportunity is quick, random is fairest, volunteers may differ from everyone else.</figcaption>
+</figure>
 
 ## Paper structure: Section A and Section B
 
@@ -75,6 +95,11 @@ Condensed, exam-focused notes for Paper 2 of Cambridge AS & A Level Psychology (
 - **Not required at Paper 2**: aims/hypotheses in the plan, or evaluation of sample/generalisability or
   ethics — a deliberate contrast with Paper 4 at A Level, which does require these. Don't import Paper
   4's fuller requirements into a Paper 2 answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--18-planning-question.webp" width="900" height="950" alt="Include procedure, validity, reliability, data types and method-specific features. Not required: aims or hypotheses, and evaluating sample or ethics. Paper 4 does require these." loading="lazy">
+  <figcaption>What the Paper 2 planning question does and does not need.</figcaption>
+</figure>
 
 ## Exam technique for this topic
 
@@ -99,6 +124,11 @@ used, and procedural concerns such as pain, suffering or distress become the exa
 Applying the correct ethical framework for the participant type described in the scenario, rather than a
 single generic ethics checklist, is exactly what this concept tests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--17-ethics-two-sets.webp" width="900" height="870" alt="Human participants: minimising harm, consent, withdrawal, deception, confidentiality, privacy, debriefing. Animals: minimising harm, replacement, species, numbers, pain, housing, reward and deprivation." loading="lazy">
+  <figcaption>The two sets of ethical considerations.</figcaption>
+</figure>
+
 ## Worked example: validity vs reliability applied
 
 A memory experiment conducted in a quiet laboratory using a standardised word list produces very
@@ -109,6 +139,11 @@ actually functions in everyday situations, even though its reliability is excell
 illustrates why the two concepts must be evaluated separately rather than assumed to move together: a
 highly reliable study is not automatically a valid one, and building the habit of assessing both
 independently for any described study is precisely what Section A questions on this concept require.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-psychology-research-methods--16-validity-vs-reliability.webp" width="900" height="950" alt="Three targets: reliable but not valid, valid but not reliable, valid and reliable. Below, the validity and reliability types named in the lesson." loading="lazy">
+  <figcaption>Validity is about measuring what is claimed; reliability is about consistency.</figcaption>
+</figure>
 
 ## Self-test
 

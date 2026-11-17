@@ -86,6 +86,11 @@ In LICs and MICs, responses include rural electrification, roads to markets, mic
 
 The syllabus requires a case study of **a rural settlement or area**. Cover: location, recent population and economic change, causes (migration, urban growth), impacts on people and services, and responses with an evaluation. Use only facts you have checked.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--04-human-case-studies.webp" width="900" height="920" alt="A checklist of the five case studies the syllabus requires: a country's population policy (4.4), an international migration stream (5.4), a rural settlement or area (6.1), a shanty town in an LIC or MIC (6.4) and power or transport provision for a city (6.4). Each row has three ticks: a named place, real data and an evaluation. Below, three tiles for LIC, MIC and HIC remind students to spread examples across income groups." loading="lazy">
+  <figcaption>Prepare each case study with a named place, real data and a judgement of how well it worked, and spread examples across income groups.</figcaption>
+</figure>
+
 ## Worked case study outline: rural depopulation in Japan
 
 Japan is a well-documented HIC example of rural decline. Many rural and mountain municipalities have lost population for decades as young people moved to Tokyo, Osaka and other cities, while the national birth rate fell.

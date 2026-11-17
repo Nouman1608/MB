@@ -52,6 +52,16 @@ and A-level Geography 9635, Unit 1, option 1b). For the full explanation, read t
   cliffs and rocky platforms. **Low-energy coasts** are sheltered: deposition exceeds erosion, giving
   beaches, mudflats and saltmarsh.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--01-tidal-range-attack.webp" width="900" height="623" alt="Two schematic cliff cross-sections. With a small tidal range, high and low tide lines are close together, wave attack is focused on a narrow band and a notch forms. With a large tidal range, attack is spread over a wide zone and a broad wave-cut platform forms. Below, wave energy depends on wind speed, duration and fetch, and currents move released sediment." loading="lazy">
+  <figcaption>A small tidal range focuses erosion into a notch; a large range spreads it into a platform.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--13-wave-refraction.webp" width="900" height="880" alt="Seen from above, waves approach a coast with a headland in the middle and a bay each side. The wave fronts curve to follow the coast and the arrows showing wave direction bunch together at the headland and spread apart at the bays. This shows wave energy concentrated on the headland, which erodes, and spread in the bays, where sediment is deposited." loading="lazy">
+  <figcaption>Refraction concentrates wave energy on headlands and spreads it in bays, so headlands erode and bays tend to receive deposition.</figcaption>
+</figure>
+
 ## Erosion, transport and waves
 
 - **Erosion:** hydraulic action (water compresses air in cracks), abrasion (rock fragments scour),
@@ -111,6 +121,21 @@ slack water, aided by **flocculation** (clay particles clump together in salt wa
 colonised by salt-tolerant pioneer plants, which trap more sediment and raise the surface, allowing a
 succession of plants as the marsh is flooded less often.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--03-cliff-and-platform.webp" width="900" height="760" alt="Six schematic cross-sections: waves attack the cliff base between high and low tide; a notch is cut; the overhang collapses; debris is removed and the cliff retreats; a wave-cut platform widens; and retreat slows because waves break further offshore, a negative feedback." loading="lazy">
+  <figcaption>Notch, collapse, retreat: the platform that is left eventually slows the retreat.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--04-cliff-profile-geology.webp" width="900" height="620" alt="Two schematic cross-sections. Where rock beds dip seawards, blocks slide along the bedding planes and the cliff slopes at about the angle of dip. Where beds dip landwards, the cliff is steep. Below, strong jointed rock forms high vertical faces, weak clays slump, and sub-aerial processes lower the top while marine erosion steepens the base." loading="lazy">
+  <figcaption>Dip, rock strength and the balance of sub-aerial and marine processes set a cliff's profile.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-geography-9696-coastal-environments--18-coast-spit-recurves.webp" width="900" height="970" alt="Two plan views. Where the coastline changes direction, longshore drift carries sediment straight on into open water and builds a spit. A simple spit has one recurved end. A compound spit has several recurves on its landward side, numbered 1 to 4 from oldest to current end, each recording an earlier end of the spit. Schematic." loading="lazy">
+  <figcaption>A spit grows where drift continues past a change in coastline direction; each recurve of a compound spit records an earlier end.</figcaption>
+</figure>
+
 ## Sea level change
 
 | Type | Cause |
@@ -130,6 +155,11 @@ rise occurred before roughly 6 000 years ago.
 - **Recent and predicted climate change:** thermal expansion and melting ice raise sea level, and
   storms may intensify, increasing flooding and erosion on low coasts, deltas and islands.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-geography-coastal-environments--18-sea-level-change-landforms.webp" width="900" height="1000" alt="Two boxes name the causes of sea level change: eustatic, a change in the volume of ocean water, and isostatic, a change in land level. Two valley cross-sections show a relative rise: a V-shaped river valley flooded to form a ria and a U-shaped glaciated valley flooded to form a fjord. A coastal profile shows a relative fall, leaving a raised beach platform and a relict cliff above the present sea level." loading="lazy">
+  <figcaption>Eustatic and isostatic change can raise or lower sea level relative to the land, forming rias and fjords or raised beaches and relict cliffs.</figcaption>
+</figure>
+
 ## Sediment cells
 
 A **sediment cell** is a largely closed system of **sources, transfers and sinks** of sediment.
@@ -139,6 +169,11 @@ knock-on effect is the key evaluation point.
 
 A **sediment budget** compares inputs with outputs: a positive budget means the coast is building
 out; a negative budget means it is eroding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--02-sediment-budget-sea-wall.webp" width="900" height="704" alt="Two bar diagrams to scale. In the natural bay, inputs of 12,000 cubic metres from cliffs and 4,000 from a river exceed outputs of 9,000 by drift and 2,500 by storms, giving plus 4,500 a year. After a sea wall stops cliff erosion, inputs fall to 4,000 against the same outputs, giving minus 7,500 a year." loading="lazy">
+  <figcaption>Stopping cliff erosion turns a gaining beach into a losing one.</figcaption>
+</figure>
 
 ## Management
 
@@ -155,6 +190,11 @@ choose, for each stretch, to **hold the line**, **advance the line**, carry out 
 realignment** or take **no active intervention**. **Integrated coastal zone management (ICZM)**
 coordinates all users and agencies -- fishing, tourism, ports, conservation, housing -- over a whole
 coastline rather than defending one town at a time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--05-management-options.webp" width="900" height="680" alt="Hard engineering (sea walls, groynes, rip-rap, revetments) gives immediate protection but costs more and interrupts sediment supply; soft engineering works with natural processes, as in the Netherlands Sand Motor of 2011. Below, the four shoreline management plan policies and integrated coastal zone management." loading="lazy">
+  <figcaption>Judge each option by its effects on the whole sediment cell, not one town.</figcaption>
+</figure>
 
 ## Case studies
 

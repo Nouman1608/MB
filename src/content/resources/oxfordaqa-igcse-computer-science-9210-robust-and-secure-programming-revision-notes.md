@@ -46,6 +46,16 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-robust-and-secure-progra
 | Minimum length *n* | `LEN(s) ≥ n` | `LEN(s) < n` |
 | Range low to high | `x ≥ low AND x ≤ high` | `x < low OR x > high` |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--01-robust-and-secure.webp" width="900" height="640" alt="A robust program keeps working sensibly with unexpected input and is supported by validation; a secure program only lets authorised users in and is supported by authentication; testing checks both. Validation only checks that data is reasonable: an age of 15 passes a range check of 11 to 18 even if the user is really 16." loading="lazy">
+  <figcaption>Validation makes a program robust, authentication makes it secure, and testing checks both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--03-validation-checks.webp" width="900" height="630" alt="Three checks, each written as the condition that makes input invalid: presence, LEN(name) = 0; minimum length, LEN(username) &lt; 6; range, qty &lt; 1 OR qty > 20. On a length line from 0 to 7, lengths 0 to 5 fail the minimum-length check and 6 or more pass; the empty string, length 0, is already rejected, so a separate presence check is not needed." loading="lazy">
+  <figcaption>Checks can overlap: the minimum-length check already rejects an empty string.</figcaption>
+</figure>
+
 ## Two loop templates
 
 ```
@@ -61,6 +71,11 @@ WHILE LEN(code) < 4
   code ← USERINPUT
 ENDWHILE
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--02-validation-loop.webp" width="900" height="906" alt="Pseudocode and a flowchart for validating an age from 11 to 18. After the first input, while age &lt; 11 OR age > 18 is True the program shows an error message and asks again; once it is False the valid age is used. The REPEAT version instead repeats until age ≥ 11 AND age ≤ 18." loading="lazy">
+  <figcaption>Keep asking until the input passes; the invalid test uses OR, the valid test uses AND.</figcaption>
+</figure>
 
 ## Authentication essentials
 
@@ -81,6 +96,11 @@ REPEAT
 UNTIL ok OR attempts = 3
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--04-authentication-routine.webp" width="900" height="830" alt="A flowchart of the login routine. The username and password are input and checked together with AND. If both match, success is set to True; otherwise attempts goes up by 1 and a message says &quot;Incorrect username or password&quot;. The loop repeats until success OR attempts = MaxAttempts, then outputs Welcome or access denied." loading="lazy">
+  <figcaption>Check both items with AND; stop on success OR when the attempts run out.</figcaption>
+</figure>
+
 ## Test data
 
 | Type | What it is | Range 1 to 10 example | Should be |
@@ -91,6 +111,16 @@ UNTIL ok OR attempts = 3
 | Erroneous | Invalid data | 47, −3, `"five"` | Rejected |
 
 Some sources call 0 and 11 erroneous. **Always state the expected result**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--05-test-data-quantity.webp" width="900" height="728" alt="A number line with the valid range 1 to 20 shaded. Normal data 7 is accepted. Boundary values 1 and 20 are accepted, and 0 and 21 just outside are rejected. Erroneous data such as 35, −4 and the text &quot;ten&quot; is rejected. Each type is listed with what the test proves." loading="lazy">
+  <figcaption>Test inside, on and just beyond each limit, plus wrong data, and state the expected result for each.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming--06-password-test-plan.webp" width="900" height="618" alt="Four tests for a rule that passwords must be at least 8 characters. Sunbird42x (10 characters) is normal and accepted; Sunbird4 (8) is boundary and accepted, checking ≥ not >; Sunbird (7) is boundary and rejected as the longest invalid length; the empty string is erroneous and rejected." loading="lazy">
+  <figcaption>Test just on and just below the minimum length, plus a typical and an empty value.</figcaption>
+</figure>
 
 ## Justifications to reuse
 

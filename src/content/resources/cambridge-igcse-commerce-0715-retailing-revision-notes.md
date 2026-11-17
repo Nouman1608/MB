@@ -50,6 +50,21 @@ Condensed notes for section 2.3 of Cambridge IGCSE Commerce (0715). For full tab
 **Supermarket vs hypermarket**: hypermarkets are larger, usually out of town and sell much more non-food.
 **Chain store vs department store**: a chain has many branches; a department store has many departments in one building.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--18-co-retailers.webp" width="900" height="850" alt="Ten retailer types in the syllabus order, and three reasons small shops survive." loading="lazy">
+  <figcaption>Ten retailer types; small shops survive through service, hours and extras.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--01-small-and-large-scale.webp" width="900" height="480" alt="Retailers sorted by scale. Small-scale: itinerant retailers, independent retailers, street markets and many speciality shops. Large-scale: multiple chain stores, supermarkets, hypermarkets and department stores. Vending machines and online retailers can be either." loading="lazy">
+  <figcaption>Most retailer types sit clearly on one side; vending machines and online retailers can be either.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--02-large-scale-retailers.webp" width="900" height="575" alt="Four columns compare a multiple chain store, a supermarket, a hypermarket and a department store by their features, one advantage and one disadvantage." loading="lazy">
+  <figcaption>Each large-scale retailer has distinctive features; name them, not just its size.</figcaption>
+</figure>
+
 ## Small-scale survival: the syllabus three
 
 - **Personal service**: knows customers, gives advice, orders specials.
@@ -57,6 +72,16 @@ Condensed notes for section 2.3 of Cambridge IGCSE Commerce (0715). For full tab
 - **Additional services**: delivery, informal credit, bill payments, selling mobile phone credit.
 
 Also accepted: convenience of location, local products.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--03-small-retailer-survival.webp" width="900" height="575" alt="A small-scale retailer survives through three syllabus examples: personal service, flexible opening hours and additional services such as delivery or informal credit. Convenience and local products are further reasons." loading="lazy">
+  <figcaption>Turn each reason into an explanation of what the small shop does that a large store cannot.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--07-corner-fresh-answer.webp" width="900" height="560" alt="Two reasons, each worth two marks: name personal service and explain it by contrast with the hypermarket, then name flexible opening hours and explain why they suit customers when the hypermarket needs a car journey." loading="lazy">
+  <figcaption>Name each reason for one mark, then explain it against the hypermarket for the second.</figcaption>
+</figure>
 
 ## Eleven selling techniques
 
@@ -68,6 +93,11 @@ Quick links:
 - **Barcoding** = fast checkout and automatic stock control (works with EPoS).
 - **Informal credit** = small shops; trust-based, no contract.
 - **Cash on delivery** = pay when goods arrive; builds trust in online buying.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--04-selling-techniques.webp" width="900" height="680" alt="The eleven selling techniques grouped by how they help sales: recognition (branding, logos, packaging), price and cost (own brands, self service), loyalty (loyalty programmes, direct mail, informal credit), confidence (after-sales service, cash on delivery) and speed (barcoding)." loading="lazy">
+  <figcaption>Name the technique, then say how it raises sales or loyalty for the retailer.</figcaption>
+</figure>
 
 ## Eleven digital retail trends
 
@@ -81,6 +111,16 @@ Omnichannel retailing, cashless stores, EPoS, click and collect, self-service ch
 | Buy online, collect or return in store in one account | Shop and website may differ in prices or stock |
 
 **Dropshipping**: retailer takes the order; supplier ships straight to the customer; retailer holds no stock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--05-omnichannel-vs-multichannel.webp" width="900" height="650" alt="Left: in multi-channel retailing the shop, website and app each have their own stock and prices. Right: in omnichannel retailing every channel links to shared stock and one customer account. Below, one journey: check stock in the app, reserve online, collect in store, return by post." loading="lazy">
+  <figcaption>Omnichannel joins the channels up; multi-channel only runs several side by side.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--06-dropshipping-click-collect.webp" width="900" height="565" alt="Dropshipping: the customer orders from the retailer, the retailer passes the order to the supplier, and the supplier sends the goods straight to the customer, so the retailer holds no stock. Click and collect: the customer orders online and picks up from a store or collection point." loading="lazy">
+  <figcaption>A dropshipper never holds the goods; with click and collect the customer fetches them.</figcaption>
+</figure>
 
 ## Ecommerce and traditional commerce
 

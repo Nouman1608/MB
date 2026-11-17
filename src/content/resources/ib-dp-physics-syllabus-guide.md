@@ -79,6 +79,11 @@ project, and a scientific investigation).
 - **E.4 Fission**
 - **E.5 Fusion and stars**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-syllabus-guide--02-teaching-hours-by-theme.webp" width="900" height="820" alt="Paired bars of recommended hours: Theme A 27 SL and 42 HL, Theme B 24 and 32, Theme C 17 and 29, Theme D 19 and 38, Theme E 23 and 39. Total teaching time is 150 hours at SL and 240 at HL, including a 40-hour or 60-hour experimental programme." loading="lazy">
+  <figcaption>Theme A is the largest at both levels; Theme D gains the most hours at HL.</figcaption>
+</figure>
+
 ## How the five themes connect
 
 The syllabus is built around a small set of recurring models --
@@ -144,6 +149,11 @@ as in the internal assessment itself, so strong performance in DP
 Physics depends as much on this experimental fluency as on recalling
 the five themes' content.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-syllabus-guide--03-experimental-programme.webp" width="900" height="730" alt="The 40-hour SL or 60-hour HL experimental programme is made up of practical work, a collaborative sciences project shared with other group 4 subjects and an internally assessed scientific investigation. It builds three skills, designing a fair test, reducing uncertainty and interpreting unfamiliar data, which are examined in the written papers and the internal assessment." loading="lazy">
+  <figcaption>The practical skills are examined twice: in the papers and in the investigation.</figcaption>
+</figure>
+
 ## Why HL-only content clusters where it does
 
 HL-only content -- A.4 and A.5 in Theme A, B.4 in Theme B, D.4 in
@@ -158,6 +168,11 @@ than a direct extension of SL field content. Recognising this pattern
 helps HL students anticipate which parts of each theme carry the extra
 conceptual weight, rather than assuming HL content is simply "more of
 the same" SL material at a faster pace.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-syllabus-guide--01-course-map-hl-only.webp" width="900" height="1009" alt="Five theme panels list sub-topics A.1 to E.5. Five are HL only: A.4 rigid body mechanics, A.5 Galilean and special relativity, B.4 thermodynamics, D.4 induction and E.2 quantum physics." loading="lazy">
+  <figcaption>HL-only content clusters where the core models become more abstract.</figcaption>
+</figure>
 
 ## Data-based and practical-skills assessment
 
@@ -188,6 +203,11 @@ formula-heavy, a common error is treating "explain" as though it only
 requires stating and applying a formula -- full marks typically also
 require stating the physical reasoning the formula represents, not
 just the calculation itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-physics-syllabus-guide--04-command-term-ladder.webp" width="900" height="740" alt="Four steps of rising demand: state or define asks for a precise recalled fact; describe for an account of a pattern or process without explanation; explain for a reasoned account of why, often backed by a named law; evaluate or discuss for weighing a model, method or conclusion, including limitations. A warning notes that explain needs the physical reasoning behind a formula, not just the calculation." loading="lazy">
+  <figcaption>Each command term asks for more than the one below it.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

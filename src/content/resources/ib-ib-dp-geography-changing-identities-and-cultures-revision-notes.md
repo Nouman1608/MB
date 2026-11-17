@@ -67,6 +67,11 @@ economy: K-pop groups such as BTS and Korean series such as *Squid Game* (2021) 
 audiences, helped by streaming platforms and by South Korean government support for cultural
 exports as a form of soft power. Bollywood films and Japanese anime are other examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-human-development-diversity-study-guide--20-dev-culture-outcomes.webp" width="900" height="1100" alt="Cultural diffusion spreads through migration, trade, media and digital networks, with three outcomes: homogenisation, hybridisation or glocalisation, and resistance and revival." loading="lazy">
+  <figcaption>Global interactions can homogenise, blend or provoke defence of cultures.</figcaption>
+</figure>
+
 ## Evidence for each argument
 
 | Homogenisation (erosion) | Hybridisation and new forms |

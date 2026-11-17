@@ -39,6 +39,11 @@ Assesses   L1 select information, L2 ideas, opinions and attitudes
 Heard      twice, with pauses to read and write
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--01-exercise-at-a-glance.webp" width="900" height="560" alt="Paper 2 Exercise 1 has eight short-answer questions for 8 marks on short spoken texts such as a travel announcement (اعلان), a recorded phone message (پیغام) or a brief dialogue (مکالمہ), heard twice and testing L1 and L2." loading="lazy">
+  <figcaption>Eight stated facts from short recordings, each heard twice.</figcaption>
+</figure>
+
 ## Key terms
 
 | Urdu | English |
@@ -64,6 +69,11 @@ Heard      twice, with pauses to read and write
 
 Answers follow the order of the text, so if you miss one, move straight on to the next question.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--02-text-types.webp" width="900" height="635" alt="A table of short listening text types with their typical openings and details: an announcement (مسافر توجہ فرمائیں) gives destination, time, gate and changes; a phone message gives caller, reason and new arrangements; a dialogue gives plans; a weather report (آج ... کا امکان ہے) gives places, temperatures and advice." loading="lazy">
+  <figcaption>Knowing the shape tells you where each detail will come.</figcaption>
+</figure>
+
 ## Question word → answer form
 
 - **کب؟ / کس دن؟** a day or date
@@ -72,6 +82,11 @@ Answers follow the order of the text, so if you miss one, move straight on to th
 - **کتنے؟ / کتنی؟** a number or amount (with its unit)
 - **کون؟** a person or group
 - **کیوں؟** a reason, often after کیونکہ or کی وجہ سے
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--03-question-words.webp" width="900" height="948" alt="A table of Urdu question words and the answer form each needs: کب؟ a day or date, کتنے بجے؟ a clock time, کہاں؟ a place, کتنے؟ a number, کون؟ a person, کیا؟ an object or action, کیوں؟ a reason. For where, write پلیٹ فارم نمبر دو, not just دو." loading="lazy">
+  <figcaption>Recognise the question word in the pause and predict the answer.</figcaption>
+</figure>
 
 ## Numbers that sound alike
 
@@ -82,6 +97,11 @@ Answers follow the order of the text, so if you miss one, move straight on to th
 - پچیس 25 / پچاس 50 / پچپن 55
 
 Figures are fine in your answer if they are quicker and certain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--04-numbers.webp" width="900" height="788" alt="A table of Urdu numbers that are easy to confuse at speed: سترہ and ستر (17 and 70), اٹھارہ and اسی (18 and 80), اٹھائیس, اڑتیس and اڑتالیس (28, 38, 48), انتیس, انتالیس and انچاس (29, 39, 49), and پچیس, پچاس and پچپن (25, 50, 55), with the sound that tells them apart." loading="lazy">
+  <figcaption>Drill these pairs until they are automatic; write figures in the answer.</figcaption>
+</figure>
 
 ## Times and days
 
@@ -98,6 +118,11 @@ Figures are fine in your answer if they are quicker and certain.
 - **پیر** = **سوموار** = Monday.
 - Parts of the day: صبح، دوپہر، سہ پہر، شام، رات.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--05-times-and-days.webp" width="900" height="880" alt="A timeline from seven to eight o'clock marking سوا سات بجے (7:15), ساڑھے سات بجے (7:30) and پونے آٹھ بجے (7:45, a quarter to eight, not 8:45), with ڈیڑھ بجے (1:30) and ڈھائی بجے (2:30). Below, جمعرات is Thursday, جمعہ Friday, ہفتہ Saturday or week, and پیر and سوموار both mean Monday." loading="lazy">
+  <figcaption>پونے means a quarter to: پونے آٹھ is 7:45.</figcaption>
+</figure>
+
 ## Signals of a change
 
 - **کے بجائے**: the word *before* it is the old detail.
@@ -105,12 +130,22 @@ Figures are fine in your answer if they are quicker and certain.
 - **پہلے ... لیکن اب ...**: the detail after لیکن is current.
 - **معاف کیجیے / میرا مطلب ہے**: a self-correction; the corrected detail counts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--06-change-signals.webp" width="900" height="644" alt="In گاڑی دس بجے کے بجائے گیارہ بجے روانہ ہوگی۔ the old time is دس and the new time, the answer, is گیارہ. Signals of a change are کے بجائے, اب, معاف کیجیے / میرا مطلب ہے and پہلے ... تھا، لیکن." loading="lazy">
+  <figcaption>After کے بجائے or لیکن comes the detail that counts now.</figcaption>
+</figure>
+
 ## The two-hearing routine
 
 1. **Pause:** read every question, circle the question word, predict the form.
 2. **First hearing:** notes only, key words and figures.
 3. **Second hearing:** confirm, fill gaps, check changes.
 4. **After:** short, complete answers; no blanks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions--07-two-hearings.webp" width="900" height="602" alt="Four stages: in the pause read the questions and predict answer forms; on the first hearing note key words and figures only; on the second hearing confirm and check changes; afterwards write each short answer clearly and leave no blanks." loading="lazy">
+  <figcaption>Notes on the first hearing, checking on the second, answers after.</figcaption>
+</figure>
 
 ## Exam traps
 

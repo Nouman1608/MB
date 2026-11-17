@@ -46,6 +46,16 @@ featured: false
 
 **CCTV tracking (e.g. Gil et al., 2009)**: objective, reliable record of routes; shows where, not why; privacy concerns; five patterns simplify real behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--01-wayfinding.webp" width="900" height="786" alt="Four factors help wayfinding: directional and identification signs, aligned &quot;you are here&quot; maps at entrances and junctions, landmarks and a simple layout, and familiarity. A schematic contrasts an aligned map, where up means straight ahead, with one that is not aligned. Dogu and Erkip (2000) surveyed shoppers in one mall." loading="lazy">
+  <figcaption>Signs, aligned maps, landmarks and familiarity all help shoppers find their way.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--02-trip-types.webp" width="900" height="737" alt="Four schematic store plans: a short trip enters, visits one area and leaves; a round trip follows the outer edge; a central trip goes through the central aisles; a wave trip zig-zags up and down the aisles. Five spatial behaviour patterns range from focused specialist and native visits, through broad tourist and explorer routes, to fast raider visits. Gil et al. (2009) tracked routes by CCTV." loading="lazy">
+  <figcaption>Trip types describe routes; spatial patterns describe styles of shopping.</figcaption>
+</figure>
+
 ## 2.2.2 Menu design
 
 | Feature | Effect |
@@ -60,6 +70,16 @@ featured: false
 - **Eye-tracking**: records where and for how long diners look.
 - **Dayan and Bar-Hillel (2011)**: items at the beginning or end of a category list chosen more often.
 - **Lockyer (2006)**: dish names and descriptions influence choice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--03-menu-design.webp" width="900" height="782" alt="Two schematic menus: a positive one with clear categories and a boxed, highlighted item, and a negative one with prices in a neat column that invites comparing by price. Lists of positive features (highlighting, clear categories, accurate descriptions, readable font) and negative features (price column, too many items, clutter) follow; eye-tracking can test them objectively." loading="lazy">
+  <figcaption>Highlight what you want to sell; do not line prices up for comparison.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--04-menu-position.webp" width="900" height="652" alt="A menu category of five items: the first and last are chosen more often than the same items in the middle, matching primacy and recency effects in which first and last items get more attention and are better remembered." loading="lazy">
+  <figcaption>Put the dishes you want to sell first or last in a category.</figcaption>
+</figure>
 
 ## 2.2.3 Personal space
 
@@ -78,6 +98,11 @@ featured: false
 | Strength | Large sample; random assignment to conditions; clear application |
 | Weakness | Imagined situations; one culture |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--10-co-robson-table-spacing.webp" width="900" height="1180" alt="Three table pairs with a gap drawn in proportion to 6, 12 and 24 inches. At 6 inches diners had more stress and less privacy and control than at 12 or 24. 1,013 people, 3 distances by 3 scenarios." loading="lazy">
+  <figcaption>Closer tables caused more stress and less control.</figcaption>
+</figure>
+
 ### Queue intrusion: Milgram et al. (1986)
 
 - Confederates pushed into real New York queues.
@@ -85,6 +110,21 @@ featured: false
 - **Social structure**: people behind the intrusion point objected most; passive "buffers" reduced objection.
 - **Responses**: mainly verbal; some non-verbal; physical action rare.
 - Evaluate: high ecological validity; deception and no consent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--06-queue-intrusion.webp" width="900" height="835" alt="A schematic queue: an intruder steps in with a brief neutral comment; people directly behind the intrusion point object most, those in front less. Two intruders caused more objection than one; passive buffers behind the intruder reduced objection; responses were mostly verbal, physical action rare. Real queues give ecological validity but raise ethical and cultural issues." loading="lazy">
+  <figcaption>People who lost their place objected most; buffers took the pressure off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-consumer-psychology--09-co-personal-space-zones.webp" width="900" height="1210" alt="Concentric circles drawn to scale (100 px = 1 m): intimate up to 45 cm, personal 45 cm to 1.2 m, social 1.2 to 3.6 m, public beyond 3.6 m." loading="lazy">
+  <figcaption>Hall's four zones of personal space.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-psychological-environment--05-personal-space-functions.webp" width="900" height="476" alt="Three functions of personal space: overload (keeping distance reduces overwhelming stimulation), arousal (closeness is pleasant with a partner, unpleasant with strangers) and behaviour constraint (others too close limit freedom to talk or move). Applied to close restaurant tables, overheard conversations and limits on what diners say explain why the romantic scenario was most affected." loading="lazy">
+  <figcaption>Distance protects us from overload, unwanted arousal and constraint.</figcaption>
+</figure>
 
 ## Key terms
 

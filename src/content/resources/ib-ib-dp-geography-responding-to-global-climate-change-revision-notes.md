@@ -51,6 +51,11 @@ More examples to quote:
 Some actions do both: restoring mangroves stores carbon (mitigation) and protects coasts from storm
 surges (adaptation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--04-gc-adapt-mitigate.webp" width="900" height="1100" alt="Greenhouse gas emissions lead to climate change, which leads to impacts such as sea-level rise and heatwaves. Mitigation acts on the cause by reducing it. Adaptation manages the effects, for example flood defences and drought-resistant crops." loading="lazy">
+  <figcaption>Mitigation reduces the causes of climate change; adaptation manages its effects.</figcaption>
+</figure>
+
 ## Government-led responses
 
 - Global geopolitical efforts, recognising that sources of emissions may be spatially distant from the
@@ -124,6 +129,16 @@ contrasting vulnerability**.
 A useful pair is the Netherlands and Bangladesh: both are low-lying deltas, but the Netherlands has
 the wealth and institutions to fund advanced defences, while Bangladesh relies more on community
 preparedness and international finance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--05-gc-vulnerability-parts.webp" width="900" height="960" alt="A climate hazard feeds into exposure (the place faces the hazard), sensitivity (housing and infrastructure) and adaptive capacity (resources and institutions). Together they make vulnerability. The IB guide names these factors behind differences between places: location, wealth, age, gender, education and risk perception." loading="lazy">
+  <figcaption>Vulnerability can be analysed as exposure, sensitivity and adaptive capacity; the lesson says this is its own framework, not IB wording.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--06-gc-two-places.webp" width="900" height="1060" alt="Two places face the same flood level. Place A has low-lying, poorly built housing and fewer resources and weaker institutions, so it suffers more harm. Place B has strong building codes, better drainage and greater financial and institutional capacity, so it suffers less harm." loading="lazy">
+  <figcaption>Two places face the same flood hazard but vulnerability differs, so outcomes differ.</figcaption>
+</figure>
 
 ## Evaluating a response
 

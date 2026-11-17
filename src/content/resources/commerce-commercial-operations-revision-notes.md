@@ -46,6 +46,11 @@ partners in an ordinary partnership all have unlimited liability; it becomes lim
 incorporation, when the private limited company is a separate legal person. Also know: cooperative, public limited company,
 public corporation (public sector).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--15-co-ownership.webp" width="900" height="670" alt="A sole trader keeps all profit but is personally liable; a partnership shares profit and liability; a private limited company sells shares privately and liability is limited to what owners invested." loading="lazy">
+  <figcaption>The tailoring example shows how ownership and liability change.</figcaption>
+</figure>
+
 ## Location factors — two lists, don't mix them
 
 | Physical location factors | Ecommerce location factors |
@@ -54,6 +59,11 @@ public corporation (public sector).
 | Raw materials, competition | Technology specialists |
 | Suppliers, communication, government influence | Logistics |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--16-co-location.webp" width="900" height="800" alt="Nine physical location factors beside four ecommerce location factors." loading="lazy">
+  <figcaption>Physical and ecommerce businesses weigh different location factors.</figcaption>
+</figure>
+
 ## Why small-scale retailers survive — always give a reason
 
 Don't assume small shops are simply being squeezed out. The syllabus's own (illustrative, "e.g.") examples
@@ -61,12 +71,27 @@ are personal service, flexible opening hours and additional services provided; c
 knowledge of customers are further legitimate examples, not a replacement for the syllabus's third
 example. Examiners reward this survival explanation, not just growth-of-large-scale-retail description.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--03-small-retailer-survival.webp" width="900" height="575" alt="A small-scale retailer survives through three syllabus examples: personal service, flexible opening hours and additional services such as delivery or informal credit. Convenience and local products are further reasons." loading="lazy">
+  <figcaption>Turn each reason into an explanation of what the small shop does that a large store cannot.</figcaption>
+</figure>
+
 ## Retail vs wholesale — keep the direction straight
 
 - **Retailer**: sells to the final consumer.
 - **Wholesaler**: sells to the retailer (breaks bulk — buys large quantities, sells smaller quantities).
 
 Independent wholesalers survive mainly through **cash-and-carry** outlets and **voluntary chains**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--03-wholesaler-transactions.webp" width="900" height="1140" alt="Top panel: four factories each connected directly to six shops by 24 crossing lines, labelled 4 times 6 equals 24 deals. Bottom panel: the same four factories and six shops all connected through one wholesaler warehouse, giving 4 plus 6 equals 10 deals. The numbers are illustrative." loading="lazy">
+  <figcaption>With one wholesaler in the chain there are far fewer separate deals (illustrative numbers).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--05-wholesaler-retailer.webp" width="900" height="800" alt="A wholesaler warehouse sends small parcels to a retailer shop, and the retailer pays later because the wholesaler gives credit. Six tiles list the wholesaler functions for the retailer: breaks bulk, wide range of goods, gives credit, delivers to the shop, gives advice and prepares goods." loading="lazy">
+  <figcaption>The wholesaler breaks bulk, offers range and credit, delivers, advises and prepares goods.</figcaption>
+</figure>
 
 ## Trading documents — sequence, not just a list
 
@@ -77,11 +102,21 @@ document — build the sequence into memory, not just the individual names.
 International trade adds: certificate of origin, bill of lading, air waybill, documentary credit
 (letter of credit).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-trading-documents--02-international-documents.webp" width="900" height="705" alt="Four cards: the certificate of origin states where goods were made for customs; the bill of lading is a receipt, contract evidence and document of title for sea freight; the air waybill is a receipt and contract evidence for air freight but not a document of title; documentary credit is a bank’s promise to pay the exporter." loading="lazy">
+  <figcaption>Both carriage documents prove the goods were received, but only the bill of lading is a document of title.</figcaption>
+</figure>
+
 ## Communication — match method to the scenario's factors
 
 Choice of method depends on: **urgency, cost, security, distance, network availability, importance of
 the message**. A "recommend a communication method" question is answered by weighing these factors
 against the specific scenario, not by listing every method you know.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-commercial-operations--20-co-communication.webp" width="900" height="900" alt="Six factors affecting the choice, the four types and the eight methods." loading="lazy">
+  <figcaption>What affects the choice of communication method.</figcaption>
+</figure>
 
 ## Multinationals and franchises — weigh both sides
 
@@ -92,6 +127,16 @@ decisions — a strong answer always weighs both, never states only the benefit 
 franchise lets a franchisee trade under an established brand using the franchisor's systems, in
 exchange for fees and a share of revenue: it lowers risk through a proven business model, but reduces
 independence and requires ongoing payments back to the franchisor.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--05-multinational-company.webp" width="900" height="720" alt="Headquarters in the home country links to factories and outlets in host countries, with profits possibly flowing back home. Five reasons for MNCs are listed, then four positive and four negative impacts on a host country." loading="lazy">
+  <figcaption>An MNC brings jobs and investment to a host country but may send profits home and push out local firms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-commercial-enterprises--06-franchise.webp" width="900" height="690" alt="The franchisor gives the franchisee its brand, products or recipes, training and advertising; the franchisee pays an initial fee and a royalty. A grid sets out the advantages and disadvantages for the franchisee and for the franchisor." loading="lazy">
+  <figcaption>Always say whether an advantage belongs to the franchisor or the franchisee.</figcaption>
+</figure>
 
 ## Why this is the broadest topic in the syllabus
 
@@ -122,6 +167,11 @@ distribution). Be ready to explain why an enterprise might choose to outsource r
 in-house — typically lower cost, access to specialist expertise, and freeing up capital and management
 time for the enterprise's core activities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--01-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
 ## Commercial calculations (Topic 5.4 — noted here for reference)
 
 The syllabus expects a handful of named financial calculations, examinable with simple figures.
@@ -141,6 +191,11 @@ mobile apps and multi-channel retailing, while trading documents increasingly mo
 electronic receipts replacing paper equivalents at each stage of the same underlying sequence. Treat
 these as the digital version of concepts you already know, rather than an entirely separate list to
 memorise from scratch.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-retailing--05-omnichannel-vs-multichannel.webp" width="900" height="650" alt="Left: in multi-channel retailing the shop, website and app each have their own stock and prices. Right: in omnichannel retailing every channel links to shared stock and one customer account. Below, one journey: check stock in the app, reserve online, collect in store, return by post." loading="lazy">
+  <figcaption>Omnichannel joins the channels up; multi-channel only runs several side by side.</figcaption>
+</figure>
 
 ## Self-test
 

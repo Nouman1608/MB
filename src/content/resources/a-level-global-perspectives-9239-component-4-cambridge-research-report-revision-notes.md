@@ -48,6 +48,11 @@ Keep the [9239 subject hub](/boards/cambridge/a-level/global-perspectives/) and 
 
 Critical Path skills mapped to Component 4 in the syllabus: Deconstruction, Reconstruction, Reflection and Communication. Collaboration is not part of this component.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--01-marks-and-weights.webp" width="900" height="498" alt="Component 4 is worth 85 marks: a research report of up to 5000 words worth 75 and a research log worth 10. The assessment objectives are weighted AO1 65%, AO2 20% and AO3 15%. The research proposal form is also submitted but not externally marked." loading="lazy">
+  <figcaption>The report carries most of the marks, and research and evaluation carry most of the report.</figcaption>
+</figure>
+
 ## The eleven assessment criteria
 
 You are assessed on your ability to:
@@ -65,6 +70,11 @@ You are assessed on your ability to:
 11. structure the report effectively, use accurate terminology and complete, appropriate citation and referencing (AO3).
 
 The level descriptors examiners use are not printed in the syllabus; your teacher will confirm them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--06-research-log.webp" width="900" height="610" alt="The research log is worth 10 marks, kept separate from the report and outside the word count. A weak log only records dates and searches. A strong entry, from week 6, notes what was found, why it matters, the decision made and the next step." loading="lazy">
+  <figcaption>Each log entry should record a decision, not just an action.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -84,6 +94,16 @@ The level descriptors examiners use are not printed in the syllabus; your teache
 | Research proposal | A form outlining question, concepts, debate and example sources, approved by your teacher |
 | Plagiarism | Passing off someone else's work or ideas as your own |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--04-perspectives-evidence.webp" width="900" height="603" alt="A perspective is a coherent world view responding to an issue, made of argument, evidence and assumptions. Primary evidence is first-hand and lets you test claims but small samples rarely generalise; secondary evidence gives expert depth but may share hidden assumptions. A literature review groups sources into perspectives and assesses each." loading="lazy">
+  <figcaption>Build perspectives from argument, evidence and assumptions, and weigh both kinds of evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--03-research-proposal.webp" width="900" height="468" alt="The research proposal form sets out the research question, key concepts, an outline of the debate and example sources. The teacher checks relevance, scope and safety and formally approves it. It is sent to Cambridge but not externally marked." loading="lazy">
+  <figcaption>The unmarked proposal shapes the question, and the question shapes every mark.</figcaption>
+</figure>
+
 ## Research methods at a glance
 
 The syllabus lists these methods. The strengths and limitations are general research points, not syllabus wording.
@@ -97,6 +117,11 @@ The syllabus lists these methods. The strengths and limitations are general rese
 | Surveys, experiments | Your own quantitative data | Control over questions | Sampling bias; shallow answers |
 | Mixed methods | Several angles on the question | Weaknesses of one method offset by another | Harder to do well within 5000 words |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--05-methods.webp" width="900" height="652" alt="A table of four research methods with a strength and a limitation each: literature review, interviews, surveys and close analysis of texts. Below, qualitative evidence gives depth in words and meanings; quantitative evidence shows patterns in numbers." loading="lazy">
+  <figcaption>Every method trades depth against breadth; justify the trade you make.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Topic vs question.** "Urban farming" is a topic. "Should cities give public land to urban farming?" is a question.
@@ -108,6 +133,11 @@ The syllabus lists these methods. The strengths and limitations are general rese
 - **Summary vs judgement.** A summary repeats both sides. A judgement weighs them and says which is stronger and why.
 - **Reflection on perspectives vs reflection on limits.** AO2 wants both: how other views changed your thinking, and the scope and limits of your own research.
 - **Teacher support vs teacher input.** Teachers can monitor progress and teach referencing; they must not teach your topic, research for you, or correct drafts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--02-question-framing.webp" width="900" height="590" alt="Three versions: industrialisation is a topic, not a question; has industrialisation been environmentally damaging is a question but one-sided; is industrialisation a good thing works because it opens competing views. Below, a scale from too broad and shallow to too narrow with too little evidence, with the best fit in between." loading="lazy">
+  <figcaption>The title must be a question that opens a debate, sized to the evidence available.</figcaption>
+</figure>
 
 ## Report plan: a typical structure
 
@@ -128,6 +158,11 @@ The syllabus requires an introduction, main body and conclusion. One way to orga
 - Perspective B: economic cost of land and housing need (planning data).
 - Judgement: depends on land type; vacant land favours A, land zoned for housing favours B.
 - Reflection: started strongly for A; housing data shifted the view; small local sample limits the claim.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--07-report-structure.webp" width="900" height="724" alt="The report runs from an introduction explaining how the question was developed, through a main body of methods and compared perspectives, to a conclusion that judges and reflects, then a bibliography in one consistent referencing system. It is continuous prose of at most 5000 words with the count stated." loading="lazy">
+  <figcaption>Introduction, body, judging conclusion and full references, within 5000 words.</figcaption>
+</figure>
 
 ## Quick self-test
 

@@ -57,6 +57,16 @@ For full explanations and worked answers, read the [functions of families study 
 
 The list matches the four functions Murdock (1949) claimed to find in all the societies he studied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functions-of-families--01-four-functions.webp" width="900" height="622" alt="Four cards. Sexual: families give sex an approved place, though this is weaker today. Reproductive: families produce the next generation, and who counts as a parent is social. Economic: families moved from production to consumption and still provide for dependants. Educational: primary socialisation of norms, values, language and skills." loading="lazy">
+  <figcaption>Learn each function with a definition, an example and a link to wider society.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functions-of-families--02-economic-function.webp" width="900" height="585" alt="Before industrialisation the family was a unit of production, working together on a farm or in a cottage industry. Since industrialisation most work is outside the home and the family is mainly a unit of consumption. Throughout, it has provided for dependent children and older relatives." loading="lazy">
+  <figcaption>Families lost production, not their whole economic function.</figcaption>
+</figure>
+
 ## Parsons at a glance
 
 - **Perspective:** functionalist, writing about the American family.
@@ -66,6 +76,16 @@ The list matches the four functions Murdock (1949) claimed to find in all the so
 - **Roles:** instrumental (husband) and expressive (wife).
 - **Specification criticism:** an "idealised picture of family life centred on the middle-class experience".
 - **Further criticisms:** ignores diversity, ignores abuse and conflict, treats children as passive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functions-of-families--03-parsons-two-functions.webp" width="900" height="825" alt="Production, education and health care pass from the family to factories and offices, schools and hospitals. What remains are two basic and irreducible functions: primary socialisation of children and stabilisation of adult personalities. Below, the isolated nuclear family with an instrumental husband and expressive wife." loading="lazy">
+  <figcaption>As society industrialised, the family specialised in two irreducible functions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functions-of-families--04-evaluating-parsons.webp" width="900" height="569" alt="Four criticisms of Parsons: an idealised, middle-class picture; no account of diverse families such as lone parent, reconstituted and same-sex families; no account of domestic abuse; and children treated as passive. Below, feminists say his instrumental and expressive roles treat a gender division as natural." loading="lazy">
+  <figcaption>Parsons’ picture is idealised, middle-class and blind to diversity and abuse.</figcaption>
+</figure>
 
 ## Marxist and feminist replies
 
@@ -82,6 +102,11 @@ The list matches the four functions Murdock (1949) claimed to find in all the so
 - **Zaretsky (1976):** the "private life" of the family is an illusion; the family props up capitalism through domestic labour and consumption.
 - **Delphy and Leonard (1992):** the family is an economic system in which men exploit women's work.
 - **Oakley:** canalisation; the power of the idea of the conventional family.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-functions-of-families--05-who-benefits.webp" width="900" height="719" alt="Three columns. Functionalists Murdock and Parsons say families benefit society. Marxists, including Engels on inheritance and Zaretsky on the illusion of a private refuge, say they benefit capitalism. Feminists, including Oakley on canalisation and Delphy and Leonard on exploitation, say they benefit men." loading="lazy">
+  <figcaption>The debate is not whether families perform functions, but whom they serve.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

@@ -75,6 +75,11 @@ rate of rise has increased in recent decades.
 | Vulnerability | Degree to which a place, community or system is susceptible to harm from a climate hazard |
 | Resilience | Capacity to absorb, recover from and adapt to climate-related disturbance |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--07-gc-resilience-curve.webp" width="900" height="960" alt="Illustrative graph of normal functioning after a hazard. Place A falls only a little but recovers slowly. Place B falls further (more vulnerable) but recovers faster and overtakes Place A shortly after the strike, showing that resilience is not just low vulnerability." loading="lazy">
+  <figcaption>A place can be less vulnerable at impact but recover more slowly, so the two ideas differ.</figcaption>
+</figure>
+
 ## Analysing vulnerability
 
 Marlbridge's study guide breaks vulnerability into three parts. This is **its own analytical
@@ -89,6 +94,11 @@ similar flood differ according to housing quality and building codes, drainage, 
 and institutions. So vulnerability depends on exposure, sensitivity and adaptive capacity, not on
 hazard size alone.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--05-gc-vulnerability-parts.webp" width="900" height="960" alt="A climate hazard feeds into exposure (the place faces the hazard), sensitivity (housing and infrastructure) and adaptive capacity (resources and institutions). Together they make vulnerability. The IB guide names these factors behind differences between places: location, wealth, age, gender, education and risk perception." loading="lazy">
+  <figcaption>Vulnerability can be analysed as exposure, sensitivity and adaptive capacity; the lesson says this is its own framework, not IB wording.</figcaption>
+</figure>
+
 ## Contrasting places facing sea-level rise
 
 | | Bangladesh | Netherlands |
@@ -101,6 +111,11 @@ hazard size alone.
 most of their land lies only a metre or two above sea level, and they have small economies with
 few options for retreat. Kiribati bought land in Fiji in 2014, partly as insurance for future food
 security.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-global-climate--06-gc-two-places.webp" width="900" height="1060" alt="Two places face the same flood level. Place A has low-lying, poorly built housing and fewer resources and weaker institutions, so it suffers more harm. Place B has strong building codes, better drainage and greater financial and institutional capacity, so it suffers less harm." loading="lazy">
+  <figcaption>Two places face the same flood hazard but vulnerability differs, so outcomes differ.</figcaption>
+</figure>
 
 ## Factors behind differences
 

@@ -40,6 +40,11 @@ True in content, **crafted** in style — which is exactly what makes it worth a
 
 **Revise both sections independently.** Section A tests reading, Section B tests writing — skill in one does not automatically transfer to the other, so build separate revision time for each rather than assuming strong analysis skills will carry over into strong composition, or vice versa. Reading widely in the genre (journalism, memoir, travel writing) helps Section A by making unseen texts feel less unfamiliar; regular timed composition practice builds the pacing Section B needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--02-literary-non-fiction-features.webp" width="900" height="740" alt="Three features of literary non-fiction. A first-person voice where an older writer looks back at a younger self, so phrases like “I was sure then that…” signal a change of view; a purpose beyond the facts, such as admiration, unease, amusement or nostalgia; and selection and arrangement of what comes first, is lingered on, left out or left to the end." loading="lazy">
+  <figcaption>The writer tells the truth but shapes it: voice, purpose and selection all reveal perspective.</figcaption>
+</figure>
+
 ## The analysis formula
 
 ```
@@ -57,6 +62,11 @@ Strong  "The metaphor 'a machine that never sleeps' presents the city
          feel inevitable rather than personal."
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--08-p1-analyse.webp" width="900" height="920" alt="Three-step chain using the lesson’s adjectives example (cramped, clamorous, unrelenting)." loading="lazy">
+  <figcaption>Every analytical point identifies a feature, quotes briefly and explains the effect on the reader; feature-spotting alone stops at step 1.</figcaption>
+</figure>
+
 ## What to analyse
 
 | Level | Look for |
@@ -69,11 +79,26 @@ Strong  "The metaphor 'a machine that never sleeps' presents the city
 
 **Structure is part of the same overall mark, not a separate allocation.** Where a writer places information — a withheld detail, a one-line paragraph — is a deliberate choice with an effect, and identifying it strengthens an answer even though structural, grammatical and presentational features are all assessed within a single combined objective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--07-p1-lenses.webp" width="900" height="880" alt="A text page linked to the five lenses with short examples from the lesson." loading="lazy">
+  <figcaption>Read literary non-fiction through five lenses: purpose, voice, structure, language and tone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--05-structure-questions.webp" width="900" height="850" alt="The text from start to finish with four structural checkpoints: the opening (a scene, a reflection or dialogue), shifts in focus (outside to inside, past to present, wide view to detail), pace (lingering on detail or summarising long periods), and the ending (returning to the opening, reflecting or left unresolved)." loading="lazy">
+  <figcaption>Structure is the order and shape of the text; every structural point needs an effect.</figcaption>
+</figure>
+
 ## Single text, no comparison
 
 Section A is set on a **single text for close study**, divided into sections with questions -- at
 least one question addresses the whole text. There are no two texts to compare on this paper;
 comparison is a Paper 2 skill instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--03-reading-in-sections.webp" width="900" height="842" alt="An unseen text divided into three sections, each linked to its own question that needs only that section re-read, with a bracket under the whole text for the whole-text question. Four steps below: read the whole text quickly, re-read the named section, underline four or five pieces of evidence, and track how the attitude moves for the whole-text question." loading="lazy">
+  <figcaption>Answer each question from its own section; use the whole text only for the whole-text question.</figcaption>
+</figure>
 
 ## Composition
 
@@ -103,6 +128,16 @@ Why:  concrete sensory detail (sound, smell, touch)
       varied sentence lengths, short opener for impact
       a closing image that suggests rather than states
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--09-p1-tasks.webp" width="900" height="900" alt="Three task cards joined by a bracket to a single write-one circle." loading="lazy">
+  <figcaption>Section B offers three tasks and students write one: descriptive, imaginative, or argumentative/discursive, each with its own key tip; register stays consistent.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-b-composition--04-imaginative-shape.webp" width="900" height="710" alt="A story timeline that skips waking up and starts close to the moment of change, summarises less important time in a sentence, slows down at the key moment and ends on a planned ending: a twist, a realisation, a circular return to the opening image or an open ending. Above it: one character, one setting, one problem, a short time span." loading="lazy">
+  <figcaption>Keep the story small, start late, slow down at the key moment and plan the ending first.</figcaption>
+</figure>
 
 ## Technical accuracy — directly credited
 

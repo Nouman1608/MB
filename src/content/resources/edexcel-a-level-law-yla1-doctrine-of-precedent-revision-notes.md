@@ -36,6 +36,11 @@ Condensed for the final weeks. These notes cover content area **1.2.7**, "The do
 **Obiter becoming law**: *R v Howe* [1987] (obiter: no duress for attempted murder) → followed in *R v Gotts* [1992]. *High Trees* [1947] (promissory estoppel).
 **Privy Council**: *AG for Jersey v Holley* [2005] followed in *R v James and Karimi* [2006]; *Willers v Joyce* [2016] allows the Privy Council to direct English courts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--01-ratio-and-obiter.webp" width="900" height="748" alt="A judgment contains the ratio decidendi, the binding legal principle behind the decision, which later judges identify, and obiter dicta, things said by the way, which are only persuasive. Obiter can become law: the obiter in R v Howe on attempted murder was followed in R v Gotts, and Denning J’s obiter in High Trees founded promissory estoppel." loading="lazy">
+  <figcaption>Only the ratio binds; obiter persuades, and can later become law.</figcaption>
+</figure>
+
 ## Who binds whom
 
 ```
@@ -48,6 +53,11 @@ Crown, County, magistrates bound by all above; create no binding precedent
 ECtHR .................... "take into account" only (HRA 1998 s 2)
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--02-court-hierarchy-binding.webp" width="900" height="752" alt="From the top: the Supreme Court binds all courts below and may depart from its own decisions under the Practice Statement; the Court of Appeal binds all courts below and is bound by itself subject to Young v Bristol Aeroplane; Divisional Courts bind the High Court and inferior courts; the High Court binds the County Court and magistrates’ courts but not itself; the Crown Court, County Court and magistrates’ courts do not create binding precedent. The ECtHR is only taken into account." loading="lazy">
+  <figcaption>Each court is bound by those above it; only the Supreme Court can depart from its own decisions.</figcaption>
+</figure>
+
 ## Young v Bristol Aeroplane [1944]: three exceptions
 
 1. Two conflicting Court of Appeal decisions: choose one.
@@ -57,6 +67,16 @@ ECtHR .................... "take into account" only (HRA 1998 s 2)
 **Criminal Division extras**: *R v Taylor* [1950]; *R v Gould* [1968]; *R v Spencer* [1985].
 **Denning's challenge failed**: *Davis v Johnson* [1979].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--03-young-v-bristol-aeroplane.webp" width="900" height="589" alt="Under Young v Bristol Aeroplane the Court of Appeal is bound by its own decisions except where two of its decisions conflict, where its decision conflicts with a later House of Lords or Supreme Court decision, or where it was made per incuriam. The Criminal Division is more flexible because liberty is at stake (R v Taylor, R v Gould, R v Spencer). Lord Denning’s attempt to escape the rule in Davis v Johnson was rejected." loading="lazy">
+  <figcaption>Three exceptions only, plus extra flexibility in the Criminal Division.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--07-hierarchy-worked-example.webp" width="900" height="599" alt="Case A was decided by the Court of Appeal in 2015 and a conflicting case B by the Supreme Court in 2024. In 2026 the High Court must follow case B, the higher court. The Court of Appeal is normally bound by case A but, under Young v Bristol Aeroplane exception 2, follows case B. The Supreme Court could depart from case B under the Practice Statement, only when it appears right to do so." loading="lazy">
+  <figcaption>Follow the higher court; the Court of Appeal escapes its own case A through Young exception 2.</figcaption>
+</figure>
+
 ## Appeal routes
 
 | Civil | Criminal |
@@ -65,6 +85,11 @@ ECtHR .................... "take into account" only (HRA 1998 s 2)
 | High Court → Court of Appeal → Supreme Court (permission) | Magistrates → Divisional Court by case stated (point of law) |
 | Leapfrog: High Court → Supreme Court | Crown Court → Court of Appeal (Criminal Division), with leave |
 | | → Supreme Court on a certified point of law of general public importance |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--04-appeal-routes.webp" width="900" height="824" alt="Civil appeals go from the County Court to the High Court or Court of Appeal, from the High Court to the Court of Appeal (Civil Division) and then to the Supreme Court, with permission at each stage; a leapfrog appeal can go from the High Court straight to the Supreme Court. Criminal appeals go from the magistrates’ court to the Crown Court or by case stated to the Divisional Court, from the Crown Court to the Court of Appeal (Criminal Division) with leave, and then to the Supreme Court only on a certified point of law of general public importance." loading="lazy">
+  <figcaption>Permission or leave is needed at each step up; the Supreme Court hears only points of wider importance.</figcaption>
+</figure>
 
 ## The 1966 Practice Statement
 
@@ -84,6 +109,11 @@ ECtHR .................... "take into account" only (HRA 1998 s 2)
 **Not used**: *Jones v Secretary of State for Social Services* [1972]; *Knuller v DPP* [1973] (refused to overrule *Shaw*).
 **Correcting a wrong turn**: *R v Jogee* [2016] (joint enterprise; *Chan Wing-Siu* [1985]).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--05-practice-statement-timeline.webp" width="900" height="852" alt="A timeline: from London Street Tramways (1898) the House of Lords was bound by its own decisions until the 1966 Practice Statement allowed departure &quot;when it appears right to do so&quot;; Austin v Southwark (2010) applied it to the Supreme Court. It was used in Conway v Rimmer (1968), Herrington (1972), Miliangos (1976), R v Shivpuri (1986), Pepper v Hart (1993) and R v G (2003), and refused in Jones (1972) and Knuller (1973). A table gives the case each overruled and the point." loading="lazy">
+  <figcaption>The power to depart exists but is used sparingly: name the case overruled and why.</figcaption>
+</figure>
+
 ## Avoiding precedent
 
 | Method | Who can use it | Example |
@@ -91,6 +121,11 @@ ECtHR .................... "take into account" only (HRA 1998 s 2)
 | Distinguishing | Any court | *Balfour v Balfour* distinguished in *Merritt v Merritt* |
 | Overruling | Higher court, or SC under the Practice Statement | *R v G* overruled *Caldwell* |
 | Reversing | Higher court in the same case on appeal | Any successful appeal |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-doctrine-of-precedent--06-distinguish-overrule-reverse.webp" width="900" height="610" alt="Distinguishing: any court finds the material facts differ, so the earlier ratio does not apply (Balfour v Balfour distinguished in Merritt v Merritt). Overruling: a higher court, or the same court with a power to depart, decides the rule in an earlier, different case was wrong (R v G overruled Caldwell). Reversing: a higher court changes the decision in the same case on appeal." loading="lazy">
+  <figcaption>Distinguish on the facts, overrule a different earlier case, reverse the same case.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

@@ -34,6 +34,11 @@ The [patient–practitioner relationship study guide](/resources/cambridge-a-lev
 - **3.1.2 Diagnosis and style**: disclosure, false positive and false negative, presenting a diagnosis; doctor-centred (directed) and patient-centred (sharing) styles; key study Savage and Armstrong (1990).
 - **3.1.3 Misusing services**: reasons for delay (e.g. Safer et al., 1979); the health belief model as an alternative; Munchausen syndrome versus malingering, essential and supporting features (e.g. Aleem and Ajarim, 1995).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--01-communication.webp" width="900" height="645" alt="McKinstry and Wang (1991) found patients rating photographs generally preferred formally dressed doctors, especially older patients; ratings of photographs may not match real meetings. McKinlay (1975) found women on a maternity ward understood many medical terms poorly although staff still used them; the message is to use plain language, but the sample was narrow." loading="lazy">
+  <figcaption>Formal dress reassures; jargon blocks understanding.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |
@@ -53,6 +58,16 @@ The [patient–practitioner relationship study guide](/resources/cambridge-a-lev
 | Munchausen syndrome | Repeatedly feigning or inducing illness to gain medical attention and the sick role |
 | Malingering | Faking illness for an external reward |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--02-presenting-diagnosis.webp" width="900" height="598" alt="Disclosure is a balance: too little information leaves the patient anxious and unable to choose, too much at once overwhelms them. Five steps for delivering bad news: a private setting, check what the patient knows, give manageable amounts, allow time for questions and agree next steps." loading="lazy">
+  <figcaption>Tell enough, in manageable amounts, then agree what happens next.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--16-he-false-positive-negative.webp" width="900" height="800" alt="A two by two grid: ill and told ill is correct; ill but told not ill is a false negative (illness missed, treatment delayed); well but told ill is a false positive (unneeded worry and treatment); well and told not ill is correct." loading="lazy">
+  <figcaption>False positive and false negative diagnoses.</figcaption>
+</figure>
+
 ## Key study grid: Savage and Armstrong (1990)
 
 | Feature | Detail |
@@ -66,6 +81,11 @@ The [patient–practitioner relationship study guide](/resources/cambridge-a-lev
 | Strengths | Real patients; random allocation |
 | Weaknesses | One GP; falling response rate; self-report |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--03-savage-armstrong.webp" width="900" height="869" alt="Directing (doctor-centred) and sharing (patient-centred) styles are defined. Study card: 359 patients of one inner London GP were randomly allocated to a style; satisfaction was measured immediately (89 percent returned) and a week later (58 percent). Directing gave higher satisfaction on almost all measures, especially for physical problems and prescriptions." loading="lazy">
+  <figcaption>Patients were more satisfied with the directing style, especially for physical problems.</figcaption>
+</figure>
+
 ## The three stages of delay (Safer et al., 1979)
 
 | Stage | Question the patient is answering | Example of what lengthens it |
@@ -74,11 +94,26 @@ The [patient–practitioner relationship study guide](/resources/cambridge-a-lev
 | Illness | "Do I need professional help?" | Believing it will go away |
 | Utilisation | "When will I actually go?" | Cost, transport or fear of the visit |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--04-safer-delay-stages.webp" width="900" height="516" alt="A timeline from noticing a symptom to attending, split into appraisal delay (deciding the symptom means illness), illness delay (deciding to seek care) and utilisation delay (actually attending). Interviews gave detailed reasons but rely on memory." loading="lazy">
+  <figcaption>Delay builds up in three stages before a patient attends.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-health-psychology--15-he-health-belief-model.webp" width="900" height="1040" alt="Perceived susceptibility, perceived severity and cues to action feed a weighing-up of perceived benefits against perceived barriers. Benefits outweighing barriers leads to action; barriers outweighing benefits leads to no action." loading="lazy">
+  <figcaption>The health belief model as a balance of benefits and barriers.</figcaption>
+</figure>
+
 ## Munchausen syndrome features
 
 - **Essential**: repeated feigned or self-induced illness; pathological lying; moving between hospitals.
 - **Supporting**: detailed medical knowledge; many scars; evasive or aggressive when challenged; self-discharge; few visitors.
 - **Contrast with malingering**: same behaviour of faking, different motive (internal need for the sick role versus external gain).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-the-patientpractitioner-relationship--05-munchausen-malingering.webp" width="900" height="746" alt="A table compares Munchausen syndrome (feigning or inducing illness for attention and the sick role, motive internal) with malingering (faking or exaggerating for an external reward, deliberate). Essential features of Munchausen syndrome are repeated feigned illness, pathological lying and moving between hospitals; supporting features include medical knowledge, scars, evasiveness, self-discharge and few visitors." loading="lazy">
+  <figcaption>Same behaviour, different motive: the sick role or an external reward.</figcaption>
+</figure>
 
 ## Linking to issues and debates
 

@@ -48,6 +48,16 @@ Both make the contract **voidable**, not void: it stands until the innocent part
 | No inducement | Claimant relied on own investigation | Attwood v Small (1838) |
 | Still induced | Even if the claimant could have found out the truth | Redgrave v Hurd (1881) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--01-misrep-elements.webp" width="900" height="821" alt="Four elements of misrepresentation: a statement (silence only in exceptions); untrue and of fact rather than opinion, intention or law; made before or at the time of contracting; and inducing the contract, playing a real part (JEB Fasteners). Attwood v Small shows no inducement where the buyers relied on their own report; Redgrave v Hurd shows a claimant who could have checked is still induced. The result is a voidable contract." loading="lazy">
+  <figcaption>Statement, fact, timing, inducement: check each before naming the type.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--02-fact-or-not.webp" width="900" height="578" alt="Silence becomes a statement in three cases: half-truths (Dimmock v Hallett), change of circumstances (With v O’Flanagan) and contracts of utmost good faith; otherwise the buyer must ask. An honest opinion is not fact (Bisset v Wilkinson), but an opinion from superior knowledge can imply facts (Smith v Land and House), and a stated intention not actually held misstates a fact (Edgington v Fitzmaurice)." loading="lazy">
+  <figcaption>Half-truths, stale statements and false intentions all count as statements of fact.</figcaption>
+</figure>
+
 ## Types and damages
 
 | Type | Test | Damages | Measure |
@@ -59,6 +69,11 @@ Both make the contract **voidable**, not void: it stands until the innocent part
 Howard Marine v Ogden (1978): capacity figure given from memory when correct figures were in the
 company's own documents; no reasonable grounds, so liable under s2(1).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--03-three-types.webp" width="900" height="659" alt="Three types. Fraudulent: made knowingly, without belief or recklessly (Derry v Peek), giving deceit damages for all direct losses (Doyle v Olby). Negligent under s2(1) Misrepresentation Act 1967: no reasonable grounds for belief, with damages assessed as if fraudulent (Royscot). Innocent: reasonable grounds, with no damages as of right but possible damages in lieu of rescission under s2(2). Under s2(1) the maker must prove reasonable grounds (Howard Marine v Ogden)." loading="lazy">
+  <figcaption>Under s2(1) the defendant must disprove negligence, and damages follow the fraud measure.</figcaption>
+</figure>
+
 ## Rescission and its bars
 
 Rescission sets the contract aside and restores the parties. It is **equitable and discretionary**.
@@ -69,6 +84,11 @@ Rescission sets the contract aside and restores the parties. It is **equitable a
 | Lapse of time | Leaf v International Galleries (1950): five years after buying the "Constable" |
 | Third-party rights | Car and Universal Finance v Caldwell (1965): rescission effective by telling police and AA before resale |
 | Restitution impossible | Parties cannot be restored to their original positions |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--04-rescission-bars.webp" width="900" height="671" alt="Rescission sets the contract aside and restores the original positions. It is barred by affirmation (Long v Lloyd), lapse of time (Leaf v International Galleries), third-party rights (avoided by acting quickly, as in Car and Universal Finance v Caldwell) and where restitution is impossible. Under s2(2) the court may award damages instead for a non-fraudulent misrepresentation." loading="lazy">
+  <figcaption>Act quickly and do not affirm, or the right to rescind is lost.</figcaption>
+</figure>
 
 ## Economic duress
 
@@ -92,6 +112,16 @@ advice; steps taken to avoid the contract afterwards.
 
 **Remedy**: rescission and return of money paid; bars apply, especially affirmation. No damages for
 duress itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--05-duress-elements.webp" width="900" height="548" alt="Three elements of economic duress from DSND Subsea: pressure amounting to compulsion or no practical choice, which is illegitimate, and which significantly caused the contract. Pao On v Lau Yiu Long asks whether the victim protested, had an alternative, took advice and tried to avoid the contract. The contract is voidable and the remedy is rescission. Duress is the safeguard on Williams v Roffey’s practical benefit rule." loading="lazy">
+  <figcaption>Illegitimate pressure that leaves no practical choice makes a contract voidable.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-vitiating-factors--06-duress-cases.webp" width="900" height="525" alt="Four outcomes. Atlas Express v Kafco and B and S Contracts v Victor Green: threats leaving no time for alternatives were duress. The Atlantic Baron: duress, but the buyers affirmed by waiting eight months. Pakistan International Airline v Times Travel: a lawful act is duress only in very narrow circumstances." loading="lazy">
+  <figcaption>Duress needs illegitimate pressure, and delay can still lose the remedy.</figcaption>
+</figure>
 
 ## Key terms
 

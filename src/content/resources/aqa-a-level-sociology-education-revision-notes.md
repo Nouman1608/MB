@@ -36,6 +36,16 @@ Condensed for the final weeks. For the full explanation, use the
 
 Learn both perspectives' claim about the *same* function (e.g. role allocation) so you can compare directly rather than describing each in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--02-functionalist-marxist.webp" width="900" height="505" alt="Functionalists see education performing positive functions: secondary socialisation, social solidarity and role allocation. Marxists see it reproducing class inequality and preparing a compliant workforce through the correspondence principle." loading="lazy">
+  <figcaption>Functionalists and Marxists give opposing accounts of what education does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--05-correspondence-principle.webp" width="900" height="554" alt="Hierarchy, discipline and extrinsic reward in schooling mirror the same features of the capitalist workplace, preparing students for their future roles as workers." loading="lazy">
+  <figcaption>For Bowles and Gintis, school mirrors the capitalist workplace.</figcaption>
+</figure>
+
 ## Differential achievement — keep the three variables separate
 
 - **Class** — material/economic explanations (cost of resources) vs cultural explanations (Bourdieu's cultural capital; restricted/elaborated speech codes).
@@ -43,6 +53,16 @@ Learn both perspectives' claim about the *same* function (e.g. role allocation) 
 - **Ethnicity** — material deprivation vs in-school processes (teacher labelling, setting/streaming).
 
 Each variable has its own explanation set, even where a question asks you to compare across them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--03-achievement-variables.webp" width="900" height="523" alt="Three columns for class, gender and ethnicity. Class weighs material explanations against cultural ones; gender covers boys’ underachievement and girls’ improvement; ethnicity weighs material deprivation against labelling and setting." loading="lazy">
+  <figcaption>Each social variable has its own body of explanations to weigh.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--06-material-cultural.webp" width="900" height="505" alt="Material deprivation means lacking resources such as books, a quiet study space or nutritious food. Cultural capital is the knowledge, tastes and ways of speaking that higher-class families pass on, which the education system implicitly values." loading="lazy">
+  <figcaption>Material and cultural explanations are separate types, not alternatives to blur together.</figcaption>
+</figure>
 
 ## Worked example: role allocation, functionalist vs Marxist
 
@@ -61,6 +81,11 @@ Contrast:       functionalism presents allocation as fair; Marxism
 ```
 
 This claim–claim–contrast structure is the assessed skill behind most "compare two perspectives" questions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--04-claim-claim-contrast.webp" width="900" height="636" alt="Three steps of a comparison answer: the functionalist claim that role allocation is fair and meritocratic, the Marxist claim that it reproduces class inequality, and a contrast between the two." loading="lazy">
+  <figcaption>Two claims about the same function, then an explicit contrast.</figcaption>
+</figure>
 
 ## Key terms to define precisely
 
@@ -91,6 +116,11 @@ treating them as a single undifferentiated topic.
 As with class, keep material and in-school explanations conceptually distinct even when a question
 invites you to discuss their interaction — the strongest answers explain *how* the two types of
 explanation might reinforce each other, rather than only listing both.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-sociology-role-of-education-and-differential-achievement--07-labelling.webp" width="900" height="406" alt="A teacher or the education system attaches a label such as able or disruptive, which sets expectations, influences the student’s behaviour and shapes outcomes, sometimes through a self-fulfilling prophecy." loading="lazy">
+  <figcaption>A label can shape the behaviour and results it predicts.</figcaption>
+</figure>
 
 ## Exam traps
 

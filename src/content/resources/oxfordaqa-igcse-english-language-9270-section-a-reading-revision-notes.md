@@ -42,12 +42,22 @@ source-based reading.** For full explanations and a model comparison, use the
 Paper 2 lasts 2 hours and carries 40% of the qualification; it is the exam alternative to the
 non-exam assessment project.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--01-source-pack.webp" width="900" height="755" alt="A row of five or six texts on modern-world themes, some written, one a chart and one brief. Some questions point at a single text, others at a pair, and at least one question requires two texts. All questions are answered, and Section B writing is linked with the same sources." loading="lazy">
+  <figcaption>Questions target single texts and pairs, and the same sources feed the Section B writing.</figcaption>
+</figure>
+
 ## R1–R4 with several sources
 
 - **R1 — select:** right source, right details, used for the question's purpose.
 - **R2 — synthesise and compare:** combine details across texts; cross-reference and compare.
 - **R3 — interpret perspectives:** what each writer thinks about the issue.
 - **R4 — analyse and evaluate methods:** language, grammar, structure **and presentation**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--02-reading-skills-sources.webp" width="900" height="660" alt="The four AO1 reading skills applied to several sources: R1 choosing the right source and details, R2 combining or comparing two texts, R3 explaining each writer’s attitude and how it differs, R4 analysing language, structure and layout, including visual texts." loading="lazy">
+  <figcaption>With several sources, R2 means working across two texts, not just within one.</figcaption>
+</figure>
 
 ## First five minutes: survey grid
 
@@ -59,6 +69,11 @@ non-exam assessment project.
 
 Fill it in brief words. It makes pairing questions much faster.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--03-survey-and-grid.webp" width="900" height="640" alt="Four steps: survey the pack noting form, topic, purpose and audience; read the questions; read closely by question; keep a grid. The grid has rows for Text A and Text B and columns for idea, attitude, method and evidence." loading="lazy">
+  <figcaption>Survey first, read by question, and grid each pair so comparisons are easy to write.</figcaption>
+</figure>
+
 ## Source types and what to look for
 
 | Source type | Look for |
@@ -69,6 +84,11 @@ Fill it in brief words. It makes pairing questions much faster.
 | Brief text (slogan, notice, post) | Compression, wordplay, imperatives, direct address |
 | Visual (poster, advert, infographic) | Layout, image, colour, typography, image–word link, omission |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--04-kinds-of-source.webp" width="900" height="805" alt="Five kinds of source and what to analyse in each: opinion writing (viewpoint, persuasive methods, tone), informative writing (what comes first, details included, voices quoted), fiction (character, setting, situation), brief texts (compression, wordplay, direct address) and visual texts (layout, images, colour and type, image and words)." loading="lazy">
+  <figcaption>Each kind of source rewards a different set of questions.</figcaption>
+</figure>
+
 ## Presentational features checklist
 
 - **Size and position**: what is largest or central = main message.
@@ -77,6 +97,11 @@ Fill it in brief words. It makes pairing questions much faster.
 - **Typography**: bold, capitals, font style, size.
 - **Image and text**: does the caption confirm, sharpen or change the image?
 - **Framing and omission**: what has been cropped out or not mentioned?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--05-visual-text.webp" width="900" height="790" alt="A poster whose top half is filled by a child’s face, with a headline and caption below, labelled with five presentational features: layout and placement, colour and typography, images, the relationship between image and words, and what is left out. Below, a precise description of the poster is used as the evidence." loading="lazy">
+  <figcaption>Describe the visual feature precisely, then explain its effect, just as with a quotation.</figcaption>
+</figure>
 
 ## Synthesis vs comparison
 
@@ -93,6 +118,11 @@ COMPARISON  set side by side:     "Whereas A presents…, B presents…"
 3. Comparative connective + evidence from text 2 + brief analysis
 4. What the similarity or difference reveals about purpose or perspective
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-reading--06-two-texts.webp" width="900" height="838" alt="Three ways to write about two texts, using the lesson’s new-road example. Synthesis combines the report’s lorry noise with the blog’s waking at four to show the problem is constant. Comparing perspectives sets the leaflet’s “faster journeys” against the blogger’s lost field; comparing methods sets cheerful bullet points against anecdote and rhetorical questions." loading="lazy">
+  <figcaption>Integrate both texts in the same point, whether you combine them or compare them.</figcaption>
+</figure>
 
 ## Comparative connectives
 

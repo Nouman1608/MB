@@ -55,6 +55,11 @@ Possible questions   1. What is the individual's role in the community?
 - One-line contrast: Identities = who I am; Experiences = what happened to me; Social organization
   = how groups are run and my part in them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--01-social-organization-theme-map.webp" width="900" height="624" alt="The guiding principle of Social organization sits above a central circle joined to six optional recommended topics: social relationships, community, social engagement, education, the working world, and law and order. The two possible questions sit below as lenses." loading="lazy">
+  <figcaption>Six optional topics and two possible questions about individuals and rules.</figcaption>
+</figure>
+
 ## Two directions, six topics
 
 | Topic | From below: people organize themselves | From above: people are organized |
@@ -65,6 +70,11 @@ Possible questions   1. What is the individual's role in the community?
 | Education | A student council proposes a change | A ministry sets the curriculum |
 | The working world | A cooperative shares decisions | A manager writes the rota |
 | Law and order | Neighbours agree quiet hours | Parliament passes a law |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--02-two-directions.webp" width="900" height="704" alt="Two cards: from below, people organize themselves because they share an interest; from above, people are organized by a structure set from outside. A table gives examples for community, education, the working world, and law and order, such as residents running a festival versus a council deciding bin collections." loading="lazy">
+  <figcaption>Ask who made the system and who has to follow it: the tension is often the point.</figcaption>
+</figure>
 
 ## Vocabulary map
 
@@ -95,6 +105,11 @@ If your target language is not in the table, build the same six rows with your t
 catches most learners is **no obligation vs prohibition**: German *Du musst nicht* = you don't have
 to; *Du darfst nicht* = you must not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--03-language-of-rules.webp" width="900" height="570" alt="A scale of five rule functions: prohibition (must not, not allowed), permission (may), absence of obligation (do not have to, not necessary but you may), recommendation (should) and obligation (must). Two cards show the trap: you don't have to come and you must not come mean different things, and German builds them with müssen and dürfen." loading="lazy">
+  <figcaption>&quot;Don't have to&quot; is not &quot;must not&quot;: check how your language builds each.</figcaption>
+</figure>
+
 ## Formal register checklist
 
 ```
@@ -121,6 +136,16 @@ freundlichen Grüßen*. Spanish *Estimado señor / Estimada señora:* … *Atent
 6. Answer with the text's exact words where a short answer is asked
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--04-reading-a-rule-notice.webp" width="900" height="675" alt="Six phrases from a study-room notice are classified: can be booked for up to two hours is permission with a condition; must leave the room as they found it is obligation; food is not permitted is prohibition; water is, permission; silence is not required, absence of obligation; please keep voices low, a request. A note explains that the rules make a shared space work." loading="lazy">
+  <figcaption>Classify each rule, note its conditions, then ask what the rules reveal about the group.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--06-reading-rule-texts.webp" width="900" height="474" alt="Three cards: classify modal verbs such as must, may, must not and do not have to; circle conditions and exceptions such as unless, only if, except and up to; and track who decides and who follows. An example shows a statement about unlimited booking is false because the notice says up to two hours." loading="lazy">
+  <figcaption>One modal verb or one &quot;unless&quot; can decide a true/false answer.</figcaption>
+</figure>
+
 ## Method in steps: writing to an institution
 
 ```
@@ -131,6 +156,11 @@ freundlichen Grüßen*. Spanish *Estimado señor / Estimada señora:* … *Atent
 5. Your proposal, with one hypothetical ("If…, then…")
 6. Polite request for action or reply + closing formula
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-social-organization--05-letter-to-the-council.webp" width="900" height="847" alt="Chips set the context, audience, purpose and formal register. Six numbered paragraphs plan the letter: opening, what the centre does, who would lose out, acknowledging the budget, proposing an alternative, and a polite request and close. An HL note adds concession and hypothesis structures." loading="lazy">
+  <figcaption>Acknowledge the council's reason, then propose an alternative politely.</figcaption>
+</figure>
 
 ## Method in steps: an SL oral image on this theme
 

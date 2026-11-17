@@ -49,6 +49,11 @@ Factor mnemonic: **U C S D A I**: "**U**rgent **C**alls **S**hould **D**efinitel
 
 Overlaps are normal: email = written + electronic; videoconference = oral + visual + electronic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--01-types-of-communication.webp" width="900" height="615" alt="Four cards define written, oral, electronic and visual communication with examples. Below, an email is shown as both written and electronic, and a videoconference as oral, visual and electronic." loading="lazy">
+  <figcaption>Types overlap, so give each type’s main feature and the example that fits it best.</figcaption>
+</figure>
+
 ## Methods: one strength, one weakness
 
 | Method | Strength | Weakness |
@@ -62,6 +67,16 @@ Overlaps are normal: email = written + electronic; videoconference = oral + visu
 | Social media | Huge cheap reach, two-way | Public; criticism spreads fast |
 | Posters | Eye-catching, cheap | One-way; limited detail; one location |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--02-methods-compared.webp" width="900" height="680" alt="Eight cards, one for each method: letter, telephone, face to face, videoconferencing, email, web-based chat, social media and posters. Each card gives the method’s main advantage with a tick and main disadvantage with a cross." loading="lazy">
+  <figcaption>Every method has a trade-off; the situation decides which one matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--03-chatbot-routing.webp" width="900" height="565" alt="A customer question goes to a chatbot. Simple, repeated questions such as opening times or order tracking are answered automatically at any hour; unusual or complex problems are passed to human staff." loading="lazy">
+  <figcaption>Chatbots handle the simple, repeated questions and pass complex ones to people.</figcaption>
+</figure>
+
 ## Factors: what each points to
 
 - **Urgency** → telephone, chat, videoconference.
@@ -71,6 +86,11 @@ Overlaps are normal: email = written + electronic; videoconference = oral + visu
 - **Availability of networks** → letter or telephone where internet is weak.
 - **Importance of the message** → letter or email for a record; face to face for sensitive news.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--04-six-factors.webp" width="900" height="750" alt="Six rows: urgency, cost, security, distance, availability of networks and importance of the message. Each gives the question to ask and the methods it favours, with social media to avoid for security and travel to avoid for cost." loading="lazy">
+  <figcaption>Name the factors in the scenario, then pick the method they favour.</figcaption>
+</figure>
+
 ## Recommendation formula (4-mark answers)
 
 1. **Choose** one method. [1]
@@ -79,6 +99,11 @@ Overlaps are normal: email = written + electronic; videoconference = oral + visu
 4. **Compare** with an alternative and say why yours is better. [1]
 
 Example in four sentences: *A jeweller must tell a customer that her repaired ring is ready.* Use the **telephone**. The customer may want to collect it soon, so speed matters. A call also lets the jeweller confirm the collection time and answer questions at once. A letter would be slower, and a social media message would not be private.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--06-model-answer-structure.webp" width="900" height="590" alt="Four steps of the TravelEase answer, one mark each: recommend email, apply the need for a written record, apply cost and speed with etickets attached, then explain why email beats a letter despite the hacking risk." loading="lazy">
+  <figcaption>Recommend, apply two factors, then say why your choice beats an alternative.</figcaption>
+</figure>
 
 ## Which type does each method belong to?
 
@@ -100,6 +125,11 @@ Use this when a question gives a method and asks which type it is: choose the ty
 - **Urgent but confidential** (a bank detecting fraud on an account): telephone the customer, using security questions; do not email full details.
 - **Cheap but important** (a new contract): email a scanned copy for speed, then post the signed original for the record.
 - **Far away but sensitive** (a supplier dispute abroad): videoconference first, then a written summary by email.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--05-matching-method.webp" width="900" height="760" alt="Seven situations, each with its key factors and the recommended method: telephone for an urgent repair, a letter or secure app for a PIN, videoconferencing for a team in four countries, posters and social media for a local sale, recorded post where internet is weak, face to face for job changes, and a chatbot for routine order questions." loading="lazy">
+  <figcaption>The key factors in each situation point to one method.</figcaption>
+</figure>
 
 ## Key terms
 

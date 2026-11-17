@@ -76,6 +76,21 @@ Prefixes: k = 10³, M = 10⁶, G = 10⁹; c = 10⁻², m = 10⁻³, n = 10⁻⁹
 5. Soft iron, not steel: it loses its magnetism when the current stops.
 6. Uses: relays, scrapyard cranes, electric bells, door locks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--01-bar-magnet-field.webp" width="900" height="920" alt="Field lines leave the north pole of a bar magnet and curve round to the south pole without crossing, closest together at the poles where the field is strongest; compass needles line up along them. Below, unlike poles attract and like poles repel, and iron, nickel, cobalt and steel are magnetic while copper, aluminium, brass and plastic are not." loading="lazy">
+  <figcaption>Field lines run from N to S, never cross, and crowd together where the field is strongest.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--02-wire-and-solenoid-fields.webp" width="900" height="710" alt="End-on views of a wire: current out of the page gives anticlockwise circular field lines, current into the page gives clockwise ones, by the right-hand grip rule. A solenoid wound on a soft iron core has a field like a bar magnet outside and a strong, nearly uniform field inside. More current, more turns and a soft iron core make an electromagnet stronger." loading="lazy">
+  <figcaption>Coil a current-carrying wire round soft iron and you get a magnet you can switch off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--03-electromagnet-fair-test.webp" width="900" height="600" alt="A table: 20 turns at 1.0 A lifts 4 paperclips, 40 turns at 1.0 A lifts 9, and 40 turns at 2.0 A lifts 17. Rows 1 and 2 change only the turns, showing more turns gives a stronger magnet; rows 2 and 3 change only the current, showing more current does. Rows 1 and 3 change both, so they are not a fair test." loading="lazy">
+  <figcaption>Compare only rows where one variable changes.</figcaption>
+</figure>
+
 ## Method in steps: Fleming's left-hand rule
 
 1. Point your **F**irst finger along the field (N to S).
@@ -84,6 +99,16 @@ Prefixes: k = 10³, M = 10⁶, G = 10⁹; c = 10⁻², m = 10⁻³, n = 10⁻⁹
 4. Reverse either field or current and the force reverses. Reverse both and it does not change.
 
 Motor: forces on opposite sides of the coil act in opposite directions, so the coil turns. The **split-ring commutator** reverses the current every half turn to keep it turning one way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--04-motor-effect.webp" width="900" height="710" alt="Fleming’s left-hand rule: first finger points along the field from N to S, second finger along the current and the thumb gives the motion, all at right angles. A wire carrying current into the page between a north pole on the left and a south pole on the right is pushed downwards. Reversing the current or field reverses the force; there is no force when the wire is parallel to the field." loading="lazy">
+  <figcaption>Field, current and force are mutually at right angles; Fleming’s left-hand rule gives the direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--04-dc-motor-commutator.webp" width="900" height="1140" alt="Three end views of a coil between N and S poles. With current flowing, forces on the two sides turn the coil anticlockwise. When the coil is vertical the gaps in the split ring are at the brushes and no current flows. After the halves swap brushes the current in each side reverses, so the coil still turns the same way." loading="lazy">
+  <figcaption>The split ring reverses the current every half turn so the coil keeps turning one way.</figcaption>
+</figure>
 
 ## Induction checklist
 
@@ -98,6 +123,11 @@ Motor: forces on opposite sides of the coil act in opposite directions, so the c
 | Steady d.c. in transformer primary | **No** (the field is not changing) |
 
 Generator: rotating coil + slip rings → a.c. Transformer: secondary turns > primary turns → step-up; fewer → step-down.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--05-electromagnetic-induction.webp" width="900" height="800" alt="A magnet and a coil joined to a centre-zero meter. Pushing the magnet in deflects the needle one way, holding it still gives zero and pulling it out deflects the needle the other way. Moving faster, a stronger magnet or more turns give a bigger induced voltage; a generator’s turning coil produces alternating current." loading="lazy">
+  <figcaption>Only a changing field induces a voltage; reverse the change and the voltage reverses.</figcaption>
+</figure>
 
 ## Method in steps: any v = fλ question
 
@@ -120,6 +150,11 @@ Generator: rotating coil + slip rings → a.c. Transformer: secondary turns > pr
 - Frequency stays the same; wavelength changes in proportion to speed.
 - Water waves travel slower in shallow water, so they refract at a depth change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--07-reflection-refraction.webp" width="900" height="750" alt="Left: a ray reflects from a mirror with the angle of incidence equal to the angle of reflection, both measured from the normal. Right: a ray enters a glass block, slows down and bends towards the normal, then speeds up and bends away from the normal as it leaves. Frequency is unchanged, so light of 5.0 × 10¹⁴ Hz has a wavelength of 600 nm in air and 400 nm in glass." loading="lazy">
+  <figcaption>Refraction is a change of speed; the frequency never changes.</figcaption>
+</figure>
+
 ## Electromagnetic spectrum
 
 Long wavelength, low frequency → short wavelength, high frequency:
@@ -140,6 +175,11 @@ Memory aid: **R**ich **M**en **I**n **V**egas **U**se **X**-ray **G**lasses.
 
 All EM waves: transverse, travel in a vacuum at 3.0 × 10⁸ m/s, transfer energy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--08-em-spectrum.webp" width="900" height="794" alt="Seven regions in order of decreasing wavelength and increasing frequency and energy: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays, each with a use and a main hazard. X-rays and gamma rays are ionising. All are transverse, need no medium and travel at 3.0 × 10⁸ m/s in a vacuum." loading="lazy">
+  <figcaption>Moving down the spectrum, wavelength falls and frequency and energy rise, so the hazard grows.</figcaption>
+</figure>
+
 ## Must-know distinctions
 
 - **Transverse vs longitudinal:** vibrations at 90° to energy transfer (light, water) vs parallel to it (sound).
@@ -148,6 +188,11 @@ All EM waves: transverse, travel in a vacuum at 3.0 × 10⁸ m/s, transfer energ
 - **Permanent vs induced magnet:** keeps its magnetism vs only magnetic in a field.
 - **Sound vs EM waves:** needs a medium, about 340 m/s in air vs travels in a vacuum at 3.0 × 10⁸ m/s.
 - **Amplitude vs wavelength:** a height measured from the rest line vs a length measured along the wave.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--06-transverse-longitudinal.webp" width="900" height="790" alt="A transverse wave drawn about a rest line, with the wavelength marked crest to crest and the amplitude from rest to trough; examples are water, rope and electromagnetic waves. Below, a longitudinal wave with compressions and rarefactions, one wavelength from compression to compression; sound is longitudinal and needs a medium." loading="lazy">
+  <figcaption>Transverse waves vibrate across the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
 
 ## Quick self-test
 

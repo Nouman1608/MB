@@ -50,6 +50,11 @@ the exam, either as written or rearranged.
   its speed still changes.
 - The larger `n` is, the more the light slows and bends, and the **smaller** the critical angle.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--01-reflection-and-refraction-rules.webp" width="900" height="605" alt="Left: a ray reflects from a mirror with the angle of incidence equal to the angle of reflection, both measured from the dashed normal. Right: a ray passing from air into glass slows and bends towards the normal, so the angle of refraction is smaller than the angle of incidence." loading="lazy">
+  <figcaption>Measure all angles from the normal; light entering glass bends towards it.</figcaption>
+</figure>
+
 ## The three blocks in practical 3.17
 
 | Block | What you see | Why it is used |
@@ -60,6 +65,16 @@ the exam, either as written or rearranged.
 
 **Practical 3.19 (refractive index):** vary `i`, measure `r`, plot `sin i` (y) against `sin r` (x); gradient = `n`.
 A straight line through the origin confirms `sin i / sin r` is constant.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--02-three-block-shapes.webp" width="900" height="550" alt="Rectangular block: the ray bends towards the normal entering and away leaving, so it emerges parallel to the incident ray but shifted. Semi-circular block: the ray enters the curved side along a radius without bending and refracts only at the flat face. Triangular prism: the ray is deviated towards the base and white light spreads into colours." loading="lazy">
+  <figcaption>Each block shape shows something different: a parallel shift, one clean refraction, or dispersion.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--03-sin-i-against-sin-r.webp" width="900" height="640" alt="A graph of sin i against sin r with five plotted points and a straight line of best fit through the origin. Using the points (0.225, 0.342) and (0.574, 0.866), the gradient is 0.524 ÷ 0.349 = 1.50, the refractive index." loading="lazy">
+  <figcaption>Plot sin i against sin r: the gradient is the refractive index, n = 1.50.</figcaption>
+</figure>
 
 ## Total internal reflection
 
@@ -76,6 +91,16 @@ carries information (pulses of light) along the fibre.
 **Prisms:** a 45° right-angled glass prism turns light through 90° (one reflection) or 180° (two reflections). It works
 because glass has a critical angle below 45°; a material would need `n` above 1.41 for this.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--04-critical-angle-acrylic.webp" width="900" height="620" alt="Acrylic with refractive index 1.49 has a critical angle of 42.2°. A ray inside a semicircular acrylic block meeting the flat surface at 40° refracts out into the air, bending away from the normal; a ray at 50° is totally internally reflected." loading="lazy">
+  <figcaption>Below the critical angle light escapes; above it, all of it reflects.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--05-optical-fibre.webp" width="900" height="555" alt="A ray zig-zags along a glass fibre, meeting the side wall each time at an angle greater than the critical angle, so it is totally internally reflected again and again and stays inside." loading="lazy">
+  <figcaption>Every bounce is total internal reflection, so the light follows the fibre.</figcaption>
+</figure>
+
 ## Sound
 
 - Sound is **longitudinal**: vibrations parallel to the direction of travel, forming compressions and rarefactions.
@@ -87,6 +112,16 @@ because glass has a critical angle below 45°; a material would need `n` above 1
   Period = (divisions for one wave) × (timebase setting). Frequency = 1/period.
 - **Pitch (3.28P)** depends on frequency: more waves on the screen, higher pitch.
 - **Loudness (3.29P)** depends on amplitude: taller trace, louder sound.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--06-speed-of-sound-echo.webp" width="900" height="675" alt="Echo method: a person 80 m from a wall claps in time with the echoes; 20 intervals take 9.6 s, so one interval is 0.48 s, the sound travels 160 m and the speed is 330 m/s. Second method: two microphones a measured distance apart record the time delay." loading="lazy">
+  <figcaption>The echo travels to the wall and back: speed = 2 × 80 ÷ 0.48 = 330 m/s.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-light-and-sound--07-oscilloscope-frequency.webp" width="900" height="695" alt="An oscilloscope screen of 10 divisions showing a trace in which one complete wave spans 5.0 divisions. With a timebase of 0.20 ms per division the period is 1.0 ms, so the frequency is 1 ÷ 0.0010 = 1000 Hz." loading="lazy">
+  <figcaption>Divisions per wave × timebase = period; frequency = 1 ÷ period.</figcaption>
+</figure>
 
 ## Key terms
 

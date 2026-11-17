@@ -32,6 +32,11 @@ annotated plan, use the [Human Rights in international law study guide](/resourc
 **Council of Europe 1949** → **ECHR signed 1950, in force 1953** (binding, with a court) → **Covenants
 1966** → **Protocol 11, 1998** (single full-time Court).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--02-international-timeline.webp" width="900" height="797" alt="A timeline: 1941 four freedoms; 1945 UN Charter; 1945 to 1946 Nuremberg; 10 December 1948 Universal Declaration; 5 May 1949 Council of Europe; 4 November 1950 Convention signed in Rome; March 1951 UK ratifies first; 3 September 1953 Convention in force; 1954 Commission and 1959 Court; 1966 Covenants and UK acceptance of individual petition; 1998 Protocol 11; 2022 Russia expelled." loading="lazy">
+  <figcaption>Signed in 1950, in force in 1953: the Convention sits within a wider post-war sequence.</figcaption>
+</figure>
+
 ## The Second World War and its aftermath
 
 - Atrocities carried out by states under their own laws: domestic legality did not ensure justice.
@@ -39,6 +44,11 @@ annotated plan, use the [Human Rights in international law study guide](/resourc
 - **Nuremberg trials (1945 to 1946)**: International Military Tribunal; **crimes against humanity**;
   individuals responsible under international law; obeying orders not a complete defence.
 - Aim: international institutions to keep peace and protect rights above the state.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--01-war-to-new-order.webp" width="900" height="550" alt="Three wartime lessons: atrocities carried out by states under their own laws, Roosevelt’s four freedoms of 1941, and the Nuremberg trials establishing individual responsibility for crimes against humanity. These led states to build two institutions: the United Nations at global level, with the Charter in 1945 and the Universal Declaration in 1948, and the Council of Europe at regional level, with the Convention signed in 1950 and in force in 1953." loading="lazy">
+  <figcaption>The war showed rights needed protection above the state: the UN globally, the Council of Europe regionally.</figcaption>
+</figure>
 
 ## The United Nations and the UDHR
 
@@ -50,6 +60,11 @@ annotated plan, use the [Human Rights in international law study guide](/resourc
 | Content | 30 Articles; civil and political plus economic and social rights; preamble on "inherent dignity" |
 | Status | General Assembly resolution, not a treaty; influential, parts argued to be customary law |
 | Follow-up | ICCPR and ICESCR, 1966; with the UDHR, the "International Bill of Human Rights"; monitored by expert committees, no binding court |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--03-international-bill.webp" width="900" height="717" alt="The Universal Declaration was drafted by the UN Commission on Human Rights chaired by Eleanor Roosevelt and adopted in Paris on 10 December 1948 by 48 votes to none with eight abstentions. It is a General Assembly resolution, not a treaty. With the two binding 1966 Covenants, ICCPR and ICESCR, it forms the International Bill of Human Rights; the Covenants are monitored by expert committees, a weaker mechanism than a court." loading="lazy">
+  <figcaption>A non-binding declaration became binding treaties in 1966, but with weak enforcement.</figcaption>
+</figure>
 
 ## The Council of Europe and the ECHR
 
@@ -69,6 +84,11 @@ annotated plan, use the [Human Rights in international law study guide](/resourc
 - **Not the EU**: the EU has the Court of Justice in Luxembourg and its own Charter of Fundamental
   Rights. The UK left the EU in 2020 but remains in the Council of Europe and the Convention.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--04-council-of-europe-not-eu.webp" width="900" height="547" alt="Two panels. The Council of Europe, created by the Treaty of London on 5 May 1949 and based in Strasbourg, promotes democracy, the rule of law and human rights through the Convention and its Court; the UK remains a member. The European Union is separate, with its Court of Justice in Luxembourg and its own Charter; the UK left in 2020. Below, the ten founding states of the Council of Europe." loading="lazy">
+  <figcaption>The Convention belongs to the Council of Europe, which the UK never left.</figcaption>
+</figure>
+
 ## Comparison
 
 | | UDHR | Covenants | ECHR |
@@ -76,6 +96,11 @@ annotated plan, use the [Human Rights in international law study guide](/resourc
 | Binding? | No | Yes | Yes |
 | Enforcement | None directly | Reports to expert committees | Court with binding judgments |
 | Scope | All categories | Civil and political; economic, social and cultural | Civil and political |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-human-rights-in-international-law--05-instrument-comparison.webp" width="900" height="625" alt="Three instruments with bars growing in enforcement strength. The UDHR 1948 is a UN General Assembly resolution with no direct enforcement. The ICCPR and ICESCR 1966 are UN treaties enforced by reporting to expert committees. The ECHR, in force 1953, is a Council of Europe treaty enforced by a court with binding judgments supervised by the Committee of Ministers." loading="lazy">
+  <figcaption>Only the European Convention has a court whose judgments bind states.</figcaption>
+</figure>
 
 ## Key terms
 

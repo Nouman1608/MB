@@ -58,6 +58,11 @@ Condensed recall for **section 3.1.1 Memory** of Paper 1. For full explanations 
 
 Episodic memories can become semantic over time: the details of a lesson fade, but the fact you learned stays.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--01-encoding-and-types.webp" width="900" height="757" alt="Encoding, storage and retrieval are linked. Encoding can be acoustic, visual or semantic. Long-term memory has three types: episodic (personal experiences), semantic (facts) and procedural (skills). Clive Wearing lost most episodic memory but kept the procedural skill of playing the piano." loading="lazy">
+  <figcaption>Episodic, semantic and procedural memories are stored differently, and can be lost separately.</figcaption>
+</figure>
+
 ## Multi-store model at a glance
 
 | Store | Coding | Capacity | Duration | Moves on by |
@@ -72,6 +77,11 @@ Episodic memories can become semantic over time: the details of a lesson fade, b
 **Against:** stores treated as single units (Clive Wearing kept procedural but lost episodic memory); rehearsal is not the only route to LTM; evidence mostly from artificial word lists.
 
 **Case studies in one line:** **HM** (Henry Molaison) had brain surgery for epilepsy and afterwards could hold information briefly but not form new long-term memories, supporting separate STM and LTM. **Clive Wearing**, after a brain infection, lost much of his episodic memory but could still play the piano, suggesting LTM has separate types. Case studies give rich evidence, but each concerns one unusual person, and it is not always clear what the brain was like before the damage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-cognition-and-behaviour--01-c-memory-stores.webp" width="900" height="1010" alt="Three stacked boxes show the multi-store model. The sensory store codes by modality, has a very large capacity and lasts under 2 seconds. The short-term store codes mainly acoustically, holds 5 to 9 items and lasts about 18 to 30 seconds. The long-term store codes mainly semantically, has unlimited capacity and lasts potentially a lifetime. Attention moves information from sensory to short-term, rehearsal moves it to long-term, and retrieval brings it back." loading="lazy">
+  <figcaption>Information moves sensory, short-term, long-term through attention and rehearsal; retrieval brings it back.</figcaption>
+</figure>
 
 ## Key studies
 
@@ -89,6 +99,16 @@ Episodic memories can become semantic over time: the details of a lesson fade, b
 - *Evaluation:* explains everyday distortions and eyewitness errors; but no standardised instructions or tight control, and qualitative data were scored subjectively.
 - *Typical changes:* **omission** (details that did not make sense were left out), **transformation** (unfamiliar items replaced by familiar ones, such as a canoe becoming a boat), and **familiarisation** (the story became more like a conventional English story).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--02-serial-position-curve.webp" width="900" height="793" alt="A U-shaped curve of chance of recall against position in a list. Early words show a primacy effect because they were rehearsed into the long-term store; the last words show a recency effect because they were still in the short-term store; middle words are recalled worst. Cards give the variables, conclusion and evaluation." loading="lazy">
+  <figcaption>Primacy from long-term memory, recency from short-term memory: evidence for separate stores.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--03-war-of-the-ghosts.webp" width="900" height="872" alt="Three pages get shorter as an unfamiliar folk tale is reproduced again and again, with some lines changed. The changes: shortened, unfamiliar details omitted and details transformed into familiar forms. Schemas fill gaps and effort after meaning makes the story fit what we know. An evaluation note follows." loading="lazy">
+  <figcaption>Each recall rebuilds the story to fit our schemas: shorter, simpler, more familiar.</figcaption>
+</figure>
+
 ## Accuracy of memory: three factors
 
 1. **Interference** -- competition between similar memories (proactive or retroactive).
@@ -103,6 +123,11 @@ Episodic memories can become semantic over time: the details of a lesson fade, b
 - **Context**: Godden and Baddeley's divers learned word lists either on land or underwater, then recalled them in the same or the other setting. Recall was better when the settings matched. The setting acted as a **cue**. Applied to revision: mentally picturing the classroom where you learned something may help recall in an exam hall.
 - **False memories**: research led by Elizabeth Loftus showed that when family members' accounts included a made-up childhood event, some participants came to "remember" it, and even added details. This fits Bartlett: if memory is reconstructed each time, suggested information can be built in. It matters for eyewitness testimony, where leading questions could alter what a witness recalls.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--04-accuracy-factors.webp" width="900" height="552" alt="Two interference rows: proactive, where old learning disrupts new (an old PIN), and retroactive, where new learning disrupts old (last term's timetable). Cards cover context, where divers recalled better in the same environment as learning, and false memories, where suggestion produced recall of invented events." loading="lazy">
+  <figcaption>Interference, a change of context and suggestion can all make recall inaccurate.</figcaption>
+</figure>
+
 ## Applying it to a scenario
 
 *Scenario: Leo hears a list of twelve shopping items once. He remembers milk and bread (the first two) and eggs and rice (the last two), but not the middle items.*
@@ -111,11 +136,21 @@ Episodic memories can become semantic over time: the details of a lesson fade, b
 - **Explain**: the first items had more rehearsal, so they reached LTM (**primacy**); the last items were still in STM when he recalled them (**recency**); the middle items were displaced from STM before being rehearsed.
 - **Link**: refer to "milk and bread" and "eggs and rice" from the stem.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--05-scenario-answer.webp" width="900" height="521" alt="Three numbered steps for a three-mark scenario answer about Jamal's locker codes: name the concept (proactive interference), explain it, and link it to the scenario. The last step is highlighted because it earns the application mark." loading="lazy">
+  <figcaption>Name it, explain it, then link it to the person in the question.</figcaption>
+</figure>
+
 ## Model evaluation paragraph
 
 *Topic: evaluate Bartlett's theory of reconstructive memory.*
 
 > A strength of Bartlett's theory is that it explains everyday memory errors, such as two people remembering the same event differently, because each reconstructs it using their own schemas. Research on false memories supports this, showing that suggested details can be built into memories. However, Bartlett's War of the Ghosts study lacked control: participants were not given standardised instructions and were not asked to be accurate, so some changes may have been deliberate guesses rather than memory errors. The story was also deliberately strange to his participants, so it may exaggerate how much memory is distorted for familiar material. Overall, the theory is well supported, but the original study is a weak test of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-memory--06-extended-answer-plan.webp" width="900" height="451" alt="A bar splits an extended answer into describe (about half), evaluate (about half) and a one-sentence conclusion. Below, the describe column lists reconstruction, schemas, effort after meaning and the War of the Ghosts changes; the evaluate column gives one strength and two weaknesses; the conclusion weighs them up." loading="lazy">
+  <figcaption>Split the answer roughly half description, half evaluation, then weigh up.</figcaption>
+</figure>
 
 ## Exam traps
 

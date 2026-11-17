@@ -71,6 +71,16 @@ Dates are old style (Julian) until February 1918.
 | Dec 1922 | USSR formed |
 | Jan 1924 | Death of Lenin |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--08-ru-timeline.webp" width="900" height="1079" alt="A vertical timeline drawn to scale with four coloured bands: tsarist rule 1905 to 14, war and the fall of tsarism 1914 to 17, Bolshevik takeover and Civil War 1917 to 21, and the NEP 1921 to 24. Events include Bloody Sunday 1905, Stolypin assassinated 1911, the tsar’s abdication in March 1917, the Bolshevik seizure of power in October 1917, Brest-Litovsk in March 1918, the Kronstadt mutiny and NEP in 1921, the USSR in 1922 and Lenin’s death in January 1924." loading="lazy">
+  <figcaption>Four phases and the key events, drawn to scale.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--10-ru-stolypin.webp" width="900" height="880" alt="The first and second Dumas were dissolved quickly; after Stolypin changed the electoral law the more conservative third Duma and the fourth Duma (from 1912) ran their full terms. Stolypin, Prime Minister 1906 to 11, combined repression, with field courts martial and hangings known as Stolypin’s necktie, with land reform letting peasants leave the commune and buy land. He was assassinated in 1911, and in 1912 troops shot striking miners at the Lena Goldfields." loading="lazy">
+  <figcaption>Two dissolved Dumas, two that served full terms, and Stolypin’s two methods.</figcaption>
+</figure>
+
 ## 1905 compared with February 1917
 
 | | 1905 | February 1917 |
@@ -80,6 +90,16 @@ Dates are old style (Julian) until February 1918.
 | Opposition | Split by the October Manifesto | Duma and Soviet both turned against the Tsar |
 | Outcome | Nicholas survived | Nicholas abdicated |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--09-ru-1905.webp" width="900" height="1088" alt="A chain: Nicholas II ruled as an autocrat backed by the army, Church and secret police. Pressure came from peasants, workers, national minorities and liberals, and from defeat by Japan. Bloody Sunday in January 1905, the Potemkin mutiny, strikes and soviets followed, then the October Manifesto promised civil rights and an elected Duma. He survived because the opposition split, peace with Japan freed loyal troops, a French loan restored finances, and the army crushed the St Petersburg Soviet and the Moscow rising. The Fundamental Laws of 1906 reasserted his power." loading="lazy">
+  <figcaption>How 1905 unfolded and four reasons the tsar survived.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--11-ru-feb1917.webp" width="900" height="955" alt="A chain: heavy defeats and millions of casualties; railways could not supply both army and cities so food was short and prices soared; in 1915 Nicholas took personal command while Alexandra and Rasputin governed; in February 1917 strikes and bread queues became mass demonstrations; the Petrograd garrison mutinied and joined the crowds. Duma leaders formed a Provisional Government and workers and soldiers formed the Petrograd Soviet. Generals advised Nicholas to go and he abdicated on 2 March 1917." loading="lazy">
+  <figcaption>From wartime strain to abdication.</figcaption>
+</figure>
+
 ## Reds v Whites
 
 | Reds | Whites |
@@ -88,6 +108,11 @@ Dates are old style (Julian) until February 1918.
 | United leadership (Lenin, Trotsky) | Rival generals with different aims |
 | Disciplined Red Army; ex-tsarist officers watched by commissars | Brutal, feared by peasants as landlords' allies |
 | War Communism, Cheka, propaganda | Limited, inconsistent foreign help |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--13-ru-civil.webp" width="900" height="687" alt="A two-column comparison. Reds: the Bolsheviks, who held the central industrial area and railways, with Trotsky’s disciplined Red Army, War Communism, the Cheka and propaganda presenting them as defenders of Russia. Whites: monarchists, liberals and generals such as Kolchak, Denikin and Yudenich, scattered geographically and divided, helped by foreign intervention but feared by peasants who thought they would take back land." loading="lazy">
+  <figcaption>Why the Reds won the Civil War.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -113,6 +138,11 @@ Dates are old style (Julian) until February 1918.
 | Industry | All nationalised | State kept heavy industry; small firms private |
 | Effects | Army supplied; famine and revolts | Recovery; ideological opposition from the Left |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--14-ru-nep.webp" width="900" height="796" alt="Famine, peasant revolts and the Kronstadt mutiny of March 1921 led Lenin to change course. War Communism (1918 to 21) requisitioned grain, banned private trade and nationalised industry. The NEP from 1921 replaced requisitioning with a tax in kind so peasants could sell surpluses, reopened small businesses and let the state keep heavy industry and banking. Production recovered, but many communists saw it as a retreat to capitalism." loading="lazy">
+  <figcaption>What changed in 1921.</figcaption>
+</figure>
+
 ## Worked example: describe two features
 
 *Describe two features of the Kornilov Revolt (1917).* (6 marks)
@@ -121,6 +151,11 @@ Dates are old style (Julian) until February 1918.
    restore order and crush the Soviet.
 2. Kerensky armed the Bolshevik Red Guards to defend the city; railway workers and agitators stopped
    Kornilov's troops, and the episode boosted Bolshevik support.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-world-history-investigation-russia-soviet-union--12-ru-october.webp" width="900" height="910" alt="A schematic line, not to scale, running down the page with Bolshevik standing shown by how far right it sits. April: Lenin’s April Theses with “Peace, Bread and Land”. July Days: Bolsheviks blamed and Lenin flees to Finland, a setback. August: the Kornilov Revolt and Red Guards armed by Kerensky, a recovery. September: majorities in the Petrograd and Moscow soviets. 24 to 25 October: the Military Revolutionary Committee seizes key points." loading="lazy">
+  <figcaption>Setbacks and gains for the Bolsheviks through 1917 (schematic).</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

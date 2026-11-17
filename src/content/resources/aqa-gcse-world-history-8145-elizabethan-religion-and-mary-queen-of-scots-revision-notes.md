@@ -58,16 +58,41 @@ featured: false
 | Puritans | Remove "popish" practices; preaching; some wanted Presbyterianism | Challenged her authority over the church |
 | Separatists | Leave the Church of England altogether | Seen as a threat to order; harshly punished |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--01-religious-settlement-1559.webp" width="900" height="507" alt="Three parts of the 1559 Settlement: the Act of Supremacy made Elizabeth Supreme Governor, the Act of Uniformity required church attendance with a twelve-pence fine for recusants, and some traditional features were kept. Below, tolerance in the 1560s gives way to questions of loyalty after Mary arrives in 1568." loading="lazy">
+  <figcaption>The Settlement asked for outward conformity; Mary's arrival made religion a question of loyalty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--07-middle-way-under-attack.webp" width="900" height="541" alt="The 1559 Settlement sits in the centre, with Catholic pressures (Mary, excommunication, missionaries, plots) pushing from one side and Puritan pressures (vestments, prophesyings, separatists) from the other. A note links religion to the succession." loading="lazy">
+  <figcaption>Religion and the succession were inseparable, and the Settlement was challenged from both sides.</figcaption>
+</figure>
+
 ## Why Mary was a threat, and why Elizabeth kept her alive
 
 **Threat:** strong claim through Margaret Tudor; Catholic; focus for rebellion and plots; possible French or Spanish support.
 **Dilemma:** freeing her risked rebellion; sending her abroad risked foreign support; executing a queen set a dangerous precedent. So she was kept in custody for nineteen years.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--02-what-to-do-with-mary.webp" width="900" height="603" alt="Four options for Elizabeth: freeing Mary, sending her to France or executing her each carried a risk, so Elizabeth kept her in custody for nineteen years. A note explains Mary's claim through Margaret, Henry VIII's elder sister." loading="lazy">
+  <figcaption>Every option was risky, so Elizabeth chose nineteen years of custody.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--03-northern-rebellion.webp" width="900" height="664" alt="Two causes, the earls' lost influence and the plan to marry Mary to Norfolk, lead to the rising of November 1569 with Mass at Durham Cathedral, its collapse, and the punishment of the rebels. Its significance: Mary could be a focus for Catholic discontent." loading="lazy">
+  <figcaption>The rising showed that Mary could be a focus for Catholic discontent.</figcaption>
+</figure>
 
 ## The plots in order
 
 1. **Ridolfi (1571):** Spanish invasion; Mary to marry Norfolk; Norfolk executed 1572.
 2. **Throckmorton (1583):** French-led invasion; Spanish ambassador expelled.
 3. **Babington (1586):** kill Elizabeth; Walsingham's intercepted beer-barrel letters; Mary's approval proved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--05-plots-to-execution.webp" width="900" height="790" alt="Vertical timeline: Ridolfi Plot 1571, Throckmorton Plot 1583, Bond of Association 1584, the 1585 Act, Babington Plot 1586, trial at Fotheringhay in October 1586 and Mary's execution on 8 February 1587." loading="lazy">
+  <figcaption>The Bond and the 1585 Act meant Babington's letters could bring Mary to trial.</figcaption>
+</figure>
 
 ## Government responses
 
@@ -77,11 +102,21 @@ featured: false
 - **Against Puritans:** Grindal suspended (1577); Whitgift enforces conformity; crackdown after Marprelate.
 - **Parliament:** pressed for Mary's execution from 1572; Bond of Association (1584).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--04-catholic-threat-and-response.webp" width="900" height="789" alt="Table of years from 1568 to 1585 pairing Catholic challenges (Douai college, excommunication, seminary priests, Jesuits) with government responses (treason act of 1571, the £20 fine of 1581, the 1585 order expelling priests)." loading="lazy">
+  <figcaption>Each new Catholic challenge brought harsher laws.</figcaption>
+</figure>
+
 ## Impact of Mary's execution
 
 - Main Catholic claimant removed; heir now Protestant James VI.
 - Philip II freed to invade without helping a French-linked queen; Armada 1588.
 - Most English Catholics stayed loyal during the Armada crisis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots--06-impact-of-execution.webp" width="900" height="334" alt="Three consequences: the main Catholic claimant was removed and the Protestant James VI became heir; Philip II gained another reason for the Armada of 1588; and the Catholic threat at home was reduced." loading="lazy">
+  <figcaption>The execution ended the threat at home but helped bring war with Spain.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -37,6 +37,11 @@ featured: false
 | Italy | Pressure on Mussolini to restore prestige | Abyssinia (1935); move towards Germany |
 | USA | Isolationism strengthened | Neutrality Acts; no role in collective security |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--01-depression-extremism.webp" width="900" height="578" alt="The Depression branches into four effects: in Germany the Nazis rose to become the largest party and Hitler Chancellor in January 1933; in Japan the army's influence grew after Inukai's assassination in 1932; in Italy Mussolini sought foreign success; in the USA, Neutrality Acts from 1935 strengthened isolation." loading="lazy">
+  <figcaption>The Depression pushed three powers towards expansion and the USA towards isolation.</figcaption>
+</figure>
+
 ## Chronology
 
 | Date | Event |
@@ -68,6 +73,16 @@ featured: false
 | 23 Aug 1939 | Nazi-Soviet Pact |
 | 1-3 Sept 1939 | Poland invaded; Britain and France declare war |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--02-shifting-alignments.webp" width="900" height="405" alt="Three columns. In 1934-35 the USSR joined the League and signed pacts with France and Czechoslovakia. In April 1935 Britain, France and Italy formed the Stresa Front, which collapsed within months. In 1936-37 Germany and Italy formed the Rome-Berlin Axis and joined Japan in the Anti-Comintern Pact. An arrow shows Italy moving from Stresa to the Axis after Abyssinia and Spain." loading="lazy">
+  <figcaption>Italy's move from Stresa to the Axis reshaped the balance in Europe.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--06-road-to-war.webp" width="900" height="569" alt="A timeline from 1935 to 1939 drawn to scale. Above, German moves: rearmament (1935), the Rhineland (March 1936), the Anschluss (March 1938), Prague (March 1939) and Poland (1 September 1939). Below, responses: the Anglo-German Naval Agreement (1935), Munich (September 1938), the guarantee to Poland (March 1939), the Nazi-Soviet Pact (23 August 1939) and war (3 September 1939)." loading="lazy">
+  <figcaption>Each unopposed step raised Hitler's confidence; the Nazi-Soviet Pact set the timing.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -96,6 +111,11 @@ featured: false
 | Great-power behaviour | Britain and France unwilling to act in Asia | Hoare-Laval Plan undermined sanctions |
 | Result | Japan left the League | Conquest completed; sanctions lifted |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--03-manchuria-abyssinia.webp" width="900" height="605" alt="A comparison table. Manchuria: the Mukden incident (September 1931) and Manchukuo, the Lytton Commission, no sanctions and Japan's withdrawal in February 1933. Abyssinia: the Walwal clash, Italy's invasion in October 1935, limited sanctions, the Hoare-Laval Plan and conquest by May 1936. Below, five causes of failure: no disarmament, absent powers, reliance on Britain and France, the Depression and nationalism." loading="lazy">
+  <figcaption>In both crises the League condemned the aggressor but would not stop it.</figcaption>
+</figure>
+
 ## Appeasement -- motives, actions, verdict
 
 - **Motives (Britain):** Depression and cost; the Ten-Year Rule's legacy; public opinion (Oxford Union, Peace Ballot); fear of bombing; Versailles thought unfair; fascism as a barrier to communism; imperial commitments.
@@ -103,6 +123,21 @@ featured: false
 - **Actions:** Naval Agreement (1935); Rhineland (1936); Anschluss (1938); Munich (1938); response to Prague (1939).
 - **Successes:** war postponed; time for rearmament; public and Dominion consent in 1939.
 - **Failures:** dictators gained resources and confidence; opposition grew; the USSR was alienated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--04-why-appease.webp" width="900" height="525" alt="Two columns. Britain: limited money for arms, run-down forces after the Ten-Year Rule, apparently pacifist opinion, fear of bombing, and elite sympathy for fascism and German grievances. France: economic problems, political division, fear of communism and the Popular Front, dependence on Britain and the defensive Maginot Line." loading="lazy">
+  <figcaption>Appeasement had economic, military and political reasons in both countries.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--05-appeasement-balance.webp" width="900" height="463" alt="A balance scale. Successes: war postponed to 1939, time to rearm with fighters and radar, and popular and Dominion consent for war. Failures: Germany gained Austrian reserves, Czech fortifications and the Skoda works; Hitler concluded the West would not fight; and opposition grew, with Churchill's warnings and the resignations of Eden and Duff Cooper." loading="lazy">
+  <figcaption>Appeasement bought time, but it also made Hitler stronger and bolder.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-international-history-1929-39--07-hitler-main-reason.webp" width="900" height="585" alt="Four alternative factors, appeasement, the League's failure, the Nazi-Soviet Pact and the guarantee to Poland, point to the stated factor: Hitler's aims and his decision to invade Poland. A possible judgement: his aims made war likely and the Pact set its timing." loading="lazy">
+  <figcaption>Separate what made war likely from what decided when it came.</figcaption>
+</figure>
 
 ## Exam traps
 

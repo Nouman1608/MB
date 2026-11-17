@@ -44,12 +44,27 @@ For full explanations, read the [processes within schools study guide](/resource
 | Tiered entry | Entering pupils for a foundation or higher paper, which affects the grades available |
 | Participant observation | The researcher joins in the life of the group being studied |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-education--07-streaming-setting-mixed.webp" width="900" height="650" alt="Three panels follow one highlighted pupil across maths, English and science. With streaming the pupil is in the lower group for every subject. With setting the pupil is in the top set for maths and science but a lower set for English. With mixed ability everyone is taught together." loading="lazy">
+  <figcaption>Streaming fixes one group for all subjects; setting can differ subject by subject.</figcaption>
+</figure>
+
 ## The self-fulfilling prophecy in four steps
 
 1. **Label:** the teacher defines the pupil ("weak", "not academic").
 2. **Treatment:** easier work, lower set, less praise, lower-tier entry.
 3. **Self-image:** the pupil accepts the label and loses confidence or effort.
 4. **Outcome:** lower achievement that seems to prove the label right.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--02-self-fulfilling-prophecy.webp" width="900" height="683" alt="A four-step cycle: a teacher labels a pupil as not academic; the teacher gives easier work and less praise; the pupil sees themselves through the label and loses effort; achievement falls, which seems to confirm the label." loading="lazy">
+  <figcaption>A label becomes a self-fulfilling prophecy only when it comes true.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--03-ideal-pupil.webp" width="900" height="717" alt="Concentric circles with the teacher’s ideal pupil at the centre. Middle-class pupils sit close to the centre; working-class pupils sit further out and are more likely to be seen as badly behaved. Below, Rosenthal and Jacobson’s experiment as bonus evidence that expectations can change outcomes." loading="lazy">
+  <figcaption>Teachers judged pupils against an ideal that was closest to middle-class pupils.</figcaption>
+</figure>
 
 ## Key studies at a glance
 
@@ -58,6 +73,16 @@ For full explanations, read the [processes within schools study guide](/resource
 | **Ball, *Beachside Comprehensive* (1981)** | Three years as a participant observer in a south coast comprehensive; two cohorts, one banded and one mixed ability | Middle-class pupils more likely to be placed in band 1 with higher expectations; band 2 most likely to become anti-school (polarisation); with mixed ability, polarisation less marked but teacher expectations still differed | Rich, valid data; one school, so may not be representative; researcher may affect behaviour |
 | **Willis, *Learning to Labour* (1977)** | Observation, participant observation, group discussions, informal interviews and diaries; twelve working-class lads in a Midlands school | Counter culture; felt superior to teachers and "ear'oles"; avoided lessons; rejection of school suited them to manual work | Small all-male sample; manual jobs now far scarcer |
 | **Becker (Chicago teachers)** | Interviews with teachers | Teachers judged pupils against an "ideal pupil" closest to middle-class pupils | American and dated; not named for 3.4.4 in the specification, so use as support |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--04-ball-beachside.webp" width="900" height="765" alt="Two cohorts. In the banded cohort, middle-class pupils were more often placed in band 1 and prepared for higher-status exams, while band 2 was steered to lower-status courses and developed anti-school attitudes: polarisation. In the mixed ability cohort polarisation was less marked, but teachers’ expectations still favoured middle-class pupils." loading="lazy">
+  <figcaption>Banding worked as an institutional label that shaped pupils’ attitudes and exams.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--05-willis-lads.webp" width="900" height="835" alt="The lads formed a counter school culture, felt superior to teachers and to conformist ear’oles, and aimed to have a laff. Rejecting school suited them to male-dominated manual work, easy to get in the 1970s. Below, Ball shows the institution shaping pupils while Willis shows pupils actively resisting." loading="lazy">
+  <figcaption>Willis shows pupils actively choosing resistance, which still led to manual work.</figcaption>
+</figure>
 
 ## Perspectives in one line each
 
@@ -73,6 +98,11 @@ For full explanations, read the [processes within schools study guide](/resource
 - **Ball vs Willis:** Ball shows the institution's grouping shaping attitudes; Willis shows pupils actively creating an anti-school identity.
 - **Ball 1981 vs Ball 1994:** teacher expectations (3.4.4) versus parental choice (3.4.3).
 - **Internal vs external:** in-school processes versus home and income factors.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-8192-processes-within-schools--01-tiered-entry.webp" width="900" height="498" alt="A chain: a pupil in a low GCSE set is entered for the foundation tier, which caps the highest grade available. Below, arguments for and against streaming, setting and mixed ability teaching." loading="lazy">
+  <figcaption>Through tiered entry, a set placement can directly limit the grade a pupil can achieve.</figcaption>
+</figure>
 
 ## Exam traps
 

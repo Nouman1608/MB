@@ -39,12 +39,22 @@ a model passage are in the
 | Objectives | W1, W2, W3, W5 (W4 register not assessed in Section B) |
 | Source text | none |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--01-task-and-definition.webp" width="900" height="915" alt="Section B offers four questions, two descriptive and two narrative, and one is answered in about 350 to 450 words for 25 marks. The definition splits into four targets: the subject, the atmosphere, specific detail and the reader picturing it; the piece is marked on W1, W2, W3 and W5, with W4 not assessed." loading="lazy">
+  <figcaption>Every phrase of the definition is a target, and four writing objectives carry the 25 marks.</figcaption>
+</figure>
+
 ## The definition as a checklist
 
 - a **person, place or situation**
 - **atmosphere** as well as contents
 - **in detail**: specific, chosen details
 - the reader can **picture** it
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--02-description-not-story.webp" width="900" height="700" alt="A check for the words “and then”: if you are still describing, a small event such as a gust of wind or a stall closing serves the picture; if not, the piece has drifted into narrative, like an answer that starts at a market and ends with a chase." loading="lazy">
+  <figcaption>Small events can serve a description; a plot that takes over cannot.</figcaption>
+</figure>
 
 ## Objectives in the descriptive task
 
@@ -64,6 +74,11 @@ a model passage are in the
 5. **Before and after**: scene → interruption → changed scene.
 6. **Circular**: end where you started, mood shifted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--03-six-structures.webp" width="900" height="940" alt="Six ways to shape a description: zoom from a wide view to one detail, time-lapse of one place at dawn, noon and night, a journey from entrance to far corner, the senses in turn, before and after an interruption, and a circular piece that ends where it began with the mood changed." loading="lazy">
+  <figcaption>Pick a structure before you write; each paragraph becomes one stage of it.</figcaption>
+</figure>
+
 ## General to specific
 
 | General | Specific |
@@ -73,6 +88,11 @@ a model passage are in the
 | went up | unravelled, curled, drifted |
 | noisy | the clatter of shutters, a radio crackling |
 | beautiful sunset | the sky bruising from orange to violet |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--04-specific-detail.webp" width="900" height="708" alt="General words such as nice, busy, beautiful and lots of are replaced with specific nouns and precise verbs: food becomes skewers of charred corn, a bird becomes a crow, and the smoke went up becomes the smoke unravelled into the dark. Three further tools: selected senses, sparing figurative language and a single person in the scene." loading="lazy">
+  <figcaption>Swap the general word for the specific one the reader can see.</figcaption>
+</figure>
 
 ## Atmosphere tools
 
@@ -84,6 +104,11 @@ a model passage are in the
 
 Decide the mood first; choose details that point to it.
 A change in light or sound halfway through can give the whole piece its turning point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--05-building-atmosphere.webp" width="900" height="770" alt="A market at dawn described two ways: peaceful, with the first stallholder yawning and a cat stretching on a sack of rice, or unsettling, with shutters half-raised and a single light swinging. Light, weather, colour and sound are the strongest atmosphere tools." loading="lazy">
+  <figcaption>The place stays the same; the details you select make the mood.</figcaption>
+</figure>
 
 ## Sentence variety
 
@@ -118,6 +143,11 @@ A change in light or sound halfway through can give the whole piece its turning 
 | 5 (optional) | return or final image | ... |
 
 Write the atmosphere word at the top of the plan and check every detail against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-descriptive-composition--07-plan-and-timing.webp" width="900" height="826" alt="Spend about five minutes planning atmosphere, structure and details per stage, write four or five paragraphs aiming for the middle of 350 to 450 words, then proofread for W5. A sample plan built from the railway station model lists the atmosphere, a zoom structure and four stages." loading="lazy">
+  <figcaption>Five minutes of planning gives every paragraph its stage and its details.</figcaption>
+</figure>
 
 ## Exam traps
 

@@ -48,6 +48,11 @@ Condensed notes for sub-topic 3.1. Full explanations, comparison tables and a re
 
 **Arrow positions on diagrams:** up from sea or plants = evaporation or transpiration; clouds forming = condensation; down from clouds = precipitation; over the surface = run-off; into the ground = infiltration; within soil = through-flow; deep in rock = ground water flow.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--07-wa-water-cycle.webp" width="900" height="1020" alt="A landscape cross-section, not to scale. Five stores are shown as navy labels: atmosphere, oceans of salt water, glaciers and ice sheets, lakes and rivers, and ground water. Arrows show transfers: evaporation, condensation, precipitation, interception, transpiration, surface run-off, infiltration, through-flow and ground water flow." loading="lazy">
+  <figcaption>The water cycle is a set of stores linked by transfers.</figcaption>
+</figure>
+
 ## Sources of fresh water (3.1.2)
 
 - **Atmosphere**: rain and snow.
@@ -56,6 +61,11 @@ Condensed notes for sub-topic 3.1. Full explanations, comparison tables and a re
 - **Oceans**: desalination plants.
 
 **Aquifer**: permeable rock (such as sandstone or limestone) that stores ground water above impermeable rock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--01-four-sources.webp" width="900" height="770" alt="A schematic cross-section, not to scale. 1: the atmosphere, with rain collected from a roof. 2: surface water in a river and a reservoir behind a dam. 3: ground water reached by a well drilled into an aquifer of permeable rock above impermeable rock. 4: the ocean, used by a desalination plant." loading="lazy">
+  <figcaption>Fresh water comes from the atmosphere, surface water, ground water and, by desalination, the ocean.</figcaption>
+</figure>
 
 ## Oceans (3.1.3)
 
@@ -74,6 +84,11 @@ Pacific, Atlantic, Indian, Southern, Arctic.
 
 Memory aid: **large → heavy → small → living**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--08-wa-treatment.webp" width="900" height="1100" alt="Four rows in order: screening (bars hold back debris), sedimentation (particles settle in a tank), filtration (water passes down through sand and gravel) and chlorination (chlorine added), ending with potable water from a tap." loading="lazy">
+  <figcaption>Water is treated in four stages: screening, sedimentation, filtration and chlorination.</figcaption>
+</figure>
+
 ## Availability of potable water (3.1.6)
 
 | Comparison | Better access | Poorer access |
@@ -83,6 +98,11 @@ Memory aid: **large → heavy → small → living**.
 | Global inequalities | Wealthier countries: reservoirs, treatment, sewage works | Lower-income countries: fewer piped supplies; untreated sewage may enter rivers |
 
 **Exception to note:** fast-growing cities may outgrow their infrastructure, leaving informal settlements without safe water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--02-availability-compared.webp" width="900" height="670" alt="Three comparisons. Water-rich regions have high, year-round rainfall, large rivers or aquifers, whereas water-poor regions have low or unreliable rain, high evaporation and few permanent rivers. Urban areas usually have piped, treated supplies, whereas rural areas may rely on untreated wells or rivers. Wealthier countries afford treatment and sewage works, whereas in many lower-income countries untreated sewage may enter rivers used for drinking." loading="lazy">
+  <figcaption>Rainfall, settlement type and wealth decide who has safe drinking water.</figcaption>
+</figure>
 
 ## Desalination (3.1.7 and 3.1.8)
 
@@ -97,6 +117,11 @@ Memory aid: **large → heavy → small → living**.
 | Suits dry coastal countries | Only practical near the coast |
 | Eases pressure on rivers and aquifers | High building cost |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--09-wa-desalination.webp" width="900" height="1100" alt="Two panels. Distillation: salt water is heated, vapour passes into a cooled pipe where it condenses, and fresh water collects while salt stays behind. Reverse osmosis: high pressure pushes salty water against a membrane so that water passes to the fresh side and salt stays. A note says to weigh cost and energy use against water security." loading="lazy">
+  <figcaption>Distillation boils and condenses; reverse osmosis uses pressure and a membrane.</figcaption>
+</figure>
+
 ## Multipurpose dams (3.1.9 and 3.1.10)
 
 **Eight uses:** flood control, hydro-electric power, irrigation, storage of water, transport, recreation, tourism, fish farming.
@@ -109,11 +134,26 @@ Memory aid: **large → heavy → small → living**.
 | Flood protection downstream | Fish migration blocked; river ecosystems changed |
 | Jobs in tourism and fishing | Evaporation losses; disputes with countries downstream |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-environmental-management-water--10-wa-dam.webp" width="900" height="900" alt="A dam cross-section, not to scale, with eight numbered uses: flood control, hydro-electric power, irrigation, storage, transport, recreation, tourism and fish farming. A legend lists them." loading="lazy">
+  <figcaption>A multipurpose dam has eight listed uses, each with a possible limitation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--03-dam-weighed.webp" width="900" height="725" alt="A schematic dam and reservoir with silt trapped behind the dam and a steadier river protecting towns downstream. Benefits: water, energy and flood control together; renewable electricity; reliable irrigation; jobs; flood protection. Limitations: very high cost; people displaced and land flooded; silt fills the reservoir and is lost to farms downstream; fish migration blocked; evaporation and disputes downstream." loading="lazy">
+  <figcaption>A dam brings water, power and flood control, but floods land, traps silt and changes the river.</figcaption>
+</figure>
+
 ## Calculation to practise
 
 **Days of supply** = volume stored ÷ daily use.
 
 Quick check: 9 million m³ ÷ 30,000 m³ a day = 300 days. If use rises by 20% to 36,000 m³ a day: 9,000,000 ÷ 36,000 = 250 days.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-water-sources-and-supply--04-reservoir-days.webp" width="900" height="655" alt="A graph of a 12 million cubic metre reservoir emptying with no rain. At 40,000 cubic metres a day it lasts 300 days; after 25% population growth, at 50,000 a day, it lasts 240 days, 60 days fewer." loading="lazy">
+  <figcaption>A 25% rise in demand cuts the reservoir’s life from 300 to 240 days.</figcaption>
+</figure>
 
 ## Key terms
 

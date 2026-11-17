@@ -94,6 +94,11 @@ More detail on each:
 shops and offices, which can pay most, occupy the CBD, while housing and land-hungry uses locate
 further out.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--01-urban-models.webp" width="900" height="1100" alt="Three plan views. Burgess: concentric rings around a central business district. Hoyt: wedge-shaped sectors spreading from the centre, with dashed lines for transport routes. Harris and Ullman: several separate nuclei besides the central business district." loading="lazy">
+  <figcaption>Three classic models of how land use is arranged in a city.</figcaption>
+</figure>
+
 ## Urban hierarchy: the rank-size rule
 
 The nth city has a population of 1/n times that of the largest city. If the largest city has 8
@@ -104,6 +109,11 @@ function are concentrated in one place.
 **Primacy check (invented figures):** largest city 12 million, second city 1.2 million. The rule
 predicts 6 million for the second city, so the actual city is one-fifth of the predicted size, and the
 largest city is ten times the second: strongly primate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--02-rank-size.webp" width="900" height="880" alt="Bar chart for a fictional country with a largest city of 8 million: rank-size predicts 4, 2.67 and 2 million for the 2nd, 3rd and 4th cities; a real second city of 1.5 million is far below 4, a primate pattern." loading="lazy">
+  <figcaption>The rank-size rule predicts city sizes; a primate city breaks the pattern.</figcaption>
+</figure>
 
 ## Characteristics worth knowing
 

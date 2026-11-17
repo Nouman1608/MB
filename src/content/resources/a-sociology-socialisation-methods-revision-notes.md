@@ -58,6 +58,11 @@ The sociological case rests on evidence that human behaviour is **learnt**, not 
 
 **Subculture** — a group within society with distinct norms and values. **Counter-culture** — a subculture actively opposed to the mainstream.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--02-nature-nurture.webp" width="900" height="571" alt="Nature arguments, such as sociobiology and hormone research, set against nurture evidence from the isolated child Genie, Mead’s cross-cultural study and Oakley’s work on gender socialisation. The conclusion: biology sets possibilities, socialisation decides which become normal." loading="lazy">
+  <figcaption>Biology sets the possibilities; socialisation decides which become normal.</figcaption>
+</figure>
+
 ## Structure versus action
 
 The organising debate of the whole syllabus.
@@ -75,6 +80,11 @@ The organising debate of the whole syllabus.
 - **Postmodernism** — grand narratives no longer explain society; identity is fluid, chosen and consumed rather than ascribed.
 
 **Giddens's structuration** offers the synthesis: structure and action shape one another continuously, since people act within structures that their actions in turn reproduce or change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--05-structure-agency.webp" width="900" height="741" alt="Structuralist views start from society, which shapes the individual: functionalists stress consensus and Marxists stress power, ideology and force. Interactionist views start from individuals, whose interaction builds a negotiated social order, as in Mead and Goffman." loading="lazy">
+  <figcaption>Structuralists see society shaping people; interactionists see people building order.</figcaption>
+</figure>
 
 ## Why do people conform, and how is order kept?
 
@@ -96,6 +106,11 @@ It also names four **mechanisms through which order is maintained**:
 
 **Explaining deviance and non-conformity:** **under-socialisation** (inadequate primary socialisation, a New Right theme), **cultural deprivation** (lacking the norms and values that bring success), **subcultures** with alternative values, **marginalisation** (exclusion from mainstream rewards), and **social resistance** (deliberate rejection of dominant norms, as in youth or political movements).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-social-control-and-identity--04-why-conform.webp" width="900" height="427" alt="Four reasons people conform: sanctions, social pressure shown in Asch’s experiments, self-interest in Hirschi’s social bond theory, and social exchange in Homans’s theory of rewards and costs." loading="lazy">
+  <figcaption>Sanctions, pressure, self-interest and exchange all keep people conforming.</figcaption>
+</figure>
+
 ## Designing and approaching research
 
 **Stages of research design:** choose a research strategy; formulate research questions or a hypothesis; **operationalise** concepts so they can be measured; identify a **sampling frame** and sampling technique; run a **pilot study**; conduct the research; interpret the results.
@@ -105,6 +120,11 @@ It also names four **mechanisms through which order is maintained**:
 **Approaches:** **case studies** (one group or setting in depth), **social surveys** (large-scale, usually quantitative), **ethnography** (living among a group to describe its way of life), **longitudinal studies** (the same sample over time, which shows change but suffers sample attrition). **Methodological pluralism** uses several methods for a fuller picture; **triangulation** uses them to check one result against another.
 
 **Value-freedom:** positivists argue research can and should be objective; many interpretivists and feminists argue values shape the choice of topic, method and interpretation, and that funding bodies can bias findings, so researchers should be open about their values.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--05-research-design-stages.webp" width="900" height="745" alt="Eight stages in order: research strategy, research questions and hypotheses, operationalisation, sampling frame, sampling technique, pilot study, conducting research and interpreting results." loading="lazy">
+  <figcaption>Research design runs from choosing a strategy to interpreting results.</figcaption>
+</figure>
 
 ## Research methods
 
@@ -133,6 +153,21 @@ Quantitative methods tend to be **high in reliability, low in validity**; qualit
 **Triangulation** combines methods to offset each one's weaknesses and increase confidence in the findings.
 
 **Ethics:** informed consent, confidentiality, protection from harm, no deception, right to withdraw. Covert observation breaches consent and deception, which is exactly why it is defended only when overt research would be impossible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--04-positivism-interpretivism.webp" width="900" height="693" alt="Positivists use quantitative, structured methods such as surveys and official statistics to aim for objectivity, reliability and generalisation, modelling sociology on the natural sciences. Interpretivists use qualitative, less structured methods such as unstructured interviews and participant observation to aim for validity and understanding of meaning." loading="lazy">
+  <figcaption>Positivists aim for reliability and generalisation; interpretivists aim for validity and meaning.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--01-types-of-data.webp" width="900" height="646" alt="A two-by-two grid. Primary quantitative: questionnaires, structured interviews, experiments. Primary qualitative: unstructured interviews, participant observation. Secondary quantitative: official statistics, existing survey data. Secondary qualitative: diaries, letters, social media posts, news articles." loading="lazy">
+  <figcaption>Any data is primary or secondary, and quantitative or qualitative.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-research-methods-design-and-issues--07-reliability-validity.webp" width="900" height="651" alt="Quantitative methods such as questionnaires, structured interviews, official statistics and large sampled surveys score higher on reliability and representativeness; qualitative methods such as unstructured interviews and participant observation score higher on validity. Objectivity and ethics are noted below." loading="lazy">
+  <figcaption>Methods tend to gain reliability or validity, rarely both.</figcaption>
+</figure>
 
 ## Exam traps
 

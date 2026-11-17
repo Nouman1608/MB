@@ -35,9 +35,19 @@ featured: false
 | Hanbali | Ahmad ibn Hanbal | Baghdad | Texts first; little analogy | al-Musnad | Saudi Arabia, Qatar |
 | Ja'fari | Ja'far al-Sadiq | Madinah | Teachings of the Ahl al-Bayt; reason ('aql) instead of qiyas; living mujtahids | Teachings recorded by students | Iran, Iraq, Bahrain, Lebanon, Azerbaijan |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--03-five-schools.webp" width="900" height="570" alt="A table of the five schools with founder and city, distinctive method, key work and where they are followed: Hanafi (Abu Hanifa, Kufa), Maliki (Malik, Madinah, al-Muwatta), Shafi’i (al-Shafi’i, Egypt, al-Risala), Hanbali (Ahmad ibn Hanbal, Baghdad, al-Musnad) and Ja’fari (Ja’far al-Sadiq, Madinah)." loading="lazy">
+  <figcaption>Learn each founder with a city and one distinctive method.</figcaption>
+</figure>
+
 ## Teacher–student links
 
 Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik learned from him) → Malik taught **al-Shafi'i** → al-Shafi'i taught **Ahmad ibn Hanbal**. The schools grew from a connected world of scholarship, not from rival camps.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--04-teacher-links.webp" width="900" height="680" alt="Links between the founders: traditions report that Abu Hanifa and Malik learned from Ja’far al-Sadiq; al-Shafi’i studied under Malik and learned from Hanafi scholars in Iraq; Ahmad ibn Hanbal was a student of al-Shafi’i; and Abu Yusuf and al-Shaybani recorded Abu Hanifa’s teaching." loading="lazy">
+  <figcaption>The founders learned from one another: the schools grew from shared scholarship.</figcaption>
+</figure>
 
 ## Why the schools arose
 
@@ -45,6 +55,11 @@ Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik l
 2. Companions and their knowledge of Hadith were spread across many cities.
 3. Scholars used different methods to reason from the sources.
 4. Courts and communities needed consistent, organised rulings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--02-why-schools-developed.webp" width="900" height="390" alt="Four causes around the formation of the law schools: expansion from Spain to Central Asia raising new questions, knowledge of Hadith scattered between cities, different methods of reasoning, and the need for consistent rulings, which students organised into schools." loading="lazy">
+  <figcaption>New questions, scattered knowledge and different methods produced the schools.</figcaption>
+</figure>
 
 ## Methods: who stresses what
 
@@ -65,6 +80,11 @@ Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik l
 
 **What they all share:** Tawhid, the Five Pillars, the authority of the Qur'an and Sunnah.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--05-examples-of-differences.webp" width="900" height="587" alt="A table of differences between schools: where the hands are placed in prayer, saying Amin aloud or quietly, what breaks Wudu, combining prayers, and distinctive sources. Below, what every school shares: Tawhid, the Qur’an and Sunnah, five daily prayers, fasting, Zakah and Hajj." loading="lazy">
+  <figcaption>The schools differ on details of practice; none differs on the pillars.</figcaption>
+</figure>
+
 ## Role of the schools: five points
 
 - Make Shariah practical for ordinary Muslims (taqlid).
@@ -72,6 +92,11 @@ Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik l
 - Allow flexibility for new times and places.
 - Protect the sources from careless interpretation.
 - Show unity in diversity: mutual recognition; the Amman Message (2005) recognised the four Sunni schools and the Ja'fari school, among others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--06-role-of-schools.webp" width="900" height="393" alt="Five roles of the law schools: guidance for ordinary Muslims, stability for courts and communities, flexibility for new times and places, respect for scholarship, and unity in diversity, shown by the Amman Message of 2005 recognising the four Sunni schools and the Ja’fari school." loading="lazy">
+  <figcaption>“Origins and role” means saying why the schools matter, not just who founded them.</figcaption>
+</figure>
 
 ## The prescribed passage: Qur'an 4:59
 
@@ -82,6 +107,11 @@ Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik l
 | "if you disagree over anything" | Disagreement is expected |
 | "refer it to Allah and the Messenger" | Every ruling must be justified from the sources |
 | "best [way] and best in result" | Following this method brings good outcomes |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--07-quran-4-59.webp" width="900" height="471" alt="The prescribed passage, Qur’an 4:59, in four phrases: obeying Allah and the Messenger grounds every school in the Qur’an and Sunnah; those in authority includes the learned; disagreement is expected; and referring disputes to Allah and the Messenger is the method every school must follow." loading="lazy">
+  <figcaption>The passage both accepts disagreement and gives the method for handling it.</figcaption>
+</figure>
 
 ## Key terms
 
@@ -98,6 +128,11 @@ Ja'far al-Sadiq taught in Madinah (traditions report that Abu Hanifa and Malik l
 | Maslahah | Public interest |
 | 'Amal ahl al-Madinah | The practice of the people of Madinah |
 | Marja' | A senior Shi'a scholar whose rulings others follow |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-islamiyat-9237-schools-of-thought--01-ijtihad-and-taqlid.webp" width="900" height="442" alt="The Hadith of Mu’adh ibn Jabal (RA): judge by the Book of Allah, then the Sunnah, then reasoning. Below, a chain: a qualified scholar performs ijtihad, a school preserves a method and body of rulings, and an ordinary Muslim follows it through taqlid." loading="lazy">
+  <figcaption>A madhhab is above all a method for deriving rulings from the sources.</figcaption>
+</figure>
 
 ## Exam traps
 

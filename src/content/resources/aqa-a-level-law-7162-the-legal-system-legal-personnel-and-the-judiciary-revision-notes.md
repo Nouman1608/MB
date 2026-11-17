@@ -31,6 +31,11 @@ Condensed notes for the section 3.1 row **The legal system: legal personnel and 
 - **Barrister:** specialist advocate and adviser, usually instructed by a solicitor, rights of audience in all courts, mostly self-employed in chambers, bound by the cab-rank rule.
 - **Chartered legal executive:** specialist lawyer qualified through CILEx and work experience, often employed in firms, can become a partner or apply for some judicial posts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--01-three-branches.webp" width="900" height="670" alt="A table comparing solicitors, barristers and chartered legal executives by typical work, who instructs them, rights of audience, how they are organised and their professional body (Law Society; Bar Council and four Inns of Court; CILEx). Only barristers have rights of audience in all courts as standard." loading="lazy">
+  <figcaption>Solicitors advise and prepare; barristers specialise in advocacy; legal executives specialise early.</figcaption>
+</figure>
+
 ## Qualification routes in outline
 
 | Branch | Route |
@@ -38,6 +43,11 @@ Condensed notes for the section 3.1 row **The legal system: legal personnel and 
 | Solicitor | Degree or equivalent; SQE1 and SQE2; two years' qualifying work experience; character and suitability |
 | Barrister | Degree; vocational Bar course; join an Inn of Court; call to the Bar; pupillage |
 | Legal executive | CILEx qualifications; qualifying employment; no degree required |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--02-training-routes.webp" width="900" height="532" alt="Three qualification routes. Solicitors: degree or equivalent, SQE1 and SQE2, two years’ qualifying work experience, and character and suitability. Barristers: degree, vocational Bar course, membership of an Inn of Court, call to the Bar and pupillage. Chartered legal executives: CILEx qualifications with qualifying employment, specialising from the start and needing no degree." loading="lazy">
+  <figcaption>Three routes in; only the legal executive route needs no degree.</figcaption>
+</figure>
 
 ## Who regulates whom
 
@@ -52,6 +62,11 @@ Condensed notes for the section 3.1 row **The legal system: legal personnel and 
 
 **Negligence:** advocates' immunity (*Rondel v Worsley*, 1969) was removed in *Arthur JS Hall & Co v Simons* (2000).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--03-regulation-map.webp" width="900" height="780" alt="The Legal Services Board, created by the Legal Services Act 2007, oversees three front-line regulators: the Solicitors Regulation Authority, the Bar Standards Board and CILEx Regulation. Serious solicitor cases go to the Solicitors Disciplinary Tribunal; barristers face independent disciplinary tribunals. Clients complain about service to the Legal Ombudsman, and can sue in negligence since Hall v Simons removed advocates’ immunity." loading="lazy">
+  <figcaption>Misconduct goes to the regulators; poor service goes to the Legal Ombudsman.</figcaption>
+</figure>
+
 ## Types of judge
 
 ```
@@ -64,6 +79,11 @@ High Court judges (KBD, Ch, Fam)          District judges (County Court)
 
 Heads: Lord Chief Justice (head of the judiciary; Criminal Division); Master of the Rolls (Civil Division).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--04-types-of-judge.webp" width="900" height="728" alt="Judges listed from the top. Superior judges: Justices of the Supreme Court, Lord and Lady Justices of Appeal, and High Court judges. Inferior judges: circuit judges, recorders (part-time), district judges and district judges (magistrates’ courts). The Lord Chief Justice heads the judiciary and the Criminal Division; the Master of the Rolls heads the Civil Division." loading="lazy">
+  <figcaption>Superior judges sit in the senior courts; inferior judges handle most everyday cases.</figcaption>
+</figure>
+
 ## Role of judges
 
 | Civil courts | Criminal courts |
@@ -74,6 +94,11 @@ Heads: Lord Chief Justice (head of the judiciary; Criminal Division); Master of 
 | Award damages or injunctions | Pass sentence |
 
 Appeal judges correct errors, interpret statutes and create precedent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--05-role-of-judges.webp" width="900" height="608" alt="Three columns. Civil judges manage cases under the Civil Procedure Rules, decide facts and law without a jury and award remedies. Crown Court judges rule on law and evidence, sum up, direct the jury, may direct an acquittal but never a conviction, and sentence. Appeal judges correct errors, interpret statutes and develop precedent. A table shows which civil judges hear small claims, larger County Court cases and complex High Court claims." loading="lazy">
+  <figcaption>Civil judges decide the case; criminal judges guide the jury; appeal judges shape the law.</figcaption>
+</figure>
 
 ## Judicial independence
 
@@ -87,6 +112,16 @@ Appeal judges correct errors, interpret statutes and create precedent.
 5. **Political neutrality:** judges barred from the House of Commons.
 
 **Examples:** *R (Miller) v Secretary of State for Exiting the European Union* (2017) and *R (Miller) v The Prime Minister* (2019), both against the government. **Impartiality:** *Re Pinochet* (1999).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--06-independence-pillars.webp" width="900" height="641" alt="A building whose roof is judicial independence, held up by five pillars: security of tenure, immunity from suit (Sirros v Moore), independence from the Executive (CRA 2005 s3, the JAC, the Supreme Court), financial security and political neutrality. Its foundation is the reasons for independence: the rule of law, separation of powers, the Article 6 right to a fair hearing and public confidence. The three specification methods are highlighted." loading="lazy">
+  <figcaption>Five methods hold up independence; the rule of law is why it matters.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary--07-independence-impartiality.webp" width="900" height="508" alt="Independence is freedom from outside pressure; impartiality is the absence of bias in a particular case. The Supreme Court ruled against the government in R (Miller) 2017 (an Act was needed to give notice of EU withdrawal) and R (Miller) 2019 (prorogation unlawful). In Re Pinochet the House of Lords set aside its own decision because of Lord Hoffmann’s links with Amnesty International." loading="lazy">
+  <figcaption>The Miller cases show independence; Pinochet shows impartiality.</figcaption>
+</figure>
 
 ## Key terms
 

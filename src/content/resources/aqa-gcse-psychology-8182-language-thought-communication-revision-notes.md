@@ -50,6 +50,16 @@ Paper 2). For full explanations and evaluation, read the
 
 **Evaluation points to learn:** we can perceive and think about things we cannot name, so the strong version fails; new words are invented for new ideas, suggesting thought can come first; the weak version is consistent with the colour and recall evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--16-s-language-thought.webp" width="900" height="940" alt="Two rows with opposite arrows. Piaget: thought leads to language, so language depends on thought. Sapir-Whorf: language leads to thought, so thinking depends on language. Cross-cultural evidence cited in the specification is variation in recall and colour recognition." loading="lazy">
+  <figcaption>Piaget and Sapir-Whorf make opposite claims about the direction between language and thought.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--01-sapir-whorf-evidence.webp" width="900" height="810" alt="The strong version of Sapir-Whorf says language determines thought; the weak version says it influences thought. Carmichael's study: the same ambiguous drawing labelled eyeglasses or dumbbells was later drawn to look like its label. Berinmo and English speakers each found colours across their own language's boundaries easier to distinguish and remember, supporting the weak version." loading="lazy">
+  <figcaption>Labels and colour words influence memory and recognition: evidence for the weak version.</figcaption>
+</figure>
+
 ## Human vs animal communication
 
 **Animal communication functions:** survival (alarm calls), reproduction (courtship), territory
@@ -66,6 +76,16 @@ creativity/productivity (unlimited new sentences), abstract ideas and plans.
 **Evaluating Von Frisch:** he marked individual bees and moved feeding stations to different distances and directions, so his conclusions came from careful, repeated observation in a natural setting, and later research supported them. However, the findings apply to honeybees only, and they show how limited animal communication is: the dance carries information about the location of resources and nothing else.
 
 **Displacement subtlety:** the bee dance refers to food that is not present, so it shows a very limited form of displacement. Human displacement is unlimited: we can discuss last year, next week, distant countries and imaginary worlds, and use this to **plan ahead**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--02-animal-vs-human.webp" width="900" height="639" alt="Four cards give the functions of animal communication with examples: survival (vervet monkey alarm calls), reproduction (courtship), territory (birdsong) and food (the honeybee dance). Human language adds displacement, creativity or productivity and abstract ideas. A note says the bee dance shows only a limited form of displacement." loading="lazy">
+  <figcaption>Animals communicate for survival, reproduction, territory and food; humans can talk about anything.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--03-bee-dances.webp" width="900" height="597" alt="Left: the round dance, a looping path used when food is close, tells bees to search nearby. Right: the waggle dance for food further away; the angle of the waggle run from vertical on the comb shows the direction of food relative to the sun, and its length shows the distance." loading="lazy">
+  <figcaption>Angle shows direction; length shows distance. The round dance means food is nearby.</figcaption>
+</figure>
 
 ## Non-verbal communication (NVC)
 
@@ -86,6 +106,16 @@ creativity/productivity (unlimited new sentences), abstract ideas and plans.
 - **Status**: people tend to keep more distance from those of higher status; higher-status people take more space and initiate touch more freely.
 - **Gender**: research has often reported that pairs of women sit or stand closer to one another than pairs of men; treat this as a general tendency, not a rule.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--17-s-nonverbal.webp" width="900" height="940" alt="Five pictogram cards: eye contact (an eye), body language (a person with arms out), postural echo (two people in the same pose), touch (a hand) and personal space (a person inside a dashed circle with another person outside)." loading="lazy">
+  <figcaption>The five non-verbal channels listed in the specification.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--04-personal-space.webp" width="900" height="687" alt="Concentric zones around a person run from intimate distance, for close friends and family, out to public distance, for strangers and speakers. Personal space varies with culture, status and gender. An application: Kai's classmates step back because his home culture's conversational distance is smaller." loading="lazy">
+  <figcaption>Personal space runs from intimate to public, and its size depends on culture, status and gender.</figcaption>
+</figure>
+
 ## Explanations of NVC
 
 **Darwin (evolutionary):** NVC is **innate** and evolved because it aided survival (fear face warns
@@ -105,6 +135,11 @@ controlling expression. Cultural differences in gestures and personal space also
 **Evaluating Yuki:** a clever, controlled design, because only the eyes or mouth changed in each emoticon or face, so differences in ratings could be traced to that feature. But the participants were university students, the stimuli were simple and artificial, and the study shows how expressions are **read**, not how they are produced.
 
 **Best conclusion:** basic expressions may be innate; culture shapes how they are shown and read.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-language-thought-communication--05-innate-or-learned.webp" width="900" height="762" alt="Two columns of evidence. Innate (Darwin): expressions helped survival, babies and children born blind show them, and an isolated culture recognised the same basic expressions. Learned: Yuki's cultural difference, personal space and gestures. Two faces show Yuki's finding: Japanese participants weighted the eyes, American participants the mouth." loading="lazy">
+  <figcaption>Some expressions are innate, but culture shapes how they are shown and read.</figcaption>
+</figure>
 
 ## Applying it to a scenario
 

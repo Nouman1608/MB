@@ -48,6 +48,16 @@ Condensed for the final weeks. For the full explanation, use the [market study g
 - **Consideration**: must move from the promisee. Performing an existing contractual duty is not usually good consideration (*Stilk v Myrick* [1809]), unless it gives the other party a **practical benefit** (*Williams v Roffey*) or goes beyond the duty (*Hartley v Ponsonby* [1857]).
 - **Intention**: commercial agreements are presumed binding (*Edwards v Skyways* [1964]); domestic ones are presumed not, unless evidence such as a separated couple's written agreement rebuts it (*Merritt*).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--08-contract-formation.webp" width="900" height="934" alt="Five bricks, numbered one to five, support a roof labelled &quot;Contract formed&quot;: offer, acceptance, consideration, intention to create legal relations and capacity, each with a short note, such as silence is not acceptance and consideration need not be adequate." loading="lazy">
+  <figcaption>A contract is formed only when all five elements are present.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-market--01-offer-and-acceptance.webp" width="900" height="732" alt="Invitations to treat (shop shelves, windows, most advertisements) are contrasted with Carlill's unilateral offer. An offer box branches four ways: a counter-offer ends it (Hyde v Wrench), communicated revocation ends it (Routledge, Byrne, Dickinson), a request for information does not (Stevenson v McLean), and acceptance forms the contract (Felthouse: silence is not acceptance). Posted acceptance takes effect when posted, instantaneous when received." loading="lazy">
+  <figcaption>Counter-offer and revocation end an offer; a request for information does not; acceptance binds.</figcaption>
+</figure>
+
 ## Terms (2.1.2)
 
 - **Condition** (root of contract): *Poussard v Spiers* [1876]. **Warranty** (minor): *Bettini v Gye* [1876].
@@ -57,6 +67,11 @@ Condensed for the final weeks. For the full explanation, use the [market study g
 - **Innominate terms**: where a term is neither clearly a condition nor a warranty, the remedy depends on how serious the consequences of the breach are (*Hong Kong Fir Shipping v Kawasaki* [1962]).
 - **Terms implied by the courts**: to give the contract business efficacy (*The Moorcock* [1889]) or because the term is so obvious that it goes without saying (the "officious bystander" test, *Shirlaw v Southern Foundries* [1939]).
 - **Exclusion clause checklist**: (1) incorporated? (signature, reasonable notice before the contract, course of dealing); (2) does its wording cover the loss? (ambiguity is read against the party relying on it); (3) is it valid under UCTA (business to business) or the CRA (trader to consumer)?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-market--02-exclusion-clause-gates.webp" width="900" height="862" alt="Condition (Poussard v Spiers) and warranty (Bettini v Gye) are contrasted. Three steps test an exclusion clause: was it incorporated by signature, notice or course of dealing; which statute applies, UCTA for business contracts or the CRA for consumers; and does it survive. A table lists UCTA ss 2, 3 and 11 and CRA ss 31, 57, 62 and 65." loading="lazy">
+  <figcaption>Incorporated first, then tested against UCTA (business) or the CRA (consumer).</figcaption>
+</figure>
 
 ## Consumer Rights Act 2015 (2.1.3)
 
@@ -74,6 +89,11 @@ Goods remedies: **s 20** short-term right to reject (time limit in **s 22**, gen
 - **Services**: s 50 makes information given by the trader binding in some circumstances, and s 51 implies a reasonable price where none is agreed.
 - **Order of remedies**: the short-term right to reject comes first; if the consumer instead asks for repair or replacement and it fails, is impossible or is not done within a reasonable time, the consumer can move to a price reduction or the final right to reject.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--09-consumer-rights-act.webp" width="900" height="836" alt="Two rows showing Consumer Rights Act 2015 implied terms on the left and remedies on the right. For goods: satisfactory quality, fit for a stated purpose and matching description lead to short-term right to reject, repair or replacement, then price reduction or final right to reject. For services: reasonable care and skill and reasonable time lead to repeat performance and price reduction." loading="lazy">
+  <figcaption>The Act implies terms into supply contracts and attaches a set of remedies to their breach.</figcaption>
+</figure>
+
 ## Validity, discharge, privity (2.1.4, 2.1.5)
 
 - **Misrepresentation**: false statement of fact inducing contract (not opinion: *Bisset v Wilkinson* [1927]); fraudulent (*Derry v Peek* [1889]), negligent (Misrepresentation Act 1967 s 2(1)), innocent. Rescission and/or damages.
@@ -82,6 +102,16 @@ Goods remedies: **s 20** short-term right to reject (time limit in **s 22**, gen
 - **Damages for breach of contract**: recoverable losses are those arising naturally from the breach, or those in both parties' contemplation when the contract was made (*Hadley v Baxendale* [1854]); the claimant must mitigate the loss.
 - **Discharge**: performance (*Cutter v Powell* [1795]; *Hoenig v Isaacs* [1952]), agreement, breach (*Hochster v De La Tour* [1853]), frustration (*Taylor v Caldwell* [1863]; *Krell v Henry* [1903]; not mere expense, *Davis Contractors* [1956]); 1943 Act deals with money paid and expenses.
 - **Privity**: *Tweddle v Atkinson* [1861]; *Dunlop v Selfridge* [1915]. **1999 Act**: third party can enforce if expressly allowed or a benefit is conferred, and identified by name, class or description.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-market--03-discharge-routes.webp" width="900" height="674" alt="Four routes to discharge: performance (Cutter v Powell, softened by Hoenig v Isaacs), agreement, breach including anticipatory breach (Hochster), and frustration (Taylor v Caldwell, Krell v Henry, but not mere expense, Davis Contractors). Below, misrepresentation can be fraudulent (Derry v Peek), negligent (s 2(1) Misrepresentation Act 1967) or innocent." loading="lazy">
+  <figcaption>Performance, agreement, breach or frustration; a misrepresentation can unpick the contract instead.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-market--04-privity-negligence.webp" width="900" height="526" alt="The consumer of the ginger beer had no contract with the manufacturer, shown by a crossed dashed line, yet an arrow shows the manufacturer owed her a duty of care in negligence, as in Donoghue v Stevenson. Cards cover privity (Tweddle, Dunlop) and the Contracts (Rights of Third Parties) Act 1999." loading="lazy">
+  <figcaption>No contract with the manufacturer, but still a duty of care: negligence fills the privity gap.</figcaption>
+</figure>
 
 ## Negligence as an alternative (2.1.6 to 2.1.8)
 
@@ -98,6 +128,11 @@ Use when there is no contract: *Donoghue v Stevenson* [1932].
 **Remoteness detail:** only damage of a reasonably foreseeable **type** is recoverable (*Wagon Mound (No 1)*), but the precise way it happens need not be foreseen (*Hughes v Lord Advocate* [1963]), and D takes the claimant as they find them (thin skull: *Smith v Leech Brain* [1962]).
 
 **Contract or negligence?** A consumer who bought a faulty product can sue the seller in contract under the CRA without proving fault. A person injured by the product who did not buy it has no contract (privity), so negligence against the manufacturer (*Donoghue v Stevenson*) is the alternative, but fault must be proved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-law-the-law-in-action--10-negligence-chain.webp" width="900" height="852" alt="Three linked boxes show duty of care, breach and damage caused, leading to the remedy of damages. Below, two defences: volenti non fit injuria is a complete defence, while contributory negligence reduces the damages." loading="lazy">
+  <figcaption>All three links must hold for negligence; defences can end or shrink the claim.</figcaption>
+</figure>
 
 ## Worked problem example
 

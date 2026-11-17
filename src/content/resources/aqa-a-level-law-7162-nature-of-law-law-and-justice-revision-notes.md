@@ -37,10 +37,20 @@ Condensed notes on **Nature of law: law and justice** in AQA A-level Law (7162) 
 
 **Formal versus substantive:** a harsh rule applied consistently is formally just but substantively unjust.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--01-types-of-justice.webp" width="900" height="680" alt="Five kinds of justice, each with its question and a legal example: formal (like cases alike; precedent), substantive (fair content and outcome; the mandatory life sentence in a mercy killing), procedural (fair process; jury trial), distributive (fair sharing; taxation and legal aid) and corrective (putting a wrong right; compensatory damages). Formal and substantive justice can conflict." loading="lazy">
+  <figcaption>Name the kind of justice before judging whether the law achieves it.</figcaption>
+</figure>
+
 ## Natural justice (procedural fairness)
 
 - **No one a judge in their own cause:** *Dimes v Grand Junction Canal* (1852), Lord Chancellor's shareholding; *ex p Pinochet (No 2)* (1999), Lord Hoffmann's links to Amnesty International.
 - **Hear both sides:** *Ridge v Baldwin* (1964), chief constable dismissed without a hearing; dismissal void.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--02-natural-justice.webp" width="900" height="489" alt="Two rules of natural justice. No one should be a judge in their own cause: Dimes v Grand Junction Canal (shareholding Lord Chancellor) and ex p Pinochet (No 2) (Lord Hoffmann’s links to Amnesty International). Both sides must be heard: Ridge v Baldwin (a chief constable dismissed without hearing the case against him)." loading="lazy">
+  <figcaption>An impartial decision-maker and a chance to answer the case.</figcaption>
+</figure>
 
 ## Theories: idea, use, weakness
 
@@ -52,6 +62,11 @@ Condensed notes on **Nature of law: law and justice** in AQA A-level Law (7162) 
 | Marx | Law serves the property-owning class; "to each according to his needs" | Critique of property-based rules | Little guidance for existing law |
 | Rawls (1971) | Veil of ignorance; inequality only if it helps the least advantaged | Legal aid, minority protection | Would people really choose his principles? |
 | Nozick (1974) | Entitlement to fairly acquired holdings | Property and contract rights | Ignores need |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--03-theories-of-justice.webp" width="900" height="652" alt="A table of six theories with core idea, implication for law and weakness: Aristotle (distributive and corrective justice), Bentham and Mill (greatest happiness), Perelman (formal justice by category), Marx (law serves the property-owning class), Rawls (veil of ignorance) and Nozick (entitlements)." loading="lazy">
+  <figcaption>Learn each theory as core idea, link to law, and a weakness.</figcaption>
+</figure>
 
 ## Does criminal law achieve justice?
 
@@ -70,6 +85,11 @@ Condensed notes on **Nature of law: law and justice** in AQA A-level Law (7162) 
 - Strict liability convicts the careful.
 - Legal aid limits create inequality of arms.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--04-criminal-law-justice.webp" width="900" height="532" alt="Two columns for criminal law. Achieves justice: the criminal standard of proof, jury trial, appeals and the Criminal Cases Review Commission, grading by fault, and retrial on new evidence (Gary Dobson). Fails: miscarriages (Guildford Four, Sally Clark, Andrew Malkinson), the mandatory life sentence, strict liability and legal aid reductions. Below, a wrongful conviction passes through review and appeal to be quashed." loading="lazy">
+  <figcaption>Strong on procedure; weaker on substance; with mechanisms to correct its own errors.</figcaption>
+</figure>
+
 ## Does civil law achieve justice?
 
 **Yes:**
@@ -85,6 +105,11 @@ Condensed notes on **Nature of law: law and justice** in AQA A-level Law (7162) 
 - Inequality of arms between companies and individuals.
 - LASPO 2012 removed most civil legal aid; more litigants in person.
 - Fault requirement leaves some victims uncompensated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law-law-and-justice--05-civil-law-justice.webp" width="900" height="426" alt="Two columns for civil law. Achieves justice: corrective damages, flexible remedies such as injunctions, judicial development in Donoghue v Stevenson, and the Woolf reforms leading to the Civil Procedure Rules 1998. Fails: cost and delay, inequality of arms, legal aid cuts under LASPO 2012, and fault requirements leaving some victims uncompensated." loading="lazy">
+  <figcaption>Civil law’s remedies are just in principle; cost and access undermine them in practice.</figcaption>
+</figure>
 
 ## Key terms
 

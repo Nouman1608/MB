@@ -39,6 +39,11 @@ Condensed for the final weeks. For the full explanation, use the
 
 2 hours 15 minutes, **open book**, 90 marks total = 60% of the International GCSE. Three sections, each worth 30 marks: anthology poetry (Section A), unseen poetry (Section B), unseen prose (Section C, Route A only). The *People and Places* anthology is supplied in the exam, as are the unseen poem and unseen prose extract, so no text needs to be memorised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--14-lit-oaqa-glance.webp" width="900" height="780" alt="Three tiles show the format: 2 hours 15 minutes, 90 marks, and 60 per cent of the International GCSE (a pie chart with 60 per cent shaded). Below, three items are provided in the exam room: the People and Places anthology is supplied, and the unseen poem and the unseen prose extract are printed on the paper." loading="lazy">
+  <figcaption>Paper 2a is 2 h 15 min, 90 marks and 60% of the qualification; the anthology is supplied and the unseen texts are printed.</figcaption>
+</figure>
+
 ## Anthology poetry: revise by theme, not by poem
 
 *People and Places* is deliberately built as 20 thematically linked
@@ -56,6 +61,16 @@ differently).
 A comparison answer built on a real point of contrast always
 outperforms one that states "both poems are about ___" and stops there.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--02-theme-strands.webp" width="900" height="398" alt="The People and Places anthology at the centre of typical theme strands: identity, belonging and displacement, memory, a person and a landscape, and change over time. For each strand, know which poems belong to it and how they differ." loading="lazy">
+  <figcaption>Group the poems by strand so any theme question has ready-made pairs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--16-lit-oaqa-compare.webp" width="900" height="780" alt="Two cards. Poem A uses concrete, sensory detail such as smells and sounds. Poem B uses abstract, reflective language with less physical detail. Arrows from both lead to a shared point: both treat leaving as an emotional rupture. Below, the contrast: Poem A roots the emotion in physical memory, while Poem B foregrounds introspection." loading="lazy">
+  <figcaption>A good comparison finds a shared point and a contrast, rather than saying both poems are “about leaving”.</figcaption>
+</figure>
+
 ## Unseen poetry: the transferable skill
 
 Unseen work has no biography or critical context to fall back on — the
@@ -66,6 +81,11 @@ structure (stanza shape, line length, rhyme or its absence), language
 choice creates, in that order, every time. A consistent method matters
 more here than flair, because there is no prior knowledge to lean on.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--17-lit-oaqa-unseen.webp" width="900" height="750" alt="A sheet of text in the centre with arrows to what can be analysed from it: structure, language choices, tone and effect, and, for prose, narrative viewpoint. Below, two crossed-out dashed boxes show what not to rely on: the writer’s biography and guessing at a wider plot." loading="lazy">
+  <figcaption>Analyse structure, language, tone and effect from the page itself, not from the writer’s life or an imagined wider plot.</figcaption>
+</figure>
+
 ## Unseen prose (Route A): working from the extract alone
 
 Unseen prose tests the same discipline applied to narrative fiction:
@@ -74,6 +94,11 @@ the given extract**, not what might be happening elsewhere in an
 imagined wider novel. Resist the temptation to speculate about plot
 beyond the extract — the assessment rewards close reading of what is
 actually on the page.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-prose--03-anil-extract-annotated.webp" width="900" height="846" alt="The guide’s original extract about Anil and an unopened letter, with four sections marked: the letter as a sulking presence, the mother’s avoidance through action, the short sentences that break the pattern, and the ending, where warmth reads as over-compensation and the letter’s contents are never revealed." loading="lazy">
+  <figcaption>Unease comes from what is avoided, analysed from the printed words only.</figcaption>
+</figure>
 
 ## A shared analytical method for both unseen sections
 
@@ -95,6 +120,11 @@ the two routes prepare genuinely different content, confirming which
 route your centre follows is a prerequisite to sensible revision
 planning, not an afterthought.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-literature-poetry-and-unseen-texts--13-lit-oaqa-routes.webp" width="900" height="590" alt="Paper 1 Prose and Drama is compulsory for every candidate. From there the course splits into two routes. Route A, the route covered in this guide, is Paper 2a Poetry and Unseen Texts. Route B is Paper 2b plus a non-exam assessment." loading="lazy">
+  <figcaption>Everyone takes Paper 1; Route A adds Paper 2a (this lesson), Route B adds Paper 2b and a non-exam assessment.</figcaption>
+</figure>
+
 ## Timing the paper across three demands
 
 The anthology question, unseen poetry and (Route A) unseen prose are
@@ -106,6 +136,11 @@ anthology answer (which draws on studied, prepared material and
 therefore feels safer) and then rushing the unseen sections, which
 carry identical marks but feel less familiar under pressure precisely
 because there is no prior preparation to fall back on.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-prose--01-protect-45-minutes.webp" width="900" height="504" alt="Paper 2a has three 30-mark sections of about 45 minutes each: anthology poetry, unseen poetry and, last, unseen prose. A second bar shows the first two sections overrunning, which squeezes the time left for unseen prose." loading="lazy">
+  <figcaption>As the last section, unseen prose pays for any overrun earlier in the paper.</figcaption>
+</figure>
 
 ## Exam traps
 
@@ -131,6 +166,11 @@ between both poems throughout, feature by feature — the same
 point-by-point principle that applies to comparative writing across
 this qualification's other components.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-poetry--03-integrated-comparison.webp" width="900" height="755" alt="Two original extracts about leaving, Poem X and Poem Y, share one idea: leaving is a loss the speaker cannot fully control. Three contrasts follow: the loss is external and visual in X but inside the speaker in Y; X repeats “roofs” across a line break while Y uses a negative construction; and X’s image ends when the roofs run out while Y’s weight never does." loading="lazy">
+  <figcaption>Find the shared idea, then compare where and how each poem places it.</figcaption>
+</figure>
+
 ## Annotating an unseen text under exam conditions
 
 Develop a fixed, brief annotation habit for unseen work: a first read
@@ -139,6 +179,16 @@ be used — a shift in tone, a repeated image, a structural break.
 Annotating everything indiscriminately wastes time that should go into
 writing; a focused, purposeful annotation pass is what timed unseen
 practice should train.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--02-five-step-method.webp" width="900" height="826" alt="A 45-minute bar: 3 minutes reading for sense, 3 for shape, 4 for detail, 3 to 5 planning and about 30 writing. Five numbered steps explain each, with reading for shape and marking the turn highlighted." loading="lazy">
+  <figcaption>Grasp the surface meaning first, then the shape, then the details.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-unseen-poetry--03-lighthouse-poem-annotated.webp" width="900" height="776" alt="The guide’s original poem The Lighthouse Keeper’s Daughter with four groups of lines marked and explained in order: the father as a heroic figure, tenderness and fragility in the second stanza, loss through the blunt final-stanza sentences, and the isolated last line “and counts.” that brings the poem full circle." loading="lazy">
+  <figcaption>Four points that move through the poem from beginning to end.</figcaption>
+</figure>
 
 ## Self-test
 

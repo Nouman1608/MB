@@ -46,6 +46,16 @@ and worked examples are in the
 - ⊙ = current out of the page (field anticlockwise); ⊗ = current into the page (field clockwise).
 - Solenoid end where lines emerge = N pole. Reverse current = swap poles.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--01-field-patterns.webp" width="900" height="1205" alt="Three field patterns computed numerically. A straight wire with current towards the viewer has concentric anticlockwise circles that get weaker further out. A flat coil seen edge-on has field lines through its centre looping round outside, like a short bar magnet. A solenoid has closely spaced nearly parallel lines inside, leaving the north end and returning round the outside." loading="lazy">
+  <figcaption>A straight wire, a flat coil and a solenoid each have a different field pattern.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--03-grip-rule.webp" width="900" height="910" alt="A vertical wire carries current upwards (thumb). The field forms circles round it, anticlockwise seen from above (fingers). In end view, current towards you gives an anticlockwise field and current away from you a clockwise field." loading="lazy">
+  <figcaption>Thumb along the current, fingers curl the way the field goes; reverse the current and the field reverses.</figcaption>
+</figure>
+
 ## Electromagnets (P)
 
 - Coil of **insulated** wire round a **soft iron** core.
@@ -53,12 +63,22 @@ and worked examples are in the
 - Soft iron loses magnetism when the current stops, so the magnet can be switched off.
 - Uses: lifting magnets, relays, electric bells.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--01-electromagnet-construction.webp" width="900" height="745" alt="A coil of insulated wire wound round a soft iron core, connected to a cell through a switch, attracting iron clips. Notes explain the insulation, the soft iron core, and that more turns and a larger current make it stronger." loading="lazy">
+  <figcaption>Insulated coil plus soft iron core: a magnet that switches on and off with the current.</figcaption>
+</figure>
+
 ## Force on a moving charge (P)
 
 - Force acts if the particle moves **not parallel** to the field.
 - Zero force when moving along the field; maximum when perpendicular.
 - Force is at right angles to both motion and field, so it changes direction, not speed along the path.
 - Electrons: conventional current is opposite to their motion.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--06-charged-particle-force.webp" width="900" height="928" alt="A positive charge moving across a field into the page feels a force at right angles to its velocity and moves in a semicircle. A charge moving along the field feels no force." loading="lazy">
+  <figcaption>A force acts on a moving charge unless it moves parallel to the field.</figcaption>
+</figure>
 
 ## The motor effect
 
@@ -68,6 +88,16 @@ and worked examples are in the
 - Reverse current **or** field = force reverses. Reverse **both** = no change in direction.
 - Wire parallel to field = no force.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--02-motor-effect.webp" width="900" height="1290" alt="Three end views of a current-carrying wire between a north and a south pole. Current towards the viewer with the field to the right gives an upward force. Reversing the current gives a downward force; reversing the field instead also gives a downward force. A key shows the left-hand rule with first finger field, second finger current and thumb force." loading="lazy">
+  <figcaption>Reversing either the current or the field reverses the force on the wire.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-electromagnetism--02-left-hand-rule-example.webp" width="900" height="790" alt="A horizontal wire carries current from west to east between magnet poles, with the field pointing horizontally from north to south. By the left-hand rule the force on the wire is vertically downwards; reversing current or field makes it upwards." loading="lazy">
+  <figcaption>Field south, current east: the thumb, and the force, point straight down.</figcaption>
+</figure>
+
 ## d.c. motor
 
 - Coil on an axle between magnet poles; opposite sides carry current in opposite directions, so forces are opposite: a turning effect.
@@ -76,12 +106,22 @@ and worked examples are in the
 - Faster (or more turning effect): larger current, stronger field, more turns.
 - Reverse rotation: reverse current or reverse field.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--04-dc-motor-commutator.webp" width="900" height="1140" alt="Three end views of a coil between N and S poles. With current flowing, forces on the two sides turn the coil anticlockwise. When the coil is vertical the gaps in the split ring are at the brushes and no current flows. After the halves swap brushes the current in each side reverses, so the coil still turns the same way." loading="lazy">
+  <figcaption>The split ring reverses the current every half turn so the coil keeps turning one way.</figcaption>
+</figure>
+
 ## Loudspeaker
 
 - Coil attached to a cone, in the field of a permanent magnet.
 - a.c. in coil → force on coil reverses each time the current reverses → coil and cone vibrate.
 - Cone vibrates at the frequency of the current → sound wave of that frequency.
 - Bigger current → bigger force → larger amplitude → louder.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-and-electromagnetism--07-loudspeaker.webp" width="900" height="950" alt="Cross-section of a loudspeaker: a coil in a radial field attached to a cone. Current one way gives a force towards the magnet; reversing the current reverses the force so the cone vibrates." loading="lazy">
+  <figcaption>Alternating current in the coil reverses the force, so the cone moves in and out.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -51,6 +51,16 @@ effect was misrepresented (Curtis v Chemical Cleaning and Dyeing Co, 1951).
 Escape routes: the writing was not the whole agreement; a condition precedent (Pym v Campbell, 1856);
 a collateral contract (City and Westminster Properties v Mudd, 1959).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--01-term-or-representation.webp" width="900" height="736" alt="A table of four guides to whether a statement is a term or a representation, each with the lesson’s cases: importance (Bannerman v White, Couchman v Hill), timing (Routledge v McKay), special knowledge (Dick Bentley against Oscar Chess) and invitation to verify (Schawel v Reade against Ecay v Godfrey). An untrue term is a breach of contract; an untrue representation needs a misrepresentation claim." loading="lazy">
+  <figcaption>Classify the statement first: a term gives a breach claim, a representation does not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--02-written-terms.webp" width="900" height="703" alt="Two rules with their exceptions. Signature: a party who signs is bound whether or not they read the terms (L’Estrange v Graucob), unless the effect was misrepresented (Curtis v Chemical Cleaning). Parol evidence rule: outside evidence cannot add to, vary or contradict a written contract, except where the writing is not the whole agreement, to show a condition precedent (Pym v Campbell) or a collateral contract (City and Westminster Properties v Mudd)." loading="lazy">
+  <figcaption>Signature binds and the writing usually speaks for itself, with named exceptions.</figcaption>
+</figure>
+
 ## 3.2.2 Consumer Rights Act 2015: implied terms and rights
 
 | Section | Content |
@@ -71,6 +81,11 @@ a collateral contract (City and Westminster Properties v Mudd, 1959).
 price reduction or final rejection. **Sequence for services:** repeat performance first; price
 reduction if that is impossible or not done within a reasonable time without significant inconvenience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--03-cra-remedies.webp" width="900" height="753" alt="Two columns. Goods: the implied terms in s9, s10 and s11, and if breached a ladder of remedies from the short-term right to reject within 30 days (s20, s22), to repair or replacement (s23), to price reduction or the final right to reject (s24). Services: s49 reasonable care and skill and s52 reasonable time, with repeat performance (s55) and then price reduction (s56)." loading="lazy">
+  <figcaption>Remedies are tiered: refund first for goods, then repair or replace, then price reduction or final rejection.</figcaption>
+</figure>
+
 ## 3.2.3 Status of terms
 
 - **Condition:** essential term; breach allows termination and damages (Poussard v Spiers and Pond, 1876).
@@ -80,6 +95,16 @@ reduction if that is impossible or not done within a reasonable time without sig
   Cehave v Bremer, The Hansa Nord, 1976).
 - **Labels are not conclusive:** Schuler v Wickman Machine Tool Sales (1974).
 - **Commercial time clauses** are usually conditions: Bunge Corporation v Tradax Export (1981).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--15-ct-term-types.webp" width="900" height="830" alt="Three rows. A condition goes to the root of the contract; breach allows termination and damages (Poussard v Spiers). A warranty is minor; breach gives damages only (Bettini v Gye). An innominate term can be treated either way depending on the seriousness of the consequences of the breach (Hong Kong Fir Shipping v Kawasaki)." loading="lazy">
+  <figcaption>What a claimant can do for breach of each type of term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--04-flexibility-or-certainty.webp" width="900" height="539" alt="Schuler v Wickman shows a clause labelled a condition need not be one. Two panels then contrast the innominate approach, which judges the effect of the breach (Hong Kong Fir; The Hansa Nord) and gives flexibility, with treating a commercial time clause as a condition (Bunge v Tradax), which gives certainty." loading="lazy">
+  <figcaption>The innominate approach buys flexibility at the cost of certainty.</figcaption>
+</figure>
 
 ## 3.2.4 Exemption clauses
 
@@ -108,6 +133,16 @@ reduction if that is impossible or not done within a reasonable time without sig
 
 **Reasonableness cases:** George Mitchell v Finney Lock Seeds (1983) and St Albans v ICL (1996), clause
 failed; Watford Electronics v Sanderson (2001), equal commercial parties left to their bargain.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-law-of-contract-study-guide--16-ct-exclusion-gates.webp" width="900" height="1144" alt="Three questions asked in order. First, was the clause incorporated: by signature even if unread (L’Estrange v Graucob), by notice given before or when the contract is made (Olley, Thornton) or by course of dealing. Second, does it cover the breach, with ambiguity read against the party relying on it. Third, is it allowed by statute: UCTA 1977 section 2(1) forbids excluding liability for death or personal injury caused by negligence, section 2(2) requires other negligence exclusions to be reasonable, and under the Consumer Rights Act 2015 an unfair term is not binding on the consumer." loading="lazy">
+  <figcaption>The three questions for an exclusion clause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-contents-of-a-contract--05-ucta-vs-cra.webp" width="900" height="835" alt="A table comparing the Unfair Contract Terms Act 1977, for business to business contracts, with the Consumer Rights Act 2015, for trader and consumer contracts: scope, the bar on excluding negligent death or personal injury (s2(1) and s65), other limits (s2(2), s3; s31, s57), the tests (s11 reasonableness; s62 unfairness and s68 transparency) and the UCTA cases." loading="lazy">
+  <figcaption>UCTA for businesses, the CRA for consumers: both ban excluding negligent death or injury.</figcaption>
+</figure>
 
 ## Key terms
 

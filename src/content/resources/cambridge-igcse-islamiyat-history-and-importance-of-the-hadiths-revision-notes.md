@@ -54,6 +54,11 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 | Qiyas | Analogy from an existing ruling |
 | Tabi'un | The generation after the companions |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--01-isnad-and-matn.webp" width="900" height="634" alt="The isnad is drawn as a chain: A told me that B said that C heard the Prophet (pbuh) say. Below it the matn, the text itself, reports what the Prophet said, did or approved. A note defines the Sunnah as his way of life, known mainly through Hadiths." loading="lazy">
+  <figcaption>Isnad is the chain of narrators; matn is the text they passed on.</figcaption>
+</figure>
+
 ## Stages of compilation
 
 1. **Prophet's lifetime:** memorisation; limited writing by some companions with permission.
@@ -62,6 +67,16 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 4. **Musannaf works (2nd century AH):** al-Muwatta of Imam Malik; Musannaf of Abd al-Razzaq.
 5. **Musnad works:** Musnad of Ahmad ibn Hanbal.
 6. **The great Sahih and Sunan collections (3rd century AH):** al-Bukhari, Muslim and the others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--02-stages-of-compilation.webp" width="900" height="693" alt="Four stages in order: memorising and some note-taking in the Prophet's lifetime; teaching by companions and successors with early sahifas; the order of Umar ibn Abd al-Aziz (ruled 717–720) to collect Hadiths in writing; and the musannaf and musnad collections of the second and third Islamic centuries, followed by the six Sunni collections." loading="lazy">
+  <figcaption>From memory to notebooks to official collection to the great compilations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--03-musannaf-and-musnad.webp" width="900" height="618" alt="Side-by-side comparison. A musannaf groups Hadiths by subject, such as prayer, fasting or trade (al-Muwatta of Imam Malik, the Musannaf of Abd al-Razzaq). A musnad groups them by the companion who narrated them (the Musnad of Ahmad ibn Hanbal)." loading="lazy">
+  <figcaption>Musannaf: by subject. Musnad: by narrator.</figcaption>
+</figure>
 
 ## Testing reliability
 
@@ -74,6 +89,11 @@ major themes; use in law with the Qur'an, ijma' and qiyas; significance in thoug
 **Matn checks:**
 - Must not contradict the Qur'an or well-established Hadiths.
 - Must be consistent with reason and with the Prophet's character.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--04-testing-reliability.webp" width="900" height="644" alt="Two checklists feed one grade. Isnad criticism checks narrators' character, memory, whether they could have met and that there is no gap in the chain. Matn criticism checks the text against the Qur'an, established Hadiths, reason and the Prophet's character. Results are sahih (sound), hasan (good), da'if (weak), or fabricated and rejected." loading="lazy">
+  <figcaption>Both the chain and the text are tested before a Hadith is graded.</figcaption>
+</figure>
 
 ## The six Sunni books
 
@@ -95,6 +115,11 @@ The two Sahihs have the strictest conditions; the Sunan works focus on legal Had
 
 Shi'a scholars accept Hadiths transmitted through the Prophet's family and the Imams.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--05-four-shia-collections.webp" width="900" height="620" alt="Three compilers and their four books: al-Kulayni compiled al-Kafi, covering belief as well as law; Ibn Babawayh (al-Shaykh al-Saduq) compiled Man la yahduruhu al-faqih; al-Shaykh al-Tusi compiled Tahdhib al-ahkam and al-Istibsar. The last three focus mainly on law." loading="lazy">
+  <figcaption>Three compilers, four books; only al-Kafi covers belief as well as law.</figcaption>
+</figure>
+
 ## Hadiths and the sources of law
 
 | Source | Role | Example |
@@ -103,6 +128,11 @@ Shi'a scholars accept Hadiths transmitted through the Prophet's family and the I
 | Hadith / Sunnah | Explains and details the Qur'an; guidance where it is silent | How to perform salat; zakat rates |
 | Ijma' | Agreement of scholars | Compilation of the Qur'an into one book |
 | Qiyas | Extends a ruling to a similar new case | Ban on wine applied to drugs |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths--06-sources-of-law.webp" width="900" height="607" alt="Four stepped levels: the Qur'an as the first source; Hadiths and the Sunnah second, explaining, detailing and filling gaps; ijma', the consensus of scholars; and qiyas, analogy, illustrated by extending the ban on wine to other intoxicants." loading="lazy">
+  <figcaption>Hadiths are the second source of law, after the Qur'an and before ijma' and qiyas.</figcaption>
+</figure>
 
 ## Why Hadiths matter: points for part (b)
 

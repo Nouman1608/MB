@@ -72,6 +72,16 @@ concepts for each view and asks for strengths and limitations of all three.
 - **Limitations:** persistent class, ethnic and gender gaps; Tumin (1953) called Davis and Moore
   circular; assumes consensus.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--02-functionalist-roles.webp" width="900" height="515" alt="Parsons saw school as the bridge from the family, where children are judged by particularistic standards, to wider society, where universalistic standards apply and status is achieved. Below, the four roles: socialisation, social control, economic and selective." loading="lazy">
+  <figcaption>School moves children from family standards to the same standards for everyone.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--03-meritocracy-or-myth.webp" width="900" height="616" alt="Two chains. Functionalist: ability and effort, measured by standardised tests and setting, lead to role allocation and social mobility. Marxist: class background predicts outcomes, belief in merit disguises this, those who fail blame themselves, and inequality looks fair." loading="lazy">
+  <figcaption>Functionalists see a meritocracy; Marxists see a myth that legitimates inequality.</figcaption>
+</figure>
+
 ## Marxism at a glance
 
 - **Althusser (1971):** education as an ideological state apparatus.
@@ -84,6 +94,16 @@ concepts for each view and asks for strengths and limitations of all three.
 - **Strengths:** explains persistent class gaps and why inequality can look fair.
 - **Limitations:** pupils are not passive (Willis); many working-class pupils succeed; ignores gender
   and ethnicity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--02-marxist-mechanisms.webp" width="900" height="549" alt="Six Marxist points around reproduction of class inequality: Althusser’s ideological state apparatus, Bourdieu’s cultural capital, the myth of meritocracy from Bowles and Gintis, material factors such as access to devices, setting by ability, and Willis’s lads, who reproduced their class through their own resistance." loading="lazy">
+  <figcaption>Each Marxist concept is a mechanism that keeps working-class children in working-class jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-5-2--04-correspondence-principle.webp" width="900" height="538" alt="School mirrors the workplace: obeying teachers corresponds to obeying bosses, and working for grades rather than interest corresponds to working for wages. Bowles and Gintis call this the correspondence principle; Willis’s lads, who resisted school, challenge it." loading="lazy">
+  <figcaption>For Marxists, school rehearses the obedience that work demands.</figcaption>
+</figure>
 
 ## Feminism at a glance
 
@@ -99,6 +119,11 @@ concepts for each view and asks for strengths and limitations of all three.
 - **Limitations:** girls outperform boys in many countries; ignores class and ethnic differences among
   girls; real progress through equal-opportunity policies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--03-feminist-mechanisms.webp" width="900" height="581" alt="Six feminist mechanisms: male power in school hierarchies, few female role models in science or leadership, girls’ access to education, a gendered curriculum (Kelly), teacher expectations (Stanworth and Spender) and peer control (Lees). A note says girls now outperform boys in many countries." loading="lazy">
+  <figcaption>Feminists show how gender inequality is built into school life, but must explain girls’ success.</figcaption>
+</figure>
+
 ## One practice, three readings
 
 | School practice | Functionalist | Marxist | Feminist |
@@ -106,6 +131,11 @@ concepts for each view and asks for strengths and limitations of all three.
 | Hidden curriculum | Teaches shared values | Teaches obedience for capitalism | Teaches gender roles |
 | Examinations | Fair measure of merit | Reward cultural capital | Shape gendered subject routes |
 | Setting by ability | Efficient matching | Places working-class pupils low | Can reflect gendered expectations |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-sociology-2251-kq-5-2--01-one-practice-three-readings.webp" width="900" height="508" alt="A table showing how functionalists, Marxists and feminists read the same school practices: socialisation and social control, the curriculum, setting by ability, and testing and meritocracy." loading="lazy">
+  <figcaption>The same practice means different things to each view, which is why they are easy to set against each other.</figcaption>
+</figure>
 
 ## Exam traps
 

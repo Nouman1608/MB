@@ -67,6 +67,11 @@ featured: false
 | March 1921 | Kronstadt rising; Tenth Party Congress adopts NEP and bans factions |
 | Jan 1924 | Lenin dies |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--02-ru-1881-94.webp" width="900" height="766" alt="A vertical timeline of 1881 to 1894. In March 1881 the People’s Will kill Alexander II. Repression follows: emergency security laws in 1881, the May Laws against Jews in 1882, land captains in 1889 and weakened zemstvos in 1890. Opposition grows with Plekhanov’s Marxist group in 1883. On the economy, the Trans-Siberian railway begins in 1891, famine strikes in 1891-92 and Witte takes over finance in 1892." loading="lazy">
+  <figcaption>Repression, economic change and opposition in Russia in order, 1881-94.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -87,6 +92,11 @@ featured: false
 | War Communism | Requisitioning, nationalisation and labour discipline, 1918-21 |
 | NEP | New Economic Policy: tax in kind, private trade and small private enterprise |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--01-ru-power.webp" width="900" height="886" alt="A temple-shaped diagram. The Tsar sits on top with unlimited power. Below him a beam holds the appointed State Council and ministers, who answer only to him. Two pillars, the army and the Orthodox Church, hold the beam up. Below, three steps taken by Alexander III after 1881: emergency security laws in 1881, land captains in 1889 and reduced powers for the zemstvos in 1890." loading="lazy">
+  <figcaption>The Tsar’s power rested on the State Council, ministers, army and Church, and Alexander III tightened it after 1881.</figcaption>
+</figure>
+
 ## Comparing 1905 and February 1917
 
 | Factor | 1905 | February 1917 |
@@ -99,6 +109,16 @@ featured: false
 
 This table answers "Why did the regime survive in 1905 but not in 1917?" -- a classic Paper 2 part (b).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--03-ru-1905-causes.webp" width="900" height="798" alt="A flow chart. Four pressures sit at the top: defeat in the Russo-Japanese War of 1904-05, unemployment after 1900, bad harvests, and new parties (the Socialist Revolutionaries and Social Democrats). An arrow leads down to Bloody Sunday in January 1905, then strikes, peasant risings and mutinies, then the general strike in October, ending with the October Manifesto promising civil rights and a Duma." loading="lazy">
+  <figcaption>Pressures built up to Bloody Sunday and ended in the October Manifesto.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--04-ru-1905-survival.webp" width="900" height="796" alt="Four cards show why the regime survived 1905: the opposition was divided because liberals accepted the October Manifesto while socialists did not; the army stayed loyal and crushed the Moscow rising; the Fundamental Laws of 1906 reaffirmed the Tsar’s supreme autocratic power; and the first two Dumas were dissolved and the 1907 electoral law made later Dumas more conservative. Two boxes show change up to 1914: Stolypin’s reforms let peasants leave the commune, and industry grew from about 1908 although the Lena shootings of 1912 began new strikes." loading="lazy">
+  <figcaption>Four reasons the regime survived 1905, and two changes up to 1914.</figcaption>
+</figure>
+
 ## Key question summaries
 
 **3.1.** Alexander III answered his father's assassination with repression and Russification; Bunge's reforms and then Witte's state-led industrialisation built industry at the peasants' expense; the 1891-92 famine discredited government; Marxism gained followers as a factory working class grew.
@@ -108,6 +128,21 @@ This table answers "Why did the regime survive in 1905 but not in 1917?" -- a cl
 **3.3.** The war undermined the Tsar; February was spontaneous. The Provisional Government failed on war, land and authority; the Bolsheviks offered clear slogans, a determined leader and an armed body, the Military Revolutionary Committee.
 
 **3.4.** Decrees won peasants and workers; Brest-Litovsk bought survival; the Cheka and the closure of the Constituent Assembly made a one-party state. Red strengths and White weaknesses decided the Civil War. Kronstadt forced the NEP: economic retreat with political tightening.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--05-ru-1917.webp" width="900" height="726" alt="A timeline of 1917. February: strikes and bread riots in Petrograd, the garrison mutinies, the Tsar abdicates, and the Provisional Government shares power with the Petrograd Soviet. June: an offensive collapses and the war goes on. July: the July Days. August: the Kornilov Revolt, when Kerensky arms the Bolsheviks’ Red Guards. On 24-25 October the Military Revolutionary Committee seizes the bridges, stations, telegraph and the Winter Palace." loading="lazy">
+  <figcaption>The path from the February strikes to the Bolshevik seizure of power on 24-25 October.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--06-ru-civil-war.webp" width="900" height="700" alt="Two columns compare the sides. The Reds won through the leadership of Lenin and Trotsky, peasants’ fear of landlords returning, control of the heartland, railways and arms factories, and unity of command. The Whites lost because of divided leaders and aims, conscripts who deserted, stretched supply lines and the taint of foreign intervention. A box below notes that War Communism fed the army but brought famine." loading="lazy">
+  <figcaption>Red strengths set against White weaknesses in the Civil War.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-world-history-russia-1881-1924-study-guide--07-ru-consolidation.webp" width="900" height="754" alt="A timeline of Bolshevik consolidation. December 1917: the Cheka is set up under Dzerzhinsky. January 1918: the Constituent Assembly is closed after one day. March 1918: the Treaty of Brest-Litovsk ends the war at the cost of huge territories. 1918 to 1921: Civil War and War Communism. March 1921: Kronstadt sailors revolt and are crushed, and the New Economic Policy replaces requisitioning with a tax in kind and private trade while factions inside the party are banned. January 1924: Lenin dies." loading="lazy">
+  <figcaption>Control, policy and economic steps from December 1917 to Lenin’s death in 1924.</figcaption>
+</figure>
 
 ## Exam traps
 

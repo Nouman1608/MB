@@ -44,6 +44,21 @@ Condensed for the final weeks. For the full explanation, use the [sources of Eng
 - *Ejusdem generis* in *Powell v Kempton Park*: "house, office, room or other place" was read as indoor places, so an outdoor betting enclosure was not covered.
 - *Pepper v Hart* allows *Hansard* only where the Act is ambiguous or obscure, or its literal meaning leads to absurdity, and the ministerial statement relied on is clear.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--01-parliament-acts.webp" width="900" height="634" alt="The Parliament Act 1911 removed the Lords' veto over most public Bills, leaving a power to delay, which the 1949 Act cut to roughly one year; a money Bill can become law without the Lords after one month. The Acts were used for the War Crimes Act 1991 and Hunting Act 2004 and upheld in Jackson v Attorney General. The Royal Assent Act 1967 allows assent to be notified." loading="lazy">
+  <figcaption>The Lords can delay most Bills for about a year, but the elected Commons has the final say.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--02-law-reform-influences.webp" width="900" height="569" alt="A table of five influences on law reform with an example, advantage and disadvantage for each: political parties, pressure groups (Snowdrop campaign and the Firearms (Amendment) Act 1997), the Law Commission (Fraud Act 2006), judges (R v R) and the media (Sarah's Law)." loading="lazy">
+  <figcaption>Each influence has a lesson example, a strength and a weakness.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--03-interpretation-aids.webp" width="900" height="684" alt="Ejusdem generis: in Powell v Kempton Park, the words house, office, room or other place were read as indoor places only, so an outdoor enclosure was not covered. Cards cover presumptions, intrinsic and extrinsic aids and the Interpretation Act 1978. Under the HRA, s 3 requires a compatible reading where possible (Ghaidan); if impossible, a s 4 declaration does not invalidate the Act." loading="lazy">
+  <figcaption>General words take their meaning from the list; s 3 reads compatibly, s 4 declares.</figcaption>
+</figure>
+
 ## Delegated legislation (1.2.4 to 1.2.6)
 
 Orders in council, statutory instruments, bylaws. Controlled by Parliament (resolution procedures, scrutiny committees) and the courts (*ultra vires*). **Legislative and Regulatory Reform Act 2006**: ministers may reduce regulatory burdens by order, with safeguards; criticised as expanding executive power.
@@ -59,6 +74,11 @@ Orders in council, statutory instruments, bylaws. Controlled by Parliament (reso
 - For: flexible, responds to real cases. Against: unelected judges, retrospective effect, depends on a case reaching court.
 - **Equity's discretion**: remedies are not available as of right. Specific performance is refused where damages would be an adequate remedy, so it is mainly used for unique subject matter such as land or a rare item. Rescission is barred by **delay** ("delay defeats equity", as in *Leaf*, where the buyer of a painting waited years before trying to rescind) and where restoring the parties to their original position is impossible.
 - **Judges and law reform**: *R v R* shows judges changing the law when it was out of step with society (removing the marital exemption for rape), but critics say such a large change should come from Parliament.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--04-equitable-remedies.webp" width="900" height="419" alt="Two equitable remedies: specific performance orders a party to carry out the contract, typically for unique items such as land (Beswick v Beswick); rescission sets the contract aside but can be lost through delay (Leaf v International Galleries). A note says the remedies are discretionary, so a claimant must come with clean hands." loading="lazy">
+  <figcaption>Specific performance and rescission are discretionary: delay or unfairness can lose them.</figcaption>
+</figure>
 
 ## EU law (1.2.10 to 1.2.12)
 
@@ -83,6 +103,16 @@ Orders in council, statutory instruments, bylaws. Controlled by Parliament (reso
 | Arbitration | Decides | Yes (Arbitration Act 1996) |
 | Ombudsman | Investigates complaints | Depends on scheme |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--05-civil-courts-tracks.webp" width="900" height="687" alt="Civil claims mostly start in the County Court or High Court, with appeals to the Court of Appeal and then the Supreme Court. A bar shows the tracks: small claims generally up to £10,000, fast track up to £25,000, and multi-track above, with an intermediate track added in 2023 for some claims above £25,000. Cards give the overriding objective and the two-tier tribunal structure." loading="lazy">
+  <figcaption>Claims start in the County or High Court and are allocated to a track by value and complexity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--06-adr-who-decides.webp" width="900" height="520" alt="A table of five ADR methods with who decides, whether the outcome is binding, and an example: negotiation, mediation and conciliation bind only if the parties agree; arbitration is binding under the Arbitration Act 1996; an ombudsman's decision depends on the scheme." loading="lazy">
+  <figcaption>Contrast ADR methods by who decides and whether the result binds.</figcaption>
+</figure>
+
 ## People (1.2.20 to 1.2.22)
 
 Judges: Judicial Appointments Commission (Constitutional Reform Act 2005), wider eligibility (Courts and Legal Services Act 1990). Solicitors (SRA) and barristers (Bar Standards Board). Magistrates: lay, usually three with a legal adviser. Jurors: random from the electoral register (Juries Act 1974).
@@ -96,6 +126,11 @@ Judges: Judicial Appointments Commission (Constitutional Reform Act 2005), wider
 Court fees, lawyers' fees, loser pays, reputational cost. Funding: insurance, legal aid (cut by LASPO 2012), conditional fees, trade unions, Citizens Advice, pro bono.
 
 LASPO 2012 took many civil areas (for example most private family, employment and welfare benefit matters) out of the scope of legal aid, which is now run by the **Legal Aid Agency**. It also stopped a winning claimant recovering the lawyer's **success fee** under a conditional fee agreement from the losing side, so the fee usually comes out of the damages. Evaluation: cuts saved public money but are criticised for reducing **access to justice** and increasing the number of unrepresented litigants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--07-amira-dispute-route.webp" width="900" height="542" alt="Four numbered steps for Amira's £4,000 claim: negotiate first with a letter before action, then mediation, then the small claims track, and for funding legal aid is unlikely after LASPO 2012, so check home insurance for legal expenses cover." loading="lazy">
+  <figcaption>Cheapest first: negotiate, mediate, then small claims, with funding checked.</figcaption>
+</figure>
 
 ## Model evaluation paragraph
 

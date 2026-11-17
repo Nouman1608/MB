@@ -35,6 +35,11 @@ Condensed notes for the section 3.2 row **Non-fatal offences against the person*
 | Break in both layers of skin | Wound | *JCC v Eisenhower* (1984) |
 | Really serious harm, judged against this victim; serious psychiatric illness; HIV infection | GBH | *DPP v Smith* (1961); *Bollom* (2003); *Burstow* (1997); *Dica* (2004) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--03-classify-harm.webp" width="900" height="556" alt="Three categories of harm. ABH (s47): more than transient or trifling (Miller), including psychiatric injury but not mere fear (Chan-Fook), cutting off hair and brief unconsciousness. Wound (s20 or s18): a break in both layers of skin (Eisenhower), not internal bleeding. GBH (s20 or s18): really serious harm (DPP v Smith), judged against the actual victim (Bollom), possibly from several injuries, serious psychiatric injury (Burstow) or reckless HIV infection (Dica)." loading="lazy">
+  <figcaption>Classify the injury first; it decides which offences are in play.</figcaption>
+</figure>
+
 ## Step 2: assault
 
 - **Actus reus:** causing apprehension of immediate unlawful force.
@@ -44,6 +49,11 @@ Condensed notes for the section 3.2 row **Non-fatal offences against the person*
 - **Imitation weapon:** *Logdon v DPP* (1976).
 - **Mens rea:** intention or subjective recklessness as to causing apprehension (*Savage*; *Parmenter*, 1991).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--01-assault.webp" width="900" height="504" alt="Assault is causing the victim to apprehend immediate unlawful force. Apprehension, not fear (Lamb). Immediate means imminent (Smith v Woking; Constanza). Silence and conditional threats can be enough (Ireland; Read v Coker), but words can cancel a threat (Tuberville v Savage). An imitation gun counts if believed real (Logdon). It is charged under s39 Criminal Justice Act 1988." loading="lazy">
+  <figcaption>The victim must expect immediate force; no touch and no fear are needed.</figcaption>
+</figure>
+
 ## Step 3: battery
 
 - **Actus reus:** application of unlawful force.
@@ -51,6 +61,11 @@ Condensed notes for the section 3.2 row **Non-fatal offences against the person*
 - **Indirect:** *Haystead* (2000); *DPP v K* (1990).
 - **Continuing act:** *Fagan* (1969). **Omission:** *Santana-Bermudez* (2003).
 - **Mens rea:** intention or subjective recklessness as to applying force.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--02-battery-routes.webp" width="900" height="620" alt="Five ways a battery is committed: direct touch (Collins v Wilcock), through clothing (R v Thomas), indirect force (Haystead; DPP v K), a continuing act (Fagan) and an omission (DPP v Santana-Bermudez). The mens rea is intention or subjective recklessness as to applying force." loading="lazy">
+  <figcaption>Force can be slight, indirect, continuing or even an omission.</figcaption>
+</figure>
 
 ## Step 4: the 1861 Act offences
 
@@ -63,6 +78,11 @@ Condensed notes for the section 3.2 row **Non-fatal offences against the person*
 
 **"Inflict":** no force needed (*Burstow*). **"Maliciously":** *Cunningham* (1957) subjective recklessness. **Several injuries:** can together be GBH (*Brown and Stratton*, 1998). **Causation for s47:** *Roberts*: victim's foreseeable reaction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--04-mens-rea-gap.webp" width="900" height="681" alt="For s47 the defendant need only have the mens rea of the assault or battery, though ABH results (Roberts; Savage). For s20, intention or recklessness as to some harm is enough, though a wound or GBH results (Mowatt; Parmenter). For s18, intention to cause GBH matches the harm (Belfon). The gaps breach correspondence; the Law Commission’s 2015 proposals have not been enacted." loading="lazy">
+  <figcaption>Only s18 matches fault to harm; s47 and s20 leave a gap.</figcaption>
+</figure>
+
 ## Step 5: work down the ladder
 
 ```
@@ -73,6 +93,11 @@ Wound or GBH caused?
    no  -> ABH caused by an assault or battery?  yes -> s47
                                                 no  -> force applied? battery : apprehension? assault
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--05-offence-ladder.webp" width="900" height="546" alt="A ladder from assault and battery (six months, intention or recklessness as to apprehension or force) through s47 (ABH, mens rea of the assault or battery, five years) and s20 (wound or GBH, intention or recklessness as to some harm, five years) to s18 (wound or GBH with intent to cause GBH or resist arrest, life)." loading="lazy">
+  <figcaption>Harm, fault and maximum sentence rise together, except that s47 and s20 share a maximum.</figcaption>
+</figure>
 
 ## Mini applications
 
@@ -88,6 +113,11 @@ Wound or GBH caused?
 **Scenario:** E shouts "I'm going to smash your face in" while walking towards F.
 - F apprehends immediate force: assault.
 - Words alone can be enough (*Ireland*).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-non-fatal-offences-against-the-person--06-zara-worked-example.webp" width="900" height="628" alt="Zara’s push causes a cut needing stitches, a wound under Eisenhower. Testing from the top: s18 fails because there is no intention to cause GBH; s20 is possible if she foresaw some harm (Mowatt), a jury question; s47 is satisfied as a battery occasioning ABH. Conclusion: s20 if foresight is proved, otherwise s47." loading="lazy">
+  <figcaption>Classify the harm, then test from s18 downwards.</figcaption>
+</figure>
 
 ## Key terms
 

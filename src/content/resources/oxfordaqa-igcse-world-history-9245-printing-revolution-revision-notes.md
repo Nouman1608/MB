@@ -51,6 +51,11 @@ featured: false
 | 1720s | First Ottoman Turkish press in Istanbul |
 | 1751-72 | French *Encyclopédie* |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--01-printing-before-gutenberg.webp" width="900" height="605" alt="Timeline: woodblock printing and the Diamond Sutra in China (868), Bi Sheng's clay movable type (1040s), Korean metal type and the Jikji (1377), paper replacing parchment in Europe by the fourteenth century, and Gutenberg's press in the 1440s-50s." loading="lazy">
+  <figcaption>Printing existed in China and Korea centuries before Gutenberg.</figcaption>
+</figure>
+
 ## Gutenberg's system
 
 | Element | Why it mattered |
@@ -60,11 +65,21 @@ featured: false
 | Oil-based ink | Stuck to metal type |
 | Paper | Cheaper than parchment |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--02-gutenberg-system.webp" width="900" height="616" alt="Four technologies feed into Gutenberg's printing system: metal type cast in a hand mould, a screw press adapted from wine and oil presses, oil-based ink and widely available paper. A note records the 1455 lawsuit by his backer Johann Fust." loading="lazy">
+  <figcaption>Gutenberg's achievement was to combine existing technologies into one system.</figcaption>
+</figure>
+
 ## Economics of printing
 
 - High start-up costs; low cost per copy.
 - Risk of unsold stock; many printers failed.
 - Finance from merchants; sales at fairs such as Frankfurt.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--03-book-economics.webp" width="900" height="593" alt="Illustrative graph: the cost per copy of a hand-copied manuscript stays high, while the cost per printed copy falls steeply as high start-up costs are spread over more copies. Below, the risk of bankruptcy and the role of investors and book fairs." loading="lazy">
+  <figcaption>High start-up costs, but each extra printed copy was cheap.</figcaption>
+</figure>
 
 ## Industry, type and layout
 
@@ -77,11 +92,21 @@ featured: false
 - New jobs: typefounder, compositor, pressman, proofreader, illustrator, binder, bookseller, publisher.
 - Widows ran presses, e.g. Charlotte Guillard in Paris; women as compositors, binders, sellers and authors.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--05-new-professions.webp" width="900" height="480" alt="The new trades of printing in order: typefounder, compositor, pressman, proofreader, then illustrator or engraver, bookbinder and bookseller or publisher. A note describes women's opportunities, such as Charlotte Guillard running a Paris press." loading="lazy">
+  <figcaption>Printing created a chain of new trades, and opened some of them to women.</figcaption>
+</figure>
+
 ## Language and law
 
 - From Latin to **vernacular** books; Luther's and Tyndale's New Testaments.
 - Standardised spelling and national languages.
 - Privileges from rulers; Stationers' Company (1557); Statute of Anne (1710): origins of **intellectual property**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--06-towards-copyright.webp" width="900" height="562" alt="Chain from printers' privileges granted by rulers, to the Stationers' Company charter of 1557, to the Statute of Anne in 1710, which gave rights to authors for a fixed term. Below, printing in vernacular languages and the standardising of spelling and grammar." loading="lazy">
+  <figcaption>Rights moved from printers to authors: the start of intellectual property.</figcaption>
+</figure>
 
 ## Consequences
 
@@ -94,6 +119,16 @@ featured: false
 | Education | Larger libraries; standard textbooks |
 | Science | Identical diagrams and data; journals; Copernicus, Vesalius, Newton |
 | Global | Presses in Mexico City and Istanbul |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--07-printing-and-reformation.webp" width="900" height="639" alt="Four steps: Luther's 1517 criticisms printed in huge numbers, woodcut pamphlets for people who could barely read, the vernacular Bible, and the Catholic response including the Index of 1559. A note on the Renaissance and Erasmus's Greek New Testament of 1516." loading="lazy">
+  <figcaption>Printing let Reformation ideas spread faster than they could be suppressed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-printing-revolution--08-printing-and-science.webp" width="900" height="566" alt="Chain: printing made identical copies, so errors could be spotted and scientists could build on each other's work. A table gives examples: Vesalius and Copernicus in 1543, Philosophical Transactions from 1665, Newton's Principia in 1687, and presses in Mexico City and Istanbul." loading="lazy">
+  <figcaption>Identical copies let scientists check and build on each other's work.</figcaption>
+</figure>
 
 ## Linking to the rest of the thematic study
 

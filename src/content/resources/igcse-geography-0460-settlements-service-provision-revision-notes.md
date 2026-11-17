@@ -65,6 +65,16 @@ A settlement grows where site and situation combine well, for example at a route
 situation stays small; a site at a **route centre**, river mouth or gap can grow into a town or city
 because people and goods pass through it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--02-site-factors.webp" width="900" height="765" alt="A schematic landscape with six numbered settlements: 1 on a dry point above a marshy floodplain; 2 inside a meander loop for defence, like Durham; 3 at a bridging point; 4 at a spring, a wet point; 5 in a gap through the hills; 6 on a sheltered, sunny slope. A key below names each site factor." loading="lazy">
+  <figcaption>Early sites met basic needs: water, safety from floods and attack, crossings and routes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
+
 ## Patterns
 
 | Pattern | Shape |
@@ -82,6 +92,11 @@ Relief, water supply and routes help explain which pattern forms.
 - **Nucleated:** grows around a crossroads, a spring, a defensive hill or a market, where people
   benefited from living close together for safety and trade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--01-settlement-patterns.webp" width="900" height="615" alt="Three plan views. Dispersed: isolated farmhouses spread across fields, typical of large or pastoral farms where water is everywhere. Nucleated: houses clustered round a crossroads or well, for shared water, defence or cooperation. Linear: houses in a line along a road, also found along railways, rivers, coasts and valley floors." loading="lazy">
+  <figcaption>Name the pattern, then give a reason tied to a feature you can see.</figcaption>
+</figure>
+
 ## Hierarchy of settlements
 
 Settlements are ranked by size and importance: hamlet, village, town, city.
@@ -92,6 +107,11 @@ Settlements are ranked by size and importance: hamlet, village, town, city.
 
 A hierarchy can be shown by a **pyramid diagram** (cities at the narrow top, hamlets at the wide
 base) or measured by counting services in each settlement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--05-pop-hierarchy.webp" width="900" height="1028" alt="A stack of four settlement sizes: city at the top, then town, village and hamlet at the bottom. Red dots on the left show how many settlements there are of each size (illustrative): 1 city, 2 towns, 4 villages, 8 hamlets. Shop symbols on the right show how many services each offers: 6 for the city, 4 for the town, 2 for the village, 1 for the hamlet. As size increases the number of settlements falls and the number of services rises." loading="lazy">
+  <figcaption>As settlements get larger there are fewer of them and each offers more services (illustrative counts).</figcaption>
+</figure>
 
 ## Range and threshold
 
@@ -114,6 +134,16 @@ Survey shoppers or service users and ask where they have travelled from, then pl
 a map and draw a line round the outermost points. A desire-line map shows the pattern. A large town
 draws people from a wider area because it offers high-order services nearby villages lack.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--05-sphere-of-influence.webp" width="900" height="730" alt="Three circles centred on a market town show the spheres of influence of a newsagent (furthest customer 4 km), a supermarket (15 km) and a furniture store (55 km), with desire lines to customers’ homes. A table gives mean and furthest distances: newsagent 1.5 and 4 km, supermarket 6 and 15 km, furniture store 22 and 55 km. The furniture store is high-order; the newsagent low-order." loading="lazy">
+  <figcaption>High-order services draw customers from much further away.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--06-pop-range-threshold.webp" width="900" height="990" alt="Top: four small newsagent shops, each with a small dashed circle (its range) holding a few customers (a low threshold), so many shops fit close together. Bottom: one department store with a large dashed circle (a large range) holding many customers (a high threshold), so there are relatively few such shops. Range is how far people will travel to use a service. Threshold population is the minimum number of customers needed to make it viable. Schematic, not to scale." loading="lazy">
+  <figcaption>A newsagent has a low threshold and small range so there are many; a department store has a high threshold and large range so there are few.</figcaption>
+</figure>
+
 ## Rural and urban settlements
 
 Rural settlements are small and mostly serve farming areas, with limited services, so people travel
@@ -135,6 +165,11 @@ shops, combined services in one building, and subsidised or demand-responsive bu
 
 Commuter villages near cities can grow, however: new housing brings wealthier residents, but they
 often shop and work in the town, so local services may still decline while house prices rise.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--04-changing-services.webp" width="900" height="475" alt="Causes of rural service closure (more car ownership, online shopping and banking, ageing or declining population) lead to the loss of village shops, banks and post offices. Responses include mobile libraries, clinics and banking vans, multi-purpose shops with a post office and café, and community-run shops. In fast-growing cities the problem is the reverse." loading="lazy">
+  <figcaption>Fewer local customers push services away; mobile and shared services fill the gap.</figcaption>
+</figure>
 
 ## Case study card
 

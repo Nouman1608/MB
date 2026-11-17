@@ -45,6 +45,16 @@ These notes condense three sub-topics of Cambridge IGCSE Commerce (0715) Topic 2
 
 **Drawbacks:** less control of quality and timing; dependence on the contractor; confidentiality risks; reputational damage if the contractor behaves unethically.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--01-outsourcing-types.webp" width="900" height="900" alt="Two panels. In contract manufacturing a brand owner who designs, brands and sells sends an agreed design to a specialist factory that makes the goods. In contract logistics the brand owner sends stock to a logistics firm, which stores and packs it in a warehouse, then delivers it by truck to the customer." loading="lazy">
+  <figcaption>Contract manufacturing and contract logistics are the two outsourcing areas the syllabus names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--02-outsourcing-reasons.webp" width="900" height="940" alt="Six tiles with icons give the reasons outsourcing has grown: lower costs, access to expertise, focus on core activities, flexibility, growth of ecommerce and better communication. A panel below shows four drawbacks with warning signs: less control of quality and delivery, dependence on the contractor, confidential designs at risk and reputation damage." loading="lazy">
+  <figcaption>Six reasons outsourcing has grown, and four drawbacks to weigh.</figcaption>
+</figure>
+
 ## 2.4 Wholesaling
 
 **Functions for the manufacturer:** buys in bulk · stores goods · bears risk · pays promptly · distributes to many retailers · passes on market information.
@@ -60,6 +70,21 @@ These notes condense three sub-topics of Cambridge IGCSE Commerce (0715) Topic 2
 | **Cash and carry** | Retailer collects goods, pays immediately, transports them | No credit or delivery costs, so lower prices |
 | **Voluntary chain** | Independent retailers agree to buy mainly from one wholesaler and share a brand and promotions | Bulk buying power lets small shops compete with chains |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--04-wholesaler-manufacturer.webp" width="900" height="800" alt="A factory sends large orders in crates to a wholesaler warehouse, and the wholesaler sends payment back promptly. Six tiles list the wholesaler functions for the manufacturer: buys in bulk, stores goods, bears the risk, pays promptly, distributes to many shops and gives market information." loading="lazy">
+  <figcaption>The wholesaler buys in bulk, stores, bears risk, pays promptly, distributes and gives market information.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--05-wholesaler-retailer.webp" width="900" height="800" alt="A wholesaler warehouse sends small parcels to a retailer shop, and the retailer pays later because the wholesaler gives credit. Six tiles list the wholesaler functions for the retailer: breaks bulk, wide range of goods, gives credit, delivers to the shop, gives advice and prepares goods." loading="lazy">
+  <figcaption>The wholesaler breaks bulk, offers range and credit, delivers, advises and prepares goods.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-commerce-outsourcing-and-wholesaling--06-wholesaler-survival.webp" width="900" height="1040" alt="Top panel: a retailer with a trolley collects goods from a cash and carry warehouse and pays immediately. There is no credit and no delivery, so prices are lower. Bottom panel: a wholesaler supplies four independently owned shops that buy most of their stock from it and share a brand name and joint promotions, giving lower prices." loading="lazy">
+  <figcaption>Cash and carry and voluntary chains are the two ways independent wholesalers survive.</figcaption>
+</figure>
+
 ## 2.6 Communication
 
 ### Types of communication (2.6.1)
@@ -70,6 +95,11 @@ These notes condense three sub-topics of Cambridge IGCSE Commerce (0715) Topic 2
 | **Oral** | Spoken | Telephone call, face-to-face meeting |
 | **Electronic** | Sent through digital networks | Email, web chat, social media, videoconferencing |
 | **Visual** | Uses images, charts or displays | Poster, chart, sign |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--01-types-of-communication.webp" width="900" height="615" alt="Four cards define written, oral, electronic and visual communication with examples. Below, an email is shown as both written and electronic, and a videoconference as oral, visual and electronic." loading="lazy">
+  <figcaption>Types overlap, so give each type’s main feature and the example that fits it best.</figcaption>
+</figure>
 
 ### Methods of communication (2.6.2)
 
@@ -84,11 +114,21 @@ These notes condense three sub-topics of Cambridge IGCSE Commerce (0715) Topic 2
 | Social media | Reaching many customers, promotions | Public complaints; hard to control |
 | Posters | Visual message to people passing a place | One-way; limited information |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--02-methods-compared.webp" width="900" height="680" alt="Eight cards, one for each method: letter, telephone, face to face, videoconferencing, email, web-based chat, social media and posters. Each card gives the method’s main advantage with a tick and main disadvantage with a cross." loading="lazy">
+  <figcaption>Every method has a trade-off; the situation decides which one matters.</figcaption>
+</figure>
+
 ### Factors affecting choice (2.6.3)
 
 **Urgency · cost · security · distance · availability of networks · importance of the message.**
 
 Apply them: an urgent order change → telephone; a signed contract → letter or secure electronic document; a meeting with an overseas supplier → videoconferencing (if networks are available); confidential salary details → face to face or secure email, not social media.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-commerce-0715-communication-0715-commerce--04-six-factors.webp" width="900" height="750" alt="Six rows: urgency, cost, security, distance, availability of networks and importance of the message. Each gives the question to ask and the methods it favours, with social media to avoid for security and travel to avoid for cost." loading="lazy">
+  <figcaption>Name the factors in the scenario, then pick the method they favour.</figcaption>
+</figure>
 
 ## How the three sub-topics connect
 

@@ -83,6 +83,36 @@ These notes condense content point **3.2.3.2 'Traditional' media** of OxfordAQA 
 - Cultural effects: Gerbner's cultivation theory, "mean world syndrome"; Hall's encoding/decoding (dominant, negotiated, oppositional); Morley (1980), *Nationwide*, readings vary by class.
 - Uses and gratifications: Blumler and Katz (1974).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--01-communication.webp" width="900" height="609" alt="A timeline of the 1840 penny post, the telegraph of 1844 and 1866 with Carey’s argument that it separated communication from transport, and the 1876 telephone, which Fischer found users turned into a tool for sociability." loading="lazy">
+  <figcaption>Each medium changed society, but users also changed each medium.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--02-print-broadcast.webp" width="900" height="655" alt="Anderson’s imagined communities, Habermas’s public sphere, Reith’s public service broadcasting and non-Western film industries, with three views of popular culture: Frankfurt School, Gramsci and active audiences." loading="lazy">
+  <figcaption>Mass media built nations and publics, and are contested sites of culture.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--03-news-selection.webp" width="900" height="719" alt="Events pass through gatekeeping and news values to become the news, which sets the agenda of what people think about. Cards cite White’s Mr Gates, Galtung and Ruge’s news values and McCombs and Shaw’s agenda-setting." loading="lazy">
+  <figcaption>News is selected, not simply reported.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--04-ownership.webp" width="900" height="491" alt="Horizontal, vertical and cross-media ownership, Bagdikian on concentration, and the distinction between owners’ allocative control, stressed by Marxists, and journalists’ operational control, stressed by pluralists." loading="lazy">
+  <figcaption>Who sets budgets and who writes the news are different kinds of control.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--05-representations.webp" width="900" height="701" alt="A grid of media representations of social class, gender, ethnicity and age, each with a pattern and a thinker such as Owen Jones, Tuchman, Mulvey, Hall, van Dijk and Cohen, plus three evaluation questions." loading="lazy">
+  <figcaption>Representations follow patterns, but audiences may reject them.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-traditional-media--06-audience-tests.webp" width="900" height="565" alt="Four audience models from passive to active, each with research that tests it: Bandura’s Bobo doll, opinion leaders, Gerbner’s cultivation and Hall’s encoding/decoding, and uses and gratifications. Morley’s Nationwide study shows readings vary by class." loading="lazy">
+  <figcaption>Research evidence pushes the models towards an active audience.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Definition |

@@ -72,6 +72,16 @@ With a 5-stage pipeline and no hazards, n instructions take 5 + (n − 1) cycles
 
 **Interrupt handling**: on a CISC processor without a pipeline, the interrupt is checked for after the current instruction finishes; registers are saved and the ISR runs. On a pipelined RISC processor several instructions are part-way through when the interrupt arrives. Either the later instructions are flushed from the pipeline and only the one furthest on is completed before the ISR is loaded, or each stage keeps its own copy of the program counter and register data so the state of every instruction in the pipeline can be saved and resumed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--07-pipeline-timing.webp" width="900" height="1070" alt="A grid with eight instructions down the side and twelve clock cycles across. Each instruction moves through five stages, one per cycle, starting one cycle after the previous instruction, so the staircase of coloured cells finishes at cycle 12. Without pipelining, eight instructions take 8 times 5 = 40 cycles; with pipelining they take 5 + 7 = 12 cycles. The speed-up is 40 divided by 12, about 3.3." loading="lazy">
+  <figcaption>Eight instructions on a five-stage pipeline finish in 12 cycles instead of 40.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--08-pipeline-speedup.webp" width="900" height="960" alt="A graph of speed-up against number of instructions for a five-stage pipeline. The curve rises steeply, passing 3.3 at 8 instructions and 4.8 at 100 instructions, and approaches a dashed limit of 5, the number of stages. Pipelining raises throughput, but no single instruction runs faster." loading="lazy">
+  <figcaption>Speed-up approaches the number of stages (5) as the run gets longer.</figcaption>
+</figure>
+
 ## Flynn's four architectures
 
 | Architecture | Meaning | Example |
@@ -82,6 +92,11 @@ With a 5-stage pipeline and no hazards, n instructions take 5 + (n − 1) cycles
 | MIMD | Multiple instruction, multiple data | Multi-core processors; clusters, each core running its own instructions on its own data |
 
 **Massively parallel computers**: a very large number of processors, each with its own memory, linked by a fast network; each works on part of one problem and they exchange results by passing messages. Used for weather forecasting, climate and scientific simulation. The software must be written to split the task; parts that depend on each other limit the speed-up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--09-flynn-classification.webp" width="900" height="1170" alt="Four panels. SISD: one instruction stream and one data stream feed one processor, like a traditional single core. SIMD: one instruction stream feeds several processors, each with its own data item, for example the same change applied to every pixel. MISD: several instruction streams act on a single data stream; rare, used in some fault-tolerant systems. MIMD: several processors each with their own instructions and data, as in multi-core processors and clusters." loading="lazy">
+  <figcaption>SISD, SIMD, MISD and MIMD drawn as instruction and data streams feeding processors.</figcaption>
+</figure>
 
 ## Virtual machines
 
@@ -95,6 +110,11 @@ A **virtual machine** is software that emulates a computer system, so a guest op
 | Running old (legacy) software on new hardware | Old software stays usable | Emulation can be complex to set up |
 
 Virtual machines are not virtual memory (June 2024 Paper 32).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--10-virtual-machine.webp" width="900" height="920" alt="A stack of layers: hardware at the bottom, then the host operating system, then virtual machine software that imitates a computer. On top of the virtual machine software run two guest operating systems, each with programs. Benefits: several operating systems on one computer, safe isolated testing, portable programs. Limitations: slower than running directly on the hardware, and the virtual machine uses memory and processing power." loading="lazy">
+  <figcaption>A virtual machine runs guest systems on top of a host operating system, with benefits and limitations.</figcaption>
+</figure>
 
 ## Half adder and full adder
 
@@ -120,6 +140,11 @@ Half adder: Sum = A XOR B; Carry = A AND B.
 
 Full adder: two half adders and an OR gate. Sum = (A XOR B) XOR Cin; Cout = (A AND B) OR (Cin AND (A XOR B)).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--12-full-adder.webp" width="900" height="1150" alt="A logic circuit and truth table for a full adder. Inputs A and B go into an XOR gate and an AND gate. The XOR output goes with carry in C into a second XOR gate, which gives Sum, and into a second AND gate. The two AND outputs go into an OR gate, which gives carry out Cout. The eight-row truth table shows Sum and Cout for every combination of A, B and C; in every row the binary value of Cout and Sum equals the number of inputs that are 1." loading="lazy">
+  <figcaption>Full adder circuit built from two XOR, two AND and one OR gate, with its eight-row truth table.</figcaption>
+</figure>
+
 ## Flip-flops
 
 A flip-flop stores one bit; its output depends on its inputs **and its previous state**, which is why it can act as memory (registers, SRAM).
@@ -141,6 +166,11 @@ A NOR-based SR flip-flop is two cross-coupled NOR gates: each gate's output feed
 | 1 | 1 | Toggle (Q becomes NOT Q) |
 
 The JK flip-flop removes the invalid state and changes only on a clock pulse, so outputs are synchronised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--13-flip-flops.webp" width="900" height="1000" alt="Top: four cards for an SR flip-flop. S=1, R=0 sets Q to 1. S=0, R=1 resets Q to 0. S=0, R=0 holds the state, so Q is unchanged. S=1, R=1 is not allowed because the output is unpredictable. Bottom: waveforms for a JK flip-flop with J and K both 1. A square clock wave has six pulses and Q toggles at each pulse, going 1, 0, 1, 0, 1, 0." loading="lazy">
+  <figcaption>SR flip-flop set, reset, hold and forbidden states, and the JK toggle when J = K = 1.</figcaption>
+</figure>
 
 ## Boolean algebra
 
@@ -178,6 +208,11 @@ The JK flip-flop removes the invalid state and changes only on a clock pulse, so
 | 10 | 1 | 0 | 0 | 1 |
 
 The corners form one group of four (B = 0, D = 0): B̄.D̄. The centre forms a group of four (B = 1, D = 1): B.D. So F = B̄.D̄ + B.D.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide--11-kmap-worked-example.webp" width="900" height="990" alt="A Karnaugh map with A as the row and BC in Gray code order 00, 01, 11, 10 across the columns. The ones are in row A=0 at BC 00, 01 and 11, and in row A=1 at BC 00 and 11. Three groups of two cover all five ones: B-not.C-not (BC 00, both rows), B.C (BC 11, both rows) and A-not.C (row A=0, BC 01 and 11). The simplified expression is F = B-not.C-not + B.C + A-not.C, checked against every row of the truth table." loading="lazy">
+  <figcaption>The K-map for the five-minterm example with its three groups and the simplified expression.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

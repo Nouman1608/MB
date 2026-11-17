@@ -41,6 +41,11 @@ population). For the full explanation, read the
 
 A strong answer applies **named** factors to a **named** place rather than listing categories.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--08-pd-factors.webp" width="900" height="990" alt="A landscape shows many people on a plain with a river and few on a mountain and in a dry sunny area. Physical factors labelled are relief, climate, soil fertility, fresh water and resource access. Human factors listed are economic opportunity, historical settlement, political stability and infrastructure." loading="lazy">
+  <figcaption>Physical and human factors pull settlement towards some areas and away from others.</figcaption>
+</figure>
+
 ## Global pattern
 
 - Most of the world's people live in the **Northern Hemisphere**, and large clusters are found in
@@ -71,6 +76,11 @@ densities of any large country, supported by fertile delta soils that allow inte
 Mongolia has only a few people per square kilometre because of its dry, cold climate and short
 growing season.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--09-pd-density.webp" width="900" height="840" alt="Two grids of nine one-square-kilometre squares each hold 18 people. One is evenly spread and the other clustered. Both have a density of 2 people per km², but the pattern of distribution is different." loading="lazy">
+  <figcaption>The same density can hide very different distributions.</figcaption>
+</figure>
+
 ## Classifying economic development
 
 - The **World Bank** groups countries by gross national income (GNI) per capita into **low-income,
@@ -97,6 +107,11 @@ migrants (**backwash effects** drain the periphery), until growth eventually spr
 
 Governments respond with regional policy: new capitals (Brazil moved its capital to Brasília in
 1960, partly to develop the interior), infrastructure, tax incentives and investment in lagging regions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-power-places-networks-study-guide--16-core-periphery.webp" width="900" height="820" alt="A large circle split into an inner core and an outer ring. The core is wealthy and well-connected. The periphery ring supplies resources and labour and has less influence. Four arrows point inwards from the periphery to the core to show resources and labour flowing to the core. Schematic." loading="lazy">
+  <figcaption>Core and periphery as a simple concentric model.</figcaption>
+</figure>
 
 ## Megacity growth
 
@@ -132,6 +147,11 @@ economic development, but it is a generalisation, so note where real countries d
 **Limitations:** based on the experience of Europe; many lower-income countries passed through
 stage 2 much faster because of imported medicine; it ignores migration; and culture, religion and
 government policy can hold birth rates up or push them down regardless of income.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-geography-population-distribution--11-pd-dtm.webp" width="900" height="920" alt="Birth and death rates both start high, with deaths falling first, and end low. The gap where births exceed deaths is widest in the middle, so total population grows fastest then and more slowly later." loading="lazy">
+  <figcaption>Falling death then birth rates give a distinct effect on growth at each stage.</figcaption>
+</figure>
 
 ## Exam traps
 

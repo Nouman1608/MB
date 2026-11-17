@@ -43,6 +43,11 @@ them. Full explanations are in the
 | **Religious** | Christian missions, e.g. David Livingstone |
 | **Cultural** | "Civilising mission"; Kipling's "The White Man's Burden" (1899) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--01-empire-motives.webp" width="900" height="868" alt="Five icons show the motives for empire in the lesson: economic (raw materials, markets, investment), military (naval bases, coaling stations, sea routes), geopolitical (rivalry and prestige), religious (missions) and cultural (the civilising mission), each with the lesson’s example. It reminds the reader to link motives rather than list them." loading="lazy">
+  <figcaption>Five motives for imperialism, each with an example from the lesson.</figcaption>
+</figure>
+
 ## Three ways of ruling Africa
 
 | | France — Senegal | Britain — Nigeria | Belgium — Congo |
@@ -51,6 +56,16 @@ them. Full explanations are in the
 | System | **Assimilation**, **direct rule** | **Indirect rule** through emirs | **Private** colony, run for profit |
 | Key facts | Expanded inland; *tirailleurs sénégalais* (1857); Four Communes elected a deputy to Paris | Conquered Sokoto Caliphate by 1903; amalgamation 1914; *The Dual Mandate* (1922) | Congo Free State recognised 1885; rubber quotas; Force Publique brutality |
 | Impact on Africans | Citizenship for very few; French culture imposed | Traditional rulers kept but strengthened; failed where no chiefs existed | Forced labour, mutilation, millions of deaths; Casement report 1904; taken over by Belgium 1908 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--02-empire-three-systems.webp" width="900" height="993" alt="Three horizontal bands show chains of authority. France in Senegal: French officials rule Africans directly, with assimilation giving few people citizenship. Britain in Nigeria: a High Commissioner rules through emirs and their courts. Belgium in the Congo: King Leopold II and the Force Publique impose rubber quotas. The verbs replaced, used and exploited summarise each system." loading="lazy">
+  <figcaption>French rule replaced local authority, British rule used it, and Leopold’s regime exploited it for profit.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-world-history-0470-overseas-empires--02-impacts-compared.webp" width="900" height="621" alt="A grid comparing French Senegal, British Northern Nigeria and Leopold's Congo under political, economic, social and resistance headings, from direct rule and groundnut exports, through rule by emirs, to forced rubber collection and mass violence. The judgement: methods and intensity varied, but all took sovereignty." loading="lazy">
+  <figcaption>Different methods, same result: lost sovereignty and economies serving Europe.</figcaption>
+</figure>
 
 ## India, 1857–58
 
@@ -63,6 +78,16 @@ them. Full explanations are in the
   rule, Secretary of State and Viceroy; Queen's Proclamation promised
   religious non-interference and no more annexations; more British
   troops relative to Indian; last Mughal emperor exiled to Rangoon.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--04-empire-india-1857.webp" width="900" height="920" alt="Four causes feed into a three-step chain. Causes: the cartridge-grease rumour, annexations such as Awadh in 1856, fear of forced conversion and reforms, and grievances over pay. The chain: sepoys rebel at Meerut on 10 May 1857, proclaim Bahadur Shah II at Delhi, and the fighting spreads across northern India to Kanpur and Lucknow." loading="lazy">
+  <figcaption>From four causes to the rebellion at Meerut on 10 May 1857 and its spread.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--05-empire-india-crown.webp" width="900" height="920" alt="A before-and-after diagram. Before 1858 the East India Company ruled India. After the Government of India Act 1858 the chain of authority was the Crown, a Secretary of State in London, a Viceroy in India, then India. Three further changes: a proclamation promising religious toleration and no more annexations, more British troops in the army, and Bahadur Shah exiled to Rangoon ending the Mughal dynasty." loading="lazy">
+  <figcaption>India moved from Company rule to Crown rule in 1858.</figcaption>
+</figure>
 
 ## The USA and Spain's colonies
 
@@ -79,6 +104,16 @@ them. Full explanations are in the
 - **Cuba:** Teller Amendment (no annexation) but **Platt Amendment
   1901** (right to intervene, Guantánamo); occupation to 1902;
   intervention again in **1906**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--06-empire-1898-timeline.webp" width="900" height="1130" alt="A vertical timeline of twelve dated events from the 1895 Cuban war of independence through the sinking of the Maine, the 1898 war, the Treaty of Paris, the Philippine–American War and the Platt Amendment to US troops returning to Cuba in 1906. Wartime events are gold dots and the aftermath is teal." loading="lazy">
+  <figcaption>Key dates from the Cuban war of independence in 1895 to the return of US troops to Cuba in 1906.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-world-history-overseas-empires-nineteenth-century--07-empire-treaty-of-paris.webp" width="900" height="900" alt="Spain on the left, the USA on the right. Puerto Rico, Guam and the Philippines pass from Spain to the USA, which pays $20 million for the Philippines. Cuba is given up by Spain but not annexed. A three-step chain shows the Philippines: independence declared June 1898, the Philippine–American War 1899 to 1902, then American-controlled rule with schools, English and an assembly in 1907." loading="lazy">
+  <figcaption>The Treaty of Paris (December 1898) and what followed in the Philippines.</figcaption>
+</figure>
 
 ## Worked example: a "how far" answer on motives
 

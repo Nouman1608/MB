@@ -54,6 +54,11 @@ English-to-Urdu translation) and Paper 2 (Writing).
 | فائدہ / نقصان | advantage / disadvantage | |
 | موقع / مواقع | opportunity / opportunities | |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--01-post-16-routes.webp" width="900" height="770" alt="After the current exams a student can stay on at school, go to college (کالج) or take vocational training (پیشہ ورانہ تربیت), and later go to university (یونیورسٹی / جامعہ, اعلیٰ تعلیم). Practical words include داخلہ, درخواست دینا, فیس, وظیفہ, بیرونِ ملک and ہاسٹل." loading="lazy">
+  <figcaption>Name the route, then the practicalities; careers belong to Topic 4.</figcaption>
+</figure>
+
 ## Four ways to talk about the future
 
 | Meaning | Pattern | Example |
@@ -62,6 +67,11 @@ English-to-Urdu translation) and Paper 2 (Writing).
 | want, would like | ... کرنا چاہتا / چاہتی ہوں | میں اعلیٰ تعلیم حاصل کرنا چاہتا ہوں۔ (I want to go on to higher education.) |
 | intend | میرا ارادہ ہے کہ + subjunctive | میرا ارادہ ہے کہ میں سائنس پڑھوں۔ (I intend to study science.) |
 | undecided | میں سوچ رہا / رہی ہوں کہ ... | میں سوچ رہی ہوں کہ کون سا کالج بہتر ہے۔ (I am wondering which college is better.) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--02-five-structures.webp" width="900" height="870" alt="Five Urdu structures with examples and glosses: the future (جاؤں گا), intention with ارادہ ہے کہ and the subjunctive, a condition with اگر ... تو, weighing options with ایک طرف ... دوسری طرف, and reporting what parents want." loading="lazy">
+  <figcaption>Future, intention, condition, balance and others’ wishes carry this topic.</figcaption>
+</figure>
 
 ## Conditions
 
@@ -83,6 +93,11 @@ English-to-Urdu translation) and Paper 2 (Writing).
 2. Your reason (کیونکہ).
 3. Another option and why you did not choose it (فائدہ / نقصان).
 4. A condition (اگر ... تو ...).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--03-model-paragraph-anatomy.webp" width="900" height="690" alt="Five moves in the model answer, each with its Urdu: an intention with the subjunctive, a condition with اگر ... تو, another option in the past tense, a preference, and a balanced judgement with ایک طرف ... دوسری طرف." loading="lazy">
+  <figcaption>A persuasive post-16 answer compares routes, not just states a plan.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -157,6 +172,11 @@ which suits describing what a course offers.
 
 In reading, separate what someone wanted (چاہتا تھا) from what they actually chose, and look for
 تاکہ (so that) to find a purpose.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-education-post-16--04-translation-decisions.webp" width="900" height="750" alt="An English sentence about going to college and studying abroad is translated in three decisions: &quot;will go&quot; becomes جاؤں گا or جاؤں گی, &quot;would like to&quot; becomes چاہتا ہوں, and &quot;living there is expensive&quot; becomes وہاں رہنے کے اخراجات بہت زیادہ ہیں." loading="lazy">
+  <figcaption>Check the future ending, use چاہنا for &quot;would like&quot;, and translate the sense.</figcaption>
+</figure>
 
 ## Exam traps
 

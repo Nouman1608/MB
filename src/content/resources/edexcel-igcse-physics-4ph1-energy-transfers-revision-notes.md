@@ -42,6 +42,16 @@ Template for any "describe the energy transfers" question:
 Example: a falling apple, gravitational store → mechanically (gravity does work) → kinetic store; a little to the
 thermal store of the air through air resistance.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-energy-revision-notes--01-stores-vs-pathways.webp" width="900" height="896" alt="Eight energy stores are shown as boxes: kinetic, gravitational potential, elastic potential, chemical, thermal, nuclear, magnetic and electrostatic. Four pathways are shown as arrows: mechanically, electrically, by heating and by radiation. Heat and light are crossed out because they are ways energy is transferred, not stores." loading="lazy">
+  <figcaption>Energy sits in stores and moves along pathways; heat and light are pathways.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--01-store-pathway-store-examples.webp" width="900" height="740" alt="Six energy transfers written as chains. A torch: chemical store of the battery, electrically to the lamp, then by radiation and heating to the surroundings. A rising ball: kinetic to gravitational store. A kettle, a bow, braking and snapping magnets follow the same pattern." loading="lazy">
+  <figcaption>Name the store energy leaves, the pathway, and the store it ends up in.</figcaption>
+</figure>
+
 ## Conservation and efficiency
 
 - Energy is never created or destroyed: total energy output = total energy supplied.
@@ -54,12 +64,22 @@ useful = efficiency × total        total = useful / efficiency
 
 Efficiency is never above 100% (or 1) and has no unit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--02-efficiency-worked-examples.webp" width="900" height="670" alt="Two bars split into useful and wasted parts. A lamp: 80 J of 200 J is useful light, 40% efficient, 120 J wasted. A 35% efficient power station delivering 700 MJ has a total of 2000 MJ, so 1300 MJ is wasted." loading="lazy">
+  <figcaption>Useful and wasted parts always add up to the total.</figcaption>
+</figure>
+
 ## Sankey diagrams
 
 - Arrow width ∝ energy; one scale for the whole diagram.
 - Input enters on the left; useful output goes straight on; wasted outputs curve away.
 - Check: sum of output widths = input width.
 - To read: count squares across each arrow × scale.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--03-motor-sankey-to-scale.webp" width="900" height="740" alt="A Sankey diagram on squared paper with 1 square = 10 J. A 400 J input arrow, 40 squares wide, splits into a useful 260 J arrow to the kinetic store of the load (26 squares) and two wasted arrows bending down: 90 J heating (9 squares) and 50 J sound (5 squares)." loading="lazy">
+  <figcaption>Arrow widths are to scale and the outputs add up to the input: efficiency 65%.</figcaption>
+</figure>
 
 ## Thermal transfer
 
@@ -78,6 +98,16 @@ kettle element at the bottom; freezer compartment at the top of a fridge.
 - dark matt surfaces: best emitters and best absorbers;
 - light shiny surfaces: poorest emitters and absorbers (best reflectors).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--04-conduction-convection-radiation.webp" width="900" height="530" alt="Conduction: particles in a heated bar vibrate and pass energy along by collisions. Convection: warm fluid rises above a flame and cooler fluid sinks, making a loop. Radiation: a hot object sends infrared waves that can cross a vacuum." loading="lazy">
+  <figcaption>Conduction needs contact, convection needs a fluid, radiation needs neither.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--05-convection-room-and-sea-breeze.webp" width="900" height="610" alt="A room with a heater: warm air rises, crosses the ceiling, cools and sinks on the far side, and flows back along the floor. A sea breeze: air over the warmer land rises and cooler air from over the sea moves in, so the breeze blows from sea to land." loading="lazy">
+  <figcaption>Use the full density chain and say where the fluid rises and where it sinks.</figcaption>
+</figure>
+
 ## The practical (4.9)
 
 - **Conduction:** equal rods of different metals, wax-fixed pins at the far ends, heat the near ends equally; first
@@ -88,6 +118,11 @@ kettle element at the bottom; freezer compartment at the top of a fridge.
   from each face; or identical cans with different surfaces cooling.
 - **Control variables:** same size and shape, same starting temperature, same distance, same heating.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--06-thermal-energy-practicals.webp" width="900" height="635" alt="Three experiments. Conduction: metal rods heated at one end with pins fixed by wax; the pin falls first from the best conductor. Convection: a dye crystal heated in water traces a loop. Radiation: a hot-water cube emits most infrared from its matt black face and least from its shiny silver face." loading="lazy">
+  <figcaption>Change one thing at a time: the material, the heating position, or the surface.</figcaption>
+</figure>
+
 ## Reducing unwanted transfer
 
 | Feature | Method it reduces | Why |
@@ -97,6 +132,11 @@ kettle element at the bottom; freezer compartment at the top of a fridge.
 | Stopper | Convection (and conduction) | Stops warm air leaving; poor conductor |
 | Trapped air (lagging, clothing, fleece) | Conduction and convection | Air is a poor conductor and cannot circulate when trapped |
 | Plastic handle | Conduction | Plastic is a poor conductor |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-4ph1-energy-transfers--07-vacuum-flask.webp" width="900" height="725" alt="Cross-section of a vacuum flask with labels: a vacuum between double walls stops conduction and convection, silvered inner surfaces reflect infrared, a plastic or cork stopper is a poor conductor and stops convection, and insulating supports reduce conduction." loading="lazy">
+  <figcaption>Each feature of a vacuum flask tackles a different method of energy transfer.</figcaption>
+</figure>
 
 ## Key terms
 

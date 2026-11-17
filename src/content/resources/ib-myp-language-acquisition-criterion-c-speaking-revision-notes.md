@@ -49,6 +49,11 @@ Links: [IB MYP Language Acquisition hub](/boards/ib/ib-myp/myp-language-acquisit
 
 Not in the brief: preparation time, length of the task, stimulus format, named strands. Get these from your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--01-speaking-task-overview.webp" width="900" height="555" alt="Criteria A, B and D are assessed in the on-screen examination; criterion C, speaking, is a separate interactive examination worth 24 marks that responds to multimodal texts. The classroom teacher marks it against the MYP year 5 criteria, the IB moderates a sample from each school and grades are adjusted where needed." loading="lazy">
+  <figcaption>Speaking is a separate, teacher-marked, IB-moderated conversation worth 24 marks.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -78,6 +83,11 @@ Reminder: every point should point back to something visible or written in the s
 **Mini example (original, fictional):** an infographic shows a cartoon phone with a clock face and the words "3 hours a day?".
 See: "There's a phone drawn like a clock." Read: "It asks if we spend three hours a day on our phones." Think: "The clock suggests phones use up our time; the question mark makes you check your own habit." Relate: "I probably spend more at weekends, so it made me think."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--02-see-read-think-relate.webp" width="900" height="730" alt="Four steps applied to a Repair Café poster: see (a teenager and an older man fixing a bike wheel, smiling), read (the headline “Don’t bin it – fix it!” and the icons), think (repair rather than throw away; two generations learning from each other) and relate (things thrown away locally, with a counter-view). Steps 1 and 2 are safe ground; 3 and 4 show range and thinking." loading="lazy">
+  <figcaption>Describe, read, interpret, then relate it to your world with a view.</figcaption>
+</figure>
+
 ## Method: extending any answer
 
 ```
@@ -86,6 +96,11 @@ ANSWER -> REASON -> EXAMPLE -> CONSEQUENCE
 ```
 
 This chain brings in different tenses on its own: present for the answer, past for the example, future or conditional for the consequence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--03-extending-an-answer.webp" width="900" height="715" alt="Asked whether they would volunteer at a Repair Café, a flat answer is “Yes, I would.” The extended answer adds a reason, a past example (fixing a grandmother’s radio) and a conditional consequence (practising more and teaching younger children), using present, past and conditional forms." loading="lazy">
+  <figcaption>Answer, reason, example, consequence: one line becomes four.</figcaption>
+</figure>
 
 ## Method: the unexpected question
 
@@ -96,6 +111,11 @@ This chain brings in different tenses on its own: present for the answer, past f
 ```
 
 Never answer with a memorised block that does not fit the question.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--04-interaction-strategies.webp" width="900" height="755" alt="Six interaction strategies with English models: ask for repetition, check meaning, paraphrase a missing word, give a view and invite one, self-correct, and hold the turn. For an unexpected question: buy time, narrow it to something you can answer, and link back to vocabulary from the stimulus." loading="lazy">
+  <figcaption>Never switch to a memorised paragraph that does not answer the question.</figcaption>
+</figure>
 
 ## Worked reminder: a short exchange
 
@@ -114,6 +134,11 @@ What earns credit here: the answer links to the caption, gives a reason, uses th
 - ☐ I have rebuilt the phrase bank in my target language and can say every line without notes.
 - ☐ I have recorded myself on at least three different stimuli and reviewed each one.
 - ☐ I have practised with a partner asking questions I had not seen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--06-weekly-routine.webp" width="900" height="700" alt="A six-step weekly cycle for the last term: collect stimuli linked to the global contexts, a two-minute read listing words for the image and text, speak with a partner who asks follow-ups, record and review, do the 4-3-2 drill, and refresh the phrase bank in the target language." loading="lazy">
+  <figcaption>Train spontaneous speaking every week, not recitation.</figcaption>
+</figure>
 
 ## Interaction phrase bank
 
@@ -151,6 +176,11 @@ Build your own target-language version of each line and learn it as a chunk.
 - Aim for intelligibility, not a native accent.
 - Check sounds that change meaning, stress on long words, question intonation.
 - Drill: shadow a short native-speaker clip.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-criterion-c-speaking--05-fluency-drill.webp" width="900" height="635" alt="Three bars of 4, 3 and 2 minutes for the same stimulus, nine minutes in all, so the same ideas come out more smoothly each round. Tips: learn chunks, pause at phrase boundaries and use target-language fillers. For accuracy, open with a safe structure, then stretch to one more complex form." loading="lazy">
+  <figcaption>Say the same ideas in less time to make them flow.</figcaption>
+</figure>
 
 ## Must-know distinctions
 

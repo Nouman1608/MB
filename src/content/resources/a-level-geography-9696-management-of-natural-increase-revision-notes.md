@@ -92,6 +92,11 @@ China is the best-documented example of a strict anti-natalist policy and of its
 
 The syllabus requires a case study of **one country's population policy**: attempts to alter the natural increase rate and to manage its results. Prepare a country you can describe with checked facts: the policy aims, methods, dates, outcomes, and unintended consequences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-geography-core-human-geography--04-human-case-studies.webp" width="900" height="920" alt="A checklist of the five case studies the syllabus requires: a country's population policy (4.4), an international migration stream (5.4), a rural settlement or area (6.1), a shanty town in an LIC or MIC (6.4) and power or transport provision for a city (6.4). Each row has three ticks: a named place, real data and an evaluation. Below, three tiles for LIC, MIC and HIC remind students to spread examples across income groups." loading="lazy">
+  <figcaption>Prepare each case study with a named place, real data and a judgement of how well it worked, and spread examples across income groups.</figcaption>
+</figure>
+
 ## Exam traps
 
 - A fall in births may have many causes; do not credit the policy alone.

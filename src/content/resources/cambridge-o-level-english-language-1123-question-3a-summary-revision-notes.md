@@ -40,6 +40,11 @@ and a worked example with plan see the
 
 Command word: **Summarise** = "select and present the main points, without detail".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--01-two-halves.webp" width="900" height="732" alt="Text B of about 550 to 600 words is summarised in continuous writing of no more than 150 words, for 20 marks. “Select” is the reading half (R1 and R5, 10 marks): choose every relevant point and only those. “Present” is the writing half (W2 and W3, 10 marks): group and link the points in concise prose in your own words." loading="lazy">
+  <figcaption>Select earns the reading marks; present earns the writing marks.</figcaption>
+</figure>
+
 ## The two halves
 
 - **Reading**: every relevant point (R1, R5); nothing irrelevant.
@@ -55,6 +60,11 @@ A summary can lose marks on either half independently.
 4. **Write**: one sentence (or two) per group, own words, continuous prose.
 5. **Check**: count words; no point beyond 150 is credited.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--02-five-steps.webp" width="900" height="680" alt="The summary process in five steps: find the focus, select the points, group and order them, write in your own words as continuous prose, and check the 150-word limit. The first two steps serve the reading marks and the next two the writing marks." loading="lazy">
+  <figcaption>Points first, then groups, then prose, then the word count.</figcaption>
+</figure>
+
 ## Point or detail?
 
 | In the text | Keep as point? |
@@ -65,6 +75,11 @@ A summary can lose marks on either half independently.
 | A quotation from an expert | only the idea it expresses, if it answers the focus |
 | The writer's opinion | only if the focus asks for views |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--03-select-points.webp" width="900" height="662" alt="An anecdote about Maria, a nurse from Lisbon, saving on fuel is cut down to the point it illustrates: cycling saves money. A funnel shows every part of Text B that answers the focus being reduced by stripping examples, statistics and anecdotes and merging repeats, leaving eight to ten short notes." loading="lazy">
+  <figcaption>Keep the point, drop the illustration, and count each idea once.</figcaption>
+</figure>
+
 ## Own-words tools
 
 | Tool | Text | Summary |
@@ -73,6 +88,11 @@ A summary can lose marks on either half independently.
 | compress | people who live in the area and businesses there | local residents and businesses |
 | re-structure | three sentences on separate benefits | one sentence with a shared subject |
 | replace | cools the surrounding streets | lowers the temperature nearby |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--04-own-words.webp" width="900" height="646" alt="Three methods for own-words summary writing: generalise (buses, trains and trams become public transport), compress (people who live in the area and the businesses that operate there become local residents and businesses) and re-structure separate sentences into one with a shared subject. Technical terms may stay; bullets and headings are not continuous writing." loading="lazy">
+  <figcaption>Generalise, compress and re-structure, and keep it as continuous prose.</figcaption>
+</figure>
 
 ## Linking for structure (W2)
 
@@ -94,6 +114,11 @@ deliberate effect" asks for.
 | reasons why | the results |
 | what X did | what others did |
 | how something works | why people like it |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--07-two-part-focus.webp" width="900" height="594" alt="A two-part focus, such as the problems faced by volunteers and how they overcame them, is planned as two groups with points for each, written in separate sentences. Covering one aspect fully and the other in a single phrase misses reading marks." loading="lazy">
+  <figcaption>Plan a group for each part of the focus, and answer both in full.</figcaption>
+</figure>
 
 ## Mini example (original)
 
@@ -125,6 +150,11 @@ Focus: *benefits of community gardens*.
 - Plan for about 120–140 words, leaving a margin for the final check.
 - If over, cut linking padding first ("It is also the case that"), then any remaining detail; never
   cut a point to save a phrase.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-3a-summary--05-word-limit.webp" width="900" height="576" alt="A word-count bar with 150 words marked as a ceiling. A summary well under it has probably missed points; one approaching it has all the points without detail; one over it has spent words on detail, and points after the limit are not credited. Count roughly by lines while writing and exactly at the end." loading="lazy">
+  <figcaption>Aim to approach 150 words, never to pass it.</figcaption>
+</figure>
 
 ## Exam traps
 

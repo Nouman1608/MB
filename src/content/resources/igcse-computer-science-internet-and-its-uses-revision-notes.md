@@ -70,6 +70,11 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 5. The web server sends the page, written in HTML, back to the browser.
 6. The browser renders the HTML and displays the page.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--16-net-dns-steps.webp" width="900" height="1030" alt="A URL, www.lakeviewbooks.example/new, is split into a domain name and a path. Step 2: the browser sends the domain name to a DNS server. Step 3: the DNS server looks the name up. Step 4: it returns the IP address 203.0.113.25. Step 5: the browser sends a request for /new to the web server at that address and the web server sends the page back." loading="lazy">
+  <figcaption>The DNS turns the domain name into an IP address; the browser then asks the web server at that address for the page.</figcaption>
+</figure>
+
 ### Session or persistent cookie? (5.1.6)
 
 | | Session cookie | Persistent cookie |
@@ -78,11 +83,26 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 | When deleted | When the browser is closed | When it expires or the user deletes it |
 | Typical use | Holding items in an online shopping cart during one visit | Saving personal details, tracking user preferences, storing login details |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--17-net-cookies.webp" width="900" height="790" alt="A timeline with the browser open, closed, then open again. A session cookie is created while the browser is open and is deleted when the browser closes, so it is gone on the next visit. A persistent cookie stays on the device until it expires, so it is still there on the next visit." loading="lazy">
+  <figcaption>A session cookie is deleted when the browser closes; a persistent cookie stays on the device until it expires or is deleted.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--15-net-internet-web.webp" width="900" height="900" alt="A network of routers, servers and computers joined by cables is labelled the internet. Above it, three services run on it: the World Wide Web (web pages stored on web servers), email and file transfer." loading="lazy">
+  <figcaption>The internet is the infrastructure of cables, routers and servers; the World Wide Web, email and file transfer are services that run on it.</figcaption>
+</figure>
+
 ## 5.2 Digital currency and blockchain
 
 - A **digital currency** only exists electronically. It is used to pay for goods and services just like money, but there are no physical notes or coins.
 - **Blockchain** is, in its basic form, a digital ledger: a time-stamped series of records that cannot be altered.
 - Each new transaction forms a block. Each block holds a hash of the previous block, which links the blocks into a chain. Copies of the chain are held on many computers, so a change to one copy is spotted because the hashes no longer match.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--18-net-blockchain.webp" width="900" height="810" alt="Top: three linked blocks, each holding transactions, a timestamp, the hash of the previous block and its own hash; each block's previous-hash matches the hash of the block before it. Bottom: the transactions in block 2 are changed, so block 2's hash changes, and block 3 still holds the old hash, so the link between blocks 2 and 3 is broken. Tampering is easy to detect." loading="lazy">
+  <figcaption>Each block stores the previous block's hash, so changing one block changes its hash and breaks the link to every later block.</figcaption>
+</figure>
 
 ## 5.3 Cyber security threats
 
@@ -101,6 +121,21 @@ Learning outcomes from the Cambridge IGCSE Computer Science 0478 syllabus for 20
 | Phishing | A fake email or message with a link to a fake website | To trick the user into giving personal details |
 | Pharming | Malicious code redirects the user to a fake website, even when the correct URL is typed | To collect personal details |
 | Social engineering | Manipulating people, for example by pretending to be IT support | To get them to reveal confidential information or break security |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--19-net-brute-force.webp" width="900" height="940" alt="Three horizontal bars on a logarithmic scale of combinations. A 4-digit PIN has 10,000 combinations, 10 seconds worst case at 1,000 guesses a second. Six lowercase letters give 308,915,776 combinations, about 85.8 hours. Six characters from letters of both cases and digits give 56,800,235,584, about 184 times more than six lowercase letters." loading="lazy">
+  <figcaption>Longer passwords with more character types mean enormously more combinations, so a brute-force attack takes far longer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--20-net-phishing-pharming.webp" width="900" height="860" alt="Two three-step paths. Phishing: a fake email or message pretending to be from a trusted source, the user believes it, and personal data is handed over; protection is spam filters and checking the sender and links. Pharming: the user types the correct URL, malicious code redirects them, and they land on a fake website; protection is antivirus, checking for https and a trusted DNS." loading="lazy">
+  <figcaption>Phishing uses a fake message to trick the user; pharming redirects the user to a fake website even though the correct URL was typed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide--21-net-ddos.webp" width="900" height="1080" alt="Twelve computers all send requests at the same time to one server, which is overloaded. A genuine user also tries to reach the server but is blocked. Protections named in the lesson are a firewall, traffic filtering and proxy servers." loading="lazy">
+  <figcaption>In a DDoS attack many computers flood a server with requests so that real users cannot get through.</figcaption>
+</figure>
 
 ## 5.3 Security solutions
 

@@ -39,6 +39,11 @@ A rule is a **legal** rule when a **recognised state authority** made it, it **b
 
 **A norm can become law.** Smoking in enclosed workplaces went from bad manners to an offence under the Health Act 2006.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--01-legal-or-other-rule.webp" width="900" height="684" alt="Legal rules are made by a state authority, bind everyone, are enforced by the courts, change at an identifiable moment and are challenged through legal processes; other rules are made by groups, bind members, are enforced socially and change gradually. A golf club can expel a cheat, but only the state’s law can prosecute fraud. Smoking in enclosed workplaces moved from manners to an offence under the Health Act 2006." loading="lazy">
+  <figcaption>Importance or obedience does not make a rule legal; enforcement by the state does.</figcaption>
+</figure>
+
 ## Rules and principles
 
 - **Rule:** specific and mechanical (a 30 mph limit).
@@ -49,6 +54,11 @@ A rule is a **legal** rule when a **recognised state authority** made it, it **b
 
 - **Austin:** law is the sovereign's command backed by a sanction. Weakness: ignores power-conferring rules such as making a will.
 - **Hart, *The Concept of Law* (1961):** law is primary rules (conduct) plus secondary rules (recognition, change, adjudication). A school rule is not law because the rule of recognition does not recognise the school as a law-maker.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--02-austin-hart.webp" width="900" height="643" alt="A rule is specific, like a 30 mph limit; a principle is broad, like “no one may profit from their own wrong”, and guides judges when rules run out. Austin saw law as a sovereign’s command backed by a sanction. Hart saw a legal system as primary rules of conduct united with secondary rules of recognition, change and adjudication, so a school rule is not law." loading="lazy">
+  <figcaption>Hart’s rule of recognition explains why a school rule is not law.</figcaption>
+</figure>
 
 ## Criminal versus civil: the extra points
 
@@ -61,6 +71,11 @@ A rule is a **legal** rule when a **recognised state authority** made it, it **b
 | Aim | Protect society, punish | Protect private rights, remedy |
 
 **Same facts, two cases:** careless driving that injures a cyclist can lead to a prosecution and a negligence claim. Different standards of proof mean an acquittal does not prevent civil liability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--03-one-event-two-cases.webp" width="900" height="618" alt="A careless driver who injures a cyclist can face a criminal prosecution by the Crown Prosecution Service, with a verdict of guilty or not guilty and a sentence decided by the court, and a separate civil claim in negligence by the cyclist, who decides whether to sue and may settle, with an outcome of liable or not liable and damages. Because the standards of proof differ, the outcomes can differ." loading="lazy">
+  <figcaption>Same facts, two cases, different language and possibly different results.</figcaption>
+</figure>
 
 ## Sources of law
 
@@ -80,6 +95,11 @@ Tests for a valid local custom:
 | *Simpson v Wells* (1872) | Custom failed | Fair traced to fourteenth-century statute sessions, so not time immemorial |
 | *Wolstanton Ltd v Newcastle-under-Lyme Corporation* (1940) | Custom failed | Taking minerals without compensation was unreasonable |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--04-custom-tests.webp" width="900" height="430" alt="Four tests for a local custom: existence since time immemorial (1189); exercise peaceably, openly and as of right; reasonableness and certainty; and consistency with statute. Mercer v Denne succeeded (drying nets); Simpson v Wells failed on time immemorial; Wolstanton failed as unreasonable." loading="lazy">
+  <figcaption>A custom must pass all four tests, and most modern claims fail.</figcaption>
+</figure>
+
 ### Statute
 
 Acts of Parliament (and delegated legislation made under them). **Highest domestic source**; can abolish custom and reverse common law, e.g. the Law Reform (Year and a Day Rule) Act 1996.
@@ -89,6 +109,11 @@ Acts of Parliament (and delegated legislation made under them). **Highest domest
 Judge-made law through precedent. Murder is a common law offence; negligence grew from *Donoghue v Stevenson* (1932). Yields to statute.
 
 **Ranking:** statute > common law > custom.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-nature-of-law--05-sources-ranking.webp" width="900" height="657" alt="Statute, including delegated legislation within its powers, is highest because of parliamentary supremacy and overrides the common law, which is made by judges through precedent (murder; Donoghue v Stevenson). The common law overrides custom, which survives only locally if every test is met. Example: the Law Reform (Year and a Day Rule) Act 1996 abolished a common law rule." loading="lazy">
+  <figcaption>Statute beats common law; common law beats custom.</figcaption>
+</figure>
 
 ## Key terms
 

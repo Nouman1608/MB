@@ -41,6 +41,11 @@ details of your sources, an example of your note-making and a commentary on your
 The NEA is teacher assessed and moderated by the board. The qualification is linear, and the specification
 states that NEA marks can be carried forward for the lifetime of the specification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--14-nea-fit.webp" width="900" height="716" alt="Every candidate takes Paper 1. The remaining part is either Paper 2, a source-based written exam, or the non-exam assessment, an independent project worth 60 marks and 40 percent of the qualification, teacher assessed and moderated by the board." loading="lazy">
+  <figcaption>Paper 1 plus Paper 2 or the NEA.</figcaption>
+</figure>
+
 ## The three-stage process
 
 1. **Task set.** Before research, your centre sets a written task with a specified **purpose and
@@ -52,6 +57,11 @@ states that NEA marks can be carried forward for the lifetime of the specificati
 3. **Write and reflect.** Write the assignment (diagrams and illustrations are allowed where relevant),
    then complete the Candidate record form.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--18-nea-revise.webp" width="900" height="754" alt="A funnel of four layers in order: content and structure, paragraphs, sentences and vocabulary, then proofreading last. Reading aloud helps find awkward phrasing." loading="lazy">
+  <figcaption>The order of revision layers.</figcaption>
+</figure>
+
 ## What goes on the Candidate record form
 
 | Requirement | Detail |
@@ -62,6 +72,11 @@ states that NEA marks can be carried forward for the lifetime of the specificati
 | Commentary | Why you included or rejected information and ideas; how and why you organised your writing; presentational and stylistic features used to achieve your purpose |
 
 The form "is an important feature of the assignment and will be considered in the assessment".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-non-exam-assessment-study-guide--17-nea-sources.webp" width="900" height="830" alt="A source record lists author, title, date and where found. Each source is checked with four questions: who wrote it, why, when, and is it reliable. Notes in your own words are good; copying without acknowledgement is plagiarism and can lead to serious penalties including disqualification." loading="lazy">
+  <figcaption>Recording and checking sources.</figcaption>
+</figure>
 
 ## Assessment objectives assessed
 

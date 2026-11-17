@@ -44,6 +44,16 @@ featured: false
 
 **Case study**: the Genain quadruplets (Rosenthal, 1963): identical sisters all diagnosed, but differing in severity, so environment matters.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--01-cl-icd-schizophrenia.webp" width="900" height="1140" alt="The ICD-11 rule: at least 2 symptoms present most of the time for at least 1 month, with at least 1 from the core group (persistent delusions, persistent hallucinations, disorganised thinking, experiences of influence, passivity or control). Symptoms are positive (hallucinations, delusions) or negative (avolition, alogia, flat affect, social withdrawal)." loading="lazy">
+  <figcaption>The ICD-11 criteria and the positive and negative symptoms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-schizophrenia--01-types-of-delusion.webp" width="900" height="651" alt="Four cards: persecutory delusions (others intend harm, such as believing neighbours are poisoning the water), reference (neutral events have personal meaning, such as messages from a newsreader), grandeur (inflated importance or powers) and control (thoughts or actions controlled from outside). A delusion is a fixed false belief; a hallucination is hearing or seeing things, most often voices." loading="lazy">
+  <figcaption>Persecution, reference, grandeur and control: four kinds of fixed false belief.</figcaption>
+</figure>
+
 ## Key study: Freeman et al. (2003)
 
 | Element | Detail |
@@ -56,6 +66,11 @@ featured: false
 | Strength | Neutral, standardised scene, so persecutory thoughts are known to be unfounded |
 | Weakness | Small non-clinical sample; cannot generalise to diagnosed patients |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-schizophrenia--02-freeman-vr-study.webp" width="900" height="921" alt="Real-life suspicion cannot be checked because others might be hostile; VR characters behave neutrally, so persecutory interpretations come from the participant. Study card: 24 non-clinical participants spent time in a VR library; some had persecutory thoughts, linked to higher interpersonal sensitivity and anxiety. VR is a promising method, but the sample was small and non-clinical." loading="lazy">
+  <figcaption>In a neutral virtual library, persecutory thoughts must come from the person.</figcaption>
+</figure>
+
 ## 1.1.2 Explanations
 
 | Explanation | Claim | Support | Criticism |
@@ -65,6 +80,21 @@ featured: false
 | Cognitive (Frith) | Faulty self-monitoring: inner speech experienced as external | Explains voices and thoughts of control | Describes, does not explain the cause; could itself be biological |
 
 **Diathesis-stress**: vulnerability plus stressful triggers, combining nature and nurture.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--03-cl-twin-risk.webp" width="900" height="960" alt="Two grids of 100 people: about 1 filled in the general population, 48 filled for the identical twin of a person with schizophrenia. A bar shows 48 affected and 52 not. Concordance is not 100 percent, so environment matters too." loading="lazy">
+  <figcaption>Gottesman (1991): around 48% lifetime risk for an identical twin versus about 1% in the general population.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-schizophrenia--04-dopamine-and-diathesis-stress.webp" width="900" height="764" alt="The revised dopamine hypothesis: too much dopamine activity in subcortical pathways gives positive symptoms, too little in the prefrontal cortex gives negative symptoms. Diathesis-stress combines an inherited vulnerability with a stressful trigger, fitting twin concordance of about 48 percent. A scale places genetic and dopamine explanations as most reductionist, cognitive in the middle and diathesis-stress as most holistic." loading="lazy">
+  <figcaption>Diathesis-stress brings nature and nurture together, fitting the twin evidence.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-schizophrenia--03-frith-self-monitoring.webp" width="900" height="441" alt="Three steps: a person generates inner speech or a thought, self-monitoring fails so it is not recognised as their own, and it is experienced as an external voice or inserted thought. This explains hallucinations and delusions of control but does not explain what causes the fault." loading="lazy">
+  <figcaption>Unrecognised inner speech is experienced as voices from outside.</figcaption>
+</figure>
 
 ## 1.1.3 Treatments
 
@@ -76,6 +106,16 @@ featured: false
 | CBT | Test evidence for beliefs; reattribute voices; coping strategies | Needs engagement and insight |
 
 **Sensky et al. (2000)**: 90 patients with medication-resistant symptoms; CBT or befriending; both improved during treatment; only CBT kept improving at nine-month follow-up.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-psychology-clinical-psychology--02-cl-dopamine-hypothesis.webp" width="900" height="1140" alt="Three schematic panels of a synapse. Typical: 2 dopamine molecules fill 2 of 4 D2 receptors. Excess dopamine: all 4 receptors filled and 6 more molecules waiting, giving a signal that is too strong. Antipsychotic: drug blocks all 4 receptors so the signal is weaker." loading="lazy">
+  <figcaption>Excess dopamine at D2 receptors is linked to positive symptoms; antipsychotics block D2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-psychology-9990-schizophrenia--05-treatments.webp" width="900" height="741" alt="A table compares typical antipsychotics (block D2, movement side effects), atypical antipsychotics (serotonin and dopamine, fewer movement effects, blood tests for clozapine), ECT (last resort, memory loss) and CBT (tailored, lasting benefit). In Sensky et al., CBT and befriending groups both improved during treatment, but only the CBT group kept improving at the nine-month follow-up." loading="lazy">
+  <figcaption>Drugs control symptoms; CBT gave gains that continued after treatment ended.</figcaption>
+</figure>
 
 ## Key terms
 

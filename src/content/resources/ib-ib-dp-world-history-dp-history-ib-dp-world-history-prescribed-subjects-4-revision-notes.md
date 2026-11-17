@@ -51,6 +51,11 @@ Related: [Rights and protest study guide](/resources/ib-ib-dp-world-history-dp-h
 - **Freedom Summer (1964)**: voter registration in Mississippi; murders of three workers; the Mississippi Freedom Democratic Party challenged the official delegation.
 - **Selma (1965)**: "Bloody Sunday" (7 March); Voting Rights Act passed in August.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--02-us-protest-federal-response.webp" width="900" height="760" alt="Paired rows from 1954 to 1965, protest on the left and federal response on the right: Brown v. Board (1954); the Montgomery Bus Boycott and the Supreme Court ruling on buses; Little Rock and federal troops (1957); sit-ins and Freedom Rides; Birmingham and the March on Washington leading Kennedy to propose a bill (1963); Freedom Summer and the Civil Rights Act (1964); and Selma and the Voting Rights Act (1965)." loading="lazy">
+  <figcaption>Non-violent protest that provoked violent responses drew federal action.</figcaption>
+</figure>
+
 ## South Africa: the apartheid laws
 
 | Law | Year | Purpose |
@@ -64,6 +69,11 @@ Related: [Rights and protest study guide](/resources/ib-ib-dp-world-history-dp-h
 | Reservation of Separate Amenities Act | 1953 | Segregated public facilities |
 | Promotion of Bantu Self-Government Act | 1959 | Planned "self-governing" ethnic homelands |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--03-apartheid-structure.webp" width="900" height="614" alt="The Population Registration Act of 1950 classifies every person by race. Branches show the laws built on it: the Group Areas Act for where people lived, the mixed marriages and immorality laws for relationships, pass laws for movement and the Bantu Education Act for schooling. Below, petty apartheid segregated everyday facilities, and grand apartheid assigned Black Africans to homelands under the Acts of 1951 and 1959." loading="lazy">
+  <figcaption>Classification by race underpinned every other apartheid law.</figcaption>
+</figure>
+
 ## South Africa: the turn from non-violence
 
 1. **1949**: ANC adopts the Youth League's Programme of Action (boycotts, strikes, civil disobedience).
@@ -76,6 +86,16 @@ Related: [Rights and protest study guide](/resources/ib-ib-dp-world-history-dp-h
 8. **1962**: Mandela arrested.
 9. **1963-1964**: Rivonia raid and trial; life sentences.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--04-sa-protest-state-response.webp" width="900" height="788" alt="Paired rows from 1952 to 1964: the Defiance Campaign (1952), the Freedom Charter (1955), the Treason Trial (1956-61), the Alexandra bus boycott (1957), Sharpeville on 21 March 1960, where police shot 69 people and the ANC and PAC were banned, the start of MK sabotage in December 1961, and the Rivonia Trial of 1963-64, which sentenced Mandela and others to life." loading="lazy">
+  <figcaption>Each wave of protest met heavier repression, until legal protest was closed off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--05-anc-armed-struggle-plan.webp" width="900" height="769" alt="An answer plan: the thesis says the state closed every legal route. Four paragraphs follow: the failure of non-violence, Sharpeville and the bans (the turning point), competition from the PAC and pressure from members, and the limits shown by Luthuli and MK's focus on sabotage. The judgement: Sharpeville accelerated a debate already opened by the 1950s." loading="lazy">
+  <figcaption>Find the turning point, then show what had prepared the way for it.</figcaption>
+</figure>
+
 ## Comparison grid
 
 | Theme | United States | South Africa |
@@ -85,6 +105,11 @@ Related: [Rights and protest study guide](/resources/ib-ib-dp-world-history-dp-h
 | State response | Southern resistance; federal government eventually intervened | Bans, emergency powers, trials and imprisonment |
 | Outside opinion | Television and Cold War image mattered to Washington | Growing condemnation after Sharpeville, little immediate effect |
 | Outcome by end date | Major legislation in 1964 and 1965 | Leaders imprisoned; movement driven underground |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4--01-two-struggles-two-endings.webp" width="900" height="667" alt="Two bars on a shared time scale: South Africa from 1948 to 1964 with the 1950 Acts, the Defiance Campaign, the Freedom Charter and Sharpeville, and the United States from 1954 to 1965 with Brown, Montgomery, the sit-ins and Birmingham. Below, the endings: the Rivonia Trial of 1963-1964 imprisoned the South African leaders, while the US case closes with the Voting Rights Act of 1965." loading="lazy">
+  <figcaption>Judge &quot;success&quot; against each case study's own end date.</figcaption>
+</figure>
 
 ## Key terms
 

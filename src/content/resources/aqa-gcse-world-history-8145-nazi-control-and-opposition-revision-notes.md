@@ -31,6 +31,11 @@ featured: false
 
 **Persuasion** (propaganda, censorship, culture) kept most Germans loyal; **coercion** (SS, Gestapo, camps) silenced the rest; each strengthened the other.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--01-persuasion-and-coercion.webp" width="900" height="667" alt="Two circles, persuasion (propaganda, censorship, culture) and coercion (police state, camps, fear), joined by arrows: popularity made many Germans co-operate with the police, and fear made people reluctant to question the propaganda." loading="lazy">
+  <figcaption>Persuasion and terror reinforced each other, so weigh both.</figcaption>
+</figure>
+
 ## Timeline
 
 | Date | Event |
@@ -59,12 +64,22 @@ featured: false
 - **Sport:** the 1936 Olympics as a show of German strength and organisation.
 - **Censorship:** book burning; Reich Chamber of Culture decided who could work in the arts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--02-goebbels-propaganda.webp" width="900" height="526" alt="Goebbels at the centre of six methods: radio, the press, rallies, film, posters and symbols, and censorship through book burning and the Reich Chamber of Culture." loading="lazy">
+  <figcaption>Propaganda reached Germans through every medium; censorship removed the alternatives.</figcaption>
+</figure>
+
 ## Nazi culture
 
 - Art of heroic workers, soldiers and peasant families; modern art labelled "degenerate".
 - Jazz condemned as "un-German".
 - Monumental architecture (Speer).
 - Strength through Joy: organised leisure as part of the "people's community".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--03-nazi-culture.webp" width="900" height="591" alt="Table of Nazi culture. Promoted: heroic art, huge neoclassical architecture by Speer, and Strength through Joy leisure. Condemned: modern art, mocked in the 1937 Degenerate Art exhibition, and jazz." loading="lazy">
+  <figcaption>Culture was meant to bind Germans into one national community.</figcaption>
+</figure>
 
 ## The police state
 
@@ -77,6 +92,11 @@ featured: false
 | People's Court | Tried political crimes from 1934 |
 | Block wardens | Reported on households in their area |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--04-police-state.webp" width="900" height="685" alt="Organisation chart: Himmler at the top leads the SS, which ran the camps, and controls the Gestapo, which relied on informers and block wardens. Below, judges were brought under control and the People's Court tried political crimes." loading="lazy">
+  <figcaption>Few Gestapo officers, many informers: terror depended on ordinary Germans.</figcaption>
+</figure>
+
 ## Opposition and resistance
 
 | Group | Who | What they did | Fate |
@@ -87,9 +107,19 @@ featured: false
 | July 1944 plotters | Army officers and conservatives; Stauffenberg | Bomb at Hitler's East Prussian headquarters | Hitler survived; Stauffenberg shot; thousands arrested |
 | Churchmen | e.g. Pastor Niemöller (Confessing Church) | Opposed Nazi control of the Protestant church | Concentration camps from 1938 |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--05-range-of-opposition.webp" width="900" height="915" alt="A ladder of opposition from everyday dissent at the bottom, through the Swing Youth and Edelweiss Pirates, to the White Rose leaflet campaign and the July 1944 bomb plot at the top, with who took part and what happened to them." loading="lazy">
+  <figcaption>Most dissent was small-scale; the named groups range from youth nonconformity to assassination.</figcaption>
+</figure>
+
 ## Why opposition stayed small
 
 Terror and informers; popularity of jobs and foreign-policy gains; parties and unions banned in 1933; opponents divided; the army's oath of loyalty to Hitler (1934).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-nazi-control-and-opposition--06-why-opposition-limited.webp" width="900" height="481" alt="Five reasons around a central circle: terror, the regime's popularity, the army's 1934 loyalty oath, the banning of parties and trade unions in 1933, and division between opposition groups." loading="lazy">
+  <figcaption>Fear, popularity, banned organisations, division and oaths kept opposition small.</figcaption>
+</figure>
 
 ## Key terms
 

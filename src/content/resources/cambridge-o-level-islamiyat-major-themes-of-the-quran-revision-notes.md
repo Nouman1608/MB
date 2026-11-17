@@ -61,6 +61,11 @@ Oft-Forgiving, Most Merciful. *Why does it matter?* It balances awe with hope of
 neither begets nor is begotten; nothing is comparable to Him. *Why does it matter?* It is a complete
 statement of tawhid, recited often in salat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--01-three-theme-categories.webp" width="900" height="530" alt="Three columns stand on a base labelled tawhid. God in Himself covers His oneness, power, knowledge and mercy. God and the created world covers humanity's purpose, guidance for life and accountability in the akhirah. God's Messengers covers their role, the revelation they brought and their relationship with their communities." loading="lazy">
+  <figcaption>Every set passage fits one of three categories, all resting on tawhid.</figcaption>
+</figure>
+
 ## Group 2: Allah's relationship with the created world
 
 **Sura 1 (al-Fatiha)** — *What are its three movements?* Praise of Allah as Lord, Merciful and Master
@@ -83,6 +88,11 @@ does it matter?* Muslims take small deeds seriously.
 **Sura 114 (al-Nas)** — *Whom does the believer seek refuge with?* The Lord, King and God of mankind.
 *From what?* The whisperer who withdraws, among jinn and people. *Why does it matter?* It is a prayer
 for protection from temptation and evil suggestions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--03-guidance-and-accountability.webp" width="900" height="478" alt="Guidance on conduct such as honesty, charity and patience is linked to accountability: conduct will be judged and the afterlife gives choices their meaning. Using the pair lets an answer explain both what a passage teaches and why it matters." loading="lazy">
+  <figcaption>Qur'anic guidance is rarely given without its consequence in the hereafter.</figcaption>
+</figure>
 
 ## Group 3: Allah's Messengers
 
@@ -109,6 +119,11 @@ blessings. *Why does it matter?* Comfort in hard times and care for the vulnerab
 sacrifice. *What happens to the Prophet's enemy?* He is cut off. *Why does it matter?* Allah supports
 His Messenger; links to sacrifice at Eid al-Adha.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--04-messengers-as-a-chain.webp" width="900" height="532" alt="Prophets are shown as linked circles in a chain carrying one consistent message. Three cards give why messengers are sent: to deliver guidance, warn communities and model righteous conduct. A strong answer adds the wider lesson to the account of the prophet's mission." loading="lazy">
+  <figcaption>Narrate the mission, then draw out the wider lesson.</figcaption>
+</figure>
+
 ## Links between passages
 
 - **Tawhid:** 2.255, 6.101–103, 112, 6.75–79.
@@ -119,6 +134,11 @@ His Messenger; links to sacrifice at Eid al-Adha.
 - **Care for the Prophet (pbuh):** 93, 108.
 
 Using a linked passage in part (b) shows wider understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-themes-of-the-quran--05-categorising-a-passage.webp" width="900" height="662" alt="Four steps: read the whole passage; ask what it establishes about God, choosing between God in Himself, God and creation, or God's Messengers; note any secondary themes; and support the choice with a specific phrase from the passage." loading="lazy">
+  <figcaption>Read fully, categorise, note secondary themes, then quote the text.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

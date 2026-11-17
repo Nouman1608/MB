@@ -48,12 +48,27 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-progra
 | Needs translating? | No: executed directly | Yes: assembler | Yes: compiler or interpreter |
 | Typical use | What the processor runs | Embedded systems; controlling specific hardware | Most programs |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--01-levels-of-language.webp" width="900" height="664" alt="Three stacked levels: high-level languages such as Python, C# and Visual Basic; assembly language with mnemonics and a 1:1 match to machine code; and binary machine code from one processor’s instruction set. High-level code reaches machine code through a compiler or interpreter and assembly through an assembler, because the processor runs only machine code." loading="lazy">
+  <figcaption>Whatever the language, the processor only ever runs machine code.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--02-one-to-one-correspondence.webp" width="900" height="658" alt="The high-level statement total ← price + tax becomes three assembly instructions, LOAD price, ADD tax and STORE total, and each assembly line becomes exactly one machine code instruction shown as an illustrative bit pattern. Below, machine code and assembly language are compared: both are processor-specific, but assembly uses mnemonics and must be assembled." loading="lazy">
+  <figcaption>High-level to machine code is one-to-many; assembly to machine code is exactly 1:1.</figcaption>
+</figure>
+
 ## Why most programs are high-level
 
 - Easier to **write, read and understand**: faster development.
 - Easier to **debug and maintain**.
 - **Portable** across processors.
 - Built-in structures (loops, selection, arrays, strings) save writing many instructions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--03-portability.webp" width="900" height="690" alt="One high-level source program is translated separately for processor A and processor B. An assembly program written for processor A is assembled for A but will not run on processor B, which has a different instruction set, so it must be rewritten." loading="lazy">
+  <figcaption>High-level source can be translated for any processor; assembly must be rewritten for each instruction set.</figcaption>
+</figure>
 
 ## Low-level: advantages and disadvantages
 
@@ -62,6 +77,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-progra
 | Direct control of hardware | Hard and slow to write |
 | Can produce small, fast code | Hard to read, debug and maintain |
 | Suits embedded systems with limited resources | Not portable: tied to one instruction set |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--04-low-level-trade-offs.webp" width="900" height="670" alt="Advantages of low-level languages: direct control of the hardware, very efficient code and precise control of what runs. Disadvantages: harder and slower to write, harder to read, debug and maintain, and not portable. So assembly is used for embedded systems and controlling specific hardware, not for most software." loading="lazy">
+  <figcaption>Control and efficiency win for embedded systems and hardware; ease and portability win everywhere else.</figcaption>
+</figure>
 
 ## Translators
 
@@ -73,6 +93,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-progra
 | Executable produced | Yes | No | Yes (machine code) |
 | Translation repeated each run? | No | Yes | No |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--05-three-translators.webp" width="900" height="822" alt="A compiler translates a whole high-level program into an executable file that can be run again without translating. An interpreter takes each statement in turn and carries it out by calling machine code routines within its own code, generating no machine code and no executable. An assembler converts each assembly instruction into one machine code instruction." loading="lazy">
+  <figcaption>Only the interpreter does not generate machine code: it carries out each statement with its own routines.</figcaption>
+</figure>
+
 ## When to use which
 
 | Situation | Translator | Reason |
@@ -80,6 +105,11 @@ guide](/resources/oxfordaqa-igcse-computer-science-9210-classification-of-progra
 | Writing and testing a new program | Interpreter | Runs straight away; stops at the line with the error |
 | Selling or distributing a finished program | Compiler | Standalone executable; faster; source code not shared |
 | Code written in assembly for a hardware device | Assembler | Assembly must be converted to machine code |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators--06-choosing-a-translator.webp" width="900" height="538" alt="Three cards. Interpreter for development: run statements straight away, stop at the error and test changes immediately. Compiler for distribution: an executable that runs without the translator, usually faster, without giving away source code. Assembler whenever part of a program is in assembly language, such as a routine that controls hardware." loading="lazy">
+  <figcaption>Interpreter while developing, compiler for distribution, assembler for anything in assembly language.</figcaption>
+</figure>
 
 ## Model comparison sentences
 

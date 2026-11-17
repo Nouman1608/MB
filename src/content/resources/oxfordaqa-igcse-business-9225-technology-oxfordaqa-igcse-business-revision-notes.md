@@ -42,6 +42,11 @@ Condensed recall for section 3.2.1 Technology. For full explanations and worked 
 
 **"Changing" use:** ICT keeps developing, so businesses face repeated spending on equipment, software and staff training. Falling behind rivals can lose customers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--01-ict-across-the-business.webp" width="900" height="710" alt="Five business areas, each with how ICT changes it and the likely effect: operations (automatic reordering, fewer stock-outs), marketing (targeted online promotion), human resources (online adverts and home working, wider applicant pool), finance (faster payments) and customer service (help outside opening hours)." loading="lazy">
+  <figcaption>Name the activity that changes, then its effect on costs, revenue, customers or staff.</figcaption>
+</figure>
+
 ## E-commerce
 
 **Definition:** buying and selling goods and services online.
@@ -56,6 +61,16 @@ Condensed recall for section 3.2.1 Technology. For full explanations and worked 
 
 **Drawbacks:** website and payment system costs; packaging, delivery and returns; customers compare prices instantly; cyber attacks and data loss; some customers want to see or touch the product; longer delivery times abroad.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--03-b2c-and-b2b.webp" width="900" height="600" alt="Business to consumer: a business sells to households through a website, app or online marketplace. Business to business: a wholesaler sells to shop customers, who reorder through an online portal." loading="lazy">
+  <figcaption>E-commerce is either business to consumer or business to business.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--04-wider-markets.webp" width="900" height="710" alt="E-commerce removes the limits of location (anyone with a delivery address can buy) and time (orders 24 hours a day), and makes niche markets worth serving because a few buyers in each town add up. It also brings website and delivery costs, instant price comparison, system and data risks and slower delivery abroad." loading="lazy">
+  <figcaption>E-commerce removes limits of place and time, but adds costs and competition.</figcaption>
+</figure>
+
 ## Digital communication
 
 | Method | Best for | Watch out for |
@@ -67,9 +82,24 @@ Condensed recall for section 3.2.1 Technology. For full explanations and worked 
 
 **Internal stakeholders:** employees, managers, owners. **External stakeholders:** customers, suppliers, lenders, local community, government.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--05-choosing-digital-method.webp" width="900" height="779" alt="Five kinds of message matched to a digital method: the same information for many people by email or website, discussions by video conferencing, a written record by email, short urgent messages by messaging app or text, and public messages by website or social media." loading="lazy">
+  <figcaption>Choose the digital method that suits the message and the stakeholder.</figcaption>
+</figure>
+
 ## Judging whether new technology is worth it
 
 Weigh four things from the case: the **cost** of the equipment, software and training; the **saving or extra revenue** it brings; how quickly that benefit arrives; and whether the business's **customers and staff** will actually use it. A system that saves staff time is only valuable if that time is used productively, and an online shop only adds sales if customers want to buy that way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--02-keeping-up-with-ict.webp" width="900" height="520" alt="A line from too slow to too fast. A business that does not keep up with changing ICT may lose customers to rivals with faster ordering; one that adopts new ICT too quickly may pay for systems customers do not yet use." loading="lazy">
+  <figcaption>ICT needs steady investment: too slow loses customers, too fast wastes money.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business--06-corrigan-online-portal.webp" width="900" height="799" alt="Taking 1,200 orders by phone uses 240 staff hours a month at $15, costing $3,600. Online orders take 40 hours, $600, plus a $1,100 portal, $1,700 in total. Staff costs fall by $3,000 and the net saving is $1,900 a month." loading="lazy">
+  <figcaption>The portal saves Corrigan $1,900 a month, if customers switch to it.</figcaption>
+</figure>
 
 ## Key terms
 

@@ -53,6 +53,16 @@ Course links: [MYP Individuals and Societies hub](/boards/ib/ib-myp/myp-individu
 
 **Replacement level fertility** is about 2.1 children per woman. **Total fertility rate** is the average number of children per woman over her lifetime. **Life expectancy** is the average years a newborn can expect to live.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--01-population-system.webp" width="900" height="708" alt="Births and immigrants flow into a population as inputs; deaths and emigrants flow out as outputs. Population change equals births minus deaths plus immigrants minus emigrants." loading="lazy">
+  <figcaption>Two inputs and two outputs decide whether a population grows or shrinks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--02-norland-population-change.webp" width="900" height="863" alt="A waterfall chart for fictional Norland: 186,000 births add to the population, 74,400 deaths subtract, 52,000 immigrants add and 31,000 emigrants subtract, giving a change of +132,600. The natural increase rate is 0.9% but the total growth rate is 1.07%." loading="lazy">
+  <figcaption>Say which figure you mean: natural increase leaves out migration, total growth includes it.</figcaption>
+</figure>
+
 ## Method in steps: describing a population pyramid
 
 1. **Shape** -- wide base / column / narrow base. Link to birth and death rates.
@@ -63,6 +73,11 @@ Course links: [MYP Individuals and Societies hub](/boards/ib/ib-myp/myp-individu
 
 Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low births or losses around 1986–1990.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--04-pyramid-irregularities.webp" width="900" height="790" alt="A schematic pyramid with labelled irregularities: a short notch in both sexes from war, famine, epidemic or very low births; many more males than females in the working ages from labour migration, as in some Gulf states; and more women than men in the oldest bands." loading="lazy">
+  <figcaption>Notches, bulges and sex imbalances each point to a cause worth naming.</figcaption>
+</figure>
+
 ## Pyramid shapes
 
 | Shape | Birth and death rates | DTM stage |
@@ -71,6 +86,11 @@ Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low
 | Base narrowing, wider middle | Births falling, more surviving to middle age | 3 |
 | Straight sides, column-like | Both low; many older people | 4 |
 | Base narrower than the middle | Births below replacement; ageing | 5 |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--03-pyramid-shapes.webp" width="900" height="930" alt="Four schematic population pyramids. Stages 1 to 2: wide base and narrow top. Stage 3: the base starts to narrow and the middle widens. Stage 4: straight, column-like sides. Stage 5: the base is narrower than the middle, showing an ageing population." loading="lazy">
+  <figcaption>The width of the base against the middle and top tells you the stage.</figcaption>
+</figure>
 
 ## Method in steps: placing a country on the DTM
 
@@ -89,6 +109,11 @@ Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low
 
 **Limitations:** based on Europe; ignores migration; no timescale; ignores policy (for example China's one-child policy from 1980 to 2016) and disease.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--05-dtm-graph.webp" width="900" height="700" alt="A schematic graph of five stages. Birth and death rates are both high in stage 1; the death rate falls fast in stage 2; the birth rate falls in stage 3; both are low in stage 4; in stage 5 the birth rate drops below the death rate. Total population is low, grows rapidly in stages 2 and 3, levels off high in stage 4 and slowly falls in stage 5." loading="lazy">
+  <figcaption>The gap between birth and death rates drives growth; it opens in stage 2 and closes by stage 4.</figcaption>
+</figure>
+
 ## Migration terms
 
 - **Migration:** a change of usual home across a boundary for a significant time.
@@ -101,6 +126,11 @@ Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low
 - **Economic migrant:** moves mainly for work or income.
 - **Remittances:** money migrants send home. **Brain drain:** loss of skilled workers from the origin.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--07-migrant-terms.webp" width="900" height="572" alt="A table of four terms. A refugee has crossed a border fleeing a well-founded fear of persecution; an asylum seeker has asked for refugee protection but awaits a decision; an internally displaced person was forced from home but is still in their own country; an economic migrant moves mainly for work or income." loading="lazy">
+  <figcaption>Whether a border was crossed, and why, separates the four terms.</figcaption>
+</figure>
+
 ## Push, pull and Lee's model
 
 | | Push (from origin) | Pull (to destination) |
@@ -111,6 +141,11 @@ Small reminder: a notch at ages 30–34 in a pyramid drawn in 2020 points to low
 | Environmental | Drought, flooding, land degradation | Better climate, fertile land |
 
 **Lee (1966):** origin factors + destination factors + **intervening obstacles** (distance, cost, borders, language) + **personal factors** (age, skills, family).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-demographics-and-human-movements--06-lee-model.webp" width="900" height="688" alt="Origin and destination each hold positive, negative and neutral factors. Between them stand intervening obstacles such as distance, cost and border controls. Personal factors, including age, family ties, skills and attitude to risk, shape how each person responds." loading="lazy">
+  <figcaption>Push and pull are not enough: obstacles and personal factors decide who actually moves.</figcaption>
+</figure>
 
 ## Examples you can use
 

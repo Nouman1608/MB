@@ -49,6 +49,11 @@ To be awarded Pass, Merit or Distinction, a learner must:
 
 Competency basis: if these are not met, no grade above Not Classified can be awarded.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--01-general-criteria-gate.webp" width="900" height="669" alt="Two general criteria, being intelligible and generally using language appropriate to the formal setting, must both be met before any of Pass, Merit or Distinction can be awarded. AO9 assesses using spoken Standard English effectively in speeches and presentations." loading="lazy">
+  <figcaption>Intelligibility and generally appropriate language are needed for any grade.</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -72,6 +77,11 @@ Competency basis: if these are not met, no grade above Not Classified can be awa
 | Standard English and formality | "I'm shattered" is standard but informal; "they was" is non-standard however formally it is said. |
 | Standard English and "correct" English | Dialects have consistent grammar of their own; the skill is choosing what suits the setting. |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--02-grammar-vs-register.webp" width="900" height="620" alt="A grid with grammar (standard or non-standard) across and register (formal or informal) down. A formal presentation needs standard grammar and formal register. “I’m knackered” is standard but informal; “We was invited” is non-standard however formally it is delivered. Standard English can be spoken in any accent, and choosing the right variety is code-switching." loading="lazy">
+  <figcaption>A formal talk needs Standard English grammar and a formal register, in any accent.</figcaption>
+</figure>
+
 ## Non-standard to Standard: quick reference
 
 | Non-standard | Standard |
@@ -89,6 +99,11 @@ Competency basis: if these are not met, no grade above Not Classified can be awa
 | the woman what called | the woman who called |
 | innit | isn't it (or rephrase) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--03-non-standard-to-standard.webp" width="900" height="705" alt="A table of nine areas with non-standard examples and Standard English equivalents, for example “we was” to “we were”, “I was sat” to “I was sitting”, “them results” to “those results”, “the man what helped us” to “the man who helped us” and “innit” to “isn’t it”." loading="lazy">
+  <figcaption>In a formal presentation, use the Standard English form.</figcaption>
+</figure>
+
 ## Hypercorrection traps
 
 | Hypercorrect | Standard |
@@ -99,11 +114,21 @@ Competency basis: if these are not met, no grade above Not Classified can be awa
 
 Test: remove the other person. "He invited I" is clearly wrong, so "He invited my friend and me" is right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--04-hypercorrection.webp" width="900" height="659" alt="Three overcorrections and their Standard English forms: “between you and I” becomes “between you and me”, “send it to myself” becomes “send it to me”, and “whom is responsible?” becomes “who is responsible?”. A quick test removes the other person: “between… me” and “I went” sound natural." loading="lazy">
+  <figcaption>Overcorrecting to sound formal produces errors too.</figcaption>
+</figure>
+
 ## Acceptable in formal spoken Standard English
 
 - Contractions in moderation ("it's", "we'll").
 - Discourse markers that organise speech ("Right, let's begin").
 - Occasional self-correction.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-spoken-standard-english--05-still-speech.webp" width="900" height="564" alt="Acceptable in formal speech: contractions in moderation, discourse markers such as “Right, let’s begin”, and occasional self-correction. Undermining AO9: persistent non-standard grammar, heavy fillers such as “like” and “basically”, and slang. To keep control: rehearse aloud, know your habits, pause instead of filling, and slow down." loading="lazy">
+  <figcaption>Sound like a confident speaker, not a textbook.</figcaption>
+</figure>
 
 ## Undermines AO9
 

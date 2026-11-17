@@ -58,6 +58,11 @@ rebuild, so they may perceive a hazard as manageable; poorer people may have no 
 location and accept the risk. Religious or cultural beliefs can lead to fatalism; past experience of
 a hazard can raise awareness or, after a long quiet period, encourage complacency.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--02-hazard-perception.webp" width="900" height="539" alt="Hazard perception in the centre, shaped by economic determinants (income, insurance, the cost of moving) and cultural determinants (religious belief, community memory, trust in authorities). A note gives the example of a farmer on a fertile volcanic slope." loading="lazy">
+  <figcaption>Economic and cultural factors shape how people perceive, and so respond to, a hazard.</figcaption>
+</figure>
+
 ### Characteristic human responses
 
 | Response | Meaning |
@@ -72,6 +77,11 @@ a hazard can raise awareness or, after a long quiet period, encourage complacenc
 The choice of response depends on the hazard's **incidence, intensity, magnitude, distribution** and
 the community's **level of development**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--01-properties-steer-responses.webp" width="900" height="591" alt="Six human responses (fatalism, prediction, adjustment, mitigation, management, risk-sharing) above a table explaining how incidence, intensity, magnitude, distribution and level of development each steer which response is chosen." loading="lazy">
+  <figcaption>Link each response to a hazard property, not just a list.</figcaption>
+</figure>
+
 ### Reading the Park model
 
 The curve shows quality of life falling sharply at the event, then recovering through **relief**
@@ -79,6 +89,16 @@ The curve shows quality of life falling sharply at the event, then recovering th
 temporary housing, restoring services) and **reconstruction** (months to years). A steep, deep fall
 and slow recovery indicate high vulnerability; a quick return, possibly to a higher level than before
 because of improved building, indicates strong capacity to cope.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--03-park-model.webp" width="900" height="800" alt="An illustrative Park model curve of quality of life against time: a small pre-event dip, a steep fall at the hazard event, then relief, rehabilitation and reconstruction phases, ending above the pre-event level. Five numbered notes explain what the depth of the fall, length of relief, slope of recovery, end level and pre-event dip each show." loading="lazy">
+  <figcaption>Read the curve's depth, length, slope and end level, not just the phase names.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--04-management-cycle.webp" width="900" height="536" alt="A cycle of four stages, preparedness, response, recovery and mitigation, with arrows running round. Beside it, the Park model describes one community after one event while the cycle describes improvement between events; rebuilding with new building codes counts as mitigation for the next event." loading="lazy">
+  <figcaption>The cycle turns recovery into preparation for the next event.</figcaption>
+</figure>
 
 ## Tectonic hazards
 
@@ -119,6 +139,11 @@ seabed is suddenly displaced.
 
 Describe distributions using **spatial distribution, randomness, magnitude, frequency, regularity
 and predictability** -- the exact terms the specification uses.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--05-describing-hazard-patterns.webp" width="900" height="634" alt="Table describing volcanic, seismic and storm hazards by spatial distribution, magnitude scale, frequency and regularity, and predictability. Below, a chain from M4 to M8 shows each whole number of moment magnitude releases about 32 times more energy, so M8 is far more than twice M4." loading="lazy">
+  <figcaption>Describe each hazard by distribution, magnitude, frequency, regularity and predictability.</figcaption>
+</figure>
 
 ## Storm hazards
 
@@ -179,6 +204,11 @@ hazardous setting. Know impacts and human responses, with dates and figures you 
   animals; it led to a national Royal Commission on disaster arrangements.
 - **Multi-hazardous environment:** for example the Philippines (typhoons, earthquakes, volcanoes
   such as Pinatubo, landslides) or Japan.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-geography-9635-section-a-living-with-hazards--06-case-study-bank.webp" width="900" height="662" alt="Table of six recent hazard case studies with dates, deaths and key points: Soufrière Hills (from 1995), Christchurch (2011), Cyclone Nargis (2008), Hurricane Katrina (2005), the Camp Fire (2018) and the Tōhoku earthquake and tsunami (2011). Chips list the common headings for organising each." loading="lazy">
+  <figcaption>Use the same headings for every case study so they can be compared.</figcaption>
+</figure>
 
 ## Exam traps
 

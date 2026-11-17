@@ -31,6 +31,16 @@ featured: false
 
 **AQA GCSE HISTORY (8145) -- 3.2.1 SECTION A: PERIOD STUDIES** -- AA America, 1840-1895: Expansion and consolidation; AB Germany, 1890-1945: Democracy and dictatorship; AC Russia, 1894-1945: Tsardom and communism; AD America, 1920-1973: Opportunity and inequality. Each option has three parts, and all three are tested every series.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--02-ps-parts.webp" width="900" height="1172" alt="Four cards, one for each option. Each card names the option and its two linked developments, then shows its three parts in order, joined by arrows. America 1840 to 1895: expansion; conflict across America; consolidation. Germany 1890 to 1945: growth of democracy; the Depression; experiences under the Nazis. Russia 1894 to 1945: the end of Tsardom; Lenin’s new society; Stalin’s USSR. America 1920 to 1973: the Boom; the Bust and New Deal; post-war America." loading="lazy">
+  <figcaption>Every option has three parts, and all three are tested.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--01-ps-spans.webp" width="900" height="830" alt="A horizontal time axis from 1840 to 1960. Four bars show the options: AA America 1840 to 1895 (55 years, expansion and consolidation), AB Germany 1890 to 1945 (55 years, democracy and dictatorship), AC Russia 1894 to 1945 (51 years, Tsardom and communism) and AD America 1920 to 1973 (53 years, opportunity and inequality). Each covers about fifty years. A school chooses one option." loading="lazy">
+  <figcaption>The four options on one axis; your school picks one.</figcaption>
+</figure>
+
 ## Technique sheet: questions 1-6 (40 marks)
 
 | Q | Marks | Do this | Avoid this |
@@ -41,6 +51,16 @@ featured: false
 | 4 Describe | 4 | Two features, each with a developed detail | Explaining causes |
 | 5 In what ways | 8 | Two or more changes, each explained with evidence | Narrative with no "change" |
 | 6 Essay | 12 | Both bullets explained, then a reasoned judgement on which mattered more | One bullet only; a conclusion that just repeats |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--03-ps-marks.webp" width="900" height="894" alt="A bar chart of the six compulsory questions in Section A, 40 marks in total. Questions 1 to 3 test interpretations and carry 4, 4 and 8 marks, 16 in all. Questions 4 to 6 test your own knowledge and carry 4, 8 and 12 marks, 24 in all. A time bar shows about an hour for Section A, with roughly 20 minutes for the 12-mark question 6." loading="lazy">
+  <figcaption>Section A is 40 marks: 16 on interpretations and 24 on your own knowledge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--04-ps-interpretations.webp" width="900" height="760" alt="Two interpretation cards, A and B, sit side by side with a double arrow between them for question 1: compare how B differs from A. Above each card is its author, with an arrow down to the card for question 2: the author’s situation explains why the views differ. Below the cards a box labelled what you know about the events has an arrow up to each card for question 3: test each interpretation against your own knowledge. No knowledge of historians is needed." loading="lazy">
+  <figcaption>Questions 1 to 3 compare interpretations, explain differences and judge them.</figcaption>
+</figure>
 
 ## AA America, 1840-1895 -- key dates
 
@@ -88,6 +108,11 @@ featured: false
 
 **Big picture:** democracy grew, was weakened by war and crisis, and collapsed in the Depression; the Nazis ruled through popularity, propaganda and terror until defeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/gcse-history-period-studies-study-guide--06-ps-germany-dates.webp" width="900" height="936" alt="A vertical ladder of eight dates, each marked with the number of the part of the option it belongs to. Part 1, democracy: 1912 the SPD becomes the largest party in the Reichstag; November 1918 the monarchy ends; 1923 hyperinflation; 1924 to 1929 Stresemann’s recovery. Part 2, the Depression: unemployment after 1929 boosts the Nazis; January 1933 Hitler is appointed; 1934 the Night of the Long Knives. Part 3, experiences under the Nazis: the July 1944 bomb plot." loading="lazy">
+  <figcaption>Key dates in order, tagged by part: democracy, the Depression, under the Nazis.</figcaption>
+</figure>
+
 ## AC Russia, 1894-1945 -- key dates
 
 | Date | Event |
@@ -108,6 +133,11 @@ featured: false
 | 1945 | Red Army reaches Berlin |
 
 **Big picture:** Tsardom collapsed under war and its own failures; Lenin built a one-party state; Stalin transformed and terrorised the USSR and led it to victory in 1945.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-stalins-modernisation--03-collectivisation-timeline.webp" width="900" height="693" alt="Vertical timeline of collectivisation: the 1929 campaign and call to liquidate the kulaks, peasant resistance that halved livestock, &quot;Dizzy with Success&quot; in March 1930, the August 1932 law, the famine of 1932-33, internal passports, and near-total collectivisation by the end of the 1930s." loading="lazy">
+  <figcaption>Collectivisation was completed at the cost of famine and millions of deaths.</figcaption>
+</figure>
 
 ## AD America, 1920-1973 -- key dates
 
@@ -132,11 +162,21 @@ featured: false
 
 **Big picture:** opportunity (boom, post-war prosperity, civil rights gains) always coexisted with inequality (poverty, racism, gender discrimination).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-civil-rights-campaigns--03-peaceful-protest-timeline.webp" width="900" height="783" alt="Vertical timeline: Montgomery Bus Boycott 1955-56, SCLC 1957, Greensboro sit-in 1960 and SNCC, Freedom Rides 1961, Birmingham 1963, March on Washington August 1963, and Selma 1965 leading to the Voting Rights Act." loading="lazy">
+  <figcaption>Each campaign built pressure on the federal government for new laws.</figcaption>
+</figure>
+
 ## Worked example: question 2
 
 *Explain why the authors of Interpretations A and B might have different views about the Stresemann era.* **[4]**
 
 Strong answer pattern: "Interpretation A was written by **a German banker in 1928**, when US loans were still flowing, so he stresses recovery. Interpretation B is by **a farmer writing in 1932**, after the Depression, who had never shared the prosperity, so he stresses its weakness." (Both authors here are invented examples.) Use the ascription -- that is where the marks are.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-world-history-8145-interpretation-questions--03-question-2-reasons.webp" width="900" height="601" alt="Four reasons authors differ: experience, hindsight, purpose and audience, and focus. Below, weak answers that just say &quot;biased&quot; are contrasted with strong answers that connect provenance to the particular difference." loading="lazy">
+  <figcaption>Explain the difference through each author's experience, date, purpose and audience.</figcaption>
+</figure>
 
 ## Common mistakes and exam traps
 

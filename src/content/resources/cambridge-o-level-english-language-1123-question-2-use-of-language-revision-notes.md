@@ -47,11 +47,21 @@ Question 2 credits **effect**. Meaning alone is a Question 1 answer.
 In a two-mark answer, give the meaning in a few words and spend the rest of the answer on the effect:
 the second mark usually depends on what the choice suggests in this context.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--01-meaning-and-effect.webp" width="900" height="676" alt="“The streets were choked with traffic” read in two layers. Its meaning is that the streets were very crowded; its effect is that “choked” makes the city seem to struggle to breathe, as if strangled, so the reader senses discomfort and something close to danger. Meaning alone answers Question 1; Question 2 rewards effect." loading="lazy">
+  <figcaption>Question 2 rewards the second layer: what the word choice makes the reader see or feel.</figcaption>
+</figure>
+
 ## Connotation
 
 Denotation = dictionary meaning. Connotation = associations. Ask: *what would be lost if a plainer
 word were used?*
 *walked / drifted / stormed*: same action, different person and mood.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--02-connotation.webp" width="900" height="744" alt="House and home can denote the same building, but home carries warmth, belonging and family. “She walked”, “drifted” and “stormed” into the room describe the same action, yet each verb gives a different character and mood." loading="lazy">
+  <figcaption>Effects come from what a word brings with it beyond its dictionary meaning.</figcaption>
+</figure>
 
 ## Feature toolkit
 
@@ -69,10 +79,20 @@ word were used?*
 | repetition | what is stressed? |
 | contrast | what does the gap reveal? |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--05-sentence-structure.webp" width="900" height="708" alt="Four sentence shapes and their typical effects: a very short sentence after long ones gives a sudden stop, shock or emphasis; a long list sentence suggests abundance, chaos or breathlessness; repetition at the start of clauses gives insistence and rhythm; a question suggests doubt or a character’s inner voice." loading="lazy">
+  <figcaption>Sentence form is language too; explain what its shape does here.</figcaption>
+</figure>
+
 ## The three-step answer
 
 **Quote** (short) → **explain** (meaning or image) → **effect in context** (character, place,
 situation, reader).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--03-three-step-answer.webp" width="900" height="656" alt="Three steps beside the worked answer on “sagged”: quote precisely, explain the meaning or image (bodies collapsing under their own weight) and explain the effect in context (the people have lost all their energy, which shows how long they have waited)." loading="lazy">
+  <figcaption>Quote, explain the image, then say what it does in this moment of the text.</figcaption>
+</figure>
 
 ## Effect verbs
 
@@ -88,6 +108,11 @@ reveals · hints at · reinforces
 
 Replace with the **specific** image or feeling.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--06-empty-effects.webp" width="900" height="494" alt="Four stock phrases, such as “it makes the reader want to read on” and “it creates a vivid image”, are crossed out because they fit any text. The replacement names the specific picture: the reader pictures people collapsing like emptied sacks." loading="lazy">
+  <figcaption>If a sentence about effect could fit any text, replace it with the picture this text creates.</figcaption>
+</figure>
+
 ## Answer shapes by tariff (working rule)
 
 | Marks | Shape |
@@ -95,6 +120,11 @@ Replace with the **specific** image or feeling.
 | 1 | identify the word or phrase precisely |
 | 2 | word or phrase + its effect, or meaning + effect |
 | 3 | three distinct choices with effects, or one choice developed in three clear steps |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-english-language-1123-question-2-use-of-language--04-three-marks-three-choices.webp" width="900" height="730" alt="For a three-mark question on the station extract, each of the last three sentences gives one choice: the simile “like a hand” makes the heat physical and heavy, the broken rhythm of the baby’s wail mirrors endless noise, and “swallowed” shows information lost and travellers helpless. Each feature with its effect earns one mark." loading="lazy">
+  <figcaption>In a three-mark question, choose three different features, each with its own effect.</figcaption>
+</figure>
 
 ## Weak to strong
 

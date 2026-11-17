@@ -32,6 +32,11 @@ Tropical cyclones = **storms, hurricanes and typhoons**. Same system, different 
 - Typhoon: north-west Pacific.
 - Cyclone: Indian Ocean, South Pacific.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--01-latitude-and-names.webp" width="900" height="800" alt="A schematic latitude band, not a map. Tropical cyclones form between 5° and 30° north and south of the Equator; closer than 5° the air does not spin and beyond about 30° the sea is usually too cool. The same storm is called a hurricane over the North Atlantic and north-east Pacific, a typhoon over the north-west Pacific and a cyclone over the Indian Ocean and South Pacific." loading="lazy">
+  <figcaption>Between 5° and 30° of the Equator; hurricane, typhoon and cyclone are the same storm.</figcaption>
+</figure>
+
 ## The three numbers to learn (6.2.1 b to d)
 
 | Condition | Value | Reason |
@@ -42,6 +47,11 @@ Tropical cyclones = **storms, hurricanes and typhoons**. Same system, different 
 
 Memory line: **"5 to 30, 27, 60."**
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--02-three-conditions.webp" width="900" height="705" alt="Three cards give the syllabus values: latitude between 5° and 30° north or south, ocean temperature at least 27 °C and a warm layer at least 60 m deep. A cross-section shows a warm surface layer at least 60 m deep over cooler water below." loading="lazy">
+  <figcaption>Learn the numbers: 5° to 30°, at least 27 °C, at least 60 m.</figcaption>
+</figure>
+
 ## Life of a cyclone in five steps
 
 1. Warm, moist air rises from a sea at 27 °C or more, leaving low pressure at the surface.
@@ -50,11 +60,21 @@ Memory line: **"5 to 30, 27, 60."**
 4. An eye forms, surrounded by the eye wall with the strongest winds and rain.
 5. Over land or cooler water the energy supply is cut, and friction slows the winds, so it weakens.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--03-growth-and-decay.webp" width="900" height="815" alt="A schematic cross-section over warm sea. Warm, moist air rises, creating very low pressure; it cools and condenses into towering clouds, releasing heat that drives faster rising; more air is drawn in and spirals because of Earth’s rotation, around a calm, clear eye. Over land the storm loses its supply of warm, moist air and friction slows it." loading="lazy">
+  <figcaption>Warm sea feeds rising, condensing air; over land the supply is cut and the storm weakens.</figcaption>
+</figure>
+
 ## Three physical causes of damage
 
 - **Strong winds**: roofs, power lines, trees, flying debris.
 - **Heavy rainfall**: river flooding and landslides inland.
 - **Storm surge**: sea level pushed up by wind and low pressure, flooding low coasts with sea water.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-natural-hazards-study-guide--18-h-storm-surge.webp" width="900" height="700" alt="A cross-section from sea to low coast. Strong wind and low pressure raise the sea surface above normal sea level, and this storm surge flows onto the low coast and floods it. The lesson says this is often the cause of the greatest loss of life." loading="lazy">
+  <figcaption>A storm surge is a rise in sea level driven by wind and low pressure.</figcaption>
+</figure>
 
 ## The ten impacts (6.2.2)
 
@@ -65,6 +85,11 @@ Chains worth writing out in full:
 - Flooding → sewage and sea water in wells → contaminated drinking water → cholera and diarrhoea.
 - Heavy rain on steep, cleared slopes → saturated soil → landslides → blocked roads, delayed rescue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--04-three-processes-ten-impacts.webp" width="900" height="780" alt="Strong winds, heavy rainfall and storm surge drive the ten syllabus impacts: damage to buildings and infrastructure, loss of crops, livestock and habitats, evacuation, flooding, landslides, contaminated drinking water, water-related disease, financial losses and human health. An example chain: storm surge floods farmland, leaves salt in the soil, crops fail for more than one season, causing food shortages and lost income." loading="lazy">
+  <figcaption>Link every impact to wind, rain or storm surge, then follow the chain to people.</figcaption>
+</figure>
+
 ## The seven strategies (6.2.3) by stage
 
 | Before | During | After |
@@ -74,6 +99,11 @@ Chains worth writing out in full:
 | Disaster preparation (plans, drills, emergency supplies, rescue teams) | | |
 
 Not on the cyclone list: land use zoning (it is on the earthquake and flood lists).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--05-before-during-after.webp" width="900" height="715" alt="Before the cyclone: monitoring and warning, stronger building structure and disaster preparation. During: evacuation and shelters, such as Bangladesh’s raised cyclone shelters. After: rebuilding to stronger standards and international aid. The strategies depend on each other, and land use zoning is not one of the cyclone strategies." loading="lazy">
+  <figcaption>Prepare before, protect people during, rebuild and receive aid after.</figcaption>
+</figure>
 
 ## Benefit and limitation pairs (6.2.4)
 
@@ -88,6 +118,11 @@ Not on the cyclone list: land use zoning (it is on the earthquake and flood list
 ## Applying the conditions to data
 
 When a question gives a table of ocean locations, check each against all three conditions in turn and name the one it fails. A location at 3° N with a sea at 29 °C still fails, because it is too close to the Equator. A location at 20° S with a sea at 28 °C but only 45 m of warm water also fails, on depth. Only a location that passes all three can form a cyclone.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-environmental-management-0680-tropical-cyclones--06-which-location.webp" width="900" height="595" alt="A checklist grid for four invented ocean locations. A at 2° N fails latitude. B at 15° S, 28 °C and 90 m meets all three conditions. C fails with sea at 25 °C. D fails because its warm layer is only 40 m deep." loading="lazy">
+  <figcaption>Only location B meets all three conditions; name the condition each other one fails.</figcaption>
+</figure>
 
 ## Key terms
 

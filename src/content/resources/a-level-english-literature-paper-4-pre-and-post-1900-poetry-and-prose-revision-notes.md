@@ -53,6 +53,11 @@ the evaluation of other opinions and interpretations. For the full method, use t
 
 **Timing:** the sections carry equal marks, so give each essay about one hour, including a short plan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--08-paper4-structure.webp" width="900" height="735" alt="Four paper boxes show Papers 1 and 2 as AS and Papers 3 and 4 as the full A Level, with Paper 4 worth 25 percent. Below, one text is chosen from each section: pre-1900 poetry with post-1900 prose, or pre-1900 prose with post-1900 poetry." loading="lazy">
+  <figcaption>Paper 4 sits in the A Level and pairs one poetry text with one prose text.</figcaption>
+</figure>
+
 ## Which routes include Paper 4?
 
 Paper 4 belongs only to the A Level routes. On the staged route you take Papers 1 and 2 for AS Level
@@ -70,6 +75,11 @@ and one prose text**. Poetry texts carry an asterisk in the set-text list.
 | Prose (e.g. *Middlemarch*) | Poetry (e.g. Glück's *The Wild Iris*) |
 
 Two prose essays, or two poetry essays, break the rubric.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--02-form-rule-and-texts.webp" width="900" height="756" alt="The 2026 Section A texts sorted by form. Prose: Austen’s Pride and Prejudice, Eliot’s Middlemarch and Hardy’s Jude the Obscure, so Section B must then be poetry. Poetry: Chaucer’s The Wife of Bath’s Prologue and Tale, Shakespeare’s Selected Sonnets and Whitman’s Leaves of Grass, so Section B must then be prose. For 2027, Mansfield Park replaces Pride and Prejudice and Byron replaces Whitman." loading="lazy">
+  <figcaption>Your pre-1900 choice fixes the form of your post-1900 text.</figcaption>
+</figure>
 
 ## Set texts for examination in 2026
 
@@ -118,6 +128,11 @@ AO5 is the A Level addition. It does not require you to memorise critics' names;
 **weigh** alternative readings, which can come from critics, from different critical approaches, or
 from different readers and audiences, and to say which you find more convincing and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--09-paper4-weights.webp" width="900" height="807" alt="Five equal segments show AO1 to AO5 at 20 percent each, with AO5 about discussing and evaluating other readings. Four qualities examiners look for are listed below." loading="lazy">
+  <figcaption>Each of AO1 to AO5 carries 20 percent of Paper 4.</figcaption>
+</figure>
+
 ## (a) or (b)? Choosing your question
 
 | | (a) Essay question | (b) Passage or poem question |
@@ -129,6 +144,11 @@ from different readers and audiences, and to say which you find more convincing 
 
 Read both before deciding; the syllabus lets you choose freely.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--14-passage-vs-essay.webp" width="900" height="1081" alt="Two numbered routes: a passage-based answer (claim, purposeful order, short quotations, link to the wider text) and an essay (key words, thesis, three or four moments, other interpretations)." loading="lazy">
+  <figcaption>Plan a passage question and an essay differently.</figcaption>
+</figure>
+
 ## Pre-1900 versus post-1900: what to expect
 
 - **Pre-1900 texts** often reward attention to period conventions: Chaucer's frame narrative and estates
@@ -139,11 +159,26 @@ Read both before deciding; the syllabus lets you choose freely.
   the sequence structure of *The Wild Iris* and *Native Guard*.
 - In both, context is useful only where it helps explain a writer's choice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide--10-pre-post-1900.webp" width="900" height="1063" alt="Two panels compare pre-1900 and post-1900 form, voice and contexts. A note says to link context to a choice the writer made." loading="lazy">
+  <figcaption>The skills are shared; the conventions and contexts differ.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--03-convention-not-fault.webp" width="900" height="603" alt="A digression, a moralising narrator, a strict rhyme scheme or an archaic word can look like a fault to a modern reader, but each is usually a deliberate choice within the conventions of its time. Strong answers recognise the convention, then analyse how the writer uses or bends it, rather than criticising it." loading="lazy">
+  <figcaption>Recognise the convention first, then analyse how the writer uses or bends it.</figcaption>
+</figure>
+
 ## How to build an AO5 sentence
 
 1. State a reading: "One reading sees Dorothea's marriage to Casaubon as the novel's central tragedy."
 2. Test it against the text: "Yet the Finale claims that 'the growing good of the world is partly dependent on unhistoric acts'."
 3. Judge: "This makes the stronger case that Eliot values unhistoric influence over visible success."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--07-ao5-critical-history.webp" width="900" height="673" alt="Three critical debates: is the Wife of Bath a satire of a talkative woman or a voice challenging male authorities; is the marriage plot conservative or ironic about economic pressures; does a tragic narrator blame individuals, society or fate? Below, the model paragraph’s method: set out two readings, test them against the poem’s method, and reach a qualified judgement." loading="lazy">
+  <figcaption>Weigh competing readings against the text’s method, then judge.</figcaption>
+</figure>
 
 ## Worked example: a (b) opening on a sonnet
 
@@ -156,6 +191,11 @@ The final couplet then turns from the speaker to the listener, and from decay to
 the turn consoling and those who find it a demand for pity are both responding to that structural
 shift." This addresses AO2 (structure), AO3 (argument), AO1 (wider text implied) and AO5 (two
 readings) in three sentences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose--05-shakespearean-sonnet.webp" width="900" height="720" alt="A Shakespearean sonnet drawn as three four-line quatrains and a closing two-line couplet. Questions beside each part ask whether each quatrain develops or contradicts the last, where the turn falls and whether the couplet resolves or undercuts the poem. Below, a row of sonnets with an arrow from a later poem back to an earlier one." loading="lazy">
+  <figcaption>Track the argument quatrain by quatrain, find the turn and test the couplet.</figcaption>
+</figure>
 
 ## Common mistakes / exam traps
 

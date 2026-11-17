@@ -33,6 +33,11 @@ Condensed notes for key question **4.2 What is the role of the family for the in
 | Marxism | The capitalist ruling class | Inheritance, consumption, ideological control, unpaid labour |
 | Feminism | Men (patriarchy) | Unequal domestic labour, decision-making, violence, gendered socialisation |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--01-who-benefits.webp" width="900" height="408" alt="Three answers to who benefits from the family: functionalists say everyone, through stability, socialisation and the warm bath; Marxists say the capitalist class, through inheritance, consumption and ideological control; feminists say men, through unequal labour, decision-making and violence." loading="lazy">
+  <figcaption>Keep one question in mind: who benefits?</figcaption>
+</figure>
+
 ## Key terms
 
 | Term | Meaning |
@@ -61,6 +66,16 @@ Condensed notes for key question **4.2 What is the role of the family for the in
 - **Nuclear family fits industry**: small and geographically mobile; status achieved, not inherited.
 - **Limitations**: rosy picture; ignores abuse and conflict; ignores diversity; assumes a male breadwinner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--02-functions-of-the-family.webp" width="900" height="603" alt="Murdock’s four functions: sexual, reproductive, economic and educational. Parsons’ two irreducible functions: primary socialisation and the stabilisation of adult personalities, the warm bath in which a stressed worker relaxes so tension does not disrupt society." loading="lazy">
+  <figcaption>Murdock lists four functions; Parsons reduces them to two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--03-loss-of-functions.webp" width="900" height="583" alt="With industrialisation, factories took over production, schools took over formal education and the state took over health care and welfare. Parsons says the family became more specialised, not less important; Fletcher says its functions have grown." loading="lazy">
+  <figcaption>Specialised, not unimportant: the family changed its job.</figcaption>
+</figure>
+
 ## Marxism (4.2.2)
 
 - **Engels (1884)**: monogamy arose so men could pass property to legitimate heirs.
@@ -69,6 +84,11 @@ Condensed notes for key question **4.2 What is the role of the family for the in
 - **Ideological control**: children learn obedience to authority; Zaretsky: the family is a refuge that makes capitalist work bearable.
 - **Exploitation**: women's unpaid labour reproduces the workforce free for employers.
 - **Limitations**: ignores love and choice; ignores diversity; class-focused, so neglects gender.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--04-marxist-family.webp" width="900" height="630" alt="Six ways the family serves capitalism around a centre: reproducing class through inheritance (Engels), acting as a unit of consumption, ideological control, a refuge from alienation (Zaretsky), exploiting women’s unpaid labour and absorbing workers’ frustration. Below, a strength and limitations." loading="lazy">
+  <figcaption>For Marxists, the family keeps capitalism running and unchallenged.</figcaption>
+</figure>
 
 ## Feminism (4.2.3)
 
@@ -79,6 +99,16 @@ Condensed notes for key question **4.2 What is the role of the family for the in
 - **Domestic violence and abuse**: Dobash and Dobash (1979) linked violence to men asserting authority.
 - **Gendered socialisation**: manipulation and canalisation (Oakley).
 - **Limitations**: may overgeneralise about women; overlooks genuinely equal couples and women's growing choices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--05-feminist-domestic-labour.webp" width="900" height="643" alt="Bars show the dual burden (paid work plus most of the housework) and the triple shift (adding emotion work). Bott’s segregated and joint conjugal roles follow, with evidence from Oakley on housework, Edgell on decision-making and Dobash on domestic violence." loading="lazy">
+  <figcaption>Paid work plus housework is the dual burden; add emotion work for the triple shift.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-sociology-0495-kq-4-2--06-evaluating-three-views.webp" width="900" height="533" alt="A table of strengths and limitations for functionalism, Marxism and feminism, with a reminder to give each view an internal limitation." loading="lazy">
+  <figcaption>Every view explains something and misses something.</figcaption>
+</figure>
 
 ## Positive or negative? (4.2.5)
 

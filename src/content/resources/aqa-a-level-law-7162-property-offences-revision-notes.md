@@ -29,6 +29,11 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 
 **s1(1):** dishonestly appropriates property belonging to another with the intention of permanently depriving the other of it. Either way; maximum seven years.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-criminal-offences-and-defences-study-guide--03-cr-theft-robbery.webp" width="900" height="960" alt="Theft under section 1 of the Theft Act 1968 needs five elements together: dishonestly (s2), appropriates (s3), property (s4), belonging to another (s5) and intention to permanently deprive (s6). Robbery under section 8 is theft plus force, or putting a person in fear of force, used in order to steal. It needs a complete theft and carries a maximum of life." loading="lazy">
+  <figcaption>The five elements of theft and how robbery builds on theft.</figcaption>
+</figure>
+
 ## Appropriation (s3)
 
 | Rule | Case |
@@ -40,12 +45,22 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 | Later assumption by keeping or dealing | s3(1) |
 | Good faith purchaser protected | s3(2) |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--01-appropriation.webp" width="900" height="491" alt="Six points on appropriation: assuming any one right is enough (Morris); consent is irrelevant (Lawrence; Gomez); even a valid gift can be appropriated (Hinks); offering to sell is enough (Pitham and Hehl); keeping found property is a later appropriation; but a good-faith purchaser who keeps stolen goods does not steal (s3(2))." loading="lazy">
+  <figcaption>After Gomez and Hinks, almost any dealing with property is an appropriation.</figcaption>
+</figure>
+
 ## Property (s4)
 
 - Money, real and personal property, things in action, other intangible property.
 - **Not property:** confidential information (*Oxford v Moss*, 1979); electricity (separate s13 offence; *Low v Blease*, 1975).
 - **Body parts** with skill applied (*Kelly and Lindsay*, 1998).
 - **Land** mostly excluded (s4(2)); **wild plants** for personal use excluded (s4(3)); **wild creatures** only if tamed, kept or reduced into possession (s4(4)).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--02-is-it-property.webp" width="900" height="464" alt="Property includes money, personal property, things in action such as a bank balance, and body parts with skill applied (Kelly and Lindsay). Confidential information (Oxford v Moss) and electricity (Low v Blease) are not property. Land, wild plants and wild creatures can be stolen only in limited cases under s4(2) to s4(4)." loading="lazy">
+  <figcaption>Most things are property; information and electricity are not.</figcaption>
+</figure>
 
 ## Belonging to another (s5)
 
@@ -56,6 +71,11 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 | Property left for a charity is not abandoned | *Ricketts v Basildon Magistrates' Court* (2010) |
 | Obligation to deal with it in a particular way, s5(3) | *Davidge v Bunnett* (1984); contrast *Hall* (1972) |
 | Got by mistake with obligation to restore, s5(4) | *A-G's Ref (No 1 of 1983)* (1985) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--03-belonging-to-another.webp" width="900" height="515" alt="Property belongs to anyone with possession, control or a proprietary interest: an owner can steal from a repairer in possession (Turner), control can exist without knowledge (Woodman), donated bags are not abandoned (Ricketts), and mistaken payments with a duty to restore count (s5(4)). Under s5(3), money held for a purpose still belongs to another (Davidge v Bunnett), but not without such an obligation (Hall)." loading="lazy">
+  <figcaption>Possession or control is enough, even against the owner.</figcaption>
+</figure>
 
 ## Dishonesty (s2)
 
@@ -72,6 +92,11 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 
 *Ghosh* (1982) no longer applies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--04-dishonesty.webp" width="900" height="556" alt="Dishonesty starts with s2(1): no dishonesty if the defendant honestly believed in a legal right (Robinson), in the owner’s consent, or that the owner could not be found. If none applies, the Ivey test asks what he actually believed, then whether that was dishonest by the standards of ordinary decent people. Ivey was confirmed in Barton and Booth and replaced Ghosh; willingness to pay does not prevent dishonesty." loading="lazy">
+  <figcaption>Statutory beliefs first; then Ivey’s subjective facts and objective standard.</figcaption>
+</figure>
+
 ## Intention to permanently deprive (s6)
 
 | Rule | Case |
@@ -80,6 +105,11 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 | Treating as own to dispose of | *DPP v Lavender* (1994); *Raphael* (2008) |
 | Money replaced with different notes | *Velumyl* (1989) |
 | Conditional intention is not enough | *Easom* (1971) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--05-itpd.webp" width="900" height="398" alt="Cases on s6: borrowing is not theft unless the property’s value is gone (Lloyd); swapping council doors (Lavender), demanding payment for a car’s return (Raphael) and taking cash to repay with other notes (Velumyl) are intention to permanently deprive; searching a handbag and taking nothing is not (Easom)." loading="lazy">
+  <figcaption>Borrowing is not enough unless the thing comes back worthless.</figcaption>
+</figure>
 
 ## Robbery (s8)
 
@@ -92,6 +122,16 @@ Condensed notes for the section 3.2 row **Property offences**: theft (s1 Theft A
 | Force is an ordinary word; slight force enough | *Dawson and James* (1976) |
 | Force on property transmitted to person | *Clouden* (1987); not *P v DPP* (2012) |
 | Continuing appropriation | *Hale* (1979); *Lockley* (1995) |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--06-robbery-timing.webp" width="900" height="588" alt="A timeline: force used immediately before or at the time of stealing, in order to steal, makes theft robbery; force after the theft is over does not, though appropriation can be continuing (Hale; Lockley). Elements: a completed theft (Robinson; Corcoran v Anderton), force as an ordinary word (Dawson and James), force on a person, possibly through a bag (Clouden; contrast P v DPP), on any person, in order to steal." loading="lazy">
+  <figcaption>Robbery needs a completed theft and force tied to it in time and purpose.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-law-7162-property-offences--07-mo-worked-example.webp" width="900" height="610" alt="A checklist for Mo: appropriation by snatching (s3), property (s4), belonging to Nina (s5), dishonest under Ivey (s2), intention to permanently deprive shown by selling it (s6); then robbery (s8) because he pushed Nina at the time and in order to steal (Dawson and James)." loading="lazy">
+  <figcaption>Five theft elements in order, then force for robbery.</figcaption>
+</figure>
 
 ## Key terms
 

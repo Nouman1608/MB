@@ -55,6 +55,16 @@ per 1000. Natural change = 32 - 9 = **+23 per 1000**, which is **2.3 per cent** 
 | **Life expectancy** | Average number of years a person born now can expect to live |
 | **Population explosion** | The very rapid rise in world population since the twentieth century |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--01-components-of-change.webp" width="900" height="755" alt="A population box with births and immigrants flowing in and deaths and emigrants flowing out. Below, three equations: natural change equals birth rate minus death rate and can be negative; net migration equals immigrants minus emigrants; total change equals natural change plus net migration. A warning notes that infant mortality is per 1,000 live births." loading="lazy">
+  <figcaption>Births, deaths and migration: the only three ways a population changes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--06-calculating-change.webp" width="900" height="545" alt="A birth rate of 32 per 1,000 minus a death rate of 9 gives natural change of 23 per 1,000, or 2.3 per cent. Adding net migration of minus 2 gives total change of 21 per 1,000, or 2.1 per cent. Multiplying by a population of 40 million and dividing by 1,000 gives a yearly increase of 840,000 people." loading="lazy">
+  <figcaption>Natural change, then add migration, then scale up to the population.</figcaption>
+</figure>
+
 ## World population growth
 
 World population grew slowly for most of history, then rose very rapidly from the twentieth century
@@ -72,6 +82,11 @@ Use this pattern to explain why most growth today happens in low- and middle-inc
 **The infant mortality link:** where many babies die, parents have more children to make sure some
 survive to support them in old age. When healthcare improves and infant mortality falls, families
 eventually choose to have fewer children -- but only after a delay.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--03-birth-rate-factors.webp" width="900" height="775" alt="Five factor groups, each with what pushes the birth rate up and down. Economic: children as farm workers and old-age support versus the cost of children in cities. Social: early marriage and low status of women versus women in education and work. Health: high versus low infant mortality and contraception. Cultural and religious: valuing large families versus smaller family norms. Political: pro-natalist versus anti-natalist policy." loading="lazy">
+  <figcaption>Group the factors, then say which way each pushes the rate.</figcaption>
+</figure>
 
 ## The Demographic Transition Model
 
@@ -97,6 +112,11 @@ the number of deaths per 1000 can creep up even with excellent healthcare.
 **Limits of the model:** built from European experience, ignores migration, assumes every country
 follows the same path, gives no timescale.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-geography-population-and-settlement--01-pop-dtm.webp" width="900" height="820" alt="A graph of birth rate and death rate over five stages. In stage 1 both rates are high and roughly equal so the population changes little. In stage 2 the death rate falls sharply while the birth rate stays high, opening a wide gap called natural increase. In stage 3 the birth rate falls too and the gap narrows. In stage 4 both rates are low. In stage 5 the death rate is slightly above the birth rate and the population declines. Japan and Germany are the lesson's examples for stages 4 and 5. Sketch of the model, not real data." loading="lazy">
+  <figcaption>Birth and death rates across the five stages of the Demographic Transition Model, with the death rate falling first in stage 2.</figcaption>
+</figure>
+
 ## Over-population and under-population
 
 - **Over-population:** too many people for the resources, technology and organisation available,
@@ -121,6 +141,11 @@ used, governments encouraging immigration.
   a relatively small population of about 26 million, most in coastal cities. It has used a
   points-based immigration system to attract skilled workers to fill labour shortages.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--04-over-under-population.webp" width="900" height="705" alt="Three balances of people against resources. Over-population: the people side is heavier, with food shortages, unemployment and overcrowding; Bangladesh is often used as an example. Optimum: balanced, giving the highest standard of living. Under-population: the resources side is heavier, with labour shortages and unused land or minerals; Australia is often used. A note says density alone is not over-population, as the Netherlands shows." loading="lazy">
+  <figcaption>Over- and under-population compare people with resources, not with area.</figcaption>
+</figure>
+
 ## Population policies
 
 | Type | Aim | Example | Evaluation |
@@ -138,6 +163,11 @@ traditional preference for sons led to more boys than girls in some age groups.
 
 **Evaluating a policy:** did it change the birth rate? What were the side effects? Was it acceptable
 to the people affected? Did it work in all parts of the country? What did it cost?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-dynamics--05-china-one-child.webp" width="900" height="620" alt="A timeline: the one-child policy around 1979 to 1980, relaxed to two children from 2016 and three in 2021. Four evaluation steps: growth slowed but the birth rate was already falling; unintended consequences of more boys than girls, rapid ageing and the 4-2-1 family; human rights concerns over coercion; and an overall judgement of effective but costly. A diagram shows four grandparents, two parents and one adult child who may have to support all six." loading="lazy">
+  <figcaption>Judge a policy against its aims, its side effects and its acceptability.</figcaption>
+</figure>
 
 ## Exam traps
 
