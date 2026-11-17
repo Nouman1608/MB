@@ -54,6 +54,18 @@ const env = { ...process.env, CLOUDFLARE_ACCOUNT_ID: accountId };
 // 2. Collect images. Every lesson folder's figures.json lists its images; any image missing from
 //    this folder is downloaded from the (public) GitHub branch first.
 const RAW = 'https://raw.githubusercontent.com/Nouman1608/MB/claude/festive-mendel-avo9ej/docs/reports/topic-images/generated/';
+// Create a local folder for any lesson that exists on GitHub but not here yet (new lessons).
+try {
+  const r = await fetch('https://api.github.com/repos/Nouman1608/MB/contents/docs/reports/topic-images/generated?ref=claude/festive-mendel-avo9ej', { headers: { 'User-Agent': 'marlbridge-figure-uploader', Accept: 'application/vnd.github+json' } });
+  if (r.ok) {
+    let added = 0;
+    for (const e of await r.json()) {
+      if (e.type === 'dir' && !fs.existsSync(path.join(root, e.name))) { fs.mkdirSync(path.join(root, e.name)); added++; }
+    }
+    if (added) log(`Found ${added} new lesson folders on GitHub.`);
+  } else log(`Could not list lesson folders on GitHub (HTTP ${r.status}); using local folders only.`);
+} catch (e) { log(`Could not list lesson folders on GitHub (${e.message}); using local folders only.`); }
+
 const files = [];
 let expected = 0, fetched = 0;
 const fetchFailed = [];
