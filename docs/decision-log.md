@@ -16343,3 +16343,9 @@ Source: the owner's "Master Academic Quality Assurance, Content Authority & Sear
 - **OxfordAQA 9210 specification link.** The linked PDF was live, not dead, but it is Version 3.3; OxfordAQA now publishes Version 3.4 (June 2026). The only content change between them is that exams are May/June only, which the site already states. Two pages now cite Version 3.4 and link to it.
 - **Cambridge 9990 Pozzulo et al.** The syllabus cites Pozzulo, Dempsey, Bruer and Sheahan (2011); the approaches study guide said 2012 and now says 2011.
 - Each edited page has `updatedDate: 2026-11-17`; teacher credits are unchanged.
+
+## D-493 - Cyclone figure on the 0680 natural-hazards study guide redrawn at 27 °C (17 Nov 2026)
+
+- Follows D-492, which corrected the page text to the 0680 syllabus (6.2.1: ocean temperature of at least 27 °C, ocean depth of at least 60 m, 5° to 30° north or south of the Equator) but left the figure `--17-h-cyclone-formation.webp` labelled "Sea at least 26.5 °C", with an alt-text note explaining the mismatch.
+- **Figure.** Redrawn in house style (`scripts/topic-figures/lessons/cambridge-igcse-environmental-management-natural-hazards-study-guide.mjs`, built to `docs/reports/topic-images/generated/`) with the same layout, the sea now labelled "Sea at least 27 °C, at least 60 m deep". It has a new name, `--17-h-cyclone-formation-v2.webp`, because the uploader skips names already live, so reusing the old name would not replace the image.
+- **Page.** The `<img>` points at the v2 file; the alt text is a plain description again ("at least 27 degrees Celsius and at least 60 metres deep"), without the note about the two figures. Caption unchanged. The old image stays on img.marlbridge.com, no longer linked.
