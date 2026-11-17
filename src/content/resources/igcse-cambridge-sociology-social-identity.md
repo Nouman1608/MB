@@ -57,6 +57,11 @@ and Generation in Modern Britain*, 1995) shows age as a source of both identity 
 Older people may be respected as wise elders in some cultures and stereotyped as dependent in
 others.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--01-age-socially-constructed.webp" width="900" height="501" alt="Two life-course bars. Where young people take on adult work and marriage early, youth is short; where education is long, youth extends into the twenties. Old age is respected in some cultures and stereotyped as dependent in others. Pilcher (1995) sees age as a source of identity and inequality." loading="lazy">
+  <figcaption>Childhood, youth, adulthood and old age mean different things in different societies.</figcaption>
+</figure>
+
 ## How does gender shape identity?
 
 Sociologists distinguish **sex** (biological) from **gender** (socially learned masculinity and
@@ -64,6 +69,11 @@ femininity). Ann Oakley (1972) described how families shape gender identity thro
 and canalisation. Gender identities differ widely between societies, and in many places they are
 changing as women enter education and paid work — though expectations about domestic roles often
 change more slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--02-sex-and-gender.webp" width="900" height="473" alt="Sex is biological; gender, socially learned masculinity and femininity, comes through socialisation. Ann Oakley (1972) described families shaping gender identity through manipulation and canalisation. Gender identities are changing as women enter education and work, though domestic expectations change more slowly." loading="lazy">
+  <figcaption>Gender is learned, so it differs between societies and changes over time.</figcaption>
+</figure>
 
 ## How does ethnicity shape identity?
 
@@ -81,6 +91,11 @@ accent, tastes, leisure, values and aspirations. Pierre Bourdieu argued that **c
 reproduce class. Some sociologists argue class identity is weakening as traditional industries
 decline; others point out that class still shapes life chances.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--03-class-cultural-capital.webp" width="900" height="444" alt="A chain: economic position (occupation, income and wealth) shapes accent, tastes, leisure, values and aspirations; Bourdieu’s cultural capital is passed on in families; and class is reproduced. Below, some sociologists say class identity is weakening as traditional industries decline, while others say class still shapes life chances." loading="lazy">
+  <figcaption>Cultural capital passed on in families helps reproduce class identity.</figcaption>
+</figure>
+
 ## What is the digital self?
 
 The **digital self** is the identity people present and build online through profiles, posts,
@@ -97,6 +112,11 @@ danah boyd's *It's Complicated* (2014), based on interviews with American teenag
 young people use social media to extend their social lives rather than replace them, while Sherry
 Turkle's *Alone Together* (2011) warned that constant connection may weaken face-to-face
 relationships.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--04-digital-self.webp" width="900" height="678" alt="A level balance weighing positive impacts of the digital self (freedom of expression, virtual communities, ties with distant family, activism) against negative impacts (pressure to look perfect, cyberbullying, filter bubbles, privacy risks). boyd (2014) says social media extends social life; Turkle (2011) warns it may weaken face-to-face relationships." loading="lazy">
+  <figcaption>Online identity brings freedom and connection, but also pressure and risk.</figcaption>
+</figure>
 
 ## How does globalisation influence identity?
 
@@ -122,6 +142,11 @@ media and technology. The syllabus names three possible influences:
 The global success of South Korean pop music and television is a useful example: it shows global
 culture is not only Western, and that local cultures can become global.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--05-globalisation-and-identity.webp" width="900" height="637" alt="Globalisation leads to three possible influences: homogenisation, where young people share similar fashions and values; hybrid identities, such as children of migrants mixing two cultures; and cultural defence, where people strengthen traditional or religious identity. South Korean pop culture shows global culture is not only Western." loading="lazy">
+  <figcaption>Globalisation can make identities more alike, mix them, or make people defend them.</figcaption>
+</figure>
+
 ## Is identity now chosen rather than given?
 
 **Postmodernist view (2.3.4):** in a "pick and mix" society people build identities from
@@ -133,6 +158,11 @@ selves on different platforms.
 **Criticisms:** choice depends on money and access; class, gender and ethnicity still limit options;
 many people keep strong inherited identities based on family and religion; postmodernism may
 describe affluent young people more than others.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-social-identity--06-chosen-or-given.webp" width="900" height="679" alt="A level balance. On one side, postmodernists say identity is chosen in a pick-and-mix society of consumption and lifestyle, with Bauman’s liquid identities and multiple digital selves. On the other, critics say money, class, gender, ethnicity, family and religion still limit choice. The exam asks for a judgement." loading="lazy">
+  <figcaption>Weigh the pick-and-mix view against the limits of class, gender, ethnicity and money.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -84,6 +84,11 @@ The framework defines **transitional elements** as words or other elements (phra
 
 A transition is a **promise** about what comes next. If the promise is false, the reader is misled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--01-transition-families.webp" width="900" height="660" alt="Ten families of transitions, each with a symbol, examples and what the reader expects next: addition, contrast, concession, cause or result, example, sequence, emphasis, similarity, summary and qualification." loading="lazy">
+  <figcaption>Choose the relationship first, then the word that names it.</figcaption>
+</figure>
+
 ## Matching the transition to the logic
 
 Choosing a transition begins with deciding the relationship, not the word. Compare two versions of the same pair of facts:
@@ -102,6 +107,11 @@ A transition is *wrong* if it names a relationship that does not exist:
 
 Transitions of the same family are not always interchangeable. "Moreover" adds a point of the same kind; "however" reverses direction. "In fact" intensifies; "for example" narrows to a case.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--02-transition-changes-meaning.webp" width="900" height="517" alt="The same first fact, the council cut bus fares, followed by “As a result, ridership rose” and “However, ridership fell”: the transition tells the reader how to take the second idea. Below, “The shop sells fruit. Therefore, it is on Park Road” is wrong because no result exists." loading="lazy">
+  <figcaption>A transition only reveals logic that is already there; a false one misleads.</figcaption>
+</figure>
+
 ## Transitions that introduce and relate evidence
 
 Writers use transitions to **bring evidence into a paragraph** and to tell the reader what kind it is and how it relates to the evidence before. Look at the work each phrase does:
@@ -117,11 +127,21 @@ Writers use transitions to **bring evidence into a paragraph** and to tell the r
 
 These help the reader weigh the evidence. A string of facts with no signals leaves the reader unsure which is the most important or how they fit together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--03-transitions-weigh-evidence.webp" width="900" height="596" alt="Six evidence-framing transitions with what each signals: “For instance” an example, “According to a recent survey” a source to weigh, “A second case supports this” more of the same, “In contrast” complicating evidence, “More telling still” stronger evidence, and “Even so” evidence that survives a challenge." loading="lazy">
+  <figcaption>Evidence transitions help the reader weigh and connect each piece.</figcaption>
+</figure>
+
 ## Bigger transitions
 
 A transition may be a whole **sentence** that looks back and forward: "Cost is only half the story." It tells the reader that the last paragraph dealt with money and the next will deal with something else. A short **paragraph** may serve in a long essay to mark a turning point: "So far, the case has rested on what the shops gain. The next question is what the town loses."
 
 Such larger transitions often **restate the previous idea and introduce the next**: *Having seen what the lane costs, we must ask what it saves.* This "looking back, looking forward" structure is a reliable way to link paragraphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--04-look-back-look-forward.webp" width="900" height="502" alt="Three larger transitions, each in the centre with arrows back and forward: “Cost is only half the story” links money to the next topic; a short paragraph turns from what the shops gain to what the town loses; “Having seen what the lane costs, we must ask what it saves” links cost to savings." loading="lazy">
+  <figcaption>Restate the last idea and introduce the next: a reliable link between paragraphs.</figcaption>
+</figure>
 
 ## Weak and strong versions side by side
 
@@ -142,6 +162,11 @@ The sentences are placed side by side; the reader must guess the relationships.
 | Contrast | Not signalled | "however" |
 | Concession | Not signalled | "Even so" |
 | Reasoning | Not stated | "since the benefits seemed to outweigh the nuisance" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--05-skate-park-transitions.webp" width="900" height="649" alt="The weak skate-park paragraph is five unconnected sentences. The strong version labels each transition: “as a result” (cause), “In the year after it opened” and “which suggests” (framing evidence), “however” (contrast), “Even so” (concession) and “since” (reasoning)." loading="lazy">
+  <figcaption>Name each relationship and the reader no longer has to guess.</figcaption>
+</figure>
 
 ## Worked example 1: revising a paragraph with transitions
 
@@ -180,6 +205,11 @@ In his Second Inaugural Address (1865), Abraham Lincoln writes:
 **Step 3: Say what the effect is.** The "but" structure leads the reader from agreement to division, so the reader feels the tragedy of a war nobody was said to want. The "And" that opens the last sentence gives it a flat, fateful tone.
 
 **Step 4: Write the analysis sentence.** *Lincoln uses "but" and the matching "rather than" clauses to move from shared reluctance to opposing choices, and then the plain "And the war came" to present the war as the consequence of those choices.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-4-transitional-elements-study-guide--06-lincoln-and-the-war-came.webp" width="900" height="628" alt="Lincoln’s sentences as a branching diagram: the shared position “Both parties deprecated war” splits at “but” into two matching “rather than” clauses, one making war and one accepting war, which converge on the short sentence “And the war came.”" loading="lazy">
+  <figcaption>“But” divides, “rather than” matches, and “And” makes the war feel inevitable.</figcaption>
+</figure>
 
 ## Common misconceptions
 

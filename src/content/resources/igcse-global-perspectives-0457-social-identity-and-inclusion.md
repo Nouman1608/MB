@@ -58,6 +58,11 @@ The words below are not syllabus content. They are working vocabulary that helps
 
 Integration and multiculturalism are contested ideas. Supporters of each have reasons. Your job is to explain those reasons, not to declare one side right before you have weighed the evidence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--01-identity-and-inclusion.webp" width="900" height="696" alt="Social identity at the centre of six groups it comes from: family, language, nationality, age group, faith and school. Definitions of inclusion, exclusion and belonging, and two contested ideas: integration, where groups mix and share institutions, and multiculturalism, where groups keep distinct identities within one society." loading="lazy">
+  <figcaption>Identity comes from the groups we belong to; inclusion decides whether we can take part.</figcaption>
+</figure>
+
 ## Finding issues at global, national and local level
 
 A topic is broad. An issue is narrow enough to research. The syllabus asks for global, national and local levels, so practise moving an issue between them.
@@ -72,6 +77,11 @@ A topic is broad. An issue is narrow enough to research. The syllabus asks for g
 | Local | Can wheelchair users reach every building in our neighbourhood? |
 
 A good issue divides opinion. "Discrimination is bad" is not an issue, because almost nobody disagrees. "Should school dress rules allow exceptions for cultural identity?" is an issue: parents, students, teachers and governments give different answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--02-issue-test.webp" width="900" height="534" alt="A test of whether a statement is an issue: “Discrimination is bad” is not, because almost nobody disagrees; whether school dress rules should allow cultural exceptions is, because people answer differently. A table gives an issue at each level: global accessibility agreements, national quotas, and local wheelchair access." loading="lazy">
+  <figcaption>A good issue divides opinion.</figcaption>
+</figure>
 
 ## Perspectives: who sees the issue differently, and why
 
@@ -89,6 +99,11 @@ At global level, international human-rights documents such as the Universal Decl
 **Worked example paragraph (perspectives):**
 
 > Parents who support one identical uniform hold an equality perspective: they value fairness and believe that dressing the same hides differences in wealth. [knowledge] In the source, the claim that "uniform makes everyone equal" reflects this value. [application] However, the perspective assumes that sameness of dress removes all differences, and it overlooks students for whom a hairstyle or garment is part of their culture and who may feel less included, not more. [analysis] The perspective is understandable, but it would be stronger if it was supported by evidence from schools that have tried both approaches. [evaluation]
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--03-dress-rules.webp" width="900" height="574" alt="Four perspectives on school dress rules: some parents and teachers want one uniform to reduce visible wealth differences; a government wants clear national rules; other families want room for cultural dress and hairstyles; students see appearance as self-expression and may feel excluded. Global non-discrimination principles do not settle the detail." loading="lazy">
+  <figcaption>Each perspective rests on a value: fairness, clarity, heritage or self-expression.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -110,6 +125,16 @@ The syllabus asks you to analyse causes of problems or reasons for disagreement,
 Notice that consequences can be positive or negative and can fall on different groups. A strong answer says who is affected and how.
 
 **Using invented data to practise:** in a fictional town, Kelton, a fictional community centre surveyed 60 older residents. 21 of them (35%) said they had no one to talk to in most weeks. A cause chain might run: buses stopped running in the evening, so older residents stopped going to the centre's events, so they had fewer chances to meet people. Then ask: is the survey big enough? Who was not asked? People who never visit the centre were probably missed, so the real figure could be higher.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--04-exclusion-causes-consequences.webp" width="900" height="564" alt="Six causes of exclusion (physical barriers, cost, language differences, stereotypes, rules designed for the majority, lack of information) lead to consequences for individuals (loneliness, missed education or jobs), communities (less trust, wasted talent) and countries (lower output and tension, or where inclusion succeeds, wider skills and ideas)." loading="lazy">
+  <figcaption>Name who is affected by exclusion and how.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--05-kelton-survey.webp" width="900" height="550" alt="Sixty dots, 21 highlighted, show that 21 of 60 older residents surveyed by a fictional Kelton community centre (35%) had no one to talk to most weeks. People who never visit the centre were probably missed, so the real figure could be higher. A cause chain: evening buses stop, residents stop going to events, and they have fewer chances to meet people." loading="lazy">
+  <figcaption>Ask who a survey missed: here, the most isolated people.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -135,6 +160,11 @@ Section 4 says you will benefit from understanding **bias, claim, fact, generali
 
 > The source states that 1 in 6 people worldwide experience significant disability, which is a checkable estimate attributed to the World Health Organization. [knowledge] The writer uses it to argue that every new building in the town must be fully accessible. [application] The figure is global, so it does not show how many people in this town need step-free access, which is the evidence the argument actually needs. [analysis] The source is credible, but the reasoning makes a jump from a global figure to a local decision, so the argument is only partly supported. [evaluation]
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--06-reference-points.webp" width="900" height="672" alt="A table evaluates four reference points: UDHR Article 2, the UN Convention on the Rights of Persons with Disabilities, SDG target 10.2, and the WHO estimate that about 1.3 billion people, 1 in 6, have significant disability. Each has a strength and limitation. Using a global figure to justify a local decision is a jump in reasoning." loading="lazy">
+  <figcaption>A credible source can still be used in weak reasoning.</figcaption>
+</figure>
+
 ## Courses of action
 
 Component 1 asks you to assess actions. The Individual Report asks you to consider different courses of action and propose one. Judge each action on: who carries it out, cost, how quickly it works, who benefits, who might lose out, and how you would know it worked.
@@ -150,6 +180,11 @@ Examples for this topic:
 **Worked example paragraph (course of action):**
 
 > A student-run culture club invites students of all backgrounds to lead activities from their own traditions. [knowledge] For newcomer students who say they feel left out, it targets the cause directly, because it gives them a place to meet others and a role in which their background is valued. [application] It costs little, but it depends on committed student leaders, and it may attract mainly students who are already confident. [analysis] It is likely to help in the short term, but on its own it does not change the attitudes of students who never attend, so it works best alongside other actions. [evaluation]
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-social-identity-and-inclusion--07-culture-club.webp" width="900" height="634" alt="A student-run culture club is assessed: it targets the cause by helping newcomers meet others and valuing their background, at low cost, but depends on committed leaders, may attract confident students and does not reach those who never attend. It works best alongside other actions. Six questions for judging any action follow." loading="lazy">
+  <figcaption>A cheap, targeted action can still need others alongside it.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

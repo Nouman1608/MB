@@ -84,6 +84,11 @@ Take one event described four ways (Marlbridge example): a train arrives forty m
 
 The facts are the same: the train arrived at 8:50. The attitude differs because the words differ. Each tone can be traced to specific words.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-5-tone-connotation-study-guide--01-one-train-four-tones.webp" width="900" height="517" alt="A train due at 8:10 arrives at 8:50, described four ways: neutral (“arrived”), indignant (“limped in... yet again, with no apology”), wry (“graciously joined us... having evidently found better things to do”) and resigned (“as it does... filed on, used to it”)." loading="lazy">
+  <figcaption>Tone is traced to specific words: same facts, different attitudes.</figcaption>
+</figure>
+
 ## Naming tone precisely
 
 Vague labels such as "negative", "positive" or "emotional" say little. Compare:
@@ -106,6 +111,11 @@ A reliable method for analysing tone:
 3. **Explain their connotations** (what they suggest).
 4. **Name the tone** precisely.
 5. **Link the tone to purpose**: what the tone does to the audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-5-tone-connotation-study-guide--02-naming-tone-precisely.webp" width="900" height="660" alt="Six vague tone labels (negative, positive, serious, funny, neutral, sad) each replaced by precise words, such as scornful, indignant and bitter for negative, or wry and sardonic for funny. Below, pairs like “wry but affectionate” and a five-step method for analysing tone." loading="lazy">
+  <figcaption>“Negative” says little; “scornful and controlled” says what the attitude is.</figcaption>
+</figure>
 
 ## Tone in published prose
 
@@ -130,6 +140,11 @@ Frederick Douglass says in his Rochester address (1852):
 - **Purpose:** to make an audience of celebrants face the contradiction between their ideals and slavery.
 
 Both speakers address a nation about its ideals, but their tones differ because their purposes and situations differ: Lincoln seeks to heal after a war, Douglass to confront a complacent audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-5-tone-connotation-study-guide--03-lincoln-douglass-tone.webp" width="900" height="680" alt="Lincoln’s closing words and Douglass’s Rochester sentence traced side by side from words to connotations to tone to purpose: Lincoln’s “charity for all” and “bind up the nation’s wounds” give a conciliatory, humble tone aimed at reconciliation; Douglass’s “sham” and “swelling vanity” give a scornful, controlled tone aimed at confronting his audience." loading="lazy">
+  <figcaption>Both address a nation’s ideals; their tones differ because their purposes differ.</figcaption>
+</figure>
 
 ## Creating tone in your own writing
 
@@ -165,6 +180,11 @@ Read this passage (Marlbridge passage).
 
 **Step 6: Write the analysis sentence.** *The writer's mock-formal phrases ("visiting dignitary"), the quoted "legacy" and the deflating final sentence give the passage a wry, sceptical tone that invites the reader to doubt a ceremony that hides an unfinished hall.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-5-tone-connotation-study-guide--04-sports-hall-tone.webp" width="900" height="601" alt="The sports-hall passage with key phrases labelled: “visiting dignitary” (mock-formal), “cut a ribbon” (a routine gesture), “spoke for forty minutes” (tedium), “legacy” in quotation marks (doubted), and “Still, the buffet was excellent” (a deflating anticlimax). The tone is wry and sceptical." loading="lazy">
+  <figcaption>Mock-formal words, a quoted term and an anticlimax build a wry, sceptical tone.</figcaption>
+</figure>
+
 ## Worked example 2: changing tone while keeping the facts
 
 **Task.** Rewrite this neutral sentence in a respectful, appreciative tone and then in a sarcastic one: "The caretaker repaired the roof on Tuesday."
@@ -182,6 +202,11 @@ Read this passage (Marlbridge passage).
 *Key words:* "finally", "managed", "only three weeks", which suggest the delay was long and criticise it.
 
 **Check.** The facts are the same: the roof was repaired on Tuesday. The words, and therefore the attitudes, differ. (In the sarcastic version, "only" is used ironically, and the added fact of three weeks would need to be true.)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-5-tone-connotation-study-guide--05-caretaker-three-tones.webp" width="900" height="470" alt="The neutral sentence “The caretaker repaired the roof on Tuesday” branches into a respectful version (“kindly”, “grateful”, “patient”) and a sarcastic one (“finally managed”, “only three weeks after it started to leak”)." loading="lazy">
+  <figcaption>The facts stay; the words, and so the attitudes, change.</figcaption>
+</figure>
 
 ## Common misconceptions
 

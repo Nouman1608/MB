@@ -75,6 +75,11 @@ A map metaphor helps. Two people may both point to the same hill and say, "That 
 | Can change between sources? | Yes (for, against) | Yes (teacher, parent, student, doctor) |
 | Two sources may share one while differing in the other | Yes | Yes |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-2-position-perspective-study-guide--01-same-hill-two-viewpoints.webp" width="900" height="619" alt="A farmer and a photographer both point to the same hill as the best viewpoint: the same position from different perspectives, grazing land and skyline. A table contrasts position (what do you argue?) with perspective (from where do you argue?)." loading="lazy">
+  <figcaption>Position is what a source argues; perspective is where it argues from.</figcaption>
+</figure>
+
 ## Clues to perspective
 
 Perspective is often signalled, though not always stated. Look for:
@@ -87,6 +92,11 @@ Perspective is often signalled, though not always stated. Look for:
 - **What is left out:** a source may not mention concerns that matter to others.
 
 A perspective is not an error. Everyone writes from somewhere. But noticing a perspective explains why the source chooses the evidence it does, and lets you judge how far that evidence travels.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-2-position-perspective-study-guide--02-clues-to-perspective.webp" width="900" height="632" alt="Six clues surround the perspective: role or background, interests, expertise, choice of evidence, vocabulary and tone, and what is left out. A note explains that a perspective is not an error but explains a source’s evidence." loading="lazy">
+  <figcaption>Role, interests, expertise, evidence, vocabulary and omissions reveal perspective.</figcaption>
+</figure>
 
 ## Same position, different perspectives
 
@@ -108,6 +118,11 @@ Sources D and E share a **position** but differ in **perspective**, so they give
 
 A writer who understands this can do more than say "two sources agree". The writer can say: "Teachers and parents support the ban for different reasons: teachers see lost lesson time, and parents see unwanted social pressure. That two groups with different concerns reach the same conclusion strengthens the case, although neither speaks for students whose phones are tools."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-2-position-perspective-study-guide--03-sources-d-e-f.webp" width="900" height="728" alt="A grid with perspectives as rows (teacher, parent, student) and positions as columns (for a ban, against a blanket ban). Source D, the teacher, and Source E, the parent, share the “for” column with different evidence; Source F, the student, stands against a blanket ban. A synthesis sentence uses the difference." loading="lazy">
+  <figcaption>Two sources that agree from different perspectives can strengthen a case.</figcaption>
+</figure>
+
 ## Perspective in a published text
 
 Susan B. Anthony, in 1873, argued that women already held the right to vote under the Constitution:
@@ -117,6 +132,11 @@ Susan B. Anthony, in 1873, argued that women already held the right to vote unde
 (Susan B. Anthony, "On Women's Right to Vote", 1873)
 
 Her **position** is that the Constitution's "people" includes women. Her **perspective** is that of a woman indicted for voting: she argues from personal exclusion and from the principle of citizenship. The repeated "not we..." clauses show the perspective at work: she gives the audience the categories used to exclude her and rejects them one by one. A male lawyer who agreed with her position might argue from a perspective of constitutional law, and a different set of evidence and tone would follow.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-2-position-perspective-study-guide--04-anthony-position-perspective.webp" width="900" height="542" alt="Anthony’s sentence above two boxes: her position, that the Constitution’s “people” includes women, and her perspective, a woman indicted for voting arguing from exclusion and citizenship. A dashed box imagines a male lawyer with the same position arguing from constitutional law, with different evidence and tone." loading="lazy">
+  <figcaption>The same position from a different perspective brings different evidence and tone.</figcaption>
+</figure>
 
 ## Using position and perspective in writing
 
@@ -156,6 +176,11 @@ When synthesising, ask of each source: *position, perspective, and what it adds*
 **Step 4: Note what the perspective leaves out.** The teacher does not mention students' practical needs (translation, medical monitoring) or home life, which Sources F and E raise.
 
 **Step 5: Write the analysis sentence.** *Source D's evidence is drawn from the classroom, which makes it persuasive about attention and lesson time but silent about the practical and social uses of phones that other perspectives raise.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-6-2-position-perspective-study-guide--05-perspective-shapes-evidence.webp" width="900" height="520" alt="A spotlight from the teacher’s perspective lights up two pieces of classroom evidence, lost attention and concentration, while translation, medical monitoring and home life sit outside the beam. Notes explain what Source D is persuasive about and what it leaves out." loading="lazy">
+  <figcaption>A perspective explains which evidence a source offers and which it omits.</figcaption>
+</figure>
 
 ## Common misconceptions
 

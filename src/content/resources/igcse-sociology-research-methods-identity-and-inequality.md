@@ -48,6 +48,11 @@ exam questions routinely ask candidates to suggest or evaluate a
 research method for studying whatever substantive topic — identity,
 inequality, family, education, crime — the question is actually about.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--02-research-methods-everywhere.webp" width="900" height="483" alt="Research Methods sits at the centre, linked to identity, inequality, family, education and crime, because exam questions on any of these can ask candidates to suggest or evaluate a research method for that topic." loading="lazy">
+  <figcaption>Research Methods is never finished: it returns inside questions on every other topic.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE SOCIOLOGY 0495 — PAPER 1 RESEARCH METHODS, IDENTITY
@@ -75,6 +80,11 @@ between societies?) — how societies are divided into unequal groups
 by factors such as class, gender and ethnicity, attempts to reduce
 that inequality, and the effect of globalisation on inequality
 between societies
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--01-paper-1-structure.webp" width="900" height="622" alt="Question 1 on Topic 1, Research Methods, is compulsory and covers key questions 1.1 to 1.3. Candidates then choose one more question, on either Topic 2, Identity: Self and Society, or Topic 3, Social Stratification and Inequality." loading="lazy">
+  <figcaption>Research Methods cannot be avoided; then pick Identity or Inequality.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -126,6 +136,16 @@ withdraw, which is why covert observation -- which breaches consent
 through deception -- is defended only in cases where overt research
 would be impossible to carry out at all.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--01-reliability-validity-trade-off.webp" width="900" height="560" alt="Quantitative methods such as questionnaires and structured interviews are strong on reliability but weaker on validity. Qualitative methods such as unstructured interviews and participant observation are strong on validity but weaker on reliability. Bars show which is strong and which is weaker." loading="lazy">
+  <figcaption>Quantitative methods tend to win on reliability, qualitative methods on validity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--02-sampling-and-ethics-rules.webp" width="900" height="500" alt="Three rules: without a sampling frame a researcher is often forced into non-random sampling; a larger sample reduces sampling error but does not remove bias; covert observation breaches consent and is defended only where overt research would be impossible. Ethics require informed consent, confidentiality, protection from harm and a right to withdraw." loading="lazy">
+  <figcaption>Size cannot fix a biased method, and covert research needs strong justification.</figcaption>
+</figure>
+
 ## Identity and socialisation in more depth
 
 Topic 2 builds on the idea that identity is learned rather than fixed
@@ -153,6 +173,16 @@ agencies of control on both sides and explain how each achieves
 conformity, rather than treating "social control" as a single
 undifferentiated idea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--03-precise-identity-terms.webp" width="900" height="615" alt="Primary socialisation in the family in early childhood is followed by secondary socialisation through school, peers, media, religion and the workplace. Ascribed status is fixed at birth, such as sex; achieved status is earned, such as an occupation. Cross-cultural variation and feral children support nurture over nature." loading="lazy">
+  <figcaption>Use exact terms: primary and secondary socialisation, ascribed and achieved status.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--05-formal-informal-control.webp" width="900" height="373" alt="Formal social control works through explicit rules and sanctions enforced by government, the police, the courts and the penal system. Informal social control works through unwritten norms enforced by family, peers and media through disapproval, praise, gossip and exclusion." loading="lazy">
+  <figcaption>Formal control uses written rules and penalties; informal control uses everyday reactions.</figcaption>
+</figure>
+
 ## Inequality in more depth
 
 Topic 3 examines how societies divide people into unequal groups along
@@ -177,6 +207,16 @@ the apparent effect of ethnicity is attributable to class rather than
 ethnicity itself. Raising this interaction, rather than treating class
 and ethnicity as two independent, additive causes, is what distinguishes
 a sophisticated answer from a purely descriptive one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--04-cycle-of-deprivation.webp" width="900" height="534" alt="A four-step cycle: poor housing and diet lead to poor health and educational underachievement, which lead to low-paid or insecure work, which reproduces poverty in the next generation, starting the cycle again." loading="lazy">
+  <figcaption>Each disadvantage feeds the next, so poverty passes down the generations.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-sociology-research-methods-identity-and-inequality--05-gender-and-ethnic-inequality.webp" width="900" height="692" alt="An illustrative organisation with women concentrated in lower levels and a glass ceiling below the senior roles, beside definitions of vertical and horizontal segregation and their causes: gender socialisation, the domestic and caring burden and workplace discrimination. Below, ethnic inequality is explained by discrimination and institutional racism, with a note that ethnicity and class interact." loading="lazy">
+  <figcaption>The glass ceiling and segregation explain gender inequality; ethnic inequality interacts with class.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

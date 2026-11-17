@@ -69,6 +69,11 @@ Examples from different societies: Brazil's *Bolsa Família* (from 2003) paid po
 condition that children attended school and had health checks; India's National Rural Employment
 Guarantee Act (2005) guaranteed rural households a number of days of paid work each year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--01-redistribution-and-laws.webp" width="900" height="655" alt="Higher earners pay a higher percentage of income in tax, and the state pays benefits to low-income groups. Examples are Brazil’s Bolsa Família (from 2003), conditional on school attendance and health checks, and India’s rural employment guarantee (2005). Other legal tools are a minimum wage, equal opportunities laws and measures such as job guarantees and quotas." loading="lazy">
+  <figcaption>Taxing higher earners more and paying benefits to the poor narrows the gap.</figcaption>
+</figure>
+
 ## What is a welfare state? (3.2.2)
 
 A welfare state is a system in which the government provides services and benefits to protect
@@ -84,6 +89,11 @@ National Health Service, founded in 1948, alongside national insurance benefits.
 | Free healthcare | Health care regardless of ability to pay |
 | Universal basic income | A regular payment to everyone, without conditions; tested in trials such as Finland's 2017–2018 experiment with unemployed people |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--02-welfare-state-cradle-to-grave.webp" width="900" height="667" alt="A life line from cradle to grave. Free education supports childhood, unemployment benefits support working age and pensions support old age; free healthcare, low-cost housing and universal basic income, trialled in Finland in 2017–2018, apply throughout life. In Britain the Beveridge Report (1942) led to the NHS (1948)." loading="lazy">
+  <figcaption>A welfare state protects life chances at every stage of life.</figcaption>
+</figure>
+
 ## How do NGOs work globally? (3.2.3)
 
 NGOs are non-profit organisations independent of governments. Examples of their work: **reducing
@@ -92,6 +102,11 @@ Frontières delivers emergency health care in conflict and disaster zones; **pro
 microcredit lending, associated with Muhammad Yunus and the Grameen Bank in Bangladesh, which shared
 the 2006 Nobel Peace Prize; **improving education** — building schools, training teachers and
 supporting girls' schooling. BRAC, founded in Bangladesh in 1972, combines all four.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--03-ngos-roles-and-limits.webp" width="900" height="732" alt="Four kinds of NGO work: reducing poverty through cash transfers and food aid, medical assistance such as Médecins Sans Frontières, promoting business through microcredit (Grameen Bank), and improving education. BRAC combines all four. Criticisms: NGOs can create dependency, answer to donors, impose Western priorities and are too small to change structural causes." loading="lazy">
+  <figcaption>NGOs help directly, but critics say they cannot change structural causes.</figcaption>
+</figure>
 
 ## Have these attempts succeeded? (3.2.4)
 
@@ -106,6 +121,11 @@ supporting girls' schooling. BRAC, founded in Bangladesh in 1972, combines all f
 **Evaluation:** supporters point to reduced absolute poverty and longer life expectancy where
 welfare and NGO programmes operate; critics show inequality between rich and poor remains large.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--04-views-on-welfare.webp" width="900" height="725" alt="The welfare state sits between two critics. The New Right (Murray, 1984) say it does too much and creates an underclass. Marxists say it does too little, only softening capitalism. Below, Oscar Lewis’s culture of poverty, the idea of dependency culture, and feminist criticisms of equality laws, then an evaluation." loading="lazy">
+  <figcaption>The New Right say welfare does too much; Marxists say it does too little.</figcaption>
+</figure>
+
 ## How does migration affect inequality? (3.3.1)
 
 - **Immigration** is moving into a country; **emigration** is leaving one.
@@ -117,6 +137,11 @@ welfare and NGO programmes operate; critics show inequality between rich and poo
 - **Negative perceptions** of migrants include stereotyping, scapegoating and racism, often
   amplified by media.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--05-migration-push-pull.webp" width="900" height="620" alt="A sending country and a receiving country. Push factors are poverty, unemployment, conflict, persecution and natural disasters; pull factors are jobs, higher wages, safety, education and family. Migrants move one way and remittances flow back. The sending country may suffer a brain drain; the receiving country gains workers, taxes and diversity, but migrants face stereotyping and racism." loading="lazy">
+  <figcaption>Show who gains and who loses on both sides of migration.</figcaption>
+</figure>
+
 ## How do global ecological issues affect inequality? (3.3.2)
 
 - **Transnational companies (TNCs)** bring jobs and investment but may exploit cheap labour, weak
@@ -127,6 +152,11 @@ welfare and NGO programmes operate; critics show inequality between rich and poo
 - **Urbanisation** — rapid growth of cities can create informal settlements without safe water or
   sanitation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--06-ecological-issues.webp" width="900" height="437" alt="Four cards. Transnational companies bring jobs and investment but may exploit cheap labour, weak regulation and resources. Climate change harms poorer countries most through drought, flooding and crop failure, though richer countries produced more emissions. Pollution from mining, factories and waste affects poor communities, and rapid urbanisation creates informal settlements." loading="lazy">
+  <figcaption>The costs of global production and climate change fall mostly on poorer societies.</figcaption>
+</figure>
+
 ## What explains global inequality? (3.3.3)
 
 - **Marxist views of capitalist exploitation:** global capitalism moves wealth from poorer to richer
@@ -135,6 +165,11 @@ welfare and NGO programmes operate; critics show inequality between rich and poo
   leaving lasting disadvantage.
 - **Feminist ideas of patriarchy:** women do much of the world's work but own a small share of its
   property and are more likely to be poor; globalisation may increase exploitation of women's labour.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-sociology-reducing-inequality-and-globalisation--07-explaining-global-inequality.webp" width="900" height="613" alt="Arrows carry cheap labour, raw materials and profit from poorer to richer countries, the Marxist view of capitalist exploitation. Colonialism extracted resources and shaped economies around exports. Feminists add that women do much of the world’s work but own a small share of its property." loading="lazy">
+  <figcaption>Marxist, colonial and feminist explanations all show wealth moving away from the poor.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

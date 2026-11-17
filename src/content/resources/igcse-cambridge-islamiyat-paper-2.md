@@ -42,6 +42,11 @@ note that its question is usually set in more than one part and
 requires an essay-length answer. Candidates should be ready to answer
 in depth on any of the four topics, not just their strongest one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--01-paper-2-structure.webp" width="900" height="676" alt="Question 1 on the Hadith passages (8 marks) and Question 2 on the history of the Hadiths (14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the Rightly Guided Caliphs and the Articles of Faith and Pillars, at 14 marks each. The paper lasts 1 hour 30 minutes and is worth 50 marks." loading="lazy">
+  <figcaption>Two compulsory questions, then two chosen from three: 8 + 14 + 14 + 14 = 50 marks.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE ISLAMIYAT (0493) — PAPER 2**
@@ -79,6 +84,11 @@ passages for 2.1. Treating the four topics as connected, rather than
 four separate units to revise in isolation, makes both recall and
 the "explain the importance of" style questions more manageable.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--02-how-the-topics-connect.webp" width="900" height="594" alt="Four topic boxes. A two-way link joins 2.1 (Hadith passages) and 2.4 (Articles and Pillars), because the passages refer to the Articles and Pillars. An arrow from 2.2 (history of the Hadiths) to 2.3 (the Caliphs) notes that the same isnad tradition recorded the Caliphs' rule." loading="lazy">
+  <figcaption>Links between topics make recall and &quot;explain the importance&quot; answers easier.</figcaption>
+</figure>
+
 ## How to approach it
 
 Paper 2's four topics reward candidates who can move between
@@ -107,6 +117,16 @@ able to answer confidently on at least three of the four topics
 above -- relying on only two leaves no room if one of those two
 topics is examined in a way that does not suit a candidate's
 preparation that year.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--03-topic-tips.webp" width="900" height="624" alt="A banner says every answer should move from knowledge to significance. Below, one tip per topic: study the 2.1 passages in Arabic and English; in 2.2 link Hadiths to the Qur'an, ijma' and qiyas; in 2.3 cover only the Caliphs' rule after the Prophet's death; in 2.4 describe each Pillar as what, how and why." loading="lazy">
+  <figcaption>Knowledge plus significance, with one specific habit per topic.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-islamiyat-paper-2--04-caliphs-timeframe.webp" width="900" height="340" alt="A time arrow split at the death of the Prophet (pbuh). Before it, the Caliphs' lives during his lifetime belong to Paper 1; after it, their period of rule belongs to Paper 2 topic 2.3." loading="lazy">
+  <figcaption>Keep the two timeframes separate when revising.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -82,6 +82,11 @@ Two traps: plant cells have mitochondria as well as chloroplasts, because plants
 - No nucleus and a plasmid are features of prokaryotes.
 - So it is a **bacterial cell**, because it has no nucleus and its DNA includes a plasmid.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--01-animal-plant-bacterial-cells.webp" width="900" height="930" alt="Labelled animal cell with membrane, cytoplasm, nucleus, mitochondria and ribosomes. Plant cell adds a cellulose cell wall, chloroplasts and a large permanent vacuole. Bacterial cell has no nucleus: circular DNA and plasmids lie in the cytoplasm, with ribosomes, a cell membrane, a cell wall, and in some a capsule and flagellum." loading="lazy">
+  <figcaption>Plant cells add a wall, chloroplasts and a vacuole; bacteria have no nucleus.</figcaption>
+</figure>
+
 ## Microscopy and magnification
 
 ### Light and electron microscopes
@@ -155,6 +160,26 @@ A scale bar stays correct if the picture is resized; a printed "×500" does not.
 
 **Answer.** 0.5 mm = 500 µm. Width ≈ 500 ÷ 10 = **50 µm**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--02-microscope-magnification.webp" width="900" height="820" alt="A light microscope with a ×10 eyepiece lens, a ×40 objective lens, a slide on the stage, a focusing knob and a light source below. Total magnification is 10 × 40 = ×400. Beside it, low resolution shows two close points as one blur and high resolution shows them as two separate points." loading="lazy">
+  <figcaption>Total magnification = eyepiece × objective; more magnification does not mean more detail.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--03-units-and-sizes.webp" width="900" height="700" alt="Millimetres convert to micrometres and micrometres to nanometres by multiplying by 1000, and back by dividing by 1000. A ten-times scale places an electron microscope’s resolution under 1 nm, a light microscope’s at about 200 nm, a mitochondrion at about 1 µm, a bacterium at 1–5 µm and an animal cell at 10–30 µm." loading="lazy">
+  <figcaption>Each unit step is ×1000; put both sizes in the same unit before dividing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--04-magnification-triangle.webp" width="900" height="560" alt="A formula triangle with image size on top and actual size times magnification below. A worked example converts a 30 mm drawing to 30 000 µm, divides by the 60 µm actual size and gets ×500, written with no unit." loading="lazy">
+  <figcaption>Convert to the same unit, divide image by actual, and write the answer as ×500.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--05-scale-bar.webp" width="900" height="500" alt="A micrograph of a plant cell that measures 42 mm, with a 50 µm scale bar that measures 25 mm. The bar gives 25 000 µm ÷ 50 µm = ×500, so the cell is 42 000 µm ÷ 500 = 84 µm long." loading="lazy">
+  <figcaption>Use the scale bar to find the magnification, then use it to find real sizes.</figcaption>
+</figure>
+
 ## Specialised cells
 
 Cells in a multicellular organism **differentiate**: they develop features that suit one job. The pattern in every answer is *feature → how it helps*.
@@ -175,6 +200,11 @@ Cells in a multicellular organism **differentiate**: they develop features that 
 
 **Answer.** The root hair is a long, thin extension of the cell [feature]. This gives a large surface area [effect], so the cell can absorb more water and mineral ions from the soil [link to function].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--06-specialised-cells.webp" width="900" height="840" alt="Seven specialised cells, each with its key features: red blood cell, neurone, sperm cell, ciliated cell, root hair cell, palisade cell and guard cells. A final card gives the answer pattern: feature, then its effect, then the link to function." loading="lazy">
+  <figcaption>Each specialised cell has features that suit one job; always link feature to function.</figcaption>
+</figure>
+
 ## Levels of organisation
 
 ```
@@ -187,6 +217,11 @@ cell → tissue → organ → organ system → organism
 - **Organism:** a whole living thing.
 
 Plants have the same levels: a leaf is an organ, and xylem and phloem form a transport system. Single-celled organisms, such as bacteria and yeast, have no tissues or organs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--07-levels-of-organisation.webp" width="900" height="760" alt="Five levels from smallest to largest: a muscle cell; muscle tissue of similar cells; the stomach, an organ made of muscle, glandular and lining tissues; the digestive system of stomach, intestines, liver and pancreas; and the whole organism." loading="lazy">
+  <figcaption>Cells make tissues, tissues make organs, organs make systems, systems make an organism.</figcaption>
+</figure>
 
 ## Classification of organisms
 
@@ -229,6 +264,11 @@ Carl Linnaeus, in the 18th century, set up the two-part naming system still used
 ### Dichotomous keys
 
 A dichotomous key asks a series of questions, each with two answers, until you reach one name. Good keys use features you can see and measure ("wings present or absent"), not vague ones ("large or small"). Designing a key for a set of organisms is a useful criterion B skill, because you must choose features that separate every organism.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cells-and-organisms--08-classification-binomial.webp" width="900" height="700" alt="Left: the eight ranks from domain, kingdom, phylum, class, order, family and genus down to species. Right: family Felidae splits into genus Panthera, holding the lion Panthera leo and tiger Panthera tigris, and genus Felis, holding the domestic cat Felis catus. In a binomial name the genus has a capital letter and the species is lower case, in italics." loading="lazy">
+  <figcaption>Organisms that share a genus are more closely related than those that share only a family.</figcaption>
+</figure>
 
 ## Links to MYP concepts and contexts
 

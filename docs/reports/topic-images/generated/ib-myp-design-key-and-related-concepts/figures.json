@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-myp-design-key-and-related-concepts--01-topic-vs-concept.webp",
+  "width": 900,
+  "height": 548,
+  "after": "## Why MYP Design uses concepts",
+  "alt": "“Chairs” is a topic tied to one kind of product. “Ergonomics” is a concept that applies to chairs, keyboards, door handles and phone apps alike, so what you learn transfers to the next project.",
+  "caption": "Concepts travel between projects; topics do not.",
+  "bytes": 74396
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--02-four-key-concepts.webp",
+  "width": 900,
+  "height": 625,
+  "after": "## The four key concepts",
+  "alt": "Four cards. Communication: the product communicates with its user and the designer communicates through the folder. Communities: design for groups and ask who is left out. Development: a product changes over generations, and your own solution develops from sketch to prototype. Systems: parts work together as input, process and output, often with feedback.",
+  "caption": "Each key concept prompts a different question about a design.",
+  "bytes": 134354
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--03-systems-watering.webp",
+  "width": 900,
+  "height": 565,
+  "after": "## The four key concepts",
+  "alt": "A plant-watering system: the input is a soil moisture sensor reading, a microcontroller compares it with a set level, and the output opens a valve so water flows. Feedback: as the reading rises the valve closes. A flat sensor battery would stop the whole system.",
+  "caption": "Describe a system as input, process and output, then trace the feedback.",
+  "bytes": 74330
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--04-percentiles-reach-clearance.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## The four related concepts",
+  "alt": "A bell-shaped distribution of a body measurement with the 5th and 95th percentiles marked and the middle 90% of users shaded. Reach problems such as a shelf use the 5th percentile, clearance problems such as a doorway use the 95th, and adjustable products cover the full range. Designing for the 50th percentile fits almost no one well.",
+  "caption": "Reach: design for the small user. Clearance: design for the large user.",
+  "bytes": 88012
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--05-stool-worked-example.webp",
+  "width": 900,
+  "height": 605,
+  "after": "## The four related concepts",
+  "alt": "An adjustable stool set from fictional popliteal heights of 380 mm (5th percentile) and 460 mm (95th), plus 25 mm for shoes: it adjusts from 405 mm to 485 mm, a travel of 80 mm. A handle is a clearance problem: the 95th-percentile hand breadth of 88 mm plus a 10 mm allowance gives a 98 mm grip.",
+  "caption": "Add allowances to the percentile values to turn body data into design sizes.",
+  "bytes": 72088
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--06-adaptation-and-innovation.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## The four related concepts",
+  "alt": "Adaptation examples, each from original to new need to change: plant burrs to hook-and-loop fastening, standard cutlery to thick soft handles for limited grip, and a website rearranging for a small screen. Invention creates something new that may never be adopted; innovation puts a new idea into successful use, either incrementally (a suitcase gains wheels) or radically (touchscreens replace keypads).",
+  "caption": "Adaptation reworks an existing design; innovation is a new idea that gets used.",
+  "bytes": 111702
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--07-statement-of-inquiry.webp",
+  "width": 900,
+  "height": 745,
+  "after": "## Statements of inquiry",
+  "alt": "For a lunch-queue unit, the key concept systems, related concepts ergonomics and sustainability, and the global context globalization and sustainability combine into a statement of inquiry. “We will design a better lunch queue” is weak; “Systems designed around how people actually move and wait use space, time and resources more efficiently” is stronger and transfers to other settings.",
+  "caption": "One sentence that links the concepts and context and would hold for other products.",
+  "bytes": 120484
+ },
+ {
+  "file": "ib-myp-design-key-and-related-concepts--08-inquiry-question-types.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Inquiry questions",
+  "alt": "Three question types for a seating unit: factual questions have a checkable answer, such as a 95th-percentile hand breadth; conceptual questions ask how ideas connect, such as how ergonomic data changes who can use a product; debatable questions invite disagreement, such as whether a public bench should prioritise comfort. A debatable question must be arguable both ways with evidence.",
+  "caption": "Write two or three of each type: factual for research, conceptual and debatable for depth.",
+  "bytes": 119444
+ }
+]

@@ -59,6 +59,16 @@ The syllabus defines an **issue** as "an important subject or problem for discus
 **Worked example (Individual Report-style paragraph)**
 > Rising energy costs are a global issue because most countries still burn fossil fuels for electricity, so a change in world fuel prices reaches households in many places at once [knowledge]. In the fictional town of Carrowmere, a class survey found that 40 of 50 households said their bills had risen in the last year [application]. This links the global price change to a local consequence: families on low incomes spend a larger share of their money on energy, so they are hit hardest [analysis]. However, a class survey of 50 households is too small to represent the whole town, so this finding needs support from official data [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--01-energy-issues-by-level.webp" width="900" height="667" alt="Three stacked cards narrow the topic: globally, how fast to cut emissions and who pays, with the Paris Agreement aim of well below 2°C and 1.5°C; nationally, how to produce electricity from coal, gas, nuclear, hydro, solar or wind; locally, rising bills, a new mine or wind farm, or a school wasting electricity." loading="lazy">
+  <figcaption>Turn a broad topic into a specific problem at global, national and local level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--02-key-terms.webp" width="900" height="509" alt="Paired definitions: mitigation reduces the causes of climate change while adaptation copes with its effects, such as flood defences; renewable resources such as wind and sunlight are replaced naturally while coal, oil and gas run out. Energy security is reliable, affordable energy without depending too much on others." loading="lazy">
+  <figcaption>Mitigation tackles causes; adaptation copes with effects.</figcaption>
+</figure>
+
 ## Perspectives on the issues
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". A perspective is not just an opinion. It has reasons behind it. In this topic, perspectives often differ because people face different costs and risks.
@@ -73,6 +83,16 @@ The syllabus defines a **perspective** as "a viewpoint on an issue based on evid
 **Worked example (perspective paragraph)**
 > A coal-mining region and a small island state may both accept that the climate is warming, yet reach different views on how fast to act [knowledge]. For the mining region, a fast closure means lost jobs now [application]. For the island state, slow action risks the loss of homes later [application]. The difference comes from who carries the cost and when, not from a dispute about the science [analysis]. You might judge the island state's case more urgent because its losses could not be reversed, but the mining region's concern about jobs is a real cost that any fair plan must address [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--03-how-fast-to-act.webp" width="900" height="698" alt="A spectrum from strong, fast cuts to stressing the cost of fast change. Low-lying island states sit at the fast end because rising seas threaten their land; many developing countries argue those who industrialised first should do more; oil, gas and coal earners stress lost jobs and income. The views differ because of who carries the cost and when." loading="lazy">
+  <figcaption>Perspectives on climate action often differ over who pays and when, not over the science.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--04-germany-nuclear.webp" width="900" height="685" alt="A balance weighs Germany’s closure of its last three nuclear power stations on 15 April 2023. Supporters pointed to safety and waste risks; critics argued nuclear is low-carbon and closure could mean burning more fossil fuel. The evaluation asks about each side’s evidence, reasoning and vested interest." loading="lazy">
+  <figcaption>People within one country can disagree about the same energy decision.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The syllabus asks you to analyse causes and consequences in depth. Analysis means showing **links**, not listing points. Build chains.
@@ -84,6 +104,16 @@ Show that the same cause has **different consequences for different people**. A 
 
 **Worked example (cause-and-consequence paragraph)**
 > One cause of the shift to electric cars is the global aim to cut transport emissions [knowledge]. This raises demand for battery metals such as lithium, so new mines open in countries that hold the deposits [application]. A consequence is that a global solution can create a local problem: mines may compete with farmers for water [analysis]. The size of this problem depends on the mining method and the local climate, so you would need evidence from the specific place before judging it [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--05-cooling-feedback-loop.webp" width="900" height="567" alt="A loop of five stages: hotter summers lead to more demand for air conditioning, higher electricity use, more emissions if the power comes from fossil fuels, a stronger greenhouse effect, and hotter summers again." loading="lazy">
+  <figcaption>In a feedback loop, a consequence feeds back to strengthen its own cause.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--06-drought-consequences.webp" width="900" height="450" alt="A drought branches into three consequences: food prices rise for city families, farmers’ income is cut, and hydro-power dams produce less." loading="lazy">
+  <figcaption>The same cause falls differently on different groups.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -107,6 +137,11 @@ Component 1 names eight terms you should understand. Apply each one to climate a
 **Worked example (evaluating a source)**
 > A fictional energy company's leaflet claims its new gas plant is "clean and green" [knowledge]. The company has a vested interest, because it profits if the plant is approved [application]. The phrase "clean and green" is emotive language rather than data, and the leaflet gives no emissions figures to compare with other sources [analysis]. So the claim is weakly supported. It would be stronger if it were backed by independent measurements [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--07-clean-and-green.webp" width="900" height="524" alt="Two sources compared. A fictional energy company leaflet calls its gas plant clean and green but has a vested interest, uses emotive language and gives no emissions figures. IPCC reports summarise many reviewed studies but give projections as ranges. Below, a five-point reliability checklist." loading="lazy">
+  <figcaption>Even a reliable source has limits; a weak one needs independent support.</figcaption>
+</figure>
+
 ## Courses of action
 
 You must assess possible courses of action and explain your judgement. Use clear criteria:
@@ -120,6 +155,11 @@ Actions work at different levels. **Global:** agreements such as the Paris Agree
 
 **Worked example (judging an action)**
 > A national subsidy for rooftop solar panels cuts emissions from homes that take it up [knowledge]. However, in a fictional city where wealthier districts install most panels, poorer families still pay the full price for grid power [application]. The subsidy may therefore widen the gap between rich and poor while still lowering total emissions [analysis]. A targeted subsidy for low-income households would be fairer, but it costs more per panel installed, so the best choice depends on whether the government values speed or fairness more [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-climate-change-energy-and-resources--08-actions-and-trade-offs.webp" width="900" height="702" alt="Three columns of actions: globally the Paris Agreement and the COP27 loss and damage fund; nationally carbon taxes, renewable subsidies and building codes; locally community solar, insulation and school energy audits. Below, a general rooftop solar subsidy cuts emissions but mainly helps wealthier districts, while a targeted subsidy is fairer but costs more per panel." loading="lazy">
+  <figcaption>Choosing an action means deciding which criterion matters most.</figcaption>
+</figure>
 
 ## Using this topic in the Individual Report
 

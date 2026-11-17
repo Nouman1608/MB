@@ -51,6 +51,11 @@ The syllabus does not publish how the eight marks divide. On this site's practic
 working convention of **up to 4 for task and communication** and **up to 4 for language**. That is our
 practice convention, not Cambridge's scheme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--01-exercise-at-a-glance.webp" width="900" height="706" alt="Exercise 5 is worth 8 marks: about 120 words, such as an email, written in response to prompts or pictures for a set purpose, format and audience. All five writing objectives, W1 to W5, are tested." loading="lazy">
+  <figcaption>A short functional text: purpose, format and audience are set for you.</figcaption>
+</figure>
+
 ## Decoding the task: purpose, format, audience
 
 Before writing a word, answer three questions from the task:
@@ -65,6 +70,11 @@ Then count the **prompts**. Each bullet point in the stimulus is content you mus
 costs content marks however good the rest of the piece is. If the stimulus includes **pictures**, they
 suggest what to write about (for example, a picture of a park and a bicycle might stand for "where we
 went" and "how we got there"); use them rather than ignoring them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--02-purpose-format-audience.webp" width="900" height="810" alt="Three columns: purpose (such as دعوت دینا, شکریہ ادا کرنا, شکایت کرنا) decides the content; format (ای میل, خط, پیغام) decides opening, closing and layout; audience (دوست to پرنسپل) decides the register. Every prompt must then be covered." loading="lazy">
+  <figcaption>Purpose sets the content, format the layout, audience the register.</figcaption>
+</figure>
 
 ## Register: تم or آپ, and keeping to it
 
@@ -87,6 +97,16 @@ against it: تم takes forms such as **ہو، کرو، آؤ، تمہارا**; آ
 **Gender in your own verbs.** You are the writer, so your verbs agree with you: a boy writes **لکھ رہا
 ہوں**, a girl **لکھ رہی ہوں**. Keep this consistent from opening to signature.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--03-register-table.webp" width="900" height="911" alt="A table of informal and formal Urdu letter and email phrases: address تم or آپ, openings پیارے احمد، or محترم پرنسپل صاحب، greetings, requests, thanks, closing lines and sign-offs such as تمہارا دوست، or والسلام،." loading="lazy">
+  <figcaption>The audience decides the register, from the first word to the sign-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--04-keeping-the-register.webp" width="900" height="714" alt="Informal تم takes forms such as ہو، کرو، آؤ، تمہارا; formal آپ takes ہیں، کیجیے، آئیے، آپ کا. Mixing them, as in آپ آؤ, is the commonest error; آپ آئیے is correct. A boy writes لکھ رہا ہوں and a girl لکھ رہی ہوں." loading="lazy">
+  <figcaption>Choose تم or آپ once, then check every verb against it.</figcaption>
+</figure>
+
 ## Planning 120 words
 
 120 words is short. A simple plan stops you spending 80 words on the first prompt.
@@ -105,6 +125,11 @@ into communication and naturally adds connectives (کیونکہ، اس لیے، 
 **Tense range** comes from the prompts themselves: "what happened" invites the past, "what you do now"
 the present, and "invite" or "plan" the future or a conditional (اگر… تو…). Using all three where the
 prompts allow is the easiest way to show W3 range.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--05-planning-120-words.webp" width="900" height="644" alt="A word budget for about 120 words: 10-15 for the opening and greeting, about 30 for each of three prompts, and 10-15 for the closing and sign-off. Each prompt paragraph gives a statement, a detail or reason, and a feeling or comment, and the prompts invite past, present and future or conditional (اگر… تو…)." loading="lazy">
+  <figcaption>About 30 words per prompt, each with a statement, a reason and a comment.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -145,6 +170,11 @@ prompts allow is the easiest way to show W3 range.
 - **Format:** a greeting, an opening line that states why he is writing, a closing request and a
   sign-off.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--06-email-layout.webp" width="900" height="1060" alt="The model email to Salman laid out part by part: opening پیارے سلمان، and a greeting, three short paragraphs for the three prompts (the photography club, last week's trip to the old fort, and the invitation to the exhibition), a closing request جلدی جواب دینا۔ and the sign-off تمہارا دوست، بلال." loading="lazy">
+  <figcaption>Greeting, one paragraph per prompt, closing line, sign-off: all in the تم register.</figcaption>
+</figure>
+
 ## Common mistakes
 
 1. **Missing a prompt**, often the last one, written in a hurry.
@@ -172,6 +202,11 @@ A final check that takes under two minutes:
 - your own verbs agree with your gender?
 - نے with every transitive verb in a completed past tense?
 - adjectives and verbs agree with their nouns?
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-5-writing-exercise--07-timing-and-check.webp" width="900" height="866" alt="A 15-minute plan: 2 minutes to plan, 10 to write and 3 to check, followed by a six-point checklist on prompts, register, format, gender agreement, نے and noun agreement. Below, نیا کتاب is corrected to نئی کتاب and میں نے کتاب خریدا to میں نے کتاب خریدی." loading="lazy">
+  <figcaption>Plan briefly, write, then check prompts, register and agreement.</figcaption>
+</figure>
 
 ## Where to go next
 

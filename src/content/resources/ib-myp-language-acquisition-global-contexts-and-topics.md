@@ -69,6 +69,16 @@ A global context is a lens. A topic is what you actually talk about. One topic c
 
 Notice the overlap. "Tourism" fits orientation in space and time (journeys), globalization and sustainability (impact on places) and fairness and development (who benefits). Your bank for tourism can be reused in all three. That is the point: you do not need six separate vocabularies, you need well-built banks that you can angle towards different contexts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--01-six-contexts-topics.webp" width="900" height="605" alt="Six cards, one per global context, with example topics: friendship and online life; moving house and travel; music, festivals and hobbies; phones, social media and online learning; food waste, recycling and tourism; access to education, volunteering and fair trade." loading="lazy">
+  <figcaption>A context is a lens; topics are what you actually talk about.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--02-one-topic-several-lenses.webp" width="900" height="700" alt="Tourism sits at the centre with arrows to three contexts: orientation in space and time (journeys), globalization and sustainability (impact on places) and fairness and development (who benefits). One word bank can be angled towards each." loading="lazy">
+  <figcaption>Build a bank once and angle it towards different contexts.</figcaption>
+</figure>
+
 ## Building a thematic word bank
 
 A list of twenty nouns will not carry you through a speaking exam. A useful bank has five layers.
@@ -104,6 +114,11 @@ Step by step:
 4. Write one true sentence of your own for each verb. Sentences you mean are easier to recall.
 5. Write the scale row last, because it uses the other five layers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--03-five-layer-word-bank.webp" width="900" height="750" alt="A word bank for food waste in six layers: core nouns (leftovers, packaging, compost), verbs in phrases (reduce waste, donate surplus food), describing words, opinion and linking phrases, chunks such as “make a difference”, and a scale row with one idea at personal, local and global level." loading="lazy">
+  <figcaption>Nouns alone will not carry you: add verbs, describers, linkers, chunks and scale.</figcaption>
+</figure>
+
 ## Receptive and productive vocabulary
 
 **Receptive** vocabulary is what you recognise when you hear or read it (Criteria A and B). **Productive** vocabulary is what you can call up and use correctly when you speak or write (Criteria C and D). Your receptive bank is always larger.
@@ -114,6 +129,11 @@ Two consequences:
 - For speaking and writing, you need depth: fewer words, but with correct gender, spelling, forms and collocations.
 
 Mark each item in your bank R (recognise) or P (produce). Test yourself both ways: target language to English checks R; English to target language checks P.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--04-receptive-productive.webp" width="900" height="695" alt="A small circle of productive vocabulary, the words you can use in speaking and writing, sits inside a larger circle of receptive vocabulary, the words you recognise in listening and reading. Listening and reading need breadth, including synonyms; speaking and writing need depth and accuracy." loading="lazy">
+  <figcaption>Your receptive bank is always bigger; practise producing to close the gap.</figcaption>
+</figure>
 
 ## Transferring a bank between skills
 
@@ -138,11 +158,21 @@ Topic: online friendships (identities and relationships). The chunk "keep in tou
 
 The same five or six chunks appear in every skill. That repetition is what moves a word from R to P.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--05-one-bank-four-skills.webp" width="900" height="740" alt="One word bank feeds all four criteria: in listening, predict words and synonyms; in reading, use word families and context and watch for false friends; in speaking, recycle chunks and move from personal to local to global; in writing, use linking phrases, precise verbs and a steady register. The chunk “keep in touch with” is used across them." loading="lazy">
+  <figcaption>The same chunks reused in every skill move from recognised to usable.</figcaption>
+</figure>
+
 ## A review routine that works
 
 Words fade if you meet them once. Space your reviews: learn a set on day 1, then review on days 2, 4, 8 and 15. Each time, test yourself from English first (productive) before you look at the list. Keep items you miss in a "tricky" column and review those more often.
 
 Before any assessed task, spend five minutes rebuilding the bank from memory for the topic you have been given.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-global-contexts-and-topics--06-spaced-review.webp" width="900" height="555" alt="A timeline from day 1 to day 15: learn a set on day 1, then review on days 2, 4, 8 and 15. Each review tests from English first and keeps missed words in a “tricky” column; before an assessed task, rebuild the topic bank from memory for five minutes." loading="lazy">
+  <figcaption>Learn on day 1, then review on days 2, 4, 8 and 15.</figcaption>
+</figure>
 
 ## Matching the bank to your level
 

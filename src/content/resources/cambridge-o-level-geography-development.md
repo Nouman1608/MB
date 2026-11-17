@@ -64,6 +64,11 @@ literacy among women; a country with modest income can have high life
 expectancy because of good primary health care. A composite index
 reduces the distortion of any one measure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--01-hdi-composite.webp" width="900" height="650" alt="Life expectancy, education and income feed into the Human Development Index, a composite value from 0 to 1. Below, two cases show why one indicator misleads: an oil-rich country with high GNP per capita but low literacy among women, and a modest-income country with high life expectancy from good primary health care." loading="lazy">
+  <figcaption>A composite index reduces the distortion of any one measure.</figcaption>
+</figure>
+
 ## Worked example 1: comparing countries with data
 
 Three illustrative countries:
@@ -81,6 +86,11 @@ quarter of P's, yet its life expectancy is only 6 years lower,
 suggesting that health care improves faster than income at middle
 levels of development."* Note the use of **calculated comparisons**
 (times as much, difference in years), not just a list of figures.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--02-comparing-countries.webp" width="900" height="790" alt="Bar charts for three illustrative countries. GNP per capita: P 45,000, Q 12,000, R 1,500 US dollars, so P is 30 times R. Life expectancy: 82, 76 and 62 years, a 20-year gap between P and R. Adult literacy: 99, 94 and 55 per cent. Q has about a quarter of P’s income but only 6 years’ lower life expectancy." loading="lazy">
+  <figcaption>Turn figures into comparisons: “30 times”, “20 years longer”.</figcaption>
+</figure>
 
 ## Inequality between and within countries
 
@@ -104,6 +114,11 @@ grew faster than the interior. Causes: investment and infrastructure
 go where markets and ports already exist, young workers migrate to the
 core, and the cycle reinforces itself. Urban–rural gaps are a
 within-country inequality too.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--03-core-periphery.webp" width="900" height="785" alt="A schematic country with a core region around the capital and a port on the coast, and a periphery of scattered rural houses. Young workers migrate from the periphery to the core. Beside it a cycle: markets and ports already exist, investment and infrastructure go there, jobs draw young workers in, and the core grows while the periphery lags. Examples: south-east versus north-east Brazil, coastal versus interior China, and urban–rural gaps." loading="lazy">
+  <figcaption>Investment follows existing markets, workers follow investment, and the gap widens.</figcaption>
+</figure>
 
 ## Sectors and employment structure
 
@@ -131,6 +146,16 @@ Data for employment structure are often shown on **pie charts,
 divided bar graphs or triangular graphs**. On a triangular graph,
 check that the three percentages you read add up to 100.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--04-why-sectors-shift.webp" width="900" height="572" alt="Three stages. Low development: most people work in the primary sector, largely subsistence farming, with little capital or technology. Industrialising: farm machinery releases labour, factory jobs pay more and TNC investment builds factories, so the secondary sector grows. High development: rising incomes create demand for services and manufacturing is automated or moved abroad, so tertiary and quaternary jobs dominate." loading="lazy">
+  <figcaption>Each shift has a cause: give it, then its effect on jobs.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-economic-development--15-sector-shift.webp" width="900" height="980" alt="Three bars with illustrative numbers. Primary jobs fall from 70 to 30 to 5 per cent, secondary peaks at 35 per cent in the middle, tertiary and quaternary together rise to 75 per cent at high development." loading="lazy">
+  <figcaption>Jobs shift from primary to secondary to tertiary and quaternary as a country develops.</figcaption>
+</figure>
+
 ## Globalisation
 
 Globalisation is the increasing **connection and interdependence** of
@@ -151,6 +176,11 @@ earnings. Negatives: low wages and poor conditions in some factories,
 profits leaving the host country, local firms out-competed, job losses
 when factories relocate, and environmental damage from production and
 transport.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--05-globalisation.webp" width="900" height="760" alt="Four drivers (transport, information and communication technology, TNCs, and trade agreements) feed into globalisation, the growing connection and interdependence of economies through trade, investment, migration and information. Positives: jobs and investment, skills and technology, cheaper goods, export earnings. Negatives: low wages in some factories, profits leaving, local firms out-competed, job losses on relocation, environmental damage." loading="lazy">
+  <figcaption>A globalisation answer needs both columns and a judgement.</figcaption>
+</figure>
 
 ## Worked example 2: building a TNC case study
 
@@ -173,6 +203,11 @@ using Toyota:
 Whichever TNC you choose, learn a headquarters location, at least two
 named overseas sites with their function, the reasons for those
 locations, and one positive and one negative impact with detail.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-development--06-tnc-toyota.webp" width="900" height="690" alt="Toyota’s headquarters and research in Toyota City, Japan, link to three overseas plants: a car plant at Burnaston near Derby and an engine plant at Deeside in North Wales (UK), and a large plant at Georgetown, Kentucky (USA). Reasons for locating abroad: inside major markets, avoiding tariffs, lower transport costs, skilled workers. Host impacts: jobs, a multiplier effect, training and exports, but decisions and profits stay in Japan." loading="lazy">
+  <figcaption>Learn a headquarters, named overseas sites, reasons, and one impact each way.</figcaption>
+</figure>
 
 ## Common mistakes
 

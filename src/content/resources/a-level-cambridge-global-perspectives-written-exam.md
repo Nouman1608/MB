@@ -49,6 +49,11 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
 [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and
 [practice questions](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--01-routes.webp" width="900" height="590" alt="Three routes: AS Level only, taking Components 1 to 3 in one series; A Level staged, with Components 1 to 3 in Year 1 and Component 4 in Year 2; or the full A Level in a single series. Component 4, the Cambridge Research Report, is worth 85 marks, half the full A Level." loading="lazy">
+  <figcaption>Component 4 is the only thing separating the full A Level from the AS.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL GLOBAL PERSPECTIVES & RESEARCH
@@ -84,6 +89,11 @@ sources is a recurring exam demand, so practise explicitly naming and
 weighing perspectives against each other as a distinct skill from
 simple comprehension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--02-critical-path.webp" width="900" height="555" alt="The four Critical Path stages: deconstruction, reconstruction, reflection, and communication and collaboration. The Written Exam uses deconstruction, reconstruction and communication, but not reflection or collaboration, since it is individual and AO2 Reflection is weighted 0%." loading="lazy">
+  <figcaption>Three stages apply in the exam: take arguments apart, rebuild perspectives, communicate clearly.</figcaption>
+</figure>
+
 ## Official syllabus
 
 Cambridge International AS & A Level Global Perspectives & Research
@@ -110,11 +120,26 @@ Look for structural weaknesses rather than disagreeing with the conclusion:
 - **Circular reasoning** — the conclusion assumed in the premises.
 - **Straw man** — misrepresenting an opposing view to defeat it easily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--03-argument-parts.webp" width="900" height="503" alt="An argument broken into the syllabus’s five parts: a conclusion supported by reasons (premises), evidence, assumptions both stated and unstated, and assertions and counter-assertions." loading="lazy">
+  <figcaption>Name the five parts first; judge them second.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--04-reasoning-flaws.webp" width="900" height="603" alt="Seven structural weaknesses: hasty generalisation, false cause (including confounding variables and reverse causation), false dichotomy, ad hominem, appeal to authority, circular reasoning and straw man, each with a one-line definition." loading="lazy">
+  <figcaption>Look for weak structure, not a conclusion you dislike.</figcaption>
+</figure>
+
 ## Evaluating evidence
 
 Judge evidence on its **provenance** (who produced it and why), **methodology** (sample size, selection, instrument, replicability), **currency**, **corroboration**, and **sufficiency** — whether it can carry the weight of the claim.
 
 Quantitative data deserves particular scrutiny: what is the baseline, what is the sample, are percentages hiding small absolute numbers, and is the comparison fair? A rise "from 2 cases to 4" is a 100% increase and almost meaningless.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--05-evaluating-evidence.webp" width="900" height="585" alt="Five tests for evidence: provenance, methodology, currency, corroboration and sufficiency. Below, a rise from 2 cases to 4 is a 100% increase but almost meaningless, showing how percentages can hide small absolute numbers." loading="lazy">
+  <figcaption>Ask whether the evidence can carry the claim, and check the numbers behind any percentage.</figcaption>
+</figure>
 
 ## Perspectives and contexts
 
@@ -145,6 +170,11 @@ Weaknesses
 ```
 
 Naming the flaw *and* explaining why it undermines the inference is what separates the top band.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-written-exam--06-worked-example.webp" width="900" height="740" alt="The argument that more education spending will raise national income rests only on a correlation. The causal arrow could run in reverse, since richer countries can afford more education, or a confounding variable such as governance, stability or infrastructure could drive both. It also oversimplifies and lacks data on timescale or size of effect." loading="lazy">
+  <figcaption>Name the flaw and show why it breaks the step from evidence to conclusion.</figcaption>
+</figure>
 
 ## Common mistakes
 

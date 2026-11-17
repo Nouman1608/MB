@@ -48,6 +48,16 @@ The single most useful habit for this topic is to ask, for any behaviour in a qu
 about the **situation** or about the **person**?" Almost every application question rewards that
 distinction.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--14-s-conformity-obedience.webp" width="900" height="800" alt="Two panels. Conformity (Asch): a group of people influences one person; social factors are group size, anonymity and task difficulty, dispositional factors are personality and expertise. Obedience (Milgram's Agency Theory): an authority figure instructs a person; factors are agency, authority, culture and proximity, with Adorno's Authoritarian Personality as a dispositional explanation." loading="lazy">
+  <figcaption>Conformity follows a majority; obedience follows an authority. They have different studies and factors.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-social-context-and-behaviour--15-s-bystander-crowd.webp" width="900" height="780" alt="Two panels. Bystander behaviour: a person in need with several bystanders; social factors are presence of others and cost of helping, dispositional factors are similarity to the victim and expertise; Piliavin's subway study. Crowd behaviour: a crowd of people; social factors are social loafing, deindividuation and culture, dispositional factors are personality and morality." loading="lazy">
+  <figcaption>Each behaviour has social (situational) and dispositional (personal) factors the lesson lists.</figcaption>
+</figure>
+
 ## Conformity: Asch in more detail
 
 Asch tested male American college students in groups where every other member was a
@@ -80,6 +90,16 @@ controlled, so the effect of each factor can be isolated. Weaknesses: the task w
 the study may lack **ecological validity**; the sample was only male American students in the
 1950s, a period when conformity may have been more valued, so the findings may not generalise; and
 participants were **deceived** about the purpose of the study.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--01-asch-line-task.webp" width="900" height="734" alt="A standard line and three comparison lines labelled A, B and C, with B the match. Four confederates give the same wrong answer before the real participant. Results: conformity on roughly a third of critical trials, about three-quarters conformed at least once, about a quarter never did. Strength and weakness cards follow." loading="lazy">
+  <figcaption>Even on an easy task, a unanimous wrong majority produced conformity on about a third of critical trials.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--02-asch-variations.webp" width="900" height="619" alt="Three schematic panels. Group size: conformity is very low with one confederate, rises sharply with two and three, then levels off. Anonymity: writing answers privately lowered conformity compared with saying them aloud. Task difficulty: making the lines more similar raised conformity. Cards add personality and expertise as dispositional factors." loading="lazy">
+  <figcaption>Bigger majorities (up to a point), public answers and harder tasks raise conformity.</figcaption>
+</figure>
 
 ## Obedience: Milgram's Agency Theory
 
@@ -114,6 +134,21 @@ Milgram-type research tended to score higher on the F-scale. A weakness is that 
 explain why whole populations, with very different upbringings, obeyed in the same historical
 situation; a social explanation fits that better.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--03-milgram-results.webp" width="900" height="510" alt="A row of 30 switches from 15 to 450 volts. All 40 participants reached at least 300 volts. Below, 40 figures with 26 coloured show that 26 of 40, 65 percent, went to the maximum 450 volts, despite obvious distress." loading="lazy">
+  <figcaption>Every participant reached 300 volts; 65% went all the way to 450.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--04-agency-theory.webp" width="900" height="576" alt="An arrow leads from the autonomous state, acting on your own conscience, to the agentic state, carrying out someone else's wishes. Cards give the four social factors: agency, authority, culture and proximity. A proximity sequence shows obedience falling with the learner in the same room, with hand-on-plate, and to around a fifth with orders by telephone." loading="lazy">
+  <figcaption>In the agentic state responsibility passes upward; authority and proximity change how far people obey.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--05-authoritarian-personality.webp" width="900" height="583" alt="Three linked stages: harsh, strict discipline and conditional love in childhood; hostility that cannot be expressed towards parents; and an adult with rigid thinking, respect for higher status and contempt for lower status. It is measured with the F-scale. Supporting evidence and a weakness follow." loading="lazy">
+  <figcaption>A harsh upbringing produces an adult who defers to authority: measured by the F-scale.</figcaption>
+</figure>
+
 ## Bystander behaviour: Piliavin's subway study
 
 Piliavin and colleagues ran a **field experiment** on New York subway trains. A confederate
@@ -138,6 +173,11 @@ drunk person seems more costly, so people helped less.
 **Evaluating Piliavin.** The natural setting gives high ecological validity, and the large number
 of trials made the findings reliable. However, passengers could not give consent or be debriefed,
 and the researchers could not control who was in each carriage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-social-influence--06-piliavin-cost-reward.webp" width="900" height="707" alt="The cane victim, who appeared ill, received spontaneous help on the great majority of trials; the drunk victim on about half. A balance weighs the cost of not helping (guilt, blame) against the cost of helping (effort, danger, embarrassment, disgust). Helping a drunk person seemed more costly. Strength and weakness cards follow." loading="lazy">
+  <figcaption>Bystanders weigh the cost of helping against the cost of not helping.</figcaption>
+</figure>
 
 ## Crowds: prosocial and antisocial behaviour
 

@@ -53,6 +53,11 @@ Cambridge Research Report (85 marks, A Level only), has its own pages:
 [revision notes](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes/) and
 [practice questions](/resources/a-level-global-perspectives-9239-component-4-cambridge-research-report-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--01-where-essay-fits.webp" width="900" height="598" alt="Components 1, 2 and 3, the Written Exam, Essay and Team Project, make up the AS Level. The Essay is worth 40 marks and is externally marked. Component 4, the Cambridge Research Report worth 85 marks, is added for the full A Level." loading="lazy">
+  <figcaption>The Essay is the AS component you do alone, on a question you choose.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE A-LEVEL GLOBAL PERSPECTIVES & RESEARCH (9239) — COMPONENT 2 ESSAY**
@@ -91,6 +96,21 @@ word-count discipline but must not give detailed advice on how a
 specific draft could be improved to meet the mark scheme, and must not
 correct or edit draft coursework directly
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--02-essay-rules.webp" width="900" height="580" alt="Six requirements: 1750 to 2000 words with a stated word count; a title phrased as a single question; globally contrasting perspectives rather than a purely local issue; a justified range of sources; a personal, supported conclusion; and full referencing with a list of sources." loading="lazy">
+  <figcaption>Get the format right first: a word-counted essay answering one global question.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--03-assessment-objectives.webp" width="900" height="512" alt="Three assessment objectives. AO1: analyse the question, build contrasting perspectives, select and justify sources, and compare and evaluate them. AO2: reflect on how other perspectives affect your own view and suggest further research. AO3: write a clear, structured, well-referenced essay." loading="lazy">
+  <figcaption>AO1 is the research and evaluation, AO2 your reflection, AO3 the writing.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--04-teacher-role.webp" width="900" height="375" alt="Teachers may lead whole-class background research and support planning, source citation and word-count discipline. They must not devise the question, give detailed advice on improving a specific draft against the mark scheme, or correct or edit drafts." loading="lazy">
+  <figcaption>The question and the drafting are yours alone.</figcaption>
+</figure>
+
 ## How to approach it
 
 Spend real time on the question before starting to research — a weak
@@ -119,6 +139,11 @@ supported view AO2 requires — an essay that ends by simply summarising
 the perspectives already given, without the candidate's own reasoned
 judgement, has not completed the task.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--05-essay-process.webp" width="900" height="759" alt="Five stages: build a genuine question with contrasting global perspectives; research while logging why each source was chosen; develop two or three perspectives from genuinely different standpoints; compare and evaluate them; and finish with a personal, supported conclusion rather than a summary." loading="lazy">
+  <figcaption>Draft to the word limit: two or three perspectives in depth, then your own judgement.</figcaption>
+</figure>
+
 ## Worked example: turning a topic into a question
 
 A candidate interested in the topic "plastic pollution" might start with
@@ -141,6 +166,11 @@ volumes and the urgency of environmental harm regardless of a country's
 development status. Both are legitimate, evidence-based positions, which
 is exactly what AO1's "globally contrasting perspectives" requirement is
 looking for.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-global-perspectives-essay--06-topic-to-question.webp" width="900" height="586" alt="The statement “plastic pollution is a global problem” is a claim, not a question. The better title asks whether developing economies should bear the same responsibility as developed ones for reducing single-use plastic, which opens two perspectives: historical responsibility and manufacturing capacity, against present-day consumption and urgency." loading="lazy">
+  <figcaption>A good title is one question that forces two evidence-based perspectives.</figcaption>
+</figure>
 
 ## Common mistakes
 

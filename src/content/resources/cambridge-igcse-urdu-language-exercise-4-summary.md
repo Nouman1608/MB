@@ -53,6 +53,11 @@ The syllabus does not publish how the ten marks divide. On this site's practice 
 convention of **up to 5 for content** (relevant points) and **up to 5 for language** (own words,
 organisation, accuracy). That split is our practice convention, not Cambridge's scheme.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--01-task-in-five-facts.webp" width="900" height="730" alt="The summary is worth 10 marks: one paragraph of no more than 100 words on the named aspect or aspects of the Exercise 3 text, in your own words. It is marked against R2 and R3 and all five writing objectives, W1 to W5." loading="lazy">
+  <figcaption>A summary is marked as writing as well as reading.</figcaption>
+</figure>
+
 ## Step 1: read the aspect, not the text
 
 The question names the aspect, for example "the problems the art faces and how it survives" or "why
@@ -64,6 +69,11 @@ Everything in the text that does not serve the aspect is irrelevant: the introdu
 history, examples, statistics that only illustrate a point, and quotations. A summary of the whole
 text, however well written, will miss marks because it spends words on content that earns none.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--02-five-steps.webp" width="900" height="650" alt="Five steps: read the aspect named in the question, collect the relevant points, put them in your own words, link them into one paragraph, and check the word count." loading="lazy">
+  <figcaption>Aspect first, then points, own words, links and the count.</figcaption>
+</figure>
+
 ## Step 2: collect the points
 
 Your Exercise 3 notes are a head start, but the summary aspect may cut across the note headings. Go
@@ -73,6 +83,11 @@ through the text and mark every sentence that answers the aspect. Then:
 - **Generalise** lists and examples: "پودینہ، دھنیا اور ٹماٹر" becomes "جلدی اگنے والی سبزیاں".
 - **Drop** quotations, but keep their point if it is relevant.
 - **Count**: for a 100-word summary on two aspects, six to eight points is typical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--03-collecting-points.webp" width="900" height="564" alt="Merge repeated points, drop background, examples and quotations, and generalise lists: پودینہ، دھنیا اور ٹماٹر becomes جلدی اگنے والی سبزیاں. Six to eight points is typical for a 100-word, two-aspect summary." loading="lazy">
+  <figcaption>Fewer, broader points: merge repeats and turn lists into one general idea.</figcaption>
+</figure>
 
 ## Step 3: put the points in your own words
 
@@ -90,6 +105,11 @@ most needs:
 
 Combining is the most powerful technique, because it saves words and shows W2 linking at the same
 time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--04-own-words.webp" width="900" height="752" alt="A table of five paraphrase techniques with Urdu examples: synonym (کمی to قلت), changing the word class, generalising (سیب، آم اور کیلے to پھل), active to passive, and combining two sentences with a connective (شدید بارش کے باعث)." loading="lazy">
+  <figcaption>Own words means no lifted phrases, not replacing every single word.</figcaption>
+</figure>
 
 ## Step 4: link the points into one paragraph
 
@@ -110,12 +130,22 @@ halves.
 add your own opinion, and do not start with "اس مضمون میں بتایا گیا ہے کہ", which spends words on
 nothing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--05-connectives.webp" width="900" height="874" alt="Connectives grouped by function: addition (اس کے علاوہ، نیز), contrast (تاہم، لیکن), cause (کیونکہ، کے باعث), result (اس لیے، لہٰذا) and sequence (پہلے، پھر، آخر میں). Contrast is highlighted as the hinge for two-aspect questions. Write in neutral third person without an empty opener." loading="lazy">
+  <figcaption>تاہم is the natural hinge between the two halves of a two-aspect summary.</figcaption>
+</figure>
+
 ## Step 5: check the count
 
 Count your words. A useful habit is to count one line of your handwriting and multiply. In Urdu,
 postpositions and helper verbs (کے لیے، ہو گیا ہے) add words quickly, so compound verbs and noun phrases
 help you stay within the limit. If you are over, cut in this order: repeated ideas, introductory
 phrases, examples, then the least important point.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--06-cutting-order.webp" width="900" height="672" alt="A narrowing list of what to cut when over the limit: repeated ideas first, then introductory phrases, then examples, and finally the least important point. Postpositions and helper verbs such as کے لیے and ہو گیا ہے add words quickly." loading="lazy">
+  <figcaption>Cut repetition and padding before you cut a point.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -144,6 +174,11 @@ task, so a limit of about 70 words).
 idiom "کھچا کھچ بھری". The opening sentence of the source, a general claim, is not summarised, and
 **تاہم** marks the turn from advantages to problems. Every point is present in one linked paragraph.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--07-worked-example.webp" width="900" height="938" alt="The six points of the bus-service summary sorted into four advantages and two problems, joined by تاہم. Below, four rewordings: کرایہ رکشے سے آدھا ہے becomes سستی, ہر دس منٹ بعد becomes تھوڑے تھوڑے وقفے سے, بڑی سڑکوں becomes مرکزی شاہراہوں, and the rush-hour crowding becomes کھچا کھچ بھری." loading="lazy">
+  <figcaption>Six points, two halves joined by تاہم, every phrase reworded.</figcaption>
+</figure>
+
 ## Common mistakes
 
 1. **Summarising the whole text** instead of the aspect named in the question.
@@ -163,6 +198,11 @@ minutes** is realistic: 4 minutes to collect points, 8 to write, 3 to count and 
 head or in brief notes, not as a full rough copy; a full draft and a fair copy rarely fit in the time.
 When checking, read the summary once for meaning (does every point answer the aspect?) and once for
 accuracy (agreement, نے, spelling).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-4-summary--08-timing.webp" width="900" height="465" alt="A 15-minute timeline: 4 minutes to collect points, 8 to write and 3 to count and check. Draft in your head or in brief notes, and check once for meaning and once for accuracy." loading="lazy">
+  <figcaption>You already know the text from Exercise 3, so most of the time goes on writing.</figcaption>
+</figure>
 
 ## Where to go next
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--01-atmosphere-layers-composition.webp",
+  "width": 900,
+  "height": 930,
+  "after": "## 6.1 Introduction to the atmosphere",
+  "alt": "Altitude profile of the atmosphere. In the troposphere, from the surface to about 12 km, temperature falls with height; in the stratosphere, up to about 50 km, it rises because ozone absorbs UV. Below, a bar shows dry air is 78% nitrogen, 21% oxygen, 0.93% argon and about 0.04% carbon dioxide.",
+  "caption": "Weather happens in the troposphere; ozone warms the stratosphere by absorbing UV.",
+  "bytes": 107258
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--02-energy-balance-greenhouse.webp",
+  "width": 900,
+  "height": 830,
+  "after": "## 6.1 Introduction to the atmosphere",
+  "alt": "Of 340 W per square metre of incoming short-wave solar radiation, 102 is reflected (albedo 0.30) and 238 is absorbed, warming the surface. The surface emits long-wave infrared; some escapes to space and some is absorbed by greenhouse gases and re-emitted in all directions, including back to the surface. This keeps the average near 15 °C rather than −18 °C.",
+  "caption": "Greenhouse gases absorb and re-emit infrared; they do not trap UV or reflect heat.",
+  "bytes": 138642
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--03-co2-equivalent.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## 6.2 Climate change -- causes and impacts",
+  "alt": "Worked example for one farm. By mass it emits 500 t of CO₂, 12 t of methane and 1.5 t of nitrous oxide. Multiplied by GWPs of 28 and 265, these become 500, 336 and 397.5 t CO₂e, a total of 1233.5 t, so methane is about 2% of the mass but 27.2% of the warming.",
+  "caption": "Convert every gas to CO₂e before adding: small masses of potent gases can dominate.",
+  "bytes": 89516
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--04-feedback-loops.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## 6.2 Climate change -- causes and impacts",
+  "alt": "Two loops. Positive ice–albedo feedback: warming melts sea ice, albedo falls from 0.60 to 0.06, absorbed energy rises from 100 to 235 W per square metre, causing more warming. Negative feedback: warming increases evaporation and low cloud, which reflects sunlight and reduces warming. A tipping point is where positive feedback shifts a system to a new state.",
+  "caption": "Positive feedback amplifies a change; negative feedback dampens it.",
+  "bytes": 129166
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--05-mitigation-adaptation.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## 6.3 Climate change -- mitigation and adaptation",
+  "alt": "A chain runs from greenhouse gas emissions to more gases in the atmosphere, an enhanced greenhouse effect and harmful impacts. Mitigation acts on the first two links by cutting emissions or removing gases; adaptation acts on the last by reducing harm. Example lists sit below each.",
+  "caption": "Mitigation tackles the cause; adaptation reduces the harm.",
+  "bytes": 132338
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--06-ozone-chemistry.webp",
+  "width": 900,
+  "height": 830,
+  "after": "## 6.4 Stratospheric ozone",
+  "alt": "Left: UV splits oxygen; oxygen atoms join O₂ to form ozone, and UV splits ozone back to O₂ and O, so the concentration is steady and UV is absorbed. Right: UV frees chlorine from CFCs; Cl reacts with ozone to form ClO and O₂, then ClO reacts with O to give back Cl. Below, a Dobson scale marks 300 DU as typical and below 220 DU as an ozone hole.",
+  "caption": "Chlorine is regenerated each cycle, so one atom destroys many thousands of ozone molecules.",
+  "bytes": 115588
+ },
+ {
+  "file": "ib-dp-ess-atmosphere-climate-change-ozone--07-ozone-vs-climate.webp",
+  "width": 900,
+  "height": 836,
+  "after": "## Common errors",
+  "alt": "Two cause-and-effect chains side by side. Ozone depletion: CFCs and halons release chlorine, which thins the ozone layer and lets more UV-B reach the surface. Climate change: CO₂, methane and nitrous oxide absorb infrared and cause warming. A timeline shows ozone agreements (Vienna 1985, Montreal 1987, Kigali 2016) and climate agreements (UNFCCC 1992, Kyoto 1997, Paris 2015).",
+  "caption": "The ozone hole lets in more UV; it does not cause global warming.",
+  "bytes": 146292
+ }
+]

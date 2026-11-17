@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--01-paper-2-weighting.webp",
+  "width": 900,
+  "height": 545,
+  "after": "## Paper 2 as the brief describes it",
+  "alt": "Bars compare raw marks, 25 for listening and 40 for reading, with a circle showing each section worth 25 percent of the final grade, 50 percent in total. Cards note the outline is identical at SL and HL and that timings, number of texts and formats come from your teacher.",
+  "caption": "Reading has more marks, but listening and reading each count for 25% of the grade.",
+  "bytes": 90940
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--02-locating-evidence.webp",
+  "width": 900,
+  "height": 860,
+  "after": "## Locating evidence",
+  "alt": "A short passage about a first week at a harbour café with By Friday highlighted as the scanned key phrase, letting me close up on my own highlighted as the answer, and dropped a tray of glasses struck through as a distractor. Four steps: underline key words, think of synonyms, scan, and read the whole sentence.",
+  "caption": "Scan for a synonym of the key words, then read one clause further for the answer.",
+  "bytes": 153064
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--03-find-the-word.webp",
+  "width": 900,
+  "height": 597,
+  "after": "## Synonyms and paraphrase",
+  "alt": "A passage about postponed parking rules with postpone highlighted and decided struck through. Three checks: match the word class, match the form, and test the word in the sentence. Below, copying the line introduced without consultation is contrasted with the paraphrase nobody asked them before the plan was made.",
+  "caption": "Match class and form, test it in the sentence, and restate ideas in your own words.",
+  "bytes": 115834
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--04-inference-chain.webp",
+  "width": 900,
+  "height": 627,
+  "after": "## Inference",
+  "alt": "A three-link chain: quotation, what it says literally, what it implies. A worked example about Sami and Samuel links quotations such as no form has ever had room for to a literal reading and then to the inference that official systems leave no space for his real name and he has given up resisting.",
+  "caption": "Quotation, literal meaning, implication: if you cannot point to the words, you have invented it.",
+  "bytes": 131554
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--05-reference-words.webp",
+  "width": 900,
+  "height": 538,
+  "after": "## Reference words",
+  "alt": "In the sentence several shopkeepers feared they would lose customers, an arrow links they back to several shopkeepers, while a dashed line to residents is marked wrong. Three steps: look before the word, find what agrees, then replace and reread.",
+  "caption": "Look back, find a match that agrees, and test it by substitution.",
+  "bytes": 82962
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--06-listening-distractors.webp",
+  "width": 900,
+  "height": 583,
+  "after": "## Listening tactics",
+  "alt": "Three cards: before the recording, read and predict; during it, take notes with symbols; and watch for distractors such as self-corrections. In a worked example, March is mentioned first but marked as only a plan by we thought, and the words but and actually lead to the answer, May.",
+  "caption": "The first thing you hear may be a distractor: listen for the words that signal a correction.",
+  "bytes": 112240
+ },
+ {
+  "file": "ib-dp-language-b-paper-2-receptive-skills--07-time-budget.webp",
+  "width": 900,
+  "height": 551,
+  "after": "## Managing time",
+  "alt": "A 50-minute bar is split into 45 minutes answering and 5 minutes checking. The formula minutes per mark equals time allowed minus checking time, divided by marks, gives 45 divided by 40, or 1.125 minutes per mark, so a 4-mark question gets 4.5 minutes.",
+  "caption": "Minutes per mark = (time − checking) ÷ marks; then spend time in proportion.",
+  "bytes": 80104
+ }
+]

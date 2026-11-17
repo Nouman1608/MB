@@ -93,6 +93,21 @@ Step 4: Biggest stage. For both designs raw materials is the largest single stag
 
 Energy is only one measure; water, emissions and waste are others. Say which you used and where the data came from.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--01-life-cycle-stages.webp" width="900" height="645" alt="Five stages in a row: raw materials, manufacture, distribution, use and end of life. Cradle-to-grave thinking looks at all five; cradle-to-cradle thinking loops end-of-life materials back to become raw materials. Designing for disassembly supports reuse, repair and recycling." loading="lazy">
+  <figcaption>Judge a product across its whole life, and design so materials can come back round.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--02-six-rs.webp" width="900" height="715" alt="Six prompts arranged in a ring: rethink a better way to meet the need, refuse unneeded parts, reduce material and energy, reuse, repair with ordinary tools, and recycle using single labelled materials. Reuse, repair and recycle are supported by designing for disassembly." loading="lazy">
+  <figcaption>Run a design through all six Rs before you settle on it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--03-lunchbox-functional-unit.webp" width="900" height="755" alt="Stacked bars of fictional life-cycle energy: a polypropylene lunchbox lasting 5 years totals 42 MJ and a stainless-steel one lasting 12 years totals 95 MJ, with raw materials the largest stage in both. Per year of use, P is 8.4 MJ and S about 7.92 MJ, so S wins only if it lasts the full 12 years." loading="lazy">
+  <figcaption>A higher total can still be the better design once you divide by how long it lasts.</figcaption>
+</figure>
+
 ## Materials choice
 
 Choose materials against three groups of criteria:
@@ -125,6 +140,11 @@ A matrix makes your reasoning visible, which is exactly what criterion A researc
 
 Timber wins narrowly. Notice what the matrix shows: if durability were weighted ×5, steel would score 39 and win (timber and HDPE 37 each). So you must **justify the weights** from your research into the client's need. The numbers do not decide for you.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--04-materials-matrix-weights.webp" width="900" height="765" alt="Stacked bars of a fictional weighted matrix for an outdoor planter. With durability weighted ×3, FSC timber scores 31 out of 40, ahead of recycled HDPE and galvanised steel on 29 each. With durability weighted ×5, steel scores 39 and wins, with timber and HDPE on 37." loading="lazy">
+  <figcaption>Change one weight and the winner changes, so the weights must be justified.</figcaption>
+</figure>
+
 ## Ergonomics
 
 Ergonomics is designing a product to fit the people who use it. Three kinds of data are used:
@@ -155,6 +175,11 @@ Step 4: A fixed 450 mm stool (50th percentile plus shoes) would leave small user
 
 Always check that the data set matches your **target audience** -- adult data will not suit a primary-school product.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--05-stool-adjustment-range.webp" width="900" height="675" alt="A millimetre scale shows fictional popliteal heights for 13 to 16 year olds (5th 380, 50th 425, 95th 470 mm). Adding 25 mm for shoes gives seat heights from 405 to 495 mm, a 90 mm adjustment range. A fixed 450 mm stool would leave small users’ feet dangling and large users’ knees raised." loading="lazy">
+  <figcaption>When one fixed size cannot fit the 5th to 95th percentile, design for adjustment.</figcaption>
+</figure>
+
 ## Inclusive design
 
 Inclusive (or universal) design aims for products that the widest possible range of people can use without special adaptation. The seven principles of universal design are a useful checklist: equitable use; flexibility in use; simple and intuitive use; perceptible information; tolerance for error; low physical effort; size and space for approach and use.
@@ -180,6 +205,11 @@ If your solution is an app, website or system, the data it collects is a design 
 
 Many countries have data-protection laws, such as the EU's General Data Protection Regulation (GDPR). In criterion A, find out whether your client's school or organisation has rules about student data. **Algorithmic bias** also matters: a system trained or tested on one group may work worse for others, so test with a varied group.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--06-data-ethics.webp" width="900" height="735" alt="Five data-ethics principles for digital design: data minimisation, informed consent asked before collecting, security such as never storing passwords as plain text, transparency and control so users can see, correct and delete their data, and no manipulative dark patterns. Also check local rules and laws such as GDPR, and test with a varied group to catch bias." loading="lazy">
+  <figcaption>The data a digital solution collects is a design decision.</figcaption>
+</figure>
+
 ## How this feeds criterion A
 
 The brief says in criterion A you analyse the need for a solution and inquire into the nature of the problem. Sustainable and ethical design gives you research questions worth asking:
@@ -200,6 +230,11 @@ The brief says in criterion D you explain how your solution will impact on the c
 - **Stronger:** "The stand uses 70% recycled aluminium and is held together with four screws, so the user can replace a broken arm instead of buying a new stand. It still needs energy to recycle at end of life."
 
 Test ergonomic claims with real users across the size range, not only yourself. For digital solutions, test with users who have different needs and report what the solution does with their data.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-sustainable-and-ethical-design--07-impact-statements.webp" width="900" height="665" alt="A weak impact statement just says “My product is eco-friendly.” A stronger one gives specific evidence (70% recycled aluminium), the effect on the user (four screws let a broken arm be replaced) and an honest limit (it still needs energy to recycle). Claims are then tested with real users." loading="lazy">
+  <figcaption>Specific evidence, a real effect on the user, and an honest limitation.</figcaption>
+</figure>
 
 ## Common errors
 

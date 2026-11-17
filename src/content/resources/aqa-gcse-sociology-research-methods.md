@@ -71,6 +71,11 @@ alone cannot, typically gathered through unstructured interviews, open-ended que
 participant observation. Many sociological studies combine both (a mixed-methods approach) to gain the
 statistical generalisability of quantitative data alongside the depth and validity of qualitative data.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--01-quantitative-qualitative.webp" width="900" height="676" alt="Two columns. Quantitative data are numerical, allow statistical comparison across large samples and come from structured questionnaires, official statistics and tally counts. Qualitative data are descriptive, capture depth and meaning and come from unstructured interviews, open answers and participant observation. Both feed into mixed methods." loading="lazy">
+  <figcaption>Numbers give comparison; words give depth; mixed methods combine them.</figcaption>
+</figure>
+
 ## Practical and ethical issues, together
 
 A method that is practically convenient is not automatically ethical, and a method that is ethically
@@ -80,17 +85,27 @@ participants changing their behaviour when they know they are being watched (the
 raises serious ethical concerns around informed consent that a researcher must weigh against the
 practical benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--02-practical-ethical.webp" width="900" height="641" alt="Two cards: practical issues are time, cost and access; ethical issues are informed consent, confidentiality and protection from harm. Covert observation passes the practical test by avoiding the observer effect but fails the ethical test on informed consent." loading="lazy">
+  <figcaption>Evaluate every method on both practical and ethical grounds.</figcaption>
+</figure>
+
 ## Sampling and pilot studies
 
 Before collecting data, researchers must decide how to select participants and often test their approach
 first. A pilot study is a small-scale trial run of the research method, carried out before the main study,
 to identify problems with question wording, timing, or procedure while they are still cheap and easy to
-fix. Sampling methods used in sociological research include random sampling (every member of the target
-population has an equal chance of selection), stratified sampling (the population is divided into
-relevant subgroups, such as age or gender, and sampled proportionally from each), and snowball sampling
-(existing participants recruit further participants from their own networks, useful for hard-to-reach
-groups). The choice of sampling method affects how representative the final sample is of the wider
+fix. The specification names four sampling methods: random sampling (every member of the target
+population has an equal chance of selection), systematic sampling (every nth name is taken from a
+list, the sampling frame), quota sampling (the researcher fills set numbers for each group, such as age
+or gender, to match the population, without needing a sampling frame) and snowball sampling (existing
+participants recruit further participants from their own networks, useful for hard-to-reach groups). The choice of sampling method affects how representative the final sample is of the wider
 population being studied, which in turn affects how confidently findings can be generalised.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--03-pilot-and-four-samples.webp" width="900" height="736" alt="A pilot study comes first to fix problems cheaply. Then four sampling methods: random, where everyone has an equal chance; systematic, taking every nth name from a list; quota, filling set numbers for each group to match the population; and snowball, where participants recruit others from their networks." loading="lazy">
+  <figcaption>How you sample decides how far you can generalise.</figcaption>
+</figure>
 
 ## Worked example: choosing a method for a given research question
 
@@ -121,6 +136,11 @@ over covert observation, trading some depth of insight for a
 stronger ethical basis.
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--04-choosing-a-method.webp" width="900" height="734" alt="Four steps for a question about informal family rules: decide the data needed (qualitative), consider access to private family life, weigh participant observation against its consent and privacy problems, then recommend semi-structured interviews with informed consent over covert observation." loading="lazy">
+  <figcaption>Link the method to the question, then justify it against an alternative.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Describing a research method without linking it to the specific sociological topic or research question
@@ -129,6 +149,11 @@ distinct and both need addressing in a full evaluation. Assuming quantitative da
 scientific" or superior to qualitative data, when each has its own strengths depending on the research
 aim. Confusing primary data (collected first-hand by the researcher) with secondary data (already
 existing, collected by someone else, such as official statistics).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-research-methods--05-primary-secondary.webp" width="900" height="504" alt="Primary data are collected first-hand by the researcher; secondary data already exist and were collected by someone else, such as official statistics. Statistics can also be official or non-official." loading="lazy">
+  <figcaption>Primary data are your own; secondary data come from someone else.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

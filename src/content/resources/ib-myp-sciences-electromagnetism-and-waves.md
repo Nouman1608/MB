@@ -60,6 +60,11 @@ You can plot a field line by moving a small compass step by step, marking where 
 
 A **permanent magnet** keeps its magnetism. An **induced magnet** is a magnetic material that becomes a magnet only while it sits in a field, which is why it is always attracted, never repelled.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--01-bar-magnet-field.webp" width="900" height="920" alt="Field lines leave the north pole of a bar magnet and curve round to the south pole without crossing, closest together at the poles where the field is strongest; compass needles line up along them. Below, unlike poles attract and like poles repel, and iron, nickel, cobalt and steel are magnetic while copper, aluminium, brass and plastic are not." loading="lazy">
+  <figcaption>Field lines run from N to S, never cross, and crowd together where the field is strongest.</figcaption>
+</figure>
+
 ## Electromagnets
 
 A current in a wire produces a magnetic field. For a straight wire the field lines are circles around the wire. The **right-hand grip rule** gives their direction: grip the wire with your right hand, thumb along the conventional current, and your fingers curl the way the field lines go. Reverse the current and the field reverses.
@@ -78,6 +83,16 @@ Soft iron magnetises strongly and loses its magnetism as soon as the current sto
 
 An electromagnet lifts 4 paperclips with 20 turns at 1.0 A, 9 clips with 40 turns at 1.0 A, and 17 clips with 40 turns at 2.0 A. Rows 1 and 2 change only the turns, so they show more turns give a stronger magnet. Rows 2 and 3 change only the current, so they show more current gives a stronger magnet. Rows 1 and 3 change two things at once, so they are not a fair test of either.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--02-wire-and-solenoid-fields.webp" width="900" height="710" alt="End-on views of a wire: current out of the page gives anticlockwise circular field lines, current into the page gives clockwise ones, by the right-hand grip rule. A solenoid wound on a soft iron core has a field like a bar magnet outside and a strong, nearly uniform field inside. More current, more turns and a soft iron core make an electromagnet stronger." loading="lazy">
+  <figcaption>Coil a current-carrying wire round soft iron and you get a magnet you can switch off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--03-electromagnet-fair-test.webp" width="900" height="600" alt="A table: 20 turns at 1.0 A lifts 4 paperclips, 40 turns at 1.0 A lifts 9, and 40 turns at 2.0 A lifts 17. Rows 1 and 2 change only the turns, showing more turns gives a stronger magnet; rows 2 and 3 change only the current, showing more current does. Rows 1 and 3 change both, so they are not a fair test." loading="lazy">
+  <figcaption>Compare only rows where one variable changes.</figcaption>
+</figure>
+
 ## The motor effect
 
 A wire carrying a current in a magnetic field feels a force. This is the **motor effect**: the wire's own field interacts with the magnet's field.
@@ -91,6 +106,16 @@ A wire carrying a current in a magnetic field feels a force. This is the **motor
 ### How a simple d.c. motor works
 
 A rectangular coil sits between two poles. Current flows one way along one side of the coil and the opposite way along the other side, so the two sides feel forces in opposite directions. That pair of forces turns the coil. A **split-ring commutator** reverses the current in the coil every half turn, so the forces keep turning the coil the same way. Brushes carry current in and out. More current, more turns or a stronger magnet make it turn faster.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--04-motor-effect.webp" width="900" height="710" alt="Fleming’s left-hand rule: first finger points along the field from N to S, second finger along the current and the thumb gives the motion, all at right angles. A wire carrying current into the page between a north pole on the left and a south pole on the right is pushed downwards. Reversing the current or field reverses the force; there is no force when the wire is parallel to the field." loading="lazy">
+  <figcaption>Field, current and force are mutually at right angles; Fleming’s left-hand rule gives the direction.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-physics-magnetism-revision-notes--04-dc-motor-commutator.webp" width="900" height="1140" alt="Three end views of a coil between N and S poles. With current flowing, forces on the two sides turn the coil anticlockwise. When the coil is vertical the gaps in the split ring are at the brushes and no current flows. After the halves swap brushes the current in each side reverses, so the coil still turns the same way." loading="lazy">
+  <figcaption>The split ring reverses the current every half turn so the coil keeps turning one way.</figcaption>
+</figure>
 
 ## Electromagnetic induction (qualitative)
 
@@ -107,6 +132,11 @@ A **generator** uses this. A coil turns in a magnetic field and slip rings and b
 
 A **transformer** has two coils on one iron core. Alternating current in the primary coil makes a changing field in the core, which induces an alternating voltage in the secondary. More turns on the secondary gives a higher output voltage (step-up); fewer gives a lower one (step-down). Steady d.c. gives an unchanging field, so a transformer does not work on d.c.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--05-electromagnetic-induction.webp" width="900" height="800" alt="A magnet and a coil joined to a centre-zero meter. Pushing the magnet in deflects the needle one way, holding it still gives zero and pulling it out deflects the needle the other way. Moving faster, a stronger magnet or more turns give a bigger induced voltage; a generator’s turning coil produces alternating current." loading="lazy">
+  <figcaption>Only a changing field induces a voltage; reverse the change and the voltage reverses.</figcaption>
+</figure>
+
 ## Wave properties
 
 A wave transfers **energy** without transferring matter. The particles of the medium only vibrate about a fixed position.
@@ -121,6 +151,11 @@ A wave transfers **energy** without transferring matter. The particles of the me
 | Frequency, f | Number of waves passing a point each second | Hz |
 | Period, T | Time for one complete wave; T = 1/f | s |
 | Wave speed, v | Distance the wave travels each second | m/s |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--06-transverse-longitudinal.webp" width="900" height="790" alt="A transverse wave drawn about a rest line, with the wavelength marked crest to crest and the amplitude from rest to trough; examples are water, rope and electromagnetic waves. Below, a longitudinal wave with compressions and rarefactions, one wavelength from compression to compression; sound is longitudinal and needs a medium." loading="lazy">
+  <figcaption>Transverse waves vibrate across the direction of travel; longitudinal waves vibrate along it.</figcaption>
+</figure>
 
 ## The wave equation v = fλ
 
@@ -178,6 +213,11 @@ glass: λ = (2.0 × 10⁸) / (5.0 × 10¹⁴) = 4.0 × 10⁻⁷ m  (400 nm)
 
 The frequency is the same in both; only speed and wavelength change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--07-reflection-refraction.webp" width="900" height="750" alt="Left: a ray reflects from a mirror with the angle of incidence equal to the angle of reflection, both measured from the normal. Right: a ray enters a glass block, slows down and bends towards the normal, then speeds up and bends away from the normal as it leaves. Frequency is unchanged, so light of 5.0 × 10¹⁴ Hz has a wavelength of 600 nm in air and 400 nm in glass." loading="lazy">
+  <figcaption>Refraction is a change of speed; the frequency never changes.</figcaption>
+</figure>
+
 ## The electromagnetic spectrum
 
 Electromagnetic (EM) waves are transverse, need no medium, and all travel at 3.0 × 10⁸ m/s in a vacuum. They transfer energy. In order of **decreasing wavelength** (and increasing frequency):
@@ -193,6 +233,11 @@ Electromagnetic (EM) waves are transverse, need no medium, and all travel at 3.0
 | Gamma rays | Killing cancer cells, sterilising medical equipment | Ionising: damages cells, can cause cancer |
 
 Higher frequency means more energy per wave, so the high-frequency end is the most harmful. Optical fibres carry signals by **total internal reflection**: light strikes the inside edge of the glass at a large angle and reflects back in.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-electromagnetism-and-waves--08-em-spectrum.webp" width="900" height="794" alt="Seven regions in order of decreasing wavelength and increasing frequency and energy: radio waves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays, each with a use and a main hazard. X-rays and gamma rays are ionising. All are transverse, need no medium and travel at 3.0 × 10⁸ m/s in a vacuum." loading="lazy">
+  <figcaption>Moving down the spectrum, wavelength falls and frequency and energy rise, so the hazard grows.</figcaption>
+</figure>
 
 ## Common errors
 

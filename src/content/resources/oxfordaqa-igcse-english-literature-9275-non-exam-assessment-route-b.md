@@ -46,6 +46,11 @@ The specification describes "one extended response"; check with your centre whet
 applies. Your teacher will explain the rules
 on supervision, drafting and feedback that your centre applies.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide--14-routeb-glance.webp" width="900" height="910" alt="Two cards. Paper 2b is an exam of 1 hour 30 minutes, worth 60 marks and 40 percent, open book, on anthology poetry and one unseen poem. The non-exam assessment is one extended response to a prose fiction text of your choice that is not on the set-text list, worth 30 marks and 20 percent. Each card has a bar showing its weighting out of 100 percent." loading="lazy">
+  <figcaption>Paper 2b is a 40% open-book exam and the non-exam assessment is 20%.</figcaption>
+</figure>
+
 ## How the NEA is marked
 
 The NEA is marked against the same three assessment objectives as the exams:
@@ -60,6 +65,11 @@ The mark scheme has six levels. Level 6 (26–30) describes convincing, critical
 exploration; Level 4 (16–20) describes clear understanding; Level 1 (1–5) describes simple, explicit
 comments that are narrative or descriptive. From Level 3 upwards, the descriptors refer to the
 **whole text**, so an essay that only covers a few chapters limits itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--02-nea-marking.webp" width="900" height="714" alt="A bar splits the NEA’s 20% into AO1 8%, AO2 8% and AO3 4%. A six-step ladder of levels shows Level 1 (1–5 marks) as simple, narrative or descriptive comments, Level 4 (16–20) as clear understanding and Level 6 (26–30) as convincing, critical analysis. From Level 3 up, the descriptors refer to the whole text." loading="lazy">
+  <figcaption>Higher levels need a whole-text, critical response, not a few chapters.</figcaption>
+</figure>
 
 ## Why the NEA is different from an exam answer
 
@@ -88,6 +98,11 @@ Your teacher will guide or confirm the choice. A good NEA text:
 Novels such as *Jane Eyre*, *Frankenstein* and *Things Fall Apart* are examples of the kind of text
 that meets the standard. Choose a text you will enjoy rereading several times.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--01-choosing-nea-text.webp" width="900" height="703" alt="Four narrowing filters for the non-exam assessment text: a substantial whole prose fiction text, not on the 9275 prescribed list, from the canon of the British Isles or seminal world literature of any period, and similar in challenge to the Paper 1 set texts. Jane Eyre, Frankenstein and Things Fall Apart are given as examples." loading="lazy">
+  <figcaption>A good NEA novel passes every filter and rewards rereading.</figcaption>
+</figure>
+
 ## Step 2: framing the task
 
 The task should ask **how** the writer presents an idea, character or relationship across the whole
@@ -100,6 +115,11 @@ text. Compare:
 | "Is the ending good?" | "How far does the ending resolve the novel's central conflict about belonging?" |
 
 A strong task has a focus, invites an argument and points you towards the writer's methods.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--03-weak-to-strong-task.webp" width="900" height="601" alt="Three weak tasks, such as “Write about the main character”, are each turned into a strong “How does the writer…” or “How far…” task about duty and desire, structure and sympathy, or the ending and belonging. A strong task has a focus, invites an argument and points to the writer’s methods." loading="lazy">
+  <figcaption>Ask how the writer presents something, so the task demands an argument.</figcaption>
+</figure>
 
 ## Step 3: building a thesis
 
@@ -129,6 +149,11 @@ Each section should include method analysis (AO2), connection to themes and cont
 argued voice (AO3). The plan also makes sure evidence comes from the beginning, middle and end of the
 novel.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--04-nea-plan-isolation.webp" width="900" height="704" alt="A thesis that isolation is both a punishment and a source of self-knowledge leads five sections spread from the beginning to the end of the novel: opening chapters, setting, relationships, turning point and ending, which echoes the opening. Every section combines method analysis (AO2), themes and context (AO1) and an argued voice (AO3), followed by a concluding judgement." loading="lazy">
+  <figcaption>A thesis, five sections from beginning to end, and all three AOs in each.</figcaption>
+</figure>
+
 ## Step 4: drafting and revising
 
 - Write a full first draft before polishing any part of it.
@@ -137,6 +162,11 @@ novel.
 - Then edit for **accuracy**: quotations checked against the text, spelling, punctuation and
   terminology.
 - Keep notes and drafts, as your centre may need them to confirm the work is your own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--05-revision-passes.webp" width="900" height="634" alt="Four steps in order: write a full first draft, revise for argument, revise for analysis, then edit for accuracy. A note says to keep notes and drafts and record sources so the work can be confirmed as your own." loading="lazy">
+  <figcaption>Fix the argument first, then the analysis, then the accuracy.</figcaption>
+</figure>
 
 ## Using context and critical views
 
@@ -166,6 +196,11 @@ sources you use, and follow any declaration your centre asks you to sign.
 Work backwards from your centre's deadline. Allow time to reread the novel with the task in mind,
 gather and organise evidence, write a plan, complete a draft, revise the argument and do a final
 accuracy check. Short, regular sessions are better than one long weekend.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b--06-work-backwards-from-deadline.webp" width="900" height="570" alt="A timeline of six stages before the centre’s deadline: reread the novel with the task in mind, gather and organise evidence, write a plan, complete a draft, revise the argument, and do a final accuracy check. An arrow shows planning backwards from the deadline." loading="lazy">
+  <figcaption>Set your dates backwards from the deadline, with time left to revise.</figcaption>
+</figure>
 
 ## Related resources
 

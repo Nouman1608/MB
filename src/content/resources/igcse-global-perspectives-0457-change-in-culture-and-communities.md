@@ -56,6 +56,11 @@ Change in culture and communities covers how the ways people live, speak, celebr
 
 Notice that many issues work at more than one level. Language decline is global, but it is felt in one family when a grandparent and grandchild no longer share a first language. Strong answers move between levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--01-language-decline-levels.webp" width="900" height="636" alt="Four rings from personal to global for language change: a grandparent and grandchild who no longer share a first language; a local language class closing; national choices about which languages schools teach; and smaller languages declining globally as a few languages spread." loading="lazy">
+  <figcaption>One issue, such as language decline, can be traced from the global level down to a single family.</figcaption>
+</figure>
+
 ## Perspectives: who sees the change differently and why
 
 The syllabus defines a **perspective** as "a viewpoint on an issue based on evidence and reasoning". A perspective is not just a feeling. It has reasons behind it.
@@ -72,6 +77,16 @@ Cultural change creates winners and losers, so perspectives differ sharply. For 
 Ask *why* each group holds its view. The usual drivers are **values** (what people think matters), **interests** (what they gain or lose) and **experience** (what they have lived through). On contested matters such as language, religion or identity, describe each perspective fairly and in its own terms. The syllabus wants you to consider perspectives "objectively and with empathy" (AO2).
 
 **Worked example (analysing a perspective).** *Knowledge:* An older resident says the closure of the town's tea house means "neighbours stop knowing each other". *Application:* This is a perspective based on a value, community contact, and on personal experience of meeting people there. *Analysis:* Her reasoning links a physical place to social ties: if the place goes, the ties weaken. *Evaluation:* The link is plausible, but she gives no evidence that people have stopped meeting elsewhere, for example online or at the new café, so her claim is reasonable but not yet supported.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--02-market-closure-hub.webp" width="900" height="660" alt="Six groups around a market closure: long-standing residents, younger residents, traders, the local council, newcomers and heritage organisations, each with their view. Below, three drivers of perspectives: values, interests and experience." loading="lazy">
+  <figcaption>Cultural change has winners and losers, so perspectives on one change differ sharply.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--03-tea-house-perspective.webp" width="900" height="543" alt="An older resident says the tea house closing means neighbours stop knowing each other. Four tagged steps analyse it: knowledge of the claim, application to a value and experience, analysis of the link between place and social ties, and evaluation that it is plausible but unsupported." loading="lazy">
+  <figcaption>Move from what is said, to why, to how the reasoning works, to how well it is supported.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -90,6 +105,16 @@ Consequences can be positive, negative or both, and they fall differently on dif
 Build **chains**, not lists. "Rents rise → long-standing families move out → fewer children attend the local language class → the class closes" shows analysis. Four separate bullet points do not.
 
 **Worked example (cause and consequence).** *Knowledge:* In a fictional village, the only bus to the nearest town has been cut. *Application:* Young people now move to the town to work. *Analysis:* As they leave, fewer people take part in the village's harvest festival, so older residents carry it alone. *Evaluation:* The bus cut is one cause, but the pull of jobs in the town would probably exist anyway, so it may speed up a change rather than create it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--04-rents-chain.webp" width="900" height="611" alt="Five common causes of cultural change (globalised media, movement of people, economic change, government policy, tourism) above a four-step chain: rents rise, long-standing families move out, fewer children attend the local language class, and the class closes. A list of separate points is contrasted with a linked chain." loading="lazy">
+  <figcaption>Linking each cause to the next consequence is what turns a list into analysis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--05-village-bus-cut.webp" width="900" height="566" alt="In a fictional village, the bus cut (dashed arrow, speeds it up) and the pull of jobs in town (solid arrow) both lead young people to move to town. Fewer people then take part in the harvest festival, and older residents carry it alone. The evaluation notes the bus cut may speed up a change rather than create it." loading="lazy">
+  <figcaption>Ask whether a cause creates a change or only speeds it up.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -119,6 +144,11 @@ Reasoning flaws to watch for in this topic: assuming old is always better (appea
 
 **Worked example (evaluating evidence).** *Knowledge:* An invented source says "A survey shows 80% of teenagers prefer global pop music to local music, so local music has no future." *Application:* The claim is a prediction based on a preference survey. *Analysis:* Preferring one kind of music does not mean rejecting the other; teenagers may enjoy both. *Evaluation:* We are not told who ran the survey, how many people answered or where, so the evidence is weak, and the conclusion goes far beyond it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--06-pop-music-survey.webp" width="900" height="715" alt="An invented source claims 80% of teenagers prefer global pop, so local music has no future. Four checks fail: unknown producer, unknown method and sample, a conclusion that does not follow, and emotive language. Four reasoning flaws are listed: appeal to tradition, appeal to novelty, false dilemma and generalisation." loading="lazy">
+  <figcaption>The conclusion goes far beyond what a preference survey can show.</figcaption>
+</figure>
+
 ## Real-world examples you could research
 
 These are accurate starting points for your own research. Remember: knowing them does not earn marks by itself. Use them to practise evaluating evidence and courses of action.
@@ -143,6 +173,11 @@ Typical courses of action in this topic:
 Judge each one against clear criteria: **effectiveness** (does it address the cause?), **feasibility** (cost, time, people), **who benefits and who loses**, **unintended consequences**, and **sustainability** (will it last once the funding or enthusiasm ends?). The syllabus notes that any topic can be considered with a focus on sustainability.
 
 **Worked example (assessing an action).** *Knowledge:* A council proposes free evening classes in a fading local dialect. *Application:* This targets one cause, the lack of chances to learn it. *Analysis:* Adults who attend may use the dialect at home, so children hear it. *Evaluation:* But if few people attend, or if the dialect is never used at work or school, the classes may record it rather than keep it alive. Combined with use in local signs and events, the action would be more likely to work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-change-in-culture-and-communities--07-dialect-classes.webp" width="900" height="744" alt="Five types of action (record, teach, share spaces, fund and protect, adapt) above an assessment of free dialect classes: the action targets the lack of chances to learn; if it works, children hear the dialect at home; the risk is that it only records the dialect; the judgement is that it works better combined with local signs and events." loading="lazy">
+  <figcaption>An action is judged by whether it tackles the cause and lasts once enthusiasm fades.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

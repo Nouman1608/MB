@@ -64,6 +64,11 @@ Everything below about materials, software, prototypes and tests is general desi
 
 The design cycle and the four criteria are the same for all three. What changes is the **evidence**, the **tools** and the **tests**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--01-three-design-types.webp" width="900" height="740" alt="Two overlapping circles: product design, a physical object such as a storage unit or lamp, and digital design, a solution on screen such as a website, app or game. The overlap is combined design, where a physical part and a digital part work together, such as a board game with a scoring app. The design cycle and criteria are the same for all three." loading="lazy">
+  <figcaption>Product, digital or combined: same criteria, different evidence, tools and tests.</figcaption>
+</figure>
+
 ## Evidence at each stage of the design cycle
 
 | Stage (criterion) | Product design evidence | Digital design evidence |
@@ -93,6 +98,11 @@ Design ideas look different too. A product designer shows annotated sketches, ca
 
 A plan in product design is usually a **sequence of making steps** with tools, materials, time and safety for each. In digital design it is a **sequence of build steps**: set up the file structure, build the page template, add content, add interactions, test on devices. Both need you to record changes to the plan and give a reason for each.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--02-evidence-by-stage.webp" width="900" height="705" alt="For each criterion, product and digital evidence side by side. A: research into materials and body sizes versus devices and accessibility. B: specification with sizes and materials plus sketches and CAD versus platform and load time plus wireframes and site maps. C: cutting list and build photos versus file structure and version saves. D: load and durability tests versus usability and device tests." loading="lazy">
+  <figcaption>The stages are the same; what counts as evidence depends on the type.</figcaption>
+</figure>
+
 ## Prototyping in each type
 
 A prototype does not need to be the finished, polished product. It must be **sufficient for testing and evaluation** -- enough to measure it against your specification.
@@ -114,6 +124,11 @@ Model width  = 350 ÷ 5 = 70 mm
 ```
 
 The model lets you test proportions with your client, but not strength: card at 1:5 tells you nothing about how full-size plywood carries a load.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--03-prototype-fidelity.webp" width="900" height="740" alt="A scale from low to high fidelity. Product prototypes range from card, foam or scale models to full-size prototypes in real materials or 3D prints; digital prototypes range from paper prototypes and static wireframes to clickable mock-ups and working builds. A 1:5 card model of a 900 by 350 mm stand is 180 by 70 mm: it tests proportions but not strength." loading="lazy">
+  <figcaption>Choose the lowest fidelity that can still run the test you need.</figcaption>
+</figure>
 
 ## Testing in each type
 
@@ -153,6 +168,16 @@ Estimated safe load ≈ 6 + 2 × (0.9 ÷ 1.3) ≈ 7.4 kg
 
 So the spec is not met. Improvements could include a thicker board, a bracket nearer the centre, or a stiffer material -- and you would test again.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--04-usability-results.webp" width="900" height="605" alt="Dot plot of eight users’ times to find a timetable page, from 9 to 31 seconds, against a 20-second target. The mean is 17.0 seconds, but only 6 of 8 users (75%) were under 20 seconds, while the specification needed at least 90%, so the point is not met." loading="lazy">
+  <figcaption>Check the proportion the specification asks for, not just the mean.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--05-load-test-results.webp" width="900" height="715" alt="Line graph of shelf sag against load: 0.6 mm at 2 kg, 1.3 at 4 kg, 2.1 at 6 kg and 3.4 at 8 kg, with a 3 mm limit. Assuming a steady rise between 6 and 8 kg, the safe load is about 6 + 2 × (0.9 ÷ 1.3) ≈ 7.4 kg, so the 8 kg specification is not met." loading="lazy">
+  <figcaption>Read where the results cross the limit, then plan an improvement and a re-test.</figcaption>
+</figure>
+
 ## Worked example: a combined project
 
 Design situation (original): pupils in a primary classroom forget to water the class plants.
@@ -164,6 +189,11 @@ Design situation (original): pupils in a primary classroom forget to water the c
 
 A combined project needs **both kinds of evidence at every stage**. A common weakness is strong making evidence with thin digital evidence, or the reverse.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--06-combined-project-strands.webp" width="900" height="760" alt="A plant-watering reminder for a primary classroom runs as two strands through stages A to D: a product strand for the sensor housing (fits a 120 mm pot, survives splashes, 3D printed, splash-tested) and a digital strand for the web page (shows a “water me” picture within a minute; 9 reminders from 10 dry readings is 90%). The strands meet where the housing must leave room for the cable." loading="lazy">
+  <figcaption>Plan, build and test both the physical and the digital part.</figcaption>
+</figure>
+
 ## Related concepts across the types
 
 The brief gives adaptation, ergonomics, sustainability and innovation as examples of related concepts in MYP design. Each looks different by type:
@@ -174,6 +204,11 @@ The brief gives adaptation, ergonomics, sustainability and innovation as example
 - **Innovation:** a new combination of known parts, such as a digital reminder for an ordinary plant pot.
 
 Your unit will also sit in one of the six global contexts. For example, the plant project fits **Globalization and sustainability** if its focus is saving water, or **Identities and relationships** if its focus is pupils taking responsibility.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-product-and-digital-design--07-related-concepts-by-type.webp" width="900" height="690" alt="Ergonomics, sustainability and adaptation compared for product and digital design: fitting a handle to hand sizes versus touch targets and readable text; recyclable materials versus small files that run on older devices; adapting a product for a new user versus a layout that adapts to screen size. Innovation can combine both, as in a digital reminder for an ordinary plant pot." loading="lazy">
+  <figcaption>Each related concept shows up differently in product and digital work.</figcaption>
+</figure>
 
 ## Common errors
 

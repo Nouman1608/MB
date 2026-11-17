@@ -72,6 +72,11 @@ unit's 60 marks, short and extended-response questions) and
 **Section B Research methods** (20 marks, short questions plus a
 structured question based on data about an unseen issue).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--01-unit-1-assessment.webp" width="900" height="552" alt="Unit 1 has 60 marks: Section A on families (40 marks) and Section B on research methods (20 marks). The same research methods and theory content is examined in Unit 1 through short and structured questions and in Unit 2 through one extended response." loading="lazy">
+  <figcaption>Research methods and theory content is examined in both Units 1 and 2.</figcaption>
+</figure>
+
 ## How to approach it
 
 Families (3.1.1) is best revised by contrasting how different
@@ -130,6 +135,26 @@ centredness", and the roles of adult children -- including
 **Named sociologists for this unit:** Engels, Oakley, Parsons, Smart,
 Stacey, Therborn.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--02-family-types.webp" width="900" height="527" alt="Six cards: extended, nuclear and single-parent families; non-family living arrangements such as communes, living alone and foster care; cultural variation including Therborn’s typology; and arranged marriage, love marriage and monogamy." loading="lazy">
+  <figcaption>Family forms and marriage practices vary within and between societies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--03-family-perspectives.webp" width="900" height="449" alt="Functionalists such as Parsons study family functions and the fit of the nuclear family; Marxists such as Engels see the family serving capitalism; feminists such as Oakley study how families shape gender positions." loading="lazy">
+  <figcaption>Each perspective asks whom the family serves.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--04-family-change.webp" width="900" height="607" alt="Demographic factors such as birth and death rates, migration and ageing, together with industrialisation, urbanisation, personal life and individualisation, produce newer family types such as sandwich-generation, blended, living-apart-together, beanpole and transnational families." loading="lazy">
+  <figcaption>Demographic and social change explain the growth of family diversity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--05-gender-roles.webp" width="900" height="547" alt="Gendered roles are shown as the male breadwinner or instrumental role and the female expressive role. The triple shift combines paid work, domestic work and emotional work, alongside themes such as power, violence, child-centredness and boomerang families." loading="lazy">
+  <figcaption>The triple shift adds emotional work to paid and domestic work.</figcaption>
+</figure>
+
 ## Research methods and theory
 
 **Positivists** favour quantitative methods producing reliable,
@@ -154,6 +179,11 @@ Ethical requirements are informed consent, confidentiality, protection
 from harm, and the right to withdraw — covert observation being the
 standard case where these are contested.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--06-research-concepts.webp" width="900" height="641" alt="A grid comparing positivist methods, which are reliable and generalisable but may lack validity, with interpretivist methods, which are valid and in-depth but less reliable. Practical, ethical and theoretical factors and six sampling methods are listed beneath." loading="lazy">
+  <figcaption>Reliability and validity often trade off against each other.</figcaption>
+</figure>
+
 ## Worked example
 
 Assess the usefulness of participant observation for studying a
@@ -174,6 +204,11 @@ WEAKNESSES  not reliable -- cannot be replicated
 The conclusion should turn on purpose: for understanding meaning it is
 the strongest method available; for measuring prevalence it is the
 wrong tool.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-sociology-introducing-sociology--07-worked-example.webp" width="900" height="513" alt="Strengths of participant observation for studying a gang, such as validity, access and insight into meanings, set against weaknesses such as low reliability, small samples, going native, ethical risks and cost." loading="lazy">
+  <figcaption>Assess a method against the research aim, not in the abstract.</figcaption>
+</figure>
 
 ## Common mistakes
 

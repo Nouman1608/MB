@@ -45,6 +45,11 @@ without the conceptual framing the specification expects — the [Topic
 guide](/resources/ib-dp-ess-topic-1-foundations/)
 should be treated as a genuine prerequisite, not optional background.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--01-ecosystem-as-system.webp" width="900" height="665" alt="Trophic levels drawn as storages of decreasing size, from producers to tertiary consumers, linked by feeding transfers. Sunlight is the input and heat is lost as an output from every level. A side panel maps storages, transfers, outputs and feedback, and notes chains rarely go beyond four or five levels." loading="lazy">
+  <figcaption>Describe an ecosystem with Topic 1’s words: storages, transfers, outputs, feedback.</figcaption>
+</figure>
+
 ## Core ecology content (Marlbridge outline)
 
 The public subject brief this guide is sourced from publishes only
@@ -77,6 +82,11 @@ treatment of energy flow (such as calculating ecological efficiency
 between trophic levels) and more complex food web scenarios involving
 multiple interacting cascades.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--02-topic-2-content-map.webp" width="900" height="610" alt="Concept map of Topic 2 Ecology with four strands: ecosystem structure, energy flow, nutrient cycling and ecosystem change. Each links to a Topic 1 idea: systems storages and transfers, inputs and outputs, sustainability of cycles, and resilience after disturbance." loading="lazy">
+  <figcaption>Each ecology strand applies a Topic 1 idea.</figcaption>
+</figure>
+
 ## How to approach it
 
 The single most important distinction to hold precisely is that
@@ -99,6 +109,11 @@ practise the quantitative skills (ecological efficiency calculations)
 rather than assuming the extra HL hours are simply more descriptive
 content, since Paper 1's data-response questions can require
 calculation as well as explanation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--03-energy-flows-nutrients-cycle.webp" width="900" height="650" alt="Left: energy passes one way from the Sun to producers, consumers and decomposers, and is lost as heat at each step. Right: nutrients cycle from producers to consumers to decomposers to soil, air and water and back to producers, so matter is reused." loading="lazy">
+  <figcaption>Energy is lost as heat; matter is recycled. Never treat them as the same process.</figcaption>
+</figure>
 
 ## Worked example: tracing a trophic cascade
 
@@ -127,6 +142,11 @@ Conclusion:        because the ecosystem is a system of connected
 Explicitly using the word "system" and identifying the full cascade of
 effects, not just the single direct effect, is what distinguishes a
 strong ESS answer from a purely descriptive one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-topic-2-ecology--04-trophic-cascade.webp" width="900" height="670" alt="A top predator is removed. The direct effect is that its prey population increases without control. The indirect effect is that the prey over-consumes its own food source, depleting a resource further down the food chain." loading="lazy">
+  <figcaption>Trace the whole cascade, not just the first, direct effect.</figcaption>
+</figure>
 
 ## Common mistakes
 

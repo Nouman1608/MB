@@ -93,6 +93,16 @@ A fictional forest plot is studied for one year. Per hectare, photosynthesis tak
 
 If the forest were burned, combustion would release stored carbon quickly and photosynthesis would fall: the sink becomes a source.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--01-carbon-cycle.webp" width="900" height="835" alt="The atmosphere’s carbon dioxide exchanges with the oceans by dissolving, enters plants by photosynthesis and returns by respiration from plants, animals and decomposers and by combustion of fossil fuels. Feeding passes carbon from plants to animals, death and waste pass it to dead matter, and fossilisation turns dead matter into fossil fuels. Word equations for photosynthesis and respiration are given below." loading="lazy">
+  <figcaption>Carbon moves between stores; only its location and form change, never the total.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--02-forest-carbon-budget.webp" width="900" height="650" alt="Bar comparison for a fictional forest: 12.0 tonnes of carbon in by photosynthesis against 6.0 tonnes out by plant respiration and 5.0 by decomposers, 11.0 in total. The gap of +1.0 tonne per hectare per year makes it a sink; burning would turn it into a source." loading="lazy">
+  <figcaption>In greater than out means a carbon sink; out greater than in means a source.</figcaption>
+</figure>
+
 ## The water cycle
 
 Water moves between the oceans, the atmosphere, ice, lakes and rivers, soil water and groundwater.
@@ -118,6 +128,16 @@ A fictional river catchment receives 1,100 mm of precipitation in a year. Evapot
 
 If the catchment's forest were cleared, transpiration and interception by leaves would fall and runoff would rise, so rivers would flood more quickly after heavy rain.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--03-water-cycle.webp" width="900" height="720" alt="Cross-section from the sea to a hill. The Sun evaporates sea water and plants transpire water vapour from their leaves; the vapour cools and condenses into cloud; precipitation falls on the hill. Water runs off over the surface to the sea, infiltrates the soil and moves slowly as groundwater through permeable rock back to the sea." loading="lazy">
+  <figcaption>The Sun lifts water as vapour; gravity brings it back down and to the sea.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--04-water-budget.webp" width="900" height="540" alt="A bar of 1,100 mm of precipitation is matched by outputs of 650 mm evapotranspiration, 300 mm surface runoff and 150 mm groundwater recharge. Evapotranspiration is 59.1% of the precipitation." loading="lazy">
+  <figcaption>Inputs equal outputs plus storage change, so recharge is what is left over.</figcaption>
+</figure>
+
 ## The nitrogen cycle
 
 Nitrogen gas makes up about 78% of the air, but most organisms cannot use it directly because the triple bond in the N₂ molecule is very strong. Plants need nitrogen in the form of nitrate (or ammonium) ions to make amino acids, proteins and DNA.
@@ -139,6 +159,11 @@ A farmer grows beans in one year and wheat in the next. Explain why the wheat gr
 3. When the bean roots and stems decay, decomposers release ammonium; nitrifying bacteria convert it to nitrate.
 4. The soil now holds more nitrate, which the wheat roots absorb to make proteins, so it grows better with less added fertiliser.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--05-nitrogen-cycle.webp" width="900" height="720" alt="Nitrogen gas is fixed into ammonium by bacteria in root nodules and soil and by the Haber process; lightning forms nitrogen oxides that become nitrate. Nitrifying bacteria turn ammonium into nitrite then nitrate, which roots take up; plants make proteins and animals eat plants. Dead matter and urea are decomposed back to ammonium. Denitrifying bacteria in oxygen-poor soil return nitrate to nitrogen gas." loading="lazy">
+  <figcaption>Fixation brings nitrogen in, nitrification makes nitrate, denitrification sends it back to the air.</figcaption>
+</figure>
+
 ## The rock cycle
 
 The rock cycle is much slower than the other three. It is driven by the Earth's internal heat (melting, uplift) and by the Sun and gravity (weathering and erosion).
@@ -157,6 +182,11 @@ In a fictional lake, sediment builds up at an average of 0.3 mm per year. How lo
 3. Time = **12,000 years**.
 4. Compaction would later squeeze the layer thinner, so the final rock would be less than 3.6 m thick.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--06-rock-cycle.webp" width="900" height="750" alt="Igneous rock is weathered, eroded and transported to form sediments, which are deposited, compacted and cemented into sedimentary rock. Heat and pressure without melting turn it into metamorphic rock, which melts to magma; magma cools and crystallises into igneous rock. Intrusive granite cools slowly with large crystals; extrusive basalt cools fast with small crystals." loading="lazy">
+  <figcaption>Rocks change from one type to another, driven by Earth’s internal heat and by the Sun and gravity.</figcaption>
+</figure>
+
 ## Human impacts on the cycles
 
 | Cycle | Human activity | Effect |
@@ -170,6 +200,11 @@ In a fictional lake, sediment builds up at an average of 0.3 mm per year. How lo
 | Rock | Quarrying and mining | Speeds up removal of rock; the waste can release sediment into rivers |
 
 **Eutrophication in steps**: nitrate runs off fields → algae grow fast and cover the water surface → light cannot reach water plants, which die → decomposers break down the dead matter and use up dissolved oxygen as they respire → fish and other animals die from lack of oxygen.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-cycles--07-eutrophication.webp" width="900" height="740" alt="Five lake sections in order: nitrate from fertiliser runs off a field; algae grow fast and cover the surface; light cannot reach water plants, which die; decomposers respire as they break down dead matter and use up dissolved oxygen; fish and other animals die. An oxygen gauge falls over the last steps." loading="lazy">
+  <figcaption>The fish die from lack of oxygen used up by decomposers, not from the fertiliser itself.</figcaption>
+</figure>
 
 ## Writing a criterion D response on cycles
 

@@ -62,6 +62,16 @@ An **issue** in the syllabus is "an important subject or problem for discussion"
 | Lobbying | Trying to influence decision-makers on behalf of a group or interest |
 | Civil society | Groups outside government, such as charities, unions and campaign groups |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--01-power-authority-legitimacy.webp" width="900" height="678" alt="Three narrowing cards: power is the ability to make decisions or influence others; authority is power accepted as rightful, such as through an election; legitimacy is the belief that a government or decision has a right to be obeyed. Below, four ways people take part: participation, referendums, lobbying and civil society." loading="lazy">
+  <figcaption>Power becomes authority when people accept it as rightful.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--02-political-issues-levels.webp" width="900" height="536" alt="Three levels of political issues with real examples: globally, the veto held by the five permanent members of the UN Security Council; nationally, Australia’s compulsory voting from 1924 and Austria’s votes at 16 from 2007, with Scotland allowing 16-year-olds in some elections; locally, Porto Alegre’s participatory budgeting from 1989." loading="lazy">
+  <figcaption>Political power is contested from the UN to a city budget.</figcaption>
+</figure>
+
 ## Perspectives and why people hold them
 
 A **perspective** is "a viewpoint on an issue based on evidence and reasoning". The syllabus asks you to understand why different people hold different perspectives, not just to list them. Take one national issue: should the voting age be 16?
@@ -76,6 +86,11 @@ A **perspective** is "a viewpoint on an issue based on evidence and reasoning". 
 
 > From a national perspective in Austria, the change to voting at 16 in 2007 shows that a country can widen the vote without wider disruption [knowledge]. For my question, this matters because supporters in my own country use Austria as their main example [application]. However, Austria has its own school system and political culture, so the same change might not produce the same result elsewhere [analysis]. I therefore treat Austria as evidence that the reform is workable, but not as proof that it would raise youth turnout in every country [evaluation].
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--03-votes-at-16.webp" width="900" height="756" alt="A balance weighs votes at 16. For: 16-year-olds can work and pay tax, and early voting may build a habit. Against: less experience, possible influence from parents or teachers, and 18 as the age for other rights. Supporters stress fairness and inclusion; opponents stress maturity and consistency. Austria’s example is testable but may not transfer." loading="lazy">
+  <figcaption>The two sides often value different things, not just read evidence differently.</figcaption>
+</figure>
+
 ## Causes and consequences
 
 The Individual Report must analyse "causes of problems and the consequences/impacts of the issue". With political topics, a good habit is to link each cause to a consequence and say who is affected.
@@ -86,6 +101,11 @@ Example issue: **low turnout among young voters** in many democracies.
 - **Possible consequences:** parties may focus their promises on older groups who vote more; young people's priorities get less attention; the elected body may be seen as less legitimate.
 
 Note the word "possible". Each causal link is a **claim** that needs evidence. Saying "young people don't vote because they are lazy" is a **generalisation** and an **opinion**, not an explanation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--04-youth-turnout.webp" width="900" height="560" alt="Four possible causes of low youth turnout (feeling ignored, lapsed registration after moving, little teaching on voting, distrust of parties) lead to three possible consequences (parties focusing on older voters, youth priorities neglected, the elected body seeming less legitimate). Each link is a claim needing evidence; calling young people lazy is a generalisation and opinion." loading="lazy">
+  <figcaption>Every causal link is a claim to be tested, not a fact.</figcaption>
+</figure>
 
 ## Sources, evidence and reasoning
 
@@ -112,6 +132,11 @@ Question 2 of the Written Exam asks you to "evaluate the research or evidence an
 
 A sound plan names: the method (a before-and-after survey of residents); the sample (a large random sample, not just people at a council event); a comparison group (a similar area without participatory budgeting); the measure (a fixed trust question asked both times); and a limitation (other events between the two surveys could change trust).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--05-testing-a-claim.webp" width="900" height="702" alt="A claim that residents trust decisions more when they vote on the budget is tested by naming a method (before-and-after survey), a sample (large and random), a comparison (a similar area without participatory budgeting), a measure (the same trust question) and a limitation (other events could change trust)." loading="lazy">
+  <figcaption>A good test names method, sample, comparison, measure and limitation.</figcaption>
+</figure>
+
 ## Courses of action
 
 The syllabus wants you to consider several courses of action and judge them. For political issues, typical actions include:
@@ -127,6 +152,16 @@ Judge every action against the same criteria: effectiveness, cost, fairness, who
 **Worked example (Question 4 style paragraph)**
 
 > One course of action for low youth turnout is compulsory voting, which Australia introduced for federal elections in 1924 [knowledge]. In the sources, the council's worry is that young residents do not vote at all, and compulsion would address that directly [application]. However, compulsion raises the number of votes without necessarily raising interest, and a fine may hit students with little income [analysis]. Because the sources show the main barrier is that young people do not know how to register, an easier registration system is likely to be more effective and fairer than compulsion, although it would raise turnout more slowly [evaluation].
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--06-political-actions.webp" width="900" height="644" alt="A table of five actions with a strength and limitation: compulsory voting in Australia, votes at 16 in Austria, citizens’ initiatives and petitions in Switzerland and the UK, participatory budgeting in Porto Alegre, and Ireland’s citizens’ assemblies. Below, five criteria to judge any action." loading="lazy">
+  <figcaption>Judge every action against the same criteria.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-political-power-and-action--07-compulsion-vs-registration.webp" width="900" height="597" alt="When sources show the main barrier is not knowing how to register, compulsory voting raises votes without necessarily raising interest and may fine students with little income, while easier registration tackles the barrier directly, is fairer, but works more slowly. Team Project actions should stay non-partisan." loading="lazy">
+  <figcaption>The best action is the one that matches the barrier the evidence identifies.</figcaption>
+</figure>
 
 ## Individual Report question ideas
 

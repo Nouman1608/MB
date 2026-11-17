@@ -73,6 +73,26 @@ The specification also requires you to understand "conflict and consensus": mode
 
 **Worked paragraph:** *Knowledge:* Frank argued that satellites are underdeveloped because surplus is drained to the metropolis. *Application:* a former colony still exporting one cash crop at prices set elsewhere fits this model. *Analysis:* the problem is the structure of the relationship, not a lack of modern values, which directly challenges Rostow. *Evaluation:* however, the rise of East Asian economies through export-led growth suggests that integration can sometimes produce development, which weakens Frank's claim that links always harm the satellite.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--01-development-theories.webp" width="900" height="848" alt="A grid comparing modernisation, dependency, world systems, neoliberal and people-centred theories: why each thinks poor countries are poor, its route to development, and a key criticism." loading="lazy">
+  <figcaption>Each theory locates the cause of poverty somewhere different.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--02-rostow-stages.webp" width="900" height="667" alt="Five rising steps: traditional society, preconditions for take-off, take-off, drive to maturity, and the age of high mass consumption. Western aid and investment are meant to help societies reach take-off." loading="lazy">
+  <figcaption>Modernisation theory sees one path to development, with Western help at take-off.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--03-frank-wallerstein.webp" width="900" height="677" alt="Left: Frank’s model, with surplus flowing from four satellites to the metropolis. Right: Wallerstein’s world system as rings of core, semi-periphery and periphery, with countries able to move between them." loading="lazy">
+  <figcaption>Wallerstein adds a middle zone and mobility to Frank’s two-part model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--04-measuring-development.webp" width="900" height="504" alt="Three measures from narrow to wide: GNI per capita, which hides inequality and unpaid work; the Human Development Index, combining life expectancy, education and income; and Sen’s view of development as real freedoms." loading="lazy">
+  <figcaption>Each measure widens what counts as development.</figcaption>
+</figure>
+
 ## 2. Globalisation and relationships between societies
 
 **Key terms**
@@ -87,6 +107,11 @@ The specification also requires you to understand "conflict and consensus": mode
 **Political relationships.** International agencies and trade rules limit what governments do, but powerful states shape those agencies, so poorer states feel the limits more.
 
 **Worked paragraph:** *Knowledge:* Hirst and Thompson argue that globalisation is exaggerated. *Application:* a poor country whose economy is shaped by a few foreign buyers may still feel global forces strongly, even if rich states keep control. *Analysis:* this suggests globalisation is uneven, not absent. *Evaluation:* the transformationalist view therefore fits the evidence better than either extreme, though it is harder to test.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--05-globalisation-views.webp" width="900" height="502" alt="A spectrum from hyperglobalists (Ohmae), through transformationalists (Held and colleagues), to sceptics (Hirst and Thompson). Below, Ritzer’s McDonaldization is set against glocalisation and South-to-North cultural flows." loading="lazy">
+  <figcaption>Transformationalists take the middle view: globalisation is real but uneven.</figcaption>
+</figure>
 
 ## 3. TNCs, NGOs and international agencies
 
@@ -112,6 +137,11 @@ The specification also requires you to understand "conflict and consensus": mode
 
 **Worked paragraph:** *Knowledge:* Moyo argues aid fosters dependency. *Application:* a government receiving most of its budget from donors may answer to them rather than to its own voters. *Analysis:* this weakens accountability, a point neoliberals share. *Evaluation:* however, Collier argues that well-targeted aid can help some trapped countries, so the evidence points to the type of aid, not aid in general.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--06-aid-debate.webp" width="900" height="557" alt="Arguments that aid helps, from modernisation theory, Sachs and humanitarian relief, set against Hayter’s and Moyo’s arguments that it serves donors and breeds dependency. Collier’s four development traps are listed beneath." loading="lazy">
+  <figcaption>The debate is mainly about long-term state-to-state aid, not emergency relief.</figcaption>
+</figure>
+
 ## 5. The environment, and war and conflict
 
 **Environment.** The Brundtland Report, *Our Common Future* (1987), defined sustainable development as "development that meets the needs of the present without compromising the ability of future generations to meet their own needs". Modernisation implies rising consumption, which strains resources. Dependency theorists note that rich countries have produced most historic emissions while poorer countries often face the worst effects. Some argue that technology and green investment allow growth without damage.
@@ -120,6 +150,11 @@ The specification also requires you to understand "conflict and consensus": mode
 - *Evaluation:* critics question how "new" these wars are, since civilians have long been targets.
 
 **Worked paragraph:** *Knowledge:* the conflict trap links war and poverty. *Application:* a country whose rebel groups fund themselves through mineral exports shows the natural resource and conflict traps working together. *Analysis:* development policy that ignores security may fail. *Evaluation:* however, dependency theorists would add that global demand for those minerals, and arms supplied by richer states, are part of the cause.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-global-development--07-conflict-trap.webp" width="900" height="687" alt="A cycle in which war and conflict cause damage, damage causes poverty, and poverty raises the risk of further war. Side panels list the damage conflict does and Kaldor’s idea of &quot;new wars&quot;." loading="lazy">
+  <figcaption>War causes poverty, and poverty raises the risk of war.</figcaption>
+</figure>
 
 ## 6. Employment, education, health, demographic change and gender
 

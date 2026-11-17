@@ -46,6 +46,11 @@ Use it with the [9239 subject hub](/boards/cambridge/a-level/global-perspectives
 
 The syllabus weights Component 4 as AO1 65%, AO2 20% and AO3 15%. It lists eleven things you are assessed on, each tagged to an AO. The detailed level descriptors used by markers are not printed in the syllabus; your teacher will confirm how they are applied.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--01-marks-and-weights.webp" width="900" height="498" alt="Component 4 is worth 85 marks: a research report of up to 5000 words worth 75 and a research log worth 10. The assessment objectives are weighted AO1 65%, AO2 20% and AO3 15%. The research proposal form is also submitted but not externally marked." loading="lazy">
+  <figcaption>The report carries most of the marks, and research and evaluation carry most of the report.</figcaption>
+</figure>
+
 ## Choosing and framing the research question
 
 The syllabus asks for a topic "that engages them strongly and is of real importance to them". The report must be built around one question that allows in-depth research. The title of the report must take the form of a question. Your report should also explain how and why the question was developed: why it is worth asking, and how it changed during the research.
@@ -63,6 +68,11 @@ A good question leads straight into a debate between perspectives. The syllabus 
 
 That paragraph shows knowledge (the original question), application (the specific change), analysis (why the new wording creates a debate) and evaluation (how the conclusion will be judged). The fast-fashion paragraphs in this guide follow one invented candidate; the sources they describe are illustrative, not real publications.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--02-question-framing.webp" width="900" height="590" alt="Three versions: industrialisation is a topic, not a question; has industrialisation been environmentally damaging is a question but one-sided; is industrialisation a good thing works because it opens competing views. Below, a scale from too broad and shallow to too narrow with too little evidence, with the best fit in between." loading="lazy">
+  <figcaption>The title must be a question that opens a debate, sized to the evidence available.</figcaption>
+</figure>
+
 ## The research proposal
 
 Before you begin research, you complete a research proposal form. The syllabus says it should outline:
@@ -75,6 +85,11 @@ Before you begin research, you complete a research proposal form. The syllabus s
 You discuss the proposal with your teacher. The teacher confirms that the concepts and debate are relevant, that the question gives you scope to meet the assessment criteria, and that the research does not raise safety issues. The teacher formally approves it before you start. The form, with the teacher's comments, is sent to Cambridge with your report and log, but it is not externally marked.
 
 **Evaluation.** The proposal is not marked, so it is tempting to rush it. That is a mistake. A weak proposal often leads to a weak question, and the question shapes every later mark.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--03-research-proposal.webp" width="900" height="468" alt="The research proposal form sets out the research question, key concepts, an outline of the debate and example sources. The teacher checks relevance, scope and safety and formally approves it. It is sent to Cambridge but not externally marked." loading="lazy">
+  <figcaption>The unmarked proposal shapes the question, and the question shapes every mark.</figcaption>
+</figure>
 
 ## Perspectives, evidence and the literature review
 
@@ -91,6 +106,11 @@ The syllabus says you should "explore the strengths and potential weaknesses of 
 **Evaluation.** Secondary sources give you expert depth quickly, but they can share hidden assumptions, and a review built from one type of source (for example, only campaign groups) will be lopsided. Primary evidence lets you test a claim yourself, but a small, local sample rarely supports a general conclusion.
 
 **Worked paragraph (main body).** "Industry reports argue that limiting production would cost jobs in garment-exporting countries. Their evidence is employment data, which is relevant, but the reports are written for trade bodies, so they have a reason to stress costs. Environmental groups argue the reverse, using waste-volume data. Both sides assume that production levels, not consumer behaviour, drive the problem. Neither perspective weighs this assumption, which suggests that a third view, focused on consumer demand, deserves attention."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--04-perspectives-evidence.webp" width="900" height="603" alt="A perspective is a coherent world view responding to an issue, made of argument, evidence and assumptions. Primary evidence is first-hand and lets you test claims but small samples rarely generalise; secondary evidence gives expert depth but may share hidden assumptions. A literature review groups sources into perspectives and assesses each." loading="lazy">
+  <figcaption>Build perspectives from argument, evidence and assumptions, and weigh both kinds of evidence.</figcaption>
+</figure>
 
 ## Research methods and methodology
 
@@ -124,6 +144,11 @@ The syllabus lists methods you might use:
 
 **Worked paragraph (methods section).** "I chose a literature review rather than a survey. A survey of students at my school would tell me what one age group in one city thinks, which says little about government policy. Policy questions are usually studied through economic and environmental data, so secondary analysis fits the discipline. The cost is that I depend on the data others collected, so I compare sources that measure the same thing in different ways."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--05-methods.webp" width="900" height="652" alt="A table of four research methods with a strength and a limitation each: literature review, interviews, surveys and close analysis of texts. Below, qualitative evidence gives depth in words and meanings; quantitative evidence shows patterns in numbers." loading="lazy">
+  <figcaption>Every method trades depth against breadth; justify the trade you make.</figcaption>
+</figure>
+
 ## The research log
 
 The log is worth 10 marks. You use it throughout to record information, plan actions, and reflect on findings and decisions. Decisions might include the wording of your question, your choice of methods, and judgements made as findings came in. It can hold reminders, ongoing evaluation, and notes on how teacher feedback changed your thinking.
@@ -137,6 +162,11 @@ Rules printed in the syllabus:
 **Evaluation.** A log full of dates and "found three articles" records but does not reflect. A strong entry says what you found, why it matters and what you will do next.
 
 **Worked log entry.** "Week 6. Two interview answers contradict the survey data on cost. Possible reason: interviewees all run shops, survey was shoppers. Decision: keep both, treat as separate perspectives, flag the sample difference in methods section. Check with teacher whether question still works."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--06-research-log.webp" width="900" height="610" alt="The research log is worth 10 marks, kept separate from the report and outside the word count. A weak log only records dates and searches. A strong entry, from week 6, notes what was found, why it matters, the decision made and the next step." loading="lazy">
+  <figcaption>Each log entry should record a decision, not just an action.</figcaption>
+</figure>
 
 ## Analysis, judgement and reflection
 
@@ -161,6 +191,11 @@ A supported conclusion weighs the perspectives. It says which is stronger and wh
 You submit three items: the report, the research log, and the research proposal form. All work is submitted electronically. A Declaration of Authenticity is completed for each candidate, and Cambridge uses plagiarism detection software.
 
 **The teacher's role.** Teachers help you choose a topic and scale, monitor your log, and teach research skills, referencing and academic honesty. They must not teach specific topics or give their own views on them, research for you, correct notes or drafts, or write any part of the report. During drafting they give only brief summative comments.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-global-perspectives-9239-component-4-cambridge-research-report--07-report-structure.webp" width="900" height="724" alt="The report runs from an introduction explaining how the question was developed, through a main body of methods and compared perspectives, to a conclusion that judges and reflects, then a bibliography in one consistent referencing system. It is continuous prose of at most 5000 words with the count stated." loading="lazy">
+  <figcaption>Introduction, body, judging conclusion and full references, within 5000 words.</figcaption>
+</figure>
 
 ## Common errors
 

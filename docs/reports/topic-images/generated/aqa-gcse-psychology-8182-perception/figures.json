@@ -1,0 +1,47 @@
+[
+ {
+  "file": "aqa-gcse-psychology-8182-perception--01-sensation-perception.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## Sensation and perception",
+  "alt": "An upright tree in the world forms a flat, upside-down image on the retina, yet we see a three-dimensional, upright tree. Sensation is the detection of physical energy by the sense organs; perception is the brain organising and interpreting it.",
+  "caption": "Sensation detects; perception interprets and adds what the retinal image lacks.",
+  "bytes": 70248
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-perception--02-depth-cues.webp",
+  "width": 900,
+  "height": 692,
+  "after": "## Depth cues and constancy",
+  "alt": "Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy.",
+  "caption": "Four monocular and two binocular cues let a flat image show depth.",
+  "bytes": 99068
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-perception--03-motion-parallax.webp",
+  "width": 900,
+  "height": 765,
+  "after": "## Gibson's direct theory: the influence of nature",
+  "alt": "A view from a train window. Fence posts close to the track flash past quickly in the opposite direction, shown by a thick arrow, while distant hills move slowly and seem to travel with you. Gibson argued the brain reads this difference in speed directly as distance. Strength and weakness cards follow.",
+  "caption": "Near objects race past, distant ones creep: the speed difference is direct information about distance.",
+  "bytes": 101160
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-perception--04-illusion-explanations.webp",
+  "width": 900,
+  "height": 679,
+  "after": "## Visual illusions explained",
+  "alt": "Three line drawings: Rubin's vase, which can be seen as a vase or two faces; the Necker cube, which flips orientation; and the Kanizsa triangle, whose edges the brain fills in. A table groups illusions by explanation: ambiguity, fiction, misinterpreted depth cues with size constancy (Ponzo, Müller-Lyer) and misinterpreted depth cues (Ames Room).",
+  "caption": "Illusions come from ambiguity, fiction, or depth cues and size constancy applied where they do not fit.",
+  "bytes": 103942
+ },
+ {
+  "file": "aqa-gcse-psychology-8182-perception--05-perceptual-set.webp",
+  "width": 900,
+  "height": 674,
+  "after": "## Factors affecting perception",
+  "alt": "Bruner and Minturn: an ambiguous figure shown between A and C was reported as B, and between 12 and 14 as 13. Cards cover motivation (hungry participants judged food pictures brighter), emotion, culture and the Müller-Lyer illusion, and an evaluation that both studies were artificial.",
+  "caption": "Expectation, motivation, emotion and culture create a readiness to perceive in a particular way.",
+  "bytes": 118110
+ }
+]

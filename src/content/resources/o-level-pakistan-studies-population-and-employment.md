@@ -79,6 +79,16 @@ fell much more slowly, so the gap between them, and therefore growth, stayed wid
 fertility rate was about 3.6 children per woman in the 2017–18 Pakistan Demographic and Health
 Survey, still well above the replacement level of about 2.1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--01-census-growth.webp" width="900" height="636" alt="A bar chart on a true time scale shows census populations of about 34 million in 1951, 84 million in 1981, 132 million in 1998, 208 million in 2017 and 241.5 million in 2023, with growth of about 2.55% a year between 2017 and 2023." loading="lazy">
+  <figcaption>Pakistan’s population has grown about sevenfold since 1951.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--02-natural-increase.webp" width="900" height="644" alt="A schematic graph from independence to today. The death rate falls steeply while the birth rate falls much more slowly, so the shaded gap between them, natural increase, stays wide." loading="lazy">
+  <figcaption>Deaths fell fast and births fell slowly, so natural increase stayed high.</figcaption>
+</figure>
+
 ## What does Pakistan's population pyramid show?
 
 - **Broad base:** roughly a third or more of people are under 15, from high past birth rates.
@@ -92,6 +102,11 @@ ratio; millions of young people reaching working age each year. **Projected effe
 a large working-age population can be a "demographic dividend" if it is educated and employed,
 boosting output and savings, or a source of unemployment and unrest if jobs are not created. Over
 time, the elderly share will grow, raising demand for pensions and care.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--03-population-pyramid.webp" width="900" height="710" alt="A schematic pyramid with a broad base (a third or more under 15), a slightly narrower bottom bar as birth rates begin to fall, a bulge in the 15–29 groups and a narrow top with few over 65. Boxes below list effects now and projected effects, including the demographic dividend." loading="lazy">
+  <figcaption>A broad base and a youth bulge: a dividend if jobs are created, a problem if not.</figcaption>
+</figure>
 
 ## Why does population keep growing?
 
@@ -109,6 +124,11 @@ hospitals; urban sprawl and traffic; pollution and deforestation; too few jobs f
 workers and clinics, better child health so parents expect children to survive, old-age security,
 and religious leaders' support for birth spacing. Each needs money and time, and attitudes change
 slowly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--04-growth-factors.webp" width="900" height="772" alt="Five factors point to continued growth: social (early marriage, son preference), educational (low female literacy), economic (children as workers and old-age support), political (inconsistent family-planning priority) and medical (falling child deaths). Below are the problems growth causes and the solutions to evaluate." loading="lazy">
+  <figcaption>Five kinds of factor keep growth high; each solution needs money and time.</figcaption>
+</figure>
 
 ## Why do people migrate, and with what effects?
 
@@ -131,6 +151,11 @@ schemes near Hyderabad, where poor families got plots cheaply and built in stage
 sanitation schemes; regularising katchi abadis and supplying standpipes, clean water, drains and
 electricity. **Adverse outcomes:** upgrading can attract more migrants, while some schemes have
 left people in poor-quality, overcrowded housing far from jobs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--05-push-pull-migration.webp" width="900" height="710" alt="Push factors in the countryside (landlessness, low wages, floods and drought, few services) and pull factors in the city (jobs, education, health care) drive migrants to Karachi and Lahore, while remittances flow back. Boxes show the effects on each side and the measures used, with their limits." loading="lazy">
+  <figcaption>People are pushed from the countryside and pulled to the city; money flows back.</figcaption>
+</figure>
 
 ## How is population distributed, and how dense is it?
 
@@ -156,6 +181,11 @@ valley floors along the Indus, Gilgit and Hunza rivers.
 economic (irrigated farming, industry, ports, jobs); social (services, schools, family networks);
 political (capital-city functions in Islamabad, government investment, security conditions).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--06-density-by-province.webp" width="900" height="670" alt="Horizontal bars of approximate 2023 density: Islamabad Capital Territory about 2,600 people per km², Punjab 620, Khyber Pakhtunkhwa 400, Sindh 395 and Balochistan 43, with populations of 2.4, 127.7, 40.9, 55.7 and 14.9 million." loading="lazy">
+  <figcaption>Density ranges from about 43 people per km² in Balochistan to 2,600 in Islamabad.</figcaption>
+</figure>
+
 ## How is the workforce employed?
 
 The Labour Force Survey 2020–21 put roughly 37% of employed people in agriculture (37.4%), 25% in
@@ -174,6 +204,11 @@ move to cities; tertiary jobs (retail, transport, education, health, IT) are gro
 - **Education:** literacy (age 10+) was about 61% in the 2023 census, lower for women and in rural
   areas. Female education, technical training and rural schooling raise productivity, lower
   fertility and widen the skilled workforce.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-population-and-employment--07-workforce.webp" width="900" height="694" alt="A full-width bar splits employment in 2020–21 into agriculture 37.4%, industry 25.4% and services 37.2%, with agriculture falling slowly and services growing fastest. Below, unemployment and underemployment are defined with their rural and urban causes, leading to lower GNP and GDP." loading="lazy">
+  <figcaption>Farming and services each employ over a third of workers; idle labour holds GDP down.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

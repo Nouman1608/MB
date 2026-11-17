@@ -45,6 +45,11 @@ The syllabus does not say how many options are printed. Some papers in this styl
 option per speaker; others add one or two that are not needed, which makes elimination harder. Practise
 both, and look at the specimen paper and recent papers for your series to see which design is used.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--01-exercise-at-a-glance.webp" width="900" height="564" alt="Paper 2 Exercise 3: six short extracts, one mark per speaker, testing L3 and L4, heard twice. All six speakers usually discuss the same topic, so their attitude, for, against, mixed or changed, tells them apart. The number of printed options is not stated in the syllabus." loading="lazy">
+  <figcaption>Six speakers on one topic: match each by attitude, not subject.</figcaption>
+</figure>
+
 ## Why this exercise is different
 
 Exercises 1 and 2 reward catching a stated fact. Exercise 3 does not, because L3 and L4 are about
@@ -57,6 +62,11 @@ Exercises 1 and 2 reward catching a stated fact. Exercise 3 does not, because L3
 
 Usually all six speakers talk about the **same topic**. So the topic word cannot tell them apart. Their
 **attitude** does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--02-facts-versus-attitudes.webp" width="900" height="464" alt="Exercises 1 and 2 test catching stated facts (L1, L2). Exercise 3 tests L3, connections such as liking one thing but worrying about another, and L4, meaning implied through a rhetorical question, complaint or regret." loading="lazy">
+  <figcaption>Exercise 3 asks what a speaker means, not only what they say.</figcaption>
+</figure>
 
 ## How Urdu speakers signal attitude
 
@@ -77,6 +87,11 @@ Train your ear for the small words that carry the opinion. They are often more i
 who simply thinks online shopping is easy. The تو ... لیکن pattern is a signal that a reservation is
 coming.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--03-attitude-signals.webp" width="900" height="992" alt="A table of Urdu attitude signals: contrast (لیکن، مگر), concession (یہ ٹھیک ہے کہ ... لیکن), change of mind (پہلے ... اب), reported view (لوگ کہتے ہیں), doubt (شاید), regret (کاش), rhetorical question (کیا فائدہ اگر ...؟) and emphasis (بالکل، ہرگز). In آن لائن خریداری آسان تو ہے، لیکن ... a reservation is coming." loading="lazy">
+  <figcaption>Listen hardest to what follows لیکن, اب and لوگ کہتے ہیں.</figcaption>
+</figure>
+
 ## Options paraphrase the speakers
 
 The printed options almost never repeat the speaker's words. They summarise the speaker's position in
@@ -93,6 +108,11 @@ different, often more general, language. Practise recognising the same idea in t
 A useful habit is to **summarise each speaker in three or four of your own words** while listening, for
 example "likes, but too expensive" or "changed mind, now for". Then match your summary to the options,
 rather than hunting for the speaker's words in them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--04-options-paraphrase.webp" width="900" height="910" alt="Five pairs of what a speaker says and how an option summarises it, for example روز دو گھنٹے ٹریفک میں پھنسا رہتا ہوں becomes سفر میں بہت وقت ضائع ہوتا ہے, and کاش بچپن میں کسی نے سکھایا ہوتا becomes افسوس ہے کہ یہ پہلے نہیں سیکھا." loading="lazy">
+  <figcaption>Match the idea, expressed more generally, not the speaker's words.</figcaption>
+</figure>
 
 ## The keyword trap
 
@@ -116,6 +136,11 @@ Second hearing: confirm the summaries; listen again to any speaker
 After:          match the confident ones first and cross those options off;
                 then decide the rest by elimination; fill every answer
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--05-two-hearings.webp" width="900" height="924" alt="Four stages: read and underline the distinguishing word in every option, note a short summary and an attitude sign (+, −, +/−, →) for each speaker on the first hearing, confirm on the second, then match the clear cases and eliminate. Distinguishing words include متفق نہیں، بدل گئی، شک، افسوس، سب سے اہم." loading="lazy">
+  <figcaption>Summary plus sign for each speaker, then match the sure ones first.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -142,6 +167,11 @@ delivery costs are added. They never say "I disagree", so this is L4: the disagr
 
 **Why C is wrong for speaker 1.** آسان might suggest saving time, but the speaker's overall point is the
 reservation about quality. C picks up one word's association and ignores the main idea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching--06-worked-example.webp" width="900" height="1008" alt="Speaker 1 says online shopping is easy, but clothes never match the picture: option A, accepting convenience but distrusting quality (L3). Speaker 2 reports that people call it cheaper, then shows the market is cheaper with delivery: option B, an implied disagreement (L4). Option C, saving time, is a keyword trap." loading="lazy">
+  <figcaption>Match the speaker's overall point, including what comes after لیکن.</figcaption>
+</figure>
 
 ## Common mistakes
 

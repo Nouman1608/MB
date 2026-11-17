@@ -36,6 +36,11 @@ and Paper 2 (Writing), each 1 hour 45 minutes and worth 70 marks (50% of the GCS
 separate paper for this theme -- the same two skills papers draw on content from all three themes, so
 candidates cannot skip Theme 3 preparation on the assumption it is examined separately.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--01-three-themes-direction.webp" width="900" height="610" alt="Theme 1 looks inward to personal life, Theme 2 outward to the wider world and Theme 3 forward to education and career. All three feed Paper 1 and Paper 2, each 1 hour 45 minutes, 70 marks and 50%." loading="lazy">
+  <figcaption>All three themes feed both papers, so Theme 3 cannot be left out.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **OXFORDAQA INTERNATIONAL GCSE URDU (9264) — THEME 3 CURRENT AND FUTURE STUDY AND EMPLOYMENT**
@@ -47,6 +52,11 @@ The specification (3.1.3) sets four topics:
 - Topic 3: Education post-16 -- further education and study options after the current stage of schooling
 - Topic 4: Jobs, career choices and ambitions -- part-time work, career aspirations, and the language of
   future plans
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--02-theme-3-map.webp" width="900" height="640" alt="Theme 3 has four topics: my studies, life at school or college, education post-16, and jobs, career choices and ambitions. My studies (subjects and opinions) and life at school (facilities, routine, rules) are flagged as two topics to keep separate." loading="lazy">
+  <figcaption>Four topics; do not confuse my studies with life at school.</figcaption>
+</figure>
 
 ## Vocabulary you need in place
 
@@ -83,6 +93,11 @@ response (for example, describing your current studies before explaining your ca
 practise moving between tenses within a single piece of writing, the same skill Theme 2 develops for
 switching between description and argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--03-tense-timeline.webp" width="900" height="590" alt="A timeline from past reflection on school, through present description of studies, to future plans (I will study) and conditional ambitions (I would like to become). Opinion with justification, comparatives and condition-result sentences are also expected." loading="lazy">
+  <figcaption>Move from present description to future plans within one response.</figcaption>
+</figure>
+
 ## Approaching the tasks
 
 For **reading**, questions on this theme often test whether a candidate can distinguish
@@ -92,6 +107,11 @@ than treating the passage as a flat list of facts. For **writing**, career and a
 tasks specifically reward candidates who justify a choice, not just name it: stating a career ambition
 and then explaining a reason for it, ideally referencing a personal interest or skill, is a reliably
 strong structure.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--04-fact-opinion-justify.webp" width="900" height="590" alt="In reading, separate stated facts (a subject or job mentioned) from opinions and aspirations (why someone likes a subject, what they hope to do). In writing, state an ambition, give a reason and link it to a personal interest or skill." loading="lazy">
+  <figcaption>Read for fact and opinion; in writing, justify every choice.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -116,6 +136,11 @@ Strong: names specific subjects with an opinion and reason (present
 
 Naming a specific subject with a justified opinion, stating a concrete post-16 plan, and closing with
 a justified career ambition is a reliable structure for the strongest responses in this theme.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-urdu-study-employment--05-studies-and-plans-answer.webp" width="900" height="710" alt="A weak answer lists subjects and wants a good job. A strong answer gives a subject with an opinion and reason, a future post-16 plan, a career ambition with a reason and a conditional reflection." loading="lazy">
+  <figcaption>Justified opinion, concrete plan, justified ambition: the strongest structure here.</figcaption>
+</figure>
 
 ## Common mistakes
 

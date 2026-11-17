@@ -77,6 +77,11 @@ Three problems with defining it:
 adapted to local cultures. **Global culture** refers to shared consumer goods, media and values
 that circulate worldwide.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--01-defining-globalisation.webp" width="900" height="640" alt="Top row: Giddens defines globalisation as intensified worldwide social relations, Harvey calls it time-space compression and McLuhan the global village. Bottom row: three problems with the definition: whether it is new, whether it is one process or several, and whether it is global at all. Glocalisation and global culture are defined below." loading="lazy">
+  <figcaption>Globalisation is easy to describe but hard to pin down: is it new, single and truly global?</figcaption>
+</figure>
+
 ## What are the cultural, political and economic dimensions?
 
 | Dimension | What it involves | Example |
@@ -98,6 +103,11 @@ that circulate worldwide.
 
 The globalist / sceptic / transformationalist typology comes from Held et al. (1999). Use it as
 the backbone of an essay on "who benefits", then bring in Marxist and feminist critiques.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--02-six-perspectives.webp" width="900" height="646" alt="A spectrum runs from sceptics, who say globalisation is exaggerated, through transformationalists, who see it as real but uneven, to globalists, who see it as real and largely positive. Below, Marxist, feminist and postmodernist perspectives on who benefits." loading="lazy">
+  <figcaption>Use the sceptic–transformationalist–globalist spectrum as an essay backbone, then add critical perspectives.</figcaption>
+</figure>
 
 ## How does globalisation affect identity?
 
@@ -123,6 +133,11 @@ ideology, would become the main source of global conflict; critics say this exag
 of "civilisations". Benjamin Barber's *Jihad vs. McWorld* (1995) presents homogenisation and
 backlash as two sides of the same process.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--03-convergence-divergence.webp" width="900" height="607" alt="Two columns: cultural convergence, where global media and brands make cultures alike through McDonaldization and Westernisation, against cultural divergence, where contact produces hybrid identities, cultural defence and ethnic revitalisation. Barber and Huntington are noted below." loading="lazy">
+  <figcaption>Globalisation can make cultures more alike and also provoke new differences.</figcaption>
+</figure>
+
 ## Is globalisation spreading democracy and human rights?
 
 Francis Fukuyama's essay "The End of History?" (1989, book 1992) argued that liberal democracy had
@@ -133,6 +148,11 @@ Critics point out that democratic gains have been uneven and in some places reve
 "democracy promotion" can serve Western interests; and that TNCs and global markets can override
 the choices of elected governments.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--04-spread-of-democracy.webp" width="900" height="429" alt="Two columns. Fukuyama argued liberal democracy won after the Cold War, with human rights declarations, international courts and media scrutiny as evidence. Critics reply that gains are uneven or reversed, that democracy promotion can serve Western interests and that markets can override elected governments." loading="lazy">
+  <figcaption>Evidence of spreading rights norms is set against uneven gains and the power of markets.</figcaption>
+</figure>
+
 ## Can global social movements oppose globalisation?
 
 Global social movements use the same networks they criticise. Examples include the protests at the
@@ -142,6 +162,11 @@ Future (from 2018). Many describe themselves as "alter-globalisation" — seekin
 globalisation rather than none. Manuel Castells (*The Rise of the Network Society*, 1996) argues
 networked communication gives such movements new power. Evaluation: movements often struggle to
 turn protest into lasting policy change.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--05-global-social-movements.webp" width="900" height="590" alt="Timeline of global social movements: protests at the WTO meeting in Seattle (1999), the first World Social Forum in Porto Alegre (2001), Occupy (2011) and Fridays for Future (from 2018). Below: many call themselves alter-globalisation, Castells says networks give them power, but they struggle to change policy." loading="lazy">
+  <figcaption>Global movements use global networks to challenge globalisation, with mixed policy results.</figcaption>
+</figure>
 
 ## Can nation states still tackle global problems?
 
@@ -154,6 +179,11 @@ turn protest into lasting policy change.
 - Ulrich Beck (*Risk Society*, 1986; English 1992) argues that manufactured risks such as climate
   change cross borders, so national solutions alone cannot work.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--06-nation-state.webp" width="900" height="444" alt="Three views on the nation state: globalists say states are losing power to markets and TNCs, sceptics say states still control borders, taxes, armies and law, and transformationalists say states increasingly cooperate through agreements such as Kyoto and Paris. Beck adds that manufactured risks cross borders." loading="lazy">
+  <figcaption>Globalists see the state fading, sceptics see it strong, transformationalists see it cooperating.</figcaption>
+</figure>
+
 ## How do you plan a 35-mark Paper 4 essay on this?
 
 1. Define the key term in the question and show awareness of debate about it.
@@ -161,6 +191,11 @@ turn protest into lasting policy change.
 3. Evaluate it with contrasting perspectives (sceptic, Marxist, feminist).
 4. Apply examples from more than one society.
 5. Conclude with a judgement — transformationalism often provides a balanced position.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-globalisation-debates-and-perspectives--07-essay-plan.webp" width="900" height="794" alt="Five numbered steps for a 35-mark essay: define the key term, set out the view in the question with evidence, evaluate with contrasting perspectives, apply examples from more than one society, and conclude with a judgement." loading="lazy">
+  <figcaption>Every Paper 4 essay moves from definition to a reasoned judgement.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

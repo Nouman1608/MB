@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--01-machines-and-work.webp",
+  "width": 900,
+  "height": 460,
+  "after": "## 3.2.3.1 Machines, mobilities and consumption",
+  "alt": "Work has shifted between extraction, manufacturing and service industries. Bell predicted service and knowledge work would dominate; Braverman argued machines deskill workers; Blauner found alienation varied with technology.",
+  "caption": "Sociologists disagree on whether machines degrade or improve work.",
+  "bytes": 86996
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--02-determinism-construction.webp",
+  "width": 900,
+  "height": 617,
+  "after": "## 3.2.3.1 Machines, mobilities and consumption",
+  "alt": "Technological determinism, from Marx and McLuhan, says technology drives social change; social constructionism, from Pinch and Bijker, says social groups shape technology. Latour’s actor-network theory treats humans and machines as actants in one network.",
+  "caption": "Determinists start from the machine; constructionists start from the people.",
+  "bytes": 130398
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--03-false-content.webp",
+  "width": 900,
+  "height": 449,
+  "after": "## 3.2.3.2 'Traditional' media",
+  "alt": "Misinformation is false content shared without intent to deceive, disinformation is false content spread deliberately, and propaganda is organised persuasion, often by states. Uscinski and Parent found no long-term rise in conspiracy talk.",
+  "caption": "Intent separates misinformation from disinformation.",
+  "bytes": 95726
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--04-audience-models.webp",
+  "width": 900,
+  "height": 584,
+  "after": "## 3.2.3.2 'Traditional' media",
+  "alt": "A grid of four audience models with their main idea and a key evaluation: hypodermic syringe, two step flow, cultural effects, and uses and gratifications.",
+  "caption": "The models move from a passive audience to an active one.",
+  "bytes": 113508
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--05-panopticon-synopticon.webp",
+  "width": 900,
+  "height": 599,
+  "after": "## 3.2.3.4 Digital technologies",
+  "alt": "Left: the panopticon, one watcher at the centre observing many people around, from Foucault and Bentham. Right: the synopticon, many people all watching one figure, from Mathiesen. CCTV, facial recognition and data tracking extend both.",
+  "caption": "Surveillance can run from the few to the many, or the many to the few.",
+  "bytes": 86746
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--06-cybercrime.webp",
+  "width": 900,
+  "height": 405,
+  "after": "## 3.2.3.4 Digital technologies",
+  "alt": "Wall’s three types of cybercrime: crimes against computers such as hacking, crimes using computers such as fraud, and crimes in computer content such as illegal images and hate speech. Cyber security and Norris’s three digital divides are noted below.",
+  "caption": "Cybercrime can target computers, use them, or live in their content.",
+  "bytes": 76430
+ },
+ {
+  "file": "oxfordaqa-a-level-sociology-9690-people-and-technology--07-algorithmic-bias.webp",
+  "width": 900,
+  "height": 595,
+  "after": "## 3.2.3.5 Artificial intelligence and cyborgs",
+  "alt": "Bars compare facial analysis error rates in the Gender Shades study: as high as 34.7% for darker-skinned women against under 1% for lighter-skinned men. Noble, O’Neil and Eubanks show other ways algorithms reproduce inequality.",
+  "caption": "Technology that appears neutral can build in inequality.",
+  "bytes": 93232
+ }
+]

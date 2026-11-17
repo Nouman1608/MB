@@ -59,6 +59,11 @@ In practice that means asking three questions of every piece of evidence:
 
 The first is local; the third looks across the argument.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--01-three-questions-rings.webp" width="900" height="612" alt="Three nested rings: evidence at the centre, the paragraph’s claim around it, and the thesis and next step on the outside. Three questions match the rings: what does it show (explain), how does it support this paragraph’s claim (relevance), and why does it matter for the thesis (significance)." loading="lazy">
+  <figcaption>The first question is local; the third looks across the whole argument.</figcaption>
+</figure>
+
 ## Relevance and significance
 
 These two words are easy to confuse.
@@ -69,6 +74,11 @@ These two words are easy to confuse.
 | **Significance** | Why the evidence matters to the argument as a whole. | "So what for the thesis?" | The count matters because it shows the library serves people who have nowhere else to go, which is the thesis's central idea. |
 
 A piece of evidence can be relevant and still insignificant (it relates to the paragraph's claim but does not advance the thesis). Strong writers choose evidence that is both, and they **say so** in their commentary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--02-relevance-vs-significance.webp" width="900" height="622" alt="A count of teenagers’ evening visits connects by one arrow to the paragraph claim that young people rely on evening hours (relevance) and by another to the thesis that libraries are essential public places (significance), because it shows the library serves people with nowhere else to go." loading="lazy">
+  <figcaption>Relevance links evidence to the paragraph; significance links it to the thesis.</figcaption>
+</figure>
 
 ## Levels of commentary within an argument
 
@@ -83,6 +93,11 @@ A well-built argument uses commentary at several levels.
 
 Using all four keeps the line of reasoning visible from beginning to end.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--03-four-levels-of-commentary.webp" width="900" height="652" alt="A schematic essay of two body paragraphs and a conclusion, with commentary lines colour-coded and linked to four levels: evidence-level commentary right after the evidence, paragraph-level at the end of a paragraph, bridge-level linking to the next paragraph, and thesis-level in the conclusion. Each has the lesson’s example." loading="lazy">
+  <figcaption>Evidence, paragraph, bridge and thesis levels keep the line of reasoning visible.</figcaption>
+</figure>
+
 ## Techniques for keeping an argument connected
 
 - **Recurring key terms.** Repeating a central word or idea ("a place to be", "the cost of delay") across paragraphs creates a thread that readers can follow.
@@ -90,6 +105,11 @@ Using all four keeps the line of reasoning visible from beginning to end.
 - **Signposting steps.** Phrases such as "The second reason is more serious than the first" tell readers where they are in the path.
 - **Answering "so what?" repeatedly.** After each piece of evidence, ask "So what?" and write the answer. Stop when the answer reaches the thesis.
 - **Balancing evidence and commentary.** In analytical writing a useful rule is that commentary should usually be at least as long as the evidence it explains. A paragraph that is mostly quotation has not done its work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--04-so-what-ladder.webp" width="900" height="671" alt="A descending ladder starts from the survey figure (118 of 200 teenagers) and asks “So what?” three times: a quiet room is the condition of homework; shut hours take study away; the hours decide whether pupils keep up. It ends at the thesis that the library is the one place where people without money can belong." loading="lazy">
+  <figcaption>Keep asking “So what?” after each piece of evidence; stop when the answer reaches the thesis.</figcaption>
+</figure>
 
 ## Avoiding commentary that does not help
 
@@ -112,6 +132,11 @@ Consider what each sentence does in the **line of reasoning** of the speech.
 
 Douglass's commentary does more than explain a quotation. It **keeps linking each observation to the question that drives the speech**: what, to the slave, is the Fourth of July? Each sentence answers that question a little more fully.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--05-douglass-yours-mine.webp" width="900" height="623" alt="Two columns split Douglass’s sentences between the audience and the speaker: “yours” and “not mine”, “you may rejoice” and “I must mourn”, an inheritance “shared by you, not by me”, and sunlight bringing “life and healing” to them but “stripes and death” to him. Below, how the contrast serves relevance, significance and the speech’s driving question." loading="lazy">
+  <figcaption>Each sentence links an observation back to the question that drives the speech.</figcaption>
+</figure>
+
 ## Worked example 1: commentary at four levels (written by Marlbridge)
 
 Here is a short argument with its commentary labelled. The thesis is: *The library is not a luxury but the one public place where people without money can belong.*
@@ -133,6 +158,11 @@ Here is a short argument with its commentary labelled. The thesis is: *The libra
 **Step 5: Significance for the thesis.** The thesis speaks of "the one public place where people without money can belong". Each level builds toward that: the teenagers lack a place; the next group will too.
 
 **Check.** Reading only the commentary (not the evidence) still gives a clear path. That is a sign of strong argument-wide commentary.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-4-commentary-whole-argument-study-guide--06-paragraph-levels-labelled.webp" width="900" height="599" alt="The library paragraph split into five labelled parts: the topic sentence, the survey evidence, evidence-level commentary explaining why a quiet room matters, paragraph-level commentary on keeping up, and a bridge-level question leading to the next paragraph on pensioners." loading="lazy">
+  <figcaption>Reading only the commentary should still give a clear path through the argument.</figcaption>
+</figure>
 
 ## Worked example 2: analysing the commentary in a sentence pair
 

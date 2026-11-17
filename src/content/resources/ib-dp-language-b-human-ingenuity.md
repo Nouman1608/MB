@@ -42,6 +42,11 @@ This page is in English and so are the model texts. Every task ends with a note 
 
 Two words in the brief matter. The topics are "optional recommended" and the questions are "possible". Your school chooses which topics to teach in depth, and an unseen text on this theme can come at creativity or innovation from any angle. Treat the list as a starting map, not a fence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--01-human-ingenuity-theme-map.webp" width="900" height="634" alt="The guiding principle of Human ingenuity, explore the ways in which human creativity and innovation affect our world, sits above a central circle joined to five optional recommended topics: entertainment, artistic expressions, communication and media, technology and scientific innovation. Two possible questions sit below as lenses." loading="lazy">
+  <figcaption>Five optional topics and two possible questions: a starting map, not a fence.</figcaption>
+</figure>
+
 ## How the theme reaches the assessment
 
 The brief does not tie any component to a single theme, so Human ingenuity can feed every component:
@@ -51,6 +56,11 @@ The brief does not tie any component to a single theme, so Human ingenuity can f
 - **Individual oral (internal, 25%, 30 marks)**: at SL the stimulus is a visual image clearly relevant to one or more themes; at HL it is an excerpt from one of your two literary works.
 
 Your teacher will share the assessment criteria, the question formats and the oral's structure. This page does not guess at them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--02-theme-in-every-component.webp" width="900" height="434" alt="A bar splits the course into four equal 25 percent parts: Paper 1 writing (30 marks), Paper 2 listening (25 marks), Paper 2 reading (40 marks) and the internally assessed individual oral (30 marks). Cards note that Human ingenuity can appear in any of them." loading="lazy">
+  <figcaption>Human ingenuity can feed Paper 1, both halves of Paper 2 and the oral.</figcaption>
+</figure>
 
 ## The five recommended topics
 
@@ -78,6 +88,11 @@ Medicine, space, energy, genetics, the ethical limits of research. **Build:** re
 
 The topics overlap with other themes. A new vaccine touches health and well-being (Identities); solar power touches the environment (Sharing the planet). Under Human ingenuity the focus is the act of creating: the idea, how it was made, and what it changes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--03-act-of-creating.webp" width="900" height="546" alt="Three linked cards: the idea, how it was made, and what it changes, the last highlighted. A table shows that a text about a new vaccine also touches Identities and one about solar power touches Sharing the planet, but under Human ingenuity the questions are about the creation and its effects." loading="lazy">
+  <figcaption>The guiding principle is about effect: always reach what the creation changes.</figcaption>
+</figure>
+
 ## Worked example 1: learning about a culture from its art
 
 *Original text written for Marlbridge:*
@@ -94,6 +109,11 @@ The topics overlap with other themes. A new vaccine touches health and well-bein
 
 A weak answer stops at Step 1. The possible question asks what we *learn*, so the marks sit in Steps 2 and 3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--04-culture-from-art.webp" width="900" height="674" alt="Four numbered steps: describe the jars and the blue fish precisely; infer that the community values continuity with room for individual creativity; answer the question with the quotation it is just a jar; then learn target-language frames for interpretation. Steps 2 and 3 are highlighted as where the marks sit." loading="lazy">
+  <figcaption>Description is only step 1: the marks are in inferring and answering.</figcaption>
+</figure>
+
 ## Worked example 2: how media change relationships
 
 Build a grid before you write: point, example, effect, counterpoint.
@@ -106,6 +126,11 @@ Build a grid before you write: point, example, effect, counterpoint.
 *Model paragraph (original, in English):* "Messaging apps have made distance matter less. A grandmother in one country can now watch her grandson's school play live from another. However, a video call is not the same as sitting in the hall, and those without a smartphone are left out entirely. The media have not simply brought us closer; they have changed what closeness means."
 
 In your target language, check the connectors you use for contrast (however, whereas, although) and result (so, as a result). Some take a particular verb form or word order; learn each with a full example sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--05-point-example-effect-counterpoint.webp" width="900" height="467" alt="Four linked cards for one argument: point (messaging keeps families in daily contact across countries), example (a grandmother watches a school play on a video call), effect (closeness despite distance) and counterpoint (a screen is not a visit, and not every grandparent has a device). The model paragraph concludes that the media have changed what closeness means." loading="lazy">
+  <figcaption>Point, example, effect, counterpoint: one counterpoint makes the argument credible.</figcaption>
+</figure>
 
 ## Language this theme keeps asking for
 
@@ -131,6 +156,11 @@ Plan with the brief's conceptual understandings:
 - **Register:** lively and semi-formal. Addressing classmates directly suits a review; slang that a teacher-editor would cut does not.
 - **Check:** does every paragraph serve the task and the text type? At HL, check the word range in the instructions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--06-paper-1-review-plan.webp" width="900" height="511" alt="Chips set the context (school magazine), audience (other students), purpose (inform and persuade) and register (lively, semi-formal). Five linked boxes give the review's shape: title, an opening that puts the reader in the headset, what works, what is lost, and a clear recommendation." loading="lazy">
+  <figcaption>A review weighs what works against what is lost, then gives a verdict.</figcaption>
+</figure>
+
 ## Paper 2: unseen texts on this theme
 
 - Before reading, predict vocabulary from the title and any image.
@@ -144,6 +174,11 @@ Plan with the brief's conceptual understandings:
 **SL.** Images on this theme might show a mural, a crowded cinema, a robot in a hospital, someone filming a concert on a phone. Work in four moves: describe (who, what, where), interpret (why it was made, what it shows), connect (to the theme and to a target-language culture you have studied) and judge (your view, with a reason).
 
 **HL.** Your stimulus is an excerpt from one of your two literary works. If either work deals with invention, art, media or science, mark those passages now and build theme vocabulary around them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-human-ingenuity--07-oral-four-moves.webp" width="900" height="613" alt="Four linked cards for the SL oral: describe (who, what, where), interpret (why it was made), connect (to the theme and a target-language culture) and judge (your view with a reason). Example images include a mural and a robot in a hospital. At HL the stimulus is a literary excerpt." loading="lazy">
+  <figcaption>Describe, interpret, connect, judge: always reach an opinion.</figcaption>
+</figure>
 
 ## Common errors
 

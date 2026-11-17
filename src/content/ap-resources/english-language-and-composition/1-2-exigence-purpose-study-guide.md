@@ -56,6 +56,11 @@ They are easy to mix up because in most texts they are connected. A problem aris
 
 A quick test. If you can fill in "Because ___, the writer wrote," you have an exigence. If you can fill in "The writer wants the audience to ___," you have a purpose.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--01-two-frames-in-time.webp" width="900" height="438" alt="A time line with the text in the middle. Exigence sits on the left and looks back or around at what provoked the writing; purpose sits on the right and looks forward to the effect on the audience. Two fill-in frames test each: “Because ___, the writer wrote” and “The writer wants the audience to ___”." loading="lazy">
+  <figcaption>If it completes “Because ___”, it is exigence; if it completes “wants the audience to ___”, it is purpose.</figcaption>
+</figure>
+
 ## Kinds of exigence
 
 An exigence can be:
@@ -66,6 +71,11 @@ An exigence can be:
 - a **need or opportunity**: a deadline, an invitation to speak, a chance to change a decision.
 
 Some exigences are named in the text ("Last Tuesday the council voted..."). Others are **implicit**, and you must infer them from clues such as dates, references to recent events, or the way a text answers a question it does not repeat. When an exigence is implicit, say so and point to the clue.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--02-kinds-of-exigence.webp" width="900" height="582" alt="Four boxes name the kinds of exigence: an event, a problem, a question or controversy, and a need or opportunity, each with examples. Below, a named exigence is stated in the text, while an implicit one must be inferred from clues such as dates and references." loading="lazy">
+  <figcaption>Every text has an exigence; when it is implicit, infer it and point to the clue.</figcaption>
+</figure>
 
 ## Purpose: use a verb and a target
 
@@ -83,6 +93,11 @@ A weak purpose names a **topic**. A strong one names the **effect on the audienc
 
 Writers may have more than one purpose. A eulogy honours a person and comforts mourners. A charity appeal informs readers about a need and persuades them to donate. When you see more than one, distinguish a **primary** purpose (the main aim) from a **secondary** one (a supporting aim). A good answer says which is which and why.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--03-verb-plus-target.webp" width="900" height="629" alt="Four purposes are built from a verb and a target: persuade the council to reverse a cut, warn residents of a hazard, reassure anxious parents, mobilise volunteers to act. A table contrasts weak purposes that name a topic with strong ones that name the effect on the audience." loading="lazy">
+  <figcaption>A weak purpose names a topic; a strong one names a verb and its effect on the audience.</figcaption>
+</figure>
+
 ## How exigence leads to purpose
 
 Treat the two as a chain:
@@ -90,6 +105,11 @@ Treat the two as a chain:
 > **Exigence** (what happened or is wrong) → **Writer's goal** (what should change) → **Choices** (evidence, tone, structure that will bring that change about).
 
 If you can say what the exigence is and what the audience must do or think because of it, you will often find the purpose follows. For instance, a flood damages a village's road (exigence); the parish clerk wants residents to report new cracks quickly so repairs can be prioritised (purpose); so the notice is short, lists a phone number first, and uses plain, non-technical language (choices).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--04-exigence-to-choices-chain.webp" width="900" height="428" alt="Three linked boxes: the exigence (a flood damages the village’s road) leads to the writer’s goal (residents report new cracks quickly so repairs can be prioritised), which leads to the choices (a short notice, the phone number first, plain language)." loading="lazy">
+  <figcaption>Exigence, then goal, then the choices that will bring the goal about.</figcaption>
+</figure>
 
 ## A public-domain example: Douglass on the Fourth of July (1852)
 
@@ -113,6 +133,11 @@ His **purpose** is not to honour the holiday. It is to make an audience who cele
 
 **Check.** If the exigence had been written "to encourage soldiers", that would be a purpose, not a trigger. If the purpose had been written "the army was losing", that would be an exigence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--05-paine-five-steps.webp" width="900" height="595" alt="Paine’s opening is quoted with three phrases marked. Steps 1 and 3 on the left find and write the exigence, the military crisis of late 1776. Steps 2 and 4 on the right find and write the purpose, to rally discouraged soldiers and citizens. Step 5 checks that the two point in different directions in time." loading="lazy">
+  <figcaption>The exigence already exists; the purpose is something the writer wants to happen.</figcaption>
+</figure>
+
 ## Worked example 2: an original notice (written by Marlbridge)
 
 > **Notice to residents of Elm Court.** On Monday the water company found a leak under the car park. The car park will be closed from Thursday for at least two weeks. Please do not park on Elm Road, which must stay clear for the repair lorries. A shuttle van will take anyone with limited mobility to and from the main gate. Thank you for your patience.
@@ -127,12 +152,22 @@ His **purpose** is not to honour the holiday. It is to make an audience who cele
 
 **Check.** The answers do not repeat each other: the exigence is an event; the purposes are effects on residents. If you wrote "to inform residents about a leak", you would be confusing the trigger with the purpose, because "leak" is the exigence.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--06-primary-secondary-purpose.webp" width="900" height="574" alt="The Elm Court notice split into three parts. The sentence about the leak found on Monday is the exigence. The closure and the instruction not to park on Elm Road are the primary purpose, given the most space and direct language. The shuttle van and the thanks are a secondary purpose of reassurance, working through tone." loading="lazy">
+  <figcaption>Primary purposes get the most space and the most direct language; secondary purposes often work through tone.</figcaption>
+</figure>
+
 ## Reading for exigence and purpose under exam conditions
 
 1. **Read the first and last paragraphs first.** First paragraphs often signal the exigence; last paragraphs often state what the writer wants the audience to do.
 2. **Look at the verbs in the writer's requests.** "Please sign", "we must", "let us resolve" signal an action purpose.
 3. **Use the source line.** Many passages are introduced with a date, a place or a publication. These details often supply the exigence or the context.
 4. **Do not stop at the topic.** If your first draft of a purpose could be written without mentioning the audience, add the audience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-1-2-exigence-purpose-study-guide--07-where-to-look.webp" width="900" height="616" alt="A schematic passage page with callouts: the source line can supply the exigence or context; the first paragraph often signals the exigence; the last paragraph often states what the writer wants; request verbs such as “please sign” signal an action purpose. A note warns not to stop at the topic." loading="lazy">
+  <figcaption>Source line, first paragraph, last paragraph and request verbs: the four places to look.</figcaption>
+</figure>
 
 ## Common misconceptions
 

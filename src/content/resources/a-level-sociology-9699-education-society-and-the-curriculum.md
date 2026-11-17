@@ -68,6 +68,11 @@ Paper 3 – Education is a written paper: 1 hour 15 minutes, 50 marks, 21% of th
 
 Your teacher will confirm how the other 24 marks are split. Paper 3 weightings: AO1 36%, AO2 28%, AO3 36%. Printed command words: Describe, Evaluate, Explain, Give.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--01-paper-3-structure.webp" width="900" height="785" alt="Paper 3 lasts 1 hour 15 minutes, is worth 50 marks and 21% of the A Level. Four compulsory questions rise in marks from a short answer (AO1) to two explanations, two arguments against a quotation, and a 26-mark essay testing AO1, AO2 and AO3." loading="lazy">
+  <figcaption>Four compulsory questions climb in marks to a 26-mark essay.</figcaption>
+</figure>
+
 ## 5.1 Functionalism: value consensus, solidarity and role allocation
 
 **Émile Durkheim** (1858-1917) argued that society needs enough shared values to hold together. Education passes on these shared values, so it builds **social solidarity**. School is a "society in miniature": pupils follow rules that apply to everyone, not just to family members. This teaches self-discipline and how to cooperate with strangers. Durkheim also argued that a modern economy, with a complex division of labour, needs schools to teach specialist skills.
@@ -82,6 +87,11 @@ Your teacher will confirm how the other 24 marks are split. Paper 3 weightings: 
 
 **Worked paragraph.** *Durkheim saw school as a society in miniature, with rules for all [knowledge]. In a school with pupils from many backgrounds, common rules may build belonging beyond the family [application]. So education can bind a diverse society together [analysis]. However, Marxists reply that this "consensus" may be imposed by the ruling class [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--02-parsons-bridge.webp" width="900" height="619" alt="In the family a child is judged by particularistic standards and has ascribed status; school acts as a bridge to wider society, where everyone is judged by universalistic standards and status is achieved. Below, Davis and Moore’s role allocation and Tumin’s criticism." loading="lazy">
+  <figcaption>School moves children from family standards to the universal standards of society.</figcaption>
+</figure>
+
 ## 5.1 Marxism: ideological control and cultural reproduction
 
 **Louis Althusser** ("Ideology and Ideological State Apparatuses", 1970 in French, 1971 in English) separated the **repressive state apparatus** (police, army, courts), which controls by force, from **ideological state apparatuses** such as the media, religion and education, which control through ideas. He argued that in capitalist societies the school is the dominant ideological state apparatus. It passes on ruling-class ideology while appearing neutral.
@@ -94,6 +104,11 @@ Your teacher will confirm how the other 24 marks are split. Paper 3 weightings: 
 
 **Worked paragraph.** *Bowles and Gintis argue that schooling prepares pupils for obedient work [knowledge]. A school that rewards punctual homework more than original ideas fits their claim [application]. So schools may reproduce a compliant workforce [analysis]. However, Willis shows pupils can resist, so the process is not smooth [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--03-correspondence-principle.webp" width="900" height="652" alt="School life mirrors work life: pupils accept teachers’ authority as workers accept managers’, pupils work for grades as workers work for wages, and grades reward perseverance and punctuality, producing an obedient workforce. Willis shows pupils can resist, though reproduction still happens." loading="lazy">
+  <figcaption>For Bowles and Gintis, school life mirrors work life under capitalism.</figcaption>
+</figure>
+
 ## 5.1 New Right and social democratic views on education and the economy
 
 **Social democratic** sociologists, such as **A. H. Halsey**, support **equality of opportunity** and state action to bring it about. In England and Wales, many local authorities moved from selective (tripartite) schools to **comprehensive schools** from the 1960s under a Labour government. Social democrats also draw on **human capital theory**, developed by economists such as Theodore Schultz and Gary Becker (*Human Capital*, 1964). It treats education as an investment that raises productivity and growth, so fairness and a strong economy go together.
@@ -103,6 +118,11 @@ The **New Right** believes the state runs schools poorly. Without competition, s
 **Evaluation.** **Alison Wolf**, *Does Education Matter?* (2002), questioned whether spending more on education automatically drives growth. Critics of the New Right cite **Gewirtz, Ball and Bowe (1995)**, who described "privileged/skilled choosers", who were mainly middle class and best placed to work the school market, while other parents lacked the cultural skills and contacts to do so. So market choice can widen inequality. Supporters reply that published results give every parent more information.
 
 **Worked paragraph.** *The New Right argues that competition raises standards [knowledge]. If a city published league tables, weak schools would need to improve to attract pupils [application]. This ties schooling to economic efficiency [analysis]. However, Gewirtz, Ball and Bowe suggest choice helps middle-class parents most [evaluation].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--04-new-right-social-democratic.webp" width="900" height="495" alt="Social democrats such as Halsey support state action for equal opportunity and draw on human capital theory; Wolf questions the link to growth. The New Right, following Chubb and Moe, wants marketisation through choice and competition; Gewirtz, Ball and Bowe show choice favours middle-class parents." loading="lazy">
+  <figcaption>Social democrats want the state to equalise; the New Right wants markets to raise standards.</figcaption>
+</figure>
 
 ## 5.2 Meritocracy, life chances and social mobility
 
@@ -131,6 +151,16 @@ Functionalists and social democrats stress the waste of talent. Marxists argue t
 
 **Worked paragraph.** *Goldthorpe found absolute mobility rose while relative mobility stayed stable [knowledge]. Where many new office jobs open up, working-class children may rise while middle-class children keep their head start [application]. So more mobility does not prove a fairer system [analysis]. Functionalists reply that exams still let able pupils rise [evaluation].*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--05-absolute-relative-mobility.webp" width="900" height="665" alt="A schematic of the occupational structure growing more middle-class jobs over time, so absolute upward mobility rises, while relative mobility stays stable because middle-class children keep their head start. Below, Goldthorpe’s study, the 1958 and 1970 cohort comparison and the Great Gatsby curve." loading="lazy">
+  <figcaption>More upward movement does not mean fairer chances: relative mobility can stay the same.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--06-diploma-disease.webp" width="900" height="683" alt="A cycle: more people gain a qualification, employers ask for a higher one, each qualification is worth less, and people seek higher credentials, so qualification inflation continues." loading="lazy">
+  <figcaption>As credentials spread, employers raise the bar and each one is worth less.</figcaption>
+</figure>
+
 ## 5.3 Knowledge, the curriculum and cultural reproduction
 
 The **social construction of knowledge** means that what counts as valuable knowledge is decided by people, not fixed by nature. The **new sociology of education** of the 1970s, including the collection *Knowledge and Control* edited by Michael F. D. Young, argued that school knowledge is socially organised. **Michael Apple**, *Ideology and Curriculum* (1979), asked whose knowledge becomes "official" in schools and argued that the curriculum is not neutral.
@@ -154,6 +184,16 @@ The **social construction of knowledge** means that what counts as valuable know
 **Evaluation.** Many schools now include more diverse history and literature. Postmodernists argue that the idea of one dominant culture is too simple. Others argue all pupils need the same powerful knowledge.
 
 **Worked paragraph.** *Bourdieu argues that schools reward middle-class cultural capital [knowledge]. In a literature course built on classic texts some families discuss at home, those pupils start ahead [application]. The curriculum turns home advantage into qualifications [analysis]. However, pupils can also gain cultural capital at school [evaluation].*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--07-curriculum-influences.webp" width="900" height="541" alt="Power, status, culture, economic demands and gender shape the content of the curriculum, which Apple argues is not neutral. Three forms of cultural reproduction follow: the ethnocentric curriculum (Coard), the gendered curriculum (Spender) and the hidden curriculum (Jackson)." loading="lazy">
+  <figcaption>Curriculum content reflects power, and reproduces culture through ethnocentric, gendered and hidden forms.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-education-society-and-the-curriculum--08-cultural-capital.webp" width="900" height="565" alt="Bourdieu’s three forms of cultural capital: embodied (manner, speech, tastes), objectified (books, art, instruments) and institutionalised (qualifications). A chain shows habitus learned at home meeting a curriculum that rewards middle-class cultural capital, so middle-class pupils start ahead." loading="lazy">
+  <figcaption>Schools turn middle-class home culture into qualifications.</figcaption>
+</figure>
 
 ## Common errors
 

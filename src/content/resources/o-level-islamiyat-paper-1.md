@@ -99,6 +99,16 @@ answer characteristically includes supporting reference, though this
 is a description of what such answers tend to do, not an absolute
 rule against fact-only answers.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--01-paper-1-structure.webp" width="900" height="676" alt="Question 1 (three short passages on the Qur'an's themes, write on any two, 8 marks) and Question 2 (history and importance of the Qur'an, 14 marks) are compulsory. Candidates then choose two of Questions 3 to 5, set on the life of the Prophet and the first Islamic community, at 14 marks each." loading="lazy">
+  <figcaption>Two compulsory questions, then two chosen from three: 50 marks in 1 hour 30 minutes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--02-assessment-objectives.webp" width="900" height="526" alt="A bar split 68 to 32: AO1, recall, select and present, against AO2, understanding of significance and reasoning. Below, the highest AO1 band is &quot;likely to quote Qur'an verses and Hadiths&quot;, while the band below &quot;may&quot; quote." loading="lazy">
+  <figcaption>Two-thirds of the marks are knowledge; quoting supporting references marks the top band.</figcaption>
+</figure>
+
 ## Key content across the four sub-topics
 
 The Qur'an was **revealed over 23 years (610–632 CE)**, beginning in
@@ -124,6 +134,21 @@ out equality, the sanctity of life and property, and the abolition of
 usury and blood feuds. Placing these events in relation to one
 another, rather than recalling them in isolation, is exactly what
 essay questions on these two sub-topics often ask candidates to do.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--03-quran-key-facts.webp" width="900" height="462" alt="Four fact tiles: revealed over 23 years (610–632 CE), beginning in the Cave of Hira, through the angel Jibril, in 114 surahs. Below, Makkan surahs are generally shorter and concern tawhid, the afterlife and moral conduct; Madinan surahs are generally longer and concern law, community and social order." loading="lazy">
+  <figcaption>Four numbers and places to know, and the Makkan–Madinan contrast.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--04-compiled-then-standardised.webp" width="900" height="520" alt="Two stages. First Abu Bakr compiled the Qur'an after the Battle of Yamama killed many who had memorised it. Later Uthman standardised it, distributing official copies and having variant texts destroyed. A warning box says to keep the stages separate." loading="lazy">
+  <figcaption>Abu Bakr compiled; Uthman standardised. Examiners expect the two kept apart.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-islamiyat-paper-1--05-connected-timeline.webp" width="900" height="686" alt="A vertical sequence: first revelation in 610; the Hijra to Madinah in 622, starting the Islamic calendar; the Constitution of Madinah; the pairing of the Muhajirun with the Ansar; the Battles of Badr, Uhud and the Trench; and the Farewell Sermon on equality, the sanctity of life and property, and the abolition of usury and blood feuds." loading="lazy">
+  <figcaption>Place events in relation to one another, not as isolated facts.</figcaption>
+</figure>
 
 ## How to approach it
 

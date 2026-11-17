@@ -59,6 +59,11 @@ stimulus may include pictures. Exercise 6 doubles the marks for about 200 words 
 The difference in practice is **development**: ideas explained, supported and linked across paragraphs
 (W2), not just stated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--01-exercise-5-versus-6.webp" width="900" height="662" alt="Side by side: Exercise 5 is 8 marks for about 120 words of functional writing from prompts or pictures; Exercise 6 is 16 marks, just over a quarter of the paper, for about 200 words of continuous prose from short prompts. The difference is development." loading="lazy">
+  <figcaption>Twice the marks for developed, linked ideas, not just more words.</figcaption>
+</figure>
+
 ## Which formats to prepare
 
 The syllabus's Writing content lists the kinds of writing candidates should be able to produce "such as a
@@ -76,6 +81,11 @@ for your series.
 
 Format is part of W5, so make it visible: a report that opens like a chatty blog is weaker on W5 even if
 every sentence is accurate.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--02-formats.webp" width="900" height="764" alt="A table of five formats with their Urdu names, conventions and usual register: article (مضمون), blog post (بلاگ), report (رپورٹ), review (تبصرہ) and letter (خط). A report needs a title, a purpose statement and recommendations (سفارشات)." loading="lazy">
+  <figcaption>Each format has conventions; showing them earns W5.</figcaption>
+</figure>
 
 ## Reading the task: purpose, format, audience
 
@@ -99,6 +109,11 @@ The audience decides the register. For a head teacher or a formal report, use **
 (مدعو کرنا rather than بلانا, تقریب rather than فنکشن). For a blog for other teenagers, a warmer tone is
 right, but it is still written Urdu: avoid slang and English words where an everyday Urdu word exists.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--03-rubric-verbs.webp" width="900" height="850" alt="A table of rubric verbs and the language each calls for: بیان کیجیے (describe), وضاحت کیجیے (explain: کیونکہ), اپنی رائے دیجیے (opinion: میرے خیال میں), مشورہ دیجیے (advise: چاہیے) and قائل کیجیے (persuade). For a formal reader, prefer مدعو کرنا to بلانا and تقریب to فنکشن." loading="lazy">
+  <figcaption>Match your language to the verb in the rubric and the register to the reader.</figcaption>
+</figure>
+
 ## Using the prompts
 
 The prompts are short: often a few comments, as if from different people, or headings. Treat each one
@@ -117,6 +132,11 @@ The developed version names a specific event and adds a consequence with جس ک
 and W3 in one sentence. Check whether the rubric lets you add your own ideas, and make sure every part
 of the task is covered: a missing part loses content that cannot be made up elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--04-developing-a-prompt.webp" width="900" height="742" alt="The prompt کچھ پروگرام بہت لمبے تھے۔ is copied almost unchanged in the undeveloped version, while the developed version names the three-hour speech contest and adds a consequence with جس کی وجہ سے: younger pupils became restless and many people left before the prizes." loading="lazy">
+  <figcaption>Name something specific, then say what followed from it.</figcaption>
+</figure>
+
 ## Planning about 200 words in about 30 minutes
 
 Paper 1 gives 2 hours for 60 marks, about two minutes a mark, so Exercise 6 deserves roughly **30
@@ -133,6 +153,11 @@ Paragraph 4  (about 30-40)      conclusion: opinion, recommendation or final tho
 
 "Approximately 200 words" is guidance. Far shorter usually means undeveloped points; far longer eats
 checking time. Learn in practice how much space 200 words of your handwriting takes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--05-planning-200-words.webp" width="900" height="808" alt="A 30-minute plan of 3 minutes planning, 22 writing and 5 checking, and a four-paragraph shape: an introduction of about 30 words, two developed main points of about 60-70 words each, and a conclusion of about 30-40 words." loading="lazy">
+  <figcaption>Two developed middle paragraphs carry most of the 200 words.</figcaption>
+</figure>
 
 ## Language that lifts the mark
 
@@ -157,6 +182,16 @@ checking time. Learn in practice how much space 200 words of your handwriting ta
 **Punctuation and spelling (W4).** End sentences with the Urdu full stop **۔**, use **،** for commas and
 **؟** for questions. Check words that sound alike but are spelt differently, such as **ضروری** (not
 ظروری) and **ذریعے** (not زریعے), and the difference between ہ and ھ, as in **پہلے** and **پھر**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--06-linking-devices.webp" width="900" height="735" alt="A table of Urdu linking devices by function: adding (اس کے علاوہ، مزید یہ کہ), contrasting (لیکن، تاہم، دوسری طرف), cause and result (کیونکہ، اس لیے، چنانچہ), sequencing (سب سے پہلے، پھر، آخر میں) and concluding (مختصر یہ کہ)." loading="lazy">
+  <figcaption>A range of linking words, not the same one every time, shows W2.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--07-structures-and-accuracy.webp" width="900" height="1042" alt="Five Urdu structures with glosses: a condition with اگر… تو, a relative clause with جو, a passive, a suggestion with میری تجویز ہے کہ, and a comparison with کے مقابلے میں. Below, the Urdu full stop, comma and question mark, and spellings such as ضروری (not ظروری) and ذریعے (not زریعے)." loading="lazy">
+  <figcaption>Plan a few structures in deliberately, then check punctuation and spelling.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -212,6 +247,11 @@ Strong:  اگرچہ زیادہ تر پروگرام دلچسپ تھے، لیکن 
 
 The weak version repeats اچھا and has three unlinked simple sentences. The strong version contrasts
 two ideas (اگرچہ ... لیکن), gives a result, and gets the feminine agreement right: تقریبات ... لمبی تھیں.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise--08-report-plan.webp" width="900" height="1070" alt="The plan for a report to the principal on cultural week: a title ثقافتی ہفتے کی رپورٹ and purpose statement, what worked (the food fair), what did not (overlong programmes), and recommendations under سفارشات. The prompt والدین کو بھی بلانا چاہیے is raised to والدین کو بھی مدعو کیا جائے." loading="lazy">
+  <figcaption>Title, purpose, two developed points and recommendations, in formal Urdu.</figcaption>
+</figure>
 
 ## Common mistakes
 

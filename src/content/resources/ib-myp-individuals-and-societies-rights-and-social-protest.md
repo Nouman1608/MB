@@ -56,6 +56,11 @@ A **de jure** right exists in law. A **de facto** right exists in practice. US l
 
 Older landmarks, such as the French Declaration of the Rights of Man and of the Citizen (1789), protected only some people.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--01-de-jure-de-facto.webp" width="900" height="595" alt="A de jure right exists in law, as when US law gave Black men the vote in 1870; a de facto right exists in practice, and for decades many could not use that vote in the South. Protests often target the gap between the two. Below, rights split into civil and political, and economic, social and cultural." loading="lazy">
+  <figcaption>A right on paper is not always a right in practice; protests often target the gap.</figcaption>
+</figure>
+
 ## The Universal Declaration of Human Rights (1948)
 
 ### Why it was written
@@ -97,6 +102,16 @@ Task: identify which UDHR articles South African apartheid laws breached.
 2. **Match each to an article.** Racial classification breached Article 2 (non-discrimination). The Group Areas Act and pass laws breached Article 13 (freedom of movement). Denying the vote to the Black majority breached Article 21.
 3. **Add the legal point.** South Africa abstained in 1948 and the UDHR was not binding, so critics used it as a moral standard, not as law.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--02-international-bill.webp" width="900" height="718" alt="The non-binding UDHR of 10 December 1948 leads to two binding 1966 treaties, the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights, in force from 1976 for ratifying states. Together they form the International Bill of Human Rights." loading="lazy">
+  <figcaption>The UDHR is a declaration; the 1966 covenants are the binding treaties.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--03-apartheid-udhr.webp" width="900" height="715" alt="Four apartheid measures linked to the UDHR articles they breached: racial classification under the Population Registration Act breached Article 2; the Group Areas Act and pass laws breached Article 13 on freedom of movement; denying the Black majority the vote breached Article 21." loading="lazy">
+  <figcaption>Name the law, say what it did, then match it to an article.</figcaption>
+</figure>
+
 ## Three protest movements
 
 ### US civil rights movement
@@ -128,6 +143,11 @@ The National Party won the 1948 election and built **apartheid**, a system of ra
 - **War.** The WSPU suspended its campaign in August 1914; women's war work changed attitudes.
 - **Result.** The Representation of the People Act (1918) gave the vote to women over 30 who met a property qualification. The Equal Franchise Act (1928) gave women the vote on the same terms as men, at 21.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--04-three-movements.webp" width="900" height="780" alt="Three timelines side by side. US civil rights: Brown v. Board 1954, the Montgomery Bus Boycott 1955 to 1956, Greensboro 1960, Birmingham and the March on Washington 1963, the Civil Rights Act 1964 and the Voting Rights Act 1965. Anti-apartheid: the Defiance Campaign 1952 to the first all-race election in 1994. British women’s suffrage: NUWSS 1897 to equal franchise in 1928." loading="lazy">
+  <figcaption>Accurate, dated evidence from each movement is what examiners reward.</figcaption>
+</figure>
+
 ## Methods of protest
 
 | Category | Methods | Example |
@@ -141,6 +161,11 @@ The National Party won the 1948 election and built **apartheid**, a system of ra
 | International pressure | Sanctions, embargoes, sports boycotts | UN arms embargo on South Africa, 1977 |
 
 The persuasion, non-cooperation and non-violent intervention rows follow the political scientist Gene Sharp, who in 1973 listed 198 methods of non-violent action under three headings: protest and persuasion, non-cooperation, and non-violent intervention. **Civil disobedience** means openly breaking an unjust law and accepting the penalty to show the law is unjust.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--05-methods-of-protest.webp" width="900" height="754" alt="Seven categories of protest from persuasion through legal action, non-cooperation and non-violent intervention to militant action against property and armed struggle, plus international pressure, each with an example such as the March on Washington, the Montgomery Bus Boycott or Umkhonto we Sizwe. Three are marked as Gene Sharp’s headings of non-violent action." loading="lazy">
+  <figcaption>Classify a method before explaining why a movement chose it.</figcaption>
+</figure>
 
 ## Judging effectiveness
 
@@ -173,6 +198,16 @@ Increase in registrations: (312,000 − 120,000) ÷ 120,000 × 100 = 160%
 ```
 
 Say "a rise of 40 percentage points", not "a 40% rise". Then add a limit: registering is not voting.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--06-judging-effectiveness.webp" width="900" height="628" alt="Four questions applied to the Montgomery Bus Boycott: its aim, ending segregated bus seating, was achieved in law in 1956; in practice schools and voting stayed segregated for years; it was a short-term local win that made King a national figure; it worked through economic pressure, unity for 381 days and a parallel court case." loading="lazy">
+  <figcaption>Measure success against the movement’s own aims, in law and in practice, short and long term.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-rights-and-social-protest--07-registration-data.webp" width="900" height="625" alt="Bars for fictional Norland: the registered share of 480,000 eligible minority adults rose from 25% (120,000) to 65% (312,000) five years after a voting rights law. That is a rise of 40 percentage points, while the number registered rose by 160%." loading="lazy">
+  <figcaption>A rate rising from 25% to 65% is 40 percentage points; registering is not the same as voting.</figcaption>
+</figure>
 
 ## Concepts and global contexts
 

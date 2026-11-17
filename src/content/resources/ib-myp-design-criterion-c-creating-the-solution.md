@@ -51,6 +51,11 @@ Facts from the brief worth knowing:
 
 Criterion C sits between choosing a design (B) and testing it (D). For how C fits the whole cycle, see the [design cycle study guide](/resources/ib-myp-design-design-cycle/) and [the four criteria in practice](/resources/ib-myp-design-criteria-in-practice/).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--01-criterion-c-overview.webp" width="900" height="745" alt="Criterion C, creating the solution, sits between the chosen design from Criterion B and testing in Criterion D. It splits into four skills: a logical plan, technical skills, following the plan with a record, and justifying changes. The outcome is a prototype complete enough to test." loading="lazy">
+  <figcaption>Plan, show skill, follow and record, justify changes: then test in Criterion D.</figcaption>
+</figure>
+
 ## 1. Writing a logical plan
 
 A plan is logical when someone else could pick it up and make your product in the right order without asking you anything. It answers four questions for every step:
@@ -114,6 +119,16 @@ Step                                   Time   Resources
 
 Here the resources are software, devices, accounts and client content. The plan still needs an order (template before pages) and checks.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--02-logical-plan-questions.webp" width="900" height="700" alt="Every planned step answers four questions: what is done, in what order, how long it takes and with what resources. Strong plans add safety and quality-check columns. A flowchart shows a check that sends you back: if parts are not within ±1 mm, re-cut them." loading="lazy">
+  <figcaption>Someone else should be able to make your product from the plan without asking you anything.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--03-caddy-gantt-plan.webp" width="900" height="712" alt="Gantt chart of nine steps for a plywood brush caddy across six 55-minute lessons: mark out 30, laser-cut 40, sand 35, drill 20, dry-fit 20, glue and clamp 30 (dries overnight), fit handle 15, finish 60 and check 20 minutes. They total 270 of 330 minutes, leaving 60 minutes (18.2%) of contingency. A digital plan uses 215 of 250 minutes, 14.0% contingency." loading="lazy">
+  <figcaption>Times add up inside the lessons available, with contingency left for problems.</figcaption>
+</figure>
+
 ## 2. Showing technical skills
 
 A well-made prototype is not enough on its own. Your folder has to show the skill that went into it, because a moderator sees the evidence, not the object. Show:
@@ -126,6 +141,11 @@ A well-made prototype is not enough on its own. Your folder has to show the skil
 Annotate every image: what the image shows, the skill involved, and what you checked. "Photo 4: drilling the 12 mm handle holes with both ends clamped together so the holes line up" is evidence. "Photo 4: drilling" is not.
 
 For digital work, short code extracts or before-and-after screenshots do the same job: show the feature, then explain the technique and how you checked it works.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--04-annotating-skill-evidence.webp" width="900" height="700" alt="A caption that only says “Photo 4: drilling” is not evidence. A strong annotation says what the image shows (drilling the 12 mm handle holes), the skill involved (both ends clamped together) and what was checked (the holes line up), alongside measured accuracy such as all nine parts within ±1 mm." loading="lazy">
+  <figcaption>The moderator sees the evidence, not the object, so every image needs an annotation.</figcaption>
+</figure>
 
 ## 3. Following the plan
 
@@ -147,6 +167,11 @@ In week 2 of the caddy project the laser cutter was out of action, so the parts 
 | **Total** | **270** | **295** | **+25** |
 
 The project used 295 of the 330 minutes, so 330 − 295 = **35 minutes** of contingency was left. The log shows the plan was followed in order, where it slipped, and that contingency absorbed the problem -- far stronger than "everything went to plan".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--05-planned-vs-actual.webp" width="900" height="722" alt="Paired bars compare planned and actual minutes for the caddy. Cutting took 65 instead of 40 minutes (+25) and sanding 45 instead of 35 (+10) after the laser cutter broke and a scroll saw was used; dry-fit and finishing each saved 5. The total was 295 against 270 planned, leaving 35 of the 330 minutes." loading="lazy">
+  <figcaption>A log with planned and actual times shows where the project slipped and how contingency absorbed it.</figcaption>
+</figure>
 
 ## 4. Justifying changes
 
@@ -178,6 +203,16 @@ Write each change in four parts:
 ### When to update the plan
 
 If a change affects later steps, mark up the original plan (a "revised" column, say) rather than replacing it, so both versions are visible.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--06-plan-change-vs-design-change.webp" width="900" height="670" alt="The laser cutter being out of action caused a change to the plan, cutting parts on a scroll saw, which in turn caused a change to the design, replacing finger joints with glued butt joints and panel pins. Plan changes alter how or when you make it; design changes alter the product itself." loading="lazy">
+  <figcaption>Keep plan changes and design changes apart, even when one event causes both.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-design-criterion-c-creating-the-solution--07-four-part-justification.webp" width="900" height="730" alt="A full justification states what changed, why with evidence, the effect on the solution and how it will be tested in Criterion D, and the effect on the plan’s time and resources, using the caddy’s switch to butt joints as the example. Giving only the cause is a partial justification." loading="lazy">
+  <figcaption>A change is justified only when its cause and both of its effects are written down.</figcaption>
+</figure>
 
 ## Common errors
 

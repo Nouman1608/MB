@@ -67,6 +67,11 @@ The point is to make a reader understand what you mean by something, or to make 
 - **Definition** answers "What is it, exactly?" It sets boundaries: what counts and what does not.
 - **Description** answers "What is it like?" It supplies the features, particulars and sensory details that let a reader see or feel the thing.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--01-definition-vs-description.webp" width="900" height="528" alt="Two panels. Definition answers “What is it, exactly?” with a dashed boundary separating what counts from what does not. Description answers “What is it like?” with sight, sound, smell, touch and taste radiating from the thing described." loading="lazy">
+  <figcaption>Definition draws boundaries; description makes features vivid.</figcaption>
+</figure>
+
 ## Definition
 
 ### Formal definition
@@ -93,6 +98,16 @@ A satirical dictionary shows how pointed a definition can be. Ambrose Bierce, in
 
 The definition makes a claim about people who are certain, and the joke carries a criticism: loudness is not knowledge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--02-formal-and-extended-definition.webp" width="900" height="631" alt="A formal definition of drought split into term, class (a period of weather) and what distinguishes it (rainfall so far below normal that supplies fall short). Below, five tools for extended definitions with the lesson’s examples: examples, negation, comparison, features and requirements, and the origin of the word." loading="lazy">
+  <figcaption>Formal definitions are compact; extended ones add examples, negation and comparison.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--03-definition-as-strategy.webp" width="900" height="569" alt="Defining success as a high salary decides the argument about whether college is worthwhile before it starts. Ambrose Bierce’s satirical definition, “Positive, adj. Mistaken at the top of one’s voice”, carries a claim that loudness is not knowledge. Writers should state defensible definitions; readers should test them." loading="lazy">
+  <figcaption>Ask whether a definition is fair, or whether it carries the claim by itself.</figcaption>
+</figure>
+
 ## Description
 
 **Description** presents features and sensory details so the reader can imagine what the writer saw. In an argument, description is not decoration. It gives the reader a concrete image that supports a claim or sets a tone.
@@ -109,6 +124,11 @@ In Charles Dickens's *Bleak House* (1853), the opening description of London in 
 
 The details work: the verbs "flows" and "rolls defiled" suggest the fog is taking on the filth it passes, and the parenthesis "(and dirty)" adds the narrator's judgment in a whisper.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--04-dickens-fog.webp" width="900" height="605" alt="Dickens’s fog passage split into labelled parts: the stark opening “Fog everywhere”, the parallel “Fog up the river... fog down the river”, the shift from “flows” among green meadows to “rolls defiled” among pollution, and the whispered judgement “(and dirty)”. A river schematic shows the clean upstream and polluted downstream." loading="lazy">
+  <figcaption>Parallel clauses and a changing verb make the fog inescapable and dirty.</figcaption>
+</figure>
+
 ## Using examples and illustrations
 
 Both methods use **examples** and **illustrations** to ground ideas. An example is a particular case of a general idea. An illustration (verbal or visual) shows it in action. The difference between a weak and a strong paragraph on definition is often the example.
@@ -119,6 +139,11 @@ Both methods use **examples** and **illustrations** to ground ideas. An example 
 | "The market was busy." | "Crates scraped on stone, a vendor shouted the price of figs, and the air smelled of fish and wet cardboard." |
 
 The strong versions do not just assert; they let the reader see an instance.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--05-show-an-instance.webp" width="900" height="439" alt="Two weak-to-strong pairs. “Loyalty means being faithful” becomes laughing through a friend’s third retelling of a story. “The market was busy” becomes crates scraping on stone, a vendor shouting the price of figs, and the smell of fish and wet cardboard." loading="lazy">
+  <figcaption>The strong versions do not just assert; they let the reader see an instance.</figcaption>
+</figure>
 
 ## Worked example 1: writing an extended definition for an argument
 
@@ -137,6 +162,11 @@ The strong versions do not just assert; they let the reader see an instance.
 > Because cheating depends on the rules, a school that fears cheating from open-book tests should write open-book tests whose questions cannot be copied from the book: the cure for cheating is a better question, not a locked drawer.
 
 **Step 5: Check that the definition is fair.** It does not decide the argument by itself; it sets terms on which a reader who disagrees can still engage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-4-5-definition-description-study-guide--06-defining-cheating.webp" width="900" height="565" alt="Five steps to a fair definition of cheating: a formal definition (gaining an advantage by methods the rules forbid), noticing that it depends on the rules, extending it with the contrast between copying and an allowed formula sheet, linking it to the claim that the cure is a better question, and checking that it is fair." loading="lazy">
+  <figcaption>A good definition sets fair terms for the argument rather than winning it in advance.</figcaption>
+</figure>
 
 ## Worked example 2: analysing a description
 

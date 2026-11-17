@@ -63,6 +63,16 @@ Notice that each issue is phrased as a question that people answer differently. 
 - **Reconciliation:** rebuilding relationships between groups after conflict.
 - **Ceasefire:** an agreement to stop fighting, usually for a set time or while talks happen.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--01-conflict-issues.webp" width="900" height="692" alt="A rejected statement, War causes suffering, is not an issue because almost nobody disagrees. Three usable issues follow: globally, weapons sales to governments in conflict; nationally, trials or a truth commission after civil conflict; locally, neighbours settling disputes without the police." loading="lazy">
+  <figcaption>An issue is a question that people answer differently.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--02-peace-terms.webp" width="900" height="748" alt="Five stepped cards running from short-term to long-term: ceasefire, peacemaking, peacekeeping, peacebuilding and reconciliation, each with its definition, beside an arrow from stopping the fighting to fixing the causes. Mediation is defined below as a neutral third person helping the sides reach their own agreement." loading="lazy">
+  <figcaption>Stopping the fighting and fixing the causes are different jobs with different names.</figcaption>
+</figure>
+
 ## Perspectives and why people hold them
 
 A perspective is not just an opinion. It is a viewpoint backed by reasons and evidence, and it usually comes from the holder's situation. Component 2 asks you to "demonstrate that they understand why different people have different perspectives". So for each perspective, ask three questions: who holds it, what they argue, and why their position leads them there.
@@ -77,6 +87,11 @@ Take the national issue "Should young people be required to do national service?
 | An employer | Recruits come back with discipline and teamwork skills | It could gain more skilled workers |
 
 None of these is "the right answer"; you are rewarded for analysing them, not for picking a side. The employer and the defence ministry may also have a **vested interest**: they gain if the policy happens. That does not make them wrong, but it is a reason to check their evidence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--03-national-service.webp" width="900" height="600" alt="Four perspectives on compulsory national service. Leaning for: a defence ministry (readiness and unity, because its job is security) and an employer (discipline and teamwork, because it gains skilled workers). Leaning against: a young person (delays study and work) and a peace group (normalises violence). The ministry and employer may have a vested interest." loading="lazy">
+  <figcaption>For each perspective, ask who holds it, what they argue and why their position leads them there.</figcaption>
+</figure>
 
 ## Causes and consequences
 
@@ -99,6 +114,11 @@ The syllabus aims ask you to develop "an analytical and evaluative grasp of glob
 - Sometimes, positive consequences: new laws, peace agreements or cooperation that did not exist before.
 
 Analysis means showing **links**, not just listing. For example: a dispute over grazing land (cause) leads to farmers and herders avoiding the shared market (consequence), which reduces trade between the groups, which removes a reason to keep the peace (further consequence). Chains like this earn analysis credit. A list of five unconnected causes usually does not.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--04-causes-consequences.webp" width="900" height="664" alt="Five possible causes (scarce resources, unequal treatment, historical grievances, political exclusion, misinformation) feed into conflict, which leads to five possible consequences (displacement, interrupted schooling, damage, lasting distrust, and sometimes new laws or cooperation). Below, a chain: a grazing land dispute leads farmers and herders to avoid the shared market, trade falls, and a reason to keep the peace is lost." loading="lazy">
+  <figcaption>Causes of conflict are often disputed; link them to consequences in chains rather than lists.</figcaption>
+</figure>
 
 ## Judging sources and evidence
 
@@ -124,6 +144,11 @@ Section 4 says candidates "will benefit from an understanding of the following: 
 - **Is it supported by other sources?** Agreement between independent sources raises confidence.
 
 **A real source to practise on.** The Global Peace Index, published by the Institute for Economics and Peace, ranks countries using a set of indicators grouped into three areas: societal safety and security, ongoing domestic and international conflict, and militarisation. It is useful because it uses the same method across many countries. But a single ranking hides choices: which indicators to include, how to weight them, and how reliable the data are in countries where reporting is difficult. That is exactly the kind of evaluation the syllabus wants.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--05-global-peace-index.webp" width="900" height="560" alt="Indicators grouped into three areas (societal safety and security, ongoing conflict, militarisation) combine into one Global Peace Index ranking. Its strength is a consistent method across many countries; it hides choices about which indicators to include, how to weight them and how reliable data are where reporting is difficult." loading="lazy">
+  <figcaption>A single number is only as good as the choices behind it.</figcaption>
+</figure>
 
 ## Courses of action and their effects
 
@@ -151,6 +176,11 @@ The syllabus aims ask you to suggest "possible evidence-based courses of action"
 
 When you assess an action, use the same criteria every time: **effectiveness** (does it reduce conflict?), **feasibility** (cost, time, who must agree), **acceptability** (will all sides accept it?), **sustainability** (will the effect last?) and **unintended consequences**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--06-actions-strengths-limits.webp" width="900" height="654" alt="A table of five actions with a strength and a limitation each: the 1997 Mine Ban Treaty, UN peacekeeping, the 1998 Good Friday Agreement, South Africa’s Truth and Reconciliation Commission and school peer mediation. Below, five criteria for assessing any action." loading="lazy">
+  <figcaption>Every real action has a limitation; judge each one against the same criteria.</figcaption>
+</figure>
+
 ## Worked example: an exam-style paragraph
 
 Imagine a source in which a charity that runs a community dialogue programme in a fictional town reports that "trust between the two communities rose sharply after our programme". An answer evaluating this evidence might read:
@@ -158,6 +188,11 @@ Imagine a source in which a charity that runs a community dialogue programme in 
 > The charity's claim is supported by its own survey, which shows trust rising after the programme (**knowledge of the evidence**). However, the charity runs the programme and may need good results to keep its funding, so it has a vested interest in reporting success (**application to this source**). This matters because the survey was carried out by the same people who delivered the sessions, so respondents may have given the answers they thought the organisers wanted (**analysis**). The evidence is therefore weaker than it first looks. It would be stronger if an independent body repeated the survey with residents who did not attend, so the results could be compared (**evaluation and a suggested test**).
 
 The last sentence also suggests a way to test the claim, a skill the syllabus describes for Question 2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-global-perspectives-0457-conflict-and-peace--07-dialogue-programme-paragraph.webp" width="900" height="660" alt="A fictional charity claims trust rose sharply after its dialogue programme. Four tagged steps evaluate it: the charity’s own survey supports it; the charity has a vested interest; the organisers ran the survey; so an independent body should repeat it, including non-attenders." loading="lazy">
+  <figcaption>End an evaluation by suggesting how the claim could be tested.</figcaption>
+</figure>
 
 ## Individual Report ideas
 

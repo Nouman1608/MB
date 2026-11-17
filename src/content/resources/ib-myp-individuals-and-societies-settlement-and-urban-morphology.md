@@ -58,6 +58,11 @@ The brief names four equally weighted criteria: A Knowing and understanding, B I
 
 The difference matters because site explains why a settlement *started*, while situation often explains why it *kept growing*. Many river-crossing towns in Europe began at a bridging point (site). The largest of them grew because roads and later railways met there (situation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
+
 ## Settlement hierarchy
 
 A **settlement hierarchy** ranks settlements by size and by the services they offer. From smallest to largest: isolated dwelling, hamlet, village, town, city, conurbation (towns and cities that have merged), and megacity (usually taken as 10 million people or more).
@@ -88,6 +93,16 @@ Rank  Actual  Predicted (3.6 / n)
 ```
 
 Every lower-ranked city is smaller than predicted. The primacy index is 3.6 / 1.2 = **3.0**; under the rule it would be 2.0. So Norland has a primate city. A likely cause is that its capital holds the government, the port and most foreign investment, which pulls in migrants from every region.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--01-settlement-hierarchy.webp" width="900" height="785" alt="A stepped pyramid from isolated dwelling at the base through hamlet, village, town, city and conurbation to megacity at the top. Going up, there are fewer settlements, further apart, with more high-order services and larger spheres of influence. Threshold, range and sphere of influence are defined below with examples." loading="lazy">
+  <figcaption>Bigger places need bigger thresholds, draw people from further and serve wider areas.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--02-rank-size-norland.webp" width="900" height="714" alt="Paired bars for fictional Norland’s five largest cities: actual sizes 3.6, 1.2, 1.0, 0.6 and 0.5 million against rank-size predictions of 3.6, 1.8, 1.2, 0.9 and 0.72 million. Every lower-ranked city falls short, and the primacy index is 3.0 against 2.0 expected." loading="lazy">
+  <figcaption>When the largest city dwarfs the rest, the country has a primate city.</figcaption>
+</figure>
 
 ## Urban land-use models
 
@@ -131,6 +146,21 @@ A class records land use on 40 plots at five points along a road leading out fro
 
 Commercial land use falls steadily with distance from the centre, from 85% to 5%. This supports the Burgess idea of a CBD with bid rent falling outwards. But one transect cannot test Hoyt's sectors: you would need transects in several directions to see whether land uses form wedges.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--03-burgess-vs-griffin-ford.webp" width="900" height="755" alt="Two strips from city centre to edge. Burgess, based on Chicago in 1925: CBD, zone in transition, working-class homes, residential zone, commuter zone. Griffin and Ford, Latin American cities in 1980: CBD and commercial spine with an elite sector, housing declining in quality outwards, and peripheral squatter settlements at the edge." loading="lazy">
+  <figcaption>Burgess puts the better-off at the edge; Griffin and Ford put the poorest there.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--04-transect-test.webp" width="900" height="703" alt="A bar chart of the share of plots in commercial use along one road: 85% at the centre, 55% at 0.5 km, 30% at 1 km, 15% at 2 km and 5% at 3 km. The steady fall supports the Burgess idea of a CBD with falling bid rent, but one transect cannot test Hoyt’s sectors." loading="lazy">
+  <figcaption>A steady fall with distance supports Burgess; testing sectors needs several directions.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-ib-dp-geography-urban-environments-study-guide--01-urban-models.webp" width="900" height="1100" alt="Three plan views. Burgess: concentric rings around a central business district. Hoyt: wedge-shaped sectors spreading from the centre, with dashed lines for transport routes. Harris and Ullman: several separate nuclei besides the central business district." loading="lazy">
+  <figcaption>Three classic models of how land use is arranged in a city.</figcaption>
+</figure>
+
 ## Urbanisation
 
 **Urbanisation** is the increase in the *proportion* of a population living in urban areas. It is not the same as **urban growth**, which is an increase in the *number* of urban dwellers. A city can grow while the country's level of urbanisation stays the same, if rural areas grow just as fast.
@@ -156,6 +186,11 @@ Rural population: 7.8 million → 6.5 million
 
 The rural population fell while the total rose, so migration from rural areas is a likely cause, not just natural increase. Note the difference between a change in **percentage points** (23.3) and a **percentage** increase (116.7%).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--05-urbanisation-vs-growth.webp" width="900" height="640" alt="Stacked bars for fictional Norland: in 2000, 4.2 million urban and 7.8 million rural (35.0% urban); in 2020, 9.1 million urban and 6.5 million rural (58.3% urban). Urbanisation rose 23.3 percentage points while the urban population grew 116.7%." loading="lazy">
+  <figcaption>Urbanisation measures the share living in towns; urban growth measures the number.</figcaption>
+</figure>
+
 ## Informal settlements
 
 An **informal settlement** is housing built without legal title to the land or without planning permission. Homes are often self-built. Services such as piped water, sewers and rubbish collection may be missing. Such settlements form when cities grow faster than jobs, housing and infrastructure. They often occupy land nobody else wants: steep slopes, flood plains, land beside railways.
@@ -169,6 +204,11 @@ Responses include:
 - **Self-help schemes** -- residents build with technical support. The Orangi Pilot Project in Karachi, begun in 1980, helped residents lay their own lane sewers at low cost.
 - **Site-and-service schemes** -- the authority provides plots with basic services, and families build their own homes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--06-informal-settlement-responses.webp" width="900" height="620" alt="Four responses: clearance and relocation, often far from work; site-and-service plots where families build; self-help schemes such as the Orangi Pilot Project in Karachi; and upgrading in place such as Rio’s Favela-Bairro programme. Informal settlements also have workshops, markets and community networks, as in Dharavi, Mumbai." loading="lazy">
+  <figcaption>Responses range from moving people out to improving homes where they stand.</figcaption>
+</figure>
+
 ## Sustainable cities
 
 A **sustainable city** meets the needs of its people today without harming the ability of future residents to meet theirs. It balances three things: the environment, the economy and social fairness. The UN's Sustainable Development Goal 11 (2015) is about sustainable cities and communities.
@@ -176,6 +216,11 @@ A **sustainable city** meets the needs of its people today without harming the a
 Features to look for: efficient public transport, cycling and walking routes, green space, waste reduction and recycling, energy-efficient buildings, affordable housing and building on **brownfield** (previously used) rather than **greenfield** land.
 
 Curitiba in Brazil is a common case study. From the 1970s it built a bus rapid transit system on dedicated lanes, created parks on flood-prone land, and ran a scheme in which residents could exchange recyclable waste for food. When you judge any city, ask who benefits, who pays and whether the gains last.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-and-societies-settlement-and-urban-morphology--07-sustainable-city.webp" width="900" height="751" alt="Three overlapping circles, environment, economy and social fairness, meet in a central balance. Features to look for include public transport, cycling and walking routes, green space, recycling, efficient buildings, affordable housing and brownfield building. Curitiba’s bus rapid transit, flood-land parks and waste-for-food scheme are a common case study." loading="lazy">
+  <figcaption>A sustainable city balances environment, economy and fairness, now and for later residents.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--01-census-growth.webp",
+  "width": 900,
+  "height": 636,
+  "after": "## How fast has Pakistan's population grown?",
+  "alt": "A bar chart on a true time scale shows census populations of about 34 million in 1951, 84 million in 1981, 132 million in 1998, 208 million in 2017 and 241.5 million in 2023, with growth of about 2.55% a year between 2017 and 2023.",
+  "caption": "Pakistan’s population has grown about sevenfold since 1951.",
+  "bytes": 56142
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--02-natural-increase.webp",
+  "width": 900,
+  "height": 644,
+  "after": "## How fast has Pakistan's population grown?",
+  "alt": "A schematic graph from independence to today. The death rate falls steeply while the birth rate falls much more slowly, so the shaded gap between them, natural increase, stays wide.",
+  "caption": "Deaths fell fast and births fell slowly, so natural increase stayed high.",
+  "bytes": 71468
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--03-population-pyramid.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## What does Pakistan's population pyramid show?",
+  "alt": "A schematic pyramid with a broad base (a third or more under 15), a slightly narrower bottom bar as birth rates begin to fall, a bulge in the 15–29 groups and a narrow top with few over 65. Boxes below list effects now and projected effects, including the demographic dividend.",
+  "caption": "A broad base and a youth bulge: a dividend if jobs are created, a problem if not.",
+  "bytes": 116260
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--04-growth-factors.webp",
+  "width": 900,
+  "height": 772,
+  "after": "## Why does population keep growing?",
+  "alt": "Five factors point to continued growth: social (early marriage, son preference), educational (low female literacy), economic (children as workers and old-age support), political (inconsistent family-planning priority) and medical (falling child deaths). Below are the problems growth causes and the solutions to evaluate.",
+  "caption": "Five kinds of factor keep growth high; each solution needs money and time.",
+  "bytes": 122832
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--05-push-pull-migration.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## Why do people migrate, and with what effects?",
+  "alt": "Push factors in the countryside (landlessness, low wages, floods and drought, few services) and pull factors in the city (jobs, education, health care) drive migrants to Karachi and Lahore, while remittances flow back. Boxes show the effects on each side and the measures used, with their limits.",
+  "caption": "People are pushed from the countryside and pulled to the city; money flows back.",
+  "bytes": 116654
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--06-density-by-province.webp",
+  "width": 900,
+  "height": 670,
+  "after": "## How is population distributed, and how dense is it?",
+  "alt": "Horizontal bars of approximate 2023 density: Islamabad Capital Territory about 2,600 people per km², Punjab 620, Khyber Pakhtunkhwa 400, Sindh 395 and Balochistan 43, with populations of 2.4, 127.7, 40.9, 55.7 and 14.9 million.",
+  "caption": "Density ranges from about 43 people per km² in Balochistan to 2,600 in Islamabad.",
+  "bytes": 70926
+ },
+ {
+  "file": "o-level-pakistan-studies-population-and-employment--07-workforce.webp",
+  "width": 900,
+  "height": 694,
+  "after": "## How is the workforce employed?",
+  "alt": "A full-width bar splits employment in 2020–21 into agriculture 37.4%, industry 25.4% and services 37.2%, with agriculture falling slowly and services growing fastest. Below, unemployment and underemployment are defined with their rural and urban causes, leading to lower GNP and GDP.",
+  "caption": "Farming and services each employ over a third of workers; idle labour holds GDP down.",
+  "bytes": 99886
+ }
+]

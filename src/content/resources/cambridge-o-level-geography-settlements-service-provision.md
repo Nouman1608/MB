@@ -60,6 +60,11 @@ map.
 On a map extract, describe the pattern you see and then **suggest** a reason linked to a feature
 on the map, such as "linear along the main road, which gives access to markets".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--01-settlement-patterns.webp" width="900" height="615" alt="Three plan views. Dispersed: isolated farmhouses spread across fields, typical of large or pastoral farms where water is everywhere. Nucleated: houses clustered round a crossroads or well, for shared water, defence or cooperation. Linear: houses in a line along a road, also found along railways, rivers, coasts and valley floors." loading="lazy">
+  <figcaption>Name the pattern, then give a reason tied to a feature you can see.</figcaption>
+</figure>
+
 ## Key idea 2: site factors
 
 The **site** is the land a settlement is built on. Early settlements were sited to meet basic
@@ -74,6 +79,11 @@ needs.
 - **Gap**: a natural route through hills.
 - **Shelter and aspect**: protection from prevailing winds; slopes facing the sun.
 - **Building materials, fuel and fertile land** nearby.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--02-site-factors.webp" width="900" height="765" alt="A schematic landscape with six numbered settlements: 1 on a dry point above a marshy floodplain; 2 inside a meander loop for defence, like Durham; 3 at a bridging point; 4 at a spring, a wet point; 5 in a gap through the hills; 6 on a sheltered, sunny slope. A key below names each site factor." loading="lazy">
+  <figcaption>Early sites met basic needs: water, safety from floods and attack, crossings and routes.</figcaption>
+</figure>
 
 ## Key idea 3: growth and functions
 
@@ -97,6 +107,11 @@ Functions **change over time**. Large cities are multi-functional. A small fishi
 become a tourist resort; a mining town may decline when the mine closes; a farming village near a
 city may become a commuter village whose residents work elsewhere. Islamabad shows a planned
 administrative function: it was planned and built in the 1960s as Pakistan's new capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-geography-population-and-settlement--05-site-situation.webp" width="900" height="900" alt="A schematic landscape, not to scale. A small settlement sits on a patch of land inside a dashed ring: the ring is its site, the physical land it is built on. Dashed arrows from the ring to a river, hills and a neighbouring settlement show its situation, its position relative to surrounding features and other places. Both influence growth and functions." loading="lazy">
+  <figcaption>Site is the land a settlement is built on; situation is its position relative to surrounding features and other places.</figcaption>
+</figure>
 
 ## Key idea 4: the hierarchy of settlements and services
 
@@ -124,6 +139,16 @@ reduce visits, and populations have aged or declined. Responses include mobile s
 community-run shops. In fast-growing urban areas the opposite problem arises: services cannot be
 built fast enough to meet demand.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--03-settlement-hierarchy.webp" width="900" height="750" alt="A stepped pyramid from isolated dwelling at the base through hamlet, village, town and city to conurbation at the top. An arrow upwards notes fewer settlements, each larger and further apart, with more and higher-order services and a larger sphere of influence. Below, threshold and range explain why only large settlements support high-order services." loading="lazy">
+  <figcaption>Threshold and range decide which services each level can support.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--04-changing-services.webp" width="900" height="475" alt="Causes of rural service closure (more car ownership, online shopping and banking, ageing or declining population) lead to the loss of village shops, banks and post offices. Responses include mobile libraries, clinics and banking vans, multi-purpose shops with a post office and café, and community-run shops. In fast-growing cities the problem is the reverse." loading="lazy">
+  <figcaption>Fewer local customers push services away; mobile and shared services fill the gap.</figcaption>
+</figure>
+
 ## Worked example: measuring a sphere of influence
 
 A student surveys 40 shoppers in a market town about where they live. Illustrative results:
@@ -143,6 +168,11 @@ A student surveys 40 shoppers in a market town about where they live. Illustrati
 Conclusion: the larger the threshold and range of a service, the fewer settlements can support it,
 which is why the hierarchy forms. Limitations to mention in an evaluation: a small sample, one day
 only, and the time and day of the survey may not be typical.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-settlements-service-provision--05-sphere-of-influence.webp" width="900" height="730" alt="Three circles centred on a market town show the spheres of influence of a newsagent (furthest customer 4 km), a supermarket (15 km) and a furniture store (55 km), with desire lines to customers’ homes. A table gives mean and furthest distances: newsagent 1.5 and 4 km, supermarket 6 and 15 km, furniture store 22 and 55 km. The furniture store is high-order; the newsagent low-order." loading="lazy">
+  <figcaption>High-order services draw customers from much further away.</figcaption>
+</figure>
 
 ## Common mistakes
 

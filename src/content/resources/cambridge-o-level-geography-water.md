@@ -49,6 +49,11 @@ and data practice.
 | Water transfer | Pipelines or canals move water from wet areas to dry areas | Supplies cities far from rivers; very expensive; can harm the source area |
 | Rainwater harvesting | Rain from roofs is collected in tanks | Cheap and local; depends on rainfall |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-water--01-water-supply-methods.webp" width="900" height="795" alt="A schematic landscape with seven numbered water sources: 1 a dam and reservoir in the hills; 2 a borehole pumping from an aquifer below the water table; 3 river abstraction; 4 a desalination plant on the coast; 5 a water recycling plant; 6 a transfer pipeline; 7 rainwater harvested from a roof into a tank. A key gives one advantage and one drawback of each." loading="lazy">
+  <figcaption>Every supply method has a benefit and a cost to weigh.</figcaption>
+</figure>
+
 ## Water use and development
 
 Water use is split into three sectors: **agriculture** (mainly
@@ -81,6 +86,11 @@ Be careful to separate **share** (percentage) from **amount** (volume).
 A high-income country can use a smaller percentage for agriculture but
 still a large volume.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-water--02-water-use-sectors.webp" width="900" height="755" alt="Stacked bars of water use. Low income: agriculture 85, industry 5, domestic 10 per cent. Middle income: 70, 18 and 12 per cent. High income: 40, 45 and 15 per cent. Explanations: farming and irrigation dominate in low-income countries; factories and power stations raise industry’s share; high-income homes use a lot per person though the domestic share stays modest. A note separates share from volume." loading="lazy">
+  <figcaption>Industry’s share rises with development; agriculture’s falls.</figcaption>
+</figure>
+
 ## Why some areas have water shortages
 
 **Physical causes**
@@ -103,6 +113,11 @@ still a large volume.
   adequate.
 - Leaking pipes and wasteful use.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-water--03-water-shortage-causes.webp" width="900" height="555" alt="Physical causes: low or unreliable rainfall, high evaporation, droughts and small islands with little storage. Human causes: population growth and urbanisation, more irrigation, over-abstraction of groundwater, pollution, lack of money for infrastructure, and leaks and waste. A note explains economic water scarcity, where rain is adequate but there is no money to supply safe water." loading="lazy">
+  <figcaption>Shortage can come from too little water or too little investment.</figcaption>
+</figure>
+
 ## Managing water for the future
 
 Management either **increases supply** or **reduces demand**:
@@ -118,6 +133,11 @@ Management either **increases supply** or **reduces demand**:
 Careful management is needed because demand keeps rising while the
 supply of usable fresh water is limited; without it, aquifers are
 exhausted and rivers polluted, leaving less for the future.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-water--04-water-management.webp" width="900" height="710" alt="A water tank of usable fresh water with three kinds of management: increase supply flowing in (new reservoirs, desalination, recycling, transfers, rainwater harvesting); reduce demand flowing out (meters and pricing, fixing leaks, efficient appliances, drip irrigation, education, limits on groundwater pumping); and protect quality (sewage treatment, pollution limits)." loading="lazy">
+  <figcaption>Fill the tank, slow the outflow, and keep what is in it clean.</figcaption>
+</figure>
 
 ## Case study: water supply in Singapore
 
@@ -147,6 +167,11 @@ Evaluation: Singapore shows how a country with little natural storage
 can secure supply through technology and planning, but desalination and
 NEWater use a lot of energy, and the approach needs wealth that many
 countries do not have.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-water--05-singapore-four-taps.webp" width="900" height="745" alt="Four sources feed Singapore’s water supply, managed by PUB: local catchment with reservoirs and the Marina Barrage of 2008; water imported from Johor in Malaysia under an agreement to 2061; NEWater, used water treated with membranes and ultraviolet light, mainly for industry; and desalination at plants such as Tuas. Demand is managed by pricing, a conservation tax and campaigns. The evaluation notes high energy use and the wealth needed." loading="lazy">
+  <figcaption>Little natural storage, so Singapore combines four taps with demand management.</figcaption>
+</figure>
 
 ## Worked example: describe and explain
 

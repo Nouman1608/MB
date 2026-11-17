@@ -79,6 +79,11 @@ they let you explain a relationship rather than list people:
 - میں اس پر بھروسا کرتا ہوں — I trust him.
 - وہ میرا بہت خیال رکھتی ہیں — she takes great care of me.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--01-paternal-maternal-relatives.webp" width="900" height="730" alt="A family tree with Urdu terms. On the father’s side: دادا / دادی (grandparents) and چچا / پھوپھی (uncle and aunt). On the mother’s side: نانا / نانی and ماموں / خالہ. Parents are والد and والدہ; useful extras are والدین, رشتہ دار, مشترکہ خاندان and اکلوتا / اکلوتی." loading="lazy">
+  <figcaption>Urdu names relatives by side of the family, and translation tasks test it.</figcaption>
+</figure>
+
 ## Grammar that carries this topic
 
 **1. Possessives agree with the thing possessed, not the owner.** میرا بھائی, میری بہن, میرے
@@ -111,6 +116,11 @@ second time frame to a description of your family.
 good friend should be honest). The person who "should" takes کو, and the oblique اچھے دوست follows
 from that.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--02-agreement-table.webp" width="900" height="640" alt="A table of agreement: the possessive changes with the noun (میرا بھائی, میری بہن, میرے والدین), a marked adjective changes (شرمیلا لڑکا, شرمیلی لڑکی, شرمیلے بچے), and an unmarked adjective stays the same (مہربان استاد, مہربان استانی). میرے دوست کی بہن follows the same rule." loading="lazy">
+  <figcaption>A boy and a girl both say میرا بھائی: agreement follows the noun.</figcaption>
+</figure>
+
 ## Worked example 1: translation into Urdu
 
 English: *My older brother is very kind, but sometimes we argue. My grandmother lives with us.*
@@ -133,6 +143,11 @@ Answer: میرا بڑا بھائی بہت مہربان ہے، لیکن کبھی 
 If the English had said "my mother's mother", you would need نانی, not دادی. Read family words in
 a translation task twice.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--04-translation-steps.webp" width="900" height="950" alt="Three steps translate a sentence about a kind older brother and a grandmother: put each verb last (مہربان ہے, جھگڑا ہو جاتا ہے, رہتی ہیں), check agreement and respect (میرا بڑا بھائی, رہتی ہیں for an elder), and translate the sense (ہمارا جھگڑا ہو جاتا ہے)." loading="lazy">
+  <figcaption>Verb last, agreement and respect checked, then the sense rather than each word.</figcaption>
+</figure>
+
 ## Worked example 2: a short piece of writing
 
 Task (original): *Describe your best friend, explain how you met and say what you will do
@@ -152,6 +167,11 @@ What makes it work:
   the one who ...).
 - **Accurate agreement** throughout: سہیلی is feminine, so the verbs are ہے, کرتی ہے and کریں گی.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--05-model-paragraph.webp" width="900" height="740" alt="The six sentences of the model answer, each labelled: name and identity (present), how they met (past), what she is like, a complex جب ... تو sentence, a justified opinion about a true friend, and a future plan with feminine plural کریں گی." loading="lazy">
+  <figcaption>Present, past and future, plus a complex sentence and a justified opinion.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Writing ہے instead of ہیں for parents, grandparents and teachers.
@@ -161,6 +181,11 @@ What makes it work:
 - Listing family members ("I have two brothers and one sister") with no description, opinion or
   reason.
 - Forgetting that marked adjectives change: شرمیلا بھائی but شرمیلی بہن.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--03-respect-and-milna.webp" width="900" height="730" alt="Elders take the plural verb ہیں as a mark of respect: میرے دادا بہت مہربان ہیں, میری والدہ ڈاکٹر ہیں. To say you met someone, use سے and no نے: میں اپنے دوست سے ملا is correct, میں نے اپنے دوست کو ملا is wrong, and ہماری ملاقات اسکول میں ہوئی is an alternative." loading="lazy">
+  <figcaption>Plural of respect for elders; ملنا takes سے, never نے.</figcaption>
+</figure>
 
 ## Exam technique
 
@@ -178,6 +203,11 @@ family.
 is, what they are like (with an example), how you get on, a past memory, and a future plan or a
 view on what makes a good relationship. The specification states that, provided the tasks set are
 completed, the number of words is not important, so spend time on accuracy rather than padding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-family-friends--06-question-words-and-plan.webp" width="900" height="580" alt="Seven Urdu question words with meanings: کون who, کیا what, کب when, کہاں where, کیوں why, کیسے how, کتنے how many; a why-question needs a reason, often after کیونکہ or اس لیے. A five-step writing plan runs from who the person is to a future plan." loading="lazy">
+  <figcaption>Know the question word; plan writing from person to past memory to future.</figcaption>
+</figure>
 
 ## Practise next
 

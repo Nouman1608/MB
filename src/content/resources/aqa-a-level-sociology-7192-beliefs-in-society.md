@@ -52,6 +52,11 @@ The specification prints these facts about Paper 2: Topics in Sociology:
 
 The specification does not print how Section B's 40 marks are split between questions, or a list of command words; your teacher will confirm both. Paper 2 carries approximately 13% AO1, 11% AO2 and 9% AO3 of the whole A-level. Theories, methods and research design are "integral" to every topic, so use them throughout.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## 1. Ideology, science and religion
 
 **Key terms:** ideology (ideas that serve a group's interests, often making inequality seem fair); open belief system (can be changed by evidence); closed belief system (explains away contrary evidence); paradigm (Kuhn: a shared framework of assumptions and methods in a science).
@@ -65,6 +70,11 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 **Religion.** Definitions shape what counts as religion. Substantive definitions (Weber) focus on belief in the supernatural or God. Functional definitions (Durkheim) focus on what religion does, such as building social integration. Social constructionists ask how groups themselves define religion. Use both Christian and non-Christian traditions, as the specification requires (for example, Hinduism and karma).
 
 **Worked paragraph.** *Polanyi argues both religion and science can be closed belief systems. The Azande explained away failed oracles, and Kuhn showed scientists in normal science also set aside anomalies. However, paradigms do eventually collapse under anomalies, while religious traditions can last centuries, so science is more open in the long run.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--02-open-closed.webp" width="900" height="550" alt="Science as an open belief system (Popper’s falsification, Merton’s four norms) compared with the Azande’s closed belief in the poison oracle, which explained away failures. Polanyi and Kuhn argue science can also defend itself." loading="lazy">
+  <figcaption>Open systems change with evidence; closed systems explain it away.</figcaption>
+</figure>
 
 ## 2. Religion, social change and social stability
 
@@ -87,6 +97,16 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 - **Millenarian movements:** Worsley studied cargo cults in Melanesia as early, religious forms of anti-colonial protest.
 
 **Worked paragraph.** *Religion can support change when it offers a moral justification and an organisation (Bruce). In the civil rights movement, Black churches supplied meeting places, leaders and values that white Christians also claimed, so religion challenged segregation. However, the New Christian Right shows religious campaigns often fail, so religion helps change mainly when its goals fit values society already holds.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--03-stability-or-change.webp" width="900" height="554" alt="Two columns. Durkheim, Malinowski, Parsons, Bellah, Marx and feminists see religion supporting stability. Weber, Bruce, Maduro, Bloch and Worsley show ways religion can help bring social change." loading="lazy">
+  <figcaption>A strong essay weighs the conservative-force view against evidence of religion driving change.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--04-protestant-ethic.webp" width="900" height="624" alt="A chain from the Calvinist belief in predestination, to anxiety about salvation, to hard work and ascetic saving as signs of being chosen, to the spirit of capitalism. Below are Weber’s comparison with Hinduism and Confucianism and Kautsky’s criticism." loading="lazy">
+  <figcaption>For Weber, Calvinist beliefs were one cause of the spirit of capitalism.</figcaption>
+</figure>
 
 ## 3. Religious organisations and New Age movements
 
@@ -111,6 +131,16 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 
 **Worked paragraph.** *Wallis's world-affirming NRMs promise success and well-being without asking members to leave their jobs or families. This explains their appeal in a competitive, individualistic culture. However, Bruce argues low-commitment, pick-and-choose spirituality shows religion's weakness, not its revival.*
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--05-wallis-typology.webp" width="900" height="683" alt="A two-by-two grid from Wallis. Churches are respectable and uniquely legitimate, denominations respectable and pluralistic, sects deviant and uniquely legitimate, and cults deviant and pluralistic, each with its classic features." loading="lazy">
+  <figcaption>Wallis sorts religious organisations by self-image and public image.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--06-wallis-nrms.webp" width="900" height="573" alt="Wallis’s three types of new religious movement on a line: world-rejecting (such as the Unification Church), world-accommodating (such as neo-Pentecostalism) and world-affirming (such as Scientology). Below, three explanations of growth from Weber, Stark and Bainbridge, and Wilson." loading="lazy">
+  <figcaption>Not every NRM is a sect: Wallis distinguishes three relationships with the world.</figcaption>
+</figure>
+
 ## 4. Social groups and religion
 
 **Gender.** Women are generally more likely than men to hold religious beliefs and to take part. Miller and Hoffmann (1995) link this to socialisation and to greater risk-aversion. Davie suggests closer involvement with birth and death. In Kendal, about 80% of holistic-milieu participants were women (Heelas and Woodhead); Bruce links this to the New Age's stress on nurturing and healing. Brown argues women's move away from church since the 1960s, as their roles changed, drove recent secularisation.
@@ -124,6 +154,11 @@ Polanyi argued that closed systems defend themselves. Evans-Pritchard's study of
 **Evaluation.** These patterns vary between faiths and over time, and attendance, belief and identity can differ.
 
 **Worked paragraph.** *Cultural transition explains high religiosity in some migrant communities. A mosque, gurdwara or Pentecostal church gives newcomers support and contacts, so religion helps groups settle. Modood et al. (1997) found later generations were generally less religious, which fits this view. However, O'Beirne (2004) found religion was central to many minority groups' identity, so its role may shift towards identity rather than simply fading.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--07-defence-transition.webp" width="900" height="690" alt="Two chains from Bruce. Cultural defence: a community under threat is united by religion. Cultural transition: religion helps migrants adjust, then declines as they integrate. Pryce, Modood and O’Beirne are used to evaluate them." loading="lazy">
+  <figcaption>Religion may defend a community, ease its transition, or become a source of identity.</figcaption>
+</figure>
 
 ## 5. Religion in the contemporary world: secularisation and globalisation
 
@@ -149,6 +184,11 @@ Arguments against:
 **Fundamentalism.** Giddens sees it as a defensive response to globalisation. Huntington (1996) argued conflict would increasingly follow "civilisations", often defined by religion. Casanova says it ignores divisions within each civilisation; Armstrong traces hostility to the West to Western foreign policy, not to Islam itself.
 
 **Worked paragraph.** *Existential security theory (Norris and Inglehart) explains why secularisation is uneven. Britain has a welfare state and high living standards, so people need religion less. Poorer, riskier societies stay religious and have higher birth rates, so the world may grow more religious overall even as Britain becomes more secular. This weakens claims of a universal trend, though critics say the theory ignores how people actually experience faith.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--08-secularisation.webp" width="900" height="743" alt="Bars show people in England and Wales describing themselves as Christian falling from 59.3% in 2011 to 46.2% in 2021, while no religion rose from 25.2% to 37.2%. Below, explanations of decline set against arguments that religion is changing rather than declining." loading="lazy">
+  <figcaption>Census figures show decline, but sociologists dispute what it means.</figcaption>
+</figure>
 
 ## Common errors
 

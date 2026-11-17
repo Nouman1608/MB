@@ -42,6 +42,11 @@ topic once it is narrowed down (for example, "plastic waste exports to
 low-income countries" is an issue arising within the broader topic of
 Environment, pollution and conservation).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--01-topic-vs-issue.webp" width="900" height="584" alt="A wide card names the topic Environment, pollution and conservation, one of 22 on the syllabus list. A funnel narrows it to a specific issue: plastic waste exports to low-income countries. All three components analyse issues like this rather than whole topics." loading="lazy">
+  <figcaption>Narrow a topic down until you reach an issue you can actually analyse.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE GLOBAL PERSPECTIVES (0457) — COMPONENT 1 WRITTEN
@@ -54,6 +59,11 @@ question paper, covering a global issue related to one of the topics
 on the topic list. Sources provide background information and
 different perspectives on the chosen issue and may include images and
 material from a variety of subject backgrounds and media.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--02-paper-at-a-glance.webp" width="900" height="551" alt="Three facts about the paper: 1 hour 25 minutes including reading time, 70 marks set and marked by Cambridge, and four compulsory questions. Below, a row of source documents gives background, different perspectives and images on one global issue." loading="lazy">
+  <figcaption>The whole paper is built on unseen sources, not remembered content.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -82,6 +92,11 @@ Global Perspectives is assessed on **skills**, not on remembered content. The pa
 
 That has a practical consequence: revising "facts about climate change" is largely wasted effort. Practising the *moves* — identifying a perspective, testing evidence, weighing a source — is what raises the grade.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--03-skills-credited.webp" width="900" height="660" alt="Six syllabus skills shown as tiles. Research, analysis and evaluation are ticked as credited in the Written Exam; reflection, communication and collaboration are not credited in this paper. Reflection is weighted at 0% here." loading="lazy">
+  <figcaption>Marks follow the skill, not the topic, and reflection earns nothing in this paper.</figcaption>
+</figure>
+
 ## Perspectives, arguments and evidence
 
 A **perspective** is a point of view supported by reasoning and evidence, held for reasons connected to the holder's context — national, cultural, economic, generational, professional. It is not simply an opinion.
@@ -94,6 +109,16 @@ Distinguish carefully:
 - **Evidence** — data, examples or testimony offered in support.
 - **Assertion** — a claim with no support at all.
 - **Assumption** — something taken for granted but unstated.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--04-what-is-a-perspective.webp" width="900" height="740" alt="Context factors (national, cultural, economic, generational, professional) feed into a perspective, which is a point of view plus reasoning plus evidence. Below, three levels to consider for every issue: personal, local and/or national, and global, with arrows showing a strong answer moves between them." loading="lazy">
+  <figcaption>A perspective is a reasoned, evidenced view shaped by context, seen at more than one level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--05-argument-evidence-assertion-assumption.webp" width="900" height="622" alt="An argument is drawn as evidence feeding reasons that support a conclusion. An assertion is a claim with nothing underneath it. An assumption is a hidden, unstated link between a reason and a claim." loading="lazy">
+  <figcaption>Tell these four apart in a source before you judge it.</figcaption>
+</figure>
 
 ## Analysing and evaluating sources
 
@@ -110,11 +135,21 @@ Analysis identifies what a source claims, what reasons it offers, and what it as
 
 The common weakness is *asserting* bias rather than demonstrating it. "This source is biased because it is from an oil company" is weaker than quoting the loaded phrasing and explaining the interest served.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--06-six-evaluation-criteria.webp" width="900" height="584" alt="A table of six criteria with the question to ask for each: credibility, bias, currency, relevance, corroboration, and sample and method. Below, asserting bias because a source is from an oil company is weaker than quoting loaded phrasing and explaining whose interest it serves." loading="lazy">
+  <figcaption>Name the criterion, then show the weakness from the text.</figcaption>
+</figure>
+
 ## Constructing a response
 
 A strong extended answer states a clear line of reasoning, uses source material as evidence rather than summarising it, considers at least one **counter-argument** genuinely, and reaches a justified conclusion that follows from what came before.
 
 Note: **reflection is not credited in this component.** The syllabus's assessment-objective table weights AO2 Reflection at 0% for the Written Exam, and states candidates are assessed here on research, analysis and evaluation only -- unlike Components 2 and 3, where reflection genuinely does carry marks (worth 15% of the qualification overall). Spend your time in this paper on analysis, evaluation and a reasoned line of argument instead.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--07-line-of-reasoning.webp" width="900" height="624" alt="Five numbered steps for an extended answer: state a clear line of reasoning, use sources as evidence, consider a counter-argument genuinely, respond to it, and reach a justified conclusion that follows from the reasoning." loading="lazy">
+  <figcaption>A counter-argument only earns credit when you answer it.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -133,6 +168,11 @@ Evaluation:
 ```
 
 Naming the specific weakness beats a general comment about reliability.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-global-perspectives-written-exam--08-worked-example-survey.webp" width="900" height="682" alt="A source claims a survey of 200 people in one city, with 78% support, shows the country backs a transport policy. It is split into claim, evidence and the assumption that one city represents the country, followed by four specific weaknesses: small sample, narrow sample, overstated wording and unknown method." loading="lazy">
+  <figcaption>Split the source into claim, evidence and assumption, then name each weakness.</figcaption>
+</figure>
 
 ## Common mistakes
 

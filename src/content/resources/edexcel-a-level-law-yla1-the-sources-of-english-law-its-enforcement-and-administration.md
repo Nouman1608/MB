@@ -42,6 +42,11 @@ Normally a Bill must pass both Houses. The **Parliament Act 1911** removed the H
 
 **Exam use:** the Parliament Acts show that the elected House has the final say, which supports the democratic argument for Acts of Parliament.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--01-parliament-acts.webp" width="900" height="634" alt="The Parliament Act 1911 removed the Lords' veto over most public Bills, leaving a power to delay, which the 1949 Act cut to roughly one year; a money Bill can become law without the Lords after one month. The Acts were used for the War Crimes Act 1991 and Hunting Act 2004 and upheld in Jackson v Attorney General. The Royal Assent Act 1967 allows assent to be notified." loading="lazy">
+  <figcaption>The Lords can delay most Bills for about a year, but the elected Commons has the final say.</figcaption>
+</figure>
+
 ## Influences on law reform
 
 | Influence | Example | Advantage | Disadvantage |
@@ -51,6 +56,11 @@ Normally a Bill must pass both Houses. The **Parliament Act 1911** removed the H
 | **Law Commission** | Set up by the Law Commissions Act 1965; its work fed into the Fraud Act 2006 | Expert, independent, research-based | Many reports wait years for parliamentary time |
 | **Judges** | *R v R* [1991] removed the marital rape exemption before Parliament legislated | Respond quickly to injustice in a real case | Unelected; can only act when a case arises |
 | **Media** | Newspaper campaigning after the murder of Sarah Payne led to the child sex offender disclosure scheme ("Sarah's Law") | Mobilises public opinion | Can push hurried, emotional law making |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--02-law-reform-influences.webp" width="900" height="569" alt="A table of five influences on law reform with an example, advantage and disadvantage for each: political parties, pressure groups (Snowdrop campaign and the Firearms (Amendment) Act 1997), the Law Commission (Fraud Act 2006), judges (R v R) and the media (Sarah's Law)." loading="lazy">
+  <figcaption>Each influence has a lesson example, a strength and a weakness.</figcaption>
+</figure>
 
 ## Statutory interpretation: the extra pieces
 
@@ -62,6 +72,11 @@ The rules (literal, golden, mischief) and the purposive approach are covered in 
 - **The Interpretation Act 1978**: unless the contrary intention appears, words importing the masculine include the feminine, and the singular includes the plural.
 - **The Human Rights Act 1998, s 3**: legislation must be read and given effect compatibly with Convention rights "so far as it is possible to do so". In *Ghaidan v Godin-Mendoza* [2004] this allowed "as his or her wife or husband" to include a same-sex partner. Where that is impossible, a higher court may issue a declaration of incompatibility under s 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--03-interpretation-aids.webp" width="900" height="684" alt="Ejusdem generis: in Powell v Kempton Park, the words house, office, room or other place were read as indoor places only, so an outdoor enclosure was not covered. Cards cover presumptions, intrinsic and extrinsic aids and the Interpretation Act 1978. Under the HRA, s 3 requires a compatible reading where possible (Ghaidan); if impossible, a s 4 declaration does not invalidate the Act." loading="lazy">
+  <figcaption>General words take their meaning from the list; s 3 reads compatibly, s 4 declares.</figcaption>
+</figure>
+
 ## Delegated legislation: the 2006 Act
 
 Beyond affirmative and negative resolution and judicial review for *ultra vires*, the specification names the **Legislative and Regulatory Reform Act 2006**. It lets ministers make orders to reduce burdens created by legislation, subject to preconditions and parliamentary procedures. Critics see it as widening ministerial power to change Acts by delegated legislation; supporters see a faster route to removing outdated regulation.
@@ -69,6 +84,11 @@ Beyond affirmative and negative resolution and judicial review for *ultra vires*
 ## Equity in contract
 
 Equity supplies discretionary remedies where damages would not be adequate. **Specific performance** orders a party to carry out the contract, typically for unique items such as land; it was ordered in *Beswick v Beswick* [1968]. **Rescission** sets the contract aside and returns the parties to their original positions, but it can be lost through delay, as in *Leaf v International Galleries* [1950]. Because these remedies are discretionary, a claimant who has behaved unfairly may be refused them ("he who comes to equity must come with clean hands").
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--04-equitable-remedies.webp" width="900" height="419" alt="Two equitable remedies: specific performance orders a party to carry out the contract, typically for unique items such as land (Beswick v Beswick); rescission sets the contract aside but can be lost through delay (Leaf v International Galleries). A note says the remedies are discretionary, so a claimant must come with clean hands." loading="lazy">
+  <figcaption>Specific performance and rescission are discretionary: delay or unfairness can lose them.</figcaption>
+</figure>
 
 ## EU law
 
@@ -89,6 +109,16 @@ The specification asks about **regulations** (directly applicable in member stat
 | **Conciliation** | The parties; the conciliator may suggest terms | Only if they agree | ACAS in employment disputes |
 | **Arbitration** | An arbitrator | Yes, under the Arbitration Act 1996 | Commercial and consumer scheme disputes |
 | **Ombudsman** | The ombudsman investigates complaints | Depends on the scheme | Financial Ombudsman Service |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--05-civil-courts-tracks.webp" width="900" height="687" alt="Civil claims mostly start in the County Court or High Court, with appeals to the Court of Appeal and then the Supreme Court. A bar shows the tracks: small claims generally up to £10,000, fast track up to £25,000, and multi-track above, with an intermediate track added in 2023 for some claims above £25,000. Cards give the overriding objective and the two-tier tribunal structure." loading="lazy">
+  <figcaption>Claims start in the County or High Court and are allocated to a track by value and complexity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--06-adr-who-decides.webp" width="900" height="520" alt="A table of five ADR methods with who decides, whether the outcome is binding, and an example: negotiation, mediation and conciliation bind only if the parties agree; arbitration is binding under the Arbitration Act 1996; an ombudsman's decision depends on the scheme." loading="lazy">
+  <figcaption>Contrast ADR methods by who decides and whether the result binds.</figcaption>
+</figure>
 
 ## People in the law
 
@@ -115,6 +145,11 @@ The specification asks about **regulations** (directly applicable in member stat
 ```
 
 A strong answer applies each method to Amira's facts, not just describes it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration--07-amira-dispute-route.webp" width="900" height="542" alt="Four numbered steps for Amira's £4,000 claim: negotiate first with a letter before action, then mediation, then the small claims track, and for funding legal aid is unlikely after LASPO 2012, so check home insurance for legal expenses cover." loading="lazy">
+  <figcaption>Cheapest first: negotiate, mediate, then small claims, with funding checked.</figcaption>
+</figure>
 
 ## Common mistakes
 

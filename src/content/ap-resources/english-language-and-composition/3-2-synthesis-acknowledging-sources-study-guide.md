@@ -71,6 +71,11 @@ The most common mistake is to treat each source in turn and report what it says.
 
 A good test: **if you removed the sources, would your argument still be recognisably yours?** In strong synthesis, the answer is yes: the position, the structure and the commentary belong to the writer; the sources lend support, complication or contrast.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--01-summary-vs-synthesis.webp" width="900" height="544" alt="On the left, summary: sources A, B and C reported one after another in the order given, with the writer absent. On the right, synthesis: the writer’s thesis on top, with sources grouped under two ideas and connected by commentary. A test asks whether the argument is still yours if the sources are removed." loading="lazy">
+  <figcaption>In synthesis the writer’s thesis, not the order of the sources, controls the structure.</figcaption>
+</figure>
+
 ## Ways to put sources in conversation
 
 You can relate sources to your claim and to each other in several ways. Think of each as a verb.
@@ -85,6 +90,11 @@ You can relate sources to your claim and to each other in several ways. Think of
 | **Compare** | Place two sources side by side. | "Where A measures results, B measures cost." |
 
 Look for these relations as you read the sources, and let them shape your paragraphs. A paragraph that groups two sources which agree and one which qualifies them is more convincing than three separate summaries.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--02-six-source-moves.webp" width="900" height="616" alt="Six moves for relating sources to a claim, each with example phrasing: support, extend, qualify, complicate, rebut and compare." loading="lazy">
+  <figcaption>Support, extend, qualify, complicate, rebut, compare: let the relations shape paragraphs.</figcaption>
+</figure>
 
 ## Acknowledging sources
 
@@ -109,6 +119,11 @@ Attribution is easiest when it is built into your sentence.
 
 Pick the style that keeps your own sentence in charge.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--03-when-to-credit.webp" width="900" height="623" alt="Four situations and what to do: a direct quotation needs quotation marks and the source’s name; a paraphrase or summary still needs the name; an idea or statistic from a source needs credit; common knowledge needs no citation. Below, three ways to attribute inside a sentence: signal phrase, embedded and parenthetical." loading="lazy">
+  <figcaption>Credit words and ideas that are not yours, in a way that keeps your sentence in charge.</figcaption>
+</figure>
+
 ## Planning a synthesis response
 
 1. **Read the prompt and decide your position first.** Do not let the sources choose it for you.
@@ -119,9 +134,19 @@ Pick the style that keeps your own sentence in charge.
 6. **Write commentary** linking each source to your claim (Topic 3.1).
 7. **Include a counterargument or qualification** using a source that complicates your view.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--04-planning-a-synthesis.webp" width="900" height="602" alt="Seven numbered steps zig-zag down the page: decide your position, tag the sources, group them by idea, draft a thesis, build paragraphs around claims, write commentary, and add a counterargument or qualification from a complicating source." loading="lazy">
+  <figcaption>Choose your position first; the sources serve it.</figcaption>
+</figure>
+
 ## A public-domain example of conversation with a source: Thoreau (1849)
 
 Henry David Thoreau wrote in "Civil Disobedience": "Under a government which imprisons any unjustly, the true place for a just man is also a prison." A modern writer arguing about civil disobedience might **extend** the idea: "Thoreau's claim that 'the true place for a just man is also a prison' implies that the one who objects to an unjust law should accept its penalty, not escape it. That is the standard I apply to a protester who..." Or they might **qualify** it: "Thoreau's rule works where the unjust law punishes only the objector, but it fits poorly where jailing the objector helps the injustice continue." In each case the writer quotes briefly, attributes to Thoreau, and then does something of their own with the idea.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--05-thoreau-extend-qualify.webp" width="900" height="466" alt="Thoreau’s sentence, “the true place for a just man is also a prison”, branches two ways: extending it to a standard for protesters who should accept the penalty, or qualifying it for cases where jailing the objector helps the injustice continue." loading="lazy">
+  <figcaption>A brief, attributed quotation becomes a springboard for the writer’s own move.</figcaption>
+</figure>
 
 ## Worked example 1: synthesising three invented sources
 
@@ -153,6 +178,11 @@ The following sources are fictional and were written by Marlbridge for practice.
 - Sources are **grouped** (A and C support; C and B complicate), not summarised in turn.
 - Each source is **attributed** and **connected** with commentary ("Ms Adeyemi explains the mechanism"; "qualifies the Trust's reassuring average").
 - The final sentence **extends** the point and returns to the thesis.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-3-2-synthesis-acknowledging-sources-study-guide--06-grouping-sources.webp" width="900" height="582" alt="Two overlapping ovals group the fictional sources: benefits (Source A, unchanged results and better staff retention) and costs (Source B, 58 percent of households facing higher childcare costs). Source C sits in the overlap, offering both a planning day and tired pupils. Below, the qualified thesis that results." loading="lazy">
+  <figcaption>Group sources by what they show, and let a source that cuts both ways sit in the overlap.</figcaption>
+</figure>
 
 ## Worked example 2: fixing a patchwork paragraph
 

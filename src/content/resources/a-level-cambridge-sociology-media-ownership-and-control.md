@@ -82,6 +82,11 @@ fallen and advertising has moved online. Yet traditional organisations remain tr
 many of the most-shared online stories originate from them, and the largest new-media firms are
 themselves conglomerates — so concentration of ownership may have moved rather than disappeared.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--01-traditional-vs-new-media.webp" width="900" height="744" alt="Left: a single broadcaster sends content one-way to many audience members. Right: a network of users all connected to each other. Below, traditional media are one-to-many, gatekept, scheduled, national and costly to enter; new media are many-to-many, user-generated, on demand, global and cheap to enter." loading="lazy">
+  <figcaption>Traditional media broadcast from one to many; new media connect many to many.</figcaption>
+</figure>
+
 ## Who controls the media? The main theories
 
 **Pluralism.** Society contains many competing groups, and the media market reflects them.
@@ -106,6 +111,21 @@ have become **hyperreal** — more real to us than reality. Postmodernists see m
 societies with fragmented audiences who create their own meanings, making single-source control
 less meaningful. *Criticism:* this underplays the economic power of media corporations.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--02-theories-of-control.webp" width="900" height="902" alt="A grid compares pluralism, instrumental Marxism, neo-Marxism and postmodernism on who controls the media, how control works and key sociologists. Pluralists say audiences, instrumental Marxists say owners, neo-Marxists say hegemonic ruling-class ideas, and postmodernists say no single source." loading="lazy">
+  <figcaption>Theories disagree on whether audiences, owners, shared ideas or no one controls the media.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--03-propaganda-model.webp" width="900" height="682" alt="A funnel in which all possible stories pass through five filters: ownership, advertising, reliance on official sources, flak and anti-communism, leaving the news that is published." loading="lazy">
+  <figcaption>Five filters narrow all possible stories down to the news that fits elite interests.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--04-manipulation-hegemony.webp" width="900" height="474" alt="Top chain: in the manipulation model owners give orders, journalists comply and ruling-class ideology is spread. Bottom chain: in the hegemonic model mostly middle-class journalists share a common-sense view, so ruling-class ideas dominate without orders." loading="lazy">
+  <figcaption>Manipulation is deliberate control by owners; hegemony works through shared assumptions.</figcaption>
+</figure>
+
 ## What influences the selection and presentation of news?
 
 - **News values** — Johan Galtung and Mari Ruge (1965) identified criteria such as negativity,
@@ -118,6 +138,11 @@ less meaningful. *Criticism:* this underplays the economic power of media corpor
 - **Censorship** — formal state censorship, legal limits (defamation, national security),
   regulation, and self-censorship by journalists who anticipate owners' or advertisers' views.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--05-news-selection.webp" width="900" height="640" alt="Seven influences surround the question of what becomes news: news values, gatekeeping, commercial pressures, owners, sources, practical constraints and censorship." loading="lazy">
+  <figcaption>News is selected, not simply reported: seven pressures shape what appears.</figcaption>
+</figure>
+
 ## How might the media influence the political process?
 
 - **Agenda setting** — Maxwell McCombs and Donald Shaw's study of the 1968 US presidential
@@ -127,6 +152,11 @@ less meaningful. *Criticism:* this underplays the economic power of media corpor
 - **News reporting** — framing, bias and personalisation of politics.
 - **Social media** — targeted political advertising; the Cambridge Analytica scandal (2018) raised
   concern about the use of personal data to influence voters.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-media-ownership-and-control--06-media-and-politics.webp" width="900" height="482" alt="Agenda setting: when the media emphasise issues, voters rate those issues as most important, so the media tell people what to think about. Opinion polls, news reporting and social media are three further routes of influence." loading="lazy">
+  <figcaption>The media shape which issues voters think about, as well as how they see them.</figcaption>
+</figure>
 
 ## What is the impact of the new media?
 

@@ -83,6 +83,16 @@ Variation is the way language changes with the other four concepts. It includes:
 
 **Target language check.** Find out how your language marks formality. Many languages have a formal and an informal "you" (French *tu/vous*, Spanish *tú/usted*, German *du/Sie*). Some, such as Japanese and Korean, have whole levels of polite verb forms. Spanish shows regional variation too: *vosotros* is used for informal plural "you" in most of Spain, while Latin American Spanish uses *ustedes* for both formal and informal plural. Learn the forms your course uses and apply them consistently.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--01-five-concepts.webp" width="900" height="755" alt="Four cards around a central circle labelled Your text: context asks where, when and in what medium; audience asks who it is for; purpose asks what the reader should know, feel or do; meaning asks what is said and what is suggested. An arrow leads to variation, how register, tone, medium and regional variety change with the other four." loading="lazy">
+  <figcaption>Context, audience, purpose and meaning decide how the language varies.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--02-explicit-implicit.webp" width="900" height="481" alt="The sentence Residents are reminded that bins must be inside by 8 p.m. with the word reminded highlighted. Explicitly it states a rule; implicitly the word reminded suggests that some people have been breaking it." loading="lazy">
+  <figcaption>One word can carry a meaning the sentence never states.</figcaption>
+</figure>
+
 ## Register and tone
 
 Register and tone are not the same thing. Register is **how formal**; tone is **what attitude**. A formal letter can be angry, grateful or cold; a text message can be cheerful or annoyed.
@@ -94,6 +104,11 @@ Register and tone are not the same thing. Register is **how formal**; tone is **
 | Informal | Friends, family, peers online | Contractions, questions, exclamations, fragments, humour | Informal "you", everyday vocabulary, common abbreviations |
 
 Tone words worth learning in your target language: *urgent, reassuring, enthusiastic, critical, sympathetic, humorous, ironic, neutral*. Tone comes from choices you can point to: intensifiers ("absolutely"), modal verbs ("must" vs "could"), punctuation, and the balance of facts and feelings.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--03-register-vs-tone.webp" width="900" height="783" alt="Two panels. Register, how formal a text is, runs from formal (officials, strangers, the public) through semi-formal (teachers, a school magazine, a club) to informal (friends, family, peers online). Tone, the attitude a text shows, includes urgent, reassuring, enthusiastic, critical, sympathetic, humorous, ironic and neutral, and comes from intensifiers, modal verbs, punctuation and the balance of facts and feelings." loading="lazy">
+  <figcaption>Register is how formal; tone is what attitude. Any register can carry many tones.</figcaption>
+</figure>
 
 ## Worked example 1: reading a text through the five concepts
 
@@ -116,6 +131,11 @@ Tone words worth learning in your target language: *urgent, reassuring, enthusia
 A weak answer says "The text is formal." A strong answer says what makes it formal and why that suits the audience: an authority speaking to the whole public avoids personal language so the rule sounds fair.
 
 **Target language check.** Find how your language makes impersonal or passive statements (a reflexive, an impersonal pronoun, a passive), and which is most natural in official notices.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--04-notice-five-concepts.webp" width="900" height="818" alt="Context and audience cards sit above five rows linking words in the notice to what they do. Will be closed informs; its aim is to reduce air pollution justifies; your views are welcome reassures; trial and before any permanent decision imply the closure may become permanent; passive and impersonal phrasing make the register formal." loading="lazy">
+  <figcaption>Point to the words: each purpose, implication and register choice is visible in the text.</figcaption>
+</figure>
 
 ## Worked example 2: one message, three audiences
 
@@ -143,6 +163,11 @@ The content barely changes; register, tone and structure all move. That is varia
 
 **Target language check.** Rewrite each version with the correct form of "you" (formal singular for the head, plural or general for magazine readers, informal for the friend) and the polite forms for requests.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--05-three-audiences.webp" width="900" height="648" alt="Three cards tell the same news about a charging bench. A formal email to the head of school makes a request with a formal greeting and polite conditionals; a semi-formal magazine article informs and interests with a hook question; a text message to a friend shares news in fragments and exclamations. A formality meter on each card falls from three to one." loading="lazy">
+  <figcaption>Same news, three audiences: the register, opening and sentences change to fit each reader.</figcaption>
+</figure>
+
 ## Worked example 3: decoding a writing task
 
 *Original task written for Marlbridge:* "Your town plans to replace its weekly street market with a large supermarket. Write a text for your local newspaper's letters page giving your view."
@@ -159,6 +184,11 @@ Only then write the points: small traders and local jobs; the market as a meetin
 
 At HL, Paper 1 tasks require more complex language and structures and demand higher-order thinking, and the word range is higher. That means weighing arguments with concessions ("Although the supermarket would..., it would also...") and precise, varied vocabulary. At SL, aim first for accuracy and a clear match between register and audience.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--06-decoding-a-task.webp" width="900" height="857" alt="A writing task about replacing a street market with a supermarket is decoded in five numbered steps: context (a newspaper letters page), audience (local readers and the council), purpose (persuade and show the other side), text type (letter to the editor) and register and tone (formal, firm but polite). Only then are the points planned." loading="lazy">
+  <figcaption>Extract context, audience, purpose, text type and register before you plan content.</figcaption>
+</figure>
+
 ## Using the concepts in Paper 2 and the oral
 
 **Paper 2 (receptive skills).** Reading carries 40 marks and listening 25, each 25% of the course. Whatever a question asks, you read faster when you fix the text type, audience and purpose first. In listening, register is often audible: a radio interview sounds different from two friends talking. Tone words such as "surprised", "doubtful" and "relieved" often decide an answer.
@@ -166,6 +196,11 @@ At HL, Paper 1 tasks require more complex language and structures and demand hig
 **Individual oral (25%).** At SL the stimulus is a visual image clearly relevant to one or more themes; at HL it is an excerpt from one of the two literary works studied. Treat the stimulus as a text: who made it, for whom, and why? A poster for a clean-up day has an audience and a purpose; a literary excerpt has a narrator, a reader and a tone. Saying so moves you from describing to interpreting.
 
 Your teacher will share the assessment criteria and formats for each component. This page does not guess at them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-conceptual-understanding--07-concepts-in-components.webp" width="900" height="398" alt="Three cards. Paper 1: match register to audience, with more complex language and a higher word range at HL. Paper 2: reading carries 40 marks and listening 25, each 25 percent, and fixing text type, audience and purpose first speeds reading. Individual oral, 25 percent: treat the visual image (SL) or literary excerpt (HL) as a text with a maker, audience and purpose." loading="lazy">
+  <figcaption>The same five concepts are how every component judges your reading, writing and speaking.</figcaption>
+</figure>
 
 ## Common errors
 

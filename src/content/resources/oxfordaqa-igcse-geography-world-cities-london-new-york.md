@@ -58,6 +58,11 @@ Tokyo usually ranked at the top. A growing number are in newly-emerging
 economies, such as Shanghai, Mumbai and São Paulo, as economic power
 spreads.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--01-what-makes-a-world-city.webp" width="900" height="689" alt="A world city at the centre links to four traits: a centre of finance and business, headquarters of transnational corporations, an international transport hub, and global cultural and political importance. A table shows world cities are mostly in North America, Europe and East Asia, led by London, New York and Tokyo, with more in emerging economies such as Shanghai, Mumbai and São Paulo." loading="lazy">
+  <figcaption>A world city’s influence reaches far beyond its own country.</figcaption>
+</figure>
+
 ## London
 
 **Location.** London is the capital of the United Kingdom, in south-east
@@ -96,6 +101,16 @@ Europe through the Channel Tunnel.
   international bodies such as the Commonwealth Secretariat and the
   International Maritime Organization.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--02-london-time-zone.webp" width="900" height="501" alt="A schematic of one London working day. In the morning it overlaps with Asian markets, which are still open; in the afternoon it overlaps with North American markets. A note adds that London lies on the Greenwich Meridian and is linked by Heathrow and Eurostar." loading="lazy">
+  <figcaption>On 0° longitude, London can trade with Asia in the morning and North America in the afternoon.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--04-migration-waves.webp" width="900" height="673" alt="Two lanes. London: the Windrush generation from the Caribbean after 1948, then South Asia and Africa, then Eastern Europe after 2004, plus national movement of young adults in and some families out. New York: millions of Europeans through Ellis Island from 1892 to 1954, later Caribbean, Latin American and Asian migrants, and the Great Migration of African Americans that made Harlem a cultural centre." loading="lazy">
+  <figcaption>Successive waves of migrants gave both cities their diverse character.</figcaption>
+</figure>
+
 ## New York
 
 **Location.** New York is the largest city in the USA, on the Atlantic
@@ -128,6 +143,11 @@ Island and beyond.
   media, fashion and advertising.
 - *Politics*: the headquarters of the United Nations is in Manhattan,
   even though New York is not the national capital.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--03-london-new-york-compared.webp" width="900" height="599" alt="A comparison table of London and New York: location, population of about 8.8 million each, share born abroad, finance districts, trade gateways, cultural institutions and political roles, from Westminster and the Commonwealth Secretariat in London to the United Nations headquarters in New York." loading="lazy">
+  <figcaption>Two cities of similar size with different routes to global importance.</figcaption>
+</figure>
 
 ## Opportunities
 
@@ -169,6 +189,11 @@ Island and beyond.
   Hurricane Sandy (2012) flooded parts of New York, cutting power to
   lower Manhattan.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--05-challenges.webp" width="900" height="662" alt="A table matching each challenge to examples in both cities: inequality in Tower Hamlets, Newham and the Bronx; housing costs and gentrification in Hackney and Harlem; London’s Green Belt and New York’s sprawl; traffic charges in 2003, 2019 and 2025; sewage, water and waste schemes; Hurricane Sandy in 2012; and imported food through major wholesale markets." loading="lazy">
+  <figcaption>Both cities share the same challenges but answer them in different ways.</figcaption>
+</figure>
+
 ## Flagship regeneration: London Docklands
 
 **Why it was needed.** London's docks east of the city were once among
@@ -200,6 +225,11 @@ railway on Manhattan's West Side reopened as a park from 2009. It
 brought visitors and investment to a run-down area, but raised property
 values and rents nearby.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--06-docklands-regeneration.webp" width="900" height="782" alt="Why: the docks closed between the late 1960s and 1981 as ships grew too large and trade moved to Tilbury, leaving dereliction and unemployment. Features: the London Docklands Development Corporation from 1981 to 1998, the DLR and City Airport in 1987, the Jubilee line extension in 1999 and Canary Wharf. Impacts: new jobs, transport and cleaner land, but jobs went to commuters and housing was too expensive for locals." loading="lazy">
+  <figcaption>Docklands was transformed economically, but its original community gained least.</figcaption>
+</figure>
+
 ## Worked example
 
 **Question:** Explain how international migration has affected the
@@ -216,6 +246,11 @@ Effect:       distinct neighbourhoods, such as Brick Lane's Bangladeshi
 Link:         migration has shaped London's food, culture and labour
               force, making it more attractive as a global city
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-geography-world-cities-london-new-york--07-worked-answer.webp" width="900" height="510" alt="Four stacked steps of a model answer about London: Point (migration waves from the Caribbean, South Asia and Eastern Europe), Development (around four in ten born abroad), Effect (Brick Lane and the Notting Hill Carnival) and Link (migration shaped food, culture and labour, making London more attractive as a global city)." loading="lazy">
+  <figcaption>Each step adds one mark-worthy idea, ending with a link back to the question.</figcaption>
+</figure>
 
 ## Common mistakes
 

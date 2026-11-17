@@ -45,6 +45,11 @@ things, eternal, all-knowing, all-powerful and merciful, with no partner, parent
 112). The opposite, **shirk**, associating anything with Allah, is the gravest sin. Tawhid shapes
 every other belief and every act of worship.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--01-articles-to-pillars.webp" width="900" height="750" alt="Tawhid, the oneness of Allah, sits at the top and shapes the six Articles of Faith (Allah, angels, books, prophets, predestination and the Last Day). An arrow labelled &quot;put into action&quot; leads down to the Five Pillars: shahada, salat, zakat, sawm and hajj." loading="lazy">
+  <figcaption>Articles are beliefs; Pillars are the actions that express those beliefs.</figcaption>
+</figure>
+
 ## What are angels and what do they do?
 
 Angels are created from light, have no free will and always obey Allah. Key angels:
@@ -58,12 +63,22 @@ Angels are created from light, have no free will and always obey Allah. Key ange
 
 Belief in angels reminds Muslims that their deeds are recorded, which encourages good behaviour.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--02-angels-and-duties.webp" width="900" height="736" alt="Six cards name the key angels and their work: Jibril brought revelation, Mika'il is linked to sustenance and rain, Israfil will blow the trumpet, the Angel of Death takes souls, the Kiraman Katibin record deeds, and Munkar and Nakir question the dead in the grave." loading="lazy">
+  <figcaption>Each angel has a fixed duty; knowing deeds are recorded encourages good behaviour.</figcaption>
+</figure>
+
 ## What are the revealed books?
 
 Allah sent guidance through books: the **Suhuf** (scrolls) of Ibrahim, the **Tawrat** to Musa, the
 **Zabur** to Dawud, the **Injil** to Isa and the **Qur'an** to Muhammad (pbuh). Muslims believe
 earlier books carried the same core message of tawhid, but the Qur'an is the final, complete and
 preserved revelation, so it is the standard by which Muslims live.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--03-revealed-books.webp" width="900" height="512" alt="Five books with the prophet each was given to: the Suhuf (scrolls) to Ibrahim, the Tawrat to Musa, the Zabur to Dawud, the Injil to Isa and the Qur'an to Muhammad (pbuh). A line under the earlier books notes their shared core message of tawhid, and the Qur'an is marked as the final, complete and preserved revelation." loading="lazy">
+  <figcaption>One message of tawhid in every book; the Qur'an is the final, preserved standard.</figcaption>
+</figure>
 
 ## Who are the prophets?
 
@@ -86,6 +101,11 @@ left hand; deeds will be weighed; people will cross the bridge (sirat); the righ
 paradise (janna) and the wicked hell (jahannam). Belief in accountability motivates Muslims to do good
 and avoid wrong (Sura 99).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--04-events-of-the-last-day.webp" width="900" height="808" alt="A numbered sequence: Israfil blows the trumpet, the world ends, all people are resurrected, each is judged by Allah with their record of deeds, deeds are weighed and people cross the sirat. The path then splits: the righteous enter paradise and the wicked enter hell." loading="lazy">
+  <figcaption>Every stage of the Last Day leads to accountability for one's deeds.</figcaption>
+</figure>
+
 ## What does jihad mean?
 
 Jihad means "striving" in the way of Allah. It includes:
@@ -93,6 +113,11 @@ Jihad means "striving" in the way of Allah. It includes:
 - **Spiritual and mental struggle** against one's own wrong desires, often called the greater jihad.
 - **Striving through speech, knowledge and wealth**, such as teaching Islam or supporting the poor.
 - **Physical defence** of the community, allowed only for a just cause, under proper authority and with strict rules: no harm to non-combatants, women, children, the elderly, crops or places of worship.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--05-meanings-of-jihad.webp" width="900" height="610" alt="Jihad, meaning striving in the way of Allah, branches into three forms: the spiritual and mental struggle against wrong desires (the greater jihad); striving through speech, knowledge and wealth; and physical defence of the community, allowed only for a just cause, under proper authority and without harming non-combatants, women, children, the elderly, crops or places of worship." loading="lazy">
+  <figcaption>Jihad covers inner, intellectual and physical striving; physical defence has strict limits.</figcaption>
+</figure>
 
 ## How are the Five Pillars practised, and why do they matter?
 
@@ -127,6 +152,16 @@ between Safa and Marwa; standing at Arafat on the 9th; night at Muzdalifa; stoni
 Mina; animal sacrifice; shaving or cutting hair; further tawaf. *Significance:* equality and unity
 of the Ummah in simple white clothing, remembrance of Ibrahim, Hajar and Isma'il, forgiveness of
 sins, and a reminder of the Day of Judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--06-five-pillars-practice-significance.webp" width="900" height="650" alt="A table of the Five Pillars. For each of shahada, salat, zakat, sawm and hajj it gives what Muslims do (for example 2.5 per cent of savings above the nisab for zakat) beside why it matters for the individual and the community." loading="lazy">
+  <figcaption>For each Pillar, pair what is done with why it matters: that is the two-part essay.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam--07-hajj-observances.webp" width="900" height="755" alt="Nine numbered stages snake across the page: ihram at the miqat, tawaf around the Ka'ba, sa'y between Safa and Marwa, standing at Arafat on the 9th (highlighted), the night at Muzdalifa, stoning the pillars at Mina, animal sacrifice, shaving or cutting hair, and further tawaf." loading="lazy">
+  <figcaption>Hajj follows a fixed route, and standing at Arafat is the essential act.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

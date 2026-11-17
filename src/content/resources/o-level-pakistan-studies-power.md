@@ -72,6 +72,16 @@ The syllabus asks for a simple diagram of each method, so practise drawing them 
   are trapped under impermeable cap rock. A rig drills down, and the fuel flows up under pressure
   or is pumped. Label: cap rock, gas above oil above water, well.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--01-coal-mining-methods.webp" width="900" height="948" alt="Three cross-sections. Open cast: overburden is stripped in benches to reach a seam near the surface, with a spoil heap beside the pit (Thar Block II). Adit: a near-horizontal tunnel enters a hillside where the seam outcrops, sloping out for drainage (Duki, Sor Range). Shaft: headgear over a vertical shaft leads to galleries in a deep seam, with a ventilation shaft." loading="lazy">
+  <figcaption>Depth and terrain decide the method: open cast near the surface, adit into hills, shaft for deep seams.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--02-oil-gas-trap.webp" width="900" height="744" alt="A cross-section of an anticline. Under an arch of impermeable cap rock, gas lies above oil, which lies above water. A drilling rig at the surface sends a well down into the trap, and the fuel flows up under pressure or is pumped." loading="lazy">
+  <figcaption>Gas floats above oil, oil above water, all sealed under impermeable cap rock.</figcaption>
+</figure>
+
 ## What are Pakistan's non-renewable resources, and how long will they last?
 
 The figures below are approximate and change every year; quote them as dated estimates.
@@ -102,6 +112,11 @@ the UAE and Kuwait, by tanker. The White Oil Pipeline carries refined fuel from 
 Mahmood Kot near Multan, and older lines link Karachi to the north; the rest moves by rail tank
 wagons and a large fleet of road tankers, which add to road damage and accident risk.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--03-fuel-journeys.webp" width="900" height="836" alt="Three rows trace each fuel. Coal: Thar lignite is burned in mine-mouth power stations, while imported coal lands at Port Qasim and Karachi and moves by rail and lorry to steel and cement. Gas: fields feed the Sui Southern and Sui Northern pipelines, and places off the network rely on LPG cylinders by road. Oil: imports arrive by tanker at Port Qasim and move by the White Oil Pipeline, rail tank wagons and road tankers." loading="lazy">
+  <figcaption>Bulky lignite is used at the mine; imported coal and oil move from the port inland.</figcaption>
+</figure>
+
 ## How is electricity generated in Pakistan?
 
 Pakistan's installed capacity was about 42,000 MW in March 2024 (42,131 MW, Pakistan Economic Survey
@@ -119,6 +134,11 @@ Pakistan's installed capacity was about 42,000 MW in March 2024 (42,131 MW, Paki
 Non-renewable fuels are running out and their world price rises and swings, so a high share of
 imported fuel makes electricity expensive.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--04-electricity-mix.webp" width="900" height="680" alt="Installed capacity was about 42,000 MW in March 2024 from four kinds of station: thermal (oil, gas, LNG and coal, such as Sahiwal and Port Qasim), nuclear (Chashma and K-2 and K-3 at Karachi), hydel (Tarbela, Mangla, Warsak and run-of-river schemes) and wind and solar (the Jhimpir–Gharo corridor and rooftop panels)." loading="lazy">
+  <figcaption>Two kinds of station burn finite fuel; two use renewable flows.</figcaption>
+</figure>
+
 ## What makes a good site for a multi-purpose hydel scheme?
 
 **Physical:** a narrow gorge in strong, impermeable rock; a large reliable flow from snowmelt and
@@ -129,6 +149,11 @@ when it stores irrigation water, generates power and helps control floods. Diame
 on the upper Indus were under construction in the mid-2020s; both show the cost and silting
 problems such schemes face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--05-hydel-site.webp" width="900" height="692" alt="A long profile of a river: snowmelt and monsoon rain fill a reservoir in a wide valley upstream, held by a dam in a narrow gorge of strong, impermeable rock; downstream the scheme supplies power, irrigation water and flood control. Boxes list the physical and human factors that favour a site." loading="lazy">
+  <figcaption>A narrow gorge, a wide valley behind it and a reliable flow make the best hydel site.</figcaption>
+</figure>
+
 ## Why is electricity supply still unreliable?
 
 Demand rose with population, cities and industry; costly imported fuel left some stations idle;
@@ -136,6 +161,11 @@ hydel output drops in winter when rivers are low; high transmission and distribu
 unpaid bills created "circular debt"; and remote villages in Balochistan, Thar and the northern
 mountains are far from the grid. Small-scale schemes, such as micro-hydel on Chitral and
 Gilgit-Baltistan streams or solar home systems, can be more feasible there than extending lines.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-power--06-unreliable-supply.webp" width="900" height="626" alt="A schematic bar shows actual supply falling short of installed capacity. Five causes are listed: rising demand, costly imported fuel, low winter rivers, losses and unpaid bills (circular debt) and distance from the grid. Below, micro-hydel in Chitral and Gilgit-Baltistan and solar home systems in Balochistan and Thar are shown as small-scale solutions." loading="lazy">
+  <figcaption>Capacity is not supply: fuel costs, low rivers and losses leave a shortfall.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

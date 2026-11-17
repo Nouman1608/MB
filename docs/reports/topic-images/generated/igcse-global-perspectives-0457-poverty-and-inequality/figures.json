@@ -1,0 +1,65 @@
+[
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--01-measuring-poverty.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## Using the topic, not learning it",
+  "alt": "Absolute poverty (not meeting basic needs) is contrasted with relative poverty (much less than most people, such as below 60% of median income in the UK). Income, wealth and multidimensional measures are defined. A Gini scale runs from 0, everyone has the same, to 1, one person has everything. The World Bank line is $3.00 a day from June 2025.",
+  "caption": "Sources using different measures can reach different conclusions and both be accurate.",
+  "bytes": 125060
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--02-food-prices-levels.webp",
+  "width": 900,
+  "height": 702,
+  "after": "## Issues at global, national and local levels",
+  "alt": "A global pattern of rising living costs, a national rise in food prices and more families in one town using a food bank, linked by arrows. Below, an issue at each level: measuring SDG 1, choosing an absolute or relative poverty line, and whether a food bank is a solution or a sign of failure.",
+  "caption": "Strong answers show the links between levels, not just each level alone.",
+  "bytes": 89098
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--03-unconditional-cash-perspectives.webp",
+  "width": 900,
+  "height": 566,
+  "after": "## Perspectives and why they differ",
+  "alt": "Three reasons perspectives on poverty differ: values, interests, and evidence and experience. Applied to unconditional cash: a family values choice, a taxpayers’ group wants proof money is used well, a charity may back cash or services, and an international organisation compares programmes across countries.",
+  "caption": "Judge each perspective by its evidence and whether its reasoning follows.",
+  "bytes": 121394
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--04-poverty-cycle.webp",
+  "width": 900,
+  "height": 697,
+  "after": "## Causes and consequences",
+  "alt": "A five-step cycle: a child in a low-income family misses school because the family needs them to work, leaves with fewer qualifications, finds only low-paid work as an adult, and their own children face the same pressure. Below, a food bank meets a short-term consequence, hunger, but does not change a long-term cause, low income.",
+  "caption": "Show each link in the cycle with “because” or “this leads to”.",
+  "bytes": 84904
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--05-numbers-in-poverty-sources.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Judging sources and evidence",
+  "alt": "A bar chart shows one very high earner pulling the mean above the median. Two pie charts show the poorest group’s slice staying the same size while the economy grows, so its share falls. Further checks: 50% to 70% is 20 percentage points but a 40% increase; a food bank sample is not a whole town; and which measure is used. Loaded language carries values.",
+  "caption": "Check the measure, the average, the share, the percentage and the sample before trusting a number.",
+  "bytes": 106980
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--06-cash-programmes.webp",
+  "width": 900,
+  "height": 632,
+  "after": "## Courses of action and their effects",
+  "alt": "A table of four actions: conditional cash through Brazil’s Bolsa Família from 2003; unconditional cash through Pakistan’s Benazir Income Support Programme from 2008; Finland’s 2017 to 2018 basic income trial; and microfinance, for which the Grameen Bank shared the 2006 Nobel Peace Prize. Each has a strength and limitation, judged by effectiveness, affordability, fairness and sustainability.",
+  "caption": "Even well-known programmes need evaluating against the same four tests.",
+  "bytes": 134472
+ },
+ {
+  "file": "igcse-global-perspectives-0457-poverty-and-inequality--07-fuel-poverty-paragraph.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## Worked example: an exam-style paragraph",
+  "alt": "Nested circles show 40 surveyed households inside community centre users inside all town households. The evidence supports a real problem for some households, but the small, skewed sample and the gap between cutting back on heating and fuel poverty mean it cannot support the claim about most families. A random town-wide survey with a clear definition would test it better.",
+  "caption": "Answer “how far” with a judgement on what the evidence does and does not support.",
+  "bytes": 148402
+ }
+]

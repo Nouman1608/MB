@@ -121,6 +121,21 @@ from economic contributors to long-term financial dependants; "boomerang"
 adult children return home for economic reasons; older people's roles
 range from providing childcare to needing care themselves.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--01-family-types.webp" width="900" height="699" alt="Seven small family diagrams: nuclear, extended, single-parent, reconstituted, living apart together, child-free couple and beanpole (many generations, few members each). A note adds Therborn’s point that family systems differ across world regions." loading="lazy">
+  <figcaption>There is no single family form: households take many shapes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--02-family-perspectives.webp" width="900" height="503" alt="Three cards. Parsons, a functionalist, sees positive functions: primary socialisation and stabilising adult personalities. Engels, a Marxist, sees the family serving capitalism. Oakley, a feminist, sees women positioned unequally around domestic labour and childcare. Below, Smart and Stacey on growing family diversity." loading="lazy">
+  <figcaption>Functionalists see benefits, Marxists see capitalism, feminists see inequality.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--03-beanpole-pivot.webp" width="900" height="664" alt="Rising life expectancy and falling birth rates produce beanpole families: three generations with few members in each. The middle generation becomes the pivot generation, caring for ageing parents above and children below at the same time." loading="lazy">
+  <figcaption>Longer lives and fewer births leave the middle generation caring both ways.</figcaption>
+</figure>
+
 ## Education (3.1.2)
 
 **Official (formal) curriculum** — subjects formally taught. **Hidden
@@ -134,7 +149,7 @@ and Moore, Freire, Illich, Samson):**
 | Perspective | Core idea |
 |---|---|
 | Functionalism (Davis and Moore) | Education allocates roles by ability and socialises shared values — "role allocation" |
-| Marxism (Bourdieu) | Education reproduces class inequality; better-off pupils have more "cultural capital," which schools reward |
+| Conflict view: cultural reproduction (Bourdieu) | Education reproduces class inequality; better-off pupils have more "cultural capital," which schools reward. Bourdieu is often taught alongside Marxist views, but he was not a Marxist himself |
 | Radical/critical (Freire, Illich) | Traditional schooling can suppress critical thought rather than develop it |
 
 **Relationships and processes in school:** a teacher's **label** for a
@@ -171,6 +186,21 @@ when schools closed during the COVID-19 pandemic). Use examples from
 your own society or one you know about, and link explanations back to
 the perspectives in 3.1.2.2.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--04-labelling-prophecy.webp" width="900" height="766" alt="A cycle of four steps around the self-fulfilling prophecy: a teacher labels a pupil, often on limited evidence; the teacher’s expectations change; the pupil is treated differently; the pupil internalises and acts out the label, which confirms it." loading="lazy">
+  <figcaption>A label shapes expectations and treatment until the pupil lives up, or down, to it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--05-curriculum-and-perspectives.webp" width="900" height="484" alt="Top: the official curriculum is the subjects formally taught; the hidden curriculum teaches punctuality, respect for authority and competitiveness through routine. Below, three perspectives: functionalist role allocation, Bourdieu on cultural capital reproducing class inequality, and Freire and Illich on schooling suppressing critical thought." loading="lazy">
+  <figcaption>Schools teach more than subjects; the perspectives disagree about what that does.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--06-global-education.webp" width="900" height="654" alt="Four cards on access to education worldwide: provision (free schooling, class sizes, teachers, buildings); poverty (child work, fees, underfunding); gender and other inequalities (early marriage, disability, rural location, conflict, with women about two-thirds of adults lacking basic literacy); and digital access, exposed during COVID-19 closures." loading="lazy">
+  <figcaption>Provision, poverty, gender and digital access all shape who gets an education.</figcaption>
+</figure>
+
 ## Research methods (3.1.3 — shared with Paper 2)
 
 **Primary** data is collected first-hand; **secondary** data already exists. **Quantitative** data is numerical; **qualitative** data is descriptive.
@@ -188,6 +218,11 @@ Judge any method on **reliability** (would repeating it give the same result), *
 Sampling may be random, systematic, stratified, quota or snowball — the last used for hard-to-reach groups.
 
 Ethics: informed consent, confidentiality, protection from harm, right to withdraw.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--07-methods-scorecard.webp" width="900" height="757" alt="Five methods with what each is strong on and a strength and weakness: questionnaires and structured interviews are reliable; unstructured interviews and participant observation give valid detail; official statistics give large-scale, comparable data but were collected for other purposes. Below, the three tests: reliability, validity and representativeness." loading="lazy">
+  <figcaption>Reliable methods tend to lack depth; valid, detailed methods are hard to repeat.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -207,6 +242,11 @@ it is, follow-up interviews with volunteers to understand it.
 ```
 
 Recommending a combination, with reasons tied to the specific topic, scores higher than defending one method.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-sociology-introducing-sociology--08-bullying-method-choice.webp" width="900" height="574" alt="For a study of bullying in a school, a questionnaire is anonymous and reliable but shallow; unstructured interviews give rich detail but pupils may not open up and the sample is small. The best answer combines them: a questionnaire to measure how widespread bullying is, then interviews with volunteers to understand why." loading="lazy">
+  <figcaption>Recommending a justified combination scores higher than defending one method.</figcaption>
+</figure>
 
 ## Common mistakes
 

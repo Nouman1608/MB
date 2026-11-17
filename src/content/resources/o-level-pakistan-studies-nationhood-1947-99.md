@@ -49,6 +49,11 @@ As with the rest of Paper 1, you may meet this content in the compulsory source-
 (Section A) or in Section B, where each question has 4-, 7- and 14-mark parts. Because Section 3
 covers more than fifty years, build a timeline and attach each policy to the right leader.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--01-leaders-timeline.webp" width="900" height="706" alt="A bar chart of leaders against a 1947–2000 time axis: Jinnah to September 1948, Liaquat Ali Khan to 1951, unstable ministries to 1958, Ayub Khan 1958–69, Zulfikar Ali Bhutto 1971–77, Zia-ul-Haq 1977–88, then Benazir Bhutto and Nawaz Sharif alternating until Musharraf’s takeover in October 1999. Diamonds mark the constitutions of 1956, 1962 and 1973." loading="lazy">
+  <figcaption>Attach every policy to the right leader on this timeline.</figcaption>
+</figure>
+
 ## Key Question 11: how successful was the new state in 1947–48?
 
 | Problem | What happened | Outcome |
@@ -66,6 +71,11 @@ relief, founded the State Bank of Pakistan (1948), and urged unity and tolerance
 September 1948 removed the one leader accepted across the country. Judgement: the state survived,
 which was a real success, but key problems such as Kashmir and the language issue were left
 unresolved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--02-problems-1947-48.webp" width="900" height="920" alt="Seven problems facing Pakistan in 1947–48 (boundaries, water, assets, princely states, refugees, administration and language), each linked to its outcome and marked as dealt with or causing lasting damage." loading="lazy">
+  <figcaption>The state survived, but Kashmir and language were left unresolved.</figcaption>
+</figure>
 
 ## Key Question 12: how far did Pakistan achieve stability, 1948–71?
 
@@ -89,6 +99,11 @@ Declaration, and mass protests in 1968–69.
 | 1962 | Presidential system; Advisory Council of Islamic Ideology; "Islamic" restored to the name in 1963 |
 | 1973 | Islam the state religion; President and Prime Minister must be Muslims; Council of Islamic Ideology |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--03-stability-1948-69.webp" width="900" height="840" alt="A timeline from 1948 to 1970 with gains above the line (Objectives Resolution 1949, Liaquat–Nehru Pact 1950, first constitution 1956, land reforms 1959, Indus Waters Treaty 1960, Muslim Family Laws Ordinance 1961) and setbacks below it (Liaquat’s assassination 1951, dismissals and dissolution 1953–54, One Unit 1955, martial law 1958, the 1965 war and mass protests in 1968–69). The Ayub years are shaded." loading="lazy">
+  <figcaption>Gains and setbacks alternated: stability was never secure for long.</figcaption>
+</figure>
+
 ## Key Question 13: why did Bangladesh become independent?
 
 Causes: political domination by the West despite the East's larger population; economic disparity;
@@ -98,6 +113,11 @@ for maximum provincial autonomy, rejected by the government. After the Awami Lea
 victory in 1970, power was not transferred; talks between Mujib, Bhutto and Yahya Khan failed,
 military action began in March 1971, and **India's military intervention** in December 1971 led to
 the surrender of Pakistani forces in Dhaka on 16 December.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--04-bangladesh-1971.webp" width="900" height="618" alt="Five long-term causes (political domination by the West, economic disparity, the language movement, recruitment of the army and civil service from the West, slow relief after the 1970 cyclone) feed a sequence: the Six Points of 1966, the Awami League’s 1970 election win without a transfer of power, failed talks and military action in 1971, and Indian intervention ending in surrender in Dhaka on 16 December 1971." loading="lazy">
+  <figcaption>Long-standing grievances turned into a crisis when the 1970 result was not honoured.</figcaption>
+</figure>
 
 ## Key Question 14: how successful were Bhutto and Zia?
 
@@ -113,6 +133,11 @@ the surrender of Pakistani forces in Dhaka on 16 December.
 - **Benazir Bhutto 1993–96:** Kashmir tensions; rupee devaluation and IMF pressure; balance of payments problems; dismissed by President Leghari in 1996.
 - **Nawaz Sharif 1997–99:** large majority; removed the president's dismissal power (Thirteenth Amendment, 1997); nuclear tests (May 1998); Lahore Declaration with India (1999); Kargil conflict (1999); removed by General Musharraf in October 1999.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--05-governments-1988-99.webp" width="900" height="780" alt="Four stacked cards show the governments of Benazir Bhutto (1988–90, 1993–96) and Nawaz Sharif (1990–93, 1997–99), each with its main events and how it ended: dismissed, dismissed and restored then resigned, dismissed by President Leghari, and removed by General Musharraf in October 1999." loading="lazy">
+  <figcaption>Power alternated between two leaders, and every government ended early.</figcaption>
+</figure>
+
 ## Key Question 16: how important has Pakistan been in world affairs?
 
 - **Nuclear power:** programme established 1972; Indian test 1974; Pakistani tests 1998; refusal to sign the Nuclear Non-Proliferation Treaty; US sanctions.
@@ -121,6 +146,11 @@ the surrender of Pakistani forces in Dhaka on 16 December.
 - **China:** close ties since the 1960s; the Karakoram Highway.
 - **USSR/Russia:** cool relations during the Cold War, worsened by the Soviet invasion of Afghanistan (1979); closer ties after 1991; Nawaz Sharif's visit to Moscow in 1999.
 - **Commonwealth:** left 1972 over recognition of Bangladesh; rejoined 1989.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-nationhood-1947-99--06-alliances-and-nuclear.webp" width="900" height="704" alt="Bars show Pakistan’s membership of SEATO (1954–72) and CENTO (1955–79) and of the Non-Aligned Movement from 1979. Markers show it leaving the Commonwealth in 1972 and rejoining in 1989, and the nuclear milestones: programme 1972, Indian test 1974, Pakistani tests 1998." loading="lazy">
+  <figcaption>Pakistan moved from Western alliances to non-alignment as it felt let down over India.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

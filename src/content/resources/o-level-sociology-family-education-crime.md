@@ -56,6 +56,11 @@ expects candidates to be able to apply Paper 1's research methods
 content to whichever two topics they choose, so Research Methods
 remains relevant preparation for this paper too, not just Paper 1.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--01-paper-2-at-a-glance.webp" width="900" height="590" alt="Paper 2 lasts 1 hour 45 minutes, is worth 80 marks and is 50% of the qualification. Candidates answer two structured questions from a choice of three topics: 4 Family, 5 Education and 6 Crime, Deviance and Social Control. Paper 1’s research methods must be applied to the two chosen topics." loading="lazy">
+  <figcaption>Two topics from three, with Paper 1’s research methods applied to both.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL SOCIOLOGY 2251 — PAPER 2 FAMILY, EDUCATION AND
@@ -95,14 +100,19 @@ postmodernism, interactionism, functionalism, Marxism and feminism);
 6.3 How is crime dealt with in different societies? (aims and types of
 punishment, policing and law enforcement)
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--02-paper-2-topic-map.webp" width="900" height="547" alt="Three columns for Paper 2’s topics. Topic 4 Family asks about types of family, the role of the family and how family life is changing. Topic 5 Education asks what education is, its roles and functions, and what explains differences in achievement. Topic 6 Crime asks what crime and deviance are, their patterns and explanations, and how crime is dealt with." loading="lazy">
+  <figcaption>Each topic has three key questions, numbered on from Paper 1.</figcaption>
+</figure>
+
 ## How to approach it
 
-Because candidates answer on only 2 of these 3 topics, a practical
-revision strategy is to prepare all three to a reasonable standard
-early, then commit to genuinely deep revision on two closer to the
-exam — abandoning a topic too early risks being caught out if the
-exam's specific questions on the other two are less comfortable than
-expected. For Family (Topic 4), strong answers move beyond describing the
+Because candidates answer on only 2 of these 3 topics, decide early
+which two you will prepare in depth (usually the two your school
+teaches) rather than spreading equal revision time across all three.
+If you have been taught all three, keep the third at a working level
+as a fallback in case a question on one of your two is less
+comfortable than expected. For Family (Topic 4), strong answers move beyond describing the
 nuclear family as a fixed norm and can discuss real variation — 
 extended families, single-parent families, and changing patterns such
 as smaller family size or delayed marriage — and can explain a
@@ -147,6 +157,16 @@ why, since examiners reward candidates who treat the syllabus as one
 connected body of knowledge rather than three separate topics with no
 relationship to the methods content examined elsewhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--03-revision-strategy.webp" width="900" height="595" alt="A timeline. Early in the course, prepare all three topics to a reasonable standard. Closer to the exam, revise two in depth. Dropping a topic too early is risky if the questions on the other two turn out to be less comfortable." loading="lazy">
+  <figcaption>Keep all three topics open until late, then go deep on two.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--04-social-control-and-crime-types.webp" width="900" height="456" alt="Formal social control (police, courts and laws) is set beside informal social control (family disapproval, peer pressure and community norms). Below are the eleven named crime types, with organised/global, cyber, hate and domestic crime highlighted as the most likely in contemporary stimulus material." loading="lazy">
+  <figcaption>Know formal from informal control, and all eleven crime types, not just the first seven.</figcaption>
+</figure>
+
 ## The perspectives Paper 2 names
 
 The same three structural perspectives run through Family and
@@ -179,6 +199,11 @@ For crime (6.2.6) the syllabus names five theories: **postmodernism**;
 theory; **Marxism**; and **feminism** — and 6.2.7 asks for the
 strengths and limitations of each explanation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--05-perspectives-matrix.webp" width="900" height="533" alt="A table of three perspectives against two topics. Functionalism sees the family’s functions and warm bath theory, and education’s socialisation, role allocation and meritocracy. Marxism sees the family as a unit of consumption and education as reproducing class inequality. Feminism sees the domestic division of labour and the patriarchal culture of schools." loading="lazy">
+  <figcaption>The same three perspectives run through Family and Education.</figcaption>
+</figure>
+
 ## Worked example: explaining educational achievement
 
 A typical exam question asks candidates to explain why some students
@@ -195,6 +220,11 @@ home background and school resources), the strongest answers weigh
 them against each other and reach a reasoned judgement about which
 matters more in a given case, rather than describing each in
 isolation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-family-education-crime--06-achievement-answer-ladder.webp" width="900" height="540" alt="Four rungs of an answer on educational achievement. A weak answer says some students work harder. Better answers name a sociological factor such as cultural capital, explain how it affects achievement, and then weigh two factors to judge which matters more." loading="lazy">
+  <figcaption>Name a factor, explain its mechanism, then weigh it against another.</figcaption>
+</figure>
 
 ## Common mistakes to avoid
 

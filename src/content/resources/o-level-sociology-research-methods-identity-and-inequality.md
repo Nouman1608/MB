@@ -51,6 +51,11 @@ the question is actually about. This means Research Methods is never
 really "finished" as a revision topic — it resurfaces embedded within
 questions on every other substantive area throughout the course.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--02-research-methods-everywhere.webp" width="900" height="483" alt="Research Methods sits at the centre, linked to identity, inequality, family, education and crime, because exam questions on any of these can ask candidates to suggest or evaluate a research method for that topic." loading="lazy">
+  <figcaption>Research Methods is never finished: it returns inside questions on every other topic.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE O LEVEL SOCIOLOGY 2251 — PAPER 1 RESEARCH METHODS,
@@ -80,6 +85,11 @@ between societies?) — how societies are divided into unequal groups
 by factors such as class, gender and ethnicity, and the causes and
 consequences of that inequality, including its effect on life
 chances
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--01-paper-1-structure.webp" width="900" height="622" alt="Question 1 on Topic 1, Research Methods, is compulsory and covers key questions 1.1 to 1.3. Candidates then choose one more question, on either Topic 2, Identity: Self and Society, or Topic 3, Social Stratification and Inequality." loading="lazy">
+  <figcaption>Research Methods cannot be avoided; then pick Identity or Inequality.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -121,6 +131,11 @@ that only covers practical issues, however detailed, will not reach the top mark
 theoretical and ethical dimensions are what distinguish sociological evaluation from a purely
 commonsense assessment of feasibility.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--03-four-part-evaluation.webp" width="900" height="520" alt="Four boxes for evaluating a research method: practical issues (time, cost, access), ethical issues (consent, harm, confidentiality), theoretical issues (validity versus reliability) and representativeness of the sample. A note says practical issues alone will not reach the top band." loading="lazy">
+  <figcaption>Cover practical, ethical, theoretical and representativeness points, not just practical ones.</figcaption>
+</figure>
+
 ## Identity and inequality — a genuinely connected pair
 
 Topic 2 (Identity: Self and Society) and Topic 3 (Social Stratification and Inequality) are not simply
@@ -140,6 +155,16 @@ disapproval, praise, gossip and exclusion rather than a written rule and a state
 agencies of control on both sides and explain how each achieves conformity, rather than treating
 "social control" as a single undifferentiated idea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--04-identity-inequality-link.webp" width="900" height="565" alt="Two boxes linked by arrows in both directions. A person’s position in the stratification system shapes the identity formed through socialisation, and that identity in turn reinforces the position. A working-class identity is the example." loading="lazy">
+  <figcaption>Link Topics 2 and 3 both ways for a synthesised answer.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--05-formal-informal-control.webp" width="900" height="373" alt="Formal social control works through explicit rules and sanctions enforced by government, the police, the courts and the penal system. Informal social control works through unwritten norms enforced by family, peers and media through disapproval, praise, gossip and exclusion." loading="lazy">
+  <figcaption>Formal control uses written rules and penalties; informal control uses everyday reactions.</figcaption>
+</figure>
+
 ## Why sampling matters as much as method choice
 
 Beyond simply choosing between a questionnaire, an interview or observation, the *sample* a
@@ -149,6 +174,11 @@ wider population with more confidence; a small, unrepresentative, or self-select
 undermines the value of even a well-designed method. Practise identifying sampling issues
 specifically (not just method issues) in a described research scenario, and treat sampling as an
 evaluative point separate from the choice of method itself.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-sociology-research-methods-identity-and-inequality--06-sampling-matters.webp" width="900" height="518" alt="A population of mixed coloured dots leads to two samples. A representative sample contains the same mix and allows findings to be generalised with more confidence. A small, unrepresentative or self-selecting sample contains only one colour and undermines even a well-designed method." loading="lazy">
+  <figcaption>A good method with a poor sample still gives weak evidence.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

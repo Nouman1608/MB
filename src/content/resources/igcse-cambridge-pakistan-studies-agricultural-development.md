@@ -72,6 +72,11 @@ On a **subsistence** farm most outputs feed the family. On a **cash crop** farm 
 so income becomes an input for next season. A **livestock** system adds fodder and veterinary care as
 inputs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--01-farm-as-a-system.webp" width="900" height="662" alt="Inputs such as land, water, seeds, labour and capital pass through processes such as ploughing, sowing, irrigating and harvesting to give outputs such as crops, milk, income and crop residue. A feedback arrow shows income from a cash crop farm becoming an input for the next season." loading="lazy">
+  <figcaption>Every farm turns inputs into outputs; what happens to the outputs decides the farm type.</figcaption>
+</figure>
+
 ## What are kharif and rabi crops?
 
 | Season | Sown | Harvested | Main crops |
@@ -81,6 +86,11 @@ inputs.
 
 Kharif crops need high temperatures and plenty of water. Rabi crops grow in the cooler, drier
 winter and rely on irrigation, winter rain from western depressions, and moisture stored in the soil.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--02-kharif-rabi-seasons.webp" width="900" height="620" alt="A year wheel of summer, autumn, winter and spring. Kharif crops such as cotton, rice and sugar cane are sown in summer and harvested in autumn; rabi crops such as wheat, pulses and oilseeds are sown in winter and harvested in spring." loading="lazy">
+  <figcaption>Kharif crops use the hot, wet summer; rabi crops use the cooler, drier winter.</figcaption>
+</figure>
 
 ## Where are the main crops grown, and why?
 
@@ -92,6 +102,11 @@ winter and rely on irrigation, winter rain from western depressions, and moistur
 Fruit examples to learn with location and use: mangoes (Multan, southern Punjab, Sindh), oranges
 (kinnow around Sargodha), dates (Khairpur in Sindh and Balochistan oases), apples and apricots
 (cooler northern valleys and Balochistan uplands), bananas (Sindh).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--03-main-crops-where-why.webp" width="900" height="552" alt="A table of the four main crops. Cotton, rice and sugar cane are kharif crops grown in parts of Punjab, Sindh and the Peshawar valley where it is hot and water is plentiful. Wheat is a rabi crop grown on the irrigated plains and on rain-fed land in the Potwar Plateau." loading="lazy">
+  <figcaption>Each crop is grown where its needs for heat, water and soil are met.</figcaption>
+</figure>
 
 ## How do natural and human factors affect production?
 
@@ -111,6 +126,16 @@ cleaning and are being replaced in places by tubewells, which lower the water ta
 mountains and Balochistan, sheep and goats are herded by nomads or by transhumance, moving to
 high summer pastures and down to valleys in winter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--04-karez-oasis.webp" width="900" height="721" alt="Cross-section from the hills to a desert oasis. Groundwater at the foot of the hills flows by gravity along a sloping underground channel to an oasis where dates and vegetables are grown. Little water is lost to evaporation, but the channels need constant cleaning and nearby tubewells lower the water table." loading="lazy">
+  <figcaption>A karez moves groundwater by gravity and keeps it out of the sun.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--05-livestock-transhumance.webp" width="900" height="589" alt="A mountain profile shows transhumance: herders move sheep and goats up to high summer pastures and back down to the valleys in winter. Cards below compare buffalo and cattle on small farms, which give milk, draught power and dung, with nomadic and semi-nomadic herding." loading="lazy">
+  <figcaption>Transhumance follows the grass: up in summer, down in winter.</figcaption>
+</figure>
+
 ## Which types of irrigation are used?
 
 | Type | How it works | Advantage | Disadvantage |
@@ -125,6 +150,11 @@ Dams store water; barrages raise river level and divert it into canals; link can
 between rivers; distribution canals and field channels carry it to farms; bunds hold water on
 fields.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--06-river-to-field.webp" width="900" height="768" alt="Five steps of the irrigation network: a dam stores water, a barrage raises the river level and diverts water into canals, link canals move water between rivers, distribution canals and field channels carry it to farms, and bunds hold it on the fields." loading="lazy">
+  <figcaption>Dams store, barrages divert, canals carry and bunds hold: one network from river to crop.</figcaption>
+</figure>
+
 ## What causes waterlogging and salinity, and how can they be solved?
 
 Seepage from unlined canals and over-watering raise the water table. When it nears the surface the
@@ -134,6 +164,11 @@ salts behind on the surface, which is salinity.
 **Restoring land:** tubewells pump groundwater out to lower the water table; drainage channels carry
 salty water away; land is flushed with water and salt-tolerant crops are planted.
 **Prevention:** lining canals, more careful water use, and better drainage.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-agricultural-development--07-waterlogging-salinity.webp" width="900" height="734" alt="Cross-section of a field beside an unlined canal. Seepage and over-watering raise the water table near the surface so crop roots cannot breathe; evaporation in the hot climate then leaves salts on the surface. Cards list ways to restore damaged land and to prevent the problem." loading="lazy">
+  <figcaption>Seepage raises the water table; evaporation leaves the salt behind.</figcaption>
+</figure>
 
 ## How has government action increased production?
 

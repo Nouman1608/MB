@@ -57,6 +57,11 @@ psychology as its individuals and societies discipline may still
 direct students toward one of the three examinable subjects for the
 eAssessment itself.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--01-disciplines-to-eassessment.webp" width="900" height="670" alt="Nine disciplines a school may teach, from integrated humanities and history to psychology and world religions, narrow to only three on-screen eAssessment subjects: history, geography and integrated humanities." loading="lazy">
+  <figcaption>Whatever discipline is taught, the eAssessment comes in only three subjects.</figcaption>
+</figure>
+
 ## The three eAssessment tasks
 
 Investigating (criteria A and B, 26 marks) involves evaluating an
@@ -67,6 +72,11 @@ topic, presenting information appropriately for audience and purpose.
 Thinking critically (criteria A, C and D, 36 marks, the largest task)
 involves discussing issues, arguments and perspectives through
 structured questions, culminating in extended writing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--02-three-tasks.webp" width="900" height="630" alt="A bar split by marks: investigating 26, communicating 18 and thinking critically 36, out of 80. Investigating uses criteria A and B; communicating A and C; thinking critically, the largest task, A, C and D and ends in extended writing." loading="lazy">
+  <figcaption>Thinking critically carries 36 of the 80 marks and ends in extended writing.</figcaption>
+</figure>
 
 ## Worked example: the source-evaluation skill
 
@@ -83,6 +93,11 @@ cannot tell you every time you work with primary or secondary material
 in class, since this is tested directly and is distinct from simply
 extracting facts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--03-source-evaluation.webp" width="900" height="567" alt="Summarising a source extracts its facts; evaluating it says what it can and cannot tell you for a research purpose. Official sample questions test this on one source, a value or limitation of source B, and comparatively, the usefulness of sources C and D for studying protest movements." loading="lazy">
+  <figcaption>Evaluate usefulness for a purpose, on one source or two; do not just summarise.</figcaption>
+</figure>
+
 ## Building for extended writing
 
 Because the thinking-critically task carries the largest share of
@@ -92,6 +107,11 @@ groups in society is the most important factor in making sure a
 protest movement is successful?" models the expected approach: take a
 position, weigh it against alternatives, and reach a reasoned
 judgement -- not simply describe events.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--04-extended-writing.webp" width="900" height="545" alt="A sample to-what-extent question about protest movements leads to three steps: take a position, weigh it against alternatives, and reach a reasoned judgement. A narrative description cannot reach top marks; a structured argument can." loading="lazy">
+  <figcaption>Take a position, weigh alternatives and judge: description alone cannot reach the top.</figcaption>
+</figure>
 
 ## Sample eAssessment topics
 
@@ -107,6 +127,11 @@ span history, geography and broader social-science themes, they
 illustrate why the three eAssessment subjects can draw on genuinely
 overlapping content even though a student's own taught discipline may
 have been narrower.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-individuals-societies-disciplines--05-sample-topics.webp" width="900" height="688" alt="Ten topic tiles from the official brief, including demographics and human movements, settlement and urban morphology, warfare and peacekeeping, rights and social protest, trade, aid and exchange, and industrialization and technological developments." loading="lazy">
+  <figcaption>The listed topics cross disciplines, so expect overlap whatever you were taught.</figcaption>
+</figure>
 
 ## How to approach it
 

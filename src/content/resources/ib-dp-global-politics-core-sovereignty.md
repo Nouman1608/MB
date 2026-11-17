@@ -71,6 +71,16 @@ Stephen Krasner (1999) split the concept into four meanings: domestic sovereignt
 3. **Use Krasner's split.** Domestic and international legal sovereignty are intact. Interdependence sovereignty over money flows is reduced.
 4. **Judge.** The state has given up some control but not its authority. The answer depends on the notion used, which is exactly the point the guide makes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--01-westphalian-sovereignty.webp" width="900" height="685" alt="Four features of the traditional Westphalian notion of sovereignty: territoriality, supreme authority inside the territory, non-intervention by outsiders and legal equality of states. The UN Charter builds these in through Articles 2(1), 2(4) and 2(7)." loading="lazy">
+  <figcaption>Territory, final authority, non-intervention and equality: the classic model.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--02-krasner-eurozone.webp" width="900" height="647" alt="Krasner’s four meanings of sovereignty applied to a eurozone member: domestic and international legal sovereignty are intact, interdependence sovereignty over money flows is reduced. Under the traditional notion it has lost a key power; under pooled sovereignty it shared it by treaty and could leave." loading="lazy">
+  <figcaption>Split sovereignty into its meanings before judging whether it has been lost.</figcaption>
+</figure>
+
 ## Sources of sovereignty
 
 The guide lists several areas to consider. Treat them as ways a state gains, keeps or proves sovereignty.
@@ -89,6 +99,16 @@ The guide lists several areas to consider. Treat them as ways a state gains, kee
 
 Palestine shows the gap between them. It has been a UN non-member observer state since 2012 and is recognised by many states, yet it lacks full control over its territory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--03-sources-of-sovereignty.webp" width="900" height="615" alt="Four sources support state sovereignty: possession and use of force, as Haiti’s loss of control shows; international law and norms, such as the Montevideo criteria and the 2014 UN resolution on Ukraine; recognition by other states; and consent of the governed, as in Scotland’s 2014 referendum." loading="lazy">
+  <figcaption>Force, law, recognition and consent each help a state gain, keep or prove sovereignty.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--04-recognition-theories.webp" width="900" height="600" alt="Declaratory theory: a state exists once it meets the factual criteria, and recognition just acknowledges it. Constitutive theory: a state exists only once others recognise it. Palestine, a UN non-member observer state since 2012 recognised by many states but without full control of its territory, shows the gap." loading="lazy">
+  <figcaption>Does recognition acknowledge a state, or create one?</figcaption>
+</figure>
+
 ## Internal and external dimensions
 
 | | Internal sovereignty | External sovereignty |
@@ -98,6 +118,11 @@ Palestine shows the gap between them. It has been a UN non-member observer state
 | Main threat | Armed groups, secession, loss of consent | Invasion, interference, supranational rules, intervention |
 
 A related distinction is **de jure** sovereignty (the legal right to rule) versus **de facto** sovereignty (actual control). They can split. Somalia's federal government has had de jure recognition for years while armed groups such as al-Shabaab control parts of its territory. Taiwan has strong de facto internal sovereignty but formal recognition from only a small number of states.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--05-internal-external.webp" width="900" height="541" alt="A table contrasting internal sovereignty, supreme authority inside the borders, with external sovereignty, independence and recognition outside them, including how each is shown and threatened. Below, Somalia has legal recognition without full control, while Taiwan has strong control with limited recognition." loading="lazy">
+  <figcaption>Authority inside and standing outside are different, and so are legal right and actual control.</figcaption>
+</figure>
 
 ## Challenges to state sovereignty
 
@@ -126,6 +151,11 @@ Whether something counts as a challenge depends on which notion of sovereignty y
 2. External: it asks other states to recognise a new state; few supported the 2017 vote, which limited its effect.
 3. Alternative notion: many Kurds frame the claim as a people's right to self-determination across four states.
 4. Judgement: mainly internal, because recognition was withheld, but it tests the Westphalian idea that borders are fixed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-global-politics-core-sovereignty--06-challenges.webp" width="900" height="793" alt="Two groups of challenges. From states and the international system: interdependence, interference by other states, supranational bodies and humanitarian intervention. From non-state actors and alternative claims: Indigenous claims, transnational groups such as Kurds, nationalist movements, violent groups such as Islamic State, and transnational corporations." loading="lazy">
+  <figcaption>Challenges come from above, beside and below the state; judge each against a stated notion.</figcaption>
+</figure>
 
 ## Sovereignty across the thematic studies
 

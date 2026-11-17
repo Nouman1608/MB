@@ -79,6 +79,11 @@ the whole qualification, not per paper: 3.7 Research Methods is the
 last of the seven and, as above, is examined across both papers
 rather than being a Paper 1 topic in its own right.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--01-paper-1-map.webp" width="900" height="634" alt="The toolkit of 3.1 the sociological approach and 3.2 structures, processes and issues feeds into the two topics, 3.3 Families and 3.4 Education. Research methods, 3.7, runs underneath both and is examined across both papers." loading="lazy">
+  <figcaption>Learn the toolkit once, then apply it to families, education and methods.</figcaption>
+</figure>
+
 ## How to approach it
 
 The Sociological Approach and Social Structures (3.1-3.2) introduce
@@ -109,6 +114,11 @@ Sociologists disagree fundamentally about what the family is for, and questions 
 
 **Feminists** focus on patriarchy. Liberal feminists point to gradual progress towards equality; radical feminists argue the family is the central site of women's oppression; Marxist feminists connect unpaid domestic labour to capitalism's needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--02-family-perspectives.webp" width="900" height="470" alt="Three cards. Functionalists Murdock and Parsons list primary socialisation, stabilisation of adult personalities, reproduction and economic support. Marxists say the family reproduces labour power, passes on property and is a unit of consumption. Feminists focus on patriarchy, split into liberal, radical and Marxist feminist views." loading="lazy">
+  <figcaption>Set the perspectives against each other: they disagree about whom the family serves.</figcaption>
+</figure>
+
 ## Criticisms of families (3.3.5)
 
 The specification lists the criticisms to know: isolation and unrealistic idealisation, loss of traditional functions, lack of contact with wider kinship networks, the status and role of women within families, marital breakdown and dysfunctional families. It names two writers here.
@@ -119,9 +129,19 @@ The specification lists the criticisms to know: isolation and unrealistic ideali
 
 The contrast is worth using in an answer: Zaretsky explains the family's problems through capitalism, Delphy and Leonard through patriarchy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--03-zaretsky-delphy-leonard.webp" width="900" height="699" alt="Two panels. Zaretsky, a Marxist, says the family benefits capitalism: the idea of a separate private life is an illusion and unpaid domestic labour props the system up. Delphy and Leonard, feminists, say the family benefits men, who exploit women’s work, so it maintains patriarchy." loading="lazy">
+  <figcaption>Zaretsky blames capitalism; Delphy and Leonard blame patriarchy.</figcaption>
+</figure>
+
 ## Divorce (3.3.6)
 
 The specification asks for the pattern of divorce in Britain since 1945, using statistics, and the reasons for its rise: changes in the law, changes in social attitudes and values, secularisation, and the changing status of women in society. The Divorce Reform Act 1969, in force from 1971, allowed divorce on the ground of irretrievable breakdown and was followed by a sharp rise in divorces. You also need the consequences of divorce for husbands and wives, children and the extended family, including the growth in the number of lone-parent families, and how functionalist, feminist and Marxist perspectives interpret these changes.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--04-divorce-reasons-consequences.webp" width="900" height="640" alt="Four reasons, changes in the law, changes in social attitudes and values, secularisation and the changing status of women, feed into the rise in divorce since 1945. The Divorce Reform Act 1969, in force from 1971, allowed divorce for irretrievable breakdown and was followed by a sharp rise. Consequences fall on husbands and wives, children and the extended family, including more lone-parent families." loading="lazy">
+  <figcaption>Four reasons explain the rise in divorce; its effects reach the whole family.</figcaption>
+</figure>
 
 ## Family diversity and change
 
@@ -131,19 +151,34 @@ Explanations for change include secularisation, changes in divorce law, women's 
 
 **Conjugal roles** are described as segregated (clearly divided) or joint (shared). **Young and Willmott** argued families were becoming symmetrical, spreading via **stratified diffusion** — the principle that social changes (here, symmetrical, home-centred family life) spread downward from higher to lower social classes over time. **Oakley** disputed the symmetrical-family thesis, finding women still performed most domestic labour — the "dual burden". **Duncombe and Marsden** added emotional work to paid work and housework: the "triple shift".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--05-stratified-diffusion.webp" width="900" height="703" alt="Three stacked class layers with an arrow pointing down: stratified diffusion means changes spread from higher to lower classes. Below, family roles move from segregated, clearly divided roles to joint roles in a symmetrical, home-centred family. A note adds Oakley’s dual burden and Duncombe and Marsden’s triple shift." loading="lazy">
+  <figcaption>Young and Willmott saw symmetry spreading down the classes; Oakley disagreed.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--06-dual-burden-triple-shift.webp" width="900" height="604" alt="Three stacked columns showing a woman’s load. Young and Willmott’s symmetrical family: paid work and shared housework. Oakley’s dual burden: paid work plus most of the housework. Duncombe and Marsden’s triple shift: paid work, housework and emotional work." loading="lazy">
+  <figcaption>Each study adds a layer: from shared roles to the dual burden to the triple shift.</figcaption>
+</figure>
+
 ## Studying education
 
 **Functionalists** (Durkheim, Parsons) see education as transmitting shared norms, teaching specialist skills, and acting as a bridge between family and wider society, allocating roles by merit.
 
-**Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward.
+**Marxists** (Bowles and Gintis) argue the **hidden curriculum** reproduces class inequality through a correspondence between school and workplace — obedience, hierarchy, acceptance of extrinsic reward. **Willis**, also writing from a Marxist perspective (as the specification presents him), studied working-class "lads" who formed a **counter-school culture**; unlike Bowles and Gintis, he argues schooling does not simply produce obedient workers, though the lads' rejection of school still led them into manual work.
 
-**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures — **Willis**'s study of a group of working-class boys forming a counter-school culture is the specification's named example of an anti-school subculture, though the specification presents Willis as writing from a Marxist perspective.
+**Interactionists** focus on processes inside school: **labelling**, the **self-fulfilling prophecy**, and **setting and streaming** creating pro- and anti-school subcultures. Willis's counter-school culture is the specification's named example of an anti-school subculture, but remember it is a Marxist study: his observation-based methods look interactionist, his explanation is Marxist.
 
 ## Explaining differential achievement
 
 Distinguish **internal** factors within school — labelling, streaming, subcultures, ethnocentric curriculum, teacher expectations — from **external** factors outside it — material deprivation, cultural capital, parental attitudes, language codes.
 
 Achievement patterns are examined by **class** (persistently the strongest predictor — **Halsey**'s research is the specification's named study on class-based inequality in achievement), **gender** (girls outperforming boys at most levels, explained by changing ambitions, coursework and boys' subcultures) and **ethnicity** (varying widely between groups, with institutional racism and material factors both advanced as explanations). **Ball** is named on both sides of the internal/external divide — on parental choice and competition between schools as an external factor, and on teacher expectations as an internal one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-families-and-education--07-internal-external-factors.webp" width="900" height="690" alt="A school building holds internal factors: labelling, streaming, subcultures, an ethnocentric curriculum and teacher expectations. Outside it are external factors: material deprivation, cultural capital, parental attitudes and language codes. Ball sits across the wall, with work on both sides. Below, achievement by class, gender and ethnicity." loading="lazy">
+  <figcaption>Sort every explanation: inside the school gates, or outside them?</figcaption>
+</figure>
 
 ## Worked example
 

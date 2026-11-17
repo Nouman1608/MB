@@ -49,6 +49,11 @@ Paper 2 is a 2 hour written exam worth 80 marks and 33.3% of the A-level. Sectio
 
 The specification makes theories, methods and research design integral to every topic, so every study you quote should come with a comment on how it was done.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-beliefs-in-society--01-paper-2-structure.webp" width="900" height="534" alt="Paper 2 is a 2-hour written exam worth 80 marks and 33.3% of the A-level. Section A offers Culture and Identity, Families and Households, Health, or Work, Poverty and Welfare; Section B offers Beliefs in Society, Global Development, The Media, or Stratification and Differentiation. Each section is 40 marks of extended writing." loading="lazy">
+  <figcaption>One topic from each option, 40 marks of extended writing in each section.</figcaption>
+</figure>
+
 ## Point 1: social construction of health, illness, disability and the body
 
 **Key terms**
@@ -74,6 +79,16 @@ The specification makes theories, methods and research design integral to every 
 **The body.** Sociologists of the body describe it in late modern society as a "body project" that people work on through diet, exercise and cosmetic surgery. Foucault, in *The Birth of the Clinic* (1963), described the "medical gaze": the doctor's practice of treating the patient's body as an object, separate from the person. Oakley's *The Captured Womb* (1984) is a history of the medical care of pregnant women, often used in debates about the medicalisation of childbirth.
 
 **Worked paragraph.** *Knowledge:* Parsons claims the sick role keeps society stable by limiting time off work. *Application:* a warehouse worker with long-term back pain may not fit this, because he cannot meet the duty to get well. *Analysis:* this shows the sick role assumes acute illness and a cooperative patient. *Evaluation:* Goffman shows that some conditions bring blame rather than exemption, so the model describes an ideal, not real experience.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--02-sick-role.webp" width="900" height="641" alt="Parsons’ sick role gives the sick person two rights, exemption from duties and freedom from blame, and two obligations, wanting to get well and seeking competent help, with the doctor as gatekeeper." loading="lazy">
+  <figcaption>The sick role manages illness as a form of temporary, approved deviance.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--03-illness-iceberg.webp" width="900" height="789" alt="An iceberg: the small tip above the water is illness that reaches health services and is recorded; the much larger mass below is illness that never comes to their attention." loading="lazy">
+  <figcaption>Only a small share of illness ever reaches a doctor.</figcaption>
+</figure>
 
 ## Point 2: unequal health chances by class, gender, ethnicity and region
 
@@ -101,6 +116,11 @@ The Black Report saw economic inequality as the main cause, favouring the materi
 
 **Worked paragraph.** *Knowledge:* materialists argue poor housing and insecure work cause ill health. *Application:* a family in a damp private flat may suffer repeated chest infections however carefully they eat. *Analysis:* this suggests behaviour is shaped by circumstances, not freely chosen. *Evaluation:* the Whitehall gradient shows that even secure, salaried workers in lower grades die earlier, so material factors alone cannot be the full answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--04-class-explanations.webp" width="900" height="576" alt="Four explanations of class inequalities in health: artefact, social selection, cultural or behavioural, and material or structural, which the Black Report favoured. The Whitehall studies add a psychosocial explanation based on low control and stress." loading="lazy">
+  <figcaption>Material explanations dominate, but the Whitehall gradient needs a psychosocial account too.</figcaption>
+</figure>
+
 ## Point 3: inequalities in provision of and access to health care
 
 **Key terms**
@@ -114,6 +134,11 @@ The NHS was founded in 1948 to give care free at the point of use, yet access is
 *Evaluation.* Critics of Marxism note that the NHS has removed financial barriers that market systems keep.
 
 **Worked paragraph.** *Knowledge:* the inverse care law says need and provision run in opposite directions. *Application:* in a coastal town with many older, low-income residents, GP lists may be longest where illness is highest. *Analysis:* so a free service can still produce unequal results. *Evaluation:* yet Tudor Hart said the law works most fully under market forces, so without the NHS the gap could be wider.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--05-inverse-care-law.webp" width="900" height="669" alt="A schematic with two crossing lines: need for care is highest in the most deprived areas, while the availability of good care is highest in the least deprived areas." loading="lazy">
+  <figcaption>Good care tends to be least available where it is most needed.</figcaption>
+</figure>
 
 ## Point 4: the nature and social distribution of mental illness
 
@@ -134,6 +159,16 @@ The NHS was founded in 1948 to give care free at the point of use, yet access is
 
 **Worked paragraph.** *Knowledge:* Brown and Harris link depression to life events and vulnerability factors. *Application:* a woman with no one to confide in and no paid work outside the home may be more at risk after a severe event such as a bereavement. *Analysis:* this supports a realist, structural view: the illness is real and has social causes. *Evaluation:* the study relied on recall of past events and studied women only.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--06-mental-illness-approaches.webp" width="900" height="593" alt="The realist approach treats mental illness as real distress with social causes; the social constructionist approach, from Szasz, Scheff and Goffman, sees it as defined and reinforced by those with power to label." loading="lazy">
+  <figcaption>Realists study causes of distress; constructionists study the power to define it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--07-brown-harris.webp" width="900" height="581" alt="Severe life events and long-term difficulties, combined with vulnerability factors such as having no one to confide in, no paid work outside the home or losing one’s mother before 11, lead to depression." loading="lazy">
+  <figcaption>Depression arises from life events acting on social vulnerability.</figcaption>
+</figure>
+
 ## Point 5: medicine, the health professions and the globalised health industry
 
 **Functionalist view.** Functionalists see professions as altruistic bodies with expert knowledge and a code of ethics, rewarded with high status because they serve society.
@@ -151,6 +186,11 @@ The NHS was founded in 1948 to give care free at the point of use, yet access is
 **The globalised health industry.** Pharmaceutical companies are transnational corporations. Goldacre (*Bad Pharma*, 2012) argues that negative trial results often go unpublished, distorting the evidence doctors use. Critics also say research may favour profitable conditions in rich countries. Other global features include medical tourism, international patent rules on medicines, and the migration of health workers, which can leave poorer countries short of staff.
 
 **Worked paragraph.** *Knowledge:* Weberians argue the medical profession uses social closure. *Application:* resistance to letting nurses or pharmacists take on prescribing and diagnosis can be read in this way. *Analysis:* the profession may protect status as well as patients. *Evaluation:* functionalists reply that strict entry rules protect patients, and nurse-led clinics show the closure is not complete.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-sociology-7192-health--08-iatrogenesis.webp" width="900" height="440" alt="Illich’s three kinds of iatrogenesis: clinical harm from treatment, social harm from medicalisation, and cultural harm from losing traditional ways of coping. McKeown and Szreter debate why death rates fell." loading="lazy">
+  <figcaption>Critics question how much medicine itself improves health.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -59,6 +59,11 @@ In a short story a character may be fixed by one defining trait for a few pages.
 
 This does not mean a character is simply unpredictable. Complexity is a **pattern of tension** that the reader can name: duty against desire, loyalty against honesty, pride against need, ambition against conscience. When you can name the tension, you can say what the writer wants the reader to understand about people, and that is a claim about **function**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--01-tensions-you-can-name.webp" width="900" height="788" alt="Three ways a character shows complexity: wanting two things that cannot both be had, saying one thing and doing another, and acting against stated beliefs. Below, four tensions pull in opposite directions: duty against desire, loyalty against honesty, pride against need, ambition against conscience." loading="lazy">
+  <figcaption>Complexity is not randomness: it is a pattern of tension you can name and then explain.</figcaption>
+</figure>
+
 ## Three channels of evidence
 
 Writers reveal characters in at least three ways, and complexity often appears when the channels disagree.
@@ -71,6 +76,11 @@ Writers reveal characters in at least three ways, and complexity often appears w
 
 The course points out that **inconsistencies between the private thoughts of characters and their actual behaviour reveal tensions and complexities between private and professed values**. A character's **competing, conflicting or inconsistent choices or actions** contribute to the complexity of the text.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--02-three-channels.webp" width="900" height="585" alt="Speech, action and private thought are three channels for revealing character. Arrows from all three meet at one box: where the channels disagree, the gap between private thought and behaviour reveals tension between private and professed values." loading="lazy">
+  <figcaption>Compare what a character says, does and privately thinks; complexity shows where they disagree.</figcaption>
+</figure>
+
 ## A method: map the tension
 
 1. **Professed.** What does the character say they value or intend?
@@ -80,6 +90,11 @@ The course points out that **inconsistencies between the private thoughts of cha
 5. **Meaning.** What does the tension suggest about the character's values, fears or motives?
 6. **Function.** What effect does it have on the work: suspense, irony, sympathy, a question about conscience, or a turn in the plot?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--03-map-the-tension.webp" width="900" height="820" alt="Six-step method. Professed values, actual actions and private feelings feed into step 4, the gap, named in one phrase. Step 5 says what the tension suggests about values, fears or motives; step 6 says what it does for the work." loading="lazy">
+  <figcaption>Gather three kinds of evidence, name the gap, then move from meaning to function.</figcaption>
+</figure>
+
 ## Public-domain examples to learn from
 
 **Macbeth (Shakespeare, about 1606).** Before the murder of Duncan, Macbeth reasons in private, "If it were done when 'tis done, then 'twere well / It were done quickly". He has doubts, and he knows that Duncan is his guest and kinsman. Yet he commits the act. Lady Macbeth coaches him on how to hide his intent, telling him to "Look like the innocent flower, / But be the serpent under't". Here the gap between **appearance and intent** is spelled out in words. Over the play the gap grows: the couple's public conduct and private states pull further apart, and the audience feels the strain.
@@ -87,6 +102,11 @@ The course points out that **inconsistencies between the private thoughts of cha
 **Hamlet (Shakespeare, about 1600).** In the scene where Hamlet finds Claudius at prayer, Hamlet says "Now might I do it pat, now he is praying", and then does not do it. His choice is a competing one: revenge against what he takes to be the fate of Claudius's soul. The audience, who have heard Hamlet's repeated urgings to himself to act, sees a man whose words and actions are at odds, and who gives a reason for the gap that may or may not be the whole truth. That doubt is the source of the complexity.
 
 **Jane Eyre (Charlotte Brontë, 1847).** Jane's declaration, "I am no bird; and no net ensnares me: I am a free human being with an independent will", sits beside the choice she makes later in the novel, to leave a man she loves because she cannot keep her self-respect. The conflict between feeling and principle makes the choice costly, and cost is a sign of complexity.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--04-examples-words-and-deeds.webp" width="900" height="466" alt="Table of three examples. Macbeth doubts the murder in private but commits it. Hamlet says he could kill Claudius at prayer but does not. Jane Eyre declares she is free and later leaves a man she loves to keep her self-respect. Each pairing names a tension." loading="lazy">
+  <figcaption>In each work the gap between what is said and what is done is where complexity lives.</figcaption>
+</figure>
 
 ## Worked example 1: professed against private values
 
@@ -107,6 +127,11 @@ The course points out that **inconsistencies between the private thoughts of cha
 **Function.** The passage builds sympathy and tension. It prepares the reader to see her later choices, for example whether she will accept help or let the school suffer, as the working-out of a real conflict between independence and care for her pupils.
 
 **A model sentence.** "By setting Miss Tarrant's composed refusal beside her long silent count of the school's needs, the narrator reveals a woman whose professed independence is held at a visible cost, and so makes her later choices the working-out of a conflict rather than the following of a rule."
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--05-miss-tarrant-map.webp" width="900" height="768" alt="Tension map for the practice passage. Professed: she says the school has never taken charity. Actual: she refuses the money and waits for the carriage to leave. Private: she counts the panes, desks and coming winter. The gap is principle against need, and its function is sympathy and tension." loading="lazy">
+  <figcaption>Her silent count of the school's needs shows that the refusal costs her.</figcaption>
+</figure>
 
 ## Worked example 2: competing choices in a dramatic scene
 
@@ -134,6 +159,11 @@ The course points out that **inconsistencies between the private thoughts of cha
 
 **A model sentence.** "Theodora's refusal is undercut by her refusal to leave the register, and by the way she rereads it, so that the scene stages the clash between integrity and family loyalty not as an argument but as a gesture that the audience cannot yet read."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--06-theodora-speech-action.webp" width="900" height="689" alt="Two rows across the scene. Speech: she refuses, dismisses her brother and evades. Action: she closes the book gently, does not move away, opens it again and reads the entry to the end. Integrity and loyalty to family pull against each other, leaving the outcome unresolved." loading="lazy">
+  <figcaption>Her gestures undercut her refusal, so the scene stages a clash of values the audience cannot yet read.</figcaption>
+</figure>
+
 ## Common misconceptions
 
 - **"Complex means contradictory for no reason."** Complexity is a pattern the reader can name. Always name the tension.
@@ -141,6 +171,11 @@ The course points out that **inconsistencies between the private thoughts of cha
 - **"A single moment defines the character."** In a longer work, read the pattern across scenes. One act can mislead if it is not set against the rest.
 - **"Private thought needs a narrator."** In drama and in much fiction it is inferred from soliloquy, gestures, pauses and details.
 - **"Inconsistency is the writer's mistake."** Check first whether it exposes a conflict of values. If it does, it is a deliberate source of meaning.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-6-2-choices-actions-speech-complexity-study-guide--07-label-not-analysis.webp" width="900" height="545" alt="Left: the label &quot;hypocrite&quot;, where analysis stops. Right: three steps that go further: name the tension, say what the gap suggests about values or fears, and say what it does for the work, such as irony, sympathy or suspense." loading="lazy">
+  <figcaption>Replace a label with a named tension, its meaning and its function.</figcaption>
+</figure>
 
 ## Where this leads
 

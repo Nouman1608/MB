@@ -1,0 +1,65 @@
+[
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--01-recorded-crime-funnel.webp",
+  "width": 900,
+  "height": 658,
+  "after": "## What patterns does recorded crime show?",
+  "alt": "A funnel narrowing from all crime committed, to crime reported, to crime recorded, to arrests and convictions. At each step crime drops out: much is never reported, some reports are not recorded, and policing decides who is targeted and caught.",
+  "caption": "Official statistics show who gets caught, which is not the same as who offends.",
+  "bytes": 85510
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--02-why-young-people-appear-criminal.webp",
+  "width": 900,
+  "height": 602,
+  "after": "## Why do young people appear more criminal? (6.2.2)",
+  "alt": "Six explanations around the fact that young people are over-represented in recorded crime: police targeting, stereotyping and the self-fulfilling prophecy, gang culture, weaker social control, lack of opportunity, and status frustration (Albert Cohen, 1955).",
+  "caption": "Some explanations concern how youth are policed; others concern why some young people offend.",
+  "bytes": 126202
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--03-gender-and-crime.webp",
+  "width": 900,
+  "height": 498,
+  "after": "## Why do men commit more crime than women? (6.2.4)",
+  "alt": "Two columns. Factors pushing men’s crime up: a culture of masculinity, Miller’s focal concerns and misogyny. Factors keeping women’s recorded crime down: closer supervision of girls, Pollak’s chivalry thesis, and Carlen’s finding that women offended when the rewards of conformity failed.",
+  "caption": "The gender gap comes from what drives men’s offending and what restrains or hides women’s.",
+  "bytes": 114458
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--04-labelling-and-moral-panic.webp",
+  "width": 900,
+  "height": 566,
+  "after": "## What do the main theories say? (6.2.6)",
+  "alt": "Two chains of three steps. Labelling (Becker, 1963): an act is labelled deviant, others react to the person as deviant, and a deviant career can follow. Moral panic (Stanley Cohen, 1972): the media exaggerate a group’s behaviour, the group become folk devils, and tougher control follows.",
+  "caption": "Interactionists focus on how reactions to deviance can create more of it.",
+  "bytes": 92030
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--05-theory-strengths-limits.webp",
+  "width": 900,
+  "height": 586,
+  "after": "## How strong are these explanations? (6.2.7)",
+  "alt": "A table of five theories. Strain and subculture fit property crime by young working-class men but not corporate crime; labelling fits how reactions shape careers but not the first act; Marxism fits crimes of the powerful but can neglect victims; feminism fits gender patterns but may treat women as one group; postmodernism fits new crimes but offers no single cause.",
+  "caption": "Each theory fits some crimes well and others poorly.",
+  "bytes": 103238
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--06-aims-of-punishment.webp",
+  "width": 900,
+  "height": 540,
+  "after": "## What are the aims of punishment? (6.3.1)",
+  "alt": "Five cards for the aims of punishment: protection, deterrence (individual and general), retribution, incapacitation and rehabilitation. Below, prison is shown as incapacitating and seen as just but with high reoffending, while Norway’s Halden prison stresses rehabilitation.",
+  "caption": "Judge a punishment by which aims it meets and which it misses.",
+  "bytes": 95798
+ },
+ {
+  "file": "o-level-sociology-crime-patterns-and-punishment--07-policing-effectiveness.webp",
+  "width": 900,
+  "height": 538,
+  "after": "## How effective is policing? (6.3.3)",
+  "alt": "Cards weighing policing strategies. Stop and search detects weapons and drugs but may damage trust; surveillance helps detection but raises privacy concerns and may displace crime; community policing builds trust; military-style policing may restore order quickly but can alienate communities. Crime prevention includes street lighting, housing design and youth programmes.",
+  "caption": "Every policing strategy trades effectiveness against trust, privacy or consent.",
+  "bytes": 80594
+ }
+]

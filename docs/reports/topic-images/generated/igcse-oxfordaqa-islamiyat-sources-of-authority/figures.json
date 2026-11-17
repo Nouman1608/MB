@@ -1,0 +1,38 @@
+[
+ {
+  "file": "igcse-oxfordaqa-islamiyat-sources-of-authority--01-how-the-sources-relate.webp",
+  "width": 900,
+  "height": 616,
+  "after": "## How to approach it",
+  "alt": "Three nested levels: the Qur'an as the primary, directly revealed source; the Hadith and Sunnah, recording the Prophet's words and practice to explain and apply it; and Ijma and Qiyas as secondary sources used where the Qur'an and Hadith give no explicit guidance. A note says this is a common scholarly account, not a required ranking.",
+  "caption": "Primary, explanatory, then secondary: one common way to relate the four sources.",
+  "bytes": 93348
+ },
+ {
+  "file": "igcse-oxfordaqa-islamiyat-sources-of-authority--02-testing-and-grading-hadith.webp",
+  "width": 900,
+  "height": 500,
+  "after": "## How to approach it",
+  "alt": "Two tests feed the grading: the isnad checks the chain of narrators back to the Prophet (pbuh), and the matn checks the content of the text. The four categories run from more to less reliable: Sahih, Hasan, Daeef and Maudu.",
+  "caption": "Isnad tests the chain, matn tests the text; together they set the category.",
+  "bytes": 54632
+ },
+ {
+  "file": "igcse-oxfordaqa-islamiyat-sources-of-authority--03-peel-hadith-importance.webp",
+  "width": 900,
+  "height": 532,
+  "after": "## Worked example: explaining why Hadith is needed alongside the Qur'an",
+  "alt": "A four-row worked answer on why Hadith is needed: point (the Qur'an gives principles without always the method), evidence (Salah and Zakah are detailed by the Sunnah), explain (Hadith is the practical explanation) and link (so it is the second source of Shariah).",
+  "caption": "Use point, evidence, explain, link for \"importance\" questions.",
+  "bytes": 101380
+ },
+ {
+  "file": "igcse-oxfordaqa-islamiyat-sources-of-authority--04-revelation-preservation-compilation.webp",
+  "width": 900,
+  "height": 384,
+  "after": "## Common mistakes",
+  "alt": "Three separate stages: revelation, how the Qur'an was received; preservation, how it was memorised and recorded; and compilation, how it was assembled into a single text.",
+  "caption": "Revelation, preservation and compilation are distinct stages.",
+  "bytes": 56326
+ }
+]

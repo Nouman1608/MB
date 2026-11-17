@@ -83,6 +83,11 @@ common errors on the topic.
 - **کرنا** for many activities: ورزش کرنا, تیراکی کرنا, سیر کرنا (to go for a walk or trip).
 - **منانا** for celebrating: ہم عید مناتے ہیں.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--01-right-verb-for-activity.webp" width="900" height="690" alt="Six Urdu verbs with examples: کھیلنا for sport (میں کرکٹ کھیلتا ہوں), بجانا for instruments (میں گٹار بجاتی ہوں), سننا for listening, دیکھنا for watching, کرنا for activities such as ورزش and تیراکی, and منانا for celebrating (ہم عید مناتے ہیں)." loading="lazy">
+  <figcaption>Sport is played with کھیلنا, instruments with بجانا: never گٹار کھیلنا.</figcaption>
+</figure>
+
 ## Structures for likes and preferences
 
 **1. پسند ہونا agrees with the thing liked.** مجھے کرکٹ پسند ہے; مجھے مزاحیہ فلمیں پسند ہیں.
@@ -104,11 +109,26 @@ prefer watching a film at the cinema to watching at home). Superlative: میرا
 (general custom) but پچھلی عید پر میرے چچا امریکہ سے آئے تھے (one occasion). Mixing the two is
 exactly what a festival task needs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--02-likes-and-preferences.webp" width="900" height="870" alt="Urdu like-structures with glosses: پسند agrees with the thing liked (مجھے کرکٹ پسند ہے, مجھے مزاحیہ فلمیں پسند ہیں), an activity uses the infinitive (مجھے گانے سننا پسند ہے), شوق takes an oblique infinitive with کا, and سے زیادہ makes a preference." loading="lazy">
+  <figcaption>The verb agrees with what is liked, not with the person who likes it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--03-when-to-use-ne.webp" width="900" height="600" alt="Two panels. جانا never takes نے: میں سنیما گیا and ہم میچ دیکھنے گئے are correct, میں نے سنیما گیا is wrong. Transitive verbs do take نے: ہم نے میچ جیتا, and میں نے ایک فلم دیکھی agrees with the feminine فلم." loading="lazy">
+  <figcaption>جانا never takes نے; transitive past verbs do, and agree with the object.</figcaption>
+</figure>
+
 ## A vocabulary trap: ہفتہ
 
 ہفتہ means both **week** and **Saturday**. پچھلے ہفتے normally means "last week". For "last
 Saturday", make it explicit: پچھلے ہفتے کے دن. Translation tasks with days of the week are a good
 place to show this precision.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--04-hafta-trap.webp" width="900" height="620" alt="The word ہفتہ means both week and Saturday. پچھلے ہفتے normally means last week; for last Saturday, write پچھلے ہفتے کے دن." loading="lazy">
+  <figcaption>Use پچھلے ہفتے کے دن when the English says &quot;last Saturday&quot;.</figcaption>
+</figure>
 
 ## Worked example 1: translation into Urdu
 
@@ -146,6 +166,11 @@ What it shows:
 
 The same pattern of custom, occasion, opinion and plan works for sport (what you usually play, a
 match you remember, why you enjoy it, a future goal) and for music or films.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--05-custom-occasion-opinion-plan.webp" width="900" height="710" alt="Four moves from the Eid model answer, with its Urdu: customs in the present habitual (اٹھتے ہیں، پہنتے ہیں، جاتے ہیں), one occasion in the past (آئے تھے، اکٹھا ہوا), an opinion with اس لیے ... کیونکہ, and a future plan (بناؤں گا). The same pattern fits sport." loading="lazy">
+  <figcaption>Custom, occasion, opinion and plan: one pattern for festivals, sport, music or films.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -191,6 +216,11 @@ TV sub-topic. These frames help you move beyond "it was good":
 Note the difference between **پسند ہونا** and **پسند آنا**. مجھے مزاحیہ فلمیں پسند ہیں states a
 general liking; مجھے وہ فلم بہت پسند آئی describes your reaction to one particular film in the
 past. Using پسند آنا correctly is a small sign of control that examiners notice.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-free-time-activities--06-pasand-hona-vs-pasand-ana.webp" width="900" height="700" alt="پسند ہونا states a general liking (مجھے مزاحیہ فلمیں پسند ہیں); پسند آنا gives a reaction to one film in the past (مجھے وہ فلم بہت پسند آئی). Three review frames follow, on the acting, the final scene and each episode." loading="lazy">
+  <figcaption>پسند آنا for one film you saw; پسند ہونا for what you like in general.</figcaption>
+</figure>
 
 ## Practise next
 

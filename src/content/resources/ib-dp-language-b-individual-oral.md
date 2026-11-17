@@ -66,6 +66,11 @@ The brief does **not** give the timings, the stages of the oral, the rules on no
 criteria. Your teacher will share these. Plan with their exact figures, not with figures from a
 friend at another school or an old handout.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--01-oral-at-a-glance.webp" width="900" height="543" alt="A bar shows the individual oral as the only internal component, 25 percent and 30 marks, against 75 percent for the external papers. Cards give the stimulus: a visual image at SL and an excerpt from a literary work at HL. The brief sets the same outline at both levels; timings, stages, rules on notes and criteria come from your teacher." loading="lazy">
+  <figcaption>One internal component worth 25%: an image at SL, a literary excerpt at HL.</figcaption>
+</figure>
+
 ## The skills the oral tests
 
 The brief says communication "is evidenced through receptive, productive and interactive skills".
@@ -85,6 +90,11 @@ The brief also names five conceptual understandings: **context, audience, purpos
 variation**. In the oral, your audience is your teacher, the context is a formal assessment, and your
 purpose is to explain and discuss. That calls for a register that is polite and clear but still
 natural: full sentences, no slang, and no written-essay phrasing read aloud.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--02-three-skills.webp" width="900" height="801" alt="Three overlapping circles labelled receptive (understand the stimulus and questions), productive (speak at length in an organised way) and interactive (a real exchange, not memorised answers) meet at the centre labelled Oral. A note highlights the verb respond in the assessment objective." loading="lazy">
+  <figcaption>Understand, speak at length and respond: the oral tests all three skills at once.</figcaption>
+</figure>
 
 ## SL: working with a visual image
 
@@ -119,6 +129,11 @@ A strong opening sentence: *"This image shows a girl learning a family recipe by
 think it asks how a culture survives when a family is split between two countries."* One sentence of
 description, then straight to an idea.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--03-sl-four-layers.webp" width="900" height="799" alt="Four numbered layers for an SL image, each with a worked example: literal (a girl follows a recipe on a video call), theme (identities, with experiences in reserve), lens (a possible question about language and culture), and culture (compare a target-language food tradition). A strong opening sentence moves from description straight to an idea." loading="lazy">
+  <figcaption>Literal, theme, lens, culture: keep the description short and reach an idea fast.</figcaption>
+</figure>
+
 ## HL: working with a literary extract
 
 At HL you know the stimulus comes from one of your two works, so preparation starts months earlier.
@@ -151,6 +166,11 @@ When you meet an extract, move through four questions.
 
 Avoid retelling the plot. The extract is evidence for an interpretation, not a story to repeat.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--04-hl-four-questions.webp" width="900" height="714" alt="Four numbered questions for an HL extract with a worked example: where is it in the work; what happens (Nadia delays replying to her mother's letter); how is it written (the untranslatable word for home, the repeated Tomorrow, the tram timetable); and why it matters (identities and experiences, with a possible question as a lens)." loading="lazy">
+  <figcaption>Place it, say what happens, show how it is written, and link it to the work and a theme.</figcaption>
+</figure>
+
 ## Structuring your presentation
 
 Use a clear five-move shape. It works at both levels.
@@ -173,6 +193,11 @@ lose your place. If your teacher allows notes, write five headings and a few key
 
 **Balance your time.** Description should be the shortest move. Interpretation and connection should
 take most of it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--05-five-move-presentation.webp" width="900" height="873" alt="Five linked boxes: frame, describe, interpret, connect and close. A bar shows describing as the shortest move and interpreting and connecting taking most of the time. Signposting phrases such as first I'll describe and this connects to sit below." loading="lazy">
+  <figcaption>Frame, describe, interpret, connect, close: keep description short and signpost each move.</figcaption>
+</figure>
 
 ## Handling the conversation
 
@@ -211,6 +236,16 @@ A conversation can move beyond the stimulus. Keep vocabulary ready for the theme
 studied, and practise linking ideas from one theme to another: a **sharing the planet** image about
 a river clean-up can lead to **identities** (what young people value) or **experiences** (a
 community event that changed someone).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--06-conversation-toolkit.webp" width="900" height="628" alt="A teacher question with a weak yes answer is extended in three linked parts: answer, reason and example (a class clothes swap that the whole school now runs). Four cards give conversation moves with target phrases: repair by paraphrasing, clarify, agree or disagree or qualify, and buy time." loading="lazy">
+  <figcaption>Extend every answer with a reason and an example; repair, clarify and qualify in the target language.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-language-b-individual-oral--07-moving-between-themes.webp" width="900" height="512" alt="An image of a river clean-up under Sharing the planet branches to two other themes: Identities (what young people value) and Experiences (a community event that changed someone)." loading="lazy">
+  <figcaption>One stimulus can lead the conversation into other themes.</figcaption>
+</figure>
 
 ## Preparing across the course
 

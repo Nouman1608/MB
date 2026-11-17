@@ -55,6 +55,11 @@ identity; and Social change and development. Family roles and changing
 relationships (4.1, 4.2) is linked to Power, control and resistance;
 and Inequality and opportunity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--01-paper-2-map.webp" width="900" height="570" alt="Two topic areas. Theories of the family and social change (3.1 perspectives, 3.2 diversity and change) links to power, control and resistance; socialisation, culture and identity; and social change and development. Family roles and changing relationships (4.1 gender, 4.2 age) links to power, control and resistance and to inequality and opportunity." loading="lazy">
+  <figcaption>Paper 2 has two topic areas, four sub-topics and four linked key concepts.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE A-LEVEL SOCIOLOGY (9699) — PAPER 2 THE FAMILY**
@@ -92,6 +97,11 @@ examined for what it claims the family *does*:
   challenging the functionalist and Marxist accounts for treating the
   family as broadly beneficial while overlooking inequality within it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--02-three-perspectives.webp" width="900" height="494" alt="Three cards: functionalists say the family benefits members and society, with a debate about loss of functions; Marxists say it benefits capitalism through ideological control, reproduction of labour and consumption; feminists challenge both for overlooking inequality within the family." loading="lazy">
+  <figcaption>Functionalists see benefits for society, Marxists for capitalism, and feminists see hidden inequality.</figcaption>
+</figure>
+
 ## 3.2 Diversity and social change
 
 This sub-topic covers the causes and consequences of changing patterns
@@ -111,6 +121,11 @@ as evidence of greater individual choice -- and the state and social
 policy are examined as an active influence shaping family form, not
 just a neutral backdrop to it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--03-family-diversity.webp" width="900" height="609" alt="Five family and household forms: nuclear, extended, lone-parent, reconstituted and single-person. The New Right sees growing diversity as a social problem; postmodernists see it as greater individual choice. Students also examine whether the nuclear family remains dominant and how social policy shapes family form." loading="lazy">
+  <figcaption>The New Right sees diversity as a problem; postmodernists see it as choice.</figcaption>
+</figure>
+
 ## 4.1 Gender equality and experiences of family life
 
 Feminism is examined here in more internal detail than in 3.1: liberal,
@@ -125,6 +140,11 @@ frames as a live debate: whether the overall experience of family life
 is positive or negative for its members, rather than assuming an
 answer either way.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--04-conjugal-roles.webp" width="900" height="546" alt="Four areas of conjugal roles: housework, childcare, power and emotion work. Liberal, radical and Marxist feminists offer different explanations of inequality within the family. Below, a line from positive to negative experience shows that whether family life is good for its members is a live debate." loading="lazy">
+  <figcaption>Conjugal roles span housework, childcare, power and emotion work; feminists disagree on why they are unequal.</figcaption>
+</figure>
+
 ## 4.2 Age and family life
 
 Childhood is examined as a **socially constructed** category -- what
@@ -138,6 +158,11 @@ experience family life, and the sub-topic closes with changing
 concepts of **motherhood** and **fatherhood** -- how these roles have
 been redefined over time rather than remaining fixed.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--05-age-family-life.webp" width="900" height="406" alt="Four cards on age and family life: childhood as socially constructed, the changing position of grandparents as life expectancy rises, children’s experiences shaped by class, gender and ethnicity, and changing concepts of motherhood and fatherhood." loading="lazy">
+  <figcaption>Childhood, grandparenthood and parenthood are social roles that change over time.</figcaption>
+</figure>
+
 ## Assessment objectives on Paper 2
 
 Paper 2 uses the same three assessment objectives as every other paper
@@ -150,6 +175,11 @@ where AO3 carries the most weight: explaining the strengths and
 limitations of the perspectives covered in 3.1 and 4.1, and reaching a
 reasoned conclusion rather than simply describing each perspective in
 turn.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--06-paper-2-assessment.webp" width="900" height="621" alt="Paper 2 is worth 60 marks, lasts 1 hour 30 minutes and is 50% of the AS and 25% of the A Level. Section A has three compulsory questions weighted towards AO1 and AO2; Section B is one 26-mark essay from two, where AO3 carries most weight." loading="lazy">
+  <figcaption>Section A tests knowledge and application; the Section B essay is where evaluation counts most.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -166,6 +196,11 @@ finer internal detail in 4.1), keep a running note of which feminist
 strand -- liberal, radical or Marxist -- makes which specific argument,
 since conflating them is a common source of lost marks in essay
 answers.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-the-family--07-forms-and-inside.webp" width="900" height="494" alt="A house: the roof is 3.2, the forms families take, and inside are 4.1 gender and 4.2 age, what happens within those forms. Side notes advise learning 3.1’s three perspectives as a set and tracking which feminist strand makes which argument." loading="lazy">
+  <figcaption>3.2 is about the forms families take; 4.1 and 4.2 are about what happens inside them.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

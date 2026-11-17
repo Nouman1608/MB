@@ -36,6 +36,11 @@ not every candidate takes it -- a centre chooses whether to offer it, and a cand
 is unaffected either way. For candidates who do take it, however, it is the only component that assesses
 spontaneous spoken production rather than reading, writing, or listening comprehension.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--03-separate-endorsement.webp" width="900" height="640" alt="Paper 1 Reading and Writing and Paper 2 Listening combine into the overall IGCSE grade. Component 5 Speaking is optional and leads to its own separate endorsement graded 1 (high) to 5 (low)." loading="lazy">
+  <figcaption>Speaking earns its own 1-5 endorsement; it does not change the IGCSE grade.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE URDU AS A SECOND LANGUAGE (0539) -- COMPONENT 5: SPEAKING**
@@ -58,6 +63,16 @@ spontaneous spoken production rather than reading, writing, or listening compreh
 - Speaking tests take place before the main written examination series, with a recorded sample of
   performances sent to Cambridge International for external moderation
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--01-component-at-a-glance.webp" width="900" height="587" alt="Component 5 Speaking is worth 60 marks, lasts about 10-12 minutes and is graded 1 to 5 as a separate endorsement. The teacher conducts and marks the test at the centre, then a recorded sample goes to Cambridge for external moderation." loading="lazy">
+  <figcaption>A teacher-run, 60-mark spoken test, moderated by Cambridge and graded 1 to 5.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--02-three-parts.webp" width="900" height="677" alt="A timeline of the three parts: Part 1 Presentation (2-3 minutes), Part 2 Discussion of the presentation (3-4 minutes) and Part 3 General Conversation on two or three unseen topics (3-4 minutes, 20 marks)." loading="lazy">
+  <figcaption>Presentation, then discussion of it, then an unprepared general conversation.</figcaption>
+</figure>
+
 ## How to approach it
 
 Because Part 1's topic is chosen by the candidate in advance, it rewards genuine preparation -- selecting a
@@ -65,6 +80,11 @@ topic with enough depth to sustain 2-3 minutes of spoken Urdu and to support a f
 follow-up discussion in Part 2. Part 3's general conversation, by contrast, cannot be prepared for with a
 memorised script, since the candidate does not know which topics will come up -- broad, regular spoken
 practice across a range of everyday subjects is the only reliable preparation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--04-prepared-to-spontaneous.webp" width="900" height="540" alt="A scale from most prepared to most spontaneous. Part 1 uses a topic chosen in advance; Part 2 keeps the topic but the questions are unknown; in Part 3 both topics and questions are unknown, so only broad spoken practice prepares you." loading="lazy">
+  <figcaption>Each part asks for less script and more spontaneous Urdu than the one before.</figcaption>
+</figure>
 
 ## Official syllabus
 
@@ -79,6 +99,11 @@ or a piece of Urdu literature or poetry -- rather than a generic topic with only
 culture specifically. Choosing a topic the candidate can speak about confidently and in enough depth to
 sustain both the initial 2-3 minute outline and the follow-up discussion in Part 2 matters more than
 choosing a topic that sounds impressive but is difficult to discuss fluently under exam conditions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--05-choosing-a-topic.webp" width="900" height="630" alt="Two overlapping circles: a personal interest and Urdu-speaking society or culture; a strong topic sits in the overlap. Examples are a regional cuisine, a family tradition, a festival or a piece of Urdu literature, checked for enough depth to sustain both the presentation and the discussion." loading="lazy">
+  <figcaption>Pick where your own interest meets Urdu-speaking culture, with depth for 5-7 minutes of talk.</figcaption>
+</figure>
 
 ## Part 2 discussion: moving beyond the prepared outline
 
@@ -111,6 +136,11 @@ Step 4 - focus practice on natural, spontaneous responses rather
 than word-perfect recitation, since Part 3 specifically rewards
 the ability to sustain unscripted conversation.
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-component-5-speaking--06-preparing-for-part-3.webp" width="900" height="596" alt="Four steps: identify the general topic areas, build a vocabulary and opinion-phrase bank for each, practise answering unannounced questions with a teacher or fluent speaker, and aim for natural rather than recited answers." loading="lazy">
+  <figcaption>Prepare words and opinions, not scripts, then practise being surprised.</figcaption>
+</figure>
 
 ## Common mistakes
 

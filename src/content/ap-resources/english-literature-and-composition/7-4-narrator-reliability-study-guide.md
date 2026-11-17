@@ -58,6 +58,11 @@ In short fiction the reader's whole view of events arrives through one voice, or
 
 Topic 6.4 gave you the tools for reading a narrator's perspective: diction, syntax, tone and omission. This topic concentrates on **reliability as a judgement**, and on the special cases of narrators who know what others cannot and of stories with more than one narrator.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--01-one-voice-between.webp" width="900" height="527" alt="Events reach the reader only through the narrator. If the narrator is trustworthy we accept the picture; if not, we read between and against its words. Reliability shapes what we believe happened and how we judge the people involved." loading="lazy">
+  <figcaption>Everything the reader learns passes through the narrator, so reliability changes the whole story.</figcaption>
+</figure>
+
 ## Sources of unreliability
 
 A narrator may be unreliable for different reasons. Naming the reason helps you explain the effect.
@@ -70,6 +75,11 @@ A narrator may be unreliable for different reasons. Naming the reason helps you 
 | **Emotional or mental state** | Obsession, grief, fear, instability | The reader senses distortion even when the narrator is sincere |
 | **Naivety or age** | A child or innocent who misreads events | Irony: the reader understands what the narrator does not |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--02-sources-of-unreliability.webp" width="900" height="652" alt="Five sources of unreliability, each linked to its effect on the reader: self-interest makes us doubt the account of conflicts, bias sends us to the other side, limited knowledge makes us infer more, an emotional state suggests distortion, and naivety creates irony." loading="lazy">
+  <figcaption>Naming why a narrator distorts helps you explain what the distortion does.</figcaption>
+</figure>
+
 ## Signs to look for
 
 1. **Self-contradiction.** The narrator says one thing and shows another.
@@ -79,9 +89,19 @@ A narrator may be unreliable for different reasons. Naming the reason helps you 
 5. **Contradiction by others.** Other characters, documents or events give a different account.
 6. **Gaps.** What is missing: reasons, motives, key events.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--03-six-signs.webp" width="900" height="612" alt="Six numbered signs: self-contradiction, over-insistence such as &quot;I am perfectly sane&quot;, defensive address to an imagined accuser, telling and showing that do not match, contradiction by other characters or documents, and gaps in reasons, motives or events." loading="lazy">
+  <figcaption>Look for a pattern of signs, not a single slip.</figcaption>
+</figure>
+
 ## What narrators can and cannot know
 
 The course notes that **some narrators or speakers may provide details and information that others do not or cannot provide**, and that **multiple narrators or speakers may provide contradictory information** in a text. Each narrator has a vantage point: a first-person narrator knows their own mind but not others'; a witness may know a scene but not its causes; a narrator telling a story decades later may have forgotten or reshaped what happened. When you read, ask what each narrator is positioned to know, and what they have reason to say.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--04-vantage-points.webp" width="900" height="635" alt="Three vantage points. A first-person narrator knows their own mind but not others'. A witness knows the scene but may not know its causes. A narrator telling the story decades later may have forgotten or reshaped events. Some narrators supply what others cannot, and several narrators may contradict one another." loading="lazy">
+  <figcaption>Every narrator sees from somewhere: ask what they could know and what they want to say.</figcaption>
+</figure>
 
 ## Public-domain examples to learn from
 
@@ -109,6 +129,11 @@ Use the opening of The Tell-Tale Heart, quoted above and below.
 
 **A model sentence.** "By opening with a defensive question, a breathless string of dashes and a claim of calm that the story's events contradict, Poe shows a narrator who offers his meticulousness as proof of sanity and so reveals the reverse."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--05-tell-tale-heart-signs.webp" width="900" height="731" alt="Four signs of unreliability in the opening of The Tell-Tale Heart. He asks why we will say he is mad; his dashes and repetition sound breathless; he claims he loved the old man though the story is about killing him; and he offers his calm telling as proof of sanity while revealing obsession." loading="lazy">
+  <figcaption>Poe's narrator offers his care as proof of sanity, and the reader sees the reverse.</figcaption>
+</figure>
+
 ## Worked example 2: two narrators who contradict
 
 **Original passages written by Marlbridge for practice.** Two siblings give accounts of the same night.
@@ -129,6 +154,11 @@ Use the opening of The Tell-Tale Heart, quoted above and below.
 
 **A model sentence.** "By giving Lena and Marcus incompatible accounts of the same night, each positioned to know what the other cannot and each tinted by feeling towards their father, the story makes the reader a judge of testimony and suggests that the family's truth lies in its divisions."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--06-two-narrators.webp" width="900" height="825" alt="A farmyard sketch shows Lena in the kitchen, able to hear the gate, and Marcus in the barn, able to see the yard. A table sets their accounts side by side: whether Father went out, whether the gate was chained, his mood, and Marcus's attempt to discredit Lena. The reader must weigh both." loading="lazy">
+  <figcaption>Each sibling knows what the other cannot, and neither account is neutral.</figcaption>
+</figure>
+
 ## Writing about reliability: a paragraph frame
 
 A paragraph on reliability usually moves through five moves.
@@ -140,6 +170,11 @@ A paragraph on reliability usually moves through five moves.
 5. **Significance**: say what this reveals about the narrator, another character or the story's concerns.
 
 Notice that tone and reliability are related but different. Tone is the attitude conveyed; reliability is how far we trust the account. A defensive tone is a clue to reduced reliability, but it is not proof by itself. Always look for a second sign, such as an omission or a contradiction, before you conclude.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-literature-and-composition-7-4-narrator-reliability-study-guide--07-paragraph-frame.webp" width="900" height="758" alt="Five moves for a paragraph: claim how far the narrator can be trusted, quote the evidence, name the source of distortion, state the effect on the reader, and explain the significance. Below, tone is distinguished from reliability: a defensive tone is a clue that needs a second sign." loading="lazy">
+  <figcaption>Claim, evidence, source, effect, significance; and never rest on tone alone.</figcaption>
+</figure>
 
 ## Common misconceptions
 

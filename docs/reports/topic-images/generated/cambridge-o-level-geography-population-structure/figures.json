@@ -1,0 +1,47 @@
+[
+ {
+  "file": "cambridge-o-level-geography-population-structure--01-reading-a-pyramid.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Key idea 1: what a pyramid shows",
+  "alt": "A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first.",
+  "caption": "Base, sides, top and irregularities each tell a different story.",
+  "bytes": 75130
+ },
+ {
+  "file": "cambridge-o-level-geography-population-structure--02-four-structures.webp",
+  "width": 900,
+  "height": 945,
+  "after": "## Key idea 2: structures at different levels of development",
+  "alt": "Four schematic pyramids. Youthful (low income, such as Niger): wide base and concave sides. Transitional (middle income): the base is narrowing and there is a bulge of young adults. Ageing (high income, such as Japan): narrow base, near-vertical sides and a wide top with more older women. Migration-shaped (a receiving country such as the UAE): far more men than women aged 20 to 49 because most migrant workers are men.",
+  "caption": "The shape records birth rates, death rates and migration.",
+  "bytes": 91442
+ },
+ {
+  "file": "cambridge-o-level-geography-population-structure--03-dependency-ratio.webp",
+  "width": 900,
+  "height": 780,
+  "after": "## Worked example: two countries compared",
+  "alt": "The dependency ratio formula, with youth and old-age versions. Country A has 43 per cent aged 0 to 14, 54 per cent aged 15 to 64 and 3 per cent aged 65 and over: a dependency ratio of 85.2, youth 79.6 and old-age 5.6. Country B has 12, 59 and 29 per cent: a ratio of 69.5, youth 20.3 and old-age 49.2.",
+  "caption": "A’s dependants are children; B’s are elderly. Same idea, opposite consequences.",
+  "bytes": 100738
+ },
+ {
+  "file": "cambridge-o-level-geography-population-structure--04-implications.webp",
+  "width": 900,
+  "height": 630,
+  "after": "## Key idea 4: implications of a high dependent population",
+  "alt": "Youthful populations need schools, teachers and child health care, then jobs and housing, and keep growing through population momentum. Ageing populations face rising pension and care costs, labour shortages and fewer pupils, but older people also provide childcare, volunteering and spending. Responses: education, family planning and job creation for youth; later retirement, more workers, pro-natalist incentives, immigration and technology for ageing, as in Japan.",
+  "caption": "Name the type of dependency before giving consequences and responses.",
+  "bytes": 135832
+ },
+ {
+  "file": "cambridge-o-level-geography-population-structure--05-describe-explain-implication.webp",
+  "width": 900,
+  "height": 500,
+  "after": "## Exam technique",
+  "alt": "Three columns: describe the shape, explain it, say what it means. A wide base means a high birth rate and demand for schools and child health care. A wide top with near-vertical sides means low births and long lives, bringing pension and care costs and labour shortages. A bulge of young adults above a narrowing base means births were high and are now falling, giving a possible demographic dividend if there are jobs.",
+  "caption": "Describe the shape, explain it, then give the implication.",
+  "bytes": 70520
+ }
+]

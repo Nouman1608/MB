@@ -1,0 +1,47 @@
+[
+ {
+  "file": "aqa-gcse-sociology-research-methods--01-quantitative-qualitative.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Qualitative vs quantitative data",
+  "alt": "Two columns. Quantitative data are numerical, allow statistical comparison across large samples and come from structured questionnaires, official statistics and tally counts. Qualitative data are descriptive, capture depth and meaning and come from unstructured interviews, open answers and participant observation. Both feed into mixed methods.",
+  "caption": "Numbers give comparison; words give depth; mixed methods combine them.",
+  "bytes": 101120
+ },
+ {
+  "file": "aqa-gcse-sociology-research-methods--02-practical-ethical.webp",
+  "width": 900,
+  "height": 641,
+  "after": "## Practical and ethical issues, together",
+  "alt": "Two cards: practical issues are time, cost and access; ethical issues are informed consent, confidentiality and protection from harm. Covert observation passes the practical test by avoiding the observer effect but fails the ethical test on informed consent.",
+  "caption": "Evaluate every method on both practical and ethical grounds.",
+  "bytes": 113386
+ },
+ {
+  "file": "aqa-gcse-sociology-research-methods--03-pilot-and-four-samples.webp",
+  "width": 900,
+  "height": 736,
+  "after": "## Sampling and pilot studies",
+  "alt": "A pilot study comes first to fix problems cheaply. Then four sampling methods: random, where everyone has an equal chance; systematic, taking every nth name from a list; quota, filling set numbers for each group to match the population; and snowball, where participants recruit others from their networks.",
+  "caption": "How you sample decides how far you can generalise.",
+  "bytes": 150032
+ },
+ {
+  "file": "aqa-gcse-sociology-research-methods--04-choosing-a-method.webp",
+  "width": 900,
+  "height": 734,
+  "after": "## Worked example: choosing a method for a given research question",
+  "alt": "Four steps for a question about informal family rules: decide the data needed (qualitative), consider access to private family life, weigh participant observation against its consent and privacy problems, then recommend semi-structured interviews with informed consent over covert observation.",
+  "caption": "Link the method to the question, then justify it against an alternative.",
+  "bytes": 113706
+ },
+ {
+  "file": "aqa-gcse-sociology-research-methods--05-primary-secondary.webp",
+  "width": 900,
+  "height": 504,
+  "after": "## Common mistakes",
+  "alt": "Primary data are collected first-hand by the researcher; secondary data already exist and were collected by someone else, such as official statistics. Statistics can also be official or non-official.",
+  "caption": "Primary data are your own; secondary data come from someone else.",
+  "bytes": 66340
+ }
+]

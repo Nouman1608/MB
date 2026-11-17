@@ -61,6 +61,11 @@ Four parts of the pyramid tell you different things:
 | Width of the **top** | Proportion of elderly people and life expectancy |
 | **Bulges** and **notches** | Past events: baby booms, wars, epidemics or migration |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--01-reading-a-pyramid.webp" width="900" height="650" alt="A schematic population pyramid with males on the left and females on the right, youngest at the bottom. Callouts: the width of the base shows recent birth rates; how fast the sides narrow shows the death rate and life expectancy; the width of the top shows the share of elderly people; bulges and notches record past baby booms, wars, epidemics or migration. A note says to read whether the axis shows numbers or percentages first." loading="lazy">
+  <figcaption>Base, sides, top and irregularities each tell a different story.</figcaption>
+</figure>
+
 ## Key idea 2: structures at different levels of development
 
 **Low-income, youthful structure.** A wide base and steep, concave sides that narrow quickly.
@@ -89,6 +94,11 @@ Other details to spot:
   sex-selective practices, as in China during the one-child policy.
 - A notch in one cohort, then a smaller notch about 25–30 years later, as the missing generation
   has fewer children of its own.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--02-four-structures.webp" width="900" height="945" alt="Four schematic pyramids. Youthful (low income, such as Niger): wide base and concave sides. Transitional (middle income): the base is narrowing and there is a bulge of young adults. Ageing (high income, such as Japan): narrow base, near-vertical sides and a wide top with more older women. Migration-shaped (a receiving country such as the UAE): far more men than women aged 20 to 49 because most migrant workers are men." loading="lazy">
+  <figcaption>The shape records birth rates, death rates and migration.</figcaption>
+</figure>
 
 ## Key idea 3: the dependent population
 
@@ -120,6 +130,11 @@ Illustrative data, in percentages of the total population:
 Country A's dependants are almost all **children**. Country B's are mostly **elderly**. A good
 answer then states the implications of each, which is where most of the marks are.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--03-dependency-ratio.webp" width="900" height="780" alt="The dependency ratio formula, with youth and old-age versions. Country A has 43 per cent aged 0 to 14, 54 per cent aged 15 to 64 and 3 per cent aged 65 and over: a dependency ratio of 85.2, youth 79.6 and old-age 5.6. Country B has 12, 59 and 29 per cent: a ratio of 69.5, youth 20.3 and old-age 49.2." loading="lazy">
+  <figcaption>A’s dependants are children; B’s are elderly. Same idea, opposite consequences.</figcaption>
+</figure>
+
 ## Key idea 4: implications of a high dependent population
 
 **Youthful population**
@@ -142,6 +157,11 @@ technology. Japan, for example, introduced a new visa category for skilled worke
 invested in robotics for care. For youth dependency: investment in education and family planning,
 and job creation for the young adults to come.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--04-implications.webp" width="900" height="630" alt="Youthful populations need schools, teachers and child health care, then jobs and housing, and keep growing through population momentum. Ageing populations face rising pension and care costs, labour shortages and fewer pupils, but older people also provide childcare, volunteering and spending. Responses: education, family planning and job creation for youth; later retirement, more workers, pro-natalist incentives, immigration and technology for ageing, as in Japan." loading="lazy">
+  <figcaption>Name the type of dependency before giving consequences and responses.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - Describing a pyramid bar by bar without any overall statement.
@@ -161,6 +181,11 @@ and job creation for the young adults to come.
 - **Suggest** implications: one consequence plus why it follows.
 - For the case study, name the country and include specific features of its structure and its
   government's response.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-geography-population-structure--05-describe-explain-implication.webp" width="900" height="500" alt="Three columns: describe the shape, explain it, say what it means. A wide base means a high birth rate and demand for schools and child health care. A wide top with near-vertical sides means low births and long lives, bringing pension and care costs and labour shortages. A bulge of young adults above a narrowing base means births were high and are now falling, giving a possible demographic dividend if there are jobs." loading="lazy">
+  <figcaption>Describe the shape, explain it, then give the implication.</figcaption>
+</figure>
 
 ## Next steps
 

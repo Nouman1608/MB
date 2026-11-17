@@ -39,6 +39,11 @@ of Muslim character.
 - Study with reference to the Arabic as well as the English translation
 - Exam: four passages set, two answered, 8 marks in total
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--01-six-themes-map.webp" width="900" height="906" alt="Six theme cards group the twenty Hadiths: true faith, speech and behaviour, charity and good work, treatment of the vulnerable, community and leaders, and knowledge and martyrdom. Each lists its Hadiths by key phrase and ends with typical exam applications or its key idea." loading="lazy">
+  <figcaption>Grouping the Hadiths by theme turns twenty passages into one picture of Muslim character.</figcaption>
+</figure>
+
 ## Theme 1: What does true faith look like?
 
 Several Hadiths define faith by its effects rather than by words alone. "Religion is sincerity"
@@ -76,6 +81,11 @@ person and property" praises those who give time and wealth for good.
 **Exam use:** applications such as volunteering, clearing litter, part-time honest work and donating
 to charities.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--03-every-joint-a-charity.webp" width="900" height="622" alt="The Hadith &quot;Every joint must perform a charity every day&quot; branches into five examples: justice between people, helping someone with their mount or luggage, a good word, every step to prayer, and removing harm from the road." loading="lazy">
+  <figcaption>Charity includes small daily acts, not only money.</figcaption>
+</figure>
+
 ## Theme 4: How should the vulnerable be treated?
 
 "One who manages the affairs of the widow and the poor is like one who strives in the way of Allah,
@@ -85,6 +95,11 @@ promises closeness to the Prophet (pbuh), himself an orphan. "God will not show 
 not show mercy to others" makes mercy a condition of receiving mercy.
 
 **Exam use:** orphan sponsorship, visiting the elderly, supporting widows, kindness to animals.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--05-caring-for-the-vulnerable.webp" width="900" height="542" alt="Three rows. Caring for the widow and the poor is ranked with striving, night prayer and fasting; bringing up an orphan brings closeness to the Prophet (pbuh) in paradise; and showing mercy to others is the condition for receiving Allah's mercy." loading="lazy">
+  <figcaption>Care for the needy is placed on the level of devoted worship.</figcaption>
+</figure>
 
 ## Theme 5: How should the community and its leaders act?
 
@@ -96,6 +111,11 @@ leadership and teaching. "May God show mercy to a man who is kindly when he sell
 repayment" sets standards for trade.
 
 **Exam use:** standing up to injustice, helping disaster victims, fair business, gentle teaching.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--04-changing-an-evil.webp" width="900" height="642" alt="A narrowing staircase of three responses to an evil, in order: change it with the hand, then the tongue, then the heart, matched to what each person is able to do." loading="lazy">
+  <figcaption>Each Muslim answers for society according to ability.</figcaption>
+</figure>
 
 ## Theme 6: Knowledge and martyrdom
 
@@ -110,6 +130,11 @@ which widens hope of reward and consoles the bereaved.
 2. **Explain it**, saying what belief or attitude lies behind it.
 3. **Apply it** with a specific modern example.
 4. **Support it** with a related Qur'an verse or Hadith where possible, such as Qur'an 49.10 on brotherhood or 2.177 on giving to orphans and the needy.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-major-teachings-in-the-hadiths--02-hadith-answer-steps.webp" width="900" height="654" alt="Four numbered steps: identify the teaching in one sentence with a key phrase, explain the belief behind it, apply it with a specific modern example (highlighted), and support it with a related verse or Hadith such as Qur'an 49.10 or 2.177." loading="lazy">
+  <figcaption>Identify, explain, apply, support: a specific modern example carries the marks.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

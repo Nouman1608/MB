@@ -89,6 +89,11 @@ of power and authority
 including social class, gender, sexuality, race, age, disability, and
 religion and belief; Walby's work on patriarchy
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--01-paper-2-map.webp" width="900" height="873" alt="Two columns. Crime and deviance has four parts, 3.5.1 to 3.5.4, with Merton, Becker, Heidensohn, Albert Cohen, Carlen and the dark figure. Social stratification has six parts, 3.6.1 to 3.6.6, with Davis and Moore, Marx, Weber, Devine, Townsend, Murray and Walby." loading="lazy">
+  <figcaption>Paper 2 has ten content areas and twelve named sociologists.</figcaption>
+</figure>
+
 ## How to approach it
 
 Both sections repeatedly ask students to "describe, compare and
@@ -106,6 +111,11 @@ a theorist belongs to and summarise their key idea in a sentence --
 practise this specific skill rather than only reading longer
 descriptions of each theory.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--02-revision-grid.webp" width="900" height="661" alt="A revision grid with the four perspectives down the side (functionalism, Marxism, feminism, interactionism) and five issues across the top (crime, social control, class, poverty, power). Interactionism applies to the crime section only. Two sample cells are filled: Davis and Moore for the functionalist view of class, and Marx on ownership for the Marxist view." loading="lazy">
+  <figcaption>Perspectives down the side, issues across the top: one grid for the whole paper.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Treating "crime" and "deviance" as identical terms, when the
@@ -118,6 +128,16 @@ figure" of crime with the crime rate itself. Describing poverty using
 only the culture-of-poverty explanation without contrasting it against
 material deprivation, which the specification treats as a genuine
 theoretical dispute.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--03-crime-deviance-dark-figure.webp" width="900" height="733" alt="Left: a small circle for crime, which breaks the law, sits inside a larger circle for deviance, which breaks social norms and need not be illegal. Right: a bar for all crime, where official statistics show only the lower part and the dark figure of unreported or unrecorded crime sits above it." loading="lazy">
+  <figcaption>Deviance is wider than crime, and official statistics miss the dark figure.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--04-marx-weber-dimensions.webp" width="900" height="621" alt="Left: Marx’s account of stratification rests on one pillar, class based on ownership of the means of production. Right: Weber’s rests on three pillars, class, status and party." loading="lazy">
+  <figcaption>Marx centres on ownership; Weber adds status and party.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -148,6 +168,11 @@ COMPARISON: the functionalist view treats inequality as a fair
 A weak answer treats this as "one theory says X, the other says Y"
 without ever setting the two side by side to explain what specifically
 they disagree about.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-sociology-crime-and-stratification--05-functionalist-marxist-stratification.webp" width="900" height="580" alt="Two sides. Davis and Moore say greater rewards for important roles make the most able compete for them, so inequality is a fair outcome of meritocratic competition. Marxists say the bourgeoisie use ownership of the means of production to exploit the proletariat, so the competition was never fair." loading="lazy">
+  <figcaption>The real disagreement is whether the competition for rewards is fair.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

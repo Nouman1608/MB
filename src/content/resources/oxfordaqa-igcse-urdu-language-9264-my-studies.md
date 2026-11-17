@@ -69,6 +69,11 @@ Gender affects the adjective or verb that follows. مضمون is masculine (یہ
 ہے), while ریاضی, سائنس, تاریخ, انگریزی and اردو are treated as feminine (مجھے ریاضی اچھی
 لگتی ہے).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--01-gender-of-subjects.webp" width="900" height="776" alt="مضمون is masculine (یہ مضمون اچھا لگتا ہے), subjects such as ریاضی are feminine (مجھے ریاضی اچھی لگتی ہے), and a plural thing liked takes ہیں (مجھے سائنس کے تجربات پسند ہیں). مجھے ریاضی اچھا لگتا ہے is wrong; the plural of مضمون is مضامین." loading="lazy">
+  <figcaption>The verb and adjective agree with the subject being described, not with you.</figcaption>
+</figure>
+
 ## Structures that carry this topic
 
 ### 1. Giving an opinion with مجھے
@@ -110,6 +115,11 @@ The habitual present ہوتا ہے / ہوتے ہیں suits routine facts like th
 
 A change of view is an easy way to show two time frames in one short answer.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--02-opinion-patterns.webp" width="900" height="770" alt="Two correct patterns: مجھے ریاضی پسند ہے and میں ریاضی پسند کرتا ہوں; mixing them (میں ریاضی پسند ہے) is wrong. لگنا works like پسند (مجھے تاریخ دلچسپ لگتی ہے), and every opinion needs a reason with کیونکہ." loading="lazy">
+  <figcaption>Pick one pattern and keep it; then give the reason.</figcaption>
+</figure>
+
 ## Worked example 1: writing about your subjects
 
 Task (original): *Write about your studies. Say which subject you like most and why, which you like
@@ -137,6 +147,11 @@ superlative + concession سب سے مفید ... اگرچہ یہ مشکل ہے
 
 Each opinion has a reason, and two connectives (اس کے برعکس, by contrast; اگرچہ, although) show
 range beyond کیونکہ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--03-model-paragraph-anatomy.webp" width="900" height="670" alt="Four moves in the model answer with their Urdu frames: a favourite subject with کیونکہ, a timetable fact with ہوتے ہیں, a contrasting dislike with اس کے برعکس, and a superlative with a concession (سب سے مفید ... اگرچہ یہ مشکل ہے)." loading="lazy">
+  <figcaption>Every opinion has a reason, and اس کے برعکس and اگرچہ add range.</figcaption>
+</figure>
 
 ## Worked example 2: translating into Urdu
 
@@ -171,6 +186,11 @@ How to get there:
 3. لیکن (but) signals the change, and the reason is attached to the teacher, not to the subject
    itself. An answer that says only "maths is easy now" scores one mark at most.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--04-old-view-reason-new-view.webp" width="900" height="706" alt="The reading text in three marked clauses: the old view (maths always seemed difficult, لگتی تھی), the reason after لیکن (the new teacher explains with easy examples), and the new view after اب (now it is the favourite)." loading="lazy">
+  <figcaption>Three marks: the old view, the new view and the reason attached to the teacher.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Mixing opinion patterns.** میں ریاضی پسند ہے is wrong; use مجھے ریاضی پسند ہے or
@@ -195,6 +215,11 @@ How to get there:
   study next year, adds the past or future to a present-tense topic.
 - **Budget by marks.** At about 1.5 minutes per mark, a 15-mark writing task deserves about
   20 to 25 minutes, including a final check of agreement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-urdu-language-9264-my-studies--05-then-now-next-year.webp" width="900" height="630" alt="A vertical timeline: before (پہلے مجھے ریاضی مشکل لگتی تھی), now (لیکن اب یہ آسان لگتی ہے) and next year (اگلے سال میں حیاتیات پڑھوں گا), with English glosses." loading="lazy">
+  <figcaption>A change of view or a plan adds past or future to a present-tense topic.</figcaption>
+</figure>
 
 ## Linked resources
 

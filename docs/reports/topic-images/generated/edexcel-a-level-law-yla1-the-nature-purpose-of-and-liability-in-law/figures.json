@@ -1,0 +1,65 @@
+[
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--01-rule-or-law.webp",
+  "width": 900,
+  "height": 516,
+  "after": "## Rules and law",
+  "alt": "A table compares a school rule with a legal rule. Both are certain and enforced, but only the legal rule is sanctioned by the state, through a fine, imprisonment or damages. Cards define certainty, enforcement and state sanction.",
+  "caption": "A school rule can be certain and enforced; only law is sanctioned by the state.",
+  "bytes": 98464
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--02-legal-personality.webp",
+  "width": 900,
+  "height": 583,
+  "after": "## Rights, duties and legal personality",
+  "alt": "Four cards define rights, duties, privileges and liabilities. A natural person is a human being; a registered company is a legal person separate from its shareholders. In Salomon v Salomon the company's debts were its own, not Mr Salomon's.",
+  "caption": "A company is a separate legal person: its debts are its own.",
+  "bytes": 91916
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--03-civil-vs-criminal.webp",
+  "width": 900,
+  "height": 827,
+  "after": "## Civil and criminal liability compared",
+  "alt": "A table compares civil and criminal law on purpose, who brings the case, burden and standard of proof, outcome and response. Below, one incident, a customer punching a shopkeeper, leads both to a prosecution for assault and to a civil claim for damages. An acquittal does not stop the civil claim.",
+  "caption": "Different parties, standards and outcomes; one incident can lead to both.",
+  "bytes": 140674
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--04-punishment-theories.webp",
+  "width": 900,
+  "height": 769,
+  "after": "## Theories of punishment and sentencing",
+  "alt": "A table of seven theories of punishment, what each looks at, and the sentence it points to: revenge, retribution, denunciation, deterrence, rehabilitation, reparation and restoration. A note lists the purposes in s 142 of the Criminal Justice Act 2003, which are not ranked.",
+  "caption": "Each theory gives a different reason to punish and points to a different sentence.",
+  "bytes": 149866
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--05-legal-theorists.webp",
+  "width": 900,
+  "height": 526,
+  "after": "## Legal theories of law and justice",
+  "alt": "Three columns. Positivism separates law from what it ought to be (Austin: command of a sovereign; Hart: primary and secondary rules and a rule of recognition). Natural law measures law against a higher moral law (Aquinas; Fuller's inner morality). Utilitarianism judges law by consequences (Bentham and Mill; Mill's harm principle). A note describes the Hart–Fuller debate.",
+  "caption": "Positivism, natural law and utilitarianism, each tied to its theorists.",
+  "bytes": 123556
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--06-hart-devlin-cases.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Law and morality",
+  "alt": "Devlin says a shared morality holds society together so law may enforce it; Hart, following Mill, says only harm to others justifies intervention. Cases are grouped: enforcing morality (Shaw, Brown), respecting private choice (Wilson), changing with social attitudes (R v R, Gillick) and life and death (Bland, Re A).",
+  "caption": "Devlin versus Hart, tested against cases that point each way.",
+  "bytes": 122358
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law--07-dev-sentence-theories.webp",
+  "width": 900,
+  "height": 552,
+  "after": "## Worked example 1: linking theory to a sentence",
+  "alt": "Four rows link Dev's community order with unpaid work to theories of punishment: reparation, rehabilitation and individual deterrence apply, each tied to a feature of the sentence; retribution in its strongest form does not, because there is no custody.",
+  "caption": "Name the theory, apply it to the offender, and tie it to a feature of the sentence.",
+  "bytes": 100848
+ }
+]

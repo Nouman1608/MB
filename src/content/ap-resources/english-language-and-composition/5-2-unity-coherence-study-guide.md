@@ -73,6 +73,11 @@ The course framework describes coherence at three levels:
 
 A strong writer pays attention to all three. A text can be coherent at the paragraph level and still fail overall if one paragraph arrives from nowhere.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--01-unity-and-coherence.webp" width="900" height="677" alt="On the left, unity: sentences link to one controlling claim while an off-topic sentence floats free. On the right, coherence: sentences S1 to S4 are chained so each leads to the next. A table gives the three levels of coherence: sentence, paragraph and text." loading="lazy">
+  <figcaption>Unity keeps every sentence on one claim; coherence links each idea to the next at every level.</figcaption>
+</figure>
+
 ## How ideas link
 
 There are several ways a writer can make one idea lead to the next.
@@ -87,6 +92,11 @@ There are several ways a writer can make one idea lead to the next.
 
 **By the order of paragraphs.** The order should reflect the line of reasoning: problem, then cause, then solution; or claim, then evidence, then qualification.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--02-known-then-new.webp" width="900" height="542" alt="Three sentences about the bypass, each split into a known part and a new part, with arrows showing that the new part of one sentence becomes the known start of the next: the town built a bypass; the bypass diverted traffic; without the traffic, the shops attracted walkers." loading="lazy">
+  <figcaption>Begin with something already mentioned; end with something new.</figcaption>
+</figure>
+
 ## What breaks unity and coherence
 
 | Problem | Symptom | Likely repair |
@@ -97,6 +107,11 @@ There are several ways a writer can make one idea lead to the next.
 | Shifting vocabulary | Key term changes (for example "cost", then "price", then "expense") without reason | Keep one key term or add a clear link |
 | Vague pronouns | "This" or "it" has no clear referent | Name the noun |
 | Paragraph with two main ideas | Two controlling claims in one paragraph | Split it |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--03-what-breaks-coherence.webp" width="900" height="572" alt="Six problems with their repairs: cut or move an off-topic sentence; add the missing idea or a transition for a jump; reorder when a conclusion precedes its evidence; keep one key term instead of shifting vocabulary; name the noun for a vague pronoun; split a paragraph with two main ideas." loading="lazy">
+  <figcaption>Most failures of unity and coherence are fixed by cutting, reordering, naming or splitting.</figcaption>
+</figure>
 
 ## Weak and strong versions side by side
 
@@ -116,6 +131,11 @@ The sentences all touch on cycling but do not work together. The reader cannot t
 | Sentence-to-sentence links | None | Each sentence begins with what the last one ended on ("a lane", "the lane", "those journeys") |
 | Logic | Unclear | Cost, then effect on journeys, then effect on traffic |
 | Paragraph link | None | Ends on the bypass, which may introduce the next point |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--04-cycle-lane-paragraph.webp" width="900" height="555" alt="The weak paragraph is five separate chips about bicycles, the bypass, weekend cycling, cost and helmets. The strong paragraph is four linked sentences: a controlling claim that a cycle lane would cheaply reduce traffic, then cost, then the effect on journeys, then the effect on traffic and the bypass." loading="lazy">
+  <figcaption>A controlling claim and known-then-new links turn related facts into an argument.</figcaption>
+</figure>
 
 ## Worked example 1: revising a paragraph for unity and coherence
 
@@ -141,6 +161,11 @@ The sentences all touch on cycling but do not work together. The reader cannot t
 
 **Step 5: Check.** Unity: every sentence serves the controlling claim. Coherence: "packed lunches" leads to "lose customers", "those students" refers back, "because" links cost to the benefit.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--05-canteen-unity-test.webp" width="900" height="676" alt="Five sentences from the canteen draft tested against the controlling idea: lunch times and food-safety rules are cut, cheaper meals and more choice are kept, and packed lunches are kept only if linked to poor choice. The revision orders problem, benefit and cost." loading="lazy">
+  <figcaption>Test every sentence against the controlling idea; cut, keep or link.</figcaption>
+</figure>
+
 ## Worked example 2: how coherence works in a published passage
 
 Thomas Paine opens *The American Crisis* (1776) with these lines:
@@ -154,6 +179,11 @@ Thomas Paine opens *The American Crisis* (1776) with these lines:
 **Step 3: Repeated and related terms.** "Times", "crisis", "stands it", "conflict" form a chain of words related to difficulty; "triumph" and "glorious" form a chain related to reward. The parallel "the harder the conflict, the more glorious the triumph" links the two chains.
 
 **Step 4: Write the analysis sentence.** *Paine achieves coherence by moving from the crisis, to the test it poses, to the reward for passing it, and by linking the sentences with "but" and "yet", so that his audience hears difficulty and glory as parts of the same idea.*
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ap-english-language-and-composition-5-2-unity-coherence-study-guide--06-paine-word-chains.webp" width="900" height="464" alt="Paine’s opening moves from the crisis, to the test of character, to the reward. Two word chains run through it: difficulty (times, crisis, stands it, conflict) and reward (glorious, triumph), joined by the parallel “the harder the conflict, the more glorious the triumph”." loading="lazy">
+  <figcaption>Crisis, test, reward: linked by “but”, “yet” and two chains of related words.</figcaption>
+</figure>
 
 ## Common misconceptions
 

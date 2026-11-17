@@ -58,6 +58,11 @@ Causes:
 
 Most continuous features are affected by both. Only genetic variation can be passed to offspring, so only genetic variation matters for evolution.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--01-continuous-discontinuous.webp" width="900" height="760" alt="Left: height varies continuously and is plotted as a histogram with touching bars and a bell-shaped curve. Right: ABO blood group varies discontinuously into A, B, AB and O, plotted as a bar chart with separate bars. Below, genetic causes are mutation, meiosis and random fertilisation; environmental causes are diet, light, temperature and soil minerals." loading="lazy">
+  <figcaption>Continuous variation needs a histogram; discontinuous variation needs a bar chart.</figcaption>
+</figure>
+
 ## Natural selection
 
 Evolution is a change in the heritable characteristics of a population over many generations. Charles Darwin and Alfred Russel Wallace both proposed natural selection as its mechanism; Darwin's *On the Origin of Species* was published in 1859.
@@ -94,12 +99,22 @@ An **adaptation** is a feature that increases the chance of survival and reprodu
 
 **Selective breeding** is a useful comparison. Humans choose which individuals breed, so the "selection pressure" is human choice rather than the environment. The steps are otherwise the same.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--02-natural-selection-beetles.webp" width="900" height="815" alt="Five steps with beetles on bark. 1: pale and dark beetles vary and colour is inherited. 2: ash darkens the bark and birds hunt by sight. 3: pale beetles are seen and eaten more. 4: surviving dark beetles breed and pass on the dark allele. 5: over many generations most beetles are dark." loading="lazy">
+  <figcaption>Variation, selection pressure, survival, inheritance, many generations: give every link.</figcaption>
+</figure>
+
 ## Evidence for evolution
 
 - **Fossils** -- preserved remains or traces in rock. Deeper rock layers are usually older, so fossils can show changes in form over time. The record has gaps because fossils form only under certain conditions (rapid burial, few decomposers).
 - **Comparative anatomy** -- **homologous structures** have the same basic plan but different uses. The pentadactyl (five-digit) limb appears in a human arm, a bat wing and a whale flipper, which suggests a common ancestor.
 - **Molecular evidence** -- comparing DNA base sequences or protein amino acid sequences. The more similar the sequences, the more recently two species shared a common ancestor.
 - **Observed change** -- antibiotic resistance in bacteria and pesticide resistance in insects can be watched happening within a human lifetime.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--03-evidence-for-evolution.webp" width="900" height="760" alt="Four panels. Fossils in rock layers, with deeper layers usually older. Homologous five-digit limbs in a human arm, a bat wing and a whale flipper suggest a common ancestor. Illustrative DNA sequences: species Y differs from X at one base and Z at four, so X and Y share a more recent ancestor. Antibiotic and pesticide resistance can be observed within a lifetime." loading="lazy">
+  <figcaption>Fossils, anatomy, molecules and observed change all point to common ancestry.</figcaption>
+</figure>
 
 ## Food chains and food webs
 
@@ -135,6 +150,11 @@ This loss explains why food chains rarely have more than four or five levels, an
 
 If one species is removed, trace every arrow into and out of it. Its prey may increase (less predation). Its predators may decrease, or switch to other prey, which then decreases. Always give the reason as well as the direction of change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--04-energy-transfer-pyramids.webp" width="900" height="930" alt="An energy pyramid for a fictional grassland: producers 24 000, primary consumers 2160 and secondary consumers 216 kJ per square metre per year, transfers of 9.0% and 10%. The rest is lost as heat from respiration, in movement and in parts not eaten or digested. Below, energy pyramids are always pyramid-shaped, pyramids of numbers can be inverted, as with one oak and many caterpillars, and biomass pyramids are usually upright." loading="lazy">
+  <figcaption>Only about a tenth of the energy passes up each level, so chains stay short.</figcaption>
+</figure>
+
 ## Competition, predation and symbiosis
 
 ### Competition
@@ -157,6 +177,16 @@ In a predator--prey relationship the populations often rise and fall in cycles. 
 | Mutualism | Both benefit | *Rhizobium* bacteria in legume root nodules fix nitrogen; the plant supplies sugars |
 | Commensalism | One benefits, the other is unaffected | Barnacles attached to a whale gain transport and feeding opportunities |
 | Parasitism | One benefits, the host is harmed | A tapeworm absorbs digested food in its host's gut |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--05-predator-prey-cycles.webp" width="900" height="740" alt="A graph of population size against time. Prey numbers rise and fall in a cycle; predator numbers follow the same cycle but peak later, after a lag. Prey rise, predators rise with more food, prey fall as more are eaten, predators fall with less food, and prey recover." loading="lazy">
+  <figcaption>The predator peak always comes after the prey peak.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--06-symbiosis-types.webp" width="900" height="660" alt="Three rows of plus, zero and minus signs. Mutualism (plus, plus): Rhizobium in legume root nodules fixes nitrogen and the plant supplies sugars. Commensalism (plus, zero): barnacles on a whale gain transport and feeding. Parasitism (plus, minus): a tapeworm absorbs digested food in its host’s gut." loading="lazy">
+  <figcaption>Symbiosis types differ in who gains and who loses.</figcaption>
+</figure>
 
 ## Population sampling
 
@@ -201,6 +231,11 @@ N = (48 × 60) ÷ 12 = 2880 ÷ 12 = 240 woodlice
 ```
 
 The method assumes: marks do not rub off or harm the animal; marked animals mix fully back into the population; there are no significant births, deaths or migration between samples.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-sciences-evolution-and-interactions--07-sampling-quadrats-cmr.webp" width="900" height="840" alt="Top: ten random 0.5 m quadrats in a 40 m by 25 m field count 3, 0, 5, 2, 4, 1, 6, 2, 3 and 4 daisies; mean 3.0, density 12 per square metre, estimate 12 000. Bottom: 48 woodlice are marked and released; a second sample of 60 contains 12 marked, so N = 48 × 60 ÷ 12 = 240, assuming marks stay on, animals mix, and no births, deaths or migration." loading="lazy">
+  <figcaption>Scale up from a sample: quadrats for plants, capture–mark–recapture for animals that move.</figcaption>
+</figure>
 
 ## Common errors
 

@@ -59,6 +59,11 @@ Typical multimodal texts in language acquisition units include posters, leaflets
 
 The brief's description of Criterion A talks about images and spatial aspects that come with oral text. Criterion B talks about written, spatial and visual aspects. So in both receptive skills, the visuals and the layout are part of what you are expected to understand -- not decoration you can skip.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--01-five-modes.webp" width="900" height="620" alt="Five modes: written (headlines, captions), spoken (voice, tone, pace), visual (photos, colour, icons), spatial (layout, position, size, white space) and aural (music, sound effects, silence). A text is multimodal when it combines two or more. Criteria A and B both include visual and spatial aspects." loading="lazy">
+  <figcaption>Visuals and layout are part of the meaning, not decoration.</figcaption>
+</figure>
+
 ## 2. Describing visual elements
 
 Before you interpret anything, describe it accurately. Use this checklist.
@@ -84,6 +89,11 @@ Always state the denotation first, then the connotation. A connotation with no d
 
 Connotations depend on culture. White can suggest weddings and purity in some cultures and mourning in others. When you interpret colour, think about the community the text was made for. This links to the brief's aim of understanding the cultural characteristics of communities where the language is spoken.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--02-describing-visuals.webp" width="900" height="695" alt="Nine elements to check: subject, foreground and background, shot distance, angle, gaze, colour, typography, layout and symbols, each with a question. Then state the denotation, what is literally there (a green headline), before the connotation, what it suggests (nature, recycling or “go”), which depends on culture." loading="lazy">
+  <figcaption>Describe precisely first; connotation without a named detail is just opinion.</figcaption>
+</figure>
+
 ## 3. How words and images work together
 
 The brief says the aspects of a text **interplay** to convey ideas, values and attitudes. Four relationships cover most texts:
@@ -105,6 +115,16 @@ The brief says the aspects of a text **interplay** to convey ideas, values and a
 
 **Step 4 -- Values and attitudes.** The text values community and mutual support. Its attitude to the reader is encouraging: it treats the reader as someone who already runs but may feel isolated.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--04-charity-run-leaflet.webp" width="900" height="700" alt="A schematic leaflet: a lone runner on a rainy road photographed from a low angle, the headline “YOU ARE NOT RUNNING ALONE.” in thin white capitals, and forty orange runner icons with “Join 40 neighbours this Sunday.” The analysis describes it, names the relationships (the headline contrasts with the photo; the icons extend it), interprets the move from loneliness to a group, and identifies values of community and support." loading="lazy">
+  <figcaption>Describe, name the relationship, interpret, then identify values and attitudes.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--03-word-image-relationships.webp" width="900" height="660" alt="Four relationships: anchor, where words fix an open image’s meaning (an empty beach reads as peace or loss depending on the caption); reinforce, where both say the same thing; extend, where one mode adds information the other lacks; and contrast, where they pull against each other for humour, irony or shock." loading="lazy">
+  <figcaption>Name the relationship before you explain its effect.</figcaption>
+</figure>
+
 ## 4. Sound and image in spoken multimodal texts
 
 For Criterion A you work with spoken text plus images and other spatial aspects. Listen and watch for:
@@ -124,6 +144,11 @@ A fictional video for a town library. The voice-over says, calmly, "Our library 
 - Interpretation: the video targets young people who think libraries are dull. It keeps the traditional value (quiet study) and adds a new one (a social space).
 
 When you answer listening questions, note what you **saw** at the moment you **heard** a key phrase. Two short notes side by side ("heard: quiet / saw: laughing group") are enough to support an interpretation later.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--05-library-video-heard-saw.webp" width="900" height="690" alt="A timeline of a library video in rows for what is heard, seen and played. A calm voice says “Our library is quiet” while teenagers laugh around a game table; upbeat music starts on “but”: “But it’s never boring.” The image contrasts with the words and the music marks the turn, aiming the video at young people who think libraries are dull." loading="lazy">
+  <figcaption>Pair what you heard with what was on screen at the same moment.</figcaption>
+</figure>
 
 ## 5. From description to interpretation: a method
 
@@ -150,6 +175,11 @@ The brief says courses are assessed at one of three proficiency levels: emergent
 - **Proficient** -- interpret implicit attitudes and the effect on a specific audience, and compare modes. *"The smiling faces soften the command in the headline, so the message feels like an invitation rather than a rule."*
 
 See [proficiency phases](/resources/ib-myp-language-acquisition-proficiency-phases/) for how levels and phases differ.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-myp-language-acquisition-multimodal-texts-and-visuals--06-notice-connect-explain.webp" width="900" height="690" alt="A three-step method: notice one specific detail, connect it to the words or sound, and explain its effect and the values behind it. Below, model sentences at each level: emergent describes with one simple reason; capable links the visual to the words and the purpose; proficient interprets implicit attitudes and compares modes." loading="lazy">
+  <figcaption>The method is the same at every level; the depth of explanation grows.</figcaption>
+</figure>
 
 ## 6. Multimodal texts in the eAssessment
 

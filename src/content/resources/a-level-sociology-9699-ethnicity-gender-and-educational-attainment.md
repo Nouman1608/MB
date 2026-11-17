@@ -82,6 +82,11 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 **Worked paragraph**
 > One explanation is racism within schools. Gillborn and Youdell found that pressure to meet A-to-C targets led schools to ration their effort through educational triage. If teachers see some pupils as having low ability, those pupils may be placed in lower sets or foundation tiers, which caps the grades they can reach. This links labelling to a structural outcome: lower attainment results from a school's decision rather than the pupil's ability. However, the study covered only two schools, and the claim struggles to explain why groups such as Indian and Chinese pupils achieve highly in the same system, which suggests that culture and class also matter.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--01-educational-triage.webp" width="900" height="601" alt="League-table pressure creates an A-to-C economy. Pupils are sorted into those who will pass anyway, those who can be helped to pass, who receive most teaching effort, and those seen as hopeless, who are placed in lower sets and foundation tiers." loading="lazy">
+  <figcaption>Rationing teaching towards borderline pupils reproduces class, ethnic and gender inequality.</figcaption>
+</figure>
+
 ## 6.3 Cultural explanations and ethnic subcultures
 
 **Key terms**
@@ -106,6 +111,11 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 **Worked paragraph**
 > A second explanation is culture. Francis and Archer found that British-Chinese parents and pupils valued education extremely highly, whatever their class. A family that treats homework and exams as a priority passes on cultural capital that helps attainment. This suggests that values inside the home, not just processes in school, shape results. Yet Archer and Francis also found that teachers saw British-Chinese girls as "passive" and quiet, so even a "positive" stereotype can restrict pupils, and cultural accounts can ignore the racism such pupils still face.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--02-ethnic-subcultures.webp" width="900" height="567" alt="Sewell found African-Caribbean boys responded to school as conformists, innovators, retreators or rebels, and received disproportionate punishment. Mirza found young African-Caribbean women did well at school, but a labour market segregated by race and gender limited their jobs." loading="lazy">
+  <figcaption>Pupils of the same ethnicity respond differently, and success at school does not guarantee a fair outcome.</figcaption>
+</figure>
+
 ## 6.3 Ethnicity, social class and gender
 
 **Key term**
@@ -119,6 +129,11 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 
 **Worked paragraph**
 > Ethnicity cannot be separated from class and gender. Gillborn and Mirza found that class and gender were linked to attainment but did not explain away ethnic gaps. Vincent and colleagues showed that even middle-class Black parents faced subtle racism, so class resources did not protect their children fully. However, Hill, who stresses class, argues that it is not "whiteness" that most advantages or disadvantages pupils in England and Wales, so a balanced answer weighs class and ethnicity together and avoids treating any one factor as the whole story.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--03-intersectionality.webp" width="900" height="931" alt="Three overlapping circles for ethnicity, class and gender with studies placed in the overlaps: Vincent and colleagues between ethnicity and class, Connolly between ethnicity and gender, Willis between class and gender, and Gillborn and Mirza’s national review at the centre." loading="lazy">
+  <figcaption>Class, ethnicity and gender combine, so no single factor explains attainment.</figcaption>
+</figure>
 
 ## 6.4 Gender socialisation and wider social changes
 
@@ -141,6 +156,11 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 
 **Worked paragraph**
 > Changing female expectations help explain why girls' results have improved. Francis found that girls' career aims had become far more ambitious, and sociologists argue that equal opportunities laws and growth in women's employment give girls good reasons to gain qualifications. Yet the gain is uneven: Francis also found career choices still followed a gender divide, and Epstein et al. ask "which boys?", warning that a simple boys-versus-girls debate hides differences of class and ethnicity within each sex.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--04-gender-social-change.webp" width="900" height="751" alt="Three chains. Feminism and equal opportunities laws raised girls’ sense of what is possible and their career ambitions. Growth in service jobs and women’s work gave girls role models and reasons to gain qualifications. For boys, the decline of manual jobs led to an uncertain identity and less point in school, a debated crisis of masculinity." loading="lazy">
+  <figcaption>Social change raised girls’ ambitions, while the decline of manual work may have unsettled some boys.</figcaption>
+</figure>
 
 ## 6.4 Gender subcultures and teacher expectations
 
@@ -166,6 +186,11 @@ The marks for Questions 1 to 3 are not printed separately; your teacher will con
 
 **Worked paragraph**
 > Pupil subcultures help explain some boys' lower attainment. Jackson argues that laddishness protects self-worth: a boy who messes around can blame failure on not trying. This links boys' identity to hegemonic masculinity, where visible effort is seen as feminine. However, Archer and colleagues found some working-class girls also disengaged through "ladette" identities, so subcultures are shaped by class as well as gender.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-sociology-9699-ethnicity-gender-and-educational-attainment--05-self-worth-protection.webp" width="900" height="776" alt="A loop: avoiding visible effort leads to failing, which can be blamed on not trying rather than lack of ability, which protects self-worth and status in laddish culture. Below, ladette cultures among girls, unequal teacher attention and hegemonic masculinity." loading="lazy">
+  <figcaption>If you never try, failure cannot be blamed on lack of ability.</figcaption>
+</figure>
 
 ## Common errors
 

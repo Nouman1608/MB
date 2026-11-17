@@ -1,0 +1,74 @@
+[
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--01-specification-point-anatomy.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## 1. Writing a design specification",
+  "alt": "A specification point has a requirement, a measurable target and a reason from research, plus a column for how it will be tested. Example: the planter must hold 6 kg with 5 mm or less deflection, because of three pots of wet soil plus a safety margin, tested with weights. A point like “It must be strong” has no target and cannot be tested.",
+  "caption": "Requirement, measurable target and reason, plus a test that Criterion D will use.",
+  "bytes": 107450
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--02-planter-project-limits.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## Worked project used in this guide",
+  "alt": "Front and side views of a planter on a balcony railing. Railing posts are 500 mm apart, so the planter holding three 90 mm pots is at most 450 mm long. In side view it clamps over a top rail 40 to 60 mm wide (measured at 48 mm) without drilling and projects no more than 180 mm.",
+  "caption": "The client’s measured balcony sets the planter’s size and fixing limits.",
+  "bytes": 70214
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--03-range-of-ideas.webp",
+  "width": 900,
+  "height": 706,
+  "after": "## 2. Generating a range of feasible ideas",
+  "alt": "Three copies of the same trough in three colours count as one idea. A genuine range for the planter: idea A, a folded aluminium trough with hooks over the rail; idea B, an exterior-plywood shelf gripped by two screw clamps; idea C, recycled PET felt pockets hung from a strap.",
+  "caption": "Ideas form a range only if they solve the problem in different ways.",
+  "bytes": 94314
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--04-generate-and-check-feasibility.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## 2. Generating a range of feasible ideas",
+  "alt": "Four ways to generate ideas, annotated sketching, mind maps, morphological charts and SCAMPER, feed a funnel that checks each idea against skills, tools, materials, time and budget. The result is written into the annotation, for example noting that the school has a folding bar for sheet metal.",
+  "caption": "An idea is feasible only if it can really be made with what is available.",
+  "bytes": 93840
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--05-weighted-decision-matrix.webp",
+  "width": 900,
+  "height": 705,
+  "after": "## 3. Choosing and justifying the design",
+  "alt": "Stacked bars show each idea’s weighted points for seven specification criteria, with weights 3, 3, 2, 2, 1, 1 and 1. Idea A totals 50, idea B 54 and idea C 43, out of a maximum of 65. Idea B’s working is 15 + 15 + 8 + 6 + 4 + 3 + 3 = 54.",
+  "caption": "Weight times score, added up: B leads, but the total still needs a written justification.",
+  "bytes": 73000
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--06-justifying-the-choice.webp",
+  "width": 900,
+  "height": 665,
+  "after": "## 3. Choosing and justifying the design",
+  "alt": "Five steps of a justification for the planter: state the choice and score (B, 54 of 65), name the specification points it meets, compare with the rejected ideas A and C, include the client’s feedback, and admit B’s weakness in weather resistance with a plan to use exterior varnish and stainless screws.",
+  "caption": "A justification compares ideas against named specification points, then plans development.",
+  "bytes": 103326
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--07-third-and-first-angle.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## 4. Presenting the solution: planning drawings and diagrams",
+  "alt": "Two layouts of the same three views. In third-angle projection the plan sits above the front view and the right-hand end view sits to its right. In first-angle projection the plan sits below the front view and the view from the left sits to its right. Every drawing needs the projection symbol, a scale, key dimensions and a note that all dimensions are in mm.",
+  "caption": "Where the plan sits tells you which projection method was used.",
+  "bytes": 75318
+ },
+ {
+  "file": "ib-myp-design-criterion-b-developing-ideas--08-choosing-a-scale.webp",
+  "width": 900,
+  "height": 845,
+  "after": "## 4. Presenting the solution: planning drawings and diagrams",
+  "alt": "Two A4 landscape sheets with a dashed 277 by 190 mm usable area. At 1:2 the front, plan and end views of the 450 by 180 by 120 mm planter need 335 mm of width and run off the sheet. At 1:5 they need 146 by 80 mm and fit, so a 90 mm pot hole is drawn 18 mm across.",
+  "caption": "Work out the space the views need at each scale before you start drawing.",
+  "bytes": 75720
+ }
+]

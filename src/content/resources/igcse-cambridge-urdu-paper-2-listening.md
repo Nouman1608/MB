@@ -52,6 +52,11 @@ against Paper 1's 60, candidates sometimes under-prepare for it
 relative to its actual weighting, even though 33% of the final grade
 is a substantial share to leave under-practised.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--01-paper-at-a-glance.webp" width="900" height="548" alt="Paper 2 Listening lasts about 35-45 minutes and is worth 30 marks, 33% of the qualification against Paper 1's 60 marks and 67%. Everything is heard twice. Practice relies on general Urdu listening material because exam audio is released only to centres." loading="lazy">
+  <figcaption>Half Paper 1's marks, but a full third of the grade.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE URDU AS A SECOND LANGUAGE (0539) — PAPER 2 LISTENING**
@@ -66,6 +71,16 @@ is a substantial share to leave under-practised.
 **Exercise 3 – Multiple matching** (6 marks): candidates hear six short extracts and match each speaker to the appropriate content. Assesses L3 and L4.
 
 **Exercise 4 – Multiple-choice questions** (8 marks): candidates hear a discussion between two speakers and answer multiple-choice comprehension questions. Assesses L1 to L4.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--02-four-exercises.webp" width="900" height="578" alt="Paper 2's four exercises: 1 short answer questions on short texts (8 marks, L1 and L2), 2 gap-fill on one longer text (8 marks, L1 and L2), 3 multiple matching of six speakers (6 marks, L3 and L4), and 4 multiple-choice on a two-speaker discussion (8 marks, L1 to L4)." loading="lazy">
+  <figcaption>Short texts first, a two-speaker discussion last.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--03-objectives-grid.webp" width="900" height="646" alt="A grid of the four listening objectives against the four exercises: Exercises 1 and 2 test L1 and L2, Exercise 3 tests L3 and L4, and Exercise 4 tests all four, L1 to L4." loading="lazy">
+  <figcaption>Literal objectives early, inference later, everything in Exercise 4.</figcaption>
+</figure>
 
 ## How to approach it
 
@@ -107,6 +122,16 @@ responding naturally to questions, following a conversation's turns
 -- overlaps closely with the listening skills Paper 2 tests, so
 candidates preparing for Component 5 often find their Paper 2
 listening comprehension improves alongside it, and vice versa.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--04-literal-to-inferential.webp" width="900" height="474" alt="A scale from stated facts to implied meaning. Exercises 1 and 2 test facts such as times, places and names; Exercise 3 asks you to tell speakers' views apart by tone and opinion words; Exercise 4 needs inference about sarcasm, hesitation and changes of mind." loading="lazy">
+  <figcaption>The paper moves from what is said towards what is meant.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-urdu-paper-2-listening--05-two-hearings.webp" width="900" height="498" alt="Every exercise is heard twice: use the first hearing for gist, rough location of answers and notes, and the second to fill in and check precise details before writing. Speaking practice for Component 5 overlaps with these listening skills." loading="lazy">
+  <figcaption>Gist and location first time, precise details second time.</figcaption>
+</figure>
 
 ## Official syllabus
 

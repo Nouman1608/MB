@@ -1,0 +1,65 @@
+[
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--01-population-system.webp",
+  "width": 900,
+  "height": 708,
+  "after": "## Why this topic suits the MYP concepts",
+  "alt": "Births and immigrants flow into a population as inputs; deaths and emigrants flow out as outputs. Population change equals births minus deaths plus immigrants minus emigrants.",
+  "caption": "Two inputs and two outputs decide whether a population grows or shrinks.",
+  "bytes": 84748
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--02-norland-population-change.webp",
+  "width": 900,
+  "height": 863,
+  "after": "## Measuring a population",
+  "alt": "A waterfall chart for fictional Norland: 186,000 births add to the population, 74,400 deaths subtract, 52,000 immigrants add and 31,000 emigrants subtract, giving a change of +132,600. The natural increase rate is 0.9% but the total growth rate is 1.07%.",
+  "caption": "Say which figure you mean: natural increase leaves out migration, total growth includes it.",
+  "bytes": 76562
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--03-pyramid-shapes.webp",
+  "width": 900,
+  "height": 930,
+  "after": "## Population pyramids",
+  "alt": "Four schematic population pyramids. Stages 1 to 2: wide base and narrow top. Stage 3: the base starts to narrow and the middle widens. Stage 4: straight, column-like sides. Stage 5: the base is narrower than the middle, showing an ageing population.",
+  "caption": "The width of the base against the middle and top tells you the stage.",
+  "bytes": 90880
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--04-pyramid-irregularities.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Population pyramids",
+  "alt": "A schematic pyramid with labelled irregularities: a short notch in both sexes from war, famine, epidemic or very low births; many more males than females in the working ages from labour migration, as in some Gulf states; and more women than men in the oldest bands.",
+  "caption": "Notches, bulges and sex imbalances each point to a cause worth naming.",
+  "bytes": 64908
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--05-dtm-graph.webp",
+  "width": 900,
+  "height": 700,
+  "after": "## The demographic transition model",
+  "alt": "A schematic graph of five stages. Birth and death rates are both high in stage 1; the death rate falls fast in stage 2; the birth rate falls in stage 3; both are low in stage 4; in stage 5 the birth rate drops below the death rate. Total population is low, grows rapidly in stages 2 and 3, levels off high in stage 4 and slowly falls in stage 5.",
+  "caption": "The gap between birth and death rates drives growth; it opens in stage 2 and closes by stage 4.",
+  "bytes": 68064
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--06-lee-model.webp",
+  "width": 900,
+  "height": 688,
+  "after": "## Why people move",
+  "alt": "Origin and destination each hold positive, negative and neutral factors. Between them stand intervening obstacles such as distance, cost and border controls. Personal factors, including age, family ties, skills and attitude to risk, shape how each person responds.",
+  "caption": "Push and pull are not enough: obstacles and personal factors decide who actually moves.",
+  "bytes": 105006
+ },
+ {
+  "file": "ib-myp-individuals-and-societies-demographics-and-human-movements--07-migrant-terms.webp",
+  "width": 900,
+  "height": 572,
+  "after": "## Types of migration",
+  "alt": "A table of four terms. A refugee has crossed a border fleeing a well-founded fear of persecution; an asylum seeker has asked for refugee protection but awaits a decision; an internally displaced person was forced from home but is still in their own country; an economic migrant moves mainly for work or income.",
+  "caption": "Whether a border was crossed, and why, separates the four terms.",
+  "bytes": 88950
+ }
+]

@@ -46,6 +46,11 @@ development, and the importance of feasibility studies -- and Section
 2 is where these four themes are introduced most explicitly, since
 "sustainability" is in the section's own title.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--01-four-themes.webp" width="900" height="675" alt="Section 2, Natural resources, sits at the centre of four linked themes: the problems and opportunities of a developing country, effects on and conservation of the environment, sustainable development, and feasibility studies." loading="lazy">
+  <figcaption>Section 2 is where Paper 2’s four recurring themes are introduced.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE IGCSE PAKISTAN STUDIES (0448) — PAPER 2, SECTION 2: NATURAL RESOURCES**
@@ -87,6 +92,11 @@ coherent argument about sustainable development, which is closer to
 what Paper 2's structured questions are actually testing than rote
 recall of each resource in isolation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--02-how-the-parts-connect.webp" width="900" height="705" alt="Water sits at the centre. Deforestation causes soil erosion, silting and flooding and speeds up the silting of dams and barrages, reducing their storage. Mineral extraction and inland fish farming both depend on water supply and quality." loading="lazy">
+  <figcaption>Linking the four resources turns separate lists into one argument about sustainability.</figcaption>
+</figure>
+
 ## How to approach it
 
 Every one of Section 2's four resources -- water, forests, minerals
@@ -114,9 +124,24 @@ neighbours, a link examiners return to when testing the wider
 significance of a resource issue rather than just its technical
 detail.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--03-revision-frame.webp" width="900" height="546" alt="A table with one row each for water, forests, minerals and fish, and columns for what the resource is used for, what damages it, what would make its use sustainable, and a named, located example to learn." loading="lazy">
+  <figcaption>Ask the same three questions of every resource, then add a named place.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--04-identify-vs-evaluate.webp" width="900" height="484" alt="Two cards compare command words. “Identify” wants a named location or fact. “Evaluate” wants an environmental cost weighed against a development benefit, shown as a balance, and a judgement rather than a list." loading="lazy">
+  <figcaption>Identify names; evaluate weighs and judges.</figcaption>
+</figure>
+
 ## How is this section examined?
 
 This content is examined on Cambridge Paper 2, The environment of Pakistan (1 hour 30 minutes, 75 marks, 50% of the qualification). You answer three questions from a choice of five; each is worth 25 marks and has four parts, (a) to (d), built around resources such as maps, graphs, tables and photographs. Part (d) specifically tests analysis and evaluation, so finish every revision topic by practising a judgement: for example, how sustainable a resource or a policy is, with evidence for and against.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-cambridge-pakistan-studies-natural-resources--05-paper-2-structure.webp" width="900" height="551" alt="Paper 2 lasts 1 hour 30 minutes, is worth 75 marks and 50% of the qualification. Candidates answer three of five questions, each worth 25 marks in four parts, (a) to (d), built around maps, graphs, tables and photographs. Part (d) tests analysis and evaluation." loading="lazy">
+  <figcaption>Three questions, four parts each, ending with an evaluation in part (d).</figcaption>
+</figure>
 
 ## Frequently asked questions
 

@@ -45,6 +45,11 @@ Exercise 2 tests the same objectives as Exercise 1 but in a different shape. Ins
 texts with a question each, there is one longer text, and the questions are a set of incomplete
 statements that run through it in order.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--01-exercise-at-a-glance.webp" width="900" height="562" alt="Paper 2 Exercise 2 is worth 8 marks: one longer text such as a conversation, interview, monologue or formal talk, heard twice, with gaps of one to three words in notes or sentences that follow the order of the recording." loading="lazy">
+  <figcaption>One longer recording, gaps in order, mostly short pieces of content.</figcaption>
+</figure>
+
 ## What the printed page looks like
 
 The gaps are set in either **notes** (short headings with a gap after each) or **sentences** (full
@@ -65,6 +70,11 @@ Answer:   دو سال
 The printed sentence changes the verb from active (شروع کیا تھا) to intransitive (شروع ہوا), but the
 missing content, دو سال, is what the speaker said.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--02-heard-versus-printed.webp" width="900" height="676" alt="The speaker says ہم نے یہ کلب دو سال پہلے شروع کیا تھا۔ but the question paper prints کلب ______ پہلے شروع ہوا۔ with the verb reworded; the gap still takes the speaker's content, دو سال." loading="lazy">
+  <figcaption>The frame is reworded; the missing content is what the speaker said.</figcaption>
+</figure>
+
 ## Using Urdu grammar to predict the gap
 
 Urdu is very helpful here. Gender, number and postpositions in the printed sentence often tell you what
@@ -84,12 +94,22 @@ This prediction does two jobs. It tells you what to listen for, and afterwards i
 your answer fits. If the verb is feminine plural and you have written a masculine singular noun, you have
 probably caught the wrong word.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--03-grammar-clues.webp" width="900" height="1022" alt="A table of grammar clues in the printed sentence: a feminine verb such as جاتی ہیں predicts a feminine noun (چوڑیاں); a masculine plural verb predicts بیج or پودے; ہر ______ کو predicts a day (منگل); کی تعداد predicts a number; کی وجہ سے a reason (بارش); کے ... پر an oblique noun (دعوت ناموں); and سنائیں گی a feminine person (شاعرہ)." loading="lazy">
+  <figcaption>Gender, number and postpositions tell you what kind of word is missing.</figcaption>
+</figure>
+
 ## Notes versus sentences
 
 In **notes**, the gap often follows a heading and a colon: کتابوں کی تعداد: ______. Write just the
 content: a number, a noun or a short list. In **sentences**, your answer has to read as part of the
 sentence, so use the form that fits: the oblique plural after a postposition, or the feminine form when
 the sentence needs it. Do not rewrite the whole sentence; write only what goes in the gap.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--04-notes-versus-sentences.webp" width="900" height="498" alt="In notes such as کتابوں کی تعداد: ______ write just the content. In sentences such as شادی کے ______ پر the answer must fit the grammar, for example the oblique plural after a postposition. In both, write only the gap." loading="lazy">
+  <figcaption>Notes take bare content; sentences take the grammatically fitting form.</figcaption>
+</figure>
 
 ## When the text gives two possible answers
 
@@ -103,6 +123,11 @@ Longer texts deliberately mention more than one number, time or item close toget
 The words in the printed sentence (اب، شروع میں، سردیوں میں، اصل میں) tell you which of the two details is
 being asked for. Underline them in the pause.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--05-two-possible-answers.webp" width="900" height="832" alt="Two examples. In شروع میں چھ طالب علم تھے، اب ہم پچیس ہیں۔ a gap about now needs پچیس, not چھ. In a list of vegetables with سردیوں میں گاجریں بھی, a gap about winter needs گاجریں. A gap before کی وجہ سے wants the cause. Words such as اب، شروع میں، سردیوں میں، اصل میں show which detail is asked for." loading="lazy">
+  <figcaption>The time or condition word in the printed sentence picks between two details.</figcaption>
+</figure>
+
 ## A routine for the two hearings
 
 ```
@@ -114,6 +139,11 @@ First hearing:  follow the sentences in order; jot what you catch lightly;
 Second hearing: fill the gaps you missed; confirm then-and-now details
 After:          read each completed sentence: does the grammar fit?
 ```
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--06-two-hearings.webp" width="900" height="748" alt="Four stages: in the pause read every gap, underline time words such as اب، پہلے، شروع میں and grammar clues, and note the kind of answer; follow the order on the first hearing; fill and confirm on the second; then check each sentence's grammar." loading="lazy">
+  <figcaption>Predict in the pause, follow in order, then check the grammar fits.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -144,6 +174,11 @@ analysis.
 The reason he gives (لوگوں کی خوشی میں شریک ہونے کا احساس) is an L2 detail, an attitude, and could
 equally be tested with a gap: ______ میں شریک ہونے کا احساس. That is why the exercise covers L2 as well
 as L1: some gaps are about how a speaker feels or why they think something, not only about facts.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences--07-worked-example.webp" width="900" height="1032" alt="Three gaps on the calligraphy extract: (a) the gap before سے سیکھی takes a person, دادا, not بارہ سال کی عمر میں; (b) the gap about now takes دو گھنٹے, not آدھا گھنٹہ from the start; (c) the gap between کے and پر takes the oblique noun دعوت ناموں." loading="lazy">
+  <figcaption>Predict the kind of word, then choose the detail that fits the time and grammar.</figcaption>
+</figure>
 
 ## Common mistakes
 

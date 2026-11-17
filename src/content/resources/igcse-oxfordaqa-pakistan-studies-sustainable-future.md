@@ -62,6 +62,11 @@ named examples and a judgement on how effective each strategy is.
 | Soil | Over-use of fertiliser and pesticides; salinity from poor irrigation; dumped waste | Falling yields; contaminated crops |
 | Noise | Traffic, generators, construction and loudspeakers in cities | Stress, sleep loss and hearing damage |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--01-pollution.webp" width="900" height="455" alt="A table of air, water, soil and noise pollution. Air pollution from vehicles, brick kilns, industry and burning causes winter smog and illness; water pollution from sewage, industrial waste and farm chemicals causes disease and harms fish; soil pollution lowers yields; noise causes stress and hearing damage." loading="lazy">
+  <figcaption>Each type of pollution has its own causes and its own harm to health or livelihoods.</figcaption>
+</figure>
+
 ## Why is deforestation a problem, and what is being done?
 
 Pakistan has a low share of land under forest. **Causes:** cutting wood for fuel and timber,
@@ -74,6 +79,11 @@ reservoirs such as Tarbela, loss of habitats and lower carbon storage.
 protection of mangroves along the Sindh coast; alternative fuels such as LPG to reduce wood
 burning; community forest management and bans on logging in some areas.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--02-deforestation.webp" width="900" height="452" alt="Three linked columns. Causes: fuelwood and timber, clearing land, over-grazing and illegal logging. Impacts: soil erosion and landslides, worse floods, silting of reservoirs such as Tarbela, and habitat and carbon loss. Responses: the Billion Tree Tsunami from 2014, the Ten Billion Tree Tsunami from 2018, mangrove protection, LPG and community management." loading="lazy">
+  <figcaption>Losing forest speeds erosion and flooding; tree planting and protection respond.</figcaption>
+</figure>
+
 ## What causes desertification, and how can it be tackled?
 
 **Desertification** is the spread of desert-like conditions in dry areas. In Pakistan it threatens
@@ -84,11 +94,21 @@ migration to towns, and dust storms. **Strategies:** planting drought-resistant 
 shelter belts, controlled grazing, efficient irrigation such as drip systems, water harvesting and
 small dams, and reclaiming saline land.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--03-desertification.webp" width="900" height="508" alt="Three linked columns. Causes: unreliable rainfall and drought, over-grazing, cutting shrubs, over-pumping groundwater and salty irrigation. Impacts: lost farmland and grazing, falling incomes, migration and dust storms. Responses: shelter belts, controlled grazing, drip irrigation, water harvesting and reclaiming saline land." loading="lazy">
+  <figcaption>Natural drought and human misuse together spread desert conditions.</figcaption>
+</figure>
+
 ## How is biodiversity protected?
 
 - **Local:** community conservation, such as trophy-hunting programmes in the north where income from licensed hunting of markhor is shared with villages that protect the animals.
 - **National:** national parks and protected areas, such as Khunjerab, Margalla Hills, Kirthar and Hingol; wildlife laws; protection of the endangered Indus river dolphin.
 - **International:** work with organisations such as WWF and the United Nations; international conventions on biodiversity and wetlands.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--04-biodiversity-scales.webp" width="900" height="700" alt="Three nested rings. Local: markhor trophy-hunting income shared with villages that protect the animals. National: national parks such as Khunjerab, Margalla Hills, Kirthar and Hingol, wildlife laws and protection of the Indus river dolphin. International: work with WWF and the UN and conventions on biodiversity and wetlands." loading="lazy">
+  <figcaption>Conservation works at local, national and international scales.</figcaption>
+</figure>
 
 ## How does climate change affect Pakistan?
 
@@ -99,6 +119,11 @@ floods; more extreme **monsoon floods**, such as the **2022 floods**, which cove
 Sindh and Balochistan, killed more than 1,700 people and caused damage and losses estimated at about
 US$30 billion; **droughts**; **sea-level rise** and saltwater intrusion in the Indus delta. These
 reduce crop yields, damage infrastructure, spread disease and push people into poverty.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--05-climate-change-impacts.webp" width="900" height="613" alt="Pakistan produces a very small share of global emissions but is among the most vulnerable countries. Five consequences follow: heatwaves such as Karachi 2015, glacier melt and outburst floods, extreme monsoon floods such as 2022 (over 1,700 deaths and about US$30 billion of damage and losses), droughts, and sea-level rise in the Indus delta. Together these lower yields, damage infrastructure, spread disease and increase poverty." loading="lazy">
+  <figcaption>Pakistan contributes little to climate change but suffers heavily from it.</figcaption>
+</figure>
 
 ## How is Pakistan responding to climate change?
 
@@ -117,6 +142,11 @@ Department, and disaster planning by the National Disaster Management Authority 
 plans in cities; flood resilience through embankments, raised homes, protected wetlands and
 better land-use planning; projects to reduce the risk of glacial lake outburst floods in the north.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--06-mitigation-adaptation.webp" width="900" height="589" alt="Agreements and policy (the Paris Agreement, the 2023 National Adaptation Plan and the loss and damage fund) branch into mitigation, which reduces the causes through renewables, electric vehicles, mass transit and reforestation, and adaptation, which reduces the impacts through early warnings, NDMA planning, heatwave plans, flood resilience and glacial lake projects." loading="lazy">
+  <figcaption>Mitigation tackles the causes; adaptation prepares for the impacts.</figcaption>
+</figure>
+
 ## Why is development uneven within Pakistan?
 
 **Factors:** physical (fertile irrigated plains in Punjab and Sindh versus mountains and deserts
@@ -129,6 +159,11 @@ the former tribal districts have the lowest levels of development.
 - The **National Finance Commission award** shares federal revenue with provinces, giving weight to poverty and backwardness; the 2010 award increased the provinces' share.
 - The **Benazir Income Support Programme** (2008) and later Ehsaas provide cash transfers to poor women, helping the poorest households, though payments are small.
 - Infrastructure through CPEC and development projects in Balochistan; results so far are mixed, with local communities questioning how much benefit they receive.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-pakistan-studies-sustainable-future--07-uneven-development.webp" width="900" height="749" alt="Four factors (physical, economic, social and political) leave Balochistan and the former tribal districts least developed. A table evaluates three strategies: the National Finance Commission award, whose 2010 version increased the provinces’ share; cash transfers through BISP and Ehsaas, which help the poorest but are small; and CPEC projects, with mixed results so far." loading="lazy">
+  <figcaption>Revenue sharing and cash transfers help, but the gap between regions persists.</figcaption>
+</figure>
 
 ## How can education, gender equality and food security be improved?
 

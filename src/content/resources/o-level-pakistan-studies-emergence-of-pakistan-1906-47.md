@@ -49,12 +49,22 @@ Communal Award, Rahmat Ali's 1933 pamphlet, 1935 Act, 1937 elections, Day of Del
 Resolution, Cripps Mission, Quit India, Gandhi–Jinnah talks, Simla Conference, 1945–46 elections,
 Cabinet Mission, Direct Action Day, 3 June Plan, Radcliffe Award and the Indian Independence Act.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--01-timeline-1905-47.webp" width="900" height="1080" alt="A vertical timeline of the events in this section, from the 1905 Partition of Bengal and the founding of the Muslim League in 1906 to the Pakistan Resolution of 1940 and the Indian Independence Act of July 1947, with each event coloured by its Key Question." loading="lazy">
+  <figcaption>Forty years of events in one sequence: learn the order before the detail.</figcaption>
+</figure>
+
 ## What is the paper structure?
 
 Paper 1 lasts 1 hour 30 minutes. Section A is a compulsory source-based question; in Section B you
 answer two questions from four, each with a 4-mark knowledge part, a 7-mark explanation part and a
 14-mark evaluation essay. In the 14-mark part, explain at least three factors, including the one
 named in the question, and finish with a reasoned judgement.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--02-paper-1-structure.webp" width="900" height="840" alt="Section A is a compulsory source-based question. In Section B candidates answer two of four questions, each split into 4-, 7- and 14-mark parts. The 14-mark answer explains the named factor and at least two others before reaching a reasoned judgement." loading="lazy">
+  <figcaption>The 14-mark essay carries the most marks: three explained factors and a judgement.</figcaption>
+</figure>
 
 ## Focus point: why was the Muslim League founded in 1906?
 
@@ -70,6 +80,11 @@ Do you agree?"** Bengal (Hindu opposition showed Muslims needed organised repres
 the need for separate electorates before the coming reforms, and Congress's perceived Hindu
 character. Judgement: Bengal was the trigger, but the deeper cause was the need to protect Muslim
 interests as elected councils expanded.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--03-league-founded-1906.webp" width="900" height="778" alt="Three causes (Sir Syed’s advice to stay out of Congress, Hindu agitation against the 1905 Partition of Bengal, and the successful Simla Deputation of 1 October 1906) lead to the founding of the League at Dhaka in December 1906, which had three aims." loading="lazy">
+  <figcaption>Bengal was the trigger; protecting Muslim interests as councils grew was the deeper cause.</figcaption>
+</figure>
 
 ## Focus point: how successful was British reform, 1909–19?
 
@@ -88,6 +103,11 @@ After 1922, relations broke down through communal riots, Hindu revival movements
 sangathan) and Muslim tabligh and tanzim responses. The **Delhi Proposals (1927)** were a final
 Muslim offer to accept joint electorates in exchange for safeguards.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--04-relations-1916-27.webp" width="900" height="650" alt="A line falls from the Lucknow Pact of 1916, the high point of co-operation, through the Khilafat and Non-Cooperation campaigns, to a breakdown after 1922 marked by communal riots and rival revival movements, ending with the Delhi Proposals of 1927 as a final Muslim offer." loading="lazy">
+  <figcaption>Co-operation peaked in 1916 and broke down after 1922.</figcaption>
+</figure>
+
 ## Focus point: why did the Khilafat Movement fail?
 
 Muslims wanted the Ottoman caliph to keep control of the holy places after Turkey's defeat in the
@@ -102,6 +122,11 @@ failed."** Compare with Gandhi's withdrawal and the Hijrat disaster. Many answer
 Turkey's decision ended the cause itself, while Gandhi's withdrawal had already broken the
 movement's strength.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--05-khilafat-failure.webp" width="900" height="870" alt="The aim of the Khilafat Movement sits above five blows in order: delegations to Britain rejected, the Hijrat of 1920, Gandhi’s suspension of Non-Cooperation after Chauri Chaura in 1922, the Moplah uprising, and Turkey’s abolition of the caliphate in 1924." loading="lazy">
+  <figcaption>Five blows ended the movement; 1922 and 1924 are the two to weigh against each other.</figcaption>
+</figure>
+
 ## Focus point: why did Jinnah produce his 14 Points in 1929?
 
 The **Simon Commission** had no Indian members, so Indians were asked to draft their own proposals.
@@ -110,6 +135,11 @@ seats, and proposed a strong centre. Jinnah's amendments were rejected at the Al
 Convention, so in March 1929 he set out **14 Points**, including a federal system with residual
 powers for provinces, separate electorates, one-third Muslim representation in the central
 legislature, and protection of Muslim culture, religion and personal law.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--06-nehru-report-14-points.webp" width="900" height="636" alt="A chain runs from the all-British Simon Commission to the Nehru Report of 1928, the rejection of Jinnah’s amendments and the 14 Points of March 1929. A grid compares the two documents on electorates, the Muslim share of central seats, the balance of power and the protection of Muslim culture." loading="lazy">
+  <figcaption>The 14 Points answered the Nehru Report point by point.</figcaption>
+</figure>
 
 ## Focus point: how successful were the Round Table Conferences?
 
@@ -145,6 +175,11 @@ when the League withdrew its acceptance. After the violence that followed **Dire
 (16 August 1946)**, Mountbatten's **3 June Plan** accepted partition, enacted by the **Indian
 Independence Act (July 1947)**, with boundaries drawn by the **Radcliffe Commission**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--07-solutions-1940-47.webp" width="900" height="892" alt="A staircase of six steps from the Pakistan Resolution of 1940 through the Cripps Mission, Quit India, the Gandhi–Jinnah talks and the Simla Conference to the League’s victory in the 1945–46 elections. Below, four boxes run from the Cabinet Mission of 1946 to the Indian Independence Act of July 1947." loading="lazy">
+  <figcaption>Every failed solution left the League stronger, until Britain accepted partition.</figcaption>
+</figure>
+
 ## Focus point: how important were Jinnah, Iqbal and Rahmat Ali?
 
 **Essay plan — "Jinnah was the most important contributor to the success of the Pakistan Movement."**
@@ -153,6 +188,11 @@ Jinnah: reorganised the League after 1934, the 14 Points, the 1940 Resolution, l
 letters urging Jinnah to lead. Rahmat Ali: the name "Pakistan" and the 1933 pamphlet, but little
 political influence. Judgement: Iqbal and Rahmat Ali shaped the idea; Jinnah made it a political
 reality.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/o-level-pakistan-studies-emergence-of-pakistan-1906-47--08-jinnah-iqbal-rahmat-ali.webp" width="900" height="624" alt="Three columns list each leader’s contribution: Jinnah reorganised the League, wrote the 14 Points, led the 1940 Resolution, the 1945–46 elections and the 1946–47 negotiations; Iqbal gave the idea of a Muslim homeland in 1930; Rahmat Ali gave the name “Pakistan” in his 1933 pamphlet but had little political influence." loading="lazy">
+  <figcaption>Two men shaped the idea; one turned it into a state.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

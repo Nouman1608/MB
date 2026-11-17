@@ -69,6 +69,16 @@ Evaluation: determinism explains big shifts but ignores choice and power; constr
 
 **Worked paragraph.** *Knowledge:* Urry argues that automobility is a system that locks people into car use. *Application:* in many Gulf cities, wide highways, low-density suburbs and cheap fuel make walking or cycling hard, so families feel they need cars. *Analysis:* this suggests the technology shapes behaviour, close to a determinist view. *Evaluation:* however, governments chose to build these roads, and cities such as Copenhagen, where planning has long favoured cycling, show that policy can reduce car dependence, supporting a social constructionist reading.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--01-machines-and-work.webp" width="900" height="460" alt="Work has shifted between extraction, manufacturing and service industries. Bell predicted service and knowledge work would dominate; Braverman argued machines deskill workers; Blauner found alienation varied with technology." loading="lazy">
+  <figcaption>Sociologists disagree on whether machines degrade or improve work.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--02-determinism-construction.webp" width="900" height="617" alt="Technological determinism, from Marx and McLuhan, says technology drives social change; social constructionism, from Pinch and Bijker, says social groups shape technology. Latour’s actor-network theory treats humans and machines as actants in one network." loading="lazy">
+  <figcaption>Determinists start from the machine; constructionists start from the people.</figcaption>
+</figure>
+
 ## 3.2.3.2 'Traditional' media
 
 Communication technologies (**post, telegraph, telephone**) let messages travel faster than people. The telegraph separated communication from transport for the first time. **Newspapers, radio, television and film** created shared national audiences. Marshall McLuhan (*Understanding Media*, 1964) argued "the medium is the message": the form of a medium changes society more than its content. He also described a **global village** linked by electronic media.
@@ -93,6 +103,16 @@ Communication technologies (**post, telegraph, telephone**) let messages travel 
 | Uses and gratifications | Audiences use media actively for needs: diversion, personal relationships, personal identity, surveillance (McQuail, Blumler and Brown, 1972) | May overstate audience freedom; needs are themselves shaped by media |
 
 **Worked paragraph.** *Knowledge:* the two step flow model says media influence passes through opinion leaders. *Application:* in a village in Pakistan, a respected teacher or imam may explain a TV news story to neighbours. *Analysis:* so the effect depends on who interprets the message, not just on the message. *Evaluation:* but the model was built on 1940s US election research and may not fit societies where most people now get news directly on phones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--03-false-content.webp" width="900" height="449" alt="Misinformation is false content shared without intent to deceive, disinformation is false content spread deliberately, and propaganda is organised persuasion, often by states. Uscinski and Parent found no long-term rise in conspiracy talk." loading="lazy">
+  <figcaption>Intent separates misinformation from disinformation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--04-audience-models.webp" width="900" height="584" alt="A grid of four audience models with their main idea and a key evaluation: hypodermic syringe, two step flow, cultural effects, and uses and gratifications." loading="lazy">
+  <figcaption>The models move from a passive audience to an active one.</figcaption>
+</figure>
 
 ## 3.2.3.3 The internet and social and new media
 
@@ -120,6 +140,16 @@ The internet gives **fast global access to information**. Social media changed c
 
 **Digital divides** are gaps in access to and skills with technology, between and within countries: by income, age, rural/urban location, gender and disability. Pippa Norris (*Digital Divide*, 2001) separated the global divide, the social divide within countries, and the democratic divide in use for civic participation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--05-panopticon-synopticon.webp" width="900" height="599" alt="Left: the panopticon, one watcher at the centre observing many people around, from Foucault and Bentham. Right: the synopticon, many people all watching one figure, from Mathiesen. CCTV, facial recognition and data tracking extend both." loading="lazy">
+  <figcaption>Surveillance can run from the few to the many, or the many to the few.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--06-cybercrime.webp" width="900" height="405" alt="Wall’s three types of cybercrime: crimes against computers such as hacking, crimes using computers such as fraud, and crimes in computer content such as illegal images and hate speech. Cyber security and Norris’s three digital divides are noted below." loading="lazy">
+  <figcaption>Cybercrime can target computers, use them, or live in their content.</figcaption>
+</figure>
+
 ## 3.2.3.5 Artificial intelligence and cyborgs
 
 **Types of AI:** **narrow (weak) AI** performs one task, such as translation or face recognition; **artificial general intelligence** would match humans across tasks and does not yet exist. **Generative AI** produces text or images; **predictive AI** makes forecasts or classifications from data.
@@ -131,6 +161,11 @@ The internet gives **fast global access to information**. Social media changed c
 **Robots and cyborgs:** the word "robot" comes from Karel Čapek's play *R.U.R.* (1920). "Cyborg" was coined by Manfred Clynes and Nathan Kline in 1960. Pacemakers, cochlear implants and brain–computer interfaces **merge human and machine**. Donna Haraway's "A Cyborg Manifesto" (1985) argued that the boundaries between human and animal, organism and machine, and physical and non-physical are breaking down, and that feminists should reject fixed, "natural" identities ("I would rather be a cyborg than a goddess").
 
 **Worked paragraph.** *Knowledge:* Buolamwini and Gebru found much higher facial analysis errors for darker-skinned women. *Application:* if police in a city use such a system, people from those groups are more likely to be wrongly flagged. *Analysis:* this shows inequality built into technology that appears neutral. *Evaluation:* developers improved some systems after the findings, which suggests bias can be reduced, though critics argue the deeper issue is who controls deployment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-sociology-9690-people-and-technology--07-algorithmic-bias.webp" width="900" height="595" alt="Bars compare facial analysis error rates in the Gender Shades study: as high as 34.7% for darker-skinned women against under 1% for lighter-skinned men. Noble, O’Neil and Eubanks show other ways algorithms reproduce inequality." loading="lazy">
+  <figcaption>Technology that appears neutral can build in inequality.</figcaption>
+</figure>
 
 ## Common errors
 

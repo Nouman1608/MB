@@ -33,6 +33,11 @@ an extended writing response to an independent research question. It
 sits alongside Paper 2 (translation into Urdu and a written response
 to works studied) and Paper 3 (listening, reading and writing).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--01-three-skills.webp" width="900" height="640" alt="Paper 1 combines translation from Urdu into English, reading comprehension in Urdu, and an extended Urdu response to an independent research question. Each rewards different preparation, and translation and free writing pull in opposite directions." loading="lazy">
+  <figcaption>Three distinct skills: revise them as separate strands.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **PEARSON EDEXCEL GCE A-LEVEL URDU (9UR0) — PAPER 1 TRANSLATION,
@@ -96,6 +101,11 @@ Identify what each question actually asks. *What* questions want located detail;
 
 Answer in your own words where required, and match answer length to the marks. Where a question asks for the meaning of a phrase in context, the surrounding sentences almost always contain the clue.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--03-question-types.webp" width="900" height="500" alt="What-questions want located detail, why-questions want inference, and questions on the writer’s attitude want evidence of tone such as word choice, irony and emphasis. Use your own words, match length to marks, and look around a phrase for its meaning." loading="lazy">
+  <figcaption>Name the question type first: detail, inference or tone.</figcaption>
+</figure>
+
 ## Writing in Urdu
 
 Section C (40 marks) is marked on three grids: **knowledge and understanding of society and culture via your research** (AO4, 20 marks), **use of the unseen text** (AO2, 10 marks) and **accuracy and range of language** (AO3, 10 marks). Your research must cover all three aspects of one research subject and be based on one country/area only: Pakistan for Themes 1, 3 and 4; Pakistan or one area of India where Urdu is an official language for Theme 2.
@@ -105,6 +115,11 @@ Plan before writing. A clear structure — introduction, three or four developed
 Accuracy concentrates on a few recurring features: gender agreement across noun, adjective and verb; consistent tense and person; correct postpositions, especially the ergative **ne** with transitive perfective verbs; **izafat** constructions in formal register; and accurate script, since a misplaced dot changes the word.
 
 Range means varied sentence structures, connectives and precise vocabulary — but an ambitious word used wrongly scores below a simpler word used correctly.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--04-section-c-grids.webp" width="900" height="630" alt="Section C is worth 40 marks for about 320 to 370 words: AO4 knowledge and understanding of society and culture via research (20), AO2 use of the unseen text (10) and AO3 accuracy and range of language (10). Research covers all three aspects of one subject in one country or area, and a planned structure prevents drift." loading="lazy">
+  <figcaption>Half the essay marks come from your research; plan before you write.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -120,9 +135,19 @@ Check:  is every element present?
         is the register (formal/informal) preserved from the source?
 ```
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--02-translation-balance.webp" width="900" height="600" alt="Three versions of one Urdu sentence: literal (&quot;On him anger came&quot;, unnatural), too free (&quot;He lost his temper&quot;, loses register) and balanced (&quot;He became angry&quot;, accurate and natural), with three checks: nothing omitted, natural English, register preserved." loading="lazy">
+  <figcaption>Aim between literal and free: everything present, natural, and in the same register.</figcaption>
+</figure>
+
 ## Common mistakes
 
 Translating word for word and producing unnatural English. Omitting a clause under time pressure. Adding explanatory material not in the source. Copying from the passage in comprehension answers instead of using your own words. Writing the essay without a plan. Losing gender agreement in extended writing. Leaving no time to check the script.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-edexcel-urdu-translation-and-reading--05-accuracy-checklist.webp" width="900" height="624" alt="Five recurring accuracy features for extended Urdu writing: gender agreement across noun, adjective and verb; consistent tense and person; postpositions, especially the ergative with transitive perfective verbs; izafat in formal register; and accurate script." loading="lazy">
+  <figcaption>Leave time to check agreement, postpositions and script.</figcaption>
+</figure>
 
 ## Quick revision checklist
 

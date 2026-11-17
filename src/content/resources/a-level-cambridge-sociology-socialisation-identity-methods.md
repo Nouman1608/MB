@@ -49,6 +49,11 @@ candidate who cannot apply the positivist/interpretivist distinction
 or the concept of socialisation confidently will find it resurfacing as
 a weakness in Family, Education and every other later topic.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--01-paper-1-foundation.webp" width="900" height="524" alt="Paper 1 is drawn as the foundation, holding socialisation, structure and agency, positivism and interpretivism, and research methods. Arrows lead up to Paper 2 The Family at AS Level and Papers 3 Education and 4 Globalisation, Media and Religion at A Level." loading="lazy">
+  <figcaption>Paper 1’s concepts and methods are examined again, implicitly, in every later paper.</figcaption>
+</figure>
+
 ## Syllabus coverage
 
 **CAMBRIDGE INTERNATIONAL AS & A LEVEL SOCIOLOGY (9699) — PAPER 1
@@ -75,6 +80,11 @@ interpretivist approaches
 - 2.3 Research issues — the practical, ethical and theoretical issues
 that arise in conducting sociological research
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--02-two-halves.webp" width="900" height="590" alt="Two columns. Socialisation and identity covers 1.1 learning and socialisation, 1.2 social control, conformity and resistance, and 1.3 social identity and change. Methods of research covers 2.1 types of data and research design, 2.2 approaches to research and 2.3 research issues. An arrow shows methods being used to evaluate the evidence behind claims about socialisation." loading="lazy">
+  <figcaption>The methods half exists to evaluate the evidence behind the socialisation half.</figcaption>
+</figure>
+
 ## How to approach it
 
 Socialisation and identity (1.1-1.3) is best revised by tracing one
@@ -98,6 +108,11 @@ research scenarios, not just defining the two approaches, since it is
 this applied skill — not the definitions alone — that Cambridge's mark
 schemes reward most heavily.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--05-specific-evaluation.webp" width="900" height="390" alt="Generic answers list strengths and weaknesses of interviews in general, define approaches in the abstract and treat sub-topics separately. Specific answers explain why a named method suits a particular research context and apply the approaches to new scenarios." loading="lazy">
+  <figcaption>Mark schemes reward applying a named method to a specific research context.</figcaption>
+</figure>
+
 ## The socialisation-to-identity argument, traced through
 
 1.1 establishes that identity is not innate but constructed through socialisation — the family,
@@ -116,6 +131,11 @@ Cambridge's Paper 1 questions frequently do rather than confining a question to 
 sub-topic — a candidate revising 1.1-1.3 as isolated definitions lists is poorly placed to answer a
 question that deliberately spans two or more of them.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--03-identity-chain.webp" width="900" height="705" alt="Three linked steps: 1.1 construction, where agencies of socialisation transmit norms and values; 1.2 maintenance, where social control keeps conformity and deviance theories explain breakdowns; 1.3 change, where identities shift and globalisation creates hybrid identities." loading="lazy">
+  <figcaption>Socialisation builds identity, social control maintains it, and social change reshapes it.</figcaption>
+</figure>
+
 ## Applying positivism and interpretivism
 
 The positivist approach favours quantitative, structured methods (social surveys, official
@@ -127,6 +147,11 @@ generalisability, reflecting interpretivism's view that human behaviour cannot b
 through the same methods used to study the natural world. Exam questions consistently ask candidates to apply this framework to a specific,
 sometimes unfamiliar research scenario, so practise identifying which approach a described method
 sits closer to, and why, rather than only being able to define the two approaches in the abstract.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-sociology-socialisation-identity-methods--04-positivism-interpretivism.webp" width="900" height="693" alt="Positivists use quantitative, structured methods such as surveys and official statistics to aim for objectivity, reliability and generalisation, modelling sociology on the natural sciences. Interpretivists use qualitative, less structured methods such as unstructured interviews and participant observation to aim for validity and understanding of meaning." loading="lazy">
+  <figcaption>Positivists aim for reliability and generalisation; interpretivists aim for validity and meaning.</figcaption>
+</figure>
 
 ## Frequently asked questions
 

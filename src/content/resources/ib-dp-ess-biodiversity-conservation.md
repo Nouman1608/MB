@@ -123,6 +123,21 @@ A **species** is a group of organisms that can interbreed to produce fertile off
 
 The fossil record shows five major **mass extinctions**. In each, a large share of species died out over a geologically short time. Causes include volcanic activity, climate change, changes in sea level and an asteroid impact (the end-Cretaceous event, about 66 million years ago). After each event, surviving groups diversified into the empty niches. Many scientists argue that human activity is now driving a sixth mass extinction, because present extinction rates are far above the background rate seen in the fossil record.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--01-three-levels-of-biodiversity.webp" width="900" height="650" alt="Three zoomed panels. A landscape with forest, pond and meadow shows habitat diversity; a close-up of the meadow with many kinds of flowers and insects shows species diversity; a close-up of one insect species whose individuals differ shows genetic diversity." loading="lazy">
+  <figcaption>Biodiversity is measured at habitat, species and genetic levels, and the levels are linked.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--02-richness-evenness-meadows.webp" width="900" height="690" alt="Bar charts of two meadows, each with five species and 40 individuals. Meadow P has 12, 10, 8, 6 and 4 individuals and a diversity index of 4.88. Meadow Q has 30, 4, 3, 2 and 1 and an index of 1.75, because species A dominates." loading="lazy">
+  <figcaption>Evenness raises the index: a site dominated by one species is less diverse.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--03-speciation-isolation.webp" width="900" height="718" alt="Four stages. One varied population interbreeds freely. A barrier such as a river splits it and gene flow stops. The two groups face different selection pressures and change. Eventually they can no longer interbreed to produce fertile offspring and are separate species." loading="lazy">
+  <figcaption>Speciation needs isolation: once gene flow stops, the populations diverge.</figcaption>
+</figure>
+
 ## 3.2 Human impact on biodiversity
 
 ### Main causes of loss
@@ -160,6 +175,11 @@ The International Union for Conservation of Nature (IUCN) publishes the **Red Li
 - the estimated probability of extinction in the wild.
 
 A steep decline or a tiny range moves a species into a higher-threat category.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--04-iucn-red-list.webp" width="900" height="665" alt="The Red List categories in order of rising extinction risk: Least Concern, Near Threatened, Vulnerable, Endangered, Critically Endangered, Extinct in the Wild and Extinct, with Data Deficient set apart. Criteria are population size and decline, range size and fragmentation, number of mature individuals and probability of extinction." loading="lazy">
+  <figcaption>A steep decline or a tiny range moves a species up the threat scale.</figcaption>
+</figure>
 
 ## 3.3 Conservation and regeneration
 
@@ -222,6 +242,21 @@ The single reserve has more than twice the core area for the same land. Several 
 **Regeneration** (restoration) returns a degraded ecosystem towards a more natural state, for example by replanting native species or restoring wetland water levels. It uses the succession you met in Topic 2.
 
 **Rewilding** aims to restore natural processes and let the ecosystem regulate itself, with less ongoing human management. It often reconnects habitats and reintroduces missing species, such as large herbivores or top predators. Benefits can include restored food webs and more diverse habitats. Problems include conflict with farmers, uncertain outcomes and the long time needed.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--05-flagship-keystone-umbrella.webp" width="900" height="620" alt="Three cards. A flagship species is charismatic and attracts support and funding. A keystone species, like the keystone of an arch, has an effect far larger than its numbers. An umbrella species needs a large area, so protecting it shelters many other species." loading="lazy">
+  <figcaption>Keystone is about the size of the effect, not numbers or trophic level.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--06-core-area-worked-example.webp" width="900" height="740" alt="A 4 km by 4 km reserve and four 2 km by 2 km reserves, both 16 square km in total, with edge effects reaching 0.5 km inside each boundary. The single reserve keeps a 9 square km core (56.25%); the four small ones keep 4 square km (25%)." loading="lazy">
+  <figcaption>Same total land, but one large reserve has more than twice the core area.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/ib-dp-ess-biodiversity-conservation--07-reserve-design.webp" width="900" height="735" alt="Four comparisons. One large reserve keeps more core area than several small ones, though small ones spread risk. Compact shapes have less edge than long thin ones. Corridors link fragments so animals can move and genes flow. A buffer zone with limited human use surrounds the core." loading="lazy">
+  <figcaption>Good design maximises core area and keeps fragments connected.</figcaption>
+</figure>
 
 ## Common errors
 
