@@ -15,7 +15,7 @@
   "after": "## The density practical (5.4)",
   "alt": "An empty measuring cylinder reads 82.0 g on a balance; with 50.0 cm³ of oil it reads 128.0 g. The oil has mass 46.0 g, so its density is 46.0 ÷ 50.0 = 0.920 g/cm³, or 920 kg/m³.",
   "caption": "Subtract the mass of the empty cylinder before dividing by the volume.",
-  "bytes": 51234
+  "bytes": 51218
  },
  {
   "file": "edexcel-igcse-physics-4ph1-density-and-pressure--03-same-force-different-area.webp",
@@ -60,6 +60,6 @@
   "after": "## Pressure difference with depth (5.7)",
   "alt": "A storage tank on a hill feeds a tap 15 m below the water surface, giving a pressure difference of 150 000 Pa. A house further down the hill has a larger vertical height below the surface and a larger pressure difference.",
   "caption": "h is the vertical depth below the water surface, never the length of pipe.",
-  "bytes": 83322
+  "bytes": 83320
  }
 ]

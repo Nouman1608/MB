@@ -110,7 +110,7 @@ const wave = (x, y, w, lam, amp, col, sw = 3.5) => { let d = `M${x},${y}`; for (
     t(190, 155, 'Δλ / λ₀ = v / c', { size: 21, weight: 700, anchor: 'middle' }) + t(450, 155, 'Δλ = λ − λ₀', { size: 21, weight: 700, anchor: 'middle' }) + t(710, 155, 'c = 3.0 × 10⁸ m/s', { size: 21, weight: 700, anchor: 'middle' }) +
     steps(30, 200, 410, [
       ['Example 1: find v', { weight: 700, size: 20 }],
-      ['λ₀ = 486 nm,  λ = 495.72 nm', { fill: C.muted }],
+      ['λ₀ = 486 nm,  λ = 495.72 nm', { fill: C.muted }],
       ['Δλ = 495.72 − 486 = 9.72 nm'],
       ['Δλ / λ₀ = 9.72 / 486 = 0.020'],
       ['v = 0.020 × 3.0 × 10⁸'],
@@ -118,7 +118,7 @@ const wave = (x, y, w, lam, amp, col, sw = 3.5) => { let d = `M${x},${y}`; for (
     ], { lh: 40 }) +
     steps(460, 200, 410, [
       ['Example 2: find λ', { weight: 700, size: 20 }],
-      ['v = 1.5 × 10⁷ m/s,  λ₀ = 410 nm', { fill: C.muted }],
+      ['v = 1.5 × 10⁷ m/s,  λ₀ = 410 nm', { fill: C.muted }],
       ['v / c = 1.5 × 10⁷ / 3.0 × 10⁸'],
       ['= 0.050', { dx: 50 }],
       ['Δλ = 0.050 × 410 = 20.5 nm'],
@@ -140,7 +140,7 @@ const wave = (x, y, w, lam, amp, col, sw = 3.5) => { let d = `M${x},${y}`; for (
       rect(x - 90, 320, 180, 40, { fill: 'url(#spec)', sw: 2, rx: 3 }) + ln(x - 50, 322, x - 50, 358, { w: 2, dash: '4 4', c: '#ffffff' }) + ln(x - 50 + shift[i], 322, x - 50 + shift[i], 358, { w: 5, cap: 'butt' }) +
       t(x, 390, ['near', 'further', 'furthest'][i], { size: 18, weight: 700, anchor: 'middle' }) +
       t(x, 412, ['small red-shift', 'bigger red-shift', 'biggest red-shift'][i], { size: 16, anchor: 'middle', fill: C.rust, weight: 600 })).join('') +
-    arrow(160, 460, 860, 460, { w: 3 }) + t(160, 490, 'distance from Earth increases →  red-shift increases →  galaxy moves away faster', { size: 17, weight: 600 }) +
+    arrow(160, 460, 860, 460, { w: 3 }) + t(160, 490, 'distance from Earth increases →  red-shift increases →  galaxy moves away faster', { size: 17, weight: 600 }) +
     t(480, 160, 'arrow length = speed moving away', { size: 16, fill: C.muted, anchor: 'middle' }) +
     t(450, 535, 'dashed line: reference position of the line (laboratory)', { size: 15, fill: C.muted, anchor: 'middle' }) +
     panel(30, 560, 840, 70, C.cream, C.olive) + t(450, 602, 'Almost all distant galaxies are red-shifted: they are moving away from us.', { size: 18, weight: 600, anchor: 'middle' });

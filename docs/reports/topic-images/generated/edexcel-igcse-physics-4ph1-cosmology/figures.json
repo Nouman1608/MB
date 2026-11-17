@@ -24,7 +24,7 @@
   "after": "## The red-shift equation (8.16P)",
   "alt": "Two worked examples. A 486 nm line seen at 495.72 nm gives Δλ / λ₀ = 0.020 and v = 6.0 × 10⁶ m/s. A galaxy receding at 1.5 × 10⁷ m/s gives v / c = 0.050, Δλ = 20.5 nm and an observed 410 nm line at 430.5 nm.",
   "caption": "Find Δλ, divide by λ₀, and multiply by c; or work backwards and add Δλ to λ₀.",
-  "bytes": 95696
+  "bytes": 95730
  },
  {
   "file": "edexcel-igcse-physics-4ph1-cosmology--04-red-shift-and-distance.webp",
@@ -33,7 +33,7 @@
   "after": "## Red-shift and distance (8.17P)",
   "alt": "Three galaxies at increasing distances from Earth, each moving away, the furthest fastest. Under each a spectrum strip shows the same line moved further from its reference position the more distant the galaxy.",
   "caption": "The further away a galaxy is, the bigger its red-shift and the faster it is moving away.",
-  "bytes": 79032
+  "bytes": 79038
  },
  {
   "file": "edexcel-igcse-physics-4ph1-cosmology--05-balloon-analogy.webp",

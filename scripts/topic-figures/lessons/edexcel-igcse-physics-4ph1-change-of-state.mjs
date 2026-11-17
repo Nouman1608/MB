@@ -131,7 +131,7 @@ const flat = (lab) => lab;
     table +
     panel(30, rowY + 172, 840, 70, C.cream, C.olive) +
     t(50, rowY + 202, 'Evaporation is faster with:', { size: 18, weight: 700 }) +
-    t(50, rowY + 228, 'a higher temperature  •  a larger surface area  •  air moving across the surface', { size: 17, fill: C.ink });
+    t(50, rowY + 228, 'a higher temperature  •  a larger surface area  •  air moving across the surface', { size: 17, fill: C.ink });
   add('03-evaporation-vs-boiling', svg(900, 780, 'Evaporation and boiling', body),
     'Two beakers. In evaporation only the fastest particles at the surface escape, so the liquid left behind has a lower average kinetic energy and cools. In boiling, bubbles of gas form throughout the liquid at the boiling point and the temperature stays constant.',
     'Evaporation: surface only, any temperature, cools the liquid. Boiling: throughout, at the boiling point.',
@@ -239,8 +239,8 @@ const flat = (lab) => lab;
     '';
   const body = left + right +
     panel(30, 600, 840, 92, C.tealLight, C.tealDark) +
-    t(450, 636, 'energy supplied  E = I × V × t', { size: 20, weight: 700, anchor: 'middle' }) +
-    t(450, 670, 'specific heat capacity  c = E ÷ (m × ΔT)', { size: 20, weight: 700, anchor: 'middle' });
+    t(450, 636, 'energy supplied  E = I × V × t', { size: 20, weight: 700, anchor: 'middle' }) +
+    t(450, 670, 'specific heat capacity  c = E ÷ (m × ΔT)', { size: 20, weight: 700, anchor: 'middle' });
   add('07-shc-practical-setup', svg(900, 715, 'Measuring specific heat capacity', body),
     'An insulated aluminium block with an electric heater and a thermometer in its holes, a drop of oil around the thermometer bulb. The heater is connected to a power supply with an ammeter in series and a voltmeter across the heater.',
     'Measure I, V and t for the energy, and m and ΔT for the block, then c = E ÷ (m × ΔT).',

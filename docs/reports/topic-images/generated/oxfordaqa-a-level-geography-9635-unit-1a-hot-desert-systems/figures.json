@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--01-dune-field-sediment-budget.webp",
+  "width": 900,
+  "height": 725,
+  "after": "## Deserts as open systems",
+  "alt": "A dune field store with sand inputs of 40,000 tonnes a year from a dry riverbed and 5,000 tonnes from weathering, and an output of 52,000 tonnes downwind, drawn with arrow widths to scale. The budget is minus 7,000 tonnes a year, so the store shrinks. Below, the three energy inputs: insolation, wind and runoff.",
+  "caption": "Outputs exceed inputs by 7,000 tonnes a year, so the dune field shrinks.",
+  "bytes": 120010
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--02-aridity-index.webp",
+  "width": 900,
+  "height": 736,
+  "after": "## Measuring dryness: the aridity index",
+  "alt": "A scale of P/PET from 0 to 0.5 with bands: hyper-arid below 0.05, arid 0.05 to 0.20 and semi-arid 0.20 to 0.50. Three fictional stations are plotted: Wadi Seer at 0.017, Tarik Plain at 0.067 and Baran Hills at 0.30, with their rainfall and PET in a table.",
+  "caption": "Divide precipitation by potential evapotranspiration, then read the band.",
+  "bytes": 92506
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--03-causes-of-aridity.webp",
+  "width": 900,
+  "height": 737,
+  "after": "## Applying the causes of aridity to real deserts",
+  "alt": "A matrix of four deserts against five causes of aridity. Sahara and Arabian: subtropical high pressure and winds from land. Atacama: high pressure, the Andes rain shadow and the cold Humboldt Current. Namib: the cold Benguela Current. Taklamakan: continentality and surrounding mountains.",
+  "caption": "Most deserts are dry for more than one reason.",
+  "bytes": 96318
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--04-barchan-dune.webp",
+  "width": 900,
+  "height": 864,
+  "after": "## Explaining landforms as sequences",
+  "alt": "Plan view and profile of a barchan, not to scale: a crescent with its gentle windward slope facing the wind and horns pointing downwind; in profile, sand saltates up the windward slope and avalanches down a slip face of about 30 to 34 degrees, and the dune migrates downwind. Five numbered steps explain the formation.",
+  "caption": "Saltation up, avalanching down and faster-moving horns keep a barchan's shape as it migrates.",
+  "bytes": 128910
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--05-pavement-and-pediment.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## Explaining landforms as sequences",
+  "alt": "Three panels show a desert pavement forming: deflation removes fine material, larger stones settle together, and the armoured surface protects fines below. Below, a schematic cross-section shows a mountain front retreating parallel to itself, leaving a gently sloping pediment with an isolated inselberg of resistant rock.",
+  "caption": "Explain landforms as numbered process steps, not labels.",
+  "bytes": 109022
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--06-mountain-front-landscape.webp",
+  "width": 900,
+  "height": 837,
+  "after": "## Reading desert landscapes",
+  "alt": "Schematic cross-section, not to scale, of a mountain-front landscape: wadis cut in the mountains, alluvial fans merging into a bahada at the mountain foot, a playa of fine sediment in the basin and an inselberg beyond. A table compares sand sea, stony desert and rocky desert landscapes by processes and landforms.",
+  "caption": "Landforms combine into landscapes through one cascade of sediment.",
+  "bytes": 132048
+ },
+ {
+  "file": "oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems--07-desertification-sequence.webp",
+  "width": 900,
+  "height": 610,
+  "after": "## Desertification: from causes to futures",
+  "alt": "A chain following the specification: changing extent over 10,000 years, climatic and human causes, areas at risk such as the Sahel, and impacts on land and people. A note explains how drought and grazing reinforce each other. Three alternative futures: continued degradation, adaptation, or restoration as in parts of Niger.",
+  "caption": "Causes reinforce each other, but the future depends on how land is managed.",
+  "bytes": 126500
+ }
+]

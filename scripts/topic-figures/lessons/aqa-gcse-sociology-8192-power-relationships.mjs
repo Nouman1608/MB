@@ -286,7 +286,7 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
   s += lvl(344, 560, 'Care assistants', 'mostly women: low-paid, low-status work', C.cream, 9, C.cream);
   s += box(640, 112, 230, 120, { fill: C.panel, edge: C.panelEdge, sw: 2 }) + label(656, 140, 'Walby', { size: 17, weight: 700, fill: C.tealDark }) + para(656, 166, 200, 'Public patriarchy: women in paid work, held below senior posts', { size: 15.5 }).svg;
   s += box(640, 248, 230, 120, { fill: C.panel, edge: C.panelEdge, sw: 2 }) + label(656, 276, 'Critics', { size: 17, weight: 700, fill: C.rust }) + para(656, 302, 200, 'Class divides women too: a female manager has power over other women', { size: 15.5 }).svg;
-  s += arrow(636, 214, 596, 340, { w: 2.5 }) + arrow(636, 308, 536, 286, { w: 2.5 });
+  s += arrow(636, 196, 566, 340, { w: 2.5 }) + arrow(636, 308, 536, 286, { w: 2.5 });
   s += `<circle cx="120" cy="472" r="9" fill="${C.teal}" stroke="${C.ink}" stroke-width="2"/>` + label(136, 478, 'man', { size: 15.5 }) + `<circle cx="200" cy="472" r="9" fill="${C.cream}" stroke="${C.ink}" stroke-width="2"/>` + label(216, 478, 'woman', { size: 15.5 });
   add('05-care-home-example',
     svg(900, 500, 'Public patriarchy at work: a care home', s),

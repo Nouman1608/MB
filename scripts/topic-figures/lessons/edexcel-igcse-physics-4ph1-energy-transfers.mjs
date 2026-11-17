@@ -114,7 +114,7 @@ const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s}
     t(xT + 100, 520, 'heating surroundings', { size: 16, weight: 700, fill: C.rust }) + t(xT + 100, 540, '90 J = 9 squares', { size: 15, fill: C.rust }) +
     t(xa - 10, 610, 'sound: 50 J = 5 squares', { size: 16, weight: 700, fill: C.olive, anchor: 'end' }) +
     t(450, 140, 'Scale: 1 small square = 10 J', { size: 16, weight: 600, anchor: 'middle', fill: C.muted }) +
-    steps(30, 670, 840, [['Check: 26 + 9 + 5 = 40 squares.   Efficiency = 260 ÷ 400 × 100% = 65%', { weight: 700 }]], { lh: 34, size: 18 });
+    steps(30, 670, 840, [['Check: 26 + 9 + 5 = 40 squares.   Efficiency = 260 ÷ 400 × 100% = 65%', { weight: 700 }]], { lh: 34, size: 18 });
   add('03-motor-sankey-to-scale', svg(900, 740, 'Sankey diagram for a motor, drawn to scale', body),
     'A Sankey diagram on squared paper with 1 square = 10 J. A 400 J input arrow, 40 squares wide, splits into a useful 260 J arrow to the kinetic store of the load (26 squares) and two wasted arrows bending down: 90 J heating (9 squares) and 50 J sound (5 squares).',
     'Arrow widths are to scale and the outputs add up to the input: efficiency 65%.',
@@ -163,7 +163,7 @@ const flame = (cx, cy, s = 1) => `<path d="M${cx},${cy - 30 * s} C${cx + 18 * s}
     circ(sx + 360, 190, 16, { fill: C.mustard, stroke: C.olive, sw: 2 }) +
     t(sx + 205, 448, 'breeze blows from sea to land', { size: 15, anchor: 'middle', fill: C.blue, weight: 600 });
   const body = room + sea + panel(30, 485, 840, 105, C.cream, C.olive) +
-    t(450, 520, 'Heated → expands → less dense → rises.   Cooled → contracts → denser → sinks.', { size: 17, weight: 700, anchor: 'middle' }) +
+    t(450, 520, 'Heated → expands → less dense → rises.   Cooled → contracts → denser → sinks.', { size: 17, weight: 700, anchor: 'middle' }) +
     t(450, 552, 'Kettle element at the bottom: heated water rises, so all the water is heated.', { size: 16, anchor: 'middle' }) +
     t(450, 576, 'Freezer at the top of a fridge: cooled air sinks over the food below.', { size: 16, anchor: 'middle' });
   add('05-convection-room-and-sea-breeze', svg(900, 610, 'Convection in everyday life', body),

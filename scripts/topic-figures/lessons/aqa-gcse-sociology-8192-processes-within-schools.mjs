@@ -275,19 +275,19 @@ const vcenter = (x, yTop, h, w, s, o = {}) => { const size = o.size || 17; const
 {
   let s = '';
   s += label(450, 92, 'Learning to Labour (1977): twelve working-class boys at a Midlands school', { size: 17, anchor: 'middle', fill: C.muted });
-  const L = headPanel(30, 112, 404, 250, '“The lads”', { fill: C.mustard, size: 21 });
-  const R = headPanel(466, 112, 404, 250, '“Ear’oles”', { fill: C.tealLight, size: 21 });
+  const L = headPanel(30, 112, 404, 266, '“The lads”', { fill: C.mustard, size: 21 });
+  const R = headPanel(466, 112, 404, 266, '“Ear’oles”', { fill: C.tealLight, size: 21 });
   s += L.svg + R.svg;
   s += bullets(52, 196, 360, ['A **counter school culture** opposed to school values', 'Felt superior to teachers and to conformist pupils', 'Aimed to avoid lessons and “have a laff”', 'Resented the school’s control of their time'], { size: 17, gap: 10 }).svg;
   s += bullets(488, 196, 360, ['Conformist pupils', 'Looked down on by the lads'], { size: 17, gap: 10 }).svg;
-  s += `<circle cx="450" cy="237" r="22" fill="${C.ink}"/>` + t(450, 244, 'vs', { size: 17, weight: 700, fill: '#ffffff', anchor: 'middle' });
+  s += `<circle cx="450" cy="245" r="22" fill="${C.ink}"/>` + t(450, 252, 'vs', { size: 17, weight: 700, fill: '#ffffff', anchor: 'middle' });
   const items = [
     { head: 'Rejecting school', body: 'An identity the lads actively chose', fill: C.cream },
     { head: 'Manual work', body: 'Suited to male-dominated, unskilled or semi-skilled jobs', fill: C.teal },
   ];
-  const c = hchain(390, items, { size: 17, ag: 60 });
-  s += c.svg + label(450, 390 + c.h + 26, 'Such work was relatively easy to get in the 1970s', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
-  const y = 390 + c.h + 46;
+  const c = hchain(404, items, { size: 17, ag: 60 });
+  s += c.svg + label(450, 404 + c.h + 26, 'Such work was relatively easy to get in the 1970s', { size: 16, anchor: 'middle', fill: C.muted, italic: true });
+  const y = 404 + c.h + 46;
   const r = cardRow(y, [
     { head: 'Ball: the institution shapes pupils', fill: C.panel, body: 'Banding labels pupils and their attitudes follow' },
     { head: 'Willis: pupils are not passive', fill: C.panel, body: 'The lads chose to resist; they were not simply labelled into failure' },

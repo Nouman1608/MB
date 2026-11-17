@@ -47,6 +47,8 @@ const steps = (x, y, w, rows, { fill = C.cream, edge = C.olive, lh = 34, size = 
     return t(x + pad + (o.dx || 0), y + pad + size * 0.9 + i * lh, s, { size, ...o });
   }).join('');
 // ---- end helpers ----
+// bullet list: lines starting with a non-breaking space are continuation lines, indented
+const blist = (x, y, lines, opts = {}, lh = 24) => lines.map((s, i) => (s.startsWith(' ') ? t(x + 14, y + i * lh, s.trim(), opts) : t(x, y + i * lh, s, opts))).join('');
 
 const lampOn = (x, y, v = false) => sLamp(x, y, { v, bg: C.mustard }) + [0, 1, 2, 3, 4, 5, 6, 7].map((i) => { const a = (i * Math.PI) / 4 + Math.PI / 8; return ln(x + 24 * Math.cos(a), y + 24 * Math.sin(a), x + 32 * Math.cos(a), y + 32 * Math.sin(a), { c: C.olive, w: 2 }); }).join('');
 const lampOff = (x, y, v = false) => sLamp(x, y, { v, bg: '#e3e6e6' });
@@ -151,7 +153,7 @@ const flowArrow = (x, y, dir, col = C.rust, mk = 'ahR') => { const d = { r: [1, 
     t(370, y2 + 50, 'supply', { size: 16, anchor: 'middle', fill: C.muted }) + t(x1 - 32, 285, 'ammeter', { size: 16, anchor: 'end', fill: C.muted }) +
     t(250, y1 - 34, 'variable resistor', { size: 16, anchor: 'middle', fill: C.muted }) + t(480, y1 - 32, 'component', { size: 16, anchor: 'middle', fill: C.olive, weight: 600 }) +
     t(480, y1 + 135, 'voltmeter across it', { size: 16, fill: C.muted, anchor: 'middle' }) +
-    tl(660, 190, ['1  Vary the resistor in steps:', '    at least six pairs of V, I', '2  Reverse the component;', '    repeat for negative values', '3  Plot I (y) against V (x)', '4  Switch off between', '    readings (not for the lamp)'], { size: 15 }, 24) +
+    blist(660, 190, ['1  Vary the resistor in steps:', '    at least six pairs of V, I', '2  Reverse the component;', '    repeat for negative values', '3  Plot I (y) against V (x)', '4  Switch off between', '    readings (not for the lamp)'], { size: 15 }, 24) +
     panel(50, 450, 800, 62, C.cream, C.olive) + t(450, 488, 'Ammeter in series with the component; voltmeter in parallel across it.', { size: 17, weight: 600, anchor: 'middle' });
   add('05-iv-investigation-circuit', svg(900, 550, 'Investigating an I–V characteristic', body),
     'Circuit with a supply, an ammeter and a variable resistor in series with the component under test, and a voltmeter connected across the component. Steps: take at least six readings, reverse the component, and plot current against voltage.',

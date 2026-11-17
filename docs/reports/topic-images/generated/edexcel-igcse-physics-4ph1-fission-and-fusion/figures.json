@@ -33,7 +33,7 @@
   "after": "## Worked example: an \"explain\" answer",
   "alt": "A chain of boxes: if the rate of fission rises, the control rods are lowered further in, more neutrons are absorbed and fewer fissions occur. They are adjusted so that on average one neutron from each fission causes another, keeping the power output steady.",
   "caption": "Control rods hold the chain reaction at one further fission per fission.",
-  "bytes": 67492
+  "bytes": 67444
  },
  {
   "file": "edexcel-igcse-physics-4ph1-fission-and-fusion--05-fission-vs-fusion.webp",

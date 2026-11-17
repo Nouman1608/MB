@@ -24,7 +24,7 @@
   "after": "## Melting, evaporating and boiling (5.9P)",
   "alt": "Two beakers. In evaporation only the fastest particles at the surface escape, so the liquid left behind has a lower average kinetic energy and cools. In boiling, bubbles of gas form throughout the liquid at the boiling point and the temperature stays constant.",
   "caption": "Evaporation: surface only, any temperature, cools the liquid. Boiling: throughout, at the boiling point.",
-  "bytes": 137596
+  "bytes": 137676
  },
  {
   "file": "edexcel-igcse-physics-4ph1-change-of-state--04-heating-curve-ice-to-steam.webp",
@@ -60,7 +60,7 @@
   "after": "## The specific heat capacity practical (5.14P)",
   "alt": "An insulated aluminium block with an electric heater and a thermometer in its holes, a drop of oil around the thermometer bulb. The heater is connected to a power supply with an ammeter in series and a voltmeter across the heater.",
   "caption": "Measure I, V and t for the energy, and m and ΔT for the block, then c = E ÷ (m × ΔT).",
-  "bytes": 59404
+  "bytes": 59444
  },
  {
   "file": "edexcel-igcse-physics-4ph1-change-of-state--08-shc-results-evaluation.webp",

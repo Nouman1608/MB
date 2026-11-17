@@ -106,7 +106,7 @@ const dimArrow = (x1, y1, x2, y2, lab, lx, ly, anchor = 'middle') => arrow(x1, y
     steps(30, 490, 840, [
       ['mass of oil = 128.0 − 82.0 = 46.0 g'],
       ['ρ = m ÷ V = 46.0 ÷ 50.0 = 0.920 g/cm³'],
-      ['= 920 kg/m³   (× 1000 to change g/cm³ to kg/m³)', { dx: 22, weight: 700, fill: C.tealDark }],
+      ['= 920 kg/m³   (× 1000 to change g/cm³ to kg/m³)', { dx: 22, weight: 700, fill: C.tealDark }],
     ], { lh: 38, size: 20 });
   add('02-density-of-a-liquid', svg(900, 645, 'Density of a liquid: oil', body),
     'An empty measuring cylinder reads 82.0 g on a balance; with 50.0 cm³ of oil it reads 128.0 g. The oil has mass 46.0 g, so its density is 46.0 ÷ 50.0 = 0.920 g/cm³, or 920 kg/m³.',
@@ -226,7 +226,7 @@ const dimArrow = (x1, y1, x2, y2, lab, lx, ly, anchor = 'middle') => arrow(x1, y
     t(160, 140, 'tank', { size: 16, weight: 700, anchor: 'middle' }) +
     t(540, 330, 'pipe length is NOT h', { size: 16, weight: 700, fill: C.blue, anchor: 'middle' }) +
     panel(30, 580, 840, 110, C.cream, C.olive) +
-    t(55, 616, 'Upper tap:  p = h × ρ × g = 15 × 1000 × 10 = 150 000 Pa', { size: 18, weight: 700 }) +
+    t(55, 616, 'Upper tap:  p = h × ρ × g = 15 × 1000 × 10 = 150 000 Pa', { size: 18, weight: 700 }) +
     t(55, 646, 'Lower house: larger vertical height below the surface, so a larger pressure', { size: 17 }) +
     t(55, 670, 'difference and the water flows out faster. Always use the vertical height.', { size: 17 });
   add('07-water-tower-vertical-height', svg(900, 710, 'Water supply: use the vertical height', body),

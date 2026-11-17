@@ -129,7 +129,7 @@ const rod = (x, y, w, fill, lab) => rect(x, y, w, 34, { fill, sw: 2.5, rx: 17 })
     ['Shock from a door handle', 'Shoes rub on nylon carpet: electrons transfer', 'The person becomes charged', 'Touching the metal handle: electrons flow suddenly to or from earth (shock, spark)'],
     ['Clothes in a dryer', 'Different fabrics rub: electrons transfer', 'Items gain opposite charges', 'Oppositely charged items attract and cling'],
   ];
-  const heads = ['1  Rubbing', '2  Charge', '3  Result'];
+  const heads = ['1  Rubbing', '2  Charge', '3  Result'];
   const xs = [225, 442, 659], cw = 207;
   let body = heads.map((h, i) => t(xs[i] + cw / 2, 140, h, { size: 19, weight: 700, anchor: 'middle', fill: [C.tealDark, C.olive, C.rust][i] })).join('');
   rows.forEach(([name, a, b, c], r) => {

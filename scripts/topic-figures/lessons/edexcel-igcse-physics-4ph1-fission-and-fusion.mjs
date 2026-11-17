@@ -127,7 +127,7 @@ const blob = (cx, cy, r, n, seed = 1) => { let s = ''; let k = seed; for (let i 
     box(610, 115, 260, 90, 'More neutrons absorbed: fewer fissions') + arrow(740, 208, 740, 238, { w: 4 }) +
     box(320, 242, 550, 95, 'Adjusted so on average ONE neutron from each fission causes another fission', C.tealLight, C.tealDark) + arrow(318, 290, 292, 290, { w: 4 }) +
     box(30, 242, 260, 95, 'Rate of fission and power output stay steady', C.cream, C.olive) +
-    t(450, 375, 'Average of 1: steady.   More than 1: the number of fissions grows rapidly (1, 2 or 3, perhaps 9, 27 ...).', { size: 16, anchor: 'middle', fill: C.muted });
+    t(450, 375, 'Average of 1: steady.   More than 1: the number of fissions grows rapidly (1, 2 or 3, perhaps 9, 27 ...).', { size: 16, anchor: 'middle', fill: C.muted });
   add('04-control-rods-steady-output', svg(900, 400, 'How control rods keep the power steady', body),
     'A chain of boxes: if the rate of fission rises, the control rods are lowered further in, more neutrons are absorbed and fewer fissions occur. They are adjusted so that on average one neutron from each fission causes another, keeping the power output steady.',
     'Control rods hold the chain reaction at one further fission per fission.',

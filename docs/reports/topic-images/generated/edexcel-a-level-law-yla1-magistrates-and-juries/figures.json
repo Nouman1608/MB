@@ -1,0 +1,74 @@
+[
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--01-why-lay-people.webp",
+  "width": 900,
+  "height": 561,
+  "after": "## Why lay people?",
+  "alt": "Magistrates decide the great majority of criminal cases and juries decide guilt in the most serious ones, though neither has a legal qualification. A balance weighs the justification, democratic participation, against the criticisms of competence, consistency and representativeness.",
+  "caption": "Lay justice is justified by democratic participation and criticised for competence, consistency and representativeness.",
+  "bytes": 68504
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--02-becoming-a-magistrate.webp",
+  "width": 900,
+  "height": 799,
+  "after": "## Magistrates",
+  "alt": "Magistrates are appointed from 18 and retire at 75, need no legal qualifications, and sit at least 13 full days a year unpaid. Six key qualities are sought. Vacancies are advertised, a local Advisory Committee interviews and recommends, the Lord Chief Justice appoints, and training is organised through the Judicial College.",
+  "caption": "No legal qualification needed: six qualities, an interview, appointment, then training.",
+  "bytes": 155906
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--03-magistrates-role.webp",
+  "width": 900,
+  "height": 631,
+  "after": "## Magistrates",
+  "alt": "Magistrates sit as a bench of three advised by a legal adviser, who must not take part in the decision; professional District Judges sit alone in busier courts. They try summary and most either way offences, hold first hearings for indictable offences, decide bail, issue warrants, and sit in the youth court (ages 10 to 17) and the family court.",
+  "caption": "A bench of three lay people, advised on law but deciding for themselves.",
+  "bytes": 103128
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--04-magistrates-evaluation.webp",
+  "width": 900,
+  "height": 717,
+  "after": "## Magistrates",
+  "alt": "Advantages of magistrates: local knowledge, low cost, lay involvement, a balanced bench of three, and few successful appeals. Disadvantages: limited or dated local knowledge, reliance on the legal adviser, an older and professional profile, inconsistent sentencing, and the risk of case-hardening, shown in R v Bingham Justices, ex parte Jowitt, where a conviction was quashed because the chairman always believed the police.",
+  "caption": "Each advantage has a matching weakness; support the weaknesses with Jowitt.",
+  "bytes": 131450
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--05-juror-qualifications.webp",
+  "width": 900,
+  "height": 582,
+  "after": "## Jurors",
+  "alt": "Under the Juries Act 1974, s 1, a juror must be on the electoral register, aged 18 to 75, resident in the UK for five years since age 13, and not disqualified or mentally disordered. Disqualification covers a life sentence or custody of five years or more, recent custody or community sentences, and being on bail. Since 2003 judges, lawyers and police can serve, subject to R v Abdroikov.",
+  "caption": "Four qualifications, a criminal-record bar, and no automatic exemptions since 2003.",
+  "bytes": 119728
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--06-jury-selection.webp",
+  "width": 900,
+  "height": 861,
+  "after": "## Jurors",
+  "alt": "The Jury Central Summoning Bureau selects names at random from the electoral register; those summoned form a panel at the Crown Court; twelve are chosen by ballot for each trial. Jurors may be vetted, and challenged for cause by either side or stood by by the prosecution; peremptory challenge was abolished in 1988. There is no right to a racially mixed jury (R v Ford), but Sander v UK found a breach of fair trial.",
+  "caption": "Random selection, a ballot of twelve, then vetting and challenges.",
+  "bytes": 94614
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--07-jury-role-and-secrecy.webp",
+  "width": 900,
+  "height": 806,
+  "after": "## Jurors",
+  "alt": "The jury decides the facts and the verdict; the judge decides the law and sentence. Majority verdicts of 11–1 or 10–2 are allowed after two hours (s 17). Deliberations are secret (Mirza), but misconduct outside the jury room led to a quashed conviction in Young and jail in Fraill and Dallas. Jury equity runs from Bushell’s Case to Ponting and Kronlid; s 44 CJA 2003 allows trial without a jury, first used in Twomey.",
+  "caption": "Juries decide facts in secret; what happens outside the jury room can be examined.",
+  "bytes": 134644
+ },
+ {
+  "file": "edexcel-a-level-law-yla1-magistrates-and-juries--08-jury-evaluation-plan.webp",
+  "width": 900,
+  "height": 591,
+  "after": "## Worked example: an evaluation plan",
+  "alt": "A four-step plan for \"Evaluate the use of juries in criminal trials\": AO1 knowledge of qualifications, selection, role and majority verdicts; points for, such as participation and independence (Bushell, Ponting); points against, such as no reasons, misconduct (Young, Fraill) and bias (Sander, Abdroikov); and a reasoned conclusion.",
+  "caption": "Knowledge, then both sides with cases, then a conclusion that takes a view.",
+  "bytes": 101232
+ }
+]

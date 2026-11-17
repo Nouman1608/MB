@@ -42,7 +42,7 @@
   "after": "## I−V characteristics and how to investigate them (2.9)",
   "alt": "Circuit with a supply, an ammeter and a variable resistor in series with the component under test, and a voltmeter connected across the component. Steps: take at least six readings, reverse the component, and plot current against voltage.",
   "caption": "Vary the resistor, read V and I, reverse the component, and plot I against V.",
-  "bytes": 66412
+  "bytes": 66268
  },
  {
   "file": "edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits--06-iv-characteristics.webp",
