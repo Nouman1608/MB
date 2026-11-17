@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--01-quaternary-swings.webp",
+  "width": 900,
+  "height": 572,
+  "after": "## The Quaternary period",
+  "alt": "A schematic curve of climate across the Quaternary, from about 2.6 million years ago to today, swinging repeatedly between cold glacial periods and warmer interglacials. The present interglacial began about 11,700 years ago.",
+  "caption": "The Quaternary is a story of repeated swings between glacial and interglacial periods.",
+  "bytes": 84108
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--02-evidence-timescales.webp",
+  "width": 900,
+  "height": 679,
+  "after": "## Evidence for climate change",
+  "alt": "Bars on a logarithmic time scale show the reach of each type of evidence: ocean sediment cores cover the whole Quaternary and beyond, Antarctic ice cores about 800,000 years, pollen thousands of years, tree rings hundreds to several thousand, historical records hundreds, instrumental records about 170 years and satellites since the 1970s.",
+  "caption": "Each type of evidence covers a different span; together they reach back through the Quaternary.",
+  "bytes": 110118
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--03-ice-cores-recent-evidence.webp",
+  "width": 900,
+  "height": 518,
+  "after": "## Evidence for climate change",
+  "alt": "Left: an ice core with older layers deeper down; air bubbles record carbon dioxide and the ice chemistry records the temperature when the snow fell. Right: carbon dioxide has risen from about 280 parts per million before the industrial era to more than 420 today, and 2011–2020 was about 1.1 °C warmer than 1850–1900.",
+  "caption": "Ice cores reach back hundreds of thousands of years; instruments show the recent rise.",
+  "bytes": 75694
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--04-natural-causes.webp",
+  "width": 900,
+  "height": 603,
+  "after": "## Natural causes",
+  "alt": "Three natural causes. Orbital changes: the orbit’s shape varies over about 100,000 years, the tilt over about 41,000 and the wobble over about 26,000. Volcanic activity: sulphur dioxide droplets reflect sunlight, as when Pinatubo in 1991 cooled the Earth by about 0.5 °C for a year or two. Solar output: an 11-year sunspot cycle, and the Maunder Minimum during the Little Ice Age.",
+  "caption": "Natural causes act either very slowly or only briefly.",
+  "bytes": 122696
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--05-human-causes.webp",
+  "width": 900,
+  "height": 627,
+  "after": "## Human causes",
+  "alt": "Burning fossil fuels releases carbon dioxide; agriculture releases methane from livestock and rice fields and nitrous oxide from fertilisers; deforestation releases carbon dioxide and removes a carbon store. Together they strengthen the greenhouse effect. Orbital change is too slow and volcanic and solar change too small to explain warming since 1850.",
+  "caption": "Activity, gas, trapped heat: the chain that turns a list into an explanation.",
+  "bytes": 129250
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--06-mitigation-adaptation.webp",
+  "width": 900,
+  "height": 702,
+  "after": "## Managing climate change: mitigation",
+  "alt": "A chain from human activities to emissions, climate change and effects. Mitigation acts on the causes through alternative energy, carbon capture, planting trees and international agreements such as Kyoto and Paris, each with a limitation. Adaptation responds to the effects through changed farming, water management and protection from rising seas.",
+  "caption": "Mitigation cuts the causes; adaptation copes with the effects.",
+  "bytes": 137640
+ },
+ {
+  "file": "oxfordaqa-igcse-geography-9230-climate-change--07-sea-level-adaptation.webp",
+  "width": 900,
+  "height": 593,
+  "after": "## Managing climate change: adaptation",
+  "alt": "A schematic coastal cross-section with present and higher sea levels. Mangroves are restored offshore to absorb wave energy, a sea wall protects the shore, a house is raised on stilts, and people and buildings are moved inland away from the most at-risk coast.",
+  "caption": "Defend, raise, restore or retreat: four ways to reduce the risk from rising seas.",
+  "bytes": 83332
+ }
+]
