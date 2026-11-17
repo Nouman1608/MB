@@ -306,7 +306,7 @@ F('03-other-defences', 'Five more general defences', '', [
       s += top.s;
       const yb = y + top.h + 50;
       const L = card(30, yb, 330, { kicker: 'COMPENSATORY', title: 'Restore the claimant, as far as money can', body: '*Livingstone v Rawyards Coal Co* (1880)', fill: C.tealLight, edge: C.tealDark, size: 16, tsize: 18, bfill: C.ink, align: 'middle' });
-      const R = card(390, yb, 480, { kicker: 'NON-COMPENSATORY', title: 'Mark a right, show disapproval, or punish', fill: C.cream, edge: C.olive, size: 16, tsize: 18, align: 'middle', minH: L.h, vcenter: true });
+      const R = card(390, yb, 480, { kicker: 'OTHER KINDS', title: 'Mark a right, show disapproval, soothe feelings, or punish', fill: C.cream, edge: C.olive, size: 16, tsize: 18, align: 'middle', minH: L.h, vcenter: true });
       s += L.s + R.s;
       s += path(`M450,${y + top.h} L450,${y + top.h + 22} M195,${y + top.h + 22} L630,${y + top.h + 22}`, { w: 3 }) + arrow(195, y + top.h + 22, 195, yb - 4) + arrow(630, y + top.h + 22, 630, yb - 4);
       const yc = yb + L.h + 40;
@@ -317,7 +317,7 @@ F('03-other-defences', 'Five more general defences', '', [
       const r2 = grid(yc, [
         { title: 'Nominal', body: 'Infringement of a right, no loss; common in trespass' },
         { title: 'Contemptuous', body: 'Tiny sum, claim had no merit: *Grobbelaar* (2002), £1' },
-        { title: 'Aggravated', body: 'Extra injury to feelings from the manner of the tort' },
+        { title: 'Aggravated', body: 'Compensate extra injury to feelings from the manner of the tort' },
         { title: 'Exemplary', body: 'Punish; only the *Rookes v Barnard* (1964) categories' },
       ], 2, { x: 390, w: 480, gap: 12, vgap: 12, vcenter: false, card: { size: 16, tsize: 18, pad: 14, bfill: C.ink } });
       s += arrow(195, yb + L.h + 6, 195, yc - 6) + arrow(630, yb + R.h + 6, 630, yc - 6);
@@ -327,7 +327,7 @@ F('03-other-defences', 'Five more general defences', '', [
       return { s: s + n.s, h: yd + n.h - y };
     },
   ],
-  'A tree. Compensatory damages restore the claimant (Livingstone v Rawyards) and divide into special damages, quantifiable losses to trial, and general damages such as pain, suffering, loss of amenity and future losses. Non-compensatory damages are nominal, contemptuous (Grobbelaar, £1), aggravated and exemplary, the last only in the three Rookes v Barnard categories.',
+  'A tree. Compensatory damages restore the claimant (Livingstone v Rawyards) and divide into special damages, quantifiable losses to trial, and general damages such as pain, suffering, loss of amenity and future losses. Other kinds of damages are nominal, contemptuous (Grobbelaar, £1), aggravated, which compensate extra injury to feelings, and exemplary, which punish, the last only in the three Rookes v Barnard categories.',
   'Most damages compensate; exemplary damages punish, and only in three categories.', H2.rem);
 }
 

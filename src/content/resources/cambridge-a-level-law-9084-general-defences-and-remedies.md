@@ -115,7 +115,7 @@ into:
 - **General damages:** losses not precisely calculable, including pain, suffering and loss of amenity,
   and future losses.
 
-**Non-compensatory damages** include:
+**Other kinds of damages** include:
 
 - **Nominal damages** to mark the infringement of a right where there is no loss, common in trespass.
 - **Contemptuous damages**, a tiny sum showing the court's view that the claim, though technically
