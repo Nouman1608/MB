@@ -28,7 +28,7 @@ featured: false
 
 These questions cover section 1.2, Motion, of the Cambridge IGCSE Physics 0625 syllabus for examination in 2026, 2027 and 2028. Take g = 9.8 m/s².
 
-> **Tier note:** questions 1 to 5, 7 and 9(a)–(b) use Core content only, and every candidate should do them. Question 8(d), question 9(c) and questions 6, 10, 11 and 12, marked *(Extended)*, use Supplement content (1.2 Supplement 9–13), examined on Papers 2 and 4 only. The marks shown are indicative only.
+> **Tier note:** questions 1 to 5 and 7, with parts 8(a)–(c) and 9(a)–(b), use Core content only, and every candidate should do them. Questions 6, 10, 11 and 12, and parts 8(d) and 9(c), marked *(Extended)*, use Supplement content (1.2 Supplement 9–13), examined on Papers 2 and 4 only. The marks shown are indicative only.
 
 Related: [study guide on motion](/resources/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics/), [revision notes on motion](/resources/cambridge-igcse-physics-0625-motion-cambridge-igcse-physics-revision-notes/), [Motion, forces and energy Extended practice](/resources/igcse-physics-motion-forces-and-energy-extended-practice/).
 
