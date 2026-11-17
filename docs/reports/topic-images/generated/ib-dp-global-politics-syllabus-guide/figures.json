@@ -1,0 +1,38 @@
+[
+ {
+  "file": "ib-dp-global-politics-syllabus-guide--01-hours-split.webp",
+  "width": 900,
+  "height": 456,
+  "after": "## Core (125 hours, both SL and HL)",
+  "alt": "Two stacked bars. SL, 150 hours: core 125 and engagement project 25. HL, 240 hours: core 125, engagement project 35 and HL extension 80.",
+  "caption": "The 125-hour core is identical at SL and HL.",
+  "bytes": 48084
+ },
+ {
+  "file": "ib-dp-global-politics-syllabus-guide--02-concepts-and-thematic-studies.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## Core (125 hours, both SL and HL)",
+  "alt": "Four concepts, power, sovereignty, legitimacy and interdependence, sit above the three thematic studies and feed into each: rights and justice, development and sustainability, and peace and conflict. All three studies are compulsory at SL and HL.",
+  "caption": "Every student studies all three themes and applies the four concepts in each.",
+  "bytes": 108832
+ },
+ {
+  "file": "ib-dp-global-politics-syllabus-guide--03-engagement-project-sl-hl.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## Internal assessment -- engagement project (25 hours SL / 35 hours HL)",
+  "alt": "Side-by-side columns. SL: 25 hours, a written report on a political issue of up to 2,000 words, marked on criteria A to E. HL: 35 hours, the same report up to 2,400 words, plus further research and a recommendation assessed by an extra criterion F worth 6 marks.",
+  "caption": "HL adds a real extra task: a recommendation, marked by criterion F.",
+  "bytes": 92490
+ },
+ {
+  "file": "ib-dp-global-politics-syllabus-guide--04-hl-extension.webp",
+  "width": 900,
+  "height": 676,
+  "after": "## HL extension only -- Global political challenges (80 hours, HL only)",
+  "alt": "The 80-hour HL-only extension is independent research into cases the student selects, linked to eight topic areas: borders, environment, equality, health, identity, poverty, security and technology. Students research at least two case studies across at least two topic areas, examined in Paper 3, worth 30% of the HL grade.",
+  "caption": "At least two cases, in at least two topic areas, for a paper worth 30%.",
+  "bytes": 87754
+ }
+]

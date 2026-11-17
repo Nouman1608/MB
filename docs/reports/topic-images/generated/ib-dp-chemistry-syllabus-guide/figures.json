@@ -1,0 +1,29 @@
+[
+ {
+  "file": "ib-dp-chemistry-syllabus-guide--01-structure-reactivity-map.webp",
+  "width": 900,
+  "height": 1155,
+  "after": "## Reading the Structure / Reactivity split",
+  "alt": "Structure 1 to 3 sit in one column and Reactivity 1 to 3 in the other, each with its numbered sub-topics. Reactivity 1.4, entropy and spontaneity, is HL only; Reactivity 3.2 and 3.4 contain additional higher level content.",
+  "caption": "Structure asks what matter is made of; Reactivity asks why and how it changes.",
+  "bytes": 190120
+ },
+ {
+  "file": "ib-dp-chemistry-syllabus-guide--02-teaching-hours-by-component.webp",
+  "width": 900,
+  "height": 912,
+  "after": "## Reactivity 3 -- What are the mechanisms of chemical change? (24 hours SL / 45 hours HL)",
+  "alt": "Paired bars of recommended hours: Structure 1 17 SL and 21 HL, Structure 2 20 and 30, Structure 3 16 and 31, Reactivity 1 12 and 22, Reactivity 2 21 and 31, Reactivity 3 24 and 45. Syllabus content totals 110 hours at SL and 180 at HL, plus a 40-hour or 60-hour experimental programme.",
+  "caption": "Reactivity 3, on mechanisms, is the largest component at both levels.",
+  "bytes": 123054
+ },
+ {
+  "file": "ib-dp-chemistry-syllabus-guide--03-reactivity-draws-on-structure.webp",
+  "width": 900,
+  "height": 668,
+  "after": "## How to approach it",
+  "alt": "Arrows run from Structure to Reactivity: particle behaviour from Structure 1 feeds entropy and spontaneity (Reactivity 1.4, HL only), and electron configurations, bonding models and periodic trends feed the four mechanism types of Reactivity 3. A revision habit below asks what bonding model explains each mechanism.",
+  "caption": "Revise the two strands in parallel and keep crossing between them.",
+  "bytes": 100908
+ }
+]
