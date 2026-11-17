@@ -79,13 +79,13 @@ const rect = (x, y, w, h, fill, stroke = C.ink, sw = 2.5, rx = 12) =>
     const y = 115 + i * 130;
     b += panel(40, y, 820, 116);
     // mini diagram
-    const dx = 70, dy = y + 30;
+    const dx = 70, dy = y + 18;
     const box = (x, s, f) => rect(x, dy, 90, 46, f, C.ink, 2, 9) + t(x + 45, dy + 29, s, { size: 15, weight: 700, anchor: 'middle' });
     if (kind === 'L') b += box(dx, 'language', C.cream) + arrow(dx + 92, dy + 23, dx + 128, dy + 23, { w: 6, color: col, marker: 'ahR' }) + box(dx + 132, 'thought', C.panel);
     if (kind === 'l') b += box(dx, 'language', C.cream) + arrow(dx + 92, dy + 23, dx + 128, dy + 23, { w: 2.5, color: col, marker: 'ahT', dash: '6 4' }) + box(dx + 132, 'thought', C.panel);
     if (kind === 'T') b += box(dx, 'thought', C.panel) + arrow(dx + 92, dy + 23, dx + 128, dy + 23, { w: 3.5, color: col, marker: 'ahO' }) + box(dx + 132, 'language', C.cream);
     if (kind === 'M') b += box(dx, 'mentalese', C.tealLight) + arrow(dx + 92, dy + 23, dx + 128, dy + 23, { w: 3.5 }) + box(dx + 132, 'language', C.cream);
-    b += tl(70, y + 98 - (wrap(claim, 30).length - 1) * 9, wrap(claim, 30), { size: 15, fill: C.muted }, 18);
+    b += tl(70, y + 88, wrap(claim, 30), { size: 15, fill: C.muted }, 18);
     b += t(345, y + 34, h, { size: 19, weight: 700, fill: col }) + (sub ? t(345 + h.length * 10.4 + 14, y + 34, sub, { size: 15, fill: C.muted }) : '') +
       tl(345, y + 64, wrap(ev, 52), { size: 16 }, 22);
   });
