@@ -583,12 +583,13 @@ F('06-reconstruction', 'Reconstruction: what changed, what did not', 'Three phas
       { v: 1877, d: '1877', label: ['Compromise:', 'troops out'], side: 'up', key: true },
     ],
   }),
-  (y) => pairs(y, [
+  (y) => { const p = pairs(y, [
     { d: '13th', l: { title: 'Slavery abolished (1865)', body: '' }, r: { title: 'Sharecropping', body: 'Most freedpeople tied by debt' } },
     { d: '14th', l: { title: 'Citizenship, equal protection', body: '' }, r: { title: 'Courts narrowed it', body: 'In the 1870s' } },
     { d: '15th', l: { title: 'Black men vote; Hiram Revels', body: '' }, r: { title: 'Klan violence', body: 'Black voters driven from the polls' } },
-    { d: 'Land', l: { title: 'Freedmen\'s Bureau schools', body: 'New Black colleges, churches' }, r: { title: 'No redistribution', body: '"Forty acres" reversed' } },
-  ], { lh: 'WHAT CHANGED', rh: 'WHAT DID NOT', pw: 84 }),
+    { d: 'Bureau', l: { title: 'Freedmen\'s Bureau schools', body: 'New Black colleges, churches' }, r: { title: 'No redistribution', body: '"Forty acres" reversed' } },
+  ].map((r) => ({ ...r, l: { ...r.l, fill: C.tealLight, edge: C.tealDark }, r: { ...r.r, fill: C.panel, edge: C.rust } })), { lh: '', rh: '', pw: 84 });
+    return { s: p.s + T(210, y + 16, 'WHAT CHANGED', { size: 17, weight: 700, anchor: 'middle', fill: C.tealDark }) + T(690, y + 16, 'WHAT DID NOT', { size: 17, weight: 700, anchor: 'middle', fill: C.rust }), h: p.h }; },
 ],
 'A timeline from 1863 to 1877 with three phases: Lincoln\'s Ten Per Cent Plan, Johnson\'s presidential Reconstruction with Black Codes, and Radical Reconstruction from 1867 to the Compromise of 1877. Below, paired rows: the 13th, 14th and 15th Amendments and Freedmen\'s Bureau schools against sharecropping, narrowing courts, Klan violence and no land redistribution.',
 'Reconstruction succeeded in law but failed in enforcement by 1877.', H2.rec);
