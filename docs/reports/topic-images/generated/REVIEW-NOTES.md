@@ -9,7 +9,7 @@ All 330 pages in [`topic-images-needed.csv`](../topic-images-needed.csv) (284 to
 - **Urdu figures** (`*urdu*` folders): an Urdu teacher should glance over one or two sets before publishing. A good first check: `cambridge-igcse-urdu-language-exercise-1-short-answer-questions`.
 - Figures that show a shape, not data (graphs, pyramids, bar heights) are labelled "illustrative", "schematic" or "shape only" on the figure. Maps are schematics marked "not to scale".
 
-## Lesson-text points: resolved (17 Nov 2026, D-485)
+## Lesson-text points: resolved (17 Nov 2026, D-487)
 
 Fixed in the lessons (and, where shown, in a redrawn figure with a new file name): AQA GCSE sampling methods (figure 03), Bourdieu's label (figure 05), Willis as Marxist, the Arafat wording, the sources-of-authority checklist, the 4ET1 word budget (figure 06), O Level/IGCSE Paper 2 advice, IGCSE family structures, "Medina" to "Madinah" (caliphs figures 02 and 03) and the MYP Design holdall idea (figure 05).
 

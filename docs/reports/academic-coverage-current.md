@@ -5,14 +5,14 @@ hand: `npm run coverage:academic-v2` writes this file, [`academic-coverage-curre
 and [`academic-coverage-current.csv`](academic-coverage-current.csv) from one dataset in one run, so all three
 agree. Older reports in this folder are dated historical evidence; see [README.md](README.md).
 
-Data as of **2026-11-16** (the latest date found in the data; no generation timestamp is
+Data as of **2026-11-17** (the latest date found in the data; no generation timestamp is
 written, so an unchanged repository regenerates identical files).
 
 ## Totals
 
 | Measure | Value |
 | --- | --- |
-| Source resources | 8641 |
+| Source resources | 8925 |
 | Active board × qualification × subject combinations | 166 |
 | Combinations with an official-source record | 166/166 |
 | Combinations with a topic map | 166/166 |
@@ -20,7 +20,7 @@ written, so an unchanged repository regenerates identical files).
 | Combinations under 8 resources | 0 |
 | Combinations with topics that have no resource | 0 |
 | Median resources per combination | 47 |
-| Median words per resource | 2196 |
+| Median words per resource | 2178 |
 | Resources under 900 words | 0 |
 | Resources under 400 words | 0 |
 | Demand | NO_DATA (no analytics, Search Console, CRM or enrolment source is read) |
@@ -40,7 +40,7 @@ source, a verification date, components with marks and durations, and an assessm
 
 | reviewStatus | Resources |
 | --- | --- |
-| reviewed | 8641 |
+| reviewed | 8925 |
 
 `reviewed` means a named Marlbridge subject teacher is credited as accountable for the page
 (owner decision D-379); it is not a record of a dated, line-by-line check. `review-pending`
@@ -51,10 +51,10 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | Type | Resources |
 | --- | --- |
-| study-guides | 2752 |
-| revision-notes | 2795 |
+| study-guides | 2842 |
+| revision-notes | 2889 |
 | past-papers | 59 |
-| practice-questions | 2705 |
+| practice-questions | 2805 |
 | exam-preparation | 165 |
 | subject-guides | 165 |
 | learning-articles | 0 |
@@ -63,33 +63,33 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 | boards | Resources |
 | --- | --- |
-| aqa | 1183 |
-| cambridge | 2607 |
-| edexcel | 1117 |
+| aqa | 1264 |
+| cambridge | 2707 |
+| edexcel | 1153 |
 | ib | 1113 |
 | ocr | 1137 |
-| oxfordaqa | 1484 |
+| oxfordaqa | 1551 |
 
 ## By board
 
 | Board | Combinations | Official source record | Topic map | Resources | Under 8 resources | Assessment complete | Reviewed | Review-pending |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AQA | 26 | 26 | 26 | 1381 | 0 | 26 | 1381 | 0 |
-| Cambridge | 55 | 55 | 55 | 2759 | 0 | 55 | 2759 | 0 |
-| Pearson Edexcel | 21 | 21 | 21 | 1117 | 0 | 21 | 1117 | 0 |
+| AQA | 26 | 26 | 26 | 1462 | 0 | 26 | 1462 | 0 |
+| Cambridge | 55 | 55 | 55 | 2859 | 0 | 55 | 2859 | 0 |
+| Pearson Edexcel | 21 | 21 | 21 | 1153 | 0 | 21 | 1153 | 0 |
 | International Baccalaureate | 21 | 21 | 21 | 1113 | 0 | 19 | 1113 | 0 |
 | OCR | 13 | 13 | 13 | 1289 | 0 | 13 | 1289 | 0 |
-| OxfordAQA | 30 | 30 | 30 | 1484 | 0 | 30 | 1484 | 0 |
+| OxfordAQA | 30 | 30 | 30 | 1551 | 0 | 30 | 1551 | 0 |
 
 ## By qualification
 
 | Qualification | Combinations | Resources (per-combination count, a resource can count for more than one) |
 | --- | --- | --- |
-| GCSE | 18 | 903 |
-| A Level | 59 | 3940 |
+| GCSE | 18 | 948 |
+| A Level | 59 | 4106 |
 | AS Level | 3 | 350 |
-| IGCSE | 47 | 2017 |
-| O Level | 18 | 820 |
+| IGCSE | 47 | 2074 |
+| O Level | 18 | 836 |
 | IB Diploma Programme | 16 | 919 |
 | IB Middle Years Programme | 5 | 194 |
 
@@ -112,7 +112,7 @@ verification of every pending page, is in [academic-review/ledger-summary.md](ac
 
 - None.
 
-## Stale verification (older than 180 days before 2026-11-16)
+## Stale verification (older than 180 days before 2026-11-17)
 
 - None.
 
@@ -137,7 +137,7 @@ Overall: no review-pending resources.
 | AQA | GCSE | Business | 8132 | 42 | 42 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | GCSE | Chemistry | 8462 | 51 | 51 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | GCSE | Economics | 8136 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | English Language | 8700 | 14 | 14 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| AQA | GCSE | English Language | 8700 | 39 | 39 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | GCSE | World History | 8145 | 18 | 18 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | GCSE | Mathematics | 8300 | 42 | 42 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | GCSE | Physics | 8463 | 33 | 33 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -149,7 +149,7 @@ Overall: no review-pending resources.
 | AQA | A Level | Chemistry | 7405 | 110 | 110 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | A Level | Computer Science | 7517 | 46 | 46 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | A Level | Economics | 7136 | 133 | 133 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | English Language | 7702 | 16 | 16 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| AQA | A Level | English Language | 7702 | 42 | 42 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | A Level | Law | 7162 | 25 | 25 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | A Level | Mathematics | 7357 | 93 | 93 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | A Level | Physics | 7408 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -157,17 +157,17 @@ Overall: no review-pending resources.
 | AQA | A Level | Sociology | 7192 | 39 | 39 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | AS Level | Business | 7137 | 65 | 65 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | AQA | AS Level | Economics | 7135 | 133 | 133 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | GCSE | English Literature | 8702 | 13 | 13 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| AQA | A Level | English Literature | 7712 / 7717 | 14 | 14 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| AQA | GCSE | English Literature | 8702 | 33 | 33 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| AQA | A Level | English Literature | 7712 / 7717 | 24 | 24 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | A Level | Accounting | 9706 | 47 | 47 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Biology | 9700 | 92 | 92 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Business | 9609 | 86 | 86 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Computer Science | 9618 | 66 | 66 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Economics | 9708 | 167 | 167 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
-| Cambridge | A Level | English Language | 9093 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
+| Cambridge | A Level | English Language | 9093 | 33 | 33 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | World History | 9489 | 29 | 29 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Information Technology | 9626 | 67 | 67 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
-| Cambridge | A Level | Law | 9084 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
+| Cambridge | A Level | Law | 9084 | 57 | 57 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Mathematics | 9709 | 64 | 64 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Cambridge | A Level | Physics | 9702 | 78 | 78 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | A Level | Psychology | 9990 | 23 | 23 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
@@ -195,11 +195,11 @@ Overall: no review-pending resources.
 | Cambridge | O Level | Statistics | 4040 | 59 | 59 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Accounting | 7707 | 77 | 77 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | English Literature | 0475 | 17 | 17 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| Cambridge | A Level | English Literature | 9695 | 15 | 15 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
+| Cambridge | A Level | English Literature | 9695 | 39 | 39 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
 | Cambridge | IGCSE | Pakistan Studies | 0448 | 28 | 28 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | O Level | Pakistan Studies | 2059 | 33 | 33 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Islamiyat | 0493 | 17 | 17 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Cambridge | O Level | Islamiyat | 2058 | 16 | 16 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| Cambridge | O Level | Islamiyat | 2058 | 32 | 32 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | IGCSE | Geography | 0460 | 46 | 46 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Cambridge | O Level | Geography | 2217 | 68 | 68 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Cambridge | A Level | Geography | 9696 | 57 | 57 / 0 | VERIFIED_COMPLETE (staged) | 0 | None. |
@@ -226,7 +226,7 @@ Overall: no review-pending resources.
 | Pearson Edexcel | IGCSE | Biology | 4BI1 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Chemistry | 4CH1 | 42 | 42 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Economics | 4EC1 | 69 | 69 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| Pearson Edexcel | IGCSE | English Language | 4EA1 | 14 | 14 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
+| Pearson Edexcel | IGCSE | English Language | 4EA1 | 32 | 32 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | Pearson Edexcel | IGCSE | World History | 4HI1 | 70 | 70 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Mathematics | 4MA1 | 56 | 56 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | Physics | 4PH1 | 26 | 26 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
@@ -234,7 +234,7 @@ Overall: no review-pending resources.
 | Pearson Edexcel | IGCSE | Business | 4BS1 | 47 | 47 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | GCSE | Business | 1BS0 | 56 | 56 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | Pearson Edexcel | IGCSE | English Literature | 4ET1 | 32 | 32 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
-| Pearson Edexcel | A Level | English Literature | YET01 | 14 | 14 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
+| Pearson Edexcel | A Level | English Literature | YET01 | 32 | 32 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Business | DP Business Management | 94 | 94 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | International Baccalaureate | IB Diploma Programme | Language A: Language and Literature | DP Language A: Language and Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
 | International Baccalaureate | IB Diploma Programme | Language A: Literature | DP Language A: Literature | 34 | 34 / 0 | VERIFIED_PARTIAL (component-based) | 0 | Complete the assessment record from the official specification. |
@@ -277,13 +277,13 @@ Overall: no review-pending resources.
 | OxfordAQA | IGCSE | Biology | 9201 | 50 | 50 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Chemistry | 9202 | 63 | 63 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Physics | 9203 | 74 | 74 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | English Language | 9270 | 14 | 14 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
+| OxfordAQA | IGCSE | English Language | 9270 | 26 | 26 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | IGCSE | English Literature | 9275 | 29 | 29 / 0 | VERIFIED_COMPLETE (component-based) | 0 | None. |
 | OxfordAQA | IGCSE | Geography | 9230 | 14 | 14 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | World History | 9245 | 14 | 14 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | Islamiyat | 9237 | 13 | 13 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | World History | 9245 | 20 | 20 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | Islamiyat | 9237 | 15 | 15 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Pakistan Studies | 9236 | 23 | 23 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
-| OxfordAQA | IGCSE | Psychology | 9218 | 12 | 12 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
+| OxfordAQA | IGCSE | Psychology | 9218 | 31 | 31 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Sociology | 9292 | 20 | 20 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | IGCSE | Urdu Language | 9264 | 44 | 44 / 0 | VERIFIED_COMPLETE (linear) | 0 | None. |
 | OxfordAQA | A Level | Accounting | 9615 | 62 | 62 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
@@ -294,8 +294,8 @@ Overall: no review-pending resources.
 | OxfordAQA | A Level | Biology | 9610 | 75 | 75 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Chemistry | 9620 | 106 | 106 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Physics | 9630 | 107 | 107 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
-| OxfordAQA | A Level | English Language | 9670 | 15 | 15 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
-| OxfordAQA | A Level | English Literature | 9675 | 14 | 14 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
+| OxfordAQA | A Level | English Language | 9670 | 31 | 31 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
+| OxfordAQA | A Level | English Literature | 9675 | 26 | 26 / 0 | VERIFIED_COMPLETE (mixed) | 0 | None. |
 | OxfordAQA | A Level | Geography | 9635 | 27 | 27 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Psychology | 9685 | 26 | 26 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
 | OxfordAQA | A Level | Sociology | 9690 | 22 | 22 / 0 | VERIFIED_COMPLETE (modular) | 0 | None. |
