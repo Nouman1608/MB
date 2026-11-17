@@ -122,6 +122,16 @@ These notes condense three widely taught content areas from the HL History of As
 | Household responsibility system | Chinese reform giving farm households control over production after quotas |
 | Special Economic Zone | Area with incentives for foreign investment and market activity |
 
+## Essay angles to prepare
+
+| Content area | Question angle | Factors to weigh |
+|---|---|---|
+| Late Qing | Why did reform fail to save the dynasty? | Conservative resistance, foreign pressure, regionalism, the effects of the New Policies |
+| 1911 | How important was Sun Yat-sen? | Ideology and organization against the army, provincial elites and the railway crisis |
+| Japan | Why did party government collapse after 1930? | Depression, military independence, assassinations, the Manchurian success |
+| Road to war | Why did Japan attack the USA in 1941? | Oil embargo, war in China, the resources of South-East Asia, Axis alignment |
+| Deng | How far did China change under Deng? | Economic reform against political continuity |
+
 ## Exam traps
 
 - **Writing the whole nineteenth century** when the question asks about 1901-1911.

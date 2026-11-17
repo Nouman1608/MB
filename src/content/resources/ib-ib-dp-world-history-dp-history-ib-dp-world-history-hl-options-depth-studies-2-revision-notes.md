@@ -107,6 +107,16 @@ Three 15-mark essays in 2 hours 30 minutes, from 36 questions (two on each of th
 | Segregation / Jim Crow | Legal separation of races in the US South |
 | Direct action | Protest such as sit-ins and boycotts that confronts injustice publicly |
 
+## Essay angles to prepare
+
+| Content area | Question angle | Factors to weigh |
+|---|---|---|
+| Civil War causes | Was slavery the main cause of the war? | Expansion of slavery, states' rights, economic differences, the breakdown of parties, Lincoln's election |
+| Union victory | Why did the North win? | Resources, blockade, leadership, emancipation, Confederate weaknesses |
+| Reconstruction | How far did Reconstruction succeed? | Amendments, Freedmen's Bureau, Black officeholders, Black Codes, violence, the 1877 settlement |
+| Mexican Revolution | Why did the revolution last so long? | Divided aims of leaders, foreign intervention, regional armies, weak central state |
+| Civil rights | Why did progress come in the 1960s? | Grassroots action, courts, presidents, media, Cold War image |
+
 ## Exam traps
 
 - **Slavery left out of Civil War causes.** It was central to every crisis of the 1850s.

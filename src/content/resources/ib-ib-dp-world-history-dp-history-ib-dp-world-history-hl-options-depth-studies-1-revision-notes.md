@@ -112,6 +112,16 @@ These notes condense widely taught content areas in the HL History of Africa and
 | Mandate | League of Nations territory administered by a European power |
 | White Revolution | The Shah's reform programme from 1963 |
 
+## Essay angles to prepare
+
+| Content area | Question angle | Factors to weigh |
+|---|---|---|
+| Imperialism | Why was partition so rapid after 1880? | Rivalry, technology, economic motives, the Berlin Conference, African divisions |
+| Resistance | Why did Ethiopia survive when most states fell? | Menelik's army and diplomacy, Italian errors, terrain, unity |
+| South Africa | Why did apartheid last until 1990? | Repression, economic growth, Western Cold War support, opposition divisions |
+| Egypt | How successful was Nasser? | Domestic reform against foreign policy, Suez against 1967 |
+| Iran | Why did the Shah fall in 1979? | Modernization, repression, economic crisis, Khomeini, a broad coalition |
+
 ## Exam traps
 
 - **Answering on "Africa" in general** when the question names a country.
