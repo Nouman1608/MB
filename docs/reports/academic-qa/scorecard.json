@@ -3,40 +3,40 @@
   "totals": {
     "rubricVersion": "1.0.0",
     "scope": "src/content/resources (articles and the AP library are not in scope for v1)",
-    "resources": 8641,
+    "resources": 8925,
     "qaState": {
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
-      "REVISION_REQUIRED": 2,
+      "REVERIFICATION_REQUIRED": 2,
+      "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 1,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 8637,
+      "AUTOMATED_CHECK_COMPLETE": 8921,
       "NOT_ASSESSED": 0
     },
     "scoreStatus": {
-      "COMPLETE": 3,
-      "NOT_SCORED": 8637,
-      "STALE": 1
+      "COMPLETE": 2,
+      "NOT_SCORED": 8921,
+      "STALE": 2
     },
-    "withCompleteCurrentScore": 3,
-    "meanScore": 83.7,
-    "medianScore": 82.5,
+    "withCompleteCurrentScore": 2,
+    "meanScore": 88,
+    "medianScore": 88,
     "scoreDistribution": {
       "90-100": 1,
-      "75-89.9": 2,
+      "75-89.9": 1,
       "50-74.9": 0,
       "0-49.9": 0
     },
     "meetingTarget": 1,
-    "needingRevision": 2,
+    "needingRevision": 1,
     "withOpenHardStop": 0,
     "verificationKinds": {
-      "automatedStructuralPass": 7888,
+      "automatedStructuralPass": 8172,
       "automatedStructuralWarn": 753,
       "automatedStructuralFail": 0,
       "repositorySpecificationCheck": 780,
       "accountableTeacherCredited": 8641,
-      "aiAssistedAssessmentCurrent": 3,
+      "aiAssistedAssessmentCurrent": 2,
       "humanAssessmentCurrent": 0,
       "documentedTeacherVerification": 0,
       "finalApproval": 0
@@ -45,25 +45,25 @@
       "REPO_PARTIAL_UNVERIFIABLE": 153,
       "REPO_VERIFIED": 585,
       "REPO_VERIFIED_AFTER_CORRECTION": 42,
-      "TEACHER_CREDITED": 7861
+      "TEACHER_CREDITED": 7861,
+      "UNVERIFIED": 284
     },
     "findingsOpenBySeverity": {
-      "advisory": 15,
-      "major": 2,
-      "minor": 13
+      "advisory": 12,
+      "minor": 7
     },
     "findingsOpenByCheck": {
-      "1 syllabus-accuracy": 7,
-      "2 factual-accuracy": 2,
-      "3 worked-answers": 5,
-      "4 depth": 2,
-      "5 source-traceability": 4,
-      "6 clarity-accessibility": 5,
-      "7 originality-copyright": 2,
-      "8 editorial-accountability": 3
+      "1 syllabus-accuracy": 4,
+      "3 worked-answers": 4,
+      "4 depth": 1,
+      "5 source-traceability": 3,
+      "6 clarity-accessibility": 4,
+      "7 originality-copyright": 1,
+      "8 editorial-accountability": 2
     },
     "riskTier": {
       "2": 3,
+      "3": 284,
       "4": 153,
       "5": 219,
       "6": 2659,
@@ -85,35 +85,35 @@
   },
   "byBoard": {
     "aqa": {
-      "resources": 1183,
+      "resources": 1264,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 0,
-      "REVISION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 1,
+      "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1182,
+      "AUTOMATED_CHECK_COMPLETE": 1263,
       "NOT_ASSESSED": 0,
-      "scored": 1
+      "scored": 0
     },
     "cambridge": {
-      "resources": 2607,
+      "resources": 2707,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 1,
       "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 1,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 2604,
+      "AUTOMATED_CHECK_COMPLETE": 2704,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
     "edexcel": {
-      "resources": 1117,
+      "resources": 1153,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1117,
+      "AUTOMATED_CHECK_COMPLETE": 1153,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -140,28 +140,28 @@
       "scored": 0
     },
     "oxfordaqa": {
-      "resources": 1484,
+      "resources": 1551,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 1484,
+      "AUTOMATED_CHECK_COMPLETE": 1551,
       "NOT_ASSESSED": 0,
       "scored": 0
     }
   },
   "byQualification": {
     "a-level": {
-      "resources": 3915,
+      "resources": 4081,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 1,
-      "REVISION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 2,
+      "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 3913,
+      "AUTOMATED_CHECK_COMPLETE": 4079,
       "NOT_ASSESSED": 0,
-      "scored": 1
+      "scored": 0
     },
     "as-level": {
       "resources": 195,
@@ -175,13 +175,13 @@
       "scored": 0
     },
     "gcse": {
-      "resources": 903,
+      "resources": 948,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 903,
+      "AUTOMATED_CHECK_COMPLETE": 948,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -208,24 +208,24 @@
       "scored": 0
     },
     "igcse": {
-      "resources": 2017,
+      "resources": 2074,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 1,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 2015,
+      "AUTOMATED_CHECK_COMPLETE": 2072,
       "NOT_ASSESSED": 0,
       "scored": 2
     },
     "o-level": {
-      "resources": 820,
+      "resources": 836,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 819,
+      "AUTOMATED_CHECK_COMPLETE": 835,
       "NOT_ASSESSED": 0,
       "scored": 1
     }
@@ -254,37 +254,37 @@
       "scored": 0
     },
     "practice-questions": {
-      "resources": 2705,
+      "resources": 2805,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 1,
       "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 2703,
+      "AUTOMATED_CHECK_COMPLETE": 2803,
       "NOT_ASSESSED": 0,
       "scored": 1
     },
     "revision-notes": {
-      "resources": 2795,
+      "resources": 2889,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 2795,
+      "AUTOMATED_CHECK_COMPLETE": 2889,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
     "study-guides": {
-      "resources": 2752,
+      "resources": 2842,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 0,
-      "REVISION_REQUIRED": 1,
+      "REVERIFICATION_REQUIRED": 1,
+      "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 1,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 2750,
+      "AUTOMATED_CHECK_COMPLETE": 2840,
       "NOT_ASSESSED": 0,
-      "scored": 2
+      "scored": 1
     },
     "subject-guides": {
       "resources": 165,
@@ -335,13 +335,13 @@
     "chemistry": {
       "resources": 948,
       "BLOCKED": 0,
-      "REVERIFICATION_REQUIRED": 0,
-      "REVISION_REQUIRED": 2,
+      "REVERIFICATION_REQUIRED": 1,
+      "REVISION_REQUIRED": 1,
       "ACADEMIC_REVIEW_PENDING": 1,
       "VERIFIED_APPROVED": 0,
       "AUTOMATED_CHECK_COMPLETE": 945,
       "NOT_ASSESSED": 0,
-      "scored": 3
+      "scored": 2
     },
     "commerce": {
       "resources": 46,
@@ -377,24 +377,24 @@
       "scored": 0
     },
     "english": {
-      "resources": 100,
+      "resources": 215,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 100,
+      "AUTOMATED_CHECK_COMPLETE": 215,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
     "english-literature": {
-      "resources": 148,
+      "resources": 232,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 148,
+      "AUTOMATED_CHECK_COMPLETE": 232,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -465,13 +465,13 @@
       "scored": 0
     },
     "islamiyat": {
-      "resources": 46,
+      "resources": 64,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 46,
+      "AUTOMATED_CHECK_COMPLETE": 64,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -509,13 +509,13 @@
       "scored": 0
     },
     "law": {
-      "resources": 62,
+      "resources": 104,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 62,
+      "AUTOMATED_CHECK_COMPLETE": 104,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -619,13 +619,13 @@
       "scored": 0
     },
     "psychology": {
-      "resources": 169,
+      "resources": 188,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 1,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 168,
+      "AUTOMATED_CHECK_COMPLETE": 187,
       "NOT_ASSESSED": 0,
       "scored": 0
     },
@@ -663,13 +663,13 @@
       "scored": 0
     },
     "world-history": {
-      "resources": 203,
+      "resources": 209,
       "BLOCKED": 0,
       "REVERIFICATION_REQUIRED": 0,
       "REVISION_REQUIRED": 0,
       "ACADEMIC_REVIEW_PENDING": 0,
       "VERIFIED_APPROVED": 0,
-      "AUTOMATED_CHECK_COMPLETE": 203,
+      "AUTOMATED_CHECK_COMPLETE": 209,
       "NOT_ASSESSED": 0,
       "scored": 0
     }
