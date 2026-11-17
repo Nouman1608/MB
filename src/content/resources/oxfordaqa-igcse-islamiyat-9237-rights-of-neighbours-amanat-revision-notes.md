@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "igcse"
     topic: "paper-2-life-hazrat-muhammad-9237"
     subtopic: "sources-of-authority-9237"
-description: "Recall notes on the rights of neighbours, Amanat, and the prohibition of backbiting, arrogance and jealousy, with key sources and a self-test, 9237 topic 3.2.2.9."
+description: "Recall notes on the rights of neighbours, Amanat and the prohibition of backbiting, arrogance and jealousy, with key sources and a self-test (9237)."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 reviewNeeded: true
@@ -94,6 +94,10 @@ Property left for safekeeping · secrets · promises · a job and working time �
 | Hasad | Envy that wishes a blessing removed from another |
 | Ghibtah | Permitted wish for the same blessing |
 | Akhlaq | Character and manners |
+
+## Using the prescribed Hadith (Sahih al-Bukhari 6016)
+
+The 12-mark question on 3.2.2.9 is built on this Hadith. Three moves: the repeated oath "By Allah, he does not believe" links faith to conduct; "one whose neighbour does not feel safe" sets safety as the minimum right; "from his evil" covers words as well as actions, which lets you bring in backbiting and arrogance.
 
 ## Exam traps
 
