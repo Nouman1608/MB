@@ -132,7 +132,7 @@ OUTPUT i
 ```
 
 **(a)** State the value output. **[1]**
-**(b)** Explain the purpose of the condition `i < 4`. **[2]**
+**(b)** The condition is changed to `WHILE names[i] ≠ "Zak"`. Explain what would go wrong. **[2]**
 
 ---
 
@@ -197,8 +197,8 @@ from the mathematical meaning [1]; use `IF rating ≥ 1 AND rating ≤ 5 THEN` [
 
 
 **13.** **(a)** 2 [1].
-**(b)** It stops the loop once every position (0 to 3) has been checked [1], so that if the name is not in the
-array the program does not try to read a position beyond the end of the array [1].
+**(b)** "Zak" is not in the array, so the condition never becomes False and `i` keeps increasing past 3 [1];
+the program then tries to read a position that does not exist in the array, causing an error [1].
 ---
 
 ## Where marks are usually lost

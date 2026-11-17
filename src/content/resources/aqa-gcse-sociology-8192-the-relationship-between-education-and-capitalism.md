@@ -13,7 +13,7 @@ syllabusTopics:
   - qualification: "gcse"
     topic: "education-8192"
     subtopic: "the-relationship-between-education-and-capitalism-8192"
-description: "In-depth AQA GCSE Sociology 8192 guide to 3.4.2: Bowles and Gintis, the correspondence principle, the myth of meritocracy, and Willis, functionalist and feminist replies."
+description: "In-depth AQA GCSE Sociology 8192 guide to 3.4.2: Bowles and Gintis, the correspondence principle, the myth of meritocracy and rival views such as Willis."
 author: "marlbridge-academic-team"
 reviewStatus: "review-pending"
 publishedDate: 2026-11-17
