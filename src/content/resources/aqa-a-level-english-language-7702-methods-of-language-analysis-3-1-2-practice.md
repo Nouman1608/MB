@@ -43,11 +43,11 @@ two **original** texts written for this page.
 **Text E**: a transcript of two friends planning a trip. Key: (.) micropause; (2) pause in seconds; capitals mark
 stress; a square bracket opening two lines marks overlap.
 
-> JO: so are we doing Saturday or (.) or what
-> SAM: I mean I CAN do Saturday [but
-> JO: [but you don't WANT to
-> SAM: no it's not that (2) it's just my mum's got this thing
-> JO: oh right (.) Sunday then
+> JO: so are we doing Saturday or (.) or what  
+> SAM: I mean I CAN do Saturday [but  
+> JO: [but you don't WANT to  
+> SAM: no it's not that (2) it's just my mum's got this thing  
+> JO: oh right (.) Sunday then  
 > SAM: Sunday's perfect yeah
 
 ---

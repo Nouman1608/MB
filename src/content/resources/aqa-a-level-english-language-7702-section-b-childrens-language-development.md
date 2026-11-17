@@ -115,10 +115,10 @@ evidence most often linked to interactionist views.
 The transcript below is **original**, written for this page. Tom is 2;6 (two years, six months). Key: (.)
 micropause.
 
-> TOM: daddy goed work
-> MOTHER: yes daddy went to work didn't he (.) where did daddy go
-> TOM: work (.) in big car
-> MOTHER: in the big car that's right (.) and what's this
+> TOM: daddy goed work  
+> MOTHER: yes daddy went to work didn't he (.) where did daddy go  
+> TOM: work (.) in big car  
+> MOTHER: in the big car that's right (.) and what's this  
 > TOM: doggy (.) two doggies
 
 **Annotations.** "goed" is a virtuous error, over-applying the regular "-ed" rule; omission of the auxiliary in

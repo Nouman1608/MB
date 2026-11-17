@@ -36,12 +36,12 @@ sets are **original**, written for this page.
 
 **Data 1**: Ella (3;2) and her father building a tower of bricks. Key: (.) micropause.
 
-> ELLA: I putted the red one on top
-> FATHER: you put the red one on top (.) wow (.) what shall we put next
-> ELLA: the bwoo one (.) no (.) the gween one
-> FATHER: the green one (.) good choice
-> ELLA: it falled down (.) why it falled down
-> FATHER: because it was too tall wasn't it (.) shall we try again
+> ELLA: I putted the red one on top  
+> FATHER: you put the red one on top (.) wow (.) what shall we put next  
+> ELLA: the bwoo one (.) no (.) the gween one  
+> FATHER: the green one (.) good choice  
+> ELLA: it falled down (.) why it falled down  
+> FATHER: because it was too tall wasn't it (.) shall we try again  
 > ELLA: yes (.) me do it
 
 **Data 2**: the opening of a story by Ravi (7;4), with his spelling and punctuation kept.

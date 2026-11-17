@@ -51,13 +51,13 @@ All three texts below are **original**, written for this page.
 **Text C** (transcript): a local radio phone-in. Key: (.) micropause; a square bracket opening two lines marks
 overlapping speech.
 
-> PRESENTER: morning Dave you're on the air (.) go ahead
-> CALLER: yeah morning (.) erm I just wanted to say about the car park charges
-> PRESENTER: the new ones
-> CALLER: yeah [it's
-> PRESENTER: [two pounds an hour now isn't it
-> CALLER: two pounds an hour (.) for a beach (.) I mean it's ridiculous
-> PRESENTER: okay but the council would say they need it for the sea wall Dave
+> PRESENTER: morning Dave you're on the air (.) go ahead  
+> CALLER: yeah morning (.) erm I just wanted to say about the car park charges  
+> PRESENTER: the new ones  
+> CALLER: yeah [it's  
+> PRESENTER: [two pounds an hour now isn't it  
+> CALLER: two pounds an hour (.) for a beach (.) I mean it's ridiculous  
+> PRESENTER: okay but the council would say they need it for the sea wall Dave  
 > CALLER: well they would say that wouldn't they
 
 ---
