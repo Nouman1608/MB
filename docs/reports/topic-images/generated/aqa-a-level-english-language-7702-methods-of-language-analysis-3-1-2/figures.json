@@ -1,0 +1,65 @@
+[
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--01-six-levels.webp",
+  "width": 900,
+  "height": 760,
+  "after": "## The six levels in the specification",
+  "alt": "A table of the six levels in the specification: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar including morphology; pragmatics; and discourse. Each is shown with its specification wording and what it gives you when analysing Paper 1 texts.",
+  "caption": "Six levels, each giving you a different kind of evidence about a text.",
+  "bytes": 161022
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--02-salience-test.webp",
+  "width": 900,
+  "height": 710,
+  "after": "## \"Salient\" is the key word",
+  "alt": "A decision flow: ask whether changing a feature would change the representation or relationship. If yes, it is salient and worth analysing; if no, leave it out. Repeated patterns and marked choices are usually more salient than isolated features.",
+  "caption": "Salient means prominent and significant: the features that do most to create the text's meanings.",
+  "bytes": 78220
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--03-grammar-ranks.webp",
+  "width": 900,
+  "height": 543,
+  "after": "## Level by level: the terminology that earns credit",
+  "alt": "Four ranks of grammar from word up to sentence. Word: word classes and morphology. Phrase: noun phrase structure and verb phrase tense, aspect, modality and voice. Clause: clause elements, main and subordinate clauses and fronted adverbials. Sentence: the four functions and five structures.",
+  "caption": "Describe grammar at word, phrase, clause and sentence level, working upwards.",
+  "bytes": 103108
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--04-cafe-leaflet-features.webp",
+  "width": 900,
+  "height": 729,
+  "after": "## Worked example: describing salient features precisely",
+  "alt": "The lesson's original café leaflet is split into its five sentences, each linked to a salient feature: opening and closing imperatives with domestic, informal lexis, an implied welcome for newcomers, a tricolon of parallel clauses with \"our\", and a presupposition that the reader will visit. A bracket shows the circular invitation, reasons, invitation structure.",
+  "caption": "Name the structure, quote it and state the meaning it helps create.",
+  "bytes": 128602
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--05-parsing-a-sentence.webp",
+  "width": 900,
+  "height": 750,
+  "after": "## Worked example: getting grammar right",
+  "alt": "The sentence \"The tired volunteers who had worked all night finally closed the doors\" is split into chips. The noun phrase is labelled determiner, pre-modifier, head and post-modifying relative clause; \"finally\" is an adverbial and \"closed\" a simple past main verb, with \"had worked\" in the past perfect. A note replaces \"a long sentence\" with a precise description.",
+  "caption": "Accurate grammatical description lets you make a confident claim about meaning.",
+  "bytes": 109232
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--06-levels-for-child-data.webp",
+  "width": 900,
+  "height": 535,
+  "after": "## Applying methods to children's data (Section B)",
+  "alt": "Five levels applied to children's data: phonological processes such as substitution, deletion and reduplication; over- and underextension; inflections, negatives and questions; turn-taking and politeness; and graphology and orthography in writing. All feed into describing the data first, with theory following.",
+  "caption": "Describe the child's language level by level first; bring in theory after.",
+  "bytes": 71374
+ },
+ {
+  "file": "aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--07-identify-describe-analyse.webp",
+  "width": 900,
+  "height": 650,
+  "after": "## Exam technique",
+  "alt": "Three stepped stages using the lesson's grammar example: identify names the feature (a relative clause), describe says how it is formed (a post-modifying relative clause in the noun phrase), and analyse explains its meaning (it delays the verb so effort is foregrounded). A note advises planning by meaning before choosing levels.",
+  "caption": "Paper 1 analysis needs all three steps, not just a feature name.",
+  "bytes": 88816
+ }
+]

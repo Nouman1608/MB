@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--01-actus-reus-parts.webp",
+  "width": 900,
+  "height": 515,
+  "after": "## 2.1.1 Actus reus",
+  "alt": "Three cards show the actus reus as conduct, a result or circumstances, with the lesson’s examples. Below, the conduct must be voluntary (Hill v Baxter, the swarm of bees), except in state of affairs offences such as Larsonneur and Winzar, which are criticised as liability without real fault.",
+  "caption": "Conduct, result and circumstances; voluntary, except in state of affairs cases.",
+  "bytes": 103922
+ },
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--02-omission-duties.webp",
+  "width": 900,
+  "height": 683,
+  "after": "## 2.1.1 Actus reus",
+  "alt": "The general rule of no liability for omissions, then six legal duties to act with their cases: statute (Road Traffic Act 1988), contract (Pittwood), public office (Dytham), voluntary assumption of care (Stone and Dobinson), special relationship (Gibbins and Proctor) and creating a dangerous situation (Miller, extended in Evans). Bland treats withdrawing treatment as a lawful omission.",
+  "caption": "An omission is criminal only where the defendant was under a legal duty to act.",
+  "bytes": 168366
+ },
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--03-causation-chain.webp",
+  "width": 900,
+  "height": 903,
+  "after": "## 2.1.1 Actus reus",
+  "alt": "Causation as a chain: factual causation by the but for test (White), then legal causation as an operating and substantial cause (Smith). A table shows when intervening acts break the chain: not by a reasonable third-party response (Pagett), negligent treatment (Cheshire) or a foreseeable reaction (Roberts); broken by palpably wrong treatment (Jordan) or a free, deliberate and informed act (Kennedy). The thin skull rule applies (Blaue).",
+  "caption": "But for, then operating and substantial, then ask whether anything broke the chain.",
+  "bytes": 171618
+ },
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--04-oblique-intention.webp",
+  "width": 900,
+  "height": 741,
+  "after": "## 2.1.2 Mens rea",
+  "alt": "A timeline of oblique intention: Moloney (1985) foresight is only evidence; Hancock and Shankland (1986) probability; Nedrick (1986) the virtual certainty test; Woollin (1998) virtual certainty and the defendant’s appreciation of it; Matthews and Alleyne (2003) a rule of evidence, not of law.",
+  "caption": "Foresight of virtual certainty lets the jury find intention; it does not make it intention.",
+  "bytes": 132830
+ },
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--05-recklessness-tests.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## 2.1.2 Mens rea",
+  "alt": "Three stages in the test for recklessness: subjective in Cunningham, objective in Caldwell, and subjective again when R v G overruled Caldwell. The R v G test asks whether the defendant was aware of a risk and whether taking it was unreasonable in the circumstances known to them.",
+  "caption": "Since R v G, recklessness again depends on what this defendant foresaw.",
+  "bytes": 128902
+ },
+ {
+  "file": "cambridge-a-level-law-9084-elements-of-a-crime--06-jade-worked-example.webp",
+  "width": 900,
+  "height": 885,
+  "after": "## Worked example",
+  "alt": "The Jade scenario in six steps: voluntary conduct with results; factual causation (White); legal causation unbroken despite the doctor’s error (Smith, Cheshire); no direct intention and doubtful oblique intention (Woollin); recklessness proved (R v G); so actus reus and mens rea coincide at the moment of the throw.",
+  "caption": "Each element in turn, each with an authority, then a conclusion.",
+  "bytes": 151240
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--01-civil-claim-to-allocation.webp",
+  "width": 900,
+  "height": 764,
+  "after": "## 1.2.1 Civil courts and civil process",
+  "alt": "A civil claim begins with a protocol letter of claim and a claim form with particulars. The defendant may admit, file a defence within 14 days (or 28 after acknowledging service), or do nothing and risk judgment in default. A defended claim goes through a directions questionnaire to one of four tracks: small claims up to £10,000, fast track £10,000 to £25,000, the intermediate track up to £100,000 since October 2023, and multi-track.",
+  "caption": "Defended claims are allocated to a track by value, complexity and evidence.",
+  "bytes": 108954
+ },
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--02-woolf-reforms.webp",
+  "width": 900,
+  "height": 815,
+  "after": "## 1.2.1 Civil courts and civil process",
+  "alt": "Lord Woolf found civil justice too costly, slow and complex. The Civil Procedure Rules 1998 introduced the overriding objective, judicial case management, pre-action protocols, Part 36 offers, single joint experts and encouragement of ADR. Cases settled earlier but costs stayed high, leading to the Jackson review (2010) and a swing from Mitchell (2013) to Denton (2014).",
+  "caption": "The CPR gave judges control of cases; costs remained the weak point.",
+  "bytes": 128670
+ },
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--03-criminal-appeals.webp",
+  "width": 900,
+  "height": 910,
+  "after": "## 1.2.3 Criminal courts and criminal process",
+  "alt": "Appeal routes: from the Magistrates’ Court the defendant appeals to the Crown Court against conviction (a full rehearing) or sentence, and either side may appeal by case stated to the Divisional Court of the King’s Bench Division. From the Crown Court the defendant needs permission to appeal to the Court of Appeal (Criminal Division), which quashes unsafe convictions. Both routes can reach the Supreme Court on a certified point of law. Below: unduly lenient sentence references, retrial after acquittal and the Criminal Cases Review Commission.",
+  "caption": "Rehearing or case stated from the magistrates; permission and the “unsafe” test from the Crown Court.",
+  "bytes": 125422
+ },
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--04-bail.webp",
+  "width": 900,
+  "height": 600,
+  "after": "## 1.2.3 Criminal courts and criminal process",
+  "alt": "Police bail under PACE, with conditions allowed by the Criminal Justice and Public Order Act 1994 and the s25 restriction for serious repeat offences; court bail under s4 Bail Act 1976, refused only on substantial grounds that the defendant would abscond, offend or interfere with witnesses. Below are the factors the court weighs and the conditions it may impose.",
+  "caption": "Bail is the default; refusal needs substantial grounds.",
+  "bytes": 132418
+ },
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--05-detention-clock.webp",
+  "width": 900,
+  "height": 720,
+  "after": "## 1.2.4 Police powers",
+  "alt": "A to-scale timeline of detention: up to 24 hours from arrival without charge (s41), up to 36 hours for an indictable offence on a superintendent’s authority (s42), and up to 96 hours in total with a magistrates’ warrant (ss43 to 44), with reviews within 6 hours and then every 9 hours (s40). A table lists the detainee’s rights and their sources.",
+  "caption": "Detention is time-limited, and each extension needs higher authority.",
+  "bytes": 114122
+ },
+ {
+  "file": "cambridge-a-level-law-9084-machinery-of-justice--06-sami-worked-example.webp",
+  "width": 900,
+  "height": 697,
+  "after": "## Worked example",
+  "alt": "Four breaches in Sami’s case: a stop without reasonable suspicion (s1, Code A), an arrest without reasons (s28) and doubtful necessity (s24), detention beyond 24 hours without a superintendent’s authority (s42), and refusal of a solicitor (s58). His confession is open to exclusion under s78 (Samuel) and possibly s76.",
+  "caption": "Breaches at every stage put the confession at risk under s78, and possibly s76.",
+  "bytes": 126372
+ }
+]
