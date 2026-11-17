@@ -104,7 +104,7 @@ Suggest which place could produce more harvests of a fast-growing crop each year
 
 **6.** Earthworms burrow, mixing organic matter into the soil and creating spaces for air and drainage [1]; decomposers break down dead material, releasing nutrients such as nitrate ions for plants [1].
 
-**7. (a)** All three for 2 marks; one or two correct for 1 mark: A 100 − 64 = 36 cm³; B 100 − 20 = 80 cm³; C 100 − 41 = 59 cm³.
+**7. (a)** A: 100 − 64 = 36 cm³; B: 100 − 20 = 80 cm³; C: 100 − 41 = 59 cm³. All three correct [2]; two correct [1].
 
 **(b)** Soil C [1]; it lets an intermediate amount of water drain, so it drains excess water while retaining a good amount for roots [1].
 
