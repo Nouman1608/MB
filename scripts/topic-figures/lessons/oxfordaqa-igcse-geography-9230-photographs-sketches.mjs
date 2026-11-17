@@ -300,11 +300,13 @@ const valley = (x, y, w, h, { sketch = false } = {}) => {
   b += valley(x, y, w, h, { sketch: true });
   b += `<rect x="${x}" y="${y}" width="${w}" height="${h}" fill="none" stroke="${C.ink}" stroke-width="2.5"/>`;
   const lab = (px, py, lx, ly, l, ann) => line(px, py, lx, ly, { w: 1.5, color: C.muted }) + tx(lx, ly - 2, l, { size: 15, weight: 700, anchor: lx > px ? 'start' : 'end' }) + (ann ? tx(lx, ly + 16, ann, { size: 15, fill: C.tealDark, italic: true, anchor: lx > px ? 'start' : 'end' }) : '');
-  b += tx(x + w * 0.55, y + h * 0.06, 'bare, rounded hilltop', { size: 15, weight: 700, anchor: 'middle' });
-  b += tx(x + 10, y + h * 0.33, 'steep, wooded', { size: 15, weight: 700 }) + tx(x + 10, y + h * 0.33 + 18, 'valley side', { size: 15, weight: 700 });
-  b += tx(x + w * 0.52, y + h * 0.62, 'narrow V-shaped valley', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += tx(x + w * 0.66, y + h * 0.84, 'narrow, fast river', { size: 15, weight: 700 }) + tx(x + w * 0.66, y + h * 0.84 + 18, 'with large boulders', { size: 15, weight: 700 });
-  b += tx(x + w * 0.66, y + h * 0.84 + 36, '(carries heavy load in flood)', { size: 15, italic: true, fill: C.tealDark });
+  const ht = (xx, yy, str, o = {}) => `<text x="${xx}" y="${yy}" font-size="15" font-weight="${o.it ? 400 : 700}" fill="${o.fill || C.ink}" text-anchor="${o.anchor || 'start'}"${o.it ? ' font-style="italic"' : ''} stroke="#ffffff" stroke-width="5" paint-order="stroke" stroke-linejoin="round">${str}</text>`;
+  b += ht(x + w * 0.55, y + h * 0.2, 'bare, rounded hilltop', { anchor: 'middle' });
+  b += ht(x + 8, y + h * 0.2, 'steep, wooded') + ht(x + 8, y + h * 0.2 + 18, 'valley side');
+  b += line(x + 60, y + h * 0.2 + 24, x + w * 0.12, y + h * 0.47, { w: 1.5, color: C.muted });
+  b += ht(x + w * 0.5, y + h * 0.66, 'narrow V-shaped valley', { anchor: 'middle', fill: C.tealDark });
+  b += ht(x + w - 8, y + h * 0.78, 'narrow, fast river', { anchor: 'end' }) + ht(x + w - 8, y + h * 0.78 + 18, 'with large boulders', { anchor: 'end' });
+  b += ht(x + w - 8, y + h * 0.78 + 36, '(heavy load in flood)', { anchor: 'end', it: true, fill: C.tealDark });
   b += tx(300, 500, 'labels name features; italic annotations explain', { size: 15, anchor: 'middle', fill: C.muted, italic: true });
   // steps
   const st = ['Draw a frame the same shape as the photograph', 'Add the horizon and main lines: skyline, slopes, river, roads', 'Add only the features relevant to the question', 'Label each feature', 'Annotate to explain, if asked', 'Add a title, the place and the direction of view'];
@@ -341,7 +343,7 @@ const valley = (x, y, w, h, { sketch = false } = {}) => {
   b += path(`M${mx + 40},${my + 30} L${mx + 300},${my + 190}`, { stroke: C.rust, w: 2.5, extra: 'stroke-dasharray="8 6"' });
   [0.15, 0.4, 0.65, 0.9].forEach((t_, k) => { const px = mx + 40 + 260 * t_, py = my + 30 + 160 * t_; b += `<circle cx="${px}" cy="${py}" r="9" fill="${C.mustard}" stroke="${C.ink}" stroke-width="2"/>` + tx(px, py + 5, String(k + 1), { size: 12, weight: 700, anchor: 'middle' }); });
   b += `<circle cx="${mx + 318}" cy="${my + 182}" r="18" fill="#ffffff" stroke="${C.ink}" stroke-width="1.5"/>` + arrow(mx + 318, my + 192, mx + 318, my + 168, { w: 2.5 }) + tx(mx + 318, my + 160, 'N', { size: 15, weight: 700, anchor: 'middle' });
-  b += line(mx + 20, my + mh - 14, mx + 100, my + mh - 14, { w: 2.5 }) + tx(mx + 60, my + mh - 20, 'approx. scale', { size: 15, anchor: 'middle' });
+  b += line(mx + 130, my + mh - 12, mx + 210, my + mh - 12, { w: 2.5 }) + tx(mx + 170, my + mh - 20, 'approx. scale', { size: 15, anchor: 'middle' });
   b += lines(484, 450, ['• title, north arrow, approximate scale', '• key if symbols are used', '• only what is relevant, e.g. transect', '   and sampling sites'], { size: 16 }, 22);
   fig('05-sketch-vs-map', 'Field sketch or sketch map?', b, 558,
     'A field sketch shows a view from one point looking across the land, with a title, direction of view, labels and annotations. A sketch map shows a layout from above, here a river, a transect and four numbered sampling sites, with a north arrow, an approximate scale and a key if symbols are used.',
