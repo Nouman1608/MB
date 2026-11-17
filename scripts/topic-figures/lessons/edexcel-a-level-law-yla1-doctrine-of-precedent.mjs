@@ -330,31 +330,31 @@ export const slug = 'edexcel-a-level-law-yla1-doctrine-of-precedent';
   const node = (cx, y, w, s, o = {}) => lbox(cx - w / 2, y, w, o.h || 56, { fill: o.fill || '#ffffff', edge: o.edge || C.ink }) + rpara(cx, y + (o.h || 56) / 2 + 6 - ((rwrap(s, w - 20, 16, 700).length - 1) * 21) / 2, s, w - 20, { size: 16, weight: 700, anchor: 'middle', fill: o.tf || C.ink }).s;
   const lab = (x, y, s, a = 'start') => rich(x, y, s, { size: 15, weight: 700, fill: C.olive, anchor: a });
   b += lbox(30, 110, 411, 600, { fill: '#ffffff', edge: C.panelEdge, rx: 14 }) + T(235, 146, 'Civil', { size: 21, weight: 700, anchor: 'middle', fill: C.tealDark });
-  b += node(235, 640, 260, 'Supreme Court', { fill: C.ink, edge: C.ink, tf: '#ffffff' });
+  b += node(235, 590, 260, 'Supreme Court', { fill: C.ink, edge: C.ink, tf: '#ffffff' });
   b += node(235, 480, 300, 'Court of Appeal (Civil Division)', { fill: C.tealLight, edge: C.tealDark });
   b += node(150, 300, 170, 'High Court');
   b += node(330, 180, 170, 'County Court');
   b += arrow(330, 238, 330, 474) + lab(338, 366, 'depending on');
   b += lab(338, 386, 'case and judge');
   b += path('M300,238 L190,294', { extra: 'marker-end="url(#ah)"' });
-  b += arrow(150, 358, 190, 474) + lab(100, 420, 'permission');
-  b += arrow(235, 538, 235, 634) + lab(245, 592, 'permission');
-  b += path('M66,328 L46,328 L46,668 L100,668', { stroke: C.olive, w: 3, extra: 'marker-end="url(#ahO)" stroke-dasharray="8 6"' });
-  b += lab(56, 700, 'leapfrog: point of law of public importance');
+  b += arrow(150, 358, 190, 474) + lab(152, 420, 'permission', 'end');
+  b += arrow(235, 538, 235, 584) + lab(245, 566, 'permission');
+  b += path('M66,328 L46,328 L46,618 L100,618', { stroke: C.olive, w: 3, extra: 'marker-end="url(#ahO)" stroke-dasharray="8 6"' });
+  b += rpara(235, 676, 'leapfrog from the High Court: a point of law of public importance', 360, { size: 15, weight: 700, fill: C.olive, anchor: 'middle' }).s;
   // criminal
   b += lbox(459, 110, 411, 600, { fill: '#ffffff', edge: C.panelEdge, rx: 14 }) + T(664, 146, 'Criminal', { size: 21, weight: 700, anchor: 'middle', fill: C.rust });
-  b += node(664, 640, 260, 'Supreme Court', { fill: C.ink, edge: C.ink, tf: '#ffffff' });
+  b += node(664, 590, 260, 'Supreme Court', { fill: C.ink, edge: C.ink, tf: '#ffffff' });
   b += node(570, 480, 190, 'Court of Appeal (Criminal Division)', { fill: C.tealLight, edge: C.tealDark, h: 64 });
   b += node(770, 480, 170, 'Divisional Court (KBD)', { h: 64 });
   b += node(570, 330, 170, 'Crown Court');
   b += node(664, 180, 220, 'Magistrates’ court');
-  b += arrow(620, 238, 580, 324) + lab(512, 284, 'conviction');
-  b += lab(512, 302, 'or sentence');
+  b += arrow(640, 238, 590, 324) + lab(598, 278, 'conviction', 'end');
+  b += lab(592, 296, 'or sentence', 'end');
   b += arrow(710, 238, 770, 474) + lab(752, 330, 'case');
   b += lab(752, 348, 'stated');
   b += arrow(570, 388, 570, 474) + lab(580, 434, 'leave');
-  b += arrow(570, 546, 620, 634) + arrow(770, 546, 710, 634);
-  b += rpara(664, 600, 'point of law of general public importance, certified, with leave', 380, { size: 15, weight: 700, fill: C.olive, anchor: 'middle' }).s;
+  b += arrow(570, 546, 620, 584) + arrow(770, 546, 710, 584);
+  b += rpara(664, 676, 'only on a certified point of law of general public importance, with leave', 380, { size: 15, weight: 700, fill: C.olive, anchor: 'middle' }).s;
   b += note(730, 'Only appellate courts create binding precedent; an appeal can reverse the decision in that case.', { size: 16 });
   add('04-appeal-routes',
     svg(900, 824, 'The process of appeal', b),
@@ -370,8 +370,8 @@ export const slug = 'edexcel-a-level-law-yla1-doctrine-of-precedent';
   const ly = 330;
   b += `<line x1="${X(1895)}" y1="${ly}" x2="${X(2020)}" y2="${ly}" stroke="${C.ink}" stroke-width="3"/>`;
   b += `<rect x="${X(1895)}" y="${ly - 10}" width="${X(1966) - X(1895)}" height="20" fill="${C.panelEdge}"/>`;
-  b += rpara(X(1895) + 6, 128, '*London Street Tramways v LCC* [1898]: the Lords bound by their own decisions', 300, { size: 15, weight: 700 }).s;
-  b += path(`M${X(1898)},180 L${X(1898)},${ly - 12}`, { stroke: C.muted, w: 2 });
+  b += rpara(X(1895) + 6, 128, '*London Street Tramways v LCC* [1898]: the Lords bound by their own decisions', 380, { size: 15, weight: 700 }).s;
+  b += path(`M${X(1898)},${136 + 14} L${X(1898)},${ly - 12}`, { stroke: C.muted, w: 2 });
   b += `<circle cx="${X(1966)}" cy="${ly}" r="16" fill="${C.mustard}" stroke="${C.ink}" stroke-width="3"/>`;
   b += T(X(1966), ly + 44, '1966', { size: 18, weight: 700, anchor: 'middle' });
   b += rpara(X(1966) - 150, ly + 70, 'Lord Gardiner LC: normally binding, but depart "when it appears right to do so"', 300, { size: 15, weight: 600, anchor: 'start' }).s;
@@ -379,7 +379,7 @@ export const slug = 'edexcel-a-level-law-yla1-doctrine-of-precedent';
   b += rpara(X(2010) - 120, ly + 70, '*Austin v Southwark LBC*: the power applies to the Supreme Court', 200, { size: 15, anchor: 'start' }).s;
   const used = [[1968, '*Conway v Rimmer*'], [1972, '*Herrington*'], [1976, '*Miliangos*'], [1986, '*R v Shivpuri*'], [1993, '*Pepper v Hart*'], [2003, '*R v G*']];
   used.forEach(([yr, n], i) => {
-    const yy = 150 + (i % 3) * 52;
+    const yy = 168 + i * 24;
     b += `<circle cx="${X(yr)}" cy="${ly}" r="8" fill="${C.tealDark}"/>` + path(`M${X(yr)},${ly - 8} L${X(yr)},${yy + 8}`, { stroke: C.tealDark, w: 2 });
     b += rich(X(yr) + 6, yy, `${n} ${yr}`, { size: 15, weight: 700, fill: C.tealDark });
   });
@@ -437,8 +437,8 @@ export const slug = 'edexcel-a-level-law-yla1-doctrine-of-precedent';
     path(`M${x + 32},${204} l76,38 M${x + 108},${204} l-76,38`, { stroke: C.rust, w: 3 }) + T(x + w / 2, 284, 'later case, different parties', { size: 15, weight: 700, anchor: 'middle', fill: C.olive }));
   x += w + g;
   b += col(x, w, 'Reversing', 'A higher court, on appeal', 'Changes the decision in the SAME case.', 'Overruling is a different, earlier case; reversing is the same case.', C.blue, '#dfe7f3',
-    caseBox(x + 30, 240, 'Trial', '#ffffff') + caseBox(x + 146, 180, 'Appeal', '#ffffff', C.blue) + path(`M${x + 122},${256} C${x + 150},${256} ${x + 150},${250} ${x + 190},${238}`, { stroke: C.blue, w: 3, extra: 'marker-end="url(#ah)"' }) +
-    T(x + w / 2, 312, 'same parties', { size: 15, weight: 700, anchor: 'middle', fill: C.blue }));
+    caseBox(x + 30, 220, 'Trial', '#ffffff') + caseBox(x + 146, 180, 'Appeal', '#ffffff', C.blue) + path(`M${x + 122},${246} C${x + 150},${246} ${x + 160},${246} ${x + 190},${240}`, { stroke: C.blue, w: 3, extra: 'marker-end="url(#ah)"' }) +
+    T(x + w / 2, 300, 'same case, same parties', { size: 15, weight: 700, anchor: 'middle', fill: C.blue }));
   add('06-distinguish-overrule-reverse',
     svg(900, 610, 'Avoiding a precedent', b),
     'Distinguishing: any court finds the material facts differ, so the earlier ratio does not apply (Balfour v Balfour distinguished in Merritt v Merritt). Overruling: a higher court, or the same court with a power to depart, decides the rule in an earlier, different case was wrong (R v G overruled Caldwell). Reversing: a higher court changes the decision in the same case on appeal.',

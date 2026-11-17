@@ -193,11 +193,11 @@ const list = (x, y, items, pw, { size = 17, gap = 10, mark = 'dot', color = C.in
     body += pill(30, y, 220, 80, n, { fill: C.cream, size: 17, rx: 12 });
     body += panel(262, y, 608, 80) + tx(282, y + 32, w, { size: 16 }) + tick(294, y + 56, 10) + tx(312, y + 62, b, { size: 16, weight: 600, fill: C.tealDark });
   });
-  body += rect(30, 580, 840, 80, { fill: '#f3d9c8', edge: C.rust });
+  body += rect(30, 580, 840, 100, { fill: '#f3d9c8', edge: C.rust });
   body += tx(54, 612, 'Drawbacks to weigh', { size: 17, weight: 700, fill: C.rust });
-  body += tx(54, 640, 'Hacking and data theft · dependence on internet and power', { size: 16 }) + tx(470, 640, '· cost of systems and training · customers without smartphones', { size: 16 });
+  body += tx(54, 640, 'Hacking and data theft · dependence on internet access and power', { size: 16 }) + tx(54, 664, 'Cost of secure systems and staff training · difficulty for customers without smartphones', { size: 16 });
   add('06-digital-technology',
-    svg(900, 685, 'Digital technology in trading documents', body),
+    svg(900, 705, 'Digital technology in trading documents', body),
     'Five technologies with what each does and its benefit: digital signatures, secure access, cloud-based storage, electronic receipts and etickets. Below, the drawbacks: hacking, dependence on internet and power, system and training costs, and customers without smartphones.',
     'Digital documents are faster and harder to lose, but bring security and access risks.',
     '## Digital technology in trading documents');

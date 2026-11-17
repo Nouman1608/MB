@@ -496,10 +496,10 @@ F('01-presidents-timeline', 'Four presidents, 1974-93', 'Drawn to scale', [
   (y) => htl(y, 1974, 1993.2, {
     step: 2, x0: 70, x1: 830, lg: 50,
     spans: [
-      { a: md(1974, 8), b: 1977.05, label: 'Ford', fill: C.panel, edge: C.ink },
-      { a: 1977.05, b: 1981.05, label: 'Carter (D)', fill: C.tealLight, edge: C.tealDark },
-      { a: 1981.05, b: 1989.05, label: 'Reagan (R)', fill: C.cream, edge: C.olive },
-      { a: 1989.05, b: 1993.05, label: 'Bush (R)', fill: C.cream, edge: C.olive },
+      { a: md(1974, 8), b: 1977.05, label: 'Ford', fill: C.panel, edge: C.ink, lane: 0 },
+      { a: 1977.05, b: 1981.05, label: 'Carter (D)', fill: C.tealLight, edge: C.tealDark, lane: 0 },
+      { a: 1981.05, b: 1989.05, label: 'Reagan (R)', fill: C.cream, edge: C.olive, lane: 0 },
+      { a: 1989.05, b: 1993.05, label: 'Bush (R)', fill: C.cream, edge: C.olive, lane: 0 },
     ],
     events: [
       { v: md(1974, 9), d: 'Sep 1974', label: ['Nixon', 'pardoned'], side: 'up' },
@@ -577,9 +577,9 @@ F('06-detente-to-end', 'Détente, Second Cold War, negotiation', 'Drawn to scale
   (y) => htl(y, 1972, 1988, {
     step: 2, x0: 70, x1: 830, lg: 50,
     spans: [
-      { a: 1972, b: 1979.9, label: 'Détente', fill: C.tealLight, edge: C.tealDark },
-      { a: 1979.95, b: 1985, label: 'Second Cold War', fill: C.panel, edge: C.rust },
-      { a: 1985.05, b: 1988, label: 'Summits', fill: C.cream, edge: C.olive },
+      { a: 1972, b: 1979.9, label: 'Détente', fill: C.tealLight, edge: C.tealDark, lane: 0 },
+      { a: 1979.95, b: 1985, label: 'Second Cold War', fill: C.panel, edge: C.rust, lane: 0 },
+      { a: 1985.05, b: 1988, label: 'Summits', fill: C.cream, edge: C.olive, lane: 0 },
     ],
     events: [
       { v: 1972, d: '1972', label: ['SALT I'], side: 'up', key: true },

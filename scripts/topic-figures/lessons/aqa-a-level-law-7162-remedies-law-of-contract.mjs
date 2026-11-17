@@ -328,7 +328,7 @@ F('05-termination-for-breach', 'Termination for breach', 'A self-help remedy: no
     let s = panel(30, y, 840, 150) + T(50, y + 30, 'RESCISSION OR TERMINATION?', { size: 15, weight: 700, fill: C.tealDark });
     s += `<line x1="${x0}" y1="${yy}" x2="${x1}" y2="${yy}" stroke="${C.ink}" stroke-width="3"/>`;
     s += `<line x1="${x0}" y1="${yy - 14}" x2="${x0}" y2="${yy + 14}" stroke="${C.ink}" stroke-width="3"/>` + T(x0, yy + 34, 'contract made', { size: 15, anchor: 'middle', fill: C.muted });
-    s += `<line x1="520" y1="${yy - 14}" x2="520" y2="${yy + 14}" stroke="${C.ink}" stroke-width="3"/>` + T(520, yy + 34, 'breach', { size: 15, anchor: 'middle', fill: C.muted });
+    s += `<line x1="520" y1="${yy - 14}" x2="520" y2="${yy + 14}" stroke="${C.ink}" stroke-width="3"/>` + T(520, yy + 34, 'remedy used', { size: 15, anchor: 'middle', fill: C.muted });
     s += arrow(510, yy + 66, x0 + 6, yy + 66, { color: C.olive, marker: 'ahO', w: 4 }) + T(315, yy + 90, 'rescission: undone from the start', { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
     s += arrow(530, yy + 66, x1 - 4, yy + 66, { color: C.tealDark, marker: 'ahT', w: 4 }) + T(685, yy + 90, 'termination: ends the future', { size: 15, weight: 700, anchor: 'middle', fill: C.tealDark });
     return { s, h: 150 };

@@ -101,7 +101,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   let b = tx(56, 132, 'Legal consequences', { size: 19, weight: 700, fill: C.rust });
   steps.forEach((s, i) => {
     const y = 150 + i * 80;
-    b += rect(30, y, 500, 66, '#fbf3ee', C.rust, 10, 2) + para(52, y + (paraN(s, 456, 18) > 1 ? 28 : 40), s, 456, { size: 18 });
+    b += rect(30, y, 500, 66, C.panel, C.rust, 10, 2) + para(52, y + (paraN(s, 456, 18) > 1 ? 28 : 40), s, 456, { size: 18 });
   });
   b += arrow(534, 330, 562, 330, { w: 3.5 });
   b += rect(566, 150, 304, 386, C.cream, C.olive) + tx(590, 196, 'Bad publicity', { size: 22, weight: 700 }) +

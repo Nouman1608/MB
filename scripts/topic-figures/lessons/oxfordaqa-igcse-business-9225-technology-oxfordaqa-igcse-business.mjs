@@ -137,7 +137,7 @@ const money = (n, cur = '$') => (n < 0 ? '-' : '') + cur + Math.abs(n).toLocaleS
   b += para(620, 372, 'A few buyers in each town add up across a country', 230, { size: 16 });
   b += rect(30, 460, 840, 220, C.panel, C.rust) + tx(56, 496, 'But e-commerce brings costs and risks', { size: 19, weight: 700, fill: C.rust });
   const risks = ['Website, secure payments, packaging, delivery and returns', 'Customers compare prices instantly: stronger competition', 'Systems can be attacked or fail; lost data damages reputation', 'Delivery abroad can be slower and cost more'];
-  risks.forEach((s, i) => { const x = 56 + (i % 2) * 404, y = 516 + Math.floor(i / 2) * 80; b += rect(x, y, 384, 68, '#fbf3ee', C.rust, 10, 2) + para(x + 16, y + (paraN(s, 352, 16) > 1 ? 28 : 40), s, 352, { size: 16 }); });
+  risks.forEach((s, i) => { const x = 56 + (i % 2) * 404, y = 516 + Math.floor(i / 2) * 80; b += rect(x, y, 384, 68, C.panel, C.rust, 10, 2) + para(x + 16, y + (paraN(s, 352, 16) > 1 ? 28 : 40), s, 352, { size: 16 }); });
   add('04-wider-markets',
     svg(900, 710, 'How e-commerce widens a market', b),
     'E-commerce removes the limits of location (anyone with a delivery address can buy) and time (orders 24 hours a day), and makes niche markets worth serving because a few buyers in each town add up. It also brings website and delivery costs, instant price comparison, system and data risks and slower delivery abroad.',
