@@ -111,6 +111,12 @@ appropriate to the formal setting).
 - Pauses in place of parenthesis.
 - Formal, but natural: not an essay read aloud.
 
+## Visual aids: use or lose
+
+- **Use** a slide for one image, a single key figure or a short quotation the audience needs to see.
+- **Lose** slides that repeat your words: listeners read them instead of listening.
+- **Notes:** keywords on cue cards, numbered, so that a dropped card does not derail the talk.
+
 ## Traps
 
 - A flat, list-like topic that limits ideas to "straightforward".

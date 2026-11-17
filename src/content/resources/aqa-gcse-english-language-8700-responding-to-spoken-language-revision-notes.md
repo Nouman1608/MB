@@ -109,6 +109,15 @@ Feedback:   thank -> show understanding -> respond or improve
 - A practice session with unexpected questions.
 - Two holding phrases and two clarification phrases ready.
 
+## One question, two answers (original)
+
+**Question:** "Wouldn't a longer lunch break just mean more time for trouble?"
+
+- **In some detail:** "I don't think so, because clubs could run in the extra time, so students would be busy."
+- **Perceptive, with elaboration:** "That worry is really about supervision, so the plan only works if staff and
+  older students run activities. Clubs would also give students somewhere to be, which could make corridors quieter
+  rather than busier."
+
 ## Traps
 
 - Planning the answer before the question ends.

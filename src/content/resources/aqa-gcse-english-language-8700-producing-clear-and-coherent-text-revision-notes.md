@@ -110,6 +110,13 @@ Other devices: clear pronoun reference, lexical chains, repetition of a key imag
 - **Stance:** a concession must lead back to your position.
 - **Register:** no slang in a letter to an official; no stiff formality in a talk to peers unless for effect.
 
+## A five-minute plan for Section B
+
+1. Underline audience, purpose and form (Paper 2), or choose the stimulus (Paper 1).
+2. Write a one-line idea for each paragraph, in order.
+3. Mark the discourse marker that will open each paragraph.
+4. Decide how the ending will echo or answer the opening.
+
 ## Exam traps
 
 - Missing the audience in the Paper 2 task.

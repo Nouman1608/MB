@@ -96,6 +96,15 @@ reason.
 - Understatement can move a reader more than exclamation marks.
 - Match intensity to audience and form.
 
+## Impact in Paper 1 and Paper 2
+
+| Paper 1 (narrative or descriptive) | Paper 2 (viewpoint) |
+|---|---|
+| One fresh, developed image carries the mood | A memorable line carries the argument |
+| Emphasis through pace: a short sentence at the turning point | Emphasis through position: the strongest point first or last |
+| Emotional impact through a character's concrete detail | Emotional impact through a named, specific example |
+| Ending that echoes an opening image | Ending with a call to action or a resonant claim |
+
 ## Exam traps
 
 - A rhetorical question in every paragraph.
