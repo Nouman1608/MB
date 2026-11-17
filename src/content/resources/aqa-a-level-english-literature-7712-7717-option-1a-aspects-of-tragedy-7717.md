@@ -56,6 +56,11 @@ The anthology contains extracts from the Prologue of "The Monk's Tale" and "The 
 Paper 1 is closed book: you may not take any set text into the exam. Set texts are reviewed
 periodically, so confirm your list with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717--01-what-you-study.webp" width="900" height="642" alt="Text 1 is Othello or King Lear. Texts 2 and 3 come from six options, tagged where they are drama or pre-1900: Richard II (drama, pre-1900), Death of a Salesman (drama), Tess of the D’Urbervilles (pre-1900), The Great Gatsby, four poems by Keats including Lamia (pre-1900) and the AQA poetry anthology. Rules: at least one drama, at least one pre-1900 text, and a closed-book exam." loading="lazy">
+  <figcaption>One Shakespeare play plus two further texts, with at least one drama and one pre-1900.</figcaption>
+</figure>
+
 ## AQA's aspects of tragedy
 
 AQA's starting point is that "at the core of all the set texts is a tragic hero or heroine who is
@@ -95,6 +100,16 @@ pity and fear to an understanding of the human condition".
 **Absence.** "The absence of an 'aspect' can be as significant as its presence." A villain-less
 tragedy, or a poem with no catastrophe, is still worth analysing as tragedy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717--02-aspects-of-tragedy.webp" width="900" height="622" alt="AQA’s core statement about a flawed tragic hero and the interplay of villains and victims sits above nine aspects: type of tragedy, the protagonist’s journey, villain and victim, fate, effect on the world, violence, revenge, humour and happiness, structure, language and audience, and absence." loading="lazy">
+  <figcaption>Nine areas to explore, each a question to argue rather than a box to tick.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717--03-type-of-tragedy.webp" width="900" height="514" alt="A spectrum runs from classical tragedy about public figures, with King Lear at that end, to domestic tragedy about ordinary people, with Tess at the other. Othello sits in the middle as a general’s tragedy played out in a marriage." loading="lazy">
+  <figcaption>Most texts sit between classical public tragedy and domestic tragedy.</figcaption>
+</figure>
+
 ## How the three sections use the texts
 
 **Section A** prints a passage from your Shakespeare play. Analyse the passage closely as tragedy,
@@ -110,6 +125,16 @@ All five assessment objectives can apply across the paper: AO1 (an informed, per
 accurate writing, using concepts and terminology), AO2 (how meanings are shaped), AO3 (contexts),
 AO4 (connections across texts) and AO5 (different interpretations).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--01-p1-structure.webp" width="900" height="820" alt="Four chips give the facts: 2 hours 30 minutes, 75 marks, 40 percent of the A-level, closed book. Beneath, a bar splits into three equal 25-mark sections. Section A is a Shakespeare passage question answered on the play you studied; Section B is a Shakespeare essay and Section C an essay linking two texts, each chosen from two questions." loading="lazy">
+  <figcaption>Paper 1 has three compulsory 25-mark sections and no text in the exam room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--04-p1-section-c.webp" width="900" height="870" alt="Three boxes (drama, prose, poetry) lead to two linked circles, Text 1 and Text 2. Two ticked rules follow: one of the two texts must be a drama text and one must be written before 1900. A final note says to check your planned texts satisfy both before the exam." loading="lazy">
+  <figcaption>Section C links two texts, and the pair must include a drama text and a pre-1900 text.</figcaption>
+</figure>
+
 ## Worked example: passage analysis
 
 Suppose the passage is Othello's speech before the murder in Act 5 Scene 2. A strong answer might
@@ -122,6 +147,11 @@ contest of power has been won. Connecting outward, the answer would link this to
 earlier confidence in his own judgement, to Iago's soliloquies, and to the final speech, where
 recognition comes too late. AO5 enters naturally: some readers find Othello noble even here,
 others see self-deception, and the passage supports a debate between them.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717--04-passage-analysis.webp" width="900" height="724" alt="Othello’s speech before the murder in Act 5 Scene 2 links to three points: the image of putting out the light, blindness and insight, and Iago’s contest of power. The answer then reaches outward to Othello’s earlier confidence, Iago’s soliloquies and the final speech, and weighs two readings: Othello as noble even here, or as self-deceiving." loading="lazy">
+  <figcaption>Analyse the passage as tragedy, then connect it outward and weigh readings.</figcaption>
+</figure>
 
 ## Worked example: Section C link
 
@@ -136,6 +166,11 @@ the opponent's role. Argue that both texts make the victim more interesting beca
 diffused into society, then weigh the counter-view that Alec is a vivid, deliberate creation.
 Contexts: Victorian sexual morality; post-war American capitalism. Interpretation: a feminist
 reading of Tess; Miller's defence of the common man as tragic.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717--05-section-c-link.webp" width="900" height="734" alt="Tess of the D’Urbervilles and Death of a Salesman are compared point by point. Both are domestic tragedies where the villain is less a person than a system. Tess has a clear villain in Alec, while Salesman has none; the system is Angel’s rejection and the social code, against Howard’s dismissal and the dream of success. Contexts and interpretations are paired, and a note gives the argument and counter-view." loading="lazy">
+  <figcaption>Organise Section C by point of connection, not as two mini-essays.</figcaption>
+</figure>
 
 ## Common mistakes
 

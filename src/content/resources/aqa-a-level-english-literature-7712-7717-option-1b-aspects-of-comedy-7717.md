@@ -56,6 +56,11 @@ My Best Side" (Fanthorpe) and "My Rival's House" (Lochhead).
 Paper 1 is closed book, so quotations must be learned. Set texts are reviewed periodically;
 confirm your list with your teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--01-what-you-study.webp" width="900" height="626" alt="Text 1 is The Taming of the Shrew or Twelfth Night. Texts 2 and 3, one pre-1900 drama and one further text, come from six options tagged drama or pre-1900: She Stoops to Conquer and The Importance of Being Earnest (both), Emma and The Nun’s Priest’s Tale (pre-1900), Small Island and the AQA poetry anthology. A note says one text can meet two requirements." loading="lazy">
+  <figcaption>One Shakespeare comedy plus a pre-1900 drama and one further text.</figcaption>
+</figure>
+
 ## AQA's definition of comedy
 
 AQA's set texts are stories "which primarily amuse, where the discomfort of characters generally
@@ -90,6 +95,11 @@ From AQA's list of areas to explore, these do most work in essays:
 - **The audience**: laughter at "ridiculous behaviour" and "a sense of joy that positive
   resolutions are possible".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--02-aspects-of-comedy.webp" width="900" height="788" alt="AQA’s definition of comedy sits above twelve areas to explore, each with examples from the set texts: type, the journey to knowledge, the comic villain or rival, scale, folly and trickery, clowns and posturing, disguise and discovery, structure, language, self-awareness, the audience and absence." loading="lazy">
+  <figcaption>Twelve areas to explore, anchored by marriage, ridicule and a sense of joy.</figcaption>
+</figure>
+
 ## The central debate: does the ending resolve?
 
 AQA's emphasis on marriage, order and joy invites a question that strong answers always raise: who
@@ -99,6 +109,11 @@ Island*, comic misunderstandings sit alongside racism and wartime loss, so the n
 comedy can contain pain. These are not reasons to deny that the texts are comedies; they are
 evidence for a debate about what comic resolution costs.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--03-who-is-left-out.webp" width="900" height="660" alt="A circle labelled the happy ending, with marriage, order and joy, is surrounded by four cases outside it: Malvolio exiting vowing revenge, Antonio left alone, Katherina’s final speech read as sincere, ironic or forced, and Small Island’s comedy alongside racism and wartime loss." loading="lazy">
+  <figcaption>Asking who is left out turns the ending into a debate about what resolution costs.</figcaption>
+</figure>
+
 ## How the three sections use the texts
 
 **Section A** prints a passage from your Shakespeare play: analyse it closely as comedy and link it
@@ -106,6 +121,16 @@ to the whole play. **Section B** is an essay on the same play. **Section C** con
 texts; its rubric requires one drama and one pre-1900 text. Assessment objectives: AO1 (informed,
 personal response, concepts and accurate writing), AO2 (how meanings are shaped), AO3 (contexts),
 AO4 (connections) and AO5 (interpretations).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--01-p1-structure.webp" width="900" height="820" alt="Four chips give the facts: 2 hours 30 minutes, 75 marks, 40 percent of the A-level, closed book. Beneath, a bar splits into three equal 25-mark sections. Section A is a Shakespeare passage question answered on the play you studied; Section B is a Shakespeare essay and Section C an essay linking two texts, each chosen from two questions." loading="lazy">
+  <figcaption>Paper 1 has three compulsory 25-mark sections and no text in the exam room.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-literary-genres--04-p1-section-c.webp" width="900" height="870" alt="Three boxes (drama, prose, poetry) lead to two linked circles, Text 1 and Text 2. Two ticked rules follow: one of the two texts must be a drama text and one must be written before 1900. A final note says to check your planned texts satisfy both before the exam." loading="lazy">
+  <figcaption>Section C links two texts, and the pair must include a drama text and a pre-1900 text.</figcaption>
+</figure>
 
 ## Worked example: a Section A-style paragraph
 
@@ -127,6 +152,11 @@ letter while the tricksters watch from hiding.
 The paragraph combines close analysis (AO2), genre terms from AQA's list (AO1), context (AO3) and a
 second interpretation (AO5).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--04-letter-scene.webp" width="900" height="849" alt="A stage sketch: Malvolio reads the forged letter centre stage while Sir Toby, Sir Andrew and Fabian react from hiding, and the theatre audience below laughs at the gull and with the tricksters. Three steps follow: his pride becomes his humiliation, the trick leads to a harsher turn, and original and modern audiences may read it differently." loading="lazy">
+  <figcaption>Laughter at the gull and with the tricksters, then a turn that tests comedy’s limits.</figcaption>
+</figure>
+
 ## Worked example: Section C plan
 
 **Question shape (original):** "Comedies mock those who try to rise above their place." Discuss with
@@ -139,6 +169,11 @@ Elton's ambition to marry Emma is rejected. Argue that both comedies mock social
 mock snobbery itself, then weigh the counter-view that Kate's stooping is rewarded. Context:
 eighteenth-century and Regency class codes. Interpretation: comedy as conservative (restoring the
 order of rank) or subversive (exposing it).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717--05-section-c-plan.webp" width="900" height="747" alt="She Stoops to Conquer and Emma are compared point by point: Marlow’s two manners against Emma’s matchmaking for Harriet; Kate stooping to conquer against Mr Elton’s rejected ambition; and eighteenth-century against Regency class codes. The argument is that both mock climbing and snobbery, weighed against Kate’s rewarded stooping, and a balance sets conservative against subversive readings of comedy." loading="lazy">
+  <figcaption>Link the texts point by point, then weigh whether comedy restores or exposes rank.</figcaption>
+</figure>
 
 ## Common mistakes
 

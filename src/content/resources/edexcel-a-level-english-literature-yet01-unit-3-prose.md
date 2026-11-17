@@ -43,6 +43,11 @@ covers the paper as a whole.
 | AOs | AO1, AO2, AO3, AO4 |
 | Format | Open book |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--01-section-b-at-a-glance.webp" width="900" height="612" alt="Unit 3 is a 50-mark open-book paper: Section A is 20 marks and Section B Prose 30. You study two of the three texts in one theme and write one comparative essay from a choice of two questions, comparing the texts and considering context. It is assessed on AO1, AO2, AO3 and AO4, so it needs the larger share of the two hours." loading="lazy">
+  <figcaption>The largest essay: two novels, four objectives, 30 marks.</figcaption>
+</figure>
+
 ## The themes and texts
 
 | Theme | Texts |
@@ -56,6 +61,11 @@ Several pairings place a nineteenth-century novel beside a twentieth- or twenty-
 That gap is useful: it gives AO3 and AO4 something to explain, because the writers approach a shared
 theme from different historical positions.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--02-themes-and-texts-timeline.webp" width="900" height="802" alt="Four timelines from 1800 to 2010, one per theme. Growing Up: Great Expectations (1860–61), What Maisie Knew (1897), The Color Purple (1982). Colonisation and After: Heart of Darkness (1899), A Passage to India (1924), The Lonely Londoners (1956). Science and Society: Frankenstein (1818), The Handmaid’s Tale (1985), Never Let Me Go (2005). Women and Society: Wuthering Heights (1847), Mrs Dalloway (1925), Beloved (1987)." loading="lazy">
+  <figcaption>Pairings often span a century, which gives context and comparison something to explain.</figcaption>
+</figure>
+
 ## The four AOs together
 
 | AO | What it asks in Section B |
@@ -67,6 +77,11 @@ theme from different historical positions.
 
 A paragraph that does all four is the goal: a point about the question (AO1), analysis of a method in
 both novels (AO2), the comparison itself (AO4), and context explaining the difference (AO3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--03-four-aos-one-paragraph.webp" width="900" height="586" alt="Four stacked layers of a single paragraph: AO1, a point about the question in a coherent personal argument; AO2, analysis of a method in both novels; AO4, the comparison itself; and AO3, context of writing and reception explaining the difference." loading="lazy">
+  <figcaption>Aim for a point, method in both novels, comparison and context in every paragraph.</figcaption>
+</figure>
 
 ## Building a comparison framework
 
@@ -86,6 +101,11 @@ Before the exam, build a grid for your pair with rows like these:
 Each row is a potential paragraph. On the day, choose the three or four rows that answer the question
 best.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--04-comparison-framework.webp" width="900" height="656" alt="A grid with columns for Text A and Text B and eight rows: narrative voice, structure and time, setting and its symbolism, central relationships, treatment of the theme’s core idea, endings, context of production and context of reception. Four rows are marked as an example of choosing the three or four that best answer the question." loading="lazy">
+  <figcaption>Fill the grid in revision; pick three or four rows on the day.</figcaption>
+</figure>
+
 ## Context: production and reception
 
 The specification's guidance lists the writer's life (only where it relates to the text), the
@@ -96,6 +116,11 @@ critics have arrived at alternative interpretations.
 Reception context is often the most useful in a comparison, because it lets you explain why a modern
 reader responds to an older novel differently from its first readers, or how a later novel answers an
 earlier tradition.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--05-production-and-reception.webp" width="900" height="520" alt="Two columns from the specification’s guidance. Production: the writer’s life where relevant, the historical setting, social and cultural contexts, and literary movements and genres. Reception: how the text has been reviewed, used, edited and adapted, and how readers have reached alternative interpretations. Reception explains why modern readers respond differently and how a later novel answers an earlier tradition." loading="lazy">
+  <figcaption>Reception context is often the most useful for explaining a difference.</figcaption>
+</figure>
 
 ## Worked example: Theme 4
 
@@ -140,6 +165,16 @@ Conclusion: marriage as social necessity and personal cost in both; differing in
 What earns credit: comparison within the paragraph (AO4); analysis of narrative structure and voice in
 both novels (AO2); an argued judgement (AO1); literary context (Victorian frame narrative and modernist
 interiority) used to explain the difference (AO3).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--06-worked-plan-theme-4.webp" width="900" height="803" alt="A comparative plan for Wuthering Heights and Mrs Dalloway. Thesis: both heroines choose a secure husband over passion, a destructive betrayal in Brontë and an examined compromise in Woolf. Five paragraphs compare the choice, narrative method, structure and time, context, and reception, each across both novels. Conclusion: marriage as necessity and cost, destroying or diminishing." loading="lazy">
+  <figcaption>Every row of the plan compares both novels on the same point.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-3-prose--07-narrative-distance.webp" width="900" height="770" alt="Left: Wuthering Heights as nested frames, Lockwood around Nelly around Catherine, so the reader sees her words at a distance and weighs Nelly’s disapproval. Right: Mrs Dalloway places the reader inside Clarissa’s mind through free indirect discourse, revisiting her choice decades later. The difference is explained by the Victorian frame narrative against modernist interest in consciousness." loading="lazy">
+  <figcaption>Brontë’s frames distance us from the choice; Woolf’s interiority brings us inside it.</figcaption>
+</figure>
 
 ## Integrating rather than alternating
 

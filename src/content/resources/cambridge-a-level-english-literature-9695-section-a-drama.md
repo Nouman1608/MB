@@ -43,6 +43,16 @@ For the 2026 examination the Section A plays are Albee's *Who's Afraid of Virgin
 keeps the Albee and *The Tempest* and adds Aphra Behn's *The Rover* and Inua Ellams's *Barber Shop
 Chronicles*. Set texts change, so confirm the list for your own examination year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--01-section-a-at-a-glance.webp" width="900" height="737" alt="Paper 1 is worth 50 marks: Section A Drama is 25 marks for one essay and Section B Poetry the other 25. On each set play you choose question (a), an essay on the whole play with nothing printed, or question (b), a printed passage analysed closely and related to the rest of the play. Section A is assessed on AO1 to AO4 only, and the play cannot be taken into the exam." loading="lazy">
+  <figcaption>One essay worth 25 marks: choose the whole-play essay (a) or the passage question (b).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--02-set-plays-2026-2027.webp" width="900" height="566" alt="Two overlapping lists of Section A plays. Albee’s Who’s Afraid of Virginia Woolf? and Shakespeare’s The Tempest are set for both 2026 and 2027. Errol John’s Moon on a Rainbow Shawl and Webster’s The Duchess of Malfi are set for 2026 only; Aphra Behn’s The Rover and Inua Ellams’s Barber Shop Chronicles are added for 2027." loading="lazy">
+  <figcaption>Two plays carry over from 2026 to 2027; check the list for your own year.</figcaption>
+</figure>
+
 ## The key idea: a script is a set of instructions for performance
 
 A novel tells you what to think through a narrator. A play has no narrator. Meaning reaches the audience
@@ -92,6 +102,16 @@ theatrical: the conventions of revenge tragedy, romance or naturalism, and the s
 for. A comment that explains why a dramatist uses a convention, or breaks it, is worth more than a
 paragraph of historical background.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--03-script-as-performance.webp" width="900" height="660" alt="A novel passes meaning through a narrator who tells the reader what to think. A play has no narrator: meaning reaches the audience through what they see and hear on stage, namely speech, silence, movement, objects, light, sound and the order of scenes." loading="lazy">
+  <figcaption>With no narrator, a play’s meaning is carried by what the audience sees and hears.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--04-reading-a-script.webp" width="900" height="638" alt="Three columns. Language: verse and prose shifts, interruption and overlap, and subtext. The visual stage: stage directions such as pauses, exits and props, embedded directions in the lines, and silent onlookers. Structure: dramatic irony, juxtaposed scenes, pace, and what the audience is left looking at. Below, a band on theatrical context: conventions of revenge tragedy, romance or naturalism and the original stage." loading="lazy">
+  <figcaption>Read dialogue, staging and structure together, and tie context to a dramatic choice.</figcaption>
+</figure>
+
 ## Writing the (b) passage answer
 
 The passage is the evidence; your knowledge of the whole play is the frame.
@@ -127,6 +147,16 @@ The paragraph quotes a stage direction as evidence, explains the effect on an au
 left unsaid, and ends on an interpretation. In a real answer it would then link the moment to a later
 scene.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--05-passage-answer-method.webp" width="900" height="784" alt="A bar of the whole play with the passage highlighted and dashed arrows to three other moments marked echo, contrast and reversal. Four numbered steps: place the passage, find its dramatic function as your thesis, move through it following its shape, and look outward to other moments two or three times." loading="lazy">
+  <figcaption>The passage is the evidence; your knowledge of the whole play is the frame.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--06-annotated-model-extract.webp" width="900" height="786" alt="The guide’s original three-line extract with four numbered highlights. 1: Helen moves a cup away from Marcus, withdrawing a welcome without dialogue. 2: “Trains are never early” flatly contradicts him. 3: the pause lets the accusation hang unspoken. 4: “if you’re staying” turns an invitation into a challenge that places the blame on him." loading="lazy">
+  <figcaption>A stage direction, a contradiction, a pause and a conditional carry the scene’s tension.</figcaption>
+</figure>
+
 ## Writing the (a) essay
 
 An (a) question names a focus (a character, a relationship, a theme or a dramatic method) and asks you to
@@ -139,6 +169,11 @@ discuss it across the play. Build the answer like this:
 - **Track change.** Plays move. Show how the focus develops, so your essay has a direction rather than a
   list of examples.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--07-whole-play-essay.webp" width="900" height="818" alt="A bar of the whole play with four chosen moments at the opening, middle, later and ending, and a rising line showing the focus developing across them. Four steps: thesis first, choose three or four moments including the ending, analyse each as theatre, and track change." loading="lazy">
+  <figcaption>Pick moments from across the play, ending included, and show how the focus develops.</figcaption>
+</figure>
+
 ## Command words in Section A questions
 
 Cambridge's command words for 9695 include **discuss** (write about an issue in depth in a structured
@@ -146,6 +181,11 @@ way), **analyse** (examine in detail to show meaning and the relationship betwee
 **comment** (give an informed opinion). You will also meet phrases such as "In what ways…?" and "How far,
 and in what ways…?". "How far" needs a judgement: say to what extent you agree, then qualify it. "In what
 ways" needs a range of methods, so cover language, staging and structure, not just one.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-a-drama--08-command-words.webp" width="900" height="538" alt="Three command words: discuss means write about an issue in depth in a structured way, analyse means examine in detail to show meaning and the relationship between elements, and comment means give an informed opinion. “How far” questions need a judgement placed on a scale and then qualified; “In what ways” questions need a range of methods: language, staging and structure." loading="lazy">
+  <figcaption>“How far” wants a qualified judgement; “in what ways” wants a range of methods.</figcaption>
+</figure>
 
 ## Common mistakes
 

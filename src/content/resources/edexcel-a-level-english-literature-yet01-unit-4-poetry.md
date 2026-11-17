@@ -51,6 +51,11 @@ covers the whole paper.
 Only the poems listed in the specification's appendix are prescribed; check the current list with your
 teacher.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--01-section-b-at-a-glance.webp" width="900" height="736" alt="Section B is worth 25 of Unit 4’s 50 marks: one open-book essay, from a choice of two, responding to a statement about one movement, considering context and different interpretations. The movements and collections are the Metaphysical Poets (ed. Colin Burrow), the Victorians (ed. Christopher Ricks) and the Romantics (ed. David Wright). It is assessed on AO1, AO2, AO3 and AO5." loading="lazy">
+  <figcaption>One essay testing a statement about a whole poetic movement.</figcaption>
+</figure>
+
 ## What the learning outcomes ask
 
 The 4.4 outcomes ask you to understand the function of key features in poetry; read for detail of how
@@ -68,6 +73,11 @@ poems**, each analysed in at least one detailed paragraph, with shorter supporti
 Choose poems that let you **test** the statement: at least one that supports it and one that complicates
 it.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--02-ranging-and-depth.webp" width="900" height="564" alt="A statement about the movement sits above a line running from “supports it” to “complicates it”, with poems placed along it, including one used only for a shorter reference. Guidance: analyse three or four poems in at least one detailed paragraph each, add shorter supporting references, and choose at least one poem that supports and one that complicates the statement." loading="lazy">
+  <figcaption>Three or four poems in depth, chosen to both support and complicate the statement.</figcaption>
+</figure>
+
 ## Movement profiles
 
 | Movement | Characteristic concerns | Characteristic methods | Prescribed poems often discussed |
@@ -75,6 +85,11 @@ it.
 | Metaphysical | Love, sex, death and God; argument and persuasion; the soul and the body | Conceits; dialectical argument; colloquial, dramatic openings; wit and paradox | Donne's "The Flea" and Holy Sonnets; Marvell's "To His Coy Mistress" and "The Definition of Love"; Bradstreet's "A Letter to her Husband" |
 | Romantic | Nature and the imagination; the individual self; childhood and memory; protest against social injustice | The ode; lyric first person; blank-verse meditation; the sublime; ballad-like simplicity (Blake) | Blake's "London"; Wordsworth's "Tintern Abbey" and "Lines Written in Early Spring"; Keats's "Ode to a Nightingale" |
 | Victorian | Faith and doubt; grief and memory; love and its constraints; social change | Dramatic monologue; elegy; lyric sequences; irony | Tennyson's *In Memoriam*; Browning's "My Last Duchess"; Rossetti's "Remember" and "Echo"; Hardy's "The Darkling Thrush" and "Drummer Hodge" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--03-movement-profiles.webp" width="900" height="755" alt="Three columns. Metaphysical: love, sex, death and God, argument and the soul and body, through conceits, dialectical argument, dramatic openings and wit, in poems by Donne, Marvell and Bradstreet. Romantic: nature, imagination, the self, childhood and social protest, through the ode, lyric first person, blank-verse meditation, the sublime and Blake’s ballad simplicity. Victorian: faith and doubt, grief, love’s constraints and social change, through dramatic monologue, elegy, sequences and irony." loading="lazy">
+  <figcaption>Each movement has its own concerns, methods and key poems.</figcaption>
+</figure>
 
 ## AO3: literary context first
 
@@ -86,6 +101,11 @@ as the writer's life (only where relevant), historical and social contexts, and 
 | Metaphysical | The term was applied later: Samuel Johnson used "metaphysical poets" critically in his life of Cowley; seventeenth-century learning, new science and religious controversy; manuscript circulation among coteries |
 | Romantic | The French Revolution and its aftermath; industrialisation and the growth of cities; Wordsworth's argument in the Preface to *Lyrical Ballads* that poetry is "the spontaneous overflow of powerful feelings" |
 | Victorian | Religious doubt in an age of geology and evolution; the expansion of empire and its wars; mourning culture; constraints on women's lives and voices |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--04-context-and-debates.webp" width="900" height="665" alt="A table for each movement. Metaphysical: the label applied later by Johnson, new science and coterie manuscripts; debate between Johnson’s complaint of ideas “yoked by violence together” and Eliot’s praise of fused thought and feeling. Romantic: the French Revolution, industrial cities and Wordsworth’s Preface; debate between escape and political engagement. Victorian: doubt, empire, mourning and constraints on women; debate over consolation and the dramatic monologue." loading="lazy">
+  <figcaption>Literary context comes first, and each movement has a debate to test.</figcaption>
+</figure>
 
 ## AO5: interpretations of a movement
 
@@ -139,6 +159,16 @@ Conclusion: feeling is the Romantic method; the world is often its subject
 What earns credit: a direct response to the statement (AO1); analysis of voice, imagery and a key phrase
 (AO2); historical context tied to the poem's method (AO3); a critical position tested against the
 evidence (AO5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--05-worked-plan-romantics.webp" width="900" height="891" alt="The statement that Romantic poetry cares more for the poet’s feelings than the world, with four poems placed on a line between the two: Ode to a Nightingale near feeling, Tintern Abbey and Lines Written in Early Spring in the middle, and London near the world. Four planned paragraphs follow, ending in the conclusion that feeling is the Romantic method and the world is often its subject." loading="lazy">
+  <figcaption>Place poems along the statement, then argue from those that support and complicate it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-4-poetry--06-model-paragraph-london.webp" width="900" height="641" alt="The model paragraph on Blake’s London broken into its credited parts. AO1: London challenges the statement because feeling is directed at others. AO2: “I wander” promises a personal lyric but records others’ suffering, and “mind-forg’d manacles” makes oppression psychological. AO3: the decade of revolution and change makes the speaker a witness. AO5: readings of Romanticism as retreat must account for such poems." loading="lazy">
+  <figcaption>One paragraph that answers the statement and covers AO1, AO2, AO3 and AO5.</figcaption>
+</figure>
 
 ## Reading older language
 

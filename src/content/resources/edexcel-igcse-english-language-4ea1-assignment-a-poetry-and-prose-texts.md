@@ -46,6 +46,16 @@ component fits the qualification.
 The task may be devised by your teacher or self-generated, and students in a class may write on the
 same texts.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--01-assignment-a-at-a-glance.webp" width="900" height="556" alt="Assignment A is 30 marks: 12 for AO1 and 18 for AO2, which is 60%. It uses three Anthology Part 2 texts including at least one poem and one prose text, one focus such as setting, character, event or theme, and about 1200 words. The suggested task asks how the writers use language and structure to present the focus in the three texts." loading="lazy">
+  <figcaption>Three texts, one focus, about 1200 words; AO2 carries 60% of the marks.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-edexcel-english-language-component-3--04-c3-mix.webp" width="900" height="960" alt="Four possible three-text selections drawn as icons with allowed or not-allowed marks." loading="lazy">
+  <figcaption>Assignment A needs at least one poetry and one prose text, so two poems + one prose or one poem + two prose are allowed; all poems or all prose are not.</figcaption>
+</figure>
+
 ## Choosing a trio and a focus
 
 The best focus is **narrow enough to argue** and **broad enough to fit all three texts**. Test it with
@@ -61,6 +71,11 @@ three questions:
 | "Feelings" | Too vague to argue | "Moments of private realisation" |
 | "War" | Fits few texts | "Violence and its aftermath" |
 | "Women" | Topic, not idea | "The pressure of other people's expectations" |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--02-choosing-a-focus.webp" width="900" height="742" alt="Three tests for a focus: is it central in each text, do the writers present it differently, and do the texts use different methods? Weak focuses are improved: “Feelings” becomes “Moments of private realisation”, “War” becomes “Violence and its aftermath”, and “Women” becomes “The pressure of other people’s expectations”." loading="lazy">
+  <figcaption>A good focus is narrow enough to argue and broad enough for all three texts.</figcaption>
+</figure>
 
 ## How the marks work
 
@@ -78,6 +93,11 @@ Two practical consequences:
 - The specification counts a **textual reference** as either a direct quotation or a reference to a
   specific moment or event. For prose, a precise reference to a moment can be as useful as a quotation.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--03-mark-levels.webp" width="900" height="703" alt="A table of levels 3 to 5. AO1 runs from “clear and relevant selection” at Level 3 (7–9) to “perceptive interpretation” at Level 4 (10–12), its top level. AO2 runs from “clear explanations” at Level 3 (7–10) through “detailed exploration” at Level 4 (11–14) to “perceptive analysis” at Level 5 (15–18)." loading="lazy">
+  <figcaption>The top levels reward perceptive interpretation and analysis.</figcaption>
+</figure>
+
 ## Building a line of argument
 
 A strong Assignment A is one essay, not three. Two structures work:
@@ -90,6 +110,11 @@ previous one and closes by pointing forward. This suits trios where the methods 
 
 Either way, open with a **thesis** that names the focus and a claim about how the writers present it,
 and close with a judgement about what the three texts, taken together, suggest.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--04-one-essay-two-structures.webp" width="900" height="618" alt="Two essay structures. Integrated by idea: each paragraph takes one aspect and discusses two or three texts within it. Sequenced with links: one section per text, each linking back to the previous one and pointing forward. Either opens with a thesis and closes with a judgement about what the three texts suggest together." loading="lazy">
+  <figcaption>Integrated or sequenced, the essay needs a thesis and links throughout.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -130,6 +155,11 @@ What earns credit: a comparative point on structure (endings) across all three t
 interpretation of what the encounter means in each (AO1), and analysis of form in the Alvi example
 (line length, tense).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--05-strangers-plan.webp" width="900" height="694" alt="A plan grid for the trio “The Bright Lights of Sarajevo”, “Significant Cigarettes” and “An Unknown Girl”. Paragraphs cover setting as threat, how the meeting is shaped, identity, and endings: hope in Harrison, uncertainty in Tremain and something that will fade in Alvi. The conclusion presents the encounters as fragile but meaningful." loading="lazy">
+  <figcaption>Plan by idea so every paragraph compares the three texts.</figcaption>
+</figure>
+
 ## Drafting within the rules
 
 - Your teacher **may suggest general improvements at the draft stage**, but **you** must make the
@@ -140,6 +170,11 @@ interpretation of what the encounter means in each (AO1), and analysis of form i
 
 Use the draft stage for three jobs: check that every paragraph answers the focus, replace any retelling
 with analysis, and make sure each text has at least one detailed, close-reading moment.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts--06-drafting-within-rules.webp" width="900" height="626" alt="Four stages: you write the draft independently, the teacher may suggest general improvements, you make the corrections, and once marked the work must not be rewritten. The draft stage has three jobs: check every paragraph answers the focus, replace retelling with analysis, and include close reading in each text." loading="lazy">
+  <figcaption>The teacher may advise; you make every change, before marking.</figcaption>
+</figure>
 
 ## Common mistakes
 

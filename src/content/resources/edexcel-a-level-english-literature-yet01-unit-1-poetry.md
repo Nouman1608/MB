@@ -44,6 +44,11 @@ paragraph.
 Unit 1 lasts 2 hours for 50 marks in total, so Section A is worth half the paper. Because AO4 is
 assessed in Unit 1 only in Section A, the whole of the unit's comparison credit rests on this essay.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--01-section-a-at-a-glance.webp" width="900" height="673" alt="Unit 1 lasts 2 hours for 50 marks, and Section A is a 25-mark comparative essay on a named poem and a second poem of your choice from the prescribed list, chosen from two questions, with the poems available in a Source Booklet. It is assessed on AO1, AO2 and AO4, not AO3, and is the only place in Unit 1 where AO4 comparison is credited." loading="lazy">
+  <figcaption>One comparative essay worth half the paper, and all of Unit 1’s AO4 credit.</figcaption>
+</figure>
+
 ## What the specification asks you to learn
 
 The specification lists **key features of poetry** to be studied: form and structure; language
@@ -58,6 +63,11 @@ outcomes add that you should:
 
 "With discrimination" matters: a term earns credit when it is the right term and leads to an insight,
 not when it decorates a sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--02-key-features-and-outcomes.webp" width="900" height="659" alt="Seven key features of poetry around a hub: form and structure, language choice, imagery symbols and motifs, rhyme and rhythm, theme, tone and mood, and voice. Below, four learning outcomes: how poets adapt language, form and structure; connections between poems; how attitudes and values are expressed; and critical terms used with discrimination." loading="lazy">
+  <figcaption>Seven features to study, and terms that earn credit only when they lead to insight.</figcaption>
+</figure>
 
 ## The three assessment objectives in Section A
 
@@ -93,6 +103,16 @@ Groupings are a starting point, not a rule; most poems fit several themes. For e
 three methods you could compare (for example its use of a speaker, its stanza form, a key image, its
 ending) so that the comparison is ready on both levels.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--03-choosing-the-second-poem.webp" width="900" height="516" alt="Beside the named poem, “the one you know best” is crossed out and “the one that lets you argue” is ticked. A good second poem shares the question’s focus, treats it differently in attitude, voice or method, and offers formal contrast. Spend about five minutes choosing and sketching a comparison grid." loading="lazy">
+  <figcaption>Pick the poem that lets you argue, not the one you know best.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--04-pairing-grid.webp" width="900" height="670" alt="A table grouping the prescribed poems by eight broad themes: memory and childhood; parents, loss and grief; identity and belonging; violence, power and control; history and public events; modern life and frustration; illness and the body; and leaving, travel and risk. A note says most poems fit several themes and each should be paired with methods to compare." loading="lazy">
+  <figcaption>Group poems by theme, then add the methods you could compare.</figcaption>
+</figure>
+
 ## Structuring the comparison
 
 Organise **by point of comparison**, not poem by poem. A reliable paragraph shape:
@@ -104,6 +124,11 @@ Organise **by point of comparison**, not poem by poem. A reliable paragraph shap
 
 Four or five such paragraphs, an introduction with a comparative thesis, and a short conclusion that
 judges the two poems' different perspectives make a complete answer.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--05-comparative-paragraph.webp" width="900" height="669" alt="Four stacked parts of one paragraph: a comparative point naming both poems, then Poem A’s method, reference and effect, then Poem B’s, then a connection explaining why the poets differ or converge. Below, the whole answer: an introduction with a comparative thesis, four or five such paragraphs, and a conclusion that judges the two perspectives." loading="lazy">
+  <figcaption>Point, Poem A, Poem B, connection: comparison inside every paragraph.</figcaption>
+</figure>
 
 ## Worked example: modelling the method
 
@@ -146,6 +171,11 @@ written for this page. Apply the same steps to your anthology.
 The paragraph compares methods (list form, simile, enjambment, syntax, chiasmus) and attitudes (denial
 and internalised grief) in the same sentences, which is how AO4 and AO2 are shown together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--06-worked-example-two-poems.webp" width="900" height="801" alt="Two short original poems side by side: Inventory, a list of a dead woman’s belongings, and Clearing the House, a single sentence about emptying a house. A table compares them. Form: a verbless list against one long sentence of work verbs. Key moment: a simile of denial with enjambment against a closing chiasmus. Where grief sits: outside the speaker against turned inward." loading="lazy">
+  <figcaption>Compare methods and attitudes in the same sentence to show AO2 and AO4 together.</figcaption>
+</figure>
+
 ## Using the open book well
 
 The anthology is with you, so the skill is **navigation**. Know where each poem's key lines are, and
@@ -169,6 +199,11 @@ a few words analysed closely earn more than a stanza copied out.
 - Spend about five minutes deciding the second poem and a four-row comparison grid.
 - Allow roughly an hour for Section A, leaving the rest of the two hours for Section B.
 - Keep the question's key word in every topic sentence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/edexcel-a-level-english-literature-yet01-unit-1-poetry--07-exam-technique.webp" width="900" height="530" alt="A two-hour bar: about five minutes to choose the second poem and sketch a grid, roughly an hour in total for Section A, and the rest for Section B. Four tips: read both questions, navigate the open book and check which copies are allowed, quote briefly, and keep the question’s key word in every topic sentence." loading="lazy">
+  <figcaption>About an hour for Section A, starting with five minutes of choosing and planning.</figcaption>
+</figure>
 
 ## Where to go next
 

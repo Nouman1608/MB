@@ -55,6 +55,11 @@ battery and the requirements for false imprisonment in more depth than the
 - **Standard of proof.** As civil wrongs, they are proved on the balance of probabilities, even though
   the same facts may also be crimes.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--01-trespass-or-negligence.webp" width="900" height="584" alt="A flow chart: if the harm followed directly from an intentional or reckless act, the claim is trespass to the person, actionable without proof of damage. If the act was unintentional, the claim lies in negligence and damage must be proved (Letang v Cooper). All are proved on the balance of probabilities." loading="lazy">
+  <figcaption>Direct and intentional: trespass, no damage needed. Unintentional: negligence, damage needed.</figcaption>
+</figure>
+
 ## 4.3.1 Assault
 
 An **assault** is an act that causes the claimant reasonably to apprehend the immediate infliction of
@@ -76,6 +81,11 @@ Words can create an assault where they lead the claimant to expect immediate for
 were not assize-time, I would not take such language from you", which showed he did not intend to use
 force. Silence can be enough: in R v Ireland (1998), a criminal case usually cited on this point,
 silent telephone calls were capable of causing the victim to fear immediate violence.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--02-assault.webp" width="900" height="542" alt="Assault requires the claimant to apprehend immediate unlawful force, not to feel fear. Stephens v Myers and Thomas v NUM show immediacy and means; Read v Coker shows reasonableness. Words can create an assault or negate one (Tuberville v Savage), and silence can be enough (R v Ireland)." loading="lazy">
+  <figcaption>The test is reasonable apprehension of immediate force; words can make or unmake it.</figcaption>
+</figure>
 
 ## 4.3.2 Battery
 
@@ -119,6 +129,16 @@ everyday life.
   In F v West Berkshire Health Authority a sterilisation was lawful because it was in the best
   interests of a patient unable to consent.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--03-battery-force.webp" width="900" height="636" alt="Battery covers any touching (Cole v Turner), force through an object and continuing acts (Fagan). Everyday contact is not a battery (Collins v Wilcock), though holding a woman’s arm without arrest was. On hostility, Wilson v Pringle required it but F v West Berkshire said it is not needed; the better view asks whether the touching is outside generally accepted everyday conduct." loading="lazy">
+  <figcaption>The least unwanted touching can be a battery; everyday contact is not.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--04-battery-defences.webp" width="900" height="436" alt="Three defences to battery. Consent, express or implied: in medical treatment if informed in broad terms (Chatterton v Gerson), with a right to refuse (Re T), and in sport for contact within the rules. Self-defence needs an honest and reasonable belief and proportionate force (Lane v Holloway; Ashley). Necessity covers preventing greater harm (Leigh v Gladstone, now doubted; F v West Berkshire)." loading="lazy">
+  <figcaption>Consent, self-defence and necessity, each with its limit.</figcaption>
+</figure>
+
 ## 4.3.3 False imprisonment
 
 **False imprisonment** is the unlawful total restraint of a person's liberty, for any time, however
@@ -152,6 +172,11 @@ good faith. In Austin v Commissioner of Police of the Metropolis (2009) the Hous
 containing protesters for several hours to prevent violence was not a deprivation of liberty contrary
 to Article 5 of the European Convention on Human Rights.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--05-false-imprisonment.webp" width="900" height="667" alt="Two pictures: a person in a locked room is totally restrained, while in Bird v Jones a claimant blocked on part of a bridge could go back the other way, so was not imprisoned. Four panels: escape routes must be reasonable; reasonable conditions on leaving are allowed (Robinson v Balmain; Herd v Weardale); knowledge is not needed (Meering; Murray); and restraint must be lawful (PACE; ex parte Evans; Austin)." loading="lazy">
+  <figcaption>Restraint must be total; partial obstruction is not false imprisonment.</figcaption>
+</figure>
+
 ## Annotated model answer
 
 *Scenario: At a supermarket, a security guard, Ali, suspects Nora of shoplifting. He shouts, "Stop or
@@ -170,6 +195,11 @@ door to a fire escape is unlocked, but Nora does not know this. Nora had not sto
    likely to exceed any lawful authority Ali had.
 5. **Conclusion:** Nora can sue for all three torts without proving damage, and her damages may include
    compensation for humiliation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-torts-affecting-the-person--06-nora-model-answer.webp" width="900" height="584" alt="A timeline of Ali’s three acts: the shout is an assault (Stephens v Myers), grabbing Nora’s arm is a battery (Collins v Wilcock), and locking her in a room for 40 minutes is false imprisonment despite an unknown unlocked fire exit. A citizen’s arrest under s24A PACE probably does not justify it, so Nora can sue for all three without proving damage." loading="lazy">
+  <figcaption>Three acts, three torts; then ask whether the restraint was lawful.</figcaption>
+</figure>
 
 ## Common mistakes
 

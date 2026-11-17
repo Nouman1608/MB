@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--01-term-or-representation.webp",
+  "width": 900,
+  "height": 736,
+  "after": "## 3.2.1 Terms and representations",
+  "alt": "A table of four guides to whether a statement is a term or a representation, each with the lesson’s cases: importance (Bannerman v White, Couchman v Hill), timing (Routledge v McKay), special knowledge (Dick Bentley against Oscar Chess) and invitation to verify (Schawel v Reade against Ecay v Godfrey). An untrue term is a breach of contract; an untrue representation needs a misrepresentation claim.",
+  "caption": "Classify the statement first: a term gives a breach claim, a representation does not.",
+  "bytes": 159176
+ },
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--02-written-terms.webp",
+  "width": 900,
+  "height": 703,
+  "after": "## 3.2.1 Terms and representations",
+  "alt": "Two rules with their exceptions. Signature: a party who signs is bound whether or not they read the terms (L’Estrange v Graucob), unless the effect was misrepresented (Curtis v Chemical Cleaning). Parol evidence rule: outside evidence cannot add to, vary or contradict a written contract, except where the writing is not the whole agreement, to show a condition precedent (Pym v Campbell) or a collateral contract (City and Westminster Properties v Mudd).",
+  "caption": "Signature binds and the writing usually speaks for itself, with named exceptions.",
+  "bytes": 137682
+ },
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--03-cra-remedies.webp",
+  "width": 900,
+  "height": 753,
+  "after": "## 3.2.2 Terms implied by the Consumer Rights Act 2015",
+  "alt": "Two columns. Goods: the implied terms in s9, s10 and s11, and if breached a ladder of remedies from the short-term right to reject within 30 days (s20, s22), to repair or replacement (s23), to price reduction or the final right to reject (s24). Services: s49 reasonable care and skill and s52 reasonable time, with repeat performance (s55) and then price reduction (s56).",
+  "caption": "Remedies are tiered: refund first for goods, then repair or replace, then price reduction or final rejection.",
+  "bytes": 128704
+ },
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--04-flexibility-or-certainty.webp",
+  "width": 900,
+  "height": 539,
+  "after": "## 3.2.3 Conditions, warranties and innominate terms",
+  "alt": "Schuler v Wickman shows a clause labelled a condition need not be one. Two panels then contrast the innominate approach, which judges the effect of the breach (Hong Kong Fir; The Hansa Nord) and gives flexibility, with treating a commercial time clause as a condition (Bunge v Tradax), which gives certainty.",
+  "caption": "The innominate approach buys flexibility at the cost of certainty.",
+  "bytes": 137328
+ },
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--05-ucta-vs-cra.webp",
+  "width": 900,
+  "height": 835,
+  "after": "## 3.2.4 Exemption clauses",
+  "alt": "A table comparing the Unfair Contract Terms Act 1977, for business to business contracts, with the Consumer Rights Act 2015, for trader and consumer contracts: scope, the bar on excluding negligent death or personal injury (s2(1) and s65), other limits (s2(2), s3; s31, s57), the tests (s11 reasonableness; s62 unfairness and s68 transparency) and the UCTA cases.",
+  "caption": "UCTA for businesses, the CRA for consumers: both ban excluding negligent death or injury.",
+  "bytes": 184922
+ },
+ {
+  "file": "cambridge-a-level-law-9084-contents-of-a-contract--06-priya-model-answer.webp",
+  "width": 900,
+  "height": 853,
+  "after": "## Annotated model answer",
+  "alt": "The Priya scenario worked in five steps: the ten-hour statement is likely a term (Dick Bentley); the battery breaches s9 and s11; at five weeks the remedy is repair or replacement under s23, then s24; the receipt clause is not incorporated (Olley) and is not binding under s31; so the clause is ineffective.",
+  "caption": "Status, implied terms, remedy, exclusion clause, conclusion: one step at a time.",
+  "bytes": 152688
+ }
+]

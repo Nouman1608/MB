@@ -47,6 +47,16 @@ The reading skills assessed come from AO1:
 | R3 | Develop and sustain interpretations of writers' ideas and perspectives | Work out the writer's attitude and how it develops |
 | R4 | Explain and evaluate how writers use linguistic, grammatical, structural and presentational features to achieve effects and engage and influence the reader | Analyse methods: words, sentences, organisation, and their effect |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--01-reading-skills.webp" width="900" height="660" alt="Four rows for the AO1 reading skills: R1 select and use details, R2 collate and synthesise details from across the text, R3 interpret the writer’s ideas and perspective, R4 explain and evaluate the writer’s methods and their effects." loading="lazy">
+  <figcaption>Every Section A question tests one or more of the four reading skills, R1 to R4.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/igcse-oxfordaqa-english-language-paper-1--06-p1-structure.webp" width="900" height="840" alt="A to-scale bar of two 40-mark sections with the key facts of each." loading="lazy">
+  <figcaption>Paper 1 lasts 2 hours: Section A (40 marks) is one unseen literary non-fiction text with a whole-text question and no comparison; Section B (40 marks) is composition, choose one task.</figcaption>
+</figure>
+
 ## What makes literary non-fiction different
 
 Literary non-fiction tells something true, but the writer **shapes** the experience. A memoir chooses
@@ -61,6 +71,11 @@ end; a letter writer adapts tone to the person addressed. Three features follow:
 3. **Selection and arrangement.** What the writer chose to put first, linger on or leave out is
    evidence of perspective.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--02-literary-non-fiction-features.webp" width="900" height="740" alt="Three features of literary non-fiction. A first-person voice where an older writer looks back at a younger self, so phrases like “I was sure then that…” signal a change of view; a purpose beyond the facts, such as admiration, unease, amusement or nostalgia; and selection and arrangement of what comes first, is lingered on, left out or left to the end." loading="lazy">
+  <figcaption>The writer tells the truth but shapes it: voice, purpose and selection all reveal perspective.</figcaption>
+</figure>
+
 ## Reading the text in sections
 
 Because the questions are attached to sections, read with the question in mind:
@@ -73,6 +88,11 @@ Because the questions are attached to sections, read with the question in mind:
    question directly.
 4. **For the whole-text question, track change.** Note the opening, any turning point and the ending,
    and ask how the writer's attitude or the reader's understanding moves.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--03-reading-in-sections.webp" width="900" height="842" alt="An unseen text divided into three sections, each linked to its own question that needs only that section re-read, with a bracket under the whole text for the whole-text question. Four steps below: read the whole text quickly, re-read the named section, underline four or five pieces of evidence, and track how the attitude moves for the whole-text question." loading="lazy">
+  <figcaption>Answer each question from its own section; use the whole text only for the whole-text question.</figcaption>
+</figure>
 
 ## Analysing language: from feature to effect
 
@@ -101,6 +121,11 @@ and how it ends. Useful questions to ask:
 Always link a structural choice to its effect: "By delaying the name of the village until the final
 paragraph, the writer keeps the reader as disorientated as she was."
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--05-structure-questions.webp" width="900" height="850" alt="The text from start to finish with four structural checkpoints: the opening (a scene, a reflection or dialogue), shifts in focus (outside to inside, past to present, wide view to detail), pace (lingering on detail or summarising long periods), and the ending (returning to the opening, reflecting or left unresolved)." loading="lazy">
+  <figcaption>Structure is the order and shape of the text; every structural point needs an effect.</figcaption>
+</figure>
+
 ## Interpreting perspective (R3)
 
 A writer's perspective is rarely stated. You infer it from evidence:
@@ -113,6 +138,11 @@ A writer's perspective is rarely stated. You infer it from evidence:
 Use tentative language when a text supports more than one reading: "This *suggests*…", "The writer
 *may* be implying…". Sustained interpretation (R3) means developing one idea across several pieces of
 evidence, not making one guess per quotation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--06-interpreting-perspective.webp" width="900" height="800" alt="Four clues to perspective (word choice with connotations, what is praised and mocked, how other people are presented, the reflective voice) feed one inference phrased tentatively. Below, a sustained interpretation develops one idea across three pieces of evidence, while a weak answer makes a new guess for each quotation." loading="lazy">
+  <figcaption>Perspective is inferred from evidence and developed as one idea, not one guess per quotation.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -139,6 +169,11 @@ physical, so the reader shares the writer's late-arriving admiration.
 *Why it works:* each point names a method, quotes briefly, and explains the effect; the answer tracks
 the shift from child to adult perspective (R3) as well as language (R4).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--04-worked-example-method-effect.webp" width="900" height="860" alt="The memoir passage about the grandmother’s kitchen, analysed in four rows: contrast (“not large”, “enormous”), personification (“black and patient”, “fed”), short sentences (“I was nine…”) and metaphor (“holding the whole house together with her hands”), each linked to its effect on the reader." loading="lazy">
+  <figcaption>Each point names a method, quotes briefly and explains the effect, and the last points follow the child-to-adult shift.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Retelling the section** instead of answering how or why.
@@ -164,6 +199,11 @@ each points to a different skill:
 
 Divide your time by the marks shown for each question, and leave enough for Section B, which carries
 the same 40 marks.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--07-question-stems.webp" width="900" height="770" alt="Five common question stems matched to what they ask for: “What do you learn” or “List” (R1, select details), “Explain” (detail plus what it shows), “How does the writer” (R4, methods and effects), “What impressions” (R3, attitudes with evidence), and “To what extent” or “Evaluate” (weigh and judge)." loading="lazy">
+  <figcaption>The question stem tells you which skill to show; the marks tell you how long to spend.</figcaption>
+</figure>
 
 ## Related resources
 

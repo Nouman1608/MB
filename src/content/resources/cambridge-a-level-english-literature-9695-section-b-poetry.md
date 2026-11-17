@@ -43,6 +43,16 @@ Ourselves, Volume 2*. For 2027 they are selected poems from Zaffar Kunial's *Eng
 *Ariel*, Christina Rossetti's poems and *Songs of Ourselves, Volume 2*. The syllabus names the individual
 poems in each selection; learn those poems, not the whole book. Lists change by year, so check yours.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--01-section-b-at-a-glance.webp" width="900" height="568" alt="Paper 1 is worth 50 marks, split between Section A Drama and Section B Poetry at 25 marks each. In Section B you choose an (a) essay on a theme, attitude or method across poems you usually choose, or a (b) question on one printed poem analysed closely. It is assessed on AO1 to AO4, and texts are not allowed in the exam room." loading="lazy">
+  <figcaption>One poetry essay worth 25 marks: across the poems (a) or on one printed poem (b).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--02-set-texts-2026-2027.webp" width="900" height="558" alt="Two overlapping lists of poetry set texts. Plath’s Ariel and Songs of Ourselves Volume 2 are set in both 2026 and 2027. Maya Angelou’s And Still I Rise and Blake’s Songs of Innocence and of Experience are 2026 only; Zaffar Kunial’s England’s Green and Christina Rossetti’s poems are 2027 only." loading="lazy">
+  <figcaption>Ariel and Songs of Ourselves Volume 2 carry over; learn the named poems.</figcaption>
+</figure>
+
 ## The key idea: form is part of the meaning
 
 AO2 asks how a poet's choices of **language, form and structure** shape meaning. In poetry, form is
@@ -94,6 +104,21 @@ them:
 Structure is also the **movement of thought**: where does the poem turn, and how does its ending reframe
 its opening?
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--03-voice-and-address.webp" width="900" height="647" alt="A speaker, labelled as a persona, addresses a listener, with three starting questions: who is speaking, to whom, and in what situation? Below, two kinds of shift in address, from “I” to “you” and from describing someone to speaking to them, which change the relationship between speaker and reader." loading="lazy">
+  <figcaption>Start every poem with who speaks, to whom, and in what situation.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--04-sound-rhythm-metre.webp" width="900" height="844" alt="Five rows with small diagrams. Iambic rhythm alternates unstressed and stressed beats, five feet making a pentameter. A trochaic or stressed opening gives force or a chant-like quality. A caesura is a pause within a line. Enjambment runs a sentence over a line break, giving weight to the word at the break. Rhyme binds or closes, while half-rhyme suggests something incomplete." loading="lazy">
+  <figcaption>Notice where the pattern is disturbed, and what that does to pace and emphasis.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--05-forms-convention-departure.webp" width="900" height="592" alt="A table of five forms. Sonnet: 14 lines with a turn; a delayed or missing turn suggests an argument that will not resolve. Ballad: quatrains, rhyme, narrative and refrain; dark content in a song-like form unsettles. Dramatic monologue: one speaker to a silent listener, revealing more than intended. Free verse: no fixed metre, so line breaks shape it. Villanelle: two refrains and tight rhyme, suggesting obsession." loading="lazy">
+  <figcaption>Say how a poem uses or departs from its form’s convention.</figcaption>
+</figure>
+
 ## Writing the (b) answer on a printed poem
 
 1. **Read the question's focus first** and keep it in every paragraph.
@@ -122,6 +147,16 @@ A strong paragraph might read:
 
 Notice that each technique is tied to an effect on meaning at that exact point.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--06-annotated-model-stanza.webp" width="900" height="706" alt="The guide’s original four-line stanza with four numbered notes. 1: two flat, end-stopped statements present the loss as fact. 2: enjambment from “could wait” to “for one more summer” enacts the wish to delay. 3: the rhyme of “gate” and “wait” seems to promise order. 4: the caesura and abrupt “It does.” break the rhythm and leave the speaker’s hope unconfirmed." loading="lazy">
+  <figcaption>Every technique is linked to its effect at that point in the poem.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--07-printed-poem-method.webp" width="900" height="728" alt="A bar divides a poem into opening, turn and ending. Five steps follow: read the question’s focus first, state the gist in one sentence, follow the poem’s movement, select small evidence with its effect, and link outward briefly to other poems in the selection." loading="lazy">
+  <figcaption>Follow the poem from opening to turn to ending, with the question in view.</figcaption>
+</figure>
+
 ## Writing the (a) essay across the selection
 
 An (a) question typically asks you to discuss ways in which the poet presents a subject or uses a method
@@ -135,6 +170,11 @@ An (a) question typically asks you to discuss ways in which the poet presents a 
   quotation and comment on form.
 - **Prepare flexibly.** Learn four or five short, versatile quotations for each poem in the selection,
   plus one feature of its form.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-poetry--08-essay-across-selection.webp" width="900" height="622" alt="Two essay layouts. Crossed out: all of Poem A, then all of Poem B. Ticked: each paragraph is a point that moves between Poem A and Poem B by similarity or contrast. Below: follow the question’s wording on the number of poems, choose poems that treat the focus differently, keep analysis at line level, and learn four or five short quotations per poem plus one feature of its form." loading="lazy">
+  <figcaption>Move between poems point by point, and write on exactly the number asked.</figcaption>
+</figure>
 
 ## Command words and question wording
 

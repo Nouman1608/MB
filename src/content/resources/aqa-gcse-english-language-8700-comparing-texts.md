@@ -45,6 +45,11 @@ from the 20th or 21st century. Paper 1 has a single source and does not assess c
 
 The difference is the key to both questions. Question 2 compares *what*. Question 4 compares *what* and *how*.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--01-question-2-vs-question-4.webp" width="900" height="685" alt="Paper 2 Question 2 is worth 8 marks for AO1 and compares only what the sources show about a focus. Question 4 is worth 16 marks for AO3 and compares the writers’ perspectives and the methods that convey them, across the whole of a 19th-century source and a 20th- or 21st-century source." loading="lazy">
+  <figcaption>Question 2 compares what; Question 4 compares what and how.</figcaption>
+</figure>
+
 ## Perspective, viewpoint, attitude, tone
 
 These words overlap, but separating them helps you write precisely:
@@ -57,6 +62,11 @@ These words overlap, but separating them helps you write precisely:
 
 A strong comparison usually opens with perspectives and then shows how methods convey them. Two writers can share a
 viewpoint but differ in perspective: both might criticise a city's poverty, one from pity and one from anger.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--02-perspective-viewpoint-attitude-tone.webp" width="900" height="653" alt="Perspective, the wider way of seeing shaped by experience, time and values, produces a viewpoint, the position a writer takes, such as “zoos should close”. Attitude is the writer’s feeling, such as admiring or scornful, and tone is how that feeling sounds, such as ironic or urgent." loading="lazy">
+  <figcaption>Perspective produces the viewpoint; tone is how the attitude sounds.</figcaption>
+</figure>
 
 ## What "methods" can mean
 
@@ -71,6 +81,11 @@ Methods are the writer's choices, the same categories you analyse for a single t
 Compare like with like where you can: opening with opening, ending with ending, use of anecdote with use of anecdote.
 That makes a difference in method visible rather than asserted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--03-methods-like-with-like.webp" width="900" height="706" alt="Five kinds of method: vocabulary, grammar, form, structure, and evidence and voice, each with examples. Below, Source A and Source B are paired opening with opening, ending with ending and anecdote with anecdote." loading="lazy">
+  <figcaption>Compare methods of the same kind so the difference is visible.</figcaption>
+</figure>
+
 ## Comparing across time
 
 The two sources are always from different periods. Use that difference critically rather than apologising for the
@@ -84,6 +99,11 @@ older text:
 
 Keep context brief and tied to the text: one clause explaining why a writer might think as they do is enough.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--04-comparing-across-time.webp" width="900" height="552" alt="A table compares the 19th-century and modern sources by audience (one person against thousands of strangers), conventions (long, balanced sentences and formal address treated as choices that shape tone) and assumptions (what one writer takes for granted, the other may question)." loading="lazy">
+  <figcaption>Audience, conventions and assumptions turn the time gap into evidence.</figcaption>
+</figure>
+
 ## Structuring a comparison
 
 There are two broad approaches:
@@ -96,6 +116,11 @@ There are two broad approaches:
 Answers that describe one source in full, then the other, and only compare in a final sentence tend to stay in the
 lower levels, because comparison is the skill being assessed. Plan three or four aspects, for example overall
 perspective, tone and voice, use of evidence, and endings, and give each a paragraph.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--05-three-structures.webp" width="900" height="713" alt="Three strips of paragraph blocks. Integrated answers move between Source A and Source B in every paragraph. Alternating blocks put A then B, with each B paragraph linked back to A. Two separate essays describe A, then B, and compare only at the end, which tends to stay in the lower levels." loading="lazy">
+  <figcaption>Keep comparison constant: integrated paragraphs are safest.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -125,6 +150,11 @@ The two extracts below are original, written for this guide.
 Why it works: it compares in every sentence, it pairs methods of the same kind (silence with a flat opening, ending
 with ending), each method is linked to a perspective, and the context is one clause, not a history lesson.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--06-worked-example-summit.webp" width="900" height="569" alt="A grid compares the two summit extracts. Perspective: reverent awe in Source A against a summit spoiled by the crowd in Source B. Method: silence and the simile “like the folds of some vast garment” against the flat opening “There was a queue at the summit” and the minor sentence “An actual queue”. Ending: looking upward to “the hand that made these heights” against a question about what “we had all come up here to find”." loading="lazy">
+  <figcaption>Each method is paired with one of the same kind and linked to a perspective.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Comparing content only**, which turns the 16-mark question into a second summary.
@@ -145,6 +175,11 @@ with ending), each method is linked to a perspective, and the context is one cla
 Related: [Paper 2 study guide](/resources/aqa-gcse-english-language-paper-2/) |
 [Paper 2 practice questions](/resources/gcse-english-language-paper-2-practice/) |
 [summary and synthesis study guide](/resources/aqa-gcse-english-language-summary-and-synthesis/)
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-comparing-texts--07-plan-in-a-grid.webp" width="900" height="709" alt="An empty planning grid lists four aspects (overall perspective, tone and voice, use of evidence, endings) down the side and Source A and Source B across the top. Below: compare perspectives, compare methods and refer to both texts; lead with perspective and follow with method; use whereas, in contrast, similarly or unlike rather than also or and." loading="lazy">
+  <figcaption>Fill the grid first, then write paragraphs that compare in every sentence.</figcaption>
+</figure>
 
 ## Official syllabus
 

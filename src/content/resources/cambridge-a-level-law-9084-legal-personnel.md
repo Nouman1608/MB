@@ -64,6 +64,21 @@ Subtopic 1.3 covers the judiciary (1.3.1), legal professionals (1.3.2) and lay p
 
 Evaluation: independence is strong in law, but media pressure exists, as when a newspaper called the judges in the 2016 *Miller* Article 50 case "Enemies of the People"; diversity also lags behind the population.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--01-judges-qualifications-roles.webp" width="900" height="675" alt="A table of judges from Justices of the Supreme Court down to district judges, grouped as superior and inferior, with the years of qualifying experience each post needs (15 years or two years in high judicial office for the Supreme Court; seven years for the Court of Appeal, High Court, circuit judges and recorders; five for district judges) and the role of each." loading="lazy">
+  <figcaption>The more senior the court, the more experience required and the wider the role.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--02-judicial-appointment.webp" width="900" height="751" alt="Candidates pass qualifying tests, shortlisting, references and a selection day with interview and role-play. The Judicial Appointments Commission recommends one candidate, and the Lord Chancellor (or the Lord Chief Justice for many lower posts) may accept, reject or ask for reconsideration. Supreme Court Justices are chosen by a special selection commission." loading="lazy">
+  <figcaption>An independent commission recommends; the Lord Chancellor or Lord Chief Justice decides.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--03-judicial-independence.webp" width="900" height="646" alt="Six safeguards around judicial independence: security of tenure, salaries from the Consolidated Fund, immunity from suit (Sirros v Moore), separation of powers, the statutory duty in s3 Constitutional Reform Act 2005, and impartiality (Re Pinochet). Below, independence is strong in law but faces media pressure (Miller) and a diversity gap." loading="lazy">
+  <figcaption>Independence is protected by tenure, pay, immunity, separation and statute.</figcaption>
+</figure>
+
 ## 1.3.2 Legal professionals
 
 | | Solicitors | Barristers | Legal executives |
@@ -86,6 +101,16 @@ Evaluation: independence is strong in law, but media pressure exists, as when a 
 | Legal Ombudsman | Independent complaints scheme for poor service: the client complains to the lawyer first, then may refer it; remedies include an apology, refund or reduction of fees and compensation |
 
 Evaluation: separating regulation from representation improved confidence, but the cost of qualifying affects who can enter the professions.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--04-routes-to-qualify.webp" width="900" height="692" alt="A table comparing how solicitors, barristers and legal executives qualify through academic, vocational and work-based stages (SQE1 and SQE2; Bar course, Inns of Court and pupillage; CILEX qualifications) and their typical roles, with notes on the cab-rank rule, King’s Counsel and Arthur JS Hall v Simons." loading="lazy">
+  <figcaption>Academic, vocational, then work-based: the same three stages, different content.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--05-regulation.webp" width="900" height="878" alt="Under the Legal Services Board, each profession has separate bodies: the Bar Council represents barristers and the Bar Standards Board regulates them; the Law Society represents solicitors and the Solicitors Regulation Authority regulates them, sending serious cases to the Solicitors Disciplinary Tribunal. Poor service complaints go to the lawyer first, then to the Legal Ombudsman." loading="lazy">
+  <figcaption>Separate bodies represent and regulate; the Legal Ombudsman handles service complaints, not negligence.</figcaption>
+</figure>
 
 ## 1.3.3 Lay personnel
 
@@ -125,6 +150,16 @@ The defence's peremptory challenge (without reasons) was abolished by the Crimin
 - *Wider use of magistrates* for either-way offences.
 
 **Evaluation.** Juries offer public participation and jury equity (*R v Ponting* (1985)), but give no reasons, may misunderstand complex evidence, and can be influenced by outside material; in *Attorney General v Fraill* (2011) a juror was jailed for contacting a defendant on Facebook.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--06-lay-magistrates.webp" width="900" height="870" alt="The six key qualities for magistrates and the disqualifications, then four steps: vacancies advertised, interview by a local advisory committee, appointment by the Lord Chief Justice on the monarch’s behalf, and training under the Judicial College framework. Below, the arguments for and against magistrates." loading="lazy">
+  <figcaption>Six qualities, a local interview, appointment, then structured training.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-legal-personnel--07-jury-selection.webp" width="900" height="649" alt="Jury eligibility (18 to 75, on the electoral register, five years’ residence) and disqualification, with Abdroikov on police and lawyers serving. Vetting by routine police checks (R v Mason) and authorised checks; challenges to the array, for cause and stand by, with no peremptory challenge and no right to a racially balanced jury (R v Ford). Twelve jurors decide the facts, with a 10–2 majority allowed after two hours." loading="lazy">
+  <figcaption>Eligibility, then vetting and challenges, then twelve jurors deciding the facts.</figcaption>
+</figure>
 
 ## Annotated model answer
 

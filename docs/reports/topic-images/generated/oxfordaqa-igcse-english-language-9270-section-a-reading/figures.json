@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--01-source-pack.webp",
+  "width": 900,
+  "height": 755,
+  "after": "## What the specification says",
+  "alt": "A row of five or six texts on modern-world themes, some written, one a chart and one brief. Some questions point at a single text, others at a pair, and at least one question requires two texts. All questions are answered, and Section B writing is linked with the same sources.",
+  "caption": "Questions target single texts and pairs, and the same sources feed the Section B writing.",
+  "bytes": 79946
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--02-reading-skills-sources.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## The reading skills applied to multiple sources",
+  "alt": "The four AO1 reading skills applied to several sources: R1 choosing the right source and details, R2 combining or comparing two texts, R3 explaining each writer’s attitude and how it differs, R4 analysing language, structure and layout, including visual texts.",
+  "caption": "With several sources, R2 means working across two texts, not just within one.",
+  "bytes": 94464
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--03-survey-and-grid.webp",
+  "width": 900,
+  "height": 640,
+  "after": "## Getting to know a source pack quickly",
+  "alt": "Four steps: survey the pack noting form, topic, purpose and audience; read the questions; read closely by question; keep a grid. The grid has rows for Text A and Text B and columns for idea, attitude, method and evidence.",
+  "caption": "Survey first, read by question, and grid each pair so comparisons are easy to write.",
+  "bytes": 100848
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--04-kinds-of-source.webp",
+  "width": 900,
+  "height": 805,
+  "after": "## Reading different kinds of source",
+  "alt": "Five kinds of source and what to analyse in each: opinion writing (viewpoint, persuasive methods, tone), informative writing (what comes first, details included, voices quoted), fiction (character, setting, situation), brief texts (compression, wordplay, direct address) and visual texts (layout, images, colour and type, image and words).",
+  "caption": "Each kind of source rewards a different set of questions.",
+  "bytes": 116628
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--05-visual-text.webp",
+  "width": 900,
+  "height": 790,
+  "after": "## Writing about one text",
+  "alt": "A poster whose top half is filled by a child’s face, with a headline and caption below, labelled with five presentational features: layout and placement, colour and typography, images, the relationship between image and words, and what is left out. Below, a precise description of the poster is used as the evidence.",
+  "caption": "Describe the visual feature precisely, then explain its effect, just as with a quotation.",
+  "bytes": 106882
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--06-two-texts.webp",
+  "width": 900,
+  "height": 838,
+  "after": "## Writing about two texts",
+  "alt": "Three ways to write about two texts, using the lesson’s new-road example. Synthesis combines the report’s lorry noise with the blog’s waking at four to show the problem is constant. Comparing perspectives sets the leaflet’s “faster journeys” against the blogger’s lost field; comparing methods sets cheerful bullet points against anecdote and rhetorical questions.",
+  "caption": "Integrate both texts in the same point, whether you combine them or compare them.",
+  "bytes": 123004
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-reading--07-worked-example-library.webp",
+  "width": 900,
+  "height": 870,
+  "after": "## Worked example",
+  "alt": "The newsletter and blog sources side by side, then a comparison grid: the newsletter presents a practical resource with a list of benefits and a confident “perfect”; the blog presents a loss with a list of memories, a mocking repetition of “perfect” and the minor sentence “Capital Q”.",
+  "caption": "Each row sets a method in one source against its counterpart in the other.",
+  "bytes": 171708
+ }
+]

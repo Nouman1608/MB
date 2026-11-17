@@ -38,12 +38,27 @@ plays are Lynn Nottage's *Sweat*, Eugene O'Neill's *Long Day's Journey Into Nigh
 *Kongi's Harvest*. For 2027 they are *Sweat*, *Kongi's Harvest* and Timberlake Wertenbaker's *Our
 Country's Good*. Check the list for your examination year.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--01-section-b-at-a-glance.webp" width="900" height="562" alt="Paper 3 is worth 50 marks, split equally between Section A Shakespeare and Section B Drama at 25 marks each. Section B is one essay on a modern non-Shakespeare play, assessed like Section A on AO1 to AO5 at 20% each. You choose an (a) essay on the whole play or a (b) printed passage, and the play is not allowed in the exam room." loading="lazy">
+  <figcaption>One essay on a modern play, worth 25 marks and assessed on all five objectives.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--02-set-plays-2026-2027.webp" width="900" height="496" alt="Two overlapping lists of Section B plays. Nottage’s Sweat and Soyinka’s Kongi’s Harvest are set in both 2026 and 2027. O’Neill’s Long Day’s Journey Into Night is 2026 only, and Wertenbaker’s Our Country’s Good is 2027 only." loading="lazy">
+  <figcaption>Sweat and Kongi’s Harvest carry over; one play changes.</figcaption>
+</figure>
+
 ## How this differs from Paper 1 drama
 
 The close-reading skills from Paper 1 still apply: stage directions as evidence, dialogue rhythm,
 dramatic irony, structure. Two things change. First, **AO5** means your argument must engage with and
 evaluate other interpretations. Second, the set plays here use a wide range of modern theatrical
 methods, and knowing the conventions they use or resist is part of AO1 and AO2.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--03-differs-from-paper-1.webp" width="900" height="496" alt="The close-reading skills from Paper 1 still apply: stage directions as evidence, dialogue rhythm, dramatic irony and structure. Two things change: AO5 requires the argument to engage with and evaluate other interpretations, and knowing the modern theatrical conventions the plays use or resist becomes part of AO1 and AO2." loading="lazy">
+  <figcaption>Same close reading, plus AO5 and modern theatrical conventions.</figcaption>
+</figure>
 
 ## Modern theatrical methods
 
@@ -81,6 +96,16 @@ officers, a staging choice that sharpens questions of class and power.
 A single bar, a family living room, a palace courtyard: the set defines who can meet whom. Ask who enters
 the space, who is excluded, and what objects carry meaning across the play.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--04-modern-theatrical-methods.webp" width="900" height="826" alt="Four cards. Naturalism in Long Day’s Journey Into Night: life as lived, long stage directions, and fog that becomes symbolic. Time and structure in Sweat: scenes move between 2000 and 2008, creating structural dramatic irony. Ritual and music in Kongi’s Harvest: song, dance and crowd scenes, with satire. Metatheatre in Our Country’s Good: convicts and officers rehearse a play, and doubling sharpens class and power. A note on setting and space follows." loading="lazy">
+  <figcaption>Each set play uses, or resists, a different theatrical convention.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--05-two-ways-to-shape-time.webp" width="900" height="638" alt="Top: Long Day’s Journey Into Night as four acts running from morning to midnight on one day in August 1912, with the fog thickening across them. Bottom: Sweat drawn as scenes moving between a 2008 lane and a 2000 lane, so the audience sees consequences before causes and watches earlier scenes with structural dramatic irony." loading="lazy">
+  <figcaption>One play runs straight through a day; the other shows outcomes first.</figcaption>
+</figure>
+
 ## Context for modern drama
 
 Context is relevant when it explains a dramatic choice: the economic pressures on industrial towns that
@@ -115,6 +140,16 @@ On *Long Day's Journey Into Night*, responding to a question on blame within the
 The paragraph uses **structure** (AO2), presents **two readings** and tests them against the text (AO5),
 and ends with a **judgement** (AO3).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--06-building-ao5.webp" width="900" height="519" alt="Three sources of alternative readings for modern plays. Production choices: casting, design, doubling and cuts. Critical approaches: a Marxist or economic reading of Sweat, a postcolonial reading of Kongi’s Harvest, a feminist reading of Mary Tyrone, and a reading questioning whether Our Country’s Good is too optimistic about theatre. Audience positions: first audiences and audiences now or in different countries. Each reading must be weighed, not listed." loading="lazy">
+  <figcaption>Production, criticism and audience all supply readings to weigh.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--07-model-paragraph-blame.webp" width="900" height="763" alt="A flow from the model paragraph on Long Day’s Journey Into Night. Structure: blame circulates through confessions shared among all four Tyrones. Two readings: Mary as centre and victim, or a feminist reading of the house as her prison. Tested against the text: the men get the longest final confessions and Mary enters only at the end. Judgement: everyone is both cause and casualty, so the ending offers recognition rather than resolution." loading="lazy">
+  <figcaption>Structure, two readings tested against the text, then a judgement.</figcaption>
+</figure>
+
 ## The (b) passage answer
 
 1. **Locate** the passage in the play's structure and, for non-chronological plays, in its timeline.
@@ -136,6 +171,11 @@ is coming." It names a staging choice, uses the play's structure, and gives the 
 - Moments from across the play, including the ending.
 - Theatrical method in every paragraph, not just character and theme.
 - AO5 woven through two or three paragraphs.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-english-literature-9695-section-b-drama--08-whole-play-essay.webp" width="900" height="712" alt="For a question on friendship in Sweat, a weak thesis says friendship is important and tested. A stronger thesis argues that Nottage stages friendship in a single shared bar that splits when Cynthia’s promotion divides her from Tracey, and that the 2008 outcome shadows every earlier scene of loyalty. It names a staging choice, uses the structure and gives a line to argue." loading="lazy">
+  <figcaption>A strong thesis argues about method: staging and structure, not just theme.</figcaption>
+</figure>
 
 ## Common mistakes
 

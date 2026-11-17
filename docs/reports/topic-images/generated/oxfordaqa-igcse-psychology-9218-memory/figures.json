@@ -1,0 +1,74 @@
+[
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--01-processes-and-types.webp",
+  "width": 900,
+  "height": 749,
+  "after": "## Processes and types of memory",
+  "alt": "Encoding, storage and retrieval in sequence, with encoding by sound, image or meaning, and a note that failure at any stage causes forgetting. Three cards show the types of long-term memory: episodic (personal experiences), semantic (facts) and procedural (skills); the first two are recalled consciously, procedural memories without conscious effort.",
+  "caption": "Forgetting can happen at any of the three stages; long-term memory holds three types.",
+  "bytes": 136080
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--02-multi-store-model.webp",
+  "width": 900,
+  "height": 526,
+  "after": "## The multi-store model in more depth",
+  "alt": "Three boxes in a row: the sensory register holds a brief trace in the form of the sense; attention passes information to short-term memory, which is mainly acoustic, small and lasts seconds; rehearsal transfers it to long-term memory, which is mainly semantic with no known limit. Unattended information decays from the sensory register; unrehearsed information is displaced or decays from short-term memory.",
+  "caption": "Attention moves information into short-term memory; rehearsal moves it into long-term memory.",
+  "bytes": 73442
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--03-serial-position-curve.webp",
+  "width": 900,
+  "height": 731,
+  "after": "## The multi-store model in more depth",
+  "alt": "An illustrative U-shaped curve of recall against position in a list. Early words show a primacy effect because there was time to rehearse them into long-term memory; the last words show a recency effect because they were still in short-term memory; middle words are recalled worst because they were pushed out of short-term memory.",
+  "caption": "Primacy from long-term memory, recency from short-term memory: evidence for separate stores.",
+  "bytes": 100904
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--04-working-memory-model.webp",
+  "width": 900,
+  "height": 639,
+  "after": "## The working memory model",
+  "alt": "The central executive, modality-free with very limited capacity, sits above three components: the phonological loop (acoustic, about two seconds of speech), the episodic buffer (combines information, limited, links to long-term memory) and the visuo-spatial sketchpad (visual and spatial, a few objects or locations).",
+  "caption": "Four components, each with its own coding and its own limited capacity.",
+  "bytes": 108136
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--05-dual-processing-tasks.webp",
+  "width": 900,
+  "height": 619,
+  "after": "## The working memory model",
+  "alt": "Two panels. When two tasks both rely on spoken information they use the same component and performance falls sharply. When one task is verbal and one visual they use different components and both are done almost as well together as separately. Conclusion: short-term memory has separate parts with separate limits.",
+  "caption": "Same component: interference. Different components: no clash. So short-term memory has parts.",
+  "bytes": 98060
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--06-war-of-the-ghosts.webp",
+  "width": 900,
+  "height": 962,
+  "after": "## Reconstructive memory",
+  "alt": "Three pages shrink as the story is reproduced again and again. Changes: the story became shorter, lost details that made no sense such as the supernatural elements, and changed to fit English culture, so canoes became boats. Schemas and effort after meaning explain the changes. Evaluation: clear qualitative examples, but the procedure was not standardised and the story was deliberately strange.",
+  "caption": "Recall is a reconstruction: each version became shorter and more familiar.",
+  "bytes": 138414
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--07-accuracy-factors.webp",
+  "width": 900,
+  "height": 689,
+  "after": "## Factors affecting the accuracy of memory",
+  "alt": "Two interference rows: proactive, where older learning disrupts newer learning (calling a new teacher by the old teacher's name), and retroactive, where newer learning disrupts older learning (a new phone number blocks the old one). Cards explain context-dependent recall and false memories created by misleading questions, suggestion and schemas.",
+  "caption": "Proactive works forwards, retroactive works backwards; context and suggestion also shape recall.",
+  "bytes": 117258
+ },
+ {
+  "file": "oxfordaqa-igcse-psychology-9218-memory--08-developed-evaluation.webp",
+  "width": 900,
+  "height": 565,
+  "after": "## Annotated model answer: an evaluation point",
+  "alt": "Three numbered steps for one evaluation point on the working memory model: name the evidence (dual processing tasks), explain it (same-component tasks interfere, different-component tasks do not), then link it back (short-term memory has separate parts). The final link step is highlighted.",
+  "caption": "Name it, explain it, link it back.",
+  "bytes": 97180
+ }
+]

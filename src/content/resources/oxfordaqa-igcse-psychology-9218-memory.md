@@ -57,6 +57,11 @@ skills and how to do things (riding a bicycle). Episodic and semantic memories c
 and are recalled consciously; procedural memories are usually hard to describe and are used without
 conscious effort.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--01-processes-and-types.webp" width="900" height="749" alt="Encoding, storage and retrieval in sequence, with encoding by sound, image or meaning, and a note that failure at any stage causes forgetting. Three cards show the types of long-term memory: episodic (personal experiences), semantic (facts) and procedural (skills); the first two are recalled consciously, procedural memories without conscious effort." loading="lazy">
+  <figcaption>Forgetting can happen at any of the three stages; long-term memory holds three types.</figcaption>
+</figure>
+
 ## The multi-store model in more depth
 
 The multi-store model (Atkinson and Shiffrin) describes memory as a flow of information through three
@@ -80,6 +85,16 @@ between short-term and long-term memory support the idea of separate stores; the
 testable. Limitations: it treats short-term memory as a single store, which dual-task research
 challenges; it overstates rehearsal, since we remember many things we never rehearsed; and it treats
 long-term memory as one store when there are at least three types.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--02-multi-store-model.webp" width="900" height="526" alt="Three boxes in a row: the sensory register holds a brief trace in the form of the sense; attention passes information to short-term memory, which is mainly acoustic, small and lasts seconds; rehearsal transfers it to long-term memory, which is mainly semantic with no known limit. Unattended information decays from the sensory register; unrehearsed information is displaced or decays from short-term memory." loading="lazy">
+  <figcaption>Attention moves information into short-term memory; rehearsal moves it into long-term memory.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--03-serial-position-curve.webp" width="900" height="731" alt="An illustrative U-shaped curve of recall against position in a list. Early words show a primacy effect because there was time to rehearse them into long-term memory; the last words show a recency effect because they were still in short-term memory; middle words are recalled worst because they were pushed out of short-term memory." loading="lazy">
+  <figcaption>Primacy from long-term memory, recency from short-term memory: evidence for separate stores.</figcaption>
+</figure>
 
 ## The working memory model
 
@@ -105,6 +120,16 @@ it is described as controlling attention, but its own capacity and workings are 
 directly. The episodic buffer was added later to explain how the components connect with long-term
 memory, which shows the model has developed over time.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--04-working-memory-model.webp" width="900" height="639" alt="The central executive, modality-free with very limited capacity, sits above three components: the phonological loop (acoustic, about two seconds of speech), the episodic buffer (combines information, limited, links to long-term memory) and the visuo-spatial sketchpad (visual and spatial, a few objects or locations)." loading="lazy">
+  <figcaption>Four components, each with its own coding and its own limited capacity.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--05-dual-processing-tasks.webp" width="900" height="619" alt="Two panels. When two tasks both rely on spoken information they use the same component and performance falls sharply. When one task is verbal and one visual they use different components and both are done almost as well together as separately. Conclusion: short-term memory has separate parts with separate limits." loading="lazy">
+  <figcaption>Same component: interference. Different components: no clash. So short-term memory has parts.</figcaption>
+</figure>
+
 ## Reconstructive memory
 
 **Bartlett's theory** says recall is not a recording but a reconstruction. We store fragments and
@@ -124,6 +149,11 @@ not given strict instructions or set time intervals, so some changes may have be
 than memory distortions, and the story was deliberately strange, so it may exaggerate how much
 everyday memory is distorted.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--06-war-of-the-ghosts.webp" width="900" height="962" alt="Three pages shrink as the story is reproduced again and again. Changes: the story became shorter, lost details that made no sense such as the supernatural elements, and changed to fit English culture, so canoes became boats. Schemas and effort after meaning explain the changes. Evaluation: clear qualitative examples, but the procedure was not standardised and the story was deliberately strange." loading="lazy">
+  <figcaption>Recall is a reconstruction: each version became shorter and more familiar.</figcaption>
+</figure>
+
 ## Factors affecting the accuracy of memory
 
 - **Interference.** Similar memories compete. **Proactive interference** is when older learning
@@ -137,6 +167,11 @@ everyday memory is distorted.
 - **False memories.** A person can confidently remember an event, or a detail, that did not happen.
   Misleading questions, suggestion by others and schemas can all create them, which is why
   reconstructive memory matters for eyewitness testimony.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--07-accuracy-factors.webp" width="900" height="689" alt="Two interference rows: proactive, where older learning disrupts newer learning (calling a new teacher by the old teacher's name), and retroactive, where newer learning disrupts older learning (a new phone number blocks the old one). Cards explain context-dependent recall and false memories created by misleading questions, suggestion and schemas." loading="lazy">
+  <figcaption>Proactive works forwards, retroactive works backwards; context and suggestion also shape recall.</figcaption>
+</figure>
 
 ## Worked example: applying the multi-store model
 
@@ -168,6 +203,11 @@ reference to the scenario would not earn application marks.
 > the model**)."
 
 Name it, explain it, link it back: that pattern turns a one-mark comment into a developed evaluation.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-memory--08-developed-evaluation.webp" width="900" height="565" alt="Three numbered steps for one evaluation point on the working memory model: name the evidence (dual processing tasks), explain it (same-component tasks interfere, different-component tasks do not), then link it back (short-term memory has separate parts). The final link step is highlighted." loading="lazy">
+  <figcaption>Name it, explain it, link it back.</figcaption>
+</figure>
 
 ## Common mistakes
 

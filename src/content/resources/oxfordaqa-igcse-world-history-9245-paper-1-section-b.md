@@ -53,6 +53,11 @@ way or reason needs precise knowledge and a clear link showing **how** it caused
 development. The 12-mark question needs a line of reasoning across the whole answer and a judgement
 that compares factors, not just a list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--01-four-questions.webp" width="900" height="673" alt="Four questions with bars sized by marks: Question 1 (3 marks, AO1) shows knowledge; Question 2 (6) explains one way; Question 3 (9) explains two ways or reasons; Question 4 (12) explains a given factor and at least one other and judges their relative importance. Allow about 50 minutes, about 18 for the 12-mark question." loading="lazy">
+  <figcaption>From knowledge to explanation to judgement as the marks rise.</figcaption>
+</figure>
+
 ## Option 1: The origins of the First World War, c1890-1915
 
 - **Alliances**: the Triple Alliance of Germany, Austria-Hungary and Italy (1882); the
@@ -71,6 +76,16 @@ that compares factors, not just a list.
   neutrality under the 1839 Treaty of London, declared war on 4 August. The Ottoman Empire joined
   Germany later in 1914 and Italy joined the Allies in 1915.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--02-alliances-1882-1907.webp" width="900" height="588" alt="A schematic of alliances. Germany, Austria-Hungary and Italy form the Triple Alliance of 1882. France and Russia are linked by the Franco-Russian Alliance of 1894, Britain and France by the Entente Cordiale of 1904, and Britain and Russia by the Anglo-Russian Agreement of 1907. A note says Britain left Splendid Isolation and Italy did not join its partners in 1914." loading="lazy">
+  <figcaption>Two groupings formed by 1907; Britain ended its isolation as rivalry with Germany grew.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--03-july-crisis-1914.webp" width="900" height="635" alt="A sequence: Franz Ferdinand assassinated on 28 June 1914; Austria-Hungary's ultimatum only partly accepted; war on Serbia on 28 July; Russia mobilises; Germany declares war on Russia and France; the Schlieffen Plan sends troops through Belgium; Britain declares war on 4 August as a guarantor of Belgian neutrality; the Ottoman Empire and Italy join later." loading="lazy">
+  <figcaption>Each step drew in another power: alliances and the Schlieffen Plan turned a Balkan war into a world war.</figcaption>
+</figure>
+
 ## Option 2: Hitler's foreign policy and the origins of the Second World War, 1933-1941
 
 - **Aims**: overturning Versailles, uniting German-speaking peoples, and *Lebensraum* in the east.
@@ -86,6 +101,11 @@ that compares factors, not just a list.
   the invasion of Poland (1 September); Britain and France declared war (3 September).
 - **To 1941**: the war widened with Germany's invasion of the USSR (June 1941) and Japan's attack on
   Pearl Harbor (December 1941).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--04-hitler-steps-to-war.webp" width="900" height="739" alt="A timeline of Hitler's foreign policy: leaving the League (1933), the pact with Poland (1934), the Saar and conscription (1935), the Rhineland (March 1936), the Anschluss (March 1938), Munich (September 1938), the occupation of Czechoslovakia (March 1939), the Nazi-Soviet Pact (23 August 1939), the invasion of Poland and declarations of war (September 1939), and the widening of the war in 1941." loading="lazy">
+  <figcaption>Step by step from leaving the League to war, with March 1939 ending appeasement.</figcaption>
+</figure>
 
 ## Option 3: The origins and development of the Cold War, 1945-1960
 
@@ -105,6 +125,11 @@ that compares factors, not just a list.
   co-existence; the Warsaw Pact formed (1955); the Hungarian rising of 1956, crushed when Nagy's
   government announced it would leave the Warsaw Pact; Sputnik 1 (1957).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--05-cold-war-action-reaction.webp" width="900" height="642" alt="Four action-and-reaction rows: the Truman Doctrine (1947) and the Soviet creation of Cominform; Marshall Aid (1947), rejected by the USSR, which set up Comecon; the new currency in the Western zones (1948) and the Berlin Blockade, answered by the Airlift; and NATO (1949) alongside two German states and the first Soviet atomic test." loading="lazy">
+  <figcaption>Each Western move met a Soviet response, deepening the division of Europe.</figcaption>
+</figure>
+
 ## Option 4: Détente and the collapse of communism, c1969-1991
 
 - **Détente**: motives included the cost of the arms race, the Sino-Soviet split and West German
@@ -121,6 +146,11 @@ that compares factors, not just a list.
   glasnost and perestroika; the opening of the Berlin Wall (November 1989); the Velvet Revolution
   in Czechoslovakia; the end of communist rule in East Germany and Hungary; the collapse of the USSR
   in December 1991.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--06-detente-to-collapse.webp" width="900" height="838" alt="Four phases left to right: détente, with SALT I and the Helsinki Accords; the collapse of détente after the invasion of Afghanistan, with boycotts and SDI; a second détente under Gorbachev, with Reykjavik and START; and the collapse of communism, with the opening of the Berlin Wall in 1989 and the end of the USSR in December 1991." loading="lazy">
+  <figcaption>Détente, renewed tension, a second détente, then collapse.</figcaption>
+</figure>
 
 ## Worked example: a 9-mark answer
 
@@ -142,6 +172,11 @@ increased in the years 1945-49.
 
 Each reason is named, supported with precise detail and linked to *why* tension increased.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--07-nine-mark-structure.webp" width="900" height="526" alt="Two panels, one per reason. Reason 1: the division of Germany and the Berlin Blockade, with precise detail (the 1948 currency, the blockade and airlift) and a link (Germany as a test of strength, leading to NATO and two German states). Reason 2: the Truman Doctrine and Marshall Aid, with detail and a link (Europe divided economically as well as politically)." loading="lazy">
+  <figcaption>Name each reason, support it with precise detail, then link it to why tension rose.</figcaption>
+</figure>
+
 ## Worked example: planning a 12-mark answer
 
 **Question shape (original):** "The alliance system was the main reason a regional conflict in the
@@ -156,6 +191,11 @@ Balkans became a world war in 1914." How far do you agree?
 - **Judgement**: the alliances created the framework, but military planning made the escalation
   rapid, and the invasion of Belgium decided Britain's entry; the alliances alone did not make war
   inevitable, since Italy did not join its partners in 1914.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-world-history-9245-paper-1-section-b--08-twelve-mark-plan.webp" width="900" height="676" alt="A plan for a 12-mark answer: the given factor, alliances, drew Russia, Germany and France into the Austro-Serbian war. Four other factors: the Schlieffen Plan, the naval race and imperial rivalry, Balkan nationalism, and leaders' decisions. The judgement weighs them: alliances were the framework, but planning made escalation rapid and Belgium decided Britain's entry." loading="lazy">
+  <figcaption>Explain the given factor and at least one other, then judge which mattered more and why.</figcaption>
+</figure>
 
 ## Common mistakes
 

@@ -1,0 +1,65 @@
+[
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--01-reading-skills.webp",
+  "width": 900,
+  "height": 660,
+  "after": "## What the specification says",
+  "alt": "Four rows for the AO1 reading skills: R1 select and use details, R2 collate and synthesise details from across the text, R3 interpret the writer’s ideas and perspective, R4 explain and evaluate the writer’s methods and their effects.",
+  "caption": "Every Section A question tests one or more of the four reading skills, R1 to R4.",
+  "bytes": 101354
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--02-literary-non-fiction-features.webp",
+  "width": 900,
+  "height": 740,
+  "after": "## What makes literary non-fiction different",
+  "alt": "Three features of literary non-fiction. A first-person voice where an older writer looks back at a younger self, so phrases like “I was sure then that…” signal a change of view; a purpose beyond the facts, such as admiration, unease, amusement or nostalgia; and selection and arrangement of what comes first, is lingered on, left out or left to the end.",
+  "caption": "The writer tells the truth but shapes it: voice, purpose and selection all reveal perspective.",
+  "bytes": 112112
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--03-reading-in-sections.webp",
+  "width": 900,
+  "height": 842,
+  "after": "## Reading the text in sections",
+  "alt": "An unseen text divided into three sections, each linked to its own question that needs only that section re-read, with a bracket under the whole text for the whole-text question. Four steps below: read the whole text quickly, re-read the named section, underline four or five pieces of evidence, and track how the attitude moves for the whole-text question.",
+  "caption": "Answer each question from its own section; use the whole text only for the whole-text question.",
+  "bytes": 100460
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--04-worked-example-method-effect.webp",
+  "width": 900,
+  "height": 860,
+  "after": "## Worked example",
+  "alt": "The memoir passage about the grandmother’s kitchen, analysed in four rows: contrast (“not large”, “enormous”), personification (“black and patient”, “fed”), short sentences (“I was nine…”) and metaphor (“holding the whole house together with her hands”), each linked to its effect on the reader.",
+  "caption": "Each point names a method, quotes briefly and explains the effect, and the last points follow the child-to-adult shift.",
+  "bytes": 193320
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--05-structure-questions.webp",
+  "width": 900,
+  "height": 850,
+  "after": "## Analysing structure",
+  "alt": "The text from start to finish with four structural checkpoints: the opening (a scene, a reflection or dialogue), shifts in focus (outside to inside, past to present, wide view to detail), pace (lingering on detail or summarising long periods), and the ending (returning to the opening, reflecting or left unresolved).",
+  "caption": "Structure is the order and shape of the text; every structural point needs an effect.",
+  "bytes": 117540
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--06-interpreting-perspective.webp",
+  "width": 900,
+  "height": 800,
+  "after": "## Interpreting perspective (R3)",
+  "alt": "Four clues to perspective (word choice with connotations, what is praised and mocked, how other people are presented, the reflective voice) feed one inference phrased tentatively. Below, a sustained interpretation develops one idea across three pieces of evidence, while a weak answer makes a new guess for each quotation.",
+  "caption": "Perspective is inferred from evidence and developed as one idea, not one guess per quotation.",
+  "bytes": 119128
+ },
+ {
+  "file": "oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction--07-question-stems.webp",
+  "width": 900,
+  "height": 770,
+  "after": "## Exam technique: typical question stems",
+  "alt": "Five common question stems matched to what they ask for: “What do you learn” or “List” (R1, select details), “Explain” (detail plus what it shows), “How does the writer” (R4, methods and effects), “What impressions” (R3, attitudes with evidence), and “To what extent” or “Evaluate” (weigh and judge).",
+  "caption": "The question stem tells you which skill to show; the marks tell you how long to spend.",
+  "bytes": 112334
+ }
+]

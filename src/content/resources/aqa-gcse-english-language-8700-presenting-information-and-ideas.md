@@ -69,6 +69,11 @@ topic with depth: a question with more than one side, or a subject you can expla
 effective range of strategies to engage the audience** means more than a clear order: varied openings, examples,
 questions, contrasts and pacing chosen for the listeners.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--01-presenting-grade-ladder.webp" width="900" height="568" alt="A table of the three grades for presenting. Pass: straightforward ideas, an attempt to organise, an attempt to meet the audience’s needs. Merit: challenging ideas with a range of vocabulary, clear structure, achieves the purpose. Distinction: sophisticated ideas and vocabulary, an effective range of engagement strategies, achieves the purpose. Every grade needs audibility and spoken Standard English." loading="lazy">
+  <figcaption>Every criterion for a grade must be met; challenging and sophisticated ideas need depth.</figcaption>
+</figure>
+
 ## Choosing a topic with room to grow
 
 A topic that can only produce a list of facts limits you to straightforward ideas. Turn a subject into a question or
@@ -83,6 +88,11 @@ a claim:
 
 The second column gives you something to explain, weigh and argue, which is where challenging ideas come from.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--02-flat-topic-to-depth.webp" width="900" height="619" alt="Four flat topics become topics with depth: my favourite football club becomes “Should football clubs be owned by their fans?”; climate change becomes what one town can realistically do; social media becomes whether it makes teenagers more or less lonely; a holiday in Italy becomes what living elsewhere taught me about my own town." loading="lazy">
+  <figcaption>A question or claim gives a topic room for challenging ideas.</figcaption>
+</figure>
+
 ## Selecting information
 
 Research more than you need, then cut hard. For each piece of information, ask:
@@ -92,6 +102,11 @@ Research more than you need, then cut hard. For each piece of information, ask:
 3. Is it **memorable** when heard once? Listeners cannot reread, so one vivid example often beats three statistics.
 
 Keep a note of where your information came from so that you can answer questions about it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--03-three-filters.webp" width="900" height="654" alt="A funnel with three filters: does the information serve my purpose, will my audience understand it without a long explanation, and is it memorable when heard once? What passes goes into the talk; the rest is cut. One vivid example often beats three statistics, and sources are noted for questions." loading="lazy">
+  <figcaption>Keep only what serves the purpose, suits the audience and sticks when heard once.</figcaption>
+</figure>
 
 ## Organising for listeners
 
@@ -105,6 +120,11 @@ structure.
 - **Repeat key ideas** more than you would in writing; repetition aids memory when heard.
 - **Summarise before concluding**, so that latecomers to your argument can catch up.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--04-organising-for-listeners.webp" width="900" height="706" alt="Five shapes for a talk: problem and solution; claim, reasons and counter-argument; past, present and future; two options compared; and myth-busting. Then three ways to keep listeners on track: signpost aloud, such as “That brings me to the second”, repeat key ideas, and summarise before concluding." loading="lazy">
+  <figcaption>Listeners cannot reread, so choose a shape and signpost it aloud.</figcaption>
+</figure>
+
 ## Spoken style is different from written style
 
 | Written | Spoken |
@@ -116,12 +136,22 @@ structure.
 
 Keep the register formal enough for the setting while sounding like speech, not like an essay being read aloud.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--05-written-vs-spoken.webp" width="900" height="532" alt="A two-column table. Written style uses long sentences with several clauses, phrases like “It could be argued that…”, parenthesis and headings. Spoken style uses shorter sentences with one idea at a time, “Some people say…”, pauses and separate sentences, and signposting phrases." loading="lazy">
+  <figcaption>Keep a formal register, but write for the ear, not the page.</figcaption>
+</figure>
+
 ## Planning for different purposes and audiences
 
 The same topic changes with the audience. A talk on volunteering for Year 7 needs concrete examples and a clear
 invitation; the same talk to governors needs evidence of benefit and a measured tone. If your teacher is the only
 listener, choose a form that imagines a wider audience: a radio interview, a pitch to a panel, or a speech to a named
 group.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--06-same-topic-different-audience.webp" width="900" height="534" alt="The same talk on volunteering splits two ways. For Year 7 it needs concrete examples and a clear invitation; for governors it needs evidence of benefit and a measured tone. If only the teacher is listening, choose a form such as a radio interview, a pitch to a panel or a speech to a named group." loading="lazy">
+  <figcaption>The audience changes the examples, the evidence and the tone.</figcaption>
+</figure>
 
 ## Worked example: planning a Merit-to-Distinction talk
 
@@ -140,6 +170,11 @@ group.
 **Why this plan aims high:** the ideas are challenging (it weighs competing interests rather than listing benefits),
 the structure is signposted and clear, and the strategies vary (description, direct question, balanced argument,
 returning image). Prepared notes would be cue cards with keywords only.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-presenting-information-and-ideas--07-car-ban-talk-plan.webp" width="900" height="931" alt="Six numbered steps for a talk on banning cars from the high street on Saturdays: an opening hook describing the street, a spoken signpost, who gains, who loses, a compromise with exemptions and a trial period, and a close that returns to the opening image. Most steps are tagged with the engagement strategy they use." loading="lazy">
+  <figcaption>Challenging ideas, a signposted structure and varied strategies.</figcaption>
+</figure>
 
 ## Common mistakes
 

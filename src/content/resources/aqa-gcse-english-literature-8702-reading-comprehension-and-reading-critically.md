@@ -50,6 +50,11 @@ The reading skills fall into four groups:
 These skills map onto the assessment objectives: comprehension and personal response mostly onto
 AO1, analysis and evaluation of methods onto AO2, and context-informed evaluation onto AO3.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--01-reading-skills-map.webp" width="900" height="714" alt="Four cards show the reading skill groups: literal and inferential comprehension, critical reading, evaluating a writer’s choices, and comparing texts. Below, AO1 is linked mostly to comprehension and personal response, AO2 to analysis and evaluation of methods, and AO3 to context-informed evaluation." loading="lazy">
+  <figcaption>Four groups of reading skills sit behind every question; each feeds the assessment objectives.</figcaption>
+</figure>
+
 ## Literal and inferential comprehension
 
 ### Words in context
@@ -85,6 +90,16 @@ Comprehension also means understanding *why* characters act and *how* events con
 the character want, fear or believe? What caused this event, and what does it cause? Writers often
 leave motives unstated, so explaining them is inference. Placing an extract in its sequence ("this
 follows directly after...") shows whole-text understanding.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--02-words-in-context.webp" width="900" height="670" alt="The word cold branches into three meanings: the weather, a character’s manner and a dead body, with three questions to ask about any word. Below, explicit meaning (stated directly) leads to implied meaning (inferred from details), with a test: can you point to the words that support the inference?" loading="lazy">
+  <figcaption>Pin down what a word means here, then infer only what the words can support.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--03-inference-ladder.webp" width="900" height="674" alt="Four rising steps applied to one sentence. Detail: two places are set and one is cleared. Literal meaning: she expected someone, then remembered they would not come. Inference: habit and grief. Significance: loss is shown through routine. Weak answers stop at step 2; strong answers reach step 4 while staying anchored in step 1." loading="lazy">
+  <figcaption>Climb from detail to significance, and keep every step tied to the words.</figcaption>
+</figure>
 
 ## Critical reading
 
@@ -125,6 +140,11 @@ evaluate whether the writer reinforces or challenges them. Keep it specific and 
 character. "I find this ending unsettling because the narrator never explains..." is a personal
 response; "I didn't like it" is not.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--04-weighing-readings.webp" width="900" height="658" alt="Three numbered steps: state a reading (her silence as weakness), offer an alternative (her silence as resistance), and weigh them (the ending supports the second reading). Below, recognising readings is credited, but evaluating them moves an answer higher." loading="lazy">
+  <figcaption>Offering two readings is not enough: weigh them and decide.</figcaption>
+</figure>
+
 ## Evaluating writers' choices
 
 Analysis explains what a choice does. **Evaluation** judges how well it does it and why it matters.
@@ -133,6 +153,11 @@ it more powerful than an alternative would have been? Does it work alongside oth
 
 Use terminology to make evaluation precise, not as decoration. Grammatical features count too: a
 passive verb can hide who is responsible; a list can overwhelm; a sudden short sentence can shock.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--05-analysis-to-evaluation.webp" width="900" height="686" alt="Analysis asks what a choice does; evaluation asks how well it does it and why it matters, with three questions: why it is effective here, whether it is more powerful than an alternative, and whether it works with other choices. Below, three grammatical features: a passive verb can hide responsibility, a list can overwhelm and a short sentence can shock." loading="lazy">
+  <figcaption>Analysis explains an effect; evaluation judges its quality and impact.</figcaption>
+</figure>
 
 ## Comparing texts
 
@@ -164,6 +189,11 @@ The passage below is **original**, written for this resource.
 > is more powerful than an outburst would be, because her calm reveals how much she is holding back
 > **[evaluation of impact]**.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--06-worked-example-annotated.webp" width="900" height="632" alt="The model answer’s argument, that Nan manages grief through routine rather than speech, is supported by four pieces of evidence. Each row links the evidence to what it suggests and to the skill shown: inference from explicit detail, motive inferred and alternative reading weighed, sequence and imagery evaluated, and evaluation of impact." loading="lazy">
+  <figcaption>Each sentence of the model answer pairs evidence with a reading and shows a named skill.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Inferences without evidence**: claims that cannot be traced to the words.
@@ -179,6 +209,11 @@ The passage below is **original**, written for this resource.
 - "How does the writer present" points you to methods and their effects.
 - "Compare" requires both texts together throughout.
 - Underline the focus word and test every inference against it.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically--07-question-words.webp" width="900" height="420" alt="A table pairs question wording with what it asks: explore or how far means consider more than one reading and reach a judgement; how does the writer present means focus on methods and effects; compare means keep both texts together throughout." loading="lazy">
+  <figcaption>The wording of the question tells you which reading skill to show.</figcaption>
+</figure>
 
 ## Related resources
 

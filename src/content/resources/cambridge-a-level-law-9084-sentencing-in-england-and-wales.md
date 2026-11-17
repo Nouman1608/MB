@@ -70,6 +70,21 @@ The court follows the **Sentencing Council's guidelines** unless that would be c
 
 A **pre-sentence report** from the Probation Service often informs the decision, especially when custody or a community order is being considered.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-sentencing-in-england-and-wales--01-adult-sentence-ladder.webp" width="900" height="671" alt="Four tiers of adult sentence rising in severity: discharges (absolute and conditional), fines (levels 1 to 5, top level unlimited since 2015, with compensation orders taking priority), community orders of up to three years with requirements, and custody (suspended, determinate, life, extended and minimum sentences). Dashed lines mark the community and custody thresholds." loading="lazy">
+  <figcaption>Each step up needs the offence to cross a seriousness threshold.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-sentencing-in-england-and-wales--02-guideline-steps.webp" width="900" height="863" alt="Five guideline steps: seriousness by culpability and harm, aggravating factors, mitigating factors, the guilty plea reduction and totality with ancillary orders and reasons. Bars to scale show the plea reduction falling from up to one-third at the first opportunity to one-quarter after that and towards one-tenth on the first day of trial." loading="lazy">
+  <figcaption>Seriousness sets the starting point; factors and an early plea move it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-cambridge-law-criminal-law--19-law3-sentencing.webp" width="900" height="950" alt="Two columns. Adult offenders: custodial, community, fines and discharges. Young offenders: custodial and community options, together with the role of parental responsibility. Below, example aims of sentencing: punishment, deterrence, rehabilitation, public protection and reparation, which adult and young offender systems do not weight identically." loading="lazy">
+  <figcaption>Adult and young-offender sentencing are parallel but distinct systems with different weighting of the aims.</figcaption>
+</figure>
+
 ## 2.3.2 Young offenders
 
 The age of criminal responsibility is 10. Offenders aged 10–17 are normally dealt with in the **youth court**, a private court staffed by specially trained magistrates or district judges.
@@ -108,6 +123,11 @@ The Sentencing Council's guideline on sentencing children and young people requi
 - the seriousness of the offence, using reduced starting points compared with adults;
 - a guilty plea, which earns a reduction as for adults.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-sentencing-in-england-and-wales--03-young-offenders.webp" width="900" height="672" alt="Youth sentences: community options are the referral order and the youth rehabilitation order; custodial options are the detention and training order (12 to 17), long-term detention for grave crimes and detention at His Majesty’s pleasure for murder. Parental responsibility covers attendance at court, paying fines and compensation, parenting orders and binding over." loading="lazy">
+  <figcaption>Community options first; custody is a last resort, and parents share responsibility.</figcaption>
+</figure>
+
 ## 2.3.3 Aims of sentencing
 
 **Adults.** The Sentencing Code sets out five purposes the court must have regard to for offenders aged 18 or over:
@@ -126,6 +146,11 @@ General deterrence was stressed after the 2011 riots: in *R v Blackshaw* (2011) 
 
 **Evaluation.** The aims conflict: a long sentence may punish and protect but do little to rehabilitate, and short prison terms disrupt jobs and housing without time for meaningful rehabilitation. Deterrence assumes offenders weigh consequences, which impulsive or addicted offenders may not. The youth emphasis on prevention reflects children's greater capacity for change, but critics argue a sharp change at 18 ignores individual maturity.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-sentencing-in-england-and-wales--04-aims-of-sentencing.webp" width="900" height="750" alt="A table of the five adult aims in the Sentencing Code, each with its meaning and the sentences that serve it: punishment, reduction of crime including deterrence (R v Blackshaw), reform and rehabilitation, protection of the public, and reparation. For young offenders the principal aim is preventing offending, with regard to welfare." loading="lazy">
+  <figcaption>Every sentence should be linked to an aim; for children the aim is prevention.</figcaption>
+</figure>
+
 ## Worked example
 
 *Priya, 32, with no previous convictions, pleads guilty at her first appearance to theft of £400 from her employer to pay a debt. She shows remorse and has repaid the money. Advise on the likely sentence and the aims served.*
@@ -135,6 +160,11 @@ General deterrence was stressed after the 2011 riots: in *R v Blackshaw* (2011) 
 3. **Plea:** a first-opportunity guilty plea earns up to a one-third reduction.
 4. **Likely outcome:** a community order with unpaid work, or a fine, rather than custody; a conditional discharge is possible if the court sees little need for punishment.
 5. **Aims:** unpaid work serves punishment and reparation; the absence of custody supports rehabilitation, as she can keep her family life and find new work.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-sentencing-in-england-and-wales--05-priya-worked-example.webp" width="900" height="604" alt="Priya’s case: abuse of trust aggravates; no previous convictions, remorse and repayment mitigate; an early plea earns up to one-third off. The likely outcome is a community order with unpaid work, serving punishment and reparation, or a fine, with a conditional discharge possible; avoiding custody supports rehabilitation." loading="lazy">
+  <figcaption>Weigh the factors, apply the plea, then name the sentence and the aim it serves.</figcaption>
+</figure>
 
 ## Common mistakes
 

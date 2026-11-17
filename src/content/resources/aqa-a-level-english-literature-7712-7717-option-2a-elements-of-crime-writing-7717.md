@@ -40,6 +40,11 @@ structured". All the texts focus on "transgressions against established order": 
 national, social, religious or moral laws. So you are not asking "is this a crime novel?" but
 "which elements of crime writing does this text use, and to what effect?"
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717--01-why-elements.webp" width="900" height="590" alt="A timeline shows crime fiction emerging as a genre in the mid-19th century, with texts such as Hamlet and The Rime of the Ancient Mariner before it. Every set text shares a significant crime that drives the narrative, consequences that shape the structure, and transgressions against national, social, religious or moral laws. The question is which elements a text uses, and to what effect." loading="lazy">
+  <figcaption>Many set texts predate crime fiction, so ask which elements each text uses.</figcaption>
+</figure>
+
 ## The set texts
 
 You study three: **one post-2000 prose text, one pre-1900 poetry text and one further text**.
@@ -58,6 +63,11 @@ You study three: **one post-2000 prose text, one pre-1900 poetry text and one fu
 
 The paper is open book: you may take your set texts in, but they must not be annotated or contain
 any additional notes or materials.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717--02-set-texts.webp" width="900" height="615" alt="Three columns: post-2000 prose (When Will There Be Good News?, Atonement, or Kala from 2027), pre-1900 poetry (The Rime of the Ancient Mariner, or five poems by Crabbe, Browning and Wilde), and a further text (Oliver Twist, Hamlet, The Murder of Roger Ackroyd or Brighton Rock). A note says set texts must be unannotated." loading="lazy">
+  <figcaption>One post-2000 novel, one pre-1900 poetry text and one further text.</figcaption>
+</figure>
 
 ## The elements, grouped
 
@@ -97,6 +107,11 @@ Christie each shape what crime means.
 of society at particular historical periods", and how it affects readers, "creating suspense,
 repugnance, excitement and relief".
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717--03-elements-grouped.webp" width="900" height="627" alt="Six grouped elements with examples: the crime and the criminal (Pinkie Brown, Browning’s speakers), detection and resolution (Poirot, Jackson Brodie, Ida Arnold), guilt and its aftermath (the Mariner, Briony, Claudius), victims and justice (Reading Gaol, Fagin), setting, structure and language (Dickens’s London, Greene’s Brighton, King’s Abbot), and society and audience." loading="lazy">
+  <figcaption>Six groups of elements, each illustrated from the set texts.</figcaption>
+</figure>
+
 ## The unseen passage
 
 Section A is a compulsory question on an unseen extract from the crime genre, which may be prose,
@@ -126,6 +141,11 @@ the speaker's rough voice, and the line break and short final sentence create a 
 mirrors the drowning. The extract therefore presents a crime of omission, a confession to the
 reader but not to the law, inviting both repugnance and a troubled sympathy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717--04-unseen-passage.webp" width="900" height="722" alt="Three linked steps for the unseen: identify the elements including what is withheld, analyse methods, and build an argument. Below, the original five-line poem is marked: the first two lines are public testimony to the magistrate and the rest is unspoken private guilt, with notes on the legal register as a mask, the withheld lantern, and the silence of the final short sentence." loading="lazy">
+  <figcaption>Identify, analyse, then argue: here, a crime of omission hidden behind true facts.</figcaption>
+</figure>
+
 ## Set-text and connecting essays
 
 In **Section B** you answer on one set text. In **Section C** you connect two texts, and the rubric
@@ -142,6 +162,16 @@ haunting the Mariner. Context: Romantic ideas of nature and sin; twentieth-centu
 Judgement: both texts are shaped by guilt, but each asks the reader to question whether the guilty
 narrator can ever do justice to the victim.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717--05-section-c-plan.webp" width="900" height="634" alt="A balance tips towards the guilty. On that side, both texts centre on a transgressor’s guilt, with victims seen through the narrator’s memory. On the other, Robbie has his own sections and the dead crew haunt the Mariner. The judgement is that both are shaped by guilt but question whether the guilty narrator can do justice to the victim." loading="lazy">
+  <figcaption>Argue the view, give the victims their weight, then judge.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--09-p2-plan-texts.webp" width="900" height="850" alt="Three text boxes at the top. An arrow takes Text 1 to Section B; arrows take Texts 2 and 3 to Section C. A dashed crossed line from Text 1 to Section C shows that reusing the Section B text is not allowed." loading="lazy">
+  <figcaption>Choose the texts for B and C in advance: they cannot overlap.</figcaption>
+</figure>
+
 ## Common mistakes
 
 - **Forcing every text into detective fiction.** Use the elements the text actually has.
@@ -156,6 +186,11 @@ Paper 2 lasts 3 hours for three 25-mark answers, so about an hour each is propor
 reading time for the unseen within its hour. The assessment objectives are the same five as Paper
 1: response and terminology (AO1), methods (AO2), contexts (AO3), connections (AO4) and
 interpretations (AO5).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-aqa-english-literature-b-texts-and-genres--08-p2-exam-structure.webp" width="900" height="930" alt="Chips show 3 hours, 75 marks, 40 percent of the A-level and open book. A bar shows three 25-mark sections: the compulsory unseen passage, an essay on one set text, and an essay connecting two set texts. Below, a clean open book with a tick is allowed and an annotated book with a cross is not allowed." loading="lazy">
+  <figcaption>Paper 2 is open book, but only clean, unannotated copies are allowed.</figcaption>
+</figure>
 
 ## Related resources
 

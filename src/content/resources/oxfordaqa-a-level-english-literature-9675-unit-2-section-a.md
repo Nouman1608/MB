@@ -44,6 +44,11 @@ angles work in a novel, where place reaches the reader through a narrator.
 You study one, chosen by your centre. The list is from Version 5.3; a revised 9675 for teaching from
 2027 has a refreshed set-text list.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--01-six-novels.webp" width="900" height="680" alt="Six rows list each novel with the places it moves between: Heart of Darkness (the Thames, Brussels, the Congo), The Great Gatsby (West Egg, East Egg, the valley of ashes, New York, the Midwest), Americanah (Lagos, Nsukka, American cities, London), Small Island (Jamaica, London, India), Last Man in Tower (a Mumbai housing society and the city) and Remains of the Day (Darlington Hall and the West Country)." loading="lazy">
+  <figcaption>Every set novel moves between places, so the order of places is itself a method.</figcaption>
+</figure>
+
 ## What the specification means by place
 
 The specification links the texts "through the significance of place(s)" to their "stories; their
@@ -56,6 +61,11 @@ Two of those words matter most for a prose essay. **Structure**: in all six nove
 organised around movement between places, so the order in which places appear is a method.
 **Representation**: no place exists in a novel except as words chosen by a narrator, so every place
 is someone's view of a place.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-oxfordaqa-english-literature-place-in-literary-texts--13-pl-angles.webp" width="900" height="810" alt="A hub labelled Place connects to seven angles drawn from the specification: geography, the natural world, social identity and class, relationships, politics, home and homeland, and language of place. The specification gives no exhaustive list, so the angles are a starting bank for evidence." loading="lazy">
+  <figcaption>Seven angles from the specification for building a bank of evidence about place.</figcaption>
+</figure>
 
 ## How novels build place
 
@@ -83,6 +93,16 @@ sites of power.
 **Time.** The specification notes locations "and possibly times". A place revisited after years,
 or described by an older narrator, carries the weight of change.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--02-whose-view.webp" width="900" height="744" alt="Three narrators and how their position filters place: Marlow tells of the Congo from a boat on the Thames, Nick Carraway describes the Eggs as a Midwestern outsider, and Stevens’s restraint makes him an unreliable guide to the West Country. Below, structure means the order of places is a method, and representation means every place is someone’s view. A note cites Achebe’s 1975 lecture." loading="lazy">
+  <figcaption>A novel’s places always reach us through a narrator’s eyes and words.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--03-how-novels-build-place.webp" width="900" height="636" alt="Three paired places show contrast: East and West Egg, the England Hortense imagines and Gilbert’s cramped room, and the old tower and the promised luxury development. Four cards follow: journeys, home and homeland, place as political space, and time." loading="lazy">
+  <figcaption>Journeys, contrasts, home, power and time all turn setting into meaning.</figcaption>
+</figure>
+
 ## Open-book technique
 
 Because you have the novel in the exam, you are expected to use precise, accurate textual detail.
@@ -95,6 +115,11 @@ That is an advantage only if you can find material quickly. Before the exam:
 
 Your centre will confirm the board's rules about what kind of copy you may take in. Do not spend
 exam time copying long passages: short, analysed quotations earn more than extended ones.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--04-open-book-prep.webp" width="900" height="590" alt="A bar maps a novel’s sections by place from opening to ending, with pins marking five or six key passages. Two cards add marking key passages and practising short quotations, and a note says to allow about five minutes in the exam to choose three or four passages." loading="lazy">
+  <figcaption>Map the novel by place before the exam, so the open book saves time instead of costing it.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -127,6 +152,11 @@ appeasement politics conducted at Darlington Hall.
 The paragraph uses a precise paraphrase where a long quotation would waste time, analyses
 structure as well as description, links place to identity and class, and builds an interpretation
 of the narrator.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-a-level-english-literature-9675-unit-2-section-a--05-worked-example.webp" width="900" height="940" alt="A road runs from Darlington Hall through the West Country to the sea. Dashed arrows from each stop loop back to the house, showing each place prompting a memory of the 1930s. Below, the plan’s four points: the journey itself, the greatness of the English landscape, places as memory, and the final evening by the sea." loading="lazy">
+  <figcaption>The open road keeps pulling Stevens back into the house and the past.</figcaption>
+</figure>
 
 ## Interpretations worth knowing
 

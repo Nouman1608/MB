@@ -41,6 +41,11 @@ positioning, comparison), see the
 | Pragmatics | The contextual aspects of language use | Implied meaning, politeness, speech acts, assumed knowledge |
 | Discourse | Extended stretches of communication in different genres, modes and contexts | Overall structure, cohesion, openings and closings, turn-taking |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--01-six-levels.webp" width="900" height="760" alt="A table of the six levels in the specification: phonetics, phonology and prosodics; graphology; lexis and semantics; grammar including morphology; pragmatics; and discourse. Each is shown with its specification wording and what it gives you when analysing Paper 1 texts." loading="lazy">
+  <figcaption>Six levels, each giving you a different kind of evidence about a text.</figcaption>
+</figure>
+
 ## "Salient" is the key word
 
 Salient means *prominent and significant*. You are not asked to find every feature at every level; you are asked to
@@ -48,6 +53,11 @@ find the features that do most to create the text's meanings. A practical test: 
 the representation or relationship change? If yes, it is salient. Repeated patterns (a semantic field running
 through a text, a run of imperatives) and marked choices (a sudden shift in register, a single minor sentence) are
 usually more salient than isolated features.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--02-salience-test.webp" width="900" height="710" alt="A decision flow: ask whether changing a feature would change the representation or relationship. If yes, it is salient and worth analysing; if no, leave it out. Repeated patterns and marked choices are usually more salient than isolated features." loading="lazy">
+  <figcaption>Salient means prominent and significant: the features that do most to create the text's meanings.</figcaption>
+</figure>
 
 ## Level by level: the terminology that earns credit
 
@@ -85,6 +95,11 @@ context); assumed shared knowledge.
 through reference (pronouns pointing back or forward), lexical repetition, synonyms, ellipsis and conjunctions;
 openings and closings; in speech, adjacency pairs, turn-taking, topic shifts and repair.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--03-grammar-ranks.webp" width="900" height="543" alt="Four ranks of grammar from word up to sentence. Word: word classes and morphology. Phrase: noun phrase structure and verb phrase tense, aspect, modality and voice. Clause: clause elements, main and subordinate clauses and fronted adverbials. Sentence: the four functions and five structures." loading="lazy">
+  <figcaption>Describe grammar at word, phrase, clause and sentence level, working upwards.</figcaption>
+</figure>
+
 ## Worked example: describing salient features precisely
 
 The text below is **original**, written for this page: a leaflet for a community café.
@@ -104,6 +119,11 @@ The text below is **original**, written for this page: a leaflet for a community
 
 Notice that the table never says "short sentence for effect". It names the structure, quotes it and states the
 meaning it helps create.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--04-cafe-leaflet-features.webp" width="900" height="729" alt="The lesson's original café leaflet is split into its five sentences, each linked to a salient feature: opening and closing imperatives with domestic, informal lexis, an implied welcome for newcomers, a tricolon of parallel clauses with &quot;our&quot;, and a presupposition that the reader will visit. A bracket shows the circular invitation, reasons, invitation structure." loading="lazy">
+  <figcaption>Name the structure, quote it and state the meaning it helps create.</figcaption>
+</figure>
 
 ## Worked example: getting grammar right
 
@@ -125,6 +145,11 @@ Accurate description like this lets you make confident claims. Calling this a "l
 it a complex sentence with a post-modifying relative clause that delays the verb, so that effort is foregrounded,
 earns credit for method and for meaning.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--05-parsing-a-sentence.webp" width="900" height="750" alt="The sentence &quot;The tired volunteers who had worked all night finally closed the doors&quot; is split into chips. The noun phrase is labelled determiner, pre-modifier, head and post-modifying relative clause; &quot;finally&quot; is an adverbial and &quot;closed&quot; a simple past main verb, with &quot;had worked&quot; in the past perfect. A note replaces &quot;a long sentence&quot; with a precise description." loading="lazy">
+  <figcaption>Accurate grammatical description lets you make a confident claim about meaning.</figcaption>
+</figure>
+
 ## Applying methods to children's data (Section B)
 
 The same levels describe children's speech and writing: phonological processes (substitution, deletion,
@@ -132,6 +157,11 @@ reduplication), lexical and semantic development (over- and underextension), gra
 negatives, questions), pragmatic development (turn-taking, politeness) and, for writing, graphology and orthography.
 Description comes first; theory follows. See the
 [children's language development study guide](/resources/aqa-a-level-english-language-7702-section-b-childrens-language-development/).
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--06-levels-for-child-data.webp" width="900" height="535" alt="Five levels applied to children's data: phonological processes such as substitution, deletion and reduplication; over- and underextension; inflections, negatives and questions; turn-taking and politeness; and graphology and orthography in writing. All feed into describing the data first, with theory following." loading="lazy">
+  <figcaption>Describe the child's language level by level first; bring in theory after.</figcaption>
+</figure>
 
 ## Common mistakes
 
@@ -151,6 +181,11 @@ Description comes first; theory follows. See the
   build it.
 - Range matters, but depth matters more. Aim to use several levels across an answer, and develop each point.
 - Quote briefly and precisely, embedding quotations in your sentences.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2--07-identify-describe-analyse.webp" width="900" height="650" alt="Three stepped stages using the lesson's grammar example: identify names the feature (a relative clause), describe says how it is formed (a post-modifying relative clause in the noun phrase), and analyse explains its meaning (it delays the verb so effort is foregrounded). A note advises planning by meaning before choosing levels." loading="lazy">
+  <figcaption>Paper 1 analysis needs all three steps, not just a feature name.</figcaption>
+</figure>
 
 ## Where to go next
 

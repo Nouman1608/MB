@@ -49,6 +49,11 @@ gives two bullet points: one about the extract, one about the play as a whole. "
 to weigh more than one reading; "presents" tells you to focus on the dramatist's choices, not on the
 character as if they were a real person.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--01-marks-and-question.webp" width="900" height="636" alt="A bar splits 34 marks: AO1 12, AO2 12 and AO3 6 make the 30-mark question, marked as a whole, plus 4 for AO4. Below, the usual question wording is annotated: starting with this extract means two bullets, explore means weigh more than one reading, and presents means focus on the dramatist’s choices. A note says Section A is 34 of the paper’s 64 marks." loading="lazy">
+  <figcaption>Thirty marks for the answer plus four for AO4; the key words tell you what to do.</figcaption>
+</figure>
+
 ## Reading a play as drama
 
 Shakespeare wrote for performance. A script is a set of instructions for actors and an audience
@@ -89,6 +94,21 @@ where earlier ideas are resolved, punished or left uneasy? Plays often echo them
 phrase or action at the start returns later with its meaning changed. Tracking those echoes is one of
 the clearest ways to write about structure.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--02-dramatic-methods.webp" width="900" height="620" alt="A table of seven dramatic methods and their effects: soliloquy, aside, dramatic irony, entrances and exits, embedded stage directions, juxtaposition of scenes and shared lines." loading="lazy">
+  <figcaption>Each method changes what the audience knows, sees or feels.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--03-verse-prose-rhyme.webp" width="900" height="616" alt="Three panels. Blank verse: unrhymed lines of about ten syllables in a da-DUM rhythm, often for high-status or serious speech. Prose: no metre, often for lower-status characters, comedy, letters or a mind breaking down. Rhyming couplets: two rhymed lines closing a scene or speech. A note says the exceptions, such as a noble slipping into prose or a caesura, are the moments to analyse." loading="lazy">
+  <figcaption>Notice the mode, and especially when a character moves out of it.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--04-structure-across-the-play.webp" width="900" height="580" alt="A bar for the whole play marks the opening, where relationships are established, a turning point, where a decision changes everything, and the ending, where ideas are resolved, punished or left uneasy. A dashed arc shows an image from the start echoing near the end with its meaning changed." loading="lazy">
+  <figcaption>Place the extract in the play’s shape, and follow the echoes.</figcaption>
+</figure>
+
 ## Context that earns credit
 
 AO3 is about the relationship between the play and the context in which it was written. Useful
@@ -100,6 +120,11 @@ moment. A paragraph of history with no link to the text earns little.
 
 A strong move is to show how a modern audience and an original audience might respond differently,
 as long as you anchor both in what the text does.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--05-context-that-earns-credit.webp" width="900" height="544" alt="A hub labelled context of writing links to four areas: the theatre (the audience, no women on the public stage, a bare stage), beliefs about hierarchy, gender, religion and authority, genre expectations, and how original and modern audiences might respond differently. Below, context linked to a specific moment earns credit; a paragraph of unlinked history earns little." loading="lazy">
+  <figcaption>Use only relevant context, and tie it to a specific moment in the play.</figcaption>
+</figure>
 
 ## Worked example
 
@@ -131,6 +156,11 @@ Notice that every sentence makes a point about meaning, the method is named only
 context is attached to a specific phrase, and there is already a signal of where the argument goes
 next in the play.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--06-soliloquy-annotated.webp" width="900" height="735" alt="The five-line original soliloquy by Aldric is shown with annotations: the rhetorical question and clothing metaphor (AO2 language), the turn at and yet (AO2 structure), the soliloquy form that lets only the audience hear (AO2 form and AO1 whole-play link), and conscience dismissed as a servant (AO3 tied to the line)." loading="lazy">
+  <figcaption>Each annotation names what the line does, then the objective it serves.</figcaption>
+</figure>
+
 ## Building the extract-to-whole-play argument
 
 The extract is a starting point, not the whole answer. A reliable plan:
@@ -148,6 +178,16 @@ The extract is a starting point, not the whole answer. A reliable plan:
 Some candidates prefer to weave the extract and the wider play together in every paragraph. Either
 approach can reach the top levels as long as both bullet points are covered and the argument is
 consistent.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-8702-section-a-shakespeare--07-five-step-plan.webp" width="900" height="774" alt="Five numbered steps: read the question and extract twice, write a one-sentence argument, analyse the extract first, move outward to an earlier and a later moment, and conclude with a judgement about the end of the play." loading="lazy">
+  <figcaption>One argument carries the answer from the extract out across the play.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-literature-paper-1--12-p1-extract-outward.webp" width="900" height="850" alt="A long bar stands for the whole play with a gold extract segment in the middle. Arrows lead from the extract to earlier and later points in the play. Below, two panels say strong answers cover what a line says and how it is spoken or staged." loading="lazy">
+  <figcaption>Start from the extract and reach outward; comment on staging as well as words.</figcaption>
+</figure>
 
 ## Common mistakes
 

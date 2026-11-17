@@ -42,6 +42,11 @@ and to test yourself use the
 | Paper 1, Question 4 | 20 | Evaluate, drawing on language and structure as evidence |
 | Paper 2, Question 3 | 12 | Analyse language in one non-fiction source |
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--01-where-tested-marks.webp" width="900" height="668" alt="Bars to scale: Paper 1 Question 2 (8 marks, language), Paper 1 Question 3 (8 marks, structure), Paper 1 Question 4 (20 marks, evaluation) and Paper 2 Question 3 (12 marks, language). AO2 covers analysing language and structure; AO4 takes the step to judging." loading="lazy">
+  <figcaption>Four questions test the writer’s choices; the 20-mark evaluation is the largest.</figcaption>
+</figure>
+
 ## The four areas of choice
 
 ### Vocabulary
@@ -67,6 +72,11 @@ Grammar is about how words are arranged, and it creates effects just as vocabula
 - **Active and passive voice:** the passive ("the window was broken") can hide who acted.
 - **Word order:** placing a key word at the end of a sentence gives it emphasis.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--03-grammar-effects.webp" width="900" height="649" alt="A table pairs grammar choices with effects: a simple sentence after complex ones emphasises an idea; long sentences mimic breathlessness; questions and commands change the reader’s role; tense, pronouns, modal verbs, the passive voice and word order each shift meaning or emphasis." loading="lazy">
+  <figcaption>Grammar creates effects just as vocabulary does.</figcaption>
+</figure>
+
 ### Form
 
 Form is the kind of text and the conventions it follows. A diary invites intimacy and immediacy; a letter addresses
@@ -87,6 +97,16 @@ Structure is the order and shape of the whole text, and it is what Paper 1 Quest
 Structure is about the text as a sequence. A comment that could be made about a single sentence in isolation is
 usually a language point, not a structural one.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--04-structure-map.webp" width="900" height="706" alt="A text drawn as a column of paragraphs, with labels from top to bottom: opening, shifts in focus, time, repetition and patterning (a dashed arrow loops from the end back to the start), paragraphing (a one-line paragraph) and ending." loading="lazy">
+  <figcaption>Structure is the order and shape of the whole text, from opening to ending.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--02-four-areas-of-choice.webp" width="900" height="669" alt="Four bands from smallest to largest unit: vocabulary (single words), grammar (how words are arranged), form (the kind of text and its conventions) and structure (the whole text as a sequence), each with the features to look for." loading="lazy">
+  <figcaption>Words, arrangement, kind of text, whole sequence: four places to look for choices.</figcaption>
+</figure>
+
 ## From explaining to evaluating
 
 The specification uses two kinds of verb: *explain and illustrate* (show how a choice works, with a quotation) and
@@ -94,6 +114,11 @@ The specification uses two kinds of verb: *explain and illustrate* (show how a c
 why it is the right choice at this moment, or how it shapes the reader's response to the whole passage. Evaluative
 phrases include "particularly effective because", "this is the turning point of the passage because", and "the
 impact is strengthened by".
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--05-name-explain-evaluate.webp" width="900" height="838" alt="Three rising steps. “The writer uses a verb” is accurate but inert. “The verb ‘clawed’ gives the wind the violence of an animal” explains an effect. Evaluation judges why the choice is right at this moment or how it shapes the whole passage, with phrases such as “particularly effective because”." loading="lazy">
+  <figcaption>A term earns credit only when it leads to an effect, and then to a judgement.</figcaption>
+</figure>
 
 ## Using terminology accurately
 
@@ -127,6 +152,16 @@ The passage below is original, written for this guide.
 > then narrows to the table and the absence of post, a single concrete detail that confirms the unease **[zoom]**. The
 > final, separate paragraph withholds the explanation until the last clause, "she had gone", so the passage ends on
 > certainty that has been building since the second sentence **[ending, and how it relates to the opening]**.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--06-ellis-language.webp" width="900" height="611" alt="The opening of the Ellis passage with two phrases highlighted. The minor sentence “Too quiet” turns a neutral observation into a warning. The personified refrigerator humming “its one low note” makes the absence of human sound audible. The paragraph ends by evaluating the impact: the reader senses something is wrong before Ellis admits it." loading="lazy">
+  <figcaption>Accurate term, precise effect, then a judgement of impact.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features--07-ellis-structure.webp" width="900" height="685" alt="Four bands whose widths show the focus: the doorway, then outward to sounds below and above, then narrowing to the empty table, then a final separate paragraph that withholds “she had gone” until the last clause." loading="lazy">
+  <figcaption>The focus widens, narrows to one detail, then ends on a withheld certainty.</figcaption>
+</figure>
 
 ## Common mistakes
 

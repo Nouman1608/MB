@@ -73,6 +73,26 @@ Passages revealed in Madina are generally longer and deal with worship in detail
 inheritance law, relations with other communities and the conduct of war, because a Muslim community
 now existed that needed guidance for its life together.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--01-revelation-610-632.webp" width="900" height="625" alt="A vertical timeline: retreats to the Cave of Hira; in Ramadan 610 the first revelation, Sura 96.1–5; Khadija comforts him and takes him to Waraqa ibn Nawfal; a pause; revelation resumes with Sura 74, &quot;arise and warn&quot;, and continues until shortly before his death in 632." loading="lazy">
+  <figcaption>From the first words in Hira in 610 to the last revelation shortly before 632.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--02-ways-revelation-came.webp" width="900" height="438" alt="Four cards: revelation came like the ringing of a bell, the hardest on him; through Jibril in the form of a man; in true dreams; and directly from God during the Mi'raj." loading="lazy">
+  <figcaption>Revelation came in several ways; the bell-like form was the hardest on the Prophet (pbuh).</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--03-why-gradual.webp" width="900" height="513" alt="Two Qur'anic reasons, Sura 25.32 (to strengthen the Prophet's heart) and Sura 17.106 (recited at intervals), above three practical reasons: people could memorise and act on each passage, events were answered as they arose, and laws came step by step, as with the prohibition of wine, which came in stages before the final ban in Sura 5.90." loading="lazy">
+  <figcaption>Gradual revelation strengthened the Prophet (pbuh) and let believers learn and apply each step.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--04-makkan-and-madinan.webp" width="900" height="435" alt="Two columns. Makkan suras are generally shorter and concentrate on the oneness of God, prophethood, the Day of Judgement and moral conduct, calling people to faith. Madinan suras are generally longer and deal with worship in detail, family and inheritance law, relations with other communities and the conduct of war, guiding a community that now existed." loading="lazy">
+  <figcaption>Makka: calling to faith. Madinah: guidance for a community's shared life.</figcaption>
+</figure>
+
 ## Preservation during the Prophet's lifetime
 
 - **Memorisation.** The Prophet (pbuh) recited each revelation to his Companions, who memorised it;
@@ -89,6 +109,11 @@ now existed that needed guidance for its life together.
 The Qur'an was therefore complete in memory and in writing by 632, but not yet gathered into a
 single bound copy.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--05-preservation-in-his-lifetime.webp" width="900" height="569" alt="Four methods of preservation in the Prophet's lifetime: memorisation by huffaz and recitation in prayer; writing by scribes such as Zayd ibn Thabit on palm-leaf stalks, leather, stones and bones; the order of verses fixed by the Prophet; and an annual review with Jibril each Ramadan. By 632 the Qur'an was complete in memory and writing but not yet in one bound copy." loading="lazy">
+  <figcaption>Complete in memory and writing by 632, but not yet in one volume.</figcaption>
+</figure>
+
 ## Compilation under Abu Bakr
 
 During Abu Bakr's caliphate (632–634) the Muslims fought the false prophet Musaylima at the **Battle
@@ -104,6 +129,11 @@ Prophet's presence. The final verses of Sura 9 were found in writing only with A
 al-Ansari. The completed sheets (suhuf) stayed with Abu Bakr, then Umar, and then Umar's daughter
 **Hafsa**, a wife of the Prophet.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--06-journey-of-the-suhuf.webp" width="900" height="990" alt="Two linked columns. Under Abu Bakr: the Battle of Yamama kills many huffaz, Umar urges Abu Bakr to collect the Qur'an, and Zayd ibn Thabit collects it with strict checks. The sheets are kept by Abu Bakr, then Umar, then Hafsa. Under Uthman: after Hudhayfa ibn al-Yaman warns of disputes, Hafsa's copy is borrowed, Zayd's committee makes copies, and copies go to the main centres while one stays in Madinah, Hafsa's is returned and other versions are burned." loading="lazy">
+  <figcaption>Abu Bakr's compiled sheets became the basis of Uthman's standard copies.</figcaption>
+</figure>
+
 ## Standardisation under Uthman
 
 As the state expanded, new Muslims learned to recite in different ways. During campaigns in Armenia
@@ -114,6 +144,11 @@ Abd al-Rahman ibn al-Harith. They made copies, and where they disagreed they wro
 the Quraysh, in which the Qur'an had been revealed. Copies were sent to the main centres of the
 Muslim world, one was kept in Madina, Hafsa's copy was returned to her, and other written versions
 were burned. Uthman became known as the one who united the Muslims on a single text.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--07-compiled-vs-standardised.webp" width="900" height="619" alt="A comparison table. Abu Bakr acted because many huffaz died at Yamama; Zayd ibn Thabit checked written pieces against memory with witnesses, producing one set of sheets. Uthman acted because Muslims disputed over recitation; a committee led by Zayd copied Hafsa's sheets in the dialect of the Quraysh and sent standard copies to the main centres." loading="lazy">
+  <figcaption>Compilation saved the text; standardisation united Muslims on one text.</figcaption>
+</figure>
 
 ## The Qur'an in legal thinking
 
@@ -128,6 +163,11 @@ The Qur'an is the **first source** of Islamic law; nothing that contradicts it c
 
 The Hadith of Mu'adh ibn Jabal shows the order: as a judge in Yemen he would rule by the Book of God,
 then the Sunna, then his own reasoning, and the Prophet (pbuh) approved.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-o-level-islamiyat-2058-history-importance-quran--08-sources-of-law.webp" width="900" height="625" alt="Four stepped levels with examples: the Qur'an states the command, such as establishing prayer and giving zakat; the Hadith and Sunna detail it; ijma' is scholars' agreement, such as gathering the Qur'an into one copy; and qiyas extends a ruling by shared cause, as the ban on intoxicating wine extends to other intoxicating drugs. The Hadith of Mu'adh ibn Jabal shows this order." loading="lazy">
+  <figcaption>Qur'an first, then Sunna, then consensus and analogy.</figcaption>
+</figure>
 
 ## Why the Qur'an matters: significance
 

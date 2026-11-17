@@ -1,0 +1,56 @@
+[
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--01-six-stages-of-compilation.webp",
+  "width": 900,
+  "height": 664,
+  "after": "## Stage 1: the Prophet's lifetime",
+  "alt": "Six stages: Companions learning in the Prophet's lifetime, mainly by memory; Companions teaching across new cities after 632; Successors travelling and keeping notebooks; the first official collection ordered by Umar ibn Abd al-Aziz (717–720); musannaf and musnad collections; and the sahih and sunan collections of the third Islamic century.",
+  "caption": "Six stages, from memory to strictly selected collections; the official order of 717–720 is the turning point.",
+  "bytes": 150602
+ },
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--02-musannaf-and-musnad.webp",
+  "width": 900,
+  "height": 606,
+  "after": "## Stage 5: musnad collections",
+  "alt": "Two panels. A musannaf arranges Hadiths by subject, such as purification, prayer and zakat; al-Muwatta of Imam Malik is the example, useful for finding rulings. A musnad arranges them by the narrating Companion, such as all of Abu Bakr's narrations; the Musnad of Ahmad ibn Hanbal is the example, easier for checking chains but harder for finding rulings.",
+  "caption": "Musannaf: by subject. Musnad: by narrator.",
+  "bytes": 95062
+ },
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--03-six-sunni-collections.webp",
+  "width": 900,
+  "height": 712,
+  "after": "## Stage 6: the sahih and sunan collections",
+  "alt": "The six Sunni collections. Highlighted together as al-Sahihayn: al-Bukhari (d. 870), with the strictest conditions, and Muslim (d. 875), which gathers all versions of a Hadith in one place. Below: Abu Dawud, focused on legal rulings; al-Tirmidhi, commenting on grades and legal views; al-Nasa'i, careful about narrators; and Ibn Majah, with Hadiths not in the other five.",
+  "caption": "Know one main feature for each of the six books; al-Bukhari and Muslim rank highest.",
+  "bytes": 137826
+ },
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--04-testing-reliability.webp",
+  "width": 900,
+  "height": 588,
+  "after": "## How scholars tested Hadiths",
+  "alt": "Two checklists. Isnad tests: good character ('adala), accurate memory (dabt) and an unbroken chain, checked in biographical dictionaries. Matn tests: no contradiction of the Qur'an or established Sunna, nothing against reason or known history, and the Prophet's way of speaking. Hadiths are graded sahih, hasan, da'if or mawdu'; only sahih and hasan establish rulings.",
+  "caption": "Chain and text are both tested; only sahih and hasan Hadiths are used for rulings.",
+  "bytes": 98636
+ },
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--05-hadiths-in-law.webp",
+  "width": 900,
+  "height": 597,
+  "after": "## Hadiths in legal thinking",
+  "alt": "Three rows link a Qur'anic command to the detail supplied by the Hadiths: prayer, whose times, units and actions come from the Sunna; zakat, whose rates and minimum amounts come from the Hadiths; and cases where the Qur'an is silent, such as the ban on gold and silk clothing for men. Cards add ijma', qiyas and Sura 59.7.",
+  "caption": "Without the Hadiths, Qur'anic commands such as prayer and zakat could not be carried out.",
+  "bytes": 95134
+ },
+ {
+  "file": "cambridge-o-level-islamiyat-2058-history-importance-hadiths--06-isnad-matn-answer-plan.webp",
+  "width": 900,
+  "height": 677,
+  "after": "## Worked example",
+  "alt": "Six steps for a 10-mark answer: define isnad and matn with an example chain; explain why tests were needed; describe the isnad tests, contrasting al-Bukhari's and Muslim's conditions; mention biographical dictionaries; describe the matn tests; and finish with the grades from sahih to mawdu'.",
+  "caption": "Define, explain why, test the chain, test the text, then grade.",
+  "bytes": 124778
+ }
+]

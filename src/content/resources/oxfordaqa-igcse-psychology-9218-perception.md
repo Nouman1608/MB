@@ -50,6 +50,11 @@ sound waves reaching the ear. It is the same for anyone with working senses. **P
 brain's organisation and interpretation of that input, and it can differ between people looking at
 the same thing. A useful exam line: the eye sees, but the brain perceives.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--01-sensation-perception.webp" width="900" height="416" alt="Sensation is the detection of physical energy by the sense organs, such as light reaching the retina, and is the same for anyone with working senses. Perception is the brain's organisation and interpretation of that input, and can differ between people looking at the same thing." loading="lazy">
+  <figcaption>Sensation detects; perception interprets, which is why two people can see the same thing differently.</figcaption>
+</figure>
+
 ## Depth cues and size constancy
 
 The retina is a flat surface, so the brain must work out distance from cues.
@@ -70,6 +75,11 @@ cues need both eyes and are most useful for nearby objects.
 retina shrinks as it moves away. A friend walking away does not seem to shrink, because the brain
 scales the image up using distance information.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/aqa-gcse-psychology-8182-perception--02-depth-cues.webp" width="900" height="692" alt="Four monocular cues with small pictures: height in plane (a boat near the horizon looks further away), relative size (a smaller car seems further), occlusion (a person in front of a door hides part of it) and linear perspective (railway lines meeting in the distance). Two binocular cues: retinal disparity and convergence. A note explains size constancy." loading="lazy">
+  <figcaption>Four monocular and two binocular cues let a flat image show depth.</figcaption>
+</figure>
+
 ## Gibson's direct theory
 
 Gibson argued that perception is **bottom-up**: the light reaching the eye (the optic array) contains
@@ -83,6 +93,11 @@ it grew out of practical work on how pilots judge distance when landing. Limitat
 explain illusions, where perception is wrong even though the information is in front of us. A
 counter-point is that most illusions are flat drawings, which lack the movement and depth information
 Gibson said real scenes provide.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--02-motion-parallax.webp" width="900" height="788" alt="A view from a train window. Near fence posts flash past quickly, shown by a thick arrow, while distant hills drift slowly, shown by a thin arrow. Gibson argued the difference in speed tells us directly how far away things are. Cards summarise his bottom-up theory, a strength and a limitation." loading="lazy">
+  <figcaption>Near objects race past and far ones drift: speed difference is direct information about distance.</figcaption>
+</figure>
 
 ## Visual illusions and their explanations
 
@@ -103,6 +118,11 @@ smaller, to be smaller. **Ambiguous** figures give the brain two equally good in
 switches between them. **Fiction** means the brain adds information, such as the edges of the
 Kanizsa triangle, that is not present.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--03-illusions-explanations.webp" width="900" height="802" alt="Six simplified illusions with their explanations: the Müller-Lyer and Ponzo illusions are misinterpreted depth cues; the Ames Room is size constancy misapplied; Rubin's vase and the Necker cube are ambiguity; the Kanizsa triangle is fiction, because the brain adds edges that are not drawn." loading="lazy">
+  <figcaption>Each illusion is explained by one of four terms: ambiguity, misinterpreted depth cues, fiction or size constancy.</figcaption>
+</figure>
+
 ## Gregory's constructivist theory
 
 Gregory argued that perception is **top-down**: sensory input is often incomplete, so the brain makes
@@ -117,6 +137,16 @@ expectation changes what we see. Limitation: much of the evidence comes from art
 briefly; if perception were always guesswork, we would make far more mistakes in everyday life than
 we do. The two theories can be combined: direct perception may dominate in clear, moving scenes, and
 construction when information is limited.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--04-gregory-inference.webp" width="900" height="633" alt="A Ponzo figure: two equal bars between converging lines, the upper one looking longer. Four steps: the converging lines are read as linear perspective, past experience says the upper bar is further away, and a further object with the same retinal image must be bigger. For the Müller-Lyer illusion, fins out resemble the inside corner of a room and fins in the outside corner of a building." loading="lazy">
+  <figcaption>For Gregory, illusions show the brain inferring from cues and experience, and sometimes getting it wrong.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--05-gibson-vs-gregory.webp" width="900" height="743" alt="A comparison table. Gibson's bottom-up theory says input contains enough information, picked up directly, supported by motion parallax but weak on illusions. Gregory's top-down theory says input is incomplete and the brain infers from cues and past experience, supported by illusions and perceptual set but based on artificial images. A note suggests the theories can be combined." loading="lazy">
+  <figcaption>Gibson: bottom-up and direct. Gregory: top-down and inferred. Each fits different conditions.</figcaption>
+</figure>
 
 ## Perceptual set and the four named studies
 
@@ -133,6 +163,11 @@ construction when information is limited.
 clearer. However, the tasks (rating brightness, judging briefly flashed shapes) are artificial, so
 they may not reflect everyday perception. Cultural comparisons are useful but treat large groups as
 if everyone in them perceives the same way.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/oxfordaqa-igcse-psychology-9218-perception--06-perceptual-set.webp" width="900" height="718" alt="Bruner and Minturn: the same ambiguous figure was seen as B among the letters A and C, and as 13 among the numbers 12 and 14. Cards summarise motivation (hungry participants rated food pictures brighter), emotion (briefly flashed shapes were later preferred), culture (holistic versus analytic perception) and an evaluation of the studies." loading="lazy">
+  <figcaption>Expectation, motivation, emotion and culture each create a readiness to see things a certain way.</figcaption>
+</figure>
 
 ## Worked example
 

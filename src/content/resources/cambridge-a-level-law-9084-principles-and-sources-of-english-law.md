@@ -44,6 +44,11 @@ Subtopic 1.1 opens Paper 1 English Legal System and is assumed knowledge for eve
 
 **Fault.** Most crimes need mens rea and most torts need negligence. Strict liability dispenses with fault for at least one element; *Gammon (Hong Kong) Ltd v Attorney-General of Hong Kong* (1985) explains when courts accept this, chiefly for regulatory matters of social concern.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--01-rule-of-law.webp" width="900" height="620" alt="Dicey’s three ideas of the rule of law: no punishment without a breach proved in the ordinary courts, equality before the law, and rights secured by the ordinary law, illustrated by Entick v Carrington. The principle is applied to law making, the legal system and substantive law (A v Secretary of State for the Home Department)." loading="lazy">
+  <figcaption>Three ideas from Dicey, tested in law making, the legal system and substantive law.</figcaption>
+</figure>
+
 ## 1.1.2 Parliamentary law making
 
 **From green paper to Royal Assent.** A *green paper* consults on options; a *white paper* sets out firm proposals. The Bill then passes First Reading, Second Reading, Committee Stage, Report Stage and Third Reading in each House, followed by Royal Assent.
@@ -59,6 +64,11 @@ Subtopic 1.1 opens Paper 1 English Legal System and is assumed knowledge for eve
 *Political pressure* comes from the manifesto and the need to win votes. *Public opinion* after the Dunblane shooting (1996) contributed to the Firearms (Amendment) Act 1997, which banned most handguns. *Pressure groups* are sectional (protecting members, such as trade unions) or cause groups (promoting a belief). *Media* campaigns raise issues fast, but rushed laws such as the Dangerous Dogs Act 1991 can be badly drafted.
 
 **The Law Commission** was set up by the Law Commissions Act 1965 as a full-time, independent body. A senior judge chairs it, with four other commissioners. It researches, consults and drafts Bills. Successes include the Contracts (Rights of Third Parties) Act 1999 and the Fraud Act 2006; but many reports, including the draft Criminal Code, were never enacted because implementation needs government time.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--02-bill-to-act.webp" width="900" height="916" alt="A green paper consults and a white paper sets out proposals. The Bill passes First Reading, Second Reading, Committee Stage, Report Stage and Third Reading in each House, then receives Royal Assent. Below, the Parliament Acts let the Commons pass most Bills after about a year and money Bills after one month (War Crimes Act 1991, Hunting Act 2004, Jackson), and parliamentary supremacy means no court can invalidate an Act (Pickin)." loading="lazy">
+  <figcaption>Five stages in each House, then Royal Assent; the Commons can override the Lords.</figcaption>
+</figure>
 
 ## 1.1.3 Delegated legislation
 
@@ -76,6 +86,11 @@ Subtopic 1.1 opens Paper 1 English Legal System and is assumed knowledge for eve
 - **Substantive ultra vires** – the content goes beyond the powers granted: *R (Public Law Project) v Lord Chancellor* (2016), where a residence test for legal aid was outside the enabling Act.
 - **Unreasonableness** – a decision no reasonable body could have made, the test in *Associated Provincial Picture Houses v Wednesbury Corporation* (1948); *Strickland v Hayes Borough Council* (1896) struck down a bylaw banning obscene language in private as well as public places.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--03-delegated-legislation.webp" width="900" height="715" alt="An enabling Act gives power to make Orders in Council, statutory instruments and bylaws. Parliament controls them through consultation, affirmative and negative resolution and scrutiny committees; the courts by judicial review for procedural ultra vires (Aylesbury Mushrooms), substantive ultra vires (Public Law Project) and unreasonableness (Wednesbury; Strickland v Hayes). The Legislative and Regulatory Reform Act 2006 is noted." loading="lazy">
+  <figcaption>Delegated legislation exists only under an enabling Act, and both Parliament and the courts police it.</figcaption>
+</figure>
+
 ## 1.1.4 Statutory interpretation
 
 | Approach | Key case |
@@ -91,6 +106,16 @@ Subtopic 1.1 opens Paper 1 English Legal System and is assumed knowledge for eve
 
 **EU law and the Human Rights Act 1998.** During UK membership, courts read domestic law to give effect to EU law (*Pickstone v Freemans* (1988)), encouraging purposive interpretation. Section 3 requires legislation to be read compatibly with Convention rights "so far as it is possible to do so": in *Ghaidan v Godin-Mendoza* (2004) "as his or her wife or husband" included a same-sex partner.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--04-interpretation-approaches.webp" width="900" height="722" alt="Four approaches, each with its case: the literal rule (Whiteley v Chappell), the golden rule (Adler v George), the mischief rule (Smith v Hughes) and the purposive approach (Quintavalle). Purposive reading was encouraged by EU membership (Pickstone v Freemans) and by s3 Human Rights Act 1998 (Ghaidan v Godin-Mendoza)." loading="lazy">
+  <figcaption>From the plain words to the purpose: state the approach, cite the case, show the result.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--05-language-rules-and-aids.webp" width="900" height="603" alt="Three rules of language with their cases: ejusdem generis (Powell v Kempton Park), expressio unius (Tempest v Kilner) and noscitur a sociis (IRC v Frere). Intrinsic aids sit inside the Act; extrinsic aids, including Hansard, sit outside it. Pepper v Hart allows Hansard only where the words are ambiguous and a ministerial statement clearly resolves the point." loading="lazy">
+  <figcaption>Words take meaning from their neighbours; Hansard is a limited, conditional aid.</figcaption>
+</figure>
+
 ## 1.1.5 Judicial precedent
 
 **Law reporting** makes *stare decisis* workable: the Incorporated Council of Law Reporting has published reports since 1865, and neutral citations identify judgments by court and number.
@@ -103,6 +128,11 @@ Subtopic 1.1 opens Paper 1 English Legal System and is assumed knowledge for eve
 **The Court of Appeal and *Young v Bristol Aeroplane Co* (1944).** The Civil Division is bound by its own decisions except where two of its decisions conflict, where its decision conflicts with a later House of Lords or Supreme Court decision, or where it was made *per incuriam* (without reference to a relevant authority).
 
 **Avoidance.** Distinguishing (*Balfour v Balfour* (1919) and *Merritt v Merritt* (1970) differ because the spouses in *Merritt* had separated), overruling and reversing.
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/cambridge-a-level-law-9084-principles-and-sources-of-english-law--06-precedent-flexibility.webp" width="900" height="600" alt="The Supreme Court can depart from its own decisions under the Practice Statement 1966 (Herrington; Shivpuri). The Court of Appeal is bound by its own decisions except in the three Young v Bristol Aeroplane situations. Below: original precedent (Donoghue), persuasive precedent (James and Karimi following Holley), and avoidance by distinguishing (Balfour and Merritt), overruling and reversing." loading="lazy">
+  <figcaption>The Supreme Court uses the Practice Statement; the Court of Appeal has only the Young exceptions.</figcaption>
+</figure>
 
 ## Annotated model answer
 
