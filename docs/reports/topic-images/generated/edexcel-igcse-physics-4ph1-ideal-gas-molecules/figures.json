@@ -15,7 +15,7 @@
   "after": "## Absolute zero and the Kelvin scale (5.16, 5.17)",
   "alt": "Pressure against temperature in °C for a sealed flask: 100 kPa at 0 °C and 136.6 kPa at 100 °C. Extending the straight line back reaches zero pressure at −273 °C. The pressure rises 0.366 kPa per °C, and 100 ÷ 0.366 = 273.",
   "caption": "Extend the pressure–temperature line back to zero pressure: it always meets −273 °C.",
-  "bytes": 85366
+  "bytes": 84344
  },
  {
   "file": "edexcel-igcse-physics-4ph1-ideal-gas-molecules--03-kelvin-and-celsius.webp",

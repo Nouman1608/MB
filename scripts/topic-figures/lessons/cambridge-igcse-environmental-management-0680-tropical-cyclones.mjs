@@ -264,7 +264,7 @@ const spiral = (cx, cy, r, col = C.ink) => path(`M${cx},${cy} m0,-${r * 0.2} a${
     [[la, ok1], [te, ok2], [de, ok3]].forEach(([v, ok], j) => (b += t(cx[j + 1] - 12, y + 43, v, { size: 18, weight: 700, anchor: 'middle', fill: ok ? C.ink : C.rust }) + (ok ? yes(cx[j + 1] + 50, y + 37) : no(cx[j + 1] + 50, y + 37))));
     b += t(cx[4], y + 34, all ? 'YES' : 'No', { size: 18, weight: 700, anchor: 'middle', fill: all ? C.tealDark : C.rust }) + t(cx[4], y + 58, why, { size: 15, anchor: 'middle', fill: C.muted });
   });
-  b += t(840, 515, 'invented data', { size: 15, anchor: 'end', fill: C.muted, italic: true });
+  b += t(870, 100, 'invented data', { size: 15, anchor: 'end', fill: C.muted, italic: true });
   b += t(450, 566, 'Only B meets all three. State the condition each other location fails, with the number.', { size: 16.5, anchor: 'middle', weight: 600 });
   add('06-which-location',
     svg(900, 595, 'Worked example: can a cyclone form here?', b),

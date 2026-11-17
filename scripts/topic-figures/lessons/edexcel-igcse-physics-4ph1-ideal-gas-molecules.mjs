@@ -75,7 +75,7 @@ const scatter = (x, y, w, h, n, seed, len = 30) => { let s = '', k = seed; const
 
 // 02 Finding absolute zero
 {
-  const x0 = 640, y0 = 480, sx = 1.75, sy = 2.0; // x0 = 0 °C position; 1 °C = 1.75 px; 1 kPa = 2.4 px
+  const x0 = 620, y0 = 480, sx = 1.6, sy = 2.0; // x0 = 0 °C position; 1 °C = 1.75 px; 1 kPa = 2.4 px
   const X = (c) => x0 + c * sx, Y = (p) => y0 - p * sy;
   let ticks = ''; [-273, -200, -100, 0, 100].forEach((c) => { ticks += ln(X(c), y0, X(c), y0 + 7, { w: 2 }) + t(X(c), y0 + 28, String(c).replace('-', '−'), { size: 15, anchor: 'middle' }); });
   [50, 100, 150].forEach((p) => { ticks += ln(X(-290) - 7, Y(p), X(-290), Y(p), { w: 2 }) + t(X(-290) - 12, Y(p) + 5, String(p), { size: 15, anchor: 'end' }); });

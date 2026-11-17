@@ -105,7 +105,7 @@ export const slug = 'cambridge-igcse-environmental-management-0680-human-populat
     svg(900, 610, 'Describing a distribution', s),
     'Schematic dot map of an invented country: dots cluster along the west coast and a river valley, with few in the northern mountains and the south-east desert apart from one oasis town. Beside it, five steps for describing a distribution: overall pattern, where it is dense, where it is sparse, data and anomaly.',
     'Pattern, dense areas, sparse areas, data, anomaly: describe before you explain.',
-    '### Describing a distribution');
+    '## Density and distribution (7.1.1)');
 }
 
 // 02 LIC vs HIC pyramids
