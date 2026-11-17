@@ -17,7 +17,7 @@ Checked and correct as written: 9699 Paper 2 weighting, the OxfordAQA 9292 secti
 
 Teacher review: the owner confirmed on 17 Nov 2026 that a teacher has reviewed these notes, including the MYP Language Acquisition eAssessment marks and the Urdu figure sets. No open items remain from this list.
 
-## Points for a teacher: the 352 D-490 lessons (17 Nov 2026, D-492)
+## Points for a teacher: the 352 D-490 lessons (17 Nov 2026, D-493)
 
 2,252 new figures plus 157 reused across 352 lessons in 25 courses. Every figure was rendered and checked by eye, and every "place after" heading matches its lesson. The figures follow their lessons as written; these points are about the lesson text and are open for a teacher to decide:
 
@@ -30,5 +30,5 @@ Teacher review: the owner confirmed on 17 Nov 2026 that a teacher has reviewed t
 - Edexcel 4PH1 radioactivity: the lesson's two half-life readings (900 to 450 Bq over 0 to 3.2 h; 600 to 300 Bq over 1.9 to 5.1 h) are labelled illustrative and are only approximately consistent with one exponential (600 Bq is reached at about 1.87 h). The figure plots a true 3.2 h curve.
 - Cambridge IGCSE Env Management 0680 climate change (4.2.4): the lesson says greenhouse gases "absorb solar radiation"; strictly they absorb and re-emit long-wave radiation from the Earth (the lesson's own fuller explanation says this). Fracking: the lesson names no control for heavy water use; figure 04 says "no control listed".
 - AQA GCSE WH 8145 health: the Broad Street map's death positions are invented and labelled "illustrative". The OxfordAQA 9245 printing (cost per copy) and 9635 resource-peak curves are labelled "Illustrative shape only" because the lessons give no numbers.
-- Tropical cyclones: the 0680 lesson uses "at least 27 °C" and calls 26.5 °C a mistake, while the site's IGCSE natural-hazards figure says about 26.5 °C and the O Level one 26-27 °C. 26.5 °C is the usual scientific threshold; please confirm which value the site should use (the new 0680 figure follows its lesson).
+- RESOLVED (D-492): tropical cyclones. The 0680 syllabus (6.2.1) says at least 27 °C and 60 m; the natural-hazards study guide now gives the syllabus values and notes that many textbooks quote about 26.5 °C. The new 0680 figure uses 27 °C. The older natural-hazards figure image still says 26.5 °C (its alt text explains); replacing it needs a new file name.
 - FIXED: Edexcel 4PH1 electromagnetic induction Example 2 said "The same transformer" supplies 12 V, but Example 1's transformer outputs 11.5 V. Changed to "A transformer" (figure unchanged; numbers 12 V x 2.0 A = 24 W, Ip = 0.10 A still hold).

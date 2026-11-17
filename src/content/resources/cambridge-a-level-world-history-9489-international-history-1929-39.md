@@ -21,6 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
 reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379)."
 publishedDate: 2026-11-17
+updatedDate: 2026-11-17
 featured: false
 ---
 
@@ -66,7 +67,7 @@ Under the 2027-2029 rotation this topic is on **Paper 2 (Outline Study)** in 202
 
 **Abyssinia (1935-36).** After a clash at Walwal (December 1934), Italy invaded in October 1935. The League named Italy the aggressor and imposed sanctions -- but not on oil, coal or steel, and Britain did not close the Suez Canal. In December 1935 the leaked **Hoare-Laval Plan** offered Italy much of Abyssinia, discrediting both governments. Italy completed its conquest in May 1936; sanctions were lifted in July. Britain and France had hoped to keep Mussolini as an ally against Hitler, and lost both him and the League's credibility.
 
-**Changing attitudes.** Japan (March 1933) and Germany (October 1933) withdrew, and Italy later left; the USSR's **admission in 1934** did not compensate. Increasingly, the great powers negotiated **outside the League**: Stresa, the Anglo-German Naval Agreement, Munich.
+**Changing attitudes.** Japan (March 1933) and Germany (October 1933) withdrew, and Italy announced its withdrawal in December 1937 (the syllabus list gives 1936, but the announcement came after Italy joined the Anti-Comintern Pact in November 1937); the USSR's **admission in 1934** did not compensate. Increasingly, the great powers negotiated **outside the League**: Stresa, the Anglo-German Naval Agreement, Munich.
 
 **The Spanish Civil War (1936-39).** The League did not respond because the war was treated as an internal conflict and because Britain and France preferred a separate arrangement. The **Non-Intervention Agreement (1936)**, supervised by a committee in London, failed because Germany and Italy sent aircraft, weapons and troops to Franco, and the USSR supplied the Republic; Britain and France lacked the commitment to enforce it, and France under Blum, though sympathetic to the Republic, would not act without Britain. The Comintern organised **International Brigades** of foreign volunteers for the Republic. The war tested German weapons -- the bombing of Guernica (1937) -- and drew Hitler and Mussolini together.
 

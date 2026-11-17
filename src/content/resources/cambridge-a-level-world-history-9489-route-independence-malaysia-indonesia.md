@@ -21,6 +21,7 @@ reviewStatus: "reviewed"
 reviewedDate: 2026-11-17
 reviewNote: "2026-11-17: credited to azam-siddique (accountable teacher, D-379). Earlier review flag resolved per owner, 2026-11-17: Please check two syllabus labels against standard texts: the 'Malayan Military Administration' listed under Japanese rule in 9.1, and the '1944 Preparatory Committee' in 9.4 (the page explains the 1944 Koiso promise and the 1945 committees)."
 publishedDate: 2026-11-17
+updatedDate: 2026-11-17
 featured: false
 ---
 
@@ -49,7 +50,7 @@ featured: false
 
 Chinese politics looked mainly to China.
 
-**The Japanese occupation (1942-45).** Japan conquered Malaya by February 1942 and ruled through a military administration. It treated the races differently: thousands of Chinese were killed in the *Sook Ching* purges, while Malays were kept in the administration and Indians were recruited for the Indian National Army. The communist-led **Malayan People's Anti-Japanese Army** (MPAJA), supplied by the British Force 136, became the main resistance and hoped to rule after the war. The KMM was first used then disbanded; Ibrahim Yaacob led a Japanese-sponsored Malay volunteer force (**PETA**), and in 1945 formed **KRIS** to seek independence with Indonesia, which collapsed with Japan's surrender. The occupation shattered British prestige, politicised Malays and deepened racial hostility -- the MPAJA's reprisals against "collaborators" in 1945 led to Sino-Malay clashes.
+**The Japanese occupation (1942-45).** Japan conquered Malaya by February 1942 and ruled through a military administration, the Malayan Military Administration named in the syllabus (not to be confused with the British Military Administration that governed briefly after the Japanese surrender in 1945). It treated the races differently: thousands of Chinese were killed in the *Sook Ching* purges, while Malays were kept in the administration and Indians were recruited for the Indian National Army. The communist-led **Malayan People's Anti-Japanese Army** (MPAJA), supplied by the British Force 136, became the main resistance and hoped to rule after the war. The KMM was first used then disbanded; Ibrahim Yaacob led a Japanese-sponsored Malay volunteer force (**PETA**), and in 1945 formed **KRIS** to seek independence with Indonesia, which collapsed with Japan's surrender. The occupation shattered British prestige, politicised Malays and deepened racial hostility -- the MPAJA's reprisals against "collaborators" in 1945 led to Sino-Malay clashes.
 
 <figure class="topic-figure">
   <img src="https://img.marlbridge.com/cambridge-a-level-world-history-9489-route-independence-malaysia-indonesia--01-divide-and-rule.webp" width="900" height="515" alt="Three community cards. Malays were ruled through the sultans, with an elite trained for the civil service. Chinese immigrants worked in tin and commerce and by the 1930s nearly equalled Malays in number. Indian, mainly Tamil, labourers worked on rubber estates. A bar below: separate schools, occupations and residential areas polarised society." loading="lazy">
