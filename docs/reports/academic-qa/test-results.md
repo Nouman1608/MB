@@ -88,3 +88,37 @@ Run locally on Windows (Node 26.7.0), on branch `academic-qa/framework` in its o
 - Lighthouse / Core Web Vitals: not run. This programme changed no template, script or style.
 - No deployment, push or PR. The branch is uncommitted, pending the owner.
 - No live-site check. Nothing is deployed.
+
+# D-496 test results: pilot closure (17 Nov 2026 UTC)
+
+Run locally on Windows (Node 24.19.0) on branch `academic-qa/pilot-closure`, in its own worktree, after merging `origin/main` at `eea936055` (192 commits, D-487 to D-495 from other sessions; no conflict). The library on this tree has 10,241 resources. There is still no GitHub Actions run on pull requests, so all verification is local.
+
+| Command | Result |
+|---|---|
+| `npm run validate:academic` (includes the QA gate) | **PASS**: 9 records for 4 resources, 0 need reassessment, 0 open hard-stops |
+| `npm run test:academic-qa -- --dist` (new) | **54 pass / 0 fail** (cases A-H) |
+| `npm run build` | **PASS**: 16,003 pages |
+| `NODE_OPTIONS=--max-old-space-size=6144 npm run audit:all` | **PASS**: every step, including internal links, structured data, rendered labels and accessibility (0 problems across 16,002 pages); content store 51.6% |
+| `npm run check` (astro check) | **PASS**: 0 errors, 0 warnings |
+| `npm run test:tools` | **190 pass / 0 fail** |
+| `npm run test:api` | **92 pass / 0 fail** |
+| Negative suite (`scripts/test-negative-validation-suite.mjs`) | **63 pass / 0 fail**, after one fixture was repointed (below) |
+| `npm run check:review-ledger`, `check:academic-qa`, `coverage:academic-v2 --check`, `check:duplicate-scope`, decision-log encoding | **PASS** |
+| `qa:source-manifest --verify` | **PASS**: 8 files present with matching SHA-256 |
+| `npm run test:reports` (not in CI) | 40 pass / **3 fail**, none from this change (below) |
+
+## What failed on the way, and why
+
+- **Negative case AX** failed on its first run: "validator PASSED on broken input". The fixture planted a hard-stop in QA-0001. QA-0001 is now a replaced record, and the gate acts only on the newest record for the page's current content, so it was right to ignore it. The fixture now targets an open finding of QA-0006. The validator was not changed.
+- **Lifecycle case H** first reported "Edexcel" on the AQA page. The word is in a related-article card that the site template puts under every resource, not in the page's content. The check now reads the resource body only (`div.resource-content`).
+- **The new records were first rejected as future-dated.** They were dated 18 November (local time); the validator compares with the UTC date, which was still 17 November. The records carry 2026-11-17.
+- **One run of the negative suite stopped with a Windows file-lock error** while restoring `src/data/academic/matrix.ts`, leaving its test row on disk. The file was restored with `git checkout`, the tree was confirmed clean, and the suite was run again from the start.
+- **The coverage report was already out of date on `origin/main`** (102 rows, none of them a pilot page). It was regenerated.
+
+`test:reports`, 3 failures: "every reviewed resource is reported as a teacher credit" is the failure recorded under D-465. N2 and N4 need a page with no review status, and none exists since every page was credited (D-477). All three fail without this change.
+
+## Not run, or not possible
+
+- The four pages were not viewed in a browser at desktop and mobile widths.
+- Lighthouse / Core Web Vitals: not run. No template, script or style changed.
+- No deployment and no live-site check. Nothing is live until the branch is merged and deployed.
