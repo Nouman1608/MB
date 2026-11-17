@@ -1,0 +1,4028 @@
+{
+"a-computer-science-data-representation-revision-notes": [
+"a-level-computer-science-information-representation"
+],
+"a-computer-science-procedural-revision-notes": [
+"a-level-oxfordaqa-computer-science-procedural-programming"
+],
+"a-computer-science-programming-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-programming"
+],
+"a-english-language-reading-revision-notes": [
+"a-level-cambridge-english-language-paper-1-reading",
+"cambridge-a-level-english-language-9093-skills-and-techniques",
+"cambridge-a-level-english-language-9093-knowledge-and-understanding"
+],
+"a-english-language-unit1-revision-notes": [
+"a-level-oxfordaqa-english-language-unit-1-directed-writing",
+"a-level-oxfordaqa-english-language-unit-1"
+],
+"a-geography-human-revision-notes": [
+"a-level-cambridge-geography-core-human-geography"
+],
+"a-geography-physical-revision-notes": [
+"a-level-cambridge-geography-core-physical-geography"
+],
+"a-ict-data-processing-revision-notes": [
+"a-level-cambridge-ict-data-processing-and-information"
+],
+"a-law-english-legal-system-revision-notes": [
+"a-level-cambridge-law-english-legal-system",
+"cambridge-a-level-law-9084-principles-and-sources-of-english-law",
+"cambridge-a-level-law-9084-machinery-of-justice",
+"cambridge-a-level-law-9084-legal-personnel"
+],
+"a-law-the-law-in-action-revision-notes": [
+"a-level-edexcel-law-the-law-in-action",
+"edexcel-a-level-law-yla1-trespass-to-land",
+"edexcel-a-level-law-yla1-the-market",
+"edexcel-a-level-law-yla1-the-individual",
+"edexcel-a-level-law-yla1-the-criminal-offender",
+"edexcel-a-level-law-yla1-misrepresentation-and-mistake",
+"edexcel-a-level-law-yla1-duress-and-intoxication",
+"edexcel-a-level-law-yla1-discharge-of-contract-and-frustration"
+],
+"a-law-underlying-principles-revision-notes": [
+"a-level-edexcel-law-underlying-principles",
+"edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration",
+"edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law",
+"edexcel-a-level-law-yla1-rules-of-statutory-interpretation",
+"edexcel-a-level-law-yla1-magistrates-and-juries",
+"edexcel-a-level-law-yla1-doctrine-of-precedent"
+],
+"a-level-aqa-english-literature-b-theory-and-independence-revision-notes": [
+"aqa-a-level-english-literature-b-theory-and-independence"
+],
+"a-level-aqa-sociology-crime-and-deviance-revision-notes": [
+"a-level-aqa-sociology-crime-and-deviance"
+],
+"a-level-cambridge-global-perspectives-team-project-revision-notes": [
+"a-level-cambridge-global-perspectives-team-project"
+],
+"a-level-cambridge-global-perspectives-written-exam-revision-notes": [
+"a-level-cambridge-global-perspectives-written-exam"
+],
+"a-level-cambridge-sociology-globalisation-contemporary-issues-revision-notes": [
+"a-level-cambridge-sociology-globalisation-contemporary-issues"
+],
+"a-level-cambridge-sociology-globalisation-debates-and-perspectives-revision-notes": [
+"a-level-cambridge-sociology-globalisation-debates-and-perspectives"
+],
+"a-level-cambridge-sociology-globalisation-media-religion-revision-notes": [
+"a-level-cambridge-sociology-globalisation-media-religion"
+],
+"a-level-cambridge-sociology-influence-of-religion-revision-notes": [
+"a-level-cambridge-sociology-influence-of-religion"
+],
+"a-level-cambridge-sociology-media-ownership-and-control-revision-notes": [
+"a-level-cambridge-sociology-media-ownership-and-control"
+],
+"a-level-cambridge-sociology-media-representation-and-effects-revision-notes": [
+"a-level-cambridge-sociology-media-representation-and-effects"
+],
+"a-level-cambridge-sociology-religion-and-social-order-revision-notes": [
+"a-level-cambridge-sociology-religion-and-social-order"
+],
+"a-level-cambridge-sociology-social-identity-and-change-revision-notes": [
+"a-level-cambridge-sociology-socialisation-social-control-and-identity"
+],
+"a-level-edexcel-english-literature-unit-3-poetry-and-prose-revision-notes": [
+"edexcel-a-level-english-literature-unit-3-poetry-and-prose-study-guide",
+"edexcel-a-level-english-literature-yet01-unit-3-prose",
+"edexcel-a-level-english-literature-yet01-unit-3-poetry"
+],
+"a-level-edexcel-english-literature-unit-4-shakespeare-and-pre-1900-poetry-revision-notes": [
+"edexcel-a-level-english-literature-unit-4-shakespeare-and-pre-1900-poetry-study-guide",
+"edexcel-a-level-english-literature-yet01-unit-4-shakespeare",
+"edexcel-a-level-english-literature-yet01-unit-4-poetry"
+],
+"a-level-english-language-paper-3-revision-notes": [
+"a-level-english-language-paper-3-language-analysis",
+"cambridge-a-level-english-language-9093-section-b-child-language-acquisition",
+"cambridge-a-level-english-language-9093-section-a-language-change"
+],
+"a-level-english-language-revision-notes": [
+"a-level-cambridge-english-language-paper-1-reading"
+],
+"a-level-english-literature-paper-2-prose-unseen-revision-notes": [
+"a-level-english-literature-paper-2-prose-and-unseen",
+"cambridge-a-level-english-literature-9695-section-b-unseen",
+"cambridge-a-level-english-literature-9695-section-a-prose"
+],
+"a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-revision-notes": [
+"cambridge-a-level-english-literature-paper-4-pre-and-post-1900-poetry-and-prose-study-guide",
+"cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose",
+"cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose"
+],
+"a-level-geography-9696-atmosphere-human-impact-revision-notes": [],
+"a-level-geography-9696-changes-in-rural-settlements-revision-notes": [],
+"a-level-geography-9696-changing-structure-of-urban-settlements-revision-notes": [],
+"a-level-geography-9696-demographic-transition-revision-notes": [],
+"a-level-geography-9696-discharge-relationships-revision-notes": [],
+"a-level-geography-9696-diurnal-energy-budgets-revision-notes": [],
+"a-level-geography-9696-drainage-basin-human-impact-revision-notes": [],
+"a-level-geography-9696-drainage-basin-system-revision-notes": [],
+"a-level-geography-9696-global-energy-budget-revision-notes": [],
+"a-level-geography-9696-internal-migration-revision-notes": [],
+"a-level-geography-9696-international-migration-revision-notes": [],
+"a-level-geography-9696-management-of-international-migration-revision-notes": [],
+"a-level-geography-9696-management-of-natural-increase-revision-notes": [],
+"a-level-geography-9696-management-of-urban-settlements-revision-notes": [],
+"a-level-geography-9696-migration-population-change-revision-notes": [],
+"a-level-geography-9696-natural-increase-revision-notes": [],
+"a-level-geography-9696-plate-tectonics-revision-notes": [],
+"a-level-geography-9696-population-resource-relationships-revision-notes": [],
+"a-level-geography-9696-river-channel-processes-landforms-revision-notes": [],
+"a-level-geography-9696-slope-processes-revision-notes": [],
+"a-level-geography-9696-slopes-human-impact-revision-notes": [],
+"a-level-geography-9696-urban-trends-urbanisation-revision-notes": [],
+"a-level-geography-9696-weather-processes-phenomena-revision-notes": [],
+"a-level-geography-9696-weathering-revision-notes": [],
+"a-level-global-perspectives-9239-component-4-cambridge-research-report-revision-notes": [
+"a-level-global-perspectives-9239-component-4-cambridge-research-report"
+],
+"a-level-global-perspectives-essay-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-essay-sources",
+"cambridge-a-level-global-perspectives-9239-essay-reflection",
+"a-level-cambridge-global-perspectives-essay"
+],
+"a-level-ict-hardware-software-revision-notes": [
+"a-level-cambridge-ict-hardware-and-software",
+"a-level-cambridge-ict-utility-software-and-user-interfaces"
+],
+"a-level-ict-monitoring-control-revision-notes": [
+"a-level-cambridge-ict-monitoring-and-control"
+],
+"a-level-law-criminal-law-revision-notes": [
+"a-level-cambridge-law-criminal-law",
+"cambridge-a-level-law-9084-sentencing-in-england-and-wales",
+"cambridge-a-level-law-9084-offences-against-property",
+"cambridge-a-level-law-9084-elements-of-a-crime"
+],
+"a-level-oxfordaqa-english-language-unit-3-revision-notes": [
+"oxfordaqa-a-level-english-language-unit-3-language-variation-study-guide",
+"oxfordaqa-a-level-english-language-9670-section-b-international-english",
+"oxfordaqa-a-level-english-language-9670-section-a-learning-language"
+],
+"a-level-oxfordaqa-english-language-unit-4-revision-notes": [
+"oxfordaqa-a-level-english-language-unit-4-language-exploration-study-guide"
+],
+"a-level-oxfordaqa-english-literature-elements-of-crime-and-mystery-revision-notes": [
+"oxfordaqa-a-level-english-literature-unit-3-elements-of-crime-and-mystery-study-guide"
+],
+"a-level-oxfordaqa-english-literature-literary-representations-revision-notes": [
+"oxfordaqa-a-level-english-literature-unit-4-literary-representations-study-guide"
+],
+"a-level-psychology-research-methods-revision-notes": [
+"a-level-cambridge-psychology-research-methods",
+"cambridge-a-level-psychology-9990-research-methods-as",
+"cambridge-a-level-psychology-9990-methodological-concepts-as"
+],
+"a-level-sociology-9699-education-society-and-the-curriculum-revision-notes": [
+"a-level-sociology-9699-education-society-and-the-curriculum"
+],
+"a-level-sociology-9699-ethnicity-gender-and-educational-attainment-revision-notes": [
+"a-level-sociology-9699-ethnicity-gender-and-educational-attainment"
+],
+"a-level-sociology-9699-intelligence-social-class-and-educational-attainment-revision-notes": [
+"a-level-sociology-9699-intelligence-social-class-and-educational-attainment"
+],
+"a-level-sociology-family-revision-notes": [
+"a-level-cambridge-sociology-the-family"
+],
+"a-level-sociology-methods-in-context-revision-notes": [
+"a-level-sociology-methods-in-context"
+],
+"a-level-world-history-gilded-age-progressive-era-revision-notes": [
+"a-level-world-history-gilded-age-progressive-era-study-guide",
+"a-level-world-history-usa-1820-1941"
+],
+"a-level-world-history-usa-revision-notes": [
+"a-level-world-history-usa-1820-1941",
+"cambridge-a-level-world-history-9489-great-depression-new-deal",
+"cambridge-a-level-world-history-9489-civil-war-reconstruction",
+"a-level-world-history-gilded-age-progressive-era-study-guide"
+],
+"a-psychology-approaches-revision-notes": [
+"a-level-psychology-approaches-issues-and-debates",
+"cambridge-a-level-psychology-9990-social-approach",
+"cambridge-a-level-psychology-9990-learning-approach",
+"cambridge-a-level-psychology-9990-cognitive-approach",
+"cambridge-a-level-psychology-9990-biological-approach"
+],
+"a-sociology-socialisation-methods-revision-notes": [
+"a-level-cambridge-sociology-socialisation-social-control-and-identity",
+"a-level-cambridge-sociology-research-methods-design-and-issues",
+"a-level-cambridge-sociology-socialisation-identity-methods"
+],
+"a-world-history-modern-europe-revision-notes": [
+"a-level-world-history-russia-1881-1924-study-guide",
+"a-level-world-history-germany-1815-71-study-guide",
+"a-level-world-history-france-1774-1814-study-guide",
+"a-level-world-history-modern-europe-1750-1921"
+],
+"alloys-and-extraction-revision-notes": [
+"alloys-and-extraction-of-metals"
+],
+"aqa-a-level-computer-science-abstract-data-types-revision-notes": [
+"a-level-aqa-computer-science-abstract-data-types"
+],
+"aqa-a-level-computer-science-big-data-revision-notes": [
+"aqa-a-level-computer-science-big-data-study-guide"
+],
+"aqa-a-level-computer-science-consequences-of-uses-of-computing-revision-notes": [
+"aqa-a-level-computer-science-consequences-of-uses-of-computing-study-guide"
+],
+"aqa-a-level-computer-science-data-structures-revision-notes": [
+"a-level-aqa-computer-science-data-structures-and-arrays"
+],
+"aqa-a-level-computer-science-fundamentals-of-algorithms-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-algorithms"
+],
+"aqa-a-level-computer-science-fundamentals-of-communication-and-networking-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-communication-and-networking-study-guide"
+],
+"aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-computer-organisation-and-architecture-study-guide"
+],
+"aqa-a-level-computer-science-fundamentals-of-computer-systems-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-computer-systems-study-guide"
+],
+"aqa-a-level-computer-science-fundamentals-of-data-representation-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-data-representation-study-guide"
+],
+"aqa-a-level-computer-science-fundamentals-of-databases-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-databases-study-guide"
+],
+"aqa-a-level-computer-science-fundamentals-of-functional-programming-revision-notes": [
+"aqa-a-level-computer-science-fundamentals-of-functional-programming-study-guide"
+],
+"aqa-a-level-computer-science-systematic-approach-to-problem-solving-revision-notes": [
+"aqa-a-level-computer-science-systematic-approach-to-problem-solving-study-guide"
+],
+"aqa-a-level-computer-science-theory-of-computation-revision-notes": [
+"aqa-a-level-computer-science-theory-of-computation-study-guide"
+],
+"aqa-a-level-english-language-7702-language-investigation-revision-notes": [
+"aqa-a-level-english-language-7702-language-investigation"
+],
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2-revision-notes": [
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2"
+],
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2-revision-notes": [
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-2-2"
+],
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-3-3-revision-notes": [
+"aqa-a-level-english-language-nea-methods-of-language-analysis"
+],
+"aqa-a-level-english-language-7702-original-writing-revision-notes": [
+"aqa-a-level-english-language-7702-original-writing"
+],
+"aqa-a-level-english-language-7702-section-a-textual-variations-and-representations-revision-notes": [
+"aqa-a-level-english-language-7702-section-a-textual-variations-and-representations"
+],
+"aqa-a-level-english-language-7702-section-b-childrens-language-development-revision-notes": [
+"aqa-a-level-english-language-7702-section-b-childrens-language-development"
+],
+"aqa-a-level-english-language-7702-section-b-language-discourses-revision-notes": [
+"aqa-a-level-english-language-7702-section-b-language-discourses"
+],
+"aqa-a-level-english-language-7702-writing-skills-revision-notes": [
+"aqa-a-level-english-language-7702-writing-skills"
+],
+"aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717-revision-notes": [
+"aqa-a-level-english-literature-7712-7717-option-1a-aspects-of-tragedy-7717"
+],
+"aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717-revision-notes": [
+"aqa-a-level-english-literature-7712-7717-option-1b-aspects-of-comedy-7717"
+],
+"aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717-revision-notes": [
+"aqa-a-level-english-literature-7712-7717-option-2a-elements-of-crime-writing-7717"
+],
+"aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717-revision-notes": [
+"aqa-a-level-english-literature-7712-7717-option-2b-elements-of-political-and-social-protest-writing-7717"
+],
+"aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-article-10-of-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-article-11-of-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-article-2-of-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-article-5-of-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-article-8-of-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-capacity-defences-revision-notes": [
+"aqa-a-level-law-7162-capacity-defences"
+],
+"aqa-a-level-law-7162-contract-terms-exclusion-clauses-revision-notes": [
+"aqa-a-level-law-7162-contract-terms-exclusion-clauses"
+],
+"aqa-a-level-law-7162-contract-terms-general-revision-notes": [
+"aqa-a-level-law-7162-contract-terms-general"
+],
+"aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts-revision-notes": [
+"aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts"
+],
+"aqa-a-level-law-7162-defences-tort-revision-notes": [
+"aqa-a-level-law-7162-defences-tort"
+],
+"aqa-a-level-law-7162-discharge-of-a-contract-revision-notes": [
+"aqa-a-level-law-7162-discharge-of-a-contract"
+],
+"aqa-a-level-law-7162-enforcement-revision-notes": [
+"aqa-a-level-law-7162-enforcement"
+],
+"aqa-a-level-law-7162-essential-requirements-of-contract-revision-notes": [
+"aqa-a-level-law-7162-essential-requirements-of-contract"
+],
+"aqa-a-level-law-7162-fatal-offences-against-the-person-revision-notes": [
+"aqa-a-level-law-7162-fatal-offences-against-the-person"
+],
+"aqa-a-level-law-7162-human-rights-and-english-law-revision-notes": [
+"aqa-a-level-law-7162-human-rights-and-english-law"
+],
+"aqa-a-level-law-7162-human-rights-in-international-law-revision-notes": [
+"aqa-a-level-law-7162-human-rights-in-international-law"
+],
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998-revision-notes": [
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998"
+],
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998-revision-notes": [
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998"
+],
+"aqa-a-level-law-7162-law-making-delegated-legislation-revision-notes": [
+"aqa-a-level-law-7162-law-making-delegated-legislation"
+],
+"aqa-a-level-law-7162-law-making-judicial-precedent-revision-notes": [
+"aqa-a-level-law-7162-law-making-judicial-precedent"
+],
+"aqa-a-level-law-7162-law-making-law-reform-revision-notes": [
+"aqa-a-level-law-7162-law-making-law-reform"
+],
+"aqa-a-level-law-7162-law-making-parliamentary-law-making-revision-notes": [
+"aqa-a-level-law-7162-law-making-parliamentary-law-making"
+],
+"aqa-a-level-law-7162-law-making-statutory-interpretation-revision-notes": [
+"aqa-a-level-law-7162-law-making-statutory-interpretation"
+],
+"aqa-a-level-law-7162-law-making-the-european-union-revision-notes": [
+"aqa-a-level-law-7162-law-making-the-european-union"
+],
+"aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury-revision-notes": [
+"aqa-a-level-law-7162-liability-in-negligence-for-economic-loss-and-psychiatric-injury"
+],
+"aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property-revision-notes": [
+"aqa-a-level-law-7162-liability-in-negligence-for-physical-injury-to-people-and-damage-to-property"
+],
+"aqa-a-level-law-7162-nature-of-law-law-and-justice-revision-notes": [
+"aqa-a-level-law-7162-nature-of-law-law-and-justice"
+],
+"aqa-a-level-law-7162-nature-of-law-law-and-morality-revision-notes": [
+"aqa-a-level-law-7162-nature-of-law-law-and-morality"
+],
+"aqa-a-level-law-7162-nature-of-law-law-and-society-revision-notes": [
+"aqa-a-level-law-7162-nature-of-law-law-and-society"
+],
+"aqa-a-level-law-7162-nature-of-law-revision-notes": [
+"aqa-a-level-law-7162-nature-of-law"
+],
+"aqa-a-level-law-7162-necessity-defences-revision-notes": [
+"aqa-a-level-law-7162-necessity-defences"
+],
+"aqa-a-level-law-7162-non-fatal-offences-against-the-person-revision-notes": [
+"aqa-a-level-law-7162-non-fatal-offences-against-the-person"
+],
+"aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things-revision-notes": [
+"aqa-a-level-law-7162-nuisance-and-the-escape-of-dangerous-things"
+],
+"aqa-a-level-law-7162-occupiers-liability-revision-notes": [
+"aqa-a-level-law-7162-occupiers-liability"
+],
+"aqa-a-level-law-7162-preliminary-offence-revision-notes": [
+"aqa-a-level-law-7162-preliminary-offence"
+],
+"aqa-a-level-law-7162-property-offences-revision-notes": [
+"aqa-a-level-law-7162-property-offences"
+],
+"aqa-a-level-law-7162-reform-revision-notes": [
+"aqa-a-level-law-7162-reform"
+],
+"aqa-a-level-law-7162-remedies-law-of-contract-revision-notes": [
+"aqa-a-level-law-7162-remedies-law-of-contract"
+],
+"aqa-a-level-law-7162-remedies-tort-revision-notes": [
+"aqa-a-level-law-7162-remedies-tort"
+],
+"aqa-a-level-law-7162-restrictions-revision-notes": [
+"aqa-a-level-law-7162-restrictions"
+],
+"aqa-a-level-law-7162-rules-in-human-rights-law-revision-notes": [
+"aqa-a-level-law-7162-rules-in-human-rights-law"
+],
+"aqa-a-level-law-7162-the-european-convention-on-human-rights-1953-revision-notes": [
+"aqa-a-level-law-7162-the-european-convention-on-human-rights-1953"
+],
+"aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding-revision-notes": [
+"aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding"
+],
+"aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary-revision-notes": [
+"aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary"
+],
+"aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution-revision-notes": [
+"aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution"
+],
+"aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people-revision-notes": [
+"aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people"
+],
+"aqa-a-level-law-7162-the-rule-of-law-revision-notes": [
+"aqa-a-level-law-7162-the-rule-of-law"
+],
+"aqa-a-level-law-7162-the-rules-of-contract-law-revision-notes": [
+"aqa-a-level-law-7162-the-rules-of-contract-law"
+],
+"aqa-a-level-law-7162-the-rules-of-criminal-law-revision-notes": [
+"aqa-a-level-law-7162-the-rules-of-criminal-law"
+],
+"aqa-a-level-law-7162-the-rules-of-tort-law-revision-notes": [
+"aqa-a-level-law-7162-the-rules-of-tort-law"
+],
+"aqa-a-level-law-7162-theory-in-criminal-law-revision-notes": [
+"aqa-a-level-law-7162-theory-in-criminal-law"
+],
+"aqa-a-level-law-7162-theory-in-human-rights-revision-notes": [
+"aqa-a-level-law-7162-theory-in-human-rights"
+],
+"aqa-a-level-law-7162-theory-of-contract-law-revision-notes": [
+"aqa-a-level-law-7162-theory-of-contract-law"
+],
+"aqa-a-level-law-7162-theory-of-tort-law-revision-notes": [
+"aqa-a-level-law-7162-theory-of-tort-law"
+],
+"aqa-a-level-law-7162-vicarious-liability-revision-notes": [
+"aqa-a-level-law-7162-vicarious-liability"
+],
+"aqa-a-level-law-7162-vitiating-factors-revision-notes": [
+"aqa-a-level-law-7162-vitiating-factors"
+],
+"aqa-a-level-law-criminal-liability-revision-notes": [
+"a-level-aqa-law-general-elements-of-criminal-liability"
+],
+"aqa-a-level-law-criminal-offences-and-defences-revision-notes": [
+"aqa-a-level-law-criminal-offences-and-defences-study-guide",
+"aqa-a-level-law-7162-theory-in-criminal-law",
+"aqa-a-level-law-7162-the-rules-of-criminal-law",
+"aqa-a-level-law-7162-property-offences",
+"aqa-a-level-law-7162-preliminary-offence",
+"aqa-a-level-law-7162-non-fatal-offences-against-the-person",
+"aqa-a-level-law-7162-necessity-defences",
+"aqa-a-level-law-7162-fatal-offences-against-the-person"
+],
+"aqa-a-level-law-human-rights-revision-notes": [
+"aqa-a-level-law-human-rights-study-guide",
+"aqa-a-level-law-7162-theory-in-human-rights",
+"aqa-a-level-law-7162-the-european-convention-on-human-rights-1953",
+"aqa-a-level-law-7162-rules-in-human-rights-law",
+"aqa-a-level-law-7162-restrictions",
+"aqa-a-level-law-7162-reform",
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-prior-to-the-human-rights-act-1998",
+"aqa-a-level-law-7162-human-rights-in-the-united-kingdom-after-the-enactment-of-the-human-rights-act-1998"
+],
+"aqa-a-level-law-law-of-contract-revision-notes": [
+"aqa-a-level-law-law-of-contract-study-guide",
+"aqa-a-level-law-7162-vitiating-factors",
+"aqa-a-level-law-7162-theory-of-contract-law",
+"aqa-a-level-law-7162-the-rules-of-contract-law",
+"aqa-a-level-law-7162-remedies-law-of-contract",
+"aqa-a-level-law-7162-essential-requirements-of-contract",
+"aqa-a-level-law-7162-discharge-of-a-contract",
+"aqa-a-level-law-7162-contract-terms-specific-terms-implied-by-statute-law-in-relation-to-consumer-contracts"
+],
+"aqa-a-level-law-nature-revision-notes": [
+"a-level-aqa-law-nature-of-law-and-english-legal-system",
+"aqa-a-level-law-rule-of-law-parliament-morality-and-justice-study-guide",
+"aqa-a-level-law-7162-the-legal-system-the-criminal-courts-and-lay-people",
+"aqa-a-level-law-7162-the-legal-system-legal-personnel-and-the-judiciary",
+"aqa-a-level-law-7162-the-legal-system-access-to-justice-and-funding",
+"aqa-a-level-law-7162-nature-of-law-law-and-society",
+"aqa-a-level-law-7162-nature-of-law-law-and-morality",
+"aqa-a-level-law-7162-law-making-statutory-interpretation"
+],
+"aqa-a-level-law-rule-of-law-reform-eu-and-civil-justice-revision-notes": [
+"a-level-aqa-law-nature-of-law-and-english-legal-system",
+"aqa-a-level-law-rule-of-law-parliament-morality-and-justice-study-guide",
+"aqa-a-level-law-7162-the-rule-of-law",
+"aqa-a-level-law-7162-the-legal-system-the-civil-courts-and-other-forms-of-dispute-resolution",
+"aqa-a-level-law-7162-nature-of-law-law-and-justice",
+"aqa-a-level-law-7162-nature-of-law",
+"aqa-a-level-law-7162-law-making-the-european-union",
+"aqa-a-level-law-7162-law-making-law-reform"
+],
+"aqa-a-level-law-tort-revision-notes": [
+"aqa-a-level-law-tort"
+],
+"aqa-a-level-psychology-approaches-revision-notes": [
+"a-level-aqa-psychology-approaches-in-psychology"
+],
+"aqa-a-level-psychology-introductory-revision-notes": [
+"aqa-a-level-psychology-introductory-topics"
+],
+"aqa-a-level-psychology-memory-revision-notes": [
+"a-level-aqa-psychology-multi-store-and-working-memory-models"
+],
+"aqa-a-level-sociology-7192-beliefs-in-society-revision-notes": [
+"aqa-a-level-sociology-7192-beliefs-in-society"
+],
+"aqa-a-level-sociology-7192-culture-and-identity-revision-notes": [
+"aqa-a-level-sociology-7192-culture-and-identity"
+],
+"aqa-a-level-sociology-7192-families-and-households-revision-notes": [
+"aqa-a-level-sociology-7192-families-and-households"
+],
+"aqa-a-level-sociology-7192-global-development-revision-notes": [
+"aqa-a-level-sociology-7192-global-development"
+],
+"aqa-a-level-sociology-7192-health-revision-notes": [
+"aqa-a-level-sociology-7192-health"
+],
+"aqa-a-level-sociology-7192-stratification-and-differentiation-revision-notes": [
+"aqa-a-level-sociology-7192-stratification-and-differentiation"
+],
+"aqa-a-level-sociology-7192-the-media-revision-notes": [
+"aqa-a-level-sociology-7192-the-media"
+],
+"aqa-a-level-sociology-7192-theory-and-methods-revision-notes": [
+"aqa-a-level-sociology-7192-theory-and-methods"
+],
+"aqa-a-level-sociology-7192-work-poverty-and-welfare-revision-notes": [
+"aqa-a-level-sociology-7192-work-poverty-and-welfare"
+],
+"aqa-a-level-sociology-education-revision-notes": [
+"a-level-aqa-sociology-role-of-education-and-differential-achievement"
+],
+"aqa-english-language-nea-revision-notes": [
+"aqa-a-level-english-language-nea-language-in-action",
+"aqa-a-level-english-language-nea-methods-of-language-analysis",
+"aqa-a-level-english-language-7702-original-writing",
+"aqa-a-level-english-language-7702-language-investigation"
+],
+"aqa-english-language-paper-1-revision-notes": [
+"aqa-a-level-english-language-paper-1",
+"aqa-a-level-english-language-7702-section-b-childrens-language-development",
+"aqa-a-level-english-language-7702-section-a-textual-variations-and-representations",
+"aqa-a-level-english-language-7702-methods-of-language-analysis-3-1-2"
+],
+"aqa-gcse-biology-8461-blood-revision-notes": [
+"aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels",
+"aqa-gcse-biology-8461-plant-tissues-and-organ-system",
+"aqa-gcse-biology-8461-health-lifestyle-and-cancer"
+],
+"aqa-gcse-biology-8461-cancer-revision-notes": [
+"aqa-gcse-biology-8461-health-lifestyle-and-cancer",
+"aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels",
+"aqa-gcse-biology-8461-plant-tissues-and-organ-system"
+],
+"aqa-gcse-biology-8461-coronary-heart-disease-revision-notes": [
+"aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels",
+"aqa-gcse-biology-8461-plant-tissues-and-organ-system",
+"aqa-gcse-biology-8461-health-lifestyle-and-cancer"
+],
+"aqa-gcse-biology-8461-health-issues-and-lifestyle-revision-notes": [
+"aqa-gcse-biology-8461-health-lifestyle-and-cancer",
+"aqa-gcse-biology-8461-principles-of-organisation-heart-and-blood-vessels",
+"aqa-gcse-biology-8461-plant-tissues-and-organ-system"
+],
+"aqa-gcse-economics-inflation-and-price-stability-revision-notes": [
+"aqa-gcse-economics-objectives-of-government"
+],
+"aqa-gcse-english-language-8700-comparing-texts-revision-notes": [
+"aqa-gcse-english-language-8700-comparing-texts"
+],
+"aqa-gcse-english-language-8700-critical-reading-and-comprehension-revision-notes": [
+"aqa-gcse-english-language-8700-critical-reading-and-comprehension"
+],
+"aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features-revision-notes": [
+"aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features"
+],
+"aqa-gcse-english-language-8700-presenting-information-and-ideas-revision-notes": [
+"aqa-gcse-english-language-8700-presenting-information-and-ideas"
+],
+"aqa-gcse-english-language-8700-producing-clear-and-coherent-text-revision-notes": [
+"aqa-gcse-english-language-8700-producing-clear-and-coherent-text"
+],
+"aqa-gcse-english-language-8700-responding-to-spoken-language-revision-notes": [
+"aqa-gcse-english-language-8700-responding-to-spoken-language"
+],
+"aqa-gcse-english-language-8700-spoken-standard-english-revision-notes": [
+"aqa-gcse-english-language-8700-spoken-standard-english"
+],
+"aqa-gcse-english-language-8700-writing-for-impact-revision-notes": [
+"aqa-gcse-english-language-8700-writing-for-impact"
+],
+"aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically-revision-notes": [
+"aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically"
+],
+"aqa-gcse-english-literature-8702-section-a-modern-texts-revision-notes": [
+"aqa-gcse-english-literature-8702-section-a-modern-texts"
+],
+"aqa-gcse-english-literature-8702-section-a-shakespeare-revision-notes": [
+"aqa-gcse-english-literature-8702-section-a-shakespeare"
+],
+"aqa-gcse-english-literature-8702-section-b-poetry-revision-notes": [
+"aqa-gcse-english-literature-8702-section-b-poetry"
+],
+"aqa-gcse-english-literature-8702-section-b-the-19th-century-novel-revision-notes": [
+"aqa-gcse-english-literature-8702-section-b-the-19th-century-novel"
+],
+"aqa-gcse-english-literature-8702-section-c-unseen-poetry-revision-notes": [
+"aqa-gcse-english-literature-unseen-poetry",
+"aqa-gcse-english-literature-paper-2"
+],
+"aqa-gcse-english-literature-8702-writing-skills-revision-notes": [
+"aqa-gcse-english-literature-8702-writing-skills"
+],
+"aqa-gcse-english-literature-skills-revision-notes": [
+"aqa-gcse-english-literature-skills-study-guide",
+"aqa-gcse-english-literature-8702-writing-skills",
+"aqa-gcse-english-literature-8702-reading-comprehension-and-reading-critically"
+],
+"aqa-gcse-psychology-8182-brain-and-neuropsychology-revision-notes": [
+"aqa-gcse-psychology-8182-brain-and-neuropsychology"
+],
+"aqa-gcse-psychology-8182-development-revision-notes": [
+"aqa-gcse-psychology-8182-development"
+],
+"aqa-gcse-psychology-8182-language-thought-communication-revision-notes": [
+"aqa-gcse-psychology-8182-language-thought-communication"
+],
+"aqa-gcse-psychology-8182-memory-revision-notes": [
+"aqa-gcse-psychology-8182-memory"
+],
+"aqa-gcse-psychology-8182-perception-revision-notes": [
+"aqa-gcse-psychology-8182-perception"
+],
+"aqa-gcse-psychology-8182-psychological-problems-revision-notes": [
+"aqa-gcse-psychology-8182-psychological-problems"
+],
+"aqa-gcse-psychology-8182-research-methods-revision-notes": [
+"aqa-gcse-psychology-research-methods"
+],
+"aqa-gcse-psychology-8182-social-influence-revision-notes": [
+"aqa-gcse-psychology-8182-social-influence"
+],
+"aqa-gcse-sociology-8192-changing-relationships-within-families-revision-notes": [
+"aqa-gcse-sociology-8192-changing-relationships-within-families"
+],
+"aqa-gcse-sociology-8192-conjugal-role-relationships-revision-notes": [
+"aqa-gcse-sociology-8192-conjugal-role-relationships"
+],
+"aqa-gcse-sociology-8192-crime-and-deviance-revision-notes": [
+"aqa-gcse-sociology-8192-crime-and-deviance"
+],
+"aqa-gcse-sociology-8192-criminal-and-deviant-behaviour-revision-notes": [
+"aqa-gcse-sociology-8192-criminal-and-deviant-behaviour"
+],
+"aqa-gcse-sociology-8192-criticisms-of-families-revision-notes": [
+"aqa-gcse-sociology-8192-criticisms-of-families"
+],
+"aqa-gcse-sociology-8192-data-on-crime-revision-notes": [
+"aqa-gcse-sociology-8192-data-on-crime"
+],
+"aqa-gcse-sociology-8192-different-types-of-data-revision-notes": [
+"aqa-gcse-sociology-8192-different-types-of-data"
+],
+"aqa-gcse-sociology-8192-divorce-revision-notes": [
+"aqa-gcse-sociology-8192-divorce"
+],
+"aqa-gcse-sociology-8192-education-revision-notes": [
+"aqa-gcse-sociology-8192-education"
+],
+"aqa-gcse-sociology-8192-educational-achievement-revision-notes": [
+"aqa-gcse-sociology-8192-educational-achievement"
+],
+"aqa-gcse-sociology-8192-ethical-issues-revision-notes": [
+"aqa-gcse-sociology-8192-ethical-issues"
+],
+"aqa-gcse-sociology-8192-family-forms-revision-notes": [
+"aqa-gcse-sociology-8192-family-forms"
+],
+"aqa-gcse-sociology-8192-functionalist-theory-of-stratification-revision-notes": [
+"aqa-gcse-sociology-8192-functionalist-theory-of-stratification"
+],
+"aqa-gcse-sociology-8192-functions-of-families-revision-notes": [
+"aqa-gcse-sociology-8192-functions-of-families"
+],
+"aqa-gcse-sociology-8192-interpretation-of-data-revision-notes": [
+"aqa-gcse-sociology-8192-interpretation-of-data"
+],
+"aqa-gcse-sociology-8192-life-chances-revision-notes": [
+"aqa-gcse-sociology-8192-life-chances"
+],
+"aqa-gcse-sociology-8192-poverty-as-a-social-issue-revision-notes": [
+"aqa-gcse-sociology-8192-poverty-as-a-social-issue"
+],
+"aqa-gcse-sociology-8192-power-and-authority-revision-notes": [
+"aqa-gcse-sociology-8192-power-and-authority"
+],
+"aqa-gcse-sociology-8192-power-relationships-revision-notes": [
+"aqa-gcse-sociology-8192-power-relationships"
+],
+"aqa-gcse-sociology-8192-practical-issues-revision-notes": [
+"aqa-gcse-sociology-8192-practical-issues"
+],
+"aqa-gcse-sociology-8192-primary-and-secondary-sources-revision-notes": [
+"aqa-gcse-sociology-8192-primary-and-secondary-sources"
+],
+"aqa-gcse-sociology-8192-processes-within-schools-revision-notes": [
+"aqa-gcse-sociology-8192-processes-within-schools"
+],
+"aqa-gcse-sociology-8192-qualitative-and-quantitative-methods-revision-notes": [
+"aqa-gcse-sociology-8192-qualitative-and-quantitative-methods"
+],
+"aqa-gcse-sociology-8192-research-methods-revision-notes": [
+"aqa-gcse-sociology-8192-research-methods"
+],
+"aqa-gcse-sociology-8192-roles-and-functions-of-education-revision-notes": [
+"aqa-gcse-sociology-8192-roles-and-functions-of-education"
+],
+"aqa-gcse-sociology-8192-social-control-revision-notes": [
+"aqa-gcse-sociology-8192-social-control"
+],
+"aqa-gcse-sociology-8192-social-stratification-revision-notes": [
+"aqa-gcse-sociology-8192-social-stratification"
+],
+"aqa-gcse-sociology-8192-social-structures-processes-issues-revision-notes": [
+"aqa-gcse-sociology-8192-social-structures-processes-issues"
+],
+"aqa-gcse-sociology-8192-socio-economic-class-revision-notes": [
+"aqa-gcse-sociology-8192-socio-economic-class"
+],
+"aqa-gcse-sociology-8192-sociological-research-methods-revision-notes": [
+"aqa-gcse-sociology-research-methods",
+"aqa-gcse-sociology-8192-research-methods"
+],
+"aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism-revision-notes": [
+"aqa-gcse-sociology-8192-the-relationship-between-education-and-capitalism"
+],
+"aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance-revision-notes": [
+"aqa-gcse-sociology-8192-the-social-construction-of-crime-and-deviance"
+],
+"aqa-gcse-sociology-8192-the-sociological-approach-revision-notes": [
+"aqa-gcse-sociology-8192-the-sociological-approach"
+],
+"aqa-gcse-sociology-families-education-revision-notes": [
+"aqa-gcse-sociology-families-and-education",
+"aqa-gcse-sociology-8192-functions-of-families",
+"aqa-gcse-sociology-8192-family-forms",
+"aqa-gcse-sociology-8192-divorce",
+"aqa-gcse-sociology-8192-criticisms-of-families",
+"aqa-gcse-sociology-8192-conjugal-role-relationships",
+"aqa-gcse-sociology-8192-changing-relationships-within-families"
+],
+"aqa-gcse-world-history-8145-civil-rights-campaigns-revision-notes": [
+"aqa-gcse-world-history-8145-civil-rights-campaigns"
+],
+"aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots-revision-notes": [
+"aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots"
+],
+"aqa-gcse-world-history-8145-health-revolution-in-medicine-revision-notes": [
+"aqa-gcse-world-history-8145-health-revolution-in-medicine"
+],
+"aqa-gcse-world-history-8145-interpretation-questions-revision-notes": [
+"aqa-gcse-world-history-8145-interpretation-questions"
+],
+"aqa-gcse-world-history-8145-nazi-control-and-opposition-revision-notes": [
+"aqa-gcse-world-history-8145-nazi-control-and-opposition"
+],
+"aqa-gcse-world-history-8145-source-analysis-and-usefulness-revision-notes": [
+"aqa-gcse-world-history-8145-source-analysis-and-usefulness"
+],
+"aqa-gcse-world-history-8145-stalins-modernisation-revision-notes": [
+"aqa-gcse-world-history-8145-stalins-modernisation"
+],
+"aqa-gcse-world-history-8145-western-front-stalemate-revision-notes": [
+"aqa-gcse-world-history-8145-western-front-stalemate"
+],
+"as-chem-acids-bases-revision-notes": [
+"as-acids-and-bases-bronsted-lowry-theory"
+],
+"as-chem-alcohols-revision-notes": [
+"as-alcohols-reactions-and-oxidation"
+],
+"as-chem-atomic-structure-revision-notes": [
+"as-atomic-structure-particles-radius-and-isotopes"
+],
+"as-chem-carbonyls-revision-notes": [
+"as-carbonyl-compounds-aldehydes-and-ketones"
+],
+"as-chem-group17-revision-notes": [
+"as-group-17-the-halogens"
+],
+"as-chem-group2-revision-notes": [
+"as-group-2-the-alkaline-earth-metals"
+],
+"as-chem-halogenoalkanes-revision-notes": [
+"as-halogenoalkanes"
+],
+"as-chem-hydrocarbons-revision-notes": [
+"as-hydrocarbons-alkanes-and-alkenes"
+],
+"as-chem-ionisation-energy-revision-notes": [
+"as-atomic-structure-orbitals-and-ionisation-energy"
+],
+"as-chem-kinetics-revision-notes": [
+"as-reaction-kinetics-collision-theory-and-catalysis"
+],
+"as-chem-nitrogen-sulfur-revision-notes": [
+"as-nitrogen-and-sulfur"
+],
+"as-chem-periodicity-revision-notes": [
+"as-periodicity-across-period-3"
+],
+"as-chem-redox-revision-notes": [
+"as-redox-processes"
+],
+"as-chem-states-structure-revision-notes": [
+"as-states-of-matter-ideal-gases-and-structure"
+],
+"as-chem-stoichiometry-revision-notes": [
+"as-atoms-molecules-and-stoichiometry"
+],
+"as-chem-synthesis-revision-notes": [
+"as-organic-synthesis-planning-multi-step-routes"
+],
+"cambridge-a-level-computer-science-algorithm-design-and-problem-solving-revision-notes": [
+"cambridge-a-level-computer-science-algorithm-design-and-problem-solving-study-guide"
+],
+"cambridge-a-level-computer-science-artificial-intelligence-ai-revision-notes": [
+"cambridge-a-level-computer-science-artificial-intelligence-ai-study-guide"
+],
+"cambridge-a-level-computer-science-computational-thinking-and-problem-solving-revision-notes": [
+"cambridge-a-level-computer-science-computational-thinking-and-problem-solving-study-guide"
+],
+"cambridge-a-level-computer-science-data-types-and-structures-revision-notes": [
+"cambridge-a-level-computer-science-data-types-and-structures-study-guide"
+],
+"cambridge-a-level-computer-science-ethics-and-ownership-revision-notes": [
+"cambridge-a-level-computer-science-ethics-and-ownership-study-guide"
+],
+"cambridge-a-level-computer-science-hardware-and-virtual-machines-revision-notes": [
+"cambridge-a-level-computer-science-hardware-and-virtual-machines-study-guide"
+],
+"cambridge-a-level-computer-science-hardware-revision-notes": [
+"cambridge-a-level-computer-science-hardware-study-guide"
+],
+"cambridge-a-level-computer-science-programming-revision-notes": [
+"cambridge-a-level-computer-science-programming-study-guide"
+],
+"cambridge-a-level-computer-science-security-privacy-and-data-integrity-revision-notes": [
+"cambridge-a-level-computer-science-security-privacy-and-data-integrity-study-guide"
+],
+"cambridge-a-level-computer-science-security-revision-notes": [
+"cambridge-a-level-computer-science-security-study-guide"
+],
+"cambridge-a-level-computer-science-software-development-revision-notes": [
+"cambridge-a-level-computer-science-software-development-study-guide"
+],
+"cambridge-a-level-computer-science-system-software-revision-notes": [
+"cambridge-a-level-computer-science-system-software-study-guide"
+],
+"cambridge-a-level-english-language-9093-knowledge-and-understanding-revision-notes": [
+"cambridge-a-level-english-language-9093-knowledge-and-understanding"
+],
+"cambridge-a-level-english-language-9093-section-a-english-in-the-world-revision-notes": [
+"cambridge-a-level-english-language-9093-section-a-english-in-the-world"
+],
+"cambridge-a-level-english-language-9093-section-a-language-change-revision-notes": [
+"cambridge-a-level-english-language-9093-section-a-language-change"
+],
+"cambridge-a-level-english-language-9093-section-b-child-language-acquisition-revision-notes": [
+"cambridge-a-level-english-language-9093-section-b-child-language-acquisition"
+],
+"cambridge-a-level-english-language-9093-section-b-language-and-the-self-revision-notes": [
+"cambridge-a-level-english-language-9093-section-b-language-and-the-self"
+],
+"cambridge-a-level-english-language-9093-skills-and-techniques-revision-notes": [
+"cambridge-a-level-english-language-9093-skills-and-techniques"
+],
+"cambridge-a-level-english-literature-9695-section-a-drama-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-a-drama"
+],
+"cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-a-pre-1900-poetry-and-prose"
+],
+"cambridge-a-level-english-literature-9695-section-a-prose-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-a-prose"
+],
+"cambridge-a-level-english-literature-9695-section-a-shakespeare-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-a-shakespeare"
+],
+"cambridge-a-level-english-literature-9695-section-b-drama-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-b-drama"
+],
+"cambridge-a-level-english-literature-9695-section-b-poetry-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-b-poetry"
+],
+"cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-b-post-1900-poetry-and-prose"
+],
+"cambridge-a-level-english-literature-9695-section-b-unseen-revision-notes": [
+"cambridge-a-level-english-literature-9695-section-b-unseen"
+],
+"cambridge-a-level-global-perspectives-9239-essay-reflection-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-essay-reflection"
+],
+"cambridge-a-level-global-perspectives-9239-essay-sources-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-essay-sources"
+],
+"cambridge-a-level-global-perspectives-9239-research-report-methods-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-research-report-methods"
+],
+"cambridge-a-level-global-perspectives-9239-research-report-research-log-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-research-report-research-log"
+],
+"cambridge-a-level-global-perspectives-9239-team-project-presentation-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-team-project-presentation"
+],
+"cambridge-a-level-global-perspectives-9239-team-project-reflective-paper-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-team-project-reflective-paper"
+],
+"cambridge-a-level-global-perspectives-9239-written-exam-question-1-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-written-exam-question-1"
+],
+"cambridge-a-level-global-perspectives-9239-written-exam-question-2-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-written-exam-question-2"
+],
+"cambridge-a-level-global-perspectives-9239-written-exam-question-3-revision-notes": [
+"cambridge-a-level-global-perspectives-9239-written-exam-question-3"
+],
+"cambridge-a-level-law-9084-contents-of-a-contract-revision-notes": [
+"cambridge-a-level-law-9084-contents-of-a-contract"
+],
+"cambridge-a-level-law-9084-discharge-of-a-contract-revision-notes": [
+"cambridge-a-level-law-9084-discharge-of-a-contract"
+],
+"cambridge-a-level-law-9084-elements-of-a-crime-revision-notes": [
+"cambridge-a-level-law-9084-elements-of-a-crime"
+],
+"cambridge-a-level-law-9084-formation-of-a-valid-contract-revision-notes": [
+"cambridge-a-level-law-9084-formation-of-a-valid-contract"
+],
+"cambridge-a-level-law-9084-general-defences-and-remedies-revision-notes": [
+"cambridge-a-level-law-9084-general-defences-and-remedies"
+],
+"cambridge-a-level-law-9084-legal-personnel-revision-notes": [
+"cambridge-a-level-law-9084-legal-personnel"
+],
+"cambridge-a-level-law-9084-machinery-of-justice-revision-notes": [
+"cambridge-a-level-law-9084-machinery-of-justice"
+],
+"cambridge-a-level-law-9084-offences-against-property-revision-notes": [
+"cambridge-a-level-law-9084-offences-against-property"
+],
+"cambridge-a-level-law-9084-principles-and-sources-of-english-law-revision-notes": [
+"cambridge-a-level-law-9084-principles-and-sources-of-english-law"
+],
+"cambridge-a-level-law-9084-remedies-for-breach-of-a-contract-revision-notes": [
+"cambridge-a-level-law-9084-remedies-for-breach-of-a-contract"
+],
+"cambridge-a-level-law-9084-sentencing-in-england-and-wales-revision-notes": [
+"cambridge-a-level-law-9084-sentencing-in-england-and-wales"
+],
+"cambridge-a-level-law-9084-the-tort-of-negligence-revision-notes": [
+"cambridge-a-level-law-9084-the-tort-of-negligence"
+],
+"cambridge-a-level-law-9084-torts-affecting-land-revision-notes": [
+"cambridge-a-level-law-9084-torts-affecting-land"
+],
+"cambridge-a-level-law-9084-torts-affecting-the-person-revision-notes": [
+"cambridge-a-level-law-9084-torts-affecting-the-person"
+],
+"cambridge-a-level-law-law-of-contract-revision-notes": [
+"cambridge-a-level-law-law-of-contract-study-guide",
+"cambridge-a-level-law-9084-remedies-for-breach-of-a-contract",
+"cambridge-a-level-law-9084-formation-of-a-valid-contract",
+"cambridge-a-level-law-9084-discharge-of-a-contract",
+"cambridge-a-level-law-9084-contents-of-a-contract"
+],
+"cambridge-a-level-law-law-of-tort-revision-notes": [
+"cambridge-a-level-law-law-of-tort-study-guide",
+"cambridge-a-level-law-9084-torts-affecting-the-person",
+"cambridge-a-level-law-9084-torts-affecting-land",
+"cambridge-a-level-law-9084-the-tort-of-negligence",
+"cambridge-a-level-law-9084-general-defences-and-remedies"
+],
+"cambridge-a-level-psychology-9990-adherence-to-medical-advice-revision-notes": [
+"cambridge-a-level-psychology-9990-adherence-to-medical-advice"
+],
+"cambridge-a-level-psychology-9990-advertising-revision-notes": [
+"cambridge-a-level-psychology-9990-advertising"
+],
+"cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders-revision-notes": [
+"cambridge-a-level-psychology-9990-anxiety-disorders-and-fear-related-disorders"
+],
+"cambridge-a-level-psychology-9990-biological-approach-revision-notes": [
+"cambridge-a-level-psychology-9990-biological-approach"
+],
+"cambridge-a-level-psychology-9990-cognitive-approach-revision-notes": [
+"cambridge-a-level-psychology-9990-cognitive-approach"
+],
+"cambridge-a-level-psychology-9990-consumer-decision-making-revision-notes": [
+"cambridge-a-level-psychology-9990-consumer-decision-making"
+],
+"cambridge-a-level-psychology-9990-group-behaviour-in-organisations-revision-notes": [
+"cambridge-a-level-psychology-9990-group-behaviour-in-organisations"
+],
+"cambridge-a-level-psychology-9990-health-promotion-revision-notes": [
+"cambridge-a-level-psychology-9990-health-promotion"
+],
+"cambridge-a-level-psychology-9990-impulse-control-disorders-revision-notes": [
+"cambridge-a-level-psychology-9990-impulse-control-disorders"
+],
+"cambridge-a-level-psychology-9990-leadership-and-management-revision-notes": [
+"cambridge-a-level-psychology-9990-leadership-and-management"
+],
+"cambridge-a-level-psychology-9990-learning-approach-revision-notes": [
+"cambridge-a-level-psychology-9990-learning-approach"
+],
+"cambridge-a-level-psychology-9990-methodological-concepts-as-revision-notes": [
+"cambridge-a-level-psychology-9990-methodological-concepts-as"
+],
+"cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder-revision-notes": [
+"cambridge-a-level-psychology-9990-mood-affective-disorders-depressive-disorder-unipolar-and-bipolar-disorder"
+],
+"cambridge-a-level-psychology-9990-motivation-to-work-revision-notes": [
+"cambridge-a-level-psychology-9990-motivation-to-work"
+],
+"cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd-revision-notes": [
+"cambridge-a-level-psychology-9990-obsessive-compulsive-disorder-ocd"
+],
+"cambridge-a-level-psychology-9990-organisational-work-conditions-revision-notes": [
+"cambridge-a-level-psychology-9990-organisational-work-conditions"
+],
+"cambridge-a-level-psychology-9990-pain-revision-notes": [
+"cambridge-a-level-psychology-9990-pain"
+],
+"cambridge-a-level-psychology-9990-research-methods-as-revision-notes": [
+"cambridge-a-level-psychology-9990-research-methods-as"
+],
+"cambridge-a-level-psychology-9990-satisfaction-at-work-revision-notes": [
+"cambridge-a-level-psychology-9990-satisfaction-at-work"
+],
+"cambridge-a-level-psychology-9990-schizophrenia-revision-notes": [
+"cambridge-a-level-psychology-9990-schizophrenia"
+],
+"cambridge-a-level-psychology-9990-social-approach-revision-notes": [
+"cambridge-a-level-psychology-9990-social-approach"
+],
+"cambridge-a-level-psychology-9990-stress-revision-notes": [
+"cambridge-a-level-psychology-9990-stress"
+],
+"cambridge-a-level-psychology-9990-the-patientpractitioner-relationship-revision-notes": [
+"cambridge-a-level-psychology-9990-the-patientpractitioner-relationship"
+],
+"cambridge-a-level-psychology-9990-the-physical-environment-revision-notes": [
+"cambridge-a-level-psychology-9990-the-physical-environment"
+],
+"cambridge-a-level-psychology-9990-the-product-revision-notes": [
+"cambridge-a-level-psychology-9990-the-product"
+],
+"cambridge-a-level-psychology-9990-the-psychological-environment-revision-notes": [
+"cambridge-a-level-psychology-9990-the-psychological-environment"
+],
+"cambridge-a-level-world-history-9489-civil-war-reconstruction-revision-notes": [
+"cambridge-a-level-world-history-9489-civil-war-reconstruction"
+],
+"cambridge-a-level-world-history-9489-end-minority-rule-south-africa-zimbabwe-revision-notes": [
+"cambridge-a-level-world-history-9489-end-minority-rule-south-africa-zimbabwe"
+],
+"cambridge-a-level-world-history-9489-france-1774-1814-revision-notes": [
+"a-level-world-history-france-1774-1814-study-guide"
+],
+"cambridge-a-level-world-history-9489-great-depression-new-deal-revision-notes": [
+"cambridge-a-level-world-history-9489-great-depression-new-deal"
+],
+"cambridge-a-level-world-history-9489-hitlers-germany-revision-notes": [
+"cambridge-a-level-world-history-9489-hitlers-germany"
+],
+"cambridge-a-level-world-history-9489-imperialism-emergence-world-powers-revision-notes": [
+"cambridge-a-level-world-history-9489-imperialism-emergence-world-powers"
+],
+"cambridge-a-level-world-history-9489-international-history-1929-39-revision-notes": [
+"cambridge-a-level-world-history-9489-international-history-1929-39"
+],
+"cambridge-a-level-world-history-9489-international-relations-1919-29-revision-notes": [
+"cambridge-a-level-world-history-9489-international-relations-1919-29"
+],
+"cambridge-a-level-world-history-9489-liberalism-nationalism-germany-revision-notes": [
+"a-level-world-history-germany-1815-71-study-guide"
+],
+"cambridge-a-level-world-history-9489-mussolinis-italy-revision-notes": [
+"cambridge-a-level-world-history-9489-mussolinis-italy"
+],
+"cambridge-a-level-world-history-9489-origins-development-cold-war-revision-notes": [
+"cambridge-a-level-world-history-9489-origins-development-cold-war"
+],
+"cambridge-a-level-world-history-9489-origins-first-world-war-revision-notes": [
+"cambridge-a-level-world-history-9489-origins-first-world-war"
+],
+"cambridge-a-level-world-history-9489-route-independence-malaysia-indonesia-revision-notes": [
+"cambridge-a-level-world-history-9489-route-independence-malaysia-indonesia"
+],
+"cambridge-a-level-world-history-9489-russia-autocracy-revolution-revision-notes": [
+"a-level-world-history-russia-1881-1924-study-guide"
+],
+"cambridge-a-level-world-history-9489-soviet-empire-eastern-europe-revision-notes": [
+"cambridge-a-level-world-history-9489-soviet-empire-eastern-europe"
+],
+"cambridge-a-level-world-history-9489-stalins-russia-revision-notes": [
+"cambridge-a-level-world-history-9489-stalins-russia"
+],
+"cambridge-a-level-world-history-9489-the-holocaust-revision-notes": [
+"cambridge-a-level-world-history-9489-the-holocaust"
+],
+"cambridge-a-level-world-history-9489-the-usa-1974-93-revision-notes": [
+"cambridge-a-level-world-history-9489-the-usa-1974-93"
+],
+"cambridge-a-level-world-history-9489-time-of-challenges-usa-revision-notes": [
+"cambridge-a-level-world-history-9489-time-of-challenges-usa"
+],
+"cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa-revision-notes": [
+"cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa"
+],
+"cambridge-a-level-world-history-depth-study-european-interwar-revision-notes": [
+"cambridge-a-level-world-history-depth-study-european-interwar-study-guide",
+"cambridge-a-level-world-history-9489-stalins-russia",
+"cambridge-a-level-world-history-9489-mussolinis-italy",
+"cambridge-a-level-world-history-9489-hitlers-germany"
+],
+"cambridge-a-level-world-history-depth-study-international-history-revision-notes": [
+"cambridge-a-level-world-history-depth-study-international-history-study-guide",
+"cambridge-a-level-world-history-9489-soviet-empire-eastern-europe",
+"cambridge-a-level-world-history-9489-route-independence-malaysia-indonesia",
+"cambridge-a-level-world-history-9489-end-minority-rule-south-africa-zimbabwe"
+],
+"cambridge-a-level-world-history-depth-study-usa-revision-notes": [
+"cambridge-a-level-world-history-depth-study-usa-study-guide",
+"cambridge-a-level-world-history-9489-truman-eisenhower-postwar-usa",
+"cambridge-a-level-world-history-9489-time-of-challenges-usa",
+"cambridge-a-level-world-history-9489-the-usa-1974-93"
+],
+"cambridge-a-level-world-history-historical-interpretations-revision-notes": [
+"cambridge-a-level-world-history-historical-interpretations-study-guide",
+"cambridge-a-level-world-history-9489-the-holocaust",
+"cambridge-a-level-world-history-9489-origins-first-world-war",
+"cambridge-a-level-world-history-9489-origins-development-cold-war"
+],
+"cambridge-igcse-commerce-0715-commercial-enterprises-revision-notes": [
+"cambridge-igcse-commerce-0715-commercial-enterprises"
+],
+"cambridge-igcse-commerce-0715-communication-0715-commerce-revision-notes": [
+"cambridge-igcse-commerce-0715-communication-0715-commerce"
+],
+"cambridge-igcse-commerce-0715-global-supply-chain-management-revision-notes": [
+"cambridge-igcse-commerce-0715-global-supply-chain-management"
+],
+"cambridge-igcse-commerce-0715-international-trade-revision-notes": [
+"cambridge-igcse-commerce-0715-international-trade"
+],
+"cambridge-igcse-commerce-0715-outsourcing-revision-notes": [
+"cambridge-igcse-commerce-0715-outsourcing"
+],
+"cambridge-igcse-commerce-0715-production-revision-notes": [
+"cambridge-igcse-commerce-0715-production"
+],
+"cambridge-igcse-commerce-0715-retailing-revision-notes": [
+"cambridge-igcse-commerce-0715-retailing"
+],
+"cambridge-igcse-commerce-0715-trade-and-commerce-revision-notes": [
+"cambridge-igcse-commerce-0715-trade-and-commerce"
+],
+"cambridge-igcse-commerce-0715-trading-documents-revision-notes": [
+"cambridge-igcse-commerce-0715-trading-documents"
+],
+"cambridge-igcse-commerce-0715-wholesaling-revision-notes": [
+"cambridge-igcse-commerce-0715-wholesaling"
+],
+"cambridge-igcse-english-literature-0475-section-a-poetry-revision-notes": [
+"cambridge-igcse-english-literature-0475-section-a-poetry"
+],
+"cambridge-igcse-english-literature-0475-section-b-prose-revision-notes": [
+"cambridge-igcse-english-literature-0475-section-b-prose"
+],
+"cambridge-igcse-environmental-management-0680-acid-rain-revision-notes": [
+"cambridge-igcse-environmental-management-0680-acid-rain"
+],
+"cambridge-igcse-environmental-management-0680-climate-change-revision-notes": [
+"cambridge-igcse-environmental-management-0680-climate-change"
+],
+"cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources-revision-notes": [
+"cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources"
+],
+"cambridge-igcse-environmental-management-0680-drought-revision-notes": [
+"cambridge-igcse-environmental-management-0680-drought"
+],
+"cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes-revision-notes": [
+"cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes"
+],
+"cambridge-igcse-environmental-management-0680-ecosystems-revision-notes": [
+"cambridge-igcse-environmental-management-0680-ecosystems"
+],
+"cambridge-igcse-environmental-management-0680-energy-resources-revision-notes": [
+"cambridge-igcse-environmental-management-0680-energy-resources"
+],
+"cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals-revision-notes": [
+"cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals"
+],
+"cambridge-igcse-environmental-management-0680-fieldwork-investigations-revision-notes": [
+"cambridge-igcse-environmental-management-0680-fieldwork-investigations"
+],
+"cambridge-igcse-environmental-management-0680-flooding-revision-notes": [
+"cambridge-igcse-environmental-management-0680-flooding"
+],
+"cambridge-igcse-environmental-management-0680-food-production-and-crop-yield-revision-notes": [
+"cambridge-igcse-environmental-management-0680-food-production-and-crop-yield"
+],
+"cambridge-igcse-environmental-management-0680-forest-ecosystems-revision-notes": [
+"cambridge-igcse-environmental-management-0680-forest-ecosystems"
+],
+"cambridge-igcse-environmental-management-0680-formation-of-rocks-revision-notes": [
+"cambridge-igcse-environmental-management-0680-formation-of-rocks"
+],
+"cambridge-igcse-environmental-management-0680-fracking-revision-notes": [
+"cambridge-igcse-environmental-management-0680-fracking"
+],
+"cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure-revision-notes": [
+"cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure"
+],
+"cambridge-igcse-environmental-management-0680-human-population-size-revision-notes": [
+"cambridge-igcse-environmental-management-0680-human-population-size"
+],
+"cambridge-igcse-environmental-management-0680-managing-biodiversity-revision-notes": [
+"cambridge-igcse-environmental-management-0680-managing-biodiversity"
+],
+"cambridge-igcse-environmental-management-0680-managing-human-population-size-revision-notes": [
+"cambridge-igcse-environmental-management-0680-managing-human-population-size"
+],
+"cambridge-igcse-environmental-management-0680-marine-aquaculture-revision-notes": [
+"cambridge-igcse-environmental-management-0680-marine-aquaculture"
+],
+"cambridge-igcse-environmental-management-0680-oil-pollution-revision-notes": [
+"cambridge-igcse-environmental-management-0680-oil-pollution"
+],
+"cambridge-igcse-environmental-management-0680-ozone-depletion-revision-notes": [
+"cambridge-igcse-environmental-management-0680-ozone-depletion"
+],
+"cambridge-igcse-environmental-management-0680-plastic-pollution-revision-notes": [
+"cambridge-igcse-environmental-management-0680-plastic-pollution"
+],
+"cambridge-igcse-environmental-management-0680-soil-erosion-revision-notes": [
+"cambridge-igcse-environmental-management-0680-soil-erosion"
+],
+"cambridge-igcse-environmental-management-0680-soils-and-crop-growth-revision-notes": [
+"cambridge-igcse-environmental-management-0680-soils-and-crop-growth"
+],
+"cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals-revision-notes": [
+"cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals"
+],
+"cambridge-igcse-environmental-management-0680-the-atmosphere-revision-notes": [
+"cambridge-igcse-environmental-management-0680-the-atmosphere"
+],
+"cambridge-igcse-environmental-management-0680-tropical-cyclones-revision-notes": [
+"cambridge-igcse-environmental-management-0680-tropical-cyclones"
+],
+"cambridge-igcse-environmental-management-0680-water-pollution-revision-notes": [
+"cambridge-igcse-environmental-management-0680-water-pollution"
+],
+"cambridge-igcse-environmental-management-0680-water-related-diseases-revision-notes": [
+"cambridge-igcse-environmental-management-0680-water-related-diseases"
+],
+"cambridge-igcse-environmental-management-0680-water-sources-and-supply-revision-notes": [
+"cambridge-igcse-environmental-management-0680-water-sources-and-supply"
+],
+"cambridge-igcse-ict-audience-revision-notes": [
+"cambridge-igcse-ict-audience-study-guide"
+],
+"cambridge-igcse-ict-communication-revision-notes": [
+"cambridge-igcse-ict-communication-study-guide"
+],
+"cambridge-igcse-ict-databases-revision-notes": [
+"cambridge-igcse-ict-databases-study-guide"
+],
+"cambridge-igcse-ict-document-production-revision-notes": [
+"cambridge-igcse-ict-document-production-study-guide"
+],
+"cambridge-igcse-ict-file-management-revision-notes": [
+"cambridge-igcse-ict-file-management-study-guide"
+],
+"cambridge-igcse-ict-graphs-and-charts-revision-notes": [
+"cambridge-igcse-ict-graphs-and-charts-study-guide"
+],
+"cambridge-igcse-ict-images-revision-notes": [
+"cambridge-igcse-ict-images-study-guide"
+],
+"cambridge-igcse-ict-layout-revision-notes": [
+"cambridge-igcse-ict-layout-study-guide"
+],
+"cambridge-igcse-ict-presentations-revision-notes": [
+"cambridge-igcse-ict-presentations-study-guide"
+],
+"cambridge-igcse-ict-proofing-revision-notes": [
+"cambridge-igcse-ict-proofing-study-guide"
+],
+"cambridge-igcse-ict-safety-and-security-revision-notes": [
+"cambridge-igcse-ict-safety-and-security-study-guide"
+],
+"cambridge-igcse-ict-spreadsheets-revision-notes": [
+"cambridge-igcse-ict-spreadsheets-study-guide"
+],
+"cambridge-igcse-ict-styles-revision-notes": [
+"cambridge-igcse-ict-styles-study-guide"
+],
+"cambridge-igcse-ict-the-systems-life-cycle-revision-notes": [
+"cambridge-igcse-ict-the-systems-life-cycle-study-guide"
+],
+"cambridge-igcse-islamiyat-0493-first-islamic-community-revision-notes": [
+"cambridge-igcse-islamiyat-0493-first-islamic-community"
+],
+"cambridge-igcse-islamiyat-0493-history-importance-quran-revision-notes": [
+"cambridge-igcse-islamiyat-0493-history-importance-quran"
+],
+"cambridge-igcse-islamiyat-0493-life-prophet-revision-notes": [
+"cambridge-igcse-islamiyat-0493-life-prophet"
+],
+"cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam-revision-notes": [
+"cambridge-igcse-islamiyat-articles-of-faith-and-pillars-of-islam"
+],
+"cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths-revision-notes": [
+"cambridge-igcse-islamiyat-history-and-importance-of-the-hadiths"
+],
+"cambridge-igcse-islamiyat-major-teachings-in-the-hadiths-revision-notes": [
+"cambridge-igcse-islamiyat-major-teachings-in-the-hadiths"
+],
+"cambridge-igcse-islamiyat-major-themes-of-the-quran-revision-notes": [
+"igcse-islamiyat-paper-1",
+"cambridge-igcse-islamiyat-0493-major-themes-quran"
+],
+"cambridge-igcse-islamiyat-rightly-guided-caliphs-revision-notes": [
+"cambridge-igcse-islamiyat-rightly-guided-caliphs"
+],
+"cambridge-igcse-pakistan-studies-0448-cultural-historical-background-revision-notes": [
+"igcse-pakistan-studies-history-and-culture-of-pakistan"
+],
+"cambridge-igcse-pakistan-studies-0448-emergence-of-pakistan-revision-notes": [
+"igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47"
+],
+"cambridge-igcse-pakistan-studies-0448-nationhood-1947-99-revision-notes": [
+"igcse-cambridge-pakistan-studies-nationhood-1947-99"
+],
+"cambridge-igcse-pakistan-studies-0448-trade-revision-notes": [
+"cambridge-igcse-pakistan-studies-0448-trade"
+],
+"cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications-revision-notes": [
+"cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications"
+],
+"cambridge-igcse-physics-0625-density-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-density-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-electric-circuits-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-electrical-quantities-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-electrical-safety-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-electromagnetic-effects-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-electromagnetic-spectrum-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-energy-work-and-power-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-forces-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-forces-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-general-properties-of-waves-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-kinetic-particle-model-of-matter-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-light-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-light-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-mass-and-weight-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-momentum-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-motion-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-motion-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-physical-quantities-and-measurement-techniques-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-pressure-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-radioactivity-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-simple-phenomena-of-magnetism-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-sound-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-sound-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-stars-and-the-universe-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-the-earth-and-the-solar-system-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-the-nuclear-model-of-the-atom-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-thermal-properties-and-temperature-cambridge-igcse-physics"
+],
+"cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics-revision-notes": [
+"cambridge-igcse-physics-0625-transfer-of-thermal-energy-cambridge-igcse-physics"
+],
+"cambridge-igcse-sociology-0495-kq-1-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-1-2"
+],
+"cambridge-igcse-sociology-0495-kq-1-3-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-1-3"
+],
+"cambridge-igcse-sociology-0495-kq-2-1-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-2-1"
+],
+"cambridge-igcse-sociology-0495-kq-2-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-2-2"
+],
+"cambridge-igcse-sociology-0495-kq-2-3-revision-notes": [
+"igcse-cambridge-sociology-social-identity"
+],
+"cambridge-igcse-sociology-0495-kq-3-1-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-3-1"
+],
+"cambridge-igcse-sociology-0495-kq-3-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-3-2"
+],
+"cambridge-igcse-sociology-0495-kq-3-3-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-3-3"
+],
+"cambridge-igcse-sociology-0495-kq-4-1-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-4-1"
+],
+"cambridge-igcse-sociology-0495-kq-4-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-4-2"
+],
+"cambridge-igcse-sociology-0495-kq-4-3-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-4-3"
+],
+"cambridge-igcse-sociology-0495-kq-5-1-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-5-1"
+],
+"cambridge-igcse-sociology-0495-kq-5-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-5-2"
+],
+"cambridge-igcse-sociology-0495-kq-5-3-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-5-3"
+],
+"cambridge-igcse-sociology-0495-kq-6-1-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-6-1"
+],
+"cambridge-igcse-sociology-0495-kq-6-2-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-6-2"
+],
+"cambridge-igcse-sociology-0495-kq-6-3-revision-notes": [
+"cambridge-igcse-sociology-0495-kq-6-3"
+],
+"cambridge-igcse-urdu-language-component-5-speaking-revision-notes": [
+"cambridge-igcse-urdu-component-5-speaking"
+],
+"cambridge-igcse-urdu-language-exercise-1-short-answer-questions-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-1-short-answer-questions"
+],
+"cambridge-igcse-urdu-language-exercise-2-multiple-matching-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-2-multiple-matching"
+],
+"cambridge-igcse-urdu-language-exercise-3-note-making-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-3-note-making"
+],
+"cambridge-igcse-urdu-language-exercise-4-summary-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-4-summary"
+],
+"cambridge-igcse-urdu-language-exercise-5-writing-exercise-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-5-writing-exercise"
+],
+"cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise-revision-notes": [
+"cambridge-igcse-urdu-language-exercise-6-extended-writing-exercise"
+],
+"cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions-revision-notes": [
+"cambridge-igcse-urdu-language-p2-exercise-1-short-answer-questions"
+],
+"cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences-revision-notes": [
+"cambridge-igcse-urdu-language-p2-exercise-2-gap-fill-sentences"
+],
+"cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching-revision-notes": [
+"cambridge-igcse-urdu-language-p2-exercise-3-multiple-matching"
+],
+"cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions-revision-notes": [
+"cambridge-igcse-urdu-language-p2-exercise-4-multiple-choice-questions"
+],
+"cambridge-igcse-world-history-0470-blame-cold-war-revision-notes": [
+"cambridge-igcse-world-history-0470-blame-cold-war"
+],
+"cambridge-igcse-world-history-0470-causes-first-world-war-revision-notes": [
+"cambridge-igcse-world-history-0470-causes-first-world-war"
+],
+"cambridge-igcse-world-history-0470-containment-communism-revision-notes": [
+"cambridge-igcse-world-history-0470-containment-communism"
+],
+"cambridge-igcse-world-history-0470-depth-study-a-wwi-revision-notes": [
+"cambridge-igcse-world-history-depth-study-first-world-war"
+],
+"cambridge-igcse-world-history-0470-depth-study-b-germany-revision-notes": [
+"cambridge-igcse-world-history-depth-study-germany-1918-45"
+],
+"cambridge-igcse-world-history-0470-depth-study-c-russia-revision-notes": [
+"cambridge-igcse-world-history-depth-study-russia-1905-41"
+],
+"cambridge-igcse-world-history-0470-depth-study-d-usa-revision-notes": [
+"cambridge-igcse-world-history-depth-study-usa-1919-41"
+],
+"cambridge-igcse-world-history-0470-depth-study-e-wwii-revision-notes": [
+"cambridge-igcse-world-history-depth-study-second-world-war"
+],
+"cambridge-igcse-world-history-0470-hitlers-foreign-policy-revision-notes": [
+"cambridge-igcse-world-history-0470-hitlers-foreign-policy"
+],
+"cambridge-igcse-world-history-0470-league-of-nations-success-revision-notes": [
+"cambridge-igcse-world-history-0470-league-of-nations-success"
+],
+"cambridge-igcse-world-history-0470-overseas-empires-revision-notes": [
+"cambridge-igcse-world-history-0470-overseas-empires"
+],
+"cambridge-igcse-world-history-0470-revolutions-1848-revision-notes": [
+"cambridge-igcse-world-history-0470-revolutions-1848"
+],
+"cambridge-igcse-world-history-0470-treaty-of-versailles-revision-notes": [
+"cambridge-igcse-world-history-0470-treaty-of-versailles"
+],
+"cambridge-igcse-world-history-0470-unification-germany-revision-notes": [
+"cambridge-igcse-world-history-0470-unification-germany"
+],
+"cambridge-igcse-world-history-0470-unification-italy-revision-notes": [
+"cambridge-igcse-world-history-0470-unification-italy"
+],
+"cambridge-igcse-world-history-0470-us-civil-war-revision-notes": [
+"cambridge-igcse-world-history-0470-us-civil-war"
+],
+"cambridge-igcse-world-history-0470-ussr-control-eastern-europe-revision-notes": [
+"cambridge-igcse-world-history-0470-ussr-control-eastern-europe"
+],
+"cambridge-igcse-world-history-depth-studies-revision-notes": [
+"cambridge-igcse-world-history-depth-study-usa-1919-41",
+"cambridge-igcse-world-history-depth-study-second-world-war",
+"cambridge-igcse-world-history-depth-study-russia-1905-41",
+"cambridge-igcse-world-history-depth-study-germany-1918-45",
+"cambridge-igcse-world-history-depth-study-first-world-war"
+],
+"cambridge-o-level-commerce-7100-commercial-enterprises-revision-notes": [
+"cambridge-o-level-commerce-7100-commercial-enterprises"
+],
+"cambridge-o-level-commerce-7100-communication-7100-commerce-revision-notes": [
+"cambridge-o-level-commerce-7100-communication-7100-commerce"
+],
+"cambridge-o-level-commerce-7100-outsourcing-revision-notes": [
+"cambridge-o-level-commerce-7100-outsourcing"
+],
+"cambridge-o-level-commerce-7100-production-revision-notes": [
+"cambridge-o-level-commerce-7100-production"
+],
+"cambridge-o-level-commerce-7100-retailing-revision-notes": [
+"cambridge-o-level-commerce-7100-retailing"
+],
+"cambridge-o-level-commerce-7100-trade-and-commerce-revision-notes": [
+"cambridge-o-level-commerce-7100-trade-and-commerce"
+],
+"cambridge-o-level-commerce-7100-trading-documents-revision-notes": [
+"cambridge-o-level-commerce-7100-trading-documents"
+],
+"cambridge-o-level-commerce-7100-wholesaling-revision-notes": [
+"cambridge-o-level-commerce-7100-wholesaling"
+],
+"cambridge-o-level-english-language-1123-descriptive-composition-revision-notes": [
+"cambridge-o-level-english-language-1123-descriptive-composition"
+],
+"cambridge-o-level-english-language-1123-directed-writing-revision-notes": [
+"cambridge-o-level-english-language-1123-directed-writing"
+],
+"cambridge-o-level-english-language-1123-narrative-composition-revision-notes": [
+"cambridge-o-level-english-language-1123-narrative-composition"
+],
+"cambridge-o-level-english-language-1123-question-1-comprehension-revision-notes": [
+"cambridge-o-level-english-language-1123-question-1-comprehension"
+],
+"cambridge-o-level-english-language-1123-question-2-use-of-language-revision-notes": [
+"cambridge-o-level-english-language-1123-question-2-use-of-language"
+],
+"cambridge-o-level-english-language-1123-question-3a-summary-revision-notes": [
+"cambridge-o-level-english-language-1123-question-3a-summary"
+],
+"cambridge-o-level-geography-climate-natural-vegetation-revision-notes": [
+"cambridge-o-level-geography-climate-natural-vegetation"
+],
+"cambridge-o-level-geography-coasts-revision-notes": [
+"cambridge-o-level-geography-coasts"
+],
+"cambridge-o-level-geography-development-revision-notes": [
+"cambridge-o-level-geography-development"
+],
+"cambridge-o-level-geography-earthquakes-volcanoes-revision-notes": [
+"cambridge-o-level-geography-earthquakes-volcanoes"
+],
+"cambridge-o-level-geography-energy-revision-notes": [
+"cambridge-o-level-geography-energy"
+],
+"cambridge-o-level-geography-environmental-risks-economic-development-revision-notes": [
+"cambridge-o-level-geography-environmental-risks-economic-development"
+],
+"cambridge-o-level-geography-food-production-revision-notes": [
+"cambridge-o-level-geography-food-production"
+],
+"cambridge-o-level-geography-industry-revision-notes": [
+"cambridge-o-level-geography-industry"
+],
+"cambridge-o-level-geography-migration-revision-notes": [
+"cambridge-o-level-geography-migration"
+],
+"cambridge-o-level-geography-population-density-distribution-revision-notes": [
+"cambridge-o-level-geography-population-density-distribution"
+],
+"cambridge-o-level-geography-population-dynamics-revision-notes": [
+"cambridge-o-level-geography-population-dynamics"
+],
+"cambridge-o-level-geography-population-structure-revision-notes": [
+"cambridge-o-level-geography-population-structure"
+],
+"cambridge-o-level-geography-rivers-revision-notes": [
+"cambridge-o-level-geography-rivers"
+],
+"cambridge-o-level-geography-settlements-service-provision-revision-notes": [
+"cambridge-o-level-geography-settlements-service-provision"
+],
+"cambridge-o-level-geography-tourism-revision-notes": [
+"cambridge-o-level-geography-tourism"
+],
+"cambridge-o-level-geography-urban-settlements-revision-notes": [
+"cambridge-o-level-geography-urban-settlements"
+],
+"cambridge-o-level-geography-urbanisation-revision-notes": [
+"cambridge-o-level-geography-urbanisation"
+],
+"cambridge-o-level-geography-water-revision-notes": [
+"cambridge-o-level-geography-water"
+],
+"cambridge-o-level-geography-weather-revision-notes": [
+"cambridge-o-level-geography-weather"
+],
+"cambridge-o-level-islamiyat-2058-first-islamic-community-revision-notes": [
+"cambridge-o-level-islamiyat-2058-first-islamic-community"
+],
+"cambridge-o-level-islamiyat-2058-history-importance-quran-revision-notes": [
+"cambridge-o-level-islamiyat-2058-history-importance-quran"
+],
+"cambridge-o-level-islamiyat-2058-life-prophet-revision-notes": [
+"cambridge-o-level-islamiyat-2058-life-prophet"
+],
+"cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam-revision-notes": [
+"cambridge-o-level-islamiyat-articles-of-faith-and-pillars-of-islam"
+],
+"cambridge-o-level-islamiyat-history-and-importance-of-the-hadiths-revision-notes": [
+"o-level-islamiyat-paper-2",
+"cambridge-o-level-islamiyat-2058-history-importance-hadiths"
+],
+"cambridge-o-level-islamiyat-major-teachings-in-the-hadiths-revision-notes": [
+"cambridge-o-level-islamiyat-major-teachings-in-the-hadiths"
+],
+"cambridge-o-level-islamiyat-major-themes-of-the-quran-revision-notes": [
+"cambridge-o-level-islamiyat-major-themes-of-the-quran"
+],
+"cambridge-o-level-islamiyat-rightly-guided-caliphs-revision-notes": [
+"o-level-islamiyat-paper-2",
+"cambridge-o-level-islamiyat-2058-rightly-guided-caliphs"
+],
+"cambridge-o-level-sociology-2251-kq-1-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-1-2"
+],
+"cambridge-o-level-sociology-2251-kq-1-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-1-3"
+],
+"cambridge-o-level-sociology-2251-kq-2-1-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-2-1"
+],
+"cambridge-o-level-sociology-2251-kq-2-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-2-2"
+],
+"cambridge-o-level-sociology-2251-kq-2-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-2-3"
+],
+"cambridge-o-level-sociology-2251-kq-3-1-revision-notes": [
+"cambridge-o-level-sociology-social-stratification-and-inequality"
+],
+"cambridge-o-level-sociology-2251-kq-3-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-3-2"
+],
+"cambridge-o-level-sociology-2251-kq-3-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-3-3"
+],
+"cambridge-o-level-sociology-2251-kq-4-1-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-4-1"
+],
+"cambridge-o-level-sociology-2251-kq-4-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-4-2"
+],
+"cambridge-o-level-sociology-2251-kq-4-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-4-3"
+],
+"cambridge-o-level-sociology-2251-kq-5-1-revision-notes": [
+"o-level-sociology-education-and-schooling"
+],
+"cambridge-o-level-sociology-2251-kq-5-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-5-2"
+],
+"cambridge-o-level-sociology-2251-kq-5-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-5-3"
+],
+"cambridge-o-level-sociology-2251-kq-6-1-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-6-1"
+],
+"cambridge-o-level-sociology-2251-kq-6-2-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-6-2"
+],
+"cambridge-o-level-sociology-2251-kq-6-3-revision-notes": [
+"cambridge-o-level-sociology-2251-kq-6-3"
+],
+"cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition-revision-notes": [
+"cambridge-o-level-urdu-language-3247-paper-1-argumentative-discursive-composition"
+],
+"cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension-revision-notes": [
+"cambridge-o-level-urdu-language-3247-paper-1-reading-comprehension"
+],
+"cambridge-o-level-urdu-language-3247-paper-2-poetry-essay-revision-notes": [
+"cambridge-o-level-urdu-language-3247-paper-2-poetry-essay"
+],
+"cambridge-o-level-urdu-language-3247-paper-2-prose-essay-revision-notes": [
+"cambridge-o-level-urdu-language-3247-paper-2-prose-essay"
+],
+"cambridge-o-level-urdu-language-3247-paper-2-unseen-passage-revision-notes": [
+"cambridge-o-level-urdu-language-3247-paper-2-unseen-passage"
+],
+"cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze-revision-notes": [
+"cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze"
+],
+"cambridge-o-level-urdu-language-3248-exercise-3-note-making-revision-notes": [
+"cambridge-o-level-urdu-language-3248-exercise-3-note-making"
+],
+"cambridge-o-level-urdu-language-3248-exercise-4-translation-revision-notes": [
+"cambridge-o-level-urdu-language-3248-exercise-4-translation"
+],
+"cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise-revision-notes": [
+"cambridge-o-level-urdu-language-3248-exercise-5-writing-exercise"
+],
+"cambridge-world-history-overseas-empires-revision-notes": [
+"cambridge-world-history-overseas-empires-nineteenth-century",
+"cambridge-igcse-world-history-0470-overseas-empires"
+],
+"cambridge-world-history-us-civil-war-revision-notes": [
+"cambridge-world-history-us-civil-war-1820-1877",
+"cambridge-igcse-world-history-0470-us-civil-war"
+],
+"cambridge-world-history-us-containment-revision-notes": [
+"cambridge-world-history-us-containment-korea-cuba-vietnam",
+"cambridge-igcse-world-history-0470-containment-communism"
+],
+"commerce-commercial-operations-revision-notes": [
+"igcse-cambridge-commerce-commercial-operations",
+"igcse-cambridge-commerce-outsourcing-and-wholesaling",
+"cambridge-igcse-commerce-0715-trading-documents",
+"cambridge-igcse-commerce-0715-retailing",
+"cambridge-igcse-commerce-0715-outsourcing",
+"cambridge-igcse-commerce-0715-commercial-enterprises"
+],
+"data-representation-revision-notes": [
+"igcse-computer-science-data-representation"
+],
+"data-transmission-revision-notes": [
+"igcse-computer-science-data-transmission"
+],
+"edexcel-a-level-business-ybs11-entrepreneurs-and-leaders-revision-notes": [
+"edexcel-a-level-business-ybs11-entrepreneurs-and-leaders"
+],
+"edexcel-a-level-business-ybs11-financial-planning-revision-notes": [
+"edexcel-a-level-business-ybs11-financial-planning"
+],
+"edexcel-a-level-business-ybs11-managing-finance-revision-notes": [
+"edexcel-a-level-business-ybs11-managing-finance"
+],
+"edexcel-a-level-business-ybs11-managing-people-revision-notes": [
+"edexcel-a-level-business-ybs11-managing-people"
+],
+"edexcel-a-level-business-ybs11-meeting-customer-needs-revision-notes": [
+"edexcel-a-level-business-ybs11-meeting-customer-needs"
+],
+"edexcel-a-level-business-ybs11-the-market-revision-notes": [
+"edexcel-a-level-business-ybs11-the-market"
+],
+"edexcel-a-level-english-literature-drama-revision-notes": [
+"a-level-edexcel-english-literature-drama"
+],
+"edexcel-a-level-english-literature-yet01-unit-1-poetry-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-1-poetry"
+],
+"edexcel-a-level-english-literature-yet01-unit-1-prose-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-1-prose"
+],
+"edexcel-a-level-english-literature-yet01-unit-3-poetry-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-3-poetry"
+],
+"edexcel-a-level-english-literature-yet01-unit-3-prose-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-3-prose"
+],
+"edexcel-a-level-english-literature-yet01-unit-4-poetry-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-4-poetry"
+],
+"edexcel-a-level-english-literature-yet01-unit-4-shakespeare-revision-notes": [
+"edexcel-a-level-english-literature-yet01-unit-4-shakespeare"
+],
+"edexcel-a-level-law-yla1-discharge-of-contract-and-frustration-revision-notes": [
+"edexcel-a-level-law-yla1-discharge-of-contract-and-frustration"
+],
+"edexcel-a-level-law-yla1-doctrine-of-precedent-revision-notes": [
+"edexcel-a-level-law-yla1-doctrine-of-precedent"
+],
+"edexcel-a-level-law-yla1-duress-and-intoxication-revision-notes": [
+"edexcel-a-level-law-yla1-duress-and-intoxication"
+],
+"edexcel-a-level-law-yla1-magistrates-and-juries-revision-notes": [
+"edexcel-a-level-law-yla1-magistrates-and-juries"
+],
+"edexcel-a-level-law-yla1-misrepresentation-and-mistake-revision-notes": [
+"edexcel-a-level-law-yla1-misrepresentation-and-mistake"
+],
+"edexcel-a-level-law-yla1-rules-of-statutory-interpretation-revision-notes": [
+"edexcel-a-level-law-yla1-rules-of-statutory-interpretation"
+],
+"edexcel-a-level-law-yla1-the-criminal-offender-revision-notes": [
+"edexcel-a-level-law-yla1-the-criminal-offender"
+],
+"edexcel-a-level-law-yla1-the-individual-revision-notes": [
+"edexcel-a-level-law-yla1-the-individual"
+],
+"edexcel-a-level-law-yla1-the-market-revision-notes": [
+"edexcel-a-level-law-yla1-the-market"
+],
+"edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law-revision-notes": [
+"edexcel-a-level-law-yla1-the-nature-purpose-of-and-liability-in-law"
+],
+"edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration-revision-notes": [
+"edexcel-a-level-law-yla1-the-sources-of-english-law-its-enforcement-and-administration"
+],
+"edexcel-a-level-law-yla1-trespass-to-land-revision-notes": [
+"edexcel-a-level-law-yla1-trespass-to-land"
+],
+"edexcel-a-level-urdu-language-aangan-revision-notes": [],
+"edexcel-a-level-urdu-language-attitudes-towards-immigration-revision-notes": [
+"edexcel-a-level-urdu-language-theme-3-study-guide"
+],
+"edexcel-a-level-urdu-language-baaghban-revision-notes": [],
+"edexcel-a-level-urdu-language-bajrangi-bhaijaan-revision-notes": [],
+"edexcel-a-level-urdu-language-bin-roye-revision-notes": [],
+"edexcel-a-level-urdu-language-bisaat-revision-notes": [],
+"edexcel-a-level-urdu-language-creation-of-pakistan-1947-revision-notes": [],
+"edexcel-a-level-urdu-language-emigration-from-pakistan-revision-notes": [
+"edexcel-a-level-urdu-language-theme-3-study-guide"
+],
+"edexcel-a-level-urdu-language-environmental-issues-in-pakistan-revision-notes": [],
+"edexcel-a-level-urdu-language-equal-access-to-education-revision-notes": [
+"edexcel-a-level-urdu-language-theme-1-study-guide"
+],
+"edexcel-a-level-urdu-language-family-revision-notes": [
+"edexcel-a-level-urdu-language-theme-1-study-guide"
+],
+"edexcel-a-level-urdu-language-feudal-system-revision-notes": [],
+"edexcel-a-level-urdu-language-folklore-and-tradition-revision-notes": [
+"edexcel-a-level-urdu-language-theme-2-study-guide"
+],
+"edexcel-a-level-urdu-language-media-revision-notes": [
+"edexcel-a-level-urdu-language-theme-2-study-guide"
+],
+"edexcel-a-level-urdu-language-patras-ke-mazameen-revision-notes": [],
+"edexcel-a-level-urdu-language-popular-culture-revision-notes": [
+"edexcel-a-level-urdu-language-theme-2-study-guide"
+],
+"edexcel-a-level-urdu-language-positive-features-of-a-diverse-society-revision-notes": [
+"edexcel-a-level-urdu-language-theme-3-study-guide"
+],
+"edexcel-a-level-urdu-language-work-revision-notes": [
+"edexcel-a-level-urdu-language-theme-1-study-guide"
+],
+"edexcel-a-level-urdu-listening-reading-writing-revision-notes": [],
+"edexcel-a-level-urdu-translation-revision-notes": [],
+"edexcel-a-level-urdu-translation-works-revision-notes": [
+"a-level-edexcel-urdu-translation-and-works"
+],
+"edexcel-ial-biology-proteins-enzymes-dna-protein-synthesis-and-inheritance-revision-notes": [
+"a-level-edexcel-biology-membranes-gas-exchange-and-osmosis"
+],
+"edexcel-ial-economics-inflation-employment-and-unemployment-revision-notes": [
+"a-level-edexcel-economics-economic-growth"
+],
+"edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts-revision-notes": [
+"edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts"
+],
+"edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing-revision-notes": [
+"edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing"
+],
+"edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts-revision-notes": [
+"edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts"
+],
+"edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts-revision-notes": [
+"edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts"
+],
+"edexcel-igcse-english-language-4ea1-section-b-imaginative-writing-revision-notes": [
+"edexcel-igcse-english-language-4ea1-section-b-imaginative-writing"
+],
+"edexcel-igcse-english-language-4ea1-section-b-transactional-writing-revision-notes": [
+"edexcel-igcse-english-language-4ea1-section-b-transactional-writing"
+],
+"edexcel-igcse-english-language-component-2-revision-notes": [
+"igcse-edexcel-english-language-component-2",
+"edexcel-igcse-english-language-4ea1-section-b-imaginative-writing",
+"edexcel-igcse-english-language-4ea1-section-a-poetry-and-prose-texts"
+],
+"edexcel-igcse-english-language-component-3-revision-notes": [
+"igcse-edexcel-english-language-component-3",
+"edexcel-igcse-english-language-4ea1-assignment-b-imaginative-writing",
+"edexcel-igcse-english-language-4ea1-assignment-a-poetry-and-prose-texts"
+],
+"edexcel-igcse-english-language-revision-notes": [
+"igcse-edexcel-english-language-component-1",
+"edexcel-igcse-english-language-4ea1-section-b-transactional-writing",
+"edexcel-igcse-english-language-4ea1-section-a-non-fiction-texts"
+],
+"edexcel-igcse-english-language-spoken-language-endorsement-revision-notes": [
+"edexcel-igcse-english-language-spoken-language-endorsement-study-guide"
+],
+"edexcel-igcse-english-literature-4et1-assignment-a-modern-drama-revision-notes": [
+"edexcel-igcse-english-literature-4et1-assignment-a-modern-drama"
+],
+"edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts-revision-notes": [
+"edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts"
+],
+"edexcel-igcse-english-literature-4et1-section-a-modern-drama-revision-notes": [
+"edexcel-igcse-english-literature-4et1-section-a-modern-drama"
+],
+"edexcel-igcse-english-literature-4et1-section-a-unseen-poetry-revision-notes": [
+"edexcel-igcse-english-literature-4et1-section-a-unseen-poetry"
+],
+"edexcel-igcse-english-literature-4et1-section-b-anthology-poetry-revision-notes": [
+"edexcel-igcse-english-literature-4et1-section-b-anthology-poetry"
+],
+"edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts-revision-notes": [
+"edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts"
+],
+"edexcel-igcse-english-literature-4et1-section-c-modern-prose-revision-notes": [
+"edexcel-igcse-english-literature-4et1-section-c-modern-prose"
+],
+"edexcel-igcse-english-literature-component-2-revision-notes": [
+"igcse-edexcel-english-literature-component-2",
+"edexcel-igcse-english-literature-4et1-section-b-literary-heritage-texts",
+"edexcel-igcse-english-literature-4et1-section-a-modern-drama"
+],
+"edexcel-igcse-english-literature-component-3-revision-notes": [
+"igcse-edexcel-english-literature-component-3",
+"edexcel-igcse-english-literature-4et1-assignment-b-literary-heritage-texts",
+"edexcel-igcse-english-literature-4et1-assignment-a-modern-drama"
+],
+"edexcel-igcse-physics-4ph1-change-of-state-revision-notes": [
+"edexcel-igcse-physics-4ph1-change-of-state"
+],
+"edexcel-igcse-physics-4ph1-cosmology-revision-notes": [
+"edexcel-igcse-physics-4ph1-cosmology"
+],
+"edexcel-igcse-physics-4ph1-density-and-pressure-revision-notes": [
+"edexcel-igcse-physics-4ph1-density-and-pressure"
+],
+"edexcel-igcse-physics-4ph1-electric-charge-revision-notes": [
+"edexcel-igcse-physics-4ph1-electric-charge"
+],
+"edexcel-igcse-physics-4ph1-electromagnetic-induction-revision-notes": [
+"edexcel-igcse-physics-4ph1-electromagnetic-induction"
+],
+"edexcel-igcse-physics-4ph1-electromagnetism-revision-notes": [
+"edexcel-igcse-physics-4ph1-electromagnetism"
+],
+"edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits-revision-notes": [
+"edexcel-igcse-physics-4ph1-energy-and-voltage-in-circuits"
+],
+"edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation-revision-notes": [
+"edexcel-igcse-physics-4ph1-energy-resources-and-electricity-generation"
+],
+"edexcel-igcse-physics-4ph1-energy-transfers-revision-notes": [
+"edexcel-igcse-physics-4ph1-energy-transfers"
+],
+"edexcel-igcse-physics-4ph1-fission-and-fusion-revision-notes": [
+"edexcel-igcse-physics-4ph1-fission-and-fusion"
+],
+"edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum-revision-notes": [
+"edexcel-igcse-physics-4ph1-forces-movement-shape-and-momentum"
+],
+"edexcel-igcse-physics-4ph1-ideal-gas-molecules-revision-notes": [
+"edexcel-igcse-physics-4ph1-ideal-gas-molecules"
+],
+"edexcel-igcse-physics-4ph1-light-and-sound-revision-notes": [
+"edexcel-igcse-physics-4ph1-light-and-sound"
+],
+"edexcel-igcse-physics-4ph1-magnetism-revision-notes": [
+"edexcel-igcse-physics-4ph1-magnetism"
+],
+"edexcel-igcse-physics-4ph1-mains-electricity-revision-notes": [
+"edexcel-igcse-physics-4ph1-mains-electricity"
+],
+"edexcel-igcse-physics-4ph1-motion-in-the-universe-revision-notes": [
+"edexcel-igcse-physics-4ph1-motion-in-the-universe"
+],
+"edexcel-igcse-physics-4ph1-movement-and-position-revision-notes": [
+"edexcel-igcse-physics-4ph1-movement-and-position"
+],
+"edexcel-igcse-physics-4ph1-properties-of-waves-revision-notes": [
+"edexcel-igcse-physics-4ph1-properties-of-waves"
+],
+"edexcel-igcse-physics-4ph1-radioactivity-revision-notes": [
+"edexcel-igcse-physics-4ph1-radioactivity"
+],
+"edexcel-igcse-physics-4ph1-stellar-evolution-revision-notes": [
+"edexcel-igcse-physics-4ph1-stellar-evolution"
+],
+"edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum-revision-notes": [
+"edexcel-igcse-physics-4ph1-the-electromagnetic-spectrum"
+],
+"edexcel-igcse-physics-4ph1-units-astrophysics-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-astrophysics"
+],
+"edexcel-igcse-physics-4ph1-units-electricity-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-electricity"
+],
+"edexcel-igcse-physics-4ph1-units-energy-resources-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-energy-resources"
+],
+"edexcel-igcse-physics-4ph1-units-forces-and-motion-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-forces-and-motion"
+],
+"edexcel-igcse-physics-4ph1-units-magnetism-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-magnetism"
+],
+"edexcel-igcse-physics-4ph1-units-radioactivity-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-radioactivity"
+],
+"edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-solids-liquids-and-gases"
+],
+"edexcel-igcse-physics-4ph1-units-waves-revision-notes": [
+"edexcel-igcse-physics-4ph1-units-waves"
+],
+"edexcel-igcse-physics-4ph1-work-and-power-revision-notes": [
+"edexcel-igcse-physics-4ph1-work-and-power"
+],
+"edexcel-igcse-world-history-breadth-study-america-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-america",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-britain-diversity-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-britain-diversity",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-china-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-china",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-international-organisations-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-international-organisations",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-japan-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-japan",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-medicine-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-medicine",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-middle-east-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-middle-east",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare"
+],
+"edexcel-igcse-world-history-breadth-study-warfare-revision-notes": [
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-civil-rights-usa-revision-notes": [
+"igcse-edexcel-world-history-civil-rights-usa",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship"
+],
+"edexcel-igcse-world-history-depth-studies-revision-notes": [
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-french-revolution-revision-notes": [
+"igcse-edexcel-world-history-french-revolution",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship"
+],
+"edexcel-igcse-world-history-germany-dictatorship-revision-notes": [
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-india-nationalist-challenge-revision-notes": [
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-investigation-east-germany-revision-notes": [
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-investigation-first-world-war-revision-notes": [
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-investigation-russia-soviet-union-revision-notes": [
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-investigation-usa-1918-41-revision-notes": [
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-investigation-vietnam-revision-notes": [
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-paper-2-revision-notes": [
+"igcse-edexcel-world-history-paper-2-investigation-breadth-studies",
+"igcse-edexcel-world-history-investigation-vietnam",
+"igcse-edexcel-world-history-investigation-usa-1918-41",
+"igcse-edexcel-world-history-investigation-russia-soviet-union",
+"igcse-edexcel-world-history-investigation-first-world-war",
+"igcse-edexcel-world-history-investigation-east-germany",
+"igcse-edexcel-world-history-breadth-study-warfare",
+"igcse-edexcel-world-history-breadth-study-middle-east"
+],
+"edexcel-igcse-world-history-south-africa-apartheid-revision-notes": [
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-superpower-relations-revision-notes": [
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-unification-of-italy-revision-notes": [
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"edexcel-igcse-world-history-ussr-dictatorship-conflict-revision-notes": [
+"igcse-edexcel-world-history-ussr-dictatorship-conflict",
+"igcse-edexcel-world-history-unification-of-italy",
+"igcse-edexcel-world-history-superpower-relations",
+"igcse-edexcel-world-history-south-africa-apartheid",
+"igcse-edexcel-world-history-paper-1-depth-studies",
+"igcse-edexcel-world-history-india-nationalist-challenge",
+"igcse-edexcel-world-history-germany-dictatorship",
+"igcse-edexcel-world-history-french-revolution"
+],
+"electrolysis-revision-notes": [
+"electrolysis-and-fuel-cells"
+],
+"energetics-revision-notes": [
+"exothermic-and-endothermic-reactions"
+],
+"energy-resources-revision-notes": [
+"energy-work-and-power",
+"energy-resources-and-efficiency"
+],
+"environmental-management-energy-management-and-fracking-revision-notes": [
+"igcse-cambridge-environmental-management-energy-management-and-fracking",
+"cambridge-igcse-environmental-management-0680-fracking",
+"cambridge-igcse-environmental-management-0680-conservation-and-management-of-energy-resources"
+],
+"environmental-management-land-revision-notes": [
+"igcse-cambridge-environmental-management-land",
+"cambridge-igcse-environmental-management-0680-soils-and-crop-growth",
+"cambridge-igcse-environmental-management-0680-soil-erosion",
+"cambridge-igcse-environmental-management-0680-food-production-and-crop-yield"
+],
+"environmental-management-natural-resources-revision-notes": [
+"igcse-cambridge-environmental-management-natural-resources",
+"cambridge-igcse-environmental-management-0680-sustainable-management-of-rocks-ores-and-minerals",
+"cambridge-igcse-environmental-management-0680-formation-of-rocks",
+"cambridge-igcse-environmental-management-0680-extraction-of-rocks-ores-and-minerals",
+"cambridge-igcse-environmental-management-0680-energy-resources"
+],
+"fuels-alkanes-and-alkenes-revision-notes": [
+"petroleum-alkanes-and-alkenes"
+],
+"gcse-english-language-paper-1-revision-notes": [
+"aqa-gcse-english-language-paper-1",
+"aqa-gcse-english-language-8700-evaluation-of-a-writers-choice-of-vocabulary-form-grammatical-and-structural-features",
+"aqa-gcse-english-language-8700-critical-reading-and-comprehension",
+"aqa-gcse-english-language-summary-and-synthesis"
+],
+"gcse-english-language-paper-2-revision-notes": [
+"aqa-gcse-english-language-paper-2",
+"aqa-gcse-english-language-8700-writing-for-impact",
+"aqa-gcse-english-language-8700-producing-clear-and-coherent-text",
+"aqa-gcse-english-language-8700-comparing-texts"
+],
+"gcse-english-language-spoken-language-revision-notes": [
+"aqa-gcse-english-language-spoken-language-study-guide",
+"aqa-gcse-english-language-8700-spoken-standard-english",
+"aqa-gcse-english-language-8700-responding-to-spoken-language",
+"aqa-gcse-english-language-8700-presenting-information-and-ideas"
+],
+"gcse-history-period-studies-revision-notes": [
+"gcse-history-period-studies-study-guide",
+"aqa-gcse-world-history-8145-stalins-modernisation",
+"aqa-gcse-world-history-8145-nazi-control-and-opposition",
+"aqa-gcse-world-history-8145-interpretation-questions",
+"aqa-gcse-world-history-8145-civil-rights-campaigns",
+"gcse-history-wider-world-depth-studies-study-guide",
+"gcse-history-understanding-the-modern-world-options",
+"aqa-gcse-world-history-8145-western-front-stalemate"
+],
+"gcse-history-shaping-the-nation-revision-notes": [
+"gcse-history-shaping-the-nation-options",
+"aqa-gcse-world-history-8145-health-revolution-in-medicine",
+"aqa-gcse-world-history-8145-elizabethan-religion-and-mary-queen-of-scots"
+],
+"gcse-history-understanding-modern-world-revision-notes": [
+"gcse-history-wider-world-depth-studies-study-guide",
+"gcse-history-understanding-the-modern-world-options",
+"gcse-history-period-studies-study-guide",
+"aqa-gcse-world-history-8145-western-front-stalemate",
+"aqa-gcse-world-history-8145-stalins-modernisation",
+"aqa-gcse-world-history-8145-source-analysis-and-usefulness",
+"aqa-gcse-world-history-8145-nazi-control-and-opposition",
+"aqa-gcse-world-history-8145-interpretation-questions"
+],
+"gcse-history-wider-world-depth-studies-revision-notes": [
+"gcse-history-wider-world-depth-studies-study-guide",
+"aqa-gcse-world-history-8145-western-front-stalemate",
+"aqa-gcse-world-history-8145-source-analysis-and-usefulness",
+"gcse-history-understanding-the-modern-world-options",
+"gcse-history-period-studies-study-guide",
+"aqa-gcse-world-history-8145-stalins-modernisation",
+"aqa-gcse-world-history-8145-nazi-control-and-opposition",
+"aqa-gcse-world-history-8145-interpretation-questions"
+],
+"gcse-psychology-cognition-revision-notes": [
+"aqa-gcse-psychology-cognition-and-behaviour",
+"aqa-gcse-psychology-research-methods",
+"aqa-gcse-psychology-8182-perception",
+"aqa-gcse-psychology-8182-memory",
+"aqa-gcse-psychology-8182-development"
+],
+"gcse-psychology-social-context-revision-notes": [
+"aqa-gcse-psychology-social-context-and-behaviour",
+"aqa-gcse-psychology-8182-social-influence",
+"aqa-gcse-psychology-8182-psychological-problems",
+"aqa-gcse-psychology-8182-language-thought-communication",
+"aqa-gcse-psychology-8182-brain-and-neuropsychology"
+],
+"gcse-sociology-crime-stratification-revision-notes": [
+"aqa-gcse-sociology-8192-crime-and-deviance",
+"aqa-gcse-sociology-8192-social-control",
+"aqa-gcse-sociology-8192-data-on-crime",
+"aqa-gcse-sociology-crime-and-stratification"
+],
+"global-perspectives-individual-report-revision-notes": [],
+"global-perspectives-revision-notes": [],
+"ib-dp-computer-science-assessment-revision-notes": [],
+"ib-dp-economics-measuring-activity-unemployment-and-inflation-revision-notes": [
+"ib-dp-economics-macroeconomics-measuring-and-managing-the-economy"
+],
+"ib-dp-environmental-systems-and-societies-assessment-revision-notes": [],
+"ib-dp-ess-atmosphere-climate-change-ozone-revision-notes": [
+"ib-dp-ess-atmosphere-climate-change-ozone"
+],
+"ib-dp-ess-biodiversity-conservation-revision-notes": [
+"ib-dp-ess-biodiversity-conservation"
+],
+"ib-dp-ess-climate-biomes-succession-revision-notes": [
+"ib-dp-ess-climate-biomes-succession"
+],
+"ib-dp-ess-ecosystems-energy-biogeochemical-cycles-revision-notes": [
+"ib-dp-ess-ecosystems-energy-biogeochemical-cycles"
+],
+"ib-dp-ess-foundation-perspectives-systems-sustainability-revision-notes": [
+"ib-dp-ess-foundation-perspectives-systems-sustainability"
+],
+"ib-dp-ess-human-populations-urban-systems-revision-notes": [
+"ib-dp-ess-human-populations-urban-systems"
+],
+"ib-dp-ess-natural-resources-energy-waste-revision-notes": [
+"ib-dp-ess-natural-resources-energy-waste"
+],
+"ib-dp-ess-soil-agriculture-food-revision-notes": [
+"ib-dp-ess-soil-agriculture-food"
+],
+"ib-dp-ess-topic-1-foundations-revision-notes": [
+"ib-dp-ess-topic-1-foundations"
+],
+"ib-dp-ess-topic-2-ecology-revision-notes": [
+"ib-dp-ess-topic-2-ecology"
+],
+"ib-dp-ess-water-systems-security-pollution-revision-notes": [
+"ib-dp-ess-water-systems-security-pollution"
+],
+"ib-dp-geography-assessment-revision-notes": [],
+"ib-dp-geography-extreme-environments-characteristics-of-extreme-environments-revision-notes": [
+"ib-ib-dp-geography-extreme-environments-study-guide"
+],
+"ib-dp-geography-extreme-environments-extreme-environments-futures-revision-notes": [
+"ib-ib-dp-geography-extreme-environments-study-guide"
+],
+"ib-dp-geography-extreme-environments-managing-extreme-environments-revision-notes": [
+"ib-ib-dp-geography-extreme-environments-study-guide"
+],
+"ib-dp-geography-extreme-environments-physical-processes-and-landscapes-revision-notes": [
+"ib-ib-dp-geography-extreme-environments-study-guide"
+],
+"ib-dp-geography-food-health-food-systems-and-spread-of-diseases-revision-notes": [
+"ib-ib-dp-geography-food-health-study-guide"
+],
+"ib-dp-geography-food-health-future-health-and-food-security-and-sustainability-revision-notes": [
+"ib-ib-dp-geography-food-health-study-guide"
+],
+"ib-dp-geography-food-health-measuring-food-and-health-revision-notes": [
+"ib-ib-dp-geography-food-health-study-guide"
+],
+"ib-dp-geography-food-health-stakeholders-in-food-and-health-revision-notes": [
+"ib-ib-dp-geography-food-health-study-guide"
+],
+"ib-dp-geography-freshwater-drainage-basin-hydrology-and-geomorphology-revision-notes": [
+"ib-ib-dp-geography-freshwater-study-guide"
+],
+"ib-dp-geography-freshwater-flooding-and-flood-mitigation-revision-notes": [
+"ib-ib-dp-geography-freshwater-study-guide"
+],
+"ib-dp-geography-freshwater-water-management-futures-revision-notes": [
+"ib-ib-dp-geography-freshwater-study-guide"
+],
+"ib-dp-geography-freshwater-water-scarcity-and-water-quality-revision-notes": [
+"ib-ib-dp-geography-freshwater-study-guide"
+],
+"ib-dp-geography-geophysical-hazards-future-resilience-and-adaptation-revision-notes": [
+"ib-ib-dp-geography-geophysical-hazards-study-guide"
+],
+"ib-dp-geography-geophysical-hazards-geophysical-hazard-risks-revision-notes": [
+"ib-ib-dp-geography-geophysical-hazards-study-guide"
+],
+"ib-dp-geography-geophysical-hazards-geophysical-systems-revision-notes": [
+"ib-ib-dp-geography-geophysical-hazards-study-guide"
+],
+"ib-dp-geography-geophysical-hazards-hazard-risk-and-vulnerability-revision-notes": [
+"ib-ib-dp-geography-geophysical-hazards-study-guide"
+],
+"ib-dp-geography-leisure-tourism-sport-changing-leisure-patterns-revision-notes": [
+"ib-ib-dp-geography-leisure-tourism-sport-study-guide"
+],
+"ib-dp-geography-leisure-tourism-sport-managing-tourism-and-sport-for-the-future-revision-notes": [
+"ib-ib-dp-geography-leisure-tourism-sport-study-guide"
+],
+"ib-dp-geography-leisure-tourism-sport-tourism-and-sport-at-the-international-scale-revision-notes": [
+"ib-ib-dp-geography-leisure-tourism-sport-study-guide"
+],
+"ib-dp-geography-leisure-tourism-sport-tourism-and-sport-at-the-local-and-national-scale-revision-notes": [
+"ib-ib-dp-geography-leisure-tourism-sport-study-guide"
+],
+"ib-dp-geography-oceans-coastal-margins-interactions-between-oceans-and-coastal-places-revision-notes": [
+"ib-ib-dp-geography-oceans-coastal-margins-study-guide"
+],
+"ib-dp-geography-oceans-coastal-margins-managing-coastal-margins-revision-notes": [
+"ib-ib-dp-geography-oceans-coastal-margins-study-guide"
+],
+"ib-dp-geography-oceans-coastal-margins-ocean-atmosphere-interactions-revision-notes": [
+"ib-ib-dp-geography-oceans-coastal-margins-study-guide"
+],
+"ib-dp-geography-oceans-coastal-margins-ocean-management-futures-revision-notes": [
+"ib-ib-dp-geography-oceans-coastal-margins-study-guide"
+],
+"ib-dp-global-politics-assessment-revision-notes": [],
+"ib-dp-global-politics-core-interdependence-revision-notes": [
+"ib-dp-global-politics-core-interdependence"
+],
+"ib-dp-global-politics-core-legitimacy-revision-notes": [
+"ib-dp-global-politics-core-legitimacy"
+],
+"ib-dp-global-politics-core-power-revision-notes": [
+"ib-dp-global-politics-core-power"
+],
+"ib-dp-global-politics-core-sovereignty-revision-notes": [
+"ib-dp-global-politics-core-sovereignty"
+],
+"ib-dp-global-politics-core-stakeholders-and-systems-revision-notes": [
+"ib-dp-global-politics-core-stakeholders-and-systems"
+],
+"ib-dp-global-politics-core-theoretical-perspectives-revision-notes": [
+"ib-dp-global-politics-core-theoretical-perspectives"
+],
+"ib-dp-global-politics-development-sustainability-revision-notes": [
+"ib-dp-global-politics-development-sustainability"
+],
+"ib-dp-global-politics-hl-global-political-challenges-revision-notes": [
+"ib-dp-global-politics-hl-global-political-challenges"
+],
+"ib-dp-global-politics-peace-conflict-revision-notes": [
+"ib-dp-global-politics-peace-conflict"
+],
+"ib-dp-global-politics-rights-justice-revision-notes": [
+"ib-dp-global-politics-rights-justice"
+],
+"ib-dp-history-assessment-revision-notes": [],
+"ib-dp-language-a-language-and-literature-assessment-revision-notes": [],
+"ib-dp-language-a-literature-assessment-revision-notes": [],
+"ib-dp-language-b-assessment-revision-notes": [],
+"ib-dp-language-b-conceptual-understanding-revision-notes": [
+"ib-dp-language-b-conceptual-understanding"
+],
+"ib-dp-language-b-experiences-revision-notes": [
+"ib-dp-language-b-experiences"
+],
+"ib-dp-language-b-human-ingenuity-revision-notes": [
+"ib-dp-language-b-human-ingenuity"
+],
+"ib-dp-language-b-identities-revision-notes": [
+"ib-dp-language-b-identities"
+],
+"ib-dp-language-b-individual-oral-revision-notes": [
+"ib-dp-language-b-individual-oral"
+],
+"ib-dp-language-b-paper-1-writing-text-types-revision-notes": [
+"ib-dp-language-b-paper-1-writing-text-types"
+],
+"ib-dp-language-b-paper-2-receptive-skills-revision-notes": [
+"ib-dp-language-b-paper-2-receptive-skills"
+],
+"ib-dp-language-b-sharing-the-planet-revision-notes": [
+"ib-dp-language-b-sharing-the-planet"
+],
+"ib-dp-language-b-social-organization-revision-notes": [
+"ib-dp-language-b-social-organization"
+],
+"ib-dp-psychology-assessment-revision-notes": [],
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1-revision-notes": [
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-1"
+],
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2-revision-notes": [
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-2"
+],
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3-revision-notes": [
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-3"
+],
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4-revision-notes": [
+"ib-ib-dp-computer-science-dp-computer-science-2014-dp-computer-science-2027-ib-dp-computer-science-a-4"
+],
+"ib-ib-dp-geography-building-sustainable-urban-systems-for-the-future-revision-notes": [
+"ib-ib-dp-geography-urban-environments-study-guide"
+],
+"ib-ib-dp-geography-causes-of-global-climate-change-revision-notes": [],
+"ib-ib-dp-geography-challenges-and-opportunities-revision-notes": [],
+"ib-ib-dp-geography-changing-identities-and-cultures-revision-notes": [
+"ib-ib-dp-geography-human-development-diversity-study-guide"
+],
+"ib-ib-dp-geography-changing-populations-and-places-revision-notes": [],
+"ib-ib-dp-geography-changing-urban-systems-revision-notes": [
+"ib-ib-dp-geography-urban-environments-study-guide"
+],
+"ib-ib-dp-geography-consequences-of-global-climate-change-revision-notes": [],
+"ib-ib-dp-geography-development-opportunities-revision-notes": [
+"ib-ib-dp-geography-human-development-diversity-study-guide"
+],
+"ib-ib-dp-geography-environmental-risks-revision-notes": [
+"ib-ib-dp-geography-global-risks-resilience-study-guide"
+],
+"ib-ib-dp-geography-fieldwork-internal-assessment-revision-notes": [
+"ib-ib-dp-geography-fieldwork-study-guide"
+],
+"ib-ib-dp-geography-geopolitical-and-economic-risks-revision-notes": [
+"ib-ib-dp-geography-global-risks-resilience-study-guide"
+],
+"ib-ib-dp-geography-global-interactions-and-global-power-revision-notes": [
+"ib-ib-dp-geography-power-places-networks-study-guide"
+],
+"ib-ib-dp-geography-global-networks-and-flows-revision-notes": [
+"ib-ib-dp-geography-power-places-networks-study-guide"
+],
+"ib-ib-dp-geography-global-trends-in-consumption-revision-notes": [
+"ib-ib-dp-geography-global-resource-consumption-study-guide"
+],
+"ib-ib-dp-geography-human-and-physical-influences-on-global-interactions-revision-notes": [
+"ib-ib-dp-geography-power-places-networks-study-guide"
+],
+"ib-ib-dp-geography-impacts-of-changing-trends-in-resource-consumption-revision-notes": [
+"ib-ib-dp-geography-global-resource-consumption-study-guide"
+],
+"ib-ib-dp-geography-local-and-global-resilience-revision-notes": [
+"ib-ib-dp-geography-global-risks-resilience-study-guide"
+],
+"ib-ib-dp-geography-local-responses-to-global-interactions-revision-notes": [
+"ib-ib-dp-geography-human-development-diversity-study-guide"
+],
+"ib-ib-dp-geography-population-and-economic-development-patterns-revision-notes": [],
+"ib-ib-dp-geography-resource-stewardship-revision-notes": [
+"ib-ib-dp-geography-global-resource-consumption-study-guide"
+],
+"ib-ib-dp-geography-responding-to-global-climate-change-revision-notes": [],
+"ib-ib-dp-geography-the-variety-of-urban-environments-revision-notes": [
+"ib-ib-dp-geography-urban-environments-study-guide"
+],
+"ib-ib-dp-geography-urban-environmental-and-social-stresses-revision-notes": [
+"ib-ib-dp-geography-urban-environments-study-guide"
+],
+"ib-ib-dp-psychology-abnormal-psychology-revision-notes": [
+"ib-ib-dp-psychology-abnormal-psychology-study-guide"
+],
+"ib-ib-dp-psychology-approaches-to-researching-behaviour-revision-notes": [
+"ib-ib-dp-psychology-approaches-to-researching-behaviour-study-guide"
+],
+"ib-ib-dp-psychology-developmental-psychology-revision-notes": [
+"ib-ib-dp-psychology-developmental-psychology-study-guide"
+],
+"ib-ib-dp-psychology-health-psychology-revision-notes": [
+"ib-ib-dp-psychology-health-psychology-study-guide"
+],
+"ib-ib-dp-psychology-psychology-of-human-relationships-revision-notes": [
+"ib-ib-dp-psychology-psychology-of-human-relationships-study-guide"
+],
+"ib-ib-dp-psychology-sociocultural-approach-revision-notes": [
+"ib-ib-dp-psychology-sociocultural-approach-study-guide"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-3-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-3"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-1"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-10"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-11"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-12"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-2"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8"
+],
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9-revision-notes": [
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9"
+],
+"ib-ib-dp-world-history-hl-options-depth-studies-revision-notes": [
+"ib-ib-dp-world-history-hl-options-depth-studies-study-guide",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-4",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-3",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-2",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-hl-options-depth-studies-1"
+],
+"ib-ib-dp-world-history-prescribed-subjects-revision-notes": [
+"ib-ib-dp-world-history-prescribed-subjects-study-guide",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-5",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-4",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-3",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-2",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-prescribed-subjects-1"
+],
+"ib-ib-dp-world-history-world-history-topics-revision-notes": [
+"ib-ib-dp-world-history-world-history-topics-study-guide",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-9",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-8",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-7",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-6",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-5",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-4",
+"ib-ib-dp-world-history-dp-history-ib-dp-world-history-world-history-topics-3"
+],
+"ib-myp-design-assessment-revision-notes": [],
+"ib-myp-design-criteria-in-practice-revision-notes": [
+"ib-myp-design-criteria-in-practice"
+],
+"ib-myp-design-criterion-a-inquiring-and-analysing-revision-notes": [
+"ib-myp-design-criterion-a-inquiring-and-analysing"
+],
+"ib-myp-design-criterion-b-developing-ideas-revision-notes": [
+"ib-myp-design-criterion-b-developing-ideas"
+],
+"ib-myp-design-criterion-c-creating-the-solution-revision-notes": [
+"ib-myp-design-criterion-c-creating-the-solution"
+],
+"ib-myp-design-criterion-d-evaluating-revision-notes": [
+"ib-myp-design-criterion-d-evaluating"
+],
+"ib-myp-design-design-cycle-revision-notes": [
+"ib-myp-design-design-cycle"
+],
+"ib-myp-design-global-contexts-and-design-situations-revision-notes": [
+"ib-myp-design-global-contexts-and-design-situations"
+],
+"ib-myp-design-key-and-related-concepts-revision-notes": [
+"ib-myp-design-key-and-related-concepts"
+],
+"ib-myp-design-product-and-digital-design-revision-notes": [
+"ib-myp-design-product-and-digital-design"
+],
+"ib-myp-design-sustainable-and-ethical-design-revision-notes": [
+"ib-myp-design-sustainable-and-ethical-design"
+],
+"ib-myp-individuals-and-societies-assessment-revision-notes": [],
+"ib-myp-individuals-and-societies-criteria-in-practice-revision-notes": [
+"ib-myp-individuals-and-societies-criteria-in-practice"
+],
+"ib-myp-individuals-and-societies-demographics-and-human-movements-revision-notes": [
+"ib-myp-individuals-and-societies-demographics-and-human-movements"
+],
+"ib-myp-individuals-and-societies-global-contexts-revision-notes": [
+"ib-myp-individuals-and-societies-global-contexts"
+],
+"ib-myp-individuals-and-societies-industrialization-and-technology-revision-notes": [
+"ib-myp-individuals-and-societies-industrialization-and-technology"
+],
+"ib-myp-individuals-and-societies-key-concepts-revision-notes": [
+"ib-myp-individuals-and-societies-key-concepts"
+],
+"ib-myp-individuals-and-societies-rights-and-social-protest-revision-notes": [
+"ib-myp-individuals-and-societies-rights-and-social-protest"
+],
+"ib-myp-individuals-and-societies-settlement-and-urban-morphology-revision-notes": [
+"ib-myp-individuals-and-societies-settlement-and-urban-morphology"
+],
+"ib-myp-individuals-and-societies-superpowers-empires-alliances-revision-notes": [
+"ib-myp-individuals-and-societies-superpowers-empires-alliances"
+],
+"ib-myp-individuals-and-societies-trade-aid-and-exchange-revision-notes": [
+"ib-myp-individuals-and-societies-trade-aid-and-exchange"
+],
+"ib-myp-individuals-and-societies-warfare-and-peacekeeping-revision-notes": [
+"ib-myp-individuals-and-societies-warfare-and-peacekeeping"
+],
+"ib-myp-individuals-societies-disciplines-revision-notes": [
+"ib-myp-individuals-societies-disciplines"
+],
+"ib-myp-language-acquisition-assessment-revision-notes": [],
+"ib-myp-language-acquisition-criteria-in-practice-revision-notes": [
+"ib-myp-language-acquisition-criteria-in-practice"
+],
+"ib-myp-language-acquisition-criterion-a-listening-revision-notes": [
+"ib-myp-language-acquisition-criterion-a-listening"
+],
+"ib-myp-language-acquisition-criterion-b-reading-revision-notes": [
+"ib-myp-language-acquisition-criterion-b-reading"
+],
+"ib-myp-language-acquisition-criterion-c-speaking-revision-notes": [
+"ib-myp-language-acquisition-criterion-c-speaking"
+],
+"ib-myp-language-acquisition-criterion-d-writing-revision-notes": [
+"ib-myp-language-acquisition-criterion-d-writing"
+],
+"ib-myp-language-acquisition-global-contexts-and-topics-revision-notes": [
+"ib-myp-language-acquisition-global-contexts-and-topics"
+],
+"ib-myp-language-acquisition-key-and-related-concepts-revision-notes": [
+"ib-myp-language-acquisition-key-and-related-concepts"
+],
+"ib-myp-language-acquisition-multimodal-texts-and-visuals-revision-notes": [
+"ib-myp-language-acquisition-multimodal-texts-and-visuals"
+],
+"ib-myp-language-acquisition-proficiency-phases-revision-notes": [
+"ib-myp-language-acquisition-proficiency-phases"
+],
+"ib-myp-language-acquisition-text-types-and-conventions-revision-notes": [
+"ib-myp-language-acquisition-text-types-and-conventions"
+],
+"ib-myp-sciences-assessment-revision-notes": [],
+"ib-myp-sciences-atomic-structure-and-bonding-revision-notes": [
+"ib-myp-sciences-atomic-structure-and-bonding"
+],
+"ib-myp-sciences-cells-and-organisms-revision-notes": [
+"ib-myp-sciences-cells-and-organisms"
+],
+"ib-myp-sciences-course-models-revision-notes": [
+"ib-myp-sciences-course-models"
+],
+"ib-myp-sciences-criteria-in-practice-revision-notes": [
+"ib-myp-sciences-criteria-in-practice"
+],
+"ib-myp-sciences-cycles-revision-notes": [
+"ib-myp-sciences-cycles"
+],
+"ib-myp-sciences-electromagnetism-and-waves-revision-notes": [
+"ib-myp-sciences-electromagnetism-and-waves"
+],
+"ib-myp-sciences-evolution-and-interactions-revision-notes": [
+"ib-myp-sciences-evolution-and-interactions"
+],
+"ib-myp-sciences-forces-revision-notes": [
+"ib-myp-sciences-forces"
+],
+"ib-myp-sciences-global-contexts-revision-notes": [
+"ib-myp-sciences-global-contexts"
+],
+"ib-myp-sciences-key-concepts-revision-notes": [
+"ib-myp-sciences-key-concepts"
+],
+"ib-myp-sciences-metabolism-revision-notes": [
+"ib-myp-sciences-metabolism"
+],
+"ib-myp-sciences-states-and-properties-of-matter-revision-notes": [
+"ib-myp-sciences-states-and-properties-of-matter"
+],
+"identification-tests-revision-notes": [
+"identification-of-ions-and-gases"
+],
+"igcse-cambridge-islamiyat-paper-2-revision-notes": [
+"igcse-cambridge-islamiyat-paper-2"
+],
+"igcse-cambridge-sociology-crime-patterns-and-punishment-revision-notes": [
+"igcse-cambridge-sociology-family-education-crime",
+"cambridge-igcse-sociology-0495-kq-6-3",
+"cambridge-igcse-sociology-0495-kq-6-2"
+],
+"igcse-cambridge-sociology-positivism-and-interpretivism-revision-notes": [
+"igcse-cambridge-sociology-research-approaches-data-and-investigation",
+"cambridge-igcse-sociology-0495-kq-1-1"
+],
+"igcse-cambridge-sociology-reducing-inequality-and-globalisation-revision-notes": [
+"igcse-cambridge-sociology-reducing-inequality-and-globalisation"
+],
+"igcse-cambridge-sociology-social-control-and-identity-revision-notes": [
+"igcse-sociology-research-methods-identity-and-inequality",
+"igcse-cambridge-sociology-social-identity",
+"cambridge-igcse-sociology-0495-kq-2-2"
+],
+"igcse-cambridge-urdu-paper-2-listening-revision-notes": [
+"igcse-cambridge-urdu-paper-2-listening"
+],
+"igcse-commerce-aids-to-trade-revision-notes": [
+"cambridge-igcse-commerce-aids-to-trade-that-support-commerce-study-guide"
+],
+"igcse-commerce-globalisation-of-trade-revision-notes": [
+"igcse-cambridge-commerce-globalisation-of-trade",
+"cambridge-igcse-commerce-0715-international-trade",
+"cambridge-igcse-commerce-0715-global-supply-chain-management"
+],
+"igcse-commerce-logistics-in-commerce-revision-notes": [
+"cambridge-igcse-commerce-logistics-in-commerce-study-guide"
+],
+"igcse-commerce-outsourcing-wholesaling-and-communication-revision-notes": [
+"igcse-cambridge-commerce-outsourcing-and-wholesaling",
+"igcse-cambridge-commerce-commercial-operations",
+"cambridge-igcse-commerce-0715-wholesaling",
+"cambridge-igcse-commerce-0715-outsourcing",
+"cambridge-igcse-commerce-0715-communication-0715-commerce"
+],
+"igcse-commerce-production-revision-notes": [
+"igcse-cambridge-commerce-commerce-and-production",
+"igcse-cambridge-commerce-outsourcing-and-wholesaling",
+"cambridge-igcse-commerce-0715-wholesaling",
+"cambridge-igcse-commerce-0715-trade-and-commerce",
+"cambridge-igcse-commerce-0715-production"
+],
+"igcse-commerce-sustainability-and-ethics-revision-notes": [
+"cambridge-igcse-commerce-sustainability-and-ethics-study-guide"
+],
+"igcse-computer-science-algorithm-design-revision-notes": [
+"cambridge-igcse-computer-science-algorithm-design-and-problem-solving-study-guide"
+],
+"igcse-computer-science-automated-and-emerging-technologies-revision-notes": [
+"cambridge-igcse-computer-science-automated-and-emerging-technologies-study-guide"
+],
+"igcse-computer-science-boolean-logic-revision-notes": [
+"cambridge-igcse-computer-science-boolean-logic-study-guide"
+],
+"igcse-computer-science-databases-revision-notes": [
+"cambridge-igcse-computer-science-databases-study-guide"
+],
+"igcse-computer-science-internet-and-its-uses-revision-notes": [
+"cambridge-igcse-computer-science-the-internet-and-its-uses-study-guide"
+],
+"igcse-computer-science-programming-revision-notes": [
+"cambridge-igcse-computer-science-programming-study-guide"
+],
+"igcse-computer-science-software-revision-notes": [
+"cambridge-igcse-computer-science-software-study-guide"
+],
+"igcse-english-literature-component-5-coursework-revision-notes": [
+"cambridge-igcse-english-literature-component-5-coursework-study-guide"
+],
+"igcse-english-literature-paper-3-drama-revision-notes": [
+"igcse-english-literature-paper-3-drama-open-text"
+],
+"igcse-environmental-management-atmosphere-revision-notes": [
+"cambridge-igcse-environmental-management-the-atmosphere-and-human-activities-study-guide",
+"cambridge-igcse-environmental-management-0680-the-atmosphere",
+"cambridge-igcse-environmental-management-0680-ozone-depletion",
+"cambridge-igcse-environmental-management-0680-climate-change",
+"cambridge-igcse-environmental-management-0680-acid-rain"
+],
+"igcse-environmental-management-ecosystems-revision-notes": [
+"cambridge-igcse-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide",
+"cambridge-igcse-environmental-management-0680-managing-biodiversity",
+"cambridge-igcse-environmental-management-0680-forest-ecosystems",
+"cambridge-igcse-environmental-management-0680-fieldwork-investigations",
+"cambridge-igcse-environmental-management-0680-ecosystems"
+],
+"igcse-environmental-management-human-population-revision-notes": [
+"cambridge-igcse-environmental-management-human-population-study-guide",
+"cambridge-igcse-environmental-management-0680-managing-human-population-size",
+"cambridge-igcse-environmental-management-0680-human-population-size",
+"cambridge-igcse-environmental-management-0680-human-population-density-distribution-and-structure"
+],
+"igcse-environmental-management-natural-hazards-revision-notes": [
+"cambridge-igcse-environmental-management-natural-hazards-study-guide",
+"cambridge-igcse-environmental-management-0680-tropical-cyclones",
+"cambridge-igcse-environmental-management-0680-flooding",
+"cambridge-igcse-environmental-management-0680-earthquakes-and-volcanoes",
+"cambridge-igcse-environmental-management-0680-drought"
+],
+"igcse-environmental-management-water-revision-notes": [
+"igcse-cambridge-environmental-management-water",
+"cambridge-igcse-environmental-management-0680-water-sources-and-supply",
+"cambridge-igcse-environmental-management-0680-water-related-diseases",
+"cambridge-igcse-environmental-management-0680-water-pollution",
+"cambridge-igcse-environmental-management-0680-plastic-pollution",
+"cambridge-igcse-environmental-management-0680-oil-pollution",
+"cambridge-igcse-environmental-management-0680-marine-aquaculture"
+],
+"igcse-geography-0460-climate-natural-vegetation-revision-notes": [
+"igcse-geography-climate-and-natural-vegetation"
+],
+"igcse-geography-0460-coasts-revision-notes": [
+"igcse-geography-coasts"
+],
+"igcse-geography-0460-earthquakes-volcanoes-revision-notes": [
+"igcse-geography-earthquakes-and-volcanoes"
+],
+"igcse-geography-0460-migration-revision-notes": [],
+"igcse-geography-0460-population-density-distribution-revision-notes": [],
+"igcse-geography-0460-population-dynamics-revision-notes": [],
+"igcse-geography-0460-population-structure-revision-notes": [],
+"igcse-geography-0460-rivers-revision-notes": [
+"igcse-geography-rivers"
+],
+"igcse-geography-0460-settlements-service-provision-revision-notes": [],
+"igcse-geography-0460-urban-settlements-revision-notes": [],
+"igcse-geography-0460-urbanisation-revision-notes": [],
+"igcse-geography-0460-weather-revision-notes": [
+"igcse-geography-weather"
+],
+"igcse-geography-natural-environment-revision-notes": [
+"igcse-cambridge-geography-natural-environment"
+],
+"igcse-geography-population-settlement-revision-notes": [
+"igcse-geography-population-and-settlement"
+],
+"igcse-global-perspectives-0457-arts-in-society-revision-notes": [
+"igcse-global-perspectives-0457-arts-in-society"
+],
+"igcse-global-perspectives-0457-change-in-culture-and-communities-revision-notes": [
+"igcse-global-perspectives-0457-change-in-culture-and-communities"
+],
+"igcse-global-perspectives-0457-climate-change-energy-and-resources-revision-notes": [
+"igcse-global-perspectives-0457-climate-change-energy-and-resources"
+],
+"igcse-global-perspectives-0457-conflict-and-peace-revision-notes": [
+"igcse-global-perspectives-0457-conflict-and-peace"
+],
+"igcse-global-perspectives-0457-development-trade-and-aid-revision-notes": [
+"igcse-global-perspectives-0457-development-trade-and-aid"
+],
+"igcse-global-perspectives-0457-digital-world-revision-notes": [
+"igcse-global-perspectives-0457-digital-world"
+],
+"igcse-global-perspectives-0457-education-for-all-revision-notes": [
+"igcse-global-perspectives-0457-education-for-all"
+],
+"igcse-global-perspectives-0457-employment-revision-notes": [
+"igcse-global-perspectives-0457-employment"
+],
+"igcse-global-perspectives-0457-environment-pollution-and-conservation-revision-notes": [
+"igcse-global-perspectives-0457-environment-pollution-and-conservation"
+],
+"igcse-global-perspectives-0457-globalisation-revision-notes": [
+"igcse-global-perspectives-0457-globalisation"
+],
+"igcse-global-perspectives-0457-health-and-wellbeing-revision-notes": [
+"igcse-global-perspectives-0457-health-and-wellbeing"
+],
+"igcse-global-perspectives-0457-law-and-criminality-revision-notes": [
+"igcse-global-perspectives-0457-law-and-criminality"
+],
+"igcse-global-perspectives-0457-media-and-communication-revision-notes": [
+"igcse-global-perspectives-0457-media-and-communication"
+],
+"igcse-global-perspectives-0457-migration-and-urbanisation-revision-notes": [
+"igcse-global-perspectives-0457-migration-and-urbanisation"
+],
+"igcse-global-perspectives-0457-political-power-and-action-revision-notes": [
+"igcse-global-perspectives-0457-political-power-and-action"
+],
+"igcse-global-perspectives-0457-poverty-and-inequality-revision-notes": [
+"igcse-global-perspectives-0457-poverty-and-inequality"
+],
+"igcse-global-perspectives-0457-social-identity-and-inclusion-revision-notes": [
+"igcse-global-perspectives-0457-social-identity-and-inclusion"
+],
+"igcse-global-perspectives-0457-sport-and-recreation-revision-notes": [
+"igcse-global-perspectives-0457-sport-and-recreation"
+],
+"igcse-global-perspectives-0457-technology-industry-and-innovation-revision-notes": [
+"igcse-global-perspectives-0457-technology-industry-and-innovation"
+],
+"igcse-global-perspectives-0457-transport-travel-and-tourism-revision-notes": [
+"igcse-global-perspectives-0457-transport-travel-and-tourism"
+],
+"igcse-global-perspectives-0457-values-and-beliefs-revision-notes": [
+"igcse-global-perspectives-0457-values-and-beliefs"
+],
+"igcse-global-perspectives-0457-water-food-and-agriculture-revision-notes": [
+"igcse-global-perspectives-0457-water-food-and-agriculture"
+],
+"igcse-global-perspectives-team-project-revision-notes": [],
+"igcse-ict-computer-systems-revision-notes": [
+"igcse-cambridge-ict-computer-systems"
+],
+"igcse-ict-input-output-devices-revision-notes": [
+"igcse-cambridge-ict-input-output-devices"
+],
+"igcse-ict-networks-and-effects-revision-notes": [
+"igcse-ict-networks",
+"igcse-ict-network-issues-and-communication"
+],
+"igcse-ict-operating-systems-types-of-computer-emerging-technologies-revision-notes": [
+"igcse-cambridge-ict-computer-systems"
+],
+"igcse-islamiyat-muslim-life-revision-notes": [
+"igcse-oxfordaqa-islamiyat-living-muslim-life",
+"oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr",
+"oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan"
+],
+"igcse-oxfordaqa-english-literature-poetry-unseen-revision-notes": [
+"igcse-oxfordaqa-english-literature-poetry-and-unseen-texts",
+"oxfordaqa-igcse-english-literature-9275-unseen-prose",
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry",
+"oxfordaqa-igcse-english-literature-9275-poetry"
+],
+"igcse-oxfordaqa-english-literature-route-b-revision-notes": [
+"oxfordaqa-igcse-english-literature-route-b-poetry-and-non-exam-assessment-study-guide",
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b",
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry",
+"oxfordaqa-igcse-english-literature-9275-poetry-route-b",
+"oxfordaqa-igcse-english-literature-9275-poetry",
+"oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b"
+],
+"igcse-oxfordaqa-geography-physical-environment-revision-notes": [
+"oxfordaqa-igcse-geography-9230-ecosystems",
+"oxfordaqa-igcse-geography-9230-coastal-processes-landforms",
+"oxfordaqa-igcse-geography-9230-climate-change",
+"igcse-oxfordaqa-geography-living-with-the-physical-environment"
+],
+"igcse-oxfordaqa-geography-urban-issues-revision-notes": [
+"igcse-oxfordaqa-geography-urban-issues-and-challenges"
+],
+"igcse-oxfordaqa-islamiyat-beliefs-and-teachings-revision-notes": [
+"igcse-oxfordaqa-islamiyat-beliefs-and-teachings"
+],
+"igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad-revision-notes": [
+"igcse-oxfordaqa-islamiyat-life-and-teachings-of-hazrat-muhammad"
+],
+"igcse-oxfordaqa-islamiyat-sources-of-authority-revision-notes": [
+"igcse-oxfordaqa-islamiyat-sources-of-authority"
+],
+"igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-globalisation-transport-and-communication"
+],
+"igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-islam-in-the-subcontinent"
+],
+"igcse-oxfordaqa-pakistan-studies-landscape-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-landscape-and-natural-resources"
+],
+"igcse-oxfordaqa-pakistan-studies-mughal-empire-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-mughal-empire"
+],
+"igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-pakistan-into-the-21st-century"
+],
+"igcse-oxfordaqa-pakistan-studies-people-and-economy-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-people-and-economy"
+],
+"igcse-oxfordaqa-pakistan-studies-sustainable-future-revision-notes": [
+"igcse-oxfordaqa-pakistan-studies-sustainable-future"
+],
+"igcse-oxfordaqa-psychology-communication-mental-health-revision-notes": [
+"igcse-oxfordaqa-psychology-mental-health",
+"igcse-oxfordaqa-psychology-communication"
+],
+"igcse-oxfordaqa-psychology-conformity-obedience-revision-notes": [
+"igcse-oxfordaqa-psychology-conformity-and-obedience"
+],
+"igcse-oxfordaqa-sociology-differences-and-inequalities-revision-notes": [
+"igcse-oxfordaqa-sociology-differences-and-inequalities"
+],
+"igcse-oxfordaqa-sociology-revision-notes": [
+"igcse-oxfordaqa-sociology-introducing-sociology",
+"oxfordaqa-igcse-sociology-9292-research-methods",
+"oxfordaqa-igcse-sociology-9292-research-methods-paper2",
+"oxfordaqa-igcse-sociology-9292-families",
+"oxfordaqa-igcse-sociology-9292-education"
+],
+"igcse-oxfordaqa-sociology-socialisation-revision-notes": [
+"igcse-oxfordaqa-sociology-socialisation"
+],
+"igcse-oxfordaqa-urdu-local-national-international-revision-notes": [
+"igcse-oxfordaqa-urdu-local-national-international"
+],
+"igcse-oxfordaqa-urdu-study-employment-revision-notes": [
+"igcse-oxfordaqa-urdu-study-employment"
+],
+"igcse-oxfordaqa-world-history-societies-in-change-revision-notes": [
+"igcse-oxfordaqa-world-history-societies-in-change-study-guide",
+"oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949",
+"oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism",
+"igcse-oxfordaqa-world-history-thematic-studies-study-guide",
+"igcse-oxfordaqa-world-history-studies-in-change"
+],
+"igcse-oxfordaqa-world-history-thematic-studies-revision-notes": [
+"igcse-oxfordaqa-world-history-thematic-studies-study-guide",
+"oxfordaqa-igcse-world-history-9245-printing-revolution",
+"oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine",
+"igcse-oxfordaqa-world-history-studies-in-change",
+"igcse-oxfordaqa-world-history-societies-in-change-study-guide"
+],
+"igcse-pakistan-studies-agricultural-development-revision-notes": [
+"igcse-cambridge-pakistan-studies-agricultural-development"
+],
+"igcse-pakistan-studies-industrial-development-revision-notes": [
+"igcse-cambridge-pakistan-studies-industrial-development"
+],
+"igcse-pakistan-studies-natural-resources-revision-notes": [
+"igcse-cambridge-pakistan-studies-natural-resources"
+],
+"igcse-pakistan-studies-population-and-employment-revision-notes": [
+"igcse-cambridge-pakistan-studies-population-and-employment"
+],
+"igcse-pakistan-studies-power-revision-notes": [
+"igcse-cambridge-pakistan-studies-power"
+],
+"igcse-pakistan-studies-trade-transport-and-telecommunications-revision-notes": [
+"igcse-cambridge-pakistan-studies-trade-transport-and-telecommunications",
+"cambridge-igcse-pakistan-studies-0448-transport-and-telecommunications",
+"cambridge-igcse-pakistan-studies-0448-trade"
+],
+"igcse-psychology-cognition-revision-notes": [
+"igcse-oxfordaqa-psychology-cognition-and-behaviour",
+"oxfordaqa-igcse-psychology-9218-research-methods-paper2",
+"oxfordaqa-igcse-psychology-9218-research-methods",
+"oxfordaqa-igcse-psychology-9218-perception",
+"oxfordaqa-igcse-psychology-9218-memory",
+"oxfordaqa-igcse-psychology-9218-biopsychology"
+],
+"igcse-sociology-methods-inequality-revision-notes": [
+"igcse-sociology-research-methods-identity-and-inequality",
+"igcse-cambridge-sociology-research-approaches-data-and-investigation",
+"cambridge-igcse-sociology-0495-kq-3-1",
+"cambridge-igcse-sociology-0495-kq-2-1",
+"cambridge-igcse-sociology-0495-kq-1-3",
+"cambridge-igcse-sociology-0495-kq-1-2"
+],
+"igcse-urdu-identity-culture-revision-notes": [
+"igcse-oxfordaqa-urdu-identity-and-culture"
+],
+"igcse-world-history-international-relations-revision-notes": [
+"igcse-oxfordaqa-world-history-international-relations-depth-studies",
+"oxfordaqa-igcse-world-history-9245-wider-peace-settlement",
+"oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question",
+"oxfordaqa-igcse-world-history-9245-source-question-4",
+"oxfordaqa-igcse-world-history-9245-paper-1-section-b",
+"oxfordaqa-igcse-world-history-9245-paper-1-section-a"
+],
+"igcse-world-history-nineteenth-century-revision-notes": [
+"igcse-world-history-nineteenth-century-1848-1914",
+"cambridge-igcse-world-history-0470-unification-italy",
+"cambridge-igcse-world-history-0470-unification-germany",
+"cambridge-igcse-world-history-0470-revolutions-1848",
+"cambridge-igcse-world-history-0470-causes-first-world-war"
+],
+"igcse-world-history-twentieth-century-revision-notes": [
+"igcse-world-history-twentieth-century-1919-1989",
+"cambridge-igcse-world-history-0470-ussr-control-eastern-europe",
+"cambridge-igcse-world-history-0470-treaty-of-versailles",
+"cambridge-igcse-world-history-0470-league-of-nations-success",
+"cambridge-igcse-world-history-0470-hitlers-foreign-policy",
+"cambridge-igcse-world-history-0470-blame-cold-war"
+],
+"ionic-covalent-metallic-bonding-revision-notes": [
+"ionic-covalent-and-metallic-bonding"
+],
+"islamiyat-paper-1-revision-notes": [
+"igcse-islamiyat-paper-1",
+"cambridge-igcse-islamiyat-0493-life-prophet",
+"cambridge-igcse-islamiyat-0493-history-importance-quran",
+"cambridge-igcse-islamiyat-0493-first-islamic-community"
+],
+"measurement-and-density-revision-notes": [
+"measurement-mass-weight-and-density",
+"kinematics"
+],
+"metals-reactivity-revision-notes": [
+"metal-properties-and-reactivity"
+],
+"moments-and-stability-revision-notes": [
+"forces-and-motion",
+"elastic-deformation-moments-and-centre-of-gravity"
+],
+"o-level-cambridge-urdu-first-and-second-language-revision-notes": [
+"o-level-cambridge-urdu-first-and-second-language"
+],
+"o-level-commerce-aids-to-trade-revision-notes": [
+"cambridge-o-level-commerce-aids-to-trade-that-support-commerce-study-guide"
+],
+"o-level-commerce-commercial-operations-revision-notes": [
+"o-level-cambridge-commerce-commercial-operations",
+"cambridge-o-level-commerce-7100-trading-documents",
+"cambridge-o-level-commerce-7100-retailing",
+"cambridge-o-level-commerce-7100-commercial-enterprises"
+],
+"o-level-commerce-globalisation-of-trade-revision-notes": [
+"cambridge-o-level-commerce-globalisation-of-trade"
+],
+"o-level-commerce-logistics-in-commerce-revision-notes": [
+"cambridge-o-level-commerce-logistics-in-commerce-study-guide"
+],
+"o-level-commerce-outsourcing-wholesaling-and-communication-revision-notes": [
+"o-level-cambridge-commerce-outsourcing-wholesaling-and-communication",
+"o-level-cambridge-commerce-commercial-operations",
+"cambridge-o-level-commerce-7100-wholesaling",
+"cambridge-o-level-commerce-7100-outsourcing",
+"cambridge-o-level-commerce-7100-communication-7100-commerce"
+],
+"o-level-commerce-production-revision-notes": [
+"o-level-cambridge-commerce-commerce-and-production",
+"cambridge-o-level-commerce-7100-trade-and-commerce",
+"cambridge-o-level-commerce-7100-production"
+],
+"o-level-commerce-sustainability-and-ethics-revision-notes": [
+"cambridge-o-level-commerce-sustainability-and-ethics-study-guide"
+],
+"o-level-computer-science-data-representation-revision-notes": [
+"o-level-cambridge-computer-science-data-representation"
+],
+"o-level-computer-science-data-transmission-revision-notes": [
+"o-level-cambridge-computer-science-data-transmission"
+],
+"o-level-english-language-revision-notes": [
+"o-level-english-language-paper-1-reading",
+"o-level-cambridge-english-language-reading-and-writing",
+"cambridge-o-level-english-language-1123-question-3a-summary",
+"cambridge-o-level-english-language-1123-question-2-use-of-language",
+"cambridge-o-level-english-language-1123-question-1-comprehension"
+],
+"o-level-english-paper-2-writing-revision-notes": [
+"o-level-english-language-paper-2-writing",
+"cambridge-o-level-english-language-1123-narrative-composition",
+"cambridge-o-level-english-language-1123-directed-writing",
+"cambridge-o-level-english-language-1123-descriptive-composition"
+],
+"o-level-environmental-management-atmosphere-revision-notes": [
+"cambridge-o-level-environmental-management-the-atmosphere-and-human-activities-study-guide"
+],
+"o-level-environmental-management-ecosystems-revision-notes": [
+"cambridge-o-level-environmental-management-ecosystems-biodiversity-and-fieldwork-study-guide"
+],
+"o-level-environmental-management-energy-resources-revision-notes": [
+"o-level-cambridge-environmental-management-energy-resources"
+],
+"o-level-environmental-management-energy-revision-notes": [
+"o-level-cambridge-environmental-management-energy-and-the-environment"
+],
+"o-level-environmental-management-human-population-revision-notes": [
+"cambridge-o-level-environmental-management-human-population-study-guide"
+],
+"o-level-environmental-management-land-revision-notes": [
+"cambridge-o-level-environmental-management-land"
+],
+"o-level-environmental-management-natural-hazards-revision-notes": [
+"cambridge-o-level-environmental-management-natural-hazards-study-guide"
+],
+"o-level-environmental-management-rocks-ores-minerals-revision-notes": [
+"o-level-cambridge-environmental-management-rocks-ores-and-minerals"
+],
+"o-level-environmental-management-rocks-revision-notes": [
+"o-level-cambridge-environmental-management-rocks-and-minerals"
+],
+"o-level-environmental-management-water-revision-notes": [
+"cambridge-o-level-environmental-management-water-study-guide"
+],
+"o-level-geography-population-revision-notes": [
+"o-level-geography-population-and-settlement"
+],
+"o-level-islamiyat-paper-1-revision-notes": [
+"o-level-islamiyat-paper-1"
+],
+"o-level-islamiyat-paper-2-revision-notes": [
+"o-level-islamiyat-paper-2"
+],
+"o-level-pakistan-studies-agricultural-development-revision-notes": [
+"o-level-pakistan-studies-agricultural-development"
+],
+"o-level-pakistan-studies-emergence-of-pakistan-1906-47-revision-notes": [
+"o-level-pakistan-studies-emergence-of-pakistan-1906-47"
+],
+"o-level-pakistan-studies-industrial-development-revision-notes": [
+"o-level-pakistan-studies-industrial-development"
+],
+"o-level-pakistan-studies-land-revision-notes": [
+"o-level-pakistan-studies-land-of-pakistan"
+],
+"o-level-pakistan-studies-nationhood-1947-99-revision-notes": [
+"o-level-pakistan-studies-nationhood-1947-99"
+],
+"o-level-pakistan-studies-natural-resources-revision-notes": [
+"o-level-pakistan-studies-natural-resources"
+],
+"o-level-pakistan-studies-population-and-employment-revision-notes": [
+"o-level-pakistan-studies-population-and-employment"
+],
+"o-level-pakistan-studies-power-revision-notes": [
+"o-level-pakistan-studies-power"
+],
+"o-level-pakistan-studies-trade-revision-notes": [
+"o-level-pakistan-studies-trade"
+],
+"o-level-pakistan-studies-transport-and-telecommunications-revision-notes": [
+"o-level-pakistan-studies-transport-and-telecommunications"
+],
+"o-level-sociology-crime-patterns-and-punishment-revision-notes": [
+"o-level-sociology-crime-patterns-and-punishment"
+],
+"o-level-sociology-family-education-crime-revision-notes": [
+"o-level-sociology-family-education-crime"
+],
+"o-level-sociology-methods-revision-notes": [
+"o-level-sociology-research-methods-identity-and-inequality",
+"cambridge-o-level-sociology-social-stratification-and-inequality",
+"o-level-sociology-research-approaches-and-data",
+"o-level-sociology-learning-and-influences-on-identity",
+"cambridge-o-level-sociology-2251-kq-2-1",
+"cambridge-o-level-sociology-2251-kq-1-3",
+"cambridge-o-level-sociology-2251-kq-1-2"
+],
+"o-level-sociology-positivism-and-interpretivism-revision-notes": [
+"o-level-sociology-research-approaches-and-data",
+"cambridge-o-level-sociology-2251-kq-1-1"
+],
+"o-level-sociology-reducing-inequality-and-globalisation-revision-notes": [
+"o-level-sociology-reducing-inequality-and-globalisation"
+],
+"o-level-sociology-social-control-and-identity-revision-notes": [
+"o-level-sociology-research-methods-identity-and-inequality",
+"o-level-sociology-learning-and-influences-on-identity",
+"cambridge-o-level-sociology-2251-kq-2-3",
+"cambridge-o-level-sociology-2251-kq-2-2"
+],
+"o-level-statistics-data-collection-revision-notes": [
+"o-level-cambridge-statistics-data-and-its-collection"
+],
+"o-level-statistics-summary-representation-revision-notes": [
+"o-level-cambridge-statistics-summary-representation-of-data"
+],
+"o-level-urdu-first-language-paper-2-texts-revision-notes": [
+"o-level-cambridge-urdu-first-language-paper-2-texts",
+"cambridge-o-level-urdu-language-3247-paper-2-unseen-passage",
+"cambridge-o-level-urdu-language-3247-paper-2-prose-essay",
+"cambridge-o-level-urdu-language-3247-paper-2-poetry-essay"
+],
+"o-level-urdu-second-language-paper-2-revision-notes": [
+"o-level-cambridge-urdu-second-language-paper-2-grammar-writing-translation",
+"cambridge-o-level-urdu-language-3248-exercise-4-translation",
+"cambridge-o-level-urdu-language-3248-exercise-2-multiple-choice-cloze"
+],
+"o-level-world-history-nineteenth-century-revision-notes": [
+"o-level-world-history-nineteenth-century-1848-1914",
+"cambridge-world-history-overseas-empires-nineteenth-century"
+],
+"o-level-world-history-twentieth-century-revision-notes": [
+"o-level-world-history-twentieth-century-1919-1989",
+"o-level-world-history-ussr-control-eastern-europe"
+],
+"ocr-gcse-business-j204-influences-on-business-ocr-gcse-business-revision-notes": [
+"ocr-gcse-business-j204-influences-on-business-ocr-gcse-business"
+],
+"ocr-gcse-business-j204-interdependent-nature-of-business-ocr-gcse-business-revision-notes": [
+"ocr-gcse-business-j204-interdependent-nature-of-business-ocr-gcse-business"
+],
+"oxfordaqa-a-level-biology-biological-molecules-enzymes-membranes-and-nucleic-acids-revision-notes": [
+"a-level-oxfordaqa-biology-diversity-of-living-organisms"
+],
+"oxfordaqa-a-level-computer-science-arrays-lists-revision-notes": [
+"a-level-oxfordaqa-computer-science-arrays-and-lists"
+],
+"oxfordaqa-a-level-computer-science-records-queues-stacks-revision-notes": [
+"a-level-oxfordaqa-computer-science-records-queues-and-stacks"
+],
+"oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts-revision-notes": [
+"oxfordaqa-a-level-english-language-9670-section-a-language-and-social-groups-texts"
+],
+"oxfordaqa-a-level-english-language-9670-section-a-learning-language-revision-notes": [
+"oxfordaqa-a-level-english-language-9670-section-a-learning-language"
+],
+"oxfordaqa-a-level-english-language-9670-section-a-understanding-texts-revision-notes": [
+"a-level-oxfordaqa-english-language-unit-1"
+],
+"oxfordaqa-a-level-english-language-9670-section-b-directed-writing-revision-notes": [
+"a-level-oxfordaqa-english-language-unit-1-directed-writing"
+],
+"oxfordaqa-a-level-english-language-9670-section-b-international-english-revision-notes": [
+"oxfordaqa-a-level-english-language-9670-section-b-international-english"
+],
+"oxfordaqa-a-level-english-language-9670-section-b-language-and-social-groups-writing-revision-notes": [
+"oxfordaqa-a-level-english-language-9670-section-b-language-and-social-groups-writing"
+],
+"oxfordaqa-a-level-english-literature-9675-unit-1-section-a-revision-notes": [
+"oxfordaqa-a-level-english-literature-9675-unit-1-section-a"
+],
+"oxfordaqa-a-level-english-literature-9675-unit-1-section-b-revision-notes": [
+"oxfordaqa-a-level-english-literature-9675-unit-1-section-b"
+],
+"oxfordaqa-a-level-english-literature-9675-unit-2-section-a-revision-notes": [
+"oxfordaqa-a-level-english-literature-9675-unit-2-section-a"
+],
+"oxfordaqa-a-level-english-literature-9675-unit-2-section-b-revision-notes": [
+"oxfordaqa-a-level-english-literature-9675-unit-2-section-b"
+],
+"oxfordaqa-a-level-geography-9635-coastal-systems-and-landscapes-revision-notes": [
+"oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems"
+],
+"oxfordaqa-a-level-geography-9635-fieldwork-skills-revision-notes": [
+"oxfordaqa-a-level-geography-9635-fieldwork-skills"
+],
+"oxfordaqa-a-level-geography-9635-geographical-skills-checklist-revision-notes": [
+"oxfordaqa-a-level-geography-9635-geographical-skills-checklist"
+],
+"oxfordaqa-a-level-geography-9635-hot-desert-systems-and-landscapes-revision-notes": [
+"oxfordaqa-a-level-geography-9635-unit-1a-hot-desert-systems"
+],
+"oxfordaqa-a-level-geography-9635-living-with-hazards-revision-notes": [
+"oxfordaqa-a-level-geography-9635-section-a-living-with-hazards"
+],
+"oxfordaqa-a-level-geography-9635-resource-security-revision-notes": [
+"oxfordaqa-a-level-geography-9635-resource-security"
+],
+"oxfordaqa-a-level-geography-globalisation-revision-notes": [
+"a-level-oxfordaqa-geography-global-systems-and-governance"
+],
+"oxfordaqa-a-level-geography-physical-revision-notes": [
+"a-level-oxfordaqa-geography-physical-geography-1"
+],
+"oxfordaqa-a-level-psychology-9685-biopsychology-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-biopsychology"
+],
+"oxfordaqa-a-level-psychology-9685-cognitive-development-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-cognitive-development"
+],
+"oxfordaqa-a-level-psychology-9685-memory-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-memory"
+],
+"oxfordaqa-a-level-psychology-9685-psychopathology-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-psychopathology"
+],
+"oxfordaqa-a-level-psychology-9685-research-methods-1-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-research-methods-1"
+],
+"oxfordaqa-a-level-psychology-9685-social-psychology-revision-notes": [
+"oxfordaqa-a-level-psychology-9685-social-psychology"
+],
+"oxfordaqa-a-level-psychology-biopsychology-development-revision-notes": [
+"a-level-oxfordaqa-psychology-biopsychology-development-research-methods",
+"oxfordaqa-a-level-psychology-9685-research-methods-1",
+"oxfordaqa-a-level-psychology-9685-cognitive-development",
+"oxfordaqa-a-level-psychology-9685-biopsychology"
+],
+"oxfordaqa-a-level-psychology-revision-notes": [
+"a-level-oxfordaqa-psychology-introductory-topics",
+"oxfordaqa-a-level-psychology-9685-social-psychology",
+"oxfordaqa-a-level-psychology-9685-psychopathology",
+"oxfordaqa-a-level-psychology-9685-memory"
+],
+"oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-artificial-intelligence-and-cyborgs"
+],
+"oxfordaqa-a-level-sociology-9690-built-human-environment-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-built-human-environment"
+],
+"oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-deviance-harm-and-crime"
+],
+"oxfordaqa-a-level-sociology-9690-digital-technologies-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-digital-technologies"
+],
+"oxfordaqa-a-level-sociology-9690-families-marriage-kinship-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-families-marriage-kinship"
+],
+"oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life"
+],
+"oxfordaqa-a-level-sociology-9690-human-impacts-on-environment-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-human-impacts-on-environment"
+],
+"oxfordaqa-a-level-sociology-9690-individuals-and-society-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-individuals-and-society"
+],
+"oxfordaqa-a-level-sociology-9690-individuals-socialisation-and-identities-revision-notes": [
+"a-level-oxfordaqa-sociology-exploring-sociology",
+"oxfordaqa-a-level-sociology-9690-socialisation",
+"oxfordaqa-a-level-sociology-9690-social-identities-social-change",
+"oxfordaqa-a-level-sociology-9690-individuals-and-society"
+],
+"oxfordaqa-a-level-sociology-9690-internet-social-and-new-media-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-internet-social-and-new-media"
+],
+"oxfordaqa-a-level-sociology-9690-migration-and-diasporas-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-migration-and-diasporas"
+],
+"oxfordaqa-a-level-sociology-9690-obstacles-to-progress-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-obstacles-to-progress"
+],
+"oxfordaqa-a-level-sociology-9690-people-and-animals-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-people-and-animals"
+],
+"oxfordaqa-a-level-sociology-9690-people-and-development-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-people-and-development"
+],
+"oxfordaqa-a-level-sociology-9690-people-and-technology-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-people-and-technology"
+],
+"oxfordaqa-a-level-sociology-9690-people-and-the-environment-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-people-and-the-environment"
+],
+"oxfordaqa-a-level-sociology-9690-perspectives-on-families-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-perspectives-on-families"
+],
+"oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-pre-and-non-digital-technologies"
+],
+"oxfordaqa-a-level-sociology-9690-research-methods-and-theory-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-research-methods-and-theory"
+],
+"oxfordaqa-a-level-sociology-9690-research-methods-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-research-methods"
+],
+"oxfordaqa-a-level-sociology-9690-social-change-changing-families-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-social-change-changing-families"
+],
+"oxfordaqa-a-level-sociology-9690-social-control-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-social-control"
+],
+"oxfordaqa-a-level-sociology-9690-social-identities-social-change-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-social-identities-social-change"
+],
+"oxfordaqa-a-level-sociology-9690-socialisation-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-socialisation"
+],
+"oxfordaqa-a-level-sociology-9690-the-great-divide-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-the-great-divide"
+],
+"oxfordaqa-a-level-sociology-9690-traditional-media-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-traditional-media"
+],
+"oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-what-is-meant-by-globalisation"
+],
+"oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation-revision-notes": [
+"oxfordaqa-a-level-sociology-9690-who-is-involved-in-globalisation"
+],
+"oxfordaqa-a-level-sociology-exploring-sociology-revision-notes": [
+"a-level-oxfordaqa-sociology-exploring-sociology",
+"oxfordaqa-a-level-sociology-9690-social-control",
+"oxfordaqa-a-level-sociology-9690-research-methods-and-theory"
+],
+"oxfordaqa-a-level-sociology-revision-notes": [
+"a-level-oxfordaqa-sociology-introducing-sociology",
+"oxfordaqa-a-level-sociology-9690-social-change-changing-families",
+"oxfordaqa-a-level-sociology-9690-research-methods",
+"oxfordaqa-a-level-sociology-9690-perspectives-on-families",
+"oxfordaqa-a-level-sociology-9690-gender-age-experience-family-life",
+"oxfordaqa-a-level-sociology-9690-families-marriage-kinship"
+],
+"oxfordaqa-english-language-revision-notes": [
+"igcse-oxfordaqa-english-language-paper-1",
+"oxfordaqa-igcse-english-language-9270-section-b-composition",
+"oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction"
+],
+"oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-competitive-environment-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-ethical-and-environmental-considerations-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-globalisation-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-legislation-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-technology-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business-revision-notes": [
+"oxfordaqa-igcse-business-9225-the-economic-climate-on-business-oxfordaqa-igcse-business"
+],
+"oxfordaqa-igcse-computer-science-9210-arithmetic-operations-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-arithmetic-operations"
+],
+"oxfordaqa-igcse-computer-science-9210-boolean-operations-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-boolean-operations"
+],
+"oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-classification-of-programming-languages-and-translators"
+],
+"oxfordaqa-igcse-computer-science-9210-data-structures-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-data-structures"
+],
+"oxfordaqa-igcse-computer-science-9210-data-types-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-data-types"
+],
+"oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling"
+],
+"oxfordaqa-igcse-computer-science-9210-programming-concepts-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-programming-concepts"
+],
+"oxfordaqa-igcse-computer-science-9210-random-number-generation-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-random-number-generation"
+],
+"oxfordaqa-igcse-computer-science-9210-relational-operations-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-relational-operations"
+],
+"oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming"
+],
+"oxfordaqa-igcse-computer-science-9210-string-handling-operations-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-string-handling-operations"
+],
+"oxfordaqa-igcse-computer-science-9210-structured-programming-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-structured-programming"
+],
+"oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions-revision-notes": [
+"oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions"
+],
+"oxfordaqa-igcse-computer-science-computer-networks-revision-notes": [
+"oxfordaqa-igcse-computer-science-computer-networks-study-guide"
+],
+"oxfordaqa-igcse-computer-science-computer-systems-revision-notes": [
+"oxfordaqa-igcse-computer-science-computer-systems-study-guide"
+],
+"oxfordaqa-igcse-computer-science-cyber-security-revision-notes": [
+"oxfordaqa-igcse-computer-science-cyber-security-study-guide"
+],
+"oxfordaqa-igcse-computer-science-data-representation-revision-notes": [
+"oxfordaqa-igcse-computer-science-data-representation-study-guide"
+],
+"oxfordaqa-igcse-computer-science-programming-revision-notes": [
+"igcse-oxfordaqa-computer-science-programming-fundamentals",
+"oxfordaqa-igcse-computer-science-9210-relational-operations",
+"oxfordaqa-igcse-computer-science-9210-programming-concepts",
+"oxfordaqa-igcse-computer-science-9210-data-types",
+"oxfordaqa-igcse-computer-science-9210-boolean-operations",
+"oxfordaqa-igcse-computer-science-9210-arithmetic-operations"
+],
+"oxfordaqa-igcse-computer-science-programming-structures-and-translators-revision-notes": [
+"igcse-oxfordaqa-computer-science-programming-structures-subroutines-translators",
+"oxfordaqa-igcse-computer-science-9210-subroutines-procedures-and-functions",
+"oxfordaqa-igcse-computer-science-9210-structured-programming",
+"oxfordaqa-igcse-computer-science-9210-string-handling-operations",
+"oxfordaqa-igcse-computer-science-9210-robust-and-secure-programming",
+"oxfordaqa-igcse-computer-science-9210-random-number-generation",
+"oxfordaqa-igcse-computer-science-9210-input-output-and-file-handling",
+"oxfordaqa-igcse-computer-science-9210-data-structures"
+],
+"oxfordaqa-igcse-computer-science-relational-databases-and-sql-revision-notes": [
+"oxfordaqa-igcse-computer-science-relational-databases-and-sql-study-guide"
+],
+"oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction-revision-notes": [
+"oxfordaqa-igcse-english-language-9270-section-a-literary-non-fiction"
+],
+"oxfordaqa-igcse-english-language-9270-section-a-reading-revision-notes": [
+"oxfordaqa-igcse-english-language-9270-section-a-reading"
+],
+"oxfordaqa-igcse-english-language-9270-section-b-composition-revision-notes": [
+"oxfordaqa-igcse-english-language-9270-section-b-composition"
+],
+"oxfordaqa-igcse-english-language-9270-section-b-writing-revision-notes": [
+"oxfordaqa-igcse-english-language-9270-section-b-writing"
+],
+"oxfordaqa-igcse-english-language-non-exam-assessment-revision-notes": [
+"oxfordaqa-igcse-english-language-non-exam-assessment-study-guide"
+],
+"oxfordaqa-igcse-english-language-speaking-and-listening-revision-notes": [
+"oxfordaqa-igcse-english-language-speaking-and-listening-optional-endorsement-study-guide"
+],
+"oxfordaqa-igcse-english-literature-9275-drama-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-drama"
+],
+"oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-non-exam-assessment-route-b"
+],
+"oxfordaqa-igcse-english-literature-9275-poetry-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-poetry"
+],
+"oxfordaqa-igcse-english-literature-9275-poetry-route-b-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-poetry-route-b"
+],
+"oxfordaqa-igcse-english-literature-9275-prose-fiction-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-prose-fiction"
+],
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry"
+],
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-unseen-poetry-route-b"
+],
+"oxfordaqa-igcse-english-literature-9275-unseen-prose-revision-notes": [
+"oxfordaqa-igcse-english-literature-9275-unseen-prose"
+],
+"oxfordaqa-igcse-geography-9230-climate-change-revision-notes": [
+"oxfordaqa-igcse-geography-9230-climate-change"
+],
+"oxfordaqa-igcse-geography-9230-coastal-processes-landforms-revision-notes": [
+"oxfordaqa-igcse-geography-9230-coastal-processes-landforms"
+],
+"oxfordaqa-igcse-geography-9230-ecosystems-revision-notes": [
+"oxfordaqa-igcse-geography-9230-ecosystems"
+],
+"oxfordaqa-igcse-geography-9230-enquiry-planning-revision-notes": [
+"oxfordaqa-igcse-geography-9230-enquiry-planning"
+],
+"oxfordaqa-igcse-geography-9230-fieldwork-data-collection-revision-notes": [
+"oxfordaqa-igcse-geography-9230-fieldwork-data-collection"
+],
+"oxfordaqa-igcse-geography-9230-photographs-sketches-revision-notes": [
+"oxfordaqa-igcse-geography-9230-photographs-sketches"
+],
+"oxfordaqa-igcse-geography-world-cities-london-new-york-revision-notes": [
+"oxfordaqa-igcse-geography-world-cities-london-new-york"
+],
+"oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-battles-badr-uhud-trench-khaibar-hunayn"
+],
+"oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-hijrah-madni-period"
+],
+"oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-life-after-death-death-rituals"
+],
+"oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-prophets-adam-ibraheem-musa-isa"
+],
+"oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-rights-of-neighbours-amanat"
+],
+"oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-salah-conditions-wudu-azaan"
+],
+"oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-sawm-rulings-taraweeh-laylat-ul-qadr"
+],
+"oxfordaqa-igcse-islamiyat-9237-schools-of-thought-revision-notes": [
+"oxfordaqa-igcse-islamiyat-9237-schools-of-thought"
+],
+"oxfordaqa-igcse-psychology-9218-biopsychology-revision-notes": [
+"oxfordaqa-igcse-psychology-9218-biopsychology"
+],
+"oxfordaqa-igcse-psychology-9218-communication-revision-notes": [
+"igcse-oxfordaqa-psychology-communication"
+],
+"oxfordaqa-igcse-psychology-9218-memory-revision-notes": [
+"oxfordaqa-igcse-psychology-9218-memory"
+],
+"oxfordaqa-igcse-psychology-9218-mental-health-revision-notes": [
+"igcse-oxfordaqa-psychology-mental-health"
+],
+"oxfordaqa-igcse-psychology-9218-perception-revision-notes": [
+"oxfordaqa-igcse-psychology-9218-perception"
+],
+"oxfordaqa-igcse-psychology-9218-research-methods-paper2-revision-notes": [
+"oxfordaqa-igcse-psychology-9218-research-methods-paper2"
+],
+"oxfordaqa-igcse-psychology-9218-research-methods-revision-notes": [
+"oxfordaqa-igcse-psychology-9218-research-methods"
+],
+"oxfordaqa-igcse-sociology-9292-education-revision-notes": [
+"oxfordaqa-igcse-sociology-9292-education"
+],
+"oxfordaqa-igcse-sociology-9292-families-revision-notes": [
+"oxfordaqa-igcse-sociology-9292-families"
+],
+"oxfordaqa-igcse-sociology-9292-research-methods-paper2-revision-notes": [
+"oxfordaqa-igcse-sociology-9292-research-methods-paper2"
+],
+"oxfordaqa-igcse-sociology-9292-research-methods-revision-notes": [
+"oxfordaqa-igcse-sociology-9292-research-methods"
+],
+"oxfordaqa-igcse-urdu-language-9264-education-post-16-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-education-post-16"
+],
+"oxfordaqa-igcse-urdu-language-9264-family-friends-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-family-friends"
+],
+"oxfordaqa-igcse-urdu-language-9264-free-time-activities-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-free-time-activities"
+],
+"oxfordaqa-igcse-urdu-language-9264-global-issues-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-global-issues"
+],
+"oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-home-town-neighbourhood"
+],
+"oxfordaqa-igcse-urdu-language-9264-jobs-career-choices-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-jobs-career-choices"
+],
+"oxfordaqa-igcse-urdu-language-9264-life-school-college-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-life-school-college"
+],
+"oxfordaqa-igcse-urdu-language-9264-my-studies-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-my-studies"
+],
+"oxfordaqa-igcse-urdu-language-9264-social-issues-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-social-issues"
+],
+"oxfordaqa-igcse-urdu-language-9264-technology-everyday-life-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-technology-everyday-life"
+],
+"oxfordaqa-igcse-urdu-language-9264-travel-tourism-revision-notes": [
+"oxfordaqa-igcse-urdu-language-9264-travel-tourism"
+],
+"oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-great-patriotic-war-and-late-stalinism"
+],
+"oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-medieval-islamic-medicine"
+],
+"oxfordaqa-igcse-world-history-9245-paper-1-section-a-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-paper-1-section-a"
+],
+"oxfordaqa-igcse-world-history-9245-paper-1-section-b-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-paper-1-section-b"
+],
+"oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-post-war-germany-1945-1949"
+],
+"oxfordaqa-igcse-world-history-9245-printing-revolution-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-printing-revolution"
+],
+"oxfordaqa-igcse-world-history-9245-source-question-4-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-source-question-4"
+],
+"oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-twelve-mark-judgement-question"
+],
+"oxfordaqa-igcse-world-history-9245-wider-peace-settlement-revision-notes": [
+"oxfordaqa-igcse-world-history-9245-wider-peace-settlement"
+],
+"pakistan-studies-history-revision-notes": [
+"igcse-pakistan-studies-history-and-culture-of-pakistan",
+"igcse-cambridge-pakistan-studies-nationhood-1947-99",
+"igcse-cambridge-pakistan-studies-emergence-of-pakistan-1906-47"
+],
+"pakistan-studies-land-revision-notes": [
+"igcse-cambridge-pakistan-studies-the-land-of-pakistan"
+],
+"periodic-table-revision-notes": [
+"periodic-table-groups-and-trends"
+],
+"practical-techniques-revision-notes": [
+"practical-techniques-titrations-chromatography-separation"
+],
+"rates-of-reaction-revision-notes": [
+"rates-of-reaction-and-reversible-reactions"
+],
+"sociology-family-education-crime-revision-notes": [
+"igcse-cambridge-sociology-family-education-crime",
+"cambridge-igcse-sociology-0495-kq-6-1",
+"cambridge-igcse-sociology-0495-kq-5-3",
+"cambridge-igcse-sociology-0495-kq-5-2",
+"cambridge-igcse-sociology-0495-kq-5-1",
+"cambridge-igcse-sociology-0495-kq-4-3",
+"cambridge-igcse-sociology-0495-kq-4-2",
+"cambridge-igcse-sociology-0495-kq-4-1"
+],
+"states-of-matter-revision-notes": [
+"states-of-matter-and-kinetic-particle-theory"
+],
+"statistics-data-collection-revision-notes": [
+"igcse-cambridge-statistics-data-and-its-collection"
+],
+"statistics-frequency-distributions-revision-notes": [
+"igcse-cambridge-statistics-frequency-distributions"
+],
+"statistics-representation-of-data-revision-notes": [
+"igcse-cambridge-statistics-representation-of-data"
+],
+"travel-graphs-revision-notes": [
+"graphs-in-practical-situations"
+],
+"urdu-reading-and-writing-revision-notes": [
+"igcse-cambridge-urdu-paper-1-reading-writing"
+]
+}

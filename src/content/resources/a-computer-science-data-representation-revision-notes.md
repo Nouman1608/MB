@@ -48,6 +48,16 @@ binary  base 2    denary base 10    hexadecimal base 16
 
 Hexadecimal is used because it is far more compact than binary and each hex digit maps to exactly **four** binary digits, making conversion trivial and human error less likely — used for memory addresses, colour codes and MAC addresses.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--13-ir-denary-binary.webp" width="900" height="900" alt="Repeated division of 45 by 2: quotients 22, 11, 5, 2, 1, 0 with remainders 1, 0, 1, 1, 0, 1. Reading the remainders from bottom to top gives 101101, which is 32 + 8 + 4 + 1 = 45." loading="lazy">
+  <figcaption>Divide by 2 until you reach 0, then read the remainders from the bottom up.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--14-ir-binary-hex.webp" width="900" height="800" alt="The 8-bit binary number 10110110 is split into two nibbles, 1011 and 0110. 1011 is 11, hex digit B. 0110 is 6, hex digit 6. So the number is B6 in hexadecimal, which is 182 in denary. This works because 16 is 2 to the power 4." loading="lazy">
+  <figcaption>Each group of four bits becomes one hex digit, because 16 = 2^4.</figcaption>
+</figure>
+
 ## Binary and decimal prefixes
 
 | Binary prefix | Value | Decimal prefix | Value |
@@ -91,6 +101,11 @@ The **most significant bit indicates the sign**: 0 positive, 1 negative.
 
 **Binary subtraction:** to work out A − B, add A to the two's complement of B and ignore any carry out of the most significant bit. Example: 9 − 5 = 00001001 + 11111011 = (1)00000100 = 4.
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--15-ir-twos-complement.webp" width="900" height="660" alt="Starting from +45 as 8-bit binary 00101101, invert every bit to get 11010010, then add 1 to get 11010011. With place values -128, 64, 32, 16, 8, 4, 2, 1 this is -128 + 64 + 16 + 2 + 1 = -45." loading="lazy">
+  <figcaption>To write a negative number in two's complement, invert every bit of the positive value and add 1.</figcaption>
+</figure>
+
 ## Binary shifts
 
 - **Logical left shift** by n → multiply by 2ⁿ.
@@ -132,6 +147,16 @@ Syllabus terms to use:
 
 Worked size estimate: a 1200 × 800 image at 24-bit colour depth = 1200 × 800 × 24 = 23 040 000 bits = 2 880 000 bytes, about 2.75 MiB (2.88 MB).
 
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--16-ir-image-size.webp" width="900" height="830" alt="A 4 by 4 pixel bitmap at 8 bits per pixel is 4 x 4 x 8 = 128 bits. Doubling width and height gives an 8 by 8 bitmap with 64 pixels, 8 x 8 x 8 = 512 bits, four times as much. 8 bits per pixel allows 2 to the power 8 = 256 colours." loading="lazy">
+  <figcaption>Image size = width x height x colour depth, so doubling both width and height quadruples the file size.</figcaption>
+</figure>
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--17-ir-sound-sampling.webp" width="900" height="970" alt="Four plots of the same sound wave. Top row: sampled 8 times per second (few dots, a rough match) and 24 times per second (many dots, a closer match). Bottom row: each sample stored with 2 bits (4 possible levels) and with 3 bits (8 levels); more levels match the wave more closely. Both improvements make the file bigger: size = rate x resolution x duration." loading="lazy">
+  <figcaption>A higher sampling rate takes more samples per second; a higher sampling resolution gives each sample more possible values. Both raise quality and file size.</figcaption>
+</figure>
+
 ## Compression
 
 | | Lossless | Lossy |
@@ -152,6 +177,11 @@ How each file type can be compressed (1.3):
 | Bitmap image | Lossless RLE on runs of the same colour, or lossy (reduce colour depth or resolution, or discard detail the eye barely sees) |
 | Vector graphic | Usually already small; lossless compression of the drawing list |
 | Sound | Lossy: reduce sampling rate or resolution, or remove sounds outside human hearing or masked by louder sounds; lossless methods also exist |
+
+<figure class="topic-figure">
+  <img src="https://img.marlbridge.com/a-level-computer-science-information-representation--19-ir-compression.webp" width="900" height="1120" alt="Top: run-length encoding. A row of 10 squares, 5 teal, 3 gold and 2 navy, is stored as three count-and-colour pairs, then decoded back to exactly the original row. Bottom: lossy compression by reducing colour depth. Eight shades of grey are merged into four, and the original eight cannot be recovered." loading="lazy">
+  <figcaption>Lossless compression (run-length encoding) can be undone exactly; lossy compression (such as reducing colour depth) permanently discards information.</figcaption>
+</figure>
 
 ## Frequently asked questions
 
