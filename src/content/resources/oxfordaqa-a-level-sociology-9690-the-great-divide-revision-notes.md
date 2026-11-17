@@ -104,6 +104,14 @@ Acemoglu and Robinson (2012); Sen (1999).
 - Political: colonial borders, inherited authoritarian structures.
 - Social: racism, colonial languages, diasporas.
 
+## Evaluation lines to reuse
+
+- "Internal explanations such as Weber's explain why enterprise was valued, but not where the land,
+  labour and raw materials came from."
+- "Rapid growth in some former colonies weakens dependency theory, but those cases often involved
+  strong states and favourable Cold War alliances."
+- "Polanyi shows market society was built by enclosure and state action, not by values alone."
+
 ## Exam traps
 
 - Colonialism and neocolonialism used interchangeably.

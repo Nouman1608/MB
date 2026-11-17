@@ -25,7 +25,7 @@ featured: false
 > practice on this content. They are **not** reproduced past-paper questions,
 > and they do **not** replicate the exam's exact structure, question count or
 > mark tariffs -- examination boards hold copyright in their own papers. Use
-> these alongside the official past papers from your board or school.
+> these alongside the past or specimen papers from your board or school.
 
 Related: [the Great Divergence study guide](/resources/oxfordaqa-a-level-sociology-9690-the-great-divide/)
 
