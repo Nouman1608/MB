@@ -302,8 +302,8 @@ const H = {
   const sec = (x, title, low, high, platW) => {
     let s = panel(x, 0, 410, 300);
     const g = 250, cx = x + 300;
-    s += `<rect x="${x + 2}" y="${high}" width="${cx - x - 2}" height="${g - high}" fill="${C.tealLight}"/>`;
-    s += `<path d="M${cx},40 L${x + 408},40 L${x + 408},${g + 48} L${x + 2},${g + 48} L${x + 2},${g} L${cx - platW},${g - 6} L${cx},${g - 10} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+    s += `<rect x="${x + 2}" y="${high}" width="${cx - x - 2}" height="${g + 46 - high}" fill="${C.tealLight}"/>`;
+    s += `<path d="M${cx},40 L${x + 408},40 L${x + 408},${g + 48} L${x + 2},${g + 48} L${x + 2},${g + 44} L${cx - platW},${g - 4} L${cx},${g - 10} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
     s += `<rect x="${cx - 6}" y="${low - (high === low ? 0 : 0)}" width="12" height="${0}" fill="none"/>`;
     s += `<line x1="${x + 2}" y1="${high}" x2="${cx}" y2="${high}" stroke="${C.tealDark}" stroke-width="2.5" stroke-dasharray="8 6"/>` + `<line x1="${x + 2}" y1="${low}" x2="${cx}" y2="${low}" stroke="${C.tealDark}" stroke-width="2.5" stroke-dasharray="8 6"/>`;
     s += T(x + 14, high - 8, 'high tide', { size: 15, fill: C.tealDark, weight: 600 }) + T(x + 14, low + 20, 'low tide', { size: 15, fill: C.tealDark, weight: 600 });
@@ -316,8 +316,9 @@ const H = {
     const b = sec(460, 'Large tidal range', 220, 110, 180);
     let s = `<g transform="translate(0,${y})">${a}${b}</g>`;
     s += T(250, y + 125, 'attack focused:', { size: 15, weight: 700, fill: C.rust, anchor: 'end' }) + T(250, y + 143, 'a notch forms', { size: 15, weight: 700, fill: C.rust, anchor: 'end' });
-    s += T(530, y + 290, 'attack spread: broad wave-cut platform', { size: 15, weight: 700, fill: C.rust });
-    s += `<line x1="580" y1="${y + 276}" x2="700" y2="${y + 246}" stroke="${C.rust}" stroke-width="2"/>`;
+    s += T(480, y + 175, 'attack spread over a wide zone:', { size: 15, weight: 700, fill: C.rust }) + T(480, y + 194, 'a broad wave-cut platform forms', { size: 15, weight: 700, fill: C.rust });
+    s += `<path d="M${580},${y + 262} L${580},${y + 270} L${760},${y + 270} L${760},${y + 262}" fill="none" stroke="${C.olive}" stroke-width="2.5"/>` + T(670, y + 290, 'broad platform', { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
+    s += `<path d="M${290},${y + 262} L${290},${y + 270} L${330},${y + 270} L${330},${y + 262}" fill="none" stroke="${C.olive}" stroke-width="2.5"/>` + T(250, y + 290, 'narrow platform', { size: 15, weight: 700, anchor: 'middle', fill: C.olive });
     s += T(870, y + 318, 'Schematic, not to scale', { size: 15, anchor: 'end', fill: C.muted, italic: true });
     return { s, h: 322 };
   },
@@ -334,7 +335,7 @@ const H = {
 // 02 Sediment budget two scenarios
 {
   const blocks = [(y) => {
-    const k = 0.022, x0 = 300; let s = '';
+    const k = 0.026, x0 = 300; let s = '';
     const bar = (yy, v, lab, f, x = x0) => `<rect x="${x}" y="${yy}" width="${v * k}" height="34" fill="${f}" stroke="${C.ink}" stroke-width="2"/>` + T(x + v * k / 2, yy + 23, lab, { size: 15, weight: 700, anchor: 'middle' });
     const scen = (yy, title, ins, outs, total, pos) => {
       let o = panel(30, yy, 840, 200, pos ? C.panel : C.panel, pos ? C.tealDark : C.rust) + T(50, yy + 34, title, { size: 19, weight: 700 });
@@ -359,31 +360,30 @@ const H = {
 {
   const stage = (x, y, w, n, title, opts) => {
     let s = panel(x, y, w, 230);
-    const sea = y + 150, base = y + 196;
-    const cx = x + w - 80 - opts.retreat;
-    s += `<rect x="${x + 2}" y="${sea}" width="${w - 4}" height="${base - sea + 30}" fill="${C.tealLight}"/>`;
-    // platform + cliff
-    let d = `M${x + 2},${base} L${cx - opts.plat},${base - 4} L${cx},${sea + 4}`;
-    if (opts.notch) d += ` L${cx},${sea - 6} L${cx - 0},${sea - 6} L${cx + 18},${sea - 8} L${cx + 18},${sea - 26} L${cx},${sea - 30}`;
-    d += ` L${cx},${y + 50} L${x + w - 2},${y + 50} L${x + w - 2},${base + 30} L${x + 2},${base + 30} Z`;
+    const top = y + 74, sea = y + 160, base = y + 214;
+    const cf = x + w - 60 - opts.retreat, px = Math.max(x + 40, cf - opts.plat);
+    s += `<rect x="${x + 2}" y="${sea}" width="${w - 4}" height="${y + 228 - sea}" fill="${C.tealLight}"/>`;
+    let d = `M${x + 2},${y + 228} L${x + 2},${base} L${px - 30},${base} L${px},${sea + 30} L${cf},${sea + 8}`;
+    if (opts.notch) d += ` L${cf},${sea - 4} L${cf + 18},${sea - 8} L${cf + 18},${sea - 24} L${cf},${sea - 28}`;
+    d += ` L${cf},${top} L${x + w - 2},${top} L${x + w - 2},${y + 228} Z`;
     s += `<path d="${d}" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
-    if (opts.overhang) s += `<path d="M${cx - 20},${sea - 30} L${cx},${sea - 30} L${cx},${y + 50} L${cx - 20},${y + 50} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-dasharray="7 5"/>`;
-    if (opts.debris) s += [0, 1, 2, 3].map((i) => `<circle cx="${cx - 20 - i * 14}" cy="${sea + 2 - (i % 2) * 6}" r="7" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>`).join('');
-    if (opts.old) s += `<line x1="${x + w - 80}" y1="${y + 50}" x2="${x + w - 80}" y2="${sea}" stroke="${C.ink}" stroke-width="2" stroke-dasharray="6 5"/>`;
-    s += `<line x1="${x + 2}" y1="${sea}" x2="${x + w - 2}" y2="${sea}" stroke="${C.tealDark}" stroke-width="2"/>`;
+    if (opts.overhang) s += `<path d="M${cf - 20},${sea - 28} L${cf},${sea - 28} L${cf},${top} L${cf - 20},${top} Z" fill="none" stroke="${C.ink}" stroke-width="2.5" stroke-dasharray="7 5"/>`;
+    if (opts.debris) s += [0, 1, 2, 3].map((i) => `<circle cx="${cf - 14 - i * 15}" cy="${sea + 14 + i * 4}" r="7" fill="${C.rockDark}" stroke="${C.ink}" stroke-width="2"/>`).join('');
+    if (opts.old) s += `<line x1="${x + w - 60}" y1="${top}" x2="${x + w - 60}" y2="${sea}" stroke="${C.ink}" stroke-width="2" stroke-dasharray="6 5"/>`;
+    s += `<line x1="${x + 2}" y1="${sea}" x2="${cf}" y2="${sea}" stroke="${C.tealDark}" stroke-width="2"/>`;
     s += badge(x + 24, y + 26, 16, n, C.cream) + T(x + 48, y + 32, title, { size: 16, weight: 700 });
-    if (opts.lbl) s += T(x + 14, y + 222, opts.lbl, { size: 15, fill: C.muted });
+    if (opts.lbl) s += T(x + 16, y + 58, opts.lbl, { size: 15, fill: C.muted });
     return s;
   };
   const blocks = [(y) => {
     const w = 270, g = 15;
     let s = '';
-    s += stage(30, y, w, '1', 'Waves attack the base', { retreat: 0, plat: 30, lbl: 'between high and low tide' });
-    s += stage(30 + w + g, y, w, '2', 'Notch is cut', { retreat: 0, plat: 30, notch: true, lbl: 'hydraulic action, quarrying, abrasion' });
-    s += stage(30 + 2 * (w + g), y, w, '3', 'Overhang collapses', { retreat: 20, plat: 50, overhang: true, debris: true, lbl: 'mass movement' });
-    s += stage(30, y + 245, w, '4', 'Debris removed', { retreat: 50, plat: 80, old: true, lbl: 'the cliff retreats inland' });
-    s += stage(30 + w + g, y + 245, w, '5', 'Platform widens', { retreat: 100, plat: 130, old: true, lbl: 'smoothed by abrasion' });
-    s += stage(30 + 2 * (w + g), y + 245, w, '6', 'Retreat slows', { retreat: 120, plat: 150, old: true, lbl: 'negative feedback' });
+    s += stage(30, y, w, '1', 'Waves attack the base', { retreat: 0, plat: 20, lbl: 'between high and low tide' });
+    s += stage(30 + w + g, y, w, '2', 'Notch is cut', { retreat: 0, plat: 20, notch: true, lbl: 'hydraulic action, quarrying, abrasion' });
+    s += stage(30 + 2 * (w + g), y, w, '3', 'Overhang collapses', { retreat: 18, plat: 40, overhang: true, debris: true, lbl: 'mass movement' });
+    s += stage(30, y + 245, w, '4', 'Debris removed', { retreat: 45, plat: 80, old: true, lbl: 'the cliff retreats inland' });
+    s += stage(30 + w + g, y + 245, w, '5', 'Platform widens', { retreat: 85, plat: 120, old: true, lbl: 'smoothed by abrasion' });
+    s += stage(30 + 2 * (w + g), y + 245, w, '6', 'Retreat slows', { retreat: 100, plat: 150, old: true, lbl: 'negative feedback' });
     s += T(870, y + 494, 'Schematic, not to scale; dashed line = original cliff', { size: 15, anchor: 'end', fill: C.muted, italic: true });
     return { s, h: 500 };
   },
@@ -399,18 +399,16 @@ const H = {
     let s = '';
     const sec = (x, title, dip) => {
       let o = panel(x, y, 410, 300) + T(x + 20, y + 32, title, { size: 18, weight: 700 });
-      const sea = y + 240;
+      const sea = y + 240, id = `cp${dip}`;
       o += `<rect x="${x + 2}" y="${sea}" width="406" height="58" fill="${C.tealLight}"/>`;
-      if (dip === 'sea') {
-        o += `<path d="M${x + 120},${sea} L${x + 300},${y + 80} L${x + 408},${y + 80} L${x + 408},${y + 298} L${x + 120},${y + 298} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
-        for (let i = 1; i < 6; i++) o += `<line x1="${x + 120 + i * 50}" y1="${sea + 20}" x2="${x + 300 + i * 50}" y2="${y + 100 - 20 + 20}" stroke="${C.rockDark}" stroke-width="2"/>`;
-        o += arrow(x + 260, y + 120, x + 200, y + 180, { w: 4, color: C.rust, marker: 'ahR' }) + T(x + 150, y + 120, 'blocks slide', { size: 15, weight: 700, fill: C.rust, anchor: 'end' }) + T(x + 150, y + 138, 'along bedding', { size: 15, weight: 700, fill: C.rust, anchor: 'end' });
-        o += T(x + 20, y + 290, 'slope ≈ angle of dip', { size: 15, weight: 600 });
-      } else {
-        o += `<path d="M${x + 250},${sea} L${x + 250},${y + 80} L${x + 408},${y + 80} L${x + 408},${y + 298} L${x + 250},${y + 298} Z" fill="${C.rock}" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
-        for (let i = 0; i < 5; i++) o += `<line x1="${x + 252}" y1="${y + 110 + i * 35}" x2="${x + 406}" y2="${y + 80 + i * 35}" stroke="${C.rockDark}" stroke-width="2"/>`;
-        o += T(x + 20, y + 290, 'steep cliff', { size: 15, weight: 600 });
-      }
+      const poly = dip === 'sea' ? `M${x + 120},${sea + 56} L${x + 120},${sea} L${x + 300},${y + 80} L${x + 406},${y + 80} L${x + 406},${sea + 56} Z` : `M${x + 250},${sea + 56} L${x + 250},${y + 80} L${x + 406},${y + 80} L${x + 406},${sea + 56} Z`;
+      o += `<clipPath id="${id}"><path d="${poly}"/></clipPath><path d="${poly}" fill="${C.rock}"/>`;
+      let lines = '';
+      if (dip === 'sea') for (let i = 0; i < 9; i++) lines += `<line x1="${x + 60 + i * 50}" y1="${sea + 60}" x2="${x + 300 + i * 50}" y2="${y + 20}" stroke="${C.rockDark}" stroke-width="2"/>`;
+      else for (let i = -2; i < 7; i++) lines += `<line x1="${x + 250}" y1="${y + 80 + i * 35}" x2="${x + 406}" y2="${y + 110 + i * 35}" stroke="${C.rockDark}" stroke-width="2"/>`;
+      o += `<g clip-path="url(#${id})">${lines}</g><path d="${poly}" fill="none" stroke="${C.ink}" stroke-width="3" stroke-linejoin="round"/>`;
+      if (dip === 'sea') o += arrow(x + 262, y + 112, x + 205, y + 168, { w: 4, color: C.rust, marker: 'ahR' }) + T(x + 20, y + 64, 'blocks slide along bedding;', { size: 15, weight: 700, fill: C.rust }) + T(x + 20, y + 84, 'slope ≈ angle of dip', { size: 15, weight: 700, fill: C.rust });
+      else o += T(x + 20, y + 64, 'steep cliff', { size: 15, weight: 700 });
       o += T(x + 400, y + 64, 'land', { size: 15, anchor: 'end', fill: C.muted }) + T(x + 30, sea + 30, 'sea', { size: 15, fill: C.tealDark });
       return o;
     };
@@ -438,7 +436,7 @@ F('05-management-options', 'Evaluating coastal management', 'Judge effectiveness
   (y) => {
     const pol = [['Hold the line', C.panel], ['Advance the line', C.panel], ['Managed realignment', C.tealLight], ['No active intervention', C.tealLight]];
     let s = panel(30, y, 840, 150, C.panel, C.tealDark) + T(50, y + 32, 'Shoreline management plan: a policy for each stretch, based on the whole sediment cell', { size: 16, weight: 700 });
-    pol.forEach(([p, f], i) => { s += `<rect x="${50 + i * 203}" y="${y + 56}" width="190" height="72" rx="10" fill="${f}" stroke="${C.tealDark}" stroke-width="2"/>` + para(50 + i * 203 + 95, y + 87, `**${p}**`, 170, { size: 16, anchor: 'middle', fill: C.ink, lh: 20 }).s; });
+    pol.forEach(([p, f], i) => { s += `<rect x="${50 + i * 203}" y="${y + 56}" width="190" height="72" rx="10" fill="${f}" stroke="${C.tealDark}" stroke-width="2"/>` + para(50 + i * 203 + 95, y + (tw(p, 16, 700) > 170 ? 87 : 97), `**${p}**`, 170, { size: 16, anchor: 'middle', fill: C.ink, lh: 20 }).s; });
     return { s, h: 150 };
   },
   (y) => note(y, 'Integrated coastal zone management', 'Coordinates all users and agencies over a whole coastline, so decisions in one place do not damage another.', { size: 16, fill: C.tealLight, edge: C.tealDark }),

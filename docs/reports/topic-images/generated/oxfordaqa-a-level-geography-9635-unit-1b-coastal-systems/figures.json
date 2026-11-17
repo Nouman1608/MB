@@ -6,7 +6,7 @@
   "after": "## Energy along a coastline",
   "alt": "Two schematic cliff cross-sections. With a small tidal range, high and low tide lines are close together, wave attack is focused on a narrow band and a notch forms. With a large tidal range, attack is spread over a wide zone and a broad wave-cut platform forms. Below, wave energy depends on wind speed, duration and fetch, and currents move released sediment.",
   "caption": "A small tidal range focuses erosion into a notch; a large range spreads it into a platform.",
-  "bytes": 79976
+  "bytes": 90246
  },
  {
   "file": "oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--02-sediment-budget-sea-wall.webp",
@@ -15,7 +15,7 @@
   "after": "## Sediment cells and budgets in practice",
   "alt": "Two bar diagrams to scale. In the natural bay, inputs of 12,000 cubic metres from cliffs and 4,000 from a river exceed outputs of 9,000 by drift and 2,500 by storms, giving plus 4,500 a year. After a sea wall stops cliff erosion, inputs fall to 4,000 against the same outputs, giving minus 7,500 a year.",
   "caption": "Stopping cliff erosion turns a gaining beach into a losing one.",
-  "bytes": 95062
+  "bytes": 95140
  },
  {
   "file": "oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--03-cliff-and-platform.webp",
@@ -24,7 +24,7 @@
   "after": "## Writing landform sequences",
   "alt": "Six schematic cross-sections: waves attack the cliff base between high and low tide; a notch is cut; the overhang collapses; debris is removed and the cliff retreats; a wave-cut platform widens; and retreat slows because waves break further offshore, a negative feedback.",
   "caption": "Notch, collapse, retreat: the platform that is left eventually slows the retreat.",
-  "bytes": 105248
+  "bytes": 100002
  },
  {
   "file": "oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--04-cliff-profile-geology.webp",
@@ -33,7 +33,7 @@
   "after": "## Writing landform sequences",
   "alt": "Two schematic cross-sections. Where rock beds dip seawards, blocks slide along the bedding planes and the cliff slopes at about the angle of dip. Where beds dip landwards, the cliff is steep. Below, strong jointed rock forms high vertical faces, weak clays slump, and sub-aerial processes lower the top while marine erosion steepens the base.",
   "caption": "Dip, rock strength and the balance of sub-aerial and marine processes set a cliff's profile.",
-  "bytes": 84316
+  "bytes": 85564
  },
  {
   "file": "oxfordaqa-a-level-geography-9635-unit-1b-coastal-systems--05-management-options.webp",
@@ -42,6 +42,6 @@
   "after": "## Evaluating coastal management",
   "alt": "Hard engineering (sea walls, groynes, rip-rap, revetments) gives immediate protection but costs more and interrupts sediment supply; soft engineering works with natural processes, as in the Netherlands Sand Motor of 2011. Below, the four shoreline management plan policies and integrated coastal zone management.",
   "caption": "Judge each option by its effects on the whole sediment cell, not one town.",
-  "bytes": 137080
+  "bytes": 137202
  }
 ]

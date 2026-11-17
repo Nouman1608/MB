@@ -393,26 +393,6 @@ F('04-defence-and-new-technology', 'Why defence was stronger than attack', null,
 
 // 05 The three battles on a time line
 {
-  const blocks = [(y) => {
-    const x0 = 200, x1 = 860, months = 24, mx = (m) => x0 + (m * (x1 - x0)) / months; // m: 0 = Jan 1916
-    let s = '';
-    for (let m = 0; m <= months; m += 1) s += `<line x1="${mx(m)}" y1="${y + 30}" x2="${mx(m)}" y2="${y + 300}" stroke="${m % 12 === 0 ? C.ink : C.panelEdge}" stroke-width="${m % 12 === 0 ? 2.5 : 1}"/>`;
-    s += T(mx(6), y + 18, '1916', { size: 18, weight: 700, anchor: 'middle' }) + T(mx(18), y + 18, '1917', { size: 18, weight: 700, anchor: 'middle' });
-    const bar = (row, a, b, label, sub, fill, edge) => {
-      const yy = y + 50 + row * 82;
-      return T(30, yy + 26, label, { size: 18, weight: 700 }) + T(30, yy + 48, sub, { size: 15, fill: C.muted }) +
-        `<rect x="${mx(a)}" y="${yy}" width="${mx(b) - mx(a)}" height="54" rx="8" fill="${fill}" stroke="${edge}" stroke-width="2.5"/>`;
-    };
-    s += bar(0, 1.67, 12, 'Verdun', 'German attack', C.cream, C.olive) + T(mx(1.67) + 12, y + 83, '21 Feb - Dec 1916', { size: 16, weight: 600 });
-    s += bar(1, 6, 11, 'Somme', 'British-led', C.tealLight, C.tealDark) + T(mx(6) + 12, y + 165, '1 Jul - Nov 1916', { size: 16, weight: 600 });
-    s += bar(2, 5, 6, 'Messines', 'British', C.panel, C.ink);
-    s += T(mx(6) + 10, y + 247, 'June 1917', { size: 16, weight: 600 });
-    s += `<rect x="${mx(18.97)}" y="${y + 214}" width="${mx(23) - mx(18.97)}" height="54" rx="8" fill="${C.tealLight}" stroke="${C.tealDark}" stroke-width="2.5"/>` + T(mx(18.97) + 10, y + 247, '31 Jul - Nov 1917', { size: 15, weight: 600 });
-    s += T(mx(14.6), y + 247, 'Passchendaele →', { size: 16, weight: 700, anchor: 'middle' });
-    // Messines bar was placed in 1916 row by index; redraw correctly at 1917 June
-    return { s, h: 300 };
-  }];
-  // simpler, explicit version
   const blocks2 = [(y) => {
     const x0 = 210, x1 = 860, months = 24, mx = (m) => x0 + (m * (x1 - x0)) / months;
     let s = panel(30, y, 840, 330);
